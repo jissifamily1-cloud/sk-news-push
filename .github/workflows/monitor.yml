@@ -1,0 +1,70 @@
+name: sk-news-push
+
+# 10분마다 4개 모니터를 한 번에 실행 (matrix). 발송 시간대(06~22시 KST)
+# 가드는 engine.py 안에서 처리하므로 야간 실행은 자동 스킵된다.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sk-news-push
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    strategy:
+      max-parallel: 1          # state 커밋 충돌 방지 위해 순차 실행
+      matrix:
+        config: [sk_family, sk_foundation, sk_issue, sk_group]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Syntax check
+        run: python -m py_compile engine.py common.py configs/*.py
+
+      - name: Run monitor (${{ matrix.config }})
+        env:
+          CONFIG: ${{ matrix.config }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: python engine.py
+
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- state/; then
+            echo "state unchanged - skip"
+            exit 0
+          fi
+          cp -r state /tmp/_ours_state
+          for i in 1 2 3 4 5; do
+            git fetch -q origin "${GITHUB_REF_NAME}"
+            git checkout -qfB "${GITHUB_REF_NAME}" "origin/${GITHUB_REF_NAME}"
+            cp -rf /tmp/_ours_state/* state/
+            git add state/
+            if git diff --cached --quiet; then
+              echo "same as remote - skip"
+              exit 0
+            fi
+            git commit -qm "update state (${{ matrix.config }}) [skip ci]"
+            if git push -q origin "${GITHUB_REF_NAME}"; then
+              echo "state pushed (try $i)"
+              exit 0
+            fi
+            echo "push race - retry $i"
+            sleep $((RANDOM % 4 + 2))
+          done
+          echo "state push skipped after retries (next run recovers)"
+          exit 0
