@@ -655,7 +655,15 @@
   "https://www.newsis.com/view/NISX20260630_0003690334",
   "https://www.jbnews.com/news/articleView.html?idxno=1506815",
   "https://www.kyeongin.com/article/1766491",
-  "https://www.kyeongin.com/article/1766492"
+  "https://www.kyeongin.com/article/1766492",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1326239",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166729",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255626",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260701.22005009308",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260701.22019009504",
+  "https://www.yna.co.kr/view/AKR20260630183600007?input=1195m",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255624",
+  "https://www.segye.com/newsView/20260630516694?OutUrl=naver"
  ],
  "seen_titles": [
   "광주·전남건설주,반도체클러스터기대감에주가롤러코스터",
@@ -1307,7 +1315,15 @@
   "\"인재지키려면韓처럼\"…일본반도체도'삼전닉스식성과급'",
   "1일부터청주레미콘노조총파업…SK하이닉스공장은차질없어",
   "[경인칼럼]청년실업과기업가정신",
-  "[노트북]벼락거지"
+  "[노트북]벼락거지",
+  "이재명대통령\"호남투자,역사적으로조족지혈불과\"",
+  "[주식마감]삼전닉스'호남메가프로젝트'에금호건설3거래일연속상...",
+  "집값잡으려다전세난심화···동탄·기흥·구리규제통할까",
+  "“반도체투자왜호남에”국힘PK의원들뒷북항의",
+  "[사설]민선9기,지역경제와민생회복에역량쏟아야",
+  "정관장변준형·KCC허훈,프로농구'연봉킹'…나란히8억원",
+  "알고리즘-암호가자산이란착각···AI가해체한두개의종교",
+  "환율연말1400원대로…‘만스피’돌파낙관론우세"
  ],
  "recent_sigs": [
   [
@@ -2153,9 +2169,17 @@
   [
    "2026-06-30T19:32:04.952636+09:00",
    "벼락거지"
+  ],
+  [
+   "2026-06-30T19:41:51.731822+09:00",
+   "착각 암호가 알고리즘 개의 종교 AI가 해체한 자산이란"
+  ],
+  [
+   "2026-06-30T19:41:51.731822+09:00",
+   "우세 낙관론 돌파 연말 1400원대로 환율 만스피"
   ]
  ],
- "last_run": "2026-06-30T19:32:18.696569+09:00",
+ "last_run": "2026-06-30T19:42:03.574801+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -2248,6 +2272,7 @@
   "sjbnews.com": "sjbnews.com",
   "koreajoongangdaily.com": "koreajoongangdaily",
   "jemin.com": "제민일보",
-  "kyeongin.com": "경인일보"
+  "kyeongin.com": "경인일보",
+  "womaneconomy.co.kr": "여성경제신문"
  }
 }
