@@ -1114,7 +1114,14 @@
   "https://www.nocutnews.co.kr/news/6541079",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=758485",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598962",
-  "https://www.etoday.co.kr/news/view/2598792"
+  "https://www.etoday.co.kr/news/view/2598792",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030045843&code=61141211&cp=nv",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=299761",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61028",
+  "https://www.newsverse.kr/news/articleView.html?idxno=10845",
+  "http://www.fnnews.com/news/202606301621073825",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714568",
+  "https://www.sedaily.com/article/20062102"
  ],
  "seen_titles": [
   "광주·전남건설주,반도체클러스터기대감에주가롤러코스터",
@@ -2225,7 +2232,14 @@
   "통합의회1호조례는반도체…91명만장일치가결",
   "9대제약사,5대바이오사주가모두'고배'....동국제약홀로12%상승",
   "세수는‘훌쩍’고용은‘글쎄’…반도체경제효과따져보니",
-  "7월국내증시갈림길선다⋯‘삼전닉스’사상최고실적vs금리인상..."
+  "7월국내증시갈림길선다⋯‘삼전닉스’사상최고실적vs금리인상...",
+  "‘자,코스피150배거세요’…해외코인거래소레버리지주의보",
+  "7월LPG판매가격'소폭인상'...kg당50원",
+  "이통3사,정보보호에3,675억쏟았다…SKT'53.7%폭증'선두",
+  "AI시대에웬돌도끼정치...정청래는'적통론'왜?",
+  "25만원에서220만원됐는데…외국인은\"아직도싸다\"며사들이는이종...",
+  "삼성·SK투자에웃는반도체장비업체…ASML사상최고가",
+  "삼성·SK팹발표전에…광주토지‘건당거래액’42%뛰었다[집슐랭..."
  ],
  "recent_sigs": [
   [
@@ -2343,9 +2357,29 @@
   [
    "2026-07-01T06:21:21.897715+09:00",
    "인상 최고 국내 vs 증시 실적 7월 금리 삼전닉스 사상 선다 갈림길"
+  ],
+  [
+   "2026-07-01T06:31:35.273088+09:00",
+   "쏟았다 675억 정보보호에 폭증 이통3사 선두 SKT"
+  ],
+  [
+   "2026-07-01T06:31:35.273088+09:00",
+   "정청래는 시대에 돌도끼 정치 적통론 AI"
+  ],
+  [
+   "2026-07-01T06:31:35.273088+09:00",
+   "아직도 사들이는 됐는데 외국인은 25만원에서 220만원 싸다"
+  ],
+  [
+   "2026-07-01T06:31:35.273088+09:00",
+   "최고가 웃는 ASML 반도체 사상 삼성 투자에 장비업체"
+  ],
+  [
+   "2026-07-01T06:31:35.273088+09:00",
+   "뛰었다 거래액 광주 토지 전에 삼성 집슐랭 건당 발표"
   ]
  ],
- "last_run": "2026-07-01T06:21:44.560750+09:00",
+ "last_run": "2026-07-01T06:31:54.616858+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -2470,6 +2504,7 @@
   "newsfreezone.co.kr": "뉴스프리존",
   "kgnews.co.kr": "경기신문",
   "jbsori.com": "전북의소리",
-  "nocutnews.co.kr": "노컷뉴스"
+  "nocutnews.co.kr": "노컷뉴스",
+  "newsverse.kr": "뉴스버스(Newsverse)"
  }
 }
