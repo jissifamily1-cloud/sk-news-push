@@ -1140,7 +1140,18 @@
   "http://www.e2news.com/news/articleView.html?idxno=331837",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714575",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714574",
-  "http://www.itdaily.kr/news/articleView.html?idxno=240113"
+  "http://www.itdaily.kr/news/articleView.html?idxno=240113",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=305437",
+  "https://www.newsis.com/view/NISX20260630_0003690189",
+  "https://www.dailian.co.kr/news/view/1661832/?sc=Naver",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2284839",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847387",
+  "https://www.mt.co.kr/stock/2026/07/01/2026063022225978803",
+  "https://www.newsis.com/view/NISX20260630_0003689748",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606300519&t=NN",
+  "https://www.news1.kr/finance/blockchain-fintech/6212853",
+  "https://www.sedaily.com/article/20061930",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2284845"
  ],
  "seen_titles": [
   "광주·전남건설주,반도체클러스터기대감에주가롤러코스터",
@@ -2277,7 +2288,18 @@
   "[3대메가프로젝트]12차전기본·2035NDC이행전략다시짜야할판",
   "나스닥2분기21%폭등…AI가전쟁도이겼다",
   "﻿AI가한국성장률까지끌어올렸다…S&P\"반도체슈퍼사이클2028년까지...",
-  "[AI가속기③]실전배치시작한'K-AI반도체'"
+  "[AI가속기③]실전배치시작한'K-AI반도체'",
+  "[반도체투자로드맵]③삼성전자,광주'전공정'·충청'HBM'…AI반도체...",
+  "\"신사업발굴\"…케어랩스,아마존·삼전출신영입",
+  "대통령의빅쇼한번으로‘문조털래유’털리고마나",
+  "[전문인칼럼]성과급시대,상생의분배",
+  "호남권메가투자에커지는장보기시장…이커머스수요확대기대",
+  "30년'천스닥',천대벗어날까…150조소방수투입→마른돈줄적신다",
+  "증권가\"하반기만스피간다\"…주도주는단연반도체",
+  "'변동성주범'삼전·닉스2배…그때그랬더라면[B급기자의B급리포트...",
+  "코인주춤하자'금'키우는가상자산기업들…선물·옵션·대출확대",
+  "SK바사,백신·CDMO쌍끌이…두자릿수성장탄력[바이오리더스클럽]",
+  "[여백]칼끝경쟁의반도체산업"
  ],
  "recent_sigs": [
   [
@@ -2467,9 +2489,49 @@
   [
    "2026-07-01T06:58:13.186362+09:00",
    "실전 반도체 배치 AI 시작한"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "영입 발굴 삼전 신사업 출신 아마존 케어랩스"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "문조털래유 번으로 털리고 대통령의 빅쇼 마나"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "시대 상생의 성과급 분배"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "수요 메가투자에 시장 호남권 기대 장보기 이커머스 확대 커지는"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "천대 천스닥 마른 적신다 투입 소방수 돈줄 벗어날까 150조 30년"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "반도체 증권가 만스피 간다 하반기 주도주는 단연"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "변동성 삼전 그때 닉스 B급기자의 B급리포트 그랬더라면 2배 주범"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "옵션 가상자산 키우는 기업들 확대 주춤하자 코인 대출 선물"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "성장 CDMO SK바사 쌍끌이 백신 탄력 두자릿수"
+  ],
+  [
+   "2026-07-01T07:01:40.967282+09:00",
+   "산업 반도체 칼끝 경쟁의"
   ]
  ],
- "last_run": "2026-07-01T06:58:29.476498+09:00",
+ "last_run": "2026-07-01T07:02:21.447504+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -2597,6 +2659,8 @@
   "nocutnews.co.kr": "노컷뉴스",
   "newsverse.kr": "뉴스버스(Newsverse)",
   "labortoday.co.kr": "매일노동뉴스",
-  "e2news.com": "이투뉴스"
+  "e2news.com": "이투뉴스",
+  "hansbiz.co.kr": "한스경제",
+  "wowtv.co.kr": "wowtv.co.kr"
  }
 }
