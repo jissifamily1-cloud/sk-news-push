@@ -68,6 +68,7 @@ PRESS_FETCH_MAX = 10
 PRESS_FETCH_TIMEOUT = 8
 
 PRESS_MAP = {
+    "ekn.kr": "에너지경제",
     "it.chosun.com": "IT조선", "biz.chosun.com": "조선비즈", "chosun.com": "조선일보",
     "joongang.co.kr": "중앙일보", "donga.com": "동아일보", "hani.co.kr": "한겨레",
     "khan.co.kr": "경향신문", "hankookilbo.com": "한국일보", "kmib.co.kr": "국민일보",
