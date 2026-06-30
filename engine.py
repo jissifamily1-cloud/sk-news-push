@@ -469,7 +469,7 @@ def main():
                 key, tkey, toks = to_send[idx][6], to_send[idx][7], to_send[idx][8]
                 excerpt = ("\n" + _h(desc[:200]) + ("..." if len(desc) > 200 else "")) if desc else ""
                 try:
-                    _post_telegram("%s\n<a href=\"%s\">%s</a>%s" % (_h(name), url, _h(title), excerpt))
+                    _post_telegram("<b>%s</b>\n<b><a href=\"%s\">%s</a></b>%s" % (_h(name), url, _h(title), excerpt))
                 except urllib.error.HTTPError as e:
                     if e.code == 429:
                         print("429 rate limit — stop (%d sent)" % sent)
