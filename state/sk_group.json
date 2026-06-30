@@ -699,7 +699,18 @@
   "https://www.kyeongin.com/article/1766506",
   "https://www.tokenpost.kr/news/market/373953",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714561",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=640138"
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=640138",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=63506",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=63501",
+  "http://www.paxetv.com/news/articleView.html?idxno=276022",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635230&plink=ORI&cooper=NAVER",
+  "https://www.namdonews.com/news/articleView.html?idxno=915387",
+  "http://www.ujeil.com/news/articleView.html?idxno=388053",
+  "https://news.knn.co.kr/news/article/189448",
+  "https://www.kukinews.com/article/view/kuk202606300167",
+  "https://www.segye.com/newsView/20260630519239?OutUrl=naver",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307011",
+  "https://www.khan.co.kr/article/202606302020005"
  ],
  "seen_titles": [
   "광주·전남건설주,반도체클러스터기대감에주가롤러코스터",
@@ -1395,7 +1406,18 @@
   "이재명대통령“3대메가프로젝트,모두가성장핵심열쇠”",
   "코스피,기관과개인매수세에8,400대회복하며상승마감",
   "[EBN오늘(30일)이슈종합]블랙록도,코페르닉도샀다…K제약에몰리는...",
-  "경남등부울경'반도체소외'강력반발계속…정국후폭풍"
+  "경남등부울경'반도체소외'강력반발계속…정국후폭풍",
+  "\"서남권900조투자프로젝트\"…균형발전새시험대올랐다",
+  "민주당경기도당,이재명대통령의'3대메가프로젝트'결단환영",
+  "SK하이닉스,서남권에400조원투자추진…반도체클러스터조성",
+  "광주서국민보고회…\"호남투자,경제원리따른것\"",
+  "李대통령,전남광주'첨단산업·에너지기반'시설현장헬기시찰",
+  "'울산시민아이디어'최우수상은'주차문제'",
+  "동남권투자확대약속'속빈강정'",
+  "환율1550원턱밑…금리·증시·엔화가변수",
+  "정철“트럼프,필요하면언제든지반도체100%관세부과할것”[인터...",
+  "외국인22조던졌다···삼전닉스공방전,어디에베팅할까",
+  "[경제직필]AI주식회사한국의위험한미래"
  ],
  "recent_sigs": [
   [
@@ -2285,9 +2307,37 @@
   [
    "2026-06-30T20:21:47.242204+09:00",
    "반발 경남 정국 반도체 부울경 후폭풍 계속 강력 소외"
+  ],
+  [
+   "2026-06-30T20:31:52.807902+09:00",
+   "시설 대통령 헬기 현장 전남광주 기반 첨단산업 에너지 시찰"
+  ],
+  [
+   "2026-06-30T20:31:52.807902+09:00",
+   "아이디어 울산시민 주차문제 최우수상은"
+  ],
+  [
+   "2026-06-30T20:31:52.807902+09:00",
+   "강정 확대 동남권 투자 약속"
+  ],
+  [
+   "2026-06-30T20:31:52.807902+09:00",
+   "환율 1550원 증시 금리 엔화가 턱밑 변수"
+  ],
+  [
+   "2026-06-30T20:31:52.807902+09:00",
+   "트럼프 관세 인터 반도체 필요하면 정철 부과할 언제든지"
+  ],
+  [
+   "2026-06-30T20:31:52.807902+09:00",
+   "외국인 어디에 공방전 22조 던졌다 삼전닉스 베팅할까"
+  ],
+  [
+   "2026-06-30T20:31:52.807902+09:00",
+   "주식회사 위험한 AI 미래 한국의"
   ]
  ],
- "last_run": "2026-06-30T20:21:56.947775+09:00",
+ "last_run": "2026-06-30T20:32:20.840348+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -2384,6 +2434,9 @@
   "womaneconomy.co.kr": "여성경제신문",
   "cctimes.kr": "충청타임즈",
   "jmbc.co.kr": "전주MBC",
-  "gnnews.co.kr": "경남일보"
+  "gnnews.co.kr": "경남일보",
+  "ujeil.com": "울산제일일보",
+  "news.knn.co.kr": "부산경남대표방송 KNN",
+  "greenpostkorea.co.kr": "그린포스트코리아"
  }
 }
