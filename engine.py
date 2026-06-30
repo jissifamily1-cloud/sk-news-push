@@ -314,9 +314,15 @@ def _fetch_site_name(url):
             data = resp.read(65536)
     except Exception:
         return None
-    head = data[:2048].decode("ascii", errors="ignore").lower()
-    enc = "euc-kr" if ("euc-kr" in head or "ms949" in head or "cp949" in head) else "utf-8"
-    text = data.decode(enc, errors="replace")
+    # Auto-detect encoding: decode as UTF-8 first; if too many replacement
+    # chars appear, fall back to CP949. Some outlets serve UTF-8 content but
+    # wrongly declare charset=euc-kr in meta, so trusting the meta corrupts.
+    text = data.decode("utf-8", errors="replace")
+    if text.count(chr(0xFFFD)) > 2:
+        try:
+            text = data.decode("cp949")
+        except Exception:
+            pass
     m = re.search(
         r'<meta[^>]+property=["\']og:site_name["\'][^>]+content=["\']([^"\']+)', text, re.I
     ) or re.search(
