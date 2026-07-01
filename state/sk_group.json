@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=250853",
-  "http://www.queen.co.kr/news/articleView.html?idxno=459534",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264074",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=36964",
-  "https://news.bizwatch.co.kr/article/real_estate/2026/06/30/0026",
-  "https://www.khan.co.kr/article/202606301725001",
-  "https://www.businessplus.kr/news/articleView.html?idxno=113528",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2284853",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030043708&code=61131811&cp=nv",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=59057",
   "https://www.g-enews.com/view.php?ud=2026063009514493823d7a510102_1",
   "https://www.joongdo.co.kr/web/view.php?key=20260630010008402",
@@ -2999,18 +2990,18 @@
   "https://www.g-enews.com/view.php?ud=202607020628124164fbbec65dfb_1",
   "https://www.getnews.co.kr/news/articleView.html?idxno=873882",
   "http://www.breaknews.com/1218505",
-  "https://www.news1.kr/industry/general-industry/6214982"
+  "https://www.news1.kr/industry/general-industry/6214982",
+  "http://www.osen.co.kr/article/G1112832343",
+  "https://en.yna.co.kr/view/AEN20260702000600320?input=2106m",
+  "https://www.slist.kr/news/articleView.html?idxno=748993",
+  "https://en.yna.co.kr/view/AEN20260702000700320?input=2106m",
+  "https://www.dailian.co.kr/news/view/1662149/?sc=Naver",
+  "https://www.sidae.com/article/2026070115211614979",
+  "https://www.aitimes.com/news/articleView.html?idxno=212308",
+  "https://www.christiantoday.co.kr/news/376003",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=937937"
  ],
  "seen_titles": [
-  "삼성·SK“용인반도체만으로부족…새클러스터,호남이적격”",
-  "[오늘증시]외국인매도에코스피상승폭축소…코스닥은차익실현에약...",
-  "삼성·SK하이닉스,서남권에메가투자…삼성425조원,SK400조원클러...",
-  "삼성·SK,서남권에896조원투자…반도체·AI데이터센터허브로키운...",
-  "SK·삼성등서남권반도체·데이터센터에896조원투자",
-  "6월30일코스피·코스닥상한가16종목총정리",
-  "'기습규제'에묶인동탄·기흥·구리…얼마나올랐길래",
-  "‘동탄·기흥·구리’규제지역·토허구역전격지정…‘뒷북’지적도",
-  "[뉴스+]삼성·SK,호남에825조원투자…'제2반도체벨트'구축",
   "패키징거점으론부족…충청권,새국가프로젝트선점해야",
   "“韓,AI시대‘유전’만든다”“국가적승부수”…中도주목한‘3대...",
   "[칼럼]넥써쓰의원스토어인수,독자생태계퍼즐맞췄다",
@@ -6001,7 +5992,16 @@
   "HBM이바꾼권력…메모리3사vs빅테크'산업주도권'충돌본격화",
   "뉴욕증시,차익실현성반도체주매도에하락...마이크론,10%↓",
   "국민의힘,장동혁윤리위돌파·정점식신중론속의회폭거총공세",
-  "'美상선단·전투함韓건조'불투명…'갈지자'의회에속타는K조선"
+  "'美상선단·전투함韓건조'불투명…'갈지자'의회에속타는K조선",
+  "“에디는미친놈이다!”농구대표팀여준석과막내에디다니엘,미친...",
+  "(EDITORIALfromKoreaHeraldonJuly2)",
+  "SK하이닉스,10일나스닥ADR상장...최대주주SK스퀘어주목",
+  "(EDITORIALfromKoreaTimesonJuly2)",
+  "[데일리안플라자]반도체는AI가아니다",
+  "메가프로젝트에미규제완화까지…ESS훈풍탄K배터리",
+  "[7월1일]\"AI시대최대리스크는기술이아닌불평등\"…다시거론된'엥...",
+  "SK하이닉스,월드비전과소외계층식생활교육‘행복쿡’",
+  "케어랩스,아마존·토스뱅크출신김지웅CSO영입"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,33 @@
   [
    "2026-07-02T06:53:48.791575+09:00",
    "갈지자 K조선 전투함 의회에 타는 불투명 건조 상선단"
+  ],
+  [
+   "2026-07-02T07:01:16.627720+09:00",
+   "from on July Times Korea EDITORIAL"
+  ],
+  [
+   "2026-07-02T07:01:16.627720+09:00",
+   "AI가 반도체는 아니다"
+  ],
+  [
+   "2026-07-02T07:01:16.627720+09:00",
+   "ESS 완화까지 훈풍 메가 프로젝트에 K배터리 규제"
+  ],
+  [
+   "2026-07-02T07:01:16.627720+09:00",
+   "시대 리스크는 아닌 다시 불평등 거론된 AI 기술이"
+  ],
+  [
+   "2026-07-02T07:01:16.627720+09:00",
+   "행복쿡 교육 식생활 월드비전과 SK하이닉스 소외계층"
+  ],
+  [
+   "2026-07-02T07:01:16.627720+09:00",
+   "아마존 김지웅 영입 CSO 출신 토스뱅크 케어랩스"
   ]
  ],
- "last_run": "2026-07-02T06:54:05.445288+09:00",
+ "last_run": "2026-07-02T07:01:38.650168+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6523,6 +6547,8 @@
   "hellot.net": "헬로티",
   "gokorea.kr": "공감신문",
   "viewsnnews.com": "viewsnnews.com",
-  "mhns.co.kr": "더쎈뉴스(The CEN News)"
+  "mhns.co.kr": "더쎈뉴스(The CEN News)",
+  "christiantoday.co.kr": "종교신문 1위 크리스천투데이",
+  "dailymedi.com": "데일리메디"
  }
 }
