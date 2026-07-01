@@ -514,7 +514,8 @@
   "https://sjbnews.com/news/news.php?number=881986",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599648",
   "http://www.dynews.co.kr/news/articleView.html?idxno=856398",
-  "https://www.inthenews.co.kr/news/article.html?no=88809"
+  "https://www.inthenews.co.kr/news/article.html?no=88809",
+  "https://kjmbc.co.kr/NewsArticle/1525601"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -1030,7 +1031,8 @@
   "\"현장목소리를입법·정책으로연결하는상설협력체계구축\"",
   "반도체로출발…미래신산업대도약기회",
   "인사/충북도",
-  "최태원회장,“답을아는것보다중요한건좋은질문…AI시대인재상..."
+  "최태원회장,“답을아는것보다중요한건좋은질문…AI시대인재상...",
+  "800조투자시계작동..정부의진짜시험대"
  ],
  "recent_sigs": [
   [
@@ -1140,9 +1142,13 @@
   [
    "2026-07-01T19:10:16.193992+09:00",
    "바꿀 게임체인저 미래 대도약 대한민국 메가프로젝 3대"
+  ],
+  [
+   "2026-07-01T20:50:15.397845+09:00",
+   "정부의 작동 진짜 시험대 800조 시계 투자"
   ]
  ],
- "last_run": "2026-07-01T20:40:25.047810+09:00",
+ "last_run": "2026-07-01T20:50:29.763949+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -1169,6 +1175,7 @@
   "ohmynews.com": "오마이뉴스",
   "shinailbo.co.kr": "신아일보",
   "womaneconomy.co.kr": "여성경제신문",
-  "news.bbsi.co.kr": "불교방송"
+  "news.bbsi.co.kr": "불교방송",
+  "kjmbc.co.kr": "광주MBC"
  }
 }
