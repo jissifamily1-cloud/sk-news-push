@@ -319,7 +319,10 @@
   "https://www.newsis.com/view/NISX20260225_0003525588",
   "https://www.news1.kr/industry/general-industry/6214187",
   "https://www.munhwa.com/article/11599530",
-  "https://www.dt.co.kr/article/12070505"
+  "https://www.dt.co.kr/article/12070505",
+  "https://www.etoday.co.kr/news/view/2599150",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=782838",
+  "http://www.fnnews.com/news/202607011118096971"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -640,7 +643,10 @@
   "[현장]무역협회,역대최대규모회장단구성…윤진식회장\"지원대폭...",
   "최태원\"언제될지모른다가장어려워…법·제도,예측가능해야\"(종합...",
   "억만장자들의여름캠프,올해화두는‘AI병목현상’",
-  "삼성,작년매출·고용1위…SK는1인당수익성석권"
+  "삼성,작년매출·고용1위…SK는1인당수익성석권",
+  "[종합]최태원\"기업이원하는건예측가능성\"…국회·경제계상설협...",
+  "[위클리오늘]韓수출사상첫'월1000억달러'…중국,韓반도체공급...",
+  "재계만난조정식\"입법예측가능성높여기업지원\""
  ],
  "recent_sigs": [
   [
@@ -710,15 +716,24 @@
   [
    "2026-07-01T12:20:15.652429+09:00",
    "매출 석권 1위 고용 SK는 삼성 수익성 1인당 작년"
+  ],
+  [
+   "2026-07-01T12:40:16.161024+09:00",
+   "수출 사상 중국 공급 1000억 달러 반도체"
+  ],
+  [
+   "2026-07-01T12:40:16.161024+09:00",
+   "예측 지원 입법 만난 조정식 재계 가능성 기업 높여"
   ]
  ],
- "last_run": "2026-07-01T12:30:30.435691+09:00",
+ "last_run": "2026-07-01T12:40:31.636839+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
   "news.einfomax.co.kr": "연합인포맥스",
   "news.tf.co.kr": "더팩트",
   "industrynews.co.kr": "인더스트리뉴스",
-  "biztribune.co.kr": "비즈트리뷴"
+  "biztribune.co.kr": "비즈트리뷴",
+  "weeklytoday.com": "위클리오늘"
  }
 }
