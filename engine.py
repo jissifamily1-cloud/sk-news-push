@@ -335,7 +335,12 @@ def _fetch_site_name(url):
     if not m:
         return None
     name = html_mod.unescape(m.group(1)).strip().strip('.@ⓒ© ')
-    return name[:30] or None
+    name = name[:30]
+    # Reject headline-like values (some sites put an article title in the
+    # copyright/og meta): brackets or near-cap length signal a title.
+    if not name or "[" in name or "]" in name or len(name) >= 30:
+        return None
+    return name
 
 
 def press_name(url, source="", cache=None):
