@@ -1168,7 +1168,13 @@
   "https://www.newscj.com/news/articleView.html?idxno=3350611",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=258569",
   "https://biz.heraldcorp.com/article/10634442",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=744679"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=744679",
+  "https://www.insight.co.kr/news/561086",
+  "http://www.jbsori.com/news/articleView.html?idxno=17523",
+  "https://www.segye.com/newsView/20260701517196?OutUrl=naver",
+  "https://biz.chosun.com/it-science/ict/2026/07/02/5IJPR6CQW5FB7O7BAY3ET6VPQ4/",
+  "https://biz.chosun.com/industry/business-venture/2026/07/02/6YCLQ7CW4BDIFCWEIKHQO76UKY/",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02181206645510584"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -2338,10 +2344,41 @@
   "SK이노E&S,'전남해상풍력1단지'준공…민간주도국내최대",
   "SK이노베이션E&S,민간주도'전남해상풍력1단지'준공",
   "SK이노E&S,전남해상풍력1단지준공",
-  "[위클리오늘]SK이노E&S,국내최대민간주도'전남해상풍력1단지'준..."
+  "[위클리오늘]SK이노E&S,국내최대민간주도'전남해상풍력1단지'준...",
+  "최태원\"AI가답내는시대...인간은문제를찾아야\"",
+  "\"영원한'전기식민지'되라는말인가?...'전북고립'고착화'호남권반...",
+  "전력·용수·인재등인프라관건…“정부신속지원이뤄져야”",
+  "[비즈톡톡]엔비디아와손잡았지만…SK텔레콤‘15GWAI팩토리’실현...",
+  "[인터뷰]최태원회장도찾은안경‘콥틱’박형진대표“AI로맞춤형...",
+  "충청권81조투자구상…李,오늘첨단패키징산업육성논의"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-02T06:00:42.313371+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-02T06:10:17.147189+09:00",
+   "호남권 영원한 전기 되라는 전북 고착화 고립 식민지 말인가"
+  ],
+  [
+   "2026-07-02T06:10:17.147189+09:00",
+   "시대 AI가 인간은 찾아야 문제를 내는"
+  ],
+  [
+   "2026-07-02T06:10:17.147189+09:00",
+   "정부 인재 용수 인프라 관건 지원 이뤄져야 신속 전력"
+  ],
+  [
+   "2026-07-02T06:10:17.147189+09:00",
+   "팩토리 SK텔레콤 실현 손잡았지만 AI 15GW 엔비디아와"
+  ],
+  [
+   "2026-07-02T06:10:17.147189+09:00",
+   "AI로 콥틱 안경 맞춤형 대표 찾은 회장도 박형진"
+  ],
+  [
+   "2026-07-02T06:10:17.147189+09:00",
+   "논의 첨단 산업 구상 투자 육성 패키징 충청권 81조"
+  ]
+ ],
+ "last_run": "2026-07-02T06:10:44.047682+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -2371,6 +2408,8 @@
   "news.bbsi.co.kr": "불교방송",
   "kjmbc.co.kr": "광주MBC",
   "goodkyung.com": "굿모닝경제",
-  "idaegu.co.kr": "대구신문"
+  "idaegu.co.kr": "대구신문",
+  "jbsori.com": "전북의소리",
+  "insight.co.kr": "insight.co.kr"
  }
 }
