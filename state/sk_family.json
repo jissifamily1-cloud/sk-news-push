@@ -1186,7 +1186,8 @@
   "https://hbnpress.com/news/view/1065565258328013",
   "http://www.newsian.co.kr/news/articleView.html?idxno=91609",
   "http://www.inews24.com/view/1981701",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519273"
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519273",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607020824254880627"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -2374,7 +2375,8 @@
   "최태원SK회장\"AI시대,정답보다좋은질문던지는인재중요\"",
   "['AI대전환'메가프로젝트③]\"공장만지어선미래없다\"…기업형첨단...",
   "'2년완공'TSMC구마모토…日정부가공장보다먼저준비",
-  "\"AI시대,답보다질문이경쟁력\"…최태원SK회장,미래인재조건강..."
+  "\"AI시대,답보다질문이경쟁력\"…최태원SK회장,미래인재조건강...",
+  "[데스크칼럼]‘호모두두리’의4755조베팅"
  ],
  "recent_sigs": [
   [
@@ -2436,9 +2438,13 @@
   [
    "2026-07-02T07:50:15.785245+09:00",
    "완공 정부가 구마모토 먼저 준비 TSMC 공장보다 2년"
+  ],
+  [
+   "2026-07-02T08:50:14.602957+09:00",
+   "두두리 호모 4755조 베팅"
   ]
  ],
- "last_run": "2026-07-02T08:40:26.498337+09:00",
+ "last_run": "2026-07-02T08:50:28.660661+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -2476,6 +2482,7 @@
   "breaknews.com": "브레이크뉴스",
   "investchosun.com": "investchosun.com",
   "hbnpress.com": "hbnpress.com",
-  "newsian.co.kr": "뉴시안"
+  "newsian.co.kr": "뉴시안",
+  "dnews.co.kr": "대한경제"
  }
 }
