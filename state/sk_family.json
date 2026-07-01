@@ -465,7 +465,17 @@
   "https://www.etoday.co.kr/news/view/2599320",
   "http://www.domin.co.kr/news/articleView.html?idxno=1560446",
   "https://www.etnews.com/20260701000585",
-  "http://www.srtimes.kr/news/articleView.html?idxno=206529"
+  "http://www.srtimes.kr/news/articleView.html?idxno=206529",
+  "https://www.yna.co.kr/view/PYH20260701235200013?input=1196m",
+  "https://www.ziksir.com/news/articleView.html?idxno=138769",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05589126645510256",
+  "https://www.mt.co.kr/industry/2026/07/01/2026070117142320541",
+  "https://www.hankyung.com/article/2026070101971",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=440518",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81283",
+  "https://www.meconomynews.com/news/articleView.html?idxno=132379",
+  "https://www.mk.co.kr/article/12087909",
+  "https://www.yna.co.kr/view/PYH20260701234800013?input=1196m"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -932,7 +942,17 @@
   "장학생만난최태원회장“AI시대엔지식보다질문이경쟁력”",
   "(메가프로젝트긴급진단)송양호전북대교수가말하는전북의미래전...",
   "최태원SK회장“AI,단순한도구아냐…미래인재기준달라져”",
-  "4대그룹총수,하반기'피지컬인프라'쟁탈전"
+  "4대그룹총수,하반기'피지컬인프라'쟁탈전",
+  "2026년한국교육재단최태원이사장과장학생의대화",
+  "최태원SK그룹회장\"AI혁신늦지않게법·제도신속히구축해야\"",
+  "최태원회장\"AI가정답찾는시대…좋은질문던져야\"",
+  "최태원SK회장\"AI시대엔정답보다좋은질문이경쟁력\"",
+  "최태원\"기업은방향보여야움직여…법제도예측가능해야\"",
+  "최태원회장,\"AI시대엔정답보다질문\"…미래인재상제시",
+  "최태원SK회장의AI시대인재상...\"정답아는사람보다질문던지는사...",
+  "[기자수첩]수천조'메가선언'을둘러싼질문들...정치적구호아닌실...",
+  "[김세형칼럼]두기업인을영웅이라부른李대통령",
+  "발언하는최태원회장"
  ],
  "recent_sigs": [
   [
@@ -1078,9 +1098,25 @@
   [
    "2026-07-01T17:30:24.805346+09:00",
    "피지컬 하반기 쟁탈전 총수 4대 인프라"
+  ],
+  [
+   "2026-07-01T17:40:16.964990+09:00",
+   "시대 정답 회장의 질문 던지는 인재상 사람보다 아는 AI"
+  ],
+  [
+   "2026-07-01T17:40:16.964990+09:00",
+   "둘러싼 정치적 구호 메가 선언 질문들 수천조 아닌"
+  ],
+  [
+   "2026-07-01T17:40:16.964990+09:00",
+   "기업인을 부른 대통령 영웅이라"
+  ],
+  [
+   "2026-07-01T17:40:16.964990+09:00",
+   "발언하는 회장"
   ]
  ],
- "last_run": "2026-07-01T17:30:37.775771+09:00",
+ "last_run": "2026-07-01T17:40:44.182520+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -1099,6 +1135,8 @@
   "newdaily.co.kr": "뉴데일리",
   "koreareport.co.kr": "코리아리포트",
   "yeongnam.com": "영남일보",
-  "srtimes.kr": "SR타임스"
+  "srtimes.kr": "SR타임스",
+  "pointe.co.kr": "포인트경제",
+  "meconomynews.com": "시장경제 - Market Economy News"
  }
 }
