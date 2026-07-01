@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82730",
-  "https://www.mt.co.kr/industry/2026/06/30/2026063012180541174",
-  "https://www.dt.co.kr/article/12070384",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441231",
-  "https://www.goodnews1.com/news/articleView.html?idxno=461487",
-  "https://www.sidae.com/article/2026063015364115654",
-  "https://www.mt.co.kr/politics/2026/06/30/2026063017431898566",
   "https://www.goodkyung.com/news/articleView.html?idxno=288729",
   "https://news.mtn.co.kr/news-detail/2026063016082181481",
   "https://news.mtn.co.kr/news-detail/2026063016072748814",
@@ -2999,16 +2992,16 @@
   "https://www.ikbc.co.kr/article/view/kbc202607020006",
   "https://www.dt.co.kr/article/12070697",
   "http://www.newsian.co.kr/news/articleView.html?idxno=91609",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248049&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248049&CMPT_CD=P0010",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02594486645510584",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714760",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61095",
+  "https://www.newsis.com/view/NISX20260702_0003692531",
+  "https://www.ekn.kr/web/view.php?key=20260702029488210",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02601046645510584",
+  "https://www.ziksir.com/news/articleView.html?idxno=138792"
  ],
  "seen_titles": [
-  "SKAI반도체전시찾은李“냉각이중요하지않냐”…HBM기술등살펴",
-  "역대급'변동성'속살아남은건삼전닉스…7월실적랠리재시동",
-  "코스피,장중446포인트널뛰기끝에8476선마감…외국인8거래일째'팔...",
-  "\"지금은호황,투자이후가문제\"…반도체'사이클반전'우려",
-  "AI슈퍼사이클뒤2028년공급폭증…또고개드는‘메모리피크론’",
-  "이재명\"서남권반도체투자직접총책임\"\"광주·전남지역격차로얼마...",
-  "李대통령\"서남권반도체클러스터,직접챙겨성과낼것\"",
   "'4755조'반도체클러스터투자…삼성물산·SK에코팹의시대온다",
   "\"가격은?생산은언제?\"…李대통령,SK전시보며반도체'열공'",
   "삼성·SK하이닉스,서남권반도체에825조투자…글로벌반도체거점만...",
@@ -6001,7 +5994,14 @@
   "앤트로픽,'페이블'AI서비스재개...미토스는해외에선아직",
   "앤트로픽,‘미토스’여전히해외접속제한…‘페이블’AI서비스재...",
   "['AI대전환'메가프로젝트③]\"공장만지어선미래없다\"…기업형첨단...",
-  "[손병관의뉴스프레소]국힘중진의원들에'골프회동'타진한이대통..."
+  "[손병관의뉴스프레소]국힘중진의원들에'골프회동'타진한이대통...",
+  "SK스퀘어,하이닉스질주에기업가치재평가…목표가210만원-유안타",
+  "﻿SK하이닉스美ADR상장초읽기…'코리아디스카운트'벗고AI반도체...",
+  "SK하이닉스美상장앞두고…\"주가오르면SK스퀘어가치도뛴다\"",
+  "[오늘의증시]美마이크론10%급락에반도체株'긴장'…코스피또하락...",
+  "SK·삼성,2·3차협력사까지상생확대…“AI시대공급망경쟁력강화”",
+  "SK하이닉스\"아직싸다\"…목표가400만원파격상향-IBK",
+  "국민연금리밸런싱,'삼전·닉스'휘청…증권가는'조단위증자'로정면..."
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,21 @@
   [
    "2026-07-02T07:31:19.077453+09:00",
    "국힘 타진한 대통 중진의원들에 회동 골프"
+  ],
+  [
+   "2026-07-02T07:41:05.205725+09:00",
+   "400만원 SK하이닉스 IBK 싸다 상향 목표가 파격 아직"
+  ],
+  [
+   "2026-07-02T07:41:05.205725+09:00",
+   "휘청 증권가는 단위 증자 정면 국민연금 닉스 삼전 리밸런싱"
+  ],
+  [
+   "2026-07-02T07:41:05.205725+09:00",
+   "AI시대 강화 상생 협력사까지 3차 공급망 확대 경쟁력 삼성"
   ]
  ],
- "last_run": "2026-07-02T07:31:27.608931+09:00",
+ "last_run": "2026-07-02T07:41:16.847555+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
