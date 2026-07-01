@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11599329",
-  "https://www.kwnews.co.kr/article/20260630501283",
-  "https://www.segye.com/newsView/20260630517183?OutUrl=naver",
-  "https://www.sedaily.com/article/20062003",
-  "http://www.queen.co.kr/news/articleView.html?idxno=459533",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=250853",
   "http://www.queen.co.kr/news/articleView.html?idxno=459534",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264074",
@@ -2999,14 +2994,14 @@
   "http://www.breaknews.com/1218495",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714753",
   "https://www.newspim.com/news/view/20260702000026",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=752024"
+  "https://www.mhns.co.kr/news/articleView.html?idxno=752024",
+  "https://www.sedaily.com/article/20062557",
+  "https://www.g-enews.com/view.php?ud=202607020628124164fbbec65dfb_1",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=873882",
+  "http://www.breaknews.com/1218505",
+  "https://www.news1.kr/industry/general-industry/6214982"
  ],
  "seen_titles": [
-  "'메가프로젝트'효과…들썩이는광주·구미",
-  "충남도,'첨단산업메카'도약...정부3대메가프로젝트적극환영",
-  "[속보]광주서李대통령“제가확실히책임지겠다…서남권·용인클러스...",
-  "광주찾은李대통령“용인·서남권클러스터동시추진…확실히책임질...",
-  "우상호\"AI대전환,2단계있다…후속기업유치준비해야\"",
   "삼성·SK“용인반도체만으로부족…새클러스터,호남이적격”",
   "[오늘증시]외국인매도에코스피상승폭축소…코스닥은차익실현에약...",
   "삼성·SK하이닉스,서남권에메가투자…삼성425조원,SK400조원클러...",
@@ -6001,7 +5996,12 @@
   "전남광주통합특별시의회,‘반도체전략투자지원조례’최종의결…...",
   "﻿AI가뒤집은글로벌증시…시총7조달러늘고코스피'세계1위'질주",
   "[미국특징주]애플,중국산메모리칩구매추진…정치적논란우려속...",
-  "[박근종칼럼]초강달러·슈퍼엔저·셀코리아·24시환시장의'4중파..."
+  "[박근종칼럼]초강달러·슈퍼엔저·셀코리아·24시환시장의'4중파...",
+  "동탄·기흥‘3중규제’…시장이찾을‘다음반세권’은",
+  "HBM이바꾼권력…메모리3사vs빅테크'산업주도권'충돌본격화",
+  "뉴욕증시,차익실현성반도체주매도에하락...마이크론,10%↓",
+  "국민의힘,장동혁윤리위돌파·정점식신중론속의회폭거총공세",
+  "'美상선단·전투함韓건조'불투명…'갈지자'의회에속타는K조선"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,29 @@
   [
    "2026-07-02T06:51:00.302008+09:00",
    "엔저 4중 코리아 초강 환시장의 슈퍼 24시 달러"
+  ],
+  [
+   "2026-07-02T06:53:48.791575+09:00",
+   "다음 3중 시장이 동탄 찾을 반세권 규제 기흥"
+  ],
+  [
+   "2026-07-02T06:53:48.791575+09:00",
+   "본격화 vs 바꾼 충돌 메모리 주도권 산업 빅테크 3사 HBM이 권력"
+  ],
+  [
+   "2026-07-02T06:53:48.791575+09:00",
+   "뉴욕증시 반도체주 매도에 차익실현성 마이크론 하락"
+  ],
+  [
+   "2026-07-02T06:53:48.791575+09:00",
+   "신중론 총공세 의회폭거 정점식 장동혁 국민의힘 윤리위 돌파"
+  ],
+  [
+   "2026-07-02T06:53:48.791575+09:00",
+   "갈지자 K조선 전투함 의회에 타는 불투명 건조 상선단"
   ]
  ],
- "last_run": "2026-07-02T06:51:25.295901+09:00",
+ "last_run": "2026-07-02T06:54:05.445288+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
