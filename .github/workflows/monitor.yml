@@ -44,16 +44,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- state/; then
+          if git diff --quiet -- "state/${{ matrix.config }}.json"; then
             echo "state unchanged - skip"
             exit 0
           fi
-          cp -r state /tmp/_ours_state
+          cp "state/${{ matrix.config }}.json" /tmp/_ours_state.json
           for i in 1 2 3 4 5; do
             git fetch -q origin "${GITHUB_REF_NAME}"
             git checkout -qfB "${GITHUB_REF_NAME}" "origin/${GITHUB_REF_NAME}"
-            cp -rf /tmp/_ours_state/* state/
-            git add state/
+            cp -f /tmp/_ours_state.json "state/${{ matrix.config }}.json"
+            git add "state/${{ matrix.config }}.json"
             if git diff --cached --quiet; then
               echo "same as remote - skip"
               exit 0
