@@ -475,7 +475,16 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=81283",
   "https://www.meconomynews.com/news/articleView.html?idxno=132379",
   "https://www.mk.co.kr/article/12087909",
-  "https://www.yna.co.kr/view/PYH20260701234800013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260701234800013?input=1196m",
+  "https://www.news2day.co.kr/article/20260701500156",
+  "https://www.dt.co.kr/article/12070639",
+  "https://www.nocutnews.co.kr/news/6541718",
+  "https://view.asiae.co.kr/article/2026070117462190117",
+  "https://www.newsis.com/view/NISX20260701_0003692244",
+  "http://www.popcornnews.net/news/articleView.html?idxno=125367",
+  "https://www.ajunews.com/view/20260701161225149",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272322",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260701010000093"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -952,7 +961,16 @@
   "최태원SK회장의AI시대인재상...\"정답아는사람보다질문던지는사...",
   "[기자수첩]수천조'메가선언'을둘러싼질문들...정치적구호아닌실...",
   "[김세형칼럼]두기업인을영웅이라부른李대통령",
-  "발언하는최태원회장"
+  "발언하는최태원회장",
+  "[2026비자발적고립청년일경험캠프(10)]\"나는돌봄만하는사람이아...",
+  "전병헌“李정부800조호남반도체계획은‘급조된쇼’”",
+  "[인사]충청북도",
+  "최태원\"AI시대,정답많이아는사람보다질문잘하는사람이앞선다...",
+  "최태원SK회장,AI시대'新인재상'강조…\"새로운문제발견,좋은질...",
+  "최태원SK회장,AI시대인재기준변화강조…\"좋은질문이경쟁력\"",
+  "[김나윤의플러그인]삼성·SK,'4755조메가투자'실탄은어떻게마련...",
+  "최태원SK회장,\"정답보다'질문하는힘'이인재의경쟁력\"",
+  "[데스크칼럼]삼성·SK發‘AI대항해시대’…韓,파도탈준비됐나"
  ],
  "recent_sigs": [
   [
@@ -1114,9 +1132,17 @@
   [
    "2026-07-01T17:40:16.964990+09:00",
    "발언하는 회장"
+  ],
+  [
+   "2026-07-01T17:50:16.085287+09:00",
+   "정답보다 SK회장 경쟁력 인재의 질문하는"
+  ],
+  [
+   "2026-07-01T17:50:16.085287+09:00",
+   "대항해시대 삼성 준비됐나 AI 파도"
   ]
  ],
- "last_run": "2026-07-01T17:40:44.182520+09:00",
+ "last_run": "2026-07-01T17:50:33.998519+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -1137,6 +1163,8 @@
   "yeongnam.com": "영남일보",
   "srtimes.kr": "SR타임스",
   "pointe.co.kr": "포인트경제",
-  "meconomynews.com": "시장경제 - Market Economy News"
+  "meconomynews.com": "시장경제 - Market Economy News",
+  "businesskorea.co.kr": "Businesskorea",
+  "asiatoday.co.kr": "아시아투데이"
  }
 }
