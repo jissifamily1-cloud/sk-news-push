@@ -1452,7 +1452,11 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600590",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068330",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7172671",
-  "https://news.mtn.co.kr/news-detail/2026070217393853951"
+  "https://news.mtn.co.kr/news-detail/2026070217393853951",
+  "https://economist.co.kr/article/view/ecn202607020056",
+  "https://www.mk.co.kr/article/12089138",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132593",
+  "https://www.mediawatch.kr/news/article.html?no=260270"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -2891,7 +2895,11 @@
   "[사사건건]“단합”과“확장”…같은의미?다른의미?",
   "최태원SK\"협력사성장·행복이오늘의SK만들어\"…상생생태계3차...",
   "\"협력사성장이곧SK의힘\"…최태원호,1.4兆상생프로젝트가동",
-  "SK,2·3차협력사까지상생확대…8700억반도체투자"
+  "SK,2·3차협력사까지상생확대…8700억반도체투자",
+  "'1.4조투입'SK,2·3차협력사와도상생생태계강화",
+  "SK\"반도체생태계키우자\"…하이닉스협력사에1.4조지원",
+  "SK,협력사와상생협약체결...1.4조원투입동반성장가속화",
+  "[청년思]노란봉투법,호남반도체프로젝트에부메랑"
  ],
  "recent_sigs": [
   [
@@ -3073,9 +3081,13 @@
   [
    "2026-07-02T17:40:17.365214+09:00",
    "확장 의미 같은 단합 다른"
+  ],
+  [
+   "2026-07-02T18:00:31.685864+09:00",
+   "반도체 노란봉투법 부메랑 프로젝트에 호남"
   ]
  ],
- "last_run": "2026-07-02T17:50:27.447625+09:00",
+ "last_run": "2026-07-02T18:00:49.067168+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3139,6 +3151,7 @@
   "polinews.co.kr": "폴리뉴스 Polinews",
   "eroun.net": "이로운넷",
   "cbci.co.kr": "CBC뉴스 | CBCNEWS",
-  "dailypop.kr": "데일리팝"
+  "dailypop.kr": "데일리팝",
+  "mediawatch.kr": "인싸잇"
  }
 }
