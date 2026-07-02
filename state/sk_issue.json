@@ -1201,7 +1201,18 @@
   "http://www.newswatch.kr/news/articleView.html?idxno=80313",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036841",
   "https://www.busan.com/view/busan/view.php?code=2026070216033547031",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307440"
+  "https://www.cnbizm.com/news/articleView.html?idxno=307440",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335536",
+  "https://www.donga.com/news/Society/article/all/20260702/134225304/1",
+  "https://www.ngonews.kr/news/articleView.html?idxno=232127",
+  "https://view.asiae.co.kr/article/2026070217171579527",
+  "https://dealsite.co.kr/articles/164680",
+  "http://www.srtimes.kr/news/articleView.html?idxno=206644",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=154899",
+  "https://www.socialvalue.kr/news/view/1065598327515946",
+  "http://www.popcornnews.net/news/articleView.html?idxno=125488",
+  "http://www.newsprime.co.kr/news/article.html?no=738947",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3122385"
  ],
  "seen_titles": [
   "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
@@ -2386,7 +2397,18 @@
   "[현장]SK,협력사동반성장강화한다…상생협력에1.4조투자",
   "SK,1~3차협력사와상생협약…동반성장가속화",
   "SK,1·2·3차협력사에1.4조투입해동반성장강화",
-  "SK,1·2·3차협력사에1조4000억푼다…\"동반성장가속화\""
+  "SK,1·2·3차협력사에1조4000억푼다…\"동반성장가속화\"",
+  "배재고징계에국힘\"표현자유,이재명탓\"?…SBS\"제재없어조롱난무...",
+  "[단독]윤영호“경찰청정보제공확실,내사없어”한학자비서실장에...",
+  "경찰청,'여고생살해범'장윤기현직경찰관아버지감찰착수···증거...",
+  "경찰청,'여고생살해범'장윤기친부증거인멸직접감찰",
+  "SK,협력사에1조4000만투자…'상생협약체결'",
+  "SK,협력사상생협약체결…반도체생태계에8700억원투자",
+  "SK,협력사지원'3차생태계'까지확대…1.4조반도체투자로상생고...",
+  "SK,동반성장금융·기술지원에1조4000억투입…상생문화2·3차협력사...",
+  "[현장]SK,\"상생은성장핵심요소\"…1~3차협력사상생확대",
+  "SK,2·3차협력사까지상생문화확산…1조4000억푼다",
+  "대금지급기한10일이내단축...SK7개계열사동반성장전술가동"
  ],
  "recent_sigs": [
   [
@@ -2456,9 +2478,13 @@
   [
    "2026-07-02T17:21:04.114933+09:00",
    "1조 3차 협력사에 동반성장 가속화 4000억 푼다"
+  ],
+  [
+   "2026-07-02T17:31:00.118971+09:00",
+   "지급 계열사 기한 단축 10일 대금 7개 이내 동반성장 가동 전술"
   ]
  ],
- "last_run": "2026-07-02T17:21:11.753314+09:00",
+ "last_run": "2026-07-02T17:31:07.633947+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -2472,6 +2498,7 @@
   "news.bizwatch.co.kr": "비즈니스워치",
   "newswatch.kr": "뉴스워치",
   "news.tf.co.kr": "더팩트",
-  "cnbizm.com": "문화경제"
+  "cnbizm.com": "문화경제",
+  "ttlnews.com": "ttlnews.com"
  }
 }
