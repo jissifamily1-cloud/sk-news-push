@@ -1508,7 +1508,8 @@
   "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703003002?wlog_tag3=naver",
   "https://www.segye.com/newsView/20260702515458?OutUrl=naver",
   "http://www.kgnews.co.kr/news/article.html?no=902359",
-  "https://www.segye.com/newsView/20260702515451?OutUrl=naver"
+  "https://www.segye.com/newsView/20260702515451?OutUrl=naver",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4808987"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3003,7 +3004,8 @@
   "“지역전체를‘AI실험의장’으로…과감한규제혁신·인프라조성...",
   "[사설]靑“임기내반도체클러스터완공”,규제개혁없이는공염불",
   "[오세훈의온고지신]독립군들을생각하라",
-  "“협력사지원에1조4000억”…SK,상생협약"
+  "“협력사지원에1조4000억”…SK,상생협약",
+  "SK,2·3차협력사까지상생확대…금융·기술지원에1.4조지원"
  ],
  "recent_sigs": [
   [
@@ -3013,9 +3015,13 @@
   [
    "2026-07-03T06:10:21.698287+09:00",
    "협약 협력사 지원에 1조4000억 상생"
+  ],
+  [
+   "2026-07-03T06:20:15.819537+09:00",
+   "금융 3차 상생 4조 확대 협력사까지 지원 기술지원에"
   ]
  ],
- "last_run": "2026-07-03T06:10:37.901517+09:00",
+ "last_run": "2026-07-03T06:20:32.686551+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3087,6 +3093,7 @@
   "cctoday.co.kr": "충청투데이",
   "ikbc.co.kr": "KBC광주방송",
   "ntoday.co.kr": "투데이신문",
-  "kgnews.co.kr": "경기신문"
+  "kgnews.co.kr": "경기신문",
+  "newsinside.kr": "뉴스인사이드"
  }
 }
