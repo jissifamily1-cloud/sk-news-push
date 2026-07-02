@@ -1110,7 +1110,32 @@
   "https://www.mk.co.kr/article/12088904",
   "https://www.sisajournal.com/news/articleView.html?idxno=378569",
   "https://www.sidae.com/article/2026070211411735755",
-  "http://www.newswatch.kr/news/articleView.html?idxno=80305"
+  "http://www.newswatch.kr/news/articleView.html?idxno=80305",
+  "https://www.g-enews.com/view.php?ud=20260702090601377fda4f5ab74_1",
+  "https://biz.heraldcorp.com/article/10796376",
+  "https://news.tf.co.kr/read/national/2339162.htm",
+  "https://www.hani.co.kr/arti/international/europe/1266411.html",
+  "https://view.asiae.co.kr/article/2026070216201346812",
+  "https://www.eroun.net/news/articleView.html?idxno=84504",
+  "https://www.insight.co.kr/news/561231",
+  "https://www.donga.com/news/Economy/article/all/20260702/134224902/1",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1382290",
+  "https://news.tf.co.kr/read/photomovie/2339158.htm",
+  "https://www.ajunews.com/view/20260702161044936",
+  "https://news.tf.co.kr/read/photomovie/2339152.htm",
+  "https://www.yna.co.kr/view/PYH20260702167900013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167600013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167400013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167700013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167300013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167500013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167200013?input=1196m",
+  "https://zdnet.co.kr/view/?no=20260702104115",
+  "https://www.yna.co.kr/view/PYH20260702166900013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167000013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260702167100013?input=1196m",
+  "https://news.tf.co.kr/read/photomovie/2339153.htm",
+  "https://news.tf.co.kr/read/photomovie/2339154.htm"
  ],
  "seen_titles": [
   "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
@@ -2211,7 +2236,27 @@
   "“상생문화2·3차협력사까지확대”…SK,협력사와상생‘맞손’",
   "1차넘어3차협력사까지…SK,상생결제생태계넓힌다",
   "SK,협력사와상생협약맺어…대금지급·기술·금융지원강화",
-  "[기자한컷]SK,협력사와상생협약…\"동반성장강화\""
+  "[기자한컷]SK,협력사와상생협약…\"동반성장강화\"",
+  "구글,과징금시대끝…유럽發손배소전쟁21조번진다",
+  "정부,‘쿠팡차별’美하원보고서“일방적주장반영유감…사실달...",
+  "경찰청,장윤기경찰관부친감찰착수…초동증거확보미흡여부도조...",
+  "유럽검찰,프랑스등4개국‘극우횡령의혹’압수수색…극우열풍변...",
+  "경찰청,'여고생살해'장윤기부친직접감찰한다",
+  "[이로운상생]SK,2·3차협력사까지상생확대...1.4조원신규지원으로...",
+  "SK,협력사지원'낙수구조'짠다...2·3차까지대금·기술·자금확대",
+  "SK,2·3차협력사까지상생확대…1조4000억지원",
+  "최창원\"상생은선택아닌필수\"…SK,협력사지원체계강화",
+  "'SK-공정위상생협약체결'[TF사진관]",
+  "SK,협력사'돈맥경화'푼다...하이닉스중심1.4조상생투입",
+  "환영사하는최창원SUPEX추구협의회의장[포토]",
+  "축사하는주병기공정거래위원장",
+  "SK,공정위와상생협약체결",
+  "상생협약체결한SKT와협력사",
+  "환영사하는최창원의장",
+  "SK,협력사와동반성장가속…하이닉스는1.4조상생자금활용",
+  "SK-공정위상생협약체결식",
+  "축사하는주병기공정거래위원장[포토]",
+  "기념촬영하는최창원-주병기[포토]"
  ],
  "recent_sigs": [
   [
@@ -2265,9 +2310,17 @@
   [
    "2026-07-02T16:21:02.984146+09:00",
    "동반성장 협력사와 강화 상생협약"
+  ],
+  [
+   "2026-07-02T16:31:05.417514+09:00",
+   "주병기 축사하는 공정거래위원장"
+  ],
+  [
+   "2026-07-02T16:31:05.417514+09:00",
+   "주병기 최창원 기념촬영하는"
   ]
  ],
- "last_run": "2026-07-02T16:21:11.699858+09:00",
+ "last_run": "2026-07-02T16:31:15.411981+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -2279,6 +2332,7 @@
   "electimes.com": "전기신문",
   "naeil.com": "내일신문",
   "news.bizwatch.co.kr": "비즈니스워치",
-  "newswatch.kr": "뉴스워치"
+  "newswatch.kr": "뉴스워치",
+  "news.tf.co.kr": "더팩트"
  }
 }
