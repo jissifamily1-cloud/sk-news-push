@@ -1353,7 +1353,8 @@
   "https://www.segye.com/newsView/20260703501723?OutUrl=naver",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61131",
   "https://www.slist.kr/news/articleView.html?idxno=749282",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335547"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335547",
+  "https://www.itbiznews.com/news/articleView.html?idxno=218177"
  ],
  "seen_titles": [
   "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
@@ -2690,15 +2691,20 @@
   "게관위,‘기술단속’주도권강화…아케이드심의민간이양도추진",
   "SK,협력사에1.4조푼다…\"AI반도체경쟁력,함께키운다\"",
   "디아도라,'텔레토비컬렉션'출시...반발티부터키링·토트백",
-  "동아일보\"실체밝히라며국조막는올공시위…공권력단호해야\""
+  "동아일보\"실체밝히라며국조막는올공시위…공권력단호해야\"",
+  "SK,협력사금융·기술지원확대…1조4000억원투입상생생태계조성"
  ],
  "recent_sigs": [
   [
    "2026-07-03T07:30:57.238382+09:00",
    "AI 함께 경쟁력 푼다 반도체 키운다 4조 협력사에"
+  ],
+  [
+   "2026-07-03T08:01:08.228652+09:00",
+   "확대 투입 지원 금융 생태계 기술 조성 협력사 상생 1조4000억원"
   ]
  ],
- "last_run": "2026-07-03T07:52:01.373698+09:00",
+ "last_run": "2026-07-03T08:01:15.293693+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -2714,6 +2720,7 @@
   "news.tf.co.kr": "더팩트",
   "cnbizm.com": "문화경제",
   "ttlnews.com": "ttlnews.com",
-  "newsroad.co.kr": "뉴스로드"
+  "newsroad.co.kr": "뉴스로드",
+  "itbiznews.com": "IT비즈뉴스"
  }
 }
