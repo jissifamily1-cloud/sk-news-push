@@ -1221,7 +1221,11 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200098.html",
   "https://www.ajunews.com/view/20260701225935592",
   "http://www.ddanzi.com/888350987",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036716"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036716",
+  "https://monthly.chosun.com/news/articleView.html?idxno=70592",
+  "https://biz.heraldcorp.com/article/10795844",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=434338",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248089&CMPT_CD=P0010"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -2444,7 +2448,11 @@
   "마피8000만원이웃돈5000만원으로…삼성기대감에광주집값기대감...",
   "\"인구·구매력확대기대\"...800조반도체투자에광주·서남권유통가...",
   "[뉴공아카이브]퍼니포:‘구천피시대’국민투자자가말하는‘성투’...",
-  "李대통령\"4대첨단산업강력생태계이룬지역이충청\""
+  "李대통령\"4대첨단산업강력생태계이룬지역이충청\"",
+  "\"정답은이미AI가알고있다.이제는제대로질문하라\"",
+  "“메가프로젝트안착위한실증특구필수”[충청권첨단산업국민보고...",
+  "\"시장상황따라바뀔수도\"...SK하이닉스·삼성전자,광주투자계획에...",
+  "반도체클러스터,정권을넘어선정책의축적과진화"
  ],
  "recent_sigs": [
   [
@@ -2558,9 +2566,21 @@
   [
    "2026-07-02T11:10:15.763111+09:00",
    "강력 4대 생태계 대통령 지역이 이룬 충청 첨단산업"
+  ],
+  [
+   "2026-07-02T11:20:15.944433+09:00",
+   "이제는 질문하라 AI가 이미 알고 제대로 있다 정답은"
+  ],
+  [
+   "2026-07-02T11:20:15.944433+09:00",
+   "삼성전자 바뀔 상황 SK하이닉스 투자계획에 수도 시장 따라 광주"
+  ],
+  [
+   "2026-07-02T11:20:15.944433+09:00",
+   "클러스터 정책의 반도체 정권을 넘어선 진화 축적과"
   ]
  ],
- "last_run": "2026-07-02T11:10:31.134804+09:00",
+ "last_run": "2026-07-02T11:20:36.095769+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -2603,6 +2623,7 @@
   "pinpointnews.co.kr": "핀포인트뉴스",
   "koreajoongangdaily.com": "koreajoongangdaily",
   "newstown.co.kr": "뉴스타운",
-  "biz.newdaily.co.kr": "뉴데일리"
+  "biz.newdaily.co.kr": "뉴데일리",
+  "newsworker.co.kr": "뉴스워커"
  }
 }
