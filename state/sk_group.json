@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20260701/134213094/2",
-  "https://www.donga.com/news/Society/article/all/20260701/134213098/2",
-  "https://www.donga.com/news/Politics/article/all/20260701/134213113/2",
-  "https://www.donga.com/news/Politics/article/all/20260701/134213117/2",
-  "https://www.donga.com/news/Economy/article/all/20260701/134213092/2",
-  "https://www.hankookilbo.com/news/article/A2026063016160001452?did=NA",
   "https://www.hankookilbo.com/news/article/A2026063015150005371?did=NA",
   "https://www.hankookilbo.com/news/article/A2026063016340002271?did=NA",
   "https://www.mt.co.kr/politics/2026/07/01/2026063020174992295",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026070214527",
   "https://news.bizwatch.co.kr/article/industry/2026/07/02/0012",
   "https://www.mk.co.kr/article/12088542",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=707943"
+  "http://www.newstown.co.kr/news/articleView.html?idxno=707943",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165001",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423028",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=586117",
+  "https://www.thepublic.kr/news/articleView.html?idxno=309848",
+  "https://www.sedaily.com/article/20062899",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008638286&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "스위스은행보낸3000만달러…현대비자금,누구위한돈인가",
-  "[스트레이트뉴스여론조사]반도체·AI호황,국민55%\"생활경제에도움...",
-  "광주·전남반도체투자좋긴한데…어수선한민주당,왜?",
-  "첨단라인돌리는건'사람'…인력확보강조한삼성·SK",
-  "“삼성평택-SK용인팹증설해도2년뒤엔팹5기분공급부족”",
-  "지방정부민선9기시작…전남광주특별시출범",
   "李“광주팹,1개월이라도지연안되게끝까지챙기겠다”",
   "野PK의원들“반도체입지평가표공개하라”",
   "정부“댐높이올려물확보…전력등시설구축100%지원”",
@@ -6001,7 +5995,13 @@
   "[속보]SK하이닉스\"청주낸드·첨단패키징팹에100조투자\"",
   "SK,'국내최대신재생통합법인'출범…KKR과공동투자",
   "“빚투,이렇게무서운건데”…‘공포휩싸인’개미,올상반기3조강...",
-  "목마른땅에'물먹는하마'를?"
+  "목마른땅에'물먹는하마'를?",
+  "최태원\"AI시대미래인재는정답보다질문하는사람\"",
+  "SK하이닉스\"청주M17팹내년착공…2029년상반기가동목표\"",
+  "[속보]SK이터닉스오전장VI두차례발동,주가털썩...양대지수하락...",
+  "반도체수출사상최대에도…삼성전자·SK하이닉스덮친해외발경고",
+  "우리투자증권,6000억인수금융주선완료…출범이래최대실적",
+  "이대통령'충청권국민보고회'참석…삼전닉스등투자계획발표"
  ],
  "recent_sigs": [
   [
@@ -6977,7 +6977,7 @@
    "하마 목마른 땅에 물먹는"
   ]
  ],
- "last_run": "2026-07-02T10:29:53.676799+09:00",
+ "last_run": "2026-07-02T10:31:17.533048+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
