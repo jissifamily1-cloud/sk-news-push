@@ -1421,7 +1421,20 @@
   "https://www.greened.kr/news/articleView.html?idxno=344086",
   "https://news.tf.co.kr/read/economy/2339193.htm",
   "https://www.newscj.com/news/articleView.html?idxno=3414025",
-  "http://www.lkp.news/news/articleView.html?idxno=81503"
+  "http://www.lkp.news/news/articleView.html?idxno=81503",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260702171351Fgo",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441447",
+  "https://www.eroun.net/news/articleView.html?idxno=84509",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81334",
+  "http://www.newsbrite.net/news/articleView.html?idxno=199008",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80313",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036841",
+  "https://www.thelec.kr/news/articleView.html?idxno=58981",
+  "https://www.busan.com/view/busan/view.php?code=2026070216033547031",
+  "https://www.cnbizm.com/news/articleView.html?idxno=307440",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441441",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247689&CMPT_CD=P0010",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247550&CMPT_CD=P0010"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -2829,21 +2842,22 @@
   "SK,협력사와상생협약체결…최창원수펙스의장\"SK,동반성장위해...",
   "최창원\"하이닉스더잘되려면'상생'필수\"…SK,협력사지원책손본다",
   "SK,협력사에1.4조원신규지원…AI반도체생태계상생강화",
-  "SK,상생협약체결식개최...최창원의장,\"상생문화가산업계전체에..."
+  "SK,상생협약체결식개최...최창원의장,\"상생문화가산업계전체에...",
+  "'누구나무료'공공생리대첫선…다음주시범도입",
+  "[인사]아시아투데이,대전동구,대전시외",
+  "최태원\"AI시대,좋은질문이경쟁력\"",
+  "[현장]SK,2·3차협력사까지상생넓힌다…1조4000억규모생태계조성",
+  "SK,협력사와상생협약…협력사에1.4조지원",
+  "[현장]SK,협력사동반성장강화한다…상생협력에1.4조투자",
+  "SK,1~3차협력사와상생협약…동반성장가속화",
+  "SK,협력사와상생협약...하이닉스5년간1.4조활용",
+  "SK,1·2·3차협력사에1.4조투입해동반성장강화",
+  "SK,1·2·3차협력사에1조4000억푼다…\"동반성장가속화\"",
+  "SK협력사와상생협약체결,'대금지급개선''기술·금융지원'으로동...",
+  "장밋빛'메가프로젝트'들춰보니...'제조AI2030'의불편한진실",
+  "'일본시가총액1위'소프트뱅크회장의승부수,한국도서둘러야"
  ],
  "recent_sigs": [
-  [
-   "2026-07-02T11:20:15.944433+09:00",
-   "이제는 질문하라 AI가 이미 알고 제대로 있다 정답은"
-  ],
-  [
-   "2026-07-02T11:20:15.944433+09:00",
-   "삼성전자 바뀔 상황 SK하이닉스 투자계획에 수도 시장 따라 광주"
-  ],
-  [
-   "2026-07-02T11:20:15.944433+09:00",
-   "클러스터 정책의 반도체 정권을 넘어선 진화 축적과"
-  ],
   [
    "2026-07-02T11:30:23.182295+09:00",
    "보라 이진숙 거짓말 표정 한다 비틀린"
@@ -2999,9 +3013,21 @@
   [
    "2026-07-02T17:00:32.194608+09:00",
    "질문 상생 좋아지는데 세상은 우리는 던진 최창원이 좋아졌나"
+  ],
+  [
+   "2026-07-02T17:20:19.207961+09:00",
+   "제조AI 진실 메가프로젝트 장밋빛 불편한 들춰보니"
+  ],
+  [
+   "2026-07-02T17:20:19.207961+09:00",
+   "1위 일본 회장의 소프트뱅크 시가총액 한국도 서둘러야 승부수"
+  ],
+  [
+   "2026-07-02T17:20:19.207961+09:00",
+   "AI 질문이 시대 좋은 경쟁력"
   ]
  ],
- "last_run": "2026-07-02T17:10:30.778603+09:00",
+ "last_run": "2026-07-02T17:20:37.540671+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3062,6 +3088,7 @@
   "thevaluenews.co.kr": "더밸류뉴스",
   "newsworks.co.kr": "뉴스웍스",
   "ebn.co.kr": "이비엔(EBN)뉴스센터",
-  "polinews.co.kr": "폴리뉴스 Polinews"
+  "polinews.co.kr": "폴리뉴스 Polinews",
+  "eroun.net": "이로운넷"
  }
 }
