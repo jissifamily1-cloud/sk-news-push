@@ -1354,7 +1354,12 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61131",
   "https://www.slist.kr/news/articleView.html?idxno=749282",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335547",
-  "https://www.itbiznews.com/news/articleView.html?idxno=218177"
+  "https://www.itbiznews.com/news/articleView.html?idxno=218177",
+  "https://medicalworldnews.co.kr/news/view.php?idx=1510975570",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465202",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02689606645510912",
+  "https://www.yna.co.kr/view/AKR20260703018600004?input=1195m",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607010756129860104233"
  ],
  "seen_titles": [
   "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
@@ -2692,7 +2697,12 @@
   "SK,협력사에1.4조푼다…\"AI반도체경쟁력,함께키운다\"",
   "디아도라,'텔레토비컬렉션'출시...반발티부터키링·토트백",
   "동아일보\"실체밝히라며국조막는올공시위…공권력단호해야\"",
-  "SK,협력사금융·기술지원확대…1조4000억원투입상생생태계조성"
+  "SK,협력사금융·기술지원확대…1조4000억원투입상생생태계조성",
+  "가습기살균제피해자,치료비·대학등록금까지국가가배상",
+  "추억의텔레토비,디아도라스포츠헤리티지입었다",
+  "\"아버지직업경찰관\"…장윤기부친,사건담당경찰서근무이력",
+  "경찰,'판소리명창'前국립전통예술중고교장채용비리수사",
+  "[더벨]TPG로기운롯데렌탈M&A…윤신원이잡은빅딜"
  ],
  "recent_sigs": [
   [
@@ -2702,9 +2712,13 @@
   [
    "2026-07-03T08:01:08.228652+09:00",
    "확대 투입 지원 금융 생태계 기술 조성 협력사 상생 1조4000억원"
+  ],
+  [
+   "2026-07-03T08:11:04.866941+09:00",
+   "기운 잡은 TPG로 롯데렌탈 빅딜 윤신원이"
   ]
  ],
- "last_run": "2026-07-03T08:01:15.293693+09:00",
+ "last_run": "2026-07-03T08:11:12.277371+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -2721,6 +2735,7 @@
   "cnbizm.com": "문화경제",
   "ttlnews.com": "ttlnews.com",
   "newsroad.co.kr": "뉴스로드",
-  "itbiznews.com": "IT비즈뉴스"
+  "itbiznews.com": "IT비즈뉴스",
+  "thebell.co.kr": "thebell.co.kr"
  }
 }
