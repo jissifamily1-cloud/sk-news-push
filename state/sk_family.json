@@ -1509,7 +1509,11 @@
   "https://www.segye.com/newsView/20260702515458?OutUrl=naver",
   "http://www.kgnews.co.kr/news/article.html?no=902359",
   "https://www.segye.com/newsView/20260702515451?OutUrl=naver",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4808987"
+  "https://www.newsinside.kr/news/articleView.html?idxno=4808987",
+  "https://www.ceoscoredaily.com/page/view/2026070215425581738",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=439989",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=305664",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270961"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3005,7 +3009,11 @@
   "[사설]靑“임기내반도체클러스터완공”,규제개혁없이는공염불",
   "[오세훈의온고지신]독립군들을생각하라",
   "“협력사지원에1조4000억”…SK,상생협약",
-  "SK,2·3차협력사까지상생확대…금융·기술지원에1.4조지원"
+  "SK,2·3차협력사까지상생확대…금융·기술지원에1.4조지원",
+  "[이달의주식부호]반도체열풍에최태원SK회장‘톱5’…소부장기업...",
+  "[WhoIs?]김승연한화그룹회장",
+  "[반도체투자로드맵]⑤SK,반도체생산에AIDC까지…AI수요·공급묶...",
+  "[10년전그날]SKT,세계최초IoT전용망선포"
  ],
  "recent_sigs": [
   [
@@ -3019,9 +3027,25 @@
   [
    "2026-07-03T06:20:15.819537+09:00",
    "금융 3차 상생 4조 확대 협력사까지 지원 기술지원에"
+  ],
+  [
+   "2026-07-03T07:10:20.234259+09:00",
+   "톱5 기업 반도체 소부장 열풍에 회장"
+  ],
+  [
+   "2026-07-03T07:10:20.234259+09:00",
+   "한화그룹 회장 김승연"
+  ],
+  [
+   "2026-07-03T07:10:20.234259+09:00",
+   "공급 AIDC까지 반도체 AI 수요 생산에"
+  ],
+  [
+   "2026-07-03T07:10:20.234259+09:00",
+   "세계최초 전용망 선포 SKT IoT"
   ]
  ],
- "last_run": "2026-07-03T07:00:42.043425+09:00",
+ "last_run": "2026-07-03T07:10:42.160772+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3094,6 +3118,8 @@
   "ikbc.co.kr": "KBC광주방송",
   "ntoday.co.kr": "투데이신문",
   "kgnews.co.kr": "경기신문",
-  "newsinside.kr": "뉴스인사이드"
+  "newsinside.kr": "뉴스인사이드",
+  "fetv.co.kr": "FETV",
+  "jeonmae.co.kr": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’"
  }
 }
