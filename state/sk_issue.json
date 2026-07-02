@@ -1348,7 +1348,10 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=441124",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606301945011920101149",
   "https://www.dailian.co.kr/news/view/1662712/?sc=Naver",
-  "https://www.newsis.com/view/NISX20260702_0003693964"
+  "https://www.newsis.com/view/NISX20260702_0003693964",
+  "https://www.hankyung.com/article/2026070331587",
+  "https://www.segye.com/newsView/20260703501723?OutUrl=naver",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61131"
  ],
  "seen_titles": [
   "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
@@ -2680,10 +2683,18 @@
   "[WhoIs?]박현주미래에셋그룹회장",
   "[더벨]TPG맞이하는롯데렌탈,성장전략재시동거나",
   "“납품안받겠다”단체행동길열리나…프랜차이즈업계“브랜드운영...",
-  "광주일고감독의탄식\"이런비하처음…지도자들의인성교육절실\""
+  "광주일고감독의탄식\"이런비하처음…지도자들의인성교육절실\"",
+  "\"징계과도\"야구협회고발한보수단체…배재고사태,진영대결로",
+  "게관위,‘기술단속’주도권강화…아케이드심의민간이양도추진",
+  "SK,협력사에1.4조푼다…\"AI반도체경쟁력,함께키운다\""
  ],
- "recent_sigs": [],
- "last_run": "2026-07-03T07:20:58.844851+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-03T07:30:57.238382+09:00",
+   "AI 함께 경쟁력 푼다 반도체 키운다 4조 협력사에"
+  ]
+ ],
+ "last_run": "2026-07-03T07:31:05.752692+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -2698,6 +2709,7 @@
   "newswatch.kr": "뉴스워치",
   "news.tf.co.kr": "더팩트",
   "cnbizm.com": "문화경제",
-  "ttlnews.com": "ttlnews.com"
+  "ttlnews.com": "ttlnews.com",
+  "newsroad.co.kr": "뉴스로드"
  }
 }
