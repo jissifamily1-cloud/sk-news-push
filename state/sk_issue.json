@@ -1001,7 +1001,15 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=0030054588&code=61121111&cp=nv",
   "https://www.dailian.co.kr/news/view/1662691/?sc=Naver",
   "https://www.news1.kr/society/court-prosecution/6215881",
-  "https://www.ytn.co.kr/_ln/0107_202607021510062930"
+  "https://www.ytn.co.kr/_ln/0107_202607021510062930",
+  "https://www.asiatime.co.kr/article/20260702500280",
+  "https://www.m-economynews.com/news/article.html?no=68371",
+  "https://www.ytn.co.kr/_ln/0134_202607021524165005",
+  "https://www.hankookilbo.com/news/article/A2026070211450002359?did=NA",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260702152035eus",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200129.html",
+  "https://www.electimes.com/news/articleView.html?idxno=369842",
+  "https://www.naeil.com/news/read/593872"
  ],
  "seen_titles": [
   "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
@@ -2005,16 +2013,40 @@
   "광주경찰,‘증거인멸’논란현직경찰장윤기父감찰",
   "종합특검,'통일교수사무마'윤영호전세계본부장참고인소환",
   "종합특검,'김건희특혜'의혹최재훈검사·백원국전차관소환(종합...",
-  "[뉴스퀘어2PM]'팀불화'탓에선발제외?...축구협회수사본격화"
+  "[뉴스퀘어2PM]'팀불화'탓에선발제외?...축구협회수사본격화",
+  "중흥건설·중흥토건,상호협력평가동반하락…상생성적표'흔들'",
+  "공정위,구글‘최혜대우계약’본격심의...최대8496억과징금가능성...",
+  "[자막뉴스]선넘은응원가의대가...\"배재고6개월출전정지\"",
+  "\"배재고출전정지6개월과도하다\"?규정과선례따져보니",
+  "'현직경찰'장윤기부친…'성범죄의도'핵심증거폐기",
+  "SK,4300개협력사상생에8700억투자…반도체생태계키운다",
+  "삼성이어SK도협력사상생강화…4300개사혜택기대",
+  "공정위,SK와1·2·3차하도급사상생협약체결…대금지급조건개선"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-02T15:20:57.114594+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-02T15:30:56.886615+09:00",
+   "투자 상생에 키운다 4300개 8700억 협력사 생태계 반도체"
+  ],
+  [
+   "2026-07-02T15:30:56.886615+09:00",
+   "삼성 SK도 강화 혜택 상생 이어 4300개사 기대 협력사"
+  ],
+  [
+   "2026-07-02T15:30:56.886615+09:00",
+   "상생협약 지급조건 대금 개선 3차 체결 하도급사 SK와"
+  ]
+ ],
+ "last_run": "2026-07-02T15:31:13.615547+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
   "insight.co.kr": "인사이트",
   "seoultimes.news": "서울타임즈뉴스",
   "safetimes.co.kr": "세이프타임즈",
-  "investchosun.com": "investchosun.com"
+  "investchosun.com": "investchosun.com",
+  "biz.newdaily.co.kr": "뉴데일리",
+  "electimes.com": "전기신문",
+  "naeil.com": "내일신문"
  }
 }
