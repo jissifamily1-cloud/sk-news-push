@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/market/2026/07/02/0002",
-  "https://www.ajunews.com/view/20260702091616945",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260702501&PRO_CODE=99",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260702091755PYB",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=306103",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167454",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=314433",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125414",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=88925",
   "https://news.mtn.co.kr/news-detail/2026070209110413982",
   "http://www.lawissue.co.kr/view.php?ud=2026070209145671969817d053b9_12",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444621",
@@ -2999,18 +2990,18 @@
   "https://www.g-enews.com/view.php?ud=202607031253184926e7e8286d56_1",
   "http://www.rookie.co.kr/news/articleView.html?idxno=124407",
   "https://www.news1.kr/politics/assembly/6216987",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=440648"
+  "http://www.econonews.co.kr/news/articleView.html?idxno=440648",
+  "http://www.fnnews.com/news/202607031258535288",
+  "http://www.suwonilbo.kr/news/articleView.html?idxno=316605",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=735876",
+  "http://www.inews24.com/view/1982228",
+  "https://www.naeil.com/news/read/594041",
+  "https://www.techm.kr/news/articleView.html?idxno=153106",
+  "https://www.naeil.com/news/read/594137",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=434607",
+  "https://www.veritas-a.com/news/articleView.html?idxno=617856"
  ],
  "seen_titles": [
-  "[속보]코스피,반도체쇼크에4.46%폭락...삼성전자주가'30만'아래로",
-  "SKT,‘퀀텀코리아2026’참가⋯AI·6G시대대비한차세대양자암호...",
-  "SK바사,게이츠재단지원AI백신개발과제주관기관선정",
-  "메타는오른메타발(發)폭락...삼전하닉도폭락출발",
-  "롯데카드,AI로보이스피싱막는다…통신3사와맞손",
-  "SK바이오사이언스,게이츠재단AI백신개발과제주관기관선정",
-  "SK하이닉스목표주가,인공지능수요폭발로400만원으로상향",
-  "SKT,KS-SQI이동통신27년연속정상…SKB·SK텔링크도1위",
-  "롯데카드,통신3사와보이스피싱피해예방체계구축",
   "'0시부터본격가동'통합시의회…1호조례는",
   "표준협회,2026년상반기KS-SQI역대최고치경신",
   "코스피,장초반5%급락…한달만에8000선이탈",
@@ -6001,7 +5992,16 @@
   "키옥시아,차세대고속낸드양산돌입…AI'추론'붐타고시총1위도...",
   "제42회국민대총장배농구대회,본선토너먼트금일개막",
   "송영길\"이원택'상실감'발언적절치않아…정청래도동조\"",
-  "삼성전자·SK하이닉스,상승에급등...특히삼성전자6%상승"
+  "삼성전자·SK하이닉스,상승에급등...특히삼성전자6%상승",
+  "증시양극화는'현재진행형'...코스피3.6%↑,코스닥2.4%↓[fn오후시황...",
+  "[특집인터뷰]성수석이천시장\"반도체·역세권혁신으로'미래이천'...",
+  "SKT,구글AI구독서비스·'갤럭시와이드9'선보여",
+  "SK하이닉스,2분기영업익66조전망…\"LTA로실적변동성축소\"",
+  "반도체후보지‘광주군공항’이전차질빚나",
+  "삼성·SK,'협력사상생협약체결'사회공헌강화",
+  "‘이번엔영남’첨단산업전국지도완성",
+  "[기자수첩]주소지공백에군공항충돌까지,통합특별시...출범부터불...",
+  "고려대이병훈교수팀'전기없이과산화수소생산하는차세대시스템..."
  ],
  "recent_sigs": [
   [
@@ -7027,9 +7027,25 @@
   [
    "2026-07-03T13:01:23.516572+09:00",
    "상승에 삼성전자 특히 SK하이닉스 급등 상승"
+  ],
+  [
+   "2026-07-03T13:10:04.070282+09:00",
+   "영남 이번엔 전국지도 완성 첨단산업"
+  ],
+  [
+   "2026-07-03T13:10:04.070282+09:00",
+   "공백에 주소지 군공항 통합특별시 충돌까지 출범부터"
+  ],
+  [
+   "2026-07-03T13:10:04.070282+09:00",
+   "상생 삼성 강화 협력사 협약 사회공헌 체결"
+  ],
+  [
+   "2026-07-03T13:10:04.070282+09:00",
+   "전기 없이 시스템 차세대 생산하는 고려대 이병훈 과산화수소 교수팀"
   ]
  ],
- "last_run": "2026-07-03T13:01:41.045847+09:00",
+ "last_run": "2026-07-03T13:10:17.885830+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
