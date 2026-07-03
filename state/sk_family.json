@@ -1570,7 +1570,10 @@
   "https://www.meconomynews.com/news/articleView.html?idxno=132470",
   "https://www.moneystorm.kr/news/articleView.html?idxno=4842",
   "https://ilyo.co.kr/?ac=article_view&entry_id=511710",
-  "https://www.thepowernews.co.kr/view.php?ud=202607031343322272de3f0aa1be_7"
+  "https://www.thepowernews.co.kr/view.php?ud=202607031343322272de3f0aa1be_7",
+  "https://www.kyeonggi.com/article/20260703580156",
+  "https://hbnpress.com/news/view/1065589436639080",
+  "https://www.news2day.co.kr/article/20260703500021"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3127,7 +3130,10 @@
   "삼전닉스,일단'호남투자'발표는했는데…전력·용수·인재확보'골...",
   "SK그룹,협력사에5년간1.4조자금지원...'반도체생태계'강화",
   "“체코전홍명보칭찬,성급한기사”일요신문열린독자위원회보고서",
-  "SK,1·2·3차협력사와상생협약…하이닉스1.4조자금활용"
+  "SK,1·2·3차협력사와상생협약…하이닉스1.4조자금활용",
+  "경기도,도립동물병원설립추진…기본구상·타당성조사용역진행",
+  "SK7개주요계열사,1·2·3차협력사간상생협약체결",
+  "[재계인사이드]‘AI거품론’과삼성전자SK하이닉스의‘보험’"
  ],
  "recent_sigs": [
   [
@@ -3217,9 +3223,13 @@
   [
    "2026-07-03T13:40:17.714052+09:00",
    "지원 4조 협력사에 생태계 자금 반도체 강화 5년간"
+  ],
+  [
+   "2026-07-03T14:10:18.321105+09:00",
+   "보험 거품론 삼성전자 AI SK하이닉스의"
   ]
  ],
- "last_run": "2026-07-03T14:00:45.548764+09:00",
+ "last_run": "2026-07-03T14:10:31.355963+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3301,6 +3311,7 @@
   "n.news.naver.com": "n.news.naver.com",
   "globalepic.co.kr": "글로벌에픽",
   "moneystorm.kr": "머니스톰",
-  "topdaily.kr": "톱데일리"
+  "topdaily.kr": "톱데일리",
+  "news2day.co.kr": "뉴스투데이"
  }
 }
