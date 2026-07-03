@@ -1609,7 +1609,9 @@
   "https://www.mk.co.kr/article/12090122",
   "https://www.polinews.co.kr/news/articleView.html?idxno=735952",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1529484",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335527"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335527",
+  "https://www.kukinews.com/article/view/kuk202607030141",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7172538"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3205,7 +3207,9 @@
   "박정완이미인대표,중소기업인대회서장관표창수상",
   "나주시,민선9기첫정기인사…83명승진·'일과성과'중심인재배치",
   "경기도,광역지자체최초공공동물병원설립추진",
-  "청와대출입1년,가장재밌었던'호남반도체클러스터'브리핑"
+  "청와대출입1년,가장재밌었던'호남반도체클러스터'브리핑",
+  "[충남도의회브리핑]예산결산특위출범…“민생회복골든타임지킬것...",
+  "[정인호객원기자칼럼]3대메가프로젝트,산업정책출발점으로"
  ],
  "recent_sigs": [
   [
@@ -3279,9 +3283,13 @@
   [
    "2026-07-03T17:20:18.869459+09:00",
    "언급한 이진숙 거짓말 표정은 의원 회장 못한다"
+  ],
+  [
+   "2026-07-03T18:10:16.261414+09:00",
+   "3대 산업 정책 메가프로젝트 출발점으로"
   ]
  ],
- "last_run": "2026-07-03T18:00:42.649452+09:00",
+ "last_run": "2026-07-03T18:10:33.978067+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3368,6 +3376,7 @@
   "nocutnews.co.kr": "노컷뉴스",
   "econovill.com": "ER 이코노믹리뷰",
   "marketnews.co.kr": "마켓뉴스",
-  "asiaa.co.kr": "아시아에이"
+  "asiaa.co.kr": "아시아에이",
+  "weekly.hankooki.com": "주간한국"
  }
 }
