@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://kpenews.com/View.aspx?No=4134818",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42138",
-  "https://www.yna.co.kr/view/PYH20260702160500013?input=1196m",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624629",
-  "http://www.inews24.com/view/1981963",
   "https://www.yna.co.kr/view/PYH20260702160700013?input=1196m",
   "https://www.news1.kr/photos/7989302",
   "https://www.businessplus.kr/news/articleView.html?idxno=113662",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/politics/president/6217313",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6834940_37012.html",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6834939_37012.html",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465453"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465453",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465456",
+  "https://www.kbsm.net/news/view.php?idx=525475",
+  "https://www.nocutnews.co.kr/news/6543027",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465455",
+  "https://www.tenasia.co.kr/article/2026070339544"
  ],
  "seen_titles": [
-  "모두발언하는김민석전총리",
-  "[N-제약Bio]종근당홀딩스,병원∙특수학교찾아가는‘종근당KIDSHOPER...",
-  "30년만에포도밭에서AI메가벨트로…충청권대변신",
-  "\"김부장이사라진다\"…40대이상몸집줄이는KT",
-  "[부동산PF점검]광주챔피언스시티개발,'반도체'호재올라타나",
   "서울대·거점국립대에반도체학과생길까…'삼전닉스'참여논의",
   "외국인주식매도세언제까지지속될까",
   "[더벨][MarketWatch]글로벌랩,SK하이닉스ADR상장에촉각",
@@ -6001,7 +5996,12 @@
   "'메가프로젝트'띄운李대통령…지지율하락세끊고반등신호탄될까",
   "누리호엔진품은영남‥우주항공'심장'으로",
   "마지막퍼즐은'영남권'‥\"경제영토확장\"",
-  "[주간거래소외국인]SK하이닉스삼성전자팔고삼성전기DB하이텍담았..."
+  "[주간거래소외국인]SK하이닉스삼성전자팔고삼성전기DB하이텍담았...",
+  "[코스피지수선물옵션]삼성전자·SK하이닉스선물급등…반도체가지...",
+  "영남권피지컬AI·우주에'312조',서남충청권은반도체…대기업역대급...",
+  "SK140조,삼성60조…영남권첨단산업거점으로[오늘아침]",
+  "[주간거래소기관]SK스퀘어삼성전자이수페타시스'왕성한식욕'...한...",
+  "\"내돈돌려줘\"…미자유튜브채널,하이닉스폭락에또'웅성웅성'"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,25 @@
   [
    "2026-07-04T07:21:02.200250+09:00",
    "퍼즐은 마지막 확장 경제 영토 영남권"
+  ],
+  [
+   "2026-07-04T07:41:01.680460+09:00",
+   "반도체 우주에 피지컬AI 영남권 대기업 역대급 서남충청권은 312조"
+  ],
+  [
+   "2026-07-04T07:41:01.680460+09:00",
+   "60조 영남권 첨단산업 140조 거점으로 삼성"
+  ],
+  [
+   "2026-07-04T07:41:01.680460+09:00",
+   "이수페타시스 식욕 SK스퀘어 삼성전자 왕성한"
+  ],
+  [
+   "2026-07-04T07:41:01.680460+09:00",
+   "미자 하이닉스 채널 웅성웅성 폭락에 돌려줘 유튜브"
   ]
  ],
- "last_run": "2026-07-04T07:31:16.072581+09:00",
+ "last_run": "2026-07-04T07:41:18.057705+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6595,6 +6611,7 @@
   "thedailypost.kr": "데일리포스트",
   "web.ubc.co.kr": "web.ubc.co.kr",
   "livebiz.today": "생생비즈플러스",
-  "gamechosun.co.kr": "gamechosun.co.kr"
+  "gamechosun.co.kr": "gamechosun.co.kr",
+  "tenasia.co.kr": "텐아시아"
  }
 }
