@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260702_0002176668",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305948&inflow=N",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307408",
   "http://www.srtimes.kr/news/articleView.html?idxno=206632",
   "https://news.skbroadband.com/news/articleView.html?idxno=231015",
   "https://www.munhwa.com/article/11599902",
@@ -2999,12 +2996,12 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167584",
   "https://www.g-enews.com/view.php?ud=2026070408295835120c8c1c064d_1",
   "https://www.yna.co.kr/view/AKR20260703073400003?input=1195m",
-  "https://www.ajunews.com/view/20260703105150879"
+  "https://www.ajunews.com/view/20260703105150879",
+  "https://www.xportsnews.com/article/2167965",
+  "https://www.slist.kr/news/articleView.html?idxno=749536",
+  "https://www.hankyung.com/article/2026070453137"
  ],
  "seen_titles": [
-  "반도체한파에코스피7%대급락하며7700선내줘",
-  "코스피,7.9%급락하며7400선추락...코스닥도6%대↓",
-  "이재준수원시장“수원대전환완성,가장빛나는시대열것”",
   "SK하이닉스,협력사성장주기별상생모델공개…1조4천억원투입",
   "코스피8%급락8000밑으로…반도체투매·환율급등겹쳐",
   "외인·기관6.4조쌍끌이매도…코스피7.89%폭락해7600선후퇴",
@@ -6001,7 +5998,10 @@
   "\"美정부,메모리시장개입땐공급난악화\"...SEMI경고",
   "“베트남을첨단IC기지로”…하이퐁,LG이노텍‘10억달러반도체기...",
   "주유소휘발윳값한주새56원내린1천952원…경유1천940원대",
-  "[고혜영의주린이투자노트]증시쥐락펴락하는국민연금은뭘샀을까…..."
+  "[고혜영의주린이투자노트]증시쥐락펴락하는국민연금은뭘샀을까…...",
+  "축구이어농구월드컵마저'경우의수'따져야하나…'부임후0승3패...",
+  "주유소휘발윳값한주새56원↓1952원…경유1940원대",
+  "\"휘발유2000원밑으로\"…한주새56원내렸다"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-07-04T08:41:09.704528+09:00",
    "샀을까 쥐락펴락하는 국민연금은 증시"
+  ],
+  [
+   "2026-07-04T08:51:04.478255+09:00",
+   "2000원 내렸다 56원 휘발유 밑으로"
   ]
  ],
- "last_run": "2026-07-04T08:41:26.258762+09:00",
+ "last_run": "2026-07-04T08:51:10.080974+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
