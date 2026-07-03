@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsdream.kr/news/articleView.html?idxno=113866",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624541",
-  "https://www.m-economynews.com/news/article.html?no=68365",
-  "https://www.mt.co.kr/stock/2026/07/02/2026070213455681293",
-  "https://www.mt.co.kr/tech/2026/07/02/2026070210050950580",
   "https://www.greened.kr/news/articleView.html?idxno=343996",
   "https://news.bizwatch.co.kr/article/real_estate/2026/07/02/0019",
   "https://www.viva100.com/article/20260702500931",
@@ -2999,14 +2994,14 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1388146",
   "http://www.00news.co.kr/news/articleView.html?idxno=104922",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641036&plink=ORI&cooper=NAVER",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310021"
+  "https://www.thepublic.kr/news/articleView.html?idxno=310021",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037314",
+  "https://www.livebiz.today/news/articleView.html?idxno=203082",
+  "https://www.newsjeju.net/news/articleView.html?idxno=422913",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/03/2026070390332.html",
+  "https://www.seoul.co.kr/news/economy/2026/07/03/20260703500164?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "[SK재평가]②SK에코플랜트,건설사에서반도체인프라로",
-  "아정당,우리카드와손잡고고정비특화PLCC출시",
-  "국제유가추락에도웃지못하는코스피…‘빅쇼트’예언적중했나[머...",
-  "[그래픽]충청권첨단산업투자계획",
-  "충청권에향하는392조…삼성·SK하이닉스반도체머니240조",
   "SK오션플랜트,대만펭미아오1에15MW급초대형재킷첫납품",
   "SKT·KT,퀀텀코리아서첨단양자암호기술총망라",
   "삼성·SK·셀트리온충청투자에…李대통령“이병철의도쿄선언연상...",
@@ -6001,29 +5996,14 @@
   "李,6일청와대서'반도체클러스터'점검회의",
   "삼성·SK·한화등6대그룹,영남권미래지형도바꾼다",
   "하루만에8천복귀…본주뒤쫓는'레버리지'",
-  "SK하이닉스27%급락에도…\"목표가420만원상향나왔다\""
+  "SK하이닉스27%급락에도…\"목표가420만원상향나왔다\"",
+  "李대통령,6일청와대서반도체클러스터점검",
+  "미래에셋,CP로1조3천억조달에나서…현금넘치는SK하이닉스인수유...",
+  "제주항공,제주SKFC와제주바다지킨다",
+  "李대통령,6일'서남권반도체클러스터'민관합동점검회의주관",
+  "“삼전5.4만원일때5억올인”…25억벌고은퇴선언한학원강사"
  ],
  "recent_sigs": [
-  [
-   "2026-07-03T14:41:01.083178+09:00",
-   "DL이앤씨 포스코 롯데 상호협력 울고 현대 웃고 현대ENG 건설사"
-  ],
-  [
-   "2026-07-03T14:41:01.083178+09:00",
-   "탐지 에이전틱 넘어 SK쉴더스 바꾼다 SOC 보안관제 자율"
-  ],
-  [
-   "2026-07-03T14:41:01.083178+09:00",
-   "벨트 해야 반도체 호남 수도권 부산경남 조경태 제도화 3축"
-  ],
-  [
-   "2026-07-03T14:41:01.083178+09:00",
-   "준비까지 AI는 속으로 취업 일상 이제 통신 된다 쇼핑 서비스가"
-  ],
-  [
-   "2026-07-03T14:41:01.083178+09:00",
-   "필요 메가프로젝트 강력한 2030에 보여야 비전 뒷받침 송영길 민주"
-  ],
   [
    "2026-07-03T14:51:04.109183+09:00",
    "만든 산업지도를 전국 논쟁으로 호남 정치 4755조 800조"
@@ -6895,9 +6875,13 @@
   [
    "2026-07-03T20:31:13.538902+09:00",
    "420만원 상향 SK하이닉스 목표가 나왔다 급락에도"
+  ],
+  [
+   "2026-07-03T20:41:05.991509+09:00",
+   "25억 5억 올인 삼전 벌고 선언한 4만원일 은퇴 강사 학원"
   ]
  ],
- "last_run": "2026-07-03T20:31:21.949181+09:00",
+ "last_run": "2026-07-03T20:41:12.873690+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
