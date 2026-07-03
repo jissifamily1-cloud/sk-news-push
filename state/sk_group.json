@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1107933",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=317802",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=118521",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=873968",
   "http://www.e2news.com/news/articleView.html?idxno=331916",
   "https://www.newsis.com/view/NISI20260702_0002176670",
   "http://www.yonhapnewstv.co.kr/news/MYH202607021606182Qh",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260701168700054?input=1195m",
   "https://www.tokenpost.kr/news/market/374964",
   "https://www.etnews.com/20260704000007",
-  "https://www.seoulfn.com/news/articleView.html?idxno=632674"
+  "https://www.seoulfn.com/news/articleView.html?idxno=632674",
+  "https://www.newspim.com/news/view/20260702001054",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16123315",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16123321",
+  "https://www.slist.kr/news/articleView.html?idxno=749529"
  ],
  "seen_titles": [
-  "SK-공정거래위원회상생협약체결식",
-  "'상생협력을위해'",
-  "SK,협력사상생에1.4푼다…최창원“기술개발지원아끼지않을것”",
-  "SK그룹,협력사상생협약…하이닉스1.4兆지원",
   "[포토]\"함께갑시다\"SKT정재헌,협력사와양손'꽉!'",
   "메타發쇼크에코스피·코스닥각각8000·900선아래로…코스피시총5...",
   "세종시출범이래최대규모8조투자유치성과",
@@ -6001,7 +5997,11 @@
   "[전남광주청사진]박종원담양군수\"통합시대북부권중심축도약\"",
   "국내증시투자자예탁금119조돌파,개인매수여력주목받아",
   "민형배전남광주특별시장“반도체경쟁력은사람“…맞춤형인재공급...",
-  "[대한민국리빌딩④]AI의최종무대는공장···영남권,'피지컬AI수..."
+  "[대한민국리빌딩④]AI의최종무대는공장···영남권,'피지컬AI수...",
+  "'SK와협력사·공정위의상생협력을위해'",
+  "7월1주차SK하이닉스주가급락후반등마감",
+  "7월1주차SK스퀘어주가급등락속상승마감",
+  "[은행가]기업은행,외국인대상캐시백·농협은행'오늘의혜택'출시..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,17 @@
   [
    "2026-07-04T08:21:02.150026+09:00",
    "공장 피지컬 AI의 최종 영남권 무대는 AI"
+  ],
+  [
+   "2026-07-04T08:31:09.306623+09:00",
+   "급등락 상승 SK스퀘어 주가 1주차 7월 마감"
+  ],
+  [
+   "2026-07-04T08:31:09.306623+09:00",
+   "캐시백 출시 농협은행 혜택 대상 기업은행 외국인 오늘의"
   ]
  ],
- "last_run": "2026-07-04T08:21:14.417143+09:00",
+ "last_run": "2026-07-04T08:31:17.876577+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
