@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=232130",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1782979650&code=11121600&cp=nv",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423144",
   "https://www.polinews.co.kr/news/articleView.html?idxno=735827",
   "http://www.yonhapnewstv.co.kr/news/MYH20260702183154BL8",
@@ -2999,11 +2997,11 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000047608",
   "https://biz.heraldcorp.com/article/10798190",
   "https://www.goodmorningcc.com/news/articleView.html?idxno=448478",
-  "https://www.newsis.com/view/NISX20260704_0003695706"
+  "https://www.newsis.com/view/NISX20260704_0003695706",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2426003",
+  "https://www.yna.co.kr/view/AKR20260703129800017?input=1195m"
  ],
  "seen_titles": [
-  "인사는만사?사람에대한이해가먼저다…신간‘인사쟁이의시선’",
-  "전남광주‘반도체혁명’8월11일구체화된다",
   "반도체도,생활용수도흔들림없다…전남광주통합특별시용수우려차단",
   "[사설]100일민생회복1호결재에쏠린특별시민들의관심",
   "1997년닮은아시아통화약세…루피아보다더흔들린원화",
@@ -6001,7 +5999,9 @@
   "'호남반도체800조투자'삼성전자·SK하이닉스,미국투자압박'시험...",
   "“AI가청년일자리삼켰나”…IT·법률·디자인고용급감",
   "[동그라미만평]이병태위원장이말하는합리적규제란?",
-  "서남권반도체위해신규원전들어서나…한빛부지주목"
+  "서남권반도체위해신규원전들어서나…한빛부지주목",
+  "이종배의원\"충주AI데이터센터선정에역량집중\"",
+  "소버린AI마지막승부처는데이터센터…1천조인프라전쟁"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-07-05T07:41:11.972794+09:00",
    "서남권 한빛부지 신규 원전 반도체 들어서나 주목"
+  ],
+  [
+   "2026-07-05T07:51:13.260975+09:00",
+   "소버린AI 1천조 인프라 승부처는 데이터센터 전쟁 마지막"
   ]
  ],
- "last_run": "2026-07-05T07:41:23.691337+09:00",
+ "last_run": "2026-07-05T07:51:20.486978+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
