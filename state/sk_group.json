@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/164680",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=132586",
-  "https://www.nocutnews.co.kr/news/6542379",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82848",
   "https://www.ekn.kr/web/view.php?key=20260702020078677",
   "https://www.etoday.co.kr/news/view/2599723",
   "https://www.huffingtonpost.kr/article/258422",
@@ -2999,13 +2995,13 @@
   "http://www.metroseoul.co.kr/article/20260704500052",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=351952",
   "http://www.newstomato.com/ReadNews.aspx?no=1306130&inflow=N",
-  "https://www.segye.com/newsView/20260703513191?OutUrl=naver"
+  "https://www.segye.com/newsView/20260703513191?OutUrl=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3626322",
+  "https://www.news1.kr/world/usa-canada/6217834",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6835018_37004.html",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6835017_37004.html"
  ],
  "seen_titles": [
-  "하나은행,SK텔레콤과통신비자동납부이벤트",
-  "SK,협력사상생협약체결…반도체생태계에8700억원투자",
-  "SK오션플랜트주가,7월2일15,590원3.82%하락마감",
-  "[이슈+]SK에코플랜트평택~오송철도공사현장서근로자사망…전현장...",
   "코스피7.9%급락…삼전9%·하닉14%대폭락",
   "삼성·SK하이닉스,충청권에240조투자…반도체·AI핵심거점부상",
   "세종시,삼성8조투자유치…역대최대투자이끌어",
@@ -6001,7 +5997,11 @@
   "SK하이닉스美ADR수수료율0.5%검토…2000억원대'초대형딜'눈앞",
   "이종배국회의원,충주AI데이터센터유치'총력'",
   "SK하닉,미ADR상장임박…“주관사수수료율0.5%전망”",
-  "하루750포인트출렁인코스피…‘AI피크아웃'우려씻어낼까"
+  "하루750포인트출렁인코스피…‘AI피크아웃'우려씻어낼까",
+  "이종배의원,충주,SK그룹AI데이터센터후보지검토…입지경쟁본격...",
+  "\"SK하이닉스,美상장수수료0.5%검토…수수료2000억육박\"",
+  "800조반도체클러스터,최대변수는전력‥안정적공급가능한가?",
+  "햇빛과바람으로데이터센터구동‥'동수서산'정책펼치는중국"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,17 @@
   [
    "2026-07-04T20:11:56.446125+09:00",
    "피크아웃 출렁인 AI 코스피 750포인트 씻어낼까 하루 우려"
+  ],
+  [
+   "2026-07-04T20:21:06.417266+09:00",
+   "반도체 클러스터 800조 전력 변수는 안정적 가능한가 공급"
+  ],
+  [
+   "2026-07-04T20:21:06.417266+09:00",
+   "펼치는 데이터 중국 동수서산 정책 햇빛과 센터 바람으로 구동"
   ]
  ],
- "last_run": "2026-07-04T20:12:02.374469+09:00",
+ "last_run": "2026-07-04T20:21:15.354212+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
