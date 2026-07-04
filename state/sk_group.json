@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001085",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4092847",
-  "http://www.inews24.com/view/1982038",
-  "http://www.fnnews.com/news/202607021808397443",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=243922",
-  "http://www.domin.co.kr/news/articleView.html?idxno=1560631",
-  "http://www.fnnews.com/news/202607021827095495",
-  "https://www.etoday.co.kr/news/view/2599803",
   "http://www.fnnews.com/news/202607021827083190",
   "https://www.ggilbo.com/news/articleView.html?idxno=1167231",
   "https://www.kukinews.com/article/view/kuk202607020170",
@@ -2999,17 +2991,17 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037263",
   "https://www.news1.kr/finance/general-stock/6217564",
   "https://biz.sbs.co.kr/article_hub/20000320539?division=NAVER",
-  "http://www.footballist.co.kr/news/articleView.html?idxno=211831"
+  "http://www.footballist.co.kr/news/articleView.html?idxno=211831",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01115206645511568",
+  "https://www.dailian.co.kr/news/view/1663339/?sc=Naver",
+  "https://www.g-enews.com/view.php?ud=2026070423333356909a1f309431_1",
+  "http://www.metroseoul.co.kr/article/20260705500006",
+  "https://www.news2day.co.kr/article/20260703500209",
+  "https://shindonga.donga.com/3/all/13/6286561/1",
+  "https://www.yna.co.kr/view/AKR20260703090200054?input=1195m",
+  "https://www.seoulfn.com/news/articleView.html?idxno=632677"
  ],
  "seen_titles": [
-  "민형배시장\"반도체도생활용수도걱정없다\"…전남광주통합특별시용...",
-  "천조원규모'서남권반도체팹'용수·전력적기공급이성패가른다...",
-  "與당권레이스본격화…정청래는호남행·김민석은충북행",
-  "SK하이닉스,5년간1.4조상생자금조성…협력사동반성장추진",
-  "삼전닉스로돈버는해외코인거래소[기자의눈]",
-  "한미투자공사운영위출범…구윤철“한미전략투자총괄최고컨트롤타...",
-  "[업앤다운]제약주하락…삼성바이오로직스↑·삼성에피스홀딩스↓",
-  "外人4.4조'패닉셀'…8000p무너져",
   "옛전방·일신방직부지내'챔피언스시티',9월분양예정",
   "\"숨만쉬었는데천만원날라가\"…SK하닉,17년來최대폭락",
   "널뛰는코스피에지쳤나…대기자금줄고손바뀜도주춤",
@@ -6001,7 +5993,15 @@
   "[숫자로본뉴스]배터리시장커졌지만K배터리는뒷걸음",
   "급등락에도굳건한'서학불개미'…7일간레버리지만1.2조순매수",
   "[글로벌경제지표]삼성전자,2분기잠정실적공개…SK하이닉스ADR상장",
-  "안양팬과포항팬이한공간에?'K리그중립석'첫도입,그풍경은[케현..."
+  "안양팬과포항팬이한공간에?'K리그중립석'첫도입,그풍경은[케현...",
+  "연준의사록·삼성전자실적'주목'…1500원대환율어디로[주간외환전...",
+  "“중국칩쓰게해달라”애플,美정·관계로비에나선속내[김규환의...",
+  "UBS,D램가격전망두배상향…AI메모리부족2028년까지간다",
+  "외인은팔고개미는추격…빚투·변동성경고등",
+  "AI시대보안전쟁…KT·SKT,양자암호시장선점나섰다",
+  "“삼성전자,더오를것같긴한데…”투자자흔드는‘심리함정’",
+  "전남광주특별시'삼각난제'…주청사·군공항·반도체겹치나",
+  "[대한민국리빌딩⑥]'브레인벨트'꿈꾸는충청···초격차투자로미..."
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,37 @@
   [
    "2026-07-05T07:01:21.924160+09:00",
    "풍경은 도입 K리그 포항팬이 케현 공간에 중립석 안양팬과"
+  ],
+  [
+   "2026-07-05T07:11:08.876594+09:00",
+   "로비에 애플 해달라 속내 관계 쓰게 나선 중국 김규환의"
+  ],
+  [
+   "2026-07-05T07:11:08.876594+09:00",
+   "부족 전망 D램 AI 상향 가격 메모리 2028년까지 간다 UBS"
+  ],
+  [
+   "2026-07-05T07:11:08.876594+09:00",
+   "빚투 경고등 외인은 팔고 추격 변동성 개미는"
+  ],
+  [
+   "2026-07-05T07:11:08.876594+09:00",
+   "시대 선점 AI 보안 SKT 시장 전쟁 양자암호 나섰다 KT"
+  ],
+  [
+   "2026-07-05T07:11:08.876594+09:00",
+   "삼성전자 한데 심리 흔드는 같긴 오를 투자자 함정"
+  ],
+  [
+   "2026-07-05T07:11:08.876594+09:00",
+   "전남광주특별시 주청사 겹치나 반도체 난제 삼각 군공항"
+  ],
+  [
+   "2026-07-05T07:11:08.876594+09:00",
+   "벨트 충청 브레인 꿈꾸는 투자로 초격차"
   ]
  ],
- "last_run": "2026-07-05T07:01:35.350497+09:00",
+ "last_run": "2026-07-05T07:11:30.998528+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
