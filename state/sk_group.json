@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026070226911",
-  "https://www.g-enews.com/view.php?ud=202607011036348748906806b77b_1",
-  "https://dealsite.co.kr/articles/164696",
   "https://www.hani.co.kr/arti/society/labor/1266207.html",
   "https://www.hani.co.kr/arti/economy/economy_general/1266204.html",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05644886645510584",
@@ -2999,12 +2996,12 @@
   "https://www.dt.co.kr/article/12071062",
   "https://www.newspim.com/news/view/20260704000046",
   "https://www.dt.co.kr/article/12071066",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165145"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165145",
+  "https://www.starnewskorea.com/broadcast-show/2026/07/05/2026070500313422112",
+  "https://www.tokenpost.kr/news/economy/375079",
+  "https://www.yna.co.kr/view/AKR20260703155300008?input=1195m"
  ],
  "seen_titles": [
-  "[오목대]호남특혜,전북차별",
-  "우리투증,6000억인수금융주선완료",
-  "SKAX·한국전력기술'발전·에너지산업'AX혁신나선다",
   "CDMO·시밀러쌍끌이…삼성바이오·셀트리온수출견인",
   "메가프로젝트밖LG전자…피지컬AI로새성장동력키운다",
   "제주SK-바이에른뮌헨친선전일반예매14일오후6시오픈",
@@ -6001,7 +5998,10 @@
   "‘9%뚝’삼전·SK하닉주가…외인언제돌아오나",
   "'삼전닉스'1년새영업익8배↑…'사상최대실적'눈앞",
   "HBM다음은HBF?…이재용‘포스트AI반도체’구상은",
-  "'AI투자둔화'우려넘을까…삼성전자실적주목[주간증시전망]"
+  "'AI투자둔화'우려넘을까…삼성전자실적주목[주간증시전망]",
+  "김준상아나\"前직장하이닉스동기,성과급1억2천..연봉은3배이상\"...",
+  "한국은행경고:삼성·하이닉스로치우친레버리지ETF투자위험증가",
+  "코스피8천피회복에도…'1조클럽'종목6천피때보다91개적어"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-05T06:11:16.443125+09:00",
    "구상은 HBF AI 반도체 포스트 HBM 다음은 이재용"
+  ],
+  [
+   "2026-07-05T06:21:15.565522+09:00",
+   "적어 8천피 코스피 종목 1조클럽 때보다 6천피 91개 회복에도"
   ]
  ],
- "last_run": "2026-07-05T06:13:09.629312+09:00",
+ "last_run": "2026-07-05T06:21:22.576783+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
