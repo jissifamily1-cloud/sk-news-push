@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viewsnnews.com/article?q=236919",
-  "https://www.mk.co.kr/article/12088916",
-  "https://www.news1.kr/local/daejeon-chungnam/6216085",
-  "https://www.viva100.com/article/20260702501070",
-  "https://biz.chosun.com/opinion/leader_column/2026/07/02/HLM2BI4OBBGWVCPKRIM5H63WYE/",
-  "http://www.metroseoul.co.kr/article/20260702500431",
   "http://www.weeklytoday.com/news/articleView.html?idxno=783227",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04962646645510584",
   "https://www.eroun.net/news/articleView.html?idxno=84504",
@@ -2999,15 +2993,15 @@
   "https://www.kado.net/news/articleView.html?idxno=2059364",
   "http://www.gjdream.com/news/articleView.html?idxno=670772",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000047565",
-  "http://www.fnnews.com/news/202607040825144749"
+  "http://www.fnnews.com/news/202607040825144749",
+  "https://sports.donga.com/region/article/all/20260704/134235288/1",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000047568",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=237108",
+  "https://www.kizmom.com/news/articleView.html?idxno=111354",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000047567",
+  "https://www.joongangenews.com/news/articleView.html?idxno=530497"
  ],
  "seen_titles": [
-  "‘반도체쇼크’코스피7.9%급락…개인5.4조받고외인5.5조던졌다...",
-  "리밸런싱속상생도강화…SK최태원표협력사전략본격화",
-  "“상생문화2·3차협력사까지확대”…SK,협력사와상생‘맞손’",
-  "SK,협력사상생에1.4조지원...\"반도체협력생태계강화\"",
-  "[기자한컷]SK,협력사와상생협약…\"동반성장강화\"",
-  "1차넘어3차협력사까지…SK,상생결제생태계넓힌다",
   "SK,협력사와상생협약맺어…대금지급·기술·금융지원강화",
   "[위클리오늘]산업일반소식_보람할렐루야탁구단,SK오션플랜트(7.2)",
   "'용인최초재선시장'이상일\"시민과함께완성하는미래용인르네상...",
@@ -6001,7 +5995,13 @@
   "국내기름값7주연속하락…휘발유평균1952.1원·경유1942.4원",
   "이재명대통령'광주·서남권반도체'직접챙긴다",
   "예탁금120조원밑으로…개인매수여력줄었나",
-  "\"45조유입\"소문에환율30원폭락…SK하닉선물환매도에당국도\"선반..."
+  "\"45조유입\"소문에환율30원폭락…SK하닉선물환매도에당국도\"선반...",
+  "성수석이천시장,“시민이주인미래도시”..반도체·역세권새성장...",
+  "휘발유1952원·경유1942원…주유소가격7주째하락",
+  "[EZ데스크의시선]5차산업혁명을만나볼까/최봉석",
+  "120조원무너진투자자예탁금…개미실탄바닥나나,삼전닉스엔1조7천...",
+  "李대통령,호남반도체직접챙긴다…6일긴급점검",
+  "7월3일SK텔레콤8만원대종가형성"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,25 @@
   [
    "2026-07-04T09:41:03.668844+09:00",
    "소문에 환율 유입 30원 SK하닉 선물환 당국도 45조 폭락 선반 매도에"
+  ],
+  [
+   "2026-07-04T09:51:08.307638+09:00",
+   "최봉석 만나볼까 산업혁명을 5차"
+  ],
+  [
+   "2026-07-04T09:51:08.307638+09:00",
+   "투자자예탁금 무너진 바닥나나 개미 실탄 1조7천 삼전닉스엔 120조원"
+  ],
+  [
+   "2026-07-04T09:51:08.307638+09:00",
+   "긴급 반도체 6일 호남 챙긴다 대통령 직접 점검"
+  ],
+  [
+   "2026-07-04T09:51:08.307638+09:00",
+   "종가 3일 7월 8만원대 SK텔레콤 형성"
   ]
  ],
- "last_run": "2026-07-04T09:41:09.378536+09:00",
+ "last_run": "2026-07-04T09:51:23.335925+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6821,6 +6837,7 @@
   "livebiz.today": "생생비즈플러스",
   "gamechosun.co.kr": "gamechosun.co.kr",
   "tenasia.co.kr": "텐아시아",
-  "seoulfn.com": "서울파이낸스"
+  "seoulfn.com": "서울파이낸스",
+  "kizmom.com": "키즈맘"
  }
 }
