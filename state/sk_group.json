@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607020399&t=NN",
-  "https://biz.chosun.com/it-science/ict/2026/07/02/M43BZRXMJ5C5HDIVJDOTA5BHZM/",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624734",
-  "https://www.donga.com/news/Economy/article/all/20260702/134225738/1",
   "https://view.asiae.co.kr/article/2026070216465791141",
   "https://daily.hankooki.com/news/articleView.html?idxno=1382326",
   "https://www.etoday.co.kr/news/view/2599742",
@@ -2999,13 +2995,13 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361613",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248621&CMPT_CD=P0010",
   "http://www.newstomato.com/ReadNews.aspx?no=1306125&inflow=N",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01374326645511240"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01374326645511240",
+  "https://www.ikbc.co.kr/article/view/kbc202607040015",
+  "https://www.econovill.com/news/articleView.html?idxno=744270",
+  "https://view.asiae.co.kr/article/2026070217211077799",
+  "https://www.pressian.com/pages/articles/2026070412384674563"
  ],
  "seen_titles": [
-  "'검은목요일'코스피,7.9%폭락…'8천피'붕괴",
-  "SK에코플랜트평택-오송2복선화현장서근로자사망",
-  "[특징주]우원개발,\"800조호남반도체클러스터투자본격화\"건설株...",
-  "[출연]삼성·SK,4755조메가투자계획발표···전국에AI·반도체거...",
   "빅테크투자과잉우려에코스피,7.9%급락…7,648에마감",
   "코스피,반도체쇼크에7600선후퇴…삼성전자·SK하이닉스급락",
   "삼성,충청에140조원투자…HBM·OLED·차세대배터리'미래승부수'",
@@ -6001,17 +5997,13 @@
   "삼성전자,메모리호황에실적전망상향…\"내년까지간다\"",
   "19점차도못지킨마줄스호,너무컸던이현중과귀화선수의빈자리",
   "휘발유1주사이56원하락…‘휘발유2000원대이하로’",
-  "일본도한국처럼대학에‘계약학과’만든다"
+  "일본도한국처럼대학에‘계약학과’만든다",
+  "기름값일주일새50원이상↓…휘발유1,952원·경유1,942원",
+  "증시흔드는'변수'…개인매수여력·중복상장제동·환율변동'촉각'",
+  "급등급락'롤러코스터'증시…범인은'델타'였다[주末머니]",
+  "김해乙김정호의원\"경남이다시뛰게될것\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-04T06:41:06.288992+09:00",
-   "신약개발에 6억 AI 달러 다케다 투자 인실리코와 전략적"
-  ],
-  [
-   "2026-07-04T06:41:06.288992+09:00",
-   "활황인데 증권주 8000피 증시 부진하던"
-  ],
   [
    "2026-07-04T06:51:39.492215+09:00",
    "연장 한국 3연패 남자농구 패배 대만에 수렁"
@@ -6503,9 +6495,17 @@
   [
    "2026-07-04T12:31:10.083693+09:00",
    "너무 자리 마줄스호 지킨 귀화선수의 컸던 19점차도 이현중과"
+  ],
+  [
+   "2026-07-04T12:51:08.449556+09:00",
+   "롤러코스터 급등 급락 델타 범인은 였다 증시"
+  ],
+  [
+   "2026-07-04T12:51:08.449556+09:00",
+   "다시 의원 뛰게 경남이 김정호 김해"
   ]
  ],
- "last_run": "2026-07-04T12:41:09.259522+09:00",
+ "last_run": "2026-07-04T12:51:18.373995+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
