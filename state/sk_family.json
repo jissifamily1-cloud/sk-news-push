@@ -1643,7 +1643,8 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=141025",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7172780",
   "https://www.ajunews.com/view/20260704095228728",
-  "https://www.hankyung.com/article/202607021576i"
+  "https://www.hankyung.com/article/202607021576i",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132489"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3273,7 +3274,8 @@
   "[위클리PICK3]삼성·SK'1000조원'투자계획부터'메타쇼크'코스피...",
   "[금주의인물]유종철마포경찰서치안정보과장,젠슨황장녀감동시킨...",
   "구형서충남도의회운영위원장선출…\"소통과협치로선진의회구현\"",
-  "'반도체초강국'은정말신의선물일까[청와대는지금]"
+  "'반도체초강국'은정말신의선물일까[청와대는지금]",
+  "[뉴스락특별기획]정부가그리는반도체지방지도...삼성·SK투자전략..."
  ],
  "recent_sigs": [
   [
@@ -3299,9 +3301,13 @@
   [
    "2026-07-04T10:30:26.813454+09:00",
    "초강국 반도체 신의 선물일까 정말"
+  ],
+  [
+   "2026-07-04T10:40:18.910588+09:00",
+   "지방지도 반도체 삼성 투자전략 정부가 그리는"
   ]
  ],
- "last_run": "2026-07-04T10:30:38.176169+09:00",
+ "last_run": "2026-07-04T10:40:31.801948+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3390,6 +3396,7 @@
   "marketnews.co.kr": "마켓뉴스",
   "asiaa.co.kr": "아시아에이",
   "weekly.hankooki.com": "주간한국",
-  "cjb.co.kr": "cjb.co.kr"
+  "cjb.co.kr": "cjb.co.kr",
+  "newslock.co.kr": "뉴스락"
  }
 }
