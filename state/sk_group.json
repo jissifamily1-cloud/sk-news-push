@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260702183154BL8",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600649",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100275",
-  "https://www.sedaily.com/article/20063240",
-  "https://www.hankookilbo.com/news/article/A2026070215250001741?did=NA",
-  "https://www.hankookilbo.com/news/article/A2026070216110005309?did=NA",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=434469",
-  "https://www.busan.com/view/busan/view.php?code=2026070218252155382",
-  "https://www.mt.co.kr/future/2026/07/02/2026070215101568086",
-  "https://www.hankyung.com/article/2026070227851",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05759686645510584",
   "https://www.mk.co.kr/article/12089202",
   "https://news.jtbc.co.kr/article/NB12306239?influxDiv=NAVER",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423143",
@@ -2999,20 +2988,20 @@
   "https://www.ccdailynews.com/news/articleView.html?idxno=2426003",
   "https://www.yna.co.kr/view/AKR20260703129800017?input=1195m",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1715109",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16123929"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16123929",
+  "https://www.tokenpost.kr/news/market/375086",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000047616",
+  "https://www.newsis.com/view/NISX20260703_0003695084",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607010407&t=NNv",
+  "https://www.g-enews.com/view.php?ud=202607030851034855ea13369bfa_1",
+  "https://www.newsway.co.kr/news/view?ud=2026070316012650300",
+  "https://www.theguru.co.kr/news/article.html?no=103948",
+  "https://www.hankyung.com/article/2026070345526",
+  "https://biz.heraldcorp.com/article/10797702",
+  "https://www.mt.co.kr/industry/2026/07/05/2026070314161088158",
+  "https://www.sisajournal.com/news/articleView.html?idxno=378461"
  ],
  "seen_titles": [
-  "1997년닮은아시아통화약세…루피아보다더흔들린원화",
-  "SK,협력사와상생협약…상생문화'2차이하협력사'까지확대",
-  "SK,1·2·3차협력사와상생협약체결…동반성장가속화",
-  "SK하이닉스,협력사와상생에5년간1조4천억원규모자금투입",
-  "충청에392조…李,호남특혜론에“정치인이부화뇌동해서야”",
-  "모건스탠리\"'메가프로젝트'이행시3년간성장률0.5~0.7%p↑\"",
-  "민형배첫행선지는한전…반도체속도전,전력망부터챙겼다",
-  "김민석,'3대메가'띄우기…광주달려간정청래",
-  "[시사플랫폼]“전남광주에반도체클러스터추진발표이후부동산기...",
-  "SK,3차협력사까지상생협약...낙수효과한계깨고'공급망전반체질...",
-  "애플·오픈AI이어메타까지…국내주식시장시총569조증발",
   "비트코인보다더흔들린삼전·닉스…'메타쇼크'에코스피7.9%급락",
   "박수현\"충남은준비된반도체기지\"···202조투자로AI수도승부수",
   "충남도,392조충청권투자묶었다...'AI·반도체수도'승부수",
@@ -6001,7 +5990,18 @@
   "이종배의원\"충주AI데이터센터선정에역량집중\"",
   "소버린AI마지막승부처는데이터센터…1천조인프라전쟁",
   "트럼프,취임후쿠팡주식18차례거래…USTR대표도취임전보수수령",
-  "AI확산속청년고용감소…SW개발자·디자이너·통번역가줄었다"
+  "AI확산속청년고용감소…SW개발자·디자이너·통번역가줄었다",
+  "코스피,반도체·AI우려에8,000선급변동…기관매수로반등",
+  "청년고용에드리운'AI그늘…문좁아진'정보통신·디자인'",
+  "[전남광주,다시하나로⑤]AI·반도체·에너지·우주항공잇는다",
+  "\"호남반도체타당한이유…5가지모두충족\"[세상법인터뷰]",
+  "동부건설,반도체공사잇단수주…첨단산업시설경쟁력키운다",
+  "그래도믿을건삼성그룹주?…삼성전기·생명에쏠린눈",
+  "[영상]수천억주며모셔갈땐언제고…친중헝가리마저돌아섰다",
+  "\"이번주삼전닉스더오를까\"…코스피운명가를'슈퍼위크'[주간전망...",
+  "삼성전자,2040년까지매해160조원투자하는셈…외부조달없이보유현...",
+  "물가지키면서도80兆벌어왔다…정유·석화,무역흑자숨은주역",
+  "\"반도체성과급더줘라\"…한국은노조,일본은주주가요구했다"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,37 @@
   [
    "2026-07-05T08:01:27.588168+09:00",
    "AI SW개발자 감소 줄었다 청년고용 디자이너 통번역가 확산"
+  ],
+  [
+   "2026-07-05T08:11:14.455075+09:00",
+   "수주 동부건설 키운다 경쟁력 잇단 반도체 첨단산업시설 공사"
+  ],
+  [
+   "2026-07-05T08:11:14.455075+09:00",
+   "삼성전기 그래도 쏠린 삼성그룹주 믿을건 생명에"
+  ],
+  [
+   "2026-07-05T08:11:14.455075+09:00",
+   "헝가리마저 언제고 돌아섰다 모셔갈 주며 수천억 친중"
+  ],
+  [
+   "2026-07-05T08:11:14.455075+09:00",
+   "주간전망 삼전닉스 가를 슈퍼위크 코스피 이번주 운명 오를까"
+  ],
+  [
+   "2026-07-05T08:11:14.455075+09:00",
+   "삼성전자 160조원 보유 매해 투자하는 외부조달 없이 2040년까지"
+  ],
+  [
+   "2026-07-05T08:11:14.455075+09:00",
+   "벌어왔다 석화 지키면서도 물가 정유 무역흑자 숨은 주역"
+  ],
+  [
+   "2026-07-05T08:11:14.455075+09:00",
+   "요구했다 주주가 노조 일본은 줘라 성과급 반도체 한국은"
   ]
  ],
- "last_run": "2026-07-05T08:01:33.677236+09:00",
+ "last_run": "2026-07-05T08:11:36.505082+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
