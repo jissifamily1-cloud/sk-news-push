@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423144",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=735827",
   "http://www.yonhapnewstv.co.kr/news/MYH20260702183154BL8",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600649",
   "http://www.dailypop.kr/news/articleView.html?idxno=100275",
@@ -2999,11 +2997,11 @@
   "https://www.goodmorningcc.com/news/articleView.html?idxno=448478",
   "https://www.newsis.com/view/NISX20260704_0003695706",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2426003",
-  "https://www.yna.co.kr/view/AKR20260703129800017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260703129800017?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715109",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16123929"
  ],
  "seen_titles": [
-  "반도체도,생활용수도흔들림없다…전남광주통합특별시용수우려차단",
-  "[사설]100일민생회복1호결재에쏠린특별시민들의관심",
   "1997년닮은아시아통화약세…루피아보다더흔들린원화",
   "SK,협력사와상생협약…상생문화'2차이하협력사'까지확대",
   "SK,1·2·3차협력사와상생협약체결…동반성장가속화",
@@ -6001,7 +5999,9 @@
   "[동그라미만평]이병태위원장이말하는합리적규제란?",
   "서남권반도체위해신규원전들어서나…한빛부지주목",
   "이종배의원\"충주AI데이터센터선정에역량집중\"",
-  "소버린AI마지막승부처는데이터센터…1천조인프라전쟁"
+  "소버린AI마지막승부처는데이터센터…1천조인프라전쟁",
+  "트럼프,취임후쿠팡주식18차례거래…USTR대표도취임전보수수령",
+  "AI확산속청년고용감소…SW개발자·디자이너·통번역가줄었다"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,13 @@
   [
    "2026-07-05T07:51:13.260975+09:00",
    "소버린AI 1천조 인프라 승부처는 데이터센터 전쟁 마지막"
+  ],
+  [
+   "2026-07-05T08:01:27.588168+09:00",
+   "AI SW개발자 감소 줄었다 청년고용 디자이너 통번역가 확산"
   ]
  ],
- "last_run": "2026-07-05T07:51:20.486978+09:00",
+ "last_run": "2026-07-05T08:01:33.677236+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
