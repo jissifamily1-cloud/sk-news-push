@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisacast.kr/news/articleView.html?idxno=97384",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595433",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601633823199",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=758661",
   "https://www.joongdo.co.kr/web/view.php?key=20260702010000817",
   "https://www.newsgn.com/news/articleView.html?idxno=560254",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310523",
@@ -2999,13 +2995,13 @@
   "https://www.joongang.co.kr/article/25442423",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/04/2026070490147.html",
   "https://www.sedaily.com/article/20063777",
-  "https://www.ytn.co.kr/_ln/0102_202607041756309488"
+  "https://www.ytn.co.kr/_ln/0102_202607041756309488",
+  "https://www.ddaily.co.kr/page/view/2026070415001628904",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/03/2026070300105.html",
+  "https://www.bigtanews.co.kr/article/view/big202607040003",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166754"
  ],
  "seen_titles": [
-  "메타,AI클라우드사업진출..반도체투자거품신호인가",
-  "이언주“코스닥거래대금8조,삼전닉스레버리지는12조\"",
-  "SK지오센트릭,폴리머t당최대20만원인하",
-  "삼성·SK·셀트,충청에392조투자…\"글로벌허브로\"",
   "“최저2만원대,통합요금제대전환”…SKT·KT·LGU+,수익성확보‘빨...",
   "하자충당부채2조대···하청사,구상권부담커",
   "막오른與전대…1인1표가중치,순회경선두고도불붙은신경전",
@@ -6001,7 +5997,11 @@
   "與당권주자들주말표심잡기…김민석익산,정청래DJ생가방문",
   "일본에도'계약학과'만든다…도쿄대등5개교에신설",
   "“삼전닉스가번돈을왜국민에게?”…외신“한국의새로운과제”이...",
-  "1500원대고환율·사이드카'뉴노멀'되나?"
+  "1500원대고환율·사이드카'뉴노멀'되나?",
+  "[위클리반도체]서남권·충청권에1136조원쏟아붓는삼성·SK…반도체...",
+  "\"배재고선수들앞길막은건과도한결정…호남반도체정책,산업정...",
+  "KB증권,7월첫째주대한전선등14종목매수추천",
+  "애플가격인상원인으로지목?…삼성·하이닉스美서집단소송폭탄"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,17 @@
   [
    "2026-07-04T18:51:08.573029+09:00",
    "고환율 뉴노멀 1500원대 되나 사이드카"
+  ],
+  [
+   "2026-07-04T19:01:20.287862+09:00",
+   "추천 KB증권 대한전선 첫째주 14종목 매수 7월"
+  ],
+  [
+   "2026-07-04T19:01:20.287862+09:00",
+   "가격 하이닉스 폭탄 원인으로 집단소송 삼성 지목 인상 애플"
   ]
  ],
- "last_run": "2026-07-04T18:51:17.246728+09:00",
+ "last_run": "2026-07-04T19:01:30.489398+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6623,7 +6631,7 @@
   "news.ebs.co.kr": "news.ebs.co.kr",
   "webeconomy.co.kr": "웹이코노미",
   "okfashion.co.kr": "okfashion.co.kr",
-  "bigtanews.co.kr": "bigtanews.co.kr",
+  "bigtanews.co.kr": "빅터뉴스",
   "news.mbccb.co.kr": "MBC충북",
   "ysmbc.co.kr": "여수MBC",
   "apsk.co.kr": "메디팜스투데이",
