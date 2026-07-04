@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.weeklytoday.com/news/articleView.html?idxno=783227",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04962646645510584",
-  "https://www.eroun.net/news/articleView.html?idxno=84504",
-  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=61957",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=219893",
   "https://www.insight.co.kr/news/561231",
   "https://www.pressian.com/pages/articles/2026070215414028627",
   "http://www.finomy.com/news/articleView.html?idxno=256688",
@@ -2999,14 +2994,14 @@
   "https://www.ezyeconomy.com/news/articleView.html?idxno=237108",
   "https://www.kizmom.com/news/articleView.html?idxno=111354",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000047567",
-  "https://www.joongangenews.com/news/articleView.html?idxno=530497"
+  "https://www.joongangenews.com/news/articleView.html?idxno=530497",
+  "https://www.sedaily.com/article/20063740",
+  "https://www.mediapen.com/news/view/1108188",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=723761",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=310805",
+  "https://economist.co.kr/article/view/ecn202607040002"
  ],
  "seen_titles": [
-  "SK,협력사와상생협약맺어…대금지급·기술·금융지원강화",
-  "[위클리오늘]산업일반소식_보람할렐루야탁구단,SK오션플랜트(7.2)",
-  "'용인최초재선시장'이상일\"시민과함께완성하는미래용인르네상...",
-  "통신3사여성관리자비율10%대초반…유리천장여전",
-  "소액주주들\"삼전닉스4천755조투자발표때주주자리는없었다\"",
   "실적발표도안했는데목표가상향…증권가가찍은‘어닝서프라이즈...",
   "허태정\"대기업투자서대전제외?…발표기회있을것\"",
   "우상호강원지사,1호결재로AI산업중심지로의도약시작",
@@ -6001,7 +5996,12 @@
   "[EZ데스크의시선]5차산업혁명을만나볼까/최봉석",
   "120조원무너진투자자예탁금…개미실탄바닥나나,삼전닉스엔1조7천...",
   "李대통령,호남반도체직접챙긴다…6일긴급점검",
-  "7월3일SK텔레콤8만원대종가형성"
+  "7월3일SK텔레콤8만원대종가형성",
+  "휘발윳값7주째하락…전국평균1952원,경유도1940원대로",
+  "주유소기름값7주연속하락…휘발유1952원·경유1942원",
+  "[슬금슬금]국민연금은왜삼성전자를팔았나…리밸런싱의핵심은'속도...",
+  "이젠사이드카도뉴노멀?코스피절반넘어선'삼전닉스'란뇌관[주간...",
+  "LG유플러스,'LTE보다20배빠르다'5G과장광고소송패소"
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,21 @@
   [
    "2026-07-04T09:51:08.307638+09:00",
    "종가 3일 7월 8만원대 SK텔레콤 형성"
+  ],
+  [
+   "2026-07-04T10:01:11.689004+09:00",
+   "국민연금은 삼성전자를 팔았나 핵심은 속도 리밸런싱의"
+  ],
+  [
+   "2026-07-04T10:01:11.689004+09:00",
+   "뉴노멀 이젠 주간 절반 사이드카도 넘어선 삼전닉스 코스피 뇌관"
+  ],
+  [
+   "2026-07-04T10:01:11.689004+09:00",
+   "패소 빠르다 과장광고 20배 5G 소송 LG유플러스 LTE보다"
   ]
  ],
- "last_run": "2026-07-04T09:51:23.335925+09:00",
+ "last_run": "2026-07-04T10:01:23.016454+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
