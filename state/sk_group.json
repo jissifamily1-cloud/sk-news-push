@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.huffingtonpost.kr/article/258422",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=735817",
-  "https://www.socialvalue.kr/news/view/1065598327515946",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3122385",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=154899",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125488",
-  "http://www.newsprime.co.kr/news/article.html?no=738947",
   "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90169",
   "https://www.cbci.co.kr/news/articleView.html?idxno=586257",
   "https://www.sedaily.com/article/20063117",
@@ -2999,16 +2992,16 @@
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6835018_37004.html",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6835017_37004.html",
   "https://www.ddaily.co.kr/page/view/2026070408590952682",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6835019_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6835019_37004.html",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=752324",
+  "http://www.inews24.com/view/1982452",
+  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=286798",
+  "https://www.gokorea.kr/news/articleView.html?idxno=871162",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602267",
+  "https://biz.heraldcorp.com/article/10797808",
+  "https://biz.heraldcorp.com/article/10798155"
  ],
  "seen_titles": [
-  "세종시,삼성8조투자유치…역대최대투자이끌어",
-  "SK,협력사에1조4000만투자…'상생협약체결'",
-  "한미반도체곽동신회장,50억자사주추가매입...美시장공략'자신...",
-  "삼성,세종에8조투자…AI반도체기판생산기지구축",
-  "'검은목요일'국내증시…코스피8%가까이폭락",
-  "충남에202조투자…박수현“기존산업기반이최대강점”",
-  "메타發쇼크에534조날아간'검은목요일'…SK하이닉스17년만에최대폭...",
   "충청권392조원투자계획구체화,충청권은'안전한2등':이재명\"투자...",
   "[마감시황]메타發반도체쇼크...코스피7.9%급락,8000선붕괴",
   "SK,동반성장금융·기술지원에1조4000억투입…상생문화2·3차협력사...",
@@ -6001,13 +5994,16 @@
   "800조반도체클러스터,최대변수는전력‥안정적공급가능한가?",
   "햇빛과바람으로데이터센터구동‥'동수서산'정책펼치는중국",
   "주가바닥친코스닥,7월부턴탄락받나…첫수술은동전주퇴출[증시레...",
-  "'탈원전'틀깨고대기업총수품은'이재명식실용주의'"
+  "'탈원전'틀깨고대기업총수품은'이재명식실용주의'",
+  "SK·현대차·삼성SDI,울산대규모투자…AI데이터센터·미래차산업...",
+  "\"SK하이닉스美ADR상장수수료율0.5%검토⋯2천억육박\"",
+  "코스피변동성′널뛰기′..부산기업더힘들다",
+  "휘발유·경유가격7주연속하락세…최고가격제효과나타나나",
+  "하준경경제성장수석“3대메가프로젝트,박정희시대이은2차산업화...",
+  "“마이크론과정면승부”이젠미장서SK하이닉스산다…따져봐야할...",
+  "“이건완전도박판”“못버티면빨리팔아라”하루20%역대급‘널..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-04T14:51:04.138760+09:00",
-   "나가던 메모리 만든 호황이 삼전닉스 꺾였었나 불안"
-  ],
   [
    "2026-07-04T15:01:16.515830+09:00",
    "지식산업센터는 깰까 전철 판교까지다 10분대 통념 경기광주가"
@@ -6231,9 +6227,29 @@
   [
    "2026-07-04T20:31:15.575078+09:00",
    "총수 탈원전 품은 대기업 실용주의 깨고 이재명식"
+  ],
+  [
+   "2026-07-04T20:51:06.089056+09:00",
+   "변동성 힘들다 부산 코스피 기업 널뛰기"
+  ],
+  [
+   "2026-07-04T20:51:06.089056+09:00",
+   "가격 연속 최고가격제 나타나나 7주 하락세 효과 경유 휘발유"
+  ],
+  [
+   "2026-07-04T20:51:06.089056+09:00",
+   "시대 하준경 경제성장수석 이은 박정희 3대 메가프로젝트 산업화 2차"
+  ],
+  [
+   "2026-07-04T20:51:06.089056+09:00",
+   "이젠 마이크론과 승부 산다 따져봐야 정면 미장서 SK하이닉스"
+  ],
+  [
+   "2026-07-04T20:51:06.089056+09:00",
+   "팔아라 완전 역대급 하루 버티면 이건 빨리 도박판"
   ]
  ],
- "last_run": "2026-07-04T20:41:18.268304+09:00",
+ "last_run": "2026-07-04T20:51:27.642411+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6636,6 +6652,7 @@
   "theopiniontimes.news": "더오피니언타임즈",
   "tfmedia.co.kr": "조세금융신문",
   "ppss.kr": "ㅍㅍㅅㅅ PPSS",
-  "pointe.co.kr": "포인트경제"
+  "pointe.co.kr": "포인트경제",
+  "busanmbc.co.kr": "busanmbc.co.kr"
  }
 }
