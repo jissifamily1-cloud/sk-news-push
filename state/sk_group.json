@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203554",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030243&t=NN",
-  "https://www.hankyung.com/article/2026070331896",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=4825",
-  "https://news.bizwatch.co.kr/article/market/2026/07/02/0020",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203537",
-  "https://www.etoday.co.kr/news/view/2599840",
   "https://www.econotimes.com/Chinese-Copper-Foil-Maker-Londian-Files-US-IPO-as-EV-Battery-Demand-Grows-1745815",
   "https://www.econotimes.com/Kioxia-Bets-on-AI-Memory-Boom-With-Next-Gen-NAND-Production-in-Japan-1745816",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714943",
@@ -2999,16 +2992,16 @@
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077433",
   "http://www.jeollailbo.com/news/articleView.html?idxno=804483",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027929",
-  "https://www.mk.co.kr/article/12090637"
+  "https://www.mk.co.kr/article/12090637",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61131",
+  "https://www.munhwa.com/article/11600360",
+  "https://www.seoultimes.news/news/article.html?no=2000097404",
+  "https://www.mt.co.kr/politics/2026/07/05/2026070516165163001",
+  "https://www.bloter.net/news/articleView.html?idxno=667203",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260705010001617",
+  "https://www.ddaily.co.kr/page/view/2026070515382233533"
  ],
  "seen_titles": [
-  "[넥스트-샷]반도체이틀간11%빠져도다우는\"갈길간다\"",
-  "쿠오인·OKX·바이비트·MEXC등미신고가상자산사업자,韓증시기반...",
-  "상반기도시정비사업수주,어느건설사웃었나?현대-GS-삼성'3강독주...",
-  "국내점포줄이고해외로...증권사,글로벌공략강화",
-  "광주챔피언스시티에주거단지9월분양",
-  "김천상무,휴식기마치고5일제주전홈경기",
-  "“SK하이닉스,하반기부터메모리확보경쟁본격화”목표가↑",
   "“선물아니다,요즘세상에압력넣는다고기업들옮겨오는데가어디...",
   "7월3일굿모닝MBN이시각주요뉴스",
   "반도체이틀째조정…'업종순환매'다우사상최고치-[글로벌마감시...",
@@ -6001,17 +5994,16 @@
   "포항블루밸리,SK80조투자후보지부상…이철우\"준비된땅이기업잡...",
   "전남광주통합특별시,반도체로대한민국미래연다-출범식및반도체...",
   "[경기단체장]조용익부천시장인터뷰",
-  "美휩쓰는'K전력삼총사'ETF로담아볼까"
+  "美휩쓰는'K전력삼총사'ETF로담아볼까",
+  "SK,협력사에1.4조푼다…\"AI반도체경쟁력,함께키운다\"",
+  "이번주세계미리보기…나토정상회의,마린르펜판결,이란하메네이...",
+  "SK텔레콤,2035년까지AI데이터센터15GW조성…아시아AI허브승부수",
+  "반도체發수십조추가세수,메가프로젝트·청년떠받친다",
+  "[배터리인사이드]엘앤에프,하이니켈·LFP양극재로투트랙발판확보",
+  "삼성·SK,대미투자속도내나…800조국내투자눈치",
+  "역대급반도체호황속,韓사회강타한'부(富)의갈등'…외신도주목"
  ],
  "recent_sigs": [
-  [
-   "2026-07-05T11:31:17.277995+09:00",
-   "메가 14조 삼전닉스 마이크론 맞서 투자 히로시마에"
-  ],
-  [
-   "2026-07-05T11:31:17.277995+09:00",
-   "찜찜한 반등 테크주에 달렸다 AI"
-  ],
   [
    "2026-07-05T11:41:14.514866+09:00",
    "영끌 반도체 벨트 월세 나서는 규제 셔세권 무주택자들 뒷북"
@@ -6563,9 +6555,21 @@
   [
    "2026-07-05T17:22:29.644483+09:00",
    "ETF로 휩쓰는 삼총사 K전력 담아볼까"
+  ],
+  [
+   "2026-07-05T17:31:23.353107+09:00",
+   "하이니켈 양극재로 엘앤에프 확보 투트랙 LFP 발판"
+  ],
+  [
+   "2026-07-05T17:31:23.353107+09:00",
+   "800조 대미 삼성 눈치 속도내나 투자 국내"
+  ],
+  [
+   "2026-07-05T17:31:23.353107+09:00",
+   "반도체 사회 호황속 외신도 역대급 강타한 갈등 주목"
   ]
  ],
- "last_run": "2026-07-05T17:22:40.659867+09:00",
+ "last_run": "2026-07-05T17:31:34.217799+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
