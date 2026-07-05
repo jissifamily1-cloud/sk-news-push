@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=344103",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6834606_37004.html",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6834605_37004.html",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=127966",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=552787",
-  "https://www.greened.kr/news/articleView.html?idxno=344089",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=434477",
-  "http://www.kjdaily.com/article.php?aid=1782991413681582002",
-  "http://www.bizwnews.com/news/articleView.html?idxno=139870",
-  "https://www.khan.co.kr/article/202607022026035",
-  "http://www.cctimes.kr/news/articleView.html?idxno=914763",
-  "http://www.cctimes.kr/news/articleView.html?idxno=914738",
   "https://www.topstarnews.net/news/articleView.html?idxno=16121428",
   "http://www.cctimes.kr/news/articleView.html?idxno=914726",
   "http://www.cctimes.kr/news/articleView.html?idxno=914736",
@@ -2999,21 +2987,21 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248768&CMPT_CD=P0010",
   "https://www.mk.co.kr/article/12090440",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167603",
-  "https://www.dt.co.kr/article/12071107"
+  "https://www.dt.co.kr/article/12071107",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=434451",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848296",
+  "https://www.ngonews.kr/news/articleView.html?idxno=232225",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01344806645511568",
+  "https://www.hankyung.com/article/2026070559337",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/05/2026070500011.html",
+  "https://www.sedaily.com/article/20063753",
+  "https://www.newscj.com/news/articleView.html?idxno=3414539",
+  "https://www.mk.co.kr/article/12090443",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1326540",
+  "https://dgmbc.com/NewsArticle/849173",
+  "https://www.ziksir.com/news/articleView.html?idxno=139088"
  ],
  "seen_titles": [
-  "충청흔든삼성·SK,'240조'통큰베팅",
-  "전북현대,주말강원상대로전주성홈경기",
-  "[EBN오늘(2일)이슈종합]국민연금리밸런싱첫날,중기대출줄고가계...",
-  "SKT,퀀텀코리아서AI·6G시대대비양자암호기술공개",
-  "392조충청투자…인천첨단산업재편영향권",
-  "김민석\"당과국회,3대메가프로젝트최우선\"",
-  "충남도,202조'반도체머니'유입…대한민국AI수도도약선포",
-  "SK오션플랜트\"대만해상풍력추가수주기대\"",
-  "이대통령\"이재용,이병철이어'제2도쿄선언'‥압력넣는다고기업...",
-  "\"삼성의꿈,충청에서결실\"‥충청권투자계획발표",
-  "\"공존이경쟁력\"…SK,상생을'시스템'으로바꾸다",
-  "[생활법률]'표'로움직이는행정지도-직권남용논란",
   "'원청교섭모범사례'라던SK인텔릭스의추락",
   "전남광주특별시,생활용수안정...'첨단산업용수기반'입증",
   "민형배시장,반도체전력망·용수공급선제점검‘잰걸음’",
@@ -6001,7 +5989,19 @@
   "39분간10명뛴포항,FC안양상대로'펠레스코어승리'",
   "“트럼프는주식보유참모들은자문료받아”…쿠팡과얽힌美행정부,...",
   "트럼프미국행정부와쿠팡은?",
-  "삼전·SK하닉보다더뛴‘이종목’…상반기수익률756%"
+  "삼전·SK하닉보다더뛴‘이종목’…상반기수익률756%",
+  "[뉴스워커_SK]협력사생태계'3단계상생모델'가동…대금지급·R&D지...",
+  "SKT,15GWAI데이터센터구축추진…\"아시아AI허브도약\"",
+  "트럼프,쿠팡주식최대2억어치보유…18차례거래",
+  "김민석,내일광주서與전당대회출마선언",
+  "\"올가을첫삽뜨겠다\"…삼성·SK반도체조기투자'총력'",
+  "삼성전자7일실적발표…'어닝서프라이즈'로반도체피크론불식시...",
+  "SKT,‘15GW급AIDC’추진…“아시아AI인프라허브될것”",
+  "70조데이터센터vs100개국무료통화…AI사활건통신사들",
+  "“휴대폰개통이요?얼굴부터대세요”…내일부터안면인증",
+  "'성벽너머수원의숨은표정들'발간…82년삶터전,詩로그리다",
+  "[뉴스ON]메가프로젝트에지역업계줄이탈우려··'지역비하'응원에...",
+  "[CEO직썰]정재헌SK텔레콤CEO\"대한민국,아시아핵심AI인프라허브..."
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,25 @@
   [
    "2026-07-05T10:01:23.985779+09:00",
    "SK하닉보다 수익률 삼전 종목 상반기"
+  ],
+  [
+   "2026-07-05T10:11:14.852103+09:00",
+   "휴대폰 개통이요 얼굴부터 안면인증 내일부터 대세요"
+  ],
+  [
+   "2026-07-05T10:11:14.852103+09:00",
+   "발간 그리다 표정들 터전 숨은 성벽 82년 너머 수원의"
+  ],
+  [
+   "2026-07-05T10:11:14.852103+09:00",
+   "응원에 업계 지역 줄이탈 우려 비하 메가프로젝트에"
+  ],
+  [
+   "2026-07-05T10:11:14.852103+09:00",
+   "정재헌 허브 대한민국 AI SK텔레콤 인프라 CEO 핵심 아시아"
   ]
  ],
- "last_run": "2026-07-05T10:01:48.515786+09:00",
+ "last_run": "2026-07-05T10:11:28.832514+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
