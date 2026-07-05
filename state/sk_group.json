@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260703000095",
-  "https://biz.sbs.co.kr/article_hub/20000320508?division=NAVER",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123090",
-  "https://www.sidae.com/article/2026070309363856272",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=77647",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237064",
   "https://www.newsis.com/view/NISX20260703_0003694630",
   "https://www.econovill.com/news/articleView.html?idxno=744195",
   "https://www.yna.co.kr/view/AKR20260703050000017?input=1195m",
@@ -2999,15 +2993,15 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092165146",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=141080",
   "https://www.news1.kr/industry/general-industry/6217217",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607042036471790919"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607042036471790919",
+  "https://economist.co.kr/article/view/ecn202607010009",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715134",
+  "https://biz.sbs.co.kr/article_hub/20000320733?division=NAVER",
+  "https://view.asiae.co.kr/article/2026070316524841635",
+  "https://view.asiae.co.kr/article/2026070212230135322",
+  "https://www.newsis.com/view/NISX20260706_0003696485"
  ],
  "seen_titles": [
-  "정부,반도체초과세수30조미래성장동력투자재원으로활용한다",
-  "아우디코리아,FC바이에른뮌헨'플레이어에스코트'참가자모집",
-  "[속보]코스피,3%대급락딛고상승반전...7700선재탈환",
-  "[특징주]한국전력,반도체·AI發전력수요급증전망에강세",
-  "野정점식\"민주강행처리노란봉투법,호남반도체발목\"",
-  "정점식\"민주당이장악한법사위,법치주의사망…사법체계파괴\"",
   "서울대반도체수업,호남으로가나…삼전닉스,국립대계약학과설치...",
   "국힘“노란봉투법·상법이반도체투자막아…국정기조전면쇄신해야...",
   "중국CATL·BYD1·2위점유율상승…LG에너지솔루션3위하락",
@@ -6001,7 +5995,13 @@
   "국민연금,IT·뷰티담고코스닥소부장·바이오덜었다",
   "[뉴욕주간전망]6월FOMC의사록주목...SK하이닉스ADR도관건",
   "메모리피크아웃?반도체업계'최소2년뒤에나'…과거사례보니",
-  "[비즈마켓VIEW]국가급‘AIDC’짓는SK·GS"
+  "[비즈마켓VIEW]국가급‘AIDC’짓는SK·GS",
+  "‘반도체전도사’양향자가본호남반도체…“4년내완공은불가능,...",
+  "외국인20조던진반도체…이번주'삼전실적·하이닉스ADR'이승부가...",
+  "[외신헤드라인]'삼전닉스'메가투자에…마이크론도'뭉칫돈'",
+  "[1mm금융톡]월권논란에잇단발언…금감원장행보에금융권'노심초사...",
+  "'人·水電·싸움'이라는반도체,전기는준비됐는가[에너지토피아]",
+  "[대구·경북조간헤드라인]"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,29 @@
   [
    "2026-07-06T06:31:23.095285+09:00",
    "짓는 GS 국가급 AIDC"
+  ],
+  [
+   "2026-07-06T06:35:25.071494+09:00",
+   "승부 삼전 실적 하이닉스 던진 20조 외국인 ADR 반도체"
+  ],
+  [
+   "2026-07-06T06:35:25.071494+09:00",
+   "뭉칫돈 마이크론도 메가 삼전닉스 투자에"
+  ],
+  [
+   "2026-07-06T06:35:25.071494+09:00",
+   "월권 발언 금융권 금감원장 잇단 행보에 노심초사 논란에"
+  ],
+  [
+   "2026-07-06T06:35:25.071494+09:00",
+   "전기는 준비됐는가 이라는 싸움 반도체"
+  ],
+  [
+   "2026-07-06T06:35:25.071494+09:00",
+   ""
   ]
  ],
- "last_run": "2026-07-06T06:31:39.581618+09:00",
+ "last_run": "2026-07-06T06:35:41.584433+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
