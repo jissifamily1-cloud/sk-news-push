@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=199829",
-  "https://biz.heraldcorp.com/article/10797254",
-  "https://biz.heraldcorp.com/article/10797288",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3122544",
-  "https://www.g-enews.com/view.php?ud=202607031058439513a141c47927_1",
-  "https://www.raonnews.com/news/article.html?no=59295",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03578486645510912",
-  "https://www.munhwa.com/article/11600055",
   "https://en.yna.co.kr/view/AEN20260703005400315?input=2106m",
   "https://www.kyosu.net/news/articleView.html?idxno=207269",
   "https://www.yna.co.kr/view/AKR20260703067800008?input=1195m",
@@ -2999,17 +2991,17 @@
   "https://biz.chosun.com/stock/stock_general/2026/07/06/VWBUD3KEKREDTDELTL7RD243NI/",
   "https://www.mk.co.kr/article/12090854",
   "https://www.medicopharma.co.kr/news/articleView.html?idxno=68614",
-  "https://www.ytn.co.kr/_ln/0101_202607060824170327"
+  "https://www.ytn.co.kr/_ln/0101_202607060824170327",
+  "https://www.etoday.co.kr/news/view/2600454",
+  "https://biz.sbs.co.kr/article_hub/20000320766?division=NAVER",
+  "https://www.mt.co.kr/tech/2026/07/06/2026070608384794262",
+  "https://www.news1.kr/photos/7993059",
+  "https://www.news1.kr/photos/7993058",
+  "https://dealsite.co.kr/articles/164731",
+  "http://datanews.co.kr/news/article.html?no=145415",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=359793"
  ],
  "seen_titles": [
-  "SKT,'갤럭시와이드9'단독출시…가성비스마트폰",
-  "[이시각헤드라인]7월3일뉴스센터",
-  "“전남광주지방분권시발점…반도체투자,대통령임기내성과”[민...",
-  "'메타發쇼크'에흔들린반도체株…'피크아웃vs숨고르기'",
-  "민주당,3일의원워크숍…정청래·송영길·김민석3인방한자리에",
-  "Seoulsharesup2.1pctlateFri.morningonbargainhunting",
-  "SK텔레콤‘T우주+제미나이’3종출시",
-  "SKT,‘갤럭시와이드9’와T우주‘구글AI플랜’출시",
   "최창원“낙수효과확산노력”…협력사에1.4조원투입",
   "[기고]충청권성장엔진산업,상향식국가균형성장적기",
   "[기자수첩]국가공인카지노'한국증시'...개미의피눈물은누구탓인...",
@@ -6001,7 +5993,15 @@
   "“순환매기대는착시…결국다시반도체로쏠린다”",
   "지난주17%급등락롤러코스피장세변화올까…삼전·닉스이벤트주목",
   "ADC열풍속론자,페이로드·링커증설…제조경쟁'접합이후'로확대",
-  "[뉴스UP]정치공방된'메가프로젝트'...국힘,'장동혁가족상'조문..."
+  "[뉴스UP]정치공방된'메가프로젝트'...국힘,'장동혁가족상'조문...",
+  "안철수\"삼전닉스레버리지ETF정책실패…상장폐지·금융당국수장파...",
+  "[투자자순매수TOP5]외인,11거래일연속순매도속반도체기판주순...",
+  "SK텔레콤'해인'클러스터,클라우드서비스보안인증취득",
+  "SKT'해인'클러스터,KISA클라우드보안인증(CSAP)취득",
+  "SKT‘해인’클러스터CSAP인증취득",
+  "SK에코플랜트,해운대홈플러스브릿지론대위변제",
+  "통신3사전체인력3만명대무너졌다",
+  "AI·고환율시대,중소기업의선택과대응"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,21 @@
   [
    "2026-07-06T08:41:16.639286+09:00",
    "국힘 공방 메가 정치 가족상 장동혁 프로젝트 조문"
+  ],
+  [
+   "2026-07-06T08:44:52.334817+09:00",
+   "해운대 브릿지론 대위변제 SK에코플랜트 홈플러스"
+  ],
+  [
+   "2026-07-06T08:44:52.334817+09:00",
+   "3만 무너졌다 인력 명대 통신3사 전체"
+  ],
+  [
+   "2026-07-06T08:44:52.334817+09:00",
+   "대응 AI 시대 고환율 중소기업의 선택과"
   ]
  ],
- "last_run": "2026-07-06T08:41:42.912343+09:00",
+ "last_run": "2026-07-06T08:45:04.148406+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
