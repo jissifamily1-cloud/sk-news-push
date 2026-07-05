@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/7989977",
-  "https://www.news1.kr/photos/7989978",
-  "http://www.wsobi.com/news/articleView.html?idxno=314662",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264950",
-  "https://www.etoday.co.kr/news/view/2599861",
-  "https://www.yna.co.kr/view/AKR20260703012900011?input=1195m",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=81168",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423187",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444712",
   "https://www.news1.kr/photos/7989979",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553346633",
@@ -2999,17 +2991,17 @@
   "http://www.fnnews.com/news/202607051815539670",
   "https://www.hankyung.com/article/2026070563951",
   "http://www.fnnews.com/news/202607051815512715",
-  "https://www.sedaily.com/article/20063952"
+  "https://www.sedaily.com/article/20063952",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=689915",
+  "http://www.fnnews.com/news/202607051827391649",
+  "https://www.kbmaeil.com/article/20260705500705",
+  "http://www.inews24.com/view/1982526",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1064957",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1326593",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207446",
+  "https://www.tokenpost.kr/news/breaking/375160"
  ],
  "seen_titles": [
-  "800조호남반도체프로젝트…삼성·SK,'최적입지'찾기본격화",
-  "삼성전자2%·하이닉스3%하락…美반도체약세여파[이런국장저런주...",
-  "[증시키워드]메타쇼크에삼전닉스폭락...KDDX잡은한화오션'선방'",
-  "14%폭락이튿날…증권가는SK하이닉스목표가'420만원'상향",
-  "삼성물산,2분기건설·패션호조전망…\"주가조정은매수기회\"-SK",
-  "SK하이닉스,소음보다이익봐야...목표가380만원대폭상향-상상인",
-  "KB증권\"5년간메모리수요100배증가…SK하닉목표가420만원상향\"",
-  "SKT,T우주‘구글AI플랜’출시",
   "SKTT우주,구글AI구독서비스‘구글AI플랜'출시",
   "건국대,엑소좀치료기술개발...세계행정학회서울대회개최...미래자...",
   "상상인증권\"SK하이닉스,소음보다이익봐야\"",
@@ -6001,7 +5993,15 @@
   "급락장속방어력빛난금융·소비재株",
   "개인정보유출집단소송,정부기관도'정조준'",
   "롤러코스터장세덕분에'돈방석'..증권·금융사5곳역대급실적예고",
-  "야당설득손놨나…與‘반쪽국회’강행"
+  "야당설득손놨나…與‘반쪽국회’강행",
+  "[K리그1라인업]'조영욱출격'서울vs'페리어최전방'인천,경인더비...",
+  "SKT,15GW초대형AI데이터센터구축…亞허브노린다",
+  "SK,포항블루베리산단80조투자검토…이철우지사“결국준비한지...",
+  "트럼프,쿠팡주식18회거래⋯현재13만달러보유추정",
+  "울산,AI데이터센터'1+1GW'도전…아태'AI허브'로",
+  "바이오'맑음'·제조업'흐림'…업종별온도차뚜렷",
+  "[이혁중CISO의현장보안인사이트-6]보안담당자는왜늘전쟁중인가...",
+  "중국CXMT,EUV없는본딩DRAM시험생산테스트"
  ],
  "recent_sigs": [
   [
@@ -6679,9 +6679,21 @@
   [
    "2026-07-05T18:21:16.872356+09:00",
    "야당 반쪽 손놨나 국회 설득 강행"
+  ],
+  [
+   "2026-07-05T18:31:18.614968+09:00",
+   "바이오 흐림 온도차 뚜렷 업종별 맑음 제조업"
+  ],
+  [
+   "2026-07-05T18:31:18.614968+09:00",
+   "전쟁 보안 담당자는 중인가"
+  ],
+  [
+   "2026-07-05T18:31:18.614968+09:00",
+   "없는 중국 본딩 시험생산 테스트 DRAM CXMT EUV"
   ]
  ],
- "last_run": "2026-07-05T18:21:33.280821+09:00",
+ "last_run": "2026-07-05T18:31:30.990139+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7088,6 +7100,7 @@
   "busanmbc.co.kr": "busanmbc.co.kr",
   "thebigdata.co.kr": "빅데이터뉴스",
   "thebilliards.kr": "빌리어즈",
-  "hellodd.com": "헬로디디"
+  "hellodd.com": "헬로디디",
+  "dailysecu.com": "데일리시큐"
  }
 }
