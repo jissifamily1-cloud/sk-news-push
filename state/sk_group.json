@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=744138",
-  "https://www.ajunews.com/view/20260702150433729",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600712",
-  "https://www.ikbc.co.kr/article/view/kbc202607020055",
-  "https://www.segye.com/newsView/20260702515854?OutUrl=naver",
-  "https://www.namdonews.com/news/articleView.html?idxno=915681",
-  "https://www.munhwa.com/article/11599929",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31190",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260703.22004000838",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624891",
-  "https://www.econovill.com/news/articleView.html?idxno=744140",
   "http://www.sisacast.kr/news/articleView.html?idxno=97406",
   "http://www.kwangju.co.kr/article.php?aid=1782988200800839277",
   "http://www.econotelling.com/news/articleView.html?idxno=20831",
@@ -2999,20 +2988,20 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050033&t=NN",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423373",
   "http://www.newstomato.com/ReadNews.aspx?no=1306120&inflow=N",
-  "https://www.hankyung.com/article/202607019768i"
+  "https://www.hankyung.com/article/202607019768i",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=689890",
+  "https://www.tokenpost.kr/news/economy/374541",
+  "https://www.asiatime.co.kr/article/20260702500407",
+  "https://biz.sbs.co.kr/article_hub/20000320689?division=NAVER",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423378",
+  "https://www.dt.co.kr/article/12071089",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01243126645511568",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166900",
+  "https://www.asiatime.co.kr/article/20260705500006",
+  "https://biz.chosun.com/policy/politics/2026/07/05/YSBN4AYVEVDAHOQ7DYJHQQBO3A/",
+  "https://www.mediapen.com/news/view/1108245"
  ],
  "seen_titles": [
-  "‘전력·물’관건…특별시장취임초속도전",
-  "삼성운용KODEXAI반도체TOP2플러스,순자산5조돌파...개인자금1조유...",
-  "‘메타’발검은목요일...삼전닉스역대급급락",
-  "與이언주\"단일종목레버리지는고위험상품…단계적축소해야\"",
-  "김민석충청행·정청래호남행…李·文오찬뒤공격대신성과경쟁전...",
-  "[사설]반도체팹투자만큼,연구·개발시간도늘어야",
-  "'충청권국민보고회'간李대통령,이재용·서정진과\"파이팅\"(종합2보)",
-  "삼성·SK협력사상생협약잇단체결…기대감속실효성의문도",
-  "[국민보고회]청주·아산·천안·대전묶는충청권첨단산업투자...'4대...",
-  "충청권첨단산업에392조투자…“범정부지원”",
-  "박지원\"'스벅가야지'배재고,뭔뜻인지알고썼을것...어린학생들이...",
   "첨단부품·소재중심지조성…한국판‘美오스틴의기적’시동[3대...",
   "반도체에재차힘싣는민형배전남광주특별시장",
   "李대통령,이재용회장에“이병철떠올라…1983년도쿄선언같아”",
@@ -6001,7 +5990,18 @@
   "'롤러코스터도이렇게는안타는데'속타는개미들…\"방어주전략유효...",
   "[뉴욕증시-주간전망]삼전실적·하닉ADR에달렸다…FOMC의사록도관심",
   "로밍고객힘주는LGU+…일본부터익시오무료통화",
-  "숨고르기돌입한주식시장…그래도핵심테마는바뀌지않는다"
+  "숨고르기돌입한주식시장…그래도핵심테마는바뀌지않는다",
+  "[K리그1라이브]\"내가기회더못살렸다!열심히말고잘하겠다\"...4달...",
+  "충청권에392조원첨단산업투자,반도체·바이오중심지로급부상",
+  "[AT현장]\"버려진가스로일군3천억\"…SK'상생'이만든결실",
+  "호남반도체에800조투자한삼성·SK…美압박가능성에고심",
+  "반도체'빅이벤트'줄줄이대기…내주코스피훈풍탈까",
+  "반도체슈퍼사이클건재…삼성전자,2분기영업익80조원넘본다",
+  "1000조·GPU300만장…SK,'AI판경부고속도로'만든다",
+  "통신3사'통합요금제'나왔다…앞으로달라지는점은?",
+  "민주,당대표선거'점입가경'…'순회경선·1인1표'뇌관",
+  "김민석전총리,6일광주에서당대표출마선언..정청래-송영길과3파...",
+  "멕시코우회로차단나선미국…K-배터리,반사이익커지나"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,29 @@
   [
    "2026-07-05T09:11:21.189842+09:00",
    "바뀌지 않는다 주식시장 숨고르기 그래도 핵심테마는 돌입한"
+  ],
+  [
+   "2026-07-05T09:21:19.360419+09:00",
+   "경부고속도로 만든다 1000조 AI판 300만장 GPU"
+  ],
+  [
+   "2026-07-05T09:21:19.360419+09:00",
+   "앞으로 통신3사 통합요금제 달라지는 나왔다 점은"
+  ],
+  [
+   "2026-07-05T09:21:19.360419+09:00",
+   "민주 선거 당대표 뇌관 점입가경 1인1표 순회경선"
+  ],
+  [
+   "2026-07-05T09:21:19.360419+09:00",
+   "총리 선언 대표 김민석 송영길과 광주에서 출마 6일 정청래 3파"
+  ],
+  [
+   "2026-07-05T09:21:19.360419+09:00",
+   "배터리 멕시코 차단 나선 반사이익 우회로 미국 커지나"
   ]
  ],
- "last_run": "2026-07-05T09:11:43.012797+09:00",
+ "last_run": "2026-07-05T09:21:35.765932+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
