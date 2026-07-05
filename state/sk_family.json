@@ -1677,7 +1677,9 @@
   "https://www.g-enews.com/view.php?ud=202607050903365470e207547429_1",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335580",
   "http://www.srtimes.kr/news/articleView.html?idxno=206750",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1382813"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1382813",
+  "https://www.newscj.com/news/articleView.html?idxno=3414554",
+  "https://www.tokenpost.kr/news/ai/375114"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3341,7 +3343,9 @@
   "호남에‘800조’투자삼성·SK,이번엔트럼프행정부‘대미투자압...",
   "李대통령\"메가프로젝트,정치적수단이면지방선거전시작\"",
   "[주간브리핑]삼성·SK,반도체·AI에4755조투자…홈플러스파산위기...",
-  "[靑春노트]'호남특혜론'이가린국가생존전략"
+  "[靑春노트]'호남특혜론'이가린국가생존전략",
+  "정부,1000조원규모'AIDC'승부수…'피지컬AI'총력전",
+  "정부,2035년까지1천조원인공지능데이터센터투자유치계획발표"
  ],
  "recent_sigs": [
   [
@@ -3375,9 +3379,17 @@
   [
    "2026-07-05T11:10:27.660984+09:00",
    "생존전략 가린 국가 특혜론 호남"
+  ],
+  [
+   "2026-07-05T11:40:23.284233+09:00",
+   "1000조원 정부 규모 DC 승부수 피지컬 AI 총력전"
+  ],
+  [
+   "2026-07-05T11:40:23.284233+09:00",
+   "정부 데이터센터 인공지능 투자 유치 1천조원 계획 2035년까지 발표"
   ]
  ],
- "last_run": "2026-07-05T11:30:44.439200+09:00",
+ "last_run": "2026-07-05T11:40:41.302859+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3473,6 +3485,8 @@
   "jeollailbo.com": "전라일보",
   "g-enews.com": "글로벌이코노믹",
   "mediatoday.co.kr": "미디어오늘",
-  "daily.hankooki.com": "데일리한국"
+  "daily.hankooki.com": "데일리한국",
+  "newscj.com": "천지일보",
+  "tokenpost.kr": "토큰포스트"
  }
 }
