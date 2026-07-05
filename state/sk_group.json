@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.donga.com/3/all/11/6292123/1",
-  "https://www.inthenews.co.kr/news/article.html?no=88906",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203612",
-  "https://www.thepowernews.co.kr/view.php?ud=202607031103349406de3f0aa1be_7",
-  "https://www.seoultimes.news/news/article.html?no=2000097365",
-  "https://www.kukinews.com/article/view/kuk202607030054",
-  "https://www.joongangenews.com/news/articleView.html?idxno=530338",
   "https://www.ajunews.com/view/20260703103512824",
   "https://it.chosun.com/news/articleView.html?idxno=2023092165092",
   "https://view.asiae.co.kr/article/2026070309114539704",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2600408",
   "https://www.moneystorm.kr/news/articleView.html?idxno=4887",
   "https://www.bzeronews.com/news/articleView.html?idxno=819649",
-  "https://view.asiae.co.kr/article/2026070309075341190"
+  "https://view.asiae.co.kr/article/2026070309075341190",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607060015&t=NN",
+  "https://www.ytn.co.kr/_ln/0102_202607060744261289",
+  "http://www.inews24.com/view/1982538",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=48962",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79717",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01931926645511896",
+  "https://slownews.kr/162735"
  ],
  "seen_titles": [
-  "할인받고,나눠쓰고...휴가철이통사별'로밍'꼭확인하세요",
-  "[유통·식음료]닥터뉴토반려견영양식출시/롯데온여름뷰티할인...",
-  "與野,원구성‘네탓공방’장기화조짐…민생협치표류위기[이런...",
-  "‘200만닉스’추락하더니다시220만원…현기증나는개미들[내가샀다...",
-  "재경부국제차관보\"韓펀데멘털감안시1,500원대환율이해곤란\"",
-  "천안·아산등충남202조반도체머니…“세계AI중심”반색",
-  "코스피,장중상승전환해7,800대회복…삼전·닉스반등",
   "“SK하이닉스,실적모멘텀강화…주가상승이어질것”",
   "[주간AI노트]메타發충격에삼성·SK하이닉스급락…“그래도AI투자...",
   "코스피,급락딛고7800선까지상승…장세'널뛰기'지속",
@@ -6001,7 +5994,14 @@
   "美고용충격에달러약세전환…SK하이닉스ADR상장,환율게임체인저...",
   "[마켓인사이트]삼성전기'23조폭탄투자'에올들어주가756.47%폭증,...",
   "'반도체가스경쟁력'키우는청주…오창에국가평가거점만든다",
-  "[PE는지금]롯데렌탈매각전가른렌터카비즈니스'현실'과'미래'"
+  "[PE는지금]롯데렌탈매각전가른렌터카비즈니스'현실'과'미래'",
+  "SK하이닉스,7월10일나스닥상장추진…'294억달러'역대급핵폭탄급...",
+  "[스타트경제]한은도경고높인단일종목레버리지ETF...금융당국,LP·...",
+  "'100조돌파냐육박이냐'…삼성전자2분기실적변수는성과급",
+  "페로타임즈손바닥뉴스7월6일(월)",
+  "반도체업종,올해'Capex총액약1,233조'...전년비+73.0%↑",
+  "롯데지주,NAV대비할인율최고수준으로밸류에이션매력↑-SK",
+  "“세월호는교통사고”라던이병태“5.18이성역화됐다”막말논란:슬..."
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,25 @@
   [
    "2026-07-06T07:41:12.769429+09:00",
    "현실 렌터카 매각전 비즈니스 롯데렌탈 미래 가른"
+  ],
+  [
+   "2026-07-06T07:51:17.808390+09:00",
+   "7월 6일 페로타임즈 손바닥뉴스"
+  ],
+  [
+   "2026-07-06T07:51:17.808390+09:00",
+   "총액 업종 반도체 Capex 올해 233조 전년비"
+  ],
+  [
+   "2026-07-06T07:51:17.808390+09:00",
+   "롯데지주 최고수준으로 대비 NAV 매력 밸류에이션 할인율"
+  ],
+  [
+   "2026-07-06T07:51:17.808390+09:00",
+   "라던 논란 이병태 18이 교통사고 세월호는 성역화됐다 막말"
   ]
  ],
- "last_run": "2026-07-06T07:41:21.323975+09:00",
+ "last_run": "2026-07-06T07:51:32.252610+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
