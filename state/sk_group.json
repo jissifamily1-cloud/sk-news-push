@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607030619119273fbbec65dfb_1",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714938",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270961",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=439989",
-  "https://www.newsis.com/view/NISX20260702_0003693958",
-  "http://www.itdaily.kr/news/articleView.html?idxno=240209",
   "https://www.ceoscoredaily.com/page/view/2026070215425581738",
   "https://en.yna.co.kr/view/AEN20260703000500320?input=2106m",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465186",
@@ -2999,15 +2993,15 @@
   "http://www.cctimes.kr/news/articleView.html?idxno=914889",
   "https://magazine.hankyung.com/business/article/202607021300b",
   "https://www.dkilbo.com/news/articleView.html?idxno=547718",
-  "https://www.jjan.kr/article/20260705500138"
+  "https://www.jjan.kr/article/20260705500138",
+  "https://m.skyedaily.com/news_view.html?ID=307192",
+  "https://www.ekn.kr/web/view.php?key=20260705029309023",
+  "https://www.ikbc.co.kr/article/view/kbc202607050017",
+  "https://www.newscj.com/news/articleView.html?idxno=3414574",
+  "https://www.thebilliards.kr/news/articleView.html?idxno=31340",
+  "https://www.mt.co.kr/stock/2026/07/05/2026070513564661590"
  ],
  "seen_titles": [
-  "세종시투자유치‘날개’다나",
-  "[미디어이슈]‘빅쇼트’마이클버리“韓대규모반도체투자,종말...",
-  "\"해도해도너무한변동성\"…코스피,7월실적시즌에'주목'",
-  "이대통령,오늘영남권첨단산업보고회참석",
-  "'포스트용인'꺼낸삼전닉스…896조투자,반도체지도바꾼다",
-  "뉴욕증시,이틀째반도체하락상황서혼조마감…다우최고치·나스닥...",
   "셀트리온2조투자…이대통령,서정진회장격려",
   "[반도체투자로드맵]⑤SK,반도체생산에AIDC까지…AI수요·공급묶...",
   "삼성·SK800조투자격돌…일반도체장비시장'6.5조엔'폭발",
@@ -6001,7 +5995,13 @@
   "대전시노인복지관,어르신들의건강한여름나기지원",
   "'블랙리스트'중국과손잡겠다는애플…\"가격후려친업보\"[비즈포커스...",
   "추경호대구시장,반도체팹입지선정기준·절차투명공개촉구",
-  "국가산업은광역권으로…전북도판키워야"
+  "국가산업은광역권으로…전북도판키워야",
+  "GS,동해에120조원AI데이터센터…'메가프로젝트1호'노린다",
+  "전재수시정첫대형투자…삼성전기,부산에15조원투자",
+  "김대중통합특별시교육감\"'교육지산지소'로전남10만미래인재양성...",
+  "너도나도빚내서투자…한은\"주가상승,개인빚투영향있어\"",
+  "'신생팀'브레이커스,첫상대는'전력보강'휴온스…휴온스,최성원대...",
+  "삼전닉스빅이벤트주간,AI피크아웃의구심해소될까"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,21 @@
   [
    "2026-07-05T16:01:31.677465+09:00",
    "광역권으로 키워야 전북도 국가산업은"
+  ],
+  [
+   "2026-07-05T16:11:14.579903+09:00",
+   "한은 주가 너도나도 있어 상승 빚투 영향 개인 투자 빚내서"
+  ],
+  [
+   "2026-07-05T16:11:14.579903+09:00",
+   "최성원 보강 상대는 전력 신생팀 브레이커스 휴온스"
+  ],
+  [
+   "2026-07-05T16:11:14.579903+09:00",
+   "해소될까 주간 이벤트 의구심 삼전닉스 AI 피크아웃"
   ]
  ],
- "last_run": "2026-07-05T16:02:09.044775+09:00",
+ "last_run": "2026-07-05T16:11:27.106170+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7002,6 +7014,7 @@
   "ppss.kr": "ㅍㅍㅅㅅ PPSS",
   "pointe.co.kr": "포인트경제",
   "busanmbc.co.kr": "busanmbc.co.kr",
-  "thebigdata.co.kr": "빅데이터뉴스"
+  "thebigdata.co.kr": "빅데이터뉴스",
+  "thebilliards.kr": "빌리어즈"
  }
 }
