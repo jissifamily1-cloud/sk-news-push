@@ -1754,7 +1754,8 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=440729",
   "https://www.thereport.co.kr/news/articleView.html?idxno=89333",
   "https://biz.sbs.co.kr/article_hub/20000320828?division=NAVER",
-  "https://www.mt.co.kr/politics/2026/07/06/2026070611370534317"
+  "https://www.mt.co.kr/politics/2026/07/06/2026070611370534317",
+  "https://economist.co.kr/article/view/ecn202607010047"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3495,7 +3496,8 @@
   "대한상의,'실무역량진단'전국시행...직업계고생5만8000명대상",
   "나주시,하반기정기인사단행···83명승진",
   "LG家상속분쟁2라운드…'노소영측변호사'꾸린세모녀",
-  "'당대표출마'김민석\"메가프로젝트,총리때지속교감…완벽해낼것..."
+  "'당대표출마'김민석\"메가프로젝트,총리때지속교감…완벽해낼것...",
+  "긴축칼날에실물경제찬바람…내자산,어디에투자할까"
  ],
  "recent_sigs": [
   [
@@ -3609,9 +3611,13 @@
   [
    "2026-07-06T12:00:37.172881+09:00",
    "당대표 완벽 메가프로젝트 총리 해낼 교감 지속 출마 김민석"
+  ],
+  [
+   "2026-07-06T12:10:24.909035+09:00",
+   "경제 찬바람 투자할까 칼날에 자산 긴축 실물 어디에"
   ]
  ],
- "last_run": "2026-07-06T12:00:54.061358+09:00",
+ "last_run": "2026-07-06T12:10:40.788754+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3711,6 +3717,7 @@
   "newscj.com": "천지일보",
   "tokenpost.kr": "토큰포스트",
   "ilyoseoul.co.kr": "일요서울i",
-  "yonhapmidas.com": "연합뉴스 월간 마이더스"
+  "yonhapmidas.com": "연합뉴스 월간 마이더스",
+  "economist.co.kr": "이코노미스트"
  }
 }
