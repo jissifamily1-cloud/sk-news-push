@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://swtvnews.com/news/newsview.php?ncode=1065582946820226",
-  "https://biz.heraldcorp.com/article/10798386",
-  "https://kpenews.com/View.aspx?No=4137280",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/05/2026070500040.html",
-  "https://www.newsis.com/view/NISX20260705_0003696203",
-  "https://www.econovill.com/news/articleView.html?idxno=744308",
-  "https://www.mt.co.kr/world/2026/07/05/2026070510392663243",
-  "http://www.4th.kr/news/articleView.html?idxno=2114238",
-  "https://www.namdonews.com/news/articleView.html?idxno=915797",
-  "https://www.namdonews.com/news/articleView.html?idxno=915800",
-  "https://www.joongangenews.com/news/articleView.html?idxno=530544",
   "https://www.newsis.com/view/NISX20260705_0003696150",
   "http://www.yonhapnewstv.co.kr/news/MYH20260705125617QTK",
   "https://www.news1.kr/local/sejong-chungbuk/6218034",
@@ -2999,20 +2988,20 @@
   "https://www.hankyung.com/article/2026070791026",
   "https://www.bloter.net/news/articleView.html?idxno=667328",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7172710",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6835510_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6835510_37012.html",
+  "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
+  "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703003002?wlog_tag3=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260707073902Vbe",
+  "https://slownews.kr/162810",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=4920",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02515766645512224",
+  "https://www.etnews.com/20260707000009",
+  "https://www.etnews.com/20260707000008",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070184&t=NN",
+  "https://www.g-enews.com/view.php?ud=202607070723446365fbbec65dfb_1",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307047"
  ],
  "seen_titles": [
-  "李대통령,내일청와대서'반도체클러스터'점검회의",
-  "'신생'브레이커스,휴온스상대로프로당구PBA팀리그데뷔전승리도...",
-  "‘6년간기다렸다’…美휩쓴K-바이오혁신신약안방상륙눈앞에",
-  "삼성전자·SK하이닉스도제쳐..삼성전기,상반기코스피상승률1위",
-  "한은\"삼전·닉스쏠림더커진다\"…레버리지ETF공개경고",
-  "상반기코스피90%뛸때…삼성전기756%'최고상승률'",
-  "[포커스]단일종목레버리지손질나선금융당국…빚투확산에투자자...",
-  "\"SK하이닉스,美상장수수료0.5%검토…주관사들에2000억\"",
-  "신동빈·신유열,송도바이오공장점검…롯데신사업속도",
-  "보조금경쟁끝…통신3사AI승부시작",
-  "KT,LTE·5G통합요금제전격출시",
   "한은\"삼전·닉스레버리지ETF로변동성확대…점검활동강화방침\"",
   "롯데카드,AI활용해보이스피싱예방앞장…통신3사와협업",
   "8,000선되찾은코스피…삼전·닉스이벤트주목",
@@ -6001,7 +5990,18 @@
   "\"SK하이닉스,이익·주주환원동반강화…목표가390만원\"-대신",
   "규제덜한외국계PEF,롯데렌탈에'군침'…TPG단독실사",
   "통신업계'요금제개편·안면인증의무화'논란",
-  "외환시장24시간거래시작됐다‥환율잡힐까?"
+  "외환시장24시간거래시작됐다‥환율잡힐까?",
+  "상생의SK,2·3차협력사도지원",
+  "“지역전체를‘AI실험의장’으로…과감한규제혁신·인프라조성...",
+  "[3분증시]AI주반등에뉴욕증시상승마감",
+  "용인6년걸렸지만광주군공항반도체산단,임기안에끝낸다:슬로우...",
+  "[시장포커스]뉴욕증시'다우53,000'첫돌파…오늘국장'삼성전자실...",
+  "한화비전,반도체장비성장본격화…TC본더·AICCTV도주목-KB",
+  "비중국전기차배터리시장도中공세…CATL·BYD점유율44.3%",
+  "SK에코플랜트,주거서비스모델차별화…교육·카페전문서비스결합",
+  "폭스콘이토스한美기술주투자심리,삼성전자바라보는월가[마켓무...",
+  "삼성·SK추격하는중국반도체…일반PC서'초고속구동'성공",
+  "\"실적시즌개막\"···삼성전자부터한화에어로까지,웃을종목은?"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,29 @@
   [
    "2026-07-07T07:36:54.383876+09:00",
    "거래 환율 24시간 외환시장 시작됐다 잡힐까"
+  ],
+  [
+   "2026-07-07T07:41:18.608643+09:00",
+   "배터리 시장도 비중국 공세 점유율 CATL BYD 전기차"
+  ],
+  [
+   "2026-07-07T07:41:18.608643+09:00",
+   "교육 카페 결합 SK에코플랜트 주거서비스 전문서비스 차별화 모델"
+  ],
+  [
+   "2026-07-07T07:41:18.608643+09:00",
+   "마켓무 바라보는 월가 삼성전자 폭스콘이 투자심리 기술주 토스한"
+  ],
+  [
+   "2026-07-07T07:41:18.608643+09:00",
+   "일반 삼성 추격하는 초고속 중국 반도체 구동 성공 PC서"
+  ],
+  [
+   "2026-07-07T07:41:18.608643+09:00",
+   "한화에어로까지 삼성전자부터 실적 개막 종목은 웃을 시즌"
   ]
  ],
- "last_run": "2026-07-07T07:37:13.913613+09:00",
+ "last_run": "2026-07-07T07:41:35.263255+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
