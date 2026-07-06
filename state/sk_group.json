@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260705_0003696150",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260705125617QTK",
-  "https://www.news1.kr/local/sejong-chungbuk/6218034",
-  "https://www.mk.co.kr/article/12090483",
-  "http://www.fnnews.com/news/202607050850439856",
-  "https://www.hankookilbo.com/news/article/A2026070509090003406?did=NA",
-  "http://www.samdailbo.com/news/articleView.html?idxno=267025",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027936",
   "https://www.viva100.com/article/20260705500294",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423394",
   "https://www.segye.com/newsView/20260705504187?OutUrl=naver",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260707000008",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070184&t=NN",
   "https://www.g-enews.com/view.php?ud=202607070723446365fbbec65dfb_1",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307047"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307047",
+  "https://www.tfmedia.co.kr/news/article.html?no=205591",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=82840",
+  "http://kor.theasian.asia/archives/409099",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61261",
+  "https://www.ytn.co.kr/_ln/0102_202607070732305900",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545513",
+  "https://www.m-i.kr/news/articleView.html?idxno=1388724",
+  "https://kjmbc.co.kr/NewsArticle/1526318"
  ],
  "seen_titles": [
-  "한은\"삼전·닉스레버리지ETF로변동성확대…점검활동강화방침\"",
-  "롯데카드,AI활용해보이스피싱예방앞장…통신3사와협업",
-  "8,000선되찾은코스피…삼전·닉스이벤트주목",
-  "SKAI데이터센터,충주로올까…드림파크산단현장실사",
-  "롤러코스터야코스피야?…변동성지수최고,왜?",
-  "증시흔들려도증권사는돈번다…2분기순이익141%급증전망",
-  "이준석\"사이버레커'사생활폭로장사'돈줄끊어야\"",
-  "바이에른뮌헨제주경기일반예매14일오후6시오픈",
   "이천부발청소년센터,'AI반도체드림버스'체험운영",
   "코스피상승에도1조클럽은급감…반도체주쏠림여파",
   "[외환-주간]'24시간거래'개시…美지표·하이닉스ADR주목",
@@ -6001,7 +5993,15 @@
   "SK에코플랜트,주거서비스모델차별화…교육·카페전문서비스결합",
   "폭스콘이토스한美기술주투자심리,삼성전자바라보는월가[마켓무...",
   "삼성·SK추격하는중국반도체…일반PC서'초고속구동'성공",
-  "\"실적시즌개막\"···삼성전자부터한화에어로까지,웃을종목은?"
+  "\"실적시즌개막\"···삼성전자부터한화에어로까지,웃을종목은?",
+  "\"한국증시가수익갈랐다\"…블랙록·뱅가드신흥국ETF희비",
+  "AI반도체주반등에뉴욕증시동반상승,다우첫5만3000선돌파",
+  "[오늘의신문읽기]AI·반도체·안보가바꾼세상",
+  "AI반도체'저가매수'에뉴욕증시랠리…다우,사상첫5만3천돌파",
+  "[스타트경제]삼성전자,메모리가격급등에최대실적경신기대감↑",
+  "中CXMT,올해웨이퍼생산능력월35만장마이크론턱밑.SK하이닉스.삼...",
+  "용인시,어플라이드머티어리얼즈투자유치",
+  "2026_7_7오늘의주요뉴스"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,21 @@
   [
    "2026-07-07T07:41:18.608643+09:00",
    "한화에어로까지 삼성전자부터 실적 개막 종목은 웃을 시즌"
+  ],
+  [
+   "2026-07-07T07:51:16.027992+09:00",
+   "35만장 CXMT 마이크론 SK하이닉스 생산능력 올해 턱밑 웨이퍼"
+  ],
+  [
+   "2026-07-07T07:51:16.027992+09:00",
+   "용인시 어플라이드 투자 머티어리얼즈 유치"
+  ],
+  [
+   "2026-07-07T07:51:16.027992+09:00",
+   "오늘의 주요뉴스"
   ]
  ],
- "last_run": "2026-07-07T07:41:35.263255+09:00",
+ "last_run": "2026-07-07T07:51:27.156617+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
