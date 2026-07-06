@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=530391",
-  "https://www.koreajoongangdaily.com/business/kospi-buyside-sidecar-activated-as-benchmark-stages-dramatic-rebound-above-8000/12754253",
-  "https://www.seoul.co.kr/news/society/2026/07/03/20260703500171?wlog_tag3=naver",
-  "https://www.jbnews.com/news/articleView.html?idxno=1507025",
-  "https://www.tokenpost.kr/news/economy/374816",
-  "https://www.tokenpost.kr/news/economy/374815",
-  "http://www.4th.kr/news/articleView.html?idxno=2114183",
-  "https://www.joongang.co.kr/article/25442221",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92199",
   "https://www.newsis.com/view/NISX20260703_0003694441",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=845969",
   "https://www.joongangenews.com/news/articleView.html?idxno=530253",
@@ -2999,18 +2990,18 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=783539",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/06/2026070690104.html",
   "https://www.hankyung.com/article/202607067354i",
-  "https://www.news1.kr/industry/general-industry/6218502"
+  "https://www.news1.kr/industry/general-industry/6218502",
+  "https://www.hani.co.kr/arti/area/honam/1266607.html",
+  "https://www.sedaily.com/article/20064138",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848405",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037722",
+  "http://www.joseilbo.com/news/news_read.php?uid=571343&class=17",
+  "https://www.namdonews.com/news/articleView.html?idxno=915937",
+  "https://www.mk.co.kr/article/12090982",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=723848",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=167657"
  ],
  "seen_titles": [
-  "삼성프로모션·데이터안심옵션효과···번호이동증가세,시장달아...",
-  "숙명여대,마이크로소프트와'정보보안인재양성과정'성료",
-  "아모레·에이피알,아마존프라임데이서글로벌성과…신제품출시도잇...",
-  "정부,중복상장규제가이드라인'9일전후'발표…관망하는기업들",
-  "‘한미AI동맹가교’…암참,애플·AWS참여‘AI리더십위원회’출범",
-  "SKT,40만원대5G폰‘갤럭시와이드9’단독출시…방수방진지원",
-  "LG엔솔·SK온,전기차배터리점유율감소…中CATL과격차확대",
-  "SK주가,7월3일장중686,000원0.44%상승",
-  "Kospibuy-sidesidecaractivatedasbenchmarkstagesdramaticreboun",
   "경찰,‘삼전닉스성과급백지화공문’가짜뉴스내사착수",
   "SK하이닉스청주100조투자소식에흥덕구아파트시장'들썩'",
   "[특징주]삼성증권10%급등…코스피8000선회복에증권주동반강세",
@@ -6001,7 +5992,16 @@
   "[건설업계동향]삼성물산ㆍ현대엔지니어링ㆍ롯데건설ㆍSK에코플랜트(7...",
   "\"이란전쟁틈타14조원대석유제품담합\"…검찰,4대정유회사법인기...",
   "안철수\"삼전닉스레버리지에212조,코스피가카지노됐다\"",
-  "[알립니다]AX시대살아남으려면?…뉴스1미래산업포럼개최"
+  "[알립니다]AX시대살아남으려면?…뉴스1미래산업포럼개최",
+  "민형배,삼전·닉스반도체공장후보지방문…유치‘속도전’",
+  "마이크론,일본히로시마에14조원투자…AI메모리생산확대",
+  "안철수국힘의원\"삼전닉스레버리지ETF상장폐지해야\"",
+  "AI학습관리부터커피까지…SK에코플랜트,입주생활서비스확대",
+  "美반도체급락에도…삼성웃고메모리값또오른다[칩칩폭폭]",
+  "[특징주]삼성전자'웃고'하이닉스'뛰고'",
+  "블랙웰GPU1000개묶은SKT‘해인...국내첫CSAP인증",
+  "마이크론,일본에AI반도체공장착공…\"日정부가3분의1지원\"",
+  "\"실적괜찮은데\"...삼성바이오·셀트리온'장중뚝',왜?"
  ],
  "recent_sigs": [
   [
@@ -7035,9 +7035,17 @@
   [
    "2026-07-06T10:28:23.448119+09:00",
    "AX 개최 미래산업포럼 뉴스1 살아남으려면 시대"
+  ],
+  [
+   "2026-07-06T10:31:21.736661+09:00",
+   "마이크론 지원 반도체공장 착공 AI 정부가 일본에 3분의"
+  ],
+  [
+   "2026-07-06T10:31:21.736661+09:00",
+   "괜찮은데 삼성바이오 셀트리온 실적 장중"
   ]
  ],
- "last_run": "2026-07-06T10:29:10.604809+09:00",
+ "last_run": "2026-07-06T10:31:30.224800+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
