@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441288",
-  "https://www.yna.co.kr/view/AKR20260704034600003?input=1195m",
-  "https://www.dailian.co.kr/news/view/1663130/?sc=Naver",
-  "https://www.news1.kr/industry/general-industry/6217708",
-  "https://www.mt.co.kr/world/2026/07/05/2026070311121851784",
-  "https://www.news1.kr/finance/general-stock/6217549",
-  "https://www.dt.co.kr/article/12071070",
-  "https://www.dt.co.kr/article/12071062",
-  "https://www.newspim.com/news/view/20260704000046",
-  "https://www.dt.co.kr/article/12071066",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165145",
-  "https://www.starnewskorea.com/broadcast-show/2026/07/05/2026070500313422112",
   "https://www.tokenpost.kr/news/economy/375079",
   "https://www.yna.co.kr/view/AKR20260703155300008?input=1195m",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602371",
@@ -2999,21 +2987,21 @@
   "https://biz.heraldcorp.com/article/10799750",
   "https://www.gukjenews.com/news/articleView.html?idxno=3628024",
   "https://news.cpbc.co.kr/article/1174146?division=NAVER",
-  "https://www.khan.co.kr/article/202607062130015"
+  "https://www.khan.co.kr/article/202607062130015",
+  "https://www.hankookilbo.com/news/article/A2026070620480001243?did=NA",
+  "https://www.khan.co.kr/article/202607062145005",
+  "https://www.namdonews.com/news/articleView.html?idxno=915977",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=578530",
+  "https://www.hani.co.kr/arti/society/society_general/1267002.html",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=578536",
+  "https://www.newsis.com/view/NISX20260706_0003698039",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272545",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=590115",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=553121",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=578615",
+  "https://www.nytimes.com/2026/07/06/business/dealbook/trump-world-cup-infantino.html?partner=naver"
  ],
  "seen_titles": [
-  "ASML중국에EUV장비공급재개하나,삼성·SK하이닉스네덜란드정부...",
-  "미국AI데이터센터전력수요가제조업도위협,한국기업투자악영향...",
-  "GS,강원에AI데이터센터부지18만평…메가프로젝트1호노린다",
-  "\"얼음은단단하게,물은뜨겁게\"…달라진정수기경쟁",
-  "삼성전자7일SK하닉29일…이번주부터기업들2Q성적표나온다",
-  "강해보이는이유가너무좁다…미국경제위기론의실체",
-  "롤러코스터가'뉴노멀'…레버리지여파에코스피하루10%출렁",
-  "전기차보조금평가서테슬라턱걸이하고BYD떨어진이유",
-  "‘9%뚝’삼전·SK하닉주가…외인언제돌아오나",
-  "'삼전닉스'1년새영업익8배↑…'사상최대실적'눈앞",
-  "HBM다음은HBF?…이재용‘포스트AI반도체’구상은",
-  "'AI투자둔화'우려넘을까…삼성전자실적주목[주간증시전망]",
   "김준상아나\"前직장하이닉스동기,성과급1억2천..연봉은3배이상\"...",
   "한국은행경고:삼성·하이닉스로치우친레버리지ETF투자위험증가",
   "코스피8천피회복에도…'1조클럽'종목6천피때보다91개적어",
@@ -6001,7 +5989,19 @@
   "‘205만→143만원’삼성최고폰싸게판다더니…무려5만명‘우르르...",
   "부천시,대장산단투자제안접수…기업유치기준완화",
   "[시사천국]징계의정치,혐오의정치…누가분열을부추기나",
-  "착공까지6년걸린용인…정부,‘호남임기내완공’강한의지"
+  "착공까지6년걸린용인…정부,‘호남임기내완공’강한의지",
+  "청주시,SK하이닉스100조투자지원'전담TF'가동",
+  "정유사들,전쟁틈타14조담합·갑질",
+  "[사설]광주반도체공장부지확정…속도가관건이다",
+  "울산CLX,협력사19곳직원1747명안전망강화",
+  "정유사들,중동전터지자기름값대폭올려…“트럼프만세”까지",
+  "정유4사,미-이란전쟁틈타26조규모유가담합적발",
+  "남자농구,한일전승리로기사회생…월드컵예선2라운드진출",
+  "CXMTBoostsMemoryCapacity,PressuringGlobalTopThreeMemoryMaker",
+  "영남권312조투자소외불식역부족",
+  "李대통령'호남몰빵'에…TK'커가는좌절감'",
+  "\"AI데이터센터성공조건글로벌고객사유치\"",
+  "Trump’sWorldCupInterventionRoilstheSoccerWorld,andBeyond"
  ],
  "recent_sigs": [
   [
@@ -6967,9 +6967,33 @@
   [
    "2026-07-06T21:41:24.348496+09:00",
    "호남 임기 걸린 6년 강한 용인 착공까지 정부 완공 의지"
+  ],
+  [
+   "2026-07-06T21:51:14.035839+09:00",
+   "승리로 기사회생 2라운드 진출 예선 한일전 남자농구 월드컵"
+  ],
+  [
+   "2026-07-06T21:51:14.035839+09:00",
+   "CXMT Global Makers Pressuring Capacity Three Memory Boosts Top"
+  ],
+  [
+   "2026-07-06T21:51:14.035839+09:00",
+   "투자 소외 312조 영남권 불식 역부족"
+  ],
+  [
+   "2026-07-06T21:51:14.035839+09:00",
+   "TK 대통령 커가는 호남 몰빵 좌절감"
+  ],
+  [
+   "2026-07-06T21:51:14.035839+09:00",
+   "성공 글로벌 조건 AI데이터센터 유치 고객사"
+  ],
+  [
+   "2026-07-06T21:51:14.035839+09:00",
+   "Cup the Intervention and Beyond Soccer Trump World Roils"
   ]
  ],
- "last_run": "2026-07-06T21:41:39.533951+09:00",
+ "last_run": "2026-07-06T21:51:33.501702+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
