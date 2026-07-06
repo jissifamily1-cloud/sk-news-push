@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=204436",
-  "https://www.yna.co.kr/view/AKR20260705001100071?input=1195m",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715069",
-  "https://www.news1.kr/finance/general-stock/6217438",
-  "http://www.newswatch.kr/news/articleView.html?idxno=80336",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441537",
   "https://biz.chosun.com/stock/stock_general/2026/07/05/7H7WEEYOWJBE5C72KEH437K6ZI/",
   "https://www.newsis.com/view/NISX20260703_0003695441",
   "https://www.news1.kr/finance/general-stock/6217441",
@@ -2999,15 +2993,15 @@
   "https://www.hani.co.kr/arti/society/society_general/1266999.html",
   "https://www.econovill.com/news/articleView.html?idxno=744439",
   "https://www.mk.co.kr/article/12091730",
-  "http://www.knnews.co.kr/news/articleView.php?idxno=1545737"
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1545737",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=440781",
+  "https://www.g-enews.com/view.php?ud=20260706212408886435e857d010_1",
+  "https://www.tbc.co.kr/news/view?pno=20260706161650AE01976&id=208093",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=553064",
+  "https://www.livebiz.today/news/articleView.html?idxno=203129",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446042"
  ],
  "seen_titles": [
-  "파생상품천국美…시장변동성은미미,왜?[레버리지리스크④]",
-  "HD현대오일뱅크,디지털혁신및주유소서비스인정받다",
-  "트럼프,취임후쿠팡株18회거래…무역대표,취임전쿠팡서보수",
-  "[주간증시전망]코스피,'PER6배'역대급저평가…삼성전자실적'촉각...",
-  "'몸통흔드는꼬리'레버리지ETF…예탁금높이고신규'차단'목소리",
-  "[ParkSu-jin'sMoneyWatch]KOSPIclosesatthe8000level,overcoming",
   "외국인삼전닉스팔고삼성전기·LG이노텍담았다,반도체사이클올라...",
   "[주간증시전망]8000선사수한코스피,삼성전자실적이반등‘신호탄...",
   "리밸런싱후오히려'덜팔은'국민연금…삼전팔고SK하닉담았다",
@@ -6001,41 +5995,15 @@
   "전쟁전후14조원대유가담합한정유사들",
   "안철수\"삼전닉스레버리지ETF상폐검토해야\"",
   "트럼프도삼전닉스도이회사눈치…AI거품론잠재우며슬금슬금우상...",
-  "정부펀드경남‘0원’"
+  "정부펀드경남‘0원’",
+  "코스피,외인과기관매도에하락마감...삼성물산,삼성전자상승VS삼...",
+  "SK하이닉스,美ADR발행규모43조1400억원으로정정",
+  "'메가투자'없어도AI.로봇총력",
+  "靑\"광주군공항250만평,반도체클러스터최적지\"",
+  "SK하이닉스,ADR발행총액2조3100억원축소...45조→43조원으로정정",
+  "용인에세계반도체장비빅4집결…글로벌생태계'탄탄'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "소외주 결국엔 착시 반등은 삼전닉스로"
-  ],
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "이기고도 한투운용 규정의 상관계수 지수 쏠림장에서 반도체 ETF 퇴출"
-  ],
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "한화솔루션 사고 팔았다 레몬헬스케어"
-  ],
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "꺼냈다 SK하이닉스 청주시 100조 투자 파격 지원카드"
-  ],
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "인증 보안 클라우드 SKT KISA 클러스터 획득 해인"
-  ],
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "갈랐다 브이엠 ETF인데 수익률 한미반도체가 반도체 같은"
-  ],
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "에이닷으로 함께한다 하루를 SKT"
-  ],
-  [
-   "2026-07-06T15:31:21.677077+09:00",
-   "단순 정유업계 유가 교란 기소에 참고를 당혹 담합으로 검찰"
-  ],
   [
    "2026-07-06T15:41:12.015708+09:00",
    "오늘도 등락 지켜 거듭 롤러코스피 8000선"
@@ -7017,7 +6985,7 @@
    "0원 정부펀드 경남"
   ]
  ],
- "last_run": "2026-07-06T21:21:36.498295+09:00",
+ "last_run": "2026-07-06T21:31:38.360823+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
