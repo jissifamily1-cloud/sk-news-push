@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271394783894",
-  "https://www.newscj.com/news/articleView.html?idxno=3414554",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050044&t=NN",
-  "https://www.hankyung.com/article/2026070347236",
-  "https://www.khan.co.kr/article/202607051130001",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271463",
-  "https://www.fntimes.com/html/view.php?ud=202607041304332530179ad43907_18",
-  "https://www.newspim.com/news/view/20260705000043",
-  "https://www.dailian.co.kr/news/view/1663485/?sc=Naver",
   "https://www.ggilbo.com/news/articleView.html?idxno=1167377",
   "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
   "https://www.dailian.co.kr/news/view/1663493/?sc=Naver",
@@ -2999,18 +2990,18 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16126128",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423614",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=314666",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848477"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848477",
+  "https://www.sportsseoul.com/news/read/1620924",
+  "https://biz.sbs.co.kr/article_hub/20000321004?division=NAVER",
+  "https://www.ziksir.com/news/articleView.html?idxno=139261",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423616",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3628106",
+  "https://www.g-enews.com/view.php?ud=202607070704592659fbbec65dfb_1",
+  "https://www.dailian.co.kr/news/view/1663837/?sc=Naver",
+  "https://dealsite.co.kr/articles/164768",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249318&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "정부,2035년까지1천조원인공지능데이터센터투자유치계획발표",
-  "반도체벨트‘셔세권’뒷북규제,영끌나서는무주택자들전·월세대...",
-  "정부,1000조원규모'AIDC'승부수…'피지컬AI'총력전",
-  "\"코스피불장이라는데내계좌는왜\"…증시'쏠림'심해졌다",
-  "\"3달내내팔아치우더니\"…큰손돌아올'빈집'종목10선[분석+]",
-  "젠슨황‘패싱’일본,‘계약학과’첫도입…AI인재육성박차",
-  "민형배전남광주특별시장\"반도체경쟁력은사람\"",
-  "기관'SK스퀘어'·외인'삼성전기'·개인'SK하이닉스'1위[주간코스피...",
-  "트럼프,쿠팡주식18차례매매…이해충돌논란",
   "호남800조투자삼성·SK,미국발투자압박커지나",
   "AI로열어가는고령화사회,노인디지털일상의새로운변화",
   "상생의SK,2·3차협력사도지원",
@@ -6001,7 +5992,16 @@
   "미국증시AI반도체반등,다우5만3000돌파",
   "'광주군공항낙점'막전막후…李대통령,무안공항으로향했다",
   "\"더빨리,더많이만들어야...\"반도체전쟁승부처된韓·日",
-  "[지배구조분석A+]④고려아연'모범적주주환원'정책주목"
+  "[지배구조분석A+]④고려아연'모범적주주환원'정책주목",
+  "‘男농구미래’다니엘,189㎝가골밑을휘젓네…19살패기,211㎝앞에...",
+  "[마켓프리뷰]코스피,상승출발뒤하락전환…8000선'턱걸이'",
+  "다우,5만3000선벽넘었다…AI반도체저가매수세유입에일제히상승",
+  "SK하이닉스,美ADR공모절차돌입…AI자금시장시험대",
+  "뉴욕증시,AI반도체주반등에일제히상승…테슬라6%급등",
+  "내계좌반도체비중줄여야하나…월가AI거품경고에투자심리변동",
+  "홈플러스위기건설로번지나…건설사PF보증‘비상’",
+  "[SK데이터센터]1조못모은IMM…국민성장펀드에사활",
+  "[손병관의뉴스프레소]20대절반은'5.18'을모른다"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,21 @@
   [
    "2026-07-07T07:21:19.504488+09:00",
    "정책 모범적 주주환원 고려아연 주목"
+  ],
+  [
+   "2026-07-07T07:31:30.650089+09:00",
+   "위기 비상 건설로 PF 홈플러스 건설사 보증 번지나"
+  ],
+  [
+   "2026-07-07T07:31:30.650089+09:00",
+   "모은 1조 국민성장펀드에 IMM 사활"
+  ],
+  [
+   "2026-07-07T07:31:30.650089+09:00",
+   "20대 모른다 절반은"
   ]
  ],
- "last_run": "2026-07-07T07:21:30.434351+09:00",
+ "last_run": "2026-07-07T07:31:41.804168+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
