@@ -1833,7 +1833,8 @@
   "https://www.ajunews.com/view/20260706063156920",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02109046645512224",
   "https://www.ziksir.com/news/articleView.html?idxno=139195",
-  "https://www.bloter.net/news/articleView.html?idxno=667352"
+  "https://www.bloter.net/news/articleView.html?idxno=667352",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4022719"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3653,7 +3654,8 @@
   "[박승준지피지기]中첨단산업,노자도덕경에기술굴기길을묻다",
   "K푸드도전략산업...정부시선도바뀔때다[생생확대경]",
   "수도권은규제,지방은투자…3대'메가프로젝트'균형발전승부수",
-  "[박종면칼럼]대통령이두번칭찬한삼성전자이재용"
+  "[박종면칼럼]대통령이두번칭찬한삼성전자이재용",
+  "[기획]DB손보,회사는빚내고총수는돈잔치…'1.6조채권'과'2500억배..."
  ],
  "recent_sigs": [
   [
@@ -3667,9 +3669,13 @@
   [
    "2026-07-07T06:06:37.697254+09:00",
    "이재용 삼성전자 칭찬한 대통령이"
+  ],
+  [
+   "2026-07-07T06:30:36.978568+09:00",
+   "돈잔치 빚내고 회사는 DB손보 채권 6조 총수는 2500억"
   ]
  ],
- "last_run": "2026-07-07T06:20:44.133175+09:00",
+ "last_run": "2026-07-07T06:30:52.985696+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3780,6 +3786,7 @@
   "kyongbuk.co.kr": "경북일보",
   "sjbnews.com": "sjbnews.com",
   "kjdaily.com": "jndmnews",
-  "ziksir.com": "직썰"
+  "ziksir.com": "직썰",
+  "nbntv.co.kr": "내외경제TV"
  }
 }
