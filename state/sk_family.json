@@ -1756,7 +1756,9 @@
   "https://biz.sbs.co.kr/article_hub/20000320828?division=NAVER",
   "https://www.mt.co.kr/politics/2026/07/06/2026070611370534317",
   "https://economist.co.kr/article/view/ecn202607010047",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=226595"
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=226595",
+  "https://www.pressian.com/pages/articles/2026070611462095489",
+  "https://www.ilyosisa.co.kr/news/article.html?no=256733"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3499,7 +3501,9 @@
   "LG家상속분쟁2라운드…'노소영측변호사'꾸린세모녀",
   "'당대표출마'김민석\"메가프로젝트,총리때지속교감…완벽해낼것...",
   "긴축칼날에실물경제찬바람…내자산,어디에투자할까",
-  "CEO2026년7월브랜드평판...삼성이재용,SK최태원,현대자동차정의..."
+  "CEO2026년7월브랜드평판...삼성이재용,SK최태원,현대자동차정의...",
+  "김민석\"자기정치의폐해가당을혼란에빠뜨렸다\"…정청래직격",
+  "대통령의기업길들이기변천사"
  ],
  "recent_sigs": [
   [
@@ -3593,9 +3597,13 @@
   [
    "2026-07-06T12:10:24.909035+09:00",
    "경제 찬바람 투자할까 칼날에 자산 긴축 실물 어디에"
+  ],
+  [
+   "2026-07-06T12:50:25.333513+09:00",
+   "대통령의 길들이기 변천사 기업"
   ]
  ],
- "last_run": "2026-07-06T12:40:36.465612+09:00",
+ "last_run": "2026-07-06T12:50:42.759645+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3696,6 +3704,7 @@
   "tokenpost.kr": "토큰포스트",
   "ilyoseoul.co.kr": "일요서울i",
   "yonhapmidas.com": "연합뉴스 월간 마이더스",
-  "economist.co.kr": "이코노미스트"
+  "economist.co.kr": "이코노미스트",
+  "ilyosisa.co.kr": "일요시사"
  }
 }
