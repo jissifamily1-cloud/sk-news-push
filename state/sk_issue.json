@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20062539",
-  "https://www.tokenpost.kr/news/market/374200",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599495",
-  "https://www.newspim.com/news/view/20260701001194",
-  "https://biz.chosun.com/topics/law_firm/2026/07/01/QJYUJB3BK5D6TCB6LNCEHYVU5U/",
   "https://news.jtbc.co.kr/article/NB12306037?influxDiv=NAVER",
   "https://www.thereport.co.kr/news/articleView.html?idxno=89250",
   "https://biz.heraldcorp.com/article/10794935",
@@ -2999,14 +2994,14 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538413",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538431",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604448",
-  "https://www.newsis.com/view/NISI20260707_0002180558"
+  "https://www.newsis.com/view/NISI20260707_0002180558",
+  "https://www.esquirekorea.co.kr/article/1905728",
+  "https://www.segye.com/newsView/20260707519198?OutUrl=naver",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/07/2026070790263.html",
+  "https://www.newsis.com/view/NISI20260707_0002180557",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604472"
  ],
  "seen_titles": [
-  "'주가조작패가망신1호사건'피의자들구속기로…질문에도'묵묵부답...",
-  "이임식날들이닥친압수수색…김영환전지사,뇌물혐의로공수처·...",
-  "특검,'내란동조'김종욱전해경청장등구속영장청구",
-  "종합특검,'내란가담의혹'전해경청장구속영장청구",
-  "'제자성추행의혹'서울여대전교수결국재판행",
   "종합특검,'내란가담의혹'김종욱전해경청장등구속영장청구",
   "[속보]종합특검,'계엄가담의혹'전해경청장·간부구속영장청구",
   "[속보]종합특검,‘내란가담의혹’김종욱전해경청장구속영장",
@@ -6001,7 +5996,12 @@
   "[단독]성폭행수사정보도장윤기부친에공유정황…“대비해라”",
   "광주제일고“배재고선처해달라”…내일재심청구?",
   "물엿값왜안내리나했더니…‘전분당담합’에7천억과징금",
-  "압수품들고광주광산경찰서빠져나오는광주지검수사관"
+  "압수품들고광주광산경찰서빠져나오는광주지검수사관",
+  "[단독]몬스타엑스기현의새앨범'BORDERLINE'비하인드이야기",
+  "공정위,CJ그룹도상표권부당내부거래조사",
+  "7월7일'뉴스9'예고",
+  "압수품들고광주광산경찰서빠져나오는광주지검수사관들",
+  "‘허위렌털’로141억가로채…“뒷돈까지건네”"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T19:41:08.842272+09:00",
+ "last_run": "2026-07-07T19:51:10.447988+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
