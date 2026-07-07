@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/court-prosecution/6214212",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680151",
-  "https://www.mt.co.kr/economy/2026/07/01/2026070107532829408",
-  "https://www.newsis.com/view/NISI20260701_0021345088",
-  "https://view.asiae.co.kr/article/2026070111343348539",
-  "https://www.sisajournal.com/news/articleView.html?idxno=378308",
-  "https://www.news1.kr/photos/7986077",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39112",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599357",
   "http://www.segyebiz.com/newsView/20260701510226?OutUrl=naver",
   "https://www.hani.co.kr/arti/economy/economy_general/1266181.html",
   "https://www.busan.com/view/busan/view.php?code=2026070113090969686",
@@ -2999,18 +2990,18 @@
   "https://www.ggilbo.com/news/articleView.html?idxno=1168030",
   "https://www.thepublic.kr/news/articleView.html?idxno=310405",
   "https://www.chosun.com/national/2026/07/07/Z6CWIT4K3BFKBD3TBWZAUNMOSI/",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002371"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002371",
+  "http://www.srtimes.kr/news/articleView.html?idxno=206985",
+  "https://www.mediawatch.kr/news/article.html?no=260307",
+  "http://www.4th.kr/news/articleView.html?idxno=2114382",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441770",
+  "https://www.ddaily.co.kr/page/view/2026070716433928575",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260707165031QKK",
+  "https://www.ajunews.com/view/20260707151223575",
+  "http://news.lghellovision.net/news/articleView.html?idxno=547740",
+  "https://www.ytn.co.kr/_ln/0115_202607071646216311"
  ],
  "seen_titles": [
-  "또걸린구글‘앱마켓갑질’...과징금최대8496억원",
-  "구글,'게임사-GVP계약'92억달러매출…공정위,심의절차개시",
-  "구글앱마켓‘갑질’공정위심판대로…최대8500억원과징금",
-  "일잘하는공무원5급'조기승진'…100명첫선발돌입",
-  "공정위,'플레이스토어최혜대우요구'구글심사…과징금최대8500억원",
-  "공정위,구글'앱마켓독점'의혹심의착수…\"과징금최대8496억원\"",
-  "[일문일답]공정위\"구글앱마켓갑질과징금최대8496억원예상\"",
-  "게임사에'플레이스토어우대'요구한구글…공정위,제재절차착수",
-  "다른앱마켓보다구글플레이에유리한조건으로게임출시해달라...공...",
   "공정위,구글‘앱마켓갑질’제재착수…과징금최대8500억",
   "구글,게임앱불공정행위3년새또적발…과징금최대8천500억",
   "국립현대미술관장등개방형직위11곳공개모집…13일까지원서접수",
@@ -6001,7 +5992,16 @@
   "전분당가격담합적발…7476억과징금부과",
   "'80억광고수주'미끼로52억편취의혹…디디비코리아전대표재판행",
   "경찰의3000만원단순사기사건...검찰이파헤치니141억‘렌털게이트...",
-  "볼리비아,아동인신매매대응강화…\"미성년자여행,부모동행의무\""
+  "볼리비아,아동인신매매대응강화…\"미성년자여행,부모동행의무\"",
+  "공정위,전분당담합4개사과징금7476억원부과…역대최대",
+  "法,교촌협력업체마진일방인하유죄…공정위처분도확정",
+  "현대차그룹공급망상생협력확대…AI·로봇생태계함께키운다",
+  "공정위한화이어CJ상표권사용료현장조사,지주사로열티적정성여...",
+  "'브랜드사용'제값냈나…공정위,CJ현장조사",
+  "현대차,1·2차협력사와상생강화…\"미래모빌리티역량모은다\"",
+  "검찰보완수사가밝힌장윤기사건…'보완수사권존폐'논란으로확산",
+  "심덕섭고창군수군청압수수색에\"가짜뉴스와싸움\"",
+  "'장윤기사건'수사팀장구속영장...검찰도수사팀압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T16:51:13.066063+09:00",
+ "last_run": "2026-07-07T17:01:31.000465+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
