@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.segyebiz.com/newsView/20260701510226?OutUrl=naver",
-  "https://www.hani.co.kr/arti/economy/economy_general/1266181.html",
-  "https://www.busan.com/view/busan/view.php?code=2026070113090969686",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=77597",
-  "https://www.naeil.com/news/read/593687",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203131",
-  "http://www.fnnews.com/news/202607011056138609",
-  "https://lawtalknews.co.kr/article/P5M201RSPD79",
-  "https://www.naeil.com/news/read/593757",
-  "https://www.naeil.com/news/read/593749",
   "https://www.pressian.com/pages/articles/2026063014381336433",
   "https://www.busan.com/view/busan/view.php?code=2026070113162913428",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260701.99099000088",
@@ -2999,19 +2989,19 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260707165031QKK",
   "https://www.ajunews.com/view/20260707151223575",
   "http://news.lghellovision.net/news/articleView.html?idxno=547740",
-  "https://www.ytn.co.kr/_ln/0115_202607071646216311"
+  "https://www.ytn.co.kr/_ln/0115_202607071646216311",
+  "https://www.socialvalue.kr/news/view/1065599459924216",
+  "http://www.inews24.com/view/1983321",
+  "https://www.kado.net/news/articleView.html?idxno=2059932",
+  "https://www.sisajournal.com/news/articleView.html?idxno=378998",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=249738",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6835657_36981.html",
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1545847",
+  "https://www.chosun.com/national/incident/2026/07/07/TKW5HAWRSVCVVFBZ2EKD5XNDPY/",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6835656_36981.html",
+  "https://www.ytn.co.kr/_ln/0103_202607071654364629"
  ],
  "seen_titles": [
-  "공정위,구글‘앱마켓갑질’제재착수…과징금최대8500억",
-  "구글,게임앱불공정행위3년새또적발…과징금최대8천500억",
-  "국립현대미술관장등개방형직위11곳공개모집…13일까지원서접수",
-  "구글앱마켓심사보고서제출...관련매출액14조원",
-  "게임사붙잡으려지원금제공...공정위,'구글'앱마켓독점심의착수",
-  "[오후뉴스브리핑]유럽MiCA정식시행…미인가암호화폐플랫폼80%폐...",
-  "보이스피싱범행과유사?공모관계도특정못한검찰의황당의견서",
-  "매출·당기순익·고용은삼성…1인당영업이익·순익은SK",
-  "SK영업익'50조'삼성제쳤다…반도체가가른대기업성적표",
-  "공무원5급조기승진제첫시험,100명선발한다",
   "합수본,'신천지정치권로비의혹'핵심근우회장소환",
   "공정위,구글앱마켓지위남용심의개시…\"게임사이탈막으려GVP계약...",
   "\"최혜대우시비용지원\"…공정위,구글에최대8000억대과징금예고",
@@ -6001,7 +5991,17 @@
   "현대차,1·2차협력사와상생강화…\"미래모빌리티역량모은다\"",
   "검찰보완수사가밝힌장윤기사건…'보완수사권존폐'논란으로확산",
   "심덕섭고창군수군청압수수색에\"가짜뉴스와싸움\"",
-  "'장윤기사건'수사팀장구속영장...검찰도수사팀압수수색"
+  "'장윤기사건'수사팀장구속영장...검찰도수사팀압수수색",
+  "현대차그룹,1·2차협력사와AI·로봇·SDV생태계구축…\"홀로뒤쳐지...",
+  "법정서는정유업계...15년전'원적지담합'악몽소환",
+  "이양수\"소비자피해구제4년연속증가…인력은오히려감소\"",
+  "현대차그룹,1~3차협력사와상생협약…대금지급10일이내로",
+  "또다시연기된주식교환...네이버·두나무,연말엔'빅딜'성사될까",
+  "과자·빵값오르더니‥'전분당담합'7천억과징금",
+  "2억원대보험사기·공갈일당검거…3명구속",
+  "‘장윤기증거인멸’의혹에…일선경찰들도“검찰수사권있어야”",
+  "'장윤기사건'증거인멸정조준‥수사팀장구속영장",
+  "'장윤기부실수사'일파만파...보완수사권없애도괜찮나"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T17:01:31.000465+09:00",
+ "last_run": "2026-07-07T17:11:22.019867+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
