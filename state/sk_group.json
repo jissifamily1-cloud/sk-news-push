@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260706161000sbE",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128012",
-  "https://www.yna.co.kr/view/AKR20260706030751008?input=1195m",
-  "http://www.finomy.com/news/articleView.html?idxno=256889",
-  "https://www.sentv.co.kr/article/view/sentv202607060133",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=265247",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100343",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141113",
   "https://www.khan.co.kr/article/202607061619001",
   "https://daily.hankooki.com/news/articleView.html?idxno=1383203",
   "https://www.cstimes.com/news/articleView.html?idxno=712372",
@@ -2999,17 +2991,17 @@
   "https://www.news2day.co.kr/article/20260708500014",
   "https://www.seoulfn.com/news/articleView.html?idxno=632888",
   "https://biz.sbs.co.kr/article_hub/20000321219?division=NAVER",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=758718"
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758718",
+  "https://www.sjsori.com/news/articleView.html?idxno=87419",
+  "https://www.sjsori.com/news/articleView.html?idxno=87418",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249399&CMPT_CD=P0010",
+  "https://www.g-enews.com/view.php?ud=202607080632063625fbbec65dfb_1",
+  "https://www.sidae.com/article/2026070806310949699",
+  "https://www.dailian.co.kr/news/view/1664522/?sc=Naver",
+  "https://www.hankyung.com/article/2026070796956",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6835783_37012.html"
  ],
  "seen_titles": [
-  "\"국내과학자보상충분치않아…사업화정책지원필요\"",
-  "공정위·LG상생협약체결…2·3차협력사에900억지원",
-  "호남클러스터부지로선정된광주군공항…변수는'공항이전'",
-  "반도체發코스피지진…\"흔들리는퇴직연금,쪼개라\"",
-  "호남반도체클러스터,'광주군공항부지'결정...\"삼성·SK다들어간...",
-  "[증시-마감]코스피0.46%하락…외인12거래일연속'팔자'",
-  "[증시줌인]'삼전닉스레버리지퇴출론'의역설…'음의복리'잡으려다...",
-  "전남광주통합특별시,미래차반도체소부장전략포럼개최",
   "코스피,8050선약보합마감...삼성전자'웃고'SK하이닉스'울고'",
   "8,300찍고미끄러진코스피…8천선턱걸이",
   "[기자수첩]\"학력안본다면서\"…SK하이닉스향한청년들의불안한시선",
@@ -6001,7 +5993,15 @@
   "[N2모닝경제브리핑-7월8일]美증시,반도체주급락여파·유가급등...",
   "[뉴욕증시]삼성전자의'왝더독',반도체지수5%급락···유가5%급등",
   "[외신헤드라인]아마존또회사채발행…\"최소38조원추산\"",
-  "'특대'사이즈광고하곤총알오징어배송…홈쇼핑'뻥'광고에뿔난소비..."
+  "'특대'사이즈광고하곤총알오징어배송…홈쇼핑'뻥'광고에뿔난소비...",
+  "100대기업경제기여액1731조원…삼성전자177조'1위'",
+  "반도체주급락·유가쇼크…나스닥1.2%하락",
+  "[이충재의인사이트]'3대메가프로젝트'와기후·환경균형찾기",
+  "삼성·SK시총비중50%돌파…‘노키아형편중’리스크커진한국증...",
+  "[뉴욕증시]삼성전자7%급락여파…인텔10%·마이크론5%'뚝'",
+  "[현장]국조특위,선관위현장조사…\"연락도안됐다\"보고체계부실도...",
+  "\"동탄막혔다,병점으로\"…옆동네부동산'이목집중'[주간이집]",
+  "새파랗게질린'주식창'‥반도체과연고점일까"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,29 @@
   [
    "2026-07-08T06:31:28.172404+09:00",
    "광고하곤 사이즈 광고에 배송 홈쇼핑 총알 뿔난 소비 오징어 특대"
+  ],
+  [
+   "2026-07-08T06:41:17.452320+09:00",
+   "리스크 편중 비중 한국 돌파 삼성 노키아형 커진 시총"
+  ],
+  [
+   "2026-07-08T06:41:17.452320+09:00",
+   "여파 삼성전자 급락 마이크론 인텔"
+  ],
+  [
+   "2026-07-08T06:41:17.452320+09:00",
+   "연락도 현장조사 됐다 국조특위 부실 보고체계 선관위"
+  ],
+  [
+   "2026-07-08T06:41:17.452320+09:00",
+   "옆동네 막혔다 부동산 집중 동탄 병점으로 이목"
+  ],
+  [
+   "2026-07-08T06:41:17.452320+09:00",
+   "고점일까 반도체 질린 과연 새파랗게 주식창"
   ]
  ],
- "last_run": "2026-07-08T06:31:39.135718+09:00",
+ "last_run": "2026-07-08T06:41:34.062906+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
