@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Society/article/all/20260701/134217838/1",
-  "https://www.ilyosisa.co.kr/news/article.html?no=256695",
-  "https://www.kyeonggi.com/article/20260701580577",
-  "https://www.newsis.com/view/NISX20260701_0003692130",
-  "https://biz.heraldcorp.com/article/10795023",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599551",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599548",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008637294&plink=ORI&cooper=NAVER",
   "https://www.maisonkorea.com/interior/2026/07/sleep-personas/",
@@ -2999,15 +2993,15 @@
   "https://www.segye.com/newsView/20260707523530?OutUrl=naver",
   "https://www.ajunews.com/view/20260707210422083",
   "https://news.tf.co.kr/read/life/2340822.htm",
-  "https://www.khan.co.kr/article/202607072110015"
+  "https://www.khan.co.kr/article/202607072110015",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244028",
+  "https://www.sedaily.com/article/20064967",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/07/2026070790299.html",
+  "http://www.kwangju.co.kr/article.php?aid=1783426980801018006",
+  "https://www.ikbc.co.kr/article/view/kbc202607070060",
+  "https://www.kyeonggi.com/article/20260707580562"
  ],
  "seen_titles": [
-  "‘스타벅스가야지’조롱논란배재고,향후6개월출전정지철퇴",
-  "'스타벅스조롱구호'배재고야구부,전국대회6개월출전정지",
-  "[D리포트]\"공정경쟁맞아?\"3년만에'또'…구글,과징금최대'8천5백...",
-  "[공식발표]\"탱크데이\"응원배재고,6개월출전정지중징계…청룡기...",
-  "\"다음경기있는데계속뉴스를…\"광주일고감독의걱정",
-  "'스타벅스가야지'응원구호외친배재고,전국대회6개월출전정지",
   "\"스타벅스가야지\"배재고야구부,전국대회6개월출전정지징계",
   "‘스타벅스조롱응원’배재고야구부,6개월출전정지중징계",
   "대한야구소프트볼협회,공정위열어'부적절한응원구호사용한'배재...",
@@ -6001,7 +5995,13 @@
   "'혐중·부정선거현수막'단체대표구속영장기각",
   "경찰,'장윤기사건'담당수사팀·광산경찰서장직무배제",
   "'장윤기사건'강력팀장직위해제·경찰서장대기발령",
-  "‘장윤기부실수사의혹’경찰윗선개입있었나…검·경‘동시수사’"
+  "‘장윤기부실수사의혹’경찰윗선개입있었나…검·경‘동시수사’",
+  "네이버·두나무편입연기심사'장기화'",
+  "‘혐중·부정선거현수막’단체대표구속영장기각",
+  "'피습자작극'정이한전부산시장후보구속영장…\"사전공모정황\"",
+  "검찰,장윤기사건관련광주경찰강제수사",
+  "검찰,광산서압수수색...경찰수사놓고검·경힘싸움",
+  "‘장윤기사건’증거인멸의혹…광산경찰서장등6명대기발령"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T21:21:14.374191+09:00",
+ "last_run": "2026-07-07T21:31:19.112523+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
