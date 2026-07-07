@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026070116531247267",
-  "https://www.sidae.com/article/2026070117062942591",
-  "https://www.yna.co.kr/view/AKR20260701167951007?input=1195m",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16119670",
-  "https://www.chosun.com/national/court_law/2026/07/01/ZW5Y53PRHZG6FLNC6TQRGYRBNQ/",
-  "https://www.ajunews.com/view/20260701165122283",
-  "https://www.hani.co.kr/arti/society/society_general/1266263.html",
-  "https://economist.co.kr/article/view/ecn202607010050",
-  "https://www.namdonews.com/news/articleView.html?idxno=915511",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260701010000518",
   "https://www.donga.com/news/Society/article/all/20260701/134217838/1",
   "https://www.ilyosisa.co.kr/news/article.html?no=256695",
   "https://www.kyeonggi.com/article/20260701580577",
@@ -2999,19 +2989,19 @@
   "https://www.segye.com/newsView/20260707523392?OutUrl=naver",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/07/2026070790281.html",
   "https://www.newsis.com/view/NISX20260707_0003699812",
-  "https://news.jtbc.co.kr/article/NB12307101?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12307101?influxDiv=NAVER",
+  "http://www.impacton.net/news/articleView.html?idxno=19508",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646127&plink=ORI&cooper=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646126&plink=ORI&cooper=NAVER",
+  "https://www.tfmedia.co.kr/news/article.html?no=205610",
+  "https://www.mt.co.kr/industry/2026/07/07/2026070720520720555",
+  "https://biz.chosun.com/topics/topics_social/2026/07/07/SGDIURNDXFATNDCHEMM45MZU6U/",
+  "https://www.segye.com/newsView/20260707523530?OutUrl=naver",
+  "https://www.ajunews.com/view/20260707210422083",
+  "https://news.tf.co.kr/read/life/2340822.htm",
+  "https://www.khan.co.kr/article/202607072110015"
  ],
  "seen_titles": [
-  "[사설]구글제재,앱생태계회복출발점돼야",
-  "'스타벅스'조롱응원배재고야구부,전국대회6개월출전정지",
-  "[속보]“스벅가야지”배재고,전국대회6개월출전정지",
-  "종합특검,‘계엄가담의혹’전해경청장·해경간부구속영장청구",
-  "종합특검,김종욱前해경청장구속영장청구...'계엄가담의혹'",
-  "지역비하응원배재고야구부,전국대회6개월출전정지…감독·선수...",
-  "[속보]“스벅가야지”지역비하구호배재고결국···전국대회6개월...",
-  "'스타벅스가야지'배재고6개월출전정지…청룡기2회전몰수패(종합...",
-  "\"스타벅스가야지\"논란…배재고야구부,전국대회6개월출전정지",
-  "작년다단계판매원695만명…상위10개사비중77%",
   "‘스타벅스가야지’조롱논란배재고,향후6개월출전정지철퇴",
   "'스타벅스조롱구호'배재고야구부,전국대회6개월출전정지",
   "[D리포트]\"공정경쟁맞아?\"3년만에'또'…구글,과징금최대'8천5백...",
@@ -6001,7 +5991,17 @@
   "‘장윤기사건’당시광주광산경찰서장등6명대기발령",
   "검찰,'증거인멸·유착'장윤기수사팀압수수색…수사팀장은'구속영장...",
   "'혐중·부정선거현수막'원외정당관계자구속면해…대표는연기",
-  "'장윤기사건'증거인멸혐의경찰서장등6명대기발령"
+  "'장윤기사건'증거인멸혐의경찰서장등6명대기발령",
+  "중국ESG펀드규제강화…그린워싱차단나선다",
+  "7년넘는짬짜미딱걸렸다…전분당담합에7,476억원",
+  "\"무료게임인데PC방은유료?\"…롤접속제한하자반발",
+  "국세청,KT특별세무조사들어갔다…2021∼2025년회계자료대상",
+  "韓해운사,中컨테이너담합피해봤나…공정위,조사개시",
+  "‘장윤기증거인멸의혹’사건수사팀·광산경찰서장등6명직무배제",
+  "'혐중·부정선거현수막'단체대표구속영장기각",
+  "경찰,'장윤기사건'담당수사팀·광산경찰서장직무배제",
+  "'장윤기사건'강력팀장직위해제·경찰서장대기발령",
+  "‘장윤기부실수사의혹’경찰윗선개입있었나…검·경‘동시수사’"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T21:11:08.201661+09:00",
+ "last_run": "2026-07-07T21:21:14.374191+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
