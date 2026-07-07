@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202607010189",
-  "https://www.hankookilbo.com/news/article/A2026070116050000385?did=NA",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260701.99099000337",
-  "https://www.khan.co.kr/article/202607011718001",
   "https://www.news1.kr/society/general-society/6214836",
   "https://www.topstarnews.net/news/articleView.html?idxno=16119697",
   "http://www.srtimes.kr/news/articleView.html?idxno=206553",
@@ -2999,13 +2995,13 @@
   "https://jtv.co.kr/news/article.php?id=69983",
   "https://www.news1.kr/society/incident-accident/6220805",
   "http://www.yonhapnewstv.co.kr/news/MYH20260707204423PWa",
-  "https://www.yna.co.kr/view/AKR20260707123351004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260707123351004?input=1195m",
+  "https://news.tf.co.kr/read/national/2340821.htm",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604594",
+  "https://www.news1.kr/society/court-prosecution/6220819",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604593"
  ],
  "seen_titles": [
-  "\"앱마켓운영하며경쟁제한\"공정위,구글제재착수…과징금최대850...",
-  "공정위,'앱마켓최혜대우계약'구글제재돌입⋯최대8500억과징금심...",
-  "공정위\"구글플레이시장지배적지위남용\"제재논의",
-  "종합특검,'계엄가담의혹'前해경청장등구속영장",
   "종합특검,'해경내란가담의혹'김종욱·안성식구속영장",
   "SK,2년간영업익1위…매출·순익·고용1위는삼성,매출·고용2위현...",
   "[DD퇴근길]AI회사가신약도만든다…앤트로픽의투잡전략",
@@ -6001,7 +5997,11 @@
   "경찰,심덕섭고창군수압수수색···'정치자금법위반'",
   "'장윤기증거인멸'강력팀장직위해제…서장등6명대기발령",
   "사라진증거들로본유착의혹…경찰,'탈성범죄'조력?",
-  "법원,'혐중·부정선거현수막'단체대표구속영장기각(종합)"
+  "법원,'혐중·부정선거현수막'단체대표구속영장기각(종합)",
+  "'피습자작극의혹'정이한,구속갈림길…8일영장심사",
+  "‘장윤기사건’광주광산경찰서장등6명대기발령",
+  "'혐중·부정선거의혹현수막'단체대표구속영장기각",
+  "‘혐중·부정선거’현수막내건단체대표구속영장기각"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T20:51:12.585536+09:00",
+ "last_run": "2026-07-07T21:01:26.663242+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
