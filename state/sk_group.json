@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/securities/2026/07/06/20260706500101?wlog_tag3=naver",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1095336",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248863&CMPT_CD=P0010",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247710&CMPT_CD=P0010",
-  "http://www.gjdream.com/news/articleView.html?idxno=670789",
-  "http://www.thebigdata.co.kr/view.php?ud=202607061407034626bbceadc3c9_23",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167681",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167682",
   "http://www.metroseoul.co.kr/article/20260706500321",
@@ -2999,15 +2993,15 @@
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255927",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=202483",
   "https://news.jtbc.co.kr/article/NB12306996?influxDiv=NAVER",
-  "https://www.nocutnews.co.kr/news/6544539"
+  "https://www.nocutnews.co.kr/news/6544539",
+  "https://www.xportsnews.com/article/2169240",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=91927",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423802",
+  "https://www.econotimes.com/Nasdaq-Futures-Slide-as-AI-Chip-Stocks-Sink-Despite-Samsung-Earnings-SpaceX-Debuts-in-Nasdaq-100-1746104",
+  "https://www.jbnews.com/news/articleView.html?idxno=1507247",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1783414440&code=11151200&cp=nv"
  ],
  "seen_titles": [
-  "李,메가프로젝트속도전주문…野엔\"협조못하면방해도말라\"",
-  "\"나무엑스로'특수학교선생님'도와보세요\"SK인텔릭스,제2회해커톤대...",
-  "'삼전닉스ETF'후폭풍…한은경고에당국책임론까지",
-  "\"닥치고공급\"선언했지만…2029년까지'입주공백'",
-  "시한폭탄된'삼전닉스레버리지ETF',금융당국수장파면.상장폐지주...",
-  "포스코인터,광양LNG터미널2단계준공눈앞…호남반도체에너지공급...",
   "“좀작지만..”윤남노셰프,꽉끼는팔찌계속차는이유공개",
   "\"꿈의1만피온다\"…여의도고수들이꼽은무조건담을종목",
   "반도체가격상승세‘숨고르기’…“AI수요는여전”",
@@ -6001,29 +5995,15 @@
   "\"이보다더좋을수없다?\"···삼전영업익89조에도증시는'셀온'",
   "민주당\"전당대회당대표,선호투표제로결정\"[정치오늘]",
   "[오늘한컷]\"역시전쟁으로먹고사는회사\"",
-  "\"할말도별로없네요\"9연패SSG이숭용감독\"지금경쟁력9위가현실..."
+  "\"할말도별로없네요\"9연패SSG이숭용감독\"지금경쟁력9위가현실...",
+  "벤투부임설에'홍명보참사'금세잊히나…'벤버지효과'확실하네→한...",
+  "공정위,한화이어CJ도현장조사…상표권내부거래적정성점검",
+  "[채권-마감]금리상승…반도체피크아웃우려속外人매도",
+  "NasdaqFuturesSlideasAIChipStocksSinkDespiteSamsungEarnings;S",
+  "'전력망확보가시화'충주AI데이터센터최적지급부상",
+  "[단독]단일종목레버리지출시전“여러종목허용”건의묵살됐다"
  ],
  "recent_sigs": [
-  [
-   "2026-07-07T12:51:16.123226+09:00",
-   "삼전닉스 검은 메모리주 화요일 이어 키옥시아도"
-  ],
-  [
-   "2026-07-07T12:51:16.123226+09:00",
-   "신축공사 원대 기반 수주 까뮤이앤씨 청주 SK에코플랜트와 664억"
-  ],
-  [
-   "2026-07-07T12:51:16.123226+09:00",
-   "시가총액 금호건설 전남광주 반도체 급등 산단 상장사들"
-  ],
-  [
-   "2026-07-07T12:51:16.123226+09:00",
-   "제품 주가 차세대 반도체 지연 1년 엔비디아 타격"
-  ],
-  [
-   "2026-07-07T12:51:16.123226+09:00",
-   "하반기 최창규 열려 장세 본부장 롤러코스터 상단 1만선 코스피"
-  ],
   [
    "2026-07-07T13:01:33.042074+09:00",
    "두산위브더제니스 아파트 부산 대연 분양 관심 강세 대연동 하이엔드"
@@ -7255,9 +7235,25 @@
   [
    "2026-07-07T18:41:20.833680+09:00",
    "지금 현실 말도 경쟁력 별로 이숭용 9연패 없네요 9위가 SSG 감독"
+  ],
+  [
+   "2026-07-07T18:51:23.262601+09:00",
+   "상승 우려 금리 매도 반도체 피크아웃"
+  ],
+  [
+   "2026-07-07T18:51:23.262601+09:00",
+   "Spa Chip Stocks AI Nasdaq as Despite Earnings Futures Samsung Sink Slide"
+  ],
+  [
+   "2026-07-07T18:51:23.262601+09:00",
+   "충주 최적지 확보 가시화 AI데이터센터 급부상 전력망"
+  ],
+  [
+   "2026-07-07T18:51:23.262601+09:00",
+   "허용 단일종목 여러 종목 건의 출시 묵살됐다 레버리지"
   ]
  ],
- "last_run": "2026-07-07T18:41:39.542078+09:00",
+ "last_run": "2026-07-07T18:51:37.723917+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
