@@ -1880,7 +1880,11 @@
   "https://www.etnews.com/20260707000274",
   "https://www.ajunews.com/view/20260707134630341",
   "https://www.g-enews.com/view.php?ud=2026070712090360883084322ec9_1",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441722"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441722",
+  "https://www.nocutnews.co.kr/news/6544293",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=352172",
+  "https://news.ifm.kr/news/articleView.html?idxno=474527",
+  "https://it.donga.com/109143/"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3747,13 +3751,13 @@
   "[부음]이관상(금호건설경영관리본부전무)씨부친상",
   "<오늘의부고>",
   "韓70%“EU형한일경제공동체필요”…日도60%찬성",
-  "[부음]이관상부친"
+  "[부음]이관상부친",
+  "한국인70%\"한일경제공동체필요\"…일본은60%찬성",
+  "옷에깃든시간을예술로풀어내다",
+  "\"내가진짜이재명\"정청래·송영길·김민석,1인1표제속'친명선명성...",
+  "정부3대메가프로젝트정리···주안점과우려는?"
  ],
  "recent_sigs": [
-  [
-   "2026-07-07T08:10:32.982095+09:00",
-   "계열사 낙점 인프라 살린다 먹거리로 AI"
-  ],
   [
    "2026-07-07T08:50:31.895359+09:00",
    "달동안 SK하이닉스 10억달러씩 하루 환전한다 300억달러"
@@ -3789,9 +3793,17 @@
   [
    "2026-07-07T12:20:31.135470+09:00",
    "착공 연내 탄약고 자리에 1기 유력 반도체"
+  ],
+  [
+   "2026-07-07T14:20:30.724812+09:00",
+   "김민석 진짜 1표제 정청래 이재명 송영길 친명 내가 1인 선명성"
+  ],
+  [
+   "2026-07-07T14:20:30.724812+09:00",
+   "주안점과 정리 우려는 정부 메가프로젝트 3대"
   ]
  ],
- "last_run": "2026-07-07T14:10:42.132017+09:00",
+ "last_run": "2026-07-07T14:20:50.664580+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3905,6 +3917,7 @@
   "ziksir.com": "직썰",
   "nbntv.co.kr": "내외경제TV",
   "lcnews.co.kr": "라이센스뉴스",
-  "youthdaily.co.kr": "청년일보"
+  "youthdaily.co.kr": "청년일보",
+  "news.ifm.kr": "경인방송"
  }
 }
