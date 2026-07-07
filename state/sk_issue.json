@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pressian.com/pages/articles/2026063014381336433",
-  "https://www.busan.com/view/busan/view.php?code=2026070113162913428",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260701.99099000088",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845700",
-  "https://www.korea.kr/briefing/actuallyView.do?newsId=148967432&call_from=naver_news",
-  "https://www.siminsori.com/news/articleView.html?idxno=400005",
-  "https://view.asiae.co.kr/article/2026070110283475925",
-  "https://www.kyeonggi.com/article/20260701580170",
-  "https://www.thepowernews.co.kr/view.php?ud=202607011328142280de3f0aa1be_7",
-  "https://h21.hani.co.kr/arti/society/society_general/59552.html",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714669",
   "https://www.yna.co.kr/view/AKR20260701108900017?input=1195m",
   "http://www.joseilbo.com/news/news_read.php?uid=571081&class=32",
@@ -2999,19 +2989,19 @@
   "http://www.knnews.co.kr/news/articleView.php?idxno=1545847",
   "https://www.chosun.com/national/incident/2026/07/07/TKW5HAWRSVCVVFBZ2EKD5XNDPY/",
   "https://imnews.imbc.com/replay/2026/nw1700/article/6835656_36981.html",
-  "https://www.ytn.co.kr/_ln/0103_202607071654364629"
+  "https://www.ytn.co.kr/_ln/0103_202607071654364629",
+  "http://www.fnnews.com/news/202607071715032449",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306448&inflow=N",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244026",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4093696",
+  "https://www.munhwa.com/article/11600954",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244023",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=359913",
+  "https://www.seoultimes.news/news/article.html?no=2000097507",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204377",
+  "https://www.sisajournal.com/news/articleView.html?idxno=378985"
  ],
  "seen_titles": [
-  "합수본,'신천지정치권로비의혹'핵심근우회장소환",
-  "공정위,구글앱마켓지위남용심의개시…\"게임사이탈막으려GVP계약...",
-  "\"최혜대우시비용지원\"…공정위,구글에최대8000억대과징금예고",
-  "공정위,구글앱마켓시장지배적지위남용심의개시",
-  "구글,경쟁앱마켓죽이려넥슨·엔씨·넷마블등에‘밀실지원’…공정...",
-  "합수본,'신천지-정치권가교의혹'이희자근우회장소환",
-  "공정위,구글앱마켓관련시장지배적지위남용행위사건심의절차개...",
-  "구글,게임사'최혜대우'강제논란···과징금최대8,500억전망",
-  "공정위“앱마켓불공정거래‘구글’제제심의”",
-  "‘3년만에또’구글,게임앱불공정행위…과징금최대8500억",
   "‘다른앱마켓보다게임빨리출시’계약…구글에수천억과징금부과...",
   "공정위,구글시장지배적지위남용관련심의착수",
   "정부,주유소1천곳특별점검…석유가격인하악용행위단속",
@@ -6001,7 +5991,17 @@
   "2억원대보험사기·공갈일당검거…3명구속",
   "‘장윤기증거인멸’의혹에…일선경찰들도“검찰수사권있어야”",
   "'장윤기사건'증거인멸정조준‥수사팀장구속영장",
-  "'장윤기부실수사'일파만파...보완수사권없애도괜찮나"
+  "'장윤기부실수사'일파만파...보완수사권없애도괜찮나",
+  "'CJ'상표권사용료적정했나…공정위,한화이어현장조사",
+  "공정위구글끼워팔기압박에도…국내음원플랫폼'약세'",
+  "제주·서귀포농협'기름값담합'에과징금20억",
+  "현대차그룹-협력사,1·2·3차상생협약체결…5,500여개협력사혜택",
+  "서강현현대차그룹사장“협력사의경쟁력이곧그룹의경쟁력”···...",
+  "전분당담합또적발…과징금'5천억'추가되나",
+  "명륜당,정책자금받아고리대부업계열사지원",
+  "현대차그룹,미래차공급망상생강화…협력사대금지급앞당기고AI전...",
+  "'장윤기부친'수사도속도…\"친족특례여도징계가능\"[짤e몽땅]",
+  "檢보완수사권폐지국면서불거진경찰의'장윤기부실수사의혹'…폐..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T17:11:22.019867+09:00",
+ "last_run": "2026-07-07T17:21:18.894843+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
