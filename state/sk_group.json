@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10799559",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47029",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1064970",
-  "https://www.mediapen.com/news/view/1108431",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2051730",
-  "https://www.hani.co.kr/arti/society/labor/1266666.html",
   "http://www.koreastocknews.com/news/articleView.html?idxno=119567",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607021350465760104876",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000048031",
@@ -2999,15 +2993,15 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070445&t=NN",
   "https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html?partner=naver",
   "https://www.mk.co.kr/article/12089814",
-  "https://www.mk.co.kr/article/12089706"
+  "https://www.mk.co.kr/article/12089706",
+  "https://sports.donga.com/sports/article/all/20260707/134254706/1",
+  "http://www.osen.co.kr/article/G1112835637",
+  "https://www.starnewskorea.com/sports/2026/07/07/2026070716255838718",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260707210541BBB",
+  "https://www.mk.co.kr/article/12092781",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446467"
  ],
  "seen_titles": [
-  "경기남부주거수요'이천분양'관심집중",
-  "LG,1차넘어2·3차협력사까지상생확대…900억금융지원",
-  "\"26조담합\"검찰기소에…정유업계'당혹속침묵'",
-  "3대메가프로젝트속도전...부지확정·환경평가단축·용지병행취득...",
-  "LG상생결제낙수율확대…1차→2차이하협력사대금전달비율10%이상",
-  "브레이커스,PBA팀리그데뷔전서휴온스격파‘이변’",
   "이주노동자사망사고기도회연대한불교조계종",
   "얼굴결제경쟁격화…'보안·안정성'시험대",
   "부천시,대장산단첨단기업유치본격화…투자제안접수",
@@ -6001,7 +5995,13 @@
   "'세계1위'오른날7%빠진삼전주가…외국인'2조'던졌다",
   "WhyIndexFundsHaven’tBoostedSpaceX",
   "바이낸스,삼전닉스파생투자의명과암",
-  "변동성‘늪’빠진코스피…레버리지의역습[스페셜리포트]"
+  "변동성‘늪’빠진코스피…레버리지의역습[스페셜리포트]",
+  "신인이팀을구했다…SSG김민준,데뷔첫QS앞세워팀9연패탈출견인",
+  "'첫QS'우완신인역투+에레디아결승타+최정투런→SSG,두산잡고패...",
+  "20세막내의'첫QS'감동역투→최정이끝낸'9연패'...SSG,두산4-2제...",
+  "\"하반기에도초호황\"…반도체'슈퍼사이클'어디까지?",
+  "유통기업이정치뉴스로상한가…신세계그룹,왜자꾸엮일까요[이슈플...",
+  "SK스토아,﻿'늘곁애미리크루즈'누적취급액560억원돌파···﻿여행..."
  ],
  "recent_sigs": [
   [
@@ -7107,9 +7107,21 @@
   [
    "2026-07-07T21:06:19.534731+09:00",
    "빠진 변동성 레버리지의 코스피 역습"
+  ],
+  [
+   "2026-07-07T21:11:15.705750+09:00",
+   "하반기에도 슈퍼사이클 초호황 어디까지 반도체"
+  ],
+  [
+   "2026-07-07T21:11:15.705750+09:00",
+   "신세계그룹 유통기업이 엮일까요 이슈플 자꾸 상한가 정치뉴스로"
+  ],
+  [
+   "2026-07-07T21:11:15.705750+09:00",
+   "늘곁애 취급액 누적 돌파 SK스토아 크루즈 여행 미리 560억원"
   ]
  ],
- "last_run": "2026-07-07T21:06:31.395068+09:00",
+ "last_run": "2026-07-07T21:11:27.703075+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
