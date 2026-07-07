@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268896",
-  "https://www.joongang.co.kr/article/25441538",
-  "https://biz.heraldcorp.com/article/10794761",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=202714",
   "http://www.metroseoul.co.kr/article/20260701500328",
   "https://www.insight.co.kr/news/561052",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=603238",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12092660",
   "https://www.newsis.com/view/NISX20260707_0003699669",
   "https://www.khan.co.kr/article/202607071751001",
-  "https://www.ytn.co.kr/_ln/0115_202607071748548092"
+  "https://www.ytn.co.kr/_ln/0115_202607071748548092",
+  "https://www.hankyung.com/article/2026070710671",
+  "https://www.hankookilbo.com/news/article/A2026070717530003337?did=NA",
+  "https://www.newsgn.com/news/articleView.html?idxno=561078",
+  "https://www.newsgn.com/news/articleView.html?idxno=561079"
  ],
  "seen_titles": [
-  "구글,게임앱불공정행위적발…과징금최대8천500억",
-  "구글,플레이스토어불공정행위3년새또적발…과징금최대8500억부과...",
-  "[연합뉴스이시각헤드라인]-14:30",
-  "'주가조작패가망신'1호사건피의자들,구속심사출석",
   "'주가조작패가망신1호'피의자4명구속기로…'묵묵부답'",
   "'주가조작패가망신1호사건'피의자4명구속심사출석…'묵묵부답'",
   "‘전자증거보전요청제’1일본격시행…사이버범죄대응강화",
@@ -6001,7 +5997,11 @@
   "장윤기사건증거은폐한경찰…檢보완수사권논의불붙였다",
   "\"영상삭제지시안했다\"장윤기사건수사팀장'항변'",
   "[단독]검찰,‘장윤기수사무마’경찰윗선개입가능성수사…경찰...",
-  "검찰,장윤기수사팀압수수색...수사팀장구속영장"
+  "검찰,장윤기수사팀압수수색...수사팀장구속영장",
+  "'전당분담합'4社에과징금7476억",
+  "한글인터넷주소체계만든넷피아,구글상대로헌법소원제기",
+  "'전분당담합'4개사에과징금7476억…역대최대",
+  "검·경,'장윤기유착의혹'동시압수수색…보완수사권전면전"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "협력사 현대차와 협약 대금지급 상생 10일"
   ]
  ],
- "last_run": "2026-07-07T17:58:12.199282+09:00",
+ "last_run": "2026-07-07T18:01:25.592757+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
