@@ -1857,7 +1857,9 @@
   "https://biz.heraldcorp.com/article/10800488",
   "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90194",
   "https://www.news1.kr/realestate/construction/6219932",
-  "http://www.osen.co.kr/article/G1112835159"
+  "http://www.osen.co.kr/article/G1112835159",
+  "https://www.youthdaily.co.kr/news/article.html?no=222423",
+  "https://www.dailian.co.kr/news/view/1664203/?sc=Naver"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3701,7 +3703,9 @@
   "[부고]이관상(금호건설경영관리본부전무)씨부친상",
   "[부고]이관상금호건설경영관리본부전무부친상",
   "[부고]이관상씨(금호건설경영관리본부전무)부친상",
-  "'유방암투병'이성미\"3년마다영정사진업데이트..장례위원장송은이..."
+  "'유방암투병'이성미\"3년마다영정사진업데이트..장례위원장송은이...",
+  "[데스크칼럼]존폐기로에서세계정점까지…'글로벌AI지도'바꾼SK...",
+  "삼성전자,매출절반을이익으로…비결은메모리초고마진"
  ],
  "recent_sigs": [
   [
@@ -3751,9 +3755,17 @@
   [
    "2026-07-07T10:10:34.467856+09:00",
    "동맹 방한 만든다 AI 한국과 피지컬 큰손들"
+  ],
+  [
+   "2026-07-07T11:10:30.644311+09:00",
+   "존폐 바꾼 AI 기로에서 정점까지 지도 글로벌 세계"
+  ],
+  [
+   "2026-07-07T11:10:30.644311+09:00",
+   "절반을 초고마진 매출 이익으로 메모리 삼성전자 비결은"
   ]
  ],
- "last_run": "2026-07-07T11:00:51.180388+09:00",
+ "last_run": "2026-07-07T11:10:46.133621+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -3866,6 +3878,7 @@
   "kjdaily.com": "jndmnews",
   "ziksir.com": "직썰",
   "nbntv.co.kr": "내외경제TV",
-  "lcnews.co.kr": "라이센스뉴스"
+  "lcnews.co.kr": "라이센스뉴스",
+  "youthdaily.co.kr": "청년일보"
  }
 }
