@@ -1920,7 +1920,10 @@
   "https://www.busan.com/view/busan/view.php?code=2026070717582289278",
   "https://www.namdonews.com/news/articleView.html?idxno=916178",
   "http://www.fnnews.com/news/202607071805433372",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002529"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002529",
+  "http://www.fnnews.com/news/202607071815320891",
+  "https://www.yna.co.kr/view/AKR20260707161100052?input=1195m",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1561096"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -3827,13 +3830,12 @@
   "한일경제공동체70%“추진찬성”",
   "신안군,흑산도서'2026국제문페스타'성황리마무리",
   "기업규제·노봉법이판키운소송…대형로펌실적뛰었다",
-  "SK하이닉스美상장,밸류재평가VS신주발행지분희석…국내영향'희..."
+  "SK하이닉스美상장,밸류재평가VS신주발행지분희석…국내영향'희...",
+  "[부고]이동춘씨",
+  "[인사]경남창원시",
+  "정성주김제시장\"옛김제공항부지,SK하이닉스유치최적지\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-07T12:20:31.135470+09:00",
-   "착공 연내 탄약고 자리에 1기 유력 반도체"
-  ],
   [
    "2026-07-07T14:20:30.724812+09:00",
    "김민석 진짜 1표제 정청래 이재명 송영길 친명 내가 1인 선명성"
@@ -3893,9 +3895,13 @@
   [
    "2026-07-07T18:10:34.598276+09:00",
    "국내 영향 상장 밸류 VS 희석 재평가 SK하이닉스 신주발행 지분"
+  ],
+  [
+   "2026-07-07T18:20:33.876359+09:00",
+   "정성주 부지 김제공항 최적지 유치 김제시장 SK하이닉스"
   ]
  ],
- "last_run": "2026-07-07T18:10:50.208647+09:00",
+ "last_run": "2026-07-07T18:20:46.144729+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -4013,6 +4019,7 @@
   "news.ifm.kr": "경인방송",
   "cc.newdaily.co.kr": "뉴데일리",
   "finomy.com": "현대경제신문",
-  "popcornnews.net": "팝콘뉴스"
+  "popcornnews.net": "팝콘뉴스",
+  "domin.co.kr": "전북도민일보"
  }
 }
