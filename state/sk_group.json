@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11600895",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=659904",
-  "https://www.pennmike.com/news/articleView.html?idxno=123283",
-  "https://www.medipana.com/news/articleView.html?idxno=414219",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423738",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155010",
-  "https://www.chosun.com/economy/economy_general/2026/07/07/2DN3E6232NFWPJVEUGGD3WUEZI/",
-  "https://www.newsis.com/view/NISX20260707_0003698862",
   "https://www.econotimes.com/Samsung-Q2-Profit-Hits-Record-on-AI-Memory-Boom-as-Shares-Tumble-1746077",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=355602",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=352156",
@@ -2999,17 +2991,17 @@
   "http://www.ujeil.com/news/articleView.html?idxno=388520",
   "http://www.ujeil.com/news/articleView.html?idxno=388557",
   "http://www.ujeil.com/news/articleView.html?idxno=388552",
-  "https://www.tokenpost.kr/news/market/375994"
+  "https://www.tokenpost.kr/news/market/375994",
+  "https://www.sedaily.com/article/20065516",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=553362",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=578800",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=578747",
+  "https://www.newscj.com/news/articleView.html?idxno=3415576",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466811",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=578776",
+  "https://biz.heraldcorp.com/article/10802219"
  ],
  "seen_titles": [
-  "반도체산단현장점검민형배",
-  "반도체부지설명하는민형배",
-  "구윤철\"7월말부동산세제개편…보유세·거래세균형맞출것\"",
-  "美소비자들'D램가격담합'소송…법조계\"가격상승만으론처벌어려...",
-  "\"삼성전자주가5.90%급락…기대못미친실적발표에충격파\"",
-  "삼성전자,엔비디아뛰어넘은2분기영업익90조육박…하반기도'청신...",
-  "한화이어CJ도겨눈공정위…상표권관련부당내부거래여부조사",
-  "삼전닉스7%대동반하락,코스피도휘청",
   "작심스터디카페,아파트커뮤니티시장공략…SK드파인적용",
   "[티조챗]삼성전자호실적내년까진이어질듯…주주환원·中반도체추격...",
   "반도체發‘이사명령’軍비행단이전만6~7년…안보공백우려",
@@ -6001,7 +5993,15 @@
   "코스피·코스닥'매도사이드카'",
   "울산'석유·화학AX실증'본궤도",
   "울산,AI데이터센터확장속도낸다",
-  "코스피급락,7,000선붕괴위기…반도체와중동긴장이원인"
+  "코스피급락,7,000선붕괴위기…반도체와중동긴장이원인",
+  "“수익률-50%,내가이걸왜했을까”개미들비명…삼전닉스레버리지...",
+  "반도체피크아웃논란에…코스피7200선털썩",
+  "AI데이터센터1GW확장울산시준비속도낸다",
+  "현대가더비서시즌첫홈3연승도전",
+  "[경제칼럼]하반기경제도약의길,'기업우대'와'규제혁파'에답이...",
+  "거래대금100조시대인데증권주는왜못오르나...5대증권사재평가오...",
+  "민주,당권경쟁'5파전'예고…예비경선가능성",
+  "‘이젠개미도지쳤어’주식살돈도줄어든다…삼전닉스주가,누가..."
  ],
  "recent_sigs": [
   [
@@ -6939,9 +6939,25 @@
   [
    "2026-07-08T21:41:18.832831+09:00",
    "긴장이 급락 중동 원인 코스피 붕괴 위기 반도체와 000선"
+  ],
+  [
+   "2026-07-08T21:51:19.898731+09:00",
+   "도약의 혁파 답이 기업 경제 하반기 규제 우대"
+  ],
+  [
+   "2026-07-08T21:51:19.898731+09:00",
+   "거래대금 증권주는 증권사 100조 재평가 오르나 시대인데 5대"
+  ],
+  [
+   "2026-07-08T21:51:19.898731+09:00",
+   "예고 민주 5파전 가능성 예비경선 당권경쟁"
+  ],
+  [
+   "2026-07-08T21:51:19.898731+09:00",
+   "지쳤어 이젠 주식 개미도 돈도 주가 삼전닉스 줄어든다 누가"
   ]
  ],
- "last_run": "2026-07-08T21:41:33.221852+09:00",
+ "last_run": "2026-07-08T21:51:34.466044+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
