@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123082",
-  "https://www.seoulfn.com/news/articleView.html?idxno=632552",
-  "https://www.greened.kr/news/articleView.html?idxno=344086",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=758652",
-  "https://news.tf.co.kr/read/economy/2339193.htm",
-  "https://www.newscj.com/news/articleView.html?idxno=3414025",
   "http://www.lkp.news/news/articleView.html?idxno=81503",
   "https://www.news1.kr/industry/general-industry/6216177",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272345",
@@ -2999,15 +2993,15 @@
   "https://www.eroun.net/news/articleView.html?idxno=84870",
   "https://www.seoul.co.kr/news/economy/securities/2026/07/08/20260708500114?wlog_tag3=naver",
   "https://www.ekn.kr/web/view.php?key=20260708028480364",
-  "https://www.yna.co.kr/view/AKR20260708093200001?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260708093200001?input=1195m",
+  "https://www.starnewskorea.com/sports/2026/07/08/2026070721342629076",
+  "https://www.newstnt.com/news/articleView.html?idxno=709400",
+  "https://www.kbmaeil.com/article/20260708500383",
+  "http://www.breaknews.com/1220074",
+  "https://www.dailian.co.kr/news/view/1664738/?sc=Naver",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155036"
  ],
  "seen_titles": [
-  "SK,협력사와상생협약…협력사에1.4조지원",
-  "[현장]SK,협력사동반성장강화한다…상생협력에1.4조투자",
-  "SK,1~3차협력사와상생협약…동반성장가속화",
-  "SK,협력사와상생협약...하이닉스5년간1.4조활용",
-  "SK,1·2·3차협력사에1.4조투입해동반성장강화",
-  "SK,1·2·3차협력사에1조4000억푼다…\"동반성장가속화\"",
   "SK협력사와상생협약체결,'대금지급개선''기술·금융지원'으로동...",
   "SK,1·2·3차협력사와상생협약…\"반도체등1.4조신규자금수혈\"",
   "SK그룹1·2·3차협력사에1.4조푼다…반도체상생생태계강화",
@@ -6001,21 +5995,15 @@
   "황병직영주시장,취임후첫행보는'지역4대기업'현장소통",
   "[서울데이터랩]코스피시총상위주장중혼조…SK하이닉스·기아상승,삼...",
   "[패트롤]과천시-군포시-부천시-안양시-의왕시",
-  "與당권경쟁난타전…고민정\"金·鄭·宋이딱내로남불모습\""
+  "與당권경쟁난타전…고민정\"金·鄭·宋이딱내로남불모습\"",
+  "'청라시대에이스'완벽쇼케이스,이숭용예감적중...SSG구한김민준...",
+  "[특징주]외국인·기관'삼성전자·레몬헬스케어'러브콜...'후성'은핑퐁",
+  "코스피·코스닥롤러코스터장세…‘불장끝났나’고점론확산",
+  "송영길,민주당당대표출마선언“2030세대없인2030년대선승리없...",
+  "AI반도체·AIDC1000조…피지컬AI받칠6G인프라얘긴왜없나",
+  "SKHynixADROfferingDrawsHeavyGlobalDemandasAIMemoryGrowthFuel"
  ],
  "recent_sigs": [
-  [
-   "2026-07-08T06:31:28.172404+09:00",
-   "반도체지수 유가 삼성전자의 급락 왝더독 급등"
-  ],
-  [
-   "2026-07-08T06:31:28.172404+09:00",
-   "38조 회사채 발행 아마존 최소 추산"
-  ],
-  [
-   "2026-07-08T06:31:28.172404+09:00",
-   "광고하곤 사이즈 광고에 배송 홈쇼핑 총알 뿔난 소비 오징어 특대"
-  ],
   [
    "2026-07-08T06:41:17.452320+09:00",
    "리스크 편중 비중 한국 돌파 삼성 노키아형 커진 시총"
@@ -7087,9 +7075,25 @@
   [
    "2026-07-08T12:31:25.055548+09:00",
    "고민정 모습 내로남불 난타전 당권경쟁"
+  ],
+  [
+   "2026-07-08T12:41:13.680649+09:00",
+   "롤러코스터 코스닥 장세 끝났나 코스피 불장 고점론 확산"
+  ],
+  [
+   "2026-07-08T12:41:13.680649+09:00",
+   "2030년 2030세대 민주당 송영길 당대표 없인 대선 승리 출마 선언"
+  ],
+  [
+   "2026-07-08T12:41:13.680649+09:00",
+   "받칠 인프라 얘긴 1000조 피지컬 AI 6G 없나 AIDC 반도체"
+  ],
+  [
+   "2026-07-08T12:41:13.680649+09:00",
+   "as Memory Heavy Global ADR AI Fuels Offering Hynix Growth Demand Draws"
   ]
  ],
- "last_run": "2026-07-08T12:31:34.073723+09:00",
+ "last_run": "2026-07-08T12:41:27.312303+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
