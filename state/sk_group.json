@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12089779",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307826",
-  "http://www.newsprime.co.kr/news/article.html?no=739425",
-  "http://news.lghellovision.net/news/articleView.html?idxno=547693",
-  "https://www.joongangenews.com/news/articleView.html?idxno=531138",
-  "https://www.seoulfn.com/news/articleView.html?idxno=632856",
-  "https://www.etnews.com/20260707000353",
   "https://www.viewsnnews.com/article?q=237029",
   "https://biz.chosun.com/industry/company/2026/07/07/RU2O7OCAZBCFJNQNPORYNDN6NM/",
   "http://www.metroseoul.co.kr/article/20260707500366",
@@ -2999,16 +2992,16 @@
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=249864",
   "http://www.inews24.com/view/1983797",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61356",
-  "https://biz.sbs.co.kr/article_hub/20000321450?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000321450?division=NAVER",
+  "https://www.starnewskorea.com/star/2026/07/09/2026070907302832264",
+  "https://www.yna.co.kr/view/AKR20260709024800009?input=1195m",
+  "https://www.khan.co.kr/article/202607090742001",
+  "https://www.sjsori.com/news/articleView.html?idxno=87467",
+  "https://dealsite.co.kr/articles/164899",
+  "https://www.kyeongin.com/article/1767036",
+  "https://www.ytn.co.kr/_ln/0102_202607090733341348"
  ],
  "seen_titles": [
-  "삼성전자,실적너무좋은데‘폭락’…기저에는‘세가지’이유[종...",
-  "새만금이RE100전력기지된다···한수원,1.2GW수상태양광속도",
-  "'HBM핑계로폭등'…삼전닉스美가격담합소송의전말",
-  "'중복상장원칙적금지'본격화…자회사IPO,더까다로워졌다",
-  "SK주가,7월7일장중623,000원약6.60%하락",
-  "반도체제3차치킨게임?…'수주형'HBM이바꾼쩐의전쟁",
-  "SK,1·2·3차협력사와상생협약…하이닉스1.4조자금활용",
   "SKGroupunveilssupplieralliancetobolsterchipecosystem",
   "미래에셋'TIGER반도체TOP10커버드콜ETF',상장후수익률40.9%",
   "코스피,8%대폭락에'서킷브레이커'…올해6번째·역대12번째",
@@ -6001,7 +5994,14 @@
   "중복상장대기업IPO셈법복잡...HD현대로보험로·한화에너지숨통",
   "삼성·SK법인세5%감면검토…감면액일부는지역기부",
   "최태원,\"하이닉스10배키운다\"선언후첫행보…나스닥서AI투자자...",
-  "[마켓프리뷰]역대급변동성에반도체주'털썩'…환율1500원하회"
+  "[마켓프리뷰]역대급변동성에반도체주'털썩'…환율1500원하회",
+  "랄랄,주식앱지웠다더니..하이닉스급락에\"28층에사람있어\"",
+  "\"SK하이닉스ADR공모에7배청약…245억달러조달전망\"",
+  "최태원,SK하이닉스나스닥상장맞아미국행…주요빅테크경영진만날...",
+  "[NZSIINDEX]2026년7월7일대세상승뒤대세하락은반복된다…지금필...",
+  "[SK하이닉스ADR]주당158弗시작해급등예상…마이크론따라잡기",
+  "민주장당권경쟁…2대2노선대결난타전",
+  "최창규\"삼전닉스조정?아직더지켜볼때...조방원도기회!\""
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,21 @@
   [
    "2026-07-09T07:42:50.128133+09:00",
    "환율 1500원 반도체주 변동성에 역대급 하회 털썩"
+  ],
+  [
+   "2026-07-09T07:51:39.798724+09:00",
+   "급등 주당 따라잡기 마이크론 시작해 예상"
+  ],
+  [
+   "2026-07-09T07:51:39.798724+09:00",
+   "민주장 난타전 2대 노선대결 당권 경쟁"
+  ],
+  [
+   "2026-07-09T07:51:39.798724+09:00",
+   "조방원도 조정 지켜볼 삼전닉스 아직 최창규 기회"
   ]
  ],
- "last_run": "2026-07-09T07:43:19.603949+09:00",
+ "last_run": "2026-07-09T07:51:51.453839+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
