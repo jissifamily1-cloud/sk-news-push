@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203304",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537516",
-  "https://www.ekn.kr/web/view.php?key=20260702029488210",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335519",
   "https://www.segye.com/newsView/20260702502675?OutUrl=naver",
   "https://kjmbc.co.kr/NewsArticle/1525674",
   "https://www.newspim.com/news/view/20260702000036",
@@ -2999,13 +2995,13 @@
   "https://www.newstopkorea.com/news/articleView.html?idxno=46107",
   "https://ilyo.co.kr/?ac=article_view&entry_id=511772",
   "https://www.hankookilbo.com/news/article/A2026070813240002474?did=NA",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249726&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249726&CMPT_CD=P0010",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=846547",
+  "https://www.sedaily.com/article/20065246",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849006",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16127678"
  ],
  "seen_titles": [
-  "월드컵조기탈락독일,축구협회수사…책임론확산",
-  "7월1일도수치료관리급여시행…의료계“실손보험위한정책”반발",
-  "[아시아나,역사속으로]'메가캐리어'시대개막…'마일리지·노조갈등...",
-  "정부,산란계협‘해산카드’…물가안정내세운강수에논란확산",
   "'주가조작패가망신1호'피의자4명영장기각…\"방어권보장\"",
   "'여고생살해'장윤기아버지=현직경찰…리얼돌등증거인멸",
   "[WhoIs?]전재수부산시장",
@@ -6001,7 +5997,11 @@
   "두나무-네이버파이낸셜합병,왜계속연기되나",
   "배재고는빙산의일각…선넘은고교야구응원전실태",
   "장윤기차량서사라진케이블타이…현직경찰관부친집에서나왔다",
-  "장윤기수사팀장영장심사\"징계사안,증거인멸아냐\""
+  "장윤기수사팀장영장심사\"징계사안,증거인멸아냐\"",
+  "공정위'글로벌비메모리반도체사'NXP·ADI제재착수",
+  "‘장윤기사건’증거인멸수사팀장영장심사…케이블타이확보",
+  "與정무위,부동산·자본시장개혁입법시동",
+  "장윤기,부친자택서사라진'케이블타이'확보했다"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "장악 MSC 삼키나 탱커사업 정조준 장금상선 시장"
   ]
  ],
- "last_run": "2026-07-08T13:32:30.240271+09:00",
+ "last_run": "2026-07-08T13:41:06.788306+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
