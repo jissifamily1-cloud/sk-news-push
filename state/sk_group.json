@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pennmike.com/news/articleView.html?idxno=123300",
-  "https://www.yna.co.kr/view/PYH20260707118400013?input=1196m",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2286272",
-  "https://basketkorea.com/news/newsview.php?ncode=1065577638185308",
-  "https://www.mt.co.kr/stock/2026/07/07/2026070713500694703",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=265423",
   "http://www.weeklytoday.com/news/articleView.html?idxno=783546",
   "https://www.youthdaily.co.kr/news/article.html?no=222459",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46084",
@@ -2999,15 +2993,15 @@
   "https://www.yakup.com/news/index.html?cat=12&nid=329579",
   "https://www.yeongnam.com/web/view.php?key=20260708021534950",
   "https://it.chosun.com/news/articleView.html?idxno=2023092165346",
-  "https://www.kukinews.com/article/view/kuk202607080168"
+  "https://www.kukinews.com/article/view/kuk202607080168",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16128376",
+  "https://www.xportsnews.com/article/2169888",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=52176",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758986",
+  "https://www.mediapen.com/news/view/1109057",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165416"
  ],
  "seen_titles": [
-  "\"버티던개미들마저얼어붙었다\"...코스피,서킷브레이커·사이드카잇...",
-  "상반기하이엔드아파트청약열풍…일반단지보다경쟁률5배이상높...",
-  "'영업익1위의역설'삼전주가폭락…코스피,사이드카이어서킷브레...",
-  "삼성전자,하루1조씩이익냈다…반도체고점론눌렀지만다운턴우려...",
-  "황병직영주시장\"기업·지역함께성장하는선순환구조만들겠다\"",
-  "상반기하이엔드브랜드아파트청약경쟁률,일반아파트대비5.5배",
   "코스피,8%대급락에사이드카이어서킷브레이커",
   "미래에셋'TIGER반도체커버드콜',수익률40.9%기록",
   "둔촌2동모아주택3구역,시공자선정첫입찰유찰",
@@ -6001,7 +5995,13 @@
   "상장제약·바이오1Q평균ROE코스피1.95%·코스닥0.19%",
   "[박규완칼럼]국가프로젝트는늘‘정치적’이었다",
   "④셀프개혁만남은이사회…거버넌스리스크는그대로[표류하는새K...",
-  "기업인축구협회장의시대는끝났을까"
+  "기업인축구협회장의시대는끝났을까",
+  "\"전반기4위벽\"···KBO,11년연속KS우승팀은상위3위",
+  "랄랄도'하이닉스'물렸나…\"280층에사람있어요\"기도동참[★해시태...",
+  "[브랜드평판]KT,통신상장기업7월1위...SK텔레콤,LG유플러스뒤쫓...",
+  "[기자수첩]단일종목레버리지가증시하락주범?…복합변수외면한'희...",
+  "[美증시특징주]알리바바11%급등...실적기대감+규제리스크완화",
+  "3조펀드부터낙수율10%까지…대기업상생협력'내실'따져보니"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,25 @@
   [
    "2026-07-09T06:11:24.131208+09:00",
    "끝났을까 축구협회장의 시대는 기업인"
+  ],
+  [
+   "2026-07-09T06:21:28.891150+09:00",
+   "뒤쫓 7월 상장기업 KT LG유플러스 1위 SK텔레콤 통신"
+  ],
+  [
+   "2026-07-09T06:21:28.891150+09:00",
+   "증시하락 주범 외면한 단일종목 레버리지가 복합변수"
+  ],
+  [
+   "2026-07-09T06:21:28.891150+09:00",
+   "완화 알리바바 기대감 규제리스크 급등 실적"
+  ],
+  [
+   "2026-07-09T06:21:28.891150+09:00",
+   "까지 따져보니 내실 대기업 상생협력 3조 낙수율 펀드부터"
   ]
  ],
- "last_run": "2026-07-09T06:12:24.491636+09:00",
+ "last_run": "2026-07-09T06:21:42.488968+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
