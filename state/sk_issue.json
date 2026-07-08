@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfarm.co.kr/news/articleView.html?idxno=101372",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248546",
-  "http://www.sisacast.kr/news/articleView.html?idxno=96739",
-  "https://www.mk.co.kr/article/12079399",
-  "https://www.bzeronews.com/news/articleView.html?idxno=819001",
-  "https://www.bntnews.co.kr/article/view/bnt202606180224",
-  "https://www.eroun.net/news/articleView.html?idxno=83503",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=15804",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676447",
-  "https://www.energydaily.co.kr/news/articleView.html?idxno=200573",
   "https://slownews.kr/161803",
   "https://slownews.kr/161756",
   "https://www.esquirekorea.co.kr/article/1904616",
@@ -2999,19 +2989,19 @@
   "https://www.pennmike.com/news/articleView.html?idxno=123341",
   "https://www.hankyung.com/article/2026070823077",
   "https://www.munhwa.com/article/11601106",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79789"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79789",
+  "https://www.busan.com/view/busan/view.php?code=2026070810550750178",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244034",
+  "https://www.dailian.co.kr/news/view/1664710/?sc=Naver",
+  "https://www.hankyung.com/article/2026070824057",
+  "https://www.mydaily.co.kr/page/view/2026070810250037404",
+  "http://www.joseilbo.com/news/news_read.php?uid=571496&class=32",
+  "https://www.yna.co.kr/view/AKR20260708075400054?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008647154&plink=ORI&cooper=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605170",
+  "https://www.yna.co.kr/view/AKR20260708074700054?input=1195m"
  ],
  "seen_titles": [
-  "[메가이슈토픽]'월드컵특수'올라탄현대차…철강공급망ESG논란에...",
-  "폭염에멈춘유럽…학교닫고철도차질[ESG뉴스5]",
-  "[기획리포트]2026년ESG,선언에서'실적'으로…제도화너머기업생...",
-  "\"효과보여줘야산다\"…녹색채권다음과제는'MRV'[녹색채권의빈틈]",
-  "상반기녹색채권3.8조발행…1년새2.5배늘었다[녹색채권의빈틈]",
-  "‘광한루원’내생물조명…KBS다큐‘신들의정원’국제상수상",
-  "[정유·화학&Now]LG화학,'CO₂활용e-SAF생산기술'실증착수",
-  "티셔츠하나로달라지는여름,지금은래글런타임!",
-  "[세상은여전히따뜻한法]인간넘어자연의권리를이야기하다",
-  "말할수없는친환경,EU'그린워싱규제'가온다…9월시행'ECGT지침'...",
   "[4th-Eco]\"음료용기,재활용보다'재사용'이먼저다\"",
   "월드컵스폰서현대차,정작월드컵서망신",
   "[기획리포트]\"종이인줄알았는데…\"끈적이는종이테이프의배신",
@@ -6001,7 +5991,17 @@
   "[양준서의정조준]민주당은유구무언...검찰보완수사권이장윤기사건...",
   "장윤기차량에서사라진케이블타이…경찰부친집에서발견",
   "분실케이블타이검찰이장윤기父집서찾았다",
-  "금융위,통신자료요청권신설·AI도입해시장감시체계고도화"
+  "금융위,통신자료요청권신설·AI도입해시장감시체계고도화",
+  "코스피10조이상상장사,내후년부터ESG공시의무화",
+  "전분당담합4곳과징금7476억원…역대'최대'",
+  "합수본,이만희최측근참고인소환…신천지연루정관계로비의혹추...",
+  "의혹인정여부묻자…'장윤기증거인멸'의혹강력팀장묵묵부답",
+  "\"방시혁사기적부정거래입증어렵다\"…檢,경찰에혐의변경제안[MD...",
+  "'보완수사권'논란재점화...경찰직협\"장윤기사건사죄,사법개혁못...",
+  "장윤기차량서사라진케이블타이,아버지집에서발견",
+  "[단독]'장윤기사건'수사팀원\"팀장이케이블타이'그냥두라'고지시...",
+  "사라진‘케이블타이’장윤기아버지집에서발견",
+  "'장윤기사건'케이블타이증거인멸수사팀장영장심사출석"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "장악 MSC 삼키나 탱커사업 정조준 장금상선 시장"
   ]
  ],
- "last_run": "2026-07-08T10:51:07.480646+09:00",
+ "last_run": "2026-07-08T11:01:21.502296+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
