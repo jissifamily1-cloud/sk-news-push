@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12306391?influxDiv=NAVER",
-  "https://www.techm.kr/news/articleView.html?idxno=153099",
   "https://www.hani.co.kr/arti/society/society_general/1266565.html",
   "https://biz.heraldcorp.com/article/10797208",
   "https://www.hani.co.kr/arti/area/honam/1266571.html",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260708524552?OutUrl=naver",
   "https://www.segye.com/newsView/20260708524244?OutUrl=naver",
   "http://www.yonhapnewstv.co.kr/news/MYH202607090602295UG",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374107"
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374107",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648609&plink=ORI&cooper=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648608&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "'배터리정보허위'벤츠,공정위과징금이어집단분쟁조정절차돌입",
-  "美하원\"쿠팡수년간표적\"…국제여론바뀌나,과징금소송도변수로",
   "종합특검,‘김건희봐주기’의혹이창수전지검장3차소환",
   "계약서너머‘실전설루션’무장…고난도M&A딜메이커",
   "광주고교생살해범경찰아버지,다른가족휴대전화도소각",
@@ -6001,10 +5999,12 @@
   "[사사건건]교회다툼‘청부수사’연루경찰1심서유죄선고外",
   "금감원,‘선행매매혐의’매경TV압색",
   "경찰,'이언주합성음란물게시'기업인압수수색",
-  "배재고,대한체육회에6개월출전정지징계에대한재심의신청...소위..."
+  "배재고,대한체육회에6개월출전정지징계에대한재심의신청...소위...",
+  "[단독]차에서사라진'케이블타이'…아버지집에서확보",
+  "[단독]\"수사팀장이그냥두라고지시\"…'증거인멸'팀장구속"
  ],
  "recent_sigs": [],
- "last_run": "2026-07-09T06:21:20.679868+09:00",
+ "last_run": "2026-07-09T06:31:22.076300+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
