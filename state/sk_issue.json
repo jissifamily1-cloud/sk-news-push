@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248271&CMPT_CD=P0010",
-  "https://www.yna.co.kr/view/AKR20260702160300004?input=1195m",
-  "https://www.sisajournal.com/news/articleView.html?idxno=378593",
-  "https://www.ytn.co.kr/_ln/0103_202607021825582059",
-  "https://www.ytn.co.kr/_ln/0134_202607021822364001",
-  "https://www.newspim.com/news/view/20260702001149",
-  "https://www.gamechosun.co.kr/webzine/article/view.php?no=223170",
   "https://sports.hankooki.com/news/articleView.html?idxno=6935853",
   "https://view.asiae.co.kr/article/2026070218383938302",
   "https://www.segye.com/newsView/20260702515622?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.joongang.co.kr/article/25443511",
   "https://www.yna.co.kr/view/AKR20260708172851054?input=1195m",
   "http://www.segyebiz.com/newsView/20260708524592?OutUrl=naver",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890292.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890292.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260708211906GbD",
+  "https://www.seoul.co.kr/news/society/accident/2026/07/08/20260708500269?wlog_tag3=naver",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379179",
+  "https://www.newspim.com/news/view/20260708001292",
+  "https://news.jtbc.co.kr/article/NB12307312?influxDiv=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648382&plink=ORI&cooper=NAVER",
+  "https://www.slist.kr/news/articleView.html?idxno=750489"
  ],
  "seen_titles": [
-  "[단독]배재고\"야구부학생2명징계위회부\"...코치등처분내용불포...",
-  "'SNS내란선동'황교안\"내가쓴글아냐\"…기소7개월만첫공판",
-  "여고생살인범의'리얼돌·휴대폰',경찰부친이불태우고버렸다",
-  "황교안,첫재판서혐의부인...\"내란선동글내가안써\"",
-  "\"아들의증거없애도무죄\"...증거인멸'친족특례'?[이슈톺]",
-  "황교안'내란선동'혐의첫재판…'계엄옹호'·'정치적표현'공방",
-  "게임사묶은'프로젝트허그'…구글앱마켓독점제재심판대",
   "SK,협력사와상생협약…상생문화'2차이하협력사'까지확대",
   "황교안,'내란선동'첫재판서혐의전면부인…\"단순정치적의사표현...",
   "‘301조관세부과’앞두고…美하원“韓,美기업차별심화”",
@@ -6001,7 +5994,14 @@
   "‘여고생살해’장윤기차량케이블타이증거인멸수사팀장구속",
   "장윤기수사팀장\"케이블타이그대로둬라\"지시…수사팀진술(종합)",
   "차량에선‘케이블타이다발’발견됐는데…“그냥놔두라”던수사팀...",
-  "사라진'케이블타이',장윤기아버지집에서발견…수사팀장구속"
+  "사라진'케이블타이',장윤기아버지집에서발견…수사팀장구속",
+  "배재고,재심신청…봉황대기출전'불투명'",
+  "장윤기수사팀장구속…“경찰이살인마편”유족울분",
+  "장윤기'케이블타이은폐'수사팀장구속…\"증거인멸·도주우려\"",
+  "'장윤기살인사건'수사팀장구속…\"증거인멸·도주우려\"",
+  "'장윤기여고생살인사건'증거인멸혐의초동수사팀장구속",
+  "법원,장윤기차량증거인멸혐의수사팀장구속",
+  "'장윤기차량케이블타이증거인멸'수사팀장구속...\"도주우려\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T21:11:14.359928+09:00",
+ "last_run": "2026-07-08T21:21:11.687280+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
