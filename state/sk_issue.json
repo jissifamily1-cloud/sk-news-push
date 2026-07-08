@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20062740",
-  "https://www.joongang.co.kr/article/25441657",
-  "https://www.hankookilbo.com/news/article/A2026070121360004046?did=NA",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599894",
-  "https://www.news1.kr/world/usa-canada/6215092",
-  "https://www.news1.kr/society/court-prosecution/6215007",
   "https://www.newsverse.kr/news/articleView.html?idxno=10849",
   "https://biz.heraldcorp.com/article/10795230",
   "https://www.ajunews.com/view/20260702063554644",
@@ -2999,15 +2993,15 @@
   "https://www.greened.kr/news/articleView.html?idxno=344503",
   "https://imnews.imbc.com/replay/2026/nw1200/article/6835879_36967.html",
   "https://www.yna.co.kr/view/AKR20260708074751054?input=1195m",
-  "http://www.joseilbo.com/news/news_read.php?uid=571505&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=571505&class=32",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848988",
+  "https://www.segye.com/newsView/20260708512369?OutUrl=naver",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=89422",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379066",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607081212026Mk",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605271"
  ],
  "seen_titles": [
-  "'주가조작패가망신'1호사건4명구속영장모두기각",
-  "'주가조작패가망신1호'피의자4명영장기각…\"혐의다툼여지\"",
-  "여고생살해범아버지는경찰...성인용품등증거물폐기했다",
-  "‘광주여고생살해’장윤기아버지,경찰간부였다",
-  "현직경찰인'광주여고생살해범'장윤기부친…살인증거폐기정황",
-  "'주가조작패가망신1호'일당구속영장기각…法\"방어권보장필요\"",
   "‘주가조작패가망신1호’4명구속영장모두기각“다툼여지”",
   "'주가조작패가망신1호'학원장·병원장등4명구속면해…\"방어권보...",
   "DI동일주가조작의혹4명영장기각…法“혐의특정부족”",
@@ -6001,7 +5995,13 @@
   "'가짜해외출장·논문표절'…한국스포츠과학원,혈세로'출장잔치'벌...",
   "윗선개입했나‥사라진케이블타이아빠집에",
   "'장윤기사건'증거인멸수사팀장영장심사…케이블타이확보(종합)",
-  "'장윤기사건케이블타이'인멸혐의수사팀장영장심사출석...'묵묵부..."
+  "'장윤기사건케이블타이'인멸혐의수사팀장영장심사출석...'묵묵부...",
+  "10조이상코스피상장사,28년부터ESG공시의무화",
+  "‘장윤기사건’증거물누락·자료삭제혐의…수사팀장구속갈림길",
+  "'장윤기사건'이뒤흔든검·경,정치권까지강타",
+  "'장윤기사건증거인멸'수사팀장,구속심사출석…묵묵부답",
+  "케이블타이장윤기아버지집에…수사팀장구속기로",
+  "사라진‘케이블타이’장윤기아버지집에서?…수사팀장구속갈림길"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "장악 MSC 삼키나 탱커사업 정조준 장금상선 시장"
   ]
  ],
- "last_run": "2026-07-08T12:11:09.558162+09:00",
+ "last_run": "2026-07-08T12:21:09.148931+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
