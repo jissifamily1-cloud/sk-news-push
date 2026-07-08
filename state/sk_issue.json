@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260702161044936",
-  "https://news.tf.co.kr/read/photomovie/2339152.htm",
-  "https://www.yna.co.kr/view/PYH20260702167900013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167600013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167400013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167700013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167300013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167500013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167200013?input=1196m",
-  "https://zdnet.co.kr/view/?no=20260702104115",
   "https://www.yna.co.kr/view/PYH20260702166900013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260702167000013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260702167100013?input=1196m",
@@ -2999,19 +2989,19 @@
   "https://www.chosun.com/economy/economy_general/2026/07/08/HIR72C7WLJCORCDX7ZJLMXBZ4Q/",
   "https://vop.co.kr/A00001695735.html",
   "https://www.joongdo.co.kr/web/view.php?key=20260708010002587",
-  "https://www.kwnews.co.kr/article/20260708501402"
+  "https://www.kwnews.co.kr/article/20260708501402",
+  "https://www.segye.com/newsView/20260708520332?OutUrl=naver",
+  "http://www.fnnews.com/news/202607081822040947",
+  "https://www.ajunews.com/view/20260708140433130",
+  "https://view.asiae.co.kr/article/2026070818260150302",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260708182057l1X",
+  "http://www.fnnews.com/news/202607081829085361",
+  "https://www.segye.com/newsView/20260708520349?OutUrl=naver",
+  "https://www.sedaily.com/article/20065466",
+  "https://www.newsis.com/view/NISX20260708_0003701503",
+  "https://www.mk.co.kr/article/12093726"
  ],
  "seen_titles": [
-  "유럽검찰,프랑스등4개국‘극우횡령의혹’압수수색…극우열풍변...",
-  "경찰청,'여고생살해'장윤기부친직접감찰한다",
-  "[이로운상생]SK,2·3차협력사까지상생확대...1.4조원신규지원으로...",
-  "SK,협력사지원'낙수구조'짠다...2·3차까지대금·기술·자금확대",
-  "SK,2·3차협력사까지상생확대…1조4000억지원",
-  "최창원\"상생은선택아닌필수\"…SK,협력사지원체계강화",
-  "'SK-공정위상생협약체결'[TF사진관]",
-  "SK,협력사'돈맥경화'푼다...하이닉스중심1.4조상생투입",
-  "환영사하는최창원SUPEX추구협의회의장[포토]",
-  "축사하는주병기공정거래위원장",
   "SK,공정위와상생협약체결",
   "상생협약체결한SKT와협력사",
   "환영사하는최창원의장",
@@ -6001,7 +5991,17 @@
   "금감원,매일경제TV‘선행매매혐의’압수수색…특사경인지수사1호",
   "[기자수첩]장윤기사건과여당의한가한'보완수사권폐지과정'책임...",
   "대전경찰청,형사사법체계개편대비수사지휘부워크숍",
-  "장윤기아버지경찰소환조사…케이블타이·리얼돌폐기경위확인"
+  "장윤기아버지경찰소환조사…케이블타이·리얼돌폐기경위확인",
+  "ESG법정공시직행…10조이상상장사2028년의무화",
+  "\"연결자산10조이상상장사,2028년부터ESG공시의무화\"",
+  "[속도내는ESG공시]ESG공시의무화'속도전'…2030년3490개사대상전...",
+  "중기부,경쟁업체와거래막은KEP고발요청",
+  "'조롱응원'배재고,마감일에재심신청…공은대한체육회로",
+  "\"경찰부실수사거를장치\"…'보완수사권폐지'제동걸리나",
+  "사라진케이블타이,검찰이장윤기아버지자택서확보",
+  "檢,장윤기사건은폐의혹윗선까지겨눠…검·경갈등확산되나",
+  "檢,\"보완수사인정해야\"…법무부도\"심도있는논의필요\"(종합)",
+  "합동대응단,중대불공정거래10여건적발…이억원“조사·제재강화”"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T18:21:14.888691+09:00",
+ "last_run": "2026-07-08T18:31:21.817176+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
