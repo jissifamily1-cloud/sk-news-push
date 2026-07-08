@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026070216033547031",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307440",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335536",
-  "https://www.donga.com/news/Society/article/all/20260702/134225304/1",
-  "https://www.ngonews.kr/news/articleView.html?idxno=232127",
-  "https://view.asiae.co.kr/article/2026070217171579527",
-  "https://dealsite.co.kr/articles/164680",
   "http://www.srtimes.kr/news/articleView.html?idxno=206644",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154899",
   "https://www.socialvalue.kr/news/view/1065598327515946",
@@ -2999,16 +2992,16 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648267&plink=ORI&cooper=NAVER",
   "https://www.seoul.co.kr/news/society/2026/07/09/20260709012002?wlog_tag3=naver",
   "https://www.ytn.co.kr/_ln/0103_202607082001374372",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538660"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538660",
+  "https://weekly.donga.com/3/all/11/6298837/1",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=640633",
+  "https://www.nocutnews.co.kr/news/6545351",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1529986",
+  "https://www.joongang.co.kr/article/25443509",
+  "https://www.hani.co.kr/arti/society/society_general/1267378.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605638"
  ],
  "seen_titles": [
-  "SK,1·2·3차협력사에1.4조투입해동반성장강화",
-  "SK,1·2·3차협력사에1조4000억푼다…\"동반성장가속화\"",
-  "배재고징계에국힘\"표현자유,이재명탓\"?…SBS\"제재없어조롱난무...",
-  "[단독]윤영호“경찰청정보제공확실,내사없어”한학자비서실장에...",
-  "경찰청,'여고생살해범'장윤기현직경찰관아버지감찰착수···증거...",
-  "경찰청,'여고생살해범'장윤기친부증거인멸직접감찰",
-  "SK,협력사에1조4000만투자…'상생협약체결'",
   "SK,협력사상생협약체결…반도체생태계에8700억원투자",
   "SK,협력사지원'3차생태계'까지확대…1.4조반도체투자로상생고...",
   "SK,동반성장금융·기술지원에1조4000억투입…상생문화2·3차협력사...",
@@ -6001,7 +5994,14 @@
   "[단독]\"그냥두라지시\"수사팀장지목…더윗선있었나",
   "사라진장윤기의‘케이블타이’,현직경찰부친집에서찾았다",
   "경찰,'이언주의원합성음란물'게시기업인압수수색",
-  "매일경제TV압수수색…선행매매혐의"
+  "매일경제TV압수수색…선행매매혐의",
+  "정책자금받아계열사대부업체에공급…명륜당과징금최대347억원",
+  "구글에최대16조배상청구…'게임빅5'동참촉구'최후통첩'",
+  "장윤기수사팀장\"케이블타이그대로둬라\"지시정황…수사팀진술",
+  "부실·축소드러난경찰수사…보완수사권폐지우려확산",
+  "‘이언주합성음란물’올린기업인압수수색…유포경위수사",
+  "경찰,‘이언주불법합성물’생성·유포자사무실압수수색",
+  "사라진‘케이블타이’장윤기아버지집에서…수사팀장구속심사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T20:11:17.175510+09:00",
+ "last_run": "2026-07-08T20:21:10.748729+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
