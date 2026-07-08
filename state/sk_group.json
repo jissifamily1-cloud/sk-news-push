@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202607071135024549",
-  "https://imnews.imbc.com/news/2026/econo/article/6835572_36932.html",
-  "http://www.paxetv.com/news/articleView.html?idxno=276543",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167745",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47046",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423718",
   "https://www.newstnt.com/news/articleView.html?idxno=709231",
   "http://www.press9.kr/news/articleView.html?idxno=79028",
   "https://www.ytn.co.kr/_ln/0102_202607071131480121",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/202607083674H",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=362291",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605512",
-  "http://www.econotelling.com/news/articleView.html?idxno=20863"
+  "http://www.econotelling.com/news/articleView.html?idxno=20863",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264366",
+  "https://www.yna.co.kr/view/AKR20260708158451053?input=1195m",
+  "https://www.busan.com/view/busan/view.php?code=2026070818341171554",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260708192743nzL",
+  "https://www.mk.co.kr/article/12093753",
+  "http://www.jndn.com/article.php?aid=1783505792435771001"
  ],
  "seen_titles": [
-  "‘해외취업최강’영진전문대,일본현지서담금질",
-  "중복상장규제에FI〈재무적투자자〉‘수천억청구서’날아든다",
-  "30%재평가?…\"SK하이닉스株극대화구간진입\"",
-  "JeonbukNationalUniversitypartnerswithSKAXtobecomeleadingAIhu",
-  "[포토]\"잘오셨소,신입암행천문관\"…SKTXT1'암행천문'진행중",
-  "증시불안땐화장품주?...아모레퍼시픽·LG생활건강'장중급등'",
   "구윤철,부동산세제·외환시장·AI투자까지속도전…\"7월말방침준비...",
   "삼전'어닝서프라이즈'무색'매도사이드카'…코스피7600선아래로",
   "외국인·기관동반매도세에코스피‘매도사이드카’발동",
@@ -6001,29 +5995,15 @@
   "\"애아빠화많이났는데환불좀\"SK하닉폭락에개미들비명",
   "3대메가프로젝트속도전주문에환경·야권반발확산",
   "반도체불안에중동긴장까지…증시‘흔들’",
-  "반도체주이틀째급락세"
+  "반도체주이틀째급락세",
+  "코스피5%급락7200선…코스닥10개월만에800선붕괴",
+  "구미반도체업계,정부에\"테스트베드인프라구축\"촉구(종합)",
+  "수출늘어도고환율계속…‘환율공식’안통한다",
+  "단일종목레버리지이틀째두자릿수폭락",
+  "“삼전닉스역전이고점”예언한족집게…버블붕괴묻자대답이[머니닥...",
+  "민주당권주자들출마선언…8·17전당대회대진표윤곽"
  ],
  "recent_sigs": [
-  [
-   "2026-07-08T13:31:21.800602+09:00",
-   "지정학 약세 수급 엔화 누르는 긴장 00원"
-  ],
-  [
-   "2026-07-08T13:31:21.800602+09:00",
-   "얼티엄셀즈 LFP LG엔솔 ESS용 공장 만든다 테네시"
-  ],
-  [
-   "2026-07-08T13:31:21.800602+09:00",
-   "엔지니어 반도체 19만명 필요 숙련된 인력난 전망"
-  ],
-  [
-   "2026-07-08T13:31:21.800602+09:00",
-   "차익실현 주식 SK하이닉스는 초고수는 초고수 삼성전자 줍줍"
-  ],
-  [
-   "2026-07-08T13:31:21.800602+09:00",
-   "키워 반시장적 정책 경제정책 맹공 정부 혼란 국민의힘"
-  ],
   [
    "2026-07-08T13:32:36.975821+09:00",
    "1Q ELS ELB 투자수요에 1년새 발행액"
@@ -7259,9 +7239,25 @@
   [
    "2026-07-08T19:21:19.141158+09:00",
    "이틀째 반도체주 급락세"
+  ],
+  [
+   "2026-07-08T19:31:26.087482+09:00",
+   "환율 고환율 계속 수출 늘어도 통한다"
+  ],
+  [
+   "2026-07-08T19:31:26.087482+09:00",
+   "두자릿수 레버리지 단일종목 이틀째 폭락"
+  ],
+  [
+   "2026-07-08T19:31:26.087482+09:00",
+   "족집게 버블붕괴 삼전닉스 머니닥 묻자 고점 예언한 역전이 대답이"
+  ],
+  [
+   "2026-07-08T19:31:26.087482+09:00",
+   "출마 전당대회 윤곽 선언 대진표 주자들 당권 민주"
   ]
  ],
- "last_run": "2026-07-08T19:21:25.970345+09:00",
+ "last_run": "2026-07-08T19:31:40.808255+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
