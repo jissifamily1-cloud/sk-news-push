@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswatch.kr/news/articleView.html?idxno=80305",
-  "https://www.g-enews.com/view.php?ud=20260702090601377fda4f5ab74_1",
-  "https://biz.heraldcorp.com/article/10796376",
-  "https://news.tf.co.kr/read/national/2339162.htm",
-  "https://www.hani.co.kr/arti/international/europe/1266411.html",
-  "https://view.asiae.co.kr/article/2026070216201346812",
-  "https://www.eroun.net/news/articleView.html?idxno=84504",
-  "https://www.insight.co.kr/news/561231",
-  "https://www.donga.com/news/Economy/article/all/20260702/134224902/1",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1382290",
-  "https://news.tf.co.kr/read/photomovie/2339158.htm",
   "https://www.ajunews.com/view/20260702161044936",
   "https://news.tf.co.kr/read/photomovie/2339152.htm",
   "https://www.yna.co.kr/view/PYH20260702167900013?input=1196m",
@@ -2999,20 +2988,20 @@
   "https://www.yna.co.kr/view/AKR20260708162951004?input=1195m",
   "http://www.fnnews.com/news/202607081754041718",
   "https://www.ytn.co.kr/_ln/0103_202607081805481482",
-  "https://www.ytn.co.kr/_ln/0115_202607081803183543"
+  "https://www.ytn.co.kr/_ln/0115_202607081803183543",
+  "https://www.etnews.com/20260708000332",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249772&CMPT_CD=P0010",
+  "https://www.segye.com/newsView/20260708522387?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260708181641f4h",
+  "https://www.newsis.com/view/NISX20260708_0003701494",
+  "https://www.khan.co.kr/article/202607081814001",
+  "https://biz.sbs.co.kr/article_hub/20000321401?division=NAVER",
+  "https://www.chosun.com/economy/economy_general/2026/07/08/HIR72C7WLJCORCDX7ZJLMXBZ4Q/",
+  "https://vop.co.kr/A00001695735.html",
+  "https://www.joongdo.co.kr/web/view.php?key=20260708010002587",
+  "https://www.kwnews.co.kr/article/20260708501402"
  ],
  "seen_titles": [
-  "한국만큼이나시끄러운독일축구협회,압수수색까지당했다[Y녹취록]",
-  "'광주여고생살해'리얼돌폐기부친경찰관,경찰청이감찰",
-  "'여고생살해'장윤기리얼돌폐기한부친경찰관감찰",
-  "SK,협력사상생에1.4조지원...\"반도체협력생태계강화\"",
-  "“상생문화2·3차협력사까지확대”…SK,협력사와상생‘맞손’",
-  "1차넘어3차협력사까지…SK,상생결제생태계넓힌다",
-  "SK,협력사와상생협약맺어…대금지급·기술·금융지원강화",
-  "[기자한컷]SK,협력사와상생협약…\"동반성장강화\"",
-  "구글,과징금시대끝…유럽發손배소전쟁21조번진다",
-  "정부,‘쿠팡차별’美하원보고서“일방적주장반영유감…사실달...",
-  "경찰청,장윤기경찰관부친감찰착수…초동증거확보미흡여부도조...",
   "유럽검찰,프랑스등4개국‘극우횡령의혹’압수수색…극우열풍변...",
   "경찰청,'여고생살해'장윤기부친직접감찰한다",
   "[이로운상생]SK,2·3차협력사까지상생확대...1.4조원신규지원으로...",
@@ -6001,7 +5990,18 @@
   "'장윤기사건'일파만파…경찰청장대행美출장서조기귀국(종합)",
   "李대통령\"주가조작패가망신…3중그물에반드시걸린다\"",
   "'장윤기사건'경찰유착의혹일파만파...보완수사권논란재점화",
-  "장윤기수사강력팀장구속심사...유족\"경찰이살인마편\""
+  "장윤기수사강력팀장구속심사...유족\"경찰이살인마편\"",
+  "[사설]ESG법정공시,기업수용성대안세워야",
+  "공정위가공개한이사진...\"시민들삶이화이트보드에서결정됐다\"",
+  "[단독]검찰,장윤기사건수사팀원2명참고인조사…경찰은불발",
+  "금감원특사경,매경TV압수수색…1호인지수사",
+  "'피습자작극의혹'정이한구속…\"증거인멸우려\"발부",
+  "정이한전개혁신당부산시장후보구속···‘음료테러’자작혐의",
+  "통신조회로주가조작낱낱이…원금몰수로'철퇴'",
+  "금감원,매일경제TV‘선행매매혐의’압수수색…특사경인지수사1호",
+  "[기자수첩]장윤기사건과여당의한가한'보완수사권폐지과정'책임...",
+  "대전경찰청,형사사법체계개편대비수사지휘부워크숍",
+  "장윤기아버지경찰소환조사…케이블타이·리얼돌폐기경위확인"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T18:11:15.291501+09:00",
+ "last_run": "2026-07-08T18:21:14.888691+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
