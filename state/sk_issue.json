@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026070215400005728?did=NA",
-  "https://www.segye.com/newsView/20260702513602?OutUrl=naver",
-  "https://www.dizzotv.com/site/data/html_dir/2026/07/02/2026070280146.html",
-  "https://www.yna.co.kr/view/PYH20260702169700013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702169800013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702170300013?input=1196m",
-  "http://www.nongaek.com/news/articleView.html?idxno=95952",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422143",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05139766645510584",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4092791",
   "http://www.efnews.co.kr/news/articleView.html?idxno=130709",
@@ -2999,17 +2991,17 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=784272",
   "https://www.busan.com/view/busan/view.php?code=2026070818321287190",
   "https://www.busan.com/view/busan/view.php?code=2026070818313395366",
-  "https://www.news1.kr/local/busan-gyeongnam/6222137"
+  "https://www.news1.kr/local/busan-gyeongnam/6222137",
+  "https://www.hankyung.com/article/2026070835511",
+  "https://www.tokenpost.kr/news/insights/375962",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=306669",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379175",
+  "https://www.hankookilbo.com/news/article/A2026070818020003576?did=NA",
+  "https://biz.heraldcorp.com/article/10802551",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/08/2026070800309.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648255&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "\"스타벅스가야지\"배재고중징계…6개월출전정지",
-  "'친족증거인멸특례'뭐길래...장윤기사건,父증거훼손논란",
-  "'여고생살해'장윤기父경찰관증거인멸의혹…경찰청감찰착수",
-  "‘여고생살해’장윤기자취방서리얼돌해체한가해자부친,경찰감...",
-  "SK\"1차넘어3차협력사까지\"…AI반도체상생에1조4000억원푼다",
-  "손맞잡은공정위-SK-협력사",
-  "'상생위해'",
-  "[김광현의기업살롱]계열사들에723억무이자로빌려주고있는웅진윤...",
   "국회오른애플앱수수료\"한국만30%유지\"···역차별논란재점화",
   "플랫폼·하도급겨누는공정위…“기업들,사전점검강화해야”",
   "종합특검,'양평고속도로의혹'백원국전차관소환",
@@ -6001,7 +5993,15 @@
   "[위클리오늘]금감원,매일경제TV압수수색첫강제수사",
   "檢,장윤기범행도구확보경찰초동수사부실의혹확산",
   "경찰은‘배달사고’검찰은‘뇌물수수’…檢,보완수사권여론전",
-  "'테러자작극의혹'정이한전부산시장후보구속…유치장수감"
+  "'테러자작극의혹'정이한전부산시장후보구속…유치장수감",
+  "ESG공시,자산10조넘으면의무화…상장사부담더커졌다",
+  "ESG,암호화폐투자새잣대될까…바이낸스아카데미,비트코인에너지...",
+  "'피습자작극의혹'정이한구속…법원\"증거인멸우려\"",
+  "'음료투척자작극의혹'정이한구속…法\"증거인멸우려\"",
+  "[단독]경찰,'이언주합성음란물게시'기업인압수수색",
+  "“내가교통사고냈다”거짓말에도‘무죄’…장윤기,경찰아빠도처...",
+  "법원,'피습자작극의혹'정이한前부산시장후보구속",
+  "검찰,'장윤기수사팀'경찰2명참고인조사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T18:42:28.490394+09:00",
+ "last_run": "2026-07-08T18:51:14.437882+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
