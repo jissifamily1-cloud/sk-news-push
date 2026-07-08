@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260702166900013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167000013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260702167100013?input=1196m",
-  "https://news.tf.co.kr/read/photomovie/2339153.htm",
-  "https://news.tf.co.kr/read/photomovie/2339154.htm",
-  "https://www.ceoscoredaily.com/page/view/2026070216125193577",
-  "http://www.medisobizanews.com/news/articleView.html?idxno=139897",
-  "https://monthly.chosun.com/news/articleView.html?idxno=70593",
   "https://www.ajunews.com/view/20260702163212024",
   "https://www.hankookilbo.com/news/article/A2026070215400005728?did=NA",
   "https://www.segye.com/newsView/20260702513602?OutUrl=naver",
@@ -2999,17 +2991,17 @@
   "https://www.segye.com/newsView/20260708520349?OutUrl=naver",
   "https://www.sedaily.com/article/20065466",
   "https://www.newsis.com/view/NISX20260708_0003701503",
-  "https://www.mk.co.kr/article/12093726"
+  "https://www.mk.co.kr/article/12093726",
+  "https://www.dt.co.kr/article/12071917",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260708.99099002528",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1783497855&code=11131300&cp=nv",
+  "https://www.khan.co.kr/article/202607081839001",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=784272",
+  "https://www.busan.com/view/busan/view.php?code=2026070818321287190",
+  "https://www.busan.com/view/busan/view.php?code=2026070818313395366",
+  "https://www.news1.kr/local/busan-gyeongnam/6222137"
  ],
  "seen_titles": [
-  "SK,공정위와상생협약체결",
-  "상생협약체결한SKT와협력사",
-  "환영사하는최창원의장",
-  "SK,협력사와동반성장가속…하이닉스는1.4조상생자금활용",
-  "SK-공정위상생협약체결식",
-  "축사하는주병기공정거래위원장[포토]",
-  "기념촬영하는최창원-주병기[포토]",
-  "공정위,소상공인‘집단협상’문열어준다…“배달앱,수수료협상...",
   "비만치료제부작용1년새19배급증…2030·중장년층주의보",
   "\"스타벅스가야지\"배재고중징계…6개월출전정지",
   "'친족증거인멸특례'뭐길래...장윤기사건,父증거훼손논란",
@@ -6001,7 +5993,15 @@
   "사라진케이블타이,검찰이장윤기아버지자택서확보",
   "檢,장윤기사건은폐의혹윗선까지겨눠…검·경갈등확산되나",
   "檢,\"보완수사인정해야\"…법무부도\"심도있는논의필요\"(종합)",
-  "합동대응단,중대불공정거래10여건적발…이억원“조사·제재강화”"
+  "합동대응단,중대불공정거래10여건적발…이억원“조사·제재강화”",
+  "ESG공시,2년후‘법정의무’정부급발진에대기업‘발칵’",
+  "[속보]배재고야구부징계풀리나…대한체육회“이달말공정위서재...",
+  "배재고야구부재심청구…광주일고도“선처요청”",
+  "경찰,현직경찰관장윤기아버지첫소환조사",
+  "[위클리오늘]금감원,매일경제TV압수수색첫강제수사",
+  "檢,장윤기범행도구확보경찰초동수사부실의혹확산",
+  "경찰은‘배달사고’검찰은‘뇌물수수’…檢,보완수사권여론전",
+  "'테러자작극의혹'정이한전부산시장후보구속…유치장수감"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T18:31:21.817176+09:00",
+ "last_run": "2026-07-08T18:41:16.199392+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
