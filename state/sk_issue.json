@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreadaily.com/article/20260622203056561",
-  "https://www.dailyt.co.kr/newsView/dlt202606210010",
-  "https://www.dailyt.co.kr/newsView/dlt202606220008",
-  "https://www.esquirekorea.co.kr/article/1904803",
-  "https://www.hankyung.com/article/202606220832i",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3026654",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=15818",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=15822",
   "http://www.newsfarm.co.kr/news/articleView.html?idxno=101372",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=248546",
   "http://www.sisacast.kr/news/articleView.html?idxno=96739",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20260708070400004?input=1195m",
   "https://www.newsis.com/view/NISX20260708_0003700386",
   "https://www.newsis.com/view/NISX20260708_0003700437",
-  "https://www.chosun.com/national/national_general/2026/07/08/SSNZJUWVKBDFVGUEBC5T7Q72OM/"
+  "https://www.chosun.com/national/national_general/2026/07/08/SSNZJUWVKBDFVGUEBC5T7Q72OM/",
+  "https://biz.sbs.co.kr/article_hub/20000321291?division=NAVER",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/08/2026070880052.html",
+  "http://weekly.chosun.com/news/articleView.html?idxno=53266",
+  "https://www.news1.kr/local/gwangju-jeonnam/6221308",
+  "https://www.pennmike.com/news/articleView.html?idxno=123341",
+  "https://www.hankyung.com/article/2026070823077",
+  "https://www.munhwa.com/article/11601106",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79789"
  ],
  "seen_titles": [
-  "밸류업목표1년앞당겨...키움증권,ROE·PBR·주주환원'3관왕'[2026년...",
-  "영국,대형패션브랜드3사에'허위광고'철퇴...왜?",
-  "\"못지키면금리더준다\"…iH,지방공사최초'배수진'친ESG채권발행",
-  "NH농협은행-기보,녹색정책금융협약체결…온실가스감축기업우대지...",
-  "NH농협은행,기술보증기금과녹색정책금융이차보전업무협약체결",
-  "EU,SFDR'전환펀드'에화석연료기업포함허용…\"그린워싱우려\"",
-  "아침의파티,흐트러짐을선택한디올",
-  "[기후경쟁력포럼]비즈니스포스트대표강석운환영사,\"녹색대전환은...",
   "[메가이슈토픽]'월드컵특수'올라탄현대차…철강공급망ESG논란에...",
   "폭염에멈춘유럽…학교닫고철도차질[ESG뉴스5]",
   "[기획리포트]2026년ESG,선언에서'실적'으로…제도화너머기업생...",
@@ -6001,7 +5993,15 @@
   "합수본,신천지이만희최측근소환…정관계로비의혹등추궁",
   "'장윤기사건'증거인멸혐의경찰관영장심사출석…'묵묵부답'",
   "장윤기차량서사라진케이블타이,부친자택압색과정에서확보",
-  "[속보]경찰은폐의혹‘케이블타이’...장윤기아버지집에서발견"
+  "[속보]경찰은폐의혹‘케이블타이’...장윤기아버지집에서발견",
+  "2028년부터'자산10조원이상'코스피상장사ESG공시의무",
+  "공정위,한화이어CJ상표권사용료현장조사",
+  "장윤기차량서사라진'케이블타이'…경찰부친집에서발견",
+  "'장윤기증거인멸'강력팀장,구속영장심사출석…묵묵부답",
+  "[양준서의정조준]민주당은유구무언...검찰보완수사권이장윤기사건...",
+  "장윤기차량에서사라진케이블타이…경찰부친집에서발견",
+  "분실케이블타이검찰이장윤기父집서찾았다",
+  "금융위,통신자료요청권신설·AI도입해시장감시체계고도화"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "장악 MSC 삼키나 탱커사업 정조준 장금상선 시장"
   ]
  ],
- "last_run": "2026-07-08T10:41:07.104139+09:00",
+ "last_run": "2026-07-08T10:51:07.480646+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
