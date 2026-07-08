@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kado.net/news/articleView.html?idxno=2059138",
-  "https://www.hankookilbo.com/news/article/A2026070215100002240?did=NA",
-  "https://www.donga.com/news/Society/article/all/20260702/134225274/2",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1529344",
-  "https://www.ytn.co.kr/_ln/0107_202607021553033065",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008638997&plink=ORI&cooper=NAVER",
-  "https://news.jtbc.co.kr/article/NB12306249?influxDiv=NAVER",
-  "https://www.dailian.co.kr/news/view/1662736/?sc=Naver",
-  "https://www.mk.co.kr/article/12088904",
-  "https://www.sisajournal.com/news/articleView.html?idxno=378569",
-  "https://www.sidae.com/article/2026070211411735755",
   "http://www.newswatch.kr/news/articleView.html?idxno=80305",
   "https://www.g-enews.com/view.php?ud=20260702090601377fda4f5ab74_1",
   "https://biz.heraldcorp.com/article/10796376",
@@ -2999,20 +2988,20 @@
   "https://www.kukinews.com/article/view/kuk202607080127",
   "https://www.newsis.com/view/NISX20260708_0003701466",
   "https://biz.chosun.com/topics/topics_social/2026/07/08/43HGOWT33NHTDBCP4PV26BVFBA/",
-  "https://www.sjsori.com/news/articleView.html?idxno=87456"
+  "https://www.sjsori.com/news/articleView.html?idxno=87456",
+  "https://www.hankookilbo.com/news/article/A2026070815050005326?did=NA",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16127979",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000048698",
+  "http://www.breaknews.com/1220317",
+  "https://www.mt.co.kr/economy/2026/07/08/2026070817465481917",
+  "https://www.hani.co.kr/arti/politics/politics_general/1267335.html",
+  "https://www.dailian.co.kr/news/view/1665015/?sc=Naver",
+  "https://www.yna.co.kr/view/AKR20260708162951004?input=1195m",
+  "http://www.fnnews.com/news/202607081754041718",
+  "https://www.ytn.co.kr/_ln/0103_202607081805481482",
+  "https://www.ytn.co.kr/_ln/0115_202607081803183543"
  ],
  "seen_titles": [
-  "상생협약체결한SK-협력사-공정위",
-  "SK,1·2·3차협력사에1.4조푼다…반도체생태계조성",
-  "손맞잡은SK-협력사-공정위",
-  "신한금융,친환경금융26.2조성과...전환금융으로기후금융보폭확대",
-  "정부,'쿠팡차별'美하원보고서에\"일방적주장반영유감\"",
-  "[현장]SK-공정위상생협약…반도체생태계에1.4조신규투입키로",
-  "美하원'한국,미국기업차별'보고서공개…수출기업통상리스크커...",
-  "경찰청,'여고생살해'장윤기부친직접감찰착수",
-  "\"국가가날프락치로만들었다\"…군사정권'녹화공작'피해자,3기진실...",
-  "[속보]경찰청“장윤기부친리얼돌폐기등증거인멸의혹감찰착수”",
-  "종합특검,윤영호전본부장첫소환…'통일교수사무마'",
   "한국만큼이나시끄러운독일축구협회,압수수색까지당했다[Y녹취록]",
   "'광주여고생살해'리얼돌폐기부친경찰관,경찰청이감찰",
   "'여고생살해'장윤기리얼돌폐기한부친경찰관감찰",
@@ -6001,7 +5990,18 @@
   "장윤기사건에다시불붙은‘검찰보완수사권’논쟁",
   "유재성경찰청장직무대행,'장윤기사건'파장에美출장조기귀국",
   "경찰청장대행,‘장윤기논란’에미국출장서조기귀국키로",
-  "[단독]브랜드는계열사가키우고,최태원SK는'이름값'3692억거뒀다(..."
+  "[단독]브랜드는계열사가키우고,최태원SK는'이름값'3692억거뒀다(...",
+  "'30조→10조'오락가락지속가능성공시…\"검증·책임도없다\"",
+  "\"배재고징계재심의\"…봉황대기출전여부,이달말분수령",
+  "\"스타벅스가야지\"징계받은배재고재심신청접수…공정위서심의",
+  "\"담합,담합,담합..\"공정위올해과징금2조원초과전망",
+  "중기부,거래상지위남용한한국엔지니어링플라스틱고발요청",
+  "이대통령“주가조작은금감원·경찰·검찰3중그물에반드시걸린다...",
+  "'방송전매수,주가오르면매도'…금감원특사경,매경TV압수수색",
+  "'장윤기사건'일파만파…경찰청장대행美출장서조기귀국(종합)",
+  "李대통령\"주가조작패가망신…3중그물에반드시걸린다\"",
+  "'장윤기사건'경찰유착의혹일파만파...보완수사권논란재점화",
+  "장윤기수사강력팀장구속심사...유족\"경찰이살인마편\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T18:01:27.472837+09:00",
+ "last_run": "2026-07-08T18:11:15.291501+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
