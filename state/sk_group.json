@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11600864",
-  "https://www.munhwa.com/article/11600873",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79761",
-  "https://www.tokenpost.kr/news/economy/375544",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=265382",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272589",
   "https://biz.sbs.co.kr/article_hub/20000321090?division=NAVER",
   "https://www.wikitree.co.kr/articles/1145163",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070248&t=NN",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026070838477",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260708.99099002568",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1529995",
-  "http://www.bizwnews.com/news/articleView.html?idxno=140251"
+  "http://www.bizwnews.com/news/articleView.html?idxno=140251",
+  "https://www.kyeongin.com/article/1767028",
+  "https://mhnse.com/news/articleView.html?idxno=1455952",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1065151",
+  "http://www.dynews.co.kr/news/articleView.html?idxno=857349",
+  "https://www.mk.co.kr/article/12093802",
+  "https://www.kyeongin.com/article/1767027"
  ],
  "seen_titles": [
-  "삼성전자,2Q성과급충당금빼면영업익'106조'…글로벌빅테크1위'대...",
-  "급등락반복하는반도체주…'고점신호'떴나?",
-  "美휩쓴‘뇌전증’혁신신약…안방시장상륙초읽기",
-  "‘용도별편의성’계절가전성패가른다",
-  "민주,9일본회의개회요청…조정식의장,여야추가협의주문",
-  "SK,대금지급개선·1.4조원지원...협력사와상생협약",
   "SKAICommitteeHostsUNITE2026inSiliconValley,UnveilsExpandedGl",
   "[기후경쟁력포럼]'2026기후경쟁력포럼'성황리마무리,행사빛내주신...",
   "KoreaInc.racestoputAIagentoneverydesk",
@@ -6001,45 +5995,15 @@
   "외신\"SK하이닉스ADR공모,‘몇배’달하는초과청약몰려\"",
   "“SK하이닉스ADR공모,‘몇배’초과청약”반도체주변동성이변수",
   "반도체가이끈최대흑자…증시에선'경고등'",
-  "[금융HOT뉴스]1분기파생결합증권·사채발행19.6조…'투심회복에..."
+  "[금융HOT뉴스]1분기파생결합증권·사채발행19.6조…'투심회복에...",
+  "[노트북]오늘도야구는계속된다",
+  "\"실화입니까\"…'주식1억손실'미자,하이닉스하락에'탄식'[MHN:피드...",
+  "울산시,AI데이터센터'1+1GW'유치전본격화…사전작업착수",
+  "동양칼럼/3대메가프로젝트,신속하되신중하게",
+  "환율진정되나했더니…트럼프한마디에다시1500원대",
+  "[기고]삼성전자반도체평택으로오게된비화와교훈"
  ],
  "recent_sigs": [
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "앞두고 성수기 단속 판매점 차단 사전 일제 불법영업 휴대폰"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "코스피 리스크에 지정학적 하락은 제한적 급락 추가"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "창업팀 나라입니까 여기가 2647개 몰렸다 삼전닉스 외국인"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "성적표 메모리 우려 이달 빅테크 여전 피크아웃 3사 주목"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "출시 레벨업코리아 펀드 한국투자 한투운용"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "대한민국 벨트 반도체 800조 이것 운명 메가프로 멈춘다 없으면"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "3차 확대 상생협약 전면 4대 마무리 협력사까지 강조 공정위"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "이란 급등 유가 재공습 이틀째 80곳"
-  ],
-  [
-   "2026-07-08T14:31:22.977426+09:00",
-   "흔들리는 삼전 하향에 매도 증권가 닉스 목표가 권고까지"
-  ],
   [
    "2026-07-08T14:41:20.212467+09:00",
    "지역 인구 로켓배송 쿠팡 메우는 김범석 감소"
@@ -7225,7 +7189,7 @@
    "6조 투심 발행 파생결합증권 회복에 1분기 사채"
   ]
  ],
- "last_run": "2026-07-08T20:21:28.785361+09:00",
+ "last_run": "2026-07-08T20:31:56.300824+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
