@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1983195",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83008",
-  "https://www.yna.co.kr/view/AKR20260707118400008?input=1195m",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=752633",
-  "https://www.hankookilbo.com/news/article/A2026070713280001102?did=NA",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848773",
-  "https://biz.heraldcorp.com/article/10800988",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=52137",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=752627",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=723981",
   "https://www.joongangenews.com/news/articleView.html?idxno=531066",
   "https://www.mt.co.kr/economy/2026/07/07/2026070714364414976",
   "https://www.thepowernews.co.kr/view.php?ud=202607031343322272de3f0aa1be_7",
@@ -2999,19 +2989,19 @@
   "https://www.mhns.co.kr/news/articleView.html?idxno=752823",
   "https://www.ekn.kr/web/view.php?key=20260709020040717",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090173&t=NN",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606016"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606016",
+  "https://www.etoday.co.kr/news/view/2601800",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090177&t=NN",
+  "https://www.g-enews.com/view.php?ud=202607090715114428fbbec65dfb_1",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090157&t=NN",
+  "https://www.dailyt.co.kr/newsView/dlt202607070002",
+  "https://www.newsis.com/view/NISX20260709_0003701720",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=249864",
+  "http://www.inews24.com/view/1983797",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61356",
+  "https://biz.sbs.co.kr/article_hub/20000321450?division=NAVER"
  ],
  "seen_titles": [
-  "구윤철부총리\"집은사는것아닌사는곳\"7월말부동산세금대격변...",
-  "엔비디아AI반도체호황'독식'시대저무나,AMD구글이어중국의추...",
-  "[자산운용레이더]삼성자산운용,미래에셋자산운용,한국투자신탁운용",
-  "102조투자잡은충북,SK하이닉스·셀트리온지원TF띄웠다",
-  "코스피급락에올해만6번째서킷브레이커",
-  "‘반도체피크론’불식⋯삼성전자,엔비디아도넘어‘세계영업이익...",
-  "이미코스피‘롤러코스터’됐는데…금감원장“지나친레버리지투자...",
-  "“충북에102조투자”…부지부터전력·용수까지전폭지원채비",
-  "LG전자,B2B신무기'AI데이터센터냉각솔루션'통해글로벌시장공략...",
-  "단일종목레버리지하루만20%폭락…일제히상장가밑으로",
   "마이크론日팹착공…한국은'광주·용인초고속증설'맞불",
   "울산에전국첫다차종수소충전소…지게차·트랙터도24시간쓴다",
   "박균택\"이재명정부와삼성,SK에깊은감사\"",
@@ -6001,7 +5991,17 @@
   "[박근종칼럼]보유세·거래세균형의세제개편,세부담급증은부메랑...",
   "[패트롤]오산시-용인시-이천시-평택시-화성시",
   "정유주옆기술주...'종전협상파기'발언에도오른유이한미국의두...",
-  "“트럼프가때릴수도”…일본이삼전닉스에경고한이유[잇슈키워드..."
+  "“트럼프가때릴수도”…일본이삼전닉스에경고한이유[잇슈키워드...",
+  "[증시키워드]삼성전자ㆍSK하이닉스총수들은미국行⋯현대차부분파업...",
+  "공포만난개미'덜덜'떨자…\"반도체랠리안끝났다\"",
+  "AI주도권,‘GPU독점’에서‘인프라수요확산’으로",
+  "국제유가5%급등...트럼프,대이란공습예고-[굿모닝글로벌이슈]",
+  "돌봄에너지를줄이다…'추론클라우드'가가져온스마트홈의변화",
+  "김장호구미시장\"반도체산업생태계조성힘모은다\"",
+  "중복상장대기업IPO셈법복잡...HD현대로보험로·한화에너지숨통",
+  "삼성·SK법인세5%감면검토…감면액일부는지역기부",
+  "최태원,\"하이닉스10배키운다\"선언후첫행보…나스닥서AI투자자...",
+  "[마켓프리뷰]역대급변동성에반도체주'털썩'…환율1500원하회"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,37 @@
   [
    "2026-07-09T07:31:37.502653+09:00",
    "잇슈 트럼프가 삼전닉스에 이유 수도 경고한 일본이 때릴 키워드"
+  ],
+  [
+   "2026-07-09T07:41:30.445029+09:00",
+   "국제유가 대이란 급등 예고 공습 트럼프"
+  ],
+  [
+   "2026-07-09T07:41:30.445029+09:00",
+   "줄이다 추론 스마트홈의 돌봄 가져온 변화 클라우드 에너지를"
+  ],
+  [
+   "2026-07-09T07:41:30.445029+09:00",
+   "모은다 반도체산업 생태계 조성 김장호 구미시장"
+  ],
+  [
+   "2026-07-09T07:41:30.445029+09:00",
+   "중복상장 IPO 험로 한화에너지 복잡 대기업 숨통 HD현대로보 셈법"
+  ],
+  [
+   "2026-07-09T07:41:30.445029+09:00",
+   "지역 감면 법인세 삼성 일부는 감면액 검토 기부"
+  ],
+  [
+   "2026-07-09T07:41:30.445029+09:00",
+   "선언 나스닥서 최태원 키운다 10배 하이닉스 AI 행보 투자자"
+  ],
+  [
+   "2026-07-09T07:41:30.445029+09:00",
+   "털썩 반도체주 하회 1500원 변동성에 역대급 환율"
   ]
  ],
- "last_run": "2026-07-09T07:32:22.388270+09:00",
+ "last_run": "2026-07-09T07:41:52.377337+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
