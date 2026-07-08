@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10800694",
-  "https://www.kukinews.com/article/view/kuk202607070076",
-  "https://biz.heraldcorp.com/article/10800687",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=59955",
-  "https://www.koreatimes.co.kr/path/A2026070711070003076",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422508",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167744",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264299",
-  "https://biz.sbs.co.kr/article_hub/20000321080?division=NAVER",
-  "https://biz.heraldcorp.com/article/10800736",
-  "https://en.yna.co.kr/view/AEN20260707005600320?input=2106m",
   "https://www.dkilbo.com/news/articleView.html?idxno=547916",
   "http://www.cctimes.kr/news/articleView.html?idxno=915289",
   "https://news.mtn.co.kr/news-detail/2026070711302623565",
@@ -2999,20 +2988,20 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272704",
   "https://news.jtbc.co.kr/article/NB12307272?influxDiv=NAVER",
   "https://www.thepublic.kr/news/articleView.html?idxno=310600",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=127997"
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=127997",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=440471",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2426955",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2426962",
+  "https://biz.chosun.com/stock/stock_general/2026/07/08/O6OT7LHTQVHLFML6YSIXJ7CUSM/",
+  "https://www.dt.co.kr/article/12071920",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05202086645512552",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272705",
+  "https://www.newstnt.com/news/articleView.html?idxno=709529",
+  "https://www.sedaily.com/article/20065479",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16128007",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=91976"
  ],
  "seen_titles": [
-  "[食전食후]코스피,5%급락에매도사이드카발동…7600선대로밀려",
-  "충북도,SK하이닉스·셀트리온102조투자지원총력",
-  "삼성전자,분기영업이익사실상100조원돌파…메모리초호황사이클...",
-  "[특징주]삼호개발,호남800조반도체메가프로젝트기대감에급등",
-  "세계4대반도체장비사품은용인…어플라이드머티어리얼즈‘전진기...",
-  "마이크론메모리반도체장기계약에'약점'부각,삼성전자SK하이닉스...",
-  "삼전실적발표날코스피매도사이드카…올해만16번째",
-  "영업익89조도부족했나…삼성전자,'역대급실적'에도주가밀린까닭...",
-  "광주군공항이전,메가프로젝트속도전‘최대변수’",
-  "다나와,SSD거래액반등…2TB이상제품비중확대",
-  "[장중시황]코스피,급락속매도사이드카…삼전‘깜짝실적’에도투...",
   "SKT·KT·LGU+,고객서비스·인재양성·조직혁신강화",
   "코스피,사이드카이후소폭상승했으나하락전환",
   "SK하이닉스는AI타고나스닥行…SK온IPO는?",
@@ -6001,7 +5990,18 @@
   "[MarketDiagnosis]TheRealCulpritBehindthePlungeinSamsungElect",
   "경상흑자이끈반도체'급락왜이래'…'금요일밤'주목?",
   "고민정\"김민석·정청래·송영길,2030이싫어하는민주당모습압축\"",
-  "[TN인터뷰]정승일박사\"이재명정부2년차핵심은'분배'...아래를향..."
+  "[TN인터뷰]정승일박사\"이재명정부2년차핵심은'분배'...아래를향...",
+  "[WhoIs?]장용호SK대표이사사장겸SK이노베이션대표이사총괄사장",
+  "\"AI,노년의두번째지능\"…SK하이닉스,충북SR포럼개최",
+  "국민연금,2분기국내주식평가익189조…삼성전자·SK하이닉스가80%견...",
+  "애프터마켓서SK하이닉스200만·삼성전자27만붕괴",
+  "[기획]日,韓‘메모리독점’우회경고…심상찮다",
+  "한전,포브스선정올해기업순위319위…3년새428계단'껑충'",
+  "RebellionsEyesIPOinKOSPINextYear",
+  "상지건설,187억유상증자일정확정…본PF전환위한자금조달'시험대...",
+  "“로봇1000대관제솔루션으로‘K무인공장’수출할것”[스케일업리...",
+  "[공매도브리핑]삼성전자1,711억…ESR켄달스퀘어48.67%",
+  "'1만피'기대감무색…반도체고점론에3주새2000P'와르르'"
  ],
  "recent_sigs": [
   [
@@ -7279,9 +7279,33 @@
   [
    "2026-07-08T19:01:37.979384+09:00",
    "정승일 분배 아래를 정부 2년차 핵심은 이재명 박사"
+  ],
+  [
+   "2026-07-08T19:11:20.853154+09:00",
+   "기업 428계단 순위 선정 올해 3년새 포브스 한전 319위 껑충"
+  ],
+  [
+   "2026-07-08T19:11:20.853154+09:00",
+   "Eyes IPO Next Year Rebellions KOSPI in"
+  ],
+  [
+   "2026-07-08T19:11:20.853154+09:00",
+   "187억 확정 유상증자 시험대 상지건설 일정 위한 자금조달 본PF"
+  ],
+  [
+   "2026-07-08T19:11:20.853154+09:00",
+   "스케일업리 1000대 로봇 수출할 관제솔루션으로 K무인공장"
+  ],
+  [
+   "2026-07-08T19:11:20.853154+09:00",
+   "ESR켄달스퀘어 711억 삼성전자"
+  ],
+  [
+   "2026-07-08T19:11:20.853154+09:00",
+   "고점론에 기대감 와르르 3주새 반도체 2000P 무색 1만피"
   ]
  ],
- "last_run": "2026-07-08T19:01:51.754993+09:00",
+ "last_run": "2026-07-08T19:11:40.184657+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
