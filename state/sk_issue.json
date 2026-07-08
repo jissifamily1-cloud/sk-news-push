@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12088947",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310514",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=127961",
-  "https://www.ilyosisa.co.kr/news/article.html?no=256702",
-  "http://www.fnnews.com/news/202607021636011490",
-  "https://www.newscj.com/news/articleView.html?idxno=3414025",
-  "https://news.tf.co.kr/read/economy/2339193.htm",
-  "http://www.lkp.news/news/articleView.html?idxno=81503",
-  "https://www.news1.kr/industry/general-industry/6216177",
-  "https://www.goodkyung.com/news/articleView.html?idxno=288820",
   "https://www.aitimes.kr/news/articleView.html?idxno=40804",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077268",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714927",
@@ -2999,19 +2989,19 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538629",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204681",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538631",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605533"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605533",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260708192401sb3",
+  "https://www.yna.co.kr/view/AKR20260708175900004?input=1195m",
+  "https://www.namdonews.com/news/articleView.html?idxno=916372",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538632",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030083043&code=61121111&cp=nv",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260708192154IMR",
+  "https://www.yna.co.kr/view/AKR20260708151151004?input=1195m",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538634",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605547",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605495"
  ],
  "seen_titles": [
-  "“살빼려다병원행?”…비만치료제복통·발열부작용급증",
-  "\"세상은좋아지는데우리는좋아졌나\"···최창원이던진상생질문",
-  "증거인멸한장윤기경찰관아버지,처벌피해…'친족특례'개정해야",
-  "장윤기증거인멸부친,처벌불가논란",
-  "합수본,'선관위외유성출장의혹'고발인조사…\"업무상횡령당연히...",
-  "SK,협력사에1.4조원신규지원…AI반도체생태계상생강화",
-  "최창원\"하이닉스더잘되려면'상생'필수\"…SK,협력사지원책손본다",
-  "SK,상생협약체결식개최...최창원의장,\"상생문화가산업계전체에...",
-  "최창원\"SK하이닉스중심협력사전폭지원\"…1.4조신규투입(종합)",
-  "SK,반도체생태계위해1조4000억지원…\"동반성장강화\"",
   "SK,협력사와상생협약체결…대금지급개선,기술·금융지원등동반...",
   "가습기살균제33년의진실…다큐멘터리문학'숨;X'출간",
   "정부,미하원'쿠팡차별'보고서에유감…\"일방적주장만반영\"",
@@ -6001,7 +5991,17 @@
   "[단독]차량수색전…장윤기아버지에“블랙박스보러간다”",
   "검찰,사라진'케이블타이'장윤기부친집에서찾았다",
   "[시티라이브]“경찰이살인자편”…장윤기부친집서‘케이블타이’",
-  "‘피습자작극혐의’정이한구속"
+  "‘피습자작극혐의’정이한구속",
+  "[단독]'가습기살균제'성분검출필터…반년지나서야공지?",
+  "경찰,'이언주합성음란물'게시한기업인압수수색",
+  "장윤기父자택서나온케이블타이'스모킹건'되나",
+  "사라진‘케이블타이’경찰아버지집에서발견",
+  "장윤기父첫경찰조사…장윤기는반성문제출해",
+  "사라진케이블타이,장윤기아버지집에…'윗선개입'수사",
+  "대검\"'사법통제'보완수사권필요\"…법무부도우려표명(종합)",
+  "[아는기자]‘장윤기사건’부실수사의혹…‘윗선’있나?",
+  "검찰,장윤기아버지집에서‘케이블타이’확보…수사팀장구속심사",
+  "압수수색청구‘차일피일’…하귀농협수사지지부진"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "계열사가 키우고 거뒀다 브랜드는 3692억 이름값 SK는 최태원"
   ]
  ],
- "last_run": "2026-07-08T19:21:11.389996+09:00",
+ "last_run": "2026-07-08T19:31:18.587290+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
