@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260707_0021353631",
-  "https://www.newsis.com/view/NISI20260707_0021353630",
-  "https://www.dkilbo.com/news/articleView.html?idxno=547963",
-  "https://www.mk.co.kr/article/12092323",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189479",
-  "https://biz.sbs.co.kr/article_hub/20000321133?division=NAVER",
-  "https://www.viva100.com/article/20260706501233",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=736266",
-  "https://www.yna.co.kr/view/PYH20260707120300013?input=1196m",
-  "https://www.ytn.co.kr/_ln/0102_202607071439476043",
-  "https://www.techm.kr/news/articleView.html?idxno=153106",
   "https://www.cbci.co.kr/news/articleView.html?idxno=586421",
   "https://www.thepowernews.co.kr/view.php?ud=202607071448539772de3f0aa1be_7",
   "https://www.mediapen.com/news/view/1108700",
@@ -2999,20 +2988,20 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=235605",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=235587",
   "https://www.todayenergy.kr/news/articleView.html?idxno=300127",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=545593"
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545593",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990012.html",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715640",
+  "https://www.munhwa.com/article/11601336",
+  "https://www.newsis.com/view/NISX20260708_0003701395",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=306023",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849162",
+  "https://www.techm.kr/news/articleView.html?idxno=153230",
+  "https://www.itooza.com/common/iview.php?no=2026070714040519686",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715641",
+  "https://www.sidae.com/article/2026070814271268747",
+  "https://www.dt.co.kr/article/12071954"
  ],
  "seen_titles": [
-  "삼성전자분기영업이익100조시대'활짝'…빅테크1위등극",
-  "외국인,삼성전자보유율금융위기이후최저…전문가,비중확대추천",
-  "코스피8%대급락...매도사이드카이어서킷브레이커발동",
-  "삼전·닉스10%대급락에…코스피서킷브레이커발동",
-  "부산상공계\"흥아해운부산행,해운·물류기업이전기폭제되길\"",
-  "원전활용방사선산업파트너십출범식",
-  "원전활용방사선산업파트너십출범식기념촬영",
-  "원전활용방사선산업파트너십MOU서명",
-  "원전활용방사선산업파트너십출범식,기념촬영하는내빈들",
-  "영주시,SK스페셜티·KT&G등핵심기업과상생발전머리맞대",
-  "“파티끝나면개미만남아,오징어게임될수도”…WSJ가韓증시에날...",
   "희귀치료제신속등재..SK케미칼·한독제품후보거론",
   "반도체동반급락…日키옥시아도11%하락",
   "[데스크칼럼]소비양극화의문제점",
@@ -6001,7 +5990,18 @@
   "이주노동자권리를보장하는사회로",
   "[SK에코플랜트공사장]컨베이어홀로점검이주노동자또참변",
   "[진단]부탄가격상승세...휘발유·경유하락세",
-  "SK하이닉스나스닥IPO설명회에기관투자자1천개몰려...공모수요'흥..."
+  "SK하이닉스나스닥IPO설명회에기관투자자1천개몰려...공모수요'흥...",
+  "SK하이닉스,10일나스닥상장…최태원회장이직접챙긴다",
+  "SK하이닉스나스닥입성…최태원,AI메모리경쟁력직접세일즈",
+  "최태원SK하이닉스나스닥상장에미국행…주요빅테크기업들과회동...",
+  "삼전·닉스시총이달에만740조녹았다…목표가하향움직임도",
+  "[정보보호테크]⑤SK텔레콤,해킹후보안투자'70%증액'효과보나",
+  "[지배구조분석A+]⑥KT&G,지배구조경쟁력입증",
+  "\"자라보고놀란가슴솥뚜껑보고놀란다\"...통신사,정보보호투자·인...",
+  "[리스트]국내7월합성전략30선",
+  "\"SK하이닉스40조달러유입기대\"...환율장중1490원대로'뚝'",
+  "한시금지?유한양행덮친공매도,서정진도불만\"하락주범vs거품제거...",
+  "스페이스X의굴욕…결국상장가밑으로추락"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,41 @@
   [
    "2026-07-09T06:51:19.184359+09:00",
    "공모 기관투자자 SK하이닉스 설명회에 나스닥 수요 IPO 몰려 1천개"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "시총 삼전 녹았다 목표가 이달에만 하향 닉스 움직임도 740조"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "SK텔레콤 효과보나 해킹 보안투자 증액"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "경쟁력 KT 입증 지배구조"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "정보보호 투자 놀란 솥뚜껑 가슴 놀란다 통신사 보고 자라보고"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "7월 합성전략 30선 국내"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "장중 기대 40조 유입 SK하이닉스 환율 달러 1490원대로"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "한시금지 공매도 vs 불만 거품제거 서정진도 유한양행 덮친 하락주범"
+  ],
+  [
+   "2026-07-09T07:01:39.373201+09:00",
+   "밑으로 상장가 결국 추락 스페이스X의 굴욕"
   ]
  ],
- "last_run": "2026-07-09T06:51:28.450406+09:00",
+ "last_run": "2026-07-09T07:02:03.185129+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
