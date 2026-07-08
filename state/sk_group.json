@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260707_0021353633",
-  "https://www.newsis.com/view/NISI20260707_0021353632",
   "https://www.newsis.com/view/NISI20260707_0021353631",
   "https://www.newsis.com/view/NISI20260707_0021353630",
   "https://www.dkilbo.com/news/articleView.html?idxno=547963",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20065542",
   "https://news.bizwatch.co.kr/article/real_estate/2026/07/03/0021",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=235605",
-  "https://www.labortoday.co.kr/news/articleView.html?idxno=235587"
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=235587",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=300127",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545593"
  ],
  "seen_titles": [
-  "사이드카·서킷브레이커'동시발동'…코스피8%대폭락",
-  "'역대급실적'삼성전자,시장기대는더높다",
   "삼성전자분기영업이익100조시대'활짝'…빅테크1위등극",
   "외국인,삼성전자보유율금융위기이후최저…전문가,비중확대추천",
   "코스피8%대급락...매도사이드카이어서킷브레이커발동",
@@ -6001,7 +5999,9 @@
   "원전·태양광·풍력만으론안된다…팹속도전에광주에LNG발전소추진...",
   "동탄집값불붙인게,중개사들이부채질이라고?",
   "이주노동자권리를보장하는사회로",
-  "[SK에코플랜트공사장]컨베이어홀로점검이주노동자또참변"
+  "[SK에코플랜트공사장]컨베이어홀로점검이주노동자또참변",
+  "[진단]부탄가격상승세...휘발유·경유하락세",
+  "SK하이닉스나스닥IPO설명회에기관투자자1천개몰려...공모수요'흥..."
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,17 @@
   [
    "2026-07-09T06:41:20.035524+09:00",
    "참변 점검 이주노동자 컨베이어 홀로"
+  ],
+  [
+   "2026-07-09T06:51:19.184359+09:00",
+   "경유 상승세 휘발유 가격 하락세 부탄"
+  ],
+  [
+   "2026-07-09T06:51:19.184359+09:00",
+   "공모 기관투자자 SK하이닉스 설명회에 나스닥 수요 IPO 몰려 1천개"
   ]
  ],
- "last_run": "2026-07-09T06:41:31.679894+09:00",
+ "last_run": "2026-07-09T06:51:28.450406+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
