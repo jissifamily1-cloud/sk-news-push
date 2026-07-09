@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=206779",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008642275&plink=ORI&cooper=NAVER",
-  "https://www.dailian.co.kr/news/view/1663535/?sc=Naver",
-  "https://www.jbnews.com/news/articleView.html?idxno=1507072",
-  "https://www.seoul.co.kr/news/society/2026/07/05/20260705500058?wlog_tag3=naver",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000047751",
-  "https://www.news1.kr/society/court-prosecution/6218158",
-  "https://www.chosun.com/national/regional/honam/2026/07/05/MM4GRQINN5E3RF635ISL7QHAIU/",
   "https://www.khan.co.kr/article/202607051716001",
   "https://www.donga.com/news/Society/article/all/20260705/134238076/1",
   "https://www.kado.net/news/articleView.html?idxno=2059472",
@@ -2999,17 +2991,17 @@
   "https://www.newscj.com/news/articleView.html?idxno=3415741",
   "https://www.sedaily.com/article/20065741",
   "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260709511&PRO_CODE=99",
-  "https://imnews.imbc.com/news/2026/society/article/6836199_36918.html"
+  "https://imnews.imbc.com/news/2026/society/article/6836199_36918.html",
+  "https://news.tf.co.kr/read/economy/2341534.htm",
+  "https://www.news1.kr/society/court-prosecution/6222900",
+  "https://www.news2day.co.kr/article/20260709500138",
+  "https://www.newspim.com/news/view/20260709000888",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1384450",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094121",
+  "https://www.econovill.com/news/articleView.html?idxno=744743",
+  "https://www.dailian.co.kr/news/view/1665308/?sc=Naver"
  ],
  "seen_titles": [
-  "공정위,아파트경비용역입찰담합에스원등에과징금9.7억원",
-  "[자막뉴스]\"대응필요\"'사전경고'있었다…메일함속'결정적'단서",
-  "합수본,지방선거투표용지부족사태…지역선관위부실대응정황포...",
-  "'들러리세워독식'…에스원,충청권아파트경비용역입찰담합",
-  "[단독]합수본,선관위‘못끝낸채용비리’다시들여다본다…계류사...",
-  "'캐리어시신사건'장모살해후유기범행전말…'홈캠'에다담겼다",
-  "'투표용지부족'경고에도부실대응했나…합수본,내부연락확보",
-  "‘여고생살해’장윤기,납치·성폭행정황…현직경찰父는핵심증...",
   "백악관까지나선‘쿠팡방어’···공정위제재에온플법도흔들리나",
   "‘5G과장광고’LG유플러스,공정위28억과징금소송패소",
   "합수본,'투표용지부족'경고메일확보…지침이행여부수사",
@@ -6001,7 +5993,15 @@
   "경찰,자생한방병원압수수색…보험사기혐의수사",
   "경찰,‘고객정보유출혐의’카카오페이본사압수수색",
   "4천만명고객정보中넘긴카카오페이본사압수수색",
-  "내개인정보도중국에?‥4천만명정보유출카카오페이압수수색"
+  "내개인정보도중국에?‥4천만명정보유출카카오페이압수수색",
+  "공정위,솔리드웍스담합8개사제재…23억7200만원과징금",
+  "[일지]'통일교청탁'윤영호,대법원선고까지",
+  "자생한방병원압수수색...보험사기의혹에“사실과달라”",
+  "경찰,'수백억보험사기혐의'자생한방병원압수수색",
+  "자생한방병원\"압수수색은사실,보험사기혐의는근거없어\"",
+  "경찰,자생한방병원전격압수수색…병원측\"일방적주장\"반박",
+  "자생한방병원,압수수색은'사실'보험사기는'사실무근'",
+  "경찰,'고객4000만명개인정보유출혐의'카카오페이본사압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "최태원 티앤씨재단 둥지 한국고등교육재단에 김희영의"
   ]
  ],
- "last_run": "2026-07-09T13:41:15.287858+09:00",
+ "last_run": "2026-07-09T13:51:13.786244+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
