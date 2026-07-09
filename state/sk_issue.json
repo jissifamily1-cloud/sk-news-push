@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260706052800013?input=1196m",
-  "https://www.mt.co.kr/economy/2026/07/06/2026070608380611873",
-  "https://view.asiae.co.kr/article/2026070609001680447",
-  "https://www.news1.kr/local/busan-gyeongnam/6218808",
-  "https://www.gosiweek.com/article/1065581532905054",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260706010001865",
-  "https://news.tf.co.kr/read/life/2340061.htm",
   "http://www.fnnews.com/news/202607061021098734",
   "https://www.munhwa.com/article/11600575",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603016",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12094617",
   "https://www.joongang.co.kr/article/25443834",
   "https://www.medipana.com/news/articleView.html?idxno=414359",
-  "https://www.ajunews.com/view/20260709160046227"
+  "https://www.ajunews.com/view/20260709160046227",
+  "https://www.mk.co.kr/article/12094672",
+  "https://news.mtn.co.kr/news-detail/2026070915412643570",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05074166645512880",
+  "https://www.hankookilbo.com/news/article/A2026070916260003325?did=NA",
+  "https://www.mydaily.co.kr/page/view/2026070917303774199",
+  "https://www.hankyung.com/article/2026070963161",
+  "https://www.hankyung.com/article/2026070963181"
  ],
  "seen_titles": [
-  "제주지역주유소담합행위제제브리핑",
-  "계열대부업체에저금리자금대여'명륜당'…공정위,과징금·檢고발예...",
-  "4.6%저리특혜→점주대출→통행세마진…명륜당,‘부당지원’혐의로...",
-  "제주·거제등관광지서고의사고로억대보험금챙긴일당22명검거",
-  "[최창호변호사의법조단상]사법실험의환상과붕괴하는형사사법체...",
-  "홍석기“중수청사건이관58만건…적정범위논의중”",
-  "경찰\"김병기'13개의혹'수사거의마무리\"",
   "국수본부장\"장윤기수사논란'유구무언'…엄정수사지시\"",
   "검찰보완수사로잡아낸‘증거인멸’…수사팀장긴급체포",
   "경찰“장윤기사건논란‘유구무언’…한치의의심없도록수사”",
@@ -6001,7 +5994,14 @@
   "‘지인에마약투약’황하나,1심벌금형…석방후눈물",
   "[단독]정성호“보완수사권폐지하면與지지자가장피해”",
   "자생한방병원\"환자맞춤형진료와안전한한약조제준수중\"",
-  "자생한방병원,보험사기혐의압수수색에\"근거없는주장\"반박"
+  "자생한방병원,보험사기혐의압수수색에\"근거없는주장\"반박",
+  "전통·디지털금융융합나선미래에셋…주식앱서코인도투자",
+  "공정위,미래에셋코빗인수승인…금융권첫거래소인수",
+  "'휴대폰폐기'이종호증거인멸,2심도무죄…\"자기증거인멸\"",
+  "경찰은장윤기편?핵심증거인멸한수사팀장구속[영상]",
+  "'지인에마약투약'황하나,벌금형에석방됐다…얼굴감싸고눈물[MD이...",
+  "보험사기칼뺀경찰,자생한방병원'정조준'",
+  "경찰'개인정보유출'카카오페이압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "코빗 합종연횡 금융 가속화 승인 인수 가상자산"
   ]
  ],
- "last_run": "2026-07-09T17:45:34.829834+09:00",
+ "last_run": "2026-07-09T17:53:04.039297+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
