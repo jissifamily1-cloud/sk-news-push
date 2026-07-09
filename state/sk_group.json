@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=587417",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141218",
-  "https://www.newsis.com/view/NISX20260708_0003700503",
-  "https://www.naeil.com/news/read/594582",
-  "https://www.kwnews.co.kr/article/20260708500388",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260708130546vrA",
   "https://www.etnews.com/20260708000234",
   "https://www.tokenpost.kr/news/economy/375883",
   "https://www.naeil.com/news/read/594657",
@@ -2999,15 +2993,15 @@
   "https://kjmbc.co.kr/NewsArticle/1526863",
   "https://biz.heraldcorp.com/article/10804040",
   "http://www.ujeil.com/news/articleView.html?idxno=388561",
-  "http://www.ujeil.com/news/articleView.html?idxno=388631"
+  "http://www.ujeil.com/news/articleView.html?idxno=388631",
+  "http://www.fnnews.com/news/202607092003274325",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094248",
+  "https://www.news1.kr/economy/trend/6223612",
+  "https://www.yna.co.kr/view/AKR20260709174900001?input=1195m",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272793",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606906"
  ],
  "seen_titles": [
-  "'14兆담합의혹'정유4사,2조원'과징금폭탄'맞나…공정위산정주...",
-  "구윤철\"메가프로젝트신속추진…호남반도체클러스터후속절차진행...",
-  "[중복상장가이드라인]HD현대로보틱스'주총필수',한화에너지'제외...",
-  "[서울데이터랩]코스피거래상위종목혼조세…금호전기상한가,SK하이닉...",
-  "'도박판'비판단일종목레버리지…정부\"보완책마련\"",
-  "[카드뉴스]원정16강진출의2022년카타르!영웅들의근황알아보기2...",
   "[테크家]양자컴퓨터③ㅣ'게임체인저'부상…글로벌협력·산업경쟁...",
   "롤러코스피에도든든한은행주...KB·신한·하나'기관매수집중'",
   "메타가쏘아올린AI투자축소설…월가\"줄이진않는다\"",
@@ -6001,7 +5995,13 @@
   "송영길\"호남,당권의길\"…민주당'호남구애'본격화",
   "반도체주더올라,팔아?…이달말발표가진짜분수령[투자360]",
   "울산,전북과라이벌전연패사슬끊는다",
-  "市,AI데이터센터맞춤형지역인재키운다"
+  "市,AI데이터센터맞춤형지역인재키운다",
+  "李\"몽탄같은상생모델확산\"…LS구자은·포스코장인화등동석",
+  "김대중교육감\"정답만찾는교육바꾼다\"…서술형평가시동",
+  "한-몽경제계,협력강화…핵심광물공통탐사·소비재유통확대추진",
+  "李대통령\"한몽,협력잠재력무궁무진…핵심광물힘합쳐야\"",
+  "SKhynixNASDAQDebutStirsStrongWonExpectations",
+  "[시사플랫폼]“밸류업프로그램으로코리아디스카운트극복하고자본..."
  ],
  "recent_sigs": [
   [
@@ -7119,9 +7119,17 @@
   [
    "2026-07-09T20:44:30.987473+09:00",
    "맞춤형 AI데이터센터 인재 키운다 지역"
+  ],
+  [
+   "2026-07-09T20:51:13.614697+09:00",
+   "Strong Expectations Stirs Won Debut hynix NASDAQ"
+  ],
+  [
+   "2026-07-09T20:51:13.614697+09:00",
+   "극복하고 디스카운트 밸류업 프로그램으로 코리아 자본"
   ]
  ],
- "last_run": "2026-07-09T20:44:49.909559+09:00",
+ "last_run": "2026-07-09T20:51:22.675980+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
