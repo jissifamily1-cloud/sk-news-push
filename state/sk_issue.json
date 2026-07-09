@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11600574",
-  "https://www.khan.co.kr/article/202607061200001",
-  "https://www.yna.co.kr/view/AKR20260706075800052?input=1195m",
-  "https://www.mt.co.kr/society/2026/07/06/2026070611255928612",
-  "https://www.yna.co.kr/view/AKR20260706042651004?input=1195m",
-  "https://news.mtn.co.kr/news-detail/2026070611510161100",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423529",
-  "https://news.mtn.co.kr/news-detail/2026070611272488488",
   "https://www.joongang.co.kr/article/25442711",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03624406645511896",
   "https://www.seoul.co.kr/news/economy/2026/07/06/20260706500066?wlog_tag3=naver",
@@ -2999,17 +2991,17 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=736549",
   "https://news.jtbc.co.kr/article/NB12307452?influxDiv=NAVER",
   "https://www.kyeonggi.com/article/20260709580372",
-  "https://www.mt.co.kr/stock/2026/07/09/2026070916251891909"
+  "https://www.mt.co.kr/stock/2026/07/09/2026070916251891909",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86984",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=660145",
+  "https://www.hani.co.kr/arti/society/society_general/1267543.html",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900284.html",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091353317970578",
+  "https://www.mk.co.kr/article/12094600",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=265837",
+  "http://www.joseilbo.com/news/news_read.php?uid=571619&class=32"
  ],
  "seen_titles": [
-  "합수본,‘투표지부족’관련동작구선관위관계자소환",
-  "경찰청국수본부장‘장윤기부실수사’논란에“수사라인배재한전담...",
-  "음주운전노려고의사고…관광지주변서2억뜯은22명검거",
-  "'14조유가담합'4대정유사기소…\"전쟁6일만공급가40%올려\"",
-  "검찰\"정유4사26조원대유가담합\"…HD현대오일뱅크재판행(종합)",
-  "'제주도기름값짜고친'농협-주유소협회,과징금20.5억부과",
-  "명륜진사갈비운영사,계열대부업체저금리자금지원…공정위심의",
-  "대부업체14개차려'이자장사'…공정위,명륜진사심의착수",
   "중동전쟁틈탄14조원대유가담합...자영주유소갑질기소",
   "농협도‘기름값담합’가담…공정위,제주주유소협회등제재",
   "기름값미리알려주고담합한제주·서귀포농협주유소…과징금20억...",
@@ -6001,7 +5993,15 @@
   "[이슈]경찰증거인멸'장윤기사건'에與내부서도'보완수사권폐지'...",
   "윤측,'체포방해'징역7년확정에\"깊은유감,재판소원할것\"",
   "'마약투약권유'황하나,1심벌금4천만원…법정석방",
-  "'코빗인수'공정위승인…금융·가상자산합종연횡가속화"
+  "'코빗인수'공정위승인…금융·가상자산합종연횡가속화",
+  "ESG의무공시2028년시행확정…주요쟁점은?",
+  "2028년ESG공시의무화…지방은행도대응속도높인다",
+  "[단독]대한체육회공정위,빠르면20일배재고재심논의할듯",
+  "미래에셋코빗인수,공정위는통과…국회지분규제논의주목",
+  "미래에셋,가상자산거래소‘코빗’품었다",
+  "‘마약구속’황하나,눈물흘렸다…벌금형으로풀려난이유가",
+  "경찰,카카오페이압수수색…고객정보알리페이제공혐의",
+  "'체포방해'윤석열,계엄583일만첫유죄판단...\"재판소원으로다툴것..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "코빗 합종연횡 금융 가속화 승인 인수 가상자산"
   ]
  ],
- "last_run": "2026-07-09T17:01:34.399977+09:00",
+ "last_run": "2026-07-09T17:11:37.410005+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
