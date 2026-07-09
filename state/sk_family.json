@@ -2308,7 +2308,15 @@
   "https://www.goodmorningcc.com/news/articleView.html?idxno=448752",
   "https://www.nocutnews.co.kr/news/6545879",
   "https://www.ikbc.co.kr/article/view/kbc202607090057",
-  "https://www.redian.org/news/articleView.html?idxno=256949"
+  "https://www.redian.org/news/articleView.html?idxno=256949",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=352433",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=237334",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264416",
+  "http://www.inews24.com/view/1984134",
+  "https://www.thepublic.kr/news/articleView.html?idxno=310744",
+  "https://news.dealsitetv.com/articles/173086",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311357",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876081"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -4603,7 +4611,15 @@
   "[인사]공주시2026년하반기7월13일자",
   "'최태원동거인중국간첩설'주장유튜버,벌금700만원",
   "SK하이닉스,10일나스닥상장'美흥행예고'...최태원·곽노정방미",
-  "최태원SK그룹회장,SK하이닉스ADR상장기념행사참석...글로벌행보..."
+  "최태원SK그룹회장,SK하이닉스ADR상장기념행사참석...글로벌행보...",
+  "공주시,하반기6급이하승진및전보인사단행",
+  "흥국운용,SK하이닉스공개비판했다하루만에철회…\"개인의견\"",
+  "'최태원동거인중국간첩'허위주장유튜버,1심벌금형",
+  "흥국운용,SK하이닉스비판주주서한하루만에철회",
+  "최태원,SK하이닉스나스닥입성지원…글로벌AI세일즈나선다",
+  "[퇴근길7분뉴스]윤석열징역7년·성장률2.6%·주담대3억",
+  "SK하이닉스ADR흥행,AI메모리공급망판키운다",
+  "이재용·최태원,재계투톱미국행…미투자압박이향후변수"
  ],
  "recent_sigs": [
   [
@@ -4777,9 +4793,21 @@
   [
    "2026-07-09T16:20:45.778174+09:00",
    "것들 채워야 메가프로젝트 토마토칼럼"
+  ],
+  [
+   "2026-07-09T16:40:36.985740+09:00",
+   "윤석열징역7년 성장률2 주담대3억"
+  ],
+  [
+   "2026-07-09T16:40:36.985740+09:00",
+   "SK하이닉스 AI 흥행 ADR 공급망 메모리 키운다"
+  ],
+  [
+   "2026-07-09T16:40:36.985740+09:00",
+   "투톱 재계 미국행 압박이 변수 이재용 투자 향후"
   ]
  ],
- "last_run": "2026-07-09T16:31:05.228432+09:00",
+ "last_run": "2026-07-09T16:40:57.760800+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -4913,6 +4941,7 @@
   "esgeconomy.com": "ESG경제",
   "fntimes.com": "한국금융신문",
   "busan.com": "부산일보",
-  "dkilbo.com": "대경일보"
+  "dkilbo.com": "대경일보",
+  "news.dealsitetv.com": "news.dealsitetv.com"
  }
 }
