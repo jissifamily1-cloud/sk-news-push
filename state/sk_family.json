@@ -2273,7 +2273,13 @@
   "https://www.kukinews.com/article/view/kuk202607090130",
   "http://www.metroseoul.co.kr/article/20260709500360",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=6289",
-  "https://www.eroun.net/news/articleView.html?idxno=85007"
+  "https://www.eroun.net/news/articleView.html?idxno=85007",
+  "https://imnews.imbc.com/news/2026/society/article/6836249_36918.html",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1087559",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=265817",
+  "https://biz.sbs.co.kr/article_hub/20000321600?division=NAVER",
+  "https://www.dkilbo.com/news/articleView.html?idxno=548237",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272711"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -4533,17 +4539,15 @@
   "“전력없이반도체?”…주호영,‘반도체인프라’점검토론회개최",
   "李대통령,몽골국빈방문…\"핵심광물은전략자산…한·몽파트너될수...",
   "최태원말고고승범에게...SK하닉관련2가지질문[전문]",
-  "AI시대사회적가치도'측정의시대'...SK·소프트뱅크,글로벌기준마..."
+  "AI시대사회적가치도'측정의시대'...SK·소프트뱅크,글로벌기준마...",
+  "'배터리아저씨'박순혁,최태원동거인中간첩설유포1심벌금형",
+  "\"톡톡튀는아이디어가브랜드를바꿨다\"…남서울대산학협력프로젝트...",
+  "\"최태원동거인김희영,중국간첩\"유튜버주장…법원,벌금700만원",
+  "또500p출렁…코스피나흘만에반등",
+  "[기자수첩]오기의연저지인(吮疽之仁),대통령의찬사와삼성의짊어진...",
+  "사회적가치연구원•SK텔레콤•일본소프트뱅크,2차업무협약체결"
  ],
  "recent_sigs": [
-  [
-   "2026-07-09T09:40:33.811291+09:00",
-   "CEO와 방송 뉴먼 퓨처럼그룹 찾는 대담 다니엘"
-  ],
-  [
-   "2026-07-09T09:40:33.811291+09:00",
-   "나스닥 회장 SK하닉 ADR상장 출발 미국으로"
-  ],
   [
    "2026-07-09T09:50:35.336587+09:00",
    "지적 패싱 하이닉스에 이사회 주주서한 날아든 호남팹 발표"
@@ -4719,9 +4723,21 @@
   [
    "2026-07-09T15:30:48.353906+09:00",
    "AI 측정의 사회적가치도 글로벌 기준 시대 소프트뱅크"
+  ],
+  [
+   "2026-07-09T15:40:36.493321+09:00",
+   "500p 만에 나흘 반등 코스피 출렁"
+  ],
+  [
+   "2026-07-09T15:40:36.493321+09:00",
+   "대통령의 연저지인 찬사와 삼성의 짊어진 오기의"
+  ],
+  [
+   "2026-07-09T15:40:36.493321+09:00",
+   "SK텔레콤 2차 일본 체결 소프트뱅크 업무협약 사회적가치연구원"
   ]
  ],
- "last_run": "2026-07-09T15:31:02.539826+09:00",
+ "last_run": "2026-07-09T15:40:55.856146+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -4854,6 +4870,7 @@
   "seoulfn.com": "서울파이낸스",
   "esgeconomy.com": "ESG경제",
   "fntimes.com": "한국금융신문",
-  "busan.com": "부산일보"
+  "busan.com": "부산일보",
+  "dkilbo.com": "대경일보"
  }
 }
