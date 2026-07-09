@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12306632?influxDiv=NAVER",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715120",
-  "https://biz.chosun.com/policy/policy_sub/2026/07/05/M2VDBN5Z7REVNCQNNJRSCVZ2YA/",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203902",
-  "https://www.ajunews.com/view/20260705134932381",
-  "https://www.mediapen.com/news/view/1108269",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=603672",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008642252&plink=ORI&cooper=NAVER",
-  "https://www.newsis.com/view/NISX20260705_0003696267",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050055&t=NN",
   "https://imnews.imbc.com/news/2026/econo/article/6835098_36932.html",
   "https://www.news1.kr/industry/distribution/6218033",
@@ -2999,18 +2990,18 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7172747",
   "https://www.viva100.com/article/20260709500704",
   "http://www.mjmedi.com/news/articleView.html?idxno=62830",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090258&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090258&t=NN",
+  "https://www.naeil.com/news/read/594784",
+  "https://www.naeil.com/news/read/594794",
+  "https://sateconomy.co.kr/news/view/1065585731618988",
+  "https://www.lawtv.kr/news/articleView.html?idxno=60383",
+  "https://www.incheontoday.com/news/articleView.html?idxno=321025",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03991766645512880",
+  "https://www.naeil.com/news/read/594812",
+  "https://www.naeil.com/news/read/594781",
+  "https://www.ytn.co.kr/_ln/0101_202607091257189135"
  ],
  "seen_titles": [
-  "경찰,장윤기범행차량도압수안해…아버지에넘겨",
-  "에스원·에스텍시스템'아파트경비용역'담합…9억대과징금제재",
-  "‘아파트경비입찰담합혐의’에스원·에스텍시스템,공정위과징금...",
-  "사전경고있었는데도…'투표용지부족'부실대응정황",
-  "'투표용지부족'알고도손놨나…합수본,선관위메일확보",
-  "아파트경비용역입찰담합적발…에스원·에스텍시스템과징금9억700...",
-  "공정위,아파트통합경비용역입찰담합2개사업자에시정명령∙과징...",
-  "공정위,아파트경비입찰담합한에스원·에스텍에과징금9.7억부과",
-  "합수본,'투표용지부족경고'선관위내부업무연락확보",
   "\"용지부족대비\"경고에도…지역선관위부실대응정황",
   "아파트경비용역담합경비업체두곳에9억7천만원과징금",
   "美\"韓,쿠팡에범정부공격\"…잘나가는수출전선'부메랑'우려",
@@ -6001,7 +5992,16 @@
   "혁신형제약사인증의그늘…中企'생존절벽'",
   "미래에셋,코빗품었다…공정위,기업결합승인",
   "자생,\"한약보험사기혐의는근거없는일방적주장\"반박",
-  "의료용마약에빠진의사들…허위처방전만4천장"
+  "의료용마약에빠진의사들…허위처방전만4천장",
+  "YK스틸‘고철담합’과징금381억판결",
+  "한국엔지니어링플라스틱검찰조사받는다",
+  "사모펀드MBK의명암",
+  "'장윤기사건'에이어또檢보완수사로'계획살인'드러나",
+  "[단독]롤스로이스·맥라렌빌린지방선거낙선후보2700만원'먹튀'",
+  "경찰,'수백억보험사기피고소'자생한방병원압수수색(종합)",
+  "정이한전부산시장후보구속",
+  "사라진장윤기사건증거에경찰신뢰‘흔들’",
+  "계엄583일만에윤석열'체포방해'대법선고...전망은?"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "최태원 티앤씨재단 둥지 한국고등교육재단에 김희영의"
   ]
  ],
- "last_run": "2026-07-09T13:01:30.934969+09:00",
+ "last_run": "2026-07-09T13:11:25.615458+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
