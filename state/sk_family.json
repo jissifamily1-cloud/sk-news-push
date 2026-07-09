@@ -2477,7 +2477,11 @@
   "https://biz.heraldcorp.com/article/10804242",
   "https://www.ajunews.com/view/20260709220008609",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424260",
-  "http://www.fnnews.com/news/202607092120452650"
+  "http://www.fnnews.com/news/202607092120452650",
+  "http://www.kgnews.co.kr/news/article.html?no=903352",
+  "https://www.kukinews.com/article/view/kuk202607090191",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306651&inflow=N",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165509"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -4941,10 +4945,31 @@
   "李대통령“한-몽,핵심광물든든한파트너로힘합쳐야”",
   "[종합]'몽탄모델'제시한李\"상호호혜적협력모델더확산시켜야\"",
   "韓·몽골경제계,핵심광물·디지털협력확대…MOU21건체결",
-  "李\"유통서시작된‘몽탄’모델다양한분야로확산시키자\""
+  "李\"유통서시작된‘몽탄’모델다양한분야로확산시키자\"",
+  "[엄태윤의마켓인텔리전스]SK하이닉스의나스닥상장과미래전략",
+  "SK하이닉스,美상장으로자금수혈…전액시설투자로주도권굳히기",
+  "(시론)3대메가프로젝트는탄소중립포기선언?",
+  "파운드리부활·37조잭팟…이재용·최태원,美서반도체정면돌파"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-10T06:00:49.257329+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-10T06:10:24.228526+09:00",
+   "SK하이닉스의 상장과 미래전략 나스닥"
+  ],
+  [
+   "2026-07-10T06:10:24.228526+09:00",
+   "수혈 전액 자금 상장으로 투자로 굳히기 SK하이닉스 시설 주도권"
+  ],
+  [
+   "2026-07-10T06:10:24.228526+09:00",
+   "메가프로젝트는 시론 포기 탄소중립 선언 3대"
+  ],
+  [
+   "2026-07-10T06:10:24.228526+09:00",
+   "파운드리 정면돌파 이재용 잭팟 37조 반도체 부활"
+  ]
+ ],
+ "last_run": "2026-07-10T06:10:44.479492+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -5082,6 +5107,7 @@
   "news.dealsitetv.com": "news.dealsitetv.com",
   "newsway.co.kr": "뉴스웨이",
   "ngetnews.com": "뉴스저널리즘",
-  "joseilbo.com": "joseilbo.com"
+  "joseilbo.com": "joseilbo.com",
+  "kukinews.com": "kukinews.com"
  }
 }
