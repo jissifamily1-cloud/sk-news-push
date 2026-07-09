@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4093254",
-  "https://www.yna.co.kr/view/AKR20260706081700061?input=1195m",
-  "https://www.ytn.co.kr/_ln/0103_202607061304153861",
-  "https://www.ekn.kr/web/view.php?key=20260706021219529",
-  "https://m.skyedaily.com/news_view.html?ID=307255",
-  "https://www.youthdaily.co.kr/news/article.html?no=222356",
   "http://www.fnnews.com/news/202607061323015151",
   "http://www.fnnews.com/news/202607061203155382",
   "https://kormedi.com/?p=2831435",
@@ -2999,15 +2993,15 @@
   "https://biz.heraldcorp.com/article/10803869",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6836330_37004.html",
   "https://www.khan.co.kr/article/202607092054005",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260709204927w30"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260709204927w30",
+  "https://www.mydaily.co.kr/page/view/2026070918103899702",
+  "https://jejumbc.com/NewsArticle/850152",
+  "https://www.mt.co.kr/society/2026/07/09/2026070920122817550",
+  "https://www.thepublic.kr/news/articleView.html?idxno=310784",
+  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=286965",
+  "https://www.mk.co.kr/article/12094852"
  ],
  "seen_titles": [
-  "공정위,제주지역주유소가격담합적발…과징금총20억5,000만원부...",
-  "경찰,'태움'사망간호사일기장분석…\"진정내용확인\"",
-  "[뉴스나우]장윤기,성범죄계획정황...'부실수사'팀장긴급체포",
-  "“우리올해2조원벌듯”…검찰,국내정유사26조원‘유가담합’...",
-  "정유4사유가담합기소…검찰\"국민피해14조원\"",
-  "대부업체'부당지원의혹'심판대…공정위,명륜당'217억규모저금리...",
   "\"'휘발유50원올리자'…공정위,제주주유소기름값담합제재",
   "'전쟁으로먹고사는회사,트럼프만세'...檢,'14조유가담합'정유4사...",
   "해외의료연수생이한국에서수술집도?…이대로괜찮을까",
@@ -6001,7 +5995,13 @@
   "황하나,마약범죄또저질렀는데‘석방’…法“중대성크지않아”",
   "[단독]'820억보험사기'자생한방압수수색‥'공장식한약'처방?",
   "미래에셋‘코빗’인수승인…‘금가분리’깬공정위",
-  "尹'체포방해'징역7년확정…\"수사모두적법\""
+  "尹'체포방해'징역7년확정…\"수사모두적법\"",
+  "“완판했는데적자?”…K-뷰티등용문된올리브영의‘두얼굴’",
+  "특별회비1억걷은태권도협회‥공정위조사착수",
+  "장윤기,검찰송치전경찰관부친과3차례면담…녹음파일확보",
+  "해경이놓친'동해시장뇌물'…검찰보완수사로드러났다",
+  "\"선거에유리하려고범행\"..선거전이미시인",
+  "“내보험료여기서다올린건가”…자생한방병원보험사기압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "코빗 합종연횡 금융 가속화 승인 인수 가상자산"
   ]
  ],
- "last_run": "2026-07-09T21:01:13.106132+09:00",
+ "last_run": "2026-07-09T21:15:26.529722+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
