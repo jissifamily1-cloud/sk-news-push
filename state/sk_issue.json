@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25442711",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03624406645511896",
-  "https://www.seoul.co.kr/news/economy/2026/07/06/20260706500066?wlog_tag3=naver",
-  "https://www.hani.co.kr/arti/economy/economy_general/1266876.html",
   "https://www.kukinews.com/article/view/kuk202607060013",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03614566645511896",
   "https://biz.sbs.co.kr/article_hub/20000320831?division=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091353317970578",
   "https://www.mk.co.kr/article/12094600",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=265837",
-  "http://www.joseilbo.com/news/news_read.php?uid=571619&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=571619&class=32",
+  "https://www.betanews.net/article/view/beta202607090058",
+  "https://byline.network/?p=9004111222611507",
+  "https://www.hankyung.com/article/202607095998H",
+  "https://www.mydaily.co.kr/page/view/2026070917125806141"
  ],
  "seen_titles": [
-  "중동전쟁틈탄14조원대유가담합...자영주유소갑질기소",
-  "농협도‘기름값담합’가담…공정위,제주주유소협회등제재",
-  "기름값미리알려주고담합한제주·서귀포농협주유소…과징금20억...",
-  "‘휘발유판매가격결정’제주주유소협회·농협에과징금20억원",
   "“정책자금으로계열대부업체지원”…공정위,명륜당제재착수",
   "명륜당자금줄겨눈공정위…과징금최대347억+α",
   "아파트관리비폭탄원인?…에스원담합적발",
@@ -6001,7 +5997,11 @@
   "미래에셋,가상자산거래소‘코빗’품었다",
   "‘마약구속’황하나,눈물흘렸다…벌금형으로풀려난이유가",
   "경찰,카카오페이압수수색…고객정보알리페이제공혐의",
-  "'체포방해'윤석열,계엄583일만첫유죄판단...\"재판소원으로다툴것..."
+  "'체포방해'윤석열,계엄583일만첫유죄판단...\"재판소원으로다툴것...",
+  "“전통·디지털자산경계허물고글로벌투자생태계연결”...미래에셋...",
+  "미래에셋그룹,코빗품는다…디지털금융생태계구축시동",
+  "[오늘의이슈브리핑]자생한방병원압수수색…보험사기철퇴?",
+  "4000만명고객정보中으로?…경찰,카카오페이압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "코빗 합종연횡 금융 가속화 승인 인수 가상자산"
   ]
  ],
- "last_run": "2026-07-09T17:11:37.410005+09:00",
+ "last_run": "2026-07-09T17:22:40.482026+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
