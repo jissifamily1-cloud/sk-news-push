@@ -2181,7 +2181,10 @@
   "https://view.asiae.co.kr/article/2026070909111497721",
   "https://www.donga.com/news/Economy/article/all/20260709/134265860/1",
   "https://www.yna.co.kr/view/AKR20260709095100001?input=1195m",
-  "https://biz.chosun.com/stock/stock_general/2026/07/09/JO4M2UFUUBE4NGBU7JSVKE33H4/"
+  "https://biz.chosun.com/stock/stock_general/2026/07/09/JO4M2UFUUBE4NGBU7JSVKE33H4/",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105014",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03876966645512880",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633019"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -4349,13 +4352,12 @@
   "나스닥공모7배초과흥행SK하이닉스…40조안팎실탄어디에쓰나",
   "최태원,10일SK하이닉스ADR나스닥상장기념식참석",
   "국힘,반도체토론회…\"호남발표,대통령위한정략적결정\"",
-  "코스피,장초반반등세꺾여약세전환…코스닥도다시800선아래"
+  "코스피,장초반반등세꺾여약세전환…코스닥도다시800선아래",
+  "최태원,'260조잭팟'SK하이닉스미래제시",
+  "'3대메가프로젝트'인재키운다…지방대정원외선발·편입확대",
+  "\"SK하이닉스1100조원중장기투자,이사회결의여부결정해야\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-09T06:10:35.426365+09:00",
-   "현대차 각양 해답 총수가 찾는 제시하는 방향 재계 본부장들이"
-  ],
   [
    "2026-07-09T06:20:35.189728+09:00",
    "이혼소송 9일 1심 선고 9월 만에 4년 결론 권혁빈 이혼 세기의"
@@ -4491,9 +4493,21 @@
   [
    "2026-07-09T12:00:48.121344+09:00",
    "꺾여 다시 아래 코스닥도 800선 반등세 초반 코스피 약세"
+  ],
+  [
+   "2026-07-09T12:10:37.826852+09:00",
+   "260조 미래 SK하이닉스 잭팟 제시"
+  ],
+  [
+   "2026-07-09T12:10:37.826852+09:00",
+   "지방대 선발 정원 확대 키운다 편입 메가프로젝트 인재 3대"
+  ],
+  [
+   "2026-07-09T12:10:37.826852+09:00",
+   "이사회 여부 투자 결의 중장기 1100조원 SK하이닉스 결정해야"
   ]
  ],
- "last_run": "2026-07-09T12:01:01.270031+09:00",
+ "last_run": "2026-07-09T12:10:56.696146+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -4621,6 +4635,8 @@
   "autodaily.co.kr": "엠투데이",
   "dailybrief.co.kr": "데일리브리프",
   "socialvalue.kr": "socialvalue.kr",
-  "wowtv.co.kr": "wowtv.co.kr"
+  "wowtv.co.kr": "wowtv.co.kr",
+  "00news.co.kr": "공공뉴스",
+  "seoulfn.com": "서울파이낸스"
  }
 }
