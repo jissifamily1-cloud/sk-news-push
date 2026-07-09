@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/economy/trend/6218792",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603018",
-  "https://biz.chosun.com/topics/topics_social/2026/07/06/VZSLTQ2W5NFP5ESLHVGNWUQD2M/",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6835276_36967.html",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260706.99099001485",
-  "http://www.jejunews.com/news/articleView.html?idxno=2226525",
-  "https://www.dt.co.kr/article/12071330",
-  "https://www.newsis.com/view/NISX20260706_0003697241",
-  "https://www.news1.kr/society/court-prosecution/6218833",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260706123959nSf",
-  "https://www.gokorea.kr/news/articleView.html?idxno=871274",
   "https://www.gokorea.kr/news/articleView.html?idxno=871275",
   "https://www.gokorea.kr/news/articleView.html?idxno=871277",
   "http://www.yonhapnewstv.co.kr/news/MYH20260706123745PKA",
@@ -2999,20 +2988,20 @@
   "https://www.thereport.co.kr/news/articleView.html?idxno=89490",
   "https://www.mt.co.kr/thebio/2026/07/09/2026070917390326944",
   "https://magazine.hankyung.com/business/article/202607096147b",
-  "https://www.nocutnews.co.kr/news/6545990"
+  "https://www.nocutnews.co.kr/news/6545990",
+  "https://www.namdonews.com/news/articleView.html?idxno=916498",
+  "https://www.hankyung.com/article/2026070961671",
+  "https://zdnet.co.kr/view/?no=20260709175227",
+  "https://www.koscaj.com/news/articleView.html?idxno=325202",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204912",
+  "https://view.asiae.co.kr/article/2026070917591199279",
+  "https://www.ytn.co.kr/_ln/0103_202607091804383644",
+  "https://www.cstimes.com/news/articleView.html?idxno=712907",
+  "https://www.mk.co.kr/article/12094760",
+  "https://www.news1.kr/local/gyeonggi/6223521",
+  "https://www.hani.co.kr/arti/society/society_general/1267558.html"
  ],
  "seen_titles": [
-  "\"내일휘발유50원올리죠\"…제주주유소'기름값담합'과징금20억",
-  "공정위,한국주유소협회제주도지회과징금부과…“경질유가격결정해...",
-  "장윤기사건수사‘경찰가족감싸기의혹’에국가수사본부장“명운...",
-  "'장윤기사건'수사팀장긴급체포‥증거인멸혐의",
-  "공정위,계열대부업체에자금부당지원한명륜당(명륜진사갈비)제재",
-  "제주주유소기름값담합적발…과징금20억5000만원",
-  "비싼기름값,이유있었다…제주주유소협회등과징금21억",
-  "4대정유사,자기들은'담합'주유소엔'갑질'…정부엔'거짓말'(종합)",
-  "경찰에룸살롱제공한양정원남편…\"술자리했지만아내사건때문아...",
-  "\"명륜당,계열대부업체부당지원\"…공정위제재착수",
-  "국내정유사,26조유가담합의혹…검찰수사착수",
   "명륜진사갈비,저금리자금으로고금리대출…공정위심의착수",
   "제주주유소-농협담합…소비자가격최대150원상승충격",
   "장윤기사건수사팀장긴급체포…국수본부장\"유구무언\"",
@@ -6001,7 +5990,18 @@
   "윤석열'체포방해'대법원징역7년확정",
   "'보험금사기의혹'자생한방병원\"공장제조한약처방?사실아냐\"",
   "'4000만명정보유출'...경찰,카카오페이압수수색",
-  "경찰,검찰에강제수사당하고시민단체에푸나?"
+  "경찰,검찰에강제수사당하고시민단체에푸나?",
+  "[신간안내]안방습격한독극물33년…국가·기업이공모한'하얀죽음'",
+  "공정위,미래에셋의코빗인수승인",
+  "코빗인수승인받은미래에셋…디지털자산협업,‘제도’에달려",
+  "에너지비용,하도급대금연동제내달시행",
+  "'황당하다'는말로도부족한정이한행각…선거캠프는몰랐나",
+  "'지인에마약투약'황하나,1심서벌금형4000만원",
+  "\"대통령수사가능\"첫대법판단...공수처수사권도인정",
+  "자생한방병원\"압수수색협조…과거유사의혹8건이미'혐의없음'처분...",
+  "警,자생한방병원압수수색…수백억원대보험사기의혹",
+  "지인2명에필로폰투약황하나,1심마약'무죄'…도피만'유죄'",
+  "대법“공수처내란수사적법”…체포방해유죄윤석열남은재판7개"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "코빗 합종연횡 금융 가속화 승인 인수 가상자산"
   ]
  ],
- "last_run": "2026-07-09T18:01:40.401448+09:00",
+ "last_run": "2026-07-09T18:11:37.338155+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
