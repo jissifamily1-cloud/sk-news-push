@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=166254",
-  "https://www.newspim.com/news/view/20260706000592",
-  "https://www.viva100.com/article/20260706500663",
-  "https://www.banronbodo.com/news/articleView.html?idxno=32577",
-  "https://www.pressian.com/pages/articles/2026070611110957215",
-  "https://www.chosun.com/economy/economy_general/2026/07/06/SLF6LVF5YRF4JCUMDB3GWI5YSE/",
-  "https://www.jejudomin.co.kr/news/articleView.html?idxno=320433",
-  "https://www.naeil.com/news/read/594329",
   "http://www.intn.co.kr/news/articleView.html?idxno=2051734",
   "http://www.intn.co.kr/news/articleView.html?idxno=2051733",
   "https://www.delighti.co.kr/news/articleView.html?idxno=118636",
@@ -2999,17 +2991,17 @@
   "https://www.namdonews.com/news/articleView.html?idxno=916514",
   "http://www.inews24.com/view/1984196",
   "http://www.celuvmedia.com/article.php?aid=1783587854523763006",
-  "https://www.ikbc.co.kr/article/view/kbc202607090078"
+  "https://www.ikbc.co.kr/article/view/kbc202607090078",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=119691",
+  "https://www.news1.kr/local/gwangju-jeonnam/6223569",
+  "https://news.jtbc.co.kr/article/NB12307477?influxDiv=NAVER",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028557",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=279765",
+  "https://www.khan.co.kr/article/202607091842001",
+  "http://www.jndn.com/article.php?aid=1783589899435842005",
+  "https://www.newsgn.com/news/articleView.html?idxno=561544"
  ],
  "seen_titles": [
-  "공정위,명륜당'저금리자금지원'심의착수…과징금최대347억전망",
-  "[종합]\"전쟁으로먹고산다\"…검찰,'26조유가담합'정유4사등기소",
-  "정책자금으로‘돈놀이‘…명륜당,공정위심판대오른다",
-  "[ESG공시릴레이③]지속가능경영,실행넘어관리체계로…제약업계도...",
-  "[문상윤의로컬푸드이야기]'로컬푸드'라고다착할까?",
-  "육지보다비싼휘발유가는담합때문?공정위,제주주유소협회등에과...",
-  "\"휘발유50원·경유140원올려불게\"…제주서농협-주유소기름값담합...",
-  "‘유가담합·갑질’4대정유회사재판행",
   "공정위,명륜당부당한지원행위심의절차개시",
   "공정위,(사)한국주유소협회제주도지회과징금20.5억부과",
   "명륜당의정책자금계열대부업체에저리대여…공정위,제재착수",
@@ -6001,7 +5993,15 @@
   "오월단체\"'진정성사과'배재고,선처해야\"",
   "체포방해'징역7년'확정...尹\"재판소원내다투겠다\"[종합]",
   "'마약투약'황하나,1심서벌금형…7개월만석방후눈물",
-  "박지원\"김민석계엄국회헐레벌떡CCTV,누가김어준줬는지아는데....."
+  "박지원\"김민석계엄국회헐레벌떡CCTV,누가김어준줬는지아는데.....",
+  "공정위,솔리드웍스판매사8곳담합적발···과징금23.7억",
+  "장윤기父子유치장서3차례총1시간면담…특별수사팀녹취확보",
+  "윤석열'체포방해'징역7년확정…계엄선포583일만",
+  "4000명개인정보중국유출혐의…경찰,카카오페이본사압수수색",
+  "장윤기사건수사팀장구속…시민단체\"이제시작\"제3기관재수사촉...",
+  "[사설]윤석열체포방해유죄확정,관저달려간국힘의원들사죄해야",
+  "검경‘장윤기사건’유착의혹정조준…경찰비위수면위",
+  "대법,尹'체포방해'징역7년…계엄583일만에첫확정"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "코빗 합종연횡 금융 가속화 승인 인수 가상자산"
   ]
  ],
- "last_run": "2026-07-09T18:41:31.493123+09:00",
+ "last_run": "2026-07-09T18:55:39.892106+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
