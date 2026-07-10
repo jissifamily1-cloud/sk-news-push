@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3049547",
-  "https://kormedi.com/?p=2831762",
-  "https://www.hankyung.com/article/2026070686627",
-  "https://www.news1.kr/local/gwangju-jeonnam/6219369",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204157",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=553021",
-  "https://www.sedaily.com/article/20064368",
   "https://www.inews365.com/news/article.html?no=926443",
   "https://news.tf.co.kr/read/economy/2340297.htm",
   "https://www.news1.kr/it-science/general-it/6219233",
@@ -2999,16 +2992,16 @@
   "https://www.mt.co.kr/society/2026/07/10/2026071016442192125",
   "http://www.updownnews.co.kr/news/articleView.html?idxno=317932",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049131",
-  "https://www.khan.co.kr/article/202607101701001"
+  "https://www.khan.co.kr/article/202607101701001",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467463",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04588726645513208",
+  "https://www.hankookilbo.com/news/article/A2026071016120003417?did=NA",
+  "https://www.bloter.net/news/articleView.html?idxno=667825",
+  "https://news.knn.co.kr/news/article/189908",
+  "https://www.ppss.kr/news/articleView.html?idxno=301834",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090271.html"
  ],
  "seen_titles": [
-  "미승인모기약판매제한…동국제약,'디펜스벅스'로기피제수요정조...",
-  "에프킬라판매중단?…\"모기약못산다\"는소문의진실",
-  "네이버파이낸셜·두나무주식교환3개월연기…12월31일예정",
-  "\"5·18은간첩소행\"AI로가짜신문만들어유포20대검거",
-  "경찰이놓친장윤기차량속'케이블타이'…납치·강간핵심증거",
-  "장윤기사건,광주지휘라인배제·경찰청본청수사팀투입",
-  "전쟁틈타폭리…26조유가담합적발",
   "경찰,'당원명부유출·경선개입의혹'이강일의원통신기록확보",
   "네이버파이낸셜·두나무합병,연말로재연기",
   "네이버파이낸셜·두나무,주식교환일정연말로…3개월연기",
@@ -6001,7 +5994,14 @@
   "마약정보원에수사정보유출의혹…광진서경찰관직위해제",
   "자생한방병원압수수색...자동차보험한방진료논란재점화되나",
   "광주경찰,'장윤기사건'첫해명…핵심의혹엔'침묵'",
-  "[단독]종합특검,‘관저조작감사의혹’유병호에13일조사통보"
+  "[단독]종합특검,‘관저조작감사의혹’유병호에13일조사통보",
+  "공정위문턱넘은미래에셋코빗인수…특금법대주주검증남았다",
+  "'지역비하구호'배재고야구부징계재심의…14일일정결정",
+  "마약피의자와'수상한거래'…수사정보넘긴현직경찰직위해제",
+  "손해보험업계'누수차단'총력…사기·과잉진료에강경맞대응",
+  "경찰,전국자생한방병원보험사기의혹수사",
+  "AI신사업허위공시로주가띄웠나…합동대응단,'알파AI'압수수색",
+  "\"장윤기아버지,공모정황없어조사안해\"…광주경찰'부실수사의혹'..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 알파AI 한성기업 지역화폐성과급"
   ]
  ],
- "last_run": "2026-07-10T17:21:00.021740+09:00",
+ "last_run": "2026-07-10T17:31:09.347189+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
