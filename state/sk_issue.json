@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000320883?division=NAVER",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=91862",
   "https://biz.sbs.co.kr/article_hub/20000320882?division=NAVER",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51296",
   "https://news.jtbc.co.kr/article/NB12306803?influxDiv=NAVER",
@@ -2999,11 +2997,11 @@
   "https://www.naeil.com/news/read/594950",
   "https://news.tf.co.kr/read/economy/2342001.htm",
   "https://www.ktv.go.kr/content/view?content_id=757731",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244108"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244108",
+  "https://view.asiae.co.kr/article/2026071013173689104",
+  "https://www.naeil.com/news/read/594958"
  ],
  "seen_titles": [
-  "명륜진사갈비점주90%당했다…14개대부업체로'돈놀이'",
-  "LG,상생결제2·3차협력사로확대…공급망안정강화",
   "검찰,정유4사'유가담합'기소…전쟁틈타가격올렸나",
   "보완수사없으면'유착'덮었을까…경찰\"명운걸고수사\"",
   "장윤기아버지에압수물·영장내용까지알려준경찰…의혹증폭",
@@ -6001,7 +5999,9 @@
   "두원공조‘기술유용’과징금감액판결",
   "증권사·코인거래소합종연횡속…빗썸만'지배구조·규제리스크'에발...",
   "나도모르게빠진구독료···9월부터한번에조회된다",
-  "\"중국에4천만명개인정보제공\"카카오페이압수수색"
+  "\"중국에4천만명개인정보제공\"카카오페이압수수색",
+  "\"또주가조작\"…합동대응단,코스닥상장사압수수색",
+  "“공수처수사적법”…내란재판영향"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "지원 협력사 4조 투입해 신규자금"
   ]
  ],
- "last_run": "2026-07-10T13:11:04.430165+09:00",
+ "last_run": "2026-07-10T13:21:06.220182+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
