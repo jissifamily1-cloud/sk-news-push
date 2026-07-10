@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260706180820R8N",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=89363",
-  "https://www.newsgn.com/news/articleView.html?idxno=560856",
-  "https://www.hankyung.com/article/2026070686961",
-  "https://www.khan.co.kr/article/202607061810001",
-  "https://www.sedaily.com/article/20064418",
-  "https://view.asiae.co.kr/article/2026070617593101884",
-  "http://www.gndomin.com/news/articleView.html?idxno=481182",
-  "https://www.newsgn.com/news/articleView.html?idxno=560757",
-  "http://www.jndn.com/article.php?aid=1783328434435562008",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008643156&plink=ORI&cooper=NAVER",
   "https://www.segye.com/newsView/20260706516956?OutUrl=naver",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04874086645511896",
   "https://www.news1.kr/finance/blockchain-fintech/6219301",
@@ -2999,20 +2988,20 @@
   "https://slownews.kr/163060",
   "http://www.yonhapnewstv.co.kr/news/AKR20260710174735Q6I",
   "https://www.medipana.com/news/articleView.html?idxno=414425",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223427"
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223427",
+  "https://bizhankook.com/articles/139267.html",
+  "https://news.tf.co.kr/read/life/2342178.htm",
+  "https://news.tf.co.kr/read/life/2342192.htm",
+  "https://www.yna.co.kr/view/AKR20260710150300004?input=1195m",
+  "https://www.news1.kr/society/court-prosecution/6224681",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260710175658Dzc",
+  "https://www.sedaily.com/article/20066388",
+  "https://www.ytn.co.kr/_ln/0103_202607101754139367",
+  "http://www.srtimes.kr/news/articleView.html?idxno=207286",
+  "https://www.gokorea.kr/news/articleView.html?idxno=871780",
+  "https://www.newsis.com/view/NISX20260710_0003704865"
  ],
  "seen_titles": [
-  "네이버파이낸셜·두나무주식교환또연기…오는12월31일예정",
-  "제주주유소협회·농협'가격담합'···과징금20억5000만",
-  "4대정유사26조원대유가담합적발…허위보고까지",
-  "네이버파이낸셜·두나무합병또연기",
-  "[사설]장윤기증거인멸한광산서수사팀장,이런경찰어떻게통제할건...",
-  "정무위되찾은與‘주가누르기방지법·부동산감독원설치’입법드라...",
-  "'여고생살해범'장윤기차량서사라진'결박도구'…수사팀증거인멸...",
-  "관광지주변서음주운전노려고의사고2억뜯은22명검거",
-  "주요관광지에서2억원대보험사기·공동공갈일당22명검거...주범3명...",
-  "'장윤기사건'은폐·유착의혹철저히밝혀야",
-  "[AFTER8NEWS][단독]파면팔수록'경악',수사팀장도연루?…'선넘은'...",
   "[단독]종합특검,21그램대표구속영장청구…법원서기각",
   "던킨,가맹점주에도넛채반등강매…法\"21억과징금정당\"",
   "두나무-네이버파이낸셜주식교환두번째연기…일정6개월밀렸다",
@@ -6001,7 +5990,18 @@
   "'호갱'한국:왜기업이잘못해도소비자만더피해볼까",
   "\"장윤기부친공모정황없어조사안해\"…광주경찰,첫해명",
   "한방자보진료수사계기…한특위\"제도전반손봐야\"",
-  "대한변협\"형사사법제도개편,국민피해방지·실체적진실발견중심..."
+  "대한변협\"형사사법제도개편,국민피해방지·실체적진실발견중심...",
+  "\"맹탕은아니다\"ESG공시로드맵최종안,각계반응은?",
+  "마약수사정보거래…현직경찰관,직위해제",
+  "특검,'관저이전봐주기감사의혹'유병호13일조사",
+  "특검,'관저이전부실감사'유병호감사위원13일피의자소환",
+  "종합특검,'관저이전부실감사'유병호감사위원13일소환",
+  "[앵커리포트]경찰\"대대적쇄신할것\"…불신키우는유착의혹",
+  "허위공시에시세조종…‘200억부당이득’혐의알파AI압수수색",
+  "마약수사정보거래의혹...광진서경감경찰수사",
+  "경찰,자생한방병원압수수색…한방자보진료관행수사본격화",
+  "광주경찰청의장윤기사건발표…부실수사및증거인멸의혹여전",
+  "종합특검,유병호前사무총장13일소환…'관저부실감사'의혹"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 알파AI 한성기업 지역화폐성과급"
   ]
  ],
- "last_run": "2026-07-10T17:51:06.050973+09:00",
+ "last_run": "2026-07-10T18:01:18.815294+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
