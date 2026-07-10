@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61372",
-  "http://www.fnnews.com/news/202607091240551953",
-  "https://www.dailian.co.kr/news/view/1665287/?sc=Naver",
-  "https://www.sisajournal.com/news/articleView.html?idxno=379258",
-  "http://www.newsbrite.net/news/articleView.html?idxno=199161",
   "http://www.metroseoul.co.kr/article/20260709500200",
   "https://m.skyedaily.com/news_view.html?ID=307544",
   "https://www.viva100.com/article/20260709500713",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607757",
   "https://www.hankyung.com/article/2026071085781",
   "https://biz.sbs.co.kr/article_hub/20000321848?division=NAVER",
-  "https://www.mk.co.kr/article/12095686"
+  "https://www.mk.co.kr/article/12095686",
+  "https://www.m-i.kr/news/articleView.html?idxno=1390466",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80403",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=83201",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272864",
+  "https://www.ekn.kr/web/view.php?key=20260710026331396"
  ],
  "seen_titles": [
-  "'개미투매'로코스피지수장중7,100붕괴",
-  "반등후하락'급반전'‥중동발'불안감'",
-  "JNP메디\"임상운영부터L/O까지...여기서한번에끝낸다\"",
-  "오르면두배?떨어질땐더무섭다…삼전닉스레버리지에개미들‘비...",
-  "통신상장기업2026년7월브랜드평판...KT,SK텔레콤,LG유플러스順",
   "충청4개시민연대,392조원정부충청권메가프로젝트재검토촉구",
   "[서울데이터랩]시총상위주장중약세…SK하이닉스만상승,한화에어로...",
   "수출늘었다고고환율수혜?…제약사손익가른'외화포지션'",
@@ -6001,13 +5996,14 @@
   "뉴욕서6번째높은이건물에‘초대형태극기’펼쳐진이유?[이런뉴스...",
   "외국인,하락장서대덕전자·LG이노텍더샀다",
   "돈들어오자쏟아지는투자압박…삼성·SK대응은",
-  "‘검은화·수요일’후폭풍이정도일줄이야…하루새1422억강제청산"
+  "‘검은화·수요일’후폭풍이정도일줄이야…하루새1422억강제청산",
+  "삼성SDI,정부AI배전망ESS사업서'66%독주'",
+  "[박수진의머니워치]코스피7400선마감…반도체투심개선",
+  "AIESS첫승부서삼성SDI우위…정부사업'3분의2'물량확보",
+  "[ClosingMarket]SeoulStocksStageDramaticReboundWhileWon-dolla",
+  "[금융권풍향계]수은,몽골에서K-컬처수출확대위한‘금융교두보..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-10T12:31:14.309075+09:00",
-   "상무장관 확대 삼성 미국 하이닉스 생산 촉구"
-  ],
   [
    "2026-07-10T12:41:04.358375+09:00",
    "in Nasdaq Hynix Won Debut Raises Trillion"
@@ -6943,9 +6939,17 @@
   [
    "2026-07-10T18:21:08.436464+09:00",
    "1422억 수요일 강제 하루 정도일 검은 후폭풍 청산 줄이야"
+  ],
+  [
+   "2026-07-10T18:31:19.742714+09:00",
+   "Dramatic While Won Seoul Stage Rebound Rat Stocks dollar"
+  ],
+  [
+   "2026-07-10T18:31:19.742714+09:00",
+   "컬처 금융 수출 교두보 확대 몽골에서 위한 수은"
   ]
  ],
- "last_run": "2026-07-10T18:21:28.007220+09:00",
+ "last_run": "2026-07-10T18:31:29.210117+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
