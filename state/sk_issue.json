@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000320882?division=NAVER",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51296",
-  "https://news.jtbc.co.kr/article/NB12306803?influxDiv=NAVER",
   "https://www.yna.co.kr/view/AKR20260705018655054?input=1195m",
   "https://www.hankyung.com/article/202607068090i",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204108",
@@ -2999,12 +2996,12 @@
   "https://www.ktv.go.kr/content/view?content_id=757731",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244108",
   "https://view.asiae.co.kr/article/2026071013173689104",
-  "https://www.naeil.com/news/read/594958"
+  "https://www.naeil.com/news/read/594958",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081108187400108282",
+  "https://www.businessplus.kr/news/articleView.html?idxno=113992",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379282"
  ],
  "seen_titles": [
-  "검찰,정유4사'유가담합'기소…전쟁틈타가격올렸나",
-  "보완수사없으면'유착'덮었을까…경찰\"명운걸고수사\"",
-  "장윤기아버지에압수물·영장내용까지알려준경찰…의혹증폭",
   "장윤기차량서사라진증거는'케이블타이'…납치계획핵심단서",
   "공정위,계열대부업체부당지원한명륜진사갈비'정조준'",
   "'전용유마진갑질'교촌,1심서벌금8천만원",
@@ -6001,7 +5998,10 @@
   "나도모르게빠진구독료···9월부터한번에조회된다",
   "\"중국에4천만명개인정보제공\"카카오페이압수수색",
   "\"또주가조작\"…합동대응단,코스닥상장사압수수색",
-  "“공수처수사적법”…내란재판영향"
+  "“공수처수사적법”…내란재판영향",
+  "[더벨][PolicyRadar|전분당담합공정위제재]CJ제일제당,과징금이...",
+  "[시선+]식품원재료담합제재,'투명성의역설'고려할필요있다",
+  "[단독]\"윗선'보안점수조작'지시\"국정원도속인선관위"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "지원 협력사 4조 투입해 신규자금"
   ]
  ],
- "last_run": "2026-07-10T13:21:06.220182+09:00",
+ "last_run": "2026-07-10T13:31:15.864628+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
