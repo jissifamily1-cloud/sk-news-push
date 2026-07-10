@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310834",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715250",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1383160",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92237",
-  "https://www.thepowernews.co.kr/view.php?ud=202607061455568060de3f0aa1be_7",
-  "https://www.socialvalue.kr/news/view/1065579126385097",
   "https://biz.sbs.co.kr/article_hub/20000320883?division=NAVER",
   "http://www.newsian.co.kr/news/articleView.html?idxno=91862",
   "https://biz.sbs.co.kr/article_hub/20000320882?division=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.sisajournal.com/news/articleView.html?idxno=379439",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422340",
   "https://www.thepublic.kr/news/articleView.html?idxno=310807",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030091953&code=61141211&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030091953&code=61141211&cp=nv",
+  "https://www.naeil.com/news/read/594969",
+  "https://www.naeil.com/news/read/594949",
+  "https://www.naeil.com/news/read/594950",
+  "https://news.tf.co.kr/read/economy/2342001.htm",
+  "https://www.ktv.go.kr/content/view?content_id=757731",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244108"
  ],
  "seen_titles": [
-  "정책자금받아계열대부업체에저리공급한명륜당,공정위제재착수",
-  "공정위,명륜당·대부업체14곳'이자장사'심의개시",
-  "[현장]LG,상생협약생태계넓힌다…\"2·3차까지대금회수지원\"",
-  "공정위,'명륜당'제재착수…\"계열대부업체들에게저리로자금지원\"",
-  "명륜당,계열대부업체저금리지원의혹…공정위심의개시",
-  "검찰,사상최대26조정유4사'유가담합'기소…\"역대급실적이유있...",
   "명륜진사갈비점주90%당했다…14개대부업체로'돈놀이'",
   "LG,상생결제2·3차협력사로확대…공급망안정강화",
   "검찰,정유4사'유가담합'기소…전쟁틈타가격올렸나",
@@ -6001,7 +5995,13 @@
   "\"범죄수준'위법행위'될수있다\"공봉숙검사,대검진상조사단에경...",
   "정유4사'26조유가담합'8월첫재판···가격정보교환위법성쟁점",
   "\"휴대전화통화내역도안봤다\"…검찰보완수사로드러난장윤기사건...",
-  "‘또주가조작’…합동대응단,허위공시로부당이득혐의‘알파AI’..."
+  "‘또주가조작’…합동대응단,허위공시로부당이득혐의‘알파AI’...",
+  "스코프3유예한ESG공시최종안,여전히‘미흡’",
+  "유라테크‘하도급대금소급감액’제재공방",
+  "두원공조‘기술유용’과징금감액판결",
+  "증권사·코인거래소합종연횡속…빗썸만'지배구조·규제리스크'에발...",
+  "나도모르게빠진구독료···9월부터한번에조회된다",
+  "\"중국에4천만명개인정보제공\"카카오페이압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "지원 협력사 4조 투입해 신규자금"
   ]
  ],
- "last_run": "2026-07-10T13:01:16.685697+09:00",
+ "last_run": "2026-07-10T13:11:04.430165+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
