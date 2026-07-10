@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607060150&t=NNv",
-  "https://www.ddaily.co.kr/page/view/2026070616595324051",
-  "https://www.ytn.co.kr/_ln/0103_202607061706205185",
-  "https://biz.sbs.co.kr/article_hub/20000320919?division=NAVER",
-  "http://www.inews24.com/view/1982886",
-  "https://www.nocutnews.co.kr/news/6543820",
-  "https://www.ilyosisa.co.kr/news/article.html?no=256770",
   "https://www.imaeil.com/page/view/2026070617020420184",
   "https://www.dailian.co.kr/news/view/1663930/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260705018656054?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049115",
   "https://www.seoul.co.kr/news/society/2026/07/10/20260710500191?wlog_tag3=naver",
   "https://www.news1.kr/sports/baseball/6224483",
-  "https://www.cnbizm.com/news/articleView.html?idxno=308302"
+  "https://www.cnbizm.com/news/articleView.html?idxno=308302",
+  "https://www.ngetnews.com/news/articleView.html?idxno=551308",
+  "https://imnews.imbc.com/news/2026/society/article/6836556_36918.html",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6936274",
+  "https://www.livebiz.today/news/articleView.html?idxno=203252",
+  "https://www.ajunews.com/view/20260710153810481",
+  "https://www.newspim.com/news/view/20260710001255",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109417"
  ],
  "seen_titles": [
-  "'돈이마귀라더니'...전쟁터지자\"2조번다\"환호한정유사결국",
-  "네이버파이낸셜,두나무주식교환또연기…“12월31일로조정”",
-  "유통마진일방인하...교촌에벌금8천만원선고",
-  "네이버파이낸셜·두나무주식교환,12월31일로또연기",
-  "'장윤기사건'...아버지는증거폐기,경찰은정보유출",
-  "'장윤기수사'의혹원점규명…경찰청,본청특별수사팀투입",
-  "‘형제의난’효성가차남,재판서드러난패륜행각",
   "사라진'케이블타이'…광주여고생살해수사,경찰유착의혹확산",
   "경찰청,'장윤기사건관련의혹'직접수사나선다…특별수사팀확대...",
   "장윤기차량서사라진증거는'케이블타이'…납치계획단서(종합)",
@@ -6001,10 +5994,22 @@
   "대한체육회\"14일배재고야구부6개월출전정지징계재심\"",
   "[속보]‘야구부6개월출전정지’에…배재고“효력정지가처분신청”",
   "체육회스포츠공정위,14일'배재고징계'재심채택여부결정",
-  "[제약이슈]대웅제약,2년만에또특별세무조사…리베이트논란재부..."
+  "[제약이슈]대웅제약,2년만에또특별세무조사…리베이트논란재부...",
+  "미승인제품퇴출…동국제약모기기피제시장반사이익",
+  "'6개월출전정지'배재고,법원에징계효력정지가처분신청",
+  "'탱크데이조롱'배재고,징계재심의일정14일에확정",
+  "'코스닥불신'자초하는주가조작또터졌다...합동대응단,의료기기업...",
+  "이준석\"정이한자작극전혀몰랐다...한동훈,삐딱하게보지말라\"",
+  "대한변협\"장윤기사건암장될뻔…보완수사권,민생사건엔인정해야\"",
+  "10대그룹상표권로열티SK·LG1등다퉈"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-10T16:10:57.189309+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-10T16:21:00.393686+09:00",
+   "1등 다퉈 상표권 로열티 LG 10대그룹"
+  ]
+ ],
+ "last_run": "2026-07-10T16:21:09.171570+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6029,6 +6034,7 @@
   "news.einfomax.co.kr": "연합인포맥스",
   "slownews.kr": "슬로우뉴스",
   "sjsori.com": "세종의소리",
-  "moneystorm.kr": "머니스톰"
+  "moneystorm.kr": "머니스톰",
+  "smarttoday.co.kr": "스마트투데이"
  }
 }
