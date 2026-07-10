@@ -2868,7 +2868,9 @@
   "https://www.newsis.com/view/NISI20260711_0021359480",
   "https://www.hankyung.com/article/2026071190037",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5024",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607110726106080769"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607110726106080769",
+  "https://www.insight.co.kr/news/562550",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683394"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -5721,7 +5723,9 @@
   "SK하이닉스,나스닥거래개시",
   "화려한데뷔마친SK하이닉스…나스닥사장\"블록버스터급\"",
   "[인사이트뉴스]미국서'40조잭팟'터트린SK하이닉스,코리아디스카...",
-  "SK하이닉스,나스닥서13%급등데뷔…40조실탄쥐고‘AI메모리패권..."
+  "SK하이닉스,나스닥서13%급등데뷔…40조실탄쥐고‘AI메모리패권...",
+  "이재용·최태원나란히미국행...AI반도체패권잡으려현지서총력전",
+  "SK하이닉스,美나스닥서첫거래시작"
  ],
  "recent_sigs": [
   [
@@ -5759,9 +5763,13 @@
   [
    "2026-07-11T08:00:34.630558+09:00",
    "터트린 잭팟 미국서 40조 디스카 SK하이닉스 코리아"
+  ],
+  [
+   "2026-07-11T08:16:23.740711+09:00",
+   "시작 나스닥서 SK하이닉스 거래"
   ]
  ],
- "last_run": "2026-07-11T08:10:29.299940+09:00",
+ "last_run": "2026-07-11T08:16:39.816836+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
