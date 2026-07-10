@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026070616550972800",
-  "https://biz.heraldcorp.com/article/10799834",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82972",
-  "https://biz.chosun.com/stock/finance/2026/07/06/5I3LBG3TORDSRP6M24GH5MOF7Y/",
   "https://www.joongangenews.com/news/articleView.html?idxno=530813",
   "https://view.asiae.co.kr/article/2026070617162643820",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204145",
@@ -2999,13 +2995,13 @@
   "https://dgmbc.com/NewsArticle/850341",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081611080920108513",
   "https://www.news1.kr/local/gwangju-jeonnam/6224473",
-  "https://www.seoul.co.kr/news/society/2026/07/10/20260710500204?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/07/10/20260710500204?wlog_tag3=naver",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=241955",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442086",
+  "https://news.jtbc.co.kr/article/NB12307640?influxDiv=NAVER",
+  "https://news.dealsitetv.com/articles/173149"
  ],
  "seen_titles": [
-  "제주농협주유소담합‘20억과징금철퇴’…도민들,\"배신감\"분노",
-  "네이버파이낸셜·두나무합병일정또다시연기…12월31일주식교환",
-  "'집단분쟁조정'직면한넥슨,뒤늦은소통나섰다…이용자반응은'싸늘...",
-  "네이버파이낸셜·두나무합병또연기…12월31일주식교환예정",
   "경찰,장윤기사건특별수사팀확대…광주청지휘라인전면배제",
   "장윤기차량서발견된케이블타이사라져…경찰,증거인멸의혹수사",
   "궁지몰린경찰…'장윤기사건'특별수사팀으로확대",
@@ -6001,15 +5997,23 @@
   "'지역폄하응원'배재고,법원에'6개월출전정지'징계효력정지가...",
   "[더벨][PolicyRadar|전분당담합공정위제재]삼양사,리니언시로일...",
   "장윤기가버린'핵심증거'휴대폰…사건이틀전마지막통화",
-  "마약정보원에수사기밀넘긴경찰관직위해제"
+  "마약정보원에수사기밀넘긴경찰관직위해제",
+  "피에브,'피에브에어워셔'CJ온스타일2차방송진행",
+  "CJ상표권사용료적정성평가시험대,'소비재그룹특성'시각부터'오...",
+  "배재고,마지막기회올까…이르면20일재심,법원에가처분도",
+  "[퇴근길7분뉴스]지역화폐성과급·SK하이닉스·한성기업·알파AI"
  ],
  "recent_sigs": [
   [
    "2026-07-10T16:21:00.393686+09:00",
    "1등 다퉈 상표권 로열티 LG 10대그룹"
+  ],
+  [
+   "2026-07-10T16:40:59.581617+09:00",
+   "SK하이닉스 알파AI 한성기업 지역화폐성과급"
   ]
  ],
- "last_run": "2026-07-10T16:31:05.376631+09:00",
+ "last_run": "2026-07-10T16:41:06.591100+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6035,6 +6039,7 @@
   "slownews.kr": "슬로우뉴스",
   "sjsori.com": "세종의소리",
   "moneystorm.kr": "머니스톰",
-  "smarttoday.co.kr": "스마트투데이"
+  "smarttoday.co.kr": "스마트투데이",
+  "news.dealsitetv.com": "news.dealsitetv.com"
  }
 }
