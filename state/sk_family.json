@@ -2553,7 +2553,14 @@
   "https://sports.khan.co.kr/article/202607100933003?pt=nv",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=306778",
   "https://www.delighti.co.kr/news/articleView.html?idxno=118856",
-  "https://www.dailian.co.kr/news/view/1665610/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1665610/?sc=Naver",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155111",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79837",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=306775",
+  "https://www.kbmaeil.com/article/20260710500053",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379404",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189590",
+  "https://www.m-i.kr/news/articleView.html?idxno=1390232"
  ],
  "seen_titles": [
   "조의장\"3대메가프로젝트,대전환기선제대응…국회도뒷받침\"",
@@ -5093,7 +5100,14 @@
   "‘전세계로나간다’SK하이닉스,오늘나스닥상장‘40조실탄’장착",
   "코스피,SK하이닉스ADR흥행에2%대반등",
   "SK하이닉스,美ADR공모가149달러확정…외국기업역대최대규모",
-  "알리바바넘은SK하이닉스…40조실탄으로AI초격차키운다"
+  "알리바바넘은SK하이닉스…40조실탄으로AI초격차키운다",
+  "SK하이닉스,美ADR역대최대공모…40조원실탄확보",
+  "SK하이닉스ADR공모가149달러확정…40조원조달",
+  "SK하이닉스,한국보다비싸게팔렸다…40조원들고AI투자전",
+  "SK하이닉스,美IPO새역사썼다…265억달러조달‘외국기업역대최대",
+  "SK하이닉스,나스닥입성전부터흥행…공모가149달러확정",
+  "SK하이닉스,美나스닥ADR공모가149달러최종확정…IPO규모中알리바...",
+  "李\"핵심광물공급망함께구축\"…한·몽경제협력확대드라이브"
  ],
  "recent_sigs": [
   [
@@ -5167,9 +5181,13 @@
   [
    "2026-07-10T09:40:22.254313+09:00",
    "초격차 AI 알리바바 SK하이닉스 실탄으로 40조 키운다 넘은"
+  ],
+  [
+   "2026-07-10T09:50:21.039831+09:00",
+   "공급망 경제협력 함께 구축 드라이브 핵심광물 확대"
   ]
  ],
- "last_run": "2026-07-10T09:40:35.893458+09:00",
+ "last_run": "2026-07-10T09:50:35.889000+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -5309,6 +5327,7 @@
   "ngetnews.com": "뉴스저널리즘",
   "joseilbo.com": "joseilbo.com",
   "kukinews.com": "kukinews.com",
-  "enewstoday.co.kr": "이뉴스투데이"
+  "enewstoday.co.kr": "이뉴스투데이",
+  "m-i.kr": "매일일보"
  }
 }
