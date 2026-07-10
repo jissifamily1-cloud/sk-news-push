@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026070707365237927",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070185&t=NN",
   "https://gj.newdaily.co.kr/site/data/html/2026/07/06/2026070600327.html",
   "http://www.queen.co.kr/news/articleView.html?idxno=459861",
@@ -2999,10 +2998,10 @@
   "https://biz.chosun.com/topics/law_firm/2026/07/11/ENWUZHC74RHA3BTBIUG3NFEVME/",
   "https://www.sportsseoul.com/news/read/1621771",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652505&plink=ORI&cooper=NAVER",
-  "https://www.bntnews.co.kr/article/view/bnt202607110014"
+  "https://www.bntnews.co.kr/article/view/bnt202607110014",
+  "https://www.nocutnews.co.kr/news/6546653"
  ],
  "seen_titles": [
-  "제재가능성큰데'심야결투'…배달앱여름경쟁본격화",
   "'훼손리얼돌'나왔는데...장윤기'강간살인'끝내미반영",
   "광주경찰,5·18허위신문기사합성물제작·유포자검거",
   "경찰,부실수사에증거인멸까지…'검찰보완수사폐지'해도괜찮나",
@@ -6001,10 +6000,16 @@
   "[법조인사이드]도넛쟁반·진열장도소송…‘필수품목분쟁’늘어날...",
   "박나래주사이모,경찰조사받다가갑자기?…“7년만에다시수술”",
   "\"강간살인죄적용해야\"의견묵살했나…수사확대",
-  "유리제주살이에“돈자랑”vs“짠내난다”엇갈린반응"
+  "유리제주살이에“돈자랑”vs“짠내난다”엇갈린반응",
+  "\"휴전종료\"선언한트럼프…SK하이닉스,나스닥'흥행데뷔'[오늘아침..."
  ],
- "recent_sigs": [],
- "last_run": "2026-07-11T07:01:13.377537+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-11T07:10:54.717333+09:00",
+   "휴전 흥행 선언한 트럼프 종료 데뷔 SK하이닉스 나스닥 오늘아침"
+  ]
+ ],
+ "last_run": "2026-07-11T07:11:04.494504+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6031,6 +6036,7 @@
   "sjsori.com": "세종의소리",
   "moneystorm.kr": "머니스톰",
   "smarttoday.co.kr": "스마트투데이",
-  "news.dealsitetv.com": "news.dealsitetv.com"
+  "news.dealsitetv.com": "news.dealsitetv.com",
+  "nocutnews.co.kr": "노컷뉴스"
  }
 }
