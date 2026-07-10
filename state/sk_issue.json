@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260706000426",
-  "https://www.newscj.com/news/articleView.html?idxno=3414930",
-  "https://www.g-enews.com/view.php?ud=20260706162611524ea14faf6f5_1",
-  "https://www.yna.co.kr/view/AKR20260706058351002?input=1195m",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260706191002jPX",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538173",
-  "https://www.segye.com/newsView/20260706515517?OutUrl=naver",
   "https://www.kmib.co.kr/article/view.asp?arcid=1783329876&code=11131100&cp=nv",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603276",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260707.22010001732",
@@ -2999,16 +2992,16 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260710185832DR1",
   "https://www.news1.kr/local/gwangju-jeonnam/6224737",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04867526645513208",
-  "https://www.nocutnews.co.kr/news/6546603"
+  "https://www.nocutnews.co.kr/news/6546603",
+  "https://www.donga.com/news/Society/article/all/20260710/134276580/2",
+  "https://www.ytn.co.kr/_ln/0103_202607101914330304",
+  "https://www.yna.co.kr/view/AKR20260710160800054?input=1195m",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090298.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607779",
+  "https://www.ytn.co.kr/_ln/0115_202607101912236797",
+  "https://www.newsis.com/view/NISX20260710_0003704931"
  ],
  "seen_titles": [
-  "네이버파이낸셜·두나무주식교환연말로연기한다",
-  "'5.18왜곡'허위신문제작·유포…경찰,최초작성자검거",
-  "하범종㈜LG사장“협력사경쟁력이곧LG경쟁력”…2·3차협력사상...",
-  "나랏돈받아계열대부업체에공급…명륜당과징금최대347억(종합)",
-  "선관위'채용비리'도본다…합수본수사확대",
-  "장윤기담당수사팀장,케이블타이증거인멸의혹",
-  "장윤기수사팀장긴급체포…‘경찰제식구감싸기’밝혀내나",
   "보완수사권없애도되나…경찰,장윤기사건핵심증거인멸의혹",
   "전국서가장비싼제주기름값…주유소·농협담합과징금20억",
   "광주여고생살해장윤기,사라진현장케이블타이…담당경감증거인멸...",
@@ -6001,7 +5994,14 @@
   "[단독]검찰,'장윤기수사'형사과장도입건…공무상비밀누설등혐의",
   "장윤기수사팀비밀누설의혹규명…검찰,광산경찰서압수수색",
   "광주경찰,'장윤기부실수사'첫해명…'부친유착'의혹엔'침묵'",
-  "광주경찰,장윤기수사경위첫공개…부실수사논란반박"
+  "광주경찰,장윤기수사경위첫공개…부실수사논란반박",
+  "‘마약정보원과수사정보거래’의혹…현직경찰관직위해제",
+  "[속보]종합특검,'채상병의혹'이시원전비서관구속영장청구",
+  "검찰,'장윤기유착의혹'광산경찰서추가압색…서장입건",
+  "[단독]법원행정처'공소심의회신설·檢영장지휘권삭제조항'에\"추가...",
+  "광주광산경찰서추가압수수색…경찰서장피의자입건",
+  "전광주광산서장공무상비밀누설혐의로입건",
+  "검찰,'장윤기경찰부실수사·유착'광산서2차압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 알파AI 한성기업 지역화폐성과급"
   ]
  ],
- "last_run": "2026-07-10T19:11:00.992885+09:00",
+ "last_run": "2026-07-10T19:21:03.095582+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
