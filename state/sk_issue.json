@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01790886645512224",
-  "https://www.nocutnews.co.kr/news/6543928",
-  "https://www.donga.com/news/Society/article/all/20260707/134248055/2",
-  "https://www.mt.co.kr/society/2026/07/07/2026070619514324448",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310866",
   "https://www.donga.com/news/Economy/article/all/20260706/134247155/2",
   "https://www.donga.com/news/Economy/article/all/20260706/134247147/2",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430742",
@@ -2999,14 +2994,14 @@
   "https://www.ytn.co.kr/_ln/0103_202607102022164978",
   "https://www.hankookilbo.com/news/article/A2026071019310002562?did=NA",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2287220",
-  "https://www.mt.co.kr/society/2026/07/10/2026071020232590415"
+  "https://www.mt.co.kr/society/2026/07/10/2026071020232590415",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030093789&code=61121311&cp=nv",
+  "https://view.asiae.co.kr/article/2026071020475339367",
+  "http://www.ggmedinews.com/news/articleView.html?idxno=6643",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000049160",
+  "https://kjmbc.co.kr/NewsArticle/1527076"
  ],
  "seen_titles": [
-  "\"데이터로담합적발\"…공정위경제분석국밑그림나왔다",
-  "쿠팡과징금심의전'美압박'변수…공정위시험대",
-  "“가맹점에도넛진열장강매던킨,20억과징금정당”",
-  "전쟁틈타26조담합,정유4사법정선다",
-  "[출근길포인트]광주군공항,호남권반도체클러스터낙점…SK·삼전...",
   "공정위,명륜당의대부업체계열사부당지원제재착수",
   "LG의상생협력…2차이하협력사에900억지원",
   "정책자금저리대여후가맹점에고금리대출…명륜당,공정위'부당지...",
@@ -6001,7 +5996,12 @@
   "[뉴스퀘어8PM]'장윤기사건'일파만파...'대기발령'경찰서장도입건",
   "종합특검,'순직해병수사외압의혹'이시원전비서관구속영장청구",
   "특검,'채상병수사정보유출의혹'이시원구속영장",
-  "특검,'채상병수사비밀누설'의혹이시원전비서관구속영장청구"
+  "특검,'채상병수사비밀누설'의혹이시원전비서관구속영장청구",
+  "2차특검,‘채해병수사기밀누설’이시원전비서관구속영장청구",
+  "檢'장윤기사건'광주광산경찰서추가압수수색…서장입건",
+  "한방병원압수수색계기자동차보험한방진료전면조사·제도개선촉...",
+  "'장윤기사건'증거인멸의혹…광산경찰서장·형사과장피의자전환",
+  "광주경찰,\"장윤기사건단서대부분경찰수사에서확인\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 알파AI 한성기업 지역화폐성과급"
   ]
  ],
- "last_run": "2026-07-10T20:40:56.472420+09:00",
+ "last_run": "2026-07-10T20:51:11.240526+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
