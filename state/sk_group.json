@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715773",
-  "https://www.dailian.co.kr/news/view/1665434/?sc=Naver",
-  "https://www.donga.com/news/Economy/article/all/20260709/134267859/1",
-  "https://www.sedaily.com/article/20065835",
-  "https://www.pressian.com/pages/articles/2026070911182042155",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682844",
-  "https://www.etoday.co.kr/news/view/2602162",
   "https://www.etnews.com/20260709000363",
   "https://www.sidae.com/article/2026070915334951951",
   "https://www.yna.co.kr/view/AKR20260709148900008?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://biz.chosun.com/international/international_economy/2026/07/11/EY4T7RMRIBAHHKI5IDFKCQVZAQ/",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652518&plink=ORI&cooper=NAVER",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335658",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167996"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=167996",
+  "https://www.g-enews.com/view.php?ud=202607110627429182e250e8e188_1",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=279812",
+  "https://www.etoday.co.kr/news/view/2602662",
+  "https://news.tf.co.kr/read/economy/2342222.htm",
+  "https://www.seoul.co.kr/news/economy/securities/2026/07/11/20260711500002?wlog_tag3=naver",
+  "https://www.newspim.com/news/view/20260711000018",
+  "https://www.newsway.co.kr/news/view?ud=2026071101171875616"
  ],
  "seen_titles": [
-  "SKT,AI가만드는사회적가치도측정한다…日소프트뱅크-사회적가치연...",
-  "SK하이닉스ADR상장에본주재평가기대커졌다",
-  "내비넘어숏폼까지…\"티맵,이동라이프플랫폼으로진화\"",
-  "'일본정부주도'라피더스,TSMC와가격경쟁예고…\"같거나낮게\"",
-  "PER마이크론의절반SK하이닉스…ADR흥행에'재평가기대'vs'수급우...",
-  "SKTㆍ소프트뱅크ㆍ사회적가치연구원,AI·ICT사회적가치측정MOU체결",
-  "코스피·코스닥4일만에상승...하이닉스'급등'",
   "[TOP'sPick][제약]종근당,연구개발전문회사‘뉴라테온’설립外",
   "[속보]“4일만의빨간불”SK하이닉스5%↑…삼성전자도‘양전’",
   "사회적가치연구원·SKT·소프트뱅크,AI시대사회적가치측정글로벌표...",
@@ -6001,7 +5994,14 @@
   "ADR로나스닥입성한SK하이닉스…첫날공모가대비13%급등마감",
   "SK하이닉스나스닥입성…첫날공모가대비13%↑",
   "연일급등급락반복하는증시에언론\"오징어게임됐다\"",
-  "나스닥100'상승'...엔비디아'껑충',마이크론·인텔'뚝'"
+  "나스닥100'상승'...엔비디아'껑충',마이크론·인텔'뚝'",
+  "최태원회장“HBM수요기하급수적…과거와다른영구적변화확신”",
+  "SK하이닉스,나스닥첫날168.49달러마감…공모가대비13%↑",
+  "뉴욕증시,유가하락·SK하이닉스상장훈풍에소폭상승…나스닥0.29%↑...",
+  "뉴욕증시,미·이란긴장에도상승마감…SK하이닉스12.7%급등",
+  "[서울데이터랩]미국증시,기술주강세에주요지수동반상승마감",
+  "뉴욕증시,SK하이닉스나스닥거래첫날상승마감…나스닥0.29%↑",
+  "최태원\"AI메모리5년간생산2배로도부족\""
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-11T06:31:14.902489+09:00",
    "상승 인텔 마이크론 껑충 나스닥100 엔비디아"
+  ],
+  [
+   "2026-07-11T06:41:14.210340+09:00",
+   "부족 최태원 AI 생산 메모리 5년간 2배로도"
   ]
  ],
- "last_run": "2026-07-11T06:31:24.177175+09:00",
+ "last_run": "2026-07-11T06:41:21.027365+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
