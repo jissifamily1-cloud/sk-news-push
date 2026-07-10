@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointe.co.kr/news/articleView.html?idxno=81459",
-  "http://www.newsprime.co.kr/news/article.html?no=739273",
-  "https://www.jejumaeil.net/news/articleView.html?idxno=402503",
-  "https://www.sedaily.com/article/20064325",
-  "https://www.donga.com/news/Society/article/all/20260706/134244653/1",
-  "http://www.nongaek.com/news/articleView.html?idxno=95988",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=131525",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=361691",
-  "https://view.asiae.co.kr/article/2026070616494154778",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04437846645511896",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000048077",
   "https://biz.chosun.com/topics/law_firm/2026/07/06/25AB2O46D5BX7P6WVDMTXIHA64/",
   "https://www.dt.co.kr/article/12071411",
@@ -2999,19 +2989,19 @@
   "https://www.joongang.co.kr/article/25444096",
   "https://hbnpress.com/news/view/1065593907226077",
   "https://news.ifm.kr/news/articleView.html?idxno=474778",
-  "https://www.news1.kr/local/gwangju-jeonnam/6224386"
+  "https://www.news1.kr/local/gwangju-jeonnam/6224386",
+  "http://www.impacton.net/news/articleView.html?idxno=19543",
+  "https://bizhankook.com/articles/139261.html",
+  "https://www.ytn.co.kr/_ln/0107_202607101537379054",
+  "https://www.news1.kr/society/education/6224440",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81660",
+  "https://www.newsis.com/view/NISX20260710_0003704567",
+  "https://www.ddaily.co.kr/page/view/2026071015194585830",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04224646645513208",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92337",
+  "https://www.hankookilbo.com/news/article/A2026071014030004484?did=NA"
  ],
  "seen_titles": [
-  "공정위,명륜당전격심의…계열대부업체에217억원부당지원혐의",
-  "던킨'필수품목강제'제동…법원\"과징금21억정당\"",
-  "사실로드러난제주기름값담합주유소협회‧농협'철퇴'",
-  "두나무-네이버파이낸셜,주식교환또연기",
-  "“가맹점에도넛진열장등강매던킨,20억과징금정당”",
-  "[김광현의기업살롱]중앙그룹계열사들이어연8%넘는고금리신종자...",
-  "에스원·에스텍시스템,아파트경비입찰담합제재...통합보안시장공...",
-  "명륜당,계열대부업체'217억저금리지원'혐의…공정위\"고발의견\"",
-  "담합캐낸검찰,4조혈세청구한정유사‘손실보상’억지도막는다",
-  "장윤기차량서사라진'케이블타이'…수사팀장증거인멸정황",
   "본청직접나선다…'장윤기편의제공'수사단격상",
   "담합으로기름값올렸다는데…정유사4조손실보전요구도마위",
   "[속보]장윤기차량서사라진핵심증거는‘케이블타이’…‘납치·강...",
@@ -6001,7 +5991,17 @@
   "[단독]마약정보원과수사기밀거래혐의경찰대기발령",
   "주가조작합동대응단,허위공시부당이득혐의‘알파AI’압수수색",
   "장윤기살인수사의민낯…증거빼돌린'경찰가족'과은폐한수사팀[...",
-  "수세에서공세로전환…광주경찰\"장윤기수사전방위로했다\""
+  "수세에서공세로전환…광주경찰\"장윤기수사전방위로했다\"",
+  "\"ESG전문성은강점,독자접점은과제\"…임팩트온제1기독자위원회출...",
+  "팬클럽가입비도환불해준다...엔터사,준비상황은?",
+  "배재고징계재심의일정14일에결정...봉황대기출전분수령",
+  "배재고'6개월출전정지'징계재심20일…효력정지가처분도신청(종합...",
+  "\"교육비부담가중시키는교복담합원천차단\"…공정위,16개교육청과...",
+  "배재고,야구부'6개월출전정지'효력정지가처분신청",
+  "‘점유율0.5%’코빗의반란…미래에셋날개달고업비트·빗썸잡을까",
+  "\"장윤기정도의사건,1년에몇번씩있는데\"김어준발언,왜?",
+  "주가조작합동대응단,코스닥'알파AI'압수수색",
+  "검찰,장윤기부친·수사팀통화녹취확보…수사상황공유의혹"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "지원 협력사 4조 투입해 신규자금"
   ]
  ],
- "last_run": "2026-07-10T15:31:09.193535+09:00",
+ "last_run": "2026-07-10T15:41:04.395995+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
