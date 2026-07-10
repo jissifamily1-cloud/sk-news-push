@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=530813",
-  "https://view.asiae.co.kr/article/2026070617162643820",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204145",
-  "https://www.newspim.com/news/view/20260706000958",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237164",
-  "https://zdnet.co.kr/view/?no=20260706170628",
-  "https://www.mydaily.co.kr/page/view/2026070617280246498",
-  "https://www.hankyung.com/article/202607068479r",
   "https://www.econovill.com/news/articleView.html?idxno=744421",
   "https://www.mydaily.co.kr/page/view/2026070617215024341",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249168&CMPT_CD=P0010",
@@ -2999,17 +2991,17 @@
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=241955",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442086",
   "https://news.jtbc.co.kr/article/NB12307640?influxDiv=NAVER",
-  "https://news.dealsitetv.com/articles/173149"
+  "https://news.dealsitetv.com/articles/173149",
+  "https://www.newspim.com/news/view/20260710001327",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090261.html",
+  "https://news.jtbc.co.kr/article/NB12307664?influxDiv=NAVER",
+  "http://www.lec.co.kr/news/articleView.html?idxno=752375",
+  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=165420",
+  "https://www.newsis.com/view/NISX20260710_0003704765",
+  "https://www.news1.kr/society/incident-accident/6224569",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205144"
  ],
  "seen_titles": [
-  "경찰,장윤기사건특별수사팀확대…광주청지휘라인전면배제",
-  "장윤기차량서발견된케이블타이사라져…경찰,증거인멸의혹수사",
-  "궁지몰린경찰…'장윤기사건'특별수사팀으로확대",
-  "국수본,'장윤기의혹'특별수사팀구성·광주지휘라인배제",
-  "미승인살충제판매제한에기피제관심…동국제약'디펜스벅스'주목",
-  "협력사에갑질한'교촌'...法,검찰구형보다높은형선고",
-  "네이버파이낸셜·두나무주식교환또연기…12월말예정",
-  "네이버파이낸셜·두나무주식교환연말로재연기",
   "검찰,26조원대정유사유가담합적발…HD현대오일뱅크기소",
   "공정위,명륜당‘계열대부업체부당지원’제재착수…과징금최대3...",
   "[단독]동네빵집'집단소송'불붙나,피고는설탕·밀가루'담합'대기업...",
@@ -6001,7 +5993,15 @@
   "피에브,'피에브에어워셔'CJ온스타일2차방송진행",
   "CJ상표권사용료적정성평가시험대,'소비재그룹특성'시각부터'오...",
   "배재고,마지막기회올까…이르면20일재심,법원에가처분도",
-  "[퇴근길7분뉴스]지역화폐성과급·SK하이닉스·한성기업·알파AI"
+  "[퇴근길7분뉴스]지역화폐성과급·SK하이닉스·한성기업·알파AI",
+  "[프로야구]'스벅구호논란'배재고징계,대한체육회재심곧확정법...",
+  "'응원파문'배재고,법원에효력정지가처분신청…징계재심의일정...",
+  "마약피의자폰에'경찰문자'…수사정보넘긴경감직위해제",
+  "대한변호사협회,형사사법제도개선방향제안",
+  "의협한특위\"수백억보험사기혐의한방병원수사철저\"촉구",
+  "합동대응단,코스닥알파AI압수수색…허위공시로시세조종혐의",
+  "정보원에마약수사정보거래한현직경찰관직위해제",
+  "[단독]\"내가지웠다\"...장윤기부친,휴대전화녹음파일삭제뒤경찰에..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 알파AI 한성기업 지역화폐성과급"
   ]
  ],
- "last_run": "2026-07-10T16:41:06.591100+09:00",
+ "last_run": "2026-07-10T16:51:04.613809+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
