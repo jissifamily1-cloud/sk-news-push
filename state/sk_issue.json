@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.seouleconews.com/news/articleView.html?idxno=92232",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=243972",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/06/2026070690206.html",
-  "http://www.metroseoul.co.kr/article/20260706500394",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/06/2026070690205.html",
-  "https://www.imaeil.com/page/view/2026070614062518117",
-  "http://www.fnnews.com/news/202607061453054964",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204089",
   "https://www.dailian.co.kr/news/view/1663690/?sc=Naver",
   "http://www.metroseoul.co.kr/article/20260706500413",
   "https://www.viva100.com/article/20260706500950",
@@ -2999,17 +2991,17 @@
   "https://www.ytn.co.kr/_ln/0115_202607101019117466",
   "https://www.nocutnews.co.kr/news/6546215",
   "https://imnews.imbc.com/news/2026/politics/article/6836459_36911.html",
-  "https://www.munhwa.com/article/11601727"
+  "https://www.munhwa.com/article/11601727",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081035460520103856",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5008",
+  "https://www.newsis.com/view/NISX20260710_0003704042",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260710105638eBx",
+  "https://www.mt.co.kr/politics/2026/07/10/2026071010180472901",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16130501",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379423",
+  "https://www.koreajoongangdaily.com/bilingual-news/internal-police-investigation-can-no-longer-be-trusted-kor/12765847"
  ],
  "seen_titles": [
-  "공정위,기름값담합제주농협등에과징금20억5천만원",
-  "법원\"던킨가맹점주거래처제한위법\"…과징금21억정당",
-  "'대부업체217억부당지원'명륜당,공정위제재받는다",
-  "‘명륜진사갈비’명륜당,계열사부당지원심의착수…과징금최대3...",
-  "양정원남편,첫재판서혐의대거부인…\"경찰접대,아내사건때문아...",
-  "나랏돈저리로빌려가맹점엔18%고리…명륜당심판대에",
-  "\"경찰과술자리,아내사건때문아냐\"…'향응제공'부인한양정원남...",
-  "[단독]장윤기아버지에차량돌려준뒤,경찰\"내비게이션확인필요\"…...",
   "LG,상생결제낙수율10%로확대…2·3차협력사지원강화",
   "LG,1·2·3차협력사와상생협약…2차이하협력사대상900억원대금융...",
   "지역농협까지가담한제주주유소가격담합…과징금‘20억5000만원’",
@@ -6001,7 +5993,15 @@
   "'장윤기사건'수사관계자·경찰아버지등조사...검·경수사속도",
   "하헌기\"최강욱,보완수사권대안이'언론감시'?말이되나\"",
   "이준석\"선거기간,정이한자작극인지못해‥자체조사답못얻어\"",
-  "[단독]대법‘김용재판기록’요청불허이어…검찰내부“공판기록..."
+  "[단독]대법‘김용재판기록’요청불허이어…검찰내부“공판기록...",
+  "[더벨][PolicyRadar|전분당담합공정위제재]사조CPK,충당부채로못...",
+  "식품업체들올들어3차례공정위과징금무려1.83조원....추가제재남아...",
+  "한동훈\"정이한피습자작극언제알았나\"이준석\"전혀몰랐다…공천...",
+  "투표용지합수본,서울선관위선거1계장소환…용지준비과정조사",
+  "이준석\"정이한의혹몰랐다…한동훈,그런삐딱한눈으로보지않았으...",
+  "'박나래주사이모'A씨,난치병걸린근황…\"7년만에재수술\"",
+  "합수본,서울선관위선거1계장소환…거소투표과다집계경위등조사",
+  "Internalpoliceinvestigationcannolongerbetrusted(KOR)"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "지원 협력사 4조 투입해 신규자금"
   ]
  ],
- "last_run": "2026-07-10T10:51:02.282973+09:00",
+ "last_run": "2026-07-10T11:01:12.096447+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
