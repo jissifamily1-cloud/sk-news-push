@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20260628500124",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264226",
-  "https://news.bizwatch.co.kr/article/industry/2026/06/26/0004",
   "https://www.seoulfn.com/news/articleView.html?idxno=632012",
   "https://www.mk.co.kr/article/12084283",
   "https://www.asiatime.co.kr/article/20260626500183",
@@ -2999,12 +2996,12 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260626183241uhV",
   "https://ilyo.co.kr/?ac=article_view&entry_id=511611",
   "https://www.yna.co.kr/view/AKR20260710171900008?input=1195m",
-  "https://www.mt.co.kr/industry/2026/07/12/2026071013154596007"
+  "https://www.mt.co.kr/industry/2026/07/12/2026071013154596007",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=266108",
+  "https://biz.sbs.co.kr/article_hub/20000321921?division=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6836764_37012.html"
  ],
  "seen_titles": [
-  "자정,비오는날생각나는전연인의그리움이별발라드",
-  "자정,장마송'오늘처럼비가오면'으로아련한빗속감성담는다",
-  "존재감키우는SK3세들",
   "\"졌잘싸!연차쓰고또올게요\"…멕시코전패배에도'붉은악마'후끈",
   "경영·창업·예술·컨설팅…SK오너3세들‘극과극행보’",
   "SK장손최영근,5년만에경영복귀…3세구도다시주목",
@@ -6001,7 +5998,10 @@
   "최태원·노소영'세기의재산분할'…내달24일선고",
   "'창업주장손'최영근지주사복귀…SK그룹오너3세들역할구도재조...",
   "[마켓인사이트]하이닉스발훈풍에반도체들썩…韓증시안정찾을까",
-  "ADR발판삼은SK하이닉스…인디애나넘어'美신규팹'가능성"
+  "ADR발판삼은SK하이닉스…인디애나넘어'美신규팹'가능성",
+  "[포토에세이]밀반출탕아의금의환향,'정주영주베일'넘은'최태원한...",
+  "SK하이닉스,韓6월무역흑자73%수준조달'통화스와프급'달러폭탄예...",
+  "'자금이탈'부르나,'주가재평가'기회인가"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,21 @@
   [
    "2026-07-12T06:30:36.695588+09:00",
    "삼은 ADR 넘어 발판 가능성 인디애나 신규 SK하이닉스"
+  ],
+  [
+   "2026-07-12T07:10:23.997339+09:00",
+   "금의환향 정주영 넘은 탕아의 주베일 밀반출"
+  ],
+  [
+   "2026-07-12T07:10:23.997339+09:00",
+   "달러폭탄 통화스와프급 6월 SK하이닉스 조달 무역흑자 수준"
+  ],
+  [
+   "2026-07-12T07:10:23.997339+09:00",
+   "이탈 재평가 주가 부르나 기회인가 자금"
   ]
  ],
- "last_run": "2026-07-12T07:00:45.419147+09:00",
+ "last_run": "2026-07-12T07:10:44.749612+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
