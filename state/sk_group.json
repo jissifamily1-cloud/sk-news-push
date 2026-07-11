@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ikpnews.net/news/articleView.html?idxno=70909",
-  "http://www.fnnews.com/news/202607091824407693",
   "https://www.tfmedia.co.kr/news/article.html?no=205652",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269488",
   "https://www.sedaily.com/article/20065978",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20066524",
   "https://www.hankookilbo.com/news/article/A2026071112260004189?did=NA",
   "https://www.ytn.co.kr/_ln/0102_202607111245345516",
-  "https://news.tf.co.kr/read/world/2342264.htm"
+  "https://news.tf.co.kr/read/world/2342264.htm",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849709",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715987"
  ],
  "seen_titles": [
-  "사회적가치연구원·SK텔레콤·日소프트뱅크,AI·ICT분야사회적가치...",
-  "호남반도체클러스터투기차단…광주군공항일대'토허제'지정",
   "SKT\"AI의사회적가치계산…글로벌표준구축\"",
   "[에디터의서재]미-이란전쟁터지자'이때다'담합나선국내대표정...",
   "제조경쟁력'로봇운영'으로…SKAX,RX서비스본격화",
@@ -6001,25 +5999,11 @@
   "“성지순례왔다”코스피하락맞힌그보고서…이번엔“반등하면1만...",
   "최태원\"반도체수급주기구조적으로변화\"…미국공장건설도검토",
   "SK최태원\"미국에메모리생산공장도가능\"",
-  "외신\"SK하이닉스역사적나스닥데뷔,美증시흔들었다\""
+  "외신\"SK하이닉스역사적나스닥데뷔,美증시흔들었다\"",
+  "프로야구울산,SSG서방출된베테랑하재훈영입",
+  "\"삼전·하이닉스아니었다\"…ETF수익률1~5위싹쓸이한중국반도체"
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T06:51:05.675861+09:00",
-   "정책 못보내 이월 데이터 가족한테도 요지부동 공유 맘대로"
-  ],
-  [
-   "2026-07-11T06:51:05.675861+09:00",
-   "ESS 인력 AI 줄이고 투트랙 투자 배터리 3사"
-  ],
-  [
-   "2026-07-11T06:51:05.675861+09:00",
-   "나는 한국 해외서도 깜짝 훨훨"
-  ],
-  [
-   "2026-07-11T06:51:05.675861+09:00",
-   "하이닉스 환율도 효과"
-  ],
   [
    "2026-07-11T07:01:21.338029+09:00",
    "reemerges as ambitions Korea for AI LNG chip fuel strategic"
@@ -6533,7 +6517,7 @@
    "구조적으로 검토 주기 공장 미국 건설도 반도체 최태원 수급 변화"
   ]
  ],
- "last_run": "2026-07-11T12:48:09.338112+09:00",
+ "last_run": "2026-07-11T12:51:09.170614+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
