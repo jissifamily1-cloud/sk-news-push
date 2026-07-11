@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202607071042011",
-  "https://www.newsis.com/view/NISX20260707_0003698704",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008645118&plink=ORI&cooper=NAVER",
   "https://www.yna.co.kr/view/PYH20260707057900054?input=1196m",
   "https://view.asiae.co.kr/article/2026070710501623892",
@@ -2999,11 +2997,11 @@
   "https://www.slist.kr/news/articleView.html?idxno=751116",
   "https://www.hidomin.com/news/articleView.html?idxno=712783",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190023.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608240"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608240",
+  "https://biz.heraldcorp.com/article/10805547",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652777&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "‘장윤기부실수사의혹’검찰,광주광산경찰서압수수색",
-  "게임광고발주한다며43억사기…디디비코리아前대표기소",
   "경찰마저\"검찰보완수사권있어야\"…'장윤기사건'파문",
   "장윤기SUV에발견된케이블타이",
   "검찰,'장윤기부실수사'광주광산경찰서강제수사착수",
@@ -6001,7 +5999,9 @@
   "경찰특별수사팀,광주경찰청장등장윤기수사지휘부압색",
   "살해범장윤기'봐주기수사'있었나…지휘라인전방위압수수색",
   "[속보]경찰청특별수사팀,'장윤기사건'광산경찰서서장실등압수수...",
-  "특별수사팀,광주경찰청장실등압수수색"
+  "특별수사팀,광주경찰청장실등압수수색",
+  "‘장윤기사건’與“공권력이공범…전면재수사”...野,檢보완수사...",
+  "'장윤기수사'지휘부압수수색…윗선개입규명속도"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "오늘아침 휴전 SK하이닉스 트럼프 종료 나스닥 선언한 데뷔 흥행"
   ]
  ],
- "last_run": "2026-07-11T12:20:54.817588+09:00",
+ "last_run": "2026-07-11T12:31:04.126094+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
