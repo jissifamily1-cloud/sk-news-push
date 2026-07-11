@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=1783583555&code=11121100&cp=nv",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160280798153213",
-  "http://www.fnnews.com/news/202607091731155044",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077980",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424254",
   "https://www.hankookilbo.com/news/article/A2026070913500000330?did=NA",
   "https://www.tokenpost.kr/news/economy/376259",
   "https://www.dailian.co.kr/news/view/1665505/?sc=Naver",
@@ -2999,14 +2994,14 @@
   "https://news.ifm.kr/news/articleView.html?idxno=474844",
   "https://www.yna.co.kr/view/AKR20260711030400072?input=1195m",
   "https://magazine.hankyung.com/business/article/202607119201b",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34408"
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34408",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000049221",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094466",
+  "http://www.lawissue.co.kr/view.php?ud=20260711132103553867191f6c6e_12",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=310847",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441029"
  ],
  "seen_titles": [
-  "'기울어진운동장'…특별시의회광주의원들정치력시험대",
-  "사이드카만33회…급락엔타고급등엔내린개미",
-  "'AI3강'도전속2년차맞는배경훈號…\"독파모'성공적결과'관심'",
-  "\"3대메가프로젝트,정부지원에달렸다\"",
-  "SK하이닉스‘1100조투자’,이사회결의없이발표됐나…거버넌스포...",
   "\"한국증시는오징어게임\"...월가도삼전닉스레버리지ETF우려",
   "\"잠실까지한번에간다\"성수석호,민선9기첫교통개혁승부수",
   "SK하닉ADR,10일나스닥첫거래…\"기준가158.14달러\"",
@@ -6001,7 +5996,12 @@
   "SK하이닉스,나스닥첫날13%급등…'코리아디스카운트'벽넘었다",
   "외신\"SK하이닉스,화려한美데뷔\"…월가\"반도체랠리가능성\"",
   "\"삼성전자,나스닥가나?\"..질문에돌아온답변은",
-  "[RTK만평]최태원·노소영재산분할'다시뒤집힐까?"
+  "[RTK만평]최태원·노소영재산분할'다시뒤집힐까?",
+  "SK하이닉스美나스닥화려한데뷔…외신\"역사적상장\"",
+  "SK최태원회장\"AI시대메모리수요폭발…구조적변화\"",
+  "SK하이닉스,美ADR상장첫날공모가대비13.08%상승…외신·월가“화...",
+  "삼전영업이익세계1위에도주가급락…금융당국'레버리지ETF'손봐...",
+  "최태원,\"반도체과거사이클처럼안움직여...구조적변화나타나고있..."
  ],
  "recent_sigs": [
   [
@@ -6445,7 +6445,7 @@
    "뒤집힐까 재산분할 노소영 최태원 다시"
   ]
  ],
- "last_run": "2026-07-11T13:21:22.337917+09:00",
+ "last_run": "2026-07-11T13:31:15.843112+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
