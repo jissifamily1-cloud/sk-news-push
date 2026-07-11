@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607091809280763",
-  "https://www.mediawatch.kr/news/article.html?no=260336",
-  "https://www.ytn.co.kr/_ln/0104_202607091828003416",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250181&CMPT_CD=P0010",
-  "https://www.news1.kr/finance/general-stock/6223541",
-  "https://www.tfmedia.co.kr/news/article.html?no=205653",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069019",
-  "http://www.fnnews.com/news/202607091828469515",
   "https://www.news1.kr/economy/trend/6223552",
   "http://www.fnnews.com/news/202607091826248283",
   "http://www.ikpnews.net/news/articleView.html?idxno=70909",
@@ -2999,17 +2991,17 @@
   "https://www.hankyung.com/article/2026071082776",
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94658",
   "https://www.newsjeju.net/news/articleView.html?idxno=423179",
-  "https://www.newsis.com/view/NISX20260711_0003705213"
+  "https://www.newsis.com/view/NISX20260711_0003705213",
+  "http://www.metroseoul.co.kr/article/20260711500019",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190029.html",
+  "https://www.inthenews.co.kr/news/article.html?no=89202",
+  "https://biz.heraldcorp.com/article/10805521",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683420",
+  "https://www.todaykorea.co.kr/news/articleView.html?idxno=403705",
+  "https://www.sedaily.com/article/20066524",
+  "https://www.hankookilbo.com/news/article/A2026071112260004189?did=NA"
  ],
  "seen_titles": [
-  "세계4위D램中CXMT,IPO절차돌입…6조5000억원조달",
-  "中창신메모리6.5조원조달시동…애플까지D램러브콜",
-  "산업차관\"서남권반도체팹2030년가동…원전도검토\"",
-  "KT알파,AI로실시간재고분석…라이브처럼판다",
-  "7500찍고다시7200으로…요동치는'롤러코스피'",
-  "[김상훈의포커스온]청년이미래라면",
-  "권석준교수\"메모리파운드리시대에대비해야\"",
-  "[제약계이모저모]큐로셀CAR-T신약‘림카토’,암질심통과​外",
   "李대통령\"한·몽황금시대열어가자\"...몽골대통령\"중요한전략적동...",
   "반도체산단부지'광주군공항'주변토지거래허가구역지정",
   "사회적가치연구원·SK텔레콤·日소프트뱅크,AI·ICT분야사회적가치...",
@@ -6001,17 +5993,17 @@
   "\"삼전닉스가아니었다\"…한달수익률1~5위'싹쓸이'[이수의ETF줌인]",
   "'3골3도움'서진수앞세운다...대전하나시티즌,제주잡고후반기첫승...",
   "제주도·제주에너지공사,'2026년제주에너지전환아카데미'현장탐방...",
-  "“한국메모리칩업체의역사적인데뷔,주식시장흔들어”-WSJ"
+  "“한국메모리칩업체의역사적인데뷔,주식시장흔들어”-WSJ",
+  "SK하이닉스,美나스닥첫날13%폭등…외국기업역사상최대규모IPO...",
+  "최태원\"나스닥상장,역사적순간…AI대규모투자할것\"",
+  "하나은행반도체소부장협력기업에생산적금융공급…스케일업지원",
+  "30%폭락설마했는데…“빨리팔아라”“이젠끝물이다”반도체공포...",
+  "SK하이닉스토큰화주식,나스닥상장과동시에솔라나거래개시",
+  "HD현대마린솔루션,'웨더뉴스'와AI항로최적화파트너십'맞손'",
+  "“성지순례왔다”코스피하락맞힌그보고서…이번엔“반등하면1만...",
+  "최태원\"반도체수급주기구조적으로변화\"…미국공장건설도검토"
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T06:31:14.902489+09:00",
-   "급등 오징어게임 급락 연일 반복하는 됐다 언론 증시에"
-  ],
-  [
-   "2026-07-11T06:31:14.902489+09:00",
-   "상승 인텔 마이크론 껑충 나스닥100 엔비디아"
-  ],
   [
    "2026-07-11T06:41:14.210340+09:00",
    "부족 최태원 AI 생산 메모리 5년간 2배로도"
@@ -6523,9 +6515,29 @@
   [
    "2026-07-11T12:31:14.384146+09:00",
    "WSJ 주식 역사적인 시장 업체의 메모리 데뷔 한국 흔들어"
+  ],
+  [
+   "2026-07-11T12:41:11.971806+09:00",
+   "폭락 공포 설마했는데 빨리 팔아라 반도체 이젠 끝물이다"
+  ],
+  [
+   "2026-07-11T12:41:11.971806+09:00",
+   "거래 주식 나스닥 동시에 상장과 개시 토큰화 솔라나 SK하이닉스"
+  ],
+  [
+   "2026-07-11T12:41:11.971806+09:00",
+   "HD현대마린솔루션 웨더뉴스 파트너십 최적화 항로 맞손 AI"
+  ],
+  [
+   "2026-07-11T12:41:11.971806+09:00",
+   "1만 하락 이번엔 코스피 성지순례 왔다 맞힌 반등하면 보고서"
+  ],
+  [
+   "2026-07-11T12:41:11.971806+09:00",
+   "구조적으로 검토 주기 공장 미국 건설도 반도체 최태원 수급 변화"
   ]
  ],
- "last_run": "2026-07-11T12:31:28.413780+09:00",
+ "last_run": "2026-07-11T12:41:28.910790+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
