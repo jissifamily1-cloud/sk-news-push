@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/economy/trend/6223552",
-  "http://www.fnnews.com/news/202607091826248283",
   "http://www.ikpnews.net/news/articleView.html?idxno=70909",
   "http://www.fnnews.com/news/202607091824407693",
   "https://www.tfmedia.co.kr/news/article.html?no=205652",
@@ -2999,11 +2997,11 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683420",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=403705",
   "https://www.sedaily.com/article/20066524",
-  "https://www.hankookilbo.com/news/article/A2026071112260004189?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026071112260004189?did=NA",
+  "https://www.ytn.co.kr/_ln/0102_202607111245345516",
+  "https://news.tf.co.kr/read/world/2342264.htm"
  ],
  "seen_titles": [
-  "李대통령\"한·몽황금시대열어가자\"...몽골대통령\"중요한전략적동...",
-  "반도체산단부지'광주군공항'주변토지거래허가구역지정",
   "사회적가치연구원·SK텔레콤·日소프트뱅크,AI·ICT분야사회적가치...",
   "호남반도체클러스터투기차단…광주군공항일대'토허제'지정",
   "SKT\"AI의사회적가치계산…글로벌표준구축\"",
@@ -6001,13 +5999,11 @@
   "SK하이닉스토큰화주식,나스닥상장과동시에솔라나거래개시",
   "HD현대마린솔루션,'웨더뉴스'와AI항로최적화파트너십'맞손'",
   "“성지순례왔다”코스피하락맞힌그보고서…이번엔“반등하면1만...",
-  "최태원\"반도체수급주기구조적으로변화\"…미국공장건설도검토"
+  "최태원\"반도체수급주기구조적으로변화\"…미국공장건설도검토",
+  "SK최태원\"미국에메모리생산공장도가능\"",
+  "외신\"SK하이닉스역사적나스닥데뷔,美증시흔들었다\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T06:41:14.210340+09:00",
-   "부족 최태원 AI 생산 메모리 5년간 2배로도"
-  ],
   [
    "2026-07-11T06:51:05.675861+09:00",
    "정책 못보내 이월 데이터 가족한테도 요지부동 공유 맘대로"
@@ -6537,7 +6533,7 @@
    "구조적으로 검토 주기 공장 미국 건설도 반도체 최태원 수급 변화"
   ]
  ],
- "last_run": "2026-07-11T12:41:28.910790+09:00",
+ "last_run": "2026-07-11T12:48:09.338112+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
