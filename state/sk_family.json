@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/26/2026062690318.html",
-  "http://www.00news.co.kr/news/articleView.html?idxno=104738",
   "https://www.segye.com/newsView/20260626507676?OutUrl=naver",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1528781",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536724",
@@ -2999,11 +2997,11 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100031.html",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607110259&t=NN",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608267",
-  "https://www.news1.kr/local/jeonbuk/6225012"
+  "https://www.news1.kr/local/jeonbuk/6225012",
+  "http://www.nongaek.com/news/articleView.html?idxno=95912",
+  "https://www.seoultimes.news/news/article.html?no=2000097656"
  ],
  "seen_titles": [
-  "대기업오너일가주식담보대출1년새2.4조감소…삼성가제외하면4.8...",
-  "대기업오너일가주식담보대출2.4조줄었지만…영풍·신세계·셀트리...",
   "대기업오너일가,삼성가빼면주식담보대출오히려늘었다",
   "최태원·노소영'세기의재산분할',5배뛴SK주식최대변수",
   "최태원이혼파기환송심한달앞…SK주가상승에재산분할'복잡'",
@@ -6001,7 +5999,9 @@
   "월가홀린SK하이닉스…WSJ\"韓메모리반도체,美증시흔들다\"",
   "상장첫날13%급등…\"역사적데뷔\"외신도주목",
   "외신“SK하이닉스,화려한데뷔”…월가‘낙관론’에투자심리살아...",
-  "송영길\"익산은내뿌리…李실용정치구현해온사람바로나\"(종합)"
+  "송영길\"익산은내뿌리…李실용정치구현해온사람바로나\"(종합)",
+  "영풍오너일가,주식맡기고최대한대출받은이유…고려아연경영권분...",
+  "[이슈]SK하이닉스,265억달러조달나스닥데뷔…첫날13%상승"
  ],
  "recent_sigs": [
   [
@@ -6125,7 +6125,7 @@
    "송영길 구현해 실용정치 익산은 바로 사람 뿌리"
   ]
  ],
- "last_run": "2026-07-11T15:40:34.524853+09:00",
+ "last_run": "2026-07-11T15:50:31.581176+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
