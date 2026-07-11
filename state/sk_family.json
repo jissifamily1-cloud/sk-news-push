@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newswhoplus.com/news/articleView.html?idxno=63379",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248999",
-  "http://www.newsbrite.net/news/articleView.html?idxno=198902",
-  "https://www.sjsori.com/news/articleView.html?idxno=87101",
-  "http://www.babytimes.co.kr/news/articleView.html?idxno=73407",
-  "https://magazine.hankyung.com/business/article/202606271427b",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790069.html",
   "https://www.seoultimes.news/news/article.html?no=2000097106",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=140691",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608260",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190041.html",
   "https://www.kukinews.com/article/view/kuk202607110019",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645513536"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645513536",
+  "https://www.ceoscoredaily.com/page/view/2026062913300717331",
+  "https://www.newsway.co.kr/news/view?ud=2026071114401933396",
+  "https://biz.chosun.com/international/international_economy/2026/07/11/ZEL6RJLIKBA2PM3OCUUZU23VNQ/",
+  "http://www.segyebiz.com/newsView/20260711508210?OutUrl=naver",
+  "https://www.hankyung.com/article/202607108677i",
+  "https://www.hankyung.com/article/2026071192457"
  ],
  "seen_titles": [
-  "조정식국회의장,대한상의서첫정책간담회…“국회·경제계상시소...",
-  "최태원상의회장“법·제도안정운영으로예측가능환경조성돼야”",
-  "[현장]국회의장만난최태원\"미래준비위해법·제도예측가능해야\"",
-  "'경제대도약간담회'참석하는조정식-최태원[포토]",
-  "조정식국회의장,취임첫대한상의방문",
-  "손맞잡은조정식국회의장-최태원회장[포토]",
   "최태원\"AI경쟁력높이려면법·제도·행정같이움직여야\"",
   "국회의장-대한상의경제대도약간담회",
   "국회의장-대한상의경제대도약간담회개최",
@@ -6001,17 +5995,15 @@
   "“화려한미국데뷔”외신들,SK하이닉스뉴욕상장소식호평…월가...",
   "SK하이닉스,美나스닥첫날13%급등…최태원\"지금은AI시대\"",
   "SK하이닉스성공적인미국시장데뷔앞다퉈보도한외신들…월가는“...",
-  "SK하이닉스'40조'美ADR상장이유…닛케이가주목한이유셋"
+  "SK하이닉스'40조'美ADR상장이유…닛케이가주목한이유셋",
+  "권혁빈,‘세기의이혼소송’내달마지막변론…스마일게이트,지배구...",
+  "최태원\"반도체,옛날식사이클끝\"…액면분할도검토가능",
+  "“화려한美데뷔”…SK하이닉스상장에주목하는외신",
+  "블룸버그등외신“SK하이닉스,역사적美데뷔…외투,韓서부의상징...",
+  "\"경제학자?컨설턴트?아무도모른다…삼전닉스만안다\"[청와대는지금...",
+  "공모가대비13%급등…외신이본SK하이닉스의'화려한데뷔'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T08:50:18.217063+09:00",
-   "AI가 메모리 사이클 SK하닉 월가 시험대 입성한 증시 바꿀"
-  ],
-  [
-   "2026-07-11T08:50:18.217063+09:00",
-   "대비 전체 미국 급등 공모가 주식 딜은 SK하닉ADR"
-  ],
   [
    "2026-07-11T09:00:30.685047+09:00",
    "투자도 확대 AI에 수백억달러 베팅 대미"
@@ -6147,9 +6139,17 @@
   [
    "2026-07-11T14:40:17.132818+09:00",
    "40조 SK하이닉스 상장 닛케이가 주목한 이유 ADR"
+  ],
+  [
+   "2026-07-11T14:50:19.142054+09:00",
+   "청와대는 모른다 컨설턴트 지금 경제학자 안다 삼전닉스만 아무도"
+  ],
+  [
+   "2026-07-11T14:50:19.142054+09:00",
+   "대비 급등 화려한 SK하이닉스의 외신이 공모가 데뷔"
   ]
  ],
- "last_run": "2026-07-11T14:40:33.992151+09:00",
+ "last_run": "2026-07-11T14:50:35.067239+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
