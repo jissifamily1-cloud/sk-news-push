@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202607090195",
-  "https://www.cstimes.com/news/articleView.html?idxno=712910",
-  "https://www.news1.kr/politics/president/6223419",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990297.html",
-  "http://www.fnnews.com/news/202607091214465804",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1530144",
-  "https://www.mk.co.kr/article/12094834",
   "http://www.kjdaily.com/article.php?aid=1783595084682106002",
   "https://www.munhwa.com/article/11601610",
   "http://www.fnnews.com/news/202607091824587567",
@@ -2999,16 +2992,16 @@
   "https://www.news2day.co.kr/article/20260711500003",
   "https://www.hankyung.com/article/202607108677i",
   "https://www.hankyung.com/article/2026071192457",
-  "http://www.segyebiz.com/newsView/20260711508210?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20260711508210?OutUrl=naver",
+  "https://www.slist.kr/news/articleView.html?idxno=751130",
+  "https://www.ppss.kr/news/articleView.html?idxno=301866",
+  "https://www.globale.co.kr/news/articleView.html?idxno=39282",
+  "https://www.kgnews.co.kr/news/article.html?no=903482",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80405",
+  "https://www.koreajoongangdaily.com/business/muans-uturn-clears-path-for-gwangjus-semiconductor-megacluster/12768297",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190043.html"
  ],
  "seen_titles": [
-  "최태원DBL철학기반…SK·소프트뱅크,AI사회적가치측정협력확대",
-  "이미200만원넘는데…SK하이닉스목표가185만원리포트등장",
-  "동복댐,국가소유로전환후증고사업…호남반도체'속도전'",
-  "[촉석루]영원한1등은없다-오세란(창조경영파트너스대표)",
-  "SK하닉,목표가185만원보고서나와…\"더좋은기회기다리자\"",
-  "충북도반도체이후성장동력발굴해야",
-  "SKAX,반도체·조선현장에‘자율형공장’도입본격화",
   "[폴리-한길리서치]호남반도체클러스터프로젝트,찬성47.1%vs반대4...",
   "최태원'AI밸류체인'청사진속SK실트론역할커진다…매각향방주목",
   "[기자수첩]주식시장은카지노가아니다",
@@ -6001,13 +5994,16 @@
   "[로컬인사이드]화성시올A,구리시는올D...경기도31개시·군의현주...",
   "\"경제학자?컨설턴트?아무도모른다…삼전닉스만안다\"[청와대는지금...",
   "공모가대비13%급등…외신이본SK하이닉스의'화려한데뷔'",
-  "블룸버그등외신“SK하이닉스,역사적美데뷔…외투,韓서부의상징..."
+  "블룸버그등외신“SK하이닉스,역사적美데뷔…외투,韓서부의상징...",
+  "외신,SK하이닉스집중조명\"화려한美데뷔…AI투자심리되살려\"",
+  "나스닥사장\"SK하이닉스ADR'블록버스터'…해외기업미국상장관심...",
+  "외신\"AI와반도체힘\"SK하이닉스,나스닥데뷔13%폭등",
+  "이재명대통령“한-몽골가까운친구…새로운도약·발전함께하는동...",
+  "[ParkSu-jin'sMoneyWatch]KOSPIclosesabovethe7400level;semicon",
+  "Muan'sU-turnclearspathforGwangju'ssemiconductormega-cluster",
+  "박나래檢송치…연예계복귀가능할까?"
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T09:01:18.769327+09:00",
-   "가뭄 거래 훈풍에 업비트 400억원대로 거래대금 반등 증시 얼마나"
-  ],
   [
    "2026-07-11T09:11:10.966381+09:00",
    "서클 기대감 클래리티법 비트코인 반등 스트래티지"
@@ -6359,9 +6355,21 @@
   [
    "2026-07-11T14:51:09.114885+09:00",
    "역사적 상징 외투 SK하이닉스 블룸버그 외신 데뷔 부의"
+  ],
+  [
+   "2026-07-11T15:01:19.729473+09:00",
+   "level the KOSPI above closes semiconduc"
+  ],
+  [
+   "2026-07-11T15:01:19.729473+09:00",
+   "turn clears cluster Muan mega for path semiconductor Gwangju"
+  ],
+  [
+   "2026-07-11T15:01:19.729473+09:00",
+   "송치 박나래 복귀 가능할까 연예계"
   ]
  ],
- "last_run": "2026-07-11T14:51:23.332998+09:00",
+ "last_run": "2026-07-11T15:01:30.935550+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
