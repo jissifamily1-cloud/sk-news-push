@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=806197",
-  "https://www.m-i.kr/news/articleView.html?idxno=1390100",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=435644",
-  "https://bizhankook.com/articles/139254.html",
-  "https://www.mt.co.kr/stock/2026/07/09/2026070916251891909",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715795",
   "https://weeklytrade.co.kr/news/view.html?no=100550",
   "https://www.asiatime.co.kr/article/20260709500399",
   "http://www.inews24.com/view/1984158",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260702001049",
   "https://www.newspim.com/news/view/20260702001038",
   "https://www.newspim.com/news/view/20260702001046",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424497"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424497",
+  "https://www.hani.co.kr/arti/economy/finance/1267537.html",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92101",
+  "https://news.tf.co.kr/read/economy/2342233.htm",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=83209",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849688",
+  "https://www.techm.kr/news/articleView.html?idxno=153298"
  ],
  "seen_titles": [
-  "[아파트大경쟁시대]GTX품은'매머드단지'맞대결…'상동역롯데캐...",
-  "반도체장세,다시쏠림으로갈까?",
-  "농식품부·aT,서울코엑스서방한관광객대상K-푸드홍보행사",
-  "[제약뉴스브리핑]동아쏘시오그룹,신입사원70여명'벽화그리기'봉사",
-  "[증시오늘]등락반복하다0.6%오른코스피",
-  "송영길,전남광주서출사표…\"호남이낳고DJ가선택했으며李에모든...",
   "[핸드볼H리그결산]3년연속베스트7골키퍼하남시청박재용…최고...",
   "연구개발특구진흥재단,'글로벌밸류업캠프''개최…해외진출지원",
   "[닻올린균형발전⑧]두산에너빌리티호남권전력수요급증기대,박지...",
@@ -6001,7 +5995,13 @@
   "최창원SKSUPEX추구협의회의장환영사",
   "기념촬영하는주병기-최창원",
   "SK-공정위상생협약체결식참석한주병기-최창원",
-  "국민연금2Q대량보유종목보니…'K소비재·전력인프라'부상"
+  "국민연금2Q대량보유종목보니…'K소비재·전력인프라'부상",
+  "보름간5조순매수,30%증발…‘삼전닉스레버리지’에물린개미들",
+  "'AI기술주'강세에뉴욕증시상승마감…SK하닉ADR첫날13%↑",
+  "SK하이닉스ADR,나스닥첫날13%뛰었다…AI반도체기대감확인",
+  "뉴욕증시동반상승-SK하이닉스나스닥데뷔흥행,AI반도체주강세",
+  "[뉴욕증시]AI기술주강세…3대지수상승",
+  "[카드뉴스]세계가40조원을맡겼다..SK하이닉스가'AI시대의핵심기..."
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,17 @@
   [
    "2026-07-11T09:14:44.476638+09:00",
    "K소비재 부상 보니 인프라 전력 2Q 종목 국민연금 대량보유"
+  ],
+  [
+   "2026-07-11T09:21:04.689889+09:00",
+   "강세 3대 AI 상승 기술주 지수"
+  ],
+  [
+   "2026-07-11T09:21:04.689889+09:00",
+   "세계가 핵심 맡겼다 40조원을 시대의 SK하이닉스가 AI"
   ]
  ],
- "last_run": "2026-07-11T09:14:50.206344+09:00",
+ "last_run": "2026-07-11T09:21:14.218333+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
