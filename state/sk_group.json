@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=571625&class=32",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250155&CMPT_CD=P0010",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6936214",
-  "http://www.segyebiz.com/newsView/20260709523014?OutUrl=naver",
-  "http://www.fnnews.com/news/202607091817025060",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=114618",
-  "http://www.popcornnews.net/news/articleView.html?idxno=126182",
-  "https://www.hankyung.com/article/2026070963211",
   "http://www.queen.co.kr/news/articleView.html?idxno=460070",
   "http://www.inews24.com/view/1984126",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05185686645512880",
@@ -2999,17 +2991,17 @@
   "http://www.fnnews.com/news/202607111113308260",
   "https://www.sedaily.com/article/20066520",
   "https://www.etnews.com/20260711000015",
-  "https://www.news1.kr/local/gwangju-jeonnam/6224919"
+  "https://www.news1.kr/local/gwangju-jeonnam/6224919",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62026",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=361959",
+  "https://biz.sbs.co.kr/article_hub/20000321900?division=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608234",
+  "https://www.imaeil.com/page/view/2026071111514242848",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250497&CMPT_CD=P0010",
+  "http://www.bokuennews.com/news/article.html?no=281155",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=511832"
  ],
  "seen_titles": [
-  "[AJU+MONEY]코스피상승률보다높은150%수익률...대학생투자고수의...",
-  "이장섭號첫조직개편…복지최우선",
-  "충청권에392조쏟는다…삼성·SK하이닉스대규모투자",
-  "코스피흔들릴때은행주는웃었다…변동장서‘방어주’부각",
-  "“TK홀대론극복해야~”추경호대구시장-대구의원‘원팀’강조",
-  "[충청논단]민선9기첫시험대'청주반도체특별법적용'",
-  "반도체흔들리자은행주로뭉칫돈…\"저평가·배당매력부각\"",
-  "ADR흥행조짐에…하이닉스5%반등",
   "반도체外주도업종실종…증권가목표주가'뚝뚝'",
   "성시경,9월일본서리메이크앨범발표…10월도쿄공연",
   "SK하이닉스,나스닥ADR상장임박…본주재평가기대",
@@ -6001,7 +5993,15 @@
   "최태원\"입지조건맞으면美반도체추가투자가능\"...韓·해외동시다...",
   "나스닥입성SK하이닉스…최태원“미국메모리공장도가능”",
   "최태원“메모리공급늘려야,조건맞으면美든어디든팹투자…액면...",
-  "강위원전전남도부지사\"반도체팹건설물론생산까지기대\""
+  "강위원전전남도부지사\"반도체팹건설물론생산까지기대\"",
+  "미국나스닥입성한SK하이닉스..자본시장심장부서‘글로벌컴퍼니’...",
+  "나스닥에뜬태극기,SK하이닉스'AI반도체왕좌'성큼",
+  "'세계D램4위'中CXMT6.5조장전…범용D램서삼성·SK추격",
+  "‘미상장’첫날,최태원에‘서울-뉴욕주가차이’물었더니[지금뉴...",
+  "韓청년주식집착,이유있었다…\"월급·대출론평생집못사\"",
+  "\"닥치고수도권주택공급?맞는방향아냐\"",
+  "K-팝팬덤동선따라K-푸드체험",
+  "‘주청사는어디?’전남광주통합특별시첫삽부터엇박자"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,21 @@
   [
    "2026-07-11T11:51:11.555899+09:00",
    "건설 물론 기대 전남도 강위원 부지사 반도체 생산까지"
+  ],
+  [
+   "2026-07-11T12:01:22.785086+09:00",
+   "아냐 수도권 맞는 닥치고 공급 주택 방향"
+  ],
+  [
+   "2026-07-11T12:01:22.785086+09:00",
+   "따라 동선 체험 팬덤 푸드"
+  ],
+  [
+   "2026-07-11T12:01:22.785086+09:00",
+   "어디 전남광주통합특별시 엇박자 삽부터 주청사는"
   ]
  ],
- "last_run": "2026-07-11T11:51:18.365611+09:00",
+ "last_run": "2026-07-11T12:01:34.296157+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
