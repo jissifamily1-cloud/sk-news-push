@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=570799&class=32",
-  "https://www.news1.kr/society/court-prosecution/6209326",
-  "https://news.tf.co.kr/read/photomovie/2336843.htm",
   "http://www.4th.kr/news/articleView.html?idxno=2113753",
   "https://biz.chosun.com/topics/law_firm/2026/06/26/HLTIBJFAPNESHG66Z6I5EDDUSE/",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5202096",
@@ -2999,12 +2996,12 @@
   "https://www.tokenpost.kr/news/market/376856",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424505",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1715999",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310961"
+  "https://www.thepublic.kr/news/articleView.html?idxno=310961",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306855&inflow=N",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683195",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306863&inflow=N"
  ],
  "seen_titles": [
-  "자정,오는21일신곡‘오늘처럼비가오면’발매",
-  "자정,장마시즌발라드'오늘처럼비가오면'으로컴백",
-  "양주시인수위공식출범…“시민이주인인시정구현”",
   "7월네티즌어워즈본격개막…하반기첫팬심레이스막올랐다",
   "[상생코리아]최태원뚝심통할까…SK바팜뇌전증신약,국내출시추진",
   "[동정]최종현속초시의원",
@@ -6001,7 +5998,10 @@
   "삼성전자·SK하이닉스급락으로흔들린코스피…반도체업종향후전망...",
   "SK하이닉스ADR,'흥행몰이'성공…'韓반도체랠리'영향은",
   "﻿\"피크아웃없다\"최태원승부수…40조실탄들고美공장까지검토",
-  "나스닥서40조쥔SK하이닉스…HBM넘어'AI인프라기업'노린다"
+  "나스닥서40조쥔SK하이닉스…HBM넘어'AI인프라기업'노린다",
+  "(주간증시전망)SK하이닉스ADR상장여파에촉각",
+  "삼성전자·SK하이닉스,D램영업이익률80%육박…메모리초호황굳건",
+  "하닉,'40조잭팟'…뉴욕증시역사새로썼다"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,17 @@
   [
    "2026-07-12T08:20:24.851340+09:00",
    "승부수 검토 공장까지 실탄 없다 40조 피크아웃 들고"
+  ],
+  [
+   "2026-07-12T08:58:09.542863+09:00",
+   "SK하이닉스 굳건 초호황 삼성전자 육박 D램 메모리 영업이익률"
+  ],
+  [
+   "2026-07-12T08:58:09.542863+09:00",
+   "잭팟 역사 40조 증시 썼다 뉴욕 새로 하닉"
   ]
  ],
- "last_run": "2026-07-12T08:50:37.146297+09:00",
+ "last_run": "2026-07-12T08:58:24.416535+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
