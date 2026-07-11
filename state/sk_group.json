@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/securities/2026/07/10/20260710029004?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/10/20260710029003?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/peoples/2026/07/10/20260710023005?wlog_tag3=naver",
   "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/07/10/20260710019010?wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20260709_0003703191",
   "https://www.segye.com/newsView/20260709520659?OutUrl=naver",
@@ -2999,12 +2996,12 @@
   "https://www.ddaily.co.kr/page/view/2026071109475731846",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1530372",
   "https://news.jtbc.co.kr/article/NB12307769?influxDiv=NAVER",
-  "https://news.cpbc.co.kr/article/1174279?division=NAVER"
+  "https://news.cpbc.co.kr/article/1174279?division=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6836732_37004.html",
+  "https://basketkorea.com/news/newsview.php?ncode=1065611176970458",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652971&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "“SK하이닉스,ADR공모가주당149달러제시…265억달러조달추진”",
-  "삼성전자7%내렸는데ETF는25%폭락…단일종목레버리지'경고등'",
-  "마이크론4.5%급등…AI메모리랠리에美반도체주강세",
   "\"SK하이닉스ADR공모가,주당149달러제시…40조원조달추진\"",
   "AI반도체가중동리스크눌렀다…나스닥1.3%↑[뉴욕마감]",
   "[SK하이닉스ADR상장]①SK하이닉스뉴욕입성…‘역대2위’37조조달",
@@ -6001,7 +5998,10 @@
   "단일레버리지출시에코스닥한때700선…금융당국,해결의지있나[증...",
   "SK하이닉스'13%급등'성공데뷔…최태원\"미국추가투자검토\"",
   "'나스닥흥행'속본주기대…'대만사례'비교하며신중론",
-  "[사제의눈]인공지능키운다고개인정보넘기는우리"
+  "[사제의눈]인공지능키운다고개인정보넘기는우리",
+  "SK하이닉스,미국서첫날급등‥'화려한데뷔'",
+  "10전10패끝첫승,‘이주민여성농구단’글로벌마더스의성장드라...",
+  "거래첫날부터공모가'훌쩍'…활짝웃은최태원회장"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,17 @@
   [
    "2026-07-11T20:08:37.946620+09:00",
    "넘기는 우리 개인정보 키운다고 인공지능"
+  ],
+  [
+   "2026-07-11T20:11:09.589427+09:00",
+   "드라 10패 이주민 여성 글로벌 농구단 마더스의 10전 성장"
+  ],
+  [
+   "2026-07-11T20:11:09.589427+09:00",
+   "공모가 회장 훌쩍 활짝 웃은 최태원 첫날부터 거래"
   ]
  ],
- "last_run": "2026-07-11T20:08:48.620150+09:00",
+ "last_run": "2026-07-11T20:11:19.214324+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
