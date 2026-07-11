@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260709520659?OutUrl=naver",
-  "https://www.g-enews.com/view.php?ud=2026070921264372799a1f309431_1",
   "https://www.seoul.co.kr/news/economy/2026/07/10/20260710005004?wlog_tag3=naver",
   "https://www.etoday.co.kr/news/view/2602125",
   "https://www.segye.com/newsView/20260710502141?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "https://basketkorea.com/news/newsview.php?ncode=1065611176970458",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652971&plink=ORI&cooper=NAVER",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html",
-  "https://kjmbc.co.kr/NewsArticle/1527103"
+  "https://kjmbc.co.kr/NewsArticle/1527103",
+  "https://www.etnews.com/20260711000043",
+  "https://www.lecturernews.com/news/articleView.html?idxno=205973"
  ],
  "seen_titles": [
-  "[SK하이닉스ADR상장]①SK하이닉스뉴욕입성…‘역대2위’37조조달",
-  "[SK하이닉스ADR상장]③7배청약뭉칫돈…TSMC성공공식잇나",
   "[속보]\"SK하이닉스가AI로시선\"…반도체랠리에나스닥1.3%↑",
   "폭스바겐,창사이래최대구조조정카드꺼냈다[글로벌모닝브리핑]",
   "SK하이닉스,오늘나스닥상장…37조실탄으로증설드라이브",
@@ -6001,13 +5999,11 @@
   "10전10패끝첫승,‘이주민여성농구단’글로벌마더스의성장드라...",
   "거래첫날부터공모가'훌쩍'…활짝웃은최태원회장",
   "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\"",
-  "원료에서첨단소재로..여수산업전환가능성은?"
+  "원료에서첨단소재로..여수산업전환가능성은?",
+  "나스닥사장“SK하이닉스상장,대박”…“삼성전자도상장하나?”물...",
+  "전북대학교,SKAX와AI거점대학구현맞손…실무형AI인재양성본격..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T14:41:09.580046+09:00",
-   "닛케이가 주목한 SK하이닉스 40조 ADR 상장 이유"
-  ],
   [
    "2026-07-11T14:51:09.114885+09:00",
    "화성시 구리시는 올D 경기도 현주 올A 31개 군의"
@@ -6223,9 +6219,17 @@
   [
    "2026-07-11T20:31:13.959675+09:00",
    "산업 첨단소재로 원료에서 여수 가능성은"
+  ],
+  [
+   "2026-07-11T20:51:03.769801+09:00",
+   "SK하이닉스 상장하나 사장 대박 삼성전자도 나스닥 상장"
+  ],
+  [
+   "2026-07-11T20:51:03.769801+09:00",
+   "AI 구현 AX와 본격 인재 양성 거점대학 전북대학교 맞손 실무형"
   ]
  ],
- "last_run": "2026-07-11T20:41:10.350868+09:00",
+ "last_run": "2026-07-11T20:51:13.232291+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
