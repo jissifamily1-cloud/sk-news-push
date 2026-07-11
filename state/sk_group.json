@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yakup.com/news/index.html?cat=12&nid=329626",
-  "http://www.newstomato.com/ReadNews.aspx?no=1306651&inflow=N",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6836384_37012.html",
-  "https://www.kukinews.com/article/view/kuk202607090188",
-  "http://www.kgnews.co.kr/news/article.html?no=903352",
-  "https://www.kukinews.com/article/view/kuk202607090191",
   "https://magazine.hankyung.com/money/article/202606197162c",
   "https://www.etoday.co.kr/news/view/2602242",
   "http://www.kgnews.co.kr/news/article.html?no=903330",
@@ -2999,15 +2993,15 @@
   "https://www.thereport.co.kr/news/articleView.html?idxno=89534",
   "https://www.gokorea.kr/news/articleView.html?idxno=871847",
   "https://www.apnews.kr/news/articleView.html?idxno=3049700",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310890"
+  "https://www.thepublic.kr/news/articleView.html?idxno=310890",
+  "https://www.betanews.net/article/view/beta202607120007",
+  "https://www.tokenpost.kr/news/market/376859",
+  "http://www.metroseoul.co.kr/article/20260712500016",
+  "https://www.bigtanews.co.kr/article/view/big202607100019",
+  "http://www.fnnews.com/news/202607120829349719",
+  "https://www.newsis.com/view/NISX20260710_0003704774"
  ],
  "seen_titles": [
-  "[오늘(24일)의경제·산업주요일정·행사]고려아연주주총회등",
-  "[오늘(23일)의경제·산업주요일정·행사]'LG전자,주주총회'등",
-  "고려대·USC,AI디지털콘퍼런스개최",
-  "이통3사주총시즌개막…지배구조재편·AI전환'분수령'",
-  "금융위,중기특화증권사7곳지정…모험자본공급인센티브강화",
-  "중소기업특화금융투자회사7개사지정…한화·IBK·SK등",
   "금융위,중소기업특화증권사7곳지정…3년간자격유지",
   "중기특화증권사7곳지정…펀드출자·대출만기연장'인센티브강화...",
   "파운드리부활·37조잭팟…이재용·최태원,美서반도체정면돌파",
@@ -6001,7 +5995,13 @@
   "[인사]하나은행",
   "[인사]전병탁하나은행영도지점장외",
   "SKT,SK그룹15GWAIDC구축참여…인프라확대속도",
-  "SK인텔릭스,서울디자인재단과손잡고'DDP스마트디자인환경조성'나..."
+  "SK인텔릭스,서울디자인재단과손잡고'DDP스마트디자인환경조성'나...",
+  "하나은행,지점장등정기인사단행",
+  "코스피변동성속인버스·레버리지ETF매수열풍",
+  "[100세플러스포럼시즌2]CEO들한목소리로\"AI는자산시장에새로운...",
+  "<인사>하나은행",
+  "개미들'성지순례'터졌다…코스피폭락정확히맞힌보고서,이번엔\"지...",
+  "정유4사'14조담합'발표한검찰…공정위는신중모드"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,25 @@
   [
    "2026-07-12T08:31:19.320330+09:00",
    "조성 환경 손잡고 디자인 SK인텔릭스 스마트 서울디자인재단과 DDP"
+  ],
+  [
+   "2026-07-12T08:41:11.681897+09:00",
+   "CEO들 목소리로 AI는 자산시장에 새로운"
+  ],
+  [
+   "2026-07-12T08:41:11.681897+09:00",
+   "인사 하나은행"
+  ],
+  [
+   "2026-07-12T08:41:11.681897+09:00",
+   "개미들 이번엔 터졌다 폭락 맞힌 성지순례 보고서 코스피 정확히"
+  ],
+  [
+   "2026-07-12T08:41:11.681897+09:00",
+   "정유 14조 4사 신중모드 공정위는 담합 검찰 발표한"
   ]
  ],
- "last_run": "2026-07-12T08:32:13.731054+09:00",
+ "last_run": "2026-07-12T08:41:25.605926+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
