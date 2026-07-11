@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260709_0003703191",
   "https://www.segye.com/newsView/20260709520659?OutUrl=naver",
   "https://www.g-enews.com/view.php?ud=2026070921264372799a1f309431_1",
   "https://www.seoul.co.kr/news/economy/2026/07/10/20260710005004?wlog_tag3=naver",
@@ -2999,10 +2998,10 @@
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6836732_37004.html",
   "https://basketkorea.com/news/newsview.php?ncode=1065611176970458",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652971&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html",
+  "https://kjmbc.co.kr/NewsArticle/1527103"
  ],
  "seen_titles": [
-  "AI반도체가중동리스크눌렀다…나스닥1.3%↑[뉴욕마감]",
   "[SK하이닉스ADR상장]①SK하이닉스뉴욕입성…‘역대2위’37조조달",
   "[SK하이닉스ADR상장]③7배청약뭉칫돈…TSMC성공공식잇나",
   "[속보]\"SK하이닉스가AI로시선\"…반도체랠리에나스닥1.3%↑",
@@ -6001,13 +6000,10 @@
   "SK하이닉스,미국서첫날급등‥'화려한데뷔'",
   "10전10패끝첫승,‘이주민여성농구단’글로벌마더스의성장드라...",
   "거래첫날부터공모가'훌쩍'…활짝웃은최태원회장",
-  "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\""
+  "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\"",
+  "원료에서첨단소재로..여수산업전환가능성은?"
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T14:21:12.742436+09:00",
-   "경로 너머 취업 자립까지 넓힌다 창업 성장"
-  ],
   [
    "2026-07-11T14:41:09.580046+09:00",
    "닛케이가 주목한 SK하이닉스 40조 ADR 상장 이유"
@@ -6223,9 +6219,13 @@
   [
    "2026-07-11T20:21:10.142734+09:00",
    "핵심은 뒷받침 상장이 견인할까 실적 주가도 하이닉스 ADR"
+  ],
+  [
+   "2026-07-11T20:31:13.959675+09:00",
+   "산업 첨단소재로 원료에서 여수 가능성은"
   ]
  ],
- "last_run": "2026-07-11T20:21:15.707394+09:00",
+ "last_run": "2026-07-11T20:31:19.783739+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
