@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703003002?wlog_tag3=naver",
-  "https://biz.sbs.co.kr/article_hub/20000321674?division=NAVER",
-  "https://biz.chosun.com/international/international_economy/2026/07/10/PZZR7C6NJNBDRIMI7H32ZU6ZC4/",
-  "https://www.kukinews.com/article/view/kuk202607100002",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61393",
-  "https://www.munhwa.com/article/11601633",
   "https://www.hani.co.kr/arti/culture/book/1267629.html",
   "http://www.beyondpost.co.kr/view.php?ud=2026071006151071572aaae0046f_30",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038893",
@@ -2999,16 +2992,16 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424511",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683441",
   "https://www.wikitree.co.kr/articles/1145980",
-  "https://www.ytn.co.kr/_ln/0103_202607120837230613"
+  "https://www.ytn.co.kr/_ln/0103_202607120837230613",
+  "http://www.metroseoul.co.kr/article/20260712500022",
+  "http://www.fnnews.com/news/202607120842455587",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716002",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683195",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306855&inflow=N",
+  "http://www.srtimes.kr/news/articleView.html?idxno=207294",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306863&inflow=N"
  ],
  "seen_titles": [
-  "DDP에AI웰니스로봇들어선다…서울디자인재단,스마트서비스확대",
-  "\"두산,광모듈향CCL매출액1360억...추가수요대응여력충분\"-유진證",
-  "키옥시아1위로키워판베인캐피탈…홈플러스청산위기내몬MBK",
-  "[인터뷰]이상일용인시장\"지역3대반도체거점,제1호클러스터로지...",
-  "[데스크시각]리가켐바이오를보는두개의시선",
-  "[뉴욕증시]'美·이란충돌은단발성'기대감…강세마감",
-  "자회사IPO잇따르는K바이오...R&D성장전략자리매김",
   "[매거진]“상상도못했던,아니안했죠”DB단장-감독으로만난이흥...",
   "코스피·코스닥‘5%급락’잇단매도사이드카…이틀째폭락",
   "[EBN오늘(2일)이슈종합]국민연금리밸런싱첫날,중기대출줄고가계...",
@@ -6001,7 +5994,14 @@
   "외국인ETF매수1위는'인버스'…\"단일레버리지헷지용수급\"분석도",
   "[증시전망]코스피반등나서나...CPI·반도체실적시험대",
   "SK하이닉스나스닥상장이한국경제전체에미치는'뜻밖효과'",
-  "'장윤기사건'놓고'보완수사권'공방...'김용범표정책'공격"
+  "'장윤기사건'놓고'보완수사권'공방...'김용범표정책'공격",
+  "[분양캘린더]7월셋째주'동작센트럴동문디이스트'등753가구",
+  "美나스닥상장SK하이닉스,국내대규모달러공급",
+  "'노조무풍지대'대기업SI업계…삼성·현대·신세계출범에격변",
+  "삼성전자·SK하이닉스,D램영업이익률80%육박…메모리초호황굳건",
+  "(주간증시전망)SK하이닉스ADR상장여파에촉각",
+  "[주간브리핑]삼성전자세계영업익1위달성…SK하닉,美증시상장",
+  "하닉,'40조잭팟'…뉴욕증시역사새로썼다"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,13 @@
   [
    "2026-07-12T08:41:11.681897+09:00",
    "정유 14조 4사 신중모드 공정위는 담합 검찰 발표한"
+  ],
+  [
+   "2026-07-12T08:58:59.825165+09:00",
+   "40조 역사 하닉 잭팟 새로 썼다 뉴욕 증시"
   ]
  ],
- "last_run": "2026-07-12T08:51:13.535096+09:00",
+ "last_run": "2026-07-12T08:59:06.405024+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
