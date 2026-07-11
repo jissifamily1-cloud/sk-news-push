@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1984203",
-  "https://www.dt.co.kr/article/12072163",
-  "https://www.ytn.co.kr/_ln/0102_202607091913568425",
-  "https://www.koreajoongangdaily.com/business/sk-hynix-eyes-secondlargest-foreign-listing-in-us-history-with-245b-adr-offeringnbsp/12764927",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=306739",
-  "https://biz.heraldcorp.com/article/10804195",
-  "https://www.namdonews.com/news/articleView.html?idxno=916528",
-  "http://www.knnews.co.kr/news/articleView.php?idxno=1546086",
   "http://www.inews24.com/view/1984204",
   "http://www.inews365.com/news/article.html?no=926956",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091920141390655",
@@ -2999,17 +2991,17 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=441030",
   "https://www.ddaily.co.kr/page/view/2026071112352830418",
   "https://basketkorea.com/news/newsview.php?ncode=1065588794630952",
-  "https://www.ilemonde.com/news/articleView.html?idxno=30327"
+  "https://www.ilemonde.com/news/articleView.html?idxno=30327",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260711140842DOk",
+  "https://www.etoday.co.kr/news/view/2602676",
+  "https://bizhankook.com/articles/139268.html",
+  "https://www.apnews.kr/news/articleView.html?idxno=3049682",
+  "https://www.newsis.com/view/NISX20260711_0003705200",
+  "http://www.breaknews.com/1221045",
+  "https://www.nocutnews.co.kr/news/6546690",
+  "https://www.apnews.kr/news/articleView.html?idxno=3049677"
  ],
  "seen_titles": [
-  "성시경,9월일본리메이크앨범발매",
-  "수출전망여전히밝지만…하반기고점론vs질주론시험대",
-  "[집중진단]외국인매물받던개인투자자…반등하자2조던졌다",
-  "반도체팹,임기내에설비끝내야/주정민",
-  "[K리그1포인트]익숙하지만늘새로운,'포항답게'...박태하감독이선...",
-  "국힘\"호남반도체,제때전력공급어려워…대통령정치적이익위한...",
-  "호남반도체부지'광주군공항'인근'토지거래허가구역'지정",
-  "9일공매도거래대금2321억원급증,총2조4388억원",
   "\"'성과급논란본질은과도한'액수'…상한선설정해퇴직연금에적립해...",
   "국힘“삼전닉스레버리지폐지하라”",
   "용인특례시,옛생활사보존유물조사...건립될시립박물관기초자료로...",
@@ -6001,17 +5993,17 @@
   "SK하이닉스,나스닥ADR상장…글로벌AI시장공략강화",
   "[이호연의D톡스]‘주담대3억’비껴간사내대출…당국,자율관리주...",
   "에디다니엘이왜여기서나와?글로벌마더스첫승현장깜짝방문",
-  "[기획특집]기후위기와자원순환④.가스화기술,WTE산업을주도한..."
+  "[기획특집]기후위기와자원순환④.가스화기술,WTE산업을주도한...",
+  "외신\"SK하이닉스,화려한미국데뷔\"…월가도주목",
+  "외신,SK하이닉스美ADR상장에주목⋯“화려하고역사적인데뷔”",
+  "SK하이닉스나스닥상장첫날13%급등…40조'실탄'확보",
+  "[최태원의청년사다리②]\"경력같은신입\"…출발선앞당긴다",
+  "같은SK하이닉스인데美에서16%더비싸…'역김치프리미엄'얼마나갈...",
+  "AI혁명시대,삼성·SK하이닉스·엔비디아그리고5060세대",
+  "최태원\"메모리수요,장기간우상향…필요시美투자충분\"",
+  "[최태원의청년사다리①]성과급바깥의청년들…AI반도체일터넓힌..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-11T08:01:24.734058+09:00",
-   "이슈는 급락 양자컴퓨팅주 아이온큐"
-  ],
-  [
-   "2026-07-11T08:01:24.734058+09:00",
-   "잭팟 SK하이닉스 40조 디스카 코리아 미국서 터트린"
-  ],
   [
    "2026-07-11T08:11:13.223261+09:00",
    "구로 대위변제까지 생각공장 손상차손에"
@@ -6459,9 +6451,29 @@
   [
    "2026-07-11T14:01:19.053532+09:00",
    "기후 주도한 WTE 산업을 가스화 자원순환 위기와 기술"
+  ],
+  [
+   "2026-07-11T14:11:13.211092+09:00",
+   "경력 앞당긴다 신입 같은 출발선"
+  ],
+  [
+   "2026-07-11T14:11:13.211092+09:00",
+   "에서 프리미엄 SK하이닉스인데 얼마나 같은 역김치 비싸"
+  ],
+  [
+   "2026-07-11T14:11:13.211092+09:00",
+   "SK하이닉스 엔비디아 5060세대 AI 삼성 혁명시대 그리고"
+  ],
+  [
+   "2026-07-11T14:11:13.211092+09:00",
+   "최태원 투자 수요 충분 메모리 필요시 장기간 우상향"
+  ],
+  [
+   "2026-07-11T14:11:13.211092+09:00",
+   "일터 넓힌 AI 청년들 성과급 반도체 바깥의"
   ]
  ],
- "last_run": "2026-07-11T14:01:32.605650+09:00",
+ "last_run": "2026-07-11T14:11:29.616973+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
