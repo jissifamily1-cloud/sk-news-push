@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068660",
-  "https://www.hankookilbo.com/news/article/A2026070710130001011?did=NA",
-  "https://www.slist.kr/news/articleView.html?idxno=750081",
-  "https://www.yna.co.kr/view/PYH20260707042100054?input=1196m",
-  "https://www.ytn.co.kr/_ln/0115_202607071024261452",
-  "http://www.joseilbo.com/news/news_read.php?uid=571409&class=33",
-  "https://www.newsis.com/view/NISX20260707_0003698468",
-  "https://www.newsis.com/view/NISX20260707_0003698595",
   "https://www.yna.co.kr/view/AKR20260705018658054?input=1195m",
   "https://www.dt.co.kr/article/12071513",
   "https://www.yna.co.kr/view/AKR20260707066900004?input=1195m",
@@ -2999,17 +2991,17 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260711110036Oc2",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049216",
   "https://www.ytn.co.kr/_ln/0103_202607111100246185",
-  "https://www.ytn.co.kr/_ln/0134_202607111057059972"
+  "https://www.ytn.co.kr/_ln/0134_202607111057059972",
+  "https://www.seoul.co.kr/news/society/2026/07/11/20260711500012?wlog_tag3=naver",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030095718&code=61121211&cp=nv",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250550&CMPT_CD=P0010",
+  "https://www.yna.co.kr/view/PYH20260711018900054?input=1196m",
+  "https://www.kyeonggi.com/article/20260711580052",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094459",
+  "https://www.sidae.com/article/2026071110460586832",
+  "https://www.mt.co.kr/society/2026/07/11/2026071111034890472"
  ],
  "seen_titles": [
-  "상표권사용료부당내부거래쟁점은?",
-  "[속보]검찰,'케이블타이은폐'의혹광주광산경찰서압수수색",
-  "'장윤기아버지·경찰유착의혹'검찰강제수사착수…압수수색진행",
-  "검찰,'여고생살인사건'유착의혹광산경찰서압수수색",
-  "검찰,'부실수사'광주광산서압수수색...\"팀장이영상삭제지시\"",
-  "사라진‘결박도구’어디에?장윤기사건수사팀장,증거인멸혐의긴...",
-  "'김건희문고리'유경옥前행정관특검출석…알선수재방조혐의",
-  "검찰,여고생살인부실수사·경찰유착직접수사…광산서압수수색",
   "검찰,장윤기아버지·경찰유착의혹강제수사착수",
   "[속보]검찰,장윤기아버지·경찰유착의혹강제수사착수",
   "종합특검,'김건희문고리'유경옥前행정관피의자조사",
@@ -6001,7 +5993,15 @@
   "[이시각헤드라인]7월11일토요와이드(11시)",
   "경찰,'장윤기사건'수사윗선겨눴다…광주경찰청장실압수수색",
   "경찰청특별수사팀,광주경찰청청장실등압수수색",
-  "[자막뉴스]강력팀장이어경찰서장까지...'봐주기'의혹끝내윗선향했..."
+  "[자막뉴스]강력팀장이어경찰서장까지...'봐주기'의혹끝내윗선향했...",
+  "‘광주경찰청장실압수수색’경찰청특수팀…‘장윤기사건비위의혹...",
+  "경찰,장윤기수사지휘부정조준…광주경찰청장등압수수색",
+  "경찰,광주경찰청장등장윤기수사지휘부강제수사",
+  "경찰특별수사팀,'장윤기사건'광주경찰청압수수색",
+  "경찰특별수사팀,‘장윤기사건’광주경찰청장등지휘부압수수색",
+  "경찰특수팀,장윤기사건수사비위의혹광주경찰청장등'지휘부'압...",
+  "'의혹투성이'장윤기수사전방위확대…경찰,광주경찰청도압수수색",
+  "경찰,광주경찰청장등압수수색…'장윤기사건'지휘부겨냥"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "오늘아침 휴전 SK하이닉스 트럼프 종료 나스닥 선언한 데뷔 흥행"
   ]
  ],
- "last_run": "2026-07-11T11:11:06.913829+09:00",
+ "last_run": "2026-07-11T11:21:01.912568+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
