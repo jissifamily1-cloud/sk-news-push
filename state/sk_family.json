@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112831207",
-  "https://zdnet.co.kr/view/?no=20260630152709",
   "http://www.whosaeng.com/171724",
   "http://www.newstomato.com/ReadNews.aspx?no=1305639&inflow=N",
   "https://www.newsis.com/view/NISX20260701_0003691120",
@@ -2999,11 +2997,11 @@
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1530372",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6836732_37004.html",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652971&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6836733_37004.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608310",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608309"
  ],
  "seen_titles": [
-  "EY한영,파트너급60명승진인사…AI·산업전문성강화",
-  "[인사]EY한영",
   "오늘의인사-해수부,국세청,한국관광공사,KBS외",
   "EY한영,2026년정기인사···파트너급60명승진",
   "EY한영,파트너급60명정기인사…AI전문인력발탁",
@@ -6001,7 +5999,9 @@
   "SK하이닉스'13%급등'성공데뷔…최태원\"미국추가투자검토\"",
   "SK하이닉스,미국서첫날급등‥'화려한데뷔'",
   "거래첫날부터공모가'훌쩍'…활짝웃은최태원회장",
-  "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\""
+  "ADR상장이하이닉스주가도견인할까‥\"핵심은실적뒷받침\"",
+  "국내주가상승으로이어지나?…최태원“미국추가투자가능”",
+  "SK하이닉스,나스닥첫날13%급등마감…외신들“화려한데뷔”"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-07-11T20:20:21.327357+09:00",
    "ADR 상장이 뒷받침 핵심은 주가도 견인할까 실적 하이닉스"
+  ],
+  [
+   "2026-07-11T21:20:18.462162+09:00",
+   "SK하이닉스 나스닥 화려한 급등 외신들 마감 데뷔 첫날"
   ]
  ],
- "last_run": "2026-07-11T21:10:33.574436+09:00",
+ "last_run": "2026-07-11T21:20:33.965044+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
