@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/national/obituary-personnel/2026/07/01/OGMVO6W2SJGP3JHAC2S5OLPZUQ/",
   "http://www.yonhapnewstv.co.kr/news/MYH202606302315422iq",
   "https://www.dailysecu.com/news/articleView.html?idxno=207381",
   "https://www.kmib.co.kr/article/view.asp?arcid=1782799738&code=11111100&cp=nv",
@@ -2999,10 +2998,10 @@
   "https://www.mk.co.kr/article/12096135",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539218",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190102.html",
-  "https://www.munhwa.com/article/11601960"
+  "https://www.munhwa.com/article/11601960",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205318"
  ],
  "seen_titles": [
-  "[인사]해양수산부;한국관광공사;국민연금공단등",
   "[인사]해양수산부외",
   "[인사]세계일보외",
   "[오늘의인사:6월30일]해양수산부·조달청·병무청·산림청·지식재...",
@@ -6001,7 +6000,8 @@
   "“미국증시에화려하게데뷔했다”…SK하이닉스집중조명한외신들",
   "SK하이닉스화려한데뷔…나스닥첫날13%급등",
   "'AI승자'SK하이닉스,'화려한美데뷔'…최태원\"공급과잉없다\"",
-  "SK하닉의나스닥성공적입성,반도체슈퍼사이클비관론잠재울수있..."
+  "SK하닉의나스닥성공적입성,반도체슈퍼사이클비관론잠재울수있...",
+  "7월11일MBN뉴스센터주요뉴스"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-07-11T19:30:25.155351+09:00",
    "비관론 SK하닉의 슈퍼사이클 잠재울 성공적 반도체 나스닥 입성"
+  ],
+  [
+   "2026-07-11T19:40:22.041598+09:00",
+   "7월 MBN 주요뉴스 뉴스센터 11일"
   ]
  ],
- "last_run": "2026-07-11T19:30:40.652905+09:00",
+ "last_run": "2026-07-11T19:40:33.870877+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
