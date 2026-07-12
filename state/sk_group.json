@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pennmike.com/news/articleView.html?idxno=123450",
-  "https://www.newspim.com/news/view/20260710000257",
-  "https://www.thepowernews.co.kr/view.php?ud=202607100911171093de3f0aa1be_7",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100225&t=NN",
-  "http://www.ikld.kr/news/articleView.html?idxno=337378",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1167806",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715839",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424324",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83150",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538940",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026071202611",
   "https://www.hankyung.com/article/2026071202571",
   "http://www.fnnews.com/news/202607121810159090",
-  "http://www.fnnews.com/news/202607121810142272"
+  "http://www.fnnews.com/news/202607121810142272",
+  "http://www.jjn.co.kr/news/articleView.html?idxno=1046163",
+  "http://www.fnnews.com/news/202607121822328933",
+  "http://www.hellodd.com/news/articleView.html?idxno=112430",
+  "http://www.fnnews.com/news/202607121822374061",
+  "http://www.fnnews.com/news/202607121819129148",
+  "https://www.newsis.com/view/NISX20260712_0003705843",
+  "https://www.hani.co.kr/arti/society/internalmove/1267892.html"
  ],
  "seen_titles": [
-  "美ADR상장기대감…삼전닉스장초반4%반등[핫종목]",
-  "SK하이닉스,美ADR공모가주당149달러확정",
-  "SK하이닉스ADR공모가149달러확정…미역대IPO중2위규모",
-  "'서학개미유턴'노린레버리지ETF…홍콩행매수발길안끊겼다",
-  "SK하이닉스,ADR로40조조달...공모가149달러",
-  "SK하이닉스,美ADR공모가149달러확정…40조원조달'사상최대외국...",
-  "美마이크론등반도체'훈풍'...코스피·코스닥'장초반활짝'",
   "日증시,美반도체주강세에상승출발…닛케이1.16%↑",
   "[속보]코스피3.57%오른7,552.49개장",
   "美반도체훈풍에장초반삼성전자·SK하이닉스3%강세[핫스탁]",
@@ -6001,7 +5994,14 @@
   "‘주식투자고수’된카드게임고수[한경프리미엄9TODAY]",
   "현대차노조,13일부터부분파업…하투본격화",
   "반도체차세대기술까지투자하는ACEETF",
-  "\"반도체주다시사볼까\"꿈틀대는빚투"
+  "\"반도체주다시사볼까\"꿈틀대는빚투",
+  "\"메가프로젝트2-3차이어질것···전북,후속대응집중을\"",
+  "SK하닉나스닥첫날13%급등…통화스와프급달러유입",
+  "이용덕대표\"AI시대,연구환경이경쟁력···산업도약좌우\"대덕이...",
+  "최태원\"美반도체팹추가투자검토\"",
+  "삼성\"용인반도체공장첫팹1~2년앞당겨2029년가동\"[용인반도체도...",
+  "관세100%피하려던애플에트럼프\"인텔공장써라\"압박",
+  "7월13일인사"
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,17 @@
   [
    "2026-07-12T18:21:21.261457+09:00",
    "꿈틀대는 반도체주 사볼까 다시 빚투"
+  ],
+  [
+   "2026-07-12T18:31:24.836678+09:00",
+   "애플에 인텔 공장 써라 관세 압박 트럼프 피하려던"
+  ],
+  [
+   "2026-07-12T18:31:24.836678+09:00",
+   "인사 7월13일"
   ]
  ],
- "last_run": "2026-07-12T18:21:38.413673+09:00",
+ "last_run": "2026-07-12T18:31:33.490339+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
