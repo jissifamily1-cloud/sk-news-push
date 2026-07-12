@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bzeronews.com/news/articleView.html?idxno=819479",
-  "https://www.etoday.co.kr/news/view/2599320",
-  "http://www.domin.co.kr/news/articleView.html?idxno=1560446",
   "https://www.etnews.com/20260701000585",
   "http://www.srtimes.kr/news/articleView.html?idxno=206529",
   "https://www.yna.co.kr/view/PYH20260701235200013?input=1196m",
@@ -2999,12 +2996,12 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=266140",
   "http://www.metroseoul.co.kr/article/20260701500430",
   "https://www.ajunews.com/view/20260713072130806",
-  "https://slownews.kr/163090"
+  "https://slownews.kr/163090",
+  "https://www.ytn.co.kr/_ln/0102_202607130739378942",
+  "https://kjmbc.co.kr/NewsArticle/1527211",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130041&t=NN"
  ],
  "seen_titles": [
-  "인사말하는최태원대한상의회장",
-  "최태원회장,미국독립기념일계기주한미군채용플랫폼한미협력행...",
-  "최태원,국회의장만나“법·제도개선”거듭요청[현장영상]",
   "[증시인사이트]수출호조에도삼전닉스주춤…\"외국인코스피순매도...",
   "노소영아트센터나비관장'AI시대배움'공개강연",
   "[정치문법]서남권반도체클러스터조성,균형발전인가관치경제인가",
@@ -6001,7 +5998,10 @@
   "'생산능력확대속도전'내건최태원\"고객수요만볼것…투자조건맞...",
   "'30주년'코스닥의갈림길...승강제등정책기대감↑",
   "\"사랑해김희영\"?...최태원,SK하닉상장도못막은'사랑꾼'심성",
-  "보완수사권국물도남김없이폐지,민주당교통정리도안됐다:슬로우..."
+  "보완수사권국물도남김없이폐지,민주당교통정리도안됐다:슬로우...",
+  "\"하이닉스ADR,코스피본주끌어올릴수밖에\"화려한美데뷔파급효과...",
+  "[부산]천억원쓴'안전한급식실'..\"사고는증가\"",
+  "미국가더니하루만에본주보다18%비싸진SK하이닉스…주가에숨은..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-13T07:40:25.420858+09:00",
    "사랑해 사랑꾼 막은 상장도 심성 SK하닉"
+  ],
+  [
+   "2026-07-13T07:50:22.511019+09:00",
+   "주가에 미국 하루만에 가더니 본주보다 숨은 하이닉스 비싸진"
   ]
  ],
- "last_run": "2026-07-13T07:40:44.306385+09:00",
+ "last_run": "2026-07-13T07:50:45.452145+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
