@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260709500246",
-  "https://www.newsway.co.kr/news/view?ud=2026071007154943855",
-  "https://www.ziksir.com/news/articleView.html?idxno=139639",
-  "https://www.busan.com/view/busan/view.php?code=2026071007070294161",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16130141",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030090600&code=61141511&cp=nv",
-  "https://www.sedaily.com/article/20066057",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16130136",
-  "https://www.econovill.com/news/articleView.html?idxno=744786",
-  "https://www.ytn.co.kr/_ln/0104_202607100708088701",
   "https://www.dailyt.co.kr/newsView/dlt202607090010",
   "https://www.ytn.co.kr/_ln/0104_202607100718030637",
   "https://biz.sbs.co.kr/article_hub/20000321682?division=NAVER",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/finance/market-exr/6225280",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581192168966",
   "https://www.polinews.co.kr/news/articleView.html?idxno=736754",
-  "https://www.tokenpost.kr/news/breaking/376890"
+  "https://www.tokenpost.kr/news/breaking/376890",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01607206645513864",
+  "https://www.g-enews.com/view.php?ud=202607101425077750923c501012_1",
+  "https://www.newsway.co.kr/news/view?ud=2026071211561831828",
+  "https://www.news1.kr/it-science/general-science/6225210",
+  "https://www.mt.co.kr/world/2026/07/12/2026071015311445474",
+  "https://www.mt.co.kr/stock/2026/07/12/2026071211214924594",
+  "https://www.fntimes.com/html/view.php?ud=202607102204527953179ad43907_18",
+  "https://www.mk.co.kr/article/12096332",
+  "http://www.fnnews.com/news/202607121127276345",
+  "https://www.mt.co.kr/tech/2026/07/12/2026071209273293408"
  ],
  "seen_titles": [
-  "\"최태원동거인은中간첩\"주장한'배터리아저씨',1심벌금700만원",
-  "[WhoIs?]김홍국하림그룹회장",
-  "미래에셋증권,증권사브랜드평판1위…삼성증권·한국투자증권톱3",
-  "\"폭락장서13%수익\"…개미들커버드콜ETF로몰렸다",
-  "[미국뉴욕증시]중동긴장속에도다우존스·S&P500·나스닥지수상승...",
-  "SK하이닉스,오늘밤美나스닥역사적첫발…'역대최대'36조원잭팟...",
-  "美증시,협상재개가능성주시[글로벌머니플로우]",
-  "(EDITORIALfromKoreaJoongAngDailyonJuly10)",
-  "TopheadlinesinmajorS.Koreannewspapers",
-  "[속보]SK하이닉스\"ADR공모가주당149달러확정\"",
   "SK하이닉스ADR공모가주당149달러확정...글로벌역대2위",
   "[증시전략]메타도\"컴퓨팅부족\"…AI반도체랠리여전히유효?",
   "SK하이닉스ADR149달러확정…美서40조조달'역대최대'",
@@ -6001,7 +5991,17 @@
   "SK하닉ADR'16%프리미엄'지속전망…\"외인자금유입기대\"",
   "SK하이닉스發‘256억달러유입’기대감…원·달러1400원대문열까",
   "李대통령,몽골국회의장·총리연쇄회동…\"한몽관계발전에의회역할...",
-  "SK하이닉스CEO\"2027년메모리공급가장타이트할것\""
+  "SK하이닉스CEO\"2027년메모리공급가장타이트할것\"",
+  "롤러코스터코스피에‘곱버스·레버리지’북적…ETF거래상위권싹쓸...",
+  "[주간증시전망]ASML·TSMC실적에쏠린눈…코스피반등이어질까",
+  "환율,더떨어질까…SK하이닉스달러유입에1400원대안착주목",
+  "반도체사업성과공유위해산학연모인다…엔비디아코리아기조연설",
+  "\"단일종목레버리지ETF,반도체주변동성키웠다\"-日매체",
+  "[르포]\"오!나스닥\"…JFK공항부터달아올랐던SK하이닉스상장열기",
+  "기관'삼성전자'·외인'삼성전기'·개인'SK하이닉스'1위[주간코스피...",
+  "첫날부터13%대박...하이닉스다시오를까",
+  "엔비디아코리아·SK하이닉스등반도체연구성과교류",
+  "엔비디아·SK하닉한자리에…반도체R&D성과공유"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,21 @@
   [
    "2026-07-12T11:51:10.062884+09:00",
    "기대 ADR 전망 프리미엄 SK하닉 외인 자금 지속 유입"
+  ],
+  [
+   "2026-07-12T12:11:14.176890+09:00",
+   "다시 오를까 대박 첫날부터 하이닉스"
+  ],
+  [
+   "2026-07-12T12:11:14.176890+09:00",
+   "SK하이닉스 연구성과 엔비디아코리아 반도체 교류"
+  ],
+  [
+   "2026-07-12T12:11:14.176890+09:00",
+   "SK하닉 성과 엔비디아 한자리에 공유 반도체"
   ]
  ],
- "last_run": "2026-07-12T12:01:32.178699+09:00",
+ "last_run": "2026-07-12T12:11:25.200325+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
