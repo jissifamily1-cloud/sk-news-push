@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newslock.co.kr/news/articleView.html?idxno=132494",
-  "http://www.inews24.com/view/1981541",
   "https://www.newspim.com/news/view/20260701001299",
   "https://www.newspim.com/news/view/20260701001300",
   "https://www.newspim.com/news/view/20260701001295",
@@ -2999,11 +2997,11 @@
   "https://www.wikitree.co.kr/articles/1146043",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716034",
   "https://www.newsis.com/view/NISX20260712_0003705907",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=724130"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=724130",
+  "https://biz.sbs.co.kr/article_hub/20000322005?division=NAVER",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141404"
  ],
  "seen_titles": [
-  "조의장\"3대메가프로젝트,대전환기선제대응…국회도제도로뒷받침...",
-  "전영미·정진자·강찬식·정진훈·홍지연충북도부이사관승진",
   "추미애,민선9기첫발…\"1분1초아껴도민삶바꾸겠다\"",
   "경제계,국회에'메가특구속도·노봉법개정'요청",
   "10년간매년263조원...천문학적메가프로젝트투자금마련은어떻게",
@@ -6001,7 +5999,9 @@
   "SK하이닉스나스닥데뷔첫날13%↑…265억달러역대급조달",
   "최태원\"SK하이닉스액면분할검토가능\"…美상장첫날13%급등",
   "SK하이닉스,美나스닥상장…하루만에13%뛰어[간추린주말뉴스]",
-  "[THECEO]최태원SK그룹회장"
+  "[THECEO]최태원SK그룹회장",
+  "환시에달러폭탄퍼부을SK하이닉스…'고환율소방수'될까?",
+  "[뉴욕주간전망]물가지표주목...2분기실적도주목해야"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,17 @@
   [
    "2026-07-13T06:40:27.790079+09:00",
    "회장"
+  ],
+  [
+   "2026-07-13T06:50:23.796545+09:00",
+   "SK하이닉스 환시에 소방수 될까 달러폭탄 고환율 퍼부을"
+  ],
+  [
+   "2026-07-13T06:50:23.796545+09:00",
+   "주목해야 2분기 실적도 물가지표 주목"
   ]
  ],
- "last_run": "2026-07-13T06:40:49.080375+09:00",
+ "last_run": "2026-07-13T06:50:41.884278+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
