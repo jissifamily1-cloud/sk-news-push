@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstopkorea.com/news/articleView.html?idxno=46163",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02466566645513208",
-  "https://www.sedaily.com/article/20066051",
-  "https://www.labortoday.co.kr/news/articleView.html?idxno=235637",
-  "https://www.sedaily.com/article/20065860",
-  "https://economist.co.kr/article/view/ecn202607060042",
-  "https://www.hankyung.com/article/2026070959656",
   "https://www.newspim.com/news/view/20260710000033",
   "https://www.news1.kr/finance/blockchain-fintech/6222758",
   "http://www.yonhapnewstv.co.kr/news/AKR20260710063315dZS",
@@ -2999,16 +2992,16 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=0030098413&code=61141311&cp=nv",
   "https://biz.chosun.com/stock/stock_general/2026/07/12/6GRLOYJPN5GZ7GHMR4DU3VNUIU/",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467644",
-  "https://www.etnews.com/20260710000185"
+  "https://www.etnews.com/20260710000185",
+  "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205332",
+  "https://www.kbsm.net/news/view.php?idx=526387",
+  "https://www.viva100.com/article/20260712500219",
+  "https://www.mediapen.com/news/view/1109642",
+  "http://www.metroseoul.co.kr/article/20260712500046",
+  "https://www.mediapen.com/news/view/1109637"
  ],
  "seen_titles": [
-  "“지역전체를‘AI실험의장’으로…과감한규제혁신·인프라조성...",
-  "260조원몰린SK하닉ADR상장…\"공모가주당149달러\"[글로벌뉴스픽]",
-  "“SK하이닉스,美상장공모가149달러제시…외국기업美증시상장...",
-  "“SK하이닉스ADR공모가주당149달러제시”",
-  "SK하이닉스미국주식예탁증서(ADR)상장개요",
-  "[속보]‘미국·이란충돌단발성’기대감…뉴욕증시강세마감",
-  "이재명정부의갈림길‘불평등완화’냐‘응원봉배신’이냐[.txt]",
   "미상무장관,삼성전자와SK하이닉스에미국내메모리생산량확대요청...",
   "[안병익의IT맛보기]휴머노이드로봇이불러올2번째'AI반도체전쟁'",
   "[포토]김재희,반가운미소첫인사",
@@ -6001,7 +5994,14 @@
   "美나스닥상장한SK하이닉스,고환율구원투수될까",
   "롤러코스터장세에…인버스·레버리지ETF거래몰렸다",
   "SK텔레콤,일회성비용털고완전한회복세진입",
-  "SK텔레콤“상반기전국1만명이용자목소리들어”"
+  "SK텔레콤“상반기전국1만명이용자목소리들어”",
+  "상생의SK,2·3차협력사도지원",
+  "'호남반도체부지'광주군공항이전신속추진",
+  "경북글로컬대학4곳,지역혁신‘K-대학’모델구축",
+  "“세계무대영향력키운다”⋯CXMT,6.5조IPO추진",
+  "AI로체질바꾼통신3사…올해영업이익'5조원시대'기대",
+  "ETF쏠림,개미들인버스·레버리지하루에도몇번씩사고팔고",
+  "[증시이대로좋은가⑤]좌충우돌코스피'1만스피'가려면?"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,25 @@
   [
    "2026-07-12T09:41:17.922151+09:00",
    "전국 목소리 1만명 들어 SK텔레콤 이용자 상반기"
+  ],
+  [
+   "2026-07-12T09:51:16.033325+09:00",
+   "키운다 IPO 세계 5조 무대 CXMT 영향력"
+  ],
+  [
+   "2026-07-12T09:51:16.033325+09:00",
+   "영업이익 시대 5조원 올해 바꾼 기대 AI로 통신3사 체질"
+  ],
+  [
+   "2026-07-12T09:51:16.033325+09:00",
+   "사고팔고 ETF쏠림 몇번씩 인버스 개미들 하루에도 레버리지"
+  ],
+  [
+   "2026-07-12T09:51:16.033325+09:00",
+   "1만스피 가려면 코스피 좌충우돌"
   ]
  ],
- "last_run": "2026-07-12T09:41:26.184115+09:00",
+ "last_run": "2026-07-12T09:51:29.935665+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
