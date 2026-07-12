@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20260710500005",
-  "https://biz.sbs.co.kr/article_hub/20000321691?division=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682908",
-  "https://www.newscj.com/news/articleView.html?idxno=3415958",
-  "https://www.ajunews.com/view/20260710073631729",
-  "https://www.sedaily.com/article/20066062",
-  "https://www.newsis.com/view/NISX20260710_0003703506",
-  "https://www.ajunews.com/view/20260710073300722",
-  "http://www.newsprime.co.kr/news/article.html?no=739831",
   "https://slownews.kr/163025",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=265871",
   "https://www.viewsnnews.com/article?q=237089",
@@ -2999,18 +2990,18 @@
   "https://www.ccdailynews.com/news/articleView.html?idxno=2427512",
   "https://m.skyedaily.com/news_view.html?ID=307657",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1327092",
-  "https://www.ekn.kr/web/view.php?key=20260712026471648"
+  "https://www.ekn.kr/web/view.php?key=20260712026471648",
+  "https://www.idaegu.com/news/articleView.html?idxno=664262",
+  "https://www.etoday.co.kr/news/view/2602775",
+  "https://www.chosun.com/politics/assembly/2026/07/12/FSR7NHGT7NCCBBIGD45CZGYQ5U/",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281903077949",
+  "https://economist.co.kr/article/view/ecn202607120006",
+  "https://www.ajunews.com/view/20260712133649367",
+  "https://www.joongangenews.com/news/articleView.html?idxno=532234",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000049316",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01695766645513864"
  ],
  "seen_titles": [
-  "[시큐리티핫이슈]각국AI보안전략분주...지정학적충돌도",
-  "SK하이닉스오늘나스닥상장...공모가149달러",
-  "[마켓프리뷰]코스피,3일만에반등성공…SK하이닉스美증시데뷔",
-  "SK하이닉스,美주식예탁증공모가149달러확정",
-  "[글로벌증시]중동불안에도뉴욕증시일제히상승…반도체주강세",
-  "SK하이닉스,미국ADR공모가주당149달러확정…AI반도체투자확대...",
-  "블룸버그\"SK하이닉스ADR공모가149달러\"",
-  "외국인,반도체덜고AI인프라담았다...삼성전기·LS일렉트릭으로'머...",
-  "미상무장관\"삼성·SK하이닉스,美내메모리생산확대해야\"",
   "용인특례시의회국민의힘강영웅대표\"반도체국가산단,의회차원의...",
   "SK하이닉스\"나스닥ADS공모가149달러확정\"",
   "SK하이닉스\"ADR공모가주당149달러확정\"",
@@ -6001,7 +5992,16 @@
   "SK하이닉스,나스닥시장입성",
   "60조쏟아붓는피지컬AI…‘기술소비국’이냐‘제조허브’냐",
   "한·몽'황금시대'선언…CEPA·핵심광물로경제안보외교확장",
-  "“역대급저평가”라는데…월가가코스피망설이는이유[머니+]"
+  "“역대급저평가”라는데…월가가코스피망설이는이유[머니+]",
+  "대구대반도체직무아카데미,700여명취업성과올려…\"반도체취업,...",
+  "AI메모리‘슈퍼사이클’…삼성·SK·마이크론투자전쟁",
+  "국힘,김용범정책실장경질요구“‘오징어게임’증시주범”",
+  "국힘“오징어게임증시주범김용범즉각경질해야”",
+  "'나스닥상장'SK하닉'달러폭탄'퍼붓는다…환율방어완충재되나",
+  "<오늘의인사>",
+  "국민연금,8거래일간하루250억만팔았다...60조원매물압박해소",
+  "광주조직줄고무안·동부늘었지만…'3청사균형'관건은권한",
+  "\"AI투자우려,반복된기출문제…차익실현빌미일뿐\"[센터장의뷰]"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,25 @@
   [
    "2026-07-12T13:31:25.262743+09:00",
    "망설이는 이유 역대급 라는데 코스피 월가가 저평가"
+  ],
+  [
+   "2026-07-12T13:41:14.948689+09:00",
+   "오늘의 인사"
+  ],
+  [
+   "2026-07-12T13:41:14.948689+09:00",
+   "250억만 8거래일간 해소 팔았다 60조원 압박 국민연금 매물 하루"
+  ],
+  [
+   "2026-07-12T13:41:14.948689+09:00",
+   "3청사 균형 동부 줄고 광주 늘었지만 권한 무안 관건은"
+  ],
+  [
+   "2026-07-12T13:41:14.948689+09:00",
+   "반복된 투자 차익실현 AI 우려 빌미일 기출문제"
   ]
  ],
- "last_run": "2026-07-12T13:31:40.223731+09:00",
+ "last_run": "2026-07-12T13:41:29.443612+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
