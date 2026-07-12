@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607349",
-  "https://biz.heraldcorp.com/article/10804541",
   "https://biz.chosun.com/policy/policy_sub/2026/07/10/FWMPQFQZ55BZ3GKSZTQG6XYRPU/",
   "http://www.wsobi.com/news/articleView.html?idxno=315036",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000046.html",
@@ -2999,11 +2997,11 @@
   "https://www.kukinews.com/article/view/kuk202607120042",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205423",
   "http://www.kwangju.co.kr/article.php?aid=1783854630801168277",
-  "http://coinreaders.com/247290"
+  "http://coinreaders.com/247290",
+  "https://www.sjsori.com/news/articleView.html?idxno=87557",
+  "https://www.rcast.co.kr/news/articleView.html?idxno=31245"
  ],
  "seen_titles": [
-  "한-몽골비즈니스포럼....\"광물자원·소비시장협력넘어미래성장파...",
-  "중소·벤처기업에자금공급…특화증권사7개지정",
   "미상무장관\"삼성·하이닉스와미생산확대논의\"",
   "“美ADR상장빛보나”…삼전·SK하닉,장초반강세",
   "AI웰니스로봇이DDP로…SK인텔릭스,디자인재단과협력강화",
@@ -6001,7 +5999,9 @@
   "최전방고민끝…제주SK,브라질출신‘해결사’아이아스영입[K리그...",
   "삼성전자용인반도체공장앞당긴다…한·미·중'속도전'",
   "삼성·SK광주반도체용수,수몰민과온배수문제가관건",
-  "마이크론주가,아직끝이아니다?추가상승이끌3가지변수는"
+  "마이크론주가,아직끝이아니다?추가상승이끌3가지변수는",
+  "SK하이닉스40조'달러실탄'…환율구원투수로등판",
+  "카카오뱅크,한-몽골비즈니스포럼서디지털금융혁신경험공유外"
  ],
  "recent_sigs": [
   [
@@ -6611,9 +6611,13 @@
   [
    "2026-07-12T20:24:30.644290+09:00",
    "아니다 상승 끝이 마이크론 주가 추가 아직 변수는 3가지 이끌"
+  ],
+  [
+   "2026-07-12T20:31:22.838881+09:00",
+   "금융 몽골 카카오뱅크 포럼서 비즈니스 혁신 경험 공유 디지털"
   ]
  ],
- "last_run": "2026-07-12T20:24:37.326145+09:00",
+ "last_run": "2026-07-12T20:31:29.903936+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
