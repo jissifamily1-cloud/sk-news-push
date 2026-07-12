@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://kjmbc.co.kr/NewsArticle/1524367",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3026845",
-  "https://mpmbc.co.kr/NewsArticle/1524168",
-  "https://biz.sbs.co.kr/article_hub/20000318042?division=NAVER",
-  "https://www.kbsm.net/news/view.php?idx=523955",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695547",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1782370581&code=23111516&cp=nv",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305165&inflow=N",
-  "https://www.bzeronews.com/news/articleView.html?idxno=818993",
   "https://www.gukjenews.com/news/articleView.html?idxno=3612955",
   "http://www.seouleconews.com/news/articleView.html?idxno=91920",
   "https://www.naeil.com/news/read/592524",
@@ -2999,18 +2990,18 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008619439&plink=ORI&cooper=NAVER",
   "https://www.newscj.com/news/articleView.html?idxno=3410737",
   "https://news.dealsitetv.com/articles/173167",
-  "https://www.hankookilbo.com/news/article/A2026071210350001364?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026071210350001364?did=NA",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5200899",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=81409",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16103618",
+  "https://www.slist.kr/news/articleView.html?idxno=746508",
+  "https://www.sportschosun.com/sports-news/2026-06-20/202606200100138490009057",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248486",
+  "https://biz.newdaily.co.kr/site/data/html/2026/06/18/2026061800181.html",
+  "https://www.busan.com/view/busan/view.php?code=2026061614320778562",
+  "https://www.newsen.com/news_view.php?uid=202606061630492410"
  ],
  "seen_titles": [
-  "\"상장폐지강화만으론부족...IPO개혁이한국증시선진화핵심\"",
-  "[이슈+]상장폐지강화됐지만진짜과제는'퇴출'아닌'IPO정상화'",
-  "[단독]최성환SK네트웍스사장,中바이트댄스핵심임원과상하이깜...",
-  "[인사]화천군(7월1일字)",
-  "AI건강상담서비스확산…생활속디지털헬스케어활용늘어난다",
-  "진해필하모닉,'호국보훈의달'음악회성료",
-  "월덱스이사회에상속·증여전문가…승계포석?",
-  "통합시에지원될20조원..\"절반이상역외유출우려\"",
-  "\"통합시20조투입해도절반은'남좋은일'\"",
   "“통합시성공위해정부재정지원효과극대화해야”",
   "“첨단산업에투자해야통합특별시재정20조효과극대화”",
   "“통합특별시,지속성장행정·산업구조개선선결돼야”",
@@ -6001,7 +5992,16 @@
   "펜싱오상욱,아시아선수권남자사브르개인전2년만에우승",
   "[펜싱]오상욱,아시아선수권남자사브르개인전제패…2년만에우승",
   "[부고]최태호(딜사이트경제TV기자)씨외조부상",
-  "14년HBM뚝심으로꿈이룬최태원의자신감\"메모리성장못막는다\""
+  "14년HBM뚝심으로꿈이룬최태원의자신감\"메모리성장못막는다\"",
+  "오상욱,2년만에아시아선수권우승…'남의칼'로경기",
+  "오상욱,아시아선수권남자사브르정상탈환-2년만에개인전금메달",
+  "'15-8결승완승'…오상욱,아시아선수권개인전정상복귀",
+  "펜싱오상욱,2년만에아시아선수권정상...도경동동메달",
+  "'고수는장비를탓하지않았다'끝판왕오상욱,亞펜싱선수권개인전우...",
+  "[단독]최신원SK네트웍스회장,횡령연루회사와호화별장거래",
+  "SK장손최영근,5년만에지주사복귀…오너가3세역할론주목",
+  "[단독]‘SK家장손’최영근5년만지주사로복귀…후계구도변수되나",
+  "최시원,현충일맞아태극기올렸다“자유와평화결코당연한것아냐..."
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "자신감 HBM 이룬 막는다 메모리 최태원의 성장 뚝심으로 14년"
   ]
  ],
- "last_run": "2026-07-12T16:30:45.528847+09:00",
+ "last_run": "2026-07-12T16:40:37.539634+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
