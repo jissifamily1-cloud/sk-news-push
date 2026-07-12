@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://news.lghellovision.net/news/articleView.html?idxno=548062",
-  "https://www.newsis.com/view/NISX20260710_0003703909",
-  "https://biz.chosun.com/stock/finance/2026/07/10/S4HKPYGX4FGIRKPPSJURFCCUYQ/",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467322",
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/10/20260710500094?wlog_tag3=naver",
-  "https://www.asiatime.co.kr/article/20260710500115",
-  "https://news.tf.co.kr/read/economy/2341930.htm",
   "https://www.polinews.co.kr/news/articleView.html?idxno=736606",
   "https://news.jtbc.co.kr/article/NB12307587?influxDiv=NAVER",
   "https://en.yna.co.kr/view/AEN20260710005600320?input=2106m",
@@ -2999,16 +2992,16 @@
   "https://www.g-enews.com/view.php?ud=202607130644251011fbbec65dfb_1",
   "https://biz.sbs.co.kr/article_hub/20000322005?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000322011?division=NAVER",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141404"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141404",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654086&plink=ORI&cooper=NAVER",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716037",
+  "https://view.asiae.co.kr/article/2026071016160017709",
+  "https://biz.sbs.co.kr/article_hub/20000322016?division=NAVER",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16132414",
+  "http://www.joseilbo.com/news/news_read.php?uid=571742&class=18",
+  "https://news.bizwatch.co.kr/article/industry/2026/07/10/0022"
  ],
  "seen_titles": [
-  "SK인텔릭스-서울디자인재단,DDP에AI웰니스로봇'나무엑스'도입",
-  "하나銀-기보,반도체소부장금융지원확대…1000억원협약보증조성",
-  "SK텔레콤,AI데이터센터인수금융보도해명→구체적결정미확정",
-  "SK하이닉스ADR149달러인이유..\"할인대신웃돈\"",
-  "AI투자열풍에M&A'역대급'…상반기거래45%급증",
-  "AI훈풍에국내증시'랠리'…코스피3%넘게상승",
-  "‘40조실탄’장전한SK하이닉스…AI메모리증설속도",
   "하나은행,반도체소부장협력사1000억원금융지원",
   "SK하이닉스,오늘나스닥입성…40조투자실탄으로AI반도체초격차...",
   "광통신주다시'불기둥'...빛과전자上·대한광통신26%급등",
@@ -6001,7 +5994,14 @@
   "올하반기커스텀HBM전쟁본격화…3사가공급질서다시짠다",
   "환시에달러폭탄퍼부을SK하이닉스…'고환율소방수'될까?",
   "겐슬러前SEC위원장\"美증시밸류에이션높아\"",
-  "[뉴욕주간전망]물가지표주목...2분기실적도주목해야"
+  "[뉴욕주간전망]물가지표주목...2분기실적도주목해야",
+  "한은\"반도체수요증가보다공급확대더뎌\"…고점론일축",
+  "﻿74조'매물폭탄'사라졌다…코스피급락이국민연금매도멈췄다",
+  "5000억넘는M&A외국계'싹쓸이'…국부·정보유출논란[PE는지금]",
+  "나스닥사장\"외국기업美증시상장늘어날것\"",
+  "SK하이닉스ADR16%프리미엄…본주반영은변수",
+  "HD현대일렉트릭,펀더멘털강화에도수급손상…SK證,목표가'↓'[주가...",
+  "中습격에안방뺏긴석화업계,'반도체'밧줄잡고사투"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,29 @@
   [
    "2026-07-13T06:51:17.413765+09:00",
    "2분기 실적도 물가지표 주목 주목해야"
+  ],
+  [
+   "2026-07-13T06:59:00.871083+09:00",
+   "5000억 국부 싹쓸이 정보 넘는 외국계 논란 유출"
+  ],
+  [
+   "2026-07-13T06:59:00.871083+09:00",
+   "증시 나스닥 사장 기업 외국 늘어날 상장"
+  ],
+  [
+   "2026-07-13T06:59:00.871083+09:00",
+   "SK하이닉스 프리미엄 변수 반영은 ADR 본주"
+  ],
+  [
+   "2026-07-13T06:59:00.871083+09:00",
+   "주가 손상 HD현대일렉트릭 목표가 펀더멘털 수급 강화에도"
+  ],
+  [
+   "2026-07-13T06:59:00.871083+09:00",
+   "잡고 습격에 반도체 밧줄 사투 뺏긴 안방 석화업계"
   ]
  ],
- "last_run": "2026-07-13T06:51:31.134186+09:00",
+ "last_run": "2026-07-13T06:59:18.844112+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
