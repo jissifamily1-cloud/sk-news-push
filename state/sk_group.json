@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.upkoreanews.kr/news/articleView.html?idxno=99240",
-  "https://news.mtn.co.kr/news-detail/2026071007240514779",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715821",
   "https://www.hankookilbo.com/news/article/A2026071007050003895?did=NA",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61403",
   "https://news.mtn.co.kr/news-detail/2026071007242019816",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20260712_0003705662",
   "https://m.skyedaily.com/news_view.html?ID=307653",
   "https://www.ggilbo.com/news/articleView.html?idxno=1168716",
-  "http://www.4th.kr/news/articleView.html?idxno=2114629"
+  "http://www.4th.kr/news/articleView.html?idxno=2114629",
+  "https://www.segye.com/newsView/20260712506993?OutUrl=naver",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=361969",
+  "http://www.fnnews.com/news/202607120035504726"
  ],
  "seen_titles": [
-  "美나스닥상장앞둔SK하이닉스…장밋빛전망속‘목표가185만원’나...",
-  "[Invest]레버리지ETF,상폐대신증권사에칼날?...LP부터조인다",
-  "[속보]SK하이닉스,ADR공모가149달러확정",
   "SK하이닉스,美ADR상장37조조달…최태원,뉴욕에서‘AI빅테크’선...",
   "[밥대신주식]\"적금깨고대출까지\"…삼전·닉스로몰려간2030",
   "증시오늘'핫이슈'…\"코스피외인비중39.2%,그들이돌아왔다\"",
@@ -6001,17 +5998,12 @@
   "롤러코스터탄코스피…'곱버스·레버리지'단타몰렸다",
   "삼성전자용인반도체생산공장,조기가동설모락모락",
   "공주마이스터고,SK·삼성등다수합격자배출",
-  "KT'AI스테이션',WSIS챔피언선정…AI교육격차해소인정"
+  "KT'AI스테이션',WSIS챔피언선정…AI교육격차해소인정",
+  "성과급폭탄에지갑열렸다?…이천·동탄수입차판매껑충",
+  "LG유플러스,양자시대통신품질'국제잣대'세우다",
+  "[이런펀드어때요]신한운용'SOL반도체전공정ETF'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-12T06:51:09.737315+09:00",
-   "AI 시대의 올해만 오른 5배 추론 몸값 주인공 낸드플래시"
-  ],
-  [
-   "2026-07-12T06:51:09.737315+09:00",
-   "하이닉스 미국선 250만원 이미 252만원 갈까 13일"
-  ],
   [
    "2026-07-12T07:01:20.172160+09:00",
    "바꿨다 한국 대한항공도 삼성블루 대표 로고의 회사가 계보 기업 만든"
@@ -6447,9 +6439,21 @@
   [
    "2026-07-12T12:41:10.018624+09:00",
    "합격자 삼성 다수 공주마이스터고 배출"
+  ],
+  [
+   "2026-07-12T12:51:12.496137+09:00",
+   "폭탄에 성과급 수입차 껑충 판매 이천 동탄 지갑 열렸다"
+  ],
+  [
+   "2026-07-12T12:51:12.496137+09:00",
+   "LG유플러스 국제 통신 잣대 세우다 품질 양자시대"
+  ],
+  [
+   "2026-07-12T12:51:12.496137+09:00",
+   "신한운용 SOL 반도체전공정ETF"
   ]
  ],
- "last_run": "2026-07-12T12:46:11.678476+09:00",
+ "last_run": "2026-07-12T12:51:23.426697+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
