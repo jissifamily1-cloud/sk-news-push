@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongboo.com/news/articleView.html?idxno=363731098",
-  "http://www.popcornnews.net/news/articleView.html?idxno=126187",
-  "https://sports.khan.co.kr/article/202607100933003?pt=nv",
-  "http://www.metroseoul.co.kr/article/20260710500033",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=254835",
-  "https://www.cstimes.com/news/articleView.html?idxno=712969",
-  "http://www.srtimes.kr/news/articleView.html?idxno=207214",
   "https://www.smarttoday.co.kr/ko-kr/articles/109404",
   "http://www.segyebiz.com/newsView/20260710506513?OutUrl=naver",
   "https://www.cstimes.com/news/articleView.html?idxno=712981",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12096620",
   "http://www.segyebiz.com/newsView/20260712513776?OutUrl=naver",
   "https://www.siminsori.com/news/articleView.html?idxno=400379",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595824"
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595824",
+  "https://www.imaeil.com/page/view/2026071218294750910",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260713.22002003370",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1783843835&code=11151300&cp=nv",
+  "https://www.sedaily.com/article/20066763",
+  "https://www.sedaily.com/article/20066760",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/12/2026071290137.html",
+  "https://www.hani.co.kr/arti/society/labor/1267908.html"
  ],
  "seen_titles": [
-  "다시반도체훈풍탄코스피…3%대상승출발·7,500대복귀",
-  "SK하이닉스,美증시서40조원조달…외국기업역대최대규모데뷔",
-  "하이닉스ADR공모가149달러…알리바바넘어외국기업최대",
-  "“외국기업IPO최대”…SK하이닉스,ADR흥행에3%대↑[특징주]",
-  "\"반도체주급등락주범은SK하이닉스레버리지ETF\"[도쿄나우]",
-  "반도체훈풍에웃은뉴욕증시…나스닥1.3%↑[뉴욕증시]",
-  "마이크론보다싸다는SK하이닉스···149달러나스닥데뷔,저평가벗을...",
   "[Invest]졸속도입레버리지ETF,두고두고증시발목...책임지는이가...",
   "레이저쎌14%대폭등랠리…인공지능반도체패키징국산화고삐에전...",
   "\"투자상품인가,도박판인가\"..카지노로전락한한국증시",
@@ -6001,7 +5994,14 @@
   "[단독]임기철GIST총장“광주반도체팹,한국과반도체역사새로쓸...",
   "환율1500원깨지자달러예금8.8조원'쑥'…3년6개월만에최대",
   "윤상현,김용범정책실장공개비판…\"우리가알던경제관료어디로갔...",
-  "세르지우코스타제주SK감독\"네게바공백,손실이지만...해결책에집중..."
+  "세르지우코스타제주SK감독\"네게바공백,손실이지만...해결책에집중...",
+  "월요일SK하닉주가오를까?…미국선253만원찍었는데",
+  "[한손뉴스]美ADR은소유권증서거래…SK하이닉스0.1주로환산",
+  "반도체피크아웃우려씻어…코스피투심회복관심",
+  "“HBM4가격내년에두배…삼전닉스협상력우위계속될것”",
+  "“KV캐싱으로폭발적수요지속…메모리더는사이클산업아냐”",
+  "[따져보니]'빵값부터기름값까지'서민울리는담합…대기업들의민낯...",
+  "“산재줄이자는교섭이원청에무리한요구냐”"
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,25 @@
   [
    "2026-07-12T19:21:16.701977+09:00",
    "손실이지만 공백 감독 해결책에 세르지우 코스타 네게바 집중 제주SK"
+  ],
+  [
+   "2026-07-12T19:31:21.085243+09:00",
+   "계속될 내년에 협상력 삼전닉스 가격 우위 HBM4 두배"
+  ],
+  [
+   "2026-07-12T19:31:21.085243+09:00",
+   "메모리 KV캐싱으로 폭발적 지속 산업 아냐 사이클 더는 수요"
+  ],
+  [
+   "2026-07-12T19:31:21.085243+09:00",
+   "기름값까지 빵값부터 대기업들의 담합 민낯 서민 울리는"
+  ],
+  [
+   "2026-07-12T19:31:21.085243+09:00",
+   "무리한 교섭이 산재 요구냐 원청에 줄이자는"
   ]
  ],
- "last_run": "2026-07-12T19:21:22.410842+09:00",
+ "last_run": "2026-07-12T19:31:35.247195+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
