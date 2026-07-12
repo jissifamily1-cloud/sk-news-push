@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715812",
-  "https://www.g-enews.com/view.php?ud=202607100637057829fbbec65dfb_1",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467176",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=440994",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008650880&plink=ORI&cooper=NAVER",
-  "https://www.m-i.kr/news/articleView.html?idxno=1387833",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355467",
-  "https://www.betanews.net/article/view/beta202607020103",
   "https://www.ajunews.com/view/20260710065734695",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876376",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876377",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01403846645513864",
   "https://www.yna.co.kr/view/AKR20260710112900054?input=1195m",
   "https://www.m-i.kr/news/articleView.html?idxno=1390358",
-  "https://www.m-i.kr/news/articleView.html?idxno=1390404"
+  "https://www.m-i.kr/news/articleView.html?idxno=1390404",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205336",
+  "https://biz.sbs.co.kr/article_hub/20000321934?division=NAVER",
+  "https://www.news2day.co.kr/article/20260712500011",
+  "https://www.chosun.com/economy/money/2026/07/12/HYZYBEHBRVCPTEDZKXYVWQBBO4/",
+  "http://www.segyebiz.com/newsView/20260712505650?OutUrl=naver",
+  "https://www.etoday.co.kr/news/view/2602751",
+  "http://www.breaknews.com/1221065",
+  "https://www.econovill.com/news/articleView.html?idxno=744933"
  ],
  "seen_titles": [
-  "서울전세난에세입자'버티기'…전셋값더오르나",
-  "[포토]김재희,차분한인사로이동해요",
-  "[포토]김재희,홀아웃차분하게",
-  "37조실탄쥐고증설'박차'...SK하닉,오늘나스닥상장",
-  "[포토]김재희,파세이브성공",
-  "[포토]김재희,마무리퍼트실수없이",
-  "[포토]김재희,핀에가까이붙어라",
-  "[포토]김재희,비오는날집중한다",
   "[포토]김재희,신중하게파악한다",
   "[포토]김재희,첫홀버디를노려본다",
   "[포토]김재희,버디노린임팩트",
@@ -6001,7 +5993,15 @@
   "반도체급락에코스피11%↓…엔터·은행주로번진순환매",
   "광주군공항248만평개발구상'리셋'…반도체맞춰전면재검토",
   "[기획]반도체열기,중견건설사까지번질까",
-  "데이터센터구축확대에건설업계기대감'솔솔'"
+  "데이터센터구축확대에건설업계기대감'솔솔'",
+  "코스피폭락맞힌그보고서…\"지금은바닥,1만1450열린다\"",
+  "삼전닉스'주춤'…'연예·금융·통신주'순환매",
+  "SKT,AI데이터센터15GW구축본격화…AI인프라확장속도",
+  "“더크게먹으려다더많이잃어”...레버리지ETF이후빈번해진수백...",
+  "반도체슈퍼사이클장기화…메모리빅3,공격적캐파증설잰걸음",
+  "김용범“생산능력이새국력...팹증설늦으면시장뺏겨”[SNS정책레...",
+  "나경원의원,“레버리지ETF도입은졸속,김용범파면·배후수사해야...",
+  "KTAI스테이션제네바서통했다,국내유일WSIS챔피언등극"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,25 @@
   [
    "2026-07-12T10:11:18.601076+09:00",
    "기대감 솔솔 데이터센터 구축 확대에 건설업계"
+  ],
+  [
+   "2026-07-12T10:21:13.074904+09:00",
+   "잰걸음 메모리 슈퍼사이클 반도체 장기화 캐파증설 공격적 빅3"
+  ],
+  [
+   "2026-07-12T10:21:13.074904+09:00",
+   "김용범 생산능력이 국력 시장 증설 뺏겨 SNS 정책 늦으면"
+  ],
+  [
+   "2026-07-12T10:21:13.074904+09:00",
+   "배후 의원 김용범 ETF 나경원 도입은 졸속 수사해야 레버리지 파면"
+  ],
+  [
+   "2026-07-12T10:21:13.074904+09:00",
+   "WSIS 제네바서 KT 통했다 유일 챔피언 등극 국내 AI스테이션"
   ]
  ],
- "last_run": "2026-07-12T10:11:27.091472+09:00",
+ "last_run": "2026-07-12T10:21:26.828642+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
