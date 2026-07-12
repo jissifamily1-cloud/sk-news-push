@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604204",
   "https://www.newstnt.com/news/articleView.html?idxno=709232",
   "http://weekly.chosun.com/news/articleView.html?idxno=53241",
   "https://www.ngonews.kr/news/articleView.html?idxno=232364",
@@ -2999,10 +2998,10 @@
   "http://www.fnnews.com/news/202607121303344457",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01633446645513864",
   "https://www.segye.com/newsView/20260712508315?OutUrl=naver",
-  "https://www.pressian.com/pages/articles/2026071212301648154"
+  "https://www.pressian.com/pages/articles/2026071212301648154",
+  "https://www.m-i.kr/news/articleView.html?idxno=1390257"
  ],
  "seen_titles": [
-  "공정위,‘전분당담합’4개사에7천억원대과징금",
   "경찰,고창군군수실압수수색...심덕섭군수\"진실밝혀질것\"",
   "유시민누나유시춘EBS이사장…'법인카드사적유용'징역1년구형",
   "'피습자작극'의혹정이한전부산시장후보구속영장…8일영장심사",
@@ -6001,15 +6000,11 @@
   "\"부작용방지보완책마련해야\"사법부,보완수사권첫의견",
   "대법,檢보완수사권폐지에\"부작용방지책마련돼야\"",
   "13년구형과소크라테스의재판,사법은존재가아닌행위를벌한다[종...",
-  "대법,보완수사권완전폐지에우려표명…\"부작용방지위한방안필요..."
+  "대법,보완수사권완전폐지에우려표명…\"부작용방지위한방안필요...",
+  "與,경찰견제장치마련했지만…'보완수사권폐지'내부신중론확산"
  ],
- "recent_sigs": [
-  [
-   "2026-07-12T07:11:07.211800+09:00",
-   "순방 대통령 몽골 장윤기 낙스닥 SK하이닉스 사건"
-  ]
- ],
- "last_run": "2026-07-12T13:11:08.370425+09:00",
+ "recent_sigs": [],
+ "last_run": "2026-07-12T13:21:02.599817+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
