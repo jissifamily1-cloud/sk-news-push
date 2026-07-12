@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260710065734695",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876376",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876377",
-  "https://www.kbsm.net/news/view.php?idx=526272",
-  "https://www.lecturernews.com/news/articleView.html?idxno=206003",
-  "https://www.etoday.co.kr/news/view/2602255",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141320",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=874676",
   "https://www.sedaily.com/article/20066056",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008650899&plink=ORI&cooper=NAVER",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100181&t=NN",
@@ -2999,17 +2991,17 @@
   "http://www.segyebiz.com/newsView/20260712505650?OutUrl=naver",
   "https://www.etoday.co.kr/news/view/2602751",
   "http://www.breaknews.com/1221065",
-  "https://www.econovill.com/news/articleView.html?idxno=744933"
+  "https://www.econovill.com/news/articleView.html?idxno=744933",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360142",
+  "https://biz.chosun.com/stock/stock_general/2026/07/12/XCEK7EZUC5ACFKHAEHJUHJI75U/",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306865&inflow=N",
+  "https://magazine.hankyung.com/business/article/202607094075b",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=124745",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01430086645513864",
+  "https://biz.sbs.co.kr/article_hub/20000321936?division=NAVER",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01426806645513864"
  ],
  "seen_titles": [
-  "[포토]김재희,신중하게파악한다",
-  "[포토]김재희,첫홀버디를노려본다",
-  "[포토]김재희,버디노린임팩트",
-  "[포토]김재희,정상을향해날린다",
-  "[포토]김재희,오차없는정조준",
-  "[포토]김재희,씩씩하게출발해요",
-  "[포토]김재희,연습으로풀어준다",
-  "[포토]김재희,최고의우승에너지",
   "“물장되니까목표가낮추네또”…상향전망리포트싹사라졌다는데",
   "러트닉“삼전·SK하이닉스,美로데려와공장짓게하고싶다”",
   "SK하이닉스오늘나스닥상장…37조투자로HBM초격차굳힌다",
@@ -6001,7 +5993,15 @@
   "반도체슈퍼사이클장기화…메모리빅3,공격적캐파증설잰걸음",
   "김용범“생산능력이새국력...팹증설늦으면시장뺏겨”[SNS정책레...",
   "나경원의원,“레버리지ETF도입은졸속,김용범파면·배후수사해야...",
-  "KTAI스테이션제네바서통했다,국내유일WSIS챔피언등극"
+  "KTAI스테이션제네바서통했다,국내유일WSIS챔피언등극",
+  "SK하이닉스훈풍에반도체들썩",
+  "SK하이닉스ADR상장첫날12.8%↑…美프리미엄,국내본주로이어질까",
+  "삼성전자용인반도체공장1∼2년조기완공…2029년첫가동",
+  "“막쓰던시대끝났다?”…‘토성비’뜨자흔들린반도체",
+  "[슈퍼컵]\"여자친구들과경기는좀시시하다\"KCCU10대표팀헝가인...순...",
+  "‘슈퍼엘니뇨’관측에농산물ETN질주…곡물보다코코아주목",
+  "오르면레버리지,내리면곱버스…출렁이는코스피에단타몰렸다",
+  "SK하닉,美서16%더비싸다…코스피본주도가격오를까?"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,25 @@
   [
    "2026-07-12T10:21:13.074904+09:00",
    "WSIS 제네바서 KT 통했다 유일 챔피언 등극 국내 AI스테이션"
+  ],
+  [
+   "2026-07-12T10:31:20.365038+09:00",
+   "여자친구들과 U10 KCC 대표팀 경기는 시시하다 헝가인"
+  ],
+  [
+   "2026-07-12T10:31:20.365038+09:00",
+   "관측에 질주 주목 농산물 곡물보다 엘니뇨 슈퍼 코코아 ETN"
+  ],
+  [
+   "2026-07-12T10:31:20.365038+09:00",
+   "코스피에 레버리지 내리면 출렁이는 몰렸다 오르면 곱버스 단타"
+  ],
+  [
+   "2026-07-12T10:31:20.365038+09:00",
+   "코스피 가격 하닉 본주도 오를까 비싸다"
   ]
  ],
- "last_run": "2026-07-12T10:21:26.828642+09:00",
+ "last_run": "2026-07-12T10:31:34.767527+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
