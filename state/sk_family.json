@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026062610383048443",
-  "https://www.news1.kr/nk/politics-diplomacy/6208846",
   "https://www.yna.co.kr/view/AKR20260625151500504?input=1195m",
   "https://www.seoulfn.com/news/articleView.html?idxno=631863",
   "http://www.econotelling.com/news/articleView.html?idxno=20738",
@@ -2999,11 +2997,11 @@
   "http://www.4th.kr/news/articleView.html?idxno=2114622",
   "https://www.ytn.co.kr/_ln/0102_202607121102221855",
   "https://www.newsis.com/view/NISX20260712_0003705624",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=306272"
+  "https://www.fetv.co.kr/news/articleView.html?idxno=306272",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581192168966",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=736754"
  ],
  "seen_titles": [
-  "조정불발된최태원-노소영다시법정으로…파기환송심정식변론기일...",
-  "최태원·노소영,조정불발후법정으로…재산분할파기환송심재개",
   "최태원·노소영재산분할파기환송심출석…崔\"잘마치고오겠다\"",
   "최태원-노소영,재산분할파기환송심변론모두출석",
   "최태원·노소영'재산분할'2라운드본격…'노태우비자금'핵심변수",
@@ -6001,7 +5999,9 @@
   "SK하이닉스ADR,환율도잡는다..역대급달러유입",
   "삼성전자\"용인펩조기가동\"...2029년목표",
   "韓·美반도체팹증설경쟁속…中CXMT'6조IPO'돌입",
-  "SK하이닉스,美나스닥ADR거래시작…\"AI핵심파트너입지강화\""
+  "SK하이닉스,美나스닥ADR거래시작…\"AI핵심파트너입지강화\"",
+  "SK하이닉스發‘256억달러유입’기대감…원·달러1400원대문열까",
+  "李대통령,몽골국회의장·총리연쇄회동…\"한몽관계발전에의회역할..."
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,17 @@
   [
    "2026-07-12T11:40:22.881464+09:00",
    "돌입 CXMT 6조 IPO 경쟁 증설 반도체"
+  ],
+  [
+   "2026-07-12T12:00:35.140869+09:00",
+   "유입 열까 1400원대 달러 기대감 256억 SK하이닉스"
+  ],
+  [
+   "2026-07-12T12:00:35.140869+09:00",
+   "회동 연쇄 한몽관계 발전에 의회 국회의장 몽골 대통령 총리 역할"
   ]
  ],
- "last_run": "2026-07-12T11:50:32.073476+09:00",
+ "last_run": "2026-07-12T12:00:54.197090+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
