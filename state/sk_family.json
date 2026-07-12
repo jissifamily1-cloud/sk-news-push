@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=138769",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05589126645510256",
-  "https://www.mt.co.kr/industry/2026/07/01/2026070117142320541",
-  "https://www.hankyung.com/article/2026070101971",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440518",
   "https://www.pointe.co.kr/news/articleView.html?idxno=81283",
   "https://www.meconomynews.com/news/articleView.html?idxno=132379",
@@ -2999,13 +2995,13 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130041&t=NN",
   "https://www.newsis.com/view/NISX20260713_0003705981",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6836924_37012.html",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51209"
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51209",
+  "https://www.yna.co.kr/view/AKR20260713010400011?input=1195m",
+  "https://www.joongangenews.com/news/articleView.html?idxno=532261",
+  "https://www.dt.co.kr/article/12072510",
+  "https://www.mt.co.kr/industry/2026/07/13/2026071220075642496"
  ],
  "seen_titles": [
-  "[오늘의ABC뉴스룸]\"국민여러분께죄송합니다\"홍명보감독임기반년...",
-  "“왜구미가아닌가직접묻겠다”…구자근,삼성이재용·SK최태원국...",
-  "조정식의장,대한상의와첫정책간담회…\"현장목소리입법으로연결...",
-  "류수영\"오토바이데이트중'♥박하선참좋다'외쳐\"(라스)",
   "[인사]더트래커,하나증권,국세청외",
   "충북도,민선9기첫간부승진·전보인사",
   "류수영\"♥︎박하선,몸빼바지에완전반했다\"(라스)",
@@ -6001,7 +5997,11 @@
   "미국가더니하루만에본주보다18%비싸진SK하이닉스…주가에숨은...",
   "[오늘의증시]美서불어온SK하닉發'반도체훈풍'…코스피상승탄력받...",
   "[뉴스속경제]하이닉스미국상장흥행‥투자심리살릴까",
-  "노소영아트센터나비관장'AI시대배움'공개강연"
+  "노소영아트센터나비관장'AI시대배움'공개강연",
+  "[전국주요신문사설](13일조간)",
+  "뉴욕증시,SK하이닉스ADR연계레버리지ETF다수출시예고",
+  "“호황최소내년까지는”…한은도‘반도체고점론’입장바꿨다",
+  "\"없어서못판다\"빨리,더빨리…반도체팹증설전쟁"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,17 @@
   [
    "2026-07-13T07:50:22.511019+09:00",
    "주가에 미국 하루만에 가더니 본주보다 숨은 하이닉스 비싸진"
+  ],
+  [
+   "2026-07-13T08:10:24.281222+09:00",
+   "호황 최소 바꿨다 반도체 입장 한은도 고점론 내년까지는"
+  ],
+  [
+   "2026-07-13T08:10:24.281222+09:00",
+   "반도체 전쟁 판다 빨리 없어서 증설"
   ]
  ],
- "last_run": "2026-07-13T08:00:46.521113+09:00",
+ "last_run": "2026-07-13T08:10:41.682512+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
