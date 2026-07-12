@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=712981",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260710093631i53",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1530203",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=306778",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128125",
   "https://www.getnews.co.kr/news/articleView.html?idxno=874687",
   "http://www.weeklytoday.com/news/articleView.html?idxno=784517",
@@ -2999,13 +2995,13 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/07/12/2026071290137.html",
   "https://www.hani.co.kr/arti/society/labor/1267908.html",
   "https://www.sportsworldi.com/newsView/20260712514027",
-  "http://www.mdilbo.com/detail/tohfpC/757101"
+  "http://www.mdilbo.com/detail/tohfpC/757101",
+  "https://www.seoul.co.kr/news/economy/securities/2026/07/13/20260713002001?wlog_tag3=naver",
+  "https://www.m-economynews.com/news/article.html?no=68670",
+  "http://www.kjdaily.com/article.php?aid=1783852817682223002",
+  "http://www.kwangju.co.kr/article.php?aid=1783852800801162005"
  ],
  "seen_titles": [
-  "\"투자상품인가,도박판인가\"..카지노로전락한한국증시",
-  "'고점매수'미자·랄랄→10만원에매도김준상…하이닉스등락에'울상...",
-  "[글로벌마켓리포트7월10일]",
-  "반도체불안과중동긴장,코스피7,000선위협",
   "하나은행,기술보증기금과반도체중소기업1000억원금융지원",
   "SK하이닉스ADR상장하루전375조투자계획발표한마이크론...업계캐...",
   "[개장시황]SK하이닉스,ADR흥행성공…국내증시상승동력제공",
@@ -6001,7 +5997,11 @@
   "[따져보니]'빵값부터기름값까지'서민울리는담합…대기업들의민낯...",
   "“산재줄이자는교섭이원청에무리한요구냐”",
   "제주,‘이강인과인연’공격수아이아스영입…최전방고민덜어줄까",
-  "이석연국민통합위원장\"지역혐오증폭하면국가발전저해\""
+  "이석연국민통합위원장\"지역혐오증폭하면국가발전저해\"",
+  "[단독]‘음의복리’레버리지,코스피뒤흔들다…거래90%는손실[레...",
+  "단일종목레버리지ETF,삼성전자·하이닉스변동성키워글로벌시장파...",
+  "‘반도체부지’광주군공항이전속도낸다",
+  "‘광주반도체전력공급’…한전,4년내안정적기반조성"
  ],
  "recent_sigs": [
   [
@@ -6637,7 +6637,7 @@
    "증폭하면 저해 이석연 국가발전 혐오 국민통합위원장 지역"
   ]
  ],
- "last_run": "2026-07-12T19:41:27.002162+09:00",
+ "last_run": "2026-07-12T19:51:17.570477+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
