@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026071008571491772",
-  "https://www.nocutnews.co.kr/news/6546091",
-  "http://www.newsprime.co.kr/news/article.html?no=739849",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260710085933lKm",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92049",
-  "https://www.etoday.co.kr/news/view/2602333",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260710501&PRO_CODE=99",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424317",
   "https://theopiniontimes.news/sk%ed%95%98%ec%9d%b4%eb%8b%89%ec%8a%a4-adr-%ea%b3%b5%eb%aa%a8%ea%b0%80-149%eb%8b%ac%eb%9f%ac-%ed%99%95%ec%a0%9540%ec%a1%b0%ec%9b%90-%ec%a1%b0%eb%8b%ac-%ec%97%ad%eb%8c%80%ea%b8%89-%eb%82%98/",
   "https://zdnet.co.kr/view/?no=20260710084836",
@@ -2999,16 +2992,16 @@
   "https://www.khan.co.kr/article/202607121714001",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273835",
   "https://www.munhwa.com/article/11602054",
-  "https://www.jbnews.com/news/articleView.html?idxno=1507510"
+  "https://www.jbnews.com/news/articleView.html?idxno=1507510",
+  "https://www.newsgn.com/news/articleView.html?idxno=561835",
+  "https://www.mk.co.kr/article/12096488",
+  "http://www.mdilbo.com/detail/DDAuq0/757095",
+  "https://www.sedaily.com/article/20066698",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260712010004328",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1327123",
+  "https://www.dt.co.kr/article/12072474"
  ],
  "seen_titles": [
-  "[증시포인트]반도체중심상승출발전망",
-  "SK하이닉스,나스닥상장추진으로반도체투자심리회복기대",
-  "[MUSTKNOW5]SK하이닉스-마이크론,이제미국에서경쟁하나...개장전알아...",
-  "[Tech&Now]선익시스템,인도투자협의회참석·SK인텔릭스,DDP에'나무...",
-  "iM證\"팬오션,벌크·탱커운임호조…목표가↑\"",
-  "리벨리온·퓨리오사AI,메가프로젝트로비상하나",
-  "[금융로드]하나은행,1000억협약보증으로반도체'소부장스케일업'돕...",
   "\"메모리고점신호부재…전략은여전히반도체대형주\"",
   "SK인텔릭스,서울디자인재단과‘DDP스마트디자인환경조성’MOU",
   "[키-리포트]NH\"SK텔레콤,데이터센터투자부담에도이익성장\"",
@@ -6001,7 +5994,14 @@
   "‘탈원전’접고‘감원전’접고‘원전증설’로향하나···“재생에...",
   "SK하이닉스40조원ADR조달…외환시장에'265억달러'공급기대",
   "삼성SDI,기후부‘AI배전망ESS’사업66%수주",
-  "[사설]충북반도체高입시설명회열기가희망이되려면"
+  "[사설]충북반도체高입시설명회열기가희망이되려면",
+  "SK하이닉스'나스닥데뷔'흥행…국내증시·환율동시흔든다",
+  "환율1400원대오자…달러예금9조급증",
+  "반도체인재붙잡을생활인프라...광주복쇼개발'눈길'",
+  "[단독]LG유플러스,버스공공와이파이수주전승리",
+  "국힘,김용범정조준…\"섣부른정책,즉각경질하라\"",
+  "희생과보상…경기도지자체'반도체상생'과제",
+  "[속보]“SK하닉,한국외환시장구세주”…‘통화스와프급’265억달러..."
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,25 @@
   [
    "2026-07-12T17:31:23.108128+09:00",
    "충북반도체 희망이 입시설명회 되려면 열기가"
+  ],
+  [
+   "2026-07-12T17:40:01.686157+09:00",
+   "승리 LG유플러스 수주전 공공와이파이 버스"
+  ],
+  [
+   "2026-07-12T17:40:01.686157+09:00",
+   "경질하라 정조준 즉각 정책 국힘 섣부른 김용범"
+  ],
+  [
+   "2026-07-12T17:40:01.686157+09:00",
+   "보상 지자체 반도체 경기도 상생 과제 희생과"
+  ],
+  [
+   "2026-07-12T17:40:01.686157+09:00",
+   "구세주 한국 외환시장 265억달러 SK하닉 통화스와프급"
   ]
  ],
- "last_run": "2026-07-12T17:31:29.060819+09:00",
+ "last_run": "2026-07-12T17:40:15.711279+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
