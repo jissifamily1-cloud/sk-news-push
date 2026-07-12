@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260710000033",
-  "https://www.news1.kr/finance/blockchain-fintech/6222758",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260710063315dZS",
-  "https://biz.heraldcorp.com/article/10804321",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715813",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02502646645513208",
-  "https://www.hankyung.com/article/2026071067507",
-  "https://www.sedaily.com/article/20066053",
-  "https://www.chosun.com/international/international_general/2026/07/10/RJWDC5AQM5BEJILDTFBWXZJHK4/",
-  "https://www.mt.co.kr/world/2026/07/10/2026071006384398837",
   "https://www.slist.kr/news/articleView.html?idxno=750775",
   "https://www.ajunews.com/view/20260710064449684",
   "https://www.businessplus.kr/news/articleView.html?idxno=113960",
@@ -2999,19 +2989,19 @@
   "https://www.viva100.com/article/20260712500219",
   "https://www.mediapen.com/news/view/1109642",
   "http://www.metroseoul.co.kr/article/20260712500046",
-  "https://www.mediapen.com/news/view/1109637"
+  "https://www.mediapen.com/news/view/1109637",
+  "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703003002?wlog_tag3=naver",
+  "https://www.itbiznews.com/news/articleView.html?idxno=218883",
+  "https://economist.co.kr/article/view/ecn202607120004",
+  "https://www.mt.co.kr/politics/2026/07/12/2026071209325925914",
+  "https://www.todaykorea.co.kr/news/articleView.html?idxno=403706",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01374326645513864",
+  "https://www.dt.co.kr/article/12072365",
+  "https://www.ddaily.co.kr/page/view/2026071101240093950",
+  "https://biz.chosun.com/policy/politics/assembly/2026/07/12/QWNHVMZ4KRDQXGQ6FRSCASWIAU/",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01371046645513864"
  ],
  "seen_titles": [
-  "미상무장관,삼성전자와SK하이닉스에미국내메모리생산량확대요청...",
-  "[안병익의IT맛보기]휴머노이드로봇이불러올2번째'AI반도체전쟁'",
-  "[포토]김재희,반가운미소첫인사",
-  "[DQN]커지는하이닉스의존도…SK스퀘어의딜레마",
-  "뉴욕증시,반도체강세에상승마감…나스닥1.3%↑[상보]",
-  "[포토]김재희,버디퍼트들어가라",
-  "[포토]김재희,차분하게준비하는버디퍼트",
-  "美상무장관,마이크론행사서\"삼성·하이닉스美생산확대\"촉구(종합)",
-  "[포토]김재희,우승향한첫임팩트",
-  "[포토]김재희,미소출발하는1라운드",
   "[포토]김재희,차분하게볼을놓는다",
   "[외신헤드라인]마이크론,美투자확대…2500억달러로증액",
   "[포토]김재희,최고의에너지보충",
@@ -6001,7 +5991,17 @@
   "“세계무대영향력키운다”⋯CXMT,6.5조IPO추진",
   "AI로체질바꾼통신3사…올해영업이익'5조원시대'기대",
   "ETF쏠림,개미들인버스·레버리지하루에도몇번씩사고팔고",
-  "[증시이대로좋은가⑤]좌충우돌코스피'1만스피'가려면?"
+  "[증시이대로좋은가⑤]좌충우돌코스피'1만스피'가려면?",
+  "“지역전체를‘AI실험의장’으로…과감한규제혁신·인프라조성...",
+  "해외한인기술인재복귀지원…정부,'K-테크파이오니어즈'출범",
+  "반도체피크아웃,오히려매수타이밍?…\"2분기실적시즌,반전모멘텀...",
+  "국민의힘\"오징어게임증시주범김용범…李대통령,즉각경질해야\"",
+  "SK하이닉스ADR로확보한265억달러,업계선외화스와프효과기대",
+  "\"AI수요선제대응\"…삼성,용인첫반도체공장가동앞당긴다",
+  "코스피인버스·레버리지거래폭발…투기장된국장",
+  "\"비트코인바닥한층높아졌다\"…가상자산주도층,투기꾼서'기관'으...",
+  "국힘,김용범정책실장경질촉구“‘오징어게임'증시주범”",
+  "삼성전자,용인클러스터첫공장가동2년앞당긴다(종합)"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,21 @@
   [
    "2026-07-12T09:51:16.033325+09:00",
    "1만스피 가려면 코스피 좌충우돌"
+  ],
+  [
+   "2026-07-12T10:01:29.402936+09:00",
+   "투기꾼서 높아졌다 바닥 기관 가상자산 비트코인 주도층 한층"
+  ],
+  [
+   "2026-07-12T10:01:29.402936+09:00",
+   "증시 오징어 정책실장 주범 경질 김용범 게임 국힘 촉구"
+  ],
+  [
+   "2026-07-12T10:01:29.402936+09:00",
+   "2년 클러스터 공장 가동 용인 앞당긴다 삼성전자"
   ]
  ],
- "last_run": "2026-07-12T09:51:29.935665+09:00",
+ "last_run": "2026-07-12T10:01:40.262713+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
