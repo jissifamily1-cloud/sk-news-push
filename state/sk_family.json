@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointe.co.kr/news/articleView.html?idxno=81283",
-  "https://www.meconomynews.com/news/articleView.html?idxno=132379",
-  "https://www.mk.co.kr/article/12087909",
   "https://www.yna.co.kr/view/PYH20260701234800013?input=1196m",
   "https://www.news2day.co.kr/article/20260701500156",
   "https://www.dt.co.kr/article/12070639",
@@ -2999,12 +2996,12 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=532261",
   "https://www.dt.co.kr/article/12072510",
   "https://www.mt.co.kr/industry/2026/07/13/2026071220075642496",
-  "https://biz.sbs.co.kr/article_hub/20000322035?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000322035?division=NAVER",
+  "http://www.nongaek.com/news/articleView.html?idxno=96071",
+  "https://news.bizwatch.co.kr/article/industry/2026/07/13/0001",
+  "http://www.wsobi.com/news/articleView.html?idxno=315093"
  ],
  "seen_titles": [
-  "충북도,민선9기첫간부승진·전보인사",
-  "류수영\"♥︎박하선,몸빼바지에완전반했다\"(라스)",
-  "[CG]충북도인사",
   "조정식국회의장,취임후첫경제계간담회…대한상의와\"상시소통\"공...",
   "강훈식“호남800조반도체클러스터,李임기내완공...여야힘모아주...",
   "[조정식국회의장]대한상의최태원회장과'경제대도약협력'간담회...",
@@ -6001,7 +5998,10 @@
   "뉴욕증시,SK하이닉스ADR연계레버리지ETF다수출시예고",
   "“호황최소내년까지는”…한은도‘반도체고점론’입장바꿨다",
   "\"없어서못판다\"빨리,더빨리…반도체팹증설전쟁",
-  "[굿모닝마켓]뉴욕증시SK하이닉스흥행에상승마감…나스닥0.3%"
+  "[굿모닝마켓]뉴욕증시SK하이닉스흥행에상승마감…나스닥0.3%",
+  "[오늘의사설]\"첫폭염중대경보…극한더위일상화대비를\"",
+  "AI수요폭증에'속도전'…삼성,용인첫팹2년앞당긴다",
+  "SK하이닉스-LG유플러스-KT,글로벌경쟁력강화"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,13 @@
   [
    "2026-07-13T08:10:24.281222+09:00",
    "반도체 전쟁 판다 빨리 없어서 증설"
+  ],
+  [
+   "2026-07-13T08:30:30.381309+09:00",
+   "SK하이닉스 글로벌 강화 경쟁력 LG유플러스 KT"
   ]
  ],
- "last_run": "2026-07-13T08:20:33.710284+09:00",
+ "last_run": "2026-07-13T08:30:42.847388+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6283,6 +6287,7 @@
   "incheonilbo.com": "인천일보",
   "kpenews.com": "한국정경신문",
   "the-biz.co.kr": "THE Biz(더비즈)",
-  "slownews.kr": "슬로우뉴스"
+  "slownews.kr": "슬로우뉴스",
+  "wsobi.com": "wsobi.com"
  }
 }
