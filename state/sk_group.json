@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008650916&plink=ORI&cooper=NAVER",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000022.html",
-  "https://www.g-enews.com/view.php?ud=202607100701169528e7e8286d56_1",
-  "https://www.slist.kr/news/articleView.html?idxno=750781",
-  "https://www.segye.com/newsView/20260709525320?OutUrl=naver",
-  "https://www.investchosun.com/site/data/html_dir/2026/07/09/2026070980142.html",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849465",
-  "https://www.ceoscoredaily.com/page/view/2026070914020090844",
-  "https://www.dailian.co.kr/news/view/1665457/?sc=Naver",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005876386",
-  "https://www.dailian.co.kr/news/view/1665478/?sc=Naver",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244094",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607081429098680105346",
   "https://weekly.donga.com/3/all/11/6300088/1",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20260710_0003704173",
   "https://www.seoulfn.com/news/articleView.html?idxno=633164",
   "https://www.ziksir.com/news/articleView.html?idxno=139777",
-  "https://www.news2day.co.kr/article/20260712500032"
+  "https://www.news2day.co.kr/article/20260712500032",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422382",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260712112553WzX",
+  "https://www.seoul.co.kr/news/economy/2026/07/12/20260712500029?wlog_tag3=naver",
+  "http://www.metroseoul.co.kr/article/20260712500109",
+  "https://www.khan.co.kr/article/202607121124001",
+  "https://www.chosun.com/economy/money/2026/07/12/NHPXR54UG5H3BLNUGARUTLTPPU/",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039914",
+  "https://dealsite.co.kr/articles/164833",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716014",
+  "https://www.hidomin.com/news/articleView.html?idxno=712820",
+  "https://www.munhwa.com/article/11602006"
  ],
  "seen_titles": [
-  "미·이란긴장에도흔들리지않았다…반도체랠리로뉴욕3대지수상승",
-  "뉴욕증시,반도체주반등등영향상승마감⋯마이크론4%대,샌디스크7...",
-  "\"삼전닉스꿈꾼다\"…인천반도체고설명회열기'후끈'",
-  "SK,1·2·3차협력사상생협약…반도체생태계에1.4조신규투입",
-  "SK,1·2·3차협력사상생망넓힌다…하이닉스중심1.4조원지원",
-  "SK,협력사와상생협약체결…1.4조원자금지원등동반성장확대",
-  "美상무장관\"삼성·SK하이닉스,미국에생산시설지어야\"",
-  "뉴욕증시,반도체주강세에3대지수일제히상승",
-  "중기특화증권사7개사새로지정…3년간중소·벤처기업자금지원",
-  "SK하이닉스,ADR공모가주당149달러확정...'역대최대IPO'",
-  "SK하이닉스,나스닥상장본격화…37조원투자실탄확보로반도체증설...",
   "SK하이닉스,오늘나스닥ADR상장…글로벌자본시장데뷔",
   "[오늘의글로벌마켓]뉴욕증시,반도체중심상승세...나스닥1.3%↑",
   "뉴욕증시,중동리스크에도반도체랠리에상승마감...나스닥1.3%↑",
@@ -6001,7 +5990,18 @@
   "장윤기의혹·반도체산단…전국달군5대키워드[주간리뷰]",
   "\"'돈'으로시간·기술을산다\"···中반도체투톱,한국턱밑까지추격",
   "SKT,그룹AI데이터센터총괄맡는다…영남권15GW구축추진",
-  "환율1500원아래로…달러예금8.8조원급증'3년반만최대'"
+  "환율1500원아래로…달러예금8.8조원급증'3년반만최대'",
+  "반도체피크아웃넘어선다···메모리3사,'리스크없는'영토확장",
+  "SK하이닉스,나스닥첫날168달러급등마감",
+  "세계4위‘中CXMT’삼전닉스추격본격화…6.5조원투자승부수",
+  "SK하이닉스ADR첫날13%급등…국내증시약일까독일까",
+  "SK하이닉스미국상장흥행으로월요일코스피,훈풍부나",
+  "SK하이닉스ADR상장과레버리지출시…한국증시영향은?",
+  "환율1500원밑돌자달러예금9조급증…SK하이닉스發달러공급기대↑",
+  "[오늘의딜PICK][영상]호남800조반도체청사진…소부장동행없다면...",
+  "﻿SK하이닉스40조달러유입…외환시장'통화스와프급'변화온다",
+  "전국유일글로컬대학4곳보유경북,지방대혁신'K-대학모델'주목",
+  "장동혁“이러다‘블랙에브리데이’될라…선거앞두고단일종목ETF..."
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,13 @@
   [
    "2026-07-12T11:11:08.677436+09:00",
    "기술을 턱밑까지 추격 산다 투톱 반도체 한국 시간 으로"
+  ],
+  [
+   "2026-07-12T11:31:19.999420+09:00",
+   "단일종목 블랙 이러다 될라 에브리데이 장동혁 ETF 앞두고 선거"
   ]
  ],
- "last_run": "2026-07-12T11:21:15.330492+09:00",
+ "last_run": "2026-07-12T11:31:25.786671+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
