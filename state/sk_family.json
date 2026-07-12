@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607011540229119",
-  "https://www.hankookilbo.com/news/article/A2026070111140001727?did=NA",
-  "http://www.fnnews.com/news/202607011515114314",
-  "https://www.hankookilbo.com/news/article/A2026070114190001541?did=NA",
-  "http://www.doctorstimes.com/news/articleView.html?idxno=238831",
-  "https://www.newspim.com/news/view/20260701001220",
-  "https://www.ekn.kr/web/view.php?key=20260701028288241",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/01/2026070100275.html",
   "https://www.econovill.com/news/articleView.html?idxno=744036",
   "https://www.econovill.com/news/articleView.html?idxno=744040",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310353",
@@ -2999,17 +2991,17 @@
   "https://mpmbc.co.kr/NewsArticle/1524168",
   "https://biz.sbs.co.kr/article_hub/20000318042?division=NAVER",
   "https://www.kbsm.net/news/view.php?idx=523955",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695547"
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695547",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=140910",
+  "https://www.newsis.com/view/NISX20260225_0003525588",
+  "https://www.dailian.co.kr/news/view/1665760/?sc=Naver",
+  "https://www.news1.kr/it-science/cc-newmedia/6220536",
+  "https://www.sedaily.com/article/20066774",
+  "https://www.bloter.net/news/articleView.html?idxno=667894",
+  "https://www.mt.co.kr/opinion/2026/07/13/2026070910485199317",
+  "https://www.ceoscoredaily.com/page/view/2026071202531301601"
  ],
  "seen_titles": [
-  "\"취임첫경제행보\"···조정식의장,경제계와AI·민생해법논의",
-  "조의장\"3대메가프로젝트,과감한선제대응\"",
-  "감사패전달하는최태원회장",
-  "최태원대한상의회장,주한미군채용플랫폼업무협약체결",
-  "최태원회장,제임스헬러주한미대사대리에감사패전달",
-  "최태원·조정식첫회동…崔\"기업가장힘든건불확실성,속도전뒷받...",
-  "대한상의,주한미군채용플랫폼고도화…한미동맹'일자리협력'으로...",
-  "[인사]충북도",
   "충북도,민선9기첫간부승진인사…'성과·역량중심적용'",
   "[3대메가프로젝트대해부]AI3강도약승부수던졌다",
   "800조서남권반도체메가프로젝트…전남동부권'패싱'우려확산",
@@ -6001,10 +5993,43 @@
   "통합특별시성공의조건⑥]연구실에서공장까지..'20조'최적의시나리...",
   "[증시인사이트]SK하이닉스,삼성전자제치고코스피시총1위등극",
   "쓰레기가득했던독거어르신집,봉사자들의손길로새보금자리로",
-  "전북여성1500명울린평화의선율…민주평통'문화평화'실험주목"
+  "전북여성1500명울린평화의선율…민주평통'문화평화'실험주목",
+  "최태원회장승부수'AI인프라'에SK그룹총집결…기회와리스크는",
+  "[현장]무역협회,역대최대규모회장단구성…윤진식회장\"지원대폭...",
+  "SK실트론은예외?…AI반도체가흔든'매각리밸런싱'",
+  "\"토큰,찍어낼것인가,유통할것인가\"…SKT·KT,AI팩토리'2色레이스'",
+  "“메모리,더는사이클산업아냐”최태원의자신감‘KV캐싱’이뭐길...",
+  "[박종면칼럼]SK하이닉스15년승부,월가의종을울리다",
+  "지금한국반도체가가야할길",
+  "SK하이닉스,美나스닥첫날13%급등‘화려한신고식’…‘AI톱리더..."
  ],
- "recent_sigs": [],
- "last_run": "2026-07-13T06:00:53.778411+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-13T06:10:24.988549+09:00",
+   "레이스 토큰 AI팩토리 것인가 SKT 찍어낼 유통할 KT"
+  ],
+  [
+   "2026-07-13T06:10:24.988549+09:00",
+   "산업 최태원의 캐싱 아냐 사이클 KV 자신감 더는 메모리 뭐길"
+  ],
+  [
+   "2026-07-13T06:10:24.988549+09:00",
+   "울리다 SK하이닉스 15년 종을 승부 월가의"
+  ],
+  [
+   "2026-07-13T06:10:24.988549+09:00",
+   "예외 AI 흔든 매각 리밸런싱 SK실트론은 반도체가"
+  ],
+  [
+   "2026-07-13T06:10:24.988549+09:00",
+   "가야 반도체가 지금 한국"
+  ],
+  [
+   "2026-07-13T06:10:24.988549+09:00",
+   "AI SK하이닉스 나스닥 급등 화려한 신고식 리더"
+  ]
+ ],
+ "last_run": "2026-07-13T06:10:52.529074+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
