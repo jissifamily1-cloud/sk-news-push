@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.footballist.co.kr/news/articleView.html?idxno=212020",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424294",
-  "http://www.ikpnews.net/news/articleView.html?idxno=70912",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607071335254160101167",
-  "https://www.cstimes.com/news/articleView.html?idxno=712895",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=435687",
-  "https://www.newsis.com/view/NISX20260710_0003703568",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=736588",
   "https://dealsite.co.kr/articles/165023",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607282",
   "https://www.fntimes.com/html/view.php?ud=2026071007395249097de3572ddd_18",
@@ -2999,17 +2991,17 @@
   "https://www.goodmorningcc.com/news/articleView.html?idxno=448833",
   "https://news.koreanbar.or.kr/news/articleView.html?idxno=35873",
   "https://www.newsen.com/news_view.php?uid=202607121046392310",
-  "http://www.fnnews.com/news/202607101549296272"
+  "http://www.fnnews.com/news/202607101549296272",
+  "https://www.khan.co.kr/article/202607121529001",
+  "https://www.donga.com/news/Economy/article/all/20260712/134281651/1",
+  "https://www.hani.co.kr/arti/economy/finance/1267861.html",
+  "https://biz.heraldcorp.com/article/10806023",
+  "http://www.metroseoul.co.kr/article/20260712500230",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519724",
+  "https://www.inews365.com/news/article.html?no=927225",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360152"
  ],
  "seen_titles": [
-  "[속보]SK하이닉스ADR공모가1주당149달러확정",
-  "뉴욕증시,강세마감...WTI2%↓",
-  "[마켓무버]AI메모리기대되살아났다…반도체랠리에뉴욕증시동반상...",
-  "[3분증시]반도체랠리…뉴욕증시상승마감",
-  "'삼전·닉스'거래대금비중한달반새30→51%로급등",
-  "SK하이닉스,美나스닥입성한다…오늘밤부터거래개시",
-  "SK하이닉스美ADR공모가149달러확정···40조원'역대급흥행'",
-  "중동불안에도반도체주강세에뉴욕증시일제상승…나스닥1.3%↑",
   "[애프터마켓리뷰]반도체소부장주,삼전닉스반등에동반상승",
   "美상무장관\"삼성·하이닉스美생산확대\"촉구",
   "SK하이닉스,ADR공모가주당149달러···외국기업미IPO사상최대...",
@@ -6001,7 +5993,15 @@
   "삼성전기투자,세종의자족력강화위한기폭제되려면...",
   "전국변호사단체첫결집…\"법률시장정상화\"비전선포와결의",
   "백지영도놀란‘속세단절’정석원,하이닉스몰랐다…“하이네켄?”...",
-  "평택서돈번'반도체꾼'들이번엔광주로...토지·아파트들썩"
+  "평택서돈번'반도체꾼'들이번엔광주로...토지·아파트들썩",
+  "SK하이닉스ADR·리밸런싱약화에환율떨어졌지만···1500원아래로는...",
+  "삼성전자,용인팹1기완공2년앞당긴다…2029년첫가동목표",
+  "하이닉스ADR265억달러유입…원-달러환율‘연쇄하락’고리만들까",
+  "재경부차관보“앞으로수출업체선물환매도더증가할것”",
+  "삼성전자,용인반도체공장가동'최대2년'앞당긴다…글로벌증설경...",
+  "[황태연교수의특별한시선]생각하자,반도체의기술주권!",
+  "삼전·SK하닉'하이패스'충북반도체고입시설명회'성황'",
+  "첫배전망ESS수주전삼성SDI'66%압승'…8월2차전은'신기술'이가른..."
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,21 @@
   [
    "2026-07-12T15:21:12.508466+09:00",
    "들썩 토지 반도체 광주로 아파트 이번엔 평택서"
+  ],
+  [
+   "2026-07-12T15:31:17.576313+09:00",
+   "생각하자 기술주권 반도체의"
+  ],
+  [
+   "2026-07-12T15:31:17.576313+09:00",
+   "충북반도체고 SK하닉 삼전 하이패스 입시설명회 성황"
+  ],
+  [
+   "2026-07-12T15:31:17.576313+09:00",
+   "8월 신기술 2차전은 배전망 수주전 삼성SDI 압승 ESS 가른"
   ]
  ],
- "last_run": "2026-07-12T15:22:51.697030+09:00",
+ "last_run": "2026-07-12T15:31:29.395526+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
