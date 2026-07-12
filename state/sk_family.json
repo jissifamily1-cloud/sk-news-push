@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11599531",
-  "https://www.etoday.co.kr/news/view/2599149",
-  "https://www.newsis.com/view/NISX20260225_0003525588",
-  "https://www.news1.kr/industry/general-industry/6214187",
-  "https://www.munhwa.com/article/11599530",
-  "https://www.dt.co.kr/article/12070505",
-  "https://www.etoday.co.kr/news/view/2599150",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=782838",
-  "http://www.fnnews.com/news/202607011118096971",
   "https://www.news1.kr/photos/7985940",
   "https://www.news1.kr/photos/7985890",
   "https://www.news1.kr/photos/7985921",
@@ -2999,18 +2990,18 @@
   "https://www.segye.com/newsView/20260712512438?OutUrl=naver",
   "https://www.joongang.co.kr/article/25444419",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607120083&t=NN",
-  "https://www.dt.co.kr/article/12072488"
+  "https://www.dt.co.kr/article/12072488",
+  "https://zdnet.co.kr/view/?no=20260225151758",
+  "http://www.yonhapnewstv.co.kr/AKR20260225151516Fae",
+  "https://biz.newdaily.co.kr/site/data/html/2026/02/25/2026022500338.html",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432195",
+  "http://www.edaily.co.kr/news/newspath.asp?newsid=04706806645354128",
+  "http://www.shinailbo.co.kr/news/articleView.html?idxno=2195960",
+  "https://www.etnews.com/20260225000303",
+  "https://www.smartbizn.com/news/articleView.html?idxno=136875",
+  "https://www.ekn.kr/web/view.php?key=20260225028102634"
  ],
  "seen_titles": [
-  "조정식국회의장·대한상의,첫정책간담회…미래성장동력확보논의",
-  "대한상의,국회의장과'경제대도약'간담회…AI·청년일자리논의",
-  "조정식국회의장-대한상의첫정책간담회…\"상시소통\"공감대",
-  "대한상의·국회의장첫간담회…AI·지역산업거점육성해법논의",
-  "조정식국회의장·대한상의,첫정책간담회…AI·지역산업입법지원논...",
-  "경제계,국회에'피지컬AI·로봇생태계육성지원'제도정비요청",
-  "이재명정부'메가프로젝트'시동…초격차도약vs관치경제논란",
-  "‘호남반도체’와코리아디스카운트[이철호의시론]",
-  "무디스\"삼성전자·SK하이닉스대규모투자,장기경쟁력크게강화\"",
   "삼성·SK896조투자…9개월전그린'5극3특'첫실증",
   "‘메가프로젝트’로국정2년차승부수…李,전국돌며對국민보고",
   "외형은삼성·내실은SK…최태원회장,13개경영지표중9개서이재용회...",
@@ -6001,7 +5992,16 @@
   "하이닉스美서화려한데뷔…첫날16%‘역프리미엄’현실화",
   "‘통화스와프급’달러폭탄…SK하이닉스나스닥상장,환율은웃고증...",
   "\"나스닥이16%더비싸\"…SK하닉,국장서도터질까",
-  "[기획]‘속자독식’…삼성‘용인팹’2년당긴다"
+  "[기획]‘속자독식’…삼성‘용인팹’2년당긴다",
+  "무협,美워싱턴현지싱크탱크신설추진…대미통상력강화",
+  "무협,美워싱턴에싱크탱크신설…\"대미통상활동강화\"",
+  "무역협회,상반기美워싱턴에싱크탱크'한미산업발전포럼'신설",
+  "윤진식무역협회회장\"창립80주년...新시장·新산업수출생태계구축...",
+  "무협,美워싱턴에'한미산업발전포럼'싱크탱크만든다",
+  "'무협80주년'윤진식,워싱턴싱크탱크신설…회장단강화'51명'확대",
+  "창립80주년맞은무협,'신시장·신산업'수출생태계전면개편",
+  "한국무역협회,2026년정기총회개최···\"신시장·신산업수출생태계...",
+  "윤진식무협회장“新시장·산업수출생태계구축선도할것”"
  ],
  "recent_sigs": [
   [
@@ -6101,7 +6101,7 @@
    "용인팹 삼성 속자독식 당긴다 2년"
   ]
  ],
- "last_run": "2026-07-12T19:10:49.639604+09:00",
+ "last_run": "2026-07-12T19:14:44.847314+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
