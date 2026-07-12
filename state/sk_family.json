@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=103803",
-  "https://www.kwnews.co.kr/article/20260630501291",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34357",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=639862",
-  "https://www.ekn.kr/web/view.php?key=20260628020046937",
-  "https://mpmbc.co.kr/NewsArticle/1524592",
-  "http://www.gjdream.com/news/articleView.html?idxno=670476",
   "http://www.kjdaily.com/article.php?aid=1782298160681008004",
   "http://www.kwangju.co.kr/article.php?aid=1782294000800510005",
   "http://www.jndn.com/article.php?aid=1782291907434908004",
@@ -2999,16 +2992,16 @@
   "https://www.sportschosun.com/sports-news/2026-06-26/202606250100181970011983",
   "https://www.newsis.com/view/NISX20260712_0003705766",
   "https://www.hankyung.com/article/202607129994i",
-  "https://kpenews.com/View.aspx?No=4145841"
+  "https://kpenews.com/View.aspx?No=4145841",
+  "https://www.newsis.com/view/NISX20260625_0003683825",
+  "https://www.news1.kr/sports/general-sport/6208283",
+  "https://www.sportschosun.com/sports-news/2026-06-25/202606250100175630011556",
+  "https://www.starnewskorea.com/sports/2026/06/24/2026062418504548629",
+  "https://www.sportschosun.com/sports-news/2026-06-24/202606240100167350010990",
+  "https://www.newscj.com/news/articleView.html?idxno=3416368",
+  "https://www.joongang.co.kr/article/25444405"
  ],
  "seen_titles": [
-  "\"위기속더강해진K-어펜져스\"오상욱亞선수권2관왕!일본에45-29대...",
-  "'빌린칼'로정상탈환…오상욱,아시아선수권사브르개인전2년만에...",
-  "투표소봉쇄에펜싱칼빌려간오상욱,2년만에아시아정상복귀",
-  "잠실봉쇄에‘남의칼’들었지만…오상욱,아시아선수권정상탈환",
-  "‘장비도못챙겼는데’펜싱오상욱…악재뚫고아시아정상탈환",
-  "펜싱오상욱,아시아선수권남자사브르개인전2년만에우승",
-  "[펜싱]오상욱,아시아선수권남자사브르개인전제패…2년만에우승",
   "오상욱,2년만에아시아선수권우승…'남의칼'로경기",
   "오상욱,아시아선수권남자사브르정상탈환-2년만에개인전금메달",
   "펜싱오상욱,2년만에아시아선수권정상...도경동동메달",
@@ -6001,13 +5994,16 @@
   "\"내사비로라도칼사줄게,우리선수들지원차질없도록\"亞선수권전원...",
   "삼성·SK,반도체팹증설'속도전'…국내앞당기고미국추가투자저울...",
   "SK하이닉스,ADR흥행에액면분할도호재...13일주가뛸까",
-  "SK하이닉스,40조조달이후글로벌IR본격화..최태원회장뉴욕무대에"
+  "SK하이닉스,40조조달이후글로벌IR본격화..최태원회장뉴욕무대에",
+  "한국펜싱,金4개로아시아선수권마무리…참가선수전원메달",
+  "'봉쇄시위로칼빌려출전'펜싱대표팀전원메달'해피엔딩'",
+  "\"함께일때더강한K-펜싱\"女에페中에44-43,1점차짜릿승!亞선수권...",
+  "한국펜싱,아시아펜싱선수권단체전서금·동메달추가!女사브르3년...",
+  "\"한일전은승리뿐!女펜져스도해냈다\"여자사브르대표팀,日꺾고3년만...",
+  "AI수요가만든메모리대전…생산주도권경쟁격화",
+  "삼성전자,용인첫공장1~2년앞당긴다…“2030년까지메모리부족”"
  ],
  "recent_sigs": [
-  [
-   "2026-07-12T10:20:22.805007+09:00",
-   "공격적 잰걸음 장기화 반도체 캐파증설 빅3 메모리 슈퍼사이클"
-  ],
   [
    "2026-07-12T11:40:22.881464+09:00",
    "돌입 CXMT 6조 IPO 경쟁 증설 반도체"
@@ -6055,9 +6051,17 @@
   [
    "2026-07-12T16:10:25.361214+09:00",
    "40조 이후 글로벌 IR 조달 무대에 뉴욕 회장 본격화 SK하이닉스"
+  ],
+  [
+   "2026-07-12T16:20:24.586219+09:00",
+   "수요가 메모리 대전 주도권 격화 AI 생산 만든 경쟁"
+  ],
+  [
+   "2026-07-12T16:20:24.586219+09:00",
+   "앞당긴다 삼성전자 공장 메모리 용인 2년 2030년까지 부족"
   ]
  ],
- "last_run": "2026-07-12T16:10:42.790649+09:00",
+ "last_run": "2026-07-12T16:20:40.926001+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
