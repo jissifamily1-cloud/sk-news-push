@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202606260060i",
-  "http://www.newsprime.co.kr/news/article.html?no=738149",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264084",
   "http://weekly.chosun.com/news/articleView.html?idxno=52938",
   "http://www.srtimes.kr/news/articleView.html?idxno=206158",
   "https://www.womennews.co.kr/news/articleView.html?idxno=279229",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000322152?division=NAVER",
   "https://news.mtn.co.kr/news-detail/2026071315244420745",
   "https://www.segye.com/newsView/20260713517343?OutUrl=naver",
-  "https://www.pressman.kr/news/articleView.html?idxno=102735"
+  "https://www.pressman.kr/news/articleView.html?idxno=102735",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655206&plink=ORI&cooper=NAVER",
+  "https://www.etoday.co.kr/news/view/2603031",
+  "https://www.hankookilbo.com/news/article/A2026071314100002413?did=NA"
  ],
  "seen_titles": [
-  "최태원·노소영이혼파기환송심종료…내달24일선고",
-  "최태원-노소영'재산분할파기환송심'내달24일선고",
-  "최태원·노소영'재산분할'파기환송심,내달24일선고",
   "'최태원·노소영재산분할'한달뒤결판···SK운명도달렸다",
   "‘5배폭등’SK주식나눌까…최태원‧노소영파기환송심7월선고",
   "최태원·노소영재산분할운명은…내달24일선고",
@@ -6001,13 +5998,12 @@
   "[셀럽의한수]하닉,ADR흥행에도200만원붕괴반도체끝?숨고르기...",
   "삼성·SK·마이크론증설경쟁…공장이AI시대승부처[기술,다시공장...",
   "與“‘3대메가프로젝트’성공위해국가역량총동원해야”",
-  "HBM다음승부는월가…SK하이닉스가40조에담은전략"
+  "HBM다음승부는월가…SK하이닉스가40조에담은전략",
+  "[자막뉴스]\"진보정부'돈나무'흔들려해\"…\"최태원답해야\"'반전'올...",
+  "팹증설경쟁막오른다…소부장도하반기본격반도체슈퍼사이클",
+  "칩플레이션에가전·휴대폰수리비도올라...삼성전자자재비5~9%인상"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T10:40:24.626669+09:00",
-   "이어 SK하이닉스 나오나 인디애나 SK하 위로 공장 신규 2호 수면"
-  ],
   [
    "2026-07-13T11:00:39.521593+09:00",
    "SK하아닉스 기대 상승효과 상장 ADR 본주"
@@ -6107,9 +6103,17 @@
   [
    "2026-07-13T16:26:15.795377+09:00",
    "40조에 담은 다음 월가 HBM SK하이닉스가 승부는 전략"
+  ],
+  [
+   "2026-07-13T16:40:26.050102+09:00",
+   "소부장도 하반기 반도체 증설 경쟁 본격 오른다 슈퍼사이클"
+  ],
+  [
+   "2026-07-13T16:40:26.050102+09:00",
+   "칩플레이션에 삼성전자 인상 수리비도 자재비 올라 휴대폰 가전"
   ]
  ],
- "last_run": "2026-07-13T16:30:41.245173+09:00",
+ "last_run": "2026-07-13T16:40:40.414080+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
