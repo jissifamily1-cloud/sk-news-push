@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026070710671",
-  "https://www.hankookilbo.com/news/article/A2026070717530003337?did=NA",
-  "https://www.newsgn.com/news/articleView.html?idxno=561078",
-  "https://www.newsgn.com/news/articleView.html?idxno=561079",
-  "http://www.fnnews.com/news/202607071805460501",
-  "http://www.fnnews.com/news/202607071805433372",
   "https://www.wikitree.co.kr/articles/1145262",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070360&t=NN",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260708010002684",
@@ -2999,15 +2993,15 @@
   "https://www.chosun.com/national/court_law/2026/07/13/7X55KF7MKZC4BOR35FFZ7PQ7NI/",
   "https://www.newsis.com/view/NISX20260713_0003706191",
   "https://www.ytn.co.kr/_ln/0101_202607130953564057",
-  "https://www.sjsori.com/news/articleView.html?idxno=87571"
+  "https://www.sjsori.com/news/articleView.html?idxno=87571",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094620",
+  "https://www.dailian.co.kr/news/view/1666323/?sc=Naver",
+  "https://www.yna.co.kr/view/AKR20260713055100004?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608971",
+  "https://www.mk.co.kr/article/12096872",
+  "https://www.newsis.com/view/NISX20260713_0003706512"
  ],
  "seen_titles": [
-  "'전당분담합'4社에과징금7476억",
-  "한글인터넷주소체계만든넷피아,구글상대로헌법소원제기",
-  "'전분당담합'4개사에과징금7476억…역대최대",
-  "검·경,'장윤기유착의혹'동시압수수색…보완수사권전면전",
-  "담합이냐따라하기냐…정유사희비가른法",
-  "기업규제·노봉법이판키운소송…대형로펌실적뛰었다",
   "과자·빵값이래서올랐네…'전분당담합'기업4곳에역대최대과징...",
   "대상·사조·삼양·CJ,'가격담합'7천억과징금맞았다",
   "네이버·두나무합병또연기…연말주식교환",
@@ -6001,7 +5995,13 @@
   "유병호감사위원,2차특검출석…“허구적시나리오로무리한수사”",
   "'관저부실감사'유병호前사무총장특검소환…\"허구시나리오\"",
   "신경전격화민주전대...PK지지율추락한국민의힘[뉴스퀘어10]",
-  "가습기살균제증거인멸항소심2년째공전…전,SK케미칼피고인출국신..."
+  "가습기살균제증거인멸항소심2년째공전…전,SK케미칼피고인출국신...",
+  "'관저부실감사'의혹유병호전사무총장,특검소환",
+  "이석연\"검사보완수사권완전폐지는위헌소지\"",
+  "대법\"구속·압수수색영장'검사지휘'형소법조항유지돼야\"",
+  "‘관저부실감사의혹’유병호감사위원특검출석…“허구시나리오...",
+  "공장식한약을맞춤첩약으로?…경찰,청구구조정조준",
+  "유병호전감사원사무총장\"특검,존재하지않는범죄구성하려해\"[뉴..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T10:31:11.990824+09:00",
+ "last_run": "2026-07-13T10:41:08.307215+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
