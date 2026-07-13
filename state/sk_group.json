@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=212647",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039737",
-  "http://www.finomy.com/news/articleView.html?idxno=256629",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04637926645513208",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607101738078290753",
   "https://www.hankyung.com/article/2026071085691",
   "https://www.fetv.co.kr/news/articleView.html?idxno=306236",
@@ -2999,13 +2995,13 @@
   "http://www.cctimes.kr/news/articleView.html?idxno=916312",
   "https://www.seoul.co.kr/news/economy/securities/2026/07/13/20260713500113?wlog_tag3=naver",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=310875",
-  "https://www.yna.co.kr/view/AKR20260713069000009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260713069000009?input=1195m",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16132859",
+  "https://www.joongang.co.kr/article/25444588",
+  "http://www.ddanzi.com/889374359",
+  "http://www.joseilbo.com/news/news_read.php?uid=571781&class=18"
  ],
  "seen_titles": [
-  "[증권街]비반도체대형주도흔들었다…'삼전·닉스'블랙홀된단일종...",
-  "정부,AI등초격차기술해외한인20팀복귀지원",
-  "\"대학대신삼성·하이닉스\"전국서인파몰린충북반도체고",
-  "[포토]SK하이닉스나스닥상장",
   "김용범\"'단일종목레버리지ETF,'시장상황점검회의'서면밀히보고고민...",
   "호남반도체팹속도전,이번엔주한미군변수…\"광주군공항이전협의...",
   "HBM판도흔드는'베이스다이'…삼성전자에기회왔다",
@@ -6001,25 +5997,13 @@
   "SK텔레콤,휴가철로밍·멤버십혜택강화",
   "충격의‘180만닉스’…코스피7000선붕괴",
   "美빅테크는왜'명문대졸업장'걷어찼나[SK하닉이던진질문②]",
-  "블룸버그칼럼\"모두가돈나무(SK하이닉스)흔들고싶어한다\""
+  "블룸버그칼럼\"모두가돈나무(SK하이닉스)흔들고싶어한다\"",
+  "[종목분석]삼성중공업목표주가가른FLNG이익과FDC가치",
+  "삼성낸드핵심인력,SK하이닉스이직제동…법원“1년6개월전직금...",
+  "AI버블의실체1:코스피급락은시장실패의전조인가",
+  "7월금리인상은‘예고편’…‘두번째’는8월인가10월인가"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T06:51:17.413765+09:00",
-   "전쟁 짠다 커스텀 본격화 하반기 다시 질서 3사가 HBM 공급"
-  ],
-  [
-   "2026-07-13T06:51:17.413765+09:00",
-   "될까 달러폭탄 환시에 고환율 퍼부을 SK하이닉스 소방수"
-  ],
-  [
-   "2026-07-13T06:51:17.413765+09:00",
-   "위원장 SEC 증시 높아 겐슬러 밸류에이션"
-  ],
-  [
-   "2026-07-13T06:51:17.413765+09:00",
-   "2분기 실적도 물가지표 주목 주목해야"
-  ],
   [
    "2026-07-13T06:59:00.871083+09:00",
    "5000억 국부 싹쓸이 정보 넘는 외국계 논란 유출"
@@ -7259,9 +7243,13 @@
   [
    "2026-07-13T12:51:16.646141+09:00",
    "칼럼 흔들고 모두가 돈나무 SK하이닉스 블룸버그 싶어한다"
+  ],
+  [
+   "2026-07-13T12:56:39.353656+09:00",
+   "8월인가 금리인상은 번째 7월 10월인가 예고편"
   ]
  ],
- "last_run": "2026-07-13T12:51:26.204662+09:00",
+ "last_run": "2026-07-13T12:56:47.728376+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
