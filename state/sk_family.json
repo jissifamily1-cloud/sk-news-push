@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1660433/?sc=Naver",
   "http://www.newswatch.kr/news/articleView.html?idxno=80238",
   "https://www.thereport.co.kr/news/articleView.html?idxno=89127",
   "https://www.delighti.co.kr/news/articleView.html?idxno=118222",
@@ -2999,10 +2998,10 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=168081",
   "https://www.gokorea.kr/news/articleView.html?idxno=871915",
   "http://www.yonhapnewstv.co.kr/news/MYH20260713140455B6T",
-  "https://www.newspim.com/news/view/20260713000140"
+  "https://www.newspim.com/news/view/20260713000140",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040218"
  ],
  "seen_titles": [
-  "최태원회장\"AI시대,답보다질문이경쟁력\"…미래인재기준변화...",
   "[팩트추적]한국반도체,다음10년의승부",
   "[데스크에서]甲의위풍당당유인극",
   "최태원회장\"AI가답을찾는시대…인간은질문하고공감해야\"",
@@ -6001,7 +6000,8 @@
   "亞오후장중...코스피'폭락'&韓양대반도체주'휘청'",
   "마인드허브,김희영아동발달센터·수지아동발달센터와인지언어재활서...",
   "'명태균게이트'1심선고임박…김건희는무죄,윤석열은?",
-  "성평등기반인구정책모색…여성정책연구원,양성평등정책포럼개최"
+  "성평등기반인구정책모색…여성정책연구원,양성평등정책포럼개최",
+  "삼성·SK,AI반도체수요에속도전…완공앞당기고생산확대"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-07-13T14:00:34.766624+09:00",
    "양대 휘청 장중 폭락 반도체주 코스피 오후"
+  ],
+  [
+   "2026-07-13T14:20:20.945802+09:00",
+   "속도전 삼성 생산확대 앞당기고 완공 반도체 수요에 AI"
   ]
  ],
- "last_run": "2026-07-13T14:10:38.205116+09:00",
+ "last_run": "2026-07-13T14:20:35.488585+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
