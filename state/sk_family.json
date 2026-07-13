@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606040371&t=NNv",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606020440&t=NNv",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606010128&t=NNv",
-  "https://www.mk.co.kr/article/12061521",
-  "https://www.hankyung.com/article/2026052852311",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605280371&t=NNv",
   "https://medicalworldnews.co.kr/news/view.php?idx=1510974888",
   "https://www.idomin.com/news/articleView.html?idxno=2006388",
@@ -2999,14 +2994,14 @@
   "https://www.kukinews.com/article/view/kuk202607140005",
   "https://www.ytn.co.kr/_ln/0102_202607140708580505",
   "https://www.yna.co.kr/view/AKR20260714016000011?input=1195m",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=279874"
+  "https://www.womennews.co.kr/news/articleView.html?idxno=279874",
+  "http://www.fnnews.com/news/202607131550371508",
+  "https://www.khan.co.kr/article/202607140757001",
+  "https://view.asiae.co.kr/article/2026071407500155988",
+  "https://www.mediapen.com/news/view/1109971",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490028.html"
  ],
  "seen_titles": [
-  "양주시정덕영시장당선인,'시민주권시대'준비위한인수위원회출...",
-  "정덕영양주시장직인수위원회11일출범",
-  "정덕영양주시장당선인인수위원회발족...'양주대전환시민주권'프랜...",
-  "의료AI사고나면누가책임지나?…\"의사·제조사부담,특별법필요\"",
-  "박지원,차안에서남긴야간셀카…꾸준한연기행보",
   "정덕영양주시장당선자인수위원회구성...11일공식출범",
   "[기업지배구조보고서]CEO승계대책마련해점수오른SK㈜",
   "정덕영당선인,'양주대전환시민주권인수위'내일출범",
@@ -6001,7 +5996,12 @@
   "코스피랠리에총수46명2분기주식재산29조↑…이재용28조증가해‘...",
   "(출연)[스타트경제]트럼프\"호르무즈봉쇄재개\"...뉴욕증시,일제히...",
   "[연합뉴스이시각헤드라인]-07:30",
-  "이재용,2분기주식평가액28조원증가…최태원,총액10조원넘어"
+  "이재용,2분기주식평가액28조원증가…최태원,총액10조원넘어",
+  "AI시대장기기억잡아라…SK하이닉스,낸드성장축키운다",
+  "2분기이재용주식가치28조↑…최태원은‘10조클럽’가입",
+  "2분기그룹총수10명중6명주식가치↓…최태원회장'10조클럽'첫가...",
+  "미국주요기관들,반도체고점론에\"실적모멘텀꺾이지않았다\"",
+  "SK하이닉스15%폭락'검은월요일'…美ADR도9.3%급락"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-07-14T07:38:50.672480+09:00",
    ""
+  ],
+  [
+   "2026-07-14T08:00:36.483871+09:00",
+   "기관들 고점론에 미국 실적 모멘텀 않았다 반도체 주요 꺾이지"
+  ],
+  [
+   "2026-07-14T08:00:36.483871+09:00",
+   "SK하이닉스 폭락 월요일 검은 ADR도 급락"
   ]
  ],
- "last_run": "2026-07-14T07:50:36.999740+09:00",
+ "last_run": "2026-07-14T08:00:53.724559+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
