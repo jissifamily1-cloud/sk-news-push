@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034614",
-  "https://www.imaeil.com/page/view/2026062612111361801",
   "https://www.ngonews.kr/news/articleView.html?idxno=231773",
   "https://www.newscj.com/news/articleView.html?idxno=3412315",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000045621",
@@ -2999,11 +2997,11 @@
   "https://www.ekn.kr/web/view.php?key=20260713025271908",
   "https://www.dailian.co.kr/news/view/1666567/?sc=Naver",
   "https://biz.sbs.co.kr/article_hub/20000322205?division=NAVER",
-  "https://www.munhwa.com/article/11602342"
+  "https://www.munhwa.com/article/11602342",
+  "https://biz.heraldcorp.com/article/10807330",
+  "https://www.ajunews.com/view/20260713172054230"
  ],
  "seen_titles": [
-  "최태원-노소영재산분할소송,7월선고",
-  "최태원·노소영,재산분할파기환송심...내달24일선고",
   "'SK주식'공동재산되나…최태원·노소영파기환송심내달선고",
   "최태원·노소영'재산분할소송',내달24일결론",
   "'최태원-노소영'파기환송심,7월24일선고…SK주식분할여부·기준시...",
@@ -6001,13 +5999,11 @@
   "“SK하이닉스,모두가탐내는돈나무”…블룸버그의진단[이슈+]",
   "블룸버그\"SK하닉투자자신중해야\"...경고뒤찾아온급락",
   "[투자노하우]SK하이닉스265억달러수급,달러·원구세주될까?",
-  "DS증권“SK하이닉스,ADR상장만으로본주8∼18%상승여력”"
+  "DS증권“SK하이닉스,ADR상장만으로본주8∼18%상승여력”",
+  "SK하이닉스,ADR흥행속2분기실적눈높이하향…액면분할에쏠린‘주...",
+  "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T11:30:32.646152+09:00",
-   "충족 SK하닉 국민 낳아야 너무 정부와 황금알 기대"
-  ],
   [
    "2026-07-13T11:40:24.135978+09:00",
    "200만원 하이닉스 붕괴 4월 코스피 랠리 됐다 반값"
@@ -6131,9 +6127,13 @@
   [
    "2026-07-13T17:20:26.437873+09:00",
    "본주 DS증권 상승 상장만으로 ADR SK하이닉스 여력"
+  ],
+  [
+   "2026-07-13T17:30:33.323612+09:00",
+   "실시 희망퇴직 AI컴퍼니 구조 SK네트웍스 위한 효율화"
   ]
  ],
- "last_run": "2026-07-13T17:20:40.111570+09:00",
+ "last_run": "2026-07-13T17:30:48.766734+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
