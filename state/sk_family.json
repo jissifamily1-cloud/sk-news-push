@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=411078",
   "https://www.tournews21.com/news/articleView.html?idxno=136965",
   "https://www.bloter.net/news/articleView.html?idxno=666073",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=639414",
@@ -2999,10 +2998,10 @@
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6837115_37004.html",
   "https://www.m-i.kr/news/articleView.html?idxno=1390871",
   "https://biz.heraldcorp.com/article/10807149",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609559"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609559",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/13/2026071390295.html"
  ],
  "seen_titles": [
-  "EY한영,파트너급정기인사발표…\"섹터전문성·AI역량인재선임\"",
   "[인사]화성특례시청",
   "조계사·일일시호일이주민돕기공동캠페인",
   "[인사]화성특례시",
@@ -6001,7 +6000,8 @@
   "성과급요구다음은지역투자반대?‥삼성초기업노조\"메가프로젝트도...",
   "\"하루라도빨리\"삼성·SK·마이크론,메모리특수에새공장구축총력전",
   "최태원“美AI에수백억달러투자”…韓반도체장비·AI인프라주도주...",
-  "나스닥흥행했는데코스피는왜?오락가락반도체"
+  "나스닥흥행했는데코스피는왜?오락가락반도체",
+  "SK하이닉스,15%추락'검은월요일'…美증시선급등했는데왜?"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-07-13T21:30:31.862565+09:00",
    "반도체 나스닥 흥행했는데 코스피는 오락가락"
+  ],
+  [
+   "2026-07-13T21:40:24.131815+09:00",
+   "검은 추락 급등했는데 증시선 SK하이닉스 월요일"
   ]
  ],
- "last_run": "2026-07-13T21:30:43.365080+09:00",
+ "last_run": "2026-07-13T21:40:37.873679+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
