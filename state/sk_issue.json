@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604369",
-  "https://www.joongang.co.kr/article/25443174",
   "https://www.newsis.com/view/NISX20260707_0003699741",
   "https://www.kmib.co.kr/article/view.asp?arcid=1783416386&code=11131100&cp=nv",
   "https://sjbnews.com/news/news.php?number=882370",
@@ -2999,11 +2997,11 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205527",
   "https://www.pressian.com/pages/articles/2026071311302342052",
   "https://www.segye.com/newsView/20260713509811?OutUrl=naver",
-  "https://www.siminsori.com/news/articleView.html?idxno=400395"
+  "https://www.siminsori.com/news/articleView.html?idxno=400395",
+  "https://www.ppss.kr/news/articleView.html?idxno=301919",
+  "https://biz.heraldcorp.com/article/10806787"
  ],
  "seen_titles": [
-  "[단독]“장윤기아버지경찰인거모르게”…‘윗선조직적은폐’수...",
-  "[단독]“장윤기경찰가족이란것함구령”...'선배님'호칭하며부친과...",
   "공정위,중국컨테이너가격담합여부들여다본다",
   "‘장윤기’로드러난지역경찰의민낯…‘연줄문화’도마에",
   "심덕섭고창군수,진실은반드시밝혀지기마련",
@@ -6001,7 +5999,9 @@
   "대법원,영장집행시검사'지휘→촉탁’개정안에'반대'의견",
   "장윤기,법정서'성범죄목적살해'시인…경찰'부실수사의혹'논란...",
   "박지원“구더기무서워서장못담그나”…한동훈“국민이구더기냐...",
-  "[속보]장윤기,법정서\"여고생성폭행목적살해혐의인정\""
+  "[속보]장윤기,법정서\"여고생성폭행목적살해혐의인정\"",
+  "이석연국민통합위원장\"검사수사권완전박탈은위헌...헌법체계와충...",
+  "장윤기사태휘청이는경찰…뒤늦은쇄신칼날통할까[세상&]"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T11:41:08.128327+09:00",
+ "last_run": "2026-07-13T11:51:03.156104+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
