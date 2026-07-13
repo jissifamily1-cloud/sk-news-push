@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswatch.kr/news/articleView.html?idxno=80238",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=89127",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=118222",
-  "https://www.dailian.co.kr/news/view/1660379/?sc=Naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=1385785",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34337",
   "https://www.donga.com/news/Society/article/all/20260626/134188198/1",
   "https://biz.sbs.co.kr/article_hub/20000319144?division=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=871915",
   "http://www.yonhapnewstv.co.kr/news/MYH20260713140455B6T",
   "https://www.newspim.com/news/view/20260713000140",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040218"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040218",
+  "http://www.jjn.co.kr/news/articleView.html?idxno=1046342",
+  "https://www.greened.kr/news/articleView.html?idxno=344894",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030103535&code=61141111&cp=nv",
+  "http://www.globalepic.co.kr/view.php?ud=20260713142445154948439a4874_29",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609175"
  ],
  "seen_titles": [
-  "[팩트추적]한국반도체,다음10년의승부",
-  "[데스크에서]甲의위풍당당유인극",
-  "최태원회장\"AI가답을찾는시대…인간은질문하고공감해야\"",
-  "[세계포럼]구마모토기적,호남희망고문",
-  "[사사건건]호남반도체대규모투자,입지조건의타당성은?",
   "최태원·노소영이혼소송파기환송심변론종결…7월24일선고",
   "최태원·노소영,이혼파기환송심다음달24일선고",
   "최태원·노소영재산분할…다음달파기환송심선고",
@@ -6001,13 +5996,14 @@
   "마인드허브,김희영아동발달센터·수지아동발달센터와인지언어재활서...",
   "'명태균게이트'1심선고임박…김건희는무죄,윤석열은?",
   "성평등기반인구정책모색…여성정책연구원,양성평등정책포럼개최",
-  "삼성·SK,AI반도체수요에속도전…완공앞당기고생산확대"
+  "삼성·SK,AI반도체수요에속도전…완공앞당기고생산확대",
+  "권역연계로골든타임확보…군산서전북대병원까지10분",
+  "최태원회장자신감피력에도…SK하이닉스200만원선무너져",
+  "블룸버그“李정부,사회경제적문제해결위해‘SK하이닉스’흔들어...",
+  "메모리칩수급난…삼전닉스,생산기지앞당겨짓는다",
+  "[성공예감]삼전닉스단일종목레버리지폐지해야합니다–홍춘욱대..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T08:30:30.381309+09:00",
-   "SK하이닉스 글로벌 강화 경쟁력 LG유플러스 KT"
-  ],
   [
    "2026-07-13T08:40:23.082321+09:00",
    "출시 SK하이닉스 ADR 레버리지 ETF"
@@ -6091,9 +6087,17 @@
   [
    "2026-07-13T14:20:20.945802+09:00",
    "속도전 삼성 생산확대 앞당기고 완공 반도체 수요에 AI"
+  ],
+  [
+   "2026-07-13T14:30:31.919001+09:00",
+   "메모리 생산기지 수급난 짓는다 앞당겨 삼전닉스"
+  ],
+  [
+   "2026-07-13T14:30:31.919001+09:00",
+   "합니다 폐지해야 레버리지 삼전닉스 홍춘욱 종목 단일"
   ]
  ],
- "last_run": "2026-07-13T14:20:35.488585+09:00",
+ "last_run": "2026-07-13T14:30:46.147241+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
