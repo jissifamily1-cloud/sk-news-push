@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646313&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nw2500/article/6835749_36989.html",
-  "https://www.hankookilbo.com/news/article/A2026070715400003817?did=NA",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1783414137&code=11131900&cp=nv",
-  "https://news.tf.co.kr/read/economy/2340781.htm",
   "https://www.ytn.co.kr/_ln/0103_202607080000240792",
   "https://www.nocutnews.co.kr/news/6544653",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204373",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260710_0003704378",
   "https://www.imaeil.com/page/view/2026071319532212595",
   "https://biz.chosun.com/topics/law_firm/2026/07/13/62VH7HFC3JE5DPLFJLZQ6V7IAM/",
-  "https://www.sedaily.com/article/20067263"
+  "https://www.sedaily.com/article/20067263",
+  "https://www.hani.co.kr/arti/society/society_general/1268095.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609544",
+  "https://www.seoul.co.kr/news/society/law/2026/07/13/20260713500268?wlog_tag3=naver",
+  "https://www.sedaily.com/article/20067271",
+  "https://www.newsis.com/view/NISX20260713_0003707617"
  ],
  "seen_titles": [
-  "'장윤기수사'광산서압수수색…윗선연루도수사",
-  "'케이블타이'모른척해라?‥\"수사팀장직위해제\"",
-  "[사설]장윤기사건에도'검수완박'도그마에헤매는민주당",
-  "“보완수사없었다면장윤기부실수사묻혔다”…존치론힘받나",
-  "국세청,대웅제약특별세무조사착수…도드라진지급수수료주목",
   "\"아버지경찰인거모르게\"...수사팀장구속기로",
   "'케이블타이찍힌영상'이단서…검찰,증거인멸의혹강제수사",
   "7월7일미리보는MBN뉴스7",
@@ -6001,7 +5996,12 @@
   "[일지]정교유착합수본출범부터'국힘집단가입'신천지간부들기소...",
   "정교유착합수본,'국힘당원가입강요'이만희구속기소",
   "합수본,‘국힘당원가입강요’이만희추가기소…신천지간부7명도...",
-  "[속보]정교유착합수본,‘국힘당원가입’이만희구속기소"
+  "[속보]정교유착합수본,‘국힘당원가입’이만희구속기소",
+  "‘신도조직적당원가입강요’이만희구속기소…정당법위반혐의",
+  "‘국힘당원가입강요’이만희총회장등신천지간부8명재판행",
+  "‘국힘당원가입강요’이만희신천지총회장등간부8명기소",
+  "법원,‘尹관저이전의혹’김대기前비서실장보석기각",
+  "경찰\"정이한,5월18일피습자작극진술\"…다음날입건(종합)"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 던다 합작 재무부담 호남팹 수십조 가능 투자"
   ]
  ],
- "last_run": "2026-07-13T20:21:09.253963+09:00",
+ "last_run": "2026-07-13T20:31:18.288695+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
