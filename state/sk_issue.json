@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260707523392?OutUrl=naver",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/07/2026070790281.html",
-  "https://www.newsis.com/view/NISX20260707_0003699812",
-  "https://news.jtbc.co.kr/article/NB12307101?influxDiv=NAVER",
-  "http://www.impacton.net/news/articleView.html?idxno=19508",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646127&plink=ORI&cooper=NAVER",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646126&plink=ORI&cooper=NAVER",
   "https://www.tfmedia.co.kr/news/article.html?no=205610",
   "https://www.mt.co.kr/industry/2026/07/07/2026070720520720555",
@@ -2999,15 +2993,15 @@
   "https://www.kyeonggi.com/article/20260713580306",
   "https://www.pressian.com/pages/articles/2026071312181198977",
   "https://www.newsis.com/view/NISX20260713_0003706489",
-  "https://www.news1.kr/society/court-prosecution/6226529"
+  "https://www.news1.kr/society/court-prosecution/6226529",
+  "https://www.newsway.co.kr/news/view?ud=2026071315253113759",
+  "https://www.segye.com/newsView/20260713516773?OutUrl=naver",
+  "https://news.tf.co.kr/read/life/2342761.htm",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1169095",
+  "https://www.etoday.co.kr/news/view/2603193",
+  "https://www.sedaily.com/article/20067118"
  ],
  "seen_titles": [
-  "‘장윤기사건’당시광주광산경찰서장등6명대기발령",
-  "검찰,'증거인멸·유착'장윤기수사팀압수수색…수사팀장은'구속영장...",
-  "'혐중·부정선거현수막'원외정당관계자구속면해…대표는연기",
-  "'장윤기사건'증거인멸혐의경찰서장등6명대기발령",
-  "중국ESG펀드규제강화…그린워싱차단나선다",
-  "7년넘는짬짜미딱걸렸다…전분당담합에7,476억원",
   "\"무료게임인데PC방은유료?\"…롤접속제한하자반발",
   "국세청,KT특별세무조사들어갔다…2021∼2025년회계자료대상",
   "韓해운사,中컨테이너담합피해봤나…공정위,조사개시",
@@ -6001,7 +5995,13 @@
   "\"수사지연없었다\"…경찰,정이한'자작극'수사타임라인전격공개",
   "이석연통합위원장\"보완수사권완전폐지는위헌\"",
   "[일지]'명태균게이트'의혹부터尹'무상여론조사'1심선고까지",
-  "'채상병순직수사비밀누설'이시원전비서관15일구속심사"
+  "'채상병순직수사비밀누설'이시원전비서관15일구속심사",
+  "K-프랜차이즈해외진출2막올랐다···중소브랜드가선봉",
+  "혐의입증안된후보자에대한수사상황발표는공무상비밀누설과피의...",
+  "김건희19일종합특검출석…'관저이전의혹'피의자신분",
+  "경찰,태안군수사전선거운동혐의압수수색",
+  "정이한'피습자작극'진술확보는선거보름전…부산경찰청수사경과...",
+  "경찰,‘장윤기사건’수사팀원등실무진7명수사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T16:01:18.166087+09:00",
+ "last_run": "2026-07-13T16:11:03.842204+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
