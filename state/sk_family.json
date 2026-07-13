@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2599233",
-  "https://www.etoday.co.kr/news/view/2599281",
-  "https://www.etoday.co.kr/news/view/2599235",
-  "https://www.nocutnews.co.kr/news/6541820",
   "https://www.sidae.com/article/2026070114461941462",
   "http://www.ddanzi.com/888320560",
   "https://www.mt.co.kr/society/2026/07/02/2026070121314771251",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10806865",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300128.html",
   "http://www.00news.co.kr/news/articleView.html?idxno=105083",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311015"
+  "https://www.thepublic.kr/news/articleView.html?idxno=311015",
+  "https://www.ytn.co.kr/_ln/0102_202607131059288222",
+  "https://www.newspim.com/news/view/20260713000512",
+  "https://www.munhwa.com/article/11602270",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272917"
  ],
  "seen_titles": [
-  "대구치맥축제개막…해외관광객잡아라",
-  "이진숙“최태원팔비틀린표정거짓말못해”",
-  "\"현장목소리를입법·정책으로연결하는상설협력체계구축\"",
-  "반도체로출발…미래신산업대도약기회",
   "인사/충북도",
   "최태원회장,“답을아는것보다중요한건좋은질문…AI시대인재상...",
   "800조투자시계작동..정부의진짜시험대",
@@ -6001,7 +5997,11 @@
   "‘나스닥성공데뷔’SK하이닉스국내주가는200만원하회",
   "코스피,4월랠리'반값'됐다…하이닉스200만원붕괴",
   "[산업콕!]글로벌메모리제조사증설전쟁",
-  "AI메모리반도체뒤흔드는신호탄?…SK하이닉스美ADR'흥행'에대대적..."
+  "AI메모리반도체뒤흔드는신호탄?…SK하이닉스美ADR'흥행'에대대적...",
+  "경제석학의직격\"레버리지ETF,확실히정부가잘못했다..사과해야\"",
+  "SK하이닉스,57조AI메모리투자…EUV·패키징병목뚫는다",
+  "ADR순풍속변수속출,기업의자율판단존중해야[사설]",
+  "[IndustryFocus]인디애나패키징넘어'미국산메모리팹'가시화…SK..."
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,17 @@
   [
    "2026-07-13T11:40:24.135978+09:00",
    "200만원 하이닉스 붕괴 4월 코스피 랠리 됐다 반값"
+  ],
+  [
+   "2026-07-13T12:00:36.412199+09:00",
+   "기업의 존중해야 ADR 자율 변수 속출 순풍 판단"
+  ],
+  [
+   "2026-07-13T12:00:36.412199+09:00",
+   "패키징 인디애나 미국산 가시화 넘어 메모리"
   ]
  ],
- "last_run": "2026-07-13T11:50:32.676611+09:00",
+ "last_run": "2026-07-13T12:00:54.669625+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
