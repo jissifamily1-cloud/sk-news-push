@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=124998",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463795",
-  "https://www.mk.co.kr/article/12085137",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01403846645486312",
   "http://www.economytalk.kr/news/articleView.html?idxno=422274",
   "https://www.viva100.com/article/20260626500458",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=51690",
@@ -2999,13 +2995,13 @@
   "https://www.busan.com/view/busan/view.php?code=2026071318260839881",
   "https://www.kmib.co.kr/article/view.asp?arcid=1783931739&code=11121100&cp=nv",
   "http://www.fnnews.com/news/202607131821298732",
-  "http://www.jmbc.co.kr/news/view/66174"
+  "http://www.jmbc.co.kr/news/view/66174",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609323",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699298",
+  "https://www.news1.kr/local/gwangju-jeonnam/6226802",
+  "https://www.hankyung.com/article/2026071325621"
  ],
  "seen_titles": [
-  "남성복도취향시대\"...LF이자벨마랑,2027봄컬렉션공개",
-  "이자벨마랑,2027봄남성복컬렉션공개",
-  "“1등은누드,2등은우리”라는이옷…증시런웨이도성공할까[오찬...",
-  "원전품은'K택소노미'…친환경개발·성장의교두보될까[이영민의알...",
   "[주목e-금융]'전환금융',제조업국가생존전략부상…\"NH농협금융'1...",
   "우리·농협은행,기보와녹색정책금융맞손⋯온실가스감축중소기업저...",
   "재무제표보다'ESG'···기업'ESG전략'달라졌다",
@@ -6001,15 +5997,23 @@
   "\"정이한,5월18일'자작극'첫시인\"…경찰의뒤늦은발표[부산경찰,...",
   "與,보완수사권전면폐지속도전에…“성폭력예외”내부제동",
   "검사수사지휘권폐지이후불기소처분·영장기각급증",
-  "경찰,정성주김제시장병원비대납의혹관련자대질"
+  "경찰,정성주김제시장병원비대납의혹관련자대질",
+  "[시사플랫폼]“아들휴대폰폐기는과거범죄은닉때문…경찰윗선수...",
+  "[전북]정성주시장대질조사…경찰,'돈의흐름'막바지추적",
+  "검찰,'공선법위반혐의'정준호의원징역2년구형(종합)",
+  "[단독]SK하이닉스,호남팹합작투자가능…수십조재무부담던다"
  ],
  "recent_sigs": [
   [
    "2026-07-13T16:21:01.111442+09:00",
    "LG 한화 CJ 기준 사용료 만들었다 브랜드 포스코"
+  ],
+  [
+   "2026-07-13T18:41:01.511684+09:00",
+   "SK하이닉스 던다 합작 재무부담 호남팹 수십조 가능 투자"
   ]
  ],
- "last_run": "2026-07-13T18:31:07.882300+09:00",
+ "last_run": "2026-07-13T18:41:09.800859+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
