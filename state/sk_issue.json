@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026070719134991399",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538415",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538413",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538431",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604448",
-  "https://www.newsis.com/view/NISI20260707_0002180558",
   "https://www.esquirekorea.co.kr/article/1905728",
   "https://www.segye.com/newsView/20260707519198?OutUrl=naver",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/07/2026070790263.html",
@@ -2999,15 +2993,15 @@
   "https://www.naeil.com/news/read/595109",
   "https://www.news1.kr/politics/assembly/6226246",
   "https://www.naeil.com/news/read/595108",
-  "https://www.segye.com/newsView/20260713511469?OutUrl=naver"
+  "https://www.segye.com/newsView/20260713511469?OutUrl=naver",
+  "http://www.inews24.com/view/1984931",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250899&CMPT_CD=P0010",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424656",
+  "https://view.asiae.co.kr/article/2026071313070713103",
+  "http://www.joseilbo.com/news/news_read.php?uid=571783&class=32",
+  "https://www.kado.net/news/articleView.html?idxno=2060914"
  ],
  "seen_titles": [
-  "검찰,장윤기부친-경찰수사팀유착의혹강제수사(종합)",
-  "장윤기차앞문수납함에케이블타이포착…사진보니",
-  "[단독]성폭행수사정보도장윤기부친에공유정황…“대비해라”",
-  "광주제일고“배재고선처해달라”…내일재심청구?",
-  "물엿값왜안내리나했더니…‘전분당담합’에7천억과징금",
-  "압수품들고광주광산경찰서빠져나오는광주지검수사관",
   "[단독]몬스타엑스기현의새앨범'BORDERLINE'비하인드이야기",
   "공정위,CJ그룹도상표권부당내부거래조사",
   "7월7일'뉴스9'예고",
@@ -6001,7 +5995,13 @@
   "“보완수사권폐지,부작용막을대책필요”",
   "법사소위,보완수사요구실질화논의…\"존치법도논의포함\"",
   "종합특검,막바지수사속도전",
-  "‘광주여고생살인사건’…경찰유착과증거인멸로얼룩진전말"
+  "‘광주여고생살인사건’…경찰유착과증거인멸로얼룩진전말",
+  "경찰,배재고야구부관련사건불송치가닥⋯\"피해자측이처벌불원의...",
+  "\"고개를들어라\"...광주제일고가보여준진짜'참교육'",
+  "與\"보완수사권폐지보완책논의…검경유기적수사설계\"",
+  "'돌려막기'로지인속여9억넘게가로챈남성구속",
+  "장윤기,법정서'성범죄목적살해'인정...경찰'부실수사'논란커질...",
+  "[속보]종합특검,'통일교수사무마의혹'전강원경찰청수사과장소..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T13:11:07.475760+09:00",
+ "last_run": "2026-07-13T13:21:06.425893+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
