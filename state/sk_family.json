@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.globalepic.co.kr/view.php?ud=20260626145339354348439a4874_29",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305333&inflow=N",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6192",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5202136",
   "https://www.seoulfn.com/news/articleView.html?idxno=632032",
   "https://www.kukinews.com/article/view/kuk202606260100",
@@ -2999,12 +2996,12 @@
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130121&t=NNv",
   "https://www.meconomynews.com/news/articleView.html?idxno=132644",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442149",
-  "http://www.joseilbo.com/news/news_read.php?uid=571794&class=17"
+  "http://www.joseilbo.com/news/news_read.php?uid=571794&class=17",
+  "https://www.donga.com/news/Economy/article/all/20260713/134287952/1",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260713145400Vid",
+  "http://kor.theasian.asia/archives/409617"
  ],
  "seen_titles": [
-  "최태원·노소영,‘세기의재산분할’선고한달앞으로…“5배오른...",
-  "최태원·노소영,재산분할파기환송심선고내달24일결론",
-  "투표용지국조,SK하이닉스시총1위,월드컵참패[노컷한컷]",
   "[김기자의한컷]차문붙잡고멈춘최태원…9년소송끝에남은'몇...",
   "최태원·노소영재산분할내달선고…5배뛴SK주가셈법쟁점",
   "최태원·노소영재산분할파기환송심결심…7월24일최종선고",
@@ -6001,7 +5998,10 @@
   "반도체고점론일축…메모리3사,공급앞당기기에사활",
   "[기자수첩]'국가영웅'과'기업규제'...유동수정무위의첫과제",
   "[김재섭의뒤집어보기]AI안쓰면시대에뒤처지는것인가?,서둘러AI...",
-  "반도체호황막바지?SK하이닉스의대답은\"없어서못판다\""
+  "반도체호황막바지?SK하이닉스의대답은\"없어서못판다\"",
+  "“반도체로경기살리려다공급과잉”…외신도정부메가프로젝트직...",
+  "블룸버그칼럼\"황금알거위…모두가돈나무(SK하이닉스)흔들고싶어해...",
+  "[오늘의신문읽기]반도체훈풍과금리압박…성장과불안이함께온다"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-13T14:50:25.909899+09:00",
    "호황 SK하이닉스의 반도체 막바지 없어서 대답은 판다"
+  ],
+  [
+   "2026-07-13T15:00:38.510818+09:00",
+   "금리 훈풍과 온다 압박 함께 불안이 반도체 성장과"
   ]
  ],
- "last_run": "2026-07-13T14:50:44.937594+09:00",
+ "last_run": "2026-07-13T15:00:50.952789+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6274,6 +6278,7 @@
   "slownews.kr": "슬로우뉴스",
   "wsobi.com": "wsobi.com",
   "hinews.co.kr": "하이뉴스",
-  "choicenews.co.kr": "초이스경제"
+  "choicenews.co.kr": "초이스경제",
+  "kor.theasian.asia": "아시아엔 THE AsiaN"
  }
 }
