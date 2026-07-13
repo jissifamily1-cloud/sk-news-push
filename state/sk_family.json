@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6214919",
-  "https://www.mk.co.kr/article/12088039",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000547",
-  "http://www.fnnews.com/news/202607011809261581",
   "https://www.ytn.co.kr/_ln/0102_202607011803349073",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247972&CMPT_CD=P0010",
   "https://www.dt.co.kr/article/12070651",
@@ -2999,13 +2995,13 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654346&plink=ORI&cooper=NAVER",
   "https://www.theguru.co.kr/news/article.html?no=104302",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699114",
-  "https://biz.heraldcorp.com/article/10806561"
+  "https://biz.heraldcorp.com/article/10806561",
+  "https://www.ajunews.com/view/20260713100358176",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424604",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=266156",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244144"
  ],
  "seen_titles": [
-  "발언하는최태원회장",
-  "[2026비자발적고립청년일경험캠프(10)]\"나는돌봄만하는사람이아...",
-  "전병헌“李정부800조호남반도체계획은‘급조된쇼’”",
-  "[인사]충청북도",
   "최태원\"AI시대,정답많이아는사람보다질문잘하는사람이앞선다...",
   "최태원SK회장,AI시대'新인재상'강조…\"새로운문제발견,좋은질...",
   "최태원SK회장,AI시대인재기준변화강조…\"좋은질문이경쟁력\"",
@@ -6001,7 +5997,11 @@
   "\"더달라고난리\"최태원의야심…40조쏟아부을'초격차'의행방[스프...",
   "美블룸버그\"SK하이닉스는황금알낳는거위\"이례적극찬",
   "\"반도체고점론\"vs\"AI초호황초입\"···한은고점론일축,시장은갈...",
-  "최태원“고객사들하나같이메모리급구요청…반도체수요·공급갭무..."
+  "최태원“고객사들하나같이메모리급구요청…반도체수요·공급갭무...",
+  "최태원\"조건맞으면미국도팹검토…AI수요에생산확대\"",
+  "'채권시장큰손'SK하이닉스\"국고채투자긍정적검토\"",
+  "[최태원리더십]'반도체고점론'깨버린ADR상장…SK하이닉스주가도...",
+  "[정재용칼럼]대한민국을지키는'실리콘방패'의가치"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-07-13T10:00:38.414641+09:00",
    "반도체 고객사들 하나같이 메모리 급구 공급 요청 수요"
+  ],
+  [
+   "2026-07-13T10:10:24.755464+09:00",
+   "가치 지키는 대한민국을 실리콘 방패"
   ]
  ],
- "last_run": "2026-07-13T10:00:52.248515+09:00",
+ "last_run": "2026-07-13T10:10:40.272579+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
