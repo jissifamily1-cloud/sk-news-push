@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260707204423PWa",
-  "https://www.yna.co.kr/view/AKR20260707123351004?input=1195m",
-  "https://news.tf.co.kr/read/national/2340821.htm",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604594",
-  "https://www.news1.kr/society/court-prosecution/6220819",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604593",
-  "https://www.hankyung.com/article/2026070710581",
-  "https://www.hankyung.com/article/2026070710941",
-  "https://www.mt.co.kr/politics/2026/07/07/2026070721020161403",
-  "https://www.nocutnews.co.kr/news/6544632",
   "https://www.donga.com/news/Society/article/all/20260707/134252149/1",
   "https://www.yna.co.kr/view/AKR20260707121051054?input=1195m",
   "https://www.newspim.com/news/view/20260707001241",
@@ -2999,19 +2989,19 @@
   "https://view.asiae.co.kr/article/2026071315372423721",
   "http://www.dtnews24.com/news/articleView.html?idxno=813208",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260713.99099003740",
-  "http://www.fnnews.com/news/202607131402577615"
+  "http://www.fnnews.com/news/202607131402577615",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03876966645514192",
+  "https://www.newspim.com/news/view/20260713000936",
+  "https://www.chosun.com/national/court_law/2026/07/13/TVXXDD3MPFA33FSCJ3LNN6M66U/",
+  "http://www.metroseoul.co.kr/article/20260713500365",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260713154359CwB",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2287718",
+  "https://biz.chosun.com/topics/topics_social/2026/07/13/KUI6TKTQWZAPFJTGNIA2AB4HJE/",
+  "https://www.dt.co.kr/article/12072642",
+  "https://www.hankyung.com/article/2026071320257",
+  "https://www.hankyung.com/article/202607120034i"
  ],
  "seen_titles": [
-  "사라진증거들로본유착의혹…경찰,'탈성범죄'조력?",
-  "법원,'혐중·부정선거현수막'단체대표구속영장기각(종합)",
-  "'피습자작극의혹'정이한,구속갈림길…8일영장심사",
-  "‘장윤기사건’광주광산경찰서장등6명대기발령",
-  "'혐중·부정선거의혹현수막'단체대표구속영장기각",
-  "‘혐중·부정선거’현수막내건단체대표구속영장기각",
-  "[단독]韓,中컨테이너'54조담합'조사",
-  "[단독]CCTV까지달고감시…한국도당한中짬짜미'충격실태'",
-  "경찰,'장윤기사건'수사팀장직위해제…광산경찰서장대기발령",
-  "'장윤기사건'강력팀장직위해제…수사라인6명은대기발령",
   "‘장윤기부실수사’놓고…檢은압수수색-경찰은구속영장",
   "경찰,장윤기사건수사팀·광산경찰서장직무배제(종합)",
   "경찰,'장윤기사건증거인멸의혹'광주광산서강력팀장직위해제",
@@ -6001,7 +5991,17 @@
   "종합특검,김건희19일첫소환조사…‘관저공사관여’정조준",
   "'스카이박스탐사보도'민언련'좋은보도상'선정",
   "경찰“정이한,5월18일‘음료테러자작극의혹’첫진술”",
-  "[단독]불기소율·영장기각률치솟는데...'검사수사통제'마지막고리..."
+  "[단독]불기소율·영장기각률치솟는데...'검사수사통제'마지막고리...",
+  "공정위,행정관리역량‘보통’…“문제점분석·개선‘미흡’”",
+  "특수단,'장윤기살인사건'수사팀·광주청조사",
+  "김건희,‘로저비비에선물’김기현재판불출석에과태료300만원...구...",
+  "법사위법안소위,野불참속보완수사요구실질화논의…\"오는15일추...",
+  "\"'정이한자작극'선거후압수수색\"논란에부산경찰청반박",
+  "박지원\"구더기무서워장못담그나\"에…한동훈\"국민이구더기냐\"",
+  "경찰“정이한자작극진술,선거보름전확보”…수사타임라인공개",
+  "양향자“이준석‘촉법정당’바라나?사기꾼정이한‘책임자’가피...",
+  "부산경찰청\"정이한'피습자작극'진술,5월18일첫확보\"",
+  "[단독]300억폰지사기전력에도또…183억유사수신일당구속"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T15:41:03.774549+09:00",
+ "last_run": "2026-07-13T15:51:07.299085+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
