@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25443181",
-  "https://www.khan.co.kr/article/202607072036035",
-  "https://www.khan.co.kr/article/202607072028005",
-  "https://www.news1.kr/it-science/cc-newmedia/6220702",
-  "https://www.chosun.com/national/incident/2026/07/07/UXCLVB4BAVBUBLOG6DW575UZ5U/",
-  "https://www.nocutnews.co.kr/news/6544619",
   "https://view.asiae.co.kr/article/2026070720361898630",
   "http://www.yonhapnewstv.co.kr/news/MYH2026070720311928u",
   "https://www.khan.co.kr/article/202607072031001",
@@ -2999,15 +2993,15 @@
   "https://www.greened.kr/news/articleView.html?idxno=344874",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609183",
   "https://www.sejungilbo.com/news/articleView.html?idxno=59228",
-  "https://www.etoday.co.kr/news/view/2603131"
+  "https://www.etoday.co.kr/news/view/2603131",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424684",
+  "https://www.slist.kr/news/articleView.html?idxno=751508",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379639",
+  "http://www.fnnews.com/news/202607131508127982",
+  "https://www.yna.co.kr/view/AKR20260713108100051?input=1195m",
+  "http://www.dtnews24.com/news/articleView.html?idxno=813203"
  ],
  "seen_titles": [
-  "[속보]‘장윤기사건’당시광주광산경찰서장등6명대기발령",
-  "CJ매출54%가‘간판값’…공정위,재벌부당이익칼빼들었다",
-  "‘전분당7년짬짜미’4개사,7475억‘철퇴’",
-  "국세청,KT특별세무조사…구현모·김영섭시절4년치자료예치",
-  "경찰,‘장윤기사건’담당강력팀장직위해제...경찰서장등대기발...",
-  "민변변호사3명중2명\"검사보완수사권유지필요\"",
   "'부정선거현수막'제작한시민단체대표구속영장기각",
   "[이시각헤드라인]7월7일뉴스리뷰",
   "[속보]경찰청,장윤기사건수사팀장직위해제…광주광산서장등6명대...",
@@ -6001,7 +5995,13 @@
   "점유율0.5%꼴찌코빗,미래에셋이1334억베팅한이유…STO·RWA가답이...",
   "종합특검,김건희19일소환…‘관저이전특혜의혹’조사",
   "[기업리포트]NH투자증권,'패가망신1·2호'잇따른임원비리…각자대...",
-  "특검,김건희여사‘관저이전특혜의혹’19일소환조사"
+  "특검,김건희여사‘관저이전특혜의혹’19일소환조사",
+  "공정위,기업상표권사용료정상가기준첫제정",
+  "경찰\"정이한,'피습자작극'첫진술선거보름전인5월18일확보\"",
+  "여고생무참히살해했는데…'일상한조각'앗아갔다는장윤기",
+  "종합특검,19일'관저특혜의혹'김건희소환",
+  "경찰\"정이한,선거보름전5월18일'피습자작극'첫진술\"",
+  "'정당하다더니'..대전사랑시민협'스카이박스'반납"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T15:11:12.814276+09:00",
+ "last_run": "2026-07-13T15:21:03.706936+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
