@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000045621",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6833107_36967.html",
-  "http://www.joseilbo.com/news/news_read.php?uid=570805&class=32",
   "https://www.etoday.co.kr/news/view/2598566",
   "https://www.ekn.kr/web/view.php?key=20260627021216987",
   "https://www.beopbo.com/news/articleView.html?idxno=336282",
@@ -2999,12 +2996,12 @@
   "https://biz.heraldcorp.com/article/10807330",
   "https://www.ajunews.com/view/20260713172054230",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260713001722231",
-  "https://www.sidae.com/article/2026071316362211183"
+  "https://www.sidae.com/article/2026071316362211183",
+  "https://news.mtn.co.kr/news-detail/2026071316225156210",
+  "https://www.busan.com/view/busan/view.php?code=2026071317411679674",
+  "https://www.newspim.com/news/view/20260713001008"
  ],
  "seen_titles": [
-  "'최태원-노소영'파기환송심,7월24일선고…SK주식분할여부·기준시...",
-  "최태원·노소영재산분할파기환송심종료…내달24일운명의선고",
-  "'세기의이혼'최태원·노소영파기환송심내달24일선고",
   "노소영·최태원재산분할소송,7월24일결론난다",
   "665억→1.4조→파기환송…최태원·노소영'재산분할'결론은",
   "최태원·노소영재산분할파기환송심결심종료⋯7월24일선고",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,ADR흥행속2분기실적눈높이하향…액면분할에쏠린‘주...",
   "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
   "국회서열린'2026대한민국도전페스티벌'…도전의가치로대한민국미...",
-  "메모리패권경쟁=시간싸움…삼전닉스,증설시계앞당긴다"
+  "메모리패권경쟁=시간싸움…삼전닉스,증설시계앞당긴다",
+  "반도체고점론에삼전닉스추락…AI호황꺾이나",
+  "글로벌패권다투는반도체업계‘증설경쟁’",
+  "SK하이닉스,HBM공급망재편…청주·용인·인디애나3대거점구축"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,13 @@
   [
    "2026-07-13T17:30:33.323612+09:00",
    "실시 희망퇴직 AI컴퍼니 구조 SK네트웍스 위한 효율화"
+  ],
+  [
+   "2026-07-13T17:50:28.012498+09:00",
+   "3대 HBM 거점 SK하이닉스 인디애나 공급망 재편 구축 청주 용인"
   ]
  ],
- "last_run": "2026-07-13T17:40:40.237036+09:00",
+ "last_run": "2026-07-13T17:50:41.314480+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
