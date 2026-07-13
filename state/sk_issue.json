@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202607080000240792",
-  "https://www.nocutnews.co.kr/news/6544653",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204373",
-  "http://weekly.chosun.com/news/articleView.html?idxno=53258",
-  "https://news.jtbc.co.kr/article/NB12307110?influxDiv=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604778",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260707.99099002183",
   "https://www.gukjenews.com/news/articleView.html?idxno=3629228",
   "https://www.nocutnews.co.kr/news/6544646",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609544",
   "https://www.seoul.co.kr/news/society/law/2026/07/13/20260713500268?wlog_tag3=naver",
   "https://www.sedaily.com/article/20067271",
-  "https://www.newsis.com/view/NISX20260713_0003707617"
+  "https://www.newsis.com/view/NISX20260713_0003707617",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=417235",
+  "https://kjmbc.co.kr/NewsArticle/1527340",
+  "https://www.yna.co.kr/view/AKR20260713160100057?input=1195m",
+  "https://www.nocutnews.co.kr/news/6547545",
+  "https://www.news1.kr/local/busan-gyeongnam/6226862",
+  "https://www.ytn.co.kr/_ln/0115_202607131958012719"
  ],
  "seen_titles": [
-  "\"아버지경찰인거모르게\"...수사팀장구속기로",
-  "'케이블타이찍힌영상'이단서…검찰,증거인멸의혹강제수사",
-  "7월7일미리보는MBN뉴스7",
-  "'장윤기사건'후폭풍…보완수사권폐지논란재점화",
-  "'장윤기사건'증거인멸수사팀장직위해제,수사라인은'대기발령'.....",
-  "“깔수록흑역사급범죄조력”…‘공룡경찰’벌써취했나",
   "'장윤기사건'증거방치및父직업함구지시정황확인",
   "진격의추미애,진짜시험대에…30년곪은재정난제근본처방내놓을...",
   "檢,'장윤기사건'담당수사팀장구속영장청구",
@@ -6001,7 +5995,13 @@
   "‘국힘당원가입강요’이만희총회장등신천지간부8명재판행",
   "‘국힘당원가입강요’이만희신천지총회장등간부8명기소",
   "법원,‘尹관저이전의혹’김대기前비서실장보석기각",
-  "경찰\"정이한,5월18일피습자작극진술\"…다음날입건(종합)"
+  "경찰\"정이한,5월18일피습자작극진술\"…다음날입건(종합)",
+  "공정위,입찰담합감시대상확대한",
+  "\"장윤기사형구형해야\"..부실수사의혹수사도속도",
+  "울산최중증발달장애인시설서학대의혹…경찰수사",
+  "신천지신도5.6만명'국힘당원가입'이만희교주등재판행",
+  "정이한자작극,경찰은선거보름전알고있었다…뒤늦게수사경과공...",
+  "사라진운동화에유족울분...형사과장검찰소환"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 던다 합작 재무부담 호남팹 수십조 가능 투자"
   ]
  ],
- "last_run": "2026-07-13T20:31:18.288695+09:00",
+ "last_run": "2026-07-13T20:41:05.642491+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
