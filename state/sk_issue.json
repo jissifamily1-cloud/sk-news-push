@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1145262",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070360&t=NN",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260708010002684",
   "http://www.srtimes.kr/news/articleView.html?idxno=206999",
   "http://www.yonhapnewstv.co.kr/news/AKR20260707175915qkI",
   "http://www.fnnews.com/news/202607071810439215",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/AKR20260713055100004?input=1195m",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608971",
   "https://www.mk.co.kr/article/12096872",
-  "https://www.newsis.com/view/NISX20260713_0003706512"
+  "https://www.newsis.com/view/NISX20260713_0003706512",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654399&plink=ORI&cooper=NAVER",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000049469",
+  "https://www.news1.kr/local/gwangju-jeonnam/6226036"
  ],
  "seen_titles": [
-  "과자·빵값이래서올랐네…'전분당담합'기업4곳에역대최대과징...",
-  "대상·사조·삼양·CJ,'가격담합'7천억과징금맞았다",
-  "네이버·두나무합병또연기…연말주식교환",
   "현대자동차그룹,그룹역량총집결…SDV중심산업전환대응나서",
   "[7월7일AIPICK]퇴근길TOP5이슈…삼성전자호실적속증시폭락",
   "‘가격담합’전분4사,과징금7476억역대최대",
@@ -6001,7 +5998,10 @@
   "대법\"구속·압수수색영장'검사지휘'형소법조항유지돼야\"",
   "‘관저부실감사의혹’유병호감사위원특검출석…“허구시나리오...",
   "공장식한약을맞춤첩약으로?…경찰,청구구조정조준",
-  "유병호전감사원사무총장\"특검,존재하지않는범죄구성하려해\"[뉴..."
+  "유병호전감사원사무총장\"특검,존재하지않는범죄구성하려해\"[뉴...",
+  "[자막뉴스]아들체포되자'줄연차'…경찰아빠가휴가돌려막으며한...",
+  "대법원,'영장지휘→촉탁'형소법개정에반대…\"현행유지타당\"",
+  "장윤기'성범죄목적여고생살해'혐의인정…SUV·리얼돌핵심증거(상..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T10:41:08.307215+09:00",
+ "last_run": "2026-07-13T10:51:03.330110+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
