@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=206999",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260707175915qkI",
-  "http://www.fnnews.com/news/202607071810439215",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=279683",
-  "https://www.ytn.co.kr/_ln/0102_202607071809355252",
-  "https://www.yna.co.kr/view/AKR20260707142851004?input=1195m",
-  "https://www.ajunews.com/view/20260707134521340",
-  "https://www.yna.co.kr/view/AKR20260707161300007?input=1195m",
   "https://www.busan.com/view/busan/view.php?code=2026070718175382938",
   "https://www.busan.com/view/busan/view.php?code=2026070718231453191",
   "https://www.busan.com/view/busan/view.php?code=2026070718231443484",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20260713_0003706512",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654399&plink=ORI&cooper=NAVER",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049469",
-  "https://www.news1.kr/local/gwangju-jeonnam/6226036"
+  "https://www.news1.kr/local/gwangju-jeonnam/6226036",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=89541",
+  "https://medicalworldnews.co.kr/news/view.php?idx=1510975897",
+  "https://www.mk.co.kr/article/12096920",
+  "https://www.pennmike.com/news/articleView.html?idxno=123565",
+  "https://www.donga.com/news/Politics/article/all/20260713/134286306/1",
+  "https://news.tf.co.kr/read/life/2342559.htm",
+  "https://imnews.imbc.com/news/2026/society/article/6836965_36918.html",
+  "https://www.newsis.com/view/NISX20260713_0003706494"
  ],
  "seen_titles": [
-  "현대자동차그룹,그룹역량총집결…SDV중심산업전환대응나서",
-  "[7월7일AIPICK]퇴근길TOP5이슈…삼성전자호실적속증시폭락",
-  "‘가격담합’전분4사,과징금7476억역대최대",
-  "대상·사조·삼양·CJ,7년넘게전분가격담합…공정위,역대최대과...",
-  "관세혜택받고도...물엿등전분당담합4개사과징금7,476억'역대최대...",
-  "민변10명중7명\"검찰보완수사권부분또는전면존치해야\"(종합)",
-  "케이카,KG이사회체제전환예고…공정위심사등은변수",
-  "'재심신청논의'배재고야구부…봉황대기출전여전히불투명",
   "전분업체4곳,7년간‘가격밀약’",
   "경찰유착의혹‘장윤기사건’검찰직접수사…관계자압색",
   "‘피습자작극’정이한구속기로",
@@ -6001,7 +5993,15 @@
   "유병호전감사원사무총장\"특검,존재하지않는범죄구성하려해\"[뉴...",
   "[자막뉴스]아들체포되자'줄연차'…경찰아빠가휴가돌려막으며한...",
   "대법원,'영장지휘→촉탁'형소법개정에반대…\"현행유지타당\"",
-  "장윤기'성범죄목적여고생살해'혐의인정…SUV·리얼돌핵심증거(상..."
+  "장윤기'성범죄목적여고생살해'혐의인정…SUV·리얼돌핵심증거(상...",
+  "3개성형외과'뒷광고'철퇴",
+  "성형외과‘뒷광고’3곳무더기적발…공정위시정명령",
+  "SEC코인규제확푼다...토큰화시대본격적으로열리나[엠블록레터]",
+  "검찰보완수사권폐지,여성계도강력반발···장동혁\"경찰괴물탄생...",
+  "‘관저부실감사’의혹유병호2차특검출석…“허구시나리오”",
+  "'관저의혹부실감사'유병호\"종합특검위법행위책임져야\"",
+  "'관저이전부실감사'유병호감사위원특검출석‥\"공권력남용\"",
+  "장윤기\"여고생강간등살인공소사실모두인정\"(종합)"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T10:51:03.330110+09:00",
+ "last_run": "2026-07-13T11:01:21.147476+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
