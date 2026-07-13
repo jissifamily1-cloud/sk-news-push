@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=40780",
-  "https://www.segye.com/newsView/20260701518882?OutUrl=naver",
   "https://www.news1.kr/industry/general-industry/6214919",
   "https://www.mk.co.kr/article/12088039",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000547",
@@ -2999,11 +2997,11 @@
   "https://www.sentv.co.kr/article/view/sentv202607130020",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424588",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654346&plink=ORI&cooper=NAVER",
-  "https://www.theguru.co.kr/news/article.html?no=104302"
+  "https://www.theguru.co.kr/news/article.html?no=104302",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699114",
+  "https://biz.heraldcorp.com/article/10806561"
  ],
  "seen_titles": [
-  "[기자수첩]수천조'메가선언'을둘러싼질문들...정치적구호아닌실...",
-  "[김세형칼럼]두기업인을영웅이라부른李대통령",
   "발언하는최태원회장",
   "[2026비자발적고립청년일경험캠프(10)]\"나는돌봄만하는사람이아...",
   "전병헌“李정부800조호남반도체계획은‘급조된쇼’”",
@@ -6001,7 +5999,9 @@
   "SK하이닉스액면분할빗장푸나…최태원회장\"요청오면검토\"",
   "[뉴욕은지금]SK하이닉스ADR상장,삼성전자에던진질문",
   "\"더달라고난리\"최태원의야심…40조쏟아부을'초격차'의행방[스프...",
-  "美블룸버그\"SK하이닉스는황금알낳는거위\"이례적극찬"
+  "美블룸버그\"SK하이닉스는황금알낳는거위\"이례적극찬",
+  "\"반도체고점론\"vs\"AI초호황초입\"···한은고점론일축,시장은갈...",
+  "최태원“고객사들하나같이메모리급구요청…반도체수요·공급갭무..."
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-07-13T09:50:25.399081+09:00",
    "황금알 SK하이닉스는 극찬 거위 블룸버그 낳는 이례적"
+  ],
+  [
+   "2026-07-13T10:00:38.414641+09:00",
+   "반도체 고객사들 하나같이 메모리 급구 공급 요청 수요"
   ]
  ],
- "last_run": "2026-07-13T09:50:39.758710+09:00",
+ "last_run": "2026-07-13T10:00:52.248515+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
