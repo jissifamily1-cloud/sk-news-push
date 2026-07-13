@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12070639",
-  "https://www.nocutnews.co.kr/news/6541718",
-  "https://view.asiae.co.kr/article/2026070117462190117",
   "https://www.newsis.com/view/NISX20260701_0003692244",
   "http://www.popcornnews.net/news/articleView.html?idxno=125367",
   "https://www.ajunews.com/view/20260701161225149",
@@ -2999,12 +2996,12 @@
   "https://news.bizwatch.co.kr/article/industry/2026/07/13/0001",
   "http://www.wsobi.com/news/articleView.html?idxno=315093",
   "http://www.segyebiz.com/newsView/20260713504273?OutUrl=naver",
-  "https://www.youthdaily.co.kr/news/article.html?no=222815"
+  "https://www.youthdaily.co.kr/news/article.html?no=222815",
+  "https://www.thepowernews.co.kr/view.php?ud=202607130904137032de3f0aa1be_7",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3633734",
+  "https://www.koreadaily.com/article/20260712170501469"
  ],
  "seen_titles": [
-  "[조정식국회의장]대한상의최태원회장과'경제대도약협력'간담회...",
-  "[인사]충북도,정책기획관전영미3급승진외",
-  "장학생만난최태원회장“AI시대엔지식보다질문이경쟁력”",
   "(메가프로젝트긴급진단)송양호전북대교수가말하는전북의미래전...",
   "최태원SK회장“AI,단순한도구아냐…미래인재기준달라져”",
   "4대그룹총수,하반기'피지컬인프라'쟁탈전",
@@ -6001,7 +5998,10 @@
   "AI수요폭증에'속도전'…삼성,용인첫팹2년앞당긴다",
   "SK하이닉스-LG유플러스-KT,글로벌경쟁력강화",
   "SK하이닉스ADR레버리지ETF…내일美출시",
-  "한은\"반도체고점론시기상조...AI투자에내년까지호황지속\""
+  "한은\"반도체고점론시기상조...AI투자에내년까지호황지속\"",
+  "한은,반도체고점론일축…AI수요가공급앞질렀다",
+  "'미국나스닥상장'SK하이닉스,첫날시초가14%급등",
+  "SK하이닉스,나스닥상장"
  ],
  "recent_sigs": [
   [
@@ -6125,7 +6125,7 @@
    "출시 SK하이닉스 ADR 레버리지 ETF"
   ]
  ],
- "last_run": "2026-07-13T09:04:30.413652+09:00",
+ "last_run": "2026-07-13T09:10:32.957147+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
