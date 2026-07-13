@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86296",
-  "https://www.ytn.co.kr/replay/view.php?idx=274&key=202607012345021294",
   "https://www.chosun.com/opinion/desk/2026/07/01/T2WI5KH6ZBEKFMFIPYVXMRS4DI/",
   "https://www.thedailypost.kr/news/articleView.html?idxno=114530",
   "https://www.segye.com/newsView/20260701517228?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205547",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335731",
   "http://www.fnnews.com/news/202607012052096509",
-  "https://biz.sbs.co.kr/article_hub/20000322057?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000322057?division=NAVER",
+  "https://www.dt.co.kr/article/12072593",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306968&inflow=N"
  ],
  "seen_titles": [
-  "최태원이사장,\"AI시대경쟁력은생각과적응,공감\"",
-  "최태원회장\"AI시대인재기준은'질문하는힘'\"",
   "'최태원의AI닥공'과'홍명보의홀인원축구'[광화문]",
   "[단독]SKT,'AI데이터센터'분사착수⋯1000조투자첫발뗐다[SK,AI인...",
   "SKT,AIDC분사승부수…AI인프라투자판키워15GW본격화[SK,AI인프라...",
@@ -6001,21 +5999,11 @@
   "'美상장대박'난SK하이닉스…ADR상장프리미엄에도장초반8%로하락...",
   "김어준\"언론이'보완수사권존치'여론몰이\"주장에세계일보\"망발\"",
   "리서치알음\"증시선진화,상장폐지보다IPO정상화가먼저\"",
-  "[직설]SK하이닉스美데뷔…반도체쏠림속증시변동성주목"
+  "[직설]SK하이닉스美데뷔…반도체쏠림속증시변동성주목",
+  "[속보]“SK하닉,황금알낳는거위…모두가이‘돈나무’흔들고싶어...",
+  "최태원“메모리팹미국도검토”…K반도체대미추가투자나서나"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T07:30:29.925302+09:00",
-   "사이드카 개선 신호 반도체 동시 발동 투심"
-  ],
-  [
-   "2026-07-13T07:30:29.925302+09:00",
-   "일제히 미국 상승 SK하이닉스 흥행 상장 뉴욕증시"
-  ],
-  [
-   "2026-07-13T07:30:29.925302+09:00",
-   "속도전 투자 조건 내건 생산능력 수요만 확대 고객"
-  ],
   [
    "2026-07-13T07:40:25.420858+09:00",
    "보완 수사권 교통정리도 슬로우 폐지 없이 남김 됐다 민주당 국물도"
@@ -6107,9 +6095,13 @@
   [
    "2026-07-13T13:20:25.875181+09:00",
    "변동성 쏠림 주목 SK하이닉스 데뷔 반도체 증시"
+  ],
+  [
+   "2026-07-13T13:30:32.045602+09:00",
+   "검토 나서나 메모리팹 K반도체 미국도 투자 추가 대미"
   ]
  ],
- "last_run": "2026-07-13T13:20:37.623793+09:00",
+ "last_run": "2026-07-13T13:30:45.475705+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
