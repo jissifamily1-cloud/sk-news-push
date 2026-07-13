@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsinside.kr/news/articleView.html?idxno=4819957",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=603983",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=91927",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=318836",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604369",
   "https://www.joongang.co.kr/article/25443174",
   "https://www.newsis.com/view/NISX20260707_0003699741",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/politics/assembly/6226138",
   "https://www.newspim.com/news/view/20260713000367",
   "https://www.xportsnews.com/article/2171543",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/13/2026071390131.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/13/2026071390131.html",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205527",
+  "https://www.pressian.com/pages/articles/2026071311302342052",
+  "https://www.segye.com/newsView/20260713509811?OutUrl=naver",
+  "https://www.siminsori.com/news/articleView.html?idxno=400395"
  ],
  "seen_titles": [
-  "현대차그룹,AI·로봇·SDV체질개선속1·2차협력사상생생태계구...",
-  "공정위,전분당담합4개업체역대최대7476억과징금부과",
-  "공정위,한화이어CJ도현장조사…상표권내부거래적정성점검",
-  "광주일고,KBSA등야구계에\"배재고선처해달라\"",
   "[단독]“장윤기아버지경찰인거모르게”…‘윗선조직적은폐’수...",
   "[단독]“장윤기경찰가족이란것함구령”...'선배님'호칭하며부친과...",
   "공정위,중국컨테이너가격담합여부들여다본다",
@@ -6001,7 +5997,11 @@
   "'성폭력·아동학대·보이스피싱'보완수사존치…與홍기원,형소법발의",
   "'尹관저부실감사'유병호,종합특검출석…\"가장엄정히감사한모범...",
   "'히든아이'장윤기사건집중조명…계획범죄·증거인멸정황까지",
-  "'관저이전부실감사의혹'유병호특검출석…\"허구시나리오\""
+  "'관저이전부실감사의혹'유병호특검출석…\"허구시나리오\"",
+  "대법원,영장집행시검사'지휘→촉탁’개정안에'반대'의견",
+  "장윤기,법정서'성범죄목적살해'시인…경찰'부실수사의혹'논란...",
+  "박지원“구더기무서워서장못담그나”…한동훈“국민이구더기냐...",
+  "[속보]장윤기,법정서\"여고생성폭행목적살해혐의인정\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가습기살균제 증거인멸 2년째 공전 출국신 SK케미칼 피고인 항소심"
   ]
  ],
- "last_run": "2026-07-13T11:32:00.957937+09:00",
+ "last_run": "2026-07-13T11:41:08.128327+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
