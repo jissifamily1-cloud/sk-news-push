@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01603926645512552",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1783408087&code=11171111&cp=nv",
-  "https://www.chosun.com/economy/auto/2026/07/08/WRFK2S3A7RCEFNIN7EUI4RCF4Q/",
-  "https://www.chosun.com/economy/economy_general/2026/07/08/32W3YLW3KFBVBIG3U4IIQYRWTA/",
   "https://www.kmib.co.kr/article/view.asp?arcid=1783415836&code=11151100&cp=nv",
   "https://www.kado.net/news/articleView.html?idxno=2060089",
   "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061537",
@@ -2999,13 +2995,13 @@
   "https://www.thescoop.co.kr/news/articleView.html?idxno=310885",
   "https://www.segye.com/newsView/20260713518719?OutUrl=naver",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205688",
-  "https://news.jtbc.co.kr/article/NB12308024?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12308024?influxDiv=NAVER",
+  "https://www.donga.com/news/Society/article/all/20260713/134290698/1",
+  "https://www.hankookilbo.com/news/article/A2026071319040004526?did=NA",
+  "https://www.munhwa.com/article/11602350",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1783933754&code=11131100&cp=nv"
  ],
  "seen_titles": [
-  "담합땐패가망신...'수조과징금'현실화",
-  "[사설]대기업담합으로서민바가지씌워서야",
-  "현대차그룹“협력사대금평균10일이내지급”",
-  "‘담합’제당社4곳에과징금7476억원부과",
   "전분당담합4개사에7475억역대급과징금",
   "이양수의원\"소비자피해구제담당인력보강필요\"",
   "현대차,협력사대금'10일이내'지급추진",
@@ -6001,7 +5997,11 @@
   "계란값은어떻게금값됐나…닭도달걀도아닌'담합'의결과",
   "경찰,배재고야구부‘모욕죄’불송치가닥…“광주일고가처벌원치...",
   "검찰,장윤기사건당시형사과장피의자소환…윗선지시집중추궁",
-  "'성범죄의도'숨기던장윤기,증거나오자결국…\"맞다\""
+  "'성범죄의도'숨기던장윤기,증거나오자결국…\"맞다\"",
+  "‘정이한자작극’수사경찰“선거전혐의구체화안돼비공개”",
+  "정이한'피습자작극'선거보름전첫진술…경찰,수사경과공개",
+  "경찰“정이한,선거보름전5월18일‘피습자작극’첫진술”",
+  "[단독]“성폭력피해자인내가수사관돼야했다”보완수사폐지우려"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK하이닉스 던다 합작 재무부담 호남팹 수십조 가능 투자"
   ]
  ],
- "last_run": "2026-07-13T19:21:06.382962+09:00",
+ "last_run": "2026-07-13T19:31:16.655999+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
