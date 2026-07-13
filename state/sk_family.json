@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260701_0003692244",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125367",
-  "https://www.ajunews.com/view/20260701161225149",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272322",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260701010000093",
   "https://www.mk.co.kr/article/12087970",
   "https://news.tf.co.kr/read/economy/2338723.htm",
@@ -2999,13 +2995,13 @@
   "https://www.youthdaily.co.kr/news/article.html?no=222815",
   "https://www.thepowernews.co.kr/view.php?ud=202607130904137032de3f0aa1be_7",
   "https://www.gukjenews.com/news/articleView.html?idxno=3633734",
-  "https://www.koreadaily.com/article/20260712170501469"
+  "https://www.koreadaily.com/article/20260712170501469",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424581",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849861",
+  "https://www.segye.com/newsView/20260713504845?OutUrl=naver",
+  "http://www.tjb.co.kr/sub0301/bodo/view/id/100862"
  ],
  "seen_titles": [
-  "(메가프로젝트긴급진단)송양호전북대교수가말하는전북의미래전...",
-  "최태원SK회장“AI,단순한도구아냐…미래인재기준달라져”",
-  "4대그룹총수,하반기'피지컬인프라'쟁탈전",
-  "2026년한국교육재단최태원이사장과장학생의대화",
   "최태원SK그룹회장\"AI혁신늦지않게법·제도신속히구축해야\"",
   "최태원회장\"AI가정답찾는시대…좋은질문던져야\"",
   "최태원SK회장\"AI시대엔정답보다좋은질문이경쟁력\"",
@@ -6001,7 +5997,11 @@
   "한은\"반도체고점론시기상조...AI투자에내년까지호황지속\"",
   "한은,반도체고점론일축…AI수요가공급앞질렀다",
   "'미국나스닥상장'SK하이닉스,첫날시초가14%급등",
-  "SK하이닉스,나스닥상장"
+  "SK하이닉스,나스닥상장",
+  "[뉴욕마켓브리핑](13일)",
+  "미국서더비싼SK하이닉스…나스닥흥행",
+  "한은‘반도체고점론’일축…“반도체수요증가보다공급확대더뎌”",
+  "한은'반도체고점론'일축…AI수요에확장세내년까지지속"
  ],
  "recent_sigs": [
   [
@@ -6125,7 +6125,7 @@
    "출시 SK하이닉스 ADR 레버리지 ETF"
   ]
  ],
- "last_run": "2026-07-13T09:10:32.957147+09:00",
+ "last_run": "2026-07-13T09:20:35.781251+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
