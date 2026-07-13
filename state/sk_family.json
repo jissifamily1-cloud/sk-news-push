@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599509",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=440246",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=361868",
-  "https://www.hankyung.com/article/2026062608071",
   "https://news.mtn.co.kr/news-detail/2026062616072970697",
   "https://www.ceoscoredaily.com/page/view/2026062615125644105",
   "https://www.starnewskorea.com/business-life/2026/06/26/2026062617123027055",
@@ -2999,13 +2995,13 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1306968&inflow=N",
   "https://sateconomy.co.kr/news/view/1065587255003113",
   "http://www.newsbrite.net/news/articleView.html?idxno=199219",
-  "https://www.redian.org/news/articleView.html?idxno=256960"
+  "https://www.redian.org/news/articleView.html?idxno=256960",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/13/2026071300191.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654934&plink=ORI&cooper=NAVER",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/13/2026071390165.html",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379510"
  ],
  "seen_titles": [
-  "SKBDC떼고SKTAI와결합…AIDC분사밑그림[SK,AI인프라재편]",
-  "'800조호남팹투자'발표후…기업'신중'·정부'속도전'",
-  "[시대광장/박중현]'호남반도체'드라이브를보는복잡한시선",
-  "딴지일보국회관전기156:이재명대통령,호남반도체투자동력은민...",
   "머니투데이오프라인헤드라인-2일",
   "[김종구칼럼]정부의반도체언어,차라리쉽게말하라",
   "최태원“기업AI혁명늦지않게법제도·환경적시에구축돼야”",
@@ -6001,13 +5997,13 @@
   "최태원“메모리팹미국도검토”…K반도체대미추가투자나서나",
   "한은“반도체고점아니다”…글로벌호황내년까지이어질전망",
   "최태원\"AI시대메모리수요지속확대\"",
-  "최태원회장,\"AI가메모리패러다임바꿨다\"...SK하이닉스,美나스닥..."
+  "최태원회장,\"AI가메모리패러다임바꿨다\"...SK하이닉스,美나스닥...",
+  "블룸버그\"SK하이닉스는황금알낳는거위…모두가탐낸다\"",
+  "블룸버그\"모두가흔들고싶은돈나무…SK하이닉스의딜레마\"",
+  "블룸버그\"SK하이닉스,황금알낳는거위…모두가돈나무흔들고싶어한...",
+  "[단독]\"이재명표레거시?캐치프레이즈뭐할까\"…2년차청와대의고민"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T07:50:22.511019+09:00",
-   "주가에 미국 하루만에 가더니 본주보다 숨은 하이닉스 비싸진"
-  ],
   [
    "2026-07-13T08:10:24.281222+09:00",
    "호황 최소 바꿨다 반도체 입장 한은도 고점론 내년까지는"
@@ -6091,9 +6087,13 @@
   [
    "2026-07-13T13:30:32.045602+09:00",
    "검토 나서나 메모리팹 K반도체 미국도 투자 추가 대미"
+  ],
+  [
+   "2026-07-13T13:50:25.684484+09:00",
+   "레거시 이재명표 2년차 뭐할까 캐치프레이즈 청와대의 고민"
   ]
  ],
- "last_run": "2026-07-13T13:40:36.375981+09:00",
+ "last_run": "2026-07-13T13:50:41.364255+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
