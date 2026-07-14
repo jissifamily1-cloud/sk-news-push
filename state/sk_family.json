@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03444006645481392",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16092286",
-  "https://www.yna.co.kr/view/AKR20260613042900007?input=1195m",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=511415",
-  "https://www.golfjournal.co.kr/news/articleView.html?idxno=10912",
-  "https://www.yeongnam.com/web/view.php?key=20260611029499424",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260612010004182",
   "https://www.cnbizm.com/news/articleView.html?idxno=305058",
   "http://www.ikoreanspirit.com/news/articleView.html?idxno=85766",
@@ -2999,15 +2993,15 @@
   "https://www.s-journal.co.kr/news/articleView.html?idxno=41380",
   "https://www.news1.kr/local/ulsan/6228222",
   "https://sports.khan.co.kr/article/202605071914003?pt=nv",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553189499"
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553189499",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260715060038N3l",
+  "https://www.mydaily.co.kr/page/view/2026071421033851444",
+  "https://www.yna.co.kr/view/AKR20260714169600057?input=1195m",
+  "https://www.segye.com/newsView/20260714518772?OutUrl=naver",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=307050",
+  "https://www.bloter.net/news/articleView.html?idxno=668109"
  ],
  "seen_titles": [
-  "통합특별시출범기대효과와향후과제진단",
-  "의성군청마늘씨름단윤필재,태백장사올랐다!",
-  "윤필재선수,보은단오장사씨름대회태백장사등극",
-  "안동공약관리·영주산불방지·예천문화장날등경북북부권주요현...",
-  "그리머,'2026관광기업혁신바우처'서비스제공기업선정",
-  "의성군청마늘씨름단윤필재,태백장사꽃가마다시올랐다",
   "의성군청마늘씨름단윤필재,태백장사정상탈환",
   "일진파워,AI데이터확산및반도체설비투자의구조적수혜기대",
   "일진파워,AI전력수요수혜…목표가2만2200원제시[리서치알음]",
@@ -6001,10 +5995,33 @@
   "[창간기획:미래를설계하는기업들]SK,직물에서글로벌AI핵심강자...",
   "김상욱울산시장,SK·에쓰오일본사방문…AI데이터센터·샤힌협력",
   "소강체육대상최우수선수상도받은김길리“초심을잃지않고늘최선...",
-  "[오피셜]초대박...韓국민영웅,'세계적인스타'쇼트트랙김길리또..."
+  "[오피셜]초대박...韓국민영웅,'세계적인스타'쇼트트랙김길리또...",
+  "트럼프,통행료20%하루만에번복…공습재개",
+  "'이상해며느리'NS윤지,섹시가수시절그몸매그대로",
+  "김상욱울산시장,SKㆍ에쓰오일본사방문해투자협력논의",
+  "최태원“AI토큰비용확낮추겠다”",
+  "[지난밤뉴욕에선]SK하이닉스ADR,하루만에27%급등",
+  "[허정수칼럼]호남반도체논란,삼성·SK가답할차례"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-15T06:00:55.080282+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-15T06:10:27.237290+09:00",
+   "비용 낮추겠다 AI토큰"
+  ],
+  [
+   "2026-07-15T06:10:27.237290+09:00",
+   "ADR 급등 하루만에 SK하이닉스"
+  ],
+  [
+   "2026-07-15T06:10:27.237290+09:00",
+   "김상욱 울산시장 협력 투자 에쓰오일 본사 방문해 논의"
+  ],
+  [
+   "2026-07-15T06:10:27.237290+09:00",
+   "반도체 차례 논란 호남 답할 삼성 SK가"
+  ]
+ ],
+ "last_run": "2026-07-15T06:10:48.315246+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6181,6 +6198,7 @@
   "newsroad.co.kr": "뉴스로드",
   "newstopkorea.com": "뉴스톱",
   "iminju.net": "민주신문",
-  "danbinews.com": "단비뉴스"
+  "danbinews.com": "단비뉴스",
+  "straightnews.co.kr": "스트레이트뉴스"
  }
 }
