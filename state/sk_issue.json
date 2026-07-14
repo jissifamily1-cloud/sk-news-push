@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newdaily.co.kr/site/data/html/2026/07/08/2026070800072.html",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249621&CMPT_CD=P0010",
-  "https://www.segye.com/newsView/20260708508808?OutUrl=naver",
-  "https://biz.heraldcorp.com/article/10801885",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7173345",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605055",
   "http://www.metroseoul.co.kr/article/20260708500125",
   "http://www.newscape.co.kr/news/articleView.html?idxno=123182",
   "https://www.pointe.co.kr/news/articleView.html?idxno=81538",
@@ -2999,15 +2993,15 @@
   "http://www.joseilbo.com/news/news_read.php?uid=571853&class=32",
   "https://www.womennews.co.kr/news/articleView.html?idxno=279884",
   "https://www.news1.kr/society/court-prosecution/6227386",
-  "https://www.dt.co.kr/article/12072787"
+  "https://www.dt.co.kr/article/12072787",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92382",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040665",
+  "https://www.kado.net/news/articleView.html?idxno=2061144",
+  "https://www.newsis.com/view/NISX20260714_0003708356",
+  "https://www.dailian.co.kr/news/view/1666876/?sc=Naver",
+  "https://www.news1.kr/politics/assembly/6227274"
  ],
  "seen_titles": [
-  "경찰,장윤기사건수사팀·광산서장직무배제…증거인멸의혹여파",
-  "\"눈빛주고받았으니간첩?국가보안법수사중단하라\"",
-  "한동훈“보완수사권폐지땐제2장윤기사건속출”…초동수사부실...",
-  "주가조작원금몰수처벌대상확대한다…미공개정보이용때에도적용",
-  "금융위-거래소합동대응단,중대불공정거래10여건적발·조치",
-  "장윤기수사담당전원업무배제…검찰,광산서압수수색",
   "30조→10조로확낮춘ESG공시…2028년법정의무화시동",
   "연결자산10조이상코스피상장사ESG공시의무",
   "2028년부터10조원이상코스피상장사ESG공시의무화…자본시장법개...",
@@ -6001,7 +5995,13 @@
   "검찰,강원도청투자유치과등5개사무실압수수색",
   "특검,'내란가담의혹'심우정전검찰총장구속영장",
   "종합특검,'내란가담'의혹심우정전검찰총장구속영장청구(종합)",
-  "[속보]강원도청사무실5곳검찰압수수색중…야당시절도정겨눈듯"
+  "[속보]강원도청사무실5곳검찰압수수색중…야당시절도정겨눈듯",
+  "이재용,'불장'에주식28조는59조…최태원,첫10조클럽가입",
+  "'내란가담'심우정전검찰총장구속기로…특검,구속영장신청",
+  "[속보]춘천서반려견52마리방치해굶겨죽인60대구속송치",
+  "검찰,강원도청대변인실등4곳압수수색",
+  "종합특검,심우정전검찰총장구속영장청구…\"내란중요임무종사·직...",
+  "與홍기원,'보완수사권일부존치'법안발의…\"국민피해막는안전장..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "금융사 렌탈한도 생존 렌터카사 중소 반대 완화 렌터카협회 위협"
   ]
  ],
- "last_run": "2026-07-14T10:51:04.991876+09:00",
+ "last_run": "2026-07-14T11:01:15.758881+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
