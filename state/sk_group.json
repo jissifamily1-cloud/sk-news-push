@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269568",
-  "https://www.mt.co.kr/tech/2026/07/13/2026071306384531913",
-  "https://www.newspim.com/news/view/20260713000048",
-  "https://www.sportsseoul.com/news/read/1621981",
-  "https://www.itooza.com/common/iview.php?no=2026071308380730632",
-  "https://www.news1.kr/finance/general-stock/6225713",
-  "https://www.sentv.co.kr/article/view/sentv202607130006",
   "https://www.yna.co.kr/view/AKR20260713021000008?input=1195m",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264489",
   "https://www.chosun.com/economy/money/2026/07/13/2KZFAIXC75HJ3GV7A6RD3RELQE/",
@@ -2999,16 +2992,16 @@
   "https://www.etnews.com/20260714000266",
   "http://www.newswatch.kr/news/articleView.html?idxno=80424",
   "https://sateconomy.co.kr/news/view/1065586020731417",
-  "https://www.ytn.co.kr/_ln/0102_202607141304524786"
+  "https://www.ytn.co.kr/_ln/0102_202607141304524786",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04152486645514520",
+  "http://www.fnnews.com/news/202607141305270468",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424885",
+  "https://www.econotimes.com/South-Koreas-KOSPI-Enters-Bear-Market-Despite-Remaining-2026s-Best-Performing-Major-Stock-Index-1746679",
+  "https://news.skbroadband.com/news/articleView.html?idxno=232015",
+  "https://www.thepublic.kr/news/articleView.html?idxno=311227",
+  "https://www.newspim.com/news/view/20260714000544"
  ],
  "seen_titles": [
-  "[오늘의사설]\"첫폭염중대경보…극한더위일상화대비를\"",
-  "KB證“SK하닉ADR,밸류에이션재평가시동”…레버리지ETF도줄줄이출...",
-  "한투證\"SK하닉영업이익추정치하향…목표가380만원유지\"",
-  "카타르·러시아이어중국까지…헬륨공급망'마지막한곳'남았다",
-  "'코스피20%폭락'정확히맞힌보고서,이번엔\"지금사라…1만1450피열...",
-  "중동리스크에'흔들'…프리마켓서삼전0.7%·SK하닉2.1%↓",
-  "[굿모닝!글로벌뉴욕증시]미국-이란대화지속여력과반도체섹터훈...",
   "아이폰18일반모델,삼성·하이닉스대신중국D램쓰나[IT썰]",
   "[아시아특징주]신흥시장삼킨AI3인방…펀드들,다른데로눈돌린다",
   "‘적응’마친트란지스카로공포의‘스리톱’재가동+MF위치미세조...",
@@ -6001,7 +5994,14 @@
   "에데나코리아,아시아최대금융IT기업'실버레이크엑시스'와싱가포...",
   "SKHynix'sCheongjuPlantSuffers'ConsecutiveFires'...GasRoomFac",
   "호르무즈충격,한국경제두갈래압박",
-  "코스피'날개없는추락'...언제까지떨어질까?[뉴스나우]"
+  "코스피'날개없는추락'...언제까지떨어질까?[뉴스나우]",
+  "에데나코리아,亞금융IT기업'실버레이크엑시스'와싱가포르합작법...",
+  "\"더는못참아\"…증시정책마다국민청원,직접행동나선개미들[증시...",
+  "[외환]SK하이닉스發달러공급기대에추가하락…2개월만에최저",
+  "SouthKorea’sKOSPIEntersBearMarketDespiteRemaining2026’sBest-",
+  "40년친구,이천시의회협치이끈다",
+  "10억이하국평사라진다…중저가상징은평구마저매수세점령",
+  "중동긴장재고조…정부,물가·고용·금융총력대응"
  ],
  "recent_sigs": [
   [
@@ -7183,9 +7183,25 @@
   [
    "2026-07-14T13:15:59.680686+09:00",
    "언제까지 떨어질까 코스피 날개 추락 없는"
+  ],
+  [
+   "2026-07-14T13:21:09.023047+09:00",
+   "Korea Remaining Bear KOSPI Best Market Despite Enters South"
+  ],
+  [
+   "2026-07-14T13:21:09.023047+09:00",
+   "40년 친구 이끈다 이천시의회 협치"
+  ],
+  [
+   "2026-07-14T13:21:09.023047+09:00",
+   "사라진다 국평 점령 중저가 매수세 상징 10억 은평구마저 이하"
+  ],
+  [
+   "2026-07-14T13:21:09.023047+09:00",
+   "총력 고용 금융 물가 중동 대응 재고조 긴장 정부"
   ]
  ],
- "last_run": "2026-07-14T13:16:11.692741+09:00",
+ "last_run": "2026-07-14T13:21:22.727283+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
