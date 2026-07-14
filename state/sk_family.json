@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6193547",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=843466",
   "https://www.seoul.co.kr/news/economy/industry/2026/06/11/20260611029004?wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20260610_0003664320",
@@ -2999,10 +2998,10 @@
   "https://www.dynews.co.kr/news/articleView.html?idxno=858009",
   "https://www.dynews.co.kr/news/articleView.html?idxno=858006",
   "http://www.weeklytoday.com/news/articleView.html?idxno=785304",
-  "https://www.nocutnews.co.kr/news/6548181"
+  "https://www.nocutnews.co.kr/news/6548181",
+  "https://www.khan.co.kr/article/202607142021005"
  ],
  "seen_titles": [
-  "샘올트먼부른삼성·포럼통합한SK…‘AI경영전환’총력전",
   "샘올트먼8개월만에다시방한…내주삼성전자서‘AI혁신’특강",
   "9대울산시의원한자리에‥\"시민위한협치\"",
   "삼성'언팩'·SK'AX'·LG'AI'…하반기전략판짜는전자업계",
@@ -6001,7 +6000,8 @@
   "충남도의회,민선9기첫업무보고청취…정책제안봇물",
   "호남반도체여파청주공항민간활주로신설제외되나...청주공항패싱...",
   "[위클리오늘]영천시,승진및인사이동조서(5급7.16자),(6급7.28...",
-  "최태원\"AI활용비용낮춰야…美투자자·파트너와함께할것\""
+  "최태원\"AI활용비용낮춰야…美투자자·파트너와함께할것\"",
+  "반도체클러스터,정부·기업의‘위험·비용분담’공조체계로판짜..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-07-14T19:40:28.100009+09:00",
    "낮춰야 파트너와 함께할 AI 투자자 활용 비용"
+  ],
+  [
+   "2026-07-14T20:30:30.729069+09:00",
+   "분담 기업의 비용 위험 체계로 공조 정부 반도체 클러스터"
   ]
  ],
- "last_run": "2026-07-14T20:20:37.664819+09:00",
+ "last_run": "2026-07-14T20:30:45.283253+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
