@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16111958",
-  "https://www.kpinews.kr/newsView/1065590824761467",
-  "https://www.kyeongin.com/article/1766176",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=723256",
-  "https://www.news1.kr/local/gyeonggi/6208298",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=846426",
   "https://www.joongboo.com/news/articleView.html?idxno=363729735",
   "https://www.newsis.com/view/NISX20260625_0003683415",
@@ -2999,14 +2994,14 @@
   "https://www.insight.co.kr/news/562915",
   "https://www.munhwa.com/article/11602469",
   "https://www.newsis.com/view/NISX20260714_0003708159",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92382"
+  "http://www.seouleconews.com/news/articleView.html?idxno=92382",
+  "https://www.newsgn.com/news/articleView.html?idxno=562128",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260714.99099004026",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442270",
+  "http://www.newsbrite.net/news/articleView.html?idxno=199255",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=46246"
  ],
  "seen_titles": [
-  "김준수,변함없는비주얼",
-  "베이비돈크라이,요정들의하트",
-  "[오피셜]韓국민영웅,초대형쾌거...김길리,최민정,1673만울린장항...",
-  "조정결렬된최태원·노소영'재산분할'오늘변론재개",
-  "'조정불발'최태원-노소영재산분할파기환송심오늘변론재개",
   "최종현대표의원\"민생과민주주의지키는의정에최선\"",
   "[패트롤]경기도-경기도의회-경기신용보증재단-경기주택도시공사",
   "최종현경기도의회민주당대표의원퇴임…2년의정성과정리",
@@ -6001,7 +5996,12 @@
   "액면분할만으론못좁힌다...SK하이닉스ADR23.7%프리미엄의구조",
   "[이슈]최태원“하닉액분?요청오면검토”",
   "SK하이닉스,호남반도체팹'합작법인'가능해질듯…재무부담경감기...",
-  "이재용,'불장'에주식28조는59조…최태원,첫10조클럽가입"
+  "이재용,'불장'에주식28조는59조…최태원,첫10조클럽가입",
+  "김해시,청년농업인스마트농업현장컨설팅",
+  "‘반도체슈퍼사이클’2분기이재용주식평가액28조증가…최태원10...",
+  "올해2분기총수지분가치이재용28조증가,최태원10조돌파",
+  "증시훈풍에이재용주식재산28조증가...최태원첫'10조클럽'입성",
+  "흥국자산운용주주서한철회…\"SK하이닉스가답했어야\""
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-07-14T10:40:24.337076+09:00",
    "요청 오면 검토 하닉 액분"
+  ],
+  [
+   "2026-07-14T11:10:26.110041+09:00",
+   "흥국자산운용 주주서한 답했어야 SK하이닉스가 철회"
   ]
  ],
- "last_run": "2026-07-14T11:00:46.822894+09:00",
+ "last_run": "2026-07-14T11:10:38.957099+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6307,6 +6311,7 @@
   "pressman.kr": "프레스맨",
   "news.bizwatch.co.kr": "비즈니스워치",
   "iusm.co.kr": "울산매일 - 울산최초, 최고의 조간신문",
-  "newsroad.co.kr": "뉴스로드"
+  "newsroad.co.kr": "뉴스로드",
+  "newstopkorea.com": "뉴스톱"
  }
 }
