@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646879&plink=ORI&cooper=NAVER",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03168486645512552",
-  "https://www.ytn.co.kr/_ln/0104_202607080932492243",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03224246645512552",
-  "http://www.joseilbo.com/news/news_read.php?uid=571482&class=32",
-  "https://www.kukinews.com/article/view/kuk202607070118",
-  "https://www.mt.co.kr/stock/2026/07/08/2026070716131014742",
-  "https://vop.co.kr/A00001695729.html",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423884",
   "https://www.ytn.co.kr/_ln/0103_202607080943258137",
   "https://www.ppss.kr/news/articleView.html?idxno=301422",
   "https://www.ikbc.co.kr/article/view/kbc202607080005",
@@ -2999,18 +2990,18 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490108.html",
   "https://www.ytn.co.kr/_ln/0115_202607140947325917",
   "https://www.smartbizn.com/news/articleView.html?idxno=148462",
-  "https://www.yna.co.kr/view/AKR20260714053751004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260714053751004?input=1195m",
+  "https://sports.khan.co.kr/article/202607141004003?pt=nv",
+  "http://www.fnnews.com/news/202607140934311052",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244164",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264554",
+  "http://www.fnnews.com/news/202607141006075268",
+  "https://www.newspim.com/news/view/20260714000280",
+  "https://www.news1.kr/society/court-prosecution/6227280",
+  "https://www.yna.co.kr/view/AKR20260714058600062?input=1195m",
+  "https://biz.heraldcorp.com/article/10807895"
  ],
  "seen_titles": [
-  "[단독]검찰,장윤기차에서사라진'케이블타이'장윤기부친집에서...",
-  "\"국정농단운운하더니3개월간조사無\"…박상용검사출국금지풀려",
-  "트럼프행정부'선거요원신상공개청구'기각",
-  "연결자산10조이상코스피기업,2028년부터ESG공시의무화",
-  "당정,'ESG공시의무화'확정...\"2028년부터총액10조이상코스피상장...",
-  "ESG공시2028년시작…자산10조코스피상장사부터",
-  "ESG공시초안보다확대'자산30조→10조'…코스피291개대상",
-  "7년넘게전분당가격담합...대상·사조·삼양사·CJ에과징금7,476억...",
-  "역대급과징금이어손해배상가나…식품업계,담합사소송'준비중'",
   "[속보]배재고,대한야구소프트볼협회에재심신청결정",
   "[기업인사이트3]기업이가장두려워하는것은조사보다'소송'…경영...",
   "검찰,'장윤기사건'광산서압수수색…경찰수사놓고검·경'힘겨루기...",
@@ -6001,7 +5992,16 @@
   "[티조챗]반성문에태도180도돌변…장윤기'감형꼼수'통할까?",
   "장윤기수사경찰줄줄이소환...장윤기,강간살인인정",
   "[전근홍의직격]국민이개·돼지인가···소송전벌이는카카오페이'...",
-  "특검,심우정전검찰총장구속영장…\"내란중요임무·직권남용\"(종합)"
+  "특검,심우정전검찰총장구속영장…\"내란중요임무·직권남용\"(종합)",
+  "신성“8년무명에대인기피증…‘아침마당’의아들로꿈이뤄”",
+  "이재용,3개월새주식재산28조늘었다…최태원은첫'10조클럽'",
+  "[기자수첩]기업은숫자를썼지만소비자는역사를읽었다",
+  "이재용,2분기에만28조원불었다…최태원은첫'10조클럽'진입",
+  "종합특검,'내란가담의혹'심우정전검찰총장·간부구속영장",
+  "종합특검,'계엄가담혐의'심우정前검찰총장구속영장청구",
+  "종합특검,'내란가담'혐의심우정전검찰총장구속영장청구",
+  "[1보]검찰,강원도청투자유치과등3∼4곳압수수색",
+  "[속보]종합특검,‘내란관여혐의’심우정전검찰총장구속영장청..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "29조 늘었지만 삼성 웃었다 총수 주식재산 SK만"
   ]
  ],
- "last_run": "2026-07-14T10:03:37.256867+09:00",
+ "last_run": "2026-07-14T10:11:09.388199+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
