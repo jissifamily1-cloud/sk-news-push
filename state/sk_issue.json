@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11601214",
-  "http://www.fnnews.com/news/202607081407444854",
-  "http://www.koreatimes.com/article/1620549",
-  "https://www.donga.com/news/Society/article/all/20260708/134259473/2",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04182006645512552",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890224.html",
   "https://view.asiae.co.kr/article/2026070815032505749",
   "https://www.tenasia.co.kr/article/2026070828624",
@@ -2999,14 +2994,14 @@
   "https://www.ezyeconomy.com/news/articleView.html?idxno=237519",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=360283",
   "https://www.newdaily.co.kr/site/data/html/2026/07/14/2026071400226.html",
-  "https://sateconomy.co.kr/news/view/1065591357925955"
+  "https://sateconomy.co.kr/news/view/1065591357925955",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379820",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1385857",
+  "https://imnews.imbc.com/replay/2026/nw1400/article/6837341_36974.html",
+  "https://www.joongang.co.kr/article/25444962",
+  "https://imnews.imbc.com/news/2026/society/article/6837349_36918.html"
  ],
  "seen_titles": [
-  "검찰“보완수사로암장될뻔한전동해시장뇌물밝혀”…심규언징역...",
-  "피의자父도경찰,수사팀도연루의혹…'장윤기사건'에경찰신뢰타...",
-  "한인연루성매매조직또적발",
-  "故이채원양母절규“우리편이라믿었던경찰,살인마편이었다”",
-  "금감원특사경,매일경제TV압수수색…선행매매의혹포착",
   "'피습자작극'정이한영장실질심사출석…\"법정서사실관계밝히겠다\"",
   "금감원,'선행매매혐의'매경TV압수수색…특사경‘인지수사1호’",
   "검찰\"방시혁사기적부정거래입증어려워\"…구속영장반려",
@@ -6001,7 +5996,12 @@
   "법원,'쿠팡총수=김범석'공정위처분제동…효력정지인용",
   "공정위,전자상거래법개정안시행",
   "선관위,투표지예산63억남기고직원격려금?…국조특위,예산맹폭",
-  "대기업하도급늑장지급‘이랜드’…현금결제외면은KG·하이트진로..."
+  "대기업하도급늑장지급‘이랜드’…현금결제외면은KG·하이트진로...",
+  "법원,'일단'쿠팡손들어줬다…'김범석동일인지정'효력정지",
+  "김범석한숨돌렸다…법원,쿠팡'총수지정'효력정지",
+  "법원\"'김범석쿠팡동일인'지정공정위처분효력정지\"",
+  "경찰도‘장윤기사건’수사지휘부입건…광산서장·형사과장피의자...",
+  "박희영전구청장최측근'수사동향유출'무혐의결정"
  ],
  "recent_sigs": [
   [
@@ -6037,7 +6037,7 @@
    "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
   ]
  ],
- "last_run": "2026-07-14T15:11:09.702987+09:00",
+ "last_run": "2026-07-14T15:21:03.617153+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
