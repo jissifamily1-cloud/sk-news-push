@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=317949",
-  "https://dealsite.co.kr/articles/165223",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168097",
-  "https://www.koreaherald.com/article/10807167",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7174032",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467993",
   "https://www.khan.co.kr/article/202607131509001",
@@ -2999,13 +2995,13 @@
   "https://www.sedaily.com/article/20067783",
   "https://www.danbinews.com/news/articleView.html?idxno=33329",
   "https://www.hankyung.com/article/202607145333i",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260714027&PRO_CODE=4"
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260714027&PRO_CODE=4",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=83483",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441176",
+  "https://www.tokenpost.kr/news/economy/377684",
+  "https://www.g-enews.com/view.php?ud=2026071419575882729a1f309431_1"
  ],
  "seen_titles": [
-  "[반도체승부수①]시스템·메모리벽허문AI…글로벌반도체지형도재...",
-  "코스피8%↓,대만증시0.06%↑...삼전닉스10~13%급락하는사이대만...",
-  "法\"삼성전자낸드인력,SK하이닉스전직1년6개월금지\"",
-  "열흘마다'최대수출'퍼레이드...'반도체고점론'일축하는내년성장...",
   "반도체R&D125개과제부산집결…AI미래논의",
   "亞오후장중...中·日증시'뚝',코스피'대폭락',유럽선물'하락'",
   "WallStreetrushesintoleveragedSKhynixETFs",
@@ -6001,7 +5997,11 @@
   "“나하이닉스로2억벌었어”친구의고백…뇌에‘전치4주’고통온...",
   "3대메가프로젝트",
   "JP모건,2분기사상최대이익에도주가하락",
-  "'100조투자지연'불안감에...SK하이닉스\"정상추진\""
+  "'100조투자지연'불안감에...SK하이닉스\"정상추진\"",
+  "김민재,바이에른뮌헨잔류무게-현지\"매각대상제외,새시즌함께한...",
+  "코스피,기관과외인매수에상승마감...SK하이닉스,삼성전자상승VS...",
+  "반도체주가저가매수반등...장기계약이핵심변수로부상",
+  "삼성전자ADR설,회사는즉각부인"
  ],
  "recent_sigs": [
   [
@@ -7023,9 +7023,13 @@
   [
    "2026-07-14T21:21:20.310048+09:00",
    "100조 지연 투자 SK하이닉스 정상 불안감에"
+  ],
+  [
+   "2026-07-14T21:31:19.105907+09:00",
+   "회사는 ADR설 삼성전자 부인 즉각"
   ]
  ],
- "last_run": "2026-07-14T21:21:33.704492+09:00",
+ "last_run": "2026-07-14T21:31:24.665917+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
