@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260713180810tSn",
-  "http://www.fnnews.com/news/202607131805457641",
-  "https://www.koreajoongangdaily.com/business/sk-hynixs-blockbuster-nasdaq-debut-fails-to-lift-seoullisted-shares/12769678",
-  "https://biz.sbs.co.kr/article_hub/20000322238?division=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260713180634cxh",
-  "https://www.newsis.com/view/NISX20260713_0003707397",
-  "http://www.fnnews.com/news/202607131804176906",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260713010004841",
   "https://www.segye.com/newsView/20260713518807?OutUrl=naver",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609301",
   "https://www.ajunews.com/view/20260713154707958",
@@ -2999,17 +2991,17 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716408",
   "https://www.veritas-a.com/news/articleView.html?idxno=618714",
   "https://www.veritas-a.com/news/articleView.html?idxno=618308",
-  "https://www.newspim.com/news/view/20260715000084"
+  "https://www.newspim.com/news/view/20260715000084",
+  "http://www.breaknews.com/1218759",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92263",
+  "https://www.ekn.kr/web/view.php?key=20260715029212594",
+  "https://www.hidomin.com/news/articleView.html?idxno=713327",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61593",
+  "https://www.etoday.co.kr/news/view/2603807",
+  "https://www.tvreport.co.kr/entertainment/article/1061312/",
+  "https://www.news1.kr/finance/market-exr/6228422"
  ],
  "seen_titles": [
-  "한국인81%가삼성폰쓴다",
-  "SK하이닉스,나스닥흥행에도급락…반도체고점론과제",
-  "SK하닉ADR연계토큰등장…뜨거운'RWA인프라경쟁'",
-  "SKhynix'sblockbusterNasdaqdebutfailstoliftSeoul-listedshares",
-  "반도체폭락에코스피와르르…두달만에7천선붕괴",
-  "'검은월요일'7천피깨졌다…서킷브레이커발동",
-  "이현중·안영준·송교창합류…농구대표팀,월드컵예선대비훈련명...",
-  "반도체투톱주가부진에도채권같이담은ETF는선방",
   "내년'800조+α'슈퍼예산…李\"추가세수로전략적투자\"",
   "코스피‘검은월요일’…7000도무너졌다",
   "사이드카·서킷브레이커까지…코스피7천선아래로",
@@ -6001,7 +5993,15 @@
   "[원자재시황]물가둔화·실적호조에'강세장'",
   "[단독]25개로스쿨2027모집요강'LEET실질반영비율주목'..충북대89....",
   "[단독]이공특최다등록고교유형일반고로바뀌나..2026이공특일반...",
-  "[미국특징주]스페이스X,한달만에공모가위태…추가하락?매수기..."
+  "[미국특징주]스페이스X,한달만에공모가위태…추가하락?매수기...",
+  "SK,협력사와대규모상생협약..동반성장가속화",
+  "SK하이닉스ADR놓고해외기관엇갈린평가…'330달러'vs'160달러'",
+  "美물가안도감에반도체주반등…국내증시도상승출발기대[장전시황...",
+  "뉴욕發'하닉급반등',반등신호탄?…코스피,공포구간지나재평가...",
+  "[증시전망대]美반도체랠리·물가둔화훈풍…코스피,'역대급조정'...",
+  "SK하이닉스ADR,폭등에한국주보다51%비싸져[뉴욕증시무버]",
+  "'재혼'서동주,시험관도전중→하이닉스폭락에침울…\"잠깐울고시...",
+  "美반도체랠리·CPI호재…SK하이닉스프리마켓서8%대강세"
  ],
  "recent_sigs": [
   [
@@ -6593,7 +6593,7 @@
    "만에 하락 스페이스X 추가 공모가 매수 위태"
   ]
  ],
- "last_run": "2026-07-15T08:31:46.056676+09:00",
+ "last_run": "2026-07-15T08:35:24.640240+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
