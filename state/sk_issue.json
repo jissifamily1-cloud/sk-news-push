@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026070810250037404",
-  "http://www.joseilbo.com/news/news_read.php?uid=571496&class=32",
-  "https://www.yna.co.kr/view/AKR20260708075400054?input=1195m",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008647154&plink=ORI&cooper=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605170",
-  "https://www.yna.co.kr/view/AKR20260708074700054?input=1195m",
-  "https://www.dailian.co.kr/news/view/1664713/?sc=Naver",
-  "https://www.viva100.com/article/20260708500613",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=784060",
   "https://www.slist.kr/news/articleView.html?idxno=750368",
   "https://www.ytn.co.kr/_ln/0115_202607081108564065",
   "http://www.yonhapnewstv.co.kr/news/MYH20260708110501Pts",
@@ -2999,18 +2990,18 @@
   "https://biz.sbs.co.kr/article_hub/20000322404?division=NAVER",
   "https://www.yna.co.kr/view/AKR20260714081800001?input=1195m",
   "https://www.newspim.com/news/view/20260714000468",
-  "https://www.newsis.com/view/NISX20260714_0003708437"
+  "https://www.newsis.com/view/NISX20260714_0003708437",
+  "https://chmbc.co.kr/article/13964353",
+  "https://chmbc.co.kr/article/13964350",
+  "https://www.khan.co.kr/article/202607141149001",
+  "https://www.mt.co.kr/society/2026/07/14/2026071411402854848",
+  "https://www.newsis.com/view/NISX20260714_0003708479",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205808",
+  "https://lawtalknews.co.kr/article/MB7RKV0ZTX5A",
+  "https://www.ytn.co.kr/_ln/0115_202607141140465723",
+  "https://www.news1.kr/local/kangwon/6227542"
  ],
  "seen_titles": [
-  "\"방시혁사기적부정거래입증어렵다\"…檢,경찰에혐의변경제안[MD...",
-  "'보완수사권'논란재점화...경찰직협\"장윤기사건사죄,사법개혁못...",
-  "장윤기차량서사라진케이블타이,아버지집에서발견",
-  "[단독]'장윤기사건'수사팀원\"팀장이케이블타이'그냥두라'고지시...",
-  "사라진‘케이블타이’장윤기아버지집에서발견",
-  "'장윤기사건'케이블타이증거인멸수사팀장영장심사출석",
-  "'초안보다급진적'…ESG공시제도화,내후년코스피상장사부터",
-  "박상혁의원,정무위간사로민생경제활력이끈다",
-  "[위클리오늘]'장윤기사건'증거인멸의혹확산…수사팀장영장심사·...",
   "'장윤기사건'사라진케이블타이,부친집에서발견",
   "검찰,사라진케이블타이장윤기부친자택서확보",
   "검찰,장윤기아버지집에서케이블타이발견",
@@ -6001,7 +5992,16 @@
   "검찰,강원도청압수수색…\"뇌물관련언급나와…민선9기와무관\"",
   "선관위국조'재검표시기'공방…與\"즉각\"·국힘\"특검우선\"",
   "공수처\"형소법개정시공수처수사위법다툼소지…별도규정필요\"",
-  "공수처,형소법개정에\"강제수사근거공백우려…보완입법필요\""
+  "공수처,형소법개정에\"강제수사근거공백우려…보완입법필요\"",
+  "검찰,강원도청부서5곳압수수색",
+  "쓰레기집5곳에개50여마리방임학대..60대구속",
+  "오물·쓰레기로뒤덮인주택등에개52마리방치한60대구속송치",
+  "공수처\"형소법개정안시행시공수처검사수사위법소지…개정필요...",
+  "종합특검,심우정전검찰총장구속청구…'내란중요임무종사'혐의(종...",
+  "오물더미속개수십마리방치한60대구속",
+  "\"폰섹남이라고소문낼게\"게임속집단성희롱,고소가능할까?",
+  "검·경,장윤기사건수사경찰줄줄이소환조사",
+  "아파트·주택서반려견52마리방치…60대여성구속송치"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "금융사 렌탈한도 생존 렌터카사 중소 반대 완화 렌터카협회 위협"
   ]
  ],
- "last_run": "2026-07-14T11:41:05.848062+09:00",
+ "last_run": "2026-07-14T11:51:06.588121+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
