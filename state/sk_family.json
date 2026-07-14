@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://idsn.co.kr/news/view/1065594808273435",
   "https://www.techm.kr/news/articleView.html?idxno=152535",
   "http://www.koreastocknews.com/news/articleView.html?idxno=119024",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=236275",
@@ -2999,10 +2998,10 @@
   "https://biz.heraldcorp.com/article/10808649",
   "http://www.newsworker.co.kr/news/articleView.html?idxno=436434",
   "http://www.inews24.com/view/1985526",
-  "http://www.fnnews.com/news/202607141809262072"
+  "http://www.fnnews.com/news/202607141809262072",
+  "https://www.hankyung.com/article/2026071450261"
  ],
  "seen_titles": [
-  "[SK바이오한지붕두가족㊦]비상장혈투…'외화내빈'최태원vs'실속성...",
   "[SK바이오한지붕두가족㊤]바이오팜웃고바이오사이언스울었다",
   "위풍당당리테일머니,빛과그림자",
   "\"AI가생존좌우\"…SK·삼성,'대전환'속도높인다",
@@ -6001,7 +6000,8 @@
   "“이천서보자”에술렁…메모리사SK하이닉스는왜파운드리인력수혈...",
   "충남도의회,교실·건설·바다까지...현장위기해법쏟아냈다",
   "최태원\"SK하이닉스,메모리제조넘어AI인프라기업으로\"",
-  "최태원\"美ADR상장,인재확보와새투자위한선택\""
+  "최태원\"美ADR상장,인재확보와새투자위한선택\"",
+  "'AI대중서'내놓은배경훈부총리"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,13 @@
   [
    "2026-07-14T18:10:25.418535+09:00",
    "메모리사 인력 수혈 SK하이닉스는 보자 술렁 이천서 파운드리"
+  ],
+  [
+   "2026-07-14T18:30:34.552387+09:00",
+   "내놓은 AI 대중서 배경훈 부총리"
   ]
  ],
- "last_run": "2026-07-14T18:20:39.642176+09:00",
+ "last_run": "2026-07-14T18:30:46.196771+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
