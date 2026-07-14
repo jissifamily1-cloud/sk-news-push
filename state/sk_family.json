@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=439892",
-  "https://www.mk.co.kr/article/12072787",
   "https://economist.co.kr/article/view/ecn202606120027",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1712272",
   "https://www.usmbc.co.kr/NewsArticle/845376",
@@ -2999,11 +2997,11 @@
   "https://news.tf.co.kr/read/national/2343319.htm",
   "https://www.hankookilbo.com/news/article/A2026071411200002764?did=NA",
   "https://www.sedaily.com/article/20067675",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307166&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1307166&inflow=N",
+  "https://www.kukinews.com/article/view/kuk202607140178",
+  "https://www.hankyung.com/article/2026071449391"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,\"전방위·전속력으로AI전환가속화\"...'2026New이천...",
-  "“조직DNA바꾸고끝장토론까지”…삼성·SK·LG,‘AX대전환’총력전",
   "[그래픽]삼성·SK·LG하반기경영전략회의일정",
   "[당선인에게듣는다]이순걸\"일자리넘치는울주건설\"",
   "삼성·SK·LG,‘AI비전’다시짠다…하반기경영전략돌입,“AX전환...",
@@ -6001,7 +5999,9 @@
   "김희영충남도의원\"노후인조잔디가학생건강위협\"…학교체육시설...",
   "[부고]이주용(한국예술종합학교미술원조형예술과명예교수)씨모친상...",
   "최태원“토큰비용낮출AI데이터센터지을것…美는R&D거점으로활용...",
-  "최태원“AI,사이클이아닌산업이진화하는과정”"
+  "최태원“AI,사이클이아닌산업이진화하는과정”",
+  "전남광주통합특별시의회,첫업무보고서현안집중점검",
+  "최태원\"AI는산업의진화과정…美파트너사와생태계만들것\""
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,13 @@
   [
    "2026-07-14T17:30:32.183224+09:00",
    "아닌 AI 과정 진화하는 사이클이 산업이"
+  ],
+  [
+   "2026-07-14T17:39:38.316141+09:00",
+   "진화 산업의 파트너사와 생태계 AI는 만들 과정"
   ]
  ],
- "last_run": "2026-07-14T17:30:45.715135+09:00",
+ "last_run": "2026-07-14T17:39:50.104416+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
