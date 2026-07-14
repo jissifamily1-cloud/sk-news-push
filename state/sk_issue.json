@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260709052935cWY",
   "https://www.newsis.com/view/NISX20260708_0003701363",
   "https://www.hani.co.kr/arti/society/society_general/1267398.html",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=265721",
@@ -2999,10 +2998,10 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=266583",
   "https://www.etoday.co.kr/news/view/2603811",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611098",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425018"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425018",
+  "https://www.sentv.co.kr/article/view/sentv202607150008"
  ],
  "seen_titles": [
-  "'장윤기사건'증거인멸수사팀장구속영장발부",
   "장윤기사건에흔들리는친족특례…국회선'폐지'법안발의",
   "윤석열첫상고심선고오늘생중계…‘체포방해·외신공보’등쟁점",
   "순방와중에도주가조작정조준...이재명대통령'3중그물'에'열일주...",
@@ -6001,10 +6000,16 @@
   "통합대한항공출범후마일리지별도운영가능성…미사용3조원육박",
   "‘채상병수사비밀누설’이시원前비서관오늘구속기로",
   "‘순직해병수사비밀누설’이시원전비서관구속기로",
-  "'3전4기'광명시흥…수도권주택가뭄해갈되나"
+  "'3전4기'광명시흥…수도권주택가뭄해갈되나",
+  "렌터카1위롯데렌탈,TPG새주인되나"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-15T08:31:14.702285+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-15T08:35:04.344953+09:00",
+   "렌터카 롯데렌탈 1위 되나 주인 TPG"
+  ]
+ ],
+ "last_run": "2026-07-15T08:35:13.822242+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6035,6 +6040,7 @@
   "nocutnews.co.kr": "노컷뉴스",
   "newscj.com": "천지일보",
   "kookje.co.kr": "국제신문",
-  "sateconomy.co.kr": "sateconomy.co.kr"
+  "sateconomy.co.kr": "sateconomy.co.kr",
+  "sentv.co.kr": "(주) 서울경제티브이"
  }
 }
