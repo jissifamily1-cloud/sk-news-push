@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260708500125",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123182",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=81538",
-  "https://www.ytn.co.kr/_ln/0103_202607081026176515",
-  "https://www.mt.co.kr/policy/2026/07/08/2026070809543428264",
-  "https://www.yna.co.kr/view/PYH20260708054900054?input=1196m",
-  "http://www.mdilbo.com/detail/c3QycN/756995",
-  "https://www.ytn.co.kr/_ln/0115_202607081021449740",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605103",
-  "https://www.dt.co.kr/article/12071758",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155031",
   "http://www.intn.co.kr/news/articleView.html?idxno=2051794",
   "https://www.mk.co.kr/article/12093104",
   "https://www.topstarnews.net/news/articleView.html?idxno=16127564",
@@ -2999,20 +2988,20 @@
   "https://www.kado.net/news/articleView.html?idxno=2061144",
   "https://www.newsis.com/view/NISX20260714_0003708356",
   "https://www.dailian.co.kr/news/view/1666876/?sc=Naver",
-  "https://www.news1.kr/politics/assembly/6227274"
+  "https://www.news1.kr/politics/assembly/6227274",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2448495",
+  "https://sateconomy.co.kr/news/view/1065576175643968",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260714.99099004026",
+  "https://www.ngonews.kr/news/articleView.html?idxno=232878",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3635266",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335759",
+  "http://www.inews24.com/view/1985314",
+  "https://www.khan.co.kr/article/202607141102001",
+  "https://www.hankyung.com/article/202607143804i",
+  "https://www.news1.kr/local/kangwon/6227410",
+  "https://www.news1.kr/local/busan-gyeongnam/6227422"
  ],
  "seen_titles": [
-  "30조→10조로확낮춘ESG공시…2028년법정의무화시동",
-  "연결자산10조이상코스피상장사ESG공시의무",
-  "2028년부터10조원이상코스피상장사ESG공시의무화…자본시장법개...",
-  "배재고,야구협회에징계재심신청결정...\"학생들미래달려\"",
-  "광주서눈물의사과,그후...배재고'6개월출전정지'재심청구",
-  "'장윤기사건'증거인멸혐의경찰관영장실질심사",
-  "검찰,장윤기부친자택서‘케이블타이’확보",
-  "장윤기사건'봐주기'의혹강력팀장구속심사...7명대기발령",
-  "[단독]“장윤기아버지경찰인거모르게”…케이블타이‘조직적은폐...",
-  "ESG공시머리맞댄당정…2년뒤부터10조이상상장사의무",
-  "ESG공시의무화속도낸다…정부,2028년부터대기업사업보고서반영...",
   "ESG공시제도화방안(최종안),공시실효성과책임성여전히미흡",
   "당정“연결자산10조이상코스피상장사,2028년부터ESG공시의무화...",
   "'탱크데이응원'배재고,'6개월출전정지'재심신청",
@@ -6001,7 +5990,18 @@
   "[속보]춘천서반려견52마리방치해굶겨죽인60대구속송치",
   "검찰,강원도청대변인실등4곳압수수색",
   "종합특검,심우정전검찰총장구속영장청구…\"내란중요임무종사·직...",
-  "與홍기원,'보완수사권일부존치'법안발의…\"국민피해막는안전장..."
+  "與홍기원,'보완수사권일부존치'법안발의…\"국민피해막는안전장...",
+  "환경산업기술원,그린워싱대응전략공유···ESG공시실무세미나개...",
+  "카카오영업익66%늘었지만주주몫은제자리",
+  "‘반도체슈퍼사이클’2분기이재용주식평가액28조증가…최태원10...",
+  "\"과징금만내면끝?\"…소비자단체\"생활필수품담합피해,소비자보상...",
+  "선관위국조특위,247만장재검표'이견'",
+  "스카이데일리출신한미일보대표,'김현지음모론'검찰송치",
+  "반려견50마리이상키우면서⋯먹이안주고질병걸리도록방치한60대...",
+  "검찰,강원도청정책실·투자유치과등5곳압수수색···민선8기일부...",
+  "종합특검,심우정전검찰총장구속영장청구…\"내란중요임무종사\"",
+  "검찰,강원도청대변인실·정책실등5곳압수수색",
+  "'태국마약밀수총책'전직프로야구선수징역10년"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "금융사 렌탈한도 생존 렌터카사 중소 반대 완화 렌터카협회 위협"
   ]
  ],
- "last_run": "2026-07-14T11:01:15.758881+09:00",
+ "last_run": "2026-07-14T11:11:09.043514+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
