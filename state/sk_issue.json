@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=207082",
-  "https://www.sisajournal.com/news/articleView.html?idxno=379119",
-  "https://news.bizwatch.co.kr/article/mobile/2026/07/08/0020",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715614",
   "https://www.fntimes.com/html/view.php?ud=2026070816315558672a735e27af_18",
   "http://www.fnnews.com/news/202607081636432385",
   "https://www.hani.co.kr/arti/economy/finance/1267295.html",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20260714_0003708987",
   "https://www.news1.kr/society/incident-accident/6227936",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=79909",
-  "https://www.bigtanews.co.kr/article/view/big202607140017"
+  "https://www.bigtanews.co.kr/article/view/big202607140017",
+  "https://www.apnews.kr/news/articleView.html?idxno=3049763",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000049921",
+  "https://www.yna.co.kr/view/AKR20260714142900704?input=1195m",
+  "https://www.nocutnews.co.kr/news/6548014"
  ],
  "seen_titles": [
-  "공정위,NXP·ADI'반도체유통사통제'제재착수",
-  "K게임업계\"구글인앱결제피해16조원…대형사집단조정동참해야\"",
-  "구글'프로젝트허그'저격한중소게임사들…\"대형사도책임다하라\"",
-  "[Gov&Now]공정위,'비메모리반도체'NXP·ADI공정거래법위반심의...",
   "매경TV압수수색보다더큰변화…금감원특사경'인지수사시대'열려",
   "금감원특사경,'선행매매혐의'매경TV압수수색",
   "방송전사들여내보낸뒤팔아치워…금감원특사경,매경TV압수수색",
@@ -6001,7 +5997,11 @@
   "자진출석피의자밖으로유인→긴급체포후서류위조…현직경찰재판...",
   "경찰,'수사동향유출의혹'박희영전용산구청장측근불송치",
   "작년하반기법정기한넘긴하도급대금비율,이랜드·대방건설순↑",
-  "이랜드,하도급대금'60일초과지급률'1위"
+  "이랜드,하도급대금'60일초과지급률'1위",
+  "[기자수첩]'사전공표'가지운공정…공정위,'침묵의무게'되찾을때...",
+  "'장윤기사건'지휘라인까지수사확대…서장까지정조준",
+  "[영상]쓰레기집에방치된개52마리…영양실조등으로3마리폐사",
+  "자백받고도강제수사는선거후?경찰'정무적판단'이키운혼란"
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
   ]
  ],
- "last_run": "2026-07-14T16:21:08.970689+09:00",
+ "last_run": "2026-07-14T16:31:11.503871+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
