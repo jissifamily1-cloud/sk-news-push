@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbizm.com/news/articleView.html?idxno=305058",
   "http://www.ikoreanspirit.com/news/articleView.html?idxno=85766",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=81931",
   "https://www.epnc.co.kr/news/articleView.html?idxno=402784",
@@ -2999,10 +2998,10 @@
   "https://www.segye.com/newsView/20260714518772?OutUrl=naver",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=307050",
   "https://www.bloter.net/news/articleView.html?idxno=668109",
-  "https://www.viva100.com/article/20260714500840"
+  "https://www.viva100.com/article/20260714500840",
+  "https://www.abcn.kr/news/articleView.html?idxno=89420"
  ],
  "seen_titles": [
-  "일진파워,AI데이터확산및반도체설비투자의구조적수혜기대",
   "일진파워,AI전력수요수혜…목표가2만2200원제시[리서치알음]",
   "\"일진파워,AI전력인프라슈퍼사이클수혜株\"[클릭e종목]",
   "한국은행'전남광주통합특별시'지역경제세미나연다",
@@ -6001,7 +6000,8 @@
   "최태원“AI토큰비용확낮추겠다”",
   "[지난밤뉴욕에선]SK하이닉스ADR,하루만에27%급등",
   "[허정수칼럼]호남반도체논란,삼성·SK가답할차례",
-  "누가더빨리짓나⋯글로벌반도체‘증설레이스’시작됐다"
+  "누가더빨리짓나⋯글로벌반도체‘증설레이스’시작됐다",
+  "[ABC뉴스칼럼]띄어쓰기하나가부른'사랑해'와SK하이닉스"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-07-15T06:30:34.818845+09:00",
    "레이스 증설 빨리 반도체 시작됐다 글로벌 누가 짓나"
+  ],
+  [
+   "2026-07-15T06:37:48.270458+09:00",
+   "SK하이닉스 띄어쓰기 하나가 사랑해 부른"
   ]
  ],
- "last_run": "2026-07-15T06:30:47.921277+09:00",
+ "last_run": "2026-07-15T06:38:01.779539+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6203,6 +6207,7 @@
   "newstopkorea.com": "뉴스톱",
   "iminju.net": "민주신문",
   "danbinews.com": "단비뉴스",
-  "straightnews.co.kr": "스트레이트뉴스"
+  "straightnews.co.kr": "스트레이트뉴스",
+  "abcn.kr": "ABC뉴스"
  }
 }
