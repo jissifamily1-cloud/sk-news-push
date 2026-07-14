@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12071917",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260708.99099002528",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1783497855&code=11131300&cp=nv",
-  "https://www.hani.co.kr/arti/area/honam/1267349.html",
-  "https://www.khan.co.kr/article/202607081839001",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=784272",
-  "https://www.busan.com/view/busan/view.php?code=2026070818321287190",
-  "https://www.busan.com/view/busan/view.php?code=2026070818313395366",
   "https://www.news1.kr/local/busan-gyeongnam/6222137",
   "https://www.hankyung.com/article/2026070835511",
   "https://www.tokenpost.kr/news/insights/375962",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20260714053752004?input=1195m",
   "http://www.newstomato.com/ReadNews.aspx?no=1307173&inflow=N",
   "http://www.newstomato.com/ReadNews.aspx?no=1307132&inflow=N",
-  "https://www.hankookilbo.com/news/article/A2026071416170001472?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026071416170001472?did=NA",
+  "https://www.hani.co.kr/arti/society/society_general/1268265.html",
+  "https://www.nocutnews.co.kr/news/6548150",
+  "https://www.busan.com/view/busan/view.php?code=2026071418052951168",
+  "https://www.hankyung.com/article/202607145181i",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335777",
+  "https://www.namdonews.com/news/articleView.html?idxno=916933",
+  "https://www.seoul.co.kr/news/sport/baseball/2026/07/14/20260714500252?wlog_tag3=naver",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1096130"
  ],
  "seen_titles": [
-  "ESG공시,2년후‘법정의무’정부급발진에대기업‘발칵’",
-  "[속보]배재고야구부징계풀리나…“이달말공정위서재심의”",
-  "배재고야구부재심청구…광주일고도“선처요청”",
-  "장윤기케이블타이부친집에서발견…은폐의혹경찰구속기로",
-  "경찰,현직경찰관장윤기아버지첫소환조사",
-  "[위클리오늘]금감원,매일경제TV압수수색첫강제수사",
-  "檢,장윤기범행도구확보경찰초동수사부실의혹확산",
-  "경찰은‘배달사고’검찰은‘뇌물수수’…檢,보완수사권여론전",
   "'테러자작극의혹'정이한전부산시장후보구속…유치장수감",
   "ESG공시,자산10조넘으면의무화…상장사부담더커졌다",
   "ESG,암호화폐투자새잣대될까…바이낸스아카데미,비트코인에너지...",
@@ -6001,7 +5993,15 @@
   "특검,심우정전검찰총장'내란중요임무'구속영장…16일심사(종합2보...",
   "'투표용지사태'첫청문회…247만장재검표추진놓고'충돌'",
   "장윤기사건'수사지휘부'소환·입건…부실수사속도",
-  "\"경찰서밖으로나오라\"더니느닷없이긴급체포…'수사조작'경찰관기..."
+  "\"경찰서밖으로나오라\"더니느닷없이긴급체포…'수사조작'경찰관기...",
+  "대한체육회공정위,20일배재고‘6개월출전정지’재심논의",
+  "'광주비하응원'배재고야구부,회생기회얻었다…체육회,20일공정...",
+  "대한체육회,'스타벅스응원'배재고야구부징계재심결정",
+  "'6개월출전정지'배재고야구부…20일대한체육회재심의열린다",
+  "[속보]배재고야구부징계철회될까…'6개월출전정지'재심결정",
+  "딱걸린전분당'가격담합'…먹거리물가인하'촉각'",
+  "‘6개월출전정지’배재고,감경될까…스포츠공정위20일재심의",
+  "이만희총회장구속놓고유럽종교학계·인권단체,초고령피고인구금..."
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
   ]
  ],
- "last_run": "2026-07-14T18:11:06.563052+09:00",
+ "last_run": "2026-07-14T18:21:07.974150+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
