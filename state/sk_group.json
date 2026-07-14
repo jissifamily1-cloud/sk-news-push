@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.getnews.co.kr/news/articleView.html?idxno=874940",
-  "http://www.inews24.com/view/1985060",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539438",
-  "https://www.ekn.kr/web/view.php?key=20260713026041933",
-  "https://www.segye.com/newsView/20260713517343?OutUrl=naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=1391022",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200057",
-  "https://www.nspna.com/news/?newsid=820385",
-  "https://www.pressman.kr/news/articleView.html?idxno=102735",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90240",
   "https://ditoday.com/%ec%9c%a0%eb%a1%80-%ec%97%86%eb%8a%94-%ea%b8%b0%ec%88%a0-%ec%a0%84%ed%99%98%ea%b8%b0-%ec%86%8d-%ed%98%81%ec%8b%a0%ea%b3%bc-%ea%b0%80%ec%b9%98-ict-award-korea-2026-%ec%88%98/",
   "https://edu.donga.com/news/articleView.html?idxno=109908",
   "https://www.news1.kr/it-science/general-it/6226533",
@@ -2999,19 +2989,19 @@
   "https://www.yeongnam.com/web/view.php?key=20260714021585933",
   "https://biz.chosun.com/stock/stock_general/2026/07/15/6PO72YY42FFQFI7AQAH4JK4URU/",
   "https://www.hankyung.com/article/2026071448811",
-  "http://www.fnnews.com/news/202607150402405889"
+  "http://www.fnnews.com/news/202607150402405889",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260715061838pjb",
+  "https://www.etoday.co.kr/news/view/2603762",
+  "http://www.beyondpost.co.kr/view.php?ud=2026071506050910852aaae0046f_30",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=759321",
+  "https://www.seoul.co.kr/news/economy/2026/07/15/20260715500008?wlog_tag3=naver",
+  "https://www.tokenpost.kr/news/economy/377857",
+  "https://www.ngetnews.com/news/articleView.html?idxno=551536",
+  "https://www.etoday.co.kr/news/view/2603650",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6837503_37012.html",
+  "https://www.news1.kr/it-science/cc-newmedia/6227959"
  ],
  "seen_titles": [
-  "호남반도체에제동건삼성노조…충청투자변수되나",
-  "반도체양대산맥주가폭락...SK하이닉스15.4%·삼성전자10.7%↓",
-  "ADR훈풍도못막은'검은월요일'⋯칠천피붕괴",
-  "SK하이닉스,나스닥상장기념랍스터·스테이크‘특식’…“다음역사...",
-  "AI가바꾼투자지도…1000조몰리는AIDC",
-  "與“‘3대메가프로젝트’성공위해국가역량총동원해야”",
-  "SK텔링크,한국도로공사에저궤도위성통신구축",
-  "[인사]하나은행,전병탁영도지점장승진등인사",
-  "[업앤다운]게임주하락…넥써쓰↑·썸에이지↓",
-  "HBM다음승부는월가…SK하이닉스가40조에담은전략",
   "[나이스증시전망]반도체주급락에완화된투자쏠림,시장평가는?",
   "유례없는기술전환기속혁신과가치...‘ICTAWARDKOREA2026’수상...",
   "두원공대,반도체부트캠프에AI융합교육과정도입",
@@ -6001,7 +5991,17 @@
   "[동대구로에서]정치가경제를통제할때",
   "“두배대박노렸는데”…단일종목레버리지ETF서개미돈8조8000억원...",
   "11조쓸어담았는데…'이제는못버텨'삼전닉스개미들결국",
-  "\"바닥은왔는데살돈이없다\"…27조빠진예탁금,코스피반등막나[증..."
+  "\"바닥은왔는데살돈이없다\"…27조빠진예탁금,코스피반등막나[증...",
+  "SK하이닉스ADR,저평가부각에27%급등",
+  "바클레이스,SK하이닉스ADR목표가330달러제시...주가27%급등[마켓...",
+  "SK하이닉스ADR프리미엄,사흘만에51%에달해...美옵션시장거래개시...",
+  "삼전닉스단일종목레버리지수익률'추풍낙엽'...예탁금상향조정등...",
+  "[서울데이터랩]미국증시,기술주·반도체강세에나스닥상승마감",
+  "[특징주]SK하이닉스,美ADR27%급등에강세…원주대비프리미엄51%...",
+  "몸집5배커졌는데...미래에셋운용점유율발목잡은'파생·채권'",
+  "“폭락다음날반등에속지마라”…7번중닷새내회복은단한번[...",
+  "미국물가상승률둔화‥\"인플레용납안해\"",
+  "\"성장한계뚫는다\"…통신3사,정체기돌파구로'B2G'낙점"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,33 @@
   [
    "2026-07-15T06:11:29.990669+09:00",
    "본사 방문해 논의 에쓰오일 김상욱 울산시장 투자 협력"
+  ],
+  [
+   "2026-07-15T06:21:15.230180+09:00",
+   "미국 나스닥 반도체 상승 증시 마감 강세에 기술주"
+  ],
+  [
+   "2026-07-15T06:21:15.230180+09:00",
+   "급등에 원주 ADR SK하이닉스 강세 프리미엄 대비"
+  ],
+  [
+   "2026-07-15T06:21:15.230180+09:00",
+   "커졌는데 파생 5배 몸집 채권 발목잡은 점유율 미래에셋운용"
+  ],
+  [
+   "2026-07-15T06:21:15.230180+09:00",
+   "7번 반등에 닷새 속지 다음 회복은 마라 폭락"
+  ],
+  [
+   "2026-07-15T06:21:15.230180+09:00",
+   "인플레 미국 용납 상승률 둔화 물가"
+  ],
+  [
+   "2026-07-15T06:21:15.230180+09:00",
+   "돌파구로 성장 정체기 한계 B2G 통신3사 낙점 뚫는다"
   ]
  ],
- "last_run": "2026-07-15T06:12:14.290798+09:00",
+ "last_run": "2026-07-15T06:21:34.230947+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
