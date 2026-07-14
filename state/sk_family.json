@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605120416&t=NNv",
-  "https://medicalworldnews.co.kr/news/view.php?idx=1510974629",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605110184&t=NNv",
   "https://www.ytn.co.kr/_ln/0104_202605100632506765",
   "https://www.beopbo.com/news/articleView.html?idxno=335366",
@@ -2999,11 +2997,11 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3634949",
   "https://zdnet.co.kr/view/?no=20260714002636",
   "https://www.goodkyung.com/news/articleView.html?idxno=289189",
-  "https://www.econovill.com/news/articleView.html?idxno=745105"
+  "https://www.econovill.com/news/articleView.html?idxno=745105",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=123298",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=269699"
  ],
  "seen_titles": [
-  "\"공장증설앞당긴다\"…스페이스X가찜한국내특수합금회사",
-  "\"평창땐'9할'밀라노땐'건너가는자'…마음잡으려읽고또읽어\"",
   "이니스프리,공병재활용'그린티씨드히알루론산세럼'출시",
   "[6.3지방선거]부산지역후보등록명단(광역의원)",
   "한일정상만난안동…삼엄한경비속차분한분위기",
@@ -6001,7 +5999,9 @@
   "종로구무계원,'인문의바다'시민강좌개최…참가자모집",
   "\"한국은AI시대혁신엔진...인텔도동참할것\"",
   "삼성·SK착시효과에가려진대기업총수주식자산의극단적양극화",
-  "SK하이닉스,황금알낳을수록부담…블룸버그\"모두가흔들고싶은돈나..."
+  "SK하이닉스,황금알낳을수록부담…블룸버그\"모두가흔들고싶은돈나...",
+  "대기업총수주식재산급증…국내증시활황영향",
+  "최태원첫'10조클럽'…이재용은석달새28조불렸다"
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "낳을수록 SK하이닉스 싶은 모두가 황금알 부담 돈나 블룸버그 흔들고"
   ]
  ],
- "last_run": "2026-07-14T09:10:38.108792+09:00",
+ "last_run": "2026-07-14T09:20:34.286622+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
