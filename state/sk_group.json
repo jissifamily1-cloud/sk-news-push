@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://kor.theasian.asia/archives/409617",
-  "https://biz.chosun.com/topics/topics_social/2026/07/13/BATRMMPRWRAHRIBFOOEAJZOUQM/",
-  "https://www.greened.kr/news/articleView.html?idxno=344874",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300100.html",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311679",
-  "https://www.etoday.co.kr/news/view/2603136",
   "https://www.newdaily.co.kr/site/data/html/2026/07/13/2026071300227.html",
   "https://biz.chosun.com/it-science/ict/2026/07/13/ENDU7TRW2RABFPMYDNJA7BHHA4/",
   "https://www.polinews.co.kr/news/articleView.html?idxno=736816",
@@ -2999,15 +2993,15 @@
   "https://www.tokenpost.kr/news/market/377672",
   "https://kjmbc.co.kr/NewsArticle/1527523",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1065397",
-  "https://www.khan.co.kr/article/202607142029015"
+  "https://www.khan.co.kr/article/202607142029015",
+  "https://www.nocutnews.co.kr/news/6548201",
+  "http://www.cctimes.kr/news/articleView.html?idxno=916713",
+  "http://www.cctimes.kr/news/articleView.html?idxno=916708",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442356",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=709151",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=709148"
  ],
  "seen_titles": [
-  "\"반복되는韓증시급락원인찾기\"…레버리지·피로도·시클리컬'삼중고...",
-  "[유노유농]빠르게성장중인강남SK대곡초팀\"농구에임하는자세가...",
-  "[B스포츠]부산아이파크2대0승리…선두굳히기",
-  "[오늘의신문읽기]반도체훈풍과금리압박…성장과불안이함께온다",
-  "[동네톡톡]800兆서남권반도체…인구9.5만명무안군에달렸다",
-  "점유율0.5%꼴찌코빗,미래에셋이1334억베팅한이유…STO·RWA가답이...",
   "호르무즈재봉쇄닥쳤지만…정유업계,수입선다변화로충격최소화",
   "코스피6900선붕괴에'삼전·하닉'레버리지14종전원신저가추락",
   "AI추론확산에…삼성전자·SK하이닉스,'CXL'주도권경쟁",
@@ -6001,7 +5995,13 @@
   "단일종목레버리지ETF,한국증시변동성요인분석",
   "광주·전남‘토지거래허가제’시행..무엇이바뀌나",
   "[사설]울산산업AX완성위해'지역별전기요금제'서둘러야",
-  "상반기수출ICT비중,첫50%돌파…반도체수요가견인"
+  "상반기수출ICT비중,첫50%돌파…반도체수요가견인",
+  "삼성전자\"ADR상장검토안한다\"…외신보도일축",
+  "SK하이닉스기후취약계층에5천만원기탁",
+  "이차전지전문가집결K-배터리미래조망",
+  "[7월15일자]비즈니스포스트아침의주요기사",
+  "[인터뷰]장정순용인특례시의회의장\"110만시민이체감하는의회만...",
+  "[인터뷰]이상일용인특례시장\"용인미래100년반도체메가클러스터,..."
  ],
  "recent_sigs": [
   [
@@ -7127,9 +7127,21 @@
   [
    "2026-07-14T20:41:12.535497+09:00",
    "비중 돌파 수출 상반기 반도체 ICT 수요가 견인"
+  ],
+  [
+   "2026-07-14T20:51:15.076677+09:00",
+   "비즈니스포스트 주요기사 아침의"
+  ],
+  [
+   "2026-07-14T20:51:15.076677+09:00",
+   "시민이 의회 체감하는 의장 110만 용인특례시의회 장정순"
+  ],
+  [
+   "2026-07-14T20:51:15.076677+09:00",
+   "100년 반도체 이상일 메가클러스터 용인특례시장 미래 용인"
   ]
  ],
- "last_run": "2026-07-14T20:41:23.656085+09:00",
+ "last_run": "2026-07-14T20:51:26.576294+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
