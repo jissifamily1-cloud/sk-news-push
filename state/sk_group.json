@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=740102",
-  "https://www.pressian.com/pages/articles/2026071314484020705",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260713145400Vid",
-  "https://www.slist.kr/news/articleView.html?idxno=751500",
-  "https://www.tokenpost.kr/news/market/377113",
   "https://www.ekn.kr/web/view.php?key=20260713024581889",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049606",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592230561717",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260714_0003708938",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269770",
   "https://www.danbinews.com/news/articleView.html?idxno=33302",
-  "http://www.gnmaeil.com/news/articleView.html?idxno=590717"
+  "http://www.gnmaeil.com/news/articleView.html?idxno=590717",
+  "https://www.kyosu.net/news/articleView.html?idxno=207645",
+  "https://www.mk.co.kr/article/12098644",
+  "https://n.news.naver.com/mnews/article/214/0001511652",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165821",
+  "https://www.kyeongin.com/article/1767340"
  ],
  "seen_titles": [
-  "단일종목레버리지일제히신저가…16종시가총액10조원도흔들",
-  "SK하이닉스ADR흥행에…美레버리지ETF잇단출격",
-  "코스피급락에증권가\"펀더멘털훼손아냐\"",
-  "[카드]교보증권,삼성전자·SK하이닉스기초자산ELB공모",
-  "법원\"국가핵심기술보호우선\"…삼성핵심반도체인력SK하이닉스이직...",
   "블룸버그칼럼\"황금알거위…모두가돈나무(SK하이닉스)흔들고싶어해...",
   "반도체피크아웃우려·지정학적리스크...코스피두달만에7000선붕괴",
   "SK하이닉스·삼성전자급락에반도체투자심리'흔들'",
@@ -6001,33 +5996,14 @@
   "인천'시세차익3억'루원시티8가구줍줍에2만명신청",
   "\"반년만에1년치농사끝났다…한국금융지주,2분기'어닝서프라이즈...",
   "K-뉴딜아카데미",
-  "\"민주당,국회법고쳐상임위다가져가라\""
+  "\"민주당,국회법고쳐상임위다가져가라\"",
+  "'지역반도체인재키운다'…동신대-목포대,공동연구·교육협력",
+  "드러누워서라도막았어야했단‘단일레버리지’...이제라도투자자보...",
+  "[뉴스하이킥]김상욱\"민주당당대표?계파·혈통따질때아냐‥'시민...",
+  "RetailInvestors'AccountsWipedOut,YetStockTransactionTaxReven",
+  "[사설]삼전노조호남반도체임단협에화들짝놀란노동부"
  ],
  "recent_sigs": [
-  [
-   "2026-07-14T14:11:14.567619+09:00",
-   "총수 주식 재산 껑충 활황에"
-  ],
-  [
-   "2026-07-14T14:11:14.567619+09:00",
-   "글로벌 포위드투 농구단 다문화 어머니 마더스"
-  ],
-  [
-   "2026-07-14T14:11:14.567619+09:00",
-   "지지선 코스피 매도가 레버리지 기계적 골드만 낙폭키워"
-  ],
-  [
-   "2026-07-14T14:11:14.567619+09:00",
-   "밑도는 완화 수출기업 당국 쏠림 환율 매도에 1490원 선물환"
-  ],
-  [
-   "2026-07-14T14:11:14.567619+09:00",
-   "거래대금 피크아웃 떠받치던 K증시 매매 촉각 개인 여부에"
-  ],
-  [
-   "2026-07-14T14:11:14.567619+09:00",
-   "영업이익 다시 국가임금위원회 성과급 설치 특별세 짜자"
-  ],
   [
    "2026-07-14T14:21:13.619769+09:00",
    "누리던 장세서 수혜 공모주도 변동성 추풍낙엽 유동성"
@@ -7227,9 +7203,25 @@
   [
    "2026-07-14T20:11:10.836057+09:00",
    "가져가라 상임위 고쳐 민주당 국회법"
+  ],
+  [
+   "2026-07-14T20:21:11.655714+09:00",
+   "막았어야 단일 이제라도 레버리지 했단 투자자 드러누워서라도"
+  ],
+  [
+   "2026-07-14T20:21:11.655714+09:00",
+   "시민 당대표 계파 따질 김상욱 혈통 아냐 민주당"
+  ],
+  [
+   "2026-07-14T20:21:11.655714+09:00",
+   "Revenue Yet Stock Investors Retail Out Accounts Tax Wiped Transaction"
+  ],
+  [
+   "2026-07-14T20:21:11.655714+09:00",
+   "노동부 호남반도체 임단협에 화들짝 놀란 삼전노조"
   ]
  ],
- "last_run": "2026-07-14T20:11:27.741910+09:00",
+ "last_run": "2026-07-14T20:21:25.962669+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
