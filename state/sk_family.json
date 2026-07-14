@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202606184882b",
-  "https://zdnet.co.kr/view/?no=20260618154946",
-  "https://www.news1.kr/industry/general-industry/6201554",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164166",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/18/2026061890194.html",
   "https://www.chosun.com/economy/industry-company/2026/06/18/IHP2XGEMMREBXCJTIUU6KEGQ4Q/",
@@ -2999,12 +2996,12 @@
   "https://www.mydaily.co.kr/page/view/2026071414020581329",
   "https://www.dt.co.kr/article/12072833",
   "https://www.newscj.com/news/articleView.html?idxno=3416877",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040768"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040768",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716306",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490232.html",
+  "https://www.hankyung.com/article/2026071442076"
  ],
  "seen_titles": [
-  "최태원회장,\"큰나무가숲을이룬다\"…AI시대인재생태계확장",
-  "한국고등교육재단,신진학자상신설",
-  "“AI시대달라진인재상…협력땐더큰변화”",
   "최태원\"큰나무모여숲이루길\"…차세대AI지식생태계키운다",
   "최태원\"AI시대인재기준달라져…협력할때더큰변화만들어\"",
   "최태원SK그룹회장\"AI시대인재,혼자보다함께푸는힘중요\"",
@@ -6001,7 +5998,10 @@
   "최태원회장\"AI경쟁력은비용혁신\"…데이터센터투자확대",
   "SK최태원“AI데이터센터집중…토큰생산비용낮출것”",
   "최태원\"AI비용너무높아…새로운AI데이터센터집중\"",
-  "[숫자로본뉴스]주식활황에총수재산껑충"
+  "[숫자로본뉴스]주식활황에총수재산껑충",
+  "최태원회장\"AI토큰비용낮추겠다…데이터센터구축집중\"",
+  "최태원\"AI비용부담커…저비용고효율데이터센터만들것\"",
+  "\"새로운인재찾을것\"…최태원,美상장이유직접밝혔다[강경주의테..."
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,13 @@
   [
    "2026-07-14T14:10:24.605875+09:00",
    "총수 껑충 재산 주식 활황에"
+  ],
+  [
+   "2026-07-14T14:20:25.839212+09:00",
+   "인재 강경주의 찾을 밝혔다 상장 직접 이유 새로운"
   ]
  ],
- "last_run": "2026-07-14T14:10:39.678204+09:00",
+ "last_run": "2026-07-14T14:20:41.514187+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
