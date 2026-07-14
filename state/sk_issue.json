@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715508",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605081",
-  "https://www.gokorea.kr/news/articleView.html?idxno=871508",
-  "https://www.slist.kr/news/articleView.html?idxno=750346",
-  "https://www.gokorea.kr/news/articleView.html?idxno=871504",
-  "https://www.hankyung.com/article/202607081997H",
-  "http://www.joseilbo.com/news/news_read.php?uid=571485&class=18",
-  "http://www.metroseoul.co.kr/article/20260708500106",
-  "https://www.electimes.com/news/articleView.html?idxno=370032",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03250486645512552",
-  "https://www.newspim.com/news/view/20260708000331",
   "https://www.joongang.co.kr/article/25443330",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423902",
   "https://www.mt.co.kr/stock/2026/07/08/2026070809221198097",
@@ -2999,20 +2988,20 @@
   "https://www.hidomin.com/news/articleView.html?idxno=713154",
   "https://www.kado.net/news/articleView.html?idxno=2061134",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490130.html",
-  "https://www.news1.kr/industry/auto-industry/6227249"
+  "https://www.news1.kr/industry/auto-industry/6227249",
+  "https://www.kpanews.co.kr/news/articleView.html?idxno=538518",
+  "http://www.joseilbo.com/news/news_read.php?uid=571849&class=32",
+  "http://www.fnnews.com/news/202607130948355886",
+  "https://www.joongangenews.com/news/articleView.html?idxno=532648",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=588999",
+  "https://www.nocutnews.co.kr/news/6547674",
+  "https://www.yna.co.kr/view/AKR20260714058651062?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610066",
+  "https://www.ikbc.co.kr/article/view/kbc202607140022",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260714102056PlG",
+  "https://www.ytn.co.kr/_ln/0115_202607141018151063"
  ],
  "seen_titles": [
-  "주가조작합동대응단1주년…\"주가조작무관용,AI·통신조회로대응\"",
-  "야구인기노린‘매크로암표’…35명무더기검거",
-  "검찰,'장윤기사건'증거인멸의혹포착...경찰내부수사본격화",
-  "'장윤기사건'케이블타이조직적인멸정황…경찰이발견하고도확보...",
-  "정치자금법위반혐의…애국현수막단체대표구속영장기각,논란가...",
-  "경찰증거인멸,이번뿐일까…'장윤기사건'대담한은폐에불안감가중",
-  "ESG공시,더는선택아니다…정부“2028년부터사업보고서에넣어야”",
-  "당정\"2028년연결자산10조이상상장사ESG공시의무화\"",
-  "ESG공시로드맵확정…10조이상코스피상장사부터법정공시",
-  "당정,2028년부터ESG공시의무단계적확대…연내자본시장법개정",
-  "[종합]與,재계우려에도ESG공시법정공시전환확정...2028년107사대...",
   "[속보]배재고,야구부‘6개월출전정지’재심청구결정",
   "주가조작합동대응단출범1년…당국,통신조회·원금몰수확대추진",
   "합동대응단,1년만에'주가조작'10여건적발…10억과징금사례도",
@@ -6001,7 +5990,18 @@
   "특검,심우정전검찰총장구속영장청구…내란가담의혹정조준",
   "수원지검여주지청,강원도청대변인실등4곳압수수색",
   "[속보]검찰,강원도청투자유치과등3~4곳압수수색",
-  "렌터카협회,금융사렌탈한도완화'반대'…\"중소렌터카사생존위협\""
+  "렌터카협회,금융사렌탈한도완화'반대'…\"중소렌터카사생존위협\"",
+  "'대웅거점도매'공정위판단없이종결…갈등새국면맞나",
+  "[속보]검찰,강원도청투자유치과등5곳압수수색",
+  "\"형님,내일체포하러갑니다\"…수사무력화하는'검은공생'실태[기로...",
+  "특검,심우정전총장구속영장청구…'내란가담·직권남용'혐의정조...",
+  "특검,심우정전검찰총장구속영장청구…'내란가담'혐의",
+  "검찰,강원도청압수수색…도관계자\"전임도정업무관련\"",
+  "[2보]검찰,강원도청정책실·투자유치과등5곳압수수색",
+  "[전격시사]김정철개혁신당최고위원-“선거전입건사실몰라,(정...",
+  "[속보]특검,심우정전검찰총장구속영장청구…\"내란중요임무·직권...",
+  "[속보]검찰,강원도청정책실·투자유치과등압수수색",
+  "[속보]검찰,강원특별자치도투자유치과등부서3~4곳압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "금융사 렌탈한도 생존 렌터카사 중소 반대 완화 렌터카협회 위협"
   ]
  ],
- "last_run": "2026-07-14T10:21:08.553281+09:00",
+ "last_run": "2026-07-14T10:31:30.276104+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
