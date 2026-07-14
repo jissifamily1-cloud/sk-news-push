@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260623514978?OutUrl=naver",
-  "https://www.econovill.com/news/articleView.html?idxno=743214",
-  "https://www.newscj.com/news/articleView.html?idxno=3411531",
-  "https://www.g-enews.com/view.php?ud=202606231003238094112616b072_1",
-  "https://www.hankyung.com/article/2026062336031",
   "https://www.yna.co.kr/view/AKR20260618145900504?input=1195m",
   "https://view.asiae.co.kr/article/2026061818135482901",
   "http://www.yonhapnewstv.co.kr/news/AKR202606181800494MF",
@@ -2999,14 +2994,14 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205824",
   "https://www.mk.co.kr/article/12098076",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490212.html",
-  "https://www.newsway.co.kr/news/view?ud=2026071410372635066"
+  "https://www.newsway.co.kr/news/view?ud=2026071410372635066",
+  "https://www.news1.kr/life-culture/press/6227647",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1096077",
+  "https://magazine.hankyung.com/business/article/202607144177b",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311837",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34420"
  ],
  "seen_titles": [
-  "경기도의회,제11대의정활동마침표…“도민위한책임감으로4년달려...",
-  "경기도의회제11대의정활동마침표…24일'의원퇴임식'개최",
-  "김진경의장“상생과협치의4년”…11대경기도의회마침표",
-  "[ㄱㄱㄷ의정Pick]경기도의회제11대의정활동마무리",
-  "SK한국고등교육재단'신진학자상'신설…\"사회문제새접근법제시할...",
   "경기도의회제11대의회,4년의정마무리...의원퇴임식개최",
   "김진경의장\"도민책임잊지않겠다\"...경기도의회제11대의정활동마...",
   "제11대경기도의회의정활동마무리…의원퇴임식개최",
@@ -6001,13 +5996,14 @@
   "SK하이닉스170만원까지…나스닥상장흥행'대박'이었는데,왜?[프레...",
   "로베코“정부전략산업된소버린AI가수요뒷받침…메모리사이클은연...",
   "[티조Q&A]축포사흘만에양쪽다무너졌다…SK하이닉스에무슨일이?",
-  "\"메모리생산두배로도부족\"…최태원이본AI반도체미래"
+  "\"메모리생산두배로도부족\"…최태원이본AI반도체미래",
+  "[부고]최지성씨(FETV경제부기자)조모상",
+  "워커힐호텔앤리조트,개관63년역사축적한'워커힐스토리라운지'비...",
+  "최태원\"AI비용부담,기술과ADR로넘는다\"",
+  "SK하이닉스호남팹자금줄넓어지나···증손회사규제완화추진",
+  "DDP에AI'웰니스로봇'뜬다…공기관리에건강체크까지"
  ],
  "recent_sigs": [
-  [
-   "2026-07-14T07:38:50.672480+09:00",
-   ""
-  ],
   [
    "2026-07-14T08:00:36.483871+09:00",
    "기관들 고점론에 미국 실적 모멘텀 않았다 반도체 주요 꺾이지"
@@ -6115,9 +6111,17 @@
   [
    "2026-07-14T13:30:32.591420+09:00",
    "반도체 최태원이 AI 미래 부족 배로도 생산 메모리"
+  ],
+  [
+   "2026-07-14T13:40:23.877197+09:00",
+   "자금줄 규제 넓어지나 호남팹 증손회사 SK하이닉스 완화"
+  ],
+  [
+   "2026-07-14T13:40:23.877197+09:00",
+   "건강체크까지 DDP에 공기관리에 뜬다 AI 로봇 웰니스"
   ]
  ],
- "last_run": "2026-07-14T13:30:52.460227+09:00",
+ "last_run": "2026-07-14T13:40:41.935297+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
