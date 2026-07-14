@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605110184&t=NNv",
-  "https://www.ytn.co.kr/_ln/0104_202605100632506765",
-  "https://www.beopbo.com/news/articleView.html?idxno=335366",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202605080498&t=NNv",
-  "https://sports.khan.co.kr/article/202605071914003?pt=nv",
-  "https://www.hankyung.com/article/202605068348i",
   "https://www.hankyung.com/article/2026050562451",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553189499",
   "https://www.ggilbo.com/news/articleView.html?idxno=1155957",
@@ -2999,15 +2993,15 @@
   "https://www.goodkyung.com/news/articleView.html?idxno=289189",
   "https://www.econovill.com/news/articleView.html?idxno=745105",
   "http://www.newscape.co.kr/news/articleView.html?idxno=123298",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269699"
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=269699",
+  "http://www.breaknews.com/1221436",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/511476",
+  "https://www.chosun.com/economy/industry-company/2026/07/14/BQI3WHTTHNHHXCLRAOY7VQLRVI/",
+  "http://www.metroseoul.co.kr/article/20260714500104",
+  "https://www.sedaily.com/article/20067369",
+  "https://www.newscj.com/news/articleView.html?idxno=3416785"
  ],
  "seen_titles": [
-  "이니스프리,공병재활용'그린티씨드히알루론산세럼'출시",
-  "[6.3지방선거]부산지역후보등록명단(광역의원)",
-  "한일정상만난안동…삼엄한경비속차분한분위기",
-  "[피부과시술제대로알기]어깨필러,단순볼륨보다체형맞춤디자인...",
-  "부산제9회전국동시지방선거후보자(광역·시·구·군의원)",
-  "[6·3지선]후보등록명단-부산광역의원비례대표",
   "[기초비례후보명단]경기",
   "[광역비례후보명단]부산",
   "\"홈플러스정상화지방선거전에해결하라!\"마트노조부산본부,정부개...",
@@ -6001,7 +5995,13 @@
   "삼성·SK착시효과에가려진대기업총수주식자산의극단적양극화",
   "SK하이닉스,황금알낳을수록부담…블룸버그\"모두가흔들고싶은돈나...",
   "대기업총수주식재산급증…국내증시활황영향",
-  "최태원첫'10조클럽'…이재용은석달새28조불렸다"
+  "최태원첫'10조클럽'…이재용은석달새28조불렸다",
+  "최태원은‘네트워크형·융합형·확장형’중심의해납백천(海納百川)형...",
+  "김성령,주5회운동비결\"키타고났지만,나머진노력으로가능\"(라스...",
+  "올2분기총수주식재산29조증가?...이재용·최태원빼면6조줄었다",
+  "[특징주]SK하이닉스,이틀째약세…美ADR도9%급락",
+  "이재용,주식재산석달새28조증가…최태원,첫10조돌파",
+  "[국회라이브]양향자\"완공시점도없이800조…산업성적표는첫웨이..."
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-07-14T09:10:23.387327+09:00",
    "낳을수록 SK하이닉스 싶은 모두가 황금알 부담 돈나 블룸버그 흔들고"
+  ],
+  [
+   "2026-07-14T09:30:35.530262+09:00",
+   "산업 없이 양향자 완공 웨이 성적표는 시점도 800조"
   ]
  ],
- "last_run": "2026-07-14T09:20:34.286622+09:00",
+ "last_run": "2026-07-14T09:30:51.111309+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
