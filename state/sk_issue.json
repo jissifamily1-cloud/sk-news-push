@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249869&CMPT_CD=P0010",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260708191927in8",
-  "https://www.imaeil.com/page/view/2026070819101664007",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204684",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204695",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538629",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204681",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538631",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605533",
   "http://www.yonhapnewstv.co.kr/news/MYH20260708192401sb3",
   "https://www.yna.co.kr/view/AKR20260708175900004?input=1195m",
   "https://www.namdonews.com/news/articleView.html?idxno=916372",
@@ -2999,18 +2990,18 @@
   "https://www.news2day.co.kr/article/20260714500273",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251394&CMPT_CD=P0010",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610475",
-  "https://www.namdonews.com/news/articleView.html?idxno=916989"
+  "https://www.namdonews.com/news/articleView.html?idxno=916989",
+  "https://www.vogue.co.kr/2026/07/14/%ec%97%ac%eb%a6%84%ec%97%90%eb%8f%84-%ea%bc%ad-%ec%9e%88%ec%96%b4%ec%95%bc-%ed%95%98%ec%a3%a0-%ec%b2%ad%eb%b0%94%ec%a7%80%ec%99%80-%ec%8a%a4%ec%bb%a4%ed%8a%b8-%ec%96%b4%eb%94%94%eb%93%a0-%ec%96%b4/",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=315067",
+  "https://www.newspim.com/news/view/20260714001175",
+  "https://www.ngonews.kr/news/articleView.html?idxno=232937",
+  "https://www.segye.com/newsView/20260714519152?OutUrl=naver",
+  "https://www.vegannews.co.kr/news/article.html?no=384041",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5081",
+  "https://www.hani.co.kr/arti/area/gangwon/1268275.html",
+  "https://www.cctoday.co.kr/news/articleView.html?idxno=2233267"
  ],
  "seen_titles": [
-  "정이한결국구속,바로영장발부한부산지법",
-  "배재고,재심신청…봉황대기출전가능할까",
-  "'장윤기사건'수사팀장\"케이블타이그대로둬라\"지시정황포착",
-  "[뉴스추적]장윤기사건에'보완수사사수'검·경샅바싸움",
-  "\"케이블타이그대로둬라\"…장윤기수사팀장지시정황첫확인",
-  "[단독]차량수색전…장윤기아버지에“블랙박스보러간다”",
-  "검찰,사라진'케이블타이'장윤기부친집에서찾았다",
-  "[시티라이브]“경찰이살인자편”…장윤기부친집서‘케이블타이’",
-  "‘피습자작극혐의’정이한구속",
   "[단독]'가습기살균제'성분검출필터…반년지나서야공지?",
   "경찰,'이언주합성음란물'게시한기업인압수수색",
   "장윤기父자택서나온케이블타이'스모킹건'되나",
@@ -6001,7 +5992,16 @@
   "쿠팡손들어준법원…김범석총수동일인지정‘효력정지’",
   "밀가루담합사건법정에서나온'갑'들의통화\"공짜로먹는XX들은...\"",
   "법원“쿠팡총수김범석지정효력정지”",
-  "검경,장윤기수사주도권싸움'후끈'"
+  "검경,장윤기수사주도권싸움'후끈'",
+  "여름에도꼭있어야하죠,청바지와스커트어디든어울리는일본로퍼...",
+  "공정위,김범석쿠팡총수지정...법원'처분효력정지'",
+  "'6개월출전정지징계'배재고,감경될까...스포츠공정위20일재심의",
+  "\"계약서대로일했을뿐인데집단계약해지\"…택배노조,쿠팡CLS·하하물...",
+  "하도급대금1400억늑장지급…이랜드·대방건설등60일넘겨",
+  "수술비할인대가숨긴후기광고…성형외과3곳시정명령",
+  "[인사이트뉴스]쿠팡사태,이제는출구전략이필요하다…'호통'보다법...",
+  "검찰강원도청사무실5곳압수수색…강원도“민선8기관련”",
+  "경찰비위단속만으론부족…내·외부통제강화·수사적법성확보해야"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
   ]
  ],
- "last_run": "2026-07-14T18:41:09.212080+09:00",
+ "last_run": "2026-07-14T18:51:10.912906+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
