@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026050562451",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553189499",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1155957",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1155956",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1155955",
   "https://www.ggilbo.com/news/articleView.html?idxno=1155954",
   "https://www.ggilbo.com/news/articleView.html?idxno=1155953",
   "https://www.ggilbo.com/news/articleView.html?idxno=1155952",
@@ -2999,14 +2994,14 @@
   "https://www.chosun.com/economy/industry-company/2026/07/14/BQI3WHTTHNHHXCLRAOY7VQLRVI/",
   "http://www.metroseoul.co.kr/article/20260714500104",
   "https://www.sedaily.com/article/20067369",
-  "https://www.newscj.com/news/articleView.html?idxno=3416785"
+  "https://www.newscj.com/news/articleView.html?idxno=3416785",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=83276",
+  "https://www.ajunews.com/view/20260714092751807",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040566",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=237480",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03171766645514520"
  ],
  "seen_titles": [
-  "[기초비례후보명단]경기",
-  "[광역비례후보명단]부산",
-  "\"홈플러스정상화지방선거전에해결하라!\"마트노조부산본부,정부개...",
-  "\"홈플러스37개점영업중단,정부가나서라\"",
-  "홈플러스부산공대위,\"홈플러스정상화지방선거전에해결하라\"",
   "최태원·젠슨황,밴플리트‘깐부인연’…AI동맹‘민간외교’로...",
   "[6·3지선광역·기초의원대진표]의정부광역4곳,기초4곳'격돌'",
   "민주노총부산본부,6.3지방선거요구및지지후보발표",
@@ -6001,7 +5996,12 @@
   "올2분기총수주식재산29조증가?...이재용·최태원빼면6조줄었다",
   "[특징주]SK하이닉스,이틀째약세…美ADR도9%급락",
   "이재용,주식재산석달새28조증가…최태원,첫10조돌파",
-  "[국회라이브]양향자\"완공시점도없이800조…산업성적표는첫웨이..."
+  "[국회라이브]양향자\"완공시점도없이800조…산업성적표는첫웨이...",
+  "최태원,주식재산'10조클럽'첫가입…이재용,석달만에28조원늘...",
+  "2분기총수들주식재산29조늘었지만…이재용·최태원만웃었다",
+  "이재용59조·최태원첫10조…2분기총수주식지형재편",
+  "이재용주식평가액28조늘어59조…최태원첫'10조클럽'입성",
+  "테크윙,2분기호실적에16%급등[특징주]"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-07-14T09:30:35.530262+09:00",
    "산업 없이 양향자 완공 웨이 성적표는 시점도 800조"
+  ],
+  [
+   "2026-07-14T09:40:23.525330+09:00",
+   "호실적에 2분기 테크윙 급등"
   ]
  ],
- "last_run": "2026-07-14T09:30:51.111309+09:00",
+ "last_run": "2026-07-14T09:40:38.661362+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
