@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pennmike.com/news/articleView.html?idxno=123341",
-  "https://www.hankyung.com/article/2026070823077",
-  "https://www.munhwa.com/article/11601106",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79789",
-  "https://www.busan.com/view/busan/view.php?code=2026070810550750178",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244034",
-  "https://www.dailian.co.kr/news/view/1664710/?sc=Naver",
-  "https://www.hankyung.com/article/2026070824057",
   "https://www.mydaily.co.kr/page/view/2026070810250037404",
   "http://www.joseilbo.com/news/news_read.php?uid=571496&class=32",
   "https://www.yna.co.kr/view/AKR20260708075400054?input=1195m",
@@ -2999,17 +2991,17 @@
   "https://www.sisajournal.com/news/articleView.html?idxno=379761",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030108100&code=61121211&cp=nv",
   "https://www.news1.kr/society/court-prosecution/6227490",
-  "https://www.yna.co.kr/view/PYH20260714069700062?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260714069700062?input=1196m",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379770",
+  "https://www.bloter.net/news/articleView.html?idxno=668052",
+  "https://www.hankookilbo.com/news/article/A2026071411170005540?did=NA",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/14/2026071400128.html",
+  "https://biz.sbs.co.kr/article_hub/20000322404?division=NAVER",
+  "https://www.yna.co.kr/view/AKR20260714081800001?input=1195m",
+  "https://www.newspim.com/news/view/20260714000468",
+  "https://www.newsis.com/view/NISX20260714_0003708437"
  ],
  "seen_titles": [
-  "[양준서의정조준]민주당은유구무언...검찰보완수사권이장윤기사건...",
-  "장윤기차량에서사라진케이블타이…경찰부친집에서발견",
-  "분실케이블타이검찰이장윤기父집서찾았다",
-  "금융위,통신자료요청권신설·AI도입해시장감시체계고도화",
-  "코스피10조이상상장사,내후년부터ESG공시의무화",
-  "전분당담합4곳과징금7476억원…역대'최대'",
-  "합수본,이만희최측근참고인소환…신천지연루정관계로비의혹추...",
-  "의혹인정여부묻자…'장윤기증거인멸'의혹강력팀장묵묵부답",
   "\"방시혁사기적부정거래입증어렵다\"…檢,경찰에혐의변경제안[MD...",
   "'보완수사권'논란재점화...경찰직협\"장윤기사건사죄,사법개혁못...",
   "장윤기차량서사라진케이블타이,아버지집에서발견",
@@ -6001,7 +5993,15 @@
   "종합특검,'내란가담의혹'심우정전검찰총장구속영장청구",
   "아파트에반려견수십마리방치질병·폐사…60대구속송치",
   "\"형소법개정안시행시공수처검사수사위법소지…공수처법개정필...",
-  "강원도청압수수색나선검찰"
+  "강원도청압수수색나선검찰",
+  "2분기이재용주식가치28조↑…최태원'10조클럽'입성",
+  "'멜론중도해지미공지'카카오과징금취소판결확정",
+  "전정무직인사채용비리?...검찰,강원도청전격압수수색",
+  "증거인멸한장윤기父처벌어렵다?…헌법학자들\"직위와제도를이...",
+  "검찰,강원도청압수수색…\"뇌물관련언급나와…민선9기와무관\"",
+  "선관위국조'재검표시기'공방…與\"즉각\"·국힘\"특검우선\"",
+  "공수처\"형소법개정시공수처수사위법다툼소지…별도규정필요\"",
+  "공수처,형소법개정에\"강제수사근거공백우려…보완입법필요\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "금융사 렌탈한도 생존 렌터카사 중소 반대 완화 렌터카협회 위협"
   ]
  ],
- "last_run": "2026-07-14T11:31:11.704218+09:00",
+ "last_run": "2026-07-14T11:41:05.848062+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
