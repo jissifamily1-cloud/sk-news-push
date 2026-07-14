@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongboo.com/news/articleView.html?idxno=363729735",
-  "https://www.newsis.com/view/NISX20260625_0003683415",
   "https://www.kyeonggi.com/article/20260625580167",
   "http://www.fnnews.com/news/202606250844210028",
   "https://www.sportsseoul.com/news/read/1618717",
@@ -2999,11 +2997,11 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=442270",
   "http://www.newsbrite.net/news/articleView.html?idxno=199255",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46246",
-  "https://www.mk.co.kr/article/12098021"
+  "https://www.mk.co.kr/article/12098021",
+  "https://www.chosun.com/economy/industry-company/2026/07/14/EN6W534OQNDQTCIRJT7BKEM4WM/",
+  "https://www.segye.com/newsView/20260714510362?OutUrl=naver"
  ],
  "seen_titles": [
-  "[패트롤]경기도-경기도의회-경기신용보증재단-경기주택도시공사",
-  "최종현경기도의회민주당대표의원퇴임…2년의정성과정리",
   "최종현경기도의회민주당대표의원퇴임…2년의정마무리",
   "경기도의회더불어민주당최종현대표의원퇴임기자회견문",
   "경기도의회민주당최종현대표의원퇴임…\"실천의2년이었다\"",
@@ -6001,7 +5999,9 @@
   "올해2분기총수지분가치이재용28조증가,최태원10조돌파",
   "증시훈풍에이재용주식재산28조증가...최태원첫'10조클럽'입성",
   "흥국자산운용주주서한철회…\"SK하이닉스가답했어야\"",
-  "최태원“사이클아닌산업의진화”...AI투자5년이승부수"
+  "최태원“사이클아닌산업의진화”...AI투자5년이승부수",
+  "‘SKHY’가뭐길래?쾌거뒤논란만부른회장님의SNS",
+  "총수주식도‘부익부빈익빈’…총수28명주식재산은감소"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-07-14T11:20:25.302938+09:00",
    "사이클 5년이 산업의 AI 아닌 진화 투자 승부수"
+  ],
+  [
+   "2026-07-14T11:30:31.956328+09:00",
+   "총수 감소 빈익빈 주식재산은 부익부 주식도 28명"
   ]
  ],
- "last_run": "2026-07-14T11:20:37.384092+09:00",
+ "last_run": "2026-07-14T11:30:43.387777+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
