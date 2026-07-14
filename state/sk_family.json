@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itbiznews.com/news/articleView.html?idxno=215589",
-  "https://www.electimes.com/news/articleView.html?idxno=368864",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=58714",
   "https://www.ytn.co.kr/_ln/0115_202606070119063724",
   "https://www.g-enews.com/view.php?ud=202606041322251519c35228d2f5_1",
   "http://www.knnews.co.kr/news/articleView.php?idxno=1543081",
@@ -2999,12 +2996,12 @@
   "https://www.abcn.kr/news/articleView.html?idxno=89420",
   "http://www.yonhapnewstv.co.kr/news/MYH20260715064139JT9",
   "https://www.greened.kr/news/articleView.html?idxno=345080",
-  "https://www.sisain.co.kr/news/articleView.html?idxno=58152"
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58152",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607131602122200102043",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607130907381760104267",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250996&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "포항지역봉사단체늘푸른마음회,후원한마당행사열어",
-  "울주군해뜨미씨름단김무호시즌4관왕",
-  "한국은행광주전남본부,목포본부와세미나개최",
   "울산울주군해뜨미씨름단김무호,보은단오장사씨름대회한라장사등극",
   "모래판지배한김무호보은서커리어그랜드슬램달성",
   "씨름김무호,4대민속메이저대회커리어'그랜드슬램'",
@@ -6001,7 +5998,10 @@
   "[ABC뉴스칼럼]띄어쓰기하나가부른'사랑해'와SK하이닉스",
   "'통행료대신美에투자'…트럼프하루만에번복",
   "최태원\"메모리반도체이어AI·에너지분야투자확대\"...\"1000조원투입...",
-  "‘역사적보상’이냐‘관치개입’이냐···호남반도체산단의진짜..."
+  "‘역사적보상’이냐‘관치개입’이냐···호남반도체산단의진짜...",
+  "[더벨]키옥시아발빼는도시바,SK하이닉스'최대주주'될까",
+  "[더벨][SK텔레콤AI유니버스]왕의귀환이뤄질까,SK하이닉스와'투톱...",
+  "청년미래위해'반도체추가세수'쓰자?해야할게하나더있다"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,21 @@
   [
    "2026-07-15T06:50:25.900867+09:00",
    "분야 투입 에너지 1000조원 이어 확대 투자 메모리 AI 반도체"
+  ],
+  [
+   "2026-07-15T07:10:25.881398+09:00",
+   "SK하이닉스 키옥시아 도시바 최대주주 빼는 될까"
+  ],
+  [
+   "2026-07-15T07:10:25.881398+09:00",
+   "SK하이닉스와 이뤄질까 투톱 귀환 왕의"
+  ],
+  [
+   "2026-07-15T07:10:25.881398+09:00",
+   "있다 쓰자 청년 미래 해야 추가세수 반도체 하나"
   ]
  ],
- "last_run": "2026-07-15T07:00:47.840332+09:00",
+ "last_run": "2026-07-15T07:10:45.660499+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
