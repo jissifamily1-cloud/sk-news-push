@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000048698",
-  "http://www.breaknews.com/1220317",
-  "https://www.mt.co.kr/economy/2026/07/08/2026070817465481917",
-  "https://www.hani.co.kr/arti/politics/politics_general/1267335.html",
-  "https://www.dailian.co.kr/news/view/1665015/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20260708162951004?input=1195m",
-  "http://www.fnnews.com/news/202607081754041718",
-  "https://www.ytn.co.kr/_ln/0103_202607081805481482",
-  "https://www.ytn.co.kr/_ln/0115_202607081803183543",
-  "https://www.etnews.com/20260708000332",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249772&CMPT_CD=P0010",
   "https://www.segye.com/newsView/20260708522387?OutUrl=naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20260708181641f4h",
@@ -2999,19 +2989,19 @@
   "https://www.segye.com/newsView/20260714519077?OutUrl=naver",
   "https://www.news1.kr/politics/assembly/6228075",
   "https://www.mt.co.kr/policy/2026/07/14/2026071417233883452",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030110072&code=61121211&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030110072&code=61121211&cp=nv",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260714174814yBa",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=511863",
+  "https://www.hankyung.com/article/2026071451407",
+  "https://www.news1.kr/society/general-society/6228115",
+  "http://www.yonhapnewstv.co.kr/news/AKR202607141742498pm",
+  "https://www.newsis.com/view/NISX20260714_0003709268",
+  "https://news.mtn.co.kr/news-detail/2026071417355838060",
+  "https://www.yna.co.kr/view/AKR20260714058653062?input=1195m",
+  "https://www.dailian.co.kr/news/view/1667134/?sc=Naver",
+  "https://www.hankookilbo.com/news/article/A2026071416350005333?did=NA"
  ],
  "seen_titles": [
-  "\"스타벅스가야지\"징계받은배재고재심신청접수…공정위서심의",
-  "\"담합,담합,담합..\"공정위올해과징금2조원초과전망",
-  "중기부,거래상지위남용한한국엔지니어링플라스틱고발요청",
-  "이대통령“주가조작은금감원·경찰·검찰3중그물에반드시걸린다...",
-  "'방송전매수,주가오르면매도'…금감원특사경,매경TV압수수색",
-  "'장윤기사건'일파만파…경찰청장대행美출장서조기귀국(종합)",
-  "李대통령\"주가조작패가망신…3중그물에반드시걸린다\"",
-  "'장윤기사건'경찰유착의혹일파만파...보완수사권논란재점화",
-  "장윤기수사강력팀장구속심사...유족\"경찰이살인마편\"",
-  "[사설]ESG법정공시,기업수용성대안세워야",
   "공정위가공개한이사진...\"시민들삶이화이트보드에서결정됐다\"",
   "[단독]검찰,장윤기사건수사팀원2명참고인조사…경찰은불발",
   "금감원특사경,매경TV압수수색…1호인지수사",
@@ -6001,7 +5991,17 @@
   "검사수사권박탈되면공수처검사는?…“특례조항등필요”",
   "與\"즉각재검표\"…野는\"특검과병행\"·\"특검먼저\"두갈래(종합)",
   "\"촉법소년연령재논의\"대통령지시에…교원단체\"환영\"",
-  "자진출석한절도피의자밖에불러내긴급체포한경찰관"
+  "자진출석한절도피의자밖에불러내긴급체포한경찰관",
+  "[속보]'스타벅스응원'배재고야구부징계재심결정",
+  "계약당일취소했는데“30만원내라”…표준약관비웃는웨딩홀‘위...",
+  "[속보]대한체육회스포츠공정위,20일'배재고야구부'징계재심의",
+  "[속보]체육회스포츠공정위,20일'배재고야구부'징계재심의",
+  "대한체육회,오는20일스포공정위서배재고재심의안건상정하기로",
+  "교총\"촉법소년연령하향과정혼란…조속한결론필요\"",
+  "\"주가조작해도남는장사\"인식뿌리뽑아야…처벌강화·신속적발필요",
+  "검찰,강원도청5곳압수수색…전공무원참고인신분수사(종합2보)",
+  "종합특검,'관저이전부실감사'유병호구속영장청구",
+  "국조특위'투표지재검표'시기에이견...與\"당장해야\"野\"특검먼저..."
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
   ]
  ],
- "last_run": "2026-07-14T17:41:47.672245+09:00",
+ "last_run": "2026-07-14T17:51:13.396298+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
