@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20260614/134109268/2",
-  "https://www.insight.co.kr/news/558503",
-  "https://www.segye.com/newsView/20260614506600?OutUrl=naver",
   "https://www.kyeongin.com/article/1765534",
   "https://www.donga.com/news/Economy/article/all/20260614/134106881/1",
   "https://www.socialvalue.kr/news/view/1065582774115801",
@@ -2999,12 +2996,12 @@
   "https://www.inews365.com/news/article.html?no=927685",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7174251",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128186",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250190"
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250190",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=266489",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1561865",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04913446645514520"
  ],
  "seen_titles": [
-  "‘AI도망각가능할까’인류에던지는6가지의제공개",
-  "[6월18일병원계이모저모④]부산대,분당서울대,한양대병원등소식",
-  "반도체강세‥울산수출비중'한자릿수'",
   "분당서울대병원,경기도119구급대원역량강화교육개최",
   "분당서울대병원,경기도119구급대원대상고위험산모·소아응급교육...",
   "[병원계소식]6월18일",
@@ -6001,7 +5998,10 @@
   "동일산전㈜·주식회사맥성제품,우수조달물품지정",
   "최태원\"AI비용너무높아…신기술로돌파구찾아야\"",
   "[투데이증시]'천당과지옥'오가는극심한변동성에4조원던진개미들",
-  "최태원SK회장,제조·에너지서AI서비스로변신까닭은?"
+  "최태원SK회장,제조·에너지서AI서비스로변신까닭은?",
+  "'데이터센터1조달러투자'내건최태원\"목표는토큰경제…자금조달·...",
+  "그룹총수10명중6명주식재산줄었다",
+  "최태원\"AI아직불완전…충분한자금으로성장동력유지해야\""
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-07-14T16:40:26.488213+09:00",
    "변신 서비스로 AI 제조 까닭은 에너지서 회장"
+  ],
+  [
+   "2026-07-14T16:50:26.277684+09:00",
+   "불완전 아직 AI 충분한 자금으로 성장 동력 유지해야"
   ]
  ],
- "last_run": "2026-07-14T16:40:40.816184+09:00",
+ "last_run": "2026-07-14T16:50:39.898155+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
