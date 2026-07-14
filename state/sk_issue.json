@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260708200958798",
-  "https://news.knn.co.kr/news/article/189818",
-  "https://imnews.imbc.com/news/2026/society/article/6836022_36918.html",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648354&plink=ORI&cooper=NAVER",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6836014_37004.html",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260708.99099002582",
@@ -2999,12 +2996,12 @@
   "https://www.etoday.co.kr/news/view/2603738",
   "https://news.tf.co.kr/read/life/2343376.htm",
   "https://www.tjb.co.kr/news05/bodo/view/id/100966",
-  "https://www.newsverse.kr/news/articleView.html?idxno=10943"
+  "https://www.newsverse.kr/news/articleView.html?idxno=10943",
+  "https://www.mk.co.kr/article/12095449",
+  "https://www.nocutnews.co.kr/news/6548210",
+  "http://www.tjb.co.kr/sub0301/bodo/view/id/100966"
  ],
  "seen_titles": [
-  "대검·법무부,'검찰보완수사권폐지'형소법개정안사실상반대",
-  "정이한구속…자작극의혹수사확대",
-  "'장윤기사건'증거인멸혐의광산경찰서수사팀장구속",
   "'이언주합성음란물'게시혐의기업인…경찰압수수색",
   "사라진케이블타이,아빠집서발견‥수사팀장구속기로",
   "[속보]장윤기수사팀장구속…케이블타이증거인멸혐의",
@@ -6001,19 +5998,13 @@
   "자수자경찰서밖유인체포…현직경찰관기소",
   "'계엄가담의혹'심우정전검찰총장16일구속기로",
   "(R)[단독]\"AI솔루션업체가정보빼냈나\"..경찰,업체압수수색",
-  "특검,심우정구속영장청구…'내란가담·즉시항고포기'혐의"
+  "특검,심우정구속영장청구…'내란가담·즉시항고포기'혐의",
+  "차입29조롯데…TPG에팔고숨통트일까?",
+  "'모두의창업'정보유출혐의…AI업체관계자입건",
+  "[단독]\"AI솔루션업체가정보빼냈나\"..경찰,업체압수수색"
  ],
- "recent_sigs": [
-  [
-   "2026-07-14T15:01:13.536993+09:00",
-   "앞둔 5G KT 범위 2심 선고 SKT 쟁점 과장광고 매출"
-  ],
-  [
-   "2026-07-14T15:11:00.156763+09:00",
-   "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
-  ]
- ],
- "last_run": "2026-07-14T21:01:16.779615+09:00",
+ "recent_sigs": [],
+ "last_run": "2026-07-14T21:11:05.511436+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
