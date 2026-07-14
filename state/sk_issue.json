@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/area/yeongnam/1267277.html",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335646",
-  "https://www.hankookilbo.com/news/article/A2026070814110003649?did=NA",
-  "https://sateconomy.co.kr/news/view/1065594130158090",
   "https://www.polinews.co.kr/news/articleView.html?idxno=736408",
   "https://www.newsis.com/view/NISX20260708_0003701067",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04244326645512552",
@@ -2999,13 +2995,13 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205847",
   "https://www.newsis.com/view/NISX20260714_0003708349",
   "https://www.kado.net/news/articleView.html?idxno=2061183",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=119003"
+  "https://www.delighti.co.kr/news/articleView.html?idxno=119003",
+  "https://hbnpress.com/news/view/1065593808107484",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251288&CMPT_CD=P0010",
+  "https://www.news1.kr/politics/assembly/6227831",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490258.html"
  ],
  "seen_titles": [
-  "‘피습자작극의혹’정이한구속영장실질심사출석",
-  "금감원,매일경제TV압수수색…선행매매로10억원대부당이득혐의",
-  "검찰보완수사없었으면묻힐뻔한진실…장윤기부친집서케이블타...",
-  "금감원특사경,매일경제TV압수수색…‘선행매매’첫인지수사",
   "서진도농협,지역언론보도에정정보도·명예훼손법적대응",
   "합수본,신천지이만희구속후첫소환…최측근도참고인조사(종합)",
   "'피습자작극혐의'정이한,구속기로…\"죄송,법정서모두밝힐것\"",
@@ -6001,7 +5997,11 @@
   "\"증거놓치고사안축소\"…'장윤기사건'지휘라인,검·경모두입건",
   "대지진기부금'2300억'어디로…튀르키예유명가수,횡령의혹으로구...",
   "'장윤기사건'광산서장·형사과장검찰이어경찰도입건",
-  "이랜드·대방건설·SM,하도급대금60일초과지급비율높아"
+  "이랜드·대방건설·SM,하도급대금60일초과지급비율높아",
+  "법원,쿠팡총수김범석지정...공정위처분효력정지",
+  "장윤기강간살인인정후폭풍…경찰,서장·형사과장입건",
+  "여야\"국조안에재검표\"기류속…野강경파\"특검먼저\"이견",
+  "튀르키예가수,'2300억'지진성금유용혐의구금…20명함께붙잡혀"
  ],
  "recent_sigs": [
   [
@@ -6037,7 +6037,7 @@
    "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
   ]
  ],
- "last_run": "2026-07-14T15:30:22.140037+09:00",
+ "last_run": "2026-07-14T15:31:51.259455+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
