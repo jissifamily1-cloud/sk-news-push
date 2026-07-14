@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538660",
-  "https://weekly.donga.com/3/all/11/6298837/1",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=640633",
-  "https://www.nocutnews.co.kr/news/6545351",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1529986",
-  "https://www.joongang.co.kr/article/25443509",
   "https://www.hani.co.kr/arti/society/society_general/1267378.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605638",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05536646645512552",
@@ -2999,15 +2993,15 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=0030110585&code=61121111&cp=nv",
   "https://www.news1.kr/society/general-society/6228216",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205927",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539732"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539732",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105147",
+  "https://view.asiae.co.kr/article/2026071420053070166",
+  "https://biz.heraldcorp.com/article/10808895",
+  "https://www.nocutnews.co.kr/news/6548188",
+  "https://www.donga.com/news/Society/article/all/20260714/134299597/2",
+  "https://www.sedaily.com/article/20067770"
  ],
  "seen_titles": [
-  "매일경제TV압수수색…선행매매혐의",
-  "정책자금받아계열사대부업체에공급…명륜당과징금최대347억원",
-  "구글에최대16조배상청구…'게임빅5'동참촉구'최후통첩'",
-  "장윤기수사팀장\"케이블타이그대로둬라\"지시정황…수사팀진술",
-  "부실·축소드러난경찰수사…보완수사권폐지우려확산",
-  "‘이언주합성음란물’올린기업인압수수색…유포경위수사",
   "경찰,‘이언주불법합성물’생성·유포자사무실압수수색",
   "사라진‘케이블타이’장윤기아버지집에서…수사팀장구속심사",
   "대한체육회\"배재고징계재심의,이르면이달말공정위상정\"",
@@ -6001,7 +5995,13 @@
   "배재고야구부봉황대기출전갈림길…20일징계재심의",
   "배재고이례적'빠른재심'결정…징계감경가능성은?",
   "오물더미에개50여마리방치…동물학대60대검거",
-  "쓰레기더미에개52마리…60대견주구속"
+  "쓰레기더미에개52마리…60대견주구속",
+  "김범석'쿠팡총수지정'일단브레이크",
+  "\"배재고징계재심의\"…대한체육회20일스포츠공정위안건상정",
+  "대한체육회,배재고‘6개월출전정지’징계20일재심의",
+  "장윤기재판,재판속행및검·경추가수사로장기화국면",
+  "집6채에반려견52마리방치해둔견주구속송치",
+  "‘자수자경찰서밖으로불러내체포’영등포서경위재판행"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "늑장 하도급 KG 하이트진로 지급 결제 이랜드 외면은 대기업 현금"
   ]
  ],
- "last_run": "2026-07-14T20:01:17.149441+09:00",
+ "last_run": "2026-07-14T20:11:03.514919+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
