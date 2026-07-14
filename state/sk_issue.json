@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/busan-gyeongnam/6222172",
-  "https://www.imaeil.com/page/view/2026070820451737340",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249874&CMPT_CD=P0010",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260708204411IVO",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890346.html",
-  "http://www.kjdaily.com/article.php?aid=1783510536681981005",
   "https://www.donga.com/news/Society/article/all/20260708/134262951/1",
   "https://www.etoday.co.kr/news/view/2601771",
   "http://www.yonhapnewstv.co.kr/news/MYH20260708205526hmT",
@@ -2999,15 +2993,15 @@
   "https://www.pressian.com/pages/articles/2026071420403033842",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=553867",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06100806645514520",
-  "https://www.chosun.com/national/court_law/2026/07/15/PXIY4Q2ISREQ3AZFKGOVHYFN3A/"
+  "https://www.chosun.com/national/court_law/2026/07/15/PXIY4Q2ISREQ3AZFKGOVHYFN3A/",
+  "https://www.econovill.com/news/articleView.html?idxno=745198",
+  "http://www.joseilbo.com/news/news_read.php?uid=571904&class=32",
+  "https://www.natv.go.kr/natv/news/newsView.do?newsId=513766",
+  "https://www.chosun.com/politics/politics_general/2026/07/14/KDIYHO2APVFA5CHAWJDCADZIXQ/",
+  "https://www.yna.co.kr/view/AKR20260714106951054?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260714181600063?input=1195m"
  ],
  "seen_titles": [
-  "최연소부산시장후보의몰락…'음료컵테러'의혹,결국구속",
-  "[속보]'여고생살해범'장윤기차량케이블타이증거인멸수사팀장,구...",
-  "장윤기사건수사팀장구속…'증거인멸·도주우려'",
-  "'장윤기사건'증거인멸의혹수사팀장구속…\"증거인멸·도주우려\"",
-  "장윤기범행차량속결박도구'케이블타이'인멸수사팀장구속",
-  "장윤기차량‘케이블타이’父주거지서발견",
   "[속보]장윤기차에서케이블타이인멸혐의수사팀장구속",
   "‘장윤기사건’케이블타이인멸혐의수사팀장구속",
   "'장윤기사건'수사팀장구속…유가족,경찰규탄",
@@ -6001,10 +5995,16 @@
   "국조특위청문회서'송파재검표'이견…野일각\"특검기다려야\"",
   "\"재검표서둘러야\"vs\"특검수사가우선\"",
   "아파트5곳에개52마리방치…60대견주구속",
-  "“장윤기수사할만큼했다”는경찰…법조계“성범죄는결국못밝혔..."
+  "“장윤기수사할만큼했다”는경찰…법조계“성범죄는결국못밝혔...",
+  "법원,김범석쿠팡총수지정한공정위처분효력정지…\"손해예방필...",
+  "법원,쿠팡김범석총수지정효력정지…“회복어려운손해예방”",
+  "신성범\"민주,일부강경파,검찰개혁자체가정치적목표…결국보완수...",
+  "재검표두고與“국힘,정치적이익위해혼란즐겨”野“민주당은...",
+  "검찰이어경찰도'장윤기사건'광산서장·형사과장입건(종합)",
+  "'모두의창업'정보유출에경찰,AI솔루션업체등압수수색"
  ],
  "recent_sigs": [],
- "last_run": "2026-07-14T21:41:05.622049+09:00",
+ "last_run": "2026-07-14T21:51:03.967238+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
