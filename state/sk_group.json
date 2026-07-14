@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2603217",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=660332",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=89571",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040458",
   "https://www.g-enews.com/view.php?ud=202607131625461900153ddfb15a_1",
   "https://www.kado.net/news/articleView.html?idxno=2060953",
   "https://en.yna.co.kr/view/AEN20260713008952320?input=2106m",
@@ -2999,13 +2995,13 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=235700",
   "https://www.koreadaily.com/article/20260714143236953",
   "https://www.hankyung.com/article/2026071434416",
-  "https://www.hankyung.com/article/2026071444116"
+  "https://www.hankyung.com/article/2026071444116",
+  "https://www.sidae.com/article/2026071506301076336",
+  "https://www.ekn.kr/web/view.php?key=20260714029452259",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61583",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02345206645514848"
  ],
  "seen_titles": [
-  "[특징주]전쟁리스크재점화..삼성전자10.70%'급락'",
-  "SK하이닉스ADR열풍…美레버리지ETF,줄줄이쏟아진다[종합]",
-  "코스피,6800선마감…반도체주중심하락",
-  "코스피,미·이란긴장고조에8%대급락···반도체주대폭조정",
   "AI타고반도체투자확대…미래에셋생명변액보험ETF3종추가",
   "'역대급'삼전·닉스급락…레버리지ETF줄줄이30%대폭락",
   "하닉15%·삼전10%급락…반도체주'폭삭'",
@@ -6001,7 +5997,11 @@
   "기업초과이윤분배사회적논의시작됐다",
   "“한국기업,트럼프회사에200만불지급”",
   "\"규제피하고가격도낮아\"…경기남부대체주거지'관심집중'[주간이...",
-  "\"삼전닉스PER역사적저평가\"라더니…목표가산정기준PBR인이유[분석..."
+  "\"삼전닉스PER역사적저평가\"라더니…목표가산정기준PBR인이유[분석...",
+  "[뉴욕증시]CPI둔화에일제히상승…하이닉스ADR27%급등",
+  "정부,차기ESS입찰‘장수명·안전성’우대…바나듐계배터리첫진...",
+  "\"메모리피크아웃아니다\"…가격상승률둔화에도'장기이익'에베팅하...",
+  "[마켓인]SK하이닉스주식토큰해외서쏟아지는데…국내는재도공백"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,21 @@
   [
    "2026-07-15T06:38:36.864684+09:00",
    "목표가 이유 PER PBR인 분석 라더니 산정기준 역사적 삼전닉스 저평가"
+  ],
+  [
+   "2026-07-15T06:41:13.727955+09:00",
+   "우대 장수명 ESS 입찰 정부 차기 바나듐계 안전성 배터리"
+  ],
+  [
+   "2026-07-15T06:41:13.727955+09:00",
+   "상승률 아니다 메모리 베팅하 둔화에도 피크아웃 가격 장기 이익"
+  ],
+  [
+   "2026-07-15T06:41:13.727955+09:00",
+   "재도공백 주식토큰 해외서 쏟아지는데 SK하이닉스 국내는"
   ]
  ],
- "last_run": "2026-07-15T06:38:53.532884+09:00",
+ "last_run": "2026-07-15T06:41:24.516833+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
