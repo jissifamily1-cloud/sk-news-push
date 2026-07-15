@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10803630",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=15998",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7172747",
-  "https://www.viva100.com/article/20260709500704",
-  "http://www.mjmedi.com/news/articleView.html?idxno=62830",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090258&t=NN",
-  "https://www.naeil.com/news/read/594784",
-  "https://www.naeil.com/news/read/594794",
-  "https://sateconomy.co.kr/news/view/1065585731618988",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60383",
-  "https://www.incheontoday.com/news/articleView.html?idxno=321025",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03991766645512880",
   "https://www.naeil.com/news/read/594812",
   "https://www.naeil.com/news/read/594781",
@@ -2999,20 +2988,20 @@
   "https://www.ytn.co.kr/_ln/0115_202607151334528087",
   "https://www.etnews.com/20260715000268",
   "https://www.ytn.co.kr/_ln/0103_202607151333400021",
-  "https://www.newsis.com/view/NISX20260715_0003710393"
+  "https://www.newsis.com/view/NISX20260715_0003710393",
+  "https://www.ddaily.co.kr/page/view/2026071513485503874",
+  "https://www.ajunews.com/view/20260715134020147",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379925",
+  "https://www.hani.co.kr/arti/economy/economy_general/1268349.html",
+  "https://www.khan.co.kr/article/202607151348001",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264617",
+  "https://www.ikbc.co.kr/article/view/kbc202607150032",
+  "https://www.investchosun.com/site/data/html_dir/2026/07/15/2026071580095.html",
+  "https://www.mk.co.kr/article/12099138",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206094",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/15/2026071590191.html"
  ],
  "seen_titles": [
-  "‘김건희에샤넬가방과그라프목걸이청탁’윤영호징역1년6개월확정...",
-  "법정공시대비\"세이프하버활용체계필요\"...\"인증선제적준비해야...",
-  "혁신형제약사인증의그늘…中企'생존절벽'",
-  "미래에셋,코빗품었다…공정위,기업결합승인",
-  "자생,\"한약보험사기혐의는근거없는일방적주장\"반박",
-  "의료용마약에빠진의사들…허위처방전만4천장",
-  "YK스틸‘고철담합’과징금381억판결",
-  "한국엔지니어링플라스틱검찰조사받는다",
-  "사모펀드MBK의명암",
-  "'장윤기사건'에이어또檢보완수사로'계획살인'드러나",
-  "[단독]롤스로이스·맥라렌빌린지방선거낙선후보2700만원'먹튀'",
   "경찰,'수백억보험사기피고소'자생한방병원압수수색(종합)",
   "정이한전부산시장후보구속",
   "사라진장윤기사건증거에경찰신뢰‘흔들’",
@@ -6001,7 +5990,18 @@
   "장윤기봐주기수사관련경찰특수단중간발표",
   "전직캐나다의원집에서총기439정발견…대포까지나왔다",
   "[YTN실시간뉴스]경찰\"수사팀장이묵살\"...검찰은윗선수사",
-  "'미성년성매매'청주시의원집무실압수수색…지역정가'당황'"
+  "'미성년성매매'청주시의원집무실압수수색…지역정가'당황'",
+  "공정위,석화사업재편'대산1호'기업결합심의착수",
+  "통합앞둔대한항공·아시아나항공,마일리지따로운영가능성제기",
+  "\"숙박앱,오버부킹시일방적취소\"…시민단체,공정위심사청구",
+  "공정위,석화사업재편1호대산롯데·HD현대기업결합심의착수",
+  "광주경찰‘강간살인핵심증거’모두놓쳐···수사단“장윤기사...",
+  "李대통령,한방병원보험사기의혹언급에...이찬진\"수사기관지원하...",
+  "[속보]李대통령\"많이당하고계신것같던데...단일종목레버리지ETF보...",
+  "[Invest]농협,'나주이전설'에술렁…'조직재배치반대'노사갈등으로...",
+  "“13살도안됐다”…현직시의원,여중생과성매매·영상촬영혐의압수...",
+  "이대통령,단일종목레버리지관련\"대책신속마련하라\"",
+  "경찰수사단\"장윤기강간살인죄,수사팀장이묵살\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "되나 오너일가 사용료 2조 브랜드 LG"
   ]
  ],
- "last_run": "2026-07-15T13:41:01.937933+09:00",
+ "last_run": "2026-07-15T13:51:03.798204+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
