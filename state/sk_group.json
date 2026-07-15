@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202607140005",
-  "https://www.yna.co.kr/view/AKR20260713124000002?input=1195m",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02400966645514520",
-  "http://www.fnnews.com/news/202607132226113318",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141474",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92157",
-  "https://www.medicopharma.co.kr/news/articleView.html?idxno=68697",
-  "https://biz.sbs.co.kr/article_hub/20000322295?division=NAVER",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256107",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16133550",
-  "http://www.fnnews.com/news/202607131749083268",
   "https://www.news2day.co.kr/article/20260714500011",
   "https://www.ikbc.co.kr/article/view/kbc202607140006",
   "http://www.yonhapnewstv.co.kr/news/MYH20260714072853Fb4",
@@ -2999,20 +2988,20 @@
   "https://www.koreaherald.com/article/10809681",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4425130",
   "https://www.dt.co.kr/article/12073030",
-  "https://en.yna.co.kr/view/AEN20260715004700320?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260715004700320?input=2106m",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=266642",
+  "https://www.kpinews.kr/newsView/1065575587002303",
+  "https://www.munhwa.com/article/11602828",
+  "https://www.news1.kr/finance/market-exr/6228914",
+  "https://www.mt.co.kr/world/2026/07/15/2026071511401640770",
+  "https://biz.sbs.co.kr/article_hub/20000322666?division=NAVER",
+  "https://www.munhwa.com/article/11602830",
+  "https://news.tf.co.kr/read/economy/2343597.htm",
+  "https://www.news1.kr/politics/president/6228928",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168223",
+  "https://edu.donga.com/news/articleView.html?idxno=109967"
  ],
  "seen_titles": [
-  "[데일리머니마켓]반도체주급락…뉴욕증시약세",
-  "뉴욕증시,중동발리스크에급락…SK하이닉스ADR9%↓",
-  "SK하이닉스ADR9%급락...공모가부근까지떨어져",
-  "호르무즈에발목잡힌뉴욕증시,일제히하락…SK하이닉스ADR9%조정-...",
-  "[美증시특징주]TSMC압도적매출증가에도ADR하락...반도체조정태...",
-  "국민연금국내주식462조…‘삼전·하닉’비중절반훌쩍",
-  "뉴욕증시,트럼프해협통행료예고ㆍ반도체급락에하락…SK하닉ADR9%...",
-  "[마켓시그널]반도체株폭락,AI도파민이끝난뒤찾아온숙취…조정인...",
-  "중동긴장고조에AI반도체주급락…유가급등[뉴욕증시브리핑]",
-  "뉴욕증시,트럼프호르무즈통행료예고하락나스닥1.55%↓...국제유가...",
-  "트럼프,3개월만에호르무즈모멘텀선언했다!|세계경제와증시,‘...",
   "코스피랠리에총수46명2분기주식재산29조↑…이재용28조증가해‘...",
   "바이낸스대표\"가상자산거래소넘어글로벌자산거래플랫폼\"",
   "\"9개전부맞으면\"...'SK하닉300만경우의수'등장",
@@ -6001,7 +5990,18 @@
   "SKOn-HyundaibatteryjointventurebeginsUSproduction",
   "스테이트스트리트\"EM성장성견조,AI쏠림은리스크\"",
   "집값자극할라‘1.5%룰’요지부동…KB대출축소엔‘선긋기’",
-  "SeoulsharesextendgainslateWednesdaymorningontechgains"
+  "SeoulsharesextendgainslateWednesdaymorningontechgains",
+  "삼성물산,HJ중공업손잡고스마트주거앱'해모로by홈닉'구축",
+  "SK브로드밴드,'Btv핫딜'누적판매액60억돌파",
+  "“메모리산업피크아웃아냐,장기공급계약에주목해야”",
+  "외인1.4조순매수에코스피7300선회복…SK하닉11%↑[장중시황]",
+  "뉴욕증시반도체상승훈풍에…닛케이0.9%↑[Asia오전]",
+  "[단독]용인에'SK태양광도로'추진한다",
+  "호남반도체성패의시금석[뉴스와시각]",
+  "예측은없고추종만…증권사목표주가'무용론'확산",
+  "李대통령,삼전닉스레버리지에\"부작용으로혼란초래하는건신중하게...",
+  "구글훈풍?...삼성SDI등2차전지주'장중급등'",
+  "서강대학교컴퓨터공학과김영재교수연구팀,HPC분야TopConference'SC2..."
  ],
  "recent_sigs": [
   [
@@ -7183,9 +7183,33 @@
   [
    "2026-07-15T11:51:12.643750+09:00",
    "late Wednesday on tech gains morning shares Seoul extend"
+  ],
+  [
+   "2026-07-15T12:01:24.748603+09:00",
+   "용인에 추진한다 태양광 도로"
+  ],
+  [
+   "2026-07-15T12:01:24.748603+09:00",
+   "호남반도체 시금석 성패의"
+  ],
+  [
+   "2026-07-15T12:01:24.748603+09:00",
+   "없고 추종만 무용론 확산 증권사 예측은 목표주가"
+  ],
+  [
+   "2026-07-15T12:01:24.748603+09:00",
+   "신중하게 혼란 레버리지에 초래하는 대통령 삼전닉스 부작용으로"
+  ],
+  [
+   "2026-07-15T12:01:24.748603+09:00",
+   "삼성SDI 급등 장중 2차전지주 훈풍 구글"
+  ],
+  [
+   "2026-07-15T12:01:24.748603+09:00",
+   "교수 컴퓨터공학과 서강대학교 연구팀 Conference Top 김영재 SC HPC분야"
   ]
  ],
- "last_run": "2026-07-15T11:51:31.815668+09:00",
+ "last_run": "2026-07-15T12:01:43.460881+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
