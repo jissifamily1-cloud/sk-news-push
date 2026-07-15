@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200053.html",
-  "https://biz.heraldcorp.com/article/10795426",
-  "https://view.asiae.co.kr/article/2026070208044680661",
   "https://www.newsis.com/view/NISX20260702_0003692754",
   "https://www.yna.co.kr/view/AKR20260701158500003?input=1195m",
   "https://www.etoday.co.kr/news/view/2599378",
@@ -2999,12 +2996,12 @@
   "https://news.jtbc.co.kr/article/NB12308418?influxDiv=NAVER",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442464",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=850573",
-  "http://www.ujeil.com/news/articleView.html?idxno=388943"
+  "http://www.ujeil.com/news/articleView.html?idxno=388943",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005673",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=06182806645514848",
+  "https://www.mk.co.kr/article/12099693"
  ],
  "seen_titles": [
-  "['AI대전환'메가프로젝트③]\"공장만지어선미래없다\"…기업형첨단...",
-  "'2년완공'TSMC구마모토…日정부가공장보다먼저준비",
-  "\"AI시대,답보다질문이경쟁력\"…최태원SK회장,미래인재조건강...",
   "[데스크칼럼]‘호모두두리’의4755조베팅",
   "[산업썰전]철강·조선의실패잊었나…'호남반도체'공급과잉의경고",
   "두기업인을영웅이라부른李대통령[김세형칼럼]",
@@ -6001,7 +5998,10 @@
   "[더in터뷰]'진짜현기증나요'개미들심장철렁…패닉셀뒤'뜻밖의소...",
   "[7월16일자]비즈니스포스트아침의주요기사",
   "최태원회장의'광주맛집'팔로우에'네티즌'들썩",
-  "金시장,대기업본사찾아적극세일즈"
+  "金시장,대기업본사찾아적극세일즈",
+  "최태원\"AI는지금부터함께키워야할동료\"…대한상의제주포럼개막",
+  "[미리보는이데일리신문]몰락하는日종이만화…韓웹툰플랫폼이구...",
+  "“100만원받고무단조회”…현직경찰,개인정보빼돌려탐정사무소..."
  ],
  "recent_sigs": [
   [
@@ -6125,7 +6125,7 @@
    "네티즌 맛집 들썩 팔로우에 회장의 광주"
   ]
  ],
- "last_run": "2026-07-15T21:10:41.630290+09:00",
+ "last_run": "2026-07-15T21:20:38.753779+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
