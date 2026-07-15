@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=263619",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=51305",
-  "http://www.iminju.net/news/articleView.html?idxno=165440",
-  "https://www.dailian.co.kr/news/view/1656945/?sc=Naver",
   "http://www.yonhapnewstv.co.kr/news/AKR20260617145911G8s",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=85746",
   "http://www.metroseoul.co.kr/article/20260617500288",
@@ -2999,13 +2995,13 @@
   "http://www.iminju.net/news/articleView.html?idxno=166727",
   "https://biz.heraldcorp.com/article/10810149",
   "http://www.press9.kr/news/articleView.html?idxno=79522",
-  "https://www.mediawatch.kr/news/article.html?no=260384"
+  "https://www.mediawatch.kr/news/article.html?no=260384",
+  "https://www.asiatime.co.kr/article/20260715500392",
+  "https://news.jtbc.co.kr/article/NB12308461?influxDiv=NAVER",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274985",
+  "https://www.hankyung.com/article/2026071574941"
  ],
  "seen_titles": [
-  "조정원,2025년분쟁조정최다접수및처리경신",
-  "작년불공정거래분쟁조정접수4726건'역대최다'",
-  "임채덕화성시의원후보,선거사무소개소…\"3선의관록으로화성의확...",
-  "한국게임법과정책학회,24회학술대회서국가전략산업으로게임논의...",
   "“게임,국가전략산업으로육성해야”한국게임법과정책학회,15일정기...",
   "게임이국가전략산업으로발전하려면?15일학술대회개최",
   "[단독]공정위산하조정원장에김정기상임위원...내달1일취임",
@@ -6001,7 +5997,11 @@
   "최태원,사우디ICT장관과회동…AI·반도체협력확대전망",
   "“하이닉스진짜광주오나봐”…최태원‘광주맛집’팔로우에‘들썩...",
   "최태원SK회장,주식재산6.9조늘어첫'10조클럽'",
-  "SK하이닉스ADR,2배상승가능성전망…메모리공급부족이실적밀어..."
+  "SK하이닉스ADR,2배상승가능성전망…메모리공급부족이실적밀어...",
+  "[대학뉴스브리핑]고려대·이화여대·덕성여대",
+  "'광주맛집'팔로우한최태원회장…\"하이닉스광주오나\"",
+  "울산시,SK·S-OIL본사방문해AI데이터센터투자·지역협력논의",
+  "SKT,데이터센터핵심인력CEO직속배치"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-07-15T17:20:27.249477+09:00",
    "상승 SK하이닉스 공급 전망 밀어 가능성 부족이 실적 2배 ADR 메모리"
+  ],
+  [
+   "2026-07-15T17:30:41.728198+09:00",
+   "CEO 직속 데이터센터 인력 배치 SKT 핵심"
   ]
  ],
- "last_run": "2026-07-15T17:20:38.411061+09:00",
+ "last_run": "2026-07-15T17:30:56.417037+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
