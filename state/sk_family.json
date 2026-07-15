@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=586257",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=448401",
   "http://www.dailypop.kr/news/articleView.html?idxno=100268",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600590",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068330",
@@ -2999,11 +2997,11 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61630",
   "http://worknworld.kctu.org/news/articleView.html?idxno=509679",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441163",
-  "https://www.imaeil.com/page/view/2026071607225644465"
+  "https://www.imaeil.com/page/view/2026071607225644465",
+  "https://www.etoday.co.kr/news/view/2604294",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441274"
  ],
  "seen_titles": [
-  "최창원\"상생은대금지급부터\"…2·3차협력사'돈맥경화'푸는SK",
-  "SK7개주요계열사,1~3차협력사와상생강화…대금지급개선·1.4조...",
   "이재용삼성전자회장,6월기업인대상1위…정의선회장추격하며양강...",
   "닻올린제13대충남도의회…6개상임위명단보니",
   "인재양성에열올리는기업들…재계,'질문하는힘'부터'실무형교육'까...",
@@ -6001,7 +5999,9 @@
   "\"AI는묻는만큼일한다\"…최태원,제주포럼서'일하는방식재설계'촉...",
   "\"인내의시간은끝…진짜사장나와라\"민주노총10만노동자,일손놓고...",
   "[WhoIs?]류진풍산그룹회장겸한국경제인협회회장",
-  "\"하이닉스광주오긴오나봄\"최태원'광주맛집'팔로우에술렁"
+  "\"하이닉스광주오긴오나봄\"최태원'광주맛집'팔로우에술렁",
+  "최태원대한상의회장\"AI는도입보다활용…지금부터데이터먹이며함...",
+  "최종현학술원·대한민국해군공동주최포럼...\"바닷길흔들리면한국..."
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "광주 오긴 술렁 하이닉스 광주맛집 팔로우에 오나봄"
   ]
  ],
- "last_run": "2026-07-16T08:20:36.523139+09:00",
+ "last_run": "2026-07-16T08:30:42.373220+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
