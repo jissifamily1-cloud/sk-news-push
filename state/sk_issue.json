@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6836390_37012.html",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6836388_37012.html",
-  "https://www.news1.kr/finance/blockchain-fintech/6222758",
-  "https://www.newsis.com/view/NISX20260709_0003703099",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441021",
-  "https://www.khan.co.kr/article/202607100700011",
-  "http://www.segyebiz.com/newsView/20260710501022?OutUrl=naver",
   "https://www.starnewskorea.com/star/2026/07/10/2026071006574283346",
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040840",
   "https://www.newswhoplus.com/news/articleView.html?idxno=64216",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0115_202607152025408315",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659785&plink=ORI&cooper=NAVER",
   "https://www.sedaily.com/article/20068293",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6837722_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6837722_37004.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260715204903n0C",
+  "http://news.lghellovision.net/news/articleView.html?idxno=548536",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2288372",
+  "http://www.inews24.com/view/1985981",
+  "https://www.mk.co.kr/article/12099680",
+  "https://news.knn.co.kr/news/article/190128",
+  "https://www.joongang.co.kr/article/25445388"
  ],
  "seen_titles": [
-  "수사팀장구속에궁지몰린경찰‥'쇄신TF'라도",
-  "'공수처'물고늘어졌던윤‥\"수사모두적법\"",
-  "미래에셋품은코빗…'만년4위'탈출할까",
-  "민생금융특사경,국회문턱서'대기중'…업무범위쟁점전망",
-  "[WhoIs?]김홍국하림그룹회장",
-  "보완수사권논의,우리는빼고?[점선면]",
-  "공정위,미래에셋코빗인수승인…전통금융·가상자산대융합첫발",
   "\"2만원추징\"..황하나석방,또마약혐의'1심무죄'·도피만'벌금형'...",
   "[칼럼]자생한방병원압수수색이던진질문…자보한방진료는어디로가...",
   "미래에셋,코빗품고가상자산판진입…전통금융첫거래소인수가시권",
@@ -6001,13 +5994,16 @@
   "장윤기사건'축소·은폐'광주경찰청압수수색...윗선정조준",
   "경찰발표직전압수수색나선검찰…'윗선'겨냥",
   "아워홈용인공장50대근로자끝내숨져…끼임사고37일만",
-  "국민의힘시의원전격압수수색‥아동성매매,성착취제작혐의"
+  "국민의힘시의원전격압수수색‥아동성매매,성착취제작혐의",
+  "특검,'양평의혹'원희룡휴대전화확보…다음주소환",
+  "[자막뉴스]집안에서강아지52마리기르며학대",
+  "미성년자성매매혐의최영중청주시의원…출석지연·휴대전화미제출",
+  "'장윤기사건'경찰수사팀장\"'윗선지시'있었다\"",
+  "‘아동성매매혐의’최영중의원…출석미루고휴대전화도미제출",
+  "경찰,정이한전후보부친병원압수수색",
+  "“담배사줄게”중학생성매수…최영중시의원,휴대전화도미제출"
  ],
  "recent_sigs": [
-  [
-   "2026-07-15T14:50:56.163650+09:00",
-   "담합 애경케미칼 빠듯 개선 체질 여력 현금 나섰지만"
-  ],
   [
    "2026-07-15T17:01:17.382951+09:00",
    "닉스에 대는 반도체 부품 3사 글로벌 검찰 삼전"
@@ -6021,7 +6017,7 @@
    "담합 부품사 하이닉스 삼전 의혹"
   ]
  ],
- "last_run": "2026-07-15T20:41:05.856203+09:00",
+ "last_run": "2026-07-15T20:51:03.178719+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
