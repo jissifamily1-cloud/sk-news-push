@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/14/20260714500155?wlog_tag3=naver",
-  "http://www.sisacast.kr/news/articleView.html?idxno=97770",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16133958",
-  "https://www.viewsnnews.com/article?q=237190",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468334",
-  "https://www.newsway.co.kr/news/view?ud=2026071414274466402",
-  "https://biz.sbs.co.kr/article_hub/20000322432?division=NAVER",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607140293&t=NNv",
   "https://www.sedaily.com/article/20067579",
   "http://www.fnnews.com/news/202607141417271220",
@@ -2999,16 +2992,16 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260715192147N75",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611705",
   "https://www.dt.co.kr/article/12073171",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=206962"
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=206962",
+  "https://www.yna.co.kr/view/AKR20260715175200073?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260715171000002?input=1195m",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078499",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=266722",
+  "https://www.ajunews.com/view/20260715145514389",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088718",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42433"
  ],
  "seen_titles": [
-  "통신3사,전화상대방에게영상보여주는‘V프로필’출시",
-  "에데나코리아,실버레이크엑시스와싱가포르합작법인출범",
-  "네이버,바이에른뮌헨-제주SK친선전예매시작…치지직생중계지원",
-  "SK스퀘어,코스피강세장서3%가까이상승…120만원선회복시도",
-  "KB자산운용'RISE미국우주&로봇TOP2미국채혼합50ETF'출시",
-  "골드만삭스“코스피6800선1차지지…레버리지ETF매도가급락증폭”",
-  "AI랠리는그대로인데…한국반도체덮친'공포거래'",
   "[하반기경제]올해3%성장…확장재정지속,AI·반도체‘3대메가프로...",
   "당정,지주사규제완화시동…호남팹투자물꼬트이나",
   "다문화어머니농구단,10연패딛고첫승",
@@ -6001,7 +5994,14 @@
   "코스피'7천피'탈환…외국인대규모매수·반도체강세",
   "검찰,‘반도체부품담합’몬타지테크놀로지등3곳압수수색",
   "[짚어봅시다]보폭확키운中창신메모리,세계3위美마이크론넘본...",
-  "[주요공시]서진시스템,한화오션,남양유업,신성이엔지,이수페타시스..."
+  "[주요공시]서진시스템,한화오션,남양유업,신성이엔지,이수페타시스...",
+  "젠슨황\"SK하이닉스ADR,믿을수없을정도로성공적…기쁘다\"",
+  "\"공급차질\"vs\"소수특혜\"…이주비부터청년·전세대출갑론을박",
+  "소백산고치령'통신불통'끊는다…3억4000만원투입",
+  "최태원회장,대한상의제주포럼서\"일하는방식,AI에맞게새로짜는...",
+  "[단일종목레버리지50일]대박꿈쫓던투자자29만명,보름새8조날...",
+  "롤러코스피,이번엔매수사이드카",
+  "미래에셋증권,전날대비7.74%급등…2분기컨센서스7.5%상회전망"
  ],
  "recent_sigs": [
   [
@@ -7295,9 +7295,21 @@
   [
    "2026-07-15T19:31:25.125617+09:00",
    "서진시스템 신성이엔지 한화오션 이수페타시스 남양유업"
+  ],
+  [
+   "2026-07-15T19:41:12.247165+09:00",
+   "쫓던 보름 8조 투자자 29만명 대박"
+  ],
+  [
+   "2026-07-15T19:41:12.247165+09:00",
+   "이번엔 매수 사이드카 롤러코스피"
+  ],
+  [
+   "2026-07-15T19:41:12.247165+09:00",
+   "미래에셋증권 전망 상회 전날 대비 컨센서스 급등 2분기"
   ]
  ],
- "last_run": "2026-07-15T19:31:33.772551+09:00",
+ "last_run": "2026-07-15T19:41:26.034383+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7835,6 +7847,7 @@
   "geconomy.co.kr": "G.ECONOMY(지이코노미)",
   "tvdaily.co.kr": "tvdaily.co.kr",
   "suhyupnews.co.kr": "어업in수산",
-  "atstar1.com": "앳스타일"
+  "atstar1.com": "앳스타일",
+  "s-journal.co.kr": "S저널"
  }
 }
