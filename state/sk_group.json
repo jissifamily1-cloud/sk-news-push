@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.weeklytoday.com/news/articleView.html?idxno=785208",
-  "http://www.osen.co.kr/article/G1112839575",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100571",
-  "https://www.m-i.kr/news/articleView.html?idxno=1391452",
-  "http://www.fnnews.com/news/202607141007176510",
-  "https://www.inthenews.co.kr/news/article.html?no=89325",
   "http://www.fnnews.com/news/202607141512596949",
   "http://www.4th.kr/news/articleView.html?idxno=2114743",
   "https://www.dizzotv.com/site/data/html_dir/2026/07/14/2026071480130.html",
@@ -2999,15 +2993,15 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=273123",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=310912",
   "https://www.sedaily.com/article/20068300",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150361&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150361&t=NN",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441252",
+  "https://www.kukinews.com/article/view/kuk202607150210",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=553960",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659801&plink=ORI&cooper=NAVER",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273124",
+  "http://www.fnnews.com/news/202607152121460406"
  ],
  "seen_titles": [
-  "[AI정책노트]정부,‘글로벌AI허브’협력확대…“세계난제실마리...",
-  "Korea,U.S.,JapanformSMRalliancetopowerIndo-Pacifictechboom",
-  "SKT정예팀,SKAX·테크노매트릭스합류로전력보강",
-  "[더벨]딜몰리는코람코…투자업계인재영입속도",
-  "S-Oil,급락장속'상승마이웨이'...전쟁도서킷도버텼다",
-  "국민연금국내주식'비중초과'…삼전·닉스비중55%",
   "김희철한화오션캐나다잠수함도전이남긴'고정비'부담을방산수주...",
   "글로벌석유제품공급난에…韓정유업계수익성개선전망",
   "삼성운용,'KODEX200커버드콜액티브'ETF신규상장",
@@ -6001,7 +5995,13 @@
   "HyundaiMotor-SKOnBatteryPlantStartsU.S.Production",
   "구글,MS,메타실적에쏠리는눈…반도체정말고점일까",
   "“엔비디아H200중국수출시작”…美정부공식확인에주가날아올랐...",
-  "\"코스피73%가여기로\"…'대통령도지시'대책속도전"
+  "\"코스피73%가여기로\"…'대통령도지시'대책속도전",
+  "코스피,6%급등에7200선회복...SK스퀘어,삼성전기,SK하이닉스,삼성...",
+  "젠슨황,SK하닉ADR상장에“믿을수없을정도로성공적”호평",
+  "\"삼전닉스레버리지ETF보완책마련하라\"",
+  "한미'현안'엉켰나…주미대사'이례적'귀국",
+  "SKBioscienceAcceleratesGlobalVaccinePush",
+  "SKT,15GWAIDC구축메가프로젝트속도"
  ],
  "recent_sigs": [
   [
@@ -7027,9 +7027,17 @@
   [
    "2026-07-15T21:22:28.727925+09:00",
    "대통령도 속도전 코스피 대책 지시 여기로"
+  ],
+  [
+   "2026-07-15T21:31:27.297826+09:00",
+   "Push Global Vaccine Accelerates Bioscience"
+  ],
+  [
+   "2026-07-15T21:31:27.297826+09:00",
+   "15GW AIDC 속도 SKT 메가프로젝트 구축"
   ]
  ],
- "last_run": "2026-07-15T21:22:42.704648+09:00",
+ "last_run": "2026-07-15T21:31:36.183454+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
