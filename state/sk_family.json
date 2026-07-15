@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lak.co.kr/news/boardview.php?id=22479",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3476857",
-  "https://woman.donga.com/3/all/12/6036658/1",
-  "https://www.mk.co.kr/article/11485128",
-  "http://www.lawissue.co.kr/view.php?ud=202512112314138332f4ab64559d_12",
-  "http://www.e2news.com/news/articleView.html?idxno=325926",
-  "https://idsn.co.kr/news/view/1065601285729834",
-  "http://www.finomy.com/news/articleView.html?idxno=245209",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=04372246642397536",
   "https://www.koreaittimes.com/news/articleView.html?idxno=148881",
   "http://amenews.kr/news/view.php?idx=65093",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20260715165000001?input=1195m",
   "https://www.yna.co.kr/view/AKR20260715117551061?input=1195m",
   "http://www.yonhapnewstv.co.kr/news/AKR202607151810329er",
-  "https://view.asiae.co.kr/article/2026071518162090673"
+  "https://view.asiae.co.kr/article/2026071518162090673",
+  "https://www.yna.co.kr/view/PYH20260715209400056?input=1196m",
+  "https://www.joongang.co.kr/article/25445375",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150528&t=NN",
+  "http://www.fnnews.com/news/202607151821372626",
+  "https://www.yna.co.kr/view/PYH20260715207800056?input=1196m",
+  "https://www.namdonews.com/news/articleView.html?idxno=917134",
+  "https://www.tfmedia.co.kr/news/article.html?no=205795",
+  "https://www.m-i.kr/news/articleView.html?idxno=1392097"
  ],
  "seen_titles": [
-  "‘무역협회80주년’윤진식회장“대미통상대응에역량집중”",
-  "무협,창립80년새출발…윤진식\"신시장개척·대미통상대응강화\"",
-  "무협,상반기美워싱턴에싱크탱크'한미산업발전포럼'신설",
-  "'80돌'무역협회,대미통상강화...워싱턴에'산업포럼'띄운다",
-  "[모닝데스크-숏]25일,윤진식남은1년문제없다…벤처협·SK하이닉스...",
-  "곽노정SK하이닉스사장,\"성과에도취말고위기의식갖자\"",
-  "곽노정SK하이닉스사장\"성과에도취말고위기의식가져야\"",
-  "곽노정SK하이닉스사장\"성과에도취하지말고,위기의식갖자\"",
   "곽노정SK하이닉스사장“성과에도취말자”…‘스테이헝그리’로긴...",
   "곽노정SK하이닉스사장\"위기의식갖자\"…긴장감유지주문",
   "곽노정SK하이닉스사장\"위기의식갖되자만심갖지말자\"",
@@ -6001,7 +5993,15 @@
   "조의장,대한상의와'경제대도약위'구상추진…\"상시소통\"",
   "사설탐정에경찰내부정보유출한현직경찰관2명등5명기소(종합)",
   "돈받고사설탐정에게수사정보넘긴경찰…'개인정보단가표'만들어...",
-  "최태원회장,진짜광주가나?…지역맛집SNS계정팔로우화제"
+  "최태원회장,진짜광주가나?…지역맛집SNS계정팔로우화제",
+  "나란히입장하는조정식국회의장과최태원대한상의회장",
+  "‘이세돌부터정경선까지’…경제단체가AI시대CEO앞에세운얼굴들",
+  "대한상의제주포럼개막…최태원\"AI물결올라타야\"",
+  "제주모인경제계…최태원\"AI물결올라타야\"류진\"혁신의한국돼야...",
+  "개회사하는최태원대한상의회장",
+  "통합시의회\"광주군공항,국가주도전환해야\"",
+  "[이슈체크]재계,삼성전자美ADR상장가능성두고'설왕설래'하는이...",
+  "제주에모인경제계수장들…\"AI는생존기회,일하는방식통째로바..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-07-15T17:58:52.687132+09:00",
    "상시협력 본격화 재계 최태원과 국회 경제대도약위 조정식"
+  ],
+  [
+   "2026-07-15T18:30:37.184115+09:00",
+   "수장들 통째로 모인 기회 생존 방식 경제계 AI는 제주에 일하는"
   ]
  ],
- "last_run": "2026-07-15T18:20:38.860660+09:00",
+ "last_run": "2026-07-15T18:30:48.561723+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
