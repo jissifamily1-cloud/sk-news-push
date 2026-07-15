@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/news/2026/society/article/6836199_36918.html",
-  "https://news.tf.co.kr/read/economy/2341534.htm",
-  "https://www.news1.kr/society/court-prosecution/6222900",
-  "https://www.news2day.co.kr/article/20260709500138",
-  "https://www.newspim.com/news/view/20260709000888",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1384450",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094121",
-  "https://www.econovill.com/news/articleView.html?idxno=744743",
-  "https://www.dailian.co.kr/news/view/1665308/?sc=Naver",
-  "https://www.ngonews.kr/news/articleView.html?idxno=232546",
-  "http://www.fnnews.com/news/202607091344519868",
   "https://sateconomy.co.kr/news/view/1065588535602195",
   "https://www.segye.com/newsView/20260709514284?OutUrl=naver",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030086976&code=61121111&cp=nv",
@@ -2999,20 +2988,20 @@
   "https://www.mk.co.kr/article/12099166",
   "https://www.sedaily.com/article/20068069",
   "http://www.fnnews.com/news/202607151041455182",
-  "https://imnews.imbc.com/news/2026/society/article/6837632_36918.html"
+  "https://imnews.imbc.com/news/2026/society/article/6837632_36918.html",
+  "https://www.etoday.co.kr/news/view/2604067",
+  "https://news.tf.co.kr/read/economy/2343672.htm",
+  "http://www.metroseoul.co.kr/article/20260715500247",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/15/2026071590196.html",
+  "https://www.ajunews.com/view/20260715140017208",
+  "http://www.fins.co.kr/news/articleView.html?idxno=109201",
+  "https://www.news1.kr/local/gwangju-jeonnam/6229053",
+  "https://www.yna.co.kr/view/AKR20260715110800061?input=1195m",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4095237",
+  "https://www.hankyung.com/article/2026071568997",
+  "https://www.newsis.com/view/NISX20260715_0003710500"
  ],
  "seen_titles": [
-  "내개인정보도중국에?‥4천만명정보유출카카오페이압수수색",
-  "공정위,솔리드웍스담합8개사제재…23억7200만원과징금",
-  "[일지]'통일교청탁'윤영호,대법원선고까지",
-  "자생한방병원압수수색...보험사기의혹에“사실과달라”",
-  "경찰,'수백억보험사기혐의'자생한방병원압수수색",
-  "자생한방병원\"압수수색은사실,보험사기혐의는근거없어\"",
-  "경찰,자생한방병원전격압수수색…병원측\"일방적주장\"반박",
-  "자생한방병원,압수수색은'사실'보험사기는'사실무근'",
-  "경찰,'고객4000만명개인정보유출혐의'카카오페이본사압수수색",
-  "집단소송법제정공론화…\"옵트아웃도입해야\"vs\"소송남용우려\"",
-  "미래에셋,코빗품고가상자산사업확장나서[크립토브리핑]",
   "광주여고생피살사건,검찰보완수사권폐지핵심논쟁흔드나",
   "트럼프가비판하자중국환영한극우고든창누구…“반중비즈니스는...",
   "경찰,‘보험사기혐의’자생한방병원압수수색…보험사가고소",
@@ -6001,7 +5990,18 @@
   "이대통령“단일종목레버리지보완대책,잘신속히마련하라”",
   "李,삼전·닉스단일종목레버리지ETF‘신속보완’지시",
   "'채상병수사누설'이시원전대통령실비서관구속기로",
-  "아워홈공장끼임사고50대노동자,연명치료한달여만에숨져"
+  "아워홈공장끼임사고50대노동자,연명치료한달여만에숨져",
+  "세금넘어국세외수입체납까지…국세청,‘통합재정수입기관’으로...",
+  "공정위,롯데·HD현대'대산1호'기업결합심의개시",
+  "롯데·HD현대'석화빅딜'제동…공정위,'대산1호'기업결합심의착수",
+  "공정위,석화재편'대산1호'조건부승인심의착수",
+  "[종합]\"'미성년자'인줄몰랐다\"?…최영중청주시의원,성착취의혹여...",
+  "李대통령,한방병원보험사기의혹직접거론…금감원\"수사기관지원...",
+  "\"증거삭제·축소,윗선지시있었다\"…'장윤기사건'수사팀장구속(종...",
+  "아워홈용인공장끼임사고근로자,37일만에숨져",
+  "강간살인정황묵살…장윤기수사'은폐'있었나",
+  "'아동성매매혐의'수사중인데…선거출마강행한시의원",
+  "민주\"아동성매매청주시의원공천,국힘공당자격있나\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "되나 오너일가 사용료 2조 브랜드 LG"
   ]
  ],
- "last_run": "2026-07-15T14:11:04.975974+09:00",
+ "last_run": "2026-07-15T14:21:02.473517+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
