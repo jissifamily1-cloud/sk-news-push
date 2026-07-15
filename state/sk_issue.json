@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715736",
-  "https://www.news1.kr/local/busan-gyeongnam/6223035",
-  "https://www.yna.co.kr/view/AKR20260709128400051?input=1195m",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900199.html",
-  "https://www.seoul.co.kr/news/society/2026/07/09/20260709500165?wlog_tag3=naver",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244070",
-  "http://www.fnnews.com/news/202607091416459773",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260709142202LHO",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990205.html",
   "https://www.segye.com/newsView/20260709515370?OutUrl=naver",
   "https://www.dailian.co.kr/news/view/1665344/?sc=Naver",
   "http://www.4th.kr/news/articleView.html?idxno=2114508",
@@ -2999,18 +2990,18 @@
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4095252",
   "https://www.ytn.co.kr/_ln/0115_202607151438322217",
   "https://www.ytn.co.kr/_ln/0115_202607151438240516",
-  "https://www.joongangenews.com/news/articleView.html?idxno=533111"
+  "https://www.joongangenews.com/news/articleView.html?idxno=533111",
+  "https://www.viva100.com/article/20260715500668",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/15/2026071590209.html",
+  "https://news.skbroadband.com/news/articleView.html?idxno=232216",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92296",
+  "https://www.yna.co.kr/view/AKR20260715115500064?input=1195m",
+  "https://www.news1.kr/local/gyeonggi/6229106",
+  "https://www.pressian.com/pages/articles/2026071514382594138",
+  "https://www.newsis.com/view/NISX20260715_0003710611",
+  "https://www.yna.co.kr/view/AKR20260715048952064?input=1195m"
  ],
  "seen_titles": [
-  "자생한방병원,'수백억원대보험사기'의혹에압수수색…병원측\"사실...",
-  "테러자작극의혹정이한\"선거유리하게하려\"…경찰조사시인하고도...",
-  "'음료테러피해자'행세정이한,휴대전화통화내역에덜미",
-  "압수수색파장에자생한방병원\"이미8건불송치된사안…'공장한약'...",
-  "내정보도중국에넘어갔나?…경찰,4000만명정보유출혐의카카오페...",
-  "'보험사기'의혹자생한방병원…경찰강제수사착수",
-  "경찰,자생한방병원보험사기혐의압수수색..병원\"사실과달라\"반박",
-  "[현장연결]대법,尹'체포방해'상고심선고…징역7년확정",
-  "中에고객정보542억건유출…경찰,카카오페이압수수색",
   "‘피습자작극’혐의로구속된정이한,헬스트레이너와사전범행공...",
   "자생한방병원\"보험사기혐의사실무근\"",
   "윤석열'체포방해'징역7년확정…\"공수처수사개시적법\"",
@@ -6001,7 +5992,16 @@
   "검찰,광주경찰청압수수색…'장윤기봐주기수사'윗선정조준",
   "\"차뒷문혈흔도누락\"...'봐주기'의혹수사중간발표",
   "광주지검,'장윤기사건'부실수사의혹광주경찰청압수수색",
-  "[더인사이트]애경케미칼,체질개선나섰지만현금여력'빠듯'...담합..."
+  "[더인사이트]애경케미칼,체질개선나섰지만현금여력'빠듯'...담합...",
+  "공정위,‘대산1호’기업결합심의",
+  "[티조AI]쿠팡은리스크멈추고,홈플러스는셧다운…엇갈린'유통공룡...",
+  "바이오가스시설비리의혹…안산공무원등검찰송치",
+  "아워홈용인공장끼임사고50대하청근로자끝내숨져",
+  "\"개원하자마자…\"의원아동성매매혐의에청주시의회당혹",
+  "아워홈용인공장'기계끼임사고'50대,37일만에숨져",
+  "장윤기,범행전피해자알고있었나…초기수사팀,단서파악하고도추...",
+  "\"성적으로몰아가지말라\"…장윤기수사팀장,강간살인배제지시(종합...",
+  "'미성년자성매매'혐의청주시의원압수수색…성착취물요구도(종합2보..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "담합 애경케미칼 빠듯 개선 체질 여력 현금 나섰지만"
   ]
  ],
- "last_run": "2026-07-15T14:51:06.039905+09:00",
+ "last_run": "2026-07-15T15:01:16.554888+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
