@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256150",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2428129",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2428123",
-  "https://www.sisaweek.com/news/articleView.html?idxno=236691",
-  "http://www.thebigdata.co.kr/view.php?ud=2026071417375364430a47484cf8_23",
-  "https://news.mtn.co.kr/news-detail/2026071416410664123",
-  "http://www.finomy.com/news/articleView.html?idxno=257361",
-  "https://www.tokenpost.kr/news/breaking/377621",
   "https://www.hankyung.com/article/2026071448801",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43557",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539675",
@@ -2999,17 +2991,17 @@
   "https://www.kukinews.com/article/view/kuk202607160007",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02686326645515176",
   "https://news.dealsitetv.com/articles/173357",
-  "https://view.asiae.co.kr/article/2026071608055371768"
+  "https://view.asiae.co.kr/article/2026071608055371768",
+  "https://www.etoday.co.kr/news/view/2604284",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716577",
+  "https://www.siminsori.com/news/articleView.html?idxno=400490",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425261",
+  "https://www.mk.co.kr/article/12099915",
+  "http://www.datanews.co.kr/news/article.html?no=145597",
+  "https://www.yna.co.kr/view/AKR20260716025100008?input=1195m",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607150939169120104869"
  ],
  "seen_titles": [
-  "시장삼킨단일종목레버리지…거래대금톱10중4개차지",
-  "삼성전기,25조메가투자…“영업마진20%대안착이관건”",
-  "SK하이닉스,합작법인가능해진다…호남팹속도",
-  "외신도놀란'롤러코스피'…\"삼전닉스쏠림·빚투에변동성커져\"",
-  "변동성커진SK하이닉스,실적하향…ASML실적‘촉각’",
-  "개미“떨어지면산다”…7월6거래일하락장서적극매수",
-  "영주시기업들,폭우실종자수색현장에온정이어져...",
-  "암참AI리더십위원회공식출범…“한미AI협력확대”",
   "KORPA\"삼성·SK성과급확대…자본배분왜곡우려커져\"",
   "\"국가도거대수요처…메모리호황계속\"",
   "이달국내증시시총19%'증발'…반도체피크아웃에6천조원안팎급락",
@@ -6001,7 +5993,15 @@
   "강명구,삼성전자·SK하이닉스와긴급회동…“구미투자요청”",
   "“코스피2분기영업익228조원…실적발표뒤‘서프라이즈효과’전...",
   "곽노정號,'순현금100조'조기달성…생산능력확대‘속도’",
-  "[굿모닝증시]美증시상승에도반도체는약세…韓,숨고르기전망"
+  "[굿모닝증시]美증시상승에도반도체는약세…韓,숨고르기전망",
+  "[오늘의투자전략]SK하이닉스美ADR9%급락⋯숨고르기장세전망",
+  "블룸버그\"삼전·하이닉스폭락키운건韓레버리지ETF\"…정부정책...",
+  "추미애경기도지사,삼성전자평택캠퍼스인허가속도전…반도체초격...",
+  "[뉴욕마켓워치]물가우려완화에도소외된반도체…주식·채권↑달러↓",
+  "“AI전력인프라성장성은유효”…효성중공업목표가470만→400만원",
+  "렌탈업정보보호투자온도차…코웨이35억,쿠쿠1.2억",
+  "한투증권\"SKT,본업정상화…향후실적·주가촉매는데이터센터\"",
+  "[더벨][외국계IB의귀환]관록의씨티증권,신뢰로쌓아올린'트렉레코..."
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,25 @@
   [
    "2026-07-16T08:16:54.933677+09:00",
    "반도체는 상승에도 증시 숨고르기 전망 약세"
+  ],
+  [
+   "2026-07-16T08:21:13.027437+09:00",
+   "인프라 효성중공업 성장성은 AI 목표가 전력 470만 유효 400만원"
+  ],
+  [
+   "2026-07-16T08:21:13.027437+09:00",
+   "35억 렌탈업 2억 투자 코웨이 쿠쿠 온도차 정보보호"
+  ],
+  [
+   "2026-07-16T08:21:13.027437+09:00",
+   "실적 SKT 주가 정상화 데이터센터 본업 한투증권 촉매는 향후"
+  ],
+  [
+   "2026-07-16T08:21:13.027437+09:00",
+   "관록의 씨티증권 올린 신뢰로 트렉레코 쌓아"
   ]
  ],
- "last_run": "2026-07-16T08:17:11.961052+09:00",
+ "last_run": "2026-07-16T08:21:27.719649+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
