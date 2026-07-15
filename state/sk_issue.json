@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ikbc.co.kr/article/view/kbc202607090028",
-  "http://www.ddanzi.com/889074770",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=752844",
-  "https://www.kyeonggi.com/article/20260709580062",
-  "https://www.khan.co.kr/article/202607091055001",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008649342&plink=ORI&cooper=NAVER",
   "https://www.news1.kr/society/court-prosecution/6222754",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260709.99099002668",
   "https://www.livebiz.today/news/articleView.html?idxno=203205",
@@ -2999,15 +2993,15 @@
   "https://www.huffingtonpost.kr/article/258744",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251567&CMPT_CD=P0010",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008658703&plink=ORI&cooper=NAVER",
-  "https://www.donga.com/news/Society/article/all/20260715/134302744/1"
+  "https://www.donga.com/news/Society/article/all/20260715/134302744/1",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041145",
+  "https://www.seoul.co.kr/news/society/2026/07/15/20260715500097?wlog_tag3=naver",
+  "https://www.ajunews.com/view/20260715095936677",
+  "https://www.joongang.co.kr/article/25445236",
+  "https://www.pressian.com/pages/articles/2026071511352062421",
+  "https://www.sidae.com/article/2026071510035116109"
  ],
  "seen_titles": [
-  "장동혁,한성숙총리회동취소...광주경찰청장만나장윤기사건점검",
-  "[뉴공아카이브]퍼니포:장윤기사건에‘보완수사권’재점화…검·언...",
-  "광주지법,장윤기사건증거인멸혐의경찰수사팀장구속",
-  "'수백억보험사기의혹'자생한방병원,경찰압수수색착수",
-  "경찰,‘수백억대보험사기의혹’자생한방병원압수수색",
-  "경찰,자생한방병원압수수색…'수백억원보험사기의혹'",
   "'혐중·부정선거의혹현수막'게시원외정당대표구속갈림길",
   "‘수백억보험사기의혹’자생한방병원압수수색",
   "경찰,수백억대보험사기의혹자생한방병원압수수색...4개보험사가고...",
@@ -6001,7 +5995,13 @@
   "30대국민의힘청주시의원,아동성매매·성착취물제작혐의로압수수...",
   "'채해병수사기밀누설'혐의이시원,구속갈림길...\"성실히소명하겠...",
   "\"담배사줄게\"중학생차량·모텔로불러내…현직시의원'아동성범죄...",
-  "청주시의원,여중생과수차례성매매…영상보관하다들통"
+  "청주시의원,여중생과수차례성매매…영상보관하다들통",
+  "李대통령\"부정부패신고하는게왜나쁘냐\"",
+  "경찰아동성매매혐의청주시의원압수수색",
+  "'채상병사망3주기'해병대예비역연대,군관계자추가고발...\"해병대...",
+  "청주시의원아동ㆍ청소년성범죄의혹…경찰,사무실압수수색",
+  "경찰이어검찰도광주경찰청압수수색…'부실수사의혹'연일확대",
+  "이억원\"'주가조작=패가망신'…'코리아프리미엄'전환기반마련\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "되나 오너일가 사용료 2조 브랜드 LG"
   ]
  ],
- "last_run": "2026-07-15T11:41:06.941092+09:00",
+ "last_run": "2026-07-15T11:51:02.981119+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
