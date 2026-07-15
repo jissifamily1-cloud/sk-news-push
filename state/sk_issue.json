@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648486&plink=ORI&cooper=NAVER",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008648485&plink=ORI&cooper=NAVER",
-  "https://www.joongang.co.kr/article/25443591",
-  "https://www.munhwa.com/article/11601311",
-  "http://www.gjdream.com/news/articleView.html?idxno=670859",
-  "https://www.joongang.co.kr/article/25443577",
   "https://www.kmib.co.kr/article/view.asp?arcid=1783513860&code=11131900&cp=nv",
   "https://view.asiae.co.kr/article/2026070823210529658",
   "https://www.segye.com/newsView/20260708525679?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724437",
   "https://www.cstimes.com/news/articleView.html?idxno=713494",
   "https://www.m-i.kr/news/articleView.html?idxno=1391622",
-  "https://www.newsis.com/view/NISX20260715_0003709732"
+  "https://www.newsis.com/view/NISX20260715_0003709732",
+  "https://www.fntimes.com/html/view.php?ud=202607150858227815b5b890e35c_18",
+  "https://www.mk.co.kr/article/12098887",
+  "https://www.newsis.com/view/NISX20260715_0003709745",
+  "https://www.yna.co.kr/view/AKR20260715039900064?input=1195m",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260715503&PRO_CODE=99",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251511&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "[단독]\"수사팀장이그냥두라고지시\"…수사팀장구속",
-  "[단독]차량서사라진'케이블타이'아버지집에있었다",
-  "[진중권칼럼]와이리‘무섭노’",
-  "“믿었던경찰,살인마편이었다”광주피살여고생母의말",
-  "풍비박산경찰,검찰'보완수사권'논란자초했다",
-  "사라진케이블타이는공업용…장윤기부친집에있었다",
   "장윤기父집서‘케이블타이’발견…유가족“누가경찰믿겠나”",
   "'장윤기케이블타이증거인멸혐의'…광산서수사팀장구속",
   "'장윤기사건'증거방치한수사팀장구속…유족\"진상규명하라\"분통",
@@ -6001,7 +5995,13 @@
   "대웅제약,거점도매민원일단락⋯효율·공급망논란은지속",
   "'통합대한항공'앞두고마일리지심사장기화…\"독과점우려해소해야...",
   "선관위국조'재검표'합의불발…민주\"즉각\"·국힘\"특검우선\"",
-  "[속보]청주시의원아동성매매혐의…경찰,시의회압수수색"
+  "[속보]청주시의원아동성매매혐의…경찰,시의회압수수색",
+  "김범석쿠팡의장‘동일인지정’효력정지…공정위처분제동",
+  "[속보]경찰,청주시의회압수수색…시의원아동성매매혐의",
+  "검찰,강원도청5개부서압수수색…도\"민선9기와무관\"",
+  "[1보]경찰,청주시의회압수수색…시의원아동성매매혐의",
+  "[속보]청주시의원아동성매매혐의...경찰,시의회압수수색",
+  "'증거은닉의혹'장윤기사건수사팀장구속송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카 롯데렌탈 1위 되나 주인 TPG"
   ]
  ],
- "last_run": "2026-07-15T09:01:14.242859+09:00",
+ "last_run": "2026-07-15T09:11:04.026554+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
