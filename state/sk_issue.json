@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=314868",
-  "https://www.apnews.kr/news/articleView.html?idxno=3049662",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16130261",
-  "https://www.newsis.com/view/NISX20260710_0003703671",
-  "https://www.ilyosisa.co.kr/news/article.html?no=256813",
-  "http://www.segyebiz.com/newsView/20260709521334?OutUrl=naver",
-  "https://imnews.imbc.com/newszoomin/newsinsight/6836440_29123.html",
   "http://www.sisacast.kr/news/articleView.html?idxno=97614",
   "https://www.insight.co.kr/news/562353",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538938",
@@ -2999,16 +2992,16 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659798&plink=ORI&cooper=NAVER",
   "https://www.dailian.co.kr/news/view/1667667/?sc=Naver",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/15/2026071590282.html",
-  "https://www.mk.co.kr/article/12095483"
+  "https://www.mk.co.kr/article/12095483",
+  "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260715&SEQUENCE=0127",
+  "https://www.ikbc.co.kr/article/view/kbc202607150056",
+  "https://news.jtbc.co.kr/article/NB12308502?influxDiv=NAVER",
+  "https://www.m-i.kr/news/articleView.html?idxno=1392101",
+  "https://www.khan.co.kr/article/202607152109015",
+  "https://www.khan.co.kr/article/202607152109025",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611870"
  ],
  "seen_titles": [
-  "경찰·개혁신당,정이한'테러자작극'언제알았나",
-  "[AP미디어동향7월2주]KBS,자체AI로기자업무혁신",
-  "장윤기아버지,아들수차례접견…'블랙박스'행방물었다",
-  "합수본,'투표함대치'잠실7동투표관리관소환…시선관위간부도",
-  "<단독>‘국정원블랙리스트’김태효주도의혹",
-  "경매플랫폼빗업,15일오픈…공정위권고반영한실시간경매서비스",
-  "[인싸M]재키로빈슨과배재고의'야구'‥고통과슬픔을'공부'할시간",
   "[정책포커스]정부,ESG공시제도화최종안발표...공시여건성숙을리...",
   "엄마된황하나'석방'...지인에게마약투약한혐의로'벌금4천만원,...",
   "유재성경찰청장직무대행“심려끼쳐송구”[현장영상]",
@@ -6001,7 +5994,14 @@
   "채팅앱만난중학생꼬드겨…성매매숨기고시의원당선",
   "[데일리안오늘뉴스종합]종합특검,'양평고속道노선변경의혹'관련...",
   "경찰수사발표당일검찰광주경찰청압수수색…윗선무마의혹정조준",
-  "덩치키웠는데…아워홈인수는성공?"
+  "덩치키웠는데…아워홈인수는성공?",
+  "국민의힘청주시의원전격압수수색‥아동성매매,성착취제작혐의",
+  "광주경찰장윤기봐주기의혹...검경초유의경쟁수사",
+  "'미성년자성매수'최영중시의원,출석미루고폰도미제출…경찰,4개...",
+  "종합특검,원희룡첫강제수사…휴대전화압수·출석요구",
+  "‘장윤기피해자사전인지정황’포착한광주경찰,추가수사안했다",
+  "현직청주시의원이미성년자와‘성매매’",
+  "“장윤기,피해자알았을가능성…경찰,수사안해”"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "담합 부품사 하이닉스 삼전 의혹"
   ]
  ],
- "last_run": "2026-07-15T21:11:06.839419+09:00",
+ "last_run": "2026-07-15T21:21:06.975694+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
