@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02056566645513208",
-  "http://www.techholic.co.kr/news/articleView.html?idxno=221990",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715214",
-  "https://www.sentv.co.kr/article/view/sentv202607060082",
-  "https://www.chosun.com/international/us/2026/07/10/PAAGOX6QSVE3JC6YK7ZUPOJ4OQ/",
-  "https://www.segye.com/newsView/20260709520649?OutUrl=naver",
-  "https://www.news1.kr/economy/trend/6223545",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607081513435180451",
   "https://www.news1.kr/industry/hotel-tourism/6223163",
   "https://www.segye.com/newsView/20260709524947?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.ppss.kr/news/articleView.html?idxno=302290",
   "https://www.segye.com/newsView/20260715519601?OutUrl=naver",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041416",
-  "https://www.segye.com/newsView/20260715519766?OutUrl=naver"
+  "https://www.segye.com/newsView/20260715519766?OutUrl=naver",
+  "http://www.kwangju.co.kr/article.php?aid=1784114100801306006",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030116326&code=61111111&cp=nv",
+  "https://www.sedaily.com/article/20068290",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1530822",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=858229",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=858264",
+  "https://www.hankookilbo.com/news/article/A2026071518590000123?did=NA"
  ],
  "seen_titles": [
-  "[오늘의운세]2026년7월10일별자리운세",
-  "동국제약'디펜스벅스',미승인살충제판매제한속'주목'",
-  "미승인모기약판매제한에소비자혼란…모기기피제관심확대",
-  "정부승인필요해진살충제…동국제약'디펜스벅스'주목",
-  "美의회,韓정부-쿠팡간통신기록확보…“보고서거짓으로몰면상황...",
-  "미래에셋,가상자산거래소‘코빗’품는다",
-  "\"퇴사해도경쟁사못가\"…韓근로자'이직제한'체감OECD1위",
   "1.8조과징금'폭탄'…식품업계실적초비상",
   "한국法밖의'글로벌OTA'…\"전담컨트롤타워·플랫폼규제필요\"",
   "與공정성안전장치마련했다지만…‘TF형소법개정안’뭘담았나[與...",
@@ -6001,7 +5994,14 @@
   "홈플러스파산대란에시민사회'청와대앞8차시국선언'",
   "石化구조개편안‘대산1호’…공정위,기업결합심의개시",
   "정이한부친병원'압수수색'…'선거운동동원'의혹강제수사",
-  "장윤기,범행전여고생인지정황…증거인멸‘윗선’수사"
+  "장윤기,범행전여고생인지정황…증거인멸‘윗선’수사",
+  "“장윤기사건,윗선서성범죄연관시키지말라지시했다”",
+  "[단독]공수처“수사대상인검사에게보완수사요구못받아”",
+  "경찰,‘피습자작극’정이한부친병원압수수색…직원선거운동동원...",
+  "강력팀장이\"스토킹·살인연결말라\"…윗선어디까지?",
+  "국힘소속A청주시의원,미성년자성매매의혹'충격'…경찰압수수색",
+  "풍향계/장윤기사건에서본경찰의통제방안검찰의보완수사권논쟁",
+  "검찰,삼성·하이닉스반도체부품납품외국계업체3곳압수수색"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "담합 부품사 하이닉스 삼전 의혹"
   ]
  ],
- "last_run": "2026-07-15T20:11:03.802977+09:00",
+ "last_run": "2026-07-15T20:21:09.455785+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
