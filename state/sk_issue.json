@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25443932",
-  "https://news.cpbc.co.kr/article/1174267?division=NAVER",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=827427",
   "https://www.mt.co.kr/society/2026/07/09/2026070921511761634",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2287071",
   "https://www.news1.kr/society/incident-accident/6223633",
@@ -2999,12 +2996,12 @@
   "http://www.kjdaily.com/article.php?aid=1784112241682493005",
   "https://wemakenews.co.kr/news/view.php?no=25820",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206173",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539949"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539949",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260716.22001004575",
+  "https://www.newsverse.kr/news/articleView.html?idxno=10950",
+  "https://www.donga.com/news/Society/article/all/20260715/134307255/1"
  ],
  "seen_titles": [
-  "[장혜수의뉴스터치]케이블타이의두얼굴",
-  "[시사천국]배상훈프로파일러가본'장윤기사건'전모",
-  "'엄마된'황하나,지인에마약투여혐의에도석방됐다\"벌금형,2만원...",
   "불법정치자금으로혐중현수막…내일로미래로대표구속영장기각",
   "장윤기아버지이어큰아버지도경찰…검찰유착수사",
   "'불법정치자금'내일로미래로대표구속영장기각",
@@ -6001,7 +5998,10 @@
   "“장윤기,범행전이채원양일방적인지가능성정황”",
   "'성착취물제작혐의'최영중청주시의원,하필핵심행정안전위원회배...",
   "채팅앱으로만나…최영중청주시의원,아동성매매혐의",
-  "미성년성매매·성착취물혐의…청주시의원압수수색"
+  "미성년성매매·성착취물혐의…청주시의원압수수색",
+  "李“못갚는빚적극탕감해줘야…담합시정·체납세금징수과감히”",
+  "특검,'양평고속도로노선변경의혹'원희룡압수수색",
+  "경찰,‘직원선거운동동원의혹’정이한부친병원압수수색"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "담합 부품사 하이닉스 삼전 의혹"
   ]
  ],
- "last_run": "2026-07-15T19:51:06.888968+09:00",
+ "last_run": "2026-07-15T19:59:40.566566+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
