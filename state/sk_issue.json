@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260710160800054?input=1195m",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090298.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607779",
-  "https://www.ytn.co.kr/_ln/0115_202607101912236797",
-  "https://www.newsis.com/view/NISX20260710_0003704931",
   "https://www.khan.co.kr/article/202607101928001",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260710.99099003176",
   "http://www.kwangju.co.kr/article.php?aid=1783679100801120006",
@@ -2999,14 +2994,14 @@
   "https://www.ngonews.kr/news/articleView.html?idxno=233047",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6837811_37012.html",
   "https://view.asiae.co.kr/article/2026071607453637620",
-  "https://www.segye.com/newsView/20260716504336?OutUrl=naver"
+  "https://www.segye.com/newsView/20260716504336?OutUrl=naver",
+  "https://www.banronbodo.com/news/articleView.html?idxno=32644",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=279980",
+  "https://www.ngonews.kr/news/articleView.html?idxno=233050",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/16/2026071690033.html",
+  "https://www.news1.kr/industry/general-industry/6229618"
  ],
  "seen_titles": [
-  "검찰,'장윤기유착의혹'광산경찰서추가압색…서장입건",
-  "[단독]법원행정처'공소심의회신설·檢영장지휘권삭제조항'에\"추가...",
-  "광주광산경찰서추가압수수색…경찰서장피의자입건",
-  "전광주광산서장공무상비밀누설혐의로입건",
-  "검찰,'장윤기경찰부실수사·유착'광산서2차압수수색",
   "검찰,‘장윤기부실수사’광산서장입건···서장실등압수수색",
   "검찰‘장윤기유착의혹’광산경찰서장입건",
   "광주지검,김철우광주광산경찰서장피의자로입건",
@@ -6001,10 +5996,20 @@
   "\"오버부킹으로예약취소됐는데환불만?\"…시민단체,야놀자등5개숙박...",
   "시의원'아동성매매'혐의‥신분숨기고경찰조사",
   "'채상병수사내용유출'이시원전대통령실비서관영장기각",
-  "억지로입벌려‘가짜양주’들이부어…단골받는사이숨진손님"
+  "억지로입벌려‘가짜양주’들이부어…단골받는사이숨진손님",
+  "[주간미디어동향]네이버뉴스제휴위,새평가규정시범운영7월말까...",
+  "'아동성매매'혐의최영중,경찰수사중출마...국민의힘'제명'",
+  "여성의당\"미성년자성범죄혐의최영중청주시의원즉각사퇴해야\"",
+  "'채상병수사정보누설'이시원구속면해…오늘심우정영장심사",
+  "캐피탈사'상생금융'카드에도렌터카업계,렌탈규제완화찬반팽팽"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-16T07:51:04.249312+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-16T08:01:19.091283+09:00",
+   "렌터카업계 카드에도 규제완화 찬반 캐피탈사 렌탈 팽팽 상생금융"
+  ]
+ ],
+ "last_run": "2026-07-16T08:01:25.677054+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
