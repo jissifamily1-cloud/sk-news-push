@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=871652",
-  "https://www.naeil.com/news/read/594840",
-  "https://www.bloter.net/news/articleView.html?idxno=667674",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310637",
-  "http://www.fnnews.com/news/202607091144179637",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846593",
-  "https://www.munhwa.com/article/11601472",
-  "https://imnews.imbc.com/news/2026/econo/article/6836173_36932.html",
   "https://www.delighti.co.kr/news/articleView.html?idxno=118817",
   "https://www.thepublic.kr/news/articleView.html?idxno=310650",
   "https://lawtalknews.co.kr/article/MWWE773JXMHK",
@@ -2999,17 +2991,17 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206091",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000050133",
   "https://www.ngonews.kr/news/articleView.html?idxno=232997",
-  "https://www.yna.co.kr/view/AKR20260715096900002?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260715096900002?input=1195m",
+  "https://www.segye.com/newsView/20260715512307?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260715125945Qdi",
+  "https://www.nocutnews.co.kr/news/6548488",
+  "https://www.newsis.com/view/NISI20260715_0002187335",
+  "https://www.mk.co.kr/article/12099114",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150267&t=NN",
+  "https://www.kyeonggi.com/article/20260715580138",
+  "https://www.news1.kr/local/gwangju-jeonnam/6228970"
  ],
  "seen_titles": [
-  "보험사,자생한방병원보험사기의혹조사…고소장제출및강도높은...",
-  "‘이언주합성음란물’게시기업인압수수색",
-  "[단독]최태원·김희영의티앤씨재단,SK한국고등교육재단에새둥지",
-  "대형게임사도구글수수료환급검토…집단조정확대되나",
-  "與\"경제형벌합리화로원자재담합제재\"",
-  "[유통상반기결산㊤]스타벅스'탱크데이'논란에'1.8조'담합과징금...",
-  "미래에셋가상자산시장진출…공정위,코빗인수승인",
-  "공정위,미래에셋컨설팅'코빗인수'승인‥\"경쟁제한가능성낮아\"",
   "경찰,'고객정보무단제공혐의'카카오페이본사압수수색",
   "자생한방병원,'공장제한약'으로수백억보험금꿀꺽?…강제수사나선...",
   "\"몸사진보여줘\"상대부탁에보낸신체사진,통매음처벌될까?",
@@ -6001,7 +5993,15 @@
   "\"성적으로몰아가지말라\"…장윤기수사팀장'묵살지시'확인",
   "\"성적으로몰아가지말라\"…장윤기사건'강간살해'덮으려한수사팀장",
   "중학생에게금품미끼로성관계요구의혹…청주시의원압수수색,시민...",
-  "이대통령,단일종목레버리지에\"보완대책잘신속히마련하라\""
+  "이대통령,단일종목레버리지에\"보완대책잘신속히마련하라\"",
+  "\"오버부킹일방취소\"...시민단체,5개숙박앱공정위심사청구",
+  "[현장연결]경찰청국수본,'장윤기사건'중간수사결과브리핑",
+  "'현직경찰'장윤기부친에게수사정보흘린수사팀원도입건",
+  "광주지검,'장윤기사건'광주경찰청압수수색",
+  "[단독]오송·이태원참사수사검사“대형참사마다목격한경찰의‘은...",
+  "논란커진레버리지ETF…이대통령\"빨리손봐라\"",
+  "장윤기부실수사수면위…수사팀장“성범죄연결말라는윗선지시있...",
+  "장윤기수사팀장\"윗선서스토킹·살인연결말라지시\"진술"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "되나 오너일가 사용료 2조 브랜드 LG"
   ]
  ],
- "last_run": "2026-07-15T12:50:58.504481+09:00",
+ "last_run": "2026-07-15T13:01:17.294435+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
