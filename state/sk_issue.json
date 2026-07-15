@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3008057",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260710055308mnN",
-  "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/10/20260710027006?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/politics/congress/2026/07/10/20260710001006?wlog_tag3=naver",
-  "https://www.chosun.com/national/court_law/2026/07/10/OPCN3ZYWSZED7N5UCDQ2Q4OI6E/",
-  "https://www.nocutnews.co.kr/news/6546050",
-  "https://www.newsis.com/view/NISX20260709_0003703276",
-  "https://www.ytn.co.kr/_ln/0103_202607100441365814",
-  "https://www.donga.com/news/Society/article/all/20260710/134271223/2",
-  "https://www.donga.com/news/Society/article/all/20260710/134271216/2",
   "https://www.donga.com/news/Society/article/all/20260710/134270939/2",
   "https://www.hankookilbo.com/news/article/A2026070911060003280?did=NA",
   "http://www.koreatimes.com/article/1620746",
@@ -2999,19 +2989,19 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05720326645514848",
   "https://www.jbnews.com/news/articleView.html?idxno=1507756",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611649",
-  "https://biz.chosun.com/topics/law_firm/2026/07/15/24NNANY43BG55M7MZU6272HXRA/"
+  "https://biz.chosun.com/topics/law_firm/2026/07/15/24NNANY43BG55M7MZU6272HXRA/",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260716.22006004691",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030116223&code=61121111&cp=nv",
+  "https://www.sedaily.com/article/20068286",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607151922596gO",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539934",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611705",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088702",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206178",
+  "http://www.jndn.com/article.php?aid=1784110579436173005",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611700"
  ],
  "seen_titles": [
-  "자생압수수색에한의계\"사전제조의혹,한약치료원리무시한주장\"",
-  "경찰,'수백억보험사기의혹'자생한방병원첫압수수색",
-  "[사설]보완수사권폐지가속…정부는與처분만기다리면되나",
-  "“검사는수사못한다”…마지막관문넘는與",
-  "[단독]경찰,장윤기첫수사때휴대폰통화내역조회도안했다",
-  "尹유죄확정에'구속취소'지귀연재평가?…심우정수사'주목'",
-  "경찰청장직무대행\"'장윤기사건'송구…보완수사권국회서결정\"",
-  "[현장영상+]유재성경찰청장직무대행\"이번사안의엄중함을인식하고...",
-  "그제는경찰,어제는검찰…장윤기부친앞다퉈조사",
-  "‘中에고객정보542억건유출혐의’카카오페이압수수색",
   "경찰,자생한방병원압수수색…손보사“수백억보험사기”고소",
   "'장윤기사건'미공개수사내용공개한檢...현장선\"보완수사권줘버...",
   "한인남성연루성매매조직또적발",
@@ -6001,7 +5991,17 @@
   "국힘'정이한자작극'공세에…이준석\"정치적의도개입\"",
   "국힘충북도당'미성년자성매매혐의'청주시의원제명의결",
   "“성적목적으로몰아가지말라”…수사팀장이묵살",
-  "검찰,‘삼전닉스’글로벌부품사3곳압수수색…납품가담합혐의"
+  "검찰,‘삼전닉스’글로벌부품사3곳압수수색…납품가담합혐의",
+  "정이한선거운동직원동원의혹에…父정근묵묵부답(종합)",
+  "檢,‘장윤기사건’관련광주경찰청지휘부압수수색",
+  "국민의힘,‘미성년자성매매혐의’최영중청주시의원제명의결",
+  "현직청주시의원압수수색…'아동성매매'혐의",
+  "“스토킹-살인연결말라는지시”…‘윗선개입’진술확보",
+  "검찰,‘반도체부품담합’몬타지테크놀로지등3곳압수수색",
+  "警,미성년성매매혐의최영중의원수사",
+  "[뉴스추적]계속드러나는장윤기거짓말…윗선개입여부드러날까?",
+  "장윤기강간살인정황에도강력팀장“성적으로몰지말라”",
+  "현직청주시의원,아동성매매·착취혐의수사"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "담합 부품사 하이닉스 삼전 의혹"
   ]
  ],
- "last_run": "2026-07-15T19:21:07.769746+09:00",
+ "last_run": "2026-07-15T19:31:16.897533+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
