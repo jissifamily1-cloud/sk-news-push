@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=50546",
-  "http://amenews.kr/news/view.php?idx=66881",
   "https://www.etnews.com/20260528000032",
   "https://news.mtn.co.kr/news-detail/2026052716134222897",
   "https://www.imaeil.com/page/view/2026052615202425504",
@@ -2999,11 +2997,11 @@
   "https://www.sisaon.co.kr/news/articleView.html?idxno=202704",
   "https://www.insight.co.kr/news/563115",
   "https://biz.heraldcorp.com/article/10809290",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850341"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850341",
+  "https://www.sedaily.com/article/20067858",
+  "https://dealsite.co.kr/articles/165297"
  ],
  "seen_titles": [
-  "슈나이더일렉,에노바와AI데이터센터구축협력…프리팹솔루션적용",
-  "한국지방세학회'하계학술대회'알차게준비…19~20일광주에서연다",
   "초광역경제권도약...AI·에너지등첨단기업유치숙제",
   "[프리뷰]홍정희오페라단'COREAArirang세계를울리다',한민족의서정...",
   "금속판재변형특성‘수초내예측’가능해졌다",
@@ -6001,7 +5999,9 @@
   "[단독]DJ가신권노갑-한화갑도김민석민다",
   "최태원\"SK하이닉스,美ADR상장으로인재확보·투자기회확대\"",
   "울산시,지역기업과미래성장동력협력강화",
-  "SK그룹·S-OIL·김상욱,9조2580억원투자협의"
+  "SK그룹·S-OIL·김상욱,9조2580억원투자협의",
+  "“AI투자멈추면끝”…최태원,美AI데이터센터키운다",
+  "두산,전자BG고속성장…SK실트론인수자금마련"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-07-15T09:58:34.084909+09:00",
    "김상욱 투자협의 OIL 9조2580억원"
+  ],
+  [
+   "2026-07-15T10:10:25.162700+09:00",
+   "마련 두산 인수 자금 고속 성장 전자BG SK실트론"
   ]
  ],
- "last_run": "2026-07-15T10:00:49.057921+09:00",
+ "last_run": "2026-07-15T10:10:36.920113+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
