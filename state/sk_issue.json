@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607030909216975f7ba87f45b_1",
-  "https://www.siminsori.com/news/articleView.html?idxno=400162",
-  "https://medicalworldnews.co.kr/news/view.php?idx=1510975570",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01849926645513208",
   "http://www.yonhapnewstv.co.kr/news/MYH20260710005732hDG",
   "https://www.hankyung.com/article/2026070962911",
@@ -2999,12 +2996,12 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1392099",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4095046",
   "https://www.namdonews.com/news/articleView.html?idxno=917154",
-  "https://www.news1.kr/local/busan-gyeongnam/6229553"
+  "https://www.news1.kr/local/busan-gyeongnam/6229553",
+  "https://www.dt.co.kr/article/12073162",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223583",
+  "http://www.inews24.com/view/1985905"
  ],
  "seen_titles": [
-  "중국아파트물안개냉방,한국폭염대책에도맞을까",
-  "시민사회단체,국회향해\"조속한원구성과민생법안처리\"촉구",
-  "가습기살균제피해자,치료비·대학등록금까지국가가배상",
   "쿠팡에3000억세금추징…‘정보유출사태’과징금더하면1조육박",
   "5·18단체,대한체육회에배재고선처호소",
   "[사설]규제가키운법률시장…비효율이쌓이고있다는얘기",
@@ -6001,7 +5998,10 @@
   "석화업계첫사업재편'대산1호'…공정위본심의돌입",
   "[법줘]장윤기형량줄이기에조직적동원?...경찰윗선수사",
   "장윤기'봐주기수사'의혹사실로…",
-  "'테러자작극'정이한父운영병원압수수색…직원선거운동동원의혹..."
+  "'테러자작극'정이한父운영병원압수수색…직원선거운동동원의혹...",
+  "2차특검,‘양평노선특혜의혹’원희룡압수수색…출석조율중",
+  "종합특검,원희룡전국토부장관강제수사",
+  "경찰,정이한부친운영병원압수수색…계열사직원선거동원혐의"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "담합 부품사 하이닉스 삼전 의혹"
   ]
  ],
- "last_run": "2026-07-15T19:01:20.614003+09:00",
+ "last_run": "2026-07-15T19:11:07.152538+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
