@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=1783513860&code=11131900&cp=nv",
-  "https://view.asiae.co.kr/article/2026070823210529658",
-  "https://www.segye.com/newsView/20260708525679?OutUrl=naver",
-  "https://www.mk.co.kr/article/12093864",
-  "https://www.news1.kr/society/court-prosecution/6222229",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1530029",
   "http://weekly.chosun.com/news/articleView.html?idxno=53278",
   "https://www.newdaily.co.kr/site/data/html/2026/07/08/2026070800340.html",
   "https://www.econovill.com/news/articleView.html?idxno=744681",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260715_0003709745",
   "https://www.yna.co.kr/view/AKR20260715039900064?input=1195m",
   "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260715503&PRO_CODE=99",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251511&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251511&CMPT_CD=P0010",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251285&CMPT_CD=P0010",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850363",
+  "https://www.pressian.com/pages/articles/2026071509102983841",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=858060",
+  "http://www.breaknews.com/1221760",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/15/2026071500053.html"
  ],
  "seen_titles": [
-  "장윤기父집서‘케이블타이’발견…유가족“누가경찰믿겠나”",
-  "'장윤기케이블타이증거인멸혐의'…광산서수사팀장구속",
-  "'장윤기사건'증거방치한수사팀장구속…유족\"진상규명하라\"분통",
-  "‘증거인멸’의혹...장윤기사건전수사팀장구속",
-  "대검\"檢보완수사폐지땐핑퐁·암장\"…법무부도'우려'(종합)",
-  "장윤기사건'증거인멸'의혹광산경찰서수사팀장'구속'",
   "이대통령\"주가조작은패가망신…3중그물에반드시걸린다\"",
   "'이언주합성한음란물게시'기업인,경찰압수수색받아",
   "주가조작원금몰수확대한다…미공개정보이용·부정거래까지적용",
@@ -6001,7 +5995,13 @@
   "검찰,강원도청5개부서압수수색…도\"민선9기와무관\"",
   "[1보]경찰,청주시의회압수수색…시의원아동성매매혐의",
   "[속보]청주시의원아동성매매혐의...경찰,시의회압수수색",
-  "'증거은닉의혹'장윤기사건수사팀장구속송치"
+  "'증거은닉의혹'장윤기사건수사팀장구속송치",
+  "\"매립과준설위주의새만금기본계획철회해야\"",
+  "대한체육회,20일배재고야구부징계재심의",
+  "경북경찰,안동시장측근또구속영장집행…신병확보",
+  "1보/경찰청주시의회압수수색...시의원아동성매매혐의",
+  "권익현부안군수'녹취록'부인",
+  "자수자밖으로불러긴급체포허위보고…현직경찰관불구속기소"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카 롯데렌탈 1위 되나 주인 TPG"
   ]
  ],
- "last_run": "2026-07-15T09:11:04.026554+09:00",
+ "last_run": "2026-07-15T09:21:02.783786+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
