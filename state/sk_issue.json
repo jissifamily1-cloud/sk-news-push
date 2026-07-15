@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://ilyo.co.kr/?ac=article_view&entry_id=511797",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538788",
-  "https://www.mhj21.com/news/articleView.html?idxno=253056",
-  "https://www.m-i.kr/news/articleView.html?idxno=1389918",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422314",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094166",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4094162",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577347359339",
   "https://www.etnews.com/20260709000330",
@@ -2999,15 +2993,15 @@
   "https://www.kyeonggi.com/article/20260715580366",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030115115&code=61111111&cp=nv",
   "https://www.ytn.co.kr/_ln/0134_202607151600460817",
-  "https://imnews.imbc.com/news/2026/society/article/6837661_36918.html"
+  "https://imnews.imbc.com/news/2026/society/article/6837661_36918.html",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42402",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=737124",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=203928",
+  "https://nownews.seoul.co.kr/news/newsView.php?id=20260715601021&wlog_tag3=naver",
+  "https://www.yna.co.kr/view/AKR20260715143600104?input=1195m",
+  "https://www.joongangenews.com/news/articleView.html?idxno=533188"
  ],
  "seen_titles": [
-  "“모친제압”효성‘형제의난’브로커가만든‘협박대본’전문...",
-  "경찰,‘고객정보유출혐의’카카오페이압수수색",
-  "자생한방병원,보험사기의혹압수수색에\"환자별맞춤처방철저\"",
-  "[기획]법정공시앞둔K-산업,ESG기준혼재…인프라보완시급",
-  "네이버'부동산매물정보갑질'2심시작···카카오진입봉쇄여부공...",
-  "미래에셋의가상자산거래소'코빗'인수승인…\"경쟁제한우려낮아\"",
   "시장점유율100%'솔리드웍스'판매사담합적발…과징금23억부과",
   "5개월남은대한항공·아시아나통합…'마일리지·소비자보호'최종관...",
   "미래에셋,코빗품고'디지털자산금융'판키운다",
@@ -6001,7 +5995,13 @@
   "용인아워홈끼임사고근로자,치료중사망…경찰,업무상과실치사로...",
   "국민의힘‘청주시의원미성년자성매매의혹’에“무관용제명”",
   "\"사진찍어보내라\"중학생성매매·성착취...부모신고로덜미잡힌시...",
-  "\"이런자공천?부실검증대참사\"‥아동성매매혐의'파문'"
+  "\"이런자공천?부실검증대참사\"‥아동성매매혐의'파문'",
+  "[S-이슈]쿠팡의견수렴한법원,김범석총수지정효력정지에제동…...",
+  "[2차부처보고-재경부]李\"부동산에묶인사회원시적,생산적금융전...",
+  "이랜드\"60일초과지급비율14.02%→1.17%\"...하도급공시입력오류...",
+  "“베트남호텔인데?”…방에‘말레이시아경찰서’세트장지어사기...",
+  "'400억금괴·현금은닉'인니스타검사사건,검찰이관논란",
+  "\"자생한방병원보험사기아느냐\"...李대통령질의"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "담합 애경케미칼 빠듯 개선 체질 여력 현금 나섰지만"
   ]
  ],
- "last_run": "2026-07-15T16:11:21.572880+09:00",
+ "last_run": "2026-07-15T16:21:10.702411+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
