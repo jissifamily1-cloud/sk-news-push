@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607091129498451",
-  "https://www.newsis.com/view/NISX20260709_0003702466",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273118",
-  "https://biz.sbs.co.kr/article_hub/20000321528?division=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/AKR202607091135027kB",
-  "https://www.wikitree.co.kr/articles/1145573",
-  "https://news.ifm.kr/news/articleView.html?idxno=474706",
-  "https://www.mk.co.kr/article/12094258",
-  "https://www.news1.kr/society/court-prosecution/6222206",
-  "https://www.mediawatch.kr/news/article.html?no=260327",
   "https://www.gokorea.kr/news/articleView.html?idxno=871652",
   "https://www.naeil.com/news/read/594840",
   "https://www.bloter.net/news/articleView.html?idxno=667674",
@@ -2999,19 +2989,19 @@
   "https://www.ytn.co.kr/_ln/0102_202607151229497553",
   "https://www.newsis.com/view/NISI20260715_0002187319",
   "https://biz.chosun.com/stock/finance/2026/07/15/KL7EX2PFV5DXDFUER6JHJKSXYI/",
-  "https://www.ytn.co.kr/_ln/0115_202607151226381737"
+  "https://www.ytn.co.kr/_ln/0115_202607151226381737",
+  "https://www.sejungilbo.com/news/articleView.html?idxno=59258",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379908",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379907",
+  "https://biz.heraldcorp.com/article/10809718",
+  "https://www.seoul.co.kr/news/society/2026/07/15/20260715500105?wlog_tag3=naver",
+  "https://www.newsis.com/view/NISX20260715_0003710326",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206091",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000050133",
+  "https://www.ngonews.kr/news/articleView.html?idxno=232997",
+  "https://www.yna.co.kr/view/AKR20260715096900002?input=1195m"
  ],
  "seen_titles": [
-  "'장윤기사건'에흔들린신뢰…경찰,수사쇄신TF·내부비리대구성",
-  "경찰,4천만명고객정보中넘긴카카오페이압수수색",
-  "경찰,'장윤기사건'쇄신TF신설…내부비리수사대도출범",
-  "이시각주요뉴스",
-  "NH투자증권임원이또…차명계좌주식거래로과태료2,500만원",
-  "경찰,자생한방병원압수수색…수백억원대보험사기의혹수사",
-  "경찰,고객정보유출한카카오페이본사압수수색",
-  "고객정보542억건유출한카카오페이…경찰,본사압수수색",
-  "[일지]'건진법사게이트'전성배,대법원선고까지",
-  "警,‘수백억보험사기의혹’자생한방병원압수수색착수",
   "보험사,자생한방병원보험사기의혹조사…고소장제출및강도높은...",
   "‘이언주합성음란물’게시기업인압수수색",
   "[단독]최태원·김희영의티앤씨재단,SK한국고등교육재단에새둥지",
@@ -6001,7 +5991,17 @@
   "공정위,석유화학구조조정'1호빅딜'기업결합심의개시",
   "광주경찰청압수수색중인광주지검수사관들",
   "한방병원보험사기의혹언급한李…이찬진“수사기관지원하고있다...",
-  "\"진실밝혀야할수사담당자가범행증거물은닉\"[현장영상+]"
+  "\"진실밝혀야할수사담당자가범행증거물은닉\"[현장영상+]",
+  "'김범석동일인'효력일단정지…법원,본안판결후'30일유예'준이...",
+  "검찰,'장윤기부실수사'광주경찰청압수수색",
+  "\"구속요건모두갖췄다\"…이시원전공직비서관구속기로",
+  "“우연히발견해긴급체포했다”더니…자수하러간절도범,밖으로불러...",
+  "“성적으로몰아가지마라”…‘장윤기강간살인’정황조직적묵살한...",
+  "장윤기강간살인핵심증거폐기경찰관부친,특별수사단\"입건검토\"",
+  "\"성적으로몰아가지말라\"…장윤기수사팀장'묵살지시'확인",
+  "\"성적으로몰아가지말라\"…장윤기사건'강간살해'덮으려한수사팀장",
+  "중학생에게금품미끼로성관계요구의혹…청주시의원압수수색,시민...",
+  "이대통령,단일종목레버리지에\"보완대책잘신속히마련하라\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "되나 오너일가 사용료 2조 브랜드 LG"
   ]
  ],
- "last_run": "2026-07-15T12:41:02.332648+09:00",
+ "last_run": "2026-07-15T12:50:58.504481+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
