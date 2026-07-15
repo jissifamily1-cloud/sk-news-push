@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nc.press/news/articleView.html?idxno=616488",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=58552",
   "https://www.taxtimes.co.kr/news/article.html?no=275279",
   "https://www.asiatime.co.kr/article/20260526500162",
   "https://www.mt.co.kr/stock/2026/05/26/2026052609002032276",
@@ -2999,11 +2997,11 @@
   "https://dealsite.co.kr/articles/165297",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03440726645514848",
   "http://www.metroseoul.co.kr/article/20260714500569",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/15/2026071580051.html"
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/15/2026071580051.html",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155232",
+  "https://dealsite.co.kr/articles/165239"
  ],
  "seen_titles": [
-  "“코스닥대신레버리지”…수급쏠림에‘천스닥’도위태",
-  "업스테이지바라기들...KT,카카오,SK네트웍스",
   "[증시인사이트]9000선눈앞에둔코스피…삼성전자·하이닉스덕?",
   "[특징주]일지테크,휴머노이드경량부품잠재력부각…강세",
   "일지테크,현대차북미투자확대수혜…상승여력충분[리서치알음]",
@@ -6001,7 +5999,9 @@
   "두산,전자BG고속성장…SK실트론인수자금마련",
   "SK하이닉스원주·ADR상호전환29일이후가능…가격괴리해소주목",
   "광명시박승원시장,민주당최고위원출마…\"지방의회법제정·분권형...",
-  "커피마시고쉬던호텔라운지의진화…워커힐,비스타로비에브랜드..."
+  "커피마시고쉬던호텔라운지의진화…워커힐,비스타로비에브랜드...",
+  "\"SK하이닉스,아직도저평가\"…월가목표가330달러제시",
+  "[E1저평가민낯]같은LPG,시총3배차이…SK가스에뒤진구자용회장"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-07-15T10:10:25.162700+09:00",
    "마련 두산 인수 자금 고속 성장 전자BG SK실트론"
+  ],
+  [
+   "2026-07-15T11:10:24.103408+09:00",
+   "구자용 3배 LPG 차이 같은 시총 SK가스에 뒤진 회장"
   ]
  ],
- "last_run": "2026-07-15T11:00:45.378544+09:00",
+ "last_run": "2026-07-15T11:10:35.699517+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
