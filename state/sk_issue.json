@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/thebio/2026/07/09/2026070917390326944",
-  "https://magazine.hankyung.com/business/article/202607096147b",
-  "https://www.nocutnews.co.kr/news/6545990",
-  "https://www.namdonews.com/news/articleView.html?idxno=916498",
-  "https://www.hankyung.com/article/2026070961671",
-  "https://zdnet.co.kr/view/?no=20260709175227",
-  "https://www.koscaj.com/news/articleView.html?idxno=325202",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204912",
-  "https://view.asiae.co.kr/article/2026070917591199279",
-  "https://www.ytn.co.kr/_ln/0103_202607091804383644",
   "https://www.cstimes.com/news/articleView.html?idxno=712907",
   "https://www.mk.co.kr/article/12094760",
   "https://www.news1.kr/local/gyeonggi/6223521",
@@ -2999,19 +2989,19 @@
   "https://biz.heraldcorp.com/article/10810208",
   "https://www.nocutnews.co.kr/news/6548806",
   "https://www.nocutnews.co.kr/news/6548801",
-  "https://www.newsis.com/view/NISX20260715_0003711041"
+  "https://www.newsis.com/view/NISX20260715_0003711041",
+  "http://www.joseilbo.com/news/news_read.php?uid=571993&class=17",
+  "https://bizhankook.com/articles/139298.html",
+  "https://www.ytn.co.kr/_ln/0103_202607151757229343",
+  "https://www.sisajournal.com/news/articleView.html?idxno=380026",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260715175313SV3",
+  "https://www.chosun.com/national/court_law/2026/07/15/URC5X2RZQBAPDLI2ZCQXAXHNLM/",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260715175105rEc",
+  "https://www.ytn.co.kr/_ln/0115_202607151751101430",
+  "https://www.newsis.com/view/NISX20260715_0003711063",
+  "https://www.sedaily.com/article/20068220"
  ],
  "seen_titles": [
-  "'보험금사기의혹'자생한방병원\"공장제조한약처방?사실아냐\"",
-  "'4000만명정보유출'...경찰,카카오페이압수수색",
-  "경찰,검찰에강제수사당하고시민단체에푸나?",
-  "[신간안내]안방습격한독극물33년…국가·기업이공모한'하얀죽음'",
-  "공정위,미래에셋의코빗인수승인",
-  "코빗인수승인받은미래에셋…디지털자산협업,‘제도’에달려",
-  "에너지비용,하도급대금연동제내달시행",
-  "'황당하다'는말로도부족한정이한행각…선거캠프는몰랐나",
-  "'지인에마약투약'황하나,1심서벌금형4000만원",
-  "\"대통령수사가능\"첫대법판단...공수처수사권도인정",
   "자생한방병원\"압수수색협조…과거유사의혹8건이미'혐의없음'처분...",
   "警,자생한방병원압수수색…수백억원대보험사기의혹",
   "지인2명에필로폰투약황하나,1심마약'무죄'…도피만'유죄'",
@@ -6001,7 +5991,17 @@
   "‘피습자작극’정이한수사확대…‘선거동원의혹’부친병원압수...",
   "경찰,'미성년자성매매혐의'청주시의원압수수색(종합)",
   "[속보]특검,'양평고속道의혹'원희룡압수수색…\"출석조율중\"",
-  "'피습자작극'정이한부친병원압수수색…직원동원의혹(종합)"
+  "'피습자작극'정이한부친병원압수수색…직원동원의혹(종합)",
+  "대한항공·아시아나마일리지통합늦어지나…별도운영가능성",
+  "[단독]통신3사,공공전용회선입찰담합\"정부에44억배상하라\"",
+  "검찰,'반도체부품담합의혹'업체3곳압수수색",
+  "종합특검,'양평특혜'원희룡강제수사…수사기간연장도'청신호'",
+  "브리핑직전광주경찰청압수수색…'장윤기수사'검경신경전과열양...",
+  "돈받고사설탐정에‘지명수배자정보유출’현직경찰관,재판행",
+  "[앵커리포트]브리핑직전광주경찰청압수수색…검경주도권싸움양상",
+  "경찰,최영중청주시의원아동성매매혐의압수수색",
+  "검찰,'반도체부품가격담합'몬타지·르네사스·램버스압수수색",
+  "삼성·SK공급칩담합…검찰,글로벌부품3사압수수색"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "구체화 민주당 SPC에 SK하이닉스 투자 입법 속도 서남권 외부출자"
   ]
  ],
- "last_run": "2026-07-15T17:51:09.521973+09:00",
+ "last_run": "2026-07-15T17:59:46.849568+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
