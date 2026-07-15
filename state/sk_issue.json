@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Society/article/all/20260710/134270939/2",
-  "https://www.hankookilbo.com/news/article/A2026070911060003280?did=NA",
-  "http://www.koreatimes.com/article/1620746",
-  "https://www.chosun.com/national/court_law/2026/07/10/OKYHZTSR5JFU7OTT2V3GNZBBKY/",
-  "https://www.chosun.com/national/court_law/2026/07/10/XFMSRTUUYNHCNFUBYT4EBH2LXY/",
   "https://www.chosun.com/national/incident/2026/07/10/CN7OASFECFBOVLSBVJ3GFBJZ6I/",
   "https://www.ytn.co.kr/_ln/0103_202607100019411028",
   "https://www.joongang.co.kr/article/25443937",
@@ -2999,14 +2994,14 @@
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1088702",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206178",
   "http://www.jndn.com/article.php?aid=1784110579436173005",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611700"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611700",
+  "https://www.donga.com/news/Society/article/all/20260715/134306445/1",
+  "https://news.jtbc.co.kr/article/NB12308450?influxDiv=NAVER",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088712",
+  "https://www.newspim.com/news/view/20260715001371",
+  "https://www.ytn.co.kr/_ln/0103_202607151907090447"
  ],
  "seen_titles": [
-  "경찰,자생한방병원압수수색…손보사“수백억보험사기”고소",
-  "'장윤기사건'미공개수사내용공개한檢...현장선\"보완수사권줘버...",
-  "한인남성연루성매매조직또적발",
-  "尹‘체포방해’징역7년확정",
-  "우발살인,검찰이파보니계획살인…보완수사로진실밝힌사례잇따...",
   "‘피습자작극’정이한,10년지기와공모…경찰에범행시인하고도선...",
   "경찰의실수?고의?\"'리얼돌','케이블타이',장윤기측역공빌미돼\"[...",
   "윤석열첫대법판결…’체포방해’징역7년확정",
@@ -6001,7 +5996,12 @@
   "警,미성년성매매혐의최영중의원수사",
   "[뉴스추적]계속드러나는장윤기거짓말…윗선개입여부드러날까?",
   "장윤기강간살인정황에도강력팀장“성적으로몰지말라”",
-  "현직청주시의원,아동성매매·착취혐의수사"
+  "현직청주시의원,아동성매매·착취혐의수사",
+  "특검,원희룡압수수색…‘양평고속도로백지화’수사",
+  "\"담배사줄게\"중학생성매수…국힘시의원압수수색",
+  "청주시의회개원하자마자'치욕'",
+  "검찰,'징윤기사건봐주기수사의혹'광주경찰청지휘부압수수색",
+  "장윤기,범행전피해자알았나?...'계획살인'가능성은[이슈플러스]"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "담합 부품사 하이닉스 삼전 의혹"
   ]
  ],
- "last_run": "2026-07-15T19:31:16.897533+09:00",
+ "last_run": "2026-07-15T19:41:04.495086+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
