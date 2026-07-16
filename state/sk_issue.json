@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6546743",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608428",
-  "https://www.news1.kr/local/gwangju-jeonnam/6224498",
-  "https://www.joongang.co.kr/article/25444320",
-  "https://www.ytn.co.kr/_ln/0104_202607120351484078",
-  "http://www.fnnews.com/news/202607120321095596",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653101&plink=ORI&cooper=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260712020647x83",
-  "https://www.ytn.co.kr/_ln/0103_202607120033154136",
-  "https://www.ytn.co.kr/_ln/0103_202607120032572891",
-  "https://www.gokorea.kr/news/articleView.html?idxno=871841",
   "http://weekly.chosun.com/news/articleView.html?idxno=53384",
   "https://www.sedaily.com/article/20066572",
   "http://www.bokuennews.com/news/article.html?no=281162",
@@ -2999,20 +2988,20 @@
   "https://www.busan.com/view/busan/view.php?code=2026071616513893515",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=352968",
   "http://www.inews24.com/view/1986356",
-  "https://www.newsis.com/view/NISX20260716_0003712711"
+  "https://www.newsis.com/view/NISX20260716_0003712711",
+  "https://biz.sbs.co.kr/article_hub/20000323017?division=NAVER",
+  "https://www.fntimes.com/html/view.php?ud=202607161701462432fa6b69a559_18",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1268593.html",
+  "https://www.topdaily.kr/articles/111037",
+  "https://www.cstimes.com/news/articleView.html?idxno=713814",
+  "http://www.inews24.com/view/1986272",
+  "https://www.segye.com/newsView/20260716516500?OutUrl=naver",
+  "https://www.tjb.co.kr/news05/bodo/view/id/101085",
+  "https://www.jbnews.com/news/articleView.html?idxno=1507803",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=858274",
+  "https://www.ytn.co.kr/_ln/0115_202607161701443569"
  ],
  "seen_titles": [
-  "검·경,'장윤기사건'수사지휘라인으로확대",
-  "인니반부패‘스타검사’사임…집에400억대금괴·현금",
-  "장윤기父집서발견'케이블타이'강간살해목적'빼박증거'되나",
-  "‘한국의美기업차별보고’국방수권법반영시도무산…하원규칙위...",
-  "미하원,'한국의미국기업차별보고'국방수권법반영제동",
-  "\"'쿠팡차별'국방수권법에반영못해\"미하원규칙위",
-  "미하원규칙위,'한국의미기업차별보고'NDAA반영에제동",
-  "美하원규칙위,'한국의美기업차별보고'NDAA반영에제동",
-  "경찰윗선,장윤기수사개입의혹...적용혐의변경",
-  "경찰윗선이'강간살인'적용막았나...수사단확대",
-  "장윤기사건수사비위압수수색...경찰고위층까지겨냥",
   "\"서장이장윤기강간살인적용막았다\"…수사팀진술확보",
   "“16억이라던자산이400억대?”…반부패앞장섰던‘스타검사’진실...",
   "의협한특위\"교통사고한방과잉진료방치안돼\"…수사촉구",
@@ -6001,7 +5990,18 @@
   "'미성년자성매매'최영중청주시의회의원,'개인사정'사유로사직서...",
   "민주노총충북본부\"최영중제명·김진모사퇴\"촉구",
   "아동성범죄혐의최영중청주시의원‘자진사퇴’",
-  "특검\"김건희조사,19→21일연기\"…金측\"확정아냐\"(종합)"
+  "특검\"김건희조사,19→21일연기\"…金측\"확정아냐\"(종합)",
+  "사조,푸른그룹과'분리'…공정위규제도빠질까[기업백브리핑]",
+  "포스코그룹,공정위와협력사‘상생생태계’구축",
+  "국가안전보장회의상임위개최…한미통상·안보현안점검",
+  "[TOP'sPick][중후장대]한화솔루션,美벤처투자펀드매각…유상증자...",
+  "포스코,공정위와상생협약…5300개협력사지원",
+  "법사소위,보완수사권폐지전제...'요구권'실질화방점",
+  "北청년들,‘폭군의셰프’몰래보다체포됐다…친구밀고로덜미",
+  "충남청,전교조충남지부압수수색..\"교육감선거개입의혹\"",
+  "민주당충북도당청년위'미성년자성범죄혐의'최영중사퇴촉구",
+  "충남경찰,전교조충남지부압색…공직선거법위반혐의수사",
+  "'테러자작극'정이한구속송치...남은수사는?"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T17:01:18.205952+09:00",
+ "last_run": "2026-07-16T17:11:06.288039+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
