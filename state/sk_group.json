@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dynews.co.kr/news/articleView.html?idxno=858189",
-  "https://www.newsis.com/view/NISX20260715_0003710874",
-  "https://hbnpress.com/news/view/1065597643182389",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=660497",
-  "https://www.slist.kr/news/articleView.html?idxno=752010",
-  "https://www.dailian.co.kr/news/view/1667553/?sc=Naver",
   "https://www.news1.kr/local/daegu-gyeongbuk/6229279",
   "https://www.donga.com/news/Economy/article/all/20260715/134305164/1",
   "http://www.newsprime.co.kr/news/article.html?no=740470",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260716000779",
   "https://www.electimes.com/news/articleView.html?idxno=370372",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613302",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=306591"
+  "https://www.fetv.co.kr/news/articleView.html?idxno=306591",
+  "https://www.nocutnews.co.kr/news/6548698",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251662&CMPT_CD=P0010",
+  "https://www.etoday.co.kr/news/view/2604702",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=83749",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040918",
+  "https://www.yna.co.kr/view/AKR20260716082100008?input=1195m"
  ],
  "seen_titles": [
-  "外人또순매수,코스피'급등'...반도체주·한국금융지주'껑충'",
-  "[통하는충남]박수현지사“道재정상황엄중하나,이역시도내책임...",
-  "걷는이의축복코리아둘레길,7000km완보가준치유",
-  "기업단기자금유입에5월통화량32조↑...9개월만에최대폭증가",
-  "美물가꺾이자세계증시안도…코스피장중6%급등",
-  "[기획]레버리지ETF상장후거래대금11조원증가…증권사만'수수료...",
   "China’sChipChampiontoRaiseBillionsinRaceforA.I.Control",
   "충남도,'202조첨단산업투자'신속지원…삼성·SK와협력체계가동",
   "롯데그룹회장신동빈의'실속형'AI전략:사업화앞서채용·생산·물...",
@@ -6001,7 +5995,13 @@
   "[중국D램CXMT해부]⑧시총4조위안초낙관론,상장후가치평가",
   "'5600억'배전망ESSPCS시장…HD현대플라스포·효성重양분",
   "84점청약만점통장어디서등장?아파트분양전수분석",
-  "코빗리서치\"RWA무기한선물급성장...국내자산거래규제공백대비..."
+  "코빗리서치\"RWA무기한선물급성장...국내자산거래규제공백대비...",
+  "김상욱울산시장,SK·에쓰오일본사방문…투자협력논의",
+  "김상욱울산시장,SK·S-OIL본사찾아'메가프로젝트'후속논의",
+  "뉴욕증시,반도체매도세에하락…나스닥1.47%↓[상보]",
+  "AI반도체주차익실현에뉴욕증시하락-나스닥1.47%밀려",
+  "이통3사,정보보호총력...정재헌'1100억',박윤영'자문위',홍범식'C...",
+  "하반기신용등급,업종별온도차커진다…관건은\"기업체력\""
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,17 @@
   [
    "2026-07-17T07:11:08.368492+09:00",
    "RWA 무기한 급성장 거래 공백 선물 규제 대비 국내 리서치 코빗 자산"
+  ],
+  [
+   "2026-07-17T07:13:33.333317+09:00",
+   "1100억 자문위 정재헌 정보보호 박윤영 이통3사 홍범식 총력"
+  ],
+  [
+   "2026-07-17T07:13:33.333317+09:00",
+   "체력 온도차 업종별 커진다 신용등급 기업 하반기 관건은"
   ]
  ],
- "last_run": "2026-07-17T07:11:51.368162+09:00",
+ "last_run": "2026-07-17T07:13:42.390937+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
