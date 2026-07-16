@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=153116",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255762",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255778",
-  "http://www.marketnews.co.kr/news/articleView.html?idxno=74199",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=254056",
-  "https://www.ytn.co.kr/_ln/0134_202607031709306062",
   "https://www.gukjenews.com/news/articleView.html?idxno=3625762",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2425896",
   "https://www.mk.co.kr/article/12090122",
@@ -2999,15 +2993,15 @@
   "http://www.inews24.com/view/1986362",
   "https://www.dynews.co.kr/news/articleView.html?idxno=858273",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442542",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7174410"
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7174410",
+  "https://www.news2day.co.kr/article/20260716500227",
+  "https://www.news1.kr/local/gwangju-jeonnam/6230823",
+  "https://www.news2day.co.kr/article/20260716500222",
+  "https://news.tf.co.kr/read/economy/2344303.htm",
+  "https://www.ddaily.co.kr/page/view/2026071615322476842",
+  "https://www.ytn.co.kr/_ln/0134_202607161656547060"
  ],
  "seen_titles": [
-  "나주시,'민선9기첫정기인사'...성과중심조직개편",
-  "박정완이미인대표,'2026대한민국중소기업인대회'서중기부장관표...",
-  "삼성60조원·SK140조원투입...영남권,'AI허브'탈바꿈",
-  "[이준희만평]검은목요일,2개월동안의일장춘몽(一場春夢)?",
-  "정점식,자신이찬성한반기업적상법무기로호남반도체발목",
-  "삼성·SK·한화,전국에수백조대규모투자한다!",
   "[A주간서머리]경제·산업계\"삼성·SK,역대급투자발표...법원,홈플...",
   "\"표정은거짓말못한다\"...최태원회장언급한이진숙의원[Y녹취록]",
   "안광률민주당대표의원,매탄초방문해교육현안청취…학생들과함께...",
@@ -6001,21 +5995,15 @@
   "한국이어일본찾은젠슨황…피지컬AI동맹확대",
   "\"또다시신기록\"...올해충북상반기수출219억2천만달러'역대최대'",
   "[인사]의정부시,부산시,충남당진시외",
-  "[조하현교수칼럼]호남반도체클러스터의비현실성"
+  "[조하현교수칼럼]호남반도체클러스터의비현실성",
+  "기업이원하는것은규제가아닌예측가능성...조정식국회의장이던진...",
+  "[인사]전남광주통합특별시여수시",
+  "[오늘의인사:7월16일]KBS·오늘경제·서울대병원·연세대학교의료...",
+  "최태원,제주청년기업인응원…\"사회적가치만드는기업아름다워\"",
+  "최태원\"SK하이닉스인수당시모두반대…임직원이옳았음을증명\"",
+  "레버리지에ADR까지몸통흔든다...삼전이ADR안하는이유[몇층이세요..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-16T11:00:37.427676+09:00",
-   "그것 검토한다는 SK하이닉스도 매일뭐니머니 액면분할 주식 하나요"
-  ],
-  [
-   "2026-07-16T11:00:37.427676+09:00",
-   "것들 변동성에 극심한 생각할 하이닉스 빼고 싶을 몇층 지쳤다"
-  ],
-  [
-   "2026-07-16T11:10:24.038276+09:00",
-   "훈수만 어디에 기업 가득한 반도체 목소리는 업계"
-  ],
   [
    "2026-07-16T11:40:25.273944+09:00",
    "소회 모두가 SK하이닉스 의문 회장 제기했지만 인수 14년"
@@ -6095,9 +6083,13 @@
   [
    "2026-07-16T17:00:37.060529+09:00",
    "비현실성 반도체 클러스터의 호남"
+  ],
+  [
+   "2026-07-16T17:10:26.025174+09:00",
+   "흔든다 ADR 삼전이 몸통 ADR까지 레버리지에 몇층이세요 이유 하는"
   ]
  ],
- "last_run": "2026-07-16T17:00:48.549505+09:00",
+ "last_run": "2026-07-16T17:10:38.620814+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
