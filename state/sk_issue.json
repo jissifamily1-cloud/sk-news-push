@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsen.com/news_view.php?uid=202607120900406710",
-  "https://www.ize.co.kr/news/articleView.html?idxno=78755",
-  "https://view.asiae.co.kr/article/2026071209400463059",
-  "http://www.joynews24.com/view/1984665",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=279822",
-  "https://www.newsis.com/view/NISX20260712_0003705503",
   "https://www.newsis.com/view/NISX20260710_0003704534",
   "https://www.yna.co.kr/view/AKR20260710136400064?input=1195m",
   "https://www.ytn.co.kr/_ln/0115_202607120957087798",
@@ -2999,15 +2993,15 @@
   "https://www.sentv.co.kr/article/view/sentv202607150144",
   "https://www.mk.co.kr/article/12100524",
   "http://www.joseilbo.com/news/news_read.php?uid=572102&class=32",
-  "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026071600063&story_seq=0&soCode=114&socttSn=NS2026071600063&socttSeq=0"
+  "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026071600063&story_seq=0&soCode=114&socttSn=NS2026071600063&socttSeq=0",
+  "https://www.mk.co.kr/article/12100547",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05267686645515176",
+  "https://www.newsis.com/view/NISX20260716_0003712900",
+  "https://www.hankookilbo.com/news/article/A2026071615470001134?did=NA",
+  "https://www.ytn.co.kr/_ln/0101_202607161750123805",
+  "http://news.lghellovision.net/news/articleView.html?idxno=548689"
  ],
  "seen_titles": [
-  "‘아파트’지성,‘김부장’소지섭엔졌지만‥비지상파1위출발",
-  "지성의'아파트','신입사원강회장'보다높은첫방4.6%출발[종합]",
-  "'반부패스타검사'집에서400억금괴·현금…인니'발칵'",
-  "지성'아파트','김부장'벽높았다⋯시청률4.6%로출발",
-  "장윤기‘봐주기수사’윗선지시증언…경찰지휘부압수수색",
-  "이준석,정이한배후설제기…\"모후보캠프에서이상한제안?사실이면...",
   "빗장열린'금가융합'시대…미래에셋+코빗다음'네이버+두나무'는?",
   "이강일선거앱계정확보한경찰…'선거법위반'수사향배는",
   "지휘라인압수물분석...'강간살인'입증주목",
@@ -6001,7 +5995,13 @@
   "롯데렌탈새주인TPG되나…이달말윤곽관측",
   "靑,강경화불러NSC회의…쿠팡문제·대미투자논의",
   "'내란가담·尹석방지휘'심우정전총장구속기로...전대검기조부...",
-  "'미성년자성범죄'최영중시의원,의원직사퇴"
+  "'미성년자성범죄'최영중시의원,의원직사퇴",
+  "포스코,2·3차협력사전폭지원나서",
+  "‘아동성매매혐의’최영중청주시의원,사직서제출",
+  "'여중생성매매'청주시의원,수사시작후휴대폰교체(종합)",
+  "[단독]심우정검찰총장계엄이미알고있었다?...종합특검\"김민석의...",
+  "경찰,국회에보완수사요구권실질화방안제시",
+  "[다시보기]헬로tv뉴스충남2026년7월16일"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-07-16T15:01:14.765621+09:00",
    "행정소송 KT 5G 속도 패소 과장광고"
+  ],
+  [
+   "2026-07-16T18:01:15.504883+09:00",
+   "헬로tv뉴스 16일 7월 2026년 충남"
   ]
  ],
- "last_run": "2026-07-16T17:51:08.134399+09:00",
+ "last_run": "2026-07-16T18:01:23.926401+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6046,6 +6050,7 @@
   "kookje.co.kr": "국제신문",
   "sateconomy.co.kr": "sateconomy.co.kr",
   "sentv.co.kr": "(주) 서울경제티브이",
-  "joongangenews.com": "중앙이코노미뉴스"
+  "joongangenews.com": "중앙이코노미뉴스",
+  "news.lghellovision.net": "LG헬로비전"
  }
 }
