@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsen.com/news_view.php?uid=202607110749242110",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61451",
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19481",
-  "https://www.ikbc.co.kr/article/view/kbc202607110006",
-  "https://www.ytn.co.kr/_ln/0101_202607110817469115",
-  "https://www.kgnews.co.kr/news/article.html?no=903466",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01823686645513536",
-  "https://www.wikitree.co.kr/articles/1145903",
-  "http://weekly.chosun.com/news/articleView.html?idxno=53369",
-  "https://biz.heraldcorp.com/article/10805475",
   "https://www.thepublic.kr/news/articleView.html?idxno=310889",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190004.html",
   "https://news.jtbc.co.kr/article/NB12306947?influxDiv=NAVER",
@@ -2999,19 +2989,19 @@
   "https://www.idaegu.co.kr/news/articleView.html?idxno=554050",
   "https://news.tf.co.kr/read/life/2344042.htm",
   "https://www.m-i.kr/news/articleView.html?idxno=1392250",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=785614"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=785614",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03768726645515176",
+  "http://www.nongaek.com/news/articleView.html?idxno=96024",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206306",
+  "https://www.busan.com/view/busan/view.php?code=2026071611043607016",
+  "https://www.jejudomin.co.kr/news/articleView.html?idxno=320683",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=242594",
+  "https://news.jtbc.co.kr/article/NB12308581?influxDiv=NAVER",
+  "https://www.yna.co.kr/view/AKR20260716086300056?input=1195m",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3008504",
+  "https://www.news1.kr/society/court-prosecution/6230159"
  ],
  "seen_titles": [
-  "박나래검찰송치→주사이모는수술대에“난치병투병,전신마취보다...",
-  "공정위권고반영,\"10원으로고급스피커도?\"…실시간경매플랫폼'빗...",
-  "업무상횡령,회삿돈메워도끝나지않는다…핵심은불법영득의사시점",
-  "알맹이빠진경찰첫해명…광산경찰서장등3명입건",
-  "\"적정보유세는얼마?\"대통령이던진질문...여야내홍격화",
-  "尹정부외교안보실세김태효구속…\"증거인멸염려\"",
-  "사라진케이블타이가장윤기부친집에…고개숙인경찰[사사건건]",
-  "장윤기(광주여고생살해범)사건이어서...또은폐의혹터졌다",
-  "장윤기부친휴대폰서녹음파일'싹삭제'…수사정보유출의혹확산",
-  "“계엄,민주주의수호조치”미국알린김태효결국‘내란가담’혐의...",
   "배스킨라빈스점주들\"핑크스푼구매강제\"...비알코리아공정위신고·...",
   "\"美등에계엄정당화홍보\"김태효국가안보실차장구속",
   "[인터뷰]기현\"몬엑멤버들'쏘굿'듣자마자'이거다!'추천\"",
@@ -6001,7 +5991,17 @@
   "국힘,'2차종합특검연장법'본회의상정시필리버스터돌입…\"성과없...",
   "'통일교1억'권성동징역2년확정…의원직상실",
   "'통일교1억수수'권성동,징역2년·1억추징확정…의원직상실",
-  "[위클리오늘]권성동'통일교불법정치자금1억원'징역2년확정…의..."
+  "[위클리오늘]권성동'통일교불법정치자금1억원'징역2년확정…의...",
+  "생명보험재단,AI로그린2040년'AI드로잉리그'수상작발표",
+  "[아키타입(Archetype)사자성어경영학](91)우공이산(愚公移山)-ESG경영을...",
+  "'정이한'겪은이준석\"'아동성매매시의원'공세안해…국힘몰랐을것...",
+  "이준석\"아동성매매한청주시의원…'전혀몰랐다'는국힘해명믿어...",
+  "제주경찰,'지게차사망사고'하귀농협하나로마트압수수색",
+  "금융위원장\"단일종목레버리지보완방안조만간발표\"...'책임론'엔원...",
+  "'피습자작극'정이한검찰송치...\"성실히수사·재판받겠다\"",
+  "제주경찰,지게차사망사고발생한달만에압수수색",
+  "자보한방진료비60%돌파...보험사기논란개선요구확산",
+  "[일지]'1억수수'권성동,통일교접촉부터의원직상실까지"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 카드에도 규제완화 찬반 캐피탈사 렌탈 팽팽 상생금융"
   ]
  ],
- "last_run": "2026-07-16T11:11:06.157878+09:00",
+ "last_run": "2026-07-16T11:21:01.671393+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
