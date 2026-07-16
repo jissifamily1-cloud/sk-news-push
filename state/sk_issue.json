@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190120.html",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190122.html",
-  "https://www.hankookilbo.com/news/article/A2026071118430003810?did=NA",
-  "https://www.yna.co.kr/view/AKR20260711046600084?input=1195m",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205318",
-  "https://www.hankyung.com/article/2026071193757",
-  "https://www.ytn.co.kr/_ln/0104_202607111930197042",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205308",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205319",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607110296&t=NN",
   "https://www.kukinews.com/article/view/kuk202607110027",
@@ -2999,17 +2991,17 @@
   "http://www.srtimes.kr/news/articleView.html?idxno=207713",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600089.html",
   "https://www.ytn.co.kr/_ln/0115_202607161602379754",
-  "https://www.yna.co.kr/view/AKR20260716142200064?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260716142200064?input=1195m",
+  "https://biz.heraldcorp.com/article/10811469",
+  "https://www.dailian.co.kr/news/view/1668048/?sc=Naver",
+  "http://www.breaknews.com/1222284",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442520",
+  "https://www.huffingtonpost.kr/article/258794",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260716510&PRO_CODE=99",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=352953",
+  "http://www.mkhealth.co.kr/news/articleView.html?idxno=79295"
  ],
  "seen_titles": [
-  "[포커스]배재고재심신청향후절차는…대학·프로진출기회열릴까...",
-  "\"범행전후영상만사라져\"…정이한아버지병원강제수사'초읽기'",
-  "장윤기사건부실수사,윗선지시있었나…광산서장·광주청장실압수...",
-  "인니반부패'스타검사'사임…집에400억대금괴·현금",
-  "7월11일MBN뉴스센터주요뉴스",
-  "금고열자395억쏟아졌다…'스타검사'의추락",
-  "집에서400억대금괴·현금...인니'반부패스타검사'의반전사임",
-  "경찰특수단,당시지휘부전격압수수색…장윤기수사확대",
   "[단독]장윤기부친증거인멸고의성부인…\"정리하려한것뿐\"",
   "반부패'스타검사'집덮쳤더니…금괴·현금200억'와르르'",
   "장윤기‘봐주기수사’의혹…경찰지휘부압수수색",
@@ -6001,7 +5993,15 @@
   "금융권디지털자산'3색투자'…시장지위가갈랐다",
   "통합대한항공출범까지5개월,9부능선넘었다",
   "장윤기사건형사과장사전구속영장...팀원피의자조사",
-  "'폰셀프제출'약속을믿다니…미성년자성매매늑장수사논란"
+  "'폰셀프제출'약속을믿다니…미성년자성매매늑장수사논란",
+  "“포스코덕에생산성‘쑥’”…포스코그룹,협력사상생으로지속가...",
+  "포스코그룹,공정위와협력사5300곳상생생태계구축",
+  "포스코,공정위와상생협약…2·3차협력사까지지원확대",
+  "이재명도언급한'한방병원보험사기'의혹,손보업계숙원'8주룰'도...",
+  "권성동이퇴장했다:친이·친윤거치며17년권력누렸으나'통일교1억...",
+  "[속보][단독]'미성년성매매'최영중청주시의원의원사직서제출",
+  "성매매의혹으로언론장식한청주시의회",
+  "[자생한방병원]②성장할수록커진책임…논란의중심에선자생,남겨..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T16:11:04.592572+09:00",
+ "last_run": "2026-07-16T16:21:11.499009+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
