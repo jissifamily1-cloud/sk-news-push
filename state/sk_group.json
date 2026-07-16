@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150355&t=NN",
-  "http://www.inews24.com/view/1985859",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659424&plink=ORI&cooper=NAVER",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=436670",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307245&inflow=N",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260715.99099004457",
-  "https://www.etoday.co.kr/news/view/2604139",
   "https://mhnse.com/news/articleView.html?idxno=1463344",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=250275",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=899063",
@@ -2999,16 +2992,16 @@
   "https://biz.chosun.com/it-science/ict/2026/07/17/ROS76M7ZFBCGLMBXBUNXNPPZAM/",
   "https://magazine.hankyung.com/business/article/202607170557b",
   "http://www.fnnews.com/news/202607170210390175",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160351&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160351&t=NN",
+  "https://www.mt.co.kr/world/2026/07/17/2026071706002989696",
+  "http://www.beyondpost.co.kr/view.php?ud=2026071706005131202aaae0046f_30",
+  "https://www.fntimes.com/html/view.php?ud=202607161649061399c1c16452b0_18",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82430",
+  "https://www.bloter.net/news/articleView.html?idxno=668313",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425566",
+  "https://www.mk.co.kr/article/12100839"
  ],
  "seen_titles": [
-  "[특징주]삼성증권,증시급등에11만원돌파…증권주동반강세",
-  "반도체급등에되살아난투심…'7천피'탈환코스피,재도약하나(종합)",
-  "변우석미공개사진풀렸다…SK매직,7월한달간포토카드증정'앙코르...",
-  "CXMT상장기대감에…수익률상위10개중7개가'차이나테마ETF'",
-  "코스피,반도체랠리에6%대급등…7000피탈환",
-  "KOSPIclosesnears7,300asSKhynixADRsurgeboostsinvestorsentimen",
-  "SK에코플랜트,AI·반도체스타트업6곳선정…공동연구개발연계추진",
   "충남도,202조원첨단산업투자속도높인다",
   "SK이노,에너지·사회문제해결할청년창업팀10곳육성",
   "\"삼전·하닉ETF손봐라\"…이대통령,'사람살리는금융'힘실어",
@@ -6001,7 +5994,14 @@
   "[3040엔지니어]“AI시대엔공정도매세대새로운도전”…이도엽어...",
   "[신간]KSSB법정공시전환실무서출간…기업대응전략제시",
   "\"5000만원예상했는데\"...'기존투자자못막는다'회의론확산[레버리...",
-  "반도체株흔드는'AI전쟁'의중간결말[B급기자의B급리포트]"
+  "반도체株흔드는'AI전쟁'의중간결말[B급기자의B급리포트]",
+  "또반도체투자회의론…SK하이닉스ADR13%급락[뉴욕마감]",
+  "단일종목레버리지ETF예탁금,3천만원상향조정...8월5일부터시행예...",
+  "자기지능을가진나라와못가진나라,'초격차'가시작되다[전명산의...",
+  "AI반도체주급락뉴욕증시하락…유가·금리부담까지겹쳐",
+  "美대표한국ETF에사상최대자금유입…SK하이닉스효과",
+  "[뉴욕증시]반도체에호재가없네…필리4.3%급락",
+  "반도체SOX지수4%대급락에나스닥1.47%↓[월가월부]"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,33 @@
   [
    "2026-07-17T06:04:37.020864+09:00",
    "반도체 흔드는 결말 중간 전쟁 AI"
+  ],
+  [
+   "2026-07-17T06:11:05.619562+09:00",
+   "레버리지ETF 5일부터 상향 조정 예탁금 단일종목 3천만원 8월 시행"
+  ],
+  [
+   "2026-07-17T06:11:05.619562+09:00",
+   "나라와 나라 자기 지능을 시작되다 전명산의 가진 초격차"
+  ],
+  [
+   "2026-07-17T06:11:05.619562+09:00",
+   "유가 급락 겹쳐 반도체주 부담까지 하락 AI 금리 뉴욕증시"
+  ],
+  [
+   "2026-07-17T06:11:05.619562+09:00",
+   "자금 유입 대표 사상 효과 SK하이닉스 한국 ETF에"
+  ],
+  [
+   "2026-07-17T06:11:05.619562+09:00",
+   "급락 필리 호재가 반도체에 없네"
+  ],
+  [
+   "2026-07-17T06:11:05.619562+09:00",
+   "나스닥 급락에 반도체 SOX지수"
   ]
  ],
- "last_run": "2026-07-17T06:05:06.916283+09:00",
+ "last_run": "2026-07-17T06:11:24.872363+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
