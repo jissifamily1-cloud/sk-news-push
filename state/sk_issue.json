@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202607121355085372",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/511226",
-  "https://www.ytn.co.kr/_ln/0115_202607121401561141",
-  "https://news.jtbc.co.kr/article/NB12307831?influxDiv=NAVER",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=64342",
   "https://www.bloter.net/news/articleView.html?idxno=667871",
   "https://www.public25.com/news/articleView.html?idxno=50468",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653592&plink=ORI&cooper=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.kyeonggi.com/article/20260716580531",
   "https://www.newspim.com/news/view/20260716001208",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2288510",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540171"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540171",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041747",
+  "https://jejumbc.com/NewsArticle/851380",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260716035&PRO_CODE=4",
+  "https://www.seoul.co.kr/news/society/2026/07/16/20260716500267?wlog_tag3=naver",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6838040_37004.html"
  ],
  "seen_titles": [
-  "공정위,성형외과3곳제재...후기인척'뒷광고'",
-  "'아파트'지성,첫방송부터제대로'판'깔았다…최고6.3%",
-  "형사과장소환·압수물분석...'강간살인'입증주목",
-  "대법원,검찰보완수사권폐지에\"부작용보완책필요\"",
-  "광산서,경찰청개청이래최대수사비리발원지떠오르며사태'일파만...",
   "1조과징금에도...전분당3사,신용도영향제한적인이유",
   "'후기인척하며뒷광고'...성형외과3곳공정위제재",
   "대법,보완수사권폐지에첫의견…\"부작용막을보완책도필요\"",
@@ -6001,19 +5996,20 @@
   "공수처,인천해경압수수색…‘서해피격위증의혹’수사본격화",
   "'미성년자성매매혐의'최영중청주시의원,취임15일만에사퇴",
   "'미성년자성매매혐의'최영중청주시의원사직서수리…취임15일만",
-  "고소4개월지나압수수색…경찰늑장수사논란"
+  "고소4개월지나압수수색…경찰늑장수사논란",
+  "공수처,'서해피격위증의혹'박상춘전해경청장압수수색",
+  "한달만에압수수색‥지게차사고수사본격화",
+  "'미성년자성매수혐의'최영중청주시의원사직",
+  "AI로만든‘가짜카톡’에피해자가피고인으로…억울함풀어준검사",
+  "'미성년성매매'혐의청주시의원사퇴‥경찰'늑장수사'비판도"
  ],
  "recent_sigs": [
-  [
-   "2026-07-16T15:01:14.765621+09:00",
-   "행정소송 KT 5G 속도 패소 과장광고"
-  ],
   [
    "2026-07-16T18:01:15.504883+09:00",
    "헬로tv뉴스 16일 7월 2026년 충남"
   ]
  ],
- "last_run": "2026-07-16T20:51:05.391796+09:00",
+ "last_run": "2026-07-16T21:01:27.890906+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
