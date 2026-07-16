@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34413",
-  "https://www.newsis.com/view/NISX20260710_0003704902",
-  "https://www.etoday.co.kr/news/view/2602718",
-  "https://www.news1.kr/politics/assembly/6225170",
   "https://www.thepublic.kr/news/articleView.html?idxno=310973",
   "https://www.etoday.co.kr/news/view/2602724",
   "https://www.newsis.com/view/NISX20260710_0003704774",
@@ -2999,13 +2995,13 @@
   "https://www.ccdailynews.com/news/articleView.html?idxno=2428577",
   "https://view.asiae.co.kr/article/2026071617160566025",
   "https://www.news1.kr/local/gwangju-jeonnam/6230828",
-  "https://www.donga.com/news/Society/article/all/20260716/134311038/1"
+  "https://www.donga.com/news/Society/article/all/20260716/134311038/1",
+  "https://www.m-economynews.com/news/article.html?no=68809",
+  "https://www.chosun.com/politics/politics_general/2026/07/16/PYNIG7WDFFGGJJU3RSD54BUXZM/",
+  "https://www.newsis.com/view/NISX20260716_0003712870",
+  "http://www.fnnews.com/news/202607161549036887"
  ],
  "seen_titles": [
-  "[기획]노동자에게사고책임전가한택배사들…공정위,5개사에30억과...",
-  "'형소법개정안'뜯어보니…이제검찰수사관은뭐하지?'빈틈'",
-  "'한국의미국기업차별보고'NDAA수정안,본회의심의대상서제외",
-  "이준석,'정이한자작테러'\"국민의힘이접근(?)…사실이면끝장\"",
   "\"경찰이덮으면누가다시수사하나\"…보완수사권폐지논쟁격화",
   "[정부주요일정]경제·사회부처주간일정(7월13일~7월17일)",
   "정유4사'14조담합'발표한검찰…공정위는신중모드",
@@ -6001,7 +5997,11 @@
   "미성년자성매매혐의청주시의원사직",
   "'미성년자성매매'혐의최영중시의원,휴대폰제출미뤄압수수색",
   "무기수첫재심'무죄'김신혜씨항소심…원심변호인\"처음부터무죄...",
-  "‘여중생성매매’청주시의원휴대폰포렌식…‘성착취물’흔적찾는..."
+  "‘여중생성매매’청주시의원휴대폰포렌식…‘성착취물’흔적찾는...",
+  "\"산지는폭락인데?...농산물유통구조더는미룰수없다”",
+  "靑NSC열어한미현안논의...강경화대사·공정위까지참석",
+  "AI조작증거로고소인무고기소…검찰,재판중공소취소",
+  "경찰이르면내주자생한방소환...불송치8건도확인"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T17:33:08.764694+09:00",
+ "last_run": "2026-07-16T17:41:07.642042+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
