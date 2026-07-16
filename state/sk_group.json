@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bigtanews.co.kr/article/view/big202607150009",
-  "https://www.hidomin.com/news/articleView.html?idxno=713446",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47326",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659570&plink=ORI&cooper=NAVER",
   "https://www.jbnews.com/news/articleView.html?idxno=1507735",
   "https://daily.hankooki.com/news/articleView.html?idxno=1386383",
@@ -2999,12 +2996,12 @@
   "https://www.sentv.co.kr/article/view/sentv202607160155",
   "https://dealsite.co.kr/articles/165241",
   "https://www.hankyung.com/article/2026071601511",
-  "https://biz.heraldcorp.com/article/10811751"
+  "https://biz.heraldcorp.com/article/10811751",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170106&t=NN",
+  "https://www.news1.kr/it-science/cc-newmedia/6230689",
+  "https://www.ajunews.com/view/20260716143037907"
  ],
  "seen_titles": [
-  "SK,신규자금1.4조투입해협력사R&D지원",
-  "반도체부터통신·건설까지,SK7개계열사가동시에움직인이유",
-  "SK,대금지급개선·1.4조원지원...협력사와상생협약",
   "[WhoIs?]장용호SK대표이사사장겸SK이노베이션대표이사총괄사장",
   "SKAICommitteeHostsUNITE2026inSiliconValley,UnveilsExpandedGl",
   "[기후경쟁력포럼]'2026기후경쟁력포럼'성황리마무리,행사빛내주신...",
@@ -6001,7 +5998,10 @@
   "‘300만닉스’첫칸맞췄다…SK하이닉스,TSMC훈풍에도엇갈린전망",
   "[오늘의딜PICK][영상]성과급상한선깬최태원의결단,재계노사협...",
   "투자인플루언서된반도체엔지니어\"기술보다병목읽어야\"",
-  "정부·여당실책때리는데안먹히는국힘,타개책있나[이런정치]"
+  "정부·여당실책때리는데안먹히는국힘,타개책있나[이런정치]",
+  "개미들,주가급락에도\"사자\"...한달간7조원흡수",
+  "\"불편하다는건옛말\"…통신3사,여름휴가철'로밍'대전",
+  "엇갈린외국인수급…코스피는비중늘릴때삼전·하닉은줄였다"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-07-17T08:11:07.894295+09:00",
    "정부 실책 때리는데 여당 먹히는 타개책 국힘 있나"
+  ],
+  [
+   "2026-07-17T08:14:56.925262+09:00",
+   "코스피는 외국인 엇갈린 늘릴때 삼전 줄였다 비중 수급 하닉은"
   ]
  ],
- "last_run": "2026-07-17T08:11:38.915173+09:00",
+ "last_run": "2026-07-17T08:15:02.579755+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
