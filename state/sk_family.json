@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607050903365470e207547429_1",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335580",
   "http://www.srtimes.kr/news/articleView.html?idxno=206750",
   "https://daily.hankooki.com/news/articleView.html?idxno=1382813",
   "https://www.newscj.com/news/articleView.html?idxno=3414554",
@@ -2999,11 +2997,11 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1006943",
   "https://view.asiae.co.kr/article/2026070322044797474",
   "https://www.gukjenews.com/news/articleView.html?idxno=3638697",
-  "https://biz.heraldcorp.com/article/10811142"
+  "https://biz.heraldcorp.com/article/10811142",
+  "https://economist.co.kr/article/view/ecn202607140019",
+  "https://dealsite.co.kr/articles/165399"
  ],
  "seen_titles": [
-  "나주시,2026년하반기정기인사단행…'일과성과'중심조직개편",
-  "반도체슈퍼사이클건재…삼성전자,2분기영업익80조원넘본다",
   "호남에‘800조’투자삼성·SK,이번엔트럼프행정부‘대미투자압...",
   "李대통령\"메가프로젝트,정치적수단이면지방선거전시작\"",
   "[주간브리핑]삼성·SK,반도체·AI에4755조투자…홈플러스파산위기...",
@@ -6001,15 +5999,25 @@
   "나주시,정기인사단행…'일·성과'중심83명승진",
   "나주시민선9기첫인사…염선지홍보실장승진눈길",
   "여수시,문장곤문화관광체육국장4급승진…5급승진11명",
-  "대법원무죄판결‘1년’…이재용회장,글로벌네트워크다지기바쁘..."
+  "대법원무죄판결‘1년’…이재용회장,글로벌네트워크다지기바쁘...",
+  "증시떠받친반도체인데…“정점지났다”시장흔드는피크아웃논란",
+  "[바이오AX열전]젠슨황만난최윤정…SK바이오팜,AI큰그림그린다"
  ],
  "recent_sigs": [
   [
    "2026-07-17T06:40:14.899484+09:00",
    "이재용 판결 네트워크 대법원 회장 1년 무죄 글로벌 바쁘 다지기"
+  ],
+  [
+   "2026-07-17T07:10:15.846914+09:00",
+   "시장 논란 반도체인데 피크아웃 정점 떠받친 지났다 증시 흔드는"
+  ],
+  [
+   "2026-07-17T07:10:15.846914+09:00",
+   "SK바이오팜 젠슨 큰그림 그린다 만난 AI"
   ]
  ],
- "last_run": "2026-07-17T07:00:35.280211+09:00",
+ "last_run": "2026-07-17T07:10:30.186456+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
