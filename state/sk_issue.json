@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05589126645513208",
-  "http://www.joseilbo.com/news/news_read.php?uid=571703&class=33",
-  "https://www.seoul.co.kr/news/society/2026/07/10/20260710500258?wlog_tag3=naver",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090321.html",
-  "https://www.slist.kr/news/articleView.html?idxno=750984",
-  "https://www.sportschosun.com/entertainment/2026-07-10/202607100100069410004292",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374147",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260711010041Zas",
-  "https://news.tf.co.kr/read/life/2342216.htm",
-  "https://biz.chosun.com/topics/topics_social/2026/07/10/W4HNCHHKLNELDGCZHWVII3AIO4/",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=223256",
   "https://www.donga.com/news/Society/article/all/20260710/134277700/2",
   "http://www.yonhapnewstv.co.kr/news/MYH20260711005826hMZ",
@@ -2999,19 +2989,19 @@
   "https://biz.chosun.com/distribution/food/2026/07/16/GNJ6AK3XQVC4JKQTINOAAOCCCM/",
   "https://www.newdaily.co.kr/site/data/html/2026/07/16/2026071600085.html",
   "https://www.newscj.com/news/articleView.html?idxno=3417489",
-  "http://www.newswell.co.kr/news/articleView.html?idxno=20325"
+  "http://www.newswell.co.kr/news/articleView.html?idxno=20325",
+  "https://www.christiantoday.co.kr/news/376234",
+  "https://www.greened.kr/news/articleView.html?idxno=345209",
+  "http://www.lawissue.co.kr/view.php?ud=2026071610352129939a8c8bf58f_12",
+  "https://www.yna.co.kr/view/AKR20260716070751004?input=1195m",
+  "http://www.fnnews.com/news/202607161021510993",
+  "https://www.ytn.co.kr/_ln/0103_202607161035468012",
+  "https://www.newspim.com/news/view/20260716000419",
+  "https://www.sedaily.com/article/20068460",
+  "https://www.ytn.co.kr/_ln/0115_202607161028337315",
+  "https://biz.heraldcorp.com/article/10810760"
  ],
  "seen_titles": [
-  "檢,'장윤기사건'광산경찰서장입건…서장실압수수색",
-  "‘채상병수사기밀유출’특검,이시원전비서관구속영장청구",
-  "‘장윤기사건’증거인멸의혹경찰서장·형사과장입건…서장실전격...",
-  "[따져보니]수사가당락좌우?…선거수사딜레마",
-  "'장윤기사건'광주광산경찰서장·형사과장피의자전환",
-  "유리\"제주도집중고거래로샀다\"…연세900만원↓솔직공개",
-  "배재고징계재심의일정14일소위원회가분수령…공정위안건상정여...",
-  "대한체육회공정위,20일배재고징계재심의",
-  "[단독]담합시작은3년전남양주식당…조사시작되자\"방폭파한다\"",
-  "배재고야구부징계재심,14일분수령…봉황대기출전갈림길",
   "[정수정부장검사의여조부검사실]성범죄와ACP(Attorney-ClientPrivilege...",
   "“장윤기사건책임자엄벌”…고개숙인경찰청장대행",
   "[단독]형사과장에경찰서장까지…'장윤기수사'피의자4명으로",
@@ -6001,7 +5991,17 @@
   "아워홈용인공장끼임사고근로자,입원37일만에숨져",
   "경찰,'김병기차남취업청탁'빗썸관계자소환…수사막바지",
   "심우정전검찰총장구속영장심사…내란가담·즉시항고포기심리",
-  "'경영하수'이병철다올투자증권회장의삑사리,대주주자격박탈?[조..."
+  "'경영하수'이병철다올투자증권회장의삑사리,대주주자격박탈?[조...",
+  "사랑의장기기증운동본부,20대이식대기환자에게치료비지원",
+  "KB국민은행,빗썸실사마쳤다…9월재계약결정임박",
+  "부산금정서,'피습자작극사건'피의자정이한전시장후보구속송치",
+  "권성동'통일교1억수수'징역2년확정…의원직상실(종합)",
+  "\"상황설명하겠다\"포로라인선심우정전검찰총장",
+  "'내란가담의혹'심우정구속기로...특검3차연장동력얻나",
+  "'통일교1억수수'권성동,대법서징역형확정...의원직상실",
+  "‘통일교1억수수혐의’권성동징역2년확정...의원직상실",
+  "장윤기수사'의도적부실'...일면식도없다더니?",
+  "[속보]‘통일교1억수수’권성동징역2년확정…의원직상실[세상&]"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 카드에도 규제완화 찬반 캐피탈사 렌탈 팽팽 상생금융"
   ]
  ],
- "last_run": "2026-07-16T10:31:10.433177+09:00",
+ "last_run": "2026-07-16T10:41:10.469512+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
