@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202607157237g",
-  "https://view.asiae.co.kr/article/2026071516165934436",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=77899",
-  "https://en.yna.co.kr/view/AEN20260715005951320?input=2106m",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=436690",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251662&CMPT_CD=P0010",
   "https://www.nocutnews.co.kr/news/6548698",
   "https://www.newsway.co.kr/news/view?ud=2026071516062622021",
   "https://www.hankookilbo.com/news/article/A2026071514320004175?did=NA",
@@ -2999,15 +2993,15 @@
   "https://www.ytn.co.kr/_ln/0104_202607170633191677",
   "https://www.sedaily.com/article/20068773",
   "https://biz.heraldcorp.com/article/10811142",
-  "http://www.bizwnews.com/news/articleView.html?idxno=140871"
+  "http://www.bizwnews.com/news/articleView.html?idxno=140871",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613294",
+  "https://www.the-today.com/news/articleView.html?idxno=87677",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5125",
+  "https://biz.heraldcorp.com/article/10808047",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168334",
+  "https://www.news1.kr/bio/pharmaceutical-bio/6230998"
  ],
  "seen_titles": [
-  "집값자극막는다…‘삼전닉스’억단위성과급,3년쪼개DSR반영",
-  "'칠천피'탈환한코스피…6.24%급등해7284마감",
-  "[마감시황]코스피7200선마감…美기준금리인상가능성↓",
-  "한국투자증권,ELW340종목신규상장...지수·종목형투자확대",
-  "원·달러환율,8.3원내린1484.7원",
-  "SKAI인재양성소'스칼라울산캠퍼스'개소",
   "[거래소기관]SK하이닉스대덕전자삼성SDISK담고삼성전자HD현대중...",
   "외인2.3조폭풍매수에반도체'날개'…코스피7300터치[시황종합]",
   "현대차그룹,조지아서SK온·LG엔솔‘양대배터리파트너’체제구축",
@@ -6001,7 +5995,13 @@
   "뉴욕증시,AI매도에하락...SK하이닉스ADR14%↓",
   "“급등엔인버스,급락엔레버리지”똑똑한개미,역발상베팅했다[코...",
   "대법원무죄판결‘1년’…이재용회장,글로벌네트워크다지기바쁘...",
-  "SK텔레콤,여름휴가시즌맞아'AI'로'통신품질'점검한다"
+  "SK텔레콤,여름휴가시즌맞아'AI'로'통신품질'점검한다",
+  "반도체주급락에뉴욕증시하락…나스닥1.47%↓",
+  "TSMC호실적도못막았다…AI반도체주급락,나스닥1.47%↓",
+  "[뉴욕증시마감]AI반도체랠리'숨고르기'…나스닥1.47%급락,거품...",
+  "이철우경북지사“규제혁신·신공항·행정통합으로지방시대선도”[...",
+  "TSMC&알파벳A발'AI불확실성'확대...미국증시'하락'",
+  "트럼프'의약품15%관세'이달말부터…韓기업영향은?"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,21 @@
   [
    "2026-07-17T06:41:04.945584+09:00",
    "맞아 여름휴가 AI 시즌 통신품질 점검한다 SK텔레콤"
+  ],
+  [
+   "2026-07-17T06:51:00.377324+09:00",
+   "지방시대 규제혁신 이철우 신공항 선도 행정통합으로 경북지사"
+  ],
+  [
+   "2026-07-17T06:51:00.377324+09:00",
+   "미국증시 알파벳A 확대 AI불확실성 하락 TSMC"
+  ],
+  [
+   "2026-07-17T06:51:00.377324+09:00",
+   "관세 이달 영향은 말부터 기업 트럼프 의약품"
   ]
  ],
- "last_run": "2026-07-17T06:41:16.194813+09:00",
+ "last_run": "2026-07-17T06:51:11.049947+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
