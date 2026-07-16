@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205309",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1530371",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652969&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6836731_37004.html",
-  "https://www.newsis.com/view/NISX20260711_0003705391",
-  "https://www.kwnews.co.kr/article/20260711500133",
   "https://biz.heraldcorp.com/article/10805710",
   "https://www.kyeonggi.com/article/20260711580140",
   "https://www.mk.co.kr/article/12096186",
@@ -2999,15 +2993,15 @@
   "https://www.donga.com/news/Economy/article/all/20260716/134312956/1",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260716.99099005063",
   "http://www.joseilbo.com/news/news_read.php?uid=572092&class=32",
-  "https://www.segye.com/newsView/20260716518514?OutUrl=naver"
+  "https://www.segye.com/newsView/20260716518514?OutUrl=naver",
+  "http://www.inews24.com/view/1986350",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3126310",
+  "https://news.tf.co.kr/read/ptoday/2344257.htm",
+  "https://www.news1.kr/politics/president/6230727",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=554070",
+  "https://www.newsjeju.net/news/articleView.html?idxno=423411"
  ],
  "seen_titles": [
-  "[뉴스추적]이틀뒤다시법정에서는장윤기…케이블타이,증거채택...",
-  "경찰·검찰,'장윤기사건'윗선개입전방위수사",
-  "윗선어디까지개입했나…'장윤기수사'지휘부첫압색",
-  "[단독]처벌센'강간살인죄'적용누가막았나‥\"경찰윗선이제동\"",
-  "장윤기수사축소·부실의혹,윗선향하는검·경동시수사",
-  "[속보]장동혁“검찰해체아닌경찰개혁시급…보완수사권반드시남...",
   "“경찰이비밀번호알려줬다”…장윤기父,증거인멸부인",
   "‘장윤기부실수사’광산서장,강간살인혐의적용막았다…특수본진...",
   "집에서400억대금괴현금발견…반부패스타검사의몰락,인니‘발칵...",
@@ -6001,7 +5995,13 @@
   "“협력사가곧포스코의경쟁력”…포스코그룹,5300개협력사상생확...",
   "폰셀프제출하겠다는‘미성년자성매매’청주시의원말믿은경찰",
   "'구속송치'장윤기수사팀장\"유족에사죄…중간수사발표,실체적사...",
-  "종합특검,‘관저이전특혜의혹’김건희첫소환조사21일로연기"
+  "종합특검,‘관저이전특혜의혹’김건희첫소환조사21일로연기",
+  "포스코그룹\"협력사성장이그룹의미래\"⋯상생협력체계구축",
+  "포스코그룹-공정위,2·3차협력사까지상생협약…5300여협력사혜택",
+  "한미통상·안보현안NSC상임위개최…위성락\"부처협력대응\"",
+  "靑'한미통상·안보'NSC상임위소집…'쿠팡·대미투자·美군함'전략...",
+  "'통일교1억원수수'권성동,징역2년확정…의원직상실",
+  "20대노동자숨진하귀농협…경찰,사고한달만에압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T16:31:12.063179+09:00",
+ "last_run": "2026-07-16T16:41:06.334574+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
