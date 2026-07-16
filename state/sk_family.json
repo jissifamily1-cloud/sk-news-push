@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270961",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61131",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847997",
-  "https://kpenews.com/View.aspx?No=4135487",
-  "https://www.itbiznews.com/news/articleView.html?idxno=218177",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606290023072920103653",
   "https://www.ajunews.com/view/20260630153627122",
   "https://www.banronbodo.com/news/articleView.html?idxno=32562",
@@ -2999,14 +2994,14 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540052",
   "https://www.viva100.com/article/20260716500295",
   "https://news.tf.co.kr/read/economy/2344083.htm",
-  "https://www.newsis.com/view/NISX20260716_0003711933"
+  "https://www.newsis.com/view/NISX20260716_0003711933",
+  "https://news.tf.co.kr/read/ptoday/2344104.htm",
+  "https://biz.heraldcorp.com/article/10811083",
+  "https://www.kukinews.com/article/view/kuk202607160075",
+  "https://www.chosun.com/international/international_general/2026/07/16/GOB24ULMERD5RLYMLBT7S5BAVU/",
+  "https://magazine.hankyung.com/business/article/202607169185b"
  ],
  "seen_titles": [
-  "[WhoIs?]김승연한화그룹회장",
-  "[반도체투자로드맵]⑤SK,반도체생산에AIDC까지…AI수요·공급묶...",
-  "[10년전그날]SKT,세계최초IoT전용망선포",
-  "SK,협력사에1.4조푼다…\"AI반도체경쟁력,함께키운다\"",
-  "[이슈체크]AI시대달라진상생…SK하이닉스가바꾼반도체R&D공식",
   "SK,1조4000억원상생투자..협력사AI·반도체경쟁력키운다",
   "SK,협력사금융·기술지원확대…1조4000억원투입상생생태계조성",
   "[더벨][45조의승부수:SK하이닉스ADR]ROE44%의무게…연20조더벌어...",
@@ -6001,7 +5996,12 @@
   "최태원“AI는아직4살짜리아이…지식·데이터계속떠먹여줘야”",
   "부산시립무용단,젊은무용수독무프로젝트‘신성’무대오른다",
   "최태원'AI·반도체성장전략'통했다…SK㈜밸류업탄력",
-  "\"모두가의문제기했지만\"…최태원회장,SK하이닉스인수14년소회'눈..."
+  "\"모두가의문제기했지만\"…최태원회장,SK하이닉스인수14년소회'눈...",
+  "조의장\"AI선도해야…기업이투자할환경조성에앞장\"",
+  "“AI시대…일하는방식다시짜야”[대한상의·한경협제주포럼]",
+  "통합특별시교통망전면손질요구",
+  "젠슨황“도요타와피지컬AI협력...‘일본AI’의시작”",
+  "\"SK하이닉스광주오나?\"최태원인스타에포착된'결정적단서'"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-07-16T11:40:25.273944+09:00",
    "소회 모두가 SK하이닉스 의문 회장 제기했지만 인수 14년"
+  ],
+  [
+   "2026-07-16T12:00:38.864581+09:00",
+   "오나 결정적 SK하이닉스 인스타에 단서 포착된 광주"
   ]
  ],
- "last_run": "2026-07-16T11:50:34.017992+09:00",
+ "last_run": "2026-07-16T12:00:54.495241+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
