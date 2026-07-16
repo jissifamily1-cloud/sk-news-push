@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.usmbc.co.kr/NewsArticle/848971",
-  "https://www.mk.co.kr/article/12083815",
-  "https://www.khan.co.kr/article/202607022121015",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465160",
   "https://www.kukinews.com/article/view/kuk202607020191",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021142472740703",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034834",
@@ -2999,13 +2995,13 @@
   "https://www.smartbizn.com/news/articleView.html?idxno=148713",
   "http://www.queen.co.kr/news/articleView.html?idxno=460357",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312111",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165918"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165918",
+  "https://www.dailian.co.kr/news/view/1667818/?sc=Naver",
+  "https://www.inthenews.co.kr/news/article.html?no=89399",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105188",
+  "https://www.mediawatch.kr/news/article.html?no=260389"
  ],
  "seen_titles": [
-  "[뉴스하이킥]양향자\"호남반도체투자엔찬성…'쇼'아닌월단위로...",
-  "'김건희특혜'수사속도…도이치수사팀줄소환",
-  "시작부터'트램'공방‥공론화성사될까?",
-  "빅테크,아슬아슬‘CAPEX레이스’",
   "“규제혁신·정주여건묶은‘메가특구’조성해야균형발전안착”",
   "[7월2일인사종합]한미약품·한미사이언스외",
   "[충남도의회브리핑]제13대충남도의회개원…도민체감변화약속",
@@ -6001,7 +5997,11 @@
   "최태원'AI승부수'로'SK밸류업'···반도체넘어AI인프라로확장",
   "최태원SK회장\"AI도입넘어일하는방식재설계해야성장가능\"",
   "최태원,하이닉스넘어전력까지···SK(주)'AI색깔'짙어졌다",
-  "최태원\"일하는방식자체를AI에맞춰재설계해야\""
+  "최태원\"일하는방식자체를AI에맞춰재설계해야\"",
+  "\"美혼자바다지키는시대끝난다…해상교통로대응해야\"",
+  "최태원'AI드라이브'승부수통했다…‘SK㈜밸류업’",
+  "벼랑끝건설·제조업,3대메가프로젝트로반전노린다",
+  "최태원회장“AI단순도입만으론부족”…일하는방식전면재설계..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,17 @@
   [
    "2026-07-16T10:20:26.762790+09:00",
    "짙어졌다 전력까지 하이닉스 색깔 AI 넘어"
+  ],
+  [
+   "2026-07-16T10:40:25.373062+09:00",
+   "벼랑 3대 메가 반전 노린다 제조업 프로젝트로 건설"
+  ],
+  [
+   "2026-07-16T10:40:25.373062+09:00",
+   "부족 도입만으론 AI 회장 재설계 단순 전면 방식 일하는"
   ]
  ],
- "last_run": "2026-07-16T10:30:41.978476+09:00",
+ "last_run": "2026-07-16T10:40:43.493787+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
