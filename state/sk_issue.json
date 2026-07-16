@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250584&CMPT_CD=P0010",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260711506&PRO_CODE=99",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260711150650haa",
-  "https://www.khan.co.kr/article/202607111505011",
-  "https://www.yna.co.kr/view/AKR20260711024052054?input=1195m",
-  "https://www.hani.co.kr/arti/society/society_general/1267798.html",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205271",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607110258&t=NN",
-  "https://www.pennmike.com/news/articleView.html?idxno=123515",
   "https://www.sedaily.com/article/20066538",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069136",
   "https://www.newspim.com/news/view/20260711000063",
@@ -2999,18 +2990,18 @@
   "https://www.news1.kr/society/incident-accident/6230479",
   "https://www.hankyung.com/article/202607169430i",
   "https://view.asiae.co.kr/article/2026071614413999994",
-  "https://www.ytn.co.kr/_ln/0115_202607161438133677"
+  "https://www.ytn.co.kr/_ln/0115_202607161438133677",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260716145555xK8",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052005",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=266823",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86833",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661224&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/local/gwangju-jeonnam/6230482",
+  "https://www.jbnews.com/news/articleView.html?idxno=1507788",
+  "https://www.yna.co.kr/view/AKR20260716130300001?input=1195m",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80454"
  ],
  "seen_titles": [
-  "국수본,장윤기사건특별수사단확대...총41명",
-  "[속보]경찰,'장윤기사건'특별수사단확대편성...윗선수사에속도",
-  "'장윤기증거인멸'수사팀,특별수사단으로확대",
-  "경찰,‘장윤기사건’특별수사단으로확대…27명→41명으로",
-  "검경'장윤기사건'경찰지휘부동시수사…칼날어디까지가나",
-  "‘장윤기유착’경찰의혹수사…인력1.5배늘린이유",
-  "경찰,'장윤기사건'특별수사단으로확대…27명→41명",
-  "[속보]'장윤기사건'논란에…추미애\"검찰개혁미룰핑계안돼\"",
-  "[김구철의쾌도난마]'장윤기사건'이'박종철고문치사사건'이돼가고...",
   "‘계엄정당화’메시지의혹김태효전안보실1차장구속",
   "[단독탐사보도]②목포개인택시지부·목포신협복마전된선거파문까지...",
   "경찰,'장윤기사건'특별수사단27명→41명규모로확대편성",
@@ -6001,15 +5992,28 @@
   "'18㎝흉기→커터칼'李피습허위보고서의혹…김상민\"끼워맞춘수사...",
   "경찰\"가덕도테러배후세력확인안돼\"…김상민전검사등송치",
   "법원,'내란가담·항고포기'심우정전검찰총장구속심사착수",
-  "경찰,전교조충남지부압수수색...공직선거법위반혐의"
+  "경찰,전교조충남지부압수수색...공직선거법위반혐의",
+  "포스코,대금지급개선등상생협약…공정위와지원확대",
+  "오버부킹예약취소배상기준숨긴야놀자등5개숙박앱불공정약관심...",
+  "꼼수에동족상잔불사,사법부전체敵으로돌려도당당...한화그룹법무...",
+  "자유기업원\"법원쿠팡동일인지정효력정기결정…동일인제도,사...",
+  "권성동'통일교1억원수수'징역2년확정…의원직상실",
+  "장윤기수사지휘형사과장사전구속영장…윗선정조준(종합)",
+  "충남경찰청,'공직선거법위반혐의'전교조충남지부사무실압수수색",
+  "경찰,국회에'인사평가반영'등보완수사요구권실질화안제시",
+  "KT,5G속도과장광고행정소송'패소'[법정워치]"
  ],
  "recent_sigs": [
   [
    "2026-07-16T14:20:57.972135+09:00",
    "확대 동참 상생협력 포스코그룹도 이어 등에 협력사 삼성"
+  ],
+  [
+   "2026-07-16T15:01:14.765621+09:00",
+   "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T14:51:10.246281+09:00",
+ "last_run": "2026-07-16T15:01:22.826040+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
