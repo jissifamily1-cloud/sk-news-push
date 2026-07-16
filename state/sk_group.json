@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=148631",
-  "https://www.electimes.com/news/articleView.html?idxno=370330",
-  "https://www.seoultimes.news/news/article.html?no=2000097801",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1386258",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04264006645514848",
-  "http://www.metroseoul.co.kr/article/20260715500258",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030114475&code=61121111&cp=nv",
   "https://www.newsis.com/view/NISX20260715_0003709948",
   "http://www.finomy.com/news/articleView.html?idxno=257404",
@@ -2999,15 +2993,15 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=240462",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4425534",
   "https://www.mk.co.kr/article/12100641",
-  "https://www.news1.kr/finance/general-stock/6231008"
+  "https://www.news1.kr/finance/general-stock/6231008",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=690675",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260717.22012005144",
+  "https://www.etoday.co.kr/news/view/2604685",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16136965",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612851",
+  "https://www.betanews.net/article/view/beta202607160117"
  ],
  "seen_titles": [
-  "반도체편중더심해진다…코스피실적10원중8원'눈앞'",
-  "가온전선,SK하이닉스용인클러스터에수백억원규모배전케이블공급",
-  "李대통령\"자산배분부동산비중커…생산적금융전환중요\"",
-  "李대통령,'단일종목레버리지ETF'보완책신속마련주문",
-  "李대통령,\"레버리지ETF보완대책신속히마련하라\"",
-  "李대통령\"부동산비중너무커...자본시장정상화매우중요\"",
   "폭염속이어진31일의나눔…사랑의열매,여름캠페인모금247억원",
   "씨피시스템,반도체기업에세미휴머노이드용'로보킷'공급…국산대체...",
   "“혁신기술6건선정”…SK에코플랜트,‘테크오픈콜라보레이션’시...",
@@ -6001,7 +5995,13 @@
   "800조반도체팹,입지보다먼저따질'전력·용수·사람'",
   "[亞증시-종합]반도체주급락에日·中·臺약세…홍콩홀로강세",
   "“홀짝홀짝증시에없던병생길판”…7천피붕괴이유있다는데",
-  "[문답]\"단일레버리지,시총5조로축소목표…상폐는안돼\""
+  "[문답]\"단일레버리지,시총5조로축소목표…상폐는안돼\"",
+  "울산전3연승기억되살려야...물러설곳없는대전하나시티즌,후반기...",
+  "[증시와이드]SK하이닉스ADR흥행,국내증시시험대",
+  "레버리지ETF출시한달반만에‘이례적’보완…상폐엔선그어",
+  "삼성전자·SK하이닉스레버리지규제…실효성은물음표",
+  "이대통령“새만금100년걸릴뻔”…조속한실제투자주문",
+  "'증시변동성확대'해외시각은?...\"차익실현및수급쏠림에기인\""
  ],
  "recent_sigs": [
   [
@@ -7111,9 +7111,13 @@
   [
    "2026-07-16T19:21:15.393882+09:00",
    "축소 단일 레버리지 목표 시총 5조로 안돼 상폐는"
+  ],
+  [
+   "2026-07-16T19:31:18.875256+09:00",
+   "확대 실현 증시 기인 시각은 수급 쏠림에 차익 해외 변동성"
   ]
  ],
- "last_run": "2026-07-16T19:21:29.844307+09:00",
+ "last_run": "2026-07-16T19:31:25.268513+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
