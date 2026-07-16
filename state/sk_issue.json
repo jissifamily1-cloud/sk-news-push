@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11601956",
-  "http://www.inews24.com/view/1984620",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190106.html",
-  "https://news.jtbc.co.kr/article/NB12307765?influxDiv=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608292",
-  "https://news.jtbc.co.kr/article/NB12307772?influxDiv=NAVER",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190120.html",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190122.html",
   "https://www.hankookilbo.com/news/article/A2026071118430003810?did=NA",
@@ -2999,15 +2993,15 @@
   "https://www.seoul.co.kr/news/society/2026/07/16/20260716500165?wlog_tag3=naver",
   "https://www.hani.co.kr/arti/international/china/1268563.html",
   "https://www.newscj.com/news/articleView.html?idxno=3417601",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=449099"
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=449099",
+  "https://www.ddaily.co.kr/page/view/2026071616023015195",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312221",
+  "http://www.srtimes.kr/news/articleView.html?idxno=207713",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600089.html",
+  "https://www.ytn.co.kr/_ln/0115_202607161602379754",
+  "https://www.yna.co.kr/view/AKR20260716142200064?input=1195m"
  ],
  "seen_titles": [
-  "추미애,검찰보완수사권폐지앞두고“9부능선앞에서흔들리면안돼...",
-  "검·경모두'경찰윗선'수사속도...\"전면재수사하자\"는민주당",
-  "경찰,광주경찰청장실압수수색…장윤기사건지휘'윗선'정조준",
-  "[단독]장윤기압수수색당시…수사팀\"서장이직접지휘\"진술",
-  "‘장윤기사건’수사팀,경찰지휘부압수수색",
-  "장윤기부친\"짐정리했을뿐\"해명…수사단확대편성",
   "[포커스]배재고재심신청향후절차는…대학·프로진출기회열릴까...",
   "\"범행전후영상만사라져\"…정이한아버지병원강제수사'초읽기'",
   "장윤기사건부실수사,윗선지시있었나…광산서장·광주청장실압수...",
@@ -6001,7 +5995,13 @@
   "경찰‘공직선거법위반혐의’전교주충남지부압수수색",
   "홍콩경찰,독립서점2곳서5명체포…‘시진핑시대’책판매혐의",
   "'통일교1억원수수'권성동징역2년확정…의원직상실",
-  "경찰,공직선거법위반혐의전교조충남지부사무실압수수색"
+  "경찰,공직선거법위반혐의전교조충남지부사무실압수수색",
+  "KT도'20배빠른5G'과장광고패소…정부책임론커진다",
+  "'D-5개월'통합대한항공출범…메가캐리어향한막판담금질",
+  "금융권디지털자산'3색투자'…시장지위가갈랐다",
+  "통합대한항공출범까지5개월,9부능선넘었다",
+  "장윤기사건형사과장사전구속영장...팀원피의자조사",
+  "'폰셀프제출'약속을믿다니…미성년자성매매늑장수사논란"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T16:01:19.014786+09:00",
+ "last_run": "2026-07-16T16:11:04.592572+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
