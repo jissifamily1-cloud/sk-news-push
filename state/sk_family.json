@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202607020191",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021142472740703",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034834",
-  "https://www.donga.com/news/Politics/article/all/20260703/134228306/2",
-  "https://www.ytn.co.kr/_ln/0101_202607022247583138",
   "https://www.donga.com/news/Politics/article/all/20260702/134225680/1",
   "http://www.gjdream.com/news/articleView.html?idxno=670666",
   "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1667818/?sc=Naver",
   "https://www.inthenews.co.kr/news/article.html?no=89399",
   "http://www.00news.co.kr/news/articleView.html?idxno=105188",
-  "https://www.mediawatch.kr/news/article.html?no=260389"
+  "https://www.mediawatch.kr/news/article.html?no=260389",
+  "https://view.asiae.co.kr/article/2026071610411948925",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633518",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234865",
+  "https://www.newspost.kr/news/articleView.html?idxno=224249",
+  "https://biz.chosun.com/topics/law_firm/2026/07/16/NSUSJSWAENAE3FP6XXWYGINPPY/"
  ],
  "seen_titles": [
-  "“규제혁신·정주여건묶은‘메가특구’조성해야균형발전안착”",
-  "[7월2일인사종합]한미약품·한미사이언스외",
-  "[충남도의회브리핑]제13대충남도의회개원…도민체감변화약속",
-  "美ADR상장앞둔SK하이닉스…1100조투자계획SEC신고서담은이유",
-  "[7월의만남]임은미행복나래실장\"민관협력성패,조율에달렸다\"",
   "“이병철회장의도쿄선언떠올라”삼성투자치켜세운李",
   "'충청권국민보고회'...징계내전'전운'고조",
   "李“이재용회장결단,이병철회장도쿄선언떠올라”",
@@ -6001,7 +5996,12 @@
   "\"美혼자바다지키는시대끝난다…해상교통로대응해야\"",
   "최태원'AI드라이브'승부수통했다…‘SK㈜밸류업’",
   "벼랑끝건설·제조업,3대메가프로젝트로반전노린다",
-  "최태원회장“AI단순도입만으론부족”…일하는방식전면재설계..."
+  "최태원회장“AI단순도입만으론부족”…일하는방식전면재설계...",
+  "김정관\"반도체는AI시대인프라…투자에훨씬더집중해야\"(종합)",
+  "\"해양안보는경제안보···해군경쟁력강화해야\"",
+  "\"바닷길막히면공장도멈춘다\"…해군·전문가들,해상교통로국가전략...",
+  "최태원'AI드라이브'성과가시화…SK㈜밸류업속도",
+  "“이혼뒤오른SK주가도나누나”…최태원·노소영‘세기의재산분..."
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-07-16T10:40:25.373062+09:00",
    "부족 도입만으론 AI 회장 재설계 단순 전면 방식 일하는"
+  ],
+  [
+   "2026-07-16T10:50:27.431414+09:00",
+   "오른 세기의 재산분 주가도 나누나 이혼"
   ]
  ],
- "last_run": "2026-07-16T10:40:43.493787+09:00",
+ "last_run": "2026-07-16T10:50:39.182495+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
