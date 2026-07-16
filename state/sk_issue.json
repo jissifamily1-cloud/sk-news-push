@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://weekly.chosun.com/news/articleView.html?idxno=53384",
-  "https://www.sedaily.com/article/20066572",
-  "http://www.bokuennews.com/news/article.html?no=281162",
-  "https://www.newscj.com/news/articleView.html?idxno=3416286",
-  "https://m.skyedaily.com/news_view.html?ID=307618",
-  "https://www.ytn.co.kr/_ln/0103_202607112153030210",
-  "https://www.dt.co.kr/article/12072159",
-  "https://www.news1.kr/finance/blockchain-fintech/6224301",
   "https://www.yna.co.kr/view/AKR20260710136500053?input=1195m",
   "https://www.bloter.net/news/articleView.html?idxno=667787",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653184&plink=ORI&cooper=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.tjb.co.kr/news05/bodo/view/id/101085",
   "https://www.jbnews.com/news/articleView.html?idxno=1507803",
   "https://www.dynews.co.kr/news/articleView.html?idxno=858274",
-  "https://www.ytn.co.kr/_ln/0115_202607161701443569"
+  "https://www.ytn.co.kr/_ln/0115_202607161701443569",
+  "https://biz.sbs.co.kr/article_hub/20000323018?division=NAVER",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519949",
+  "https://news.jtbc.co.kr/article/NB12308655?influxDiv=NAVER",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4095566",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=858275",
+  "https://www.donga.com/news/Politics/article/all/20260716/134311038/1",
+  "https://www.kyeonggi.com/article/20260716580467",
+  "https://www.joongang.co.kr/article/25445716"
  ],
  "seen_titles": [
-  "\"서장이장윤기강간살인적용막았다\"…수사팀진술확보",
-  "“16억이라던자산이400억대?”…반부패앞장섰던‘스타검사’진실...",
-  "의협한특위\"교통사고한방과잉진료방치안돼\"…수사촉구",
-  "'장윤기사건'부실수사의혹…경찰지휘부압수수색(종합)",
-  "장윤기사건에불붙은‘검찰보완수사권’…野“반드시필요”vs與...",
-  "경찰윗선,장윤기강간살인혐의반대했나...수사단확대",
-  "“냉방병인줄알았는데”…세균침투로농고이는‘축농증’[김수연...",
-  "미래에셋·코빗승인이후쏠린눈…남은건네이버·두나무",
   "[시험대오른경찰]③檢보완수사에드러난민낯…역량강화·신뢰회복...",
   "미래에셋그룹,코빗인수뒤과제는'법인온보딩'",
   "'장윤기수사'지휘부첫압수수색…윗선개입규명속도",
@@ -6001,7 +5993,15 @@
   "충남청,전교조충남지부압수수색..\"교육감선거개입의혹\"",
   "민주당충북도당청년위'미성년자성범죄혐의'최영중사퇴촉구",
   "충남경찰,전교조충남지부압색…공직선거법위반혐의수사",
-  "'테러자작극'정이한구속송치...남은수사는?"
+  "'테러자작극'정이한구속송치...남은수사는?",
+  "코빗보고애타는두나무…늘어지는결합[기업백브리핑]",
+  "최혜대우·자사우대논란에수천억'과징금'위기…배달의민족·쿠팡...",
+  "한미통상·안보청와대NSC회의에재경부공정위도참석",
+  "국민의힘,'미성년성매매청주시의원'정말몰랐나…공천위'무용론'...",
+  "미성년자성매매혐의A청주시의원사직서제출",
+  "‘13세여중생성매매’청주시의원휴대전화포렌식…증거인멸여부도...",
+  "'미성년자성매매혐의'최영중청주시의원사직서제출",
+  "“휴대전화셀프제출”믿은경찰…청주시의원미성년자성매매수사..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T17:11:06.288039+09:00",
+ "last_run": "2026-07-16T17:21:05.260259+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
