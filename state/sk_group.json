@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468769",
-  "https://www.news1.kr/finance/market-exr/6229288",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307244&inflow=N",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51471",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041347",
   "https://www.hankyung.com/article/202607157237g",
   "https://view.asiae.co.kr/article/2026071516165934436",
   "http://www.issuenbiz.com/news/articleView.html?idxno=77899",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260717006751072?input=1195m",
   "https://www.tfmedia.co.kr/news/article.html?no=205829",
   "https://www.pressian.com/pages/articles/2026071621105341062",
-  "https://www.mk.co.kr/article/12100854"
+  "https://www.mk.co.kr/article/12100854",
+  "https://www.dt.co.kr/article/12073274",
+  "https://www.ytn.co.kr/_ln/0104_202607170633191677",
+  "https://www.sedaily.com/article/20068773",
+  "https://biz.heraldcorp.com/article/10811142",
+  "http://www.bizwnews.com/news/articleView.html?idxno=140871"
  ],
  "seen_titles": [
-  "변정수,챗GPT로주식대박…\"175만원넣었는데2배올라\"[MHN:픽]",
-  "\"사실무근\"부인에도…삼성전자나스닥ADR상장설'솔솔'",
-  "충남도,첨단산업투자활성화기업맞춤형신속지원체계본격가동",
-  "SKT-SK바이오팜,AI활용난치성암신약연구속도향상",
-  "SK텔레콤주가,7월15일85,000원1.31%상승마감",
   "집값자극막는다…‘삼전닉스’억단위성과급,3년쪼개DSR반영",
   "'칠천피'탈환한코스피…6.24%급등해7284마감",
   "[마감시황]코스피7200선마감…美기준금리인상가능성↓",
@@ -6001,7 +5996,12 @@
   "뉴욕증시,AI반도체주매도에하락…나스닥1.5%↓(종합)",
   "[이슈체크]‘삼전닉스’레버리지문턱높였지만'베팅판'된변동성은...",
   "\"남편데리러왔어요\"…컨베이어에삼켜진미얀마노동자유족의눈물",
-  "비용·용량제한없는‘온국민AI’12월에나온다…재원은글쎄"
+  "비용·용량제한없는‘온국민AI’12월에나온다…재원은글쎄",
+  "‘미장’이나‘국장’이나…뉴욕증시,반도체주매도세에약세…AI고...",
+  "뉴욕증시,AI매도에하락...SK하이닉스ADR14%↓",
+  "“급등엔인버스,급락엔레버리지”똑똑한개미,역발상베팅했다[코...",
+  "대법원무죄판결‘1년’…이재용회장,글로벌네트워크다지기바쁘...",
+  "SK텔레콤,여름휴가시즌맞아'AI'로'통신품질'점검한다"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,21 @@
   [
    "2026-07-17T06:31:07.677090+09:00",
    "나온다 글쎄 용량 비용 제한없는 12월에 AI 재원은 온국민"
+  ],
+  [
+   "2026-07-17T06:41:04.945584+09:00",
+   "급등엔 똑똑한 인버스 베팅했다 급락엔 레버리지 역발상 개미"
+  ],
+  [
+   "2026-07-17T06:41:04.945584+09:00",
+   "네트워크 무죄 다지기 대법원 판결 글로벌 회장 1년 바쁘 이재용"
+  ],
+  [
+   "2026-07-17T06:41:04.945584+09:00",
+   "맞아 여름휴가 AI 시즌 통신품질 점검한다 SK텔레콤"
   ]
  ],
- "last_run": "2026-07-17T06:31:27.124050+09:00",
+ "last_run": "2026-07-17T06:41:16.194813+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
