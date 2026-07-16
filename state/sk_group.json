@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607141832446788",
-  "https://www.sedaily.com/article/20067742",
-  "http://www.inews24.com/view/1985524",
-  "http://www.e-platform.net/news/articleView.html?idxno=103846",
-  "https://www.aitimes.com/news/articleView.html?idxno=212763",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088401",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088454",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088448",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1784019828&code=11151400&cp=nv",
   "https://www.yna.co.kr/view/AKR20260714169900073?input=1195m",
   "https://www.g-enews.com/view.php?ud=202607141458557437112616b072_1",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=847216",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03050406645515176",
   "http://www.fnnews.com/news/202607151506113488",
   "https://www.medigatenews.com/news/4207347422",
-  "https://magazine.hankyung.com/money/article/202607156527c"
+  "https://magazine.hankyung.com/money/article/202607156527c",
+  "https://kpenews.com/View.aspx?No=4151033",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168273",
+  "https://www.mk.co.kr/article/12099949",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03112726645515176",
+  "https://www.etoday.co.kr/news/view/2604328",
+  "https://www.newspim.com/news/view/20260716000114",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260716091258ldZ",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=205035",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114206"
  ],
  "seen_titles": [
-  "SKT,국정과제‘AI고속도로’실증본격화",
-  "[집중진단]\"이제더못버틴다”…소폭반등하자개인5.5조매도폭발",
-  "삼성전자“ADR상장검토안해,SK하이닉스와상황달라”",
-  "[사설]‘담대한길’호남반도체조직적인반대에대한우려",
-  "삼성전자\"美ADR상장검토안해\"...공식부인",
-  "[외환-마감]상승재료부재한데SK하이닉스'달러팔자'까지…10.40원↓",
-  "삼성전자,美ADR상장설부인…\"검토안해\"",
-  "삼성전자,미ADR상장검토설공식부인\"계획없다\"",
-  "삼성전자\"美ADR상장검토안한다\"",
   "코스피소폭반등,삼전닉스하락분만회",
   "삼성전자\"美ADR상장검토안해\"…공식부인입장",
   "교육강화·예탁금상향…증권업계,'삼전닉스레버리지'자율규제키로",
@@ -6001,7 +5992,16 @@
   "한국증시닫혀도거래되는SK하이닉스…역외RWA선물43조원",
   "광주군공항부지호남권반도체클러스터확정...중앙공원롯데캐슬...",
   "올해상반기기술수출13조원…무엇이팔렸고,무엇이달라졌나",
-  "'공장넘어자족도시로'...용인반도체클러스터배후주거단지분양본격..."
+  "'공장넘어자족도시로'...용인반도체클러스터배후주거단지분양본격...",
+  "SKT,AI로휴가철통신품질미리살핀다..특별소통상황실운영",
+  "美반도체지수'하락'속...코스피·코스닥'급락출발'",
+  "윤활기유호실적,테라파워지분가치상승…SK이노상승여력67%[오늘나...",
+  "SK이노베이션,올해영업익1500%증가전망…\"이제는사야할시점”-하...",
+  "[특징주]삼성전자·SK하이닉스하락출발…美메모리주약세여파",
+  "[특징주]삼전닉스,美반도체약세에프리마켓서동반하락",
+  "[속보]코스피4%대급락…7,000선또무너져",
+  "[개장시황]코스피,323.91포인트내린6960.50출발",
+  "[잘먹잘살+]SK인텔릭스·CJ푸드빌·대상·놀유니버스"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,21 @@
   [
    "2026-07-16T09:11:11.425096+09:00",
    "배후 분양 본격 자족도시로 주거단지 용인반도체클러스터 공장 넘어"
+  ],
+  [
+   "2026-07-16T09:14:39.533401+09:00",
+   "급락 000선 코스피 무너져"
+  ],
+  [
+   "2026-07-16T09:14:39.533401+09:00",
+   "내린 91포인트 코스피 출발"
+  ],
+  [
+   "2026-07-16T09:14:39.533401+09:00",
+   "놀유니버스 대상 CJ푸드빌 SK인텔릭스"
   ]
  ],
- "last_run": "2026-07-16T09:11:36.585913+09:00",
+ "last_run": "2026-07-16T09:14:50.640126+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
