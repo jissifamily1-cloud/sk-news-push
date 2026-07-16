@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/society/2026/07/11/20260711500012?wlog_tag3=naver",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030095718&code=61121211&cp=nv",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250550&CMPT_CD=P0010",
   "https://www.yna.co.kr/view/PYH20260711018900054?input=1196m",
   "https://www.kyeonggi.com/article/20260711580052",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4094459",
@@ -2999,12 +2996,12 @@
   "https://www.asiatime.co.kr/article/20260716500146",
   "https://www.sedaily.com/article/20068526",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=850645",
-  "https://www.nocutnews.co.kr/news/6549123"
+  "https://www.nocutnews.co.kr/news/6549123",
+  "http://www.fnnews.com/news/202607161222073489",
+  "https://www.hankookilbo.com/news/article/A2026071609510003526?did=NA",
+  "https://biz.heraldcorp.com/article/10811133"
  ],
  "seen_titles": [
-  "‘광주경찰청장실압수수색’경찰청특수팀…‘장윤기사건비위의혹...",
-  "경찰,장윤기수사지휘부정조준…광주경찰청장등압수수색",
-  "경찰,광주경찰청장등장윤기수사지휘부강제수사",
   "경찰특별수사팀,'장윤기사건'광주경찰청압수수색",
   "경찰특별수사팀,‘장윤기사건’광주경찰청장등지휘부압수수색",
   "경찰특수팀,장윤기사건수사비위의혹광주경찰청장등'지휘부'압...",
@@ -6001,7 +5998,10 @@
   "권성동,정치자금법위반징역2년확정…의원직상실",
   "경찰,李대통령피습“배후없어”김상민전검사등7명송치",
   "아워홈용인공장끼임사고근로자사망",
-  "장윤기부친과접점수사팀원소환…정보유출경로캔다"
+  "장윤기부친과접점수사팀원소환…정보유출경로캔다",
+  "경찰,'李가덕도피습'배후세력없다결론…공범·허위보고서확인[종...",
+  "극우유튜브에빠져이대통령흉기공격…배후없고국정원보고서는...",
+  "[단독]‘김병기아들이력서왜가지고있었나’빗썸임원,피의자로..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 카드에도 규제완화 찬반 캐피탈사 렌탈 팽팽 상생금융"
   ]
  ],
- "last_run": "2026-07-16T12:43:46.743251+09:00",
+ "last_run": "2026-07-16T12:51:07.442514+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
