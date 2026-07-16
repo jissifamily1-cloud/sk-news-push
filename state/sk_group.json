@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/general-finance/6228366",
-  "http://www.fnnews.com/news/202607150735057331",
-  "https://www.sentv.co.kr/article/view/sentv202607150006",
-  "https://www.chosun.com/economy/stock-finance/2026/07/15/QJWK4TQCMRGEPHZJWLCYY5OCVM/",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425006",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049988",
   "https://www.etoday.co.kr/news/view/2603788",
   "https://www.dt.co.kr/article/12072975",
@@ -2999,14 +2994,14 @@
   "http://www.worktoday.co.kr/news/articleView.html?idxno=86828",
   "http://www.globalepic.co.kr/view.php?ud=20260716123448971123fd0362e7_29",
   "https://www.techm.kr/news/articleView.html?idxno=153446",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356019"
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356019",
+  "https://news.tf.co.kr/read/photomovie/2339152.htm",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51502",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92455",
+  "https://www.yna.co.kr/view/AKR20260716038700017?input=1195m",
+  "https://www.joongangenews.com/news/articleView.html?idxno=533368"
  ],
  "seen_titles": [
-  "기념촬영하는최창원-주병기[포토]",
-  "삼성전자,美ADR상장설공식부인…\"검토한바없다\"",
-  "해외큰손,한국상장사투자30%늘었다…화장품·반도체에'러브콜'",
-  "슬리피\"122%주식수익,아들수술비로다날아가\"",
-  "바클레이스\"SK하이닉스ADR330달러가능\"…주가27%급등마감",
   "SK텔레콤,실적안정적…매수투자의견·목표가유지-SK",
   "한솔케미칼,삼성·하이닉스신규팹가동수혜'본격화'…\"변동성장세...",
   "바클레이스\"SK하이닉스ADR2배로상승할여력\"…주가27%급등",
@@ -6001,29 +5996,14 @@
   "SKT,AI로휴가철통신트래픽잡는다…전국1100곳집중관리",
   "SK에코플랜트,'의왕역SKVIEW'견본주택개관",
   "이재명대통령\"소버린AI,미토스급이상필요...해외진출기회충분\"",
-  "최태원표AI리밸런싱효과…핵심계열사성장에SK밸류업기대감'쑥..."
+  "최태원표AI리밸런싱효과…핵심계열사성장에SK밸류업기대감'쑥...",
+  "환영사하는최창원SUPEX추구협의회의장[포토]",
+  "SK,ESG경영으로수익제고…올해도사상최고배당정조준",
+  "3년6개월만의긴축핸들,딜레마에갇힌한은의'칼춤'",
+  "정부,550조AI인프라승부수…1인1AI에이전트시대",
+  "실사용자는882만명인데유출은1953만명…티빙은왜개인정보쌓아뒀나"
  ],
  "recent_sigs": [
-  [
-   "2026-07-16T06:51:10.262063+09:00",
-   "SK실트론과 운영 3년째 함께하는 반도체스쿨"
-  ],
-  [
-   "2026-07-16T06:51:10.262063+09:00",
-   "구름 인파 보자 젠슨황 선술집 맥주 꼬치에 회식"
-  ],
-  [
-   "2026-07-16T06:51:10.262063+09:00",
-   "진주 K2 부산교통은 안산 격파 꺾고 대구 코리아 K3 수원 K4 시흥"
-  ],
-  [
-   "2026-07-16T06:51:10.262063+09:00",
-   "대한노인회 SK텔레콤 강원 양구군지회 서비스 찾아가는 실시"
-  ],
-  [
-   "2026-07-16T06:51:10.262063+09:00",
-   "반도체 해법 양극화 K자형 그늘 호황의 막을"
-  ],
   [
    "2026-07-16T07:01:23.805970+09:00",
    "떠났다 터진 반도체 질린 랠리에도 사이드카 개미는 변동성"
@@ -7143,9 +7123,13 @@
   [
    "2026-07-16T12:43:56.166709+09:00",
    "효과 계열사 기대감 리밸런싱 밸류업 최태원표 핵심 성장에 AI"
+  ],
+  [
+   "2026-07-16T12:51:15.708312+09:00",
+   "1953만명 티빙은 실사용자는 개인정보 쌓아뒀나 882만명인데 유출은"
   ]
  ],
- "last_run": "2026-07-16T12:44:01.854678+09:00",
+ "last_run": "2026-07-16T12:51:21.071930+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
