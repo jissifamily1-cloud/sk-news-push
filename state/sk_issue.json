@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260711508640?OutUrl=naver",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849716",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000049237",
-  "https://view.asiae.co.kr/article/2026071116193157649",
-  "https://www.newsis.com/view/NISX20260711_0003705303",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/63366?feed=na",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030096389&code=61121211&cp=nv",
-  "https://www.newsis.com/view/NISX20260711_0003705320",
   "https://www.chosun.com/national/national_general/2026/07/11/NHYSG5PPLBEGXPZGBLC4BRBQIA/",
   "https://www.sedaily.com/article/20066548",
   "https://www.yna.co.kr/view/PYH20260711043600054?input=1196m",
@@ -2999,17 +2991,17 @@
   "https://www.khan.co.kr/article/202607161518011",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128223",
   "http://www.joseilbo.com/news/news_read.php?uid=572075&class=32",
-  "https://www.yna.co.kr/view/AKR20260716098251004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260716098251004?input=1195m",
+  "https://www.ekn.kr/web/view.php?key=20260716023313222",
+  "http://www.ktnews.com/news/articleView.html?idxno=147239",
+  "https://www.etoday.co.kr/news/view/2604572",
+  "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1424240",
+  "https://www.nocutnews.co.kr/news/6549246",
+  "https://www.m-economynews.com/news/article.html?no=68822",
+  "https://www.greened.kr/news/articleView.html?idxno=345272",
+  "https://www.the-today.com/news/articleView.html?idxno=87668"
  ],
  "seen_titles": [
-  "“장윤기강간살인적용,서장이막아”…‘봐주기수사’윗선지시의...",
-  "경찰,'장윤기사건'특별수사단확대…41명규모",
-  "민주당\"광주여고생살해사건성역없는재수사해야\"",
-  "'계엄정당화'김태효전안보실1차장구속",
-  "'점입가경'장윤기경찰수사…\"강간살인죄,서장이막아\"(종합)",
-  "\"솔직히살의까지느껴..왜죄인마냥숨어살아야하나\"정이한前대변...",
-  "장윤기부친“교도소갈아들짐정리하려”…증거인멸부인",
-  "민주최고위원출마김용\"정적제거수사검찰심판해야\"",
   "장윤기父“아들원룸비번,경찰이알려줬다”진술",
   "경찰,‘장윤기사건특별수사단’으로확대",
   "광주경찰청압수수색마친특별수사팀",
@@ -6001,7 +5993,15 @@
   "경찰,전교조충남지부압수수색···공직선거법위반혐의",
   "보험사기정조준…자동차보험'한방진료'수술대오르나",
   "李가덕도테러흉기'커터칼'로축소...김상민前검사등국정원관계...",
-  "\"18㎝흉기를커터칼로\"…'李테러미지정'김상민前검사등송치(종합)"
+  "\"18㎝흉기를커터칼로\"…'李테러미지정'김상민前검사등송치(종합)",
+  "생명보험재단,‘AI드로잉리그’수상작공개",
+  "형지I&C,본(BON)스트라이프컬렉션확대…2030여름공략",
+  "'10일내현금지급'꺼낸포스코그룹…5300개협력사상생시동",
+  "권유대로한헤어스타일\"너무창피\"…미용실은\"실수아닌콘셉트\"[포...",
+  "포스코그룹,공정위와협력사아우르는'상생생태계'구축한다",
+  "정부,개인정보유출은폐기업대상‘신고포상금제도’도입한다",
+  "지난해국감서\"무거운책임감\"답한웅진프리드라이프...내부통제강화...",
+  "[이슈]'경영하수'이병철다올투자증권회장의잇단무리수…대주주적..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T15:21:07.934670+09:00",
+ "last_run": "2026-07-16T15:31:13.081084+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
