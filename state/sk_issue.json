@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094460",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01987686645513536",
-  "https://www.busan.com/view/busan/view.php?code=2026071111464677034",
-  "https://www.yna.co.kr/view/PYH20260711020400054?input=1196m",
-  "https://www.yna.co.kr/view/AKR20260711024051054?input=1195m",
-  "http://www.segyebiz.com/newsView/20260711506706?OutUrl=naver",
-  "https://www.nocutnews.co.kr/news/6546669",
-  "https://view.asiae.co.kr/article/2026071111535903029",
   "https://www.ytn.co.kr/_ln/0115_202607111152308248",
   "https://www.news1.kr/local/gwangju-jeonnam/6224942",
   "https://www.dt.co.kr/article/12072302",
@@ -2999,17 +2991,17 @@
   "https://www.naeil.com/news/read/595523",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260716.99099004884",
   "https://www.tjb.co.kr/news05/bodo/view/id/101063",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596048"
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596048",
+  "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55919",
+  "https://www.jejusori.net/news/articleView.html?idxno=504809",
+  "http://kor.theasian.asia/archives/410037",
+  "https://www.jbnews.com/news/articleView.html?idxno=1507772",
+  "https://www.munhwa.com/article/11603161",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=605152",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030119711&code=61121211&cp=nv",
+  "https://www.ytn.co.kr/_ln/0115_202607161321054907"
  ],
  "seen_titles": [
-  "수백억대보험사기의혹'자생한방병원'…자동차보험,한방진료'도마...",
-  "민주당“장윤기사건,부실수사아닌공범행위…전면재수사해야”",
-  "경찰특별수사팀,장윤기수사관련광주경찰청장등압수수색",
-  "경찰특별수사팀,'장윤기'수사광주경찰청압수수색",
-  "장윤기'봐주기수사'윗선지시있었나…경찰지휘부압수수색(종합)",
-  "경찰,장윤기사건부실수사의혹관련광주경찰청압수수색",
-  "경찰특별수사팀,'부실수사의혹'광산경찰서장휴대전화도들여다본다...",
-  "장윤기사건'봐주기수사'지시있었나…경찰지휘부압수수색(종합)",
   "지휘라인전방위압수수색...형사과장·서장피의자전환",
   "장윤기父\"교도소갈아들원룸짐정리하려\"…증거인멸부인",
   "여고생살해범장윤기‘봐주기수사’있었나…경찰지휘부압수수색",
@@ -6001,7 +5993,15 @@
   "‘우발적범행’이라더니…장윤기,여고생노렸다",
   "18㎝흉기를커터칼로…경찰,김상민前검사등송치",
   "\"18cm흉기를'커터칼'로축소기재\"…李'테러제외'김상민전검사검...",
-  "제주경찰,'지게차사망사고'하나로마트압수수색"
+  "제주경찰,'지게차사망사고'하나로마트압수수색",
+  "AI워싱과테크노스트레스:보여주기식AI전환이조직에남기는것",
+  "20대노동자사망한달만에…제주경찰,하나로마트압수수색",
+  "[아시아라운드업20260716]중동확전기로…호르무즈충돌속테헤란인...",
+  "'모두의창업'정보유출파문…경찰,AI협력사전격압수수색",
+  "(단독)청주시의회,성매매혐의시의원‘제명처리’가닥…이르면내주...",
+  "'피습자작극'정이한수사전방위확대…부친병원압수수색",
+  "지게차사망사고하귀하나로마트압수수색",
+  "특별수사단,장윤기수사담당강력팀원피의자조사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 카드에도 규제완화 찬반 캐피탈사 렌탈 팽팽 상생금융"
   ]
  ],
- "last_run": "2026-07-16T13:20:58.366186+09:00",
+ "last_run": "2026-07-16T13:31:14.190483+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
