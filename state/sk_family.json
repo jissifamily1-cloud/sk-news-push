@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703003002?wlog_tag3=naver",
-  "https://www.segye.com/newsView/20260702515458?OutUrl=naver",
-  "http://www.kgnews.co.kr/news/article.html?no=902359",
   "https://www.segye.com/newsView/20260702515451?OutUrl=naver",
   "https://www.newsinside.kr/news/articleView.html?idxno=4808987",
   "https://www.ceoscoredaily.com/page/view/2026070215425581738",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/PYH20260716058500013?input=1196m",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43606",
   "https://www.imaeil.com/page/view/2026071610415384793",
-  "https://www.ytn.co.kr/_ln/0134_202607161048533137"
+  "https://www.ytn.co.kr/_ln/0134_202607161048533137",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41015",
+  "https://www.betanews.net/article/view/beta202607160035",
+  "https://www.mediapen.com/news/view/1110508"
  ],
  "seen_titles": [
-  "SK,1·2·3차협력사상생망넓힌다…하이닉스중심1.4조원지원",
-  "SK,협력사와상생협약체결…1.4조원자금지원등동반성장확대",
-  "“지역전체를‘AI실험의장’으로…과감한규제혁신·인프라조성...",
   "[사설]靑“임기내반도체클러스터완공”,규제개혁없이는공염불",
   "[오세훈의온고지신]독립군들을생각하라",
   "“협력사지원에1조4000억”…SK,상생협약",
@@ -6001,7 +5998,10 @@
   "귀농·귀촌청년기업부스관람하는김정관-최태원",
   "조정식국회의장,한국경제인협회경영자제주하계포럼참석",
   "SK하이닉스도검토한다는그것,주식액면분할왜하나요?[매일뭐니머니...",
-  "하이닉스극심한변동성에지쳤다...발빼고싶을때생각할것들[몇층..."
+  "하이닉스극심한변동성에지쳤다...발빼고싶을때생각할것들[몇층...",
+  "해군·최종현학술원,공동포럼개최…\"해양안보는경제안보,AI시대...",
+  "최종현학술원·해군,해상교통로위기와한국대응전략포럼공동개최",
+  "훈수만가득한반도체업계,\"기업목소리는어디에?\""
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-07-16T11:00:37.427676+09:00",
    "것들 변동성에 극심한 생각할 하이닉스 빼고 싶을 몇층 지쳤다"
+  ],
+  [
+   "2026-07-16T11:10:24.038276+09:00",
+   "훈수만 어디에 기업 가득한 반도체 목소리는 업계"
   ]
  ],
- "last_run": "2026-07-16T11:00:54.992488+09:00",
+ "last_run": "2026-07-16T11:10:37.726097+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
