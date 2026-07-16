@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/area/honam/1267761.html",
-  "https://www.newscj.com/news/articleView.html?idxno=3416145",
-  "https://news.tf.co.kr/read/life/2342203.htm",
-  "https://www.hani.co.kr/arti/society/society_general/1267760.html",
-  "https://www.donga.com/news/Society/article/all/20260710/134276951/2",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205206",
   "https://www.namdonews.com/news/articleView.html?idxno=916558",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/10/2026071090303.html",
@@ -2999,14 +2994,14 @@
   "https://www.khan.co.kr/article/202607160845001",
   "https://www.newsinside.kr/news/articleView.html?idxno=4842041",
   "https://www.dailysecu.com/news/articleView.html?idxno=207631",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244258"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244258",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=605045",
+  "https://www.greened.kr/news/articleView.html?idxno=345203",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244250",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260716090108sd3",
+  "https://www.dailian.co.kr/news/view/1667715/?sc=Naver"
  ],
  "seen_titles": [
-  "검찰,‘장윤기사건’광산경찰서장입건…서장실압수수색",
-  "국경넘은낙인…신천지신도차별확산우려",
-  "특검,'채상병수사정보누설'이시원전비서관구속영장",
-  "[속보]종합특검,‘채상병수사외압’의혹이시원전비서관구속영...",
-  "종합특검,‘채상병수사외압의혹’이시원前비서관구속영장청구",
   "[단독]\"내가지웠다\"…장윤기부친,휴대전화녹음파일삭제뒤경찰에...",
   "檢,광산경찰서장실압수수색",
   "특검,이시원前비서관구속영장청구…\"해병수사비밀누설\"",
@@ -6001,7 +5996,12 @@
   "권기창안동시장측근또구속···정치자금·입당원서의혹",
   "지I&C본,2030겨냥'서머스트라이프컬렉션'출시",
   "경찰내부정보가'건당80만원'…사설탐정에개인정보판매한현직경찰...",
-  "'중학생성매매'국힘청주시의원…민주\"부실검증대참사\""
+  "'중학생성매매'국힘청주시의원…민주\"부실검증대참사\"",
+  "대웅제약'거점도매'공정위민원종결…유통협회\"재제소·국정감사추...",
+  "정책자금브로커'활개'…국책금융사후관리도마에",
+  "[데스크칼럼]'먹튀논란'사모펀드와금융자본의책임",
+  "[사건사고]현직청주시의원압수수색…'아동성매매'혐의外",
+  "'채상병수사비밀유출'이시원前비서관구속영장기각"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 카드에도 규제완화 찬반 캐피탈사 렌탈 팽팽 상생금융"
   ]
  ],
- "last_run": "2026-07-16T09:01:23.451637+09:00",
+ "last_run": "2026-07-16T09:11:04.689697+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
