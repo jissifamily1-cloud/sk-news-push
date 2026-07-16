@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000322707?division=NAVER",
-  "https://www.newsis.com/view/NISX20260715_0003710309",
-  "https://www.koreaherald.com/article/10809868",
-  "https://www.koreatimes.co.kr/path/A2026071510160005310",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442368",
   "https://en.yna.co.kr/view/AEN20260715005700320?input=2106m",
   "https://isplus.com/article/view/isp202607150095",
@@ -2999,13 +2995,13 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092166012",
   "https://www.mk.co.kr/article/12095440",
   "https://www.busan.com/view/busan/view.php?code=2026071620214623923",
-  "https://biz.heraldcorp.com/article/10811001"
+  "https://biz.heraldcorp.com/article/10811001",
+  "https://www.khan.co.kr/article/202607162116005",
+  "https://en.yna.co.kr/view/AEN20260716008951320?input=2106m",
+  "https://www.newstree.kr/newsView/ntr202607160020",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/16/2026071690288.html"
  ],
  "seen_titles": [
-  "한국투자증권,코스피200·SK하이닉스등ELW340종목신규상장",
-  "삼성전자ESG평가최고점…신한금융·기아도최우수기업에선정",
-  "李대통령\"부동산매달리는건원시적...생산적금융으로전환\"",
-  "창신메모리,공모가8.66위안확정…中사상최대IPO",
   "李대통령\"레버리지ETF대책신속하게마련\"주문",
   "SK이노베이션주가,7월15일장중117,300원11.82%상승",
   "[충남24시]충남도의회,모바일챗봇'AI의정브레인톡'자체개발…예...",
@@ -6001,7 +5997,11 @@
   "日,엔비디아차세대GPU확보…피지컬AI승부수",
   "AI돌봄·공동구독·코리빙…웰컴투‘외로움시장’[스페셜리포트]",
   "390MW급신안우이해상풍력착공…국민성장펀드1호투자사업",
-  "“속도내라”대통령까지나선‘주가누르기방지법’,옥석가리기‘시..."
+  "“속도내라”대통령까지나선‘주가누르기방지법’,옥석가리기‘시...",
+  "아내의마지막배웅[포토뉴스]",
+  "(LEAD)RegulatorraisesminimumdepositrequirementforleveragedET",
+  "[신간]KSSB법정공시전환2026",
+  "반도체만호황인데…자영업자들'이자부담'에시름"
  ],
  "recent_sigs": [
   [
@@ -6783,9 +6783,25 @@
   [
    "2026-07-16T21:11:18.118739+09:00",
    "옥석가리기 나선 속도내라 주가누르기 대통령까지 방지법"
+  ],
+  [
+   "2026-07-16T21:21:11.690315+09:00",
+   "마지막 배웅 아내의"
+  ],
+  [
+   "2026-07-16T21:21:11.690315+09:00",
+   "raises ETFs am Regulator LEAD requirement for leveraged deposit minimum"
+  ],
+  [
+   "2026-07-16T21:21:11.690315+09:00",
+   "법정공시 KSSB"
+  ],
+  [
+   "2026-07-16T21:21:11.690315+09:00",
+   "이자 부담 시름 반도체만 호황인데 자영업자들"
   ]
  ],
- "last_run": "2026-07-16T21:11:24.797487+09:00",
+ "last_run": "2026-07-16T21:21:25.529294+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
