@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1382813",
-  "https://www.newscj.com/news/articleView.html?idxno=3414554",
-  "https://www.tokenpost.kr/news/ai/375114",
   "https://www.joongboo.com/news/articleView.html?idxno=363730534",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335583",
   "https://www.munhwa.com/article/11600331",
@@ -2999,12 +2996,12 @@
   "https://biz.heraldcorp.com/article/10811142",
   "https://economist.co.kr/article/view/ecn202607140019",
   "https://dealsite.co.kr/articles/165399",
-  "http://www.breaknews.com/1219232"
+  "http://www.breaknews.com/1219232",
+  "https://dealsite.co.kr/articles/165241",
+  "https://www.sentv.co.kr/article/view/sentv202607160155",
+  "https://www.banronbodo.com/news/articleView.html?idxno=32651"
  ],
  "seen_titles": [
-  "李대통령\"메가프로젝트,정치적수단이면지방선거전시작\"",
-  "[주간브리핑]삼성·SK,반도체·AI에4755조투자…홈플러스파산위기...",
-  "[靑春노트]'호남특혜론'이가린국가생존전략",
   "정부,1000조원규모'AIDC'승부수…'피지컬AI'총력전",
   "정부,2035년까지1천조원인공지능데이터센터투자유치계획발표",
   "빵으로전하는연대와공존의가치…연극'동백당:빵집의사람들'",
@@ -6001,7 +5998,10 @@
   "대법원무죄판결‘1년’…이재용회장,글로벌네트워크다지기바쁘...",
   "증시떠받친반도체인데…“정점지났다”시장흔드는피크아웃논란",
   "[바이오AX열전]젠슨황만난최윤정…SK바이오팜,AI큰그림그린다",
-  "나주시,2026년하반기정기인사단행…'일과성과'중심조직개편"
+  "나주시,2026년하반기정기인사단행…'일과성과'중심조직개편",
+  "[오늘의딜PICK][영상]성과급상한선깬최태원의결단,재계노사협...",
+  "‘300만닉스’첫칸맞췄다…SK하이닉스,TSMC훈풍에도엇갈린전망",
+  "[주간기업동향]최태원SK그룹회장,AI데이터센터비용혁신강조外"
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,17 @@
   [
    "2026-07-17T07:10:15.846914+09:00",
    "SK바이오팜 젠슨 큰그림 그린다 만난 AI"
+  ],
+  [
+   "2026-07-17T08:10:15.241149+09:00",
+   "훈풍에도 300만닉스 맞췄다 엇갈린 전망 TSMC SK하이닉스"
+  ],
+  [
+   "2026-07-17T08:10:15.241149+09:00",
+   "혁신 강조 AI 데이터센터 비용 회장"
   ]
  ],
- "last_run": "2026-07-17T08:00:37.629006+09:00",
+ "last_run": "2026-07-17T08:10:29.475144+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
