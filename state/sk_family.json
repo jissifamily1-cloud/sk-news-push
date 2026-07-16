@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606290023072920103653",
-  "https://www.ajunews.com/view/20260630153627122",
-  "https://www.banronbodo.com/news/articleView.html?idxno=32562",
   "http://www.newsian.co.kr/news/articleView.html?idxno=91763",
   "https://www.ytn.co.kr/_ln/0101_202607030816227701",
   "https://www.news1.kr/industry/general-industry/6216584",
@@ -2999,12 +2996,12 @@
   "https://biz.heraldcorp.com/article/10811083",
   "https://www.kukinews.com/article/view/kuk202607160075",
   "https://www.chosun.com/international/international_general/2026/07/16/GOB24ULMERD5RLYMLBT7S5BAVU/",
-  "https://magazine.hankyung.com/business/article/202607169185b"
+  "https://magazine.hankyung.com/business/article/202607169185b",
+  "https://www.hankookilbo.com/news/article/A2026071608570000900?did=NA",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42442",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000050277"
  ],
  "seen_titles": [
-  "SK,1조4000억원상생투자..협력사AI·반도체경쟁력키운다",
-  "SK,협력사금융·기술지원확대…1조4000억원투입상생생태계조성",
-  "[더벨][45조의승부수:SK하이닉스ADR]ROE44%의무게…연20조더벌어...",
   "[김한정칼럼]반도체는'평화'를먹고자란다",
   "[주간기업동향]최태원SK그룹회장,AI·반도체에2100조원투자外",
   "800조호남반도체프로젝트…삼성·SK,'최적입지'찾기본격화",
@@ -6001,13 +5998,12 @@
   "“AI시대…일하는방식다시짜야”[대한상의·한경협제주포럼]",
   "통합특별시교통망전면손질요구",
   "젠슨황“도요타와피지컬AI협력...‘일본AI’의시작”",
-  "\"SK하이닉스광주오나?\"최태원인스타에포착된'결정적단서'"
+  "\"SK하이닉스광주오나?\"최태원인스타에포착된'결정적단서'",
+  "\"SK하이닉스,정말광주오나봐\"…최태원'광주맛집'팔로우에'들썩'",
+  "최태원AI전략성과가시화…SK㈜,반도체·에너지재편에기업가치재...",
+  "2040년대한민국성장축대전환…전남광주초광역특별시의도전"
  ],
  "recent_sigs": [
-  [
-   "2026-07-16T06:06:41.918692+09:00",
-   "실용주의 도구된 정치"
-  ],
   [
    "2026-07-16T07:10:25.920557+09:00",
    "놓고 일손 진짜사장 10만 나와라 민주노총 시간은 인내의 노동자"
@@ -6079,9 +6075,13 @@
   [
    "2026-07-16T12:00:38.864581+09:00",
    "오나 결정적 SK하이닉스 인스타에 단서 포착된 광주"
+  ],
+  [
+   "2026-07-16T12:10:24.768089+09:00",
+   "2040년 초광역 대한민국 도전 성장축 대전환 특별시의 전남광주"
   ]
  ],
- "last_run": "2026-07-16T12:00:54.495241+09:00",
+ "last_run": "2026-07-16T12:10:37.679391+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6269,6 +6269,7 @@
   "jjan.kr": "전북일보 인터넷신문",
   "worknworld.kctu.org": "노동과세계",
   "imaeil.com": "매일신문",
-  "sidae.com": "동행미디어 시대"
+  "sidae.com": "동행미디어 시대",
+  "jnilbo.com": "전남일보"
  }
 }
