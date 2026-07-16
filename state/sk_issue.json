@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bzeronews.com/news/articleView.html?idxno=819924",
-  "http://www.gjdream.com/news/articleView.html?idxno=670941",
-  "https://www.namdonews.com/news/articleView.html?idxno=916576",
-  "https://www.ikbc.co.kr/article/view/kbc202607110033",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608311",
-  "https://www.joongang.co.kr/article/25444311",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260711.99099003219",
   "https://www.nocutnews.co.kr/news/6546743",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608428",
   "https://www.news1.kr/local/gwangju-jeonnam/6224498",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12100418",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43626",
   "https://www.kbmaeil.com/article/20260716500211",
-  "https://www.mk.co.kr/article/12100414"
+  "https://www.mk.co.kr/article/12100414",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=83399",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=83415",
+  "https://www.mt.co.kr/industry/2026/07/16/2026071612061888326",
+  "https://www.busan.com/view/busan/view.php?code=2026071616513893515",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=352968",
+  "http://www.inews24.com/view/1986356",
+  "https://www.newsis.com/view/NISX20260716_0003712711"
  ],
  "seen_titles": [
-  "'광주경찰청장실까지압수수색'…장윤기사건,수사지휘라인전면겨눈...",
-  "국수본'장윤기부실수사'광주경찰청압수수색",
-  "장윤기사건에다시불붙은'검찰보완수사권'공방…여야충돌격화",
-  "'장윤기사건'윗선향한수사...광주경찰청장실압수수색",
-  "장윤기사건,‘경찰윗선’정조준…광주경찰청등압수수색",
-  "장윤기수사팀“서장이‘강간살인죄적용’막았다”진술",
-  "[속보]장윤기사건\"수사라인간부가'강간살인혐의'적용반대했다\"증...",
   "검·경,'장윤기사건'수사지휘라인으로확대",
   "인니반부패‘스타검사’사임…집에400억대금괴·현금",
   "장윤기父집서발견'케이블타이'강간살해목적'빼박증거'되나",
@@ -6001,7 +5994,14 @@
   "‘한미현안’NSC개최한청와대…강경화주미한국대사도참석",
   "협력사와상생나선포스코그룹,공정위등과'상생협약체결식'",
   "AI로카톡·현금인출증조작…피해자가무고피고인될뻔",
-  "경찰,전교조충남지부사무실압수수색"
+  "경찰,전교조충남지부사무실압수수색",
+  "[단독]메키사태이어넥슨,'메이플스토리오류'발생…韓日대응차별...",
+  "포스코그룹-공정위,2·3차협력사까지아우르는'상생생태계'구축",
+  "확바뀐제약규제환경…'혁신형기업'사수위한제도적시사점은?",
+  "'미성년자성매매'최영중청주시의회의원,'개인사정'사유로사직서...",
+  "민주노총충북본부\"최영중제명·김진모사퇴\"촉구",
+  "아동성범죄혐의최영중청주시의원‘자진사퇴’",
+  "특검\"김건희조사,19→21일연기\"…金측\"확정아냐\"(종합)"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "행정소송 KT 5G 속도 패소 과장광고"
   ]
  ],
- "last_run": "2026-07-16T16:51:05.343917+09:00",
+ "last_run": "2026-07-16T17:01:18.205952+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
