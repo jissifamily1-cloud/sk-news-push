@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300084.html",
-  "http://www.beyondpost.co.kr/view.php?ud=202607031133467102205868f676_30",
-  "https://biz.heraldcorp.com/article/10797261",
-  "https://biz.heraldcorp.com/article/10797254",
-  "https://www.yna.co.kr/view/AKR20260703071100061?input=1195m",
   "https://www.news1.kr/society/environment/6216879",
   "https://www.dailypharm.com/user/news/340098?REFERER=NP",
   "https://daily.hankooki.com/news/articleView.html?idxno=1382558",
@@ -2999,14 +2994,14 @@
   "https://magazine.hankyung.com/business/article/202607169414b",
   "https://www.donga.com/news/Economy/article/all/20260716/134311500/1",
   "https://www.yna.co.kr/view/AKR20260716123200051?input=1195m",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04152486645515176"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04152486645515176",
+  "http://www.fnnews.com/news/202607161417381792",
+  "http://www.fnnews.com/news/202607161025286961",
+  "https://www.apnews.kr/news/articleView.html?idxno=3049823",
+  "http://www.fnnews.com/news/202607161348186835",
+  "https://www.newspim.com/news/view/20260716000587"
  ],
  "seen_titles": [
-  "이미인,박정완대표중소벤처기업부장관표창수상",
-  "한앤코,SK디앤디대표보고자로변경…거래종결임박",
-  "800조반도체금융파트너자처한광주은행…정작대기업대출1.6조",
-  "K-브랜드지수CEO부문,최태원·이재용·구광모순",
-  "“전남광주지방분권시발점…반도체투자,대통령임기내성과”[민...",
   "최창원“낙수효과확산노력”…협력사에1.4조원투입",
   "경기도,광역지자체첫'공공동물병원'세운다",
   "AI센터'전기하마'논란…기후장관\"반도체만팔고안할문제아냐\"",
@@ -6001,7 +5996,12 @@
   "\"메모리의미래믿었다\"…최태원이밝힌14년전하이닉스인수결단이...",
   "최태원“하이닉스인수,모두가반대…임직원이옳았음을증명”",
   "[인사]부산시",
-  "최태원\"모두가반대했던하이닉스인수…임직원이옳았음증명\""
+  "최태원\"모두가반대했던하이닉스인수…임직원이옳았음증명\"",
+  "대한상의,제주청년기업인들과간담회…지역가치창출모색",
+  "최종현학술원,해양질서재편진단…\"공급망회복력이국가생존좌우\"",
+  "美자본시장도인정한최태원'AI드라이브'…SK㈜몸값까지높인다",
+  "최태원\"SK하닉美상장,10년넘게꿈꿔왔던순간...그룹위상높여\"",
+  "최태원이꺼낸'토큰경제'…AI경쟁공식바뀐다"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,17 @@
   [
    "2026-07-16T13:50:28.941256+09:00",
    "ADR 하이닉스 결단 옳았다 인수 상장으로"
+  ],
+  [
+   "2026-07-16T14:30:31.947148+09:00",
+   "넘게 높여 SK하닉 상장 왔던 순간 꿈꿔 위상 10년"
+  ],
+  [
+   "2026-07-16T14:30:31.947148+09:00",
+   "바뀐다 최태원이 경제 경쟁 AI 토큰 꺼낸"
   ]
  ],
- "last_run": "2026-07-16T14:20:33.838296+09:00",
+ "last_run": "2026-07-16T14:30:46.461812+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
