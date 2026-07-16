@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=586267",
-  "https://dealsite.co.kr/articles/164696",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189341",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845922",
   "https://www.kukinews.com/article/view/kuk202607020170",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=243922",
   "http://www.sisanews24.co.kr/18939",
@@ -2999,13 +2995,13 @@
   "https://www.mediapen.com/news/view/1110447",
   "https://www.sidae.com/article/2026071608231153716",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=273125",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468916"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468916",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041476",
+  "https://www.mt.co.kr/industry/2026/07/16/2026071608165889174",
+  "https://www.seoultimes.news/news/article.html?no=2000097833",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425299"
  ],
  "seen_titles": [
-  "SK,1조4000억투입...협력사상생강화",
-  "충청권에240조모인다…삼성·SK첨단산업집결",
-  "이병철삼성그룹창업회장,'불멸의총수'5개월연속최정상…정주영...",
-  "'상생'외친최창원\"불확실한시대,협력만이살길\"",
   "[WIKI현장]SK,'울력정신'으로3차협력사까지상생…6800억펀드풀고...",
   "최창원의장\"상생위해1조4000억투입…협력사R&D등지원\"",
   "“3대메가프로젝트성공여부,정주여건개선등에달려”…대한상의...",
@@ -6001,7 +5997,11 @@
   "[미르의알기쉬운비즈니스]사우디통신부장관은왜한국으로날아와최...",
   "최태원회장의'AI드라이브'가이끈SK밸류업",
   "최종현학술원,해양안보는곧경제안보…해군역할론부상",
-  "최태원\"AI포트폴리오가장잘짜였다\"…SKAI전략,실적이증명"
+  "최태원\"AI포트폴리오가장잘짜였다\"…SKAI전략,실적이증명",
+  "대한상의최태원\"AI,4살짜리아이…지금부터함께키워야\"",
+  "최종현학술원,해군과포럼개최..해상교통로위기와대응전략논의",
+  "[이슈]SK하이닉스ADR흥행몰이…SK㈜밸류업힘싣는최태원의AI승부...",
+  "[남승표의궁변통구]워런버핏이부러워할대한민국을꿈꾸며"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-07-16T09:10:24.687095+09:00",
    "가장 전략 실적이 짜였다 증명 AI 포트폴리오"
+  ],
+  [
+   "2026-07-16T09:30:32.462414+09:00",
+   "대한민국을 꿈꾸며 워런 버핏이 부러워할"
   ]
  ],
- "last_run": "2026-07-16T09:20:33.530864+09:00",
+ "last_run": "2026-07-16T09:30:47.332976+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
