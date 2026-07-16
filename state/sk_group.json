@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607151600249113a6e8311f64_1",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312052",
-  "https://www.joongangenews.com/news/articleView.html?idxno=533189",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=203908",
-  "https://biz.chosun.com/policy/policy_sub/2026/07/15/6A55NF7M6ZEHTM3CGC5ZG7VJTQ/",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4095298",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468769",
   "https://www.news1.kr/finance/market-exr/6229288",
   "http://www.newstomato.com/ReadNews.aspx?no=1307244&inflow=N",
@@ -2999,15 +2993,15 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170091&t=NN",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469189",
   "https://www.econovill.com/news/articleView.html?idxno=745449",
-  "https://www.seoul.co.kr/news/economy/2026/07/17/20260717500008?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/economy/2026/07/17/20260717500008?wlog_tag3=naver",
+  "https://biz.chosun.com/international/international_general/2026/07/17/FZC3D4Q6KFGBDCAOZ3IKEPNACU/",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008662049&plink=ORI&cooper=NAVER",
+  "https://www.yna.co.kr/view/AKR20260717006751072?input=1195m",
+  "https://www.tfmedia.co.kr/news/article.html?no=205829",
+  "https://www.pressian.com/pages/articles/2026071621105341062",
+  "https://www.mk.co.kr/article/12100854"
  ],
  "seen_titles": [
-  "옴디아\"HBM가격2030년하락전환⋯신규팹이변수\"",
-  "산업·경제계\"반도체초과이익특별세,기업투자위축\"",
-  "블룸버그\"한국증시,레버리지가시장흔든다\"…SK하이닉스변동성에...",
-  "반도체고점우려에도의연한삼성·SK…자신감배경은",
-  "SK오션플랜트,해상풍력하부구조물에로봇용접첫투입.생산속도혁...",
-  "[환율마감]SK하이닉스물량…원·달러1480원대안착‘2개월최저’",
   "변정수,챗GPT로주식대박…\"175만원넣었는데2배올라\"[MHN:픽]",
   "\"사실무근\"부인에도…삼성전자나스닥ADR상장설'솔솔'",
   "충남도,첨단산업투자활성화기업맞춤형신속지원체계본격가동",
@@ -6001,7 +5995,13 @@
   "[속보]SK하이닉스,9%밀린다음날14%'급락'…美반도체와르르",
   "코스피·코스닥전거래일(16일)주요공시는?...에이피알,2년연속중간...",
   "[분양캘린더]\"휴가전에쏟아내자\"...7월넷째주,전국11곳서6468가...",
-  "[서울데이터랩]미증시,기술주약세에혼조마감…나스닥1%대하락"
+  "[서울데이터랩]미증시,기술주약세에혼조마감…나스닥1%대하락",
+  "뉴욕증시,AI반도체주매도에하락…나스닥1.5%↓",
+  "레버리지예탁금3천만원상향…'매매단위'20주로",
+  "뉴욕증시,AI반도체주매도에하락…나스닥1.5%↓(종합)",
+  "[이슈체크]‘삼전닉스’레버리지문턱높였지만'베팅판'된변동성은...",
+  "\"남편데리러왔어요\"…컨베이어에삼켜진미얀마노동자유족의눈물",
+  "비용·용량제한없는‘온국민AI’12월에나온다…재원은글쎄"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,21 @@
   [
    "2026-07-17T06:21:05.663935+09:00",
    "하락 나스닥 혼조 증시 마감 기술주 약세에"
+  ],
+  [
+   "2026-07-17T06:31:07.677090+09:00",
+   "높였지만 삼전닉스 베팅판 레버리지 변동성은 문턱"
+  ],
+  [
+   "2026-07-17T06:31:07.677090+09:00",
+   "남편 컨베이어에 왔어요 유족의 데리러 노동자 삼켜진 눈물 미얀마"
+  ],
+  [
+   "2026-07-17T06:31:07.677090+09:00",
+   "나온다 글쎄 용량 비용 제한없는 12월에 AI 재원은 온국민"
   ]
  ],
- "last_run": "2026-07-17T06:21:22.044376+09:00",
+ "last_run": "2026-07-17T06:31:27.124050+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
