@@ -868,7 +868,10 @@
   "http://www.4th.kr/news/articleView.html?idxno=2114850",
   "https://www.segye.com/newsView/20260716517239?OutUrl=naver",
   "https://www.cstimes.com/news/articleView.html?idxno=713803",
-  "https://www.dongponews.net/news/articleView.html?idxno=59328"
+  "https://www.dongponews.net/news/articleView.html?idxno=59328",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716737",
+  "https://dealsite.co.kr/articles/165447",
+  "https://www.inthenews.co.kr/news/article.html?no=89444"
  ],
  "seen_titles": [
   "기업은행,지난해‘ESG채권’7.3조발행…5년연속은행권최대비중",
@@ -1738,10 +1741,13 @@
   "[산업소식]현대차,달리기로나무심는'포레스트런'참가자모집",
   "“해양안보는경제·에너지·산업의생존문제”…해양주권지키자는...",
   "자립준비청년·경계선지능문제탐구…SK행복나눔재단,'SunnyScholar'연구...",
-  "바닷길막히면반도체도멈춘다...\"공급망최고위험품목두배급증\""
+  "바닷길막히면반도체도멈춘다...\"공급망최고위험품목두배급증\"",
+  "SK행복나눔재단,대학생사회문제연구성과내달공개",
+  "[전자는지금]LS일렉트릭,성과기반보상확대해‘비전2030’속도높...",
+  "SK행복나눔재단,대학생참여사회문제해결‘써니스칼라인사이트데..."
  ],
  "recent_sigs": [],
- "last_run": "2026-07-16T16:31:00.925820+09:00",
+ "last_run": "2026-07-16T16:40:53.761524+09:00",
  "initialized": true,
  "press_names": {
   "econonews.co.kr": "이코노뉴스",
@@ -1777,6 +1783,7 @@
   "koreareport.co.kr": "코리아리포트",
   "bizwnews.com": "비즈월드",
   "cstimes.com": "컨슈머타임스(Consumertimes)",
-  "dongponews.net": "재외동포신문"
+  "dongponews.net": "재외동포신문",
+  "dealsite.co.kr": "딜사이트"
  }
 }
