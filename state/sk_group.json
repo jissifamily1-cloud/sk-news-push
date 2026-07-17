@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=148660",
-  "https://www.newspim.com/news/view/20260715001295",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51475",
-  "https://biz.sbs.co.kr/article_hub/20000322755?division=NAVER",
-  "https://www.mediawatch.kr/news/article.html?no=260384",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=362151",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150321&t=NN",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=362594",
@@ -2999,14 +2994,14 @@
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724478",
   "https://view.asiae.co.kr/article/2026071615404506839",
   "https://www.rcast.co.kr/news/articleView.html?idxno=31281",
-  "https://www.etoday.co.kr/news/view/2604634"
+  "https://www.etoday.co.kr/news/view/2604634",
+  "https://www.ajunews.com/view/20260717090000488",
+  "https://www.chosun.com/economy/stock-finance/2026/07/17/VZA3RD22LNCWTAMXFRMBHG6LOY/",
+  "https://view.asiae.co.kr/article/2026071709175754528",
+  "https://news.unn.net/news/articleView.html?idxno=594635",
+  "https://biz.sbs.co.kr/article_hub/20000323089?division=NAVER"
  ],
  "seen_titles": [
-  "최태원,사우디ICT장관과회동…AI·반도체협력확대전망",
-  "학력제한폐지한SK하이닉스…지원서엔여전히'출신대학기재란'",
-  "전세대출부터이주비·대출총량까지…부동산정책놓고'백가쟁명'",
-  "SK스토아매각막바지…라포랩스,인수이후가시험대",
-  "돈은흐르고AI는진화한다…KB가그리는머니무브·AX시대의청사진",
   "쿠팡사태,왜한미외교이슈가됐나",
   "전남광주통합시의회회기돌입…최대이슈는단연'반도체'",
   "주미대사이례적귀국,한미불협화음어느정도길래[사설]",
@@ -6001,7 +5996,12 @@
   "[내집마련캘린더]경기분양시장달군다…'김포·오산·의왕'청약",
   "\"신축6억이하실종\"…5억대'이천휴먼빌클래스원'실수요자주목",
   "'수원이목지구디에트르더리체Ⅱ'잔여세대공급",
-  "용인반도체국가산업단지조성속도…'용인고림동문디이스트'공급"
+  "용인반도체국가산업단지조성속도…'용인고림동문디이스트'공급",
+  "'삼전닉스'레버리지에한달새7조원…금융당국규제강화",
+  "SK하이닉스ADR이틀새21%급락…고개드는반도체‘피크아웃’우려",
+  "삼전닉스레버리지한달간7조원자금유입",
+  "[2027수시/동신대학교]취업에강한대학…전남광주AI·반도체RE100으...",
+  "'삼전닉스레버리지'폭락에도돈몰렸다…한달간7조흡수"
  ],
  "recent_sigs": [
   [
@@ -6429,7 +6429,7 @@
    "동문 국가산업단지 반도체 이스트 조성 속도 용인 공급 고림"
   ]
  ],
- "last_run": "2026-07-17T09:16:07.716234+09:00",
+ "last_run": "2026-07-17T09:21:03.835641+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
