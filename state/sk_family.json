@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=897176",
-  "https://www.pennmike.com/news/articleView.html?idxno=123177",
   "http://weekly.chosun.com/news/articleView.html?idxno=53140",
   "https://www.asiatime.co.kr/article/20260705500054",
   "https://www.sportsseoul.com/news/read/1620631",
@@ -2999,11 +2997,11 @@
   "https://www.banronbodo.com/news/articleView.html?idxno=32651",
   "https://www.news2day.co.kr/article/20260716500255",
   "http://www.netongs.com/news/articleView.html?idxno=334139",
-  "https://www.pressian.com/pages/articles/2026071709403968154"
+  "https://www.pressian.com/pages/articles/2026071709403968154",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260717103442RMh",
+  "https://www.yna.co.kr/view/AKR20260717026000003?input=1195m"
  ],
  "seen_titles": [
-  "靑김용범\"'AI생산혁명시대'과실,초과이윤다음세대로연결하는투...",
-  "中현대미술가송동방한…18일제주서아티스트토크",
   "[포토]13대충남도의회,운영위원회출범",
   "[재계핫이슈]이건희회장과사뭇다른'이재용스타일'",
   "반세기'반도체도시'구미의탄식…\"우린원전도있고,물도있는데\"",
@@ -6001,7 +5999,9 @@
   "[주간기업동향]최태원SK그룹회장,AI데이터센터비용혁신강조外",
   "기준금리인상에자금조달부담…기업‘유동성관리’관건",
   "민선9기여수시,2026년하반기인사단행했다",
-  "[인사]전남광주여수시"
+  "[인사]전남광주여수시",
+  "中\"AI는연인아니다\"…인간관계대체첫제동",
+  "최태원\"SK하이닉스주가우상향…가만히갖고있으면돼\""
  ],
  "recent_sigs": [
   [
@@ -6027,9 +6027,13 @@
   [
    "2026-07-17T08:50:13.703252+09:00",
    "기업 자금조달 유동성 관리 부담 인상에 관건 기준금리"
+  ],
+  [
+   "2026-07-17T10:40:15.405229+09:00",
+   "있으면 주가 SK하이닉스 가만히 우상향 갖고"
   ]
  ],
- "last_run": "2026-07-17T10:30:31.155255+09:00",
+ "last_run": "2026-07-17T10:40:30.495454+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
