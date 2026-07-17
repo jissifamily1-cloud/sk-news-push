@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://weekly.chosun.com/news/articleView.html?idxno=53140",
-  "https://www.asiatime.co.kr/article/20260705500054",
-  "https://www.sportsseoul.com/news/read/1620631",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01879446645511568",
   "http://www.bizwnews.com/news/articleView.html?idxno=139989",
   "http://www.cctimes.kr/news/articleView.html?idxno=914900",
   "http://www.metroseoul.co.kr/article/20260705500242",
@@ -2999,12 +2995,13 @@
   "http://www.netongs.com/news/articleView.html?idxno=334139",
   "https://www.pressian.com/pages/articles/2026071709403968154",
   "http://www.yonhapnewstv.co.kr/news/MYH20260717103442RMh",
-  "https://www.yna.co.kr/view/AKR20260717026000003?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260717026000003?input=1195m",
+  "https://www.newsis.com/view/NISX20260717_0003713213",
+  "https://economist.co.kr/article/view/ecn202607170007",
+  "https://www.khan.co.kr/article/202607171047001",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170153&t=NN"
  ],
  "seen_titles": [
-  "[포토]13대충남도의회,운영위원회출범",
-  "[재계핫이슈]이건희회장과사뭇다른'이재용스타일'",
-  "반세기'반도체도시'구미의탄식…\"우린원전도있고,물도있는데\"",
   "전국1600조대투자…소멸위기지방,구원투수될까",
   "박정완이미인대표,중소기업인대회서중기부장관표창",
   "쇳물대신‘지능’을찍어낸다…왜지금‘AI팩토리’인가[김현아의...",
@@ -6001,7 +5998,10 @@
   "민선9기여수시,2026년하반기인사단행했다",
   "[인사]전남광주여수시",
   "中\"AI는연인아니다\"…인간관계대체첫제동",
-  "최태원\"SK하이닉스주가우상향…가만히갖고있으면돼\""
+  "최태원\"SK하이닉스주가우상향…가만히갖고있으면돼\"",
+  "최태원회장\"AI시대,한국성장열쇠는지능수출…틈새시장노려야...",
+  "[속보]최태원\"SK하이닉스가만히갖고있으면된다…시간두면우상향...",
+  "최태원“SK하이닉스주식가만히갖고있으면돼…우상향할것”"
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "있으면 주가 SK하이닉스 가만히 우상향 갖고"
   ]
  ],
- "last_run": "2026-07-17T10:40:30.495454+09:00",
+ "last_run": "2026-07-17T10:50:26.712477+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
