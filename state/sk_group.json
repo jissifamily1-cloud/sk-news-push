@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260715145514389",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088718",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42433",
-  "http://www.fnnews.com/news/202607151936299438",
-  "https://www.donga.com/news/Economy/article/all/20260715/134305859/1",
   "https://view.asiae.co.kr/article/2026071519464305952",
   "https://www.gukjenews.com/news/articleView.html?idxno=3637196",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611793",
@@ -2999,14 +2994,14 @@
   "http://www.lawissue.co.kr/view.php?ud=202607171749349199f4ab64559d_12",
   "https://www.mk.co.kr/article/12101134",
   "https://www.nocutnews.co.kr/news/6549632",
-  "https://www.dailian.co.kr/news/view/1668256/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1668256/?sc=Naver",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1065450",
+  "https://www.seoul.co.kr/news/economy/securities/2026/07/17/20260717500134?wlog_tag3=naver",
+  "https://www.yna.co.kr/view/AKR20260717050800007?input=1195m",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872291",
+  "https://www.hani.co.kr/arti/opinion/editorial/1268778.html"
  ],
  "seen_titles": [
-  "상장앞둔中CXMT…전문가“삼성·SK와격차크지만HBM잠재적위협...",
-  "202조첨단산업투자활성화지원체계가동",
-  "미국주식시장,대규모주식발행으로강세장흔들리나",
-  "코스피'7천피'탈환…외국인대규모매수·반도체강세",
-  "검찰,‘반도체부품담합’몬타지테크놀로지등3곳압수수색",
   "[짚어봅시다]보폭확키운中창신메모리,세계3위美마이크론넘본...",
   "[주요공시]서진시스템,한화오션,남양유업,신성이엔지,이수페타시스...",
   "젠슨황\"SK하이닉스ADR,믿을수없을정도로성공적…기쁘다\"",
@@ -6001,7 +5996,12 @@
   "국회과방위위원들,AI인프라투자·수출전략국회토론회개최",
   "美기업코스닥동시상장…韓증시글로벌화발판될듯",
   "\"내일혀내밀거야\"…월드컵최고스타는4살?[어텐션뉴스]",
-  "[데일리안오늘뉴스종합]트럼프“중국이유권자정보빼”…대관령..."
+  "[데일리안오늘뉴스종합]트럼프“중국이유권자정보빼”…대관령...",
+  "대기업본사울산이전…'김상욱호'화두로다시부상",
+  "“하이닉스팔지말라”는최태원…日반도체대장주‘하한가’[내가...",
+  "권창훈,인니페르시자자카르타로이적…신태용감독과한솥밥",
+  "최태원,\"AI시대,SK하이닉스주식장기투자전략이핵심\"",
+  "[사설]‘레버리지ETF’대책,진입규제만으로변동성줄일수있나"
  ],
  "recent_sigs": [
   [
@@ -6281,7 +6281,7 @@
    "유권자 정보 트럼프 대관령 중국이"
   ]
  ],
- "last_run": "2026-07-17T18:11:20.644863+09:00",
+ "last_run": "2026-07-17T18:21:09.583700+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
