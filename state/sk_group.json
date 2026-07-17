@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=311465",
-  "https://biz.chosun.com/topics/law_firm/2026/07/15/24NNANY43BG55M7MZU6272HXRA/",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234075",
-  "https://www.betanews.net/article/view/beta202607150107",
-  "https://www.sedaily.com/article/20068281",
-  "https://www.ppss.kr/news/articleView.html?idxno=302203",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611671",
   "https://news.appstory.co.kr/daily19369",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611666",
@@ -2999,15 +2993,15 @@
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83431",
   "https://monthly.chosun.com/news/articleView.html?idxno=70752",
   "http://weekly.chosun.com/news/articleView.html?idxno=53554",
-  "https://www.koreatimes.co.kr/path/A2026071711250003848"
+  "https://www.koreatimes.co.kr/path/A2026071711250003848",
+  "https://www.etnews.com/20260717000029",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=847515",
+  "https://www.kyeongin.com/article/1767463",
+  "https://www.mk.co.kr/article/12101021",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442581",
+  "https://www.yeongnam.com/web/view.php?key=20260717023596622"
  ],
  "seen_titles": [
-  "SKT,'메가프로젝트'AIDC전담조직신설",
-  "최태원'광주맛집'팔로우에들썩…\"진짜오긴오나봐\"",
-  "\"일하는방식자체를AI에새로맞추는재설계필요\"",
-  "\"주문2028년까지밀려\"…ASML전망치대폭상향",
-  "“대책서둘러라”대통령까지나선레버리지ETF…‘예탁금높이고교...",
-  "최태원\"일하는방식AI에맞게재설계해야경제도성장\"",
   "이통3사·네이버·구글·넷플릭스등47곳,이용자보호평가받는다",
   "사랑의열매,여름철나눔캠페인에247억모여…각계참여눈길",
   "개미만울린레버리지…李“신속히보완하라”",
@@ -6001,21 +5995,15 @@
   "미의회,중국산메모리구매금지촉구…삼성·SK하이닉스'반사이익'",
   "최태원\"하이닉스주식,사고팔지말고보유하라\"",
   "최태원\"하이닉스,샀다팔지마라…시간두면우상향\"",
-  "'AIforeveryone'gov'tinitiativefacesfeasibilityquestions"
+  "'AIforeveryone'gov'tinitiativefacesfeasibilityquestions",
+  "'최대실적'반도체고점론걷어낸TSMC…“메모리기업이부럽다?”",
+  "최태원\"SK하이닉스주가,시간두면오른다\"…\"韓,지능수출로전략바...",
+  "인천‘수소버스’늦어진다…서구‘액화수소플랜트’대수선작업",
+  "김윤덕“용인반도체국가산단,올해말까지부지공사착수”",
+  "[7월18일자]비즈니스포스트아침의주요기사",
+  "7200선찍고하루만에6800밀린코스피…“바닥다질때까지‘분할매..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-17T11:01:18.130158+09:00",
-   "언급한 추미애 TSMC를 경기지사의 공존 기후 반도체 주문"
-  ],
-  [
-   "2026-07-17T11:01:18.130158+09:00",
-   "꺼지 시작인데도 역김치 상호전환 29일 프리미엄 SK하이닉스"
-  ],
-  [
-   "2026-07-17T11:01:18.130158+09:00",
-   "locks with Mobis Harman auto memory deals in Hyundai Micron"
-  ],
   [
    "2026-07-17T11:11:08.656814+09:00",
    "샀다 최태원만 팔았다 주식 갖고 있으라 믿습니다 하지말고"
@@ -6319,9 +6307,25 @@
   [
    "2026-07-17T16:51:08.912505+09:00",
    "questions feasibility gov initiative for everyone faces AI"
+  ],
+  [
+   "2026-07-17T17:01:22.022226+09:00",
+   "플랜트 작업 인천 늦어진다 액화수소 수소버스 서구 대수선"
+  ],
+  [
+   "2026-07-17T17:01:22.022226+09:00",
+   "올해 용인 착수 부지공사 말까지 국가산단 김윤덕 반도체"
+  ],
+  [
+   "2026-07-17T17:01:22.022226+09:00",
+   "비즈니스포스트 아침의 주요기사"
+  ],
+  [
+   "2026-07-17T17:01:22.022226+09:00",
+   "찍고 밀린 분할매 만에 다질 하루 때까지 코스피 바닥 7200선"
   ]
  ],
- "last_run": "2026-07-17T16:51:18.277059+09:00",
+ "last_run": "2026-07-17T17:01:36.108702+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
