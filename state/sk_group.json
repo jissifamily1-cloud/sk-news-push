@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20068264",
-  "https://www.thepowernews.co.kr/view.php?ud=202607031343322272de3f0aa1be_7",
-  "https://www.mk.co.kr/article/12089779",
-  "https://www.mk.co.kr/article/12099583",
   "http://www.mdilbo.com/detail/0kIA7d/757203",
   "http://www.metroseoul.co.kr/article/20260715500471",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=189795",
@@ -2999,13 +2995,13 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790121.html",
   "https://www.mediapen.com/news/view/1110734",
   "https://kpenews.com/View.aspx?No=4152674",
-  "https://www.sisajournal.com/news/articleView.html?idxno=380228"
+  "https://www.sisajournal.com/news/articleView.html?idxno=380228",
+  "https://www.huffingtonpost.kr/article/258816",
+  "https://news.jtbc.co.kr/article/NB12308798?influxDiv=NAVER",
+  "https://www.donga.com/news/Economy/article/all/20260717/134317029/1",
+  "https://www.chosun.com/economy/tech_it/2026/07/17/CEEJGKMR45C4VMWGJMJUKD32FE/"
  ],
  "seen_titles": [
-  "반도체호황에장비업계도노조결성바람…세메스이어TEL코리아도추...",
-  "대한상의하계포럼개최…최태원\"AI는놓쳐서는안될기회\"",
-  "삼전닉스부품공급업체'가격담합'의혹…검찰,압수수색",
-  "최태원\"AI,묻는만큼일해…일하는방식재설계필요\"",
   "검찰,'반도체부품가담합'몬타지·르네사스·램버스압수수색",
   "[외환-마감]약달러·외인매수에하이닉스까지…1,480원대로하락",
   "기업인900명제주집결…AI시대韓성장전략찾는다",
@@ -6001,7 +5997,11 @@
   "최태원\"SK하이닉스주가,시간두면우상향…메모리계속필요\"",
   "최태원회장“SK하이닉스,단기매매보다장기보유”…AI메모리성장...",
   "뉴욕증시,반도체주급락영향하락세..국제유가도내려앉아",
-  "레버리지ETF어떻게손질되나…바뀐'사는법'총정리[QnA]"
+  "레버리지ETF어떻게손질되나…바뀐'사는법'총정리[QnA]",
+  "SK최태원,AI성장에메모리필수요소강조\"SK하이닉스주가우상향할...",
+  "\"메모리는우상향\"…최태원\"주식샀다팔았다말고갖고있는게재산...",
+  "최태원“SK하이닉스주식,샀다팔았다하지말고그냥갖고계시라”",
+  "여기도메모리먹는하마가…스마트카에칩탑재량급증"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-07-17T15:21:00.107644+09:00",
    "총정리 사는 손질되나 바뀐 ETF 레버리지 어떻게"
+  ],
+  [
+   "2026-07-17T15:31:06.756480+09:00",
+   "메모리 급증 하마가 여기도 스마트카에 먹는 탑재량"
   ]
  ],
- "last_run": "2026-07-17T15:21:06.851818+09:00",
+ "last_run": "2026-07-17T15:31:13.239993+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
