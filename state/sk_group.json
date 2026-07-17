@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611671",
-  "https://news.appstory.co.kr/daily19369",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611666",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311460",
-  "https://biz.heraldcorp.com/article/10810264",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005718",
   "https://hbnpress.com/news/view/1065589436639080",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05808886645514848",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260716.22008004684",
@@ -2999,15 +2993,15 @@
   "https://www.kyeongin.com/article/1767463",
   "https://www.mk.co.kr/article/12101021",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442581",
-  "https://www.yeongnam.com/web/view.php?key=20260717023596622"
+  "https://www.yeongnam.com/web/view.php?key=20260717023596622",
+  "https://www.newsis.com/view/NISX20260717_0003713353",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700040.html",
+  "https://www.bigtanews.co.kr/article/view/big202607170005",
+  "https://www.mk.co.kr/article/12101035",
+  "https://www.jejudomin.co.kr/news/articleView.html?idxno=320702",
+  "https://www.sedaily.com/article/20068593"
  ],
  "seen_titles": [
-  "이통3사·네이버·구글·넷플릭스등47곳,이용자보호평가받는다",
-  "사랑의열매,여름철나눔캠페인에247억모여…각계참여눈길",
-  "개미만울린레버리지…李“신속히보완하라”",
-  "[DM왔어요]초복에삼계탕만드시나요?…체질따라다른보양식",
-  "車반도체확보전격화…GM·포드장기계약,中은자체개발나섰다",
-  "삼성물산홈닉,HJ중공업해모로품는다…스마트주거경쟁본격화",
   "검찰,‘삼전닉스’글로벌부품사3곳압수수색…납품가담합혐의",
   "SK에코플랜트,'2026테크오픈콜라보레이션'시상식",
   "美물가둔화에긴축우려완화...원·달러환율,두달만에1480원대복귀",
@@ -6001,7 +5995,13 @@
   "인천‘수소버스’늦어진다…서구‘액화수소플랜트’대수선작업",
   "김윤덕“용인반도체국가산단,올해말까지부지공사착수”",
   "[7월18일자]비즈니스포스트아침의주요기사",
-  "7200선찍고하루만에6800밀린코스피…“바닥다질때까지‘분할매..."
+  "7200선찍고하루만에6800밀린코스피…“바닥다질때까지‘분할매...",
+  "국가대표출신권창훈,신태용감독의페르시자자카르타이적",
+  "최태원\"AI분신10개만든다\"…'디지털최태원'현실로",
+  "미래에셋증권,7월셋째주HD현대일렉트릭등14종목매수추천",
+  "[김세완의주말경제산책]널뛰는코스피…복합처방이필요하다",
+  "4경기무승탈출시동…제주SK,포항상대로반전노린다",
+  "릴리11조베팅한수면장애시장…K바이오도개발·도입‘잰걸음’"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,21 @@
   [
    "2026-07-17T17:01:22.022226+09:00",
    "찍고 밀린 분할매 만에 다질 하루 때까지 코스피 바닥 7200선"
+  ],
+  [
+   "2026-07-17T17:11:07.434091+09:00",
+   "복합처방이 코스피 필요하다 널뛰는"
+  ],
+  [
+   "2026-07-17T17:11:07.434091+09:00",
+   "탈출 상대로 제주SK 시동 반전 4경기 포항 무승 노린다"
+  ],
+  [
+   "2026-07-17T17:11:07.434091+09:00",
+   "K바이오도 시장 도입 수면장애 베팅한 릴리 잰걸음 개발 11조"
   ]
  ],
- "last_run": "2026-07-17T17:01:36.108702+09:00",
+ "last_run": "2026-07-17T17:11:18.627237+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
