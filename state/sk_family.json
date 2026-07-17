@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260707.22019001562",
-  "https://www.hani.co.kr/arti/society/health/1266982.html",
-  "https://sjbnews.com/news/news.php?number=882349",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077556",
-  "https://www.bzeronews.com/news/articleView.html?idxno=819697",
-  "https://www.bzeronews.com/news/articleView.html?idxno=819698",
   "https://www.hankyung.com/article/2026070683196",
   "http://www.kjdaily.com/article.php?aid=1783336987681808002",
   "http://www.cctimes.kr/news/articleView.html?idxno=915238",
@@ -2999,15 +2993,15 @@
   "https://www.dailian.co.kr/news/view/1668245/?sc=Naver",
   "https://www.vegannews.co.kr/news/article.html?no=384103",
   "https://monthly.chosun.com/news/articleView.html?idxno=70752",
-  "http://weekly.chosun.com/news/articleView.html?idxno=53554"
+  "http://weekly.chosun.com/news/articleView.html?idxno=53554",
+  "https://www.newspim.com/news/view/20260717000189",
+  "https://www.newspim.com/news/view/20260717000190",
+  "https://www.newspim.com/news/view/20260717000187",
+  "https://www.newspim.com/news/view/20260717000188",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=847515",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442581"
  ],
  "seen_titles": [
-  "'스벅,인두겁'이대통령,'뭔상관,배재고와함께'이진숙...김재원...",
-  "'AI기업'입지,포항만한곳이드물다",
-  "충북바이오기업,美바이오전시회서'풍성한성과'",
-  "[국제칼럼]호남반도체영남이반대말자",
-  "전북거점병원신생아중환자실중단위기에…고위험산모,110㎞원정분...",
-  "[아침발걸음]K-다크팩토리의시대,전북이먼저움직인다",
   "세명종합병원,복지부'포괄2차종합병원'최종지정…지역의료거점...",
   "'4059만달러성과'…충북바이오기업,BIOUSA서글로벌시장문두드렸...",
   "[인사]충남보령시,경제도시국장김계환외",
@@ -6001,7 +5995,13 @@
   "“메모리계속필요”최태원회장이내놓은SK하이닉스주가전망",
   "최태원,SK하이닉스급등락에“시간두면우상향”",
   "최태원\"하이닉스주식,사고팔지말고보유하라\"",
-  "최태원\"하이닉스,샀다팔지마라…시간두면우상향\""
+  "최태원\"하이닉스,샀다팔지마라…시간두면우상향\"",
+  "제49회대한상의제주포럼(AI대담)",
+  "‘제49회대한상의제주포럼','한국경제의AI성장을위한아젠다'라는...",
+  "제49회대한상의제주포럼(AI대담)참석한최태원회장",
+  "'한국경제의AI성장을위한아젠다'라는주제로대담하는최태원회장",
+  "최태원\"SK하이닉스주가,시간두면오른다\"…\"韓,지능수출로전략바...",
+  "[7월18일자]비즈니스포스트아침의주요기사"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-07-17T16:50:14.365713+09:00",
    "마라 우상향 두면 하이닉스 시간 팔지 샀다"
+  ],
+  [
+   "2026-07-17T17:00:29.807332+09:00",
+   "주요기사 아침의 비즈니스포스트"
   ]
  ],
- "last_run": "2026-07-17T16:50:32.099861+09:00",
+ "last_run": "2026-07-17T17:00:41.471966+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
