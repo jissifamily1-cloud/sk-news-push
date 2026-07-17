@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.bizwnews.com/news/articleView.html?idxno=139989",
-  "http://www.cctimes.kr/news/articleView.html?idxno=914900",
-  "http://www.metroseoul.co.kr/article/20260705500242",
-  "http://www.metroseoul.co.kr/article/20260705500239",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=586662",
-  "https://www.hankookilbo.com/news/article/A2026070316330002785?did=NA",
   "https://www.joongboo.com/news/articleView.html?idxno=363730548",
   "http://www.fnnews.com/news/202607051603565519",
   "http://www.metroseoul.co.kr/article/20260705500253",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260717_0003713213",
   "https://economist.co.kr/article/view/ecn202607170007",
   "https://www.khan.co.kr/article/202607171047001",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170153&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607170153&t=NN",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3638832",
+  "https://www.mk.co.kr/article/12100926",
+  "https://biz.sbs.co.kr/article_hub/20000323100?division=NAVER",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206491",
+  "http://www.yonhapnewstv.co.kr/news/AKR202607171051318uL",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613581"
  ],
  "seen_titles": [
-  "전국1600조대투자…소멸위기지방,구원투수될까",
-  "박정완이미인대표,중소기업인대회서중기부장관표창",
-  "쇳물대신‘지능’을찍어낸다…왜지금‘AI팩토리’인가[김현아의...",
-  "[재계HOT뉴스]SK그룹,협력사와의'동반성장'에집중…'상생협약'체...",
-  "충남도의회운영위원회\"의회운영개선및소통강화로선진의회도약...",
-  "[M커버스토리]호남반도체·영남피지컬AI·충청후공정…전국첨단밸...",
   "[M커버스토리]'대한민국대도약3대메가프로젝트'…기업들기대와우...",
   "정부,AI데이터센터에1천조원투자추진…소버린AI완성승부수",
   "'90도폴더인사'에숨은뜻[지평선]",
@@ -6001,7 +5995,13 @@
   "최태원\"SK하이닉스주가우상향…가만히갖고있으면돼\"",
   "최태원회장\"AI시대,한국성장열쇠는지능수출…틈새시장노려야...",
   "[속보]최태원\"SK하이닉스가만히갖고있으면된다…시간두면우상향...",
-  "최태원“SK하이닉스주식가만히갖고있으면돼…우상향할것”"
+  "최태원“SK하이닉스주식가만히갖고있으면돼…우상향할것”",
+  "최태원회장\"SK하이닉스주식가지고있으면결국우상향할것\"",
+  "최태원“하이닉스주가우상향…가만히갖고있으면된다”",
+  "최태원\"SK하이닉스주식,가만히갖고있으면우상향\"",
+  "최태원\"SK하이닉스주가우상향…가만히갖고있는게좋다\"",
+  "최태원\"SK하이닉스주식,우상향할것…갖고있으면돼\"",
+  "“샀다팔지말고갖고계세요”…최태원이본하이닉스주가"
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "있으면 주가 SK하이닉스 가만히 우상향 갖고"
   ]
  ],
- "last_run": "2026-07-17T10:50:26.712477+09:00",
+ "last_run": "2026-07-17T11:00:36.422425+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
