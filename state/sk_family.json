@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000048029",
-  "https://www.newspim.com/news/view/20260706000886",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=603787",
   "https://www.kukinews.com/article/view/kuk202607060137",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441634",
@@ -2999,11 +2997,11 @@
   "https://www.econovill.com/news/articleView.html?idxno=745485",
   "https://economist.co.kr/article/view/ecn202607170010",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790096.html",
-  "https://www.pennmike.com/news/articleView.html?idxno=123879"
+  "https://www.pennmike.com/news/articleView.html?idxno=123879",
+  "https://www.m-i.kr/news/articleView.html?idxno=1392564",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442576"
  ],
  "seen_titles": [
-  "호남반도체클러스터,광주군공항부지에조성결정",
-  "AI칩패권에兆단위돈폭탄…韓·美·日·中,반도체'쩐의전쟁'",
   "靑,'호남반도체클러스터'광주군공항부지로최종확정",
   "광주군공항에반도체팹4기…군이전이관건",
   "[종합]李대통령,'3대메가프로젝트'매달직접챙긴다…호남반도체...",
@@ -6001,17 +5999,11 @@
   "최태원\"메모리수요계속늘어…SK하이닉스주가우상향\"",
   "최태원“SK하이닉스주가,시간두면우상향…한국AI틈새노려야”",
   "최태원\"하이닉스주가우상향…가만히가지고있어라\"",
-  "[재계핫이슈]삼전닉스의잇따른기존라인증설에초조한'호남반도체'"
+  "[재계핫이슈]삼전닉스의잇따른기존라인증설에초조한'호남반도체'",
+  "최태원\"하닉주식사고팔지말고장기보유해라…메모리수요늘것\"",
+  "SK그룹회장최태원\"SK하이닉스주가우상향할것,메모리반도체수요..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-17T08:10:15.241149+09:00",
-   "훈풍에도 300만닉스 맞췄다 엇갈린 전망 TSMC SK하이닉스"
-  ],
-  [
-   "2026-07-17T08:10:15.241149+09:00",
-   "혁신 강조 AI 데이터센터 비용 회장"
-  ],
   [
    "2026-07-17T08:50:13.703252+09:00",
    "기업 자금조달 유동성 관리 부담 인상에 관건 기준금리"
@@ -6045,7 +6037,7 @@
    "기존라인 잇따른 초조한 증설에 삼전닉스의 호남반도체"
   ]
  ],
- "last_run": "2026-07-17T14:00:39.851407+09:00",
+ "last_run": "2026-07-17T14:10:25.465287+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
