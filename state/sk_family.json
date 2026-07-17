@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbmaeil.com/article/20260706500056",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1086900",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260707.22019001562",
   "https://www.hani.co.kr/arti/society/health/1266982.html",
   "https://sjbnews.com/news/news.php?number=882349",
@@ -2999,11 +2997,11 @@
   "https://www.sidae.com/article/2026071715292793108",
   "https://www.gokorea.kr/news/articleView.html?idxno=872281",
   "https://www.dailian.co.kr/news/view/1668245/?sc=Naver",
-  "https://www.vegannews.co.kr/news/article.html?no=384103"
+  "https://www.vegannews.co.kr/news/article.html?no=384103",
+  "https://monthly.chosun.com/news/articleView.html?idxno=70752",
+  "http://weekly.chosun.com/news/articleView.html?idxno=53554"
  ],
  "seen_titles": [
-  "[인사]보령시(2026.7.8字)",
-  "[진담승부]1400조반도체구상…균형발전인가기업압박인가",
   "'스벅,인두겁'이대통령,'뭔상관,배재고와함께'이진숙...김재원...",
   "'AI기업'입지,포항만한곳이드물다",
   "충북바이오기업,美바이오전시회서'풍성한성과'",
@@ -6001,13 +5999,11 @@
   "최태원\"SK하이닉스주가오를것,갖고있으면된다\"",
   "AI시대속한국의미래:최태원회장이말하는메모리반도체와인재...",
   "“메모리계속필요”최태원회장이내놓은SK하이닉스주가전망",
-  "최태원,SK하이닉스급등락에“시간두면우상향”"
+  "최태원,SK하이닉스급등락에“시간두면우상향”",
+  "최태원\"하이닉스주식,사고팔지말고보유하라\"",
+  "최태원\"하이닉스,샀다팔지마라…시간두면우상향\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-17T10:40:15.405229+09:00",
-   "있으면 주가 SK하이닉스 가만히 우상향 갖고"
-  ],
   [
    "2026-07-17T11:10:15.465968+09:00",
    "메모리 인공지능 수요 SK하이닉스 급증 발달로 예상 반도체"
@@ -6051,9 +6047,17 @@
   [
    "2026-07-17T16:00:30.147257+09:00",
    "말하는 AI 회장이 메모리 시대 인재 한국의 반도체와 미래"
+  ],
+  [
+   "2026-07-17T16:50:14.365713+09:00",
+   "주식 보유하라 하이닉스 말고 사고팔지"
+  ],
+  [
+   "2026-07-17T16:50:14.365713+09:00",
+   "마라 우상향 두면 하이닉스 시간 팔지 샀다"
   ]
  ],
- "last_run": "2026-07-17T16:40:23.662922+09:00",
+ "last_run": "2026-07-17T16:50:32.099861+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
