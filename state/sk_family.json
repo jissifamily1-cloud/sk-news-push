@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441619",
-  "https://www.jbnews.com/news/articleView.html?idxno=1507123",
-  "https://biz.chosun.com/policy/politics/president_office/2026/07/06/DECWI55ASNFTTET2SHN2MPTARY/",
   "https://www.ajunews.com/view/20260706144647941",
   "http://www.tjb.co.kr/sub0301/bodo/view/id/100478",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310827",
@@ -2999,12 +2996,12 @@
   "https://www.insight.co.kr/news/563490",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1530999",
   "https://www.ikbc.co.kr/article/view/kbc202607170028",
-  "http://sateconomy.co.kr/news/view/1065587653481459"
+  "http://sateconomy.co.kr/news/view/1065587653481459",
+  "https://www.nc.press/news/articleView.html?idxno=621047",
+  "https://www.etoday.co.kr/news/view/2604731",
+  "https://www.hidomin.com/news/articleView.html?idxno=713642"
  ],
  "seen_titles": [
-  "억만장자들의여름캠프향하는이재용…AI·반도체‘빅딜’시동거나",
-  "靑\"호남반도체클러스터,광주군공항부지에조성\"…후보지사실상...",
-  "정부,광주군공항에호남반도체산단…용인증설도속도전",
   "[닻올린균형발전①]삼성이재용메가프로젝트로비수도권'성장엔진...",
   "충북바이오기업,美BIOUSA서4천59만달러수출계약추진",
   "‘800兆반도체클러스터’광주군공항부지에짓는다",
@@ -6001,7 +5998,10 @@
   "최태원회장\"SK하이닉스팔지말고놔둬라...가만히가지고있는게재...",
   "최태원\"SK하이닉스주가우상향…갖고있으면돼\"",
   "최태원\"SK하이닉스주식갖고있으면우상향…한국AI는틈새시장공략...",
-  "최태원“SK하이닉스,단기매매보다오래보유해야”"
+  "최태원“SK하이닉스,단기매매보다오래보유해야”",
+  "그리운금강산·보리밭선율...고양아람누리수놓을한국가곡",
+  "최태원“SK하이닉스주식,샀다팔았다말고가만히보유해야”",
+  "최태원\"SK하이닉스주식팔지말라...갖고있으면우상향할것\""
  ],
  "recent_sigs": [
   [
@@ -6041,7 +6041,7 @@
    "오래 단기 보유해야 SK하이닉스 매매보다"
   ]
  ],
- "last_run": "2026-07-17T13:40:36.287340+09:00",
+ "last_run": "2026-07-17T13:50:27.960650+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
