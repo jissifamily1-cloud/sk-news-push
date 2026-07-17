@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6219918",
   "https://www.viva100.com/article/20260707500188",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/07/2026070700148.html",
   "https://www.munhwa.com/article/11600895",
@@ -2999,10 +2998,10 @@
   "https://www.hani.co.kr/arti/society/health/1266982.html",
   "http://www.bizwnews.com/news/articleView.html?idxno=139989",
   "https://www.ajunews.com/view/20260716083706213",
-  "http://www.fnnews.com/news/202607171727333866"
+  "http://www.fnnews.com/news/202607171727333866",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5130"
  ],
  "seen_titles": [
-  "韓10명중7명“EU형한일경제공동체추진해야”…日도60%찬성",
   "대한상의,\"한일경제공동체공감대확산\"",
   "대한상의\"한국인10명중7명'EU형한일경제공동체'찬성\"",
   "韓국민10명중7명,'한일경제공동체추진'찬성…日60%'긍정'",
@@ -6001,15 +6000,20 @@
   "“전북엔받아줄병원이없었다”…110㎞달려‘원정분만’",
   "[재계HOT뉴스]SK그룹,협력사와의'동반성장'에집중…'상생협약'체...",
   "최종현학술원·해군\"바닷길막히면국가도흔들\"...해상교통로대응논...",
-  "\"제헌절이코스피살렸다\"…美반도체폭락에\"월요일도임시공휴일해..."
+  "\"제헌절이코스피살렸다\"…美반도체폭락에\"월요일도임시공휴일해...",
+  "[뉴욕증시마감]AI반도체흔들리자필라델피아지수'약세장'…월요일..."
  ],
  "recent_sigs": [
   [
    "2026-07-18T06:10:14.324812+09:00",
    "제헌절이 임시공휴일 반도체 코스피 살렸다 월요일도 폭락에"
+  ],
+  [
+   "2026-07-18T06:50:15.567086+09:00",
+   "필라델피아지수 흔들리자 반도체 AI 약세장 월요일"
   ]
  ],
- "last_run": "2026-07-18T06:40:25.550140+09:00",
+ "last_run": "2026-07-18T06:50:30.243954+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
