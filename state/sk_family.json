@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yonhapmidas.com/news/articleView.html?idxno=10440",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423510",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423504",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602969",
-  "https://www.sisajournal.com/news/articleView.html?idxno=378698",
-  "https://www.econovill.com/news/articleView.html?idxno=743937",
-  "https://www.mk.co.kr/article/12091084",
   "https://biz.sbs.co.kr/article_hub/20000320820?division=NAVER",
   "https://www.ajunews.com/view/20260706111827546",
   "https://www.munhwa.com/article/11600529",
@@ -2999,16 +2992,16 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540251",
   "https://www.hankookilbo.com/news/article/A2026071711180000892?did=NA",
   "http://www.fnnews.com/news/202607171134154252",
-  "https://view.asiae.co.kr/article/2026071711382426561"
+  "https://view.asiae.co.kr/article/2026071711382426561",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005881650",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92391",
+  "https://www.nocutnews.co.kr/news/6549579",
+  "https://www.kwnews.co.kr/article/20260717500041",
+  "https://www.newsway.co.kr/news/view?ud=2026071711194653713",
+  "https://www.the-today.com/news/articleView.html?idxno=87686",
+  "https://www.kyeonggi.com/article/20260717580061"
  ],
  "seen_titles": [
-  "경기도,공공동물병원본격추진..경기남부1곳,북부1곳검토",
-  "CEO브랜드평판7월,삼성이재용1위…SK최태원·현대차정의선뒤이어",
-  "[전격시사]민주,보완수사권처리강행?(박성준)보완수사요구권으로...",
-  "젠슨황이한국에남긴선물과숙제",
-  "김민석\"국정지원·총선승리김민석이답…민주당황금시대로보답\"",
-  "['큰손'SK하이닉스]매주목·금5~10조집행…DLB까지쓸어담아",
-  "[무등의아침]“김민석,광주서당대표출마선언…‘권리당원30%’호...",
   "[충남24시]충남도의회6개상임위원회원구성완료…전반기의정활동...",
   "메가프로젝트1막사진석장[포커스]",
   "국민영웅제대로대우하기,어렵지않습니다[매경데스크]",
@@ -6001,7 +5994,14 @@
   "최태원회장“하이닉스주가우상향…샀다팔았다하지말라”",
   "최태원\"SK하이닉스주식사팔사팔말고갖고계세요\"",
   "최태원\"SK하닉샀다팔았다말고가만히갖고계셔라...우상향으로간...",
-  "최태원\"SK하이닉스주가는우상향…가만히갖고있어야\""
+  "최태원\"SK하이닉스주가는우상향…가만히갖고있어야\"",
+  "최태원\"SK하이닉스주식,샀다팔았다말고갖고있으면돼\"",
+  "최태원\"주식은팔지말고보유\"…\"AI인프라·'지능수출국'으로가야...",
+  "최태원\"SK하이닉스가만히갖고있으라\"…주가우상향전망",
+  "[속보]최태원“SK하이닉스주식,샀다팔았다말고오래보유해야…시...",
+  "최태원\"SK하이닉스팔지말고갖고있어라…주가우상향\"",
+  "\"팔지말고갖고있어라\"…최태원의SK하이닉스투자조언,적절했나(1부...",
+  "최태원“SK하이닉스주가,시간두면우상향…지능수출국돼야”"
  ],
  "recent_sigs": [
   [
@@ -6045,7 +6045,7 @@
    "한국 AI 제품 지능 아닌 수출로 권석준 패권경쟁 AI대담"
   ]
  ],
- "last_run": "2026-07-17T11:50:25.456491+09:00",
+ "last_run": "2026-07-17T12:00:40.674292+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
