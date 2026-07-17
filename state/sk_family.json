@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=603787",
-  "https://www.kukinews.com/article/view/kuk202607060137",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441634",
-  "https://www.ajunews.com/view/20260706135254764",
-  "http://www.lkp.news/news/articleView.html?idxno=81568",
-  "https://www.kyeonggi.com/article/20260706580361",
-  "https://www.yna.co.kr/view/AKR20260706118400054?input=1195m",
   "https://www.inews365.com/news/article.html?no=926456",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=848513",
   "https://www.greened.kr/news/articleView.html?idxno=344329",
@@ -2999,16 +2992,16 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790096.html",
   "https://www.pennmike.com/news/articleView.html?idxno=123879",
   "https://www.m-i.kr/news/articleView.html?idxno=1392564",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442576"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442576",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613675",
+  "https://www.segye.com/newsView/20260717508310?OutUrl=naver",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2288548",
+  "https://www.newspim.com/news/view/20260717000141",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=307191",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000050598",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/63557?feed=na"
  ],
  "seen_titles": [
-  "靑,'호남반도체클러스터'광주군공항부지로최종확정",
-  "광주군공항에반도체팹4기…군이전이관건",
-  "[종합]李대통령,'3대메가프로젝트'매달직접챙긴다…호남반도체...",
-  "LG家상속분쟁2심돌입…세모녀'노소영측변호사'로맞불",
-  "전남광주통합특별시의회,시청·교육청예결특위출범",
-  "[닻올린균형발전②]SK최태원2100조투자로국가AI산업지도바꾼다...",
-  "[강일용의재계비화]SK그룹,울산이어포항에도AIDC똑똑...AI·반도체...",
   "BS한양,삼성SDS17조투자소식에반색…'묘도LNG열병합발전'탄력전...",
   "[경기일보독자권익위원회]닻올린2026독자권익위원회…독자권익·알...",
   "호남반도체투자발표1주일만에부지결정…'속전속결'",
@@ -6001,7 +5994,14 @@
   "최태원\"하이닉스주가우상향…가만히가지고있어라\"",
   "[재계핫이슈]삼전닉스의잇따른기존라인증설에초조한'호남반도체'",
   "최태원\"하닉주식사고팔지말고장기보유해라…메모리수요늘것\"",
-  "SK그룹회장최태원\"SK하이닉스주가우상향할것,메모리반도체수요..."
+  "SK그룹회장최태원\"SK하이닉스주가우상향할것,메모리반도체수요...",
+  "최태원“메모리계속필요…주가는시간두면우상향”",
+  "최태원“하이닉스주가,시간두면우상향…갖고계시라”",
+  "최태원\"SK하이닉스주식샀다팔았다말라…시간두면우상향\"",
+  "최태원\"SK하이닉스주가,시간두면우상향…팔지말고보유\"",
+  "최태원\"SK하이닉스오래들고가라\"…핵심메시지는'지능수출'",
+  "최태원\"하이닉스주가결국우상향…가만히놔둬야재산보전\"",
+  "최태원\"SK하이닉스주식은우상향..갖고만있는게가장좋은방법\""
  ],
  "recent_sigs": [
   [
@@ -6037,7 +6037,7 @@
    "기존라인 잇따른 초조한 증설에 삼전닉스의 호남반도체"
   ]
  ],
- "last_run": "2026-07-17T14:10:25.465287+09:00",
+ "last_run": "2026-07-17T14:20:27.288539+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
