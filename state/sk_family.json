@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465682",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203982",
-  "https://www.newspim.com/news/view/20260706000046",
-  "http://www.thebigdata.co.kr/view.php?ud=202607060806364882d0a8833aad_23",
-  "http://www.beyondpost.co.kr/view.php?ud=20260706082704271646a9e4dd7f_30",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519402",
-  "https://www.smartbizn.com/news/articleView.html?idxno=147777",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441582",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037642",
   "https://dealsite.co.kr/articles/164757",
@@ -2999,16 +2992,16 @@
   "https://www.munhwa.com/article/11603254",
   "https://www.betanews.net/article/view/beta202607170002",
   "https://www.ytn.co.kr/_ln/0102_202607171124384608",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700028.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700028.html",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310724",
+  "http://www.fnnews.com/news/202607171120174678",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441363",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716784",
+  "https://www.wikitree.co.kr/articles/1146990",
+  "https://www.mk.co.kr/article/12100936",
+  "https://www.seoul.co.kr/news/economy/industry/2026/07/17/20260717500064?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "전북비껴간수백조'서남권반도체투자',누구책임가장클까?...지역...",
-  "1천억쓴'안전한급식실'‥\"사고는증가\"",
-  "[WhoIs?]진옥동신한금융지주대표이사회장",
-  "삼성이재용,CEO브랜드평판1위…SK최태원·현대자동차정의선'톱3'",
-  "김민석,오늘광주서첫출사표…정청래,물밑행보에출마시점저울질",
-  "李대통령,오늘메가프로젝트민관합동회의…삼성전자·SK하이닉스참석",
-  "이재용회장,CEO브랜드평판7월빅데이터1위...최태원·정의선·구광...",
   "삼성이재용,CEO브랜드평판2026년7월...1위",
   "[오너2.3세체제가맞닥뜨린첫시험대]-두산",
   "반도체,피크아웃공포번졌지만···삼성은85조실적전망굳건?",
@@ -6001,7 +5994,14 @@
   "[속보]최태원“SK하닉주식,‘사팔’말고갖고있으면돼”",
   "최태원“AI커질수록메모리수요기하급수증가…SK하이닉스,시간두...",
   "최태원\"SK하이닉스주가우상향...가만히갖고있으면돼\"",
-  "최태원\"SK하이닉스주식팔지마라\"…AI시대'지능수출'강조"
+  "최태원\"SK하이닉스주식팔지마라\"…AI시대'지능수출'강조",
+  "나주시,민선9기첫정기인사…'일과성과'중심조직개편",
+  "최태원회장\"SK하이닉스주가,우상향할것\"",
+  "최태원\"SK하이닉스주식,사고팔지말고갖고있어라\"",
+  "최태원\"SK하이닉스주가결국우상향…AI시대엔'지능수출국'돼야\"",
+  "최태원“SK하이닉스주가우상향…‘이렇게’갖고있으면돼”",
+  "[속보]최태원“SK하이닉스가만히갖고있으면된다…시간두면우상...",
+  "최태원“SK하이닉스주식우상향…‘대졸인재’시대끝나간다”"
  ],
  "recent_sigs": [
   [
@@ -6045,7 +6045,7 @@
    "한국 AI 제품 지능 아닌 수출로 권석준 패권경쟁 AI대담"
   ]
  ],
- "last_run": "2026-07-17T11:30:33.204287+09:00",
+ "last_run": "2026-07-17T11:40:26.651460+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
