@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=605086",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=605084",
-  "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html?partner=naver",
-  "https://www.dailian.co.kr/news/view/1667673/?sc=Naver",
-  "https://www.chosun.com/economy/tech_it/2026/07/16/I5A3WMH3ENENJIEHL4WZMYCVIQ/",
-  "https://www.chosun.com/economy/economy_general/2026/07/16/YGEZUNO7V5ED7GEGOPYTTYOLTE/",
-  "https://www.chosun.com/national/labor/2026/07/16/HGCKKLJI5ZHYZCNITPITTCB5BE/",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1784105564&code=11151200&cp=nv",
   "https://www.tokenpost.kr/news/tech/378256",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607141028412200060",
   "https://www.sentv.co.kr/article/view/sentv202607140118",
@@ -2999,17 +2991,17 @@
   "https://www.straightnews.co.kr/news/articleView.html?idxno=307196",
   "https://www.econovill.com/news/articleView.html?idxno=745514",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469353",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61702"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61702",
+  "http://www.osen.co.kr/article/G1112841394",
+  "https://news.jtbc.co.kr/article/NB12308868?influxDiv=NAVER",
+  "https://www.bntnews.co.kr/article/view/bnt202607180038",
+  "https://www.dt.co.kr/article/12073326",
+  "https://www.hankyung.com/article/2026071815657",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61704",
+  "https://www.ikbc.co.kr/article/view/kbc202607180005",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607180130&t=NN"
  ],
  "seen_titles": [
-  "[오승호칼럼]부작용심한'삼전닉스레버리지'보완시급하다",
-  "\"코스닥뛰었는데내계좌는왜\"ETF개미비명…인버스가수익률싹쓸...",
-  "\"D램·낸드이어HBM까지…삼성,메모리전분야석권\"",
-  "이번엔상용화다…'독파모2R'물밑경쟁",
-  "메모리부족오래간다…삼전닉스고점멀었다",
-  "[SpecialInterview]서울문화투데이제17회문화대상수상자조혜영전시...",
-  "\"달러자산의덫인가\"…SK하이닉스美ADR,38%고평가해소시험대오...",
-  "[특징주]SK하이닉스,ADR10%급락에도원주강세…프리미엄축소주목",
   "중국자원카드본격화…반도체·방산공급망흔든다",
   "ASML,AI수요에매출전망또상향",
   "\"한국보다38%비싸다\"...SK하이닉스,미국주가과열경고",
@@ -6001,7 +5993,15 @@
   "[지난밤뉴욕에선]AI반도체주차익실현확산…3대지수일제히하락",
   "국내ETF순자산500조시대…\"운용사도책임투자역량키워야\"",
   "씨앤지하이테크,용인프로젝트·신공장으로2027년반등노린다",
-  "\"SK하이닉스,샀다팔았다말고그냥들고있어라\"최태원의장기투자..."
+  "\"SK하이닉스,샀다팔았다말고그냥들고있어라\"최태원의장기투자...",
+  "“팔려던김민재,이제안판다”...바이에른계획대반전,초대형제안...",
+  "AI반도체호황겨냥…\"미국도삼성·하이닉스초과이윤요구\"",
+  "필라델피아반도체지수,고점比20%급락",
+  "500조공룡ETF…자산운용사‘주주역량’고도화시급",
+  "반도체주매도세에일제하락…나스닥1.4%↓[뉴욕증시브리핑]",
+  "車두뇌잡는마이크론,현대모비스·퀄컴과'3~5년짜리'메모리동맹",
+  "코스피오르는데코스닥은왜빠지나…'엇갈린장세'역대최고",
+  "20%폭락와중에'안도'…한달새수익률확뒤집어졌다"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,21 @@
   [
    "2026-07-18T07:41:00.600505+09:00",
    "샀다 투자 SK하이닉스 팔았다 그냥 최태원의 장기 들고 있어라 말고"
+  ],
+  [
+   "2026-07-18T07:51:00.706217+09:00",
+   "메모리 동맹 두뇌 현대모비스 퀄컴과 5년짜리 잡는 마이크론"
+  ],
+  [
+   "2026-07-18T07:51:00.706217+09:00",
+   "엇갈린 오르는데 최고 역대 코스닥은 장세 빠지나 코스피"
+  ],
+  [
+   "2026-07-18T07:51:00.706217+09:00",
+   "뒤집어졌다 폭락 수익률 안도 한달새 와중에"
   ]
  ],
- "last_run": "2026-07-18T07:41:14.526176+09:00",
+ "last_run": "2026-07-18T07:51:12.307797+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
