@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150500&t=NN",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105174",
-  "https://www.mk.co.kr/article/12099499",
-  "https://www.ekn.kr/web/view.php?key=20260702029488210",
-  "https://www.chosun.com/national/court_law/2026/07/15/JWZ7XJFQGJF4BMCVJD62OH32KI/",
-  "https://www.hankyung.com/article/2026071576071",
-  "https://www.kukinews.com/article/view/kuk202607150185",
-  "https://www.etnews.com/20260715000442",
-  "https://www.mk.co.kr/article/12099557",
-  "https://www.sidae.com/article/2026071508333365049",
-  "https://biz.sbs.co.kr/article_hub/20000322768?division=NAVER",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05359526645514848",
   "https://www.ytn.co.kr/_ln/0101_202607151806046322",
   "https://it.chosun.com/news/articleView.html?idxno=2023092165902",
@@ -2999,21 +2988,20 @@
   "https://www.seoul.co.kr/news/economy/industry/2026/07/17/20260717500064?wlog_tag3=naver",
   "https://www.wikitree.co.kr/articles/1146989",
   "https://www.sedaily.com/article/20068866",
-  "https://www.ikbc.co.kr/article/view/kbc202607170017"
+  "https://www.ikbc.co.kr/article/view/kbc202607170017",
+  "https://www.hani.co.kr/arti/economy/economy_general/1268726.html",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716786",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=875394",
+  "https://www.sentv.co.kr/article/view/sentv202607160099",
+  "https://news.jtbc.co.kr/article/NB12308777?influxDiv=NAVER",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=759538",
+  "http://www.fnnews.com/news/202607171134154252",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540251",
+  "https://www.hankookilbo.com/news/article/A2026071711180000892?did=NA",
+  "https://view.asiae.co.kr/article/2026071711382426561",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441365"
  ],
  "seen_titles": [
-  "이미코스피40%잠식했는데…李“레버리지보완대책신속마련”",
-  "이재명대통령\"단일종목레버리지ETF보완책마련해라\"",
-  "'먹통'소백산고치령에이동통신망구축시동",
-  "변정수도SK하이닉스주주고백\"원금빼고이자로재투자\"",
-  "韓国きょうのニュース（7月15日）",
-  "삼닉레버리지파급력…회사채시장도타격",
-  "\"정제마진고공행진\"…정유주,이란전쟁격화에강세",
-  "'최애'반도체ETF…원익IPS담고,LG이노텍빼고",
-  "지금처럼증시출렁일땐…'바벨ETF'들어라",
-  "\"반도체초과세수로최저임금취약층지원하자\"",
-  "상장사10곳중8곳올랐다…코스닥까지온기퍼지나",
-  "다저변동ETF인데…반도체쇼크에성적은달랐다",
   "장비업계번지는노조바람…삼성자회사도첫설립",
   "['클릭'증시]가상자산생태계본격조성...규율강화·STO제도정비",
   "반도체쏠림,M7광풍때보다더심각",
@@ -6001,7 +5989,19 @@
   "최태원“SK하이닉스주식우상향…‘대졸인재’시대끝나간다”",
   "SKT가입자라면딱오늘까지무려반값에…31일까지사용가능",
   "하남시,‘베드타운’벗고경제도시도약…“수도권최고기업·일자리...",
-  "버핏\"모두가도박선호할때가치찾기어려워\"…'빚투'늘어난한국증..."
+  "버핏\"모두가도박선호할때가치찾기어려워\"…'빚투'늘어난한국증...",
+  "최태원“SK하이닉스주식,샀다팔았다말고갖고있으면돼”",
+  "7조원빨아들인'삼전·닉스레버리지'…3000만원장벽에꺾일까",
+  "최태원,\"SK하이닉스주식갖고있다면잦은매매대신갖고있으라\"",
+  "변동성요인꼽힌'단일종목레버리지',투자요건강화로보완",
+  "최태원\"SK하이닉스샀다팔았다말라…메모리수요늘어\"",
+  "최태원회장\"AI시대메모리수요확대…SK하이닉스주식그냥갖고있...",
+  "최태원\"SK하닉샀다팔았다말고가만히갖고계셔라...우상향으로간...",
+  "최태원회장“하이닉스주가우상향…샀다팔았다하지말라”",
+  "최태원\"SK하이닉스주식사팔사팔말고갖고계세요\"",
+  "최태원\"SK하이닉스주가는우상향…가만히갖고있어야\"",
+  "최태원“SK하닉주식,샀다팔았다말아라…시간두면우상향”",
+  "이상일용인특례시장,\"반도체속도전으로대한민국미래먹거리확보\""
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-07-17T11:41:00.024102+09:00",
    "가치 찾기 늘어난 한국 빚투 선호할 어려워 모두가 도박 버핏"
+  ],
+  [
+   "2026-07-17T11:51:01.181360+09:00",
+   "이상일 속도전으로 대한민국 먹거리 확보 반도체 미래 용인특례시장"
   ]
  ],
- "last_run": "2026-07-17T11:41:09.082251+09:00",
+ "last_run": "2026-07-17T11:51:07.567091+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
