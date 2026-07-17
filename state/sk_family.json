@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848542",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2426355",
-  "https://www.beminor.com/news/articleView.html?idxno=30099",
   "https://www.newscj.com/news/articleView.html?idxno=3414891",
   "https://www.mk.co.kr/article/12091496",
   "https://www.newstnt.com/news/articleView.html?idxno=709170",
@@ -2999,12 +2996,12 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260716194806Bmr",
   "https://www.yna.co.kr/view/AKR20260717037200011?input=1195m",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790121.html",
-  "https://www.mediapen.com/news/view/1110734"
+  "https://www.mediapen.com/news/view/1110734",
+  "https://www.huffingtonpost.kr/article/258816",
+  "https://news.jtbc.co.kr/article/NB12308798?influxDiv=NAVER",
+  "https://www.donga.com/news/Economy/article/all/20260717/134317029/1"
  ],
  "seen_titles": [
-  "이윤선의남도인문학>홍어장수문순득의여정,몬순평화네트워크로",
-  "생각과질문을끌어내는공간,수원지관서가를가다",
-  "대전재산분할전문변호사,재산분할대상과특유재산의함정",
   "광주군공항에호남반도체클러스터…정부,부지선정속도",
   "충북바이오기업,美서4059만달러수출성과",
   "65세되자해고된장애인,2심도'차별인정'…그런데복지부가또불복",
@@ -6001,7 +5998,10 @@
   "[CEO풍향계]나스닥벨울린최태원…'문과파격채용'조현준",
   "[연합뉴스이시각헤드라인]-15:00",
   "최태원\"SK하이닉스주가,시간두면우상향…메모리계속필요\"",
-  "최태원회장“SK하이닉스,단기매매보다장기보유”…AI메모리성장..."
+  "최태원회장“SK하이닉스,단기매매보다장기보유”…AI메모리성장...",
+  "SK최태원,AI성장에메모리필수요소강조\"SK하이닉스주가우상향할...",
+  "\"메모리는우상향\"…최태원\"주식샀다팔았다말고갖고있는게재산...",
+  "최태원“SK하이닉스주식,샀다팔았다하지말고그냥갖고계시라”"
  ],
  "recent_sigs": [
   [
@@ -6041,7 +6041,7 @@
    ""
   ]
  ],
- "last_run": "2026-07-17T15:20:26.670831+09:00",
+ "last_run": "2026-07-17T15:30:31.369737+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
