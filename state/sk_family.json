@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607071815320891",
   "https://www.yna.co.kr/view/AKR20260707161100052?input=1195m",
   "http://www.domin.co.kr/news/articleView.html?idxno=1561096",
   "https://www.polinews.co.kr/news/articleView.html?idxno=736329",
@@ -2999,10 +2998,10 @@
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356108",
   "https://www.hankyung.com/article/2026071699946",
   "http://www.jndn.com/article.php?aid=1783413798435646109",
-  "https://www.news1.kr/industry/general-industry/6231631"
+  "https://www.news1.kr/industry/general-industry/6231631",
+  "https://www.dailian.co.kr/news/view/1668320/?sc=Naver"
  ],
  "seen_titles": [
-  "신안군,흑산도서'2026국제문페스타'성황리마무리",
   "기업규제·노봉법이판키운소송…대형로펌실적뛰었다",
   "SK하이닉스美상장,밸류재평가VS신주발행지분희석…국내영향'희...",
   "[부고]이동춘씨",
@@ -6001,7 +6000,8 @@
   "'이혼후오른주식가치'도나눌까…24일최태원·노소영재산분할선...",
   "청주에서뉴욕까지…HBM개척'메모리마스터'최태원의발자취[강경주...",
   "신안군'국제문페스타'성료…문순득재조명",
-  "최태원\"행복뿌리는것이기업목적…힘모으면韓바꾸는원동력\"(종..."
+  "최태원\"행복뿌리는것이기업목적…힘모으면韓바꾸는원동력\"(종...",
+  "\"나라구한제헌절,월요일도공휴일로…\"아우성대체왜"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-07-18T14:10:15.245107+09:00",
    "HBM 발자취 개척 청주에서 뉴욕까지 메모리 강경주 최태원의 마스터"
+  ],
+  [
+   "2026-07-18T14:50:12.696564+09:00",
+   "아우성 대체 제헌절 구한 월요일도 나라 공휴일로"
   ]
  ],
- "last_run": "2026-07-18T14:40:23.042596+09:00",
+ "last_run": "2026-07-18T14:50:27.574261+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
