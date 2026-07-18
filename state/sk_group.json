@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260716091258ldZ",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=205035",
-  "https://www.businessplus.kr/news/articleView.html?idxno=114206",
-  "https://www.mk.co.kr/article/12099964",
-  "https://www.g-enews.com/view.php?ud=202607160831058747cd0bfacc1c_1",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4095410",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03138966645515176",
   "http://www.newstomato.com/ReadNews.aspx?no=1307349&inflow=N",
@@ -2999,14 +2994,14 @@
   "https://www.sentv.co.kr/article/view/sentv202607160137",
   "https://www.mt.co.kr/industry/2026/07/19/2026071823054125244",
   "https://www.newsis.com/view/NISX20260716_0003711318",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425645"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425645",
+  "https://biz.heraldcorp.com/article/10812525",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685021",
+  "https://www.livebiz.today/news/articleView.html?idxno=203402",
+  "https://view.asiae.co.kr/article/2026071323240811831",
+  "https://www.wikitree.co.kr/articles/1147135"
  ],
  "seen_titles": [
-  "美반도체지수'하락'속...코스피·코스닥'급락출발'",
-  "윤활기유호실적,테라파워지분가치상승…SK이노상승여력67%[오늘나...",
-  "SK이노베이션,올해영업익1500%증가전망…\"이제는사야할시점”-하...",
-  "[특징주]삼성전자·SK하이닉스하락출발…美메모리주약세여파",
-  "[특징주]삼전닉스,美반도체약세에프리마켓서동반하락",
   "[속보]코스피4%대급락…7,000선또무너져",
   "[개장시황]코스피,323.91포인트내린6960.50출발",
   "[잘먹잘살+]SK인텔릭스·CJ푸드빌·대상·놀유니버스",
@@ -6001,7 +5996,12 @@
   "변동성장세에돌아온연기금…코스피'저가매수'전략",
   "반도체공장짓기'딱'…\"전기부족\"아우성인데\"우린쓰고도남아\"",
   "\"벌었던돈다날렸다\"…'반려주식'묻어두고앱지운개미들[변동성이...",
-  "테슬라2배사려면현금3천만원…서학개미도예탁금규제사정권"
+  "테슬라2배사려면현금3천만원…서학개미도예탁금규제사정권",
+  "삼성,올해브랜드가치9%오른974억달러…국내기업중유일톱10진입",
+  "[증시전망]코스피반등열쇠는...알파벳·SK하이닉스실적주목",
+  "최태원\"메모리는앞으로도계속필요하다...샀다·팔았다하지말고가...",
+  "[럭셔리월드]니치향수'대세',英왕실인증까지…5성급호텔'향기전쟁...",
+  "경북도,반도체공급망과국가안보의중심역할본격화"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,21 @@
   [
    "2026-07-19T08:21:05.231607+09:00",
    "규제 3천만원 테슬라 사정권 서학개미도 2배 현금 예탁금 사려면"
+  ],
+  [
+   "2026-07-19T08:31:15.175341+09:00",
+   "필요하다 팔았다 말고 계속 최태원 메모리는 앞으로도 하지 샀다"
+  ],
+  [
+   "2026-07-19T08:31:15.175341+09:00",
+   "전쟁 니치향수 왕실 5성급 호텔 대세 인증까지 향기"
+  ],
+  [
+   "2026-07-19T08:31:15.175341+09:00",
+   "반도체 중심 역할 국가안보의 본격화 경북도 공급망과"
   ]
  ],
- "last_run": "2026-07-19T08:21:11.024807+09:00",
+ "last_run": "2026-07-19T08:31:26.784674+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
