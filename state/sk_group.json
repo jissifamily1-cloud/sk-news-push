@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2114722",
-  "https://www.news1.kr/industry/general-industry/6222575",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125876",
-  "https://www.sedaily.com/article/20068336",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=847347",
-  "https://www.segye.com/newsView/20260715519566?OutUrl=naver",
-  "https://www.etoday.co.kr/news/view/2604137",
-  "https://magazine.hankyung.com/money/article/202606170973c",
-  "https://www.kukinews.com/article/view/kuk202607150175",
   "https://www.etoday.co.kr/news/view/2603674",
   "http://www.newstomato.com/ReadNews.aspx?no=1307247&inflow=N",
   "https://www.yakup.com/news/index.html?cat=12&nid=329861",
@@ -2999,18 +2990,18 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252286&CMPT_CD=P0010",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=82492",
   "https://www.newscj.com/news/articleView.html?idxno=3417908",
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19536"
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19536",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=690766",
+  "https://www.wikitree.co.kr/articles/1147076",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16138526",
+  "https://www.youthdaily.co.kr/news/article.html?no=223246",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16138516",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=875425",
+  "https://www.youthdaily.co.kr/news/article.html?no=223245",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=310935",
+  "https://www.sedaily.com/article/20068916"
  ],
  "seen_titles": [
-  "SK,소셜벤처유니콘키운다..스케일업프로그램‘임팩트부스터’런칭",
-  "SK集团助力解决社会问题的初创公司成长",
-  "\"제9회국제사회공헌대상\"성료",
-  "[포토]가수이세온,\"제9회국제사회공헌대상\"대중가요발전공헌대상...",
-  "[포토]프린스엔터테인먼트유석종회장,\"제9회국제사회공헌대상\"문...",
-  "한국자율공정거래연합조사부김인식부장(홍보위원장),\"제9회국제사회...",
-  "SK'행복경영'의민낯...이상과현실의괴리를넘을수있을까",
-  "'하닉고시'열풍···SK하이닉스는어떤인재를뽑을까?",
-  "알파고이후10년…AIEXPOKOREA2026메인컨퍼런스'BeyondAlphaGo:Our...",
   "[더벨][thebellinterview]장근준SK리츠운용대표\"올해주주친화성장...",
   "\"플랫폼의존낮추고팬덤잡는다\"…자사몰에사활건호텔업계",
   "뉴욕증시,도매물가둔화·빅테크강세에상승…나스닥0.6%↑(종합)",
@@ -6001,7 +5992,16 @@
   "홍콩IPO의최대어가반도체·AI아닌광모듈인이유",
   "최태원노소영,20년각자인생살았는데...선고앞두고재산분할기간...",
   "[축구]권창훈,인도네시아리그이적…신태용감독과한솥밥",
-  "금융정의연대\"삼성전자ㆍSK하이닉스단일종목레버리지강력규제\""
+  "금융정의연대\"삼성전자ㆍSK하이닉스단일종목레버리지강력규제\"",
+  "[K리그1프리뷰]'2달동안무승'대전vs'현대가더비참패'울산...어떻...",
+  "SK하이닉스주식,최태원회장조언대로갖고있으면무조건오를까",
+  "7월3주차SK텔레콤주가8만9천원대급등",
+  "증시한달조정에인버스2XETF'강세'…수익률상위권싹쓸이",
+  "최근5거래일SK이노베이션주가변동현황",
+  "코스닥도반도체장세?...시총톱100에반도체주한해사이88%상승",
+  "7월넷째주분양시장본격재개…전국8천905가구공급",
+  "삼전닉스레버리지ETF'뒤늦은규제'먹힐까[주간증시해설서]",
+  "연기금,간만에2주연속순매수…급락장서담은종목은[마켓시그널]"
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,13 @@
   [
    "2026-07-18T10:41:00.472036+09:00",
    "금융정의연대 규제 강력 SK하이닉스 레버리지 단일종목 삼성전자"
+  ],
+  [
+   "2026-07-18T11:01:17.318199+09:00",
+   "연속 급락장서 간만에 연기금 2주 담은 순매수 종목은"
   ]
  ],
- "last_run": "2026-07-18T10:51:07.719207+09:00",
+ "last_run": "2026-07-18T11:01:22.753985+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
