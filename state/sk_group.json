@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607151703079883",
-  "https://www.sedaily.com/article/20068280",
-  "https://www.news1.kr/finance/general-stock/6229515",
-  "https://www.yeongnam.com/web/view.php?key=20260715025526238",
-  "https://www.news1.kr/finance/market-exr/6229397",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425249",
-  "https://www.khan.co.kr/article/202607160600001",
-  "https://www.newsis.com/view/NISX20260715_0003710446",
   "https://www.news2day.co.kr/article/20260716500007",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=759394",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=52446",
@@ -2999,17 +2991,17 @@
   "https://www.mediapen.com/news/view/1110811",
   "http://www.segyebiz.com/newsView/20260718506045?OutUrl=naver",
   "https://www.hankyung.com/article/202607131295i",
-  "https://www.sedaily.com/article/20068970"
+  "https://www.sedaily.com/article/20068970",
+  "http://www.4th.kr/news/articleView.html?idxno=2114722",
+  "https://www.news1.kr/industry/general-industry/6222575",
+  "http://www.popcornnews.net/news/articleView.html?idxno=125876",
+  "https://www.smartbizn.com/news/articleView.html?idxno=148793",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=875426",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005881980",
+  "https://www.ftimes.kr/news/articleView.html?idxno=38567",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=124885"
  ],
  "seen_titles": [
-  "뉴욕증시,PPI하락에상승...스페이스X는장중공모가아래로[데일리...",
-  "뉴욕증시,빅테크株강세에연이틀'상승'…나스닥0.62%↑",
-  "AI는우리경제큰물결…“일하는방식자체를재설계해야”",
-  "빚투청산·예탁금급감…'정상적조정vs돈맥경화우려'[초변동성에갇...",
-  "황제주된삼성전기…'AI부품총집합'수혜",
-  "국제유가등락속정유업계2Q주춤전망…하반기도‘산넘어산’",
-  "[오늘의청약일정]‘군포대야미A1’청약접수등",
-  "(토마토칼럼)AI로줄어드는첫번째기회",
   "상장제약·바이오1Q평균총차입금의존도코스피22.59%·코스닥20.65%",
   "넥스플렉스인수전후발주자합류…SI·FI컨소시엄새판짜기돌입[시...",
   "개미피눈물뽑아낸'레버리지ETF'…李대통령,보완책신속한마련주...",
@@ -6001,7 +5993,15 @@
   "대형반도체주폭락에'순환매장세'촉발…중소형주·테마주로돈몰린...",
   "AI투자회의론지속…뉴욕증시,반도체주매도세에하락",
   "2060'S&P500'살때…AI베팅한실버개미[일확연금노후부자]",
-  "AI투자못한‘폰회사’가약세장에선대장주네[트럼프스톡커]"
+  "AI투자못한‘폰회사’가약세장에선대장주네[트럼프스톡커]",
+  "[산업소식]스마일게이트희망스튜디오,'유스이스포츠페스티벌'개최",
+  "이영섭뉴스1대표\"AX혁신·정부지원맞물리면한국이선도자될것\"",
+  "재계,상생생태계1·2·3차협력사까지넓힌다",
+  "[분양캘린더]휴가철앞두고분양막판승부···7월넷째주전국6468...",
+  "7월약세장에도선방한중소형주...수익률대형주앞질러",
+  "다음주전국8천905가구분양…이달들어최다",
+  "김민재,바이에른뮌헨잔류확정…매각명단에서지워졌다",
+  "[에어컨리그]농구꿈나무들의성장을위한'횡성에어컨리그'개막...이..."
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,17 @@
   [
    "2026-07-18T11:01:17.318199+09:00",
    "연속 급락장서 간만에 연기금 2주 담은 순매수 종목은"
+  ],
+  [
+   "2026-07-18T11:21:01.043840+09:00",
+   "명단에서 지워졌다 뮌헨 확정 잔류 김민재 매각 바이에른"
+  ],
+  [
+   "2026-07-18T11:21:01.043840+09:00",
+   "꿈나무들의 횡성 농구 개막 성장을 위한 에어컨리그"
   ]
  ],
- "last_run": "2026-07-18T11:11:13.271944+09:00",
+ "last_run": "2026-07-18T11:21:10.832583+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6994,6 +7002,7 @@
   "epj.co.kr": "일렉트릭파워",
   "amnews.co.kr": "농축유통신문",
   "engdaily.com": "엔지니어링데일리",
-  "ksilbo.co.kr": "경상일보"
+  "ksilbo.co.kr": "경상일보",
+  "ftimes.kr": "FT스포츠"
  }
 }
