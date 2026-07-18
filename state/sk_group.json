@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026070216225980205",
-  "https://www.asiatime.co.kr/article/20260702500246",
-  "https://www.tournews21.com/news/articleView.html?idxno=137806",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123082",
-  "https://www.seoulfn.com/news/articleView.html?idxno=632552",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=758652",
   "https://www.greened.kr/news/articleView.html?idxno=344086",
   "https://news.tf.co.kr/read/economy/2339193.htm",
   "https://www.newscj.com/news/articleView.html?idxno=3414025",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12101360",
   "http://www.newsian.co.kr/news/articleView.html?idxno=92401",
   "https://news.tf.co.kr/read/economy/2344454.htm",
-  "https://www.sedaily.com/article/20068960"
+  "https://www.sedaily.com/article/20068960",
+  "https://www.sentv.co.kr/article/view/sentv202607180003",
+  "https://www.asiatime.co.kr/article/20260718500002",
+  "https://www.viva100.com/article/20260718500029",
+  "https://www.smartbizn.com/news/articleView.html?idxno=148787",
+  "https://www.kado.net/news/articleView.html?idxno=2061744",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663048&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "SK,동반성장금융·기술지원에1조4000억투입…상생문화2·3차협력사...",
-  "[현장]SK,\"상생은성장핵심요소\"…1~3차협력사상생확대",
-  "SK,2·3차협력사까지상생문화확산…1조4000억푼다",
-  "SK하이닉스,협력사상생지원강화…5년간1.4조원투입",
-  "[현장]SK,2·3차협력사까지상생넓힌다…1조4000억규모생태계조성",
-  "[현장]SK,협력사동반성장강화한다…상생협력에1.4조투자",
   "SK,협력사와상생협약…협력사에1.4조지원",
   "SK,1~3차협력사와상생협약…동반성장가속화",
   "SK,협력사와상생협약...하이닉스5년간1.4조활용",
@@ -6001,7 +5995,13 @@
   "‘300만원폰’나오나…갤럭시Z폴드8역대급가격표예고",
   "'한은긴축전환'다음인상시기엇갈려...최종금리최대연3.75%",
   "이혼후오른주식몫도재산분할?최태원·노소영24일선고에'이목'",
-  "“반도체성과국민과나눈다”던삼성전자일냈다…4조잭팟"
+  "“반도체성과국민과나눈다”던삼성전자일냈다…4조잭팟",
+  "뉴욕증시,반도체차익실현에하락…나스닥1.4%↓",
+  "‘결혼37년중각자생활20년’…최태원·노소영‘세기의재산분할’...",
+  "엔비디아도털썩,나스닥1.4%하락⋯반도체지수결국약세장진입",
+  "최태원\"메모리수요지속증가···SK하이닉스주식장기보유권장\"",
+  "AI반도체주매도세에뉴욕증시약세…엔비디아2.21%하락",
+  "코스닥상위권에반도체주대거편입됐지만…상승장수혜에서소외"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,13 @@
   [
    "2026-07-18T09:41:01.678588+09:00",
    "반도체 잭팟 4조 일냈다 삼성전자 나눈다 성과 국민과"
+  ],
+  [
+   "2026-07-18T09:51:01.061455+09:00",
+   "코스닥 소외 수혜에서 대거 편입됐지만 상위권에 상승장 반도체주"
   ]
  ],
- "last_run": "2026-07-18T09:41:09.985391+09:00",
+ "last_run": "2026-07-18T09:51:07.313700+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
