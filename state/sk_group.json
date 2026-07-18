@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=233062",
-  "https://www.newsis.com/view/NISI20260716_0021366284",
-  "https://www.newsis.com/view/NISI20260716_0021366283",
-  "https://kpenews.com/View.aspx?No=4151008",
-  "https://www.sidae.com/article/2026071608231153716",
   "https://www.newspim.com/news/view/20260716000071",
   "https://www.mt.co.kr/stock/2026/07/16/2026071608513838348",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251359",
@@ -2999,14 +2994,14 @@
   "https://www.ddaily.co.kr/page/view/2026071617390023984",
   "https://www.newspim.com/news/view/20260716001049",
   "https://www.news1.kr/finance/market-exr/6231111",
-  "https://www.yna.co.kr/view/AKR20260717057700008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260717057700008?input=1195m",
+  "https://www.starnewskorea.com/star/2026/07/19/2026071717592480362",
+  "https://www.kbmaeil.com/article/20260719500014",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165935",
+  "https://www.yna.co.kr/view/AKR20260716198700008?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260716200000008?input=1195m"
  ],
  "seen_titles": [
-  "애플웃고마이크론폭락…오늘밤내투자금보낼안전지대어디?",
-  "익산산단배후주거지'익산펠리피아'...직주근접입지",
-  "최태원\"AI포트폴리오가장잘짜였다\"…SKAI전략,실적이증명",
-  "\"휴가철교통망부터AI해커톤까지\"…통신3사,'AI·보안'으로채운여...",
-  "현대건설,건설회사브랜드평판7월빅데이터1위...삼성물산·대우건설...",
   "SKT,AI로하계휴가철통신품질미리살핀다…20일부터특별대책가...",
   "SK텔레콤,AI기반네트워크활용하계휴가철특별소통대책운영",
   "이억원금융위원회위원장\"단일종목레버리지상품보완대책마련,발...",
@@ -6001,7 +5996,12 @@
   "[AI스택플레이션⑤]메모리쇼크,AI기업까지…“서버구매비70%↑”",
   "[AI로읽는경제]AI가키운'레버리지'열풍…정부브레이크통할까",
   "'삼전닉스'쏠림에조정장서힘못쓴ETF…\"구성종목잘살펴야\"",
-  "[마켓인사이트]제헌절연휴美반도체하락지속…韓증시짓누르나"
+  "[마켓인사이트]제헌절연휴美반도체하락지속…韓증시짓누르나",
+  "\"259층에물린개미\"야속한폭락장..랄랄→서동주도속수무책[스타이슈...",
+  "“AI가만들었다”표시의무화…21일부터‘AI기본법개정안’시행",
+  "하이닉스실적앞둔코스피…반등계기찾을까[주간증시전망]",
+  "외국인,이달국내주식12조원팔때ETF는6천억원샀다",
+  "'SK하닉ADR을담아라'…국내11개액티브ETF에편입"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,17 @@
   [
    "2026-07-19T06:11:05.610145+09:00",
    "반도체 연휴 하락지속 제헌절 증시 짓누르나"
+  ],
+  [
+   "2026-07-19T06:21:04.843820+09:00",
+   "12조원 6천억원 이달 외국인 샀다 주식 ETF는 국내"
+  ],
+  [
+   "2026-07-19T06:21:04.843820+09:00",
+   "ADR을 ETF에 편입 담아라 11개 액티브 SK하닉 국내"
   ]
  ],
- "last_run": "2026-07-19T06:11:38.540259+09:00",
+ "last_run": "2026-07-19T06:21:13.359562+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
