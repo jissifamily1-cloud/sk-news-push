@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsbrite.net/news/articleView.html?idxno=199008",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036841",
-  "https://www.thelec.kr/news/articleView.html?idxno=58981",
-  "https://www.busan.com/view/busan/view.php?code=2026070216033547031",
   "https://www.cnbizm.com/news/articleView.html?idxno=307440",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441441",
   "https://www.ddaily.co.kr/page/view/2026070216225980205",
@@ -2999,12 +2995,13 @@
   "https://www.khan.co.kr/article/202607180917001",
   "http://www.joseilbo.com/news/news_read.php?uid=572137&class=53",
   "https://www.gokorea.kr/news/articleView.html?idxno=872325",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005881950"
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005881950",
+  "https://view.asiae.co.kr/article/2026071809252595297",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850923",
+  "https://www.mk.co.kr/article/12101360",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92401"
  ],
  "seen_titles": [
-  "SK,3차협력사까지상생협약...낙수효과한계깨고'공급망전반체질...",
-  "SK7개주요계열사,1~3차협력사와상생강화…대금지급개선·1.4조...",
-  "대금지급기한10일이내단축...SK7개계열사동반성장전술가동",
   "SK,협력사에1조4000억투자…'상생협약체결'",
   "SK,협력사지원'3차생태계'까지확대…1.4조반도체투자로상생고...",
   "SK,동반성장금융·기술지원에1조4000억투입…상생문화2·3차협력사...",
@@ -6001,7 +5998,10 @@
   "뉴욕증시,반도체매도세지속에하락",
   "SK하이닉스본주·ADR가격괴리좁혀질까…29일부터상호전환시작",
   "삼성전자·SK하이닉스급락속,중소형주'애국테마주'강세",
-  "증시급락에도중소형주선방…반도체조정에순환매"
+  "증시급락에도중소형주선방…반도체조정에순환매",
+  "뉴욕증시,반도체매도세에하락…나스닥1.4%↓",
+  "‘300만원폰’나오나…갤럭시Z폴드8역대급가격표예고",
+  "'한은긴축전환'다음인상시기엇갈려...최종금리최대연3.75%"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-07-18T09:21:00.693544+09:00",
    "증시 선방 급락에도 조정에 순환매 중소형주 반도체"
+  ],
+  [
+   "2026-07-18T09:31:22.912259+09:00",
+   "갤럭시 예고 역대급 300만원 가격표 Z폴드8 나오나"
+  ],
+  [
+   "2026-07-18T09:31:22.912259+09:00",
+   "최종금리 인상 엇갈려 다음 긴축 한은 시기"
   ]
  ],
- "last_run": "2026-07-18T09:21:06.704255+09:00",
+ "last_run": "2026-07-18T09:31:31.444399+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
