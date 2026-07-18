@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/market/378297",
-  "https://view.asiae.co.kr/article/2026071609034045218",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716584",
-  "https://www.news1.kr/finance/general-stock/6229792",
   "https://www.ytn.co.kr/_ln/0102_202607160902032242",
   "https://www.youthdaily.co.kr/news/article.html?no=223131",
   "https://www.kbmaeil.com/article/20260716500055",
@@ -2999,13 +2995,13 @@
   "https://magazine.hankyung.com/business/article/202607192198b",
   "https://www.news1.kr/economy/trend/6231647",
   "https://www.seoul.co.kr/news/economy/finance/2026/07/19/20260719500005?wlog_tag3=naver",
-  "https://www.tokenpost.kr/news/market/379128"
+  "https://www.tokenpost.kr/news/market/379128",
+  "https://www.dt.co.kr/article/12073374",
+  "https://www.hankookilbo.com/news/article/A2026071814020002924?did=NA",
+  "https://www.sedaily.com/article/20068661",
+  "https://biz.heraldcorp.com/article/10811216"
  ],
  "seen_titles": [
-  "이억원\"레버리지ETF대책조만간발표…상장폐지는부작용커\"",
-  "이억원\"단일종목레버리지ETF보완책조만간발표\"",
-  "제품이어브랜드까지…SK인텔릭스'나무엑스',레드닷2관왕",
-  "힐스테이트,아파트브랜드평판7월빅데이터1위...롯데캐슬·자이순",
   "코빗리서치센터“RWA무기한선물,한국자본시장에도영향권”",
   "SK텔레콤,AI데이터센터사업으로기업가치재평가시동",
   "이억원\"레버리지ETF대책,곧낼것\"…거래정지엔답변피해",
@@ -6001,7 +5997,11 @@
   "코스피'폭락'에개미들이웃는이유",
   "반도체가이끈기록적경상흑자…커지는'수출-내수온도차'",
   "7월에만국내주식12조원던진외국인,‘이것’6000억샀다",
-  "SK하이닉스미국예탁주식,본주대비25%고평가'역김치프리미엄'현..."
+  "SK하이닉스미국예탁주식,본주대비25%고평가'역김치프리미엄'현...",
+  "“한국주식말고ETF”외국인,이달ETF6천억사들였다",
+  "경남도,전국최초'국가정보통신망지역이원화'완료…\"재난에도먹...",
+  "[人터뷰+]“中,ASML엔지니어까지빼간다...‘4종지원책’으로반도체...",
+  "하반기석화재편다시물꼬튼다…‘여수1호’지원규모관심[비즈36..."
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,21 @@
   [
    "2026-07-19T07:20:59.327227+09:00",
    "커지는 이끈 기록적 온도차 반도체가 경상흑자 수출 내수"
+  ],
+  [
+   "2026-07-19T07:41:11.548510+09:00",
+   "재난에도 경남도 전국 지역 완료 이원화 국가정보통신망"
+  ],
+  [
+   "2026-07-19T07:41:11.548510+09:00",
+   "4종 지원책 반도체 엔지니어까지 으로 ASML 빼간다"
+  ],
+  [
+   "2026-07-19T07:41:11.548510+09:00",
+   "여수 하반기 물꼬 석화재편 1호 비즈36 다시 관심 지원 규모 튼다"
   ]
  ],
- "last_run": "2026-07-19T07:31:15.827467+09:00",
+ "last_run": "2026-07-19T07:41:23.122062+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
