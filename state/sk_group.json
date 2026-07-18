@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260716500007",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=759394",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=52446",
   "https://www.etoday.co.kr/news/view/2604143",
   "https://www.ytn.co.kr/_ln/0104_202607160609095002",
@@ -2999,11 +2997,11 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=875426",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005881980",
   "https://www.ftimes.kr/news/articleView.html?idxno=38567",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=124885"
+  "http://www.rookie.co.kr/news/articleView.html?idxno=124885",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663054&plink=ORI&cooper=NAVER",
+  "https://www.yna.co.kr/view/AKR20260717049700017?input=1195m"
  ],
  "seen_titles": [
-  "상장제약·바이오1Q평균총차입금의존도코스피22.59%·코스닥20.65%",
-  "넥스플렉스인수전후발주자합류…SI·FI컨소시엄새판짜기돌입[시...",
   "개미피눈물뽑아낸'레버리지ETF'…李대통령,보완책신속한마련주...",
   "숏폼커머스‘Btv핫딜’…8개월만에판매60억달성",
   "\"삼전·닉스반등에도예전같지않네\"…하반기증시흐름바뀐다",
@@ -6001,7 +5999,9 @@
   "7월약세장에도선방한중소형주...수익률대형주앞질러",
   "다음주전국8천905가구분양…이달들어최다",
   "김민재,바이에른뮌헨잔류확정…매각명단에서지워졌다",
-  "[에어컨리그]농구꿈나무들의성장을위한'횡성에어컨리그'개막...이..."
+  "[에어컨리그]농구꿈나무들의성장을위한'횡성에어컨리그'개막...이...",
+  "[자막뉴스]제헌절이나라를구했다…\"월요일도임시공휴일하자\"",
+  "[바이오사이언스]중국바이오와손잡는K바이오…약일까독일까"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-07-18T11:21:01.043840+09:00",
    "꿈나무들의 횡성 농구 개막 성장을 위한 에어컨리그"
+  ],
+  [
+   "2026-07-18T11:31:06.930699+09:00",
+   "바이오와 독일까 약일까 손잡는 중국 K바이오"
   ]
  ],
- "last_run": "2026-07-18T11:21:10.832583+09:00",
+ "last_run": "2026-07-18T11:31:13.903301+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
