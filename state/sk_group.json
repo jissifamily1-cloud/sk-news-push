@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=344086",
-  "https://news.tf.co.kr/read/economy/2339193.htm",
-  "https://www.newscj.com/news/articleView.html?idxno=3414025",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=658791",
-  "https://www.koreaherald.com/article/10768171",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=203131",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=842021",
-  "http://www.dynews.co.kr/news/articleView.html?idxno=852482",
-  "https://www.inews365.com/news/article.html?no=921666",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=41380",
-  "http://www.inews24.com/view/1972513",
   "http://www.4th.kr/news/articleView.html?idxno=2112445",
   "https://magazine.hankyung.com/business/article/202605272677b",
   "https://www.mk.co.kr/article/12052912",
@@ -2999,20 +2988,20 @@
   "https://www.viva100.com/article/20260718500029",
   "https://www.smartbizn.com/news/articleView.html?idxno=148787",
   "https://www.kado.net/news/articleView.html?idxno=2061744",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663048&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663048&plink=ORI&cooper=NAVER",
+  "https://www.sportsseoul.com/news/read/1623072",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141662",
+  "https://biz.sbs.co.kr/article_hub/20000323137?division=NAVER",
+  "https://www.newsway.co.kr/news/view?ud=2026071809561475441",
+  "http://www.metroseoul.co.kr/article/20260718500011",
+  "https://economist.co.kr/article/view/ecn202607180005",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=590093",
+  "https://www.greened.kr/news/articleView.html?idxno=345335",
+  "https://theviewers.co.kr/View.aspx?No=4152912",
+  "http://www.dailypop.kr/news/articleView.html?idxno=100663",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16138460"
  ],
  "seen_titles": [
-  "SK,협력사와상생협약…협력사에1.4조지원",
-  "SK,1~3차협력사와상생협약…동반성장가속화",
-  "SK,협력사와상생협약...하이닉스5년간1.4조활용",
-  "SK,1·2·3차협력사에1.4조투입해동반성장강화",
-  "SK,1·2·3차협력사에1조4000억푼다…\"동반성장가속화\"",
-  "SK협력사와상생협약체결,'대금지급개선''기술·금융지원'으로동...",
-  "SK,1·2·3차협력사와상생협약…\"반도체등1.4조신규자금수혈\"",
-  "SK그룹1·2·3차협력사에1.4조푼다…반도체상생생태계강화",
-  "SK,협력사상생협약체결…반도체생태계지원에1.4조원투입",
-  "SK,2·3차협력사까지상생확대…6800억펀드확대·대금조기지급",
-  "SK,2·3차협력사까지상생협약확대···1.4조투자나서",
   "SK그룹,2·3차협력사로상생확대...1.4조투입해반도체생태계강화",
   "SK,협력사와상생협약체결…최창원수펙스의장\"SK,동반성장위해...",
   "최창원\"하이닉스더잘되려면'상생'필수\"…SK,협력사지원책손본다",
@@ -6001,7 +5990,18 @@
   "엔비디아도털썩,나스닥1.4%하락⋯반도체지수결국약세장진입",
   "최태원\"메모리수요지속증가···SK하이닉스주식장기보유권장\"",
   "AI반도체주매도세에뉴욕증시약세…엔비디아2.21%하락",
-  "코스닥상위권에반도체주대거편입됐지만…상승장수혜에서소외"
+  "코스닥상위권에반도체주대거편입됐지만…상승장수혜에서소외",
+  "‘모두의AI’쟁탈전막올랐다…네이버·카카오·이통3사총출동[SS포...",
+  "[위클리PICK3]최저시급'1만700원'부터정부'삼전닉스'레버리지ETF...",
+  "증시급락장에도중소형주선방…반도체흔들리자순환매확산",
+  "뉴욕증시,AI거품론·중동확전에일제히하락…나스닥1.4%↓",
+  "용인특례시이상일시장,\"정부,용인반도체프로젝트행동으로보여줘...",
+  "‘삼전닉스’레버리지,한달간7조빨아들였다…보완대책효과있나",
+  "뉴욕증시,AI반도체매도세에일제히하락…필라델피아반도체지수약세...",
+  "[토요월가브리핑]美반도체'약세장'진입…월요일삼전·하이닉스가...",
+  "‘중금리터널’빠져나오니다시‘고금리터널’…상단은3.5%?",
+  "가전과로봇의경계허무는AI…정서적교감부터가전제어까지스마트...",
+  "7월16일SK하이닉스주가180만원대마감변동성심화"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,21 @@
   [
    "2026-07-18T09:51:01.061455+09:00",
    "코스닥 소외 수혜에서 대거 편입됐지만 상위권에 상승장 반도체주"
+  ],
+  [
+   "2026-07-18T10:01:15.097139+09:00",
+   "터널 다시 중금리 고금리 빠져나오니 상단은"
+  ],
+  [
+   "2026-07-18T10:01:15.097139+09:00",
+   "로봇의 가전 스마트 가전과 허무는 AI 교감부터 경계 정서적 제어까지"
+  ],
+  [
+   "2026-07-18T10:01:15.097139+09:00",
+   "SK하이닉스 16일 180만원대 심화 7월 마감 변동성 주가"
   ]
  ],
- "last_run": "2026-07-18T09:51:07.313700+09:00",
+ "last_run": "2026-07-18T10:01:26.437150+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
