@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2112445",
-  "https://magazine.hankyung.com/business/article/202605272677b",
-  "https://www.mk.co.kr/article/12052912",
-  "https://www.mk.co.kr/article/12050347",
-  "https://www.mk.co.kr/article/12050233",
-  "http://www.finomy.com/news/articleView.html?idxno=254116",
-  "http://www.breaknews.com/1205528",
-  "https://cn.asiatoday.co.kr/view.php?key=20260507001107211",
   "https://www.job-post.co.kr/news/articleView.html?idxno=214447",
   "https://www.job-post.co.kr/news/articleView.html?idxno=214449",
   "https://www.job-post.co.kr/news/articleView.html?idxno=214450",
@@ -2999,17 +2991,17 @@
   "https://www.greened.kr/news/articleView.html?idxno=345335",
   "https://theviewers.co.kr/View.aspx?No=4152912",
   "http://www.dailypop.kr/news/articleView.html?idxno=100663",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16138460"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16138460",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16138479",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=128247",
+  "https://www.ajunews.com/view/20260718100146897",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307122",
+  "https://news.mtn.co.kr/news-detail/2026071609303830921",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600099.html",
+  "https://www.ajunews.com/view/20260716124454747",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633536"
  ],
  "seen_titles": [
-  "SK그룹,2·3차협력사로상생확대...1.4조투입해반도체생태계강화",
-  "SK,협력사와상생협약체결…최창원수펙스의장\"SK,동반성장위해...",
-  "최창원\"하이닉스더잘되려면'상생'필수\"…SK,협력사지원책손본다",
-  "SK,협력사에1.4조원신규지원…AI반도체생태계상생강화",
-  "최태원SK회장,AI전환혁신승부수…'AI퍼스트'넘어'AI네이티브'로",
-  "SKtolaunchnewAIstrategyforum",
-  "롯데,2026롯데어워즈개최…대상'롯데호텔앤리조트'",
-  "[기업흥망성쇠시리즈]➅'선도적비전vs느린손절'SK네트웍스의구...",
   "이형희SK부회장,청주대리좀강연",
   "이형희SK부회장\"AI시대,생각하는힘길러야\"",
   "[창간기획:미래를설계하는기업들]SK,직물에서글로벌AI핵심강자...",
@@ -6001,7 +5993,15 @@
   "[토요월가브리핑]美반도체'약세장'진입…월요일삼전·하이닉스가...",
   "‘중금리터널’빠져나오니다시‘고금리터널’…상단은3.5%?",
   "가전과로봇의경계허무는AI…정서적교감부터가전제어까지스마트...",
-  "7월16일SK하이닉스주가180만원대마감변동성심화"
+  "7월16일SK하이닉스주가180만원대마감변동성심화",
+  "최근5거래일SK스퀘어주가급락후반등세재차꺾여",
+  "[투데이증시]\"AI치킨게임발발\"...중국發무료AI에뉴욕증시일제히...",
+  "반도체흔들리자중소형주'약진'…수익률대형주앞질러",
+  "제헌절연휴,쉬기전에이것만은···다음주코스피흔들변수5가지",
+  "김창욱파트너\"반도체피크아웃아냐…5년장기계약수요증명\"[경제일...",
+  "삼전·하닉'도박주'만든레버리지ETF…장투문화붕괴에노후연금...",
+  "8000원대독감백신경쟁…K백신'R&D선순환'이관건",
+  "[기자수첩]서두른정책,신중해야할대책"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,29 @@
   [
    "2026-07-18T10:02:23.685395+09:00",
    "심화 주가 마감 변동성 16일 7월 180만원대 SK하이닉스"
+  ],
+  [
+   "2026-07-18T10:11:06.532193+09:00",
+   "다음 5가지 코스피 변수 제헌절 연휴 흔들 전에 이것만은 쉬기"
+  ],
+  [
+   "2026-07-18T10:11:06.532193+09:00",
+   "수요 피크아웃 경제일 증명 반도체 아냐 김창욱 5년 장기계약 파트너"
+  ],
+  [
+   "2026-07-18T10:11:06.532193+09:00",
+   "문화 붕괴에 삼전 노후연금 도박주 레버리지 하닉 만든 장투 ETF"
+  ],
+  [
+   "2026-07-18T10:11:06.532193+09:00",
+   "8000원대 경쟁 선순환 K백신 관건 독감백신"
+  ],
+  [
+   "2026-07-18T10:11:06.532193+09:00",
+   "대책 정책 신중해야 서두른"
   ]
  ],
- "last_run": "2026-07-18T10:02:35.504694+09:00",
+ "last_run": "2026-07-18T10:11:24.234865+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
