@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fetv.co.kr/news/articleView.html?idxno=306524",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61633",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53221",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=189784",
   "https://www.g-enews.com/view.php?ud=202607160639319381fbbec65dfb_1",
@@ -2999,11 +2997,11 @@
   "https://www.thescoop.co.kr/news/articleView.html?idxno=310926",
   "https://www.news1.kr/industry/general-industry/6231631",
   "https://www.news2day.co.kr/article/20260718500008",
-  "https://www.newspim.com/news/view/20260718000060"
+  "https://www.newspim.com/news/view/20260718000060",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335843",
+  "https://www.dailian.co.kr/news/view/1668320/?sc=Naver"
  ],
  "seen_titles": [
-  "뉴욕증시,PPI둔화·빅테크강세에상승…나스닥0.6%↑",
-  "SK하이닉스ADR,27%폭등하루만에9%급락…널뛰기장세",
   "아파트브랜드경쟁뜨겁다…힐스테이트·롯데캐슬·자이톱3",
   "[이슈체크]한은오늘기준금리인상유력…3년반만에긴축돌입",
   "'삼전·닉스더떨어질줄알았는데'…곱버스갈아탄개미들'이중손실...",
@@ -6001,17 +5999,11 @@
   "3년6개월만의통화긴축전환…연3%대기준금리시대닥친다",
   "최태원\"행복뿌리는것이기업목적…힘모으면韓바꾸는원동력\"(종...",
   "[재계인사이드]종이와반도체가삼성가에서만나는방식",
-  "경남도,전국지자체최초'백본전송망·도행정통신망이원화'구축"
+  "경남도,전국지자체최초'백본전송망·도행정통신망이원화'구축",
+  "레버리지ETF에언론\"멀쩡한증시만널뛰기도박판만들어\"",
+  "\"나라구한제헌절,월요일도공휴일로…\"아우성대체왜"
  ],
  "recent_sigs": [
-  [
-   "2026-07-18T08:41:01.780196+09:00",
-   "승부수 개미들 와르르 던진 뭉칫돈 7조"
-  ],
-  [
-   "2026-07-18T08:51:02.799295+09:00",
-   "부동산은 예탁금 주식은 정부가 부자 만든 현금"
-  ],
   [
    "2026-07-18T09:01:13.864607+09:00",
    "홍익콘크리트산업 80년 시멘트와 모래로 창업 일군"
@@ -6267,9 +6259,17 @@
   [
    "2026-07-18T14:41:00.537690+09:00",
    "백본전송망 경남도 행정통신망 구축 지자체 이원화 전국"
+  ],
+  [
+   "2026-07-18T14:51:04.478775+09:00",
+   "레버리지 널뛰기 증시만 ETF에 언론 만들어 도박판 멀쩡한"
+  ],
+  [
+   "2026-07-18T14:51:04.478775+09:00",
+   "월요일도 구한 공휴일로 나라 아우성 대체 제헌절"
   ]
  ],
- "last_run": "2026-07-18T14:41:09.204118+09:00",
+ "last_run": "2026-07-18T14:51:12.993663+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
