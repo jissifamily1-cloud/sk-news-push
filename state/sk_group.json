@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607141348530000103331",
-  "https://www.viva100.com/article/20260715501054",
   "https://www.dailypharm.com/user/news/340351?REFERER=NP",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716557",
   "https://www.g-enews.com/view.php?ud=202607160713483964e250e8e188_1",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260717509793?OutUrl=naver",
   "https://www.dailian.co.kr/news/view/1668347/?sc=Naver",
   "https://www.aitimes.com/news/articleView.html?idxno=212904",
-  "https://www.etoday.co.kr/news/view/2604476"
+  "https://www.etoday.co.kr/news/view/2604476",
+  "https://www.joongangenews.com/news/articleView.html?idxno=533648",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607181810252ad"
  ],
  "seen_titles": [
-  "[ETF매치업]DS운용코스닥액티브데뷔첫날+3.5%…6파전경쟁",
-  "[2026상반기리그테이블][인수금융]1조지킨하나은행…바뀐인수금...",
   "[이오타서울돋보기]리츠칼튼되는서울힐튼…김종성유산살린다",
   "[공매로번진회수전][SK에코플랜트]대위변제한해운대홈플러스,결국...",
   "부동산막는대출규제걸림돌…무주택자규제완화‘갑론을박’",
@@ -6001,7 +5999,9 @@
   "한달만에7조원유입된‘삼전닉스’레버리지과열,보완책엔“글쎄...",
   "[데일리안오늘뉴스종합]'부산북갑'넘어전국으로,당내출마자격...",
   "[AI이슈트렌드]반도체발코스피쇼크속홈플러스파산위기주목",
-  "충청권392조첨단산업투자…세종,‘자족도시’도약하나"
+  "충청권392조첨단산업투자…세종,‘자족도시’도약하나",
+  "최태원\"SK하이닉스주가결국오른다\"...AI메모리성장에장기우상향...",
+  "\"예탁금3천만원\"레버리지대책…효과는미지수"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,13 @@
   [
    "2026-07-18T18:11:02.028081+09:00",
    "자족도시 첨단산업 충청권 392조 도약하나 세종 투자"
+  ],
+  [
+   "2026-07-18T18:21:00.338488+09:00",
+   "예탁금 레버리지 미지수 효과는 3천만원 대책"
   ]
  ],
- "last_run": "2026-07-18T18:11:13.336741+09:00",
+ "last_run": "2026-07-18T18:21:07.511287+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
