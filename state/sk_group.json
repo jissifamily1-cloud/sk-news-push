@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/595616",
-  "http://www.newsprime.co.kr/news/article.html?no=740600",
-  "https://news.bizwatch.co.kr/article/mobile/2026/07/15/0022",
-  "https://www.newspim.com/news/view/20260702001050",
-  "https://www.newspim.com/news/view/20260702001049",
-  "https://www.newspim.com/news/view/20260702001038",
-  "https://www.newspim.com/news/view/20260702001046",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587324496874",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04040966645515176",
   "https://biz.heraldcorp.com/article/10811170",
@@ -2999,16 +2992,16 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607171419217240521",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724574",
   "https://www.namdonews.com/news/articleView.html?idxno=917248",
-  "https://www.etnews.com/20260719000024"
+  "https://www.etnews.com/20260719000024",
+  "https://www.segye.com/newsView/20260719510941?OutUrl=naver",
+  "https://news.ifm.kr/news/articleView.html?idxno=475307",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/63609?feed=na",
+  "https://www.viva100.com/article/20260719500550",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/19/2026071990086.html",
+  "https://www.koreatimes.co.kr/path/A2026071914400000074",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872404"
  ],
  "seen_titles": [
-  "추가인상으로쏠리는눈…한은이42개월만에연'금리인상'의문",
-  "무기한선물가상자산넘어실물자산으로…코빗,\"규제사각지대대비해...",
-  "나도말좀합시다_복지현장초대석8회_황금숙국립장애인도서관관장...",
-  "복지TV뉴스_복지이슈포커스'(2026.7.15)",
-  "국군사관학교대전유치…허태정시정동력확보모멘텀",
-  "\"돌고돌아또AI로\"...신흥시장투자자들,미국피하려다TSMC·삼전닉스...",
-  "'중국삼전닉스'창신메모리상장초읽기…국내업계영향은",
   "국민부담없는AI활용환경만든다",
   "[마담P의오경제]유시민\"이제는받아들여요\"이말을국내증시에대...",
   "\"AIDC·피지컬AI·반도체총력\"…과기부,메가프로젝트본격화",
@@ -6001,7 +5994,14 @@
   "문턱높아진삼전ㆍ닉스레버리지투자,증시변동성줄어들까",
   "[주간증시전망대]SK하이닉스실적에쏠린눈…\"코스피반등분수령\"",
   "[사설]한빛원전증설·수명연장,최후의대안이어야",
-  "[김태형의혁신의기술]〈56〉AI네이티브(Native),우리는어떤시대에..."
+  "[김태형의혁신의기술]〈56〉AI네이티브(Native),우리는어떤시대에...",
+  "“모든사람싫어하진않아”...최태원,하이닉스성과급논란에입열...",
+  "[현장]쿠팡화재,인천석남동주민들\"문닫아도매캐한냄새...숨쉬...",
+  "최태원\"메모리가격비정상적으로높아\"...공장더짓겠다",
+  "SKT,하나금융과‘TECH4GOOD해커톤’개최",
+  "SK하이닉스최태원\"글로벌메모리반도체,내년수요더늘어날것…생...",
+  "Chip-drivengrowthcouldfuelDutchdiseaserisks:BOK",
+  "국산NPU주목…AI주권지킬핵심으로떠오르다"
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,17 @@
   [
    "2026-07-19T16:11:05.793364+09:00",
    "Native 시대에 어떤 우리는 네이티브 AI"
+  ],
+  [
+   "2026-07-19T16:21:01.108213+09:00",
+   "fuel BOK disease Chip could Dutch driven growth risks"
+  ],
+  [
+   "2026-07-19T16:21:01.108213+09:00",
+   "NPU 핵심으로 떠오르다 지킬 주목 국산 주권 AI"
   ]
  ],
- "last_run": "2026-07-19T16:11:14.387784+09:00",
+ "last_run": "2026-07-19T16:21:11.098981+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
