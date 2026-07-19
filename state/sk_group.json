@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607160846587349",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422775",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360382",
-  "http://www.lawissue.co.kr/view.php?ud=20260716105707106367191f6c6e_12",
-  "https://www.ikbc.co.kr/article/view/kbc202607160028",
-  "https://www.mk.co.kr/article/12100086",
-  "http://www.joseilbo.com/news/news_read.php?uid=572041&class=17",
-  "https://www.seoul.co.kr/news/economy/securities/2026/07/16/20260716500044?wlog_tag3=naver",
-  "https://www.mt.co.kr/economy/2026/07/16/2026071610373529750",
   "https://www.sedaily.com/article/20068480",
   "https://www.ppss.kr/news/articleView.html?idxno=302315",
   "https://www.news1.kr/finance/market-exr/6230113",
@@ -2999,18 +2990,18 @@
   "https://www.ddaily.co.kr/page/view/2026071910473922024",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716857",
   "https://www.joongang.co.kr/article/25446157",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16139211"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16139211",
+  "https://m.skyedaily.com/news_view.html?ID=308074",
+  "https://www.yna.co.kr/view/AKR20260719029500009?input=1195m",
+  "https://www.donga.com/news/Economy/article/all/20260719/134317777/1",
+  "https://www.econovill.com/news/articleView.html?idxno=745558",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716859",
+  "https://www.sedaily.com/article/20069076",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109574",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030130229&code=61141411&cp=nv",
+  "http://www.cctimes.kr/news/articleView.html?idxno=917090"
  ],
  "seen_titles": [
-  "코스피,반도체투매속6%대급락…매도사이드카발동·7,000선붕괴",
-  "\"2분기실적호조\"…증권가전망에SK이노베이션3%대강세",
-  "SK하이닉스주가,7월16일장중1,851,000원11.10%하락",
-  "[위클리오늘]이동통신소식_(7.16)LG유플러스,SK텔레콤,KT(7.16)",
-  "“이혼뒤오른SK주가도나누나”…최태원·노소영‘세기의재산분...",
-  "CXMT증설·미규제완화의역설…메모리주왜빠지나",
-  "사흘만에도로‘180만닉스·25만전자’됐다…코스피-7%‘와르르’[...",
-  "'남해안우주항공벨트'본격화...경남,남부권주거·산업중심축으로...",
-  "[2026년노동]민노총,당·정겨냥총파업…노란봉투법기반원청교섭...",
   "3년반만에통화정책'긴축'으로물가우려높아지고성장률개선",
   "SK에코플랜트,‘의왕역SK뷰’분양…의왕역역세권1857세대대단지",
   "금융위원장\"단일종목레버리지보완방안조만간발표...일시거래중지...",
@@ -6001,7 +5992,16 @@
   "원·달러환율급속안정…하이닉스발달러풀리며1470원대,주요국절...",
   "인천쿠팡물류센터화재27시간째사투…소방헬기·특수장비총동원",
   "최태원“현재메모리가격정상아냐.공급부족더심해진다”",
-  "SK디앤디,투자주의종목지정→소수계좌거래집중주의"
+  "SK디앤디,투자주의종목지정→소수계좌거래집중주의",
+  "김용범“레버리지상폐어렵다”…예탁금3000만원에반도체쏠림줄까",
+  "\"한국증시,글로벌증시심리좌우\"…블룸버그,AI발상전벽해주목",
+  "최태원,성과급논란에“주주등이해관계자도함께행복해야”",
+  "쿠팡\"인천물류센터화재송구…당국조사적극협조\"",
+  "[주간증시전망]AI투자시험대오른증시…빅테크실적시즌개막",
+  "쿠팡물류센터화재27시간째…“오늘밤11시초진목표”",
+  "SK에코플랜트대표,KTX공사현장사고협력사근로자유족찾아사과",
+  "최태원“내년반도체수요최소50%이상폭증할것”",
+  "SK텔레콤,휴가철통신품질완벽관리"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,13 @@
   [
    "2026-07-19T12:21:07.175205+09:00",
    "투자주의 종목 거래집중 지정 주의 소수계좌 SK디앤디"
+  ],
+  [
+   "2026-07-19T12:31:09.832574+09:00",
+   "관리 SK텔레콤 통신품질 휴가철 완벽"
   ]
  ],
- "last_run": "2026-07-19T12:21:14.692316+09:00",
+ "last_run": "2026-07-19T12:31:21.599174+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
