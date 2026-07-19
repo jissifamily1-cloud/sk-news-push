@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongboo.com/news/articleView.html?idxno=363731608",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041605",
-  "https://www.nocutnews.co.kr/news/6549171",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213122",
-  "http://www.fnnews.com/news/202607161415194854",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307373&inflow=N",
-  "https://news.tf.co.kr/read/national/2344143.htm",
-  "https://www.namdonews.com/news/articleView.html?idxno=917187",
   "https://www.insight.co.kr/news/563410",
   "https://www.ekn.kr/web/view.php?key=20260716025073151",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269964",
@@ -2999,17 +2991,17 @@
   "http://www.fnnews.com/news/202607191822004549",
   "http://www.jndn.com/article.php?aid=1784452813436244001",
   "https://www.namdonews.com/news/articleView.html?idxno=917324",
-  "https://www.namdonews.com/news/articleView.html?idxno=917314"
+  "https://www.namdonews.com/news/articleView.html?idxno=917314",
+  "https://view.asiae.co.kr/article/2026071508400971618",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847898",
+  "https://www.jjan.kr/article/20260719500242",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264706",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716871",
+  "http://www.fnnews.com/news/202607191836305442",
+  "https://www.jemin.com/news/articleView.html?idxno=840421",
+  "http://www.fnnews.com/news/202607191830454515"
  ],
  "seen_titles": [
-  "중부발전,신안우이해상풍력착공식16일개최",
-  "이랜드월드,패션업계최초관세청AEO'AAA'획득...전국19개기업뿐",
-  "코스피,'삼전·닉스'급락에5%대하락...6900선[fn오후시황]",
-  "美자본시장도인정한최태원'AI드라이브'…SK㈜몸값까지높인다",
-  "안성폐수우려반영…추미애,삼성·SK에공정수활용확대권고",
-  "[하반기경제전략]과기정통부배경훈\"연내'모두의AI'출시…550조AI...",
-  "신안우이해상풍력첫삽…3조4천억원투입국내최대해상풍력착공",
-  "\"AI시대경쟁력,코딩속도아닌개발프로세스에달렸다\"",
   "SK에코'의왕역SK뷰',본격공급...1857가구규모",
   "과기정통부,'3대메가프로젝트'속도…범용AI챗봇연내가동",
   "광주시애물단지'탄약고이전'…삼전·닉스반도체팹후보지결정에...",
@@ -6001,7 +5993,15 @@
   "\"삼전닉스레버리지상폐는어려워\"...배율1.5배로낮추는것에도'신...",
   "800조반도체에광주4대군사시설재배치‘급물살’",
   "호남권반도체산단전력망잠정안확정…전력인프라본궤도",
-  "'정답이술술'…AI스마트안경에뚫린시험장'비상'"
+  "'정답이술술'…AI스마트안경에뚫린시험장'비상'",
+  "AI입힌다…김상욱울산시장,SK·S-OIL방문AI·대형투자협력속도↑",
+  "[현장]암참,AI리더십위원회출범…한미AI동맹가속",
+  "[주간증시전망]SK하이닉스실적발표,코스피방향성결정",
+  "김용범\"단일종목레버리지ETF상장폐지어렵다…10조원시장충격줘...",
+  "원화가치이달들어'나홀로강세'…절상률주요국통화중최고",
+  "[사설]美맹추격中AI,韓반도체만으론패권못잡아",
+  "힘찬킥오프로백록기'시작'",
+  "[포럼]3대메가프로젝트,中企'패싱'"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,21 @@
   [
    "2026-07-19T18:31:10.640024+09:00",
    "비상 시험장 술술 안경에 스마트 뚫린 AI 정답이"
+  ],
+  [
+   "2026-07-19T18:41:01.797384+09:00",
+   "AI 맹추격 잡아 반도체만으론 패권"
+  ],
+  [
+   "2026-07-19T18:41:01.797384+09:00",
+   "시작 백록기 힘찬 킥오프로"
+  ],
+  [
+   "2026-07-19T18:41:01.797384+09:00",
+   "프로젝트 메가 패싱 3대"
   ]
  ],
- "last_run": "2026-07-19T18:31:26.986111+09:00",
+ "last_run": "2026-07-19T18:41:13.545269+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
