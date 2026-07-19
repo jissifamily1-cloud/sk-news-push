@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425299",
-  "https://www.mydaily.co.kr/page/view/2026071609103198304",
-  "https://www.cstimes.com/news/articleView.html?idxno=713683",
-  "http://www.beyondpost.co.kr/view.php?ud=202607160936085575be44c0aacd_30",
-  "https://www.g-enews.com/view.php?ud=202607160925548424923c501012_1",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607160932019180398",
   "https://www.g-enews.com/view.php?ud=2026071609243481244093b5d4e_1",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=847361",
@@ -2999,14 +2994,14 @@
   "http://www.srtimes.kr/news/articleView.html?idxno=207740",
   "http://www.metroseoul.co.kr/article/20260716500193",
   "https://www.viva100.com/article/20260716500991",
-  "https://www.tokenpost.kr/news/economy/379141"
+  "https://www.tokenpost.kr/news/economy/379141",
+  "https://www.socialvalue.kr/news/view/1065573281182810",
+  "https://www.newsis.com/view/NISX20260719_0003713913",
+  "https://economist.co.kr/article/view/ecn202607190002",
+  "https://www.yna.co.kr/view/AKR20260717050300017?input=1195m",
+  "https://www.mt.co.kr/politics/2026/07/19/2026071608002530911"
  ],
  "seen_titles": [
-  "이대통령“레버리지보완책마련”지시에…금융위원장“조만간발표...",
-  "[속보]코스피5%급락,매도사이드카…7천선또무너져",
-  "반등하루만7000선아래로…코스피,외인'팔자'에약세",
-  "전기차로참여하는'플러스DR',전력계통안정화핵심해법부상",
-  "SK에코플랜트,경기의왕1857가구'의왕역SK뷰'분양돌입",
   "원·달러환율,1.7원오른1486.4원",
   "'큰손'품은삼성증권,리테일쌍끌이로역대급실적예고",
   "[남승표의궁변통구]워런버핏이부러워할대한민국을꿈꾸며",
@@ -6001,7 +5996,12 @@
   "[주간브리핑]800조슈퍼재정편성…삼성포용금융2000억원",
   "오르는건인버스뿐…코스닥시장'경고등'",
   "[르포]‘의왕역SKVIEW’분양돌입…“실수요자중심청약유입기대...",
-  "국내채권발행,휴가철에감소세…2조3천억예상"
+  "국내채권발행,휴가철에감소세…2조3천억예상",
+  "SKT,‘TECH4GOOD해커톤’성료…\"포용적미래를위한AI서비스\"발굴",
+  "AI가아이맞춤동화만들었다…SKT·하나금융,청년해커톤개최",
+  "'운명의한주'급락한코스피향방美알파벳이가른다,왜?",
+  "[AI위클리]AI무게중심'추론'으로…국산NPU시대열린다",
+  "반년만에되살아난'주52시간'예외논의...첨단기업'생존의조건'"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-07-19T09:31:10.670847+09:00",
    "휴가철에 발행 국내 2조3천억 예상 감소세 채권"
+  ],
+  [
+   "2026-07-19T09:41:03.748326+09:00",
+   "조건 반년만에 논의 예외 첨단기업 주52시간 되살아난 생존의"
   ]
  ],
- "last_run": "2026-07-19T09:31:29.785441+09:00",
+ "last_run": "2026-07-19T09:41:10.400553+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
