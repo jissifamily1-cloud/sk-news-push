@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606205",
   "https://www.yna.co.kr/view/AKR20260708127551001?input=1195m",
   "https://www.news1.kr/politics/president/6222641",
   "http://www.fnnews.com/news/202607090947195243",
@@ -2999,10 +2998,10 @@
   "https://www.newscj.com/news/articleView.html?idxno=3418065",
   "https://www.newsinside.kr/news/articleView.html?idxno=4845640",
   "https://www.viva100.com/article/20260719500308",
-  "https://www.munhwa.com/article/11603456"
+  "https://www.munhwa.com/article/11603456",
+  "https://www.mt.co.kr/industry/2026/07/19/2026071616231464908"
  ],
  "seen_titles": [
-  "최태원회장,SK하이닉스ADR상장맞아미국행",
   "[특징주]SK하이닉스,ADR공모흥행에'급등'",
   "사회적가치연구원·SKT·소프트뱅크,AI사회적가치측정표준화추진",
   "이대통령,오늘‘한·몽골비즈니스포럼’참석…핵심광물·유통협...",
@@ -6001,7 +6000,8 @@
   "최태원\"내년반도체수요최소50%이상↑…빠른증설이생명줄\"",
   "최태원\"내년반도체수요최소50%증가‥.미국투자도고려\"",
   "9년공방마침표⋯최태원·노소영,24일파기환송심에쏠린눈",
-  "‘청천벽력?’…최태원“영업익10%성과급,부정적영향있다면손볼..."
+  "‘청천벽력?’…최태원“영업익10%성과급,부정적영향있다면손볼...",
+  "메모리전망치잇따라상향…현장체감수요는'그이상'"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-19T15:30:19.442059+09:00",
    "영향있다면 영업익 성과급 청천벽력 부정적"
+  ],
+  [
+   "2026-07-19T15:40:15.826035+09:00",
+   "체감 이상 수요는 잇따라 상향 전망치 메모리 현장"
   ]
  ],
- "last_run": "2026-07-19T15:30:46.843423+09:00",
+ "last_run": "2026-07-19T15:40:30.327970+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
