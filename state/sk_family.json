@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165444",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090233&t=NN",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606285",
   "https://www.mediapen.com/news/view/1109124",
   "https://www.ekn.kr/web/view.php?key=20260709027390782",
@@ -2999,11 +2997,11 @@
   "http://www.segyebiz.com/newsView/20260719514062?OutUrl=naver",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267006",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206778",
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/19/20260719500088?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/economy/industry/2026/07/19/20260719500088?wlog_tag3=naver",
+  "https://www.sedaily.com/article/20069219",
+  "https://biz.heraldcorp.com/article/10812928"
  ],
  "seen_titles": [
-  "최태원,SK하이닉스나스닥상장방미",
-  "최태원SK그룹회장,SK하이닉스나스닥상장기념식참석…AI메모리협...",
   "SK하이닉스,美증시데뷔앞두고'대흥행'…ADR공모7배청약",
   "미국간최태원,SK하이닉스나스닥상장직접챙긴다",
   "\"SK하닉,ADR로재평가는착각\"…거버넌스포럼\"지배구조개선필요\"",
@@ -6001,17 +5999,11 @@
   "최태원“하이닉스성과급,주주가치훼손땐조정해야”",
   "'5兆매각'에끼어든반도체변수…SK,SK실트론매각재검토하나",
   "'팔지말고보유'최태원\"메모리달라고아비규환…공장더지을것\"",
-  "최태원“성과급,이해관계자행복침해하면손봐야…‘아비규환’수..."
+  "최태원“성과급,이해관계자행복침해하면손봐야…‘아비규환’수...",
+  "월요일삼전닉스흔들변수?…충격의中‘키미K3’공개에美반도체...",
+  "“-30%부터안본다”“그냥버텨라”공포의월요일온다…한달새40%..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-19T14:50:12.922806+09:00",
-   "내려야 비정상적 회장 가격 메모리"
-  ],
-  [
-   "2026-07-19T14:50:12.922806+09:00",
-   "속도전 SK실트론 반도체 띄운 매각은 제주에서"
-  ],
   [
    "2026-07-19T15:00:25.481703+09:00",
    "이해관계자의 깬다면 성과급이 한다 바꿔야 행복을"
@@ -6099,9 +6091,13 @@
   [
    "2026-07-19T20:20:12.731551+09:00",
    "침해하면 봐야 성과급 이해관계자 행복 아비규환"
+  ],
+  [
+   "2026-07-19T20:50:13.285960+09:00",
+   "온다 버텨라 부터 월요일 공포의 안본다 한달새 그냥"
   ]
  ],
- "last_run": "2026-07-19T20:40:23.619284+09:00",
+ "last_run": "2026-07-19T20:50:28.315039+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
