@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/distribution/6230503",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237649",
-  "https://www.etnews.com/20260716000245",
-  "https://www.gokorea.kr/news/articleView.html?idxno=872213",
-  "https://www.g-enews.com/view.php?ud=202607161443188983ea13369bfa_1",
-  "https://www.gokorea.kr/news/articleView.html?idxno=872204",
   "http://www.inews24.com/view/1986262",
   "https://www.newstnt.com/news/articleView.html?idxno=710544",
   "https://www.viva100.com/article/20260716500584",
@@ -2999,15 +2993,15 @@
   "https://news.jtbc.co.kr/article/NB12308999?influxDiv=NAVER",
   "https://www.socialvalue.kr/news/view/1065603822729169",
   "https://www.joongang.co.kr/article/25446239",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01961446645516160"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01961446645516160",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206778",
+  "https://www.segye.com/newsView/20260719514253?OutUrl=naver",
+  "http://www.4th.kr/news/articleView.html?idxno=2114928",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206779",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=267006",
+  "http://www.segyebiz.com/newsView/20260719514062?OutUrl=naver"
  ],
  "seen_titles": [
-  "삼성전자·SK하닉도'초긴장'…'몸값120조'中괴물온다",
-  "대전센터화재의교훈…경남전국첫‘통신망이중화’로답했다",
-  "KTX공사현장서숨진미얀마인유족\"죽음의이주화끊으라\"촉구",
-  "원주시,반도체기업취업연계맞춤과정수료식개최…20명'전원취업'",
-  "쿠팡\"'美로비기업'묘사유감…韓대기업등1만5000개기관활동\"(종...",
-  "정부,단일종목레버리지ETF긴급점검…오늘F4회의서보완책논의",
   "“강남까지20분”…SK에코플랜트,'의왕역SK뷰'견본주택오픈",
   "청년일경험확대로미래준비…삼성·네이버등대기업과협력강화",
   "대우건설,울산북항LNG터미널3단계준공…시공경쟁력입증",
@@ -6001,25 +5995,15 @@
   "김용범\"삼전·닉스레버리지상폐어렵다\"…괴리율관리강조",
   "최태원\"반도체가격더올리면얻어맞을것…빠른증설이생명\"",
   "한은“과도한반도체쏠림,네덜란드병유발”",
-  "'메모리빅3추격'…그뒤엔'주이밍'뚝심있었다"
+  "'메모리빅3추격'…그뒤엔'주이밍'뚝심있었다",
+  "'팔지말고보유'최태원\"메모리달라고아비규환…공장더지을것\"",
+  "연일휘청인삼전·닉스주가…이번주반등이끌변수는",
+  "쿠팡인천물류센터화재37시간째…굴삭기로외벽뚫고진화총력전",
+  "개미들무덤된삼전닉스레버리지…김용범\"상장폐지어려워\"",
+  "'5兆매각'에끼어든반도체변수…SK,SK실트론매각재검토하나",
+  "최태원“하이닉스성과급,주주가치훼손땐조정해야”"
  ],
  "recent_sigs": [
-  [
-   "2026-07-19T14:01:15.857340+09:00",
-   "K보안 키웠다 존재감 데프콘 12팀 한국 본선 4팀이 해킹 올림픽"
-  ],
-  [
-   "2026-07-19T14:01:15.857340+09:00",
-   "각자도생 삼전닉스 3조 예금이 낫다 산다 줍줍 공포에"
-  ],
-  [
-   "2026-07-19T14:01:15.857340+09:00",
-   "알파벳 살릴까 실적 장세 ETF 외인은 롤러코스터 이번주 코스피"
-  ],
-  [
-   "2026-07-19T14:01:15.857340+09:00",
-   "통신사 저변 총력 종잣돈 확보 AI 확장 고객 한창"
-  ],
   [
    "2026-07-19T14:11:06.024218+09:00",
    "외부자금 유치 주목 비수도권 법안도 지원 호남 연다"
@@ -6659,9 +6643,13 @@
   [
    "2026-07-19T20:01:13.718204+09:00",
    "메모리 빅3 있었다 그뒤엔 주이밍 추격 뚝심"
+  ],
+  [
+   "2026-07-19T20:11:01.814567+09:00",
+   "성과급 훼손 조정해야 하이닉스 최태원 주주가치"
   ]
  ],
- "last_run": "2026-07-19T20:01:23.013984+09:00",
+ "last_run": "2026-07-19T20:11:07.586284+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
