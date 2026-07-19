@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260709000011",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424075",
-  "https://view.asiae.co.kr/article/2026070908170097538",
-  "https://sateconomy.co.kr/news/view/1065566897919804",
   "https://www.etoday.co.kr/news/view/2601840",
   "https://www.joongangenews.com/news/articleView.html?idxno=531613",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000048721",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260718029700003?input=1195m",
   "https://www.news1.kr/industry/general-industry/6231521",
   "https://www.news1.kr/industry/general-industry/6231505",
-  "https://www.news1.kr/industry/general-industry/6231002"
+  "https://www.news1.kr/industry/general-industry/6231002",
+  "https://www.chosun.com/economy/industry-company/2026/07/19/2EKDSEVSDJGEFNVVS5KOL7757Y/",
+  "https://www.hankyung.com/article/2026071925167",
+  "https://www.joongang.co.kr/article/25446157",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109576"
  ],
  "seen_titles": [
-  "최태원회장,'글로벌톱'SK하이닉스ADR상장맞아미국행…AI메모리...",
-  "SK하이닉스,10일나스닥상장기념식…최태원회장직접참석",
-  "“SK하이닉스미국상장공모,7배이상초과청약”",
-  "최태원,SK하이닉스나스닥상장맞춰미국행…AI빅테크협력모색",
   "마이크론등AI메모리주,저가매수에낙폭축소",
   "최태원회장,SK하이닉스나스닥상장맞춰방미…글로벌빅테크회동...",
   "최태원,SK하이닉스美ADR상장직접챙긴다…뉴욕기념식참석차출국",
@@ -6001,17 +5997,13 @@
   "최태원,성과급논란에\"긍정적영향도있어…좀더지켜봐야\"",
   "최태원\"성과급,이해관계자문제야기하면지속안돼\"…개선시사",
   "최태원\"메모리요청·압력아비규환…내년공급부족더심화\"",
-  "용인이어호남찍고미국까지…최태원'팹증설'에사활건이유"
+  "용인이어호남찍고미국까지…최태원'팹증설'에사활건이유",
+  "최태원“N%성과급,이해관계자행복깨면손봐야”",
+  "최태원,성과급논란에입열었다…\"긍정적영향도있어\"",
+  "최태원“현재메모리가격정상아냐.공급부족더심해진다”",
+  "최태원“메모리수요어차피지속…갖고있어라”"
  ],
  "recent_sigs": [
-  [
-   "2026-07-19T06:10:15.835121+09:00",
-   "이미지 AI 미래를 신뢰하게 리더십 시대 만드는 박영실의 최태원의"
-  ],
-  [
-   "2026-07-19T06:10:15.835121+09:00",
-   "9조 3세 꽂힌 빅딜 원톱 바이오에"
-  ],
   [
    "2026-07-19T06:30:18.696220+09:00",
    "법원 내주 김건희 선고 오세훈 나온다 대형"
@@ -6095,9 +6087,13 @@
   [
    "2026-07-19T12:10:14.292665+09:00",
    "찍고 미국까지 이어 사활 호남 증설 이유 용인"
+  ],
+  [
+   "2026-07-19T12:20:14.783329+09:00",
+   "지속 있어라 수요 어차피 메모리 갖고"
   ]
  ],
- "last_run": "2026-07-19T12:10:56.435464+09:00",
+ "last_run": "2026-07-19T12:20:27.288472+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6299,6 +6295,7 @@
   "newsfc.co.kr": "금융소비자뉴스",
   "lawtimes.co.kr": "법률신문",
   "livebiz.today": "생생비즈플러스",
-  "newsgn.com": "뉴스경남"
+  "newsgn.com": "뉴스경남",
+  "smarttoday.co.kr": "스마트투데이"
  }
 }
