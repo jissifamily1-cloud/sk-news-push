@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026070942006",
-  "https://www.sentv.co.kr/article/view/sentv202607090005",
-  "https://www.sedaily.com/article/20065568",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039056",
   "http://www.fnnews.com/news/202607090816124953",
   "https://www.sentv.co.kr/article/view/sentv202607090008",
@@ -2999,12 +2996,12 @@
   "https://www.ajunews.com/view/20260719113150295",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716862",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/19/2026071900047.html",
-  "https://zdnet.co.kr/view/?no=20260719122204"
+  "https://zdnet.co.kr/view/?no=20260719122204",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/19/2026071990048.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614254",
+  "https://www.imaeil.com/page/view/2026071912464376003"
  ],
  "seen_titles": [
-  "최태원,SK하이닉스나스닥상장맞춰美행…투자자소통나선다",
-  "최태원,SK하이닉스나스닥상장식참석할듯",
-  "미국찾는최태원,SK하이닉스나스닥데뷔직접챙긴다",
   "나스닥에태극기거는SK하이닉스…최태원,'오프닝벨'울린다",
   "‘7배청약흥행’SK하이닉스,36조안고나스닥입성…최태원출격",
   "SK하이닉스ADR공모‘7배청약’흥행성공…최태원‘현지IR’주목...",
@@ -6001,7 +5998,10 @@
   "이번주김건희대법판단나온다…최태원·노소영파기환송심선고도",
   "최태원\"내년메모리반도체수급난더심화…AI시대,공급확대필수...",
   "최태원\"AI반도체빠른증설과공급확대가생명줄…내년수급난·칩...",
-  "[ZD브리핑]삼성언팩,여권형폴드공개...국민이원하는부동산세제..."
+  "[ZD브리핑]삼성언팩,여권형폴드공개...국민이원하는부동산세제...",
+  "최태원의작심비판\"민주주의만생각하니자본주의시스템완전히망각...",
+  "최태원,SK하이닉스성과급논란에“좀더지켜봐야”",
+  "최태원\"성과급논란,모두가싫어하는건아냐…좀더지켜봐\""
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-07-19T12:50:13.626954+09:00",
    "언팩 부동산 세제 폴드 공개 여권형 국민이 삼성 원하는"
+  ],
+  [
+   "2026-07-19T13:00:25.364507+09:00",
+   "성과급 지켜봐 싫어하는 모두가 아냐 논란"
   ]
  ],
- "last_run": "2026-07-19T12:50:27.458741+09:00",
+ "last_run": "2026-07-19T13:00:41.800286+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
