@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=233078",
-  "https://www.itbiznews.com/news/articleView.html?idxno=219264",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260716.99099004841",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=417343",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47450",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=266787",
-  "https://www.smarttoday.co.kr/ko-kr/articles/109541",
-  "https://www.kwnews.co.kr/article/20260716500022",
   "https://www.imaeil.com/page/view/2026071609524245001",
   "https://news.tf.co.kr/read/life/2343957.htm",
   "https://www.greened.kr/news/articleView.html?idxno=345207",
@@ -2999,17 +2991,17 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=590167",
   "https://www.imaeil.com/page/view/2026062909431955176",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469418",
-  "https://en.yna.co.kr/view/AEN20260719000900320?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260719000900320?input=2106m",
+  "https://www.mydaily.co.kr/page/view/2026071910213982613",
+  "https://www.newsis.com/view/NISX20260719_0003713987",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=590172",
+  "https://www.hidomin.com/news/articleView.html?idxno=713686",
+  "https://www.hankyung.com/article/2026071923587",
+  "https://www.viva100.com/article/20260718500012",
+  "https://www.econovill.com/news/articleView.html?idxno=745557",
+  "https://www.wikitree.co.kr/articles/1147143"
  ],
  "seen_titles": [
-  "“AI동맹굳히나”젠슨황SK하이닉스에엄지척",
-  "루트세미콘과SK파워텍,1200VSiCMOSFET공동개발",
-  "“하반기수주릴레이기대”현대로템,2분기기대치못미치는성적표",
-  "\"하반기크레딧투자기회모색해야\"<신한투자證>",
-  "신안우이해상풍력착공…3대메가에청정전력공급기반",
-  "SK하이닉스\"2030년넘겨도메모리품귀\"",
-  "韓銀,기준금리0.25%p인상'확실시'…3년6개월만에긴축전환",
-  "대우건설,울산북항LNG터미널3단계준공완료",
   "SKT,'휴가철특별소통대책'수립…내달말일까지통신품질집중관리",
   "이자폭탄우려커진다…한은3년6개월만에기준금리인상",
   "대우건설,울산북항21만5000㎘LNG저장탱크구축",
@@ -6001,7 +5993,15 @@
   "이번주크레딧채2조3천억원발행…20일물량집중",
   "경북에너지수도그이후'전력의땅에서산업의땅으로'",
   "중희토류몸값치솟는다…제이에스링크,방산공급망수혜기대",
-  "ForeignersoffloadS.KoreanstocksbutnetpurchaseETFsthismonth:K"
+  "ForeignersoffloadS.KoreanstocksbutnetpurchaseETFsthismonth:K",
+  "서효원감독의'묘수'적중,'PK유도+극장동점골'전민규울산대'게임...",
+  "개인정보위,KT개인정보유출제재29일결론낼듯",
+  "SK하이닉스美ADR,본주보다25%웃돌아…'프리미엄'유지",
+  "김용범\"삼전닉스레버리지ETF폐지어렵다…추가보완책검토\"",
+  "국민소득4만달러시대가시권…올해1인당GDP5년만에최대폭증가",
+  "[주간증시전망]“펀더멘털은견조”…위기의반도체,美실적시즌이분...",
+  "회사채대신은행대출찾는기업들…조달시장'역전현상'심화",
+  "일주일새미국주식폭풍매수…한국인이쏟아부은'이주식'"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,25 @@
   [
    "2026-07-19T10:31:08.397188+09:00",
    "month Korean this net ETFs but offload KRX stocks purchase Foreigners"
+  ],
+  [
+   "2026-07-19T10:41:04.434085+09:00",
+   "올해 시대 4만달러 최대폭 가시권 GDP 1인당 증가 5년만에 국민소득"
+  ],
+  [
+   "2026-07-19T10:41:04.434085+09:00",
+   "견조 펀더멘털은 시즌이 실적 반도체 위기의"
+  ],
+  [
+   "2026-07-19T10:41:04.434085+09:00",
+   "대신 기업들 심화 조달시장 현상 찾는 은행대출 역전 회사채"
+  ],
+  [
+   "2026-07-19T10:41:04.434085+09:00",
+   "주식 일주일 미국 폭풍 쏟아부은 한국인이 매수"
   ]
  ],
- "last_run": "2026-07-19T10:31:22.071264+09:00",
+ "last_run": "2026-07-19T10:41:18.262560+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
