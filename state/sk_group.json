@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94868",
-  "https://www.newsis.com/view/NISX20260716_0003712554",
-  "https://www.meconomynews.com/news/articleView.html?idxno=132866",
-  "https://www.sedaily.com/article/20068611",
-  "https://www.fntimes.com/html/view.php?ud=202607161104435302141825007d_18",
-  "https://www.hankookilbo.com/news/article/A2026071609550005914?did=NA",
-  "https://www.khan.co.kr/article/202607161531011",
-  "https://dgmbc.com/NewsArticle/851332",
   "https://news.dealsitetv.com/articles/173419",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=605165",
   "https://news.dealsitetv.com/articles/173415",
@@ -2999,17 +2991,17 @@
   "https://biz.chosun.com/stock/stock_general/2026/07/20/D44V62ANKJAXRODM4N6JBEREOQ/",
   "http://www.fnnews.com/news/202607192354396646",
   "https://www.nocutnews.co.kr/news/6549249",
-  "https://www.bloter.net/news/articleView.html?idxno=668366"
+  "https://www.bloter.net/news/articleView.html?idxno=668366",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850341",
+  "https://www.bntnews.co.kr/article/view/bnt202607200012",
+  "https://www.yna.co.kr/view/AKR20260720005100065?input=1195m",
+  "https://biz.heraldcorp.com/article/10812967",
+  "https://www.mk.co.kr/article/12102024",
+  "https://www.mk.co.kr/article/12102022",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165963",
+  "https://www.mk.co.kr/article/12102020"
  ],
  "seen_titles": [
-  "中최대D램업체CXMT상장…반도체자립'분수령'될까",
-  "李\"전북소외론키우는공직자,가장나쁜행동…새만금,로봇계의TSMC로...",
-  "공정위,대기업브랜드사용료첫심사기준마련…지주사내부거래들여...",
-  "美인플레우려둔화속원·달러,1480.4원마감(종합)",
-  "케인빼고다온다!...'월드컵조기탈락땡큐'뮌헨선수단,초호화완...",
-  "[속보]삼전8.77%·SK하닉11.53%급락마감",
-  "윤진오대표의'공공+민간'황금비율전략,동부건설수주신기록쐈다",
-  "“한국주식30%나더담았다”…해외큰손들앞다퉈담은‘이종목’...",
   "[DCM]인수1위KB증권,수수료1위NH증권…그러나실속은SK증권[26상...",
   "[사이언스톡]기술뚝심투자,그이후",
   "“제남편을돌려주세요”···미얀마노동자유족,SK에코플랜트에공...",
@@ -6001,7 +5993,15 @@
   "하이퍼스케일러자금여력은얼마나남았나…“최소2~4년견고”",
   "\"메모리가격은비정상\"…최태원도놀란반도체,SK하이닉스는왜43%빠...",
   "\"배들이모여든다\"…해운·물류기업부산행,지역경제새판짠다",
-  "[박종면칼럼]'삼전닉스블랙홀'곁에서사는법"
+  "[박종면칼럼]'삼전닉스블랙홀'곁에서사는법",
+  "SK그룹·S-OIL·김상욱,9조2580억원투자협의",
+  "인천물류센터화재사흘째,붕괴우려",
+  "인천쿠팡물류센터화재사흘째…붕괴가능성속진화총력",
+  "류진“풍산방산매각안해…고향안동에골프장·호텔지어서비스업...",
+  "“한번더털리면어휴…”해킹홍역통신사들보안에3300억투자",
+  "뉴욕개미원화계좌로삼전산다…서울개미도한밤환전해애플줍줍",
+  "실적발표도실시간으로…증권사,MTS에'어닝콜'속속탑재",
+  "“새벽2시부터한국기업분석한다”…달라진韓증시에월가암살자‘..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,33 @@
   [
    "2026-07-20T06:11:13.203533+09:00",
    "블랙홀 사는 곁에서 삼전닉스"
+  ],
+  [
+   "2026-07-20T06:21:03.847738+09:00",
+   "쿠팡물류센터 사흘째 인천 붕괴 가능성 총력 진화 화재"
+  ],
+  [
+   "2026-07-20T06:21:03.847738+09:00",
+   "서비스업 지어 호텔 류진 매각 골프장 고향 방산 풍산 안동에"
+  ],
+  [
+   "2026-07-20T06:21:03.847738+09:00",
+   "3300억 통신사들 어휴 보안에 한번 해킹홍역 털리면 투자"
+  ],
+  [
+   "2026-07-20T06:21:03.847738+09:00",
+   "삼전 원화계좌로 뉴욕개미 서울개미도 애플 한밤환전해 산다 줍줍"
+  ],
+  [
+   "2026-07-20T06:21:03.847738+09:00",
+   "탑재 어닝콜 실시간으로 속속 MTS에 증권사 실적발표도"
+  ],
+  [
+   "2026-07-20T06:21:03.847738+09:00",
+   "월가 한국기업 증시에 암살자 새벽 달라진 분석한다 2시부터"
   ]
  ],
- "last_run": "2026-07-20T06:12:00.060774+09:00",
+ "last_run": "2026-07-20T06:21:22.698210+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
