@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607091056169826",
-  "https://biz.heraldcorp.com/article/10803458",
-  "http://www.queen.co.kr/news/articleView.html?idxno=460020",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=604236",
   "https://it.chosun.com/news/articleView.html?idxno=2023092165444",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090233&t=NN",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12101933",
   "http://www.kwangju.co.kr/article.php?aid=1784458250801365005",
   "https://www.socialvalue.kr/news/view/1065603822729169",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83443"
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=83443",
+  "http://www.segyebiz.com/newsView/20260719514062?OutUrl=naver",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=267006",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206778"
  ],
  "seen_titles": [
-  "李,'韓-몽골비즈니스포럼'참석…국내핵심광물·유통기업총출동...",
-  "국힘\"반도체,전력·물·인력'쩐의싸움'…정치아닌기업논리로결정...",
-  "\"최태원회장님,우리애아빠화가잔뜩났어요\"…고점물린개미들'웃...",
   "'부정선거·혐중현수막'게시원외정당대표구속기로",
   "최태원,SK하이닉스나스닥상장방미",
   "최태원SK그룹회장,SK하이닉스나스닥상장기념식참석…AI메모리협...",
@@ -6001,7 +5998,10 @@
   "\"이해관계자행복침해하면N%성과급손봐야할수도\"",
   "최태원회장“반도체수요폭발…호남등서빠른속도로생산해야”",
   "최태원\"반도체가격더올리면얻어맞을것…빠른증설이생명\"",
-  "최태원\"내년반도체수요폭증,빠른증설이생명줄\""
+  "최태원\"내년반도체수요폭증,빠른증설이생명줄\"",
+  "최태원“하이닉스성과급,주주가치훼손땐조정해야”",
+  "'5兆매각'에끼어든반도체변수…SK,SK실트론매각재검토하나",
+  "'팔지말고보유'최태원\"메모리달라고아비규환…공장더지을것\""
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-07-19T19:00:28.050908+09:00",
    "작심발언 성장 없이 분배 없다"
+  ],
+  [
+   "2026-07-19T20:10:13.130299+09:00",
+   "공장 팔지 지을 달라고 아비규환 보유 메모리 말고"
   ]
  ],
- "last_run": "2026-07-19T20:00:36.369606+09:00",
+ "last_run": "2026-07-19T20:10:28.145123+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
