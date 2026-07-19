@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/economy/378302",
-  "http://www.metroseoul.co.kr/article/20260716500019",
-  "https://www.nocutnews.co.kr/news/6548926",
-  "https://www.etoday.co.kr/news/view/2604332",
-  "https://www.chosun.com/economy/stock-finance/2026/07/16/NI7WVSBLXBHKJODDKZ6I246XHM/",
-  "https://www.etnews.com/20260716000043",
-  "https://view.asiae.co.kr/article/2026071609135049933",
   "http://journal.kobeta.com/?post_type=post&p=63324",
   "https://www.mt.co.kr/stock/2026/07/16/2026071609121566508",
   "https://www.fashionbiz.co.kr/article/227934",
@@ -2999,16 +2992,16 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=441406",
   "https://www.etnews.com/20260719000007",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=850588",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311694"
+  "https://www.thepublic.kr/news/articleView.html?idxno=311694",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141692",
+  "https://www.etoday.co.kr/news/view/2604833",
+  "https://www.dt.co.kr/article/12073381",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7174648",
+  "https://www.ddaily.co.kr/page/view/2026071901240949296",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=307166",
+  "https://www.thepublic.kr/news/articleView.html?idxno=311691"
  ],
  "seen_titles": [
-  "SK에코플랜트,AI·반도체유망기술6건선정…오픈이노베이션확대",
-  "코스피6960출발…급락에'매도사이드카'발동",
-  "SK에코플랜트,1857가구대단지'의왕역SK뷰'견본주택16일개관",
-  "[금통위스케치]붉은색넥타이맨신현송총재…3년6개월만에긴축돌...",
-  "의왕역앞1857가구브랜드대단지나온다…‘의왕역SK뷰’견본주택...",
-  "[특징주]삼성전자,美메모리주급락여파에5%대약세",
-  "코스피,4%대급락출발...다시7000선붕괴",
   "이억원\"단일종목레버리지보완책신속히마련\"…발표언제?",
   "이억원금융위원장\"단일종목레버리지보완대책조만간발표\"",
   "금융위원장“단일종목레버리지보완방안조만간발표”",
@@ -6001,7 +5994,14 @@
   "SKT,'TECH4GOOD해커톤'마무리...사회문제해결아이디어발굴",
   "SKT-하나금융,'테크포굿해커톤'개최…'T1'팀대상수상",
   "구미시·SK실트론,반도체인재지역인재정착기여",
-  "\"장기적으론반도체괜찮아\"...반도체株하락에도낙관론나오는까닭"
+  "\"장기적으론반도체괜찮아\"...반도체株하락에도낙관론나오는까닭",
+  "[이번주환율]금리인상에달러·원1480원대로…중동불안에도원화강...",
+  "외국인,국내주식12조원매도…ETF는6000억순매수왜?",
+  "‘반도체고점론’에흔들린코스피…SK하닉실적이반등가른다[증시...",
+  "[K증시돋보기]'연기금매도설'의착시…반도체스왑몸통공모펀드",
+  "LG엔솔,배터리공급서ESS운영자로…저변넓히는K-배터리[위클리배터...",
+  "韓에천문학적투자결정했는데…美도메모리공장압박,삼성·SK부담...",
+  "[톺아보기]호남반도체발목잡는'與탈원전도그마'?...원전입지선정문..."
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,25 @@
   [
    "2026-07-19T08:57:17.265804+09:00",
    "장기적으론 까닭 나오는 낙관론 하락에도 반도체 괜찮아"
+  ],
+  [
+   "2026-07-19T09:01:17.967725+09:00",
+   "착시 몸통 반도체 공모펀드 연기금 스왑 매도설"
+  ],
+  [
+   "2026-07-19T09:01:17.967725+09:00",
+   "저변 ESS 운영자로 넓히는 LG엔솔 위클리배터 공급서 배터리"
+  ],
+  [
+   "2026-07-19T09:01:17.967725+09:00",
+   "압박 천문학적 부담 결정했는데 메모리 투자 공장 삼성"
+  ],
+  [
+   "2026-07-19T09:01:17.967725+09:00",
+   "반도체 탈원전 원전입지 도그마 선정문 발목잡는 호남"
   ]
  ],
- "last_run": "2026-07-19T08:57:25.515843+09:00",
+ "last_run": "2026-07-19T09:01:31.413566+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
