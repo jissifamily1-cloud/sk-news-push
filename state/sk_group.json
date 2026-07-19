@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026071609193748014",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716596",
-  "https://www.eroun.net/news/articleView.html?idxno=85592",
-  "https://view.asiae.co.kr/article/2026071609281996699",
-  "http://www.newsdream.kr/news/articleView.html?idxno=114575",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425300",
-  "https://www.g-enews.com/view.php?ud=202607160920318413153ddfb15a_1",
-  "https://www.eroun.net/news/articleView.html?idxno=85594",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03184886645515176",
-  "http://www.inews24.com/view/1986043",
-  "https://www.seoultimes.news/news/article.html?no=2000097833",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572180198691",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468934",
   "https://www.ekn.kr/web/view.php?key=20260716025043036",
@@ -2999,18 +2988,20 @@
   "https://www.ekn.kr/web/view.php?key=20260719028583570",
   "https://www.econotimes.com/KB-Securities-Explains-Why-KOSPI-Is-Falling-Despite-Strong-Samsung-SK-Hynix-Earnings-1747114",
   "https://www.newsis.com/view/NISX20260716_0003712321",
-  "https://www.newsis.com/view/NISX20260716_0003712727"
+  "https://www.newsis.com/view/NISX20260716_0003712727",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=690816",
+  "https://www.xportsnews.com/article/2173755",
+  "https://www.dt.co.kr/article/12073388",
+  "https://www.news1.kr/photos/8014508",
+  "https://www.news1.kr/photos/8014507",
+  "https://www.news1.kr/photos/8014509",
+  "https://www.wikitree.co.kr/articles/1147147",
+  "https://www.public25.com/news/articleView.html?idxno=50910",
+  "https://biz.heraldcorp.com/article/10812570",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850979",
+  "https://biz.chosun.com/real_estate/real_estate_general/2026/07/19/NCIULIKXJRBMFCF5VKDT4U2VFI/"
  ],
  "seen_titles": [
-  "\"개발기간5개월로단축\"…SKT·SK바이오팜,AI로난치암신약발굴",
-  "SK인텔릭스'나무엑스',레드닷디자인어워드2개부문수상",
-  "건설로봇부터배터리화재대응까지…SK에코플랜트,혁신기술6건발굴",
-  "[속보]코스피,5%대폭락에'매도사이드카'발동…삼전·하닉등대형주...",
-  "코스피,다시7천선아래로‥장초반매도사이드카",
-  "코스피,반도체대형주투매에7000선붕괴…매도사이드카발동[개장시...",
-  "'의왕역3분·GTX-C수혜'…1857가구'의왕역SK뷰'분양돌입",
-  "SKT,AI기반휴가철특별소통대책가동…전국1100곳통신품질집중관...",
-  "SK에코플랜트,역세권'의왕역SK뷰'분양시작",
   "[시황]코스피,7000선붕괴…'매도사이드카'발동",
   "코스피,반도체변동성에5%대낙폭확대…매도사이드카발동",
   "이억원\"레버리지ETF상폐는부작용초래\"…종합대책발표임박",
@@ -6001,7 +5992,16 @@
   "‘반도체쇼크’에휘청…2Q실적이‘변곡점’[주간증시]",
   "KBSecuritiesExplainsWhyKOSPIIsFallingDespiteStrongSamsung,SK",
   "코스피'금융위기'급저평가…\"분할매수유효\"[주간증시전망]",
-  "\"투자만큼시급한인재확보\"…삼성전자·SK하이닉스,국내외채용전'가..."
+  "\"투자만큼시급한인재확보\"…삼성전자·SK하이닉스,국내외채용전'가...",
+  "[K리그1포인트]이명재3백스토퍼안착-강윤성청소기모드...변형3백...",
+  "'전희철딸'전수완,미스코리아미모맞네…본선앞두고합숙끝[★해...",
+  "나스닥입성한SK하이닉스,국내액티브ETF가먼저담았다",
+  "SKT,‘TECH4GOOD해커톤’성료…포용적미래를위한AI서비스발굴",
+  "삼성전자·SK하이닉스반도체가한국경제에미친영향,이정도다",
+  "삼성,22일갤럭시언팩…'폴드8울트라'첫공개,이통3사사전예약경...",
+  "과징금2000억원낼까…KT개인정보유출제재이달중결론",
+  "AI기본법개정안21일시행…AI규율강화",
+  "SK에코플랜트대표,KTX공사현장서숨진미얀마노동자빈소찾아사과"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-07-19T09:11:08.524628+09:00",
    "확보 삼성전자 시급한 국내외 투자만큼 채용전 SK하이닉스 인재"
+  ],
+  [
+   "2026-07-19T09:21:05.884522+09:00",
+   "KTX SK에코플랜트 빈소 숨진 찾아 미얀마 대표 노동자 사과 공사현장서"
   ]
  ],
- "last_run": "2026-07-19T09:11:27.652299+09:00",
+ "last_run": "2026-07-19T09:21:11.558643+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
