@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/news/2026/econo/article/6836137_36932.html",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846634",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=660069",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=265736",
-  "https://www.socialvalue.kr/news/view/1065572122931431",
   "https://www.ajunews.com/view/20260709094835183",
   "https://www.mydaily.co.kr/page/view/2026070909551320297",
   "https://www.getnews.co.kr/news/articleView.html?idxno=874586",
@@ -2999,14 +2994,14 @@
   "https://www.sisajournal.com/news/articleView.html?idxno=380266",
   "https://www.ikbc.co.kr/article/view/kbc202607190018",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206729",
-  "https://www.ajunews.com/view/20260719142336507"
+  "https://www.ajunews.com/view/20260719142336507",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=119158",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540472",
+  "https://www.newsis.com/view/NISX20260719_0003714150",
+  "http://www.srtimes.kr/news/articleView.html?idxno=207780",
+  "https://www.mt.co.kr/industry/2026/07/19/2026071914161625223"
  ],
  "seen_titles": [
-  "하이닉스에날아든주주서한…최태원발표호남팹,'이사회패싱'지적",
-  "최태원,SK하이닉스나스닥상장맞아미국행…빅테크회동가능성",
-  "[Invest]SK하이닉스ADR수요예측'7배'흥행...37조원조달한다",
-  "최태원,SK하이닉스ADR나스닥상장맞춰미국행",
-  "최태원회장,뉴욕서'SK하이닉스나스닥입성'직접챙긴다",
   "\"범용제조사탈피\"최태원의승부수…SK하이닉스나스닥상장직접지...",
   "SK하이닉스,조달규모위축에도역대'2위'전망…260조원몰렸다",
   "최태원의‘사회적가치경영’AI로확장…\"측정기준공동개발\"",
@@ -6001,7 +5996,12 @@
   "최태원\"내년AI반도체수요폭증…수급불균형이안보위기로비화\"",
   "호남반도체팹이정부압력때문?...최태원\"반도체,모자라서난리다...",
   "최태원\"내년반도체수요최소50%↑…빠른증설생명줄\"",
-  "최태원,SK하이닉스성과급논란에\"손대야하는상황올수도\""
+  "최태원,SK하이닉스성과급논란에\"손대야하는상황올수도\"",
+  "최태원\"내년반도체수요50%이상늘것...생산능력확대가생명줄\"",
+  "최태원“메모리수요‘아비규환’…엄청난로비·압력·요청”",
+  "최태원회장\"SK하이닉스성과급,주주등이해관계자고려해재검토가...",
+  "최태원회장\"비정상적메모리가격내려야\"",
+  "제주에서'반도체속도전'띄운최태원…SK실트론매각은?"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,17 @@
   [
    "2026-07-19T14:10:13.587000+09:00",
    "수도 문제될 가격 반도체 비정상 지정학"
+  ],
+  [
+   "2026-07-19T14:50:12.922806+09:00",
+   "내려야 비정상적 회장 가격 메모리"
+  ],
+  [
+   "2026-07-19T14:50:12.922806+09:00",
+   "속도전 SK실트론 반도체 띄운 매각은 제주에서"
   ]
  ],
- "last_run": "2026-07-19T14:40:26.604944+09:00",
+ "last_run": "2026-07-19T14:50:44.710697+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
