@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10804242",
-  "https://www.ajunews.com/view/20260709220008609",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424260",
-  "http://www.fnnews.com/news/202607092120452650",
-  "http://www.kgnews.co.kr/news/article.html?no=903352",
   "https://www.kukinews.com/article/view/kuk202607090191",
   "http://www.newstomato.com/ReadNews.aspx?no=1306651&inflow=N",
   "https://it.chosun.com/news/articleView.html?idxno=2023092165509",
@@ -2999,14 +2994,14 @@
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=6345",
   "http://www.iminju.net/news/articleView.html?idxno=166857",
   "https://www.newsis.com/view/NISX20260720_0003715088",
-  "https://www.mt.co.kr/politics/2026/07/20/2026072013421223985"
+  "https://www.mt.co.kr/politics/2026/07/20/2026072013421223985",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2429048",
+  "https://www.electimes.com/news/articleView.html?idxno=370462",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1269078.html",
+  "https://www.segye.com/newsView/20260720519764?OutUrl=naver",
+  "https://www.sentv.co.kr/article/view/sentv202607200081"
  ],
  "seen_titles": [
-  "‘몽탄’띄운李대통령…“핵심광물·AI까지한몽협력넓히자”",
-  "李“한몽,협력잠재력무궁무진”…핵심광물등MOU21건체결",
-  "이재명대통령\"'몽탄'은상호호혜모델\"…몽골협력확대",
-  "李대통령“한-몽,핵심광물든든한파트너로힘합쳐야”",
-  "[종합]'몽탄모델'제시한李\"상호호혜적협력모델더확산시켜야\"",
   "韓·몽골경제계,핵심광물·디지털협력확대…MOU21건체결",
   "李\"유통서시작된‘몽탄’모델다양한분야로확산시키자\"",
   "[엄태윤의마켓인텔리전스]SK하이닉스의나스닥상장과미래전략",
@@ -6001,7 +5996,12 @@
   "\"최태원자본주의발언위험…거버넌스부터개선하라\"[전문]",
   "전국상의,'그냥드림'공동지원…최태원\"기업이사회문제해결해야\"",
   "\"SK하이닉스株갖고있어라\"최태원입에쏠린눈…재계현안거침없는...",
-  "4대강보위로4번뒤집힌물정책...반도체앞에청구서가놓였다"
+  "4대강보위로4번뒤집힌물정책...반도체앞에청구서가놓였다",
+  "무협충북본부,충북수출경쟁력강화10대정책과제제안",
+  "KEMS·KOMMA,전기이륜차BSS해외진출표준화논의",
+  "청와대‘기업초과이윤’회의순연…사회적논의부담작용했나",
+  "“최태원동거인은중국간첩”주장한배터리아저씨벌금형에검찰항...",
+  "SK실트론매각기로…‘부채감축’vs‘공급망사수’"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,13 @@
   [
    "2026-07-20T17:40:13.787627+09:00",
    "물정책 청구서가 앞에 4대강 4번 뒤집힌 반도체 놓였다 위로"
+  ],
+  [
+   "2026-07-20T17:50:13.077173+09:00",
+   "매각 SK실트론 공급망 감축 기로 vs 부채 사수"
   ]
  ],
- "last_run": "2026-07-20T17:40:30.109103+09:00",
+ "last_run": "2026-07-20T17:50:28.781661+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
