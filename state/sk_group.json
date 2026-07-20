@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.starnewskorea.com/sports/2026/07/19/2026071900234539241",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=829240",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3639475",
-  "http://sateconomy.co.kr/news/view/1065622945681059",
-  "http://www.kjdaily.com/article.php?aid=1784386931682548208",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596119",
-  "https://www.theguru.co.kr/news/article.html?no=104547",
-  "http://www.osen.co.kr/article/G1112841871",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82421",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596117",
   "https://www.danbinews.com/news/articleView.html?idxno=33412",
   "https://www.munhwa.com/article/11603391",
   "http://www.maniareport.com/view.php?ud=202607182207315374dad9f33a29_19",
@@ -2999,19 +2989,19 @@
   "https://www.hankyung.com/article/2026072155497",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=235796",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=235785",
-  "https://www.news1.kr/world/international-economy/6233438"
+  "https://www.news1.kr/world/international-economy/6233438",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717044",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717045",
+  "https://www.slist.kr/news/articleView.html?idxno=752977",
+  "https://www.news2day.co.kr/article/20260721500013",
+  "https://www.bntnews.co.kr/article/view/bnt202607210008",
+  "https://www.tournews21.com/news/articleView.html?idxno=138973",
+  "http://www.metroseoul.co.kr/article/20260721500006",
+  "https://www.munhwa.com/article/11603797",
+  "https://www.sedaily.com/article/20069734",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6838795_37012.html"
  ],
  "seen_titles": [
-  "167만원급락,300만원턱밑,또추락…하이닉스변동성톺아보니",
-  "[박근종칼럼]알뜰살뜰모은연금저축해지63%급증,주식에'노후베...",
-  "금융주사상최고치…기술주폭락에도S&P500은버텼다",
-  "엔비디아고점대비시총감소…AI투자속도조절속애플장중1위",
-  "외국인코스피순매도에도보유비중은연초대비크게상승",
-  "반도체주과속에급브레이크…내계좌돌파구는어디에",
-  "'제르소결승골'인천,전북1-0제압…연패탈출",
-  "\"그한마디가한국축구망치고있다\"이강인도공감한구자철'작심발언...",
-  "[단독]\"한국축구망했다\"구자철,뼈때리는작심발언…\"5년,10년후면...",
-  "[이번주청약일정]'드파인아르티아'등8905가구분양",
   "최태원SK그룹회장의‘보유유지’…빚투도유효할까",
   "[분양일정]춘천리버뷰아이파크外8,905가구청약",
   "'역전결승골'제주SK이탈로\"결승골?이창민선수의말믿고기다렸다...",
@@ -6001,7 +5991,17 @@
   "반도체힘입어영업익2740%치솟았지만…고용은0.6%↑",
   "데이터센터크기가AI경쟁력크기아니다",
   "대법원또중대재해무죄,SK계열사대표'면죄부'",
-  "ASML,조건부주식2만유로보상…2027~2030년근속시지급"
+  "ASML,조건부주식2만유로보상…2027~2030년근속시지급",
+  "﻿116만명이뛰어든'레버리지광풍'…투자시장아닌'도박판'됐다",
+  "﻿'V자반등'은없었다…코스피,연말까지'L자박스피'갇히나",
+  "뉴욕증시,중동불안·유가상승에하락…다우0.6%↓",
+  "뉴욕증시,미·이란긴장속빅테크실적관망하며하락…SK하이닉스AD...",
+  "엔비디아주가반등…하이닉스는하락",
+  "충북대전환밑그림완성…인수위,100대공약·'1조빚'재정정상화해...",
+  "반도체주전망은'극과극'…삼성·하이닉급락속\"피크아웃vs2차랠리...",
+  "성남서정장빌려입은구직자309명회사원됐다",
+  "M7파티끝나나…엔비디아내다판美개미들우르르몰려간종목은바...",
+  "중국새AI공개\"미국따라잡나\"‥반도체'휘청'"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,33 @@
   [
    "2026-07-21T06:41:05.967191+09:00",
    "2030년 보상 근속시 지급 조건부 주식 2만유로 ASML"
+  ],
+  [
+   "2026-07-21T06:51:02.395305+09:00",
+   "주가 하이닉스는 엔비디아 하락 반등"
+  ],
+  [
+   "2026-07-21T06:51:02.395305+09:00",
+   "정상화 재정 1조 100대 대전환 인수위 밑그림 완성 공약 충북"
+  ],
+  [
+   "2026-07-21T06:51:02.395305+09:00",
+   "랠리 반도체주 삼성 vs 급락 극과 전망은 2차 피크아웃 하이닉"
+  ],
+  [
+   "2026-07-21T06:51:02.395305+09:00",
+   "309명 성남서 회사원됐다 빌려입은 구직자 정장"
+  ],
+  [
+   "2026-07-21T06:51:02.395305+09:00",
+   "끝나나 우르르 몰려간 파티 개미들 내다 엔비디아 M7 종목은"
+  ],
+  [
+   "2026-07-21T06:51:02.395305+09:00",
+   "공개 AI 반도체 따라잡나 미국 휘청 중국"
   ]
  ],
- "last_run": "2026-07-21T06:41:19.933939+09:00",
+ "last_run": "2026-07-21T06:51:21.931644+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
