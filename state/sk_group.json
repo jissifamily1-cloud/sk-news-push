@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260718044500065?input=1195m",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553385899",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596113",
-  "https://www.sportschosun.com/football/2026-07-18/202607180100110570007004",
-  "https://biz.heraldcorp.com/article/10812484",
-  "https://www.bzeronews.com/news/articleView.html?idxno=820215",
   "https://www.yna.co.kr/view/AKR20260718045300007?input=1195m",
   "http://www.osen.co.kr/article/G1112842203",
   "http://www.incheonin.com/news/articleView.html?idxno=119392",
@@ -2999,15 +2993,15 @@
   "https://news.tf.co.kr/read/economy/2343737.htm",
   "http://www.fnnews.com/news/202607210037395132",
   "https://www.sidae.com/article/2026072015010266550",
-  "https://www.newsis.com/view/NISX20260720_0003715679"
+  "https://www.newsis.com/view/NISX20260720_0003715679",
+  "https://www.dailypharm.com/user/news/340351?REFERER=NP",
+  "https://www.news2day.co.kr/article/20260721500008",
+  "https://www.seoul.co.kr/news/economy/2026/07/21/20260721500004?wlog_tag3=naver",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51558",
+  "https://www.newsway.co.kr/news/view?ud=2026072011451399326",
+  "https://www.mt.co.kr/world/2026/07/21/2026072106034895393"
  ],
  "seen_titles": [
-  "고려대,LLM운영비줄이는인공지능시스템기술개발",
-  "입주코앞인데…계양테크노밸리앵커기업유치'난항'",
-  "'컨베이어끼임'미얀마노동자사망,SK에코플랜트공식사과·보상합...",
-  "하닉삼전성과급·대규모반도체산단‥반도체직업계고관심폭증",
-  "전남광주통합특별시,3조4000억원신안우이해상풍력본격착공",
-  "중부발전,390MW급'신안우이해상풍력'착공…2029년상업운전목표",
   "'인천쿠팡화재'SK석유화학삼거리~물류센터앞통제중",
   "\"펑·펑,수십차례폭발음\"…13시간째진화중인천쿠팡물류센터",
   "[K리그118R]'이탈로원더골'제주SK,포항에2-1역전승...4G연속무승...",
@@ -6001,7 +5995,13 @@
   "미래를여는AI와일자리…'제2회더팩트미래전략포럼'참가신청",
   "코스닥덮친'거래절벽'...1800개종목에하루5조도안돈다[증시는...",
   "AI가흔든SI업계노사…LGCNS만'무풍지대'",
-  "대기업실적'서프라이즈'에도고용은'꽁꽁'…K자형양극화뚜렷"
+  "대기업실적'서프라이즈'에도고용은'꽁꽁'…K자형양극화뚜렷",
+  "[특별기고]데이터가바꾸는제약산업의미래",
+  "[N2모닝경제브리핑-7월21일]美증시,중동긴장재부각에약세…나...",
+  "[서울데이터랩]S＆P500약세·나스닥100강보합…반도체·빅테크가하락...",
+  "윤홍근BBQ회장,경영승계언제?",
+  "'희망에서공포로'메모리고점론…삼성·SK,증설로정면반박[NW리포트...",
+  "중동전운에증시먹구름…반도체반등도무색[뉴욕마감]"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,25 @@
   [
    "2026-07-21T06:11:09.953612+09:00",
    "대기업 실적 서프라이즈 고용은 꽁꽁 뚜렷 에도 K자형 양극화"
+  ],
+  [
+   "2026-07-21T06:21:04.981179+09:00",
+   "빅테크가 약세 강보합 하락 나스닥100 반도체 P500"
+  ],
+  [
+   "2026-07-21T06:21:04.981179+09:00",
+   "언제 경영 윤홍근 회장 BBQ 승계"
+  ],
+  [
+   "2026-07-21T06:21:04.981179+09:00",
+   "공포로 반박 정면 희망에서 NW리포트 고점론 증설로 메모리 삼성"
+  ],
+  [
+   "2026-07-21T06:21:04.981179+09:00",
+   "반등도 중동 먹구름 증시 전운에 무색 반도체"
   ]
  ],
- "last_run": "2026-07-21T06:12:07.604116+09:00",
+ "last_run": "2026-07-21T06:21:19.788410+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
