@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=713403",
-  "https://www.newspim.com/news/view/20260714000778",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39333",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51445",
-  "http://www.fnnews.com/news/202607141409450325",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040772",
   "https://www.nocutnews.co.kr/news/6547857",
   "http://www.seouleconews.com/news/articleView.html?idxno=92395",
   "https://www.mhj21.com/news/articleView.html?idxno=253133",
@@ -2999,15 +2993,15 @@
   "https://www.bzeronews.com/news/articleView.html?idxno=820271",
   "http://www.fnnews.com/news/202607201833398448",
   "http://www.weeklytoday.com/news/articleView.html?idxno=786123",
-  "http://www.yonhapnewstv.co.kr/news/MYH202607201838447NJ"
+  "http://www.yonhapnewstv.co.kr/news/MYH202607201838447NJ",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260720184100By5",
+  "https://www.munhwa.com/article/11603741",
+  "https://www.hankyung.com/article/2026072052261",
+  "https://www.news1.kr/society/court-prosecution/6233318",
+  "https://www.hankyung.com/article/2026072052291",
+  "https://newscham.net/articles/116959"
  ],
  "seen_titles": [
-  "法,'쿠팡김범석동일인지정'공정위처분효력정지인용",
-  "쿠팡'동일인'김범석지정효력정지…法\"회복어려운손해우려\"",
-  "법원,김범석쿠팡의장'총수지정'효력정지인용",
-  "법원\"김범석총수지정한공정위결정효력정지\"",
-  "'쿠팡김범석동일인지정'공정위처분효력정지...30일로한정",
-  "[속보]법원\"김범석의장쿠팡동일인지정한공정위처분효력정지\"",
   "법원,공정위의김범석쿠팡총수지정효력정지",
   "'김범석쿠팡총수지정'효력정지…서울고법\"손해예방필요\"",
   "법원,쿠팡'동일인김범석지정'공정위처분효력정지",
@@ -6001,7 +5995,13 @@
   "'아동성범죄혐의'최영중청주시의원당적박탈",
   "‘무늬만친환경’제동예산배제기준마련그린워싱걸러낸다",
   "[위클리오늘]장윤기부실수사파문후폭풍…경찰'대수술'착수에도'미...",
-  "경찰,한국남동발전압수수색…선거전기부행위의혹"
+  "경찰,한국남동발전압수수색…선거전기부행위의혹",
+  "\"요가·필라테스휴·폐업2주전회원에통지해야\"",
+  "‘아동성매매혐의’국민의힘서제명된최영중전청주시의원",
+  "합수본,중앙선관위압수수색…'노태악외유성출장'정조준",
+  "정교유착합수본,'신천지연결고리'근우회장피의자조사",
+  "경찰,'김건희명품백무혐의처분'권익위압수수색",
+  "사흘째꺼지지않는쿠팡물류센터의불,로켓배송이쌓아올린위험"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "수사 검찰 담합 3사 외국 삼성 속도전 부품값 닉스에 떠넘겼나 비싼"
   ]
  ],
- "last_run": "2026-07-20T18:40:55.061256+09:00",
+ "last_run": "2026-07-20T18:50:58.501824+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
