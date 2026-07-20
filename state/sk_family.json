@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsinside.kr/news/articleView.html?idxno=4827813",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442010",
-  "https://www.donga.com/news/Economy/article/all/20260709/134268185/1",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003714",
   "https://www.mt.co.kr/politics/2026/07/09/2026070915401567896",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7173626",
@@ -2999,12 +2996,12 @@
   "https://www.naeil.com/news/read/595800",
   "https://view.asiae.co.kr/article/2026072013091838638",
   "https://magazine.hankyung.com/business/article/202607204343b",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206899"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206899",
+  "https://www.mt.co.kr/industry/2026/07/20/2026072011281190247",
+  "https://www.newscj.com/news/articleView.html?idxno=3418278",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273246"
  ],
  "seen_titles": [
-  "SK하이닉스,260조ADR흥행…얼어붙은반도체株투심깨울까",
-  "최태원동거인‘중국간첩’주장유튜버1심벌금형",
-  "최태원동거인허위사실유포…'배터리아저씨'박순혁벌금형",
   "[뉴스인사이드_뉴스톡톡]SK하이닉스,나스닥입성",
   "[데스크리포트7월]'1600조메가프로젝트'특정지역·산업쏠림과조급...",
   "SK하닉에비판주주서한보낸흥국자산운용,하루만에철회",
@@ -6001,7 +5998,10 @@
   "김건희·오세훈·최태원…운명의한주",
   "전국상의·지역기업,'복지사각지대'해소맞손…첫과제로'그냥드림...",
   "\"SK하이닉스지분도없으면서1100조투자발표\"…최태원작심비판",
-  "7월코스피변동률사상최고치…김용범\"레버리지ETF상장폐지는어렵..."
+  "7월코스피변동률사상최고치…김용범\"레버리지ETF상장폐지는어렵...",
+  "최태원회장\"기업역할은사회문제해결\"…상의첫공동실천",
+  "전남광주특별시의회노소영의원,진월IC주민불편점검…교통개선...",
+  "[반도체전쟁]\"지을수있는모든곳에지어라\"…최태원의진심은?"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-07-20T13:20:15.772439+09:00",
    "코스피 7월 사상 상장폐지는 레버리지 ETF 최고치 어렵 김용범 변동률"
+  ],
+  [
+   "2026-07-20T13:30:21.029382+09:00",
+   "최태원의 있는 지어라 지을 곳에 모든 진심은"
   ]
  ],
- "last_run": "2026-07-20T13:20:29.448593+09:00",
+ "last_run": "2026-07-20T13:30:34.197387+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
