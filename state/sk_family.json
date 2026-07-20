@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/culture/book/1267568.html",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260709180032JfT",
-  "https://news.tf.co.kr/read/economy/2341810.htm",
-  "https://www.dt.co.kr/article/12072148",
-  "https://www.kyeonggi.com/article/20260709580506",
-  "https://magazine.hankyung.com/money/article/202607096371c",
   "http://www.joseilbo.com/news/news_read.php?uid=571625&class=32",
   "https://sports.hankooki.com/news/articleView.html?idxno=6936214",
   "https://www.hankyung.com/article/2026070963211",
@@ -2999,15 +2993,15 @@
   "https://www.dailian.co.kr/news/view/1668724/?sc=Naver",
   "https://www.etnews.com/20260720000237",
   "https://biz.sbs.co.kr/article_hub/20000323372?division=NAVER",
-  "https://www.mk.co.kr/article/12102346"
+  "https://www.mk.co.kr/article/12102346",
+  "https://www.news2day.co.kr/article/20260720500070",
+  "https://www.yna.co.kr/view/AKR20260720090200011?input=1195m",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=807076",
+  "https://www.viva100.com/article/20260720500567",
+  "https://www.asiatime.co.kr/article/20260720500179",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312337"
  ],
  "seen_titles": [
-  "최태원,SK하이닉스나스닥상장기념식참석차미국방문",
-  "“이사회거쳤나”최태원투자발표에주주서한보낸흥국운용,하루...",
-  "ADR흥행조짐에…하이닉스5%반등",
-  "“개성뚜렷한새내기춤꾼400명에게등용문열었죠”",
-  "옹벽무너지고지하차도침수…집중호우에피해속출",
-  "최태원SK회장,나스닥오프닝벨울리고AI생중계대담",
   "‘배터리아저씨’박순혁,김희영이사장명예훼손1심서벌금700만원...",
   "“최태원동거인은중국간첩”…허위사실유포‘배터리아저씨’벌금...",
   "SK하이닉스ADR흥행조짐...공모에7배청약몰려",
@@ -6001,13 +5995,15 @@
   "檢,'최태원동거인은중국간첩'주장한'배터리아저씨'벌금형에항소",
   "복지부·대한상의'그냥드림'맞손…취약계층먹거리지원확대",
   "전국상의'복지사각지대'해소…'그냥드림'사업지원",
-  "거버넌스포럼“최태원회장,자본주의원칙부터스스로지켜야”"
+  "거버넌스포럼“최태원회장,자본주의원칙부터스스로지켜야”",
+  "[2026비자발적고립청년일경험캠프(11)]취업기회열어주는'생성형...",
+  "[전국주요신문사설](20일석간)",
+  "[데스크칼럼]헨리8세와SK최태원",
+  "[사설]반도체초과이윤활용,‘N%성과급’먼저손봐야한다",
+  "'생산능력이경쟁력'…메모리'3강',공급경쟁본격",
+  "[기자수첩]급락장을극복하는법…장기성장성은흔들리지않는다"
  ],
  "recent_sigs": [
-  [
-   "2026-07-20T08:00:28.199708+09:00",
-   "AI 랠리 메모리 계속될까"
-  ],
   [
    "2026-07-20T08:10:14.906897+09:00",
    "환송심 파기 소송 재산분할"
@@ -6127,9 +6123,25 @@
   [
    "2026-07-20T13:30:21.029382+09:00",
    "최태원의 있는 지어라 지을 곳에 모든 진심은"
+  ],
+  [
+   "2026-07-20T14:10:14.196080+09:00",
+   "손봐야 먼저 활용 반도체 성과급 초과이윤 한다"
+  ],
+  [
+   "2026-07-20T14:10:14.196080+09:00",
+   "헨리8세와 SK최태원"
+  ],
+  [
+   "2026-07-20T14:10:14.196080+09:00",
+   "공급 본격 3강 생산능력이 경쟁력 메모리 경쟁"
+  ],
+  [
+   "2026-07-20T14:10:14.196080+09:00",
+   "급락장을 성장성은 흔들리지 않는다 장기 극복하는"
   ]
  ],
- "last_run": "2026-07-20T14:00:36.010218+09:00",
+ "last_run": "2026-07-20T14:10:35.131456+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6337,6 +6349,7 @@
   "ksmnews.co.kr": "경상매일신문",
   "bizwork.co.kr": "비즈워크",
   "nongaek.com": "논객닷컴",
-  "naeil.com": "내일신문"
+  "naeil.com": "내일신문",
+  "startuptoday.co.kr": "오늘경제"
  }
 }
