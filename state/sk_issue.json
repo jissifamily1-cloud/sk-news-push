@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202607141437437818",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307119&inflow=N",
-  "https://www.viva100.com/article/20260714500663",
-  "https://sateconomy.co.kr/news/view/1065590817873432",
-  "https://www.donga.com/news/Economy/article/all/20260714/134295942/1",
-  "https://www.segye.com/newsView/20260714514963?OutUrl=naver",
-  "https://www.ddaily.co.kr/page/view/2026071414240134524",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7174213",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049881",
   "https://www.yna.co.kr/view/AKR20260714110900011?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.khan.co.kr/article/202607202054005",
   "https://www.khan.co.kr/article/202607202050005",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008665994&plink=ORI&cooper=NAVER",
-  "https://www.slist.kr/news/articleView.html?idxno=752971"
+  "https://www.slist.kr/news/articleView.html?idxno=752971",
+  "https://www.chosun.com/national/national_general/2026/07/20/QYUUUDDU4NCQ7PD2U24GAHCUM4/",
+  "http://www.yonhapnewstv.co.kr/news/AKR202607202107565R0",
+  "https://www.nongmin.com/article/20260720500439",
+  "http://www.cctimes.kr/news/articleView.html?idxno=917458",
+  "http://www.cctimes.kr/news/articleView.html?idxno=917441",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207014",
+  "https://www.chosun.com/national/court_law/2026/07/20/MOUS5OQTDZBWZKOBJBBYPLTX3Q/"
  ],
  "seen_titles": [
-  "법원,'김범석쿠팡총수지정'효력정지...\"손해예방필요\"",
-  "법원,쿠팡김범석총수지정'효력정지'…\"손해예방필요\"",
-  "작년하반기하도급대금지연지급금‘1389억원’",
-  "교보생명,하도급대금60일넘겨늦게지급…과거에도수차례있어",
-  "법원,김범석‘쿠팡동일인’지정제동…공정위처분효력정지",
-  "법원,‘김범석쿠팡총수지정’효력정지…“회복어려운손해예방”",
-  "법원,'쿠팡김범석동일인지정'공정위처분효력정지",
   "중고거래개인정보수집줄인다…공정위,전자상거래법시행령개정",
   "\"프레시백청소누가하나\"쿠팡CLSvs노조공방계속",
   "[연합뉴스이시각헤드라인]-14:30",
@@ -6001,7 +5994,14 @@
   "요가·필라테스‘먹튀’막는다",
   "“공정위가대기업부당이득에면죄부”",
   "노태악'외유성출장'강제수사…'횡령'피의자로",
-  "檢,'그알'예비시모청산염살인'1심무죄'에보완수사요구"
+  "檢,'그알'예비시모청산염살인'1심무죄'에보완수사요구",
+  "[속보]배재고징계,6개월→1개월감경...봉황대기출전가능",
+  "[속보]체육회공정위,배재고야구부징계감경…출전정지1개월",
+  "장기등록하라더니폐업?…요가·필라테스‘먹튀’막는다",
+  "`청주시의원성매매'검·경신경전비화...난데없는'정치인유착의혹...",
+  "국힘`아동성매매혐의'최영중전청주시의원제명",
+  "[단독]경찰'장윤기수사지휘'전광산서장출국금지…지휘부본격수...",
+  "합수본‘노태악출장의혹’강제수사…‘투표용지부족’서선관위비..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "수사 검찰 담합 3사 외국 삼성 속도전 부품값 닉스에 떠넘겼나 비싼"
   ]
  ],
- "last_run": "2026-07-20T21:01:10.477369+09:00",
+ "last_run": "2026-07-20T21:10:56.901224+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
