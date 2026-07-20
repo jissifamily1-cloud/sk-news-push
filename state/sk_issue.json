@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=311242",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311239",
-  "https://www.naeil.com/news/read/595281",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260714.99099004017",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=89600",
-  "https://www.hankookilbo.com/news/article/A2026071410080004447?did=NA",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2051915",
   "https://www.newsis.com/view/NISX20260714_0003708212",
   "https://biz.chosun.com/policy/policy_sub/2026/07/14/3BPWDBYGNREWJOIRXR47BHASLQ/",
   "https://view.asiae.co.kr/article/2026071410365463000",
@@ -2999,16 +2992,16 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1393174",
   "https://lawtalknews.co.kr/article/BBGA1I8QKO6Q",
   "https://www.newsis.com/view/NISX20260720_0003715618",
-  "https://www.inews365.com/news/article.html?no=928345"
+  "https://www.inews365.com/news/article.html?no=928345",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244188",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1170222",
+  "https://www.joongdo.co.kr/web/view.php?key=20260720010005688",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=133161",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3640650",
+  "https://www.donga.com/news/Society/article/all/20260720/134328952/1",
+  "https://www.mt.co.kr/society/2026/07/20/2026072013232873740"
  ],
  "seen_titles": [
-  "잠실247만표·송도'쌍둥이득표'재검표한다…여야는시점놓고충돌",
-  "같은경찰서번갈아압수수색…장윤기사건놓고검경수사경쟁",
-  "장윤기자백에커진경찰수사책임",
-  "지난해하반기대기업의하도급대금총액89조100억원",
-  "KG·하이트진로·이랜드···하도급현금결제↓",
-  "27일부터중고거래할때이름·생년월일·주소안내도된다",
-  "전자상거래법시행령·시행규칙및과징금고시개정",
   "전자상거래법반복위반때과징금최대100%까지가중",
   "중고거래플랫폼개인정보수집줄인다…판매자전화번호·이메일만확...",
   "'당근마켓'에생년월일·주소안낸다…전자상거래소비자보호법시행령...",
@@ -6001,10 +5994,22 @@
   "경찰,'선거법위반의혹'한국남동발전본사압수수색",
   "전여친의신고로'불법촬영'압수수색당했는데…알고보니영상빼돌...",
   "검찰,'홈플러스사태'김정환MBK부사장소환…수사속도",
-  "검찰\"별건수사불가\"vs경찰\"추가피해확인시급\"…최영중전시의..."
+  "검찰\"별건수사불가\"vs경찰\"추가피해확인시급\"…최영중전시의...",
+  "[데스크칼럼]ESG공시미루면'시장퇴출비용'커진다",
+  "'부당환급·먹튀방지'…요가·필라테스표준약관첫제정",
+  "공정위제지사에솜방망이과징금…지역인쇄업계\"상식적으로이해할...",
+  "대보마그네틱,하도급법위반적발...서면미발급에과징금3200만원",
+  "공정위처분취소로8,714억환급…박상웅\"취소처분반드시재검토\"",
+  "합수본,‘노태악배우자동반해외출장’선관위압수수색",
+  "삼성·닉스에비싼부품값떠넘겼나…검찰,외국3사담합수사'속도전..."
  ],
- "recent_sigs": [],
- "last_run": "2026-07-20T16:31:02.868841+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-20T16:40:52.038511+09:00",
+   "수사 검찰 담합 3사 외국 삼성 속도전 부품값 닉스에 떠넘겼나 비싼"
+  ]
+ ],
+ "last_run": "2026-07-20T16:40:58.847929+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
