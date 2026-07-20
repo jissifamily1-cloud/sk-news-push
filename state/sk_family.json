@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12307539?influxDiv=NAVER",
-  "https://www.seoul.co.kr/news/economy/finance/2026/07/10/20260710500011?wlog_tag3=naver",
   "https://www.ceoscoredaily.com/page/view/2026070914020090844",
   "https://www.lecturernews.com/news/articleView.html?idxno=206003",
   "https://www.etoday.co.kr/news/view/2602255",
@@ -2999,11 +2997,11 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260721010007167",
   "http://www.fnnews.com/news/202607201812265188",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03617846645516488",
-  "http://www.fnnews.com/news/202607201837499765"
+  "http://www.fnnews.com/news/202607201837499765",
+  "https://www.ajunews.com/view/20260720173915326",
+  "https://newscham.net/articles/116959"
  ],
  "seen_titles": [
-  "SK하이닉스오늘나스닥상장…37조투자로HBM초격차굳힌다",
-  "SK하이닉스오늘ADR상장…최태원회장오프닝벨직접참석",
   "마이크론,美반도체공급망위해2,500억달러투자-[굿모닝글로벌이...",
   "SK하이닉스,오늘나스닥상장…37조원규모자금확보나서",
   "“애아빠가많이화났어요”주가하락에‘하이닉스환불’밈확산…...",
@@ -6001,7 +5999,9 @@
   "글로벌빅테크실적발표임박…'1074兆'AI투자지속여부촉각",
   "류진한경협회장\"4대그룹모실것\"…3연임여지남겼다",
   "\"주주가치훼손하는N%성과급,노사협상대상아냐\"",
-  "[사설]\"산업전환위해규제완화시급\"재계의절박한호소"
+  "[사설]\"산업전환위해규제완화시급\"재계의절박한호소",
+  "부산,AI반도체거점도전...전력반도체전략모색",
+  "사흘째꺼지지않는쿠팡물류센터의불,로켓배송이쌓아올린위험"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,17 @@
   [
    "2026-07-20T18:30:22.778687+09:00",
    "협상 성과급 노사 훼손하는 아냐 주주가치 대상"
+  ],
+  [
+   "2026-07-20T18:50:15.602775+09:00",
+   "모색 부산 AI 거점 전략 반도체 전력반도체 도전"
+  ],
+  [
+   "2026-07-20T18:50:15.602775+09:00",
+   "로켓배송이 않는 쌓아 올린 위험 사흘째 물류센터의 꺼지지 쿠팡"
   ]
  ],
- "last_run": "2026-07-20T18:40:25.299723+09:00",
+ "last_run": "2026-07-20T18:50:31.171602+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6389,6 +6397,7 @@
   "startuptoday.co.kr": "오늘경제",
   "newsquest.co.kr": "뉴스퀘스트",
   "ekoreanews.co.kr": "이코리아",
-  "gndomin.com": "경남도민신문"
+  "gndomin.com": "경남도민신문",
+  "newscham.net": "참세상"
  }
 }
