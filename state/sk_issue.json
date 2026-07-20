@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://vop.co.kr/A00001695814.html",
-  "https://www.hankyung.com/article/2026071442317",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=279887",
-  "https://www.insight.co.kr/news/562981",
-  "http://www.fnnews.com/news/202607141410231262",
   "https://news.jtbc.co.kr/article/NB12308173?influxDiv=NAVER",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205839",
   "http://www.yonhapnewstv.co.kr/news/AKR20260714142836bvE",
@@ -2999,14 +2994,14 @@
   "https://www.munhwa.com/article/11603745",
   "https://www.namdonews.com/news/articleView.html?idxno=917474",
   "https://www.newscj.com/news/articleView.html?idxno=3418398",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615067"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615067",
+  "http://www.stoo.com/article.php?aid=107832515179",
+  "https://www.yna.co.kr/view/AKR20260720158800052?input=1195m",
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1546737",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=858596",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615100"
  ],
  "seen_titles": [
-  "민주당홍기원,‘보완수사제한적허용’형사소송법개정안발의",
-  "'여고생살해'장윤기사건지휘경찰서장·형사과장입건",
-  "아파트·주택에반려견52마리방치·일부폐사...60대구속송치",
-  "\"먹이도제대로안줬다\"...반려견52마리방치한60대여성구속",
-  "공수처\"형소법개정시수사권증발우려...독자적입법필요\"",
   "결국쿠팡이공정위이겨…법원,'김범석총수지정'효력정지",
   "\"쿠팡프레시백까지왜우리가“…공정위에추가신고",
   "'김범석쿠팡총수지정'효력정지…\"손해예방\"",
@@ -6001,7 +5996,12 @@
   "인쇄용지대기업들담합에공정위과징금감면,중소업계“강력유감”...",
   "대검,광주지검'장윤기수사'우수사례선정",
   "[천지일보영상뉴스]폭우속서울구치소앞기자회견…\"95세고령자구...",
-  "하귀농협경제사업장갔더니…안전관리허술·작업계획서도엉터리"
+  "하귀농협경제사업장갔더니…안전관리허술·작업계획서도엉터리",
+  "박지성혁신위원장\"축구협회장선거개편안이번주개정…선거인단최...",
+  "검찰,'1심무죄예비시어머니청산염살인'보완수사요구",
+  "더불어민주당경남도당“성역없는수사,철저한진상규명”촉구",
+  "오늘의주장/충북여·야공천시스템개선해야",
+  "경찰,남동발전압수수색…기부행위의혹본격수사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "수사 검찰 담합 3사 외국 삼성 속도전 부품값 닉스에 떠넘겼나 비싼"
   ]
  ],
- "last_run": "2026-07-20T19:10:52.442537+09:00",
+ "last_run": "2026-07-20T19:20:58.797844+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
