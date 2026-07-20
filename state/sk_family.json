@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990297.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606853",
-  "https://www.news1.kr/politics/president/6223419",
-  "http://www.fnnews.com/news/202607091824587567",
   "http://www.fnnews.com/news/202607091214465804",
   "https://www.mk.co.kr/article/12094823",
   "https://www.mt.co.kr/politics/2026/07/09/2026070917394114057",
@@ -2999,13 +2995,13 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260720010006963",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260720010006960",
   "https://www.newsis.com/view/NISX20260720_0003715338",
-  "http://www.metroseoul.co.kr/article/20260720500309"
+  "http://www.metroseoul.co.kr/article/20260720500309",
+  "http://www.metroseoul.co.kr/article/20260720500313",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633680",
+  "https://www.seoultimes.news/news/article.html?no=2000097905",
+  "https://www.dailian.co.kr/news/view/1668763/?sc=Naver"
  ],
  "seen_titles": [
-  "\"최태원동거인중국간첩\"배터리아저씨,허위사실유포벌금형",
-  "몸값높아진SK실트론…매각가다시줄다리기",
-  "최태원회장,나스닥상장기념식직접등판",
-  "\"최태원동거인은중국간첩\"…'배터리아저씨'박순혁벌금700만원",
   "나스닥가는SK하이닉스,미ADR공모에‘7배청약’",
   "李대통령\"몽탄모델확산…자원부국몽골,韓과협력하면시너지\"",
   "李대통령\"핵심광물탐사·제련·인력양성까지전과정협력\"",
@@ -6001,7 +5997,11 @@
   "[포토]전국상의공동사회공헌'공동챌린지'첫발…기부금전달",
   "[포토]최태원회장·정은경장관,'공동챌린지'첫사업'그냥드림'봉...",
   "검찰,'최태원동거인中간첩주장'배터리아저씨벌금형에항소",
-  "성과급늪에빠진산업계…'N%성과급'위험한도미노"
+  "성과급늪에빠진산업계…'N%성과급'위험한도미노",
+  "전국74개상의,첫공동사회공헌…복지사각지대지원나선다",
+  "반도체공장증설경쟁,TSMC도합류했다",
+  "[CEO워치]최태원의AI승부수…제주포럼서던진한마디,SK미래다시...",
+  "안상훈\"말·행동따로노는李정권…국정운영전면쇄신해야\""
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,17 @@
   [
    "2026-07-20T14:40:13.876013+09:00",
    "도미노 늪에 위험한 성과급 빠진 산업계"
+  ],
+  [
+   "2026-07-20T14:50:13.000029+09:00",
+   "다시 제주포럼서 승부수 한마디 최태원의 미래 AI 던진"
+  ],
+  [
+   "2026-07-20T14:50:13.000029+09:00",
+   "정권 노는 행동 전면 쇄신해야 안상훈 국정운영 따로"
   ]
  ],
- "last_run": "2026-07-20T14:40:27.681584+09:00",
+ "last_run": "2026-07-20T14:50:29.033615+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
