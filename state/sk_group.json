@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714934",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=434451",
-  "https://www.econovill.com/news/articleView.html?idxno=744138",
-  "https://www.asiatime.co.kr/article/20260702500407",
-  "https://www.ngonews.kr/news/articleView.html?idxno=232130",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82861",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100275",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6935853",
-  "http://www.sisacast.kr/news/articleView.html?idxno=97384",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3122385",
-  "https://dealsite.co.kr/articles/164680",
   "https://www.socialvalue.kr/news/view/1065598327515946",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154899",
   "http://www.popcornnews.net/news/articleView.html?idxno=125488",
@@ -2999,20 +2988,20 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717047",
   "https://www.g-enews.com/view.php?ud=202607210657127129fbbec65dfb_1",
   "https://www.womennews.co.kr/news/articleView.html?idxno=280134",
-  "https://www.ikbc.co.kr/article/view/kbc202607210004"
+  "https://www.ikbc.co.kr/article/view/kbc202607210004",
+  "https://www.ziksir.com/news/articleView.html?idxno=140607",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3641138",
+  "http://www.fnnews.com/news/202607210710448004",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545909",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16141008",
+  "https://view.asiae.co.kr/article/2026072107212356834",
+  "https://www.busan.com/view/busan/view.php?code=2026072107155098677",
+  "https://www.ilyosisa.co.kr/news/article.html?no=256977",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1096511",
+  "https://monthly.chosun.com/news/articleView.html?idxno=70767",
+  "https://thetracker.co.kr/View.aspx?No=4155276"
  ],
  "seen_titles": [
-  "이랜드·대방건설·SM·교보생명보험·KG...60일초과하도급대금지급...",
-  "상생의SK,2·3차협력사도지원",
-  "“지역전체를‘AI실험의장’으로…과감한규제혁신·인프라조성...",
-  "SK,1·2·3차협력사상생협약…반도체생태계에1.4조신규투입",
-  "SK,1·2·3차협력사상생망넓힌다…하이닉스중심1.4조원지원",
-  "SK,협력사와상생협약체결…1.4조원자금지원등동반성장확대",
-  "\"공존이경쟁력\"…SK,상생을'시스템'으로바꾸다",
-  "[EBN오늘(2일)이슈종합]국민연금리밸런싱첫날,중기대출줄고가계...",
-  "[뉴스워커_SK]협력사생태계'3단계상생모델'가동…대금지급·R&D지...",
-  "삼성·SK협력사상생협약잇단체결…기대감속실효성의문도",
-  "[AT현장]\"버려진가스로일군3천억\"…SK'상생'이만든결실",
   "SK하이닉스,협력사와상생에5년간1조4천억원규모자금투입",
   "SK,1·2·3차협력사와상생협약체결…동반성장가속화",
   "SK,3차협력사까지상생협약...낙수효과한계깨고'공급망전반체질...",
@@ -6001,7 +5990,18 @@
   "\"1560원위협하더니1470원대로\"…환율급락의숨은주역은SK하이닉스",
   "AI메모리수요폭증…공급부족2028년까지지속전망",
   "국제유가,중동긴장고조에급등...브렌트유90달러",
-  "\"이런말씀죄송,레버리지투자말아야\"...운용사대표의이례적메시..."
+  "\"이런말씀죄송,레버리지투자말아야\"...운용사대표의이례적메시...",
+  "'후티봉쇄'중동악재에유가껑충…뉴욕증시,반도체반등에도일제히...",
+  "중동지정학적리스크에뉴욕증시하락…반도체주는저가매수유입",
+  "\"레버리지투자하지마세요\"운용사대표이례적호소→글삭제",
+  "대책발표에도더뜨거워진'삼전닉스2배베팅'.'도박장'된한국증시",
+  "중동불안에뉴욕증시하락…코스피반등변수는빅테크실적",
+  "[뉴욕증시]중동불안에하락…반도체는저가매수유입",
+  "\"지금이라도레버리지투자말라\"…운용사대표가경고메시지",
+  "<김삼기의시사펀치>이제레버리지지도그려야",
+  "성남시청년면접정장대여1200건넘어…309명취업성과",
+  "[인터뷰]이철우경북도지사",
+  "美웨스트라파예트시장,SK하이닉스전격방문....왜?"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,25 @@
   [
    "2026-07-21T07:21:12.042938+09:00",
    "이례적 죄송 대표의 말씀 투자 메시 말아야 운용사 이런 레버리지"
+  ],
+  [
+   "2026-07-21T07:31:08.341163+09:00",
+   "지도 그려야 이제 시사펀치 김삼기의 레버리지"
+  ],
+  [
+   "2026-07-21T07:31:08.341163+09:00",
+   "309명 넘어 취업 면접정장 성남시 대여 성과 1200건 청년"
+  ],
+  [
+   "2026-07-21T07:31:08.341163+09:00",
+   "경북도지사 이철우"
+  ],
+  [
+   "2026-07-21T07:31:08.341163+09:00",
+   "SK하이닉스 웨스트라파예트 전격 시장 방문"
   ]
  ],
- "last_run": "2026-07-21T07:21:25.536262+09:00",
+ "last_run": "2026-07-21T07:31:22.004450+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
