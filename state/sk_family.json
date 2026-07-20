@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=448752",
-  "https://www.nocutnews.co.kr/news/6545879",
-  "https://www.ikbc.co.kr/article/view/kbc202607090057",
-  "https://www.redian.org/news/articleView.html?idxno=256949",
-  "https://www.ccreview.co.kr/news/articleView.html?idxno=352433",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237334",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264416",
   "http://www.inews24.com/view/1984134",
   "https://www.thepublic.kr/news/articleView.html?idxno=310744",
   "https://news.dealsitetv.com/articles/173086",
@@ -2999,16 +2992,16 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267053",
   "https://view.asiae.co.kr/article/2026072009541884428",
   "https://www.asiatime.co.kr/article/20260720500111",
-  "https://www.dailian.co.kr/news/view/1668633/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1668633/?sc=Naver",
+  "https://dealsite.co.kr/articles/165510",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540595",
+  "https://www.viva100.com/article/20260720500470",
+  "https://biz.heraldcorp.com/article/10813516",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090104.html",
+  "https://biz.heraldcorp.com/article/10813478",
+  "https://www.mediapen.com/news/view/1110978"
  ],
  "seen_titles": [
-  "‘최태원동거인은중국간첩’배터리아저씨허위사실유포로1심서벌...",
-  "흥국운용,SK하닉'이사회패싱'문제제기서한철회",
-  "(토마토칼럼)‘메가프로젝트’에채워야할것들",
-  "[인사]공주시2026년하반기7월13일자",
-  "'최태원동거인중국간첩설'주장유튜버,벌금700만원",
-  "SK하이닉스,10일나스닥상장'美흥행예고'...최태원·곽노정방미",
-  "최태원SK그룹회장,SK하이닉스ADR상장기념행사참석...글로벌행보...",
   "공주시,하반기6급이하승진및전보인사단행",
   "흥국운용,SK하이닉스공개비판했다하루만에철회…\"개인의견\"",
   "'최태원동거인중국간첩'허위주장유튜버,1심벌금형",
@@ -6001,7 +5994,14 @@
   "D램공급·수요'미스매치'…삼성전자·SK하이닉스'설비증설'필요성...",
   "[사설]N%성과급,노동개혁출발점으로삼아야",
   "거버넌스포럼\"SK하이닉스호남반도체팹,LG엔솔IPO악몽되풀이우려...",
-  "1년새달라진최태원의자본주의론…'의구심'서'망각'으로"
+  "1년새달라진최태원의자본주의론…'의구심'서'망각'으로",
+  "[보스턴다이내믹스IPO]소프트뱅크콜옵션덕분에…정의선2조차익챙...",
+  "최태원비판?…“민주주의만생각하니자본주의완전망각”[자막뉴스...",
+  "함양군,‘농작업안전컨설팅’2차추진",
+  "최태원“전세계팹부지탐색중…가능한모든곳에지어야”",
+  "검찰,'최태원동거인중국간첩'주장한유튜버벌금형에항소",
+  "[사설]‘中키미쇼크’와‘네덜란드병’,그리고최태원회장의경고",
+  "역대급실적불구주가폭락...반도체산업,\"호황이면의그늘\""
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-07-20T11:10:13.636028+09:00",
    "망각 최태원의 자본주의론 1년 으로 의구심 달라진"
+  ],
+  [
+   "2026-07-20T11:20:15.028491+09:00",
+   "불구 폭락 이면의 주가 그늘 실적 역대급 반도체 호황 산업"
   ]
  ],
- "last_run": "2026-07-20T11:10:38.860468+09:00",
+ "last_run": "2026-07-20T11:20:28.517587+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
