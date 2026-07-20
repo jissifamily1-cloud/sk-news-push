@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2343144.htm",
-  "https://biz.heraldcorp.com/article/10808339",
-  "https://www.yna.co.kr/view/AKR20260714051700002?input=1195m",
-  "http://www.yonhapnewstv.co.kr/news/AKR202607141339497Al",
-  "https://www.pennmike.com/news/articleView.html?idxno=123662",
   "https://www.sisajournal.com/news/articleView.html?idxno=379791",
   "https://www.hankookilbo.com/news/article/A2026071413080001278?did=NA",
   "https://www.sedaily.com/article/20067534",
@@ -2999,14 +2994,14 @@
   "https://www.newscj.com/news/articleView.html?idxno=3418355",
   "https://biz.chosun.com/topics/law_firm/2026/07/20/2PIFL7ILAZF2FEGU7WVDGARSP4/",
   "https://it.chosun.com/news/articleView.html?idxno=2023092166114",
-  "https://www.joongang.co.kr/article/25446492"
+  "https://www.joongang.co.kr/article/25446492",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442648",
+  "http://datanews.co.kr/news/article.html?no=145648",
+  "https://www.ytn.co.kr/_ln/0107_202607201701207100",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030135797&code=61121111&cp=nv",
+  "https://www.news1.kr/local/busan-gyeongnam/6233124"
  ],
  "seen_titles": [
-  "전자상거래법반복위반시과징금최대100%가중",
-  "개인중고거래신원확인간소화…해외대형전자상거래업체‘국내대리...",
-  "당근마켓서중고거래시신원정보제공범위5개→2개축소",
-  "경찰,'장윤기사건'광산경찰서장·형사과장직권남용혐의입건",
-  "[펜앤현장]與\"재검표작업먼저\"vs野\"특검法처리가우선\"",
   "공수처,'형소법개정'에\"공수처검사의수사권근거마련해야\"",
   "장윤기은폐의혹경찰수사확대…전광산서장·형사과장입건",
   "정이한‘피습자작극’이번주검찰송치",
@@ -6001,7 +5996,12 @@
   "종교계·시민사회구치소앞빗속기자회견…\"95세이만희총회장구속...",
   "보완수사로‘장윤기사건’진실규명…檢우수수사사례선정",
   "검찰,'홈플러스사태'MBK부사장소환…윗선수사재개",
-  "경찰,한국남동발전압수수색…창원시장선거전기부행위의혹수사"
+  "경찰,한국남동발전압수수색…창원시장선거전기부행위의혹수사",
+  "넥슨'확률조작과징금116억취소소송'22일선고,이용자속인확률조...",
+  "필라테스·요가이용자10%\"폐업으로환급못받았다\"",
+  "박지성혁신위원장\"반발예상가능하지만...축구협회원복하는일없을...",
+  "[단독]합수본,신천지‘정치권불법후원의혹’이희자첫피의자조...",
+  "'창원시장선거기부행위의혹'강제수사…한국남동발전압색(종합)"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "수사 검찰 담합 3사 외국 삼성 속도전 부품값 닉스에 떠넘겼나 비싼"
   ]
  ],
- "last_run": "2026-07-20T17:01:08.788123+09:00",
+ "last_run": "2026-07-20T17:10:59.310659+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
