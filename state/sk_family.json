@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260710507392?OutUrl=naver",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251195",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=59993",
   "https://www.g-enews.com/view.php?ud=202607100957109417906806b77b_1",
@@ -2999,10 +2998,10 @@
   "https://www.g-enews.com/view.php?ud=202607210657127129fbbec65dfb_1",
   "https://biz.sbs.co.kr/article_hub/20000323508?division=NAVER",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7174460",
-  "https://www.abcn.kr/news/articleView.html?idxno=89618"
+  "https://www.abcn.kr/news/articleView.html?idxno=89618",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335906"
  ],
  "seen_titles": [
-  "한-몽골비즈니스포럼개최…양국대통령참석,MOU21건체결",
   "[SK하이닉스ADR]최태원,나스닥상장식참석…직접'오프닝벨'울린다",
   "SK하이닉스ADR공모가149불확정…美역사상역대2위IPO",
   "나스닥상륙하는‘국민반도체주’SK하이닉스...‘메모리피크아웃’...",
@@ -6001,7 +6000,8 @@
   "AI메모리수요폭증…공급부족2028년까지지속전망",
   "[마켓프리뷰]中AI습격에'블랙먼데이'현실화…반도체'울상'",
   "또봉투연트럼프…삼성·SK에추가투자'압박'",
-  "[ABC뉴스칼럼]하이닉스주식1주도없는최태원회장의희한한하이닉..."
+  "[ABC뉴스칼럼]하이닉스주식1주도없는최태원회장의희한한하이닉...",
+  "한국일보,李대통령근저당매도에\"사인간대출비판나와\""
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-07-21T07:35:55.190197+09:00",
    "주식 없는 희한한 회장의 하이닉스 1주도 하이닉"
+  ],
+  [
+   "2026-07-21T07:50:12.460194+09:00",
+   "매도에 대통령 비판 근저당 대출 한국일보 나와 사인"
   ]
  ],
- "last_run": "2026-07-21T07:40:23.660904+09:00",
+ "last_run": "2026-07-21T07:50:27.764531+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
