@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260714047351002?input=1195m",
-  "https://www.news1.kr/society/court-prosecution/6227717",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850214",
   "https://www.cstimes.com/news/articleView.html?idxno=713403",
   "https://www.newspim.com/news/view/20260714000778",
   "https://www.globale.co.kr/news/articleView.html?idxno=39333",
@@ -2999,12 +2996,12 @@
   "https://www.sportschosun.com/football/2026-07-20/202607200100122880007804",
   "https://sateconomy.co.kr/news/view/1065604681942177",
   "https://www.news1.kr/local/busan-gyeongnam/6233303",
-  "https://www.bzeronews.com/news/articleView.html?idxno=820271"
+  "https://www.bzeronews.com/news/articleView.html?idxno=820271",
+  "http://www.fnnews.com/news/202607201833398448",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=786123",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607201838447NJ"
  ],
  "seen_titles": [
-  "작년하반기법정기한넘긴하도급대금,이랜드·대방건설순(종합)",
-  "법원,쿠팡김범석총수지정'효력정지'…\"공공복리반하지않아\"",
-  "법원,'김범석쿠팡총수지정'효력중단",
   "法,'쿠팡김범석동일인지정'공정위처분효력정지인용",
   "쿠팡'동일인'김범석지정효력정지…法\"회복어려운손해우려\"",
   "법원,김범석쿠팡의장'총수지정'효력정지인용",
@@ -6001,7 +5998,10 @@
   "박지성위원장\"오늘축구협회선거인단확대자체안논의,선거인단수...",
   "경찰,‘6·3지방선거전기부행위의혹’한국남동발전압수수색",
   "800억자산가청산염사망1심무죄에…검찰보완수사요구",
-  "'아동성범죄혐의'최영중청주시의원당적박탈"
+  "'아동성범죄혐의'최영중청주시의원당적박탈",
+  "‘무늬만친환경’제동예산배제기준마련그린워싱걸러낸다",
+  "[위클리오늘]장윤기부실수사파문후폭풍…경찰'대수술'착수에도'미...",
+  "경찰,한국남동발전압수수색…선거전기부행위의혹"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "수사 검찰 담합 3사 외국 삼성 속도전 부품값 닉스에 떠넘겼나 비싼"
   ]
  ],
- "last_run": "2026-07-20T18:31:06.091767+09:00",
+ "last_run": "2026-07-20T18:40:55.061256+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
