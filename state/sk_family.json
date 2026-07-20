@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260709_0003702852",
-  "http://www.4th.kr/news/articleView.html?idxno=2114513",
-  "https://www.starnewskorea.com/business-life/2026/07/09/2026070915173795776",
-  "http://www.sisanews24.co.kr/18983",
-  "https://www.newspim.com/news/view/20260709001010",
-  "https://www.joongang.co.kr/article/25443780",
   "https://www.sisajournal.com/news/articleView.html?idxno=379304",
   "https://www.hankookilbo.com/news/article/A2026070914300004432?did=NA",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068979",
@@ -2999,15 +2993,15 @@
   "https://www.bizwork.co.kr/news/articleView.html?idxno=417374",
   "http://www.cctimes.kr/news/articleView.html?idxno=916012",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661165&plink=ORI&cooper=NAVER",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=437057"
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=437057",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=785890",
+  "https://www.viva100.com/article/20260719500575",
+  "https://www.segye.com/newsView/20260720506309?OutUrl=naver",
+  "https://www.eroun.net/news/articleView.html?idxno=85747",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1387024",
+  "https://www.koreajoongangdaily.com/bilingual-news/lee-byungchulls-final-gamble-at-73-kor/12780839"
  ],
  "seen_titles": [
-  "'SK하이닉스美나스닥상장'최태원회장,글로벌AI전문가와생중계대...",
-  "\"AI가치,글로벌표준으로잰다\"…SKT·소프트뱅크,연대한층강화",
-  "SKT-日소프트뱅크,AI사회적가치측정글로벌표준만든다",
-  "흥국운용,SK하닉'호남팹투자발표저격'주주서한철회…\"본부장개인...",
-  "김희영'중국간첩설'유포,배터리아저씨벌금700만원",
-  "최태원,AI메모리세일즈나선다…SK하이닉스나스닥데뷔",
   "대학생아이디어로브랜드경쟁력높인다…남서울대산학협력눈길",
   "주호영\"최태원,두달전호남반도체부정견해...李나서며800조투자...",
   "‘최태원동거인중국간첩’허위주장유튜버벌금700만원",
@@ -6001,7 +5995,13 @@
   "최태원\"'HBM호황에취해선안돼'…반도체증설·규제개혁주문\"",
   "남서울대시각미디어디자인학과,'자이리톨스톤'마케팅전략산학협력...",
   "1,500조투입되는'메가프로젝트'…성패를가를결정적변수는?[스프]",
-  "[뉴스분석]40조조달·ADR흥행…SK하이닉스,주주환원도글로벌기준으..."
+  "[뉴스분석]40조조달·ADR흥행…SK하이닉스,주주환원도글로벌기준으...",
+  "[위클리오늘]최태원\"AI반도체수요최대100%증가…내년공급난더...",
+  "[오늘의브릿지경제1면]내놓는족족소비자외면…보험정책‘4전전...",
+  "장애예술계최초의미디어아트전시회…‘미디어술래(術來)’개막",
+  "[이로운분석]AI반도체호황의그늘…레버리지ETF·칩플레이션·쏠림리...",
+  "부동산에고개숙인김용범…반도체레버리지상폐론엔'제동'",
+  "LeeByung-chull’sfinalgambleat73(KOR)"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,13 @@
   [
    "2026-07-20T09:10:20.056248+09:00",
    "ADR 40조 주주환원도 SK하이닉스 글로벌 조달 흥행 기준으"
+  ],
+  [
+   "2026-07-20T09:50:19.103235+09:00",
+   "chull KOR Byung gamble Lee at final"
   ]
  ],
- "last_run": "2026-07-20T09:10:32.017218+09:00",
+ "last_run": "2026-07-20T09:50:30.607739+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
