@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251256&CMPT_CD=P0010",
-  "https://biz.sbs.co.kr/article_hub/20000322428?division=NAVER",
-  "https://www.newsis.com/view/NISX20260714_0003708652",
-  "https://biz.chosun.com/topics/law_firm/2026/07/14/AAFQCEJHXFCSHJ4CZDR7LSYLVI/",
-  "https://www.hankyung.com/article/2026071441997",
-  "https://www.yna.co.kr/view/AKR20260714104300004?input=1195m",
   "https://www.olchiolchi.com/%ec%95%84%ed%8c%8c%ed%8a%b8%ec%97%90-%eb%b0%98%eb%a0%a4%ea%b2%ac-52%eb%a7%88%eb%a6%ac-%eb%b0%a9%ec%b9%98-%ec%a7%88%eb%b3%91%c2%b7%ed%8f%90%ec%82%ac-60%eb%8c%80-%ec%97%ac%ec%84%b1-%ea%b5%ac%ec%86%8d/",
   "http://www.yonhapnewstv.co.kr/news/MYH20260714134428jUL",
   "https://www.businessplus.kr/news/articleView.html?idxno=114119",
@@ -2999,15 +2993,15 @@
   "https://www.idomin.com/news/articleView.html?idxno=2010438",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615007",
   "http://news.lghellovision.net/news/articleView.html?idxno=548805",
-  "https://www.ytn.co.kr/_ln/0103_202607201711273269"
+  "https://www.ytn.co.kr/_ln/0103_202607201711273269",
+  "http://www.srtimes.kr/news/articleView.html?idxno=207871",
+  "https://www.namdonews.com/news/articleView.html?idxno=917439",
+  "https://www.newsis.com/view/NISX20260720_0003715685",
+  "https://www.chosun.com/national/regional/chungcheong/2026/07/20/CTW7P2V7MBG7XCD4ZUXGWF7U3M/",
+  "https://www.hankookilbo.com/news/article/A2026072016580000493?did=NA",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090206.html"
  ],
  "seen_titles": [
-  "배재고교장,사과이틀만에\"광주일고도선처\"강조한재심신청서제출",
-  "[속보]법원\"쿠팡김범석동일인지정한공정위처분효력정지\"",
-  "[속보]法\"쿠팡김범석동일인지정한공정위처분효력정지\"",
-  "[속보]법원,쿠팡김범석‘동일인’지정공정위처분효력정지",
-  "[속보]法\"쿠팡'동일인'김범석지정한공정위처분효력정지\"",
-  "'쿠팡프레시백'업무공방계속…노조,계약해지공정위신고",
   "아파트에반려견52마리방치질병·폐사...60대여성구속",
   "검찰,강원도청정책실·투자유치과등압수수색",
   "[뉴스+]하도급대금법정기한초과지급비율,이랜드·대방건설·SM·교보...",
@@ -6001,7 +5995,13 @@
   "민주당경남도당\"강기윤창원시장성역없는수사를\"",
   "‘김건희명품가방무혐의’권익위압수수색",
   "[다시보기]헬로tv뉴스부산경남2026년7월20일",
-  "합수본,'외유성출장의혹'본격수사...중앙선관위압수수색"
+  "합수본,'외유성출장의혹'본격수사...중앙선관위압수수색",
+  "공정위,대보마그네틱에시정명령및과징금3200만원부과",
+  "공정위제재받고도…종소세환급플랫폼논란지속",
+  "대검,장윤기'강간목적살인'규명한광주지검우수사례선정",
+  "국민의힘,‘미성년자성범죄의혹’최영중제명",
+  "'아동성매매혐의'최영중전청주시의원국민의힘제명",
+  "경찰,공직선거법기부행위의혹에대해한국남동발전압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "수사 검찰 담합 3사 외국 삼성 속도전 부품값 닉스에 떠넘겼나 비싼"
   ]
  ],
- "last_run": "2026-07-20T17:20:55.805207+09:00",
+ "last_run": "2026-07-20T17:31:15.680767+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
