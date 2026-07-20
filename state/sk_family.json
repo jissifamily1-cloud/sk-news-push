@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260709500246",
-  "https://www.ziksir.com/news/articleView.html?idxno=139639",
   "https://www.econovill.com/news/articleView.html?idxno=744786",
   "http://www.newsian.co.kr/news/articleView.html?idxno=92043",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682931",
@@ -2999,11 +2997,11 @@
   "https://biz.sbs.co.kr/article_hub/20000323360?division=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615064",
   "https://biz.sbs.co.kr/article_hub/20000323359?division=NAVER",
-  "https://www.hankyung.com/article/2026072051891"
+  "https://www.hankyung.com/article/2026072051891",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029407",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=858592"
  ],
  "seen_titles": [
-  "SK하이닉스,오늘나스닥ADR상장…글로벌자본시장데뷔",
-  "\"최태원동거인은中간첩\"주장한'배터리아저씨',1심벌금700만원",
   "[증시전략]메타도\"컴퓨팅부족\"…AI반도체랠리여전히유효?",
   "SK하이닉스'美ADR상장'뭐길래...투자자가꼭알아야할7가지",
   "'나스닥상장'SK하이닉스,37조원장전…글로벌증설드라이브",
@@ -6001,7 +5999,9 @@
   "[이슈체크]‘키미K3’공개·CXMT상장…무섭게따라붙는중국기술력",
   "[시사플랫폼]“우리증시변곡점돌입…빅테크기업실적에따라증시...",
   "[집중진단]\"또사이드카\"안잡히는변동성…레버리지규제로변동성...",
-  "최태원\"기업,사회문제해결에도나서야\""
+  "최태원\"기업,사회문제해결에도나서야\"",
+  "취약계층선물포장하는정은경장관",
+  "청주상공회의소등전국74곳상공회의소...'전국상의공동챌린지'개최"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-07-20T19:00:32.795087+09:00",
    "사이드카 규제로 레버리지 변동성 잡히는"
+  ],
+  [
+   "2026-07-20T19:20:15.517455+09:00",
+   "청주상공회의소 전국상의 공동챌린지 전국 상공회의소 74곳 개최"
   ]
  ],
- "last_run": "2026-07-20T19:10:23.222508+09:00",
+ "last_run": "2026-07-20T19:20:28.451358+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6390,6 +6394,7 @@
   "newsquest.co.kr": "뉴스퀘스트",
   "ekoreanews.co.kr": "이코리아",
   "gndomin.com": "경남도민신문",
-  "newscham.net": "참세상"
+  "newscham.net": "참세상",
+  "dynews.co.kr": "동양일보"
  }
 }
