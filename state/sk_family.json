@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Politics/article/all/20260710/134277993/2",
-  "https://www.joongang.co.kr/article/25444234",
-  "https://www.newsis.com/view/NISX20260711_0003705059",
-  "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903",
-  "https://www.news1.kr/politics/president/6224818",
-  "https://www.yna.co.kr/view/AKR20260710159051001?input=1195m",
-  "https://www.mk.co.kr/article/12095868",
-  "https://www.etoday.co.kr/news/view/2602649",
   "https://www.dailian.co.kr/news/view/1665950/?sc=Naver",
   "http://www.fnnews.com/news/202607110222097110",
   "https://biz.sbs.co.kr/article_hub/20000321880?division=NAVER",
@@ -2999,17 +2991,17 @@
   "http://www.fnnews.com/news/202607211746524786",
   "http://www.segyebiz.com/newsView/20260722505126?OutUrl=naver",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=270115",
-  "https://www.joongangenews.com/news/articleView.html?idxno=534340"
+  "https://www.joongangenews.com/news/articleView.html?idxno=534340",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700416",
+  "https://thetracker.co.kr/View.aspx?No=4157145",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260722.99099006412",
+  "https://www.kizmom.com/news/articleView.html?idxno=111663",
+  "https://view.asiae.co.kr/article/2026072208431276083",
+  "https://www.dt.co.kr/article/12074033",
+  "https://www.kado.net/news/articleView.html?idxno=2062471",
+  "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537385&seq_800=20530260"
  ],
  "seen_titles": [
-  "낯선이와함께하는‘세미패키지’도인기",
-  "李대통령\"몽골,진정한친구…새도약발전동반자\"",
-  "李“한국은몽골의진정한친구”…SK·LS등경제인도만찬참석",
-  "李“韓-몽골황금시대,광물-방산협력차질없게”",
-  "李대통령,몽골국빈만찬서“진정한‘안다’”…국궁세트·스마트워...",
-  "李\"몽골도약함께하는동반자될것\"…LS·SK등경제인도만찬참석(...",
-  "몽골국빈만찬장'李대통령일대기'상영…결혼식사진에좌중'웃음만...",
-  "李대통령\"韓은몽골의'진정한친구'…새도약함께할동반자될것\"",
   "李대통령\"韓-몽골진정한친구…누구에도안뒤지는파트너안목\"(종합...",
   "몽골서열2·3위연쇄회동한李…핵심광물협력강조",
   "이대통령,몽골대통령에국궁세트·스마트워치선물…경제인40명과국...",
@@ -6001,7 +5993,15 @@
   "SK하이닉스,美현지인재확보속도…연구개발·공장인력동시채용",
   "이재용·최태원·이해진,이번주미국서젠슨황과회동전망",
   "시가총액상위100대기업임원,고령화진행중…10년전보다1.1세↑",
-  "SK하이닉스,성과급손보나…PS절반자사주의무화에노조반발"
+  "SK하이닉스,성과급손보나…PS절반자사주의무화에노조반발",
+  "이재용·최태원·이해진·젠슨황,24일미국서AI글로벌리더회동",
+  "AI리더한자리에…이재용·최태원·이해진,美서젠슨황만난다",
+  "[속보]이재용·최태원·이해진,이번주美서젠슨황만난다",
+  "삼성·SK·네이버·엔비디아뭉친다…AI패권전쟁새판짜나",
+  "이재용·최태원·정의선·이해진,'깐부'넘어美서AI회동갖는다",
+  "이재용·최태원·이해진,美서젠슨황만난다…AI동맹강화",
+  "이재용·최태원·이해진,미국서젠슨황회동추진",
+  "이재용·최태원·이해진,미국서젠슨황만난다"
  ],
  "recent_sigs": [
   [
@@ -6057,7 +6057,7 @@
    "손보나 성과급 SK하이닉스 절반 의무화에 노조 자사주 반발 PS"
   ]
  ],
- "last_run": "2026-07-22T08:40:27.519552+09:00",
+ "last_run": "2026-07-22T08:50:23.939313+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
