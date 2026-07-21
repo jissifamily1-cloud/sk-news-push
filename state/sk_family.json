@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=310805",
-  "https://www.pennmike.com/news/articleView.html?idxno=123465",
-  "http://www.newsdream.kr/news/articleView.html?idxno=114282",
-  "https://www.viva100.com/article/20260710500326",
   "https://www.aitimes.kr/news/articleView.html?idxno=40927",
   "http://www.joseilbo.com/news/news_read.php?uid=571673&class=1",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272821",
@@ -2999,13 +2995,13 @@
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312565",
   "https://www.kpinews.kr/newsView/1065579882460146",
   "https://www.kwnews.co.kr/article/20260721500147",
-  "https://www.smartbizn.com/news/articleView.html?idxno=148972"
+  "https://www.smartbizn.com/news/articleView.html?idxno=148972",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356219",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685594",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/63683?feed=na",
+  "https://www.munhwa.com/article/11603912"
  ],
  "seen_titles": [
-  "美외국기업IPO사상최고가…SK하이닉스‘40조실탄’손에쥔다",
-  "\"피크아웃은없다\"…SK하이닉스,'40조원나스닥실탄'으로AI초격차승...",
-  "최태원회장,SK하이닉스나스닥상장기념뉴욕행…외국기업美IPO역...",
-  "SK하이닉스ADR공모가149달러확정...40조원조달,美외국기업IPO최...",
   "[막전막후]그래서\"스타벅스가야지\"는사라졌을까?",
   "SK하이닉스,나스닥상장'40조잭팟'터졌다…최태원,13일'나스닥벨...",
   "SK하이닉스,美ADR공모가149달러확정…40조원조달",
@@ -6001,7 +5997,11 @@
   "[최태원·노소영재판장면들②]최태원을기자회견장에세운'100원'",
   "전국광역의회민주당대표의원연석회의경기도의회서개최",
   "화천토마토축제사상첫열흘간개최…체류형여름축제로확대",
-  "방학결식우려아동지원···행복얼라이언스,민관협력사회공헌확..."
+  "방학결식우려아동지원···행복얼라이언스,민관협력사회공헌확...",
+  "[기자수첩]'영업이익N%'성과급,지속가능한공식인가",
+  "李대통령\"급등락레버리지ETF…보완책마련해야\"",
+  "“공장대신인재”…제주소상공인,최태원에반도체구상건넸다",
+  "성장중심‘멘털모델’이절실한이유[포럼]"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,17 @@
   [
    "2026-07-21T11:50:12.835546+09:00",
    "아동 결식 방학 지원 행복얼라이언스 사회공헌 협력 민관 우려"
+  ],
+  [
+   "2026-07-21T12:00:31.569820+09:00",
+   "최태원에 반도체 건넸다 공장 대신 제주 구상 소상공인 인재"
+  ],
+  [
+   "2026-07-21T12:00:31.569820+09:00",
+   "절실한 이유 멘털 성장 중심 모델"
   ]
  ],
- "last_run": "2026-07-21T11:50:28.116526+09:00",
+ "last_run": "2026-07-21T12:00:48.241082+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6324,6 +6332,7 @@
   "gndomin.com": "경남도민신문",
   "newscham.net": "참세상",
   "dynews.co.kr": "동양일보",
-  "whitepaper.co.kr": "화이트페이퍼"
+  "whitepaper.co.kr": "화이트페이퍼",
+  "jibs.co.kr": "jibs.co.kr"
  }
 }
