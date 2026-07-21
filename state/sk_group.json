@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsbrite.net/news/articleView.html?idxno=199331",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=77942",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01289046645516488",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01282486645516488",
-  "https://www.news1.kr/it-science/cc-newmedia/6230994",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404414",
   "https://www.dailian.co.kr/news/view/1665734/?sc=Naver",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01367766645516488",
   "https://magazine.hankyung.com/business/article/202607203361b",
@@ -2999,15 +2993,15 @@
   "http://www.4th.kr/news/articleView.html?idxno=2115017",
   "https://www.koreatimes.co.kr/path/A2026072108250005821",
   "https://www.news1.kr/it-science/cc-newmedia/6234343",
-  "https://www.yna.co.kr/view/AKR20260721140900002?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260721140900002?input=1195m",
+  "https://economist.co.kr/article/view/ecn202607210058",
+  "https://www.kgnews.co.kr/news/article.html?no=904637",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=204300",
+  "https://www.joongang.co.kr/article/25446840",
+  "https://www.bloter.net/news/articleView.html?idxno=668568",
+  "https://www.yna.co.kr/view/AKR20260721145100005?input=1195m"
  ],
  "seen_titles": [
-  "[코스피·코스닥,대우건설포스코퓨처엠기업은행녹십자나인앤컴퍼니...",
-  "[속보]中'키미K3쇼크'에이란전면전공포겹쳤다…나스닥1.4%급락...",
-  "[알립니다]젠슨황·손정의가알아본‘로봇뇌’유니콘한국온다…...",
-  "류진한경협회장\"풍산방산매각안해…임기내4대그룹회장단복...",
-  "한국바이오협회,대만에바이오공급망협력제안",
-  "최태원·노소영,'재산분할소송'파기환송심D-4",
   "코스피·코스닥,전거래일(16일)주요공시",
   "뉴욕증시,'키미쇼크'에반도체주약세…美·이란긴장도고조[뉴스새...",
   "“코스피극단적변동성,강세장끝아니다…답은실적가시성”",
@@ -6001,7 +5995,13 @@
   "[4th-Infra]\"주가누르기막으려면저가승계차단·저평가공시의무화해...",
   "[ED]'Stakeholdersshouldbehappy,too'",
   "통신3사,'메타AI글래스'22일일제히출격…5G'업로드'속도전붙나",
-  "하이닉스효과·외국인순매수에환율장중1,471.1원까지하락"
+  "하이닉스효과·외국인순매수에환율장중1,471.1원까지하락",
+  "“지금이라도투자멈춰라”…‘ETF아버지’가경고한레버리지ETF",
+  "코스피,6700선회복…3%대상승마감",
+  "고부가윤활유시장공략본격화…HD현대오일뱅크,첫플래그십스토어...",
+  "원·엔환율900원대…하이닉스효과에1년8개월만에최저",
+  "[K조선공급망]'알짜매물'SK오션플랜트,몸값줄다리기쟁점은",
+  "[가요소식]에이티즈,악성게시물에법적대응…\"선처없다\""
  ],
  "recent_sigs": [
   [
@@ -7191,9 +7191,17 @@
   [
    "2026-07-21T16:18:12.279926+09:00",
    "장중 효과 1원까지 하락 순매수에 외국인 하이닉스 환율"
+  ],
+  [
+   "2026-07-21T16:21:05.259374+09:00",
+   "몸값 매물 줄다리기 SK오션플랜트 쟁점은 알짜"
+  ],
+  [
+   "2026-07-21T16:21:05.259374+09:00",
+   "대응 게시물에 법적 에이티즈 없다 악성 선처"
   ]
  ],
- "last_run": "2026-07-21T16:18:32.388610+09:00",
+ "last_run": "2026-07-21T16:21:14.231139+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
