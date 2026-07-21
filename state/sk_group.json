@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25446200",
-  "http://www.newsprime.co.kr/news/article.html?no=740691",
-  "https://www.korea.kr/briefing/actuallyView.do?newsId=148968362&call_from=naver_news",
   "https://www.newsis.com/view/NISX20260719_0003714198",
   "https://www.eroun.net/news/articleView.html?idxno=85728",
   "https://www.sedaily.com/article/20069105",
@@ -2999,12 +2996,12 @@
   "https://www.pennmike.com/news/articleView.html?idxno=124066",
   "https://www.munhwa.com/article/11603967",
   "https://www.pressman.kr/news/articleView.html?idxno=102805",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=77783"
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=77783",
+  "https://www.lawtv.kr/news/articleView.html?idxno=60463",
+  "https://www.etoday.co.kr/news/view/2605642",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/21/2026072100135.html"
  ],
  "seen_titles": [
-  "최태원회장\"영업이익10%성과급,이해관계자침해땐손댈것\",내년...",
-  "최태원,\"성과급,긍정적영향도있어…좀더지켜봐야\"",
-  "삼전닉스레버리지대책,단기과열진정되나…\"부자들만투자\"지적도",
   "최태원SK회장\"하이닉스성과급,긍정적인영향도있어\"",
   "이재명\"무책임\"시민단체\"사기극\"…전북소외론·카지노꺼냈다고민...",
   "\"돈이도는활력넘치는고창재탄생\"",
@@ -6001,7 +5998,10 @@
   "[재계핫이슈]최태원노소영재판의또다른당사자,삼성전자와두산",
   "12년앞당긴다는용인팹…용수관로·가압장건설에5년은걸려",
   "통신·IT업계,AI인재양성부터산학협력까지전방위확대",
-  "견고한'로수바'달리는'피타바'석양깃든'심바스타틴'"
+  "견고한'로수바'달리는'피타바'석양깃든'심바스타틴'",
+  "'AI기본법'시행령21일부터시행...\"'고영향AI'직접규제\"",
+  "추미애경기도지사,방진복입고반도체장비기업ASM방문…\"소부장동...",
+  "'키미K3'의반전…연산줄였지만메모리는더먹는다"
  ],
  "recent_sigs": [
   [
@@ -7103,9 +7103,17 @@
   [
    "2026-07-21T12:21:08.822349+09:00",
    "달리는 피타바 로수바 석양 견고한 심바스타틴 깃든"
+  ],
+  [
+   "2026-07-21T12:31:14.397629+09:00",
+   "입고 소부장 방문 추미애 경기도지사 방진복 반도체장비기업 ASM"
+  ],
+  [
+   "2026-07-21T12:31:14.397629+09:00",
+   "반전 키미 연산 메모리는 K3 줄였지만 먹는다"
   ]
  ],
- "last_run": "2026-07-21T12:21:25.417194+09:00",
+ "last_run": "2026-07-21T12:31:23.097782+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
