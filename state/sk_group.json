@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=713946",
-  "https://www.asiatime.co.kr/article/20260720500244",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83464",
-  "https://www.etoday.co.kr/news/view/2605240",
-  "https://news.mtn.co.kr/news-detail/2026072014013182622",
-  "https://www.dailian.co.kr/news/view/1668742/?sc=Naver",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=221608",
-  "http://www.domin.co.kr/news/articleView.html?idxno=1562309",
   "https://www.mk.co.kr/article/12102382",
   "https://www.newsway.co.kr/news/view?ud=2026072013475298692",
   "https://isplus.com/article/view/isp202607200162",
@@ -2999,17 +2991,17 @@
   "https://www.khan.co.kr/article/202607220600111",
   "https://www.sidae.com/article/2026072113293237337",
   "https://www.news1.kr/economy/trend/6234242",
-  "https://www.newspim.com/news/view/20260721000853"
+  "https://www.newspim.com/news/view/20260721000853",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/22/2026072200008.html",
+  "https://www.kbmaeil.com/article/20260722500016",
+  "https://www.sedaily.com/article/20070091",
+  "https://www.news2day.co.kr/article/20260721500191",
+  "https://news.mtn.co.kr/news-detail/2026072115575850974",
+  "https://www.etoday.co.kr/news/view/2605809",
+  "https://www.hankyung.com/article/202607155680i",
+  "http://www.beyondpost.co.kr/view.php?ud=2026072206022175052aaae0046f_30"
  ],
  "seen_titles": [
-  "검찰,'최태원동거인中간첩주장'배터리아저씨벌금형에항소",
-  "'검은월요일'삼성전자·SK하이닉스,겹악재에'급락'",
-  "與정무위\"단일종목레버리지ETF시장모니터링강화해야\"",
-  "올상반기반도체신입채용공고47%증가…4년만에최고",
-  "권형택기보이사장\"AI산업전환성과중기·벤처로확산돼야\"",
-  "하루걸러'사이드카'출렁증시에…국힘\"李,김용범경질해야\"",
-  "리튬이온과세·고체배터리면세한中…K배터리파장은",
-  "SK이터닉스,8%대강세…5만6천원선안착하며상승세지속",
   "실망할것없다새만금투자에집중하자",
   "이심에밀리던통신사“8700원에로밍해드립니다”…휴가철여행객쟁...",
   "거래줄겠지만변동성잡힐까…가격왜곡막을해법은[삼전닉스레버리...",
@@ -6001,7 +5993,15 @@
   "세계는데이터센터규제하는데···한국은전력·용수공급약속[뉴스...",
   "[시대시평/강석훈]반도체,온기따로냉기따로",
   "유가또90달러위협…다시고개든'3고',한국경제압박",
-  "[CXMT가흔든D램패권]③DDR5→AI서버→HBM'순차공략...삼전닉스추..."
+  "[CXMT가흔든D램패권]③DDR5→AI서버→HBM'순차공략...삼전닉스추...",
+  "SK하이닉스ADR14%급등…AI메모리랠리재점화",
+  "“AI반도체다시달렸다”…나스닥1.3%↑,SK하이닉스ADR14%급등",
+  "코스피흔들리자다시美로…서학개미순매수5개월최대[코주부]",
+  "밖에선AI인재찾고안에선업무혁신…NHN의AX'승부수'",
+  "외국인코스피160조순매도…\"단기과매도지만중기불안여전\"",
+  "코스피,반등의서막일까…시총상위주목표가괴리율100%안팎",
+  "\"반도체폭락,1년전'학습→추론'과도기닮은꼴…가격말고가치보라...",
+  "SK하이닉스13.8%,마이크론12.2%↑...반도체주,일제히반등"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,33 @@
   [
    "2026-07-22T06:11:08.148146+09:00",
    "공략 AI HBM 삼전닉스 DDR5 서버 순차"
+  ],
+  [
+   "2026-07-22T06:20:59.297906+09:00",
+   "순매수 코스피 5개월 흔들리자 서학개미 다시"
+  ],
+  [
+   "2026-07-22T06:20:59.297906+09:00",
+   "AX NHN의 밖에선 AI 혁신 인재 승부수 업무 찾고 안에선"
+  ],
+  [
+   "2026-07-22T06:20:59.297906+09:00",
+   "코스피 순매도 중기 단기 외국인 불안 여전 160조 과매도지만"
+  ],
+  [
+   "2026-07-22T06:20:59.297906+09:00",
+   "코스피 상위주 안팎 목표가 서막일까 시총 반등의 괴리율"
+  ],
+  [
+   "2026-07-22T06:20:59.297906+09:00",
+   "학습 말고 1년 추론 반도체 폭락 가치 과도기 보라 닮은꼴 가격"
+  ],
+  [
+   "2026-07-22T06:20:59.297906+09:00",
+   "반도체주 마이크론 일제히 SK하이닉스 반등"
   ]
  ],
- "last_run": "2026-07-22T06:12:02.552972+09:00",
+ "last_run": "2026-07-22T06:21:20.822153+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
