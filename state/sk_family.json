@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6546343",
-  "http://www.newsprime.co.kr/news/article.html?no=739908",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=660193",
   "https://www.tokenpost.kr/news/market/376526",
   "https://www.sidae.com/article/2026071013283773642",
@@ -2999,11 +2997,11 @@
   "https://www.asiatime.co.kr/article/20260721500201",
   "https://www.newsis.com/view/NISX20260721_0003717000",
   "https://www.m-i.kr/news/articleView.html?idxno=1393583",
-  "https://www.joongangenews.com/news/articleView.html?idxno=534228"
+  "https://www.joongangenews.com/news/articleView.html?idxno=534228",
+  "https://www.mediawatch.kr/news/article.html?no=260425",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545930"
  ],
  "seen_titles": [
-  "[현장에서]최태원건드렸다'화들짝'…韓스튜어드십의현주소",
-  "[이슈+]'고객'잡는이재용·'자본'모으는최태원…美서AI반도체승부...",
   "SK하이닉스,ADR공모가149달러확정-美IPO사상첫'프리미엄프라이...",
   "SK하이닉스,美투자시장서도통했다…화려한나스닥데뷔",
   "SK하이닉스,오늘美나스닥상장…40조실탄쥔다",
@@ -6001,7 +5999,9 @@
   "하루만에뒤바뀐반도체시장전망…최태원의넓은'안목소견'",
   "이혜원중부재단명예이사장,이화여대건립기금5억원기부",
   "용인시의회,제10대전반기윤리특별위원회구성…위원장에김희영의...",
-  "[지방의회24時]김희영용인시의원,윤리특별위원장선출"
+  "[지방의회24時]김희영용인시의원,윤리특별위원장선출",
+  "최태원회장,한국경제성장해법제시…“자유의지존중하고제도...",
+  "SK하이닉스발'성과급후폭풍'…최태원회장,직접해결나서나?"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,17 @@
   [
    "2026-07-21T13:40:13.747470+09:00",
    "회장에 반도체박물관 제주 제안 조성"
+  ],
+  [
+   "2026-07-21T15:00:32.658655+09:00",
+   "존중하고 자유 한국 경제 제시 성장 의지 회장 해법 제도"
+  ],
+  [
+   "2026-07-21T15:00:32.658655+09:00",
+   "나서나 SK하이닉스발 후폭풍 성과급 해결 회장 직접"
   ]
  ],
- "last_run": "2026-07-21T14:50:25.754853+09:00",
+ "last_run": "2026-07-21T15:00:48.685452+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
