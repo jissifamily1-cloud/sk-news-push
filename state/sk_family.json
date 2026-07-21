@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12095551",
-  "https://imnews.imbc.com/replay/2026/nw1700/article/6836564_36981.html",
-  "https://www.sisajournal.com/news/articleView.html?idxno=379243",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260710172453Mg1",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039737",
-  "https://news.mtn.co.kr/news-detail/2026071016135992254",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519699",
   "http://www.srtimes.kr/news/articleView.html?idxno=207246",
   "https://www.mk.co.kr/article/12095656",
@@ -2999,15 +2993,15 @@
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=250598",
   "https://www.cbci.co.kr/news/articleView.html?idxno=590643",
   "https://www.etnews.com/20260721000309",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029498"
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029498",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47460",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160282941864635",
+  "http://www.breaknews.com/1223217",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=437465",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607211634245h2",
+  "https://biz.sbs.co.kr/article_hub/20000323691?division=NAVER"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,하이닉스'시총2000조'도약첫발뗀다",
-  "나란히미국향한이재용·최태원…AI반도체경쟁력알리기총력",
-  "[채널Who]'코리아디스카운트끝낸다'SK하이닉스최태원회장의AI세일...",
-  "사유가멈추면악은일상이된다[신간]",
-  "SK하이닉스오늘밤나스닥데뷔‥40조'잭팟'",
-  "[이한우시론]대통령의90도인사,우리현대사를다시묻다",
   "[퇴근길머니]'반도체투심회복'코스피상승…SK하이닉스,美증시데...",
   "구자은·장인화,몽골행…핵심광물·디지털협력확대모색",
   "최태원,나스닥오프닝벨…SK하이닉스'글로벌도약'신호탄",
@@ -6001,7 +5995,13 @@
   "[알펜시아주인들③]SK오너가와전문경영인,왜별장함께샀을까",
   "[기업家]SK그룹⑮ㅣAI데이터센터·반도체·친환경전략가속…글로...",
   "한양대재학생,교통약자이동돕는'캠퍼스배리어프리맵'제작",
-  "경기도의회찾은광역의회민주당대표의원들,'지방의회법'제정한목..."
+  "경기도의회찾은광역의회민주당대표의원들,'지방의회법'제정한목...",
+  "한국사회복지협의회,복지사각지대해소위한기부금전달식",
+  "한국사회복지협의회,‘복지사각지대’해소",
+  "용인특례시의회,제10대전반기윤리특별위원회구성",
+  "충남도의회교육위,직속기관업무점검...안전·포용교육주문",
+  "복구채못했는데다시폭우…\"장판또갈아야\"",
+  "[증시인사이트]반도체주강세·저가매수세유입에코스피반등성공"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-21T16:10:14.910054+09:00",
    "SK오너가와 함께 별장 전문경영인 샀을까"
+  ],
+  [
+   "2026-07-21T16:40:15.143073+09:00",
+   "강세 반도체주 성공 매수세 유입에 코스피 반등 저가"
   ]
  ],
- "last_run": "2026-07-21T16:30:34.212591+09:00",
+ "last_run": "2026-07-21T16:40:26.983755+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
