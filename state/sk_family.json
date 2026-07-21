@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846888",
-  "https://www.dt.co.kr/article/12072258",
-  "https://biz.sbs.co.kr/article_hub/20000321820?division=NAVER",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250004",
   "https://www.sidae.com/article/2026071016022688463",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442071",
   "https://www.mk.co.kr/article/12095551",
@@ -2999,13 +2995,13 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1307736&inflow=N",
   "https://www.m-joongang.com/news/articleView.html?idxno=402789",
   "https://www.m-joongang.com/news/articleView.html?idxno=402790",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252630&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252630&CMPT_CD=P0010",
+  "https://www.kmaeil.com/news/articleView.html?idxno=646002",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851433",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250598",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=590643"
  ],
  "seen_titles": [
-  "SK하이닉스,美나스닥입성…40조원조달AI투자가속",
-  "뉴욕월스트리트서빛난태극기…SK하이닉스,오늘美나스닥'역대급IP...",
-  "최태원회장,美나스닥등판…SK하이닉스기업가치재평가주목",
-  "SK하이닉스'나스닥입성'축하…뉴욕에뜬태극기",
   "빅트리아르케,‘2026미래내일일경험’서울청소년센터실무인턴모...",
   "[증시인사이트]SK하이닉스ADR나스닥상장…코스피상승세이어갈까",
   "최태원SK그룹회장,하이닉스'시총2000조'도약첫발뗀다",
@@ -6001,7 +5997,11 @@
   "TSMC,애리조나에140조더붓는다…미반도체투자전가열",
   "\"이재명대통령이참말로대단한사람이여!800조반도체공장을만들어...",
   "李정부'국가주도자본주의',반도체를선택했다",
-  "'3대메가프로젝트'의미래...이익은사유화,위험은사회화[소셜코리..."
+  "'3대메가프로젝트'의미래...이익은사유화,위험은사회화[소셜코리...",
+  "전국광역의회민주당연석회의개최…지방의회법제정추진뜻모아",
+  "이혼뒤주가5배↑…최태원·노소영재산분할변수되나",
+  "[알펜시아주인들③]SK오너가와전문경영인,왜별장함께샀을까",
+  "[기업家]SK그룹⑮ㅣAI데이터센터·반도체·친환경전략가속…글로..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,17 @@
   [
    "2026-07-21T15:50:15.676585+09:00",
    "메가프로젝트 미래 코리 사유화 이익은 소셜 사회화 위험은 3대"
+  ],
+  [
+   "2026-07-21T16:10:14.910054+09:00",
+   "전략 글로 가속 친환경 AI 데이터센터 반도체"
+  ],
+  [
+   "2026-07-21T16:10:14.910054+09:00",
+   "SK오너가와 함께 별장 전문경영인 샀을까"
   ]
  ],
- "last_run": "2026-07-21T16:00:44.778015+09:00",
+ "last_run": "2026-07-21T16:10:32.532297+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
