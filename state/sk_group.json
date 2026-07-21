@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=633680",
-  "https://www.sportsseoul.com/news/read/1623479",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260715.99099004557",
-  "https://www.mk.co.kr/article/12093632",
-  "https://news.tf.co.kr/read/economy/2344858.htm",
-  "https://www.g-enews.com/view.php?ud=202607201454502694153ddfb15a_1",
-  "https://www.insight.co.kr/news/563673",
   "https://www.sedaily.com/article/20069495",
   "https://www.gokorea.kr/news/articleView.html?idxno=872559",
   "https://www.g-enews.com/view.php?ud=202607201419435600923c501012_1",
@@ -2999,16 +2992,16 @@
   "https://www.seoul.co.kr/news/economy/securities/2026/07/22/20260722500004?wlog_tag3=naver",
   "https://www.news2day.co.kr/article/20260721500241",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6839107_37012.html",
-  "https://thetracker.co.kr/View.aspx?No=4157041"
+  "https://thetracker.co.kr/View.aspx?No=4157041",
+  "https://www.news2day.co.kr/article/20260722500011",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=875700",
+  "https://www.news1.kr/industry/general-industry/6234618",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=52605",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374377",
+  "https://www.dailian.co.kr/news/view/1669155/?sc=Naver",
+  "https://www.greened.kr/news/articleView.html?idxno=345609"
  ],
  "seen_titles": [
-  "안상훈\"말·행동따로노는李정권…국정운영전면쇄신해야\"",
-  "반도체공장증설경쟁,TSMC도합류했다",
-  "‘적중금2회연속이월’축구토토승무패39회차,1등적중자감감무...",
-  "김상욱울산시장에쓰오일에본사울산이전제안",
-  "\"AI쓰고도실적안오르면내부보고절차바꿔보세요\"",
-  "최태원회장\"복지사각지대해소위해더많은기업나서야\"",
-  "재주는운용사가,수익은증권사가…레버리지ETF열풍의'역설'",
   "나스닥과춤추는코스피...한국증시,글로벌투자심리가늠하는'바로...",
   "국제유가급등에볕든신재생株…SK이터닉스장중9%강세[이런국장저...",
   "SK오션플랜트,조선업계첫'E-WasteZero'협약…폐전자제품자원순환...",
@@ -6001,7 +5994,14 @@
   "[서울데이터랩]미국증시,반도체강세에일제히상승마감…나스닥1%...",
   "[N2포커스]롤러코스피’에지친개미들…국장서짐빼고美증시로",
   "\"지금이라도투자멈춰야\"‥\"신속히보완\"",
-  "SK팜테코,프랑스제네톤과파트너십…희귀질환치료제CDMO가속"
+  "SK팜테코,프랑스제네톤과파트너십…희귀질환치료제CDMO가속",
+  "뉴욕증시,반도체주반등·기업호실적에상승마감…나스닥1.29%↑",
+  "뉴욕증시,기업실적호조ㆍ반도체주반등에상승마감...나스닥1.3%↑",
+  "[N%후폭풍]③\"성과급은임금입니까아닙니까\"논쟁의시작이자끝",
+  "[이넷뉴스브랜드평판]두산에너빌리티,풍력에너지상장기업7월1위.....",
+  "'전북이어울산까지잡았다'인천,무고사PK결승골앞세워연승휘파...",
+  "부동산막더니증시는'레버리지도박판'…삼전·닉스논란국회로",
+  "마이크론12%·SOXL16%↑…반도체'방향'과레버리지'증폭'갈렸다"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,29 @@
   [
    "2026-07-22T06:41:01.708229+09:00",
    "SK팜테코 가속 프랑스 파트너십 희귀질환 치료제 제네톤과 CDMO"
+  ],
+  [
+   "2026-07-22T06:51:07.312766+09:00",
+   "성과급은 아닙니까 시작이자 논쟁의 임금입니까"
+  ],
+  [
+   "2026-07-22T06:51:07.312766+09:00",
+   "1위 7월 두산에너빌리티 풍력에너지 상장기업"
+  ],
+  [
+   "2026-07-22T06:51:07.312766+09:00",
+   "이어 울산까지 PK 인천 앞세워 무고사 연승 결승골 전북 잡았다 휘파"
+  ],
+  [
+   "2026-07-22T06:51:07.312766+09:00",
+   "도박판 국회로 논란 증시는 닉스 삼전 레버리지 부동산 막더니"
+  ],
+  [
+   "2026-07-22T06:51:07.312766+09:00",
+   "SOXL 증폭 반도체 마이크론 방향 레버리지 갈렸다"
   ]
  ],
- "last_run": "2026-07-22T06:41:15.412574+09:00",
+ "last_run": "2026-07-22T06:51:25.659001+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6738,6 +6758,7 @@
   "m-joongang.com": "월간중앙",
   "hinews.co.kr": "하이뉴스",
   "mygoyang.com": "고양신문",
-  "bbc.com": "BBC News 코리아"
+  "bbc.com": "BBC News 코리아",
+  "thesportstimes.co.kr": "thesportstimes.co.kr"
  }
 }
