@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311517",
-  "https://www.hankyung.com/article/202607118908i",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01243126645513536",
   "https://www.yna.co.kr/view/AKR20260711002300072?input=1195m",
   "http://www.fnnews.com/news/202607110153007130",
@@ -2999,11 +2997,11 @@
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43460",
   "https://www.dailian.co.kr/news/view/1665643/?sc=Naver",
   "https://www.newspim.com/news/view/20260710000280",
-  "https://www.m-i.kr/news/articleView.html?idxno=1390232"
+  "https://www.m-i.kr/news/articleView.html?idxno=1390232",
+  "https://www.kukinews.com/article/view/kuk202607210173",
+  "https://www.yna.co.kr/view/AKR20260721156700003?input=1195m"
  ],
  "seen_titles": [
-  "[일문일답]최태원회장\"메모리공급10배빨라져야\"",
-  "최태원SK회장\"AI수요,공급확대속도앞질러…메모리산업구조적...",
   "SK최태원\"나스닥상장역사적순간…AI수요여전히기하급수적증가...",
   "최태원\"SK하이닉스나스닥상장,꿈이현실로…AI반도체수요더욱증...",
   "최태원\"반도체투자속도지금보다10배빨라야…안그러면시장위축될...",
@@ -6001,10 +5999,21 @@
   "한-몽골비즈니스포럼개최…양국대통령참석,MOU21건체결",
   "한·몽골경제협력새국면…\"광물자원넘어미래산업으로\"",
   "KOTRA,몽골상담회서700만달러계약·MOU성과…소비재·ICT진출",
-  "李\"핵심광물공급망함께구축\"…한·몽경제협력확대드라이브"
+  "李\"핵심광물공급망함께구축\"…한·몽경제협력확대드라이브",
+  "‘평가시점’에쏠린눈…최태원재산분할24일결론,쟁점은",
+  "100대기업임원도고령화…평균연령54.2세,10년새1.1세↑"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-22T06:00:48.993191+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-22T06:10:14.748037+09:00",
+   "평가시점 쟁점은 재산분할 결론 쏠린 24일"
+  ],
+  [
+   "2026-07-22T06:10:14.748037+09:00",
+   "100대 임원도 2세 1세 10년 평균연령 기업 고령화"
+  ]
+ ],
+ "last_run": "2026-07-22T06:10:33.300075+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
