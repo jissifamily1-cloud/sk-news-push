@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6837514_37012.html",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441789",
-  "https://www.slist.kr/news/articleView.html?idxno=751821",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244227",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425000",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441907",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205997",
   "https://www.nocutnews.co.kr/news/6548204",
   "https://magazine.hankyung.com/business/article/202607155615b",
   "http://weekly.chosun.com/news/articleView.html?idxno=53458",
@@ -2999,16 +2992,16 @@
   "https://www.dt.co.kr/article/12073879",
   "https://biz.chosun.com/stock/finance/2026/07/21/UZ5WIYDMWRELHCEFUOFUBG7MY4/",
   "https://www.yna.co.kr/view/AKR20260721103800009?input=1195m",
-  "https://www.ytn.co.kr/_ln/0103_202607211421466743"
+  "https://www.ytn.co.kr/_ln/0103_202607211421466743",
+  "https://www.newsis.com/view/NISX20260721_0003716782",
+  "https://www.idaegu.com/news/articleView.html?idxno=664464",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141832",
+  "https://biz.heraldcorp.com/article/10815133",
+  "http://www.joseilbo.com/news/news_read.php?uid=572298&class=32",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260721143139M4L",
+  "https://www.cwn.kr/news/articleView.html?idxno=50708"
  ],
  "seen_titles": [
-  "잠실재검표주장하던국힘‥입장바꿔\"특검부터\"",
-  "[WhoIs?]방시혁하이브이사회의장",
-  "대한항공-아시아나합병후마일리지별도운영가능성",
-  "[오늘의주요일정·15일]민주노총,7·15총파업대회",
-  "[오늘재경부등경제부처일정]",
-  "[WhoIs?]김상경SFA대표이사",
-  "경찰'장윤기사건'서장·형사과장입건…지휘부본격수사",
   "박지원\"정청래,대선언급?김민석에한방먹인것\"[한판승부]",
   "“통합했는데따로운영?”대한항공마일리지논란지속",
   "'케타민1.9㎏'공항으로들여왔다…전직프로야구선수징역10년",
@@ -6001,7 +5994,14 @@
   "유병호메모보니…“尹‘두목’,관저이전은최고의결단”",
   "경찰,농협중앙회2차압수수색…‘공금으로회장기념품구매’의혹...",
   "대만검찰,반도체기밀유출시도TSMC前직원에징역7년형구형",
-  "검경,국수본동시압수수색...윗선외압있었나?[뉴스퀘어2PM]"
+  "검경,국수본동시압수수색...윗선외압있었나?[뉴스퀘어2PM]",
+  "'징계감경'배재고야구부,프로지명·대학진학에제도적걸림돌해...",
+  "TK,'호남반도체특례'공세…구자근\"20년규제특정지역위해푸나\"",
+  "'적자전환'쿠팡,과징금에화재까지…수익성'빨간불'",
+  "TSMC기밀중국에넘기려다덜미…대만검찰,前직원징역7년구형",
+  "'여중생성매매혐의'최영중전시의원,국힘제명확정...성매수등수...",
+  "[사건현장]분리수사적용윗선은?…검·경,국수본압수수색",
+  "장윤기사건경찰내부폭로...\"단순살인죄적용지시받았다\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 vs 격화 본업비율 공방 규제 캐피탈"
   ]
  ],
- "last_run": "2026-07-21T14:30:59.049831+09:00",
+ "last_run": "2026-07-21T14:40:50.722666+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
