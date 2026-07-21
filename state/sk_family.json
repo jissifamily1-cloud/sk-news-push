@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026071100210005936?did=NA",
-  "https://view.asiae.co.kr/article/2026071100453401165",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=86643",
   "https://www.yna.co.kr/view/AKR20260710172151071?input=1195m",
   "http://www.4th.kr/news/articleView.html?idxno=2114608",
@@ -2999,11 +2997,11 @@
   "https://www.apnews.kr/news/articleView.html?idxno=3049905",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717217",
   "https://www.businessplus.kr/news/articleView.html?idxno=114401",
-  "https://www.ilyosisa.co.kr/news/article.html?no=256993"
+  "https://www.ilyosisa.co.kr/news/article.html?no=256993",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5190",
+  "https://news.dealsitetv.com/articles/173509"
  ],
  "seen_titles": [
-  "SK하이닉스,나스닥시초가170달러…공모가대비14%↑",
-  "최태원SK회장\"반도체공급부족한동안지속될것…미국추가투자도...",
   "'나스닥상장'이끈최태원회장\"SK하이닉스역사적순간…수요급증,...",
   "최태원\"AI메모리수요,차원달라…생산두배늘려도부족\"",
   "최태원\"美AI·데이터센터에수백억달러투자…메모리팹도검토\"",
@@ -6001,7 +5999,9 @@
   "5배뛴SK주가·'별거20년'…최태원·노소영재산분할가를두기준",
   "젊은임원은오너일가중심…100대기업고령화뚜렷",
   "시총100대기업임원평균연령54.2세…10년새더늙고,젊은임원은오...",
-  "<김삼기의시사펀치>대통령은왜기업초과이윤회의멈췄나"
+  "<김삼기의시사펀치>대통령은왜기업초과이윤회의멈췄나",
+  "[인사이트뉴스]이재용·최태원·이해진·젠슨황이한자리에…AI동맹의...",
+  "[반도체피크아웃오나]슈퍼사이클지속…“가격시대가고물량시대..."
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-07-22T08:09:51.544454+09:00",
    "5배 재산분할 20년 별거 기준 주가 가를"
+  ],
+  [
+   "2026-07-22T08:20:13.005053+09:00",
+   "시대 물량 지속 가격 가고 슈퍼사이클"
   ]
  ],
- "last_run": "2026-07-22T08:11:27.134827+09:00",
+ "last_run": "2026-07-22T08:20:29.397725+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
