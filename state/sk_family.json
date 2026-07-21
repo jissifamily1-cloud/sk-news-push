@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyeonggi.com/article/20260710580402",
-  "https://www.m-i.kr/news/articleView.html?idxno=1390476",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1530284",
   "https://www.newdaily.co.kr/site/data/html/2026/07/10/2026071000251.html",
   "https://www.nocutnews.co.kr/news/6546624",
@@ -2999,11 +2997,11 @@
   "https://www.etoday.co.kr/news/view/2605857",
   "http://www.osen.co.kr/article/G1112843555",
   "https://www.idomin.com/news/articleView.html?idxno=2010580",
-  "https://www.jemin.com/news/articleView.html?idxno=840532"
+  "https://www.jemin.com/news/articleView.html?idxno=840532",
+  "https://www.nspna.com/news/?newsid=821306",
+  "https://www.tfmedia.co.kr/news/article.html?no=205919"
  ],
  "seen_titles": [
-  "이대통령,몽골대통령에국궁세트·스마트워치선물‥\"활쏘기양국...",
-  "李대통령,'경제사절단'과몽골국빈만찬참석…양국경제협력강화...",
   "최은석\"메가프로젝트,대통령퇴임후생각해김민석당대표만드려고...",
   "몽골국빈방문李대통령,후렐수흐대통령에‘국궁세트’선물",
   "李대통령,몽골대통령에국궁·스마트워치선물…경제인40여명동석",
@@ -6001,7 +5999,9 @@
   "용인특례시의회윤리특위사령탑에김희영…\"청렴의회지킴이되겠다\"",
   "김영광,교통사고후건넨소름돋는합의조건\"동승한가족들까지..\"...",
   "한국여성경제인협회경남지회어느덧'창립27년'",
-  "제주소상공인연합회,SK에반도체체험·학습관조성제안"
+  "제주소상공인연합회,SK에반도체체험·학습관조성제안",
+  "[오늘의행정일기]용인시의회,제10대전반기윤리특위출범…김희영...",
+  "[이슈체크]정의선회장,보스턴다이나믹스지분인수논란법조계판단..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-07-21T18:10:16.667397+09:00",
    "닮은 SK하이닉스 전략 기후 삼성전자와 다른"
+  ],
+  [
+   "2026-07-21T18:50:18.928127+09:00",
+   "정의선 법조계 판단 회장 논란 보스턴다이나믹스 지분 인수"
   ]
  ],
- "last_run": "2026-07-21T18:45:46.665568+09:00",
+ "last_run": "2026-07-21T18:50:32.534989+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6316,6 +6320,7 @@
   "jibs.co.kr": "jibs.co.kr",
   "samdailbo.com": "삼다일보",
   "m-joongang.com": "월간중앙",
-  "sisaweek.com": "시사위크"
+  "sisaweek.com": "시사위크",
+  "tfmedia.co.kr": "조세금융신문"
  }
 }
