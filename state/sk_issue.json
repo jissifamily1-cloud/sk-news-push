@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.korea.kr/news/reporterView.do?newsId=148967198&call_from=naver_news",
-  "https://www.consumuch.com/news/articleView.html?idxno=78490",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=206922",
-  "https://www.donga.com/news/Economy/article/all/20260708/134260135/1",
-  "https://www.tokenpost.kr/news/insights/375962",
-  "https://www.hankyung.com/article/2026070835511",
-  "https://www.dt.co.kr/article/12071917",
-  "https://www.segye.com/newsView/20260708520332?OutUrl=naver",
-  "http://www.fnnews.com/news/202607081822040947",
-  "https://www.ajunews.com/view/20260708140433130",
   "https://www.etnews.com/20260708000332",
   "https://www.hankookilbo.com/news/article/A2026070815050005326?did=NA",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307063",
@@ -2999,19 +2989,19 @@
   "http://www.segyebiz.com/newsView/20260721509778?OutUrl=naver",
   "https://www.gukjenews.com/news/articleView.html?idxno=3641524",
   "https://www.news1.kr/society/incident-accident/6233877",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666924&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666924&plink=ORI&cooper=NAVER",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=315319",
+  "http://www.dtnews24.com/news/articleView.html?idxno=813437",
+  "https://www.bloter.net/news/articleView.html?idxno=668521",
+  "https://www.m-economynews.com/news/article.html?no=68937",
+  "https://news.tf.co.kr/read/national/2345213.htm",
+  "https://www.newspim.com/news/view/20260721000560",
+  "https://www.newspim.com/news/view/20260721000556",
+  "https://www.newspim.com/news/view/20260721000557",
+  "https://www.newspim.com/news/view/20260721000552",
+  "https://www.newspim.com/news/view/20260721000553"
  ],
  "seen_titles": [
-  "에너지바우처신청으로더운여름을시원하게",
-  "'가습기살균제성분'호환필터…반년지나서야리콜안내",
-  "한국환경산업기술원,지속가능성공시대비'그린워싱대응'온라인세...",
-  "2028년부터자산10조원이상상장사ESG의무공시한다",
-  "ESG,암호화폐투자새잣대될까…바이낸스아카데미,비트코인에너지...",
-  "자산10조넘으면ESG공시의무화…상장사부담더커졌다",
-  "ESG공시,2년후‘법정의무’정부급발진에대기업‘발칵’",
-  "ESG법정공시직행…10조이상상장사2028년의무화",
-  "\"연결자산10조이상상장사,2028년부터ESG공시의무화\"",
-  "[속도내는ESG공시]ESG공시의무화'속도전'…2030년3490개사대상전...",
   "[사설]ESG법정공시,기업수용성대안세워야",
   "'30조→10조'오락가락지속가능성공시…\"검증·책임도없다\"",
   "ESG법정공시확정···KoSIF\"3년면책·스코프3유예재검토필요\"",
@@ -6001,7 +5991,17 @@
   "‘장윤기사건’수사지휘전형사과장구속심사…“윗선부당지시없...",
   "영세폐기물업체협박해3천만원갈취한인터넷신문기자3명구속",
   "경찰,농협중앙회재압수수색…'2억대고가기념품'의혹수사",
-  "'통일교수사무마'윤희근전경찰청장특검재소환…\"경찰,범죄기밀..."
+  "'통일교수사무마'윤희근전경찰청장특검재소환…\"경찰,범죄기밀...",
+  "신세계아카데미,신규클래스신설...가을학기접수시작",
+  "폐기물업체협박해수천만원뜯은기자구속",
+  "車보험잇단누수…'자생한방사태'여파에사기조사고삐죈다",
+  "합수본,중앙선관위압수수색...노태악'외유성출장의혹'겨냥",
+  "영세폐기물업체협박해돈뜯어낸인터넷신문사기자3명구속",
+  "국가수사본부압수수색나선경찰청장윤기사건관련진상규명특별수...",
+  "장윤기사건관련국가수사본부압수수색",
+  "검·경,국수본동시압수수색…‘장윤기사건’수사확대",
+  "장윤기사건관련진상규명특별수사단,국수본압수수색",
+  "경찰,'장윤기사건'국수본압색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 vs 격화 본업비율 공방 규제 캐피탈"
   ]
  ],
- "last_run": "2026-07-21T11:20:58.118117+09:00",
+ "last_run": "2026-07-21T11:31:03.226321+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
