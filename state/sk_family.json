@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25444030",
-  "https://www.newscj.com/news/articleView.html?idxno=3415985",
-  "https://www.hidomin.com/news/articleView.html?idxno=712744",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003807",
   "https://www.mediapen.com/news/view/1109393",
   "http://www.seouleconews.com/news/articleView.html?idxno=92321",
@@ -2999,12 +2996,12 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=829587",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615775",
   "https://news.tf.co.kr/read/economy/2345122.htm",
-  "https://www.ekn.kr/web/view.php?key=20260721023114022"
+  "https://www.ekn.kr/web/view.php?key=20260721023114022",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3641453",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450574",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=847681"
  ],
  "seen_titles": [
-  "[협력사의재발견③]이재용·최태원·구광모…오너들이키우는'상생생...",
-  "SK하이닉스,나스닥입성…40조원확보해AI반도체증설속도",
-  "SK하이닉스,ADR공모가149달러확정…'40조실탄'반도체영토확장",
   "‘40조실탄’장전한SK하이닉스…AI메모리증설속도",
   "SK하이닉스,오늘나스닥입성…40조투자실탄으로AI반도체초격차...",
   "SK하이닉스,美ADR149달러확정…40조원조달'프리미엄상장'",
@@ -6001,7 +5998,10 @@
   "김정민\"보아보다먼저日데뷔준비…故최진영'영원'부를뻔\"('라디오...",
   "[전격시사]김재연진보당상임대표-“6.3선거연대불발아쉬워”“...",
   "반도체성과급제도도마…이해관계자이익침해땐수정가능성제기",
-  "‘최태원신중론·美변수·증시폭락’…청와대‘반도체초과이익’논..."
+  "‘최태원신중론·美변수·증시폭락’…청와대‘반도체초과이익’논...",
+  "충남도의회\"이주배경학생지원강화\"…맞춤형프로그램·협의체제안",
+  "이화여대,동문이혜원중부재단명예이사장5억원기부",
+  "초과이윤,어디까지가초과?…기준없는재분배론에물음표"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-07-21T10:30:19.906066+09:00",
    "변수 청와대 증시폭락 신중론 반도체 초과이익"
+  ],
+  [
+   "2026-07-21T10:40:15.463830+09:00",
+   "재분배론에 초과 물음표 어디까지가 초과이윤 기준 없는"
   ]
  ],
- "last_run": "2026-07-21T10:30:34.764248+09:00",
+ "last_run": "2026-07-21T10:40:26.287832+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
