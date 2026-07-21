@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026072011504376890",
-  "https://www.newsis.com/view/NISX20260720_0003715116",
-  "https://news.mtn.co.kr/news-detail/2026072011335156735",
-  "https://www.hani.co.kr/arti/economy/finance/1268986.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614834",
   "https://m.skyedaily.com/news_view.html?ID=308134",
   "https://www.ajunews.com/view/20260720114704572",
@@ -2999,13 +2995,13 @@
   "https://news.jtbc.co.kr/article/NB12309451?influxDiv=NAVER",
   "http://www.kwangju.co.kr/article.php?aid=1784633100801457277",
   "http://www.kwangju.co.kr/article.php?aid=1784632800801455277",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839031_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839031_37004.html",
+  "https://www.aitimes.com/news/articleView.html?idxno=213013",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607210482&t=NN",
+  "http://www.kjdaily.com/article.php?aid=1784632768682850033",
+  "https://www.khan.co.kr/article/202607212027005"
  ],
  "seen_titles": [
-  "“이재명대통령의증시부양,레버리지ETF에발목”…지지율도횡보세...",
-  "‘블랙먼데이’코스피·코스닥매도사이드카",
-  "반도체쇼크에코스피패닉…사이드카발동,삼성전자·SK하이닉스급락",
-  "LG유플,'5G과장광고'소송대법간다…KT·SKT촉각",
   "코스피장중6500선붕괴…코스닥은52주신저가기록[장중시황]",
   "코스닥이어코스피도멈췄다…올해20번째'매도사이드카'",
   "레버리지예탁금상향에서학개미도유탄…\"개인만옥죈다\"불만",
@@ -6001,7 +5997,11 @@
   "'180%폭증'반도체선봉…7월수출'역대최대'찍었다",
   "“빅테크공급망2030압박…RE100답도호남에있다”",
   "민형배시장이어전남광주단체장국무회의멤버2명되나",
-  "국민연금,7월에하이닉스샀다‥\"상승여력있다\""
+  "국민연금,7월에하이닉스샀다‥\"상승여력있다\"",
+  "전국민무료'모두의AI'윤곽...\"개발기간·운영비·수익모델은숙제...",
+  "'삼천스닥'간다더니레버리지'유탄'…'-42%'코스닥개미'곡소리'",
+  "전남광주‘3개영재고’체제…반도체고도신설",
+  "‘피크아웃우려’삼전닉스조정장…비반도체실적주엔재평가의시간..."
  ],
  "recent_sigs": [
   [
@@ -7107,9 +7107,17 @@
   [
    "2026-07-21T20:31:17.239729+09:00",
    "하이닉스 국민연금 샀다 7월에 여력 있다 상승"
+  ],
+  [
+   "2026-07-21T20:33:00.782949+09:00",
+   "3개 신설 체제 전남광주 반도체고도 영재고"
+  ],
+  [
+   "2026-07-21T20:33:00.782949+09:00",
+   "재평가의 시간 우려 조정장 피크아웃 삼전닉스 실적주엔 비반도체"
   ]
  ],
- "last_run": "2026-07-21T20:31:30.082227+09:00",
+ "last_run": "2026-07-21T20:33:09.700752+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
