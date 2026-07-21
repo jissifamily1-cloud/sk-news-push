@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260710517894?OutUrl=naver",
-  "https://www.naeil.com/news/read/594992",
-  "https://biz.heraldcorp.com/article/10805371",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6836596_37004.html",
   "https://www.joongang.co.kr/article/25444141",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539125",
@@ -2999,12 +2996,12 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=82071",
   "https://www.mk.co.kr/article/12103574",
   "https://www.joongboo.com/news/articleView.html?idxno=363731955",
-  "https://www.joongboo.com/news/articleView.html?idxno=363731952"
+  "https://www.joongboo.com/news/articleView.html?idxno=363731952",
+  "http://www.samdailbo.com/news/articleView.html?idxno=267851",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616152",
+  "https://www.ceoscoredaily.com/page/view/2026072116425718629"
  ],
  "seen_titles": [
-  "李대통령,몽골대통령에국궁세트·스마트워치선물",
-  "李대통령,몽골대통령에국궁선물...국빈만찬에경제인40명",
-  "李대통령,몽골대통령에국궁선물…국빈만찬서경제협력도모(종합)",
   "李대통령,몽골대통령에게국궁세트선물…국빈만찬에선李작사곡등...",
   "이대통령,몽골국회의장·총리연쇄접견",
   "李,몽골만찬에경제사절단도동행靑“양국경제협력강화계기되길...",
@@ -6001,13 +5998,12 @@
   "SK하이닉스,美산호세·인디애나채용대폭확대…ADR상장호재속환...",
   "최태원회장의이유있는메모리역풍론[논설실Pick]",
   "제41회경기여성대회성료",
-  "2026경기여성경제인대회"
+  "2026경기여성경제인대회",
+  "행정혁신이끌AI도입에속도를내야",
+  "“지능을수출한다”미중AI경쟁,대한민국틈새는?…최태원대담①...",
+  "“7억원대반도체성과급,국민앞에더겸손해야”…삼성·SK,‘자성론..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-21T11:50:12.835546+09:00",
-   "아동 결식 방학 지원 행복얼라이언스 사회공헌 협력 민관 우려"
-  ],
   [
    "2026-07-21T12:00:31.569820+09:00",
    "최태원에 반도체 건넸다 공장 대신 제주 구상 소상공인 인재"
@@ -6107,9 +6103,13 @@
   [
    "2026-07-21T17:30:21.969313+09:00",
    "메모리 있는 이유 회장의 역풍론"
+  ],
+  [
+   "2026-07-21T17:50:15.140393+09:00",
+   "성과급 앞에 겸손해야 삼성 국민 자성론 반도체 7억원대"
   ]
  ],
- "last_run": "2026-07-21T17:40:26.267350+09:00",
+ "last_run": "2026-07-21T17:50:30.614123+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
