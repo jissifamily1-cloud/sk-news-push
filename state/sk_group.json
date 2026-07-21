@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607200099&t=NN",
-  "https://www.m-i.kr/news/articleView.html?idxno=1392944",
-  "https://edu.chosun.com/site/data/html_dir/2026/07/20/2026072080110.html",
-  "http://www.metroseoul.co.kr/article/20260720500315",
-  "https://www.seoultimes.news/news/article.html?no=2000097905",
-  "https://dhnews.co.kr/news/view/1065591378220945",
-  "https://www.sentv.co.kr/article/view/sentv202607200130",
-  "https://www.dailian.co.kr/news/view/1668763/?sc=Naver",
   "https://www.seoulfn.com/news/articleView.html?idxno=633680",
   "https://www.sportsseoul.com/news/read/1623479",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260715.99099004557",
@@ -2999,17 +2991,17 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717200",
   "https://www.news2day.co.kr/article/20260722500007",
   "https://www.hankyung.com/article/2026072280467",
-  "https://www.sedaily.com/article/20070248"
+  "https://www.sedaily.com/article/20070248",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441556",
+  "https://www.greened.kr/news/articleView.html?idxno=345608",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/22/2026072200009.html",
+  "https://www.ziksir.com/news/articleView.html?idxno=140749",
+  "https://www.seoul.co.kr/news/economy/securities/2026/07/22/20260722500004?wlog_tag3=naver",
+  "https://www.news2day.co.kr/article/20260721500241",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6839107_37012.html",
+  "https://thetracker.co.kr/View.aspx?No=4157041"
  ],
  "seen_titles": [
-  "[유노유농]'부상투혼'인천LG...악조건뚫고전국대회에서당당히3위...",
-  "삼전닉스레버리지이후흔들리는한국증시…하반기이후에는어떻게...",
-  "호르무즈재봉쇄에中빗장까지…삼성·SK,헬륨대체공급선확보사활",
-  "“반도체신입채용살아나나”…상반기공고1년새47%증가",
-  "원화값올라도엔화는약세…'초엔저'국내영향은?",
-  "[CEO워치]최태원의AI승부수…제주포럼서던진한마디,SK미래다시...",
-  "[한국기술교육대,2027수시특집]취업률82.8%전국1위,AI로학생맞...",
-  "“코스피,6000피가바닥권…피크아웃논의일러”",
   "안상훈\"말·행동따로노는李정권…국정운영전면쇄신해야\"",
   "반도체공장증설경쟁,TSMC도합류했다",
   "‘적중금2회연속이월’축구토토승무패39회차,1등적중자감감무...",
@@ -6001,7 +5993,15 @@
   "환율1470원대로내려가자다시'미장'…SK하이닉스ADR8000억쓸어담은...",
   "[N2모닝경제브리핑-7월22일]美증시,반도체주저가매수세유입속...",
   "이재용·최태원·이해진·젠슨황,미국서뭉친다…'AI어벤져스'집결",
-  "美메모리주,저가매수세에14%급등...홍해봉쇄우려에국제유가2%↑..."
+  "美메모리주,저가매수세에14%급등...홍해봉쇄우려에국제유가2%↑...",
+  "뉴욕증시,기업실적호조와반도체주강세등에나흘만반등⋯SK하이닉...",
+  "이재용·최태원·이해진,24일미국에서젠슨황등과만나'AI동맹'강...",
+  "뉴욕증시,'반도체주급반등'나스닥1.3%↑…유가급등은부담",
+  "뉴욕증시,'반도체주폭등'속나흘만에반등…S&P5007500선회복",
+  "[서울데이터랩]미국증시,반도체강세에일제히상승마감…나스닥1%...",
+  "[N2포커스]롤러코스피’에지친개미들…국장서짐빼고美증시로",
+  "\"지금이라도투자멈춰야\"‥\"신속히보완\"",
+  "SK팜테코,프랑스제네톤과파트너십…희귀질환치료제CDMO가속"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,25 @@
   [
    "2026-07-22T06:31:13.067990+09:00",
    "봉쇄 급등 우려에 메모리주 국제 홍해 저가매수세에 유가"
+  ],
+  [
+   "2026-07-22T06:41:01.708229+09:00",
+   "증시 상승 강세에 나스닥 미국 일제히 반도체 마감"
+  ],
+  [
+   "2026-07-22T06:41:01.708229+09:00",
+   "롤러코스피 빼고 국장서 증시로 지친 개미들"
+  ],
+  [
+   "2026-07-22T06:41:01.708229+09:00",
+   "멈춰야 투자 보완 지금이라도 신속히"
+  ],
+  [
+   "2026-07-22T06:41:01.708229+09:00",
+   "SK팜테코 가속 프랑스 파트너십 희귀질환 치료제 제네톤과 CDMO"
   ]
  ],
- "last_run": "2026-07-22T06:31:39.196420+09:00",
+ "last_run": "2026-07-22T06:41:15.412574+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
