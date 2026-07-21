@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=2026071105305749402aaae0046f_30",
   "https://www.aitimes.com/news/articleView.html?idxno=212651",
   "https://www.mt.co.kr/world/2026/07/11/2026071105452071882",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424479",
@@ -2999,10 +2998,10 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3642278",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450913",
   "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026072118084285823?feed=na",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=437514"
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=437514",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442809"
  ],
  "seen_titles": [
-  "SK하이닉스,나스닥데뷔첫날14%급등...AI메모리기대감반영",
   "S&P500,실적시즌기대에최고치눈앞…SK하이닉스美데뷔13%급등(종합...",
   "SK하이닉스,나스닥데뷔일'공모가比13%↑'...CNBC\"최태원,'상투론'...",
   "엔비디아4.03%↑,마이크론1.24%↓...반도체주,SK하이닉스상장영향...",
@@ -6001,13 +6000,10 @@
   "충남도의회교육위,14개교육지원청2026년주요업무점검…중학교학...",
   "박완수경남도지사\"인공지능시대,여성기업인이경남경제핵심주역\"",
   "반도체교육인프라제주,최태원에전달",
-  "충남도의회,통학·교권·지역교육짚었다...'학생중심정책'촉구"
+  "충남도의회,통학·교권·지역교육짚었다...'학생중심정책'촉구",
+  "[7월22일자]비즈니스포스트아침의주요기사"
  ],
  "recent_sigs": [
-  [
-   "2026-07-21T15:30:21.181596+09:00",
-   "주가 24일 결론 가른다 재산분할 기여도"
-  ],
   [
    "2026-07-21T15:40:13.642749+09:00",
    "끌어올린 메모리값 현실화에 확대 칩플레이션 AI가 공급 속도 내는"
@@ -6087,9 +6083,13 @@
   [
    "2026-07-21T21:10:16.021451+09:00",
    "최태원에 반도체 교육인프라 제주 전달"
+  ],
+  [
+   "2026-07-21T21:30:27.013597+09:00",
+   "아침의 비즈니스포스트 주요기사"
   ]
  ],
- "last_run": "2026-07-21T21:20:26.555389+09:00",
+ "last_run": "2026-07-21T21:30:39.187486+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
