@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://chmbc.co.kr/article/13965179",
-  "https://www.yna.co.kr/view/AKR20260714053752004?input=1195m",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307173&inflow=N",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307132&inflow=N",
-  "https://www.hankookilbo.com/news/article/A2026071416170001472?did=NA",
-  "https://www.hani.co.kr/arti/society/society_general/1268265.html",
   "https://www.nocutnews.co.kr/news/6548150",
   "https://www.busan.com/view/busan/view.php?code=2026071418052951168",
   "https://www.hankyung.com/article/202607145181i",
@@ -2999,15 +2993,15 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207081",
   "https://www.hani.co.kr/arti/area/honam/1269145.html",
   "https://www.kwnews.co.kr/article/20260721500082",
-  "http://www.srtimes.kr/news/articleView.html?idxno=207851"
+  "http://www.srtimes.kr/news/articleView.html?idxno=207851",
+  "https://www.ajunews.com/view/20260721093742819",
+  "https://imnews.imbc.com/replay/2026/nw930/article/6838843_36996.html",
+  "https://www.hidomin.com/news/articleView.html?idxno=713987",
+  "https://www.yna.co.kr/view/AKR20260721034000054?input=1195m",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000051070",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280140"
  ],
  "seen_titles": [
-  "투[리포트]검찰,강원도청압수수색..\"전정무직,수사대상포함\"",
-  "특검,심우정전검찰총장'내란중요임무'구속영장…16일심사(종합2보...",
-  "'투표용지사태'첫청문회…247만장재검표추진놓고'충돌'",
-  "장윤기사건'수사지휘부'소환·입건…부실수사속도",
-  "\"경찰서밖으로나오라\"더니느닷없이긴급체포…'수사조작'경찰관기...",
-  "대한체육회공정위,20일배재고‘6개월출전정지’재심논의",
   "'광주비하응원'배재고야구부,회생기회얻었다…체육회,20일공정...",
   "대한체육회,'스타벅스응원'배재고야구부징계재심결정",
   "'6개월출전정지'배재고야구부…20일대한체육회재심의열린다",
@@ -6001,7 +5995,13 @@
   "검경,'장윤기증거인멸의혹'국수본동시압수수색",
   "[속보]‘장윤기사건’검찰·경찰동시에국수본압수수색",
   "[속보]인천선관위소속직원숨진채발견…경찰,경위수사",
-  "캐피탈vs렌터카업계,'본업비율규제'공방격화"
+  "캐피탈vs렌터카업계,'본업비율규제'공방격화",
+  "[속보]'장윤기사건'검·경,국수본동시압수수색",
+  "경찰장윤기수사팀,경찰청국수본압수수색",
+  "검경,국수본동시압수수색…장윤기사건'윗선개입'수사확대",
+  "'장윤기'수사경찰관들\"단순살인죄적용,국수본이지시\"",
+  "검경,'장윤기사건'국수본동시압수수색",
+  "검경,장윤기사건부실수사의혹국수본동시압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카업계 vs 격화 본업비율 공방 규제 캐피탈"
   ]
  ],
- "last_run": "2026-07-21T09:31:06.613796+09:00",
+ "last_run": "2026-07-21T09:40:53.205692+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
