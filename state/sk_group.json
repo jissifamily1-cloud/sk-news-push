@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02427206645516488",
   "https://lawtalknews.co.kr/article/L9PJ9N70YDQK",
   "https://www.ppss.kr/news/articleView.html?idxno=302521",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206890",
@@ -2999,10 +2998,10 @@
   "https://www.idaegu.co.kr/news/articleView.html?idxno=554477",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244355",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442809",
-  "https://www.ikbc.co.kr/article/view/kbc202607210079"
+  "https://www.ikbc.co.kr/article/view/kbc202607210079",
+  "https://www.yna.co.kr/view/AKR20260721183000007?input=1195m"
  ],
  "seen_titles": [
-  "‘벤젠연기’덮인인천하늘…적층식랙에물품빽빽‘불쏘시개’로",
   "“코스피,과도한공포반영…7000선초중반서반등가능”",
   "선한의도가부른11조원대재앙,'삼전닉스ETF'상장폐지못하는진짜...",
   "실적좋은데왜떨어질까…반도체주급락의'역설'",
@@ -6001,7 +6000,8 @@
   "국힘\"정권비판틀어막고카지노증시만들었다\"",
   "쿠팡물류센터대형화재…올해초소방지적만'25건'",
   "[7월22일자]비즈니스포스트아침의주요기사",
-  "광주군공항,무안이전급물살...\"28일선정위분수령\""
+  "광주군공항,무안이전급물살...\"28일선정위분수령\"",
+  "[프로축구서귀포전적]제주1-1강원"
  ],
  "recent_sigs": [
   [
@@ -6919,9 +6919,13 @@
   [
    "2026-07-21T21:31:22.529986+09:00",
    "광주 28일 선정위 무안 급물살 공항 이전 분수령"
+  ],
+  [
+   "2026-07-21T21:41:01.541039+09:00",
+   "제주 강원"
   ]
  ],
- "last_run": "2026-07-21T21:31:44.299466+09:00",
+ "last_run": "2026-07-21T21:41:08.293235+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
