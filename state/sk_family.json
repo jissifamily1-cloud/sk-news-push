@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3049682",
-  "http://www.fnnews.com/news/202607111410470831",
   "https://economist.co.kr/article/view/ecn202607110016",
   "https://biz.heraldcorp.com/article/10805582",
   "http://www.yonhapnewstv.co.kr/news/AKR20260711140842DOk",
@@ -2999,11 +2997,11 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244375",
   "https://www.hankookilbo.com/news/article/A2026072211250003612?did=NA",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541117",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141900"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141900",
+  "https://www.ceoscoredaily.com/page/view/2026072214293276211",
+  "https://www.ajunews.com/view/20260722140522220"
  ],
  "seen_titles": [
-  "SK하이닉스나스닥상장첫날13%급등…40조'실탄'확보",
-  "[최태원의청년사다리②]\"경력같은신입\"…출발선앞당긴다",
   "최태원美방송등판에투심폭발…월가\"가장확실한AI대형주\"극찬",
   "\"AI시대승자확인\"SK하이닉스美데뷔에월가도들썩",
   "“AI메모리대장주왔다”…SK하이닉스美데뷔에월가도들썩",
@@ -6001,7 +5999,9 @@
   "하이닉스인텔공장인수설하루만에반박…\"추진사실없어\"",
   "'영업이익N%성과급'다시뇌관되나...SK하이닉스노사집중교섭",
   "이재용·최태원·정의선·이해진,이번주젠슨황만난다",
-  "삼성만끝낸'임단협'…대기업노사관계새쟁점된'성과배분의룰'"
+  "삼성만끝낸'임단협'…대기업노사관계새쟁점된'성과배분의룰'",
+  "이재용·최태원,미국서젠슨황만난다…‘베라루빈’출시앞두고,H...",
+  "AI거물들美총집결…고점서최대39%빠진AI株반등계기될까"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,13 @@
   [
    "2026-07-22T14:50:13.649082+09:00",
    "대기업 쟁점 임단협 노사관계 성과 배분의 삼성만 끝낸"
+  ],
+  [
+   "2026-07-22T15:00:32.970730+09:00",
+   "반등 AI 고점서 거물들 빠진 총집결 계기될까"
   ]
  ],
- "last_run": "2026-07-22T14:50:27.168535+09:00",
+ "last_run": "2026-07-22T15:00:44.323384+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
