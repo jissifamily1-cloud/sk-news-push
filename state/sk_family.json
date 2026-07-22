@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026071112260004189?did=NA",
-  "https://biz.heraldcorp.com/article/10805521",
-  "https://www.ytn.co.kr/_ln/0102_202607111245345516",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355819",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83207",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=355818",
   "https://www.job-post.co.kr/news/articleView.html?idxno=220777",
   "https://www.yna.co.kr/view/AKR20260711030400072?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1531466",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42547",
   "https://view.asiae.co.kr/article/2026072211290352311",
-  "https://news.tf.co.kr/read/economy/2345799.htm"
+  "https://news.tf.co.kr/read/economy/2345799.htm",
+  "https://www.kmaeil.com/news/articleView.html?idxno=646154",
+  "https://www.ddaily.co.kr/page/view/2026072213320556761",
+  "https://news.mtn.co.kr/news-detail/2026072211400129164",
+  "https://news.mtn.co.kr/news-detail/2026072210432860549",
+  "https://www.mt.co.kr/industry/2026/07/22/2026072213363141388"
  ],
  "seen_titles": [
-  "SK하이닉스,美나스닥첫날13%폭등…외국기업역사상최대규모IPO...",
-  "최태원\"반도체수급주기구조적으로변화\"…미국공장건설도검토",
-  "30%폭락설마했는데…“빨리팔아라”“이젠끝물이다”반도체공포...",
-  "SK최태원\"미국에메모리생산공장도가능\"",
-  "[하이닉스나스닥상장]SK하이닉스,나스닥첫날168달러로급등마감…...",
   "SK하이닉스,美나스닥에ADR상장…글로벌자본시장입성",
   "[하이닉스나스닥상장]최태원\"AI분야수백억달러투자…HBM수요기하...",
   "나스닥삼킨SK하이닉스,40조'잭팟'터졌다...K-반도체만년저평가설...",
@@ -6001,13 +5996,14 @@
   "이재용·최태원·이해진,미국집결…젠슨황과회동",
   "이재용·최태원·이해진,美서젠슨황회동추진…AI공급망협력가능...",
   "까다로운해외법망뚫어라…K기업우군나선로펌[Invest&Law]",
-  "100대기업임원평균54.2세…젊은임원대부분오너일가"
+  "100대기업임원평균54.2세…젊은임원대부분오너일가",
+  "경기도의회최종현의원,공공건축물인권영향평가조속시행촉구",
+  "SK하이닉스美인텔오하이오공장인수설일축…\"계획없다\"부인",
+  "SK하이닉스\"인텔오하이오공장인수계획없다\"",
+  "이재용·최태원·이해진,젠슨황과美회동…AI협력구체화하나",
+  "이재용·최태원·정의선·이해진,美실리콘밸리서젠슨황만난다"
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T07:40:15.290010+09:00",
-   "대통령의 뒷말 17억 낳은 근저당 설정"
-  ],
   [
    "2026-07-22T08:00:28.220199+09:00",
    "공산주의 오픈 흔들고 판을 모델이 중국산 웨이트 슬로우 AI 있다"
@@ -6145,7 +6141,7 @@
    "기업 오너 평균 2세 일가 젊은 임원 100대 대부분"
   ]
  ],
- "last_run": "2026-07-22T13:40:28.810038+09:00",
+ "last_run": "2026-07-22T13:50:23.880047+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
