@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=153534",
-  "https://www.news1.kr/politics/general-politics/6234156",
   "https://www.mk.co.kr/article/12103392",
   "https://www.dt.co.kr/article/12073897",
   "https://news.tf.co.kr/read/economy/2345394.htm",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20070751",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=52652",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61861",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670377&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670377&plink=ORI&cooper=NAVER",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546003",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470680"
  ],
  "seen_titles": [
-  "[기자수첩]반도체설국열차,엔진이꺼진다면",
-  "Seoulstockscloseover3pcthigheronchiprebound",
   "원·달러환율,5.0원내린1473.4원마감(종합)",
   "SKT·KT·LG유플러스,\"휴가철로밍·멤버십우리가최고\"",
   "[인터뷰전문]이인선\"李대통령은'부동산천재',정권은'부동산잔혹...",
@@ -6001,7 +5999,9 @@
   "용인반도체팹도속도전…국가산단전력공급,2042년까지마친다[Pick코...",
   "[이넷뉴스브랜드평판]삼성SDI,전력저장장치ESS상장기업7월1위...L...",
   "SK스토아인수신청돌연철회…방미통위\"승인없이경영권행사했는지...",
-  "샌프란서'빅테크CEO'만난다…'깜짝발표'나올까?"
+  "샌프란서'빅테크CEO'만난다…'깜짝발표'나올까?",
+  "SK하이닉스,인텔오하이오공장'인수'대신'운영파트너'참여검토",
+  "디에이치선두지켰다…롯데건설르엘·DK아시아로열파크씨티추격"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,17 @@
   [
    "2026-07-23T06:56:48.217202+09:00",
    "빅테크 CEO 나올까 만난다 발표 깜짝 샌프란서"
+  ],
+  [
+   "2026-07-23T07:01:19.513514+09:00",
+   "공장 오하이오 SK하이닉스 인텔 인수 검토 파트너 대신 운영 참여"
+  ],
+  [
+   "2026-07-23T07:01:19.513514+09:00",
+   "르엘 디에이치 로열파크씨티 지켰다 롯데건설 선두 추격 DK아시아"
   ]
  ],
- "last_run": "2026-07-23T06:57:17.170522+09:00",
+ "last_run": "2026-07-23T07:01:28.312038+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
