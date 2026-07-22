@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846920",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165626",
-  "https://economist.co.kr/article/view/ecn202607110003",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155133",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205231",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155136",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2229683",
   "https://www.bloter.net/news/articleView.html?idxno=667855",
   "https://www.tournews21.com/news/articleView.html?idxno=138389",
@@ -2999,15 +2993,15 @@
   "https://www.news2day.co.kr/article/20260722500048",
   "https://www.itdaily.kr/news/articleView.html?idxno=240517",
   "https://www.newsis.com/view/NISX20260722_0003718296",
-  "http://www.joseilbo.com/news/news_read.php?uid=572357&class=17"
+  "http://www.joseilbo.com/news/news_read.php?uid=572357&class=17",
+  "https://www.g-enews.com/view.php?ud=202607221011185629d6b0ab7f1c_1",
+  "https://www.wikitree.co.kr/articles/1147726",
+  "https://www.joongangenews.com/news/articleView.html?idxno=534425",
+  "https://www.sidae.com/article/2026072210292816587",
+  "https://imnews.imbc.com/news/2026/econo/article/6839177_36932.html",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426185"
  ],
  "seen_titles": [
-  "SK하이닉스,나스닥첫날13%폭등…뉴욕증시일제히상승",
-  "이재용'파운드리'vs최태원'메모리세일즈'…삼성·SK,미국행주목",
-  "최태원\"메모리수요,예상보다훨씬크다\"",
-  "최태원회장,AI메모리수요에'구조적성장'자신\"반도체,이제사이...",
-  "SK하이닉스,나스닥데뷔첫날공모가13%웃돌아…美투자자들\"AI성장...",
-  "'나스닥상장'최태원\"AI는이제4~5살\"…반도체슈퍼사이클자신한이...",
   "최태원회장,\"반도체,더이상과거의사이클산업아냐\"…AI시대구조...",
   "SK하이닉스,美나스닥입성…투자접근성높이고글로벌위상강화",
   "SK하이닉스,나스닥데뷔첫날13%급등…AI투자열기지속",
@@ -6001,7 +5995,13 @@
   "[재계인사이드]삼성,SK발‘초대형M＆A설’의근거",
   "실리콘밸리향하는재계총수들…'AI동맹'짜러간다",
   "'깐부형님효과'다시통할까…젠슨황회동에반도체株'촉각'",
-  "마이크론12%폭등에국내반도체주도덩달아'들썩'[칩칩폭폭]"
+  "마이크론12%폭등에국내반도체주도덩달아'들썩'[칩칩폭폭]",
+  "화성시'그냥드림',전국상공회의소가참여...범국가모델확산",
+  "젠슨황·이재용미국서한자리에모인다…전세계AI판도뒤흔들'초...",
+  "\"年7억성과급에5억대출까지\"…SK하이닉스노조,또청구서꺼냈다(종...",
+  "이재용·최태원·이해진,미국서젠슨황만난다…AI혈맹재확인",
+  "이재용·최태원·이해진,미국서젠슨황만날듯",
+  "SK하이닉스환전자금덕분에…'백투백'우려에도단기채에매수몰린다"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-07-22T10:30:20.782535+09:00",
    "마이크론 덩달아 국내 들썩 폭등에 반도체주도"
+  ],
+  [
+   "2026-07-22T10:40:15.082603+09:00",
+   "SK하이닉스 몰린다 환전자금 우려에도 매수 덕분에 백투백 단기채에"
   ]
  ],
- "last_run": "2026-07-22T10:30:45.380315+09:00",
+ "last_run": "2026-07-22T10:40:26.673677+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
