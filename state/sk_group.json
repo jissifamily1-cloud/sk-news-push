@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202607150156",
-  "https://www.sedaily.com/article/20068145",
-  "https://www.newsis.com/view/NISX20260715_0003710796",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088481",
   "https://www.tokenpost.kr/news/economy/378035",
   "https://www.hani.co.kr/arti/economy/marketing/1268364.html",
   "https://daily.hankooki.com/news/articleView.html?idxno=1386289",
@@ -2999,13 +2995,13 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207422",
   "https://www.segye.com/newsView/20260722511960?OutUrl=naver",
   "https://www.catchnews.kr/news/articleView.html?idxno=126419",
-  "https://www.kizmom.com/news/articleView.html?idxno=111678"
+  "https://www.kizmom.com/news/articleView.html?idxno=111678",
+  "https://view.asiae.co.kr/article/2026072212431024021",
+  "https://www.ngonews.kr/news/articleView.html?idxno=233515",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669117&plink=ORI&cooper=NAVER",
+  "https://www.fntimes.com/html/view.php?ud=2026072212250762267492587736_18"
  ],
  "seen_titles": [
-  "충남도,첨단산업투자활성화기업맞춤형신속지원체계본격가동",
-  "충남도,삼성·SK와맞손...'첨단산업투자지원체계'본격가동",
-  "[통하는충남]박수현지사“道재정상황엄중하나,이역시도내책임...",
-  "충남,‘202조원첨단산업투자’속도높인다",
   "충남도,202조원첨단산업투자속도높인다",
   "충남도'202조원첨단산업투자'속도높인다",
   "금융위,하반기에도가계대출1.5%로강력규제",
@@ -6001,25 +5997,13 @@
   "주주단체,노동장관·삼전닉스대표고발…\"성과급교섭대상아냐\"",
   "영진전문대,정밀측정산업기사7년연속‘전원합격’",
   "\"데이터로외국인경제생활분석이민정책지원\"신한카드,SKT·KCB·이민...",
-  "서학개미4조원베팅…가장많이산미국주식은'속슬'"
+  "서학개미4조원베팅…가장많이산미국주식은'속슬'",
+  "코스피,5%급등후횡보…코스닥은하락후상승",
+  "대한민국주주운동본부,고용노동부장관·삼성전자대표·SK하이닉스대...",
+  "추미애,소부장업체간담회…반도체대기업상생안요구",
+  "‘캐즘에계륵전락’SK전기차삼형제,정상화는언제쯤"
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T06:41:01.708229+09:00",
-   "증시 상승 강세에 나스닥 미국 일제히 반도체 마감"
-  ],
-  [
-   "2026-07-22T06:41:01.708229+09:00",
-   "롤러코스피 빼고 국장서 증시로 지친 개미들"
-  ],
-  [
-   "2026-07-22T06:41:01.708229+09:00",
-   "멈춰야 투자 보완 지금이라도 신속히"
-  ],
-  [
-   "2026-07-22T06:41:01.708229+09:00",
-   "SK팜테코 가속 프랑스 파트너십 희귀질환 치료제 제네톤과 CDMO"
-  ],
   [
    "2026-07-22T06:51:07.312766+09:00",
    "성과급은 아닙니까 시작이자 논쟁의 임금입니까"
@@ -7199,9 +7183,17 @@
   [
    "2026-07-22T12:41:01.642073+09:00",
    "베팅 가장 속슬 미국 서학개미 주식은 4조원 많이"
+  ],
+  [
+   "2026-07-22T12:45:46.651925+09:00",
+   "상생안 간담회 소부장업체 추미애 대기업 반도체 요구"
+  ],
+  [
+   "2026-07-22T12:45:46.651925+09:00",
+   "계륵 정상화는 삼형제 캐즘에 언제쯤 전기차 전락"
   ]
  ],
- "last_run": "2026-07-22T12:41:07.387408+09:00",
+ "last_run": "2026-07-22T12:45:55.279413+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
