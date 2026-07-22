@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250545&CMPT_CD=P0010",
-  "https://www.sedaily.com/article/20066493",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273597",
   "http://www.lkp.news/news/articleView.html?idxno=81817",
   "https://www.news1.kr/local/gwangju-jeonnam/6224909",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608232",
@@ -2999,12 +2996,12 @@
   "https://www.mediawatch.kr/news/article.html?no=260433",
   "http://www.00news.co.kr/news/articleView.html?idxno=105299",
   "http://www.globalepic.co.kr/view.php?ud=20260722112917725648439a4874_29",
-  "https://www.joongang.co.kr/article/25447086"
+  "https://www.joongang.co.kr/article/25447086",
+  "https://www.redian.org/news/articleView.html?idxno=256984",
+  "https://www.seoultimes.news/news/article.html?no=2000097993",
+  "https://biz.sbs.co.kr/article_hub/20000323877?division=NAVER"
  ],
  "seen_titles": [
-  "최태원\"빅테크HBM수요,예상압도…메모리성장세막을방법없다\"",
-  "SK하이닉스,나스닥입성…'경쟁사'마이크론단숨에제쳤다",
-  "美투자에정치신경안쓴다는최태원의“검토”[트럼프스톡커]",
   "최태원\"미국메모리공장도검토\"…SK하이닉스대미투자확대가능성",
   "SK하이닉스,ADR상장및거래개시…최태원회장등'오프닝벨'행사...",
   "광주찾은與당권주자'반도체·삼성·문재인'민심잡기3인3색",
@@ -6001,7 +5998,10 @@
   "이재용·최태원·이해진·젠슨황,美서만난다…글로벌AI인프라협력...",
   "이재용·최태원·이해진,젠슨황과또뭉친다",
   "삼전닉스,성과급논란다시불붙나",
-  "베라루빈시대연엔비디아…한·미AI수장회동추진"
+  "베라루빈시대연엔비디아…한·미AI수장회동추진",
+  "이재용·최태원·이해진,젠슨황과회동추진...AI협력확대논의",
+  "[이슈]이재용·최태원·이해진,실리콘밸리집결…젠슨황과AI공급망...",
+  "SK하닉,삼성따라주식성과급?…노사갈등재점화"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-07-22T11:40:14.053396+09:00",
    "AI 베라 엔비디아 수장 루빈 회동 시대"
+  ],
+  [
+   "2026-07-22T11:50:13.394223+09:00",
+   "주식 갈등 SK하닉 삼성 따라 노사 재점화 성과급"
   ]
  ],
- "last_run": "2026-07-22T11:40:28.529230+09:00",
+ "last_run": "2026-07-22T11:50:28.192379+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
