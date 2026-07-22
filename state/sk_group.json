@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202607211332001",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450681",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42522",
-  "https://view.asiae.co.kr/article/2026072113381514944",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16101",
-  "http://www.samdailbo.com/news/articleView.html?idxno=267828",
-  "http://www.fnnews.com/news/202607211310516201",
-  "https://www.greened.kr/news/articleView.html?idxno=345540",
-  "https://www.donga.com/news/Politics/article/all/20260721/134334996/1",
   "https://www.newspim.com/news/view/20260721000661",
   "https://www.hankyung.com/article/202607216764h",
   "https://www.hani.co.kr/arti/economy/finance/1269202.html",
@@ -2999,18 +2990,18 @@
   "https://www.seoul.co.kr/news/economy/2026/07/23/20260723032001?wlog_tag3=naver",
   "http://www.areyou.co.kr/news/articleView.html?idxno=94577",
   "https://www.ikbc.co.kr/article/view/kbc202607220047",
-  "https://www.newsis.com/view/NISX20260722_0003719381"
+  "https://www.newsis.com/view/NISX20260722_0003719381",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442909",
+  "https://www.dailian.co.kr/news/view/1669806/?sc=Naver",
+  "http://www.jndn.com/article.php?aid=1784718680436510093",
+  "https://dealsite.co.kr/articles/165767",
+  "https://www.econovill.com/news/articleView.html?idxno=745860",
+  "https://www.siminsori.com/news/articleView.html?idxno=400651",
+  "http://www.newstomato.com/ReadNews.aspx?no=1307949&inflow=N",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16143102",
+  "https://www.ekn.kr/web/view.php?key=20260722029165041"
  ],
  "seen_titles": [
-  "'삼전닉스'반등에코스피4%강세…나흘연속사이드카",
-  "코스피,5%급등에매수사이드카…올해19번째발동",
-  "코스피,4%급등에매수사이드카발동…삼전·닉스5~7%↑",
-  "SK인텔릭스·카이스트,'웰니스로보틱스'기반고도화위한업무협약...",
-  "삼성자산운용,3분기실전연금투자가이드북발간",
-  "화해글로벌,새수장에임정현전SBXG대표",
-  "CDM사업6.4조전환대거배제",
-  "최태원SK회장에'제주반도체박물관'조성제안",
-  "\"세계에서가장불안한도박장됐다\"하루8%출렁인한국증시",
   "[데이터뉴스룸]에너지업체50곳중22곳임원연봉2억넘어…인천도...",
   "[단독]당정‘증손회사’규제완화에…공정위“과도한지배력확대우...",
   "\"레버리지ETF예탁금상향한계,현금거래의무화검토해야\"",
@@ -6001,7 +5992,16 @@
   "‘극한의롤러코스피’올해40번째사이드카…이번달‘거의매일’",
   "[아유경제_특집]2026년부동산대토론회…공급부터금융까지'정책공...",
   "강위원전전남경제부지사\"행정속도가장중요…역진불가능한반도체...",
-  "미·이란종전합의때호르무즈빠져나온원유선,여수서하역"
+  "미·이란종전합의때호르무즈빠져나온원유선,여수서하역",
+  "SK하이닉스청주패키징공장건설에7조앞당겨투입,'수요대응'위한...",
+  "방미통위\"SK스토아인수···라포랩스자진취하로종료\"",
+  "김민석전총리“호남반도체클러스터당력집중명운걸겠다”",
+  "SK하이닉스,청주P&T7에7조931억…거점확보속도",
+  "SK하이닉스,청주P&T7에7조투입…AI메모리후공정투자속도",
+  "이상일용인특례시장,\"용인반도체국가산단전력·용수공급절박\"",
+  "SK하이닉스,청주패키징팹에7.1조투자…건설앞당겨",
+  "'저속노화'정희원,사생활논란후주식시장분석가로전향한이유?",
+  "[현장]“춤은못춰도손은흔들어요”…K-디스플레이달군로봇"
  ],
  "recent_sigs": [
   [
@@ -7123,9 +7123,17 @@
   [
    "2026-07-22T20:11:07.013120+09:00",
    "나온 종전 빠져 이란 여수서 하역 합의 호르무즈 원유선"
+  ],
+  [
+   "2026-07-22T20:18:39.420033+09:00",
+   "이유 저속노화 주식시장 사생활 논란 전향한 분석가로 정희원"
+  ],
+  [
+   "2026-07-22T20:18:39.420033+09:00",
+   "손은 로봇 흔들어요 달군 춤은 춰도 디스플레이"
   ]
  ],
- "last_run": "2026-07-22T20:11:22.852399+09:00",
+ "last_run": "2026-07-22T20:18:48.556651+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
