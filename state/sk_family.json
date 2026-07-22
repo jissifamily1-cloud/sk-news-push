@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportschosun.com/sports-news/2026-06-26/202606250100181970011983",
-  "https://www.newsis.com/view/NISX20260712_0003705766",
-  "https://www.hankyung.com/article/202607129994i",
-  "https://kpenews.com/View.aspx?No=4145841",
-  "https://www.newsis.com/view/NISX20260625_0003683825",
   "https://www.news1.kr/sports/general-sport/6208283",
   "https://www.sportschosun.com/sports-news/2026-06-25/202606250100175630011556",
   "https://www.starnewskorea.com/sports/2026/06/24/2026062418504548629",
@@ -2999,14 +2994,14 @@
   "https://www.munhwa.com/article/11604331",
   "https://www.ziksir.com/news/articleView.html?idxno=140878",
   "http://www.yonhapnewstv.co.kr/news/MYH202607221823561O9",
-  "http://www.newsprime.co.kr/news/article.html?no=741156"
+  "http://www.newsprime.co.kr/news/article.html?no=741156",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079027",
+  "https://www.dailian.co.kr/news/view/1669791/?sc=Naver",
+  "https://www.mediapen.com/news/view/1111635",
+  "https://www.hankookilbo.com/news/article/A2026072217490000448?did=NA",
+  "https://www.sedaily.com/article/20070672"
  ],
  "seen_titles": [
-  "'SK의오너리스크'라는최신원명예회장,7억시세차익남긴제주별장",
-  "\"내사비로라도칼사줄게,우리선수들지원차질없도록\"亞선수권전원...",
-  "삼성·SK,반도체팹증설'속도전'…국내앞당기고미국추가투자저울...",
-  "SK하이닉스,ADR흥행에액면분할도호재...13일주가뛸까",
-  "SK하이닉스,40조조달이후글로벌IR본격화..최태원회장뉴욕무대에",
   "한국펜싱,金4개로아시아선수권마무리…참가선수전원메달",
   "'봉쇄시위로칼빌려출전'펜싱대표팀전원메달'해피엔딩'",
   "\"함께일때더강한K-펜싱\"女에페中에44-43,1점차짜릿승!亞선수권...",
@@ -6001,7 +5996,12 @@
   "李대통령,샌프란서젠슨황만난다…24일부터美·남미·獨방문",
   "李대통령,미국빅테크·남미정상만난다…AI·자원외교시동",
   "'삼겹살회동'한달만에…AI거물들다시뭉친다",
-  "李,24~8월3일까지美·남미3개국순방길올라"
+  "李,24~8월3일까지美·남미3개국순방길올라",
+  "이대통령,미국·남미순방나선다…AI·경제협력강화행보",
+  "이재용·최태원·정의선,李대통령순방지원…'AI외교'힘싣는다",
+  "이대통령,미국서오픈AI·엔비디아·앤트로픽·브로드컴CEO만난다",
+  "이대통령,미·남미순방...24일샌프란서젠슨황·샘올트먼만난다",
+  "李,이재용·최태원과방미…샘올트먼·젠슨황만난다"
  ],
  "recent_sigs": [
   [
@@ -6165,7 +6165,7 @@
    "남미 올라 3개국 순방길 8월3일까지"
   ]
  ],
- "last_run": "2026-07-22T18:30:39.830055+09:00",
+ "last_run": "2026-07-22T18:40:25.752129+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
