@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260626000502",
-  "https://news.tf.co.kr/read/life/2336873.htm",
   "http://www.joseilbo.com/news/news_read.php?uid=570799&class=32",
   "https://www.news1.kr/society/court-prosecution/6209326",
   "https://news.tf.co.kr/read/photomovie/2336843.htm",
@@ -2999,11 +2997,11 @@
   "http://www.fnnews.com/news/202607230635079191",
   "https://www.segye.com/newsView/20260723500191?OutUrl=naver",
   "https://biz.sbs.co.kr/article_hub/20000324062?division=NAVER",
-  "https://www.newsway.co.kr/news/view?ud=2026072216300058245"
+  "https://www.newsway.co.kr/news/view?ud=2026072216300058245",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02692886645517472",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253267&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "최태원-노소영,'세기의재산분할'파기환송심내달24일선고(종합)",
-  "[종합]최태원·노소영'재산분할'파기환송심50분만에종료...내달24일...",
   "최태원·노소영'세기의재산분할'내달24일선고",
   "최태원·노소영,재산분할파기환송심재개...崔\"잘마치고오겠다\"",
   "최태원-노소영,'세기의재산분할'파기환송심내달24일결론",
@@ -6001,7 +5999,9 @@
   "'삼전·닉스'주가롤러코스터…셈법복잡해지는개미들",
   "[청와대스케치]李대통령“의료수가제도,정말제대로책정돼있느...",
   "[증시전략]알파벳2분기자본지출449억달러,예상치소폭상회",
-  "AI가깨운'은둔의경영자'…네이버이해진,경영전면서광폭행보"
+  "AI가깨운'은둔의경영자'…네이버이해진,경영전면서광폭행보",
+  "“하이닉스,인텔오하이오공장인수아닌협력가능성”",
+  "SK하이닉스,'사업적자해행위'하면안된다[반도체특별과외]"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,17 @@
   [
    "2026-07-23T07:20:14.550156+09:00",
    "AI가 이해진 깨운 광폭 은둔의 전면서 네이버 행보 경영자 경영"
+  ],
+  [
+   "2026-07-23T07:30:20.806473+09:00",
+   "인수 가능성 인텔 공장 하이닉스 오하이오 아닌 협력"
+  ],
+  [
+   "2026-07-23T07:30:20.806473+09:00",
+   "된다 하면 자해행위 SK하이닉스 사업적"
   ]
  ],
- "last_run": "2026-07-23T07:20:27.632886+09:00",
+ "last_run": "2026-07-23T07:30:36.087958+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
