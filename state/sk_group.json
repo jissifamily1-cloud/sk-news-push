@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kgnews.co.kr/news/article.html?no=904565",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540912",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30098",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=847744",
-  "https://www.namdonews.com/news/articleView.html?idxno=917560",
-  "https://www.viva100.com/article/20260721501110",
-  "https://www.sentv.co.kr/article/view/sentv202607210129",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422557",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312616",
-  "http://www.4th.kr/news/articleView.html?idxno=2115017",
   "https://www.koreatimes.co.kr/path/A2026072108250005821",
   "https://www.news1.kr/it-science/cc-newmedia/6234343",
   "https://www.yna.co.kr/view/AKR20260721140900002?input=1195m",
@@ -2999,19 +2989,19 @@
   "https://news.dealsitetv.com/articles/173470",
   "https://www.etoday.co.kr/news/view/2606438",
   "https://www.dt.co.kr/article/12074280",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02912646645517472"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02912646645517472",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250598",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=724872",
+  "https://www.chosun.com/economy/stock-finance/2026/07/23/W354WVHLBRDOFN7ARCSNUYMYP4/",
+  "https://www.mt.co.kr/tech/2026/07/23/2026072307553132115",
+  "http://www.press9.kr/news/articleView.html?idxno=79865",
+  "https://www.sedaily.com/article/20070770",
+  "http://www.ikld.kr/news/articleView.html?idxno=337964",
+  "https://www.newspim.com/news/view/20260723000087",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=724871",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607201335409880101293"
  ],
  "seen_titles": [
-  "3.2억이용자바이낸스,RWA·주식파생확장…원화거래소도다각화과...",
-  "코스피,기관·외국인매수에6700선반등…수출호조영향[fn마감시황...",
-  "코스피,3%이상상승...6700선회복",
-  "성남시‘면접정장무료대여’인기만점…청년취업디딤돌역할톡톡",
-  "외인·기관‘사자’…코스피,3.56%오른6747마감",
-  "[마감시황]코스피,기관순매수에3%대상승마감…반도체수출호조...",
-  "코스피,3거래일만에반등6740선마감…코스닥750선재탈환",
-  "반도체대장주반격…삼성전자6%·SK하이닉스4%상승마감",
-  "[마감시황]코스피,미국반도체주반등속3%대상승...6747마감",
-  "코스피,3%대상승마감…사흘만에반등",
   "계열분리2년효성···중공업이어티앤씨·화학도반등하나",
   "학세권·직주근접갖춘'이천휴먼빌클래스원'…견본주택발길이어져",
   "[4th-Infra]\"주가누르기막으려면저가승계차단·저평가공시의무화해...",
@@ -6001,7 +5991,17 @@
   "[한화김동선개발사업]라이프선명한데…테크비전'물음표'",
   "[증시키워드]빅테크실적이살린반도체기대…삼전·SK하닉에삼성전...",
   "2분기韓경제0.6%성장,예상웃돌아…반도체가일등공신",
-  "“공급망안정노린다”…바이오원부자재세액공제,최대수혜는CDMO"
+  "“공급망안정노린다”…바이오원부자재세액공제,최대수혜는CDMO",
+  "[알펜시아주인들③]SK오너가와전문경영인,왜별장함께샀을까",
+  "[프리마켓포커스]알파벳'AI대규모투자'에개장전반도체대장주2...",
+  "단일종목레버리지쏠림에“코스닥소멸우려”",
+  "中키미K3,엔비디아'네모트론'압도…국내기업기술쏠림괜찮나[I...",
+  "SK바이오팜,목표주가하향...엑스코프리처방호조는지속-iM증권",
+  "‘알파벳CAPEX확대’훈풍…프리장서삼전닉스2%강세출발[마켓시그...",
+  "SK에코플랜트,'의왕역SKVIEW'1순위청약마감…최고31.5대1",
+  "[미국특징주]메모리주'알파벳훈풍'에시간외반등…상승분은축소",
+  "구글호실적에위험선호회복…환율,1470원대재진입시도",
+  "[더벨][thebellinterview]\"집중투표제피해시차임기제…상법우회차단..."
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,25 @@
   [
    "2026-07-23T08:21:02.135287+09:00",
    "원부자재 바이오 공급망 안정 최대수혜는 CDMO 세액공제 노린다"
+  ],
+  [
+   "2026-07-23T08:31:06.805524+09:00",
+   "의왕역 5대 청약마감 SK에코플랜트 최고 1순위 VIEW"
+  ],
+  [
+   "2026-07-23T08:31:06.805524+09:00",
+   "반등 상승분은 시간 알파벳 훈풍 축소 메모리주"
+  ],
+  [
+   "2026-07-23T08:31:06.805524+09:00",
+   "1470원대 환율 재진입 호실적에 시도 회복 구글 위험선호"
+  ],
+  [
+   "2026-07-23T08:31:06.805524+09:00",
+   "상법우회 차단 시차임기제 피해 집중투표제"
   ]
  ],
- "last_run": "2026-07-23T08:21:22.060656+09:00",
+ "last_run": "2026-07-23T08:31:21.896062+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
