@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/12/2026071290159.html",
-  "https://www.joongboo.com/news/articleView.html?idxno=363731199",
-  "https://www.joongboo.com/news/articleView.html?idxno=363731195",
-  "https://www.mk.co.kr/article/12019062",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=04532966645416776",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=261147",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=255747",
   "http://www.4th.kr/news/articleView.html?idxno=2110536",
@@ -2999,14 +2994,14 @@
   "https://www.newscj.com/news/articleView.html?idxno=3404340",
   "https://www.insight.co.kr/news/555725",
   "https://www.sedaily.com/article/20048466",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670011&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670011&plink=ORI&cooper=NAVER",
+  "https://view.asiae.co.kr/article/2026051310214222840",
+  "https://www.kyeongin.com/article/1762460",
+  "https://www.socialvalue.kr/news/view/1065612173412825",
+  "https://www.g-enews.com/view.php?ud=20260722204831513ea14faf6f5_1",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280225"
  ],
  "seen_titles": [
-  "SK하이닉스,행복나눔기금23억7000만원전달",
-  "SK하닉나스닥첫날13%급등…40조원'달러뭉칫돈'유입",
-  "[지령10000호특집]10000개의희망을만나다…각계인사릴레이축하...",
-  "[지령10000호특집]사랑,온기를채우다…중부일보사회공헌",
-  "SK하이닉스,행복나눔기금23억전달",
   "SK하이닉스,취약계층지원·사회문제해결에23.7억원전달",
   "SK하이닉스,23억7000만원기부…16년누적370억원돌파",
   "'23.7억쾌척'SK하이닉스,션과함께'365RUN'완주…\"함께뛰며나눔되...",
@@ -6001,13 +5996,14 @@
   "최태원SK회장,다음주대만서젠슨황만난다…삼각동맹강화",
   "최태원,'AI깐부'젠슨황과대만서재회...SKAI메모리동맹재확인",
   "SK최태원,젠슨황과‘진짜깐부’로…대만서또만난다",
-  "\"절대수용못해\"반발…이번엔하이닉스성과급논란"
+  "\"절대수용못해\"반발…이번엔하이닉스성과급논란",
+  "[2026미래기업포럼]새성장엔진'우주'…\"민간자생적우주산업생태...",
+  "오전삼전,오후닉스…평택·용인훑은추미애“반도체는경기도”",
+  "미국판'깐부회동'기대감…이재용·최태원·정의선등미국서빅테크와...",
+  "李대통령,'샌프란AI선언'나선다…남미3개국경제영토확장",
+  "“가사·양육노동기여얼마나인정할까”…노소영·최태원재산분할..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T15:00:32.970730+09:00",
-   "반등 AI 고점서 거물들 빠진 총집결 계기될까"
-  ],
   [
    "2026-07-22T15:10:14.597212+09:00",
    "개편 소비 교육교부금 안민석 교육예산은 아닌 반발 투자"
@@ -6143,9 +6139,13 @@
   [
    "2026-07-22T20:10:14.513380+09:00",
    "젠슨 샌프란에서 이재용 정의선 황과 이해진 깐부회동"
+  ],
+  [
+   "2026-07-22T21:00:34.746899+09:00",
+   "인정할까 기여 가사 재산분할 양육노동 얼마나"
   ]
  ],
- "last_run": "2026-07-22T20:50:24.066927+09:00",
+ "last_run": "2026-07-22T21:00:47.156432+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6371,6 +6371,7 @@
   "itdaily.kr": "아이티데일리",
   "kyeonggi.com": "경기일보",
   "kpinews.kr": "kpinews.kr",
-  "newsprime.co.kr": "프라임경제"
+  "newsprime.co.kr": "프라임경제",
+  "womennews.co.kr": "여성신문"
  }
 }
