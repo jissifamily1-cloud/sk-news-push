@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846928",
-  "https://www.imaeil.com/page/view/2026071110564490144",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005877221",
-  "https://www.mediapen.com/news/view/1109599",
-  "https://www.m-i.kr/news/articleView.html?idxno=1390496",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250545&CMPT_CD=P0010",
   "https://www.sedaily.com/article/20066493",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273597",
@@ -2999,14 +2994,14 @@
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312715",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16114",
   "https://www.cbci.co.kr/news/articleView.html?idxno=590950",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668789&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668789&plink=ORI&cooper=NAVER",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451111",
+  "https://www.mediawatch.kr/news/article.html?no=260433",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105299",
+  "http://www.globalepic.co.kr/view.php?ud=20260722112917725648439a4874_29",
+  "https://www.joongang.co.kr/article/25447086"
  ],
  "seen_titles": [
-  "SK하이닉스,미국반도체투자신호탄…인공지능시설검토중",
-  "SK하이닉스,美증시입성…월가\"AI메모리사이클바꿀시험대\"평가",
-  "\"숨고르기끝\"SK하이닉스나스닥13%뛰어,역대최대조달",
-  "최태원회장\"수백억달러투자…AI서비스제공업체지향\"",
-  "‘메모리호황’에반도체경쟁격화...중국추격에‘AI승부수’",
   "최태원\"빅테크HBM수요,예상압도…메모리성장세막을방법없다\"",
   "SK하이닉스,나스닥입성…'경쟁사'마이크론단숨에제쳤다",
   "美투자에정치신경안쓴다는최태원의“검토”[트럼프스톡커]",
@@ -6001,7 +5996,12 @@
   "[최태원·노소영재판장면들④]'디케'저울에오른SK...분할대상·시...",
   "100대기업임원대해부...평균54.2세고령화뚜렷,여성8.3%그쳐",
   "NAVER(네이버)주가20만원선재돌파…'회동추진'이어떤영향을?",
-  "[자막뉴스]\"재용·태원이번엔미국으로와\"…젠슨황'삼소회동'한..."
+  "[자막뉴스]\"재용·태원이번엔미국으로와\"…젠슨황'삼소회동'한...",
+  "'천원주먹밥'으로시작한웃어밥,이화여대에1억원기부",
+  "이재용·최태원·이해진·젠슨황,美서만난다…글로벌AI인프라협력...",
+  "이재용·최태원·이해진,젠슨황과또뭉친다",
+  "삼전닉스,성과급논란다시불붙나",
+  "베라루빈시대연엔비디아…한·미AI수장회동추진"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,17 @@
   [
    "2026-07-22T11:30:21.752478+09:00",
    "분할대상 저울에 디케 오른"
+  ],
+  [
+   "2026-07-22T11:40:14.053396+09:00",
+   "논란 다시 붙나 성과급 삼전닉스"
+  ],
+  [
+   "2026-07-22T11:40:14.053396+09:00",
+   "AI 베라 엔비디아 수장 루빈 회동 시대"
   ]
  ],
- "last_run": "2026-07-22T11:30:39.664700+09:00",
+ "last_run": "2026-07-22T11:40:28.529230+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
