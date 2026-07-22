@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=534265",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202809",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470214",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260721010007497",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851429",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042978",
-  "http://www.fnnews.com/news/202607211422139608",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360604",
-  "https://www.newsway.co.kr/news/view?ud=2026072115215029542",
-  "https://www.news1.kr/photos/8018493",
-  "https://h21.hani.co.kr/arti/society/environment/59623.html",
   "https://www.dailian.co.kr/news/view/1669274/?sc=Naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20260721160730YBh",
   "https://www.kado.net/news/articleView.html?idxno=2062291",
@@ -2999,20 +2988,20 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221641303120102781",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=223862",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686072",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851665"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851665",
+  "https://www.newsway.co.kr/news/view?ud=2026072307343330782",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155394",
+  "https://www.newscj.com/news/articleView.html?idxno=3419208",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=591159",
+  "https://biz.heraldcorp.com/article/10817092",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851627",
+  "https://www.sedaily.com/article/20070758",
+  "https://www.ajunews.com/view/20260723072715154",
+  "https://slownews.kr/163619",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670263&plink=ORI&cooper=NAVER",
+  "https://www.asiatime.co.kr/article/20260722500434"
  ],
  "seen_titles": [
-  "\"크게내려조금올라\"…외인·기관쌍끌이매수에코스피강세마감",
-  "SK텔레콤,\"AI로함께성장할스타트업찾습니다\"",
-  "SKT,유망AI스타트업키운다…“협업생태계확대”",
-  "[마감시황]기관1.4조순매수…코스피6740선회복",
-  "삼성SDS,소버린클라우드환경서NPUaaS제공…LGCNS,실무형AX교육시...",
-  "[거래소외국인]수급지각변동…전력·방산·자동차株도매수행렬",
-  "정제마진넘어윤활기유가이끌었다…정유업계,2분기도'깜짝실적'기...",
-  "SK인텔릭스-카이스트,AI웰니스서비스공동개발",
-  "[마감시황]코스피,외인·기관'사자'에전날급락분만회…6700선안착",
-  "SK이노베이션,페트로베트남방문..에너지·기술분야협력논의",
-  "저가매수유입에코스피6740대로반도체수출호조…삼성전자6%↑",
   "SK온,적자폭크게줄여…비상경영2년'희망의빛'보인다",
   "'삼전닉스'반등",
   "‘3대메가프로젝트’때문에원전?…빈대잡으려다초가삼간태울라",
@@ -6001,7 +5990,18 @@
   "[더벨][발행사분석]롯데리츠공모채도전,스폰서리츠시험대",
   "【오늘의법조】2026년7월23일",
   "팹만옮기면반도체지방이전성공할까...관건은소부장생태계",
-  "유가요동치는데…정유·석화,손익은'딴판'"
+  "유가요동치는데…정유·석화,손익은'딴판'",
+  "유가급등·빅테크실적경계에뉴욕증시소폭하락…나스닥0.6%↓",
+  "SK하이닉스노사,임단협집중교섭재개…성과급제도놓고이견",
+  "[오늘의주요일정]정치·경제·금융·사회·법조23일(목)",
+  "뉴욕증시,유가급등·실적경계에약세…나스닥0.57%↓",
+  "“코스피오늘도불안하네”뉴욕증시,유가급등에동반하락…나스닥...",
+  "통신사도떠난마이데이터...금융사만남아",
+  "스마트폰바꾸려다“언제이렇게올랐어?”깜짝…수요뚝떨어졌다는...",
+  "[아주증시포커스]중국반도체기업들IPO러시…'반도체굴기시즌2'시작...",
+  "“죄질이나쁘다”,오세훈유리한여론조사언론에내보내려작업했나...",
+  "카카오페이증권\"올해결혼하면10만원주식선물\"",
+  "[카드뉴스브리핑]​농협카드주력카드58종모바일카드발급확대"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,33 @@
   [
    "2026-07-23T07:41:07.522470+09:00",
    "정유 손익은 유가 요동치는데 딴판 석화"
+  ],
+  [
+   "2026-07-23T07:47:20.336060+09:00",
+   "떠난 통신사도 남아 마이데이터 금융사만"
+  ],
+  [
+   "2026-07-23T07:47:20.336060+09:00",
+   "수요 올랐어 바꾸려다 떨어졌다는 이렇게 깜짝 언제 스마트폰"
+  ],
+  [
+   "2026-07-23T07:47:20.336060+09:00",
+   "반도체기업들 중국 IPO 시즌2 반도체굴기 시작 러시"
+  ],
+  [
+   "2026-07-23T07:47:20.336060+09:00",
+   "내보내려 작업했나 죄질이 나쁘다 여론조사 유리한 오세훈 언론에"
+  ],
+  [
+   "2026-07-23T07:47:20.336060+09:00",
+   "카카오페이증권 10만 선물 올해 주식 결혼하면"
+  ],
+  [
+   "2026-07-23T07:47:20.336060+09:00",
+   "주력 농협카드 58종 카드 확대 발급 모바일"
   ]
  ],
- "last_run": "2026-07-23T07:41:29.905254+09:00",
+ "last_run": "2026-07-23T07:47:39.548126+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
