@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kgnews.co.kr/news/article.html?no=903482",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100020.html",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/11/2026071100031.html",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607110259&t=NN",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608267",
-  "https://www.news1.kr/local/jeonbuk/6225012",
   "http://www.nongaek.com/news/articleView.html?idxno=95912",
   "https://www.seoultimes.news/news/article.html?no=2000097656",
   "http://www.newsian.co.kr/news/articleView.html?idxno=91590",
@@ -2999,15 +2993,15 @@
   "https://www.newsway.co.kr/news/view?ud=2026072213484835901",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1327817",
   "http://www.econonews.co.kr/news/articleView.html?idxno=441610",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250704"
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250704",
+  "https://www.khan.co.kr/article/202607221606001",
+  "https://www.wikitree.co.kr/articles/1147832",
+  "http://www.newstomato.com/ReadNews.aspx?no=1307866&inflow=N",
+  "https://www.pennmike.com/news/articleView.html?idxno=124180",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47471",
+  "https://www.mk.co.kr/article/12104494"
  ],
  "seen_titles": [
-  "SK하이닉스,나스닥상장첫날마이크론시총추월",
-  "이재명대통령“한-몽골가까운친구…새로운도약·발전함께하는동...",
-  "최태원\"AI수요,공급압도…미국에반도체생산시설추가투자검토...",
-  "월가홀린SK하이닉스…WSJ\"韓메모리반도체,美증시흔들다\"",
-  "상장첫날13%급등…\"역사적데뷔\"외신도주목",
-  "외신“SK하이닉스,화려한데뷔”…월가‘낙관론’에투자심리살아...",
   "송영길\"익산은내뿌리…李실용정치구현해온사람바로나\"(종합)",
   "영풍오너일가,주식맡기고최대한대출받은이유…고려아연경영권분...",
   "[이슈]SK하이닉스,265억달러조달나스닥데뷔…첫날13%상승",
@@ -6001,7 +5995,13 @@
   "SK하이닉스'10년약속'딜레마…AI시대'보상철학'시험대",
   "안민석\"교육예산축소보다교육주도성장으로\"",
   "이재용·최태원·정의선·이해진,美서젠슨황회동…글로벌AI협력주...",
-  "[알펜시아주인들④]홍라희·이부진·조현준·서경배소유'별장타운'"
+  "[알펜시아주인들④]홍라희·이부진·조현준·서경배소유'별장타운'",
+  "SK하이닉스노사에쏠린눈···‘영업이익n%’성과급재협상돌입,...",
+  "직장인들부러움샀던'하이닉스성과급',1년만에재협상",
+  "이재용·최태원·이해진,미국서젠슨황과재회…‘글로벌AI동맹’재...",
+  "주주단체,김영훈노동부장관·삼전닉스대표고발\"성과급,교섭대상...",
+  "최태원ㆍ이재용ㆍ이해진,美서젠슨황만난다…'글로벌AI원팀'구축",
+  "SK,해외유학장학생에등록금·생활비지원"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-07-22T16:00:30.769428+09:00",
    "서경배 별장 타운 조현준 이부진 소유 홍라희"
+  ],
+  [
+   "2026-07-22T16:10:15.841676+09:00",
+   "지원 해외유학 장학생에 등록금 생활비"
   ]
  ],
- "last_run": "2026-07-22T16:00:46.252476+09:00",
+ "last_run": "2026-07-22T16:10:29.764514+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
