@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=572306&class=51",
-  "http://www.fnnews.com/news/202607211409005186",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253049&CMPT_CD=P0010",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166176",
-  "https://www.thepublic.kr/news/articleView.html?idxno=312004",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717168",
-  "https://www.joongang.co.kr/article/25446822",
   "https://news.tf.co.kr/read/economy/2345372.htm",
   "https://www.asiatime.co.kr/article/20260721500320",
   "http://www.inews24.com/view/1987363",
@@ -2999,16 +2992,16 @@
   "https://www.goodkyung.com/news/articleView.html?idxno=289441",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470666",
   "https://www.mk.co.kr/article/12105037",
-  "https://www.bntnews.co.kr/article/view/bnt202607230005"
+  "https://www.bntnews.co.kr/article/view/bnt202607230005",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717388",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=235854",
+  "https://www.news1.kr/industry/general-industry/6235707",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070082",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633903",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=235837",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=235855"
  ],
  "seen_titles": [
-  "류진회장“풍산방산업지금은안판다…지방투자확대”",
-  "정부믿고삼전닉스투자한20대직장인…\"일이손에안잡힌다\"[주가...",
-  "JP모건\"韓증시청산상당부분진행…코스피1만2500전망\"",
-  "3년전대비반토막난JYP엔터주가...실적반등가능할까?[주가동향]",
-  "단일종목레버리지상폐땐'개미대란·소송전쟁'...시장은'흉흉'",
-  "\"초격차는대기업만의과제아냐\"...추미애,글로벌장비기업ASM찾아...",
-  "SKT최대46만원,KT·LGU+15만원…갤럭시신제품사전혜택경쟁",
   "AI가끌어올린메모리값…'칩플레이션'현실화에공급확대속도내는...",
   "'삼전닉스'반등에코스피급등…개인은1.8조순매도",
   "지역-기업상생협력‘지방소멸극복아이디어솔버톤’참가자모집",
@@ -6001,7 +5994,14 @@
   "[기업톺아보기]IRA·FEOC리스크'제로'…북미ESS시장이엘앤에프를...",
   "코스피·코스닥전거래일(22일)주요공시는...유니드,올해2분기매출...",
   "[세계지식포럼연사]“선한기업은이익늘고,현명한경영자는숫자...",
-  "SK하이닉스성과급바뀌나…자사주지급안에‘술렁’"
+  "SK하이닉스성과급바뀌나…자사주지급안에‘술렁’",
+  "한달만에반토막속출…목표가올렸는데도최대54%급락",
+  "이대통령미국서빅테크CEO만나\"AI협력\"",
+  "[N%후폭풍]④李대통령아니라했지만…N%성과급노사'동상이몽'",
+  "쿠팡방어권이파렴치한가?SKT롯데카드는달랐나?",
+  "[뉴욕증시]약보합마감,알파벳·테슬라'시간외급락'···브렌트94달...",
+  "주52시간상한제만들고'스스로흔드는'민주당",
+  "국민의힘'K-양극화해법'또개정노조법재개정"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,25 @@
   [
    "2026-07-23T06:32:36.825822+09:00",
    "성과급 바뀌나 SK하이닉스 자사주 술렁 지급안에"
+  ],
+  [
+   "2026-07-23T06:41:06.500707+09:00",
+   "파렴치한가 롯데카드는 달랐나 방어권이 SKT 쿠팡"
+  ],
+  [
+   "2026-07-23T06:41:06.500707+09:00",
+   "알파벳 마감 브렌트 94달 테슬라 급락 약보합 시간외"
+  ],
+  [
+   "2026-07-23T06:41:06.500707+09:00",
+   "흔드는 만들고 스스로 민주당 상한제 52시간"
+  ],
+  [
+   "2026-07-23T06:41:06.500707+09:00",
+   "국민의힘 노조법 양극화 재개정 해법 개정"
   ]
  ],
- "last_run": "2026-07-23T06:32:54.067873+09:00",
+ "last_run": "2026-07-23T06:41:20.844586+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
