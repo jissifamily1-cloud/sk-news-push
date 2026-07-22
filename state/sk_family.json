@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3049677",
-  "https://bizhankook.com/articles/139268.html",
   "https://www.apnews.kr/news/articleView.html?idxno=3049682",
   "http://www.fnnews.com/news/202607111410470831",
   "https://economist.co.kr/article/view/ecn202607110016",
@@ -2999,11 +2997,11 @@
   "https://www.kdpress.co.kr/news/articleView.html?idxno=207109",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220328&t=NNv",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244375",
-  "https://www.hankookilbo.com/news/article/A2026072211250003612?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026072211250003612?did=NA",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541117",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141900"
  ],
  "seen_titles": [
-  "채권단관리서나스닥상장까지…외신주목한SK하이닉스‘재기신화’",
-  "[최태원의청년사다리①]성과급바깥의청년들…AI반도체일터넓힌...",
   "SK하이닉스나스닥상장첫날13%급등…40조'실탄'확보",
   "[최태원의청년사다리②]\"경력같은신입\"…출발선앞당긴다",
   "최태원美방송등판에투심폭발…월가\"가장확실한AI대형주\"극찬",
@@ -6001,13 +5999,11 @@
   "한국사회복지협의회-보건복지부-상공회의소,복지사각지대해소위해...",
   "가온전선,'버스덕트'더늘린다…\"자체생산라인구축\"",
   "하이닉스인텔공장인수설하루만에반박…\"추진사실없어\"",
-  "'영업이익N%성과급'다시뇌관되나...SK하이닉스노사집중교섭"
+  "'영업이익N%성과급'다시뇌관되나...SK하이닉스노사집중교섭",
+  "이재용·최태원·정의선·이해진,이번주젠슨황만난다",
+  "삼성만끝낸'임단협'…대기업노사관계새쟁점된'성과배분의룰'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T08:40:14.869097+09:00",
-   "손보나 성과급 SK하이닉스 절반 의무화에 노조 자사주 반발 PS"
-  ],
   [
    "2026-07-22T09:10:15.370159+09:00",
    "S와 회장의 억측 사랑해 확산 세컨드 놓고"
@@ -6127,9 +6123,13 @@
   [
    "2026-07-22T14:30:19.604986+09:00",
    "코스피 사상 올초 최근 꼴찌 최고치 수익률 한달"
+  ],
+  [
+   "2026-07-22T14:50:13.649082+09:00",
+   "대기업 쟁점 임단협 노사관계 성과 배분의 삼성만 끝낸"
   ]
  ],
- "last_run": "2026-07-22T14:40:24.626251+09:00",
+ "last_run": "2026-07-22T14:50:27.168535+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
