@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.segyebiz.com/newsView/20260721518340?OutUrl=naver",
-  "https://www.news1.kr/finance/market-exr/6234347",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312608",
-  "https://news.dealsitetv.com/articles/173543",
-  "https://www.bloter.net/news/articleView.html?idxno=668579",
-  "https://www.joongdo.co.kr/web/view.php?key=20260721010005819",
-  "https://biz.chosun.com/it-science/ict/2026/07/21/J257SV4RCBCNPDR5VDA76VBGKM/",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=205259",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=851505",
   "https://mhnse.com/news/articleView.html?idxno=1466259",
@@ -2999,16 +2992,16 @@
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700623",
   "https://www.g-enews.com/view.php?ud=202607230840148022a96f092d0c_1",
   "http://www.press9.kr/news/articleView.html?idxno=79870",
-  "https://www.sentv.co.kr/article/view/sentv202607230005"
+  "https://www.sentv.co.kr/article/view/sentv202607230005",
+  "http://www.newsprime.co.kr/news/article.html?no=741201",
+  "https://www.newspim.com/news/view/20260723000094",
+  "https://www.hankyung.com/article/2026072308376",
+  "https://www.onews.tv/news/articleView.html?idxno=283547",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270176",
+  "https://www.mt.co.kr/stock/2026/07/23/2026072308455269344",
+  "https://www.cstimes.com/news/articleView.html?idxno=714337"
  ],
  "seen_titles": [
-  "[시황]코스피,장중변동성딛고…6700선회복마감",
-  "“물은함께쓰되,미래도함께나눠야”…전북빠진‘호남반도체’...",
-  "李\"영업이익일정비율배분,쟁의대상아니라생각\"",
-  "원·달러환율,5.0원내린1473.4원",
-  "중동불안에도달러공급우위…달러·원1473.4원마감(종합)",
-  "증권사,증시변동성에실적방어위한고객락인총력",
-  "[재계투데이]삼성전자,고효율AI가전8년연속'에너지대상'수상外",
   "美ESS90%가중국산…K배터리'현지생산'승부수",
   "성남청년지원정책,취업성과로이어져",
   "ASML,인력유출막는다…“2030년까지근속하면2만유로보상”",
@@ -6001,7 +5994,14 @@
   "'1조유출'로돈맥경화···SK에코플랜트,오션플랜트매각'사활'",
   "SK매직,우리은행전국영업점공기청정기공급",
   "SK바이오팜파트너액섬,솔리암페톨ADHD3상환자모집…소아·청소년...",
-  "SK에코플랜트,회사채수요예측에9870억원몰려…모집액10배"
+  "SK에코플랜트,회사채수요예측에9870억원몰려…모집액10배",
+  "SK바이오팜,엑스코프리성장'굳건'…파이프라인가치주목",
+  "[AIMY증시전망]알파벳실적안도감…반도체강세이어질까",
+  "'경기남부대체주거지부각'…의왕청약에2486명몰렸다",
+  "추미애지사\"재정문제심각하지만시군과소통해해법찾을것\"",
+  "[박정식의국내주식시황]반도체쉬고로봇·조선달렸다…오늘증시...",
+  "\"땡큐,알파벳\"…삼성전자·SK하이닉스,프리장서동반상승",
+  "SK증권\"LG디스플레이,일회성비용에도상반기흑자…밸류재평가예상..."
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,29 @@
   [
    "2026-07-23T08:47:42.212796+09:00",
    "수요예측에 9870억원 모집액 회사채 SK에코플랜트 10배 몰려"
+  ],
+  [
+   "2026-07-23T08:51:01.600273+09:00",
+   "의왕 남부 몰렸다 대체 2486명 청약에 부각 경기 주거지"
+  ],
+  [
+   "2026-07-23T08:51:01.600273+09:00",
+   "심각하지만 지사 시군과 재정문제 소통해 추미애 해법 찾을"
+  ],
+  [
+   "2026-07-23T08:51:01.600273+09:00",
+   "로봇 증시 조선 반도체 달렸다 쉬고"
+  ],
+  [
+   "2026-07-23T08:51:01.600273+09:00",
+   "땡큐 동반 상승 알파벳 프리장서 삼성전자 SK하이닉스"
+  ],
+  [
+   "2026-07-23T08:51:01.600273+09:00",
+   "SK증권 밸류 비용에도 재평가 예상 일회성 LG디스플레이 상반기 흑자"
   ]
  ],
- "last_run": "2026-07-23T08:47:58.295758+09:00",
+ "last_run": "2026-07-23T08:51:18.212786+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
