@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442149",
-  "http://www.joseilbo.com/news/news_read.php?uid=571794&class=17",
-  "https://www.donga.com/news/Economy/article/all/20260713/134287952/1",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260713145400Vid",
-  "http://kor.theasian.asia/archives/409617",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607131331094110925",
   "https://www.mk.co.kr/article/12097132",
   "https://www.viewsnnews.com/article?q=237160",
   "https://www.newsis.com/view/NISX20260713_0003707073",
@@ -2999,15 +2993,15 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=443007",
   "https://www.gukjenews.com/news/articleView.html?idxno=3644428",
   "https://www.kado.net/news/articleView.html?idxno=2062796",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41117"
+  "https://www.aitimes.kr/news/articleView.html?idxno=41117",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618356",
+  "https://www.kgnews.co.kr/news/article.html?no=905016",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=759918",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166433",
+  "https://www.bloter.net/news/articleView.html?idxno=668812",
+  "https://www.econovill.com/news/articleView.html?idxno=745987"
  ],
  "seen_titles": [
-  "[기자수첩]'국가영웅'과'기업규제'...유동수정무위의첫과제",
-  "[김재섭의뒤집어보기]AI안쓰면시대에뒤처지는것인가?,서둘러AI...",
-  "반도체호황막바지?SK하이닉스의대답은\"없어서못판다\"",
-  "“반도체로경기살리려다공급과잉”…외신도정부메가프로젝트직...",
-  "블룸버그칼럼\"황금알거위…모두가돈나무(SK하이닉스)흔들고싶어해...",
-  "[오늘의신문읽기]반도체훈풍과금리압박…성장과불안이함께온다",
   "생고뱅이소바,글로벌건축설계공모전'ASC'성료",
   "“SK하이닉스는돈나무,모두가흔들고싶어해”…블룸버그가본‘하이...",
   "<블룸버그>\"한미정부모두SK하이닉스흔들어열매따려해\"",
@@ -6001,13 +5995,15 @@
   "SK네트웍스가육성한AI스타트업'케이론',800만달러투자라운드진...",
   "경기도의회의장직속'지방의회법제정추진TF'출범...단장최종현...",
   "강원도의회행정문화위,춘천연극제간담회개최",
-  "이대통령,\"실리콘밸리AI정상외교나선다\"…오픈AI·앤트로픽·엔비디..."
+  "이대통령,\"실리콘밸리AI정상외교나선다\"…오픈AI·앤트로픽·엔비디...",
+  "[사사건건]똘똘한한채인데‘초고가’…떨고있니?",
+  "경기도의회,지방의회법제정추진TF출범…본격가동",
+  "[ㄱㄱㄷ의정Pick!]남종섭의장,광폭행보...\"사람·민생중심의정활...",
+  "美매체\"인텔,오하이오팹운영파트너모색…SK하이닉스와협력타진...",
+  "AI영토넓히는네이버…도쿄에서실리콘밸리까지",
+  "\"2030년까지7500억출자\"SKTAIDC전문법인'SK하이퍼'승부수,배경은..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-23T12:00:33.661310+09:00",
-   "미래 위한 안민석 대한민국 투자 교육예산 소비 확실한 결코 아닌"
-  ],
   [
    "2026-07-23T12:30:22.938231+09:00",
    "가를 하이닉스 배임 삼성 성립 쟁점은 성과급 여부 고발 대표"
@@ -6131,9 +6127,17 @@
   [
    "2026-07-23T17:40:13.352734+09:00",
    "달러 라운드 육성한 AI 800만 케이론 투자 스타트업 SK네트웍스가"
+  ],
+  [
+   "2026-07-23T18:00:36.573392+09:00",
+   "네이버 넓히는 AI 실리콘밸리까지 도쿄에서 영토"
+  ],
+  [
+   "2026-07-23T18:00:36.573392+09:00",
+   "SK하이퍼 승부수 DC AI 전문법인 배경은 SKT 2030년까지 출자 7500억"
   ]
  ],
- "last_run": "2026-07-23T17:50:28.071609+09:00",
+ "last_run": "2026-07-23T18:00:51.673164+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
