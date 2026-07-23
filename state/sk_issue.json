@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/society/2026/07/16/20260716500245?wlog_tag3=naver",
-  "https://www.fntimes.com/html/view.php?ud=202607151514509828ed56b8e1f8_18",
-  "https://www.hankyung.com/article/2026071603627",
-  "https://www.hankookilbo.com/news/article/A2026071618270005726?did=NA",
-  "https://www.news1.kr/society/court-prosecution/6230977",
   "https://www.newsis.com/view/NISX20260716_0003712934",
   "http://www.fnnews.com/news/202607161833084773",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2428592",
@@ -2999,14 +2994,14 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=872945",
   "https://www.newsis.com/view/NISX20260723_0003721208",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83631",
-  "https://www.ddaily.co.kr/page/view/2026072317094281994"
+  "https://www.ddaily.co.kr/page/view/2026072317094281994",
+  "https://www.pressian.com/pages/articles/2026072316162279232",
+  "https://www.newsis.com/view/NISX20260723_0003721216",
+  "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260723&SEQUENCE=4517",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/23/2026072390286.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260723205913wtx"
  ],
  "seen_titles": [
-  "여중생성매매혐의청주시의원사직서제출",
-  "두나무결합늦어진네이버페이…디지털자산확장전략도속도조절[네...",
-  "[속보]공수처,'서해공무원피격사건위증의혹'인천해경등압수수색",
-  "[속보]공수처,'서해피격사건위증의혹'인천해경등압수수색",
-  "[속보]공수처,'서해공무원피격위증'인천해양경찰서등압수수색",
   "전교조충남지부\"경찰압수수색은옥죄기\"규탄성명",
   "포스코,2·3차협력사아우르는상생체계구축",
   "미성년자성매매혐의청주시의원,자진사퇴",
@@ -6001,7 +5996,12 @@
   "선관위가스스로무너뜨린선거의신뢰",
   "투표자수백명→수천명'허위입력'…합수본,중앙선관위압색종료(종합...",
   "미래에셋,코빗사명'디지털엑스'로변경…전통·디지털자산융합본...",
-  "[사설]투표통계수치멋대로바꾼경위밝혀책임엄하게물어야"
+  "[사설]투표통계수치멋대로바꾼경위밝혀책임엄하게물어야",
+  "'계엄군불법작전'정황제보자압수수색에참여연대\"공익신고자보호...",
+  "검경합수본,'투표율허위입력의혹'선관압수수색종료[뉴시스Pic]",
+  "'아동성매수'시의원구속영장언제?‥통신기록보전,휴대전화추가...",
+  "합수본,'투표율조작'혐의중앙선관위압수수색…\"서버도다운로드\"",
+  "합수본,선관위'투표율조작'정황포착...강제수사착수"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "SK텔레콤 5G과장광고 일부승소 LG유플러스는 행정소송 패소했는데 KT"
   ]
  ],
- "last_run": "2026-07-23T21:01:14.100290+09:00",
+ "last_run": "2026-07-23T21:10:56.901259+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
