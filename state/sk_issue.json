@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260716_0003712287",
-  "https://www.hg-times.com/news/articleView.html?idxno=303666",
-  "https://www.newsis.com/view/NISX20260716_0003712281",
-  "https://www.electimes.com/news/articleView.html?idxno=370378",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2051980",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1386711",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716683",
-  "https://www.mt.co.kr/industry/2026/07/16/2026071613584178206",
   "https://www.newdaily.co.kr/site/data/html/2026/07/16/2026071600204.html",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04201686645515176",
   "https://www.nocutnews.co.kr/news/6549169",
@@ -2999,17 +2991,17 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253684&CMPT_CD=P0010",
   "http://www.yonhapnewstv.co.kr/news/AKR20260723163441BSD",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1531601",
-  "https://www.ytn.co.kr/_ln/0134_202607231626190759"
+  "https://www.ytn.co.kr/_ln/0134_202607231626190759",
+  "https://bizhankook.com/articles/yeosu-petrochemical-restructuring-project.html",
+  "https://www.busan.com/view/busan/view.php?code=2026072316211323497",
+  "https://www.mt.co.kr/politics/2026/07/23/2026072314035267469",
+  "https://www.ajunews.com/view/20260723163633541",
+  "https://www.insight.co.kr/news/564325",
+  "https://www.imaeil.com/page/view/2026072316211991998",
+  "https://www.ytn.co.kr/_ln/0101_202607231614221895",
+  "https://www.ziksir.com/news/articleView.html?idxno=141011"
  ],
  "seen_titles": [
-  "충남경찰,'공직선거법위반'관련전교조충남지부압수수색",
-  "\"비리경찰발못붙이게\"...윤호중행안부'장윤기사건'수사쇄신약속",
-  "경찰,'장윤기사건'지휘광산서前형사과장구속영장(종합)",
-  "삼성·SK그룹등에이어포스코그룹도협력사상생협력확대동참",
-  "공정위원장,\"대기업–협력사간상생협력이곧지속성장의토대\"",
-  "포스코그룹,공정위와협력사상생생태계구축",
-  "포스코그룹,공정위와상생협약…2·3차협력사까지지원확대",
-  "포스코그룹,공정위와상생협약…5300개협력사혜택",
   "법사위,형소법개정'피해자권익보호장치'공감대형성…野\"실패의...",
   "'징역2년'권성동\"정치보복,나로끝나길\"…국힘\"李대통령재판은?\"",
   "장윤기수사팀장\"윗선지시받고성범죄와살인연결차단했다\"",
@@ -6001,7 +5993,15 @@
   "[영상]조승환,'선관위해체'요구하며얼음위2시간43분퍼포먼스",
   "장동혁,선관위노조만나\"서버압수수색해의혹해소해야\"",
   "[OBS뉴스오늘1]이대통령부동산대토론회평가는…선관위'투표율조...",
-  "처음으로드러난조작정황...선관위통계시스템손댔나[자막뉴스]"
+  "처음으로드러난조작정황...선관위통계시스템손댔나[자막뉴스]",
+  "석유화학재편'여수1호프로젝트'승인,탈탄소로드맵은어디에…",
+  "선관위투표율조작의혹에목소리커진장동혁…“선관위서버수사해...",
+  "54일만에정상화...22대국회후반기원구성사실상마무리",
+  "안철수\"선관위아닌'선거조작위원회'…존폐고민해야\"",
+  "27세간호사의죽음,경찰이'태움'가해자3명압수수색착수",
+  "선관위통계조작정황…국힘\"국조기간연장및성역없는특검수사...",
+  "사상첫부동산'마라톤토론'...정치권반응은?[정치ON]",
+  "SKT5G과장광고과징금취소…법원\"산정기간오류\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK텔레콤 5G과장광고 일부승소 LG유플러스는 행정소송 패소했는데 KT"
   ]
  ],
- "last_run": "2026-07-23T16:41:01.369764+09:00",
+ "last_run": "2026-07-23T16:51:01.611999+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
