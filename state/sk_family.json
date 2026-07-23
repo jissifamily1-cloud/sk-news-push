@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbsm.net/news/view.php?idx=523955",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695547",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=140910",
   "https://www.newsis.com/view/NISX20260225_0003525588",
   "https://www.dailian.co.kr/news/view/1665760/?sc=Naver",
   "https://www.news1.kr/it-science/cc-newmedia/6220536",
@@ -2999,12 +2996,12 @@
   "https://www.eroun.net/news/articleView.html?idxno=86043",
   "https://www.getnews.co.kr/news/articleView.html?idxno=875819",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264859",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=78086"
+  "http://www.issuenbiz.com/news/articleView.html?idxno=78086",
+  "https://www.dt.co.kr/article/12074316",
+  "https://magazine.hankyung.com/business/article/202607231178b",
+  "https://www.ajunews.com/view/20260723092841420"
  ],
  "seen_titles": [
-  "[증시인사이트]SK하이닉스,삼성전자제치고코스피시총1위등극",
-  "쓰레기가득했던독거어르신집,봉사자들의손길로새보금자리로",
-  "전북여성1500명울린평화의선율…민주평통'문화평화'실험주목",
   "최태원회장승부수'AI인프라'에SK그룹총집결…기회와리스크는",
   "[현장]무역협회,역대최대규모회장단구성…윤진식회장\"지원대폭...",
   "SK실트론은예외?…AI반도체가흔든'매각리밸런싱'",
@@ -6001,7 +5998,10 @@
   "[이로운분석]사회성과·경제성과선순환구조확인...SPC효과국제학술...",
   "세계무대누빌K-여성리더탄생...'2026미스인터내셔널·그랜드코...",
   "SK가뿌린'사회성과보상'실험,국제학술지가효과인정했다",
-  "최태원제안사회성과보상모델,국제학술지서효과입증"
+  "최태원제안사회성과보상모델,국제학술지서효과입증",
+  "‘SK네트웍스육성’피닉스랩,800만달러시드투자유치",
+  "'SK네트웍스투자'케이론,800만달러규모시드투자유치",
+  "[이재호의인더스토리]SK하이닉스성공신화,이제부터진짜시험대"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,13 @@
   [
    "2026-07-23T09:40:14.108229+09:00",
    "사회 동반성장 사회성과인센티브 확인 경제성과"
+  ],
+  [
+   "2026-07-23T10:10:13.791175+09:00",
+   "신화 진짜 성공 이제부터 시험대 SK하이닉스"
   ]
  ],
- "last_run": "2026-07-23T10:00:41.377053+09:00",
+ "last_run": "2026-07-23T10:10:27.815049+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
