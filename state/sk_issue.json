@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596048",
-  "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55919",
-  "https://www.jejusori.net/news/articleView.html?idxno=504809",
-  "http://kor.theasian.asia/archives/410037",
-  "https://www.jbnews.com/news/articleView.html?idxno=1507772",
-  "https://www.munhwa.com/article/11603161",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=605152",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030119711&code=61121211&cp=nv",
-  "https://www.ytn.co.kr/_ln/0115_202607161321054907",
-  "https://www.hani.co.kr/arti/area/capital/1268536.html",
-  "https://www.newsis.com/view/NISX20260716_0003712192",
   "https://www.nocutnews.co.kr/news/6549135",
   "https://www.ngonews.kr/news/articleView.html?idxno=233099",
   "http://www.yonhapnewstv.co.kr/news/AKR20260716134946l2L",
@@ -2999,20 +2988,20 @@
   "http://www.samdailbo.com/news/articleView.html?idxno=267975",
   "https://www.sedaily.com/article/20071063",
   "https://news.mtn.co.kr/news-detail/2026072315142525712",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422615"
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422615",
+  "https://www.yna.co.kr/view/AKR20260723063000001?input=1195m",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/23/2026072300266.html",
+  "https://www.wikitree.co.kr/articles/1148102",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618331",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1327925",
+  "https://www.sisajournal.com/news/articleView.html?idxno=380915",
+  "https://www.sedaily.com/article/20071076",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/23/2026072390206.html",
+  "https://www.ytn.co.kr/_ln/0103_202607231551401720",
+  "https://www.newscj.com/news/articleView.html?idxno=3419381",
+  "https://www.news1.kr/society/court-prosecution/6236979"
  ],
  "seen_titles": [
-  "제주경찰,'지게차사망사고'하나로마트압수수색",
-  "AI워싱과테크노스트레스:보여주기식AI전환이조직에남기는것",
-  "20대노동자사망한달만에…제주경찰,하나로마트압수수색",
-  "[아시아라운드업20260716]중동확전기로…호르무즈충돌속테헤란인...",
-  "'모두의창업'정보유출파문…경찰,AI협력사전격압수수색",
-  "(단독)청주시의회,성매매혐의시의원‘제명처리’가닥…이르면내주...",
-  "'피습자작극'정이한수사전방위확대…부친병원압수수색",
-  "지게차사망사고하귀하나로마트압수수색",
-  "특별수사단,장윤기수사담당강력팀원피의자조사",
-  "인천경찰,공소시효지나도내사한국정원수사…고발인조사",
-  "경찰,'김병기차남청탁'빗썸관계자잇달아소환…결론임박(종합)",
   "경찰,'李가덕도테러축소'전직검사송치…\"배후없다\"결론",
   "'통일교1억원수수혐의'권성동국민의힘의원,징역2년확정···의...",
   "충남교육감선거개입의혹…전교조충남지부압수수색",
@@ -6001,7 +5990,18 @@
   "검찰,위조경찰신분증이용강도짓전축구클럽감독징역4년구형",
   "투표율조작정황에강제수사‥前사무총장은채용비리‘항소’",
   "'LTE20배'라던5G…법원\"이통3사과장광고\"",
-  "KT·LG유플러스는패소했는데SK텔레콤5G과장광고행정소송일부승소·..."
+  "KT·LG유플러스는패소했는데SK텔레콤5G과장광고행정소송일부승소·...",
+  "[프로필]이만희복지위원장…경찰출신경북3선",
+  "1414억베팅한미래에셋,코빗인수마침표…다음관문은?",
+  "'경찰이장윤기사건축소·은폐의혹'판완전히뒤집히나",
+  "국민의힘,국회에서‘얼음퍼포먼스’…“선관위압수수색은시작일뿐...",
+  "'검찰수사무마'내세워12억편취…전직경찰들징역7년",
+  "얼음판위맨발퍼포먼스…국힘\"참정권침해사태해결하라\"",
+  "경찰,검찰에‘아동성매매’최영중통신기록보전신청",
+  "안철수\"실수감추기위해통계수치조작…선관위아닌'선거조작위'\"",
+  "선관위'투표율통계조작'정황...강제수사착수",
+  "선관위노조만난장동혁\"서버의혹말끔히해소해야\"",
+  "법원,'5G과장광고'SKT과징금168억전액취소…\"계산잘못\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK텔레콤 5G과장광고 일부승소 LG유플러스는 행정소송 패소했는데 KT"
   ]
  ],
- "last_run": "2026-07-23T15:51:02.401624+09:00",
+ "last_run": "2026-07-23T16:01:07.236208+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
