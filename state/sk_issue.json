@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=266850",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425452",
-  "https://www.news1.kr/economy/trend/6230390",
-  "https://www.etoday.co.kr/news/view/2604424",
-  "https://news.tf.co.kr/read/economy/2344013.htm",
-  "https://zdnet.co.kr/view/?no=20260716093732",
-  "https://www.newscj.com/news/articleView.html?idxno=3417484",
   "https://biz.heraldcorp.com/article/10811231",
   "https://www.kukinews.com/article/view/kuk202607160064",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600167.html",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0101_202607231610124995",
   "http://www.inews24.com/view/1988213",
   "http://www.iminju.net/news/articleView.html?idxno=167029",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029767"
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029767",
+  "https://www.dailian.co.kr/news/view/1670237/?sc=Naver",
+  "http://news.lghellovision.net/news/articleView.html?idxno=549158",
+  "https://www.thepublic.kr/news/articleView.html?idxno=312436",
+  "https://www.khan.co.kr/article/202607231629011",
+  "https://www.newsgn.com/news/articleView.html?idxno=563997",
+  "https://www.news1.kr/local/busan-gyeongnam/6237069",
+  "https://www.yna.co.kr/view/AKR20260723152900004?input=1195m"
  ],
  "seen_titles": [
-  "포스코그룹,공정위와2·3차협력사까지아우르는'상생생태계'구축한...",
-  "포스코,협력사거래대금지급조건개선…공정위상생협약",
-  "포스코,협력사대금10일내지급…성과공유2·3차까지확대",
-  "포스코,1차에머문상생3차까지잇는다…5300곳돈줄개선",
-  "포스코,1·2·3차협력사와상생협약…5300개사지원",
-  "포스코,협력사대금10일내지급…성과공유2·3차로확대",
-  "포스코그룹,공정위와손잡고협력사상생확대…2·3차까지지원체계...",
   "포스코그룹,상생결제확대…2·3차협력사자금난덜어준다",
   "포스코,1·2·3차협력사상생협약체결…5300여개협력사지원확대",
   "포스코,5300개협력사상생협약…대금지급개선·성과공유확대",
@@ -6001,7 +5994,14 @@
   "장동혁,선관위노조만나\"서버압수수색계기로의혹해소해야\"",
   "SK텔레콤,'5G속도과장광고'소송일부승소…168억과징금취소",
   "불안한김민석?…'신천지'카드왜",
-  "경찰,괴롭힘당해사망한간호사관련광주병원압수수색진행"
+  "경찰,괴롭힘당해사망한간호사관련광주병원압수수색진행",
+  "檢,'아동성매매'최영중전시의원통신기록보존요청예정",
+  "양산경찰서,성인게임장불법영업운영업주검거",
+  "[선관위게이트]합수본,'투표율허위입력'정황포착...現선관위직...",
+  "원희룡,‘양평고속도로의혹’첫특검피의자조사···“마음대로그...",
+  "6·3선거'투표율조작'정황…중앙선관위전격압수수색",
+  "양산도심서대형불법성인게임장잇따라적발…업주등무더기입건",
+  "'5G과장광고'SKT168억원과징금취소…법원\"액수잘못산정\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK텔레콤 5G과장광고 일부승소 LG유플러스는 행정소송 패소했는데 KT"
   ]
  ],
- "last_run": "2026-07-23T16:24:58.456202+09:00",
+ "last_run": "2026-07-23T16:31:02.253621+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
