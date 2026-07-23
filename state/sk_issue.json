@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260716_0003711777",
-  "https://www.munhwa.com/article/11603128",
-  "https://www.yna.co.kr/view/AKR20260716070752004?input=1195m",
-  "https://www.munhwa.com/article/11603090",
-  "https://www.newsis.com/view/NISX20260716_0003711840",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206312",
-  "https://www.chosun.com/national/incident/2026/07/16/TJ3NLLSWWZFLRARECD2IRR5THI/",
   "https://www.munhwa.com/article/11603158",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260716010006132",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275269",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20260723121800001?input=1195m",
   "https://www.topstarnews.net/news/articleView.html?idxno=16143866",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070162",
-  "https://www.newspim.com/news/view/20260723000882"
+  "https://www.newspim.com/news/view/20260723000882",
+  "https://www.cwn.kr/news/articleView.html?idxno=51129",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207710",
+  "https://www.yna.co.kr/view/AKR20260723045351004?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260723133700064?input=1195m",
+  "https://news.knn.co.kr/news/article_sns/1523",
+  "https://www.yna.co.kr/view/AKR20260723114353053?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008671506&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "경찰\"'李가덕도피습'배후없어…'축소의혹'김상민전검사송치\"",
-  "檢,‘1.9조규모입찰비리’방사청직원구속…“4억대금품수수”",
-  "권성동'통일교1억원수수'징역2년확정…의원직상실(종합2보)",
-  "[속보]韓드라마시청北청년들,친구밀고에체포…뭘봤길래",
-  "홍콩경찰,독립서점2곳또압수수색…5명체포",
-  "[아침&피플]'여중생성매매혐의'91년생최영중청주시의원…수사중...",
-  "경찰“李대통령가덕도테러사건,배후세력확인안돼\"",
   "‘여중생성매매’청주시의원징계위,한달뒤에야열린다",
   "경찰,'李가덕도피습'배후없어…김상민등국정원3명송치",
   "대법,권성동'통일교1억원수수'징역2년확정…의원직상실",
@@ -6001,7 +5994,14 @@
   "국힘\"특검으로선관위사태말끔히해소\"…얼음퍼포먼스",
   "동대문파등40명검거…경찰,30년조직연속성입증",
   "장동혁\"투표율전산조작정황…국정조사연장해야\"",
-  "[종합]합수본\"투표율허위입력정황발견\"…'선관위통계조작'의혹확..."
+  "[종합]합수본\"투표율허위입력정황발견\"…'선관위통계조작'의혹확...",
+  "강북권폭력조직'동대문파'적발…40명검거·14명구속",
+  "\"압수수색왔다\"며300만원'슬쩍'⋯AI로경찰신분증위조",
+  "합수본,선관위'투표율조작'정황포착…강제수사착수(종합2보)",
+  "경찰,'아동성매매'최영중통신기록보존신청",
+  "선관위직원들‘숫자맞추기’정황…합수본강제수사",
+  "법원\"포항지진지열발전관계자형사책임인정어려워\"…전원무죄(종합...",
+  "경찰,'태움간호사사망'경기광주병원4시간여압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "5G 과장광고 산정 일부승소 잘못됐다 SKT 기간 과징금"
   ]
  ],
- "last_run": "2026-07-23T15:10:55.459215+09:00",
+ "last_run": "2026-07-23T15:20:53.018838+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
