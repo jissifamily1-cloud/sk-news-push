@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=713611",
-  "https://weekly.khan.co.kr/article/202607160804001",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/63504?feed=na",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6229730",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206262",
-  "https://www.gpkorea.com/news/articleView.html?idxno=144767",
   "https://www.youthdaily.co.kr/news/article.html?no=223115",
   "https://www.insight.co.kr/news/563288",
   "https://www.kado.net/news/articleView.html?idxno=2061638",
@@ -2999,15 +2993,15 @@
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=242956",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/23/2026072390122.html",
   "https://news.jtbc.co.kr/article/NB12309790?influxDiv=NAVER",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/23/2026072390119.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/23/2026072390119.html",
+  "https://imnews.imbc.com/news/2026/econo/article/6839519_36932.html",
+  "https://www.seoul.co.kr/news/politics/2026/07/23/20260723500124?wlog_tag3=naver",
+  "https://www.news1.kr/society/court-prosecution/6236598",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223881",
+  "https://www.nocutnews.co.kr/news/6552198",
+  "https://www.news1.kr/local/jeju/6236599"
  ],
  "seen_titles": [
-  "[안솔지의잇사이트]'남는장사'된담합…피해는소비자몫",
-  "‘13세아동성착취’수사중공천받은국힘시의원",
-  "이준석\"국힘,정이한빌미로'이번기회로개혁신당못일어서게'모의...",
-  "안동시시설관리공단사외이사,정치자금법위반혐의구속",
-  "\"담배사줄게\"중학생성매수…최영중시의원,폰안내고출석도미뤘...",
-  "신성,'18세순이'로무대뒤집었다…'전설의사내'첫승",
   "'김범석동일인지정'제동…법원,쿠팡집행정지신청인용",
   "'피습자작극'정이한부친,아들범행인지의혹에입열었다",
   "'아동성매매혐의'최영중청주시의원,출석미루고휴대전화도미제출",
@@ -6001,10 +5995,16 @@
   "원희룡전장관,특검출석…'고속도로특혜의혹'혐의부인",
   "정점식\"선관위국정조사,진상규명부족…기한연장해야\"",
   "장동혁,'투표율허위입력'정황포착에\"부실선거인가부정선거인가...",
-  "장동혁\"선관위'전산조작'정황…특검서'서버수사'해야\""
+  "장동혁\"선관위'전산조작'정황…특검서'서버수사'해야\"",
+  "재벌편법투자·우회보증막는다‥공정위규제강화",
+  "장동혁,‘투표율전산조작’의혹에“국정조사연장·선관위서버수...",
+  "'투표율조작'정황에6·3사태새국면…선관위압수수색(종합)",
+  "합수본,'투표율허위입력'정황포착…중앙선관위추가압수수색",
+  "합수본,중앙선관위등압수수색…\"'투표율허위입력'정황발견\"(종합...",
+  "사채시달리다경찰신분증위조해강도질…30대징역4년구형"
  ],
  "recent_sigs": [],
- "last_run": "2026-07-23T11:40:57.062138+09:00",
+ "last_run": "2026-07-23T11:50:54.529768+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
