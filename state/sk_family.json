@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.00news.co.kr/news/articleView.html?idxno=105083",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311015",
-  "https://www.ytn.co.kr/_ln/0102_202607131059288222",
-  "https://www.newspim.com/news/view/20260713000512",
   "https://www.munhwa.com/article/11602270",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272917",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130080&t=NN",
@@ -2999,13 +2995,13 @@
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1089930",
   "http://www.popcornnews.net/news/articleView.html?idxno=127439",
   "http://www.inews24.com/view/1988226",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168634"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168634",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=239167",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=875902",
+  "https://www.newsgn.com/news/articleView.html?idxno=563996",
+  "https://www.donga.com/news/Economy/article/all/20260723/134352237/1"
  ],
  "seen_titles": [
-  "코스피,4월랠리'반값'됐다…하이닉스200만원붕괴",
-  "[산업콕!]글로벌메모리제조사증설전쟁",
-  "AI메모리반도체뒤흔드는신호탄?…SK하이닉스美ADR'흥행'에대대적...",
-  "경제석학의직격\"레버리지ETF,확실히정부가잘못했다..사과해야\"",
   "SK하이닉스,57조AI메모리투자…EUV·패키징병목뚫는다",
   "ADR순풍속변수속출,기업의자율판단존중해야[사설]",
   "[IndustryFocus]인디애나패키징넘어'미국산메모리팹'가시화…SK...",
@@ -6001,7 +5997,11 @@
   "(사)좋은이웃창립22주년기념행사성황리개최",
   "불가리코리아,이화여대애'이화새시대발전기금'1억원기부",
   "머스크도쩔쩔매는메모리공급난…\"정말로심각\"",
-  "양대호재,코스피'질주'...삼전·닉스·네이버'껑충'"
+  "양대호재,코스피'질주'...삼전·닉스·네이버'껑충'",
+  "[병원계소식]7월23일",
+  "경기도의회,'지방의회법제정추진TF'출범...남의장\"전반기의미있...",
+  "李대통령,24일부터美·남미·獨순방…샌프란서'AI서밋'주재",
+  "“최태원제안한사회성과인센티브,선순환효과”…국제학술지게재"
  ],
  "recent_sigs": [
   [
@@ -6101,7 +6101,7 @@
    "양대 질주 호재 네이버 닉스 코스피 껑충 삼전"
   ]
  ],
- "last_run": "2026-07-23T16:24:31.241091+09:00",
+ "last_run": "2026-07-23T16:30:34.965985+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
