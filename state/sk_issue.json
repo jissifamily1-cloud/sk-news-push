@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202607161518011",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128223",
-  "http://www.joseilbo.com/news/news_read.php?uid=572075&class=32",
-  "https://www.yna.co.kr/view/AKR20260716098251004?input=1195m",
-  "https://www.ekn.kr/web/view.php?key=20260716023313222",
-  "http://www.ktnews.com/news/articleView.html?idxno=147239",
   "https://www.etoday.co.kr/news/view/2604572",
   "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1424240",
   "https://www.nocutnews.co.kr/news/6549246",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/local/busan-gyeongnam/6237205",
   "https://www.sedaily.com/article/20071123",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541374",
-  "https://www.sisajournal.com/news/articleView.html?idxno=380928"
+  "https://www.sisajournal.com/news/articleView.html?idxno=380928",
+  "http://www.4th.kr/news/articleView.html?idxno=2115180",
+  "https://lawtalknews.co.kr/article/F8L1HS88H6AG",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700787",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253717&CMPT_CD=P0010",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253715&CMPT_CD=P0010",
+  "https://www.mt.co.kr/thebio/2026/07/23/2026072316193351577"
  ],
  "seen_titles": [
-  "경찰,전교조충남지부압수수색···공직선거법위반혐의",
-  "보험사기정조준…자동차보험'한방진료'수술대오르나",
-  "李가덕도테러흉기'커터칼'로축소...김상민前검사등국정원관계...",
-  "\"18㎝흉기를커터칼로\"…'李테러미지정'김상민前검사등송치(종합)",
-  "생명보험재단,‘AI드로잉리그’수상작공개",
-  "형지I&C,본(BON)스트라이프컬렉션확대…2030여름공략",
   "'10일내현금지급'꺼낸포스코그룹…5300개협력사상생시동",
   "권유대로한헤어스타일\"너무창피\"…미용실은\"실수아닌콘셉트\"[포...",
   "포스코그룹,공정위와협력사아우르는'상생생태계'구축한다",
@@ -6001,7 +5995,13 @@
   "\"생활비챙겨줄게거짓증언해줘\"…검찰수사로조직적위증적발",
   "“투표율오류감추려조작”합수본,선관위압수수색",
   "‘투표율전산허위입력’포착…선관위압수수색[자막뉴스]",
-  "장동혁\"선관위서버압수수색…열리지않을것같은문열렸다\""
+  "장동혁\"선관위서버압수수색…열리지않을것같은문열렸다\"",
+  "SKT5G과장광고과징금168억원취소..법원,산정오류판단",
+  "투표율숫자가다르다?선관위압수수색…전산조작입증시최대징역...",
+  "[프리존TV]오피스텔이대마농장으로…평택회사원4년여은밀한재배",
+  "우원식,배우자동반출장의혹에\"의회정상외교정쟁화...유감\"",
+  "우원식전의장\"주진우·윤상현,계엄해제정당성훼손원하는것\"",
+  "\"교통사고경상환자8주씩진단?한방병원에치떨려\"날세운의협,왜"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK텔레콤 5G과장광고 일부승소 LG유플러스는 행정소송 패소했는데 KT"
   ]
  ],
- "last_run": "2026-07-23T17:41:04.248083+09:00",
+ "last_run": "2026-07-23T17:51:01.198901+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
