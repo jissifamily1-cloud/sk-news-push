@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1146043",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716034",
-  "https://www.newsis.com/view/NISX20260712_0003705907",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=724130",
   "https://biz.sbs.co.kr/article_hub/20000322005?division=NAVER",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=141404",
   "https://biz.sbs.co.kr/article_hub/20000322007?division=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/industry/general-industry/6236421",
   "https://www.mediapen.com/news/view/1111690",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46443",
-  "https://www.seoultimes.news/news/article.html?no=2000098035"
+  "https://www.seoultimes.news/news/article.html?no=2000098035",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=786696",
+  "http://www.popcornnews.net/news/articleView.html?idxno=127395",
+  "https://www.lawtv.kr/news/articleView.html?idxno=60490",
+  "http://www.ddanzi.com/890130083"
  ],
  "seen_titles": [
-  "[외신헤드라인]SK하이닉스나스닥입성…외신\"역사적데뷔\"",
-  "SK하이닉스나스닥데뷔첫날13%↑…265억달러역대급조달",
-  "최태원\"SK하이닉스액면분할검토가능\"…美상장첫날13%급등",
-  "SK하이닉스,美나스닥상장…하루만에13%뛰어[간추린주말뉴스]",
   "[THECEO]최태원SK그룹회장",
   "환시에달러폭탄퍼부을SK하이닉스…'고환율소방수'될까?",
   "[뉴욕주간전망]물가지표주목...2분기실적도주목해야",
@@ -6001,7 +5997,11 @@
   "최태원제안'사회성과인센티브'선순환효과,국제학술지게재",
   "건설채빙하기뚫은SK에코플랜트,시장선택받은이유는",
   "李대통령,샘올트먼·젠슨황잇달아만난다",
-  "사회성과보상국제검증…SPC,사회적기업성장선순환이끌어"
+  "사회성과보상국제검증…SPC,사회적기업성장선순환이끌어",
+  "[전혜은시선]'N%성과급'정면충돌…노사합의에서법적공방으로번...",
+  "SPC,연구SSCI등재…사회성과보상정책효과국제적검증",
+  "반도체초과이익배분놓고노동자·경영계·주주'동상이몽'...합의가...",
+  "[뉴공아카이브]이해민조국혁신당의원,박태웅녹서포럼의장·국가AI..."
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,17 @@
   [
    "2026-07-23T10:20:13.994445+09:00",
    "대통령 만난다 잇달아 올트먼 젠슨"
+  ],
+  [
+   "2026-07-23T10:50:16.072196+09:00",
+   "합의 노동자 배분 반도체 경영계 놓고 동상이몽 주주 초과이익"
+  ],
+  [
+   "2026-07-23T10:50:16.072196+09:00",
+   "조국혁신당 박태웅 이해민 의장 녹서포럼 국가AI 의원"
   ]
  ],
- "last_run": "2026-07-23T10:40:25.479537+09:00",
+ "last_run": "2026-07-23T10:50:33.487004+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6347,6 +6355,8 @@
   "womennews.co.kr": "여성신문",
   "bntnews.co.kr": "bntnews",
   "labortoday.co.kr": "매일노동뉴스",
-  "thetracker.co.kr": "더트래커"
+  "thetracker.co.kr": "더트래커",
+  "lawtv.kr": "법률방송뉴스",
+  "ddanzi.com": "ddanzi.com"
  }
 }
