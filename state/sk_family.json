@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11602270",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272917",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130080&t=NN",
-  "https://www.hinews.co.kr/view.php?ud=202607131204392122cd8b879b3c_48",
-  "https://www.mediawatch.kr/news/article.html?no=260354",
-  "https://www.yna.co.kr/view/AKR20260713069000009?input=1195m",
-  "https://www.tjb.co.kr/news05/bodo/view/id/100886",
-  "https://biz.sbs.co.kr/article_hub/20000322143?division=NAVER",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205547",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335731",
   "http://www.fnnews.com/news/202607012052096509",
@@ -2999,17 +2991,17 @@
   "http://www.doctorstimes.com/news/articleView.html?idxno=239167",
   "https://www.getnews.co.kr/news/articleView.html?idxno=875902",
   "https://www.newsgn.com/news/articleView.html?idxno=563996",
-  "https://www.donga.com/news/Economy/article/all/20260723/134352237/1"
+  "https://www.donga.com/news/Economy/article/all/20260723/134352237/1",
+  "https://www.kmaeil.com/news/articleView.html?idxno=646402",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=786897",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470977",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250816",
+  "https://www.huffingtonpost.kr/article/258950",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441693",
+  "http://www.4th.kr/news/articleView.html?idxno=2115165",
+  "https://www.m-joongang.com/news/articleView.html?idxno=402828"
  ],
  "seen_titles": [
-  "SK하이닉스,57조AI메모리투자…EUV·패키징병목뚫는다",
-  "ADR순풍속변수속출,기업의자율판단존중해야[사설]",
-  "[IndustryFocus]인디애나패키징넘어'미국산메모리팹'가시화…SK...",
-  "3분기유통업계2분기에비해회복될듯.",
-  "SK하이닉스나스닥상장보다화제된최태원‘SKHY’…‘사랑해김희...",
-  "SK하이닉스美상장에국내대규모달러유입…‘환율진정견인’기...",
-  "블룸버그칼럼\"모두가돈나무(SK하이닉스)흔들고싶어한다\"",
-  "블룸버그\"SK하이닉스,美상장성공…이제모두가돈나무를흔들고싶어...",
   "\"모두가돈나무(SK하이닉스)흔들고싶어한다\"블룸버그",
   "'美상장대박'난SK하이닉스…ADR상장프리미엄에도장초반8%로하락...",
   "김어준\"언론이'보완수사권존치'여론몰이\"주장에세계일보\"망발\"",
@@ -6001,7 +5993,15 @@
   "[병원계소식]7월23일",
   "경기도의회,'지방의회법제정추진TF'출범...남의장\"전반기의미있...",
   "李대통령,24일부터美·남미·獨순방…샌프란서'AI서밋'주재",
-  "“최태원제안한사회성과인센티브,선순환효과”…국제학술지게재"
+  "“최태원제안한사회성과인센티브,선순환효과”…국제학술지게재",
+  "경기도의회,지방의회법제정추진본격화…조직권·예산권자율성강...",
+  "[위클리오늘]경기도의회,의장직속'지방의회법제정추진TF'전격출...",
+  "최태원회장이처음제안한'사회성과인센티브',국제학술지사효과검...",
+  "이재용·최태원·정의선·구광모,피지컬AI'4파전'…그룹별차별화전...",
+  "최태원-노소영재산분할파기환송심선고하루앞으로:주식가치산정...",
+  "이재용·최태원,美AI서밋서빅테크CEO와회동…AI협력확대주목",
+  "사회성과보상하니기업도성장…최태원SPC효과입증",
+  "류현진·이정후,한국톱은미국에서도통한다"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,17 @@
   [
    "2026-07-23T16:20:16.757316+09:00",
    "양대 질주 호재 네이버 닉스 코스피 껑충 삼전"
+  ],
+  [
+   "2026-07-23T16:40:15.368664+09:00",
+   "입증 기업도 성장 효과 SPC 보상하니 사회성과"
+  ],
+  [
+   "2026-07-23T16:40:15.368664+09:00",
+   "한국 톱은 통한다 류현진 이정후 미국에서도"
   ]
  ],
- "last_run": "2026-07-23T16:30:34.965985+09:00",
+ "last_run": "2026-07-23T16:40:32.899380+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6335,6 +6343,7 @@
   "lawtv.kr": "법률방송뉴스",
   "ddanzi.com": "ddanzi.com",
   "thelec.kr": "디일렉(THE ELEC)",
-  "fortunekorea.co.kr": "포춘코리아"
+  "fortunekorea.co.kr": "포춘코리아",
+  "4th.kr": "포쓰저널"
  }
 }
