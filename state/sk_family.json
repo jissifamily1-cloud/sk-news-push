@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260713_0003707073",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=266291",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716163",
   "https://www.job-post.co.kr/news/articleView.html?idxno=220843",
@@ -2999,10 +2998,10 @@
   "https://www.bloter.net/news/articleView.html?idxno=668812",
   "https://www.econovill.com/news/articleView.html?idxno=745987",
   "https://www.sedaily.com/article/20071166",
-  "http://www.kjdaily.com/article.php?aid=1784797556682980244"
+  "http://www.kjdaily.com/article.php?aid=1784797556682980244",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256469"
  ],
  "seen_titles": [
-  "<블룸버그>\"한미정부모두SK하이닉스흔들어열매따려해\"",
   "'나스닥상장'SK하이닉스,랍스터특식…곽노정사장\"이번성과,구성...",
   "'하루만에12~13%급락'SK하이닉스의투자결정,글로벌AI투자붐에영...",
   "﻿블룸버그\"李정부,사회경제문제해결위해SK하이닉스흔든다\"",
@@ -6001,13 +6000,10 @@
   "AI영토넓히는네이버…도쿄에서실리콘밸리까지",
   "\"2030년까지7500억출자\"SKTAIDC전문법인'SK하이퍼'승부수,배경은...",
   "이재용·정의선회장,젠슨황·나델라와글로벌AI협의체합류",
-  "[구동에서]반도체가뭐길래"
+  "[구동에서]반도체가뭐길래",
+  "[칩계산논쟁]➃지능의경제학···메모리왕국→인프라강국체질개..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-23T12:30:22.938231+09:00",
-   "가를 하이닉스 배임 삼성 성립 쟁점은 성과급 여부 고발 대표"
-  ],
   [
    "2026-07-23T13:10:13.726916+09:00",
    "재산분할 세기의 선고"
@@ -6139,9 +6135,13 @@
   [
    "2026-07-23T18:20:17.880474+09:00",
    "반도체가 뭐길래"
+  ],
+  [
+   "2026-07-23T18:30:26.770183+09:00",
+   "메모리 경제학 강국 왕국 인프라 지능의 체질"
   ]
  ],
- "last_run": "2026-07-23T18:20:31.692976+09:00",
+ "last_run": "2026-07-23T18:30:38.365859+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
