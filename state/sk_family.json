@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260701500430",
-  "https://www.ajunews.com/view/20260713072130806",
-  "https://slownews.kr/163090",
-  "https://www.ytn.co.kr/_ln/0102_202607130739378942",
-  "https://kjmbc.co.kr/NewsArticle/1527211",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130041&t=NN",
-  "https://www.newsis.com/view/NISX20260713_0003705981",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6836924_37012.html",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51209",
   "https://www.yna.co.kr/view/AKR20260713010400011?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://news.tf.co.kr/read/economy/2346196.htm",
   "http://www.newscape.co.kr/news/articleView.html?idxno=123496",
   "https://www.gokorea.kr/news/articleView.html?idxno=872874",
-  "https://www.newsis.com/view/NISX20260723_0003719860"
+  "https://www.newsis.com/view/NISX20260723_0003719860",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207667",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607091323319480105325",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47523",
+  "https://biz.heraldcorp.com/article/10817683",
+  "https://view.asiae.co.kr/article/2026072308544048913",
+  "http://www.globalepic.co.kr/view.php?ud=20260723111737470448439a4874_29",
+  "https://www.newsis.com/view/NISX20260723_0003720086"
  ],
  "seen_titles": [
-  "'생산능력확대속도전'내건최태원\"고객수요만볼것…투자조건맞...",
-  "'30주년'코스닥의갈림길...승강제등정책기대감↑",
-  "\"사랑해김희영\"?...최태원,SK하닉상장도못막은'사랑꾼'심성",
-  "보완수사권국물도남김없이폐지,민주당교통정리도안됐다:슬로우...",
-  "\"하이닉스ADR,코스피본주끌어올릴수밖에\"화려한美데뷔파급효과...",
-  "[부산]천억원쓴'안전한급식실'..\"사고는증가\"",
-  "미국가더니하루만에본주보다18%비싸진SK하이닉스…주가에숨은...",
   "[오늘의증시]美서불어온SK하닉發'반도체훈풍'…코스피상승탄력받...",
   "[뉴스속경제]하이닉스미국상장흥행‥투자심리살릴까",
   "노소영아트센터나비관장'AI시대배움'공개강연",
@@ -6001,7 +5994,14 @@
   "이재용·최태원·이해진,美서젠슨황회동…반도체주볕들까",
   "SK네트웍스육성AI스타트업케이론,800만달러투자유치추진",
   "피닉스랩'케이론',800만달러시드투자유치추진…멘로벤처스리드...",
-  "이재용·최태원,美서빅테크'릴레이회동'…\"칩장기계약빅딜수주하..."
+  "이재용·최태원,美서빅테크'릴레이회동'…\"칩장기계약빅딜수주하...",
+  "2026년7월23일매일경제1면…서울준공업지20%만풀어도5만가구가...",
+  "[더벨]'경영복귀'최신원SK네트웍스회장,비용절감전략'희망퇴직'",
+  "사회적가치연구원,SPC연구SSCI게재…\"사회·경제성과선순환확인\"",
+  "이재용·정의선,젠슨황주도글로벌AI포럼합류",
+  "역대급실적의역설…SK하이닉스'N%성과급',1년만에시험대",
+  "최태원제안한'SPC',국제학술지서'선순환효과'입증",
+  "\"메모리공급사넘어AI생태계노린다\"…이재용·최태원,美AI서밋서파..."
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-07-23T11:20:13.684274+09:00",
    "릴레이 빅테크 이재용 장기계약 회동 빅딜 수주하"
+  ],
+  [
+   "2026-07-23T11:30:22.256620+09:00",
+   "공급사 노린다 이재용 AI서밋서 넘어 AI 메모리 생태계"
   ]
  ],
- "last_run": "2026-07-23T11:20:26.820952+09:00",
+ "last_run": "2026-07-23T11:30:35.492160+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
