@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Politics/article/all/20260716/134311038/1",
-  "https://www.kyeonggi.com/article/20260716580467",
-  "https://www.joongang.co.kr/article/25445716",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4095531",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251683&CMPT_CD=P0010",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2428577",
-  "https://view.asiae.co.kr/article/2026071617160566025",
-  "https://www.news1.kr/local/gwangju-jeonnam/6230828",
   "https://www.donga.com/news/Society/article/all/20260716/134311038/1",
   "https://www.m-economynews.com/news/article.html?no=68809",
   "https://www.chosun.com/politics/politics_general/2026/07/16/PYNIG7WDFFGGJJU3RSD54BUXZM/",
@@ -2999,17 +2991,17 @@
   "https://www.kbmaeil.com/article/20260723500884",
   "http://www.jndn.com/article.php?aid=1784804475436601093",
   "https://www.donga.com/news/Society/article/all/20260723/134354554/1",
-  "https://www.newsis.com/view/NISX20260723_0003721179"
+  "https://www.newsis.com/view/NISX20260723_0003721179",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260723201756RAH",
+  "http://www.inews24.com/view/1988287",
+  "https://www.khan.co.kr/article/202607232016001",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1531664",
+  "https://www.yna.co.kr/view/AKR20260723055951004?input=1195m",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1531663",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335987",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260724.22001007232"
  ],
  "seen_titles": [
-  "‘13세여중생성매매’청주시의원휴대전화포렌식…증거인멸여부도...",
-  "'미성년자성매매혐의'최영중청주시의원사직서제출",
-  "“휴대전화셀프제출”믿은경찰…청주시의원미성년자성매매수사...",
-  "미성년성매매파장...'청주시'이미지추락,'청주시의회'도덕성흠집",
-  "\"닥치고보완수사권폐지의끝은한동훈대통령만들기\"",
-  "미성년자성매매혐의청주시의원사직",
-  "'미성년자성매매'혐의최영중시의원,휴대폰제출미뤄압수수색",
-  "무기수첫재심'무죄'김신혜씨항소심…원심변호인\"처음부터무죄...",
   "‘여중생성매매’청주시의원휴대폰포렌식…‘성착취물’흔적찾는...",
   "\"산지는폭락인데?...농산물유통구조더는미룰수없다”",
   "靑NSC열어한미현안논의...강경화대사·공정위까지참석",
@@ -6001,7 +5993,15 @@
   "경찰,‘산불이재민임시주택비위의혹’안동시청압수수색",
   "“투표율통계조작”…6·3선거사태‘새국면’",
   "[단독]마약합수본,수사정보유출혐의‘경찰관압수수색",
-  "'성매매혐의'최영중전청주시의원,16일치급여챙겼다"
+  "'성매매혐의'최영중전청주시의원,16일치급여챙겼다",
+  "축구협회,'선수폭행논란'신태용전울산감독징계",
+  "더불어민주당홍기원국회의원,범죄피해자중심형사사법개편방향논...",
+  "경찰,‘산불이재민임시주택납품의혹’안동시청압수수색",
+  "선관위투표통계조작의혹…중앙선관위등압수수색",
+  "특검,'양평道의혹'원희룡전국토장관소환…9시간조사(종합)",
+  "원희룡첫소환…'양평고속도로백지화'정조준",
+  "기사출고8초뒤매도…시장교란자로전락한기자들,막을수있나",
+  "합수본,선관위압수수색…투표율허위입력포착(종합)"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK텔레콤 5G과장광고 일부승소 LG유플러스는 행정소송 패소했는데 KT"
   ]
  ],
- "last_run": "2026-07-23T20:10:57.397496+09:00",
+ "last_run": "2026-07-23T20:20:52.847043+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
