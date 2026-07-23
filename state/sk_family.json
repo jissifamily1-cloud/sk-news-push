@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260225_0003525588",
-  "https://www.dailian.co.kr/news/view/1665760/?sc=Naver",
-  "https://www.news1.kr/it-science/cc-newmedia/6220536",
-  "https://www.sedaily.com/article/20066774",
   "https://www.bloter.net/news/articleView.html?idxno=667894",
   "https://www.mt.co.kr/opinion/2026/07/13/2026070910485199317",
   "https://www.ceoscoredaily.com/page/view/2026071202531301601",
@@ -2999,13 +2995,13 @@
   "http://www.issuenbiz.com/news/articleView.html?idxno=78086",
   "https://www.dt.co.kr/article/12074316",
   "https://magazine.hankyung.com/business/article/202607231178b",
-  "https://www.ajunews.com/view/20260723092841420"
+  "https://www.ajunews.com/view/20260723092841420",
+  "https://www.redian.org/news/articleView.html?idxno=256993",
+  "https://www.ddaily.co.kr/page/view/2026072218154985380",
+  "https://www.sedaily.com/article/20070874",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575494268489"
  ],
  "seen_titles": [
-  "최태원회장승부수'AI인프라'에SK그룹총집결…기회와리스크는",
-  "[현장]무역협회,역대최대규모회장단구성…윤진식회장\"지원대폭...",
-  "SK실트론은예외?…AI반도체가흔든'매각리밸런싱'",
-  "\"토큰,찍어낼것인가,유통할것인가\"…SKT·KT,AI팩토리'2色레이스'",
   "“메모리,더는사이클산업아냐”최태원의자신감‘KV캐싱’이뭐길...",
   "[박종면칼럼]SK하이닉스15년승부,월가의종을울리다",
   "지금한국반도체가가야할길",
@@ -6001,7 +5997,11 @@
   "최태원제안사회성과보상모델,국제학술지서효과입증",
   "‘SK네트웍스육성’피닉스랩,800만달러시드투자유치",
   "'SK네트웍스투자'케이론,800만달러규모시드투자유치",
-  "[이재호의인더스토리]SK하이닉스성공신화,이제부터진짜시험대"
+  "[이재호의인더스토리]SK하이닉스성공신화,이제부터진짜시험대",
+  "이대통령,샌프란시스코서AI빅테크CEO연쇄회동...미국·남미3개국...",
+  "정의선,다시젠슨황만난다…현대차글로벌AI동맹확장",
+  "피닉스랩,800만달러투자라운드진행…바이오파마시장공략속도",
+  "“사회성과에지원했더니덩달아기업도커져”…최태원표SPC,‘두마..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-23T10:10:13.791175+09:00",
    "신화 진짜 성공 이제부터 시험대 SK하이닉스"
+  ],
+  [
+   "2026-07-23T10:18:00.632965+09:00",
+   "사회성과에 지원했더니 최태원표 기업도 커져 SPC 덩달아"
   ]
  ],
- "last_run": "2026-07-23T10:10:27.815049+09:00",
+ "last_run": "2026-07-23T10:18:17.667705+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
