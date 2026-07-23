@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tfmedia.co.kr/news/article.html?no=205823",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=133108",
-  "https://www.yna.co.kr/view/AKR20260716099051063?input=1195m",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612773",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/16/2026071690265.html",
   "https://www.seoul.co.kr/news/society/2026/07/16/20260716500245?wlog_tag3=naver",
@@ -2999,12 +2996,12 @@
   "https://www.chosun.com/national/incident/2026/07/23/2K4SF42IGVG4VITJ5TUGTJDJIQ/",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356391",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618658",
-  "http://www.cctimes.kr/news/articleView.html?idxno=918222"
+  "http://www.cctimes.kr/news/articleView.html?idxno=918222",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872946",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872945",
+  "https://www.newsis.com/view/NISX20260723_0003721208"
  ],
  "seen_titles": [
-  "[이슈체크]정의선회장,보스턴다이나믹스지분추가인수나설까?",
-  "국세청,영원무역특별세무조사착수...노스페이스오너가내부거래...",
-  "경찰,전교조충남지부간부사무실·차량압수수색(종합)",
   "[단독]공수처,‘서해공무원피격위증’강제수사착수…해경청등...",
   "'여중생성매매'청주시의원사직서제출…수사시작후휴대폰교체",
   "여중생성매매혐의청주시의원사직서제출",
@@ -6001,7 +5998,10 @@
   "‘앵커볼트0개’떠내려간이재민주택…경찰,납품비리의혹안동시...",
   "선관위'전산조작'현실로…합수본압수수색,과거선거까지수사확대하...",
   "‘산불이재민주택비위의혹’안동시청압수수색",
-  "`최영중부실수사'경찰구속영장재검토"
+  "`최영중부실수사'경찰구속영장재검토",
+  "우리는몇번의선거를제대로치렀나",
+  "선관위가스스로무너뜨린선거의신뢰",
+  "투표자수백명→수천명'허위입력'…합수본,중앙선관위압색종료(종합..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK텔레콤 5G과장광고 일부승소 LG유플러스는 행정소송 패소했는데 KT"
   ]
  ],
- "last_run": "2026-07-23T20:50:54.397058+09:00",
+ "last_run": "2026-07-23T20:59:00.406797+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
