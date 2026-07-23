@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130033&t=NN",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130027&t=NN",
-  "http://www.beyondpost.co.kr/view.php?ud=2026071306574885762aaae0046f_30",
-  "https://www.econovill.com/news/articleView.html?idxno=744967",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130032&t=NN",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92124",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607090735301960105319",
   "https://www.mk.co.kr/article/12096586",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7173779",
@@ -2999,15 +2993,15 @@
   "https://www.busan.com/view/busan/view.php?code=2026072201023023168",
   "http://www.newsdream.kr/news/articleView.html?idxno=114918",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312901",
-  "https://zdnet.co.kr/view/?no=20260723104139"
+  "https://zdnet.co.kr/view/?no=20260723104139",
+  "https://newscham.net/articles/116990",
+  "https://www.etoday.co.kr/news/view/2606597",
+  "https://www.ilyosisa.co.kr/news/article.html?no=256773",
+  "https://www.sedaily.com/article/20070914",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360710",
+  "https://magazine.hankyung.com/business/article/202607231478b"
  ],
  "seen_titles": [
-  "<김삼기의시사펀치>대한민국산업의미래,3대그룹선택에있었다",
-  "SK하이닉스,화려한뉴욕증시입성-[굿모닝글로벌이슈]",
-  "뉴욕증시'SK하이닉스거래첫날'상승마감…나스닥0.3%↑-[글로벌마...",
-  "SK하이닉스ADR자금,환시에'통화스와프급'달러매도예상...환율안...",
-  "삼성전자,용인첫반도체공장2029년조기가동…AI반도체'속도전'",
-  "\"일종의꿈이이루어졌다\"뉴욕에펄럭인태극기…SK하이닉스,역대최...",
   "SK하이닉스發265억달러유입…환율안정'변수'되나",
   "[더벨][삼성·SK메가투자낙수효과]메모리쇼티지발증설러시,뜨겁...",
   "매경이전하는세상의지식(매-세-지,7월13일)",
@@ -6001,7 +5995,13 @@
   "이정윤의댄스살롱…올해는‘신성’으로만난다",
   "최태원회장의13년'착한보상'결실…국제학술지도'SPC선순환'인정...",
   "최태원회장제안'사회성과인센티브',사회적기업성장선순환이끌었...",
-  "'반도체올인'한국경제괜찮을까...AI에게토론시켰더니"
+  "'반도체올인'한국경제괜찮을까...AI에게토론시켰더니",
+  "[운동권대모험]컴백한힐러와혼란한전당대회",
+  "부산시립무용단·부산진문화재단협력,24·25일무료공연개최",
+  "<김삼기의시사펀치>3대그룹이만든대한민국의미래",
+  "“최태원회장제안사회성과인센티브,선순환효과확인”",
+  "SK네트웍스의AI신약스타트업'케이론'800만달러투자유치…글로벌...",
+  "“다보스구상통했나”최태원회장결실봤다"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,13 @@
   [
    "2026-07-23T11:00:29.679406+09:00",
    "경제 한국 반도체 토론시켰더니 올인 괜찮을까 AI에게"
+  ],
+  [
+   "2026-07-23T11:10:14.556643+09:00",
+   "다보스 구상 회장 통했나 결실 봤다"
   ]
  ],
- "last_run": "2026-07-23T11:00:40.616433+09:00",
+ "last_run": "2026-07-23T11:10:26.483741+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
