@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260702001049",
-  "https://www.newspim.com/news/view/20260702001054",
-  "https://www.newspim.com/news/view/20260702001050",
-  "https://www.newspim.com/news/view/20260702001055",
-  "https://www.newspim.com/news/view/20260702001038",
-  "https://www.newspim.com/news/view/20260702001046",
-  "https://news.tf.co.kr/read/photomovie/2339158.htm",
   "https://news.tf.co.kr/read/photomovie/2339154.htm",
   "https://news.tf.co.kr/read/photomovie/2339152.htm",
   "https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/photos/8021987",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=852012",
   "https://platum.kr/archives/291302",
-  "https://slownews.kr/163657"
+  "https://slownews.kr/163657",
+  "https://www.inthenews.co.kr/news/article.html?no=89664",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=267612",
+  "https://biz.heraldcorp.com/article/10817785",
+  "https://biz.heraldcorp.com/article/10817786",
+  "http://www.inews24.com/view/1988091",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251547",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04145926645517472"
  ],
  "seen_titles": [
-  "[현장]SK,협력사동반성장강화한다…상생협력에1.4조투자",
-  "SK,1~3차협력사와상생협약…동반성장가속화",
-  "SK,협력사와상생협약...하이닉스5년간1.4조활용",
-  "SK,1·2·3차협력사에1조4000억푼다…\"동반성장가속화\"",
-  "SK,1·2·3차협력사에1.4조투입해동반성장강화",
-  "SK협력사와상생협약체결,'대금지급개선''기술·금융지원'으로동...",
-  "SK,1·2·3차협력사와상생협약…\"반도체등1.4조신규자금수혈\"",
   "SK그룹1·2·3차협력사에1.4조푼다…반도체상생생태계강화",
   "SK,협력사상생협약체결…반도체생태계지원에1.4조원투입",
   "SK,2·3차협력사까지상생협약확대···1.4조투자나서",
@@ -6001,25 +5994,16 @@
   "부총리-통신사대표간담회",
   "배경훈부총리,통신3사CEO와AI투자간담회",
   "충남혁신센터·SK에코플랜트,AI·딥테크오픈이노베이션참여기업모집",
-  "スロレタ:2026年7月23日。"
+  "スロレタ:2026年7月23日。",
+  "SKT,ITU-T서로봇데이터표준화과제채택…“피지컬AI표준화선도”",
+  "알파벳,2분기실적117兆'어닝서프'…삼전닉스반등불씨될까",
+  "[헤럴드pic]통신사CEO간담회갖는배경훈부총리",
+  "[헤럴드pic]통신사CEO만난배경훈부총리",
+  "배경훈부총리\"이통3사,AI기업으로나아가야\"...이통3사CEO와회동",
+  "SKT,ITU-T국제표준화회의서'로봇데이터팩토리'과제채택",
+  "[마켓인]'AA'급고려아연PRS금리,왜5%대였나"
  ],
  "recent_sigs": [
-  [
-   "2026-07-23T06:41:06.500707+09:00",
-   "파렴치한가 롯데카드는 달랐나 방어권이 SKT 쿠팡"
-  ],
-  [
-   "2026-07-23T06:41:06.500707+09:00",
-   "알파벳 마감 브렌트 94달 테슬라 급락 약보합 시간외"
-  ],
-  [
-   "2026-07-23T06:41:06.500707+09:00",
-   "흔드는 만들고 스스로 민주당 상한제 52시간"
-  ],
-  [
-   "2026-07-23T06:41:06.500707+09:00",
-   "국민의힘 노조법 양극화 재개정 해법 개정"
-  ],
   [
    "2026-07-23T06:56:48.217202+09:00",
    "급등에 ADR 국제유가 약세 뉴욕증시 SK하닉"
@@ -7111,9 +7095,13 @@
   [
    "2026-07-23T12:41:02.504287+09:00",
    ""
+  ],
+  [
+   "2026-07-23T12:50:58.618543+09:00",
+   "금리 대였나 PRS AA 고려아연"
   ]
  ],
- "last_run": "2026-07-23T12:41:08.060442+09:00",
+ "last_run": "2026-07-23T12:51:05.185029+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
