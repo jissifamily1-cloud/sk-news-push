@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260722008251072?input=1195m",
-  "https://www.munhwa.com/article/11604078",
   "https://www.segye.com/newsView/20260721523057?OutUrl=naver",
   "https://www.kukinews.com/article/view/kuk202607210173",
   "https://www.kukinews.com/article/view/kuk202607210171",
@@ -2999,11 +2997,11 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1394571",
   "https://www.cnbnews.com/news/articleView.html?idxno=1008953",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=141946",
-  "https://www.thepublic.kr/news/articleView.html?idxno=312374"
+  "https://www.thepublic.kr/news/articleView.html?idxno=312374",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3644016",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852016"
  ],
  "seen_titles": [
-  "알파고이후10년…AIEXPOKOREA2026메인컨퍼런스'BeyondAlphaGo:Our...",
-  "[더벨][thebellinterview]장근준SK리츠운용대표\"올해주주친화성장...",
   "AI가이끄는메모리슈퍼사이클…\"2027년까지호황이어진다\"",
   "가상자산거래넘종합금융으로…바이낸스가'슈퍼앱'꺼낸이유",
   "[박근종칼럼]매출액11%늘고영업이익81%늘어도고용은불과0.2%증...",
@@ -6001,33 +5999,11 @@
   "배경훈\"통신사도AI기업…AI네트워크투자확대\"",
   "SK매직-우리은행맞손…전국영업점공기청정기공급계약체결",
   "구글자본지출2000억달러도넘겼다...반도체株'안도'vs알파벳'울상...",
-  "\"터무니없는수준\"노조반발…SK하이닉스,'영업익270조'성과급논의..."
+  "\"터무니없는수준\"노조반발…SK하이닉스,'영업익270조'성과급논의...",
+  "SK텔레콤주가10만원눈앞...올해매출액증가전망",
+  "[현장]배경훈,통신사직접찾아요금완화주문"
  ],
  "recent_sigs": [
-  [
-   "2026-07-23T07:41:07.522470+09:00",
-   "본격화 지원 특위 반도체 광주특별시의회 올린 메가클러스터"
-  ],
-  [
-   "2026-07-23T07:41:07.522470+09:00",
-   "신기술 건설사 불황에도 경쟁력 계속 특허로 미래 키운다 D는"
-  ],
-  [
-   "2026-07-23T07:41:07.522470+09:00",
-   "시험대 롯데리츠 스폰서 도전 리츠 공모채"
-  ],
-  [
-   "2026-07-23T07:41:07.522470+09:00",
-   "7월 오늘의 23일 2026년 법조"
-  ],
-  [
-   "2026-07-23T07:41:07.522470+09:00",
-   "지방 생태계 소부장 관건은 이전 옮기면 반도체 팹만 성공할까"
-  ],
-  [
-   "2026-07-23T07:41:07.522470+09:00",
-   "정유 손익은 유가 요동치는데 딴판 석화"
-  ],
   [
    "2026-07-23T07:47:20.336060+09:00",
    "떠난 통신사도 남아 마이데이터 금융사만"
@@ -7011,9 +6987,13 @@
   [
    "2026-07-23T13:41:02.511754+09:00",
    "SK하이닉스 반발 노조 터무니없는 논의 영업익 270조 성과급 수준"
+  ],
+  [
+   "2026-07-23T13:42:47.698162+09:00",
+   "배경훈 찾아 주문 요금 직접 완화 통신사"
   ]
  ],
- "last_run": "2026-07-23T13:41:08.498210+09:00",
+ "last_run": "2026-07-23T13:42:53.864322+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
