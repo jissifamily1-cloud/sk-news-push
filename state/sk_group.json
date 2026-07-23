@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=345683",
-  "https://en.yna.co.kr/view/AEN20260722006800320?input=2106m",
-  "http://www.fnnews.com/news/202607221535359158",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717331",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607221107517790047",
-  "http://www.inews24.com/view/1987722",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686026",
   "https://www.sentv.co.kr/article/view/sentv202607220160",
   "https://www.energydaily.co.kr/news/articleView.html?idxno=201627",
   "https://www.mt.co.kr/stock/2026/07/22/2026072215572698351",
@@ -2999,16 +2992,16 @@
   "https://economist.co.kr/article/view/ecn202607230062",
   "http://www.fnnews.com/news/202607240635457592",
   "https://www.dailian.co.kr/news/view/1670174/?sc=Naver",
-  "https://economist.co.kr/article/view/ecn202607210064"
+  "https://economist.co.kr/article/view/ecn202607210064",
+  "https://www.gosiweek.com/article/1065564253956005",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490029.html",
+  "https://biz.sbs.co.kr/article_hub/20000324345?division=NAVER",
+  "https://www.gasnews.com/news/articleView.html?idxno=126160",
+  "https://biz.sbs.co.kr/article_hub/20000324347?division=NAVER",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253346&CMPT_CD=P0010",
+  "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html?partner=naver"
  ],
  "seen_titles": [
-  "뒷심부족코스피,소폭오름세로마감",
-  "[포토뉴스]남대전농협,제12기여성대학개강",
-  "KOSPI200ClosingPriceList-3",
-  "KOSPI200ClosingPriceList-4",
-  "차익거래채널열린다…SK하이닉스ADR원주,코스피상장'D-7'",
-  "[포스트폰:AI,안경을쓰다]②메타,AI글래스‘레이밴메타’국내...",
-  "\"성과급은노사합의대상아니다\"…삼성·SK하이닉스대표줄고발",
   "통신3사,AI글라스'레이밴메타'동시출시…어디가제일저렴하나",
   "코스피,장중7100선돌파후상승분반납…0.74%오른6797선마감",
   "삼성전자로봇승부수…삼성SDI'전고체배터리'도탄력",
@@ -6001,7 +5994,14 @@
   "'누구잘못인가'포스코노사간임단협간극역대급...창사첫파업우려",
   "\"이제살수있는가격대,코스피1만간다\"…조정장예측적중했던애...",
   "한미관계가직면한세개의암초[이인배의그라운드제로]",
-  "단일종목레버리지ETF문연김용범,뒷북수습에‘진땀’"
+  "단일종목레버리지ETF문연김용범,뒷북수습에‘진땀’",
+  "Z세대구직자42%\"삼성전자·SK하이닉스등반도체주투자경험\"…관심...",
+  "'충주맨'김선태\"집팔아삼성전자샀는데…6만원대다팔아\"절망",
+  "[증시전략]인텔,2분기실적발표나왔다…반도체주반등이끌까?",
+  "[기업탐방]톱텍솔루션산업안전종합컨설팅기업으로도약",
+  "[마켓브리핑]유가100달러돌파…후티,홍해서사우디유조선공격",
+  "한국원화가약할수밖에없는이유,이나라와비교해보니",
+  "IntelBenefitsFromaNewShiftinA.I.Spending"
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,25 @@
   [
    "2026-07-24T07:11:07.640769+09:00",
    "김용범 단일종목 진땀 수습에 레버리지ETF 뒷북"
+  ],
+  [
+   "2026-07-24T07:21:02.193715+09:00",
+   "톱텍솔루션 도약 컨설팅 산업안전 기업으로"
+  ],
+  [
+   "2026-07-24T07:21:02.193715+09:00",
+   "후티 돌파 유조선 사우디 공격 100달러 유가 홍해서"
+  ],
+  [
+   "2026-07-24T07:21:02.193715+09:00",
+   "약할 한국 보니 수밖에 나라와 비교해 이유 없는 원화가"
+  ],
+  [
+   "2026-07-24T07:21:02.193715+09:00",
+   "Shift Spending Benefits From New in Intel"
   ]
  ],
- "last_run": "2026-07-24T07:11:54.393515+09:00",
+ "last_run": "2026-07-24T07:21:16.657189+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
