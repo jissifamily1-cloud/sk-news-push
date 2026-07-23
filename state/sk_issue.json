@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.btnnews.tv/news/articleView.html?idxno=90808",
-  "https://www.seoul.co.kr/news/politics/2026/07/09/20260709010003?wlog_tag3=naver",
-  "https://www.donga.com/news/Economy/article/all/20260709/134263684/2",
   "https://www.mt.co.kr/stock/2026/07/09/2026070820001717133",
   "https://www.kmib.co.kr/article/view.asp?arcid=1783501701&code=11151400&cp=nv",
   "https://www.sedaily.com/article/20065474",
@@ -2999,12 +2996,12 @@
   "https://www.munhwa.com/article/11604441",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043687",
   "https://www.yna.co.kr/view/AKR20260723058500061?input=1195m",
-  "https://www.yna.co.kr/view/PYH20260723049400013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260723049400013?input=1196m",
+  "https://www.etnews.com/20260723000121",
+  "https://www.segye.com/newsView/20260723508390?OutUrl=naver",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207647"
  ],
  "seen_titles": [
-  "[기획'힙불교Next'③]불교이미지만소비‥'붓다워싱'경계해야",
-  "‘연결자산10조이상’상장사,2028년부터ESG공시의무화",
-  "자산10조넘는기업100곳,탄소배출량공시해야…재계“부담가중”",
   "자산10조이상부터'ESG공시'의무화…코스피291개사대상",
   "2028년부터연결자산10조이상상장사ESG공시의무화",
   "[사설]ESG공시의무10조이상상장사까지,과속·과잉규제아닌가",
@@ -6001,10 +5998,13 @@
   "[속보]‘선거통계조작’수사착수…중앙선관위등압수수색합수본",
   "선관위'통계조작'의혹포착…합수본,압수수색착수(종합)",
   "경찰,'태움간호사사망'경기광주병원압수수색",
-  "투표지합수본,중앙선관위압수수색"
+  "투표지합수본,중앙선관위압수수색",
+  "공정위,지주회사규제우회차단…CVC·SPC활용탈법행위막는다",
+  "합수본,‘투표율통계조작’정황포착…중앙선관위등압수수색",
+  "투표율오류감추려'숫자쪼개기’…조작정황첫확인"
  ],
  "recent_sigs": [],
- "last_run": "2026-07-23T10:18:51.435191+09:00",
+ "last_run": "2026-07-23T10:20:56.977904+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
