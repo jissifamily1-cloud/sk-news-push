@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=534459",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=306565",
-  "https://www.etoday.co.kr/news/view/2606144",
   "https://www.sisajournal.com/news/articleView.html?idxno=380689",
   "https://www.huffingtonpost.kr/article/258899",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442837",
@@ -2999,12 +2996,12 @@
   "https://www.betanews.net/article/view/beta202607230113",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=554737",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06586246645517472",
-  "http://www.gnmaeil.com/news/articleView.html?idxno=591380"
+  "http://www.gnmaeil.com/news/articleView.html?idxno=591380",
+  "https://sports.khan.co.kr/article/202607232137003?pt=nv",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=554780",
+  "https://biz.heraldcorp.com/article/10818063"
  ],
  "seen_titles": [
-  "수원시향,차이콥스키의두걸작으로만나는‘삶과죽음’선사",
-  "금융사몰리는데…금융센터는'언제쯤?'",
-  "에쓰오일,바이오선박유공급시작...저탄소해운연료시장진입",
   "'AIAvengers'inOnePlace:WhatWouldBeTheDiscussionTopics?",
   "이통3사,AI안경'레이밴메타'오늘부터판매",
   "지방소멸위기해결위한혁신아이디어공모…기업참여형솔버톤참가...",
@@ -6001,53 +5998,12 @@
   "'한국경제깜짝성장'원·달러환율,1460원대로급락...원·엔환율1...",
   "[사설]반도체클러스터최적지는역시구미다",
   "[미리보는이데일리신문]보유세강화…초고가·다주택자는더올린다",
-  "삼전닉스ETF,2배의함정"
+  "삼전닉스ETF,2배의함정",
+  "‘끼리끼리’이석훈·장성규·고영배,일본MZ핫플텐마매력에빠졌...",
+  "반도체부품기업'월덱스'구미에2600억투자",
+  "“韓증시도박판됐나”英이코노미스트“투자자들카지노쫓아내기쉽..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "8월 클러스터로 지정 용인 반도체 용인시정연구원 특별법 제1호 시행"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "늘어 대표 기업 뛰었는데 코스피 VIP운용 승계 저평가 김민국"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "Filante puts summer of at comfort Renault Korea heart"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "이랜드 바디프랜드 로엠 스타벅스 신세계백화점"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "주당 현금배당 SK텔레콤 830원 결정"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "LS 인프라 기대 HD현대에너지솔루션 서진시스템 투자 ELECTRIC 전력"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "세기의 회장 요구하는 이혼소송 AI 절반 억만장자 전처 결과"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "인천상의 안전개선 우수아이디어 개최 업무효율 시상식"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "노사 6억원 삼성 성과급 확산 블룸버그 합의 갈등"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "노린다 아이데일 상승세 반등 문민서 제주전 광주FC"
-  ],
-  [
-   "2026-07-23T15:41:05.231725+09:00",
-   "들여 공장 2600억 고용 반도체부품 구미5산단에 370명 월덱스"
-  ],
   [
    "2026-07-23T15:51:12.443358+09:00",
    "LS 네이버 일렉트릭 팔았다 사고"
@@ -6783,9 +6739,13 @@
   [
    "2026-07-23T21:31:17.608141+09:00",
    "함정 2배의 ETF 삼전닉스"
+  ],
+  [
+   "2026-07-23T21:41:06.429558+09:00",
+   "이코노미스트 쫓아내기 카지노 증시 투자자들 도박판 됐나"
   ]
  ],
- "last_run": "2026-07-23T21:31:26.279472+09:00",
+ "last_run": "2026-07-23T21:41:13.226094+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
