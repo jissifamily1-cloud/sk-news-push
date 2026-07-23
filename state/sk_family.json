@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260714000024",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92190",
   "https://www.kyeonggi.com/article/20260714580014",
   "https://www.sentv.co.kr/article/view/sentv202607140004",
   "https://www.kado.net/news/articleView.html?idxno=2061121",
@@ -2999,11 +2997,11 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=535020",
   "https://www.sentv.co.kr/article/view/sentv202607240008",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607231403441200101769",
-  "http://www.datanews.co.kr/news/article.html?no=145692"
+  "http://www.datanews.co.kr/news/article.html?no=145692",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260724.99099007250",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1388866"
  ],
  "seen_titles": [
-  "\"실적이주가로\"…이재용주식가치28조급증,최태원은10조클럽가입",
-  "총수주식재산도양극화…이재용·최태원빼면6조줄었다",
   "2분기총수주식재산29조늘었지만…10명중6명오히려줄어",
   "총수주식재산29조증가…이재용28조↑·최태원첫'10조클럽'",
   "이재용,주식재산2분기28조원폭증…최태원도첫‘10조클럽’",
@@ -6001,7 +5999,9 @@
   "9년끌어온최태원·노소영이혼소송…재산분할운명오늘갈린다",
   "최태원·노소영'재산분할'파기환송심24일결론",
   "[더벨][thebellForum|2026더벨WM포럼]\"코스피강세장지속,AI메모...",
-  "“하이닉스의성공은도전의결과.지금부터가진짜시험대”"
+  "“하이닉스의성공은도전의결과.지금부터가진짜시험대”",
+  "‘세기의이혼’최태원·노소영재산분할파기환송심오늘결론",
+  "AI서메르코수르까지…李·총수'실용외교'[경제외교新실크로드①]"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-07-24T08:30:20.046176+09:00",
    "진짜 성공은 하이닉스의 시험대 지금부터가 도전의 결과"
+  ],
+  [
+   "2026-07-24T08:36:41.542799+09:00",
+   "메르코수르까지 AI서 총수 실용외교"
   ]
  ],
- "last_run": "2026-07-24T08:30:47.372825+09:00",
+ "last_run": "2026-07-24T08:36:54.762963+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
