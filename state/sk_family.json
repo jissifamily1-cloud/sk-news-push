@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609175",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130121&t=NNv",
-  "https://www.meconomynews.com/news/articleView.html?idxno=132644",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442149",
   "http://www.joseilbo.com/news/news_read.php?uid=571794&class=17",
   "https://www.donga.com/news/Economy/article/all/20260713/134287952/1",
@@ -2999,12 +2996,12 @@
   "https://www.kpinews.kr/newsView/1065601291994332",
   "https://www.businesspost.co.kr/BP?command=article_view&num=443005",
   "https://www.dt.co.kr/article/12074454",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443007"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443007",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3644428",
+  "https://www.kado.net/news/articleView.html?idxno=2062796",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41117"
  ],
  "seen_titles": [
-  "메모리칩수급난…삼전닉스,생산기지앞당겨짓는다",
-  "[성공예감]삼전닉스단일종목레버리지폐지해야합니다–홍춘욱대...",
-  "반도체고점론일축…메모리3사,공급앞당기기에사활",
   "[기자수첩]'국가영웅'과'기업규제'...유동수정무위의첫과제",
   "[김재섭의뒤집어보기]AI안쓰면시대에뒤처지는것인가?,서둘러AI...",
   "반도체호황막바지?SK하이닉스의대답은\"없어서못판다\"",
@@ -6001,7 +5998,10 @@
   "경기도의회,의장직속'지방의회법제정추진TF'출범",
   "미국'깐부회동'삼성전자SK하이닉스현대차네이버주가반등신호탄...",
   "[고견을듣는다]“AI,GPU아닌메모리가좌우…삼전닉스,엔비디아넘...",
-  "SK네트웍스가육성한AI스타트업'케이론',800만달러투자라운드진..."
+  "SK네트웍스가육성한AI스타트업'케이론',800만달러투자라운드진...",
+  "경기도의회의장직속'지방의회법제정추진TF'출범...단장최종현...",
+  "강원도의회행정문화위,춘천연극제간담회개최",
+  "이대통령,\"실리콘밸리AI정상외교나선다\"…오픈AI·앤트로픽·엔비디..."
  ],
  "recent_sigs": [
   [
@@ -6133,7 +6133,7 @@
    "달러 라운드 육성한 AI 800만 케이론 투자 스타트업 SK네트웍스가"
   ]
  ],
- "last_run": "2026-07-23T17:40:33.544194+09:00",
+ "last_run": "2026-07-23T17:50:28.071609+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
