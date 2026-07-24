@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83276",
-  "https://www.ajunews.com/view/20260714092751807",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040566",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237480",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03171766645514520",
   "https://www.news1.kr/industry/general-industry/6227191",
   "https://www.getnews.co.kr/news/articleView.html?idxno=875016",
   "http://www.yonhapnewstv.co.kr/news/AKR20260714100033QjO",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1670379/?sc=Naver",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044074",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51654",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=307584"
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=307584",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03325926645517800",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264911",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672831&plink=ORI&cooper=NAVER",
+  "https://www.etoday.co.kr/news/view/2606994",
+  "https://www.mediawatch.kr/news/article.html?no=260455"
  ],
  "seen_titles": [
-  "[국회라이브]양향자\"완공시점도없이800조…산업성적표는첫웨이...",
-  "최태원,주식재산'10조클럽'첫가입…이재용,석달만에28조원늘...",
-  "2분기총수들주식재산29조늘었지만…이재용·최태원만웃었다",
-  "이재용59조·최태원첫10조…2분기총수주식지형재편",
-  "이재용주식평가액28조늘어59조…최태원첫'10조클럽'입성",
   "테크윙,2분기호실적에16%급등[특징주]",
   "최태원\"AI,일시적유행아냐…메모리반도체,이제전략자산\"",
   "\"'2분기불장'에이재용주식가치28조↑…최태원은10조클럽가입\"",
@@ -6001,7 +5996,12 @@
   "최태원·노소영'재산분할'파기환송심…오늘(24일)9년만에결론",
   "최태원-노소영재산분할운명의날…오후2시,파기환송심선고",
   "'샌프란시스코AI행사'에이재용·최태원·정의선·이해진등과참석",
-  "SK네트웍스발굴케이론,실리콘밸리손잡고800만달러투자유치"
+  "SK네트웍스발굴케이론,실리콘밸리손잡고800만달러투자유치",
+  "李대통령,샌프란시스코行…AI거목들만난다",
+  "최태원·노소영'재산분할'파기환송심오늘결론나온다",
+  "이대통령,오늘부터미샌프란·남미순방…7박11일일정돌입",
+  "美,한국에12.5%강제노동관세⋯최태원-노소영‘재산분할’오늘결...",
+  "[심층분석]삼성전자·SK하이닉스,알파벳호실적에훈풍…완벽한반등..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-24T09:30:22.661913+09:00",
    "발굴 실리콘밸리 케이론 손잡고 SK네트웍스 800만달러 유치 투자"
+  ],
+  [
+   "2026-07-24T09:40:14.997757+09:00",
+   "호실적에 완벽한 알파벳 삼성전자 훈풍 반등 SK하이닉스"
   ]
  ],
- "last_run": "2026-07-24T09:30:34.235331+09:00",
+ "last_run": "2026-07-24T09:40:27.400122+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
