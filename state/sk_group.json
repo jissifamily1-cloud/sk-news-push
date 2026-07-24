@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717505",
-  "https://news.tf.co.kr/read/national/2346394.htm",
-  "https://www.kado.net/news/articleView.html?idxno=2062767",
-  "https://www.yna.co.kr/view/AKR20260723056151008?input=1195m",
-  "https://www.newsway.co.kr/news/view?ud=2026072316021281065",
-  "https://www.koreatimes.co.kr/path/A2026072315130000623",
-  "https://news.mtn.co.kr/news-detail/2026072312482558765",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=437970",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312995",
   "http://www.yonhapnewstv.co.kr/news/MYH20260723160448KxP",
   "https://daily.hankooki.com/news/articleView.html?idxno=1388746",
@@ -2999,17 +2991,17 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=0030159249&code=61111111&cp=nv",
   "https://www.g-enews.com/view.php?ud=20260725062518685fbbec65dfb_1",
   "http://www.fnnews.com/news/202607241833368572",
-  "https://www.ddaily.co.kr/page/view/2026072506385189318"
+  "https://www.ddaily.co.kr/page/view/2026072506385189318",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=267764",
+  "https://www.newsis.com/view/NISX20260724_0003722598",
+  "http://www.joseilbo.com/news/news_read.php?uid=572597&class=32",
+  "https://www.slist.kr/news/articleView.html?idxno=754045",
+  "https://www.lecturernews.com/news/articleView.html?idxno=207096",
+  "https://www.bloter.net/news/articleView.html?idxno=668943",
+  "https://www.dailian.co.kr/news/view/1670648/?sc=Naver",
+  "https://www.wikitree.co.kr/articles/1148387"
  ],
  "seen_titles": [
-  "집짓던건설사,생활도살핀다…주거플랫폼경쟁본격화",
-  "외국인2조원순매수에코스피4.4%급등…변동성은여전",
-  "울산시,SK·S-OIL본사방문해AI데이터센터투자·지역협력논의",
-  "[마켓뷰]반도체투심회복…코스피4%·코스닥5%상승",
-  "[해운&Now]해진공,중소선사AI경쟁력높인다…AI진단·PoC본격추진...",
-  "해진공,중소선사AI전환본격지원…내달진단·실증착수",
-  "코스피7096.89로4.40%급등마감…5거래일만에7000선회복",
-  "삼전·닉스,3∼4%급등…외국인순매수1·2위(종합)",
   "KT박윤영\"티빙-웨이브합병,따져볼것많아\"",
   "KOSPIreclaims7,000levelasAlphabetliftsAIoptimism",
   "과기부·통신3사CEO간담회…\"AIDC,미래네트워크전폭지원\"",
@@ -6001,7 +5993,15 @@
   "李대통령,‘클로드’의앤트로픽CEO만나“韓인공지능투자대대적...",
   "한국기업,AI성과바탕으로대미투자대폭확대",
   "9440억재산분할금어떻게마련하나…최태원'SK지분'대신실트론카드...",
-  "美뉴욕증시,국제유가하락했지만관세문제·반도체약세로혼조마감"
+  "美뉴욕증시,국제유가하락했지만관세문제·반도체약세로혼조마감",
+  "SK하이닉스,2Q실적발표'D-4'…AI메모리훈풍에역대급기록'눈앞'",
+  "최태원,SK지분가치8조·배당1000억대…역대최대재산분할재원'관...",
+  "李대통령\"AI대대적투자\"…앤트로픽CEO\"韓기업과협력기대\"",
+  "뉴욕증시,유가하락에도반도체약세에혼조…나스닥0.6%↓",
+  "미국뉴욕증시,유가급락에도반도체주약세에나스닥지수하락...다우...",
+  "코스피7000선회복'좌절'…개인·외국인2조원대순매수",
+  "\"내년아비규환\"경고한최태원,AI자문위원이재용·정의선[재계-in]",
+  "삼성전자·하이닉스주식보유자들을불안하게만드는소식이전해졌다"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,21 @@
   [
    "2026-07-25T06:51:10.819646+09:00",
    "관세 마감 국제유가 약세로 하락했지만 문제 혼조 뉴욕증시 반도체"
+  ],
+  [
+   "2026-07-25T07:01:14.814504+09:00",
+   "7000선 순매수 2조원대 회복 코스피 외국인 좌절 개인"
+  ],
+  [
+   "2026-07-25T07:01:14.814504+09:00",
+   "AI 경고한 내년 자문위원 아비규환 최태원 정의선 이재용"
+  ],
+  [
+   "2026-07-25T07:01:14.814504+09:00",
+   "삼성전자 소식이 주식 불안하게 만드는 하이닉스 보유자들을 전해졌다"
   ]
  ],
- "last_run": "2026-07-25T06:51:17.036142+09:00",
+ "last_run": "2026-07-25T07:01:26.775806+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
