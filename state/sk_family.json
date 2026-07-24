@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1221436",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/511476",
-  "https://www.chosun.com/economy/industry-company/2026/07/14/BQI3WHTTHNHHXCLRAOY7VQLRVI/",
-  "http://www.metroseoul.co.kr/article/20260714500104",
   "https://www.sedaily.com/article/20067369",
   "https://www.newscj.com/news/articleView.html?idxno=3416785",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83276",
@@ -2999,13 +2995,13 @@
   "https://www.globale.co.kr/news/articleView.html?idxno=39492",
   "https://www.gukjenews.com/news/articleView.html?idxno=3634949",
   "https://www.seoultimes.news/news/article.html?no=2000098077",
-  "http://weekly.chosun.com/news/articleView.html?idxno=53712"
+  "http://weekly.chosun.com/news/articleView.html?idxno=53712",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34470",
+  "https://www.joongang.co.kr/article/25447789",
+  "https://www.dailian.co.kr/news/view/1670379/?sc=Naver",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044074"
  ],
  "seen_titles": [
-  "최태원첫'10조클럽'…이재용은석달새28조불렸다",
-  "최태원은‘네트워크형·융합형·확장형’중심의해납백천(海納百川)형...",
-  "김성령,주5회운동비결\"키타고났지만,나머진노력으로가능\"(라스...",
-  "올2분기총수주식재산29조증가?...이재용·최태원빼면6조줄었다",
   "[특징주]SK하이닉스,이틀째약세…美ADR도9%급락",
   "이재용,주식재산석달새28조증가…최태원,첫10조돌파",
   "[국회라이브]양향자\"완공시점도없이800조…산업성적표는첫웨이...",
@@ -6001,7 +5997,11 @@
   "최태원·노소영'세기의재산분할'9년만에파기환송심결론",
   "종로구무계원,'인문의바다'시민강좌개최…참가자모집",
   "[이슈]'세기의재산분할'24일결론…최태원·노소영,SK지분이가른다",
-  "최태원·노소영'세기의재산분할'오늘선고…1조3808억운명은"
+  "최태원·노소영'세기의재산분할'오늘선고…1조3808억운명은",
+  "[초점]최태원-노소영'세기의재산분할'24일선고…쟁점은",
+  "최태원·노소영‘세기의재산분할’9년만에파기환송심결론",
+  "최태원·노소영'재산분할'파기환송심…오늘(24일)9년만에결론",
+  "최태원-노소영재산분할운명의날…오후2시,파기환송심선고"
  ],
  "recent_sigs": [
   [
@@ -6101,7 +6101,7 @@
    "메르코수르까지 AI서 총수 실용외교"
   ]
  ],
- "last_run": "2026-07-24T09:10:25.473990+09:00",
+ "last_run": "2026-07-24T09:20:26.415523+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
