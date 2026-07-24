@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2448580",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1385767",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490207.html",
-  "https://news.jtbc.co.kr/article/NB12308159?influxDiv=NAVER",
   "https://www.ytn.co.kr/_ln/0102_202607141304524786",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205824",
   "https://www.mk.co.kr/article/12098076",
@@ -2999,13 +2995,13 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490133.html",
   "https://www.pointe.co.kr/news/articleView.html?idxno=82214",
   "https://www.mediapen.com/news/view/1111986",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03712966645517800"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03712966645517800",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=133406",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260724113717mdn",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512004",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356426"
  ],
  "seen_titles": [
-  "최태원,SK대박에'10조클럽'첫입성…그룹총수6할은되레주식재...",
-  "김해시,청년농업인스마트농업현장컨설팅실시…실무역량강화",
-  "최태원\"AI비용낮춰야경쟁력\"…데이터센터혁신속도",
-  "이재용·최태원빼면6조줄었다…총수주식도'부익부빈익빈'",
   "줄줄흘러내려'160만닉스'...최태원시사'액면분할'구원투수될까?",
   "코스피'날개없는추락'...언제까지떨어질까?[뉴스나우]",
   "SK하이닉스170만원까지…나스닥상장흥행'대박'이었는데,왜?[프레...",
@@ -6001,7 +5997,11 @@
   "오늘최태원·노소영'재산분할'파기환송심선고",
   "KB금융,유튜브소통콘텐츠'별방'오프라인수면콘서트개최",
   "‘문과’이재용·정의선,‘이과’최태원·구광모…전공이가른4대...",
-  "외신도주목한최태원·노소영이혼…“현실판연속극”"
+  "외신도주목한최태원·노소영이혼…“현실판연속극”",
+  "KB금융,유튜브힐링콘텐츠'별방'첫오프라인콘서트연다",
+  "[이시각헤드라인]7월24일뉴스센터",
+  "[일요칼럼]장관의아이패드,그리고내차의자율주행",
+  "정의선·장인화·조원태·구자은…李남미순방에재계핵심인사대거..."
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,17 @@
   [
    "2026-07-24T11:30:23.093801+09:00",
    "주목한 이혼 현실판 연속극 외신도"
+  ],
+  [
+   "2026-07-24T11:40:14.313858+09:00",
+   "그리고 아이패드 차의 자율주행 장관의"
+  ],
+  [
+   "2026-07-24T11:40:14.313858+09:00",
+   "조원태 대거 재계 정의선 순방에 핵심 인사 장인화 구자은 남미"
   ]
  ],
- "last_run": "2026-07-24T11:30:35.248012+09:00",
+ "last_run": "2026-07-24T11:40:31.414430+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6395,6 +6403,7 @@
   "4th.kr": "포쓰저널",
   "datanews.co.kr": "datanews.co.kr",
   "seouleconews.com": "서울이코노미뉴스",
-  "the-today.com": "더투데이"
+  "the-today.com": "더투데이",
+  "ilyo.co.kr": "일요신문"
  }
 }
