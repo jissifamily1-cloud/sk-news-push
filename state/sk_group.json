@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422608",
-  "http://www.fnnews.com/news/202607231311535773",
-  "https://biz.heraldcorp.com/article/10817893",
-  "https://www.mk.co.kr/article/12105366",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426467",
-  "https://www.mt.co.kr/tech/2026/07/23/2026072311554525460",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451720",
   "http://www.inews24.com/view/1988107",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46456",
@@ -2999,15 +2993,15 @@
   "https://biz.heraldcorp.com/article/10819672",
   "http://www.yonhapnewstv.co.kr/news/MYH20260724202927ELx",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208082",
-  "https://www.yna.co.kr/view/AKR20260724174000009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260724174000009?input=1195m",
+  "https://www.hankyung.com/article/2026072451607",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260724203610zAS",
+  "https://www.ytn.co.kr/_ln/0102_202607242033056267",
+  "https://biz.chosun.com/policy/politics/president_office/2026/07/24/AVCECNPPWNBT5CEYQ2EJFF5UWU/",
+  "https://www.chosun.com/politics/politics_general/2026/07/24/WEMBMKBMXVCLFGWEN4MCOM44S4/",
+  "https://www.nocutnews.co.kr/news/6553161"
  ],
  "seen_titles": [
-  "'세기의이혼'최태원결론…권혁빈은9월",
-  "리벨리온,NPU서버로SKTAI모델구동…'국산AI상용화'성큼",
-  "사회성과인센티브,사회성과·경제성과선순환구조에기여…국제학술...",
-  "\"빅테크AI투자확대\"...일본증시'장중상승',어드반테스트'껑충'",
-  "KT박윤영\"미디어계열사통합,결정된것없어···티빙·웨이브합병...",
-  "'의왕역SK뷰',1순위평균경쟁률6.47대1",
   "한국해양진흥공사,중소선사AI전환지원확대…8월현장실증착수",
   "AI투자더늘린다는‘알파벳’덕분?...반도체주‘들썩’",
   "[문정현의글로브]반도체'롤러코스터주가'보다걱정되는것",
@@ -6001,7 +5995,13 @@
   "李순방서대형AI계약예고…김용범“4700조원맥락이해할숫자나온...",
   "[이시각헤드라인]7월24일뉴스리뷰",
   "\"그룹지배력유지하며대출·배당활용\"…9440억어떻게마련?",
-  "\"AI붐더큰몫확보무산\"…외신도최태원·노소영판결관심"
+  "\"AI붐더큰몫확보무산\"…외신도최태원·노소영판결관심",
+  "\"반도체세수,잘써야한다\"…미래대응기금띄운김용범",
+  "국제유가급등에'검은금요일'…또매도사이드카",
+  "1조원가까운재산분할금...자금마련어떻게?",
+  "“4700조원보다클수도”…삼전·닉스,美빅테크와‘초대형계약’...",
+  "김용범“4700조AI투자과장아니다…美빅테크와계약보면알것”",
+  "코스트코청주입점'변수'…반도체청신호이어져"
  ],
  "recent_sigs": [
   [
@@ -6843,9 +6843,13 @@
   [
    "2026-07-24T20:31:20.606939+09:00",
    "판결 노소영 관심 외신도 최태원 AI붐 무산 확보"
+  ],
+  [
+   "2026-07-24T20:41:06.578202+09:00",
+   "반도체 청주 이어져 청신호 입점 변수 코스트코"
   ]
  ],
- "last_run": "2026-07-24T20:31:32.689654+09:00",
+ "last_run": "2026-07-24T20:41:13.353553+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
