@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1988226",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/23/2026072300270.html",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=133357",
-  "http://www.fnnews.com/news/202607231605160464",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=307551",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=404125",
   "https://www.eroun.net/news/articleView.html?idxno=86111",
   "https://www.newspim.com/news/view/20260723001105",
   "https://biz.heraldcorp.com/article/10818152",
@@ -2999,15 +2993,15 @@
   "https://www.ngonews.kr/news/articleView.html?idxno=233783",
   "https://www.mt.co.kr/society/2026/07/25/2026072419170484661",
   "https://www.khan.co.kr/article/202607250739001",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=876040"
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876040",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280334",
+  "https://www.yna.co.kr/view/AKR20260724086300546?input=1195m",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166467",
+  "https://www.yna.co.kr/view/AKR20260724142900008?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619976",
+  "https://www.dt.co.kr/article/12074620"
  ],
  "seen_titles": [
-  "알파벳실적·GDP호조에달러·원13.3원급락…1466.8원마감(종합)",
-  "차세대AI네트워크민관협의체내달출범",
-  "\"SK멤버사와사업협력\"…소셜벤처'SK임팩트부스터'1기가동",
-  "금융위기급추락딛고반등한원화값…증권가“1440원까지간다”",
-  "머스크도쩔쩔매는메모리공급난…\"정말로심각\"",
-  "'명심은김민석'관측속…정청래,800조카드로호남승부[여의도체...",
   "SK브로드밴드,유료방송업계유일산업안전보건공단이사장표창",
   "\"집나간외국인,구글실적에돌아왔다\"...코스피도7000회복[fn마감시...",
   "증시,외국인매수에급등…JP모건\"韓하반기성장기대\"",
@@ -6001,7 +5995,13 @@
   "李대통령\"AI투자대폭확대\"…앤트로픽CEO\"한국과데이터센터협력...",
   "최태원·노소영'세기의재산분할',역대최대'9440억원'…다음은",
   "뉴욕증시,유가하락에도혼조마감…반도체주약세에나스닥0.64%↓",
-  "李대통령,앤트로픽CEO에\"韓,AI투자대대적확대\""
+  "李대통령,앤트로픽CEO에\"韓,AI투자대대적확대\"",
+  "노소영-최태원이혼소송재산분할,시점은SK주가급등전이어야?",
+  "[인&아웃]콩심은데팥날수도…정책의역설",
+  "인천공항·해운대통신장애없다…통신사,휴가기간특별관리",
+  "국내증시출렁에국장이탈?…서학개미이달순매수4배늘었다",
+  "한국이대만을이겼는데,왜대만보다저평가일까",
+  "SK하닉보다낫다…한달새115%오른SK이터닉스"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,29 @@
   [
    "2026-07-25T07:51:13.750065+09:00",
    "대통령 확대 앤트로픽 대대적 AI투자 CEO에"
+  ],
+  [
+   "2026-07-25T08:01:18.525711+09:00",
+   "역설 정책의 수도 심은"
+  ],
+  [
+   "2026-07-25T08:01:18.525711+09:00",
+   "장애 특별 인천공항 통신 기간 관리 휴가 없다 해운대 통신사"
+  ],
+  [
+   "2026-07-25T08:01:18.525711+09:00",
+   "이탈 서학개미 국내증시 순매수 출렁에 이달 늘었다 4배 국장"
+  ],
+  [
+   "2026-07-25T08:01:18.525711+09:00",
+   "대만보다 이겼는데 한국이 저평가일까 대만을"
+  ],
+  [
+   "2026-07-25T08:01:18.525711+09:00",
+   "낫다 SK이터닉스 오른 한달새 SK하닉보다"
   ]
  ],
- "last_run": "2026-07-25T07:51:19.386327+09:00",
+ "last_run": "2026-07-25T08:01:34.974147+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
