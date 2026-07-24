@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econonews.co.kr/news/articleView.html?idxno=441693",
-  "https://www.huffingtonpost.kr/article/258950",
-  "https://en.yna.co.kr/view/AEN20260723007352320?input=2106m",
-  "https://www.imaeil.com/page/view/2026072316275117224",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005885835",
   "https://www.cnbizm.com/news/articleView.html?idxno=309459",
   "https://www.businessplus.kr/news/articleView.html?idxno=114527",
@@ -2999,13 +2995,13 @@
   "https://www.kyeonggi.com/article/20260725580007",
   "https://www.cbci.co.kr/news/articleView.html?idxno=591735",
   "https://news.dealsitetv.com/articles/173701",
-  "https://www.tokenpost.kr/news/economy/381180"
+  "https://www.tokenpost.kr/news/economy/381180",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250217&t=NN",
+  "https://biz.heraldcorp.com/article/10819811",
+  "https://www.dt.co.kr/article/12074622",
+  "https://weekly.khan.co.kr/article/202607250822001"
  ],
  "seen_titles": [
-  "[거래소외국인]SK하이닉스ㆍ삼성전자또쓸어담았다...추격매수괜찮...",
-  "울산시,SK·S-OIL과지역현안·투자협력방안논의",
-  "SKT,피지컬AI국제표준선점나섰다…로봇데이터기술ITU채택",
-  "NH투자증권,상반기순이익전년比107.6%급증…ROE19%달성",
   "이재용·최태원,美AI서밋서빅테크CEO와회동…AI협력확대주목",
   "최태원-노소영재산분할파기환송심선고하루앞으로:주식가치산정...",
   "(2ndLD)Seoulstocksspikeover4pctonsustainedtechrally",
@@ -6001,7 +5997,11 @@
   "이재명대통령,앤트로픽CEO만나“韓,아시아AI최적파트너”",
   "SK이노베이션주가소폭약세,13만원선지켰다…코스피5%대급락속다...",
   "[핀포인트][아모레퍼시픽]해외법인美中흥행에수익성개선…4822억...",
-  "국내투자자,미국주식매수로전환...예탁금감소"
+  "국내투자자,미국주식매수로전환...예탁금감소",
+  "'국장'탈출한서학개미…쓸어담은종목봤더니",
+  "유가급등세진정에도…반도체株급락에나스닥‘휘청’",
+  "‘국장’탈출하는서학개미…이달‘미장’순매수4배늘어",
+  "“돈,로맨스,부패,배신얽힌현실판K드라마”···외신들도주목한..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,13 @@
   [
    "2026-07-25T08:21:04.008400+09:00",
    "투자자 감소 주식 매수로 예탁금 국내 미국"
+  ],
+  [
+   "2026-07-25T08:31:10.978049+09:00",
+   "주목한 배신 K드라마 얽힌 로맨스 외신들도 부패 현실판"
   ]
  ],
- "last_run": "2026-07-25T08:21:15.054772+09:00",
+ "last_run": "2026-07-25T08:31:17.019895+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
