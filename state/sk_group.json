@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25447555",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190078",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6936856",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274985",
-  "https://biz.chosun.com/stock/stock_general/2026/07/23/4WFNVR2ZURHG5CGDSIYSN7CPGE/",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717505",
   "https://news.tf.co.kr/read/national/2346394.htm",
   "https://www.kado.net/news/articleView.html?idxno=2062767",
@@ -2999,14 +2994,14 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674119&plink=ORI&cooper=NAVER",
   "https://biz.heraldcorp.com/article/10819590",
   "https://www.news1.kr/industry/general-industry/6232776",
-  "https://view.asiae.co.kr/article/2026072409233599126"
+  "https://view.asiae.co.kr/article/2026072409233599126",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471370",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030159249&code=61111111&cp=nv",
+  "https://www.g-enews.com/view.php?ud=20260725062518685fbbec65dfb_1",
+  "http://www.fnnews.com/news/202607241833368572",
+  "https://www.ddaily.co.kr/page/view/2026072506385189318"
  ],
  "seen_titles": [
-  "SKB,산업안전보건공단이사장표청...산재예방·안전보건문화확산",
-  "'귤리트'김신진앞세운제주SK,광주징크스깬다",
-  "[속보]7천회복한코스피,299.19오른7,096.89로마감···코스닥도...",
-  "BaeHeadsToU.S.ForK-AIAlliance",
-  "서학개미,규제피해3배레버리지?…미국순매수5개월來최대",
   "집짓던건설사,생활도살핀다…주거플랫폼경쟁본격화",
   "외국인2조원순매수에코스피4.4%급등…변동성은여전",
   "울산시,SK·S-OIL본사방문해AI데이터센터투자·지역협력논의",
@@ -6001,7 +5996,12 @@
   "\"재산분할9,440억원지급\"…'SK주식'분할대상인정",
   "中企로번진‘영업익N%’성과급요구…노·사·정누구도웃지못하...",
   "\"약정끝나도다시우리제품으로\"…렌털업계,'충성고객'경쟁",
-  "13억국평아파트대신7억오피스텔산다…\"중대형오피스텔한달새7..."
+  "13억국평아파트대신7억오피스텔산다…\"중대형오피스텔한달새7...",
+  "뉴욕증시혼조…반도체쇼크에SK하이닉스ADR9%가까이급락",
+  "李대통령,‘클로드’의앤트로픽CEO만나“韓인공지능투자대대적...",
+  "한국기업,AI성과바탕으로대미투자대폭확대",
+  "9440억재산분할금어떻게마련하나…최태원'SK지분'대신실트론카드...",
+  "美뉴욕증시,국제유가하락했지만관세문제·반도체약세로혼조마감"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-07-25T06:41:06.164649+09:00",
    "국평 한달 13억 7억 중대형 오피스텔 아파트 대신 산다"
+  ],
+  [
+   "2026-07-25T06:51:10.819646+09:00",
+   "관세 마감 국제유가 약세로 하락했지만 문제 혼조 뉴욕증시 반도체"
   ]
  ],
- "last_run": "2026-07-25T06:41:19.752193+09:00",
+ "last_run": "2026-07-25T06:51:17.036142+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
