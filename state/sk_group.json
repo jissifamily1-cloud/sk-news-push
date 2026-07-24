@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451850",
-  "https://www.news1.kr/finance/market-exr/6237000",
-  "https://www.sedaily.com/article/20071085",
-  "https://www.mt.co.kr/future/2026/07/23/2026072314402438753",
-  "https://www.mk.co.kr/article/12105583",
   "http://www.inews24.com/view/1988226",
   "https://www.newdaily.co.kr/site/data/html/2026/07/23/2026072300270.html",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133357",
@@ -2999,14 +2994,14 @@
   "https://www.munhwa.com/article/11604923",
   "https://www.slist.kr/news/articleView.html?idxno=754055",
   "http://www.fnnews.com/news/202607250733208039",
-  "https://www.g-enews.com/view.php?ud=202607250729357921e250e8e188_1"
+  "https://www.g-enews.com/view.php?ud=202607250729357921e250e8e188_1",
+  "https://biz.heraldcorp.com/article/10819786",
+  "https://www.ngonews.kr/news/articleView.html?idxno=233783",
+  "https://www.mt.co.kr/society/2026/07/25/2026072419170484661",
+  "https://www.khan.co.kr/article/202607250739001",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876040"
  ],
  "seen_titles": [
-  "[마감시황]코스피,299.19포인트오른7096.89마감",
-  "[Telecom&Now]SK브로드밴드,산업안전보건공단이사장표창",
-  "코스피,닷새만에7000선회복…AI훈풍에반도체강세",
-  "SKT,로봇AI학습데이터국제표준화주도…ITU-T신규과제채택",
-  "SKT,피지컬AI글로벌기술표준화선도···'로봇데이터'신규과제...",
   "알파벳실적·GDP호조에달러·원13.3원급락…1466.8원마감(종합)",
   "차세대AI네트워크민관협의체내달출범",
   "\"SK멤버사와사업협력\"…소셜벤처'SK임팩트부스터'1기가동",
@@ -6001,7 +5996,12 @@
   "李대통령,美서‘이정후사인볼’받았다…샌프란순방일정시작",
   "李대통령,앤트로픽CEO에\"한국AI투자대대적확대\"",
   "\"어떻게하루도안빼고\"…매일울린사이드카,다음주는괜찮을까",
-  "\"메모리반도체주가급락은'단기발작'...내년수급불균형더심화\""
+  "\"메모리반도체주가급락은'단기발작'...내년수급불균형더심화\"",
+  "‘세기의이혼’에가슴철렁한개미들…미·중사례보니[나우,어스]",
+  "李대통령\"AI투자대폭확대\"…앤트로픽CEO\"한국과데이터센터협력...",
+  "최태원·노소영'세기의재산분할',역대최대'9440억원'…다음은",
+  "뉴욕증시,유가하락에도혼조마감…반도체주약세에나스닥0.64%↓",
+  "李대통령,앤트로픽CEO에\"韓,AI투자대대적확대\""
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,13 @@
   [
    "2026-07-25T07:41:02.557251+09:00",
    "발작 급락은 불균형 단기 주가 수급 메모리 반도체 심화 내년"
+  ],
+  [
+   "2026-07-25T07:51:13.750065+09:00",
+   "대통령 확대 앤트로픽 대대적 AI투자 CEO에"
   ]
  ],
- "last_run": "2026-07-25T07:41:11.778369+09:00",
+ "last_run": "2026-07-25T07:51:19.386327+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
