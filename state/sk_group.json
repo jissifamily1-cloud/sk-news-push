@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852099",
-  "https://www.betanews.net/article/view/beta202607230052",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=205408",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717552",
   "http://www.newstomato.com/ReadNews.aspx?no=1308043&inflow=N",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=362484",
@@ -2997,14 +2994,14 @@
   "https://www.ekn.kr/web/view.php?key=20260720029433996",
   "https://www.dt.co.kr/article/12073685",
   "https://www.itbiznews.com/news/articleView.html?idxno=220041",
+  "https://www.slist.kr/news/articleView.html?idxno=754053",
   "https://www.bntnews.co.kr/article/view/bnt202607250023",
   "https://www.seoulfn.com/news/articleView.html?idxno=634127",
+  "https://www.sedaily.com/article/20071706",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426797",
   "https://www.munhwa.com/article/11604923"
  ],
  "seen_titles": [
-  "정부·이통3사,AI네트워크투자속도낸다…8월민관협의체출범",
-  "리벨리온NPU로SKT초거대인공지능모델구동성공",
-  "양대호재,코스피'질주'...삼전·닉스·네이버'껑충'",
   "코스피,알파벳AI투자확대에7000선회복…삼전·닉스'강세'",
   "반도체훈풍코스피7000선돌파…환율은1466원",
   "SK브로드밴드,'안전최우선'경영…한국산업안전보건공단이사장표창...",
@@ -5999,8 +5996,11 @@
   "노랑풍선‘영어로배우는시드니’파라다이스호텔부산‘리우드패...",
   "면세점뚫고,美상륙…롯데·워커힐‘명품김치’글로벌출사표",
   "파기환송심\"최태원,노소영에현금9,440억원재산분할\"",
+  "李대통령에美측'이정후사인볼'선물→젠슨황·샘올트먼등CEO연쇄...",
   "인텔7.89%↓…필라델피아반도체지수4.25%급락",
   "[뉴욕증시]\"반도체만팔았다\"혼조마감···유가'100달러아래로'",
+  "“노소영에9940억지급”…세기의이혼소송9년만에일단락",
+  "다시100달러돌파한국제유가…하반기'2%대물가'사수가능할까",
   "李대통령,美서‘이정후사인볼’받았다…샌프란순방일정시작"
  ],
  "recent_sigs": [
@@ -6209,11 +6209,19 @@
    "중국 CXMT 가격 상승 상회 D램 서버용 삼성전자"
   ],
   [
-   "2026-07-25T07:32:16.574750+09:00",
-   "대통령 이정후 시작 샌프란 순방 일정 사인볼 받았다"
+   "2026-07-25T07:33:32.962833+09:00",
+   "9년 9940억 지급 이혼소송 노소영에 일단락 만에 세기의"
+  ],
+  [
+   "2026-07-25T07:33:32.962833+09:00",
+   "하반기 가능할까 다시 물가 돌파한 사수 국제유가 100달러"
+  ],
+  [
+   "2026-07-25T07:33:32.962833+09:00",
+   "사인볼 순방 이정후 대통령 샌프란 시작 받았다 일정"
   ]
  ],
- "last_run": "2026-07-25T07:32:23.038306+09:00",
+ "last_run": "2026-07-25T07:33:44.171642+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
