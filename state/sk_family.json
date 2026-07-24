@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=302405",
-  "https://www.newscj.com/news/articleView.html?idxno=3396145",
-  "https://www.dailyt.co.kr/newsView/dlt202604240003",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=356146",
-  "http://www.newsprime.co.kr/news/article.html?no=731425",
-  "https://www.seoultimes.news/news/article.html?no=2000095302",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=686751",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=611000",
-  "https://www.seoulfn.com/news/articleView.html?idxno=627293",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=58444",
   "https://biz.sbs.co.kr/article_hub/20000306420?division=NAVER",
   "https://www.mhj21.com/news/articleView.html?idxno=251787",
@@ -2999,18 +2990,18 @@
   "https://www.news1.kr/local/jeonbuk/6238312",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595375981078",
   "https://www.thepublic.kr/news/articleView.html?idxno=312576",
-  "https://www.hankyung.com/article/202607244508H"
+  "https://www.hankyung.com/article/202607244508H",
+  "https://biz.chosun.com/topics/law_firm/2026/07/24/3BB3CYMVIJH5RL5RUQNRDIXOMM/",
+  "https://www.seoultimes.news/news/article.html?no=2000098112",
+  "https://magazine.hankyung.com/business/article/202607244655b",
+  "http://www.inews24.com/view/1988577",
+  "https://www.yna.co.kr/view/AKR20260724131500004?input=1195m",
+  "https://www.newsis.com/view/NISX20260724_0003722475",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044279",
+  "https://www.mediapen.com/news/view/1112085",
+  "https://www.ytn.co.kr/_ln/0103_202607241604236598"
  ],
  "seen_titles": [
-  "\"나홀로8강\"'뉴어펜져스'도경동\"세계선수권,亞게임선꼭금메달!형...",
-  "[더벨][베테랑사외이사열전]기업해결사황이석이사,회계전문가네...",
-  "‘2026인천SK텔레콤국제그랑프리펜싱선수권’5월1~3일인천서개...",
-  "최신원SK네트웍스명예회장,'무보수선언'으로정면돌파",
-  "[이민경의재계ON]최신원의'보수고사'향후전망은",
-  "최신원SK네트웍스명예회장,'무보수'선언...\"자문역할에집중\"",
-  "최신원SK네트웍스명예회장,'무보수'경영선언",
-  "[기업家]SK그룹④ㅣAI부터배터리·기부까지…기술혁신과사회적책...",
-  "최신원SK네트웍스명예회장,'무보수'선언",
   "최신원SK네트웍스명예회장,'무보수경영'선언",
   "최신원SK네트웍스명예회장,경영복귀하며'무보수'선언",
   "돈안받는최신원명예회장...책임경영가능할까?",
@@ -6001,7 +5992,16 @@
   "[인사]전북익산시",
   "법원\"SK주식형성에노소영기여인정\"…최태원,노소영에9440억원",
   "'세기의이혼'최태원·노소영재산분할9440억원…SK주식재산분할인...",
-  "\"최태원,노소영에현금9440억줘라\"SK하이닉스주가영향은?"
+  "\"최태원,노소영에현금9440억줘라\"SK하이닉스주가영향은?",
+  "‘노태우300억’인정안됐는데…노소영이9440억원받는이유",
+  "[이슈]최태원,노소영에9440억원재산분할…9년소송사실상마침표",
+  "SK(주)는못팔고,SK실트론지분은변수…최태원,9440억마련셈법",
+  "최태원,젠슨황과칵테일회동⋯같은날재산분할9440억선고",
+  "'노태우비자금'빼고도노소영몫'1조원'육박…판단근거는",
+  "최태원,美AI서밋앞두고젠슨황과만찬…'AI동맹'재확인",
+  "'세기의이혼'최태원-노소영,재산분할금9400억…상고여부는,미국출...",
+  "최태원,노소영에9440억지급판결…“경영권리스크는덜었다”",
+  "법원\"최태원,노소영에재산분할9,440억원지급\"[이슈ON]"
  ],
  "recent_sigs": [
   [
@@ -6325,7 +6325,7 @@
    "다시 SK하이닉스가 넘어 HBM 인프라로 성장판 짜는 AI"
   ]
  ],
- "last_run": "2026-07-24T16:15:33.350043+09:00",
+ "last_run": "2026-07-24T16:20:24.112896+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
