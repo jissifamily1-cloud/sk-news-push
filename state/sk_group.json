@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10817934",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230384&t=NN",
   "https://sateconomy.co.kr/news/view/1065589587033993",
   "https://www.joongangenews.com/news/articleView.html?idxno=534823",
   "https://www.joongangenews.com/news/articleView.html?idxno=534822",
@@ -2999,11 +2997,11 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619664",
   "https://www.gukjenews.com/news/articleView.html?idxno=3645762",
   "https://www.nytimes.com/2026/07/24/business/dealbook/trump-trade-war-economy.html?partner=naver",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490304.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490304.html",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260715.99099004557",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441764"
  ],
  "seen_titles": [
-  "리벨리온NPU로SKT초거대AI구동성공",
-  "한국해양진흥공사,중소선사AI경쟁력강화…8월부터진단·실증착수",
   "SK텔레콤,로봇데이터국제표준화과제채택",
   "배경훈\"통신사도AI기업\"…세액공제확대검토(종합)",
   "‘투자대회1등’여경옥셰프도60%손실맞았다…어디투자했나보니",
@@ -6001,7 +5999,9 @@
   "“665억에서9440억으로”…최태원·노소영재산분할일단락",
   "충남도,202조첨단산업투자지원TF출범…'3력혁신'집중",
   "Trump’sRenewedTradeWarRisksDealingaFreshEconomicBlow",
-  "[뉴스더]주가폭등전기준분할…'공동재산3분의1'노소영기여분"
+  "[뉴스더]주가폭등전기준분할…'공동재산3분의1'노소영기여분",
+  "김상욱울산시장에쓰오일에본사울산이전제안",
+  "코스피,5%대낙폭에6700선밑으로...삼성바이오로직스상승VSSK스퀘어..."
  ],
  "recent_sigs": [
   [
@@ -6777,7 +6777,7 @@
    "분할 폭등 3분의1 기여분 노소영 공동재산 기준 주가"
   ]
  ],
- "last_run": "2026-07-24T21:21:28.620535+09:00",
+ "last_run": "2026-07-24T21:31:12.018069+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
