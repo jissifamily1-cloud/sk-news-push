@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2604788",
-  "https://www.dailian.co.kr/news/view/1668331/?sc=Naver",
-  "https://www.insight.co.kr/news/563573",
-  "https://www.dt.co.kr/article/12073347",
-  "https://news.tf.co.kr/read/life/2344489.htm",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260718.99099005270",
-  "https://biz.chosun.com/topics/topics_social/2026/07/18/HBE6HWEIPBH7LNQWVHGZ6WXTXQ/",
   "https://www.m-i.kr/news/articleView.html?idxno=1392607",
   "https://www.kado.net/news/articleView.html?idxno=2061768",
   "https://www.hankookilbo.com/news/article/A2026071815220001563?did=NA",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20260724_0003721535",
   "https://www.busan.com/view/busan/view.php?code=2026072409204096898",
   "https://www.m-economynews.com/news/article.html?no=69051",
-  "https://www.seoul.co.kr/news/society/2026/07/24/20260724500045?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/07/24/20260724500045?wlog_tag3=naver",
+  "https://www.dailian.co.kr/news/view/1670394/?sc=Naver",
+  "https://www.dailian.co.kr/news/view/1670416/?sc=Naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607240318&t=NN",
+  "https://www.pennmike.com/news/articleView.html?idxno=124315",
+  "https://www.nocutnews.co.kr/news/6552733",
+  "https://www.news1.kr/politics/assembly/6237663",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260724.99099007257"
  ],
  "seen_titles": [
-  "‘양평고속도로의혹’원희룡,23일특검출석…‘윗선’규명분수령",
-  "'양평고속道의혹'원희룡전장관,23일특검출석",
-  "'김건희양평고속도로특혜의혹'원희룡,23일'특검소환'대면조사",
-  "‘양평고속도로의혹’원희룡,23일특검출석…‘윗선’규명정조준",
-  "'양평의혹'원희룡전장관,23일종합특검첫출석",
-  "[속보]종합특검,‘양평고속도로의혹’원희룡전국토부장관23일소...",
-  "종합특검,‘양평고속道의혹’원희룡전장관23일소환…압수수색...",
   "특검,23일원희룡소환…'양평고속도로특혜의혹'정조준",
   "원희룡,'양평고속도로의혹'관련종합특검23일출석",
   "'양평고속도로의혹'원희룡전장관,23일특검첫소환",
@@ -6001,7 +5994,14 @@
   "\"'여중생성매매혐의'전청주시의원,'학폭의혹'도\"궁금한이야기Y",
   "'투표통계조작'선관위,\"최종투표율이중요한거아니냐\"주장도",
   "6·3지방선거‘투표통계조작’의혹...선관위조직적개입정황포착",
-  "[단독]우원식,‘배우자동행해외출장’논란…시민단체고발"
+  "[단독]우원식,‘배우자동행해외출장’논란…시민단체고발",
+  "'미성년성매매'최영중,16일만에사퇴하고의정비230만원받았다",
+  "\"최종투표율만맞추면되는거아니냐\"…선관위직원들해명보니",
+  "\"최종투표율만맞추면되는데\"…선관위직원'황당변명'",
+  "검경합수본,중앙선관위'투표율통계조작의혹'이틀째압수수색",
+  "산불이재민용임시주택에비리있었나…경찰,안동시청압수수색",
+  "국힘\"투표율조작포함'선관위종합특검'해야…국조특위도병행\"",
+  "[속보]“최종투표율만맞추면되는거아닌가”선관위직원의황당..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "5G 규모 과장광고 SK텔레콤 168억원 법원 과징금 취소"
   ]
  ],
- "last_run": "2026-07-24T09:31:07.721565+09:00",
+ "last_run": "2026-07-24T09:40:57.672215+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
