@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://sateconomy.co.kr/news/view/1065622945681059",
   "http://www.newskr.kr/news/articleView.html?idxno=105033",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431297",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=640741",
@@ -2999,10 +2998,10 @@
   "https://www.khan.co.kr/article/202607250700001",
   "https://www.namdonews.com/news/articleView.html?idxno=916178",
   "https://www.khan.co.kr/article/202607250718001",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6839979_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6839979_37012.html",
+  "https://www.munhwa.com/article/11604923"
  ],
  "seen_titles": [
-  "50cm만물차도탈출어려워…침수대응요령은",
   "최태원\"SK하이닉스주가결국오른다\"...AI메모리성장에장기우상향...",
   "\"제헌절이코스피구했다\"…미국서SK하이닉스폭락에개미들\"월요일도...",
   "\"퇴원후일상회복돕는다\"…병원과집사이'중간집'",
@@ -6001,7 +6000,8 @@
   "빅테크도“연산자원이부족해”,떠오르는컴퓨팅임대업…네이버의...",
   "신안군,흑산도서'2026국제문페스타'성황리마무리",
   "이대통령“AI투자대대적확대”…앤트로픽CEO“한국기업과협력...",
-  "이재명대통령미국도착‥젠슨황등연쇄회동"
+  "이재명대통령미국도착‥젠슨황등연쇄회동",
+  "李대통령,美서‘이정후사인볼’받았다…샌프란순방일정시작"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-07-25T07:10:17.045425+09:00",
    "떠오르는 연산자원이 컴퓨팅 네이버의 부족해 빅테크도 임대업"
+  ],
+  [
+   "2026-07-25T07:30:04.832528+09:00",
+   "사인볼 받았다 일정 이정후 순방 샌프란 대통령 시작"
   ]
  ],
- "last_run": "2026-07-25T07:20:27.870212+09:00",
+ "last_run": "2026-07-25T07:30:17.654233+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
