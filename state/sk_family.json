@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8014202",
-  "https://magazine.hankyung.com/business/article/202607181770b",
-  "https://www.yna.co.kr/view/PYH20260718026500013?input=1196m",
   "https://www.kmaeil.com/news/articleView.html?idxno=644643",
   "https://www.yna.co.kr/view/PYH20260718027800013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260718028100013?input=1196m",
@@ -2991,6 +2988,7 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1308470",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=557043",
   "http://www.newsprime.co.kr/news/article.html?no=715868",
+  "https://www.segye.com/newsView/20260724514531?OutUrl=naver",
   "https://www.thereport.co.kr/news/articleView.html?idxno=89333",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6835182_37012.html",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310724",
@@ -2999,12 +2997,11 @@
   "https://www.mydaily.co.kr/page/view/2026071718133755858",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077556",
   "https://www.public25.com/news/articleView.html?idxno=50888",
-  "https://www.nocutnews.co.kr/news/6553197"
+  "https://www.nocutnews.co.kr/news/6553197",
+  "https://www.mk.co.kr/article/12107168",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619907"
  ],
  "seen_titles": [
-  "200년전홍어장수의삶,공연예술축제로경험",
-  "[자막뉴스]제헌절이나라를구했다…\"월요일도임시공휴일하자\"",
-  "최태원\"AI에데이터계속먹여야큰다\"…대한상의제주포럼성료",
   "LG엔솔,ESS로흑자전환…차배터리는뼈아팠다",
   "최태원,주식평가액첫'10조클럽'진입…이재용60조육박'1위'",
   "최태원·노소영,남남으로산20년…그사이뛴주식도재산분할?",
@@ -5993,6 +5990,7 @@
   "SK이노E&S,전남해상풍력1단지준공…민간해상풍력시대연다",
   "SK이노E&S,'전남해상풍력1단지'준공...\"국내민간주도최대규모\"",
   "'국내최대'SK이노E&S,전남해상풍력1단지준공",
+  "최태원고백편지부터20년만이혼까지…악연이된‘세기의만남’",
   "나주시,하반기정기인사단행···83명승진",
   "1천억쓴'안전한급식실'‥\"사고는증가\"",
   "나주시,민선9기첫정기인사…'일과성과'중심조직개편",
@@ -6001,15 +5999,29 @@
   "[MD포토]이승준감독-최성환코치'우수지도자상수상'",
   "세명종합병원,복지부'포괄2차종합병원'최종지정…지역의료거점...",
   "최태원,\"SK하이닉스주식,샀다팔았다말고가만히갖고계세요\"",
-  "최태원,재산분할액'1조육박'…현금조달어떻게이뤄질까"
+  "최태원,재산분할액'1조육박'…현금조달어떻게이뤄질까",
+  "점잖은CEO필요없다…구광모회장“기업적극알릴스타경영자시대...",
+  "이대통령,미국샌프란시스코도착…빅테크CEO연쇄회동‘AI협력’"
  ],
  "recent_sigs": [
   [
-   "2026-07-25T06:10:14.425862+09:00",
-   "현금 1조 육박 재산분할액 이뤄질까 어떻게 조달"
+   "2026-07-25T06:11:57.405090+09:00",
+   "회장 스타 알릴 점잖은 CEO 적극 경영자 구광모 기업 시대 필요없다"
+  ],
+  [
+   "2026-07-25T06:11:57.405090+09:00",
+   "고백 세기의 악연이 만남 이혼까지 편지부터 20년만"
+  ],
+  [
+   "2026-07-25T06:11:57.405090+09:00",
+   "어떻게 육박 재산분할액 1조 조달 현금 이뤄질까"
+  ],
+  [
+   "2026-07-25T06:11:57.405090+09:00",
+   "도착 협력 빅테크 샌프란시스코 CEO 연쇄 대통령 회동 AI 미국"
   ]
  ],
- "last_run": "2026-07-25T06:10:29.468439+09:00",
+ "last_run": "2026-07-25T06:12:18.605626+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
