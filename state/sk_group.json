@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://news.lghellovision.net/news/articleView.html?idxno=549149",
-  "https://www.munhwa.com/article/11604593",
-  "http://www.fnnews.com/news/202607231410359091",
-  "https://news.dealsitetv.com/articles/173674",
-  "https://www.ekn.kr/web/view.php?key=20260720029433996",
-  "https://www.dt.co.kr/article/12073685",
-  "https://www.dailian.co.kr/news/view/1670217/?sc=Naver",
-  "https://www.dt.co.kr/article/12074426",
-  "https://www.seoul.co.kr/news/economy/securities/2026/07/23/20260723500204?wlog_tag3=naver",
-  "https://www.viva100.com/article/20260723500975",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724927",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05061046645517472",
   "https://economist.co.kr/article/view/ecn202607230050",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2607164",
   "https://www.newscj.com/news/articleView.html?idxno=3419733",
   "https://www.mk.co.kr/article/12106877",
-  "https://www.khan.co.kr/article/202607250700001"
+  "https://www.khan.co.kr/article/202607250700001",
+  "https://www.viewsnnews.com/article?q=237439",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142049",
+  "https://www.bntnews.co.kr/article/view/bnt202607250019",
+  "https://www.khan.co.kr/article/202607250718001",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876038",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471390",
+  "https://www.segye.com/newsView/20260725502084?OutUrl=naver",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6839979_37012.html",
+  "https://view.asiae.co.kr/article/2026072315511138046",
+  "https://www.g-enews.com/view.php?ud=20260725063926702fbbec65dfb_1"
  ],
  "seen_titles": [
-  "급증하는AIDC,핵심은'발열관리'…KIST,열관리협의회출범",
-  "(LEAD)Seoulstocksspikeover4pctonsustainedtechrally",
-  "[지방의회24시]전남광주특별시의회,'기본사회상설특별위원회'출범...",
-  "리벨리온,NPU서버로초거대AI모델실증",
-  "\"삼전닉스줄것아니면해사이전안된다\"",
-  "여경옥셰프,하닉레버ETF-7400만계좌공개",
-  "\"하닉레버리지로-7400만원,투자대회1등출신도실패\"…수익인증한...",
-  "[퇴근길7분뉴스]전세대출·7000피·청년백수·태권브이·증류",
-  "노랑풍선‘영어로배우는시드니’파라다이스호텔부산‘리우드패...",
-  "면세점뚫고,美상륙…롯데·워커힐‘명품김치’글로벌출사표",
   "박윤영KT대표\"미디어계열사통합고민…구체적으로정해진것없어...",
   "“알파벳이가져온훈풍”코스피‘삼전닉스’랠리에4%급등",
   "[마감시황]코스피,5거래일만에7096.89마감…외국인순매수에반도체...",
@@ -6001,7 +5991,17 @@
   "[분양캘린더]7월다섯째주‘월계중흥S-클래스리비에르’등6359가구...",
   "[천지일보이슈종합]보완수사권폐지·세기의이혼·폭염·유류세인하...",
   "매경이전하는세상의지식(매-세-지,7월25일)",
-  "빅테크도“연산자원이부족해”,떠오르는컴퓨팅임대업…네이버의..."
+  "빅테크도“연산자원이부족해”,떠오르는컴퓨팅임대업…네이버의...",
+  "인텔'깜짝실적'에도7.89%↓SK하이닉스ADR8.81%↓",
+  "[오늘의글로벌마켓]뉴욕증시,국제유가하락에도반도체주약세에혼...",
+  "주식시장먹구름…코스피5%급락·10일연속사이드카",
+  "이대통령“AI투자대대적확대”…앤트로픽CEO“한국기업과협력...",
+  "뉴욕증시,반도체매도세지속에혼조마감...국제유가는급락",
+  "[주간거래소기관]SK하이닉스2조원대매도…새선택지는SK텔레콤·NA...",
+  "“약정끝나도놓치지않는다”…렌털업계,기존고객다시잡기경쟁",
+  "이재명대통령미국도착‥젠슨황등연쇄회동",
+  "\"반도체주급락은비이성적,가격더올라간다\"[주末머니]",
+  "중국CXMT서버용D램가격상승…삼성전자상회"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,17 @@
   [
    "2026-07-25T07:11:27.268194+09:00",
    "부족해 떠오르는 빅테크도 임대업 연산자원이 컴퓨팅 네이버의"
+  ],
+  [
+   "2026-07-25T07:21:05.597064+09:00",
+   "반도체주 올라간다 급락은 비이성적 가격"
+  ],
+  [
+   "2026-07-25T07:21:05.597064+09:00",
+   "중국 CXMT 가격 상승 상회 D램 서버용 삼성전자"
   ]
  ],
- "last_run": "2026-07-25T07:11:58.539970+09:00",
+ "last_run": "2026-07-25T07:21:14.796067+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
