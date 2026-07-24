@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1392935",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030134686&code=61121111&cp=nv",
-  "https://www.khan.co.kr/article/202607201401001",
-  "https://biz.sbs.co.kr/article_hub/20000323380?division=NAVER",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307564&inflow=N",
-  "https://www.kyeonggi.com/article/20260720580216",
   "https://www.donga.com/news/Economy/article/all/20260720/134327499/1",
   "https://www.pointe.co.kr/news/articleView.html?idxno=81985",
   "https://imnews.imbc.com/news/2026/econo/article/6838630_36932.html",
@@ -2999,15 +2993,15 @@
   "https://www.ajunews.com/view/20260723171804630",
   "https://www.yna.co.kr/view/AKR20260724083751004?input=1195m",
   "https://news.jtbc.co.kr/article/NB12310107?influxDiv=NAVER",
-  "https://www.sidae.com/article/2026072414120911848"
+  "https://www.sidae.com/article/2026072414120911848",
+  "https://www.chosun.com/economy/tech_it/2026/07/24/QFJA23BEUNFFLHH2W3RBNCAR3I/",
+  "https://www.pennmike.com/news/articleView.html?idxno=124361",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260724181541ana",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05185686645517800",
+  "http://www.inews24.com/view/1988664",
+  "https://www.hankyung.com/article/2026072449581"
  ],
  "seen_titles": [
-  "과잉진료관행논란에'8주룰'도입...보험업계Vs.한방업계'격돌'",
-  "[속보]경찰,‘김건희명품백무혐의종결’권익위압수수색",
-  "[속보]경찰,‘김건희명품백수수무혐의’권익위압수수색",
-  "\"요가·필라테스이용자10%,휴폐업에돈떼여\"…표준약관마련",
-  "공정위시정요청에불공정약관개선나선카드사",
-  "하도급서면발급누락한대보마그네틱…공정위,3천200만원과징금",
   "요가·필라테스‘먹튀’막는다…휴·폐업2주전까지통보해야",
   "대보마그네틱불공정하도급행위적발...공정위,과징금3200만원부과",
   "대보마그네틱,하도급계약서늑장발급‥과징금3천200만원",
@@ -6001,7 +5995,13 @@
   "[오늘의ABC뉴스룸]갤Z폴드8스펙전격공개!할부금으로대출이자깎...",
   "이언주합성음란물게시전민주당원송치…경찰\"공범·배후없다\"(종합...",
   "[단독]\"시간대별투표율조작혐의수사…중앙선관위·경기선관위공모...",
-  "[사설]투표율허위입력까지…선관위일탈,끝은어디인가"
+  "[사설]투표율허위입력까지…선관위일탈,끝은어디인가",
+  "[단독]네이버의두나무인수장애물사라진다…규합위,특금법시행령...",
+  "황교안\"역대선거전반으로수사확대해야\"",
+  "경찰,경산방화70대피의자주거지·차량압수수색",
+  "검찰,故김창민감독사건규명검사등'형사부우수검사'5명선정",
+  "\"최종투표율만맞추면되는거아냐\"…선관위직원'황당'변명",
+  "與로향한신천지수사…\"신도들집단입당\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "주식도 9천440억원 포함됐다 최태원 재산분할금"
   ]
  ],
- "last_run": "2026-07-24T18:11:15.729457+09:00",
+ "last_run": "2026-07-24T18:20:54.120509+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
