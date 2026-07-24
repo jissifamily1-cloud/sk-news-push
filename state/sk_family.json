@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newskr.kr/news/articleView.html?idxno=105033",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431297",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=640741",
   "http://www.osen.co.kr/article/G1112835391",
   "https://www.mk.co.kr/article/12092365",
   "https://www.topstarnews.net/news/articleView.html?idxno=16126631",
@@ -2999,12 +2996,12 @@
   "https://www.namdonews.com/news/articleView.html?idxno=916178",
   "https://www.khan.co.kr/article/202607250718001",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6839979_37012.html",
+  "https://www.slist.kr/news/articleView.html?idxno=754053",
+  "https://www.sedaily.com/article/20071706",
+  "https://www.itbiznews.com/news/articleView.html?idxno=220041",
   "https://www.munhwa.com/article/11604923"
  ],
  "seen_titles": [
-  "최태원\"SK하이닉스주가결국오른다\"...AI메모리성장에장기우상향...",
-  "\"제헌절이코스피구했다\"…미국서SK하이닉스폭락에개미들\"월요일도...",
-  "\"퇴원후일상회복돕는다\"…병원과집사이'중간집'",
   "내일까지최고150㎜더…시간당50㎜폭우",
   "'적자공항'살려야지방도산다…모범답안'청주모델'보니",
   "'반도체·배터리'충북수출새기록",
@@ -6001,6 +5998,9 @@
   "신안군,흑산도서'2026국제문페스타'성황리마무리",
   "이대통령“AI투자대대적확대”…앤트로픽CEO“한국기업과협력...",
   "이재명대통령미국도착‥젠슨황등연쇄회동",
+  "李대통령에美측'이정후사인볼'선물→젠슨황·샘올트먼등CEO연쇄...",
+  "“노소영에9940억지급”…세기의이혼소송9년만에일단락",
+  "파기환송심\"최태원,노소영에현금9,440억원재산분할\"",
   "李대통령,美서‘이정후사인볼’받았다…샌프란순방일정시작"
  ],
  "recent_sigs": [
@@ -6069,11 +6069,19 @@
    "떠오르는 연산자원이 컴퓨팅 네이버의 부족해 빅테크도 임대업"
   ],
   [
-   "2026-07-25T07:30:04.832528+09:00",
-   "사인볼 받았다 일정 이정후 순방 샌프란 대통령 시작"
+   "2026-07-25T07:32:32.492029+09:00",
+   "9940억 지급 노소영에 만에 일단락 9년 이혼소송 세기의"
+  ],
+  [
+   "2026-07-25T07:32:32.492029+09:00",
+   "파기환송심 노소영에 재산분할 현금 440억원"
+  ],
+  [
+   "2026-07-25T07:32:32.492029+09:00",
+   "사인볼 이정후 받았다 순방 시작 대통령 샌프란 일정"
   ]
  ],
- "last_run": "2026-07-25T07:30:17.654233+09:00",
+ "last_run": "2026-07-25T07:32:53.497373+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6320,6 +6328,7 @@
   "dongponews.net": "재외동포신문",
   "hidomin.com": "경북도민일보",
   "epnc.co.kr": "테크월드",
-  "obsnews.co.kr": "OBS경인TV"
+  "obsnews.co.kr": "OBS경인TV",
+  "itbiznews.com": "IT비즈뉴스"
  }
 }
