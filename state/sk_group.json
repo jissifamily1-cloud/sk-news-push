@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25447554",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426505",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717545",
-  "https://biz.chosun.com/topics/topics_social/2026/07/23/AWFRPJXH3NH4DLDCSYN5V6GXP4/",
-  "https://www.sentv.co.kr/article/view/sentv202607230135",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360754",
-  "https://zdnet.co.kr/view/?no=20260723155234",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3644276",
-  "https://dgmbc.com/NewsArticle/852446",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273484",
   "https://www.joongang.co.kr/article/25447555",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190078",
   "https://sports.hankooki.com/news/articleView.html?idxno=6936856",
@@ -2999,19 +2989,19 @@
   "https://www.tjb.co.kr/news05/bodo/view/id/101460",
   "https://www.bntnews.co.kr/article/view/bnt202607250007",
   "https://www.g-enews.com/view.php?ud=202607250538329115fbbec65dfb_1",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168710"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168710",
+  "https://www.sedaily.com/article/20071726",
+  "http://www.joseilbo.com/news/news_read.php?uid=572596&class=53",
+  "https://biz.chosun.com/international/international_economy/2026/07/25/OGRNESFZ6JBYPM54AYKKEZSQIU/",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852376",
+  "https://www.bntnews.co.kr/article/view/bnt202607250008",
+  "https://www.ikbc.co.kr/article/view/kbc202607250001",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674119&plink=ORI&cooper=NAVER",
+  "https://biz.heraldcorp.com/article/10819590",
+  "https://www.news1.kr/industry/general-industry/6232776",
+  "https://view.asiae.co.kr/article/2026072409233599126"
  ],
  "seen_titles": [
-  "외인순매수에코스피4.4%오른7096마감...전체상장사90%'빨간불'",
-  "코스피,5거래일만에'7천피'재탈환…코스닥도5%뛰며매수사이드카",
-  "SKT제안'로봇데이터표준화'과제,이달ITU-T국제회의서채택",
-  "코스피7000탈환…코스닥도800선턱밑까지급반등",
-  "정부·통신3사,고물가에요금할인…과기부총리“통신사,AI기업돼야...",
-  "[증시-마감]코스피,닷새만에'7천피'회복마감…外人2.1조순매수",
-  "[Telecom&Now]SKT,로봇데이터표준화선도...ITU-T표준화과제채택",
-  "“1.2억넣었는데-61%”…여경옥셰프,SK하이닉스레버리지손실인증",
-  "박윤영KT대표“티빙·웨이브합병,실익따져검토할것”",
-  "구글실적훈풍에코스피7090선으로반도체우려해소…SK하이닉스5%↑",
   "SKB,산업안전보건공단이사장표청...산재예방·안전보건문화확산",
   "'귤리트'김신진앞세운제주SK,광주징크스깬다",
   "[속보]7천회복한코스피,299.19오른7,096.89로마감···코스닥도...",
@@ -6001,7 +5991,17 @@
   "\"10년소송끝AI붐몫확보실패\"…외신\"한국최고가이혼\"",
   "“9440억도적다”…최태원판결에들끓은여론,왜",
   "한미반도체기업AI공급망결속강화",
-  "뉴욕증시반도체주'출렁'...메모리주'추락',AI칩·CHIP장비주'뚝'"
+  "뉴욕증시반도체주'출렁'...메모리주'추락',AI칩·CHIP장비주'뚝'",
+  "뉴욕증시,유가하락에도반도체매도세에혼조마감[데일리국제금융...",
+  "AI투자부담확산…반도체주흔들리며나스닥2주연속하락",
+  "국제유가하락에도반도체주급락…뉴욕증시혼조마감",
+  "이대통령,앤트로픽CEO와AI협력논의",
+  "이재명대통령,앤트로픽CEO에AI투자확대요청",
+  "李,앤트로픽CEO만나\"韓,AI투자대대적확대할것\"",
+  "\"재산분할9,440억원지급\"…'SK주식'분할대상인정",
+  "中企로번진‘영업익N%’성과급요구…노·사·정누구도웃지못하...",
+  "\"약정끝나도다시우리제품으로\"…렌털업계,'충성고객'경쟁",
+  "13억국평아파트대신7억오피스텔산다…\"중대형오피스텔한달새7..."
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,25 @@
   [
    "2026-07-25T06:31:16.943469+09:00",
    "출렁 추락 메모리주 장비주 뉴욕증시 AI칩 CHIP 반도체주"
+  ],
+  [
+   "2026-07-25T06:41:06.164649+09:00",
+   "440억 분할 대상 주식 인정 재산분할 지급"
+  ],
+  [
+   "2026-07-25T06:41:06.164649+09:00",
+   "웃지 성과급 영업익 누구도 요구 못하 번진"
+  ],
+  [
+   "2026-07-25T06:41:06.164649+09:00",
+   "제품으로 충성고객 다시 약정 경쟁 끝나도 우리 렌털업계"
+  ],
+  [
+   "2026-07-25T06:41:06.164649+09:00",
+   "국평 한달 13억 7억 중대형 오피스텔 아파트 대신 산다"
   ]
  ],
- "last_run": "2026-07-25T06:31:32.181891+09:00",
+ "last_run": "2026-07-25T06:41:19.752193+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
