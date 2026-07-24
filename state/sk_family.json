@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1667766/?sc=Naver",
-  "https://view.asiae.co.kr/article/2026071609415328565",
-  "https://www.newsis.com/view/NISX20260716_0003711469",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/511725",
-  "https://www.yna.co.kr/view/AKR20260716031100003?input=1195m",
-  "https://www.news1.kr/photos/8011376",
-  "https://www.mt.co.kr/tech/2026/07/16/2026071609214728732",
   "http://www.hemophilia.co.kr/news/articleView.html?idxno=43235",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=82339",
   "https://www.stardailynews.co.kr/news/articleView.html?idxno=542956",
@@ -2999,16 +2992,16 @@
   "https://news.jtbc.co.kr/article/NB12310099?influxDiv=NAVER",
   "http://www.fnnews.com/news/202607241830352210",
   "https://www.khan.co.kr/article/202607241844001",
-  "https://www.goodkyung.com/news/articleView.html?idxno=289559"
+  "https://www.goodkyung.com/news/articleView.html?idxno=289559",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105417",
+  "https://www.ajunews.com/view/20260724185027054",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264953",
+  "https://www.yna.co.kr/view/AKR20260724166100004?input=1195m",
+  "https://news.jtbc.co.kr/article/NB12310097?influxDiv=NAVER",
+  "https://www.g-enews.com/view.php?ud=2026072418462551373084322ec9_1",
+  "https://news.jtbc.co.kr/article/NB12310109?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[이슈]SK하이닉스ADR흥행몰이…SK㈜밸류업힘싣는최태원의AI승부...",
-  "[남승표의궁변통구]워런버핏이부러워할대한민국을꿈꾸며",
-  "최태원‘AI풀스택’승부통했다…SK㈜,지주사할인깨고밸류업가...",
-  "최태원'AI드라이브'숫자로...군살뺀SK리밸런싱통했다",
-  "\"하이닉스광주진짜오나\"…최태원회장,'광주맛집'SNS팔로우",
-  "최태원\"AI에맞게일하는방식다시짜야\"…제주포럼서성장해법제시",
-  "“광주군공항개발방식변경해야”특별법폐기·개정촉구",
   "\"해양안보는경제안보이자국가생존문제\"…최종현학술원·해군,해양...",
   "최태원의'AI·반도체리밸런싱'전략결실…SK㈜실적·기업가치‘탄...",
   "최태원'AI리밸런싱'성과본격화…SK㈜기업가치도'탄력'",
@@ -6001,7 +5994,14 @@
   "[뉴스룸오프닝]\"9440억지급하라\"/이전'숫자'도손댄정황/민주당...",
   "9440억원재산분할선빠진'노태우비자금300억'…검찰은자금추적계...",
   "“최태원SK주식도재산분할대상…노소영에게9440억원지급”판단...",
-  "李대통령샌프란으로,7박11일순방시작…美빅테크CEO들만나"
+  "李대통령샌프란으로,7박11일순방시작…美빅테크CEO들만나",
+  "최태원·젠슨황,美'AI밀착행보'에쏠린시선",
+  "최태원·노소영이혼소송9440억결론…남은건'노태우비자금'수사",
+  "최태원회장,파기환송심재산분할9440억원현금조달방안은",
+  "'SK주식'도재산분할대상…법조계\"노소영,최태원에판정승\"",
+  "\"현실판K-드라마\"…외신도주목한'최태원·노소영의38년'",
+  "최태원·노소영이혼소송,재산분할9440억…9년법정공방또대법원가...",
+  "지분매각?배당금확대?최태원'1조현금마련'어떻게"
  ],
  "recent_sigs": [
   [
@@ -6373,7 +6373,7 @@
    "실트론 지킨 분할금 재산 팔아 마련할 SK지분"
   ]
  ],
- "last_run": "2026-07-24T18:50:26.562699+09:00",
+ "last_run": "2026-07-24T19:00:46.070603+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
