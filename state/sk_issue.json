@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260720_0003715244",
-  "http://www.metroseoul.co.kr/article/20260720500074",
-  "https://www.etnews.com/20260720000243",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716936",
-  "https://www.viva100.com/article/20260720500688",
-  "https://www.kado.net/news/articleView.html?idxno=2062032",
   "https://imnews.imbc.com/news/2026/econo/article/6838622_36932.html",
   "http://www.breaknews.com/1222714",
   "https://www.lawtv.kr/news/articleView.html?idxno=60440",
@@ -2999,15 +2993,15 @@
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520285",
   "https://ilyo.co.kr/?ac=article_view&entry_id=512021",
   "http://www.fnnews.com/news/202607241634124250",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619497"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619497",
+  "http://www.ikoreanspirit.com/news/articleView.html?idxno=86502",
+  "https://biz.chosun.com/topics/law_firm/2026/07/24/CJU4KQO5SVH3PNHTZVBNS2U7QY/",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=202959",
+  "https://news.tf.co.kr/read/life/2346915.htm",
+  "https://www.nocutnews.co.kr/news/6553110",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208040"
  ],
  "seen_titles": [
-  "[속보]경찰특수본,'김건희명품백수수'무혐의권익위압수수색",
-  "유병호감사위원,구속갈림길...'관저부실감사'의혹",
-  "공정위,하도급계약서미비'대보마그네틱'과징금3200만부과",
-  "과징금·세무리스크에화재까지…쿠팡덮친연쇄악재,실적'빨간불'",
-  "요가•필라테스,휴•폐업2주전사전통지의무화",
-  "필라테스이용자약10%\"폐업후이용료돌려받지못해\"",
   "공정위,요가·필라테스표준약관제정‥휴·폐업2주전고지해야",
   "박경미민주당대변인“원희룡소환,양평고속도로의혹...몸통과배후...",
   "\"독일·일본검사도'직접수사'\"...추미애주장에법조계반박",
@@ -6001,10 +5995,21 @@
   "'오버부킹'공정위심사·'960억지분'취득부담…야놀자,소비자신뢰...",
   "이번선거만그랬을까…선관위통계시스템조작의혹파장",
   "가짜무당내세워87억뜯은부부무고죄로또재판행",
-  "경산관리사무소방화사건,피해자1명사망…경찰,압수수색"
+  "경산관리사무소방화사건,피해자1명사망…경찰,압수수색",
+  "가맹전문법무법인숲이알려주는\"프랜차이즈본부의대부업결합은왜...",
+  "선관위직원“최종투표율만맞추면”…충청권서도허위입력정황(종...",
+  "신천지사태로본정교유착논란의역사",
+  "합수본,신천지'민주당당원가입'의혹도수사한다",
+  "경기이어충청서도…선관위'실시간투표율'조작정황",
+  "최태원재산분할금9천440억원…SK주식도포함됐다[짤e몽땅]"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-24T17:31:13.315897+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-24T17:41:05.795060+09:00",
+   "주식도 9천440억원 포함됐다 최태원 재산분할금"
+  ]
+ ],
+ "last_run": "2026-07-24T17:41:12.435948+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
