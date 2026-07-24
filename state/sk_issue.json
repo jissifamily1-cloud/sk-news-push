@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1392607",
-  "https://www.kado.net/news/articleView.html?idxno=2061768",
-  "https://www.hankookilbo.com/news/article/A2026071815220001563?did=NA",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663287&plink=ORI&cooper=NAVER",
-  "https://www.hani.co.kr/arti/society/society_general/1268807.html",
-  "https://www.ekn.kr/web/view.php?key=20260718024433563",
-  "https://www.nocutnews.co.kr/news/6549742",
-  "https://www.mt.co.kr/society/2026/07/18/2026071815382672071",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850953",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614024",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2288624",
   "https://imnews.imbc.com/news/2026/society/article/6838340_36918.html",
@@ -2999,18 +2990,18 @@
   "https://www.pennmike.com/news/articleView.html?idxno=124315",
   "https://www.nocutnews.co.kr/news/6552733",
   "https://www.news1.kr/politics/assembly/6237663",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260724.99099007257"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260724.99099007257",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717622",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619122",
+  "https://www.etoday.co.kr/news/view/2607010",
+  "https://www.bntnews.co.kr/article/view/bnt202607240109",
+  "https://www.youthdaily.co.kr/news/article.html?no=223681",
+  "https://www.kyeonggi.com/article/20260724580063",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3644972",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619111",
+  "https://imnews.imbc.com/replay/2026/nw930/article/6839772_36996.html"
  ],
  "seen_titles": [
-  "특검,23일원희룡소환…'양평고속도로특혜의혹'정조준",
-  "원희룡,'양평고속도로의혹'관련종합특검23일출석",
-  "'양평고속도로의혹'원희룡전장관,23일특검첫소환",
-  "'양평고속도로의혹'원희룡,23일특검출석…'윗선규명'정조준",
-  "‘양평고속도로특혜의혹’원희룡,23일피의자신분으로특검출석",
-  "원희룡,23일특검출석…양평고속도로특혜의혹조사",
-  "종합특검,'양평고속도로의혹'원희룡23일소환",
-  "종합특검,'양평고속도로의혹'원희룡전국토부장관23일소환",
-  "원희룡,23일특검출석…양평고속도로의혹",
   "‘양평고속도로의혹’원희룡,23일종합특검출석",
   "'최영중前청주시의원옹호'논란김진모국민의힘당협위원장사퇴",
   "종합특검,'양평고속도로의혹'원희룡전국토부장관오는23일소환",
@@ -6001,7 +5992,16 @@
   "검경합수본,중앙선관위'투표율통계조작의혹'이틀째압수수색",
   "산불이재민용임시주택에비리있었나…경찰,안동시청압수수색",
   "국힘\"투표율조작포함'선관위종합특검'해야…국조특위도병행\"",
-  "[속보]“최종투표율만맞추면되는거아닌가”선관위직원의황당..."
+  "[속보]“최종투표율만맞추면되는거아닌가”선관위직원의황당...",
+  "공정위,독립후복귀친족'동일인관련자'재지정…LS핀셋규제보완",
+  "[전격시사]‘신천지개입설’까지민주당당권은누가?(김준일)왜3명...",
+  "국힘\"원내대표멱살잡이참담…당품위훼손엄정대응\"",
+  "‘궁금한이야기Y’미성년자성매매의혹최영중,그는누구?",
+  "[이슈60초]\"최종투표율만맞추면되죠?\"선관위의'황당변명'합수본...",
+  "‘투표통계조작’선관위직원들“최종투표율만맞추면끝아니냐”...",
+  "野박성훈\"선관위압수수색…조작가능성전면조사\"",
+  "‘투표율조작혐의’압수수색이틀째…‘투표용지관련’피의자소환",
+  "투표율'멋대로'조작‥수사확대불가피"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "5G 규모 과장광고 SK텔레콤 168억원 법원 과징금 취소"
   ]
  ],
- "last_run": "2026-07-24T09:40:57.672215+09:00",
+ "last_run": "2026-07-24T09:50:55.303352+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
