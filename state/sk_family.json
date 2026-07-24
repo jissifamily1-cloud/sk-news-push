@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20068445",
-  "https://www.eroun.net/news/articleView.html?idxno=85604",
-  "https://www.smartbizn.com/news/articleView.html?idxno=148713",
-  "http://www.queen.co.kr/news/articleView.html?idxno=460357",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312111",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165918",
-  "https://www.dailian.co.kr/news/view/1667818/?sc=Naver",
-  "https://www.inthenews.co.kr/news/article.html?no=89399",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105188",
   "https://www.mediawatch.kr/news/article.html?no=260389",
   "https://view.asiae.co.kr/article/2026071610411948925",
   "https://www.seoulfn.com/news/articleView.html?idxno=633518",
@@ -2999,18 +2990,18 @@
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160295663702743",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541578",
   "http://www.yonhapnewstv.co.kr/news/MYH20260724190750FQh",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208096"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208096",
+  "https://sports.khan.co.kr/article/202607241914013?pt=nv",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541582",
+  "https://biz.sbs.co.kr/article_hub/20000324460?division=NAVER",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541581",
+  "https://www.segye.com/newsView/20260724513906?OutUrl=naver",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280331",
+  "https://www.mt.co.kr/society/2026/07/24/2026072416565837269",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541580",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541579"
  ],
  "seen_titles": [
-  "조정식국회의장\"AI혁명,절호의기회…투자위해제도신속개선할것...",
-  "김성령,미모유지루틴·비결공개…'라스'최고의1분",
-  "최종현학술원·해군공동포럼…\"해양안보는경제안보\"",
-  "귀농·귀촌청년기업부스관람하는최태원회장·김정관장관",
-  "\"야구장여신,미모감탄했는데반전\"…AI,신기한도구수준넘었다",
-  "재발잦은여드름,네오빔포텐자로피지조절과진피재생도움",
-  "최태원'AI·반도체중심전략'통했다...SK,성장모멘텀강화",
-  "안면홍조여드름붉은자국,브이빔레이저LDM병행치료도움",
-  "최종현학술원·해군\"해상교통로지켜야경제안보\"",
   "“해양안보,군사영역국한말고국가경제생존문제로봐야”",
   "[이로운논의]최종현학술원·해군,해상교통로위기진단...경제안보해법...",
   "최태원'AI승부수'로'SK밸류업'···반도체넘어AI인프라로확장",
@@ -6001,7 +5992,16 @@
   "영종구의회,‘보육교직원노고’격려",
   "“노소영에9440억지급”…이혼소송사상최대",
   "SK지배구조지켰지만…9,440억마련은과제",
-  "MBN뉴스7주요뉴스"
+  "MBN뉴스7주요뉴스",
+  "법원,최태원·노소영재산분할파기환송심선고“최회장,9440억원지급...",
+  "[아는기자]‘세기의소송’,사실상노소영판정승?",
+  "[집중진단]외국인돌아온거아니었나?…'5조매물폭탄'에증시또휘...",
+  "‘세기의이혼소송’9년만에일단락",
+  "9400억넘는재산분할금…최태원회장자금조달어떻게?",
+  "노소영-최태원재산분할9940억원...“가사·양육기여인정에도절반...",
+  "최태원·노소영역대급재산분할,'4조'권혁빈이혼소송판흔든다",
+  "“9440억원‘현금’으로지급하라”",
+  "“재산1/3은노소영몫…SK주식포함”"
  ],
  "recent_sigs": [
   [
@@ -6381,7 +6381,7 @@
    "뉴스7 MBN 주요뉴스"
   ]
  ],
- "last_run": "2026-07-24T19:10:33.604717+09:00",
+ "last_run": "2026-07-24T19:20:25.491669+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
