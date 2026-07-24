@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hemophilia.co.kr/news/articleView.html?idxno=43235",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82339",
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=542956",
-  "http://www.inews24.com/view/1986084",
   "https://www.sedaily.com/article/20068445",
   "https://www.eroun.net/news/articleView.html?idxno=85604",
   "https://www.smartbizn.com/news/articleView.html?idxno=148713",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260724166100004?input=1195m",
   "https://news.jtbc.co.kr/article/NB12310097?influxDiv=NAVER",
   "https://www.g-enews.com/view.php?ud=2026072418462551373084322ec9_1",
-  "https://news.jtbc.co.kr/article/NB12310109?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12310109?influxDiv=NAVER",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160295663702743",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541578",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260724190750FQh",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208096"
  ],
  "seen_titles": [
-  "\"해양안보는경제안보이자국가생존문제\"…최종현학술원·해군,해양...",
-  "최태원의'AI·반도체리밸런싱'전략결실…SK㈜실적·기업가치‘탄...",
-  "최태원'AI리밸런싱'성과본격화…SK㈜기업가치도'탄력'",
-  "日서도화제인젠슨황의'식탁외교'…꼬치구이로AI공급망다졌다",
   "조정식국회의장\"AI혁명,절호의기회…투자위해제도신속개선할것...",
   "김성령,미모유지루틴·비결공개…'라스'최고의1분",
   "최종현학술원·해군공동포럼…\"해양안보는경제안보\"",
@@ -6001,7 +5997,11 @@
   "'SK주식'도재산분할대상…법조계\"노소영,최태원에판정승\"",
   "\"현실판K-드라마\"…외신도주목한'최태원·노소영의38년'",
   "최태원·노소영이혼소송,재산분할9440억…9년법정공방또대법원가...",
-  "지분매각?배당금확대?최태원'1조현금마련'어떻게"
+  "지분매각?배당금확대?최태원'1조현금마련'어떻게",
+  "영종구의회,‘보육교직원노고’격려",
+  "“노소영에9440억지급”…이혼소송사상최대",
+  "SK지배구조지켰지만…9,440억마련은과제",
+  "MBN뉴스7주요뉴스"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-07-24T18:30:22.110625+09:00",
    "실트론 지킨 분할금 재산 팔아 마련할 SK지분"
+  ],
+  [
+   "2026-07-24T19:10:19.390684+09:00",
+   "마련은 지배구조 지켰지만 과제 440억"
+  ],
+  [
+   "2026-07-24T19:10:19.390684+09:00",
+   "뉴스7 MBN 주요뉴스"
   ]
  ],
- "last_run": "2026-07-24T19:00:46.070603+09:00",
+ "last_run": "2026-07-24T19:10:33.604717+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
