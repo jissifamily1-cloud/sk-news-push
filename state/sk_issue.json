@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202607201413456302",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02633846645516488",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008665344&plink=ORI&cooper=NAVER",
-  "https://www.seoul.co.kr/news/society/accident/2026/07/20/20260720500133?wlog_tag3=naver",
-  "http://www.ikld.kr/news/articleView.html?idxno=337531",
-  "https://www.asiatime.co.kr/article/20260720500208",
-  "https://www.dailian.co.kr/news/view/1668745/?sc=Naver",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607191310354520586",
   "https://www.news1.kr/industry/sb-founded/6232879",
   "https://www.yna.co.kr/view/AKR20260720102500052?input=1195m",
   "https://www.news1.kr/society/incident-accident/6232888",
@@ -2999,17 +2991,17 @@
   "https://www.wikitree.co.kr/articles/1148344",
   "https://www.hani.co.kr/arti/society/society_general/1269881.html",
   "https://www.newdaily.co.kr/site/data/html/2026/07/24/2026072400146.html",
-  "https://www.news1.kr/society/incident-accident/6238534"
+  "https://www.news1.kr/society/incident-accident/6238534",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208098",
+  "http://www.breaknews.com/1224353",
+  "https://news.jtbc.co.kr/article/NB12310093?influxDiv=NAVER",
+  "https://news.jtbc.co.kr/article/NB12310095?influxDiv=NAVER",
+  "https://www.mk.co.kr/article/12106965",
+  "https://news.jtbc.co.kr/article/NB12310092?influxDiv=NAVER",
+  "https://www.nocutnews.co.kr/news/6553178",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645612"
  ],
  "seen_titles": [
-  "경찰,권익위압수수색...'김건희명품백봐주기의혹'관련",
-  "“너무맛있어요”포털속리뷰수만건,허위였다…19억원챙긴일당...",
-  "[뉴스브리핑]오늘의주요뉴스…스페인16년만에V2…메시'눈물'",
-  "경찰,한국남동발전압수수색…기부행위의혹본격수사",
-  "환경산업기술원,친환경위장대응전략모색",
-  "[AT현장]뒤집힌‘삼성웰스토리’처분…전문가들“법리재검토해야...",
-  "개인정보유출이어대형화재까지…쿠팡리스크'첩첩산중'",
-  "석유화학시계제로,산단구조개편속도차…호르무즈재봉쇄리스크까...",
   "'인쇄용지담합'과징금면제·감액에…인쇄업계\"사실상면죄부\"",
   "경찰,'창원시장선거전기부행위의혹'한국남동발전압수수색",
   "경찰특수본,권익위압수수색…유철환전위원장등직권남용혐의",
@@ -6001,7 +5993,15 @@
   "경기에이어'이지역'에서도'투표율허위입력'정황포착...수사전...",
   "신천지이만희75억세금포탈추가기소…민주당도‘집단입당’정황...",
   "선관위자문단출신교수\"투표율조작은선거전체신뢰흔들어…선관...",
-  "'이언주합성음란물게시'기업인송치…전민주당원으로파악(종합)"
+  "'이언주합성음란물게시'기업인송치…전민주당원으로파악(종합)",
+  "경기이어충청도…합수본'투표율조작'정황추가확보",
+  "나경원의원,“선관위,전산조작·주권도둑질…사전투표폐지해야”",
+  "'시간대별투표율'표심영향미치는데…선관위가공모'충격'",
+  "[단독]중앙선관위,경기도선관위에\"숫자맞추자\"조작샘플보내",
+  "이언주합성음란물게시한전민주당원…경찰“공범·배후없다”",
+  "[단독]투표자수잘못입력하고'숫자마사지'…입력마친통계도손댄...",
+  "아동성매매혐의최영중전청주시의원끝모를파문계속",
+  "'궁금한이야기Y'미성년자성매매의혹...최영중전시의원추적"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "주식도 9천440억원 포함됐다 최태원 재산분할금"
   ]
  ],
- "last_run": "2026-07-24T19:01:15.367380+09:00",
+ "last_run": "2026-07-24T19:11:02.106043+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
