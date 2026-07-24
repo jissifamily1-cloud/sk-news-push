@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12308903?influxDiv=NAVER",
-  "https://www.bzeronews.com/news/articleView.html?idxno=820213",
-  "https://www.yna.co.kr/view/AKR20260718040900004?input=1195m",
   "http://sateconomy.co.kr/news/view/1065622945681059",
   "http://www.newskr.kr/news/articleView.html?idxno=105033",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431297",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12106877",
   "https://www.newsis.com/view/NISX20260724_0003722598",
   "https://www.dailian.co.kr/news/view/1670648/?sc=Naver",
-  "https://www.khan.co.kr/article/202607250700001"
+  "https://www.khan.co.kr/article/202607250700001",
+  "https://www.namdonews.com/news/articleView.html?idxno=916178",
+  "https://www.khan.co.kr/article/202607250718001",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6839979_37012.html"
  ],
  "seen_titles": [
-  "최태원회장\"행복,주변에뿌려야…'고비용사회'미래청구서,신기업...",
-  "\"AI는이제겨우4살\"…최태원회장이던진'생존방정식'",
-  "[데일리안오늘뉴스종합]'부산북갑'넘어전국으로,당내출마자격...",
   "50cm만물차도탈출어려워…침수대응요령은",
   "최태원\"SK하이닉스주가결국오른다\"...AI메모리성장에장기우상향...",
   "\"제헌절이코스피구했다\"…미국서SK하이닉스폭락에개미들\"월요일도...",
@@ -6001,7 +5998,10 @@
   "매경이전하는세상의지식(매-세-지,7월25일)",
   "최태원,SK지분가치8조·배당1000억대…역대최대재산분할재원'관...",
   "\"내년아비규환\"경고한최태원,AI자문위원이재용·정의선[재계-in]",
-  "빅테크도“연산자원이부족해”,떠오르는컴퓨팅임대업…네이버의..."
+  "빅테크도“연산자원이부족해”,떠오르는컴퓨팅임대업…네이버의...",
+  "신안군,흑산도서'2026국제문페스타'성황리마무리",
+  "이대통령“AI투자대대적확대”…앤트로픽CEO“한국기업과협력...",
+  "이재명대통령미국도착‥젠슨황등연쇄회동"
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "떠오르는 연산자원이 컴퓨팅 네이버의 부족해 빅테크도 임대업"
   ]
  ],
- "last_run": "2026-07-25T07:10:39.583936+09:00",
+ "last_run": "2026-07-25T07:20:27.870212+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
