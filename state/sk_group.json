@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25447653",
-  "https://news.tf.co.kr/read/ptoday/2346527.htm",
-  "https://www.joongang.co.kr/article/25447671",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=591443",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83018",
-  "https://www.ziksir.com/news/articleView.html?idxno=140971",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1170262",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83010",
   "https://www.newsis.com/view/NISX20260723_0003721011",
   "https://www.news1.kr/life-culture/general-cultural/6237294",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83014",
@@ -2999,17 +2991,17 @@
   "http://www.4th.kr/news/articleView.html?idxno=2115251",
   "https://view.asiae.co.kr/article/2026072513190565289",
   "https://zdnet.co.kr/view/?no=20260725131923",
-  "https://www.viva100.com/article/20260725500184"
+  "https://www.viva100.com/article/20260725500184",
+  "https://www.ekn.kr/web/view.php?key=20260725026356085",
+  "http://www.fnnews.com/news/202607251131353933",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1269923.html",
+  "https://www.pressian.com/pages/articles/2026072511111600143",
+  "https://www.newsway.co.kr/news/view?ud=2026072513263166175",
+  "https://en.yna.co.kr/view/AEN20260725001152315?input=2106m",
+  "https://imnews.imbc.com/news/2026/econo/article/6840024_36932.html",
+  "http://www.fnnews.com/news/202607251321097481"
  ],
  "seen_titles": [
-  "SK하닉미수로3200만원잃고\"돈빌려달라\"더니…삼천당제약에또'몰빵...",
-  "제주-강원전또다른판정논란,공2개인데경기진행후동점골...축...",
-  "\"1억2000만원이4600만원됐다\"…여경옥셰프,레버리지손실공개",
-  "[사설]日'재정건전화'지우더니…엔화40년만의최저치추락",
-  "SK텔레콤,2026년2분기보통주1주당830원배당결정",
-  "최태원-노소영'세기의이혼'파기환송심오늘결론",
-  "산단공울산본부,울산·여수산학연협의체교류회",
-  "강원FC,구단첫‘두자릿수연속무패’새역사도전",
   "이대통령,오늘미국·남미·독일순방위해출국",
   "알파벳실적훈풍,7000위로날아간코스피",
   "하락에2배거는‘곱버스’…개인투자자자금몰린다",
@@ -6001,7 +5993,15 @@
   "[샌프란AI써밋]韓기업-빅테크,반도체1375조협력…AI데이터센터5G...",
   "[속보]SK,엔비디아등빅테크기업들과7500억불반도체공급협력",
   "[속보]靑\"SK,엔비디아등과1085조원메모리장기공급협약진행\"",
-  "경남도,제9회투자유치자문위원회개최"
+  "경남도,제9회투자유치자문위원회개최",
+  "청와대“한미반도체협력9500억달러추진”…AI데이터센터·피지컬...",
+  "\"3분기더빠진다\"vs\"60만전자·420만닉스간다\"...증권가갈라진이유",
+  "김용범“국내·글로벌빅테크기업,1375조원반도체분야협력”",
+  "李대통령\"한국은글로벌AI허브…새로운AI혜택분배모델고민\"",
+  "최태원\"한국을AI네이티브국가로…글로벌테스트베드육성\"",
+  "(2ndLD)S.Korean,globaltechfirmsagreeonUS$950blncooperationpr",
+  "최태원\"한국,AI테스트베드될것‥비용낮추고부작용줄여야\"",
+  "SK7500억불·삼성2000억불…빅테크와9500억불반도체잭팟"
  ],
  "recent_sigs": [
   [
@@ -6489,7 +6489,7 @@
    "경남도 개최 제9회 투자유치자문위원회"
   ]
  ],
- "last_run": "2026-07-25T13:27:43.816320+09:00",
+ "last_run": "2026-07-25T13:31:15.260062+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
