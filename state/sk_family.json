@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10814731",
-  "https://news.dealsitetv.com/articles/173528",
-  "https://biz.chosun.com/topics/law_firm/2026/07/21/R6HSFITYE5FWDGQDPKTV7NEYLU/",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003807",
-  "https://www.mediapen.com/news/view/1111235",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2429189",
   "https://www.asiatime.co.kr/article/20260721500138",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312565",
@@ -2999,14 +2994,14 @@
   "http://www.newslock.co.kr/news/articleView.html?idxno=133445",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620079",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213313",
-  "https://biz.heraldcorp.com/article/10820082"
+  "https://biz.heraldcorp.com/article/10820082",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208191",
+  "https://www.hankyung.com/article/202607255728i",
+  "https://www.segye.com/newsView/20260725506024?OutUrl=naver",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308204&inflow=N",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308202&inflow=N"
  ],
  "seen_titles": [
-  "최태원회장\"신기업가정신은이윤창출넘어사회문제해결로확장해야...",
-  "[이채정의엮어읽기]'키미쇼크'가'CXMT쇼크'되지않으려면",
-  "전국74개상의,복지사각지대해소에2억원지원",
-  "TSMC,美투자393조원으로확대…삼성전자·SK하이닉스추가투자나서나",
-  "윤상현의원\"최태원,기업이성장멈추면민주주의문제생긴다고꼬집...",
   "[충남도의회브리핑]조철기의장“노동자정당한요구와권익보호에...",
   "충남도의회교육위,직속기관업무점검…\"학생중심교육·안전강화...",
   "김정민\"보아보다먼저日데뷔준비…故최진영'영원'부를뻔\"('라디오...",
@@ -6001,7 +5996,12 @@
   "SK,엔비디아·MS·앤트로픽과AI동맹…글로벌AI인프라협력확대",
   "“공무원이라안돼요”…‘샌프란깐부회동’에선어떤이야기가오갔...",
   "SK·엔비디아,AI팩토리·차세대메모리파트너십강화",
-  "이재용·올트먼,내일오픈AI본사서회의…메모리넘어‘파운드리동..."
+  "이재용·올트먼,내일오픈AI본사서회의…메모리넘어‘파운드리동...",
+  "'세기의이혼'최태원-노소영,재산분할파기환송심…\"노소영에9440억...",
+  "최태원\"메가프로젝트,韓성장위한것\"…SK,엔비디아와AI동맹",
+  "‘1400조’한·미초대형AI동맹…반도체·공급망구축박차",
+  "한국과AI동맹넓히는오픈AI…삼성·SK와인프라협력강화",
+  "9500억달러AI협력본격화…정부,글로벌빅테크와공급망동맹강화"
  ],
  "recent_sigs": [
   [
@@ -6189,7 +6189,7 @@
    "파운드리 본사서 넘어 회의 오픈AI 메모리 이재용 올트먼"
   ]
  ],
- "last_run": "2026-07-25T18:00:45.759040+09:00",
+ "last_run": "2026-07-25T18:10:25.283003+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
