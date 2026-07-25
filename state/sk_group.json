@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49692",
-  "https://www.joongangenews.com/news/articleView.html?idxno=535098",
-  "https://www.joongangenews.com/news/articleView.html?idxno=535104",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87085",
-  "https://www.ziksir.com/news/articleView.html?idxno=141070",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149310",
   "https://www.tokenpost.kr/news/economy/380801",
   "https://www.joongangenews.com/news/articleView.html?idxno=535085",
   "https://www.joongangenews.com/news/articleView.html?idxno=535087",
@@ -2999,15 +2993,15 @@
   "https://biz.chosun.com/it-science/ict/2026/07/26/U2MJ66QHHZBITAE3HC43CFIB3E/",
   "https://www.yna.co.kr/view/AKR20260725034100008?input=1195m",
   "https://www.newsis.com/view/NISX20260724_0003722837",
-  "https://www.mt.co.kr/opinion/2026/07/26/2026072316460994214"
+  "https://www.mt.co.kr/opinion/2026/07/26/2026072316460994214",
+  "https://www.mt.co.kr/politics/2026/07/26/2026072604332688510",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166485",
+  "https://www.g-enews.com/view.php?ud=2026072605490762842bd56fbc3c_1",
+  "https://www.yna.co.kr/view/AKR20260725017300008?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260724153500530?input=1195m",
+  "https://news.mtn.co.kr/news-detail/2026072413442234731"
  ],
  "seen_titles": [
-  "기후장관“호남반도체2기돌릴인프라,2029년까지완성”",
-  "JB인베스트먼트,'디지털트윈'이안에프리IPO투자",
-  "삼전닉스급락에바이오·방산株순환매…코스피는3%가까이하락",
-  "금융권,청년금융인재육성확대…교육부터취업연계까지",
-  "[오늘일본은]日시즈오카41.1도기록적폭염…30개지역에온열질환...",
-  "美빅테크앞'샌프란선언'하는이대통령…토종AI도모인다",
   "인텔,2028년1.4나노양산한다…15년만에최대매출증가세",
   "[#사이언스리포트]포항공대'나만듣는스피커'·KAIST'암세포내부...",
   "'데이터센터특수'올라탄LS일렉트릭…목표주가'껑충'",
@@ -6001,7 +5995,13 @@
   "4755조투자승부처는…3대메가프로젝트성공조건",
   "[마켓인사이트]반등시도하다또출렁…코스피변동성이어지나",
   "'지분변동'피했지만9440억마련어떻게…SK그룹주가향방은",
-  "'중국의삼성'꿈꾸는창신메모리[차이나는중국]"
+  "'중국의삼성'꿈꾸는창신메모리[차이나는중국]",
+  "한-실리콘밸리AI깐부동맹…대체불가황금시대연다",
+  "빅테크실적릴레이…FOMC도변수[주간증시전망]",
+  "엔비디아,SK하이닉스서731조원대AI메모리공급유력",
+  "언제올랐다고또빠지나…1년전으로고꾸라진코스닥",
+  "개인정보유출조사평균8개월…\"우선순위체계필요\"",
+  "강달러잔혹사와환율관찰대상국[기자수첩]"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,21 @@
   [
    "2026-07-26T06:07:54.896770+09:00",
    "삼성 창신메모리 꿈꾸는 중국의"
+  ],
+  [
+   "2026-07-26T06:11:10.939371+09:00",
+   "빠지나 고꾸라진 올랐다고 전으로 코스닥 1년 언제"
+  ],
+  [
+   "2026-07-26T06:11:10.939371+09:00",
+   "8개월 평균 필요 유출 체계 조사 개인정보 우선순위"
+  ],
+  [
+   "2026-07-26T06:11:10.939371+09:00",
+   "관찰대상국 환율 강달러 잔혹사와"
   ]
  ],
- "last_run": "2026-07-26T06:08:41.107989+09:00",
+ "last_run": "2026-07-26T06:11:22.996248+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
