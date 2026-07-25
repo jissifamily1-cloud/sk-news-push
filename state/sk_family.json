@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026072113390225574",
   "https://www.newsen.com/news_view.php?uid=202607220801266310",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267388",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000051334",
@@ -2999,10 +2998,10 @@
   "https://www.slist.kr/news/articleView.html?idxno=754210",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6840100_37012.html",
   "https://thetracker.co.kr/View.aspx?No=4162194",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840101_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840101_37012.html",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=62008"
  ],
  "seen_titles": [
-  "KOTRA,몽골상담회서700만달러계약·MOU성과…소비재·ICT진출",
   "李\"핵심광물공급망함께구축\"…한·몽경제협력확대드라이브",
   "‘평가시점’에쏠린눈…최태원재산분할24일결론,쟁점은",
   "100대기업임원도고령화…평균연령54.2세,10년새1.1세↑",
@@ -6001,7 +6000,8 @@
   "한미빅테크,1400조원'AI동맹'…반도체·AI공급망구축본격화",
   "\"한국,대체불가공급망\"‥샌프란AI선언",
   "SK,엔비디아와5000억불AI인프라LOI...MS와메모리장기협력",
-  "메모리·AI센터·로봇‥1,375조'빅딜'성사"
+  "메모리·AI센터·로봇‥1,375조'빅딜'성사",
+  "SK,엔비디아와5천억달러AI팩토리동맹…\"한국을글로벌AI허브로\""
  ],
  "recent_sigs": [
   [
@@ -6041,7 +6041,7 @@
    "로봇 빅딜 메모리 성사 375조 AI센터"
   ]
  ],
- "last_run": "2026-07-26T07:20:30.658781+09:00",
+ "last_run": "2026-07-26T07:30:34.836369+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
