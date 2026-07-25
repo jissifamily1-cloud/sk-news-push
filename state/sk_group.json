@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16144531",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131181",
-  "http://www.srtimes.kr/news/articleView.html?idxno=208239",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400078.html",
-  "https://www.segye.com/newsView/20260724505766?OutUrl=naver",
-  "https://news.tf.co.kr/read/economy/2346628.htm",
-  "https://www.cnbizm.com/news/articleView.html?idxno=309509",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141997",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=168673",
   "https://www.ytn.co.kr/_ln/0103_202607241034583436",
   "https://www.hani.co.kr/arti/society/society_general/1269780.html",
@@ -2999,17 +2991,17 @@
   "https://www.tokenpost.kr/news/tech/381324",
   "https://www.insight.co.kr/news/564688",
   "https://en.yna.co.kr/view/AEN20260726000300315?input=2106m",
-  "https://news.dealsitetv.com/articles/173627"
+  "https://news.dealsitetv.com/articles/173627",
+  "https://www.slist.kr/news/articleView.html?idxno=754210",
+  "http://www.metroseoul.co.kr/article/20260726500003",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=62007",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840100_37012.html",
+  "https://www.g-enews.com/view.php?ud=2026072607133638332bd56fbc3c_1",
+  "https://www.tokenpost.kr/news/economy/381325",
+  "https://thetracker.co.kr/View.aspx?No=4162194",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840101_37012.html"
  ],
  "seen_titles": [
-  "SK렌터카,제주서'실증형마케팅플랫폼'확대",
-  "LCK레전드매치라인업공개…'낭만의시대'대표선수총출동",
-  "롤클래식으로다시보는‘인섹킥’…LCK레전드매치라인업공개",
-  "8월4일'LCK레전드매치'참가선수라인업공개",
-  "SK렌터카제주지점,에코랜드·오설록·할리스와여름제휴통해다양한...",
-  "\"든든한디딤돌역할수행\"하나금융,금감원과청년금융인재54명배출",
-  "SK스퀘어주가,7월24일장중1,146,000원6.14%하락",
-  "최태원·노소영,재산분할액은과연...파기환송심오늘9년만에결론",
   "SK,자회사SK시그넷매각결정…소액주주주식공개매수",
   "코스피,유가·금리급등에2%대하락···7000선반납",
   "SK,충전기자회사SK시그넷상장폐지후매각…\"소액주주위해공개매...",
@@ -6001,7 +5993,15 @@
   "SK하이닉스,메모리반도체호황에최대실적경신눈앞",
   "SKT·하이닉스묶은5000억달러AI동맹...엔비디아와2GW구축",
   "LeesaysemergenceofAIeraoffersS.Koreanewopportunity",
-  "구조동일한데증권사만차별,교육세형평성'논란'"
+  "구조동일한데증권사만차별,교육세형평성'논란'",
+  "한미빅테크,1400조원'AI동맹'…반도체·AI공급망구축본격화",
+  "\"하루걸러사이드카\"...7월코스피,변동성시험대",
+  "이재용·올트먼,오픈AI본사서'AI동맹'논의…HBM·파운드리빅딜주...",
+  "\"한국,대체불가공급망\"‥샌프란AI선언",
+  "폭스바겐순이익33%급감...구조조정가속",
+  "2026년원화,달러대비급반등...엔화와차별화된흐름",
+  "SK,엔비디아와5000억불AI인프라LOI...MS와메모리장기협력",
+  "메모리·AI센터·로봇‥1,375조'빅딜'성사"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,25 @@
   [
    "2026-07-26T07:09:24.957273+09:00",
    "구조 논란 교육세 형평성 증권사만 동일한데 차별"
+  ],
+  [
+   "2026-07-26T07:21:12.087010+09:00",
+   "급감 폭스바겐 가속 순이익 구조조정"
+  ],
+  [
+   "2026-07-26T07:21:12.087010+09:00",
+   "2026년 엔화와 급반등 달러 흐름 차별화된 원화 대비"
+  ],
+  [
+   "2026-07-26T07:21:12.087010+09:00",
+   "장기협력 AI인프라 MS와 LOI 메모리 엔비디아와 5000억불"
+  ],
+  [
+   "2026-07-26T07:21:12.087010+09:00",
+   "AI센터 메모리 성사 375조 빅딜 로봇"
   ]
  ],
- "last_run": "2026-07-26T07:11:18.350988+09:00",
+ "last_run": "2026-07-26T07:21:25.661677+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
