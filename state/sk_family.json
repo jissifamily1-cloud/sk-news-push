@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25446157",
-  "https://www.smarttoday.co.kr/ko-kr/articles/109576",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030130229&code=61141411&cp=nv",
-  "https://www.donga.com/news/Economy/article/all/20260719/134317777/1",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607190033&t=NN",
-  "https://www.chosun.com/economy/industry-company/2026/07/19/H5BBUH3XZJB7JK56FAVNXAL7JU/",
-  "https://www.ajunews.com/view/20260719113150295",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716862",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/19/2026071900047.html",
   "https://zdnet.co.kr/view/?no=20260719122204",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/19/2026071990048.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614254",
@@ -2999,18 +2990,18 @@
   "https://www.kado.net/news/articleView.html?idxno=2063012",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619990",
   "https://www.yna.co.kr/view/AKR20260725017751003?input=1195m",
-  "https://www.newsis.com/view/NISX20260725_0003722931"
+  "https://www.newsis.com/view/NISX20260725_0003722931",
+  "https://biz.heraldcorp.com/article/10819848",
+  "https://www.munhwa.com/article/11604936",
+  "https://www.segye.com/newsView/20260725503098?OutUrl=naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250246&t=NN",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=591817",
+  "https://www.munhwa.com/article/11604935",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208119",
+  "http://www.legaltimes.co.kr/news/articleView.html?idxno=95231",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02023766645518128"
  ],
  "seen_titles": [
-  "최태원“전세계반도체팹부지탐색중…지을수있는모든곳에지어...",
-  "“메모리값내려가야”…최태원의호황경고,이유는?",
-  "최태원,성과급논란에\"긍정적영향도있어…좀더지켜봐야\"",
-  "최태원\"성과급,이해관계자문제야기하면지속안돼\"…개선시사",
-  "최태원\"메모리요청·압력아비규환…내년공급부족더심화\"",
-  "용인이어호남찍고미국까지…최태원'팹증설'에사활건이유",
-  "최태원“N%성과급,이해관계자행복깨면손봐야”",
-  "최태원,성과급논란에입열었다…\"긍정적영향도있어\"",
-  "최태원“현재메모리가격정상아냐.공급부족더심해진다”",
   "최태원“메모리수요어차피지속…갖고있어라”",
   "최태원“내년반도체수요최소50%이상폭증할것”",
   "최태원,성과급논란에“주주등이해관계자도함께행복해야”",
@@ -6001,7 +5992,16 @@
   "[속보]이대통령\"韓,글로벌AI핵심국가도약\"…'샌프란AI선언'발표",
   "이대통령“AI시대담대한미래대한민국과함께…대체불가협력플랫...",
   "이재용·정의선·이해진,엔비디아본사서젠슨황만났다(종합)",
-  "이재용·정의선·이해진,美엔비디아본사찾아젠슨황과회동"
+  "이재용·정의선·이해진,美엔비디아본사찾아젠슨황과회동",
+  "이재용·정의선·이해진총출동…엔비디아집결…젠슨황과‘AI회동’",
+  "‘미국판깐부회동’…이재용·정의선·이해진,美서젠슨황만났다",
+  "[속보]李대통령“대한민국,대체불가한글로벌AI공급망의핵심국...",
+  "이재용·정의선,젠슨황과미국서도'깐부동맹'이어가",
+  "이재용·정의선·이해진,엔비디아본사방문…젠슨황과AI협력논의",
+  "李대통령의‘샌프란AI선언’…“한국,대체불가공급망핵심국가...",
+  "이대통령'샌프란AI선언'…\"한국,글로벌AI공급망핵심국가로도약...",
+  "\"최태원회장SK주식도재산분할대상\"",
+  "최태원회장\"허황된숫자?…결코아냐,부족할수도\""
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,17 @@
   [
    "2026-07-25T09:30:21.033720+09:00",
    "대체불가 최고의 AI 심장부에서 생산기지 AI반도체"
+  ],
+  [
+   "2026-07-25T09:50:13.361815+09:00",
+   "결코 숫자 아냐 허황된 회장 부족할 수도"
+  ],
+  [
+   "2026-07-25T09:50:13.361815+09:00",
+   "회장 주식도 재산분할대상"
   ]
  ],
- "last_run": "2026-07-25T09:40:26.360719+09:00",
+ "last_run": "2026-07-25T09:50:27.415001+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
