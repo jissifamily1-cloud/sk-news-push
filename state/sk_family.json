@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717215",
-  "https://www.viva100.com/article/20260722500038",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61815",
-  "https://slownews.kr/163556",
   "https://view.asiae.co.kr/article/2026072113390225574",
   "https://www.newsen.com/news_view.php?uid=202607220801266310",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267388",
@@ -2999,13 +2995,13 @@
   "https://www.mt.co.kr/politics/2026/07/26/2026072604294974642",
   "https://www.newsverse.kr/news/articleView.html?idxno=11010",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426850",
-  "https://www.insight.co.kr/news/564688"
+  "https://www.insight.co.kr/news/564688",
+  "https://www.slist.kr/news/articleView.html?idxno=754210",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840100_37012.html",
+  "https://thetracker.co.kr/View.aspx?No=4162194",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840101_37012.html"
  ],
  "seen_titles": [
-  "李대통령\"한몽,협력잠재력무궁무진…핵심광물힘합치자\"",
-  "李대통령“자원부국몽골,기술발달한韓과협력하면확실한시너지...",
-  "한-몽골비즈니스포럼개최…양국대통령참석,MOU21건체결",
-  "한·몽골경제협력새국면…\"광물자원넘어미래산업으로\"",
   "KOTRA,몽골상담회서700만달러계약·MOU성과…소비재·ICT진출",
   "李\"핵심광물공급망함께구축\"…한·몽경제협력확대드라이브",
   "‘평가시점’에쏠린눈…최태원재산분할24일결론,쟁점은",
@@ -6001,7 +5997,11 @@
   "李\"우리는식구다\"외친한미빅테크만찬…밥값은배경훈부총리가",
   "기업이사람을자른뒤에야깨달은AI시대인재는",
   "'넥스트오픈AI'찾는사람들…李대통령이모은실리콘밸리'킹메이커'...",
-  "SKT·하이닉스묶은5000억달러AI동맹...엔비디아와2GW구축"
+  "SKT·하이닉스묶은5000억달러AI동맹...엔비디아와2GW구축",
+  "한미빅테크,1400조원'AI동맹'…반도체·AI공급망구축본격화",
+  "\"한국,대체불가공급망\"‥샌프란AI선언",
+  "SK,엔비디아와5000억불AI인프라LOI...MS와메모리장기협력",
+  "메모리·AI센터·로봇‥1,375조'빅딜'성사"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,17 @@
   [
    "2026-07-26T07:08:31.504027+09:00",
    "AI 5000억달러 구축 동맹 묶은 SKT 하이닉스 2GW 엔비디아와"
+  ],
+  [
+   "2026-07-26T07:20:16.773044+09:00",
+   "LOI 장기협력 5000억불 MS와 메모리 AI인프라 엔비디아와"
+  ],
+  [
+   "2026-07-26T07:20:16.773044+09:00",
+   "로봇 빅딜 메모리 성사 375조 AI센터"
   ]
  ],
- "last_run": "2026-07-26T07:10:28.050658+09:00",
+ "last_run": "2026-07-26T07:20:30.658781+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
