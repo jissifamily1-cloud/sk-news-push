@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356219",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685594",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/63683?feed=na",
-  "https://www.munhwa.com/article/11603912",
-  "https://www.pennmike.com/news/articleView.html?idxno=124066",
-  "https://www.munhwa.com/article/11603967",
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596236",
   "http://news.ebs.co.kr/ebsnews/allView/60749597/N",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=127157",
@@ -2999,15 +2993,15 @@
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264964",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541693",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541692",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686975"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686975",
+  "https://www.etnews.com/20260725000032",
+  "https://www.thedailypost.kr/news/articleView.html?idxno=114792",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541706",
+  "http://www.newsprime.co.kr/news/article.html?no=741537",
+  "https://news.jtbc.co.kr/article/NB12310164?influxDiv=NAVER",
+  "https://www.thelec.kr/news/articleView.html?idxno=60042"
  ],
  "seen_titles": [
-  "충남도의회\"이주배경학생지원강화\"…맞춤형프로그램·협의체제안",
-  "이화여대,동문이혜원중부재단명예이사장5억원기부",
-  "초과이윤,어디까지가초과?…기준없는재분배론에물음표",
-  "법무법인태평양,'개인정보보호법개정과AI데이터활용'세미나성료",
-  "이화여대,이혜원중부재단명예이사장으로부터EwhaWestCampus건립기금...",
-  "성과급'영업이익N%',재계도제동…\"절차부터다시봐야\"",
   "보건복지부·한국사회복지협의회,전국상의와손잡고'복지사각지대'...",
   "[사설]AI시대산업정책,근본적재편시급하다",
   "[사설]‘규제프리존’,신산업키우고지역경제살릴돌파구",
@@ -6001,7 +5995,13 @@
   "K-반도체,빅테크와5년간9500억달러협력…대체불가핵심국가만든다",
   "“우리는식구다”샌프란깐부회동건배사",
   "악연이된‘세기의만남’…“재산분할금9천440억원”",
-  "SK5000억달러·삼성2000억달러\"...글로벌AI계약쏟아졌다."
+  "SK5000억달러·삼성2000억달러\"...글로벌AI계약쏟아졌다.",
+  "李대통령“요즘韓주가조정중”말하자…젠슨황“곧다시오를...",
+  "SK,美실리콘밸리서빅테크연합…5천억규모AI인프라구축",
+  "“우린식구다”…한미빅테크,반도체동맹체결",
+  "李,글로벌AI리더만찬서'대체불가대한민국'AI비전강조",
+  "이대통령'샌프란AI선언'…\"대체불가AI공급망핵심국가로\"",
+  "이재명대통령-샘올트먼오픈AICEO,단독면담"
  ],
  "recent_sigs": [
   [
@@ -6169,7 +6169,7 @@
    "예상보다 빠르다 실리콘밸리서 AI칩 수요 빅테크 협력"
   ]
  ],
- "last_run": "2026-07-25T18:40:25.882610+09:00",
+ "last_run": "2026-07-25T18:50:23.810085+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
