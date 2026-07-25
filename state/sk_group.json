@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260724104257",
-  "https://view.asiae.co.kr/article/2026072309031161846",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16144616",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62034",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443056",
-  "https://www.newspost.kr/news/articleView.html?idxno=224417",
   "https://www.pressian.com/pages/articles/2026072410474235418",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452102",
   "http://www.fnnews.com/news/202607241109265145",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/202607266019i",
   "https://www.tokenpost.kr/news/market/381333",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=168727",
-  "https://www.joongang.co.kr/article/25448139"
+  "https://www.joongang.co.kr/article/25448139",
+  "https://www.greened.kr/news/articleView.html?idxno=345920",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381147",
+  "https://magazine.hankyung.com/business/article/202607266039b",
+  "https://www.naeil.com/news/read/596529",
+  "https://www.ekn.kr/web/view.php?key=20260726022586163",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01197206645518456"
  ],
  "seen_titles": [
-  "[오늘외환딜러환율예상레인지]",
-  "'LCK레전드매치'참가선수라인업공개",
-  "‘재테크퀸’최화정“삼전닉스,최고점에팔았다”",
-  "SK하이퍼출범의의미···'메가프로젝트'실행조직된AIDC전담법인",
-  "[대한민국굿잡스]하나금융,청년금융인재54명육성…AI·금융융합역...",
-  "단일종목레버리지ETF규제앞당긴다…31일부터'현금3000만원'있어야...",
   "SK렌터카제주지점,\"100만명마케팅플랫폼키운다\"",
   "단일종목레버리지기본예탁금3000만원…31일조기시행",
   "'주식고수'여경옥셰프'레버리지'61%손실…\"슬프지만투자실패\"",
@@ -6001,7 +5995,13 @@
   "실리콘밸리서VC만난李\"다음세대삼성함께만들어내야\"",
   "코스닥,1년전수준으로추락...개인투자자실망속출",
   "애플-마이크론'中반도체'신경전...트럼프도'고심'",
-  "李“글로벌VC는혁신동반자…세계최고투자·창업환경만들것”"
+  "李“글로벌VC는혁신동반자…세계최고투자·창업환경만들것”",
+  "\"9500억달러AI협력\"…외신도놀란한국반도체·데이터센터연합",
+  "李대통령,실리콘밸리VC만나\"한국스타트업투자\"당부",
+  "[속보]李대통령\"한미,안보동맹넘어'다음세대삼성'함께만들어야...",
+  "이대통령,글로벌벤처투자사만나“다음세대삼성만들자”",
+  "“지금물타야한다”…레버리지ETF‘폭풍매수’나선개미들",
+  "“맥주한병더?”젠슨황농담…1375조AI협력뒷이야기"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,13 @@
   [
    "2026-07-26T08:41:04.508774+09:00",
    "만들 글로벌 환경 창업 투자 최고 VC는 혁신동반자 세계"
+  ],
+  [
+   "2026-07-26T08:51:08.464697+09:00",
+   "1375조 협력 뒷이야기 농담 젠슨 맥주 AI"
   ]
  ],
- "last_run": "2026-07-26T08:41:12.680311+09:00",
+ "last_run": "2026-07-26T08:51:15.423872+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
