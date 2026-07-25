@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsen.com/news_view.php?uid=202607220801266310",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=267388",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000051334",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207327",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02765046645517144",
   "https://www.apnews.kr/news/articleView.html?idxno=3049905",
@@ -2999,12 +2996,12 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6840100_37012.html",
   "https://thetracker.co.kr/View.aspx?No=4162194",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6840101_37012.html",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=62008"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=62008",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3646261",
+  "https://www.yna.co.kr/view/AKR20260725054100017?input=1195m",
+  "https://www.news1.kr/industry/general-industry/6238983"
  ],
  "seen_titles": [
-  "李\"핵심광물공급망함께구축\"…한·몽경제협력확대드라이브",
-  "‘평가시점’에쏠린눈…최태원재산분할24일결론,쟁점은",
-  "100대기업임원도고령화…평균연령54.2세,10년새1.1세↑",
   "이재용·최태원·이해진,美서젠슨황회동…AI협력강화",
   "이재용·최태원·이해진·젠슨황,미국서뭉친다…'AI어벤져스'집결",
   "이재용·최태원·이해진,24일미국에서젠슨황등과만나'AI동맹'강...",
@@ -6001,7 +5998,10 @@
   "\"한국,대체불가공급망\"‥샌프란AI선언",
   "SK,엔비디아와5000억불AI인프라LOI...MS와메모리장기협력",
   "메모리·AI센터·로봇‥1,375조'빅딜'성사",
-  "SK,엔비디아와5천억달러AI팩토리동맹…\"한국을글로벌AI허브로\""
+  "SK,엔비디아와5천억달러AI팩토리동맹…\"한국을글로벌AI허브로\"",
+  "이재명대통령,샌프란시스코AI서밋서반도체·GPU대규모투자협력...",
+  "[AI프리즘]샌프란AI선언,한국AI위상확인했다",
+  "샌프란AI선언에쏠린눈…이들손잡으면독자'AI생태계'가능"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-07-26T07:20:16.773044+09:00",
    "로봇 빅딜 메모리 성사 375조 AI센터"
+  ],
+  [
+   "2026-07-26T07:40:13.694365+09:00",
+   "가능 이들 샌프란 손잡으면 생태계 쏠린 AI 독자 선언에"
   ]
  ],
- "last_run": "2026-07-26T07:30:34.836369+09:00",
+ "last_run": "2026-07-26T07:40:29.790080+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
