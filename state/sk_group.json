@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848147",
-  "https://www.imaeil.com/page/view/2026072317114700522",
-  "https://dealsite.co.kr/articles/165838",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1065450",
-  "https://www.sedaily.com/article/20071129",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443005",
-  "https://view.asiae.co.kr/article/2026072317380890243",
-  "https://www.hankyung.com/article/2026072326601",
-  "https://www.m-i.kr/news/articleView.html?idxno=1394771",
-  "https://www.ppss.kr/news/articleView.html?idxno=303053",
-  "https://www.sedaily.com/article/20071124",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686492",
   "https://www.seoulfn.com/news/articleView.html?idxno=634008",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=47556",
   "https://www.cwn.kr/news/articleView.html?idxno=51094",
@@ -2999,21 +2987,21 @@
   "https://www.mediapen.com/news/view/1112131",
   "https://www.sidae.com/article/2026072509305847725",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=311025",
-  "https://en.yna.co.kr/view/AEN20260725001100315?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260725001100315?input=2106m",
+  "https://www.seoul.co.kr/news/politics/2026/07/25/20260725500012?wlog_tag3=naver",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109789",
+  "https://view.asiae.co.kr/article/2026072510055181557",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441777",
+  "http://www.4th.kr/news/articleView.html?idxno=2115248",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096990",
+  "https://www.ajunews.com/view/20260725095927223",
+  "https://www.ddaily.co.kr/page/view/2026072509543038532",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1269915.html",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/63839?feed=na",
+  "https://www.kbmaeil.com/article/20260725500055",
+  "https://www.ajunews.com/view/20260723162202501"
  ],
  "seen_titles": [
-  "NH證,상반기순이익9652억'역대최대'…\"전부문성장\"",
-  "노소영재산분할은얼마?...10조원대최태원SK주식변수",
-  "이동통신3사,스마트글래스대전본격화전망",
-  "해진공,중소선사AI경쟁력높인다…전주기지원체계도입",
-  "내년설비에돈더쓴다는알파벳…삼성·SK'반도체계속간다’",
-  "NH투자증권,2분기순익4896억원..전년비90.68%↑",
-  "[전남광주의정소식]800조반도체클러스터상설특위구성·이행도시...",
-  "허소\"김부겸에희망걸었던민심,총선서다시민주당선택할수있도...",
-  "배경훈\"통신사는'AI기업'…메가프로젝트서중요역할해야\"",
-  "대기업본사울산이전…'김상욱호'화두로다시부상",
-  "원·엔환율900원밑으로…1년8개월만에최저",
-  "미국'깐부회동'삼성전자SK하이닉스현대차네이버주가반등신호탄...",
   "SK텔레콤,AI데이터센터사업위해'SK하이퍼'설립…7500억출자계획",
   "구글훈풍에삼전닉스나란히상승…코스피,5거래일만에'7천피'복귀",
   "경기도,민선9기신임경제부지사에주형철전경기연구원장내정",
@@ -6001,7 +5989,19 @@
   "하반기영업돌입한지방금융권,생산적금융·AI·외국인대출눈길",
   "\"한국투자자들,충동적도박꾼됐다\"…이코노미스트의경고",
   "월요일급락,회복,금요일폭락…롤러코스피'검은패턴'[주간증시해...",
-  "LeedeclaresvisiontomakeS.KorealeaderinAIsupplychain"
+  "LeedeclaresvisiontomakeS.KorealeaderinAIsupplychain",
+  "치맥·삼겹살아닌‘피시앤칩스회동’…이대통령,젠슨황·이재용과...",
+  "李대통령'샌프란AI선언'…\"韓,대체불가AI공급망핵심국가로\"",
+  "이재용·정의선·이해진,엔비디아본사서젠슨황과회동",
+  "이재용·정의선·이해진,엔비디아본사서젠슨황회동",
+  "젠슨황\"대한민국위한LLM개발하겠다\"",
+  "이대통령,'샌프란AI선언'발표…\"글로벌AI핵심국가도약\"",
+  "李대통령,젠슨황등글로벌AI리더들과'피시앤칩스만찬회동'",
+  "李대통령,앤트로픽CEO만나“韓AI투자대대적확대”…오픈AI와도...",
+  "최태원과치킨·피자먹은젠슨황“더많은칩달라”",
+  "대통령도“쟁의아니다”선그었는데…정부내부‘N%성과급’해석...",
+  "‘치맥회동’은없었지만깊은업무협의는있었다...젠슨황-이재용·...",
+  "'중기전용티커머스'청문회시동...급물살타나"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,25 @@
   [
    "2026-07-25T10:01:39.605492+09:00",
    "leader Lee to make in AI declares chain Korea vision supply"
+  ],
+  [
+   "2026-07-25T10:08:49.303164+09:00",
+   "젠슨 먹은 최태원과 많은 치킨 피자 달라"
+  ],
+  [
+   "2026-07-25T10:08:49.303164+09:00",
+   "쟁의 대통령도 해석 그었는데 성과급 아니다 정부 내부"
+  ],
+  [
+   "2026-07-25T10:08:49.303164+09:00",
+   "젠슨 깊은 없었지만 업무 치맥 있었다 협의는 이재용 회동"
+  ],
+  [
+   "2026-07-25T10:08:49.303164+09:00",
+   "시동 청문회 전용 티커머스 중기 타나 급물살"
   ]
  ],
- "last_run": "2026-07-25T10:01:59.801515+09:00",
+ "last_run": "2026-07-25T10:09:06.057967+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
