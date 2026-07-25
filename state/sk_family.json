@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10814732",
   "https://www.etnews.com/20260721000024",
   "https://biz.heraldcorp.com/article/10814731",
   "https://news.dealsitetv.com/articles/173528",
@@ -2999,10 +2998,10 @@
   "https://news.jtbc.co.kr/article/NB12310182?influxDiv=NAVER",
   "https://www.news1.kr/industry/general-industry/6238930",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133445",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620079"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620079",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213313"
  ],
  "seen_titles": [
-  "화성특례시'그냥드림온(溫)라운지'에정은경보건복지부장관·최태...",
   "[오늘의사설]\"'용인클러스터조기완공쉽지않다'...정부적극나서야...",
   "최태원회장\"신기업가정신은이윤창출넘어사회문제해결로확장해야...",
   "[이채정의엮어읽기]'키미쇼크'가'CXMT쇼크'되지않으려면",
@@ -6001,17 +6000,10 @@
   "이대통령,젠슨황과\"우리는,식구다\"'짠'...샌프란시스코깐부회동",
   "샌프란AI선언\"韓,메모리넘어글로벌AI생산기지도약신호탄\"",
   "SK,엔비디아·MS·앤트로픽과AI동맹…글로벌AI인프라협력확대",
-  "“공무원이라안돼요”…‘샌프란깐부회동’에선어떤이야기가오갔..."
+  "“공무원이라안돼요”…‘샌프란깐부회동’에선어떤이야기가오갔...",
+  "SK·엔비디아,AI팩토리·차세대메모리파트너십강화"
  ],
  "recent_sigs": [
-  [
-   "2026-07-25T11:50:14.580049+09:00",
-   "메가프로젝트 3대 빅테크와 AI서밋서 협력 논의 이재용"
-  ],
-  [
-   "2026-07-25T11:50:14.580049+09:00",
-   "나올 장기계약 아주 숫자 발표 삼성 많이"
-  ],
   [
    "2026-07-25T12:10:13.569105+09:00",
    "빅테크와 DC 확장 넘어 전선 로봇까지 재계 총수들 AI"
@@ -6187,9 +6179,13 @@
   [
    "2026-07-25T17:50:13.937415+09:00",
    "샌프란 돼요 오갔 공무원이라 에선 어떤 이야기가 회동 깐부"
+  ],
+  [
+   "2026-07-25T17:53:02.685209+09:00",
+   "AI 팩토리 엔비디아 차세대 파트너십 메모리 강화"
   ]
  ],
- "last_run": "2026-07-25T17:50:27.748598+09:00",
+ "last_run": "2026-07-25T17:53:15.391422+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6443,6 +6439,7 @@
   "namdonews.com": "남도일보",
   "cwn.kr": "CWN뉴스",
   "kado.net": "강원도민일보",
-  "newsfreezone.co.kr": "뉴스프리존"
+  "newsfreezone.co.kr": "뉴스프리존",
+  "datanet.co.kr": "데이터넷"
  }
 }
