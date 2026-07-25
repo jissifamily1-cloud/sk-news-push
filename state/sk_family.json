@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2341823.htm",
-  "https://imnews.imbc.com/news/2026/society/article/6836351_36918.html",
-  "https://view.asiae.co.kr/article/2026070921484768028",
-  "https://www.news1.kr/society/incident-accident/6223633",
-  "https://www.sedaily.com/article/20066017",
-  "https://www.yna.co.kr/view/AKR20260709071951004?input=1195m",
-  "https://biz.heraldcorp.com/article/10803722",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606439",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260709.99099002699",
   "https://www.ajunews.com/view/20260715115407032",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20260725000078",
   "https://view.asiae.co.kr/article/2026072515593672852",
   "https://www.ytn.co.kr/_ln/0102_202607251559102090",
-  "https://www.wikitree.co.kr/articles/1148426"
+  "https://www.wikitree.co.kr/articles/1148426",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155473",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02332086645518128",
+  "https://www.ddaily.co.kr/page/view/2026072514144000026",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426837",
+  "https://www.newsis.com/view/NISX20260725_0003723130",
+  "https://www.ddaily.co.kr/page/view/2026072516082405997",
+  "https://www.aitimes.com/news/articleView.html?idxno=213173"
  ],
  "seen_titles": [
-  "권혁빈스마일게이트창업자이혼소송9월9일선고",
-  "[인사]공주시",
-  "[인사]공주시2026년하반기(7.13.자)정기인사",
-  "10일새벽폭우예보에'비상'…장맛비그치면'폭염'",
-  "[인사]공주시청(6급이하)2026.7.13.자",
-  "'기결수'된윤석열…아직남은재판7개",
-  "[인사]공주시(6급이하)",
   "[인사]경남산청군",
   "옹벽무너지고지하차도침수…집중호우에피해속출",
   "늘어나는호우피해…KTX·열차지연운행",
@@ -6001,7 +5994,14 @@
   "SK,엔비디아와5000억달러AI인프라동맹…MS·앤트로픽까지확장",
   "李대통령\"韓주가조정중\"…젠슨황\"증시다시오를것\"화답",
   "'엄지척'에'손가락하트'...이재용·정의선·이해진미국서젠슨황면...",
-  "장동혁,'AI선언'이대통령향해“뻔한소리왜샌프란까지가서하나..."
+  "장동혁,'AI선언'이대통령향해“뻔한소리왜샌프란까지가서하나...",
+  "SK,실리콘밸리에서AI인프라동맹확대…엔비디아·MS·AWS와'메가프...",
+  "삼성·SK,1400조메모리장기계약…불황사이클옅어진다(종합)",
+  "‘샌프란AI선언’韓글로벌협력확장속도…“반도체9500억달러·AI...",
+  "SK,엔비디아등과5천억달러AI인프라협력…2GWAI팩토리구축",
+  "韓,빅테크와9500억달러'AI동맹'…외신\"AI인프라확산신호탄\"",
+  "李대통령\"우리는식구\"…젠슨황·이재용·최태원·정의선과'샌프란깐...",
+  "'샌프란시스코AI서밋'서한국-빅테크협약6건체결…\"반도체부터AX까..."
  ],
  "recent_sigs": [
   [
@@ -6229,7 +6229,7 @@
    "대통령 뻔한 하나 샌프란까지 선언 장동혁 소리 AI 가서 향해"
   ]
  ],
- "last_run": "2026-07-25T16:10:29.004443+09:00",
+ "last_run": "2026-07-25T16:20:23.529043+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
