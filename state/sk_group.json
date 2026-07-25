@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264921",
-  "https://www.nocutnews.co.kr/news/6552850",
-  "https://edu.donga.com/news/articleView.html?idxno=110267",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16144591",
-  "https://www.dailian.co.kr/news/view/1670496/?sc=Naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619242",
-  "https://dealsite.co.kr/articles/165637",
-  "https://www.seoul.co.kr/news/economy/securities/2026/07/24/20260724500131?wlog_tag3=naver",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426668",
-  "https://zdnet.co.kr/view/?no=20260724094825",
   "https://zdnet.co.kr/view/?no=20260724104257",
   "https://view.asiae.co.kr/article/2026072309031161846",
   "https://www.topstarnews.net/news/articleView.html?idxno=16144616",
@@ -2999,19 +2989,19 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426859",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01174246645518456",
   "http://www.yonhapnewstv.co.kr/news/MYH20260726082658k1k",
-  "https://view.asiae.co.kr/article/2026072314474283844"
+  "https://view.asiae.co.kr/article/2026072314474283844",
+  "https://news.tf.co.kr/read/ptoday/2347027.htm",
+  "https://www.tfmedia.co.kr/news/article.html?no=206004",
+  "https://www.newdaily.co.kr/site/data/html/2026/07/26/2026072600006.html",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541723",
+  "https://www.dt.co.kr/article/12074686",
+  "https://www.munhwa.com/article/11604996",
+  "https://www.hankyung.com/article/202607266019i",
+  "https://www.tokenpost.kr/news/market/381333",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168727",
+  "https://www.joongang.co.kr/article/25448139"
  ],
  "seen_titles": [
-  "SKT,AI인프라구축본격화…'SK하이퍼'로15GW데이터센터속도",
-  "[오늘증시]7000선하루만에'급제동'…코스피흔든결정적변수는?",
-  "SK디스커버리,상반기연합봉사활동성과공개",
-  "알파벳'깜짝실적'에도AI투자확대지속…삼성전자·SK하이닉스수혜...",
-  "[뉴스워커_하나금융]청년금융인재양성프로젝트4개월과정마무리",
-  "트럼프,이란과후티반군에대규모군사공격검토...유가는급등",
-  "[초점]SK,전기차충전계열사매각추진…인수5년만",
-  "코스피,전날급등분반납…장중6900선으로밀려",
-  "[SK하이닉스인사이드]'고성능초고층3D낸드'겨냥한CTI혁신,연구...",
-  "Cashdepositrequirementforleveragedsingle-stockETFstoberaised",
   "[오늘외환딜러환율예상레인지]",
   "'LCK레전드매치'참가선수라인업공개",
   "‘재테크퀸’최화정“삼전닉스,최고점에팔았다”",
@@ -6001,7 +5991,17 @@
   "\"한국은AI시대핵심파트너\"…실리콘밸리큰손VC들'한목소리'",
   "李대통령“한미,스타트업동맹으로협력지평넓혀야”",
   "남태희,제주떠나호주브리즈번입단…등번호10번",
-  "[주末머니]\"반도체株,우려요인소화완료…저점매수좋은구간\""
+  "[주末머니]\"반도체株,우려요인소화완료…저점매수좋은구간\"",
+  "李대통령\"韓스타트업-美자본만나혁신의동반자될것\"",
+  "李대통령\"우리는식구다\"...빅테크CEO들과'샌프란깐부회동'",
+  "李\"다음세대삼성·현대·SK·네이버만들자\"…실리콘밸리VC에투자...",
+  "이대통령,글로벌VC만나\"다음세대삼성·현대·네이버함께만들자...",
+  "7000깨진코스피...빅테크·SK하닉실적‘주목’[주간증시전망]",
+  "[속보]李대통령“한미,안보넘어‘다음세대삼성’함께만들어야”...",
+  "실리콘밸리서VC만난李\"다음세대삼성함께만들어내야\"",
+  "코스닥,1년전수준으로추락...개인투자자실망속출",
+  "애플-마이크론'中반도체'신경전...트럼프도'고심'",
+  "李“글로벌VC는혁신동반자…세계최고투자·창업환경만들것”"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,17 @@
   [
    "2026-07-26T08:31:15.297714+09:00",
    "우려요인 소화 좋은 저점 매수 완료 구간 반도체"
+  ],
+  [
+   "2026-07-26T08:41:04.508774+09:00",
+   "트럼프도 반도체 애플 신경전 마이크론 고심"
+  ],
+  [
+   "2026-07-26T08:41:04.508774+09:00",
+   "만들 글로벌 환경 창업 투자 최고 VC는 혁신동반자 세계"
   ]
  ],
- "last_run": "2026-07-26T08:31:23.970214+09:00",
+ "last_run": "2026-07-26T08:41:12.680311+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
