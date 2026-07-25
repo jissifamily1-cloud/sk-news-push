@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260720010007092",
-  "https://news.tf.co.kr/read/economy/2344751.htm",
-  "https://www.donga.com/news/Opinion/article/all/20260720/134332400/2",
-  "https://www.donga.com/news/Opinion/article/all/20260720/134332402/2",
   "https://www.sidae.com/article/2026072016110575953",
   "https://www.ktv.go.kr/content/view?content_id=758085",
   "https://www.chosun.com/national/national_general/2026/07/09/QLBQGOOCDVFHPJ7BK3LF65P2YA/",
@@ -2999,13 +2995,13 @@
   "https://www.ajunews.com/view/20260725151246331",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02302566645518128",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02312406645518128",
-  "https://www.nocutnews.co.kr/news/6553231"
+  "https://www.nocutnews.co.kr/news/6553231",
+  "https://www.bloter.net/news/articleView.html?idxno=667643",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7175935",
+  "https://www.mk.co.kr/article/12107276",
+  "https://www.hankyung.com/article/202607255524i"
  ],
  "seen_titles": [
-  "신용한지사\"수출기업현장맞춤형지원\"",
-  "사라진주주서한이남긴씁쓸함[취재수첩]",
-  "‘SKHY’…회장님은왜그랬을까[재계톡톡]",
-  "경북쑥대밭만든'도깨비장마'왜?",
   "'초과이윤배분'논의하려던靑회의당일취소…주가영향의식한듯",
   "화성특례시'그냥드림',전국74개상공회의소공동챌린지첫사업선정",
   "[사설]“이해관계자함께행복해야”…N%성과급개선서둘러야",
@@ -6001,7 +5997,11 @@
   "최태원\"한국,1인1에이전트AI네이티브국가돼야\"...샌프란AI선언...",
   "SK,엔비디아등과1100조원AI메모리·팩토리동맹",
   "샘올트먼\"韓AI인프라,세계AI도약핵심\"…李대통령만나협력강화",
-  "SK·엔비디아,5천억달러포괄협력…AI팩토리27년가동목표"
+  "SK·엔비디아,5천억달러포괄협력…AI팩토리27년가동목표",
+  "대덕벤처,국민성장펀드지역리그유일지방VC'눈길'",
+  "삼성·SK,美반도체기업과9500억달러협력",
+  "네이버,엔비디아·브룩필드서14조원조달해AI팩토리짓는다",
+  "'2경'기업총수들과저녁먹은이재명대통령,계산은누가?"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,13 @@
   [
    "2026-07-25T15:30:21.393332+09:00",
    "목표 27년 협력 포괄 달러 AI팩토리 엔비디아 5천억 가동"
+  ],
+  [
+   "2026-07-25T15:40:10.841117+09:00",
+   "먹은 저녁 총수들과 이재명 누가 계산은 2경 대통령 기업"
   ]
  ],
- "last_run": "2026-07-25T15:30:37.485050+09:00",
+ "last_run": "2026-07-25T15:40:26.531567+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
