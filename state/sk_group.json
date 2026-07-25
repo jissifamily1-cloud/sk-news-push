@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=535087",
-  "https://www.newspim.com/news/view/20260724000379",
-  "https://www.newspim.com/news/view/20260724000331",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452086",
-  "http://www.metroseoul.co.kr/article/20260724500043",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168675",
-  "https://www.news1.kr/economy/trend/6237594",
   "http://www.nongaek.com/news/articleView.html?idxno=96200",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426651",
   "https://www.newsis.com/view/NISX20260724_0003721709",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20260724153500530?input=1195m",
   "https://news.mtn.co.kr/news-detail/2026072413442234731",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374468",
-  "https://www.mk.co.kr/article/12107470"
+  "https://www.mk.co.kr/article/12107470",
+  "https://www.mt.co.kr/politics/2026/07/26/2026072604294974642",
+  "https://www.yna.co.kr/view/AKR20260725049700002?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260725032100008?input=1195m",
+  "http://www.fnnews.com/news/202607260543259861",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11010",
+  "https://www.chosun.com/politics/politics_general/2026/07/26/6XNONAMUTJDUNDZ7MLDQVDD4KA/",
+  "https://www.yna.co.kr/view/AKR20260724171300008?input=1195m"
  ],
  "seen_titles": [
-  "'데이터센터특수'올라탄LS일렉트릭…목표주가'껑충'",
-  "[하우머니]로봇·증권·반도체…하반기투자전략은?",
-  "AI에서리튬까지…이재명정부첫'AI공급망외교'시작된다",
-  "[#게임스테이션]'LCK레전드매치라인업'·넷마블'갤럭시Z폴드8테마...",
-  "[STOCK톺]美기술주급락여파…삼성전자·SK하이닉스3%대약세",
-  "하나금융,금감원과청년금융인재육성...올해54명수료",
-  "'세기의재산분할'최태원·노소영파기환송심9년만에오늘결론",
   "\"AIDC열관리기술경쟁력확보\"…국내첫산·학·연협의체출범",
   "동일토건,'용인반도체클러스터동일하이빌파크밸리'8월분양",
   "하나금융,'청년금융인재양성프로젝트'성과공유회개최",
@@ -6001,7 +5994,14 @@
   "개인정보유출조사평균8개월…\"우선순위체계필요\"",
   "강달러잔혹사와환율관찰대상국[기자수첩]",
   "'3경기만에승리'전북,포항에2-0승리로2위점프…선두FC서울과9점...",
-  "한국선191만원,미국에서는290만원…똑같은하이닉스인데가격차이왜..."
+  "한국선191만원,미국에서는290만원…똑같은하이닉스인데가격차이왜...",
+  "李\"우리는식구다\"외친한미빅테크만찬…밥값은배경훈부총리가",
+  "뛰는유가에물가불안우려…금리·관세·환율도'경고등'",
+  "'리밸런싱재개'연기금,이달순매수…하이닉스사고삼전팔아",
+  "미민주당\"트럼프행정부,삼성·SK하닉보조금정책재고는실책\"",
+  "기업이사람을자른뒤에야깨달은AI시대인재는",
+  "李대통령“다른나라추격해온韓,이제선도자되겠다”",
+  "'레버리지규제'본격시행앞둔국내증시,변동성완화될까"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,33 @@
   [
    "2026-07-26T06:21:06.033047+09:00",
    "한국선 미국에서는 하이닉스인데 차이 290만원 똑같은 가격 191만원"
+  ],
+  [
+   "2026-07-26T06:31:16.992145+09:00",
+   "불안 관세 뛰는 금리 유가에 경고등 물가 환율도 우려"
+  ],
+  [
+   "2026-07-26T06:31:16.992145+09:00",
+   "재개 순매수 사고 연기금 리밸런싱 이달 하이닉스 삼전 팔아"
+  ],
+  [
+   "2026-07-26T06:31:16.992145+09:00",
+   "행정부 정책 재고는 민주당 트럼프 보조금 삼성 SK하닉 실책"
+  ],
+  [
+   "2026-07-26T06:31:16.992145+09:00",
+   "뒤에야 AI 인재는 시대 자른 기업이 사람을 깨달은"
+  ],
+  [
+   "2026-07-26T06:31:16.992145+09:00",
+   "이제 선도자 대통령 다른 나라 추격해온 되겠다"
+  ],
+  [
+   "2026-07-26T06:31:16.992145+09:00",
+   "완화될까 국내증시 본격시행 규제 앞둔 변동성 레버리지"
   ]
  ],
- "last_run": "2026-07-26T06:21:16.529258+09:00",
+ "last_run": "2026-07-26T06:31:36.360418+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
