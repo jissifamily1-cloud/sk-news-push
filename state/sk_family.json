@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25446170",
-  "https://www.public25.com/news/articleView.html?idxno=50932",
-  "https://www.newspim.com/news/view/20260719000088",
-  "http://www.metroseoul.co.kr/article/20260709500033",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39399",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=362248",
-  "https://www.etoday.co.kr/news/view/2604885",
-  "https://www.ytn.co.kr/_ln/0102_202607191347282117",
-  "https://www.busan.com/view/busan/view.php?code=2026071913442241218",
-  "https://www.ajunews.com/view/20260719133256387",
-  "https://economist.co.kr/article/view/ecn202607190006",
   "http://www.yonhapnewstv.co.kr/news/MYH202607191346335WC",
   "https://www.insight.co.kr/news/563608",
   "https://www.asiatime.co.kr/article/20260719500038",
@@ -2999,20 +2988,20 @@
   "https://www.kado.net/news/articleView.html?idxno=2063015",
   "http://www.newsian.co.kr/news/articleView.html?idxno=92762",
   "https://www.ytn.co.kr/_ln/0101_202607250946226727",
-  "https://www.mk.co.kr/article/12107209"
+  "https://www.mk.co.kr/article/12107209",
+  "https://www.yna.co.kr/view/AKR20260725019600011?input=1195m",
+  "https://www.seoul.co.kr/news/politics/2026/07/25/20260725500012?wlog_tag3=naver",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109789",
+  "https://view.asiae.co.kr/article/2026072510055181557",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441777",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096990",
+  "https://www.ajunews.com/view/20260725095927223",
+  "https://www.ddaily.co.kr/page/view/2026072509543038532",
+  "https://www.chosun.com/economy/money/2026/07/25/V3FDFMJSDVFUDN3IHCAUKAIQZI/",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1269915.html",
+  "https://www.kbmaeil.com/article/20260725500055"
  ],
  "seen_titles": [
-  "SK하이닉스주가우상향강조한최태원...“내년반도체수요최소50∼...",
-  "최태원대한상의회장\"내년반도체수요올해보다최소60~100%증가\"",
-  "조정끝최태원-노소영재산분할결론…김건희·오세훈'명태균여론조...",
-  "최태원,저성장시대경고..\"제도,성장환경에맞춰야\"",
-  "최태원\"내년반도체수요60%늘어···빠른증설이생명줄\"",
-  "최태원\"내년반도체수요급증…최소50~60%↑\"",
-  "\"지을수있는모든곳에반도체팹\"…증설전쟁불붙었다",
-  "최태원\"메모리공장증설,엄청난압력받아…빨리지어야생존\"",
-  "최태원“성과급논란더지켜봐야…긍정적효과도있다”",
-  "최태원회장\"내년반도체수요최소50%이상증가…빠른증설이한국반...",
-  "최태원\"내년반도체수요50~60%이상늘것\"",
   "미지근한IPO시장…\"출구보다입구정상화가먼저\"",
   "최태원회장\"지속가능행복위해이해관계자조화중요\"",
   "최태원\"다음해반도체수요최소50%증가…증설속도,한국반도체생...",
@@ -6001,7 +5990,18 @@
   "앤트로픽CEO만난이대통령\"韓AI투자대대적확대\"",
   "[상보]'샌프란AI선언'띄운李대통령…글로벌AI허브청사진제시",
   "이대통령,'샌프란시스코AI선언'발표...\"공급망핵심국가로도약\"",
-  "삼성·SK·현대차·네이버총출동…실리콘밸리울린‘샌프란AI선언’"
+  "삼성·SK·현대차·네이버총출동…실리콘밸리울린‘샌프란AI선언’",
+  "[전국주요신문톱뉴스](25일조간)",
+  "치맥·삼겹살아닌‘피시앤칩스회동’…이대통령,젠슨황·이재용과...",
+  "李대통령'샌프란AI선언'…\"韓,대체불가AI공급망핵심국가로\"",
+  "이재용·정의선·이해진,엔비디아본사서젠슨황과회동",
+  "이재용·정의선·이해진,엔비디아본사서젠슨황회동",
+  "이대통령,'샌프란AI선언'발표…\"글로벌AI핵심국가도약\"",
+  "李대통령,젠슨황등글로벌AI리더들과'피시앤칩스만찬회동'",
+  "李대통령,앤트로픽CEO만나“韓AI투자대대적확대”…오픈AI와도...",
+  "이재용·정의선·이해진,엔비디아본사찾아젠슨황만났다",
+  "최태원과치킨·피자먹은젠슨황“더많은칩달라”",
+  "‘치맥회동’은없었지만깊은업무협의는있었다...젠슨황-이재용·..."
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,17 @@
   [
    "2026-07-25T10:00:28.303960+09:00",
    "샌프란 네이버 현대차 삼성 AI 총출동 선언 울린 실리콘밸리"
+  ],
+  [
+   "2026-07-25T10:07:53.933027+09:00",
+   "젠슨 많은 달라 피자 최태원과 치킨 먹은"
+  ],
+  [
+   "2026-07-25T10:07:53.933027+09:00",
+   "치맥 협의는 젠슨 없었지만 이재용 회동 업무 있었다 깊은"
   ]
  ],
- "last_run": "2026-07-25T10:00:43.932912+09:00",
+ "last_run": "2026-07-25T10:08:12.245614+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
