@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8024040",
-  "http://www.4th.kr/news/articleView.html?idxno=2115221",
-  "https://www.newscj.com/news/articleView.html?idxno=3419634",
-  "http://www.iminju.net/news/articleView.html?idxno=167099",
-  "http://www.fnnews.com/news/202607241433573865",
-  "https://kpenews.com/View.aspx?No=4161199",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852255",
-  "https://www.news1.kr/photos/8024041",
   "https://www.viva100.com/article/20260724500520",
   "https://www.news1.kr/photos/8024043",
   "https://www.mt.co.kr/industry/2026/07/24/2026072412591197421",
@@ -2999,17 +2991,17 @@
   "https://www.kwnews.co.kr/article/20260726500834",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=273591",
   "https://www.newsis.com/view/NISX20260726_0003723557",
-  "http://www.yonhapnewstv.co.kr/news/MYH202607261349534b4"
+  "http://www.yonhapnewstv.co.kr/news/MYH202607261349534b4",
+  "https://www.sidae.com/article/2026072613571397420",
+  "https://www.seoulfn.com/news/articleView.html?idxno=634139",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/26/2026072600055.html",
+  "https://www.newsway.co.kr/news/view?ud=2026072613112726617",
+  "https://economist.co.kr/article/view/ecn202607260010",
+  "https://www.jejusori.net/news/articleView.html?idxno=505043",
+  "https://www.koreatimes.co.kr/path/A2026072613170005614",
+  "https://en.yna.co.kr/view/AEN20260726001000315?input=2106m"
  ],
  "seen_titles": [
-  "울산시,지역기업과미래성장동력협력강화",
-  "SK렌터카제주지점,여행객·브랜드잇는마케팅플랫폼으로키운다",
-  "이대통령,7박11일순방출국…첫일정은샌프란시스코AI외교",
-  "최태원,노소영에9440억원재산분할지급판결…\"파기환송심,SK주식분...",
-  "李대통령,美샌프란시스코로출국…젠슨황·올트먼만나AI외교",
-  "하나금융,청년금융인재54명배출-AI·ESG융합형인재양성성과",
-  "고법\"최태원,노소영에9440억원재산분할해야\",최태원\"판결문검토...",
-  "파두허위공시의혹재판…SK하이닉스구매책임공방",
   "[속보]법원\"노소영가사·양육·대외활동,SK주식가치증대에기여\"",
   "법원\"최태원,노소영에9440억재산분할\"…SK그룹주희비",
   "파기환송심결과'최태원측,노소영에9440억원재산분할”",
@@ -6001,7 +5993,15 @@
   "靑“국내기업-글로벌빅테크기업,9,500억불반도체협력”",
   "SK최태원,엔비디아와5000억달러'AI동맹'",
   "이대통령,미국에서브라질로출국…내일부터남미3개국순방",
-  "[일요와이드]이대통령'샌프란AI선언'…여야,보완수사권충돌계속"
+  "[일요와이드]이대통령'샌프란AI선언'…여야,보완수사권충돌계속",
+  "미국서AI강조한이대통령…브라질로옮겨남미협력'정조준'",
+  "[주간환율전망]중동긴장누른달러공급우위···FOMC주목",
+  "애플-마이크론'중국산메모리'신경전에삼성·SK도예의주시",
+  "'레버리지ETF규제'시행D-5…개인투자자막판'눈치싸움'",
+  "젠슨황\"코스피,다시오를것\"…'맥주회동'반도체업황호조언급도",
+  "김연경·김민재·박인비제주온다…8월뜨겁게달굴'스포츠축제'",
+  "Samsung,SK,HyundaiexpandAIpartnershipswithBigTechfirmsto$950",
+  "PresidentLeewrapsupvisittoSanFrancisco,headstoS.America"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,21 @@
   [
    "2026-07-26T14:02:07.137180+09:00",
    "샌프란AI 충돌 대통령 여야 계속 보완수사권 선언"
+  ],
+  [
+   "2026-07-26T14:11:01.363510+09:00",
+   "제주 달굴 온다 박인비 스포츠 축제 뜨겁게 김연경 8월 김민재"
+  ],
+  [
+   "2026-07-26T14:11:01.363510+09:00",
+   "Samsung Tech with firms Big AI partnerships Hyundai to expand"
+  ],
+  [
+   "2026-07-26T14:11:01.363510+09:00",
+   "heads wraps America San up President to Francisco Lee visit"
   ]
  ],
- "last_run": "2026-07-26T14:02:27.454944+09:00",
+ "last_run": "2026-07-26T14:11:13.529526+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
