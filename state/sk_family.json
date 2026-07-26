@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/opinion/editorial/1269399.html",
-  "https://biz.sbs.co.kr/article_hub/20000323899?division=NAVER",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589938578670",
   "https://biz.sbs.co.kr/article_hub/20000323900?division=NAVER",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=207109",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260726508366?OutUrl=naver",
   "https://www.segye.com/newsView/20260726508302?OutUrl=naver",
   "https://www.hankookilbo.com/news/article/A2026072614590002087?did=NA",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01938486645518456"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01938486645518456",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260726190857FWt",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01948326645518456"
  ],
  "seen_titles": [
-  "정승환\"8년전'라스'서통편집…사실상오늘이첫출연\"",
-  "삼성전자이재용,SK최태원…엔비디아젠슨황과실리콘밸리에서AI협...",
   "이재용·최태원·이해진,미국집결…젠슨황과회동",
   "이재용·최태원·이해진,美서젠슨황회동추진…AI공급망협력가능...",
   "까다로운해외법망뚫어라…K기업우군나선로펌[Invest&Law]",
@@ -6001,17 +5999,11 @@
   "SK주식부부공동재산인정…주가는뛰기전2024년기준",
   "李“우리는식구”건배사…‘2경원’빅테크수장들과깐부회동[李...",
   "이대통령,글로벌'AI심장부’샌프란공략...\"공급망핵심국가도약...",
-  "삼성·브로드컴,2000억불턴키계약…SK·엔비디아5000억불인프라동..."
+  "삼성·브로드컴,2000억불턴키계약…SK·엔비디아5000억불인프라동...",
+  "밀양·양산39.3도…\"생명위협하는극한더위\"",
+  "李대통령,AI기업인들과\"우리는식구다\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T13:20:12.794243+09:00",
-   "AI 메가 밀착해 키운 공급망 빅테크 핵심국가 3대 대체불가"
-  ],
-  [
-   "2026-07-26T13:20:12.794243+09:00",
-   "동맹 AI 생산기지 대한민국 브로드컴과 첫발 290조 삼성"
-  ],
   [
    "2026-07-26T13:40:13.143994+09:00",
    "더투데이 누적 단독기사 500만건 돌파 100만뷰"
@@ -6175,9 +6167,13 @@
   [
    "2026-07-26T19:10:14.072886+09:00",
    "5000억불 턴키 삼성 브로드컴 계약 인프라 엔비디아 2000억불"
+  ],
+  [
+   "2026-07-26T19:20:14.661467+09:00",
+   "대통령 우리는 AI기업인들과 식구다"
   ]
  ],
- "last_run": "2026-07-26T19:10:29.716042+09:00",
+ "last_run": "2026-07-26T19:20:28.552307+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
