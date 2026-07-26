@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=153564",
-  "https://biz.sbs.co.kr/article_hub/20000323878?division=NAVER",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160276676386877",
-  "https://www.joongang.co.kr/article/25447095",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202852",
-  "https://www.chosun.com/international/us/2026/07/22/T2BVIQULEVBZLDEE564PQ6HVUQ/",
   "https://www.munhwa.com/article/11604276",
   "https://www.starnewskorea.com/business-life/2026/07/22/2026072212404346786",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207415",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12107789",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42649",
   "https://www.the-today.com/news/articleView.html?idxno=87866",
-  "https://www.mk.co.kr/article/12107796"
+  "https://www.mk.co.kr/article/12107796",
+  "https://www.sedaily.com/article/20072013",
+  "https://www.hankyung.com/article/2026072666421",
+  "https://www.hankyung.com/article/2026072666261",
+  "https://www.sedaily.com/article/20071999",
+  "https://www.ajunews.com/view/20260726152647005",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01899126645518456"
  ],
  "seen_titles": [
-  "안민석교육감,교육교부금축소반대…“교육주도성장에투자해야”",
-  "하이닉스8만원대'전재산'몰빵한MBC아나운서의근황…반응터진이...",
-  "\"이대통령발언,뚱딴지같은소리...어처구니없는촌극”",
-  "이화여대,웃어밥(㈜해피벤처)으로부터장학금및학생창업기금총1억...",
-  "최태원성과급손질시사후폭풍…SK하이닉스노사집중교섭",
-  "삼성·SK·네이버총수,이번주젠슨황과실리콘밸리회동",
   "이재용·최태원·이해진,젠슨황과맞손…한국AI동맹,美서판커진다",
   "[최태원·노소영재판장면들④]'디케'저울에오른SK...분할대상·시...",
   "100대기업임원대해부...평균54.2세고령화뚜렷,여성8.3%그쳐",
@@ -6001,17 +5995,15 @@
   "한미빅테크1400조원짜리동맹,AI강국디딤돌로활용해야[사설]",
   "[美깐부회동]이해진·젠슨황손잡았다…네이버AI팩토리3배이상...",
   "[이슈]\"내34년이고작1.2%라니\"…665억에서9440억,노소영이바꾼질문",
-  "AI빅샷,K반도체깃발아래뭉쳤다…9550억弗‘메가동맹’[뉴스&분석..."
+  "AI빅샷,K반도체깃발아래뭉쳤다…9550억弗‘메가동맹’[뉴스&분석...",
+  "메가이어…美심장부서1400조AI동맹",
+  "파운드리까지대규모수주…삼성·SK'AI생태계중심축'부상",
+  "이재명대통령'샌프란선언'…9500억달러AI세일즈",
+  "메모리넘어‘공급망설계’새판짜기…“韓없었다면AI혁명불가”",
+  "[한준호의기원상칼럼]메이지유신의교훈,집권은통합으로완성된다",
+  "SK는AI인프라,네이버는AI플랫폼…엔비디아가선택한韓AIDC투톱"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T11:50:15.460687+09:00",
-   "관세 쉽지 쥐어짜 편법 트럼프 않아 피하기 신문들 강제노동"
-  ],
-  [
-   "2026-07-26T11:50:15.460687+09:00",
-   "필요한 매각하나 9440억원 주식"
-  ],
   [
    "2026-07-26T12:10:15.002477+09:00",
    "못했나 이겼는데 예상하지 최태원은 대법원서 9440억 1부"
@@ -6163,9 +6155,17 @@
   [
    "2026-07-26T17:50:13.168355+09:00",
    "라니 노소영이 9440억 665억에서 질문 34년이 고작 바꾼"
+  ],
+  [
+   "2026-07-26T18:00:30.669664+09:00",
+   "메이지유신의 완성된다 통합으로 집권은 교훈"
+  ],
+  [
+   "2026-07-26T18:00:30.669664+09:00",
+   "SK는 네이버는 투톱 인프라 플랫폼 AIDC 선택한 엔비디아가 AI"
   ]
  ],
- "last_run": "2026-07-26T17:50:28.569708+09:00",
+ "last_run": "2026-07-26T18:00:45.266873+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
