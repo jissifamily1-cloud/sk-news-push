@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=660895",
-  "https://www.ngetnews.com/news/articleView.html?idxno=551697",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030144147&code=61141111&cp=nv",
-  "https://www.seoulfn.com/news/articleView.html?idxno=633833",
   "https://www.kukinews.com/article/view/kuk202607220029",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=545968",
   "https://www.inthenews.co.kr/news/article.html?no=89582",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260726027100004?input=1195m",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=852453",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2245319",
-  "https://www.asiatime.co.kr/article/20260726500040"
+  "https://www.asiatime.co.kr/article/20260726500040",
+  "https://www.kbmaeil.com/article/20260726500362",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356494",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260726010009158",
+  "https://www.news2day.co.kr/article/20260726500025"
  ],
  "seen_titles": [
-  "이재용·최태원·이해진,美서젠슨황만난다⋯'한국AI드림팀'총출동",
-  "이재용·최태원·이해진,젠슨황과美서회동…AI인프라·공급망협력...",
-  "이재용·최태원,美실리콘밸리서젠슨황회동추진…\"AI·메모리협력...",
-  "100대기업임원평균54.2세…젊은임원줄고'50대이상'늘었다",
   "시총100대기업임원평균54.2세…10년새고령화뚜렷",
   "AI동맹재확인…이재용·최태원·이해진-젠슨황,24일미국서다시뭉친...",
   "시총100대기업인원10년새평균연령1.1세올랐다",
@@ -6001,7 +5997,11 @@
   "재산분할최태원9천440억원역대최고…'8조'권혁빈이혼소송9월선고",
   "[최형철칼럼]노소영9440억원이말하지않은것",
   "SK,엔비디아·MS·AWS등과AI인프라협력확대",
-  "[3대메가]②640조원지방투자내건SK…해외자금유치로‘재무방정..."
+  "[3대메가]②640조원지방투자내건SK…해외자금유치로‘재무방정...",
+  "최태원9440억재산분할‘역대최대’…권혁빈8조이혼소송도주목",
+  "[美깐부회동]이재용,젠슨황과다시한자리…한미AI동맹넓혔다",
+  "빅테크밀착해'3대메가'판키운李…\"대체불가AI공급망핵심국가도...",
+  "'AI생산기지대한민국'첫발…삼성,브로드컴과290조동맹"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,17 @@
   [
    "2026-07-26T13:10:12.786084+09:00",
    "유치로 재무 투자 방정 해외 내건 자금 640조원 지방"
+  ],
+  [
+   "2026-07-26T13:20:12.794243+09:00",
+   "AI 메가 밀착해 키운 공급망 빅테크 핵심국가 3대 대체불가"
+  ],
+  [
+   "2026-07-26T13:20:12.794243+09:00",
+   "동맹 AI 생산기지 대한민국 브로드컴과 첫발 290조 삼성"
   ]
  ],
- "last_run": "2026-07-26T13:10:30.805561+09:00",
+ "last_run": "2026-07-26T13:20:31.070536+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
