@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://ilyo.co.kr/?ac=article_view&entry_id=512022",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37240",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=267809",
-  "https://biz.sbs.co.kr/article_hub/20000324560?division=NAVER",
-  "https://www.newsis.com/view/NISX20260724_0003722590",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280326",
   "http://www.00news.co.kr/news/articleView.html?idxno=105410",
   "https://www.hankyung.com/article/2026072449981",
   "https://www.yna.co.kr/view/AKR20260724161800004?input=1195m",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/202607266660i",
   "http://www.inews24.com/view/1988680",
   "https://economist.co.kr/article/view/ecn202607210066",
-  "https://www.sidae.com/article/2026072414484924622"
+  "https://www.sidae.com/article/2026072414484924622",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270025&t=NN",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254058&CMPT_CD=P0010",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253617&CMPT_CD=P0010",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62116",
+  "https://www.thelec.kr/news/articleView.html?idxno=60040",
+  "https://biz.sbs.co.kr/article_hub/20000324727?division=NAVER"
  ],
  "seen_titles": [
-  "엔비디아,샌프란시스코AI서밋서한국파트너들과AI미래비전제시",
-  "연5%이자도붙는다...최태원,현금9천억마련방안은?[자막뉴스]",
-  "네이버,엔비디아AI팩토리협력강화…SPC세운다",
-  "[헬로스톡]7/24주목할종목:현대글로비스·OCI홀딩스·SK텔레콤·현대...",
-  "[더벨][CompanyWatch]싱가포르투자청,ISC1700억투자'외국인보유율...",
-  "Semiconductorgoldrush?Notifyou'reasupplier.",
   "최태원부터이재용까지...'재벌가이혼'재산분할사례보니",
   "'배터리업계숙원'직접환급도빠졌다",
   "韓国きょうのニュース（7月24日）",
@@ -6001,7 +5995,13 @@
   "\"삼전닉스엄빠씀씀이크네\"…명품유아차·샌동화오픈런시대[장서...",
   "최태원,9440억원어디서마련하나…\"10년배당·연봉8065억원\"",
   "고객이자경쟁자되나…LG엔솔‘ESS사업자’변신딜레마",
-  "[르포]호남전력자급률전국1위…\"반도체팹RE100대응능력있다\""
+  "[르포]호남전력자급률전국1위…\"반도체팹RE100대응능력있다\"",
+  "뉴욕증시,유가하락·반도체약세속혼조마감-[글로벌마감시황]",
+  "\"신천지의혹은양날의검\"...광주가바라본'민주당변수'",
+  "외신도놀랐다...미국마저두려워한상품,한국이손댄결과",
+  "美,자동차이어반도체까지...“애플도중국메모리쓰지마!”",
+  "SK,엔비디아에메모리장기공급",
+  "젠슨황\"韓은AI황금기…SK와5천억달러파트너십\""
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,29 @@
   [
    "2026-07-27T07:12:52.111572+09:00",
    "있다 대응 능력 전력자급률 1위 RE100 전국 호남 반도체팹"
+  ],
+  [
+   "2026-07-27T07:21:04.719427+09:00",
+   "신천지 바라본 변수 양날의 광주가 민주당 의혹은"
+  ],
+  [
+   "2026-07-27T07:21:04.719427+09:00",
+   "미국마저 놀랐다 상품 손댄 두려워한 한국이 결과 외신도"
+  ],
+  [
+   "2026-07-27T07:21:04.719427+09:00",
+   "메모리 애플도 이어 중국 반도체까지 자동차 쓰지"
+  ],
+  [
+   "2026-07-27T07:21:04.719427+09:00",
+   "메모리 공급 엔비디아에 장기"
+  ],
+  [
+   "2026-07-27T07:21:04.719427+09:00",
+   "파트너십 5천억달러 황금기 AI 젠슨 SK와"
   ]
  ],
- "last_run": "2026-07-27T07:13:47.441459+09:00",
+ "last_run": "2026-07-27T07:21:30.852647+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6884,6 +6904,7 @@
   "dentalnews.or.kr": "치과신문",
   "nc.press": "뉴스컬처",
   "sejungilbo.com": "세정일보",
-  "livesnews.com": "라이브뉴스"
+  "livesnews.com": "라이브뉴스",
+  "dailycar.co.kr": "dailycar.co.kr"
  }
 }
