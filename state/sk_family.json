@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260626144100013?input=1196m",
   "https://www.yna.co.kr/view/AKR20260626109600504?input=1195m",
   "https://www.kukinews.com/article/view/kuk202607220182",
   "https://www.hankyung.com/article/2026072201221",
@@ -2999,10 +2998,10 @@
   "https://biz.sbs.co.kr/article_hub/20000324709?division=NAVER",
   "http://www.inews24.com/view/1988680",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607251532471360104220",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620508"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620508",
+  "https://www.thelec.kr/news/articleView.html?idxno=60040"
  ],
  "seen_titles": [
-  "충남도의회교육위,학교안전·작은학교지원등교육현안집중점검",
   "[비즈톡]긴장한총수들뒤에서2000조숫자경쟁한삼성과SK",
   "이재명대통령,샌프란시스코서젠슨황·올트먼·아모데이연쇄회동",
   "이재용·최태원·정의선,李대통령순방동행…경제외교총력(종합2보...",
@@ -6001,7 +6000,8 @@
   "[증시전략]빅테크실적·FOMC회의·중동까지…역대급변동성예고",
   "최태원,9440억원어디서마련하나…\"10년배당·연봉8065억원\"",
   "[더벨]SK하이닉스·SKT,엔비디아와'5000억달러'AI동맹",
-  "엔화바닥치는데원화웃는다?…40조벌어온‘이기업’[잇슈머니]"
+  "엔화바닥치는데원화웃는다?…40조벌어온‘이기업’[잇슈머니]",
+  "SK,엔비디아에메모리장기공급"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-07-27T07:11:54.936349+09:00",
    "원화 엔화 40조 벌어온 기업 치는데 바닥 웃는다"
+  ],
+  [
+   "2026-07-27T07:20:15.100446+09:00",
+   "엔비디아에 장기 공급 메모리"
   ]
  ],
- "last_run": "2026-07-27T07:12:14.728418+09:00",
+ "last_run": "2026-07-27T07:20:26.748695+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
