@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2606094",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166227",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616968",
   "https://www.kukinews.com/article/view/kuk202607220052",
   "http://www.newskr.kr/news/articleView.html?idxno=105191",
   "https://www.newscj.com/news/articleView.html?idxno=3418875",
@@ -2999,12 +2996,12 @@
   "https://www.khan.co.kr/article/202607261521001",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607260073&t=NN",
   "http://www.econotelling.com/news/articleView.html?idxno=20944",
-  "http://www.babytimes.co.kr/news/articleView.html?idxno=73650"
+  "http://www.babytimes.co.kr/news/articleView.html?idxno=73650",
+  "https://www.livesnews.com/news/article.html?no=62929",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1269997.html",
+  "https://www.joongang.co.kr/article/25448213"
  ],
  "seen_titles": [
-  "이재용·최태원·이해진,미국서엔비디아젠슨황과회동…글로벌AI협...",
-  "삼성·SK·네이버·엔비디아수장합동미팅추진…AI협력청사진나오...",
-  "SK'영업이익N%성과급'체계손보나···'현금대신주식'제안부터",
   "이재용·최태원·이해진,美서젠슨황과AI회동추진",
   "[재계인사이드]삼성,SK발‘초대형M＆A설’의근거",
   "실리콘밸리향하는재계총수들…'AI동맹'짜러간다",
@@ -6001,25 +5998,12 @@
   "이대통령‘샌프란AI선언’…빅테크리더에‘대체불가AI선도국’공...",
   "[속보]최태원9440억넘을까…'8조재산'권혁빈이혼소송주목",
   "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(82)미래혁신사업에...",
-  "이재명대통령\"한국AI허브\"…'샌프란시스코AI선언'"
+  "이재명대통령\"한국AI허브\"…'샌프란시스코AI선언'",
+  "세계최강독보적1위대한민국AI황금시대개막...3대메가프로젝트...",
+  "이대통령,젠슨황·혹탄등과‘샌프란시스코깐부회동’",
+  "“한국서가장비싼이혼”…최태원,9940억어떻게마련할까"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T09:50:16.577332+09:00",
-   "AI 가치사슬 배경훈 부총리 산업 샌프란시스코 연결 서밋"
-  ],
-  [
-   "2026-07-26T10:00:24.877929+09:00",
-   "키옥시아 최대주주되나 투자주의 언론은 SK하이닉스"
-  ],
-  [
-   "2026-07-26T10:00:24.877929+09:00",
-   "VC K스타트업 국민연금 마중물 투자 실리콘밸리 협력 6곳과"
-  ],
-  [
-   "2026-07-26T10:00:24.877929+09:00",
-   "뛰어넘는 권혁빈 이혼소송에 쏠리는 조단위 재산분할"
-  ],
   [
    "2026-07-26T10:10:17.480157+09:00",
    "위로 3000만원 논의 위자료 안되는 현실화 변협 본격화 깨질까"
@@ -6155,9 +6139,13 @@
   [
    "2026-07-26T15:30:19.267467+09:00",
    "권혁빈 9440억 넘을까 재산 이혼소송 주목 8조"
+  ],
+  [
+   "2026-07-26T16:00:27.634058+09:00",
+   "한국서 마련할까 가장 비싼 어떻게 9940억 이혼"
   ]
  ],
- "last_run": "2026-07-26T15:50:24.818350+09:00",
+ "last_run": "2026-07-26T16:00:38.483726+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
