@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16142710",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360614",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166239",
-  "https://news.knn.co.kr/news/article_sns/1518",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312711",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83533",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=127200",
   "http://www.popcornnews.net/news/articleView.html?idxno=127267",
@@ -2999,14 +2994,14 @@
   "https://www.imaeil.com/page/view/2026072616015937619",
   "http://www.srtimes.kr/news/articleView.html?idxno=208343",
   "https://www.ajunews.com/view/20260726161408055",
-  "http://www.fnnews.com/news/202607260347184050"
+  "http://www.fnnews.com/news/202607260347184050",
+  "http://www.boannews.com/media/view.asp?idx=144841&kind=2",
+  "https://www.hankookilbo.com/news/article/A2026072614120002638?did=NA",
+  "https://www.news1.kr/it-science/general-it/6239311",
+  "https://www.etnews.com/20260726000089",
+  "https://www.etnews.com/20260726000088"
  ],
  "seen_titles": [
-  "\"年7억성과급에5억대출까지\"…SK하이닉스노조,또청구서꺼냈다(종...",
-  "이재용·최태원·이해진,미국서젠슨황만난다…AI혈맹재확인",
-  "이재용·최태원·이해진,미국서젠슨황만날듯",
-  "SK하이닉스환전자금덕분에…'백투백'우려에도단기채에매수몰린다",
-  "SK하이닉스임단협,성과급'주식지급'놓고새갈등",
   "이재용·최태원·이해진,미국서젠슨황만난다…AI리더집결",
   "AI공급망다시묶는다…이재용·최태원·이해진,美서젠슨황과회동",
   "이재용·최태원·이해진,미국서젠슨황만난다…韓·美AI리더총집결",
@@ -6001,7 +5996,12 @@
   "이대통령\"대한민국대체불가한글로벌AI공급망핵심국가로도약할...",
   "韓·美AI공룡들1390조'초대형동맹'…한국,글로벌AI생산기지부상",
   "\"AI호황에실탄쌓은韓기업들…美기업M&A로투자확대\"",
-  "李대통령,'샌프란깐부회동'…삼성·SK9500억불반도체수주"
+  "李대통령,'샌프란깐부회동'…삼성·SK9500억불반도체수주",
+  "9500억달러반도체공급·생산협력...샌프란시스코AI서밋성과는?",
+  "격의없던'샌프란깐부회동'...李\"우리는\"선창,빅테크CEO\"식구다\"...",
+  "'샌프란깐부회동'계산한배경훈부총리…\"올해가진값진저녁값\"",
+  "[이슈플러스]AI시대새경제질서'토큰이코노미'가뜬다",
+  "[이슈플러스]실리콘밸리가먼저겪은토큰경쟁…'맥싱'에서'미닝'으로"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,21 @@
   [
    "2026-07-26T16:30:21.418206+09:00",
    "9500억불 반도체 삼성 샌프란 깐부회동 대통령 수주"
+  ],
+  [
+   "2026-07-26T16:40:12.501691+09:00",
+   "값진 부총리 배경훈 계산한 저녁값 샌프란 올해 회동 깐부 가진"
+  ],
+  [
+   "2026-07-26T16:40:12.501691+09:00",
+   "경제 토큰 AI 뜬다 시대 질서 이코노미"
+  ],
+  [
+   "2026-07-26T16:40:12.501691+09:00",
+   "토큰 맥싱 에서 으로 실리콘밸리가 먼저 겪은 경쟁 미닝"
   ]
  ],
- "last_run": "2026-07-26T16:30:35.866323+09:00",
+ "last_run": "2026-07-26T16:40:33.557982+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
