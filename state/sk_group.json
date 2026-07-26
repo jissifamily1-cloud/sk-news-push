@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Society/article/all/20260724/134358190/2",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070268",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277598",
-  "https://www.pressman.kr/news/articleView.html?idxno=102871",
-  "https://zdnet.co.kr/view/?no=20260724142703",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277639",
   "http://www.joseilbo.com/news/news_read.php?uid=572557&class=32",
   "https://biz.sbs.co.kr/article_hub/20000324478?division=NAVER",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190129",
@@ -2999,15 +2993,15 @@
   "http://www.fnnews.com/news/202607261031099815",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208241",
   "http://www.newstomato.com/ReadNews.aspx?no=1308218&inflow=N",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01659686645518456"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01659686645518456",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92772",
+  "https://www.m-i.kr/news/articleView.html?idxno=1395311",
+  "http://www.fnnews.com/news/202607261003148064",
+  "https://www.news1.kr/politics/president/6239175",
+  "https://biz.chosun.com/it-science/ict/2026/07/26/HPKKGPJXVZF5TL5UBVFGOJ572Q/",
+  "https://www.the-today.com/news/articleView.html?idxno=87865"
  ],
  "seen_titles": [
-  "\"최태원,노소영에재산분할로9,440억원지급하라\"",
-  "[속보]법원\"최태원,노소영에9440억원지급해야\"",
-  "[2보]법원\"최태원,노소영에재산분할금9천440억원지급\"",
-  "[속보]법원\"최태원,노소영에재산분할금9440억지급하라\"",
-  "법원“최태원,노소영에9440억원재산분할금지급”",
-  "1조3808억원다시계산…최태원·노소영'9년소송',5배뛴SK주가가최...",
   "중국환호,미국당황,전세계논란:AI전장의'뜨거운감자’,오픈소...",
   "(LEAD)SKGroupchairmanorderedtopay944blnwoninassetdivisionto.",
   "\"레버리지광풍꺾였다\"…삼전·닉스ETF자금유입'뚝'",
@@ -6001,25 +5995,15 @@
   "서학개미7300억쓸어담은SK하이닉스ADR…액티브ETF도편입확대",
   "이재용,'오픈AI'샘올트먼만났다…AI협력확대논의",
   "실리콘밸리서'AI선언'…경제적가치만'1400조'",
-  "불가사리부터연어DNA까지…K뷰티판도바꾸는기술유망주들"
+  "불가사리부터연어DNA까지…K뷰티판도바꾸는기술유망주들",
+  "[초점]1400兆쥔韓·美'빅테크연합','AI르네상스'서막…엔비디아...",
+  "SKT,스타트업혁신생태계구축박차…독자AI'A.XK1'지원",
+  "SKT,스타트업3곳에'A.XK1'API지원…국내AI생태계활성화",
+  "李대통령,美'AI세일즈'마무리…9500억달러협력안고브라질행",
+  "이재용-올트먼,오픈AI본사서회동…AI반도체협력논의",
+  "더투데이최태원단독기사100만뷰돌파…한달누적500만건"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T07:41:09.901036+09:00",
-   "희비 SKT 성장 KT 이통3사 회복 2분기 LGU 주춤"
-  ],
-  [
-   "2026-07-26T07:41:09.901036+09:00",
-   "복귀 삼성전기 1조 유력 LG이노텍 내년부턴 퀀텀 클럽 4년만에"
-  ],
-  [
-   "2026-07-26T07:41:09.901036+09:00",
-   "아직 종목 폭탄설 잠잠 매도 큰손이 74조 쓸어담은"
-  ],
-  [
-   "2026-07-26T07:41:09.901036+09:00",
-   "세계산업 AI 없으면 돌아가 반도체 대통령 만들 선도국"
-  ],
   [
    "2026-07-26T07:51:07.931387+09:00",
    "급등에 기대 코스피 반도체 유가 중동발 혼조세 요동친 인공지능"
@@ -6523,9 +6507,13 @@
   [
    "2026-07-26T13:31:10.437182+09:00",
    "바꾸는 판도 DNA까지 기술 연어 K뷰티 불가사리부터 유망주들"
+  ],
+  [
+   "2026-07-26T13:41:16.055221+09:00",
+   "500만건 누적 최태원 100만뷰 돌파 단독기사 더투데이"
   ]
  ],
- "last_run": "2026-07-26T13:31:19.746052+09:00",
+ "last_run": "2026-07-26T13:41:22.048545+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
