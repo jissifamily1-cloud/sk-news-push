@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83533",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=127200",
-  "http://www.popcornnews.net/news/articleView.html?idxno=127267",
   "http://www.fnnews.com/news/202607220858458569",
   "https://www.delighti.co.kr/news/articleView.html?idxno=119264",
   "https://www.pointe.co.kr/news/articleView.html?idxno=82093",
@@ -2999,12 +2996,12 @@
   "https://www.hankookilbo.com/news/article/A2026072614120002638?did=NA",
   "https://www.news1.kr/it-science/general-it/6239311",
   "https://www.etnews.com/20260726000089",
-  "https://www.etnews.com/20260726000088"
+  "https://www.etnews.com/20260726000088",
+  "https://www.g-enews.com/view.php?ud=202607261631327813112616b072_1",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270353",
+  "https://www.etoday.co.kr/news/view/2607519"
  ],
  "seen_titles": [
-  "이재용·최태원·이해진,미국서젠슨황만난다…AI리더집결",
-  "AI공급망다시묶는다…이재용·최태원·이해진,美서젠슨황과회동",
-  "이재용·최태원·이해진,미국서젠슨황만난다…韓·美AI리더총집결",
   "이재용·최태원,美서젠슨황또만난다…챗GPT·클로드CEO도참석거론",
   "AI패권전쟁한복판에선韓…이재용·최태원·젠슨황美서또뭉친다",
   "국내100대기업임원,50대이상늘고40대이하감소⋯'고령화'뚜렷",
@@ -6001,13 +5998,12 @@
   "격의없던'샌프란깐부회동'...李\"우리는\"선창,빅테크CEO\"식구다\"...",
   "'샌프란깐부회동'계산한배경훈부총리…\"올해가진값진저녁값\"",
   "[이슈플러스]AI시대새경제질서'토큰이코노미'가뜬다",
-  "[이슈플러스]실리콘밸리가먼저겪은토큰경쟁…'맥싱'에서'미닝'으로"
+  "[이슈플러스]실리콘밸리가먼저겪은토큰경쟁…'맥싱'에서'미닝'으로",
+  "최태원·젠슨황,5000억달러'AI동맹'…한국에2GW팩토리",
+  "삼성이재용·SK최태원회장의글로벌AI주도권'투트랙'승부수,단...",
+  "“일본키옥시아,최대주주다시도시바⋯SK하닉사실상2대주주”"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T10:40:15.930043+09:00",
-   "테스트베드 국민 AI 하나씩 1인당"
-  ],
   [
    "2026-07-26T11:00:28.440198+09:00",
    "도약 AI허브 AI서밋 AI리더 샌프 글로벌 한자리에"
@@ -6151,9 +6147,13 @@
   [
    "2026-07-26T16:40:12.501691+09:00",
    "토큰 맥싱 에서 으로 실리콘밸리가 먼저 겪은 경쟁 미닝"
+  ],
+  [
+   "2026-07-26T16:50:13.111940+09:00",
+   "도시바 2대 일본 사실상 SK하닉 주주 다시 키옥시아 최대주주"
   ]
  ],
- "last_run": "2026-07-26T16:40:33.557982+09:00",
+ "last_run": "2026-07-26T16:50:28.809621+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
