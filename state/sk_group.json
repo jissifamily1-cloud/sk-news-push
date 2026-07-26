@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848275",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308142&inflow=N",
-  "http://www.newskr.kr/news/articleView.html?idxno=105240",
-  "http://www.4th.kr/news/articleView.html?idxno=2115222",
-  "https://www.mk.co.kr/article/12106658",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3645420",
-  "https://www.hankyung.com/article/202607244329h",
-  "https://www.kado.net/news/articleView.html?idxno=2062979",
   "https://www.hankyung.com/article/202607244316g",
   "http://www.finomy.com/news/articleView.html?idxno=257938",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4096891",
@@ -2999,17 +2991,17 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363732327",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256556",
   "https://www.chosun.com/economy/tech_it/2026/07/26/PEUWNN2MQJEG5J4S5N4CJD6DYY/",
-  "https://www.idomin.com/news/articleView.html?idxno=2010920"
+  "https://www.idomin.com/news/articleView.html?idxno=2010920",
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=900553",
+  "https://www.newsis.com/view/NISX20260726_0003723567",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443157",
+  "https://www.newsgn.com/news/articleView.html?idxno=564315",
+  "https://magazine.hankyung.com/business/article/202607266367b",
+  "https://www.newsis.com/view/NISX20260726_0003723585",
+  "https://www.newsgn.com/news/articleView.html?idxno=564321",
+  "https://www.m-economynews.com/news/article.html?no=69097"
  ],
  "seen_titles": [
-  "취재진앞에선이재근SK그룹최태원회장측변호인",
-  "라포랩스發SK스토아M&A제동…방미통위가안긴숙제들",
-  "입장표명하는이재근SK그룹최태원회장측변호인",
-  "입장밝히는이재근SK그룹최태원회장측변호인",
-  "'반도체거점9개시와동반성장'…추미애\"경기미래투자공사설립박...",
-  "[이슈]최태원,4368억줄이고SK경영권지켰다...1조3808억서9440억으...",
-  "정재헌SKT대표\"AI인프라경쟁치열…SK하이퍼로골든타임선점\"",
-  "[포토]발언하는이재근변호사",
   "SK텔레콤,AI데이터센터전문법인설립...2030년까지7500억원투자",
   "초유의재산분할'9,440억'...남은절차는[Y녹취록]",
   "[속보]법원“노태우비자금300억원,재산분할산정서제외”",
@@ -6001,7 +5993,15 @@
   "SK청솔노인복지관-한국마사회수원지사,지역어르신돌봄사업'동행'",
   "[분석]인텔흑자가CPU에묶인이유···트럼프가모른다면삼성전자에...",
   "中반도체규제두고애플-마이크론갈등...트럼프선택은",
-  "\"시민돈으로메우면안된다\"강기윤창원시장,액화수소해법재정비"
+  "\"시민돈으로메우면안된다\"강기윤창원시장,액화수소해법재정비",
+  "충남도,202조원투자계획지원본격화",
+  "이재명대통령\"한미,안보넘어기술·혁신·스타트업동맹으로”[뉴...",
+  "연기금국내주식리밸런싱유예끝났지만오히려684억순매수,SK하이닉...",
+  "李대통령\"AI시대,한국이핵심\"…실리콘밸리서투자·외교행보",
+  "[속보]개미,삼전닉스레버리지폭풍매수",
+  "이재용삼성회장,오픈AI본사서샘올트먼과회동",
+  "'레버리지규제'출격앞둔증시…변동성잡힐까",
+  "李대통령,실리콘밸리서한미기술·스타트업동맹강조"
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,17 @@
   [
    "2026-07-26T14:41:07.871188+09:00",
    "해법 강기윤 액화수소 메우면 된다 돈으로 창원시장 재정비 시민"
+  ],
+  [
+   "2026-07-26T14:51:04.444159+09:00",
+   "앞둔 변동성 증시 잡힐까 규제 출격 레버리지"
+  ],
+  [
+   "2026-07-26T14:51:04.444159+09:00",
+   "한미 대통령 실리콘밸리서 기술 강조 동맹 스타트업"
   ]
  ],
- "last_run": "2026-07-26T14:41:27.083792+09:00",
+ "last_run": "2026-07-26T14:51:12.842306+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
