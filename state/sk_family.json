@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=380639",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/512276",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51594",
   "https://www.ggilbo.com/news/articleView.html?idxno=1170561",
   "http://www.inews24.com/view/1987546",
@@ -2999,11 +2997,11 @@
   "https://www.dt.co.kr/article/12074722",
   "https://www.tjb.co.kr/news05/bodo/view/id/101492",
   "https://www.koreaittimes.com/news/articleView.html?idxno=155479",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=267862"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=267862",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42641",
+  "https://www.hankookilbo.com/news/article/A2026072609270002163?did=NA"
  ],
  "seen_titles": [
-  "[속보]이재용·최태원·이해진,이번주美서젠슨황만난다",
-  "삼성·SK·네이버·엔비디아뭉친다…AI패권전쟁새판짜나",
   "이재용·최태원·정의선·이해진,'깐부'넘어美서AI회동갖는다",
   "이재용·최태원·이해진,美서젠슨황만난다…AI동맹강화",
   "이재용·최태원·이해진,미국서젠슨황회동추진",
@@ -6001,7 +5999,9 @@
   "‘샌프AI서밋’에AI리더한자리에…“韓,글로벌AI허브도약”",
   "'샌프란시스코AI서밋'…한국기업,6건협약9천500억달러성사",
   "이대통령,美샌프란시스코서'AI국가비전'제시…글로벌AI공급망...",
-  "실트론매각·주식담보·자산유동화…최태원회장,뭘택하든SK거버넌..."
+  "실트론매각·주식담보·자산유동화…최태원회장,뭘택하든SK거버넌...",
+  "[美깐부회동]SK,글로벌빅테크와7500억달러AI인프라협력…엔비디...",
+  "[현장]'기업가치2경원'AI거물들,2만원대버거집서李대통령과'샌프..."
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,13 @@
   [
    "2026-07-26T11:10:15.029623+09:00",
    "자산 실트론 유동화 회장 주식담보 매각 거버넌 택하든"
+  ],
+  [
+   "2026-07-26T11:20:14.800479+09:00",
+   "버거집서 거물들 AI 대통령과 기업가치 샌프 2만원대 2경원"
   ]
  ],
- "last_run": "2026-07-26T11:10:26.590847+09:00",
+ "last_run": "2026-07-26T11:20:30.686341+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
