@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155309",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155308",
   "http://www.newskr.kr/news/articleView.html?idxno=105246",
   "https://www.smartbizn.com/news/articleView.html?idxno=149399",
   "https://www.sentv.co.kr/article/view/sentv202607240174",
@@ -2999,11 +2997,11 @@
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6840171_37004.html",
   "https://www.hankookilbo.com/news/article/A2026072616590001842?did=NA",
   "https://www.segye.com/newsView/20260726508218?OutUrl=naver",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675425&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675425&plink=ORI&cooper=NAVER",
+  "http://www.kjdaily.com/article.php?aid=1785064764683165002",
+  "https://platum.kr/archives/291414"
  ],
  "seen_titles": [
-  "법원\"최태원,노소영에9440억지급\"…SK주식분할대상인정",
-  "\"최태원,노소영에9440억원지급\"판결…재상고시다시대법으로",
   "'또검은금요일'...코스피,중동리스크확대·유가상승에7%넘게곤두...",
   "충남도,'202조원투자계획'광속행정지원본격화",
   "최태원,노소영에줘야할9440억어떻게마련하나...재산분할판결후계...",
@@ -6001,7 +5999,9 @@
   "제2의삼전닉스는?‥이대통령,실리콘밸리서'스타트업지원전'",
   "전세계AI실증환경'AI테스트베드'미래로...정부전폭적지원나서...",
   "개미,레버리지ETF폭풍매수여전…규제약발먹힐까",
-  "실리콘밸리서투자호소…\"차세대삼성·SK만들자\""
+  "실리콘밸리서투자호소…\"차세대삼성·SK만들자\"",
+  "李“한국반도체공장없인세계산업안돌아가”",
+  "대통령면담에서이름이나온스타트업"
  ],
  "recent_sigs": [
   [
@@ -6609,7 +6609,7 @@
    "만들자 투자 삼성 호소 실리콘밸리서 차세대"
   ]
  ],
- "last_run": "2026-07-26T20:21:12.250563+09:00",
+ "last_run": "2026-07-26T20:31:11.855878+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
