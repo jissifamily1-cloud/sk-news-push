@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR202607202107565R0",
-  "https://www.nongmin.com/article/20260720500439",
-  "http://www.cctimes.kr/news/articleView.html?idxno=917458",
   "http://www.cctimes.kr/news/articleView.html?idxno=917441",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207014",
   "https://www.chosun.com/national/court_law/2026/07/20/MOUS5OQTDZBWZKOBJBBYPLTX3Q/",
@@ -2999,12 +2996,12 @@
   "https://www.dt.co.kr/article/12074745",
   "https://www.hidomin.com/news/articleView.html?idxno=714667",
   "https://www.ytn.co.kr/_ln/0101_202607261251118626",
-  "https://www.yna.co.kr/view/AKR20260726029100001?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260726029100001?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675240&plink=ORI&cooper=NAVER",
+  "https://www.kyeonggi.com/article/20260726580069",
+  "https://www.m-i.kr/news/articleView.html?idxno=1395306"
  ],
  "seen_titles": [
-  "[속보]체육회공정위,배재고야구부징계감경…출전정지1개월",
-  "장기등록하라더니폐업?…요가·필라테스‘먹튀’막는다",
-  "`청주시의원성매매'검·경신경전비화...난데없는'정치인유착의혹...",
   "국힘`아동성매매혐의'최영중전청주시의원제명",
   "[단독]경찰'장윤기수사지휘'전광산서장출국금지…지휘부본격수...",
   "합수본‘노태악출장의혹’강제수사…‘투표용지부족’서선관위비...",
@@ -6001,7 +5998,10 @@
   "공정위,파형관입찰담합에과징금8억6천만원",
   "장동혁,대구찾아\"선관위해체,사전투표폐지해야\"",
   "정성호'사의표명'후폭풍...여당,신천지논란에계파충돌",
-  "野,李대통령'재외국민전자투표'언급에\"고양이에생선맡겨\""
+  "野,李대통령'재외국민전자투표'언급에\"고양이에생선맡겨\"",
+  "한전발주파형관입찰짬짜미…조합·업체,과징금8억7천만원",
+  "공정위,한전입찰담합3개조합·7개사적발…과징금8억8600만원",
+  "장동혁,'투표율조작'에반등기회...소장파는'멱살잡이'악재"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "9440억 확정 공습 최태원 중국 본격화 이혼소송 AI 회장"
   ]
  ],
- "last_run": "2026-07-26T13:11:03.481246+09:00",
+ "last_run": "2026-07-26T13:20:59.159002+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
