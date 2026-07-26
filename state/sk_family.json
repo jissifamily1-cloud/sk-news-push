@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.redian.org/news/articleView.html?idxno=256984",
-  "https://www.seoultimes.news/news/article.html?no=2000097993",
-  "https://biz.sbs.co.kr/article_hub/20000323877?division=NAVER",
   "https://news.tf.co.kr/read/economy/2345769.htm",
   "http://www.newsprime.co.kr/news/article.html?no=741089",
   "https://www.techm.kr/news/articleView.html?idxno=153564",
@@ -2999,12 +2996,12 @@
   "https://www.donga.com/news/Economy/article/all/20260726/134366023/1",
   "https://www.mk.co.kr/article/12107720",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01886006645518456",
-  "https://www.ajunews.com/view/20260726115107734"
+  "https://www.ajunews.com/view/20260726115107734",
+  "https://www.g-enews.com/view.php?ud=2026072515355259833084322ec9_1",
+  "https://www.mk.co.kr/article/12107789",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42649"
  ],
  "seen_titles": [
-  "웃어밥(㈜해피벤처),이화여대에장학금및학생창업기금총1억원기부",
-  "[인터뷰]앤씨앤최종현대표\"북미·유럽등'뷰로이드'수출호조\"",
-  "이재용·최태원·이해진,美실리콘밸리서젠슨황과'AI라운드테이블...",
   "이재용·최태원·정의선·이해진,젠슨황과'미국판깐부회동'…AI인...",
   "[EBN데이터센터]AI기대감에반도체대표주동반급등...SK하이닉스8%...",
   "안민석교육감,교육교부금축소반대…“교육주도성장에투자해야”",
@@ -6001,13 +5998,12 @@
   "韓,빅테크와9500억달러AI동맹…‘대체불가핵심’부상",
   "시총1.7경원'AI깐부회동'李\"우리는식구다\"건배사",
   "WSJ\"SK하이닉스지나친ADR프리미엄은과열신호\"",
-  "더강력해진韓美AI밸류체인…신경망부터휴머노이드까지'윈윈'"
+  "더강력해진韓美AI밸류체인…신경망부터휴머노이드까지'윈윈'",
+  "SK,美빅테크와초대형AI동맹…5년간7,500억달러",
+  "한미빅테크1400조원짜리동맹,AI강국디딤돌로활용해야[사설]",
+  "[美깐부회동]이해진·젠슨황손잡았다…네이버AI팩토리3배이상..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T11:30:21.900468+09:00",
-   "해킹 외부 100억 네이버 스스로 달러 챗GPT 유치 투자"
-  ],
   [
    "2026-07-26T11:50:15.460687+09:00",
    "관세 쉽지 쥐어짜 편법 트럼프 않아 피하기 신문들 강제노동"
@@ -6155,9 +6151,17 @@
   [
    "2026-07-26T17:30:18.561294+09:00",
    "강력해진 윈윈 밸류체인 휴머노이드까지 AI 신경망부터"
+  ],
+  [
+   "2026-07-26T17:40:14.095260+09:00",
+   "한미 디딤돌로 활용해야 빅테크 1400조원짜리 동맹 AI강국"
+  ],
+  [
+   "2026-07-26T17:40:14.095260+09:00",
+   "3배 이해진 손잡았다 네이버 젠슨 AI 팩토리 이상"
   ]
  ],
- "last_run": "2026-07-26T17:30:37.019192+09:00",
+ "last_run": "2026-07-26T17:40:28.087681+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
