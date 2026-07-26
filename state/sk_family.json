@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51594",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1170561",
   "http://www.inews24.com/view/1987546",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83526",
   "https://www.newsis.com/view/NISX20260722_0003718017",
@@ -2999,11 +2997,11 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=155479",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267862",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42641",
-  "https://www.hankookilbo.com/news/article/A2026072609270002163?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026072609270002163?did=NA",
+  "https://www.ddaily.co.kr/page/view/2026072610412346374",
+  "https://www.news1.kr/it-science/general-it/6239133"
  ],
  "seen_titles": [
-  "이재용·최태원·정의선·이해진,'깐부'넘어美서AI회동갖는다",
-  "이재용·최태원·이해진,美서젠슨황만난다…AI동맹강화",
   "이재용·최태원·이해진,미국서젠슨황회동추진",
   "이재용·최태원·이해진,미국서젠슨황만난다",
   "용인특례시의회,윤리특별위원회구성…위원장김희영선출",
@@ -6001,7 +5999,9 @@
   "이대통령,美샌프란시스코서'AI국가비전'제시…글로벌AI공급망...",
   "실트론매각·주식담보·자산유동화…최태원회장,뭘택하든SK거버넌...",
   "[美깐부회동]SK,글로벌빅테크와7500억달러AI인프라협력…엔비디...",
-  "[현장]'기업가치2경원'AI거물들,2만원대버거집서李대통령과'샌프..."
+  "[현장]'기업가치2경원'AI거물들,2만원대버거집서李대통령과'샌프...",
+  "韓·美빅테크1400조원AI동맹떴다…반도체·AI공급망구축본격화",
+  "네이버,100억달러투자유치…챗GPT스스로외부해킹[뉴스잇(IT)쥬]"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,13 @@
   [
    "2026-07-26T11:20:14.800479+09:00",
    "버거집서 거물들 AI 대통령과 기업가치 샌프 2만원대 2경원"
+  ],
+  [
+   "2026-07-26T11:30:21.900468+09:00",
+   "해킹 외부 100억 네이버 스스로 달러 챗GPT 유치 투자"
   ]
  ],
- "last_run": "2026-07-26T11:20:30.686341+09:00",
+ "last_run": "2026-07-26T11:30:36.216998+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
