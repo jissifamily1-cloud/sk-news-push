@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607220954543324",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80040",
-  "https://news.tf.co.kr/read/economy/2345639.htm",
-  "https://www.mydaily.co.kr/page/view/2026072210021895527",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=875721",
-  "https://www.newsis.com/view/NISX20260722_0003718263",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/22/2026072200074.html",
-  "https://www.segye.com/newsView/20260722507952?OutUrl=naver",
   "https://www.cbci.co.kr/news/articleView.html?idxno=590880",
   "https://www.cwn.kr/news/articleView.html?idxno=50858",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276625",
@@ -2999,17 +2991,17 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1308218&inflow=N",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01659686645518456",
   "http://www.newstomato.com/ReadNews.aspx?no=1308174&inflow=N",
-  "http://www.fnnews.com/news/202607261339107267"
+  "http://www.fnnews.com/news/202607261339107267",
+  "https://www.etnews.com/20260726000111",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675262&plink=ORI&cooper=NAVER",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273591",
+  "https://www.newspim.com/news/view/20260726000085",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=82293",
+  "https://www.newsis.com/view/NISX20260726_0003723526",
+  "https://www.busan.com/view/busan/view.php?code=2026072613532748990",
+  "https://biz.chosun.com/policy/politics/president_office/2026/07/26/PAIIRZKELFCHTJGXUGOWB5RZCA/"
  ],
  "seen_titles": [
-  "이재용·최태원·이해진,이번주美서젠슨황회동…글로벌AI동맹",
-  "이재용·최태원·이해진,美서젠슨황만난다…AI협력확대주목",
-  "이재용·최태원·이해진,美서젠슨황만난다…메모리·AI협력논의",
-  "이재용회장·최태원회장·이해진의장,미국에서젠슨황과회동전망...",
-  "젠슨황,이재용·최태원·이해진과美회동…AI거물총출동",
-  "“요양시설대신살던곳에서”…화성‘온(溫)이음채’,통합돌봄새...",
-  "지드래곤도홀려서'좋아요'눌렀네..'연봉킹'이승우,화제의세리머니...",
-  "'베라루빈'공급앞두고…이재용·최태원·이해진,美서젠슨황만난다",
   "이재용·최태원·이해진미국서젠슨황만난다,24일회동유력",
   "이재용·최태원·이해진,젠슨황과회동…'메가AI삼각동맹'띄운다",
   "삼성·SK·네이버총출동…AI패권가를실리콘밸리회동",
@@ -6001,13 +5993,17 @@
   "실리콘밸리서'AI선언'…경제적가치만'1400조'",
   "불가사리부터연어DNA까지…K뷰티판도바꾸는기술유망주들",
   "2조주식재산분할판단근거는?…9440억재원마련관심",
-  "李대통령,美AI세일즈마치고브라질행…9500억달러협력성과"
+  "李대통령,美AI세일즈마치고브라질행…9500억달러협력성과",
+  "李,'샌프란AI선언'…韓美,'AI·반도체초격차'굳히기",
+  "'역대최고'재산분할9천440억최태원…다음은'8조재산'권혁빈?",
+  "SK최태원,엔비디아와5000억달러'AI동맹'",
+  "李대통령,美샌프란'AI세일즈'마치고출국…남미3개국순방시작",
+  "\"한국없인AI혁명불가능\"…올트먼,이재명대통령·이재용회장연이...",
+  "젠슨황'골든벨'제안에\"공무원이라어려워\"…배경훈부총리\"올해가...",
+  "'결혼생활30년'최태원·노소영33%재산분할,어떻게계산했나",
+  "李대통령,美‘AI세일즈’마치고…브라질行"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T08:00:28.178744+09:00",
-   "분업 AI 정의선 이재용 가동"
-  ],
   [
    "2026-07-26T08:10:14.242952+09:00",
    "중국 회장 이혼소송 본격화 AI 9440억 공습 확정"
@@ -6139,9 +6135,17 @@
   [
    "2026-07-26T13:40:13.143994+09:00",
    "유망주들 기술 연어 DNA까지 판도 K뷰티 바꾸는 불가사리부터"
+  ],
+  [
+   "2026-07-26T14:01:09.820719+09:00",
+   "AI 마치고 브라질 대통령 세일즈"
+  ],
+  [
+   "2026-07-26T14:01:09.820719+09:00",
+   "결혼생활 계산했나 30년 재산분할 어떻게"
   ]
  ],
- "last_run": "2026-07-26T13:50:26.212506+09:00",
+ "last_run": "2026-07-26T14:01:29.625201+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
