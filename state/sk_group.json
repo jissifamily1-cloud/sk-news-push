@@ -1,18 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2607204",
-  "https://swtvnews.com/news/newsview.php?ncode=1065592446257512",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260724151429QQU",
-  "https://www.sedaily.com/article/20071531",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4863493",
-  "https://www.m-i.kr/news/articleView.html?idxno=1395000",
-  "https://www.news1.kr/photos/8024151",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=243059",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04201686645517800",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250905",
-  "https://www.ytn.co.kr/_ln/0104_202607241511497487",
-  "https://www.newspim.com/news/view/20260724000863",
-  "https://zdnet.co.kr/view/?no=20260724151009",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619427",
   "https://www.newsen.com/news_view.php?uid=202607241515442110",
   "https://www.ajunews.com/view/20260724093816164",
@@ -2999,22 +2986,22 @@
   "https://www.dt.co.kr/article/12074786",
   "https://www.donga.com/news/Economy/article/all/20260726/134365982/2",
   "https://www.joongang.co.kr/article/25448212",
-  "http://www.metroseoul.co.kr/article/20260726500214"
+  "http://www.metroseoul.co.kr/article/20260726500214",
+  "https://www.newspim.com/news/view/20260726000134",
+  "https://www.koreatimes.co.kr/path/A2026072614340002742",
+  "http://www.metroseoul.co.kr/article/20260726500221",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1269997.html",
+  "https://kpenews.com/View.aspx?No=4162376",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607261408053430539",
+  "http://www.metroseoul.co.kr/article/20260726500223",
+  "https://www.livesnews.com/news/article.html?no=62929",
+  "http://www.metroseoul.co.kr/article/20260726500218",
+  "https://www.tokenpost.kr/news/breaking/381391",
+  "https://www.mk.co.kr/article/12107621",
+  "https://www.koreajoongangdaily.com/korea/beer-diplomacy-lee-raises-a-glass-with-ai-titans/12791382",
+  "https://www.joongang.co.kr/article/25448213"
  ],
  "seen_titles": [
-  "9년'이혼소송'결론…재산분할에SK주식포함됐다",
-  "충남도,‘첨단전략산업대도약’전담조직구성",
-  "[알펜시아주인들③]SK오너가와전문경영인,왜별장함께샀을까",
-  "최태원,노소영에9440억원재산분할…역대최대금액",
-  "최태원,노소영에게재산분할로9440억원지급해야…파기환송심판결",
-  "법원\"최태원,노소영에재산분할금9440억원지급\"",
-  "최태원재산분할1조원대육박…SK실트론매각다시탄력받나",
-  "법원\"최태원,노소영에9440억원재산분할\"…파기환송심선고",
-  "법원\"최태원SK주식,분할대상\"…가치평가는2024년4월기준",
-  "法“최태원SK주식재산분할대상포함…기준시점은사실심변론종결...",
-  "(2ndLD)SKGroupchairmanorderedtopay944blnwoninassetdivisiont.",
-  "법원“노소영관장가사·양육,SK그룹에기여”…노소영-최태원재산...",
-  "충남도'첨단전략산업대도약전담조직'1차회의",
   "9440억재산분할판결…최태원SK경영권은유지",
   "최태원,노소영에9440억‘현금’으로줘야…法“SK주가큰폭상승고...",
   "법원“최태원,노소영에재산분할9440억원지급”…SK주식분할대상...",
@@ -6001,49 +5988,22 @@
   "한미빅테크1400조‘AI혈맹’…李‘샌프란선언’",
   "이재용,오픈AI본사서샘올트먼과회동…AI인프라협력방안논의관...",
   "엔비디아의‘K인재’사랑…KAIST와피지컬AI센터함께세운다[팩플...",
-  "與당권주자,전국에서당원·청년만나며'명심'에호소…'명청대전'신..."
+  "與당권주자,전국에서당원·청년만나며'명심'에호소…'명청대전'신...",
+  "김용범\"李대통령,글로벌VC만남…韓빅테크다음타자키우는결의\"",
+  "WhyChey'sdivorcesettlementisfuelingSKTelecomstockrally",
+  "SK하이닉스,HBM공급·AI투자'투트랙'…美공략강화",
+  "이대통령,젠슨황·혹탄등과‘샌프란시스코깐부회동’",
+  "\"AI반도체동맹수준강화\"..이재용삼성전자회장,샘올트먼오픈AI...",
+  "삼전·닉스레버리지에돈마른코스닥…거래대금절반넘게뚝",
+  "한·중·일,전고체배터리개발각축…양산공정·공급망확보속도전",
+  "세계최강독보적1위대한민국AI황금시대개막...3대메가프로젝트...",
+  "정제마진65달러돌파…고유가속정유사수익성향방은",
+  "한국연금펀드,올해첫코스피순매수전환…SK하이닉스집중매수",
+  "해외선‘하이닉스토큰주식’뜨는데…한국은‘그림의떡’",
+  "Beerdiplomacy:LeeRaisesaGlassWithAITitans",
+  "“한국서가장비싼이혼”…최태원,9940억어떻게마련할까"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T09:51:14.920188+09:00",
-   "급락 만에 마감 있나 코스닥 지수 1년여 추락하는 최저치 날개"
-  ],
-  [
-   "2026-07-26T09:51:14.920188+09:00",
-   "뻔한 비판 보인 장동혁 대통령 민주당이 소리 미국까지 가서"
-  ],
-  [
-   "2026-07-26T09:51:14.920188+09:00",
-   "서산갯벌 세계자연유산 등재 가로림만"
-  ],
-  [
-   "2026-07-26T09:51:14.920188+09:00",
-   "부총리 연결 서밋 산업 가치사슬 샌프란시스코 AI 배경훈"
-  ],
-  [
-   "2026-07-26T09:51:14.920188+09:00",
-   "동포 간담회 대통령 이재명 샌프란시스코 오찬"
-  ],
-  [
-   "2026-07-26T10:01:25.227779+09:00",
-   "후공정 역할 SK하이닉스 쓴다 병목 청주 푸는 HBM 다시 승부"
-  ],
-  [
-   "2026-07-26T10:01:25.227779+09:00",
-   "투자주의 SK하이닉스 최대주주되나 언론은 키옥시아"
-  ],
-  [
-   "2026-07-26T10:01:25.227779+09:00",
-   "쏠리는 뛰어넘는 이혼소송에 권혁빈 노소영 조단위 최태원 재산분할"
-  ],
-  [
-   "2026-07-26T10:01:25.227779+09:00",
-   "to profit record expected Q2 rep in hynix won operating tln post"
-  ],
-  [
-   "2026-07-26T10:01:25.227779+09:00",
-   "10년 우승 울산전 FC서울 도전 4연승 흔들리 만의"
-  ],
   [
    "2026-07-26T10:11:11.149359+09:00",
    "소버린 트라우마 매각 피할까 주식 최태원 실탄 9440억 마련할"
@@ -6527,9 +6487,41 @@
   [
    "2026-07-26T15:51:05.578885+09:00",
    "당권주자 명청대전 만나며 명심 호소 당원 전국에서 청년"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "레버리지에 코스닥 닉스 거래대금 삼전 마른 넘게 절반"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "각축 확보 속도전 전고체 양산공정 개발 공급망 배터리"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "개막 1위 독보적 세계 대한민국 황금시대 최강 AI 프로젝트 3대 메가"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "65달러 돌파 향방은 정유사 정제마진 고유가 수익성"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "올해 매수 연금펀드 한국 SK하이닉스 집중 코스피 순매수"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "한국은 뜨는데 하이닉스 해외선 그림의 토큰 주식"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "Lee Beer Raises With Glass Titans AI diplomacy"
+  ],
+  [
+   "2026-07-26T16:01:42.413970+09:00",
+   "이혼 최태원 가장 어떻게 한국서 9940억 마련할까 비싼"
   ]
  ],
- "last_run": "2026-07-26T15:51:14.391571+09:00",
+ "last_run": "2026-07-26T16:02:09.170085+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7103,6 +7095,7 @@
   "redaily.co.kr": "철도경제신문",
   "dentalnews.or.kr": "치과신문",
   "nc.press": "뉴스컬처",
-  "sejungilbo.com": "세정일보"
+  "sejungilbo.com": "세정일보",
+  "livesnews.com": "라이브뉴스"
  }
 }
