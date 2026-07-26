@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.hankooki.com/news/articleView.html?idxno=6936887",
-  "https://www.insight.co.kr/news/564564",
-  "https://www.mk.co.kr/article/12103296",
-  "https://news.mtn.co.kr/news-detail/2026072414005366064",
-  "https://www.newscj.com/news/articleView.html?idxno=3419628",
-  "https://www.mk.co.kr/article/12106615",
   "https://www.donga.com/news/Society/article/all/20260724/134358190/2",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070268",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277598",
@@ -2999,15 +2993,15 @@
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=404214",
   "http://www.fnnews.com/news/202607260912143864",
   "https://www.mk.co.kr/article/12107564",
-  "http://www.fnnews.com/news/202607261214109414"
+  "http://www.fnnews.com/news/202607261214109414",
+  "https://www.mt.co.kr/politics/2026/07/26/2026072610182281659",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876070",
+  "http://www.fnnews.com/news/202607261031099815",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208241",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308218&inflow=N",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01659686645518456"
  ],
  "seen_titles": [
-  "[속보]법원\"최태원,노소영에재산분할로9440억원지급\"",
-  "SK렌터카제주지점,기업실증형B2B마케팅플랫폼으로진화",
-  "법원“최태원,노소영에재산분할금9440억원지급하라”",
-  "이대통령,미국으로출국…실리콘밸리빅테크와AI협력",
-  "[속보]법원\"최태원SK회장,노소영관장에9440억원지급해야\"",
-  "\"최태원,노소영재산분할금9440억원지급\"",
   "\"최태원,노소영에재산분할로9,440억원지급하라\"",
   "[속보]법원\"최태원,노소영에9440억원지급해야\"",
   "[2보]법원\"최태원,노소영에재산분할금9천440억원지급\"",
@@ -6001,25 +5995,15 @@
   "李,실리콘밸리서\"추격자에서선도자로···대체불가대한민국만들...",
   "韓,AIDC체급키웠다...기가와트급글로벌경쟁'첫발'",
   "SKT,독자AI모델개방…스타트업과사업화추진",
-  "변동장에탄력적인옵션조절…배당회피로세금부담↓[이런펀드어때..."
+  "변동장에탄력적인옵션조절…배당회피로세금부담↓[이런펀드어때...",
+  "李대통령,한-실리콘밸리동맹다지고브라질로…\"설레는마음\"",
+  "8월제주,배구·축구·골프메가스포츠축제의장열린다",
+  "서학개미7300억쓸어담은SK하이닉스ADR…액티브ETF도편입확대",
+  "이재용,'오픈AI'샘올트먼만났다…AI협력확대논의",
+  "실리콘밸리서'AI선언'…경제적가치만'1400조'",
+  "불가사리부터연어DNA까지…K뷰티판도바꾸는기술유망주들"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T07:21:12.087010+09:00",
-   "급감 폭스바겐 가속 순이익 구조조정"
-  ],
-  [
-   "2026-07-26T07:21:12.087010+09:00",
-   "2026년 엔화와 급반등 달러 흐름 차별화된 원화 대비"
-  ],
-  [
-   "2026-07-26T07:21:12.087010+09:00",
-   "장기협력 AI인프라 MS와 LOI 메모리 엔비디아와 5000억불"
-  ],
-  [
-   "2026-07-26T07:21:12.087010+09:00",
-   "AI센터 메모리 성사 375조 빅딜 로봇"
-  ],
   [
    "2026-07-26T07:41:09.901036+09:00",
    "희비 SKT 성장 KT 이통3사 회복 2분기 LGU 주춤"
@@ -6531,9 +6515,17 @@
   [
    "2026-07-26T13:21:10.593724+09:00",
    "조절 부담 배당회피로 세금 펀드 이런 옵션 어때 변동장에 탄력적인"
+  ],
+  [
+   "2026-07-26T13:31:10.437182+09:00",
+   "경제적 실리콘밸리서 선언 1400조 가치만 AI"
+  ],
+  [
+   "2026-07-26T13:31:10.437182+09:00",
+   "바꾸는 판도 DNA까지 기술 연어 K뷰티 불가사리부터 유망주들"
   ]
  ],
- "last_run": "2026-07-26T13:21:24.748492+09:00",
+ "last_run": "2026-07-26T13:31:19.746052+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
