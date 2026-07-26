@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=714608",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190133",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886602",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717715",
-  "https://www.kado.net/news/articleView.html?idxno=2062986",
-  "https://www.sidae.com/article/2026072414514417985",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356453",
   "https://www.kyeongin.com/article/1767865",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=205477",
   "https://www.tokenpost.kr/news/market/380908",
@@ -2999,16 +2992,16 @@
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42649",
   "https://www.ajunews.com/view/20260726150626987",
   "https://www.mk.co.kr/article/12107723",
-  "https://www.ajunews.com/view/20260726115107734"
+  "https://www.ajunews.com/view/20260726115107734",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030113645&code=61122021&cp=nv",
+  "https://www.mk.co.kr/article/12107789",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=738061",
+  "https://www.mk.co.kr/article/12107783",
+  "https://www.g-enews.com/view.php?ud=2026072515355259833084322ec9_1",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1065836",
+  "http://www.fnnews.com/news/202607252355201528"
  ],
  "seen_titles": [
-  "[E1저평가민낯]같은LPG,시총3배차이…SK가스에뒤진구자용회장",
-  "코스피,6%급락에6700하회...미-이란전쟁으로외인·기관5조순매도",
-  "法“최태원,노소영에재산분할금9440억지급해야”",
-  "[거래소외국인]SK하이닉스·삼성전자팔고금융주샀다…포트폴리오...",
-  "SK그룹최태원이노소영에지급할'재산분할금'은9440억원:법원은급...",
-  "최태원회장,재산분할현금으로…경영권유지속재원확보'숙제'",
-  "“최태원,노소영에9440억재산분할하라”…지주사SK㈜1/3분할대상",
   "중동발쇼크에코스피5%대급락…양시장'매도사이드카'발동",
   "용인반도체클러스터속도전···전력·용수앞당기자배후주거시장...",
   "SK케미칼,폐현수막자원순환생태계키운다…협력사공개모집",
@@ -6001,7 +5994,14 @@
   "[美깐부회동]이해진·젠슨황손잡았다…네이버AI팩토리3배이상...",
   "[김성현의AI지표]中공세에'증류규제반대'동참거부한오픈AI·앤...",
   "[기자24시]'N%성과급'논란,정부가나설때다",
-  "더강력해진韓美AI밸류체인…신경망부터휴머노이드까지'윈윈'"
+  "더강력해진韓美AI밸류체인…신경망부터휴머노이드까지'윈윈'",
+  "김상욱울산시장,SK·에쓰오일본사방문…AI·샤힌프로젝트상생협...",
+  "한미빅테크1400조원짜리동맹,AI강국디딤돌로활용해야[사설]",
+  "李대통령,미국떠나브라질로…남미3개국순방출발",
+  "\"AI·반도체파티안끝났다…피지컬AI·전력랠리도기대\"",
+  "SK,美빅테크와초대형AI동맹…5년간7,500억달러",
+  "이대통령,실리콘밸리AI·반도체협력마치고남미순방",
+  "\"-60%에도물탔는데\"…12조몰린'삼전닉스레버리지'서처음돈빠졌다"
  ],
  "recent_sigs": [
   [
@@ -6573,7 +6573,7 @@
    "밸류체인 휴머노이드까지 강력해진 신경망부터 AI 윈윈"
   ]
  ],
- "last_run": "2026-07-26T17:31:38.369074+09:00",
+ "last_run": "2026-07-26T17:41:08.690081+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
