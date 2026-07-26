@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260720001022",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128273",
-  "https://www.newsis.com/view/NISX20260720_0003715827",
-  "https://www.news1.kr/photos/8016888",
   "https://www.news1.kr/photos/8016893",
   "https://www.insight.co.kr/news/563800",
   "https://www.news1.kr/photos/8016896",
@@ -2999,13 +2995,13 @@
   "http://www.osen.co.kr/article/G1112846614",
   "http://www.srtimes.kr/news/articleView.html?idxno=208314",
   "https://www.etoday.co.kr/news/view/2607438",
-  "https://www.ytn.co.kr/_ln/0101_202607260836148025"
+  "https://www.ytn.co.kr/_ln/0101_202607260836148025",
+  "https://view.asiae.co.kr/article/2026072212005442187",
+  "https://www.news1.kr/politics/assembly/6239082",
+  "https://www.thepublic.kr/news/articleView.html?idxno=312652",
+  "https://www.thepublic.kr/news/articleView.html?idxno=312635"
  ],
  "seen_titles": [
-  "민주당경남도당\"강기윤창원시장공직선거법의혹엄정수사해야\"",
-  "2차종합특검수사연장초읽기…성과낼수있을까",
-  "합수본,'신천지정계가교'근우회장소환…정치자금법위반혐의",
-  "김건희명품백수수의혹,특수본국민권익위압수수색",
   "특수본,'김건희명품백수수의혹'국민권익위압수수색",
   "\"내가본리뷰,가짜일수도...\"영수증리뷰3만개조작해19억챙긴'리...",
   "'김건희명품백수수의혹'특수본,국민권익위압수수색",
@@ -6001,7 +5997,11 @@
   "이도규가'김부장'봐부러쓰…다시안경쓴아저씨,시즌2가나요[Oh!쎈...",
   "[주간브리핑]최태원SK회장이혼소송9440억확정…중국AI공습본격화",
   "[정부주요일정]경제·사회부처주간일정(7월27일~7월31일)",
-  "한미빅테크1,300조원'AI동맹'...'K-스타트업투자유치'도시동"
+  "한미빅테크1,300조원'AI동맹'...'K-스타트업투자유치'도시동",
+  "[Why&Next]카르텔잡는강력한무기‘리니언시’,기업‘면죄부’논란...",
+  "국힘\"민주당신천지연루의혹,야당추천특검즉각발의하라\"",
+  "\"부정선거특검·전작권전환반대\"…광화문총집결한안보시민단체의...",
+  "투표율조작정황에올공열기후끈…전한길,\"부정선거답은수개표\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "9440억 확정 공습 최태원 중국 본격화 이혼소송 AI 회장"
   ]
  ],
- "last_run": "2026-07-26T09:01:18.381578+09:00",
+ "last_run": "2026-07-26T09:11:26.006214+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
