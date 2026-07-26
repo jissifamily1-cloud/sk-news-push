@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/market-exr/6238337",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47608",
-  "http://www.joseilbo.com/news/news_read.php?uid=572581&class=17",
-  "https://www.kpinews.kr/newsView/1065598840265294",
-  "https://www.ytn.co.kr/_ln/0134_202607241652552653",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=591690",
-  "https://economist.co.kr/article/view/ecn202607240036",
   "https://www.lawtv.kr/news/articleView.html?idxno=60506",
   "http://www.queen.co.kr/news/articleView.html?idxno=460783",
   "http://www.finomy.com/news/articleView.html?idxno=257981",
@@ -2999,16 +2992,16 @@
   "http://www.kwangju.co.kr/article.php?aid=1785069000801615277",
   "https://www.yna.co.kr/view/AKR20260726053500007?input=1195m",
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596487",
-  "https://www.namdonews.com/news/articleView.html?idxno=918086"
+  "https://www.namdonews.com/news/articleView.html?idxno=918086",
+  "https://zdnet.co.kr/view/?no=20260720093507",
+  "https://www.khan.co.kr/article/202607262145005",
+  "https://www.khan.co.kr/article/202607262143005",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264969",
+  "https://biz.heraldcorp.com/article/10819591",
+  "https://www.cstimes.com/news/articleView.html?idxno=714664",
+  "https://www.yeongnam.com/web/view.php?key=20260726026208226"
  ],
  "seen_titles": [
-  "호텔김치판로넓힌다…면세점입점·미국수출(종합)",
-  "워커힐,프리미엄‘수펙스김치’미국수출",
-  "수출길오른워커힐'수펙스김치'···\"亞주요시장진출추진\"",
-  "워커힐,‘수펙스김치’첫미국수출⋯해외판매망확대",
-  "엔비디아젠슨황-SK최태원,AI서밋하루앞두고만찬",
-  "정재헌SKT대표\"AI인프라선점골든타임…아시아허브로도약\"",
-  "[위클리오늘]추미애경기도지사,장쑤성장에친서답신…'한중지방정...",
   "삼성전자소액주주,이사회에37조자사주매입·美나스닥ADR상장공식...",
   "단일레버리지'1.5배축소'검토…업계\"리밸런싱7500억줄어도10조투...",
   "최태원·젠슨황,미국서만찬회동…'AI동맹'재확인",
@@ -6001,33 +5994,16 @@
   "호남,국가최첨단미래산업의중심축도약",
   "[프로축구광주전적]제주2-1광주",
   "'권기민후반추가시간결승골'제주SK,672일만에광주잡았다...2-1역...",
-  "또다시지키지못한선제골…광주FC,제주에1-2무릎"
+  "또다시지키지못한선제골…광주FC,제주에1-2무릎",
+  "프리미엄김치美간다…워커힐,‘수펙스김치’미국첫수출",
+  "AI전영역‘빅테크고객’확보…한국,AI공급망주도권잡는다[샌프...",
+  "이대통령도‘깐부회동’…“우리는식구다”건배사[샌프란시스코A...",
+  "이재용회장,오픈AI본사서샘올트먼과회동",
+  "[증시예보]“떨리다못해무서울지경”드디어‘삼전닉스’실적나...",
+  "수원문화재단,'달빛따라달리는자전거도서관'운영및발레갈라'앙...",
+  "[코스피시대,미국서TK경제의길을묻다①]9,000넘은증시,TK는왜..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T15:41:05.366491+09:00",
-   "전담 TF 첨단 202조 인허가 투자 광속 행정 충남 가동 깨는"
-  ],
-  [
-   "2026-07-26T15:41:05.366491+09:00",
-   "실적 반등 환율 한세실업 증가 수주 오랜만의 쌍끌이"
-  ],
-  [
-   "2026-07-26T15:41:05.366491+09:00",
-   "전력 변수 GW급 AI 확보가 국내 올랐다 경쟁 GPU 데이터센터"
-  ],
-  [
-   "2026-07-26T15:47:46.650396+09:00",
-   "금융 5대 난장판 따로 상반기 있다 순익 증시 속에 웃는"
-  ],
-  [
-   "2026-07-26T15:51:05.578885+09:00",
-   "엔비디아의 피지컬 KAIST와 AI 센터 함께 인재 사랑 세운다 팩플"
-  ],
-  [
-   "2026-07-26T15:51:05.578885+09:00",
-   "당권주자 명청대전 만나며 명심 호소 당원 전국에서 청년"
-  ],
   [
    "2026-07-26T16:01:42.413970+09:00",
    "레버리지에 코스닥 닉스 거래대금 삼전 마른 넘게 절반"
@@ -6555,9 +6531,17 @@
   [
    "2026-07-26T21:41:03.907970+09:00",
    "선제골 광주FC 또다시 제주에 지키지 못한 무릎"
+  ],
+  [
+   "2026-07-26T21:51:05.966575+09:00",
+   "달리는 발레 수원문화재단 달빛 운영 따라 갈라 자전거도서관"
+  ],
+  [
+   "2026-07-26T21:51:05.966575+09:00",
+   "증시 TK는 넘은"
   ]
  ],
- "last_run": "2026-07-26T21:41:31.358500+09:00",
+ "last_run": "2026-07-26T21:51:15.536691+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
