@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250598",
-  "https://www.etnews.com/20260724000265",
-  "https://www.viva100.com/article/20260724500593",
-  "https://www.meconomynews.com/news/articleView.html?idxno=133075",
-  "https://www.ajunews.com/view/20260724140447610",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=362989",
-  "https://www.slist.kr/news/articleView.html?idxno=753969",
   "https://www.seoul.co.kr/news/society/2026/07/24/20260724500243?wlog_tag3=naver",
   "https://en.yna.co.kr/view/AEN20260724002252315?input=2106m",
   "https://www.womennews.co.kr/news/articleView.html?idxno=280301",
@@ -2999,16 +2992,16 @@
   "https://www.ajunews.com/view/20260726152125004",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044644",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471576",
-  "https://www.news1.kr/it-science/general-it/6239268"
+  "https://www.news1.kr/it-science/general-it/6239268",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717813",
+  "https://news.mtn.co.kr/news-detail/2026072615082157943",
+  "https://www.kado.net/news/articleView.html?idxno=2063108",
+  "https://www.hankyung.com/article/2026072664017",
+  "https://www.asiatime.co.kr/article/20260726500063",
+  "https://view.asiae.co.kr/article/2026072615381910057",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675254&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "법원\"최태원,노소영에재산분할금9440억원지급해야\"",
-  "SK스토아노조,라포랩스매각반대총파업경고…\"SKT는SPA파기해야\"",
-  "1조원달하는세기의재산분할판결…\"SK팔고텔레콤사라\"",
-  "李대통령,美실리콘밸리서'AI골든타임'구상…올트먼·젠슨황연쇄...",
-  "사상최대의재산분할…최태원,노소영에9440억지급,SK㈜포함[세상...",
-  "[그래픽]최태원-노소영이혼·재산분할재판결과",
-  "최태원·노소영파기환송심\"재산분할9440억원\"...노관장몫33.3%로축...",
   "[속보]법원“노소영의가사·양육·대외활동,최태원SK주식가치증대...",
   "\"닷컴버블과유사해\"…SK하이닉스ADR괴리율에美전문가'경고'",
   "K-메모리가신중한3DIC…中CXMT,틈새전략속도",
@@ -6001,7 +5994,14 @@
   "원화·엔화엇갈린흐름…엔화가치40년만에최저",
   "충남,'202조첨단투자'전담TF가동…인허가틀깨는'광속행정'펼...",
   "한세실업,오랜만의실적반등…환율·수주증가'쌍끌이'",
-  "국내GW급AI데이터센터경쟁막올랐다…GPU·전력확보가변수"
+  "국내GW급AI데이터센터경쟁막올랐다…GPU·전력확보가변수",
+  "\"월요일하닉간다\"…증권가'역대급실적'한목소리",
+  "이재용·샘올트먼,오픈AI본사서회동…AI인프라협력확대",
+  "삼성이재용,오픈AI샘올트먼과AI·반도체협력논의",
+  "이재용,오픈AI본사서샘올트먼만나…AI·반도체협력주목",
+  "[힘내라K산업]⑤미래산업강화하는두산…전력·피지컬AI‘새엔진’...",
+  "[마켓ING]코스피,FOMC·실적소화하며7000선회복시도",
+  "[자막뉴스]증시난장판속에웃는곳따로있다…5대금융,상반기순익..."
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,13 @@
   [
    "2026-07-26T15:41:05.366491+09:00",
    "전력 변수 GW급 AI 확보가 국내 올랐다 경쟁 GPU 데이터센터"
+  ],
+  [
+   "2026-07-26T15:47:46.650396+09:00",
+   "금융 5대 난장판 따로 상반기 있다 순익 증시 속에 웃는"
   ]
  ],
- "last_run": "2026-07-26T15:41:17.003455+09:00",
+ "last_run": "2026-07-26T15:47:53.292702+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
