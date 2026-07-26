@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10815792",
-  "https://magazine.hankyung.com/business/article/202607228401b",
-  "https://www.joongang.co.kr/article/25447038",
-  "https://www.sentv.co.kr/article/view/sentv202607220020",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149062",
   "https://www.abcn.kr/news/articleView.html?idxno=89654",
   "http://www.ccnnews.co.kr/news/articleView.html?idxno=412406",
   "https://www.sisajournal.com/news/articleView.html?idxno=380639",
@@ -2999,14 +2994,14 @@
   "https://www.thescoop.co.kr/news/articleView.html?idxno=311029",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=360834",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471534",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=738053"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=738053",
+  "https://www.asiatime.co.kr/article/20260726500030",
+  "https://www.segye.com/newsView/20260726503503?OutUrl=naver",
+  "https://www.ytn.co.kr/_ln/0104_202607261044031404",
+  "https://www.dt.co.kr/article/12074722",
+  "https://www.tjb.co.kr/news05/bodo/view/id/101492"
  ],
  "seen_titles": [
-  "이재용·최태원·이해진,젠슨황과한테이블에…AI피크아웃우려넘...",
-  "SK하이닉스,美현지인재확보속도…연구개발·공장인력동시채용",
-  "이재용·최태원·이해진,이번주미국서젠슨황과회동전망",
-  "시가총액상위100대기업임원,고령화진행중…10년전보다1.1세↑",
-  "SK하이닉스,성과급손보나…PS절반자사주의무화에노조반발",
   "이재용·최태원·이해진·젠슨황,24일미국서AI글로벌리더회동",
   "AI리더한자리에…이재용·최태원·이해진,美서젠슨황만난다",
   "[속보]이재용·최태원·이해진,이번주美서젠슨황만난다",
@@ -6001,7 +5996,12 @@
   "샘올트먼\"메가프로젝트모범사례\"...한미빅테크1400조협력",
   "SK그룹최태원\"국민1인당AI하나씩…韓이AI테스트베드\"",
   "SK,엔비디아와5000억달러AI동맹맺었다…\"2GWAI팩토리구축\"",
-  "靑\"삼성·SK·현대차·네이버-글로벌빅테크,9500억불반도체협력추..."
+  "靑\"삼성·SK·현대차·네이버-글로벌빅테크,9500억불반도체협력추...",
+  "삼성·SK,빅테크와1375조반도체동맹…'AI3대프로젝트'본격화",
+  "최태원“국민1인당1AI시대만드는게우리목표”",
+  "미·이란'소강'...'1300조원AI협력'경제영향은?",
+  "‘샌프AI서밋’에AI리더한자리에…“韓,글로벌AI허브도약”",
+  "'샌프란시스코AI서밋'…한국기업,6건협약9천500억달러성사"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,17 @@
   [
    "2026-07-26T10:40:15.930043+09:00",
    "테스트베드 국민 AI 하나씩 1인당"
+  ],
+  [
+   "2026-07-26T11:00:28.440198+09:00",
+   "도약 AI허브 AI서밋 AI리더 샌프 글로벌 한자리에"
+  ],
+  [
+   "2026-07-26T11:00:28.440198+09:00",
+   "한국 샌프란시스코 AI서밋 기업 6건 협약 성사 달러 9천500억"
   ]
  ],
- "last_run": "2026-07-26T10:50:27.890249+09:00",
+ "last_run": "2026-07-26T11:00:43.419411+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
