@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=590880",
-  "https://www.cwn.kr/news/articleView.html?idxno=50858",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276625",
-  "http://www.econotelling.com/news/articleView.html?idxno=20944",
   "http://www.economytalk.kr/news/articleView.html?idxno=422945",
   "https://news.bizwatch.co.kr/article/industry/2026/07/22/0007",
   "https://www.asiatime.co.kr/article/20260722500105",
@@ -2999,13 +2995,13 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=82293",
   "https://www.newsis.com/view/NISX20260726_0003723526",
   "https://www.busan.com/view/busan/view.php?code=2026072613532748990",
-  "https://biz.chosun.com/policy/politics/president_office/2026/07/26/PAIIRZKELFCHTJGXUGOWB5RZCA/"
+  "https://biz.chosun.com/policy/politics/president_office/2026/07/26/PAIIRZKELFCHTJGXUGOWB5RZCA/",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260726140439DqC",
+  "https://www.sidae.com/article/2026072613571397420",
+  "https://economist.co.kr/article/view/ecn202607260010",
+  "http://www.segyebiz.com/newsView/20260726505809?OutUrl=naver"
  ],
  "seen_titles": [
-  "이재용·최태원·이해진미국서젠슨황만난다,24일회동유력",
-  "이재용·최태원·이해진,젠슨황과회동…'메가AI삼각동맹'띄운다",
-  "삼성·SK·네이버총출동…AI패권가를실리콘밸리회동",
-  "이재용·최태원,미국서젠슨황또만난다",
   "이재용·최태원·이해진,젠슨황만난다···'AI피크아웃'불식메시...",
   "SK하이닉스,1년만에성과급손보나…노사,지급방식재논의",
   "SK하이닉스영업이익10%성과급,합의1년만에재협상",
@@ -6001,7 +5997,11 @@
   "\"한국없인AI혁명불가능\"…올트먼,이재명대통령·이재용회장연이...",
   "젠슨황'골든벨'제안에\"공무원이라어려워\"…배경훈부총리\"올해가...",
   "'결혼생활30년'최태원·노소영33%재산분할,어떻게계산했나",
-  "李대통령,美‘AI세일즈’마치고…브라질行"
+  "李대통령,美‘AI세일즈’마치고…브라질行",
+  "40도육박찜통폭염…영남'중대경보'확대",
+  "미국서AI강조한이대통령…브라질로옮겨남미협력'정조준'",
+  "젠슨황\"코스피,다시오를것\"…'맥주회동'반도체업황호조언급도",
+  "韓·美빅테크1400조AI동맹…글로벌공급망협력맞손"
  ],
  "recent_sigs": [
   [
@@ -6145,7 +6145,7 @@
    "결혼생활 계산했나 30년 재산분할 어떻게"
   ]
  ],
- "last_run": "2026-07-26T14:01:29.625201+09:00",
+ "last_run": "2026-07-26T14:10:26.311753+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
