@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=741501",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=307638",
-  "https://news.mtn.co.kr/news-detail/2026072416170492634",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7175859",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80109",
-  "https://www.hankyung.com/article/2026072447327",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=318104",
   "https://biz.sbs.co.kr/article_hub/20000324526?division=NAVER",
   "https://www.news1.kr/finance/general-stock/6238298",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546076",
@@ -2999,16 +2992,16 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=1785057573&code=11151400&cp=nv",
   "https://www.tokenpost.kr/news/breaking/381415",
   "https://www.kbmaeil.com/article/20260726500663",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1785052363&code=11121600&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=1785052363&code=11121600&cp=nv",
+  "https://www.seoul.co.kr/news/economy/finance/2026/07/26/20260726500095?wlog_tag3=naver",
+  "https://www.g-enews.com/view.php?ud=202607261839165621112616b072_1",
+  "https://www.newsis.com/view/NISX20260726_0003723696",
+  "https://www.segye.com/newsView/20260726508366?OutUrl=naver",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=62019",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=641815",
+  "https://www.jjan.kr/article/20260726500292"
  ],
  "seen_titles": [
-  "최태원,젠슨황과칵테일회동⋯같은날재산분할9440억선고",
-  "'검은금요일'코스피·코스닥5%대급락…外人5.7조던졌다",
-  "‘노태우300억’인정안됐는데…노소영이9440억원받는이유",
-  "SK디스커버리\"나무심고취약계층에김치박스전달\"",
-  "[중화학ON]조선3사,美서대미협력전방위확대外",
-  "환율,이틀연속하락해1,466.6원마감…SK하이닉스환전·월말네고에...",
-  "\"K-반도체뿌리단단하게\"…하나은행,소부장기업에1000억원맞춤형...",
   "삼성전자·SK하이닉스레버리지과열…금융당국,규제31일조기시행",
   "워커힐호텔'수펙스'김치미국간다",
   "워커힐호텔김치이어수펙스까지…호텔업계첫프리미엄김치브랜드...",
@@ -6001,13 +5994,16 @@
   "네이버14.6조,SKT2GW…AI데이터센터‘GW급전쟁’",
   "다음주FOMC·PCE·빅테크실적집중",
   "‘삼성·하이닉스추격’中CXMT,내일증시입성…시총1위등극할까",
-  "[단독]실리콘밸리큰손들“韓,차이나플러스원가장유력한대안”"
+  "[단독]실리콘밸리큰손들“韓,차이나플러스원가장유력한대안”",
+  "17년만에최저찍었던원화몸값,이달급반전…강세‘이유넷’",
+  "SK하이닉스,2분기영업익64조전망…이익률75%돌파관측",
+  "SK증권\"마스가,닻올렸다…조선주추가상승동력\"",
+  "SK주식부부공동재산인정…주가는뛰기전2024년기준",
+  "[인터뷰]용인시의회안치용의원,반도체국가산단뒷받침하며용인시...",
+  "창원시,액화수소추가재정부담에제동",
+  "[주간증시전망]레버리지자금쏠림현상완화기대"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T13:01:17.243286+09:00",
-   "가동 눈길 직주근접 빨라진 용인 신규 분양 반도체 시계 산단"
-  ],
   [
    "2026-07-26T13:03:40.648611+09:00",
    "450원대 어디로 통화정책은 어느새 수급"
@@ -6679,9 +6675,29 @@
   [
    "2026-07-26T18:51:08.463667+09:00",
    "큰손들 차이나플러스원 유력한 가장 대안 실리콘밸리"
+  ],
+  [
+   "2026-07-26T19:01:47.821764+09:00",
+   "올렸다 마스가 SK증권 조선주 상승 동력 추가"
+  ],
+  [
+   "2026-07-26T19:01:47.821764+09:00",
+   "공동재산 부부 인정 주가는 기준 SK주식 뛰기 2024년"
+  ],
+  [
+   "2026-07-26T19:01:47.821764+09:00",
+   "의원 반도체 용인시 국가산단 뒷받침하며 안치용 용인시의회"
+  ],
+  [
+   "2026-07-26T19:01:47.821764+09:00",
+   "재정부담에 창원시 추가 제동 액화수소"
+  ],
+  [
+   "2026-07-26T19:01:47.821764+09:00",
+   "쏠림 레버리지 기대 현상 완화 자금"
   ]
  ],
- "last_run": "2026-07-26T18:51:14.114345+09:00",
+ "last_run": "2026-07-26T19:02:04.370338+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
