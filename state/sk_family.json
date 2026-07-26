@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668789&plink=ORI&cooper=NAVER",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451111",
-  "https://www.mediawatch.kr/news/article.html?no=260433",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105299",
-  "http://www.globalepic.co.kr/view.php?ud=20260722112917725648439a4874_29",
-  "https://www.joongang.co.kr/article/25447086",
   "https://www.redian.org/news/articleView.html?idxno=256984",
   "https://www.seoultimes.news/news/article.html?no=2000097993",
   "https://biz.sbs.co.kr/article_hub/20000323877?division=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.joongang.co.kr/article/25448230",
   "https://www.khan.co.kr/article/202607261717001",
   "https://www.hankyung.com/article/2026072664707",
-  "https://www.mk.co.kr/article/12107697"
+  "https://www.mk.co.kr/article/12107697",
+  "https://www.mk.co.kr/article/12107733",
+  "https://www.sidae.com/article/2026072617123796539",
+  "https://www.donga.com/news/Economy/article/all/20260726/134366023/1",
+  "https://www.mk.co.kr/article/12107720",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01886006645518456",
+  "https://www.ajunews.com/view/20260726115107734"
  ],
  "seen_titles": [
-  "한미AI최고기업리더들한자리에모인다",
-  "SK하이닉스,인텔美오하이오공장인수설부인",
-  "이재용·최태원·이해진,미국서젠슨황만난다…AI협력논의",
-  "[최태원·노소영재판장면들③]최태원회장과임직원이함께키운SK...",
-  "시총100대기업임원고령화…평균연령10년전보다1.1세오른54.2세",
-  "\"1000원주먹밥팔던노점청년들,14년만에100억대기업돼돌아왔다...",
   "웃어밥(㈜해피벤처),이화여대에장학금및학생창업기금총1억원기부",
   "[인터뷰]앤씨앤최종현대표\"북미·유럽등'뷰로이드'수출호조\"",
   "이재용·최태원·이해진,美실리콘밸리서젠슨황과'AI라운드테이블...",
@@ -6001,13 +5995,15 @@
   "AI잡으려는빅테크“칩더달라”아우성에…‘K반도체’와맞손",
   "이대통령,빅테크CEO와샌프란‘깐부회동’…브라질로이동",
   "배경훈부총리,'샌프란깐부회동'계산…\"올해가진값진저녁값\"",
-  "SK,MS에메모리장기공급…앤트로픽과데이터센터추진"
+  "SK,MS에메모리장기공급…앤트로픽과데이터센터추진",
+  "[뉴스&분석]9500억弗'AI메가동맹'",
+  "\"가장값진저녁값\"…샌프란'깐부회동'쏜배경훈부총리소감은",
+  "韓,빅테크와9500억달러AI동맹…‘대체불가핵심’부상",
+  "시총1.7경원'AI깐부회동'李\"우리는식구다\"건배사",
+  "WSJ\"SK하이닉스지나친ADR프리미엄은과열신호\"",
+  "더강력해진韓美AI밸류체인…신경망부터휴머노이드까지'윈윈'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T11:20:14.800479+09:00",
-   "버거집서 거물들 AI 대통령과 기업가치 샌프 2만원대 2경원"
-  ],
   [
    "2026-07-26T11:30:21.900468+09:00",
    "해킹 외부 100억 네이버 스스로 달러 챗GPT 유치 투자"
@@ -6151,9 +6147,17 @@
   [
    "2026-07-26T17:20:13.761854+09:00",
    "MS에 앤트로픽과 공급 장기 메모리 데이터센터"
+  ],
+  [
+   "2026-07-26T17:30:18.561294+09:00",
+   "프리미엄은 과열 WSJ 지나친 ADR 신호 SK하이닉스"
+  ],
+  [
+   "2026-07-26T17:30:18.561294+09:00",
+   "강력해진 윈윈 밸류체인 휴머노이드까지 AI 신경망부터"
   ]
  ],
- "last_run": "2026-07-26T17:20:28.207156+09:00",
+ "last_run": "2026-07-26T17:30:37.019192+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
