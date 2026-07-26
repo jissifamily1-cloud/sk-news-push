@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.youthdaily.co.kr/news/article.html?no=223751",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=127333",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6936893",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042176",
-  "https://www.greened.kr/news/articleView.html?idxno=345380",
-  "https://www.goodkyung.com/news/articleView.html?idxno=289549",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=65355",
-  "https://www.donga.com/news/Economy/article/all/20260724/134358943/1",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=606111",
   "http://www.newsprime.co.kr/news/article.html?no=741501",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=307638",
   "https://news.mtn.co.kr/news-detail/2026072416170492634",
@@ -2999,18 +2990,18 @@
   "https://www.sedaily.com/article/20072037",
   "http://www.fnnews.com/news/202607261830355600",
   "https://www.sedaily.com/article/20072035",
-  "https://www.hankyung.com/article/2026072666111"
+  "https://www.hankyung.com/article/2026072666111",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633769",
+  "https://www.sedaily.com/article/20070840",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/20/2026072000033.html",
+  "https://www.etoday.co.kr/news/view/2605028",
+  "https://www.segye.com/newsView/20260726508301?OutUrl=naver",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1785057573&code=11151400&cp=nv",
+  "https://www.tokenpost.kr/news/breaking/381415",
+  "https://www.kbmaeil.com/article/20260726500663",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1785052363&code=11121600&cp=nv"
  ],
  "seen_titles": [
-  "外人폭풍매도,코스피'급락'...반도체·車주가'뚝'",
-  "하루만에식은반등장…'중동발쇼크'에코스피6700선도무너졌다",
-  "코스피6690선마감하루만에또급락",
-  "[시황]코스피,하루만에7000선붕괴…6600선마감",
-  "SK(주)는못팔고,SK실트론지분은변수…최태원,9440억마련셈법",
-  "중동갈등·국제유가급등에코스피폭락마감",
-  "코스피·코스닥,5%대급락마감...하루만에7천피반납",
-  "최태원,美AI서밋앞두고젠슨황과만찬…'AI동맹'재확인",
-  "'노태우비자금'빼고도노소영몫'1조원'육박…판단근거는",
   "최태원,젠슨황과칵테일회동⋯같은날재산분할9440억선고",
   "'검은금요일'코스피·코스닥5%대급락…外人5.7조던졌다",
   "‘노태우300억’인정안됐는데…노소영이9440억원받는이유",
@@ -6001,13 +5992,18 @@
   "빅테크,자본·GPU·AI모델까지…AIDC허브된韓",
   "[사설]한국반도체위상널리알린미국AI서밋",
   "삼성,AI칩생산2000억弗협력…SK는HBM4공급MS로확장",
-  "글로벌빅샷총집결…李\"韓없이AI발전불가능\""
+  "글로벌빅샷총집결…李\"韓없이AI발전불가능\"",
+  "[세기의이혼①]'혼외자공개'부터'조단위재산분할'까지···11년이...",
+  "지식재산처,SK그룹과기술·특허경쟁력강화",
+  "호텔김치해외공략속도…워커힐은美수출,롯데호텔은면세점입...",
+  "워커힐‘수펙스김치’미국첫수출…프리미엄김치로해외공략",
+  "李,올트먼에“메가프로젝트중요역할해달라”[李대통령‘샌프란...",
+  "네이버14.6조,SKT2GW…AI데이터센터‘GW급전쟁’",
+  "다음주FOMC·PCE·빅테크실적집중",
+  "‘삼성·하이닉스추격’中CXMT,내일증시입성…시총1위등극할까",
+  "[단독]실리콘밸리큰손들“韓,차이나플러스원가장유력한대안”"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T12:41:08.675150+09:00",
-   "최태원 회사에 11년 않겠다 부메랑 끼치지 편지의"
-  ],
   [
    "2026-07-26T13:01:17.243286+09:00",
    "가동 눈길 직주근접 빨라진 용인 신규 분양 반도체 시계 산단"
@@ -6679,9 +6675,13 @@
   [
    "2026-07-26T18:41:08.291274+09:00",
    "발전 빅샷 불가능 없이 글로벌 총집결 AI"
+  ],
+  [
+   "2026-07-26T18:51:08.463667+09:00",
+   "큰손들 차이나플러스원 유력한 가장 대안 실리콘밸리"
   ]
  ],
- "last_run": "2026-07-26T18:41:35.811165+09:00",
+ "last_run": "2026-07-26T18:51:14.114345+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
