@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.abcn.kr/news/articleView.html?idxno=89654",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=412406",
   "https://www.sisajournal.com/news/articleView.html?idxno=380639",
   "http://enews.imbc.com/News/RetrieveNewsInfo/512276",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51594",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260726503503?OutUrl=naver",
   "https://www.ytn.co.kr/_ln/0104_202607261044031404",
   "https://www.dt.co.kr/article/12074722",
-  "https://www.tjb.co.kr/news05/bodo/view/id/101492"
+  "https://www.tjb.co.kr/news05/bodo/view/id/101492",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155479",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=267862"
  ],
  "seen_titles": [
-  "이재용·최태원·이해진·젠슨황,24일미국서AI글로벌리더회동",
-  "AI리더한자리에…이재용·최태원·이해진,美서젠슨황만난다",
   "[속보]이재용·최태원·이해진,이번주美서젠슨황만난다",
   "삼성·SK·네이버·엔비디아뭉친다…AI패권전쟁새판짜나",
   "이재용·최태원·정의선·이해진,'깐부'넘어美서AI회동갖는다",
@@ -6001,7 +5999,9 @@
   "최태원“국민1인당1AI시대만드는게우리목표”",
   "미·이란'소강'...'1300조원AI협력'경제영향은?",
   "‘샌프AI서밋’에AI리더한자리에…“韓,글로벌AI허브도약”",
-  "'샌프란시스코AI서밋'…한국기업,6건협약9천500억달러성사"
+  "'샌프란시스코AI서밋'…한국기업,6건협약9천500억달러성사",
+  "이대통령,美샌프란시스코서'AI국가비전'제시…글로벌AI공급망...",
+  "실트론매각·주식담보·자산유동화…최태원회장,뭘택하든SK거버넌..."
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,13 @@
   [
    "2026-07-26T11:00:28.440198+09:00",
    "한국 샌프란시스코 AI서밋 기업 6건 협약 성사 달러 9천500억"
+  ],
+  [
+   "2026-07-26T11:10:15.029623+09:00",
+   "자산 실트론 유동화 회장 주식담보 매각 거버넌 택하든"
   ]
  ],
- "last_run": "2026-07-26T11:00:43.419411+09:00",
+ "last_run": "2026-07-26T11:10:26.590847+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
