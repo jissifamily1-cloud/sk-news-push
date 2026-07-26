@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717273",
-  "https://www.kyeonggi.com/article/20260722580124",
-  "https://www.wikitree.co.kr/articles/1147740",
-  "https://www.wikitree.co.kr/articles/1147747",
-  "https://edu.donga.com/news/articleView.html?idxno=110178",
-  "http://www.metroseoul.co.kr/article/20260722500152",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685928",
   "https://www.ekn.kr/web/view.php?key=20260722024064788",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312715",
@@ -2999,15 +2993,15 @@
   "https://www.etoday.co.kr/news/view/2607519",
   "https://www.sportsseoul.com/news/read/1624669",
   "https://www.aitimes.kr/news/articleView.html?idxno=41165",
-  "https://www.hankookilbo.com/news/article/A2026072614390000909?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026072614390000909?did=NA",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645791",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41159",
+  "https://www.ajunews.com/view/20260726060603486",
+  "https://www.ajunews.com/view/20260726060343485",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01882726645518456",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260726170148cb5"
  ],
  "seen_titles": [
-  "안민석경기도교육감\"숫자싸움말고교육주도성장으로\"…교부금축소...",
-  "이재용·최태원·이해진,美서젠슨황회동…AI공급망협력논의할듯",
-  "이재용·최태원·이해진,젠슨황과‘미국판깐부회동’추진",
-  "이재용·최태원·이해진,美서젠슨황만난다…AI동맹주목",
-  "AI핵심기업한자리에…이재용·최태원·이해진,젠슨황만난다",
-  "이재용·최태원·이해진,美서젠슨황만난다…AI협력논의",
   "3차깐부회동성사되나...미국서삼성·SK·네이버리더,젠슨황만남추...",
   "반도체투심살아났다···삼성6.4%·하이닉스8.4%급등[특징주]",
   "SK하이닉스“미인텔반도체공장인수추진안해”",
@@ -6001,7 +5995,13 @@
   "“일본키옥시아,최대주주다시도시바⋯SK하닉사실상2대주주”",
   "‘정경유착프레임’에갇힌9440억판결…SK30년독자경영사(史)지웠...",
   "이대통령,샌프란시스코AI서밋서1,375조원반도체·AI인프라협력...",
-  "\"한국없인AI혁명불가능했다\"...'1400조'잭팟터뜨린빅테크깐부들"
+  "\"한국없인AI혁명불가능했다\"...'1400조'잭팟터뜨린빅테크깐부들",
+  "[인사]경북영천시",
+  "SK,美실리콘밸리서글로벌빅테크와AI인프라협력확대",
+  "[이슈포커스]'AI풀스택협력망'구축…1400조반도체협력의미·전망...",
+  "李대통령,美빅테크와1400조'AI동맹'…실리콘밸리자본도잇는다",
+  "'세기의이혼'최태원-노소영재산분할9440억원…재원마련은어떻게하...",
+  "젠슨황'골든벨'제안에배경훈\"공무원이라어렵다\"…만찬뒷이야기..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,17 @@
   [
    "2026-07-26T16:50:13.111940+09:00",
    "도시바 2대 일본 사실상 SK하닉 주주 다시 키옥시아 최대주주"
+  ],
+  [
+   "2026-07-26T17:10:12.498552+09:00",
+   "마련은 어떻게하 9440억원 재원 이혼 세기의 재산분할"
+  ],
+  [
+   "2026-07-26T17:10:12.498552+09:00",
+   "만찬 공무원이라 뒷이야기 젠슨 어렵다 제안에 배경훈 골든벨"
   ]
  ],
- "last_run": "2026-07-26T17:00:42.295019+09:00",
+ "last_run": "2026-07-26T17:10:30.950411+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
