@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/politics/diplomacy-defense/2026/06/28/RHY63EV72NEOVKWRNDPQMN2VSA/",
-  "https://www.yna.co.kr/view/AKR20260626161551504?input=1195m",
-  "https://www.yna.co.kr/view/AKR20260626161500504?input=1195m",
-  "https://www.yna.co.kr/view/PYH20260626142400013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260626144100013?input=1196m",
   "https://www.yna.co.kr/view/AKR20260626109600504?input=1195m",
   "https://www.kukinews.com/article/view/kuk202607220182",
@@ -2999,13 +2995,13 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=235906",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51695",
   "https://biz.sbs.co.kr/article_hub/20000324708?division=NAVER",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01774486645518784"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01774486645518784",
+  "https://biz.sbs.co.kr/article_hub/20000324709?division=NAVER",
+  "http://www.inews24.com/view/1988680",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607251532471360104220",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620508"
  ],
  "seen_titles": [
-  "李대통령,7박11일미주순방외교...젠슨황·샘올트먼면담",
-  "[종합]李대통령,미국·남미3개국순방…이재용·최태원·정의선·이해...",
-  "7박11일중남미순방…실리콘밸리에'시총10조달러'집결",
-  "실리콘공장보다먼저뛴호반써밋···李메가프로젝트기대",
   "충남도의회교육위,학교안전·작은학교지원등교육현안집중점검",
   "[비즈톡]긴장한총수들뒤에서2000조숫자경쟁한삼성과SK",
   "이재명대통령,샌프란시스코서젠슨황·올트먼·아모데이연쇄회동",
@@ -6001,7 +5997,11 @@
   "\"한국,AI생산기지·공급망핵심국가로도약\"",
   "최태원,SK회장,여름에도현금잔치…지주·계열사,중간배당실시",
   "韓美빅테크,1천400조원AI동맹",
-  "젠슨황의'통큰제안'에…배경훈\"공무원이라어렵다\"웃음"
+  "젠슨황의'통큰제안'에…배경훈\"공무원이라어렵다\"웃음",
+  "[증시전략]빅테크실적·FOMC회의·중동까지…역대급변동성예고",
+  "최태원,9440억원어디서마련하나…\"10년배당·연봉8065억원\"",
+  "[더벨]SK하이닉스·SKT,엔비디아와'5000억달러'AI동맹",
+  "엔화바닥치는데원화웃는다?…40조벌어온‘이기업’[잇슈머니]"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,21 @@
   [
    "2026-07-27T07:00:24.489337+09:00",
    "젠슨 웃음 어렵다 공무원이라 제안 황의 배경훈"
+  ],
+  [
+   "2026-07-27T07:09:53.086221+09:00",
+   "SK하이닉스 AI SKT 엔비디아와 동맹 5000억달러"
+  ],
+  [
+   "2026-07-27T07:09:53.086221+09:00",
+   "어디서 연봉 10년 8065억원 배당 마련하나 9440억원"
+  ],
+  [
+   "2026-07-27T07:09:53.086221+09:00",
+   "웃는다 엔화 치는데 원화 바닥 기업 벌어온 40조"
   ]
  ],
- "last_run": "2026-07-27T07:00:39.770332+09:00",
+ "last_run": "2026-07-27T07:10:10.285077+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
