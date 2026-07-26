@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260724175639021",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260724175820BqU",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260724175656LcM",
-  "https://www.newsjeju.net/news/articleView.html?idxno=423750",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443143",
-  "https://www.sedaily.com/article/20071650",
-  "https://www.ytn.co.kr/_ln/0101_202607241753403132",
-  "https://www.etoday.co.kr/news/view/2607317",
   "https://www.hankyung.com/article/2026072449471",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=852346",
   "https://www.hankyung.com/article/2026072449681",
@@ -2999,17 +2991,17 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607260951255550512",
   "https://www.mk.co.kr/article/12107914",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=760024",
-  "https://www.tokenpost.kr/news/economy/381469"
+  "https://www.tokenpost.kr/news/economy/381469",
+  "https://www.etoday.co.kr/news/view/2607341",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=52778",
+  "http://www.bizwnews.com/news/articleView.html?idxno=141534",
+  "https://www.sedaily.com/article/20072090",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717821",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=235906",
+  "https://www.sedaily.com/article/20072029",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=52781"
  ],
  "seen_titles": [
-  "이대통령,美샌프란시스코로출국…7박11일순방시작",
-  "젠슨황만나는이해진…네이버,'AI팩토리'승부수속도낸다",
-  "'세기의이혼'최태원·노소영재산분할,9440억으로결론",
-  "최태원·젠슨황,AI서밋하루전만찬회동…'동맹재확인'",
-  "李대통령,미국·남미·독일릴레이순방...총7박11일",
-  "SK,자회사'시그넷'상폐후매각…앵커EP품에안기나",
-  "\"급등락현기증난다\"…5일연속사이드카",
-  "[단독]中전기차공습에무방비…이러다車산업무너진다",
   "SKT,AIDC자회사출범…7500억출자금은‘마중물’",
   "'주식급락,진보분열,부동산급등'3대악재갇힌李대통령국정운영...",
   "'캐즘직격탄'SK시그넷,홍콩계앵커PE에팔린다",
@@ -6001,7 +5993,15 @@
   "[언주로칼럼]자산이안되는빚",
   "코스피6천대면거저아닌가요…은행대기자금41조,다시증시로",
   "'건강기능식품'검색했더니음료·캔디·주스상위노출…홈쇼핑몰'카...",
-  "카카오뱅크,첫파업예고에도서비스차질우려적다"
+  "카카오뱅크,첫파업예고에도서비스차질우려적다",
+  "AI돈잔치가공포로바뀌었다…코스피운명가를‘실적슈퍼위크’",
+  "[이넷뉴스브랜드평판]SK이노베이션,석유화학상장기업7월1위...한화...",
+  "[지금,대학가는]경기과기대,반월·시화산단'제조-AX'혁신주도/서...",
+  "李대통령옆자리에누구?탈엔비디아뒤엔브로드컴있다[김창영의실...",
+  "74조'매도폭탄'은없었다…국민연금,7월순매수전환하이닉스담았...",
+  "\"한국,AI생산기지·공급망핵심국가로도약\"",
+  "ESS에EV배터리가세...배터리3사실적반등",
+  "[브랜드평판]미래에셋증권,채권7월1위...KB증권,한국산업은행상위..."
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,33 @@
   [
    "2026-07-27T06:31:15.011276+09:00",
    "예고에도 파업 우려 카카오뱅크 적다 차질 서비스"
+  ],
+  [
+   "2026-07-27T06:41:03.856632+09:00",
+   "주도 경기과기대 AX 산단 혁신 반월 제조 시화"
+  ],
+  [
+   "2026-07-27T06:41:03.856632+09:00",
+   "뒤엔 옆자리에 브로드컴 대통령 탈엔비디아 누구 있다 김창영의"
+  ],
+  [
+   "2026-07-27T06:41:03.856632+09:00",
+   "없었다 순매수 하이닉스 매도 7월 폭탄 74조 담았 국민연금"
+  ],
+  [
+   "2026-07-27T06:41:03.856632+09:00",
+   "생산기지 한국 AI 공급망 도약 핵심국가로"
+  ],
+  [
+   "2026-07-27T06:41:03.856632+09:00",
+   "ESS에 배터리 EV배터리 가세 3사 반등 실적"
+  ],
+  [
+   "2026-07-27T06:41:03.856632+09:00",
+   "1위 채권 7월 KB증권 미래에셋증권 한국산업은행 상위"
   ]
  ],
- "last_run": "2026-07-27T06:31:39.462939+09:00",
+ "last_run": "2026-07-27T06:41:23.099130+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
