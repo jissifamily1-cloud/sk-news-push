@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451473",
-  "https://www.joongang.co.kr/article/25447328",
-  "https://www.hankyung.com/article/2026072200051",
-  "http://www.kwangju.co.kr/article.php?aid=1784732700801483087",
-  "https://m.skyedaily.com/news_view.html?ID=308300",
-  "https://www.sedaily.com/article/20070618",
-  "https://www.joongang.co.kr/article/25447284",
-  "https://www.segye.com/newsView/20260722519397?OutUrl=naver",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451470",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105329",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105311",
   "http://www.00news.co.kr/news/articleView.html?idxno=105314",
   "http://www.00news.co.kr/news/articleView.html?idxno=105295",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335907",
@@ -2999,20 +2988,20 @@
   "https://www.mk.co.kr/article/12019062",
   "http://www.globalepic.co.kr/view.php?ud=20260727112522637648439a4874_29",
   "https://www.investchosun.com/site/data/html_dir/2026/07/27/2026072780073.html",
-  "https://www.newsis.com/view/NISX20260727_0003724366"
+  "https://www.newsis.com/view/NISX20260727_0003724366",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=261147",
+  "http://www.edaily.co.kr/news/newspath.asp?newsid=04532966645416776",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=255747",
+  "http://www.4th.kr/news/articleView.html?idxno=2110536",
+  "https://www.smarttoday.co.kr/ko-kr/articles/106567",
+  "http://lak.co.kr/news/boardview.php?id=22699",
+  "https://zdnet.co.kr/view/?no=20260227113106",
+  "https://www.seoulfn.com/news/articleView.html?idxno=622074",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=62050",
+  "https://biz.heraldcorp.com/article/10821419",
+  "https://news.tf.co.kr/read/economy/2347294.htm"
  ],
  "seen_titles": [
-  "이재용·최태원·정의선·이해진美총출동…젠슨황과'AI동맹'짠다",
-  "李대통령,24일출국…샌프란시스코서젠슨황만난다",
-  "실리콘밸리찾는이대통령…젠슨황등만나‘샌프란시스코AI선언’...",
-  "젠슨황등'빅테크CEO'만난다…'AI서밋'총출동",
-  "무협,상반기워싱턴에'한미산업발전포럼'신설",
-  "무협,美워싱턴에싱크탱크…\"한·미통상대응력높인다\"",
-  "무역협회,2026년도정기총회개최",
-  "무역협회,상반기'한미산업발전포럼신설'…2026년정기총회개최",
-  "무협,미국워싱턴에민간싱크탱크'한미산업발전포럼'신설한다",
-  "\"귀에서숨소리가들려\"…아이유공연멈추게한'이관개방증'원인은?",
-  "\"N%성과급은배임\"장관·삼전닉스대표고발한주주단체…'수억성과급...",
   "이재명대통령,브라질·칠레·아르헨티나남미3국방문에정의선·장인...",
   "SK하이닉스성과급일부자사주지급거론…노조“합의훼손”",
   "아틀라스가들어올린‘사익편취’…정의선‘보스턴다이내믹스지분...",
@@ -6001,7 +5990,18 @@
   "SK하이닉스,행복나눔기금23억전달",
   "“팔것인가,말것인가”…SK실트론매각딜레마",
   "[Invest]韓美AI공급망동맹…삼성·SK,빅테크와'CAPEX운명공동체'",
-  "이재용,글로벌빅테크사교모임'구글캠프'行…美이어伊까지'AI광폭..."
+  "이재용,글로벌빅테크사교모임'구글캠프'行…美이어伊까지'AI광폭...",
+  "SK하이닉스,23억7000만원기부…16년누적370억원돌파",
+  "SK하이닉스,취약계층지원·사회문제해결에23.7억원전달",
+  "'23.7억쾌척'SK하이닉스,션과함께'365RUN'완주…\"함께뛰며나눔되...",
+  "[산업소식]LH,중소기업성장신기술특화공모시행",
+  "SK하이닉스,'2026행복나눔기금'23억7천만원전달...2011년이후누적...",
+  "인천형조경철학모색한‘인천그린아젠다2026’시상식개최",
+  "조준희KOSA회장,한국무역협회합류…\"AI글로벌협력지원\"",
+  "[재계사령탑점검②]윤진식KITA회장,對美아웃리치성과보여야",
+  "\"칩다이렉트로달라\"빅테크러브콜…1375조'AI실리콘동맹'쥔삼성...",
+  "美‘AI식구회동’이어남미로…李,방산·광물세일즈외교가동",
+  "네이버이해진승부수통했다…엔비디아투자업고AI인프라시장공략..."
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,13 @@
   [
    "2026-07-27T11:30:20.577269+09:00",
    "까지 사교모임 구글캠프 AI 글로벌 이어 광폭 이재용 빅테크"
+  ],
+  [
+   "2026-07-27T11:40:14.693154+09:00",
+   "네이버 엔비디아 이해진 AI 통했다 투자 업고 승부수 시장 공략 인프라"
   ]
  ],
- "last_run": "2026-07-27T11:30:36.817874+09:00",
+ "last_run": "2026-07-27T11:40:26.465413+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
