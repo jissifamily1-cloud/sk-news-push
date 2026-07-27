@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/court-prosecution/6234109",
-  "https://www.news2day.co.kr/article/20260721500159",
-  "https://www.dt.co.kr/article/12073879",
-  "https://biz.chosun.com/stock/finance/2026/07/21/UZ5WIYDMWRELHCEFUOFUBG7MY4/",
-  "https://www.yna.co.kr/view/AKR20260721103800009?input=1195m",
-  "https://www.ytn.co.kr/_ln/0103_202607211421466743",
   "https://www.newsis.com/view/NISX20260721_0003716782",
   "https://www.idaegu.com/news/articleView.html?idxno=664464",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=141832",
@@ -2999,15 +2993,15 @@
   "https://biz.sbs.co.kr/article_hub/20000324885?division=NAVER",
   "https://magazine.hankyung.com/business/article/202607278669b",
   "https://www.newsis.com/view/NISX20260727_0003725174",
-  "https://www.ajunews.com/view/20260727160132677"
+  "https://www.ajunews.com/view/20260727160132677",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=82365",
+  "https://news.tf.co.kr/read/economy/2347519.htm",
+  "https://www.lawtv.kr/news/articleView.html?idxno=60524",
+  "http://www.fnnews.com/news/202607270948064413",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109842",
+  "https://www.ytn.co.kr/_ln/0101_202607271621426488"
  ],
  "seen_titles": [
-  "성신여대'래커칠시위'학생5명불구속기소…나머지5명은기소유예",
-  "경찰,농협중앙회한달만에2차압수수색…비서실포함",
-  "유병호메모보니…“尹‘두목’,관저이전은최고의결단”",
-  "경찰,농협중앙회2차압수수색…‘공금으로회장기념품구매’의혹...",
-  "대만검찰,반도체기밀유출시도TSMC前직원에징역7년형구형",
-  "검경,국수본동시압수수색...윗선외압있었나?[뉴스퀘어2PM]",
   "'징계감경'배재고야구부,프로지명·대학진학에제도적걸림돌해...",
   "TK,'호남반도체특례'공세…구자근\"20년규제특정지역위해푸나\"",
   "'적자전환'쿠팡,과징금에화재까지…수익성'빨간불'",
@@ -6001,7 +5995,13 @@
   "금감원특사경,한국거래소압수수색…'엘앤에프테슬라공시'수사",
   "금감원특사경,엘앤에프테슬라공시논란한국거래소압수수색",
   "금감원특사경,한국거래소압수수색…엘앤에프'테슬라정정공시'관련...",
-  "종합특검,법무부·대검압색…'도이치수사무마'의혹다시본다"
+  "종합특검,법무부·대검압색…'도이치수사무마'의혹다시본다",
+  "공정위,가맹분야불공정행위조사착수...차액가맹금갈등화장품업...",
+  "금감원특사경,한국거래소압수수색…엘앤에프공시의혹본격수사",
+  "[LAW투데이]선거소청변수될까...6·3투표통계'조작'논란확산",
+  "'장윤기사건'쪼개기수사진실공방…수사방해냐관행이냐,쟁점은?",
+  "금감원특사경,한국거래소압수수색…엘앤에프테슬라공급정정공시...",
+  "국힘397억토해내나···윤'대선허위공표'1심,징역형집행유예[정..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "과장광고 대법원 KT 5G 불복 상고 속도 판결에"
   ]
  ],
- "last_run": "2026-07-27T16:40:56.560950+09:00",
+ "last_run": "2026-07-27T16:50:57.615899+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
