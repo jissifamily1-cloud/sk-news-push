@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202607231434462918",
-  "https://www.sidae.com/article/2026072314130516921",
   "http://www.wsobi.com/news/articleView.html?idxno=315658",
   "https://www.kukinews.com/article/view/kuk202607230140",
   "https://www.joongang.co.kr/article/25447516",
@@ -2999,11 +2997,11 @@
   "https://www.hankyung.com/article/2026072791067",
   "https://www.newsinside.kr/news/articleView.html?idxno=4869404",
   "http://www.fnnews.com/news/202607231044178227",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260727203511b2h"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260727203511b2h",
+  "https://www.wikitree.co.kr/articles/1148756",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=738227"
  ],
  "seen_titles": [
-  "李대통령+기업총수들,'샌프란서밋'서AI정상들만난다",
-  "이재용·최태원,실리콘밸리서'빅테크담판'…HBM장기계약관심",
   "삼성·하이닉스대표'성과급배임'고발···성립여부가를쟁점은",
   "사회성과인센티브,국제SSCI학술지등재…사회적기업'선순환효과'...",
   "최태원-노소영‘세기의재산분할’선고D-1",
@@ -6001,13 +5999,11 @@
   "이재용·최태원,샌프란시스코건배후시칠리아도'동행'",
   "﻿이재용·최태원,샌프란이어시칠리아'구글캠프'참석",
   "SK네트웍스가육성한피닉스랩,'800만달러'투자라운드진행",
-  "尹'허위사실유포'징역형집행유예…당선무효형"
+  "尹'허위사실유포'징역형집행유예…당선무효형",
+  "[인사]포항시(6급이하.7월30일자)",
+  "[조자경의나비효과]'이별의감정가(鑑定價)'9440억…최태원·노소영..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T15:00:32.276374+09:00",
-   "SK실트론 매각 추후 마침표 협상 보유 지분은 찍나"
-  ],
   [
    "2026-07-27T15:20:15.499984+09:00",
    "촉각 vs 종결이냐 선택에 8월초 SK회장 상고냐"
@@ -6123,9 +6119,13 @@
   [
    "2026-07-27T19:10:15.568390+09:00",
    "빠진 노태우 비자금 미궁 300억 독립몰수제 절실"
+  ],
+  [
+   "2026-07-27T21:00:34.847722+09:00",
+   "감정가 이별의 9440억"
   ]
  ],
- "last_run": "2026-07-27T20:40:24.190700+09:00",
+ "last_run": "2026-07-27T21:00:46.951210+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
