@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166580",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166578",
-  "https://www.apnews.kr/news/articleView.html?idxno=3050034",
-  "https://www.ddaily.co.kr/page/view/2026072602015255148",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=315585",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=315584",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=315583",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267857",
   "http://www.stoo.com/article.php?aid=107930099136",
@@ -2999,16 +2992,16 @@
   "https://www.segye.com/newsView/20260727514378?OutUrl=naver",
   "https://www.topstarnews.net/news/articleView.html?idxno=16147142",
   "http://www.kwangju.co.kr/article.php?aid=1785149400801654277",
-  "https://www.newscj.com/news/articleView.html?idxno=3420377"
+  "https://www.newscj.com/news/articleView.html?idxno=3420377",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208543",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308414&inflow=N",
+  "https://www.newsway.co.kr/news/view?ud=2026072720020315643",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4869404",
+  "https://www.seoul.co.kr/news/economy/industry/2026/07/28/20260728001003?wlog_tag3=naver",
+  "https://www.newscj.com/news/articleView.html?idxno=3420380",
+  "https://www.hankyung.com/article/2026072789871"
  ],
  "seen_titles": [
-  "\"SameStock,SoWhytheBigDifference?\"…RisingVolatilitySparksWid",
-  "MiraeAssetSecuritiesSharesTumbleDespiteRecordProfitForecast…",
-  "2京CEO모인'샌프란선언'…\"李메가프로젝트,허황된숫자아니다\"",
-  "\"엔비디아·MS와손잡다\"SK,총5000억달러규모AI인프라구축",
-  "李,'샌프란시스코AI선언'발표…\"韓,글로벌AI허브구축\"",
-  "SK,엔비디아와5000억달러AI동맹…최태원\"한국을AI인프라허브로\"",
-  "차에서공장·도시까지지능화…정의선,현대차그룹'피지컬AI'청사진",
   "삼성,글로벌리더들앞에서290조AI동맹…브로드컴과HBM·2나노협력",
   "SK-엔비디아,'5천억달러'AI인프라동맹…최태원\"세계최고AI팩토리...",
   "베테랑미드필더남태희,제주떠나호주브리즈번으로이적…1+1년계약",
@@ -6001,7 +5994,14 @@
   "원화강세·엔화약세…이례적‘탈동조화’언제까지",
   "슬리피,워터밤무대뒤DJ존에서전한여름근황",
   "‘국가AI컴퓨팅센터’8월3일해남솔라시도에착공",
-  "화학은웃고동박은울고…SKC,흑자문턱서주저앉았다"
+  "화학은웃고동박은울고…SKC,흑자문턱서주저앉았다",
+  "엔비디아,네이버3대주주된다…'깐부회동'실적속속발표",
+  "SKT,엔비디아주도'오픈시큐어AI얼라이언스'창립멤버합류",
+  "CXMT,상장첫날466%급등…시총712조원'中1위'",
+  "﻿이재용·최태원,샌프란이어시칠리아'구글캠프'참석",
+  "인텔시총제친‘중국판삼전닉스’…韓·美·대만흔든다",
+  "게임에도병원에도…엔비디아,한국산업전방위침투",
+  "몰락이냐'제2한강의기적'이냐…한국에경고쏟아졌다"
  ],
  "recent_sigs": [
   [
@@ -7043,9 +7043,17 @@
   [
    "2026-07-27T20:01:22.425691+09:00",
    "흑자 문턱서 화학은 SKC 동박은 울고 웃고 주저앉았다"
+  ],
+  [
+   "2026-07-27T20:11:03.044094+09:00",
+   "산업 침투 전방위 엔비디아 한국 게임에도 병원에도"
+  ],
+  [
+   "2026-07-27T20:11:03.044094+09:00",
+   "제2 몰락이냐 기적 경고 이냐 한강의 한국에 쏟아졌다"
   ]
  ],
- "last_run": "2026-07-27T20:01:34.422395+09:00",
+ "last_run": "2026-07-27T20:11:11.400072+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
