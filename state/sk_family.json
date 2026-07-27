@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1327092",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=736754",
   "https://www.g-enews.com/view.php?ud=202607111643102616112616b072_1",
   "https://www.kgnews.co.kr/news/article.html?no=903482",
   "https://biz.sbs.co.kr/article_hub/20000321907?division=NAVER",
@@ -2999,11 +2997,11 @@
   "https://www.naeil.com/news/read/596690",
   "https://www.naeil.com/news/read/596709",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=250932",
-  "https://www.pennmike.com/news/articleView.html?idxno=124453"
+  "https://www.pennmike.com/news/articleView.html?idxno=124453",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356526",
+  "https://www.news1.kr/society/court-prosecution/6240020"
  ],
  "seen_titles": [
-  "[초과이윤담론③]재계,진통속복잡한셈법",
-  "[초과이윤담론②]이대통령선긋기에언론도'환영'",
   "[초과이윤담론①]김영훈이말한'AI시대새사회계약'",
   "정청래'집토끼론'에조선일보\"일반국민안중에있겠나\"",
   "'AI동맹움직임'…이재용·최태원·이해진,젠슨황과美실리콘밸리서...",
@@ -6001,13 +5999,11 @@
   "한·미빅테크‘9500억달러AI동맹’",
   "‘8조재산’권혁빈스마일게이트CVO,최태원-노소영재산분할액깰까",
   "9440억어떻게마련하나…최태원SK회장앞에놓인4가지카드",
-  "[재계핫이슈]최태원회장과노소영씨의'빅딜가능성'"
+  "[재계핫이슈]최태원회장과노소영씨의'빅딜가능성'",
+  "[이슈+]반도체호황에몸값뛴SK실트론…최태원'9440억조달'셈법복...",
+  "최태원-노소영,'세기의이혼'마지막분기점…재상고냐9440억지급이냐"
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T07:50:13.757317+09:00",
-   "초고가 주택 경향 공시가 비판도 30억 과세하는"
-  ],
   [
    "2026-07-27T08:12:10.127058+09:00",
    "크기 높인다 전략이 지속가능성 아닌 이익 화두는 3분기 메모리 상생"
@@ -6155,9 +6151,13 @@
   [
    "2026-07-27T13:40:13.382719+09:00",
    "회장과 빅딜 노소영씨의 가능성"
+  ],
+  [
+   "2026-07-27T13:50:18.489919+09:00",
+   "재상고냐 9440억 마지막 지급이냐 분기점 이혼 세기의"
   ]
  ],
- "last_run": "2026-07-27T13:40:26.520376+09:00",
+ "last_run": "2026-07-27T13:50:33.186597+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
