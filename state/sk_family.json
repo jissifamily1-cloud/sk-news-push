@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://newscham.net/articles/116984",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16103618",
-  "https://www.slist.kr/news/articleView.html?idxno=746508",
-  "https://www.sportschosun.com/sports-news/2026-06-20/202606200100138490009057",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248486",
   "https://www.asiatime.co.kr/article/20260701500089",
   "https://www.businessplus.kr/news/articleView.html?idxno=113537",
   "https://www.theguru.co.kr/news/article.html?no=103803",
@@ -2999,14 +2994,14 @@
   "https://www.news2day.co.kr/article/20260727500032",
   "https://www.koit.co.kr/news/articleView.html?idxno=208162",
   "https://www.newsis.com/view/NISX20260625_0003683825",
-  "https://www.news1.kr/sports/general-sport/6208283"
+  "https://www.news1.kr/sports/general-sport/6208283",
+  "https://www.sportschosun.com/sports-news/2026-06-25/202606250100175630011556",
+  "https://www.starnewskorea.com/sports/2026/06/24/2026062418504548629",
+  "https://www.cnbizm.com/news/articleView.html?idxno=309640",
+  "http://www.ddanzi.com/890431963",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3646877"
  ],
  "seen_titles": [
-  "\"한일전은승리뿐!女펜져스도해냈다\"여자사브르대표팀,日꺾고3년만...",
-  "\"위기속더강해진K-어펜져스\"오상욱亞선수권2관왕!일본에45-29대...",
-  "\"장기계약등발표될것\"이재용·최태원·정의선·이해진,젠슨황등과...",
-  "李대통령,24일부터美·남미·獨방문…샌프란서젠슨황만난다(종합)",
-  "이대통령,美실리콘밸리서젠슨황·샘올트먼만난다…“AI협력이...",
   "이대통령,미국·남미3국순방…미AI빅테크들만나'샌프란AI선언'",
   "충남도의회교육위,과밀학교조례안가결...급식·재해·작은학교대책...",
   "'빌린칼'로정상탈환…오상욱,아시아선수권사브르개인전2년만에...",
@@ -6001,7 +5996,12 @@
   "“주도주전략유효…이익크기보다지속성에초점”<하나證>",
   "한·미AI·ICT업계결속,3대메가프로젝트'드라이브'",
   "한국펜싱,金4개로아시아선수권마무리…참가선수전원메달",
-  "'봉쇄시위로칼빌려출전'펜싱대표팀전원메달'해피엔딩'"
+  "'봉쇄시위로칼빌려출전'펜싱대표팀전원메달'해피엔딩'",
+  "\"함께일때더강한K-펜싱\"女에페中에44-43,1점차짜릿승!亞선수권...",
+  "한국펜싱,아시아펜싱선수권단체전서금·동메달추가!女사브르3년...",
+  "SK최태원,글로벌AI동맹광폭행보…젠슨황·샘올트먼회동",
+  "[뉴공아카이브]박태웅녹서포럼의장·국가인공지능전략위원회공공AX...",
+  "삼성전자·SK하닉주가상승출발...美서대규모협력발표"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,17 @@
   [
    "2026-07-27T09:10:15.014926+09:00",
    "7월 토요일 모닝브리핑 폴리뉴스 25일"
+  ],
+  [
+   "2026-07-27T09:20:13.608662+09:00",
+   "녹서포럼 국가인공지능전략위원회 의장 공공AX 박태웅"
+  ],
+  [
+   "2026-07-27T09:20:13.608662+09:00",
+   "출발 삼성전자 주가 상승 협력 발표 SK하닉 대규모"
   ]
  ],
- "last_run": "2026-07-27T09:16:20.138200+09:00",
+ "last_run": "2026-07-27T09:20:35.156516+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6382,6 +6390,7 @@
   "kyeongin.com": "경인일보",
   "bosa.co.kr": "의학신문",
   "queen.co.kr": "Queen 이코노미퀸",
-  "koit.co.kr": "정보통신신문"
+  "koit.co.kr": "정보통신신문",
+  "gukjenews.com": "국제뉴스"
  }
 }
