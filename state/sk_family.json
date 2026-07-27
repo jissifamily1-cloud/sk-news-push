@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/policy/politics/president_office/2026/07/11/C4RTKS3KIZAYXGOPW4HUFWT6XI/",
-  "https://www.donga.com/news/Politics/article/all/20260710/134277993/2",
   "https://www.joongang.co.kr/article/25444234",
   "https://www.newsis.com/view/NISX20260711_0003705059",
   "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903",
@@ -2999,11 +2997,11 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092166651",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=52809",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725087",
-  "https://www.nspna.com/news/?newsid=822038"
+  "https://www.nspna.com/news/?newsid=822038",
+  "https://www.newsis.com/view/NISX20260727_0003724769",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052194"
  ],
  "seen_titles": [
-  "[RTK만평]최태원·노소영재산분할'다시뒤집힐까?",
-  "충남도의회교육위원회,제370회임시회제3차회의개최",
   "미중,시진핑9월방미조율…AI·반도체주도권경쟁",
   "'AI폴더블시대'폴드8공개…삼성첫스마트글래스도눈길",
   "글로벌복합위기속생존전략은…오늘연합뉴스한반도심포지엄",
@@ -6001,17 +5999,11 @@
   "최태원,재산분할금'9440억'…지배구조지킬자금조달카드는",
   "삼성·SK·현대차·네이버총출동···AI공급망'한미동맹'본격화",
   "750조원AI동맹가동…하이닉스'수혜'SKT'투자'",
-  "SK그룹,실리콘밸리서빅테크와AI인프라동맹...엔비디아와5000억달..."
+  "SK그룹,실리콘밸리서빅테크와AI인프라동맹...엔비디아와5000억달...",
+  "한국펜싱,국제·아시아펜싱연맹과MOU체결…국제영향력강화",
+  "[허순강특별기고]TAXCOSMOS:세금우주"
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T08:30:19.925813+09:00",
-   "코스피 기대감에 반등 초대형 협력 AI"
-  ],
-  [
-   "2026-07-27T08:30:19.925813+09:00",
-   "실리콘밸리서 메가 프로젝"
-  ],
   [
    "2026-07-27T08:40:14.400179+09:00",
    "엔비디아와 빅테크와 반도체 협력 7500억달러 세계 최고"
@@ -6147,9 +6139,13 @@
   [
    "2026-07-27T13:50:18.489919+09:00",
    "재상고냐 9440억 마지막 지급이냐 분기점 이혼 세기의"
+  ],
+  [
+   "2026-07-27T14:30:19.951051+09:00",
+   "세금 COSMOS TAX 우주"
   ]
  ],
- "last_run": "2026-07-27T14:20:24.869698+09:00",
+ "last_run": "2026-07-27T14:30:36.516082+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6416,6 +6412,7 @@
   "queen.co.kr": "Queen 이코노미퀸",
   "koit.co.kr": "정보통신신문",
   "gukjenews.com": "국제뉴스",
-  "ppss.kr": "ㅍㅍㅅㅅ PPSS"
+  "ppss.kr": "ㅍㅍㅅㅅ PPSS",
+  "intn.co.kr": "日刊 NTN(일간NTN)"
  }
 }
