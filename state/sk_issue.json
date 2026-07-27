@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202607211331581413",
-  "https://www.ytn.co.kr/_ln/0115_202607211346513914",
-  "https://www.kgnews.co.kr/news/article.html?no=904585",
-  "https://www.ytn.co.kr/_ln/0102_202607211341008854",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/21/2026072190149.html",
-  "https://news.mtn.co.kr/news-detail/2026072113543680874",
-  "https://www.joongang.co.kr/article/25446775",
-  "https://www.mk.co.kr/article/12103272",
-  "https://www.nocutnews.co.kr/news/6550891",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096081",
   "https://www.womennews.co.kr/news/articleView.html?idxno=280156",
   "https://www.mt.co.kr/society/2026/07/21/2026072111320560119",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207147",
@@ -2999,19 +2989,19 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700266.html",
   "http://www.fnnews.com/news/202607271521146518",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=237998",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717969"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717969",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041260",
+  "https://www.medigatenews.com/news/1590665369",
+  "https://www.m-i.kr/news/articleView.html?idxno=1395783",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381275",
+  "https://www.hankyung.com/article/202607278552i",
+  "https://biz.chosun.com/stock/stock_general/2026/07/27/PZDMIGQ2WNG6VLXIVYDF3GIY2M/",
+  "https://sateconomy.co.kr/news/view/1065597076334164",
+  "https://news.tf.co.kr/read/life/2347447.htm",
+  "https://www.donga.com/news/Politics/article/all/20260727/134372624/1",
+  "https://www.ytn.co.kr/_ln/0103_202607271611583105"
  ],
  "seen_titles": [
-  "[YTN실시간뉴스]\"부동산불로소득이국민통합저해\"",
-  "'장윤기사건'지휘전형사과장구속심사...\"부당지시없었다\"",
-  "[단독]안성의료폐기물소각장인허가파문확산…주민들,검찰수사촉...",
-  "국세청,국세외수입체납실태확인기간제2차채용...4천명선발",
-  "\"800만원내면대리시험\"…한국어시험부정응시중국인100여명무더기...",
-  "경찰,농협중앙회재압수수색…'2억4000만원기념품'사용처추적",
-  "유병호“尹은두목…관저이전은경부고속도로이후최고의결단”",
-  "“부실수사없었다”선그은전광산서형사과장…유족엔“죄송하다...",
-  "800억자산가'청산염'사망사건…검찰,보완수사요구",
-  "검경,경찰청국수본동시압수수색...'장윤기사건외압'확인중",
   "구속유병호,윤석열'두목'지칭...\"관저이전,최고의결단\"",
   "'2500억원규모코인출금중단'델리오대표…선고앞두고'공소장변경...",
   "윤석열을'두목'이라불렀던유병호…본인은감사원'상왕'",
@@ -6001,7 +5991,17 @@
   "정부는아직매각계획없는데한화는직진모드…KAI보유지분15%코...",
   "종합특검,'김건희수사무마의혹'대검·법무부추가압수수색",
   "경찰\"다올투자증권압수물분석중…상호저축은행법위반의혹수사\"",
-  "금감원특사경,엘앤에프'테슬라계약정정'정조준…거래소압수수색"
+  "금감원특사경,엘앤에프'테슬라계약정정'정조준…거래소압수수색",
+  "한의원레이저판매막는의료계?…韓\"불공정행위법적대응\"",
+  "피부미용의료기기업체,한의원판매중단이의사단체때문?…의협“금...",
+  "선관위,21대총선'투표율조작'감사청구도각하·기각",
+  "종합특검,'김건희수사무마의혹'관련법무부·대검추가압수수색",
+  "엘앤에프'테슬라공시'겨냥한금감원특사경,한국거래소압수수색",
+  "금감원특사경,엘앤에프정정공시관련거래소압수수색",
+  "금감원특사경,엘앤에프‘테슬라계약축소공시’관련거래소압수...",
+  "특검,'김건희수사무마'법무부·대검압수수색…원희룡추가조사",
+  "종합특검,‘김건희수사무마’법무부·대검추가압수수색",
+  "특검,'도이치모터스수사무마'대검추가압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "과장광고 대법원 KT 5G 불복 상고 속도 판결에"
   ]
  ],
- "last_run": "2026-07-27T16:10:56.773675+09:00",
+ "last_run": "2026-07-27T16:20:56.726230+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
