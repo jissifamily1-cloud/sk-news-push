@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607210917552340106926",
-  "https://www.tokenpost.kr/news/market/380105",
-  "https://www.cnbizm.com/news/articleView.html?idxno=309282",
-  "https://www.seoultimes.news/news/article.html?no=2000098008",
   "http://www.sisacast.kr/news/articleView.html?idxno=98020",
   "https://www.cstimes.com/news/articleView.html?idxno=714261",
   "https://www.tvreport.co.kr/music/article/1062911/",
@@ -2999,13 +2995,13 @@
   "http://www.gnmaeil.com/news/articleView.html?idxno=591490",
   "http://www.ttlnews.com/news/articleView.html?idxno=3129121",
   "https://view.asiae.co.kr/article/2026072721301591778",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05290646645518784"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05290646645518784",
+  "https://www.sportsseoul.com/news/read/1624981",
+  "https://www.munhwa.com/article/11605350",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/27/2026072790280.html",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270369&t=NN"
  ],
  "seen_titles": [
-  "[더벨][thebellLeagueTable|2026년상반기]채권형홀로뒷걸음…IBK투...",
-  "코스피,반도체주랠리에장중7,000선돌파",
-  "신한카드,금융·통신데이터기반'외국인정착지원'나선다",
-  "신한카드,SKT·KCB와손잡고외국인데이터분석체계구축",
   "신한카드-이민정책연구원·SKT·KCB,데이터기반이민정책수립·지원...",
   "ARC리서치\"나무기술,구독매출비중확대\"",
   "성시경,10kg감량하더니모두가기다리던소식전했다…오는9월콘서트...",
@@ -6001,7 +5997,11 @@
   "고성군\"SK오션플랜트매각철회하라\"",
   "주형철경기도초대경제부지사취임",
   "엔비디아,글로벌AI보안연합체출범…네이버·SKT도참여",
-  "[미리보는이데일리신문]CXMT의공급…\"K메모리살길은한미AI동맹\""
+  "[미리보는이데일리신문]CXMT의공급…\"K메모리살길은한미AI동맹\"",
+  "민선9기경기도초대주형철경제부지사업무시작",
+  "“당장돈없는데지연이자만하루1.3억?”최태원의해법은",
+  "[따져보니]9500억달러'공급협력'…'산돈''판돈'합쳐산출?",
+  "똑같은하이닉스인데한국서는181만원,미국에서는225만원…29일'분수..."
  ],
  "recent_sigs": [
   [
@@ -6819,9 +6819,21 @@
   [
    "2026-07-27T21:41:08.881005+09:00",
    "공급 한미 AI동맹 살길은 CXMT의 K메모리"
+  ],
+  [
+   "2026-07-27T21:51:08.228719+09:00",
+   "최태원의 돈없는데 지연이자만 해법은 하루 당장 3억"
+  ],
+  [
+   "2026-07-27T21:51:08.228719+09:00",
+   "9500억달러 합쳐 판돈 공급협력 산출 산돈"
+  ],
+  [
+   "2026-07-27T21:51:08.228719+09:00",
+   "한국서는 똑같은 29일 225만원 미국에서는 181만원 하이닉스인데 분수"
   ]
  ],
- "last_run": "2026-07-27T21:41:15.203888+09:00",
+ "last_run": "2026-07-27T21:51:19.280871+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
