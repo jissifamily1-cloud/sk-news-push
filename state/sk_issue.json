@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6550762",
-  "https://www.hani.co.kr/arti/society/society_general/1269167.html",
-  "https://www.sisajournal.com/news/articleView.html?idxno=380478",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/21/2026072190115.html",
-  "https://www.imaeil.com/page/view/2026072109205415541",
-  "https://www.etoday.co.kr/news/view/2605580",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615886",
-  "https://www.m-economynews.com/news/article.html?no=68940",
-  "https://www.ppss.kr/news/articleView.html?idxno=302662",
   "https://news.tf.co.kr/read/national/2345206.htm",
   "https://www.namdonews.com/news/articleView.html?idxno=917514",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000051138",
@@ -2999,18 +2990,18 @@
   "https://www.naeil.com/news/read/596710",
   "https://www.tokenpost.kr/news/breaking/381579",
   "https://biz.heraldcorp.com/article/10821492",
-  "https://www.asiatime.co.kr/article/20260727500216"
+  "https://www.asiatime.co.kr/article/20260727500216",
+  "https://www.kukinews.com/article/view/kuk202607270095",
+  "https://www.sidae.com/article/2026072713145994502",
+  "https://www.namdonews.com/news/articleView.html?idxno=918113",
+  "https://www.ytn.co.kr/_ln/0102_202607271322006052",
+  "https://imnews.imbc.com/news/2026/society/article/6840335_36918.html",
+  "https://www.sisaweek.com/news/articleView.html?idxno=236906",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2290581",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/27/2026072790132.html",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250932"
  ],
  "seen_titles": [
-  "'통일교수사무마'윤희근前경찰청장소환…\"허무맹랑프레임\"",
-  "경찰,농협중앙회압수수색…‘2억원대고가기념품의혹’",
-  "'통일교수사무마의혹'윤희근전경찰청장,특검출석",
-  "종합특검'통일교수사무마의혹'윤희근재소환",
-  "대한체육회공정위,6개월서1개월로배재고징계감경",
-  "나명석프차협회장“프랜차이즈갑질프레임벗겠다”…윤리경영인증...",
-  "합수본,중앙선관위이틀째압수수색…“용지부족업무연락대응조사...",
-  "합수본,중앙선관위연이어압수수색...외유성출장의혹규명움직임",
-  "인천선관위사무실서50대직원숨진채발견…경찰경위조사",
   "\"윗선도나도부당지시안했다\"…장윤기사건전형사과장영장심사",
   "'장윤기사건'전형사과장영장심사…\"윗선부당지시없어\"",
   "\"부당한지시없었다\"…'장윤기사건'전형사과장구속심사",
@@ -6001,10 +5992,24 @@
   "법원,DI동일준항고인용…수사제동",
   "브라질경찰,암호화폐세탁마약조직자산1.96억달러동결",
   "라인건설,하도급대금늑장지급에지연이자도안줘…공정위제재",
-  "張‘부정선거의혹’강조에도…내부선당쇄신론솔솔"
+  "張‘부정선거의혹’강조에도…내부선당쇄신론솔솔",
+  "공정위,하도급대금늑장지급·지연이자미지급라인건설에시정명령",
+  "공사대금지연이자5년미루더니…공정위나서자입금한라인건설",
+  "라인건설,하도급법위반…공정위에12억지연이자미지급'덜미'",
+  "공정위,대금늦게주고지연이자12억안준라인건설제재",
+  "합수본,선관위압수수색재개‥6·3지선투표자수수정72건",
+  "장동혁,선관위투표율조작공세",
+  "이준석,與신천지의혹에\"종교와정치는분리…여야같은강도로수사...",
+  "경찰,도박사이트수사하다청각장애인연루된대포계좌유통조직등...",
+  "9440억어떻게마련하나…최태원SK회장앞에놓인4가지카드"
  ],
- "recent_sigs": [],
- "last_run": "2026-07-27T13:20:57.912594+09:00",
+ "recent_sigs": [
+  [
+   "2026-07-27T13:30:59.818748+09:00",
+   "어떻게 4가지 카드 마련하나 9440억 회장 앞에 놓인 최태원"
+  ]
+ ],
+ "last_run": "2026-07-27T13:31:08.907853+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6041,6 +6046,7 @@
   "news.lghellovision.net": "LG헬로비전",
   "srtimes.kr": "SR타임스",
   "sisajournal-e.com": "시사저널e",
-  "m-i.kr": "매일일보"
+  "m-i.kr": "매일일보",
+  "insightkorea.co.kr": "인사이트코리아"
  }
 }
