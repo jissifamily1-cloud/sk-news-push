@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607221951129906ea14faf6f5_1",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851820",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207551",
-  "https://www.hidomin.com/news/articleView.html?idxno=712939",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442911",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5216",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6839357_37004.html",
   "https://www.newscj.com/news/articleView.html?idxno=3404340",
@@ -2999,14 +2994,14 @@
   "https://www.viva100.com/article/20260727500434",
   "https://news.tf.co.kr/read/economy/2347225.htm",
   "https://www.lawtv.kr/news/articleView.html?idxno=60516",
-  "https://www.koreajoongangdaily.com/bilingual-news/korea-overcame-the-curse-of-colonial-rule-now-comes-the-yellow-envelope-act-kor/12792308"
+  "https://www.koreajoongangdaily.com/bilingual-news/korea-overcame-the-curse-of-colonial-rule-now-comes-the-yellow-envelope-act-kor/12792308",
+  "https://biz.heraldcorp.com/article/10821153",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1782370581&code=23111516&cp=nv",
+  "https://news.mtn.co.kr/news-detail/2026072710001883838",
+  "https://www.news1.kr/industry/general-industry/6239802",
+  "https://biz.heraldcorp.com/article/10821157"
  ],
  "seen_titles": [
-  "편의점위약금분쟁'쑥'…편의점가맹본부간담회개최",
-  "[RISE]건국대글로컬캠퍼스,베트남서유학생설명회개최···충북정...",
-  "건국대등충북대학,베트남현지서유학생지원·교류협력강화",
-  "'SK가장손'최영근씨,5년만에그룹지주사로복귀",
-  "이대통령,'샌프란AI선언'예고…국내기업글로벌MOU추진",
   "李대통령,美서빅테크리더들만난다",
   "SK창업주장손최영근,5년만에그룹복귀",
   "SK그룹창업주3세최영근씨,5년만에지주사복귀",
@@ -6001,7 +5996,12 @@
   "정점식,이대통령향해“'샌프란AI선언',대기업활용한쇼”",
   "K-반도체,美빅테크에5년메모리공급…'1375조원'동맹",
   "최태원9,440억,다음은권혁빈...'8조이혼소송'9월9일선고",
-  "Koreaovercamethecurseofcolonialrule.Nowcomesthe'YellowEnvelo"
+  "Koreaovercamethecurseofcolonialrule.Nowcomesthe'YellowEnvelo",
+  "대체불가K-반도체,AI혁명중심우뚝…빅테크와9500달러협력[한·미...",
+  "[365기도ON]<177>나라와민족을복음으로치유하소서",
+  "'9440억'재산분할최태원…'SK㈜주가급등'에자금조달여력충분",
+  "티앤씨재단,고등·대학생참여'2026놀자캠프'성료",
+  "SK하이닉스,2분기60조원대영업이익예상…상반기만100조번다"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,21 @@
   [
    "2026-07-27T10:20:13.179852+09:00",
    "Now colonial Envelope of Korea Yellow curse rule overcame comes the"
+  ],
+  [
+   "2026-07-27T10:30:22.012756+09:00",
+   "주가 재산분할 자금조달 충분 급등 9440억 여력"
+  ],
+  [
+   "2026-07-27T10:30:22.012756+09:00",
+   "2분기 60조원대 번다 상반기만 예상 100조 SK하이닉스 영업이익"
+  ],
+  [
+   "2026-07-27T10:30:22.012756+09:00",
+   "참여 고등 놀자캠프 성료 대학생 티앤씨재단"
   ]
  ],
- "last_run": "2026-07-27T10:20:29.287049+09:00",
+ "last_run": "2026-07-27T10:30:40.017698+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
