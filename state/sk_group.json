@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2607430",
   "https://www.chosun.com/politics/politics_general/2026/07/26/WWPWBUP5IRC6RCCA7WWSY32URU/",
   "https://kpenews.com/View.aspx?No=4162211",
   "http://coinreaders.com/249571",
@@ -2999,10 +2998,10 @@
   "https://www.ytn.co.kr/_ln/0104_202607280608592154",
   "https://www.etoday.co.kr/news/view/2607929",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427140",
-  "http://www.fnnews.com/news/202607280544272200"
+  "http://www.fnnews.com/news/202607280544272200",
+  "https://www.ytn.co.kr/_ln/0104_202607280612111276"
  ],
  "seen_titles": [
-  "이대통령,실리콘밸리VC에\"다음세대삼성·현대·SK만들자\"",
   "李대통령“한미,안보동맹넘어‘스타트업동맹’으로지평넓혀야”",
   "SK,'5000억달러'AI생태계구축..엔비디아·MS·앤트로픽과인프라합...",
   "마이크론주가한달새25%급락…‘역대급실적’에도무너진이유",
@@ -6001,7 +6000,8 @@
   "데뷔첫날중국'시총1위'창신메모리...\"빅3위협\"vs\"기술격차\"",
   "한달새1100조증발한삼전·하이닉스…9500억달러AI동맹,피크아웃공...",
   "[뉴욕증시]예전만못한엔비디아투심…혼조마감",
-  "\"오르면반도체,내리면중동탓\"…그런데왜본주보다ETF가더거래될..."
+  "\"오르면반도체,내리면중동탓\"…그런데왜본주보다ETF가더거래될...",
+  "뉴욕증시,유가급락속혼조마감...반도체주하락"
  ],
  "recent_sigs": [
   [
@@ -6113,7 +6113,7 @@
    "본주보다 중동 반도체 오르면 거래될 내리면 ETF가 그런데"
   ]
  ],
- "last_run": "2026-07-28T06:15:17.807943+09:00",
+ "last_run": "2026-07-28T06:21:22.786378+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
