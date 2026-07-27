@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://enews.imbc.com/News/RetrieveNewsInfo/512394",
-  "https://www.eroun.net/news/articleView.html?idxno=86043",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=875819",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264859",
   "http://www.issuenbiz.com/news/articleView.html?idxno=78086",
   "https://www.dt.co.kr/article/12074316",
@@ -2999,12 +2996,12 @@
   "http://www.press9.kr/news/articleView.html?idxno=80110",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128407",
   "http://www.yonhapnewstv.co.kr/news/MYH202607271649148EF",
-  "https://biz.sbs.co.kr/article_hub/20000324879?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000324879?division=NAVER",
+  "https://www.news2day.co.kr/article/20260727500109",
+  "https://www.mediawatch.kr/news/article.html?no=260481",
+  "https://www.joongangenews.com/news/articleView.html?idxno=535751"
  ],
  "seen_titles": [
-  "이재용·최태원·정의선·이해진,젠슨황·샘올트먼과미국판'깐부회...",
-  "이재용·정의선,美AI자문기구합류…글로벌리더들과미래전략논의",
-  "최태원회장이제안한SPC,국제학술지서'성과선순환'입증",
   "최태원제안SPC,국제학술지서효과검증…사회성과보상하니성장",
   "이재용·정의선,젠슨황주도AI네트워크합류…11월글로벌AI전략논...",
   "최태원이제안한'사회성과보상'입증...SPC효과국제학술지게재",
@@ -6001,17 +5998,12 @@
   "최태원SK회장,9440억마련셈법…현금·대출조합유력",
   "\"AI중심에서한국을외치다\"…1400조한·미AI동맹탄생",
   "올여름장마종료…남부'폭염중대경보'확대",
-  "[증시인사이트]외국인매도에도개인·기관순매수에코스피상승"
+  "[증시인사이트]외국인매도에도개인·기관순매수에코스피상승",
+  "[2026비자발적고립청년일경험캠프(15)]진로찾는비자발적고립청년...",
+  "SK그룹,글로벌빅테크들과1100조AI동맹…HBM·데이터센터·팩토리총...",
+  "삼성이재용·SK최태원,AI서밋이어'구글캠프'동행…빅테크협력..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T11:00:25.640499+09:00",
-   "이유 꽂힌 10배 젠슨 지분 K기업 네이버 1년"
-  ],
-  [
-   "2026-07-27T11:00:25.640499+09:00",
-   "출격 반도체 최전방 송사 불확실성 세계대전 걷어낸"
-  ],
   [
    "2026-07-27T11:10:14.062170+09:00",
    "피크아웃 쇄도한다는 삼성 5년 우려 빅테크와 요청 계약에"
@@ -6145,7 +6137,7 @@
    "매도에도 개인 상승 코스피 순매수에 기관 외국인"
   ]
  ],
- "last_run": "2026-07-27T16:52:02.769087+09:00",
+ "last_run": "2026-07-27T17:00:41.963990+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
