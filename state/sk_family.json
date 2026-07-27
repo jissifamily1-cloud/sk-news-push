@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25444234",
-  "https://www.newsis.com/view/NISX20260711_0003705059",
-  "https://www.mt.co.kr/politics/2026/07/11/2026071101134625903",
   "https://www.news1.kr/politics/president/6224818",
   "https://www.yna.co.kr/view/AKR20260710159051001?input=1195m",
   "https://www.mk.co.kr/article/12095868",
@@ -2999,12 +2996,12 @@
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725087",
   "https://www.nspna.com/news/?newsid=822038",
   "https://www.newsis.com/view/NISX20260727_0003724769",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2052194"
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052194",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852637",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142113",
+  "https://www.ekn.kr/web/view.php?key=20260727026526408"
  ],
  "seen_titles": [
-  "미중,시진핑9월방미조율…AI·반도체주도권경쟁",
-  "'AI폴더블시대'폴드8공개…삼성첫스마트글래스도눈길",
-  "글로벌복합위기속생존전략은…오늘연합뉴스한반도심포지엄",
   "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
   "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(80)\"인수가격보다인...",
   "[카드뉴스]복합위기시대,한반도의전략…연합뉴스한반도심포지엄",
@@ -6001,7 +5998,10 @@
   "750조원AI동맹가동…하이닉스'수혜'SKT'투자'",
   "SK그룹,실리콘밸리서빅테크와AI인프라동맹...엔비디아와5000억달...",
   "한국펜싱,국제·아시아펜싱연맹과MOU체결…국제영향력강화",
-  "[허순강특별기고]TAXCOSMOS:세금우주"
+  "[허순강특별기고]TAXCOSMOS:세금우주",
+  "배경훈장관\"美'AI선언'다음은실행\"",
+  "SKT'주가널뛰기'에숨은행간…최태원'9900억실탄'마련시나리오는",
+  "빅테크가키우는AIDC…韓‘기가와트전략’통할까"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,17 @@
   [
    "2026-07-27T14:30:19.951051+09:00",
    "세금 COSMOS TAX 우주"
+  ],
+  [
+   "2026-07-27T14:40:12.701539+09:00",
+   "숨은 널뛰기 SKT 실탄 주가 시나리오는 행간 9900억 마련"
+  ],
+  [
+   "2026-07-27T14:40:12.701539+09:00",
+   "키우는 통할까 빅테크가 전략 AIDC 기가와트"
   ]
  ],
- "last_run": "2026-07-27T14:30:36.516082+09:00",
+ "last_run": "2026-07-27T14:40:30.679718+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
