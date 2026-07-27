@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://m.skyedaily.com/news_view.html?ID=308489",
-  "https://www.yna.co.kr/view/AKR20260725057700007?input=1195m",
-  "https://www.catchnews.kr/news/articleView.html?idxno=126524",
-  "https://www.tokenpost.kr/news/market/380750",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=591499",
-  "http://www.datanews.co.kr/news/article.html?no=145692",
-  "https://www.bntnews.co.kr/article/view/bnt202607240065",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=270239",
   "https://www.public25.com/news/articleView.html?idxno=51327",
   "https://www.seoulfn.com/news/articleView.html?idxno=634020",
@@ -2999,16 +2992,16 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1009367",
   "http://www.tjb.co.kr/sub0301/bodo/view/id/101556",
   "https://www.donga.com/news/Economy/article/all/20260727/134375247/1",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260727210238TDO"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260727210238TDO",
+  "http://www.inews24.com/view/1989248",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3647836",
+  "https://www.mediawatch.kr/news/article.html?no=260482",
+  "https://biz.heraldcorp.com/article/10822027",
+  "https://www.seoul.co.kr/news/economy/industry/2026/07/27/20260727500271?wlog_tag3=naver",
+  "https://www.ddaily.co.kr/page/view/2026072718122003646",
+  "https://www.koreajoongangdaily.com/business/taiwans-share-of-korean-chip-exports-more-than-doubles-as-china-loses-ground/12794357"
  ],
  "seen_titles": [
-  "이재용·최태원·정의선'일냈다'…글로벌빅테크기업과1천400조동맹",
-  "K리그1전북,포항2-0잡고2위로…선두FC서울과9점차",
-  "7월23일주식시장주요공시",
-  "코스피,중동불안및유가급등영향...반도체기대속변동성예측",
-  "성시경,'자,오늘은'티켓예매를해볼까?",
-  "“하이닉스의성공은도전의결과.지금부터가진짜시험대”",
-  "성시경공연,오늘티켓오픈",
   "[박정식의국내주식시황]코스피7145선저항맞았다…외국인매수세가...",
   "[코스피·코스닥,KB금융현대차국민은행신한지주미래에셋증권신한...",
   "7월24일개장전주요공시",
@@ -6001,7 +5994,14 @@
   "코스피0.97%반등...6755.75마감",
   "\"코리아AI와함께\"..젠슨황이카이스트콕집은이유",
   "엔비디아AI보안연합출범…SK텔레콤·네이버참여",
-  "롤러코스피끝6,700선사수…코스닥2%강세"
+  "롤러코스피끝6,700선사수…코스닥2%강세",
+  "CXMT,중국최대반도체IPO흥행…본토시총1위등극(종합)",
+  "취임첫날의회직행한주형철…'반도체·AI'로여야협치,추미애경제...",
+  "[26.7.27증시인싸잇]코스피,외국인2.9조매도세에도반등…6700선지...",
+  "이재용·최태원,구글캠프간다…‘AI어벤저스’시칠리아총집결",
+  "엔비디아發글로벌AI보안연합체에SKT·네이버참가…AI협력생태계...",
+  "[오승호칼럼]K-증시,국격에맞게주식관련세제정상화해야",
+  "Taiwan’sshareofKoreanchipexportsmorethandoublesasChinaloses."
  ],
  "recent_sigs": [
   [
@@ -6879,9 +6879,17 @@
   [
    "2026-07-27T21:11:04.042998+09:00",
    "사수 롤러코스피 코스닥 강세 700선"
+  ],
+  [
+   "2026-07-27T21:21:03.814933+09:00",
+   "국격에 맞게 주식 세제 증시 정상화해야"
+  ],
+  [
+   "2026-07-27T21:21:03.814933+09:00",
+   "Taiwan Korean chip China of exports more share than doubles loses as"
   ]
  ],
- "last_run": "2026-07-27T21:11:13.441055+09:00",
+ "last_run": "2026-07-27T21:21:12.382503+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
