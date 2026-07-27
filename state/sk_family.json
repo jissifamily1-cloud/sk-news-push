@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202607230140",
-  "https://www.joongang.co.kr/article/25447516",
   "https://www.betanews.net/article/view/beta202607230048",
   "https://www.newsis.com/view/NISX20260723_0003720582",
   "https://www.huffingtonpost.kr/article/258941",
@@ -2999,11 +2997,11 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260727203511b2h",
   "https://www.wikitree.co.kr/articles/1148756",
   "https://www.polinews.co.kr/news/articleView.html?idxno=738227",
-  "https://biz.heraldcorp.com/article/10822027"
+  "https://biz.heraldcorp.com/article/10822027",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/27/2026072790276.html",
+  "https://www.munhwa.com/article/11605350"
  ],
  "seen_titles": [
-  "사회성과인센티브,국제SSCI학술지등재…사회적기업'선순환효과'...",
-  "최태원-노소영‘세기의재산분할’선고D-1",
   "사회적가치연구원,SPC연구국제학술지게재…최태원제안정책효과...",
   "\"140년장인정신,138년여성교육과만났다\"…불가리코리아,이화여대...",
   "[현장]배경훈,통신사직접찾아요금완화주문",
@@ -6001,13 +5999,11 @@
   "尹'허위사실유포'징역형집행유예…당선무효형",
   "[인사]포항시(6급이하.7월30일자)",
   "[조자경의나비효과]'이별의감정가(鑑定價)'9440억…최태원·노소영...",
-  "이재용·최태원,구글캠프간다…‘AI어벤저스’시칠리아총집결"
+  "이재용·최태원,구글캠프간다…‘AI어벤저스’시칠리아총집결",
+  "남성은술끊고여성은더마신다…고학력·고소득일수록음주율상승",
+  "“당장돈없는데지연이자만하루1.3억?”최태원의해법은"
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T15:50:13.934067+09:00",
-   "여의도는 샌프란시스코 우리는 식구다 극과극"
-  ],
   [
    "2026-07-27T16:00:27.334988+09:00",
    "메가프로젝트 SK텔레콤 AI 세운다 전문회사 데이터센터 앞둔"
@@ -6107,9 +6103,13 @@
   [
    "2026-07-27T21:00:34.847722+09:00",
    "감정가 이별의 9440억"
+  ],
+  [
+   "2026-07-27T21:50:16.854574+09:00",
+   "돈없는데 해법은 당장 최태원의 지연이자만 3억 하루"
   ]
  ],
- "last_run": "2026-07-27T21:40:28.362236+09:00",
+ "last_run": "2026-07-27T21:50:32.297849+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
