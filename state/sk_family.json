@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.geconomy.co.kr/news/article.html?no=322050",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34408",
-  "https://www.newstnt.com/news/articleView.html?idxno=711322",
   "http://www.yonhapnewstv.co.kr/news/MYH20260723052526g6v",
   "http://www.yonhapnewstv.co.kr/news/MYH20260723051414Y2G",
   "https://www.yna.co.kr/view/AKR20260625151500504?input=1195m",
@@ -2999,12 +2996,12 @@
   "https://www.hankyung.com/article/2026022548021",
   "http://www.segyebiz.com/newsView/20260225516683?OutUrl=naver",
   "https://www.m-i.kr/news/articleView.html?idxno=1340527",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=862458"
+  "https://www.getnews.co.kr/news/articleView.html?idxno=862458",
+  "https://www.inven.co.kr/webzine/news/?news=318882",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280362",
+  "https://www.ppss.kr/news/articleView.html?idxno=303296"
  ],
  "seen_titles": [
-  "李,내일부터美-남미등순방…젠슨황-샘올트먼만난다",
-  "李대통령,美·남미순방…이재용·젠슨황과'AI서밋'",
-  "이재용·최태원·정의선,美빅테크수장들과‘AI회동’",
   "李,美·남미·독일순방…젠슨황·올트먼만난다",
   "SK하이닉스“인텔美오하이오공장인수추진안해”",
   "李,美샌프란·남미·獨순방...빅테크CEO회동",
@@ -6001,7 +5998,10 @@
   "무협,美워싱턴에싱크탱크…\"한·미통상대응력높인다\"",
   "무역협회,2026년도정기총회개최",
   "무역협회,상반기'한미산업발전포럼신설'…2026년정기총회개최",
-  "무협,미국워싱턴에민간싱크탱크'한미산업발전포럼'신설한다"
+  "무협,미국워싱턴에민간싱크탱크'한미산업발전포럼'신설한다",
+  "한국AI시대본격개막...글로벌빅테크리더들과미래비전공유",
+  "[김효선칼럼]노소영재산분할9440억원…33.3%는충분한가",
+  "[기업해부④]현대차는'100년기업'이될수있을까…정의선시대의마..."
  ],
  "recent_sigs": [
   [
@@ -6183,9 +6183,13 @@
   [
    "2026-07-27T11:40:14.693154+09:00",
    "네이버 엔비디아 이해진 AI 통했다 투자 업고 승부수 시장 공략 인프라"
+  ],
+  [
+   "2026-07-27T12:00:27.831536+09:00",
+   "기업 시대의 있을까 정의선 현대차는 100년"
   ]
  ],
- "last_run": "2026-07-27T11:50:23.223583+09:00",
+ "last_run": "2026-07-27T12:00:45.142706+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6451,6 +6455,7 @@
   "bosa.co.kr": "의학신문",
   "queen.co.kr": "Queen 이코노미퀸",
   "koit.co.kr": "정보통신신문",
-  "gukjenews.com": "국제뉴스"
+  "gukjenews.com": "국제뉴스",
+  "ppss.kr": "ㅍㅍㅅㅅ PPSS"
  }
 }
