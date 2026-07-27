@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.moneystorm.kr/news/articleView.html?idxno=5216",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839357_37004.html",
-  "https://www.newscj.com/news/articleView.html?idxno=3404340",
-  "https://www.insight.co.kr/news/555725",
-  "https://www.sedaily.com/article/20048466",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670011&plink=ORI&cooper=NAVER",
-  "https://view.asiae.co.kr/article/2026051310214222840",
-  "https://www.kyeongin.com/article/1762460",
   "https://www.socialvalue.kr/news/view/1065612173412825",
   "https://www.g-enews.com/view.php?ud=20260722204831513ea14faf6f5_1",
   "https://www.womennews.co.kr/news/articleView.html?idxno=280225",
@@ -2999,17 +2991,17 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=1782370581&code=23111516&cp=nv",
   "https://news.mtn.co.kr/news-detail/2026072710001883838",
   "https://www.news1.kr/industry/general-industry/6239802",
-  "https://biz.heraldcorp.com/article/10821157"
+  "https://biz.heraldcorp.com/article/10821157",
+  "https://www.lecturernews.com/news/articleView.html?idxno=207192",
+  "https://h21.hani.co.kr/arti/society/society_general/59667.html",
+  "http://www.newstomato.com/ReadNews.aspx?no=1305165&inflow=N",
+  "https://www.bzeronews.com/news/articleView.html?idxno=818993",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3612955",
+  "http://www.seouleconews.com/news/articleView.html?idxno=91920",
+  "https://www.nocutnews.co.kr/news/6553557",
+  "https://www.mediapen.com/news/view/1112376"
  ],
  "seen_titles": [
-  "李대통령,美서빅테크리더들만난다",
-  "SK창업주장손최영근,5년만에그룹복귀",
-  "SK그룹창업주3세최영근씨,5년만에지주사복귀",
-  "SK장손87년생최영근,5년만에그룹복귀",
-  "[이지人]SK家장손최영근씨,5년만에그룹지주사복귀",
-  "\"마약전력도오너가면복귀가능?\"…최영근SK지주사팀장복귀에형...",
-  "'SK家장손'최영근,5년만에그룹지주사복귀",
-  "‘창업주장손’최영근,5년만에SK복귀..문화·프로그램기획운영",
   "이재명대통령,AI글로벌리더들과샌프란시스코회담…기술혁신협력...",
   "안민석교육감도\"교육교부금축소반대\"",
   "한국여성경제인협회경남지회창립27주년기념식",
@@ -6001,7 +5993,15 @@
   "[365기도ON]<177>나라와민족을복음으로치유하소서",
   "'9440억'재산분할최태원…'SK㈜주가급등'에자금조달여력충분",
   "티앤씨재단,고등·대학생참여'2026놀자캠프'성료",
-  "SK하이닉스,2분기60조원대영업이익예상…상반기만100조번다"
+  "SK하이닉스,2분기60조원대영업이익예상…상반기만100조번다",
+  "제주대학교기초과학연구소,『내안의물고기』북콘서트성료…진화...",
+  "세계적대세라지만…청소년SNS제한,차단만이능사아니다",
+  "편의점위약금분쟁'쑥'…편의점가맹본부간담회개최",
+  "[RISE]건국대글로컬캠퍼스,베트남서유학생설명회개최···충북정...",
+  "건국대등충북대학,베트남현지서유학생지원·교류협력강화",
+  "'SK가장손'최영근씨,5년만에그룹지주사로복귀",
+  "손수호\"9440억원재산분할,그래도최태원판정승이유는?\"",
+  "SK하이닉스'사상최대실적'전망속연기금집중매수…주가는?"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,17 @@
   [
    "2026-07-27T10:30:22.012756+09:00",
    "참여 고등 놀자캠프 성료 대학생 티앤씨재단"
+  ],
+  [
+   "2026-07-27T10:40:13.585533+09:00",
+   "그래도 손수호 판정승 재산분할 9440억원 이유는"
+  ],
+  [
+   "2026-07-27T10:40:13.585533+09:00",
+   "집중 실적 연기금 주가는 SK하이닉스 매수 전망 사상"
   ]
  ],
- "last_run": "2026-07-27T10:30:40.017698+09:00",
+ "last_run": "2026-07-27T10:40:28.484919+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
