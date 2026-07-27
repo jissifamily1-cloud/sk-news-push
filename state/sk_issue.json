@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/stock/2026/07/21/2026072115384847094",
-  "https://www.news1.kr/industry/general-industry/6234452",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207203",
-  "https://www.mk.co.kr/article/12103537",
   "http://www.joseilbo.com/news/news_read.php?uid=572318&class=32",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4096219",
   "https://www.khan.co.kr/article/202607211713001",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/local/jeonbuk/6240650",
   "https://www.thepublic.kr/news/articleView.html?idxno=312754",
   "https://www.kmib.co.kr/article/view.asp?arcid=1785142328&code=11131100&cp=nv",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270287&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270287&t=NN",
+  "https://www.seoul.co.kr/news/society/accident/2026/07/27/20260727500261?wlog_tag3=naver",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260727191819VuC",
+  "https://www.hani.co.kr/arti/area/honam/1270206.html",
+  "http://www.jndn.com/article.php?aid=1785147176436761005"
  ],
  "seen_titles": [
-  "증권사·은행,최대11조과징금폭탄우려…\"국고채PD제재시발행시...",
-  "석화여수산단구조조정결론초읽기…'대산1호'순항",
-  "7월21일미리보는MBN뉴스7",
-  "'단순살인죄지시'의혹국수본압수수색…이런경찰믿을수있나[사설...",
   "구속된유병호,윤석열'두목'지칭…'타이거파가잘하자'메모도",
   "'장윤기부실수사의혹'전형사과장영장심사...구속기로",
   "장윤기사건,국수본으로번지나···검·경압수수색에커지는경찰부...",
@@ -6001,7 +5997,11 @@
   "교사불법촬영증거없앤경찰관입건…'아들휴대전화던져파손'",
   "[선관위게이트]6·3지선투표자수72건수정확인...6600명증가·12...",
   "[단독]강남‘노른자땅’대치에델루이조합장,용역업체서뇌물수...",
-  "고교생아들'불법촬영'신고당하자…폰박살낸경찰"
+  "고교생아들'불법촬영'신고당하자…폰박살낸경찰",
+  "“경찰父가또증거인멸”…‘여교사불법촬영’아들휴대폰부쉈다...",
+  "현직경찰관이아들의범죄증거인멸의혹…전북경찰,수사착수",
+  "불법촬영수사받던아들휴대전화폐기…현직경찰관증거인멸수사",
+  "경찰직협“‘강간살인’검토수사보고서,검찰공개를”"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "과장광고 대법원 KT 5G 불복 상고 속도 판결에"
   ]
  ],
- "last_run": "2026-07-27T19:10:57.845383+09:00",
+ "last_run": "2026-07-27T19:20:55.086255+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
