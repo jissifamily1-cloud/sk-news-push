@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202607250002",
-  "https://www.kbmaeil.com/article/20260725500041",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260725092938YEe",
-  "https://www.kado.net/news/articleView.html?idxno=2063012",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51684",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619990",
   "https://www.yna.co.kr/view/AKR20260725017751003?input=1195m",
@@ -2999,13 +2995,13 @@
   "https://www.esgeconomy.com/news/articleView.html?idxno=16168",
   "https://www.livebiz.today/news/articleView.html?idxno=203613",
   "https://biz.sbs.co.kr/article_hub/20000324803?division=NAVER",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02961846645518784"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02961846645518784",
+  "https://www.insight.co.kr/news/564076",
+  "http://www.finomy.com/news/articleView.html?idxno=258013",
+  "https://news.tf.co.kr/read/economy/2347292.htm",
+  "https://view.asiae.co.kr/article/2026072710104881778"
  ],
  "seen_titles": [
-  "(LEAD)Nvidiachiefpledgesmassiveinvestment,cooperationwithS.K",
-  "국장흔들리자다시미장으로…서학개미순매수한달새4배",
-  "李대통령,젠슨황·샘올트먼등AI리더들과릴레이면담…“韓AI프...",
-  "이재용·정의선·이해진,엔비디아본사서젠슨황만났다",
   "[속보]李대통령'샌프란AI선언'…\"韓세계적인AI공급망핵심거점으...",
   "[속보]李대통령'샌프란AI선언'…'AI기본사회'세계에알렸다",
   "\"소외없는AI기본사회만들것\"…李대통령,샌프란서'AI선언'",
@@ -6001,7 +5997,11 @@
   "NH투자증권,반기어닝서프라이즈...순익9651억원'역대최고'",
   "\"AI가일자리없앤다\"는우려는기우…미국·한국기업다시채용",
   "이시각주요뉴스",
-  "알파벳,상장22년만에첫잉여현금적자…AI공포확산"
+  "알파벳,상장22년만에첫잉여현금적자…AI공포확산",
+  "'휴먼코드'고른정재헌CEO...사람·조직에서시작한SKT의AI전환",
+  "SK쉴더스'EQST'국제해킹방어대회'코드게이트2026'준우승",
+  "증시활황에브로커리지웃고ETF도효자…증권사2분기곳간'두둑'",
+  "네이버,엔비디아와AI동맹…1.48조원3자배정유상증자(종합)"
  ],
  "recent_sigs": [
   [
@@ -7135,9 +7135,17 @@
   [
    "2026-07-27T11:45:42.170902+09:00",
    "잉여현금 22년 공포 상장 AI 확산 만에 알파벳 적자"
+  ],
+  [
+   "2026-07-27T11:50:57.917792+09:00",
+   "브로커리지 두둑 ETF도 웃고 효자 활황에 2분기 증권사 곳간 증시"
+  ],
+  [
+   "2026-07-27T11:50:57.917792+09:00",
+   "유상증자 48조원 네이버 AI동맹 엔비디아와 3자배정"
   ]
  ],
- "last_run": "2026-07-27T11:46:01.704517+09:00",
+ "last_run": "2026-07-27T11:51:07.442704+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
