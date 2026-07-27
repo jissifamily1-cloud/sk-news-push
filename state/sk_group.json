@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/07/26/2026072522050736790",
-  "https://www.newspim.com/news/view/20260726000012",
-  "https://www.meconomynews.com/news/articleView.html?idxno=133091",
-  "https://www.etnews.com/20260726000038",
-  "https://www.newsway.co.kr/news/view?ud=2026072416552339176",
-  "https://www.chosun.com/economy/stock-finance/2026/07/26/2TTPQK7VQVGVVG2443N4LQTOCY/",
-  "https://www.the-today.com/news/articleView.html?idxno=87859",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01243126645518456",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01239846645518456",
   "http://www.fnnews.com/news/202607260900563069",
   "https://www.ytn.co.kr/_ln/0101_202607260915599131",
   "https://www.tokenpost.kr/news/market/381340",
@@ -2999,18 +2990,18 @@
   "https://www.newspim.com/news/view/20260727001086",
   "https://www.newspim.com/news/view/20260727001087",
   "http://www.issuenbiz.com/news/articleView.html?idxno=78177",
-  "https://en.yna.co.kr/view/AEN20260728000800320?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260728000800320?input=2106m",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030170922&code=61141211&cp=nv",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/28/2026072890053.html",
+  "https://biz.sbs.co.kr/article_hub/20000324985?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000324970?division=NAVER",
+  "https://www.news2day.co.kr/article/20260728500011",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427135",
+  "https://www.g-enews.com/view.php?ud=202607280707387849e250e8e188_1",
+  "https://www.hankyung.com/article/2026072893216",
+  "https://www.sidae.com/article/2026072806004348379"
  ],
  "seen_titles": [
-  "애플中메모리도입추진에마이크론반발…삼성·SK'촉각'[IT썰]",
-  "글로벌벤처투자사만난李대통령…\"대체불가대한민국의파트너되어...",
-  "AI전력수요기대에'신재생에너지ETF'강세",
-  "SK하이닉스ADR사는서학개미…美전문가“본주보다비싼데왜?자멸...",
-  "매도폭탄우려비껴간연기금…SK하이닉스·정유주담았다",
-  "국장급락하자미장으로…서학개미순매수4배늘었다",
-  "李대통령,실리콘밸리'큰손'만났다…\"차세대삼성함께만들자\"",
-  "국민연금74조'매도폭탄'없었다…이달들어순매수전환",
-  "KAIST·엔비디아‘피지컬AI동맹’…인간움직임배우는AI만든다",
   "젠슨황\"코스피다시오를것\"…이재명과'맥주회동'서나온낙관론",
   "이대통령\"한미,스타트업동맹으로...'다음세대삼성'만들어야\"",
   "단일종목레버리지규제앞당겨시행,증시변동성진정기대",
@@ -6001,7 +5992,16 @@
   "[中하드테크IPO빅뱅]⑪YMTC.국유자본이키워낸낸드플래시리더",
   "[中하드테크IPO빅뱅]⑫우한YMTCvs허페이CXMT'메모리투스타'",
   "[김성욱의세상과시간]부품의가격에서기억의가치로",
-  "TopheadlinesinmajorS.Koreannewspapers"
+  "TopheadlinesinmajorS.Koreannewspapers",
+  "중국판‘삼전닉스’가코스피발목?…CXMT상장에파장",
+  "SK하이닉스ADR7%·엔비디아5%급락…뉴욕증시혼조마감",
+  "삼전·닉스위협하는CXMT…'1등은시간문제?'",
+  "[마켓브리핑]중동긴장완화에초반안도…반도체약세에증시혼조",
+  "뉴욕증시,FOMC·빅테크실적앞두고혼조…엔비디아5%'털썩'",
+  "[뉴욕증시-1보]예전만못한엔비디아투심…혼조마감",
+  "중국CXMT상장파장SK하이닉스·마이크론·샌디스크하락",
+  "유가급락에도반도체주'와르르'…나스닥약세[뉴욕증시브리핑]",
+  "[뉴욕증시]이란협상·AI불안감에혼조세…다우0.5%↑·나스닥0.2%↓"
  ],
  "recent_sigs": [
   [
@@ -6261,7 +6261,7 @@
    "major in Top Korean headlines newspapers"
   ]
  ],
- "last_run": "2026-07-28T07:12:16.102077+09:00",
+ "last_run": "2026-07-28T07:21:08.738354+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
