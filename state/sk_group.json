@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607260900563069",
-  "https://www.ytn.co.kr/_ln/0101_202607260915599131",
-  "https://www.tokenpost.kr/news/market/381340",
-  "https://www.slist.kr/news/articleView.html?idxno=754243",
-  "http://www.segyebiz.com/newsView/20260726502615?OutUrl=naver",
-  "https://www.segye.com/newsView/20260726502141?OutUrl=naver",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/63861?feed=na",
-  "https://www.newsis.com/view/NISX20260726_0003723394",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260726092737kVU",
   "https://www.itdaily.kr/news/articleView.html?idxno=240598",
   "https://biz.chosun.com/policy/politics/president_office/2026/07/26/OB6UQZSPNVDLBGGSTCRTVUJAYA/",
   "http://www.srtimes.kr/news/articleView.html?idxno=208318",
@@ -2999,18 +2990,18 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427135",
   "https://www.g-enews.com/view.php?ud=202607280707387849e250e8e188_1",
   "https://www.hankyung.com/article/2026072893216",
-  "https://www.sidae.com/article/2026072806004348379"
+  "https://www.sidae.com/article/2026072806004348379",
+  "https://www.ziksir.com/news/articleView.html?idxno=141324",
+  "https://www.globale.co.kr/news/articleView.html?idxno=39551",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441906",
+  "https://www.public25.com/news/articleView.html?idxno=51550",
+  "https://www.g-enews.com/view.php?ud=2026072807081349fbbec65dfb_1",
+  "https://www.ajunews.com/view/20260728071654251",
+  "https://biz.sbs.co.kr/article_hub/20000324971?division=NAVER",
+  "https://www.g-enews.com/view.php?ud=202607280724226794e7e8286d56_1",
+  "http://coinreaders.com/249842"
  ],
  "seen_titles": [
-  "젠슨황\"코스피다시오를것\"…이재명과'맥주회동'서나온낙관론",
-  "이대통령\"한미,스타트업동맹으로...'다음세대삼성'만들어야\"",
-  "단일종목레버리지규제앞당겨시행,증시변동성진정기대",
-  "[은행가",
-  "李대통령,美실리콘밸리벤처투자사들에“다음세대삼성함께만들...",
-  "李대통령\"한미협력넓혀'다음세대삼성·현대·SK·네이버'만들자\"",
-  "“다음세대삼성함께만들자”…李,실리콘밸리서美VC에한국투자...",
-  "SKT,스타트업3곳에독자AI모델API지원한다",
-  "젠슨황\"한국은AI황금기\"…인프라거점구상",
   "SK텔레콤,독자AI모델첫외부개방…스타트업과'소버린AI생태계'키...",
   "李,실리콘밸리VC만나“다음세대의삼성,현대,SK,네이버만들수...",
   "SK,미실리콘밸서빅테크와맞손…글로벌AI인프라영토확장",
@@ -6001,7 +5992,16 @@
   "[뉴욕증시-1보]예전만못한엔비디아투심…혼조마감",
   "중국CXMT상장파장SK하이닉스·마이크론·샌디스크하락",
   "유가급락에도반도체주'와르르'…나스닥약세[뉴욕증시브리핑]",
-  "[뉴욕증시]이란협상·AI불안감에혼조세…다우0.5%↑·나스닥0.2%↓"
+  "[뉴욕증시]이란협상·AI불안감에혼조세…다우0.5%↑·나스닥0.2%↓",
+  "유가8%폭락에도반도체쇼크…뉴욕증시,빅테크실적경계감에혼조...",
+  "뉴욕증시,유가급락에도반도체약세로혼조마감",
+  "뉴욕증시,국제유가급락과반도체주약세등영향혼조세⋯애플1%대,...",
+  "뉴욕증시,반도체주하락에혼조세나스닥0.18%↓...국제유가WTI7.5%급...",
+  "CXMT상장첫날466%폭등…\"한국메모리양강위협\"",
+  "[뉴욕증시마감]유가급락에도엔비디아5%↓…3대지수혼조",
+  "[마켓프리뷰]상승출발한코스피,장중등락끝겨우강보합마감",
+  "美마이크론,AI메모리특허침해소송…500억달러보이시공장차질...",
+  "코인거래소새먹거리된‘주식토큰’…침체된시장의탈출구될까"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,21 @@
   [
    "2026-07-28T07:11:30.844589+09:00",
    "major in Top Korean headlines newspapers"
+  ],
+  [
+   "2026-07-28T07:30:44.084630+09:00",
+   "출발한 등락 장중 상승 코스피 마감 강보합 겨우"
+  ],
+  [
+   "2026-07-28T07:30:44.084630+09:00",
+   "마이크론 AI 메모리 특허침해 소송 달러 500억 보이시 차질 공장"
+  ],
+  [
+   "2026-07-28T07:30:44.084630+09:00",
+   "될까 침체된 토큰 주식 시장의 탈출구 코인거래소 먹거리"
   ]
  ],
- "last_run": "2026-07-28T07:21:08.738354+09:00",
+ "last_run": "2026-07-28T07:30:55.757147+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
