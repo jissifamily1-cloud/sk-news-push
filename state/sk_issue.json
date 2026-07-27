@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=572287&class=7",
-  "https://www.ajunews.com/view/20260721114111222",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425991",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=59306",
-  "https://www.segye.com/newsView/20260721510544?OutUrl=naver",
-  "https://www.taxtimes.co.kr/news/article.html?no=276072",
-  "https://www.news1.kr/economy/trend/6233952",
   "https://www.newspim.com/news/view/20260721000613",
   "https://www.yna.co.kr/view/AKR20260721074800002?input=1195m",
   "http://www.joseilbo.com/news/news_read.php?uid=572290&class=32",
@@ -2999,16 +2992,16 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717939",
   "https://www.mt.co.kr/society/2026/07/27/2026072714533271199",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03598166645518784",
-  "https://www.m-i.kr/news/articleView.html?idxno=1395706"
+  "https://www.m-i.kr/news/articleView.html?idxno=1395706",
+  "https://www.ddaily.co.kr/page/view/2026072714472187656",
+  "https://www.thepublic.kr/news/articleView.html?idxno=312736",
+  "https://www.newsen.com/news_view.php?uid=202607271502071910",
+  "https://www.seoul.co.kr/news/society/2026/07/27/20260727500188?wlog_tag3=naver",
+  "https://www.pennmike.com/news/articleView.html?idxno=124464",
+  "https://www.thepublic.kr/news/articleView.html?idxno=312737",
+  "https://www.news1.kr/society/court-prosecution/6239869"
  ],
  "seen_titles": [
-  "국세청체납관리단2차채용…기간제근로자4000명모집",
-  "국세청,기간제근로자4000명채용…체납관리강화·일자리창출",
-  "국세청,국세외수입체납관리단4천명2차채용…10월부터활동",
-  "국세청,'국세외체납관리단'4천명2차채용…'국세'62명도뽑는다",
-  "수백만원내고한국어시험대리시험,전자장비동원까지…부정행위로...",
-  "'월급270만원'체납관리단가장많이뽑는곳은?…동화성·파주세무서...",
-  "국세청,국세외체납관리단4000명2차채용…연내7000명체제로",
   "경찰,농협중앙회재압수수색…공금으로2억원기념품구매의혹",
   "국세청,'국세외'체납실태확인기간제2차채용…4천명선발",
   "\"장윤기사건,국수본지침따라\"당시경찰관들증언...검경,국수본압...",
@@ -6001,7 +5994,14 @@
   "공정위,'2026가맹분야실태조사'…가맹제도점검",
   "종합특검,'김건희수사무마'관련법무부·대검·중앙지검추가압수수...",
   "특검,'도이치수사무마'법무부·대검압수수색…차주원희룡2차조사",
-  "특검,대검·법무부추가압수수색…'도이치수사무마의혹'추적"
+  "특검,대검·법무부추가압수수색…'도이치수사무마의혹'추적",
+  "네이버-두나무‘빅딜’규제부담덜었다…12월주식교환‘청신호’",
+  "'이지더원'라인건설,조사들어가자부랴부랴11억지급…공정위,'시정...",
+  "가지산서숨진채발견된미모의여대생,용의자만20명범인은반전(스...",
+  "전북경찰청,고창군수전캠프관계자구속",
+  "[펜앤현장]장동혁\"서울시선관위도'재선거필요성'인정,득표율도조...",
+  "대형손보4사자동차보험,6년만에적자전환…상반기1890억원손실",
+  "[일지]20대대선부터尹선거법위반1심유죄선고까지"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "과장광고 대법원 KT 5G 불복 상고 속도 판결에"
   ]
  ],
- "last_run": "2026-07-27T15:01:17.892006+09:00",
+ "last_run": "2026-07-27T15:10:49.842940+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
