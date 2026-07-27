@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.socialvalue.kr/news/view/1065612173412825",
-  "https://www.g-enews.com/view.php?ud=20260722204831513ea14faf6f5_1",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280225",
-  "https://www.mk.co.kr/article/12101369",
-  "https://www.catchnews.kr/news/articleView.html?idxno=122891",
-  "https://www.mk.co.kr/article/12019062",
-  "https://www.the-today.com/news/articleView.html?idxno=87777",
   "http://www.yonhapnewstv.co.kr/news/MYH20260722205906DvT",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=04532966645416776",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=261147",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3612955",
   "http://www.seouleconews.com/news/articleView.html?idxno=91920",
   "https://www.nocutnews.co.kr/news/6553557",
-  "https://www.mediapen.com/news/view/1112376"
+  "https://www.mediapen.com/news/view/1112376",
+  "https://www.naeil.com/news/read/592524",
+  "http://woman.chosun.com/news/articleView.html?idxno=126128",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6142",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=236528",
+  "https://www.the-today.com/news/articleView.html?idxno=86812",
+  "https://www.seoulfn.com/news/articleView.html?idxno=631492",
+  "https://kpenews.com/View.aspx?No=4118134"
  ],
  "seen_titles": [
-  "이재명대통령,AI글로벌리더들과샌프란시스코회담…기술혁신협력...",
-  "안민석교육감도\"교육교부금축소반대\"",
-  "한국여성경제인협회경남지회창립27주년기념식",
-  "'마약파문'5년만에…SK장손최영근,지주사헤리티지팀장으로복귀",
-  "‘SK家장손’최영근씨,5년만에그룹지주사로복귀",
-  "SK창업주장손최영근씨,5년만에그룹지주사로복귀",
-  "李대통령,美·남미3개국순방…젠슨황,샘올트먼만난다",
   "[미리보는이데일리신문]프로그램매매폭증급등락장불질렀다",
   "이재용·최태원·정의선·이해진,美빅테크수장과회동…샌프란시스코...",
   "李대통령,미·남미순방서젠슨황·올트먼만난다",
@@ -6001,7 +5994,14 @@
   "건국대등충북대학,베트남현지서유학생지원·교류협력강화",
   "'SK가장손'최영근씨,5년만에그룹지주사로복귀",
   "손수호\"9440억원재산분할,그래도최태원판정승이유는?\"",
-  "SK하이닉스'사상최대실적'전망속연기금집중매수…주가는?"
+  "SK하이닉스'사상최대실적'전망속연기금집중매수…주가는?",
+  "SK창업주장손최영근,5년만에그룹복귀",
+  "SK그룹창업주3세최영근씨,5년만에지주사복귀",
+  "SK장손87년생최영근,5년만에그룹복귀",
+  "[이지人]SK家장손최영근씨,5년만에그룹지주사복귀",
+  "\"마약전력도오너가면복귀가능?\"…최영근SK지주사팀장복귀에형...",
+  "'SK家장손'최영근,5년만에그룹지주사복귀",
+  "‘창업주장손’최영근,5년만에SK복귀..문화·프로그램기획운영"
  ],
  "recent_sigs": [
   [
@@ -6161,7 +6161,7 @@
    "집중 실적 연기금 주가는 SK하이닉스 매수 전망 사상"
   ]
  ],
- "last_run": "2026-07-27T10:40:28.484919+09:00",
+ "last_run": "2026-07-27T10:50:24.789549+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
