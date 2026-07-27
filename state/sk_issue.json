@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=572318&class=32",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096219",
-  "https://www.khan.co.kr/article/202607211713001",
-  "https://www.kyeonggi.com/article/20260721580437",
-  "https://www.busan.com/view/busan/view.php?code=2026072117050751035",
-  "http://www.breaknews.com/1223247",
-  "http://www.inews24.com/view/1987419",
   "https://www.thisisgame.com/articles/427993",
   "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026072100071&story_seq=0&soCode=114&socttSn=NS2026072100071&socttSeq=0",
   "https://www.hani.co.kr/arti/opinion/column/1269276.html",
@@ -2999,16 +2992,16 @@
   "https://www.seoul.co.kr/news/society/accident/2026/07/27/20260727500261?wlog_tag3=naver",
   "http://www.yonhapnewstv.co.kr/news/AKR20260727191819VuC",
   "https://www.hani.co.kr/arti/area/honam/1270206.html",
-  "http://www.jndn.com/article.php?aid=1785147176436761005"
+  "http://www.jndn.com/article.php?aid=1785147176436761005",
+  "https://www.mt.co.kr/society/2026/07/27/2026072719193164473",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1090541",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208559",
+  "https://www.newsis.com/view/NISX20260727_0003725432",
+  "https://www.khan.co.kr/article/202607271921001",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621158",
+  "https://imnews.imbc.com/news/2026/society/article/6840421_36918.html"
  ],
  "seen_titles": [
-  "구속된유병호,윤석열'두목'지칭…'타이거파가잘하자'메모도",
-  "'장윤기부실수사의혹'전형사과장영장심사...구속기로",
-  "장윤기사건,국수본으로번지나···검·경압수수색에커지는경찰부...",
-  "\"세금으로배우자해외여행\"논란…노태악,4천700만원뒤늦게반납",
-  "‘국세외수입체납관리단’4000명채용…급여시간당1만2250원",
-  "여름감기인줄알았는데...질병관리청이경고한레지오넬라증급증,‘...",
-  "미래에셋,코빗에79억추가투입…지분율92.06%→97.15%",
   "겉은인디게임,속은악성코드?3억원탈취한미국20대검거",
   "주요사건마다부실논란...충북경찰수사력도마",
   "보완수사권과‘유능한’검찰[전국프리즘]",
@@ -6001,7 +5994,14 @@
   "“경찰父가또증거인멸”…‘여교사불법촬영’아들휴대폰부쉈다...",
   "현직경찰관이아들의범죄증거인멸의혹…전북경찰,수사착수",
   "불법촬영수사받던아들휴대전화폐기…현직경찰관증거인멸수사",
-  "경찰직협“‘강간살인’검토수사보고서,검찰공개를”"
+  "경찰직협“‘강간살인’검토수사보고서,검찰공개를”",
+  "10대아들'교사불법촬영'걸리자…휴대전화부순경찰관아빠",
+  "천안교도소실탄40발부족확인…전국전수조사서드러나경찰수사의...",
+  "'불법촬영'신고당한아들감싸려했나⋯휴대전화부수고버린경찰",
+  "마약'야바'유통·투약…불법체류태국인2명검거",
+  "‘불법촬영’아들휴대전화폐기한경찰간부···전북경찰,증거인멸...",
+  "‘정치자금법위반혐의’심덕섭군수전캠프관계자구속",
+  "경찰이'불법촬영혐의'아들휴대전화폐기의혹‥'수사착수'"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "과장광고 대법원 KT 5G 불복 상고 속도 판결에"
   ]
  ],
- "last_run": "2026-07-27T19:20:55.086255+09:00",
+ "last_run": "2026-07-27T19:31:00.940873+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
