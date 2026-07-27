@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2346196.htm",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123496",
-  "https://www.gokorea.kr/news/articleView.html?idxno=872874",
-  "https://www.newsis.com/view/NISX20260723_0003719860",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207667",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607091323319480105325",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=47523",
   "https://biz.heraldcorp.com/article/10817683",
@@ -2999,14 +2994,14 @@
   "http://www.fnnews.com/news/202607271749595355",
   "http://www.yonhapnewstv.co.kr/news/AKR20260727175015wWm",
   "https://www.hankyung.com/article/2026072789861",
-  "https://www.hankyung.com/article/2026072789761"
+  "https://www.hankyung.com/article/2026072789761",
+  "https://www.sedaily.com/article/20070874",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=83735",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208517",
+  "https://www.newsway.co.kr/news/view?ud=2026072717535640014",
+  "https://www.sedaily.com/article/20072475"
  ],
  "seen_titles": [
-  "건설채빙하기뚫은SK에코플랜트,시장선택받은이유는",
-  "李대통령,샘올트먼·젠슨황잇달아만난다",
-  "사회성과보상국제검증…SPC,사회적기업성장선순환이끌어",
-  "[전혜은시선]'N%성과급'정면충돌…노사합의에서법적공방으로번...",
-  "SPC,연구SSCI등재…사회성과보상정책효과국제적검증",
   "반도체초과이익배분놓고노동자·경영계·주주'동상이몽'...합의가...",
   "[뉴공아카이브]이해민조국혁신당의원,박태웅녹서포럼의장·국가AI...",
   "이정윤의댄스살롱…올해는‘신성’으로만난다",
@@ -6001,7 +5996,12 @@
   "'韓황금기견인'이재용·최태원,샌프란시스코이어시칠리아로이동",
   "이재용·최태원,샌프란이어시칠리아로…구글캠프참석",
   "美'원투펀치'에쓰러진日NEC·도시바…삼전닉스에재연될까",
-  "40년전日처럼…韓반도체평행이론?"
+  "40년전日처럼…韓반도체평행이론?",
+  "피닉스랩,800만달러투자라운드진행…바이오파마시장공략속도",
+  "SK실트론매각협상7개월만에분수령…31일SK이사회주목",
+  "이재용·최태원,미국찍고이탈리아로⋯전세계테크CEO모임참석",
+  "이재용·최태원,美이어시칠리아…'구글캠프'서AI동맹확대",
+  "美샌프란이어시칠리아로…이재용·최태원,비공개‘구글캠프’출..."
  ],
  "recent_sigs": [
   [
@@ -6161,7 +6161,7 @@
    "평행이론 처럼 반도체 40년전"
   ]
  ],
- "last_run": "2026-07-27T18:00:49.634269+09:00",
+ "last_run": "2026-07-27T18:10:28.292681+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
