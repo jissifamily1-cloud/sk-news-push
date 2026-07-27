@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260723215325wmp",
-  "https://www.ktv.go.kr/content/view?content_id=758273",
   "https://www.newsis.com/view/NISX20260701_0003691120",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51182",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606300336&t=NNv",
@@ -2999,11 +2997,11 @@
   "http://www.issuenbiz.com/news/articleView.html?idxno=78177",
   "https://newscham.net/articles/117000",
   "https://www.slist.kr/news/articleView.html?idxno=754622",
-  "https://www.ajunews.com/view/20260727094652728"
+  "https://www.ajunews.com/view/20260727094652728",
+  "https://www.betanews.net/article/view/beta202607270037",
+  "https://www.bloter.net/news/articleView.html?idxno=669084"
  ],
  "seen_titles": [
-  "'665억→1조3808억'최태원·노소영이혼재산분할오늘결론",
-  "李대통령,'7박11일'美·남미순방위해출국…'AI어벤져스'8명총집...",
   "몇백억?몇천억?최태원-노소영'세기의이혼'재산분할결과오늘나온...",
   "[사설]일본식부동산거품우려,李대통령인식타당하다",
   "7.4조로불어난재산...최태원,'세기의이혼'소송결말,외신도주목",
@@ -6001,7 +5999,9 @@
   "[김성욱의세상과시간]부품의가격에서기억의가치로",
   "발인을미룬아버지,멈추지않는공장",
   "이재용·최태원,美샌프란이어伊시칠리아로…구글캠프참석",
-  "[경제일보]메모리넘어AI연산허브로…네이버·SKAI패권전뛰어들다"
+  "[경제일보]메모리넘어AI연산허브로…네이버·SKAI패권전뛰어들다",
+  "최태원SK회장의'AI풀스택'승부수...신년사구상,반년만에실행으...",
+  "[하이닉스렌즈로본SK]①SK실트론매각지연…쏠리는눈"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,17 @@
   [
    "2026-07-28T08:00:28.024345+09:00",
    "메모리 네이버 AI 뛰어들다 연산 허브로 넘어 패권전"
+  ],
+  [
+   "2026-07-28T08:10:13.495118+09:00",
+   "회장의 반년 신년사 승부수 풀스택 만에 실행으 구상 AI"
+  ],
+  [
+   "2026-07-28T08:10:13.495118+09:00",
+   "매각 SK실트론 쏠리는 지연"
   ]
  ],
- "last_run": "2026-07-28T08:00:43.109507+09:00",
+ "last_run": "2026-07-28T08:10:32.963627+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6313,6 +6321,7 @@
   "joongdo.co.kr": "중도일보",
   "wikileaks-kr.org": "위키리크스한국",
   "kfenews.co.kr": "한국금융경제신문",
-  "issuenbiz.com": "이슈앤비즈"
+  "issuenbiz.com": "이슈앤비즈",
+  "betanews.net": "베타뉴스"
  }
 }
