@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260723084619",
-  "https://www.etoday.co.kr/news/view/2606473",
-  "https://www.ajunews.com/view/20260723083622307",
-  "https://view.asiae.co.kr/article/2026072308533030546",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155404",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=82131",
   "https://www.yna.co.kr/view/AKR20260723035100003?input=1195m",
   "https://www.dailian.co.kr/news/view/1669903/?sc=Naver",
   "https://biz.heraldcorp.com/article/10817272",
@@ -2999,15 +2993,15 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=443231",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336051",
   "https://www.dailysecu.com/news/articleView.html?idxno=207784",
-  "https://www.hankyung.com/article/2026072773271"
+  "https://www.hankyung.com/article/2026072773271",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023271",
+  "https://www.newsway.co.kr/news/view?ud=2026072715033644493",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238001",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280381",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044786",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03821206645518784"
  ],
  "seen_titles": [
-  "“삼전닉스언제날개펴나”…롤러코스터주가에속타는개미들",
-  "SK하이닉스성과급바뀌나…자사주지급안에‘술렁’",
-  "이대통령미국서빅테크CEO만나\"AI협력\"",
-  "샌프란서'빅테크CEO'만난다…'깜짝발표'나올까?",
-  "미국판'깐부회동'‥이번엔이대통령이계산?",
-  "[인사이드스토리]SK는왜아직실트론을못팔고있나",
   "'1인당6억'예상되는데…현금과자사주사이줄다리기",
   "'삼전·닉스'주가롤러코스터…셈법복잡해지는개미들",
   "[청와대스케치]李대통령“의료수가제도,정말제대로책정돼있느...",
@@ -6001,13 +5995,15 @@
   "SK현대차네이버등한국기업과엔비디아협력은'윈-윈'외신평가,...",
   "美샌프란시스코\"우리는식구다\"에여의도는'극과극'",
   "오픈AI,이재명대통령·삼성·SK와연쇄회동…한국AI인프라협력강...",
-  "메가프로젝트앞둔SK텔레콤,AI데이터센터전문회사세운다"
+  "메가프로젝트앞둔SK텔레콤,AI데이터센터전문회사세운다",
+  "[데스크칼럼]최신원'무보수'의환상과'희망퇴직'의역설…SK네트웍...",
+  "'AI시대'다른꿈꾸는이재용·최태원…삼성은AI플랫폼,SK는HBM집중",
+  "'SK실트론매각'결단임박…SK이사회시선쏠려",
+  "노소영·최태원다음은‘스마일게이트’…8조재산분할선고방향은?",
+  "이재용·최태원,이탈리아행…구글캠프서AI논의지속",
+  "반도체'피크아웃'논쟁…증권가\"이익체질이바뀌고있다\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T10:10:15.444108+09:00",
-   "순방길 대통령 이틀 비행기에서 이재명 밤을 2막에 들어선"
-  ],
   [
    "2026-07-27T10:20:13.179852+09:00",
    "Now colonial Envelope of Korea Yellow curse rule overcame comes the"
@@ -6139,9 +6135,13 @@
   [
    "2026-07-27T16:00:27.334988+09:00",
    "메가프로젝트 SK텔레콤 AI 세운다 전문회사 데이터센터 앞둔"
+  ],
+  [
+   "2026-07-27T16:10:16.107347+09:00",
+   "증권가 피크아웃 있다 이익체질이 반도체 논쟁 바뀌고"
   ]
  ],
- "last_run": "2026-07-27T16:00:41.068977+09:00",
+ "last_run": "2026-07-27T16:10:27.990571+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
