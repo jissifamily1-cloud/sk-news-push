@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000098035",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=786696",
-  "http://www.popcornnews.net/news/articleView.html?idxno=127395",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60490",
-  "http://www.ddanzi.com/890130083",
   "https://www.busan.com/view/busan/view.php?code=2026072201023023168",
   "http://www.newsdream.kr/news/articleView.html?idxno=114918",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312901",
@@ -2999,14 +2994,14 @@
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079411",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=47659",
   "https://bizhankook.com/articles/us-tech-korea-chip-partnership.html",
-  "https://www.dt.co.kr/article/12075047"
+  "https://www.dt.co.kr/article/12075047",
+  "https://www.mydaily.co.kr/page/view/2026072717320936007",
+  "https://www.newspim.com/news/view/20260727001297",
+  "https://www.ajunews.com/view/20260727172242934",
+  "https://www.newspim.com/news/view/20260727001072",
+  "https://www.kado.net/news/articleView.html?idxno=2063357"
  ],
  "seen_titles": [
-  "이재명대통령,24일부터8월3일까지미·브라질·칠레·아르헨티나·독...",
-  "2026미스인터내셔널·미스그랜드코리아성료,대한민국대표세계무대...",
-  "SK최태원회장제안SPC연구국제SSCI학술지게재",
-  "'SK네트웍스투자'피닉스랩,120억규모투자라운드진행",
-  "사회성과인센티브사회·경제성과동반성장확인",
   "이승우,숏폼찍는이유공개…'라스'최고의1분",
   "[이로운분석]사회성과·경제성과선순환구조확인...SPC효과국제학술...",
   "세계무대누빌K-여성리더탄생...'2026미스인터내셔널·그랜드코...",
@@ -6001,13 +5996,14 @@
   "[만나GO]김상훈,장동혁거취부터TK현안까지작심발언",
   "SK실트론매각협상7개월만에마침표찍나…반도체·이사회변수",
   "브로드컴은삼성,엔비디아는SK·네이버…미국빅테크-한국기업'퍼즐...",
-  "이재용·최태원,이번엔시칠리아行…구글캠프서AI협력넓힌다"
+  "이재용·최태원,이번엔시칠리아行…구글캠프서AI협력넓힌다",
+  "이재용·최태원,美이어이탈리아로…글로벌AI동맹확장",
+  "이재용·최태원,美이어시칠리아行…글로벌빅테크협력넓힌다",
+  "이재용·최태원,美이어이탈리아'구글캠프'집결…빅테크AI동맹속...",
+  "SK하이닉스ADR덕에한숨돌린환율…'달러공급'끝나면어쩌나",
+  "이재용·최태원,구글캠프참석…샌프란이어나란히시칠리아로"
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T11:40:14.693154+09:00",
-   "네이버 엔비디아 이해진 AI 통했다 투자 업고 승부수 시장 공략 인프라"
-  ],
   [
    "2026-07-27T12:00:27.831536+09:00",
    "기업 시대의 있을까 정의선 현대차는 100년"
@@ -6143,9 +6139,17 @@
   [
    "2026-07-27T17:30:22.146891+09:00",
    "AI 캠프서 구글 넓힌다 이번엔 이재용 시칠리아 협력"
+  ],
+  [
+   "2026-07-27T17:40:14.839437+09:00",
+   "달러 SK하이닉스 덕에 한숨 어쩌나 ADR 끝나면 돌린 환율 공급"
+  ],
+  [
+   "2026-07-27T17:40:14.839437+09:00",
+   "샌프란 이재용 참석 이어 나란히 시칠리아로 구글캠프"
   ]
  ],
- "last_run": "2026-07-27T17:30:37.556251+09:00",
+ "last_run": "2026-07-27T17:40:29.423583+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
