@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264859",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=78086",
-  "https://www.dt.co.kr/article/12074316",
-  "https://magazine.hankyung.com/business/article/202607231178b",
-  "https://www.ajunews.com/view/20260723092841420",
   "https://www.redian.org/news/articleView.html?idxno=256993",
   "https://www.ddaily.co.kr/page/view/2026072218154985380",
   "https://www.sedaily.com/article/20070874",
@@ -2999,14 +2994,14 @@
   "https://biz.sbs.co.kr/article_hub/20000324879?division=NAVER",
   "https://www.news2day.co.kr/article/20260727500109",
   "https://www.mediawatch.kr/news/article.html?no=260481",
-  "https://www.joongangenews.com/news/articleView.html?idxno=535751"
+  "https://www.joongangenews.com/news/articleView.html?idxno=535751",
+  "https://www.bzeronews.com/news/articleView.html?idxno=820572",
+  "https://hbnpress.com/news/view/1065599185531838",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6407",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16176",
+  "https://view.asiae.co.kr/article/2026072717072324323"
  ],
  "seen_titles": [
-  "최태원제안SPC,국제학술지서효과검증…사회성과보상하니성장",
-  "이재용·정의선,젠슨황주도AI네트워크합류…11월글로벌AI전략논...",
-  "최태원이제안한'사회성과보상'입증...SPC효과국제학술지게재",
-  "최태원SK회장제안'SPC연구',국제SSCI학술지게재",
-  "\"사회적가치에보상하면기업도성장\"…SK사회성과인센티브효과국...",
   "CSES지원'사회성과인센티브'효과,국제SSCI학술지게재",
   "SK사회성과보상모델선순환효과연구국제학술지게재",
   "최태원제안'SPC'선순환효과,국제학술지서확인",
@@ -6001,7 +5996,12 @@
   "[증시인사이트]외국인매도에도개인·기관순매수에코스피상승",
   "[2026비자발적고립청년일경험캠프(15)]진로찾는비자발적고립청년...",
   "SK그룹,글로벌빅테크들과1100조AI동맹…HBM·데이터센터·팩토리총...",
-  "삼성이재용·SK최태원,AI서밋이어'구글캠프'동행…빅테크협력..."
+  "삼성이재용·SK최태원,AI서밋이어'구글캠프'동행…빅테크협력...",
+  "충북제조업한눈에담았다···'충북제조업의위상과현황지도'개정...",
+  "최태원SK회장재산분할현금9440억확보...4가지경우의수는",
+  "[줌인]\"째깍째깍하루1.3억\"...최태원회장이혼비용마련시나리오는...",
+  "'최악'면한최태원...재원마련가능하지만'지배구조리스크'불똥",
+  "[단독]\"삼성전자내려보겠다\"…강남르메르디앙호텔자리에SK하이닉스..."
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,17 @@
   [
    "2026-07-27T16:51:51.076561+09:00",
    "매도에도 개인 상승 코스피 순매수에 기관 외국인"
+  ],
+  [
+   "2026-07-27T17:10:13.686797+09:00",
+   "르메르디앙 강남 자리에 내려보겠다 SK하이닉스 호텔 삼성전자"
+  ],
+  [
+   "2026-07-27T17:10:13.686797+09:00",
+   "리스크 지배구조 마련 불똥 가능하지만 최악 면한 재원"
   ]
  ],
- "last_run": "2026-07-27T17:00:41.963990+09:00",
+ "last_run": "2026-07-27T17:10:31.812382+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
