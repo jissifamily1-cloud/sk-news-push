@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=724875",
-  "https://www.mt.co.kr/industry/2026/07/23/2026072308323826075",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273443",
   "http://www.breaknews.com/1223698",
   "https://www.cnbnews.com/news/articleView.html?idxno=1008891",
   "https://www.handmk.com/news/articleView.html?idxno=41560",
@@ -2999,12 +2996,12 @@
   "http://www.newsworker.co.kr/news/articleView.html?idxno=438455",
   "https://zdnet.co.kr/view/?no=20260727153321",
   "https://www.newsis.com/view/NISX20260727_0003725075",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142118"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142118",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661297",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045029",
+  "https://www.g-enews.com/view.php?ud=20260727145110542627fa31d75c_1"
  ],
  "seen_titles": [
-  "AI가깨운'은둔의경영자'…네이버이해진,경영전면서광폭행보",
-  "“하이닉스,인텔오하이오공장인수아닌협력가능성”",
-  "SK하이닉스,'사업적자해행위'하면안된다[반도체특별과외]",
   "[단독]이재용·정의선,젠슨황주도글로벌AI리더모임자문위원위촉...",
   "K-반도체·AI동맹,실리콘밸리총집결…'AI거인들의회동'열린다",
   "팹만옮기면반도체지방이전성공할까...관건은소부장생태계",
@@ -6001,21 +5998,12 @@
   "두산에넘길까그냥품을까…7개월표류한SK실트론매각31일이사회안...",
   "AI외교첫발뗀정부...투자·생태계구축실행력에관심",
   "\"우리는식구\"이재용·최태원,美샌프란이어伊구글캠프까지'AI동행...",
-  "K-테크,샌프란시스코AI서밋'1390조잭팟'…큰그림완성할'넥스트..."
+  "K-테크,샌프란시스코AI서밋'1390조잭팟'…큰그림완성할'넥스트...",
+  "[기획]최태원·권혁빈의법정,이재용·정용진의결단…'재벌가이혼'이...",
+  "[신아일보tv]세기의재산분할",
+  "AI패권·반도체초격차굳히기나선삼성·SK…빅테크공급망전면에"
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T10:30:22.012756+09:00",
-   "주가 재산분할 자금조달 충분 급등 9440억 여력"
-  ],
-  [
-   "2026-07-27T10:30:22.012756+09:00",
-   "2분기 60조원대 번다 상반기만 예상 100조 SK하이닉스 영업이익"
-  ],
-  [
-   "2026-07-27T10:30:22.012756+09:00",
-   "참여 고등 놀자캠프 성료 대학생 티앤씨재단"
-  ],
   [
    "2026-07-27T10:40:13.585533+09:00",
    "그래도 손수호 판정승 재산분할 9440억원 이유는"
@@ -6139,9 +6127,21 @@
   [
    "2026-07-27T16:20:14.545317+09:00",
    "AI 완성할 넥스트 그림 1390조 샌프란시스코 테크 서밋 잭팟"
+  ],
+  [
+   "2026-07-27T16:30:23.583735+09:00",
+   "이혼 권혁빈의 법정 재벌가 정용진의 결단 이재용"
+  ],
+  [
+   "2026-07-27T16:30:23.583735+09:00",
+   "전면에 반도체 굳히기 AI패권 빅테크 삼성 공급망 나선 초격차"
+  ],
+  [
+   "2026-07-27T16:30:23.583735+09:00",
+   "세기의 재산분할"
   ]
  ],
- "last_run": "2026-07-27T16:20:26.994748+09:00",
+ "last_run": "2026-07-27T16:30:44.539414+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6411,6 +6411,7 @@
   "ppss.kr": "ㅍㅍㅅㅅ PPSS",
   "intn.co.kr": "日刊 NTN(일간NTN)",
   "joongdo.co.kr": "중도일보",
-  "wikileaks-kr.org": "위키리크스한국"
+  "wikileaks-kr.org": "위키리크스한국",
+  "kfenews.co.kr": "한국금융경제신문"
  }
 }
