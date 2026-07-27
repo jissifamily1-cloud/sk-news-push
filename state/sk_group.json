@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260726500002",
-  "https://www.ajunews.com/view/20260726080610504",
-  "https://www.newsway.co.kr/news/view?ud=2026072415384520608",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000052256",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260726081610U5p",
   "https://www.etoday.co.kr/news/view/2607430",
   "https://www.chosun.com/politics/politics_general/2026/07/26/WWPWBUP5IRC6RCCA7WWSY32URU/",
   "https://kpenews.com/View.aspx?No=4162211",
@@ -2999,14 +2994,14 @@
   "https://www.sidae.com/article/2026072714524082808",
   "https://www.khan.co.kr/article/202607280600051",
   "https://www.newsis.com/view/NISX20260727_0003725208",
-  "https://www.mt.co.kr/opinion/2026/07/28/2026072311070724340"
+  "https://www.mt.co.kr/opinion/2026/07/28/2026072311070724340",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260728061144DDJ",
+  "https://www.ytn.co.kr/_ln/0104_202607280608592154",
+  "https://www.etoday.co.kr/news/view/2607929",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427140",
+  "http://www.fnnews.com/news/202607280544272200"
  ],
  "seen_titles": [
-  "이재명대통령\"한미,안보동맹넘어혁신·스타트업동맹\"",
-  "李대통령\"한·미,스타트업동맹으로\"…국민연금·美6개VC와MOU체결",
-  "STO플랫폼선점전불붙은증권업계…상품화는'숙제'",
-  "이대통령\"한국,세계에서가장투자·창업하기좋은환경만들것\"",
-  "이대통령\"대한민국,세계서가장투자·창업하기좋은환경만들것\"",
   "이대통령,실리콘밸리VC에\"다음세대삼성·현대·SK만들자\"",
   "李대통령“한미,안보동맹넘어‘스타트업동맹’으로지평넓혀야”",
   "SK,'5000억달러'AI생태계구축..엔비디아·MS·앤트로픽과인프라합...",
@@ -6001,7 +5996,12 @@
   "정제마진강세에정유4사실적2분기'맑음'…하반기'먹구름'",
   "30%가까이떨어진코스피“V자회복어렵다”…‘L자형박스피’갇히...",
   "\"믿을건실적뿐\"…역대급성적표로반등모멘텀잡을까",
-  "[유효상칼럼]왜국민연금은'고래의딜레마(TheWhale'sDilemma)'에빠졌..."
+  "[유효상칼럼]왜국민연금은'고래의딜레마(TheWhale'sDilemma)'에빠졌...",
+  "뉴욕증시,국제유가급락속혼조마감…반도체주하락",
+  "데뷔첫날중국'시총1위'창신메모리...\"빅3위협\"vs\"기술격차\"",
+  "한달새1100조증발한삼전·하이닉스…9500억달러AI동맹,피크아웃공...",
+  "[뉴욕증시]예전만못한엔비디아투심…혼조마감",
+  "\"오르면반도체,내리면중동탓\"…그런데왜본주보다ETF가더거래될..."
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,21 @@
   [
    "2026-07-28T06:11:27.784596+09:00",
    "고래의 국민연금은 딜레마 빠졌 Dilemma The Whale"
+  ],
+  [
+   "2026-07-28T06:15:06.569609+09:00",
+   "삼전 하이닉스 1100조 피크아웃 AI동맹 한달새 9500억달러 증발한"
+  ],
+  [
+   "2026-07-28T06:15:06.569609+09:00",
+   "마감 엔비디아 예전만 혼조 투심 못한"
+  ],
+  [
+   "2026-07-28T06:15:06.569609+09:00",
+   "본주보다 중동 반도체 오르면 거래될 내리면 ETF가 그런데"
   ]
  ],
- "last_run": "2026-07-28T06:12:13.144911+09:00",
+ "last_run": "2026-07-28T06:15:17.807943+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
