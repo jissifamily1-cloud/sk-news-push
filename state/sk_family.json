@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260225_0003525588",
-  "https://www.nocutnews.co.kr/news/6476222",
   "https://www.ajunews.com/view/20260713172054230",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1065330",
   "https://www.newspim.com/news/view/20260723000433",
@@ -2999,11 +2997,11 @@
   "https://www.starnewskorea.com/broadcast-show/2026/07/28/2026072813081044372",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=251106",
   "https://www.polinews.co.kr/news/articleView.html?idxno=738282",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578743593696"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578743593696",
+  "https://www.mediapen.com/news/view/1112684",
+  "https://biz.sbs.co.kr/article_hub/20000325049?division=NAVER"
  ],
  "seen_titles": [
-  "“첨단산업에투자해야통합특별시재정20조효과극대화”",
-  "“통합특별시,지속성장행정·산업구조개선선결돼야”",
   "“통합특별시,20조투자극대화···핵심산업가치사슬연계가핵심”",
   "경산세명종합병원최성환이사장,국가보훈부장관표창수상영예",
   "\"전남광주특별시성공,'산업구조'재편에달려\"",
@@ -6001,7 +5999,9 @@
   "박지현\"목포서홍어6만마리손질했다\"눈가리고직접도전[라스]",
   "경영권걸린특유재산판결...최태원울고,이부진웃었다",
   "[전문]조정식의장\"개헌논의,내년에본궤도에올릴것\"…\"대통령연...",
-  "[메가Pick]AI동맹띄우고남미자원벨트로…이재명·재계총수,'반도..."
+  "[메가Pick]AI동맹띄우고남미자원벨트로…이재명·재계총수,'반도...",
+  "조정식,입법·개헌속도전...“본회의부의법안,회기내처리”",
+  "[직설]韓·美,AI동맹에도웃지못한코스피…中,CXMT등장이변수?"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-07-28T13:40:20.279444+09:00",
    "재계 반도 AI 띄우고 남미 총수 동맹 자원벨트로 이재명"
+  ],
+  [
+   "2026-07-28T13:50:18.813813+09:00",
+   "웃지 코스피 변수 CXMT 등장이 AI 동맹에도 못한"
   ]
  ],
- "last_run": "2026-07-28T13:40:37.273710+09:00",
+ "last_run": "2026-07-28T13:50:34.509979+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
