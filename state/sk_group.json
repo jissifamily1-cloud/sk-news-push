@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/economy_general/1270125.html",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1328165",
-  "http://news.lghellovision.net/news/articleView.html?idxno=549389",
-  "https://www.sentv.co.kr/article/view/sentv202607230115",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=859439",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848459",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03719526645518784",
-  "https://www.nocutnews.co.kr/news/6553860",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008676827&plink=ORI&cooper=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000324862?division=NAVER",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5296",
   "https://www.mt.co.kr/economy/2026/07/27/2026072715124676471",
   "http://www.fnnews.com/news/202607271339455244",
@@ -2999,19 +2989,19 @@
   "http://www.fnnews.com/news/202607290557567475",
   "https://biz.chosun.com/distribution/fashion-beauty/2026/07/29/CFVETPCAE5GQRAMCYA27RES4PQ/",
   "http://www.fnnews.com/news/202607282140525631",
-  "https://www.newspim.com/news/view/20260728001087"
+  "https://www.newspim.com/news/view/20260728001087",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607290154&t=NN",
+  "https://www.seoul.co.kr/news/economy/2026/07/29/20260729500010?wlog_tag3=naver",
+  "https://www.munhwa.com/article/11605638",
+  "https://www.newspim.com/news/view/20260729000035",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8622735",
+  "https://www.viewsnnews.com/article?q=237517",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=353820",
+  "https://biz.sbs.co.kr/article_hub/20000325219?division=NAVER",
+  "https://www.etoday.co.kr/news/view/2608393",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840786_37012.html"
  ],
  "seen_titles": [
-  "개인정보위,KT해킹과징금수위29일심의한다",
-  "SK하이닉스,대학생이일하고싶은기업2년연속1위",
-  "방미통위\"갤럭시Z8시리즈,지원금약속과장광고주의\"",
-  "SK이노베이션E&S,호주바로사가스전'초경질유'국내도입",
-  "SKT,고객참여형AI공모전…‘굿체인지’캠페인확대",
-  "중동불안속호주산초경질유들여온다…SK이노베이션E&S첫국내반입",
-  "[사설]용인클러스터조성피해정부가풀어야",
-  "[자막뉴스]해사대전이전?진해시민들반발",
-  "[기획]봇물터진대기업AIDC경쟁…원전13기규모전력은어떻게?",
-  "카카오뱅크노조파업현실화되나...인터넷뱅크업계'도미노파업'우...",
   "현대차그룹,청년역량강화프로그램'HINT'1기출범",
   "SK실트론,7개월만에매각결정난다…반도체초호황에몸값변수",
   "김용범\"美빅테크투자,상당히의미있어…무료'모두의AI'만든다\"",
@@ -6001,7 +5991,17 @@
   "李대통령\"브라질과차세대민항기개발…핵심광물성과기대\"",
   "[비즈톡톡]국빈선물된‘오휘’·‘설화수’…K뷰티,중남미로진격",
   "\"삼전닉스따라널뛰는日증시\"…닛케이\"리먼사태이후최대변동성...",
-  "코스피,25거래일만에34%폭락…\"당분간높은변동성유지\""
+  "코스피,25거래일만에34%폭락…\"당분간높은변동성유지\"",
+  "\"엔화지금사둘까\"...엔저에환전19개월만에'최대'",
+  "[서울데이터랩]미국증시혼조마감…다우1%상승,나스닥은하락",
+  "[속보]하닉ADR9%급락…반도체압박에나스닥하락",
+  "[미국특징주]AI반도체주투매확산…마이크론·SK하이닉스급락",
+  "한·브라질비즈니스라운드테이블…“시대적파트너,협력한단계더...",
+  "SK하이닉스ADR,마이크론또8%대급락",
+  "산업단지,각자도생에서공생으로",
+  "\"일본여행가볼까\"…엔화환전19개월만에최대",
+  "코스피11%폭락에서킷발동개미는'패닉'…전문가\"버블붕괴아니다\"...",
+  "장만열리면'사이드카'‥레버리지에출렁인다"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,33 @@
   [
    "2026-07-29T06:11:27.083587+09:00",
    "높은 만에 25거래일 당분간 폭락 변동성 유지 코스피"
+  ],
+  [
+   "2026-07-29T06:21:11.219905+09:00",
+   "비즈니스라운드테이블 브라질 단계 파트너 협력 시대적"
+  ],
+  [
+   "2026-07-29T06:21:11.219905+09:00",
+   "급락 마이크론 SK하이닉스 ADR"
+  ],
+  [
+   "2026-07-29T06:21:11.219905+09:00",
+   "공생으로 산업단지 각자도생에서"
+  ],
+  [
+   "2026-07-29T06:21:11.219905+09:00",
+   "일본 19개월 만에 환전 가볼까 여행 엔화"
+  ],
+  [
+   "2026-07-29T06:21:11.219905+09:00",
+   "버블붕괴 아니다 개미는 전문가 폭락에 패닉 서킷발동 코스피"
+  ],
+  [
+   "2026-07-29T06:21:11.219905+09:00",
+   "레버리지에 열리면 출렁인다 사이드카 장만"
   ]
  ],
- "last_run": "2026-07-29T06:12:16.383270+09:00",
+ "last_run": "2026-07-29T06:21:31.852892+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
