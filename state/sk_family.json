@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426577",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280277",
-  "https://biz.sbs.co.kr/article_hub/20000324354?division=NAVER",
-  "https://www.nocutnews.co.kr/news/6552687",
-  "https://hbnpress.com/news/view/1065565675123739",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490031.html",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6839754_37012.html",
   "https://view.asiae.co.kr/article/2026072407565783529",
@@ -2999,14 +2994,14 @@
   "https://www.newsway.co.kr/news/view?ud=2026072816132713054",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7176339",
   "https://www.newsgn.com/news/articleView.html?idxno=564825",
-  "https://shindonga.donga.com/3/all/13/6323209/1"
+  "https://shindonga.donga.com/3/all/13/6323209/1",
+  "https://www.dt.co.kr/article/12075249",
+  "https://www.kpinews.kr/newsView/1065600241637331",
+  "https://www.inews365.com/news/article.html?no=929628",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05182406645519112",
+  "https://www.the-today.com/news/articleView.html?idxno=87875"
  ],
  "seen_titles": [
-  "미리보는오늘",
-  "이재용·정의선,젠슨황·리라수등주도'글로벌AI포럼'자문위원...",
-  "[YTN실시간뉴스]\"보유세강화동의…정치적손해라도대비\"",
-  "[오늘의주요일정·24일]최태원노소영이혼소송파기환송심선고",
-  "[AM-PM]이대통령,美·남미3개국등순방…젠슨황만나外",
   "최태원·노소영'세기의재산분할'오늘선고…1조판결뒤집힐까",
   "7월24일굿모닝MBN주요뉴스",
   "최태원·노소영,‘재산분할’오늘최종결판나나…‘고공행진’SK...",
@@ -6001,7 +5996,12 @@
   "AI가바꾼SK실트론몸값…7개월새복잡해진매각셈법",
   "충남도의회,의원연구모임심의위원회구성…전문성강화나선다",
   "김해서제6차농촌진흥청치유농업포럼개최",
-  "기업투자,정치적으로결정하면경쟁력떨어진다"
+  "기업투자,정치적으로결정하면경쟁력떨어진다",
+  "[이규화칼럼]‘삼전하닉’에조여오는골든벨압박",
+  "남종섭의장,전남광주시의회의장과'지방의회법'조속제정논의",
+  "건국대글로컬캠,수시박람회참여…입시경쟁력다시입증",
+  "최태원\"AI팩토리가새시대핵심인프라…생태계조성기여할것\"",
+  "'선경'지웠지만'SK'는남았다…일본회사이름80년째승계왜?(1부)"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-07-28T17:10:15.281374+09:00",
    "결정하면 떨어진다 투자 정치적으로 기업 경쟁력"
+  ],
+  [
+   "2026-07-28T17:20:20.769357+09:00",
+   "인프라 생태계 조성 팩토리가 기여할 AI 시대 핵심"
+  ],
+  [
+   "2026-07-28T17:20:20.769357+09:00",
+   "선경 1부 회사 일본 80년째 이름 승계 남았다 지웠지만"
   ]
  ],
- "last_run": "2026-07-28T17:10:29.439889+09:00",
+ "last_run": "2026-07-28T17:20:38.378371+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
