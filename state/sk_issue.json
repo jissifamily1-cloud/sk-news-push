@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0115_202607221115542913",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=786421",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030144683&code=61121111&cp=nv",
-  "https://kjmbc.co.kr/NewsArticle/1528599",
-  "https://www.newspim.com/news/view/20260722000612",
-  "https://www.munhwa.com/article/11604197",
-  "https://www.dizzotv.com/site/data/html_dir/2026/07/22/2026072280078.html",
-  "https://www.fntimes.com/html/view.php?ud=2026072210064240170f4390e77d_18",
-  "https://www.newsis.com/view/NISX20260722_0003718397",
-  "https://www.korea.kr/briefing/actuallyView.do?newsId=148968560&call_from=naver_news",
   "https://www.dailian.co.kr/news/view/1669561/?sc=Naver",
   "https://www.ytn.co.kr/_ln/0115_202607221134293853",
   "https://www.news1.kr/local/jeonbuk/6235251",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/local/incheon/6241326",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045329",
   "https://www.kyeonggi.com/article/20260728580168",
-  "https://news.jtbc.co.kr/article/NB12310510?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12310510?influxDiv=NAVER",
+  "https://www.etoday.co.kr/news/view/2608287",
+  "http://www.iminju.net/news/articleView.html?idxno=167227",
+  "https://www.mydaily.co.kr/page/view/2026072813423404038",
+  "https://www.sejungilbo.com/news/articleView.html?idxno=59426",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030091",
+  "https://news.skbroadband.com/news/articleView.html?idxno=233312",
+  "https://www.kwnews.co.kr/article/20260728500733",
+  "https://www.m-i.kr/news/articleView.html?idxno=1396146",
+  "https://www.kado.net/news/articleView.html?idxno=2063528",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260728512&PRO_CODE=99"
  ],
  "seen_titles": [
-  "검·경,국수본·광주청강력계장각각참고인조사",
-  "[위클리오늘]장윤기사건'국수본'정조준…분리수사지시의혹",
-  "경찰,‘장윤기’이름틀리게썼다…영장반려된황당이유",
-  "검·경,장윤기사건'분리수사지침'윗선본격수사",
-  "[기고]보호되어야하는비밀'변호사–의뢰인간비밀유지권'",
-  "“우원식,82억들인해외출장14회아내동행”주진우의주장",
-  "[칼럼]'장윤기이름틀린영장'과'핑퐁수사'…검찰보완수사권폐지가...",
-  "미래에셋컨설팅,코빗인수지분92%→97%로확대",
-  "개인정보과징금·세금추징·화재…쿠팡덮친'1조원대비용리스크'",
-  "[사실은이렇습니다][설명]서울경제(7.22.)\"메가특구,계열사간출자...",
   "합수본,광진구선관위사무국장소환…출범후첫피의자조사",
   "국수본·광주청강력계장소환조사...수사지휘두고'진실공방'",
   "성추행에뇌물수수까지…전북도과장급공무원나란히'해임'",
@@ -6001,7 +5991,17 @@
   "'가상자산신고누락의혹'유정복전인천시장압수수색",
   "경찰'3대특검특수본'8개월간대장정마무리…전담수사팀체제전환",
   "[속보]경찰'3대특검인계사건'특수본,전담수사팀체제로전환",
-  "경찰'3대특검특수본'활동종료…121건수사마무리"
+  "경찰'3대특검특수본'활동종료…121건수사마무리",
+  "하도급법위반반복하면과징금가중한도100%...연료·전기값도하도급...",
+  "공정위,담합기업에칼빼들었다…\"상습시등록취소·영업정지\"",
+  "'1억원횡령혐의'축구인,솜방망이처벌논란...겨우1년자격정지징...",
+  "네이버·두나무합병변수,공정위결합심사의견나오나?",
+  "유정복전인천시장'가상자산은닉의혹'압수수색…경찰강제수사착...",
+  "가상자산은닉의혹...유정복전시장압수수색",
+  "신천지‘민주당가입’진술도나왔다…합수본“조직적강요는미확인...",
+  "상반기車보험,6년만에'적자'…한방진료에손해율상승",
+  "경찰'3대특검특수본'8개월활동종료…전담수사팀체제전환",
+  "[속보]‘여중생성매수’혐의최영중전청주시의원구속영장"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "뛰어든 승자의 피할까 롯데렌탈 한국타이어 SK렌터카 저주"
   ]
  ],
- "last_run": "2026-07-28T13:41:10.741407+09:00",
+ "last_run": "2026-07-28T13:51:07.996648+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
