@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1466805",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16142605",
-  "https://www.joongang.co.kr/article/25447042",
-  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=242712",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16051",
   "https://www.hankyung.com/article/202607216691r",
   "https://www.yna.co.kr/view/AKR20260722064900054?input=1195m",
   "http://www.fnnews.com/news/202607221012071220",
@@ -2999,14 +2994,14 @@
   "https://www.newspim.com/news/view/20260728000522",
   "https://www.hani.co.kr/arti/society/society_general/1270285.html",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208676",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=738277"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=738277",
+  "http://www.fnnews.com/news/202607281230255580",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052212",
+  "https://www.kukinews.com/article/view/kuk202607280063",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052217",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045289"
  ],
  "seen_titles": [
-  "[단독]이선빈·김명수'매화,달'…편성심사앞두고제작갈림길",
-  "장윤기,압수수색하루지연된이유?…영장에'이름'틀린경찰",
-  "[속보]'관저이전의혹'김건희,종합특검피의자조사출석",
-  "프랑스공기청정기시장동향",
-  "ESG공시법제화속도…7월중자본시장법개정안마련",
   "국고채담합과징금최대8조…금융사15곳‘초비상’",
   "검경,국수본지휘라인향한'장윤기사건'비위수사본격화",
   "투표지합수본,첫피의자소환…광진구선관위사무국장조사",
@@ -6001,7 +5996,12 @@
   "\"이브랜드얼마나버티나\"…가맹점10년생존율공개된다",
   "“중수청고위직수사·독자적수사절차법제화”…공수처,법개정의...",
   "'장윤기사건'당시광산서형사과장구속영장재신청",
-  "[이슈]민주당전대,'신천지개입'의혹에휩싸이나…친명-친청갈등격..."
+  "[이슈]민주당전대,'신천지개입'의혹에휩싸이나…친명-친청갈등격...",
+  "쿠팡등개인정보유출과징금으로기금만든다",
+  "공정위,가맹사업법시행령개정안국무회의통과",
+  "프랜차이즈정보공개확대…분기별가맹점현황공개·폐업위약금까지...",
+  "공정위\"함께성장하는공정한시장환경조성...5개핵심과제추진중\"",
+  "경찰,'장윤기축소·은폐'前광산서형사과장구속영장재신청"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "뛰어든 승자의 피할까 롯데렌탈 한국타이어 SK렌터카 저주"
   ]
  ],
- "last_run": "2026-07-28T12:41:06.205667+09:00",
+ "last_run": "2026-07-28T12:51:02.754473+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
