@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260727000258",
-  "https://www.naeil.com/news/read/596708",
-  "https://www.naeil.com/news/read/596709",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142099",
-  "https://www.naeil.com/news/read/596696",
-  "https://www.yna.co.kr/view/AKR20260727086800089?input=1195m",
   "https://www.naeil.com/news/read/596664",
   "https://www.naeil.com/news/read/596666",
   "http://www.yonhapnewstv.co.kr/news/MYH202607271301224ci",
@@ -2999,13 +2993,15 @@
   "https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html?partner=naver",
   "https://www.kyeongin.com/article/1768086",
   "https://it.donga.com/109273/",
-  "https://lawtalknews.co.kr/article/TUCSQD986JTM"
+  "https://lawtalknews.co.kr/article/TUCSQD986JTM",
+  "https://www.tokenpost.kr/news/market/382285",
+  "https://www.ksmnews.co.kr/news/view.php?idx=615424",
+  "https://n.news.naver.com/mnews/article/091/0010269574",
+  "https://n.news.naver.com/mnews/article/091/0010269575",
+  "https://n.news.naver.com/mnews/article/091/0010269576",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1328331"
  ],
  "seen_titles": [
-  "SK이노베이션E&S,호주산초경질유첫도입",
-  "삼성전자·SK하이닉스,광주반도체부지실사착수…800조프로젝트속...",
-  "SKT,고객과더나은변화만든다…'AI프롬프트경연대회'개최",
-  "SK이노,농어촌아동에책기부하는'어린이책Dream'진행",
   "개인정보사고,처분까지평균490일",
   "‘8조재산’권혁빈스마일게이트CVO,최태원-노소영재산분할액깰까",
   "美빅테크·하이닉스실적에FOMC까지...코스피,초대형이벤트지나반...",
@@ -6001,37 +5997,13 @@
   "TheChipsRoutGoesGlobal",
   "‘코리안컵16강길목’인천,김포와격돌",
   "“위성망을지상망의연장선으로”…스카일로,표준기반D2D대중화목...",
-  "최태원9440억은약과?감정가만8조스마일게이트이혼…역대급재산분..."
+  "최태원9440억은약과?감정가만8조스마일게이트이혼…역대급재산분...",
+  "삼성전자·SK하이닉스,주가13~14%급락…중국반도체기술우려에매...",
+  "중국반도체쇼크에국내증시급락…코스피6000선붕괴",
+  "POLANDSOCCER",
+  "[물류혁신의그늘](상)쿠팡화재로드러난현장안전공백"
  ],
  "recent_sigs": [
-  [
-   "2026-07-28T14:31:29.511673+09:00",
-   "AI 울산공단 무엇이 대해부 이후 데이터센터 울산에"
-  ],
-  [
-   "2026-07-28T14:31:29.511673+09:00",
-   "상록수 외교 심장부에 경제외교로 기업 진출 뒷받 울린 브라질"
-  ],
-  [
-   "2026-07-28T14:31:29.511673+09:00",
-   "지지선 과열 700선 1차 단기 불안 해소 매크로"
-  ],
-  [
-   "2026-07-28T14:31:29.511673+09:00",
-   "환율 한달 1550원 1460원 전망은 만에"
-  ],
-  [
-   "2026-07-28T14:31:29.511673+09:00",
-   "종목이 업비트 합쳐도 빗썸 시장 역부족 SK하이닉스 레버리지"
-  ],
-  [
-   "2026-07-28T14:31:29.511673+09:00",
-   "코로나19 옥석 테마 파이프라인 셀리드 차별화 파죽지세 주가"
-  ],
-  [
-   "2026-07-28T14:31:29.511673+09:00",
-   "1위 등극 창신메모리 영향은 반도체 시총"
-  ],
   [
    "2026-07-28T14:41:14.829479+09:00",
    "변방된 월가 소버린 일희일비 봤지 생산"
@@ -7163,9 +7135,17 @@
   [
    "2026-07-28T20:31:29.483449+09:00",
    "최태원 스마일게이트 재산분 9440억은 역대급 약과 8조 이혼 감정가만"
+  ],
+  [
+   "2026-07-28T20:41:09.742379+09:00",
+   "SOCCER POLAND"
+  ],
+  [
+   "2026-07-28T20:41:09.742379+09:00",
+   "화재로 안전 드러난 쿠팡 공백 현장"
   ]
  ],
- "last_run": "2026-07-28T20:31:51.406606+09:00",
+ "last_run": "2026-07-28T20:41:19.650189+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
