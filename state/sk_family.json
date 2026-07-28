@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207989",
-  "https://www.joongangenews.com/news/articleView.html?idxno=535180",
-  "http://www.yonhapnewstv.co.kr/news/MYH202607241351496kQ",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490185.html",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260724135010RhV",
-  "https://view.asiae.co.kr/article/2026072410360369469",
-  "https://www.ytn.co.kr/_ln/0102_202607241347009931",
   "https://biz.sbs.co.kr/article_hub/20000324472?division=NAVER",
   "https://www.mydaily.co.kr/page/view/2026072414084007224",
   "https://www.busan.com/view/busan/view.php?code=2026072414081699963",
@@ -2999,16 +2992,16 @@
   "https://www.segye.com/newsView/20260728514942?OutUrl=naver",
   "https://www.yeongnam.com/web/view.php?key=20260728027098854",
   "https://www.newspim.com/news/view/20260728000744",
-  "https://www.newspim.com/news/view/20260728001057"
+  "https://www.newspim.com/news/view/20260728001057",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43756",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03916326645517800",
+  "https://www.sportschosun.com/life/2026-07-24/202607240100149160009506",
+  "https://www.dailian.co.kr/news/view/1670567/?sc=Naver",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34420",
+  "https://www.news1.kr/entertain/celebrity-topic/6227671",
+  "https://www.sidae.com/article/2026072807565718985"
  ],
  "seen_titles": [
-  "[이시각헤드라인]7월24일뉴스현장",
-  "[속보]이대통령,8박11일미국·남미순방출국…샌프란서젠슨황만난...",
-  "분당서울대병원,'중증소아진료의뢰플랫폼'운영시작",
-  "李대통령,美샌프란시스코출국…7박11일美·남미순방",
-  "李대통령,샌프란시스코로출국…7박11일미국·남미3개국순방길",
-  "李대통령,5개국순방돌입…한미'AI동맹'·남미'핵심광물·공급망'",
-  "이대통령,미국·남미순방위해출국…젠슨황등회동",
   "李,美·남미순방길올라…실리콘밸리서AI세일즈외교",
   "이대통령,미국샌프란시스코로순방출발…실리콘밸리서첫일정",
   "李대통령,남미순방출국…젠슨황만나고‘샌프란AI선언’발표",
@@ -6001,7 +5994,14 @@
   "이재용·최태원나란히伊‘구글캠프’참석",
   "[자유성]AI네이티브국가",
   "젠슨황만보던AI생태계,이젠최태원회장을주목한다",
-  "美·中악재겹친코스피…\"실적훼손보다수급조정\""
+  "美·中악재겹친코스피…\"실적훼손보다수급조정\"",
+  "[오늘의금융지주]KB금융·하나금융·BNK금융",
+  "분당서울대병원,중증소아환자위한신속진료의뢰플랫폼개발",
+  "\"신속전원부터치료준비까지\"…분당서울대병원'중증소아진료의뢰플...",
+  "분당서울대병원,중증소아전원플랫폼구축…진료연계강화",
+  "DDP에AI'웰니스로봇'뜬다…공기관리에건강체크까지",
+  "김윤지,과감한수영복노출패션…탄탄한복근'눈길'[N샷]",
+  "[시대데스크]나눌궁리,만들궁리"
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-07-29T06:10:15.634502+09:00",
    "수급 악재 조정 코스피 훼손보다 실적 겹친"
+  ],
+  [
+   "2026-07-29T06:20:15.111207+09:00",
+   "나눌 만들 궁리"
   ]
  ],
- "last_run": "2026-07-29T06:10:35.691531+09:00",
+ "last_run": "2026-07-29T06:20:27.075314+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
