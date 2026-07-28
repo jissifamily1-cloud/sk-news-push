@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/national/court_law/2026/07/22/QJBKECIANBB4FMHNG7GCI2WFRU/",
-  "https://www.mk.co.kr/article/12104740",
-  "https://kjmbc.co.kr/NewsArticle/1528686",
-  "https://www.khan.co.kr/article/202607221800011",
-  "https://www.yna.co.kr/view/AKR20260722089051001?input=1195m",
   "https://www.news1.kr/world/europe/6235873",
   "https://www.ytn.co.kr/_ln/0101_202607221806483445",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253250&CMPT_CD=P0010",
@@ -2999,14 +2994,14 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092166774",
   "https://www.hankyung.com/article/2026072812281",
   "http://www.fnnews.com/news/202607281727327776",
-  "https://www.dt.co.kr/article/12075270"
+  "https://www.dt.co.kr/article/12075270",
+  "https://news.mtn.co.kr/news-detail/2026072816333214615",
+  "https://www.insight.co.kr/news/565209",
+  "https://www.joongdo.co.kr/web/view.php?key=20260728010008059",
+  "https://www.dailian.co.kr/news/view/1671912/?sc=Naver",
+  "https://news.mtn.co.kr/news-detail/2026072816333625128"
  ],
  "seen_titles": [
-  "정성호법무장관“최영중전청주시의원사건,필요시검사감찰”",
-  "“사건수사땐어디있었나”…행안장관,아동성매매前시의원영장...",
-  "경찰\"장윤기-피해자면식관계아냐\"…부실발표사과",
-  "목소리높인행안장관“최영중사건,검사출신지역위원장비호···법...",
-  "'미투표인원91명'선관위국조질타…'재투표시기'공방도(종합)",
   "'16년집권'헝가리前총리,부패수사조여오자'폭정'반발",
   "'보완수사권완전폐지'수순...국힘반발속'속도전'",
   "장윤기사건새국면...검찰송치서류·국수본지휘규명관건",
@@ -6001,15 +5996,24 @@
   "공정위원장\"쿠팡도배민·네이버도같은잣대…국적따른차별없다\"",
   "CJ제일제당,전분당사업매각추진",
   "'아동성매매혐의'최영중전청주시의원구속영장신청…경찰\"증거인...",
-  "수사권없는검사,특검에서는수사가능?"
+  "수사권없는검사,특검에서는수사가능?",
+  "쿠팡제재한韓공무원입국금지?…정치권도뿔났다",
+  "미성년자성착취혐의최영중전청주시의원구속영장신청",
+  "[WHY이슈현장]검찰청없는시대…충청권사법체계변화는?",
+  "종합특검,'관저이전의혹'윤한홍의원내달1일피의자소환",
+  "호남에400조원투자하는SK…규제푸는국회,신중론펴는공정위"
  ],
  "recent_sigs": [
   [
    "2026-07-28T12:01:13.444954+09:00",
    "뛰어든 승자의 피할까 롯데렌탈 한국타이어 SK렌터카 저주"
+  ],
+  [
+   "2026-07-28T17:51:04.961395+09:00",
+   "규제 400조원 펴는 신중론 투자하는 푸는 국회 호남에"
   ]
  ],
- "last_run": "2026-07-28T17:41:09.827504+09:00",
+ "last_run": "2026-07-28T17:51:14.541046+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6047,6 +6051,7 @@
   "srtimes.kr": "SR타임스",
   "sisajournal-e.com": "시사저널e",
   "m-i.kr": "매일일보",
-  "insightkorea.co.kr": "인사이트코리아"
+  "insightkorea.co.kr": "인사이트코리아",
+  "news.mtn.co.kr": "news.mtn.co.kr"
  }
 }
