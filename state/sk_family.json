@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6839721_37012.html",
-  "https://www.greened.kr/news/articleView.html?idxno=345823",
-  "https://www.ytn.co.kr/_ln/0101_202607240651578584",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244424",
   "http://www.yonhapnewstv.co.kr/news/MYH20260724070343b7V",
   "https://www.newscj.com/news/articleView.html?idxno=3419494",
@@ -2999,12 +2996,12 @@
   "https://m.skyedaily.com/news_view.html?ID=308703",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1090622",
   "https://www.gukjenews.com/news/articleView.html?idxno=3648741",
-  "http://www.joseilbo.com/news/news_read.php?uid=572774&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=572774&class=32",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607281527500210853",
+  "https://www.yna.co.kr/view/AKR20260728121500052?input=1195m",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104760"
  ],
  "seen_titles": [
-  "[현장]무역협회,역대최대규모회장단구성…윤진식회장\"지원대폭...",
-  "무협,對美통상아웃리치강화…워싱턴에'싱크탱크'신설",
-  "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
   "김상욱시장,중앙부처·대기업발품'울산신산업'속도전",
   "최태원·노소영이혼'재산분할'오늘결론…SK주식'평가시점'쟁점",
   "최태원·노소영재산분할파기환송심24일결론…SK지분·주가기준일...",
@@ -6001,13 +5998,12 @@
   "조정식\"개헌,차분하고담대하게추진할것\"",
   "충남도의회제13대전반기의원연구모임심의위원회첫발",
   "건국대글로컬캠퍼스,2027수시박람회성료…상담열기속원서접수...",
-  "최태원'재산분할'9440억원,지연이자만하루1.3억...재상고여부촉각"
+  "최태원'재산분할'9440억원,지연이자만하루1.3억...재상고여부촉각",
+  "조정식국회의장“대통령연임개헌…국민여론과선택의문제”",
+  "내년3월중앙치유농업센터준공되는김해서치유농업포럼열려",
+  "최소5조원대초대형M&A기로...SK실트론7개월매각협상어떤결과나..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-28T09:50:13.982855+09:00",
-   "순환거래 사는 돈으로 취약한 내가"
-  ],
   [
    "2026-07-28T10:10:14.802564+09:00",
    "철가방 나눔으로 000만 라면 기억 셰프 요리사 봉지의 임태훈"
@@ -6087,9 +6083,13 @@
   [
    "2026-07-28T15:40:16.268127+09:00",
    "여부 촉각 9440억원 3억 재산분할 지연이자만 하루 재상고"
+  ],
+  [
+   "2026-07-28T15:50:16.992910+09:00",
+   "7개월 최소 결과 5조원대 초대형 SK실트론 매각협상 어떤 기로"
   ]
  ],
- "last_run": "2026-07-28T15:40:29.068350+09:00",
+ "last_run": "2026-07-28T15:50:30.499989+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6366,6 +6366,7 @@
   "gosiweek.com": "gosiweek.com",
   "newstapa.org": "newstapa.org",
   "lawtalknews.co.kr": "로톡뉴스",
-  "mdtoday.co.kr": "메디컬투데이"
+  "mdtoday.co.kr": "메디컬투데이",
+  "womentimes.co.kr": "우먼타임스"
  }
 }
