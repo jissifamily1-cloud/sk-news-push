@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260727121851008?input=1195m",
-  "https://www.mt.co.kr/living/2026/07/27/2026072715060134079",
-  "https://www.ajunews.com/view/20260727123147175",
-  "https://www.newsway.co.kr/news/view?ud=2026072715595761119",
   "https://www.namdonews.com/news/articleView.html?idxno=918137",
   "http://www.newsworker.co.kr/news/articleView.html?idxno=438455",
   "https://www.delighti.co.kr/news/articleView.html?idxno=119451",
@@ -2999,13 +2995,13 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607241428290000103888",
   "https://www.investchosun.com/site/data/html_dir/2026/07/28/2026072880173.html",
   "https://www.investchosun.com/site/data/html_dir/2026/07/28/2026072880174.html",
-  "http://www.inews24.com/view/1988585"
+  "http://www.inews24.com/view/1988585",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472365",
+  "https://www.newsway.co.kr/news/view?ud=2026072815400838856",
+  "https://www.kyosu.net/news/articleView.html?idxno=208233",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005889413"
  ],
  "seen_titles": [
-  "코스피,외국인2.8조매도에도6,700회복",
-  "SK이노베이션E&S,호주바로사초경질유첫도입…중동리스크분산",
-  "코스피,개인·기관'쌍끌이'에6700선탈환…코스닥도2%상승",
-  "전국대학생이꼽은취업선호기업1위'SK하이닉스'...선택한이유...",
   "[마감시황]코스피,65.13포인트오른6755.75마감",
   "코스피,빅테크협력에6755선마감…코스닥강세",
   "코스피,급락딛고반등했지만상승폭제한…0.97%↑마감(종합)",
@@ -6001,7 +5997,11 @@
   "[더벨][SKT벤처투자리포트]시장조성서기술선점으로,투자로드맵...",
   "[Invest]CXMT가쏘아올린메모리치킨게임…삼전닉스버틸실탄충분한가",
   "[Invest]급락장에연기금은어디로…리밸런싱여력소진에'안전판'약화",
-  "웃지못하는정유업계…호실적에도'손실보전·담합수사'이중부담"
+  "웃지못하는정유업계…호실적에도'손실보전·담합수사'이중부담",
+  "DK아시아로열파크씨티,주거커뮤니티브랜드평판1위…르엘·푸르지오...",
+  "GPT·제미나이·클로드품은삼성SDS…'기업용AI'영토확장",
+  "메모리는부품이아니라국경이다…'2026년급등,2027년조정',기존사...",
+  "증시오늘'핫이슈'…\"국민연금리밸런싱유예,올바른결정이었나\""
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,21 @@
   [
    "2026-07-29T07:07:15.869321+09:00",
    "호실적에도 수사 이중 부담 담합 못하는 손실보전 웃지 정유업계"
+  ],
+  [
+   "2026-07-29T07:11:09.938334+09:00",
+   "제미나이 클로드 삼성SDS 품은 GPT 기업용 영토 확장 AI"
+  ],
+  [
+   "2026-07-29T07:11:09.938334+09:00",
+   "기존 2026년 2027년 부품이 급등 아니라 조정 메모리는 국경이다"
+  ],
+  [
+   "2026-07-29T07:11:09.938334+09:00",
+   "결정이었나 핫이슈 증시 올바른 리밸런싱 유예 국민연금"
   ]
  ],
- "last_run": "2026-07-29T07:07:43.983768+09:00",
+ "last_run": "2026-07-29T07:11:21.974550+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
