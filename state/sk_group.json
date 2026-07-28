@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=746247",
-  "https://news.mtn.co.kr/news-detail/2026072711565687235",
-  "https://www.ibabynews.com/news/articleView.html?idxno=153253",
-  "https://www.mk.co.kr/article/12108270",
   "https://www.ibabynews.com/news/articleView.html?idxno=153255",
   "https://www.koreaherald.com/article/10821497",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471814",
@@ -2999,13 +2995,13 @@
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=251158",
   "https://www.ikbc.co.kr/article/view/kbc202607280073",
   "https://www.ikbc.co.kr/article/view/kbc202607280070",
-  "https://www.newsis.com/view/NISX20260728_0003727130"
+  "https://www.newsis.com/view/NISX20260728_0003727130",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441962",
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1547434",
+  "https://jtv.co.kr/news/article.php?id=70284",
+  "https://www.sedaily.com/article/20073014"
  ],
  "seen_titles": [
-  "정점식“코스피9000은반도체기업덕…李정부성과아냐”",
-  "중국메모리공룡CXMT,상장첫날476%폭등…삼전·닉스'위협'",
-  "AI가바꾼한국제조업지도...반도체는'대만으로'·자동차는'중국으...",
-  "반도체서철강까지번진‘N%성과급’논란…정부가이드라인‘속도전...",
   "삼전닉스실무진광주군공항부지답사...반도체사업본격화",
   "LG전자,국내첫엔비디아냉각인증…AI데이터센터공급망뚫어",
   "\"삼척은무엇을준비하나\"…동해GS·강릉SK뛰는데삼척은?",
@@ -6001,7 +5997,11 @@
   "中国加速半导体自立，韩国芯片业紧张感升温",
   "'반도체인재육성·서논술형도입'...현장혼선반발도",
   "호남권반도체전력협의체가동...SK도군공항답사",
-  "中CXMT때문?…“美반도체주흔든주범따로있다”"
+  "中CXMT때문?…“美반도체주흔든주범따로있다”",
+  "코스피,외인매도에6100선무너져...삼성바이오로직스상승VS삼성전...",
+  "반도체쇼크에코스피10.84%폭락",
+  "반도체소부장'케미컬'···돌파구찾을까",
+  "“CXMT가그렇게위협적인가요”삼전닉스오늘도폭락…“기술격차또..."
  ],
  "recent_sigs": [
   [
@@ -6971,9 +6971,17 @@
   [
    "2026-07-28T21:21:20.438445+09:00",
    "있다 때문 반도체주 주범 따로 흔든 CXMT"
+  ],
+  [
+   "2026-07-28T21:31:16.878713+09:00",
+   "케미컬 반도체 찾을까 돌파구 소부장"
+  ],
+  [
+   "2026-07-28T21:31:16.878713+09:00",
+   "그렇게 CXMT가 격차 폭락 삼전닉스 위협적인가요 오늘도 기술"
   ]
  ],
- "last_run": "2026-07-28T21:21:34.345652+09:00",
+ "last_run": "2026-07-28T21:31:33.898013+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7555,6 +7563,7 @@
   "it-b.co.kr": "아이티비즈",
   "newstapa.org": "newstapa.org",
   "tleaves.co.kr": "더리브스",
-  "doctorsnews.co.kr": "의협신문"
+  "doctorsnews.co.kr": "의협신문",
+  "jtv.co.kr": "jtv.co.kr"
  }
 }
