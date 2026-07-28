@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202606160841003?pt=nv",
-  "http://www.osen.co.kr/article/G1112821671",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03230806645482048",
-  "https://www.sportsworldi.com/newsView/20260615504651",
   "https://enter.etoday.co.kr/news/view/298541",
   "https://www.bntnews.co.kr/article/view/bnt202606150085",
   "https://www.topstarnews.net/news/articleView.html?idxno=16093887",
@@ -2999,13 +2995,13 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=92858",
   "https://www.abcn.kr/news/articleView.html?idxno=89868",
   "https://www.dailian.co.kr/news/view/1671566/?sc=Naver",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427186"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427186",
+  "https://www.kukinews.com/article/view/kuk202607280018",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3648133",
+  "https://www.handmk.com/news/articleView.html?idxno=41679",
+  "https://www.sedaily.com/article/20072634"
  ],
  "seen_titles": [
-  "내일최태원·노소영파기환송심선고…SK주식쟁점",
-  "[이시각헤드라인]7월23일뉴스투나잇",
-  "이대통령,미샌프란시스코·남미3개국순방[외신에비친한국]",
-  "쇼트트랙기대주김민지,넥스트크리에이티브와매니지먼트계약",
   "최민정이니스프리,매출·수익개선노려…레티놀시카모공흔적앰...",
   "로보티즈,로봇데이터판다…\"우즈벡거점10월완공\"",
   "문경전국환경백일장성황…탄소중립을문학으로노래하다",
@@ -6001,7 +5997,11 @@
   "'AI광폭행보'이재용·최태원,'美실리콘밸리'이어'伊구글캠프행'...",
   "[ABC뉴스칼럼]반도체주급락...'우상향'발언'최태원은책임질수있...",
   "AI동맹잇는이재용·최태원…이번엔구글캠프간다",
-  "'하루이자만1.3억'최태원9천440억원마련어떻게"
+  "'하루이자만1.3억'최태원9천440억원마련어떻게",
+  "[충남도의회브리핑]제13대전반기의원연구모임심의위원회첫발",
+  "충남도의회,제13대전반기의원연구모임심의위원회출범…위원장정근...",
+  "SK,엔비디아·MS글로벌빅테크와AI협력확대",
+  "내가준돈으로내칩사는취약한‘순환거래’[트럼프스톡커]"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-07-28T09:40:14.646793+09:00",
    "어떻게 3억 마련 이자만 9천440억원 하루"
+  ],
+  [
+   "2026-07-28T09:50:13.982855+09:00",
+   "순환거래 사는 돈으로 취약한 내가"
   ]
  ],
- "last_run": "2026-07-28T09:40:27.502026+09:00",
+ "last_run": "2026-07-28T09:50:29.166100+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
