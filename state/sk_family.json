@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16093887",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0029958784&code=61122013&cp=nv",
   "http://www.newstown.co.kr/news/articleView.html?idxno=710169",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724130",
   "https://biz.chosun.com/industry/company/2026/06/18/ZX7JTO464NCPJEZLQMWE766UQ4/",
@@ -2999,11 +2997,11 @@
   "https://www.handmk.com/news/articleView.html?idxno=41679",
   "https://www.sedaily.com/article/20072634",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542048",
-  "https://www.nocutnews.co.kr/news/6554209"
+  "https://www.nocutnews.co.kr/news/6554209",
+  "https://www.nocutnews.co.kr/news/6554230",
+  "https://www.gosiweek.com/article/1065601243423287"
  ],
  "seen_titles": [
-  "문경전국환경백일장성황…탄소중립을문학으로노래하다",
-  "코칭경영원,'제4회강점컨퍼런스'개최…올해의강점인에매기강감...",
   "[단독]두산,물류시스템팔았다…클로봇과계약체결",
   "글램,최민정작가와협업…앱전용채팅이모티콘4종출시",
   "[데스크칼럼]이제안읽을수가없다",
@@ -6001,7 +5999,9 @@
   "SK,엔비디아·MS글로벌빅테크와AI협력확대",
   "내가준돈으로내칩사는취약한‘순환거래’[트럼프스톡커]",
   "인터뷰전문:양향자“(제가)사퇴해서변화있으면사퇴한다,경기도...",
-  "무협·한은'충북제조업의위상과현황지도'개정판발간"
+  "무협·한은'충북제조업의위상과현황지도'개정판발간",
+  "이재용·최태원,美이어시칠리아'구글캠프'도나란히참석",
+  "\"라면한봉지의기억,3,000만원나눔으로\"철가방요리사임태훈셰프..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-07-28T09:50:13.982855+09:00",
    "순환거래 사는 돈으로 취약한 내가"
+  ],
+  [
+   "2026-07-28T10:10:14.802564+09:00",
+   "철가방 나눔으로 000만 라면 기억 셰프 요리사 봉지의 임태훈"
   ]
  ],
- "last_run": "2026-07-28T10:04:13.939202+09:00",
+ "last_run": "2026-07-28T10:10:28.540743+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6346,6 +6350,7 @@
   "wikileaks-kr.org": "위키리크스한국",
   "kfenews.co.kr": "한국금융경제신문",
   "issuenbiz.com": "이슈앤비즈",
-  "betanews.net": "베타뉴스"
+  "betanews.net": "베타뉴스",
+  "gosiweek.com": "gosiweek.com"
  }
 }
