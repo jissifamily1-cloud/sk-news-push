@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20071960",
-  "https://economychosun.com/site/data/html_dir/2026/07/20/2026072000039.html",
-  "https://economychosun.com/site/data/html_dir/2026/07/20/2026072000033.html",
-  "https://economychosun.com/site/data/html_dir/2026/07/20/2026072000022.html",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607260605061950503",
-  "https://economychosun.com/site/data/html_dir/2026/07/20/2026072000024.html",
   "https://www.geconomy.co.kr/news/article.html?no=322175",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374494",
   "https://www.geconomy.co.kr/news/article.html?no=322174",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026072803246",
   "https://www.koreaittimes.com/news/articleView.html?idxno=155543",
   "http://www.weeklytoday.com/news/articleView.html?idxno=787545",
-  "http://www.press9.kr/news/articleView.html?idxno=80165"
+  "http://www.press9.kr/news/articleView.html?idxno=80165",
+  "https://zdnet.co.kr/view/?no=20260720093507",
+  "https://www.yna.co.kr/view/AKR20260728086600008?input=1195m",
+  "https://www.dailian.co.kr/news/view/1671739/?sc=Naver",
+  "https://www.news1.kr/world/northeast-asia/6241244",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273707",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105460"
  ],
  "seen_titles": [
-  "[다음주경제일정]美연준FOMC결과주목…MS·메타·아마존·애플실적...",
-  "\"터지기전에찾아낸다\"탈로스,AI로뇌혈관질환예방패러다임전환",
-  "9440억마련해야하는최태원회장,3가지카드셈법은?",
-  "단일종목레버리지도‘물타기’?…개미,증시급락날집중매수[이런국...",
-  "다시미장으로향하는투자,우상향의조건을묻다",
-  "[윤은기의컬래버노믹스<56>]초협업의시대,함부로인연을맺으면안...",
   "[이슈메이커]SK하이닉스나스닥입성이끈최태원SK그룹회장|뉴욕에...",
   "9440억현금지급판결…지배구조지킨최태원,‘배당·대출’로재원...",
   "[정원석의매크로리뷰<37>3대메가프로젝트성공조건]4755조투자승...",
@@ -6001,7 +5995,13 @@
   "[속보]'검은화요일'코스피이어코스닥'서킷브레이커'발동",
   "금융당국,단일종목레버리지'20%투자한도'검토…진정안되면추가...",
   "[위클리오늘]이천시,'제15회평생학습축제평가공유회'개최",
-  "에코프로비엠,캐나다양극재공장매각검토…회수액1600억원추산"
+  "에코프로비엠,캐나다양극재공장매각검토…회수액1600억원추산",
+  "프리미엄김치美간다…워커힐,‘수펙스김치’미국첫수출",
+  "코스피10%·코스닥8%급락에양시장서킷브레이커발동",
+  "갤럭시Z8출격…통신3사지원금최대57만5000원",
+  "中,DUV노광장비관련주강세…삼전·닉스충격준CXMT약보합",
+  "WillNAVERRiseAsan'EastAsiaAIHubonAlliancewithNvidia?",
+  "[갤럭시Z8사전예약]폴더블대전...3社3色혜택맞대결"
  ],
  "recent_sigs": [
   [
@@ -7083,9 +7083,17 @@
   [
    "2026-07-28T12:21:21.872853+09:00",
    "추산 회수액 양극재 캐나다 에코프로비엠 매각 공장 검토 1600억원"
+  ],
+  [
+   "2026-07-28T12:31:23.364218+09:00",
+   "As Rise NAVER Will East AI Nvidia Alliance Asia Hub an with on"
+  ],
+  [
+   "2026-07-28T12:31:23.364218+09:00",
+   "혜택 대전 맞대결 폴더블"
   ]
  ],
- "last_run": "2026-07-28T12:21:32.925381+09:00",
+ "last_run": "2026-07-28T12:31:31.663443+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
