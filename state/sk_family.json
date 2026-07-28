@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695547",
-  "https://biz.newdaily.co.kr/site/data/html/2026/02/25/2026022500338.html",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432195",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=04706806645354128",
   "http://www.shinailbo.co.kr/news/articleView.html?idxno=2195960",
   "https://www.etnews.com/20260225000303",
@@ -2999,12 +2996,12 @@
   "https://www.mediawatch.kr/news/article.html?no=260484",
   "https://www.dt.co.kr/article/12075161",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427250",
-  "https://www.ytn.co.kr/_ln/0102_202607281121116690"
+  "https://www.ytn.co.kr/_ln/0102_202607281121116690",
+  "https://sports.khan.co.kr/article/202607281307003?pt=nv",
+  "https://www.mk.co.kr/article/12109322",
+  "https://www.newsway.co.kr/news/view?ud=2026072809534203404"
  ],
  "seen_titles": [
-  "'SK家'장손최영근,5년만에지주사복귀",
-  "SK창업주장손최영근,5년만에지주사복귀",
-  "SK가3세최영근,5년만에일선복귀",
   "SK실트론은예외?…AI반도체가흔든'매각리밸런싱'",
   "[대담]송철호전울산시장\"화합의정치\"",
   "리서치알음\"증시선진화,상장폐지보다IPO정상화가먼저\"",
@@ -6001,7 +5998,10 @@
   "이재용·최태원,이탈리아‘구글캠프’동반참석…AI반도체협력논...",
   "李대통령북미방문에플리토·웨인힐스등국내AI기업동행",
   "조정식\"의장직속경제대도약위원회설치할것…상시소통시스템화...",
-  "이제는너무멀어진'9천피','피투성이'개미'본전회수'급하다?"
+  "이제는너무멀어진'9천피','피투성이'개미'본전회수'급하다?",
+  "‘74세’윤미라“성형외과서‘얼굴에손대지말라’더라”…동안비...",
+  "“홍어6만마리손질”박지현,눈가리고홍어손질쇼(라스)",
+  "재상고냐수용이냐…9440억앞에선최태원,SK의다음1년"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-07-28T13:00:30.827070+09:00",
    "급하다 9천피 피투성이 너무 본전회수 개미 이제는 멀어진"
+  ],
+  [
+   "2026-07-28T13:10:14.731553+09:00",
+   "SK의 1년 재상고냐 9440억 수용이냐 다음 앞에"
   ]
  ],
- "last_run": "2026-07-28T13:00:43.175080+09:00",
+ "last_run": "2026-07-28T13:10:28.919468+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
