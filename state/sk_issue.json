@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/564124",
-  "https://biz.heraldcorp.com/article/10816322",
-  "https://www.newsis.com/view/NISX20260722_0003718533",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000051466",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617036",
-  "https://biz.heraldcorp.com/article/10816055",
-  "https://www.newsis.com/view/NISX20260722_0003718399",
-  "https://www.dailian.co.kr/news/view/1669456/?sc=Naver",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149107",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1008788",
   "http://www.lawissue.co.kr/view.php?ud=2026072211274777939aeda69934_12",
   "http://www.fnnews.com/news/202607221154218778",
   "https://www.sisajournal.com/news/articleView.html?idxno=380682",
@@ -2999,19 +2989,19 @@
   "http://weekly.chosun.com/news/articleView.html?idxno=53830",
   "https://www.joongboo.com/news/articleView.html?idxno=363732526",
   "https://www.mk.co.kr/article/12109347",
-  "https://www.imaeil.com/page/view/2026072813222082403"
+  "https://www.imaeil.com/page/view/2026072813222082403",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80162",
+  "http://www.metroseoul.co.kr/article/20260728500294",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/28/2026072800086.html",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/28/2026072800097.html",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052214",
+  "https://idsn.co.kr/news/view/1065589390334231",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1532101",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=133551",
+  "https://www.newsis.com/view/NISX20260728_0003726418",
+  "https://www.news1.kr/local/sejong-chungbuk/6241363"
  ],
  "seen_titles": [
-  "'메이플확률논란'넥슨,116억과징금선고9월로미뤄졌다",
-  "‘2호’여수감산본궤도…울산,최종안난항에‘3호’오리무중",
-  "與친청계,김민석향해\"근거없는신천지공세로당모욕·모해말라\"...",
-  "검경,'장윤기사건'지휘라인소환…윗선수사본격화",
-  "압수물가지고나오는검경…장윤기사건‘윗선’드러나나?[현장영상...",
-  "장윤기에발칵뒤집한경찰…“국수본지시였다”최고지휘부로번졌다...",
-  "공정위,'에듀플렉스'가맹본부광고비부당전가제재",
-  "가맹점에광고비물리며산정기준안알린'에듀플렉스'…공정위제재",
-  "배민품은우버,한국플랫폼판도바뀌나···배달넘어'슈퍼앱'경쟁...",
-  "국민의힘,국회보이콧철회하고복귀···후반기국회개원52일만에...",
   "와이법률사무소,인천서구로법률서비스확대...금융범죄초기대응...",
   "친청최고위원후보들\"김민석사퇴하라\"",
   "특별수사단,'장윤기사건'광주청강력계장소환…분리수사경위조사",
@@ -6001,7 +5991,17 @@
   "교사'몰카'찍다들킨아들…경찰아버지는증거휴대전화부쉈다",
   "경찰,'재산신고누락의혹'유정복전인천시장압수수색",
   "할당관세‘가장거래’판단에설탕수입업계반발…인권위진정까지",
-  "'아빠경찰'이또증거인멸…여교사불법촬영혐의아들휴대전화폐기"
+  "'아빠경찰'이또증거인멸…여교사불법촬영혐의아들휴대전화폐기",
+  "하도급법반복위반사업자'철퇴'…과징금최대2배로",
+  "정부,‘상습갑질’과징금2배로…주병기“담합반복기업등록취소...",
+  "하도급법상습위반과징금50%→100%…신고포상금대상피해자로확...",
+  "프랜차이즈정보공개서에사모펀드소유·폐업위약금공개된다",
+  "공정위,하도급법시행령개정안국무회의통과",
+  "경찰3대특검인계사건특수본종료…잔여16건전담팀수사",
+  "'가상자산은닉의혹'유정복전인천시장집압수수색",
+  "엘앤에프,'테슬라계약축소'전자사주매각논란부인...\"손실회피아...",
+  "경찰'미성년자성매수'최영중영장…압수수색13일만",
+  "경찰'미성년자성매매혐의'최영중전청주시의원구속영장신청"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "뛰어든 승자의 피할까 롯데렌탈 한국타이어 SK렌터카 저주"
   ]
  ],
- "last_run": "2026-07-28T14:01:19.758648+09:00",
+ "last_run": "2026-07-28T14:11:01.283910+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
