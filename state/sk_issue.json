@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1089729",
-  "https://www.hani.co.kr/arti/opinion/because/1269497.html",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1089745",
-  "https://www.newsis.com/view/NISX20260722_0003719366",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617399",
-  "https://www.newsis.com/view/NISX20260722_0003719359",
   "https://www.nocutnews.co.kr/news/6551928",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422602",
   "https://www.yna.co.kr/view/AKR20260722170900109?input=1195m",
@@ -2999,15 +2993,15 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=1785227497&code=11121100&cp=nv",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/28/2026072800290.html",
   "https://www.yna.co.kr/view/AKR20260728162500004?input=1195m",
-  "https://www.news1.kr/politics/assembly/6241897"
+  "https://www.news1.kr/politics/assembly/6241897",
+  "https://www.news1.kr/industry/distribution/6241921",
+  "https://www.greened.kr/news/articleView.html?idxno=346103",
+  "http://www.inews24.com/view/1989643",
+  "https://www.munhwa.com/article/11605603",
+  "https://www.segye.com/newsView/20260728516881?OutUrl=naver",
+  "https://www.ytn.co.kr/_ln/0103_202607281900032198"
  ],
  "seen_titles": [
-  "정성호법무\"최영중전청주시의원사건,필요하다면감찰도\"",
-  "피해기업들피눈물로정부배가부르다니[왜냐면]",
-  "최영중아동성매매사건,검찰보완수사권논란으로확산",
-  "'AI로카톡대화조작'증거로무고죄역고소…검찰보완수사로규명",
-  "‘아동성범죄’최영중,구속면하려꼼수?…휴대전화추가제출",
-  "경찰청,장윤기사건2주전광주광산서점검…'병합수사강화'지침도...",
   "일주일새말바꾼경찰\"장윤기,피해자알았을가능성없다\"",
   "'SM주가조작'카카오김범수\"직접증거없어\"···핵심증인'이준호...",
   "헝가리오르반前총리새정부에반기…\"민주주의멈춰\"",
@@ -6001,7 +5995,13 @@
   "[단독]檢수사권박탈이후…특검파견검사들은수사해도되나",
   "CJ제일제당'전분당'사업매각하나…\"한계사업정리위한다양한옵...",
   "'기술中유출'혐의전삼성디스플레이임직원들영장기각",
-  "범여법사위원들\"최영중사건청문회검토…檢증거인멸말라\""
+  "범여법사위원들\"최영중사건청문회검토…檢증거인멸말라\"",
+  "CJ제일제당,전분당사업매각추진…\"미래혁신차원검토\"",
+  "한화,KAI지분15%턱밑추격…노조·지역사회반발",
+  "더불어민주당김현정국회의원,\"웨딩시장'추가금관행'여전…공정위...",
+  "‘가상자산은닉의혹’유정복전인천시장경찰,자택압수수색",
+  "장윤기범행당시뒷좌석문3분간열려있었다",
+  "특검,윤한홍다음달1일소환...'관저이전의혹'첫조사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "규제 400조원 펴는 신중론 투자하는 푸는 국회 호남에"
   ]
  ],
- "last_run": "2026-07-28T19:01:55.936603+09:00",
+ "last_run": "2026-07-28T19:10:56.386863+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
