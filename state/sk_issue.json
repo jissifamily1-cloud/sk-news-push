@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207524",
-  "https://www.hankyung.com/article/202607229824H",
-  "https://www.redaily.co.kr/news/articleView.html?idxno=17153",
-  "https://www.joongang.co.kr/article/25447241",
-  "https://www.jbnews.com/news/articleView.html?idxno=1508104",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669983&plink=ORI&cooper=NAVER",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253082&CMPT_CD=P0010",
   "https://www.hankookilbo.com/news/article/A2026072218280001820?did=NA",
@@ -2999,14 +2994,14 @@
   "https://www.hankookilbo.com/news/article/A2026072816050003474?did=NA",
   "https://www.hankookilbo.com/news/article/A2026072817530000697?did=NA",
   "https://www.nocutnews.co.kr/news/6554757",
-  "https://www.newsis.com/view/NISX20260728_0003727009"
+  "https://www.newsis.com/view/NISX20260728_0003727009",
+  "http://www.fnnews.com/news/202607281814313058",
+  "https://www.sidae.com/article/2026072807582691798",
+  "https://www.newsis.com/view/NISX20260728_0003727030",
+  "https://www.news1.kr/local/gwangju-jeonnam/6241866",
+  "http://www.joseilbo.com/news/news_read.php?uid=572794&class=32"
  ],
  "seen_titles": [
-  "특수단\"장윤기,피해자와아는사이아니다\"…일주일만에번복",
-  "에어컨'냉방병'만걱정했는데…안과갔다가'발칵'[건강!톡]",
-  "대통령도철도요금싸다는데…통합하면KTX운임10%더낮아져[PICK]",
-  "경찰“장윤기휴대폰속피해자는동명이인”…검찰은‘윗선개입의...",
-  "與'최영중영장반려'연일검찰때리기…檢\"법적요건따라기각\"",
   "정성호장관\"최영중전청주시의원사건,필요하면검사감찰도\"",
   "배민라이더가우버에하고싶은말...한국엔'이긴'경험이있다",
   "경찰,'300억사기의혹'차가원대표세번째구속영장신청",
@@ -6001,7 +5996,12 @@
   "미국압박에골머리앓는공정위...제재시험대오른쿠팡",
   "AI칩중국밀반출수사,엔비디아내부로...대만직원첫구속",
   "'아동성매매혐의'최영중전청주시의원구속영장신청(종합)",
-  "마약합수본,서울청압수수색…현직경찰수사정보유출의혹"
+  "마약합수본,서울청압수수색…현직경찰수사정보유출의혹",
+  "\"신천지,민주당도가입하라지시\"...진술확보하고도침묵한합수본",
+  "[시대리포트]성과에눈먼기업인수사…'골인'될때까지영장청구",
+  "檢,3차례영장신청끝에차가원영장청구…'300억대사기혐의'",
+  "범행5개월전산케이블타이…장윤기계획범행입증'열쇠'",
+  "'여중생성매매'최영중전시의원구속영장...'증거인멸'정황포착"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "규제 400조원 펴는 신중론 투자하는 푸는 국회 호남에"
   ]
  ],
- "last_run": "2026-07-28T18:11:13.663266+09:00",
+ "last_run": "2026-07-28T18:21:02.938582+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
