@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669615&plink=ORI&cooper=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617248",
-  "https://www.hankyung.com/article/202607229943O",
-  "http://www.srtimes.kr/news/articleView.html?idxno=208079",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2233642",
-  "https://www.inews365.com/news/article.html?no=928880",
-  "https://www.goodnews1.com/news/articleView.html?idxno=462275",
-  "https://www.yna.co.kr/view/AKR20260722148600052?input=1195m",
-  "http://www.fnnews.com/news/202607221659062840",
-  "https://www.mk.co.kr/article/12104643",
-  "https://www.wikitree.co.kr/articles/1147880",
   "https://www.ilyosisa.co.kr/news/article.html?no=257014",
   "https://www.sedaily.com/article/20070620",
   "https://www.mk.co.kr/article/12104627",
@@ -2999,20 +2988,20 @@
   "https://www.seoul.co.kr/news/society/law/2026/07/28/20260728500236?wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20260728_0003726896",
   "https://www.jbnews.com/news/articleView.html?idxno=1508458",
-  "https://www.khan.co.kr/article/202607281645001"
+  "https://www.khan.co.kr/article/202607281645001",
+  "https://www.newspim.com/news/view/20260728001043",
+  "https://www.inews365.com/news/article.html?no=929631",
+  "https://www.thepublic.kr/news/articleView.html?idxno=312926",
+  "https://www.hani.co.kr/arti/opinion/column/1270352.html",
+  "https://www.bntnews.co.kr/article/view/bnt202607280247",
+  "https://www.ytn.co.kr/_ln/0103_202607281706260803",
+  "https://www.ikbc.co.kr/article/view/kbc202607280055",
+  "https://www.chosun.com/national/court_law/2026/07/28/F54IIQNE2ND5DF777PRNOQJHKM/",
+  "https://www.news1.kr/society/court-prosecution/6241747",
+  "https://www.newsis.com/view/NISX20260728_0003726923",
+  "https://www.joongang.co.kr/article/25448835"
  ],
  "seen_titles": [
-  "\"국수본이분리수사지시\"…형사과장구속영장기각",
-  "정성호“최영중전시의원아동성매매사건,필요하다면검사감찰”",
-  "i-ESG,국가기후위기대응위원회와기후변화세미나성료",
-  "2분기다단계판매업체119개…잦은사업자변경주의필요",
-  "걷잡을수없이커지는'최영중사태'…정치권까지가세",
-  "최영중전시의원통신영장기각반발…민주당의원들,청주지검항의...",
-  "'장윤기사건'부실수사의혹형사과장구속영장기각",
-  "조국혁신당경남도당내홍…공천과정·회계의혹에고소전양상",
-  "\"장윤기,피해자알았을가능성\"발표한경찰…일주일만에\"사실아냐...",
-  "“장윤기,혼자이채원양알고있었나”의혹에…경찰“사실아냐”",
-  "“우원식,국회의장때해외출장14회에아내동반…82억사용”",
   "‘동창채용의혹’광주시교육청실무자집유확정",
   "‘검찰이수사해야진실드러난다고?’…與미성년자강간범영장기각...",
   "[기자24시]혼란속졸속출범하는중수청",
@@ -6001,7 +5990,18 @@
   "민주당‘신천지입당’봐주기수사논란에…합수본“조직적강요확...",
   "특검,김용현구치소방문조사…1시간30분만에종료(종합)",
   "경찰'아동성매매혐의'최영중전청주시의원구속영장신청",
-  "[속보]종합특검,‘관저이전의혹’국힘윤한홍8월1일소환조사"
+  "[속보]종합특검,‘관저이전의혹’국힘윤한홍8월1일소환조사",
+  "美의회가제기한'쿠팡차별론'…주병기\"배민·네이버와동일기준\"",
+  "경찰,미성년자성매매혐의최영중전청주시의원,2차조사하루만에...",
+  "[선관위게이트]22대총선때도'투표수조작'감사청구됐지만...선관...",
+  "(보완)수사권폐지,검찰개혁오디세이의끝[아침햇발]",
+  "‘중학생과성관계혐의’최영중전청주시의원구속영장신청",
+  "종합특검,'관저이전의혹'윤한홍내달1일피의자조사",
+  "\"충청권에서정청래가승기를잡게되면김민석승리가능성불투명\"[박...",
+  "‘尹관저공사업체선정관여’윤한홍국민의힘의원내달1일피의자...",
+  "종합특검,'관저이전의혹'윤한홍의원내달1일피의자조사",
+  "경찰,'미성년자성매수'최영중구속영장…통신영장도(종합)",
+  "[속보]종합특검,‘관저이전의혹’윤한홍의원내달1일피의자소환"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "뛰어든 승자의 피할까 롯데렌탈 한국타이어 SK렌터카 저주"
   ]
  ],
- "last_run": "2026-07-28T17:01:28.716702+09:00",
+ "last_run": "2026-07-28T17:10:57.796758+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
