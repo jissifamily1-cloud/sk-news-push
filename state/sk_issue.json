@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030145676&code=61121111&cp=nv",
-  "https://www.yna.co.kr/view/AKR20260722113800004?input=1195m",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/22/2026072290178.html",
-  "https://www.incheontoday.com/news/articleView.html?idxno=321437",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617153",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312761",
-  "https://www.m-joongang.com/news/articleView.html?idxno=402839",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617159",
-  "https://www.mk.co.kr/article/12104396",
-  "https://imnews.imbc.com/news/2026/politics/article/6839258_36911.html",
-  "https://view.asiae.co.kr/article/2026072213595304389",
   "https://news.cpbc.co.kr/article/1174510?division=NAVER",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520170",
   "https://www.yna.co.kr/view/AKR20260722112800064?input=1195m",
@@ -2999,20 +2988,20 @@
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592880694054",
   "http://www.inews24.com/view/1989517",
   "https://www.yna.co.kr/view/AKR20260728098452064?input=1195m",
-  "https://biz.heraldcorp.com/article/10823026"
+  "https://biz.heraldcorp.com/article/10823026",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270165",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607280393&t=NN",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381419",
+  "https://www.ajunews.com/view/20260728144557240",
+  "https://www.hani.co.kr/arti/politics/politics_general/1270318.html",
+  "https://www.ddaily.co.kr/page/view/2026072811040003550",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045409",
+  "https://www.ajunews.com/view/20260728144202228",
+  "https://www.news1.kr/local/daegu-gyeongbuk/6241465",
+  "https://www.kbsm.net/news/view.php?idx=528234",
+  "https://www.khan.co.kr/article/202607281509001"
  ],
  "seen_titles": [
-  "검·경,‘장윤기사건’국가수사본부지휘라인수사본격화",
-  "합수본,광진구선관위사무국장소환…43일만에첫피의자조사",
-  "국힘주진우\"우원식,82억쓴해외출장14회모두배우자동행,수사해...",
-  "12월출범코앞'통합대한항공'마일리지·지배구조·LCC정리숙제",
-  "민주당,‘성매매혐의시의원통신영장반려’청주지검항의방문…“...",
-  "서영교법사위\"최영중통신내역은본사건핵심자료…'별건'기각강...",
-  "국회사무처\"국회의장해외순방배우자동행은외교의례…역대의장도...",
-  "‘투표용지’합수본,광진구선관위사무국장소환…첫피의자조사",
-  "가수·작곡가가도심서대마재배…12명기소",
-  "범여권,'최영중영장반려'청주지검항의방문‥\"검찰언론플레이규탄...",
-  "부산가야역멈춘이유…'시행이익300억'의역풍",
   "주진우\"우원식,82억쓴해외출장14회모두아내동행\"지적",
   "농협중앙회지방이전설'격론'…노조는반발,경북농업계는유치촉...",
   "검찰\"최영중통신영장반려는적법…요건갖추면청구검토\"",
@@ -6001,7 +5990,18 @@
   "라인건설,하도급지연이자12억원미지급…64개업체피해",
   "경찰,미성년자성매수최영중전청주시의원구속영장신청",
   "아동성매매혐의최영중구속영장…\"증거인멸우려\"(종합)",
-  "[속보]경찰,‘아동성매매혐의’최영중前청주시의원에구속영장"
+  "[속보]경찰,‘아동성매매혐의’최영중前청주시의원에구속영장",
+  "피에브에어워셔,출시1년안에누적판매250만개",
+  "대기업일수록과징금더많이부과...담합반복기업엔영업정지",
+  "'여교사몰카'10대아들휴대폰,경찰아버지가폐기했다",
+  "공수처\"공소청보완수사요구부적절…'추가수사의뢰'신설해야\"",
+  "[뉴스다이브]국힘,397억반환하나",
+  "엘앤에프,'테슬라계약감액'자사주매각논란해명…\"손실회피목적...",
+  "경찰,'아동성매매의혹'최영중전청주시의원구속영장신청",
+  "여교사불법촬영한아들위해…휴대폰부순경찰,결국",
+  "경산아파트관리실방화희생자발인…외동딸\"엄마미안해\"오열",
+  "신천지\"할수있으면민주당도가입하라\"…합수본,진술확보",
+  "경찰‘3대특검특수본’8개월만에활동종료…16건송치등121건수..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "뛰어든 승자의 피할까 롯데렌탈 한국타이어 SK렌터카 저주"
   ]
  ],
- "last_run": "2026-07-28T15:11:01.145623+09:00",
+ "last_run": "2026-07-28T15:20:59.656407+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
