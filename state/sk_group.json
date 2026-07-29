@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ggilbo.com/news/articleView.html?idxno=1171709",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=710580",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05520246645519112",
   "https://it.donga.com/109271/",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472333",
   "http://www.fnnews.com/news/202607281840063710",
@@ -2999,12 +2996,12 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83602",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374540",
   "https://www.sidae.com/article/2026073006212194808",
-  "https://biz.heraldcorp.com/article/10824940"
+  "https://biz.heraldcorp.com/article/10824940",
+  "https://www.news1.kr/industry/general-industry/6243309",
+  "https://www.viva100.com/article/20260729500886",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02430486645519768"
  ],
  "seen_titles": [
-  "[사설]장중6000무너진코스피,리스크관리단단히해야",
-  "국내증시서킷브레이커발동…개인투자자들불안고조",
-  "'삼전닉스'가끌어내린코스피…“AI반도체탐욕이공포로”",
   "최태원\"AI팩토리가새산업인프라…SK생태계구축\"",
   "상장사실적눈높이내려갔다…에너지·미디어株대거하향",
   "OTT구독·더블요금제·단말보상…갤Z8고객유치전'후끈'",
@@ -6001,7 +5998,10 @@
   "연준금리동결뉴욕증시급락…AI투자우려에기술주약세",
   "'미국진출도전선언'최준용,\"초등학교때부터항상갖고있던꿈......",
   "[뉴욕증시]인플레우려확대…다우2.19%하락등3대지수뚝",
-  "추경호대구시장“SK데이터센터투자중단에대해강한유감표명”"
+  "추경호대구시장“SK데이터센터투자중단에대해강한유감표명”",
+  "삼성전자,사상최대2Q실적발표…반도체피크아웃우려종식주목",
+  "“한팀떨어진다”⋯‘국대AI’2R,성능넘어‘실전’서바이벌",
+  "메타,AI승부수에휘청…실적발표후시간외거래10%↓"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,17 @@
   [
    "2026-07-30T06:31:14.271244+09:00",
    "데이터센터 강한 유감 추경호 대구시장 투자 대해 중단에 표명"
+  ],
+  [
+   "2026-07-30T06:38:35.924622+09:00",
+   "AI 성능 실전 떨어진다 넘어 서바이벌 2R 국대"
+  ],
+  [
+   "2026-07-30T06:38:35.924622+09:00",
+   "메타 승부수에 AI 시간외거래 발표 휘청 실적"
   ]
  ],
- "last_run": "2026-07-30T06:31:43.456713+09:00",
+ "last_run": "2026-07-30T06:38:44.909009+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
