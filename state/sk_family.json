@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190129",
-  "https://view.asiae.co.kr/article/2026072414262426486",
   "http://www.iminju.net/news/articleView.html?idxno=167097",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426706",
   "http://www.fnnews.com/news/202607241420066992",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20260729_0003727342",
   "https://www.hankyung.com/article/2026072932037",
   "http://enews.imbc.com/News/RetrieveNewsInfo/512994",
-  "https://www.newsen.com/news_view.php?uid=202607291508330310"
+  "https://www.newsen.com/news_view.php?uid=202607291508330310",
+  "https://www.ytn.co.kr/_ln/0102_202607291514046676",
+  "https://www.livebiz.today/news/articleView.html?idxno=203666"
  ],
  "seen_titles": [
-  "[속보]법원\"재산분할은현금으로…비율노소영1/3,최태원2/3\"",
-  "최태원,노소영에9440억지급판결…'세기의이혼'재산분할1조원육박",
   "[속보]재산분할비율최태원3분의2·노소영3분의1…현금으로지급",
   "[속보]법원“최태원·노소영재산분할은현금으로”",
   "[속보]법원“재산분할비율최태원2/3,노소영1/3”",
@@ -6001,7 +5999,9 @@
   "반도체팹조성속도낸다…SK하이닉스사장단,현장방문",
   "'60조잭팟'축포후광주로…SK하닉사장단,새팹부지점검",
   "박지현\"현재목포1등은나\"…'목포왕자'자신감폭발(라스)",
-  "박지현“현재목포1등은나,전역에현수막걸려내나라인줄”(라스..."
+  "박지현“현재목포1등은나,전역에현수막걸려내나라인줄”(라스...",
+  "메모리초호황·실적고공행진...증시왜연일하락?[뉴스퀘어2PM]",
+  "\"원금절반날렸는데,가만히갖고있으라는회장님말믿어도되나요\"..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-07-29T15:10:23.306630+09:00",
    "SK하닉 사장단 부지 축포 잭팟 광주로 60조 점검"
+  ],
+  [
+   "2026-07-29T15:21:54.148100+09:00",
+   "갖고 있으라는 날렸는데 믿어도 가만히 원금 회장님 되나요 절반"
   ]
  ],
- "last_run": "2026-07-29T15:20:27.029212+09:00",
+ "last_run": "2026-07-29T15:22:09.390589+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
