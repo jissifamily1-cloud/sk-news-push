@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=668906",
-  "https://www.news1.kr/photos/8024042",
-  "http://www.iminju.net/news/articleView.html?idxno=167099",
-  "https://www.newscj.com/news/articleView.html?idxno=3419634",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=852255",
   "https://weekly.khan.co.kr/article/202607241435001",
   "https://www.news1.kr/photos/8024037",
@@ -2999,13 +2995,13 @@
   "https://www.sedaily.com/article/20073419",
   "https://www.hankyung.com/article/2026072937601",
   "https://www.businesspost.co.kr/BP?command=article_view&num=443441",
-  "https://www.abcn.kr/news/articleView.html?idxno=89941"
+  "https://www.abcn.kr/news/articleView.html?idxno=89941",
+  "https://www.news1.kr/society/court-prosecution/6237574",
+  "https://www.m-i.kr/news/articleView.html?idxno=1396843",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101030",
+  "https://www.energydaily.co.kr/news/articleView.html?idxno=201844"
  ],
  "seen_titles": [
-  "李대통령,美샌프란시스코로출국…젠슨황·올트먼만나AI외교",
-  "고법\"최태원,노소영에9440억원재산분할해야\",최태원\"판결문검토...",
-  "법원\"최태원,노소영에9440억재산분할\"…SK그룹주희비",
-  "파기환송심결과'최태원측,노소영에9440억원재산분할”",
   "서울고법“최태원회장측,노소영에9440억원재산분할”",
   "최태원측“심려끼쳐송구,판결문검토후상고여부결정\"",
   "[속보]법원\"최태원,노소영에9440억원지급...SK주식분할대상재산포...",
@@ -6001,25 +5997,13 @@
   "‘호남권반도체클러스터’광주군공항찾은SK하이닉스임원진…민...",
   "[단독]빌게이츠방한…韓·美SMR동맹강화한다",
   "SK하이닉스키옥시아지분매각이냐유지냐,일본반발에경영권인수는...",
-  "SK두글자에남은'선경'의기억...일본의식민지정책이낳은이름"
+  "SK두글자에남은'선경'의기억...일본의식민지정책이낳은이름",
+  "[일지]'세기의이혼'최태원·노소영,결혼에서파기환송심까지",
+  "SK하이닉스임원진,광주군공항부지방문",
+  "中반도체공세속'구글캠프'가는이재용·최태원...글로벌빅테크협...",
+  "\"SK이노베이션,베트남에LNG·SMR연계에너지협력방안제시했다\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-29T11:30:27.157893+09:00",
-   "빅테 이어 시칠리아행 이재용 샌프란시스코"
-  ],
-  [
-   "2026-07-29T11:30:27.157893+09:00",
-   "미래를 걸었다 AI에 그룹의 리밸런싱 최태원의"
-  ],
-  [
-   "2026-07-29T11:40:19.540981+09:00",
-   "영업이익 인프라가 만든 글로벌 삼성 기업사 다시 150조 AI"
-  ],
-  [
-   "2026-07-29T11:40:19.540981+09:00",
-   "영업이익률 이유 말한 SK하이닉스가 생태계"
-  ],
   [
    "2026-07-29T12:00:35.490284+09:00",
    "번째 명장면 다섯 기다리며"
@@ -6111,9 +6095,17 @@
   [
    "2026-07-29T17:30:25.471306+09:00",
    "낳은 정책이 남은 식민지 글자에 선경 이름 일본의 기억"
+  ],
+  [
+   "2026-07-29T17:40:20.310555+09:00",
+   "캠프 가는 구글 이재용 반도체 공세 빅테크 글로벌"
+  ],
+  [
+   "2026-07-29T17:40:20.310555+09:00",
+   "SK이노베이션 SMR 제시했다 에너지 LNG 협력 연계 방안 베트남에"
   ]
  ],
- "last_run": "2026-07-29T17:30:42.229522+09:00",
+ "last_run": "2026-07-29T17:40:39.955126+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6394,6 +6386,7 @@
   "womentimes.co.kr": "우먼타임스",
   "m-economynews.com": "M이코노미뉴스",
   "stardailynews.co.kr": "스타데일리뉴스",
-  "kdfnews.com": "한국면세뉴스"
+  "kdfnews.com": "한국면세뉴스",
+  "energydaily.co.kr": "에너지데일리"
  }
 }
