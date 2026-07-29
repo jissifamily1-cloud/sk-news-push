@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10822221",
-  "https://www.news1.kr/politics/president/6240730",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02794566645519112",
-  "https://www.newsis.com/view/NISX20260728_0003725529",
-  "http://www.nongaek.com/news/articleView.html?idxno=96233",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045114",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427151",
   "https://www.newsis.com/view/NISX20260728_0003725629",
   "https://www.etoday.co.kr/news/view/2608059",
   "https://www.etoday.co.kr/news/view/2608061",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20260729095300007?input=1195m",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356652",
   "https://www.topstarnews.net/news/articleView.html?idxno=16148820",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356648"
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356648",
+  "http://www.4th.kr/news/articleView.html?idxno=2115430",
+  "https://www.nspna.com/news/?newsid=822337",
+  "https://www.etoday.co.kr/news/view/2608719",
+  "https://www.inthenews.co.kr/news/article.html?no=89921",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273781",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142240",
+  "https://www.jejudomin.co.kr/news/articleView.html?idxno=320952"
  ],
  "seen_titles": [
-  "AI서밋이어구글캠프까지…이재용·최태원'빅테크외교'",
-  "'바코드스캔없이상품인식'신세계아이앤씨,AI비전리테일솔루션...",
-  "[프리마켓포커스]美반도체주급락에프리마켓3%대약세…SK하이닉스...",
-  "주형철경기도신임경제부지사,취임식없이공식업무돌입",
-  "[클릭e종목]\"오텍,AIDC냉각솔루션사업순항…삼성전자호남권투자...",
-  "李대통령,룰라와우애다지고상파울루로…한-브라질기업인'총출동...",
-  "美증시,유가급락속혼조마감…반도체주하락-[글로벌마감시황]",
   "대이변조예은,캄보디아특급스롱꺾고LPBA32강진출",
   "이재용·최태원,'구글캠프'참석전망…AI동맹확대",
   "[굿모닝마켓]시총상위대격변…'AI지각생'애플,시총1위로",
@@ -6001,33 +5994,16 @@
   "KCC최준용,미국진출도전…\"지금아니면안될것같아결심\"",
   "미래에셋·삼성,월배당ETF경쟁…한화도분배금인상가세",
   "'충충충'한창록데뷔작,오늘부터극장동시VOD시작",
-  "장인화는리튬·구자은은구리…남미서'자원지도'다시그리는총수들"
+  "장인화는리튬·구자은은구리…남미서'자원지도'다시그리는총수들",
+  "코스피·코스닥이틀연속서킷브레이커…반도체등대형주붕괴",
+  "[기업실적]SK하이닉스,2Q실적‘상승’…상반기매출100조원돌파",
+  "이억원“삼전·하이닉스레버리지,증시변동성키워”",
+  "주가회복해도레버리지ETF손실이유는?…한양증권콘텐츠공개",
+  "SKhynixTopsBigTechProfitabilityRankings",
+  "코스피·코스닥,양시장모두이틀연속서킷브레이커",
+  "광복절공연·축구경기까지…서귀포여름축제'신바람'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-29T06:41:09.930322+09:00",
-   "민간투자사업 잠실종합운동장 실시협약 랜드마크로 일대 서울시"
-  ],
-  [
-   "2026-07-29T06:41:09.930322+09:00",
-   "주요공시는 28일 코스피 2분기 거래일 한미사이언스 코스닥"
-  ],
-  [
-   "2026-07-29T06:41:09.930322+09:00",
-   "5조 EFT시장 레버리지만 투기판 줄은 급감에도 설정액 39조"
-  ],
-  [
-   "2026-07-29T06:41:09.930322+09:00",
-   "폭락장 주도주는 반도체 명확한 모멘텀에 이익 증권가 AI 딛고"
-  ],
-  [
-   "2026-07-29T06:41:09.930322+09:00",
-   "실적으로 바닥 폭락장 버틴 다지고 반등 바이오주 나서나"
-  ],
-  [
-   "2026-07-29T06:41:09.930322+09:00",
-   "자리 정체 방울 넘본다 기술 강경주의 극강의 삼전닉스"
-  ],
   [
    "2026-07-29T06:51:23.988512+09:00",
    "담았더니 믿고 깨졌다 삼전닉스 대형주 블루칩"
@@ -7007,9 +6983,25 @@
   [
    "2026-07-29T12:41:09.866585+09:00",
    "그리는 구리 남미서 장인화는 리튬 지도 구자은은 총수들 다시 자원"
+  ],
+  [
+   "2026-07-29T12:46:16.641946+09:00",
+   "이유는 주가 한양증권 회복해도 공개 레버리지ETF 손실 콘텐츠"
+  ],
+  [
+   "2026-07-29T12:46:16.641946+09:00",
+   "Profitability hynix Tops Tech Big Rankings"
+  ],
+  [
+   "2026-07-29T12:46:16.641946+09:00",
+   "코스피 양시장 서킷브레이커 코스닥 모두 연속 이틀"
+  ],
+  [
+   "2026-07-29T12:46:16.641946+09:00",
+   "광복절 신바람 축구경기까지 서귀포 공연 여름축제"
   ]
  ],
- "last_run": "2026-07-29T12:41:21.603137+09:00",
+ "last_run": "2026-07-29T12:46:30.944489+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
