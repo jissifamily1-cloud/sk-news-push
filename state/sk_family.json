@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=807640",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520293",
-  "https://biz.chosun.com/topics/law_firm/2026/07/24/25RAKXUGOBHVPD4QCRMPPJF3XA/",
-  "https://magazine.hankyung.com/business/article/202607244354b",
-  "https://www.yna.co.kr/view/AKR20260724105700004?input=1195m",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886517",
   "https://www.sidae.com/article/2026072414361787516",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541529",
   "https://www.donga.com/news/Society/article/all/20260724/134358190/2",
@@ -2999,15 +2993,15 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718257",
   "http://www.fnnews.com/news/202607291518035739",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256687",
-  "https://www.newsis.com/view/NISX20260729_0003728287"
+  "https://www.newsis.com/view/NISX20260729_0003728287",
+  "https://www.yna.co.kr/view/AKR20260729129600057?input=1195m",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166849",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853221",
+  "https://www.public25.com/news/articleView.html?idxno=51709",
+  "http://www.inews24.com/view/1989928",
+  "https://www.khan.co.kr/article/202607291545001"
  ],
  "seen_titles": [
-  "[속보]법원\"최태원·노소영재산분할은현금으로\"",
-  "“돈과로맨스,부패와배신얽힌현실판K드라마”...외신도주목한최...",
-  "[속보]노소영측,재산분할판결관련질문에'답변없이이동'",
-  "\"최태원회장,노소영관장에게9440억지급하라\"",
-  "“루이암스트롱부터건축가김수근까지”워커힐,63년역사담은‘스...",
-  "\"골든타임지킨다\"…중증소아,도착전수술준비",
   "“이대통령,엔비디아·오픈AICEO다만난다”…미국·남미순방출국",
   "[속보]법원\"최태원,노소영에게9440억원재산분할해야\"",
   "법원\"최태원,노소영에9천440억원재산분할지급해야\"",
@@ -6001,7 +5995,13 @@
   "SK하이닉스사장단,광주군공항부지점검…반도체팹구축논의본격...",
   "SK하이닉스사장단,광주반도체팹부지찾아...삼전사장단도방문예...",
   "[기자수첩]더센상법외쳤던사기꾼들의삼전닉스먹튀사건",
-  "최태원표AI인재전략통했다…SK㈜이직자수절반으로줄어"
+  "최태원표AI인재전략통했다…SK㈜이직자수절반으로줄어",
+  "[르포]\"에어컨요금무서워집밖으로\"…홀몸노인들고단한여름나기",
+  "최태원'호언장담'믿었는데…SK하이닉스실적실망감에주주'피눈물'",
+  "'올공'봉쇄에도…세계정상과시한K-펜싱의힘",
+  "SK하이닉스사장단,반도체팹입지광주군공항방문",
+  "'60조실적'발표직후광주로…SK하이닉스사장단,새팹부지점검",
+  "메모리초호황에도위기감고조…미국압박·중국추격에대비해야"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,17 @@
   [
    "2026-07-29T15:40:16.000680+09:00",
    "이직자수 AI 줄어 전략 최태원표 절반으로 통했다 인재"
+  ],
+  [
+   "2026-07-29T15:50:14.389007+09:00",
+   "정상 세계 올공 펜싱의 봉쇄에도 과시한"
+  ],
+  [
+   "2026-07-29T15:50:14.389007+09:00",
+   "초호황에도 메모리 미국 고조 대비해야 압박 추격에 중국 위기감"
   ]
  ],
- "last_run": "2026-07-29T15:40:33.574014+09:00",
+ "last_run": "2026-07-29T15:50:30.405427+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
