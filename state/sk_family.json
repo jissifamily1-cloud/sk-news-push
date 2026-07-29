@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202607240015",
-  "https://www.sedaily.com/article/20071497",
   "https://www.dailian.co.kr/news/view/1670622/?sc=Naver",
   "https://www.joongangenews.com/news/articleView.html?idxno=535203",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717674",
@@ -2999,11 +2997,11 @@
   "https://www.itbiznews.com/news/articleView.html?idxno=220289",
   "https://www.ngonews.kr/news/articleView.html?idxno=234033",
   "https://kpenews.com/View.aspx?No=4166181",
-  "http://www.econotelling.com/news/articleView.html?idxno=20993"
+  "http://www.econotelling.com/news/articleView.html?idxno=20993",
+  "https://news.mtn.co.kr/news-detail/2026072414074648667",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03109446645519440"
  ],
  "seen_titles": [
-  "[속보]최태원-노소영'재산분할'파기환송심재판부입정",
-  "[1보]법원\"최태원,노소영에재산분할금2천440억원지급\"",
   "[속보]법원\"최태원회장,노소영관장에9440억원지급해야\"",
   "워커힐,63년역사담은'워커힐스토리라운지'조성",
   "[포토타임]미국·남미순방나서는이대통령…‘AI서밋’참석빅테...",
@@ -6001,7 +5999,9 @@
   "'세기의이혼'다음타자는권혁빈…특유재산깬법원,오너지배구조...",
   "국제무대선도하는'일잘러'이재명대통령을흔들지마라.",
   "[통신사AI재편]②통신3사,망·보안못묶으면임대업..데이터센터주...",
-  "◇'기업의초과이익'이뭐길래"
+  "◇'기업의초과이익'이뭐길래",
+  "염승환이사\"반도체관건은AI투자…소부장도주목할시점\"[경제일타...",
+  "'420만닉스'→'280만닉스'…눈높이슬쩍낮춘까닭은"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-07-29T10:10:14.761962+09:00",
    "초과이익 뭐길래 기업의"
+  ],
+  [
+   "2026-07-29T10:20:13.679733+09:00",
+   "까닭은 슬쩍 280만닉스 눈높이 낮춘 420만닉스"
   ]
  ],
- "last_run": "2026-07-29T10:10:25.635210+09:00",
+ "last_run": "2026-07-29T10:20:29.062170+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
