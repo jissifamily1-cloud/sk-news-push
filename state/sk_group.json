@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607281822025387",
-  "http://www.fnnews.com/news/202607281820212181",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273748",
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/28/20260728500266?wlog_tag3=naver",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166775",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260728010010446",
-  "http://www.kjdaily.com/article.php?aid=1785230573683274007",
-  "https://biz.heraldcorp.com/article/10823267",
-  "http://www.fnnews.com/news/202607281822079166",
   "https://www.joongang.co.kr/article/25448859",
   "https://biz.sbs.co.kr/article_hub/20000325174?division=NAVER",
   "https://www.tokenpost.kr/news/market/382247",
@@ -2999,18 +2990,18 @@
   "https://www.sedaily.com/article/20073481",
   "https://www.hankyung.com/article/2026072938691",
   "https://biz.chosun.com/it-science/ict/2026/07/30/3V2UYJBERZCLDHDMYFTYT5QWUU/",
-  "https://n.news.naver.com/mnews/article/091/0010271182"
+  "https://n.news.naver.com/mnews/article/091/0010271182",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356696",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=593039",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008681634&plink=ORI&cooper=NAVER",
+  "https://www.news2day.co.kr/article/20260730500005",
+  "https://www.munhwa.com/article/11605958",
+  "https://thetracker.co.kr/View.aspx?No=4167538",
+  "https://www.ceoscoredaily.com/page/view/2026073004530144263",
+  "https://news.tf.co.kr/read/soccer/2348569.htm",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=593041"
  ],
  "seen_titles": [
-  "독자AI모델,국민200명이직접평가한다",
-  "2배에중독됐다…ETF설정액39조줄때레버리지5조↑",
-  "[속보]SK디앤디,1367억원규모주주배정유상증자결정…채무상환목...",
-  "미국CNBC가경고했다...\"한국의늦장금리인상사태,연준이반면교사...",
-  "AI빚투경쟁에빅테크간자금돌려막기까지…시장임계점왔나",
-  "‘50만전자·500만닉스’물건너갔다?…증권가“지금이진짜매수적기...",
-  "지식재산처-SK,'MOIP테크콘서트'개최…\"미래기술이해부터강한특허...",
-  "갤럭시Z폴드8사전예약...SKT-넷플릭스연계,KT-더블전략,LGU+-AI혜택",
-  "이번에는메가프로젝트…쏟아지는일감에바빠진로펌들",
   "'美中악재'연타에증시패닉셀…코스피10.8%폭락",
   "SK디앤디,발행주식2배넘는유상증자…1367억채무상환",
   "아시아증시'검은화요일'…코스피10.84%폭락,日닛케이도급락",
@@ -6001,7 +5992,16 @@
   "[목요일아침에]‘포템킨빌리지’와한국경제",
   "\"삼전닉스충분히조정받아…올해들어첫매수구간진입\"",
   "[비즈톡톡]中,DUV기술자립성공했지만…14나노이하공정은여전히...",
-  "epaselectPOLANDSOCCER"
+  "epaselectPOLANDSOCCER",
+  "코스피6000선붕괴…사상첫이틀연속서킷브레이커",
+  "삼성전기,코스피폭락장속7.63%급락…레버리지ETF·반도체'셀온뉴...",
+  "'패닉셀'에6천피붕괴…연이틀'동반서킷브레이커'",
+  "뉴욕증시,유가·국채금리뛰자'털썩'…다우2%↓·반도체株'와르르'",
+  "[속보]마이크론10%급락…나스닥1.7%하락‘매파적금리동결영향’",
+  "[단독]SK온,美팩토리얼과전고체배터리'맞손'",
+  "KT개인정보유출과징금오늘공개…법정상한1950억,박윤영號첫시...",
+  "[코리아컵]\"하위리그반란의날\"...서울·울산·인천,K리그1강호연쇄...",
+  "코스피5,663·코스닥662마감…거래량상위엔반도체·전선·로봇주뒤..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,37 @@
   [
    "2026-07-30T06:11:12.711432+09:00",
    "epaselect SOCCER POLAND"
+  ],
+  [
+   "2026-07-30T06:21:08.772235+09:00",
+   "동반 서킷브레이커 연이틀 붕괴 패닉셀 6천피"
+  ],
+  [
+   "2026-07-30T06:21:08.772235+09:00",
+   "유가 털썩 반도체 뛰자 와르르 다우 뉴욕증시 국채금리"
+  ],
+  [
+   "2026-07-30T06:21:08.772235+09:00",
+   "마이크론 매파적 금리동결 급락 영향 나스닥 하락"
+  ],
+  [
+   "2026-07-30T06:21:08.772235+09:00",
+   "배터리 맞손 전고체 SK온 팩토리얼과"
+  ],
+  [
+   "2026-07-30T06:21:08.772235+09:00",
+   "공개 법정 과징금 박윤영 KT 유출 개인정보 상한 1950억"
+  ],
+  [
+   "2026-07-30T06:21:08.772235+09:00",
+   "K리그1 강호 인천 서울 울산 반란의 연쇄 하위리그"
+  ],
+  [
+   "2026-07-30T06:21:08.772235+09:00",
+   "로봇주 거래량 마감 코스피 전선 상위엔 코스닥 반도체"
   ]
  ],
- "last_run": "2026-07-30T06:12:11.456467+09:00",
+ "last_run": "2026-07-30T06:21:30.164093+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
