@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/court-prosecution/6237574",
-  "https://www.viewsnnews.com/article?q=237428",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=362537",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096889",
-  "https://www.segye.com/newsView/20260724509586?OutUrl=naver",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443085",
-  "https://www.newsis.com/view/NISX20260724_0003722229",
   "https://www.news1.kr/photos/8024050",
   "https://www.news1.kr/photos/8024047",
   "https://www.news1.kr/photos/8024046",
@@ -2999,16 +2992,16 @@
   "https://gw.newdaily.co.kr/site/data/html/2026/07/29/2026072900218.html",
   "https://www.sportsseoul.com/news/read/1622462",
   "https://www.newsis.com/view/NISX20260724_0003722185",
-  "https://www.yna.co.kr/view/AKR20260729115351054?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260729115351054?input=1195m",
+  "https://www.starnewskorea.com/sports/2026/07/29/2026072909001482853",
+  "https://www.mt.co.kr/industry/2026/07/29/2026072913240165606",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=307944",
+  "https://www.dailian.co.kr/news/view/1672303/?sc=Naver",
+  "https://www.nocutnews.co.kr/news/6555378",
+  "https://www.newsis.com/view/NISX20260729_0003728409",
+  "https://www.ajunews.com/view/20260729144556324"
  ],
  "seen_titles": [
-  "[속보]법원\"최태원SK주식,분할대상재산포함\"",
-  "[속보]서울고법\"최태원,노소영에9440억원재산분할금지급해야\"",
-  "법원“노소영에재산분할금9440억원지급하라”...최태원“판결문검...",
-  "李대통령,미국·남미순방출국…AI·핵심광물협력모색",
-  "서울고법\"최태원,노소영에재산분할로9천440억원·연5%이자지급\"(상...",
-  "[속보]재산분할9440억원판결에노소영측\"...\"",
-  "[속보]법원“최태원SK주식,분할대상재산포함...항소심변론종결...",
   "SK최태원9440억원재산분할판결",
   "[속보]법원\"SK주식,최태원·노소영분할대상재산포함\"",
   "법원“최태원,노소영에9440억원재산분할”",
@@ -6001,13 +5994,16 @@
   "[포토뉴스]최윤정강원동부보훈지청장,혹서기재가복지대상자위문·...",
   "“루이암스트롱부터건축가김수근까지”워커힐,63년역사담은‘스...",
   "\"골든타임지킨다\"…중증소아,도착전수술준비",
-  "SK하이닉스사장단,반도체팹입지광주군공항현지방문(종합)"
+  "SK하이닉스사장단,반도체팹입지광주군공항현지방문(종합)",
+  "\"운동그만두면뭐먹고살죠?\"올림픽영웅만난체고생들의질문에\"저...",
+  "슈퍼싸이클올라탄반도체이젠'시간과의싸움'..SK하이닉스증설속도",
+  "31일이사회서SK실트론매각결정되나…두산인수시신용도하방압력...",
+  "SK하이닉스,실무진이어사장단도광주행...반도체팹부지점검",
+  "SK하이닉스사장단광주군공항방문…800조반도체팹구축실행논의...",
+  "\"신규투자는성장전략\"…SK,광주반도체팹적극의지(종합)",
+  "[SK하이닉스실적발표]TSMC따돌린영업이익률76%…中추격은변수"
  ],
  "recent_sigs": [
-  [
-   "2026-07-29T10:10:14.761962+09:00",
-   "초과이익 뭐길래 기업의"
-  ],
   [
    "2026-07-29T10:20:13.679733+09:00",
    "까닭은 슬쩍 280만닉스 눈높이 낮춘 420만닉스"
@@ -6111,9 +6107,17 @@
   [
    "2026-07-29T15:50:14.389007+09:00",
    "초호황에도 메모리 미국 고조 대비해야 압박 추격에 중국 위기감"
+  ],
+  [
+   "2026-07-29T16:10:21.386169+09:00",
+   "인수시 SK실트론 31일 신용도 이사회서 하방압력 결정되나 두산 매각"
+  ],
+  [
+   "2026-07-29T16:10:21.386169+09:00",
+   "TSMC 변수 추격은 따돌린 영업이익률"
   ]
  ],
- "last_run": "2026-07-29T16:00:47.291918+09:00",
+ "last_run": "2026-07-29T16:10:39.634102+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
