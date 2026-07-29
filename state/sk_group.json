@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260728_0003725629",
-  "https://www.etoday.co.kr/news/view/2608059",
-  "https://www.etoday.co.kr/news/view/2608061",
-  "http://www.newsprime.co.kr/news/article.html?no=741699",
-  "https://www.mk.co.kr/article/12109060",
-  "http://www.e-platform.net/news/articleView.html?idxno=104174",
-  "https://sports.donga.com/region/article/all/20260728/134376273/1",
-  "https://www.tokenpost.kr/news/economy/381353",
-  "https://www.sentv.co.kr/article/view/sentv202607280003",
-  "https://swtvnews.com/news/newsview.php?ncode=1065568232349520",
-  "https://biz.sbs.co.kr/article_hub/20000325002?division=NAVER",
   "https://www.news1.kr/finance/market-exr/6240859",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=142141",
   "http://www.joseilbo.com/news/news_read.php?uid=572734&class=53",
@@ -2999,20 +2988,20 @@
   "https://www.inthenews.co.kr/news/article.html?no=89921",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=273781",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=142240",
-  "https://www.jejudomin.co.kr/news/articleView.html?idxno=320952"
+  "https://www.jejudomin.co.kr/news/articleView.html?idxno=320952",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313029",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030178017&code=61151111&cp=nv",
+  "https://biz.heraldcorp.com/article/10824278",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16148825",
+  "https://www.munhwa.com/article/11605857",
+  "http://www.fnnews.com/news/202607291234140991",
+  "https://www.khan.co.kr/article/202607291244001",
+  "https://www.kyeonggi.com/article/20260729580095",
+  "https://www.imaeil.com/page/view/2026071908410739103",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=315733",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273782"
  ],
  "seen_titles": [
-  "대이변조예은,캄보디아특급스롱꺾고LPBA32강진출",
-  "이재용·최태원,'구글캠프'참석전망…AI동맹확대",
-  "[굿모닝마켓]시총상위대격변…'AI지각생'애플,시총1위로",
-  "[더벨]'스톤브릿지벤처투자'망고부스트,기술검증넘어상용화",
-  "프리티,알뜰폰브랜드평판2026년7월...1위",
-  "[뉴욕마켓워치]엔비디아급락에하닉ADR공모가하회…채권·달러↑주...",
-  "조예은,LPBA64강서‘캄보디아특급’스롱격파이변",
-  "李대통령,한-브라질'핵심광물·공급망·우주'협력성과이어'세일즈...",
-  "흔들리는반도체주…환율1470원대로상승경계[외환브리핑]",
-  "이대통령,룰라와정상회담마치고상파울루로출국",
-  "[오늘의사설]\"윤석열의거짓말...거액받환위기맞은국힘\"",
   "[08:07가상자산]비트코인,美기술주급락여파에하락",
   "NXT프리마켓서SK하이닉스단1주로'하한가'…주문실수추정",
   "삼전·SK하닉프리마켓서'급락'…23만·160만원대로떨어져",
@@ -6001,7 +5990,18 @@
   "주가회복해도레버리지ETF손실이유는?…한양증권콘텐츠공개",
   "SKhynixTopsBigTechProfitabilityRankings",
   "코스피·코스닥,양시장모두이틀연속서킷브레이커",
-  "광복절공연·축구경기까지…서귀포여름축제'신바람'"
+  "광복절공연·축구경기까지…서귀포여름축제'신바람'",
+  "\"D램3년·HBM4년\"…12조실탄쥔中,한국반도체턱밑까지따라왔다",
+  "목소리속감정·억양까지읽는다…크래프톤,210억파라미터음성AI...",
+  "‘사상최악의증시’이틀연속서킷브레이커…보고도못믿겠다",
+  "\"G리그도전선언\"최준용,30대에미국무대택한이유",
+  "[속보]하닉12%급락에코스피서킷브레이커…이틀연속은사상처음",
+  "원자력연,SK하이닉스와반도체협력강화",
+  "[속보]코스피,8%폭락에이틀째서킷브레이커…5500선후퇴",
+  "[속보]코스피코스닥모두서킷브레이커…20분간매매중단",
+  "[새론새평-곽수종]시장에맞서지마라",
+  "증권가\"SK하이닉스낙폭과도\"...장기계약·HBM4가실적지속성뒷받침",
+  "SKBiopharmaEyesBrazilExpansion"
  ],
  "recent_sigs": [
   [
@@ -6999,9 +6999,21 @@
   [
    "2026-07-29T12:46:16.641946+09:00",
    "광복절 신바람 축구경기까지 서귀포 공연 여름축제"
+  ],
+  [
+   "2026-07-29T12:51:11.591682+09:00",
+   "마라 시장에 맞서지"
+  ],
+  [
+   "2026-07-29T12:51:11.591682+09:00",
+   "낙폭 뒷받침 SK하이닉스 장기계약 HBM4가 과도 지속성 증권가 실적"
+  ],
+  [
+   "2026-07-29T12:51:11.591682+09:00",
+   "Brazil Eyes Biopharma Expansion"
   ]
  ],
- "last_run": "2026-07-29T12:46:30.944489+09:00",
+ "last_run": "2026-07-29T12:51:23.108304+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
