@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607281840063710",
-  "https://biz.heraldcorp.com/article/10822900",
-  "http://www.4th.kr/news/articleView.html?idxno=2115379",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273749",
-  "https://www.starnewskorea.com/sports/2026/07/28/2026072817445930934",
-  "https://www.insight.co.kr/news/564076",
-  "https://www.idomin.com/news/articleView.html?idxno=2011157",
   "https://news.jtbc.co.kr/article/NB12310588?influxDiv=NAVER",
   "https://www.newstnt.com/news/articleView.html?idxno=711983",
   "https://www.ddaily.co.kr/page/view/2026072817262679447",
@@ -2999,16 +2992,16 @@
   "https://www.viva100.com/article/20260729500886",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02430486645519768",
   "http://www.econonews.co.kr/news/articleView.html?idxno=442033",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=593068"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=593068",
+  "https://www.etoday.co.kr/news/view/2608984",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92966",
+  "https://www.mediapen.com/news/view/1113136",
+  "https://www.viewsnnews.com/article?q=237544",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11050",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=315764",
+  "https://www.sedaily.com/article/20073555"
  ],
  "seen_titles": [
-  "OTT구독·더블요금제·단말보상…갤Z8고객유치전'후끈'",
-  "[마감시황]반도체투매에코스피10.84%폭락…6000선턱걸이사수",
-  "‘CXMT쇼크’이어노광장비우회로찾은中…중국반도체굴기에세계...",
-  "신세계아이앤씨,AI비전셀프계산대고도화…일본시장공략",
-  "CXMT성공적상장에中잔뜩고무",
-  "코리아컵우승‘시동’…리그반등‘호기’",
-  "“24시간거래라더무섭다”SK하이닉스토큰주식도15%대폭락[크립...",
   "급락장직격탄…종목10개중6개는저평가",
   "‘제주1호골’아버지발자취따라제주-뮌헨전간다...유상철감독아...",
   "삼성·SK추격시계빨라졌다",
@@ -6001,7 +5994,14 @@
   "“한팀떨어진다”⋯‘국대AI’2R,성능넘어‘실전’서바이벌",
   "메타,AI승부수에휘청…실적발표후시간외거래10%↓",
   "뉴욕증시,미국인플레우려와반도체주약세등영향하락⋯엔비디아...",
-  "[속보]AI실적경계·중동發유가급등에연준매파동결까지…미국뉴..."
+  "[속보]AI실적경계·중동發유가급등에연준매파동결까지…미국뉴...",
+  "뉴욕증시,반도체추락에하락마감…다우까지2.2%↓[상보]",
+  "연준금리동결에도뉴욕증시급락…AI투자부담에기술주일제히약세",
+  "울산시민이울산HD잡고,부산은서울꺾어…코리아컵하위리그반란...",
+  "BNK또\"SK하이닉스목표주가185만→148만원\"",
+  "[오늘의경제뉴스]어닝서프라이즈도안통했다…성장주'고평가시대...",
+  "대만리스크피했더니구마모토가…반도체공급망에타격",
+  "역대급조정장에대규모유증까지…SK디앤디,하한가에‘52주신저가’..."
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,25 @@
   [
    "2026-07-30T06:38:35.924622+09:00",
    "메타 승부수에 AI 시간외거래 발표 휘청 실적"
+  ],
+  [
+   "2026-07-30T06:51:13.490462+09:00",
+   "185만 148만원 목표주가 BNK SK하이닉스"
+  ],
+  [
+   "2026-07-30T06:51:13.490462+09:00",
+   "어닝 성장주 서프라이즈도 통했다 시대 고평가"
+  ],
+  [
+   "2026-07-30T06:51:13.490462+09:00",
+   "피했더니 구마모토가 공급망에 리스크 대만 타격 반도체"
+  ],
+  [
+   "2026-07-30T06:51:13.490462+09:00",
+   "유증까지 신저가 대규모 하한가에 SK디앤디 52주 역대급 조정장에"
   ]
  ],
- "last_run": "2026-07-30T06:41:13.120671+09:00",
+ "last_run": "2026-07-30T06:51:28.530022+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
