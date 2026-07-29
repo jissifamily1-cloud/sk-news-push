@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25447451",
-  "https://www.m-i.kr/news/articleView.html?idxno=1394495",
-  "https://www.mediapen.com/news/view/1111765",
-  "https://www.dt.co.kr/article/12074345",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1531594",
   "https://www.pennmike.com/news/articleView.html?idxno=124237",
   "https://www.m-i.kr/news/articleView.html?idxno=1394503",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83591",
@@ -2999,14 +2994,14 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=82470",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208956",
   "https://www.kyeonggi.com/article/20260729580117",
-  "https://www.nocutnews.co.kr/news/6555152"
+  "https://www.nocutnews.co.kr/news/6555152",
+  "https://news.jtbc.co.kr/article/NB12310717?influxDiv=NAVER",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687928",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=90022",
+  "https://www.hankyung.com/article/2026072930227",
+  "https://www.ytn.co.kr/_ln/0101_202607291350598164"
  ],
  "seen_titles": [
-  "국힘,선관위투표율허위입력의혹에“부실선거인가부정선거인가”",
-  "'양평고속의혹'원희룡,종합특검출석…\"특검의도대로안될것\"",
-  "국힘\"선관위,투표자수전산조작정황…국정조사연장해야\"",
-  "“메신저로짬짜미”선관위통계조작포착…검경,선관위수사확대",
-  "경찰,'태움간호사사망'광주병원압수수색",
   "선관위사태,부실선거에서'투표율조작사건'으로비화···野\"서버공...",
   "국힘,선관위'투표율조작'의혹에국조특위연장촉구",
   "6·3지방선거투표율통계선관위가'임의조작'한정황드러나…합수...",
@@ -6001,10 +5996,15 @@
   "시알홀딩스,비계열사주식5%초과소유…공정위,과징금7900만원부과",
   "살인혐의에엉뚱한아편조항…장윤기수사팀잇단황당실수",
   "‘특징주기사’띄워선행매매…85억챙긴기자·회계사무더기재판행",
-  "\"ㄹㄷ(레디)하면매도\"…기사선행매매로93억챙긴일당기소(종합)"
+  "\"ㄹㄷ(레디)하면매도\"…기사선행매매로93억챙긴일당기소(종합)",
+  "'자작극인정'정이한,경찰에깡통폰냈다...'공모여부'밝힐증거사...",
+  "엔비디아직원체포됐다…AI서버대중국밀수,공급망내부까지번져",
+  "'특징주기사'로86억챙겼다,범인은기자·회계사",
+  "장윤기수사팀,압수수색영장신청서실수로2차례반려당해",
+  "'테러자작극'정이한,경찰에초기화한'깡통폰'제출"
  ],
  "recent_sigs": [],
- "last_run": "2026-07-29T13:50:55.494724+09:00",
+ "last_run": "2026-07-29T14:01:25.170715+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
