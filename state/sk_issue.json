@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=872851",
-  "https://biz.heraldcorp.com/article/10817381",
-  "https://www.news1.kr/society/court-prosecution/6236318",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/23/2026072300066.html",
-  "http://www.fnnews.com/news/202607230941331550",
-  "https://www.joongangenews.com/news/articleView.html?idxno=534704",
-  "https://www.newscj.com/news/articleView.html?idxno=3419234",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=388677",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000051666",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1531577",
@@ -2999,16 +2992,16 @@
   "https://www.socialvalue.kr/news/view/1065569594020207",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427391",
   "https://biz.heraldcorp.com/article/10823651",
-  "https://www.mt.co.kr/society/2026/07/29/2026072907300586331"
+  "https://www.mt.co.kr/society/2026/07/29/2026072907300586331",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43843",
+  "https://www.m-i.kr/news/articleView.html?idxno=1396451",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166792",
+  "https://zdnet.co.kr/view/?no=20260729083505",
+  "https://www.ngonews.kr/news/articleView.html?idxno=234020",
+  "https://www.news1.kr/society/court-prosecution/6242159",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6840825_37012.html"
  ],
  "seen_titles": [
-  "선관위투표율조작의혹…'공전자기록위작'집중조사",
-  "투표율마저거짓입력정황포착…합수본,중앙선관위·경기도선관위...",
-  "합수본,중선위·경기선관위등압수수색…'투표율전산조작'포착",
-  "[속보]합수본,중앙선관위압수수색…직원들'투표통계조작'포착",
-  "'투표율허위입력'정황포착,중앙선관위추가압수수색[상보]",
-  "합수본,중앙선관위등압수수색...'투표율허위입력·통계임의수정...",
-  "선관위'투표자수조작의혹'포착…합수본,강제수사돌입",
   "합수본,선관위'투표율전산조작'정황포착..중앙선관위등압수수색...",
   "선관위'숫자전산임의수정'통계조작정황드러나",
   "\"투표통계조작정황포착\"…중앙선관위압수수색",
@@ -6001,10 +5994,17 @@
   "CJ제일제당,전분당사업매각추진…비핵심사업정리속도",
   "'국고채담합'과징금줄어드나…공정위,영업수익기준검토",
   "‘보완수사권폐지’형소법개정안,與주도법사위소위통과",
-  "'여교사몰카'아들폰부숴버린경찰간부\"장윤기사건과는달라\""
+  "'여교사몰카'아들폰부숴버린경찰간부\"장윤기사건과는달라\"",
+  "김현정의원,결혼서비스가격공개계도기간끝나도'추가금파티'여전",
+  "'공정위조사방해'HD현대중공업전임직원,파기환송심서무죄",
+  "CJ제일제당,전분당사업매각추진…\"사업재편일환\"",
+  "엔비디아대만직원,AI서버중국반출혐의로구속",
+  "검경합동수사본부,'투표율조작혐의'경기도선관위관계자피의자...",
+  "합수본,'투표율허위입력'경기선관위실무자피의자조사",
+  "'연임'개헌논란에단호한송영길\"부적절한발언‥대통령뜻도그렇다..."
  ],
  "recent_sigs": [],
- "last_run": "2026-07-29T08:50:59.509787+09:00",
+ "last_run": "2026-07-29T09:01:17.410900+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
