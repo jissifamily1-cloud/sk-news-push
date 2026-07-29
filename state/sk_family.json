@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260724142703",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277639",
   "http://www.joseilbo.com/news/news_read.php?uid=572557&class=32",
   "https://biz.sbs.co.kr/article_hub/20000324478?division=NAVER",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190129",
@@ -2999,11 +2997,11 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687927",
   "https://view.asiae.co.kr/article/2026072914323040557",
   "https://view.asiae.co.kr/article/2026072914565681338",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687931"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687931",
+  "https://www.newsis.com/view/NISX20260729_0003727342",
+  "https://www.hankyung.com/article/2026072932037"
  ],
  "seen_titles": [
-  "[속보]법원\"최태원,노소영에재산분할9440억원지급하라\"",
-  "[속보]법원“최태원보유주식가치큰폭상승한점재산분할에고려...",
   "[속보]법원\"최태원보유주식가치큰폭상승한점재산분할에참작\"",
   "[속보]법원“최태원보유주식가치큰폭상승한점재산분할에참작...",
   "[속보]법원\"재산분할은현금으로…비율노소영1/3,최태원2/3\"",
@@ -6001,7 +5999,9 @@
   "순이익률118%찍은SK하이닉스\"고객들여전히추가공급요청\"",
   "\"주식폭락?이제시작이야\",\"사이드카가모닝콜됐다\"…역대급롤러코...",
   "SK하이닉스사장단,광주군공항부지방문…800조서남권반도체팹협...",
-  "사상최대실적냈는데...SK하이닉스주가급락왜?"
+  "사상최대실적냈는데...SK하이닉스주가급락왜?",
+  "반도체팹조성속도낸다…SK하이닉스사장단,현장방문",
+  "'60조잭팟'축포후광주로…SK하닉사장단,새팹부지점검"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,13 @@
   [
    "2026-07-29T15:00:35.685827+09:00",
    "냈는데 SK하이닉스 주가 실적 급락 사상"
+  ],
+  [
+   "2026-07-29T15:10:23.306630+09:00",
+   "SK하닉 사장단 부지 축포 잭팟 광주로 60조 점검"
   ]
  ],
- "last_run": "2026-07-29T15:00:46.761455+09:00",
+ "last_run": "2026-07-29T15:10:34.936152+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
