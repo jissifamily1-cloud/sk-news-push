@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=710268",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150243&t=NNv",
-  "http://www.bokuennews.com/news/article.html?no=281768",
-  "https://www.nocutnews.co.kr/news/6548698",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251662&CMPT_CD=P0010",
   "https://www.etnews.com/20260724000265",
   "https://www.slist.kr/news/articleView.html?idxno=753969",
@@ -2999,13 +2995,13 @@
   "https://www.newscj.com/news/articleView.html?idxno=3421120",
   "https://news.tf.co.kr/read/economy/2348591.htm",
   "https://www.segye.com/newsView/20260730503085?OutUrl=naver",
-  "https://www.theguru.co.kr/news/article.html?no=105087"
+  "https://www.theguru.co.kr/news/article.html?no=105087",
+  "https://www.dailian.co.kr/news/view/1672479/?sc=Naver",
+  "http://www.srtimes.kr/news/articleView.html?idxno=208679",
+  "https://biz.heraldcorp.com/article/10825158",
+  "https://magazine.hankyung.com/business/article/202607304748b"
  ],
  "seen_titles": [
-  "최태원,노소영에9440억원재산분할…法\"SK주식도공동재산\"",
-  "\"최태원,노소영에재산분할9440억원지급\"…파기환송심선고",
-  "1조3808억서9440억으로줄었지만…최태원측,다시대법원문두드리나",
-  "최태원vs노소영,법원\"2대1로재산분할\"…노태우비자금은?",
   "최태원SK주식,노태우기여제외해도분할대상···노소영'독자기여...",
   "[초점]최태원회장9천억이혼이남긴것…재벌가이혼,이제는'사생활...",
   "[그래픽]최태원-노소영이혼·재산분할재판결과",
@@ -6001,7 +5997,11 @@
   "SK하이닉스,신입채용에'반나절심층면접'도입…AI인재선발방식...",
   "\"자소서빼고반나절심층면접\"…SK하이닉스,AI맞춤형인재찾는다",
   "SK하이닉스가고싶나요…스펙보다‘이것’키워야",
-  "SK,베트남공략'V2.0'대전환…ISC앞세워푸토성반도체거점'빅픽처..."
+  "SK,베트남공략'V2.0'대전환…ISC앞세워푸토성반도체거점'빅픽처...",
+  "SK하이닉스,AI시대맞춤형채용…'반나절심층면접'도입",
+  "SK하이닉스,AI시대인재선발위한'반나절심층면접'도입",
+  "‘채용새바람’SK하이닉스,반나절심층면접도입",
+  "기후리더자처한중국[ESG뉴스5]"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-07-30T09:10:15.586636+09:00",
    "공략 빅픽처 대전환 반도체 ISC 앞세워 베트남 푸토성 거점"
+  ],
+  [
+   "2026-07-30T09:20:13.756452+09:00",
+   "자처한 중국 리더 기후"
   ]
  ],
- "last_run": "2026-07-30T09:10:27.261696+09:00",
+ "last_run": "2026-07-30T09:20:27.840761+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
