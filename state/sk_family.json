@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pennmike.com/news/articleView.html?idxno=124349",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443091",
-  "https://www.econovill.com/news/articleView.html?idxno=746082",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260724153812biB",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308134&inflow=N",
   "https://magazine.hankyung.com/business/article/202607244536b",
   "https://www.ddaily.co.kr/page/view/2026072414280657868",
   "https://www.hidomin.com/news/articleView.html?idxno=714581",
@@ -2999,14 +2994,14 @@
   "http://enews.imbc.com/News/RetrieveNewsInfo/513113",
   "https://www.donga.com/news/Economy/article/all/20260730/134392982/1",
   "http://www.fnnews.com/news/202607301314030326",
-  "https://www.newsen.com/news_view.php?uid=202607301330012310"
+  "https://www.newsen.com/news_view.php?uid=202607301330012310",
+  "https://www.sportsseoul.com/news/read/1625731",
+  "https://www.topdaily.kr/articles/111213",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607281050353880107349",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166947",
+  "http://www.mdilbo.com/detail/0kIA7d/757568"
  ],
  "seen_titles": [
-  "법원“최태원,노소영에재산분할9440억원지급”결정...SK주식분할...",
-  "역대최대재산분할'9440억원'…SK분할대상·기준주가,법원판단은",
-  "최태원·노소영재산분할파기환송심4368억↓판결…“상고여부등검...",
-  "최태원·노소영파기환송심,재산분할9440억원선고…SK주식분할대상...",
-  "法,\"최태원,노소영에9440억지급\"…2심보다3분의1깎였다",
   "최태원SK회장,노소영에9440억원지급판결…항소심보다4368억원감소",
   "최태원·노소영파기환송심'9440억지급'판결...\"SK주식분할대상인정...",
   "[더벨][최태원-노소영이혼소송]'SK㈜주식'분할대상…9440억현금으로...",
@@ -6001,7 +5996,12 @@
   "'돈선태'제작진,리센느·김선태에사과\"깊이반성\"[전문]",
   "SK하이닉스,AI활용인재찾는다…“반나절심층면접으로검증”",
   "김선태,리센느'무섭노'재소환비판에사과…\"멤버분들에게죄송\"",
-  "‘돈선태’제작진,고개숙였다…리센느원이‘무섭노’2차가해사..."
+  "‘돈선태’제작진,고개숙였다…리센느원이‘무섭노’2차가해사...",
+  "‘무섭노’섬네일에이재명·한동훈해시태그?…KBS‘돈선태’무책...",
+  "SK㈜,실트론매각논의…최태원'9440억재산분할'실탄만들까",
+  "[더벨]'현금넘치는'SK하이닉스,강남입성'호시탐탐'",
+  "총수'지분유무'가갈랐나…주주환원응답한삼전,침묵한닉스",
+  "광주반도체클러스터'국가산단후보지지정'···기업들도'속도전'"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,25 @@
   [
    "2026-07-30T13:00:26.979609+09:00",
    "재방문 게이츠 돌파구 찾는다 1년 만에 전력 SMR 인프라 한국"
+  ],
+  [
+   "2026-07-30T14:00:26.899802+09:00",
+   "SK하이닉스 입성 강남 호시탐탐 현금 넘치는"
+  ],
+  [
+   "2026-07-30T14:00:26.899802+09:00",
+   "지분 응답한 삼전 닉스 총수 갈랐나 유무 침묵한 주주환원"
+  ],
+  [
+   "2026-07-30T14:00:26.899802+09:00",
+   "9440억 재산분할 매각 실트론 만들까 실탄 논의"
+  ],
+  [
+   "2026-07-30T14:00:26.899802+09:00",
+   "국가산단 광주 클러스터 속도전 지정 기업들도 후보지 반도체"
   ]
  ],
- "last_run": "2026-07-30T13:50:23.918987+09:00",
+ "last_run": "2026-07-30T14:00:51.353166+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6369,6 +6385,7 @@
   "kdfnews.com": "한국면세뉴스",
   "energydaily.co.kr": "에너지데일리",
   "businessplus.kr": "비즈니스플러스",
-  "gqkorea.co.kr": "GQ Korea"
+  "gqkorea.co.kr": "GQ Korea",
+  "mdilbo.com": "mdilbo.com"
  }
 }
