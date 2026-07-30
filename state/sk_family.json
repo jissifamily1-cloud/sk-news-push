@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000324460?division=NAVER",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541581",
-  "https://www.segye.com/newsView/20260724513906?OutUrl=naver",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280331",
   "https://www.mt.co.kr/society/2026/07/24/2026072416565837269",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541580",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541579",
@@ -2999,13 +2995,13 @@
   "https://kpenews.com/View.aspx?No=4169323",
   "https://www.insight.co.kr/news/565663",
   "https://www.ajunews.com/view/20260731075127740",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02912646645520096"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02912646645520096",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83739",
+  "https://www.newsis.com/view/NISX20260731_0003730817",
+  "https://www.sedaily.com/article/20074146",
+  "https://www.mt.co.kr/stock/2026/07/31/2026073108122840703"
  ],
  "seen_titles": [
-  "9440억원재산분할선빠진'노태우비자금300억'…검찰은자금추적계...",
-  "“최태원SK주식도재산분할대상…노소영에게9440억원지급”판단...",
-  "李대통령샌프란으로,7박11일순방시작…美빅테크CEO들만나",
-  "최태원·젠슨황,美'AI밀착행보'에쏠린시선",
   "최태원·노소영이혼소송9440억결론…남은건'노태우비자금'수사",
   "최태원회장,파기환송심재산분할9440억원현금조달방안은",
   "'SK주식'도재산분할대상…법조계\"노소영,최태원에판정승\"",
@@ -6001,7 +5997,11 @@
   "최태원,직접사들인SK하이닉스..주가급락에신뢰베팅",
   "왜48억원이었을까...최태원회장,SK하이닉스'최대치'즉시매수",
   "[영상]\"누가3600개를한방에...\"슈카,최태원SK하이닉스주식매수'...",
-  "뉴욕증시,강세마감…필라델피아반도체8%↑급등[뉴스새벽배송]"
+  "뉴욕증시,강세마감…필라델피아반도체8%↑급등[뉴스새벽배송]",
+  "최태원회장,48억규모SK하이닉스주식매입…'책임경영'의지표명",
+  "\"규정상최대치\"최태원SK하이닉스株첫매수'50억원아래'로묶인까...",
+  "美증시훈풍에프리장서삼전15%·닉스18%‘폭등’[이런국장저런주...",
+  "\"안팔길잘했다\"삼전닉스오늘은급등?...프리마켓서13%·16%↑"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,17 @@
   [
    "2026-07-31T08:10:15.352112+09:00",
    "급등 필라델피아반도체 강세 마감 뉴욕증시"
+  ],
+  [
+   "2026-07-31T08:20:19.380281+09:00",
+   "훈풍에 이런국장 저런주 증시 삼전 프리장서 닉스 폭등"
+  ],
+  [
+   "2026-07-31T08:20:19.380281+09:00",
+   "삼전닉스 잘했다 급등 팔길 프리마켓서 오늘은"
   ]
  ],
- "last_run": "2026-07-31T08:10:30.852562+09:00",
+ "last_run": "2026-07-31T08:20:33.433147+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
