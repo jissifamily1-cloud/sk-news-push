@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/incident-accident/6237312",
-  "http://www.bokuennews.com/news/article.html?no=281722",
-  "https://www.newspim.com/news/view/20260723001222",
   "https://www.bosa.co.kr/news/articleView.html?idxno=3008936",
   "https://www.sedaily.com/article/20071243",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=759905",
@@ -2999,12 +2996,12 @@
   "https://www.newdaily.co.kr/site/data/html/2024/07/08/2024070800343.html",
   "https://biz.sbs.co.kr/article_hub/20000169780?division=NAVER",
   "http://www.m-economynews.com/news/article.html?no=43197",
-  "https://www.kukinews.com/article/view/kuk202607300210"
+  "https://www.kukinews.com/article/view/kuk202607300210",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1714467555&code=11151100&cp=nv",
+  "http://www.segye.com/newsView/20240430514424?OutUrl=naver",
+  "http://www.cctimes.kr/news/articleView.html?idxno=919498"
  ],
  "seen_titles": [
-  "잇단실책에해명마다논란키운경찰…진상규명도쇄신도'헛발질'",
-  "\"빙산의일각\"…의협한특위,한방병원압수수색계기제도개혁요구",
-  "[정국진단]윤용근\"보완수사권폐지,이의신청권·인관보호관이대안...",
   "한방병원압수수색'일파만파'...한특위\"구조적문제손봐야\"",
   "‘펀드한번거치면끝?’…CVC편법우회투자길막는다[Pick코노미]",
   "[소비자분쟁The50㉙]\"영수증없으면수리도안된다?\"…가전·생활용품...",
@@ -6001,7 +5998,10 @@
   "'천화동인6호'조우형\"서판교터널개통은미공개정보아냐\"",
   "[김대호박사의오늘기업·사람]애플·화웨이·SK",
   "공정위,SK위장계열사에과징금1억5천만원부과",
-  "선관위특검법국회통과…투표용지부족·채용비리전방위수사"
+  "선관위특검법국회통과…투표용지부족·채용비리전방위수사",
+  "공정위,계열사간채무보증SK그룹플레이스포과징금제재",
+  "공정위,SK계열사부당채무보증제재",
+  "`아동성매매'최영중구속…\"증거인멸우려\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "가격 경유에 혼합 의무 바이오연료 담합"
   ]
  ],
- "last_run": "2026-07-30T21:20:55.998497+09:00",
+ "last_run": "2026-07-30T21:31:10.084927+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
