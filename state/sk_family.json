@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.lawtv.kr/news/articleView.html?idxno=60509",
   "https://www.ytn.co.kr/_ln/0103_202607241708490391",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619497",
   "https://www.newspim.com/news/view/20260724001076",
@@ -2999,10 +2998,10 @@
   "https://www.dongponews.net/news/articleView.html?idxno=59594",
   "https://www.insight.co.kr/news/565661",
   "https://www.the-today.com/news/articleView.html?idxno=88001",
-  "https://www.danbinews.com/news/articleView.html?idxno=33464"
+  "https://www.danbinews.com/news/articleView.html?idxno=33464",
+  "https://www.livebiz.today/news/articleView.html?idxno=203718"
  ],
  "seen_titles": [
-  "\"최악상황모면했지만\"...최태원회장,9천440억원자금조달'난감'",
   "[LAW투데이]\"9,440억원지급\"...최태원·노소영'파기환송심'의미는",
   "\"현금말라도메모리는산다\"…빅테크‘빚투’가연장한반도체슈퍼사...",
   "법원\"최태원,노소영에재산3분의1분할...현금으로9440억지급\"",
@@ -6001,7 +6000,8 @@
   "SK하이닉스파격공채…재외동포청년들에게도기회가될까.",
   "\"시간두면우상향\"최태원회장,SK하이닉스48억원어치샀다",
   "[이슈]\"팔지말라더니본인은바닥에서샀다\"…최태원,첫SK하이닉스매...",
-  "샌프란시스코AI선언"
+  "샌프란시스코AI선언",
+  "\"팔았다,샀다하지말고가만히갖고계시라\"...최태원도처음으로SK하..."
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-07-30T21:40:22.921982+09:00",
    "AI 샌프란시스코 선언"
+  ],
+  [
+   "2026-07-30T21:50:21.746569+09:00",
+   "말고 처음으로 하지 가만히 갖고 샀다 계시라 최태원도 SK하 팔았다"
   ]
  ],
- "last_run": "2026-07-30T21:40:37.882904+09:00",
+ "last_run": "2026-07-30T21:50:34.113030+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
