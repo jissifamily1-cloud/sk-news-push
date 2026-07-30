@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/view.php?key=20230616010008356",
-  "http://www.newspim.com/news/view/20230601001061",
-  "https://www.khan.co.kr/article/202305121706001",
-  "https://www.khan.co.kr/article/202305051637001",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1007180650&plink=ORI&cooper=NAVER",
-  "http://www.pennmike.com/news/articleView.html?idxno=63322",
-  "https://news.kmib.co.kr/article/view.asp?arcid=0018230889&code=61121311&cp=nv",
-  "https://www.munhwa.com/news/view.html?no=2023050501039910021002",
   "http://www.dt.co.kr/contents.html?article_no=2023050502109919608001",
   "https://www.newscj.com/news/articleView.html?idxno=3024812",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1007180173&plink=ORI&cooper=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.sidae.com/article/2026073015441543852",
   "https://www.kyeonggi.com/article/20260730580296",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255399&CMPT_CD=P0010",
-  "https://www.khan.co.kr/article/202607301549001"
+  "https://www.khan.co.kr/article/202607301549001",
+  "http://www.nongaek.com/news/articleView.html?idxno=96278",
+  "https://www.chosun.com/national/national_general/2026/07/30/PTIVUFOUKVDR5ER3FKCHYXLTQI/",
+  "https://imnews.imbc.com/news/2026/politics/article/6841265_36911.html",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2431373",
+  "https://www.gokorea.kr/news/articleView.html?idxno=873590",
+  "https://www.newsis.com/view/NISX20260730_0003730275",
+  "https://www.khan.co.kr/article/202607301607001",
+  "https://www.sidae.com/article/2026073016010235541"
  ],
  "seen_titles": [
-  "檢,'50억클럽'박영수인척·조우형소환…막판혐의다지기",
-  "檢,'천화동인6호실소유의혹'조우형소환조사",
-  "‘대장동개발’조우형,“천화동인6호실소유주?지분공유했을뿐”",
-  "검찰,대장동‘숨은핵심’조우형구속실패···‘50억클럽’수사...",
-  "'천화동인6호'조우형영장기각에…검찰,보강수사착수",
-  "법원,'천화동인6호'조우형구속영장도기각",
-  "“공범들도”…‘천화동인6호’조우형구속영장기각이유",
-  "‘천화동인6호실소유주의심’조우형구속영장기각…“구속필요성...",
   "‘천화동인6호’실소유주의심조우형구속영장기각",
   "'천화동인6호실소유주의혹'조우형구속영장기각",
   "'천화동인6호실소유자의혹'조우형구속영장기각",
@@ -6001,7 +5993,15 @@
   "'여중생성매매혐의'최영중전시의원,법원출석…\"혐의인정?\"묻자",
   "여야,잠실투표지247만장등재검표잠정합의…8월18일예정",
   "'아동성매매혐의'최영중전시의원,침묵속영장심사출석",
-  "42억원상당의료기기리베이트주고받은교수·업체대표등재판행"
+  "42억원상당의료기기리베이트주고받은교수·업체대표등재판행",
+  "[삐딱경제]바이오연료입찰'짬짜미'덜미...2조대과징금폭탄맞나",
+  "임상시험연구비명목으로42억리베이트...업체·교수불구속기소",
+  "여야,'올공'투표지247만장재검표8월18일로잠정합의",
+  "'아동성매매혐의'최영중영장심사출석…취재진질문엔침묵",
+  "\"경기도투표소통계조작의혹…문제의진실은?\"",
+  "'임상연구비'앞세워42억뒷돈…업체·대학병원교수무더기기소",
+  "경유값흔들었나···공정위,‘담합혐의’바이오연료제조사심의착...",
+  "정부가의무매입판깔아줬더니…입찰짜고친바이오연료업체들"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-07-30T12:10:46.924913+09:00",
    "11년간 바이오연료 국내선 담합 에너지안보 7개사가 핵심"
+  ],
+  [
+   "2026-07-30T16:11:06.476103+09:00",
+   "정부가 의무매입 업체들 짜고친 입찰 바이오연료 깔아줬더니"
   ]
  ],
- "last_run": "2026-07-30T16:01:12.660830+09:00",
+ "last_run": "2026-07-30T16:11:14.354986+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6052,6 +6056,7 @@
   "sisajournal-e.com": "시사저널e",
   "m-i.kr": "매일일보",
   "insightkorea.co.kr": "인사이트코리아",
-  "news.mtn.co.kr": "news.mtn.co.kr"
+  "news.mtn.co.kr": "news.mtn.co.kr",
+  "sidae.com": "동행미디어 시대"
  }
 }
