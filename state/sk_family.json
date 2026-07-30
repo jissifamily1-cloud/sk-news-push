@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280328",
-  "https://www.hankookilbo.com/news/article/A2026072414420005274?did=NA",
   "https://www.ajunews.com/view/20260724182633039",
   "http://www.mygoyang.com/news/articleView.html?idxno=89643",
   "https://www.busan.com/view/busan/view.php?code=2026072418481574747",
@@ -2999,11 +2997,11 @@
   "https://biz.sbs.co.kr/article_hub/20000325790?division=NAVER",
   "https://www.delighti.co.kr/news/articleView.html?idxno=119626",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725227",
-  "https://www.abcn.kr/news/articleView.html?idxno=89999"
+  "https://www.abcn.kr/news/articleView.html?idxno=89999",
+  "https://www.mk.co.kr/article/12112979",
+  "https://www.sedaily.com/article/20074127"
  ],
  "seen_titles": [
-  "최태원,노소영에게9440억원지급",
-  "K-유산한자리에모았다…부산에연'대한민국관'",
   "AI는우리경제큰물결…“일하는방식자체를재설계해야”",
   "최태원·노소영이혼소송9년만에마무리…재산분할9440억원",
   "노소영재산분할9440억받는다…최태원현금마련어떻게?[뉴스와이드...",
@@ -6001,7 +5999,9 @@
   "오늘부터현금3천만원있어야레버리지ETF산다",
   "최태원SK회장,SK하이닉스주식48억원어치첫장내매수…\"책임경영의...",
   "[하이닉스성장기③]1100조투자·빅테크동맹…AI주도권다진다",
-  "[ABC뉴스칼럼]지분0.0005%매수가\"책임경영\"실천이라는최태원SK회..."
+  "[ABC뉴스칼럼]지분0.0005%매수가\"책임경영\"실천이라는최태원SK회...",
+  "“반도체투자,의심할때사서확신할때팔아야”…그게언제일까요",
+  "반토막난‘국민주식’달래기…삼성전자·하이닉스,주가부양카드..."
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,17 @@
   [
    "2026-07-31T07:00:39.853559+09:00",
    "실천이라는 책임경영 지분 SK회 매수가"
+  ],
+  [
+   "2026-07-31T07:10:17.080121+09:00",
+   "그게 투자 사서 반도체 확신할 언제일까요 팔아야 의심할"
+  ],
+  [
+   "2026-07-31T07:10:17.080121+09:00",
+   "반토막 부양 주식 카드 삼성전자 주가 하이닉스 달래기 국민"
   ]
  ],
- "last_run": "2026-07-31T07:00:53.379500+09:00",
+ "last_run": "2026-07-31T07:10:31.429970+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
