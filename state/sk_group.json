@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25449214",
-  "http://coinreaders.com/250154",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1171465",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260729010010913",
-  "https://www.kyeonggi.com/article/20260729580382",
-  "https://www.ajunews.com/view/20260729171214811",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=133605",
-  "https://dealsite.co.kr/articles/166206",
-  "https://www.sentv.co.kr/article/view/sentv202607290106",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260729010010837",
   "https://www.sedaily.com/article/20073497",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80198",
   "https://www.ytn.co.kr/_ln/0102_202607291803438059",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/world/international-economy/6244797",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=52936",
   "https://www.mt.co.kr/world/2026/07/31/2026073106081134093",
-  "https://www.ngetnews.com/news/articleView.html?idxno=552002"
+  "https://www.ngetnews.com/news/articleView.html?idxno=552002",
+  "https://www.globale.co.kr/news/articleView.html?idxno=39632",
+  "https://www.sidae.com/article/2026073106200272219",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5386",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473085",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030187269&code=61141211&cp=nv",
+  "https://www.smartbizn.com/news/articleView.html?idxno=149965",
+  "https://www.news2day.co.kr/article/20260730500154",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166950",
+  "https://www.seoul.co.kr/news/economy/2026/07/31/20260731500007?wlog_tag3=naver",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607301140003820161"
  ],
  "seen_titles": [
-  "[사설]최고실적에도우려커진반도체,기술·공급확충박차를",
-  "정부,AI데이터센터산업화위해민관협의체가동",
-  "“韓개인레버리지ETF손실56조원추정”…국회앞엔근조화환",
-  "연준·AI주쌍끌이충격...비트코인(BTC),더밀리나?",
-  "대학생선호기업1위SK하이닉스,2위삼성전자…'의외의3위'는?",
-  "코스피6000선붕괴…한달새시총2800조증발",
-  "“계좌녹아내려”“성실히산인생무너졌다”…증시반토막에개미...",
-  "[오늘의ABC뉴스룸]\"영업익60조\"잭팟에도삼성·SK목표가33%폭락?...",
-  "크래프톤,허깅페이스에음성AI모델'A.XK2Raon-Speech'공개",
-  "여야모두질타한단일종목레버리지ETF…이억원\"시장변동성키운측...",
   "SK하이닉스,2Q영업익60.5조…HBM4로‘정점론’돌파",
   "미국다음은브라질…SK바이오팜,세노바메이트중남미확장시험대",
   "‘AI發급락’전이우려...“英중앙은행,IB‘SK하닉·TSMC’쏠림조...",
@@ -6001,7 +5991,17 @@
   "마이크론18%·SK하닉ADR17%↑…美반도체지수8.2%급등",
   "[브랜드평판]네이버페이,간편결제7월1위...삼성페이,토스페이뒤이...",
   "MS가효자,급락장끊었다…반도체도급반등[뉴욕마감]",
-  "AI웰니스로눈돌린SK인텔릭스…'나무엑스'새성장축될까"
+  "AI웰니스로눈돌린SK인텔릭스…'나무엑스'새성장축될까",
+  "KT,'5G과장광고'139억과징금불복소송패소···대법원상고",
+  "[뉴욕증시]SK하이닉스ADR18%급등…나스닥2.8%등3대지수껑충",
+  "[뉴욕증시마감시황]AI수익화시대열렸다…나스닥2.8%급등,한국증시...",
+  "MS하루만에640조원불었다…반도체도폭등,뉴욕증시다시'AI랠리'...",
+  "주가회복에도구멍난내계좌…레버리지,무서운복리",
+  "반도체주,뉴욕증시끌어올렸다···홍해방위연합에유가는후퇴",
+  "[N2모닝경제브리핑-7월31일]美증시,MS가되살린AI랠리…나스닥...",
+  "개미곡소리나는데…증권가,올상반기역대최대실적",
+  "[서울데이터랩]미국증시,기술주·반도체강세에일제히상승",
+  "[2026시공능력평가]1위삼성물산경영평가액만21조…2위인현대건설..."
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,37 @@
   [
    "2026-07-31T06:21:25.485827+09:00",
    "될까 돌린 성장축 AI 웰니스로 나무엑스 SK인텔릭스"
+  ],
+  [
+   "2026-07-31T06:31:26.398656+09:00",
+   "만에 뉴욕증시 랠리 불었다 다시 폭등 하루 AI 반도체도 640조원 MS"
+  ],
+  [
+   "2026-07-31T06:31:26.398656+09:00",
+   "무서운 회복에도 레버리지 주가 복리 구멍난 계좌"
+  ],
+  [
+   "2026-07-31T06:31:26.398656+09:00",
+   "방위 반도체주 후퇴 연합에 끌어올렸다 유가는 홍해 뉴욕증시"
+  ],
+  [
+   "2026-07-31T06:31:26.398656+09:00",
+   "나스닥 증시 AI랠리 되살린 MS가"
+  ],
+  [
+   "2026-07-31T06:31:26.398656+09:00",
+   "역대 상반기 실적 나는데 개미 증권가 곡소리"
+  ],
+  [
+   "2026-07-31T06:31:26.398656+09:00",
+   "증시 미국 강세에 상승 일제히 반도체 기술주"
+  ],
+  [
+   "2026-07-31T06:31:26.398656+09:00",
+   "1위 현대건설 21조 2위인 경영평가액만 삼성물산"
   ]
  ],
- "last_run": "2026-07-31T06:21:52.547147+09:00",
+ "last_run": "2026-07-31T06:31:48.312929+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
