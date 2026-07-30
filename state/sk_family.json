@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83655",
-  "https://www.mt.co.kr/society/2026/07/24/2026072415101661976",
-  "https://www.news2day.co.kr/article/20260724500238",
-  "http://www.thebigdata.co.kr/view.php?ud=2026072415161714700ecbf9426b_23",
-  "https://theviewers.co.kr/View.aspx?No=4161310",
-  "https://dealsite.co.kr/articles/165920",
   "http://www.popcornnews.net/news/articleView.html?idxno=127585",
   "https://www.yna.co.kr/view/AKR20260724118800004?input=1195m",
   "https://www.sidae.com/article/2026072415191499952",
@@ -2999,15 +2993,15 @@
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336108",
   "https://www.hankyung.com/article/202607305123H",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000053318",
-  "https://biz.heraldcorp.com/article/10825430"
+  "https://biz.heraldcorp.com/article/10825430",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/513079",
+  "https://www.mk.co.kr/article/12111736",
+  "https://economist.co.kr/article/view/ecn202607300019",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3129994",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2250619",
+  "https://www.mt.co.kr/industry/2026/07/30/2026073009401742648"
  ],
  "seen_titles": [
-  "울산시,SK·S-OIL본사방문해AI데이터센터투자·지역협력논의",
-  "최태원·노소영재산분할9440억…재원마련방안은?",
-  "최태원과노소영세기의이혼판결…SK텔레콤5%대급등[이런국장저런...",
-  "비자금빼도9440억원…최태원,재상고가능성끝나지않은‘세기의이...",
-  "'경영권리스크완화'에SK텔레콤5%급등…배당확대기대부각",
-  "최태원,노소영에9440억지급해야…파기환송심서4300억줄어(종합)",
   "법원\"최태원,노소영에재산분할9440억원\"",
   "법원\"최태원,노소영에9440억재산분할지급\"",
   "법원“최태원,노소영에9440억현금지급”⋯‘세기의이혼소송’일...",
@@ -6001,7 +5995,13 @@
   "최형두,이진숙배임·선거법위반혐의에\"민주당이다갖다붙인것\"",
   "\"명백한제잘못\"…김선태,리센느영상논란에공개사과",
   "SK하이닉스,'생각근육'갖춘AI인재뽑는다",
-  "김선태“뭐가무섭노?”…‘일베논란’원이에게“사투리해달라”..."
+  "김선태“뭐가무섭노?”…‘일베논란’원이에게“사투리해달라”...",
+  "\"사전검토못했다\"…김선태,리센느영상논란사과",
+  "김선태,리센느원이‘무섭노’재소환논란에사과“죄송합니다”",
+  "스펙보다'생각근육'본다…SK하이닉스,반나절심층면접도입",
+  "SK하이닉스,학력제한없는신입채용…'반나절심층면접'등AI맞춤전...",
+  "SK하이닉스,학력·자소서없애고'반나절면접'…AI인재채용개편",
+  "메모리슈퍼사이클의역설..삼성전자'한지붕두가족'기막힌성적표"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-07-30T10:50:13.435721+09:00",
    "논란 사투리 무섭노 김선태 뭐가 일베 해달라 원이에게"
+  ],
+  [
+   "2026-07-30T11:00:26.940488+09:00",
+   "삼성전자 역설 한지붕 성적표 슈퍼사이클의 메모리 두가족 기막힌"
   ]
  ],
- "last_run": "2026-07-30T10:50:27.109858+09:00",
+ "last_run": "2026-07-30T11:00:40.536091+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
