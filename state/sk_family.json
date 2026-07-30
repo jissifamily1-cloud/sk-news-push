@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260724500593",
-  "https://www.ajunews.com/view/20260724140447610",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280301",
-  "https://swtvnews.com/news/newsview.php?ncode=1065592446257512",
   "http://www.yonhapnewstv.co.kr/news/MYH20260724151429QQU",
   "https://news.mtn.co.kr/news-detail/2026072414575847556",
   "https://www.newsinside.kr/news/articleView.html?idxno=4863493",
@@ -2999,13 +2995,13 @@
   "https://www.newsen.com/news_view.php?uid=202607300900412310",
   "https://zdnet.co.kr/view/?no=20260730091544",
   "https://www.sidae.com/article/2026073008584879833",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87320"
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87320",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=404930",
+  "https://www.socialvalue.kr/news/view/1065572423602780",
+  "https://thetracker.co.kr/View.aspx?No=4167711",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270611"
  ],
  "seen_titles": [
-  "최태원9천440억파기환송판결에SK주가'무덤덤'…작년급락과대조",
-  "비자금기여배제·사실심주가적용…최태원,'경영권리스크'해소",
-  "법원\"최태원,노소영에9440억원현금지급\"…'세기의재산분할'소모적...",
-  "법원“최태원,노소영에9,440억지급”",
   "역대최대'9440억원'재산분할최태원회장\"송구하다\"",
   "김해시생활개선회과제교육성료안전365캠페인병행",
   "에코프로1.2조유증막혔다…축소대신주주설득",
@@ -6001,7 +5997,11 @@
   "리센느원이에‘무섭노’심경+해시태그논란…‘돈선태’,선공개영...",
   "SK하이닉스,'반나절심층면접'도입…AI시대맞춤형인재선발",
   "스펙아닌사고력본다…SK하이닉스,'반나절심층면접'도입",
-  "SK하이닉스,신입수시채용시작…'반나절심층면접'도입해AI시대..."
+  "SK하이닉스,신입수시채용시작…'반나절심층면접'도입해AI시대...",
+  "K하이닉스,'반나절심층면접'도입…AI시대형채용전면개편",
+  "“스펙대신'생각근육'본다”…SK하이닉스,AI인재찾는반나절심층...",
+  "“스펙보다생각근육본다”…SK하이닉스,'반나절심층면접'도입",
+  "[조기제변호사의로(Law)인사이트(52-1)]최태원-노소영'세기의이혼..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-07-30T09:20:13.756452+09:00",
    "자처한 중국 리더 기후"
+  ],
+  [
+   "2026-07-30T09:40:14.158696+09:00",
+   "세기의 이혼"
   ]
  ],
- "last_run": "2026-07-30T09:30:36.814139+09:00",
+ "last_run": "2026-07-30T09:40:29.726878+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
