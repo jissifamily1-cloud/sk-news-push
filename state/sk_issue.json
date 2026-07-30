@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37221",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848146",
-  "https://www.news1.kr/politics/assembly/6237347",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02004086645517800",
-  "https://www.dailymedi.com/news/news_view.php?wr_id=938699",
   "https://www.busan.com/view/busan/view.php?code=2026072318080723964",
   "https://www.seoul.co.kr/news/society/law/2026/07/24/20260724001006?wlog_tag3=naver",
   "https://www.nocutnews.co.kr/news/6552591",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1672911/?sc=Naver",
   "https://www.kgnews.co.kr/news/article.html?no=905919",
   "https://www.segye.com/newsView/20260730518206?OutUrl=naver",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542583"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542583",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280509",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030185514&code=61121111&cp=nv",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381817",
+  "https://www.ikbc.co.kr/article/view/kbc202607300067",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/30/2026073090230.html"
  ],
  "seen_titles": [
-  "CVC우회투자·SPC채무보증차단…친족독립경영제도도손질",
-  "[출근길브리핑-7월24일]李대통령부동산정책토론회·중앙선관위압...",
-  "국힘,'선관위허위입력의혹'에화력…'서버특검·국조연장'지렛대",
-  "'수백억한방병원보험사기'왜지급단계서못걸렀나",
-  "의협한특委\"경찰자생한방병원압수수색사필귀정\"",
   "[사설]지방선거통계조작정황,선관위일탈어디까지인가",
   "투표인원잘못입력하고숫자조작해덮은선관위",
   "장윤기사건에다시불붙은'리얼돌'논쟁…\"위험성평가필요\"",
@@ -6001,7 +5996,12 @@
   "'아동성매매혐의'최영중전청주시의원구속…法\"증거인멸우려\"",
   "3시간동안투표자'제로'...경기도곳곳선관위통계조작정황",
   "금융당국,‘주가조작1호’수사제동에정식불복…재항고절차돌입",
-  "[속보]‘아동성매매’최영중전청주시의원구속영장발부"
+  "[속보]‘아동성매매’최영중전청주시의원구속영장발부",
+  "‘아동성착취’최영중전청주시의원구속…“증거인멸우려”",
+  "‘미성년자성매수’의혹최영중전청주시의원구속",
+  "'검찰개혁'이라더니'李재판취소용'입법?...與강행한법안뜯어보니",
+  "[속보]'아동성매매·성착취물제작혐의'최영중전청주시의원구속…...",
+  "\"미성년자인줄몰랐다\"…'아동성매매혐의'최영중전시의원구속"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정부가 의무매입 업체들 짜고친 입찰 바이오연료 깔아줬더니"
   ]
  ],
- "last_run": "2026-07-30T18:11:10.132033+09:00",
+ "last_run": "2026-07-30T18:20:59.172402+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
