@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=312508",
-  "http://www.iminju.net/news/articleView.html?idxno=167069",
   "https://www.chosun.com/national/court_law/2026/07/24/EAKKL7TUAZBGLAJXIF3CQMFCVM/",
   "https://www.newspim.com/news/view/20260724000412",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724952",
@@ -2999,11 +2997,11 @@
   "https://www.yeongnam.com/web/view.php?key=20260730024149219",
   "https://www.dailian.co.kr/news/view/1672953/?sc=Naver",
   "https://www.news1.kr/society/court-prosecution/6244583",
-  "https://www.sedaily.com/article/20074011"
+  "https://www.sedaily.com/article/20074011",
+  "https://biz.sbs.co.kr/article_hub/20000325794?division=NAVER",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11060"
  ],
  "seen_titles": [
-  "검찰보완수사권없애면…경찰이떠안을'미제피의자'연3만명",
-  "국힘,선관위'투표율허위입력'에특검확대·전수조사촉구",
   "실시간투표자수잘못입력한선관위“최종투표율만맞추면되는거...",
   "합수본,'투표율조작'선관위이틀째압색…선관위직원메신저영장은...",
   "우버체제앞둔배민…쿠팡이츠와'플랫폼경쟁'점화",
@@ -6001,7 +5999,9 @@
   "[사설]‘3.8조가973만원으로’개미울린엘앤에프",
   "野,형소법상정즉시필리버스터…주호영\"힘있다고다써버리면반드...",
   "종합특검,'수사무마'정원주전통일교비서실장소환",
-  "경유값상승에영향줬나…바이오연료9.7조담합적발[Pick코노미]"
+  "경유값상승에영향줬나…바이오연료9.7조담합적발[Pick코노미]",
+  "KT,'5G과장광고'139억원과징금불복소송공정위에패소",
+  "보완수사권폐지,개혁의대가는누가치르나"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "7조 적발 영향줬나 담합 바이오연료 상승에 경유값"
   ]
  ],
- "last_run": "2026-07-31T06:11:22.976896+09:00",
+ "last_run": "2026-07-31T06:21:15.671833+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
