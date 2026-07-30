@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/industry/2026/07/24/2026072414292169282",
-  "https://www.mk.co.kr/article/12106733",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005673",
   "https://www.dailian.co.kr/news/view/1667640/?sc=Naver",
   "http://www.fnnews.com/news/202607151936299438",
@@ -2999,11 +2997,11 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472978",
   "http://www.fnnews.com/news/202607301507001601",
   "https://daily.hankooki.com/news/articleView.html?idxno=1391251",
-  "https://www.ajunews.com/view/20260730134107240"
+  "https://www.ajunews.com/view/20260730134107240",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2291623",
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=318167"
  ],
  "seen_titles": [
-  "최태원\"일하는방식AI에맞게재설계해야경제도성장\"",
-  "대기업본사울산이전…'김상욱호'화두로다시부상",
   "SK주식도분할대상…法\"최태원,노소영에9440억원지급하라\"",
   "최태원회장,노소영관장에9440억원재산분할\"SK주식공동재산인정...",
   "법원\"최태원,노소영에재산분할금9440억원현금지급해야\"(종합)",
@@ -6001,13 +5999,11 @@
   "빌게이츠,이르면내달방한추진…AI·SMR협력논의주목",
   "\"학력·나이안본다\"...SK하이닉스,AI맞춤형대규모채용시작",
   "SK하이닉스,인재선발에'반나절심층면접'도입…\"채용전형전면개편...",
-  "＜긴급진단＞한국의반도체거대한AI반도체베팅…평택을넘어호남..."
+  "＜긴급진단＞한국의반도체거대한AI반도체베팅…평택을넘어호남...",
+  "'전충주맨'김선태,리센느2차가해논란에\"명백한제잘못\"사과",
+  "스펙보다'생각근육'!…SK하이닉스,'하프데이심층면접'으로AI시대맞..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T09:40:14.158696+09:00",
-   "세기의 이혼"
-  ],
   [
    "2026-07-30T09:50:16.120154+09:00",
    "동학 하이닉스 토막 주가 실적에도 비수 가슴에 개미 꽂은"
@@ -6075,9 +6071,17 @@
   [
    "2026-07-30T15:30:24.760723+09:00",
    "거대한 AI 넘어 긴급진단 한국의 베팅 반도체 호남 평택을"
+  ],
+  [
+   "2026-07-30T15:40:14.384109+09:00",
+   "리센느 충주맨 명백한 잘못 사과 2차 가해 김선태 논란에"
+  ],
+  [
+   "2026-07-30T15:40:14.384109+09:00",
+   "하프데이 생각 근육 스펙보다 심층면접 으로 AI SK하이닉스 시대"
   ]
  ],
- "last_run": "2026-07-30T15:30:38.077209+09:00",
+ "last_run": "2026-07-30T15:40:32.538077+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6362,6 +6366,8 @@
   "energydaily.co.kr": "에너지데일리",
   "businessplus.kr": "비즈니스플러스",
   "gqkorea.co.kr": "GQ Korea",
-  "mdilbo.com": "mdilbo.com"
+  "mdilbo.com": "mdilbo.com",
+  "daejonilbo.com": "대전일보",
+  "updownnews.co.kr": "업다운뉴스"
  }
 }
