@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202607250700569693",
-  "https://www.newscj.com/news/articleView.html?idxno=3419733",
   "https://www.mk.co.kr/article/12106877",
   "https://www.newsis.com/view/NISX20260724_0003722598",
   "https://www.dailian.co.kr/news/view/1670648/?sc=Naver",
@@ -2999,11 +2997,11 @@
   "https://news.jtbc.co.kr/article/NB12311173?influxDiv=NAVER",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542812",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209576",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310612&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310612&t=NN",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685112&plink=ORI&cooper=NAVER",
+  "https://www.newsis.com/view/NISX20260717_0003713149"
  ],
  "seen_titles": [
-  "샌프란시스코도착…오늘젠슨황만나'AI선언'발표",
-  "李대통령,앤트로픽CEO만나\"韓,아시아AI거점최적파트너\"(종합)",
   "앤트로픽CEO만난李대통령,“韓인공지능투자대대적확대”",
   "\"10년소송끝AI붐몫확보실패\"…외신\"한국최고가이혼\"",
   "“9440억도적다”…최태원판결에들끓은여론,왜",
@@ -6001,7 +5999,9 @@
   "\"사팔사팔말라\"던최태원의승부수…'49억베팅'적중",
   "‘저점매수’다음날상한가…최태원,하루만에13억벌어",
   "'최태원하이닉스풀매수'에코스피18%폭등…최회장14억벌었다",
-  "외국인8.8조쓸어담았다…개미는10.4조'대탈출'"
+  "외국인8.8조쓸어담았다…개미는10.4조'대탈출'",
+  "[랭킹뉴스]이번엔사상최대폭등…최태원12억수익냈다",
+  "최태원대한상의회장\"십시일반힘모으면사회바꾸는원동력될것\""
  ],
  "recent_sigs": [
   [
@@ -6169,7 +6169,7 @@
    "대탈출 개미는 외국인 8조 4조 쓸어담았다"
   ]
  ],
- "last_run": "2026-07-31T19:30:42.278201+09:00",
+ "last_run": "2026-07-31T19:40:25.949684+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
