@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/industry-company/2026/07/25/Z6ZO2MKCSNC25ORIKFJ2OW6GRU/",
-  "https://www.chosun.com/national/court_law/2026/07/25/JSJ6PM65MVGDVBBLFVZIXZI7SE/",
-  "https://www.chosun.com/national/court_law/2026/07/25/WWRPUYARA5HRJNNH7K6TBMFDVM/",
-  "https://www.mt.co.kr/politics/2026/07/25/2026072410262515796",
-  "https://www.ajunews.com/view/20260725004648110",
-  "https://www.etoday.co.kr/news/view/2607343",
-  "https://www.dt.co.kr/article/12074603",
-  "https://biz.chosun.com/policy/politics/president_office/2026/07/25/32N36YYBKBDO5CYECSLKRAPIBY/",
   "https://www.ytn.co.kr/_ln/0101_202607250039115508",
   "https://imnews.imbc.com/replay/2026/nw2500/article/6839957_36989.html",
   "https://www.yna.co.kr/view/AKR20260724050200001?input=1195m",
@@ -2999,17 +2991,17 @@
   "https://biz.heraldcorp.com/article/10826771",
   "https://view.asiae.co.kr/article/2026073108022972835",
   "https://www.kukinews.com/article/view/kuk202607310040",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37297"
+  "https://www.junggi.co.kr/news/articleView.html?idxno=37297",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853677",
+  "https://www.ziksir.com/news/articleView.html?idxno=141785",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190404",
+  "http://www.popcornnews.net/news/articleView.html?idxno=128294",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92756",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381887",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260731103024sVW",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255586&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "李,오늘글로벌AI협력‘샌프란시스코선언’",
-  "샌프란도착한李,환영선물은?…젠슨황만나‘AI선언’도발표",
-  "이대통령,샌프란도착…미국측'이정후사인볼'로환영",
-  "'AI동맹'세일즈나선李대통령…젠슨황·올트먼과연쇄회동",
-  "[현장영상]이대통령,첫순방지미국샌프란시스코도착",
-  "李대통령,샌프란시스코도착…美환영식서'이정후사인볼'선물받아",
-  "李대통령,샌프란시스코도착…샘알트만·젠슨황만나'AI세일즈'",
-  "李대통령,샌프란도착…젠슨황·샘올트먼연쇄회동,'샌프란AI선언...",
   "李대통령,샌프란도착…美측'이정후사인볼'환영선물(종합)",
   "최태원·노소영판결나오자SKT5%급등이유",
   "李대통령,美샌프란시스코도착…젠슨황등만나‘AI동맹’",
@@ -6001,7 +5993,15 @@
   "최태원이사니28%올랐다…코인수준등락삼전·닉스[종목Pick]",
   "최태원,하이닉스주식'최대치'49억매수'책임경영'",
   "최태원도사고월가도“저평가”…SK하이닉스저점론확산",
-  "최태원회장,자사주매입다음날수억원대평가차익거둬"
+  "최태원회장,자사주매입다음날수억원대평가차익거둬",
+  "[특징주]삼전닉스20%대폭등…'VI'발동",
+  "[특징주]반도체주투심회복…삼성전자·SK하이닉스장초반20%대급등",
+  "최태원SK회장,사재들여SK하이닉스48억첫장내매수…AI성장자신...",
+  "최태원회장,SK하이닉스3620주매수…책임경영의지반영",
+  "'기막힌타이밍'최태원,SK하이닉스주식48억장내매수…\"책임경영차...",
+  "\"우상향믿어라\"최태원,SK하이닉스주식첫직접매수…반도체주'들...",
+  "최태원회장,SK하이닉스저점매수로하루만에12억평가이익",
+  "7월폭락은'가짜공포'...\"코스피정상화국면진입할것\""
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-07-31T10:30:20.613623+09:00",
    "회장 수억원대 다음날 거둬 평가차익 자사주 매입"
+  ],
+  [
+   "2026-07-31T10:40:14.037987+09:00",
+   "진입할 가짜 국면 정상화 코스피 폭락은 공포 7월"
   ]
  ],
- "last_run": "2026-07-31T10:30:43.298127+09:00",
+ "last_run": "2026-07-31T10:40:27.868514+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
