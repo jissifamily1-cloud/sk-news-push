@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6201554",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164166",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/18/2026061890194.html",
-  "https://www.chosun.com/economy/industry-company/2026/06/18/IHP2XGEMMREBXCJTIUU6KEGQ4Q/",
   "http://www.ddanzi.com/885834244",
   "https://www.mediawatch.kr/news/article.html?no=260063",
   "https://magazine.hankyung.com/business/article/202606160240b",
@@ -2999,13 +2995,13 @@
   "https://www.tokenpost.kr/news/economy/383168",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209436",
   "https://lawtalknews.co.kr/article/1GZPI09SLP8F",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251352"
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251352",
+  "https://biz.heraldcorp.com/article/10826983",
+  "https://www.hidomin.com/news/articleView.html?idxno=715471",
+  "https://www.ytn.co.kr/_ln/0102_202607311144356487",
+  "http://www.metroseoul.co.kr/article/20260731500084"
  ],
  "seen_titles": [
-  "LG엔솔,엔비디아맞춤형카드…대규모수주노린다",
-  "'참정권집회'속시민목소리…'음모론자'밀어낸2030",
-  "최민정",
-  "집회청년들\"본질은참정권…부정선거동조아냐\"당부",
   "글로벌복합위기속생존전략은…26일연합뉴스한반도심포지엄",
   "SK창업주일가3세최영근씨,5년만에그룹복귀…헤리티지팀장근무",
   "'SK창업주일가3세'최영근씨,5년만에그룹지주사복귀",
@@ -6001,7 +5997,11 @@
   "[특징주]SK스퀘어,AI훈풍·최태원SK하이닉스매수에급등",
   "[아침&피플]\"사팔말라\"던최태원회장,48억통큰매수…다시'불장'...",
   "'주가반토막'하이닉스48억어치사들인최태원회장?'50억'넘기지않...",
-  "최태원SK회장의키옥시아뚝심...아픈손가락이'효자'됐다"
+  "최태원SK회장의키옥시아뚝심...아픈손가락이'효자'됐다",
+  "SK하이닉스“적자땐임금조정…성과급절반이상주식으로지급”[...",
+  "최태원의30일'SK하이닉스풀매수'직관화제",
+  "코스피,10%넘는'불기둥'...양시장매수사이드카",
+  "AI가끌어올린롤러코스피…역대급반등에도숨고르는증시"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,25 @@
   [
    "2026-07-31T11:40:21.898818+09:00",
    "키옥시아 회장의 손가락이 뚝심 됐다 아픈 효자"
+  ],
+  [
+   "2026-07-31T11:50:14.299106+09:00",
+   "적자 SK하이닉스 주식으로 지급 이상 임금 절반 성과급 조정"
+  ],
+  [
+   "2026-07-31T11:50:14.299106+09:00",
+   "SK하이닉스 풀매수 30일 최태원의 직관 화제"
+  ],
+  [
+   "2026-07-31T11:50:14.299106+09:00",
+   "코스피 시장 불기둥 넘는 매수 사이드카"
+  ],
+  [
+   "2026-07-31T11:50:14.299106+09:00",
+   "증시 역대급 롤러코스피 AI가 끌어올린 고르는 반등에도"
   ]
  ],
- "last_run": "2026-07-31T11:40:32.857362+09:00",
+ "last_run": "2026-07-31T11:50:35.677767+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
