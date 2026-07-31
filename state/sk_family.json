@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202607250039115508",
-  "https://imnews.imbc.com/replay/2026/nw2500/article/6839957_36989.html",
-  "https://www.yna.co.kr/view/AKR20260724050200001?input=1195m",
-  "https://www.news1.kr/politics/president/6238632",
-  "http://weekly.chosun.com/news/articleView.html?idxno=53775",
-  "https://www.slist.kr/news/articleView.html?idxno=754040",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1784881601&code=11131900&cp=nv",
-  "https://www.radiokorea.com/news/article.php?uid=500106",
-  "https://www.newsis.com/view/NISX20260724_0003722863",
-  "https://www.gokorea.kr/news/articleView.html?idxno=873076",
-  "https://www.mt.co.kr/world/2026/07/24/2026072423265599661",
   "https://www.sedaily.com/article/20071709",
   "https://www.newspim.com/news/view/20260724001200",
   "https://www.ekn.kr/web/view.php?key=20260724024565954",
@@ -2999,20 +2988,20 @@
   "http://www.seouleconews.com/news/articleView.html?idxno=92756",
   "https://www.sisajournal.com/news/articleView.html?idxno=381887",
   "http://www.yonhapnewstv.co.kr/news/AKR20260731103024sVW",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255586&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255586&CMPT_CD=P0010",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268553",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876657",
+  "https://news.jtbc.co.kr/article/NB12311074?influxDiv=NAVER",
+  "https://www.redian.org/news/articleView.html?idxno=257047",
+  "https://www.imaeil.com/page/view/2026073110341860381",
+  "https://www.imaeil.com/page/view/2026073110352481876",
+  "https://www.sidae.com/article/2026073110383175335",
+  "https://www.kyeonggi.com/article/20260731580061",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03936006645520096",
+  "https://www.newspim.com/news/view/20260731000479",
+  "https://view.asiae.co.kr/article/2026073109550148657"
  ],
  "seen_titles": [
-  "李대통령,샌프란도착…美측'이정후사인볼'환영선물(종합)",
-  "최태원·노소영판결나오자SKT5%급등이유",
-  "李대통령,美샌프란시스코도착…젠슨황등만나‘AI동맹’",
-  "이대통령,美샌프란시스코도착…환영식서'이정후사인볼'선물받아",
-  "샌프란시스코도착한이대통령…AI투자·기술협력총력[종합]",
-  "이대통령,미국샌프란시스코도착‘이정후사인볼’받아…샘알트만...",
-  "李,샌프란시스코서빅테크들과‘AI선언’",
-  "이대통령,샌프란도착…젠슨황·샘올트먼등과회동",
-  "SK㈜주가급등에…최태원,지배구조손안대고1조조달가능",
-  "법원,30년가사·양육가치인정…재벌가’33%분할’은이례적",
-  "막내린세기의이혼…“최태원,노소영에9440억줘야”",
   "이재명대통령,美샌프란시스코도착…이정후선수사인볼받았다",
   "李대통령,샌프란시스코도착…곧젠슨황·샘올트먼만난다",
   "이대통령,샌프란시스코도착…글로벌AICEO들과투자·기술협력",
@@ -6001,7 +5990,18 @@
   "'기막힌타이밍'최태원,SK하이닉스주식48억장내매수…\"책임경영차...",
   "\"우상향믿어라\"최태원,SK하이닉스주식첫직접매수…반도체주'들...",
   "최태원회장,SK하이닉스저점매수로하루만에12억평가이익",
-  "7월폭락은'가짜공포'...\"코스피정상화국면진입할것\""
+  "7월폭락은'가짜공포'...\"코스피정상화국면진입할것\"",
+  "'책임경영'내건최태원회장,SK하이닉스주식첫매수한내막살펴보...",
+  "코스피,14%이상폭등'불기둥'…삼전닉스20%대↑",
+  "최태원,SK하이닉스주식48억어치장내매수…\"주가저평가판단\"",
+  "SK하이닉스주가조정속최태원회장48억원매수...책임경영행보",
+  "\"최태원매수했으니주가찐바닥?\"…반토막난하이닉스,분위기반전...",
+  "SK하이닉스·SK스퀘어,美반도체훈풍·최태원매수에20%대급등",
+  "[특징주]132만닉스→하루만에164만닉스,25%껑충",
+  "\"가만히갖고계시면된다\"…최태원,49억매수해하루만에12억",
+  "'저점매수'최태원웃었다…SK하닉급등에12억평가이익",
+  "[특징주]사흘급락딛고반전…'S7'일제히급등",
+  "[이슈]'800조반도체'품은광주군공항이전…난제는여전"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,25 @@
   [
    "2026-07-31T10:40:14.037987+09:00",
    "진입할 가짜 국면 정상화 코스피 폭락은 공포 7월"
+  ],
+  [
+   "2026-07-31T10:50:13.815641+09:00",
+   "매수해 하루만에 가만히 49억 갖고 12억 계시면 된다"
+  ],
+  [
+   "2026-07-31T10:50:13.815641+09:00",
+   "웃었다 SK하닉 12억 저점매수 급등에 평가이익"
+  ],
+  [
+   "2026-07-31T10:50:13.815641+09:00",
+   "반전 급락 딛고 일제히 급등 사흘 S7"
+  ],
+  [
+   "2026-07-31T10:50:13.815641+09:00",
+   "품은 여전 이전 난제는 공항 반도체 800조 광주"
   ]
  ],
- "last_run": "2026-07-31T10:40:27.868514+09:00",
+ "last_run": "2026-07-31T10:50:37.132583+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
