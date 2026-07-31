@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.cctimes.kr/news/articleView.html?idxno=911065",
-  "https://www.smarttoday.co.kr/ko-kr/articles/108294",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285508053069",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3604748",
-  "https://magazine.hankyung.com/job-joy/article/202606107577d",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1058961",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2437290",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=50998",
   "https://www.kmib.co.kr/article/view.asp?arcid=0029917206&code=61221111&cp=nv",
@@ -2999,15 +2993,15 @@
   "http://www.fnnews.com/news/202607311317289089",
   "http://www.fnnews.com/news/202607311605130723",
   "https://www.news2day.co.kr/article/20260731500226",
-  "https://www.yna.co.kr/view/AKR20260731042151008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260731042151008?input=1195m",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04933126645520096",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718689",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=205872",
+  "https://biz.heraldcorp.com/article/10827337",
+  "https://www.dkilbo.com/news/articleView.html?idxno=550154",
+  "http://www.newsprime.co.kr/news/article.html?no=742306"
  ],
  "seen_titles": [
-  "한국은행광주전남본부,목포본부와세미나개최",
-  "울산울주군해뜨미씨름단김무호,보은단오장사씨름대회한라장사등극",
-  "모래판지배한김무호보은서커리어그랜드슬램달성",
-  "씨름김무호,4대민속메이저대회커리어'그랜드슬램'",
-  "‘한라급최강’김무호,보은단오장사우승…4대그랜드슬램달성",
-  "'19연승질주'김무호,보은단오대회서한라장사등극",
   "'무패행진'씨름김무호,보은단오대회서그랜드슬램달성",
   "‘9000선목전에두고변동성확대’코스피3대악재에발목잡힐까",
   "제33회중소기업융합대구경북연합회골프대회",
@@ -6001,17 +5995,15 @@
   "\"적자나면임금조정하겠다고?\"…SK하닉노조'발끈'",
   "\"하루만에12억벌었다\"...SK하이닉스49억쾌척한최태원의'대박'",
   "최태원‘49억베팅’하루만에14억벌었다…SK하이닉스·스퀘어동반...",
-  "하이닉스'17년만상한가',삼전26.8%↑…역대최고상승률(종합)"
+  "하이닉스'17년만상한가',삼전26.8%↑…역대최고상승률(종합)",
+  "‘불기둥’쏜코스피,17%급등…글로벌금융위기뛰어넘어",
+  "삼성·SK하이닉스시총하루만에300조상승…역사적반등기록",
+  "[마감시황]코스피,1001.89포인트오른6595.45마감",
+  "‘하루1000포인트상승실화냐’…코스피17.9％↑‘역대급불기둥’...",
+  "코스피17.91%폭등마감···역대최대상승률·상승폭경신",
+  "코스피,'검은목요일'충격딛고17.9%폭등에'6500선안착'…코스닥..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T10:30:20.613623+09:00",
-   "확산 SK하이닉스 저점론 최태원도 사고 저평가 월가도"
-  ],
-  [
-   "2026-07-31T10:30:20.613623+09:00",
-   "회장 수억원대 다음날 거둬 평가차익 자사주 매입"
-  ],
   [
    "2026-07-31T10:40:14.037987+09:00",
    "진입할 가짜 국면 정상화 코스피 폭락은 공포 7월"
@@ -6175,9 +6167,13 @@
   [
    "2026-07-31T16:20:16.012173+09:00",
    "하이닉스 역대최고 삼전 상한가 상승률 17년만"
+  ],
+  [
+   "2026-07-31T16:30:23.573493+09:00",
+   "검은 코스피 목요일 안착 충격 6500선 딛고 코스닥 폭등에"
   ]
  ],
- "last_run": "2026-07-31T16:20:27.739752+09:00",
+ "last_run": "2026-07-31T16:30:36.820985+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
