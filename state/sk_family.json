@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674147&plink=ORI&cooper=NAVER",
-  "https://view.asiae.co.kr/article/2026072506210303030",
-  "https://www.dt.co.kr/article/12074605",
-  "https://www.tjb.co.kr/news05/bodo/view/id/101460",
-  "https://www.bntnews.co.kr/article/view/bnt202607250007",
   "https://www.g-enews.com/view.php?ud=202607250538329115fbbec65dfb_1",
   "https://www.kmaeil.com/news/articleView.html?idxno=644643",
   "https://www.bntnews.co.kr/article/view/bnt202607250008",
@@ -2999,14 +2994,14 @@
   "https://www.xportsnews.com/article/2178632",
   "http://www.srtimes.kr/news/articleView.html?idxno=208876",
   "https://www.hankookilbo.com/news/article/A2026073118140004849?did=NA",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=308123"
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=308123",
+  "https://view.asiae.co.kr/article/2026073118554579886",
+  "https://shindonga.donga.com/3/all/13/6287857/1",
+  "https://www.newsway.co.kr/news/view?ud=2026073118402389474",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=738773",
+  "https://www.ekn.kr/web/view.php?key=20260731023038455"
  ],
  "seen_titles": [
-  "[포토S]이승준감독-최성환코치,'우수지도자상수상'",
-  "[MD포토]이승준감독-최성환코치'우수지도자상수상'",
-  "세명종합병원,복지부'포괄2차종합병원'최종지정…지역의료거점...",
-  "최태원,\"SK하이닉스주식,샀다팔았다말고가만히갖고계세요\"",
-  "최태원,재산분할액'1조육박'…현금조달어떻게이뤄질까",
   "점잖은CEO필요없다…구광모회장“기업적극알릴스타경영자시대...",
   "이대통령,미국샌프란시스코도착…빅테크CEO연쇄회동‘AI협력’",
   "200년전홍어장수의삶,공연예술축제로경험",
@@ -6001,7 +5996,12 @@
   "1화도못하고…김선태하차·KBS편성취소,'돈선태'사실상폐지[엑...",
   "SK(주),두산에SK실트론매각확정…이변없었다",
   "AI슈퍼사이클에도반도체웨이퍼기업판SK...\"두산과초과이익공유...",
-  "SK,SK실트론2.3조에두산으로…AI투자재원확보"
+  "SK,SK실트론2.3조에두산으로…AI투자재원확보",
+  "김선태,'2차가해'논란에'돈선태'자진하차\"리센느에직접사과\"",
+  "생각과질문을끌어내는공간,수원지관서가를가다",
+  "7개월진통끝두산품에…SK,SK실트론2.3조에팔았다(종합)",
+  "[마감시황]코스피'분노의반격'...AI훈풍에1000p급등",
+  "반도체호황에도매각…SK가본건‘다음10년’"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,13 @@
   [
    "2026-07-31T18:50:25.425591+09:00",
    "자리한 삼성 SK하이닉스 강남 건립 사옥 한복판에"
+  ],
+  [
+   "2026-07-31T19:10:20.930856+09:00",
+   "10년 다음 매각 반도체 SK가 호황에도"
   ]
  ],
- "last_run": "2026-07-31T19:00:56.444390+09:00",
+ "last_run": "2026-07-31T19:10:35.237430+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
