@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260730500414",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443584",
   "http://www.newstomato.com/ReadNews.aspx?no=1308779&inflow=N",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43895",
   "https://www.tjb.co.kr/news05/bodo/view/id/101742",
@@ -2999,11 +2997,11 @@
   "https://www.mediafine.co.kr/news/articleView.html?idxno=85247",
   "https://www.mt.co.kr/industry/2026/08/01/2026073112495369690",
   "https://economist.co.kr/article/view/ecn202607280034",
-  "https://www.hankookilbo.com/news/article/A2026073014430000422?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026073014430000422?did=NA",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=85250",
+  "https://magazine.hankyung.com/business/article/202608019030b"
  ],
  "seen_titles": [
-  "서경대,AI융합실전형인재양성부트캠프운영본격화",
-  "이숭용감독,신인김민준호투에“인물하나들어왔다”[스경X현장]",
   "행복나래,온율과협약...'SK임팩트부스터'소셜벤처법률지원",
   "SK이노베이션,2분기3.5조흑자..윤활유·배터리수익성개선",
   "\"하지않는게최선\"…'ETF아버지'배재규,단일종목레버리지재차경고",
@@ -6001,7 +5999,9 @@
   "아마존호실적에뉴욕증시상승-기술주투자심리회복조짐",
   "AI가바꾼메모리거래…'뉴노멀'된삼전닉스·마이크론장기공급계약",
   "“주식팔면다음날입금”…속도내는T+1결제도입에증시부양기대...",
-  "李대통령‘샌프란AI선언’,韓美中‘글로벌3각구도’막올렸다[..."
+  "李대통령‘샌프란AI선언’,韓美中‘글로벌3각구도’막올렸다[...",
+  "SK,SK실트론두산에2조3000억원매각-반도체사업재편·투자재원확...",
+  "SK하닉노사충돌···\"적자땐임금조정\"vs\"합의훼손\""
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,13 @@
   [
    "2026-08-01T08:35:12.805448+09:00",
    "선언 AI 3각 구도 올렸다 글로벌 샌프란 대통령"
+  ],
+  [
+   "2026-08-01T08:41:06.133742+09:00",
+   "임금 적자 조정 충돌 합의 훼손 노사 SK하닉 vs"
   ]
  ],
- "last_run": "2026-08-01T08:35:21.336538+09:00",
+ "last_run": "2026-08-01T08:41:12.495079+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
