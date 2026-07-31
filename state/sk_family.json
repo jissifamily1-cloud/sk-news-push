@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607250538329115fbbec65dfb_1",
-  "https://www.kmaeil.com/news/articleView.html?idxno=644643",
-  "https://www.bntnews.co.kr/article/view/bnt202607250008",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852376",
-  "https://www.ikbc.co.kr/article/view/kbc202607250001",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674119&plink=ORI&cooper=NAVER",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030159249&code=61111111&cp=nv",
   "http://www.fnnews.com/news/202607241833368572",
@@ -2999,14 +2994,14 @@
   "https://shindonga.donga.com/3/all/13/6287857/1",
   "https://www.newsway.co.kr/news/view?ud=2026073118402389474",
   "https://www.polinews.co.kr/news/articleView.html?idxno=738773",
-  "https://www.ekn.kr/web/view.php?key=20260731023038455"
+  "https://www.ekn.kr/web/view.php?key=20260731023038455",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=829038",
+  "https://www.mydaily.co.kr/page/view/2026071718133755858",
+  "https://www.public25.com/news/articleView.html?idxno=50888",
+  "https://www.ceoscoredaily.com/page/view/2026073119082854612",
+  "https://www.khan.co.kr/article/202607311911001"
  ],
  "seen_titles": [
-  "점잖은CEO필요없다…구광모회장“기업적극알릴스타경영자시대...",
-  "이대통령,미국샌프란시스코도착…빅테크CEO연쇄회동‘AI협력’",
-  "200년전홍어장수의삶,공연예술축제로경험",
-  "최태원\"AI에데이터계속먹여야큰다\"…대한상의제주포럼성료",
-  "이대통령,앤트로픽CEO만나“韓AI투자확대…각별한관심기대”",
   "이재명대통령,아모데이앤트로픽CEO면담…“AI협력확대”",
   "[모닝와이드]오늘의주요뉴스",
   "최태원-노소영이혼·재산분할재판결과",
@@ -6001,7 +5996,12 @@
   "생각과질문을끌어내는공간,수원지관서가를가다",
   "7개월진통끝두산품에…SK,SK실트론2.3조에팔았다(종합)",
   "[마감시황]코스피'분노의반격'...AI훈풍에1000p급등",
-  "반도체호황에도매각…SK가본건‘다음10년’"
+  "반도체호황에도매각…SK가본건‘다음10년’",
+  "[포토S]이승준감독-최성환코치,'우수지도자상수상'",
+  "[MD포토]이승준감독-최성환코치'우수지도자상수상'",
+  "최태원,\"SK하이닉스주식,샀다팔았다말고가만히갖고계세요\"",
+  "SK,SK실트론2.3조원에두산매각…최태원재산분할해법찾았다",
+  "두산,SK실트론품는다…“에너지·로봇에이어반도체까지AI시대준비..."
  ],
  "recent_sigs": [
   [
@@ -6165,7 +6165,7 @@
    "10년 다음 매각 반도체 SK가 호황에도"
   ]
  ],
- "last_run": "2026-07-31T19:10:35.237430+09:00",
+ "last_run": "2026-07-31T19:20:34.164997+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
