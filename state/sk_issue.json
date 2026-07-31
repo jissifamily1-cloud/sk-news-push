@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8023991",
-  "https://www.news1.kr/photos/8023990",
-  "https://www.news1.kr/photos/8023985",
-  "https://www.news1.kr/photos/8023992",
-  "https://www.news1.kr/photos/8023987",
-  "https://www.imaeil.com/page/view/2026072414301595788",
-  "https://biz.sbs.co.kr/article_hub/20000324484?division=NAVER",
-  "https://www.m-i.kr/news/articleView.html?idxno=1395044",
   "https://www.pointe.co.kr/news/articleView.html?idxno=82222",
   "http://www.inews24.com/view/1988543",
   "https://www.gukjenews.com/news/articleView.html?idxno=3645390",
@@ -2999,17 +2991,17 @@
   "http://www.tongilnews.com/news/articleView.html?idxno=217112",
   "http://www.iminju.net/news/articleView.html?idxno=167449",
   "https://www.naeil.com/news/read/597329",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255683&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255683&CMPT_CD=P0010",
+  "http://www.impacton.net/news/articleView.html?idxno=19800",
+  "http://www.srtimes.kr/news/articleView.html?idxno=208867",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381963",
+  "https://www.pressian.com/pages/articles/2026073117151470901",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661716",
+  "https://www.yna.co.kr/view/AKR20260731142200004?input=1195m",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308883&inflow=N",
+  "https://view.asiae.co.kr/article/2026073117224924964"
  ],
  "seen_titles": [
-  "합수본,이틀째선관위압수수색",
-  "합수본,이틀째중앙선관위등압수수색",
-  "선관위이틀째압수수색",
-  "합수본,선관위이틀째압수수색",
-  "'투표율통계조작'이틀째압수수색진행중인선관위",
-  "경찰,경북경산아파트관리실방화강제수사착수…피의자주거지·차...",
-  "공정위,HDC계열사'아이파크영창'현장조사",
-  "전건협·공정위,불공정관행근절위한상생협약체결",
   "공정위,중견건설사30곳과상생협약…유보금폐지·하자소송책임분...",
   "이언주의원합성음란물온라인게시하고유포혐의⋯60대기업인검찰...",
   "나경원\"투표율맞추려전산데이터조작포착\"",
@@ -6001,7 +5993,15 @@
   "국회,'검사수사권폐지'형소법개정안가결",
   "'검수완박'현실화…형소법개정안,與주도로국회통과",
   "10월2일검찰수사권폐지된다",
-  "'피습자작극'정이한구속기소,선거방해교사혐의추가"
+  "'피습자작극'정이한구속기소,선거방해교사혐의추가",
+  "【박란희의TalkTalk】지식의문이닫히면",
+  "공정위,'스드메'가격공개준수집중점검",
+  "'곳곳에위헌논란'보완수사권완전폐지법…누가무슨조항넣었나",
+  "'장윤기부실수사'전광주광산형사과장,두번째영장심사출석",
+  "형사소송법개정안,국회본회의통과",
+  "대검찰청2분기우수사례에'경찰불법체포'밝힌검사",
+  "(SPC노조탄압공판100회)⑧(단독)안전경영에'천억'투자했다던SPC…'...",
+  "'보완수사권폐지'형소법통과에野반발…\"李대통령,거부권행사해야..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "5G SKT 인용해 잘모른다 문건 고객"
   ]
  ],
- "last_run": "2026-07-31T17:21:15.887415+09:00",
+ "last_run": "2026-07-31T17:31:05.963660+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
