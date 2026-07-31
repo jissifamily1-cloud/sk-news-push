@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1308779&inflow=N",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=43895",
-  "https://www.tjb.co.kr/news05/bodo/view/id/101742",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16150208",
   "https://www.g-enews.com/view.php?ud=20260730172435545524debea800_1",
   "https://www.mk.co.kr/article/12112145",
   "https://www.g-enews.com/view.php?ud=2026073016343578024debea800_1",
@@ -2999,13 +2995,13 @@
   "https://economist.co.kr/article/view/ecn202607280034",
   "https://www.hankookilbo.com/news/article/A2026073014430000422?did=NA",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=85250",
-  "https://magazine.hankyung.com/business/article/202608019030b"
+  "https://magazine.hankyung.com/business/article/202608019030b",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718717",
+  "https://www.cnbizm.com/news/articleView.html?idxno=310328",
+  "https://www.wikitree.co.kr/articles/1149741",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11068"
  ],
  "seen_titles": [
-  "행복나래,온율과협약...'SK임팩트부스터'소셜벤처법률지원",
-  "SK이노베이션,2분기3.5조흑자..윤활유·배터리수익성개선",
-  "\"하지않는게최선\"…'ETF아버지'배재규,단일종목레버리지재차경고",
-  "3.5조이익낸SK이노베이션…SK온,흑자굳히고효자될까(종합)",
   "국민성장펀드,HBM장비사‘테크윙’550억대출",
   "건설사시공평가1·2위는삼성·현대…GS건설3위올라서며‘지각변동...",
   "‘하이닉스470만원’노무라의코스피급락진단…레버리지·국민연금...",
@@ -6001,7 +5997,11 @@
   "“주식팔면다음날입금”…속도내는T+1결제도입에증시부양기대...",
   "李대통령‘샌프란AI선언’,韓美中‘글로벌3각구도’막올렸다[...",
   "SK,SK실트론두산에2조3000억원매각-반도체사업재편·투자재원확...",
-  "SK하닉노사충돌···\"적자땐임금조정\"vs\"합의훼손\""
+  "SK하닉노사충돌···\"적자땐임금조정\"vs\"합의훼손\"",
+  "아마존호실적에기술주반등…뉴욕증시일제히상승",
+  "SK오션플랜트,6800DWT급화학제품운반선2척수주…718억규모",
+  "엔비디아지포스,VRAM값폭등에최대40%인상설",
+  "[오늘의경제뉴스]레버리지의덫…개인은'반토막'증권사는'대박'"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,21 @@
   [
    "2026-08-01T08:41:06.133742+09:00",
    "임금 적자 조정 충돌 합의 훼손 노사 SK하닉 vs"
+  ],
+  [
+   "2026-08-01T08:51:03.556692+09:00",
+   "718억 2척 규모 SK오션플랜트 수주 6800DWT급 화학제품운반선"
+  ],
+  [
+   "2026-08-01T08:51:03.556692+09:00",
+   "엔비디아 폭등에 인상설 VRAM값 지포스"
+  ],
+  [
+   "2026-08-01T08:51:03.556692+09:00",
+   "레버리지의 증권사는 개인은 대박 반토막"
   ]
  ],
- "last_run": "2026-08-01T08:41:12.495079+09:00",
+ "last_run": "2026-08-01T08:51:14.869681+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
