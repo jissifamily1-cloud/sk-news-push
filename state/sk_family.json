@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490354.html",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839918_37004.html",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673932&plink=ORI&cooper=NAVER",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673931&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839917_37004.html",
-  "https://www.mt.co.kr/politics/2026/07/24/2026072415335150695",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673941&plink=ORI&cooper=NAVER",
-  "https://www.mk.co.kr/article/12107010",
   "https://www.joongang.co.kr/article/25447943",
   "https://www.newsis.com/view/NISX20260724_0003722210",
   "https://www.ytn.co.kr/_ln/0103_202607242014069791",
@@ -2999,17 +2991,17 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260731010011602",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454426",
   "https://www.ilyosisa.co.kr/news/article.html?no=257151",
-  "https://www.seoultimes.news/news/article.html?no=2000098337"
+  "https://www.seoultimes.news/news/article.html?no=2000098337",
+  "https://www.news1.kr/local/kangwon/6244988",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155668",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542674",
+  "http://www.breaknews.com/1225838",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1172520",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93055",
+  "https://www.news2day.co.kr/article/20260731500023",
+  "http://www.4th.kr/news/articleView.html?idxno=2115569"
  ],
  "seen_titles": [
-  "9400억넘는재산분할금…최태원회장자금조달어떻게?",
-  "노소영-최태원재산분할9940억원...“가사·양육기여인정에도절반...",
-  "최태원·노소영역대급재산분할,'4조'권혁빈이혼소송판흔든다",
-  "“9440억원‘현금’으로지급하라”",
-  "“재산1/3은노소영몫…SK주식포함”",
-  "[위클리오늘]영천시6급이하인사이동(2026.7.28.字)",
-  "665억→1조3천→9440억…재산분할액'널뛰기'이유는?",
-  "\"최태원,노소영에재산분할금9440억원지급\"",
   "최태원-노소영'세기의이혼',재산분할금1조3808억→9440억…'SK주식...",
   "이대통령'샌프란·남미'순방길…젠슨황·샘올트먼만난다",
   "엔비디아,샌프란시스코AI서밋서한국AI생태계협력확대…글로벌...",
@@ -6001,7 +5993,15 @@
   "최태원회장,공시규정최대치48억매수에뉴욕까지들썩…24시간움직...",
   "횡성군,폭염대응도로살수차운행…도심열섬현상완화",
   "‘책임경영’의지?최태원,SK하이닉스주식48억원어치첫매입",
-  "\"최태원회장의책임경영\"...SK하이닉스주식48억원어치첫매수"
+  "\"최태원회장의책임경영\"...SK하이닉스주식48억원어치첫매수",
+  "'도심열섬효과완화'…횡성군,8월한달간살수차투입",
+  "최태원회장,SK하이닉스첫직접매수…47억투입해'책임경영'승부수",
+  "최태원,SK하이닉스첫직접투자…최대치48억매수",
+  "“갖고있으라”던최태원SK회장,고점서반토막뒤처음샀다",
+  "SK하이닉스주가,급등세...왜?",
+  "[STOCK톺]살아난'AI낙관론'…삼전19%·SK하닉18%급등",
+  "\"다음주코스피저가매수세유입,변동성완화기대\"<신한투자證>",
+  "UBS\"메모리공급부족최소2028년까지지속\""
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,29 @@
   [
    "2026-07-31T08:40:21.357151+09:00",
    "증시 삼성전자 조정 호실적에 국내 끝나나 반도체"
+  ],
+  [
+   "2026-07-31T09:20:14.209326+09:00",
+   "주가 급등세 SK하이닉스"
+  ],
+  [
+   "2026-07-31T09:20:14.209326+09:00",
+   "토막 있으라 샀다 고점서 갖고 처음 SK회장"
+  ],
+  [
+   "2026-07-31T09:20:14.209326+09:00",
+   "AI SK하닉 삼전 낙관론 급등 살아난"
+  ],
+  [
+   "2026-07-31T09:20:14.209326+09:00",
+   "유입 저가 다음주 매수세 코스피 완화 변동성 신한투자 기대"
+  ],
+  [
+   "2026-07-31T09:20:14.209326+09:00",
+   "지속 최소 메모리 부족 공급 UBS 2028년까지"
   ]
  ],
- "last_run": "2026-07-31T09:10:24.435527+09:00",
+ "last_run": "2026-07-31T09:20:37.892614+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
