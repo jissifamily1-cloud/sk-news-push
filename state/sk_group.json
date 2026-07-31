@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ibabynews.com/news/articleView.html?idxno=153369",
-  "https://www.greened.kr/news/articleView.html?idxno=346428",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255443&CMPT_CD=P0010",
-  "https://www.ajunews.com/view/20260730170626110",
-  "https://news.skbroadband.com/news/articleView.html?idxno=233635",
-  "https://www.joongdo.co.kr/web/view.php?key=20260730010009288",
-  "https://www.ilemonde.com/news/articleView.html?idxno=30409",
   "https://www.kyosu.net/news/articleView.html?idxno=208313",
   "https://sports.khan.co.kr/article/202607301731003?pt=nv",
   "https://www.eroun.net/news/articleView.html?idxno=86365",
@@ -2999,16 +2992,16 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=280550",
   "http://www.osen.co.kr/article/G1112850068",
   "https://www.insight.co.kr/news/565880",
-  "https://www.econovill.com/news/articleView.html?idxno=746853"
+  "https://www.econovill.com/news/articleView.html?idxno=746853",
+  "https://www.newsis.com/view/NISX20260731_0003731931",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16151998",
+  "https://news.bizwatch.co.kr/article/real_estate/2026/07/31/0047",
+  "https://www.bloter.net/news/articleView.html?idxno=669740",
+  "https://www.theguru.co.kr/news/article.html?no=105230",
+  "https://www.ddaily.co.kr/page/view/2026073117163866456",
+  "https://www.wikitree.co.kr/articles/1149745"
  ],
  "seen_titles": [
-  "SK이노베이션,2분기윤활유·배터리가호실적견인...정유이익은감소",
-  "\"60조벌어도소용없다\"역대급실적찢어버린시장의냉정…SK하이닉스...",
-  "'삼전닉스'폭락에코스피5천선위협,단일종목레버리지'뒷북대책'에...",
-  "하이닉스'1주하한가'반토막…826억가상자산파생상품'우르르'",
-  "SK이노베이션2분기영업이익3.5조,윤활유·배터리가흑자전환이끌어",
-  "\"절반만건져도좋겠다\"⋯코스피사흘17%폭락,개미들'곡소리'",
-  "개인정보위'펨토셀해킹'KT에과징금540억부과,SK텔레콤과징금의...",
   "삼성전자호실적에도투자심리위축…코스피5500선좌초[마감시황]",
   "[26.7.30증시인싸잇]코스피,6000선반등실패",
   "LH,호남권반도체국가산단설계용역발주…선정기간58일로대폭단축",
@@ -6001,7 +5994,14 @@
   "국내기름값11주연속하락...휘발유1869원·경유1853원",
   "9점뒤진전북,서울잡으면6점…일주일쉰전주성서선두추격전다시...",
   "주식이코인보다심하다더니...7월코스피변동성,비트코인의3.7배",
-  "[ER인사이드]AI천재의슬픈결혼식"
+  "[ER인사이드]AI천재의슬픈결혼식",
+  "\"선진국증시맞나?\"…'폭락후폭등'종잡을수없는코스피이유는",
+  "미국증시,아마존실적에나스닥1%↑…애플7%급락",
+  "숨죽인강남…반도체훈풍은'동탄발호남선'?",
+  "단순재판매벗어난다…과기정통부,'알뜰폰2.0'생태계구축시동",
+  "[통신리뷰]LG유플러스,U+tv아이들나라고객사연으로AI동화만든다...",
+  "美뉴욕증시,전날급등한반도체'숨고르기'…빅테크실적호조에나스...",
+  "유럽파골키퍼탄생...미쳤다,바이에른뮌헨가는K리그10대선수'정체..."
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,29 @@
   [
    "2026-08-01T07:51:08.721630+09:00",
    "슬픈 AI 천재의 결혼식"
+  ],
+  [
+   "2026-08-01T08:01:30.367830+09:00",
+   "강남 반도체 동탄발 숨죽인 호남선 훈풍은"
+  ],
+  [
+   "2026-08-01T08:01:30.367830+09:00",
+   "알뜰폰 시동 과기정통부 단순 구축 생태계 벗어난다 재판매"
+  ],
+  [
+   "2026-08-01T08:01:30.367830+09:00",
+   "아이들나라 tv 동화 사연으로 LG유플러스 고객 AI 만든다"
+  ],
+  [
+   "2026-08-01T08:01:30.367830+09:00",
+   "실적 숨고르기 급등한 빅테크 전날 나스 뉴욕증시 반도체 호조에"
+  ],
+  [
+   "2026-08-01T08:01:30.367830+09:00",
+   "K리그 가는 미쳤다 10대 유럽파 뮌헨 선수 바이에른 탄생 골키퍼 정체"
   ]
  ],
- "last_run": "2026-08-01T07:51:17.736938+09:00",
+ "last_run": "2026-08-01T08:01:46.764184+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
