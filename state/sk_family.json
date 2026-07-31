@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/2026/05/13/20260513500137?wlog_tag3=naver",
-  "https://biz.heraldcorp.com/article/10737153",
-  "https://www.ajunews.com/view/20260513115536964",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2050692",
-  "https://www.hankookilbo.com/news/article/A2026051310570000273?did=NA",
-  "https://www.newsis.com/view/NISX20260513_0003627532",
-  "https://www.news1.kr/photos/7903132",
-  "https://www.newsis.com/view/NISI20260513_0021281255",
-  "https://www.news1.kr/photos/7903130",
-  "https://www.yna.co.kr/view/PYH20260513061800013?input=1196m",
   "https://www.newspim.com/news/view/20260513000661",
   "http://www.4th.kr/news/articleView.html?idxno=2114822",
   "https://www.mt.co.kr/industry/2026/07/16/2026071518185383044",
@@ -2999,19 +2989,19 @@
   "https://www.sedaily.com/article/20074434",
   "https://news.ifm.kr/news/articleView.html?idxno=476206",
   "https://www.sisajournal.com/news/articleView.html?idxno=381956",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128515"
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=128515",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=243476",
+  "https://www.sportschosun.com/sports-news/2026-07-31/202607310100198870012932",
+  "https://weekly.donga.com/3/all/11/6329239/1",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=389399",
+  "https://biz.chosun.com/industry/company/2026/07/31/25FHMLLE4RGVDDPRDBUMVQ3JCA/",
+  "https://biz.heraldcorp.com/article/10827399",
+  "https://www.etoday.co.kr/news/view/2609868",
+  "https://www.yna.co.kr/view/AKR20260731119651008?input=1195m",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310557&t=NN",
+  "http://coinreaders.com/250573"
  ],
  "seen_titles": [
-  "‘한국교회사학회‘신임회장에최영근장신대교수선임",
-  "[MI인터뷰]최영근교수\"투자금회수믿음약해져…시장신뢰부터복원...",
-  "'절윤'강조한오세훈,캠프조직본부장은\"12·3은계몽령\"",
-  "[현장에서]사전투표앞두고…화성시공직사회분기탱천하다",
-  "민주당최규진·이해림후보,합동선거사무소개소",
-  "“게임국가전략산업으로맞춤투자·금융체계필요”",
-  "\"게임은콘텐츠넘어플랫폼산업\"···투자·정산체계변화요구목소...",
-  "[종합]'국가전략'관점에서살핀게임산업",
-  "공정거래조정원‘공정한동행’2026년봄여름호발간",
-  "상생의계절,'공정한동행'봄여름호와함께여는공정한시장경제",
   "공정거래조정원,지난해분쟁조정4,726건역대최다",
   "공정거래분쟁‘역대최다’4726건···온라인플랫폼중‘쿠팡’최...",
   "[6·3이사람]임채덕화성시의원후보개소식...“3선의힘으로지역현...",
@@ -6001,17 +5991,19 @@
   "“가만히갖고계시라”던최태원,3620주사더니…하루만에평가익‘...",
   "[오늘의증시]코스피17.9%폭등…'투매의공포'하루만에사상최대상...",
   "'역대급대폭등'코스피,하루만에1000포인트올랐다",
-  "[투데이증시]\"본전만오게해달라더니\"...코스피18%급등에8조넘게..."
+  "[투데이증시]\"본전만오게해달라더니\"...코스피18%급등에8조넘게...",
+  "'충주맨'김선태씨,웹예능자진하차…\"능력부족\"",
+  "'세계2위K-펜싱'최신원회장\"사무실봉쇄어려움속에지원해준문체...",
+  "역대급‘롤러코스피’연출한한주…외국인,삼전닉스3조8000억팔아",
+  "코스피17.9%폭등'역대최대'…외국인8.7조폭풍매수에6,590선",
+  "‘책임경영’위해SK하이닉스주식48억원어치산최태원…하루만에...",
+  "‘어제팔았다면피눈물’삼전닉스,단하루만에사흘낙폭대부분회...",
+  "[급등락주짚어보기]반도체주강세에코스피·코스닥39개상한가...SK하...",
+  "코스피,17.9%·1000p폭등하며'불기둥'…사상최대상승(종합)",
+  "'삼전닉스'개미손실만회…회장님은13억벌었다",
+  "SK하이닉스,급락폭탄후28%폭등...SKHX고래부활"
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T11:00:27.003121+09:00",
-   "매수까지 훈풍에 SK스퀘어 주가 반도체 장내"
-  ],
-  [
-   "2026-07-31T11:00:27.003121+09:00",
-   "25년 현대 떠난 최태원의 승부수 48억 하이닉스"
-  ],
   [
    "2026-07-31T11:10:15.172437+09:00",
    "역대 개장 2시간 샀다 외국인 순매수 1위 7조 만에 경신 기록"
@@ -6167,9 +6159,13 @@
   [
    "2026-07-31T16:50:20.009768+09:00",
    "8조 코스피 넘게 본전만 급등에 오게 해달라더니"
+  ],
+  [
+   "2026-07-31T17:00:28.492643+09:00",
+   "폭탄 SKHX SK하이닉스 부활 폭등 급락 고래"
   ]
  ],
- "last_run": "2026-07-31T16:50:33.300565+09:00",
+ "last_run": "2026-07-31T17:00:42.127528+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6461,6 +6457,7 @@
   "datasom.co.kr": "데이터솜",
   "delighti.co.kr": "딜라이트닷넷",
   "ilovepc.co.kr": "디지털포스트(PC사랑)",
-  "junggi.co.kr": "중기이코노미"
+  "junggi.co.kr": "중기이코노미",
+  "coinreaders.com": "코인리더스"
  }
 }
