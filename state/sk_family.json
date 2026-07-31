@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/563106",
-  "https://www.sedaily.com/article/20067936",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05277526645514848",
-  "https://www.khan.co.kr/article/202607151750001",
-  "https://www.news1.kr/industry/general-industry/6229268",
-  "https://www.mt.co.kr/industry/2026/07/15/2026071514463523829",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041077",
   "http://www.econonews.co.kr/news/articleView.html?idxno=441186",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716399",
   "https://www.newsis.com/view/NISX20260715_0003710335",
@@ -2999,16 +2992,16 @@
   "https://www.livebiz.today/news/articleView.html?idxno=203743",
   "https://kpenews.com/View.aspx?No=4170211",
   "https://www.ekn.kr/web/view.php?key=20260731027368382",
-  "https://www.segye.com/newsView/20260731516170?OutUrl=naver"
+  "https://www.segye.com/newsView/20260731516170?OutUrl=naver",
+  "https://www.seoul.co.kr/news/life/2026/07/31/20260731500256?wlog_tag3=naver",
+  "https://economist.co.kr/article/view/ecn202607310037",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876714",
+  "https://www.yna.co.kr/view/AKR20260731066151008?input=1195m",
+  "https://www.ekn.kr/web/view.php?key=20260731026388401",
+  "https://www.youthdaily.co.kr/news/article.html?no=224297",
+  "https://biz.sbs.co.kr/article_hub/20000325988?division=NAVER"
  ],
  "seen_titles": [
-  "지난해공정거래분쟁조정'역대최다'…쿠팡,플랫폼사업자최다",
-  "불공정거래분쟁조정최근3년간급증...소상공인관련분쟁커",
-  "불공정거래분쟁역대최대…온라인플랫폼분쟁,쿠팡이절반",
-  "작년플랫폼분쟁접수절반이쿠팡…전체4726건역대최다",
-  "공정거래조정원,2025년도분쟁조정현황발표",
-  "한국공정거래조정원,2025년도분쟁조정건수큰폭으로증가",
-  "공정거래조정원,2025년분쟁조정최다접수및처리경신",
   "공정거래조정원2025년분쟁조정현황브리핑",
   "불공정거래분쟁조정건수역대최다...'소상공인'분쟁대폭늘어",
   "최태원\"AI도입만으론부족…일하는방식다시짜야\"",
@@ -6001,17 +5994,16 @@
   "반도체주투심회복에코스피역대최대17.9%폭등...SK하이닉스17년만...",
   "AI기대되살아난반도체..삼전닉스급반등,레버리지ETF도동반급등",
   "“공포에던졌더니상한가”...삼전닉스시총,하루새‘615兆’불었다",
-  "“시간을두면우상향한다”맞았다…최태원회장이국장과개미들살..."
+  "“시간을두면우상향한다”맞았다…최태원회장이국장과개미들살...",
+  "‘리센느논란’KBS‘돈선태’,김선태자진하차이어프로그램폐지...",
+  "\"외국인이돌아왔다\"코스피불기둥…SK하이닉스는'상한가'마감",
+  "코스피,사상최대상승률17.9%·1000p폭등...불기둥장세",
+  "외국인최대폭풍매수,개미'대탈출'…쏟아진각종기록들(종합)",
+  "폭락장서역대급불기둥으로…코스피상승률·상승폭역대1위[마감시황...",
+  "SK하이닉스'17년만상한가'·삼성전자'26.8%↑'…역대최고상승률기...",
+  "하루1001p폭등·외인최대폭풍매수…각종기록쏟아졌다"
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T11:20:16.084704+09:00",
-   "폭등한 삼전닉스 했나 우려는 여전 코스피 머니 어제 샀어야"
-  ],
-  [
-   "2026-07-31T11:20:16.084704+09:00",
-   "바닥 14억 평가차익 SK닉스 하룻만에 매수 안팎"
-  ],
   [
    "2026-07-31T11:30:21.633371+09:00",
    "벌었다 하지마 팔았다 100억 48억 SK하닉 샀다 매수"
@@ -6163,9 +6155,13 @@
   [
    "2026-07-31T17:10:17.255382+09:00",
    "우상향 한다 개미들 시간을 맞았다 회장이 국장과 두면"
+  ],
+  [
+   "2026-07-31T17:20:20.147104+09:00",
+   "1001p 각종 외인 하루 쏟아졌다 폭풍매수 폭등 기록"
   ]
  ],
- "last_run": "2026-07-31T17:10:34.251835+09:00",
+ "last_run": "2026-07-31T17:20:35.476452+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
