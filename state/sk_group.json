@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/estate/2026/07/30/2026073016011073007",
   "https://www.khan.co.kr/article/202607301706001",
   "https://www.livebiz.today/news/articleView.html?idxno=203708",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2431403",
@@ -2999,10 +2998,10 @@
   "https://www.sedaily.com/article/20074588",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=78094",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422795",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685359&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685359&plink=ORI&cooper=NAVER",
+  "https://www.g-enews.com/view.php?ud=202608010542336635fbbec65dfb_1"
  ],
  "seen_titles": [
-  "삼성전자컨콜에도꺾인투심…코스피연일'하락'",
   "삼성물산,13년연속시평1위...GS건설3위로점프",
   "957조원청사진,건설업계엔아직'그림의떡'",
   "[이슈IN인천]김진규검단구청장\"부족한예산,인프라확보가관건\"",
@@ -6001,7 +6000,8 @@
   "‘실적훈풍’아마존15.3%↑...‘전망악화’애플은7.3%급락[데일...",
   "실적부터약가,IPO까지…본격휴가전빵빵터진제약바이오",
   "변동장속액티브다수상장···7월상장ETF보니",
-  "[모닝와이드]오늘의주요뉴스"
+  "[모닝와이드]오늘의주요뉴스",
+  "ASE,2026년설비투자105억달러확충"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-08-01T06:19:37.091711+09:00",
    "주요뉴스 오늘의"
+  ],
+  [
+   "2026-08-01T06:24:22.707118+09:00",
+   "ASE 105억 달러 확충 설비투자 2026년"
   ]
  ],
- "last_run": "2026-08-01T06:19:52.750808+09:00",
+ "last_run": "2026-08-01T06:24:28.529239+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
