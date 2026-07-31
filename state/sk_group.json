@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=128242",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=270767",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443589",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607300517&t=NN",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443596",
-  "http://www.inews24.com/view/1990498",
   "https://www.huffingtonpost.kr/article/259149",
   "https://www.ekn.kr/web/view.php?key=20260730021508035",
   "https://www.mediawatch.kr/news/article.html?no=260517",
@@ -2999,15 +2993,15 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=93109",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=308132",
   "https://www.sedaily.com/article/20074507",
-  "https://www.g-enews.com/view.php?ud=202608010707214079fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202608010707214079fbbec65dfb_1",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93067",
+  "https://www.seoulfn.com/news/articleView.html?idxno=634689",
+  "https://zdnet.co.kr/view/?no=20260731114615",
+  "https://www.g-enews.com/view.php?ud=202608010709515469fbbec65dfb_1",
+  "https://www.besteleven.com/news/articleView.html?idxno=310631",
+  "https://www.wikitree.co.kr/articles/1149744"
  ],
  "seen_titles": [
-  "미토스이어GPT해킹충격확산…'보안특화AI'대응속도",
-  "[마켓Q]코스닥급락,단일종목레버리지탓?거래대금은달리말했다",
-  "SK이노2분기윤활유·배터리호조로흑자전환…영업이익3조4,873억",
-  "원·달러환율5개월만에1430원대…美금리동결·SK하이닉스ADR영향",
-  "코스피,6000선문턱서밀려···반도체약세·개인매도1%대하락마감",
-  "배터리3사,올해2분기경영실적발표…“적자터널끝,흑자전환성공...",
   "韓배터리3사동반흑자전환…“턴어라운드시작”",
   "\"범인동의없어도성문분석\"…AI보이스피싱방지앱나온다",
   "상동역롯데캐슬시그니처등10대건설사,연내1천가구이상대단지...",
@@ -6001,7 +5995,13 @@
   "[글로벌비즈]450억달러AI펀드의비극…'24세천재'아센브레너,과...",
   "[지난밤뉴욕에선]3대지수상승…AI기대감회복",
   "최태원·노태문기막힌타이밍…자사주사자마자‘폭등’[갭월드]",
-  "2026년낸드시장질적성장전환…양적증설대신eSSD믹스집중"
+  "2026년낸드시장질적성장전환…양적증설대신eSSD믹스집중",
+  "[슈퍼사이클의역설②]中日반도체부활…창신메모리·키옥시아추격...",
+  "[뉴욕증시]MS·아마존발AI투자우려완화,조정끝?···하이퍼스케...",
+  "K배터리,ESS사업본궤도…‘AI데이터센터’로가속목표",
+  "SK하이닉스HBM4공급망확보…美빅테크장기계약결실",
+  "[오피셜]韓축구역사적이적!'골키퍼최초유럽빅리그직행'허재원...",
+  "이건몰랐다...하이닉스·삼성주가가무시무시하게오른'뜻밖의이유..."
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,21 @@
   [
    "2026-08-01T07:21:11.051914+09:00",
    "양적 2026년 질적 eSSD 대신 믹스 시장 성장 증설 낸드 집중"
+  ],
+  [
+   "2026-08-01T07:29:35.085407+09:00",
+   "HBM4 빅테크 장기계약 공급망 결실 확보 SK하이닉스"
+  ],
+  [
+   "2026-08-01T07:29:35.085407+09:00",
+   "역사적 골키퍼 축구 빅리그 이적 허재원 유럽 직행"
+  ],
+  [
+   "2026-08-01T07:29:35.085407+09:00",
+   "몰랐다 오른 주가가 무시무시하게 이건 하이닉스 뜻밖의 이유 삼성"
   ]
  ],
- "last_run": "2026-08-01T07:21:25.845136+09:00",
+ "last_run": "2026-08-01T07:29:46.549098+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
