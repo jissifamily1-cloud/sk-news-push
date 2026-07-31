@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04067206645517800",
-  "https://www.wikitree.co.kr/articles/1148286",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619409",
-  "https://www.hankookilbo.com/news/article/A2026072301280000647?did=NA",
-  "https://www.ytn.co.kr/_ln/0115_202607241408245310",
-  "https://lawtalknews.co.kr/article/1WE5ENN2IF9G",
-  "https://www.asiatime.co.kr/article/20260724500242",
-  "https://www.dailian.co.kr/news/view/1670623/?sc=Naver",
-  "https://cc.newdaily.co.kr/site/data/html/2026/07/24/2026072400154.html",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/24/2026072400169.html",
   "https://www.busan.com/view/busan/view.php?code=2026072413475253792",
   "https://www.newscj.com/news/articleView.html?idxno=3419626",
   "http://www.breaknews.com/1224225",
@@ -2999,19 +2989,19 @@
   "https://www.newsis.com/view/NISX20260731_0003731882",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/31/2026073190180.html",
   "https://sateconomy.co.kr/news/view/1065595632186122",
-  "http://www.joseilbo.com/news/news_read.php?uid=573028&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=573028&class=32",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381957",
+  "https://www.seoul.co.kr/news/society/law/2026/07/31/20260731500240?wlog_tag3=naver",
+  "https://www.huffingtonpost.kr/article/259175",
+  "https://www.seoul.co.kr/news/society/2026/07/31/20260731500238?wlog_tag3=naver",
+  "https://www.ajunews.com/view/20260731163141928",
+  "https://www.mt.co.kr/economy/2026/07/31/2026073116084511874",
+  "https://www.joongang.co.kr/article/25449889",
+  "https://www.yna.co.kr/view/AKR20260731092600004?input=1195m",
+  "https://www.newsis.com/view/NISX20260731_0003731668",
+  "https://www.newsis.com/view/NISX20260730_0003730435"
  ],
  "seen_titles": [
-  "정교유착합수본,신천지신도들민주당집단가입의혹수사",
-  "'신천지신도들집단으로민주당당원가입'정황포착",
-  "‘투표율조작’선관위이틀째압수수색",
-  "'이언주합성음란물유포'60대기업인불구속송치",
-  "'경산아파트방화'1명결국사망...수사력집중",
-  "해고했더니잡플래닛에악성리뷰…매출까지급감했다면,해당직원처...",
-  "JTBC채권피해자들\"발행·주관·판매사모두조사해야\"…금감원압박",
-  "경찰,경산아파트관리사무소방화사건피의자주거지·차량압수수색",
-  "이숙애충북도의원\"전청주시의원아동성범죄의혹철저수사해야\"",
-  "\"'짬짜미'선관위에선거맡길수없어\"…MBC노조\"선관위,해체수순...",
   "경산방화피해자1명사망…\"꺼진CCTV확인하러갔다가\"",
   "서민위,'배우자동행해외출장'우원식고발",
   "박성훈국민의힘수석대변인“부동산·선관위·관세3대국정난맥책임...",
@@ -6001,7 +5991,17 @@
   "외국인노동자추락사…'책임회피우려'원청대표구속",
   "경찰,'강북오피스텔살인'피의자주거지압수수색",
   "KT,‘5G20배’과장광고소송패소…139억원과징금유지",
-  "서영교\"최영중구속·통신영장발부…청주지검카르텔도밝혀야\""
+  "서영교\"최영중구속·통신영장발부…청주지검카르텔도밝혀야\"",
+  "'음료테러자작극'정이한구속기소…\"선거공정성훼손한중대범죄\"",
+  "‘피습자작극혐의’정이한전부산시장후보구속기소",
+  "민주당특별감찰관후보에검사출신최길수변호사추천,'LG트윈타워...",
+  "‘검찰은수사를아예못하나요?’…개정된형소법Q＆A",
+  "'주차장철거중추락사'원청대표구속…서울권중대재해첫사례",
+  "주차설비철거추락사…하청에책임전가한원청구속",
+  "[속보]‘보완수사권폐지’與주도본회의통과…野“대통령거부권...",
+  "[형소법개정]④검사직접영장청구권사라져…위헌성등문제조항은",
+  "결국현실이된검수완박…'불안한보완장치'과제여전",
+  "검사,이제수사못한다…檢보완수사권폐지통과"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "5G SKT 인용해 잘모른다 문건 고객"
   ]
  ],
- "last_run": "2026-07-31T16:46:13.533793+09:00",
+ "last_run": "2026-07-31T16:51:01.125682+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
