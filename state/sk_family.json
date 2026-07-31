@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026022513471957203",
-  "https://www.hankyung.com/article/202602253965i",
-  "https://www.etoday.co.kr/news/view/2559447",
-  "https://news.tf.co.kr/read/economy/2296084.htm",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4400335",
-  "https://www.seoulfn.com/news/articleView.html?idxno=622055",
   "https://www.mt.co.kr/industry/2026/02/25/2026022513041365814",
   "https://www.weeklytrade.co.kr/news/view.html?no=98711",
   "https://www.ajunews.com/view/20260225122329523",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12113561",
   "https://www.wikitree.co.kr/articles/1149701",
   "http://www.4th.kr/news/articleView.html?idxno=2115629",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209543"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209543",
+  "https://www.donga.com/news/Economy/article/all/20260731/134403056/1",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=119695",
+  "https://www.nongmin.com/article/20260731500436",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51867",
+  "https://www.sedaily.com/article/20074469",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5418"
  ],
  "seen_titles": [
-  "제주서울려퍼질최태원의호소...'AI국가전략'어젠다직접띄운다",
-  "AI대전환시대,기업인500명제주서‘韓성장해법’모색",
-  "\"AI대전환시대,성장해법을묻다\"…제49회대한상의제주포럼",
-  "“AI대전환해법찾는다”…대한상의제주포럼개막",
-  "'AX시대,韓경제성장해법찾자'…대한상의,제주포럼개막",
-  "최태원\"일하는방식자체를AI에맞게새로짜야\"…상의,하계포럼개막",
   "'2026제주포럼'대한상의,AI시대한국경제성장전략찾는다",
   "대한상의제주포럼개막…AI·성장해법놓고경제계머리맞댄다",
   "대한상의제주포럼개막…AI·성장전략·K컬처까지'미래해법'논의",
@@ -6001,17 +5995,15 @@
   "“가만히들고계시라”던최태원…하루만에13억벌어",
   "'분노의질주'SK하이닉스사상첫상한가…최태원회장은하루만에'웃...",
   "'투자귀재'최태원,닉스매수다음날상한가..평가익13억",
-  "7월31일미리보는MBN뉴스7"
+  "7월31일미리보는MBN뉴스7",
+  "“책임경영통했다”…최태원매수·美주가상승에SK하이닉스상한가...",
+  "코스피,1001p뛰며불기둥...SK하이닉스'17년만에상한가'",
+  "삼성전자26%·SK하이닉스상한가…코스피사상최대반등",
+  "코스피역대최대반등…삼성전자·SK하이닉스가시장살렸다",
+  "두산,SK실트론2.3조에인수…최태원지분은제외[시그널]",
+  "[증시프리즘]17년만에상한가쓴SK하이닉스…외국인7조베팅에반도..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T11:30:21.633371+09:00",
-   "벌었다 하지마 팔았다 100억 48억 SK하닉 샀다 매수"
-  ],
-  [
-   "2026-07-31T11:40:21.898818+09:00",
-   "키옥시아 회장의 손가락이 뚝심 됐다 아픈 효자"
-  ],
   [
    "2026-07-31T11:50:14.299106+09:00",
    "적자 SK하이닉스 주식으로 지급 이상 임금 절반 성과급 조정"
@@ -6167,9 +6159,17 @@
   [
    "2026-07-31T17:30:21.074929+09:00",
    "31일 미리 뉴스7 7월 MBN 보는"
+  ],
+  [
+   "2026-07-31T17:40:22.938823+09:00",
+   "인수 제외 3조에 지분은 SK실트론 두산"
+  ],
+  [
+   "2026-07-31T17:40:22.938823+09:00",
+   "만에 7조 반도 SK하이닉스 17년 베팅에 외국인 상한가"
   ]
  ],
- "last_run": "2026-07-31T17:30:39.347075+09:00",
+ "last_run": "2026-07-31T17:40:37.414374+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
