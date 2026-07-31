@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04198406645517800",
-  "https://imnews.imbc.com/news/2026/society/article/6839854_36918.html",
-  "https://www.donga.com/news/Society/article/all/20260724/134358367/1",
-  "https://www.news1.kr/photos/8024127",
-  "https://www.kyeonggi.com/article/20260724580147",
-  "https://www.mt.co.kr/tech/2026/07/24/2026072414445082413",
-  "https://www.newspim.com/news/view/20260724000896",
-  "https://www.kmecnews.co.kr/news/articleView.html?idxno=51037",
-  "https://www.news1.kr/photos/8024207",
-  "https://www.yna.co.kr/view/PYH20260724112300053?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260724111800053?input=1196m",
   "https://www.yna.co.kr/view/PYH20260724111900053?input=1196m",
   "https://www.yna.co.kr/view/PYH20260724112200053?input=1196m",
   "https://www.hani.co.kr/arti/area/yeongnam/1269829.html",
@@ -2999,20 +2988,20 @@
   "https://www.tfmedia.co.kr/news/article.html?no=206131",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128508",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=849062",
-  "http://www.jmbc.co.kr/news/view_breakingnews/66694"
+  "http://www.jmbc.co.kr/news/view_breakingnews/66694",
+  "https://www.bloter.net/news/articleView.html?idxno=669737",
+  "https://www.mk.co.kr/article/12113603",
+  "http://www.metroseoul.co.kr/article/20260731500230",
+  "https://www.ytn.co.kr/_ln/0103_202607311756316292",
+  "https://lawtalknews.co.kr/article/OUFC9U1V0LRH",
+  "https://lawtalknews.co.kr/article/2UM24MY42JF9",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607311754402Va",
+  "http://www.breaknews.com/1225999",
+  "https://www.dailian.co.kr/news/view/1673351/?sc=Naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607311752267WR",
+  "https://www.joongang.co.kr/article/25449908"
  ],
  "seen_titles": [
-  "나경원\"신천지유착알고도은폐…진짜위헌정당은민주당\"",
-  "경찰,경북경산아파트관리사무소방화사건피의자거주지등압수수...",
-  "[단독]합수본,선관위충청지역도투표율허위입력정황포착",
-  "경찰,경산아파트방화피의자주거지압수수색",
-  "‘미성년자성매매의혹’사퇴최영중,16일치월급·선거비4천만원...",
-  "\"자체배달제재하면세계최초\"…공정위철퇴논란",
-  "공정위,아이파크영창현장조사…HDC부당지원의혹",
-  "상위50위종건사공정위와'유보금폐지'합의",
-  "경산아파트방화피의자주거지압수수색",
-  "경찰,경산방화사건피의자주거지압수수색",
-  "경산아파트관리사무소방화피의자주거지압수수색",
   "경찰,경산방화사건압수수색영장집행",
   "경산아파트관리사무소방화피의자주거지압수수색나선경찰",
   "경찰,경북아파트방화피의자집등압수수색…중상자1명은끝내숨져",
@@ -6001,7 +5990,18 @@
   "[이슈체크]세무사회,8월세무플랫폼무더기고발착수…양벌규정적용...",
   "투표용지의혹부터운영비리까지…선관위특검초읽기",
   "'檢보완수사권폐지'형소법본회의통과…70년사법체계대전환",
-  "[속보]형소법민주\"검찰개혁완성\",국힘\"법치주의종말\""
+  "[속보]형소법민주\"검찰개혁완성\",국힘\"법치주의종말\"",
+  "5G과장광고로139억과징금맞은KT,공정위상대소송서패소",
+  "보완수사권없는검사가구속·증거보전책임…곳곳서모순",
+  "국회,'필버종결후'형소법개정안與주도로처리…野\"거부권행사해...",
+  "'노동자사망'주차설비공사업체대표구속송치",
+  "경찰수사불만이어도검사가직접못나선다?'보완수사권폐지'달라지...",
+  "텔레그램서한달간음란물공유하고‘앱삭’…1년뒤압수수색,처벌...",
+  "권한만큼책임커진경찰…역량엔여전히물음표",
+  "검사,이제수사못한다..'보완수사권폐지안'국회본회의통과",
+  "경찰불법체포밝힌검사…대검우수사례선정",
+  "[앵커리포트]사실상수사권독점한경찰…역량은여전히물음표",
+  "與‘보완수사권폐지법’결국최종처리…野“희대의악법강행”"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "5G SKT 인용해 잘모른다 문건 고객"
   ]
  ],
- "last_run": "2026-07-31T17:51:00.838008+09:00",
+ "last_run": "2026-07-31T18:01:29.197772+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
