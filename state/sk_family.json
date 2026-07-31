@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/industry/2026/06/18/2026061816344739577",
-  "http://www.inews24.com/view/1977750",
-  "https://www.newsis.com/view/NISX20260618_0003674821",
-  "http://www.queen.co.kr/news/articleView.html?idxno=458868",
-  "https://magazine.hankyung.com/business/article/202606184882b",
-  "https://zdnet.co.kr/view/?no=20260618154946",
   "https://www.news1.kr/industry/general-industry/6201554",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164166",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/18/2026061890194.html",
@@ -2999,15 +2993,15 @@
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80239",
   "https://www.yna.co.kr/view/AKR20260731076100008?input=1195m",
   "https://biz.heraldcorp.com/article/10826895",
-  "https://www.hankyung.com/article/202607317671H"
+  "https://www.hankyung.com/article/202607317671H",
+  "https://www.donga.com/news/Society/article/all/20260731/134400240/2",
+  "https://www.nocutnews.co.kr/news/6556459",
+  "https://www.tokenpost.kr/news/economy/383168",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209436",
+  "https://lawtalknews.co.kr/article/1GZPI09SLP8F",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251352"
  ],
  "seen_titles": [
-  "박지원,차안에서남긴야간셀카…꾸준한연기행보",
-  "정덕영양주시장당선자인수위원회구성...11일공식출범",
-  "[기업지배구조보고서]CEO승계대책마련해점수오른SK㈜",
-  "정덕영당선인,'양주대전환시민주권인수위'내일출범",
-  "정덕영號출항…'양주대전환시민주권인수위'닻올려",
-  "한화,'3조솔라허브'첫가동…미국서1조받는다",
   "LG엔솔,엔비디아맞춤형카드…대규모수주노린다",
   "'참정권집회'속시민목소리…'음모론자'밀어낸2030",
   "최민정",
@@ -6001,7 +5995,13 @@
   "최태원'바닥매수'통해…SK닉스하룻만에'14억'안팎평가차익",
   "코스피10%이상폭등세,최고17%↑…삼전닉스20%안팎↑",
   "16%급등한코스피,단숨에6500선‘탈환’…오늘부터현금3000만원있...",
-  "\"샀다팔았다하지마\"최태원,SK하닉48억매수…100억벌었다"
+  "\"샀다팔았다하지마\"최태원,SK하닉48억매수…100억벌었다",
+  "“회장님이었어?”…슈카,최태원하이닉스3620주매수순간포착",
+  "반도체주날자코스피날았다…폭락딛고'대반격'6500선탈환",
+  "[특징주]SK스퀘어,AI훈풍·최태원SK하이닉스매수에급등",
+  "[아침&피플]\"사팔말라\"던최태원회장,48억통큰매수…다시'불장'...",
+  "'주가반토막'하이닉스48억어치사들인최태원회장?'50억'넘기지않...",
+  "최태원SK회장의키옥시아뚝심...아픈손가락이'효자'됐다"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,13 @@
   [
    "2026-07-31T11:30:21.633371+09:00",
    "벌었다 하지마 팔았다 100억 48억 SK하닉 샀다 매수"
+  ],
+  [
+   "2026-07-31T11:40:21.898818+09:00",
+   "키옥시아 회장의 손가락이 뚝심 됐다 아픈 효자"
   ]
  ],
- "last_run": "2026-07-31T11:30:33.088935+09:00",
+ "last_run": "2026-07-31T11:40:32.857362+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
