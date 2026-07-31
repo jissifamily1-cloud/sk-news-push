@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://idsn.co.kr/news/view/1065601285729834",
-  "http://www.finomy.com/news/articleView.html?idxno=245209",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=04372246642397536",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=148881",
-  "http://amenews.kr/news/view.php?idx=65093",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2367906",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=118633",
   "https://daily.hankooki.com/news/articleView.html?idxno=1308470",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=557043",
   "http://www.newsprime.co.kr/news/article.html?no=715868",
@@ -2999,16 +2992,16 @@
   "https://www.jibs.co.kr/news/articles/articlesDetail/64057?feed=na",
   "https://www.chosun.com/economy/industry-company/2026/07/31/ILZZQWXSFNDT7MD2T7CEYS3ESE/",
   "https://www.hankyung.com/article/2026073186381",
-  "https://www.sidae.com/article/2026073117400281444"
+  "https://www.sidae.com/article/2026073117400281444",
+  "https://www.mk.co.kr/article/12113633",
+  "https://www.m-i.kr/news/articleView.html?idxno=1397793",
+  "https://dealsite.co.kr/articles/166404",
+  "https://www.mk.co.kr/article/12113660",
+  "http://www.4th.kr/news/articleView.html?idxno=2115637",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070948",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105566"
  ],
  "seen_titles": [
-  "곽노정SK하이닉스사장\"성과에도취하지말고,위기의식갖자\"",
-  "곽노정SK하이닉스사장“성과에도취말자”…‘스테이헝그리’로긴...",
-  "곽노정SK하이닉스사장\"위기의식갖자\"…긴장감유지주문",
-  "곽노정SK하이닉스사장\"위기의식갖되자만심갖지말자\"",
-  "곽노정SK하이닉스사장“기준높아지고,경쟁심화…위기의식가져야...",
-  "곽노정SK하이닉스\"성과에도취하지말고,위기의식갖자\"",
-  "서울관악로타리클럽,취약계층위한\"명절사랑의전(煎)\"나눔봉사",
   "‘인천그린아젠다2026’최종수상작공개…‘통합거버넌스’첫걸음",
   "인천시회조경협의회,'인천그린아젠다2026'수상작발표회·시상식개...",
   "전문건설협회인천시회,'인천그린아젠다공모'수상후보작33팀선정",
@@ -6001,7 +5994,14 @@
   "美빅테크가뒤집었다…삼성역대최대상승·SK17년만에상한가",
   "[속보]SK,SK실트론지분70.6%2.3조에두산매각",
   "\"적자땐임금조정\"…SK하이닉스제안",
-  "SK,두산에SK실트론매각키로…2.3조원규모"
+  "SK,두산에SK실트론매각키로…2.3조원규모",
+  "최태원29.4%지분보유…가치1조육박",
+  "SK㈜,SK실트론2.3조원에매각…AI투자실탄확보",
+  "SK,두산에SK실트론지분70%판다…매각가2.3조원",
+  "두산,SK실트론2.3조에품었다",
+  "SK,SK실트론지분70.6%두산에매각…최태원29.4%도팔까",
+  "코스피17.91%폭등6595선…SK하이닉스17년만에상한가",
+  "['클릭'증시]MS효과에KOSPI1000p껑충...강력한회복력"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,17 @@
   [
    "2026-07-31T18:10:15.427655+09:00",
    "매각키로 SK실트론 두산에 3조원 규모"
+  ],
+  [
+   "2026-07-31T18:20:21.303407+09:00",
+   "회복력 1000p 효과에 MS 껑충 강력한 KOSPI"
+  ],
+  [
+   "2026-07-31T18:20:21.303407+09:00",
+   "가치 육박 지분보유 1조"
   ]
  ],
- "last_run": "2026-07-31T18:10:31.087485+09:00",
+ "last_run": "2026-07-31T18:20:36.579240+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
