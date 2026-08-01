@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=20260730172435545524debea800_1",
-  "https://www.mk.co.kr/article/12112145",
-  "https://www.g-enews.com/view.php?ud=2026073016343578024debea800_1",
-  "https://www.ajunews.com/view/20260730161022818",
-  "https://news.skbroadband.com/news/articleView.html?idxno=233642",
-  "https://biz.sbs.co.kr/article_hub/20000325705?division=NAVER",
-  "https://platum.kr/archives/291685",
-  "https://news.skbroadband.com/news/articleView.html?idxno=233640",
   "https://www.etoday.co.kr/news/view/2609459",
   "https://www.mt.co.kr/industry/2026/07/30/2026073015561925714",
   "https://news.mtn.co.kr/news-detail/2026073016431541708",
@@ -2999,17 +2991,17 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718717",
   "https://www.cnbizm.com/news/articleView.html?idxno=310328",
   "https://www.wikitree.co.kr/articles/1149741",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11068"
+  "https://www.newsverse.kr/news/articleView.html?idxno=11068",
+  "https://www.eroun.net/news/articleView.html?idxno=86365",
+  "https://news.bizwatch.co.kr/article/market/2026/07/31/0035",
+  "https://www.etoday.co.kr/news/view/2609913",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7176885",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454692",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1171993",
+  "https://www.busan.com/view/busan/view.php?code=2026071414572226917",
+  "https://www.newspenguin.com/news/articleView.html?idxno=21974"
  ],
  "seen_titles": [
-  "국민성장펀드,HBM장비사‘테크윙’550억대출",
-  "건설사시공평가1·2위는삼성·현대…GS건설3위올라서며‘지각변동...",
-  "‘하이닉스470만원’노무라의코스피급락진단…레버리지·국민연금...",
-  "충북도,민선9기첫시장·군수회의개최",
-  "KT,개인정보유출로540억과징금…조사방해혐의도",
-  "코웨이,국내외탄탄한성장세업고2분기어닝서프라이즈예고",
-  "\"신입,스펙보다생각근육중요\"…SK하이닉스반나절심층면접",
-  "정제마진강세에…정유사‘逆래깅’공포에도하반기실적개선전망...",
   "ESS가돌파구…K배터리3사모두흑자전환",
   "'연이틀폭락'코스피,반등실패…1.23%내려5,593마감",
   "SK이노베이션,2026년2분기실적발표컨퍼런스콜전문",
@@ -6001,7 +5993,15 @@
   "아마존호실적에기술주반등…뉴욕증시일제히상승",
   "SK오션플랜트,6800DWT급화학제품운반선2척수주…718억규모",
   "엔비디아지포스,VRAM값폭등에최대40%인상설",
-  "[오늘의경제뉴스]레버리지의덫…개인은'반토막'증권사는'대박'"
+  "[오늘의경제뉴스]레버리지의덫…개인은'반토막'증권사는'대박'",
+  "행복나래,온율과협약...'SK임팩트부스터'소셜벤처법률지원",
+  "[ETF워치]삼전닉스레버리지예탁금상향,첫날거래급감...외국인은?",
+  "예탁금강화에레버리지거래‘뚝’…“강제매도막바지·순환매확대...",
+  "반도체실적↑...코스피'역대급저평가'탈출하나",
+  "개인정보유출과징금희비···SKT와KT,왜800억넘게차이났나",
+  "엔저에'환테크'몰려...엔화환전규모19개월만에최대",
+  "광주·대구의연합,반도체에갈라지나[논설위원의뉴스요리]",
+  "[기후·멸종콕콕]\"인공지능소비효율등급표시하자\""
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,21 @@
   [
    "2026-08-01T08:51:03.556692+09:00",
    "레버리지의 증권사는 개인은 대박 반토막"
+  ],
+  [
+   "2026-08-01T09:01:24.457548+09:00",
+   "엔저에 환전 만에 규모 환테크 몰려 19개월 엔화"
+  ],
+  [
+   "2026-08-01T09:01:24.457548+09:00",
+   "광주 연합 대구의 갈라지나 반도체에"
+  ],
+  [
+   "2026-08-01T09:01:24.457548+09:00",
+   "표시하자 소비효율 등급 인공지능"
   ]
  ],
- "last_run": "2026-08-01T08:51:14.869681+09:00",
+ "last_run": "2026-08-01T09:01:35.547235+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
