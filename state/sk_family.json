@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674405&plink=ORI&cooper=NAVER",
-  "https://view.asiae.co.kr/article/2026072512031293474",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83671",
   "https://news.tf.co.kr/read/ptoday/2346982.htm",
   "https://www.newsis.com/view/NISX20260725_0003723051",
@@ -2999,11 +2997,11 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=876739",
   "https://www.ekn.kr/web/view.php?key=20260801024148464",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=311094",
-  "https://www.sedaily.com/article/20074605"
+  "https://www.sedaily.com/article/20074605",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92781",
+  "https://news.mtn.co.kr/news-detail/2026080109533340807"
  ],
  "seen_titles": [
-  "李대통령,AI서밋후글로벌빅테크기업CEO들과‘피시앤칩스만찬’",
-  "반도체강국의그늘,화학물질은아직도노동자를죽인다",
   "'샌프란깐부회동'李대통령,빅테크CEO들과피시앤칩스만찬",
   "[바로이뉴스]기업가치합계'2경원'한자리에…'AI심장부'서단상올...",
   "한국대통령앞에모인글로벌CEO들…李\"AI공급망파트너되겠다\"(종...",
@@ -6001,7 +5999,9 @@
   "'이제는뉴노멀'...삼성전자ㆍSK하이닉스,장기공급계약잇따라체",
   "‘정유에서전기’로피봇SK이노베이션,솔루션은‘LNG·SMR’",
   "폭락과급등위험한반복…'롤러코스피'8월에도날뛸까[주간증시해설...",
-  "코스피급반등이끈AI훈풍…삼성·SK일제히상한가"
+  "코스피급반등이끈AI훈풍…삼성·SK일제히상한가",
+  "두산,2.3조에SK실트론인수'끝'…\"AI반도체성장동력확보\"",
+  "최태원이어노태문도자사주매입…책임경영의지"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-08-01T09:50:19.048172+09:00",
    "훈풍 삼성 코스피 AI 일제히 상한가 급반등 이끈"
+  ],
+  [
+   "2026-08-01T10:10:14.629469+09:00",
+   "자사주 매입 노태문도 의지 이어 책임경영"
   ]
  ],
- "last_run": "2026-08-01T10:01:37.370385+09:00",
+ "last_run": "2026-08-01T10:10:27.356756+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6190,7 +6194,7 @@
   "popcornnews.net": "팝콘뉴스",
   "domin.co.kr": "전북도민일보",
   "econotelling.com": "이코노텔링(econotelling)",
-  "news.mtn.co.kr": "news.mtn.co.kr",
+  "news.mtn.co.kr": "MTN NEWS",
   "hansbiz.co.kr": "한스경제",
   "kwnews.co.kr": "kwnews.co.kr",
   "sjsori.com": "세종의소리",
