@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fetv.co.kr/news/articleView.html?idxno=307539",
-  "https://news.bizwatch.co.kr/article/industry/2026/07/30/0054",
-  "https://www.sedaily.com/article/20074007",
-  "https://www.seoul.co.kr/news/economy/2026/07/30/20260730500248?wlog_tag3=naver",
-  "http://www.fnnews.com/news/202607301818268701",
   "https://www.hankookilbo.com/news/article/A2026073016050001406?did=NA",
   "https://www.news2day.co.kr/article/20260730500291",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=315809",
@@ -2999,14 +2994,14 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/08/01/2026080100027.html",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046794",
   "https://www.hankyung.com/article/202607318004i",
-  "https://www.joongangenews.com/news/articleView.html?idxno=537116"
+  "https://www.joongangenews.com/news/articleView.html?idxno=537116",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876752",
+  "https://www.apnews.kr/news/articleView.html?idxno=3050211",
+  "https://www.dailian.co.kr/news/view/1673164/?sc=Naver",
+  "http://www.kjdaily.com/article.php?aid=1785556507683584227",
+  "https://biz.heraldcorp.com/article/10827777"
  ],
  "seen_titles": [
-  "배터리깜짝실적이'견인'…SK이노베이션,2분기3.5조흑자달성",
-  "SK텔레콤,에어요금제혜택강화…\"통신비부담낮춘다\"",
-  "국민성장펀드,LG디스플레이·테크윙에1조3500억원지원",
-  "'ETF아버지'배재규\"단일레버리지,상폐아닌자연사시켜야\"",
-  "멈추지않는CXMT여파…SK하이닉스·마이크론주가흔든다",
   "\"고맙다ESS\"K배터리3사,2분기나란히적자탈출",
   "'곡소리'개미1.4조투매…코스피5500선도'위태'",
   "\"중도금날려\"\"수익률-96.8%\"...투자자들,증시폭락에줄줄이'파산'",
@@ -6001,25 +5996,14 @@
   "하이닉스ADR3.5%마이크론5.90%급락…또'잿빛월요일'공포떠는韓...",
   "민주당권레이스본격화…충남서맞붙은김민석·정청래·송영길",
   "폭락한주도주,왜급반등했나…향후3가지시나리오[이주영의시장을...",
-  "SK텔레콤주가7월31일8만1천4백원5거래일등락"
+  "SK텔레콤주가7월31일8만1천4백원5거래일등락",
+  "노태문삼성전자사장,자사주7억원어치매입…책임경영일환",
+  "'2.3조베팅'두산…SK실트론품고반도체'앞단'까지넓힌다",
+  "저평가확신준최태원'14억'평가익,수석부회장오른김동관[재계-i...",
+  "AI열풍에메모리업계'돈방석'…5대업체현금흐름92배급증",
+  "하루짜리반등이냐,더큰조정전조냐…“韓증시조울증”이라는외신..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-01T06:51:08.736614+09:00",
-   "중국산 삼전닉스 눈돌리지만 중국 디브리핑 대신 기업들 비싼"
-  ],
-  [
-   "2026-08-01T06:51:08.736614+09:00",
-   "증시를 AI 뉴욕증시 다시 투자 덜자 클라우드가 불안 끌어올렸다 환호"
-  ],
-  [
-   "2026-08-01T06:51:08.736614+09:00",
-   "기업을 자국 반도체 대하는 자세 중국정부가"
-  ],
-  [
-   "2026-08-01T06:51:08.736614+09:00",
-   "SK하이닉스선물단일종목인버스2X SOL SK하이닉스 쇼크"
-  ],
   [
    "2026-08-01T07:01:31.308726+09:00",
    "실적이라더니 삼전엔 없었던 하닉엔 있었지만 B급기 역대급"
@@ -6559,9 +6543,21 @@
   [
    "2026-08-01T12:51:07.913667+09:00",
    "등락 주가 7월 8만1천4백원 SK텔레콤 5거래일 31일"
+  ],
+  [
+   "2026-08-01T13:01:26.509859+09:00",
+   "저평가 최태원 평가익 수석부회장 김동관 14억 재계 확신 오른"
+  ],
+  [
+   "2026-08-01T13:01:26.509859+09:00",
+   "열풍에 5대 메모리업계 돈방석 92배 업체 현금흐름 AI 급증"
+  ],
+  [
+   "2026-08-01T13:01:26.509859+09:00",
+   "증시 하루짜리 반등이냐 조울증 외신 전조냐 이라는 조정"
   ]
  ],
- "last_run": "2026-08-01T12:51:17.458303+09:00",
+ "last_run": "2026-08-01T13:01:38.838530+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
