@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12112230",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607271509301840108776",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607300509&t=NNv",
-  "https://www.sedaily.com/article/20073983",
-  "https://www.sedaily.com/article/20073984",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255449&CMPT_CD=P0010",
   "https://www.junggi.co.kr/news/articleView.html?idxno=37287",
   "https://weekly.khan.co.kr/article/202607301755001",
@@ -2999,14 +2994,14 @@
   "https://biz.chosun.com/international/international_economy/2026/08/01/V4NZSPREIZFRPCBKYOZ3HAOTFQ/",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=849077",
   "https://www.ddaily.co.kr/page/view/2026080109301835850",
-  "https://www.viewsnnews.com/article?q=237596"
+  "https://www.viewsnnews.com/article?q=237596",
+  "https://www.mk.co.kr/article/12103296",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80255",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51876",
+  "http://www.newsprime.co.kr/news/article.html?no=742338",
+  "https://www.bzeronews.com/news/articleView.html?idxno=820780"
  ],
  "seen_titles": [
-  "면접에반나절할애...SK하이닉스,근원적사고력갖춘인재위주로선...",
-  "공정위,10조원대바이오연료입찰담합제재착수…7개업체심판대올...",
-  "[외환-마감]'비둘기'美FOMC·쏟아진네고물량에1,430원대로…9.30원...",
-  "ESS날개단배터리3사,2분기‘반짝회복’…하반기EV수요가반등...",
-  "아파트중도금으로내야할3억을주식으로날린사람이올린글",
   "'예탁금상향D-1'삼전닉스레버리지개인순매수'뚝↓'",
   "삼전최대실적도개미들‘투매’못막았다",
   "SK이노,2Q영업이익3조4873억원···윤활유·배터리실적개선",
@@ -6001,7 +5996,12 @@
   "마진콜에무너진‘AI투자스타’…시타델,160억달러인수",
   "주유소기름값11주연속하락…원달러환율부터최고가격제시너지",
   "“6600선극적회복”…죽다살아난코스피,진짜바닥일까",
-  "하이퍼스케일러주가급등,반도체주는약세"
+  "하이퍼스케일러주가급등,반도체주는약세",
+  "Koreanhotelkimchiexpandsglobalfootprint",
+  "SK실트론,두산에매각완료…지분70.6%2.3조에매각",
+  "아마존'깜짝실적'에뉴욕증시상승…AI투자우려완화",
+  "[해외시황]뉴욕증시,아마존호실적·AI투자우려완화에'상승'…나스...",
+  "'반도체질주에도고용은냉각'…충북경제회복온도차"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,13 @@
   [
    "2026-08-01T10:12:35.076349+09:00",
    "약세 하이퍼스케일러 주가 급등 반도체주는"
+  ],
+  [
+   "2026-08-01T10:21:02.283415+09:00",
+   "반도체 충북경제 온도 질주에도 냉각 회복 고용은"
   ]
  ],
- "last_run": "2026-08-01T10:12:46.112943+09:00",
+ "last_run": "2026-08-01T10:21:09.478379+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
