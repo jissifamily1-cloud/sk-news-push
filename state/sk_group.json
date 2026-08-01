@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607301811451254",
-  "http://www.fnnews.com/news/202607301811438242",
   "https://www.fetv.co.kr/news/articleView.html?idxno=307539",
   "https://news.bizwatch.co.kr/article/industry/2026/07/30/0054",
   "https://www.sedaily.com/article/20074007",
@@ -2999,11 +2997,11 @@
   "https://www.pennmike.com/news/articleView.html?idxno=124841",
   "https://www.polinews.co.kr/news/articleView.html?idxno=738800",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/01/2026080100027.html",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046794"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046794",
+  "https://www.hankyung.com/article/202607318004i",
+  "https://www.joongangenews.com/news/articleView.html?idxno=537116"
  ],
  "seen_titles": [
-  "삼성물산,13년연속시평1위…GS건설·현대엔지니어링2계단↑,대우건...",
-  "[단독]與,메가특구특별법‘주52시간예외’로가닥",
   "배터리깜짝실적이'견인'…SK이노베이션,2분기3.5조흑자달성",
   "SK텔레콤,에어요금제혜택강화…\"통신비부담낮춘다\"",
   "국민성장펀드,LG디스플레이·테크윙에1조3500억원지원",
@@ -6001,7 +5999,9 @@
   "\"한국증시,도박판맞네\"...코스피7월변동성,비트코인3.7배",
   "[포토]김재희,'페어웨이로출근합니다!'",
   "하이닉스ADR3.5%마이크론5.90%급락…또'잿빛월요일'공포떠는韓...",
-  "민주당권레이스본격화…충남서맞붙은김민석·정청래·송영길"
+  "민주당권레이스본격화…충남서맞붙은김민석·정청래·송영길",
+  "폭락한주도주,왜급반등했나…향후3가지시나리오[이주영의시장을...",
+  "SK텔레콤주가7월31일8만1천4백원5거래일등락"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,17 @@
   [
    "2026-08-01T12:41:12.340366+09:00",
    "본격화 레이스 민주 김민석 맞붙은 송영길 당권 정청래 충남서"
+  ],
+  [
+   "2026-08-01T12:51:07.913667+09:00",
+   "급반등했나 시나리오 시장을 이주영의 향후 3가지 주도주 폭락한"
+  ],
+  [
+   "2026-08-01T12:51:07.913667+09:00",
+   "등락 주가 7월 8만1천4백원 SK텔레콤 5거래일 31일"
   ]
  ],
- "last_run": "2026-08-01T12:41:23.616488+09:00",
+ "last_run": "2026-08-01T12:51:17.458303+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
