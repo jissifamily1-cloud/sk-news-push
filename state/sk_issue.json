@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailyt.co.kr/newsView/dlt202607140003",
-  "https://economist.co.kr/article/view/ecn202607070042",
-  "http://www.ujeil.com/news/articleView.html?idxno=388788",
-  "https://www.asiatime.co.kr/article/20260713500309",
   "https://www.hinews.co.kr/view.php?ud=202607131011234081cd8b879b3c_48",
   "http://www.inews24.com/view/1984719",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=849394",
@@ -2999,13 +2995,13 @@
   "https://www.ytn.co.kr/_ln/0103_202608020611500911",
   "https://www.yna.co.kr/view/AKR20260731155300008?input=1195m",
   "https://www.yna.co.kr/view/AKR20260801043000017?input=1195m",
-  "https://www.ikbc.co.kr/article/view/kbc202608020003"
+  "https://www.ikbc.co.kr/article/view/kbc202608020003",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030194320&code=61221111&cp=nv",
+  "https://economist.co.kr/article/view/ecn202607270025",
+  "https://www.sisajournal.com/news/articleView.html?idxno=381676",
+  "https://www.segye.com/newsView/20260731520367?OutUrl=naver"
  ],
  "seen_titles": [
-  "[지구촌이색환경정책소개]\"가격표옆에환경성적표를붙이세요\"…...",
-  "유니세프까지번진VVIP마케팅…기부도‘0.1%잡기’경쟁[큰손을잡...",
-  "[기획]-뉴스분석-ESG공시시대,울산산업의대전환(상)",
-  "[증권뉴스브리핑]\"코스피밸류에이션금융위기때보다낮아\"/SK하이닉...",
   "ESG공시의무화첫발…스코프3유예·면책논란",
   "[ESGNOW]'법정공시'ESG,책임의시간이시작된다",
   "[ESGHOW]공시강화에속타는재계",
@@ -6001,10 +5997,14 @@
   "\"징계요구도감수\"...경찰제안한통제안살펴보니",
   "'국고채담합'제재앞두고딜러사촉각…\"국채인수위축우려\"",
   "원화스테이블코인경쟁본격화…네카오주도권승부",
-  "전남목포·광양등투표자수'0명'…34곳추가확인"
+  "전남목포·광양등투표자수'0명'…34곳추가확인",
+  "[단독]무료도시락들고방문판매…‘농협신우회’는없었다",
+  "보험사,결국칼빼들었다…한의계와전면전나선이유",
+  "[팩트체크]선관위,투표율임의조정논란…개표·득표율은괜찮은걸...",
+  "“돈없는피해자사건은지연될수도”법조계우려…소송체계달라지..."
  ],
  "recent_sigs": [],
- "last_run": "2026-08-02T07:50:59.675292+09:00",
+ "last_run": "2026-08-02T08:01:59.096284+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
