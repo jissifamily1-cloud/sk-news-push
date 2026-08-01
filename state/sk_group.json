@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12112255",
-  "https://www.ikbc.co.kr/article/view/kbc202607300066",
-  "https://www.sedaily.com/article/20074019",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=307542",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=760473",
   "https://www.mk.co.kr/article/12112253",
   "https://news.mtn.co.kr/news-detail/2026073017534045040",
@@ -2999,13 +2995,13 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=876744",
   "https://www.yna.co.kr/view/AKR20260801028800073?input=1195m",
   "https://www.bzeronews.com/news/articleView.html?idxno=820786",
-  "https://www.seoultimes.news/news/article.html?no=2000098377"
+  "https://www.seoultimes.news/news/article.html?no=2000098377",
+  "http://www.kdfnews.com/news/articleView.html?idxno=185983",
+  "https://biz.sbs.co.kr/article_hub/20000326039?division=NAVER",
+  "https://view.asiae.co.kr/article/2026073110484698695",
+  "https://magazine.hankyung.com/business/article/202608019160b"
  ],
  "seen_titles": [
-  "충남도,202조첨단투자신속지원…인허가단축·3력혁신추진",
-  "'역대급실적'도못막은반도체투매…하이닉스사흘새27%폭락",
-  "배터리3사,2분기나란히흑자전환…ESS수요가견인",
-  "외국인돌아왔지만코스피또하락…3일째급락장",
   "코스피5600선아래로...사흘간삼전18.5%↓·하닉27%↓",
   "[일문일답]개보위\"KT사고는'중대한위반'…SKT와피해규모달라\"",
   "'3.5조흑자'SK이노베이션…중동·정부규제하반기변수",
@@ -6001,7 +5997,11 @@
   "'폭등장세'에각종신기록탄생...외국인최대폭풍매수ㆍ개미'대탈출...",
   "\"메모리5개사,2분기135조원손에쥐어…빅테크자금이동\"",
   "'500만충청권'하나의경제권으로…\"좋은일자리가경쟁력\"",
-  "[CEO위클리]\"승진과자사주매입그리고현장경영\"…재계리더들'책임..."
+  "[CEO위클리]\"승진과자사주매입그리고현장경영\"…재계리더들'책임...",
+  "7월수출989억달러'역대최대'…무역수지303억달러흑자",
+  "\"글로벌메모리5개사,2분기순익16배뛰었다\"",
+  "[주末머니]24시간거래되는SK하이닉스주식,국내증시영향은",
+  "하루에13억번최태원...SK하이닉스'베팅'적중"
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,13 @@
   [
    "2026-08-01T11:31:24.936022+09:00",
    "책임 매입 승진과 자사주 재계 그리고 리더들 현장경영"
+  ],
+  [
+   "2026-08-01T11:41:07.227722+09:00",
+   "하루에 베팅 최태원 SK하이닉스 13억 적중"
   ]
  ],
- "last_run": "2026-08-01T11:31:38.905905+09:00",
+ "last_run": "2026-08-01T11:41:13.240266+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
