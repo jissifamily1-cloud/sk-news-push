@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=267821",
   "https://www.sedaily.com/article/20071777",
   "https://view.asiae.co.kr/article/2026072512380105939",
   "https://www.hani.co.kr/arti/politics/bluehouse/1269920.html",
@@ -2999,10 +2998,10 @@
   "https://www.munhwa.com/article/11606542",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542892",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520640",
-  "https://www.hankyung.com/article/2026080193947"
+  "https://www.hankyung.com/article/2026080193947",
+  "https://biz.heraldcorp.com/article/10827922"
  ],
  "seen_titles": [
-  "이대통령-젠슨황회동…\"SK-엔비디아5천억달러협력\"",
   "'9천440억원분할명령'…최태원·노소영이혼소송9년만결론",
   "이대통령“우리는식구”,젠슨황“용산전자상가다닌시절큰에...",
   "엔비디아·오픈AI도부른샌프란시스코선언…\"K반도체-AI공급망,한국...",
@@ -6001,7 +6000,8 @@
   "“하닉이298만원찍던날있었단다”100만클릭전래동화",
   "최태원·이부진,‘희비’엇갈린자사주매입",
   "[장덕수의원샷원킬]'송구합니다'라는문자…국회는왜권력앞에서만...",
-  "\"SK회장님?\"…슈카방송에잡힌48억매수의정체"
+  "\"SK회장님?\"…슈카방송에잡힌48억매수의정체",
+  "“또속았다”“당장팔아라”‘삼전닉스’다들던질때…사자마자..."
  ],
  "recent_sigs": [
   [
@@ -6027,9 +6027,13 @@
   [
    "2026-08-01T21:10:14.304309+09:00",
    "매수의 정체 방송에 회장님 슈카 잡힌 48억"
+  ],
+  [
+   "2026-08-01T21:50:15.015064+09:00",
+   "삼전닉스 속았다 당장 팔아라 던질때 다들 사자마자"
   ]
  ],
- "last_run": "2026-08-01T21:40:27.634449+09:00",
+ "last_run": "2026-08-01T21:50:26.529806+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
