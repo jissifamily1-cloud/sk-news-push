@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1224353",
-  "https://news.jtbc.co.kr/article/NB12310093?influxDiv=NAVER",
-  "https://news.jtbc.co.kr/article/NB12310095?influxDiv=NAVER",
-  "https://www.mk.co.kr/article/12106965",
-  "https://news.jtbc.co.kr/article/NB12310092?influxDiv=NAVER",
   "https://www.nocutnews.co.kr/news/6553178",
   "https://www.gukjenews.com/news/articleView.html?idxno=3645612",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520316",
@@ -2999,14 +2994,14 @@
   "https://www.ytn.co.kr/_ln/0115_202608011029167854",
   "https://www.dailian.co.kr/news/view/1673419/?sc=Naver",
   "https://www.hankookilbo.com/news/article/A2026080110380002075?did=NA",
-  "https://www.dkilbo.com/news/articleView.html?idxno=550155"
+  "https://www.dkilbo.com/news/articleView.html?idxno=550155",
+  "https://www.chosun.com/national/national_general/2026/08/01/USVZZNVBB5GIPJDMRYUTABVDAU/",
+  "https://www.segye.com/newsView/20260801505730?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260801105027sop",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/64076?feed=na",
+  "https://www.newspim.com/news/view/20260801000041"
  ],
  "seen_titles": [
-  "나경원의원,“선관위,전산조작·주권도둑질…사전투표폐지해야”",
-  "'시간대별투표율'표심영향미치는데…선관위가공모'충격'",
-  "[단독]중앙선관위,경기도선관위에\"숫자맞추자\"조작샘플보내",
-  "이언주합성음란물게시한전민주당원…경찰“공범·배후없다”",
-  "[단독]투표자수잘못입력하고'숫자마사지'…입력마친통계도손댄...",
   "아동성매매혐의최영중전청주시의원끝모를파문계속",
   "'궁금한이야기Y'미성년자성매매의혹...최영중전시의원추적",
   "주목!오는10월검찰'보완수사권'폐지\"민생범죄거악(巨惡)키우나...",
@@ -6001,7 +5996,12 @@
   "치료받던경산방화피해주민또숨져...모두3명사망",
   "종합특검,'관저이전의혹'윤한홍첫피의자소환…尹\"나와관련없는...",
   "윤한홍,'관저이전의혹'첫특검조사...\"취임후일,나와무관\"",
-  "안병윤예천군수공직선거법위반혐의구속영장신청"
+  "안병윤예천군수공직선거법위반혐의구속영장신청",
+  "치료받던입주민대표숨져…‘경산아파트방화’희생자3명으로",
+  "경산아파트방화사건피해입주민대표숨져…사망자3명으로",
+  "'관저이전'윤한홍특검출석…\"나와관련없는일\"",
+  "'尹관저이전의혹'윤한홍,피의자신분특검출석..부지·업체선정...",
+  "'관저이전특혜의혹'윤한홍의원,특검피의자조사출석"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과징금 공범 사업자도 이유 입찰담합 커지는 들러리"
   ]
  ],
- "last_run": "2026-08-01T10:50:55.382553+09:00",
+ "last_run": "2026-08-01T11:01:13.054041+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
