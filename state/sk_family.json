@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ikbc.co.kr/article/view/kbc202607250017",
-  "https://www.g-enews.com/view.php?ud=202607251149587325056c162803_1",
   "https://www.pressian.com/pages/articles/2026072416522630109",
   "https://www.slist.kr/news/articleView.html?idxno=754108",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674405&plink=ORI&cooper=NAVER",
@@ -2999,11 +2997,11 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=313374",
   "https://www.hankyung.com/article/202607317995g",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7176885",
-  "https://www.dt.co.kr/article/12075925"
+  "https://www.dt.co.kr/article/12075925",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876739",
+  "https://www.ekn.kr/web/view.php?key=20260801024148464"
  ],
  "seen_titles": [
-  "이재용·정의선·이해진,이번엔美엔비디아본사서젠슨황만나",
-  "이대통령,빅테크CEO들과피시앤칩스만찬…'샌프란깐부회동'",
   "이재명대통령\"한국,글로벌AI공급망핵심국가도약\"",
   "李대통령,'샌프란깐부회동'…글로벌AI리더와'피시앤칩스만찬'",
   "李대통령,AI서밋후글로벌빅테크기업CEO들과‘피시앤칩스만찬’",
@@ -6001,7 +5999,9 @@
   "SK실트론매각'운명의날'…AI훈풍에높아진몸값,SK선택은",
   "\"무조건가자\"최태원의결단…하닉에'60조'안겼다[홍민성의테토남...",
   "반도체실적↑...코스피'역대급저평가'탈출하나",
-  "“가만히앉아13억평가익”…SK하닉매수최태원의‘신묘한’투자"
+  "“가만히앉아13억평가익”…SK하닉매수최태원의‘신묘한’투자",
+  "'이제는뉴노멀'...삼성전자ㆍSK하이닉스,장기공급계약잇따라체",
+  "‘정유에서전기’로피봇SK이노베이션,솔루션은‘LNG·SMR’"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-08-01T09:20:12.617984+09:00",
    "앉아 가만히 평가익 SK하닉 매수 투자 최태원의 13억 신묘한"
+  ],
+  [
+   "2026-08-01T09:31:21.781391+09:00",
+   "삼성전자 이제는 장기공급 SK하이닉스 잇따라 계약 뉴노멀"
+  ],
+  [
+   "2026-08-01T09:31:21.781391+09:00",
+   "정유에서 전기 SMR 솔루션은 LNG 피봇 SK이노베이션"
   ]
  ],
- "last_run": "2026-08-01T09:20:27.376135+09:00",
+ "last_run": "2026-08-01T09:31:39.788309+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
