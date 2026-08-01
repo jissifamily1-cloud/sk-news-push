@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=754108",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674405&plink=ORI&cooper=NAVER",
   "https://view.asiae.co.kr/article/2026072512031293474",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83671",
@@ -2999,10 +2998,10 @@
   "https://www.dt.co.kr/article/12075925",
   "https://www.getnews.co.kr/news/articleView.html?idxno=876739",
   "https://www.ekn.kr/web/view.php?key=20260801024148464",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=311094"
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311094",
+  "https://www.sedaily.com/article/20074605"
  ],
  "seen_titles": [
-  "李대통령,'샌프란깐부회동'…글로벌AI리더와'피시앤칩스만찬'",
   "李대통령,AI서밋후글로벌빅테크기업CEO들과‘피시앤칩스만찬’",
   "반도체강국의그늘,화학물질은아직도노동자를죽인다",
   "'샌프란깐부회동'李대통령,빅테크CEO들과피시앤칩스만찬",
@@ -6001,7 +6000,8 @@
   "“가만히앉아13억평가익”…SK하닉매수최태원의‘신묘한’투자",
   "'이제는뉴노멀'...삼성전자ㆍSK하이닉스,장기공급계약잇따라체",
   "‘정유에서전기’로피봇SK이노베이션,솔루션은‘LNG·SMR’",
-  "폭락과급등위험한반복…'롤러코스피'8월에도날뛸까[주간증시해설..."
+  "폭락과급등위험한반복…'롤러코스피'8월에도날뛸까[주간증시해설...",
+  "코스피급반등이끈AI훈풍…삼성·SK일제히상한가"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-01T09:40:15.464520+09:00",
    "날뛸까 반복 주간 폭락과 급등 8월에도 롤러코스피 증시해설 위험한"
+  ],
+  [
+   "2026-08-01T09:50:19.048172+09:00",
+   "훈풍 삼성 코스피 AI 일제히 상한가 급반등 이끈"
   ]
  ],
- "last_run": "2026-08-01T09:40:28.851712+09:00",
+ "last_run": "2026-08-01T09:50:34.208380+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
