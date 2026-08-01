@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tjb.co.kr/news05/bodo/view/id/101744",
-  "https://www.koreajoongangdaily.com/business/chey-taewon-snaps-up-48-billion-won-of-sk-hynix-shares-in-his-first-direct-purchase/12801148",
-  "https://theviewers.co.kr/View.aspx?No=4169062",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83728",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=07881846645519768",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128487",
@@ -2999,12 +2996,12 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=593859",
   "https://www.tokenpost.kr/news/cryptocurrency/383721",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473531",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6841772_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6841772_37012.html",
+  "https://www.etoday.co.kr/news/view/2610014",
+  "https://www.news1.kr/economy/trend/6246202",
+  "http://www.metroseoul.co.kr/article/20260802500001"
  ],
  "seen_titles": [
-  "[포토]김재희,부드러운어프로치연습",
-  "[포토]김재희,핀으로날아가라",
-  "[포토]김재희,러프에서핀을본다",
   "[포토]김재희,깊은러프부드러운임팩트",
   "[포토]김재희,차분한첫조준",
   "[포토]김재희,무리없는첫티샷",
@@ -6001,7 +5998,10 @@
   "코스피도약,삼성전자SK하이닉스등시총상위주주가일제히질주…...",
   "국내투자자,해외로스테이블코인2조7천억순유출…안정성보다위험...",
   "코스피·코스닥동반붕괴…개미들,70%종목서손실봤다",
-  "'개미보호'일단통했지만‥널뛰기증시계속"
+  "'개미보호'일단통했지만‥널뛰기증시계속",
+  "'코인엑소더스'매달수천억해외로,국내규제는빈틈",
+  "환율,1600원문턱서1400원대로급락…\"장기적고환율국면은계속\"",
+  "AI가무너뜨리고AI가살렸다…'검은7월'의역설"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,17 @@
   [
    "2026-08-02T07:21:11.621122+09:00",
    "일단 통했지만 개미 증시 널뛰기 계속 보호"
+  ],
+  [
+   "2026-08-02T07:31:22.011957+09:00",
+   "환율 1400원대로 고환율 계속 문턱서 급락 국면은 1600원 장기적"
+  ],
+  [
+   "2026-08-02T07:31:22.011957+09:00",
+   "무너뜨리고 역설 살렸다 7월 AI가 검은"
   ]
  ],
- "last_run": "2026-08-02T07:21:23.218373+09:00",
+ "last_run": "2026-08-02T07:31:31.823703+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
