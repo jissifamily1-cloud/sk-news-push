@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260725032000003?input=1195m",
   "http://www.breaknews.com/1224364",
   "https://www.ekn.kr/web/view.php?key=20260725023206061",
   "https://www.cwn.kr/news/articleView.html?idxno=51325",
@@ -2999,10 +2998,10 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848967",
   "http://www.yonhapnewstv.co.kr/news/MYH20260801140858VJg",
   "https://www.delighti.co.kr/news/articleView.html?idxno=119697",
-  "https://www.bloter.net/news/articleView.html?idxno=669712"
+  "https://www.bloter.net/news/articleView.html?idxno=669712",
+  "https://bizhankook.com/articles/doosan-sk-siltron-acquisition-2-3-trillion.html"
  ],
  "seen_titles": [
-  "이재용-젠슨황등한미글로벌CEO들한자리…\"AI여정한국과함께\"",
   "[바로이뉴스]\"SK와730조동맹!대단하죠?\"…한국메모리'콕'집어\"엄...",
   "삼성·SK,美빅테크와'AI동맹'강화…3대메가프로젝트속도낸다",
   "'샌프란AI선언'토대는K-반도체저력…글로벌초격차굳힌다",
@@ -6001,21 +6000,10 @@
   "증권사목표주가줄줄이내렸지만…삼전닉스,HBM4·LTA하반기'승부'",
   "[뉴스초점]하루에1,001p↑…코스피,역대최대폭상승",
   "두산으로넘어간SK실트론…2031년매출3조원목표",
-  "'고작49억'아니었다…SK하이닉스에담긴'최태원책임경영'셈법"
+  "'고작49억'아니었다…SK하이닉스에담긴'최태원책임경영'셈법",
+  "두산,SK실트론최종인수계약…2.3조빅딜배경은?"
  ],
  "recent_sigs": [
-  [
-   "2026-08-01T09:10:21.640276+09:00",
-   "안겼다 결단 하닉에 가자 최태원의 무조건 60조 홍민성의 테토남"
-  ],
-  [
-   "2026-08-01T09:10:21.640276+09:00",
-   "코스피 실적 탈출하나 역대급 반도체 저평가"
-  ],
-  [
-   "2026-08-01T09:20:12.617984+09:00",
-   "앉아 가만히 평가익 SK하닉 매수 투자 최태원의 13억 신묘한"
-  ],
   [
    "2026-08-01T09:31:21.781391+09:00",
    "삼성전자 이제는 장기공급 SK하이닉스 잇따라 계약 뉴노멀"
@@ -6087,9 +6075,13 @@
   [
    "2026-08-01T15:10:17.459148+09:00",
    "49억 셈법 아니었다 책임경영 고작 SK하이닉스에 담긴"
+  ],
+  [
+   "2026-08-01T15:20:19.048260+09:00",
+   "3조 두산 빅딜 최종 배경은 계약 SK실트론 인수"
   ]
  ],
- "last_run": "2026-08-01T15:10:29.234632+09:00",
+ "last_run": "2026-08-01T15:20:34.870760+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6383,6 +6375,7 @@
   "ilovepc.co.kr": "디지털포스트(PC사랑)",
   "junggi.co.kr": "중기이코노미",
   "coinreaders.com": "코인리더스",
-  "thescoop.co.kr": "더스쿠프"
+  "thescoop.co.kr": "더스쿠프",
+  "bizhankook.com": "bizhankook.com"
  }
 }
