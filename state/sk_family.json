@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674432&plink=ORI&cooper=NAVER",
   "https://www.cwn.kr/news/articleView.html?idxno=51322",
   "https://www.seoul.co.kr/news/politics/2026/07/25/20260725500021?wlog_tag3=naver",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267821",
@@ -2999,10 +2998,10 @@
   "https://bizhankook.com/articles/doosan-sk-siltron-acquisition-2-3-trillion.html",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5209664",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005892184",
-  "https://www.munhwa.com/article/11606542"
+  "https://www.munhwa.com/article/11606542",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542892"
  ],
  "seen_titles": [
-  "이재명대통령“대한민국,AI생산기지·글로벌AI협력플랫폼도약”",
   "이번엔피시앤칩스…李대통령,빅테크CEO들과‘샌프란깐부회동’",
   "'AI협력가속화'…이재명·젠슨황,샌프란시스코서'AI선언'이끌어낸...",
   "이대통령-젠슨황회동…\"SK-엔비디아5천억달러협력\"",
@@ -6001,7 +6000,8 @@
   "두산,SK실트론최종인수계약…2.3조빅딜배경은?",
   "'장기공급계약'으로안정적구조갖춘다…반도체부터소부장까지",
   "반도체업계,빅테크와'장기계약'봇물…안정적수익기반확보",
-  "“하닉이298만원찍던날있었단다”100만클릭전래동화"
+  "“하닉이298만원찍던날있었단다”100만클릭전래동화",
+  "최태원·이부진,‘희비’엇갈린자사주매입"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-08-01T17:50:14.460635+09:00",
    "298만원 있었단다 하닉이 클릭 찍던날 전래동화 100만"
+  ],
+  [
+   "2026-08-01T18:40:13.833014+09:00",
+   "엇갈린 자사주 매입 희비 이부진"
   ]
  ],
- "last_run": "2026-08-01T18:30:32.203883+09:00",
+ "last_run": "2026-08-01T18:40:29.380706+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
