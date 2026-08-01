@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661610",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1009862",
-  "http://www.inews24.com/view/1990504",
-  "https://www.ajunews.com/view/20260730162913931",
-  "https://www.nspna.com/news/?newsid=822570",
-  "https://www.inews365.com/news/article.html?no=930015",
-  "https://www.mk.co.kr/article/12112180",
-  "https://www.yna.co.kr/view/AKR20260729184600003?input=1195m",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2291691",
   "https://www.hankyung.com/article/2026073064141",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607300525&t=NNv",
   "http://www.srtimes.kr/news/articleView.html?idxno=208727",
@@ -2999,18 +2990,18 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=832114",
   "https://www.dt.co.kr/article/12075925",
   "https://www.cbci.co.kr/news/articleView.html?idxno=593720",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142379"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142379",
+  "http://www.footballist.co.kr/news/articleView.html?idxno=213004",
+  "https://www.lecturernews.com/news/articleView.html?idxno=207594",
+  "https://www.mt.co.kr/stock/2026/08/01/2026073118214089519",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876739",
+  "https://economist.co.kr/article/view/ecn202607290074",
+  "https://www.ekn.kr/web/view.php?key=20260801025448469",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422807",
+  "https://www.ekn.kr/web/view.php?key=20260801024148464",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260801091946tgI"
  ],
  "seen_titles": [
-  "드로우드림,전화응대대신하는AI상담서비스출시",
-  "반도체로커지는용인…분구논의재점화될까",
-  "“죽을만큼아파봤다”염경엽,LG위기에도여유찾은이유는",
-  "배터리3사적자터널끝냈다…7분기만에'동반흑자'",
-  "배터리3사나란히흑자전환…ESS정체해소가관건",
-  "SK이노,2Q영업익3조4873억원…전년比흑자전환",
-  "LH,호남권반도체첨단국가산업단지설계용역발주개시",
-  "“증시안정책언제내놓나”…저평가에도코스피외면하는투자자들[...",
-  "호남반도체클러스터땅빨리팔면토지보상더받는다",
   "7분기만에K배터리3사'흑자'…ESS·유럽EV타고하반기반등",
   "규제D-1레버리지vs인버스'단타승부수'…막판거래대금12조원",
   "안철수“李대통령,‘레버리지노답삼형제’즉각경질해야”",
@@ -6001,7 +5992,16 @@
   "[오피셜]유럽무대직행!'2008년생고3'깜짝영입발표...뮌헨,제주S...",
   "“가만히앉아13억평가익”…SK하닉매수최태원의‘신묘한’투자",
   "삼성전기,상한가로7월장마감…8월첫거래일주가상승세이어갈까",
-  "[위클리PICK3]코스피,이틀연속서킷부터삼전닉스'어닝서프라이즈..."
+  "[위클리PICK3]코스피,이틀연속서킷부터삼전닉스'어닝서프라이즈...",
+  "[공식발표]'韓골키퍼최초유럽빅리그직행'제주유스허재원,바이...",
+  "아마존호실적에미국뉴욕증시반등…다우존스·S&P500·나스닥지수상...",
+  "롤러코스터한주…실적좋은종목만살았다[김근희의증시랩업]",
+  "'이제는뉴노멀'...삼성전자ㆍSK하이닉스,장기공급계약잇따라체결",
+  "팔아야하나버텨야하나…'롤러코스피'대처법",
+  "SK가스,2분기영업손실439억원…매출늘었지만적자전환",
+  "흑자넘어전략경쟁···배터리3사하반기승부수갈린다",
+  "‘정유에서전기’로피봇SK이노베이션,솔루션은‘LNG·SMR’",
+  "중동전쟁에도정유사'깜짝실적'…\"래깅효과작용\""
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,37 @@
   [
    "2026-08-01T09:21:11.216825+09:00",
    "서프라이즈 삼전닉스 어닝 코스피 연속 이틀 서킷부터"
+  ],
+  [
+   "2026-08-01T09:32:22.849822+09:00",
+   "종목만 좋은 롤러코스터 살았다 실적"
+  ],
+  [
+   "2026-08-01T09:32:22.849822+09:00",
+   "삼성전자 잇따라 장기공급 이제는 체결 뉴노멀 SK하이닉스 계약"
+  ],
+  [
+   "2026-08-01T09:32:22.849822+09:00",
+   "롤러코스피 팔아야 하나 버텨야 대처법"
+  ],
+  [
+   "2026-08-01T09:32:22.849822+09:00",
+   "적자 매출 439억원 2분기 영업손실 SK가스 늘었지만"
+  ],
+  [
+   "2026-08-01T09:32:22.849822+09:00",
+   "하반기 전략 배터리3사 갈린다 경쟁 넘어 흑자 승부수"
+  ],
+  [
+   "2026-08-01T09:32:22.849822+09:00",
+   "SK이노베이션 솔루션은 피봇 정유에서 LNG SMR 전기"
+  ],
+  [
+   "2026-08-01T09:32:22.849822+09:00",
+   "작용 깜짝 정유사 중동전쟁에도 효과 래깅 실적"
   ]
  ],
- "last_run": "2026-08-01T09:21:22.226470+09:00",
+ "last_run": "2026-08-01T09:32:44.387804+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
