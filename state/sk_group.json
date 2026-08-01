@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=760473",
-  "https://www.mk.co.kr/article/12112253",
-  "https://news.mtn.co.kr/news-detail/2026073017534045040",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=47763",
   "http://www.newsprime.co.kr/news/article.html?no=742174",
   "https://www.hankookilbo.com/news/article/A2026073017420005153?did=NA",
@@ -2999,12 +2996,12 @@
   "http://www.kdfnews.com/news/articleView.html?idxno=185983",
   "https://biz.sbs.co.kr/article_hub/20000326039?division=NAVER",
   "https://view.asiae.co.kr/article/2026073110484698695",
-  "https://magazine.hankyung.com/business/article/202608019160b"
+  "https://magazine.hankyung.com/business/article/202608019160b",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473450",
+  "https://www.jejumaeil.net/news/articleView.html?idxno=403244",
+  "http://www.e-platform.net/news/articleView.html?idxno=104297"
  ],
  "seen_titles": [
-  "코스피5600선아래로...사흘간삼전18.5%↓·하닉27%↓",
-  "[일문일답]개보위\"KT사고는'중대한위반'…SKT와피해규모달라\"",
-  "'3.5조흑자'SK이노베이션…중동·정부규제하반기변수",
   "삼성전자\"메모리,내년엔더부족\"",
   "\"AI로가장먼저뜬韓,가장먼저무너지나\"…이코노미스트의경고",
   "\"470만원가능\"\"148만원적당\"SK하닉주가엇갈린전망",
@@ -6001,7 +5998,10 @@
   "7월수출989억달러'역대최대'…무역수지303억달러흑자",
   "\"글로벌메모리5개사,2분기순익16배뛰었다\"",
   "[주末머니]24시간거래되는SK하이닉스주식,국내증시영향은",
-  "하루에13억번최태원...SK하이닉스'베팅'적중"
+  "하루에13억번최태원...SK하이닉스'베팅'적중",
+  "배터리흑자전환에윤활유'깜짝실적'…SK이노베이션,시장전망두배...",
+  "제주유스허재원,뮌헨으로간다",
+  "8월국내LPG공급가격'동결'"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-08-01T11:41:07.227722+09:00",
    "하루에 베팅 최태원 SK하이닉스 13억 적중"
+  ],
+  [
+   "2026-08-01T11:51:10.477155+09:00",
+   "간다 제주 뮌헨으로 허재원 유스"
+  ],
+  [
+   "2026-08-01T11:51:10.477155+09:00",
+   "공급가격 8월 동결 LPG 국내"
   ]
  ],
- "last_run": "2026-08-01T11:41:13.240266+09:00",
+ "last_run": "2026-08-01T11:51:19.095340+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
