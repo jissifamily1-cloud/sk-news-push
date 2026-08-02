@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688596",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=270797",
-  "https://www.dailian.co.kr/news/view/1673017/?sc=Naver",
-  "https://biz.sbs.co.kr/article_hub/20000325827?division=NAVER",
-  "https://www.mt.co.kr/stock/2026/07/31/2026073109043289473",
-  "https://www.etnews.com/20260731000061",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718560",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1172520",
-  "https://www.news1.kr/photos/8034828",
   "https://www.news1.kr/photos/8034832",
   "https://www.kwnews.co.kr/article/20260731500017",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=257095",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02568246645543384",
   "https://www.koreajoongangdaily.com/business/kbonus-wave-micron-taiwan-workers-seek-higher-performance-perks-as-korean-rivals-lift-payout-limits/12803791",
   "http://www.fnnews.com/news/202608021820111177",
-  "https://www.sedaily.com/article/20074828"
+  "https://www.sedaily.com/article/20074828",
+  "http://www.osen.co.kr/article/G1112851143",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1785655923&code=11121600&cp=nv",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95713",
+  "https://www.hankyung.com/article/2026080202201",
+  "https://www.hankyung.com/article/2026080201941",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718765",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256805",
+  "https://www.ajunews.com/view/20260802132311204",
+  "http://www.fnnews.com/news/202608021827596828"
  ],
  "seen_titles": [
-  "[해외시황]뉴욕증시,MS호실적·반도체株반등에'일제히상승'…나스...",
-  "[속보]코스피14%급등…코스피·코스닥'매수사이드카'",
-  "미반도체주급등,코스피반등가능성부각",
-  "“삼성,내년SK하닉제치고HBM시장1위”…UBS전망",
-  "[속보]삼성전자·SK하이닉스,20%안팎폭등",
-  "SKT,피지컬AI스타트업과손잡고로보틱스생태계키운다",
-  "SKT,스타트업과손잡고로보틱스생태계만든다…로봇데이터구축방...",
-  "SKT,피지컬AI스타트업8개사협업…로보틱스생태계강화",
-  "UBS,\"내년HBM1위는삼성전자\"…SK하이닉스는AI메모리수혜지속",
   "[속보]삼전·닉스장초반21%대급등",
   "'산사에서SKT아일랜드까지'…배우한석규,28년만에SKT광고복귀",
   "대한상의,한-칠레미래협력확대…핵심광물·AI·친환경에너지맞손",
@@ -6001,17 +5992,18 @@
   "[마켓인]도쿄집결한글로벌임팩트전문가들“자본은충분,딜발굴할...",
   "K-bonuswave?MicronTaiwanworkersseekhigherperformanceperksasK",
   "코스피변동성,AI실적·美고용지표분수령[주간증시전망]",
-  "中칩생산량10년새350%급증…범용반도체는이미레드팹이장악"
+  "中칩생산량10년새350%급증…범용반도체는이미레드팹이장악",
+  "‘와제주공항에나타난바이에른뮌헨실화냐?’노이어+김민재등친...",
+  "美‘AI1375조’결실…남미3개국선핵심광물확보성과",
+  "[k1.live]'내일입대'김준하-오재혁,마지막경기선발출격…유종의...",
+  "하이닉스시총1위예견한주식운용본부장의전망[한경프리미엄9TODAY...",
+  "정점식,與에\"주식대란국조하자\"",
+  "[EBN오늘(2일)이슈종합]정의선현대차그룹회장,튀르키예거점점검...",
+  "당국,단일종목레버리지배율직접손댄다···'안정화조치VS과도개...",
+  "K-AI2차평가임박…공통지표SKT·업스테이지우세",
+  "CDMO업계\"지금은기술포트폴리오시대\""
  ],
  "recent_sigs": [
-  [
-   "2026-08-02T12:31:16.805602+09:00",
-   "최종전 김재희 티샷"
-  ],
-  [
-   "2026-08-02T12:41:04.301701+09:00",
-   "빅테크와 글로벌 수익 업계 국내 장기공급계약으로 반도체 안정 확보"
-  ],
   [
    "2026-08-02T12:51:01.813739+09:00",
    "반도체 미래교육 이천교육지원청 학생 맞춤형"
@@ -6759,9 +6751,33 @@
   [
    "2026-08-02T18:31:07.714316+09:00",
    "레드팹이 이미 생산량 범용반도체는 급증 10년새 장악"
+  ],
+  [
+   "2026-08-02T18:41:09.878035+09:00",
+   "주식운용본부장의 전망 1위 한경 예견한 시총 프리미엄9 TODAY 하이닉스"
+  ],
+  [
+   "2026-08-02T18:41:09.878035+09:00",
+   "국조하자 대란 정점식 주식"
+  ],
+  [
+   "2026-08-02T18:41:09.878035+09:00",
+   "현대차그룹 회장 튀르키예 점검 정의선 거점"
+  ],
+  [
+   "2026-08-02T18:41:09.878035+09:00",
+   "당국 조치 직접 배율 레버리지 손댄다 VS 과도 단일종목 안정화"
+  ],
+  [
+   "2026-08-02T18:41:09.878035+09:00",
+   "우세 임박 SKT 공통지표 2차 평가 업스테이지 AI"
+  ],
+  [
+   "2026-08-02T18:41:09.878035+09:00",
+   "기술 CDMO업계 시대 포트폴리오 지금은"
   ]
  ],
- "last_run": "2026-08-02T18:31:29.680838+09:00",
+ "last_run": "2026-08-02T18:41:28.923041+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
