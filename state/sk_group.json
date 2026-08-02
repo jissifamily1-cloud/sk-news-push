@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10809290",
-  "https://view.asiae.co.kr/article/2026071508400971618",
-  "https://www.yna.co.kr/view/AKR20260714169600057?input=1195m",
-  "https://www.news1.kr/local/ulsan/6228222",
-  "https://www.joongang.co.kr/article/25445169",
-  "http://www.4th.kr/news/articleView.html?idxno=2114722",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1065330",
-  "https://www.dailian.co.kr/news/view/1665760/?sc=Naver",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=5004",
   "https://www.mk.co.kr/article/12093632",
   "http://www.bizwnews.com/news/articleView.html?idxno=139989",
   "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
@@ -2999,18 +2990,18 @@
   "https://www.incheonilbo.com/news/articleView.html?idxno=1328589",
   "https://www.bloter.net/news/articleView.html?idxno=669632",
   "https://economist.co.kr/article/view/ecn202608020003",
-  "https://www.idomin.com/news/articleView.html?idxno=2011411"
+  "https://www.idomin.com/news/articleView.html?idxno=2011411",
+  "https://www.mt.co.kr/politics/2026/08/02/2026080121380382544",
+  "https://biz.heraldcorp.com/article/10828076",
+  "https://www.segye.com/newsView/20260802505852?OutUrl=naver",
+  "https://www.yna.co.kr/view/AKR20260802018100089?input=1195m",
+  "http://www.yonhapnewstv.co.kr/news/AKR202608021101061Ym",
+  "https://www.mk.co.kr/article/12114384",
+  "http://coinreaders.com/250739",
+  "https://www.ytn.co.kr/_ln/0102_202608021102001105",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260801171228CVv"
  ],
  "seen_titles": [
-  "주가·명품·외국인·더위…유통매출7.3%끌어올려",
-  "코스피·코스닥8%대‘급락’…이틀연속동반서킷브레이커",
-  "코스피장중4%대급락,5700선까지밀려…또매도사이드카",
-  "김용범청와대정책실장,국내증시변동성원인구조적요인점검나선...",
-  "코스피전날폭락딛고‘상승출발’…장초반2%오름세",
-  "7월28일주식시장주요공시",
-  "광진구'삼성2차'18평,6.6억떨어진9.4억원에거래[일일하락가]",
-  "코스피,하루만에10%폭락…6,000선붕괴",
-  "‘삼전닉스블랙홀’에갇힌경제·사회…경고음커진다",
   "[특징주]SK디앤디,1,367억유상증자…신주4,468만주발행",
   "[사설]장중6000무너진코스피,리스크관리단단히해야",
   "[HIT알공]ABL바이오이중항체항암물질'ABL503'국내서도임상돌입",
@@ -6001,7 +5992,16 @@
   "[인터뷰]송영길\"정청래식증시처방위험…지방선거도전략부재가패...",
   "금리동결에도회복더딘증시…장기금리의덫",
   "7조원더샀는데50조원날렸다…서학개미'눈물'",
-  "SK오션플랜트,화학제품운반선2척수주"
+  "SK오션플랜트,화학제품운반선2척수주",
+  "李대통령,1300조AI협력·13건MOU순방성과안고귀국",
+  "K-배터리셀,작년美ESS시장점유율두배↑…“공급망재편대응전략...",
+  "[속보]‘증시출렁이자’…금융당국,‘단일종목레버리지배율’긴급...",
+  "차세대모바일D램LPDDR6경쟁본격화…\"CXMT,개발검증막바지\"",
+  "7월원화절상률,금융위기후최고…1,400원선깨질까",
+  "SKT,러닝고객공략…가민워치·샥즈이어폰출시",
+  "업비트거래대금고점대비90%증발…코인투자자5명중4명'개점휴업...",
+  "만회에나선코스피...\"기업실적발표등주목해야\"",
+  "[기업기상도]갠하늘보이는기업vs가뭄에물마른기업"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,21 @@
   [
    "2026-08-02T11:01:31.581124+09:00",
    "화학제품운반선 SK오션플랜트 2척 수주"
+  ],
+  [
+   "2026-08-02T11:11:20.607785+09:00",
+   "투자자 5명 고점 업비트 4명 코인 증발 개점휴업 거래대금 대비"
+  ],
+  [
+   "2026-08-02T11:11:20.607785+09:00",
+   "코스피 실적 주목해야 발표 만회에 기업 나선"
+  ],
+  [
+   "2026-08-02T11:11:20.607785+09:00",
+   "하늘 마른 가뭄에 보이는 기업 vs"
   ]
  ],
- "last_run": "2026-08-02T11:01:45.753112+09:00",
+ "last_run": "2026-08-02T11:11:32.000222+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
