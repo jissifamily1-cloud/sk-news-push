@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1065450",
-  "http://www.press9.kr/news/articleView.html?idxno=80410",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265199",
-  "https://lawtalknews.co.kr/article/1GZPI09SLP8F",
-  "https://www.hankyung.com/article/202607317671H",
-  "https://www.tokenpost.kr/news/market/383165",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1172575",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688612",
-  "https://www.seoultimes.news/news/article.html?no=2000098350",
-  "https://biz.chosun.com/it-science/ict/2026/07/31/4MY7KT65WRBVBDFZNV47GE4FYQ/",
   "https://www.yna.co.kr/view/AKR20260731076100008?input=1195m",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100095.html",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2252175",
@@ -2999,19 +2989,19 @@
   "https://www.newsis.com/view/NISX20260803_0003733330",
   "https://www.kyosu.net/news/articleView.html?idxno=208205",
   "https://slownews.kr/164091",
-  "https://www.ytn.co.kr/_ln/0102_202608030734100778"
+  "https://www.ytn.co.kr/_ln/0102_202608030734100778",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607311742078400103343",
+  "https://www.public25.com/news/articleView.html?idxno=51957",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607291116275960102944",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853778",
+  "https://www.news1.kr/society/general-society/6246756",
+  "https://swtvnews.com/news/newsview.php?ncode=1065565586653840",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362929",
+  "https://jejumbc.com/NewsArticle/854315",
+  "https://biz.sbs.co.kr/article_hub/20000326135?division=NAVER",
+  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=130&CONTENTS_NO=1&bbsGbn=246&bbsSn=246&pNttSn=243269"
  ],
  "seen_titles": [
-  "국민성장펀드1~7월16.3조승인…저리대출·인프라에집중",
-  "제주SK-바이에른뮌헨전,나흘앞으로...세부일정은?",
-  "전력대란구원투수로뜬'태양광'…관련주주성엔지니어링원익IPSLS...",
-  "ERA1.69실화인가,두산또트레이드초대박터졌다!3년전과감한결...",
-  "국힘\"대한민국경제곳곳정책싱크홀…경제라인모두경질해야\"",
-  "AI훈풍에'24만전자'복귀…'89조어닝'삼성전자,증시폭등견인",
-  "단일종목레버리지ETF예탁금상향첫날…거래대금1조5000억원돌파",
-  "'적자나면임금삭감'꺼낸SK하이닉스…노사갈등재점화",
-  "IMF보다더떨어졌다더니하루만에역대최대반등…코스피,기록이기...",
-  "최태원회장,SK하이닉스49억직접매수…하루만에평가이익10억돌...",
   "한병도“레버리지도입과정·투자자보호장치점검하겠다”",
   "\"5G과장광고맞다\"...KT,139억원과징금불복소송서졌다",
   "SK하이닉스\"적자나면임금조정\"노조\"사실상삭감\"반발…노사협상...",
@@ -6001,7 +5991,17 @@
   "[오늘의증시]코스피,변동성어디로튈까…AI호실적속엔캐리경계감...",
   "896조서남권메가프로젝트중심에선전남대…\"반도체연합공대4단계...",
   "“보너스받으려끼니걸러가며일한다”살인폭염에내몰리는배민노...",
-  "코스피'역대최대'18%·1,002p폭등...반등세로돌아섰나[스타트경제..."
+  "코스피'역대최대'18%·1,002p폭등...반등세로돌아섰나[스타트경제...",
+  "[더벨]두산품에안긴SK실트론,삼성과밀착가능성주목",
+  "[코스피·코스닥,한화에어로스페이스HD현대LG화학SK에코프로비엠효...",
+  "[더벨][thebelldesk]기업형임대주택,복기가필요할때",
+  "[초대석]박용진대통령직속규제합리화위원회부위원장",
+  "삼전닉스반도체학과만있나…대전대학에'성심당학과'생긴다",
+  "[KLPGA]'작은거인'이다연,트리플보기딛고극적인역전우승'투어...",
+  "증시폭풍속조용한은행주…ELS과징금환입·환율훈풍3분기로쏠린...",
+  "내일바이에른뮌헨-제주SKFC친선경기열려",
+  "[비즈나우]롤러코스터증시원인이…‘AI노스트라다무스’의몰락",
+  "[기고]한미AI동맹시대의개막,한국기업앞에열린양방향의문"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,41 @@
   [
    "2026-08-03T07:51:05.201533+09:00",
    "폭등 경제 돌아섰나 반등세로 스타트 코스피 002p 역대"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "복기가 필요할 기업형 임대주택"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "박용진 대통령직속 부위원장 규제합리화위원회"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "대전 대학에 생긴다 삼전닉스 반도체학과만 성심당학과 있나"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "트리플 거인 이다연 딛고 작은 보기 역전 우승 극적인 투어"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "폭풍 3분기로 환입 증시 은행주 과징금 훈풍 쏠린 조용한 ELS 환율"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "바이에른 열려 친선경기 뮌헨 제주SK FC"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "몰락 롤러코스터 AI 노스트라다무스 증시 원인이"
+  ],
+  [
+   "2026-08-03T08:01:21.625112+09:00",
+   "개막 한국 동맹 한미 기업 시대의 양방향의 AI 앞에 열린"
   ]
  ],
- "last_run": "2026-08-03T07:51:19.175323+09:00",
+ "last_run": "2026-08-03T08:01:51.041852+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
