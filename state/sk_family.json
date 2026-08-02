@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260725000016",
-  "https://www.etnews.com/20260725000017",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02220566645518128",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=313187",
-  "https://www.viva100.com/article/20260725500196",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=852038",
   "https://imnews.imbc.com/news/2026/politics/article/6840029_36911.html",
   "https://www.newsis.com/view/NISI20260724_0002195056",
@@ -2999,14 +2994,14 @@
   "http://www.sisanews24.co.kr/18983",
   "https://www.joongang.co.kr/article/25450242",
   "https://www.news1.kr/photos/7903132",
-  "https://www.newsis.com/view/NISX20260513_0003627532"
+  "https://www.newsis.com/view/NISX20260513_0003627532",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077956",
+  "https://www.segye.com/newsView/20260802514051?OutUrl=naver",
+  "https://www.munhwa.com/article/11606676",
+  "https://www.bloter.net/news/articleView.html?idxno=669795",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718754"
  ],
  "seen_titles": [
-  "李대통령,빅테크와AI협력구체화…반도체1375조·데이터센터5GW",
-  "최태원\"국민1인당AI에이전트하나씩있어야…대한민국AI네이티브...",
-  "\"우리는식구\"…이재명·젠슨황,맥주잔맞대며AI동맹(종합)",
-  "[포토]이재명대통령,글로벌AI리더들과건배",
-  "[포토]이재명대통령'글로벌AI리더들과함께'",
   "김용범“국내반도체기업,해외빅테크와협력\"",
   "'식구다'건배사나온샌프란AI만찬…이재명·젠슨황·재계총수한자...",
   "최태원“국민1인당AI에이전트목표”…AI인프라·생태계구축제안",
@@ -6001,10 +5996,32 @@
   "대학생아이디어로브랜드경쟁력높인다…남서울대산학협력눈길",
   "[백서인의중국과학기술굴기]이공계과학교육에괴짜교육을얹는중...",
   "공정거래조정원,2025년도분쟁조정현황발표",
-  "작년플랫폼분쟁접수절반이쿠팡…전체4726건역대최다"
+  "작년플랫폼분쟁접수절반이쿠팡…전체4726건역대최다",
+  "김천문화예술회관재개관무대오른다…시민100인합창단과특별음악회",
+  "[법조브리핑]개정형소법,헌재가판단할까…과거권한쟁의는각하外",
+  "李대통령,남미순방마치고독일로...현지서동포간담회",
+  "[박종면칼럼]삼전닉스최대리스크는'70%대영업이익률'",
+  "[두산반도체승부수①]중공업→첨단소재대전환…체질개선마침표"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-03T06:00:40.225181+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-03T06:05:58.275943+09:00",
+   "각하 개정 권한쟁의는 헌재가 과거 판단할까 형소법"
+  ],
+  [
+   "2026-08-03T06:05:58.275943+09:00",
+   "독일로 간담회 마치고 순방 동포 대통령 남미 현지서"
+  ],
+  [
+   "2026-08-03T06:05:58.275943+09:00",
+   "영업이익률 삼전닉스 리스크는"
+  ],
+  [
+   "2026-08-03T06:05:58.275943+09:00",
+   "첨단소재 대전환 마침표 체질 중공업 개선"
+  ]
+ ],
+ "last_run": "2026-08-03T06:06:19.619569+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
