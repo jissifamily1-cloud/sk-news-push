@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/daegu-gyeongbuk/6238976",
-  "https://www.kbmaeil.com/article/20260725500118",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590111.html",
-  "https://www.news1.kr/world/europe/6238982",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=307669",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208213",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208209",
@@ -2999,13 +2995,13 @@
   "https://www.hidomin.com/news/articleView.html?idxno=715556",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=389448",
   "https://www.newdaily.co.kr/site/data/html/2026/08/02/2026080200031.html",
-  "https://www.idaegu.com/news/articleView.html?idxno=664731"
+  "https://www.idaegu.com/news/articleView.html?idxno=664731",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443735",
+  "http://www.newsprime.co.kr/news/article.html?no=742351",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260802501&PRO_CODE=99",
+  "https://www.joongang.co.kr/article/25450120"
  ],
  "seen_titles": [
-  "장동혁\"참정권빼앗겼다\"…대구서선관위개혁·국민특검요구",
-  "장동혁“대구가대구였다”…폭염속반월당뒤덮은태극기",
-  "[뉴스더]'보완수사권폐지'속도전배경은?",
-  "나토에서인턴근무한중국계캐나다인,간첩혐의로체포",
   "김해거북공원서'부정선거재선거·당일투표수개표'집회열려",
   "합수본'투표율조작'3곳이상추정…선관위도자체감사착수한다",
   "장동혁,대구서마지막장외행보…'선관위특검'압박",
@@ -6001,7 +5997,11 @@
   "주진우\"대선때투표소109곳서투표율조작...11시간연속100명단위증...",
   "\"몇시간동안0명\"…전국곳곳서지방선거투표통계조작의혹파문",
   "대선투표소109곳서투표자수허위입력…주진우\"빙산의일각\"",
-  "경산아파트방화,사망자3명으로늘어"
+  "경산아파트방화,사망자3명으로늘어",
+  "공정위코레일과SR기업결합승인,3년동안KTX요금낮추고공급도확...",
+  "'10년경쟁끝'KTX·SRT…요금10%인하로통합출발",
+  "[속보]\"21대대선투표율고의조작됐다\"…주진우,109곳의혹수치폭...",
+  "'경산아파트방화'진상규명더딘사이사망자3명으로늘어"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "의식했나 SK실트론 최태원 빅딜 지분 논란"
   ]
  ],
- "last_run": "2026-08-02T11:50:54.017603+09:00",
+ "last_run": "2026-08-02T12:01:08.739531+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
