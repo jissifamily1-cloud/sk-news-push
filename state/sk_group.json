@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427951",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42736",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260731010011602",
-  "https://zdnet.co.kr/view/?no=20260731083823",
   "https://www.mk.co.kr/article/12113036",
   "http://www.newsprime.co.kr/news/article.html?no=742212",
   "https://www.hankookilbo.com/news/article/A2026073108560002635?did=NA",
@@ -2999,13 +2995,13 @@
   "https://www.hankyung.com/article/2026080201571",
   "https://www.mk.co.kr/article/12114621",
   "https://www.mk.co.kr/article/12114622",
-  "https://www.sedaily.com/article/20074794"
+  "https://www.sedaily.com/article/20074794",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93132",
+  "https://www.sedaily.com/article/20074811",
+  "https://www.sedaily.com/article/20074815",
+  "https://www.sedaily.com/article/20074808"
  ],
  "seen_titles": [
-  "'5G과장광고'KT,139억과징금불복소송패소",
-  "\"AI수익성우려완화\"…삼전·SK하닉,프리마켓서10%대강세",
-  "[기자수첩]2008년조선주맹신과최근의반도체레버리지.탐욕이부를...",
-  "“아모레퍼시픽,브랜드·채널다변화…목표가↑”-SK",
   "SK텔레콤,로봇스타트업8곳과'피지컬AI연합전선'구축",
   "대웅제약,나보타수출증가로컨센서스상회-SK증권",
   "국민의힘장동혁·정점식,“이재명정권국정파탄총력비판”",
@@ -6001,7 +5997,11 @@
   "\"데이터센터칩교체주기5년…반도체성장수십년지속될것\"",
   "반도체'몰빵'서학개미들…평가액두달새65조날려",
   "포모개미들'사팔'했다가울상…부자들은'익절'원칙지켰다",
-  "‘증시최악의날’…투자고수는‘삼전’담았다"
+  "‘증시최악의날’…투자고수는‘삼전’담았다",
+  "[이번주증시]극한변동성넘긴코스피…AI실적·美고용지표로반등...",
+  "원화,한달새8.8%절상…금융위기이후최대폭",
+  "美中‘AI외교전’…韓,대처전략있나[김창영의실리콘밸리View]",
+  "‘반도체특수’웃고원가율잡아…매출줄어도이익껑충"
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,17 @@
   [
    "2026-08-02T18:01:22.105525+09:00",
    "증시 최악의날 투자 담았다 고수는 삼전"
+  ],
+  [
+   "2026-08-02T18:02:57.934691+09:00",
+   "있나 대처 AI 외교전 전략"
+  ],
+  [
+   "2026-08-02T18:02:57.934691+09:00",
+   "웃고 매출 줄어도 이익 원가율 특수 잡아 반도체 껑충"
   ]
  ],
- "last_run": "2026-08-02T18:01:44.131182+09:00",
+ "last_run": "2026-08-02T18:03:07.196259+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
