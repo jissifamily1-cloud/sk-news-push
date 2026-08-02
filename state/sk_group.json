@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/31/2026073190070.html",
-  "https://biz.heraldcorp.com/article/10817796",
-  "https://www.thelec.kr/news/articleView.html?idxno=60365",
-  "https://biz.heraldcorp.com/article/10826454",
-  "https://slownews.kr/164015",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169062",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427923",
   "https://biz.sbs.co.kr/article_hub/20000325815?division=NAVER",
   "https://dealsite.co.kr/articles/166255",
@@ -2999,15 +2993,15 @@
   "http://www.fnnews.com/news/202608021530467255",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473599",
   "https://www.hankookilbo.com/news/article/A2026080122520005382?did=NA",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280104"
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280104",
+  "https://www.news1.kr/it-science/cc-newmedia/6246479",
+  "http://www.metroseoul.co.kr/article/20260802500178",
+  "https://www.imaeil.com/page/view/2026080214594456577",
+  "http://www.breaknews.com/1226107",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=860163",
+  "https://www.imaeil.com/page/view/2026080212375148889"
  ],
  "seen_titles": [
-  "차세대항암제로뜬RLT…‘국산1호’경쟁후끈",
-  "[네트워크초대석]이충우여주시장\"원도심재생과산업단지조성총력...",
-  "코리아컵까지3일사이2연패,불안기류엄습한서울…전북이독주체...",
-  "SK,'임팩트부스터'로소셜벤처스케일업지원확대···행복나래,법률...",
-  "MS호실적에뉴욕증시상승…나스닥2.8%↑",
-  "'해킹과징금540억'KT,행정소송나설까",
   "미국뉴욕증시,반도체주급반등에다우존스·S&P500·나스닥지수상승...",
   "최태원,SK하이닉스첫장내매수…8억자사주'책임경영'",
   "李“핵심광물풍부한칠레와첨단제조업강국韓은최적의파트너”",
@@ -6001,7 +5995,13 @@
   "野'삼전닉스레버리지국정조사'제안..당정'매매제한'등추가대책...",
   "AI투자확대에SI주급등…디지털전환수혜기대커졌다",
   "이대통령,미국·남미서'AI외교'성과…귀국후엔부동산등현안산...",
-  "[전매포토]\"롤러코스트환율,한달새100원넘게떨어져\""
+  "[전매포토]\"롤러코스트환율,한달새100원넘게떨어져\"",
+  "삼성MX7000억적자·KT539억과징금…민·관'AIDC얼라이언스'첫발...",
+  "AI투자9500억불·핵심광물협력…이대통령,'지구한바퀴'순방성과",
+  "두산,21년만에구미로돌아온다…SK실트론품고반도체체질전환",
+  "증권-부동산에달린이재명대통령의국정지지율등락(騰落)",
+  "SK하이닉스청주캠퍼스프로그램'나확행'현장가보니",
+  "구미SK실트론새주인두산…\"투자·지역상생이어가야\""
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,21 @@
   [
    "2026-08-02T15:42:16.795788+09:00",
    "넘게 100원 롤러코스트 떨어져 한달새 환율"
+  ],
+  [
+   "2026-08-02T15:51:05.390824+09:00",
+   "증권 부동산에 달린 이재명 대통령의 국정지지율 등락"
+  ],
+  [
+   "2026-08-02T15:51:05.390824+09:00",
+   "프로그램 청주캠퍼스 현장 SK하이닉스 가보니 나확행"
+  ],
+  [
+   "2026-08-02T15:51:05.390824+09:00",
+   "SK실트론 두산 지역상생 주인 구미 이어가야 투자"
   ]
  ],
- "last_run": "2026-08-02T15:42:22.288808+09:00",
+ "last_run": "2026-08-02T15:51:16.558759+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
