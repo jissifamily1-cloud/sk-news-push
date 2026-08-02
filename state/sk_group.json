@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661644",
-  "https://www.newsway.co.kr/news/view?ud=2026073109392373621",
-  "http://www.e2news.com/news/articleView.html?idxno=332851",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1391482",
-  "https://www.g-enews.com/view.php?ud=202607310945327243923c501012_1",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03686726645520096",
   "https://www.bloter.net/news/articleView.html?idxno=669616",
   "http://www.weeklytoday.com/news/articleView.html?idxno=788255",
@@ -2999,14 +2994,14 @@
   "http://www.cctimes.kr/news/articleView.html?idxno=919703",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83951",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356862",
-  "https://www.yna.co.kr/view/AKR20260802053100007?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260802053100007?input=1195m",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=591879",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2253581",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=591916",
+  "https://www.thedailypost.kr/news/articleView.html?idxno=114896",
+  "https://www.yna.co.kr/view/AKR20260802054000007?input=1195m"
  ],
  "seen_titles": [
-  "SKT,로봇손잡았다…피지컬AI풀스택생태계구축한다",
-  "SK텔레콤,디지털트윈에서로봇실증까지···피지컬AI사업확대",
-  "최태원회장,SK하이닉스주식3620주첫매수…책임경영의지표출",
-  "[시황]코스피,5600선→6300선…거래소\"매수사이드카\"",
-  "코스피,美MS호실적에10%대급등6천선회복",
   "[특징주]반도체반등에인버스ETF급락…SK하이닉스곱버스50%↓",
   "KT,‘5G과장광고’139억원과징금불복소송서공정위에패소",
   "한-칠레기업인들\"최초의FTA파트너에서미래협력파트너되자\"",
@@ -6001,13 +5996,14 @@
   "SK하이닉스임단협`난항'",
   "상반기엔웃었지만하반기는'글쎄'…증권사실적전망'안갯속'",
   "[이슈+]키옥시아영업익28배'괴물분기'...시장은왜웃지않았나",
-  "[프로축구서귀포전적]제주3-3인천"
+  "[프로축구서귀포전적]제주3-3인천",
+  "SK오션플랜트,독일북해사업수주최초유럽진출",
+  "두산,SK실트론2조3000억원에인수…반도체소재사업확대",
+  "SK오션플랜트띠앗봉사단,성금200만원기탁",
+  "SK오션플랜트,718억규모화학제품운반선2척수주…상선시장공략속...",
+  "K리그1울산,안양3-1격파하고'2위'전진…이동경멀티골"
  ],
  "recent_sigs": [
-  [
-   "2026-08-02T15:42:16.795788+09:00",
-   "넘게 100원 롤러코스트 떨어져 한달새 환율"
-  ],
   [
    "2026-08-02T15:51:05.390824+09:00",
    "증권 부동산에 달린 이재명 대통령의 국정지지율 등락"
@@ -6615,9 +6611,13 @@
   [
    "2026-08-02T21:40:59.008179+09:00",
    "인천 제주"
+  ],
+  [
+   "2026-08-02T21:49:23.668259+09:00",
+   "이동경 K리그1 2위 격파하고 안양 울산 전진 멀티골"
   ]
  ],
- "last_run": "2026-08-02T21:41:13.102720+09:00",
+ "last_run": "2026-08-02T21:49:29.662950+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
