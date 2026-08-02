@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596788",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=512093",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=593492",
-  "https://biz.heraldcorp.com/article/10826874",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=308081",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1065450",
   "http://www.press9.kr/news/articleView.html?idxno=80410",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265199",
@@ -2999,14 +2994,14 @@
   "https://www.etoday.co.kr/news/view/2610137",
   "https://news.dealsitetv.com/articles/173978",
   "https://www.ajunews.com/view/20260803073532892",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688870"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688870",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520685",
+  "https://www.newsis.com/view/NISX20260803_0003733330",
+  "https://www.kyosu.net/news/articleView.html?idxno=208205",
+  "https://slownews.kr/164091",
+  "https://www.ytn.co.kr/_ln/0102_202608030734100778"
  ],
  "seen_titles": [
-  "'인천지하철2호선'5억명돌파…김포·고양까지연장",
-  "양자시대선점경쟁본격화…보안·통신기술주에매수세몰린다",
-  "단일레버리지보완첫날효과는?…오전거래활발,50%대폭등",
-  "[N2증시풍향계]SK스퀘어,SK하이닉스상승발에上…삼성전기도'상한...",
-  "[하우머니]반도체랠리지속될까…8월투자전략은?",
   "국민성장펀드1~7월16.3조승인…저리대출·인프라에집중",
   "제주SK-바이에른뮌헨전,나흘앞으로...세부일정은?",
   "전력대란구원투수로뜬'태양광'…관련주주성엔지니어링원익IPSLS...",
@@ -6001,7 +5996,12 @@
   "[증시키워드]삼전·SK하닉‘메모리패권’지키기총력⋯中CXMT차세...",
   "[위기의중소형사][카카오페이증권]야심찬IB출사표,시장엔'먹구름...",
   "[아주증시포커스]7월급락장속국내주식10개중7개녹았다…8월전망...",
-  "반도체팹구축속도전...전력망공급변수로"
+  "반도체팹구축속도전...전력망공급변수로",
+  "박정원두산회장,SK실트론인수로반도체핵심소재사업진출",
+  "[오늘의증시]코스피,변동성어디로튈까…AI호실적속엔캐리경계감...",
+  "896조서남권메가프로젝트중심에선전남대…\"반도체연합공대4단계...",
+  "“보너스받으려끼니걸러가며일한다”살인폭염에내몰리는배민노...",
+  "코스피'역대최대'18%·1,002p폭등...반등세로돌아섰나[스타트경제..."
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,25 @@
   [
    "2026-08-03T07:41:12.043751+09:00",
    "전력망 공급 변수로 반도체 속도전 구축"
+  ],
+  [
+   "2026-08-03T07:51:05.201533+09:00",
+   "튈까 어디로 호실적 AI 코스피 엔캐리 경계감 변동성"
+  ],
+  [
+   "2026-08-03T07:51:05.201533+09:00",
+   "4단계 반도체 중심에 연합공대 전남대 메가프로젝트 서남권 896조"
+  ],
+  [
+   "2026-08-03T07:51:05.201533+09:00",
+   "일한다 폭염에 살인 보너스 걸러가며 받으려 내몰리는 끼니 배민"
+  ],
+  [
+   "2026-08-03T07:51:05.201533+09:00",
+   "폭등 경제 돌아섰나 반등세로 스타트 코스피 002p 역대"
   ]
  ],
- "last_run": "2026-08-03T07:41:28.487774+09:00",
+ "last_run": "2026-08-03T07:51:19.175323+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
