@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/politics/2026/07/25/20260725500039?wlog_tag3=naver",
-  "https://www.ikbc.co.kr/article/view/kbc202607250033",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244188",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2448495",
   "https://www.mk.co.kr/article/12097984",
   "https://www.tokenpost.kr/news/breaking/381311",
@@ -2999,12 +2996,12 @@
   "https://www.joongang.co.kr/article/25450120",
   "https://www.delighti.co.kr/news/articleView.html?idxno=119703",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626304",
-  "https://www.kyeonggi.com/article/20260802580067"
+  "https://www.kyeonggi.com/article/20260802580067",
+  "https://www.mk.co.kr/article/12114404",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308949&inflow=N",
+  "https://www.joongangenews.com/news/articleView.html?idxno=537134"
  ],
  "seen_titles": [
-  "대구찾은장동혁,참정권수호목소리…“올해대한민국미래잃을뻔...",
-  "건설기계연합'시장장악'논란...\"말안들으면퇴출\"",
-  "[데스크칼럼]ESG공시미루면'시장퇴출비용'커진다",
   "환경산업기술원,그린워싱대응전략공유···ESG공시실무세미나개...",
   "바른기업전략연구소,“ESG공시2028년시행…2년전부터준비시작해야...",
   "미래에셋,코빗지분97.15%확보…디지털엑스로사명변경",
@@ -6001,7 +5998,10 @@
   "'경산아파트방화'진상규명더딘사이사망자3명으로늘어",
   "9월부터KTX·SRT통합…요금10%내리고운행횟수·좌석확대",
   "코레일·SR기업결합승인…내일통합앱출시",
-  "[속보]주진우“대선투표자수109곳서조작의혹”…합수본강제수사..."
+  "[속보]주진우“대선투표자수109곳서조작의혹”…합수본강제수사...",
+  "KTX·SRT다음달부터통합…요금10%내리고운행늘린다",
+  "'코레일·SR'기업결합승인…KTX운임'10%인하'",
+  "공정위,코레일·SR기업결합승인…\"9월부터KTX·SRT통합\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "의식했나 SK실트론 최태원 빅딜 지분 논란"
   ]
  ],
- "last_run": "2026-08-02T12:31:03.268492+09:00",
+ "last_run": "2026-08-02T12:40:54.724175+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
