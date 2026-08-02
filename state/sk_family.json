@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026072513102693981",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02046726645516488",
   "https://www.news1.kr/industry/general-industry/6232103",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716884",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02177926645518128",
@@ -2999,11 +2997,11 @@
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279985",
   "https://www.mt.co.kr/politics/2026/08/02/2026080121380382544",
   "https://www.sedaily.com/article/20074684",
-  "https://www.mt.co.kr/politics/2026/08/02/2026080123390857429"
+  "https://www.mt.co.kr/politics/2026/08/02/2026080123390857429",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308946&inflow=N",
+  "https://www.m-i.kr/news/articleView.html?idxno=1397888"
  ],
  "seen_titles": [
-  "\"우리는식구다\"…이대통령,젠슨황·이재용과'샌프란깐부회동'",
-  "‘샌프란깐부회동’…이대통령,빅테크CEO들과피시앤칩스만찬",
   "李,이재용·젠슨황과'샌프란깐부회동'…건배사는\"우리는식구다\"",
   "이재용·최태원·정의선·이해진,젠슨황과‘AI깐부회동’…엔비디아...",
   "전국상의‘복지사각지대’해소…복지부'그냥드림'사업지원",
@@ -6001,7 +5999,9 @@
   "李대통령,7박11일순방마무리…'AI동맹·공급망다변화'외교성과",
   "李대통령,1300조AI협력·13건MOU순방성과안고귀국",
   "최태원지분뺀SK실트론빅딜…공정위논란의식했나",
-  "'빅테크버맥만찬·남미에번진손하트'…李7박11일순방명장면"
+  "'빅테크버맥만찬·남미에번진손하트'…李7박11일순방명장면",
+  "‘리밸런싱속도’SK,‘포트폴리오확대’두산…‘실트론빅딜’마...",
+  "샌프란AI·메르코수르순방…李,韓경제지속가능·안정성모색"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,17 @@
   [
    "2026-08-02T11:30:20.640045+09:00",
    "하트 명장면 빅테크 7박11일 만찬 번진 버맥 남미에 순방"
+  ],
+  [
+   "2026-08-02T11:40:15.802656+09:00",
+   "지속가능 경제 모색 샌프란AI 메르코수르 순방 안정성"
+  ],
+  [
+   "2026-08-02T11:40:15.802656+09:00",
+   "두산 빅딜 실트론 속도 리밸런싱 포트폴리오 확대"
   ]
  ],
- "last_run": "2026-08-02T11:30:37.088863+09:00",
+ "last_run": "2026-08-02T11:40:29.949257+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
