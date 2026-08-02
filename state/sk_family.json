@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260725500175",
-  "https://biz.sbs.co.kr/article_hub/20000324619?division=NAVER",
-  "https://www.etoday.co.kr/news/view/2607377",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426827",
   "https://www.sidae.com/article/2026072512584792863",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620034",
@@ -2999,12 +2996,12 @@
   "https://www.asiatime.co.kr/article/20260802500011",
   "http://www.boannews.com/media/view.asp?idx=144971&kind=2",
   "https://www.dt.co.kr/article/12076000",
-  "http://www.breaknews.com/1226090"
+  "http://www.breaknews.com/1226090",
+  "https://www.the-today.com/news/articleView.html?idxno=88058",
+  "https://www.jbnews.com/news/articleView.html?idxno=1508701",
+  "https://www.news1.kr/society/general-society/6246381"
  ],
  "seen_titles": [
-  "최태원\"한국,AI테스트베드될것…비용낮추고부작용줄여야\"",
-  "최태원“한국,AI테스트베드될것…비용낮추고부작용줄여야”",
-  "최태원\"5000조원투자,허황된숫자아니다…AI칩수요가더크다\"",
   "李대통령,글로벌AICEO들과샌프란깐부회동…AI협력외교이어가",
   "최태원\"韓,전세계AI테스트베드…더많은메모리·AI데이터센터만...",
   "\"우리는식구다\"이대통령,AI리더들과미국판'깐부회동'",
@@ -6001,7 +5998,10 @@
   "李대통령'세일즈외교'…AI투자9500억달러·핵심광물공급망활로",
   "“AI시대개인정보보호해법찾는다”...제3차CPO워크숍11일개최",
   "李대통령,美·남미7박11일순방마치고독일행…AI동맹·공급망확보",
-  "[추적]SK하이닉스③“171만8000원은꿈,150만원은되찾은생명선”"
+  "[추적]SK하이닉스③“171만8000원은꿈,150만원은되찾은생명선”",
+  "9500억달러협력약속했지만…이재명귀국길기다리는'경제뇌관'",
+  "SK하이닉스17년만에상한가…171만8천원마감",
+  "\"재용이형,태원이형지금조정이지?\"…'총수단톡방'등장,그들은나갔..."
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,21 @@
   [
    "2026-08-02T10:20:16.130809+09:00",
    "150만원은 생명선 되찾은 SK하이닉스 171만8000원은"
+  ],
+  [
+   "2026-08-02T10:50:14.443762+09:00",
+   "이재명 귀국길 기다리는 경제 뇌관 협력 약속했지만 9500억달러"
+  ],
+  [
+   "2026-08-02T10:50:14.443762+09:00",
+   "17년 상한가 만에 마감 171만8천원 SK하이닉스"
+  ],
+  [
+   "2026-08-02T10:50:14.443762+09:00",
+   "총수 등장 태원이형 지금 단톡방 그들은 재용이형 조정이지 나갔"
   ]
  ],
- "last_run": "2026-08-02T10:40:25.501979+09:00",
+ "last_run": "2026-08-02T10:50:33.897188+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
