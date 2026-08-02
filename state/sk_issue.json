@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/ptoday/2347064.htm",
-  "http://www.breaknews.com/1224423",
-  "https://www.joongang.co.kr/article/25448163",
-  "https://www.idaegu.com/news/articleView.html?idxno=664550",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4096815",
   "https://www.news1.kr/economy/trend/6238538",
   "https://www.etoday.co.kr/news/view/2606982",
@@ -2999,13 +2995,13 @@
   "https://www.khan.co.kr/article/202608021516001",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000053879",
   "https://www.viva100.com/article/20260802500478",
-  "http://www.fnnews.com/news/202608021515208879"
+  "http://www.fnnews.com/news/202608021515208879",
+  "https://www.inews365.com/news/article.html?no=930221",
+  "https://www.asiatime.co.kr/article/20260802500062",
+  "https://www.wikitree.co.kr/articles/1149936",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260802.99099000196"
  ],
  "seen_titles": [
-  "장동혁\"선관위전산조작의혹특검서둘러도입해야\"",
-  "최수진국힘수석대변인“신천지-민주유착특검및보완수사권폐지중...",
-  "일반수면마취제섞어프로포폴사용감췄다…불법투약14명덜미",
-  "[현장에서]\"살려달라환청에잠못이뤄\"⋯경산아파트방화참사,6년...",
   "한국전력파형관입찰담합적발…과징금8억6,800만원부과",
   "한전파형관입찰394건담합…3개조합·7개사과징금8.7억",
   "파형관3개조합·7개사,한전입찰담합…과징금총8.6억",
@@ -6001,7 +5997,11 @@
   "코레일-SR기업결합승인…12년만에한회사로.3일부터통합예약,KTX...",
   "9월KTX·SRT합친다…요금10%내리고마일리지유지",
   "KTX•SRT내달부터하나된다⋯요금10%인하효과",
-  "커지는부실선거논란..野,대선까지의구심"
+  "커지는부실선거논란..野,대선까지의구심",
+  "코레일·SR기업결합승인…3일통합앱'코레일+'출시",
+  "[힘내라K산업]⑤KAI지분14%넘긴한화…방산독점vs국가대표육성...",
+  "9월부터KTX·SRT통합...요금'이만큼'싸지고운행횟수도늘어난다",
+  "[속보]연일선관위폭로주진우\"부실선거라축소하려는사람이음모론..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "의식했나 SK실트론 최태원 빅딜 지분 논란"
   ]
  ],
- "last_run": "2026-08-02T15:21:04.727806+09:00",
+ "last_run": "2026-08-02T15:31:01.471621+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
