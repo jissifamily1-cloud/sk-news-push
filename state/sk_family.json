@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260725035200013?input=1196m",
   "https://news.mtn.co.kr/news-detail/2026072513394590173",
   "https://www.munhwa.com/article/11604954",
   "https://bizhankook.com/articles/139359.html",
@@ -2999,10 +2998,10 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428204",
   "https://www.mk.co.kr/article/12114581",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000210",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000170"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000170",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260803010000280"
  ],
  "seen_titles": [
-  "SKT-앤트로픽,대규모AI데이터센터협력의향서",
   "SK하이닉스,SKT-엔비디아,전략적AI팩토리및반도체협력",
   "이재명대통령,글로벌AI리더들과함께건배",
   "이재명대통령'글로벌AI리더들과함께'",
@@ -6001,7 +6000,8 @@
   "정상만만나는외교는끝났다…李순방이보여준'기업형경제외교'",
   "빅테크리더들과AI동맹맺고…원유·핵심광물공급망다변화",
   "SK㈜,실트론매각금액쓸곳은…재무건전성확보,AI시너지고려할듯",
-  "[여의대로]'반도체노출'줄이는게정부할일이다"
+  "[여의대로]'반도체노출'줄이는게정부할일이다",
+  "웨이퍼사업,年7%성장판단…\"2031년매출3조목표\""
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-08-02T17:50:15.731767+09:00",
    "곳은 AI 매각 실트론 재무건전성 확보 시너지 고려할 금액"
+  ],
+  [
+   "2026-08-02T18:00:26.504450+09:00",
+   "매출 판단 성장 2031년 웨이퍼 목표 사업 3조"
   ]
  ],
- "last_run": "2026-08-02T17:50:30.513829+09:00",
+ "last_run": "2026-08-02T18:00:40.250802+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
