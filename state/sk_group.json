@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260702001050",
-  "https://www.newspim.com/news/view/20260702001049",
-  "https://www.newspim.com/news/view/20260702001054",
   "https://www.newspim.com/news/view/20260702001046",
   "https://www.newspim.com/news/view/20260702001038",
   "https://news.tf.co.kr/read/photomovie/2339158.htm",
@@ -2999,12 +2996,12 @@
   "https://magazine.hankyung.com/business/article/202608029807b",
   "https://www.news1.kr/society/general-society/6246416",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361132",
-  "https://www.koreaherald.com/article/10828101"
+  "https://www.koreaherald.com/article/10828101",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268798",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110001",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=593902"
  ],
  "seen_titles": [
-  "SK하이닉스,협력사와상생에5년간1조4천억원규모자금투입",
-  "SK,협력사와상생협약…상생문화'2차이하협력사'까지확대",
-  "SK,3차협력사까지상생협약...낙수효과한계깨고'공급망전반체질...",
   "SK7개주요계열사,1~3차협력사와상생강화…대금지급개선·1.4조...",
   "대금지급기한10일이내단축...SK7개계열사동반성장전술가동",
   "SK,협력사에1조4000억투자…'상생협약체결'",
@@ -6001,7 +5998,10 @@
   "\"SK하이닉스추월당할것\"...'파격'전망에개미들술렁",
   "\"회사화장실서핸드폰붙잡고주식창확인\"…'널뛰기장세'에휴가못...",
   "정부,레버리지긴급조치권확보추진",
-  "Samsung,SKhynixexpandbindingmemorysupplydealsamidprolongedsh"
+  "Samsung,SKhynixexpandbindingmemorysupplydealsamidprolongedsh",
+  "\"1000만러너시대\"SKT,러너고객겨냥기기할인·전용혜택출시",
+  "국산2배레버리지에'중독',미국산3배레버리지베팅했다가와르르",
+  "삼성전자,기업대상정상수성…지난장주가급등새주장흐름도'이목..."
  ],
  "recent_sigs": [
   [
@@ -6611,9 +6611,17 @@
   [
    "2026-08-02T11:51:05.430803+09:00",
    "prolonged deals hynix short supply amid expand Samsung memory binding"
+  ],
+  [
+   "2026-08-02T12:01:18.838457+09:00",
+   "국산 미국산 2배 3배 와르르 베팅했다가 중독 레버리지에 레버리지"
+  ],
+  [
+   "2026-08-02T12:01:18.838457+09:00",
+   "급등 주가 새주장 수성 흐름도 이목 지난장 정상 삼성전자 기업대상"
   ]
  ],
- "last_run": "2026-08-02T11:51:19.144402+09:00",
+ "last_run": "2026-08-02T12:01:27.756205+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
