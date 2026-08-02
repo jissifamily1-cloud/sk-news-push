@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12093632",
-  "http://www.bizwnews.com/news/articleView.html?idxno=139989",
-  "https://www.seoul.co.kr/news/peoples/2026/07/03/20260703023008?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/03/20260703003002?wlog_tag3=naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=1387833",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=355467",
   "https://www.betanews.net/article/view/beta202607020103",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714934",
@@ -2999,14 +2994,14 @@
   "https://www.mk.co.kr/article/12114384",
   "http://coinreaders.com/250739",
   "https://www.ytn.co.kr/_ln/0102_202608021102001105",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260801171228CVv"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260801171228CVv",
+  "http://www.newsprime.co.kr/news/article.html?no=742350",
+  "https://www.wikitree.co.kr/articles/1149907",
+  "http://www.metroseoul.co.kr/article/20260802500061",
+  "https://www.viva100.com/article/20260801500201",
+  "https://www.news2day.co.kr/article/20260802500009"
  ],
  "seen_titles": [
-  "[특징주]SK디앤디,1,367억유상증자…신주4,468만주발행",
-  "[사설]장중6000무너진코스피,리스크관리단단히해야",
-  "[HIT알공]ABL바이오이중항체항암물질'ABL503'국내서도임상돌입",
-  "‘이중악재’속절없이무너진코스피…‘빅이벤트’투심반전발판...",
-  "홍콩‘삼전·닉스레버리지’탄력배율도입한다…2배내조정가능",
   "‘중국반도체자립’신호탄…CXMT상장에첨단노광장비도직접생산",
   "엔비디아‘순환거래’에전세계반도체주‘휘청’…AI투자리스크재...",
   "울산시,지역기업과미래성장동력협력강화",
@@ -6001,7 +5996,12 @@
   "SKT,러닝고객공략…가민워치·샥즈이어폰출시",
   "업비트거래대금고점대비90%증발…코인투자자5명중4명'개점휴업...",
   "만회에나선코스피...\"기업실적발표등주목해야\"",
-  "[기업기상도]갠하늘보이는기업vs가뭄에물마른기업"
+  "[기업기상도]갠하늘보이는기업vs가뭄에물마른기업",
+  "[부고]조태원대신증권고객솔루션부장장모상",
+  "일주일에1조7700억쏟아부은개미…가장많이쓸어담은대장주의'정체...",
+  "통신3사,8월부터멤버십·요금제혜택확대…고객체감할인율높여",
+  "[주간증시전망]극심한변동성딛고6500선회복…美물가지표촉각",
+  "[재계인사이드]“삼전닉스도우리없으면\"...두산그룹의반도체역량"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,17 @@
   [
    "2026-08-02T11:11:20.607785+09:00",
    "하늘 마른 가뭄에 보이는 기업 vs"
+  ],
+  [
+   "2026-08-02T11:21:10.812349+09:00",
+   "변동성 딛고 극심한 회복 물가지표 6500선 촉각"
+  ],
+  [
+   "2026-08-02T11:21:10.812349+09:00",
+   "우리 삼전닉스도 없으면 반도체 역량 두산그룹의"
   ]
  ],
- "last_run": "2026-08-02T11:11:32.000222+09:00",
+ "last_run": "2026-08-02T11:21:19.164666+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
