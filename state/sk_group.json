@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2112445",
-  "https://magazine.hankyung.com/business/article/202605272677b",
-  "https://www.mk.co.kr/article/12052912",
-  "https://www.mk.co.kr/article/12050347",
-  "https://www.mk.co.kr/article/12050233",
   "http://www.finomy.com/news/articleView.html?idxno=254116",
   "http://www.breaknews.com/1205528",
   "https://cn.asiatoday.co.kr/view.php?key=20260507001107211",
@@ -2999,14 +2994,14 @@
   "https://www.ddaily.co.kr/page/view/2026080212041391710",
   "https://www.cbci.co.kr/news/articleView.html?idxno=593796",
   "https://www.newsis.com/view/NISX20260801_0003732529",
-  "https://www.kyeonggi.com/article/20260802580049"
+  "https://www.kyeonggi.com/article/20260802580049",
+  "http://www.press9.kr/news/articleView.html?idxno=80439",
+  "http://www.fnnews.com/news/202608021241265671",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01548166645543384",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1172262",
+  "http://www.fnnews.com/news/202608021102483664"
  ],
  "seen_titles": [
-  "기념촬영하는최창원-주병기[포토]",
-  "환영사하는최창원SUPEX추구협의회의장[포토]",
-  "AmchamKorealaunchesAILeadershipCouncilwithApple,OpenAI,Qualc",
-  "SK,반도체생태계에8700억원투자…기술·금융지원확대",
-  "공정위,SK와1·2·3차하도급사상생협약체결…대금지급조건개선",
   "AmChamlaunchesAIleadershipcouncilinKorea",
   "AMCHAMlaunchesAILeadershipCounciltobolsterKorea-USAIcooperat",
   "암참AI리더십위원회공식출범…“한미AI협력확대”",
@@ -6001,13 +5996,14 @@
   "AI동료삼고,셰르파키우고…통신3사'사내AX'각양각색",
   "국내반도체업계,글로벌빅테크와장기공급계약으로수익안정확보",
   "\"한국증시,저평가심하다…삼전·닉스매도하기엔아직일러\"",
-  "이천교육지원청,학생맞춤형반도체미래교육"
+  "이천교육지원청,학생맞춤형반도체미래교육",
+  "SK,SK실트론2.3조매각으로AI재원확충",
+  "휴머노이드ETF4%오를때태양광19%급락…테마순환매[ETF스퀘어]",
+  "단통법폐지1년,알뜰폰성장도멈췄다…“통신유통구조다시손봐야...",
+  "광주군공항부지반도체국가산단후보지지정...\"본격적인출발점\"",
+  "코스닥거래2개월만에60%'뚝'…레버리지규제에자금유입될까"
  ],
  "recent_sigs": [
-  [
-   "2026-08-02T06:51:07.871875+09:00",
-   "가치 이유는 만에 급등 9개월 원화 달러 최저치 환율"
-  ],
   [
    "2026-08-02T07:02:43.294407+09:00",
    "전문성은 중요해진다 AI가 일할수록 인간"
@@ -6539,9 +6535,29 @@
   [
    "2026-08-02T12:51:01.813739+09:00",
    "반도체 미래교육 이천교육지원청 학생 맞춤형"
+  ],
+  [
+   "2026-08-02T12:59:37.145955+09:00",
+   "재원 확충 매각으로 3조 AI SK실트론"
+  ],
+  [
+   "2026-08-02T12:59:37.145955+09:00",
+   "오를 테마 태양광 휴머노이드 ETF 순환매 급락"
+  ],
+  [
+   "2026-08-02T12:59:37.145955+09:00",
+   "성장도 구조 유통 단통법 통신 다시 1년 폐지 손봐야 멈췄다 알뜰폰"
+  ],
+  [
+   "2026-08-02T12:59:37.145955+09:00",
+   "지정 반도체 출발점 광주군공항 국가산단 부지 본격적인 후보지"
+  ],
+  [
+   "2026-08-02T12:59:37.145955+09:00",
+   "유입될까 규제에 거래 코스닥 레버리지 자금 만에 2개월"
   ]
  ],
- "last_run": "2026-08-02T12:51:08.382515+09:00",
+ "last_run": "2026-08-02T12:59:53.736331+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
