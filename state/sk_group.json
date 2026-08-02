@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/general-society/6244475",
-  "https://www.sidae.com/article/2026073014055791237",
-  "https://www.joongang.co.kr/article/25449676",
-  "https://www.joongang.co.kr/article/25449671",
-  "https://www.news2day.co.kr/article/20260730500011",
   "https://www.mediapen.com/news/view/1113431",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=169059",
   "https://www.aitimes.com/news/articleView.html?idxno=213374",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260802_0003732852",
   "https://biz.chosun.com/stock/stock_general/2026/08/02/QBYJGC2MPFDSTPBN6FE2BVGQEU/",
   "https://www.asiatime.co.kr/article/20260802500011",
-  "https://view.asiae.co.kr/article/2026080209302082277"
+  "https://view.asiae.co.kr/article/2026080209302082277",
+  "https://sports.khan.co.kr/article/202608020947003?pt=nv",
+  "https://www.dt.co.kr/article/12075991",
+  "https://www.mt.co.kr/tech/2026/08/02/2026073110200978576",
+  "https://www.g-enews.com/view.php?ud=202608020923244749fbbec65dfb_1",
+  "https://www.hankyung.com/article/2026080296797"
  ],
  "seen_titles": [
-  "최태원회장,SK하이닉스주식48억어치매수",
-  "“전기차캐즘끝보인다”…배터리업계실적반등",
-  "'삼전·닉스'쏠림에갇히고제도에발목…시장신뢰세우려면",
-  "충남도,삼성등202조투자에‘광속지원’",
-  "[美증시특징주]최회장자사주매입SK하이닉스17%폭등…'절묘한타...",
   "[속보]SK하이닉스ADR17.57%급등…뉴욕증시일제상승",
   "“1억잃고주식판퇴학합니다”…38일만에39%증발한코스피[숫자뒤...",
   "‘922조증발’폭락장엔정부없었다",
@@ -6001,7 +5996,12 @@
   "SK실트론품은두산…최태원회장남은지분29.4%매각·현금화속도내...",
   "7월코스피종목73%하락했다…반도체급등에순환매시동거나",
   "李대통령'세일즈외교'…AI투자9500억달러·핵심광물공급망활로",
-  "SKT,러너스마트기기라인업확대…가민·샥즈제품도입"
+  "SKT,러너스마트기기라인업확대…가민·샥즈제품도입",
+  "동규CBS노컷뉴스스포츠팀부장빙모상[부고]",
+  "삼전닉스,20%넘는폭등에도목표가반토막수순",
+  "통신3사,장기결합할인'얕고넓게'개편…AI투자여력확보될까",
+  "AMD,GPU가격10%인상…메모리대란완제품전가",
+  "7월한달간원화값8.81%상승…2009년3월이후최대폭"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,17 @@
   [
    "2026-08-02T09:31:20.373679+09:00",
    "튀르키예서 품질 아이오닉 양산 정의선 점검 회장"
+  ],
+  [
+   "2026-08-02T09:51:08.786333+09:00",
+   "GPU 인상 전가 가격 메모리 AMD 완제품 대란"
+  ],
+  [
+   "2026-08-02T09:51:08.786333+09:00",
+   "이후 7월 한달간 2009년 최대폭 상승 3월 원화값"
   ]
  ],
- "last_run": "2026-08-02T09:41:07.394493+09:00",
+ "last_run": "2026-08-02T09:51:18.482921+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
