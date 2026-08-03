@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026072515593672852",
-  "https://www.ytn.co.kr/_ln/0102_202607251559102090",
   "https://www.wikitree.co.kr/articles/1148426",
   "https://www.koreaittimes.com/news/articleView.html?idxno=155473",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02332086645518128",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/industry/general-industry/6247490",
   "https://www.yna.co.kr/view/AKR20260803136100003?input=1195m",
   "https://www.newsis.com/view/NISX20260803_0003734547",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167204"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167204",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51906",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238301"
  ],
  "seen_titles": [
-  "오픈AI,李대통령·삼성·SK연쇄회동…한국AI동맹확대",
-  "SK그룹,엔비디아와'AI혈맹'강화…5000억달러협력",
   "SK,엔비디아와5000억달러AI인프라동맹…MS·앤트로픽까지확장",
   "李대통령\"韓주가조정중\"…젠슨황\"증시다시오를것\"화답",
   "'엄지척'에'손가락하트'...이재용·정의선·이해진미국서젠슨황면...",
@@ -6001,7 +5999,9 @@
   "상법개정안시행후배당기업47%·배당액18%↑…개인배당1위이재...",
   "상법개정후상반기배당기업48%↑…개인배당금1위이재용",
   "이재용,올상반기개인배당액728억1위…정몽구·정몽준뒤이어",
-  "최태원남은SK실트론지분9575억'이혼자금'될까"
+  "최태원남은SK실트론지분9575억'이혼자금'될까",
+  "이재용728억,정의선284억,최태원195억,정기선126억배당금",
+  "최태원·김동관,나란히자사주매입…재계'책임경영'러시,속내는제..."
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-08-04T06:40:15.115867+09:00",
    "SK실트론 남은 될까 자금 이혼 9575억 지분"
+  ],
+  [
+   "2026-08-04T07:00:30.617483+09:00",
+   "러시 매입 김동관 책임경영 자사주 나란히 속내는 재계"
   ]
  ],
- "last_run": "2026-08-04T06:50:23.433899+09:00",
+ "last_run": "2026-08-04T07:00:43.504297+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6310,6 +6314,7 @@
   "thescoop.co.kr": "더스쿠프",
   "bizhankook.com": "bizhankook.com",
   "jndn.com": "jndn.com",
-  "woodkorea.co.kr": "한국목재신문"
+  "woodkorea.co.kr": "한국목재신문",
+  "ezyeconomy.com": "이지경제"
  }
 }
