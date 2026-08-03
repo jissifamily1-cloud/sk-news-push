@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20071800",
-  "https://www.hankookilbo.com/news/article/A2026072514230002367?did=NA",
   "https://www.econovill.com/news/articleView.html?idxno=746146",
   "https://www.news1.kr/it-science/general-it/6238877",
   "https://www.yna.co.kr/view/AKR20260725032051003?input=1195m",
@@ -2999,11 +2997,11 @@
   "https://www.seoul.co.kr/news/economy/2026/08/03/20260803500105?wlog_tag3=naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20260803133607MqS",
   "https://www.ddaily.co.kr/page/view/2026080312535585733",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260803133917ahI"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260803133917ahI",
+  "https://www.econovill.com/news/articleView.html?idxno=746901",
+  "https://magazine.hankyung.com/business/article/202608031683b"
  ],
  "seen_titles": [
-  "9천500억弗수주'신규장기공급'…브로드컴,李대통령에\"삼전닉스지원...",
-  "한국해양재단,종로문화재단손잡고'해양인문학시민강좌'운영",
   "청주상공회의소,전국공동사회공헌사업동참",
   "SK,엔비디아와5000억불AI인프라구축LOI…MS와는메모리장기공급협...",
   "최태원\"한국은세계AI테스트베드\"...SK,엔비디아와700조AI인프라...",
@@ -6001,13 +5999,11 @@
   "“형님,조정맞죠?”답없는‘총수퇴장밈’확산…월가는“각오하...",
   "산맥넘은열풍서쪽으로…서울37도극한폭염",
   "두산,SK실트론품고'반도체퍼즐'완성…AI시대승부수통했다",
-  "온열질환자하루새96명늘어…누적14명숨져"
+  "온열질환자하루새96명늘어…누적14명숨져",
+  "㈜SK,중간배당1500원결정…\"리밸런싱성과주주와공유\"",
+  "9440억재산분할분수령…최태원,194억SK중간배당쥔다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T08:00:26.930543+09:00",
-   "두산 삼성과 안긴 밀착 품에 주목 SK실트론 가능성"
-  ],
   [
    "2026-08-03T08:40:12.827484+09:00",
    "선택 증권주 AI반도체 역대급 외인 기록 순매수"
@@ -6091,9 +6087,13 @@
   [
    "2026-08-03T13:20:14.825297+09:00",
    "퇴장 조정 맞죠 각오하 총수 형님 월가는 확산 답없는"
+  ],
+  [
+   "2026-08-03T14:00:27.069052+09:00",
+   "중간배당 쥔다 9440억 분수령 재산분할 194억"
   ]
  ],
- "last_run": "2026-08-03T13:50:26.462068+09:00",
+ "last_run": "2026-08-03T14:00:41.085685+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
