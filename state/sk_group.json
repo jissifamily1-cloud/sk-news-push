@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718717",
-  "https://www.cnbizm.com/news/articleView.html?idxno=310328",
-  "https://www.wikitree.co.kr/articles/1149741",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11068",
-  "https://www.eroun.net/news/articleView.html?idxno=86365",
-  "https://news.bizwatch.co.kr/article/market/2026/07/31/0035",
-  "https://www.etoday.co.kr/news/view/2609913",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7176885",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454692",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1171993",
-  "https://www.busan.com/view/busan/view.php?code=2026071414572226917",
   "https://www.newspenguin.com/news/articleView.html?idxno=21974",
   "https://www.thepublic.kr/news/articleView.html?idxno=313374",
   "https://www.ekn.kr/web/view.php?key=20260730021058003",
@@ -2999,16 +2988,20 @@
   "https://www.hani.co.kr/arti/opinion/column/1271213.html",
   "http://www.jndn.com/article.php?aid=1785749251437160008",
   "https://www.hankyung.com/article/2026080326147",
-  "https://news.skbroadband.com/news/articleView.html?idxno=233167"
+  "https://news.skbroadband.com/news/articleView.html?idxno=233167",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596950",
+  "https://www.news1.kr/photos/8039350",
+  "https://www.news1.kr/photos/8039348",
+  "https://www.news1.kr/photos/8039349",
+  "https://www.etnews.com/20260803000437",
+  "https://www.yna.co.kr/view/PYH20260803180400056?input=1196m",
+  "http://www.finomy.com/news/articleView.html?idxno=258511",
+  "https://www.yna.co.kr/view/PYH20260803180300056?input=1196m",
+  "https://www.goal.com/kr/뉴스/a/bltfe023d2b7221c776",
+  "https://www.news1.kr/photos/8039351",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04546086645543712"
  ],
  "seen_titles": [
-  "[토요칼럼]아이들에게뭘가르쳐야할지모르겠다",
-  "최태원·노소영21년전파탄났다는데…이혼확정늦어진이유",
-  "[글로벌비즈]450억달러AI펀드의비극…'24세천재'아센브레너,과...",
-  "[지난밤뉴욕에선]3대지수상승…AI기대감회복",
-  "최태원·노태문기막힌타이밍…자사주사자마자‘폭등’[갭월드]",
-  "2026년낸드시장질적성장전환…양적증설대신eSSD믹스집중",
-  "[슈퍼사이클의역설②]中日반도체부활…창신메모리·키옥시아추격...",
   "[뉴욕증시]MS·아마존발AI투자우려완화,조정끝?···하이퍼스케...",
   "K배터리,ESS사업본궤도…‘AI데이터센터’로가속목표",
   "SK하이닉스HBM4공급망확보…美빅테크장기계약결실",
@@ -6001,7 +5994,14 @@
   "대통령까지노란봉투법흔드나[뉴스룸에서]",
   "통합한달…지역이기주의행태멈춰라",
   "레버리지거래확줄었다…12조원에서1조원대로'뚝'",
-  "삼성·SK,글로벌빅테크와1천400조협력추진"
+  "삼성·SK,글로벌빅테크와1천400조협력추진",
+  "바이에른뮌헨선수단,오픈트레이닝...\"한국팬들반가워요\"(포토)",
+  "훈련하는김민재",
+  "오썸피아,공간행동데이터수익화하는'그리드맵AI'엔진구축",
+  "즐겁게훈련하는김민재",
+  "'반도체호황'속SK실트론매각⋯SK실탄확보'속도'",
+  "[단독]‘전북의코치진교체’성한수와결별...공백은N팀정다훤으로...",
+  "“골키퍼의혁명일으킨선수”…'우상'노이어와맞대결앞둔제주김..."
  ],
  "recent_sigs": [
   [
@@ -7283,9 +7283,21 @@
   [
    "2026-08-03T18:32:42.383241+09:00",
    "빅테크와 삼성 글로벌 1천400조 협력"
+  ],
+  [
+   "2026-08-03T18:41:12.350226+09:00",
+   "전북의 성한수와 N팀 코치진 정다훤으로 결별 공백은 교체"
+  ],
+  [
+   "2026-08-03T18:41:12.350226+09:00",
+   "김민재 훈련하는"
+  ],
+  [
+   "2026-08-03T18:41:12.350226+09:00",
+   "골키퍼의 선수 노이어와 앞둔 맞대결 혁명 일으킨 우상 제주"
   ]
  ],
- "last_run": "2026-08-03T18:32:55.991538+09:00",
+ "last_run": "2026-08-03T18:41:23.959986+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
