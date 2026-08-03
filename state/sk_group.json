@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.catchnews.kr/news/articleView.html?idxno=126841",
-  "http://www.thebigdata.co.kr/view.php?ud=2026073115575968350a47484cf8_23",
-  "https://www.bigtanews.co.kr/article/view/big202608020002",
-  "https://www.tokenpost.kr/news/market/383731",
-  "https://www.etoday.co.kr/news/view/2610019",
-  "https://www.yeongnam.com/web/view.php?key=20260802025119518",
   "https://www.ikbc.co.kr/article/view/kbc202608020005",
   "https://www.hankyung.com/article/2026080296047",
   "https://www.segye.com/newsView/20260731509306?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026080320536",
   "https://www.hankyung.com/article/2026080323126",
   "http://www.rookie.co.kr/news/articleView.html?idxno=125606",
-  "http://www.fnnews.com/news/202608031613344550"
+  "http://www.fnnews.com/news/202608031613344550",
+  "http://www.inews24.com/view/1989359",
+  "https://www.mk.co.kr/article/12115881",
+  "https://www.mediapen.com/news/view/1114081",
+  "https://www.viva100.com/article/20260803500820",
+  "https://www.seoulfn.com/news/articleView.html?idxno=634813",
+  "http://www.metroseoul.co.kr/article/20260804500003"
  ],
  "seen_titles": [
-  "“1600원위기한달만에뚝”…SK하이닉스·조선사가푼달러에분위기...",
-  "'주주들안달인데'…SK하이닉스,주주환원내놓지못하는까닭은[비하...",
-  "박윤영표'KT'…산적한과제해결에쏠리는눈",
-  "[위클리에너지리포트]엘앤에프,美코어셸과LFP양극재중·장기공...",
-  "지식재산처-SK,첨단기술특허경쟁력강화맞손…'MOIP테크콘서트'",
-  "원/달러환율,9개월만에최저치…원화가치급등이유는?",
   "[오피셜]韓쾌거!역사상첫유럽'빅리그직행'골키퍼나왔다...제주...",
   "SK온,창사첫연간흑자가시권…그룹AI투자·ESS수주기대",
   "역대급폭락·폭등끝에성적표는‘-1%’…8월코스피투자전략은?[선...",
@@ -6001,7 +5995,13 @@
   "8월MSCI자리바뀌나…\"LG이노텍입성·HLB퇴장유력\"[분석+]",
   "핑크빛전망내놓던증권가'돌변'…목표가줄줄이낮췄다[분석+]",
   "국대에서도美친존재감'19세'고졸신인막내→형들보며폭풍성장중...",
-  "\"삼전닉스또8%급락했는데\"…폭등도폭락도비켜간'목표가'"
+  "\"삼전닉스또8%급락했는데\"…폭등도폭락도비켜간'목표가'",
+  "SK행복나래,소셜벤처법률지원강화…온율과업무협약",
+  "“실탄도,의욕도더는없습니다”…개미거래대금반년만에증발",
+  "[美증시]'AI투자공포신뢰로돌변'3대지수동반급등…빅테크주도",
+  "2Q빅5제약사수익성,‘효자품목’이갈랐다",
+  "[뉴욕증시]AI이어중동걱정덜자기술주'펄펄'···국채수익률·유...",
+  "모건스탠리,韓증시'비중확대'상향…\"36%상승여력\""
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,25 @@
   [
    "2026-08-04T06:41:05.229641+09:00",
    "삼전닉스 급락했는데 비켜간 목표가 폭등도 폭락도"
+  ],
+  [
+   "2026-08-04T06:51:09.671641+09:00",
+   "동반 빅테크 급등 공포 돌변 AI투자 3대지수 신뢰로 주도"
+  ],
+  [
+   "2026-08-04T06:51:09.671641+09:00",
+   "2Q 품목 갈랐다 빅5 제약사 수익성 효자"
+  ],
+  [
+   "2026-08-04T06:51:09.671641+09:00",
+   "걱정 펄펄 기술주 중동 덜자 수익률 AI이어 국채"
+  ],
+  [
+   "2026-08-04T06:51:09.671641+09:00",
+   "상승 비중확대 상향 여력 모건스탠리 증시"
   ]
  ],
- "last_run": "2026-08-04T06:41:37.584940+09:00",
+ "last_run": "2026-08-04T06:51:23.422397+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
