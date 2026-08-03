@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202607270231",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621004",
-  "https://www.ngonews.kr/news/articleView.html?idxno=233893",
-  "https://www.nocutnews.co.kr/news/6553855",
-  "https://www.newspim.com/news/view/20260727001037",
-  "https://www.woodkorea.co.kr/news/articleView.html?idxno=90481",
-  "https://www.gosiweek.com/article/1065595346729463",
-  "https://www.g-enews.com/view.php?ud=202607271526256865740eacf404_1",
-  "https://biz.sbs.co.kr/article_hub/20000324864?division=NAVER",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700257.html",
   "http://www.newsian.co.kr/news/articleView.html?idxno=92829",
   "https://www.tokenpost.kr/news/breaking/381628",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/AKR20260803124600064?input=1195m",
   "https://www.mk.co.kr/article/12115271",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5209967",
-  "https://www.kgnews.co.kr/news/article.html?no=906250"
+  "https://www.kgnews.co.kr/news/article.html?no=906250",
+  "http://www.yonhapnewstv.co.kr/news/AKR202608031631219p0",
+  "https://www.cwn.kr/news/articleView.html?idxno=52084",
+  "https://news.tf.co.kr/read/ptoday/2350074.htm",
+  "https://www.idaegu.com/news/articleView.html?idxno=664793",
+  "https://www.ppss.kr/news/articleView.html?idxno=304051",
+  "https://www.yna.co.kr/view/AKR20260803129100053?input=1195m",
+  "https://www.imaeil.com/page/view/2026080316110392456",
+  "https://www.newsis.com/view/NISX20260803_0003734606",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080071"
  ],
  "seen_titles": [
-  "경찰청특수단,'장윤기사건'영장기각된광산서형사과장재소환",
-  "[단독]금융위,‘주가조작패가망신1호’준항고인용에불복…재항고...",
-  "\"더불어민주당은'위헌적보완수사권폐지형사소송법개정안'을즉각...",
-  "'김건희수사무마'법무부·대검등압수수색…원희룡추가조사예정",
-  "종합특검,조성현대령기소놓고내란특검과협의",
-  "유르테베이크아웃볼,한국아토피인증원'반려동물안심성분인증'획득",
-  "유르테베이크아웃볼,'반려동물안심성분인증'획득",
-  "전분당담합과징금2341억…대상영향어디까지",
-  "데완[15전]공정위에찍힌KT'밀리의서재'...공짜한달없앤다",
   "한의원의료기기판매거부파장…한의협\"법적대응총력\"",
   "공정위,'하도급대금지연이자미지급'라인건설에시정명령",
   "브라질,2억달러마약자금동결…13명체포했다",
@@ -6001,7 +5992,16 @@
   "경찰,'공무원정치활동의혹'옥천군청압수수색",
   "주진우“‘쌍둥이투표구’전국5쌍…선관위조작의혹제기”",
   "주진우\"22대총선때쌍둥이투표구전국5쌍\"",
-  "샴악어이어악어거북까지…멸종위기종불법사육한30대추가입건"
+  "샴악어이어악어거북까지…멸종위기종불법사육한30대추가입건",
+  "국힘,선관위의혹총공세…\"총선때도쌍둥이\"·\"분산입력지침\"",
+  "'7천만원수수의혹'…심덕섭고창군수캠프전관계자,구속송치",
+  "與\"형소법개정은국회입법사항…헌법소원택도없어\"",
+  "안병윤예천군수구속영장기각…법원\"불구속수사\"판단",
+  "해외플랫폼아동성착취물유포·소지16명검거",
+  "'공직선거법위반'혐의안병윤예천군수구속영장기각",
+  "안병윤예천군수구속영장기각…불구속상태로수사계속",
+  "'마약정보원에수사기밀유출'경찰관사건,서울청광수단이송",
+  "'언론인금품혐의'안병윤예천군수영장기각"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SK케미칼 사무처 7개사 물량 판단 담합 입찰"
   ]
  ],
- "last_run": "2026-08-03T16:21:38.913503+09:00",
+ "last_run": "2026-08-03T16:32:41.221219+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
