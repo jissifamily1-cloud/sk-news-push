@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=185983",
-  "https://biz.sbs.co.kr/article_hub/20000326039?division=NAVER",
-  "https://view.asiae.co.kr/article/2026073110484698695",
-  "https://magazine.hankyung.com/business/article/202608019160b",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473450",
-  "https://www.jejumaeil.net/news/articleView.html?idxno=403244",
-  "http://www.e-platform.net/news/articleView.html?idxno=104297",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02187766645543056",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=301124",
-  "http://www.kjdaily.com/article.php?aid=1785552875683578227",
-  "https://www.ilemonde.com/news/articleView.html?idxno=30442",
   "https://www.sedaily.com/article/20074616",
   "https://www.starnewskorea.com/sports/2026/08/01/2026080110322376303",
   "https://www.jibs.co.kr/news/articles/articlesDetail/64079?feed=na",
@@ -2999,20 +2988,20 @@
   "https://www.kyeongin.com/article/1768396",
   "https://www.mk.co.kr/article/12115564",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7177285",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008688415&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008688415&plink=ORI&cooper=NAVER",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553428290",
+  "https://chmbc.co.kr/article/13993282",
+  "https://www.khan.co.kr/article/202608032034015",
+  "https://www.mbceg.co.kr/post/138841",
+  "https://www.mt.co.kr/world/2026/08/03/2026080320135588768",
+  "https://www.segye.com/newsView/20260803517933?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH202608032029387do",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6842122_37004.html",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6842121_37004.html",
+  "https://www.tokenpost.kr/news/breaking/384322",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274067"
  ],
  "seen_titles": [
-  "中AI어디까지왔나…美와성능격차2.7%로좁혔다",
-  "부동산·주식시장정책실패론에국민의힘\"김용범정책실장,자리에서...",
-  "7월수출,역대2위…2달째반도체400억·무역흑자300억달러(종합)",
-  "'2026KEL이터널리턴미드시즌컵',1일광주서개막…전반기최강팀가...",
-  "두산,2.3조에SK실트론인수'끝'…\"AI반도체성장동력확보\"",
-  "최태원이어노태문도자사주매입…책임경영의지",
-  "[슬금슬금]환율잡으려들여온'2배ETF'…증시흔들자뒤늦게'브레이...",
-  "130년두산,실트론품고'AI인프라'미래연다",
-  "계산대에오른AI...특화업무부터운영·보안까지갈래확장",
-  "[신간도서출간]김대종2027머니트렌드外",
-  "SKT,피지컬AI스타트업과로보틱스협력",
   "이장섭청주시장\"경제·문화·미래를바꾸는시민특별시청주열겠다\"",
   "유도훈감독애착인형?변화시도중인정관장한승희“안하던외곽...",
   "7월수출988억달러'역대2위'…반도체두달연속400억달러돌파",
@@ -6001,7 +5990,18 @@
   "[경인야구주간전망]Kt선두독주가능할까,SSG천적잡고반등할까",
   "中‘메모리굴기’속도전…“CXMT,베이징에두번째D램공장추진”",
   "SK텔레콤,올1~7월번호이동가입자수15만명↑…통신3사중가장많아",
-  "'삼전닉스'8%대급락…레버리지거래는줄었지만"
+  "'삼전닉스'8%대급락…레버리지거래는줄었지만",
+  "[현장목소리]벤투호사제지간감동재회!\"2022월드컵이후처음봐\"...",
+  "[리포트]정청래강원방문..\"AI데이터센터·강호축연결\"",
+  "세계‘윤활기유’공급대란에…국내정유사들,2분기웃었다",
+  "정청래강릉방문\"AI데이터센터·강호축연결\"",
+  "중국발메모리공급과잉공포…\"CXMT,베이징에추가공장건설추진\"",
+  "비수기6∼7월이례적번호이동몰려",
+  "[이시각헤드라인]8월3일뉴스리뷰",
+  "단일종목ETF거래대금급감‥반도체변동성은계속",
+  "외국인매도하자다시급락한코스피‥'지배구조개선'은계속",
+  "외국인7조2000억원순매수로한국증시반등",
+  "[ClosingMarket]KOSPIPlunges5.12%toCloseat6,257.45AmidStronge"
  ],
  "recent_sigs": [
   [
@@ -7163,9 +7163,17 @@
   [
    "2026-08-03T20:31:26.532498+09:00",
    "레버리지 급락 삼전닉스 줄었지만 거래는"
+  ],
+  [
+   "2026-08-03T20:41:04.885919+09:00",
+   "7조2000억원 증시 외국인 반등 순매수로 한국"
+  ],
+  [
+   "2026-08-03T20:41:04.885919+09:00",
+   "Close KOSPI Stronger to at Amid Plunges"
   ]
  ],
- "last_run": "2026-08-03T20:31:32.505660+09:00",
+ "last_run": "2026-08-03T20:41:13.268585+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
