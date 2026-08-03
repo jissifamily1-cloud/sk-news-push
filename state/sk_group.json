@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kjdaily.com/article.php?aid=1785556507683584227",
-  "https://biz.heraldcorp.com/article/10827777",
-  "https://www.seoul.co.kr/news/economy/2026/08/01/20260801500013?wlog_tag3=naver",
-  "https://www.mk.co.kr/article/12114223",
-  "https://economist.co.kr/article/view/ecn202608010009",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/01/2026080190037.html",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=85290",
   "https://www.woodkorea.co.kr/news/articleView.html?idxno=90593",
   "https://www.newsis.com/view/NISX20260801_0003732528",
   "https://www.sedaily.com/article/20074579",
@@ -2999,16 +2992,16 @@
   "https://www.bigtanews.co.kr/article/view/big202608030021",
   "https://www.dailian.co.kr/news/view/1674048/?sc=Naver",
   "https://www.swtvnews.com/news/newsview.php?ncode=1065592298659364",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6842135_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6842135_37004.html",
+  "https://sports.donga.com/sports/article/all/20260803/134414960/1",
+  "https://www.mk.co.kr/article/12103296",
+  "https://www.kwnews.co.kr/article/20260803501902",
+  "https://www.khan.co.kr/article/202608032103015",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260803210202cgU",
+  "https://www.tokenpost.kr/news/breaking/384338",
+  "https://www.mk.co.kr/article/12113281"
  ],
  "seen_titles": [
-  "[뉴스클레임사설]반도체치적누구것인가",
-  "[7월종합]코스피한달−22.19%,IMF·금융위기이후최악…100대기업...",
-  "독일도놀랐다!'빅리그GK탄생'제주특급유망주허재원,'레바뮌'바...",
-  "[추적]〈최태원이움직인날,증시는왜폭주?〉②“49억원이62억원됐...",
-  "레버리지규제첫날거래대금75%급감…시장안정신호인가,일시적착...",
-  "[추적]〈최태원이움직인날,증시는왜폭주?〉①49억원이코스피100...",
-  "KAI,엠브라에르와항공구조물MOU…국산AI반도체사업주관사도선정",
   "보완책효과있었나…단일종목레버리지거래량'뚝'[노정동의어쩌다...",
   "[바이오사이언스]K제약·바이오,중남미서새성장동력찾는다",
   "[연합뉴스이시각헤드라인]-10:30",
@@ -6001,7 +5994,14 @@
   "[증시오늘]코스피5%급락6250선으로밀려",
   "[데일리안오늘뉴스종합]국민의힘\"정부세제개편안,역대최악\"...부...",
   "쿠팡,개인정보유출배상액분쟁조정기구따라격차…수락은‘미지수...",
-  "제주에뜬김민재‥\"뮌헨에서행복‥이적안해요\""
+  "제주에뜬김민재‥\"뮌헨에서행복‥이적안해요\"",
+  "[SD서귀포인터뷰]“몬스터?사실유머러스한민재”vs“감독님은‘...",
+  "Koreanhotelkimchiexpandsglobalfootprint",
+  "[영상]정청래,강원빅3공략…강호축철도·AI데이터센터지원약속",
+  "민형배“광주군공항이전·국립의대신설해결실마리”",
+  "코스피,역대급폭등후5%급락…6,200선후퇴",
+  "마이크론장전5%급락…메모리주동반약세",
+  "‘맹탕’콘콜왜했나…시장에재뿌린SK하이닉스[재계톡톡]"
  ],
  "recent_sigs": [
   [
@@ -7031,9 +7031,17 @@
   [
    "2026-08-03T21:01:37.988466+09:00",
    "뮌헨에서 행복 제주에 이적 김민재 해요"
+  ],
+  [
+   "2026-08-03T21:11:07.943451+09:00",
+   "마이크론 메모리주 장전 급락 약세 동반"
+  ],
+  [
+   "2026-08-03T21:11:07.943451+09:00",
+   "맹탕 시장에 했나 콘콜 SK하이닉스 뿌린"
   ]
  ],
- "last_run": "2026-08-03T21:01:58.905087+09:00",
+ "last_run": "2026-08-03T21:11:17.294240+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
