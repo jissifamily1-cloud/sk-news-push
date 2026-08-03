@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newdaily.co.kr/site/data/html/2026/07/27/2026072700025.html",
-  "https://www.mk.co.kr/article/12107936",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=82302",
-  "https://www.slist.kr/news/articleView.html?idxno=754387",
-  "http://www.breaknews.com/1224462",
-  "https://www.joongang.co.kr/article/25448372",
-  "https://www.thepublic.kr/news/articleView.html?idxno=312663",
-  "https://www.thepublic.kr/news/articleView.html?idxno=312659",
   "https://www.hankyung.com/article/202607277060H",
   "https://view.asiae.co.kr/article/2026072708211420677",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02115606645518784",
@@ -2999,17 +2991,17 @@
   "http://www.segyebiz.com/newsView/20260803506835?OutUrl=naver",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/03/2026080390076.html",
   "https://news.jtbc.co.kr/article/NB12311390?influxDiv=NAVER",
-  "https://view.asiae.co.kr/article/2026080309521335689"
+  "https://view.asiae.co.kr/article/2026080309521335689",
+  "http://www.queen.co.kr/news/articleView.html?idxno=461161",
+  "https://www.hankyung.com/article/202608031126H",
+  "https://www.lawtv.kr/news/articleView.html?idxno=60578",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280582",
+  "https://www.dailian.co.kr/news/view/1673724/?sc=Naver",
+  "https://wemakenews.co.kr/news/view.php?no=25947",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000053991",
+  "http://www.fnnews.com/news/202608030947023588"
  ],
  "seen_titles": [
-  "\"이슬람극단주의자\"…베를린퀴어축제테러용의자사살",
-  "‘아동성매매혐의’전청주시의원밤샘조사…취재진질문하자한말",
-  "\"체육단체동원해불법경선운동\"…경찰,나동연양산시장측근압수수...",
-  "'IS추종'베를린성소수자축제테러용의자사살",
-  "국민의힘,장동혁·정점식“특검·보완수사권폐지저지”",
-  "인니스타검사,자택에385억원대금괴·현금…자금세탁혐의구금",
-  "전한길·김현태,대구아스팔트광장출격…\"진실이승리했다,끝까지...",
-  "대구서펼쳐진국민결의대회...장동혁\"참정권수호위해끝까지투쟁...",
   "'아동성매매혐의'최영중,15시간밤샘조사…\"조사성실히받아\"",
   "\"잠좀자게해달라\"…7년간이웃들괴롭힌'80데시벨'소음정체",
   "‘아동성매매혐의’최영중,밤샘조사후취재진맞닥뜨리자이말만",
@@ -6001,7 +5993,15 @@
   "‘빅플래닛대주주’차가원,300억대사기혐의로영장심사출석",
   "'300억대사기혐의'차가원원헌드레드대표,오늘구속갈림길",
   "최영중휴대전화서다른여성나체사진...추가범행정황포착",
-  "SK실트론매각,최태원회장지분은어떻게되나"
+  "SK실트론매각,최태원회장지분은어떻게되나",
+  "공정위,코레일-SR기업결합승인…KTX요금,3년간SRT수준으로10%인...",
+  "핸드폰보니끝아니었다…'아동성매매'혐의前시의원수사확대",
+  "[법조리포트]보완수사권폐지논란2라운드...헌재에서쟁점은",
+  "최영중휴대전화에다른여성신체사진…경찰,추가성매수수사",
+  "최영중전시의원휴대폰서다른여성나체사진발견…경찰,추가범행...",
+  "강남뒤흔든갤러리아부쉐론사태,허위제보였다",
+  "\"또다른나체사진발견\"…경찰,최영중'추가범행'정황포착",
+  "최영중휴대폰서또다른女나체사진나왔다…교복과유사한복장차림"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "지분은 되나 매각 SK실트론 어떻게 회장 최태원"
   ]
  ],
- "last_run": "2026-08-03T10:11:10.748145+09:00",
+ "last_run": "2026-08-03T10:21:05.045208+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
