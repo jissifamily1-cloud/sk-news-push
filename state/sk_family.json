@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10820008",
-  "https://www.ziksir.com/news/articleView.html?idxno=141155",
-  "https://www.newscj.com/news/articleView.html?idxno=3419809",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717777",
   "https://www.bloter.net/news/articleView.html?idxno=668991",
   "https://www.seoultimes.news/news/article.html?no=2000098118",
   "https://www.techm.kr/news/articleView.html?idxno=153690",
@@ -2999,13 +2995,13 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718924",
   "https://news.mtn.co.kr/news-detail/2026080315354881790",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546359",
-  "https://www.newsis.com/view/NISX20260803_0003734398"
+  "https://www.newsis.com/view/NISX20260803_0003734398",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443809",
+  "http://www.inews24.com/view/1991347",
+  "https://www.newspim.com/news/view/20260803001116",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443806"
  ],
  "seen_titles": [
-  "젠슨황“유퀴즈촬영어려웠다”…샌프란시스코다모인빅테크CEO들...",
-  "최태원\"메가프로젝트는현실적계획…'AI네이티브국가'구현해야\"",
-  "\"차·로봇서시작해도시지능화로\"…정의선'피지컬AI'비전첫공개",
-  "엔비디아·브로드컴,‘한국’택했다…1390조규모반도체협력추진",
   "靑,한미AI협력성과공개…반도체1375조원·AIDC5GW",
   "李대통령,빅테크CEO들과'깐부만찬'…\"우리는식구다\"",
   "SK,엔비디아와5000억달러AI동맹…실리콘밸리서빅테크협력확대",
@@ -6001,7 +5997,11 @@
   "[특징주]SK실트론품은두산,코스피5%하락에도급등마감",
   "SK,주당1500원중간배당…최태원194억받는다",
   "최태원,SK중간배당으로194억원수령⋯실수령액98억원추정",
-  "최태원회장,SK㈜중간배당에'세후100억'수령전망…배당확대여부..."
+  "최태원회장,SK㈜중간배당에'세후100억'수령전망…배당확대여부...",
+  "[AI뭉쳐야산다②]삼성전자구글'AI생태계'필수협력자로,이재용...",
+  "용인특례시의회,스포츠·문화관광·AI·탄소중립등다양한분야정책...",
+  "용인시의회,올해8개의원연구단체활동계획승인",
+  "[AI,뭉쳐야산다①]엔비디아발'AI동맹'에한국주연으로부상,생태..."
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,13 @@
   [
    "2026-08-03T16:10:15.672523+09:00",
    "전망 확대 회장 100억 세후 여부 배당 중간배당에 수령"
+  ],
+  [
+   "2026-08-03T16:20:15.387401+09:00",
+   "부상 엔비디아발 생태 AI 동맹 주연으로 한국"
   ]
  ],
- "last_run": "2026-08-03T16:10:31.023723+09:00",
+ "last_run": "2026-08-03T16:20:26.785094+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
