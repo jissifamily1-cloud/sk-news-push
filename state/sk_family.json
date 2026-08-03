@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=313189",
-  "http://www.4th.kr/news/articleView.html?idxno=2115253",
-  "https://view.asiae.co.kr/article/2026072514260443485",
-  "https://www.newsis.com/view/NISX20260725_0003723124",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02250086645518128",
   "http://www.inews24.com/view/1988722",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044354",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12114809",
   "https://www.mt.co.kr/stock/2026/08/03/2026080308590146161",
   "https://news.bizwatch.co.kr/article/market/2026/08/03/0001",
-  "https://www.chosun.com/economy/tech_it/2026/08/03/NRAUUTI52RBWLHDP5VSXP6VEZ4/"
+  "https://www.chosun.com/economy/tech_it/2026/08/03/NRAUUTI52RBWLHDP5VSXP6VEZ4/",
+  "https://www.dailian.co.kr/news/view/1668761/?sc=Naver",
+  "https://www.newsis.com/view/NISX20260803_0003733492",
+  "https://www.newspim.com/news/view/20260803000137",
+  "https://www.newsis.com/view/NISX20260728_0003727170"
  ],
  "seen_titles": [
-  "대한상의,전국상의·기업과손잡고'복지사각지대'해소나서....최태...",
-  "최태원\"기업사회적역할,지역사회와함께할것\"",
-  "李대통령,시총1.7경AI리더와피시앤칩스만찬",
-  "메모리넘어AI공장까지…SK,엔비디아·MS와AI공급망넓혔다",
   "[샌프란AI써밋]SK,엔비디아등빅테크와5천억달러AI동맹..메가프로...",
   "이재용·최태원·정의선\"韓,AI허브로…글로벌협력필수\"(종합)",
   "삼성·SK·네이버,글로벌빅테크와9500억달러AI협력",
@@ -6001,7 +5997,11 @@
   "SK실트론인수한두산…증권가“싸게잘샀다”",
   "두산,SK실트론인수에목표주가상향-유진투자증권",
   "SK실트론품은두산…메리츠\"인수가격·구조모두기대이상\"",
-  "“국장안들어간내가승자”…‘놓칠까불안’포모대신‘안사서..."
+  "“국장안들어간내가승자”…‘놓칠까불안’포모대신‘안사서...",
+  "전국74개상의,복지사각지대해소위해힘모은다",
+  "\"298만원땐사더니\"…증시폭락에등장한'하이닉스전래동화'",
+  "李대통령,7박11일순방귀국…글로벌AI동맹·핵심광물·원유공급망...",
+  "[순방결산]이대통령,美빅샷과AI동맹…남미와광물·에너지공급망..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-08-03T09:16:11.612921+09:00",
    "대신 놓칠까 승자 포모 들어간 사서 국장 내가 불안"
+  ],
+  [
+   "2026-08-03T09:20:20.113817+09:00",
+   "남미와 공급망 AI 빅샷과 에너지 동맹 광물 대통령"
   ]
  ],
- "last_run": "2026-08-03T09:16:23.200478+09:00",
+ "last_run": "2026-08-03T09:20:34.616420+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
