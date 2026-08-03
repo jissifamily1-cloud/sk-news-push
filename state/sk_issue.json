@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026072714162973275",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03503046645518784",
-  "https://www.newsis.com/view/NISX20260727_0003724844",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=388980",
-  "https://www.ytn.co.kr/_ln/0115_202607271434518995",
-  "https://www.segye.com/newsView/20260727509192?OutUrl=naver",
-  "https://www.khan.co.kr/article/202607271434011",
-  "https://www.thepublic.kr/news/articleView.html?idxno=312720",
-  "https://www.yna.co.kr/view/AKR20260727106400004?input=1195m",
-  "https://www.pennmike.com/news/articleView.html?idxno=124461",
-  "https://www.nocutnews.co.kr/news/6553779",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725053",
   "http://www.seouleconews.com/news/articleView.html?idxno=92648",
   "https://www.yna.co.kr/view/AKR20260727109200054?input=1195m",
@@ -2999,20 +2988,20 @@
   "https://www.newspim.com/news/view/20260803000972",
   "https://www.mt.co.kr/society/2026/08/03/2026080314372520811",
   "https://biz.heraldcorp.com/article/10829307",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/03/2026080390156.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/03/2026080390156.html",
+  "https://www.sisaweek.com/news/articleView.html?idxno=237040",
+  "https://www.newsway.co.kr/news/view?ud=2026080315185707584",
+  "https://vop.co.kr/A00001696065.html",
+  "https://www.asiatime.co.kr/article/20260803500130",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362985",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313582",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=363367",
+  "https://www.tbc.co.kr/news/view?pno=20260803150343AE03361&id=209246",
+  "https://www.pennmike.com/news/articleView.html?idxno=124909",
+  "https://www.sisajournal.com/news/articleView.html?idxno=382127",
+  "http://www.inews24.com/view/1991356"
  ],
  "seen_titles": [
-  "금감원특사경,한국거래소압수수색…엘앤에프정정공시수사",
-  "특검,'도이치수사무마'법무부·대검·중앙지검압수수색",
-  "'고창군수정치자금법위반사건'전직캠프관계자구속",
-  "장동혁\"전산조작까지드러나…안일한태도일관하면모두공범",
-  "특별수사단,전광산서형사과장피의자신분소환",
-  "창문열고전자기타‘쾅쾅’…7년간이웃괴롭힌日60대결국체포",
-  "[속보]종합특검,‘도이치수사무마’관련법무부·검찰압수수색",
-  "딥페이크피해이언주\"검찰보완수사권완전폐지,신중해야\"",
-  "종합특검,'김건희수사무마'법무부·대검추가압수수색",
-  "[기자수첩]국회의장,'14차례부부동반해외출장비82.8억원'",
-  "심덕섭고창군수정치자금법위반의혹…전캠프관계자구속",
   "쿠팡사태8개월…'한미통상'협력흔들리나",
   "대금늦게주고지연이자12억안준라인건설에시정명령",
   "경찰,'장윤기사건'영장기각된광산서형사과장재소환",
@@ -6001,7 +5990,18 @@
   "선관위전산조작'단순실수'?…해외선중범죄로'엄벌'",
   "[단독]마약정보원에수사정보유출혐의현직경찰,구속여부곧결정",
   "“6시간투표자증가수가일치”주진우,‘쌍둥이투표구’조작의혹...",
-  "주진우\"총선서도'쌍둥이투표구'발견…선관위,159곳조작\""
+  "주진우\"총선서도'쌍둥이투표구'발견…선관위,159곳조작\"",
+  "마지막관문넘은코레일-SR'철도통합'…9월부터'새출발'",
+  "프랜차이즈점주10%모이면단체협의…가맹본부응해야",
+  "가맹점주10%모이면가맹본부와협의가능해져...가맹사업법시행령...",
+  "[AT현장]KTX·SRT예매한눈에…통합앱'코레일+'첫선",
+  "가맹점주10%모이면\"본사와협상의무\"…공정위,점주단체등록제시...",
+  "가맹본부협의의무화…공정위,가맹점주단체등록·협의기준마련",
+  "[시포TV]주진우\"선관위조직적투표율조작\"…지선·대선이어총선까...",
+  "'선거법위반'혐의예천군수영장기각",
+  "[펜앤현장]주진우\"선관위간부·직원들,대선이어총선도투표율조...",
+  "국회넘은'보완수사권폐지',마침표는헌재가…2라운드예고",
+  "\"李,보완수사권폐지거부하라\"...막판여론전나선국힘[여의뷰]"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "남겼다 셈법 최태원은 팔고 SK는"
   ]
  ],
- "last_run": "2026-08-03T15:21:04.302932+09:00",
+ "last_run": "2026-08-03T15:31:11.166488+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
