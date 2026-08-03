@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12074654",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000052188",
-  "https://www.ceoscoredaily.com/page/view/2026072511494621192",
   "https://www.ceoscoredaily.com/page/view/2026072511153010558",
   "https://www.segye.com/newsView/20260725505022?OutUrl=naver",
   "http://www.inews24.com/view/1988726",
@@ -2999,12 +2996,12 @@
   "https://www.peoplewatch.co.kr/article/view/ppw202608030005",
   "https://www.dongponews.net/news/articleView.html?idxno=59374",
   "https://www.m-i.kr/news/articleView.html?idxno=1393166",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16253"
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16253",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280607",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1328703",
+  "https://www.huffingtonpost.kr/article/259216"
  ],
  "seen_titles": [
-  "실리콘밸리서만난최태원-젠슨황,5천억달러규모AI인프라협력키...",
-  "이재명대통령,오픈AI·엔비디아·브로드컴연쇄회동…한국AI공급망...",
-  "SK,엔비디아·MS와AI인프라동맹…\"메가프로젝트탄력\"",
   "K-반도체,빅테크와9500억불협력…‘대체불가초격차’깃발",
   "이재명대통령,엔비디아젠슨황등빅테크CEO와만찬",
   "이재용·정의선·이해진,젠슨황과전격회동…AI협력방안논의한듯",
@@ -6001,7 +5998,10 @@
   "실트론딜에담긴최태원·박정원의셈법은",
   "대한상의·신기업가정신협의회,복지사각지대해소'공동챌린지'첫발",
   "대한상의,전국74개상의와복지사각지대지원…'그냥드림'챌린지",
-  "최태원,확실한'재산분할'카드SK실트론개인지분...처분시점은"
+  "최태원,확실한'재산분할'카드SK실트론개인지분...처분시점은",
+  "용인특례시의회,AI연구모임등의원연구단체8개운영",
+  "용인특례시의회,의원연구단체8개운영",
+  "두산그룹이SK실트론을100%자회사만들어도최대3.3조'감당수준':..."
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,13 @@
   [
    "2026-08-03T15:20:22.653214+09:00",
    "박정원의 담긴 셈법은 딜에 실트론"
+  ],
+  [
+   "2026-08-03T15:40:13.226386+09:00",
+   "SK실트론을 자회사 3조 두산그룹이 감당 만들어도 수준"
   ]
  ],
- "last_run": "2026-08-03T15:30:34.763938+09:00",
+ "last_run": "2026-08-03T15:40:28.430022+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
