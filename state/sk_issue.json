@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725053",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92648",
-  "https://www.yna.co.kr/view/AKR20260727109200054?input=1195m",
-  "https://www.ytn.co.kr/_ln/0134_202607271442489986",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620975",
   "https://www.ytn.co.kr/_ln/0115_202607271439158703",
   "https://www.kyeonggi.com/article/20260727580273",
@@ -2999,13 +2995,13 @@
   "https://www.tbc.co.kr/news/view?pno=20260803150343AE03361&id=209246",
   "https://www.pennmike.com/news/articleView.html?idxno=124909",
   "https://www.sisajournal.com/news/articleView.html?idxno=382127",
-  "http://www.inews24.com/view/1991356"
+  "http://www.inews24.com/view/1991356",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361188",
+  "https://www.hankookilbo.com/news/article/A2026080309420001142?did=NA",
+  "https://www.ppss.kr/news/articleView.html?idxno=304056",
+  "https://sateconomy.co.kr/news/view/1065594577092154"
  ],
  "seen_titles": [
-  "쿠팡사태8개월…'한미통상'협력흔들리나",
-  "대금늦게주고지연이자12억안준라인건설에시정명령",
-  "경찰,'장윤기사건'영장기각된광산서형사과장재소환",
-  "\"친구소개하면돈더줄게\"...전청주시의원,밤샘조사후내놓은답변...",
   "선관위,‘6.3지선’투표자수수정72건…합수본,중선관위압색계속",
   "'미성년자성매매'최영중소환...추가범행조사",
   "공정위,가맹분야실태조사착수…‘갑질’집중점검",
@@ -6001,7 +5997,11 @@
   "'선거법위반'혐의예천군수영장기각",
   "[펜앤현장]주진우\"선관위간부·직원들,대선이어총선도투표율조...",
   "국회넘은'보완수사권폐지',마침표는헌재가…2라운드예고",
-  "\"李,보완수사권폐지거부하라\"...막판여론전나선국힘[여의뷰]"
+  "\"李,보완수사권폐지거부하라\"...막판여론전나선국힘[여의뷰]",
+  "가맹본부,점주단체요구땐협의의무화",
+  "美보호기관제보로아동성착취물유포자적발…경찰,4개월간16명검...",
+  "주진우\"22대총선'쌍둥이투표구'5쌍발견\"…특검·국정조사촉구",
+  "공정위사무처,SK케미칼등7개사입찰·물량담합판단"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-08-03T10:51:05.077147+09:00",
    "남겼다 셈법 최태원은 팔고 SK는"
+  ],
+  [
+   "2026-08-03T15:41:01.752524+09:00",
+   "SK케미칼 사무처 7개사 물량 판단 담합 입찰"
   ]
  ],
- "last_run": "2026-08-03T15:31:11.166488+09:00",
+ "last_run": "2026-08-03T15:41:09.526081+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
