@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/565900",
-  "https://www.wikitree.co.kr/articles/1149754",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473436",
-  "https://www.mediawatch.kr/news/article.html?no=260534",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16152108",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1391742",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428163",
   "http://www.fnnews.com/news/202608011102124139",
   "https://www.econotimes.com/South-Korea-Exports-Surge-628-in-July-on-AI-Chip-Demand-1748341",
@@ -2999,15 +2993,15 @@
   "https://imnews.imbc.com/news/2026/world/article/6842103_36925.html",
   "https://www.kyeongin.com/article/1768381",
   "http://coinreaders.com/250866",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1173098"
+  "https://www.ggilbo.com/news/articleView.html?idxno=1173098",
+  "https://www.yna.co.kr/view/AKR20260803157100007?input=1195m",
+  "https://www.dt.co.kr/article/12076324",
+  "https://www.hani.co.kr/arti/economy/finance/1271231.html",
+  "https://en.yna.co.kr/view/AEN20260803011800315?input=2106m",
+  "https://www.tokenpost.kr/news/breaking/384295",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627234"
  ],
  "seen_titles": [
-  "삼성전기,상한가로7월장마감…8월첫거래일주가상승세이어갈까",
-  "[위클리PICK3]코스피,이틀연속서킷부터삼전닉스'어닝서프라이즈...",
-  "[공식발표]'韓골키퍼최초유럽빅리그직행'제주유스허재원,바이...",
-  "아마존호실적에미국뉴욕증시반등…다우존스·S&P500·나스닥지수상...",
-  "롤러코스터한주…실적좋은종목만살았다[김근희의증시랩업]",
-  "'이제는뉴노멀'...삼성전자ㆍSK하이닉스,장기공급계약잇따라체결",
   "팔아야하나버텨야하나…'롤러코스피'대처법",
   "SK가스,2분기영업손실439억원…매출늘었지만적자전환",
   "흑자넘어전략경쟁···배터리3사하반기승부수갈린다",
@@ -6001,7 +5995,13 @@
   "로이터\"중국창신메모리,베이징에공장신설‥생산확대\"",
   "코스닥훈풍탄인천첨단주…로봇·AI기업에매수세집중",
   "모건스탠리,코스피30%추락후'비중확대'...목표9,000선제시",
-  "[주식마감]'비만치료제'기대감에펩트론상한가...원익홀딩스,티엑..."
+  "[주식마감]'비만치료제'기대감에펩트론상한가...원익홀딩스,티엑...",
+  "'독일최강'뮌헨과격돌…제주코스타감독\"내게도좋은경험\"",
+  "중동전쟁에…정유사수출효자된윤활기유",
+  "AI속도조절경고한‘롤러코스터’증시",
+  "KLeague'sJejuSKFCreadytolearnfromBayernMunichinexhibitionmat",
+  "SK하이닉스포지션3일만에반토막,3억달러이탈",
+  "[주요단신]문대림“당원이주인되는도당만들것”외"
  ],
  "recent_sigs": [
   [
@@ -7279,9 +7279,17 @@
   [
    "2026-08-03T19:51:15.147992+09:00",
    "상한가 티엑 펩트론 원익홀딩스 비만치료제 기대감에"
+  ],
+  [
+   "2026-08-03T20:00:34.882152+09:00",
+   "포지션 3일 반토막 SK하이닉스 3억달러 이탈 만에"
+  ],
+  [
+   "2026-08-03T20:00:34.882152+09:00",
+   "당원이 주인 되는 만들 도당 문대림"
   ]
  ],
- "last_run": "2026-08-03T19:51:29.561491+09:00",
+ "last_run": "2026-08-03T20:00:43.045104+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
