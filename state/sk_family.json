@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1393166",
-  "http://www.fnnews.com/news/202607251439326097",
-  "https://www.munhwa.com/article/11604957",
-  "https://www.joongangenews.com/news/articleView.html?idxno=535423",
   "http://www.segyebiz.com/newsView/20260725505092?OutUrl=naver",
   "https://www.e-science.co.kr/news/articleView.html?idxno=132433",
   "https://www.dailian.co.kr/news/view/1670873/?sc=Naver",
@@ -2999,13 +2995,13 @@
   "https://www.investchosun.com/site/data/html_dir/2026/08/03/2026080380117.html",
   "https://economist.co.kr/article/view/ecn202608030015",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422841",
-  "https://www.ppss.kr/news/articleView.html?idxno=304043"
+  "https://www.ppss.kr/news/articleView.html?idxno=304043",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200488",
+  "https://www.wikitree.co.kr/articles/1150123",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200492",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608030005"
  ],
  "seen_titles": [
-  "젠슨황\"SK와730조파트너십발표\"…엔비디아,한국과전방위협력",
-  "이대통령실리콘밸리서'AI선언'...\"한국,글로벌AI허브될것\"",
-  "대한상의·신기업가정신협의회,복지사각지대해소'공동챌린지'첫발",
-  "대한상의,전국74개상의와복지사각지대지원…'그냥드림'챌린지",
   "SK그룹,엔비디아와5000억달러규모AI협력…글로벌빅테크동맹확대",
   "李대통령“코스피조정중인데”걱정하자…젠슨황“다시오를겁니...",
   "이재명앞에모인글로벌AI수장들…젠슨황과미국서'치맥회동'재연",
@@ -6001,17 +5997,13 @@
   "[Invest]SKTNS매각,최종승자는KCA파트너스",
   "결국SK실트론품은두산,최태원개인지분도품을까",
   "최태원SK실트론지분얼마에팔릴까···29.39%가격결정변수는",
-  "[기업해부SK②]SK를흔드는오너리스크…9440억원재산분할판결이남..."
+  "[기업해부SK②]SK를흔드는오너리스크…9440억원재산분할판결이남...",
+  "두산,SK실트론품고'반도체거점'완성…박정원승부수통했다",
+  "“배당금1주당1500원”…SK중간배당확정,지급일과대상은?",
+  "SK,두산에실트론경영권2.3조양도…수익공유및자산효율화병행",
+  "실트론딜에담긴최태원·박정원의셈법은"
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T09:16:11.612921+09:00",
-   "대신 놓칠까 승자 포모 들어간 사서 국장 내가 불안"
-  ],
-  [
-   "2026-08-03T09:20:20.113817+09:00",
-   "남미와 공급망 AI 빅샷과 에너지 동맹 광물 대통령"
-  ],
   [
    "2026-08-03T09:30:21.142159+09:00",
    "주당 결정 9년 연속 약속 책임경영 1500원 중간배당 지켰다"
@@ -6115,9 +6107,13 @@
   [
    "2026-08-03T15:10:16.243895+09:00",
    "SK를 재산분할 판결이 흔드는 오너 리스크 9440억원"
+  ],
+  [
+   "2026-08-03T15:20:22.653214+09:00",
+   "박정원의 담긴 셈법은 딜에 실트론"
   ]
  ],
- "last_run": "2026-08-03T15:10:29.739250+09:00",
+ "last_run": "2026-08-03T15:20:38.069520+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
