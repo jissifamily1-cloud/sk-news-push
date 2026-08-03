@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=668991",
-  "https://www.seoultimes.news/news/article.html?no=2000098118",
   "https://www.techm.kr/news/articleView.html?idxno=153690",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590075.html",
   "https://news.bizwatch.co.kr/article/industry/2026/07/24/0005",
@@ -2999,11 +2997,11 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=443809",
   "http://www.inews24.com/view/1991347",
   "https://www.newspim.com/news/view/20260803001116",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443806"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443806",
+  "https://www.mt.co.kr/industry/2026/08/03/2026080316072699712",
+  "https://www.chosun.com/economy/industry-company/2026/08/03/MCWZUER54VFOXO47Q73OYIS4EI/"
  ],
  "seen_titles": [
-  "靑,한미AI협력성과공개…반도체1375조원·AIDC5GW",
-  "李대통령,빅테크CEO들과'깐부만찬'…\"우리는식구다\"",
   "SK,엔비디아와5000억달러AI동맹…실리콘밸리서빅테크협력확대",
   "SK,엔비디아와5000억달러AI협력…MS·앤트로픽도합류",
   "[이슈]'샌프란시스코AI선언'…정부정책·기업투자맞물려공급망경...",
@@ -6001,7 +5999,9 @@
   "[AI뭉쳐야산다②]삼성전자구글'AI생태계'필수협력자로,이재용...",
   "용인특례시의회,스포츠·문화관광·AI·탄소중립등다양한분야정책...",
   "용인시의회,올해8개의원연구단체활동계획승인",
-  "[AI,뭉쳐야산다①]엔비디아발'AI동맹'에한국주연으로부상,생태..."
+  "[AI,뭉쳐야산다①]엔비디아발'AI동맹'에한국주연으로부상,생태...",
+  "SK㈜,주당1500원중간현금배당…최태원회장194억수령전망",
+  "최태원49억,김동관5억...증시급락속주식사는총수들...왜?"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,13 @@
   [
    "2026-08-03T16:20:15.387401+09:00",
    "부상 엔비디아발 생태 AI 동맹 주연으로 한국"
+  ],
+  [
+   "2026-08-03T16:30:36.704292+09:00",
+   "5억 급락 총수들 증시 주식 49억 김동관 사는"
   ]
  ],
- "last_run": "2026-08-03T16:20:26.785094+09:00",
+ "last_run": "2026-08-03T16:30:50.500609+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
