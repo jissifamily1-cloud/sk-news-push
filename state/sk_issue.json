@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/27/2026072790115.html",
-  "https://www.mt.co.kr/economy/2026/07/27/2026072711074986094",
-  "https://www.nocutnews.co.kr/news/6553667",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620889",
-  "http://www.atstar1.com/news/articleView.html?idxno=6036976",
-  "https://www.mt.co.kr/society/2026/07/27/2026072710414292782",
-  "http://kor.theasian.asia/archives/410765",
   "http://www.kbiznews.co.kr/news/articleView.html?idxno=114602",
   "http://www.newsprime.co.kr/news/article.html?no=741624",
   "https://www.mk.co.kr/article/12108227",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2610362",
   "https://www.naeil.com/news/read/597516",
   "https://www.naeil.com/news/read/597530",
-  "https://www.naeil.com/news/read/597512"
+  "https://www.naeil.com/news/read/597512",
+  "https://www.naeil.com/news/read/597523",
+  "https://www.news1.kr/local/gwangju-jeonnam/6247352",
+  "https://www.nocutnews.co.kr/news/6557321",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000054079",
+  "https://www.chosun.com/national/national_general/2026/08/03/GDMCATMIEJH3HBPWUKLOTIZGFA/",
+  "https://www.pressian.com/pages/articles/2026080312580801242",
+  "https://www.newsis.com/view/NISX20260803_0003734086"
  ],
  "seen_titles": [
-  "법원,'주가조작패가망신1호'준항고인용…\"권한없는금감원직원이...",
-  "농식품부,산란계협회설립허가취소최종결정…이번주공문발송",
-  "법원,'주가조작패가망신1호'사건준항고인용…수사차질?",
-  "경찰조사후고개들고걸어나온최영중,“미성년자알았나?”묻자...",
-  "예쁜얼굴로인기많았던여대생,살해된채발견…의심받은남자만20...",
-  "법원,'주가조작패가망신1호'준항고인용…\"위법수집증거배제\"",
-  "[아시아라운드업20260727]'반도체첨병'CXMT,상장직후중국시총1위",
   "[제6회유통상생대회]\"대기업유통망이우수中企제품판로개척에적극...",
   "규합위권고에네이버·두나무합병기대감…입법과제여전",
   "[단독]금감원특사경,한국거래소압수수색…엘앤에프불성실공시의혹...",
@@ -6001,7 +5994,14 @@
   "통합앱‘코레일+’띄운코레일·SR…9월기관통합도초읽기",
   "‘검찰수사완전폐지법’헌법재판소로",
   "특검수사대상‘선관위서버’‘대선·총선’으로확대되나",
-  "국민의힘“이대통령,형소법개정안거부권행사해야”"
+  "국민의힘“이대통령,형소법개정안거부권행사해야”",
+  "KTX·SRT통합앱‘코레일+’출시",
+  "장윤기사건특수단,광주광산경찰서추가압수수색",
+  "고창군수정치자금법위반의혹,전캠프관계자구속송치",
+  "특수단,'장윤기사건'광산경찰서추가압수수색",
+  "국수본특별수사단,장윤기성범죄수사광산서여청과압수수색",
+  "심덕섭고창군수선거자금의혹제보자검찰송치",
+  "법무부,공소청출범후검찰유휴인력우려에\"오히려업무증가\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "남겼다 셈법 최태원은 팔고 SK는"
   ]
  ],
- "last_run": "2026-08-03T13:10:52.059566+09:00",
+ "last_run": "2026-08-03T13:21:16.042610+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
