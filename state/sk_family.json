@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=153692",
-  "https://www.bloter.net/news/articleView.html?idxno=668992",
-  "https://www.m-i.kr/news/articleView.html?idxno=1395240",
   "https://www.newspim.com/news/view/20260725000078",
   "https://view.asiae.co.kr/article/2026072515593672852",
   "https://www.ytn.co.kr/_ln/0102_202607251559102090",
@@ -2999,12 +2996,12 @@
   "https://www.hankookilbo.com/news/article/A2026080310360004363?did=NA",
   "http://www.yonhapnewstv.co.kr/news/MYH20260803230952eO8",
   "https://www.mk.co.kr/article/12101316",
-  "https://www.newsis.com/view/NISX20260803_0003734750"
+  "https://www.newsis.com/view/NISX20260803_0003734750",
+  "https://www.news1.kr/industry/general-industry/6247490",
+  "https://www.yna.co.kr/view/AKR20260803136100003?input=1195m",
+  "https://www.newsis.com/view/NISX20260803_0003734547"
  ],
  "seen_titles": [
-  "삼성·SK,미빅테크와1372조규모반도체협력‘맞손’",
-  "삼성·SK·네이버,글로벌빅테크와AI동맹…9500억달러협력본격화",
-  "삼성·SK,AI반도체주도권잡는다…빅테크와5년장기협력",
   "[테크M이슈]'韓인터넷독립투사'이해진에빅테크·글로벌자본이주...",
   "오픈AI,李대통령·삼성·SK연쇄회동…한국AI동맹확대",
   "SK그룹,엔비디아와'AI혈맹'강화…5000억달러협력",
@@ -6001,10 +5998,18 @@
   "SK㈜주당1500원중간배당…\"일관성있는책임경영\"",
   "'300억대사기'차가원구속…\"증거인멸우려\"",
   "사라진주주서한이남긴씁쓸함[취재수첩]",
-  "씨름김무호,문경오미자대회서통산14번째한라장사"
+  "씨름김무호,문경오미자대회서통산14번째한라장사",
+  "상법개정안시행후배당기업47%·배당액18%↑…개인배당1위이재...",
+  "상법개정후상반기배당기업48%↑…개인배당금1위이재용",
+  "이재용,올상반기개인배당액728억1위…정몽구·정몽준뒤이어"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-04T06:00:47.448685+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-04T06:10:17.432371+09:00",
+   "이재용 배당액 정몽준 정몽구 728억 1위 뒤이어 상반기 개인"
+  ]
+ ],
+ "last_run": "2026-08-04T06:10:33.245622+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
