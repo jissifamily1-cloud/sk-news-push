@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.cpbc.co.kr/article/1174561?division=NAVER",
-  "https://www.newsis.com/view/NISX20260725_0003723144",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620052",
-  "https://news.bizwatch.co.kr/article/industry/2026/07/25/0002",
   "https://www.sentv.co.kr/article/view/sentv202607250017",
   "https://www.mt.co.kr/industry/2026/07/25/2026072514294023953",
   "https://www.peoplewatch.co.kr/article/view/ppw202607250005",
@@ -2999,13 +2995,13 @@
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=314147",
   "http://www.yonhapnewstv.co.kr/news/MYH20260803165415mUS",
   "https://www.yna.co.kr/view/AKR20260803134300007?input=1195m",
-  "https://www.dailian.co.kr/news/view/1673986/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1673986/?sc=Naver",
+  "https://www.pressian.com/pages/articles/2026080314500082678",
+  "https://www.electimes.com/news/articleView.html?idxno=370462",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16153789",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422852"
  ],
  "seen_titles": [
-  "현대차정의선\"엔비디아등과협력,국내피지컬AI성장으로이어져야...",
-  "SK,글로벌빅테크와AI동맹…엔비디아와5000억달러협력",
-  "오픈AI,이대통령이어삼성·SK회동…\"한국AI협력확대\"",
-  "李,AI공급망승부수…'샌프란시스코AI선언'발표",
   "이재용삼성,美브로드컴과반도체'전방위협력'…최태원SK,엔비디아...",
   "SK,엔비디아등글로벌빅테크와7,500억달러AI협력",
   "한미AI동맹본격화…삼성·SK,'1300조'초대형프로젝트",
@@ -6001,25 +5997,13 @@
   "'연구하는의회'속도내는용인특례시의회",
   "'300억대사기'차가원구속기로…혐의엔묵묵부답",
   "'23연승신기록'씨름김무호,문경대회서통산14번째한라장사",
-  "최태원,SK㈜중간배당194억원…재산분할재원마련주목"
+  "최태원,SK㈜중간배당194억원…재산분할재원마련주목",
+  "거창군,하반기정기인사단행",
+  "KEMS·KOMMA,전기이륜차BSS해외진출표준화논의",
+  "\"23연승질주\"김무호,문경서통산14번째한라장사",
+  "SK하이닉스주주환원엇갈린전망···\"ADR로공개불가\"vs\"계획없다..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T11:10:15.797457+09:00",
-   "슈퍼 언제까지 조원경의 경제 산업 답사 사이클은 것인가 반도체"
-  ],
-  [
-   "2026-08-03T11:10:15.797457+09:00",
-   "승부수 최태원의 자신감 저평가엔 부진엔 책임 노태문 실적 자사주"
-  ],
-  [
-   "2026-08-03T11:10:15.797457+09:00",
-   "취업준비생까지 삼성 지원 영유아부터 교육 짜기 AI 시대"
-  ],
-  [
-   "2026-08-03T11:10:15.797457+09:00",
-   "책임경영 흔들린 하이닉스 시설투자 승부 공습에 K반도체 삼성"
-  ],
   [
    "2026-08-03T11:20:19.698095+09:00",
    "순위 랠리가 바꿨다 AI 주식부호 개인"
@@ -6119,9 +6103,13 @@
   [
    "2026-08-03T16:30:36.704292+09:00",
    "5억 급락 총수들 증시 주식 49억 김동관 사는"
+  ],
+  [
+   "2026-08-03T17:10:55.588165+09:00",
+   "계획 주주환원 전망 엇갈린 없다 SK하이닉스 ADR로 불가 vs 공개"
   ]
  ],
- "last_run": "2026-08-03T17:00:45.571282+09:00",
+ "last_run": "2026-08-03T17:11:09.322717+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
