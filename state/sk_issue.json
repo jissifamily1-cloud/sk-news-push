@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621094",
-  "https://www.segye.com/newsView/20260727516042?OutUrl=naver",
-  "https://biz.heraldcorp.com/article/10821966",
   "https://www.imaeil.com/page/view/2026072718391418663",
   "http://www.jeollailbo.com/news/articleView.html?idxno=806511",
   "http://www.jjn.co.kr/news/articleView.html?idxno=1047733",
@@ -2999,12 +2996,12 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008688351&plink=ORI&cooper=NAVER",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000054232",
   "https://www.pressian.com/pages/articles/2026080318001190686",
-  "https://biz.sbs.co.kr/article_hub/20000326374?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000326374?division=NAVER",
+  "https://www.ytn.co.kr/_ln/0103_202608031828068430",
+  "https://www.hani.co.kr/arti/society/society_general/1271211.html",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000054233"
  ],
  "seen_titles": [
-  "자동차보험료또오르나?…‘8주룰’은대체언제?[핫클립]",
-  "‘불법촬영’혐의아들휴대전화,경찰아버지가폐기",
-  "‘불법촬영’고교생아들폰부숴버린경찰…증거인멸수사",
   "불법촬영아들휴대전화부수고버린경찰관…증거인멸혐의수사",
   "아들불법촬영증거없앤현직경찰관입건",
   "아들불법촬영증거없앤경찰···전북경찰수사착수",
@@ -6001,7 +5998,10 @@
   "검찰,'장윤기수사정보아버지유출'광산서경찰관2명기소",
   "'장윤기사건'수사외압의혹…경찰특별수사단,광산서추가압수수색",
   "'장윤기사건'부실수사·유착의혹수사확대…광주광산서수사팀2명...",
-  "[단독]SKT5G과장광고과징금,대법원간다"
+  "[단독]SKT5G과장광고과징금,대법원간다",
+  "마약정보원에수사정보유출...서울청광수단수사",
+  "현직경찰‘마약수사기밀유출’의혹…서울경찰청이직접수사",
+  "'장윤기사건'수사정보유출·증거인멸광산서경찰2명기소"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "SKT 과징금 과장광고 대법원 간다 5G"
   ]
  ],
- "last_run": "2026-08-03T18:21:36.248321+09:00",
+ "last_run": "2026-08-03T18:32:28.356084+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
