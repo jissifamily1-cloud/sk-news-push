@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/assembly/6239858",
-  "https://www.sisajournal.com/news/articleView.html?idxno=381216",
-  "https://www.ekn.kr/web/view.php?key=20260727024015970",
   "http://www.metroseoul.co.kr/article/20260727500207",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620865",
   "https://www.segye.com/newsView/20260727506390?OutUrl=naver",
@@ -2999,12 +2996,12 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626907",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626906",
   "https://www.newsis.com/view/NISX20260803_0003734092",
-  "https://www.hankookilbo.com/news/article/A2026080309410002704?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026080309410002704?did=NA",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030199814&code=61121111&cp=nv",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626927",
+  "https://www.nocutnews.co.kr/news/6557296"
  ],
  "seen_titles": [
-  "이준석\"신천지관련與도野처럼수사받고당원명부까야\"",
-  "장동혁\"선관위,뭘감추려생중계거부…안일한태도모두공범\"",
-  "[단독]‘대한항공94%깎고쿠팡상한선막히고’…공정위,‘기업결합...",
   "張,선관위투표율조작사태두고\"윗선어디까지개입했는지예측불...",
   "법원,DI동일주가조작의혹“증거선별위법”준항고인용",
   "‘주가조작패가망신1호’사건준항고인용…“위법수집증거배제...",
@@ -6001,7 +5998,10 @@
   "‘300억대사기혐의’차가원대표구속기로…“성실히답하겠다”",
   "‘아동성범죄’최영중추가범행정황확인",
   "경찰청장윤기사건특수단,광산서여청과추가압수수색",
-  "천하람\"검사가무당도아니고…서류만보고판단?무죄사건늘어날..."
+  "천하람\"검사가무당도아니고…서류만보고판단?무죄사건늘어날...",
+  "경찰청장윤기사건특수단,광산서여청과압수수색",
+  "경찰특별수사단,광주광산서여성청소년과추가압수수색",
+  "경찰,'장윤기부실수사의혹'광산서여청과추가압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "남겼다 셈법 최태원은 팔고 SK는"
   ]
  ],
- "last_run": "2026-08-03T12:41:01.092598+09:00",
+ "last_run": "2026-08-03T12:50:51.315772+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
