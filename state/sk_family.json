@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166574",
-  "https://www.mt.co.kr/industry/2026/07/25/2026072514420763087",
   "https://biz.heraldcorp.com/article/10820008",
   "https://www.ziksir.com/news/articleView.html?idxno=141155",
   "https://www.newscj.com/news/articleView.html?idxno=3419809",
@@ -2999,11 +2997,11 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627008",
   "https://www.m-economynews.com/news/article.html?no=69380",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718924",
-  "https://news.mtn.co.kr/news-detail/2026080315354881790"
+  "https://news.mtn.co.kr/news-detail/2026080315354881790",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546359",
+  "https://www.newsis.com/view/NISX20260803_0003734398"
  ],
  "seen_titles": [
-  "SK,엔비디아와2GWAI팩토리추진…美빅테크협력확대",
-  "[포토]\"우리는식구다\"李대통령,삼성·SK·현대차총수들과AI외교",
   "젠슨황“유퀴즈촬영어려웠다”…샌프란시스코다모인빅테크CEO들...",
   "최태원\"메가프로젝트는현실적계획…'AI네이티브국가'구현해야\"",
   "\"차·로봇서시작해도시지능화로\"…정의선'피지컬AI'비전첫공개",
@@ -6001,17 +5999,11 @@
   "[성공예감]삼전닉스목표주가,애널리스트에따라3배까지차이나는...",
   "반도체실적사상최대....삼성전자·하이닉스,장기공급계약으로시장...",
   "[특징주]SK실트론품은두산,코스피5%하락에도급등마감",
-  "SK,주당1500원중간배당…최태원194억받는다"
+  "SK,주당1500원중간배당…최태원194억받는다",
+  "최태원,SK중간배당으로194억원수령⋯실수령액98억원추정",
+  "최태원회장,SK㈜중간배당에'세후100억'수령전망…배당확대여부..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T10:10:15.632960+09:00",
-   "매각 회장 SK실트론 되나 지분은 어떻게"
-  ],
-  [
-   "2026-08-03T10:10:15.632960+09:00",
-   "드리우나 이혼 그림자 권혁빈 8조"
-  ],
   [
    "2026-08-03T10:50:20.030082+09:00",
    "남겼다 최태원은 SK는 팔고 셈법"
@@ -6115,9 +6107,17 @@
   [
    "2026-08-03T16:00:28.150108+09:00",
    "1500원 194억 배당 주당 중간 받는다"
+  ],
+  [
+   "2026-08-03T16:10:15.672523+09:00",
+   "실수령액 중간배당으로 194억원 98억원 추정 수령"
+  ],
+  [
+   "2026-08-03T16:10:15.672523+09:00",
+   "전망 확대 회장 100억 세후 여부 배당 중간배당에 수령"
   ]
  ],
- "last_run": "2026-08-03T16:00:43.104320+09:00",
+ "last_run": "2026-08-03T16:10:31.023723+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
