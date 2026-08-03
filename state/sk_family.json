@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.segyebiz.com/newsView/20260725505092?OutUrl=naver",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=132433",
-  "https://www.dailian.co.kr/news/view/1670873/?sc=Naver",
   "https://www.dt.co.kr/article/12074654",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000052188",
   "https://www.ceoscoredaily.com/page/view/2026072511494621192",
@@ -2999,12 +2996,12 @@
   "http://www.thevaluenews.co.kr/news/view.php?idx=200488",
   "https://www.wikitree.co.kr/articles/1150123",
   "http://www.thevaluenews.co.kr/news/view.php?idx=200492",
-  "https://www.peoplewatch.co.kr/article/view/ppw202608030005"
+  "https://www.peoplewatch.co.kr/article/view/ppw202608030005",
+  "https://www.dongponews.net/news/articleView.html?idxno=59374",
+  "https://www.m-i.kr/news/articleView.html?idxno=1393166",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16253"
  ],
  "seen_titles": [
-  "SK그룹,엔비디아와5000억달러규모AI협력…글로벌빅테크동맹확대",
-  "李대통령“코스피조정중인데”걱정하자…젠슨황“다시오를겁니...",
-  "이재명앞에모인글로벌AI수장들…젠슨황과미국서'치맥회동'재연",
   "실리콘밸리서만난최태원-젠슨황,5천억달러규모AI인프라협력키...",
   "이재명대통령,오픈AI·엔비디아·브로드컴연쇄회동…한국AI공급망...",
   "SK,엔비디아·MS와AI인프라동맹…\"메가프로젝트탄력\"",
@@ -6001,13 +5998,12 @@
   "두산,SK실트론품고'반도체거점'완성…박정원승부수통했다",
   "“배당금1주당1500원”…SK중간배당확정,지급일과대상은?",
   "SK,두산에실트론경영권2.3조양도…수익공유및자산효율화병행",
-  "실트론딜에담긴최태원·박정원의셈법은"
+  "실트론딜에담긴최태원·박정원의셈법은",
+  "대한상의·신기업가정신협의회,복지사각지대해소'공동챌린지'첫발",
+  "대한상의,전국74개상의와복지사각지대지원…'그냥드림'챌린지",
+  "최태원,확실한'재산분할'카드SK실트론개인지분...처분시점은"
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T09:30:21.142159+09:00",
-   "주당 결정 9년 연속 약속 책임경영 1500원 중간배당 지켰다"
-  ],
   [
    "2026-08-03T09:40:14.803825+09:00",
    "관료는 방패 우리의 정치권과"
@@ -6113,7 +6109,7 @@
    "박정원의 담긴 셈법은 딜에 실트론"
   ]
  ],
- "last_run": "2026-08-03T15:20:38.069520+09:00",
+ "last_run": "2026-08-03T15:30:34.763938+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
