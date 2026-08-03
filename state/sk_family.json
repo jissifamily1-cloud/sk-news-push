@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260725000078",
   "https://view.asiae.co.kr/article/2026072515593672852",
   "https://www.ytn.co.kr/_ln/0102_202607251559102090",
   "https://www.wikitree.co.kr/articles/1148426",
@@ -2999,10 +2998,10 @@
   "https://www.newsis.com/view/NISX20260803_0003734750",
   "https://www.news1.kr/industry/general-industry/6247490",
   "https://www.yna.co.kr/view/AKR20260803136100003?input=1195m",
-  "https://www.newsis.com/view/NISX20260803_0003734547"
+  "https://www.newsis.com/view/NISX20260803_0003734547",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167204"
  ],
  "seen_titles": [
-  "[테크M이슈]'韓인터넷독립투사'이해진에빅테크·글로벌자본이주...",
   "오픈AI,李대통령·삼성·SK연쇄회동…한국AI동맹확대",
   "SK그룹,엔비디아와'AI혈맹'강화…5000억달러협력",
   "SK,엔비디아와5000억달러AI인프라동맹…MS·앤트로픽까지확장",
@@ -6001,15 +6000,20 @@
   "씨름김무호,문경오미자대회서통산14번째한라장사",
   "상법개정안시행후배당기업47%·배당액18%↑…개인배당1위이재...",
   "상법개정후상반기배당기업48%↑…개인배당금1위이재용",
-  "이재용,올상반기개인배당액728억1위…정몽구·정몽준뒤이어"
+  "이재용,올상반기개인배당액728억1위…정몽구·정몽준뒤이어",
+  "최태원남은SK실트론지분9575억'이혼자금'될까"
  ],
  "recent_sigs": [
   [
    "2026-08-04T06:10:17.432371+09:00",
    "이재용 배당액 정몽준 정몽구 728억 1위 뒤이어 상반기 개인"
+  ],
+  [
+   "2026-08-04T06:40:15.115867+09:00",
+   "SK실트론 남은 될까 자금 이혼 9575억 지분"
   ]
  ],
- "last_run": "2026-08-04T06:30:39.724451+09:00",
+ "last_run": "2026-08-04T06:40:26.756515+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
