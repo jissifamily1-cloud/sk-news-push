@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701015",
-  "https://www.ziksir.com/news/articleView.html?idxno=141156",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701016",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541677",
   "https://it.chosun.com/news/articleView.html?idxno=2023092166574",
   "https://www.mt.co.kr/industry/2026/07/25/2026072514420763087",
   "https://biz.heraldcorp.com/article/10820008",
@@ -2999,13 +2995,13 @@
   "https://www.huffingtonpost.kr/article/259216",
   "https://www.sisajournal.com/news/articleView.html?idxno=382124",
   "https://www.jjan.kr/article/20260803500298",
-  "https://www.ajunews.com/view/20260803151810332"
+  "https://www.ajunews.com/view/20260803151810332",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627008",
+  "https://www.m-economynews.com/news/article.html?no=69380",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718924",
+  "https://news.mtn.co.kr/news-detail/2026080315354881790"
  ],
  "seen_titles": [
-  "이대통령,‘샌프란시스코AI선언’천명…“韓,대체불가AI공급망...",
-  "이재명방미‘AI잭팟’…靑“국내기업·글로벌빅테크,9500억달러...",
-  "'깐부회동'샌프란시스코서재현…李\"우리는식구다\"",
-  "이재명대통령AI승부수에하남주목…'3조원AI클러스터'탄력받나",
   "SK,엔비디아와2GWAI팩토리추진…美빅테크협력확대",
   "[포토]\"우리는식구다\"李대통령,삼성·SK·현대차총수들과AI외교",
   "젠슨황“유퀴즈촬영어려웠다”…샌프란시스코다모인빅테크CEO들...",
@@ -6001,13 +5997,13 @@
   "두산그룹이SK실트론을100%자회사만들어도최대3.3조'감당수준':...",
   "SK실트론인수하며반도체날개단두산…최태원'재산분할열쇠'도품...",
   "김민석민주당당대표후보,3일전주서표심공략",
-  "[공시학개론]흔들리는주가에자사주사는경영진…'책임경영'신호"
+  "[공시학개론]흔들리는주가에자사주사는경영진…'책임경영'신호",
+  "[성공예감]삼전닉스목표주가,애널리스트에따라3배까지차이나는...",
+  "반도체실적사상최대....삼성전자·하이닉스,장기공급계약으로시장...",
+  "[특징주]SK실트론품은두산,코스피5%하락에도급등마감",
+  "SK,주당1500원중간배당…최태원194억받는다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T09:50:18.751709+09:00",
-   "샀다 알짜 실트론 3조 두산 강세 승자는 SK는 급락"
-  ],
   [
    "2026-08-03T10:10:15.632960+09:00",
    "매각 회장 SK실트론 되나 지분은 어떻게"
@@ -6115,9 +6111,13 @@
   [
    "2026-08-03T15:50:14.690332+09:00",
    "경영진 주가에 자사주 흔들리는 사는 책임경영 신호"
+  ],
+  [
+   "2026-08-03T16:00:28.150108+09:00",
+   "1500원 194억 배당 주당 중간 받는다"
   ]
  ],
- "last_run": "2026-08-03T15:50:30.834165+09:00",
+ "last_run": "2026-08-03T16:00:43.104320+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
