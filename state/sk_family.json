@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ceoscoredaily.com/page/view/2026072511153010558",
-  "https://www.segye.com/newsView/20260725505022?OutUrl=naver",
-  "http://www.inews24.com/view/1988726",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701015",
   "https://www.ziksir.com/news/articleView.html?idxno=141156",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701016",
@@ -2999,12 +2996,12 @@
   "https://www.esgeconomy.com/news/articleView.html?idxno=16253",
   "https://www.womennews.co.kr/news/articleView.html?idxno=280607",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1328703",
-  "https://www.huffingtonpost.kr/article/259216"
+  "https://www.huffingtonpost.kr/article/259216",
+  "https://www.sisajournal.com/news/articleView.html?idxno=382124",
+  "https://www.jjan.kr/article/20260803500298",
+  "https://www.ajunews.com/view/20260803151810332"
  ],
  "seen_titles": [
-  "K-반도체,빅테크와9500억불협력…‘대체불가초격차’깃발",
-  "이재명대통령,엔비디아젠슨황등빅테크CEO와만찬",
-  "이재용·정의선·이해진,젠슨황과전격회동…AI협력방안논의한듯",
   "이대통령,‘샌프란시스코AI선언’천명…“韓,대체불가AI공급망...",
   "이재명방미‘AI잭팟’…靑“국내기업·글로벌빅테크,9500억달러...",
   "'깐부회동'샌프란시스코서재현…李\"우리는식구다\"",
@@ -6001,13 +5998,12 @@
   "최태원,확실한'재산분할'카드SK실트론개인지분...처분시점은",
   "용인특례시의회,AI연구모임등의원연구단체8개운영",
   "용인특례시의회,의원연구단체8개운영",
-  "두산그룹이SK실트론을100%자회사만들어도최대3.3조'감당수준':..."
+  "두산그룹이SK실트론을100%자회사만들어도최대3.3조'감당수준':...",
+  "SK실트론인수하며반도체날개단두산…최태원'재산분할열쇠'도품...",
+  "김민석민주당당대표후보,3일전주서표심공략",
+  "[공시학개론]흔들리는주가에자사주사는경영진…'책임경영'신호"
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T09:40:14.803825+09:00",
-   "관료는 방패 우리의 정치권과"
-  ],
   [
    "2026-08-03T09:50:18.751709+09:00",
    "샀다 알짜 실트론 3조 두산 강세 승자는 SK는 급락"
@@ -6111,9 +6107,17 @@
   [
    "2026-08-03T15:40:13.226386+09:00",
    "SK실트론을 자회사 3조 두산그룹이 감당 만들어도 수준"
+  ],
+  [
+   "2026-08-03T15:50:14.690332+09:00",
+   "표심 민주당 공략 3일 전주서 후보 김민석 당대표"
+  ],
+  [
+   "2026-08-03T15:50:14.690332+09:00",
+   "경영진 주가에 자사주 흔들리는 사는 책임경영 신호"
   ]
  ],
- "last_run": "2026-08-03T15:40:28.430022+09:00",
+ "last_run": "2026-08-03T15:50:30.834165+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
