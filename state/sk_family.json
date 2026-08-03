@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260725505628?OutUrl=naver",
-  "https://news.mtn.co.kr/news-detail/2026072516233510193",
-  "https://www.mediapen.com/news/view/1112169",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686974",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686973",
   "https://www.hankyung.com/article/202607255694i",
   "https://www.korea.kr/news/policyNewsView.do?newsId=148968783&call_from=naver_news",
@@ -2999,13 +2995,13 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=280625",
   "https://www.kukinews.com/article/view/kuk202608040003",
   "https://www.khan.co.kr/article/202608040730001",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7176812"
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7176812",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608040362&t=NN",
+  "http://www.inews24.com/view/1991540",
+  "https://www.greened.kr/news/articleView.html?idxno=346724",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268998"
  ],
  "seen_titles": [
-  "'샌프란시스코AI서밋'서한국-빅테크협약6건체결…\"반도체부터AX까...",
-  "李대통령,SFAI선언…“韓,신뢰할수있는AI공급망파트너로”",
-  "SK,엔비디아와5000억달러AI동맹",
-  "엔비디아찾은이재용·정의선·이해진,젠슨황과AI협력",
   "SK,美빅테크들과7500억달러규모AI인프라협력",
   "삼전닉스,美빅테크들과9500억불반도체협력…李“우린식구다”",
   "샘알트먼\"한국정부'모두의AI'비전에공감…인프라역할중요\"",
@@ -6001,7 +5997,11 @@
   "상법개정후상반기배당기업48%↑…이재용728억개인1위",
   "상법개정후올상반기배당기업48%↑…개인배당금1위이재용",
   "이재용,올해상반기개인배당액728억…배당시행기업47.7%↑",
-  "\"AI거품이라더니\"…삼성전자·SK하이닉스,사상최대실적으로답했다"
+  "\"AI거품이라더니\"…삼성전자·SK하이닉스,사상최대실적으로답했다",
+  "이재용,상반기배당금1위...상법개정에배당기업48%↑",
+  "이재용728억·정몽구671억…상반기'배당부자'1·2위",
+  "상반기배당금1위이재용이어홍라희·이서현·이부진4~6위'싹쓸이'....",
+  "상법개정했더니상반기배당기업48%급증…삼성전자4.9조·현대자동차..."
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-08-04T07:40:19.400182+09:00",
    "사상 실적으로 거품이라더니 AI 삼성전자 SK하이닉스 답했다"
+  ],
+  [
+   "2026-08-04T07:50:23.085324+09:00",
+   "배당기업 삼성전자 개정했더니 급증 9조 상반기 현대자동차 상법"
   ]
  ],
- "last_run": "2026-08-04T07:40:32.907778+09:00",
+ "last_run": "2026-08-04T07:50:35.032572+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
