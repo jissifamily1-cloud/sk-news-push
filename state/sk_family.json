@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92767",
-  "https://www.news2day.co.kr/article/20260725500015",
-  "https://zdnet.co.kr/view/?no=20260725160202",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83158",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404714",
   "https://www.globale.co.kr/news/articleView.html?idxno=39511",
@@ -2999,12 +2996,12 @@
   "https://www.starnewskorea.com/broadcast-show/2026/08/04/2026080408054397554",
   "https://www.segye.com/newsView/20260804504428?OutUrl=naver",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000054243",
-  "https://www.viva100.com/article/20260804500072"
+  "https://www.viva100.com/article/20260804500072",
+  "https://www.asiatime.co.kr/article/20260804500002",
+  "http://www.fnnews.com/news/202608040738234288",
+  "https://view.asiae.co.kr/article/2026080408224756456"
  ],
  "seen_titles": [
-  "법원\"최태원,노소영에9440원지급\"…변호인단성공보수도역대급될...",
-  "삼성·SK,미빅테크와1,400조계약…\"대부분메모리장기공급\"",
-  "우리나라민화가오사카에온까닭은???",
   "'빅테크영토'확장한SK,'AI반도체·데이터센터'전방위글로벌협력...",
   "SK,글로벌빅테크와AI협력확대…‘메가프로젝트’탄력받나",
   "정의선회장\"현대차그룹,자동차넘어피지컬AI기업으로\"",
@@ -6001,7 +5998,10 @@
   "최원영,확신의기혼상..코르티스마틴과투샷보니[라디오스타]",
   "상반기배당기업50%급증…이재용회장,728억받아개인1위",
   "'상법개정'기업배당금\"13조원돌파\"…이재용수령액728억'1위'",
-  "상법개정후분기·반기배당기업47%증가⋯개인배당1위이재용"
+  "상법개정후분기·반기배당기업47%증가⋯개인배당1위이재용",
+  "개정상법효과…상반기분기·반기배당기업47.7%늘었다",
+  "이재용,올상반기728억배당받고1위…홍라희4위로밀려",
+  "상법개정후배당기업50%늘었다…배당금1위이재용회장"
  ],
  "recent_sigs": [
   [
@@ -6037,7 +6037,7 @@
    "배당기업 삼성전자 개정했더니 급증 9조 상반기 현대자동차 상법"
   ]
  ],
- "last_run": "2026-08-04T08:20:25.480743+09:00",
+ "last_run": "2026-08-04T08:30:42.228015+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
