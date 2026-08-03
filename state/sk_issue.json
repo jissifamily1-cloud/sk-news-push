@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202607271322006052",
-  "https://imnews.imbc.com/news/2026/society/article/6840335_36918.html",
-  "https://www.sisaweek.com/news/articleView.html?idxno=236906",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2290581",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/27/2026072790132.html",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250932",
-  "http://www.foodnews.co.kr/news/articleView.html?idxno=119525",
-  "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=67865",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=133494",
   "https://www.thepowernews.co.kr/view.php?ud=202607271339584808de3f0aa1be_7",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133497",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701167",
@@ -2999,18 +2990,18 @@
   "https://www.tbc.co.kr/news/view?pno=20260803143744AE03356&id=209237",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256076&CMPT_CD=P0010",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=849205",
-  "https://www.mt.co.kr/politics/2026/08/03/2026080314043678512"
+  "https://www.mt.co.kr/politics/2026/08/03/2026080314043678512",
+  "https://www.cstimes.com/news/articleView.html?idxno=715540",
+  "https://www.hankyung.com/article/202608031140i",
+  "https://magazine.hankyung.com/business/article/202608031821b",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071058",
+  "https://www.etnews.com/20260803000308",
+  "https://www.newsis.com/view/NISX20260803_0003734382",
+  "https://www.news1.kr/politics/assembly/6247484",
+  "https://www.yna.co.kr/view/AKR20260803102800001?input=1195m",
+  "https://www.ytn.co.kr/_ln/0103_202608031454389147"
  ],
  "seen_titles": [
-  "공정위,대금늦게주고지연이자12억안준라인건설제재",
-  "합수본,선관위압수수색재개‥6·3지선투표자수수정72건",
-  "장동혁,선관위투표율조작공세",
-  "이준석,與신천지의혹에\"종교와정치는분리…여야같은강도로수사...",
-  "경찰,도박사이트수사하다청각장애인연루된대포계좌유통조직등...",
-  "9440억어떻게마련하나…최태원SK회장앞에놓인4가지카드",
-  "공정위,치킨ㆍ커피ㆍ제과제빵등21개업종가맹분야실태조사",
-  "신미숙여의도책방-78",
-  "공정위,'한전파형관입찰담합'3개조합·7개사제재...과징금8.6억",
   "하도급대금늦게주고이자안줬다…라인건설11.6억미지급",
   "라인건설,하도급지연이자11억안줬다덜미...공정위시정명령",
   "KT,세무조사폭풍속'자회사합병·MS동맹'속도전",
@@ -6001,7 +5992,16 @@
   "'선거법위반'예천군수,구속전피의자심문",
   "제2의우병우나올수도...특별감찰관임명만으로끝나선안돼[김종성...",
   "주진우\"22대총선서도투표율조작159곳확인…수사안하면형사고발...",
-  "주진우\"22대총선도'쌍둥이투표율'…선관위,조직적조작정황\""
+  "주진우\"22대총선도'쌍둥이투표율'…선관위,조직적조작정황\"",
+  "가맹점주10%·1000명이상모이면단체등록…본부협의의무화",
+  "[단독]배민수수료·쿠팡정산기간공개한다…당정‘플랫폼상생법’...",
+  "“납품대금갑질”정부으름장에92억지급",
+  "\"위헌자문까지받고도\"선관위노동계까지등돌렸다",
+  "민주“형사사법새출발”vs국힘·개혁신당“거부권행사해야”",
+  "'300억원대사기혐의'차가원구속기로[뉴시스Pic]",
+  "주진우\"총선투표자수200→100→0명'쌍둥이조작'…전국5쌍10곳\"",
+  "국힘주진우\"'쌍둥이투표구'조작정황…합수본강제수사해야\"",
+  "특검\"원희룡,휴대전화암호제공않아...국과수서해제\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "남겼다 셈법 최태원은 팔고 SK는"
   ]
  ],
- "last_run": "2026-08-03T14:51:08.874888+09:00",
+ "last_run": "2026-08-03T15:01:19.951002+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
