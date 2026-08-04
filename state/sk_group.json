@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1398334",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627008",
-  "https://www.mk.co.kr/article/12115240",
-  "https://www.mt.co.kr/society/2026/08/03/2026080314571264634",
-  "https://www.sisajournal.com/news/articleView.html?idxno=382095",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661756",
-  "https://www.eroun.net/news/articleView.html?idxno=86906",
-  "https://www.thelec.kr/news/articleView.html?idxno=60440",
   "https://news.skbroadband.com/news/articleView.html?idxno=233873",
   "https://www.sedaily.com/article/20075168",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=308214",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/finance/general-stock/6249275",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=354347",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725622",
-  "http://www.inews24.com/view/1991903"
+  "http://www.inews24.com/view/1991903",
+  "https://www.yna.co.kr/view/AKR20260805005051072?input=1195m",
+  "https://biz.chosun.com/international/international_general/2026/08/05/CJ3FEV4NQRAFNEBD7NTLO4CN24/",
+  "https://www.mk.co.kr/article/12117177",
+  "https://www.news2day.co.kr/article/20260804500029",
+  "https://biz.sbs.co.kr/article_hub/20000326664?division=NAVER",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280657",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719126",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=354355"
  ],
  "seen_titles": [
-  "음식'혹평'도못막았다…이모카세,독일명가뮌헨선수들만났다[MD...",
-  "‘시총1→6위추락’일본반도체키오시아주가도튀었다…17%급등",
-  "코스피,지난주금요일엔17%대급등하더니…외국인·기관팔자에5%대...",
-  "삼전·하닉급락에코스피5%↓…코스닥,바이오·로봇타고반등",
-  "AI외교마친李대통령,귀국하자마자'부동산·증시'부터챙긴다",
-  "[특징주]펩트론,릴리'월1회GLP-1'생산벨트마지막퍼즐기대에상...",
-  "현대제철2분기실적보릿고개넘었나...\"반도체팹·데이터센터등공...",
-  "KOSPI200ClosingPriceList-4",
   "KOSPI200ClosingPriceList-2",
   "SK실트론인수하며반도체날개단두산…최태원'재산분할열쇠'도품...",
   "[마감시황]코스피,대장주투심약화에하락마감…레버리지청산이...",
@@ -6001,7 +5993,15 @@
   "\"테슬라2배는왜건드려요\"…단일레버리지유탄맞은서학개미",
   "충북수출80년,반도체가만든정점에선지금은",
   "[레버리지ETF의역습③]\"투자막을까,위험알릴까\"…한국은규제,해...",
-  "[단독]산업부,반도체클러스터공모추진…SK하이닉스도신청가능"
+  "[단독]산업부,반도체클러스터공모추진…SK하이닉스도신청가능",
+  "美S&P500지수2달만에최고치경신…유가80달러밑으로(종합)",
+  "美·이란협상기대감에뉴욕증시상승마감...S&P500최고치경신",
+  "AI메모리승부수…삼성‘통합’vsSK‘개방형’",
+  "[N2모닝경제브리핑-8월5일]美증시,미·이란협상진전에질주…다...",
+  "[외신헤드라인]AMD,데이터센터수요에실적'서프라이즈",
+  "뉴욕증시반도체강세에급등...다우존스·S&P500사상최고",
+  "레버리지거래92%증발한날코스닥5.9%급등…'쩐의풍선효과'촉각",
+  "이차전지'전국1위'충북,2년만에반토막"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,25 @@
   [
    "2026-08-05T06:21:31.911432+09:00",
    "신청 SK하이닉스도 산업부 공모 가능 반도체 클러스터"
+  ],
+  [
+   "2026-08-05T06:31:14.923714+09:00",
+   "수요에 AMD 서프라이즈 실적 데이터센터"
+  ],
+  [
+   "2026-08-05T06:31:14.923714+09:00",
+   "P500 급등 사상최고 뉴욕증시 반도체 다우존스 강세에"
+  ],
+  [
+   "2026-08-05T06:31:14.923714+09:00",
+   "증발한 급등 촉각 거래 풍선효과 레버리지 쩐의 코스닥"
+  ],
+  [
+   "2026-08-05T06:31:14.923714+09:00",
+   "만에 이차전지 전국 충북 반토막 1위 2년"
   ]
  ],
- "last_run": "2026-08-05T06:21:53.514717+09:00",
+ "last_run": "2026-08-05T06:31:29.294929+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
