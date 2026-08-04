@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2253581",
-  "http://www.gnmaeil.com/news/articleView.html?idxno=591916",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=114896",
-  "https://www.yna.co.kr/view/AKR20260802054000007?input=1195m",
-  "https://www.newsis.com/view/NISX20260802_0003733202",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374656",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207881",
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95747",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01515366645543712",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01505526645543712",
-  "https://www.chosun.com/economy/money/2026/08/03/6J5R7QN5PNFHNNYNK3ZNY6AGCY/",
   "https://www.dt.co.kr/article/12076102",
   "https://www.mt.co.kr/stock/2026/08/03/2026073116194540721",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046728",
@@ -2999,20 +2988,20 @@
   "https://www.chosun.com/economy/tech_it/2026/08/04/R2TCG4XGZZARZBL3D4FONMOQPI/",
   "https://www.m-i.kr/news/articleView.html?idxno=1398630",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432141",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628046"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628046",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1173269",
+  "https://news.jtbc.co.kr/article/NB12311623?influxDiv=NAVER",
+  "https://www.naeil.com/news/read/597649",
+  "https://www.newscj.com/news/articleView.html?idxno=3422331",
+  "https://www.naeil.com/news/read/597651",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274105",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023514",
+  "http://www.iminju.net/news/articleView.html?idxno=167555",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474201",
+  "http://www.beyondpost.co.kr/view.php?ud=2026080412464613142aaae0046f_30",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=49559"
  ],
  "seen_titles": [
-  "'김민재스승'콤파니,제주-인천맞대결직관…뮌헨관계자·구자철과...",
-  "삼전닉스폭등에도\"갈길멀다\"...아직목표가의'절반'",
-  "800조반도체품은320만메가시티…대한민국성장판열다",
-  "샌프란AI선언,희토류·원유협력…이대통령7박11일순방성과는",
-  "우리나라수출,7월에988억달러...AI·반도체수퍼사이클기반역대급...",
-  "제주월드컵경기장찾은빈센트콤파니뮌헨감독(포토)",
-  "개인정보위과징금에기업들잇단소송...법정공방확산될조짐",
-  "산업역사박물관에기록을남기다",
-  "초대형악재속경제·현장·실용…변화·활력실질성과이어질까",
-  "[442.interview]'은퇴'라는단어는어울리지않았다…노이어\"1년뒤계...",
-  "단일종목레버리지ETF후폭풍…신규ETF출시차질우려",
   "바이에른뮌헨콤파니감독,K리그1제주-인천전관전중[MK현장]",
   "\"세종에새공장\"…SK팜테코,펩타이드생산본격화",
   "[부고]정수영씨별세外",
@@ -6001,7 +5990,18 @@
   "SK하이닉스,차세대AI메모리HBF표준규격첫공개",
   "안성시의회\"고삼호수공장폐수직방류철회해야\"",
   "박건하감독'7월의사령탑'·문민서'영플레이어'…이동경은시즌세번...",
-  "[뉴스in뉴스]‘미일공동엔화작전’은성공?…‘걱정만더커지네’"
+  "[뉴스in뉴스]‘미일공동엔화작전’은성공?…‘걱정만더커지네’",
+  "SK이터닉스주가,급등세...왜?",
+  "\"지쳤다\"코스피떠나는개미들…반년만에거래대금급감",
+  "여권폰에쏠린관심…갤럭시Z사전판매144만대신기록",
+  "[축구]울산이동경,K리그121라운드MVP…시즌세번째",
+  "SK하이닉스,HBF첫표준규격공개",
+  "SK하이닉스,무디스신용등급첫A등급진입",
+  "[인터뷰]전재수부산시장\"시민의삶을최우선가치로시정운영할터...",
+  "'독파모'2차평가돌입…이달4팀→3팀압축",
+  "제약·바이오전반에부는온기…치매테마폭등랠리",
+  "삼전닉스,외인매도멈추니이젠기관이대량매도...4일두종목에서...",
+  "현대제철포항공장유휴부지,시민참여형태양광으로탈바꿈"
  ],
  "recent_sigs": [
   [
@@ -6999,9 +6999,29 @@
   [
    "2026-08-04T13:01:38.563641+09:00",
    "커지네 엔화작전 성공 미일 걱정만 공동"
+  ],
+  [
+   "2026-08-04T13:11:07.686779+09:00",
+   "삶을 운영할 최우선 시정 가치로 전재수 시민의 부산시장"
+  ],
+  [
+   "2026-08-04T13:11:07.686779+09:00",
+   "평가 이달 4팀 압축 3팀 독파모 2차 돌입"
+  ],
+  [
+   "2026-08-04T13:11:07.686779+09:00",
+   "바이오 폭등랠리 전반에 제약 온기 부는 테마 치매"
+  ],
+  [
+   "2026-08-04T13:11:07.686779+09:00",
+   "이젠 매도 삼전닉스 종목에서 대량 기관이 외인 멈추니 4일"
+  ],
+  [
+   "2026-08-04T13:11:07.686779+09:00",
+   "탈바꿈 참여형 현대제철 유휴부지 포항공장 시민 태양광으로"
   ]
  ],
- "last_run": "2026-08-04T13:01:47.788229+09:00",
+ "last_run": "2026-08-04T13:11:24.539037+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
