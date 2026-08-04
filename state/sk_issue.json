@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.intn.co.kr/news/articleView.html?idxno=2052212",
-  "https://www.kukinews.com/article/view/kuk202607280063",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2052217",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045289",
-  "https://www.mt.co.kr/society/2026/07/28/2026072811072276484",
-  "http://www.fnnews.com/news/202607281204555459",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/28/2026072800093.html",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1532093",
-  "http://www.spochoo.com/news/articleView.html?idxno=128083",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678401&plink=ORI&cooper=NAVER",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678395&plink=ORI&cooper=NAVER",
   "https://www.naeil.com/news/read/596770",
@@ -2999,18 +2990,18 @@
   "https://www.kyeonggi.com/article/20260804580259",
   "https://www.newscj.com/news/articleView.html?idxno=3422366",
   "https://news.jtbc.co.kr/article/NB12311639?influxDiv=NAVER",
-  "https://www.newsis.com/view/NISX20260804_0003735922"
+  "https://www.newsis.com/view/NISX20260804_0003735922",
+  "https://www.youthdaily.co.kr/news/article.html?no=224471",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51918",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260804.99099000805",
+  "https://www.dailian.co.kr/news/view/1674198/?sc=Naver",
+  "https://www.khan.co.kr/article/202608041437001",
+  "http://www.samdailbo.com/news/articleView.html?idxno=268525",
+  "https://www.sisajournal.com/news/articleView.html?idxno=382272",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000543332",
+  "https://www.dailian.co.kr/news/view/1674313/?sc=Naver"
  ],
  "seen_titles": [
-  "공정위,가맹사업법시행령개정안국무회의통과",
-  "프랜차이즈정보공개확대…분기별가맹점현황공개·폐업위약금까지...",
-  "공정위\"함께성장하는공정한시장환경조성...5개핵심과제추진중\"",
-  "경찰,'장윤기축소·은폐'前광산서형사과장구속영장재신청",
-  "경찰'3대특검특별수사본부'해산…전담수사팀체제전환",
-  "경찰'3대특검'특수본해산…'尹선상파티'의혹등16건송치",
-  "'3대특검특수본'8개월만운영종료…정진석·윤재선·강의구등송...",
-  "특수단,장윤기사건전형사과장영장재신청",
-  "\"직원한명이저지를규모아니다\"김포FC80억횡령…축구계\"사장·단...",
   "가맹점·직영점수공개연간→분기별단축…가맹사업법시행령개정",
   "하도급법반복위반사업자철퇴…과징금가중한도100%로상향",
   "공정위,담합일삼는기업‘시장퇴출’추진",
@@ -6001,7 +5992,16 @@
   "공정위,추석앞두고‘불공정하도급신고센터’운영…대금조기지급...",
   "하도급·가맹반복갑질땐과징금최대100%가중",
   "'이마트납품'돼지고기물가20%뻥튀기…1조2천억담합'도드람'등재...",
-  "'미성년자성매수'최영중여죄수사속도…추가압색자료분석"
+  "'미성년자성매수'최영중여죄수사속도…추가압색자료분석",
+  "돼지고기유통업체6곳기소…검찰\"6년담합으로가격최소20%상승\"",
+  "6개업체담합해돼지고깃값20%올려",
+  "검찰,6년간삼겹살가격20%넘게올린담합유통업체들기소",
+  "“30%예상깨졌다”…점주단체기준에프랜차이즈업계‘비상’",
+  "공수처,‘서해피격사건위증의혹’제주해경청압수수색",
+  "공수처,'서해공무원피격위증'제주해경압수수색",
+  "공수처,'서해공무원피격위증의혹'제주해양경찰청압수수색",
+  "공수처,‘서해피격사건위증’해경압수수색",
+  "공수처,'서해공무원피격위증'관련제주해경청압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 5G 간다 SKT 과징금"
   ]
  ],
- "last_run": "2026-08-04T14:31:20.600606+09:00",
+ "last_run": "2026-08-04T14:40:58.361179+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
