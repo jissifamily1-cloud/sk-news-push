@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=267857",
   "https://www.cbci.co.kr/news/articleView.html?idxno=591875",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83169",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51687",
@@ -2999,10 +2998,10 @@
   "https://www.bloter.net/news/articleView.html?idxno=669913",
   "https://www.dailian.co.kr/news/view/1674324/?sc=Naver",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520766",
-  "https://biz.sbs.co.kr/article_hub/20000326532?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000326532?division=NAVER",
+  "http://news.inochong.org/detail.php?number=6542&thread=23r16"
  ],
  "seen_titles": [
-  "SK,엔비디아와5000억달러AI동맹…최태원\"한국을AI인프라허브로\"",
   "차에서공장·도시까지지능화…정의선,현대차그룹'피지컬AI'청사진",
   "삼성,글로벌리더들앞에서290조AI동맹…브로드컴과HBM·2나노협력",
   "SK-엔비디아,'5천억달러'AI인프라동맹…최태원\"세계최고AI팩토리...",
@@ -6001,13 +6000,10 @@
   "'커진배당판'최대수혜자는삼성家…상반기1925억수령",
   "AI호황에도실트론판SK…성장성보다자본효율택했다",
   "이재용,상반기배당728억'1위'...상법개정후주주환원본격화",
-  "[투자전략따라잡기]역대급실적에도…꺼지지않는'메모리고점론’"
+  "[투자전략따라잡기]역대급실적에도…꺼지지않는'메모리고점론’",
+  "AI시대의청구서"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T09:10:14.087299+09:00",
-   "CXMT 똑같은 했나 반도체 복기 충격 위기때 독일은"
-  ],
   [
    "2026-08-04T09:20:19.840478+09:00",
    "주주들 밤잠 설치게 액면분할 SK하이닉스 소문의 삼성전자처럼"
@@ -6095,9 +6091,13 @@
   [
    "2026-08-04T14:50:14.457899+09:00",
    "메모리 역대급 않는 고점론 실적에도 꺼지지"
+  ],
+  [
+   "2026-08-04T15:10:17.521304+09:00",
+   "AI 시대의 청구서"
   ]
  ],
- "last_run": "2026-08-04T15:00:39.933622+09:00",
+ "last_run": "2026-08-04T15:10:31.066098+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6395,6 +6395,7 @@
   "bizhankook.com": "bizhankook.com",
   "jndn.com": "jndn.com",
   "woodkorea.co.kr": "한국목재신문",
-  "ezyeconomy.com": "이지경제"
+  "ezyeconomy.com": "이지경제",
+  "news.inochong.org": "news.inochong.org"
  }
 }
