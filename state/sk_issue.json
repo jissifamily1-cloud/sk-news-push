@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6554668",
-  "https://news.koreanbar.or.kr/news/articleView.html?idxno=35948",
-  "https://www.seoul.co.kr/news/society/law/2026/07/28/20260728500236?wlog_tag3=naver",
-  "https://www.newsis.com/view/NISX20260728_0003726896",
-  "https://www.jbnews.com/news/articleView.html?idxno=1508458",
-  "https://www.khan.co.kr/article/202607281645001",
-  "https://www.newspim.com/news/view/20260728001043",
-  "https://www.inews365.com/news/article.html?no=929631",
   "https://www.thepublic.kr/news/articleView.html?idxno=312926",
   "https://www.hani.co.kr/arti/opinion/column/1270352.html",
   "https://www.bntnews.co.kr/article/view/bnt202607280247",
@@ -2999,17 +2991,17 @@
   "https://www.mediapen.com/news/view/1114237",
   "https://www.korea.kr/news/policyNewsView.do?newsId=148969350&call_from=naver_news",
   "https://www.sisajournal.com/news/articleView.html?idxno=382335",
-  "http://sateconomy.co.kr/news/view/1065603208916360"
+  "http://sateconomy.co.kr/news/view/1065603208916360",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428603",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1785831770&code=11131900&cp=nv",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1785835396&code=11121600&cp=nv",
+  "https://www.mk.co.kr/article/12116611",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428600",
+  "https://www.donga.com/news/Society/article/all/20260804/134420872/1",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260804184021J9D",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1785832301&code=11131900&cp=nv"
  ],
  "seen_titles": [
-  "경찰가족사건44건이관…전북10건중5건이관",
-  "[자유기고]시스템은하루아침에만들어지지않는다",
-  "민주당‘신천지입당’봐주기수사논란에…합수본“조직적강요확...",
-  "특검,김용현구치소방문조사…1시간30분만에종료(종합)",
-  "경찰'아동성매매혐의'최영중전청주시의원구속영장신청",
-  "[속보]종합특검,‘관저이전의혹’국힘윤한홍8월1일소환조사",
-  "美의회가제기한'쿠팡차별론'…주병기\"배민·네이버와동일기준\"",
-  "경찰,미성년자성매매혐의최영중전청주시의원,2차조사하루만에...",
   "[선관위게이트]22대총선때도'투표수조작'감사청구됐지만...선관...",
   "(보완)수사권폐지,검찰개혁오디세이의끝[아침햇발]",
   "‘중학생과성관계혐의’최영중전청주시의원구속영장신청",
@@ -6001,7 +5993,15 @@
   "공정위,‘시장질서대개혁’시동…플랫폼·재벌·담합전방위개선",
   "하반기민생불공정행위엄정대응…플랫폼·대기업집단감시강화",
   "李대통령\"공정위,'경제검찰'역할제대로\"…노동부엔\"산재·체불감...",
-  "가벼운접촉사고에3000만원…車보험료잡아먹는한방진료비"
+  "가벼운접촉사고에3000만원…車보험료잡아먹는한방진료비",
+  "李대통령\"코로나대출,소상공인에부담떠넘겨…개인책임으로둘수...",
+  "‘금겹살’만든6년짬짜미…대형마트납품업체6곳재판행",
+  "李대통령“힘센대기업에착취당하는산업구조바꿔야”",
+  "‘금겹살’만든돼지고기유통사…6년간1조2천억담합",
+  "李대통령,장차관들에\"저는집에있는게휴가…직원들편히휴가보내...",
+  "6년간1.2조규모삼겹살값담합…도드람등6개유통업체기소",
+  "주병기\"영세소상공인배달앱수수료낮게…법률상가능\"",
+  "[단독]중국에최신OLED도면넘겼는데‘구속불발’논란"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "LTE랑 속도 1등 SKT가 비교하고 경쟁사 5G"
   ]
  ],
- "last_run": "2026-08-04T18:41:03.827234+09:00",
+ "last_run": "2026-08-04T18:55:30.039760+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
