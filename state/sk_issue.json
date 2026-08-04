@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=167227",
-  "https://www.mydaily.co.kr/page/view/2026072813423404038",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=59426",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030091",
-  "https://news.skbroadband.com/news/articleView.html?idxno=233312",
-  "https://www.kwnews.co.kr/article/20260728500733",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396146",
-  "https://www.kado.net/news/articleView.html?idxno=2063528",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260728512&PRO_CODE=99",
   "https://www.etoday.co.kr/news/view/2608293",
   "https://www.pennmike.com/news/articleView.html?idxno=124531",
   "http://weekly.chosun.com/news/articleView.html?idxno=53830",
@@ -2999,18 +2990,18 @@
   "http://www.metroseoul.co.kr/article/20260804500378",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599897145017",
   "https://www.m-economynews.com/news/article.html?no=69421",
-  "https://www.sidae.com/article/2026080408090029079"
+  "https://www.sidae.com/article/2026080408090029079",
+  "https://www.dt.co.kr/article/12076463",
+  "https://www.seoulfn.com/news/articleView.html?idxno=634891",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=203235",
+  "https://www.kyeonggi.com/article/20260804580266",
+  "https://newstapa.org/article/9qI00",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/04/2026080490197.html",
+  "https://www.ajunews.com/view/20260804153711668",
+  "https://www.nocutnews.co.kr/news/6558095",
+  "https://www.donga.com/news/Society/article/all/20260804/134418828/1"
  ],
  "seen_titles": [
-  "공정위,담합기업에칼빼들었다…\"상습시등록취소·영업정지\"",
-  "'1억원횡령혐의'축구인,솜방망이처벌논란...겨우1년자격정지징...",
-  "네이버·두나무합병변수,공정위결합심사의견나오나?",
-  "유정복전인천시장'가상자산은닉의혹'압수수색…경찰강제수사착...",
-  "가상자산은닉의혹...유정복전시장압수수색",
-  "신천지‘민주당가입’진술도나왔다…합수본“조직적강요는미확인...",
-  "상반기車보험,6년만에'적자'…한방진료에손해율상승",
-  "경찰'3대특검특수본'8개월활동종료…전담수사팀체제전환",
-  "[속보]‘여중생성매수’혐의최영중전청주시의원구속영장",
   "주병기\"담합반복하는기업에등록취소·영업정지추진\"",
   "검경,송파선관위직원2명피의자조사소환···선거소청결과는8월...",
   "교사'몰카'찍다들킨아들…경찰아버지는증거휴대전화부쉈다",
@@ -6001,7 +5992,16 @@
   "프랜차이즈,고정비·규제·소비침체에'흔들'…매출사각지대없앤다",
   "메리츠증권잇단잡음…투자자핵심질문엔답없었다",
   "공수처,‘서해공무원피격’관련전제주해경청장위증혐의2차강제...",
-  "[시대리포트]행사할수없는권리…발달장애인방어권'유명무실'"
+  "[시대리포트]행사할수없는권리…발달장애인방어권'유명무실'",
+  "6년간1.2조쥐락펴락…서민밥상피빤‘돼지고기카르텔’적발",
+  "돼지고기납품가6년담합···1조2천억규모기소",
+  "상조,장례품앗이서11兆산업으로…초고령사회'마지막복지'되다",
+  "\"돼지고기값20%올렸다\"…검찰,유통업체6년담합·1조2천억원거래적...",
+  "“죄질이가볍지않은”397억원짜리거짓말",
+  "공수처,'서해피격위증의혹'前제주해경청장압수수색",
+  "국민의힘,'국민참정권수호법'마련...\"선관위조작실태밝혀야\"",
+  "공수처,서해공무원피격'위증'관련제주해경청압수수색",
+  "李,형소법개정안의결“수사·기소분리는형사사법시스템정상화..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "LTE랑 속도 1등 SKT가 비교하고 경쟁사 5G"
   ]
  ],
- "last_run": "2026-08-04T15:41:08.045201+09:00",
+ "last_run": "2026-08-04T15:51:10.596363+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
