@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=127157",
   "https://www.kwnews.co.kr/article/20260721500147",
   "https://biz.chosun.com/topics/law_firm/2026/07/21/R6HSFITYE5FWDGQDPKTV7NEYLU/",
   "https://www.mt.co.kr/society/2026/07/21/2026072109021057836",
@@ -2999,10 +2998,10 @@
   "https://www.newsverse.kr/news/articleView.html?idxno=11086",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254101&CMPT_CD=P0010",
   "https://www.sedaily.com/article/20071779",
-  "https://www.etoday.co.kr/news/view/2611006"
+  "https://www.etoday.co.kr/news/view/2611006",
+  "https://www.news1.kr/industry/distribution/6248747"
  ],
  "seen_titles": [
-  "이혜원중부재단명예이사장,이화여대건립기금5억원기부",
   "이화여대동문이혜원중부재단명예이사장EwhaWestCampus건립기금5...",
   "수도권·충청50㎜폭우…당분간강한장맛비",
   "\"모교사랑에5억선뜻\"…이화여대,이혜원중부재단명예이사장건립...",
@@ -6001,15 +6000,20 @@
   "[오늘의경제뉴스]하이닉스가쏘아올린공...'스펙채용'의종말,'실...",
   "우리나라민화가오사카에온까닭은???",
   "최태원·노소영재산분할에‘2조SK주식’포함,판단근거는[서초동...",
-  "[데스크시각]최태원의‘절제학’"
+  "[데스크시각]최태원의‘절제학’",
+  "[기자의눈]반도체만있는게아니다…조용하지만강한'K-푸드'"
  ],
  "recent_sigs": [
   [
    "2026-08-05T06:10:22.001116+09:00",
    "최태원의 절제학"
+  ],
+  [
+   "2026-08-05T06:41:49.734495+09:00",
+   "조용하지만 반도체만 아니다 푸드 강한 있는"
   ]
  ],
- "last_run": "2026-08-05T06:40:25.269724+09:00",
+ "last_run": "2026-08-05T06:42:04.899425+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
