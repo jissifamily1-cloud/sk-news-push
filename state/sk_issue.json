@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260728000525",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621968",
-  "https://www.newspim.com/news/view/20260728000502",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260727170046uWC",
-  "https://www.m-i.kr/news/articleView.html?idxno=1395621",
-  "https://biz.sbs.co.kr/article_hub/20000325073?division=NAVER",
-  "https://www.news1.kr/society/court-prosecution/6241273",
-  "http://www.fnnews.com/news/202607281146532875",
   "https://biz.sbs.co.kr/article_hub/20000325067?division=NAVER",
   "http://www.fnnews.com/news/202607281149402829",
   "https://www.bntnews.co.kr/article/view/bnt202607280177",
@@ -2999,17 +2991,17 @@
   "https://www.kbmaeil.com/article/20260804500379",
   "https://www.busan.com/view/busan/view.php?code=2026080413243374980",
   "http://www.fnnews.com/news/202608041151144656",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/04/2026080490136.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/04/2026080490136.html",
+  "https://biz.sbs.co.kr/article_hub/20000326523?division=NAVER",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000000695&cp=nv",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849343",
+  "http://www.newskr.kr/news/articleView.html?idxno=105331",
+  "http://news.lghellovision.net/news/articleView.html?idxno=550148",
+  "https://imnews.imbc.com/news/2026/society/article/6842296_36918.html",
+  "https://www.sedaily.com/article/20075510",
+  "https://www.chosun.com/national/court_law/2026/08/04/7AMIYDL6YVH5VN2GUI33E76GWY/"
  ],
  "seen_titles": [
-  "경찰,'가상자산은닉의혹'유정복전인천시장집등압수수색",
-  "송파구선관위2명‘직무유기’피의자입건…투표지일련번호중복정...",
-  "공수처\"수사절차40여개조문,공수처법에신설해야\"…국회의견제출",
-  "공기청정기호환필터성능대체로낮아…일부선'가습기살균제'성분도",
-  "'대웅제약거점도매'나비효과예고…약가인하가초래한제약∙유통분...",
-  "가맹점생존율·위약금공개된다…\"점주알권리보장\"",
-  "공수처\"중수청고위공무원도공수처수사대상에포함해야\"",
-  "가맹창업정보더쉽게본다…요약본신설·분기별갱신",
   "계란값논란…정부'산란계협회퇴출'카드꺼냈다",
   "주병기\"담합반복기업등록취소·영업정지추진\"",
   "여교사불법촬영사건…아들휴대전화증거물부순경찰관",
@@ -6001,7 +5993,15 @@
   "“삼겹살왜비쌌나했더니”…6년담합에가격20%↑",
   "공정위,추석명절대비'불공정하도급신고센터'운영",
   "'1조2000억담합'뒤통수맞은소비자...돼지고기값6년간올린'짬짜미...",
-  "금겹살이유있었다…삼겹살가격20%올린유통업체들적발"
+  "금겹살이유있었다…삼겹살가격20%올린유통업체들적발",
+  "하도급·가맹제재강화…오늘부터법위반반복시과징금최대2배",
+  "금겹살만든‘비밀대화방’…대형마트납품업체담합적발",
+  "이마트돼지고기'텔레그램'담합납품…유통업체6곳기소",
+  "돼지고기납품가격수백차례담합…유통업체6곳법정으로",
+  "'군수선거법위반의혹'무안압수수색",
+  "공수처,'서해공무원피격위증의혹'전제주해경청장추가압수수색",
+  "‘월북판단번복’위증의혹…공수처,제주해경청압수수색",
+  "공수처,‘서해피격국회위증’제주해경압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 5G 간다 SKT 과징금"
   ]
  ],
- "last_run": "2026-08-04T13:32:35.993525+09:00",
+ "last_run": "2026-08-04T13:41:02.566667+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
