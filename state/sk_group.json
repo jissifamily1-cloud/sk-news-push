@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=80547",
-  "https://www.m-i.kr/news/articleView.html?idxno=1398344",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169262",
-  "https://www.mt.co.kr/finance/2026/08/03/2026080315290742003",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3654424",
-  "https://www.chosun.com/economy/industry-company/2026/08/03/MCWZUER54VFOXO47Q73OYIS4EI/",
-  "https://www.ekn.kr/web/view.php?key=20260803028328886",
-  "https://www.donga.com/news/Sports/article/all/20260803/134412073/1",
-  "https://www.dt.co.kr/article/12076264",
-  "https://www.dailian.co.kr/news/view/1673959/?sc=Naver",
   "https://zdnet.co.kr/view/?no=20260803164056",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/03/2026080300234.html",
   "https://www.imaeil.com/page/view/2026080316253594465",
@@ -2999,19 +2989,19 @@
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361264",
   "https://www.nocutnews.co.kr/news/6558323",
   "https://www.etoday.co.kr/news/view/2611049",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256582&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256582&CMPT_CD=P0010",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=85645",
+  "https://biz.heraldcorp.com/article/10831056",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6842499_37012.html",
+  "https://www.ajunews.com/view/20260804170647014",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=62442",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02709286645544368",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02702726645544368",
+  "https://news.bizwatch.co.kr/article/mobile/2026/08/04/0024",
+  "https://www.news1.kr/industry/general-industry/6249106",
+  "https://www.ytn.co.kr/_ln/0102_202608050737109429"
  ],
  "seen_titles": [
-  "[시황]코스피,6500선회복하루만에…6200선급락마감",
-  "엑스코프리로체력키운SK바이오팜,신제품·AI신약으로성장동력확...",
-  "外人투매,코스피'급락'...삼전·닉스8%대'뚝'",
-  "상한가찍은'닉스'도하루만에와르르…'삼전'까지8%대급락",
-  "'삼전닉스'나란히8%대급락…'차익실현'외인수급주목[핫종목](종합...",
-  "급반등이후쉬어가기...코스피,5.1%하락마감",
-  "'6조몸값'SK실트론,언아웃발동가능성있나",
-  "삼전닉스,또8%대급락마감…외국인·기관'팔자'에코스피휘청",
-  "코스피,외국인·기관매도에5%급락···코스닥은2%상승'엇갈린장...",
-  "[거래소기관]삼성전자·SK하이닉스매도...대덕전자·에이피알은집중...",
   "[체크!ETF]반도체흔들려도…삼성·한화운용,CPU·메모리ETF출격",
   "[Invest]ETF괴리율조인다면서종가10분은'무방비'…동시호가수급공...",
   "SKT,'AI그림일기'교육지원…KT는외국인인터넷할인",
@@ -6001,7 +5991,17 @@
   "美·이란협상낙관에뉴욕증시상승…나스닥2.6%↑",
   "SNS일찍시작할수록공부못한다[오늘아침]",
   "월가6개금융사,SK하이닉스매수·비중확대의견...“저평가상태”",
-  "[손병관의뉴스프레소]7개월만에'수도권5만호추가공급안'나온다"
+  "[손병관의뉴스프레소]7개월만에'수도권5만호추가공급안'나온다",
+  "미·이란협상진전기대에뉴욕증시최고치-국제유가5%대급락",
+  "美S&P500·다우지수최고치경신…SK하이닉스ADR8％↑[투자360]",
+  "美S&P500지수2달만에최고치경신‥유가80달러밑으로",
+  "[아주증시포커스]단일종목레버리지규제'풍선효과'?모처럼훈풍불...",
+  "S&P500,두달만에최고치…유가80달러선붕괴에뉴욕증시'랠리'",
+  "딥노이드·펩트론上…엘앤씨바이오는유상증자에약세[바이오맥짚기]",
+  "DeepnoidandPeptronHitDailyLimit,L&CBioFallsonRightsOffering[",
+  "SKT,보상플랫폼실험…'리워드링크'출시",
+  "'최고가격제'손실보상시작부터난관…손실규모'10배'차이",
+  "[스타트경제]근원물가31개월만에최대폭상승...8월금통위,'기준..."
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,29 @@
   [
    "2026-08-05T07:41:03.977665+09:00",
    "7개월 나온다 5만호 추가공급안 수도권 만에"
+  ],
+  [
+   "2026-08-05T07:48:04.271872+09:00",
+   "엘앤씨바이오는 펩트론 유상증자에 약세 딥노이드"
+  ],
+  [
+   "2026-08-05T07:48:04.271872+09:00",
+   "Falls Bio Peptron Deepnoid Limit Hit Daily and Offering Rights on"
+  ],
+  [
+   "2026-08-05T07:48:04.271872+09:00",
+   "리워드링크 실험 SKT 출시 플랫폼 보상"
+  ],
+  [
+   "2026-08-05T07:48:04.271872+09:00",
+   "규모 최고가격제 난관 차이 손실 시작부터 10배 보상"
+  ],
+  [
+   "2026-08-05T07:48:04.271872+09:00",
+   "8월 기준 상승 근원물가 31개월 금통위 만에"
   ]
  ],
- "last_run": "2026-08-05T07:41:15.091838+09:00",
+ "last_run": "2026-08-05T07:48:21.420427+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
