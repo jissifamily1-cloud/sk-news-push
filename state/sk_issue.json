@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/topics/topics_social/2026/07/28/SGNQMZC2SFEZFGMPPNV4BS3DJY/",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244509",
-  "https://www.hankookilbo.com/news/article/A2026072811060002621?did=NA",
-  "https://www.newscj.com/news/articleView.html?idxno=3420471",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16147597",
   "https://www.ngonews.kr/news/articleView.html?idxno=233946",
   "https://www.munhwa.com/article/11605464",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621941",
@@ -2999,14 +2994,14 @@
   "http://www.inews24.com/view/1991641",
   "https://www.joongang.co.kr/article/25450673",
   "https://www.ytn.co.kr/_ln/0102_202608041147355260",
-  "http://www.jmbc.co.kr/news/view/66774"
+  "http://www.jmbc.co.kr/news/view/66774",
+  "http://www.impacton.net/news/articleView.html?idxno=19748",
+  "http://www.joseilbo.com/news/news_read.php?uid=573211&class=32",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000543292",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210172",
+  "https://biz.sbs.co.kr/article_hub/20000326508?division=NAVER"
  ],
  "seen_titles": [
-  "‘가상자산은닉의혹’유정복前인천시장자택·시청사무실압수수색",
-  "선관위'투표용지부족'수사본격화…송파직원2명피의자소환",
-  "유정복전인천시장가상자산은폐의혹강제수사",
-  "합수본,송파구선관위직원피의자소환조사",
-  "'스모킹건'밝힌가지산여대생살인,충격적진실공개",
   "'장윤기사건'이어또…'불법촬영'아들스마트폰부순경찰간부",
   "경찰,‘코인은닉의혹’유정복전인천시장강제수사…자택·시청압...",
   "경찰,‘가상자산신고고의누락’의혹유정복전인천시장압수수색",
@@ -6001,10 +5996,20 @@
   "본부도점주도\"재검토해달라\"⋯가맹단체요건두고진통[어떻게생각...",
   "“삼겹살비싸더라니”6년간담합,마트고기값20%올린업체들",
   "하도급·가맹반복적'갑질'과징금최대100%가중",
-  "'증거인멸·핑퐁수사·폭행의혹까지\"..전북경찰청장\"기강해이엄정..."
+  "'증거인멸·핑퐁수사·폭행의혹까지\"..전북경찰청장\"기강해이엄정...",
+  "EFRAG,비EU기업ESG공시초안공개…기후는글로벌,인권·환경은EU영...",
+  "1.2조원대'돼지고기가격담합'…유통사6곳·임직원12명무더기기소",
+  "국민의힘,선관위‘투표율허위입력’에“전광판조작하다걸린심판...",
+  "[아침&피플]몰랐다면서...최영중폰에서또발견된'미성년여성신체...",
+  "SKT5G과장광고과징금,대법원간다"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-04T11:50:59.734666+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-04T12:01:02.511712+09:00",
+   "과장광고 대법원 5G 간다 SKT 과징금"
+  ]
+ ],
+ "last_run": "2026-08-04T12:01:10.069454+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
