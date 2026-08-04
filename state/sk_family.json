@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=741537",
-  "https://news.jtbc.co.kr/article/NB12310164?influxDiv=NAVER",
-  "https://www.thelec.kr/news/articleView.html?idxno=60042",
-  "https://news.jtbc.co.kr/article/NB12310172?influxDiv=NAVER",
-  "https://www.ytn.co.kr/_ln/0103_202607251839217716",
   "https://www.econovill.com/news/articleView.html?idxno=746149",
   "http://www.efnews.co.kr/news/articleView.html?idxno=131205",
   "http://www.efnews.co.kr/news/articleView.html?idxno=131206",
@@ -2999,14 +2994,14 @@
   "https://www.nocutnews.co.kr/news/6557746",
   "https://www.smarttoday.co.kr/ko-kr/articles/110068",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=849294",
-  "https://www.econovill.com/news/articleView.html?idxno=747049"
+  "https://www.econovill.com/news/articleView.html?idxno=747049",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3009598",
+  "https://www.newsis.com/view/NISX20260804_0003735376",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661837",
+  "http://www.newsbrite.net/news/articleView.html?idxno=199585",
+  "http://www.4th.kr/news/articleView.html?idxno=2115753"
  ],
  "seen_titles": [
-  "李대통령“요즘韓주가조정중”말하자…젠슨황“곧다시오를...",
-  "SK,美실리콘밸리서빅테크연합…5천억규모AI인프라구축",
-  "“우린식구다”…한미빅테크,반도체동맹체결",
-  "李,글로벌AI리더만찬서'대체불가대한민국'AI비전강조",
-  "이대통령'샌프란AI선언'…\"대체불가AI공급망핵심국가로\"",
   "이재명대통령-샘올트먼오픈AICEO,단독면담",
   "미국판'깐부회동'즐긴이대통령…\"식구!\"건배사에'화기애애'",
   "외신도주목한'세기의이혼'최태원-노소영재산분할9,440억원",
@@ -6001,7 +5996,12 @@
   "'씨름역대최장기록썼다'한라급김무호시대활짝,23연승+7번연속...",
   "상반기개인배당1위728억이재용...삼성家4·5·6위포진",
   "상반기개인배당액1위이재용728억…정몽구·정몽준뒤이어",
-  "상반기배당공시기업48%급증…이재용삼성전자회장728억원'개인배..."
+  "상반기배당공시기업48%급증…이재용삼성전자회장728억원'개인배...",
+  "'경기도산모·소아생존체계고도화'논의의장마련",
+  "\"출생느는데병상은감소\"…경기도마저'의료공백'",
+  "개인배당금1위이재용…상법개정후배당48%↑",
+  "상법개정이후배당늘었다...이재용,개인배당728억1위차지",
+  "상법개정에배당기업급증…상반기13조배당,이재용728억1위"
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "회장 주당 중간배당 1500원 전망 194억 수령"
   ]
  ],
- "last_run": "2026-08-04T10:20:25.720986+09:00",
+ "last_run": "2026-08-04T10:30:33.522595+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
