@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/area/capital/1270273.html",
-  "https://www.chosun.com/national/incident/2026/07/28/DAYC7X2OPJCHLAWJSDGDO234DI/",
-  "https://www.segye.com/newsView/20260728507000?OutUrl=naver",
-  "https://www.busan.com/view/busan/view.php?code=2026072811020754362",
-  "https://www.ytn.co.kr/_ln/0103_202607281123187156",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607280321&t=NN",
   "https://biz.heraldcorp.com/article/10822766",
   "https://www.ajunews.com/view/20260728090958492",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427240",
@@ -2999,15 +2993,15 @@
   "https://www.munhwa.com/article/11607135",
   "https://www.wikitree.co.kr/articles/1150303",
   "http://www.seouleconews.com/news/articleView.html?idxno=92832",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628022"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628022",
+  "http://www.nongaek.com/news/articleView.html?idxno=96303",
+  "https://www.kbsm.net/news/view.php?idx=529099",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256887",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80301",
+  "https://www.newsis.com/view/NISX20260804_0003735717",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256374&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "[단독]장애인직원성폭행한간부…장애인공단점검서는‘특이사항없...",
-  "‘가상자산은닉의혹’유정복전시장…경찰,압수수색",
-  "합수본,선관위직원첫자체입건…직무유기혐의",
-  "교사불법촬영하려다들킨아들,추궁하다휴대폰부순경찰은'아버지...",
-  "'가상자산신고누락'유정복전인천시장압수수색",
-  "엘앤에프,악재공시전자사주처분에\"손실회피아냐\"",
   "공정위원장“상습담합기업등록취소·영업정지추진”…플랫폼불공...",
   "주병기위원장\"독점적온라인플랫폼의불공정행위,법과원칙에따라...",
   "주병기\"대·중소기업간힘의불균형해소중점추진\"",
@@ -6001,7 +5995,13 @@
   "이럴수가!‘국민삼겹살’도담합…9개사,6년간1.2조‘짬짜미영...",
   "삼겹살가격이왜이렇게비싼가했더니…이렇게추악한이유있었다",
   "6년간1.2조'돼지고기담합'…유통업체6곳,임직원12명기소",
-  "[단독]공수처,‘서해공무원피격위증’관련제주해경청압수수색"
+  "[단독]공수처,‘서해공무원피격위증’관련제주해경청압수수색",
+  "하도급·가맹'상습갑질'막는다…과징금최대100%가중",
+  "불법다단계신고포상금‘1000만원상한’폐지…과징금최대10%지급",
+  "15%앞둔한화의KAI경영권승부···정부가쥔마지막열쇠",
+  "방문판매신고포상금,과징금의10%로↑...임직원도지급대상",
+  "'1조2000억'대형마트돼지고기납품가담합…육가공업체6곳재판행(종...",
+  "'선거법위반의혹'경찰,무안군청압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 5G 간다 SKT 과징금"
   ]
  ],
- "last_run": "2026-08-04T12:11:06.955861+09:00",
+ "last_run": "2026-08-04T12:20:52.089749+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
