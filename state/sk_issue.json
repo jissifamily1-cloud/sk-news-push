@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202607281138001",
-  "https://sports.donga.com/ent/article/all/20260728/134378139/1",
-  "https://www.asiatime.co.kr/article/20260728500162",
-  "https://biz.heraldcorp.com/article/10822801",
-  "https://biz.heraldcorp.com/article/10822802",
   "http://www.yonhapnewstv.co.kr/news/AKR20260728114738HuS",
   "https://www.sportsseoul.com/news/read/1625036",
   "https://www.electimes.com/news/articleView.html?idxno=370715",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628031",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008689497&plink=ORI&cooper=NAVER",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04470646645544040",
-  "https://www.newsis.com/view/NISX20260804_0003735729"
+  "https://www.newsis.com/view/NISX20260804_0003735729",
+  "https://www.joongang.co.kr/article/25450683",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7177386",
+  "https://www.news1.kr/society/court-prosecution/6248590",
+  "https://www.etoday.co.kr/news/view/2610809",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628040"
  ],
  "seen_titles": [
-  "경찰‘해외코인신고누락’혐의유정복전인천시장집·시청압수수...",
-  "가지산서숨진21세여대생…용의자만20명범인‘경악’",
-  "엘앤에프,금감원수사착수에…\"테슬라공시적법,자사주손실회피목...",
-  "전기·연료비도하도급대금연동대상…지급보증예외축소",
-  "프랜차이즈창업전‘폐업위약금·생존율’알수있다…가맹정보공...",
   "대기업일수록과징금더세게…공정위,체계개편추진",
   "[단독]축구개혁방해하는기준미달솜방망이징계,1억원횡령‘징역...",
   "전기·열도하도급대금연동…하도급법시행령개정안국무회의통과",
@@ -6001,7 +5996,12 @@
   "‘돼지고기’담합으로고기값20%인상…‘조사반’뜨자증거인멸도",
   "\"1조2천억원어치팔았다\"알고보니…6년간당했다",
   "'불법촬영'아들휴대전화부순현직경찰…전북경찰청장\"송구\"",
-  "국힘선관위개혁특위\"투표자수조작,부실아닌부정…대선전산도..."
+  "국힘선관위개혁특위\"투표자수조작,부실아닌부정…대선전산도...",
+  "6년간삼겹살가격20%넘게올린주범…유통업체6곳기소",
+  "6년간이마트돼지고기값'1조2000억원'담합…유통사6곳기소",
+  "[속보]공수처'서해공무원피격위증'제주해경청재차압수수색",
+  "[속보]공수처,서해피격공무원사건관련제주해경청압수수색",
+  "경찰,‘공직선거법위반의혹’무안군청압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 5G 간다 SKT 과징금"
   ]
  ],
- "last_run": "2026-08-04T12:31:08.233448+09:00",
+ "last_run": "2026-08-04T12:40:58.957375+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
