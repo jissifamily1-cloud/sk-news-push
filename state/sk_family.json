@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businessplus.kr/news/articleView.html?idxno=114608",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=591873",
-  "https://www.joongang.co.kr/article/25448117",
-  "https://www.mt.co.kr/industry/2026/07/26/2026072514201455734",
   "https://www.mt.co.kr/industry/2026/07/26/2026072416165518625",
   "https://www.news1.kr/politics/president/6238863",
   "https://www.nocutnews.co.kr/news/6553242",
@@ -2999,13 +2995,13 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=313718",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356923",
   "https://www.dailian.co.kr/news/view/1674299/?sc=Naver",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356925"
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356925",
+  "https://www.starnewskorea.com/broadcast-show/2026/08/04/2026080413463893065",
+  "https://www.sisajournal.com/news/articleView.html?idxno=382235",
+  "https://www.newsway.co.kr/news/view?ud=2026080411085696286",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689725"
  ],
  "seen_titles": [
-  "SK,실리콘밸리서AI동맹확대…글로벌빅테크와'인프라연합'본격화",
-  "판커진한-미기업AI협력…투자금어디에쓰나",
-  "“60만전자·420만닉스시대온다”…전문가들이꼽은역대급매수기...",
-  "[뉴스+]韓美AI동맹,'투자발표'넘어공급망재편신호탄…한국,AI생...",
   "[총수家]이재용삼성전자회장⑧ㅣ올트먼·젠슨황연쇄회동…글로벌...",
   "‘코스피회복’전망젠슨황,삼전닉스띄운李…메뉴는‘버맥’",
   "\"칩을더달라\"빅테크아우성에…삼성·SK,'AI동맹'중심축으로",
@@ -6001,13 +5997,13 @@
   "\"지분매각설눌렀다\"…최태원회장,SK㈜중간배당으로'현금195억'손...",
   "이재용회장,상반기728억원배당'개인1위'…기업수도50%늘어",
   "이재용상반기배당금728억원'1위'…정몽구·정몽준2·3위",
-  "[이슈+]SK실트론7개월협상마침표…두산'굿딜'평가받는이유"
+  "[이슈+]SK실트론7개월협상마침표…두산'굿딜'평가받는이유",
+  "\"사이코패스기질있냐고?\"이태란,직접입열었다[라디오스타]",
+  "이재용삼성전자회장,상반기배당금728억원으로1위…정몽구2위",
+  "최태원9440억해법은…배당·담보대출·SK실트론'3가지카드'",
+  "반도체특별법시행령국무회의통과"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T07:50:23.085324+09:00",
-   "배당기업 삼성전자 개정했더니 급증 9조 상반기 현대자동차 상법"
-  ],
   [
    "2026-08-04T08:40:15.721793+09:00",
    "이유 확산 급속 사라고 SK하이닉스 주식 회장이"
@@ -6083,9 +6079,17 @@
   [
    "2026-08-04T13:50:20.818870+09:00",
    "협상 SK실트론 이유 7개월 두산 마침표 평가받는 굿딜"
+  ],
+  [
+   "2026-08-04T14:00:30.481076+09:00",
+   "반도체특별법 국무회의 통과 시행령"
+  ],
+  [
+   "2026-08-04T14:00:30.481076+09:00",
+   "담보대출 9440억 3가지 카드 해법은 SK실트론 배당"
   ]
  ],
- "last_run": "2026-08-04T13:50:38.731278+09:00",
+ "last_run": "2026-08-04T14:00:44.709731+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
