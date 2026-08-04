@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1671732/?sc=Naver",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03975366645519112",
-  "https://view.asiae.co.kr/article/2026072808452665188",
-  "https://www.xportsnews.com/article/2176830",
-  "http://www.fnnews.com/news/202607281132346845",
-  "https://www.tokenpost.kr/news/economy/382082",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030172407&code=61111111&cp=nv",
-  "http://www.fnnews.com/news/202607281132190070",
-  "https://www.slist.kr/news/articleView.html?idxno=754749",
-  "https://www.munhwa.com/article/11605544",
   "https://www.kyeonggi.com/article/20260728580162",
   "http://www.weeklytoday.com/news/articleView.html?idxno=787537",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=227080",
@@ -2999,19 +2989,19 @@
   "https://www.newspim.com/news/view/20260804000964",
   "https://www.kukinews.com/article/view/kuk202608040101",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283138838455",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/64171?feed=na"
+  "https://www.jibs.co.kr/news/articles/articlesDetail/64171?feed=na",
+  "https://www.joongangenews.com/news/articleView.html?idxno=537623",
+  "https://www.m-i.kr/news/articleView.html?idxno=1398699",
+  "https://news.tf.co.kr/read/life/2350311.htm",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265323",
+  "https://www.newsway.co.kr/news/view?ud=2026080410294387102",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/04/2026080490144.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008689694&plink=ORI&cooper=NAVER",
+  "http://www.fnnews.com/news/202608041400148958",
+  "https://www.joongang.co.kr/article/25450698",
+  "https://www.mk.co.kr/article/12116253"
  ],
  "seen_titles": [
-  "가맹정보공개서분기별갱신…폐업위약금정보도공개",
-  "‘반값필터’의배신…유해가스제거성능'뚝'",
-  "OECD\"실시간가격공개가담합키운다\"경고…공정위\"사전·사후검증...",
-  "21세여대생,실종보름만주검으로…용의자만20명,범인정체'충격'...",
-  "검경합수본,'투표용지부족'송파구선관위직원2명피의자소환",
-  "엘앤에프,테슬라대규모공급계약무산설에자사주매각의혹해명",
-  "[단독]“檢,수사못하는데파견검사는가능한가”선관위특검난맥상",
-  "합수본\"신천지간부,'민주당도가입하라'지시\"진술확보",
-  "합수본,4달전신천지진술확보...\"與에조직적가입확인되지않아\"",
-  "“신천지,2022년민주당도가입”…합수본,진술듣고도‘與봐주기...",
   "경찰,‘가상자산은닉’의혹유정복전인천시장압수수색…증거자료...",
   "[위클리오늘]일련번호중복·무번호투표지까지…선관위선거관리총체...",
   "[에너지칼럼]탄소중립녹색성장기본법개정안을보고",
@@ -6001,7 +5991,17 @@
   "공수처,'서해공무원피격위증의혹'제주해경청추가압수수색",
   "공수처,‘서해공무원피격위증의혹’제주해경청압수수색",
   "[고하승칼럼]오늘은李정권‘몰락의날’?",
-  "공수처,제주해경청압수수색..서해공무원피격위증혐의"
+  "공수처,제주해경청압수수색..서해공무원피격위증혐의",
+  "돼지고깃값20%올렸다…검찰,6년담합·증거인멸적발",
+  "6년간마트납품가짬짜미…돼지고기유통업체무더기재판행",
+  "'돼지고기담합'유통업체들재판행…마트판매가20%나올라",
+  "삼겹살가격20%넘게인상'1.2조담합'6개사적발…불구속기소",
+  "오프쇼어링에실적악화까지…가상자산거래소'리테일확대'안간힘",
+  "'돼지고기가격담합'업체6곳재판행…공정위조사방해까지",
+  "'아들불법촬영'증거인멸혐의경찰관…전북경찰청장\"송구\"",
+  "공수처,제주해경청압수수색…'서해피격위증의혹'박상춘PC확보...",
+  "여교사몰카찍은아들폰부순‘경찰아빠’…전북경찰청장,고개숙...",
+  "‘서해공무원피격위증의혹’…공수처,제주해경청압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 5G 간다 SKT 과징금"
   ]
  ],
- "last_run": "2026-08-04T14:01:17.887108+09:00",
+ "last_run": "2026-08-04T14:11:00.257888+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
