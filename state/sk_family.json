@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452469",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131209",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51686",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51685",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452467",
@@ -2999,11 +2997,11 @@
   "http://www.fnnews.com/news/202608041505297467",
   "https://news.tf.co.kr/read/economy/2350402.htm",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=104970",
-  "https://www.mk.co.kr/article/12116306"
+  "https://www.mk.co.kr/article/12116306",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400216.html",
+  "https://www.smartbizn.com/news/articleView.html?idxno=150302"
  ],
  "seen_titles": [
-  "삼성전자·SK그룹,9,500억달러규모AI협력발표…글로벌반도체동맹...",
-  "이대통령,미국샌프란시스코서AI거물들과'맥주만찬'",
   "이재명대통령\"한국,글로벌AI공급망의핵심국가로도약할것\"",
   "李,샌프란시스코서'AI동맹만찬'...젠슨황·알트만·이재용한자리에",
   "李대통령,빅테크CEO들과CEO연쇄면담...반도체·AI공급망협력본격...",
@@ -6001,7 +5999,9 @@
   "\"낳을곳도,아플때갈곳도없다\"…경기도산모·소아의료SOS",
   "상반기배당13조5000억원풀렸다…이재용728억원'배당왕'",
   "통신3사·SI기업들,국내AI데이터센터전방위구축본격화",
-  "최태원,오늘밤침묵깨나…SK하이닉스주주환원책공개기대감"
+  "최태원,오늘밤침묵깨나…SK하이닉스주주환원책공개기대감",
+  "'신궁'김수녕,고려대여자양궁부초대감독으로…내년세종에서창...",
+  "삼성·SK하이닉스,증설에도못따라가는메모리공급···2030년까지이..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-08-04T15:20:22.833118+09:00",
    "공개 기대감 침묵 깨나 SK하이닉스 주주환원책"
+  ],
+  [
+   "2026-08-04T15:30:21.302126+09:00",
+   "메모리 공급 삼성 2030년까지 증설에도 SK하이닉스 따라가는"
   ]
  ],
- "last_run": "2026-08-04T15:20:37.375518+09:00",
+ "last_run": "2026-08-04T15:30:35.281155+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
