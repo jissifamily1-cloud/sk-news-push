@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674648&plink=ORI&cooper=NAVER",
-  "https://www.apnews.kr/news/articleView.html?idxno=3050027",
   "https://biz.heraldcorp.com/article/10820117",
   "https://www.kyeonggi.com/article/20260725580115",
   "https://www.eroun.net/news/articleView.html?idxno=86244",
@@ -2999,11 +2997,11 @@
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702322",
   "http://www.globalepic.co.kr/view.php?ud=20260804111712731748439a4874_29",
   "https://www.viva100.com/article/20260804500655",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04375526645544040"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04375526645544040",
+  "https://www.newsen.com/news_view.php?uid=202608041308470310",
+  "http://www.nongaek.com/news/articleView.html?idxno=96304"
  ],
  "seen_titles": [
-  "이대통령\"대체불가AI공급거점으로\"‥젠슨황\"한국의AI황금시기...",
-  "靑\"국내기업-글로벌빅테크기업,9천500억불반도체협력\"",
   "한·미빅테크1,375조원AI동맹‥반도체·AI공급망구축본격화",
   "\"배고픈젠슨\"…K-반도체,1,375조규모'AI동맹'",
   "\"1085조원동맹\"…최태원,'3대메가프로젝트'에美빅테크모았다",
@@ -6001,21 +5999,11 @@
   "[이홍칼럼]한국반도체,일본처럼될것인가?",
   "이재용회장,상반기728억원…개인배당1위탈환",
   "SK㈜,주당1500원중간배당결정⋯최태원회장,194억수령추정",
-  "폴리텍,'메가프로젝트'전략산업에최대규모교수채용"
+  "폴리텍,'메가프로젝트'전략산업에최대규모교수채용",
+  "이태란,예능울렁증극심한데“‘SKY캐슬’남편최원영보고싶어출...",
+  "HD현대'상반기배당미쳤다'…배당극대화로주주환원적극행보"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T07:10:19.801914+09:00",
-   "두산 인수로 SK실트론 기반 핵심 목표가 수익 다져"
-  ],
-  [
-   "2026-08-04T07:10:19.801914+09:00",
-   "박정원에 근저당 초과이익 매도자 융자 잡은 1조"
-  ],
-  [
-   "2026-08-04T07:10:19.801914+09:00",
-   "두산 고민도 비용 반도체 증가 완성했지만 실트론으로"
-  ],
   [
    "2026-08-04T07:40:19.400182+09:00",
    "사상 실적으로 거품이라더니 AI 삼성전자 SK하이닉스 답했다"
@@ -6081,7 +6069,7 @@
    "전략산업에 규모 메가프로젝트 폴리텍 교수 채용"
   ]
  ],
- "last_run": "2026-08-04T13:10:25.452664+09:00",
+ "last_run": "2026-08-04T13:20:25.983149+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
