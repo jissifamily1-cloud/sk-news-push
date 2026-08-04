@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1112171",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260710010003807",
   "https://www.econovill.com/news/articleView.html?idxno=746151",
   "https://biz.heraldcorp.com/article/10820097",
   "https://www.seoultimes.news/news/article.html?no=2000098120",
@@ -2999,11 +2997,11 @@
   "https://www.ezyeconomy.com/news/articleView.html?idxno=238317",
   "http://weekly.chosun.com/news/articleView.html?idxno=54011",
   "https://www.viva100.com/article/20260804500497",
-  "https://www.smarttoday.co.kr/ko-kr/articles/110078"
+  "https://www.smarttoday.co.kr/ko-kr/articles/110078",
+  "https://www.newspim.com/news/view/20260804000416",
+  "https://economist.co.kr/article/view/ecn202608040011"
  ],
  "seen_titles": [
-  "엔비디아,AI서밋서한국AI전략조명…글로벌빅테크\"한국역할중요...",
-  "한-미\"1375조반도체협력\"…AI동맹더키운다",
   "[IT큐레이션]당신이알아야할한미빅테크'9500억혈맹'일곱가지키...",
   "“대한민국의황금시대”…李만난빅테크기업CEO들,‘AI허브’에화...",
   "새단장한김천문화예술회관,시민100인합창으로다시열린다",
@@ -6001,7 +5999,9 @@
   "이재용,상반기개인배당금728억'1위'…홍라희는4위로내려와",
   "상법개정효과?…배당기업50%급증,이재용728억'1위'",
   "“경기지역산모·소아의료공백가속”…분당서울대병원,12일국회서...",
-  "두산-SK실트론M&A,두산은긍정적·실트론은하향검토"
+  "두산-SK실트론M&A,두산은긍정적·실트론은하향검토",
+  "李대통령\"미국·남미순방,초격차산업강국기반…빠른후속조치시...",
+  "삼성오너가상반기배당금만약2000억수령,현대차일가도1000억"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,17 @@
   [
    "2026-08-04T10:11:29.979031+09:00",
    "회장 주당 중간배당 1500원 전망 194억 수령"
+  ],
+  [
+   "2026-08-04T11:00:28.676286+09:00",
+   "순방 기반 미국 초격차 대통령 남미 강국 산업 후속조치 빠른"
+  ],
+  [
+   "2026-08-04T11:00:28.676286+09:00",
+   "현대차 상반기 수령 일가도 배당금만 오너가 1000억 삼성 2000억"
   ]
  ],
- "last_run": "2026-08-04T10:50:28.789268+09:00",
+ "last_run": "2026-08-04T11:00:42.743022+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
