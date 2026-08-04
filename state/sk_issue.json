@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678401&plink=ORI&cooper=NAVER",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678395&plink=ORI&cooper=NAVER",
-  "https://www.naeil.com/news/read/596770",
-  "https://view.asiae.co.kr/article/2026072810005149928",
-  "https://www.sedaily.com/article/20072749",
-  "https://www.imaeil.com/page/view/2026072813053788970",
   "https://www.yna.co.kr/view/AKR20260728084000004?input=1195m",
   "https://www.newspim.com/news/view/20260728000527",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04162326645519112",
@@ -2999,15 +2993,15 @@
   "http://www.samdailbo.com/news/articleView.html?idxno=268525",
   "https://www.sisajournal.com/news/articleView.html?idxno=382272",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000543332",
-  "https://www.dailian.co.kr/news/view/1674313/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1674313/?sc=Naver",
+  "https://biz.heraldcorp.com/article/10830504",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93252",
+  "https://www.mk.co.kr/article/12116284",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80303",
+  "https://www.newspim.com/news/view/20260804001063",
+  "https://www.news1.kr/politics/assembly/6248769"
  ],
  "seen_titles": [
-  "가맹점·직영점수공개연간→분기별단축…가맹사업법시행령개정",
-  "하도급법반복위반사업자철퇴…과징금가중한도100%로상향",
-  "공정위,담합일삼는기업‘시장퇴출’추진",
-  "하도급법·가맹사업법반복위반시과징금가중한도50→100%",
-  "경찰특수본8개월만에해산…대통령관저PC초기화등121건수사마무...",
-  "8개월달린경찰특수본막내렸다…윤석열·김건희직접조사는끝내...",
   "경찰'3대특검특수본'8개월만에해산…전담수사팀으로전환",
   "'12·3계엄은폐·저도파티'16건송치…경찰,'3대특검'인계사건수...",
   "경찰청'3대특검'특수본,8개월만에해산…121건수사종결",
@@ -6001,7 +5995,13 @@
   "공수처,'서해공무원피격위증'제주해경압수수색",
   "공수처,'서해공무원피격위증의혹'제주해양경찰청압수수색",
   "공수처,‘서해피격사건위증’해경압수수색",
-  "공수처,'서해공무원피격위증'관련제주해경청압수수색"
+  "공수처,'서해공무원피격위증'관련제주해경청압수수색",
+  "“삼겹살텔레방싹지워!”국민고기삼겹살1.2조짬짜미완전히속...",
+  "'1조2000억원돈육납품담합'적발…도드람푸드등6개사·임직원12명...",
+  "검찰,‘돼지고기담합’가담한유통업체6개사·임직원12명기소",
+  "'1.2조규모돼지고깃값담합'도드람푸드등유통업체기소",
+  "李대통령\"대체불가경쟁력갖춰야…초격차산업지도지방중심으로...",
+  "野,'국민참정권수호법'초안작성…\"의총보고거쳐최종안마련\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 5G 간다 SKT 과징금"
   ]
  ],
- "last_run": "2026-08-04T14:40:58.361179+09:00",
+ "last_run": "2026-08-04T14:51:00.822695+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
