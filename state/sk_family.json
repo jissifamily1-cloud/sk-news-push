@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026072602015255148",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452471",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=315585",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=315584",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=315583",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267857",
@@ -2999,12 +2996,12 @@
   "https://www.g-enews.com/view.php?ud=20260804140059289127fa31d75c_1",
   "https://www.mydaily.co.kr/page/view/2026080413582655862",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=84024",
-  "https://news.mtn.co.kr/news-detail/2026080414172058414"
+  "https://news.mtn.co.kr/news-detail/2026080414172058414",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313744",
+  "https://www.bloter.net/news/articleView.html?idxno=669913",
+  "https://www.dailian.co.kr/news/view/1674324/?sc=Naver"
  ],
  "seen_titles": [
-  "결혼생활30년,재산은1/3…최태원·노소영재산분할계산법은?",
-  "AI가몸을입는날-제조강국의두번째기회",
-  "2京CEO모인'샌프란선언'…\"李메가프로젝트,허황된숫자아니다\"",
   "\"엔비디아·MS와손잡다\"SK,총5000억달러규모AI인프라구축",
   "李,'샌프란시스코AI선언'발표…\"韓,글로벌AI허브구축\"",
   "SK,엔비디아와5000억달러AI동맹…최태원\"한국을AI인프라허브로\"",
@@ -6001,7 +5998,10 @@
   "두산그룹,SK실트론품고반도체밸류체인완성…조직통합은과제",
   "[재계빅4,하반기승부수①]같은AI,각각다른투자공식…실행력전...",
   "상법개정에상반기배당기업47.7%↑…개인배당1위이재용",
-  "이재용,상반기배당728억원'개인1위'...삼성전자배당도최대"
+  "이재용,상반기배당728억원'개인1위'...삼성전자배당도최대",
+  "상반기배당총액1위는삼성전자…HD현대그룹계열사배당확대'눈길...",
+  "'커진배당판'최대수혜자는삼성家…상반기1925억수령",
+  "AI호황에도실트론판SK…성장성보다자본효율택했다"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-08-04T14:20:12.853008+09:00",
    "밸류체인 통합은 SK실트론 완성 반도체 두산그룹 과제 품고"
+  ],
+  [
+   "2026-08-04T14:40:14.919723+09:00",
+   "실트론 성장성보다 효율 자본 AI 호황에도 택했다"
   ]
  ],
- "last_run": "2026-08-04T14:30:38.476174+09:00",
+ "last_run": "2026-08-04T14:40:26.311731+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
