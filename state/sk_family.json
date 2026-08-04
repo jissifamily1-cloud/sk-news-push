@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=591875",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83169",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51687",
-  "https://www.ngonews.kr/news/articleView.html?idxno=233812",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452469",
   "http://www.efnews.co.kr/news/articleView.html?idxno=131209",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51686",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1674324/?sc=Naver",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520766",
   "https://biz.sbs.co.kr/article_hub/20000326532?division=NAVER",
-  "http://news.inochong.org/detail.php?number=6542&thread=23r16"
+  "http://news.inochong.org/detail.php?number=6542&thread=23r16",
+  "http://www.fnnews.com/news/202608041505297467",
+  "https://news.tf.co.kr/read/economy/2350402.htm",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104970",
+  "https://www.mk.co.kr/article/12116306"
  ],
  "seen_titles": [
-  "차에서공장·도시까지지능화…정의선,현대차그룹'피지컬AI'청사진",
-  "삼성,글로벌리더들앞에서290조AI동맹…브로드컴과HBM·2나노협력",
-  "SK-엔비디아,'5천억달러'AI인프라동맹…최태원\"세계최고AI팩토리...",
-  "[기업家]SK그룹⑯ㅣ7500억달러협력본격화…AI생태계확장속도전",
   "삼성전자·SK그룹,9,500억달러규모AI협력발표…글로벌반도체동맹...",
   "이대통령,미국샌프란시스코서AI거물들과'맥주만찬'",
   "이재명대통령\"한국,글로벌AI공급망의핵심국가로도약할것\"",
@@ -6001,17 +5997,13 @@
   "AI호황에도실트론판SK…성장성보다자본효율택했다",
   "이재용,상반기배당728억'1위'...상법개정후주주환원본격화",
   "[투자전략따라잡기]역대급실적에도…꺼지지않는'메모리고점론’",
-  "AI시대의청구서"
+  "AI시대의청구서",
+  "\"낳을곳도,아플때갈곳도없다\"…경기도산모·소아의료SOS",
+  "상반기배당13조5000억원풀렸다…이재용728억원'배당왕'",
+  "통신3사·SI기업들,국내AI데이터센터전방위구축본격화",
+  "최태원,오늘밤침묵깨나…SK하이닉스주주환원책공개기대감"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T09:20:19.840478+09:00",
-   "주주들 밤잠 설치게 액면분할 SK하이닉스 소문의 삼성전자처럼"
-  ],
-  [
-   "2026-08-04T09:20:19.840478+09:00",
-   "개발한 표준 공개 SK하이닉스 샌디스크와 HBF"
-  ],
   [
    "2026-08-04T09:50:15.625862+09:00",
    "사람들 반도체와 반미 하겠다는 함께"
@@ -6095,9 +6087,17 @@
   [
    "2026-08-04T15:10:17.521304+09:00",
    "AI 시대의 청구서"
+  ],
+  [
+   "2026-08-04T15:20:22.833118+09:00",
+   "국내 SI기업들 본격화 데이터센터 AI 구축 통신3사 전방위"
+  ],
+  [
+   "2026-08-04T15:20:22.833118+09:00",
+   "공개 기대감 침묵 깨나 SK하이닉스 주주환원책"
   ]
  ],
- "last_run": "2026-08-04T15:10:31.066098+09:00",
+ "last_run": "2026-08-04T15:20:37.375518+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
