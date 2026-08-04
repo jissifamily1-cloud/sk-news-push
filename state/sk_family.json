@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=738038",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620108",
-  "https://www.mk.co.kr/article/12107415",
   "https://www.businessplus.kr/news/articleView.html?idxno=114608",
   "https://www.cbci.co.kr/news/articleView.html?idxno=591873",
   "https://www.joongang.co.kr/article/25448117",
@@ -2999,12 +2996,12 @@
   "https://www.sportschosun.com/entertainment/2026-08-04/202608040100020880001243",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719035",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/04/2026080490135.html",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313718"
+  "https://www.thepublic.kr/news/articleView.html?idxno=313718",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356923",
+  "https://www.dailian.co.kr/news/view/1674299/?sc=Naver",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356925"
  ],
  "seen_titles": [
-  "[이로운분석]삼전·닉스,빅테크와1375조원반도체계약…'메모리슈퍼...",
-  "“한국드라마같다”외신들도최태원·노소영재산분할판결주목",
-  "이재명대통령\"우리는\"선창에이재용·최태원·정의선·이해진·젠슨...",
   "SK,실리콘밸리서AI동맹확대…글로벌빅테크와'인프라연합'본격화",
   "판커진한-미기업AI협력…투자금어디에쓰나",
   "“60만전자·420만닉스시대온다”…전문가들이꼽은역대급매수기...",
@@ -6001,13 +5998,12 @@
   "‘13년째무자녀’이태란\"사업가남편♥,내유튜브안봐..달라졌다\"...",
   "2.3조베팅,두산엔약일까독일까…SK실트론인수의진짜변수",
   "최태원49억매수뒤…SK하닉'액면분할설'실체는?",
-  "\"지분매각설눌렀다\"…최태원회장,SK㈜중간배당으로'현금195억'손..."
+  "\"지분매각설눌렀다\"…최태원회장,SK㈜중간배당으로'현금195억'손...",
+  "이재용회장,상반기728억원배당'개인1위'…기업수도50%늘어",
+  "이재용상반기배당금728억원'1위'…정몽구·정몽준2·3위",
+  "[이슈+]SK실트론7개월협상마침표…두산'굿딜'평가받는이유"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T07:40:19.400182+09:00",
-   "사상 실적으로 거품이라더니 AI 삼성전자 SK하이닉스 답했다"
-  ],
   [
    "2026-08-04T07:50:23.085324+09:00",
    "배당기업 삼성전자 개정했더니 급증 9조 상반기 현대자동차 상법"
@@ -6079,9 +6075,17 @@
   [
    "2026-08-04T13:40:14.207949+09:00",
    "195억 현금 매각설 지분 회장 중간배당으로 눌렀다"
+  ],
+  [
+   "2026-08-04T13:50:20.818870+09:00",
+   "상반기 이재용 정몽준 728억원 정몽구 배당금 3위 1위"
+  ],
+  [
+   "2026-08-04T13:50:20.818870+09:00",
+   "협상 SK실트론 이유 7개월 두산 마침표 평가받는 굿딜"
   ]
  ],
- "last_run": "2026-08-04T13:40:26.897695+09:00",
+ "last_run": "2026-08-04T13:50:38.731278+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
