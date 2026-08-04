@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=2026080216203215204c878f8fa1_30",
-  "https://biz.sbs.co.kr/article_hub/20000326108?division=NAVER",
   "https://www.news2day.co.kr/article/20260802500028",
   "https://www.hankookilbo.com/news/article/A2026073104100001585?did=NA",
   "https://www.mt.co.kr/world/2026/08/03/2026080300200739845",
@@ -2987,6 +2985,7 @@
   "https://www.welfarenews.net/news/articleView.html?idxno=209050",
   "http://www.metroseoul.co.kr/article/20260804500229",
   "http://www.yonhapnewstv.co.kr/news/MYH20260804131858ACD",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=132919",
   "http://www.segyebiz.com/newsView/20260804512080?OutUrl=naver",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=127812",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=251591",
@@ -2994,16 +2993,15 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=269066",
   "https://www.tokenpost.kr/news/policy/384778",
   "https://www.tjb.co.kr/news05/bodo/view/id/101938",
-  "https://www.cstimes.com/news/articleView.html?idxno=715678",
   "http://www.inews24.com/view/1991529",
   "http://www.metroseoul.co.kr/article/20260804500243",
   "https://www.etoday.co.kr/news/view/2610494",
   "https://www.ggilbo.com/news/articleView.html?idxno=1173277",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/04/2026080490135.html",
+  "https://www.cstimes.com/news/articleView.html?idxno=715678",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719035"
  ],
  "seen_titles": [
-  "[442.live]\"김민재가바이에른뮌헨소속이어서다행이다\"…독일대표팀...",
-  "증시흔든외국인초단타,130조실탄여전히대기중",
   "개인레버리지막았지만…증시뒤흔든프로그램매매",
   "“삼전닉스레버리지가진자,끝까지버텨서맞게될결말”",
   "6500선회복이끈삼전닉스…‘반도체랠리’재가동될까",
@@ -5989,6 +5987,7 @@
   "▶복지TV뉴스_(나도말좀합시다)정진호동두천시의원자유발언(2026....",
   "'A'학점받아든한국기업들따봉~\"자금조달길확대,글로벌경쟁력까...",
   "[스포츠엔터]전국이'절절'끓는데…\"오늘야구하나요?\"",
+  "한화자산운용,HBM·낸드함께담았다…AI메모리투자ETF선보여",
   "무디스,SK하이닉스신용등급첫A등급대로상향",
   "코웨이,렌탈성장·해외확장으로실적순항…저평가해소기대감↑",
   "\"AI못하면승진∙취업불가\"…삼성·SK·LG,인사기준에AI역량반영",
@@ -5996,30 +5995,15 @@
   "삼전반,현차반...우리자산운용,WON피지컬AITOP2+액티브ETF출시",
   "반도체클러스터기반시설비최대100%지원추진",
   "SK하이닉스,HBM이어'HBF(고대역폭낸드플래시)'도선점…샌디스크와...",
-  "삼성전자·SK하이닉스,美AI호재에도2%대약세",
   "삼성·SK·마이크론총출동…세계최대메모리축제빠진中CXMT",
   "[특징주]SK이터닉스22%↑…태양광株,PPA·美공급망기대에강세",
   "에브리봇,미로봇수출FCC인증보유…휴머노이드‘AI두뇌’탑재속...",
   "아이비젼웍스주가,상한가...왜?",
+  "최태원49억매수뒤…SK하닉'액면분할설'실체는?",
+  "삼성전자·SK하이닉스,美AI호재에도2%대약세",
   "2.3조베팅,두산엔약일까독일까…SK실트론인수의진짜변수"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T07:32:21.985366+09:00",
-   "40년 만에 엔화 떨어진 가치 수준까지 최저"
-  ],
-  [
-   "2026-08-04T07:32:21.985366+09:00",
-   "KCA파트너스가 인수한다 TNS"
-  ],
-  [
-   "2026-08-04T07:32:21.985366+09:00",
-   "수송 해운기업 이익 늘었다 원유 증가하는 원자재"
-  ],
-  [
-   "2026-08-04T07:32:21.985366+09:00",
-   "사상 실적으로 SK하이닉스 삼성전자 거품이라더니 답했다 AI"
-  ],
   [
    "2026-08-04T07:41:15.228540+09:00",
    "전망 증권 단일 규제에 거래대금 변동성 투심 레버리지 위축에 감소"
@@ -6965,19 +6949,27 @@
    "학점 조달 자금 글로벌 확대 한국기업들 경쟁력까 받아든 따봉"
   ],
   [
-   "2026-08-04T13:31:28.603024+09:00",
-   "AI 보유 수출 에브리봇 탑재 휴머노이드 로봇 두뇌 FCC인증"
+   "2026-08-04T13:32:44.500061+09:00",
+   "로봇 휴머노이드 보유 FCC인증 AI 두뇌 탑재 에브리봇 수출"
   ],
   [
-   "2026-08-04T13:31:28.603024+09:00",
-   "상한가 주가 아이비젼웍스"
+   "2026-08-04T13:32:44.500061+09:00",
+   "아이비젼웍스 상한가 주가"
   ],
   [
-   "2026-08-04T13:31:28.603024+09:00",
-   "약일까 진짜 3조 변수 인수의 베팅 독일까 SK실트론 두산엔"
+   "2026-08-04T13:32:44.500061+09:00",
+   "실체는 매수 SK하닉 최태원 액면분할설 49억"
+  ],
+  [
+   "2026-08-04T13:32:44.500061+09:00",
+   "SK하이닉스 삼성전자 약세 AI 호재에도"
+  ],
+  [
+   "2026-08-04T13:32:44.500061+09:00",
+   "진짜 3조 두산엔 변수 약일까 SK실트론 인수의 베팅 독일까"
   ]
  ],
- "last_run": "2026-08-04T13:31:39.823630+09:00",
+ "last_run": "2026-08-04T13:33:00.885478+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
