@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260728510132?OutUrl=naver",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000052866",
-  "https://www.cwn.kr/news/articleView.html?idxno=51505",
-  "https://www.sisajournal.com/news/articleView.html?idxno=381408",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000000117&cp=nv",
   "https://www.yna.co.kr/view/AKR20260728098451064?input=1195m",
   "https://www.ytn.co.kr/_ln/0115_202607281413490825",
   "https://www.pressian.com/pages/articles/2026072814105807396",
@@ -2999,14 +2994,14 @@
   "https://www.greened.kr/news/articleView.html?idxno=346797",
   "https://www.newdaily.co.kr/site/data/html/2026/08/04/2026080400252.html",
   "https://www.dynews.co.kr/news/articleView.html?idxno=860376",
-  "https://www.dailian.co.kr/news/view/1674361/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1674361/?sc=Naver",
+  "https://www.mk.co.kr/article/12116383",
+  "https://www.segye.com/newsView/20260804517697?OutUrl=naver",
+  "http://www.metroseoul.co.kr/article/20260804500425",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=243671",
+  "https://www.pressian.com/pages/articles/2026080416203786214"
  ],
  "seen_titles": [
-  "경찰3대특검특수본,8개월만에해산…尹부부조사는끝내불발",
-  "경찰,'3대특검인계특수본'8개월만운영종료…전담팀전환",
-  "아들범행숨긴경찰관...증거인멸책임어디까지",
-  "경찰3대특검인수사건특수본,8개월만에운영종료…전담수사팀체제...",
-  "[속보]경찰‘아동성매매의혹’최영중전시의원구속영장신청",
   "[2보]경찰,아동성매매혐의최영중전청주시의원구속영장",
   "'미성년자성매매'최영중전청주시의원구속영장신청",
   "[속보]경찰,미성년자'성착취'최영중전청주시의원구속영장신청",
@@ -6001,7 +5996,12 @@
   "\"금값이라던삼겹살알고보니\"…1조2000억납품가담합,육가공업체무...",
   "정교모\"선관위특검,시민전문가참여해야\"…의혹선거구전면재검...",
   "돼지고깃값20%올려대형마트에'짬짜미'납품...대전충남양돈축산업협...",
-  "\"돼지고깃값최소20%올렸다\"…검찰,'1.2조원담합'업체들기소"
+  "\"돼지고깃값최소20%올렸다\"…검찰,'1.2조원담합'업체들기소",
+  "본부·점주모두반발한‘가맹점주단체등록’…공정위“의견수렴검...",
+  "공수처,‘서해공무원피격사건위증’제주해경청압수수색",
+  "野선관위특위,'사전투표제폐지·선관위통폐합'추진…투표자조작...",
+  "[이슈체크]72년만의사법대변혁...'검찰수사권완전폐지'형소법...",
+  "이재영전북경찰청장“잘못된수사문책”…공직기강흔들리면가중처..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "LTE랑 속도 1등 SKT가 비교하고 경쟁사 5G"
   ]
  ],
- "last_run": "2026-08-04T16:22:26.599904+09:00",
+ "last_run": "2026-08-04T16:31:12.199038+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
