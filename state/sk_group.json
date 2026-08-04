@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10829049",
-  "https://biz.heraldcorp.com/article/10829042",
-  "https://www.munhwa.com/article/11606793",
-  "https://www.newsis.com/view/NISX20260803_0003734021",
-  "https://www.sedaily.com/article/20075050",
-  "https://www.hankyung.com/article/2026080313847",
   "http://www.globalepic.co.kr/view.php?ud=20260803113117704048439a4874_29",
   "https://biz.heraldcorp.com/article/10829024",
   "https://www.newsis.com/view/NISX20260803_0003733722",
@@ -2999,15 +2993,15 @@
   "https://www.econovill.com/news/articleView.html?idxno=747113",
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597023",
   "https://www.ggilbo.com/news/articleView.html?idxno=1173379",
-  "https://www.econovill.com/news/articleView.html?idxno=747117"
+  "https://www.econovill.com/news/articleView.html?idxno=747117",
+  "https://mhnse.com/news/articleView.html?idxno=1478296",
+  "https://sports.khan.co.kr/article/202608042006003?pt=nv",
+  "https://www.slist.kr/news/articleView.html?idxno=756485",
+  "https://www.insight.co.kr/news/566424",
+  "https://www.hani.co.kr/arti/opinion/column/1271419.html",
+  "https://www.segye.com/newsView/20260804518683?OutUrl=naver"
  ],
  "seen_titles": [
-  "[AI픽]독자AI2차전초읽기…국가대표AI이달윤곽",
-  "박정원회장5조승부수...\"AI·반도체로대전환이룬다\"",
-  "\"오늘이가장싸다\"…'갤럭시폴드8'사전예약,어떤선택이유리할까",
-  "[증권사위험자산이동]①NH證,PF줄이고인수금융늘렸다",
-  "'삼성20%환급막차'탄소비자들…지난달번호이동64만명",
-  "SK디앤디대규모유상증자추진...상폐대신유동성극복나선다",
   "패배막고,결승골돕고…입대선물을남기고떠난선수들",
   "삼성물산,시공능력평가13년연속1위...GS건설두계단올라건설사...",
   "[더벨][독립이사교육현황점검]횟수상위SK·현대차,교육방식은갈...",
@@ -6001,7 +5995,13 @@
   "[국방AX전격전①]네이버가예비역중장영입한이유",
   "서귀포가들썩들썩...유료관중집계후처음으로2만관중돌파하나",
   "[주식마감]美FF-PCB특허등록소식에삼기에너지솔루션즈상한가..비...",
-  "[국방AX전격전③]레퍼런스는중견기업이쌓고계약은대기업이?"
+  "[국방AX전격전③]레퍼런스는중견기업이쌓고계약은대기업이?",
+  "[mhn포토]김민재,오늘주장입니다",
+  "김민재,뮌헨주장자격으로제주전출격",
+  "뮌헨김민재,제주와프리시즌경기선발…'캡틴'으로뛴다",
+  "HBM다음은'HBF'...SK하이닉스,512GB차세대메모리표준공개",
+  "회장님의책임경영,지분조정,즐거운엑시트[아침햇발]",
+  "대세는폴더블폰…대박난삼성‘갤Z8’,이젠애플과승부"
  ],
  "recent_sigs": [
   [
@@ -7227,9 +7227,17 @@
   [
    "2026-08-04T20:01:31.173516+09:00",
    "중견기업이 쌓고 대기업이 레퍼런스는 계약은"
+  ],
+  [
+   "2026-08-04T20:11:07.230637+09:00",
+   "즐거운 경영 조정 지분 책임 엑시트 회장님의"
+  ],
+  [
+   "2026-08-04T20:11:07.230637+09:00",
+   "이젠 대세는 애플과 폴더블폰 갤Z8 삼성 승부 대박난"
   ]
  ],
- "last_run": "2026-08-04T20:01:37.660186+09:00",
+ "last_run": "2026-08-04T20:11:15.526236+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
