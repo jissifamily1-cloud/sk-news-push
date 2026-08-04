@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6554474",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396200",
-  "http://www.fnnews.com/news/202607281423075053",
-  "https://www.m-economynews.com/news/article.html?no=69153",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04450966645519112",
   "https://www.geconomy.co.kr/news/article.html?no=322028",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592880694054",
   "http://www.inews24.com/view/1989517",
@@ -2999,14 +2994,14 @@
   "https://www.viva100.com/article/20260804501282",
   "https://www.m-economynews.com/news/article.html?no=69425",
   "https://www.newsis.com/view/NISI20260804_0021388222",
-  "https://www.newsis.com/view/NISX20260804_0003736315"
+  "https://www.newsis.com/view/NISX20260804_0003736315",
+  "http://www.srtimes.kr/news/articleView.html?idxno=209115",
+  "https://www.sedaily.com/article/20075665",
+  "https://slownews.kr/164306",
+  "https://www.ziksir.com/news/articleView.html?idxno=142151",
+  "http://www.newstomato.com/ReadNews.aspx?no=1309233&inflow=N"
  ],
  "seen_titles": [
-  "경찰'3대특검특수본'8개월만에해산…121건수사마무리",
-  "'3대특검인계'경찰특수본8개월만에해체…121건종결",
-  "'코인2만1000개은닉의혹'…경찰,유정복전인천시장압수수색",
-  "6·3지선투표용지부족사태...송파구선관위직원2명직무유기혐의...",
-  "대만,엔비디아직원구속…AI칩중국밀반출수사확대",
   "피에브,누적판매량200만개돌파…CJ온스타일'강주은의굿라이프'통...",
   "라인건설,하도급지연이자12억원미지급…64개업체피해",
   "경찰,미성년자성매수최영중전청주시의원구속영장신청",
@@ -6001,7 +5996,12 @@
   "이대통령“공정위,담합으로부당이익꿈도못꾸게해달라”",
   "李대통령“담합·부당이익꿈도못꾸게”...공정위·노동부·중기부성...",
   "보고하는노용석중기부1차관",
-  "무자본M&A뒤조직적시세조종…57억챙긴일당구속기소"
+  "무자본M&A뒤조직적시세조종…57억챙긴일당구속기소",
+  "공정위,방문판매신고포상금1000만원상한폐지",
+  "[단독]빗썸,API이벤트30억배상안거부…집단소송가나",
+  "(배달플랫폼)라이더는노동자다",
+  "[대통령업무보고]공정위,반복단합땐영업정지추진…배달앱·오픈...",
+  "국무회의넘은선관위특검법'3대난제'"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "LTE랑 속도 1등 SKT가 비교하고 경쟁사 5G"
   ]
  ],
- "last_run": "2026-08-04T17:41:01.848788+09:00",
+ "last_run": "2026-08-04T17:50:54.835137+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
