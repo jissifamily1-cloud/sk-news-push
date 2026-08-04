@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=315584",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=315583",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267857",
   "https://www.cbci.co.kr/news/articleView.html?idxno=591875",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83169",
@@ -2999,11 +2997,11 @@
   "https://news.mtn.co.kr/news-detail/2026080414172058414",
   "https://www.thepublic.kr/news/articleView.html?idxno=313744",
   "https://www.bloter.net/news/articleView.html?idxno=669913",
-  "https://www.dailian.co.kr/news/view/1674324/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1674324/?sc=Naver",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520766",
+  "https://biz.sbs.co.kr/article_hub/20000326532?division=NAVER"
  ],
  "seen_titles": [
-  "\"엔비디아·MS와손잡다\"SK,총5000억달러규모AI인프라구축",
-  "李,'샌프란시스코AI선언'발표…\"韓,글로벌AI허브구축\"",
   "SK,엔비디아와5000억달러AI동맹…최태원\"한국을AI인프라허브로\"",
   "차에서공장·도시까지지능화…정의선,현대차그룹'피지컬AI'청사진",
   "삼성,글로벌리더들앞에서290조AI동맹…브로드컴과HBM·2나노협력",
@@ -6001,13 +5999,11 @@
   "이재용,상반기배당728억원'개인1위'...삼성전자배당도최대",
   "상반기배당총액1위는삼성전자…HD현대그룹계열사배당확대'눈길...",
   "'커진배당판'최대수혜자는삼성家…상반기1925억수령",
-  "AI호황에도실트론판SK…성장성보다자본효율택했다"
+  "AI호황에도실트론판SK…성장성보다자본효율택했다",
+  "이재용,상반기배당728억'1위'...상법개정후주주환원본격화",
+  "[투자전략따라잡기]역대급실적에도…꺼지지않는'메모리고점론’"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T08:40:15.721793+09:00",
-   "이유 확산 급속 사라고 SK하이닉스 주식 회장이"
-  ],
   [
    "2026-08-04T09:10:14.087299+09:00",
    "CXMT 똑같은 했나 반도체 복기 충격 위기때 독일은"
@@ -6095,9 +6091,13 @@
   [
    "2026-08-04T14:40:14.919723+09:00",
    "실트론 성장성보다 효율 자본 AI 호황에도 택했다"
+  ],
+  [
+   "2026-08-04T14:50:14.457899+09:00",
+   "메모리 역대급 않는 고점론 실적에도 꺼지지"
   ]
  ],
- "last_run": "2026-08-04T14:40:26.311731+09:00",
+ "last_run": "2026-08-04T14:50:28.991596+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
