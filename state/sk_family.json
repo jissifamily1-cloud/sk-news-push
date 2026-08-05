@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/society/2026/07/09/2026070921511761634",
-  "https://www.dt.co.kr/article/12072170",
   "http://www.fnnews.com/news/202607091622305059",
   "https://www.nocutnews.co.kr/news/6546051",
   "https://news.tf.co.kr/read/life/2341823.htm",
@@ -2999,11 +2997,11 @@
   "https://www.ccreview.co.kr/news/articleView.html?idxno=354384",
   "https://www.ytn.co.kr/_ln/0102_202608051102228190",
   "https://www.gukjenews.com/news/articleView.html?idxno=3656111",
-  "https://www.ekn.kr/web/view.php?key=20260805028021732"
+  "https://www.ekn.kr/web/view.php?key=20260805028021732",
+  "https://www.newsis.com/view/NISX20260805_0003737228",
+  "http://www.newskr.kr/news/articleView.html?idxno=105353"
  ],
  "seen_titles": [
-  "설문으로본‘갈라진청년’자화상",
-  "[오늘의인사:7월16일]KBS·오늘경제·서울대병원·연세대학교의료...",
   "[인사]의정부시,부산시,충남당진시외",
   "불법정치자금으로혐중현수막…내일로미래로대표구속영장기각",
   "‘혐중·부정선거현수막’게시원외정당대표구속영장기각…“도망...",
@@ -6001,7 +5999,9 @@
   "충주시새마을회,열무김치나눔활동",
   "\"태원이형진짜야?\"SK하닉액면분할'솔솔'..이번주주목되는이유",
   "충주시새마을회,60장애인가정열무김치240kg전달",
-  "[이슈&인사이트]일본반도체산업사를보면한국반도체미래가보인다"
+  "[이슈&인사이트]일본반도체산업사를보면한국반도체미래가보인다",
+  "이화여대,고교생전공탐색'하이이화'개최…학생424명참가",
+  "성과급줬다고배임…삼전닉스대표수사"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-05T11:20:16.068566+09:00",
    "한국 미래가 보면 일본 반도체 보인다 산업사를"
+  ],
+  [
+   "2026-08-05T11:30:22.774181+09:00",
+   "성과급 배임 줬다고 수사 삼전닉스 대표"
   ]
  ],
- "last_run": "2026-08-05T11:20:28.569858+09:00",
+ "last_run": "2026-08-05T11:30:36.610801+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6364,6 +6368,7 @@
   "jndn.com": "jndn.com",
   "woodkorea.co.kr": "한국목재신문",
   "ezyeconomy.com": "이지경제",
-  "news.inochong.org": "news.inochong.org"
+  "news.inochong.org": "news.inochong.org",
+  "newskr.kr": "한국농어촌방송"
  }
 }
