@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20075505",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=361241",
-  "https://www.welfarenews.net/news/articleView.html?idxno=209045",
-  "https://www.welfarenews.net/news/articleView.html?idxno=209051",
-  "https://www.welfarenews.net/news/articleView.html?idxno=209047",
-  "https://www.welfarenews.net/news/articleView.html?idxno=209050",
   "http://www.metroseoul.co.kr/article/20260804500229",
   "http://www.yonhapnewstv.co.kr/news/MYH20260804131858ACD",
   "https://www.e-science.co.kr/news/articleView.html?idxno=132919",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026080518065221402",
   "https://www.khan.co.kr/article/202608051847001",
   "https://news.ifm.kr/news/articleView.html?idxno=476571",
-  "https://www.dt.co.kr/article/12076791"
+  "https://www.dt.co.kr/article/12076791",
+  "https://www.mydaily.co.kr/page/view/2026080517141476964",
+  "https://www.dt.co.kr/article/12076798",
+  "http://www.queen.co.kr/news/articleView.html?idxno=461326",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1092355",
+  "https://www.dt.co.kr/article/12076801",
+  "https://www.newsis.com/view/NISX20260805_0003738035"
  ],
  "seen_titles": [
-  "복지TV뉴스_복지이슈포커스'(2026.7.22)",
-  "SK하이닉스,HBF표준규격첫공개",
-  "SK하이닉스-삼성전자-LG전자,HBF첫표준규격공개...아마존과협력고...",
-  "블룸버그\"한국,中처럼'투자부적합'우려…정부정책이개미만희...",
-  "우리운용,피지컬AI밸류체인투자액티브ETF출시",
-  "법인세중간예납이달까지…고유가피해기업은2개월유예",
   "법인세중간예납시작…'삼전닉스'초과세수윤곽나올듯",
   "코스피,6200선아래로…코스닥은‘순환매’에5%↑",
   "[生기업TALK]한화자산운용,펀드레이저로승부건다...ETF시장의초심...",
@@ -6001,21 +5995,15 @@
   "\"SK하이닉스276만원에샀다\"…김원훈,주식시작2주만에2400만원손실",
   "SH,재개발임대‘주거취약계층가점’폐지···공공임대취지논란",
   "여주시범시민대책위\"여주의희생만요구해서는안된다\"",
-  "레버리지규제·기술이전·학회호재업고…바이오주‘날개’"
+  "레버리지규제·기술이전·학회호재업고…바이오주‘날개’",
+  "'포든-디아스-돈나룸마선발'최정예출격맨시티맞서는팀K리그…이...",
+  "삼성‘원스톱AI메모리’vsSK‘개방형표준’…차세대메모리승부...",
+  "[오늘증시]코스피6600선눈앞…삼성·하이닉스강세에비반도체업종도...",
+  "혼자가아닌병원길…청주에전해진든든한차량지원",
+  "이재용이되살린‘초격차’…HBM5보다8배빠른zHBM공개",
+  "[올댓차이나]홍콩증시,美증시강세에반등마감…H주0.34%↑"
  ],
  "recent_sigs": [
-  [
-   "2026-08-05T12:51:14.157598+09:00",
-   "긴축 한국은행 변수 금리 총재 환율 겹쳤다 신현송"
-  ],
-  [
-   "2026-08-05T13:01:20.150219+09:00",
-   "참여 독려 세율 세금 낮추고 석화산업 정부 늦추고 재편"
-  ],
-  [
-   "2026-08-05T13:01:20.150219+09:00",
-   "전망 반도체 제조업체 대만 긍정적 웨이퍼 중장기 실리콘"
-  ],
   [
    "2026-08-05T13:11:20.165782+09:00",
    "대표 성과급 뿔났다 7억 반도체 주주들 삼성 주주운동본부"
@@ -7163,9 +7151,21 @@
   [
    "2026-08-05T18:51:02.896877+09:00",
    "학회 기술이전 바이오주 날개 호재 업고 규제 레버리지"
+  ],
+  [
+   "2026-08-05T19:01:29.330631+09:00",
+   "든든한 청주에 지원 차량 전해진 병원길 혼자가 아닌"
+  ],
+  [
+   "2026-08-05T19:01:29.330631+09:00",
+   "빠른 초격차 되살린 zHBM 이재용이 8배 공개 HBM5보다"
+  ],
+  [
+   "2026-08-05T19:01:29.330631+09:00",
+   "강세에 H주 증시 홍콩 마감 반등"
   ]
  ],
- "last_run": "2026-08-05T18:51:14.744094+09:00",
+ "last_run": "2026-08-05T19:01:41.593109+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
