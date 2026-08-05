@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25449166",
-  "https://www.joongang.co.kr/article/25449164",
-  "https://www.hankookilbo.com/news/article/A2026072913580005345?did=NA",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/29/2026072900229.html",
-  "https://www.nocutnews.co.kr/news/6555394",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128455",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008680848&plink=ORI&cooper=NAVER",
   "https://www.ytn.co.kr/_ln/0103_202607291613150638",
   "https://www.thereport.co.kr/news/articleView.html?idxno=90029",
   "http://www.inews24.com/view/1989956",
@@ -2999,16 +2992,16 @@
   "https://www.newswhoplus.com/news/articleView.html?idxno=66244",
   "https://www.newdaily.co.kr/site/data/html/2026/08/05/2026080500199.html",
   "https://www.m-i.kr/news/articleView.html?idxno=1399178",
-  "https://www.ytn.co.kr/_ln/0101_202608051459271565"
+  "https://www.ytn.co.kr/_ln/0101_202608051459271565",
+  "https://www.newscj.com/news/articleView.html?idxno=3422673",
+  "https://biz.heraldcorp.com/article/10831923",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656526",
+  "https://news.jtbc.co.kr/article/NB12311841?influxDiv=NAVER",
+  "https://www.newsis.com/view/NISX20260805_0003737525",
+  "https://www.newspim.com/news/view/20260805000763",
+  "https://www.yna.co.kr/view/AKR20260805100000054?input=1195m"
  ],
  "seen_titles": [
-  "농식품부,계란값담합혐의,산란계협회설립허가취소",
-  "농식품부,산란계협회설립허가취소…“계란값경쟁제한”",
-  "'계란값담합'산란계협회설립허가취소...정부지원에서제외",
-  "민주,당대표선거두고\"신천지개입조사하자\"…선관위특검은제자...",
-  "종합특검\"'양평고속도로의혹'원희룡재조사예정\"",
-  "[TN현장]'올공'청년들한자리에…\"참정권훼손막을시스템구축해...",
-  "[자막뉴스]살인범장윤기에\"아편죄송치\"…\"업무많아서\"어이없는경...",
   "종합특검,'고속도로백지화의혹'원희룡다음달6일재소환",
   "'대한산란계협회'설립허가취소···왜?",
   "농식품부,'계란값담합'산란계협회설립허가취소",
@@ -6001,10 +5994,17 @@
   "스타벅스,'탱크데이'논란후첫압수수색....신뢰회복위한대응책'...",
   "국힘,스타벅스압수수색맹비판…\"정권의충견·중국식공안국가\"",
   "野,경찰스타벅스압수수색맹공…\"정권향한'보은수사'\"",
-  "장동혁\"스타벅스압수수색,경찰의보은수사\""
+  "장동혁\"스타벅스압수수색,경찰의보은수사\"",
+  "매출13조쿠팡,상반기적자만왜1조넘었나",
+  "가맹점에‘배달비0원’특약강요한청년피자…과징금2억원",
+  "장동혁\"스타벅스압수수색,경찰'정권충견'자처?\"",
+  "국힘,경찰'스벅압색'에\"보은수사…기업마케팅까지공권력이개입...",
+  "토스이어카카오도핀테크'금융복합기업집단'문턱넘을까",
+  "[이젠경찰개혁]③제식구감싸기'여전'…독립민간감시기구'시급...",
+  "李대통령'군공항이전'공개질책에무안군\"협조\""
  ],
  "recent_sigs": [],
- "last_run": "2026-08-05T15:11:05.621747+09:00",
+ "last_run": "2026-08-05T15:21:11.206252+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
