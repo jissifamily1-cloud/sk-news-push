@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260803517897?OutUrl=naver",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309020&inflow=N",
-  "https://www.kukinews.com/article/view/kuk202608030168",
-  "https://www.newsis.com/view/NISX20260803_0003734625",
-  "https://www.newsis.com/view/NISX20260803_0003734547",
-  "https://www.dailypharm.com/user/news/341112?REFERER=NP",
-  "https://www.news1.kr/industry/sb-founded/6247462",
   "https://www.segye.com/newsView/20260803516783?OutUrl=naver",
   "https://www.segye.com/newsView/20260803520779?OutUrl=naver",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718965",
@@ -2999,16 +2992,16 @@
   "http://www.iminju.net/news/articleView.html?idxno=167620",
   "https://www.datasom.co.kr/news/articleView.html?idxno=209375",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167341",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739180"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=739180",
+  "https://www.asiatime.co.kr/article/20260805500080",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428739",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=442375",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=789023",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6842560_36967.html",
+  "https://www.seoul.co.kr/news/economy/securities/2026/08/05/20260805500113?wlog_tag3=naver",
+  "https://biz.heraldcorp.com/article/10831678"
  ],
  "seen_titles": [
-  "35조줄어든개미실탄…올해초수준으로복귀",
-  "단일종목레버리지ETF…과연'자연사'시킬수있을까",
-  "저혈소판증치료제'레볼레이드'제네릭2파전…팜비오이어SK플라즈마...",
-  "[유효상칼럼]왜삼성과SK의자사주성과급이갈등을일으킬까",
-  "\"20배빠르다\"던5G광고…통신3사나란히법정서고배",
-  "삼성전기,코스피5%급락에도3%대상승…미국금리부담속부품주차...",
-  "미국·유럽넘어이젠중남미로...K제약수출지도더넓어진다",
   "하루만에급락'도박장'된증시…\"살까,말까\"8월개미증시전략은?",
   "'집중'이독됐다…반도체TOP2시리즈-30%[ETF업&다운]",
   "던킨,SKT와‘YoungWeek’프로모션···전품목40%혜택",
@@ -6001,7 +5994,14 @@
   "[민주부동산]동부건설·삼성물산·호반그룹",
   "[분석]두산,글로벌웨이퍼시장5强합류",
   "SupplyChainPressureandTradeSecretControversies[InsideApple①]",
-  "지역상생에서탄소중립,철강산단에너지자립까지…포항시,'산단형..."
+  "지역상생에서탄소중립,철강산단에너지자립까지…포항시,'산단형...",
+  "빅테크호실적,메모리‘2030수퍼사이클’온다",
+  "트럼프의유가조절+반도체發근원물가상승…한은이풀어야할물가고...",
+  "삼성전자3%·SK하이닉스6%상승…美AI·반도체주급등",
+  "[전혜은시선]한국증시ISA개편후폭풍…'국장유도'냐'투자자이탈...",
+  "'미국발'코스피급등‥코스닥나흘째상승",
+  "김원훈“1억8천물타기,차한대값날려”…하닉얼마에들어갔길래...",
+  "김민재와뮌헨선수들찾았다는‘이뷰티숍’…뭘샀을까?"
  ],
  "recent_sigs": [
   [
@@ -6975,9 +6975,17 @@
   [
    "2026-08-05T12:11:24.041917+09:00",
    "산단형 자립까지 지역 철강산단 포항시 에너지 상생에서 탄소중립"
+  ],
+  [
+   "2026-08-05T12:21:14.684821+09:00",
+   "날려 하닉 들어갔길래 얼마에 김원훈 1억 물타기 8천"
+  ],
+  [
+   "2026-08-05T12:21:14.684821+09:00",
+   "찾았다는 뮌헨 뷰티숍 김민재와 샀을까 선수들"
   ]
  ],
- "last_run": "2026-08-05T12:11:42.950736+09:00",
+ "last_run": "2026-08-05T12:21:22.986720+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
