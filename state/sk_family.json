@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3646261",
-  "https://www.yna.co.kr/view/AKR20260725054100017?input=1195m",
-  "https://www.news1.kr/industry/general-industry/6238983",
   "https://daily.hankooki.com/news/articleView.html?idxno=1389382",
   "http://www.srtimes.kr/news/articleView.html?idxno=208314",
   "https://www.apnews.kr/news/articleView.html?idxno=3050037",
@@ -2999,12 +2996,12 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428802",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629280",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080342",
-  "https://www.newsis.com/view/NISX20260805_0003737898"
+  "https://www.newsis.com/view/NISX20260805_0003737898",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260805171447lsG",
+  "https://www.kgnews.co.kr/news/article.html?no=906653",
+  "https://www.ngetnews.com/news/articleView.html?idxno=552158"
  ],
  "seen_titles": [
-  "SK,엔비디아와5000억불AI인프라LOI...MS와메모리장기협력",
-  "메모리·AI센터·로봇‥1,375조'빅딜'성사",
-  "SK,엔비디아와5천억달러AI팩토리동맹…\"한국을글로벌AI허브로\"",
   "이재명대통령,샌프란시스코AI서밋서반도체·GPU대규모투자협력...",
   "[AI프리즘]샌프란AI선언,한국AI위상확인했다",
   "샌프란AI선언에쏠린눈…이들손잡으면독자'AI생태계'가능",
@@ -6001,7 +5998,10 @@
   "LG화학김동춘대표,자사주1억원어치매입…책임경영행보",
   "[크랩]9년넘게걸린최태원-노소영이혼소송에외신까지주목한이유",
   "대구시향,하이든·라벨현악4중주로실내악의깊이선사",
-  "이대통령,10일메가프로젝트2차민관합동점검회의주재"
+  "이대통령,10일메가프로젝트2차민관합동점검회의주재",
+  "'밤에도만원'한강수영장…불법촬영등범죄도",
+  "인천검단구,출범1달간주민소통창구‘자유게시판’외면",
+  "김동춘대표LG화학대표,자사주매입"
  ],
  "recent_sigs": [
   [
@@ -6081,7 +6081,7 @@
    "주목한 걸린 9년 소송에 이혼 이유 넘게 외신까지"
   ]
  ],
- "last_run": "2026-08-05T17:10:32.231372+09:00",
+ "last_run": "2026-08-05T17:20:28.085044+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
