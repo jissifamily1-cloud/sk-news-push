@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=760088",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1328050",
   "https://www.etnews.com/20260726000106",
   "https://www.ajunews.com/view/20260726123447781",
@@ -2999,10 +2998,10 @@
   "https://weekly.donga.com/3/all/11/6335947/1",
   "https://dealsite.co.kr/articles/166539",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608041136443160108916",
-  "https://weekly.donga.com/3/all/11/6335989/1"
+  "https://weekly.donga.com/3/all/11/6335989/1",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84255"
  ],
  "seen_titles": [
-  "[속보]조갑제”이재명‘AI비서’꿈야무져,장동혁부정선거론은...",
   "현대차그룹,엔비디아·웨이모·구글과AI연합전선…로봇·자율주행사...",
   "[이슈]\"회사에폐끼치지않겠다\"던최태원…11년전편지의부메랑",
   "삼성전자·SK하이닉스,美빅테크와5년간9500억달러반도체공급협력",
@@ -6001,7 +6000,8 @@
   "‘V자반등’성공한삼전닉스,견조한AI수요딛고상승지속할까",
   "낸드고점론속SK하이닉스의키옥시아셈법",
   "[더벨][두산품에안기는SK실트론]㈜두산지주사복귀가능성'인수구...",
-  "개미구한최태원에‘대(大)태원’칭송…SK하이닉스주가급반등에..."
+  "개미구한최태원에‘대(大)태원’칭송…SK하이닉스주가급반등에...",
+  "\"하반기공채방향잡는다\"…인크루트,대학생선호기업참여'2026채용..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-08-06T07:10:15.156785+09:00",
    "주가 급반등에 최태원에 태원 구한 개미 SK하이닉스 칭송"
+  ],
+  [
+   "2026-08-06T07:40:14.606642+09:00",
+   "공채 채용 인크루트 대학생 하반기 방향 참여 잡는다 선호 기업"
   ]
  ],
- "last_run": "2026-08-06T07:31:39.828068+09:00",
+ "last_run": "2026-08-06T07:40:27.600260+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6350,6 +6354,7 @@
   "ezyeconomy.com": "이지경제",
   "news.inochong.org": "news.inochong.org",
   "newskr.kr": "한국농어촌방송",
-  "readersnews.com": "독서신문"
+  "readersnews.com": "독서신문",
+  "thefairnews.co.kr": "더페어"
  }
 }
