@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2348265.htm",
-  "https://www.newsis.com/view/NISX20260729_0003727962",
-  "https://www.yna.co.kr/view/AKR20260729089200053?input=1195m",
-  "https://www.bntnews.co.kr/article/view/bnt202607290198",
-  "https://biz.chosun.com/topics/topics_social/2026/07/29/J2QT5BMEHRGWZDWKCVQYVLHLUE/",
-  "https://www.newsis.com/view/NISX20260729_0003727938",
   "https://www.etoday.co.kr/news/view/2608580",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4097632",
   "https://www.news1.kr/economy/trend/6242352",
@@ -2999,15 +2993,15 @@
   "https://sateconomy.co.kr/news/view/1065578548427946",
   "https://www.etoday.co.kr/news/view/2611243",
   "https://www.nocutnews.co.kr/news/6558510",
-  "https://www.newsis.com/view/NISX20260805_0003737226"
+  "https://www.newsis.com/view/NISX20260805_0003737226",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719206",
+  "https://www.newscj.com/news/articleView.html?idxno=3422627",
+  "http://www.press9.kr/news/articleView.html?idxno=80646",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260805113441OYQ",
+  "https://www.dailian.co.kr/news/view/1674700/?sc=Naver",
+  "https://www.slist.kr/news/articleView.html?idxno=756655"
  ],
  "seen_titles": [
-  "'300억대사기혐의'차가원,보완수사끝에내달3일구속기로",
-  "'300억대사기혐의'차가원구속기로…8월3일영장심사",
-  "경찰,경산방화사건결정적범행동기추적…유의미한진술확보",
-  "‘음료테러자작극’정이한,‘깡통휴대전화’제출논란",
-  "검찰,‘아동성매매혐의’최영중前청주시의원구속영장청구",
-  "\"'ㄹㄷ'뜨면매도\"…특징주기사로85억챙긴기자·회계사일당기소(...",
   "시알홀딩스,비계열사지분5%초과소유…과징금7900만원",
   "지주회사행위제한규정위반한㈜시알홀딩스제재…과징금7,900만원부...",
   "지주회사전환유예기간중위반…시알홀딩스에과징금7900만원",
@@ -6001,10 +5995,16 @@
   "경찰,스타벅스본사압수수색…5·18모욕‘탱크데이’감사부실정...",
   "검찰,LG화학·한화솔루션등‘PVC담합혐의’압수수색",
   "檢,'석유화학제품수년간담합의혹'7개사압수수색",
-  "검찰,'PVC·가소제담합의혹'석유화학업체7개사압수수색"
+  "검찰,'PVC·가소제담합의혹'석유화학업체7개사압수수색",
+  "공정위,대한항공기내면세재편제동…독과점가능성검토",
+  "주진우'스타벅스압수수색'에\"중국식공안국가신호탄\"",
+  "스타벅스,'탱크데이'강제수사…사과넘어내부통제검증대",
+  "[이시각헤드라인]8월5일뉴스센터",
+  "'쿠팡수사외압폭로'문지석검사\"중수청수사관지원계획\"",
+  "경찰,'탱크데이'논란스타벅스압수수색…부실감사정황근거로강제..."
  ],
  "recent_sigs": [],
- "last_run": "2026-08-05T11:31:06.003128+09:00",
+ "last_run": "2026-08-05T11:41:00.183376+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
