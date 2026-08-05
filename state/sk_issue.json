@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260730113153983",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/30/2026073000142.html",
   "https://biz.heraldcorp.com/article/10825692",
   "https://www.ytn.co.kr/_ln/0103_202607301238298481",
   "http://www.iminju.net/news/articleView.html?idxno=167356",
@@ -2999,11 +2997,11 @@
   "https://news.jtbc.co.kr/article/NB12311952?influxDiv=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629962",
   "https://view.asiae.co.kr/article/2026080607184072698",
-  "https://www.yna.co.kr/view/AKR20260806014000011?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260806014000011?input=1195m",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34530",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16155979"
  ],
  "seen_titles": [
-  "공정위,바이오연료납품입찰담합한제조·판매사업자7곳에제재착...",
-  "경찰,쿠팡사무실압수수색…인천물류센터화재강제수사착수",
   "“미성년자인줄몰랐다”더니⋯최영중,학교근처찾아가‘생활복’...",
   "경찰,'쿠팡인천석남동물류센터화재'압수수색",
   "11년간바이오연료입찰담합혐의…공정위,7개업체제재착수",
@@ -6001,7 +5999,9 @@
   "강북구오피스텔살인피의자,13세미만성폭력15차례…전자발찌부착...",
   "쿠팡주가는왜반토막이났나",
   "\"1만피간다면서\"…코스피전망치뒤늦게낮추는증권가[1분브리프]",
-  "[전국주요신문사설](6일조간)"
+  "[전국주요신문사설](6일조간)",
+  "'탱크데이'스타벅스압수수색…첫영장반려뒤76일만에강제수사",
+  "[TOP이슈]'부정거래혐의'방시혁수사장기화속하이브주가최저점..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "가능성 두산 복귀 인수구 지주사"
   ]
  ],
- "last_run": "2026-08-06T08:11:02.948047+09:00",
+ "last_run": "2026-08-06T08:21:04.041731+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
