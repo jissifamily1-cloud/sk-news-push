@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyeonggi.com/article/20260729580117",
-  "https://www.nocutnews.co.kr/news/6555152",
-  "https://news.jtbc.co.kr/article/NB12310717?influxDiv=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687928",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=90022",
-  "https://www.hankyung.com/article/2026072930227",
   "https://www.ytn.co.kr/_ln/0101_202607291350598164",
   "http://www.fnnews.com/news/202607291353168484",
   "http://www.4th.kr/news/articleView.html?idxno=2115432",
@@ -2999,15 +2993,15 @@
   "https://www.joongang.co.kr/article/25450981",
   "https://www.ytn.co.kr/_ln/0102_202608051216372654",
   "https://www.thereport.co.kr/news/articleView.html?idxno=90172",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04506726645544368"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04506726645544368",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456134",
+  "http://www.iminju.net/news/articleView.html?idxno=167632",
+  "https://news.tf.co.kr/read/life/2350611.htm",
+  "https://www.chosun.com/politics/assembly/2026/08/05/LZ6Y4G7BSVBUZBRORI5HAFJY4U/",
+  "https://www.munhwa.com/article/11607449",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008691330&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "‘특징주기사’띄워선행매매…85억챙긴기자·회계사무더기재판행",
-  "\"ㄹㄷ(레디)하면매도\"…기사선행매매로93억챙긴일당기소(종합)",
-  "'자작극인정'정이한,경찰에깡통폰냈다...'공모여부'밝힐증거사...",
-  "엔비디아직원체포됐다…AI서버대중국밀수,공급망내부까지번져",
-  "'특징주기사'로86억챙겼다,범인은기자·회계사",
-  "장윤기수사팀,압수수색영장신청서실수로2차례반려당해",
   "'테러자작극'정이한,경찰에초기화한'깡통폰'제출",
   "'여교사몰카'아들휴대폰부순경찰父\"장윤기사건과난달라...억울...",
   "특징주기사선행매매8명기소..2200건으로93억원챙겨",
@@ -6001,10 +5995,16 @@
   "장동혁,경찰스타벅스압수수색에“절대권력받자마자‘보은수사’...",
   "청년피자가맹본부,점주에특약강제'갑질'...과징금2억원",
   "'청년피자'가맹본부과징금1억9700만원",
-  "'탱크데이'스타벅스압수수색에…장동혁\"이재명보은수사\""
+  "'탱크데이'스타벅스압수수색에…장동혁\"이재명보은수사\"",
+  "비싼삼겹살알고보니···돼지고기유통6개사담합기소",
+  "檢,석유화학업체7곳압수수색…가격담합의혹수사",
+  "배재고,'탱크데이'선창야구부학생2명중징계",
+  "野,스타벅스압색에“경찰,정권의충견인가”“중국식공안국가의...",
+  "警,스벅압수수색…‘탱크데이’재소환",
+  "'탱크데이'스타벅스압수수색…자체감사부실정황"
  ],
  "recent_sigs": [],
- "last_run": "2026-08-05T12:20:59.549427+09:00",
+ "last_run": "2026-08-05T12:31:04.665111+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
