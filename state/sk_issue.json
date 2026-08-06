@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/gwangju-jeonnam/6245312",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=315858",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255591&CMPT_CD=P0010",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5209440",
-  "https://www.ytn.co.kr/_ln/0134_202607311309258939",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849001",
-  "https://www.hankyung.com/article/202607317853H",
   "https://www.segye.com/newsView/20260731510778?OutUrl=naver",
   "https://www.gokorea.kr/news/articleView.html?idxno=873666",
   "http://www.mdilbo.com/detail/c3QycN/757611",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0134_202608061603318280",
   "https://sports.khan.co.kr/article/202608061602003?pt=nv",
   "https://www.hankookilbo.com/news/article/A2026080615300005252?did=NA",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=224479"
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=224479",
+  "https://www.the-today.com/news/articleView.html?idxno=88014",
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19661",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84142",
+  "https://www.mt.co.kr/economy/2026/08/06/2026080615073869564",
+  "https://www.ngonews.kr/news/articleView.html?idxno=234793",
+  "http://www.fnnews.com/news/202608061509018803",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849554"
  ],
  "seen_titles": [
-  "'장윤기사건'형사과장\"케이블타이존재몰랐다\"…다시구속기로(종합...",
-  "서영교,최영중통신영장한차례기각한청주지검직격",
-  "\"민주당전대,공천권싸움으로번져...집권기회잃을수도\"",
-  "'유흥업소불법취업'외국인68명무더기적발…업주11명입건",
-  "'미성년자성매매'혐의최영중,결국구속...추가범행집중조사[자막...",
-  "'11년간담합'바이오연료7개사,공정위심의착수",
-  "\"미성년자몰랐다더니\"최영중,중학교생활복입은학생만나",
   "합수본,‘투표율조작지시’중앙선관위관계자피의자소환",
   "정원주전통일교비서실장소환…통일교원정도박수사무마의혹진실...",
   "‘장윤기사건’전형사과장다시구속기로···“케이블타이존재몰...",
@@ -6001,7 +5994,14 @@
   "'피규어'거래인줄알았는데...어이없는멸종위기종밀수수법[자막뉴...",
   "“압수수색까지받을범죄였나요?”축구협회,첫경찰압수수색에당혹",
   "'음주뺑소니경찰관수사정보유출의혹'대구청·수성서압수수색",
-  "코브라·악어에알비노비단뱀까지…검찰,야생동물밀수조직기소"
+  "코브라·악어에알비노비단뱀까지…검찰,야생동물밀수조직기소",
+  "[김재진칼럼]쉬운Web3이야기2",
+  "권향엽\"스타벅스사태로소비자에불리한환불요건빈틈확인\"",
+  "\"와이파이유출도통신사책임\"…공정위,이통3사불공정약관손질",
+  "최대15조과징금?…공정위,'국고채담합'결론낸다",
+  "코브라,양쯔강악어등국제멸종위기종밀수일당적발···전국주택가...",
+  "'탱크데이논란80일'스타벅스소비반등조짐에도…'탈벅'여파여전",
+  "최태원9440억이혼자금마련어떻게…SK실트론매각·지분담보시나리..."
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-08-06T13:11:04.487346+09:00",
    "약관 시정 개인정보 불공정 면책조항 이통3사 손질"
+  ],
+  [
+   "2026-08-06T16:20:49.765897+09:00",
+   "지분 마련 담보 SK실트론 최태원 이혼자금 시나리 9440억 매각 어떻게"
   ]
  ],
- "last_run": "2026-08-06T16:11:29.899803+09:00",
+ "last_run": "2026-08-06T16:20:58.341074+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6066,6 +6070,7 @@
   "newsway.co.kr": "뉴스웨이",
   "fieldnews.kr": "필드뉴스",
   "greenpostkorea.co.kr": "그린포스트코리아",
-  "the-biz.co.kr": "THE Biz(더비즈)"
+  "the-biz.co.kr": "THE Biz(더비즈)",
+  "newsworks.co.kr": "뉴스웍스"
  }
 }
