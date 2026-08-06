@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-today.com/news/articleView.html?idxno=87865",
-  "https://www.mt.co.kr/politics/2026/07/26/2026072610182281659",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308218&inflow=N",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01659686645518456",
   "http://www.newstomato.com/ReadNews.aspx?no=1308174&inflow=N",
   "http://www.fnnews.com/news/202607261339107267",
@@ -2999,12 +2996,12 @@
   "http://enews.imbc.com/News/RetrieveNewsInfo/513843",
   "http://www.thebigdata.co.kr/view.php?ud=202608060746231453d0a8833aad_23",
   "https://www.theguru.co.kr/news/article.html?no=105424",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849534"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849534",
+  "http://www.popcornnews.net/news/articleView.html?idxno=128838",
+  "http://www.econotelling.com/news/articleView.html?idxno=21058",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572783789760"
  ],
  "seen_titles": [
-  "'AI생산기지대한민국'첫발…삼성,브로드컴과290조동맹",
-  "[초점]1400兆쥔韓·美'빅테크연합','AI르네상스'서막…엔비디아...",
-  "李대통령,美'AI세일즈'마무리…9500억달러협력안고브라질행",
   "더투데이최태원단독기사100만뷰돌파…한달누적500만건",
   "李대통령,한-실리콘밸리동맹다지고브라질로…\"설레는마음\"",
   "실리콘밸리서'AI선언'…경제적가치만'1400조'",
@@ -6001,7 +5998,10 @@
   "마틴,코르티스'영크크'유행어탄생비하인드공개…'라스'최고의1분",
   "이재용회장,CEO브랜드평판8월빅데이터1위...최태원·구광모회장순",
   "SK하이닉스,美인디애나공장착공준비착착…손님맞을채비분주",
-  "[IT라운지]비즈니스온'AI전환'·케이웨더'IoT폭염관리'·해피빈'도란..."
+  "[IT라운지]비즈니스온'AI전환'·케이웨더'IoT폭염관리'·해피빈'도란...",
+  "이재용삼성,8월CEO브랜드평판1위…최태원SK·구광모LG뒤이어",
+  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(83)사업보국의일념",
+  "[어닝쇼크]최창원재선임뒤첫성적'439억적자'…SK가스경영진시험..."
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,17 @@
   [
    "2026-08-06T09:40:19.941088+09:00",
    "폭염관리 해피빈 케이웨더 AI전환 비즈니스온 IoT 도란"
+  ],
+  [
+   "2026-08-06T10:00:29.236962+09:00",
+   "사업보국의 유산 일념 70년"
+  ],
+  [
+   "2026-08-06T10:00:29.236962+09:00",
+   "재선임 439억 경영진 성적 시험 적자 SK가스"
   ]
  ],
- "last_run": "2026-08-06T09:50:29.386771+09:00",
+ "last_run": "2026-08-06T10:00:49.374022+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
