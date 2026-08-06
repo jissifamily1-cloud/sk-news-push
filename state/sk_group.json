@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newskr.kr/news/articleView.html?idxno=105353",
-  "https://www.raonnews.com/news/article.html?no=60071",
-  "https://biz.heraldcorp.com/article/10831540",
-  "http://www.fnnews.com/news/202608051102207088",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274179",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1173519",
   "https://www.yna.co.kr/view/AKR20260805065500091?input=1195m",
   "https://www.mediapen.com/news/view/1114418",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500115.html",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/202608069505i",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1533184",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=08606726645544696",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244748"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244748",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008693946&plink=ORI&cooper=NAVER",
+  "http://www.finomy.com/news/articleView.html?idxno=258740",
+  "https://www.tjb.co.kr/news05/bodo/view/id/102105",
+  "https://www.dailian.co.kr/news/view/1675590/?sc=Naver",
+  "https://biz.heraldcorp.com/article/10833151",
+  "https://www.khan.co.kr/article/202608062039005"
  ],
  "seen_titles": [
-  "SK이노베이션,초록우산과가족돌봄아동진로지원",
-  "주주단체,'성과급교섭'삼성전자·SK하이닉스대표고발...경찰수사...",
-  "SK바이오팜,2분기매출2,474억…'분기기준역대최고실적경신'지...",
-  "성과급줬다고배임…삼전닉스대표수사",
-  "中창신메모리점유율수직상승에고무된중국반도체산업",
-  "[기고]단일종목레버리지ETF,입체적이고단호한정책대안마련돼야",
   "\"삼전닉스대표,영업익연동성과급배임행위\"…경찰,주주단체고발건...",
   "[OpeningMarket]KOSPISurgesAbove6,600AmidChipStockRally",
   "SK하이닉스,청주시병원안심동행차량구입비6600만원기탁",
@@ -6001,45 +5995,15 @@
   "\"애플-CXMT메모리반도체공급협상결렬…가격조건안맞아\"",
   "인천서해구쿠팡물류센터화재인근도로통행재개",
   "기후·돌봄문제해결이곧성장…임팩트투자에2000조우르르",
-  "한국원화개입설배경엔미국'무역적자'우려"
+  "한국원화개입설배경엔미국'무역적자'우려",
+  "미반도체주급락…'하닉'폭락,코스피6,300선도붕괴",
+  "SK에코플랜트,사회적가치7640억원창출",
+  "(R)\"숨은반도체강자,충남\"…'1호메가특구'노린다",
+  "[데일리안오늘뉴스종합]축구협회외국인심판에성접대의혹,李대통...",
+  "ETF중80%가와르르,‘돈번사람도있어?’…잔인한7월[투자360]",
+  "와이파이쓰다정보유출때통신사‘무’책임?이젠안돼"
  ],
  "recent_sigs": [
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "주주환원 삼성 키운다 244조"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "이통업계 받아가세요 환급금 입은 총력전 AI 스미싱에"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "KB국민 신한카드 맞춤형 선봬 혜택 고객"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "플랫폼 기술 보로노이 신약 결합 가동 차세대 파이프라인 독자적"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "SKT는 가입자 대응이 23만명 역풍에 회복 은폐 갈랐다 해킹 이탈 KT는"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "다우지수 기대감 협상 최고치 호르무즈"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "지분 Sh수협은행과 협의 매각 상상인증권"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "코스닥 차례 상승률 압도 8월 드디어 동생 코스피"
-  ],
-  [
-   "2026-08-06T14:41:22.335932+09:00",
-   "뒷돈은 비틀고 한동훈 팔은 받고 향해 김민석 정도"
-  ],
   [
    "2026-08-06T14:51:17.045482+09:00",
    "기술시장 SK그룹 바꿔 판도 AI 전략"
@@ -7075,9 +7039,25 @@
   [
    "2026-08-06T20:41:14.538390+09:00",
    "배경엔 무역적자 개입설 우려 한국 미국 원화"
+  ],
+  [
+   "2026-08-06T20:51:06.124539+09:00",
+   "충남 노린다 반도체 강자 1호 메가특구 숨은"
+  ],
+  [
+   "2026-08-06T20:51:06.124539+09:00",
+   "심판에 성접대 축구협회 의혹 대통 외국인"
+  ],
+  [
+   "2026-08-06T20:51:06.124539+09:00",
+   "와르르 ETF 7월 있어 잔인한 사람도"
+  ],
+  [
+   "2026-08-06T20:51:06.124539+09:00",
+   "정보 이젠 유출 쓰다 통신사 책임 와이파이"
   ]
  ],
- "last_run": "2026-08-06T20:41:23.367188+09:00",
+ "last_run": "2026-08-06T20:51:25.553836+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7191,7 +7171,7 @@
   "dealsite.co.kr": "딜사이트",
   "kwangju.co.kr": "kwangju.co.kr",
   "dgmbc.com": "대구MBC",
-  "tjb.co.kr": "tjb.co.kr",
+  "tjb.co.kr": "TJB 티제이비",
   "ksmnews.co.kr": "경상매일신문",
   "andongmbc.co.kr": "andongmbc.co.kr",
   "idaegu.co.kr": "대구신문",
