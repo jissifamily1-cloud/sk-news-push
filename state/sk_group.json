@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000326796?division=NAVER",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04792086645544368",
-  "https://theviewers.co.kr/View.aspx?No=4175387",
-  "https://www.ajunews.com/view/20260805133312669",
-  "https://www.etnews.com/20260805000234",
-  "https://www.newsis.com/view/NISX20260805_0003737469",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274196",
   "https://www.m-i.kr/news/articleView.html?idxno=1399180",
   "https://www.news2day.co.kr/article/20260805500149",
   "https://www.electimes.com/news/articleView.html?idxno=370992",
@@ -2999,16 +2992,16 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070156&t=NN",
   "https://www.chosun.com/economy/economy_general/2026/08/07/CTYH3AOAKBCZDPU5AVTAKDZAF4/",
   "https://www.sedaily.com/article/20076686",
-  "https://www.newsway.co.kr/news/view?ud=2026080617051560396"
+  "https://www.newsway.co.kr/news/view?ud=2026080617051560396",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201057111230662",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04634646645545024",
+  "https://www.globale.co.kr/news/articleView.html?idxno=39746",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361410",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=854955",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167483",
+  "https://biz.sbs.co.kr/article_hub/20000327230?division=NAVER"
  ],
  "seen_titles": [
-  "[기업실적]SK텔레콤,2Q실적‘상승’…영업이익전년比67.3%↑",
-  "SK쉴더스,AI기반보안기술결실…아태지역고객가치선도기업으로...",
-  "SK쉴더스,침해사고피해인지부터조사까지100일초과…보안상시체...",
-  "[오후장체크포인트]코스피,장중매수사이드카발동…6600선회복",
-  "전기차배터리20%커졌는데…中7곳이72.4%장악",
-  "글로벌배터리시장20%성장했지만…국내업체점유율은하락",
-  "[食전食후]美반도체랠리이어받은코스피4%대강세…코스닥도2%대↑",
   "SKT,2분기영업익67%↑…AIDC매출2배늘어",
   "한울앤제주,바이에른뮌헨친선전스폰서참여…'비어가든'운영성료",
   "SK쉴더스,아태지역사이버보안경쟁력인정받아AI기반보안역량확인",
@@ -6001,7 +5994,14 @@
   "美증시'숨고르기'다우0.85%↓…호르무즈협상·고용지표대기-[글로...",
   "美,반도체·태양광핵심원료폴리실리콘파생제품에15%관세…국내...",
   "코스닥5일랠리에레버리지ETF‘방긋’…수익률60%찍었다[마켓시그...",
-  "[기자수첩]AI사업질주,희미해진통신본업"
+  "[기자수첩]AI사업질주,희미해진통신본업",
+  "워커힐,프리미엄김치‘수펙스’미국첫수출",
+  "[MUSTKNOW5]알파벳·스페이스X에몰린AI머니…다이먼은시장리스크...",
+  "이란,호르무즈통항금지추진에유가급등···뉴욕증시약세",
+  "호르무즈악재에뉴욕증시하락…다우1%↓",
+  "K배터리3사함께웃었다…하반기관건은'지속성'",
+  "'배터리잔혹사'반복우려에도…메모리,中맞서초격차굳건",
+  "[마켓프리뷰]상승세지키지못한코스피급락마감…코스닥'강보합'"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,21 @@
   [
    "2026-08-07T07:21:30.211609+09:00",
    "사업 질주 희미해진 통신 AI 본업"
+  ],
+  [
+   "2026-08-07T07:31:22.173559+09:00",
+   "관건은 K배터리 웃었다 3사 하반기 지속성 함께"
+  ],
+  [
+   "2026-08-07T07:31:22.173559+09:00",
+   "잔혹사 반복 메모리 굳건 맞서 배터리 우려에도 초격차"
+  ],
+  [
+   "2026-08-07T07:31:22.173559+09:00",
+   "상승세 급락 코스피 코스닥 강보합 마감 지키지 못한"
   ]
  ],
- "last_run": "2026-08-07T07:21:39.095073+09:00",
+ "last_run": "2026-08-07T07:31:34.460135+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
