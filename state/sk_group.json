@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dizzotv.com/site/data/html_dir/2026/08/05/2026080580060.html",
-  "https://economist.co.kr/article/view/ecn202608050022",
-  "https://www.yna.co.kr/view/AKR20260805072400008?input=1195m",
-  "https://www.nocutnews.co.kr/news/6558530",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155802",
-  "https://biz.heraldcorp.com/article/10831594",
-  "https://biz.heraldcorp.com/article/10831592",
   "https://biz.sbs.co.kr/article_hub/20000326779?division=NAVER",
   "https://www.newspim.com/news/view/20260805000617",
   "https://www.mhns.co.kr/news/articleView.html?idxno=755567",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12113296",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6842986_37004.html",
   "http://www.tjb.co.kr/sub0301/bodo/view/id/102105",
-  "https://www.etnews.com/20260806000413"
+  "https://www.etnews.com/20260806000413",
+  "https://www.mk.co.kr/article/12119846",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690772",
+  "https://jtv.co.kr/news/article.php?id=70449",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608060008",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=442424",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=442425",
+  "http://www.segyebiz.com/newsView/20260806523518?OutUrl=naver"
  ],
  "seen_titles": [
-  "SK바이오팜,2분기매출2,474억·영업이익971억…세노바메이트성장에...",
-  "경찰,'성과급지급배임혐의'삼성전자·SK하이닉스대표수사착수",
-  "SK바이오팜2Q영업익57%↑971억...\"세노바메이트미국매출45%증가\"",
-  "SKT,2분기영업익5660억원달성...AIDC매출92%급증",
-  "삼전닉스성과급,다시안갯속…'배임고발'경찰수사착수",
-  "담을물량이없다?…채권시장'큰손'하이닉스,단기시장향하나",
-  "코스피,오전내4%대급등지속…코스닥나흘째상승",
   "삼성물산,홈플랫폼'홈닉'서비스확장…주거관리넘어생활플랫폼...",
   "SK텔레콤“통신·AIDC양날개”영업익67%급증",
   "“韓,2031년까지메모리최강…엔비디아HBM독주도흔들”",
@@ -6001,7 +5994,14 @@
   "AI인프라디벨로퍼…‘뉴마이웨이’개척자[CEO라운지]",
   "중동또언제막힐지‥\"호주원유들어왔다\"",
   "\"숨은반도체강자,충남\"…'1호메가특구'노린다",
-  "코스피는떨어지는데'희망고문?'…골드만삭스“1만2000간다”근거는..."
+  "코스피는떨어지는데'희망고문?'…골드만삭스“1만2000간다”근거는...",
+  "“돈번사람있나요?”…7월ETF중80%‘와르르’",
+  "SKT'에이닷'일시장애복구…점검후정상작동",
+  "SK빠진협의···새만금태양광괜찮나?",
+  "'승자독식'ETF…삼성·미래에셋만살찌운규제의역설",
+  "[상한가종목]SK디앤디-유니켐이어매드업-본느등마감",
+  "코스피,4%대낙폭에6300선밑으로...LG에너지솔루션,삼성바이오로직...",
+  "개인정보침해해도면책?…이통3사불공정약관손본다"
  ],
  "recent_sigs": [
   [
@@ -6915,9 +6915,29 @@
   [
    "2026-08-06T21:16:50.913537+09:00",
    "희망고문 골드만삭스 코스피는 간다 1만2000 근거는 떨어지는데"
+  ],
+  [
+   "2026-08-06T21:31:11.245573+09:00",
+   "괜찮나 새만금 태양광 빠진 협의"
+  ],
+  [
+   "2026-08-06T21:31:11.245573+09:00",
+   "삼성 규제의 승자독식 역설 미래에셋만 ETF 살찌운"
+  ],
+  [
+   "2026-08-06T21:31:11.245573+09:00",
+   "이어 유니켐 본느 SK디앤디 매드업 마감"
+  ],
+  [
+   "2026-08-06T21:31:11.245573+09:00",
+   "코스피 LG에너지솔루션 6300선 밑으로 낙폭에 삼성바이오로직"
+  ],
+  [
+   "2026-08-06T21:31:11.245573+09:00",
+   "불공정약관 이통3사 손본다 개인정보 면책 침해해도"
   ]
  ],
- "last_run": "2026-08-06T21:21:34.992156+09:00",
+ "last_run": "2026-08-06T21:31:36.239798+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
