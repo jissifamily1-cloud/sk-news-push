@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.impacton.net/news/articleView.html?idxno=19712",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065602766604866",
-  "https://www.newsis.com/view/NISX20260731_0003732224",
-  "https://www.mt.co.kr/society/2026/07/31/2026073118040450522",
-  "https://www.news1.kr/society/incident-accident/6245824",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16151248",
   "http://www.lec.co.kr/news/articleView.html?idxno=752498",
   "http://www.jmbc.co.kr/news/view/66694",
   "https://www.yna.co.kr/view/AKR20260731160400055?input=1195m",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026080692881",
   "https://www.kyeongin.com/article/1768584",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1533149",
-  "https://www.newspim.com/news/view/20260806001177"
+  "https://www.newspim.com/news/view/20260806001177",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444154",
+  "https://www.m-i.kr/news/articleView.html?idxno=1399818",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290026",
+  "https://www.mk.co.kr/article/12119507",
+  "http://www.fnnews.com/news/202608061808000792",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1533173"
  ],
  "seen_titles": [
-  "【이선경의ESG딥다이브】지속가능성공시로드맵,제도화보다중요한...",
-  "건룡건설,하도급대금1억원미지급…공정위과징금1억원부과",
-  "'수유동오피스텔살인'피의자살인·마약인정…\"피해자와지인\"(종합...",
-  "\"미성년자인줄몰랐다\"던최영중,'생활복'입은여중생만났다",
-  "'수유동오피스텔살인'50대…살인·마약혐의인정(종합)",
-  "국회,검찰직접·보완수사권폐지…수사·기소72년만에분리",
   "10월2일부터\"검찰,수사못하고보완수사요구만\"형사소송법국회통...",
   "민주\"검찰개혁완성\",국힘\"법치주의종말\"",
   "불법촬영아들증거없앤경찰관…경찰,주변인개입수사",
@@ -6001,13 +5995,15 @@
   "警'홍명보선임의혹'축구협회압수수색",
   "[오늘여의도]“보완수사권폐지…사적감정·졸속추진”",
   "경찰,대한축구협회첫압수수색…홍명보선임의혹수사",
-  "법원,'관저이전봐주기감사'유병호구속적부심기각"
+  "법원,'관저이전봐주기감사'유병호구속적부심기각",
+  "공정위은행증권사대상국고채담합의혹심의,최대15조원과징금...",
+  "공정위,이통3사불공정약관제동…\"개인정보사고책무강화\"",
+  "\"고객돈2.6조로400억챙긴스타벅스...환불은60%써라\"에칼빼든黨...",
+  "국고채입찰서담합혐의…공정위,은행·증권사심의",
+  "브랜드1곳이가맹단체10곳과협상할수도…줄분쟁우려",
+  "종합특검,대검정보통신과등압수수색…'내란가담'혐의"
  ],
  "recent_sigs": [
-  [
-   "2026-08-06T12:10:56.584544+09:00",
-   "불공정 LG유플러스의 약관에 철퇴 SK텔레콤"
-  ],
   [
    "2026-08-06T13:11:04.487346+09:00",
    "약관 시정 개인정보 불공정 면책조항 이통3사 손질"
@@ -6029,7 +6025,7 @@
    "취소에 대법원행 결국 과장광고 과징금 SKT"
   ]
  ],
- "last_run": "2026-08-06T18:10:57.864530+09:00",
+ "last_run": "2026-08-06T18:20:58.943095+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
