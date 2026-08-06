@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2607519",
-  "https://www.sportsseoul.com/news/read/1624669",
   "https://www.aitimes.kr/news/articleView.html?idxno=41165",
   "https://www.hankookilbo.com/news/article/A2026072614390000909?did=NA",
   "https://www.gukjenews.com/news/articleView.html?idxno=3645791",
@@ -2999,11 +2997,11 @@
   "http://www.breaknews.com/1227423",
   "https://www.hankyung.com/article/202608079711g",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855150",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608030431361340106881"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608030431361340106881",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790063.html",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=755828"
  ],
  "seen_titles": [
-  "[이슈플러스]실리콘밸리가먼저겪은토큰경쟁…'맥싱'에서'미닝'으로",
-  "최태원·젠슨황,5000억달러'AI동맹'…한국에2GW팩토리",
   "삼성이재용·SK최태원회장의글로벌AI주도권'투트랙'승부수,단...",
   "“일본키옥시아,최대주주다시도시바⋯SK하닉사실상2대주주”",
   "‘정경유착프레임’에갇힌9440억판결…SK30년독자경영사(史)지웠...",
@@ -6001,7 +5999,9 @@
   "[추적]〈SK하이닉스>⑧149만6000원에서멈췄다…7일이운명을결정한다...",
   "맛피아·장나라·김정난스타집사들도…'세계고양이의날'에'후끈'",
   "한국전광,ESG경영대상환경부문최우수상수상",
-  "[더벨][두산실트론인수재무방정식]FI유치없다,로보틱스팔고도..."
+  "[더벨][두산실트론인수재무방정식]FI유치없다,로보틱스팔고도...",
+  "''멸종위기1급'여우28마리소백산방사…GPS로2년간추적",
+  "한국전광(주)최영근대표,ESG경영대상환경부분최우수상수상"
  ],
  "recent_sigs": [
   [
@@ -6029,7 +6029,7 @@
    "FI 유치 없다 로보틱스 팔고도"
   ]
  ],
- "last_run": "2026-08-07T08:30:47.619213+09:00",
+ "last_run": "2026-08-07T08:40:26.584968+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
