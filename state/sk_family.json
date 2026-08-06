@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273591",
-  "https://www.newspim.com/news/view/20260726000085",
   "https://www.pointe.co.kr/news/articleView.html?idxno=82293",
   "https://www.newsis.com/view/NISX20260726_0003723526",
   "https://www.busan.com/view/busan/view.php?code=2026072613532748990",
@@ -2999,11 +2997,11 @@
   "https://www.greened.kr/news/articleView.html?idxno=346927",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93356",
   "https://www.sedaily.com/article/20076351",
-  "http://www.metroseoul.co.kr/article/20260805500612"
+  "http://www.metroseoul.co.kr/article/20260805500612",
+  "https://www.slist.kr/news/articleView.html?idxno=756955",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361349"
  ],
  "seen_titles": [
-  "李대통령,美AI세일즈마치고브라질행…9500억달러협력성과",
-  "李,'샌프란AI선언'…韓美,'AI·반도체초격차'굳히기",
   "'역대최고'재산분할9천440억최태원…다음은'8조재산'권혁빈?",
   "SK최태원,엔비디아와5000억달러'AI동맹'",
   "李대통령,美샌프란'AI세일즈'마치고출국…남미3개국순방시작",
@@ -6001,7 +5999,9 @@
   "SK실트론인수두고…일각'재무부담·신용도하향'우려에두산\"문제...",
   "AI가바꾼M&A지형…'기업사냥'에서'미래산업패권경쟁'으로",
   "인크루트,제24회채용설명회사전신청시작",
-  "김해시,농촌지도사투입해현장기술맞춤형지원"
+  "김해시,농촌지도사투입해현장기술맞춤형지원",
+  "인크루트,'2026채용설명회'개최...하반기채용계획공개",
+  "글로벌분석가가본SK그룹의AI전략"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,13 @@
   [
    "2026-08-06T10:10:13.918270+09:00",
    "제24회 사전신청 인크루트 시작 채용설명회"
+  ],
+  [
+   "2026-08-06T11:00:32.052719+09:00",
+   "글로벌 분석가가 AI전략 SK그룹의"
   ]
  ],
- "last_run": "2026-08-06T10:50:32.391786+09:00",
+ "last_run": "2026-08-06T11:00:46.211738+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
