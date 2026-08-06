@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tfmedia.co.kr/news/article.html?no=206131",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128508",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849062",
-  "http://www.jmbc.co.kr/news/view_breakingnews/66694",
-  "https://www.bloter.net/news/articleView.html?idxno=669737",
-  "https://www.mk.co.kr/article/12113603",
-  "http://www.metroseoul.co.kr/article/20260731500230",
-  "https://www.ytn.co.kr/_ln/0103_202607311756316292",
-  "https://lawtalknews.co.kr/article/OUFC9U1V0LRH",
-  "https://lawtalknews.co.kr/article/2UM24MY42JF9",
   "http://www.yonhapnewstv.co.kr/news/MYH202607311754402Va",
   "http://www.breaknews.com/1225999",
   "https://www.dailian.co.kr/news/view/1673351/?sc=Naver",
@@ -2999,19 +2989,19 @@
   "https://www.dailian.co.kr/news/view/1675566/?sc=Naver",
   "http://www.newstomato.com/ReadNews.aspx?no=1309481&inflow=N",
   "https://www.mk.co.kr/article/12119399",
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95952"
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95952",
+  "http://www.impacton.net/news/articleView.html?idxno=19800",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=82903",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=314592",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031054",
+  "https://www.news1.kr/photos/8044941",
+  "https://www.news1.kr/photos/8044940",
+  "http://www.osen.co.kr/article/G1112852979",
+  "https://www.newspim.com/news/view/20260806001167",
+  "https://www.newsis.com/view/NISI20260806_0021390977",
+  "https://www.newsis.com/view/NISI20260806_0021390979"
  ],
  "seen_titles": [
-  "[이슈체크]세무사회,8월세무플랫폼무더기고발착수…양벌규정적용...",
-  "투표용지의혹부터운영비리까지…선관위특검초읽기",
-  "'檢보완수사권폐지'형소법본회의통과…70년사법체계대전환",
-  "[속보]형소법민주\"검찰개혁완성\",국힘\"법치주의종말\"",
-  "5G과장광고로139억과징금맞은KT,공정위상대소송서패소",
-  "보완수사권없는검사가구속·증거보전책임…곳곳서모순",
-  "국회,'필버종결후'형소법개정안與주도로처리…野\"거부권행사해...",
-  "'노동자사망'주차설비공사업체대표구속송치",
-  "경찰수사불만이어도검사가직접못나선다?'보완수사권폐지'달라지...",
-  "텔레그램서한달간음란물공유하고‘앱삭’…1년뒤압수수색,처벌...",
   "권한만큼책임커진경찰…역량엔여전히물음표",
   "검사,이제수사못한다..'보완수사권폐지안'국회본회의통과",
   "경찰불법체포밝힌검사…대검우수사례선정",
@@ -6001,7 +5991,17 @@
   "종합특검,심우정'내란가담'관련대검추가압수수색",
   "홍명보선임논란2년…2024년파동부터소환·압색까지",
   "몰래대리운전뛰다성범죄저지른농식품부산하기관",
-  "'사상첫압수수색'초토화된축구협회...지칠대로지친직원들,\"더나..."
+  "'사상첫압수수색'초토화된축구협회...지칠대로지친직원들,\"더나...",
+  "【박란희의TalkTalk】지식의문이닫히면",
+  "공정위,세라젬에과징금4억대부과…세라젬\"해석차이존재\"",
+  "공정위,세라젬에과징금4.3억…\"하도급업체도면요구해中법인넘겨...",
+  "전세사기'건축왕'추가재판2심징역15년에불복상고",
+  "수선한분위기보이는대한축구협회사무실",
+  "압수수색진행중인대한축구협회사무실",
+  "'홍명보선임논란'축구협회,초유의압수수색사태...경찰이강제수사...",
+  "[종합]특검,'양평'원희룡2차조사…'당정대회의'한동훈·방기선수...",
+  "2차종합특검대검추가압수수색",
+  "특검,대검정보통신과압수수색"
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "취소에 대법원행 결국 과장광고 과징금 SKT"
   ]
  ],
- "last_run": "2026-08-06T17:40:57.257764+09:00",
+ "last_run": "2026-08-06T17:51:10.789133+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
