@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=80681",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4099090",
-  "https://www.ngetnews.com/news/articleView.html?idxno=552149",
-  "https://www.newsis.com/view/NISX20260805_0003737267",
-  "https://www.segye.com/newsView/20260805516318?OutUrl=naver",
-  "https://www.newscj.com/news/articleView.html?idxno=3422676",
   "https://www.g-enews.com/view.php?ud=202608050930227243d7a510102_1",
   "https://magazine.hankyung.com/business/article/202608056526b",
   "https://www.mhj21.com/news/articleView.html?idxno=253501",
@@ -2999,15 +2993,15 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3658352",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271278",
   "https://www.newspim.com/news/view/20260807000071",
-  "https://www.newspim.com/news/view/20260807000045"
+  "https://www.newspim.com/news/view/20260807000045",
+  "https://www.hani.co.kr/arti/culture/culture_general/1271500.html",
+  "https://www.kbmaeil.com/article/20260807500030",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=939104",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608040812083840102529",
+  "https://www.yna.co.kr/view/AKR20260807022800008?input=1195m",
+  "https://www.newspim.com/news/view/20260807000088"
  ],
  "seen_titles": [
-  "금호건설,'영종하늘도시A4·A6블록'수주[건설·분양오늘]",
-  "김영훈노동장관\"메가특구노동규제완화,확정된것없다\"",
-  "노동장관\"메가특구법,논의숙성중…노란봉투법교섭·쟁의기준구체...",
-  "골드만삭스\"메모리우려과도\"…삼성전자·SK하이닉스'매수'재확인",
-  "김민재이어손흥민도제주올까…LAFC-제주SK내년1월친선전추진",
-  "SK바이오팜,세노바메이트성장에최대실적…신약투자확대",
   "불붙은10세대낸드양산경쟁…삼성전자·SK하이닉스'AI인프라'정조...",
   "“한국,2031년까지전세계‘메모리최강’유지할것”",
   "韓메모리최강지위굳힌다…삼성,3D메모리승부수",
@@ -6001,7 +5995,13 @@
   "경기도\"고립·은둔청년마음건강프로젝트9월부터시범운영\"",
   "[박정식의국내주식시황]호르무즈리스크재부각에반도체투심약화...",
   "[모닝리포트]LG유플러스,증권사7곳모두'매수'의견",
-  "[모닝리포트]\"한국금융지주목표가41만원…최선호주유지\""
+  "[모닝리포트]\"한국금융지주목표가41만원…최선호주유지\"",
+  "김원훈‘개미’도물렸다…“문상훈,너도?”예능이된‘롤러코스피...",
+  "4.6%폭락한코스피,반등나설까…야간선물1.45%↑",
+  "\"해외유학·어학연수준비한다면예방접종도체크\"",
+  "[더벨]SK에코플랜트,KCA에SKTNS인수자금지원하나",
+  "SK증권\"원익IPS,수주잔고증가로하반기실적개선기대\"",
+  "[특징주]저가매수유입…프리마켓대형주소폭반등"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,25 @@
   [
    "2026-08-07T08:41:04.711775+09:00",
    "최선호주 한국금융지주 목표가 유지 41만원"
+  ],
+  [
+   "2026-08-07T08:51:01.195127+09:00",
+   "예방접종도 해외 체크 유학 준비한다면 어학연수"
+  ],
+  [
+   "2026-08-07T08:51:01.195127+09:00",
+   "SK에코플랜트 지원하나 TNS 인수자금 KCA에"
+  ],
+  [
+   "2026-08-07T08:51:01.195127+09:00",
+   "SK증권 실적 원익IPS 하반기 증가로 수주잔고 개선 기대"
+  ],
+  [
+   "2026-08-07T08:51:01.195127+09:00",
+   "대형주 프리마켓 저가 소폭 유입 매수 반등"
   ]
  ],
- "last_run": "2026-08-07T08:41:40.883289+09:00",
+ "last_run": "2026-08-07T08:51:16.739557+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
