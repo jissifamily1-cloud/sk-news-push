@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://n.news.naver.com/mnews/article/091/0010275308",
-  "https://www.seoul.co.kr/news/economy/2026/08/05/20260805031002?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/05/20260805032004?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/securities/2026/08/05/20260805032005?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/05/20260805030003?wlog_tag3=naver",
   "https://www.seoul.co.kr/news/life/exhibition/2026/08/05/20260805016003?wlog_tag3=naver",
   "https://www.segye.com/newsView/20260805501866?OutUrl=naver",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=224283",
@@ -2999,14 +2994,14 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=62517",
   "https://www.asiatime.co.kr/article/20260806500192",
   "https://www.newstree.kr/newsView/ntr202608060016",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608061200461680030"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608061200461680030",
+  "https://www.betanews.net/article/view/beta202608060021",
+  "https://www.todayeconomic.com/news/article.html?no=31633",
+  "http://www.cctimes.kr/news/articleView.html?idxno=920539",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314037",
+  "https://www.joongangenews.com/news/articleView.html?idxno=538175"
  ],
  "seen_titles": [
-  "SWEDENSOCCER",
-  "폭염에도전력난없다…민간생산·신재생·가전‘진화의힘’",
-  "21년간파경상태…결국9440억원으로끝난‘세기의이혼’[스토리그...",
-  "코스피대신뛰는코스닥…제약·바이오등성장주로‘쩐의이동’",
-  "‘포스트HBM’경쟁본격화…SK하이닉스HBF표준공개",
   "세계미술계서울앓이…거장의전시쏟아진다",
   "“10%폭락하자4조샀는데,18%뛰자8조팔았다”…개미들왜이러나...",
   "[HereLaw]'세기의이혼'이남긴숙제",
@@ -6001,33 +5996,14 @@
   "증권사,파생상품743억원신규공모…한화ELB청약률은0.8%",
   "메가특구법입법가열되는데…‘노동특례’서고심깊은李정부",
   "해남에400㎿태양광단지첫삽...주민참여형2028년완공목표",
-  "미래에셋운용,“반도체밸류체인분산필요”"
+  "미래에셋운용,“반도체밸류체인분산필요”",
+  "샌디스크,FMS2026서AI추론시대겨냥한낸드기술공개",
+  "삼전·하이닉스,실적은사상최대인데주가는왜곤두박질치나",
+  "DB하이텍유휴장비공공연구소이전…반도체생태계선순환시동",
+  "코웨이,국내렌탈·동남아사업동반성장…2분기호실적기대",
+  "[지방의회24時]용인특례시의회,베트남대표ICT기업FPT방문"
  ],
  "recent_sigs": [
-  [
-   "2026-08-06T06:31:30.543389+09:00",
-   "사이렌 바이오벤처 요란해진 산업 붕괴 마른"
-  ],
-  [
-   "2026-08-06T06:31:30.543389+09:00",
-   "따로 상장시계 바닥난 도는 자본"
-  ],
-  [
-   "2026-08-06T06:31:30.543389+09:00",
-   "동박 솔루스의 넘어 우주항공까지 로봇 롯데 영역 SKC 유리기판"
-  ],
-  [
-   "2026-08-06T06:31:30.543389+09:00",
-   "혼조 기대속 호르무즈 재개방 나스닥 뉴욕증시 마감"
-  ],
-  [
-   "2026-08-06T06:31:30.543389+09:00",
-   "걸릴 2개월 PC로 첨단기 1년 골조"
-  ],
-  [
-   "2026-08-06T06:31:30.543389+09:00",
-   "설계 접목 짤겁니다 생태계 새판 AI 직스캐드에 토종 본격화"
-  ],
   [
    "2026-08-06T06:41:08.140212+09:00",
    "SK하닉 320달러까지 월가는 매수 저렴 ADR 간다 마이크론보다"
@@ -7173,7 +7149,7 @@
    "분산 미래에셋운용 반도체 밸류체인 필요"
   ]
  ],
- "last_run": "2026-08-06T12:31:26.211815+09:00",
+ "last_run": "2026-08-06T12:41:10.486961+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
