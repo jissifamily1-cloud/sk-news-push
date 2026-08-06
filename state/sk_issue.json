@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260731001446",
-  "https://www.hidomin.com/news/articleView.html?idxno=715516",
-  "https://www.tbc.co.kr/news/view?pno=20260731202043AE03296&id=209175",
   "https://www.tjb.co.kr/news05/bodo/view/id/101809",
   "https://www.polinews.co.kr/news/articleView.html?idxno=738780",
   "https://www.donga.com/news/Society/article/all/20260731/134404278/2",
@@ -2999,12 +2996,12 @@
   "https://news.jtbc.co.kr/article/NB12312069?influxDiv=NAVER",
   "https://sports.hankooki.com/news/articleView.html?idxno=6937620",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260807.22006001757",
-  "https://www.pn.or.kr/news/articleView.html?idxno=33962"
+  "https://www.pn.or.kr/news/articleView.html?idxno=33962",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630600",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/06/2026080690259.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630541"
  ],
  "seen_titles": [
-  "정성호\"형소법개정안부작용나올시신속보완해야\"",
-  "'언론인금품제공혐의'안병윤예천군수구속영장신청",
-  "'언론인금품제공혐의'안병윤예천군수에구속영장신청",
   "(R)'세척작업관계자3명입건'..한화폭발수사확대",
   "[이슈]보완수사권폐지…정성호\"부작용신속히보완해야\"·'사의표명'...",
   "경산아파트방화로화상입은관리직원숨져…사망자2명으로늘어",
@@ -6001,7 +5998,10 @@
   "홍명보이어축구협회사상첫압색…이임생도조사했다",
   "심판성접대라니…한국축구대표팀,향후월드컵못나갈가능성은[초점...",
   "수사독점책임커진경찰,방치사건해결부랴부랴속도전",
-  "대구경찰관음주뺑소니,'수사정보유출'의혹...현직2명입건"
+  "대구경찰관음주뺑소니,'수사정보유출'의혹...현직2명입건",
+  "이동통신3사불공정약관자진시정조치",
+  "8월6일'뉴스9'예고",
+  "‘아동성범죄’최영중구속송치…미성년피해자2명확인"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "취소에 대법원행 결국 과장광고 과징금 SKT"
   ]
  ],
- "last_run": "2026-08-06T19:41:06.604243+09:00",
+ "last_run": "2026-08-06T19:50:56.367787+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
