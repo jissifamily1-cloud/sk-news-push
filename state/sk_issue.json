@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newdaily.co.kr/site/data/html/2026/07/31/2026073100226.html",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=308117",
-  "https://www.newsis.com/view/NISX20260731_0003732038",
-  "https://www.nocutnews.co.kr/news/6556701",
-  "https://news.tf.co.kr/read/ptoday/2349435.htm",
-  "https://www.khan.co.kr/article/202607311705001",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=606966",
-  "http://www.tongilnews.com/news/articleView.html?idxno=217112",
-  "http://www.iminju.net/news/articleView.html?idxno=167449",
-  "https://www.naeil.com/news/read/597329",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255683&CMPT_CD=P0010",
   "http://www.impacton.net/news/articleView.html?idxno=19800",
   "http://www.srtimes.kr/news/articleView.html?idxno=208867",
   "https://www.sisajournal.com/news/articleView.html?idxno=381963",
@@ -2999,20 +2988,20 @@
   "https://view.asiae.co.kr/article/2026080617173375284",
   "https://www.segye.com/newsView/20260806519992?OutUrl=naver",
   "https://www.ytn.co.kr/_ln/0103_202608061714458734",
-  "https://biz.sbs.co.kr/article_hub/20000327132?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000327132?division=NAVER",
+  "https://www.m-economynews.com/news/article.html?no=69506",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134026",
+  "https://www.taxtimes.co.kr/news/article.html?no=276320",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49888",
+  "https://www.joongang.co.kr/article/25451413",
+  "https://www.mt.co.kr/living/2026/08/06/2026080617081527907",
+  "https://www.ajunews.com/view/20260806170107217",
+  "https://www.jjan.kr/article/20260806500491",
+  "https://www.news1.kr/photos/8044908",
+  "https://www.news1.kr/photos/8044916",
+  "https://www.news1.kr/photos/8044917"
  ],
  "seen_titles": [
-  "종합특검,'수사무마의혹'정원주전통일교비서실장참고인조사",
-  "檢70년수사체계막내렸다…보완수사권폐지국회통과",
-  "與\"국민명령'수사·기소분리'검찰개혁완성…남은과제는민생\"",
-  "검찰,'피습자작극'혐의정이한전부산시장후보구속기소",
-  "검찰보완수사권폐지…與\"국민명령완성\"野\"피해자안전망붕괴\"",
-  "78년만의수사권폐지에검사들“침통”···경찰업무과중우려도[형...",
-  "금호타이어,45억미지급소송에공정위고발까지",
-  "국회,'검사수사권폐지'형소법개정안가결",
-  "'검수완박'현실화…형소법개정안,與주도로국회통과",
-  "10월2일검찰수사권폐지된다",
-  "'피습자작극'정이한구속기소,선거방해교사혐의추가",
   "【박란희의TalkTalk】지식의문이닫히면",
   "공정위,'스드메'가격공개준수집중점검",
   "'곳곳에위헌논란'보완수사권완전폐지법…누가무슨조항넣었나",
@@ -6001,7 +5990,18 @@
   "종합특검,'심우정내란가담의혹'대검재차압수수색",
   "[속보]2차종합특검,‘심우정·전무곤내란혐의’대검찰청압수수색",
   "종합특검,대검정보통신과압수수색...심우정'내란가담'의혹",
-  "SKT과장광고과징금취소에…결국대법원행[기업백브리핑]"
+  "SKT과장광고과징금취소에…결국대법원행[기업백브리핑]",
+  "증권사·은행국고채입찰담합의혹,공정위15조과징금부과현실화...",
+  "공정위\"부당특약\"vs세라젬\"상호합의\"…금형도면소유권공방",
+  "공정위,중국법인에협력사기술자료넘긴세라젬제재",
+  "세라젬,협력사자료中법인에넘겨과징금철퇴",
+  "대리운전부업중성폭행혐의…공공기관직원,구속수사",
+  "스타벅스,'탱크데이'이후공석기획담당에하익성상무재영입",
+  "종합특검,대검찰청압수수색...'내란중요임무종사'심우정관련수사",
+  "고창시민단체,심덕섭군정의혹규명촉구서울상경투쟁",
+  "경찰,사상첫축구협회압수수색",
+  "압수수색중인대한축구협회",
+  "대한축구협회'사상첫경찰압수수색'"
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "취소에 대법원행 결국 과장광고 과징금 SKT"
   ]
  ],
- "last_run": "2026-08-06T17:21:14.835368+09:00",
+ "last_run": "2026-08-06T17:31:08.274324+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
