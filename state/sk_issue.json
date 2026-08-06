@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/31/2026073190180.html",
-  "https://sateconomy.co.kr/news/view/1065595632186122",
-  "http://www.joseilbo.com/news/news_read.php?uid=573028&class=32",
-  "https://www.sisajournal.com/news/articleView.html?idxno=381957",
-  "https://www.seoul.co.kr/news/society/law/2026/07/31/20260731500240?wlog_tag3=naver",
-  "https://www.huffingtonpost.kr/article/259175",
-  "https://www.seoul.co.kr/news/society/2026/07/31/20260731500238?wlog_tag3=naver",
-  "https://www.ajunews.com/view/20260731163141928",
-  "https://www.mt.co.kr/economy/2026/07/31/2026073116084511874",
-  "https://www.joongang.co.kr/article/25449889",
   "https://www.yna.co.kr/view/AKR20260731092600004?input=1195m",
   "https://www.newsis.com/view/NISX20260731_0003731668",
   "https://www.newsis.com/view/NISX20260730_0003730435",
@@ -2999,19 +2989,19 @@
   "https://www.khan.co.kr/article/202608061656011",
   "https://www.imaeil.com/page/view/2026080616513910910",
   "http://www.yonhapnewstv.co.kr/news/MYH20260806165009Tx9",
-  "https://www.newsis.com/view/NISX20260806_0003739347"
+  "https://www.newsis.com/view/NISX20260806_0003739347",
+  "https://www.chukkyung.co.kr/news/articleView.html?idxno=82220",
+  "https://www.news1.kr/local/daejeon-chungnam/6251578",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5210734",
+  "https://www.yna.co.kr/view/AKR20260806136300004?input=1195m",
+  "https://www.sidae.com/article/2026080516594199636",
+  "https://imnews.imbc.com/news/2026/society/article/6842941_36918.html",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260806010002138",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6842940_36981.html",
+  "https://www.joongang.co.kr/article/25451406",
+  "https://www.newsis.com/view/NISX20260806_0003739446"
  ],
  "seen_titles": [
-  "경찰,'강북오피스텔살인'피의자주거지압수수색",
-  "KT,‘5G20배’과장광고소송패소…139억원과징금유지",
-  "서영교\"최영중구속·통신영장발부…청주지검카르텔도밝혀야\"",
-  "'음료테러자작극'정이한구속기소…\"선거공정성훼손한중대범죄\"",
-  "‘피습자작극혐의’정이한전부산시장후보구속기소",
-  "민주당특별감찰관후보에검사출신최길수변호사추천,'LG트윈타워...",
-  "‘검찰은수사를아예못하나요?’…개정된형소법Q＆A",
-  "'주차장철거중추락사'원청대표구속…서울권중대재해첫사례",
-  "주차설비철거추락사…하청에책임전가한원청구속",
-  "[속보]‘보완수사권폐지’與주도본회의통과…野“대통령거부권...",
   "[형소법개정]④검사직접영장청구권사라져…위헌성등문제조항은",
   "결국현실이된검수완박…'불안한보완장치'과제여전",
   "검사,이제수사못한다…檢보완수사권폐지통과",
@@ -6001,7 +5991,17 @@
   "형소법개정에검경합수팀‘안개속’…이태원참사진상규명동력잃...",
   "종합특검,대검정보통신과등압수수색…심우정전총장'내란혐의'관...",
   "현직경찰음주사고도주수사부서까지압수수색",
-  "'월드컵탈락후폭풍'축구협회…초유의압수수색에'충격·당황'"
+  "'월드컵탈락후폭풍'축구협회…초유의압수수색에'충격·당황'",
+  "EU,'고기'명칭은고기에만쓴다…식육용어사용을제한",
+  "대리운전부업하다성범죄…농식품부산하기관직원구속송치",
+  "\"살려줘\"말저절로나오는폭염...입추인내일'절정'[짤e몽땅]",
+  "종합특검,'심우정前총장내란가담'대검재차압수수색",
+  "[시대리포트]27년째미뤄진'조건부석방',검찰개혁에또밀려",
+  "2차종합특검,대검압수수색‥심우정내란가담혐의관련",
+  "보완수사떠안는경찰…하급심판례100만건으로두AI연계",
+  "경찰,'홍명보감독선임의혹'축협압수수색",
+  "코브라·악어·늪거북…멸종위기종몰래들여와고속버스택배로유통",
+  "특검,대검정보통신과압수수색…심우정'계엄가담'의혹관련"
  ],
  "recent_sigs": [
   [
@@ -6029,7 +6029,7 @@
    "SK하이닉스 자사주 주식 감당되나 물량 논란 성과급"
   ]
  ],
- "last_run": "2026-08-06T17:01:23.852838+09:00",
+ "last_run": "2026-08-06T17:11:08.088552+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
