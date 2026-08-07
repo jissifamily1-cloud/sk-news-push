@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026080680757",
-  "https://www.newsis.com/view/NISX20260806_0003738422",
-  "https://www.news1.kr/finance/general-stock/6250913",
-  "https://www.news1.kr/it-science/general-science/6250817",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690443",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=125734",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256957",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428925",
   "https://www.mk.co.kr/article/12118983",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475484",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000055312",
   "https://www.seoulfn.com/news/articleView.html?idxno=635234",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475483"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475483",
+  "http://www.osen.co.kr/article/G1112853482",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167580",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280801",
+  "http://www.fnnews.com/news/202608072250576515",
+  "http://www.inews24.com/view/1993115",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608080704336270252"
  ],
  "seen_titles": [
-  "코스피,장중5%대급락에사이드카발동…삼성·SK동반폭락",
-  "[속보]코스피5%급락매도사이드카발동‥SK하이닉스10%가까이급락",
-  "靑,'레버리지ETF'김용범책임론에\"대책챙기는것더중요\"",
-  "DB하이텍유휴장비,공공연구소로이전…반도체생태계선순환시동",
-  "코스피6거래일만에매도사이드카…삼전5%,SK하닉9%급락(상보)",
-  "DB하이텍,반도체유휴장비공공나노팹으로무상이전",
   "\"스마트폰계약내용다르다면?…개통피해쉽게신고하세요\"",
   "'DB손해보험2026KBL유스클럽농구대회IN제천'개최",
   "[분석]삼성·마이크론과갈린선택···SK하이닉스는왜HBF택했나",
@@ -6001,7 +5995,13 @@
   "[주간거래소기관]삼성전자·SK하이닉스팔고삼성전기·한화솔루션·...",
   "뉴욕증시,고용악화속금리동결기대감에상승",
   "[뉴욕증시]금리인상제동?고용쇼크에웃었다···스페이스X16%급등",
-  "[주간거래소외국인]삼성물산셀트리온삼성바이오로직스SK쓸어담았..."
+  "[주간거래소외국인]삼성물산셀트리온삼성바이오로직스SK쓸어담았...",
+  "이동준·콤파뇨가돌아온다!전북,시원한승리로무더위잊을까...제주...",
+  "독파모4파전,\"규모냐독자성이냐\"...국민평가시작",
+  "뉴욕증시,금리인상기대론제동에상승...S&P500사상최고",
+  "'삼전닉스레버리지'특혜논란…박대출\"ETF심사29일만에통과\"",
+  "HBM부족에엔비디아도사양조정…'루빈울트라'메모리축소검토",
+  "SK하이닉스,AI메모리에54조‘통큰베팅’…주주환원도키운다"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,17 @@
   [
    "2026-08-08T07:21:17.923193+09:00",
    "삼성바이오로직스 담았 셀트리온 삼성물산 쓸어"
+  ],
+  [
+   "2026-08-08T07:31:17.835924+09:00",
+   "검토 메모리 부족에 사양 축소 HBM 조정 엔비디아도 루빈 울트라"
+  ],
+  [
+   "2026-08-08T07:31:17.835924+09:00",
+   "메모리에 54조 AI 키운다 베팅 SK하이닉스 주주환원도"
   ]
  ],
- "last_run": "2026-08-08T07:21:26.528804+09:00",
+ "last_run": "2026-08-08T07:31:26.482377+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
