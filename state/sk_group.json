@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260806_0003738401",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=85782",
-  "https://www.hankyung.com/article/202608067706H",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269328",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428877",
   "https://hbnpress.com/news/view/1065570799497170",
   "https://dealsite.co.kr/articles/166579",
   "http://www.breaknews.com/1227089",
@@ -2999,14 +2994,14 @@
   "https://www.ekn.kr/web/view.php?key=20260807026050597",
   "https://www.tokenpost.kr/news/market/386699",
   "https://www.newsis.com/view/NISX20260807_0003741096",
-  "https://www.socialvalue.kr/news/view/1065600102154417"
+  "https://www.socialvalue.kr/news/view/1065600102154417",
+  "http://www.osen.co.kr/article/G1112853461",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314254",
+  "https://www.ekn.kr/web/view.php?key=20260807025470678",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719633",
+  "https://www.ekn.kr/web/view.php?key=20260807022340662"
  ],
  "seen_titles": [
-  "[모닝리포트]SK바이오팜,엑스코프리질주로가이던스상단가시권",
-  "KB證\"반도체수급충격일단락…8월실적장세본격화\"",
-  "뉴욕증시,랠리뒤숨고르기-다우상승·나스닥하락,기술주약세두...",
-  "\"지금털면죽는다\"…방송인미자,주식근황묻자'침묵'",
-  "\"SK그룹,'1조3600억달러'쏟아부어아시아태평양AI지형바꾼다\"",
   "코스피급락전…싱가포르정부·GIC,HD현대마린솔루션·코스맥스만덜...",
   "코웨이,2분기도호실적전망...증권가\"저평가매력부각\"",
   "[ETF리그테이블][2026년7월]단일종목레버리지후폭풍…한달새7조...",
@@ -6001,29 +5996,14 @@
   "통신3사,AIDC로실적개선…남은과제는‘수익성’",
   "넥스트레이드,프리마켓상·하한가주문전면금지…SK하이닉스사고...",
   "[올댓차이나]홍콩증시,혼조개장후자원주매수로상승마감…H주0...",
-  "SK하이닉스,용인·청주에54조투자…AI메모리생산기반확충속도"
+  "SK하이닉스,용인·청주에54조투자…AI메모리생산기반확충속도",
+  "\"남아공전선수들도못했다\"김민재,솔직고백...'월드컵탈락'사과했다...",
+  "11주로SK하이닉스주가흔든프리마켓…넥스트레이드,상·하한가주문...",
+  "SK하이닉스54조베팅…용인엔D램,청주는낸드",
+  "SK하이닉스,용인·청주신규팹에54조원투자…중장기AI메모리거점...",
+  "사상최대실적이어가는SK하이닉스…분기배당375원"
  ],
  "recent_sigs": [
-  [
-   "2026-08-07T13:41:07.346623+09:00",
-   "수익성 이끈다 개선 엄기천 음극재로 포스코퓨처엠 기업들의 글로벌"
-  ],
-  [
-   "2026-08-07T13:41:07.346623+09:00",
-   "조달 32GB 비상 폭등에 흔들 빅테크도 램값 애플은 철회 MS는 권장"
-  ],
-  [
-   "2026-08-07T13:41:07.346623+09:00",
-   "추론 성장 딥마인드 구글 AI 시장 해법 10년간 10배 HBF가"
-  ],
-  [
-   "2026-08-07T13:41:07.346623+09:00",
-   "레버리지 될까 코스닥 10조 자금 이탈 신호탄 반등"
-  ],
-  [
-   "2026-08-07T13:41:07.346623+09:00",
-   "초청해 진로탐색 가족돌봄아동 지원 SK이노베이션 34명"
-  ],
   [
    "2026-08-07T13:51:05.130683+09:00",
    "대우건설 속도 신성장 실적 수주 신사업 3박자"
@@ -6885,7 +6865,7 @@
    "수출 반도체 추월 호황 상반기 대만 사상 한국 일본"
   ]
  ],
- "last_run": "2026-08-07T19:31:29.433029+09:00",
+ "last_run": "2026-08-07T19:41:15.857541+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
