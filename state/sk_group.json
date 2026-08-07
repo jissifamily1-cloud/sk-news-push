@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30495",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725750",
-  "https://news.mtn.co.kr/news-detail/2026080608285851455",
-  "https://www.m-i.kr/news/articleView.html?idxno=1399414",
-  "https://www.ajunews.com/view/20260806091135227",
   "https://www.sentv.co.kr/article/view/sentv202608060025",
   "https://www.newsis.com/view/NISX20260806_0003738435",
   "https://www.mt.co.kr/tech/2026/08/06/2026080608513611688",
@@ -2999,14 +2994,14 @@
   "https://www.goal.com/kr/뉴스/a/blt4cf328e75a433b9d",
   "https://www.kmib.co.kr/article/view.asp?arcid=1785226311&code=11151400&cp=nv",
   "https://m.skyedaily.com/news_view.html?ID=309404",
-  "https://www.dt.co.kr/article/12077106"
+  "https://www.dt.co.kr/article/12077106",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274395",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260807200234V2X",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260807200118MWk",
+  "https://www.besteleven.com/news/articleView.html?idxno=310924",
+  "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html?partner=naver"
  ],
  "seen_titles": [
-  "금감원유상증자제동에…SK디앤디,27%대급등[특징주]",
-  "[개장시황]코스피,하락출발…미국증시혼조에기술주약세",
-  "코스피,차익실현에6500선으로밀려…삼성전자·SK하이닉스약세",
-  "삼성전자·SK하이닉스,주주환원확대예고…연내구체안공개",
-  "\"보안·매출·근태까지한번에\"…ADT캡스,앱하나로매장운영통합관...",
   "靑\"세금으로집값잡겠다는생각없어…주택공급'속도전'\"",
   "SK쉴더스“ADT캡스,‘캡스매장솔루션’으로매장통합관리”",
   "美반도체약세…삼성전자1%SK하이닉스4%하락[핫스탁]",
@@ -6001,29 +5996,14 @@
   "완벽부활이동경,울산유니폼입고‘포항전첫골+개인통산최다연...",
   "호텔김치의변신…‘K푸드수출품’으로영토확장",
   "SK하이닉스,주당375원현금배당…\"9월내주주환원방안발표\"",
-  "한국·대만,수출액사상첫일본추월…삼성·SK·TSMC가견인"
+  "한국·대만,수출액사상첫일본추월…삼성·SK·TSMC가견인",
+  "SKhynixRampsUpAIMemoryInvestment",
+  "SK하이닉스\"주주환원방안3분기중확정발표\"",
+  "주주환원실망에SK하이닉스↓…코스피도하락전환",
+  "[BE.현장]韓2부돌풍,거침없는진격의화성…경기앞둔차두리감독...",
+  "WarshandtheFedFaceaNewTest"
  ],
  "recent_sigs": [
-  [
-   "2026-08-07T14:01:37.828079+09:00",
-   "불구 상반기 감소 매출 SK가스 증가 영업이익"
-  ],
-  [
-   "2026-08-07T14:01:37.828079+09:00",
-   "춤추는 신호탄 공조에 복귀 1300원 원화 환율"
-  ],
-  [
-   "2026-08-07T14:01:37.828079+09:00",
-   "Selloff Da Stocks Ahead US Jobs Asian Mixed of Hits Nikkei as KOSPI Chip"
-  ],
-  [
-   "2026-08-07T14:01:37.828079+09:00",
-   "승부수 관세 반도체는 태양 제한적 폴리실리콘 트럼프"
-  ],
-  [
-   "2026-08-07T14:01:37.828079+09:00",
-   "SK실트론 가격 지분 남은 두산과 최태원"
-  ],
   [
    "2026-08-07T14:11:22.653839+09:00",
    "D램 삼성전자 테라팹 SK하이닉스 전문가 채용 스페이스X 테슬라"
@@ -6855,9 +6835,17 @@
   [
    "2026-08-07T19:51:04.320740+09:00",
    "울산 개인 이동경 부활 완벽 포항전 유니폼 입고 통산 최다"
+  ],
+  [
+   "2026-08-07T20:11:07.248041+09:00",
+   "경기 돌풍 거침없는 앞둔 2부 감독 화성 진격의 차두리"
+  ],
+  [
+   "2026-08-07T20:11:07.248041+09:00",
+   "Test Warsh Fed and the Face New"
   ]
  ],
- "last_run": "2026-08-07T20:01:19.962691+09:00",
+ "last_run": "2026-08-07T20:11:16.024904+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
