@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=313974",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313962",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313958",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313953",
-  "https://www.mk.co.kr/article/12117909",
-  "https://www.hankyung.com/article/2026080569991",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84104",
   "https://www.joongang.co.kr/article/25451080",
   "https://news.mtn.co.kr/news-detail/2026080516161790723",
   "https://www.asiatime.co.kr/article/20260805500221",
@@ -2999,16 +2992,16 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363733337",
   "http://www.press9.kr/news/articleView.html?idxno=80777",
   "https://www.hankyung.com/article/202608070555i",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429152"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429152",
+  "https://www.dailian.co.kr/news/view/1675839/?sc=Naver",
+  "https://zdnet.co.kr/view/?no=20260807131651",
+  "https://www.ajunews.com/view/20260807132022001",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=46862",
+  "https://www.ngonews.kr/news/articleView.html?idxno=234892",
+  "https://www.ddaily.co.kr/page/view/2026080713133356312",
+  "https://www.ppss.kr/news/articleView.html?idxno=304470"
  ],
  "seen_titles": [
-  "‘K호텔김치’해외공략본격화…면세점·수출동시확대[종합]",
-  "삼전닉스레버리지거래대금,상장두달만에처음1조밑으로",
-  "김영훈\"주52시간예외없어도반도체이익엄청나\"",
-  "SK하이닉스저평가됐다는월가,ADR매수·비중확대제시...목표주가최...",
-  "반도체주급등에코스피6500선회복...외국인1조4000억원순매수",
-  "삼성물산홈닉,생활편의서비스4종추가…주거플랫폼사업확대",
-  "SKT,2분기영업이익전년比67.3%↑…AIDC매출성장세",
   "D램·파운드리·패키징다갖춘삼성…'AI칩병목'돌파구찾았다",
   "전고점뚫은S&P,코스피반등…증시조정장끝났나",
   "코스피,외인'사자'에3.76%급등…6598선마감",
@@ -6001,17 +5994,16 @@
   "여주에너지서비스(천연가스발전소)35억세수'0원'전락여주민심폭발...",
   "[SK의선택과대가③]하이닉스커질수록커지는지주사할인",
   "한국수출,상반기사상첫일본추월...'삼전닉스의힘'[도쿄나우]",
-  "[외환]SK하이닉스·커스터디달러매도에낙폭확대…1,420원밑돌아(상..."
+  "[외환]SK하이닉스·커스터디달러매도에낙폭확대…1,420원밑돌아(상...",
+  "반려동물아픈곳파악하는AI…SKT'엑스칼리버'코벳품으로",
+  "베슬AI,엔비디아B200GPU1천장이상확보…\"AI팩토리확장\"",
+  "엔비디아,'루빈울트라'메모리줄이나…HBM부족·비용부담대응",
+  "애플,중국CXMT카드도무산…메모리협상력높인삼성·SK",
+  "SK네트웍스자회사인크로스,2분기외형·수익성모두개선",
+  "[MOVIEW]아이폰18프로‘품귀·가격인상’겹치나…D램공급이변수",
+  "[기업해부SK④]SK는어떻게돈을버는가…계열사구조와현금흐름의비..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-07T07:21:30.211609+09:00",
-   "ETF 마켓시그 레버리지 5일 찍었다 랠리에 코스닥 수익률 방긋"
-  ],
-  [
-   "2026-08-07T07:21:30.211609+09:00",
-   "사업 질주 희미해진 통신 AI 본업"
-  ],
   [
    "2026-08-07T07:31:22.173559+09:00",
    "관건은 K배터리 웃었다 3사 하반기 지속성 함께"
@@ -6879,9 +6871,13 @@
   [
    "2026-08-07T13:21:07.694724+09:00",
    "낙폭 420원 밑돌아 매도에 SK하이닉스 달러 확대 커스터디"
+  ],
+  [
+   "2026-08-07T13:31:11.815738+09:00",
+   "돈을 구조와 버는가 SK는 어떻게 계열사 현금흐름의"
   ]
  ],
- "last_run": "2026-08-07T13:21:22.010947+09:00",
+ "last_run": "2026-08-07T13:31:18.019239+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
