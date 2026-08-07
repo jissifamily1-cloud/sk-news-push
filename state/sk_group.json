@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newskr.kr/news/articleView.html?idxno=105375",
-  "https://www.news2day.co.kr/article/20260806500030",
-  "https://www.news1.kr/it-science/security-hacking/6250697",
-  "https://www.newspim.com/news/view/20260806000147",
   "https://www.newsis.com/view/NISX20260806_0003738401",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=85782",
   "https://www.hankyung.com/article/202608067706H",
@@ -2999,13 +2995,13 @@
   "https://mhnse.com/news/articleView.html?idxno=1482638",
   "https://www.asiatime.co.kr/article/20260807500285",
   "https://www.nocutnews.co.kr/news/6560029",
-  "https://www.hani.co.kr/arti/international/japan/1271955.html"
+  "https://www.hani.co.kr/arti/international/japan/1271955.html",
+  "https://www.ekn.kr/web/view.php?key=20260807026050597",
+  "https://www.tokenpost.kr/news/market/386699",
+  "https://www.newsis.com/view/NISX20260807_0003741096",
+  "https://www.socialvalue.kr/news/view/1065600102154417"
  ],
  "seen_titles": [
-  "뉴욕증시,호르무즈재개방기대속숨고르기…나스닥0.8%하락마감",
-  "삼성전자100조특별배당임박?SK하이닉스도자사주소각...AI메모리...",
-  "6월경상수지497.3억달러흑자…두달연속역대최대",
-  "ADT캡스,앱하나로보안·매출·근태관리…'매장솔루션'공개",
   "[모닝리포트]SK바이오팜,엑스코프리질주로가이던스상단가시권",
   "KB證\"반도체수급충격일단락…8월실적장세본격화\"",
   "뉴욕증시,랠리뒤숨고르기-다우상승·나스닥하락,기술주약세두...",
@@ -6001,13 +5997,13 @@
   "[mhn포토]김재희,뭔가요",
   "[산업뉴스브리핑]SK하이닉스,용인·청주에54조원베팅…중장기생산...",
   "충북에줄줄이대규모투자…건설업계는고사위기",
-  "한국·대만상반기수출,사상첫일본추월…반도체호황덕"
+  "한국·대만상반기수출,사상첫일본추월…반도체호황덕",
+  "통신3사,AIDC로실적개선…남은과제는‘수익성’",
+  "넥스트레이드,프리마켓상·하한가주문전면금지…SK하이닉스사고...",
+  "[올댓차이나]홍콩증시,혼조개장후자원주매수로상승마감…H주0...",
+  "SK하이닉스,용인·청주에54조투자…AI메모리생산기반확충속도"
  ],
  "recent_sigs": [
-  [
-   "2026-08-07T13:31:11.815738+09:00",
-   "돈을 구조와 버는가 SK는 어떻게 계열사 현금흐름의"
-  ],
   [
    "2026-08-07T13:41:07.346623+09:00",
    "수익성 이끈다 개선 엄기천 음극재로 포스코퓨처엠 기업들의 글로벌"
@@ -6889,7 +6885,7 @@
    "수출 반도체 추월 호황 상반기 대만 사상 한국 일본"
   ]
  ],
- "last_run": "2026-08-07T19:21:18.236177+09:00",
+ "last_run": "2026-08-07T19:31:29.433029+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
