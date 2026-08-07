@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12107720",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01886006645518456",
   "https://www.ajunews.com/view/20260726115107734",
   "https://www.g-enews.com/view.php?ud=2026072515355259833084322ec9_1",
   "https://www.mk.co.kr/article/12107789",
@@ -2999,11 +2997,11 @@
   "https://www.ppss.kr/news/articleView.html?idxno=304470",
   "https://biz.heraldcorp.com/article/10834186",
   "http://www.press9.kr/news/articleView.html?idxno=80575",
-  "http://www.journalist.or.kr/news/article.html?no=61414"
+  "http://www.journalist.or.kr/news/article.html?no=61414",
+  "https://www.yna.co.kr/view/AKR20260807090900061?input=1195m",
+  "https://www.newspim.com/news/view/20260807000796"
  ],
  "seen_titles": [
-  "[뉴스&분석]9500억弗'AI메가동맹'",
-  "\"가장값진저녁값\"…샌프란'깐부회동'쏜배경훈부총리소감은",
   "韓,빅테크와9500억달러AI동맹…‘대체불가핵심’부상",
   "시총1.7경원'AI깐부회동'李\"우리는식구다\"건배사",
   "WSJ\"SK하이닉스지나친ADR프리미엄은과열신호\"",
@@ -6001,7 +5999,9 @@
   "[기업해부SK④]SK는어떻게돈을버는가…계열사구조와현금흐름의비...",
   "‘선관위특검’최종후보2인,14일에나온다",
   "[SK의선택과대가①]최태원SK실트론지분29.4%,두산과남은가격협...",
-  "[이달의기자상]도시기본계획의허구"
+  "[이달의기자상]도시기본계획의허구",
+  "최종현경기도의원\"공공건축물설계부터인권영향평가추진\"",
+  "\"내년메모리물량동났다\"…선수금내걸고확보전쟁"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-08-07T14:00:32.564799+09:00",
    "지분 두산과 남은 SK실트론 가격"
+  ],
+  [
+   "2026-08-07T14:30:20.797402+09:00",
+   "내년 내걸고 선수금 물량 동났다 메모리 전쟁 확보"
   ]
  ],
- "last_run": "2026-08-07T14:20:30.752698+09:00",
+ "last_run": "2026-08-07T14:30:34.463035+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
