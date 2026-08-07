@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202607261717001",
-  "https://www.hankyung.com/article/2026072664707",
   "https://www.mk.co.kr/article/12107697",
   "https://www.mk.co.kr/article/12107733",
   "https://www.sidae.com/article/2026072617123796539",
@@ -2999,11 +2997,11 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051336407720103927",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444200",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52006",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87658"
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87658",
+  "https://www.pennmike.com/news/articleView.html?idxno=125177",
+  "https://www.techm.kr/news/articleView.html?idxno=154093"
  ],
  "seen_titles": [
-  "젠슨황'골든벨'제안에배경훈\"공무원이라어렵다\"…만찬뒷이야기...",
-  "SK,실리콘밸리서글로벌빅테크와AI인프라협력확대",
   "AI잡으려는빅테크“칩더달라”아우성에…‘K반도체’와맞손",
   "이대통령,빅테크CEO와샌프란‘깐부회동’…브라질로이동",
   "배경훈부총리,'샌프란깐부회동'계산…\"올해가진값진저녁값\"",
@@ -6001,7 +5999,9 @@
   "[더벨][두산품에안기는SK실트론]㈜두산-실트론합병구조,넘어야할...",
   "[K-GX에보이는미래③]한병화유진투자증권이사\"3대메가프로젝트...",
   "ESG경영,한국전광'결실'…음저협'실행'",
-  "한국전광,'ESG경영대상'환경부문중소기업최우수상수상"
+  "한국전광,'ESG경영대상'환경부문중소기업최우수상수상",
+  "[재계핫이슈]한국경제의국가자본주의화,이재용최태원의'책임'",
+  "[기자수첩]오비이락(烏飛梨落)"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,17 @@
   [
    "2026-08-07T11:50:13.689140+09:00",
    "한병화 이사 프로젝트 메가 유진투자증권 3대"
+  ],
+  [
+   "2026-08-07T13:10:12.943829+09:00",
+   "이재용 책임 한국경제의 자본주의화 국가 최태원의"
+  ],
+  [
+   "2026-08-07T13:10:12.943829+09:00",
+   "오비이락"
   ]
  ],
- "last_run": "2026-08-07T13:00:41.670502+09:00",
+ "last_run": "2026-08-07T13:10:30.869780+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
