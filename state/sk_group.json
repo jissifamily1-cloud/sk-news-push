@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000054864",
-  "https://economist.co.kr/article/view/ecn202608050017",
   "https://www.fetv.co.kr/news/articleView.html?idxno=307785",
   "https://www.chosun.com/economy/money/2026/08/06/CTWLQ64A7NCVLCFBTSLVVZ47TA/",
   "https://view.asiae.co.kr/article/2026080608532983530",
@@ -2999,11 +2997,11 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=07885126645545024",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=07878566645545024",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271362",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274392"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274392",
+  "https://www.energydaily.co.kr/news/articleView.html?idxno=202084",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719616"
  ],
  "seen_titles": [
-  "\"SK텔레콤,2분기실적양호…앤트로픽지분반영해목표가↑\"-DB",
-  "\"SK그룹대규모AI투자,아태지역기술지형근본적으로재편할것\"",
   "실수요자는이제상품을본다…반도체벨트특화설계아파트‘용인동일...",
   "[기자수첩]레버리지ETF,이제야고개드는'신중론'",
   "빅테크와AI데이터센터협력,美에너지시장진출가능성도...고개드는...",
@@ -6001,45 +5999,11 @@
   "[포토]김재희,미소를잃지않아",
   "[포토]김재희,파이팅외치며출발",
   "\"시장기대치11%뚫은LG유플러스…비용줄이고주력사업날았다\"",
-  "[ClosingMarket]KOSPIRetreatsto6,250RangeonForeignSelling"
+  "[ClosingMarket]KOSPIRetreatsto6,250RangeonForeignSelling",
+  "남동발전,국내최대400MW태양광착공…'RE100·지역상생'두토끼잡...",
+  "[주요공시]8월7일오후"
  ],
  "recent_sigs": [
-  [
-   "2026-08-07T13:01:26.646506+09:00",
-   "업종 1위 국가브랜드경쟁력지수 주유소 GS칼텍스"
-  ],
-  [
-   "2026-08-07T13:01:26.646506+09:00",
-   "이란 호르무즈 하락 3대지수 일제히 선별통항"
-  ],
-  [
-   "2026-08-07T13:01:26.646506+09:00",
-   "안전할 알고 ETF 날렸다 샀는데 휴가비 월급"
-  ],
-  [
-   "2026-08-07T13:11:06.365338+09:00",
-   "고심 정부 싸늘 나라 투자 어려운 비판에 투심도"
-  ],
-  [
-   "2026-08-07T13:11:06.365338+09:00",
-   "자본주의화 국가 이재용 최태원의 한국경제의 책임"
-  ],
-  [
-   "2026-08-07T13:11:06.365338+09:00",
-   "오비이락"
-  ],
-  [
-   "2026-08-07T13:11:06.365338+09:00",
-   "2차 회의 점검 부동산 대책 공급 집중"
-  ],
-  [
-   "2026-08-07T13:11:06.365338+09:00",
-   "정부 품은 신설 삼전닉스 소부장 기대 기업 국내생산세액공제 경기도"
-  ],
-  [
-   "2026-08-07T13:11:06.365338+09:00",
-   "잡아라 은행권 롤러코스피에 역머니무브 놀란 개미들"
-  ],
   [
    "2026-08-07T13:21:07.694724+09:00",
    "여주 천연가스발전소 여주에너지서비스 0원 35억 민심폭발 전락 세수"
@@ -6927,9 +6891,13 @@
   [
    "2026-08-07T19:01:25.200292+09:00",
    "Selling Range to Retreats on KOSPI Foreign"
+  ],
+  [
+   "2026-08-07T19:11:08.562683+09:00",
+   "8월 오후 7일"
   ]
  ],
- "last_run": "2026-08-07T19:02:17.088116+09:00",
+ "last_run": "2026-08-07T19:11:14.253395+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
