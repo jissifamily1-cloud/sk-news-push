@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12107697",
   "https://www.mk.co.kr/article/12107733",
   "https://www.sidae.com/article/2026072617123796539",
   "https://www.donga.com/news/Economy/article/all/20260726/134366023/1",
@@ -2999,10 +2998,10 @@
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52006",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87658",
   "https://www.pennmike.com/news/articleView.html?idxno=125177",
-  "https://www.techm.kr/news/articleView.html?idxno=154093"
+  "https://www.techm.kr/news/articleView.html?idxno=154093",
+  "https://www.ppss.kr/news/articleView.html?idxno=304470"
  ],
  "seen_titles": [
-  "AI잡으려는빅테크“칩더달라”아우성에…‘K반도체’와맞손",
   "이대통령,빅테크CEO와샌프란‘깐부회동’…브라질로이동",
   "배경훈부총리,'샌프란깐부회동'계산…\"올해가진값진저녁값\"",
   "SK,MS에메모리장기공급…앤트로픽과데이터센터추진",
@@ -6001,7 +6000,8 @@
   "ESG경영,한국전광'결실'…음저협'실행'",
   "한국전광,'ESG경영대상'환경부문중소기업최우수상수상",
   "[재계핫이슈]한국경제의국가자본주의화,이재용최태원의'책임'",
-  "[기자수첩]오비이락(烏飛梨落)"
+  "[기자수첩]오비이락(烏飛梨落)",
+  "[기업해부SK④]SK는어떻게돈을버는가…계열사구조와현금흐름의비..."
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-08-07T13:10:12.943829+09:00",
    "오비이락"
+  ],
+  [
+   "2026-08-07T13:30:22.499006+09:00",
+   "돈을 구조와 버는가 어떻게 계열사 현금흐름의 SK는"
   ]
  ],
- "last_run": "2026-08-07T13:20:25.023429+09:00",
+ "last_run": "2026-08-07T13:30:34.363750+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
