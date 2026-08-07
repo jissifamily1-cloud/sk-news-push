@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25451080",
-  "https://news.mtn.co.kr/news-detail/2026080516161790723",
-  "https://www.asiatime.co.kr/article/20260805500221",
-  "http://www.finomy.com/news/articleView.html?idxno=258652",
-  "https://www.etnews.com/20260805000367",
-  "https://news.mtn.co.kr/news-detail/2026080516164644934",
-  "https://www.ajunews.com/view/20260805134134690",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240817",
-  "https://www.newsway.co.kr/news/view?ud=2026080517315737147",
   "https://www.hankyung.com/article/2026080569951",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=389824",
   "https://www.mk.co.kr/article/12117923",
@@ -2999,18 +2990,18 @@
   "https://www.newstopkorea.com/news/articleView.html?idxno=46862",
   "https://www.ngonews.kr/news/articleView.html?idxno=234892",
   "https://www.ddaily.co.kr/page/view/2026080713133356312",
-  "https://www.ppss.kr/news/articleView.html?idxno=304470"
+  "https://www.ppss.kr/news/articleView.html?idxno=304470",
+  "https://www.etoday.co.kr/news/view/2605216",
+  "https://biz.sbs.co.kr/article_hub/20000327269?division=NAVER",
+  "https://www.newsis.com/view/NISX20260807_0003740425",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=595739",
+  "https://www.huffingtonpost.kr/article/259351",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690969",
+  "https://www.mt.co.kr/industry/2026/08/07/2026080711045925673",
+  "https://www.mk.co.kr/article/12120829",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=209419"
  ],
  "seen_titles": [
-  "D램·파운드리·패키징다갖춘삼성…'AI칩병목'돌파구찾았다",
-  "전고점뚫은S&P,코스피반등…증시조정장끝났나",
-  "코스피,외인'사자'에3.76%급등…6598선마감",
-  "김영훈노동부장관“주52시간예외‘메가특구법’확정아냐…합리...",
-  "메모리최고가에장기계약까지…커지는낙관론[MTN리포트…AI회의론속...",
-  "SK하이닉스,솔리다임프리IPO로美투자비만들까",
-  "코스피,외국인'사자'에3%대급등···6500선회복",
-  "실적회복한SKT,AIDC확장본격화…“글로벌빅테크와수요협의”",
-  "최고실적뒤엔협력사와맺은'기술동맹'[MTN리포트…AI회의론속반도...",
   "[신지아의산업예보]K배터리3사,국내LFP생산경쟁...AIDC·3차ESS시...",
   "[컨콜]SK텔레콤\"AIDC,고객확보가먼저\"...5GW투자원칙밝혀",
   "2분기회복한SKT…\"SK하이퍼,고객확보가최우선\"(종합)",
@@ -6001,21 +5992,18 @@
   "애플,중국CXMT카드도무산…메모리협상력높인삼성·SK",
   "SK네트웍스자회사인크로스,2분기외형·수익성모두개선",
   "[MOVIEW]아이폰18프로‘품귀·가격인상’겹치나…D램공급이변수",
-  "[기업해부SK④]SK는어떻게돈을버는가…계열사구조와현금흐름의비..."
+  "[기업해부SK④]SK는어떻게돈을버는가…계열사구조와현금흐름의비...",
+  "‘K호텔김치’해외공략본격화…면세점·수출동시확대[종합]",
+  "[직설]사이드카일상화된변동성장세…예측불가증시,어디까지흔...",
+  "베슬AI,엔비디아B200GPU1000장확보…\"AI팩토리확장\"",
+  "미소금융상반기공급1612억원…영세자영업자·청년지원확대",
+  "포스코퓨처엠엄기천음극재로수익성개선이끈다:글로벌기업들의...",
+  "램값폭등에빅테크도흔들…MS는32GB권장철회,애플은조달비상",
+  "구글딥마인드\"AI추론칩시장,10년간10배성장…HBF가해법\"",
+  "‘10조’레버리지자금이탈…코스닥반등신호탄될까",
+  "SK이노베이션,가족돌봄아동34명초청해진로탐색지원"
  ],
  "recent_sigs": [
-  [
-   "2026-08-07T07:31:22.173559+09:00",
-   "관건은 K배터리 웃었다 3사 하반기 지속성 함께"
-  ],
-  [
-   "2026-08-07T07:31:22.173559+09:00",
-   "잔혹사 반복 메모리 굳건 맞서 배터리 우려에도 초격차"
-  ],
-  [
-   "2026-08-07T07:31:22.173559+09:00",
-   "상승세 급락 코스피 코스닥 강보합 마감 지키지 못한"
-  ],
   [
    "2026-08-07T07:41:09.721733+09:00",
    "국채금리가 변수 노리는 수급 반등 코스피 외국인"
@@ -6875,9 +6863,29 @@
   [
    "2026-08-07T13:31:11.815738+09:00",
    "돈을 구조와 버는가 SK는 어떻게 계열사 현금흐름의"
+  ],
+  [
+   "2026-08-07T13:41:07.346623+09:00",
+   "수익성 이끈다 개선 엄기천 음극재로 포스코퓨처엠 기업들의 글로벌"
+  ],
+  [
+   "2026-08-07T13:41:07.346623+09:00",
+   "조달 32GB 비상 폭등에 흔들 빅테크도 램값 애플은 철회 MS는 권장"
+  ],
+  [
+   "2026-08-07T13:41:07.346623+09:00",
+   "추론 성장 딥마인드 구글 AI 시장 해법 10년간 10배 HBF가"
+  ],
+  [
+   "2026-08-07T13:41:07.346623+09:00",
+   "레버리지 될까 코스닥 10조 자금 이탈 신호탄 반등"
+  ],
+  [
+   "2026-08-07T13:41:07.346623+09:00",
+   "초청해 진로탐색 가족돌봄아동 지원 SK이노베이션 34명"
   ]
  ],
- "last_run": "2026-08-07T13:31:18.019239+09:00",
+ "last_run": "2026-08-07T13:41:24.225319+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
