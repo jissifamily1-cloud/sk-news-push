@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026080517050947140",
-  "https://www.econovill.com/news/articleView.html?idxno=747217",
-  "http://www.samdailbo.com/news/articleView.html?idxno=268600",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62167",
-  "https://www.news1.kr/finance/general-stock/6250294",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444026",
   "https://www.topstarnews.net/news/articleView.html?idxno=16155656",
   "https://www.ceoscoredaily.com/page/view/2026080513494477539",
@@ -2999,15 +2993,15 @@
   "https://www.kizmom.com/news/articleView.html?idxno=111959",
   "https://www.munhwa.com/article/11607967",
   "https://www.mk.co.kr/article/12120778",
-  "https://www.ekn.kr/web/view.php?key=20260807020320496"
+  "https://www.ekn.kr/web/view.php?key=20260807020320496",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260807114859Qc6",
+  "https://en.yna.co.kr/view/AEN20260807004000320?input=2106m",
+  "https://biz.sbs.co.kr/article_hub/20000327313?division=NAVER",
+  "https://www.munhwa.com/article/11607999",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444200",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444205"
  ],
  "seen_titles": [
-  "“강한현금창출력”SK하이닉스,무디스신용등급첫A등급진입",
-  "반도체쏠림에밀렸던조선주…'마스가'가밀어올린다",
-  "안성시,용인시공업용수방류계획공개비판..“시민불안키우는행...",
-  "[컨콜종합]SKT,영업익67%반등…3300억출자해AIDC5GW시동",
-  "삼성전자'zNAND-O'·SK하이닉스'HBF'…HBM옆자리꿰차는낸드플래시",
-  "제주서손흥민경기보나...도의회,해외축구팀초청추진",
   "SKT,2분기영업익67.3%급증…AI데이터센터92.5%성장견인",
   "단일레버리지ETF거래대금첫1조원하회…비반도체로'매수세'",
   "'삼전닉스'대표성과급고발사건,경찰수사착수",
@@ -6001,7 +5995,13 @@
   "[스포츠]전북현대-제주SK8일맞대결…폭염에경기시간'오후8시'로변...",
   "검·법·군흔드는권력의최종목적[이용식의시론]",
   "Gov’tmustreachconsensusonderegulationtostayaheadintechnology",
-  "[단독]삼전닉스광주250만평‘한판설계’…평택식캠퍼스들어선다"
+  "[단독]삼전닉스광주250만평‘한판설계’…평택식캠퍼스들어선다",
+  "중동긴장재고조에…코스피·코스닥하락전환",
+  "SeoulsharesturnlowerlateFri.morningamidrenewedHormuztensions",
+  "코스피반등후장중6200선밑으로…코스닥엿새만에하락반전",
+  "靑,메가프로젝트전담‘국가투자수석급조직’검토",
+  "[K-GX에보이는미래③]한병화유진투자증권이사\"3대메가프로젝트...",
+  "포드'3만달러미만'전기픽업트럭공개,SK온대신중국CATL과동맹..."
  ],
  "recent_sigs": [
   [
@@ -6975,9 +6975,21 @@
   [
    "2026-08-07T11:41:15.505286+09:00",
    "설계 평택식 들어선다 한판 250만평 캠퍼스 광주 삼전닉스"
+  ],
+  [
+   "2026-08-07T11:51:04.378375+09:00",
+   "수석급 검토 메가프로젝트 국가투자 전담"
+  ],
+  [
+   "2026-08-07T11:51:04.378375+09:00",
+   "한병화 이사 유진투자증권 프로젝트 3대 메가"
+  ],
+  [
+   "2026-08-07T11:51:04.378375+09:00",
+   "SK온 공개 CATL과 달러 포드 미만 3만 중국 픽업트럭 전기 동맹 대신"
   ]
  ],
- "last_run": "2026-08-07T11:41:29.002014+09:00",
+ "last_run": "2026-08-07T11:51:15.675504+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
