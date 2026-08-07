@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626886",
-  "https://biz.sbs.co.kr/article_hub/20000326235?division=NAVER",
   "https://www.news1.kr/economy/trend/6247186",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4098465",
   "https://www.yna.co.kr/view/AKR20260803070200002?input=1195m",
@@ -2999,11 +2997,11 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790253.html",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790252.html",
   "http://www.yonhapnewstv.co.kr/news/MYH20260807202805Bbc",
-  "https://www.ytn.co.kr/_ln/0107_202608072022219575"
+  "https://www.ytn.co.kr/_ln/0107_202608072022219575",
+  "https://news.jtbc.co.kr/article/NB12312310?influxDiv=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6843242_37004.html"
  ],
  "seen_titles": [
-  "정치자금법위반의혹…심덕섭고창군수전캠프관계자구속송치",
-  "바틀샵가맹본부,정보공개서에임원형선고누락…과징금7200만원",
   "대표사기죄선고숨기고가맹계약…'바틀샵'운영사과징금7200만원",
   "'임원형사처벌'누락한와인가맹브랜드'바틀샵'에과징금부과",
   "대표사기죄정보공개서에누락한별빛강물…과징금7천200만원",
@@ -6001,10 +5999,12 @@
   "'여교사몰카'아들폰부순경찰아빠…피의자소환조사",
   "8월7일'뉴스9'예고",
   "[이시각헤드라인]8월7일뉴스리뷰",
-  "압수수색에성접대까지...축구협회논란파문"
+  "압수수색에성접대까지...축구협회논란파문",
+  "'투표율조작'지침,대놓고메일발송한선관위관련자입건",
+  "'채해병순직'임성근2심도징역3년‥\"해병8백여명위험작전투입..."
  ],
  "recent_sigs": [],
- "last_run": "2026-08-07T20:31:14.679939+09:00",
+ "last_run": "2026-08-07T20:40:55.802854+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
