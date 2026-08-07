@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202608050930227243d7a510102_1",
-  "https://magazine.hankyung.com/business/article/202608056526b",
-  "https://www.mhj21.com/news/articleView.html?idxno=253501",
-  "https://www.g-enews.com/view.php?ud=20260805150212352227fa31d75c_1",
-  "https://www.pharmnews.com/news/articleView.html?idxno=305416",
-  "https://www.mediajeju.com/news/articleView.html?idxno=365571",
-  "https://www.mk.co.kr/article/12117697",
-  "https://idsn.co.kr/news/view/1065593810958828",
   "https://www.etoday.co.kr/news/view/2611292",
   "http://www.fnnews.com/news/202608051506366482",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008691250&plink=ORI&cooper=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.dailymedi.com/news/news_view.php?wr_id=939104",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608040812083840102529",
   "https://www.yna.co.kr/view/AKR20260807022800008?input=1195m",
-  "https://www.newspim.com/news/view/20260807000088"
+  "https://www.newspim.com/news/view/20260807000088",
+  "https://www.starnewskorea.com/sports/2026/08/07/2026080708340230729",
+  "https://www.tokenpost.kr/news/economy/386498",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314092",
+  "http://www.segyebiz.com/newsView/20260807505630?OutUrl=naver",
+  "https://www.eroun.net/news/articleView.html?idxno=87128",
+  "https://www.dailian.co.kr/news/view/1675602/?sc=Naver",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314052",
+  "http://kor.theasian.asia/archives/412408"
  ],
  "seen_titles": [
-  "불붙은10세대낸드양산경쟁…삼성전자·SK하이닉스'AI인프라'정조...",
-  "“한국,2031년까지전세계‘메모리최강’유지할것”",
-  "韓메모리최강지위굳힌다…삼성,3D메모리승부수",
-  "SKT,2분기영업이익67.3%증가…통신·AIDC고른성장결과",
-  "\"1300억대유증,소액주주에유동성부담전가\"SK디앤디주주들금감원...",
-  "외신들\"한국증시반등신호\"AI반도체기대에외국인매수세회복",
-  "삼성,3DzHBM공개…SK하이닉스와차세대메모리로드맵경쟁",
-  "세노바메이트미국매출2244억...SK바이오팜,실적성장세지속",
   "손흥민의경기,제주에서볼수있나?LAFC제주초청추진",
   "해킹사태수습끝냈더니‘화색’…SK텔레콤,가입자회복·AIDC성장",
   "SK쉴더스,중소·중견기업사이버침해대응까지평균106일걸려…상시...",
@@ -6001,7 +5993,15 @@
   "\"해외유학·어학연수준비한다면예방접종도체크\"",
   "[더벨]SK에코플랜트,KCA에SKTNS인수자금지원하나",
   "SK증권\"원익IPS,수주잔고증가로하반기실적개선기대\"",
-  "[특징주]저가매수유입…프리마켓대형주소폭반등"
+  "[특징주]저가매수유입…프리마켓대형주소폭반등",
+  "\"김민재가추천했다\"한밤중뮌헨선수들홀린'K-야식'...'한국식치킨...",
+  "[특징주]삼성전자,NXT프리마켓서반등…전일급락뒤저가매수유입",
+  "SK에코플랜트,AI인프라중심사업전환속도…지속가능경영보고서발...",
+  "호르무즈해협긴장에뉴욕증시약세…다우0.85%↓",
+  "용인반도체산업단지첫민간분양…특화설계갖춘신규아파트나온다",
+  "[르포]GPU7656장돌아가는'NHNAI데이터센터'…발열잡는비결은'水...",
+  "\"앱하나로경비부터매출분석까지\"…ADT캡스,'캡스매장솔루션'으로...",
+  "[오늘의신문]폭염은농업흔들고,증시는급락…미중갈등도다시격..."
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,25 @@
   [
    "2026-08-07T08:51:01.195127+09:00",
    "대형주 프리마켓 저가 소폭 유입 매수 반등"
+  ],
+  [
+   "2026-08-07T09:01:28.509245+09:00",
+   "아파트 특화설계 산업단지 갖춘 신규 용인 반도체 나온다 민간분양"
+  ],
+  [
+   "2026-08-07T09:01:28.509245+09:00",
+   "7656장 AI GPU 발열 비결은 NHN 데이터센터 잡는 돌아가는"
+  ],
+  [
+   "2026-08-07T09:01:28.509245+09:00",
+   "매출 매장솔루션 분석까지 ADT캡스 으로 하나로 경비부터 캡스"
+  ],
+  [
+   "2026-08-07T09:01:28.509245+09:00",
+   "다시 급락 증시는 폭염은 흔들고 갈등도 미중 농업"
   ]
  ],
- "last_run": "2026-08-07T08:51:16.739557+09:00",
+ "last_run": "2026-08-07T09:01:42.893004+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
