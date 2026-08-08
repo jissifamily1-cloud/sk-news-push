@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.bizwnews.com/news/articleView.html?idxno=141541",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01990966645518456",
   "https://www.khan.co.kr/article/202607262143005",
   "https://www.bloter.net/news/articleView.html?idxno=669015",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46517",
@@ -2999,11 +2997,11 @@
   "https://www.aitimes.com/news/articleView.html?idxno=213708",
   "https://www.yna.co.kr/view/AKR20260807146000004?input=1195m",
   "https://www.the-today.com/news/articleView.html?idxno=88248",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=755959"
+  "https://www.mhns.co.kr/news/articleView.html?idxno=755959",
+  "https://news.mtn.co.kr/news-detail/2026080716364819783",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444123"
  ],
  "seen_titles": [
-  "SK,엔비디아·MS·앤트로픽과'AI동맹'…2GWAI팩토리구축속도",
-  "SK디스커버리,상반기관계사연합봉사활동전개",
   "[美깐부회동]이해진,14.6조원'AI승부수'…네이버데이터센터1GW로...",
   "SK그룹,미국과손잡고'AI'인프라및생태계확대한다",
   "[미리보는이데일리신문]AI핵심국선언한李…美서1400조‘잭팟’",
@@ -6001,10 +5999,21 @@
   "[AI이슈트렌드]갤럭시Z8흥행속차가원사기·하이닉스HBF·스페이...",
   "최태원,노소영에약1조원지급하나…17일까지재상고안하면확정",
   "SK하이닉스375원배당에'최태원과자'밈…\"1년치배당보다비싸\"",
-  "실화영화'47년7개월-어느여교수의외출'21일기자시사회"
+  "실화영화'47년7개월-어느여교수의외출'21일기자시사회",
+  "메모리치킨게임엄습,장기계약은매직카드일까[AI칩인사이드]",
+  "SK하이닉스노사'성과급주식지급'평행선,곽노정'N%성과급'법적논..."
  ],
- "recent_sigs": [],
- "last_run": "2026-08-09T06:00:41.532950+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-09T06:10:14.059757+09:00",
+   "장기계약은 치킨게임 메모리 매직카드일까 엄습"
+  ],
+  [
+   "2026-08-09T06:10:14.059757+09:00",
+   "SK하이닉스 성과급 곽노정 법적 평행선 주식지급 노사"
+  ]
+ ],
+ "last_run": "2026-08-09T06:10:31.784990+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
