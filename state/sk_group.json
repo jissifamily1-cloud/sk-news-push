@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444081",
-  "https://www.sidae.com/article/2026080611064681223",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=595220",
-  "https://www.hankyung.com/article/2026080682556",
-  "https://dhnews.co.kr/news/view/1065579281247158",
-  "http://www.fnnews.com/news/202608060855321649",
-  "https://www.g-enews.com/view.php?ud=202608061124107433fbbec65dfb_1",
-  "https://en.yna.co.kr/view/AEN20260806003700320?input=2106m",
   "http://www.fnnews.com/news/202608061126084333",
   "http://www.epj.co.kr/news/articleView.html?idxno=39121",
   "https://www.etnews.com/20260806000162",
@@ -2999,17 +2991,17 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16158180",
   "http://www.cctimes.kr/news/articleView.html?idxno=920707",
   "http://www.fieldnews.kr/news/articleView.html?idxno=30556",
-  "https://www.sedaily.com/article/20077053"
+  "https://www.sedaily.com/article/20077053",
+  "https://www.mediapen.com/news/view/1115113",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16158194",
+  "https://www.ekn.kr/web/view.php?key=20260808023540746",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=82962",
+  "https://view.asiae.co.kr/article/2026080618260420007",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16158192",
+  "http://www.newsbrite.net/news/articleView.html?idxno=199625",
+  "https://www.sedaily.com/article/20077194"
  ],
  "seen_titles": [
-  "코스피4~5%대급락,삼전닉스휘청…코스닥도하락",
-  "세제혜택에몰렸다가…밸류업공시747곳중605곳은한번내고그쳤다",
-  "증권가\"SM엔터하반기실적성장세이어갈듯,새보이그룹SMTR25데뷔...",
-  "이상일용인시장,다낭FPT그룹방문…첨단산업협력모색",
-  "CEO브랜드평판8월,삼성이재용1위…SK최태원·LG구광모뒤이어",
-  "SK하이닉스,프리마켓서또하한가체결…시초가논란재점화[종목+]",
-  "순천향대-SKT,‘AI그림일기’로미래형AI·SW교육본격운영",
-  "HD건설기계,PPA활용재생에너지확보…전국사업장40%달성으로업계...",
   "DRAM품귀에GPU가격40%폭등…삼성·SK수혜확대",
   "SeoulsharesextendlosseslateThurs.morningontechslump",
   "[현장영상]구윤철,외신부정평가반박\"증시안정화흐름\"",
@@ -6001,7 +5993,15 @@
   "최근5거래일SK하이닉스주가140만원대마감",
   "SK하이닉스,청주M17에19조원투자확정",
   "이상일용인시장,다낭서반도체·AI협력시동…상시협력채널가동",
-  "건설한파에벼랑끝데크업계…반도체·AI데이터센터‘단비’될까"
+  "건설한파에벼랑끝데크업계…반도체·AI데이터센터‘단비’될까",
+  "달라진미국주식투자자매수흐름…‘속슬’팔고빅테크담았다",
+  "8월1주차SK이터닉스주가급등후5만원대급락",
+  "“역시미국이답”…코스피폭락에서학개미‘대탈출’[머니+]",
+  "[오늘일본은]日,독도인근한국조사선에또항의…독도영유권주장...",
+  "'코인으로사고파는주식'열풍…진짜돈버는곳은[주末머니]",
+  "8월1주차SK스퀘어주가주중상승세반납하락",
+  "최태원·노소영1조재산분할과'0원'세금…조세정의는어디로갔나",
+  "베슬AI,GPU확보…클라우드사업강화"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,33 @@
   [
    "2026-08-08T11:01:29.787091+09:00",
    "리스크 관리 반도체 GS피앤엘 담고"
+  ],
+  [
+   "2026-08-08T11:25:45.199252+09:00",
+   "서학개미 미국이 대탈출 역시 코스피 폭락에"
+  ],
+  [
+   "2026-08-08T11:25:45.199252+09:00",
+   "영유권 항의 조사선에 독도 한국 인근 주장"
+  ],
+  [
+   "2026-08-08T11:25:45.199252+09:00",
+   "사고파는 버는 주식 코인으로 곳은 열풍 진짜"
+  ],
+  [
+   "2026-08-08T11:25:45.199252+09:00",
+   "SK스퀘어 주가주중 상승세 8월 1주차 하락 반납"
+  ],
+  [
+   "2026-08-08T11:25:45.199252+09:00",
+   "어디로 노소영 정의는 갔나 최태원 세금 1조 재산분할과 조세 0원"
+  ],
+  [
+   "2026-08-08T11:25:45.199252+09:00",
+   "GPU 베슬AI 확보 사업 강화 클라우드"
   ]
  ],
- "last_run": "2026-08-08T11:11:17.154469+09:00",
+ "last_run": "2026-08-08T11:26:04.091148+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
