@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725787",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=223312",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456670",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690545",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444109",
   "http://www.joseilbo.com/news/news_read.php?uid=573367&class=53",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855028",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260807158800008?input=1195m",
   "https://www.news1.kr/finance/market-exr/6252963",
   "https://www.newspim.com/news/view/20260805001445",
-  "http://www.celuvmedia.com/article.php?aid=1786222800525334007"
+  "http://www.celuvmedia.com/article.php?aid=1786222800525334007",
+  "https://www.ddaily.co.kr/page/view/2026080901131003009",
+  "https://www.the-today.com/news/articleView.html?idxno=88252",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167558",
+  "https://www.yna.co.kr/view/AKR20260807160100008?input=1195m"
  ],
  "seen_titles": [
-  "미·일엔화방어이어한국도개입?…\"미,무역적자의식\"",
-  "통신사'불공정약관'개정예정…공정위,SKT·KT·LGU+에자진시정요...",
-  "수협은행,상상인증권인수추진…금융지주밑그림완성되나",
-  "SK하이닉스,장중8%대급락…152만원대로밀리며약세",
   "용인특례시의회,다낭서AI·반도체협력가능성모색",
   "SKT,독자AI모델추론효율높인다…'소버린AI'역량강화",
   "다올투자\"SK바이오팜2분기기대이상실적,하반기엑스코프리처방...",
@@ -6001,7 +5997,11 @@
   "[마켓인사이트]韓증시,역대급변동성은다소완화…반등계기찾나",
   "금리가늠자7월美물가지수발표…소외주온기,반도체방향성탐색",
   "[메가프로젝트,대한민국을다시설계하다]①AI생태계로여는'제3의...",
-  "요즘가요계대세는'절친시너지'…십란→성시경친구들,합동콘서트..."
+  "요즘가요계대세는'절친시너지'…십란→성시경친구들,합동콘서트...",
+  "[위클리배터리]LFP로넓히고유럽EV잡는다…K-배터리,하반기반등채...",
+  "[솔리다임IPO,2부]SK하이닉스는ADS,BWLPG는보통주…같은미국상장...",
+  "실적개선에반등시동…美물가·반도체변동성'촉각'[주간증시전망...",
+  "2분기실적시즌막바지…상장사10곳중6곳꼴기대치웃돌아"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,25 @@
   [
    "2026-08-09T06:11:08.937498+09:00",
    "성시경 합동 시너지 절친 친구들 대세는 콘서트 가요계 십란 요즘"
+  ],
+  [
+   "2026-08-09T06:15:13.590566+09:00",
+   "잡는다 하반기 반등 LFP로 배터리 EV 넓히고 유럽"
+  ],
+  [
+   "2026-08-09T06:15:13.590566+09:00",
+   "미국 같은 LPG는 ADS 상장 SK하이닉스는 보통주 BW"
+  ],
+  [
+   "2026-08-09T06:15:13.590566+09:00",
+   "개선에 반도체 변동성 반등 촉각 물가 시동 실적 주간증시전망"
+  ],
+  [
+   "2026-08-09T06:15:13.590566+09:00",
+   "막바지 6곳꼴 2분기 상장사 웃돌아 기대치 10곳 실적시즌"
   ]
  ],
- "last_run": "2026-08-09T06:11:54.516539+09:00",
+ "last_run": "2026-08-09T06:15:27.124103+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
