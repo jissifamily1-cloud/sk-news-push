@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6842850_36967.html",
-  "https://www.newsis.com/view/NISX20260806_0003738674",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=227278",
-  "https://m.skyedaily.com/news_view.html?ID=309315",
   "http://www.snmnews.com/news/articleView.html?idxno=572964",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444098",
   "https://www.ddaily.co.kr/page/view/2026080612090017931",
@@ -2999,13 +2995,13 @@
   "https://www.sedaily.com/article/20077229",
   "https://www.munhwa.com/article/11608150",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080523&t=NN",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719663"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719663",
+  "https://www.imaeil.com/page/view/2026080818380210257",
+  "https://imnews.imbc.com/news/2026/world/article/6843347_36925.html",
+  "https://www.the-today.com/news/articleView.html?idxno=88243",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274401"
  ],
  "seen_titles": [
-  "롤러코스터탄국내증시…코스피5%급락에매도사이드카또발동",
-  "반도체쇼크에코스피급락…또매도사이드카발동",
-  "코스피매도사이드카‥'삼전·닉스'급락",
-  "“6%빠지면위험\"…코스피추세가를분기점은",
   "대기업집단2026년8월브랜드평판...삼성,SK,현대자동차順",
   "“증시식었나”…개인매수둔화에거래대금1달새30%급감",
   "현대제철포항1공장유휴부지에'산단형태양광'…시·도민참여펀드...",
@@ -6001,7 +5997,11 @@
   "삼전닉스급락에개미들美증시로…월가는“과열경고”",
   "‘정부의서학개미증시복귀작전실패?’…로이터“코스피신뢰빠르...",
   "SK하이닉스,中공장지분매각저울질…4조원대거래가능성",
-  "[EBN오늘(8일)이슈종합]서학개미베팅이동…'속슬'2.6조팔고아마..."
+  "[EBN오늘(8일)이슈종합]서학개미베팅이동…'속슬'2.6조팔고아마...",
+  "블룸버그\"SK하이닉스,中패키징공장지분매각등검토\"",
+  "블룸버그\"SK하이닉스,중국충칭공장지분매각등검토\"",
+  "[NZSIINDEX]2026년8월6일AI메모리시대,성장보다'지속가능한경...",
+  "AIBoomLiftsSouthKorea,TaiwanPastJapaninExportValue"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,17 @@
   [
    "2026-08-08T18:31:22.912769+09:00",
    "가능성 SK하이닉스 지분 4조원대 공장 매각 거래 저울질"
+  ],
+  [
+   "2026-08-08T18:47:02.257502+09:00",
+   "메모리 성장보다 AI 2026년 6일 시대 지속 8월 가능한"
+  ],
+  [
+   "2026-08-08T18:47:02.257502+09:00",
+   "Korea in Export AI Lifts Past Taiwan Value Japan South Boom"
   ]
  ],
- "last_run": "2026-08-08T18:41:19.646360+09:00",
+ "last_run": "2026-08-08T18:47:12.196635+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
