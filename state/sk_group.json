@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260806068100008?input=1195m",
-  "http://www.finomy.com/news/articleView.html?idxno=258679",
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=2050",
-  "https://basketkorea.com/news/newsview.php?ncode=1065578135575091",
-  "https://news.ifm.kr/news/articleView.html?idxno=476606",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92888",
-  "http://www.breaknews.com/1227123",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719372",
   "https://daily.hankooki.com/news/articleView.html?idxno=1393341",
   "https://www.slist.kr/news/articleView.html?idxno=756955",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20260808000023",
   "https://www.wikitree.co.kr/articles/1151153",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=169511",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051019195600106291"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051019195600106291",
+  "https://www.sportschosun.com/football/2026-08-08/202608080100044680002774",
+  "https://news.bizwatch.co.kr/article/market/2026/08/07/0018",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=269569",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000055322",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142763",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=725866",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608080392&t=NN"
  ],
  "seen_titles": [
-  "코스피,반도체주약세에장중5%대급락···매도사이드카발동",
-  "SK에코플랜트,AI인프라·ESG성과담은'2025지속가능경영보고서'공...",
-  "미래운용\"변동성시대,반도체투자밸류체인전반에분산해야\"",
-  "SK텔레콤,AI데이터센터로성장동력확보",
-  "SK텔레콤,통신넘어'AI데이터센터'…SK그룹새먹거리키운다",
-  "DB손해보험2026KBL유스클럽농구대회IN제천,14~17충북제천시개...",
-  "[초점]SKT실적반등에'장미빛전망'일색…실적보다앞서간'AI프리미...",
   "'숨고르기'코스피,2~3%대내려6,400대…코스닥닷새만에반락",
   "[추적]SK하이닉스⑦826억원청산열흘뒤이번엔11주하한가…동적...",
   "청와대,'레버리지ETF'김용범책임론에\"대책챙기는것더중요\"",
@@ -6001,7 +5994,14 @@
   "김민재,선제헤더골+철벽수비맹활약…뮌헨,애스턴빌라에2-1",
   "아이폰18프로,D램병목에웨이퍼10억달러어치발묶여",
   "다음주증시,美CPI·PPI등물가지표살펴야",
-  "[더벨][제약바이오R&D인사이더스]SK바이오팜,'빅바이오텍키'RPT…2..."
+  "[더벨][제약바이오R&D인사이더스]SK바이오팜,'빅바이오텍키'RPT…2...",
+  "\"韓축구초대박호재!\"깜짝헤더골→EPL맨유이적설…'괴물수비수'...",
+  "[ETF워치]'보완책통했나'…단일종목레버리지거래대금10분의1토막",
+  "삼성전자·SK하이닉스경쟁의새로운서막…'메모리병목'에꺼내든서...",
+  "실적호조에반등…서학개미,기술주다시매집",
+  "[위클리PICK3]'고가·다주택과세강화'세제개편부터삼성·하이닉...",
+  "[이주의전자수첩]고객에서맞수로…머스크'테라팹'에삼성·SK'긴장...",
+  "국장떠난서학개미…'속슬'팔고담은종목은?"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,21 @@
   [
    "2026-08-08T08:52:56.992567+09:00",
    "SK바이오팜 빅바이오텍 RPT"
+  ],
+  [
+   "2026-08-08T09:01:16.343527+09:00",
+   "과세 삼성 고가 강화 하이닉 세제 다주택 개편부터"
+  ],
+  [
+   "2026-08-08T09:01:16.343527+09:00",
+   "머스크 고객에서 긴장 맞수로 삼성 테라팹"
+  ],
+  [
+   "2026-08-08T09:01:16.343527+09:00",
+   "속슬 종목은 담은 팔고 서학개미 떠난 국장"
   ]
  ],
- "last_run": "2026-08-08T08:53:03.906632+09:00",
+ "last_run": "2026-08-08T09:01:27.909965+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
