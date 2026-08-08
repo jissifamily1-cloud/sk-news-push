@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.goodkyung.com/news/articleView.html?idxno=290007",
-  "https://www.newsway.co.kr/news/view?ud=2026080613252420773",
-  "https://www.wikitree.co.kr/articles/1150824",
-  "http://www.dailypop.kr/news/articleView.html?idxno=101323",
-  "https://www.nocutnews.co.kr/news/6559232",
   "https://www.g-enews.com/view.php?ud=202608061407124002923c501012_1",
   "https://www.mydaily.co.kr/page/view/2026080614225177272",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690549",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/local/gwangju-jeonnam/6252407",
   "https://www.theguru.co.kr/news/article.html?no=105546",
   "https://www.ikbc.co.kr/article/view/kbc202608090005",
-  "https://www.theguru.co.kr/news/article.html?no=105480"
+  "https://www.theguru.co.kr/news/article.html?no=105480",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=938583",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/07/2026080700087.html",
+  "https://www.dt.co.kr/article/12077166",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/07/2026080700105.html",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475608"
  ],
  "seen_titles": [
-  "넉넉한실탄⋯삼성전자·SK하이닉스,주주환원확대공식화",
-  "SK스퀘어,장중11%대급락…차익실현매물쏟아지며98만원대로밀려",
-  "[굿모닝!6일건설업계소식]DL이앤씨·현대엔지니어링·SK에코플랜트·...",
-  "10대건설사도분양5곳중1곳은청약미달…GS건설·현대ENG'고전'",
-  "[기자수첩]속보도먹히지않는시장…개미들은이미지쳤다",
   "뉴욕증시다우또사상최고…스페이스X급락에기술주출렁",
   "조계원전남광주시당위원장출마\"정청래호남갈라치기막아야\"",
   "코스닥,15거래일만에800선재진입…코스피는6300선사수‘안간힘’",
@@ -6001,7 +5996,12 @@
   "산업용전기차등요금제,호남권반도체최대수혜주되나",
   "美팩토리얼,'90도무냉각'전고체배터리앞세워우주시장노크",
   "최태원,노소영에약1조원지급하나...역대최대이혼소송재산분할금",
-  "SK넥실리스폴란드공장'상시'채용프로그램시작…공장가동준비'박..."
+  "SK넥실리스폴란드공장'상시'채용프로그램시작…공장가동준비'박...",
+  "인천영종도부지,바이오단지전환속도…입주제약사관심",
+  "'성과급잭팟'터진삼성·SK…AI반도체이익배분시험대",
+  "베슬AI“엔비디아B200GPU1000장이상확보”",
+  "건설업전반덮친영업정지리스크…불황속두손두발다묶이나",
+  "SK텔레콤,순이익459%증가…통신업계실적개선신호탄되나"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,29 @@
   [
    "2026-08-09T07:52:13.441528+09:00",
    "공장 가동 폴란드 SK넥실리스 시작 준비 채용 상시 프로그램"
+  ],
+  [
+   "2026-08-09T08:01:31.081802+09:00",
+   "영종도 입주 인천 부지 속도 제약사 관심 바이오단지"
+  ],
+  [
+   "2026-08-09T08:01:31.081802+09:00",
+   "배분 반도체 시험대 터진 삼성 성과급 AI 이익 잭팟"
+  ],
+  [
+   "2026-08-09T08:01:31.081802+09:00",
+   "이상 1000장 베슬AI 엔비디아 확보 B200 GPU"
+  ],
+  [
+   "2026-08-09T08:01:31.081802+09:00",
+   "영업정지 리스크 두손두발 건설업 묶이나 전반 불황 덮친"
+  ],
+  [
+   "2026-08-09T08:01:31.081802+09:00",
+   "통신업계 실적 증가 순이익 SK텔레콤 개선 되나 신호탄"
   ]
  ],
- "last_run": "2026-08-09T07:52:27.672123+09:00",
+ "last_run": "2026-08-09T08:01:46.931934+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
