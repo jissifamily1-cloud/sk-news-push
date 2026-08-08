@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.paxetv.com/news/articleView.html?idxno=278782",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47788",
-  "https://www.viva100.com/article/20260806500825",
   "https://www.job-post.co.kr/news/articleView.html?idxno=223317",
   "https://www.goodkyung.com/news/articleView.html?idxno=290007",
   "https://www.newsway.co.kr/news/view?ud=2026080613252420773",
@@ -2999,12 +2996,12 @@
   "https://www.ytn.co.kr/_ln/0102_202608090721408878",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=62605",
   "https://www.sedaily.com/article/20077200",
-  "https://www.tokenpost.kr/news/market/387072"
+  "https://www.tokenpost.kr/news/market/387072",
+  "https://www.theguru.co.kr/news/article.html?no=105546",
+  "https://www.ikbc.co.kr/article/view/kbc202608090005",
+  "https://www.theguru.co.kr/news/article.html?no=105480"
  ],
  "seen_titles": [
-  "SK하이닉스11주하한가…대체거래소'시초가논란",
-  "클라스한결김광중변호사\"단일종목레버리지ETF,변동성에부스터…...",
-  "[인터뷰]윤선중교수\"단일종목레버리지ETF,변동성일부증폭…AUM통...",
   "SK증권\"삼익THK,반도체공정용진공로봇과6축다관절로봇개발중\"",
   "넉넉한실탄⋯삼성전자·SK하이닉스,주주환원확대공식화",
   "SK스퀘어,장중11%대급락…차익실현매물쏟아지며98만원대로밀려",
@@ -6001,7 +5998,10 @@
   "\"환율하락도코스닥유리...이번주도코스닥상승전망\"",
   "[증시전망대]변동성진정되는韓증시,'반전의계기'찾을까",
   "투자자압박에백기든SK하이닉스,‘나스닥급’주주환원나설까[선...",
-  "미국물가지표주목속,코스피·코스닥엇갈린흐름"
+  "미국물가지표주목속,코스피·코스닥엇갈린흐름",
+  "美팩토리얼,'90도무냉각'전고체배터리앞세워우주시장노크",
+  "최태원,노소영에약1조원지급하나...역대최대이혼소송재산분할금",
+  "SK넥실리스폴란드공장'상시'채용프로그램시작…공장가동준비'박..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,21 @@
   [
    "2026-08-09T07:41:16.921143+09:00",
    "지표 엇갈린 코스닥 코스피 주목 미국 흐름 물가"
+  ],
+  [
+   "2026-08-09T07:51:05.642738+09:00",
+   "시장 무냉각 팩토리얼 전고체 배터리 우주 90도 앞세워 노크"
+  ],
+  [
+   "2026-08-09T07:51:05.642738+09:00",
+   "최태원 약1조원 재산분할금 지급하나 이혼소송 역대최대 노소영에"
+  ],
+  [
+   "2026-08-09T07:51:05.642738+09:00",
+   "채용 가동 공장 폴란드 SK넥실리스 준비 프로그램 시작 상시"
   ]
  ],
- "last_run": "2026-08-09T07:41:28.197616+09:00",
+ "last_run": "2026-08-09T07:51:16.430038+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
