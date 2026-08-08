@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026080611154814880",
-  "https://www.sisajournal.com/news/articleView.html?idxno=382578",
-  "https://www.seoul.co.kr/news/economy/securities/2026/08/06/20260806500075?wlog_tag3=naver",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=607550",
   "https://vop.co.kr/A00001696100.html",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444089",
   "https://www.segye.com/newsView/20260806510325?OutUrl=naver",
@@ -2999,13 +2995,13 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890021.html",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457294",
   "https://www.newscj.com/news/articleView.html?idxno=3423471",
-  "https://www.news1.kr/local/gwangju-jeonnam/6253027"
+  "https://www.news1.kr/local/gwangju-jeonnam/6253027",
+  "https://www.mk.co.kr/article/12121684",
+  "https://www.newsis.com/view/NISX20260805_0003737877",
+  "http://www.breaknews.com/1227613",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719650"
  ],
  "seen_titles": [
-  "LG유플러스,2Q영업익3445억…전년比13％↑",
-  "대기업집단브랜드평판8월,삼성1위…SK·현대자동차뒤이어",
-  "넥스트레이드프리마켓의'SK하이닉스하한가사태'파장은",
-  "코스피5%폭락에매도사이드카발동…구윤철\"최근주가안정화\"",
   "자고일어나니‘하이닉스하한가’…프리마켓‘11주장난질’에뒷목...",
   "금감원,SK디앤디1367억유증정정요구",
   "최태원-노소영재산분할에서사라진‘노태우비자금’과‘옥중기부’",
@@ -6001,7 +5997,11 @@
   "5월말출시된'삼전닉스레버리지',다른ETF보다상장소요기간한달...",
   "[증시동향]외국인투매에발목잡힌코스피···반등중인코스닥",
   "[축구]김민재,홍콩에서헤더골작렬…뮌헨,애스턴빌라2-1격파",
-  "전남광주특별시,기후부에발전공기업통합본사설치건의"
+  "전남광주특별시,기후부에발전공기업통합본사설치건의",
+  "거래소“단일종목레버리지ETF심사단축은사실무근”",
+  "\"한국판팔란티어꿈꾼다\"…네이버가국방AI사업에진심인이유",
+  "[추적]SK하이닉스⑨버텨?손절해?지금사,말아?…375원에낚이기전...",
+  "[1%초고수의주간선택]'GS피앤엘'담고'반도체'리스크관리"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,21 @@
   [
    "2026-08-08T10:51:35.047000+09:00",
    "통합 기후부에 설치 건의 발전공기업 본사 전남광주특별시"
+  ],
+  [
+   "2026-08-08T11:01:29.787091+09:00",
+   "진심인 이유 한국판 팔란티어 국방 꿈꾼다 사업에 네이버가 AI"
+  ],
+  [
+   "2026-08-08T11:01:29.787091+09:00",
+   "375원에 손절해 낚이기 버텨 SK하이닉스 지금 말아"
+  ],
+  [
+   "2026-08-08T11:01:29.787091+09:00",
+   "리스크 관리 반도체 GS피앤엘 담고"
   ]
  ],
- "last_run": "2026-08-08T10:51:42.045493+09:00",
+ "last_run": "2026-08-08T11:01:41.431396+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
