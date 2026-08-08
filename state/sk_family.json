@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026072667217",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065614033057501",
   "https://www.bosa.co.kr/news/articleView.html?idxno=3009020",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356508",
@@ -2999,10 +2998,10 @@
   "http://www.newsbrite.net/news/articleView.html?idxno=199625",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071505",
   "https://www.cbci.co.kr/news/articleView.html?idxno=595991",
-  "https://www.mt.co.kr/industry/2026/08/08/2026080714455982199"
+  "https://www.mt.co.kr/industry/2026/08/08/2026080714455982199",
+  "https://www.aitimes.com/news/articleView.html?idxno=213708"
  ],
  "seen_titles": [
-  "젠슨황의‘골든벨’제안에…배경훈“공무원이라안돼”폭소",
   "‘9440억’실탄필요한최태원,SK주식매각대신‘우회로’찾나",
   "[참성단]최태원-노소영이혼",
   "'최태원부터이재용까지'…재벌가이혼·재산분할어떻게달랐나",
@@ -6001,15 +6000,20 @@
   "최태원·노소영1조재산분할과'0원'세금…조세정의는어디로갔나",
   "[인사]대구시민선9기첫5급이하",
   "김선태,사과후1주일만에근황영상공개…'고독하구만'",
-  "메모리반도체품귀에'장기계약'러시..샌디스크·난야도LTA확대"
+  "메모리반도체품귀에'장기계약'러시..샌디스크·난야도LTA확대",
+  "[AI이슈트렌드]갤럭시Z8흥행속차가원사기·하이닉스HBF·스페이..."
  ],
  "recent_sigs": [
   [
    "2026-08-08T15:06:56.216079+09:00",
    "품귀에 난야도 LTA 장기계약 러시 메모리반도체 확대 샌디스크"
+  ],
+  [
+   "2026-08-08T17:40:21.944682+09:00",
+   "흥행 스페이 사기 하이닉스 HBF Z8 갤럭시 차가원"
   ]
  ],
- "last_run": "2026-08-08T17:30:33.605070+09:00",
+ "last_run": "2026-08-08T17:40:36.875881+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6316,6 +6320,7 @@
   "kookbang.dema.mil.kr": "kookbang.dema.mil.kr",
   "newsmaker.or.kr": "newsmaker.or.kr",
   "newswatch.kr": "뉴스워치",
-  "tjmbc.co.kr": "대전MBC"
+  "tjmbc.co.kr": "대전MBC",
+  "aitimes.com": "AI타임스"
  }
 }
