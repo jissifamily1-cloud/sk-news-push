@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=867063",
-  "https://www.cnbizm.com/news/articleView.html?idxno=310749",
-  "https://dealsite.co.kr/articles/166633",
-  "http://www.fnnews.com/news/202608060953295086",
-  "https://biz.heraldcorp.com/article/10832766",
-  "https://www.yna.co.kr/view/AKR20260806065700054?input=1195m",
-  "https://www.naeil.com/news/read/597965",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46822",
   "https://view.asiae.co.kr/article/2026080609485046457",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260806.99099001496",
@@ -2999,16 +2992,16 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026080809101592924c878f8fa1_30",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719643",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52017",
-  "https://www.mk.co.kr/article/12120601"
+  "https://www.mk.co.kr/article/12120601",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96020",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02715846645545352",
+  "https://view.asiae.co.kr/article/2026080809472602058",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719647",
+  "https://www.g-enews.com/view.php?ud=202608080911582539fbbec65dfb_1",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311180",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429259"
  ],
  "seen_titles": [
-  "코스피장중5%급락…매도사이드카발동",
-  "AIESS수주에한국판IRA까지…삼성SDI,국내25조투자‘탄력’",
-  "SK에코플랜트,2025지속가능경영보고서발간…AI인프라중심사업전환...",
-  "SK에코플랜트,'지속가능경영보고서'발간…AI인프라중심사업전환...",
-  "엇갈리는반도체시그널…주가하락에도메모리\"더오른다\"",
-  "\"SKT,34%더오를것\"…에이피알,북미·유럽등서구권서성장본격화...",
-  "‘잔인한7월’ETF78%하락…순자산80조증발",
   "광주공항국내선무안이전빨라진다…반도체일정에맞출듯",
   "부산국제마케팅광고제특별상‘라자라자만나르·임지영’",
   "알테오젠매출본격화·디앤디파마텍후보중단…국내제약사기술수출...",
@@ -6001,7 +5994,14 @@
   "이상일,베트남다낭서'AI도시용인'비전제시…“반도체·AI로시민...",
   "'고용쇼크'가밀어올린美증시…S&P500사상최고",
   "연준긴축부담덜자뉴욕증시강세…S&P500최고치경신",
-  "2주만에2400만원증발…스타들도못피한주식롤러코스터[스테크]"
+  "2주만에2400만원증발…스타들도못피한주식롤러코스터[스테크]",
+  "'맨유이적설'김민재터졌다!헤더선제골+평점8.1점...뮌헨,'유로파...",
+  "김민재,시즌앞두고득점포'쾅'…뮌헨2연승견인",
+  "이상일용인시장,다낭서‘AI행정’소개…“반도체·AI함께가는시...",
+  "서학개미베팅이동…'속슬'2.6조팔고아마존·마이크론샀다",
+  "아이폰18칩,10억달러발묶여…DRAM부족에패키징정체",
+  "삼전닉스레버리지ETF규제했지만…'코인판'처럼흔들린코스피[주간...",
+  "8월물가변수로떠오른'히트플레이션'…폭염에농축수산물값오르나"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,13 @@
   [
    "2026-08-08T09:41:11.882383+09:00",
    "만에 2주 2400만원 피한 롤러코스터 스타들도 주식 증발"
+  ],
+  [
+   "2026-08-08T09:51:10.772638+09:00",
+   "농축수산물값 오르나 폭염에 8월 떠오른 히트플레이션 물가 변수로"
   ]
  ],
- "last_run": "2026-08-08T09:41:20.683132+09:00",
+ "last_run": "2026-08-08T09:51:17.146965+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
