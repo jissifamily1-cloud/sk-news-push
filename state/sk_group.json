@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4099246",
-  "https://www.mt.co.kr/tech/2026/08/06/2026080608300740845",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630220",
   "https://view.asiae.co.kr/article/2026080610593174233",
   "https://biz.sbs.co.kr/article_hub/20000326981?division=NAVER",
   "https://www.khan.co.kr/article/202608061200011",
@@ -2999,12 +2996,12 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890081.html",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855398",
   "https://sateconomy.co.kr/news/view/1065580829512503",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47997"
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47997",
+  "https://www.bigtanews.co.kr/article/view/big202608080006",
+  "https://www.hankyung.com/article/202608069562g",
+  "https://www.yna.co.kr/view/AKR20260808045500009?input=1195m"
  ],
  "seen_titles": [
-  "개인정보사고책임떠넘긴통신3사…고객책임전가막는다",
-  "SKT·KT·LGU+이통3사,개인정보사고면책등약관시정키로",
-  "\"개인정보유출책임없다?\"...통신3사불공정약관대대적시정",
   "개인정보침해사고손해책임면책?…이통3사불공정약관시정",
   "공정위,SKT·KT·LGU+불공정약관시정…이용자권리강화",
   "이통3사불공정약관자진시정…개인정보침해사고에대한면책조항...",
@@ -6001,7 +5998,10 @@
   "거래소\"삼전·닉스'단일레버리지ETF',예비심사13일걸려…일반ET...",
   "원유보다귀해진정제능력…K정유'수출기회'커진다",
   "정부,AI에세제·GPU지원…네이버·카카오·통신사‘수익화경쟁’수...",
-  "SKhynixCommits$38.3BtoNewAIMemoryChipFabs"
+  "SKhynixCommits$38.3BtoNewAIMemoryChipFabs",
+  "KB증권,8월첫째주대우건설등19종목매수추천",
+  "삼전닉스'성과급공식'흔들리나…'영업익N%'입법전쟁[김대영의노...",
+  "\"SK하이닉스,중국충칭패키징공장지분매각등검토\""
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,17 @@
   [
    "2026-08-08T18:01:18.936695+09:00",
    "to Chip New AI hynix Commits Memory 3B Fabs"
+  ],
+  [
+   "2026-08-08T18:10:59.791509+09:00",
+   "입법 흔들리나 전쟁 삼전닉스 김대영의 성과급 영업익"
+  ],
+  [
+   "2026-08-08T18:10:59.791509+09:00",
+   "지분매각 검토 충칭 패키징공장 중국 SK하이닉스"
   ]
  ],
- "last_run": "2026-08-08T18:01:32.567783+09:00",
+ "last_run": "2026-08-08T18:11:08.960674+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
