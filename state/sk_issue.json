@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202608030168",
-  "http://www.newswell.co.kr/news/articleView.html?idxno=20784",
-  "https://www.wikitree.co.kr/articles/1150137",
-  "https://www.ajunews.com/view/20260803150353251",
-  "https://biz.heraldcorp.com/article/10829162",
-  "https://www.newscj.com/news/articleView.html?idxno=3422098",
-  "http://www.fnnews.com/news/202608031340510315",
   "https://www.hg-times.com/news/articleView.html?idxno=304107",
   "https://www.ajunews.com/view/20260803150105249",
   "https://www.newspim.com/news/view/20260803001134",
@@ -2999,16 +2992,16 @@
   "https://www.nocutnews.co.kr/news/6560073",
   "https://www.xportsnews.com/article/2181314",
   "https://www.joongang.co.kr/article/25451807",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890034.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890034.html",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432324",
+  "https://www.hidomin.com/news/articleView.html?idxno=716408",
+  "http://www.osen.co.kr/article/G1112853741",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849771",
+  "https://www.pressian.com/pages/articles/2026080811301569000",
+  "https://www.hankookilbo.com/news/article/A2026080809520005048?did=NA",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553442372"
  ],
  "seen_titles": [
-  "'웹소설저작권갑질의혹'카카오엔터,과징금5억취소확정",
-  "'가격담합·분식회계'만호제강이주주가치제고?[뉴스톡웰스톡]",
-  "집이아니어도배달된다…외국인이한국에서가장부러워하는배달문화",
-  "코레일·SR'화학적통합'엔3년…재무부담·독점관리시험대",
-  "억울한누명막판뒤집기희박해졌다…끝내폐지된‘보완수사권’[세...",
-  "국힘주진우\"22대총선도'쌍둥이투표구'…선관위159곳조작정황\"",
-  "검찰보완수사권완전박탈…'사법체계재편시한폭탄'되나",
   "차가원,연예인지식재산권사업미이행…구속여부오늘결정",
   "보완수사권폐지가가져올부작용은...법조계우려속여야공방지속",
   "민주,'보완수사권폐지'대국민홍보총력...\"국민을위한형사사법체...",
@@ -6001,10 +5994,17 @@
   "'심판성접대논란'축협\"현재는부적절행위없어\"사과",
   "대한축구협회사과문공식발표…\"모든축구팬과전세계축구관계자여...",
   "‘심판성접대논란’축구협회“현재는부적절행위절대없어”",
-  "합수본,이틀째'통계조작의혹'중앙선관위압수수색"
+  "합수본,이틀째'통계조작의혹'중앙선관위압수수색",
+  "'성접대논란'에2억원대법인카드유용까지…대한축구협회\"참담한상...",
+  "'성접대논란'축구협회\"실망안겨드려매우죄송\"",
+  "[공식입장]\"매우죄송스럽게생각\"KFA,한달만에또대국민사과...\"...",
+  "축구협회'심판성접대파문'에사과…\"쇄신다짐\"",
+  "[속보]고개숙인축협\"현재는'성접대'없어…큰실망드려매우죄송...",
+  "'성접대논란'축구협회공식사과...과거조사'2억원대횡령'등비...",
+  "대한축구협회,청문회·압수수색·'심판성접대'논란에결국사과…\"참..."
  ],
  "recent_sigs": [],
- "last_run": "2026-08-08T11:31:00.064382+09:00",
+ "last_run": "2026-08-08T11:40:55.376918+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
