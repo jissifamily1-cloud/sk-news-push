@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608061126084333",
-  "http://www.epj.co.kr/news/articleView.html?idxno=39121",
-  "https://www.etnews.com/20260806000162",
   "https://www.munhwa.com/article/11607662",
   "https://www.catchnews.kr/news/articleView.html?idxno=127034",
   "https://www.news1.kr/realestate/general/6251040",
@@ -2999,12 +2996,12 @@
   "https://view.asiae.co.kr/article/2026080618260420007",
   "https://www.topstarnews.net/news/articleView.html?idxno=16158192",
   "http://www.newsbrite.net/news/articleView.html?idxno=199625",
-  "https://www.sedaily.com/article/20077194"
+  "https://www.sedaily.com/article/20077194",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544077",
+  "https://view.asiae.co.kr/article/2026080507425850309",
+  "https://sateconomy.co.kr/news/view/1065580193053947"
  ],
  "seen_titles": [
-  "DRAM품귀에GPU가격40%폭등…삼성·SK수혜확대",
-  "SeoulsharesextendlosseslateThurs.morningontechslump",
-  "[현장영상]구윤철,외신부정평가반박\"증시안정화흐름\"",
   "SK이노베이션,3년째'1%행복나눔기금'활용사회공헌지속",
   "국내최대400㎿해남태양광단지착공…RE100전력공급·지역상생'시동...",
   "투자멈추면다잃는다[뉴스와시각]",
@@ -6001,7 +5998,10 @@
   "'코인으로사고파는주식'열풍…진짜돈버는곳은[주末머니]",
   "8월1주차SK스퀘어주가주중상승세반납하락",
   "최태원·노소영1조재산분할과'0원'세금…조세정의는어디로갔나",
-  "베슬AI,GPU확보…클라우드사업강화"
+  "베슬AI,GPU확보…클라우드사업강화",
+  "SK하이닉스,배당금주당375원…“3분기중추가주주환원”",
+  "7월에망했던코스닥…8월반전기대감솔솔[주末머니]",
+  "건설업계,수주보다‘착공’…PF·공급대책에쏠린시선"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,17 @@
   [
    "2026-08-08T11:25:45.199252+09:00",
    "GPU 베슬AI 확보 사업 강화 클라우드"
+  ],
+  [
+   "2026-08-08T11:41:05.736691+09:00",
+   "코스닥 반전 솔솔 7월에 8월 기대감 망했던"
+  ],
+  [
+   "2026-08-08T11:41:05.736691+09:00",
+   "수주보다 착공 건설업계 시선 쏠린 PF 공급대책에"
   ]
  ],
- "last_run": "2026-08-08T11:31:12.741362+09:00",
+ "last_run": "2026-08-08T11:41:15.418665+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
