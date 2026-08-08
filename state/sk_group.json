@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/06/2026080690120.html",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000054946",
-  "https://www.imaeil.com/page/view/2026080611343369277",
-  "https://www.kukinews.com/article/view/kuk202608060052",
   "https://vn.asiatoday.co.kr/view.php?key=20260806000927277",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=274273",
   "https://www.mt.co.kr/stock/2026/08/06/2026080611214426640",
@@ -2999,13 +2995,13 @@
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=363522",
   "https://www.sidae.com/article/2026080812230882386",
   "https://www.goal.com/kr/뉴스/a/bltea4dd0412e1d2615",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/08/2026080800013.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/08/2026080800013.html",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=595980",
+  "https://www.newsway.co.kr/news/view?ud=2026080813465058742",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=90276",
+  "http://www.breaknews.com/1227619"
  ],
  "seen_titles": [
-  "SK하이닉스'11주'거래에하한가…시초가산정방식도마위",
-  "구윤철\"韓경제어느때보다견실\"…외신'투자부적격'주장반박",
-  "코스피5%대급락에삼전닉스도폭락…코스닥도하락",
-  "코스피,장중5%대폭락에사이드카발동…외인·기관1.8조릴레이매도",
   "닛케이\"한국도원화매수개입가능성…미무역적자의식\"",
   "엑스코프리‘깜짝실적’에도잇단목표가하향…“두번째제품이관...",
   "SamsungElectronicsvàSKhynixđánhgiáthiếtbịkhắccủaTrung...",
@@ -6001,7 +5997,11 @@
   "민주당당대표후보3인복수전과…최고위원1,2위도전과보유",
   "남동발전,국내최대400MW태양광발전사업착공",
   "'4경기3골'제주상승세이끄는김신진\"아직부족하다\"...코스타감독...",
-  "부동산·증시·반도체이어ISA까지줄줄이표류…대통령'과욕'이화..."
+  "부동산·증시·반도체이어ISA까지줄줄이표류…대통령'과욕'이화...",
+  "SK하이닉스,용인·청주신공장에54조투자…2031년완공목표",
+  "서학개미들,개별기술주로복귀…아마존·마이크론·샌디스크'주목'",
+  "김민재,홍콩에서선제헤더골",
+  "정치는규칙의설계자...“권력은팔을비틀지않는다?”"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,17 @@
   [
    "2026-08-08T13:32:27.599162+09:00",
    "과욕 줄줄이 증시 부동산 반도체 이어 표류 ISA까지 대통령"
+  ],
+  [
+   "2026-08-08T13:51:08.073448+09:00",
+   "헤더골 선제 김민재 홍콩에서"
+  ],
+  [
+   "2026-08-08T13:51:08.073448+09:00",
+   "권력은 설계자 정치는 비틀지 규칙의 않는다 팔을"
   ]
  ],
- "last_run": "2026-08-08T13:41:12.576666+09:00",
+ "last_run": "2026-08-08T13:51:17.242637+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
