@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102251",
-  "https://www.chosun.com/economy/stock-finance/2026/08/06/2GDLHSBM7BDEZCL7V5OHKP472Q/",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456673",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1393410",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142702",
-  "https://news.tf.co.kr/read/economy/2351187.htm",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05697366645544696",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546463",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87630",
-  "https://www.ziksir.com/news/articleView.html?idxno=142381",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102250",
   "https://view.asiae.co.kr/article/2026080614382385754",
   "https://www.koreaittimes.com/news/articleView.html?idxno=155858",
   "https://www.hankookilbo.com/news/article/A2026080610450002326?did=NA",
@@ -2999,20 +2988,20 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000055396",
   "https://www.sedaily.com/article/20077252",
   "https://news.ifm.kr/news/articleView.html?idxno=476744",
-  "https://news.ifm.kr/news/articleView.html?idxno=476746"
+  "https://news.ifm.kr/news/articleView.html?idxno=476746",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719669",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544132",
+  "https://biz.heraldcorp.com/article/10834973",
+  "https://www.mt.co.kr/tech/2026/08/09/2026080909145846393",
+  "https://www.newsis.com/view/NISX20260809_0003741592",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01226726645545680",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696554&plink=ORI&cooper=NAVER",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01236566645545680",
+  "https://www.dt.co.kr/article/12077181",
+  "https://www.news1.kr/politics/assembly/6253260",
+  "https://view.asiae.co.kr/article/2026080708464843791"
  ],
  "seen_titles": [
-  "[뉴스+]삼전·SK하닉,주주환원확대예고…\"구체적계획곧공개\"",
-  "'소버린AI'키운다더니…엔비디아의존92%",
-  "11주주문에SK하이닉스하한가…반복되는넥스트레이드가격왜곡",
-  "이래도투자부적격?···금융위\"한국경제펀더멘털견조\"",
-  "순천향대-SKT,'AI그림일기'로강원·충청학생4200명AI교육",
-  "SK하이닉스,美낸드자회사솔리다임'상장설'대두…기대와우려두가...",
-  "외신도주목한'널뛰기증시'…레버리지ETF'정책실패'책임론공방",
-  "DB하이텍,유휴반도체장비공공나노팹에넘긴다…“K-반도체생태계...",
-  "SKT·LG유플러스,2분기수익성개선⋯승부처는AI데이터센터",
-  "SK에코플랜트,AI인프라사업성과담은지속가능경영보고서발간",
-  "SK에코플랜트,지속가능경영보고서발간…AI인프라전환성과담았다",
   "반도체넘어내수로…한국경제올해3%대성장청신호",
   "日닛케이\"한국도환율에개입했나\"…원화가치도동시에치솟아",
   "SamsungElectronics,SKhynixConsiderExpandingShareholderReturn",
@@ -6001,7 +5990,18 @@
   "하이닉스영업비밀빼돌려중국에넘긴전직원…항소심서징역1년6개월",
   "“성과급은자사주,적자땐임금조정”SK하이닉스임단협‘난기류’",
   "\"입사동기는5천만원,나는왜4천만원?\"…방치하면벌어지는퇴직연금...",
-  "\"상선영업이익률22.7%\"…한화오션,실적다음은'수주경쟁'[머니카운..."
+  "\"상선영업이익률22.7%\"…한화오션,실적다음은'수주경쟁'[머니카운...",
+  "SK하이닉스,통합노조출범초읽기…성과급갈등에구성원결집",
+  "최태원·노소영'세기의이혼'대법원가나…재상고일주일앞",
+  "“중국회사로옮기려고SK하이닉스영업비밀촬영”...2심도징역1년6...",
+  "\"10년이상고객에감사\"…SKT,장기고객대상'미식행사'400명찾았다",
+  "SKT장기고객행사최고경쟁률…정재헌CEO,400명과미식자리",
+  "\"SK하이닉스,中충칭공장지분매각등검토\"",
+  "SK하이닉스영업비밀중국회사에유출…전직원2심도징역1년6개월",
+  "한달변동폭50원육박…환율변동성금융위기후최고",
+  "‘빚투의역습’…20·60대대출연체껑충,고령층반대매매‘비상’",
+  "조국\"김정관의996은반인권·시대착오적발상…민주당생각은뭐냐\"",
+  "\"물렸다고그냥버티면큰일난다\"…삼전닉스레버리지,원금회복빨라..."
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,25 @@
   [
    "2026-08-09T09:21:21.402425+09:00",
    "실적 다음은 영업이익률 상선 수주 한화오션 경쟁 머니카운"
+  ],
+  [
+   "2026-08-09T09:31:10.179205+09:00",
+   "변동폭 변동성 금융위기 50원 환율 최고 육박 한달"
+  ],
+  [
+   "2026-08-09T09:31:10.179205+09:00",
+   "비상 역습 껑충 고령층 반대매매 60대 빚투의 대출연체"
+  ],
+  [
+   "2026-08-09T09:31:10.179205+09:00",
+   "민주당 반인권 김정관의 뭐냐 발상 시대착오적 조국 996은 생각은"
+  ],
+  [
+   "2026-08-09T09:31:10.179205+09:00",
+   "회복 그냥 삼전닉스 레버리지 물렸다고 버티면 난다 큰일 빨라 원금"
   ]
  ],
- "last_run": "2026-08-09T09:21:32.691049+09:00",
+ "last_run": "2026-08-09T09:31:24.072069+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
