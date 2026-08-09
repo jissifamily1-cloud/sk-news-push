@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12120481",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070252&t=NN",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6843080_37012.html",
   "https://slownews.kr/164479",
   "https://www.ajunews.com/view/20260807073622268",
   "https://www.newsis.com/view/NISX20260806_0003739543",
@@ -2999,12 +2996,12 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=877410",
   "https://www.etnews.com/20260810000027",
   "https://byline.network/?p=9004111222614617",
-  "https://www.g-enews.com/view.php?ud=202608100732436783fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202608100732436783fbbec65dfb_1",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01951606645546008",
+  "https://slownews.kr/164590",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051339121520103471"
  ],
  "seen_titles": [
-  "[증시키워드]반도체충격뚫은개별호재...포스코퓨처엠·에코프로·한...",
-  "“왜비쌀때사라고했나”…홍진경,‘삼전닉스’급락에분통",
-  "이란,호르무즈연다는데…해운업계의냉소와뜨거워진원유시장[마켓...",
   "뉴욕증시,이란의호르무즈선별통항추진에하락",
   "비거주양도세강화나비효과,나가달라는전화가걸려오기시작했다:...",
   "[아주증시포커스]'단종레'규제에도여전히롤러코스터타는코스피外",
@@ -6001,7 +5998,10 @@
   "블룸버그\"레버리지청산에韓증시변동성일단락가능성\"",
   "SSG닷컴,'썸머피날레'진행…인기상품대거선봬",
   "리얼월드,국내로보틱스·시뮬레이션3사와업무협약",
-  "TSMC,룽탄1.4나노·CoWoS허브추진…2029년토지수용"
+  "TSMC,룽탄1.4나노·CoWoS허브추진…2029년토지수용",
+  "삼성Z8예약30%↑…한국은‘여권형’,인도는‘울트라’강세[모닝...",
+  "“버스에서살면안되나”논란에보유세강화까지전면재검토:슬로...",
+  "[더벨][thebellnote]운용사의소신이빛나려면"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,21 @@
   [
    "2026-08-10T07:48:02.595834+09:00",
    "수용 룽탄 4나노 토지 CoWoS 허브 TSMC 2029년"
+  ],
+  [
+   "2026-08-10T07:51:07.943114+09:00",
+   "삼성 한국은 강세 인도는 모닝 Z8 예약 울트라 여권형"
+  ],
+  [
+   "2026-08-10T07:51:07.943114+09:00",
+   "논란에 전면 되나 살면 강화까지 보유세 슬로 버스에서 재검토"
+  ],
+  [
+   "2026-08-10T07:51:07.943114+09:00",
+   "빛나려면 운용사의 소신이"
   ]
  ],
- "last_run": "2026-08-10T07:48:14.511397+09:00",
+ "last_run": "2026-08-10T07:51:19.398930+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
