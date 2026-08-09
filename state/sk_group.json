@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202608060049",
-  "https://sateconomy.co.kr/news/view/1065599305233955",
-  "https://www.greened.kr/news/articleView.html?idxno=347037",
-  "https://www.busan.com/view/busan/view.php?code=2026080616532004437",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51981",
   "https://www.peoplewatch.co.kr/article/view/ppw202608060007",
   "https://www.hani.co.kr/arti/economy/finance/1271731.html",
   "https://www.newswhoplus.com/news/articleView.html?idxno=66386",
@@ -2999,14 +2994,14 @@
   "https://www.insight.co.kr/news/567217",
   "http://www.samdailbo.com/news/articleView.html?idxno=268712",
   "https://www.m-i.kr/news/articleView.html?idxno=1400295",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475641"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475641",
+  "https://www.sportsseoul.com/news/read/1627428",
+  "https://www.tokenpost.kr/news/market/386244",
+  "https://www.dt.co.kr/article/12077220",
+  "https://www.newdaily.co.kr/site/data/html/2026/08/09/2026080900038.html",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444286"
  ],
  "seen_titles": [
-  "코스피4%대급락,반도체투심여전히'살얼음'",
-  "인천쿠팡물류센터인근도로일부,내일통행재개",
-  "우리금융硏\"8월금통위,매파적금리동결가능성\"",
-  "KB국민·신한카드,8월한달간경품·캐시백이벤트",
-  "NICE신평,SK이노베이션산하도시가스3사신용등급'AA-'신규평가",
   "삼전닉스폭락에코스피‘휘청’…골드만“코스피1만2000간다”",
   "반도체쇼크에코스피4.6%급락…외국인3.3조'팔자'",
   "꼬리는어떻게몸통을흔드나..SK하이닉스'11주하한가'파장",
@@ -6001,7 +5996,12 @@
   "대출잔액63%가'이연령대'에쏠렸다...10대증권사담보대출의민낯",
   "제주,전북잡고7경기연속무패질주",
   "삼성·SK,3분기합산영업익200조달성하나…CXMT등中추격은변수",
-  "\"우주만보는회사아니다\"…루미르,조선슈퍼사이클타고엔진부품..."
+  "\"우주만보는회사아니다\"…루미르,조선슈퍼사이클타고엔진부품...",
+  "SKT,10년이상장기고객400명초청…“통신넘어경험으로보답”",
+  "미반도체약세에휘청이는코스피,4%넘게하락",
+  "과열끝났나…블룸버그“국내증시변동성마무리단계”",
+  "조국\"산업부장관'996노동제'발언,반인권적발상…與입장밝혀야...",
+  "SK하이닉스통합노조설립움직임본격화,성과급체계불만에3500명결..."
  ],
  "recent_sigs": [
   [
@@ -6533,7 +6533,7 @@
    "타고 엔진 조선 우주만 루미르 보는 아니다 슈퍼사이클 회사 부품"
   ]
  ],
- "last_run": "2026-08-09T13:21:16.067915+09:00",
+ "last_run": "2026-08-09T13:31:12.167430+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
