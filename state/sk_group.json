@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/it-science/ict/2026/08/06/M2SGZYCIBBC73IV7IMGM574TK4/",
-  "http://www.newskr.kr/news/articleView.html?idxno=105420",
-  "https://magazine.hankyung.com/business/article/202608068931b",
-  "http://www.fnnews.com/news/202608061437178276",
-  "https://www.ajunews.com/view/20260806145648089",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661995",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/06/2026080600251.html",
-  "https://www.hani.co.kr/arti/economy/finance/1271444.html",
-  "http://www.kdfnews.com/news/articleView.html?idxno=186196",
-  "https://www.yna.co.kr/view/AKR20260806134900065?input=1195m",
   "https://economist.co.kr/article/view/ecn202608060049",
   "https://sateconomy.co.kr/news/view/1065599305233955",
   "https://www.greened.kr/news/articleView.html?idxno=347037",
@@ -2999,19 +2989,19 @@
   "https://www.newscj.com/news/articleView.html?idxno=3423585",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049454",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429286",
-  "https://www.segye.com/newsView/20260809507103?OutUrl=naver"
+  "https://www.segye.com/newsView/20260809507103?OutUrl=naver",
+  "http://www.cctimes.kr/news/articleView.html?idxno=920893",
+  "https://www.tokenpost.kr/news/market/387152",
+  "https://www.chosun.com/politics/assembly/2026/08/09/DEZGTHRRDFA5THSXTB7HFF7RSI/",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475642",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=877394",
+  "http://www.cctimes.kr/news/articleView.html?idxno=920885",
+  "https://www.insight.co.kr/news/567217",
+  "http://www.samdailbo.com/news/articleView.html?idxno=268712",
+  "https://www.m-i.kr/news/articleView.html?idxno=1400295",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475641"
  ],
  "seen_titles": [
-  "미반도체약세에휘청이는코스피,4%넘게하락",
-  "[증시인사이트]코스피급락에매도사이드카…약세장시작됐나",
-  "SK하이닉스,솔리다임키우기나선이유는…“이번사이클이최적의기...",
-  "빚투다시꿈틀…신용융자잔고7거래일만에증가전환",
-  "日증권가,“한국때문에억울해”...코스피흔들리면닛케이도‘쿵’",
-  "'삼성·SK'추격中이어대만도증설속도…메모리고점론무색해진다",
-  "'+17.91→-5.12→+3.76→-4.8%'…'단종레'규제에도여전히롤러코스터타...",
-  "[기획]베선트,'97년외환위기'소환…원화도약해진다?",
-  "정청래-조국,레버리지ETF로친명겨냥…명청대전,李정부책임론으...",
-  "코스피4%급등출발…올해45번째사이드카발동",
   "코스피4%대급락,반도체투심여전히'살얼음'",
   "인천쿠팡물류센터인근도로일부,내일통행재개",
   "우리금융硏\"8월금통위,매파적금리동결가능성\"",
@@ -6001,7 +5991,17 @@
   "[축구]울산,'동해안더비'포항에2-0완승…3연승·선두와승점7차...",
   "남동발전,해남400MW태양광착공…2028년상업운전목표",
   "[외환-주간]연저점낮춘달러-원…美CPI·달러공급에1,400원대시험",
-  "김정관도“소름끼친다”는中반도체굴기…반격키워드는호남과용..."
+  "김정관도“소름끼친다”는中반도체굴기…반격키워드는호남과용...",
+  "SK하이닉스통합노조추진…생산·기술·사무직참여",
+  "한국증시,변동성완화되나...레버리지규제와차입투자축소영향",
+  "국힘“韓증시,외국인ATM으로전락…단일종목ETF국정조사해야”",
+  "로봇이움직일수록커지는시장…삼익THK,LM가이드·볼나사앞세워질...",
+  "SK하이닉스통합노조신설추진...구성원간성과급불만확산",
+  "SK하이닉스청주캠퍼스,지역고교과학기술인재에반도체현장개방",
+  "대출잔액63%가'이연령대'에쏠렸다...10대증권사담보대출의민낯",
+  "제주,전북잡고7경기연속무패질주",
+  "삼성·SK,3분기합산영업익200조달성하나…CXMT등中추격은변수",
+  "\"우주만보는회사아니다\"…루미르,조선슈퍼사이클타고엔진부품..."
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,29 @@
   [
    "2026-08-09T13:11:08.370287+09:00",
    "소름 김정관도 굴기 반도체 키워드는 호남과 끼친다 반격"
+  ],
+  [
+   "2026-08-09T13:20:59.738465+09:00",
+   "SK하이닉스 청주캠퍼스 지역고교 현장 과학기술인재에 반도체 개방"
+  ],
+  [
+   "2026-08-09T13:20:59.738465+09:00",
+   "증권사 담보대출의 10대 대출 연령대 민낯 잔액 쏠렸다"
+  ],
+  [
+   "2026-08-09T13:20:59.738465+09:00",
+   "7경기 전북 질주 연속 무패 잡고 제주"
+  ],
+  [
+   "2026-08-09T13:20:59.738465+09:00",
+   "삼성 영업익 변수 합산 CXMT 추격은 3분기 200조 달성하나"
+  ],
+  [
+   "2026-08-09T13:20:59.738465+09:00",
+   "타고 엔진 조선 우주만 루미르 보는 아니다 슈퍼사이클 회사 부품"
   ]
  ],
- "last_run": "2026-08-09T13:11:22.957929+09:00",
+ "last_run": "2026-08-09T13:21:16.067915+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
