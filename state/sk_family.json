@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmaeil.com/news/articleView.html?idxno=646002",
-  "https://www.viva100.com/article/20260721500680",
   "https://www.mk.co.kr/article/12095551",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5004",
   "http://www.breaknews.com/1220991",
@@ -2999,11 +2997,11 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=280822",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521008",
   "http://www.fnnews.com/news/202608100820399659",
-  "https://www.cstimes.com/news/articleView.html?idxno=716191"
+  "https://www.cstimes.com/news/articleView.html?idxno=716191",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521013",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317783"
  ],
  "seen_titles": [
-  "[인터뷰]앤씨앤최종현대표\"북미·유럽등'뷰로이드'수출호조\"",
-  "[최태원·노소영재판장면들③]최태원회장과임직원이함께키운SK...",
   "경기도의회찾은광역의회민주당대표의원들,'지방의회법'제정한목...",
   "전국광역의회민주당연석회의개최…지방의회법제정추진뜻모아",
   "임기만료앞둔경제단체수장들…최태원‘용퇴’·류진‘고심’",
@@ -6001,7 +5999,9 @@
   "재산분할9440억원최태원-노소영,다음주초재상고안하면확정",
   "『한국의핵안보프로젝트5』출간…\"핵잠수함,한척의함정아닌수...",
   "리서치알음\"韓증시,2015년中폭락과다르다…실적주주목\"",
-  "최태원,노소영에약1조원지급하나…내주재상고안하면확정"
+  "최태원,노소영에약1조원지급하나…내주재상고안하면확정",
+  "정성장\"핵잠재력·핵잠수함조기확보해야\"…책·특강넘어'노래'로핵...",
+  "SKE&S해킹·산재은폐의혹취재후기\"가족같다던회사가...\""
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-08-10T08:00:27.047062+09:00",
    "재산분할 안하면 다음주 재상고 확정 9440억원"
+  ],
+  [
+   "2026-08-10T08:40:14.231893+09:00",
+   "해킹 은폐 취재 가족 같다던 회사가 의혹 후기 산재"
   ]
  ],
- "last_run": "2026-08-10T08:30:32.798294+09:00",
+ "last_run": "2026-08-10T08:40:30.061746+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6347,6 +6351,7 @@
   "tjmbc.co.kr": "대전MBC",
   "aitimes.com": "AI타임스",
   "knpnews.com": "한국원자력신문",
-  "mediafine.co.kr": "미디어파인"
+  "mediafine.co.kr": "미디어파인",
+  "mediaus.co.kr": "미디어스"
  }
 }
