@@ -1,18 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1480500",
-  "https://mhnse.com/news/articleView.html?idxno=1480473",
-  "https://mhnse.com/news/articleView.html?idxno=1480477",
-  "https://mhnse.com/news/articleView.html?idxno=1480487",
-  "https://mhnse.com/news/articleView.html?idxno=1480476",
-  "https://mhnse.com/news/articleView.html?idxno=1480494",
-  "https://mhnse.com/news/articleView.html?idxno=1480467",
-  "https://mhnse.com/news/articleView.html?idxno=1480466",
-  "https://mhnse.com/news/articleView.html?idxno=1480457",
-  "https://mhnse.com/news/articleView.html?idxno=1480455",
-  "https://mhnse.com/news/articleView.html?idxno=1480497",
-  "https://mhnse.com/news/articleView.html?idxno=1480485",
-  "https://mhnse.com/news/articleView.html?idxno=1480496",
   "https://mhnse.com/news/articleView.html?idxno=1480486",
   "https://www.viewsnnews.com/article?q=237726",
   "https://www.newspim.com/news/view/20260806001205",
@@ -2999,22 +2986,22 @@
   "https://www.sedaily.com/article/20077337",
   "http://www.jndn.com/article.php?aid=1786264193437516105",
   "http://www.jndn.com/article.php?aid=1786264141437502050",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=450337"
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=450337",
+  "https://www.mk.co.kr/article/12122248",
+  "https://www.hankyung.com/article/2026080928621",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719693",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02666646645545680",
+  "https://www.sedaily.com/article/20077344",
+  "http://www.gndomin.com/news/articleView.html?idxno=484821",
+  "https://www.hankookilbo.com/news/article/A2026080914300001596?did=NA",
+  "https://www.mk.co.kr/article/12122252",
+  "https://www.mk.co.kr/article/12122253",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260809174758xVs",
+  "https://www.sedaily.com/article/20077356",
+  "https://biz.heraldcorp.com/article/10834388",
+  "https://www.sedaily.com/article/20077345"
  ],
  "seen_titles": [
-  "[mhn포토]김재희,허투루볼수없다",
-  "[mhn포토]김재희,괜찮아요",
-  "[mhn포토]김재희,드롭해야한다",
-  "[mhn포토]김재희,핀정조준",
-  "[mhn포토]김재희,나무를넘겨야하나",
-  "[mhn포토]김재희,한클럽이내드롭",
-  "[mhn포토]김재희,어떻게공략해볼까",
-  "[mhn포토]김재희,페이스는깨끗하게",
-  "[mhn포토]김재희,경기위원의도움을받는다",
-  "[mhn포토]김재희,클럽선택완료",
-  "[mhn포토]김재희,경기위원님기다렸어요",
-  "[mhn포토]김재희,핀을직접공략한다",
-  "[mhn포토]김재희,스탠스를잡아본다",
   "[mhn포토]김재희,무벌타드롭시도",
   "[mhn포토]김재희,낮게깔아보낸다",
   "외국인'반도체투매'로코스피6,200대로폭삭",
@@ -6001,7 +5988,20 @@
   "[여명]‘투자부적격국가’라는오명",
   "12위광주,11위부천과골없이무승부",
   "전남광주문명의대전환'우리도잘살아보자'는것",
-  "\"김용범이숫자요구?\"…조선일보,청와대발언왜곡했다덜미"
+  "\"김용범이숫자요구?\"…조선일보,청와대발언왜곡했다덜미",
+  "성과급발노조이합집산…삼전쪼개고하닉뭉치고",
+  "V자반등열쇠는'삼전닉스주주환원'…시장선\"최소150조예상\"",
+  "레버리지과열식은코스피…블룸버그\"극심한변동성마무리\"",
+  "조국,김정관장관겨냥“‘996노동제’반인권적·시대착오적”",
+  "오이가격도55%급등…8월물가3%대로반등우려",
+  "한국남동발전,국내최대400MW해남태양광착공",
+  "'신입뽑아키운다'...반도체경력인재부족에공대생선점경쟁",
+  "\"중국발반도체공습점점거세져…지금이소부장자립마지막기회\"",
+  "SK하닉공장서소부장기술상시검증…'트리니티팹'내년완공",
+  "'분기이익200조'노리는삼전닉스…중국추격주시",
+  "“글로벌M&A·마진콜대응에강점...美독립기념일에도송금”",
+  "‘보고도못믿겠다’시총이무려‘375조원’증발…삼성·SK그룹주급...",
+  "규제첫관문넘은SK…‘재생에너지합작사’속도전"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,33 @@
   [
    "2026-08-09T17:41:08.872258+09:00",
    "김용범이 발언 조선일보 청와대 요구 숫자 덜미 왜곡했다"
+  ],
+  [
+   "2026-08-09T17:51:00.733697+09:00",
+   "자립 반도체 공습 마지막 거세져 중국발 점점 기회 소부장 지금이"
+  ],
+  [
+   "2026-08-09T17:51:00.733697+09:00",
+   "공장서 완공 상시검증 기술 트리니티팹 내년 SK하닉 소부장"
+  ],
+  [
+   "2026-08-09T17:51:00.733697+09:00",
+   "분기이익 주시 노리는 200조 중국 추격 삼전닉스"
+  ],
+  [
+   "2026-08-09T17:51:00.733697+09:00",
+   "대응에 마진콜 글로벌 독립기념일에도 송금 강점"
+  ],
+  [
+   "2026-08-09T17:51:00.733697+09:00",
+   "증발 375조원 삼성 SK그룹주 믿겠다 무려 보고도 시총이"
+  ],
+  [
+   "2026-08-09T17:51:00.733697+09:00",
+   "규제 합작사 재생에너지 관문 속도전 넘은"
   ]
  ],
- "last_run": "2026-08-09T17:41:35.847361+09:00",
+ "last_run": "2026-08-09T17:51:20.238248+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
