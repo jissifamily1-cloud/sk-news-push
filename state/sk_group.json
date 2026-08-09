@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.betanews.net/article/view/beta202608060068",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3657999",
-  "https://www.hankyung.com/article/2026080693861",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739420",
-  "https://www.asiatime.co.kr/article/20260805500042",
   "https://zdnet.co.kr/view/?no=20260806190638",
   "http://www.econotelling.com/news/articleView.html?idxno=21064",
   "https://www.sentv.co.kr/article/view/sentv202608060115",
@@ -2999,14 +2994,14 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=444294",
   "https://www.news1.kr/world/usa-canada/6253428",
   "https://news.tf.co.kr/read/life/2352068.htm",
-  "https://www.etnews.com/20260807000220"
+  "https://www.etnews.com/20260807000220",
+  "https://www.tvreport.co.kr/star/article/1067444/",
+  "https://www.hani.co.kr/arti/area/capital/1271778.html",
+  "https://www.kyeonggi.com/article/20260809580250",
+  "https://view.asiae.co.kr/article/2026080917055514798",
+  "https://www.newspim.com/news/view/20260809000109"
  ],
  "seen_titles": [
-  "'삼전닉스'동반급락...SK하이닉스10%·삼성전자6%하락한이유",
-  "코스피,반도체투자심리위축에4%대하락마감",
-  "서해구,쿠팡물류창고화재인근도로7일오후4시통행재개",
-  "포스코퓨처엠,LFP양극재첫공급",
-  "[이슈]李,'호남반도체'직접챙긴다…반도체특별법의결,800조프로젝...",
   "[프롭테크뉴스브리핑]빅밸류,515만데이터AI에개방…GEO전략본격화",
   "SKT,에이닷서비스점검완료",
   "수상한외국인매매성향",
@@ -6001,7 +5996,12 @@
   "[8월10일자]비즈니스포스트아침의주요기사",
   "\"한국증시변동성,2개월래최저…레버리지청산으로진정\"",
   "SK하이닉스영업비밀중국기업에유출…2심도실형",
-  "[반도체라이징스타]<2>퓨리언스,HBM공정수율높이는포스트CMP세정..."
+  "[반도체라이징스타]<2>퓨리언스,HBM공정수율높이는포스트CMP세정...",
+  "배우지안,야구선수출신엄정욱과결혼발표\"평생함께하고싶은사...",
+  "용인반도체산단에지역반발...용수시설떠안은여주시,36억손실",
+  "블룸버그“코스피변동성완화조짐…레버리지청산·규제강화효과”",
+  "경기도,26~28일반도체패키징산업전…참관객25일까지모집",
+  "최태원,노소영에9440억지급확정되나…재상고앞두고막판셈법"
  ],
  "recent_sigs": [
   [
@@ -6613,7 +6613,7 @@
    "높이는 포스트 CMP HBM 공정 세정 퓨리언스 수율"
   ]
  ],
- "last_run": "2026-08-09T17:05:38.762428+09:00",
+ "last_run": "2026-08-09T17:11:08.662521+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
