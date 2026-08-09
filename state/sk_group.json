@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719496",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719494",
-  "https://www.yna.co.kr/view/AKR20260806147100017?input=1195m",
-  "http://www.inews24.com/view/1992753",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93367",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475112",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725581",
   "http://www.fnnews.com/news/202608070618349331",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46847",
   "https://biz.sbs.co.kr/article_hub/20000327217?division=NAVER",
@@ -2999,16 +2992,16 @@
   "https://biz.chosun.com/it-science/ict/2026/08/10/QHNNV6OHJVAT7JVY4QWZLBFUXA/",
   "https://www.sedaily.com/article/20077438",
   "https://biz.chosun.com/industry/business-venture/2026/08/10/FV3O76BIVRGXVOSCEUENNERQFM/",
-  "https://www.news1.kr/finance/general-stock/6252718"
+  "https://www.news1.kr/finance/general-stock/6252718",
+  "https://www.starnewskorea.com/star/2026/08/10/2026081001080712079",
+  "https://www.yna.co.kr/view/AKR20260808047500089?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260807114200083?input=1195m",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023700",
+  "http://www.beyondpost.co.kr/view.php?ud=2026081005553991692aaae0046f_30",
+  "https://www.news1.kr/industry/sb-founded/6253378",
+  "https://www.sedaily.com/article/20077419"
  ],
  "seen_titles": [
-  "[주식시황]코스피바닥찍었나…국내외증권가전망'온도차'",
-  "﻿'375조현금곳간'쌓은삼전·하닉…주주들\"50%환원으론부족\"",
-  "단일종목레버리지막자지수로몰렸다…규제가만든'풍선효과'",
-  "[AI프리즘]AI벤치마크전문업체한국공략…독파모평가관심",
-  "이란'호르무즈선별통항'추진…'뉴욕증시'일제히약세마감",
-  "[40도대한민국②]삼성·SK·현대차,'40도시대'생존기술경쟁...AI가...",
-  "3000%폭등뒤차익실현폭탄…샌디스크·웨스턴디지털'와르르'",
   "[THECEO]권혁빈스마일게이트창업자",
   "\"코스피역사적저평가,레버리지충격마무리\"…반도체투매끝났나",
   "[SK하닉,순현금100조]예고된주주환원,규모에쏠린눈",
@@ -6001,7 +5994,14 @@
   "‘본격출하’엔비디아베라루빈,원가의62%는메모리…“HBM4보다비...",
   "딜리셔스·케이앤에스아이앤씨상장…기도산업등3곳공모청약[이번...",
   "[인터뷰]‘K배터리해외공장숨은조력자’...오중엽플랜텍대표“초...",
-  "\"'사팔'로5년허비하면2000배수익놓친다\"…'ETF의아버지'배재규의..."
+  "\"'사팔'로5년허비하면2000배수익놓친다\"…'ETF의아버지'배재규의...",
+  "'깜짝결혼'엄정욱,입열었다\"♥지안,날까불게만드는사람\"[스타이...",
+  "[中반도체굴기]②14조원'실탄'쥔CXMT,심야에도공장건설속도",
+  "[中반도체굴기]①강력한美제재뚫고…'추격자'에서'경쟁자'로",
+  "[데스크칼럼]뜯겨나간신축테라스…SK에코플랜트'감리시스템무...",
+  "\"반도체주,가파른조정끝났다\"...모건스탠리,삼전닉스주가매력적인...",
+  "평택·청주發메모리증설…'K-반도체'부품·장비수주확대기대",
+  "은행문닫아도즉시대금결제...하루10억弗거래되는‘씨티예금토..."
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,33 @@
   [
    "2026-08-10T06:11:11.594733+09:00",
    "허비하면 2000배 수익 놓친다 배재규의 아버지 5년 사팔 ETF의"
+  ],
+  [
+   "2026-08-10T06:21:03.951925+09:00",
+   "속도 실탄 14조원 CXMT 건설 심야에도 공장"
+  ],
+  [
+   "2026-08-10T06:21:03.951925+09:00",
+   "제재 뚫고 강력한 추격자 에서 경쟁자"
+  ],
+  [
+   "2026-08-10T06:21:03.951925+09:00",
+   "감리 신축 시스템 SK에코플랜트 뜯겨 나간 테라스"
+  ],
+  [
+   "2026-08-10T06:21:03.951925+09:00",
+   "삼전닉스 반도체주 가파른 모건스탠리 주가 조정 매력적인 끝났다"
+  ],
+  [
+   "2026-08-10T06:21:03.951925+09:00",
+   "증설 장비 기대 메모리 청주 부품 반도체 수주 평택 확대"
+  ],
+  [
+   "2026-08-10T06:21:03.951925+09:00",
+   "즉시 10억 예금토 씨티 닫아도 결제 거래되는 대금 은행 하루"
   ]
  ],
- "last_run": "2026-08-10T06:12:07.738481+09:00",
+ "last_run": "2026-08-10T06:21:23.427061+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
