@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2180899",
-  "https://www.seoulfn.com/news/articleView.html?idxno=633769",
-  "https://www.sedaily.com/article/20070840",
-  "https://www.namdonews.com/news/articleView.html?idxno=919356",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719502",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070156&t=NN",
   "https://www.chosun.com/economy/economy_general/2026/08/07/CTYH3AOAKBCZDPU5AVTAKDZAF4/",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1675878/?sc=Naver",
   "https://dealsite.co.kr/articles/166752",
   "https://dealsite.co.kr/articles/166756",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100045&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100045&t=NN",
+  "https://biz.sbs.co.kr/article_hub/20000327544?division=NAVER",
+  "https://view.asiae.co.kr/article/2026080715424983007",
+  "https://www.sedaily.com/article/20077440",
+  "https://view.asiae.co.kr/article/2026080714394697880"
  ],
  "seen_titles": [
-  "매경이전하는세상의지식(매-세-지,8월7일)",
-  "홍진경,'삼전닉스'하락에하소연…\"사라해서샀는데계속빠져\"(찐천...",
-  "[세기의이혼①]'혼외자공개'부터'조단위재산분할'까지···11년이...",
-  "지식재산처,SK그룹과기술·특허경쟁력강화",
   "[미국증시]이란發악재에美증시하락…반도체주'빨간불'",
   "애플도못깎았다…CXMT'노디스카운트'에삼전·하닉웃는다",
   "美증시'숨고르기'다우0.85%↓…호르무즈협상·고용지표대기-[글로...",
@@ -6001,7 +5997,11 @@
   "ETF위축에도‘RISE’는달랐다…존재감키운KB자산운용",
   "풀스택AI추진하는SK,최태원사위윤도현역할론↑",
   "[백신개발3대장]SK바사,2천억이상투입한폐렴구균백신개발…임...",
-  "美증시,'고용쇼크'에금리인상전망제동...S&P500사상최고치-[글로..."
+  "美증시,'고용쇼크'에금리인상전망제동...S&P500사상최고치-[글로...",
+  "[증시전략]'고용쇼크'에도금리인상론여전…물가지표에달렸다?",
+  "10대그룹시총,한달새1700조원날아갔다",
+  "삼성HBM4‘황금수율’달성…HBM4E양산도앞당긴다[biz-플러스]",
+  "두산,계약서가격보다SK에더낼수도…'언아웃'조항이뭐길래[M&A알..."
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,21 @@
   [
    "2026-08-10T07:11:07.304337+09:00",
    "금리인상 전망 제동 P500 고용쇼크 사상 글로 증시 최고치"
+  ],
+  [
+   "2026-08-10T07:21:05.347139+09:00",
+   "시총 10대그룹 날아갔다 1700조원 한달새"
+  ],
+  [
+   "2026-08-10T07:21:05.347139+09:00",
+   "HBM4E 달성 양산도 수율 삼성 HBM4 황금 앞당긴다"
+  ],
+  [
+   "2026-08-10T07:21:05.347139+09:00",
+   "수도 계약서 A알 뭐길래 두산 조항이 언아웃 가격보다 SK에"
   ]
  ],
- "last_run": "2026-08-10T07:11:31.694646+09:00",
+ "last_run": "2026-08-10T07:21:16.729234+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
