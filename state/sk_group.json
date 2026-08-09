@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260806161859",
-  "https://www.etoday.co.kr/news/view/2611864",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048880",
-  "https://www.mt.co.kr/industry/2026/08/06/2026080614030820066",
-  "https://news.bizwatch.co.kr/article/market/2026/08/06/0026",
   "https://www.ziksir.com/news/articleView.html?idxno=142408",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048885",
   "https://www.kukinews.com/article/view/kuk202608060150",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1676226/?sc=Naver",
   "https://www.hani.co.kr/arti/economy/finance/1272023.html",
   "https://www.news2day.co.kr/article/20260809500013",
-  "https://www.etoday.co.kr/news/view/2612235"
+  "https://www.etoday.co.kr/news/view/2612235",
+  "https://news.tf.co.kr/read/life/2352024.htm",
+  "https://www.insight.co.kr/news/567209",
+  "https://www.ziksir.com/news/articleView.html?idxno=142568",
+  "https://www.kado.net/news/articleView.html?idxno=2065537",
+  "https://www.g-enews.com/view.php?ud=202608091113176527fbbec65dfb_1"
  ],
  "seen_titles": [
-  "수협은행\"상상인증권인수협의중\"…금융지주체제빨라지나",
-  "DB하이텍,MEMS공정장비3대모아팹지원…반도체연구강화",
-  "ADT캡스,‘캡스매장솔루션’으로매장통합관리지원",
-  "통신사매출효자된AIDC…LG유플,2분기역대최대실적",
-  "[마감시황]코스피,美기술주약세에6300선붕괴…매도사이드카발동",
   "엔비디아도HBM원가부담↑..삼성전자·SK하이닉스는'탄탄대로'",
   "코스피흔들려도코스닥800선회복…저가매수세유입",
   "코스피,반도체주급락에4.58%하락…6200선후퇴",
@@ -6001,7 +5996,12 @@
   "환율변동성금융위기이후최대…월평균변동폭47원",
   "주식담보대출잔액63%가‘고령층’집중…증시조정발손실도집중",
   "[재계인사이드]이재용회장이사진기자들에게어필하는이유는?",
-  "‘한국판IRA’베일벗었지만…반도체·배터리업계“시행령이관건”"
+  "‘한국판IRA’베일벗었지만…반도체·배터리업계“시행령이관건”",
+  "최태원·노소영재산분할17일재상고기한…향방주목",
+  "中이직하려SK하이닉스영업비밀빼낸前직원,2심판결나왔다",
+  "블룸버그\"레버리지청산에한국증시변동성완화조짐\"",
+  "블룸버그\"한국증시극심한변동성마무리단계…레버리지청산·규제...",
+  "대만,中반도체인재불법영입수사"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,13 @@
   [
    "2026-08-09T11:26:41.951787+09:00",
    "반도체 시행령이 IRA 배터리 베일 업계 벗었지만 관건 한국판"
+  ],
+  [
+   "2026-08-09T11:31:13.546460+09:00",
+   "수사 영입 인재 불법 대만 반도체"
   ]
  ],
- "last_run": "2026-08-09T11:26:53.850491+09:00",
+ "last_run": "2026-08-09T11:31:19.340361+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
