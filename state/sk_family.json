@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1096613",
-  "https://www.kwnews.co.kr/article/20260726500122",
   "https://www.veritas-a.com/news/articleView.html?idxno=620214",
   "https://www.newsgn.com/news/articleView.html?idxno=563577",
   "https://news.tf.co.kr/read/economy/2345799.htm",
@@ -2999,11 +2997,11 @@
   "http://www.fnnews.com/news/202608091358339233",
   "https://www.mt.co.kr/society/2026/08/09/2026080913460314750",
   "https://www.m-i.kr/news/articleView.html?idxno=1400306",
-  "https://www.ytn.co.kr/_ln/0103_202608091412179811"
+  "https://www.ytn.co.kr/_ln/0103_202608091412179811",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=877395",
+  "https://www.ajunews.com/view/20260809133154615"
  ],
  "seen_titles": [
-  "충남도의회교육위,직속기관업무점검...안전·포용교육주문",
-  "충남도의회교육위,직속기관업무보고서'행정태만·안전불감증'매...",
   "용인특례시의회윤리특위출범…위원장김희영의원",
   "용인시의회윤리특위출범…위원장김희영·간사심정은선출",
   "[포토뉴스]강원동부보훈지청‘유엔군참전의날’홍보활동",
@@ -6001,7 +5999,9 @@
   "최태원·노소영,9440억원재산분할갈림길…내주대법원행여부결정",
   "최태원-노소영'1조'세기의재산분할…확정여부5일남았다",
   "최태원·노소영재산분할소송17일까지재상고여부결정",
-  "최태원,노소영에약1조원지급하나...재상고기한곧종료"
+  "최태원,노소영에약1조원지급하나...재상고기한곧종료",
+  "최태원,노소영에약1조원지급하나...다음주재상고안하면확정",
+  "李,다음주800조반도체·부동산대책잇달아점검…어떤얘기오갈까"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-08-09T13:10:15.440991+09:00",
    "가닥 1조 다음 지급하나 노소영에 주쯤"
+  ],
+  [
+   "2026-08-09T14:40:15.510332+09:00",
+   "대책 800조 반도체 부동산 점검 오갈까 얘기 어떤 다음 잇달아"
   ]
  ],
- "last_run": "2026-08-09T14:30:34.664297+09:00",
+ "last_run": "2026-08-09T14:40:26.951066+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
