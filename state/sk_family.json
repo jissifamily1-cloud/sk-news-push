@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2345799.htm",
   "http://enews.imbc.com/News/RetrieveNewsInfo/512308",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451111",
   "https://edu.donga.com/news/articleView.html?idxno=110178",
@@ -2999,10 +2998,10 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=877395",
   "https://www.ajunews.com/view/20260809133154615",
   "https://www.ytn.co.kr/_ln/0103_202608091439359244",
-  "https://www.kyeonggi.com/article/20260809580126"
+  "https://www.kyeonggi.com/article/20260809580126",
+  "https://www.newsis.com/view/NISX20260809_0003741800"
  ],
  "seen_titles": [
-  "[포토뉴스]강원동부보훈지청‘유엔군참전의날’홍보활동",
   "이화여대웃어밥(해피벤처)장학금/학생창업기금총1억원기부받아..'...",
   "박완수경남지사\"여성기업성장단계별맞춤지원강화\"",
   "100대기업임원평균54.2세…젊은임원대부분오너일가",
@@ -6001,13 +6000,10 @@
   "최태원,노소영에약1조원지급하나...다음주재상고안하면확정",
   "李,다음주800조반도체·부동산대책잇달아점검…어떤얘기오갈까",
   "최태원,노소영에약1조원지급하나...다음주확정",
-  "\"재상고안하면확정\"...최태원·노소영,9년이혼소송마침표찍을까"
+  "\"재상고안하면확정\"...최태원·노소영,9년이혼소송마침표찍을까",
+  "\"9440억역대최대재산분할\"…최태원SK회장,차주재상고여부'주목..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-09T09:10:13.621175+09:00",
-   "재산분할 확정되나 소송 17일 9년 종착점 9440억"
-  ],
   [
    "2026-08-09T09:20:14.698049+09:00",
    "SK하이닉스 적자 자사주 난기류 임단협 임금조정 성과급은"
@@ -6061,7 +6057,7 @@
    "대책 800조 반도체 부동산 점검 오갈까 얘기 어떤 다음 잇달아"
   ]
  ],
- "last_run": "2026-08-09T15:10:26.884088+09:00",
+ "last_run": "2026-08-09T15:20:25.819182+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
