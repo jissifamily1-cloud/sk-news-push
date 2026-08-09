@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000327199?division=NAVER",
-  "https://www.mediapen.com/news/view/1114831",
-  "https://www.donga.com/news/Economy/article/all/20260806/134434452/2",
-  "https://www.donga.com/news/Economy/article/all/20260806/134434748/2",
   "https://www.hankookilbo.com/news/article/A2026080415460000495?did=NA",
   "https://www.donga.com/news/Economy/article/all/20260807/134434897/2",
   "https://biz.sbs.co.kr/article_hub/20000327195?division=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.etnews.com/20260809000128",
   "https://www.m-economynews.com/news/article.html?no=69568",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090205&t=NN",
-  "https://www.busan.com/view/busan/view.php?code=2026080921264130437"
+  "https://www.busan.com/view/busan/view.php?code=2026080921264130437",
+  "https://www.mk.co.kr/article/12122366",
+  "https://www.ekn.kr/web/view.php?key=20260809021570942",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000001568&cp=nv",
+  "http://www.kwangju.co.kr/article.php?aid=1786279200802105277"
  ],
  "seen_titles": [
-  "'한국왔는데그냥보낼순없지!'김민재,뮌헨동료들에한턱냈다\"투...",
-  "[글로벌비즈브리핑]\"칩싸게안팔아\"…中창신메모리,애플납품거절...",
-  "[美증시]AI·파운드리반도체주올랐는데SK하이닉스·샌디스크만'왕따...",
-  "개인주식거래급증에국내증권사상반기역대급실적",
   "김정관“가장큰경쟁상대는中…첨단산업주52시간제손질해야”",
   "1등아닌중국반도체,왜경계?…\"전영역'최소2등',동력은넘치는...",
   "메모리품귀틈파고든中CXMT,글로벌PC3사에공급",
@@ -6001,13 +5997,13 @@
   "이상일용인시장,다낭서'팹10기·AI행정'정책소개",
   "SK하이닉스,생산·사무직아우르는통합노조설립본격화",
   "\"무서운경고그애널리스트아냐?\"…삼전닉스놀라운'뷰'보니",
-  "모건스탠리“메모리주가파른조정마무리”…낙관론제시"
+  "모건스탠리“메모리주가파른조정마무리”…낙관론제시",
+  "모건스탠리“메모리주급락끝났다”…“지금이재진입기회”",
+  "1600원넘보던환율,한달새1400원대초반으로↓…1~7월월평균변동...",
+  "[포토]환율10개월만에최저",
+  "광주반도체클러스터본궤도…군공항부지국가산단‘속도’"
  ],
  "recent_sigs": [
-  [
-   "2026-08-09T15:41:12.974160+09:00",
-   "없는 성장 LG헬로비전 빨간불 IPTV 독자"
-  ],
   [
    "2026-08-09T15:51:13.497795+09:00",
    "차세대 28일 반도체 패키징 개최 산업전 경기도"
@@ -6439,9 +6435,21 @@
   [
    "2026-08-09T21:31:11.006804+09:00",
    "애널리스트 삼전닉스 보니 아냐 경고 무서운 놀라운"
+  ],
+  [
+   "2026-08-09T21:51:06.734643+09:00",
+   "초반으로 평균 환율 넘보던 변동 1600원 1400원대 7월"
+  ],
+  [
+   "2026-08-09T21:51:06.734643+09:00",
+   "만에 최저 10개월 환율"
+  ],
+  [
+   "2026-08-09T21:51:06.734643+09:00",
+   "본궤도 부지 반도체 국가산단 군공항 광주 속도 클러스터"
   ]
  ],
- "last_run": "2026-08-09T21:41:11.367787+09:00",
+ "last_run": "2026-08-09T21:51:20.007067+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
