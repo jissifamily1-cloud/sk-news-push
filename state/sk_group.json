@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=382667",
-  "https://www.incheontoday.com/news/articleView.html?idxno=322052",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/06/2026080690220.html",
-  "http://www.metroseoul.co.kr/article/20260806500434",
-  "https://www.busan.com/view/busan/view.php?code=2026080616265070494",
-  "http://www.dtnews24.com/news/articleView.html?idxno=814047",
   "http://www.inews24.com/view/1992661",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=357072",
   "http://www.beyondpost.co.kr/view.php?ud=202608061621502871be44c0aacd_30",
@@ -2999,15 +2993,15 @@
   "https://www.g-enews.com/view.php?ud=202608091125186987fbbec65dfb_1",
   "http://www.econonews.co.kr/news/articleView.html?idxno=442560",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282144",
-  "https://www.sedaily.com/article/20077272"
+  "https://www.sedaily.com/article/20077272",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=860824",
+  "http://www.segyebiz.com/newsView/20260809507545?OutUrl=naver",
+  "https://www.chosun.com/economy/stock-finance/2026/08/09/XQVNHXFRY5F7PDNMB76O6YIKFI/",
+  "http://www.srtimes.kr/news/articleView.html?idxno=209474",
+  "https://www.seoultimes.news/news/article.html?no=2000098619",
+  "http://www.breaknews.com/1227661"
  ],
  "seen_titles": [
-  "SK에코플랜트,'지속가능경영보고서'에AI인프라설루션비전담았다",
-  "코스피,4%넘게하락...코스닥5거래일연속상승",
-  "또형사고발된이억원금융위원장…'레버리지ETF검증생략'의혹",
-  "공정위,이통3사불공정약관시정···개인정보유출책임강화",
-  "하이닉스10%대폭락,삼전6.3%↓…외인·기관폭풍매도",
-  "SK하이닉스'주식성과급'논란…자사주물량감당되나",
   "하이닉스10%대폭락,삼전6.3%↓…외인·기관모두팔았다",
   "순천향대-SKT,'AI그림일기'로미래AI인재양성",
   "'반도체株와르르'코스피4%대↓⋯코스닥800선탈환",
@@ -6001,7 +5995,13 @@
   "AI마진180bp입증…S&P500영업이익률올렸다",
   "DB하이텍,국가나노팹플랫폼에반도체장비3대기증…MEMS공정용열처...",
   "전남광주특별시,국내최대400MW태양광발전사업해남서첫삽",
-  "“다신국장안해”美로떠나는개미들…“코스피신뢰빠르게악화”..."
+  "“다신국장안해”美로떠나는개미들…“코스피신뢰빠르게악화”...",
+  "\"AI그림일기로인재키운다\"순천향대·SKT맞손",
+  "‘성과급체계불만’SK하이닉스,생산·기술직아우른통합노조만든...",
+  "환율1300원대눈앞…변동성금융위기후최대",
+  "영업비밀中회사에유출한SK하이닉스전직원2심서도실형",
+  "SKT,장기고객400명워커힐초청…정재헌CEO직접맞아",
+  "최보윤국힘수석대변인“선거·부동산·증시참사국정조사해야”"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-08-09T11:51:14.160535+09:00",
    "국장 코스피 악화 떠나는 개미들 신뢰 다신 빠르게"
+  ],
+  [
+   "2026-08-09T12:01:17.332046+09:00",
+   "참사 국힘 최보윤 국정조사해야 부동산 수석대변인 선거 증시"
   ]
  ],
- "last_run": "2026-08-09T11:51:36.130899+09:00",
+ "last_run": "2026-08-09T12:01:23.464212+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
