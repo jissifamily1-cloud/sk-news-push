@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123454",
   "https://www.sisajournal.com/news/articleView.html?idxno=380639",
   "https://biz.heraldcorp.com/article/10815792",
   "https://www.cstimes.com/news/articleView.html?idxno=714187",
@@ -2999,10 +2998,10 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260809171720ztf",
   "http://www.yonhapnewstv.co.kr/news/MYH20260809173233thg",
   "https://www.hani.co.kr/arti/society/society_general/1272092.html",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260810010002802"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260810010002802",
+  "http://www.fnnews.com/news/202608091828529371"
  ],
  "seen_titles": [
-  "100대기업임원평균연령54.2세…20·30대임원대부분오너일가",
   "이승우,지드래곤도'좋아요'누르게한세레머니정체는?(라스)",
   "100대기업임원평균54.2세…젊은임원줄고'50대이상'늘었다",
   "시총100대기업임원평균54.2세…10년새고령화뚜렷",
@@ -6001,7 +6000,8 @@
   "최태원,노소영에게1조원지급확정되나...재상고기한임박",
   "시민구단은돈먹는하마?…부실운영·혈세낭비우려",
   "장원영,아이유는‘디스커버리’신청했지만…“악플러잡을국제공조...",
-  "AI메모리국내생산확대…SK하닉,글로벌수요대응속도전"
+  "AI메모리국내생산확대…SK하닉,글로벌수요대응속도전",
+  "'정책패싱'잔혹사털어내고'재계맏형'위상되찾는다"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-08-09T18:20:15.112219+09:00",
    "잡을 디스커버리 악플러 장원영 국제공조 신청했지만 아이유는"
+  ],
+  [
+   "2026-08-09T18:40:13.048456+09:00",
+   "맏형 털어내고 재계 정책 되찾는다 패싱 잔혹사 위상"
   ]
  ],
- "last_run": "2026-08-09T18:30:30.613396+09:00",
+ "last_run": "2026-08-09T18:40:27.777886+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
