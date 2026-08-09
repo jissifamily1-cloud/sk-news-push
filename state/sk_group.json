@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/plan/2026/08/07/20260807022001?wlog_tag3=naver",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01813846645545024",
   "https://www.ajunews.com/view/20260806114836856",
   "https://www.segye.com/newsView/20260806519153?OutUrl=naver",
   "https://www.segye.com/newsView/20260807502135?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "https://biz.heraldcorp.com/article/10835227",
   "https://www.khan.co.kr/article/202608092032005",
   "https://www.khan.co.kr/article/202608092028025",
-  "https://sports.khan.co.kr/article/202608092039003?pt=nv"
+  "https://sports.khan.co.kr/article/202608092039003?pt=nv",
+  "https://www.g-enews.com/view.php?ud=20260809203109351cd0bfacc1c_1",
+  "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260809&SEQUENCE=3404"
  ],
  "seen_titles": [
-  "레버리지문턱높였더니거래비중6분의1로‘뚝’…롤러코스피는여...",
-  "“반도체팹유치에사활…제2애니콜신화창조할것”",
   "삼전닉스공정역량·정부지원·독자생태계갖춰한국판ASML키울때",
   "美폴리실리콘관세에한화큐셀·K-반도체수혜기대감'쑥'",
   "레버리지ETF거래대금급감…1위삼성,순자산총액반토막[경제레이...",
@@ -6001,7 +5999,9 @@
   "“메모리주급락끝났다”…모건스탠리,삼전·SK하닉재조명",
   "미현지생산한화큐셀큰수혜예상…공급망탈중국K반도체도타격없...",
   "성과급재협상에불만…SK하닉임직원들‘통합노조’추진",
-  "“계약직전이었다”말디니,펩과르디올라협상과정비하인드언급·..."
+  "“계약직전이었다”말디니,펩과르디올라협상과정비하인드언급·...",
+  "모건스탠리\"메모리반도체주급락마무리…현주가재진입기회\"",
+  "충북대'서울대10개만들기'도전..\"반도체"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-08-09T20:41:06.686691+09:00",
    "재협상에 SK하닉 통합노조 성과급 임직원들 불만"
+  ],
+  [
+   "2026-08-09T20:51:00.193950+09:00",
+   "10개 만들기 서울대 도전 충북대 반도체"
   ]
  ],
- "last_run": "2026-08-09T20:42:44.795162+09:00",
+ "last_run": "2026-08-09T20:51:05.855114+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
