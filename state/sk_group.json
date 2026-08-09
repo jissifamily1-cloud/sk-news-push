@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026080616430569446",
-  "https://www.hani.co.kr/arti/area/capital/1271778.html",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1174004",
   "https://www.betanews.net/article/view/beta202608060068",
   "https://www.gukjenews.com/news/articleView.html?idxno=3657999",
   "https://www.hankyung.com/article/2026080693861",
@@ -2999,12 +2996,12 @@
   "https://www.ajunews.com/view/20260809142826717",
   "https://www.sisajournal.com/news/articleView.html?idxno=382523",
   "https://m.skyedaily.com/news_view.html?ID=309457",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444294"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444294",
+  "https://www.news1.kr/world/usa-canada/6253428",
+  "https://news.tf.co.kr/read/life/2352068.htm",
+  "https://www.etnews.com/20260807000220"
  ],
  "seen_titles": [
-  "[집중기획]막이내린뒤의무대:경기공공공연장을진단하다③",
-  "SK이노E&S,민간기업첫호주초경질유30만배럴도입",
-  "반도체갈등현실화...여주시“용인반도체용수시설,재정도움1도...",
   "'삼전닉스'동반급락...SK하이닉스10%·삼성전자6%하락한이유",
   "코스피,반도체투자심리위축에4%대하락마감",
   "서해구,쿠팡물류창고화재인근도로7일오후4시통행재개",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,中충칭털고용인·청주54조폭풍투자…AI메모리'선택...",
   "상장으로실탄장전한창신메모리…韓반도체,생존전략다시짜야[권...",
   "또쪼개기상장?SK하이닉스해명에도의심계속",
-  "[8월10일자]비즈니스포스트아침의주요기사"
+  "[8월10일자]비즈니스포스트아침의주요기사",
+  "\"한국증시변동성,2개월래최저…레버리지청산으로진정\"",
+  "SK하이닉스영업비밀중국기업에유출…2심도실형",
+  "[반도체라이징스타]<2>퓨리언스,HBM공정수율높이는포스트CMP세정..."
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-08-09T17:01:24.252730+09:00",
    "주요기사 비즈니스포스트 아침의"
+  ],
+  [
+   "2026-08-09T17:05:32.479060+09:00",
+   "높이는 포스트 CMP HBM 공정 세정 퓨리언스 수율"
   ]
  ],
- "last_run": "2026-08-09T17:01:39.115044+09:00",
+ "last_run": "2026-08-09T17:05:38.762428+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
