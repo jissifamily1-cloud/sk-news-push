@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260809506294?OutUrl=naver",
-  "https://www.sportsseoul.com/news/read/1627402",
-  "https://www.dailian.co.kr/news/view/1676220/?sc=Naver",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/09/2026080900026.html",
-  "https://www.m-i.kr/news/articleView.html?idxno=1400274",
-  "https://biz.heraldcorp.com/article/10835034",
-  "https://www.newscj.com/news/articleView.html?idxno=3423577",
-  "https://biz.sbs.co.kr/article_hub/20000327494?division=NAVER",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719674",
   "https://www.yna.co.kr/view/AKR20260807146051004?input=1195m",
   "https://economist.co.kr/article/view/ecn202608090001",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574043368279",
@@ -2999,18 +2990,18 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429468",
   "https://m.skyedaily.com/news_view.html?ID=309538",
   "https://www.mt.co.kr/tech/2026/08/11/2026081108040828721",
-  "https://www.dt.co.kr/article/12077555"
+  "https://www.dt.co.kr/article/12077555",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000055852",
+  "https://www.etoday.co.kr/news/view/2613016",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429472",
+  "https://www.kbmaeil.com/article/20260811500033",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855830",
+  "https://www.newsis.com/view/NISX20260811_0003743719",
+  "https://biz.sbs.co.kr/article_hub/20000327848?division=NAVER",
+  "https://www.ddaily.co.kr/page/view/2026081108234648922",
+  "https://www.g-enews.com/view.php?ud=202608110809098871fbbec65dfb_1"
  ],
  "seen_titles": [
-  "배우지안,'158㎞강속구투수'엄정욱과결혼…\"이사람이라면평생함...",
-  "코스피9000다시못오나…이달거래대금·거래량올해최저",
-  "SKT,전국5개도시서장기고객1200명미식초청…롯데월드대관등혜...",
-  "‘롤러코스터’한국증시진정되나…블룸버그“레버리지과열해소조...",
-  "국가대표AI'독파모'2차4파전…국민평가시작등본격화",
-  "블룸버그\"레버리지청산에韓증시변동성진정가능성\"",
-  "SK하이닉스,中충칭'4조공장'지분매각설…AI메모리로투자축옮기...",
-  "최태원,노소영에약1조원지급하나…내주재상고안하면확정(종합)",
-  "[속보]“성과급약속지켜라”…SK하이닉스,통합노조신설추진",
   "“성과급다시건드리자폭발했다”…SK하이닉스‘통합노조’출범초...",
   "삼성·SK메모리주도권확실…DRAM가격폭등",
   "\"금융위기급변동성\"…원·달러1,300원대눈앞",
@@ -6001,7 +5992,16 @@
   "[뉴욕마켓워치]'금리안정'베선트좌절시키는이란…주식·채권↓달러...",
   "SK바사상반기영업손실603억…실적개선세",
   "'델테크포럼'25일개최…SK하이닉스등글로벌빅테크모인다",
-  "트럼프,中견제배터리개발위해‘국방금융지원금’동원한다"
+  "트럼프,中견제배터리개발위해‘국방금융지원금’동원한다",
+  "올해첫'셀코리아'조짐?…국내주식형ETF자금썰물",
+  "미래에셋證“빅테크AI투자여력충분…삼성전자·SK하이닉스비중확...",
+  "코스닥32%뛰었지만…\"키맞추기반등,코스피버릴때아냐\"",
+  "6300선문턱서멈춘코스피…美반도체급락·유가5%급등‘먹구름’",
+  "SK바이오사이언스,2분기적자58%축소",
+  "美반도체약세에…삼전·닉스,프리마켓서1.7%동반하락",
+  "[어제장오늘장]양대지수동반상승…코스닥7%상승↑,5주만에최고...",
+  "아이폰18원가폭탄맞은애플…'백악관·수율·가격'3중고에中우회...",
+  "TSMC,2D반도체계면한계극복…초박형산화알루미늄적용"
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,21 @@
   [
    "2026-08-11T08:21:06.392605+09:00",
    "배터리 국방금융지원금 동원한다 개발 트럼프 견제"
+  ],
+  [
+   "2026-08-11T08:31:22.594328+09:00",
+   "양대지수 상승 동반 코스닥 5주 최고 만에"
+  ],
+  [
+   "2026-08-11T08:31:22.594328+09:00",
+   "폭탄 수율 백악관 애플 원가 가격 3중고에 맞은 아이폰18 우회"
+  ],
+  [
+   "2026-08-11T08:31:22.594328+09:00",
+   "2D 반도체 적용 극복 초박형 한계 TSMC 산화알루미늄 계면"
   ]
  ],
- "last_run": "2026-08-11T08:21:28.731199+09:00",
+ "last_run": "2026-08-11T08:31:33.906045+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
