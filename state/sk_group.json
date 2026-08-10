@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8047041",
-  "http://www.knpnews.com/news/articleView.html?idxno=34264",
-  "https://www.wikitree.co.kr/articles/1151287",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240877",
-  "https://www.greened.kr/news/articleView.html?idxno=347187",
-  "https://www.yna.co.kr/view/AKR20260807135400017?input=1195m",
   "http://www.dailypop.kr/news/articleView.html?idxno=101280",
   "http://www.yonhapnewstv.co.kr/news/AKR20260809094516UWz",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01252966645545680",
@@ -2999,15 +2993,15 @@
   "https://www.g-enews.com/view.php?ud=2026081101063445670c8c1c064d_1",
   "https://www.bntnews.co.kr/article/view/bnt202608110003",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46910",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101443167800444"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101443167800444",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719846",
+  "https://www.namdonews.com/news/articleView.html?idxno=919646",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476065",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476062",
+  "https://www.news1.kr/industry/general-industry/6254598",
+  "https://www.mt.co.kr/stock/2026/08/11/2026081021370124511"
  ],
  "seen_titles": [
-  "환영사하는정재헌CEO",
-  "SK하이닉스'과자2,000원〉연간고정배당1,500원'…블라인드밈,계산...",
-  "\"한국증시,외국인투기세력의현금출금기로전락\"",
-  "미식부터롯데월드·뮤지컬까지…SKT,장기고객잡기'경험'에힘준다",
-  "NCAX·폴라리스AI핸디·DAI·SKAX등AI·AX사명변경'붐'...피플바이...",
-  "[AI위클리]독파모2차'4파전'…국가대표AI탈락팀은어디",
   "건설사성적표③시공능력평가순위보다뼈아픈'평가액감소'…몸집줄...",
   "최태원,노소영에게1조지급하고소송끝내나…17일재상고기한",
   "단일레버리지쏠림풀리자…코스닥레버리지‘불기둥’",
@@ -6001,7 +5995,13 @@
   "말레이시아,韓과반도체·AI·할랄산업협력강화…‘고부가가치전...",
   "에코프로비엠주가전망,니켈제련소BNSI가변수로",
   "3년뒤매출1.6배…신성이엔지,말보다숫자로내세운밸류업",
-  "원·달러,한달여만에140원‘뚝’…1300원대재진입가시권"
+  "원·달러,한달여만에140원‘뚝’…1300원대재진입가시권",
+  "SK하이닉스담보대출1년새5배…40대비중도두배뛰었다",
+  "[국내주식]SK하이닉스오르자빚도불었다…담보대출1년새438%폭증",
+  "코스피·코스닥전거래일(10일)주요공시는...대동,2분기영업익64%증...",
+  "주가11배뛰자벌어진일…SK하이닉스에몰린'빚투'",
+  "반도체훈풍인데…'소부장'한미반도체·한화세미텍상반기'부진',왜?",
+  "시중엔돈넘치는데기업은팍팍…회사채·유증까지막힌'돈맥경화'"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,29 @@
   [
    "2026-08-11T06:31:08.915023+09:00",
    "만에 재진입 달러 1300원대 가시권 달여 140원"
+  ],
+  [
+   "2026-08-11T06:41:19.247252+09:00",
+   "폭증 오르자 1년새 SK하이닉스 빚도 담보대출 불었다"
+  ],
+  [
+   "2026-08-11T06:41:19.247252+09:00",
+   "2분기 대동 코스피 10일 주요공시는 거래일 코스닥 영업익"
+  ],
+  [
+   "2026-08-11T06:41:19.247252+09:00",
+   "11배 주가 빚투 벌어진 몰린 뛰자 SK하이닉스에"
+  ],
+  [
+   "2026-08-11T06:41:19.247252+09:00",
+   "부진 훈풍인데 반도체 한미반도체 한화세미텍 소부장 상반기"
+  ],
+  [
+   "2026-08-11T06:41:19.247252+09:00",
+   "돈맥경화 넘치는데 유증까지 기업은 막힌 시중엔 회사채 팍팍"
   ]
  ],
- "last_run": "2026-08-11T06:31:23.438235+09:00",
+ "last_run": "2026-08-11T06:41:35.445109+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
