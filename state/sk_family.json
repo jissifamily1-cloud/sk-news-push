@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620508",
-  "https://www.thelec.kr/news/articleView.html?idxno=60040",
-  "https://slownews.kr/163778",
   "https://www.greened.kr/news/articleView.html?idxno=345940",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=224006",
   "https://www.newswhoplus.com/news/articleView.html?idxno=65390",
@@ -2999,12 +2996,12 @@
   "https://www.munhwa.com/article/11608497",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444343",
   "http://www.inews24.com/view/1993323",
-  "https://www.news2day.co.kr/article/20260810500142"
+  "https://www.news2day.co.kr/article/20260810500142",
+  "https://www.tvreport.co.kr/breaking/article/1067695/",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1564773",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=30597"
  ],
  "seen_titles": [
-  "[증시전략]빅테크실적·FOMC회의·중동까지…역대급변동성예고",
-  "최태원,9440억원어디서마련하나…\"10년배당·연봉8065억원\"",
-  "[더벨]SK하이닉스·SKT,엔비디아와'5000억달러'AI동맹",
   "엔화바닥치는데원화웃는다?…40조벌어온‘이기업’[잇슈머니]",
   "SK,엔비디아에메모리장기공급",
   "“한국없으면불가능하다”는젠슨황에게“우리는식구다”:슬로우...",
@@ -6001,7 +5998,10 @@
   "[이슈]노소영관장이최수종연극응원온이유",
   "최태원SK실트론지분팔아도9440억마련어렵다,재상고로재산분할액...",
   "'9440만원재산분할'노소영,재상고확정전'이곳'다녀갔다",
-  "[문화인사이드]BTS월드투어와영화‘오디세이’,반도체수출"
+  "[문화인사이드]BTS월드투어와영화‘오디세이’,반도체수출",
+  "최수종,'최태원과이혼→9440억원재산분할'노소영만났다…\"귀한발...",
+  "익산시-강북구,자매결연도시청소년교류캠프개최",
+  "두산그룹,SK실트론인수후고배당·합병계획…최태원회장잔여지분..."
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-08-10T15:40:15.513315+09:00",
    "월드투어와 영화 반도체 오디세이 BTS 수출"
+  ],
+  [
+   "2026-08-10T15:50:16.734230+09:00",
+   "고배당 합병 잔여 SK실트론 인수 회장 계획 두산그룹 지분"
   ]
  ],
- "last_run": "2026-08-10T15:40:30.409851+09:00",
+ "last_run": "2026-08-10T15:50:34.077922+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6393,6 +6397,7 @@
   "handmk.com": "핸드메이커(handmaker)",
   "economychosun.com": "economychosun.com",
   "greenpostkorea.co.kr": "그린포스트코리아",
-  "paxetv.com": "팍스경제TV"
+  "paxetv.com": "팍스경제TV",
+  "fieldnews.kr": "필드뉴스"
  }
 }
