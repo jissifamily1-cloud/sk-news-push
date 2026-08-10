@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026080809533136598",
-  "https://www.joongangenews.com/news/articleView.html?idxno=538704",
-  "http://www.kjdaily.com/article.php?aid=1786159526684069227",
-  "http://www.joseilbo.com/news/news_read.php?uid=573469&class=18",
-  "http://www.osen.co.kr/article/G1112853757",
-  "https://www.sentv.co.kr/article/view/sentv202608080011",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=363522",
   "https://www.sidae.com/article/2026080812230882386",
   "https://www.goal.com/kr/뉴스/a/bltea4dd0412e1d2615",
@@ -2999,15 +2993,15 @@
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1093183",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236152",
   "https://www.nspna.com/en/news/?newsid=823750",
-  "https://www.nspna.com/cn/news/?newsid=823749"
+  "https://www.nspna.com/cn/news/?newsid=823749",
+  "https://www.ajunews.com/view/20260810194216112",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260810010003298",
+  "https://biz.sbs.co.kr/article_hub/20000327797?division=NAVER",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=308645",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633108",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1174546"
  ],
  "seen_titles": [
-  "삼전·하닉은월가‘ATM’이었다?...메모리저승사자\"이제살때\"[빈난...",
-  "“레버리지막자코스닥으로돈몰렸다”…다시고개드는‘천스닥’...",
-  "8월첫주SK텔레콤주가상승후하락전환",
-  "삼성전자·SK하이닉스69조거래…거래대금압도",
-  "세금깎아줘도미국으로…서학개미46억달러‘대탈출’",
-  "'제주전굴욕은잊어라!'김민재제대로날았다!95%패스+헤더골+평점...",
   "SK하이닉스,용인·청주에54조투입…AI메모리공급망선점",
   "민주당당대표후보3인복수전과…최고위원1,2위도전과보유",
   "남동발전,국내최대400MW태양광발전사업착공",
@@ -6001,7 +5995,13 @@
   "충청권반도체·첨단산업246조투자",
   "[단독]'반노동'메가특구논란에노동장관-양대노총비공개회동",
   "KakaoPaySecurities,BeginningFractionalTradingofDomesticStock",
-  "KakaoPay证券推出韩国股票碎股交易服务，三星电子、SK海力士等率先上线"
+  "KakaoPay证券推出韩国股票碎股交易服务，三星电子、SK海力士等率先上线",
+  "[종합]주52시간특례법결론유보한靑\"노동계동의필요\"",
+  "李\"호남반도체클러스터,속도전넘어전격전\"…'메가특구법'연내제...",
+  "靑\"연내메가특구특별법제정…5조반도체신규펀드조성\"",
+  "靑'메가특구특별법'연내제정…'주52시간제특례'는\"숙고\"",
+  "[여기는전남]국내최대태양광착공…해남,에너지도시도약?",
+  "[주식마감]'제2우주센터'기대감에우주항공주강세...비츠로넥스텍,..."
  ],
  "recent_sigs": [
   [
@@ -7235,9 +7235,13 @@
   [
    "2026-08-10T19:41:10.857829+09:00",
    "Pay Kakao"
+  ],
+  [
+   "2026-08-10T19:51:11.948660+09:00",
+   "제2우주센터 비츠로넥스텍 우주항공주 강세 기대감에"
   ]
  ],
- "last_run": "2026-08-10T19:41:22.347103+09:00",
+ "last_run": "2026-08-10T19:51:17.654349+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
