@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/society/law/2026/08/09/20260809500011?wlog_tag3=naver",
-  "https://view.asiae.co.kr/article/2026080616393892752",
-  "https://kidd.co.kr/news/246960",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719672",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090093&t=NN",
   "http://www.newstomato.com/ReadNews.aspx?no=1309645&inflow=N",
@@ -2999,12 +2996,12 @@
   "https://www.newswhoplus.com/news/articleView.html?idxno=66602",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244789",
   "https://slownews.kr/164649",
-  "https://www.ytn.co.kr/_ln/0102_202608110727590109"
+  "https://www.ytn.co.kr/_ln/0102_202608110727590109",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6843832_37012.html",
+  "https://www.etoday.co.kr/news/view/2612983",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314234"
  ],
  "seen_titles": [
-  "AI데이터센터투자계획발표,국내전력수요증가이끈다",
-  "외국인,국채선물12일연속순매수…한은'추가인상'베팅철회",
-  "1조원육박'세기의재산분할'…재상고기한일주일앞",
   "SK하이닉스,중충칭공장지분매각검토?…“확정된바없어”",
   "[기획특집]\"반도체도시의미래는인재\"…이상일용인시장,반도체·AI미...",
   "경기도,차세대반도체패키징산업전개최…180개기업한자리에",
@@ -6001,7 +5998,10 @@
   "마통잔액8.5%늘때연체액33%급증…20대·60대상환부담↑",
   "[기자수첩]청년들이여,그대들의나이가레버리지다",
   "지지율43%,이재명정부최대위기:슬로우레터8월11일.",
-  "[스타트경제]서학개미6월부터순매수전환...코스닥7거래일간32%급..."
+  "[스타트경제]서학개미6월부터순매수전환...코스닥7거래일간32%급...",
+  "뉴욕증시,미·이란협상의구심에약보합마감",
+  "[증시키워드]삼성전자주주환원기대감속코스닥바이오·2차전지'눈...",
+  "[이슈포커스]\"AI가쏘아올린청구서\"애플,메모리폭등에'중국산우..."
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,13 @@
   [
    "2026-08-11T07:41:06.576049+09:00",
    "6월부터 7거래일간 서학개미 순매수 코스닥"
+  ],
+  [
+   "2026-08-11T07:51:04.433735+09:00",
+   "쏘아올린 AI가 중국산 폭등에 메모리 애플 청구서"
   ]
  ],
- "last_run": "2026-08-11T07:41:38.480813+09:00",
+ "last_run": "2026-08-11T07:51:10.312726+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
