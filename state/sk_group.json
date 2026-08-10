@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719672",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090093&t=NN",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309645&inflow=N",
-  "https://www.tournews21.com/news/articleView.html?idxno=140547",
-  "https://www.tournews21.com/news/articleView.html?idxno=140546",
   "https://www.etoday.co.kr/news/view/2612442",
   "http://www.metroseoul.co.kr/article/20260809500039",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=363264",
@@ -2999,14 +2994,14 @@
   "https://www.ytn.co.kr/_ln/0102_202608110727590109",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6843832_37012.html",
   "https://www.etoday.co.kr/news/view/2612983",
-  "https://www.thepublic.kr/news/articleView.html?idxno=314234"
+  "https://www.thepublic.kr/news/articleView.html?idxno=314234",
+  "https://biz.chosun.com/stock/stock_general/2026/08/11/XU3LYMSAB5GVDB3QSGJH4D5ET4/",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4100044",
+  "https://www.pressian.com/pages/articles/2026081107534568557",
+  "https://biz.sbs.co.kr/article_hub/20000327830?division=NAVER",
+  "https://www.newspim.com/news/view/20260811000061"
  ],
  "seen_titles": [
-  "SK하이닉스,중충칭공장지분매각검토?…“확정된바없어”",
-  "[기획특집]\"반도체도시의미래는인재\"…이상일용인시장,반도체·AI미...",
-  "경기도,차세대반도체패키징산업전개최…180개기업한자리에",
-  "SK하이닉스영업비밀中회사에넘긴前직원…항소심도실형",
-  "SK텔레콤,장기고객프로그램'테이블데이'성료",
   "SKT,장기고객400명초청'테이블데이'서울행사성료",
   "[외환+]원화급등락반복···외환시장변동성최고수준",
   "3분기영업익200조향하는삼전닉스",
@@ -6001,7 +5996,12 @@
   "[스타트경제]서학개미6월부터순매수전환...코스닥7거래일간32%급...",
   "뉴욕증시,미·이란협상의구심에약보합마감",
   "[증시키워드]삼성전자주주환원기대감속코스닥바이오·2차전지'눈...",
-  "[이슈포커스]\"AI가쏘아올린청구서\"애플,메모리폭등에'중국산우..."
+  "[이슈포커스]\"AI가쏘아올린청구서\"애플,메모리폭등에'중국산우...",
+  "“코스피반등이미시작됐다…V자아닌‘√자형’될것”",
+  "SK하이닉스,충북도·교육청과AI디지털휴먼상담시스템구축협약",
+  "[속보]뉴욕증시,'반도체주'급락…국제유가다시상승",
+  "[애프터마켓리뷰]스페이스X기술적반등소식에관련주'쑥'",
+  "[모닝리포트]\"환율추가하락가능하지만...원화추세적강세는한계..."
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,25 @@
   [
    "2026-08-11T07:51:04.433735+09:00",
    "쏘아올린 AI가 중국산 폭등에 메모리 애플 청구서"
+  ],
+  [
+   "2026-08-11T07:55:10.723435+09:00",
+   "상담 AI 구축 교육청과 협약 시스템 SK하이닉스 휴먼 디지털 충북도"
+  ],
+  [
+   "2026-08-11T07:55:10.723435+09:00",
+   "급락 국제유가 상승 뉴욕증시 반도체주 다시"
+  ],
+  [
+   "2026-08-11T07:55:10.723435+09:00",
+   "소식에 스페이스X 반등 기술적 관련주"
+  ],
+  [
+   "2026-08-11T07:55:10.723435+09:00",
+   "하락 한계 원화 환율 추가 가능하지만 추세적 강세는"
   ]
  ],
- "last_run": "2026-08-11T07:51:10.312726+09:00",
+ "last_run": "2026-08-11T07:55:32.816241+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
