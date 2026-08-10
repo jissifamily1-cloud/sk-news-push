@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kgnews.co.kr/news/article.html?no=903453",
-  "https://www.nocutnews.co.kr/news/6546624",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2287222",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/10/2026071000251.html",
   "https://www.kyeonggi.com/article/20260710580402",
   "https://www.m-i.kr/news/articleView.html?idxno=1390476",
   "https://www.mk.co.kr/article/12095771",
@@ -2999,13 +2995,13 @@
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317783",
   "http://www.newskr.kr/news/articleView.html?idxno=105468",
   "http://www.thebigdata.co.kr/view.php?ud=202608071605187163bbceadc3c9_23",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1394056"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1394056",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008697497&plink=ORI&cooper=NAVER",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238492",
+  "https://www.youthdaily.co.kr/news/article.html?no=224827",
+  "https://www.handmk.com/news/articleView.html?idxno=42032"
  ],
  "seen_titles": [
-  "사유가멈추면악은일상이된다[신간]",
-  "SK,신규자금1.4조투입해협력사R&D지원",
-  "청와대\"몽골국빈만찬에한국기업인40여명참석..'국궁·워치'선물\"",
-  "이재명대통령,몽골대통령에'갤럭시워치8클래식'선물",
   "李,몽골국회의장·총리에협력당부…대통령엔국궁선물",
   "李대통령,몽골대통령에국궁세트·스마트워치선물",
   "李대통령,몽골대통령부부에국궁세트·스마트워치선물[몽골국빈...",
@@ -6001,7 +5997,11 @@
   "SKE&S해킹·산재은폐의혹취재후기\"가족같다던회사가...\"",
   "李대통령,오늘반도체속도전다시챙긴다",
   "[두산그룹줌인]SK실트론인수로반도체'수직계열화'완성...200%근접...",
-  "李,메가프로젝트2차점검…광주군공항·전력·용수'실행속도전'"
+  "李,메가프로젝트2차점검…광주군공항·전력·용수'실행속도전'",
+  "최태원,노소영에약1조원지급하나…14일까지재상고안하면확정",
+  "최태원·노소영,9년소송이번주끝나나…9440억재산분할'마지막선택...",
+  "'9440억지급'…최태원·노소영재산분할소송확정'갈림길'",
+  "[더스토리]SK家기틀닦은최종건창업주...폐허속에서옛동료들을모..."
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-08-10T09:10:14.690192+09:00",
    "메가프로젝트 속도전 광주 점검 2차 실행 전력 용수 군공항"
+  ],
+  [
+   "2026-08-10T09:40:14.954841+09:00",
+   "폐허속에서 기틀 동료들을 닦은 창업주"
   ]
  ],
- "last_run": "2026-08-10T09:30:33.999326+09:00",
+ "last_run": "2026-08-10T09:40:28.558185+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6365,6 +6369,7 @@
   "knpnews.com": "한국원자력신문",
   "mediafine.co.kr": "미디어파인",
   "mediaus.co.kr": "미디어스",
-  "thebigdata.co.kr": "빅데이터뉴스"
+  "thebigdata.co.kr": "빅데이터뉴스",
+  "handmk.com": "핸드메이커(handmaker)"
  }
 }
