@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailypop.kr/news/articleView.html?idxno=101280",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260809094516UWz",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01252966645545680",
-  "https://biz.chosun.com/topics/topics_social/2026/08/09/IJEVAHOZLFBZTDDKN47CSVCC5A/",
-  "http://www.fnnews.com/news/202608090910438856",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211177",
   "https://www.ekn.kr/web/view.php?key=20260809024440913",
   "https://zdnet.co.kr/view/?no=20260809084027",
@@ -2999,14 +2994,14 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476065",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476062",
   "https://www.news1.kr/industry/general-industry/6254598",
-  "https://www.mt.co.kr/stock/2026/08/11/2026081021370124511"
+  "https://www.mt.co.kr/stock/2026/08/11/2026081021370124511",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719849",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16160107",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071680",
+  "https://www.yna.co.kr/view/AKR20260810124200017?input=1195m",
+  "https://www.munhwa.com/article/11608567"
  ],
  "seen_titles": [
-  "건설사성적표③시공능력평가순위보다뼈아픈'평가액감소'…몸집줄...",
-  "최태원,노소영에게1조지급하고소송끝내나…17일재상고기한",
-  "단일레버리지쏠림풀리자…코스닥레버리지‘불기둥’",
-  "中회사이직하려고SK하이닉스영업비밀유출…前직원,2심도징역1년6...",
-  "中회사이직하려SK하이닉스영업비밀유출…前직원2심도실형",
   "최태원,노소영에1조원주고9년소송끝낼까…17일까지재상고",
   "삼전직스레버리지ETF문턱높이니…코스닥레버리지‘불기둥’",
   "\"SK하이닉스,4조원대中충칭공장지분매각검토\"",
@@ -6001,7 +5996,12 @@
   "코스피·코스닥전거래일(10일)주요공시는...대동,2분기영업익64%증...",
   "주가11배뛰자벌어진일…SK하이닉스에몰린'빚투'",
   "반도체훈풍인데…'소부장'한미반도체·한화세미텍상반기'부진',왜?",
-  "시중엔돈넘치는데기업은팍팍…회사채·유증까지막힌'돈맥경화'"
+  "시중엔돈넘치는데기업은팍팍…회사채·유증까지막힌'돈맥경화'",
+  "삼전닉스문턱높이자美3배로…개미,SOXL4.4조'레버리지원정'",
+  "미국증시,유가5%급등에숨고르기…엔비디아2.9%↓반도체차익실현",
+  "반도체용수'폐수'라는말이만드는오해",
+  "[AI프리즘]세계최대해킹대회달군AI…해킹도'에이전트시대'",
+  "도파민중독?이번엔‘롤러코스닥’…7일32%급등"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,21 @@
   [
    "2026-08-11T06:41:19.247252+09:00",
    "돈맥경화 넘치는데 유증까지 기업은 막힌 시중엔 회사채 팍팍"
+  ],
+  [
+   "2026-08-11T06:51:11.479995+09:00",
+   "폐수 반도체 오해 만드는 말이 용수 라는"
+  ],
+  [
+   "2026-08-11T06:51:11.479995+09:00",
+   "세계 AI 달군 시대 에이전트 해킹대회 해킹도"
+  ],
+  [
+   "2026-08-11T06:51:11.479995+09:00",
+   "이번엔 7일 롤러코스닥 도파민중독 급등"
   ]
  ],
- "last_run": "2026-08-11T06:41:35.445109+09:00",
+ "last_run": "2026-08-11T06:51:22.564354+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
