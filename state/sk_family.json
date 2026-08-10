@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/ptoday/2337765.htm",
   "https://www.hani.co.kr/arti/politics/politics_general/1265880.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597345",
   "https://www.yna.co.kr/view/AKR20260629119500504?input=1195m",
@@ -2999,10 +2998,10 @@
   "https://news.bizwatch.co.kr/article/industry/2026/08/10/0027",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=86241",
   "https://www.newsen.com/news_view.php?uid=202608101723531910",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16159924"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16159924",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105753"
  ],
  "seen_titles": [
-  "[윤영숙의시선]헬리콥터를꿈꾼소년,다음세대에건넨AI의꿈",
   "챗GPT잡으려다‘섞어찌개’되나…시험대오른‘모두의AI’",
   "[비즈톡]긴장한총수들뒤에서2000조숫자경쟁한삼성과SK",
   "\"핵군축가능성\"\"9·19단계복원\"…INSS,하반기한반도안보진단",
@@ -6001,7 +6000,8 @@
   "생산직·사무직뭉친다…SK하이닉스'통합노조'출범초읽기",
   "최수종,9440억재산분할노소영만나-이영애도",
   "최수종,노소영이영애와깜짝친분“처음의열정으로보답할것”",
-  "박지원,설해원에서가족골프휴가…여유속'종말의바보'이후행보"
+  "박지원,설해원에서가족골프휴가…여유속'종말의바보'이후행보",
+  "이재명표'한국판구마모토'강드라이브"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-10T17:10:16.000700+09:00",
    "출범 초읽기 통합노조 뭉친다 SK하이닉스 사무직 생산직"
+  ],
+  [
+   "2026-08-10T17:50:17.482844+09:00",
+   "강드라이브 이재명표 한국판 구마모토"
   ]
  ],
- "last_run": "2026-08-10T17:46:23.109987+09:00",
+ "last_run": "2026-08-10T17:50:29.298959+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
