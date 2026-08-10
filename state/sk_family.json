@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.techholic.co.kr/news/articleView.html?idxno=222249",
-  "http://www.queen.co.kr/news/articleView.html?idxno=460799",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426904",
   "https://economist.co.kr/article/view/ecn202607210044",
   "https://www.chosun.com/economy/industry-company/2026/06/30/DQZLKURBWFBPZK56T5DCYQCDYU/",
@@ -2999,11 +2997,11 @@
   "http://www.fieldnews.kr/news/articleView.html?idxno=30597",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206301",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100194&t=NNv",
-  "https://mhnse.com/news/articleView.html?idxno=1485047"
+  "https://mhnse.com/news/articleView.html?idxno=1485047",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244798",
+  "https://news.bizwatch.co.kr/article/industry/2026/08/10/0027"
  ],
  "seen_titles": [
-  "최태원재산분할뛰어넘는권혁빈이혼소송9월선고'관심'...이재용·...",
-  "【오늘의법조】2026년7월27일",
   "9년끈'세기의이혼'끝낸최태원…SK지배력지키며9440억마련할까",
   "최태원회장-젠슨황,AI팩토리·AI메모리등총5,000억달러이상규...",
   "삼성·SK하이닉스실적부터FOMC까지…이번주(27일~8월1일)주요일정",
@@ -6001,7 +5999,9 @@
   "두산그룹,SK실트론인수후고배당·합병계획…최태원회장잔여지분...",
   "'중국에서일본으로'…최태원회장의AI시대생존전략",
   "에코프로비엠,유증또정정…1조밑돌가능성커졌다",
-  "'9440억재산분할'노소영,깜짝근황…최수종공연인증샷→이영애도..."
+  "'9440억재산분할'노소영,깜짝근황…최수종공연인증샷→이영애도...",
+  "[인사종합·10일]산업부·문체부·행안부등",
+  "생산직·사무직뭉친다…SK하이닉스'통합노조'출범초읽기"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-08-10T16:20:15.684014+09:00",
    "일본으로 전략 시대 AI 회장의 생존 중국에서"
+  ],
+  [
+   "2026-08-10T17:10:16.000700+09:00",
+   "출범 초읽기 통합노조 뭉친다 SK하이닉스 사무직 생산직"
   ]
  ],
- "last_run": "2026-08-10T17:00:38.997656+09:00",
+ "last_run": "2026-08-10T17:10:27.624382+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
