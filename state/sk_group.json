@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://weekly.chosun.com/news/articleView.html?idxno=54102",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=363256",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719660",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211134",
-  "https://www.newstnt.com/news/articleView.html?idxno=713269",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1173426",
   "http://www.newstomato.com/ReadNews.aspx?no=1309634&inflow=N",
   "https://www.goal.com/kr/뉴스/a/bltb22872624e340864",
   "https://www.etnews.com/20260807000270",
@@ -2999,15 +2993,15 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=444396",
   "https://www.khan.co.kr/article/202608102052005",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698793&plink=ORI&cooper=NAVER",
-  "http://www.newsprime.co.kr/news/article.html?no=743369"
+  "http://www.newsprime.co.kr/news/article.html?no=743369",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260810210140rJy",
+  "https://www.pressian.com/pages/articles/2026081019334562684",
+  "http://www.inews24.com/view/1993670",
+  "https://www.mk.co.kr/article/12120737",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100358&t=NN",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100411&t=NN"
  ],
  "seen_titles": [
-  "한국거래소\"삼전닉스레버리지심사기간단축.사실아냐\"",
-  "'차밭의반도체'된말차…㎏당5만원→14만원,없어서못판다",
-  "삼전·닉스레버리지특혜심사논란…거래소\"단축사실아냐\"",
-  "\"급매물고비넘겼다\"…8월증시반등론,고변동성주비중은50%아래로",
-  "빅테크깜짝호실적…서학개미,다시아마존·마이크론으로",
-  "[공시]본느'거래정지',빛과전자·애니메디솔루션·오이솔루션'투자...",
   "월가'SK하이닉스저평가'…목표가최고320달러제시,왜?",
   "전쟁에원유공급망흔들리자…K-정유,에너지안보핵심으로재부상",
   "“바이에른뮌헨은글로벌기업이되기보단글로벌팬들과소통창구를...",
@@ -6001,7 +5995,13 @@
   "[8월11일자]비즈니스포스트아침의주요기사",
   "삼전닉스식자비반도체·코스닥에‘온기’",
   "\"군공항28년중순까지임시배치\"…반도체'전격전'",
-  "강훈식비서실장\"정부일하는방식혁신및규제철폐\""
+  "강훈식비서실장\"정부일하는방식혁신및규제철폐\"",
+  "코스피,반도체'주춤'…수급몰린코스닥7%급등",
+  "메가특구에'주52시간'예외?…靑\"노동계동의해야가능\"",
+  "\"삼성·SK사장들,빨리추진돼놀랐다\"…靑,광주군공항2028년이전",
+  "환호에서비명으로…‘통제불능’코스피",
+  "'반토막'SK하이닉스…월가는'작은주름'이라는데[B급기자의B급리포...",
+  "하이닉스는쉬어가지만\"땡큐닉스\"…모멘텀안고13%↑"
  ],
  "recent_sigs": [
   [
@@ -7015,9 +7015,21 @@
   [
    "2026-08-10T21:01:36.717771+09:00",
    "비서실장 규제 혁신 일하는 정부 철폐 강훈식 방식"
+  ],
+  [
+   "2026-08-10T21:06:10.857689+09:00",
+   "불능 통제 환호에서 코스피 비명으로"
+  ],
+  [
+   "2026-08-10T21:06:10.857689+09:00",
+   "작은 주름 SK하이닉스 B급리포 반토막 B급기자의 월가는 이라는데"
+  ],
+  [
+   "2026-08-10T21:06:10.857689+09:00",
+   "안고 하이닉스는 닉스 모멘텀 쉬어가지만 땡큐"
   ]
  ],
- "last_run": "2026-08-10T21:01:54.918140+09:00",
+ "last_run": "2026-08-10T21:06:22.679454+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
