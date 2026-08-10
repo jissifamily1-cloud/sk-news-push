@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6253291",
-  "https://www.chosun.com/economy/stock-finance/2026/08/09/UK6TZTIZWZHJVIIUIGL3RFGAJQ/",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=877384",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01295606645545680",
   "https://www.ajunews.com/view/20260809100053343",
   "https://www.sidae.com/article/2026080909340821997",
   "https://www.sedaily.com/article/20077099",
@@ -2999,13 +2995,13 @@
   "https://en.yna.co.kr/view/AEN20260811000600315?input=2106m",
   "https://www.newsis.com/view/NISX20260810_0003743202",
   "https://www.koreatimes.co.kr/path/A2026081016060005760",
-  "https://www.dailian.co.kr/news/view/1676875/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1676875/?sc=Naver",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005898241",
+  "https://biz.sbs.co.kr/article_hub/20000327820?division=NAVER",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608110452&t=NN",
+  "https://www.newspim.com/news/view/20260810001001"
  ],
  "seen_titles": [
-  "SKT,장기가입자에게최현석·김희은셰프요리대접",
-  "단일종목레버리지상품막자지수형ETF로…규제후자금이동뚜렷",
-  "환율1600원겨냥하다1300원대눈앞...변동성금융위기후최고",
-  "中이직하러SK하닉영업비밀빼돌린전직원…2심도징역1년6개월",
   "SKT,미식경험으로장기고객예우…셰프초청행사",
   "[오늘경기]26~28일수원서차세대반도체패키징산업전",
   "환율효과·외국인관광객훈풍탄K패션…2분기실적‘맑음’",
@@ -6001,7 +5997,11 @@
   "TopheadlinesinmajorS.Koreannewspapers",
   "청개구리개미군단…코스닥급등에레버리지팔고인버스산다",
   "[Interview]GKSbecomesgatewaytolifeinKoreaforUzbekscholar",
-  "[전문]김재섭\"집값폭등하니버스가서살아라?장난하냐?\"[정국기상..."
+  "[전문]김재섭\"집값폭등하니버스가서살아라?장난하냐?\"[정국기상...",
+  "SK하이닉스담보대출5배넘게급증…40대이하‘빚투’도늘었다",
+  "[증시전략]인텔,150억달러유상증자추진…AI수요급증대응",
+  "'10년전삼전닉스투자'소유,수익금으로초호화새집장만",
+  "[기고]대미투자,돈보다먼저살펴야할'두개의규제문'"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,21 @@
   [
    "2026-08-11T07:04:49.446152+09:00",
    "폭등하니 가서 집값 살아라 장난하냐 기상 버스 정국 김재섭"
+  ],
+  [
+   "2026-08-11T07:11:10.719428+09:00",
+   "AI 급증 인텔 150억달러 대응 유상증자 수요"
+  ],
+  [
+   "2026-08-11T07:11:10.719428+09:00",
+   "10년전 투자 수익금으로 장만 소유 삼전닉스 초호화"
+  ],
+  [
+   "2026-08-11T07:11:10.719428+09:00",
+   "살펴야 대미 투자 규제 개의 먼저 돈보다"
   ]
  ],
- "last_run": "2026-08-11T07:05:22.933630+09:00",
+ "last_run": "2026-08-11T07:11:21.677323+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
