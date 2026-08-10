@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/politics/politics_general/1265880.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597345",
   "https://www.yna.co.kr/view/AKR20260629119500504?input=1195m",
   "https://www.kbmaeil.com/article/20260727500019",
@@ -2999,10 +2998,10 @@
   "https://www.mediafine.co.kr/news/articleView.html?idxno=86241",
   "https://www.newsen.com/news_view.php?uid=202608101723531910",
   "https://www.topstarnews.net/news/articleView.html?idxno=16159924",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105753"
+  "http://www.00news.co.kr/news/articleView.html?idxno=105753",
+  "http://www.tvdaily.co.kr/read.php3?aid=17863553971797261002"
  ],
  "seen_titles": [
-  "챗GPT잡으려다‘섞어찌개’되나…시험대오른‘모두의AI’",
   "[비즈톡]긴장한총수들뒤에서2000조숫자경쟁한삼성과SK",
   "\"핵군축가능성\"\"9·19단계복원\"…INSS,하반기한반도안보진단",
   "김성배“한반도평화,올하반기관건…APEC계기한국역할중요”",
@@ -6001,7 +6000,8 @@
   "최수종,9440억재산분할노소영만나-이영애도",
   "최수종,노소영이영애와깜짝친분“처음의열정으로보답할것”",
   "박지원,설해원에서가족골프휴가…여유속'종말의바보'이후행보",
-  "이재명표'한국판구마모토'강드라이브"
+  "이재명표'한국판구마모토'강드라이브",
+  "'1조원이혼'노소영관장,최수종과뜻밖의근황"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-10T17:50:17.482844+09:00",
    "강드라이브 이재명표 한국판 구마모토"
+  ],
+  [
+   "2026-08-10T19:00:28.730187+09:00",
+   "1조 근황 뜻밖의 최수종과 관장 이혼"
   ]
  ],
- "last_run": "2026-08-10T18:50:28.099868+09:00",
+ "last_run": "2026-08-10T19:00:46.340906+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6382,6 +6386,7 @@
   "economychosun.com": "economychosun.com",
   "greenpostkorea.co.kr": "그린포스트코리아",
   "paxetv.com": "팍스경제TV",
-  "fieldnews.kr": "필드뉴스"
+  "fieldnews.kr": "필드뉴스",
+  "tvdaily.co.kr": "tvdaily.co.kr"
  }
 }
