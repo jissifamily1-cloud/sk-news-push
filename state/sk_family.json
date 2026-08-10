@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01774486645518784",
-  "https://biz.sbs.co.kr/article_hub/20000324709?division=NAVER",
-  "http://www.inews24.com/view/1988680",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607251532471360104220",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620508",
   "https://www.thelec.kr/news/articleView.html?idxno=60040",
   "https://slownews.kr/163778",
@@ -2999,13 +2995,13 @@
   "https://ilyo.co.kr/?ac=article_view&entry_id=512222",
   "https://www.hankyung.com/article/202608104527H",
   "https://dhnews.co.kr/news/view/1065593249436677",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739650"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=739650",
+  "https://www.munhwa.com/article/11608497",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444343",
+  "http://www.inews24.com/view/1993323",
+  "https://www.news2day.co.kr/article/20260810500142"
  ],
  "seen_titles": [
-  "\"한국,AI생산기지·공급망핵심국가로도약\"",
-  "최태원,SK회장,여름에도현금잔치…지주·계열사,중간배당실시",
-  "韓美빅테크,1천400조원AI동맹",
-  "젠슨황의'통큰제안'에…배경훈\"공무원이라어렵다\"웃음",
   "[증시전략]빅테크실적·FOMC회의·중동까지…역대급변동성예고",
   "최태원,9440억원어디서마련하나…\"10년배당·연봉8065억원\"",
   "[더벨]SK하이닉스·SKT,엔비디아와'5000억달러'AI동맹",
@@ -6001,13 +5997,13 @@
   "[단독]한남동저택두고…이중근부영회장vs조정호메리츠회장한...",
   "'최태원과세기의이혼'노소영,최수종연극백스테이지서포착",
   "청주세계쿠킹베이커리,세계3대요리대회필리핀컬리너리컵서금메달...",
-  "[폴리뉴스창간26주년특별기획]「대한민국산업의길을바꾼경영자..."
+  "[폴리뉴스창간26주년특별기획]「대한민국산업의길을바꾼경영자...",
+  "[이슈]노소영관장이최수종연극응원온이유",
+  "최태원SK실트론지분팔아도9440억마련어렵다,재상고로재산분할액...",
+  "'9440만원재산분할'노소영,재상고확정전'이곳'다녀갔다",
+  "[문화인사이드]BTS월드투어와영화‘오디세이’,반도체수출"
  ],
  "recent_sigs": [
-  [
-   "2026-08-10T09:40:14.954841+09:00",
-   "폐허속에서 기틀 동료들을 닦은 창업주"
-  ],
   [
    "2026-08-10T10:30:20.950418+09:00",
    "신설 초읽기 통합노조 갈등 성과급 확산 SK하이닉스"
@@ -6071,9 +6067,17 @@
   [
    "2026-08-10T15:30:23.896900+09:00",
    "산업의 길을 바꾼 경영자 대한민국"
+  ],
+  [
+   "2026-08-10T15:40:15.513315+09:00",
+   "이곳 9440만원 재산분할 다녀갔다 재상고 확정"
+  ],
+  [
+   "2026-08-10T15:40:15.513315+09:00",
+   "월드투어와 영화 반도체 오디세이 BTS 수출"
   ]
  ],
- "last_run": "2026-08-10T15:30:35.386000+09:00",
+ "last_run": "2026-08-10T15:40:30.409851+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
