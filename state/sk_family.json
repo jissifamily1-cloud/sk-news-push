@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597345",
-  "https://www.yna.co.kr/view/AKR20260629119500504?input=1195m",
   "https://www.kbmaeil.com/article/20260727500019",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336039",
   "https://www.seoulfn.com/news/articleView.html?idxno=631951",
@@ -2999,11 +2997,11 @@
   "https://www.newsen.com/news_view.php?uid=202608101723531910",
   "https://www.topstarnews.net/news/articleView.html?idxno=16159924",
   "http://www.00news.co.kr/news/articleView.html?idxno=105753",
-  "http://www.tvdaily.co.kr/read.php3?aid=17863553971797261002"
+  "http://www.tvdaily.co.kr/read.php3?aid=17863553971797261002",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260810190408aqO",
+  "https://www.newspim.com/news/view/20260810001336"
  ],
  "seen_titles": [
-  "[비즈톡]긴장한총수들뒤에서2000조숫자경쟁한삼성과SK",
-  "\"핵군축가능성\"\"9·19단계복원\"…INSS,하반기한반도안보진단",
   "김성배“한반도평화,올하반기관건…APEC계기한국역할중요”",
   "방용승“북중러두만강개발,한미일참여논의불러올가능성”",
   "방용승\"북중러두만강개발,한미일참여논의불러올가능성\"",
@@ -6001,7 +5999,9 @@
   "최수종,노소영이영애와깜짝친분“처음의열정으로보답할것”",
   "박지원,설해원에서가족골프휴가…여유속'종말의바보'이후행보",
   "이재명표'한국판구마모토'강드라이브",
-  "'1조원이혼'노소영관장,최수종과뜻밖의근황"
+  "'1조원이혼'노소영관장,최수종과뜻밖의근황",
+  "김건희'로저비비에수수'인정…\"뒤늦게발견\"",
+  "[종합]청와대,3대메가프로젝트'전격전'으로…연내특별법제정·광주..."
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-08-10T19:00:28.730187+09:00",
    "1조 근황 뜻밖의 최수종과 관장 이혼"
+  ],
+  [
+   "2026-08-10T19:10:16.609836+09:00",
+   "청와대 전격전 광주 메가프로젝트 으로 특별법 3대 연내 제정"
   ]
  ],
- "last_run": "2026-08-10T19:04:24.933328+09:00",
+ "last_run": "2026-08-10T19:10:27.982897+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
