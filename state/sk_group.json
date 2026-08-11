@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-today.com/news/articleView.html?idxno=88267",
-  "http://www.beyondpost.co.kr/view.php?ud=2026081005410646532aaae0046f_30",
-  "https://www.mk.co.kr/article/12122398",
-  "https://www.mk.co.kr/article/12122399",
-  "https://view.asiae.co.kr/article/2026081005412456814",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608081508572440257",
-  "https://www.geconomy.co.kr/news/article.html?no=322676",
   "https://www.dt.co.kr/article/12077263",
   "http://www.fnnews.com/news/202608091825455006",
   "https://www.todayenergy.kr/news/articleView.html?idxno=301382",
@@ -2999,16 +2992,16 @@
   "https://www.betanews.net/article/view/beta202608110011",
   "https://www.peoplewatch.co.kr/article/view/ppw202608110003",
   "https://www.newsis.com/view/NISX20260811_0003744350",
-  "http://www.popcornnews.net/news/articleView.html?idxno=129300"
+  "http://www.popcornnews.net/news/articleView.html?idxno=129300",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=308188",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274555",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274556",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=789751",
+  "https://www.greened.kr/news/articleView.html?idxno=347338",
+  "https://www.mk.co.kr/article/12123949",
+  "http://www.psychiatricnews.net/news/articleView.html?idxno=36649"
  ],
  "seen_titles": [
-  "[솔리다임IPO,3부]미국도모·자회사동시상장허용…솔리다임IPO핵...",
-  "\"애플,CXMTD램아이폰아이패드등중국내판매제품에시헝적용중\"....",
-  "“코스피9000?올해엔다시못볼듯”…전문가가추천한하반기투자전...",
-  "“결국주식전문가들도전혀모른다”…속썩이는‘반도체’매도타이...",
-  "모건스탠리\"메모리단기조정마무리수순…재진입매력적\"",
-  "[상반기테크업종리포트]④통신",
-  "코스피6300선서숨고르기…이번주美물가·금리에시선집중",
   "삼전‘웃고’·SK하닉‘울고’…엇갈린삼전닉스뚫고코스피구원할...",
   "규제찬물'삼전닉스레버리지'…증권가\"해외·반도체ETF로풍선효과...",
   "[진단]석유화학업계,울산'사업재편'난항",
@@ -6001,7 +5994,14 @@
   "인문계학생도반도체배운다…전북대,기업연계교과2개신설",
   "엔비디아發‘순환금융’다시부각되나…국내반도체영향은",
   "코스피,상승전환해1%안팎등락…코스닥은다시하락",
-  "충청도반세권입지,'메가프로젝트'소식에덩달아주목"
+  "충청도반세권입지,'메가프로젝트'소식에덩달아주목",
+  "한투운용,5대전략산업투자ETF상장",
+  "SKhynix-BackedSPCBecomesKioxia'sLargestShareholder",
+  "AssetManagersRejectETFAfter-HoursMarketPlan",
+  "[위클리오늘]산업일반소식_SK쉴더스,한화솔루션(8.11)",
+  "\"인수설은사실무근\"…현대차,렌터카사업'기존사업확장'에방점",
+  "서울대생“삼전닉스가자”…컴공지고‘전기·정보’떴다",
+  "외로움을달래는방법으로서의몰아보기"
  ],
  "recent_sigs": [
   [
@@ -7071,9 +7071,33 @@
   [
    "2026-08-11T12:51:14.232673+09:00",
    "메가프로젝트 입지 주목 충청도 덩달아 반세권 소식에"
+  ],
+  [
+   "2026-08-11T13:01:24.535372+09:00",
+   "Kioxia SPC Shareholder Becomes Backed Largest hynix"
+  ],
+  [
+   "2026-08-11T13:01:24.535372+09:00",
+   "Hours Asset After Managers Plan Market Reject ETF"
+  ],
+  [
+   "2026-08-11T13:01:24.535372+09:00",
+   "SK쉴더스 산업일반 소식 한화솔루션"
+  ],
+  [
+   "2026-08-11T13:01:24.535372+09:00",
+   "인수설은 확장 기존 현대차 렌터카 사업 방점 사실무근"
+  ],
+  [
+   "2026-08-11T13:01:24.535372+09:00",
+   "컴공 정보 지고 가자 삼전닉스 전기 떴다 서울대생"
+  ],
+  [
+   "2026-08-11T13:01:24.535372+09:00",
+   "몰아보기 방법으로서의 달래는 외로움을"
   ]
  ],
- "last_run": "2026-08-11T12:51:20.849146+09:00",
+ "last_run": "2026-08-11T13:01:44.858208+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7684,6 +7708,7 @@
   "dailyvet.co.kr": "dailyvet.co.kr",
   "celuvmedia.com": "www.celuvmedia.com",
   "knpnews.com": "한국원자력신문",
-  "gw.newdaily.co.kr": "뉴데일리"
+  "gw.newdaily.co.kr": "뉴데일리",
+  "psychiatricnews.net": "정신의학신문"
  }
 }
