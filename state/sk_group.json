@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01443206645545680",
-  "https://www.busan.com/view/busan/view.php?code=2026080911385764223",
-  "https://www.hani.co.kr/arti/economy/finance/1272030.html",
-  "http://www.4th.kr/news/articleView.html?idxno=2116032",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257038",
-  "https://www.g-enews.com/view.php?ud=202608091125186987fbbec65dfb_1",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=442560",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282144",
   "https://www.sedaily.com/article/20077272",
   "https://www.dynews.co.kr/news/articleView.html?idxno=860824",
   "http://www.segyebiz.com/newsView/20260809507545?OutUrl=naver",
@@ -2999,17 +2991,17 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695417&plink=ORI&cooper=NAVER",
   "https://www.hankookilbo.com/news/article/A2026073113470002422?did=NA",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213662",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739759"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=739759",
+  "https://www.etnews.com/20260811000029",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691834",
+  "https://www.koreabiomed.com/news/articleView.html?idxno=32734",
+  "http://www.yonhapnewstv.co.kr/news/MYH202608110908121V8",
+  "https://www.sentv.co.kr/article/view/sentv202608110013",
+  "https://www.the-today.com/news/articleView.html?idxno=88315",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=607992",
+  "https://dealsite.co.kr/articles/166050"
  ],
  "seen_titles": [
-  "SK하이닉스‘11주하한가’충격에…NXT,12일부터상·하한가주문금...",
-  "[경제소식]이동약자위한PBV..현대차그룹,PV5WAV영상1천만뷰돌파",
-  "[AI칩지정학]⑰브로드컴은왜혼자남았나···퀄컴·인텔살린트럼...",
-  "AI마진180bp입증…S&P500영업이익률올렸다",
-  "DB하이텍,국가나노팹플랫폼에반도체장비3대기증…MEMS공정용열처...",
-  "전남광주특별시,국내최대400MW태양광발전사업해남서첫삽",
-  "“다신국장안해”美로떠나는개미들…“코스피신뢰빠르게악화”...",
-  "\"AI그림일기로인재키운다\"순천향대·SKT맞손",
   "‘성과급체계불만’SK하이닉스,생산·기술직아우른통합노조만든...",
   "환율1300원대눈앞…변동성금융위기후최대",
   "영업비밀中회사에유출한SK하이닉스전직원2심서도실형",
@@ -6001,7 +5993,15 @@
   "AI경쟁뒤처진애플…도대체애플은뭘믿고있는걸까?[스프]",
   "\"TSMC다니냐아니냐로갈린세상\"…대만의'초양극화',한국도안전하...",
   "[기술주권시대LLM전략①]AI접근제한현실화···'기술주권'부...",
-  "폴리뉴스모닝브리핑8월11일화요일"
+  "폴리뉴스모닝브리핑8월11일화요일",
+  "해외데이터이용자,e심이로밍제쳤다",
+  "델테크놀로지스,25일'DTF2026'개최...성과내는AI전략공유",
+  "MaternalvaccinationjoinsKorea's3-wayracetoprotectinfantsfrom",
+  "[속보]코스피·코스닥동반하락출발",
+  "SK하이닉스빚투1년새438%폭증…반도체급락장에‘반대매매’경고...",
+  "[이슈]떨어지는데600억더샀다…최윤의OK저축은행,레버리지베팅'쓴...",
+  "SK하이닉스통합노조추진:메디컬투데이TV",
+  "하이닉스1인,의사1인…컴퍼니케이이사회에독립채색"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,21 @@
   [
    "2026-08-11T09:06:27.324496+09:00",
    "화요일 11일 폴리뉴스 8월 모닝브리핑"
+  ],
+  [
+   "2026-08-11T09:11:05.488962+09:00",
+   "떨어지는데 샀다 최윤의 600억 베팅 OK저축은행 레버리지"
+  ],
+  [
+   "2026-08-11T09:11:05.488962+09:00",
+   "메디컬투데이TV SK하이닉스 통합노조"
+  ],
+  [
+   "2026-08-11T09:11:05.488962+09:00",
+   "이사회에 채색 1인 독립 의사 컴퍼니케이 하이닉스"
   ]
  ],
- "last_run": "2026-08-11T09:06:59.300479+09:00",
+ "last_run": "2026-08-11T09:11:16.836885+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
