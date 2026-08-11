@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429389",
-  "https://www.sportsseoul.com/news/read/1627728",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=320634",
-  "http://www.inews24.com/view/1993442",
   "https://www.econotimes.com/Asian-Stocks-Rise-as-Weak-US-Jobs-Data-Eases-Fed-Rate-Hike-Bets-1749012",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587054627771",
   "https://www.dt.co.kr/article/12077399",
@@ -2999,13 +2995,13 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458090",
   "https://www.nocutnews.co.kr/news/6561535",
   "https://www.betanews.net/article/view/beta202608110061",
-  "https://www.tokenpost.kr/news/market/388427"
+  "https://www.tokenpost.kr/news/market/388427",
+  "http://www.kjdaily.com/article.php?aid=1786448034684345227",
+  "https://kjmbc.co.kr/NewsArticle/1531736",
+  "https://www.seoul.co.kr/news/economy/2026/08/11/20260811500054?wlog_tag3=naver",
+  "http://www.cctimes.kr/news/articleView.html?idxno=921380"
  ],
  "seen_titles": [
-  "'반도체저승사자'모건스탠리\"메모리반도체주조정끝\"…삼전·닉스...",
-  "메모리반도체슈퍼사이클지속…S7테마,대형주중심동반상승랠리",
-  "이대통령,3대메가2차회의…군공항점검",
-  "[경제읽기]코스닥급등에매수사이드카…조만간주택공급대책",
   "[민주유통가]우아한형제들·컬리·이랜드월드",
   "반도체에'조·방·원'담았다…한투운용,韓전략산업고루담은ETF출...",
   "ETFAssetsShrinkasKoreanStocksTumble…SamsungLosesKRW26Trillio",
@@ -6001,7 +5997,11 @@
   "[포토]SK쉴더스,'제20회국제시큐리티콘퍼런스'참가",
   "롯데,美사모펀드에렌터카1위롯데렌탈매각…1조3천억원",
   "'수급개선견인'원·달러환율,2.5원내린1415.9원마감...10개월만에...",
-  "1529만달러메모리롱축소주문,400만달러재매수대기"
+  "1529만달러메모리롱축소주문,400만달러재매수대기",
+  "[오늘증시]삼성전자·SK하이닉스거래대금10.9조",
+  "\"2029년반도체공장완공\"..호남반도체프로젝트윤곽",
+  "삼전닉스실적뜯어보니마이크론까지‘화들짝’…그래도기회는있다...",
+  "청주-호남권반도체특별법1호`각축'"
  ],
  "recent_sigs": [
   [
@@ -7043,9 +7043,17 @@
   [
    "2026-08-11T20:41:06.161020+09:00",
    "재매수 400만달러 주문 축소 대기 1529만달러 메모리"
+  ],
+  [
+   "2026-08-11T20:51:04.185698+09:00",
+   "있다 그래도 화들짝 기회는 삼전닉스 뜯어보니 실적 마이크론까지"
+  ],
+  [
+   "2026-08-11T20:51:04.185698+09:00",
+   "각축 호남권 청주 반도체특별법 1호"
   ]
  ],
- "last_run": "2026-08-11T20:41:13.000331+09:00",
+ "last_run": "2026-08-11T20:51:12.600132+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
