@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://ent.sbs.co.kr/news/article.do?article_id=E10010320376&plink=ORI&cooper=NAVER",
-  "https://www.sisajournal.com/news/articleView.html?idxno=382939",
-  "https://www.viva100.com/article/20260810500534",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269729",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739636",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309744&inflow=N",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429381",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190760",
-  "https://www.munhwa.com/article/11608450",
-  "https://www.goal.com/kr/뉴스/a/blt429f09520e8e0664",
-  "https://www.sedaily.com/article/20077579",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257820&CMPT_CD=P0010",
   "https://www.sportschosun.com/entertainment/2026-08-10/202608100100054330003411",
   "https://www.newsway.co.kr/news/view?ud=2026081011095379175",
   "https://www.sisajournal.com/news/articleView.html?idxno=382944",
@@ -2999,21 +2987,21 @@
   "https://www.mt.co.kr/politics/2026/08/11/2026081117332584137",
   "https://www.joongboo.com/news/articleView.html?idxno=363733566",
   "https://www.segye.com/newsView/20260811519639?OutUrl=naver",
-  "https://www.koreajoongangdaily.com/korea/gwangjus-main-reservoir-drops-below-half-full-with-heat-stagnant-rain-absent/12819073"
+  "https://www.koreajoongangdaily.com/korea/gwangjus-main-reservoir-drops-below-half-full-with-heat-stagnant-rain-absent/12819073",
+  "https://www.news1.kr/photos/8051212",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720009",
+  "https://www.tokenpost.kr/news/market/388390",
+  "https://www.livebiz.today/news/articleView.html?idxno=204054",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314589",
+  "http://www.inews24.com/view/1994042",
+  "https://www.betanews.net/article/view/beta202608110062",
+  "https://www.nspna.com/news/?newsid=823893",
+  "https://biz.sbs.co.kr/article_hub/20000327961?division=NAVER",
+  "https://www.newsis.com/view/NISX20260811_0003745149",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000002282&cp=nv",
+  "https://www.ajunews.com/view/20260806174200259"
  ],
  "seen_titles": [
-  "3대메가프로젝트점검회의…전력·용수·규제혁신등논의",
-  "한국남동발전,해남서400MW태양광단지착공…2028년상업운전목표",
-  "반도체특별법시행령내일시행..충북클러스터지정관건",
-  "중국CXMT칩,아이폰적용시험중…메모리시장흔든다",
-  "“외환보유액아껴라”…한국등아시아,‘환율방어’공식바꿨다[...",
-  "대구와수도권오가는페가수스의뜨거운여름나기",
-  "인니진출꿈꿨던에스디생명공학JV,8년만에청산",
-  "지안,전야구선수엄정욱과결혼발표\"짧지만깊은연애끝확신\"",
-  "AI호황에곳간두둑해진삼성전자…특별배당기대커진다",
-  "용인시의회,다낭과반도체·AI협력논의…“교류를실질적성과로”",
-  "SK하이닉스통합노조출범이갖고올'나비효과'…임단협'성과급교섭...",
-  "성과급갈등풀어낸SK하이닉스vs키운삼성전자…반도체노사'엇갈린...",
   "반도체발회복세다시'확대'…제조업생산5.8%반등",
   "\"달러-원연내1,300원대접촉확률93%…무질서땐원·엔비동조\"",
   "속도전택한SK하이닉스청주M17…엔터프라이즈SSD·피지컬AI맞춤형...",
@@ -6001,45 +5989,21 @@
   "[현장+]용인산단둘러본與...\"인허가속도높여야,건축법개정\"",
   "[정상환칼럼]경기도,이제파워브랜드로",
   "반도체주52시간논란에…“요청땐사회적대화”",
-  "Gwangju'smainreservoirdropsbelowhalffullwithheatstagnant,rai"
+  "Gwangju'smainreservoirdropsbelowhalffullwithheatstagnant,rai",
+  "용인SK하이닉스반도체팹건설현장",
+  "롯데,롯데렌탈경영권美TPG에넘긴다…매각가1.3조",
+  "목표가약30%하향…삼성전자·SK하이닉스눈높이낮췄다",
+  "롯데,롯데렌탈美TPG에매각...이사회,주식매매계약(SPA)체결승인",
+  "외국인수급엇갈린반도체투톱…삼전'사고',하이닉스'팔고'",
+  "SK하이닉스투자SPC,키옥시아최대주주로",
+  "\"SK하이닉스,추가주주환원규모40조달할것\"-미래에셋證",
+  "[사업추진브리핑]용인시,세계최대반도체클러스터향해잰걸음…‘...",
+  "[집중진단]10시넘어급등한삼성전자주가…4%올라24만원코앞,갑자...",
+  "[올댓차이나]홍콩증시,중동정세불투명에반락마감…H주1.09%↓",
+  "증시흔들리자떠났나…국내주식ETF이달7150억빠졌다",
+  "\"밀어주고끌어주고\"…유망바이오텍발굴경쟁'활활'"
  ],
  "recent_sigs": [
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "세계 수출품 제패한"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "카카오 브런치북 출간 출판 정식 수상작"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "경험 이상천 상무 베트남 모빌리티 스마트 EV 현장 로지시스 운영"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "hynix Kioxia Backed Largest SPC Becomes Shareholder"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "산업일반 소식 한화솔루션 SK쉴더스"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "ETF Managers Reject After Asset Hours Plan Market"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "지고 전기 정보 떴다 컴공 서울대생 가자 삼전닉스"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "기존 사실무근 사업 방점 확장 렌터카 인수설은 현대차"
-  ],
-  [
-   "2026-08-11T13:02:43.257917+09:00",
-   "몰아보기 외로움을 방법으로서의 달래는"
-  ],
   [
    "2026-08-11T13:11:09.389802+09:00",
    "주식 변동성 주요 하반기 관리 이슈"
@@ -7267,9 +7231,25 @@
   [
    "2026-08-11T19:01:16.866649+09:00",
    "main drops full half with heat reservoir Gwangju below stagnant rain"
+  ],
+  [
+   "2026-08-11T19:11:03.895713+09:00",
+   "올라 코앞 넘어 갑자 주가 삼성전자 10시 급등한 24만원"
+  ],
+  [
+   "2026-08-11T19:11:03.895713+09:00",
+   "홍콩 중동정세 반락 마감 증시 불투명에 H주"
+  ],
+  [
+   "2026-08-11T19:11:03.895713+09:00",
+   "빠졌다 증시 떠났나 국내주식ETF 7150억 흔들리자 이달"
+  ],
+  [
+   "2026-08-11T19:11:03.895713+09:00",
+   "바이오텍 발굴 경쟁 밀어주고 활활 유망 끌어주고"
   ]
  ],
- "last_run": "2026-08-11T19:01:31.255320+09:00",
+ "last_run": "2026-08-11T19:11:18.238843+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
