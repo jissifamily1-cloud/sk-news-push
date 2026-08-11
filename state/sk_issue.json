@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260805513517?OutUrl=naver",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244692",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=133957",
-  "https://www.khan.co.kr/article/202608051333001",
-  "https://www.ytn.co.kr/_ln/0103_202608051333596970",
   "https://imnews.imbc.com/news/2026/politics/article/6842574_36911.html",
   "https://www.aitimes.com/news/articleView.html?idxno=213558",
   "https://sports.khan.co.kr/article/202608051347003?pt=nv",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260811145300004?input=1195m",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000002243&cp=nv",
   "https://www.seoul.co.kr/news/society/2026/08/11/20260811500252?wlog_tag3=naver",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383197"
+  "https://www.sisajournal.com/news/articleView.html?idxno=383197",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134206",
+  "https://news.bizwatch.co.kr/article/industry/2026/08/11/0036",
+  "https://economist.co.kr/article/view/ecn202608110049",
+  "https://www.newsis.com/view/NISX20260811_0003744983",
+  "https://imnews.imbc.com/news/2026/society/article/6843981_36918.html"
  ],
  "seen_titles": [
-  "여름휴가서돌아왔다면고인물부터흘려보내야한다…왜?",
-  "'석화제품담합'의혹LG화학·한화솔루션등7곳압색",
-  "LG화학·한화솔루션등석화업체7곳,'가격담합'혐의압수수색",
-  "검찰,‘PVC·가소제’담합의혹석유화학업체압수수색",
-  "검찰,'석유화학제품담합'압수수색...LG화학등7개기업",
   "장동혁\"경찰스타벅스압수수색,'보은수사'나선것\"",
   "오픈AI,인플루언서초청'럭셔리행사'개최…환경논란에역풍",
   "배재고,‘스타벅스가야지’선창한학생2명에중징계…따라부른10명...",
@@ -6001,7 +5996,12 @@
   "'계열사우회지원의혹'다올저축은행김정수대표피의자조사",
   "경찰,김영환전충북지사불구속송치",
   "돈봉투수수혐의김영환전충북지사불구속송치",
-  "전투기도청에군사정보수집까지…'중국군출신'중국인2명구속"
+  "전투기도청에군사정보수집까지…'중국군출신'중국인2명구속",
+  "8년묵은상품이'신상품'둔갑…농협하나로유통,과징금철퇴",
+  "한화,KAI인수'첫번째시험대'올랐다",
+  "산업은행,583억원규모금융사고발생…거래처'사기혐의'경찰수사",
+  "산업은행,거래처사기혐의로583억금융사고발생",
+  "[단독]'장윤기분리수사지시'박성주전국수본부장등피의자전환"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "롯데렌탈 SPA TPG 체결 이사회서 품으로 승인"
   ]
  ],
- "last_run": "2026-08-11T17:10:52.911607+09:00",
+ "last_run": "2026-08-11T17:20:58.063034+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
