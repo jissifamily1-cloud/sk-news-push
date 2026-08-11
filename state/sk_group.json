@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260809000128",
-  "https://www.m-economynews.com/news/article.html?no=69568",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608090205&t=NN",
-  "https://www.busan.com/view/busan/view.php?code=2026080921264130437",
   "https://www.mk.co.kr/article/12122366",
   "https://www.ekn.kr/web/view.php?key=20260809021570942",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000001568&cp=nv",
@@ -2999,13 +2995,13 @@
   "https://www.newspim.com/news/view/20260811000586",
   "https://www.newscj.com/news/articleView.html?idxno=3424142",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361583",
-  "https://www.newsway.co.kr/news/view?ud=2026081111225252424"
+  "https://www.newsway.co.kr/news/view?ud=2026081111225252424",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274554",
+  "https://www.thepowernews.co.kr/view.php?ud=202608111230159673de3f0aa1be_7",
+  "https://www.cstimes.com/news/articleView.html?idxno=716400",
+  "https://www.lawtv.kr/news/articleView.html?idxno=60642"
  ],
  "seen_titles": [
-  "이상일용인시장,다낭서'팹10기·AI행정'정책소개",
-  "SK하이닉스,생산·사무직아우르는통합노조설립본격화",
-  "\"무서운경고그애널리스트아냐?\"…삼전닉스놀라운'뷰'보니",
-  "모건스탠리“메모리주가파른조정마무리”…낙관론제시",
   "모건스탠리“메모리주급락끝났다”…“지금이재진입기회”",
   "1600원넘보던환율,한달새1400원대초반으로↓…1~7월월평균변동...",
   "[포토]환율10개월만에최저",
@@ -6001,7 +5997,11 @@
   "[프로축구]'전북전해트트릭'제주네게바,K리그122RMVP",
   "[농구]남자프로새시즌10월3일시작…개막전은KCC-LG",
   "[ETF신상품]한투·KB자산운용국내반도체·美우주위성에투자",
-  "SKTA.XK2,국제수학올림피아드금메달기준넘었다…글로벌AI와어깨..."
+  "SKTA.XK2,국제수학올림피아드금메달기준넘었다…글로벌AI와어깨...",
+  "[CompanyFocus]SK하이닉스출자SPC,日키옥시아최대주주등극…글로...",
+  "하나證“SK바이오팜,아제투칼너우려내려놔도…엑스코프리성장이상...",
+  "국내주식형ETF,올해첫자금유출…8월7000억원빠져나가",
+  "'속도전'광주군공항반도체클러스터,'전력'과'물'확보는여전히숙..."
  ],
  "recent_sigs": [
   [
@@ -7095,9 +7095,13 @@
   [
    "2026-08-11T12:21:05.838279+09:00",
    "단초 관심 반등 주주환원 삼전닉스 집중 될까 주가"
+  ],
+  [
+   "2026-08-11T12:41:10.808948+09:00",
+   "전력 군공항 광주 반도체클러스터 속도전 여전히 확보는"
   ]
  ],
- "last_run": "2026-08-11T12:31:15.448995+09:00",
+ "last_run": "2026-08-11T12:41:17.090205+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
