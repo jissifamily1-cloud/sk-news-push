@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260805000763",
-  "https://www.yna.co.kr/view/AKR20260805100000054?input=1195m",
-  "https://www.greened.kr/news/articleView.html?idxno=346905",
-  "https://www.cstimes.com/news/articleView.html?idxno=715829",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719252",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=607448",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725715",
   "https://www.hankookilbo.com/news/article/A2026080513360005155?did=NA",
   "https://www.kyeonggi.com/article/20260805580263",
@@ -2999,15 +2993,15 @@
   "https://www.tokenpost.kr/news/cryptocurrency/388386",
   "https://view.asiae.co.kr/article/2026081118542294129",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1093398",
-  "https://news.jtbc.co.kr/article/NB12312857?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12312857?influxDiv=NAVER",
+  "https://www.greened.kr/news/articleView.html?idxno=347389",
+  "https://www.livebiz.today/news/articleView.html?idxno=204054",
+  "https://www.greened.kr/news/articleView.html?idxno=347346",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314598",
+  "http://www.footballist.co.kr/news/articleView.html?idxno=213502",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720009"
  ],
  "seen_titles": [
-  "[이젠경찰개혁]③제식구감싸기'여전'…독립민간감시기구'시급...",
-  "李대통령'군공항이전'공개질책에무안군\"협조\"",
-  "검찰,애경케미칼등석화업체7곳압수수색…PVC담합의혹강제수사",
-  "배달비떠넘기고위약금폭탄…청년피자,공정위과징금2억",
-  "\"배달비0원강제는불공정\"...공정위,'청년피자'에과징금1억9700만원...",
-  "청년피자,점주에'무료배달'강요…공정위과징금2억원",
   "'8주넘으면전문의심사'…자동차보험장기치료관리강화",
   "스타벅스압수수색에…국힘주진우\"중국식공안국가의서막\"",
   "조갑제“부정선거주장은선동…선관위투표율조작아닌변칙”",
@@ -6001,7 +5995,13 @@
   "코빗,디지털엑스로상호변경등기마쳤다",
   "롯데그룹,롯데렌탈경영권美TPG에매각…1.3조원",
   "'돈봉투수수의혹'김영환송치",
-  "'장윤기사건분리수사지시'박성주전국수본부장피의자전환"
+  "'장윤기사건분리수사지시'박성주전국수본부장피의자전환",
+  "美TPG,'1.3조'에롯데렌탈품는다…후발주자거론'한국앤컴퍼니'는...",
+  "롯데,롯데렌탈美TPG에매각...이사회,주식매매계약(SPA)체결승인",
+  "금속노조,\"HL만도압수수색전정보유출의혹…진상조사해야\"",
+  "산업은행,583억원대출놓고거래처사기혐의경찰수사…손실규모는...",
+  "[현장]박지성공동위원장\"7차회의는팬들도함께참여…심판성접대...",
+  "롯데,롯데렌탈경영권美TPG에넘긴다…매각가1.3조"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "팔아 롯데렌탈 실탄 3조 살린다 호텔사업"
   ]
  ],
- "last_run": "2026-08-11T19:01:07.595867+09:00",
+ "last_run": "2026-08-11T19:10:55.051432+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
