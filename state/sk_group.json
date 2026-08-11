@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6548698",
-  "http://www.bizwnews.com/news/articleView.html?idxno=141396",
-  "https://www.ekn.kr/web/view.php?key=20260720029433996",
-  "https://www.dt.co.kr/article/12073685",
-  "https://www.segye.com/newsView/20260720515440?OutUrl=naver",
-  "https://www.mydaily.co.kr/page/view/2026072015234345657",
-  "https://www.cwn.kr/news/articleView.html?idxno=52751",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2261521",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855702",
   "https://www.job-post.co.kr/news/articleView.html?idxno=223555",
@@ -2999,16 +2992,16 @@
   "https://www.tournews21.com/news/articleView.html?idxno=140788",
   "https://biz.sbs.co.kr/article_hub/20000328118?division=NAVER",
   "https://www.yna.co.kr/view/AKR20260812017600008?input=1195m",
-  "https://www.etoday.co.kr/news/view/2613454"
+  "https://www.etoday.co.kr/news/view/2613454",
+  "https://www.kbmaeil.com/article/20260812500027",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200033.html",
+  "https://www.mk.co.kr/article/12124853",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03355446645546664",
+  "https://news.dealsitetv.com/articles/174557",
+  "https://www.youthdaily.co.kr/news/article.html?no=224936",
+  "https://www.ytn.co.kr/_ln/0102_202608120800033760"
  ],
  "seen_titles": [
-  "\"해고취소하고9.5억원달라\"…SK하닉출장지'1분'체류하고해고된전...",
-  "엠엑스온,로봇자회사지배력확대...\"반도체자동화시너지강화\"",
-  "장기투자하라더니정책은오락가락…개미들다시美증시로",
-  "프로농구,10월3일개막…‘KCCvsLG’공식개막전",
-  "'챔프전우승'KCCvs'정규리그우승'LG,공식개막전성사...2026-2027K...",
-  "SK,행복나래와'SK임팩트부스터'9개사확정",
-  "'휴먼코드'고른정재헌CEO...사람·조직에서시작한SKT의AI전환",
   "울산시,SK·S-OIL과지역현안·투자협력방안논의",
   "울산시,SK·S-OIL본사방문해AI데이터센터투자·지역협력논의",
   "김상욱울산시장,SK·에쓰오일본사방문…투자협력논의",
@@ -6001,7 +5994,14 @@
   "용인국도45호선확장'첫발'…용인반도체메가클러스터인프라구축...",
   "[애프터마켓리뷰]위메이드맥스상한가…'윈드러너키우기'흥행",
   "[마켓뷰]탄력둔화한코스피,눈치장세이어지나",
-  "[증시키워드]네이버,구글에이용자수첫역전⋯현대차노조추가파..."
+  "[증시키워드]네이버,구글에이용자수첫역전⋯현대차노조추가파...",
+  "코스피,반도체훈풍타고3일째오를까…호르무즈·CPI변수",
+  "[속보]삼전닉스프리장1%↑…인플레우려에美증시하락",
+  "찬양받던국장,찬밥됐다…초고액자산가돈빼서해외·안전자산으로",
+  "\"코스피변동성정점통과...레버리지ETF충격7월말부터벗어나\"",
+  "[최태원AI전략미스매치]케파올인…R&D'찔끔'경쟁력약화",
+  "中CXMT,애플공급망에'노크'…삼전닉스대항마로'급부상'",
+  "\"삼전닉스빠진다면대한민국주식다팔아야\"지금이바닥?"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,29 @@
   [
    "2026-08-12T08:02:07.592129+09:00",
    "역전 이용자 구글에 네이버 현대차 추가 노조"
+  ],
+  [
+   "2026-08-12T08:11:14.039743+09:00",
+   "초고액자산가 안전자산으로 해외 국장 찬밥됐다 찬양받던 빼서"
+  ],
+  [
+   "2026-08-12T08:11:14.039743+09:00",
+   "충격 말부터 정점 7월 코스피 벗어나 변동성 레버리지ETF 통과"
+  ],
+  [
+   "2026-08-12T08:11:14.039743+09:00",
+   "올인 찔끔 경쟁력 약화 케파"
+  ],
+  [
+   "2026-08-12T08:11:14.039743+09:00",
+   "대항마로 CXMT 공급망에 삼전닉스 노크 급부상 애플"
+  ],
+  [
+   "2026-08-12T08:11:14.039743+09:00",
+   "팔아야 바닥 빠진다면 대한민국 삼전닉스 주식 지금이"
   ]
  ],
- "last_run": "2026-08-12T08:02:47.381581+09:00",
+ "last_run": "2026-08-12T08:11:30.455415+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
