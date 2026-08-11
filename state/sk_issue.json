@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hidomin.com/news/articleView.html?idxno=716028",
-  "https://www.yna.co.kr/view/AKR20260805060700004?input=1195m",
-  "https://economist.co.kr/article/view/ecn202608050018",
-  "https://news.jtbc.co.kr/article/NB12311793?influxDiv=NAVER",
-  "http://www.newsprime.co.kr/news/article.html?no=742753",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/05/2026080590103.html",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=607408",
   "https://www.hankyung.com/article/202608055974g",
   "https://www.youthdaily.co.kr/news/article.html?no=224544",
   "https://www.gokorea.kr/news/articleView.html?idxno=874185",
@@ -2999,16 +2992,16 @@
   "https://www.goodmorningcc.com/news/articleView.html?idxno=450458",
   "https://www.imaeil.com/page/view/2026081114084703322",
   "http://worknworld.kctu.org/news/articleView.html?idxno=509788",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700064&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700064&plink=ORI&cooper=NAVER",
+  "http://www.whosaeng.com/172761",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120062",
+  "https://www.livebiz.today/news/articleView.html?idxno=204034",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134204",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608110701&t=NN",
+  "https://www.ppss.kr/news/articleView.html?idxno=304979",
+  "https://www.khan.co.kr/article/202608111427001"
  ],
  "seen_titles": [
-  "막내린검찰수사권…'중수청·공소청'출범앞두고'과제산적'",
-  "검찰,'전쟁틈타PVC등담합'의혹으로석화업체7곳압수수색",
-  "'탱크데이'스타벅스2개월만에압수수색…'고의성여부'밝혀질까",
-  "'탱크데이'자체감사'부실정황'에...경찰,스타벅스압수수색",
-  "경찰,'탱크데이논란'스타벅스본사압수수색…고의성규명",
-  "野주진우\"스벅압색,중국식공안국가서막신호탄\"",
-  "빗썸,30억배상안거부…IPO앞규제리스크커지나",
   "'8500억적자'쿠팡에날아든1조원과징금·세금청구서",
   "[이슈60초]\"미운털박혀표적수사?\"현정권압력설속뜬금없는'스...",
   "스타벅스'탱크데이'논란…압수수색까지,경찰본격수사착수",
@@ -6001,7 +5994,14 @@
   "경찰압수수색에충남전교조거센반발…엇갈린'수사적법성'",
   "'중국군출신'2명국내서군사기밀수집…한미군사시설노렸다",
   "\"경찰은전교조표적수사와노조탄압을즉각중단하라\"",
-  "[뉴스브리핑]오늘의주요뉴스…콜롬비아규모7.4강진…600여명사상"
+  "[뉴스브리핑]오늘의주요뉴스…콜롬비아규모7.4강진…600여명사상",
+  "검체검사입찰‘706건’담합의혹…공정위심의착수",
+  "LF네트웍스,납품업체에판촉비전가·경쟁백화점영업정보요구로제...",
+  "공정위,국공립병원검체검사입찰담합한7개의료법인제재착수...과...",
+  "판촉비떠넘기고매출정보캐낸LF네트웍스,공정위'철퇴'",
+  "한화,KAI지분15%넘겼다…\"조건부승인유력\"",
+  "공정위,의료업체7곳검체검사담합의혹...관련매출6000억원",
+  "‘무허가교량’남원람천에또하수논란···처리용량초과‘탁한..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카 TPG 판다 롯데 인수 3조에 자기자본으로 전량"
   ]
  ],
- "last_run": "2026-08-11T14:21:51.750949+09:00",
+ "last_run": "2026-08-11T14:31:02.207133+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
