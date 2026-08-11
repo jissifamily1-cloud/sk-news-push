@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260810096000009?input=1195m",
-  "https://www.g-enews.com/view.php?ud=202608101428493283084322ec9_1",
-  "https://www.meconomynews.com/news/articleView.html?idxno=200385",
-  "https://www.newsis.com/view/NISX20260810_0003742511",
-  "https://www.joongangenews.com/news/articleView.html?idxno=539044",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=512222",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257080",
   "https://www.huffingtonpost.kr/article/259423",
   "https://www.meconomynews.com/news/articleView.html?idxno=200384",
   "https://www.sportsworldi.com/newsView/20260810515012",
@@ -2999,16 +2992,16 @@
   "https://view.asiae.co.kr/article/2026081115252275354",
   "https://www.etoday.co.kr/news/view/2613451",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=142911",
-  "https://dealsite.co.kr/articles/166980"
+  "https://dealsite.co.kr/articles/166980",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608120355&t=NN",
+  "https://www.ajunews.com/view/20260812072442783",
+  "https://biz.sbs.co.kr/article_hub/20000328115?division=NAVER",
+  "http://www.newsprime.co.kr/news/article.html?no=743536",
+  "https://www.newsway.co.kr/news/view?ud=2026081123420910955",
+  "http://www.kwangju.co.kr/article.php?aid=1786486800802188127",
+  "https://www.munhwa.com/article/11608888"
  ],
  "seen_titles": [
-  "주가크게떨어진삼전닉스…“반도체사이클상승국면종료는아냐”",
-  "이재명대통령,호남반도체클러스터'전격전'주문",
-  "이대통령“광주군공항2028년중순까지임시이전…반도체산단조기...",
-  "'세계반도체빅3체제'균열주범,중국창신메모리의현주소는",
-  "[셀럽의한수]시장,최근경기침체보다'물가·금리'먼저확인",
-  "[1%초고수의선택]'SK하이닉스'팔고'제주반도체'샀다",
-  "금융정책변화에코스피200변동성지수급락…투자자들'예의주시'",
   "Wonnears1,400aftersharpestswingssincefinancialcrisis",
   "\"체질바뀌는코스닥…9월이후1000선회복\"-NH",
   "TSMC,타오위안1.4나노공장재추진…\"반대주민들돌아서\"",
@@ -6001,7 +5994,14 @@
   "“SK하이닉스,40조원규모'통큰주주환원'기대”[클릭e종목]",
   "전남광주광산구,반도체기업지원·인력양성체계구축",
   "[오늘의글로벌마켓]뉴욕증시,유가상승속3대지수하락세",
-  "삼전닉스출신김태훈의IHW…시리즈A520억유치"
+  "삼전닉스출신김태훈의IHW…시리즈A520억유치",
+  "\"삼전닉스역대급실적인데주주는?\"…반등구원투수'150조풀릴까'기...",
+  "[뉴욕증시마감]호르무즈협상난항·CPI경계에3대지수하락…하이...",
+  "[마켓프리뷰]코스피·코스닥모두'강보합'…中도체이어로봇출격",
+  "뉴파워프라즈마,'삼성·하이닉스·TSMC까지품은'반도체숨은강자…\"...",
+  "SK하이닉스통합노조출범임박…\"성과급현금지급원칙지킨다\"",
+  "‘총론찬성,각론반대론’을경계하자",
+  "“첫만남선직장숨겨요”삼전닉스직원의소개팅-WSJ"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,21 @@
   [
    "2026-08-12T07:21:12.018347+09:00",
    "김태훈의 IHW 시리즈A 유치 삼전닉스 출신 520억"
+  ],
+  [
+   "2026-08-12T07:31:13.704948+09:00",
+   "현금 SK하이닉스 지킨다 통합노조 지급 원칙 성과급 출범 임박"
+  ],
+  [
+   "2026-08-12T07:31:13.704948+09:00",
+   "찬성 총론 반대론 각론 경계하자"
+  ],
+  [
+   "2026-08-12T07:31:13.704948+09:00",
+   "직장 직원의 숨겨요 삼전닉스 만남선 소개팅 WSJ"
   ]
  ],
- "last_run": "2026-08-12T07:21:41.303219+09:00",
+ "last_run": "2026-08-12T07:31:25.888344+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
