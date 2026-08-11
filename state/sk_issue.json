@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3422673",
-  "https://biz.heraldcorp.com/article/10831923",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3656526",
-  "https://news.jtbc.co.kr/article/NB12311841?influxDiv=NAVER",
-  "https://www.newsis.com/view/NISX20260805_0003737525",
   "https://www.newspim.com/news/view/20260805000763",
   "https://www.yna.co.kr/view/AKR20260805100000054?input=1195m",
   "https://www.greened.kr/news/articleView.html?idxno=346905",
@@ -2999,14 +2994,14 @@
   "https://www.segye.com/newsView/20260811519633?OutUrl=naver",
   "https://www.tfmedia.co.kr/news/article.html?no=206392",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317800",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634122"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634122",
+  "https://www.tfmedia.co.kr/news/article.html?no=206393",
+  "https://www.tokenpost.kr/news/cryptocurrency/388386",
+  "https://view.asiae.co.kr/article/2026081118542294129",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1093398",
+  "https://news.jtbc.co.kr/article/NB12312857?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "매출13조쿠팡,상반기적자만왜1조넘었나",
-  "가맹점에‘배달비0원’특약강요한청년피자…과징금2억원",
-  "장동혁\"스타벅스압수수색,경찰'정권충견'자처?\"",
-  "국힘,경찰'스벅압색'에\"보은수사…기업마케팅까지공권력이개입...",
-  "토스이어카카오도핀테크'금융복합기업집단'문턱넘을까",
   "[이젠경찰개혁]③제식구감싸기'여전'…독립민간감시기구'시급...",
   "李대통령'군공항이전'공개질책에무안군\"협조\"",
   "검찰,애경케미칼등석화업체7곳압수수색…PVC담합의혹강제수사",
@@ -6001,7 +5996,12 @@
   "검사40명vs수사관500명…중수청채용설명회‘온도차’",
   "산은583억금융사고,자체점검아닌경찰수색서포착",
   "극동방송'임성근구명로비연루의혹'김장환이사장해명방송법정...",
-  "‘계열사우회지원의혹’다올저축은행김정수대표피의자조사"
+  "‘계열사우회지원의혹’다올저축은행김정수대표피의자조사",
+  "롯데그룹,TPG와롯데렌탈매각계약체결…지분61.2%전량매각",
+  "코빗,디지털엑스로상호변경등기마쳤다",
+  "롯데그룹,롯데렌탈경영권美TPG에매각…1.3조원",
+  "'돈봉투수수의혹'김영환송치",
+  "'장윤기사건분리수사지시'박성주전국수본부장피의자전환"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "팔아 롯데렌탈 실탄 3조 살린다 호텔사업"
   ]
  ],
- "last_run": "2026-08-11T18:50:53.747337+09:00",
+ "last_run": "2026-08-11T19:01:07.595867+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
