@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3422672",
-  "https://www.newsis.com/view/NISI20260805_0021389238",
-  "https://www.newspim.com/news/view/20260805001028",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404889",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313900",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313898",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719242",
-  "https://www.newsis.com/view/NISX20260805_0003737582",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04906886645544368",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209206",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=607417",
   "https://www.upkoreanews.kr/news/articleView.html?idxno=99635",
   "https://www.sentv.co.kr/article/view/sentv202608050138",
@@ -2999,19 +2989,19 @@
   "https://www.jbnews.com/news/articleView.html?idxno=1509282",
   "https://www.ytn.co.kr/_ln/0103_202608111816074411",
   "https://biz.chosun.com/stock/finance/2026/08/11/KRXABHYYCZEJLIXCNIRF5BQSQA/",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100297.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100297.html",
+  "https://www.chosun.com/economy/industry-company/2026/08/11/W6QKWJ2XIRGFFNSAZCTYWQG334/",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120090",
+  "https://www.ytn.co.kr/_ln/0115_202608111828470485",
+  "https://www.hankookilbo.com/news/article/A2026081116510004205?did=NA",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120088",
+  "https://www.mk.co.kr/article/12124356",
+  "https://www.econovill.com/news/articleView.html?idxno=747719",
+  "https://www.hankyung.com/article/2026081149361",
+  "https://www.newsis.com/view/NISX20260811_0003745111",
+  "https://biz.sbs.co.kr/article_hub/20000328078?division=NAVER"
  ],
  "seen_titles": [
-  "[천지TV쇼츠]경찰,'탱크데이'논란스타벅스첫압수수색",
-  "경찰,스타벅스코리아본사압수수색",
-  "檢'AI녹취시스템'개발후음성파일1만9000건분석했다",
-  "생활가전브랜드다룸자동센서쓰레기통일부품목품절",
-  "LKB평산,밀가루·설탕·전분담합이어제지사담합손해배상소송참여...",
-  "'을의협상력'강화나선공정위에프랜차이즈'발칵'…\"단체협의안응...",
-  "'설상가상'쿠팡…적자1조에세금3000억·화재손실3500억",
-  "검찰직접수사권폐지…공정위고발사건수사체계변화",
-  "노동장관\"청년'첫경력'책임제다음주발표…국가책임감높여야\"",
-  "공정위,'배달비0원특약강제'청년피자제재",
   "경찰,스타벅스'탱크데이'본사압수수색…고의성·윗선규명속도",
   "메리츠증권전직임직원비리에도내부통제실효성은여전히'깜깜이'",
   "경찰,‘탱크데이’논란스타벅스본사압수수색",
@@ -6001,7 +5991,17 @@
   "'체육계금품3천만원수수혐의'김영환전충북지사불구속송치",
   "'계열사우회지원의혹'다올저축은행대표피의자조사",
   "산업은행,거래처사기혐의로580억원규모금융사고발생",
-  "롯데,롯데렌탈美TPG에매각…어피니티무산후새주인찾았다"
+  "롯데,롯데렌탈美TPG에매각…어피니티무산후새주인찾았다",
+  "롯데,美사모펀드에롯데렌탈매각…1조3000억원확보",
+  "'계열사자금우회지원의혹'김정수다올저축은행대표피의자조사",
+  "장윤기'분리수사'지시박성주전국수본부장피의자전환",
+  "공수처\"형소법부칙만으론수사권불안정\"난색표한이유",
+  "산업은행,거래처사기혐의로583억원대금융사고리스크발생",
+  "전투기교신엿듣고훈련자료빼돌리고…중국군출신2명구속",
+  "롯데그룹,TPG와롯데렌탈매각본계약체결…1조3105억원에매각",
+  "[단독]美TPG,롯데렌탈1.3조원에인수한다",
+  "롯데,롯데렌탈1.3조매각…\"핵심사업중심포트폴리오조정\"(종합)",
+  "롯데렌탈팔아1.3조'실탄'…호텔사업살린다"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-08-11T18:20:51.218473+09:00",
    "주인 롯데 어피니티 매각 무산 TPG에 롯데렌탈 찾았다"
+  ],
+  [
+   "2026-08-11T18:31:14.425027+09:00",
+   "팔아 롯데렌탈 실탄 3조 살린다 호텔사업"
   ]
  ],
- "last_run": "2026-08-11T18:20:59.382209+09:00",
+ "last_run": "2026-08-11T18:31:20.978667+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
