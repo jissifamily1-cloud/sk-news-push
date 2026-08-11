@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260810500320",
-  "https://www.newsis.com/view/NISX20260810_0003743181",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=607862",
-  "https://www.ajunews.com/view/20260810152859467",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92986",
   "https://www.bloter.net/news/articleView.html?idxno=670461",
   "https://vop.co.kr/A00001696156.html",
   "https://biz.sbs.co.kr/article_hub/20000327722?division=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=115348",
   "https://www.sentv.co.kr/article/view/sentv202608120007",
   "https://www.newspim.com/news/view/20260812000139",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52097"
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52097",
+  "https://mhnse.com/news/articleView.html?idxno=1485954",
+  "https://www.joongangenews.com/news/articleView.html?idxno=539512",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050480",
+  "https://www.welfarenews.net/news/articleView.html?idxno=209480",
+  "https://www.tokenpost.kr/news/market/388793"
  ],
  "seen_titles": [
-  "유티아이,폴더블UTG양산진입…30억소액공모추진",
-  "[문화인사이드]BTS월드투어와영화‘오디세이’,반도체수출",
-  "준공2년차'송도럭스오션SK뷰'외벽테라스추락",
-  "[분석]반도체에울고웃는증시…\"변동성버티려면美배당주를보라\"",
-  "우주청,K-우주데이터센터개발위한AI·ICT기업간담회진행",
   "K콘텐츠해외진출돕는다...법무법인신원,‘엔터테크크로스보더팀...",
   "[이슈]\"AI데이터센터시대,ESG핵심...AX전환으로지속가능경쟁력...",
   "최수종,'최태원과이혼→9440억원재산분할'노소영만났다…\"귀한발...",
@@ -6001,7 +5996,12 @@
   "[마켓+]데이터센터짓겠다는통신3사…전력·GPU·고객·수익확보는어...",
   "SK하이닉스,'키옥시아사실상최대주주'등극…경영권행사변수",
   "\"한때세계1위였는데\"...TSMC·마이크론불러들여반도체재건나선일...",
-  "[상반기기업분석]이창재·박성수대웅제약대표,수익개선에안간힘"
+  "[상반기기업분석]이창재·박성수대웅제약대표,수익개선에안간힘",
+  "어지간한수식어로는담기힘든김진성대기록...그리고함께기억해야...",
+  "호남반도체메가특구'주52시간'풀어야하나…삼성전자·SK하이닉스...",
+  "한동훈\"민주당,李대통령공소취소하면'위헌정당'\"",
+  "밀알복지재단·행복ICT,전국시청각장애인지원체계구축위해업무협...",
+  "평택도시공사채14bp가산…SK하이닉스매수둔화관측"
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,21 @@
   [
    "2026-08-12T08:51:04.661764+09:00",
    "대표 수익 개선에 대웅제약 박성수 이창재 안간힘"
+  ],
+  [
+   "2026-08-12T08:53:04.538995+09:00",
+   "민주당 위헌정당 대통령 한동훈 공소취소하면"
+  ],
+  [
+   "2026-08-12T08:53:04.538995+09:00",
+   "업무협 시청각장애인 구축 밀알복지재단 지원체계 행복ICT 전국"
+  ],
+  [
+   "2026-08-12T08:53:04.538995+09:00",
+   "14bp 관측 평택도시공사채 SK하이닉스 매수 둔화 가산"
   ]
  ],
- "last_run": "2026-08-12T08:51:22.009956+09:00",
+ "last_run": "2026-08-12T08:53:16.563471+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
