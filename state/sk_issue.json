@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thereport.co.kr/news/articleView.html?idxno=90172",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04506726645544368",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456134",
-  "http://www.iminju.net/news/articleView.html?idxno=167632",
-  "https://news.tf.co.kr/read/life/2350611.htm",
-  "https://www.chosun.com/politics/assembly/2026/08/05/LZ6Y4G7BSVBUZBRORI5HAFJY4U/",
-  "https://www.munhwa.com/article/11607449",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008691330&plink=ORI&cooper=NAVER",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313858",
-  "https://www.mt.co.kr/politics/2026/08/05/2026080512232513313",
   "https://www.ajunews.com/view/20260805112158414",
   "http://www.nongaek.com/news/articleView.html?idxno=96313",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008691422&plink=ORI&cooper=NAVER",
@@ -2999,19 +2989,19 @@
   "https://www.sidae.com/article/2026081116085730186",
   "https://www.newsis.com/view/NISX20260811_0003744857",
   "https://www.ddaily.co.kr/page/view/2026081116194921272",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/11/2026081190186.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/11/2026081190186.html",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16361",
+  "https://www.seoulfn.com/news/articleView.html?idxno=635405",
+  "https://www.etoday.co.kr/news/view/2613273",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=354839",
+  "http://www.newstomato.com/ReadNews.aspx?no=1309852&inflow=N",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316322",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=244113",
+  "https://www.etoday.co.kr/news/view/2613369",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05943366645546336",
+  "http://www.tjb.co.kr/sub0301/bodo/view/id/102260"
  ],
  "seen_titles": [
-  "'청년피자'가맹본부과징금1억9700만원",
-  "'탱크데이'스타벅스압수수색에…장동혁\"이재명보은수사\"",
-  "비싼삼겹살알고보니···돼지고기유통6개사담합기소",
-  "檢,석유화학업체7곳압수수색…가격담합의혹수사",
-  "배재고,'탱크데이'선창야구부학생2명중징계",
-  "野,스타벅스압색에“경찰,정권의충견인가”“중국식공안국가의...",
-  "警,스벅압수수색…‘탱크데이’재소환",
-  "'탱크데이'스타벅스압수수색…자체감사부실정황",
-  "이마트돼지고기납품업체'1조2000억담합'…도드람푸드등재판행",
-  "장동혁,스타벅스압수수색에\"경찰이대국민사상검증앞잡이자처\"",
   "경찰,'탱크데이'스타벅스본사모욕죄로압수수색",
   "검찰,공정위고발없이석유화학7곳담합의혹직접수사나섰나?",
   "검찰,중동전쟁노려'PVC등담합'의혹으로석화업체7곳압수수색",
@@ -6001,7 +5991,17 @@
   "납품업체174곳에판촉비떠넘긴LF스퀘어…과징금4억원",
   "'돈봉투수수·산막뇌물혐의'김영환송치…관련자4명도(종합)",
   "산업은행,583억금융사고발생...“거래처사기”",
-  "경찰'여객기참사특별수사단',국토부·공항공사등압수수색"
+  "경찰'여객기참사특별수사단',국토부·공항공사등압수수색",
+  "한화,육·해·공·우주까지...'한국판스페이스X'마지막퍼즐KAI품나",
+  "환율하락에숨통틔였는데···또과징금리스크에은행권자본비율관...",
+  "커피더팔리는데⋯한숨깊어진사장님[커피공화국의명암]",
+  "김영환전충북지사,'돈봉투·산막인테리어'의혹검찰송치",
+  "경찰특수단,'제주항공참사'국토부·한국공항공사압수수색",
+  "김영환전충북지사,3000만원수수혐의송치",
+  "우리군교신도청에기밀유출까지…중국군출신2명구속外[오늘의...",
+  "산은,거래처사기혐의로580억원대금융사고발생",
+  "국내에서전투기교신도청하고,정보빼낸전직중국군구속",
+  "12·29여객기참사수사74명입건…국토부등추가압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "롯데렌탈 SPA TPG 체결 이사회서 품으로 승인"
   ]
  ],
- "last_run": "2026-08-11T16:31:02.445745+09:00",
+ "last_run": "2026-08-11T16:40:56.315667+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
