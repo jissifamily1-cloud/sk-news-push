@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/court-prosecution/6249746",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16276",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=439845",
   "http://www.ddanzi.com/891016021",
   "https://www.chosun.com/national/court_law/2026/08/05/4EP7I7BBIVCFXGCWLAZYZ7K54A/",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2292753",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/industry/general-industry/6255543",
   "http://www.yonhapnewstv.co.kr/news/AKR202608111458137z8",
   "http://www.00news.co.kr/news/articleView.html?idxno=105778",
-  "https://www.mt.co.kr/society/2026/08/11/2026081113103616741"
+  "https://www.mt.co.kr/society/2026/08/11/2026081113103616741",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134213",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52085",
+  "https://www.cwn.kr/news/articleView.html?idxno=52882"
  ],
  "seen_titles": [
-  "檢,LG화학·한화솔루션등7개사압수수색…'PVC·가소제담합'혐의",
-  "정부·여당ESG공시입법안나왔다…2028년법정공시추진",
-  "스타벅스5·18마케팅논란두달만에압색...경찰향한비판쏟아진...",
   "[뉴공아카이브]퍼니포:李“형사사법정상화첫출발”형소법개정안...",
   "檢‘석유화학제품가격담합의혹’석화업체7곳압수수색",
   "주진우\"스타벅스압수수색은공포정치…공안국가신호탄\"",
@@ -6001,7 +5998,10 @@
   "방산영토넓히는한화…KDDX·무인차량따내고KAI겨냥",
   "전투기도청하고한미훈련자료빼돌려…중국군출신2명구속",
   "'12·29무안공항여객기참사'국토부·공항공사압수수색",
-  "'스타벅스탱크데이'경찰수사속도…'모욕의도·대상특정'관건"
+  "'스타벅스탱크데이'경찰수사속도…'모욕의도·대상특정'관건",
+  "한화그룹,KAI2대주주굳혔다…지분15%넘겨공정위심사",
+  "검체검사7개사'13년담합'혐의…공정위심의착수",
+  "한국군사정보노린중국군2명구속"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "렌터카 TPG 판다 롯데 인수 3조에 자기자본으로 전량"
   ]
  ],
- "last_run": "2026-08-11T15:01:17.157535+09:00",
+ "last_run": "2026-08-11T15:11:02.907422+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
