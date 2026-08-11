@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260805112158414",
-  "http://www.nongaek.com/news/articleView.html?idxno=96313",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008691422&plink=ORI&cooper=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629164",
-  "http://www.fashionn.com/board/read_new.php?table=1024&number=61953",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=82820",
-  "https://mhnse.com/news/articleView.html?idxno=1478874",
   "http://www.yonhapnewstv.co.kr/news/MYH20260805125823XDg",
   "https://www.ngetnews.com/news/articleView.html?idxno=552143",
   "https://www.greened.kr/news/articleView.html?idxno=346876",
@@ -2999,16 +2992,16 @@
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=244113",
   "https://www.etoday.co.kr/news/view/2613369",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05943366645546336",
-  "http://www.tjb.co.kr/sub0301/bodo/view/id/102260"
+  "http://www.tjb.co.kr/sub0301/bodo/view/id/102260",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80460",
+  "http://www.4th.kr/news/articleView.html?idxno=2116143",
+  "https://www.hankookilbo.com/news/article/A2026081116420001480?did=NA",
+  "https://www.hankookilbo.com/news/article/A2026081115470005652?did=NA",
+  "https://www.ajunews.com/view/20260811164214239",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260811010003720",
+  "https://www.news1.kr/local/sejong-chungbuk/6255815"
  ],
  "seen_titles": [
-  "경찰,'탱크데이'스타벅스본사모욕죄로압수수색",
-  "검찰,공정위고발없이석유화학7곳담합의혹직접수사나섰나?",
-  "검찰,중동전쟁노려'PVC등담합'의혹으로석화업체7곳압수수색",
-  "검찰,이란전쟁틈타‘PVC담합의혹’석화업체7곳압수수색",
-  "설현,여름밤의낭만!레드민소매톱에플라워셔츠랩핑빈티지한강...",
-  "청년피자가맹본부,배달비강제및위약금폭탄...과징금1억9700만원",
-  "배재고,'5·18폄훼응원'학생징계마무리…선창학생중징계",
   "'탱크데이'스타벅스첫압수수색…모욕등혐의",
   "검찰,LG화학·한화솔루션등석화업체압수수색",
   "1조2000억매입에20%뻥튀기…디허스코리아등돼지고기담합6곳기소",
@@ -6001,7 +5994,14 @@
   "우리군교신도청에기밀유출까지…중국군출신2명구속外[오늘의...",
   "산은,거래처사기혐의로580억원대금융사고발생",
   "국내에서전투기교신도청하고,정보빼낸전직중국군구속",
-  "12·29여객기참사수사74명입건…국토부등추가압수수색"
+  "12·29여객기참사수사74명입건…국토부등추가압수수색",
+  "'병원검체검사입찰서담합'의혹녹십자의료재단등제재착수",
+  "LF네트웍스과징금4.2억원..\"판촉비전가·경쟁사경영정보요구\"",
+  "김영환전충북지사'산막뇌물,돈봉투수수혐의'불구속송치",
+  "[단독]\"가짜확인서법원에제출\"…경찰,'문서위조파문'ROTC중앙회...",
+  "산업은행,거래기업사기혐의로580억원대금융사고발생",
+  "[단독]경찰,단속뒤폐업·명의변경막는다…성인PC방‘처분공백’...",
+  "'돈봉투수수의혹'김영환전충북지사송치…강제수사1년만(종합)"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "롯데렌탈 SPA TPG 체결 이사회서 품으로 승인"
   ]
  ],
- "last_run": "2026-08-11T16:42:24.944251+09:00",
+ "last_run": "2026-08-11T16:50:57.163521+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
