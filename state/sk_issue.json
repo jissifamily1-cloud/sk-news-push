@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.idaegu.com/news/articleView.html?idxno=664851",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=439909",
-  "https://www.sedaily.com/article/20076071",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05133206645544368",
-  "https://www.news1.kr/politics/assembly/6250097",
-  "https://www.newspim.com/news/view/20260805001201",
-  "https://www.mt.co.kr/politics/2026/08/05/2026080515095342552",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546225",
-  "http://www.kdfnews.com/news/articleView.html?idxno=186124",
-  "http://www.4th.kr/news/articleView.html?idxno=2115865",
   "https://biz.heraldcorp.com/article/10831963",
   "https://wemakenews.co.kr/news/view.php?no=25976",
   "https://www.polinews.co.kr/news/articleView.html?idxno=739165",
@@ -2999,19 +2989,19 @@
   "https://www.segye.com/newsView/20260811522305?OutUrl=naver",
   "https://www.news1.kr/society/court-prosecution/6256035",
   "https://www.yna.co.kr/view/AKR20260811161900004?input=1195m",
-  "http://www.inews24.com/view/1994051"
+  "http://www.inews24.com/view/1994051",
+  "https://www.newscj.com/news/articleView.html?idxno=3424326",
+  "https://www.kbmaeil.com/article/20260811500727",
+  "https://www.khan.co.kr/article/202608111959001",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634323",
+  "https://www.sedaily.com/article/20078318",
+  "https://www.nocutnews.co.kr/news/6561530",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211829",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/11/2026081190216.html",
+  "https://www.joongang.co.kr/article/25452540",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6844011_37004.html"
  ],
  "seen_titles": [
-  "[긴급점검]'불법·변칙'조합형아파트뿌리뽑는다…김천시시민보...",
-  "\"어쩐지비싸더라\"돼지고기값20%올린'1조2000억담합'...검찰,전국...",
-  "발주자가돈안주면원청이책임…건설하도급표준계약서바뀐다",
-  "장동혁\"레버리지ETF,특검대상…로비·부정결탁의심해야\"",
-  "장동혁\"단일종목레버리지ETF,특검으로부정청탁등확인해야\"",
-  "장동혁\"레버리지ETF특검해야…로비·부정한결탁의심스러워\"",
-  "장동혁\"삼전닉스레버리지특검해야…로비·결탁없었는지의심\"",
-  "호환필터안전성논란속위닉스정품30%할인",
-  "검찰,'석화담합의혹'LG화학·한화솔루션·OCI등7곳압수수색…업계...",
-  "호남에발목잡힌호남반도체..무안군,미적미적",
   "장동혁,서범수‘돌려차기’논란에“국힘지지율끌어내리는행동”",
   "“생활물가까지손댔나”…검찰,LG화학·한화솔루션등7개석화기업압...",
   "[분석]'독과점구조개혁'시동건공정위…플랫폼·재벌·민생까지전방...",
@@ -6001,7 +5991,17 @@
   "‘거래처사기혐의’로산업은행서583억금융사고발생",
   "합수본,윤영호·송광석등통일교간부3명기소…정치자금법위반혐...",
   "정치인132명에1억8천만원불법기부…통일교윤영호등9명기소",
-  "롯데렌탈,1.3조에美TPG품으로…롯데사업재편속도"
+  "롯데렌탈,1.3조에美TPG품으로…롯데사업재편속도",
+  "롯데그룹,롯데렌탈美사모펀드TPG에매각",
+  "통일교,정치인132명에1억8800만원불법기부…간부9명기소",
+  "정교유착합수본,정치인132명에게불법기부통일교간부기소",
+  "정교유착합수본,통일교윤영호등9명기소…“정치인132명에1억8천...",
+  "합수본,윤영호등통일교간부3명불구속기소…정치자금법위반",
+  "합수본,'132명에불법정치자금'통일교윤영호등3명기소",
+  "정치인132명에218회불법기부…통일교전현직간부9명기소",
+  "경찰,3천만원수수혐의김영환전충북지사불구속송치",
+  "통일교간부들,정치인132명에불법정치자금1억8800만원제공혐의기...",
+  "[단독]'장윤기분리수사'‥前국수본부장등피의자로"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "팔아 롯데렌탈 실탄 3조 살린다 호텔사업"
   ]
  ],
- "last_run": "2026-08-11T19:50:59.818358+09:00",
+ "last_run": "2026-08-11T20:01:18.868214+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
