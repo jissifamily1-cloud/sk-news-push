@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080413",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260806506&PRO_CODE=99",
-  "https://www.yna.co.kr/view/AKR20260806052000004?input=1195m",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/06/2026080600064.html",
-  "https://www.ngonews.kr/news/articleView.html?idxno=234750",
   "https://www.bizwork.co.kr/news/articleView.html?idxno=417983",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630081",
   "https://www.segye.com/newsView/20260806507577?OutUrl=naver",
@@ -2999,14 +2994,14 @@
   "https://www.junggi.co.kr/news/articleView.html?idxno=37430",
   "https://www.greened.kr/news/articleView.html?idxno=347502",
   "https://www.topstarnews.net/news/articleView.html?idxno=16161610",
-  "https://www.newspim.com/news/view/20260812000966"
+  "https://www.newspim.com/news/view/20260812000966",
+  "http://www.newskr.kr/news/articleView.html?idxno=105573",
+  "https://www.m-i.kr/news/articleView.html?idxno=1401640",
+  "https://www.tvreport.co.kr/breaking/article/1068268/",
+  "http://www.fnnews.com/news/202608121500234786",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000056372"
  ],
  "seen_titles": [
-  "[단독]현직경찰음주뺑소니의혹…대구경찰청까지압수수색",
-  "[속보]'아동성매수'혐의최영중구속송치...추가피해자1명도",
-  "종합특검,'양평고속도로의혹'원희룡전국토장관2차소환",
-  "'미성년자성매매'최영중前청주시의원구속송치",
-  "'아동성매매혐의'최영중전청주시의원,검찰구속송치",
   "계열사장기누락한대기업총수,\"몰랐다\"해도원칙고발",
   "종합특검,‘양평고속도로의혹’원희룡전장관2차소환",
   "[속보]‘여중생성매매·성착취물요구’최영중구속송치…피해자2...",
@@ -6001,7 +5996,12 @@
   "아시아나주총서합병안가결…12월17일통합대한항공출범",
   "\"토종브랜드는어디에?\"…롯데마저사모펀드에매각,안방내준렌터카...",
   "박나래에이어주사이모에불법의료행위받은혐의로샤이니키-입짧은...",
-  "경찰,'주사이모의혹'샤이니키·입짧은햇님소환조사"
+  "경찰,'주사이모의혹'샤이니키·입짧은햇님소환조사",
+  "가습기살균제참사15년만에피해자대표사망",
+  "'통합대한항공'9부능선넘었다…양사합병안가결",
+  "'주사이모의혹'본격조사착수…박나래이어샤이니키→입짧은햇님...",
+  "샤이니키·입짧은햇님도'주사이모'경찰조사…박나래와병합수사",
+  "138억원대대출비리수사정보유출…전수사관징역형집유"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "가족 1위 롯데렌탈 지붕 PEF 체제서 다시 무산된 싸움 SK렌터카"
   ]
  ],
- "last_run": "2026-08-12T15:21:04.989481+09:00",
+ "last_run": "2026-08-12T15:31:02.127700+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
