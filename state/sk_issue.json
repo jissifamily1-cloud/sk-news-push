@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/economy_general/1271675.html",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309423&inflow=N",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600057.html",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04641206645544696",
   "https://www.munhwa.com/article/11607717",
   "https://www.ajunews.com/view/20260806115424872",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428953",
@@ -2999,13 +2995,13 @@
   "http://www.fnnews.com/news/202608121828250905",
   "https://www.namdonews.com/news/articleView.html?idxno=919921",
   "https://www.tfmedia.co.kr/news/article.html?no=206434",
-  "https://www.kyeonggi.com/article/20260812580502"
+  "https://www.kyeonggi.com/article/20260812580502",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244883",
+  "https://sateconomy.co.kr/news/view/1065603262904516",
+  "https://www.donga.com/news/Society/article/all/20260812/134467834/1",
+  "https://www.news1.kr/society/incident-accident/6257315"
  ],
  "seen_titles": [
-  "10조원넘는과징금부과되나…공정위,국고채담합심의착수",
-  "3개통신사,개인정보침해면책등자진시정…공정위\"이용자권리강...",
-  "'국고채담합'1년5개월만에심판대…최대11조원대과징금촉각",
-  "공정위,통신3사불공정약관시정…'개인정보보호'강화",
   "정부“국고채담합,중대위법”…업계“특수성외면과도제재”",
   "공정위\"국고채담합,매우중대한위법행위\"...과징금최대15조원전망",
   "통신3사,정보유출책임못피한다…공정위면책약관시정",
@@ -6001,7 +5997,11 @@
   "수은,KAI‘민영화’속도낸다...우주항공경쟁력컨설팅발주",
   "'수사정보유출'前검찰수사관,2심도징역형집유",
   "한화-KAI기업결합반대나선KAI노조…재계,공정위결정에촉각",
-  "‘양평고속道백지화’원희룡,특검휴대전화반환거부에준항고"
+  "‘양평고속道백지화’원희룡,특검휴대전화반환거부에준항고",
+  "[논평]경실련\"구글독과점폐해·조세회피의혹강력제재해야\"",
+  "다올저축은행유가증권5배급증…‘우회지원수사’시기와겹쳤다",
+  "전현무·샤이니키등‘주사이모’불법의료혐의로경찰조사",
+  "경찰,'주사이모'불법의료의혹샤이니온유·전현무등소환조사(종..."
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "항상 사람 대표 사망 정의로웠던 서영철 가습기살균제 피해자"
   ]
  ],
- "last_run": "2026-08-12T18:46:46.976026+09:00",
+ "last_run": "2026-08-12T18:51:05.138400+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
