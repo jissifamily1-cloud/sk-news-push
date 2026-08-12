@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000324879?division=NAVER",
-  "https://www.news2day.co.kr/article/20260727500109",
   "https://www.mediawatch.kr/news/article.html?no=260481",
   "https://www.joongangenews.com/news/articleView.html?idxno=535751",
   "https://www.bzeronews.com/news/articleView.html?idxno=820572",
@@ -2999,10 +2997,11 @@
   "https://www.ytn.co.kr/_ln/0102_202608121105155680",
   "https://www.starnewskorea.com/broadcast-show/2026/08/12/2026081213194483992",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050687",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429775"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429775",
+  "https://www.yna.co.kr/view/PYH20260812100900013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812101200013?input=1196m"
  ],
  "seen_titles": [
-  "최태원SK회장,9440억마련셈법…현금·대출조합유력",
   "\"AI중심에서한국을외치다\"…1400조한·미AI동맹탄생",
   "올여름장마종료…남부'폭염중대경보'확대",
   "[증시인사이트]외국인매도에도개인·기관순매수에코스피상승",
@@ -6001,7 +6000,8 @@
   "삼전닉스'주주환원'아우성\"실적좋다며?근데주가는왜이래?\"",
   "유호진,아시아최초FISM그랑프리..월클마술사면모[라스]",
   "[포토]호남권·용인반도체메가프로젝트전력공급협약식참석자들",
-  "삼성전자\"호남권투자,매우당겨질것\"…SK하닉\"광주팹,제2의용인\"..."
+  "삼성전자\"호남권투자,매우당겨질것\"…SK하닉\"광주팹,제2의용인\"...",
+  "인사말하는염성진사장"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-08-12T13:30:21.510660+09:00",
    "매우 광주팹 당겨질 삼성전자 투자 용인 호남권 제2의 SK하닉"
+  ],
+  [
+   "2026-08-12T13:40:15.510169+09:00",
+   "사장 하는 인사말"
   ]
  ],
- "last_run": "2026-08-12T13:30:34.715347+09:00",
+ "last_run": "2026-08-12T13:40:31.399976+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
