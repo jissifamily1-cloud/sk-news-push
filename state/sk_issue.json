@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256858&CMPT_CD=P0010",
-  "https://www.yna.co.kr/view/AKR20260806065600053?input=1195m",
-  "https://www.ajunews.com/view/20260806101803487",
-  "https://www.slist.kr/news/articleView.html?idxno=756966",
-  "https://www.segye.com/newsView/20260806509250?OutUrl=naver",
-  "https://www.ikbc.co.kr/article/view/kbc202608060019",
   "https://www.nocutnews.co.kr/news/6559126",
   "https://www.mt.co.kr/society/2026/08/06/2026080610284650840",
   "https://www.hani.co.kr/arti/society/society_general/1271664.html",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260812_0003746575",
   "https://www.sportsworldi.com/newsView/20260812518900",
   "http://www.starnewsk.com/news/articleView.html?idxno=58131",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000056397"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000056397",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635178",
+  "http://www.newstomato.com/ReadNews.aspx?no=1310026&inflow=N",
+  "https://www.kyeonggi.com/article/20260812580328",
+  "https://view.asiae.co.kr/article/2026081216265895570",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2294210",
+  "https://www.gokorea.kr/news/articleView.html?idxno=874863"
  ],
  "seen_titles": [
-  "압색당한여행사예약자400명...'2년전에여행비냈는데어떡하나'",
-  "경찰,'현직경찰음주사고후도주사건'수사부서까지압수수색",
-  "경찰,'아동성매매'최영중구속송치...피해자2명",
-  "경찰,'홍명보선임부당개입의혹'대한축구협회압수수색",
-  "경찰,‘홍명보선임의혹’대한축구협회압수수색",
-  "[속보]경찰,'홍명보감독선임논란'축구협회·축구회관압수수색",
   "원희룡\"특검수사위법\"주장…'양평고속道의혹'재출석[영상]",
   "경찰,'홍명보선임의혹'대한축구협회압수수색…업무방해혐의",
   "경찰,‘홍명보감독선임의혹’축협압수수색…부당개입확인방침",
@@ -6001,7 +5995,13 @@
   "이강일측\"김성택,공천청탁하며돈봉투건네\"…경찰고발",
   "샤이니키·입짧은햇님,‘주사이모’불법의료의혹피의자조사",
   "샤이니키·입짧은햇님,'주사이모'불법의료혐의로지난달경찰조사",
-  "'주사이모'불법시술의혹…샤이니키·입짧은햇님경찰조사"
+  "'주사이모'불법시술의혹…샤이니키·입짧은햇님경찰조사",
+  "[단독]다올금융이병철회장피의자조사…불법계열사지원혐의",
+  "'장윤기사건'100일…살해부터은폐·조작,수사까지무슨일있었나?",
+  "샤이니키·입짧은햇님,‘주사이모’의혹관련경찰조사받아",
+  "\"2년뒤여행·환불\"…청소년여행사돌연영업중단,소비자'패닉'",
+  "이준석\"사전투표투표율오입력0건\"부정선거반박",
+  "유명인불법의료시술의혹…샤이니키와인기유튜버경찰조사받아"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "호텔롯데 부산롯데호텔 지분 신용등급 재매각 한신평 롯데렌탈"
   ]
  ],
- "last_run": "2026-08-12T16:31:08.883279+09:00",
+ "last_run": "2026-08-12T16:40:54.113923+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
