@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/assembly/6250702",
-  "https://www.yna.co.kr/view/AKR20260806039900008?input=1195m",
-  "https://www.ddaily.co.kr/page/view/2026073013282272727",
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19656",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2292866",
-  "https://www.viewsnnews.com/article?q=237716",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608060363&t=NN",
   "https://www.news1.kr/economy/trend/6250715",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030959",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=238403",
@@ -2999,16 +2992,16 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=854876",
   "https://biz.sbs.co.kr/article_hub/20000328266?division=NAVER",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608121420164410778",
-  "https://www.newsis.com/view/NISX20260812_0003746283"
+  "https://www.newsis.com/view/NISX20260812_0003746283",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544750",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000056346",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260812145619gpI",
+  "https://www.yna.co.kr/view/AKR20260812105900054?input=1195m",
+  "https://www.news1.kr/society/incident-accident/6256920",
+  "https://www.khan.co.kr/article/202608121453001",
+  "https://news.jtbc.co.kr/article/NB12312977?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "정점식\"경찰,민중아닌권력지팡이자처…보완수사권폐지해도되나...",
-  "[특징주]현대백화점실적실망에장초반5%↓…백화점주동반하락",
-  "[헬스&라이프]여름감기인줄알았는데…아이고열·목통증'인두편도...",
-  "'경제형벌'수준수백억과징금철퇴···정교해지는담합규제기업대...",
-  "\"피해자1명더있었다\"…'미성년자성매매'최영중전청주시의원구...",
-  "정점식\"경찰,'민중의지팡이'아닌'권력의지팡이'자처\"",
-  "현대百실적실망에주가'뚝'...백화점주덩달아'와르르'",
   "계열사허위·누락제출제재강화…3년내반복위반도원칙고발",
   "경기도내제조업체,전기·가스비도하도급대금연동가능",
   "검찰,한화솔루션·LG화학,담합의혹에압수수색…석화업계전방위수...",
@@ -6001,7 +5994,14 @@
   "텐마인즈\"여름철수면시간10분짧아져\"",
   "KAI노조,한화경영참여반대…\"기업결합심사불허해야\"",
   "[에어라이브]아시아나항공ㆍ에어프레미아",
-  "HL만도,하청업체근로자사망사고'재발방지'총력…노조와수습방..."
+  "HL만도,하청업체근로자사망사고'재발방지'총력…노조와수습방...",
+  "‘가습기살균제’피해자단체대표숨져…산소발생기·휠체어생활",
+  "가습기살균제피해자권리외친서영철대표별세…향년69세",
+  "일본경찰,스마트폰잠금해제거부하면강제로얼굴인식",
+  "'수사정보유출'전광주지검수사관,2심도징역형집유",
+  "샤이니키·입짧은햇님,'주사이모'불법의료혐의로경찰조사",
+  "경찰,‘청문감사담당관’전원다른지역출신배치…검찰보완수사요...",
+  "제식구감싸기막는다…경찰'내부비리수사대'40명규모구성"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "가족 1위 롯데렌탈 지붕 PEF 체제서 다시 무산된 싸움 SK렌터카"
   ]
  ],
- "last_run": "2026-08-12T14:52:03.452222+09:00",
+ "last_run": "2026-08-12T15:01:10.252999+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
