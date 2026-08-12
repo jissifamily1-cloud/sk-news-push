@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisanews24.co.kr/19086",
-  "https://www.ajunews.com/view/20260722171842756",
-  "http://www.bizwnews.com/news/articleView.html?idxno=141146",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=847894",
-  "https://www.joongboo.com/news/articleView.html?idxno=363732022",
-  "http://www.yonhapnewstv.co.kr/news/MYH202607272258151m6",
-  "https://www.etnews.com/20260723000405",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=127283",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451644",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=875819",
   "http://enews.imbc.com/News/RetrieveNewsInfo/512394",
   "https://www.cnbnews.com/news/articleView.html?idxno=1008891",
   "http://www.yonhapnewstv.co.kr/news/MYH20260723052526g6v",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/bio/welfare-medical/6257244",
   "https://zdnet.co.kr/view/?no=20260812170124",
   "https://www.newspim.com/news/view/20260812001224",
-  "https://www.newsis.com/view/NISX20260812_0003746703"
+  "https://www.newsis.com/view/NISX20260812_0003746703",
+  "https://www.sentv.co.kr/article/view/sentv202608120179",
+  "https://www.yna.co.kr/view/PYH20260812189000061?input=1196m",
+  "https://www.ceoscoredaily.com/page/view/2026081217225403708",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608120680&t=NN",
+  "https://www.hankookilbo.com/news/article/A2026081216070002718?did=NA",
+  "https://www.etnews.com/20260812000416",
+  "https://www.etnews.com/20260812000419",
+  "https://www.etnews.com/20260812000418",
+  "https://www.etnews.com/20260812000421",
+  "https://www.etnews.com/20260812000425"
  ],
  "seen_titles": [
-  "'샌프란깐부회동'메뉴선정뒷이야기…클램차우더오른이유는",
-  "'우리는식구다'…샌프란깐부회동에'클램차우더'오른이유는?",
-  "샌프란서AI동맹맺은이재용·최태원…시칠리아서'빅테크큰손'만난...",
-  "김원이\"경찰도믿기어렵고검찰도믿기어려워…그렇지만수사·기소...",
-  "SK하이닉스ADR주가4%급등…유가급락속엔비디아와파트너십",
-  "영혼을어루만지는지성,가야금·판소리로풀어내[문화대상이작품]",
-  "부산시립무용단·부산진문화재단협력,24·25일무료공연개최",
-  "이정윤의댄스살롱…올해는‘신성’으로만난다",
-  "부산시립무용단신입단원7명,백양문화예술회관서첫독무대",
-  "충남도의회교육위원회,제370회임시회제3차회의개최",
   "“2차공공기관이전임박”…경북대응전략은?",
   "충남도의회교육위,과밀학교조례안가결...급식·재해·작은학교대책...",
   "충남도의회교육위,학교안전·작은학교지원등교육현안집중점검",
@@ -6001,7 +5991,17 @@
   "\"전국에서출생아가장많은경기도,어린이병원전혀없어\"",
   "SK하이닉스,美인디애나패키징팹27일착공식",
   "SK하이닉스美인디애나팹27일착공식…최태원·젠슨황참석주목",
-  "SK하이닉스,美인디애나팹27일착공식확정…최태원·젠슨황만날까"
+  "SK하이닉스,美인디애나팹27일착공식확정…최태원·젠슨황만날까",
+  "경기도출생아전국최다인데어린이병원없다…최종치료거점필요",
+  "분당서울대병원,경기도산모·소아의료최종거점구축제안",
+  "SK하이닉스,美인디애나패키징공장27일착공…최태원,美반도체추...",
+  "SK하이닉스인디애나팹27일착공…최태원·젠슨황만날까",
+  "김정관산업장관\"정부가반도체공장부지제안…광주는기업이원해...",
+  "[포토]반도체메가프로젝트전력공급협약식",
+  "[포토]인사말하는염성진SK하이닉스사장",
+  "[포토]호남권반도체산단전력공급협약",
+  "[포토]용인일반산단전력공급협약",
+  "[포토]대화하는염성진-김성환-김용관"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-08-12T17:30:22.449382+09:00",
    "주주환원정책 SK하이닉스 권했는데 보유 장기 배당 짠물"
+  ],
+  [
+   "2026-08-12T18:00:31.826803+09:00",
+   "김성환 김용관 대화하는"
   ]
  ],
- "last_run": "2026-08-12T17:50:29.541190+09:00",
+ "last_run": "2026-08-12T18:00:43.582627+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
