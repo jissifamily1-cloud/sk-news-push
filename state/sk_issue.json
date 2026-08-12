@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210550",
   "https://www.dt.co.kr/article/12076810",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629428",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42883",
@@ -2999,10 +2998,10 @@
   "https://imnews.imbc.com/news/2026/econo/article/6844141_36932.html",
   "https://www.sidae.com/article/2026081208421730933",
   "https://biz.heraldcorp.com/article/10838256",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260812502&PRO_CODE=99"
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260812502&PRO_CODE=99",
+  "https://economist.co.kr/article/view/ecn202608120002"
  ],
  "seen_titles": [
-  "경찰,'탱크데이논란'스타벅스코리아압수수색…자체감사부실정황",
   "‘父子세탁70억’몰수한검찰범죄수익환수부…수사폐지로무용지물...",
   "‘탱크데이’스타벅스코리아첫압수수색…“자체감사부실”",
   "[S-이슈]유통사6곳,6년간1조2000억원담합…대형마트삼겹살이金겹...",
@@ -6001,15 +6000,20 @@
   "주병기공정위원장\"쿠팡이라고해서차별적법집행하지않아\"",
   "롯데,1.3조에TPG와롯데렌탈매각본계약체결",
   "박지성“충격적인상황”…축구협회‘성접대’파문에입열었다",
-  "선관위,10년간투표자수오입력에도감사·처벌없어"
+  "선관위,10년간투표자수오입력에도감사·처벌없어",
+  "롯데,TPG에롯데렌탈1.3조매각...이번엔공정위승인얻어낼까"
  ],
  "recent_sigs": [
   [
    "2026-08-12T06:12:01.025149+09:00",
    "재도약 주인 품에서 만에 롯데렌탈 TPG 바뀐다 11년"
+  ],
+  [
+   "2026-08-12T09:31:00.350144+09:00",
+   "얻어낼까 TPG에 매각 롯데 승인 3조 롯데렌탈 이번엔"
   ]
  ],
- "last_run": "2026-08-12T09:20:56.789554+09:00",
+ "last_run": "2026-08-12T09:31:07.976158+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6058,6 +6062,7 @@
   "newsworks.co.kr": "뉴스웍스",
   "metroseoul.co.kr": "메트로신문",
   "daily.hankooki.com": "데일리한국",
-  "dealsite.co.kr": "딜사이트"
+  "dealsite.co.kr": "딜사이트",
+  "economist.co.kr": "이코노미스트"
  }
 }
