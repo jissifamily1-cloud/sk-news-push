@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10837137",
-  "http://www.press9.kr/news/articleView.html?idxno=80888",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274546",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04723206645546336",
-  "https://www.busan.com/view/busan/view.php?code=2026081109035151910",
-  "http://www.bizwnews.com/news/articleView.html?idxno=142952",
-  "https://www.medipana.com/news/articleView.html?idxno=415792",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429540",
-  "https://www.ajunews.com/view/20260811105625142",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476240",
   "http://www.footballist.co.kr/news/articleView.html?idxno=213487",
   "https://www.etnews.com/20260811000160",
   "https://www.mk.co.kr/article/12123874",
@@ -2999,19 +2989,19 @@
   "https://www.fntimes.com/html/view.php?ud=202608122036505759179ad43907_18",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608120721&t=NN",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444627",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271652"
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271652",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429852",
+  "https://www.khan.co.kr/article/202608122114015",
+  "https://www.ikbc.co.kr/article/view/kbc202608120057",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476812",
+  "https://mpmbc.co.kr/NewsArticle/1531925",
+  "https://www.ikbc.co.kr/article/view/kbc202608120056",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=06848646645546664",
+  "http://www.cctimes.kr/news/articleView.html?idxno=921614",
+  "http://www.cctimes.kr/news/articleView.html?idxno=921603",
+  "https://www.ytn.co.kr/_ln/0134_202608122103069849"
  ],
  "seen_titles": [
-  "SKBiosciencenarrowslossinQ2uponGermanunit’simprovement",
-  "독파모국민평가오늘마무리···'언더독'모티프에쏠린눈",
-  "전북대반도체공동연구소,전공경계넘는반도체인재양성'박차'",
-  "지난주15%내린SK하이닉스,JP모건우려과도평가",
-  "유가하루5.05%상승,비트코인6만4000달러하회",
-  "주유소부지자산가치재평가…SK리츠·GS매수유입뚜렷",
-  "반도체에눌렸던실적株…업종순환매에주가기지개",
-  "삼성전자4%강세에코스피6300'사수'…SK하닉내림세[장중시황]",
-  "[국제금융브리핑]트럼프,이란배상금요구방침...브렌트유4.99%급등",
-  "[ICT시사용어]AIDC얼라이언스",
   "[한앤코XSK디앤디]유증정정서에담긴위기시나리오…자금전망2027년...",
   "[Why&Next]SK하닉충칭팹매각설속내는…구형칩줄이고'고부가HBM'올...",
   "\"출장2분후퇴근\"…SK하닉근태불량직원,성과급10억날렸다",
@@ -6001,7 +5991,17 @@
   "대신증권,트레이딩·리테일양날개…상반기순익4000억원돌파[금융사...",
   "\"하이닉스없이어떡해\"…큰손변화조짐에확바뀐공기",
   "[8월13일자]비즈니스포스트아침의주요기사",
-  "\"'동전주'부터솎아낸다\"…상폐관리종목36개무더기지정"
+  "\"'동전주'부터솎아낸다\"…상폐관리종목36개무더기지정",
+  "SK하이닉스ADR이틀째급등…싱가포르국부펀드투자계획설",
+  "정부“반도체클러스터송전선확충”…주민반발줄일‘지중화속도...",
+  "한전,2029년부터호남반도체산단에전력우선공급",
+  "거래대금이키운'어닝서프라이즈'...대신증권상반기순이익165%급증",
+  "호남반도체전력망시동...2029년3GW공급",
+  "[단독]10조규모신세계'AI팩토리',호남유력후보지검토",
+  "[미리보는이데일리신문]PRS올해만6.3조···주가떨어지면'숨은빚...",
+  "[충청권으뜸공약]조상호세종시장'온전한행정수도완성'",
+  "[충청권으뜸공약]이장섭청주시장'품격있는시민특별시도약'",
+  "반도체,속도는느려도간다...단,이가격넘느냐가중요[몇층이세요..."
  ],
  "recent_sigs": [
   [
@@ -6879,9 +6879,29 @@
   [
    "2026-08-12T21:01:27.148500+09:00",
    "아침의 비즈니스포스트 주요기사"
+  ],
+  [
+   "2026-08-12T21:21:12.561930+09:00",
+   "AI 후보지 규모 유력 검토 신세계 호남 팩토리 10조"
+  ],
+  [
+   "2026-08-12T21:21:12.561930+09:00",
+   "주가 올해만 떨어지면 PRS 3조 숨은"
+  ],
+  [
+   "2026-08-12T21:21:12.561930+09:00",
+   "온전한 행정수도 세종시장 조상호 완성"
+  ],
+  [
+   "2026-08-12T21:21:12.561930+09:00",
+   "시민특별시 있는 청주시장 이장섭 품격 도약"
+  ],
+  [
+   "2026-08-12T21:21:12.561930+09:00",
+   "간다 몇층이세요 반도체 중요 느려도 속도는 넘느냐가 가격"
   ]
  ],
- "last_run": "2026-08-12T21:11:11.029695+09:00",
+ "last_run": "2026-08-12T21:21:28.857353+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
