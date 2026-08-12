@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444061",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008692153&plink=ORI&cooper=NAVER",
-  "https://www.nocutnews.co.kr/news/6558897",
-  "https://www.dailian.co.kr/news/view/1675010/?sc=Naver",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=06671526645544368",
   "https://www.khan.co.kr/article/202608052102005",
   "https://www.segye.com/newsView/20260805520020?OutUrl=naver",
   "https://www.cnbnews.com/news/articleView.html?idxno=1010518",
@@ -2999,14 +2994,14 @@
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361626",
   "https://www.yna.co.kr/view/AKR20260812050200002?input=1195m",
   "https://n.news.naver.com/mnews/article/214/0001517383",
-  "https://www.ytn.co.kr/_ln/0115_202608120948394236"
+  "https://www.ytn.co.kr/_ln/0115_202608120948394236",
+  "https://www.dailian.co.kr/news/view/1677491/?sc=Naver",
+  "http://www.fnnews.com/news/202608121023241870",
+  "https://www.newsis.com/view/NISX20260812_0003745760",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316343",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361624"
  ],
  "seen_titles": [
-  "[8월6일자]비즈니스포스트아침의주요기사",
-  "'탱크데이'스타벅스첫압수수색…\"자체감사부실\"",
-  "경찰,'탱크데이'스타벅스첫압수수색…본사·前대표대상(종합)",
-  "[데일리안오늘뉴스종합][단독]영장집행일10일도과원희룡포렌식...",
-  "오월단체“탱크데이사건,신속수사·엄정조치해야”",
   "경찰,스타벅스본사압색…‘탱크데이’기획의도겨냥",
   "警‘탱크데이논란’스벅본사‘모욕죄’압색",
   "방문판매위반신고포상금'고정상한'폐지...과징금과연동예고",
@@ -6001,7 +5996,12 @@
   "롯데렌탈,글로벌펀드TPG에매각롯데1.3조확보…리밸런싱가속화",
   "공정위,도소매·서비스업가맹계약서필수품목기재의무점검",
   "[시선집중]이준석“장동혁체제정리안될것.유승민이말하는보수...",
-  "국수본부장도피의자전환...장윤기사건,대체어디까지올라가나[자..."
+  "국수본부장도피의자전환...장윤기사건,대체어디까지올라가나[자...",
+  "아시아나항공,대한항공합병계약체결결의…12월통합출범",
+  "KAI노조,한화경영참여에'제동'…\"공정위기업결합불허해야\"",
+  "가맹본부51곳필수품목계약의무미이행…한달간시정",
+  "이준석\"사전투표아닌본투표서오입력\"부정선거론일축",
+  "또펀드로넘어간자동차렌탈"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-08-12T09:31:00.350144+09:00",
    "얻어낼까 TPG에 매각 롯데 승인 3조 롯데렌탈 이번엔"
+  ],
+  [
+   "2026-08-12T10:30:56.773261+09:00",
+   "렌탈 넘어간 펀드로 자동차"
   ]
  ],
- "last_run": "2026-08-12T10:20:58.068054+09:00",
+ "last_run": "2026-08-12T10:31:06.380436+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6063,6 +6067,7 @@
   "metroseoul.co.kr": "메트로신문",
   "daily.hankooki.com": "데일리한국",
   "dealsite.co.kr": "딜사이트",
-  "economist.co.kr": "이코노미스트"
+  "economist.co.kr": "이코노미스트",
+  "smedaily.co.kr": "중소기업신문"
  }
 }
