@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/566836",
-  "https://www.ziksir.com/news/articleView.html?idxno=142373",
   "http://www.srtimes.kr/news/articleView.html?idxno=209306",
   "https://zdnet.co.kr/view/?no=20260806141810",
   "https://www.nspna.com/news/?newsid=823324",
@@ -2999,11 +2997,11 @@
   "https://www.munhwa.com/article/11609198",
   "http://tbs.seoul.kr/news/newsView.do?typ_800=6&idx_800=3537839&seq_800=20530722",
   "https://www.sidae.com/article/2026081307315912829",
-  "https://www.newspim.com/news/view/20260813000052"
+  "https://www.newspim.com/news/view/20260813000052",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050875",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608111136492760101576"
  ],
  "seen_titles": [
-  "하도급업체기술자료中법인에넘긴세라젬,과징금4.3억철퇴",
-  "공정위,통신3사개인정보·손해배상약관시정나서",
   "공정위,은행·증권사15곳국고채담합심의…역대급과징금폭탄터지...",
   "공정위,세라젬에'하도급법위반'과징금4.3억부과...\"법적해석차이...",
   "공정위,국고채담합미래에셋·삼성·메리츠證등15곳에최대15조과...",
@@ -6001,10 +5999,17 @@
   "이준석“사전투표서투표율오입력단한건도안나와…부정선거론자...",
   "'관저의혹'조은석주심피하려했나…종합특검,'감사원배당조작정...",
   "'주사이모'의혹어디까지…전현무·키·온유·입짧은햇님줄줄이경찰...",
-  "샤이니온유측\"'주사이모'의혹경찰조사…사실관계그대로진술\""
+  "샤이니온유측\"'주사이모'의혹경찰조사…사실관계그대로진술\"",
+  "공정위,가맹계약서필수품목미기재·미적용51개사자진시정요구",
+  "[더벨]롯데렌탈품는TPG,어피니티와달랐던점은"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-13T08:10:52.277556+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-13T08:20:54.239861+09:00",
+   "점은 롯데렌탈 품는 달랐던 어피니티와 TPG"
+  ]
+ ],
+ "last_run": "2026-08-13T08:21:01.729266+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
