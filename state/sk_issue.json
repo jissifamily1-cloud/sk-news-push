@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/economy_general/2026/08/06/PUHYENPLI5F67IMGE3W2K6IH7U/",
-  "https://www.ytn.co.kr/_ln/0102_202608061211559647",
-  "https://www.ytn.co.kr/_ln/0102_202608061211499091",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630231",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6842848_36967.html",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000001061&cp=nv",
   "https://www.sisajournal.com/news/articleView.html?idxno=382589",
   "https://imnews.imbc.com/news/2026/econo/article/6842859_36932.html",
@@ -2999,14 +2994,14 @@
   "https://www.sportsseoul.com/news/read/1628334",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635356",
   "https://www.segye.com/newsView/20260812523332?OutUrl=naver",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1329517"
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1329517",
+  "https://www.livebiz.today/news/articleView.html?idxno=204100",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16161920",
+  "https://www.sportsworldi.com/newsView/20260812523537",
+  "https://www.mydaily.co.kr/page/view/2026081219501247583",
+  "https://www.ikbc.co.kr/article/view/kbc202608120053"
  ],
  "seen_titles": [
-  "공정위,국고채입찰담합혐의15개은행·증권사등전문딜러사제재...",
-  "공정위,76.2조국고채입찰담합혐의심사착수...과징금최대15조",
-  "수급사업자기술자료중국법인에넘긴세라젬과징금4.3억원제제",
-  "“피해자더있었다”…아동성범죄혐의최영중전의원구속송치[지...",
-  "경찰,'홍명보선임의혹'축구협회첫압수수색",
   "홍준표“윤정권때단물빨던자들을다어디가고…정치무상느꼈을...",
   "경찰,축구협회등압수수색…홍명보감독선임의혹관련",
   "공정위,국고채담합은행·증권사15곳심의착수‥최대15조원과징금...",
@@ -6001,7 +5996,12 @@
   "온유,“경찰조사받은건맞지만…‘주사이모’의료법의심정황없...",
   "[여기는진주]하동군,가뭄·폭염피해녹차농가방제지원외",
   "‘주사이모’불법시술수사확대…전현무·키·온유·입짧은햇님경...",
-  "HL만도사고진상규명,시민사회나섰다"
+  "HL만도사고진상규명,시민사회나섰다",
+  "한화,KAI경영권인수암초만나...노조\"경쟁구조훼손\"가능성이유로...",
+  "샤이니온유,'주사이모'논란입장…\"의료법의심정황없었다\"",
+  "온유도주사이모만났나…소속사“적법성의심정황없었다”해명",
+  "온유,'주사이모'의혹경찰조사받았다…\"성실히임해,적법성의심할...",
+  "'주사이모불법시술연루'전현무·샤이니·입짧은햇님경찰조사"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "항상 사람 대표 사망 정의로웠던 서영철 가습기살균제 피해자"
   ]
  ],
- "last_run": "2026-08-12T19:51:02.669294+09:00",
+ "last_run": "2026-08-12T20:01:18.615292+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
