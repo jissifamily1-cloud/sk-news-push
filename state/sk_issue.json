@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260806511216?OutUrl=naver",
-  "https://www.newsis.com/view/NISX20260806_0003738876",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6251094",
-  "https://www.ytn.co.kr/_ln/0103_202608061147374595",
-  "https://www.khan.co.kr/article/202608061200011",
   "http://www.intn.co.kr/news/articleView.html?idxno=2052385",
   "http://www.intn.co.kr/news/articleView.html?idxno=2052380",
   "http://www.intn.co.kr/news/articleView.html?idxno=2052382",
@@ -2999,14 +2994,14 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244877",
   "https://www.sedaily.com/article/20078704",
   "https://www.chosun.com/national/court_law/2026/08/12/O52BPIN33JETDHBTDBXPQW57EQ/",
-  "https://www.khan.co.kr/article/202608121800011"
+  "https://www.khan.co.kr/article/202608121800011",
+  "https://www.dailian.co.kr/news/view/1677800/?sc=Naver",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16161817",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05940086645546664",
+  "https://www.hankookilbo.com/news/article/A2026081217480003901?did=NA",
+  "https://www.yna.co.kr/view/AKR20260812064600062?input=1195m"
  ],
  "seen_titles": [
-  "‘현직경찰음주도주’파문…경찰,대구청∙수성서등전격압수수...",
-  "현직경찰'음주사고도주'…소속·조사부서압수수색",
-  "현직경찰관음주운전도주의혹…경찰,대구청·수성서압수수색",
-  "경찰,'홍명보선임의혹'대한축구협회첫압수수색",
-  "와이파이로정보유출돼도“내책임아냐”라는통신3사불공정약관...",
   "공정위,6일국고채입찰담합사건설명회",
   "공정위,\"이용자개인정보보호등권리강화\"",
   "공정위,중소기업기술자료중국법인에넘긴㈜세라젬제재",
@@ -6001,7 +5996,12 @@
   "'3000억우회지원의혹'다올금융이병철회장피의자조사",
   "이병철다올금융그룹회장첫피의자조사…‘계열사우회지원’의혹",
   "원희룡,종합특검‘휴대전화압수·반환거부’에준항고제기",
-  "원희룡“종합특검,휴대폰위법포렌식”반발…준항고제기"
+  "원희룡“종합특검,휴대폰위법포렌식”반발…준항고제기",
+  "원희룡,종합특검휴대전화포렌식위법주장…법원에준항고",
+  "샤이니온유-전현무,'주사이모'의혹연루…소환조사",
+  "이병철다올금융회장,'계열사우회지원의혹'피의자조사",
+  "샤이니키·입짧은햇님,'주사이모'불법시술의혹으로피의자조사",
+  "춘천서성매매불법마사지업소적발…경찰,업주2명구속"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "원에 롯데렌탈 매각 사모펀드 1조 TPG에 3100억 롯데"
   ]
  ],
- "last_run": "2026-08-12T18:11:04.620993+09:00",
+ "last_run": "2026-08-12T18:21:01.519725+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
