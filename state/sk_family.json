@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/27/2026072790276.html",
-  "https://www.munhwa.com/article/11605350",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427136",
-  "https://www.hani.co.kr/arti/opinion/column/1270237.html",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11027",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1785115752&code=11171358&cp=nv",
-  "https://www.chosun.com/economy/industry-company/2026/07/28/EM4D4P5C5RBW3FBBABXDRBGZBM/",
-  "https://www.donga.com/news/Economy/article/all/20260727/134374735/2",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1785144224&code=11151400&cp=nv",
-  "https://www.sedaily.com/article/20072509",
-  "http://www.youngnong.co.kr/news/articleView.html?idxno=61186",
   "http://www.yonhapnewstv.co.kr/news/AKR20260727232033YYa",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009951",
   "https://www.the-today.com/news/articleView.html?idxno=87906",
@@ -2999,20 +2988,20 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=872874",
   "https://biz.sbs.co.kr/article_hub/20000328304?division=NAVER",
   "https://www.ajunews.com/view/20260812170719568",
-  "https://www.kpinews.kr/newsView/1065600693518291"
+  "https://www.kpinews.kr/newsView/1065600693518291",
+  "https://www.namdonews.com/news/articleView.html?idxno=919890",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607091323319480105325",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05740006645546664",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1395364",
+  "https://www.news1.kr/politics/assembly/6257173",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238661",
+  "https://www.etnews.com/20260812000404",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=850167",
+  "https://www.mt.co.kr/politics/2026/08/12/2026081216501032245",
+  "https://www.sedaily.com/article/20078662",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512232"
  ],
  "seen_titles": [
-  "충북제조업의위상·현황한눈에",
-  "[부산]천억원쓴'안전한급식실'..\"사고는증가\"",
-  "이재용·최태원,'구글캠프'서글로벌공급망다진다",
-  "이재용·최태원샌프란이어시칠리아구글캠프나란히참석",
-  "이재용·최태원,구글캠프로…AI협력잇는다",
-  "이재용·최태원,샌프란시스코건배후시칠리아도'동행'",
-  "﻿이재용·최태원,샌프란이어시칠리아'구글캠프'참석",
-  "SK네트웍스가육성한피닉스랩,'800만달러'투자라운드진행",
-  "尹'허위사실유포'징역형집행유예…당선무효형",
-  "[인사]포항시(6급이하.7월30일자)",
-  "[조자경의나비효과]'이별의감정가(鑑定價)'9440억…최태원·노소영...",
   "이재용·최태원,구글캠프간다…‘AI어벤저스’시칠리아총집결",
   "남성은술끊고여성은더마신다…고학력·고소득일수록음주율상승",
   "“당장돈없는데지연이자만하루1.3억?”최태원의해법은",
@@ -6001,7 +5990,18 @@
   "피닉스랩'케이론',800만달러시드투자유치추진…멘로벤처스리드...",
   "SK하이닉스,27일美인디애나HBM공장공식착공",
   "SK하이닉스인디애나팹27일착공식…최태원·젠슨황만나나",
-  "전남광주·정부·한전·삼성·SK,호남반도체전력공급손잡았다"
+  "전남광주·정부·한전·삼성·SK,호남반도체전력공급손잡았다",
+  "여야,호남반도체공방…與\"수도권벗어나면죽는거냐\"野\"총선·대선...",
+  "[더벨]'경영복귀'최신원SK네트웍스회장,비용절감전략'희망퇴직'",
+  "SK하이닉스,27일美인디애나팹착공식…최태원·젠슨황다시만나나",
+  "SK하이닉스,27일美인디애나패키징공장착공식…빅테크침석주목",
+  "산중위,'호남반도체'종일공방…野\"정부강요\"與\"시간맞출부지\"...",
+  "SK하이닉스,美인디애나패키징공장27일착공…최태원·젠슨황만날...",
+  "SK하이닉스,인디애나팹27일착공식연다",
+  "SK하이닉스美인디애나팹착공식27일확정…최태원·젠슨황또만날까",
+  "與野,'호남반도체부지'격돌…\"새로운틀\"vs\"정부강요\"",
+  "김민석,鄭에“이재용·최태원만나봤나”…정청래“총수자주만나...",
+  "최태원‘장기보유’권했는데짠물배당…SK하이닉스주주환원정책논..."
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,17 @@
   [
    "2026-08-12T17:10:16.838917+09:00",
    "SK하이닉스 최대주주 사실상 전략적 투자자 합류보단 키옥시아 이사회"
+  ],
+  [
+   "2026-08-12T17:30:22.449382+09:00",
+   "이재용 정청래 만나봤나 총수 만나 김민석 자주"
+  ],
+  [
+   "2026-08-12T17:30:22.449382+09:00",
+   "주주환원정책 SK하이닉스 권했는데 보유 장기 배당 짠물"
   ]
  ],
- "last_run": "2026-08-12T17:20:26.485836+09:00",
+ "last_run": "2026-08-12T17:30:40.419969+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
