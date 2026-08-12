@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260727232033YYa",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009951",
-  "https://www.the-today.com/news/articleView.html?idxno=87906",
-  "https://www.natv.go.kr/natv/news/newsView.do?newsId=513842",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427115",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01908966645519112",
   "https://www.etoday.co.kr/news/view/2606597",
   "https://www.busan.com/view/busan/view.php?code=2026072201023023168",
   "https://www.mhns.co.kr/news/articleView.html?idxno=754169",
@@ -2999,15 +2993,15 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=850167",
   "https://www.mt.co.kr/politics/2026/08/12/2026081216501032245",
   "https://www.sedaily.com/article/20078662",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=512232"
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512232",
+  "http://www.newstomato.com/ReadNews.aspx?no=1310115&inflow=N",
+  "https://www.medipana.com/news/articleView.html?idxno=415900",
+  "http://www.fnnews.com/news/202607231044178227",
+  "https://www.news1.kr/industry/general-industry/6257225",
+  "https://www.nocutnews.co.kr/news/6562079",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=270209"
  ],
  "seen_titles": [
-  "이재용·최태원,구글캠프간다…‘AI어벤저스’시칠리아총집결",
-  "남성은술끊고여성은더마신다…고학력·고소득일수록음주율상승",
-  "“당장돈없는데지연이자만하루1.3억?”최태원의해법은",
-  "SK하이닉스ADR주가7.5%급락…엔비디아우려에결국공모가밑으로(종...",
-  "‘애국’을말하는부자들[세상읽기]",
-  "李대통령발'대한민국IR'...HBM넘어'플랫폼국가'대전환선언",
   "[돋을새김]‘일본도맞았던일’피하려면",
   "두산에SK실트론지분매각…7개월협상,이르면31일결론",
   "이재용-최태원,伊시칠리아‘구글캠프’간다",
@@ -6001,7 +5995,13 @@
   "SK하이닉스美인디애나팹착공식27일확정…최태원·젠슨황또만날까",
   "與野,'호남반도체부지'격돌…\"새로운틀\"vs\"정부강요\"",
   "김민석,鄭에“이재용·최태원만나봤나”…정청래“총수자주만나...",
-  "최태원‘장기보유’권했는데짠물배당…SK하이닉스주주환원정책논..."
+  "최태원‘장기보유’권했는데짠물배당…SK하이닉스주주환원정책논...",
+  "김정관·김영훈또'평행선'…출구못찾는'주52시간'특례",
+  "경기도산모·소아의료공백해소,'24시간최종거점'이관건",
+  "SK네트웍스가육성한피닉스랩,'800만달러'투자라운드진행",
+  "SK하이닉스인디애나팹,27일착공식…최태원·젠슨황회동?",
+  "SK하이닉스'인디애나팹'27일착공식…최태원·젠슨황또만날까",
+  "\"전력단절없다\"…삼성·SK'반도체메가프로젝트',한전과전력망협..."
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "주주환원정책 SK하이닉스 권했는데 보유 장기 배당 짠물"
   ]
  ],
- "last_run": "2026-08-12T17:30:40.419969+09:00",
+ "last_run": "2026-08-12T17:37:53.630520+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
