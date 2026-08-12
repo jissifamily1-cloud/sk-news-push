@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lawissue.co.kr/view.php?ud=20260811104157758867191f6c6e_12",
-  "http://www.fnnews.com/news/202608110936421700",
-  "https://www.ekn.kr/web/view.php?key=20260811027581138",
-  "https://www.ytn.co.kr/_ln/0134_202608111044435203",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546539",
-  "https://www.medicopharma.co.kr/news/articleView.html?idxno=69074",
   "https://www.yna.co.kr/view/AKR20260811065900008?input=1195m",
   "https://kpenews.com/View.aspx?No=4181644",
   "https://www.hani.co.kr/arti/society/labor/1272053.html",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06199206645546664",
   "https://www.nocutnews.co.kr/news/6562141",
   "https://www.tokenpost.kr/news/market/389233",
-  "https://www.segye.com/newsView/20260812520147?OutUrl=naver"
+  "https://www.segye.com/newsView/20260812520147?OutUrl=naver",
+  "https://www.dailian.co.kr/news/view/1677825/?sc=Naver",
+  "https://biz.chosun.com/it-science/ict/2026/08/12/6YJ7LYOCPZFFLE3P2RTNG7SP3I/",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258722&CMPT_CD=P0010",
+  "https://www.kyeongin.com/article/1768927",
+  "https://www.cstimes.com/news/articleView.html?idxno=716594",
+  "https://www.tokenpost.kr/news/economy/389237"
  ],
  "seen_titles": [
-  "[오늘외환딜러환율예상레인지]",
-  "[데이터뉴스룸]전자업체50곳재무건전성튼튼…신도리코·인탑스부...",
-  "[전문기자리뷰]기업환경적책무철저히이행해야",
-  "[원용철목사의세상보기]삼성전자노조가쏘아올린사회연대경제?",
-  "\"8월극도의쏠림장세끝났다…지금은기다릴때\"",
-  "\"광산시만좋아진다는주장민망\"…박병규,세수독점론반박",
   "코스닥랠리에'코스닥ETF'뭉칫돈…거래대금수조원'껑충'",
   "증시자금'코스닥'으로간다",
   "소유,10년전'삼전닉스'1억넣어둔결실…'편백사우나'갖춘자가최...",
@@ -6001,7 +5995,13 @@
   "AAII평가점수13일공개…‘독파모’최종심사변수로",
   "\"돈때문일까봐\"…외신도조명한'K-반도체맨'결혼고충[뉴스럽다]",
   "700조원해외이동,가상자산수요DEX로향했다",
-  "與“메가프로젝트속도전”…野“포퓰리즘”"
+  "與“메가프로젝트속도전”…野“포퓰리즘”",
+  "정석근SK하이퍼대표\"글로벌빅테크와AIDC협의…2~3년이골든타임\"",
+  "삼성전자,2분기낸드시장1위수성…中YMTC첫톱3진입",
+  "용인반도체클러스터동일하이빌파크밸리분양",
+  "혼전의중위권…6위FC안양·7위인천유나이티드상위권도약도전",
+  "수원문화재단,'수원SK아트리움하우스콘서트'및'수원빛으로물들다...",
+  "[특징주]호남반도체클러스터기대에금호건설상한가…금호전기는이..."
  ],
  "recent_sigs": [
   [
@@ -7167,9 +7167,21 @@
   [
    "2026-08-12T19:21:06.189459+09:00",
    "포퓰리즘 메가프로젝트 속도전"
+  ],
+  [
+   "2026-08-12T19:31:16.608132+09:00",
+   "6위 상위권 FC안양 7위 인천유나이티드 중위권 도약 도전 혼전의"
+  ],
+  [
+   "2026-08-12T19:31:16.608132+09:00",
+   "수원 물들다 수원SK아트리움 하우스콘서트 빛으로 수원문화재단"
+  ],
+  [
+   "2026-08-12T19:31:16.608132+09:00",
+   "금호전기는 클러스터 호남 기대에 상한가 반도체 금호건설"
   ]
  ],
- "last_run": "2026-08-12T19:21:27.965137+09:00",
+ "last_run": "2026-08-12T19:31:27.887474+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
