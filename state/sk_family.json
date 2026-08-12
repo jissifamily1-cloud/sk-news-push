@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediawatch.kr/news/article.html?no=260481",
-  "https://www.joongangenews.com/news/articleView.html?idxno=535751",
-  "https://www.bzeronews.com/news/articleView.html?idxno=820572",
-  "https://hbnpress.com/news/view/1065599185531838",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6407",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16176",
-  "https://view.asiae.co.kr/article/2026072717072324323",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443249",
-  "https://www.yna.co.kr/view/AKR20260727141900003?input=1195m",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005888290",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005888034",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079411",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=47659",
   "https://bizhankook.com/articles/us-tech-korea-chip-partnership.html",
@@ -2999,12 +2988,20 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050687",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429775",
   "https://www.yna.co.kr/view/PYH20260812100900013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260812101200013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260812101200013?input=1196m",
+  "https://www.newsis.com/view/NISX20260812_0003746110",
+  "https://www.newspim.com/news/view/20260812000747",
+  "https://www.newspim.com/news/view/20260812000746",
+  "https://www.yna.co.kr/view/PYH20260812103400013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812103000013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812102900013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812102200013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812102400013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812102300013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812102700013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260812102500013?input=1196m"
  ],
  "seen_titles": [
-  "\"AI중심에서한국을외치다\"…1400조한·미AI동맹탄생",
-  "올여름장마종료…남부'폭염중대경보'확대",
-  "[증시인사이트]외국인매도에도개인·기관순매수에코스피상승",
   "[2026비자발적고립청년일경험캠프(15)]진로찾는비자발적고립청년...",
   "SK그룹,글로벌빅테크들과1100조AI동맹…HBM·데이터센터·팩토리총...",
   "삼성이재용·SK최태원,AI서밋이어'구글캠프'동행…빅테크협력...",
@@ -6001,7 +5998,10 @@
   "유호진,아시아최초FISM그랑프리..월클마술사면모[라스]",
   "[포토]호남권·용인반도체메가프로젝트전력공급협약식참석자들",
   "삼성전자\"호남권투자,매우당겨질것\"…SK하닉\"광주팹,제2의용인\"...",
-  "인사말하는염성진사장"
+  "인사말하는염성진사장",
+  "여야,광주반도체공방…與\"최적지\"野\"총선·대선용인기성정책\"",
+  "호남권반도체산업단지전력공급협약식",
+  "호남권ㆍ용인반도체메가프로젝트전력공급협약식"
  ],
  "recent_sigs": [
   [
@@ -6057,7 +6057,7 @@
    "사장 하는 인사말"
   ]
  ],
- "last_run": "2026-08-12T13:40:31.399976+09:00",
+ "last_run": "2026-08-12T13:50:23.972364+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
