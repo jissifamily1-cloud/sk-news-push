@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167821",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429589",
-  "https://www.imaeil.com/page/view/2026081110311524692",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207998",
-  "http://www.metroseoul.co.kr/article/20260811500283",
-  "https://kr.aving.net/news/articleView.html?idxno=1813025",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271524",
   "https://www.tokenpost.kr/news/market/388233",
   "http://www.footballist.co.kr/news/articleView.html?idxno=213496",
@@ -2999,15 +2993,15 @@
   "https://www.segye.com/newsView/20260813504467?OutUrl=naver",
   "https://www.etoday.co.kr/news/view/2613937",
   "https://www.news1.kr/industry/general-industry/6257308",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03329206645546992"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03329206645546992",
+  "https://www.newsway.co.kr/news/view?ud=2026081307383022278",
+  "http://www.joseilbo.com/news/news_read.php?uid=573742&class=53",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6844412_37012.html",
+  "https://www.mt.co.kr/entertainment/2026/08/13/2026081307282631082",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03398086645546992",
+  "https://view.asiae.co.kr/article/2026081307394315583"
  ],
  "seen_titles": [
-  "SK에코플랜트,송도럭스오션SK뷰테라스붕괴…정일영\"국토부조사해...",
-  "SK하닉근태불량직원,성과급등10억청구소송'패소'",
-  "제주네게바K리그122RMVP…K리그2는김포루안",
-  "[이슈]5000억실패수습하러온조형기…SK시그넷'마지막CEO'되나",
-  "광주경제단체\"반도체투자결정삼성전자·SK하이닉스환영\"",
-  "지분추가확대2대주주美웰링턴…KT,배당확대압박커지나",
   "이용률29.6%에7.9조공공지원…신안우이해상풍력타당성논란",
   "“방만재정책임왜?”…경기도시·군,반도체공동세원화추진반발",
   "라이즈·에이티즈·르세라핌·아일릿·리센느출연‘K-WORLDDREAMAWARDS’...",
@@ -6001,7 +5995,13 @@
   "“나죽으면광화문서싸워달라”…가습기살균제피해자단체대표사망",
   "[증시키워드]삼전대신‘삼성전기’찍은모건스탠리⋯SK하닉은美패...",
   "[팀장칼럼]반도체메가특구의시간싸움",
-  "수수료만최소4%,주가하락도남얘기..증권사만웃는다"
+  "수수료만최소4%,주가하락도남얘기..증권사만웃는다",
+  "뉴욕증시,美소비자물가둔화에도혼조…나스닥0.54%↑",
+  "미래에셋증권,8월증권사브랜드평판1위‘고수’",
+  "뉴욕증시,인플레둔화속혼조세마감",
+  "'삼전4.5만매수'김구라,\"하이닉스132만원이면들어가야\"",
+  "저스템,반도체3사공급확대에사상최대실적…압도적성장지속-SK",
+  "MSCI한국지수에LG이노텍신규편입…LG디플등4곳빠져"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-08-13T07:41:04.456777+09:00",
    "증권사만 주가 웃는다 최소 수수료만 하락도 얘기"
+  ],
+  [
+   "2026-08-13T07:51:00.490787+09:00",
+   "확대에 사상 반도체 실적 지속 공급 3사 성장 압도적 저스템"
+  ],
+  [
+   "2026-08-13T07:51:00.490787+09:00",
+   "4곳 LG이노텍 MSCI한국지수에 신규편입 빠져 LG디플"
   ]
  ],
- "last_run": "2026-08-13T07:41:21.340042+09:00",
+ "last_run": "2026-08-13T07:51:09.954388+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
