@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6559126",
-  "https://www.mt.co.kr/society/2026/08/06/2026080610284650840",
-  "https://www.hani.co.kr/arti/society/society_general/1271664.html",
-  "https://www.newsis.com/view/NISX20260806_0003738735",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=440043",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719377",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=82885",
-  "https://www.kukinews.com/article/view/kuk202608060048",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630176",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4099251",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4099243",
   "https://www.ytn.co.kr/_ln/0101_202608061103349181",
@@ -2999,18 +2990,18 @@
   "https://www.kyeonggi.com/article/20260812580328",
   "https://view.asiae.co.kr/article/2026081216265895570",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2294210",
-  "https://www.gokorea.kr/news/articleView.html?idxno=874863"
+  "https://www.gokorea.kr/news/articleView.html?idxno=874863",
+  "https://www.newsis.com/view/NISX20260812_0003746602",
+  "https://www.ngetnews.com/news/articleView.html?idxno=552360",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001503",
+  "https://www.newspost.kr/news/articleView.html?idxno=224865",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050838",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244874",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720160",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=120534",
+  "https://www.news1.kr/society/court-prosecution/6255723"
  ],
  "seen_titles": [
-  "원희룡\"특검수사위법\"주장…'양평고속道의혹'재출석[영상]",
-  "경찰,'홍명보선임의혹'대한축구협회압수수색…업무방해혐의",
-  "경찰,‘홍명보감독선임의혹’축협압수수색…부당개입확인방침",
-  "경찰,대한축구협회축구회관등압수수색…홍명보소환이틀만",
-  "[뉴스워커_IB탈탈털기]CJ제일제당전분당3000억매각…가격재결정뒤...",
-  "공정위,대기업집단지정자료허위제출'고발'기준강화",
-  "공정위,대기업집단지정자료허위제출고발기준강화",
-  "공정위,대기업지정자료허위제출제재강화…3년내반복위반원칙...",
-  "[전격시사]천하람개혁신당원내대표-“검찰복수심으로형소법개정...",
   "특검,원희룡재소환…'양평고속도로의혹'재조사",
   "원희룡\"특검수사위법\"...양평고속도로의혹'재출석",
   "정점식\"스타벅스·강선우·김병기까지...경찰,권력의지팡이\"",
@@ -6001,7 +5992,16 @@
   "샤이니키·입짧은햇님,‘주사이모’의혹관련경찰조사받아",
   "\"2년뒤여행·환불\"…청소년여행사돌연영업중단,소비자'패닉'",
   "이준석\"사전투표투표율오입력0건\"부정선거반박",
-  "유명인불법의료시술의혹…샤이니키와인기유튜버경찰조사받아"
+  "유명인불법의료시술의혹…샤이니키와인기유튜버경찰조사받아",
+  "가습기살균제피해자단체서영철대표숨져…피해신고자중1958번째",
+  "공정위190억원·검찰1조2000억원...돼지고기담합규모왜다르나",
+  "\"반성많이했다,정말죄송하다\"배재고전국대회복귀전…\"배재고파...",
+  "한화,KAI인수초읽기…수은용역착수에민영화설재점화",
+  "KAI노조,한화경영참여반대…공정위에기업결합'불허'촉구",
+  "국세청,초고액체납자'재산은닉·조세탈루'추적전담팀신설",
+  "렌탈팔아'1.3조'쥐는롯데…재무개선넘어성장판도다시짠다",
+  "한국토지신탁,2.6조목동10단지운영비부풀리기논란",
+  "[단독]원희룡,종합특검'휴대전화압수·반환거부'에준항고제기"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "호텔롯데 부산롯데호텔 지분 신용등급 재매각 한신평 롯데렌탈"
   ]
  ],
- "last_run": "2026-08-12T16:40:54.113923+09:00",
+ "last_run": "2026-08-12T16:51:03.675313+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
