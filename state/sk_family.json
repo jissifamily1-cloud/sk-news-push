@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aflnews.co.kr/news/articleView.html?idxno=325101",
-  "https://medicalworldnews.co.kr/news/view.php?idx=1510975896",
-  "https://www.newscj.com/news/articleView.html?idxno=3416498",
   "https://www.k-health.com/news/articleView.html?idxno=100273",
   "https://www.m-joongang.com/news/articleView.html?idxno=402828",
   "https://www.businesspost.co.kr/BP?command=article_view&num=443007",
@@ -2999,12 +2996,12 @@
   "http://www.suwonilbo.kr/news/articleView.html?idxno=317336",
   "http://www.4th.kr/news/articleView.html?idxno=2113407",
   "https://www.mk.co.kr/article/12101369",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050874"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050874",
+  "https://biz.chosun.com/industry/business-venture/2026/08/13/4OL6XAIL7FBYDNTKWOGYF25YLQ/",
+  "https://www.kukinews.com/article/view/kuk202608120178",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=46978"
  ],
  "seen_titles": [
-  "李“韓-몽골황금시대,광물-방산협력차질없게”",
-  "李대통령,몽골국빈만찬서“진정한‘안다’”…국궁세트·스마트워...",
-  "李\"몽골도약함께하는동반자될것\"…LS·SK등경제인도만찬참석(...",
   "몽골국빈만찬장'李대통령일대기'상영…결혼식사진에좌중'웃음만...",
   "李대통령\"韓은몽골의'진정한친구'…새도약함께할동반자될것\"",
   "李대통령\"韓-몽골진정한친구…누구에도안뒤지는파트너안목\"(종합...",
@@ -6001,10 +5998,22 @@
   "수원특례시의회여·야의원,광교카페거리주민초청간담회",
   "SK장손최영근,5년만에경영복귀…3세구도다시주목",
   "HBM4가완성할‘아픈손가락’의반전",
-  "기후부-한전,반도체메가프로젝트'적기전력공급'약속"
+  "기후부-한전,반도체메가프로젝트'적기전력공급'약속",
+  "“모두가찾는코스닥만든다”…중소기업학회,‘혁신벤처포럼’9월...",
+  "통신넘어새격전지‘AIDC’로…이통3사2차전본격화",
+  "두산,실트론배당받아신용등급회복노린다"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-13T06:00:46.479148+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-13T06:10:23.563187+09:00",
+   "통신 이통3사 넘어 2차전 본격화 AIDC 격전지"
+  ],
+  [
+   "2026-08-13T06:10:23.563187+09:00",
+   "받아 두산 실트론 회복 신용등급 배당 노린다"
+  ]
+ ],
+ "last_run": "2026-08-13T06:10:38.317895+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
