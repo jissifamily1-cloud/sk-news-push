@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260723051414Y2G",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/22/2026072290318.html",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=641616",
   "https://www.etnews.com/20260722000396",
   "https://www.peoplewatch.co.kr/article/view/ppw202607220001",
   "http://enews.imbc.com/News/RetrieveNewsInfo/512332",
@@ -2999,12 +2996,12 @@
   "https://www.etnews.com/20260812000425",
   "http://www.newstomato.com/ReadNews.aspx?no=1310134&inflow=N",
   "http://www.inews24.com/view/1994445",
-  "https://www.etnews.com/20260812000424"
+  "https://www.etnews.com/20260812000424",
+  "https://www.mt.co.kr/industry/2026/08/12/2026081218150375578",
+  "http://www.fnnews.com/news/202608121816487751",
+  "http://www.fnnews.com/news/202608121809596559"
  ],
  "seen_titles": [
-  "충남도의회교육위,학교안전·작은학교지원체계집중점검",
-  "용인시의회,제10대전반기윤리특위출범",
-  "용인시의회,전반기윤리특별위원회출범…위원장에김희영의원",
   "용인시의회,제10대전반기윤리특별위원회구성…의원윤리심사등담...",
   "밀수수사하랬더니…압류물빼돌려돈챙긴세관특사경",
   "이화여대,불가리코리아로부터'이화새시대발전기금'1억원기부받아",
@@ -6001,7 +5998,10 @@
   "[포토]대화하는염성진-김성환-김용관",
   "SK하이닉스,미인디애나반도체패키징공장27일착공식",
   "SK하이닉스,27일美HBM패키징공장착공식…최태원·젠슨황만날까",
-  "[포토]참석자들과대화하는김성환장관"
+  "[포토]참석자들과대화하는김성환장관",
+  "SK하이닉스,27일미국인디애나주HBM패키징공장착공식",
+  "[사설]광주반도체에는전격전,용인은왜안되나",
+  "SK하닉,美인디애나팹27일첫삽"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,17 @@
   [
    "2026-08-12T18:00:31.826803+09:00",
    "김성환 김용관 대화하는"
+  ],
+  [
+   "2026-08-12T18:20:14.326241+09:00",
+   "반도체에는 용인은 되나 광주 전격전"
+  ],
+  [
+   "2026-08-12T18:20:14.326241+09:00",
+   "첫삽 27일 인디애나 SK하닉"
   ]
  ],
- "last_run": "2026-08-12T18:10:29.306429+09:00",
+ "last_run": "2026-08-12T18:20:32.373616+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
