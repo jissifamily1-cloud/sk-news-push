@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2351031.htm",
-  "https://www.donga.com/news/Opinion/article/all/20260805/134428108/2",
-  "https://www.dailyt.co.kr/newsView/dlt202608050020",
-  "https://www.etoday.co.kr/news/view/2611500",
-  "https://www.donga.com/news/Society/article/all/20260805/134428196/1",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456426",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000054845",
   "https://www.seoul.co.kr/news/society/accident/2026/08/05/20260805500284?wlog_tag3=naver",
   "https://www.ajunews.com/view/20260805211010802",
@@ -2999,15 +2993,15 @@
   "https://www.nocutnews.co.kr/news/6561773",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635034",
   "https://biz.sbs.co.kr/article_hub/20000328221?division=NAVER",
-  "https://www.bntnews.co.kr/article/view/bnt202608120190"
+  "https://www.bntnews.co.kr/article/view/bnt202608120190",
+  "https://news.tf.co.kr/read/economy/2353307.htm",
+  "https://view.asiae.co.kr/article/2026081211542418956",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314675",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244863",
+  "https://www.news1.kr/local/sejong-chungbuk/6256698",
+  "https://biz.sbs.co.kr/article_hub/20000328211?division=NAVER"
  ],
  "seen_titles": [
-  "'양평고속도로백지화'원희룡,오늘특검2차피의자조사",
-  "[사설]檢없는수사…대비없이권한커진경찰이책임감당하겠나〈4...",
-  "스타벅스'탱크데이'논란,압수수색까지간경찰수사…공권력행사적...",
-  "'양정원고소사건'무마의혹…전수사팀장결국구속",
-  "수사지연땐경찰에이의신청가능…접수2주내에조치알려줘야",
-  "경찰,스타벅스본사압수수색···법조계일각'신중론'도",
   "\"스타벅스'탱크데이'엄정수사하라\"…5·18단체,경찰투명공개촉구",
   "‘양정원사건’수사무마의혹전강남서경찰관구속",
   "[아주경제오늘의뉴스종합]경찰,'탱크데이'의혹스타벅스본사압...",
@@ -6001,7 +5995,13 @@
   "금산사전·현직주지승,공사대가뇌물혐의인정",
   "[단독]경찰,‘내부비리’전문수사대40명규모로구성",
   "日,스마트폰얼굴인식강제해제수사도입…법원'신체검사영장'발부",
-  "10월검찰청폐지…검사역할도달라진다"
+  "10월검찰청폐지…검사역할도달라진다",
+  "KAI노조\"공정위,한화와기업결합불허해야\"입장문",
+  "KAI노조,한화경영참여반대…\"기업결합불허해야\"",
+  "\"경쟁사에핵심정보털릴판\"…KAI노조,한화기업결합에'결사반대'",
+  "은행권금융사고공시액1900억육박…'외부사기'비상",
+  "이강일의원'선거앱의혹'김성택전의원맞고발…첫고발인조사",
+  "롯데렌탈,결국TPG품으로…호텔롯데에투자"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "가족 1위 롯데렌탈 지붕 PEF 체제서 다시 무산된 싸움 SK렌터카"
   ]
  ],
- "last_run": "2026-08-12T11:50:54.075654+09:00",
+ "last_run": "2026-08-12T12:01:11.040535+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
