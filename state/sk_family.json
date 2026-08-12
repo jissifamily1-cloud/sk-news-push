@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1308312&inflow=N",
-  "http://www.press9.kr/news/articleView.html?idxno=80110",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128407",
-  "http://www.yonhapnewstv.co.kr/news/MYH202607271649148EF",
   "https://biz.sbs.co.kr/article_hub/20000324879?division=NAVER",
   "https://www.news2day.co.kr/article/20260727500109",
   "https://www.mediawatch.kr/news/article.html?no=260481",
@@ -2999,13 +2995,13 @@
   "https://www.mt.co.kr/politics/2026/08/12/2026081211424219139",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050669",
   "https://www.koreahealthlog.com/news/articleView.html?idxno=58486",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41411"
+  "https://www.aitimes.kr/news/articleView.html?idxno=41411",
+  "https://www.ytn.co.kr/_ln/0102_202608121105155680",
+  "https://www.starnewskorea.com/broadcast-show/2026/08/12/2026081213194483992",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050687",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429775"
  ],
  "seen_titles": [
-  "[기획]최태원·권혁빈의법정,이재용·정용진의결단…'재벌가이혼'이...",
-  "[신아일보tv]세기의재산분할",
-  "AI패권·반도체초격차굳히기나선삼성·SK…빅테크공급망전면에",
-  "삼전·하닉분기영업익‘150조’새역사기대감",
   "최태원SK회장,9440억마련셈법…현금·대출조합유력",
   "\"AI중심에서한국을외치다\"…1400조한·미AI동맹탄생",
   "올여름장마종료…남부'폭염중대경보'확대",
@@ -6001,7 +5997,11 @@
   "野\"최태원,서남권이라고만했다…반도체광주부지누가제안했나\"",
   "[포토]염성진SK하이닉스사장과김동철한전사장",
   "경기지역고위험산모·신생아·중증소아위한주산기·어린이병원구축...",
-  "한전·기후부·전남광주통합시·삼성전자·SK하이닉스,호남권·용인반..."
+  "한전·기후부·전남광주통합시·삼성전자·SK하이닉스,호남권·용인반...",
+  "삼전닉스'주주환원'아우성\"실적좋다며?근데주가는왜이래?\"",
+  "유호진,아시아최초FISM그랑프리..월클마술사면모[라스]",
+  "[포토]호남권·용인반도체메가프로젝트전력공급협약식참석자들",
+  "삼성전자\"호남권투자,매우당겨질것\"…SK하닉\"광주팹,제2의용인\"..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-08-12T13:17:27.437857+09:00",
    "사장 김동철 SK하이닉스 사장과 한전"
+  ],
+  [
+   "2026-08-12T13:30:21.510660+09:00",
+   "매우 광주팹 당겨질 삼성전자 투자 용인 호남권 제2의 SK하닉"
   ]
  ],
- "last_run": "2026-08-12T13:20:26.005807+09:00",
+ "last_run": "2026-08-12T13:30:34.715347+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
