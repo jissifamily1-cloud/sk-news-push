@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=383085",
-  "http://www.economytalk.kr/news/articleView.html?idxno=423435",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209633",
-  "http://www.segyebiz.com/newsView/20260811508920?OutUrl=naver",
-  "https://news.tf.co.kr/read/economy/2352689.htm",
-  "https://theviewers.co.kr/View.aspx?No=4181729",
   "http://www.newscape.co.kr/news/articleView.html?idxno=123869",
   "https://view.asiae.co.kr/article/2026081110013501536",
   "https://magazine.hankyung.com/business/article/202608116151b",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20260812101051004?input=1195m",
   "http://www.fnnews.com/news/202608121824243713",
   "http://www.kjdaily.com/article.php?aid=1786526436684375028",
-  "https://www.tokenpost.kr/news/market/389203"
+  "https://www.tokenpost.kr/news/market/389203",
+  "https://www.livebiz.today/news/articleView.html?idxno=204096",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280968",
+  "https://www.kado.net/news/articleView.html?idxno=2066391",
+  "http://www.inews24.com/view/1994465",
+  "https://www.namdonews.com/news/articleView.html?idxno=919916",
+  "https://www.hankookilbo.com/news/article/A2026081216550005789?did=NA"
  ],
  "seen_titles": [
-  "키움증권\"삼성전자·SK하이닉스목표주가하향,내년범용D램가30%대하...",
-  "SKT,A.XK2세계최정상급수학추론성능기록",
-  "고려아연美제련소,핵심광물넘어반도체소재로...'황산공급망'구축...",
-  "삼성전자·SK하이닉스각0.65%,2.89%하락…코스닥상승전환강보합권...",
-  "SK쉴더스EQST,데프콘34서글로벌해커들과경쟁…AICTF글로벌5위",
-  "삼성투자확대에커지는기대감…반도체배후주거지'주목'",
   "코스피'국제유가·미국국채금리상승'에장중6220선하락,코스닥도...",
   "[IT큐레이션]돈쭉쭉빠지고있는AI빅테크회계장부살펴보니",
   "정부‘자율실험실생태계’시동…삼성·SK등80여개기관뭉쳤다",
@@ -6001,7 +5995,13 @@
   "'가습기살균제피해자'서영철대표사망…\"항상정의로웠던사람\"(종합...",
   "코스피6500회복…외국인,2조넘게매수",
   "가오슝이전남광주에주는세가지교훈/주정민",
-  "하이퍼리퀴드OI나흘새7.2%늘어113억달러"
+  "하이퍼리퀴드OI나흘새7.2%늘어113억달러",
+  "SK하이닉스,美인디애나팹27일착공식개최…",
+  "호남반도체클러스터전력공급‘속도’…2029년3GW,이후6GW이상",
+  "[속보]동전주·시총미달퇴출위기…36개첫관리종목나왔다",
+  "SK하이닉스노사,밤샘임단협에도결론못내…이틀째협상",
+  "[뉴스분석]헌정사유례없는'자치구→市'전환갑론을박",
+  "'주52시간예외'노동장관재차신중론\"장시간노동이창의적인재로..."
  ],
  "recent_sigs": [
   [
@@ -7187,9 +7187,21 @@
   [
    "2026-08-12T18:31:31.711073+09:00",
    "113억달러 나흘 OI 늘어 하이퍼리퀴드"
+  ],
+  [
+   "2026-08-12T18:41:08.758312+09:00",
+   "SK하이닉스 협상 못내 결론 이틀째 밤샘 임단협에도 노사"
+  ],
+  [
+   "2026-08-12T18:41:08.758312+09:00",
+   "유례 자치구 갑론을박 없는 헌정사"
+  ],
+  [
+   "2026-08-12T18:41:08.758312+09:00",
+   "노동장관 예외 인재로 장시간 노동이 창의적 재차 주52시간 신중론"
   ]
  ],
- "last_run": "2026-08-12T18:31:42.726680+09:00",
+ "last_run": "2026-08-12T18:41:19.995139+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
