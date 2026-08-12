@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026081113370365208",
-  "https://m.skyedaily.com/news_view.html?ID=309606",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855989",
   "http://www.fnnews.com/news/202607291518035739",
   "http://www.inews24.com/view/1989359",
@@ -2999,11 +2997,11 @@
   "https://www.mediapen.com/news/view/1116060",
   "https://view.asiae.co.kr/article/2026081214304102450",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167969",
-  "https://www.news1.kr/industry/sb-founded/6257018"
+  "https://www.news1.kr/industry/sb-founded/6257018",
+  "https://www.g-enews.com/view.php?ud=202608130552321101fbbec65dfb_1",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52126"
  ],
  "seen_titles": [
-  "“환원에너무짜다”개미울린SK하이닉스",
-  "광주·전남경제계\"호남반도체부지확정환영\"이재명대통령에감사...",
   "TPG,1.3조에롯데렌탈품는다…SPA체결예정",
   "정일영의원,송도테라스붕괴사고철저조사하고책임있는대책내...",
   "[속보]키옥시아최대주주SK하이닉스로변경…도시바지분감소",
@@ -6001,7 +5999,9 @@
   "[美증시]혼조속나스닥·S&P500상승…반도체주·스페이스X주도",
   "한은부총재“원달러환율,4분기로갈수록낮아질것…경상흑자효과...",
   "AI수혜주바뀌나…반도체휘청일때,보안·SWETF선전",
-  "\"반도체초호황은그들만의리그\"…中企낙수효과'아직'"
+  "\"반도체초호황은그들만의리그\"…中企낙수효과'아직'",
+  "메타,CXL기술로구형DDR4메모리재활용…서버25%감축",
+  "[상반기기업분석]정기선HD현대회장,주력계열사에서도선전"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,17 @@
   [
    "2026-08-13T06:23:03.510422+09:00",
    "아직 그들만의 초호황은 리그 낙수효과 반도체"
+  ],
+  [
+   "2026-08-13T06:31:18.956054+09:00",
+   "기술로 감축 서버 DDR4 재활용 메타 구형 메모리 CXL"
+  ],
+  [
+   "2026-08-13T06:31:18.956054+09:00",
+   "선전 HD현대 계열사에서도 회장 주력 정기선"
   ]
  ],
- "last_run": "2026-08-13T06:23:54.126083+09:00",
+ "last_run": "2026-08-13T06:31:28.515843+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
