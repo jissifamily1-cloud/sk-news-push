@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12312133?influxDiv=NAVER",
-  "https://www.cstimes.com/news/articleView.html?idxno=716060",
-  "https://www.goal.com/kr/뉴스/a/blt62cd85c3863fd3d9",
-  "https://www.mt.co.kr/society/2026/08/07/2026080708251837466",
-  "https://www.news1.kr/society/court-prosecution/6251886",
   "https://www.wikitree.co.kr/articles/1150961",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855148",
   "https://www.newdaily.co.kr/site/data/html/2026/08/07/2026080700037.html",
@@ -2999,14 +2994,14 @@
   "https://www.wikitree.co.kr/articles/1152398",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=308931",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490047.html",
-  "https://www.ytn.co.kr/_ln/0103_202608140809433518"
+  "https://www.ytn.co.kr/_ln/0103_202608140809433518",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856818",
+  "https://www.newdaily.co.kr/site/data/html/2026/08/14/2026081400027.html",
+  "https://www.mt.co.kr/opinion/2026/08/14/2026081007564987372",
+  "http://www.inews24.com/view/1994947",
+  "https://www.mk.co.kr/article/12127598"
  ],
  "seen_titles": [
-  "축협11시간압수수색…'홍명보선임'관련자료확보",
-  "국고채76조입찰담합의혹…공정위,증권사·은행15곳제재착수",
-  "‘韓축구그야말로국제적대망신’외신들일제히“대한축구협회,외...",
-  "경찰이'음주뺑소니'…담당경찰은수사정보유출의혹",
-  "강서·동작투표소3곳서도'동일일련번호'투표용지정황포착",
   "“검찰보완수사권폐지하더니...첫사냥감이커피숍인가”",
   "축구협회,11시간압수수색…성접대의혹재조명",
   "검찰,'세무조사로비의혹'동국제강계열인터지스수사…부산지방...",
@@ -6001,10 +5996,15 @@
   "최근경찰조사받은홍명보…정몽규질문에내놓은답변",
   "김해시장선거우회광고논란'녹취록'경남경찰청에증거로전달",
   "[키워드NOW]국힘당원게시판압수수색",
-  "홍명보,경찰에\"감독선임때정몽규와소통없었다\"개입부인"
+  "홍명보,경찰에\"감독선임때정몽규와소통없었다\"개입부인",
+  "공정위,배민·쿠팡이츠등배달플랫폼거래실태조사",
+  "김은혜\"선관위파도파도괴담…상상뛰어넘는무능·부패\"[뉴데일리...",
+  "스포츠선진국을향하여[투데이窓/반영은]",
+  "홍명보\"감독선임과정정몽규와소통없었다\"",
+  "홍명보“감독선임과정정몽규와소통없었다”…경찰진술서개입부..."
  ],
  "recent_sigs": [],
- "last_run": "2026-08-14T08:20:56.743650+09:00",
+ "last_run": "2026-08-14T08:31:02.213340+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
