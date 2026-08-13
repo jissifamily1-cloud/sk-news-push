@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newspim.com/news/view/20230601001061",
   "https://www.khan.co.kr/article/202305121706001",
   "https://www.khan.co.kr/article/202305051637001",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1007180650&plink=ORI&cooper=NAVER",
@@ -2999,10 +2998,10 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212345",
   "https://biz.heraldcorp.com/article/10840758",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545027",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636478"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636478",
+  "https://www.mediawatch.kr/news/article.html?no=260672"
  ],
  "seen_titles": [
-  "檢,'천화동인6호실소유의혹'조우형소환조사",
   "‘대장동개발’조우형,“천화동인6호실소유주?지분공유했을뿐”",
   "검찰,대장동‘숨은핵심’조우형구속실패···‘50억클럽’수사...",
   "'천화동인6호'조우형영장기각에…검찰,보강수사착수",
@@ -6001,7 +6000,8 @@
   "경찰'코인선물'투자자문사압수수색…\"손실시돈더넣으면복구\"",
   "종합특검,‘채해병수사방해’이시원전대통령실공직기강비서관등...",
   "경찰,‘당원게시판사건’한동훈가족추정5개아이디압수수색",
-  "아들사건증거부순경찰관…“혐의있어보이지만처벌못해불송치..."
+  "아들사건증거부순경찰관…“혐의있어보이지만처벌못해불송치...",
+  "국민의힘,‘한동훈당게’서버압수수색협조…복당논의변수로"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "실시 4사 제품 조사 판매 현장 제한 정유 타사"
   ]
  ],
- "last_run": "2026-08-13T19:40:58.022916+09:00",
+ "last_run": "2026-08-13T19:50:55.466689+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
