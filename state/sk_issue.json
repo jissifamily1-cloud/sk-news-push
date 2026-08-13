@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260806165009Tx9",
-  "https://www.newsis.com/view/NISX20260806_0003739347",
-  "https://www.chukkyung.co.kr/news/articleView.html?idxno=82220",
-  "https://www.news1.kr/local/daejeon-chungnam/6251578",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5210734",
-  "https://www.yna.co.kr/view/AKR20260806136300004?input=1195m",
   "https://www.sidae.com/article/2026080516594199636",
   "https://imnews.imbc.com/news/2026/society/article/6842941_36918.html",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260806010002138",
@@ -2999,15 +2993,15 @@
   "https://www.nocutnews.co.kr/news/6562539",
   "https://www.news1.kr/society/incident-accident/6258188",
   "https://www.seoul.co.kr/news/society/2026/08/13/20260813500161?wlog_tag3=naver",
-  "https://www.busan.com/view/busan/view.php?code=2026081314304396074"
+  "https://www.busan.com/view/busan/view.php?code=2026081314304396074",
+  "http://www.inews24.com/view/1994757",
+  "https://www.asiatime.co.kr/article/20260813500268",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05221766645546992",
+  "https://www.nocutnews.co.kr/news/6562552",
+  "https://www.dailian.co.kr/news/view/1678117/?sc=Naver",
+  "https://www.newsis.com/view/NISX20260813_0003748023"
  ],
  "seen_titles": [
-  "현직경찰음주사고도주수사부서까지압수수색",
-  "'월드컵탈락후폭풍'축구협회…초유의압수수색에'충격·당황'",
-  "EU,'고기'명칭은고기에만쓴다…식육용어사용을제한",
-  "대리운전부업하다성범죄…농식품부산하기관직원구속송치",
-  "\"살려줘\"말저절로나오는폭염...입추인내일'절정'[짤e몽땅]",
-  "종합특검,'심우정前총장내란가담'대검재차압수수색",
   "[시대리포트]27년째미뤄진'조건부석방',검찰개혁에또밀려",
   "2차종합특검,대검압수수색‥심우정내란가담혐의관련",
   "보완수사떠안는경찰…하급심판례100만건으로두AI연계",
@@ -6001,7 +5995,13 @@
   "\"스테로이드,의사처방전없이…\"빼돌리던일당무더기검거",
   "경찰,'한동훈당원게시판사건'서버관리업체압수수색(종합)",
   "‘불법촬영증거’아들휴대전화없앤경찰관,불송치…친족간특례적...",
-  "교사불법촬영시도한아들,휴대폰없앤경찰아버지…\"친족특례로..."
+  "교사불법촬영시도한아들,휴대폰없앤경찰아버지…\"친족특례로...",
+  "코리아케이푸드,정보공개서미제공·가맹금예치의무위반⋯공정위'경...",
+  "與\"재검표서둘러야\"...野선관위기각에소송맞불",
+  "[속보]종합특검,심우정·전무곤‘내란혐의’검찰청4곳압수수색",
+  "경찰,한동훈'당게사건'서버압수수색…국힘\"수사에협조\"",
+  "경찰,'한동훈당원게시판사태'국민의힘서버관련업체압수수색",
+  "[속보]종합특검,대검·서울고검·중앙지검추가압수수색…내란가담..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "적발 과징금 조사 정유 판매 제품 4사 제한 타사"
   ]
  ],
- "last_run": "2026-08-13T14:51:02.539366+09:00",
+ "last_run": "2026-08-13T14:59:41.674064+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
