@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444154",
-  "https://www.m-i.kr/news/articleView.html?idxno=1399818",
-  "https://www.goodkyung.com/news/articleView.html?idxno=290026",
-  "https://www.mk.co.kr/article/12119507",
-  "http://www.fnnews.com/news/202608061808000792",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1533173",
-  "https://www.ytn.co.kr/_ln/0102_202608061825310948",
   "https://www.busan.com/view/busan/view.php?code=2026080618144180631",
   "https://www.hellot.net/news/article.html?no=114204",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=607645",
@@ -2999,16 +2992,16 @@
   "https://lawtalknews.co.kr/article/CRGQGK3BS0GT",
   "https://ilyo.co.kr/?ac=article_view&entry_id=512259",
   "https://www.ajunews.com/view/20260813144908468",
-  "https://www.imaeil.com/page/view/2026081316070924826"
+  "https://www.imaeil.com/page/view/2026081316070924826",
+  "https://www.huffingtonpost.kr/article/259556",
+  "https://imnews.imbc.com/news/2026/econo/article/6844547_36932.html",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=224816",
+  "https://www.dailian.co.kr/news/view/1678200/?sc=Naver",
+  "https://www.mk.co.kr/article/12126655",
+  "https://www.khan.co.kr/article/202608131625021",
+  "https://weekly.khan.co.kr/article/202608131624001"
  ],
  "seen_titles": [
-  "공정위은행증권사대상국고채담합의혹심의,최대15조원과징금...",
-  "공정위,이통3사불공정약관제동…\"개인정보사고책무강화\"",
-  "\"고객돈2.6조로400억챙긴스타벅스...환불은60%써라\"에칼빼든黨...",
-  "국고채입찰서담합혐의…공정위,은행·증권사심의",
-  "브랜드1곳이가맹단체10곳과협상할수도…줄분쟁우려",
-  "종합특검,대검정보통신과등압수수색…'내란가담'혐의",
-  "국고채담합혐의심의착수...역대최대15조과징금나올까?",
   "증권사·은행15곳국고채입찰담합",
   "[‘황’기자의헬로로지스틱스]Part1.반복되는물류센터화재,숫자...",
   "석유화학7개사가격담합의혹강제수사:메디컬투데이TV",
@@ -6001,7 +5994,14 @@
   "'1년간악플'단익명유저,플랫폼이신원공개거부…손해배상소송...",
   "내부거래도배당도껑충…하림2세김준영100%지분‘올품’경영행...",
   "1심서막힌'계엄사전준비'…내란특검,항소심에'노상원80명문건'투...",
-  "경찰,국힘당원게시판압수수색…한동훈'복당갈림길'될까"
+  "경찰,국힘당원게시판압수수색…한동훈'복당갈림길'될까",
+  "공정위배민·쿠팡·야놀자거래들여다본다:입점업체수수료·광고비...",
+  "공정위,쿠팡·배민등실태조사‥수수료·피해사례파악착수",
+  "종합특검,대검등4곳압수수색",
+  "영장기각후강제수사계속…권창영특검,심우정겨냥검찰청4곳압색",
+  "[단독]‘공소청전환’앞둔검찰,개정형사소송법4주간시범운영",
+  "국민의힘,한동훈당원게시판사건수사협조…한“공정수사하면조작...",
+  "장동혁지도부“‘당게사건’서버압수수색협조”···한동훈복당..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "적발 과징금 조사 정유 판매 제품 4사 제한 타사"
   ]
  ],
- "last_run": "2026-08-13T16:20:56.444980+09:00",
+ "last_run": "2026-08-13T16:31:06.551436+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
