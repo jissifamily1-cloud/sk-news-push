@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=1785226311&code=11151400&cp=nv",
-  "https://www.viewsnnews.com/article?q=237851",
-  "https://www.segye.com/newsView/20260812508114?OutUrl=naver",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42983",
-  "https://www.dailian.co.kr/news/view/1677500/?sc=Naver",
-  "https://www.insight.co.kr/news/567727",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050542",
-  "https://www.mediapen.com/news/view/1115836",
   "https://www.etnews.com/20260812000138",
   "https://www.hidomin.com/news/articleView.html?idxno=716946",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361626",
@@ -2999,17 +2991,17 @@
   "https://www.hani.co.kr/arti/society/obituary/1272811.html",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=274781",
   "https://www.mk.co.kr/article/12126838",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238721"
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238721",
+  "https://www.mk.co.kr/article/12126898",
+  "http://www.4th.kr/news/articleView.html?idxno=2116338",
+  "https://www.sentv.co.kr/article/view/sentv202608130106",
+  "https://www.sedaily.com/article/20079186",
+  "https://www.hankyung.com/article/2026081302151",
+  "https://news.skbroadband.com/news/articleView.html?idxno=235000",
+  "https://www.newsgn.com/news/articleView.html?idxno=567776",
+  "https://www.mk.co.kr/article/12126890"
  ],
  "seen_titles": [
-  "[Tech&Now]서울반도체,특허침해품판매금지판결…미국·유럽이어...",
-  "\"인니투자는한국전기차밸류체인에중요한역할\"",
-  "수협중앙회,70조금융체력으로증권까지확장…비은행키워어업인지...",
-  "'수소전용'택한HD현대,'AI'앞세운SK·GS···윤활유영토전쟁",
-  "'선무당식'아마추어정책남발이초래한투기장세에갈길잃은개미들...",
-  "변동성장세속순환매확산…화장품株,수출·실적날개달고'훨훨'",
-  "[오늘일본은]日태풍15호관동강타…강풍피해속13일까지최대15...",
-  "[신윤우의외환분석]팔아야할팔자",
   "'삼전닉스2배유혹'에개미피눈물…증권사는수수료890억챙겨",
   "대신증권,2분기어닝서프라이즈...하반기는평가손실부담",
   "美장기금리다시4.7%돌파…베선트안정책효과‘뚝’",
@@ -6001,29 +5993,17 @@
   "8월14일궂긴소식",
   "[ClosingMarket]KOSPISurgesPast6,800onSemiconductorRally",
   "한앤컴퍼니,SK해운·에이치라인해운선대‘조단위’맞교환",
-  "[EZ집중해부]\"투자자보호\"라더니…개미80만명교육해57억번금융투..."
+  "[EZ집중해부]\"투자자보호\"라더니…개미80만명교육해57억번금융투...",
+  "中YMTC,고성능낸드쏟아낸다…삼전닉스'맹추격'",
+  "공정위,정유4사정조준..'타사제품판매제한'조사",
+  "SK하이퍼,C레벨인선완료…글로벌AIDC공략속도",
+  "반도체ETF도양극화…‘TOP2’로자금몰렸다",
+  "[부고]정이순씨별세外",
+  "규제지역의새로운소득원…팔당상류'햇빛소득마을'도전",
+  "영남권첨단산업초격차프로젝트경남도,정부·기업과원팀으로'속도...",
+  "AI투자수요확인…코스피4거래일째반등"
  ],
  "recent_sigs": [
-  [
-   "2026-08-13T12:01:20.605834+09:00",
-   "the success above Raise facial recognition rate SKT"
-  ],
-  [
-   "2026-08-13T12:01:20.605834+09:00",
-   "커버리지 개시 추격자서 경쟁자로 미래에셋 반도체"
-  ],
-  [
-   "2026-08-13T12:01:20.605834+09:00",
-   "환불 붕괴에 요구 산다 신축아파트 무서워서 테라스"
-  ],
-  [
-   "2026-08-13T12:01:20.605834+09:00",
-   "높이 차질 개월 가능성 원전 지속 수위 헝가리 다뉴브강 가동"
-  ],
-  [
-   "2026-08-13T12:01:20.605834+09:00",
-   "기업은 맹추격 싹쓸이 삼전닉스 2위 일본 밀어낸"
-  ],
   [
    "2026-08-13T12:11:08.108930+09:00",
    "배당정책 멈춘 배당은 흑자 3년 어떻게 점검 SK이노베이션 만에 기대"
@@ -7039,9 +7019,33 @@
   [
    "2026-08-13T17:57:47.940762+09:00",
    "라더니 금융투 57억 80만명 보호 개미 투자자 교육해"
+  ],
+  [
+   "2026-08-13T18:01:24.203857+09:00",
+   "AIDC 공략 글로벌 완료 인선 SK하이퍼 속도 C레벨"
+  ],
+  [
+   "2026-08-13T18:01:24.203857+09:00",
+   "몰렸다 자금 양극화 반도체 TOP2 ETF도"
+  ],
+  [
+   "2026-08-13T18:01:24.203857+09:00",
+   "별세 정이순씨"
+  ],
+  [
+   "2026-08-13T18:01:24.203857+09:00",
+   "규제지역의 상류 팔당 햇빛소득마을 도전 새로운 소득원"
+  ],
+  [
+   "2026-08-13T18:01:24.203857+09:00",
+   "원팀으로 프로젝트 경남도 정부 영남권 첨단산업 초격차 속도 기업과"
+  ],
+  [
+   "2026-08-13T18:01:24.203857+09:00",
+   "코스피 AI투자 4거래일째 확인 반등 수요"
   ]
  ],
- "last_run": "2026-08-13T17:58:15.032527+09:00",
+ "last_run": "2026-08-13T18:01:43.210267+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
