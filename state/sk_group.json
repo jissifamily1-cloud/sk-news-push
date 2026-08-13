@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739840",
-  "https://www.newspim.com/news/view/20260811001074",
-  "https://www.newspim.com/news/view/20260811001072",
-  "https://www.newspim.com/news/view/20260811001070",
-  "https://www.mt.co.kr/politics/2026/08/11/2026081117332584137",
-  "https://www.joongboo.com/news/articleView.html?idxno=363733566",
-  "https://www.segye.com/newsView/20260811519639?OutUrl=naver",
   "https://www.koreajoongangdaily.com/korea/gwangjus-main-reservoir-drops-below-half-full-with-heat-stagnant-rain-absent/12819073",
   "https://www.news1.kr/photos/8051212",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720009",
@@ -2999,16 +2992,16 @@
   "https://www.sportsseoul.com/news/read/1628538",
   "https://www.ajunews.com/view/20260813125418144",
   "https://www.ajunews.com/view/20260813125647152",
-  "https://www.ytn.co.kr/_ln/0115_202608131251431118"
+  "https://www.ytn.co.kr/_ln/0115_202608131251431118",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314854",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477048",
+  "https://www.chosun.com/economy/stock-finance/2026/08/13/TLZPDO62E5D55HGQ2JML7Q4VKY/",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856609",
+  "https://economist.co.kr/article/view/ecn202608130031",
+  "https://news.unn.net/news/articleView.html?idxno=595902",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477047"
  ],
  "seen_titles": [
-  "[포토]건설중인반도체팹둘러보는3대메가프로젝트지원특별위원회",
-  "테라스무너진송도신축아파트…하자5만건넘어",
-  "민주당,SK하이닉스반도체팹건설현장방문",
-  "산업부장관\"호남반도체클러스터2029년1차완공목표\"",
-  "과기정통부,자율실험실산·학·연협의체출범…정유성교수위원장",
-  "리눅스재단\"韓,오픈소스AI주권경쟁의핵심무대로부상\"",
-  "\"이제견딜만해\"한풀꺾인폭염…이번엔'가뭄'걱정",
   "하이닉스,日키옥시아사실상최대주주로",
   "AI가가설세우고로봇이24시간실험···韓첫'자율실험실'연합출...",
   "與\"'팹완공단축'현실화위해뒷받침\"…용인반도체산단방문",
@@ -6001,7 +5994,14 @@
   "“다름을존중하며새가치만들자”최경주재단장학·통일꿈나무한...",
   "[食전食후]코스피,외국인·기관'사자'에장중6900선근접…코스닥1...",
   "<오늘의부고>",
-  "[충북]청소년AI심리상담추진...전문상담연계체계구축"
+  "[충북]청소년AI심리상담추진...전문상담연계체계구축",
+  "\"창피합니다.최태원회장님\"…거버넌스포럼\"솔리다임중복상장중단하...",
+  "차세대SiC·GaN반도체국산화가속...전력반도체테마상승기류뚜",
+  "한앤컴퍼니,SK해운·에이치라인‘조단위’선대재편",
+  "반도체노조,연대확산…성과급·현안공유나서",
+  "[오늘의삼전닉스]삼성전자,정말200조주주환원가능할까요",
+  "국립금오공대–영남대,반도체특성화대학사업단'3차년도상반기성과보...",
+  "신재생에너지정책에해상풍력까지…수주기대커지는풍력주"
  ],
  "recent_sigs": [
   [
@@ -7043,9 +7043,17 @@
   [
    "2026-08-13T13:01:23.235687+09:00",
    "전문상담 연계체계 구축 AI 청소년 심리상담"
+  ],
+  [
+   "2026-08-13T13:11:09.226271+09:00",
+   "영남대 상반기 반도체특성화대학사업단 성과보 국립금오공대 3차년도"
+  ],
+  [
+   "2026-08-13T13:11:09.226271+09:00",
+   "기대 신재생에너지 정책에 풍력주 해상풍력까지 수주 커지는"
   ]
  ],
- "last_run": "2026-08-13T13:01:32.306055+09:00",
+ "last_run": "2026-08-13T13:11:17.506164+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
