@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=69506",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134026",
-  "https://www.taxtimes.co.kr/news/article.html?no=276320",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49888",
-  "https://www.joongang.co.kr/article/25451413",
-  "https://www.mt.co.kr/living/2026/08/06/2026080617081527907",
-  "https://www.ajunews.com/view/20260806170107217",
-  "https://www.jjan.kr/article/20260806500491",
-  "https://www.news1.kr/photos/8044908",
-  "https://www.news1.kr/photos/8044916",
-  "https://www.news1.kr/photos/8044917",
   "https://news.mtn.co.kr/news-detail/2026080616321612605",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256988",
   "https://www.busan.com/view/busan/view.php?code=2026080617375420136",
@@ -2999,20 +2988,20 @@
   "https://www.news1.kr/society/court-prosecution/6258210",
   "https://www.chosun.com/national/incident/2026/08/13/GGRR3DYNGRBO3NSANTOX3VITEU/",
   "https://www.news1.kr/society/court-prosecution/6258226",
-  "https://www.ytn.co.kr/_ln/0103_202608131459299990"
+  "https://www.ytn.co.kr/_ln/0103_202608131459299990",
+  "https://www.hankyung.com/article/202608139497i",
+  "https://www.sedaily.com/article/20079055",
+  "http://www.koreatimes.com/article/1625442",
+  "https://www.khan.co.kr/article/202608131517001",
+  "https://www.pressian.com/pages/articles/2026081314502339554",
+  "https://www.nocutnews.co.kr/news/6562590",
+  "https://www.hani.co.kr/arti/politics/politics_general/1272753.html",
+  "https://www.donga.com/news/Society/article/all/20260813/134472582/1",
+  "http://www.inews24.com/view/1994707",
+  "https://www.hani.co.kr/arti/society/society_general/1272752.html",
+  "https://www.newspim.com/news/view/20260813001054"
  ],
  "seen_titles": [
-  "증권사·은행국고채입찰담합의혹,공정위15조과징금부과현실화...",
-  "공정위\"부당특약\"vs세라젬\"상호합의\"…금형도면소유권공방",
-  "공정위,중국법인에협력사기술자료넘긴세라젬제재",
-  "세라젬,협력사자료中법인에넘겨과징금철퇴",
-  "대리운전부업중성폭행혐의…공공기관직원,구속수사",
-  "스타벅스,'탱크데이'이후공석기획담당에하익성상무재영입",
-  "종합특검,대검찰청압수수색...'내란중요임무종사'심우정관련수사",
-  "고창시민단체,심덕섭군정의혹규명촉구서울상경투쟁",
-  "경찰,사상첫축구협회압수수색",
-  "압수수색중인대한축구협회",
-  "대한축구협회'사상첫경찰압수수색'",
   "76.2조원국고채입찰담합심의…최대15조원과징금나오나",
   "증권사10곳·은행5곳국고채담합의혹,칼빼든공정위···매출76조...",
   "SKT·KT·LGU+이통3사,개인정보사고면책등약관시정한다",
@@ -6001,7 +5990,18 @@
   "종합특검,대검·중앙지검등압수수색…'심우정내란가담'관련",
   "‘아들불법촬영폰폐기’경찰간부불송치…“친족특례로처벌불...",
   "700억가상자산빼돌린코인예치업체델리오…징역15년선고",
-  "종합특검,대검·중앙지검등추가압수수색...심우정'내란가담'의혹"
+  "종합특검,대검·중앙지검등추가압수수색...심우정'내란가담'의혹",
+  "\"담합과징금감면받고또가격인상\"…인쇄업계,제지사에'최후통첩'",
+  "화우,경찰출신신재문·김도경변호사영입…형소법대응인력강화",
+  "가주신분도용비상개인정보대량털려",
+  "아들‘불법촬영’시도휴대전화부순경찰간부···친족특례로형사...",
+  "한동훈'당원게시판의혹'…경찰,1년9개월만에강제수사",
+  "종합특검,'심우정내란가담'대검등추가압수수색",
+  "[뉴스다이브]‘8·13주택공급정책’분석",
+  "종합특검,심우정전총장겨냥대검·중앙지검등압수수색",
+  "경찰,'한동훈당게사건'서버업체압수수색…복당분수령되나",
+  "[속보]특검,대검압수수색…심우정·전무곤‘내란가담혐의’",
+  "종합특검,심우정'내란혐의'관련대검·중앙지검추가압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "적발 과징금 조사 정유 판매 제품 4사 제한 타사"
   ]
  ],
- "last_run": "2026-08-13T15:11:03.320285+09:00",
+ "last_run": "2026-08-13T15:21:03.585457+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
