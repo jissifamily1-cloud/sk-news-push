@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=711894",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852901",
-  "https://biz.sbs.co.kr/article_hub/20000325094?division=NAVER",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=606443",
   "https://www.sidae.com/article/2026072814371263021",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687645",
@@ -2999,12 +2996,12 @@
   "https://www.sidae.com/article/2026081313185865411",
   "https://www.joongboo.com/news/articleView.html?idxno=363733876",
   "https://www.kado.net/news/articleView.html?idxno=2066607",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430050"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430050",
+  "https://www.kwnews.co.kr/article/20260813501981",
+  "https://www.ajunews.com/view/20260813153044631",
+  "https://www.newsis.com/view/NISX20260813_0003748483"
  ],
  "seen_titles": [
-  "경영권걸린특유재산판결...최태원울고,이부진웃었다",
-  "[전문]조정식의장\"개헌논의,내년에본궤도에올릴것\"…\"대통령연...",
-  "[메가Pick]AI동맹띄우고남미자원벨트로…이재명·재계총수,'반도...",
   "조정식,입법·개헌속도전...“본회의부의법안,회기내처리”",
   "[직설]韓·美,AI동맹에도웃지못한코스피…中,CXMT등장이변수?",
   "9440억내주고도웃은최태원?…법조계\"4조아낀실리적판정승\"",
@@ -6001,7 +5998,10 @@
   "삼성·SK,현지생산거점확대에도미국은'추가투자압박'",
   "광복회경기도지부-중부일보-위례역사문화연구소역사포럼공동개최…...",
   "강원동부보훈지청,광복81주년맞아독립유공자초상디지털복원전...",
-  "하이닉스,88조쌓아두고중복상장논란…\"단순배당으론주주반발못막..."
+  "하이닉스,88조쌓아두고중복상장논란…\"단순배당으론주주반발못막...",
+  "[동정]최종현강원특별자치도의원",
+  "한미재계뉴노멀된'셔틀비즈니스'...韓보완재공급기지넘어동맹...",
+  "최창원부회장,SK디스커버리·SK가스상반기보수24억…\"작년성과에..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-08-13T17:30:25.389901+09:00",
    "확대에도 현지 투자 미국은 추가 압박 삼성 생산거점"
+  ],
+  [
+   "2026-08-13T18:10:16.307062+09:00",
+   "동맹 한미 넘어 뉴노멀 셔틀 보완재 비즈니스 재계 공급기지"
+  ],
+  [
+   "2026-08-13T18:10:16.307062+09:00",
+   "보수 성과에 24억 SK가스 상반기 SK디스커버리 부회장 작년"
   ]
  ],
- "last_run": "2026-08-13T18:00:39.938590+09:00",
+ "last_run": "2026-08-13T18:10:31.098930+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
