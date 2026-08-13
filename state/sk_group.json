@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444456",
-  "https://biz.sbs.co.kr/article_hub/20000328008?division=NAVER",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=318339",
-  "http://www.thebigdata.co.kr/view.php?ud=2026081115252263620a47484cf8_23",
-  "https://www.koreatimes.co.kr/path/A2026081109160003884",
-  "https://www.g-enews.com/view.php?ud=2026081115040433173084322ec9_1",
   "https://en.yna.co.kr/view/AEN20260811006200320?input=2106m",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05615366645546336",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=643007",
@@ -2999,15 +2993,15 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720196",
   "https://www.sentv.co.kr/article/view/sentv202608130011",
   "https://www.catchnews.kr/news/articleView.html?idxno=127279",
-  "https://www.mt.co.kr/tech/2026/08/13/2026081308390781832"
+  "https://www.mt.co.kr/tech/2026/08/13/2026081308390781832",
+  "https://www.ziksir.com/news/articleView.html?idxno=143006",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856495",
+  "https://biz.sbs.co.kr/article_hub/20000328416?division=NAVER",
+  "https://www.youthdaily.co.kr/news/article.html?no=225049",
+  "https://magazine.hankyung.com/business/article/202608138308b",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429899"
  ],
  "seen_titles": [
-  "'챔프전우승'KCC와'정규리그우승'LG,10월3일KBL개막전",
-  "[기획]오픈AI·앤스로픽상장채비…SK텔레콤들썩",
-  "[그래픽]10대기업무역집중도55.3%…역대최고",
-  "유승민\"삼전닉스반도체광주몰빵전격전이진정한지역균형발전인가...",
-  "“코스닥이제급락한다?”…인버스쓸어담은개미들,왜?",
-  "국내첫자율실험실구축협의체출범…삼성·SK하이닉스참여(종합)",
   "SK하이닉스,日반도체기업'키옥시아'최대주주됐다",
   "현장간담회에서인사말하는곽노정SK하이닉스CEO",
   "[포토]용인반도체클러스터찾은민주당",
@@ -6001,7 +5995,13 @@
   "'매출-632억'아이에스동서거래정지…제재가능성은낮은이유",
   "LG이노텍,MSCI한국지수편입…HLB등4개종목은제외",
   "8월12일주식시장주요공시",
-  "메모리떠났던인텔돌아오나…\"이석희영입보면알것\"[IT썰]"
+  "메모리떠났던인텔돌아오나…\"이석희영입보면알것\"[IT썰]",
+  "정부,첨단산업규제완화…4조2000억원투자유발기대",
+  "T커머스10곳재승인돌입…규제완화속상생주목",
+  "뉴욕증시,7월CPI둔화·AI주랠리에혼조세...나스닥0.5%↑",
+  "첨단3대프로젝트'속도전'…政,입지·규제풀고4.2조유치",
+  "AI빅3,ESG공시없었다[ESG뉴스5]",
+  "ETF괴리율2%룰19일시행되지만…운용사제재는'일단보류'"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-08-13T08:56:32.412239+09:00",
    "인텔 이석희 돌아오나 떠났던 메모리 영입 보면"
+  ],
+  [
+   "2026-08-13T09:01:26.059582+09:00",
+   "빅3 공시 없었다 ESG AI"
+  ],
+  [
+   "2026-08-13T09:01:26.059582+09:00",
+   "19일 제재는 ETF 운용사 보류 괴리율 시행되지만 일단"
   ]
  ],
- "last_run": "2026-08-13T08:56:54.505633+09:00",
+ "last_run": "2026-08-13T09:01:34.908490+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
