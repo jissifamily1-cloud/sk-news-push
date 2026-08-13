@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.e-platform.net/news/articleView.html?idxno=104276",
-  "https://www.hani.co.kr/arti/economy/economy_general/1270820.html",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265434",
-  "https://www.nocutnews.co.kr/news/6559341",
-  "https://www.news1.kr/finance/general-finance/6251320",
   "https://www.donga.com/news/Society/article/all/20260806/134431955/1",
   "http://www.fnnews.com/news/202608061502079434",
   "https://www.dt.co.kr/article/12076945",
@@ -2999,14 +2994,14 @@
   "http://www.lec.co.kr/news/articleView.html?idxno=752553",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212129",
   "https://news.tf.co.kr/read/life/2353698.htm",
-  "https://www.sidae.com/article/2026081015045174100"
+  "https://www.sidae.com/article/2026081015045174100",
+  "https://biz.chosun.com/policy/policy_sub/2026/08/13/NRVGE4X5SJBLJKMELIKWB3ISFY/",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008703541&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/politics/assembly/6257880",
+  "https://www.ikbc.co.kr/article/view/kbc202608130023",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390116.html"
  ],
  "seen_titles": [
-  "[HARFKO2026]센추리산업,산업용초고효율냉각·공조솔루션선보인다",
-  "“처벌없어도시장압력으로작동”…영국스튜어드십코드의힘",
-  "이통3사'개인정보사고면책'약관고친다…공정위지적에시정",
-  "소공연\"플랫폼상생협력촉진법환영…국회협조기대\"",
-  "공정위칼끝향한'국고채담합'최대15조과징금논란…금융권'술렁...",
   "세라젬,협력업체도면받아中계열사에넘겨…과징금4억3200만원",
   "\"대표단체만최대10곳\"…가맹사업법,통과에토종프랜차이즈교섭비...",
   "세라젬,하도급업체도면요구해中법인에넘겼다…과징금4.3억제재",
@@ -6001,7 +5996,12 @@
   "손호영판사의판례공부175/카메라가켜진압수수색,무엇이달라질...",
   "'관저이전의혹'감사위원배당까지손댄정황포착",
   "감사원'관저이전감사'배당조작정황…\"조은석회피목적\"",
-  "[시대좌담]수사-기소완전분리로억울한눈물사라질까"
+  "[시대좌담]수사-기소완전분리로억울한눈물사라질까",
+  "[단독]공정위,4대정유사의주유소상대‘타사제품판매금지’조사",
+  "경찰,'코인선물투자유도'유사투자자문사압수수색",
+  "경찰,국힘'당원게시판'서버관리업체압수수색",
+  "특검,'尹관저감사'주심배당조작정황포착…조은석피하려했나",
+  "'손실복구해주겠다'추가입금유도…경찰,유사투자자문업체압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "점은 롯데렌탈 품는 달랐던 어피니티와 TPG"
   ]
  ],
- "last_run": "2026-08-13T11:01:11.568969+09:00",
+ "last_run": "2026-08-13T11:11:04.284422+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
