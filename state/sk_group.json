@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.laborplus.co.kr/news/articleView.html?idxno=41275",
-  "https://www.chosun.com/economy/2026/08/12/Y6FCYO4GTJGE5IQ7JZMQMPLWTI/",
-  "https://www.chosun.com/economy/money/2026/08/12/QUH4F532L5BLZKADJKD5L34FVM/",
-  "https://www.donga.com/news/Economy/article/all/20260811/134459532/2",
-  "https://www.donga.com/news/Economy/article/all/20260811/134459537/2",
-  "https://www.hani.co.kr/arti/politics/politics_general/1271899.html",
   "https://www.hani.co.kr/arti/economy/economy_general/1271885.html",
   "https://www.hani.co.kr/arti/economy/economy_general/1271873.html",
   "https://www.hani.co.kr/arti/economy/economy_general/1271846.html",
@@ -2999,15 +2993,15 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=539932",
   "http://www.metroseoul.co.kr/article/20260813500357",
   "https://www.mt.co.kr/stock/2026/08/13/2026081313590968338",
-  "http://www.breaknews.com/1228828"
+  "http://www.breaknews.com/1228828",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84418",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=662363",
+  "https://news.skbroadband.com/news/articleView.html?idxno=234953",
+  "https://www.sisajournal.com/news/articleView.html?idxno=383494",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459133",
+  "https://www.etoday.co.kr/news/view/2614243"
  ],
  "seen_titles": [
-  "HBM빈틈,CXL로…메모리'용량전쟁'",
-  "나스닥밀리는데EWY2%↑·SOXL1%↑…'삼전4%반등'외국인이이어갈...",
-  "레버리지ETF,1%로시장흔들…\"개미무덤넘어시한폭탄\"경고",
-  "AI서버3년회수,아마존CEO가밝힌투자셈법",
-  "빅테크,AI메모리선점에2조달러투입",
-  "'기름기'낀정유사상반기실적",
   "[사설]정치에둘러싸인반도체,기업은말이없다",
   "與메가특위,용인반도체산단방문…\"완공앞당기도록노력\"",
   "인텔,200억달러증자에1000억달러몰렸다",
@@ -6001,7 +5995,13 @@
   "정유업계새캐시카우된윤활기유...그룹Ⅲ전환에미래달렸다",
   "[특징주]지앤비에스에코,영업익442%↑...주가는숨고르는중",
   "\"반도체적극투자할시기\"…미래에셋운용이꼽은반도체소부장ETF는",
-  "김성환기후부장관\"호남권·용인메가프로젝트,전력공급업무협약체..."
+  "김성환기후부장관\"호남권·용인메가프로젝트,전력공급업무협약체...",
+  "삼성전자-SK하이닉스노조'연대'기류…\"메가특구법·성과급한목소리...",
+  "[기획]'스페이스X0주'두달…개미살린미래에셋?",
+  "[8.15광복절특집]③백범탄생150주년…인천에서다시만나는김구",
+  "삼전노조,하이닉스연대설엔선긋고…근로조건엔\"함께목소리\"",
+  "빚은8%늘었는데연체는33%급증···'빚투청구서'현실로",
+  "삼전닉스레버리지규제에코스닥반등…ETF에도뭉칫돈"
  ],
  "recent_sigs": [
   [
@@ -6975,9 +6975,29 @@
   [
    "2026-08-13T14:59:57.486619+09:00",
    "기후부 용인 장관 김성환 메가프로젝트 전력공급 호남권 업무협약"
+  ],
+  [
+   "2026-08-13T15:01:22.785046+09:00",
+   "0주 살린 스페이스X 개미 미래에셋"
+  ],
+  [
+   "2026-08-13T15:01:22.785046+09:00",
+   "150주년 김구 탄생 만나는 인천에서 백범 다시"
+  ],
+  [
+   "2026-08-13T15:01:22.785046+09:00",
+   "하이닉스 연대설엔 노조 함께 긋고 근로조건엔 목소리 삼전"
+  ],
+  [
+   "2026-08-13T15:01:22.785046+09:00",
+   "현실로 연체는 빚투 빚은 청구서 급증 늘었는데"
+  ],
+  [
+   "2026-08-13T15:01:22.785046+09:00",
+   "코스닥 레버리지 뭉칫돈 반등 ETF에도 삼전닉스 규제에"
   ]
  ],
- "last_run": "2026-08-13T15:00:14.956039+09:00",
+ "last_run": "2026-08-13T15:01:39.809763+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
