@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1310038&inflow=N",
-  "https://www.seoul.co.kr/news/economy/2026/08/12/20260812500101?wlog_tag3=naver",
-  "https://www.ekn.kr/web/view.php?key=20260812027021918",
-  "https://economist.co.kr/article/view/ecn202608120033",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260812.99099003236",
-  "http://www.fnnews.com/news/202608121321472914",
-  "https://www.ziksir.com/news/articleView.html?idxno=142923",
   "https://www.tfmedia.co.kr/news/article.html?no=206405",
   "https://www.biospectator.com/view/news_view.php?varAtcId=29535",
   "https://www.mk.co.kr/article/12125258",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1678086/?sc=Naver",
   "https://economist.co.kr/article/view/ecn202608120067",
   "https://www.sedaily.com/article/20079265",
-  "https://www.etoday.co.kr/news/view/2614313"
+  "https://www.etoday.co.kr/news/view/2614313",
+  "https://www.hani.co.kr/arti/economy/finance/1272528.html",
+  "http://www.economytalk.kr/news/articleView.html?idxno=423391",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140155&t=NN",
+  "https://www.hankyung.com/article/2026081405616",
+  "https://www.wikitree.co.kr/articles/1152392",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=740133",
+  "https://www.chosun.com/economy/economy_general/2026/08/14/JLRELC7EKVDDTGPIZWTC5AVTT4/"
  ],
  "seen_titles": [
-  "KOSPITriggersBuy-SideSidecarAfterChipRally",
-  "SK하이닉스통합노조출범초읽기⋯삼성초기업노조연대가능성도",
-  "삼전닉스7%급등,코스피6600선회복…매수사이드카발동[장중시황]",
-  "SK하이닉스통합노조출범임박…1250명확보",
-  "정책모멘텀실종·SK하닉중복상장악재…탄력잃은코스피",
-  "전남광주특별시-삼성-SK-한전,‘호남권반도체클러스터전력공급’업...",
-  "호남·용인반도체산단에20GW전력공급…정부·전남광주·삼성·SK·한...",
   "[오늘의삼전닉스]2027년글로벌데이터센터1400조,D램수요덩달아...",
   "호남·용인반도체산단전력공급체계구축…2단계로진행",
   "정석근SK하이퍼대표\"2~3년이AIDC골든타임…아시아AI허브될것\"",
@@ -6001,7 +5994,14 @@
   "“52시간풀면반도체빨라지나”…R&D속도전의조건[메가특구법진통...",
   "개미몰리면주가상승?SKT·카카오↑한미반도체·롯데웰푸드↓",
   "‘AI인프라’특화속도…신성장모터장착하는전통제조사들[biz-플...",
-  "[오늘의IR]미래에셋증권·에스디바이오센서·한국콜마등"
+  "[오늘의IR]미래에셋증권·에스디바이오센서·한국콜마등",
+  "삼전·닉스급등에코스피‘매수사이드카’…반도체투자심리호전",
+  "[ESG경영분석]유진투자증권…\"지배구조:사외이사중심견제구조+내부...",
+  "7월PPI둔화에금리인상우려완화...S&P500'사상최고'-[글로벌마감...",
+  "물가·유가꺾이자…S&P500사상최고찍었다[뉴욕증시브리핑]",
+  "전용기타고한국온빌게이츠…한국기업들이촉각세우는이유",
+  "[재계포커스]실적버텼지만신뢰는다시쌓아야…박윤영의KT,'신뢰·...",
+  "“주가높을때팔걸”...美은퇴자들이후회하는3가지[왕개미연구..."
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,21 @@
   [
    "2026-08-14T07:13:09.300827+09:00",
    "한국콜마 미래에셋증권 에스디바이오센서"
+  ],
+  [
+   "2026-08-14T07:21:09.203003+09:00",
+   "전용기 세우는 한국 촉각 기업들이 이유 게이츠 타고"
+  ],
+  [
+   "2026-08-14T07:21:09.203003+09:00",
+   "다시 신뢰는 박윤영의 쌓아야 신뢰 실적 KT 버텼지만"
+  ],
+  [
+   "2026-08-14T07:21:09.203003+09:00",
+   "3가지 왕개미연구 높을 후회하는 은퇴자들이 주가"
   ]
  ],
- "last_run": "2026-08-14T07:14:05.337687+09:00",
+ "last_run": "2026-08-14T07:21:20.338971+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
