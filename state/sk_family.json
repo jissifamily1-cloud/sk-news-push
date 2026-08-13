@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166700",
-  "http://www.breaknews.com/1224873",
   "http://www.seouleconews.com/news/articleView.html?idxno=92670",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=313407",
   "https://lawtalknews.co.kr/article/TPQZTF690M56",
@@ -2999,11 +2997,11 @@
   "http://www.press9.kr/news/articleView.html?idxno=81064",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720297",
   "https://n.news.naver.com/mnews/article/214/0001514309",
-  "https://www.gosiweek.com/article/1065601243423287"
+  "https://www.gosiweek.com/article/1065601243423287",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260813150811gqS",
+  "https://www.chosun.com/economy/industry-company/2026/08/13/2MAEQW5675ANDATUNACCDYXQXU/"
  ],
  "seen_titles": [
-  "이재용·최태원,시칠리아서글로벌테크CEO들과만난다",
-  "[인사]포항시(6급이하)",
   "충남도의회의원연구모임심의위출범",
   "\"본업중심사업구조명확해져\"앤씨앤,2분기흑자달성",
   "대한펜싱협회,국제·亞연맹과MOU…“중장기발전위한상호협력”",
@@ -6001,7 +5999,9 @@
   "토스증권\"SK하이닉스,솔리다임별도상장시주주가치희석...주주환원...",
   "솔리다임상장우려에흔들린SK하이닉스…주주달랠'당근'나올까",
   "[시선집중]최종건“쿠팡,문제터지자워싱턴으로달려가프레임을바...",
-  "\"라면한봉지의기억,3,000만원나눔으로\"철가방요리사임태훈셰프..."
+  "\"라면한봉지의기억,3,000만원나눔으로\"철가방요리사임태훈셰프...",
+  "극심한가뭄에단비절실…광복절연휴전국비",
+  "이혼재상고D-1...최태원회장명분이냐,실리냐고심"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-08-13T14:58:54.383961+09:00",
    "솔리다임 나올까 주주 우려에 흔들린 SK하이닉스 달랠 상장 당근"
+  ],
+  [
+   "2026-08-13T15:10:16.197564+09:00",
+   "회장 재상고 명분이냐 고심 실리냐 이혼"
   ]
  ],
- "last_run": "2026-08-13T15:00:38.292885+09:00",
+ "last_run": "2026-08-13T15:10:31.491453+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
