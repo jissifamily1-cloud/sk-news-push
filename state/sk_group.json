@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tfmedia.co.kr/news/article.html?no=206405",
-  "https://www.biospectator.com/view/news_view.php?varAtcId=29535",
-  "https://www.mk.co.kr/article/12125258",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=270159",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142946",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476673",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16161550",
-  "https://www.xportsnews.com/article/2182766",
-  "https://www.sportschosun.com/football/2026-08-12/202608120100069980004332",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429783",
   "https://www.etoday.co.kr/news/view/2613724",
   "https://biz.sbs.co.kr/article_hub/20000328256?division=NAVER",
@@ -2999,18 +2990,18 @@
   "https://www.hankyung.com/article/2026081405616",
   "https://www.wikitree.co.kr/articles/1152392",
   "https://www.polinews.co.kr/news/articleView.html?idxno=740133",
-  "https://www.chosun.com/economy/economy_general/2026/08/14/JLRELC7EKVDDTGPIZWTC5AVTT4/"
+  "https://www.chosun.com/economy/economy_general/2026/08/14/JLRELC7EKVDDTGPIZWTC5AVTT4/",
+  "https://www.yna.co.kr/view/AKR20260814014500008?input=1195m",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260814072549rmd",
+  "https://www.etnews.com/20260814000016",
+  "http://coinreaders.com/252755",
+  "https://dealsite.co.kr/articles/167124",
+  "https://www.sentv.co.kr/article/view/sentv202608140006",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608131528209800980",
+  "https://www.etoday.co.kr/news/view/2614441",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005900848"
  ],
  "seen_titles": [
-  "[오늘의삼전닉스]2027년글로벌데이터센터1400조,D램수요덩달아...",
-  "호남·용인반도체산단전력공급체계구축…2단계로진행",
-  "정석근SK하이퍼대표\"2~3년이AIDC골든타임…아시아AI허브될것\"",
-  "SK쉴더스,폭염대응안전관리강화…온열질환예방체계확대",
-  "[서기수의경제+]젠슨황이한국에던진‘4개의AI승부수’",
-  "에임드바이오,2Q매출202억..전년比166%증가",
-  "“한국은너무아찔”…롤러코스피에놀란외인투자자들대만‘눈길’",
-  "\"주52시간풀어달라\"더니…반도체6개월연장근로신청,1년여간4건뿐",
-  "ETF,'삼전닉스'레버리지규제후지수중심재편...거래대금·수익률...",
   "\"꿈의배터리와MLCC의만남\"…삼성전기,초소형전고체로신시장개척",
   "\"5위와6위5경기차\"KBO,가을야구진입장벽더높아졌다",
   "'전희철딸'전수완,미스코리아본선앞둔드레스자태…우월한비율...",
@@ -6001,7 +5992,16 @@
   "물가·유가꺾이자…S&P500사상최고찍었다[뉴욕증시브리핑]",
   "전용기타고한국온빌게이츠…한국기업들이촉각세우는이유",
   "[재계포커스]실적버텼지만신뢰는다시쌓아야…박윤영의KT,'신뢰·...",
-  "“주가높을때팔걸”...美은퇴자들이후회하는3가지[왕개미연구..."
+  "“주가높을때팔걸”...美은퇴자들이후회하는3가지[왕개미연구...",
+  "[마켓뷰]'인플레압력둔화'美훈풍…코스피5일째상승이어가나",
+  "[이시각헤드라인]8월14일라이브투데이",
+  "스피어AX,AI기술확장성·글로벌진출속도…마키나락스와전략전업...",
+  "SK하이닉스주가2배뛴다?월가가제시한파격목표가",
+  "[국민연금CIO숏리스트]-2.4%사학연금+11%만든이규홍…멀티펙터모...",
+  "SK케미칼,2분기별도매출4791억원‘분기최대’…영업익26.8%↑",
+  "상·하한가금지·정적VI도입에도'불안'…NXT,프리마켓단일가매매꺼...",
+  "[증시키워드]LG구광모,美서젠슨황만난다⋯‘모건스탠리효과’에...",
+  "증시오늘'핫이슈'\"K-증시,드디어안정찾았다…'체계적위험'만빼고..."
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,29 @@
   [
    "2026-08-14T07:21:09.203003+09:00",
    "3가지 왕개미연구 높을 후회하는 은퇴자들이 주가"
+  ],
+  [
+   "2026-08-14T07:31:11.993753+09:00",
+   "이규홍 만든 멀티펙터 사학연금"
+  ],
+  [
+   "2026-08-14T07:31:11.993753+09:00",
+   "별도 영업익 매출 분기 4791억원 2분기 SK케미칼"
+  ],
+  [
+   "2026-08-14T07:31:11.993753+09:00",
+   "프리마켓 도입에도 NXT 금지 단일가매매 하한가 불안 정적VI"
+  ],
+  [
+   "2026-08-14T07:31:11.993753+09:00",
+   "만난다 구광모 모건스탠리 효과 LG 젠슨"
+  ],
+  [
+   "2026-08-14T07:31:11.993753+09:00",
+   "안정 증시 찾았다 드디어 체계적 빼고 위험 핫이슈"
   ]
  ],
- "last_run": "2026-08-14T07:21:20.338971+09:00",
+ "last_run": "2026-08-14T07:31:28.474640+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
