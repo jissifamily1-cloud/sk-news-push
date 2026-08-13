@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Society/article/all/20260806/134432372/1",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630532",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630583",
-  "https://news.jtbc.co.kr/article/NB12312069?influxDiv=NAVER",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6937620",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260807.22006001757",
-  "https://www.pn.or.kr/news/articleView.html?idxno=33962",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630600",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/06/2026080690259.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630541",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6251720",
   "https://sports.hankooki.com/news/articleView.html?idxno=6937623",
   "https://sports.donga.com/sports/article/all/20260806/134432219/1",
   "https://sports.hankooki.com/news/articleView.html?idxno=6937625",
@@ -2999,20 +2988,20 @@
   "https://www.cstimes.com/news/articleView.html?idxno=716777",
   "https://www.yna.co.kr/view/AKR20260813150000004?input=1195m",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258993&CMPT_CD=P0010",
-  "https://www.tfmedia.co.kr/news/article.html?no=206463"
+  "https://www.tfmedia.co.kr/news/article.html?no=206463",
+  "https://biz.sbs.co.kr/article_hub/20000328591?division=NAVER",
+  "https://www.sidae.com/article/2026081313191048957",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05877766645546992",
+  "https://www.pressian.com/pages/articles/2026081317155666233",
+  "https://www.mt.co.kr/society/2026/08/13/2026081315434256137",
+  "https://www.tokenpost.kr/news/cryptocurrency/390020",
+  "https://news.tf.co.kr/read/life/2353926.htm",
+  "https://www.ytn.co.kr/_ln/0103_202608131725541524",
+  "https://www.mk.co.kr/article/12126769",
+  "https://www.ajunews.com/view/20260813170221040",
+  "https://www.yna.co.kr/view/AKR20260813152300002?input=1195m"
  ],
  "seen_titles": [
-  "경찰,축구협회압수수색…감독추천·선임내부문건확보",
-  "[단독]‘장윤기’논란인데…‘경찰관뺑소니’수사빼돌린경찰",
-  "[단독]‘장윤기사과’당일,‘경찰관뺑소니’기밀빼돌린경찰들",
-  "홍명보이어축구협회사상첫압색…이임생도조사했다",
-  "심판성접대라니…한국축구대표팀,향후월드컵못나갈가능성은[초점...",
-  "수사독점책임커진경찰,방치사건해결부랴부랴속도전",
-  "대구경찰관음주뺑소니,'수사정보유출'의혹...현직2명입건",
-  "이동통신3사불공정약관자진시정조치",
-  "8월6일'뉴스9'예고",
-  "‘아동성범죄’최영중구속송치…미성년피해자2명확인",
-  "현직경찰음주사고'수사정보유출의혹'…대구수성서등압수수색(종...",
   "'안마업소서심판접대충격'...대한축구협회는묵묵부답",
   "경찰,대한축구협회서울축구회관·천안사무실압수수색…‘홍명보선...",
   "'이럴수가'축협,외국인심판성접대…런던올림픽동메달박탈가능성...",
@@ -6001,7 +5990,18 @@
   "스타벅스,진출27년만에첫분기적자",
   "10월부터검사어떻게일하나…대검,공소청체제시범운영키로",
   "\"깊은유감\"3번,주진우벼르는우원식...\"또허위주장시법적조치\"",
-  "공정위,국내정유4사현장조사…자사제품판매강요등점검"
+  "공정위,국내정유4사현장조사…자사제품판매강요등점검",
+  "김동관의방산'폭풍확장'…KAI에오스탈도베팅[CEO업&다운]",
+  "한화지분확대에반발하는KAI노조'공급망장악'주장따져보니",
+  "대검,공소청전환앞두고4개청시범운영…피의자신문대신‘면담’",
+  "빌라2곳빌려'실내대마농장'운영…텔레그램통해판매30대둘구속",
+  "친족특례뒤숨은현직경찰…아들몰카폰부수고도불송치",
+  "델리오대표,투자자자산횡령으로징역15년선고",
+  "특검,'심우정계엄가담'대검·서울고검추가압수수색",
+  "[속보]종합특검,'채상병수사방해'이시원비서관등기소",
+  "‘3500억원대짬짜미’…반도체소재업체·임직원재판행",
+  "종합특검,'내란중요임무종사'심우정관련대검·서울고검압수수색",
+  "공정위,정유4사'타사제품판매제한'현장조사"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "TPG와 롯데렌탈 롯데 만든다 떠나는 성장동력"
   ]
  ],
- "last_run": "2026-08-13T17:20:54.694379+09:00",
+ "last_run": "2026-08-13T17:31:08.848791+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
