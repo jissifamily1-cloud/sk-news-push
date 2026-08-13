@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852967",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1065330",
   "https://www.businesspost.co.kr/BP?command=article_view&num=443326",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045421",
@@ -2999,10 +2998,10 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363733822",
   "https://www.econovill.com/news/articleView.html?idxno=747963",
   "https://www.mt.co.kr/industry/2026/08/13/2026081318340695086",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260813203548Mt3"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260813203548Mt3",
+  "https://www.dailian.co.kr/news/view/1678323/?sc=Naver"
  ],
  "seen_titles": [
-  "SK하이닉스ADR공모가아래로...스페이스X도상장후급락",
   "이재용·최태원,美샌프란이어伊'구글캠프'까지'AI동행'",
   "조정식\"연임개헌,국민선택문제…선거없는내년개헌적기\"",
   "조정식\"개헌,차분하고담대하게추진할것\"",
@@ -6001,17 +6000,10 @@
   "\"잊혀진81인의이름을다시부르다\"...올해의경기도독립유공자81인...",
   "성과금갈등2라운드…삼성전자DX·SK하이닉스노조동시에움직이나",
   "SK하이닉스통합노조공식출범…조합원2400명돌파",
-  "수도권에23만호+α공급…강서·남양주그린벨트포함"
+  "수도권에23만호+α공급…강서·남양주그린벨트포함",
+  "최태원·노소영이혼소송재상고D-1…9440억원확정여부주목"
  ],
  "recent_sigs": [
-  [
-   "2026-08-13T14:50:16.742642+09:00",
-   "인디애나 착공 생산거점 가속 다변화 27일 SK하이닉스"
-  ],
-  [
-   "2026-08-13T14:58:54.383961+09:00",
-   "솔리다임 나올까 주주 우려에 흔들린 SK하이닉스 달랠 상장 당근"
-  ],
   [
    "2026-08-13T15:10:16.197564+09:00",
    "회장 재상고 명분이냐 고심 실리냐 이혼"
@@ -6087,9 +6079,13 @@
   [
    "2026-08-13T19:30:23.489461+09:00",
    "통합노조 SK하이닉스 출범 조합원 2400명 돌파"
+  ],
+  [
+   "2026-08-13T21:00:32.705869+09:00",
+   "재상고 여부 주목 9440억원 이혼소송 확정"
   ]
  ],
- "last_run": "2026-08-13T20:50:26.909477+09:00",
+ "last_run": "2026-08-13T21:00:44.274550+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
