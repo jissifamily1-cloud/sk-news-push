@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/sb-founded/6251439",
-  "http://www.fnnews.com/news/202608061539264625",
-  "https://www.sportschosun.com/football/2026-08-06/202608060100038320002385",
-  "https://www.hankookilbo.com/news/article/A2026080615120002634?did=NA",
-  "https://www.greened.kr/news/articleView.html?idxno=347030",
-  "https://www.joongang.co.kr/article/25451385",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06655126645544696",
   "http://www.metroseoul.co.kr/article/20260806500434",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429010",
@@ -2999,15 +2993,15 @@
   "https://www.etoday.co.kr/news/view/2614135",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390140.html",
   "https://www.etnews.com/20260813000236",
-  "https://www.sportsworldi.com/newsView/20260813513213"
+  "https://www.sportsworldi.com/newsView/20260813513213",
+  "https://www.mydaily.co.kr/page/view/2026081313320456636",
+  "https://www.ytn.co.kr/_ln/0101_202608131339100256",
+  "https://www.hankookilbo.com/news/article/A2026081311400005407?did=NA",
+  "https://www.newdaily.co.kr/site/data/html/2026/08/13/2026081300156.html",
+  "https://www.ytn.co.kr/_ln/0102_202608131333386911",
+  "https://www.mt.co.kr/society/2026/08/13/2026081311002827539"
  ],
  "seen_titles": [
-  "소공연\"'온라인플랫폼상생협력법'기울어진운동장해소기대\"",
-  "\"피규어팝니다\"알고보니코브라?주택가파고든멸종위기종밀수조직",
-  "\"이렇게까지할일이야?\"경찰,'감독선임의혹'대한축구협회첫압수...",
-  "단순무허가보험영업인줄알았는데...檢보완수사로'수십억대사기'...",
-  "238억'장보고-Ⅱ'사업위해'4억대뇌물'비리…LIGD&A관계자구속",
-  "[단독]법무부,대검에‘합수본운영’의견조회",
   "롯데렌탈인수복잡해진셈법…'기업결합'여전한숙제[마켓인]",
   "SK하이닉스'주식성과급'논란…자사주물량감당되나",
   "\"금통위날까지\"국고채담합전원회의앞두고한숨…과징금최대15조가...",
@@ -6001,7 +5995,13 @@
   "‘도이치주가조작’공범,유죄확정…징역10개월·집행유예2년",
   "경찰,'한동훈당원게시판사건'압수수색…수사본격화",
   "공정위,배달·오픈마켓·숙박플랫폼들여다본다…수수료·광고비실태...",
-  "[온탕냉탕]김지원1억기부부터연예계덮친‘주사이모’경찰조사..."
+  "[온탕냉탕]김지원1억기부부터연예계덮친‘주사이모’경찰조사...",
+  "공정위,배달·오픈마켓·숙박플랫폼실태조사…“수수료집중점검”",
+  "경찰,어제국민의힘당원게시판압수수색...\"한동훈사건관련\"",
+  "경찰,'한동훈당게사태'국힘서버업체압수수색",
+  "경찰,한동훈'당원게시판사건'첫강제수사…국민의힘서버압수수...",
+  "[YTN실시간뉴스]수도권2.7만호영끌...\"마른수건짠다\"",
+  "'취업청탁'혐의노영민·김현미1심무죄…법원\"업무방해아니다\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "적발 과징금 조사 정유 판매 제품 4사 제한 타사"
   ]
  ],
- "last_run": "2026-08-13T13:31:01.477340+09:00",
+ "last_run": "2026-08-13T13:41:00.723524+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
