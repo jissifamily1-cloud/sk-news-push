@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260806_0021390977",
-  "https://www.newsis.com/view/NISI20260806_0021390979",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=607614",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630421",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2293069",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260806.99099001714",
   "https://www.hg-times.com/news/articleView.html?idxno=304239",
   "https://www.polinews.co.kr/news/articleView.html?idxno=739405",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2293073",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260813001061",
   "https://www.dt.co.kr/article/12078180",
   "https://view.asiae.co.kr/article/2026081315413003516",
-  "https://www.chosun.com/national/national_general/2026/08/13/4S7GVRKLYRDT7GDGSQSCYQVHWA/"
+  "https://www.chosun.com/national/national_general/2026/08/13/4S7GVRKLYRDT7GDGSQSCYQVHWA/",
+  "https://www.koscaj.com/news/articleView.html?idxno=325831",
+  "http://www.inews24.com/view/1994799",
+  "https://www.cwn.kr/news/articleView.html?idxno=53134",
+  "https://www.newsis.com/view/NISX20260813_0003748126",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636292",
+  "https://www.sisajournal.com/news/articleView.html?idxno=383533"
  ],
  "seen_titles": [
-  "2차종합특검대검추가압수수색",
-  "특검,대검정보통신과압수수색",
-  "76조원국고채입찰담합의혹…공정위,최대15조원과징금부과심의착...",
-  "종합특검,대검재차압수수색…심우정전총장‘내란가담’의혹관...",
-  "종합특검,심우정前총장'내란가담의혹'…대검재차압수수색",
-  "특검,심우정전검찰총장'내란가담의혹'관련대검압수수색",
   "'아동성범죄'최영중전청주시의원구속송치",
   "'홍명보특혜선임의혹'경찰축구협회압수수색...설립후첫강제수...",
   "대리운전중성폭행혐의…농식품부산하기관공무원구속송치",
@@ -6001,7 +5995,13 @@
   "'700억대코인사기'혐의델리오대표1심징역15년…법정구속",
   "한동훈당게논란경찰수사에…장동혁,서버압수수색허용",
   "종합특검,심우정前총장‘계엄가담의혹’대검·중앙지검등압수수...",
-  "‘700억원대사기’코인업체델리오대표,징역15년"
+  "‘700억원대사기’코인업체델리오대표,징역15년",
+  "공정위,하도급법위반조사·처분권광역지자체에순차이양추진",
+  "대법,'마약깐부'회원·의사공소기각...\"檢직접수사범위아냐\"",
+  "\"5배,10배비싸게팔았다\"…온라인서전문의약품불법유통한일당",
+  "'원주세모녀피습'10대에법정최고형징역20년구형",
+  "‘가상자산출금중단’델리오대표1심징역15년…가상자산700여억...",
+  "'구속영장기각'심우정겨눈종합특검,대검또압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "적발 과징금 조사 정유 판매 제품 4사 제한 타사"
   ]
  ],
- "last_run": "2026-08-13T15:51:16.171517+09:00",
+ "last_run": "2026-08-13T16:01:15.655144+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
