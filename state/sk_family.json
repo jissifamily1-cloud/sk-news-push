@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687645",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80166",
-  "https://biz.sbs.co.kr/article_hub/20000325128?division=NAVER",
-  "https://m.skyedaily.com/news_view.html?ID=308703",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1090622",
   "https://www.gukjenews.com/news/articleView.html?idxno=3648741",
   "http://www.joseilbo.com/news/news_read.php?uid=572774&class=32",
@@ -2999,13 +2995,13 @@
   "https://www.ajunews.com/view/20260813153044631",
   "https://www.newsis.com/view/NISX20260813_0003748483",
   "https://www.kbmaeil.com/article/20260813500026",
-  "http://www.4th.kr/news/articleView.html?idxno=2116341"
+  "http://www.4th.kr/news/articleView.html?idxno=2116341",
+  "https://www.m-i.kr/news/articleView.html?idxno=1402076",
+  "https://www.ytn.co.kr/_ln/0103_202608131830220849",
+  "https://www.news1.kr/industry/general-industry/6258604",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260813183427Hak"
  ],
  "seen_titles": [
-  "9440억내주고도웃은최태원?…법조계\"4조아낀실리적판정승\"",
-  "[특보]대구경북폭염계속…이시각대구동성로",
-  "\"미국로비생태계잘아는쿠팡,'미기업당하고있어'로프레임바꿔...",
-  "박지현,사실은‘목포칼잡이’출신이었다?",
   "\"중국산반도체는중국용\"…삼전·닉스'매수'띄운이유",
   "최태원9440억다음은권혁빈···'8조이혼'얼마나나눌까",
   "조정식의장\"대통령연임개헌…국민여론과선택의문제\"",
@@ -6001,7 +5997,11 @@
   "한미재계뉴노멀된'셔틀비즈니스'...韓보완재공급기지넘어동맹...",
   "최창원부회장,SK디스커버리·SK가스상반기보수24억…\"작년성과에...",
   "20억의위자료",
-  "솔리다임IPO논란…\"SK하이닉스,주주가치보호원칙내놔야\""
+  "솔리다임IPO논란…\"SK하이닉스,주주가치보호원칙내놔야\"",
+  "[기획]공장만지어선못돌린다…전력·용수·인재핵심과제로",
+  "내일최태원-노소영'재산분할'재상고시한...소송전마무리?",
+  "최창원부회장,상반기보수24억…\"지난해성과에상여금증가\"",
+  "빌게이츠이사장내일방한…SK그룹최태원·HD현대정기선만난다"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,17 @@
   [
    "2026-08-13T18:20:17.468012+09:00",
    "위자료 20억의"
+  ],
+  [
+   "2026-08-13T18:40:17.862366+09:00",
+   "만난다 방한 HD현대 이사장 정기선 빌게이츠"
+  ],
+  [
+   "2026-08-13T18:40:17.862366+09:00",
+   "소송전 재상고 시한 마무리 재산분할"
   ]
  ],
- "last_run": "2026-08-13T18:30:31.857910+09:00",
+ "last_run": "2026-08-13T18:40:34.618908+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
