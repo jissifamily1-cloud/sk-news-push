@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=382726",
-  "http://www.tjb.co.kr/sub0301/bodo/view/id/102113",
-  "https://www.newspim.com/news/view/20260807000259",
-  "https://www.seoul.co.kr/news/society/2026/08/07/20260807500030?wlog_tag3=naver",
   "https://www.ngonews.kr/news/articleView.html?idxno=234861",
   "https://biz.heraldcorp.com/article/10833733",
   "https://www.ytn.co.kr/_ln/0103_202608070931096628",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1678420/?sc=Naver",
   "https://www.seoul.co.kr/news/society/law/2026/08/14/20260814500061?wlog_tag3=naver",
   "https://www.busan.com/view/busan/view.php?code=2026081410265234967",
-  "https://www.etoday.co.kr/news/view/2614582"
+  "https://www.etoday.co.kr/news/view/2614582",
+  "https://www.insight.co.kr/news/568250",
+  "https://www.kukinews.com/article/view/kuk202608140031",
+  "https://www.gokorea.kr/news/articleView.html?idxno=875007",
+  "https://www.seoulfn.com/news/articleView.html?idxno=635671"
  ],
  "seen_titles": [
-  "[속보]합수본,중앙·서울·경기도선관위등9곳압수수색",
-  "\"실수는숨기고숫자는맞추고?\"…'투표조작의혹'중앙선관위등동시...",
-  "합수본,'투표율조작의혹'서울·경기·충북선관위등추가압수수색",
-  "경찰-노동청,‘근로자끼임사고’HL만도평택사업장16일만에압수수...",
   "합수본,'투표율조작의혹'서울·경기·충북선관위등동시추가압수...",
   "노동부·경찰,HL만도평택공장압수수색…끼임사망사고강제수사착수",
   "[속보]경찰,HL만도노동자사망사고평택공장압수수색",
@@ -6001,7 +5997,11 @@
   "홍명보,경찰조사서\"감독선임과정중정몽규전회장과소통한적없...",
   "‘피습자작극혐의’정이한전부산시장후보다음달첫재판",
   "102개대기업집단,비주력사업정리·미래사업진출활발",
-  "대규모기업집단소속회사4개↓…\"비주력정리·AI등고부가산업진출\""
+  "대규모기업집단소속회사4개↓…\"비주력정리·AI등고부가산업진출\"",
+  "홍명보,경찰조사서\"정몽규와연락없었다\"...축협선임개입의혹전...",
+  "이찬진금감원장1주년,주가조작끊고‘사전예방’칼날",
+  "\"미래를향한도약:국내대기업,AI·반도체중심포트폴리오재편\"",
+  "SK,D&D·원스토어'계열제외'···삼성은플랙트그룹코리아'편입'"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "정리 4개 진출 대규모기업집단 비주력 소속회사 AI등 고부가산업"
   ]
  ],
- "last_run": "2026-08-14T10:31:08.093140+09:00",
+ "last_run": "2026-08-14T10:41:04.048421+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
