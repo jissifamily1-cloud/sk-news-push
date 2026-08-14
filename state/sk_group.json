@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02259926645546992",
-  "https://view.asiae.co.kr/article/2026081305330371298",
-  "https://www.news1.kr/world/international-economy/6257436",
-  "https://www.chosun.com/economy/money/2026/08/13/42QYGD7RQNCJDFRCYIIAHQEXRY/",
-  "https://www.dt.co.kr/article/12078016",
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170136",
   "https://www.mt.co.kr/entertainment/2026/08/13/2026081305183896991",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101810218690497",
@@ -2999,14 +2994,14 @@
   "https://thetracker.co.kr/View.aspx?No=4186144",
   "http://www.popcornnews.net/news/articleView.html?idxno=129786",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545158",
-  "https://www.mt.co.kr/world/2026/08/14/2026081414451534133"
+  "https://www.mt.co.kr/world/2026/08/14/2026081414451534133",
+  "https://biz.chosun.com/science-chosun/bio/2026/08/14/Y36PWVNA2FDQ3C325ATSOEUVNY/",
+  "http://www.e2news.com/news/articleView.html?idxno=333264",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3665013",
+  "https://www.imaeil.com/page/view/2026081414380090444",
+  "https://www.imaeil.com/page/view/2026081414444035032"
  ],
  "seen_titles": [
-  "LG엔솔·삼성SDI·SK온,북미서홀로서기…생산유연성높여",
-  "美AI반도체주강세…코어위브19%·SK하이닉스9%급등",
-  "\"삼전닉스직원이1등신랑감,의사인기버금\"…WSJ도주목'반도체왕...",
-  "'핀셋채용'나선SK하이닉스,HBM인력정조준",
-  "하루9%‘껑충’스페이스X의귀환…공매도난리났다",
   "대학은연구비기근,중학생엔100만원펀드…\"예산칸막이없애야\"",
   "[뉴욕증시]7월CPI둔화확인…S&P500·나스닥상승마감",
   "나스닥0.54%↑…CPI안도·AI투자기대에반등성공[뉴욕마감]",
@@ -6001,7 +5996,12 @@
   "하나금융,단자회사에서878조종합금융그룹으로…위기를기회로바꾼...",
   "SK증권,상반기순익569억원…전년比266.4%↑",
   "1년만에한국찾은빌게이츠,조정식국회의장면담[현장영상]",
-  "최태원회장\"반도체주문량2배,전쟁같은상황…내년이가장부족\""
+  "최태원회장\"반도체주문량2배,전쟁같은상황…내년이가장부족\"",
+  "백신넘어항체로…SK바이오,RSV예방항체글로벌임상시동",
+  "산업부,간부대상AX교육…제조AI전환추진력더한다",
+  "정기선HD현대회장,빌게이츠와회동…SMR협력논의",
+  "SK케미칼,2분기호실적에14%급등…분기기준최대매출달성",
+  "[여의도단신]NH투자증권·삼성증권·미래에셋자산운용"
  ],
  "recent_sigs": [
   [
@@ -6939,9 +6939,17 @@
   [
    "2026-08-14T14:57:59.326865+09:00",
    "상황 회장 내년이 최태원 부족 전쟁 주문량 2배 같은 반도체 가장"
+  ],
+  [
+   "2026-08-14T15:01:15.839712+09:00",
+   "SK케미칼 달성 급등 매출 2분기 호실적에 기준 분기"
+  ],
+  [
+   "2026-08-14T15:01:15.839712+09:00",
+   "삼성증권 NH투자증권 미래에셋자산운용"
   ]
  ],
- "last_run": "2026-08-14T14:58:20.843534+09:00",
+ "last_run": "2026-08-14T15:01:23.865599+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
