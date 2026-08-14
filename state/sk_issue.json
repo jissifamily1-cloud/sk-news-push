@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260807&SEQUENCE=0100",
-  "https://imnews.imbc.com/news/2026/society/article/6843103_36918.html",
   "https://www.news1.kr/society/court-prosecution/6252143",
   "https://www.mydaily.co.kr/page/view/2026080616505123848",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361438",
@@ -2999,11 +2997,11 @@
   "https://www.natv.go.kr/natv/news/newsView.do?newsId=513957",
   "http://tbs.seoul.kr/news/newsView.do?typ_800=9&idx_800=3537896&seq_800=20530779",
   "https://weekly.khan.co.kr/article/202608141449001",
-  "https://www.yna.co.kr/view/AKR20260814060051004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260814060051004?input=1195m",
+  "https://biz.chosun.com/topics/law_firm/2026/08/14/YS6PZXXUSRGXFBMVNYBI3KV5UI/",
+  "http://www.koreatimes.com/article/1625630"
  ],
  "seen_titles": [
-  "'투표통계조작의혹'충북도·진천군선관위압수수색",
-  "'강북구여성살해'50대남성구속송치‥강도살인혐의적용",
   "'투표율허위입력'5곳특정…서울서초·강남서도확인(종합)",
   "‘좌석·소멸마일’독과점우려에…대한항공마일리지통합심사장기...",
   "공정위,세라젬에과징금4억3200만원…협력사금형도면중국계열사로",
@@ -6001,7 +5999,9 @@
   "[국회라이브1/정치한수]설훈\"이진숙5·18논란조치해야…극우가면...",
   "[변상욱쇼:동상이변]8.13부동산대책효과·여야내부갈등수습대책은...",
   "사막을걷는이들의별을찾아서[한동수의틈새](16)",
-  "백해룡,임은정동부지검장고소…남부지검은白피소사건소환(종합)"
+  "백해룡,임은정동부지검장고소…남부지검은白피소사건소환(종합)",
+  "법무법인화우,공정위출신이기성변호사영입",
+  "사상최대규모‘위장결혼’사기적발"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "정리 4개 진출 대규모기업집단 비주력 소속회사 AI등 고부가산업"
   ]
  ],
- "last_run": "2026-08-14T15:01:07.682457+09:00",
+ "last_run": "2026-08-14T15:11:05.025463+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
