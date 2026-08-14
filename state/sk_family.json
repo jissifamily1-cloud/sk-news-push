@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=105087",
-  "https://www.dailian.co.kr/news/view/1672479/?sc=Naver",
-  "http://www.srtimes.kr/news/articleView.html?idxno=208679",
-  "https://biz.heraldcorp.com/article/10825158",
-  "https://magazine.hankyung.com/business/article/202607304748b",
-  "https://www.newsen.com/news_view.php?uid=202607300900412310",
-  "https://zdnet.co.kr/view/?no=20260730091544",
-  "https://www.sidae.com/article/2026073008584879833",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87320",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404930",
   "https://www.socialvalue.kr/news/view/1065572423602780",
@@ -2999,17 +2991,17 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051609",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06199206645547320",
   "https://www.hankyung.com/article/2026081424971",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521263"
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521263",
+  "https://www.news1.kr/life-culture/performance-exhibition/6259804",
+  "https://biz.chosun.com/industry/company/2026/08/14/YIU6L5XSEZANFI5FBP4F4BSTHQ/",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148970126&call_from=naver_news",
+  "https://www.hankyung.com/article/2026081425501",
+  "https://news.mtn.co.kr/news-detail/2026081416132531559",
+  "https://www.kado.net/news/articleView.html?idxno=2066827",
+  "https://www.etnews.com/20260814000287",
+  "https://www.mt.co.kr/industry/2026/08/14/2026081416455085938"
  ],
  "seen_titles": [
-  "[윤영숙의시선]'계속갖고있으라'던회장님,어디계세요?",
-  "'47세임신'한다감\"병원서셋째까지가능하다고\"시험관첫시도성공...",
-  "SK하이닉스,스펙대신사고력본다…'반나절심층면접'도입",
-  "SK하이닉스,‘반나절심층면접’도입…AI시대맞춤형인재뽑는다",
-  "SK하이닉스,채용전형개편…'반나절심층면접'도입",
-  "20분면접없애고'반나절심층평가'…SK하이닉스채용개편",
-  "리센느원이초대해\"'무섭노'논란심경은?\"…비판쏟아지자영상비공...",
-  "\"무섭노\"리센느원이,첫심경영상돌연비공개",
   "'뭐가무섭노?'크게쓰고유명인태그도배…'돈선태'가키운리센느논...",
   "SK하이닉스,신입채용에'반나절심층면접'도입…AI인재선발방식...",
   "\"자소서빼고반나절심층면접\"…SK하이닉스,AI맞춤형인재찾는다",
@@ -6001,7 +5993,15 @@
   "최태원·정기선,빌게이츠와SMR동맹…테라파워한국공급망키운다",
   "최태원SK회장,상반기보수17.5억원…지난해와동일",
   "시총3위SK스퀘어'AI·반도체투자회사'로변신",
-  "[정용석교수의서울시평]최태원의경제성장론과아담스미스'국부론..."
+  "[정용석교수의서울시평]최태원의경제성장론과아담스미스'국부론...",
+  "어린이·가족뮤지컬'나는반딧불'14일예매시작…9월9일첫공연",
+  "최태원회장,SK㈜서상반기보수17억5000만원수령…장용호사장은1...",
+  "김정관장관,빌게이츠테라파워의장면담…SMR협력방안논의",
+  "최태원·정기선만난빌게이츠\"차세대나트륨SMR생태계구축협력\"",
+  "빌게이츠만난정기선·최태원…AI전력수요에K원전협력",
+  "빌게이츠,소형모듈원전협력확대…SK·HD현대·두산참여",
+  "김정관,빌게이츠만나SMR협력논의…韓원전기업참여확대",
+  "최태원빠진SK하이닉스'보수톱5'…1위곽노정261억"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-08-14T17:40:15.075153+09:00",
    "최태원의 성장론과 스미스 국부론 아담 경제"
+  ],
+  [
+   "2026-08-14T17:50:14.025438+09:00",
+   "톱5 SK하이닉스 빠진 261억 1위 곽노정 보수"
   ]
  ],
- "last_run": "2026-08-14T17:40:28.989318+09:00",
+ "last_run": "2026-08-14T17:50:29.335095+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
