@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260812163516",
-  "https://www.news1.kr/politics/assembly/6257224",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383358",
-  "https://www.news1.kr/industry/general-industry/6257225",
-  "http://www.epj.co.kr/news/articleView.html?idxno=39164",
-  "https://www.mk.co.kr/article/12125534",
-  "https://www.nocutnews.co.kr/news/6562079",
-  "https://www.mediawatch.kr/news/article.html?no=260660",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160278428628008",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=270209",
   "https://www.sidae.com/article/2026081208101289347",
@@ -2999,17 +2991,17 @@
   "https://www.fntoday.co.kr/news/articleView.html?idxno=390578",
   "http://www.yonhapnewstv.co.kr/news/MYH2026081411590152N",
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170185",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580247799865"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580247799865",
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=318383",
+  "https://www.busan.com/view/busan/view.php?code=2026081411323830954",
+  "https://biz.sbs.co.kr/article_hub/20000328774?division=NAVER",
+  "https://www.ytn.co.kr/_ln/0103_202608141157158498",
+  "https://www.news1.kr/diplomacy/defense-diplomacy/6259256",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=125959",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=169885",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04716646645547320"
  ],
  "seen_titles": [
-  "데이터센터성장세탄통신3사…AIDC투자드라이브",
-  "환노위,메가특구'주52시간제'공방…野\"호남만예외상식어긋나\"",
-  "野,'조희대탄핵·李공소취소'與당권주자주장에\"선넘지말라\"",
-  "SK하이닉스인디애나팹,27일착공식…최태원·젠슨황회동?",
-  "한전,호남권·용인반도체메가프로젝트···\"적기전력공급에역량...",
-  "채권시장'큰손'부담됐나…하이닉스,매수속도조절",
-  "SK하이닉스'인디애나팹'27일착공식…최태원·젠슨황또만날까",
-  "[26.8.12증시인싸잇]반도체질주에코스피3.68%급등…6500선탈환",
   "용인시,2026반도체기업네트워크·투자설명회개최",
   "\"전력단절없다\"…삼성·SK'반도체메가프로젝트',한전과전력망협...",
   "단일종목레버리지거래94%감소에도…\"규제성공판단이르다\"",
@@ -6001,7 +5993,15 @@
   "테오도르의시장분석(8월14일오전)",
   "최태원결단주목…재산분할금조달어떻게?",
   "소아과전산부인과서RSV예방…화이자'아브리스보'상륙",
-  "[메가이슈토픽]'소버린AI'판흔든스타트업...글로벌평가모티브·업..."
+  "[메가이슈토픽]'소버린AI'판흔든스타트업...글로벌평가모티브·업...",
+  "동부건설,상반기매출1조돌파…영업익69%·순이익267%증가",
+  "\"수리선독빠져나가다충돌,선주책임\"HJ중공업승소",
+  "빌게이츠1년만에한국행…정·재계만나‘SMR동맹’키운다",
+  "'9,440억분할'최태원-노소영'운명의날'...판결확정될까?",
+  "배우홍지민,독립유공자에SKT독립운동캠페인출연료전액기부",
+  "[유노유농]KBL유스클럽출전앞둔안산TOP초지점손준화\"이번엔부...",
+  "장중...코스닥'하락전환',원익IPS·제주반도체'급락'",
+  "“연봉더준대”…통신사로몰리는보안인력,업계‘인재유출’비상"
  ],
  "recent_sigs": [
   [
@@ -7111,9 +7111,25 @@
   [
    "2026-08-14T12:01:22.532668+09:00",
    "AI 소버린 흔든 스타트업 모티브 글로벌 평가"
+  ],
+  [
+   "2026-08-14T12:11:11.740668+09:00",
+   "출연료 전액기부 독립유공자에 캠페인 SKT 독립운동 배우 홍지민"
+  ],
+  [
+   "2026-08-14T12:11:11.740668+09:00",
+   "초지점 유스클럽 손준화 안산 이번엔 KBL 출전 앞둔 TOP"
+  ],
+  [
+   "2026-08-14T12:11:11.740668+09:00",
+   "제주반도체 하락 급락 원익IPS 장중 코스닥"
+  ],
+  [
+   "2026-08-14T12:11:11.740668+09:00",
+   "인재 유출 몰리는 연봉 비상 통신사로 업계 준대 보안인력"
   ]
  ],
- "last_run": "2026-08-14T12:01:35.711273+09:00",
+ "last_run": "2026-08-14T12:11:25.730599+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
