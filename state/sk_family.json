@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12075474",
-  "https://view.asiae.co.kr/article/2026072916215487563",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000053218",
-  "https://www.donga.com/news/Economy/article/all/20260729/134387269/1",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=251211",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848727",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848780",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1678534/?sc=Naver",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=726232",
   "http://www.yonhapnewstv.co.kr/news/MYH20260814133959I3x",
-  "https://www.sportsseoul.com/news/read/1622462"
+  "https://www.sportsseoul.com/news/read/1622462",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=850421",
+  "https://www.ytn.co.kr/_ln/0103_202608141348222467",
+  "https://www.mk.co.kr/article/12127906",
+  "https://thetracker.co.kr/View.aspx?No=4187050"
  ],
  "seen_titles": [
-  "31일이사회서SK실트론매각결정되나…두산인수시신용도하방압력...",
-  "SK하이닉스,실무진이어사장단도광주행...반도체팹부지점검",
-  "SK하이닉스사장단광주군공항방문…800조반도체팹구축실행논의...",
-  "\"신규투자는성장전략\"…SK,광주반도체팹적극의지(종합)",
   "[SK하이닉스실적발표]TSMC따돌린영업이익률76%…中추격은변수",
   "\"2030년양산목표\"…SK하이닉스사장단,광주군공항찾아팹부지실사",
   "SK하닉ADR차익거래셈법달라졌다…상호전환효과‘안갯속’",
@@ -6001,7 +5997,11 @@
   "게이츠원전에425억넣은정기선…4년뒤'배위원자로'그린다",
   "빌게이츠1년만의방한…韓에원전설비발주'본궤도'",
   "한낮은아직무더위…\"등산객온열질환주의\"",
-  "“루이암스트롱부터건축가김수근까지”워커힐,63년역사담은‘스..."
+  "“루이암스트롱부터건축가김수근까지”워커힐,63년역사담은‘스...",
+  "두산에너빌리티,美테라파워원전핵심기자재수주",
+  "최태원-노소영재산분할재상고시한임박...9,440억확정될까?",
+  "솔리다임美상장추진…하이닉스에호재냐악재냐",
+  "SK네트웍스,2분기영업익248억원···역기저효과에전년비42%↓"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,17 @@
   [
    "2026-08-14T13:40:15.308605+09:00",
    "8월 14일 뉴스현장"
+  ],
+  [
+   "2026-08-14T14:00:28.672877+09:00",
+   "악재냐 호재냐 하이닉스에 솔리다임 상장"
+  ],
+  [
+   "2026-08-14T14:00:28.672877+09:00",
+   "SK네트웍스 영업익 전년비 2분기 248억원 역기저효과에"
   ]
  ],
- "last_run": "2026-08-14T13:50:24.787675+09:00",
+ "last_run": "2026-08-14T14:00:44.638232+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
