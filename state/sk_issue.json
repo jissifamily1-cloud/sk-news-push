@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202608071533001",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631418",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000001207&cp=nv",
-  "http://www.spochoo.com/news/articleView.html?idxno=128554",
   "http://www.newstomato.com/ReadNews.aspx?no=1309594&inflow=N",
   "http://www.yonhapnewstv.co.kr/news/MYH20260807155714oLU",
   "https://www.hani.co.kr/arti/society/society_general/1271914.html",
@@ -2999,13 +2995,13 @@
   "https://www.hankookilbo.com/news/article/A2026081416110002364?did=NA",
   "http://www.lawissue.co.kr/view.php?ud=202608141906182552f4ab64559d_12",
   "https://www.topstarnews.net/news/articleView.html?idxno=16163874",
-  "https://www.joongangenews.com/news/articleView.html?idxno=540292"
+  "https://www.joongangenews.com/news/articleView.html?idxno=540292",
+  "https://www.newscj.com/news/articleView.html?idxno=3425272",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=363855",
+  "https://www.newsis.com/view/NISX20260814_0003750280",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490228.html"
  ],
  "seen_titles": [
-  "‘관저이전감사은폐’유병호구속기소···김건희여사관여의혹...",
-  "선관위직원이노태악부인‘관광’수행…보고서엔‘공식일정참석...",
-  "의왕·진천·강남·서초등9곳압수수색…합수본,‘투표통계조작’...",
-  "\"최강한화외치는데…\"8년새13명사망,김승연구단주의'안전경영'은...",
   "국고채담합과징금철퇴…증권사'충당금폭탄'우려",
   "[사건현장]축협추락어디까지…외국인심판'성접대'파문",
   "[단독]보조금2억빼돌린업체대표,검찰의끈질긴보완수사끝에기...",
@@ -6001,7 +5997,11 @@
   "중학생제자20차례'위력성폭행'40대교사…검찰수사가죄명바꿨다",
   "법무법인화우,공정거래분야이기성변호사영입",
   "'부정거래혐의'방시혁공범으로지목된이스톤PE관계자재산동결…...",
-  "홈플러스전단채다시도마…시민단체\"MBK김병주·김광일구속해야\""
+  "홈플러스전단채다시도마…시민단체\"MBK김병주·김광일구속해야\"",
+  "[기고]95세의노구앞에서,법의이름으로다시묻는다",
+  "합수본,중앙·서울·경기선관위압수수색…\"사전투표함입찰방해의...",
+  "합수본,'사전투표함들러리입찰의혹'정조준…중앙선관위등압수수...",
+  "검찰,'통일교금품의혹'전재수前보좌진에실형구형"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T19:10:54.696529+09:00",
+ "last_run": "2026-08-14T19:20:56.795398+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
