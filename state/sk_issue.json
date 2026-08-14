@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thereport.co.kr/news/articleView.html?idxno=90254",
-  "https://www.seoul.co.kr/news/society/2026/08/07/20260807500123?wlog_tag3=naver",
-  "https://www.mk.co.kr/article/12120828",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=662043",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257206&CMPT_CD=P0010",
-  "https://www.joongang.co.kr/article/25451592",
-  "http://www.inews24.com/view/1992904",
-  "https://www.dailian.co.kr/news/view/1675868/?sc=Naver",
-  "https://www.kyeonggi.com/article/20260807580129",
-  "https://www.chukkyung.co.kr/news/articleView.html?idxno=82375",
   "https://www.taxtimes.co.kr/news/article.html?no=276331",
   "http://www.00news.co.kr/news/articleView.html?idxno=105705",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429159",
@@ -2999,19 +2989,19 @@
   "https://www.chosun.com/national/court_law/2026/08/14/45GYKMEB3NEVFOI4JVOLHVKDEY/",
   "http://www.iminju.net/news/articleView.html?idxno=168141",
   "https://www.mt.co.kr/society/2026/08/14/2026081417195289904",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=740260"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=740260",
+  "https://www.kado.net/news/articleView.html?idxno=2066824",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=450713",
+  "https://www.donga.com/news/Society/article/all/20260814/134480770/2",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000003216&cp=nv",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706142&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/news/2026/society/article/6844846_36918.html",
+  "https://www.yna.co.kr/view/AKR20260814091451055?input=1195m",
+  "http://www.jmbc.co.kr/news/view_breakingnews/67095",
+  "https://www.newsis.com/view/NISX20260814_0003750153",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637439"
  ],
  "seen_titles": [
-  "노태악해외출장,배우자수행직원까지데려갔다",
-  "압수수색에심판성접대의혹까지잇단파문에외신도한국축구집중조...",
-  "노태악해외출장에‘배우자전담직원’동행…보고서엔‘공식일정’",
-  "합수본,중앙선관위·시도선관위동시압수수색",
-  "'채해병순직'책임외면해온임성근,항소심도징역3년철퇴",
-  "노태악해외출장에‘부인수행직원’까지동행…보고서엔“공식일정...",
-  "경찰·노동부,'하청끼임사고'HL만도등2곳압수수색…센터장등5명...",
-  "‘국제적망신’한국축구,외신들도파문집중조명",
-  "노태악전선관위원장해외출장중배우자'황제수행'…보고서까지조작",
-  "계란산지가,조정기준잃었다",
   "공정위과징금체납자정보,국세청에통보된다",
   "선관위전방위압박...'투표율조작'전국수사확대",
   "경찰,'노동자끼임사고'HL만도평택사업장압수수색",
@@ -6001,7 +5991,17 @@
   "합수본,‘사전투표함입찰방해’중앙선관위등압수수색",
   "합수본,사전투표함입찰의혹첫강제수사…중앙선관위등압수수색",
   "제자인여중생에20여차례성범죄…40대교사구속기소",
-  "[이슈]장동혁,당권장악력강화드라이브…'올공'지지층총결집·'쇄..."
+  "[이슈]장동혁,당권장악력강화드라이브…'올공'지지층총결집·'쇄...",
+  "'선피아카르텔'의혹강제수사…합수본,중앙선관위등압수수색",
+  "'아동성매매'최영중전청주시의원,구속기간열흘연장",
+  "여중생제자20여차례성폭행·추행한중학교교사구속기소",
+  "사전투표함입찰서‘일감몰아주기’의혹…합수본강제수사돌입",
+  "[단독]\"명절선물에감사글\"…전이천시장수행비서구속송치",
+  "합수본,'사전투표함입찰방해의혹'선관위·입찰업체압수수색",
+  "'노동자사망'현대중군산조선소압수수색…6시간만에종료(종합)",
+  "[속보]'중학생제자20여차례간음·추행'한교사구속기소",
+  "'미성년자성매수'최영중전청주시의원구속기간연장",
+  "‘협력업체직원사망’군산조선소압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T17:31:05.794488+09:00",
+ "last_run": "2026-08-14T17:40:58.254178+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
