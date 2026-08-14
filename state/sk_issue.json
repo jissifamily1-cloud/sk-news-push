@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=150658",
-  "https://www.m-i.kr/news/articleView.html?idxno=1399966",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210911",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008694819&plink=ORI&cooper=NAVER",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54105",
-  "https://www.dailian.co.kr/news/view/1675831/?sc=Naver",
   "https://www.etoday.co.kr/news/view/2612139",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4099450",
   "https://www.insight.co.kr/news/567001",
@@ -2999,15 +2993,15 @@
   "http://www.the-biz.co.kr/news/articleView.html?idxno=726175",
   "https://www.newspim.com/news/view/20260814000739",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212521",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05494006645547320"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05494006645547320",
+  "http://www.fnnews.com/news/202608141551506295",
+  "https://news.tf.co.kr/read/life/2354376.htm",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336463",
+  "https://www.chosun.com/national/court_law/2026/08/14/35VZ55URZREPHO6MD36ODEUK2A/",
+  "http://www.lawissue.co.kr/view.php?ud=2026081415455767929a8c8bf58f_12",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=740240"
  ],
  "seen_titles": [
-  "합수본,'투표율허위입력'중앙선관위등9곳추가압수수색",
-  "경찰·고용부,HL만도평택공장압수수색…근로자사망16일만",
-  "7경기서한국5승2무기록…\"축협,외국심판성접대\"결과물?[아침&...",
-  "[정치쇼]임찬종법조전문기자\"형소법개정,미국의료처럼'검찰민영...",
-  "'투표통계조작의혹'전국번졌나…검경,선관위추가압수수색",
-  "합수본,선거관리지침메일보낸선관위관계자입건",
   "축구협회성접대의혹해외확산…英매체“경기공정성의문”",
   "서울·경기·충북선관위압수수색…합수본'통계조작'수사확대",
   "경찰·노동부,'20대근로자끼임사망'HL만도평택사업장압수수색",
@@ -6001,13 +5995,15 @@
   "[Biz&Law]한국은행,ING손배소2라운드…감독당국자료제출쟁점",
   "선관위특검출범임박...'관리부실'너머'부정선거'겨냥할까",
   "'세관마약수사갈등'백해룡경정,임은정동부지검장고소",
-  "검찰미래위,'성남FC사건'등12건조사권고…'경기도법카유용'도포..."
+  "검찰미래위,'성남FC사건'등12건조사권고…'경기도법카유용'도포...",
+  "檢인권미래위,성남FC·울산시장하명수사등12건추가선정",
+  "'세관마약수사외압'백해룡경정,임은정동부지검장고소",
+  "\"쿠팡표적\"미하원보고서에정부·여야\"차별없었다\"",
+  "여중생제자20여차례성폭행…전북중학교교사구속기소",
+  "검찰인권존중미래위원회,‘검찰권남용의혹사건’12건추가조사대...",
+  "[김능구·홍형식의민심레이더8월②][전문]\"민주당전대김민석우세..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-14T10:01:16.509394+09:00",
-   "제외 대기업집단 편입 75개 달간 계열사 102개 79개"
-  ],
   [
    "2026-08-14T10:11:00.257805+09:00",
    "늘렸다 반도체 사료 부동산 AI 대기업 접고"
@@ -6021,7 +6017,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T15:50:59.944296+09:00",
+ "last_run": "2026-08-14T16:01:30.793015+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
