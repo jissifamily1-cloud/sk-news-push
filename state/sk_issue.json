@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19662",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849666",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05595686645545024",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190683",
-  "https://www.seoul.co.kr/news/society/accident/2026/08/07/20260807500066?wlog_tag3=naver",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=363499",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5210883",
   "http://www.footballist.co.kr/news/articleView.html?idxno=213273",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637335",
   "https://www.yna.co.kr/view/AKR20260814091400055?input=1195m",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490150.html",
-  "https://www.segye.com/newsView/20260814511930?OutUrl=naver"
+  "https://www.segye.com/newsView/20260814511930?OutUrl=naver",
+  "https://www.ngonews.kr/news/articleView.html?idxno=235512",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052583",
+  "http://www.ddanzi.com/891712743",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000056946",
+  "https://biz.chosun.com/topics/topics_social/2026/08/14/2LG5NFGI3NB3BM2GWSS6X6HOIY/"
  ],
  "seen_titles": [
-  "모바일상품권환불복잡ㆍ불합리…사업자약관ㆍ표준약관모순",
-  "합수본'투표통계조작'선관위9곳추가압수수색",
-  "검경,중앙선관위등추가압수수색…'투표통계조작'수사확대",
-  "합수본,선관위9곳추가압수수색…'통계조작의혹'수사확대",
-  "‘300억사기의혹’차가원대표,구속송치",
   "합수본,서울·경기·충북등선관위9곳추가압수수색",
   "합수본,서울·경기·충북선관위압수수색…속도내는'통계조작'수사",
   "'11시간압수수색이어심판성접대파문까지'…대한축구협회,이게바...",
@@ -6001,7 +5996,12 @@
   "경찰,‘노동자사망사고’현대중공업군산조선소등압수수색",
   "경찰,'노동자끼임사망사고'현대중공업군산조선소압수수색",
   "백해룡,임은정동부지검장·유튜버이동형고소…경찰감찰엔이의신청",
-  "“내인격모독”…‘마약수사외압의혹제기’백해룡,임은정도고소"
+  "“내인격모독”…‘마약수사외압의혹제기’백해룡,임은정도고소",
+  "\"죽어서도광화문으로\"…가습기살균제피해자들,국가사과·진상규명...",
+  "[인사]공정위과장급전보·승진(8월18일자)",
+  "[20260814]요약은더힘들다뉴스공장",
+  "'노동자끼임사망사고'현대중공업군산조선소압수수색",
+  "경찰,‘노동자사망사고’현대중공업군산조선소압수수색"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "정리 4개 진출 대규모기업집단 비주력 소속회사 AI등 고부가산업"
   ]
  ],
- "last_run": "2026-08-14T14:10:55.250917+09:00",
+ "last_run": "2026-08-14T14:20:53.994471+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
