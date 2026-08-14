@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://kpenews.com/View.aspx?No=4166181",
-  "http://www.econotelling.com/news/articleView.html?idxno=20993",
-  "https://news.mtn.co.kr/news-detail/2026072414074648667",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03109446645519440",
   "https://www.ekn.kr/web/view.php?key=20260729022007218",
   "http://www.seouleconews.com/news/articleView.html?idxno=92686",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03791686645547320",
   "https://www.busan.com/view/busan/view.php?code=2026081409545169613",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720400",
-  "https://www.sedaily.com/article/20079381"
+  "https://www.sedaily.com/article/20079381",
+  "http://www.srtimes.kr/news/articleView.html?idxno=210026",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03850726645547320",
+  "https://economist.co.kr/article/view/ecn202608140009"
  ],
  "seen_titles": [
-  "[최태원-노소영재산분할]SK실트론매각변수…실리와명분‘고심’",
-  "이재용·최태원은이탈리아로,정의선은브라질로…각자의셈법",
-  "[속보]'AI수요강세고부가제품판매증가'SK하이닉스2분기영업익6...",
   "SK하이닉스,상반기매출첫100조원돌파…시장기대는밑돌아",
   "김해서농진청치유농업포럼…중앙치유농업센터연계발전모색",
   "AI특수제대로탄SK하이닉스,상반기매출132조신기록",
@@ -6001,7 +5998,10 @@
   "한국찾은빌게이츠,최태원·정기선만나'SMR동맹'힘싣는다",
   "두산에너빌,테라파워와SMR핵심기자재제작계약",
   "SK하이닉스,美패키징공장착공…북미'메모리팹'투자도열어뒀다",
-  "최태원“美전공정팹검토,비용·규제는장벽…내년수급불균형최..."
+  "최태원“美전공정팹검토,비용·규제는장벽…내년수급불균형최...",
+  "'9440억'짜리이혼소송,최태원·노소영오늘운명갈린다",
+  "구광모·젠슨황,美서다시만났다…내년휴머노이드로봇내놓는다",
+  "LG·엔비디아협업휴머노이드로봇,내년1분기에공개된다"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,21 @@
   [
    "2026-08-14T10:00:31.455500+09:00",
    "비용 전공정 검토 불균형 규제는 내년 장벽 수급"
+  ],
+  [
+   "2026-08-14T10:10:16.636020+09:00",
+   "만났다 휴머노이드로봇 내놓는다 구광모 다시 내년 젠슨"
+  ],
+  [
+   "2026-08-14T10:10:16.636020+09:00",
+   "짜리 이혼소송 운명 갈린다 9440억"
+  ],
+  [
+   "2026-08-14T10:10:16.636020+09:00",
+   "엔비디아 휴머노이드 LG 로봇 1분기에 협업 내년 공개된다"
   ]
  ],
- "last_run": "2026-08-14T10:00:50.403230+09:00",
+ "last_run": "2026-08-14T10:10:33.610433+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
