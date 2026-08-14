@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260729175500017?input=1195m",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396860",
-  "https://www.hankyung.com/article/2026072940847",
-  "https://biz.heraldcorp.com/article/10824863",
   "https://www.etoday.co.kr/news/view/2608958",
   "https://www.g-enews.com/view.php?ud=202607291957326672cd0bfacc1c_1",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06635446645519440",
@@ -2999,13 +2995,13 @@
   "https://www.ytn.co.kr/_ln/0103_202608141445529376",
   "https://daily.hankooki.com/news/articleView.html?idxno=1396127",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545158",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3665013"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3665013",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546645",
+  "https://www.ajunews.com/view/20260814145923401",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361814",
+  "https://www.newsis.com/view/NISX20260814_0003749387"
  ],
  "seen_titles": [
-  "광주군공항250만평,반도체국가산단후보지지정",
-  "‘역대급’실적에도주가는곤두박질…SK하이닉스“AI수익본격화”",
-  "“기다리다흥민이한살더먹는다”…이천수“펩데려올수있다면...",
-  "[포토뉴스]최윤정강원동부보훈지청장,고령재가복지대상자가구방문",
   "양산40도돌파…부산122년만에최고폭염",
   "[시간외Y]강동씨앤엘,남화토건,금호건설,서산,야스'上'",
   "\"빅테크10곳장기계약…초격차투자로반도체생산능력확대\"",
@@ -6001,7 +5997,11 @@
   "최태원-노소영'세기의재산분할'...오늘마침표?[뉴스퀘어2PM]",
   "[짚고가자]빌게이츠까지뛰어든'작은원전'…SMR이뭐길래",
   "1년만에한국찾은빌게이츠,조정식국회의장면담[현장영상]",
-  "정기선HD현대회장,빌게이츠와회동…SMR협력논의"
+  "정기선HD현대회장,빌게이츠와회동…SMR협력논의",
+  "1년만에또한국찾은빌게이츠⋯최태원·정기선과SMR협력논의",
+  "SK네트웍스,2분기영업이익248억원…전년동기比42.4%감소",
+  "SK네트웍스,2분기매출1.4조·영업익248억",
+  "최태원SK회장\"美메모리팹건설의향…후보지한달넘게검토\""
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,13 @@
   [
    "2026-08-14T14:56:56.453774+09:00",
    "재산분할 마침표 세기의"
+  ],
+  [
+   "2026-08-14T15:10:14.203193+09:00",
+   "회장 후보지 메모리 건설 의향 검토 넘게"
   ]
  ],
- "last_run": "2026-08-14T15:00:38.600671+09:00",
+ "last_run": "2026-08-14T15:10:28.862347+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
