@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87320",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404930",
-  "https://www.socialvalue.kr/news/view/1065572423602780",
-  "https://thetracker.co.kr/View.aspx?No=4167711",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=270611",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/513059",
-  "http://www.newsdream.kr/news/articleView.html?idxno=115348",
   "https://www.getnews.co.kr/news/articleView.html?idxno=876523",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=853390",
   "https://www.inthenews.co.kr/news/article.html?no=89949",
@@ -2999,16 +2992,16 @@
   "https://news.mtn.co.kr/news-detail/2026081416132531559",
   "https://www.kado.net/news/articleView.html?idxno=2066827",
   "https://www.etnews.com/20260814000287",
-  "https://www.mt.co.kr/industry/2026/08/14/2026081416455085938"
+  "https://www.mt.co.kr/industry/2026/08/14/2026081416455085938",
+  "https://www.newsis.com/view/NISX20260814_0003750193",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260814175809HCG",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=227473",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260814175524nSa",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637462",
+  "https://www.seoul.co.kr/news/economy/securities/2026/08/14/20260814500250?wlog_tag3=naver",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=105329"
  ],
  "seen_titles": [
-  "'뭐가무섭노?'크게쓰고유명인태그도배…'돈선태'가키운리센느논...",
-  "SK하이닉스,신입채용에'반나절심층면접'도입…AI인재선발방식...",
-  "\"자소서빼고반나절심층면접\"…SK하이닉스,AI맞춤형인재찾는다",
-  "SK하이닉스가고싶나요…스펙보다‘이것’키워야",
-  "SK,베트남공략'V2.0'대전환…ISC앞세워푸토성반도체거점'빅픽처...",
-  "SK하이닉스,AI시대맞춤형채용…'반나절심층면접'도입",
-  "SK하이닉스,AI시대인재선발위한'반나절심층면접'도입",
   "‘채용새바람’SK하이닉스,반나절심층면접도입",
   "기후리더자처한중국[ESG뉴스5]",
   "리센느원이에‘무섭노’심경+해시태그논란…‘돈선태’,선공개영...",
@@ -6001,7 +5994,14 @@
   "빌게이츠만난정기선·최태원…AI전력수요에K원전협력",
   "빌게이츠,소형모듈원전협력확대…SK·HD현대·두산참여",
   "김정관,빌게이츠만나SMR협력논의…韓원전기업참여확대",
-  "최태원빠진SK하이닉스'보수톱5'…1위곽노정261억"
+  "최태원빠진SK하이닉스'보수톱5'…1위곽노정261억",
+  "[인사]경북교육청",
+  "최태원결단임박…'9,440억'마련어떻게?",
+  "K-원전공급망,'빌게이츠SMR'타고美시장입성한다",
+  "'세기의재산분할'재상고시한…아직입장없어",
+  "최태원회장,상반기SK㈜서보수17.5억받아…최재원15억",
+  "나흘동안16%오르자“괜히팔았나”…최태원“전쟁같은상황”[나만...",
+  "SK이노베이션,테라파워와'나트륨'SMR사업협력합의서체결"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,17 @@
   [
    "2026-08-14T17:51:37.744390+09:00",
    "1위 톱5 빠진 261억 SK하이닉스 보수 곽노정"
+  ],
+  [
+   "2026-08-14T18:00:31.558264+09:00",
+   "전쟁같은 팔았나 나만 나흘동안 상황 괜히 오르자"
+  ],
+  [
+   "2026-08-14T18:00:31.558264+09:00",
+   "사업협력 나트륨 합의서 SMR 테라파워와 SK이노베이션 체결"
   ]
  ],
- "last_run": "2026-08-14T17:51:49.715560+09:00",
+ "last_run": "2026-08-14T18:00:46.706835+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
