@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2351614.htm",
-  "https://www.dailian.co.kr/news/view/1675749/?sc=Naver",
-  "https://www.sidae.com/article/2026080710072210862",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049021",
-  "https://www.ytn.co.kr/_ln/0103_202608071013095812",
-  "https://www.ajunews.com/view/20260807101006644",
   "https://news.skbroadband.com/news/articleView.html?idxno=234363",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790110.html",
   "https://www.m-economynews.com/news/article.html?no=69518",
@@ -2999,15 +2993,15 @@
   "https://www.ziksir.com/news/articleView.html?idxno=143228",
   "https://www.newsis.com/view/NISX20260814_0003749388",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04788806645547320",
-  "https://www.ajunews.com/view/20260814102457953"
+  "https://www.ajunews.com/view/20260814102457953",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260814130110y23",
+  "https://www.naeil.com/news/read/598903",
+  "https://www.naeil.com/news/read/598872",
+  "https://www.naeil.com/news/read/598810",
+  "https://www.naeil.com/news/read/598869",
+  "https://isplus.com/article/view/isp202608140092"
  ],
  "seen_titles": [
-  "합수본,'투표율통계조작'서울·경기등선관위전방위압수수색",
-  "경찰·고용노동부,'끼임사망사고발생'HL만도평택사업장압수수색",
-  "'300억원대사기의혹'차가원원헌드레드대표,구속송치",
-  "합수본,'투표통계조작의혹'서울·경기·충북선관위압수수색",
-  "'수유동살인'50대구속송치...강도살인혐의적용",
-  "노동부'끼임사망사고'HL만도평택공장압수수색…중처법위반등수...",
   "[속보]경찰,HL만도평택공장압수수색",
   "'수유동오피스텔살인'50대구속송치…강도살인·마약혐의",
   "중대계열사누락땐원칙고발…공정위,기업집단자료제출고발기준...",
@@ -6001,7 +5995,13 @@
   "대기업집단,3개월간75개사늘고79개사줄었다",
   "'가맹본부갑질'과징금손질…모수축소·부과율상향검토",
   "\"날무시해?\"친구네세모녀한번에다죽이려한10대",
-  "조직분리위기넘기고권한키운이찬진1년…지방이전은새변수"
+  "조직분리위기넘기고권한키운이찬진1년…지방이전은새변수",
+  "\"샤넬향수인줄\"…짝퉁화장품서기준치480배유해물질",
+  "‘3400억원대담합’엠케이전자재판행",
+  "‘채상병사건수사방해’이시원등재판행",
+  "[내일의눈]‘공룡’경찰과‘꼭두각시’경찰",
+  "‘출금중단700억편취’델리오대표징역15년",
+  "홍명보“정몽규와연락한적없다”…감독선임개입의혹부인"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "정리 4개 진출 대규모기업집단 비주력 소속회사 AI등 고부가산업"
   ]
  ],
- "last_run": "2026-08-14T13:01:10.808783+09:00",
+ "last_run": "2026-08-14T13:11:01.434028+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
