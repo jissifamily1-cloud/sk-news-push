@@ -1,19 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/389666",
-  "http://www.newskr.kr/news/articleView.html?idxno=105593",
-  "https://zdnet.co.kr/view/?no=20260813090928",
-  "https://www.hani.co.kr/arti/economy/finance/1272677.html",
-  "http://www.metroseoul.co.kr/article/20260813500028",
-  "https://biz.chosun.com/stock/stock_general/2026/08/13/XBFBC27QPJH23MGMTMWIQK4G6E/",
-  "https://thetracker.co.kr/View.aspx?No=4184782",
-  "http://www.ikld.kr/news/articleView.html?idxno=338928",
-  "https://www.m-i.kr/news/articleView.html?idxno=1401817",
-  "http://www.newsdream.kr/news/articleView.html?idxno=116187",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1175200",
-  "https://www.tokenpost.kr/news/economy/389669",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169772",
-  "https://www.mt.co.kr/stock/2026/08/13/2026081309162793916",
   "https://www.ggilbo.com/news/articleView.html?idxno=1175202",
   "https://www.mk.co.kr/article/12126170",
   "http://www.srtimes.kr/news/articleView.html?idxno=209891",
@@ -2999,23 +2985,23 @@
   "https://www.hankyung.com/article/2026081425751",
   "https://www.goal.com/kr/뉴스/a/blt9e001a8be9b70fbb",
   "https://www.tokenpost.kr/news/cryptocurrency/390893",
-  "https://zdnet.co.kr/view/?no=20260814172114"
+  "https://zdnet.co.kr/view/?no=20260814172114",
+  "https://biz.chosun.com/industry/company/2026/08/14/4A5MPNU4C5BWJMI7LLFTVK3RMQ/",
+  "http://www.inews24.com/view/1995307",
+  "https://www.news1.kr/industry/general-industry/6259954",
+  "https://www.kukinews.com/article/view/kuk202608140168",
+  "https://www.seoultimes.news/news/article.html?no=2000098845",
+  "https://www.sedaily.com/article/20079725",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101613",
+  "https://www.yna.co.kr/view/AKR20260814168100003?input=1195m",
+  "http://www.newsprime.co.kr/news/article.html?no=744028",
+  "https://dealsite.co.kr/articles/167305",
+  "https://www.tokenpost.kr/news/breaking/390899",
+  "https://www.thelec.kr/news/articleView.html?idxno=60982",
+  "https://biz.heraldcorp.com/article/10842056",
+  "https://biz.heraldcorp.com/article/10841308"
  ],
  "seen_titles": [
-  "김용범\"반도체다음은?'7대시드'\"...17일만에SNS글게재",
-  "코스피4%오르며6,800선회복‥반도체주도급등",
-  "코스피4%대급등,6800선향해순항…코스닥860",
-  "하나증권\"AI수요확대·금리인상우려완화,삼성전자SK하이닉스투심...",
-  "SK이터닉스장초반부터주가급등…코스피껑충",
-  "코스피장초반3.38%상승…SK하이닉스5%↑",
-  "코스피급등출발…삼성전자·SK하이닉스동반강세",
-  "SK에코플랜트,AI데이터센터전담팀신설…15GW시장공략",
-  "‘반도체훈풍’불자코스피장초반4%급등…AI수요재확인",
-  "LG이노텍,MSCI한국지수입성…HLB등4곳은편출",
-  "나흘연속상승세이어가는韓증시…코스피,3%대상승중",
-  "SK에코플랜트,AIDC사업단신설···\"AI인프라사업강화\"",
-  "SK에코플랜트,AI인프라사업강화…AIDC사업단신설",
-  "전남광주'반도체메가프로젝트'전력공급기반확보",
   "[시황]코스피,단숨에6800선회복…코스닥도오름세",
   "SK하이닉스주가,급등세...왜?",
   "[특징주]삼성전자,美반도체랠리·주주환원기대에강세",
@@ -6001,33 +5987,23 @@
   "'女광복군'오희옥지사…용인생가터에기념관",
   "'韓차세대스타'김민수,지로나1군승격이어'프랑스명문'리옹이...",
   "2027년샘플목표,샌디스크고대역폭플래시테이프아웃",
-  "빌게이츠는왜韓SMR공급망을택했나"
+  "빌게이츠는왜韓SMR공급망을택했나",
+  "SK이노베이션,테라파워와나트륨SMR협력확대…‘K-나트륨’추진",
+  "SK하이닉스,상반기설비투자18.3조·연구개발6조...반도체투자가속",
+  "최태원\"미국등메모리팹건설검토…내년메모리부족가장심각\"",
+  "“돈넘치는데굳이?”…SK하이닉스,솔리다임두고‘자본배분’논쟁",
+  "[뉴스앤데이터]상반기재계총수보수살펴보니…박정원455억·구자...",
+  "최태원·정기선만난빌게이츠…“한국기업과SMR공조가속”",
+  "최태원,빌게이츠만나'나트륨SMR'글로벌사업손잡는다",
+  "상반기보수1위두산박정원455억…주가급등에375억수령",
+  "SK이노,빌게이츠'테라파워'손잡고'K-나트륨'시동",
+  "아이에스동서,덕은사업장정리여파…'마이너스'매출",
+  "SEC규제일정흔들리고BTC대형숏관측",
+  "심텍,고정비벽넘겨수익성급상승",
+  "[단독]SK하이닉스,재경부출신‘국제금융통’영입…미국대관업무...",
+  "“하이닉스대체얼마까지올라?”‘148만원’에서무려‘470만원’…..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-14T12:41:13.981338+09:00",
-   "가치 솔리다임 상장설에 커졌다 전략적 엇갈린 시선 나스닥"
-  ],
-  [
-   "2026-08-14T12:41:13.981338+09:00",
-   "to won Group faces billion settle deadline appeal chairman divorce"
-  ],
-  [
-   "2026-08-14T12:41:13.981338+09:00",
-   "중국산 지목 벨트 정조준 환적 불법 한국 반도체"
-  ],
-  [
-   "2026-08-14T12:41:13.981338+09:00",
-   "9천440억 재상고 하면 확정 노소영에"
-  ],
-  [
-   "2026-08-14T12:41:13.981338+09:00",
-   "이유 화장품 65세에 시작한 최화정 모델 운동"
-  ],
-  [
-   "2026-08-14T12:41:13.981338+09:00",
-   "고객 이벤트 대신증권 주식대여서비스 신규"
-  ],
   [
    "2026-08-14T13:01:20.564607+09:00",
    "75개사 대기업집단 79개사 3개월간 줄었다 늘고"
@@ -6931,9 +6907,29 @@
   [
    "2026-08-14T18:41:09.264853+09:00",
    "게이츠는 택했나 공급망을 SMR"
+  ],
+  [
+   "2026-08-14T18:51:07.481778+09:00",
+   "덕은 매출 사업장 마이너스 정리 아이에스동서 여파"
+  ],
+  [
+   "2026-08-14T18:51:07.481778+09:00",
+   "흔들리고 BTC 일정 SEC 관측 규제 대형"
+  ],
+  [
+   "2026-08-14T18:51:07.481778+09:00",
+   "고정비 급상승 넘겨 수익성 심텍"
+  ],
+  [
+   "2026-08-14T18:51:07.481778+09:00",
+   "영입 국제금융통 출신 SK하이닉스 대관업무 재경부 미국"
+  ],
+  [
+   "2026-08-14T18:51:07.481778+09:00",
+   "148만원 무려 하이닉스 얼마까지 470만원 대체 에서 올라"
   ]
  ],
- "last_run": "2026-08-14T18:41:28.573465+09:00",
+ "last_run": "2026-08-14T18:51:23.902146+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
