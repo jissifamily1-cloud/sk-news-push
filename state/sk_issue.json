@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260807_0002206892",
-  "http://www.dailypop.kr/news/articleView.html?idxno=101362",
-  "https://www.ytn.co.kr/_ln/0103_202608071428085419",
-  "https://www.insight.co.kr/news/567050",
-  "https://www.newsis.com/view/NISX20260807_0003740388",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54134",
-  "https://www.abcn.kr/news/articleView.html?idxno=90253",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16247",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=607740",
   "https://ilyo.co.kr/?ac=article_view&entry_id=512170",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0103_202608141804149719",
   "http://www.inews24.com/view/1995286",
   "https://news.jtbc.co.kr/article/NB12313477?influxDiv=NAVER",
-  "http://www.jmbc.co.kr/news/view/67095"
+  "http://www.jmbc.co.kr/news/view/67095",
+  "https://www.gokorea.kr/news/articleView.html?idxno=875152",
+  "https://www.joongang.co.kr/article/25453455",
+  "https://www.newsis.com/view/NISX20260814_0003750228",
+  "https://www.hankyung.com/article/2026081425141",
+  "https://www.gokorea.kr/news/articleView.html?idxno=875145",
+  "http://www.osen.co.kr/article/G1112857147",
+  "https://www.khan.co.kr/article/202608141811001"
  ],
  "seen_titles": [
-  "충북선관위압수수색하는중수본",
-  "[이슈talk]세라젬,협력사기술자료中법인에넘겨...'안일함'인가'갑...",
-  "노태악출장에부인수행직원도…\"공식일정참석\"보고서기재",
-  "검경합수본,'투표율허위입력의혹'충북선관위등전격압수수색",
-  "11시간압수수색에성접대파문까지…'쑥대밭'된축구협회",
-  "축구협회성접대받은심판이맡은경기는'무패'…7경기5승2무",
-  "[ABC뉴스칼럼]심판성접대하고7경기서무패한한국축구",
   "[해외브리핑]EU탄소배출권가격전망하향…ETS개편안영향",
   "공정위칼날에이통3사,불공정약관고친다",
   "[단독]10억대내부거래매출이0원으로…HDC정몽규회장일가회사들...",
@@ -6001,7 +5994,14 @@
   "합수본,'사전투표함일감몰아주기'선관위등압수수색",
   "'성남FC·법카'도…檢미래위,'李재판관련사건6건'으로늘어",
   "여중생제자20여차례성폭행…\"동의했다\"던전북중학교교사구속기...",
-  "'중학생제자20여차례간음·추행'한교사구속기소"
+  "'중학생제자20여차례간음·추행'한교사구속기소",
+  "중앙선관위'선피아카르텔'의혹…검경,대대적인압수수색진행",
+  "‘미성년자성매수’최영중전청주시의원,구속기간10일연장",
+  "검찰,'PC증거인멸'전재수전보좌관들에실형구형",
+  "\"노태악이직접해외출장지결정\"",
+  "현대중공업군산조선소노동자사망사건…전북경찰대대적압수수색진...",
+  "\"정몽규와사전소통없었다\"홍명보경찰진술...전력강화위논의도\"아...",
+  "‘들러리업체’세워특정업체낙찰의혹…투표지합수본,중앙선관위..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T18:11:07.505141+09:00",
+ "last_run": "2026-08-14T18:21:04.007322+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
