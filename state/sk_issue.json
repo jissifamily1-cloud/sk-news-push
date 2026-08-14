@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1309594&inflow=N",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260807155714oLU",
-  "https://www.hani.co.kr/arti/society/society_general/1271914.html",
   "https://www.mt.co.kr/industry/2026/08/07/2026080514381394529",
   "https://www.newsis.com/view/NISI20260807_0002207105",
   "https://www.greened.kr/news/articleView.html?idxno=347150",
@@ -2999,12 +2996,12 @@
   "https://www.newscj.com/news/articleView.html?idxno=3425272",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=363855",
   "https://www.newsis.com/view/NISX20260814_0003750280",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490228.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490228.html",
+  "https://www.newsis.com/view/NISX20260814_0003750287",
+  "https://www.newscj.com/news/articleView.html?idxno=3425273",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=06737126645547320"
  ],
  "seen_titles": [
-  "국고채담합과징금철퇴…증권사'충당금폭탄'우려",
-  "[사건현장]축협추락어디까지…외국인심판'성접대'파문",
-  "[단독]보조금2억빼돌린업체대표,검찰의끈질긴보완수사끝에기...",
   "하지원,패션플랫폼파이브엑스와협업..첫패션컬렉션공개",
   "충북선관위압수수색한합수본",
   "\"정당한수사로원인규명\"…경찰,'20대노동자사망'HL만도평택공장...",
@@ -6001,7 +5998,10 @@
   "[기고]95세의노구앞에서,법의이름으로다시묻는다",
   "합수본,중앙·서울·경기선관위압수수색…\"사전투표함입찰방해의...",
   "합수본,'사전투표함들러리입찰의혹'정조준…중앙선관위등압수수...",
-  "검찰,'통일교금품의혹'전재수前보좌진에실형구형"
+  "검찰,'통일교금품의혹'전재수前보좌진에실형구형",
+  "'인사문담긴명절선물'전이천시장비서구속송치",
+  "백해룡경정,'세관마약합동수사'관련임은정동부지검장고소",
+  "'아동성매매혐의'최영중전시의원,구속기간영장"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T19:20:56.795398+09:00",
+ "last_run": "2026-08-14T19:31:02.859236+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
