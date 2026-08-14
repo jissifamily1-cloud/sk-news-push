@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90390",
-  "https://biz.heraldcorp.com/article/10826093",
-  "https://www.mk.co.kr/article/12106733",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005673",
-  "https://www.dailian.co.kr/news/view/1667640/?sc=Naver",
-  "http://www.fnnews.com/news/202607151936299438",
   "https://www.greened.kr/news/articleView.html?idxno=346428",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454301",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255443&CMPT_CD=P0010",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/industry/company/6259998",
   "http://www.joseilbo.com/news/news_read.php?uid=573886&class=78",
   "https://news.jtbc.co.kr/article/NB12313441?influxDiv=NAVER",
-  "https://www.donga.com/news/Economy/article/all/20260814/134481370/1"
+  "https://www.donga.com/news/Economy/article/all/20260814/134481370/1",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534134",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534133",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260814203322w3x",
+  "https://www.ytn.co.kr/_ln/0103_202608142034261589",
+  "http://www.yonhapnewstv.co.kr/news/MYH202608142029184P2",
+  "https://www.tokenpost.kr/news/market/390954"
  ],
  "seen_titles": [
-  "스펙보다'생각근육'!…SK하이닉스,'하프데이심층면접'으로AI시대맞...",
-  "최태원\"일하는방식AI에맞게재설계해야경제도성장\"",
-  "“반나절심층면접”..SK하이닉스,이젠인재채용도AI맞춤형",
-  "김선태〈돈선태〉리센느나락멘트사과,\"현장에서인지못해\"",
-  "잎담배서AI메모리까지…충북수출80년'한권에'",
-  "[산업뉴스브리핑]\"스펙보다생각근육\"…SK하이닉스,'반나절심층면...",
   "“억대성과급받을래요”인기폭발하는데…SK하닉채용확달라졌다",
   "[이사람]작은거인윤필재,체격대신기술로'황소15마리'",
   "SK하이닉스,AI인재선발방식바꾼다...자소서없애고심층면접도입",
@@ -6001,7 +5995,13 @@
   "상반기재계총수'보수1위'두산박정원455억…LS구자은133억2위",
   "최태원“美메모리전공정팹검토…관건은700개협력사생태계”",
   "재상고냐수용이냐…최태원'9440억짜리'초대형고민",
-  "최태원“美팹부지한달넘게물색…생태계조성이핵심”"
+  "최태원“美팹부지한달넘게물색…생태계조성이핵심”",
+  "지방의회35년…여전히반쪽지방자치",
+  "국정과제'지방의회법'…올해안제정목표",
+  "재상고시한종료임박…'세기의재산분할'확정될까",
+  "재상고시한임박...최태원-노소영9년소송끝날까",
+  "[이시각헤드라인]8월14일뉴스리뷰",
+  "17억5000만원받은최태원,상여는없었다"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,17 @@
   [
    "2026-08-14T20:30:22.256070+09:00",
    "핵심 생태계 넘게 물색 부지 조성이"
+  ],
+  [
+   "2026-08-14T20:40:13.854818+09:00",
+   "없었다 받은 17억5000만원 상여는"
+  ],
+  [
+   "2026-08-14T20:40:13.854818+09:00",
+   "14일 8월 뉴스리뷰"
   ]
  ],
- "last_run": "2026-08-14T20:30:34.308151+09:00",
+ "last_run": "2026-08-14T20:40:31.228925+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
