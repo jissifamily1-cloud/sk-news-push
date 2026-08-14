@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260807072200004?input=1195m",
-  "https://news.tf.co.kr/read/life/2351696.htm",
   "https://www.news1.kr/local/sejong-chungbuk/6252271",
   "https://www.gokorea.kr/news/articleView.html?idxno=874374",
   "https://www.newsgn.com/news/articleView.html?idxno=566626",
@@ -2999,11 +2997,11 @@
   "https://www.joongang.co.kr/article/25453426",
   "https://www.newsis.com/view/NISX20260814_0003750022",
   "https://www.news1.kr/society/court-prosecution/6259717",
-  "https://biz.chosun.com/topics/law_firm/2026/08/14/TCZMZRCLGBF2DHP45WGEQCOQAA/"
+  "https://biz.chosun.com/topics/law_firm/2026/08/14/TCZMZRCLGBF2DHP45WGEQCOQAA/",
+  "https://www.ytn.co.kr/_ln/0103_202608141641412711",
+  "https://www.newspim.com/news/view/20260814001073"
  ],
  "seen_titles": [
-  "월드컵졌다고압수수색?…홍명보선임과정불법성여부가관건",
-  "'채상병순직책임'임성근항소심도징역3년…\"최소한의책임저버려...",
   "합수본,'투표율허위입력의혹'충북선관위압수수색",
   "선관위투표조작의혹…서울·경기·충북서대규모압수수색진행",
   "두변호사의다른시선담은'우리는같은일을하지만'도서출간",
@@ -6001,7 +5999,9 @@
   "[속보]합수본,‘사전투표함입찰방해’중앙선관위등압수수색",
   "[속보]합수본,중앙선관위등압수수색…'사전투표함용역입찰비위'의...",
   "[속보]합수본,중앙·서울·경기선관위선거물품입찰업체압수수색",
-  "검찰인권존중미래위,백현동·성남FC·경기도법인카드등12건추가조..."
+  "검찰인권존중미래위,백현동·성남FC·경기도법인카드등12건추가조...",
+  "[속보]합수본,중앙선관위등압수수색...\"입찰방해등관련\"",
+  "[속보]합수본,'사전투표함입찰방해'중앙·서울·경기선관위등압수..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T16:41:10.404192+09:00",
+ "last_run": "2026-08-14T16:43:28.614911+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
