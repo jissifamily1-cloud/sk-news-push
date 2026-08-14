@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026080709490005271?did=NA",
-  "http://www.4th.kr/news/articleView.html?idxno=2115957",
-  "https://vop.co.kr/A00001696123.html",
-  "https://www.news1.kr/society/incident-accident/6252045",
-  "https://www.news1.kr/local/gyeonggi/6252079",
   "https://www.kukinews.com/article/view/kuk202608070022",
   "https://news.knn.co.kr/news/article_sns/1576",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071424",
@@ -2999,14 +2994,14 @@
   "https://news.jtbc.co.kr/article/NB12313366?influxDiv=NAVER",
   "https://www.newspim.com/news/view/20260814000602",
   "https://www.hankookilbo.com/news/article/A2026081410280001552?did=NA",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80531"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80531",
+  "http://www.nongaek.com/news/articleView.html?idxno=96408",
+  "https://biz.heraldcorp.com/article/10841507",
+  "https://www.newsis.com/view/NISX20260814_0003749320",
+  "https://www.the-today.com/news/articleView.html?idxno=88475",
+  "https://www.sisajournal.com/news/articleView.html?idxno=383621"
  ],
  "seen_titles": [
-  "경찰,'300억사기의혹'차가원대표구속송치",
-  "경찰·노동부,노동자사망사고HL만도평택사업장압수수색",
-  "청년하청노동자숨진HL만도강제수사경찰·고용부압수수색",
-  "경찰'수유동오피스텔살인'50대강도살인혐의로송치",
-  "경찰·고용부,'근로자끼임사망'HL만도평택공장압수수색",
   "‘통계조작’수사확대국면…합수본,서울·경기·충북선관위압수수...",
   "축구협회창립후첫경찰압수수색…홍명보선임의혹수사",
   "[뉴스클레임사설]부정선거의혹선관위직원전부물갈이해야",
@@ -6001,7 +5996,12 @@
   "홍명보\"축협감독선임과정몰라…정몽규연락도없었어\"",
   "[로펌이슈]화우,공정위출신이기성변호사영입…하도급대응역량...",
   "홍명보,경찰에\"감독선임과정서정몽규와소통없었다\"…윗선개입...",
-  "대기업,3개월간비주력계열사정리…AI·반도체미래산업은편입"
+  "대기업,3개월간비주력계열사정리…AI·반도체미래산업은편입",
+  "중고차플랫폼헤이딜러,도넘은'갑질'…고객은눈뜨고당하기일쑤",
+  "비대면진료플랫폼규제...이번에는‘약배송금지’",
+  "백해룡,'세관마약의혹합동수사'관련임은정동부지검장고소",
+  "[이슈]다올금융이병철회장,'쇠고랑'찰수도…불법으로계열사자금...",
+  "SK·CJ는비주력정리,삼성·GS는AI확대…'선택과집중'"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "정리 4개 진출 대규모기업집단 비주력 소속회사 AI등 고부가산업"
   ]
  ],
- "last_run": "2026-08-14T11:31:07.984014+09:00",
+ "last_run": "2026-08-14T11:40:56.217028+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
