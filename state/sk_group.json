@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://m.sports.naver.com/basketball/article/065/0000300601",
-  "https://www.asiatime.co.kr/article/20260812500312",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=252212",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4100413",
-  "https://www.newscj.com/news/articleView.html?idxno=3424552",
-  "https://biz.heraldcorp.com/article/10839023",
   "https://www.dailian.co.kr/news/view/1677662/?sc=Naver",
   "https://www.mt.co.kr/industry/2026/08/12/2026081213404728186",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265647",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1402384",
   "https://www.joongboo.com/news/articleView.html?idxno=363733906",
   "https://zdnet.co.kr/view/?no=20260814084652",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=877906"
+  "https://www.getnews.co.kr/news/articleView.html?idxno=877906",
+  "https://www.insight.co.kr/news/568200",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1395901",
+  "http://www.newskr.kr/news/articleView.html?idxno=105617",
+  "https://www.woodkorea.co.kr/news/articleView.html?idxno=90788",
+  "http://www.newskr.kr/news/articleView.html?idxno=105618",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=877926"
  ],
  "seen_titles": [
-  "[더벨][운용사조정장대응능력]VIP운용'정면돌파'선택…폭락장에...",
-  "[단독]백대현과기정통부사이버침해대응과장,네이버로옮긴다",
-  "''호남권반도체산단전력공급업무협약'체결",
-  "[입찰정보]8월12일자",
-  "화성써밋바스켓볼U15,전국유소년대회준우승으로강호입지구축",
-  "'전격전'호남반도체클러스터…이제공은삼성전자·SK하이닉스로",
   "LotteGroup、LotteRentalをTPGに売却へ",
   "광주특별시·정부·한전·기업,호남반도체산단전력적기공급'맞손...",
   "SK하이닉스통합노조출범임박…삼성초기업노조와'성과급연대'모...",
@@ -6001,7 +5995,13 @@
   "정유4사,주유소타사제품판매막았나…공정위조사",
   "인천송도바이오기업주가희비...삼성바이오·셀트리온↑SK바이오↓",
   "SK하이닉스통합노조출범…\"조합원1만8000명확보목표\"",
-  "\"일자리는많은데내자리는없다\"…울산청년은왜떠나나"
+  "\"일자리는많은데내자리는없다\"…울산청년은왜떠나나",
+  "'1년만의방한'빌게이츠,한성숙총리·재계총수만난다...키워드는...",
+  "최태원·노소영'9440억재산분할'오늘결론…재상고여부주목",
+  "반도체훈풍에코스피6,800선탈환…삼성전자·SK하이닉스급등",
+  "윌로펌프,가정용음식물처리기'디퍼(differ)'오는9월출시",
+  "코스피3.56%급등6813.34마감",
+  "1순위청약앞둔'용인반도체클러스터동일하이빌파크밸리'관심↑"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,21 @@
   [
    "2026-08-14T08:56:43.299293+09:00",
    "없다 떠나나 울산 많은데 일자리는 자리는 청년은"
+  ],
+  [
+   "2026-08-14T09:01:31.213008+09:00",
+   "윌로펌프 디퍼 출시 오는 가정용음식물처리기 differ 9월"
+  ],
+  [
+   "2026-08-14T09:01:31.213008+09:00",
+   "급등 마감 코스피"
+  ],
+  [
+   "2026-08-14T09:01:31.213008+09:00",
+   "관심 앞둔 파크밸리 청약 동일하이빌 용인반도체클러스터 1순위"
   ]
  ],
- "last_run": "2026-08-14T08:57:00.217079+09:00",
+ "last_run": "2026-08-14T09:01:47.555645+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
