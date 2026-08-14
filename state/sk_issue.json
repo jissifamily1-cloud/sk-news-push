@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2612139",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4099450",
-  "https://www.insight.co.kr/news/567001",
-  "https://www.news1.kr/sports/soccer/6252221",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790146.html",
-  "http://www.metroseoul.co.kr/article/20260807500083",
-  "https://news.jtbc.co.kr/article/NB12312188?influxDiv=NAVER",
-  "https://www.yna.co.kr/view/AKR20260807067100007?input=1195m",
-  "https://www.segye.com/newsView/20260807509427?OutUrl=naver",
-  "https://www.ftimes.kr/news/articleView.html?idxno=38919",
   "https://www.newsis.com/view/NISX20260807_0003740292",
   "http://www.knpnews.com/news/articleView.html?idxno=34241",
   "https://dgmbc.com/NewsArticle/855410",
@@ -2999,19 +2989,19 @@
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336463",
   "https://www.chosun.com/national/court_law/2026/08/14/35VZ55URZREPHO6MD36ODEUK2A/",
   "http://www.lawissue.co.kr/view.php?ud=2026081415455767929a8c8bf58f_12",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=740240"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=740240",
+  "https://www.aitimes.com/news/articleView.html?idxno=213967",
+  "https://www.chukkyung.co.kr/news/articleView.html?idxno=82404",
+  "https://www.chukkyung.co.kr/news/articleView.html?idxno=82445",
+  "https://www.news1.kr/society/court-prosecution/6259638",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1565259",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134412",
+  "https://biz.chosun.com/topics/law_firm/2026/08/14/BGZYVI6LJNHYBCA3VIX5UUHBW4/",
+  "https://www.newsis.com/view/NISX20260814_0003749918",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244939",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000003196&cp=nv"
  ],
  "seen_titles": [
-  "축구협회성접대의혹해외확산…英매체“경기공정성의문”",
-  "서울·경기·충북선관위압수수색…합수본'통계조작'수사확대",
-  "경찰·노동부,'20대근로자끼임사망'HL만도평택사업장압수수색",
-  "\"이런진흙탕안들어가\"…'풍비박산'축구협회장후보'실종'",
-  "'20대근로자끼임사고'평택자동차부품공장'압수수색'",
-  "\"외국인심판에성접대?\"…축구협회15년만에드러난의혹[영상PICK]",
-  "임성근항소심도징역3년…\"최소한의도의적책무저버려\"",
-  "\"대중분노속수사동력\"…외신들도한국축구잇단파문조명",
-  "합수본,서울·경기·충북선관위압수수색…'투표율조작'수사확대",
-  "홍명보선임수사이어성접대의혹파장…대한축구협회초유의위기",
   "고발문턱낮춘공정위…\"임원아니라몰랐다\"항변도고발대상",
   "상반기1조원대적자쿠팡,자사주엔8.5억달러…하반기'겹악재'",
   "대구에서'경찰관뺑소니'수사정보유출···대구경찰\"엄정수사중...",
@@ -6001,7 +5991,17 @@
   "\"쿠팡표적\"미하원보고서에정부·여야\"차별없었다\"",
   "여중생제자20여차례성폭행…전북중학교교사구속기소",
   "검찰인권존중미래위원회,‘검찰권남용의혹사건’12건추가조사대...",
-  "[김능구·홍형식의민심레이더8월②][전문]\"민주당전대김민석우세..."
+  "[김능구·홍형식의민심레이더8월②][전문]\"민주당전대김민석우세...",
+  "순천중학생40여명,AI로삼국시대문화재배웠다",
+  "[기자시각]계란가격정보,없앨게아니라다시설계하라",
+  "계란시장'거래기준'복원필요",
+  "'백현동·성남FC'등李관련4건포함…검찰미래위,조사대상12건추가",
+  "군산한조선소근로자사망사고…경찰,조선소·협력업체압수수색",
+  "다올금융이병철회장,'계열사우회지원'의혹피의자조사…수사최고...",
+  "검찰,여중생제자20여차례성폭행한교사구속기소",
+  "여중생제자수차례성범죄'몹쓸짓'…교사결국구속기소",
+  "노동자'끼임사망사고'현대중공업군산조선소압수수색",
+  "중학생제자20여차례간음·추행혐의…40대교사구속기소"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T16:01:30.793015+09:00",
+ "last_run": "2026-08-14T16:10:55.621568+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
