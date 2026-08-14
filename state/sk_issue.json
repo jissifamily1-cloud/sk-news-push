@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8045859",
   "https://www.news1.kr/photos/8045858",
   "https://www.news1.kr/photos/8045857",
   "http://www.kmedinfo.co.kr/news/articleView.html?idxno=97019",
@@ -2999,10 +2998,10 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706193&plink=ORI&cooper=NAVER",
   "https://biz.heraldcorp.com/article/10841782",
   "https://www.seoul.co.kr/news/society/2026/08/14/20260814500244?wlog_tag3=naver",
-  "https://www.hani.co.kr/arti/society/society_general/1273004.html"
+  "https://www.hani.co.kr/arti/society/society_general/1273004.html",
+  "https://www.yna.co.kr/view/AKR20260814157400011?input=1195m"
  ],
  "seen_titles": [
-  "합수본,‘투표율허위입력’서울·경기선관위등압수수색",
   "합수본,'투표통계조작'추가압수수색",
   "합수본,'투표율허위입력'선관위9곳압수수색",
   "AI가CT로폐섬유화진행수치화…특발성폐섬유증예후예측정확도높...",
@@ -6001,7 +6000,8 @@
   "검찰미래위,성남FC·백현동·법카사건추가…대통령관련8건",
   "“인격모독당했다”백해룡,실체없던세관마약의혹에도임은정에결...",
   "‘사전투표함입찰비리’합수본,중앙선관위등압수수색",
-  "[속보]합수본,사전투표함‘입찰방해의혹’선관위압수수색"
+  "[속보]합수본,사전투표함‘입찰방해의혹’선관위압수수색",
+  "[연합뉴스이시각헤드라인]-18:00"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정산 다시 세기의 노소영 갈까 대법원 뉴스퀘어 최태원 9천440억"
   ]
  ],
- "last_run": "2026-08-14T17:52:17.893304+09:00",
+ "last_run": "2026-08-14T18:01:14.410248+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
