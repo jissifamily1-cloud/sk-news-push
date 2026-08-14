@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260729180116A1R",
-  "http://www.newsprime.co.kr/news/article.html?no=741997",
-  "http://www.fnnews.com/news/202607291822103948",
   "https://www.hankookilbo.com/news/article/A2026072609360004082?did=NA",
   "http://www.jndn.com/article.php?aid=1785318151436938003",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4097711",
@@ -2999,12 +2996,12 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705617&plink=ORI&cooper=NAVER",
   "https://www.newspim.com/news/view/20260814000789",
   "https://ilyo.co.kr/?ac=article_view&entry_id=512291",
-  "https://www.dailian.co.kr/news/view/1678547/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1678547/?sc=Naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260814144319M1u",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238753",
+  "https://www.econovill.com/news/articleView.html?idxno=748051"
  ],
  "seen_titles": [
-  "‘호남권반도체클러스터’광주군공항찾은SK하이닉스임원진…민...",
-  "[단독]빌게이츠방한…韓·美SMR동맹강화한다",
-  "SK하이닉스키옥시아지분매각이냐유지냐,일본반발에경영권인수는...",
   "SK두글자에남은'선경'의기억...일본의식민지정책이낳은이름",
   "[일지]'세기의이혼'최태원·노소영,결혼에서파기환송심까지",
   "SK하이닉스임원진,광주군공항부지방문",
@@ -6001,7 +5998,10 @@
   "[뉴스브리핑]오늘의주요뉴스…11살아동학대치사목사구속송치",
   "SK하이닉스美전공정팹검토…최태원\"내년메모리전쟁\"",
   "SK그룹'4중상장논란'에도솔리다임프리IPO추진셈법",
-  "AI전력수요커지자…SK·HD현대·두산,SMR사업영토넓힌다"
+  "AI전력수요커지자…SK·HD현대·두산,SMR사업영토넓힌다",
+  "[사건현장]재상고안하면9,440억…최태원·노소영운명의날",
+  "최태원노소영,오늘재상고결론/'기업저승사자'조사4국,KB국민은...",
+  "SK네트웍스2분기영업이익감소…세전이익증가로만회"
  ],
  "recent_sigs": [
   [
@@ -6157,7 +6157,7 @@
    "AI 수요 사업 HD현대 커지자 두산 SMR 영토 전력 넓힌다"
   ]
  ],
- "last_run": "2026-08-14T14:40:28.664433+09:00",
+ "last_run": "2026-08-14T14:50:27.334960+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
