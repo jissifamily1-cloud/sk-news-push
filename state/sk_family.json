@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.techholic.co.kr/news/articleView.html?idxno=222304",
-  "https://hbnpress.com/news/view/1065589149736418",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149891",
-  "https://www.chosun.com/economy/industry-company/2026/07/30/7QA2TFETZVDXVBHSTS76TYNQZY/",
-  "https://www.tvreport.co.kr/entertainment/article/1065021/",
-  "https://www.segye.com/newsView/20260730509750?OutUrl=naver",
-  "https://www.news2day.co.kr/article/20260730500190",
-  "https://www.ekn.kr/web/view.php?key=20260730023067847",
   "http://www.inews24.com/view/1990361",
   "https://www.wikitree.co.kr/articles/1149447",
   "https://kr.aving.net/news/articleView.html?idxno=1812718",
@@ -2999,17 +2991,17 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140714&t=NN",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87995",
   "http://www.fnnews.com/news/202608141920177674",
-  "https://www.kyeonggi.com/article/20260814580226"
+  "https://www.kyeonggi.com/article/20260814580226",
+  "https://www.hankookilbo.com/news/article/A2026081419260005804?did=NA",
+  "http://www.fnnews.com/news/202608141941316542",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545227",
+  "https://www.g-enews.com/view.php?ud=20260814193915720924debea800_1",
+  "https://www.newsis.com/view/NISI20260814_0021399729",
+  "https://www.busan.com/view/busan/view.php?code=2026081419385656935",
+  "https://www.ytn.co.kr/_ln/0103_202608141939331138",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212638"
  ],
  "seen_titles": [
-  "분당서울대병원·카카오,중증소아진료플랫폼구축…신속성기대",
-  "빌게이츠1년만방한…SK·HD현대·두산과'SMR공급망'구체화할듯",
-  "“억까”라며감싸더니‘무섭노’재활용…‘돈선태’,결국채널까지...",
-  "'돈선태'제작진,리센느·김선태에사과\"깊이반성\"[전문]",
-  "SK하이닉스,AI활용인재찾는다…“반나절심층면접으로검증”",
-  "김선태,리센느'무섭노'재소환비판에사과…\"멤버분들에게죄송\"",
-  "‘돈선태’제작진,고개숙였다…리센느원이‘무섭노’2차가해사...",
-  "‘무섭노’섬네일에이재명·한동훈해시태그?…KBS‘돈선태’무책...",
   "SK㈜,실트론매각논의…최태원'9440억재산분할'실탄만들까",
   "[더벨]'현금넘치는'SK하이닉스,강남입성'호시탐탐'",
   "총수'지분유무'가갈랐나…주주환원응답한삼전,침묵한닉스",
@@ -6001,7 +5993,15 @@
   "주가급등에455억수령…상반기재계보수'1위'",
   "SK네트웍스,AI투자성과로실적방어…영업이익은뒷걸음",
   "최태원회장\"美에반도체공장구축검토...메모리수급난,전쟁같은상...",
-  "상반기임원보수보니…SK하닉곽노정260억,삼전이재용‘0원’"
+  "상반기임원보수보니…SK하닉곽노정260억,삼전이재용‘0원’",
+  "상반기보수1위두산박정원455억...'주가급등'RSU덕",
+  "박정원두산회장,상반기보수455억원'최고'…주가상승영향",
+  "‘9440억분할’재상고시한곧마감…최태원고심중",
+  "SK이노·테라파워,美SMR협력확대…‘K-나트륨’사업모델검토",
+  "SK이노베이션,테라파워와나트륨SMR사업협력과차세대SMR의글로벌...",
+  "SK이노,테라파워와‘나트륨SMR’사업협력",
+  "최태원-노소영'세기의재산분할'재상고여부는?[이슈플러스]",
+  "최태원·노소영이혼오늘마지막시한…하루지연이자만1억3천만원"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,13 @@
   [
    "2026-08-14T19:20:16.020848+09:00",
    "133억의 두산 구자 상반기 총수 1위 2위는 455억원 연봉만 박정원"
+  ],
+  [
+   "2026-08-14T19:50:15.042476+09:00",
+   "하루 마지막 지연 이자만 이혼 시한 1억 3천만"
   ]
  ],
- "last_run": "2026-08-14T19:40:34.956064+09:00",
+ "last_run": "2026-08-14T19:50:28.166624+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
