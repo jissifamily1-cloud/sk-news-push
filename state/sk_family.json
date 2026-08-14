@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://enews.imbc.com/News/RetrieveNewsInfo/513044",
-  "http://weekly.chosun.com/news/articleView.html?idxno=53875",
-  "https://view.asiae.co.kr/article/2026073009024746673",
-  "https://www.newscj.com/news/articleView.html?idxno=3421120",
-  "https://news.tf.co.kr/read/economy/2348591.htm",
-  "https://www.segye.com/newsView/20260730503085?OutUrl=naver",
   "https://www.theguru.co.kr/news/article.html?no=105087",
   "https://www.dailian.co.kr/news/view/1672479/?sc=Naver",
   "http://www.srtimes.kr/news/articleView.html?idxno=208679",
@@ -2999,15 +2993,15 @@
   "https://biz.chosun.com/industry/company/2026/08/14/DWEBNN4TBNGFBNR7G44TI3NL44/",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=850481",
   "https://www.newsis.com/view/NISX20260814_0003750128",
-  "http://www.lkp.news/news/articleView.html?idxno=83011"
+  "http://www.lkp.news/news/articleView.html?idxno=83011",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/15/2026071580051.html",
+  "https://economist.co.kr/article/view/ecn202608140075",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051609",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=06199206645547320",
+  "https://www.hankyung.com/article/2026081424971",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521263"
  ],
  "seen_titles": [
-  "빌게이츠,내달방한조율…한성숙총리면담추진",
-  "'스펙'대신AI맞춤'생각근육'본다..SK하이닉스'반나절심층면접'도...",
-  "SK하이닉스,하반기신입채용에'반나절심층면접'도입",
-  "SK하이닉스,'반나절심층면접'도입…신입채용서AI역량본다",
-  "SK하이닉스,채용전형전면개편…'반나절심층면접'으로AI인재발굴",
-  "\"스펙안본다\"…SK하이닉스,채용전형개편→'반나절심층면접'전면...",
   "[윤영숙의시선]'계속갖고있으라'던회장님,어디계세요?",
   "'47세임신'한다감\"병원서셋째까지가능하다고\"시험관첫시도성공...",
   "SK하이닉스,스펙대신사고력본다…'반나절심층면접'도입",
@@ -6001,13 +5995,15 @@
   "1년만에SMR‘건설’소식들고온빌게이츠…SK·HD현대·두산과협...",
   "최태원회장,올상반기SK서보수17.5억수령…전년과동일",
   "사상최대실적에보수도'껑충'…곽노정SK하이닉스사장,상반기보수...",
-  "SK스퀘어,2분기사상최대실적달성...리밸런싱과AI·반도체투자병..."
+  "SK스퀘어,2분기사상최대실적달성...리밸런싱과AI·반도체투자병...",
+  "커피마시고쉬던호텔라운지의진화…워커힐,비스타로비에브랜드...",
+  "빌게이츠원자로뜯어보니‘메이드인코리아’…美SMR에올라탄K원...",
+  "최태원·정기선,빌게이츠와SMR동맹…테라파워한국공급망키운다",
+  "최태원SK회장,상반기보수17.5억원…지난해와동일",
+  "시총3위SK스퀘어'AI·반도체투자회사'로변신",
+  "[정용석교수의서울시평]최태원의경제성장론과아담스미스'국부론..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-14T11:40:14.830224+09:00",
-   "가능 투자 원하면 고객 전공정 SK하이닉스 추가 팹도"
-  ],
   [
    "2026-08-14T12:10:17.264712+09:00",
    "오늘의 주요뉴스"
@@ -6139,9 +6135,13 @@
   [
    "2026-08-14T17:30:23.844600+09:00",
    "달성 사상 2분기 투자 리밸런싱과 실적 AI SK스퀘어 반도체"
+  ],
+  [
+   "2026-08-14T17:40:15.075153+09:00",
+   "최태원의 성장론과 스미스 국부론 아담 경제"
   ]
  ],
- "last_run": "2026-08-14T17:30:36.141771+09:00",
+ "last_run": "2026-08-14T17:40:28.989318+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
