@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260813113802",
-  "https://magazine.hankyung.com/business/article/202608139144b",
-  "http://www.popcornnews.net/news/articleView.html?idxno=129598",
-  "https://zdnet.co.kr/view/?no=20260813131556",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206468",
   "https://www.newspim.com/news/view/20260813000181",
   "https://www.etnews.com/20260813000254",
@@ -2999,13 +2995,13 @@
   "https://www.bntnews.co.kr/article/view/bnt202608150034",
   "https://www.gukjenews.com/news/articleView.html?idxno=3665443",
   "https://biz.heraldcorp.com/article/10842046",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168171"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168171",
+  "https://www.seoul.co.kr/news/society/accident/2026/08/15/20260815500006?wlog_tag3=naver",
+  "https://www.dt.co.kr/article/12078371",
+  "https://www.hankyung.com/article/2026081529647",
+  "https://www.seoulfn.com/news/articleView.html?idxno=635765"
  ],
  "seen_titles": [
-  "SK오션플랜트,2분기'깜짝이익'이마지막선물?...하반기부턴가시밭...",
-  "변동성지수,레버리지대책후36%내려50대초반…3개월래최저",
-  "제주SKFC,넥슨'카트라이더러쉬플러스'와협업",
-  "뉴욕증시,물가둔화·AI주강세에혼조…9월금리동결기대확대[프레...",
   "“대기업어떻게따라가나…규제맞추다매출공백\"",
   "독파모글로벌평가'이변'…모티프·업스테이지1·2위",
   "SK에코플랜트,AIDC전담사업단신설…전국15GW구축계획",
@@ -6001,7 +5997,11 @@
   "‘옥문아’김종국저축흔들",
   "정기선,빌게이츠와서울서소형모듈원자로협력논의",
   "[단독]“최태원회장결단없으면투쟁”…SK하이닉스노조마저거리로...",
-  "\"통신비낮춰준다더니개통부터막혀\"…안면인증에불편커진노년층"
+  "\"통신비낮춰준다더니개통부터막혀\"…안면인증에불편커진노년층",
+  "[속보]불멸의4할타자…프로야구전설백인천,향년83세로별세",
+  "[속보]대한민국프로야구유일한4할타자백인천전감독별세",
+  "소비둔화우려에주요지수약세…샌디스크는또폭등[뉴욕증시브리핑...",
+  "[뉴욕증시]경기우려'숨고르기',반도체'희비'…샌디스크7%↑·AMAT5..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,13 @@
   [
    "2026-08-15T07:37:59.418642+09:00",
    "안면인증에 개통부터 노년층 통신비 낮춰준다더니 불편 커진 막혀"
+  ],
+  [
+   "2026-08-15T07:51:07.007171+09:00",
+   "경기 희비 샌디스크 반도체 우려 숨고르기 AMAT"
   ]
  ],
- "last_run": "2026-08-15T07:41:09.701837+09:00",
+ "last_run": "2026-08-15T07:51:12.807538+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
