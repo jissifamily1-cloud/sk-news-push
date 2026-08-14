@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=573413&class=32",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=119932",
-  "https://www.mt.co.kr/society/2026/08/07/2026080709360125540",
   "https://www.hankookilbo.com/news/article/A2026080709490005271?did=NA",
   "http://www.4th.kr/news/articleView.html?idxno=2115957",
   "https://vop.co.kr/A00001696123.html",
@@ -2999,12 +2996,12 @@
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1534034",
   "http://www.ddanzi.com/891695447",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005901010",
-  "https://news.jtbc.co.kr/article/NB12313366?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12313366?influxDiv=NAVER",
+  "https://www.newspim.com/news/view/20260814000602",
+  "https://www.hankookilbo.com/news/article/A2026081410280001552?did=NA",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80531"
  ],
  "seen_titles": [
-  "합수본,'투표통계조작'중앙·서울·경기선관위등9곳추가압수수...",
-  "경찰·고용부,HL만도평택사업장압수수색…근로자끼임사수사",
-  "'강북구오피스텔살인'50대남성구속송치…강도살인혐의",
   "경찰,'300억사기의혹'차가원대표구속송치",
   "경찰·노동부,노동자사망사고HL만도평택사업장압수수색",
   "청년하청노동자숨진HL만도강제수사경찰·고용부압수수색",
@@ -6001,7 +5998,10 @@
   "[잇슈연예브리핑]샤이니키·입짧은햇님…'주사이모'사건경찰조...",
   "[뉴공아카이브]퍼니포:수도권23만호공급속도전…8·13부동산대책...",
   "석달간대기업계열사75개편입·79개제외",
-  "홍명보\"축협감독선임과정몰라…정몽규연락도없었어\""
+  "홍명보\"축협감독선임과정몰라…정몽규연락도없었어\"",
+  "[로펌이슈]화우,공정위출신이기성변호사영입…하도급대응역량...",
+  "홍명보,경찰에\"감독선임과정서정몽규와소통없었다\"…윗선개입...",
+  "대기업,3개월간비주력계열사정리…AI·반도체미래산업은편입"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "정리 4개 진출 대규모기업집단 비주력 소속회사 AI등 고부가산업"
   ]
  ],
- "last_run": "2026-08-14T11:22:22.091967+09:00",
+ "last_run": "2026-08-14T11:31:07.984014+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
