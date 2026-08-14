@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026072609360004082?did=NA",
-  "http://www.jndn.com/article.php?aid=1785318151436938003",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097711",
-  "https://www.hankookilbo.com/news/article/A2026072918280000093?did=NA",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8623452",
   "https://www.yna.co.kr/view/AKR20260729175500017?input=1195m",
   "https://www.m-i.kr/news/articleView.html?idxno=1396860",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1678547/?sc=Naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20260814144319M1u",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=238753",
-  "https://www.econovill.com/news/articleView.html?idxno=748051"
+  "https://www.econovill.com/news/articleView.html?idxno=748051",
+  "https://www.mt.co.kr/world/2026/08/14/2026081414451534133",
+  "https://www.ytn.co.kr/_ln/0103_202608141445529376",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1396127",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545158"
  ],
  "seen_titles": [
-  "SK두글자에남은'선경'의기억...일본의식민지정책이낳은이름",
-  "[일지]'세기의이혼'최태원·노소영,결혼에서파기환송심까지",
-  "SK하이닉스임원진,광주군공항부지방문",
-  "中반도체공세속'구글캠프'가는이재용·최태원...글로벌빅테크협...",
   "\"SK이노베이션,베트남에LNG·SMR연계에너지협력방안제시했다\"",
   "광주군공항250만평,반도체국가산단후보지지정",
   "‘역대급’실적에도주가는곤두박질…SK하이닉스“AI수익본격화”",
@@ -6001,7 +5997,11 @@
   "AI전력수요커지자…SK·HD현대·두산,SMR사업영토넓힌다",
   "[사건현장]재상고안하면9,440억…최태원·노소영운명의날",
   "최태원노소영,오늘재상고결론/'기업저승사자'조사4국,KB국민은...",
-  "SK네트웍스2분기영업이익감소…세전이익증가로만회"
+  "SK네트웍스2분기영업이익감소…세전이익증가로만회",
+  "최태원회장\"반도체주문량2배,전쟁같은상황…내년이가장부족\"",
+  "최태원-노소영'세기의재산분할'...오늘마침표?[뉴스퀘어2PM]",
+  "[짚고가자]빌게이츠까지뛰어든'작은원전'…SMR이뭐길래",
+  "1년만에한국찾은빌게이츠,조정식국회의장면담[현장영상]"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,21 @@
   [
    "2026-08-14T14:40:14.090762+09:00",
    "AI 수요 사업 HD현대 커지자 두산 SMR 영토 전력 넓힌다"
+  ],
+  [
+   "2026-08-14T14:56:56.453774+09:00",
+   "뛰어든 원전 작은 게이츠까지 SMR이 뭐길래"
+  ],
+  [
+   "2026-08-14T14:56:56.453774+09:00",
+   "면담 게이츠 찾은 한국 만에 조정식 1년 국회의장"
+  ],
+  [
+   "2026-08-14T14:56:56.453774+09:00",
+   "재산분할 마침표 세기의"
   ]
  ],
- "last_run": "2026-08-14T14:50:27.334960+09:00",
+ "last_run": "2026-08-14T14:57:15.973266+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
