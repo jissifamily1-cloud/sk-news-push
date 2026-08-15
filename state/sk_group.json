@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1228828",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84418",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=662363",
-  "https://news.skbroadband.com/news/articleView.html?idxno=234953",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383494",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459133",
   "https://www.etoday.co.kr/news/view/2614243",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553455330",
   "https://www.khan.co.kr/article/202608131507001",
@@ -2999,15 +2993,15 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=120284",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02046726645547648",
   "http://www.dailypop.kr/news/articleView.html?idxno=101608",
-  "https://www.pressian.com/pages/articles/2026081417413608242"
+  "https://www.pressian.com/pages/articles/2026081417413608242",
+  "https://biz.sbs.co.kr/article_hub/20000328949?division=NAVER",
+  "https://www.hani.co.kr/arti/society/society_general/1273034.html",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101010",
+  "http://www.joseilbo.com/news/news_read.php?uid=573894&class=33",
+  "https://zdnet.co.kr/view/?no=20260815040828",
+  "http://www.fnnews.com/news/202608151030334745"
  ],
  "seen_titles": [
-  "토스증권\"SK하이닉스,솔리다임별도상장시주주가치희석...주주환원...",
-  "솔리다임상장우려에흔들린SK하이닉스…주주달랠'당근'나올까",
-  "코스피공포지수41%급락3개월래최저…다시불어난빚투",
-  "한미반도체주가4%가까이상승…HBM장비기대에22만원대안착",
-  "AI다음'게임체인저'찾는이재명대통령…\"빨리개발해달라\"는양자컴...",
-  "정유업계새캐시카우된윤활기유...그룹Ⅲ전환에미래달렸다",
   "[특징주]지앤비에스에코,영업익442%↑...주가는숨고르는중",
   "\"반도체적극투자할시기\"…미래에셋운용이꼽은반도체소부장ETF는",
   "김성환기후부장관\"호남권·용인메가프로젝트,전력공급업무협약체...",
@@ -6001,7 +5995,13 @@
   "SK이노베이션·테라파워,차세대SMR'나트륨'사업협력…글로벌시장...",
   "[임상업데이트]JW중외제약,통풍치료제3상서유효성입증",
   "롯데카드,정보보호에1200억원투자…AI로선제적보안체계강화",
-  "정부는'메가특구'법말고'노동'에투자하라[인권의바람]"
+  "정부는'메가특구'법말고'노동'에투자하라[인권의바람]",
+  "프로야구불멸의4할타자백인천전감독,뇌출혈로별세",
+  "끝까지싸운전설의4할타자…백인천,맥박돌아왔지만끝내별세",
+  "최태원,노소영에9,440억재산분할판결'재상고'",
+  "최태원,‘9440억재산분할’재상고…현금마련·지연이자부담늦춘다",
+  "K배터리공장가동률,美전기차한파대응에희비갈려",
+  "5일내내오른증시…외인·기관은'삼전닉스',승부는장바구니에서갈..."
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,17 @@
   [
    "2026-08-15T10:41:02.238731+09:00",
    "노동 메가특구 정부는 말고 투자하라"
+  ],
+  [
+   "2026-08-15T10:51:04.958564+09:00",
+   "희비 전기차 공장 갈려 가동률 한파 대응에 K배터리"
+  ],
+  [
+   "2026-08-15T10:51:04.958564+09:00",
+   "외인 기관은 삼전닉스 승부는 오른 장바구니에서 증시 5일 내내"
   ]
  ],
- "last_run": "2026-08-15T10:41:14.144279+09:00",
+ "last_run": "2026-08-15T10:51:13.517016+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
