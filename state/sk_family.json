@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202607317632b",
-  "http://www.srtimes.kr/news/articleView.html?idxno=208818",
-  "https://www.mt.co.kr/stock/2026/07/31/2026073111005877073",
   "https://www.news2day.co.kr/article/20260731500093",
   "https://www.hankyung.com/article/202607317559H",
   "https://www.mediawatch.kr/news/article.html?no=260520",
@@ -2999,12 +2996,12 @@
   "https://news.jtbc.co.kr/article/NB12313543?influxDiv=NAVER",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=404979",
   "https://www.sisajournal.com/news/articleView.html?idxno=383754",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48200"
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48200",
+  "https://biz.sbs.co.kr/article_hub/20000328980?division=NAVER",
+  "https://www.dongponews.net/news/articleView.html?idxno=59890",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=270642"
  ],
  "seen_titles": [
-  "최태원SK하닉저점매수통했다…하루새‘14억’평가차익[이런국장저...",
-  "최태원,SK하이닉스주식48억원어치첫매수…책임경영강조",
-  "코스피,장초반폭등에매수사이드카…삼전닉스20%대급등",
   "외국인매수세에코스피10%급등6,310선돌파…사이드카발동",
   "[ET특징주]美반도체훈풍에최태원장내매수까지…SK스퀘어,주가上",
   "25년전오늘현대떠난하이닉스…최태원의48억승부수[나우앤덴]",
@@ -6001,7 +5998,10 @@
   "최태원,'9440억재산분할'불복,다시대법간다…불복이유와쟁점?",
   "최태원SK회장,재산분할9440억판결재상고···분할비율과노소영...",
   "재산분할금9440억확정앞두고…최태원은왜'마감1분전'재상고했을...",
-  "최태원SK회장,'9440억재산분할'불복…다시대법원으로"
+  "최태원SK회장,'9440억재산분할'불복…다시대법원으로",
+  "이혼소송재상고원인?…주가고려·SK실트론분할·매일억대이자연기",
+  "'세기의결혼에서'세기의이혼과재산분할'다시대법원으로...",
+  "\"인수하면다죽는다\"결사반대하더니…SK반도체신화에'숟가락얹기..."
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-08-15T15:40:16.934898+09:00",
    "분할 현금 최소화 영향 재상고 주주 경영 9440억 부정적 재산"
+  ],
+  [
+   "2026-08-15T16:40:14.373590+09:00",
+   "얹기 반도체 결사 신화에 인수하면 죽는다 숟가락 반대하더니"
   ]
  ],
- "last_run": "2026-08-15T16:30:34.086562+09:00",
+ "last_run": "2026-08-15T16:40:26.739186+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
