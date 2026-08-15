@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.job-post.co.kr/news/articleView.html?idxno=223984",
-  "https://www.sidae.com/article/2026081313572195839",
-  "https://www.greened.kr/news/articleView.html?idxno=347603",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=223981",
-  "http://www.newsprime.co.kr/news/article.html?no=743792",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=203496",
   "https://kpenews.com/View.aspx?No=4185558",
   "https://www.tokenpost.kr/news/cryptocurrency/389859",
@@ -2999,14 +2994,14 @@
   "https://www.tfmedia.co.kr/news/article.html?no=206497",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01922086645547648",
   "https://www.hankyung.com/article/2026081530777",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=143086"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=143086",
+  "https://www.greened.kr/news/articleView.html?idxno=347766",
+  "https://www.seoultimes.news/news/article.html?no=2000098848",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546664",
+  "https://www.newsis.com/view/NISX20260815_0003750448",
+  "https://www.mediapen.com/news/view/1116698"
  ],
  "seen_titles": [
-  "美CNBC\"한달만에약세장→강세장…AI가뒤집은코스피\"",
-  "\"반짝흑자에안심할때아냐\"…늦어지는석화구조재편",
-  "[영남타워]서운해도TK는품어라",
-  "'용인반도체클러스터'구축속도전",
-  "'올해예상매출5000억'천궁-II…패트리엇품귀에러브콜↑",
   "'3일연속상승'삼전닉스탄력받나…글로벌반도체동반강세",
   "‘결정력부재’전북,이제는외국인선수들이해줘야할때",
   "고립이키운‘자립력’…중국반도체의초고속성장비결",
@@ -6001,7 +5996,12 @@
   "바이낸스,네이버·LG전자등무기한선물출시…자본시장법저촉논란",
   "국내1·2위업체모두품었다…사모펀드가렌터카를사들이는이유",
   "국민주맞지?…'삼전닉스개미'1100만명넘었다",
-  "[위클리PICK3]SK하이닉스'통합노조'출범부터빌게이츠이사장방..."
+  "[위클리PICK3]SK하이닉스'통합노조'출범부터빌게이츠이사장방...",
+  "결국'9440억'금액이문제였다…최태원회장,대법원재상고",
+  "[CEO위클리]최태원재상고·박정원456억보수…구광모·정기선미래사...",
+  "SK하이닉스,상반기약4조원파생상품거래손실기록",
+  "\"신혼집·창업자금까지주식에넣었는데\"…기술주하락에개미'울상'",
+  "정부키우고기업은뛴다…SMR,새성장동력'부상'"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,21 @@
   [
    "2026-08-15T09:51:10.372631+09:00",
    "SK하이닉스 출범부터 통합노조 게이츠 이사장"
+  ],
+  [
+   "2026-08-15T10:01:23.191003+09:00",
+   "손실 파생상품 상반기 SK하이닉스 거래 기록 4조원"
+  ],
+  [
+   "2026-08-15T10:01:23.191003+09:00",
+   "창업자금까지 기술주 하락에 주식에 신혼집 울상 개미 넣었는데"
+  ],
+  [
+   "2026-08-15T10:01:23.191003+09:00",
+   "부상 기업은 성장동력 뛴다 키우고 정부 SMR"
   ]
  ],
- "last_run": "2026-08-15T09:51:30.258231+09:00",
+ "last_run": "2026-08-15T10:01:35.049452+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
