@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000002896&cp=nv",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=662390",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169844",
   "https://www.koreatimes.co.kr/path/A2026081315000003176",
   "https://biz.heraldcorp.com/article/10840560",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=86594",
@@ -2999,12 +2996,12 @@
   "https://www.nocutnews.co.kr/news/6563525",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553461517",
   "https://m.sports.naver.com/basketball/article/065/0000300738",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597526"
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597526",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=692592",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=692591",
+  "https://www.wikitree.co.kr/articles/1152681"
  ],
  "seen_titles": [
-  "‘서바이벌전’국가대표AI2차발표임박…4팀중3팀만생존",
-  "[1%초고수의선택]'삼성생명'사고'제주반도체'팔았다",
-  "제네시스PE,캡스텍인수계약…주택관리'경비·미화'까지[마켓인]",
   "반도체팹증설·AIDC확대…DN오토모티브,하이엔드공작기계수혜가...",
   "\"실적때문에서명임의작성?\"…SK쉴더스,장기고객명의도용가입의...",
   "고려아연자회사케이잼,배터리용동박첫공급…경쟁사대비'자원순...",
@@ -6001,13 +5998,12 @@
   "대선배백인천조문못해발동동…경기에묶인현직감독들",
   "[오피셜]제주SK천군만마얻었다!'멀티플레이어'박수빈영입...\"윤활...",
   "[KBL유소년]'대이변발생'디펜딩챔피언격침시킨정관장U11,선봉장은...",
-  "제주SK,'멀티플레이어'박수빈영입...스쿼드과부하걱정덜었다"
+  "제주SK,'멀티플레이어'박수빈영입...스쿼드과부하걱정덜었다",
+  "[오피셜]성남,주장박수빈보내고현금+유망주전민규영입...\"재정적...",
+  "[오피셜]제주,세르지우코스타감독이강력히원한'성남주장'박수빈...",
+  "[기자수첩]리노공업2천억신공장,노사갈등에가려져선안될‘부산..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-15T13:21:07.160297+09:00",
-   "발탁된 2년 연속 신예 월드 2008년생 스쿼드 바이에른"
-  ],
   [
    "2026-08-15T13:41:03.674038+09:00",
    "선거 잡기 3파전 총력 전남광주시당위원장 당심 더불어민주당"
@@ -6163,9 +6159,13 @@
   [
    "2026-08-15T19:11:02.486848+09:00",
    "영입 걱정 멀티 플레이어 덜었다 스쿼드 제주SK 과부하 박수빈"
+  ],
+  [
+   "2026-08-15T19:21:07.343118+09:00",
+   "2천억 노사갈등에 리노공업 부산 가려져선 신공장"
   ]
  ],
- "last_run": "2026-08-15T19:11:09.453372+09:00",
+ "last_run": "2026-08-15T19:21:13.083437+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
