@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84435",
-  "https://www.mt.co.kr/stock/2026/08/13/2026081316031355340",
-  "https://www.hankyung.com/article/202608139597i",
   "https://www.goodkyung.com/news/articleView.html?idxno=290256",
   "http://www.finomy.com/news/articleView.html?idxno=259158",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=227435",
@@ -2999,12 +2996,12 @@
   "http://www.fnnews.com/news/202608141328279463",
   "http://www.inews24.com/view/1994894",
   "https://www.mt.co.kr/future/2026/08/16/2026080413044526123",
-  "https://www.yna.co.kr/view/AKR20260814186600008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260814186600008?input=1195m",
+  "http://www.paxetv.com/news/articleView.html?idxno=278927",
+  "http://www.inews24.com/view/1995420",
+  "https://www.yna.co.kr/view/AKR20260814179100008?input=1195m"
  ],
  "seen_titles": [
-  "어느새7천피'목전'…그래도계좌가불안하다면",
-  "빌게이츠만나는최태원·정기선..'SMR동맹'강화",
-  "아이스크림에듀,영업이익흑자전환…AI교육플랫폼전환본격화",
   "대기업본사울산이전…'김상욱호'화두로다시부상",
   "오늘의부고종합",
   "매출4791억원SK케미칼,분할후분기최대",
@@ -6001,7 +5998,10 @@
   "\"60%폭락,앱몇번클릭하고2000만원날렸다\"투자하는데10초,복구는...",
   "‘2~3년이면끝’이라던GPU…6년된엔비디아A100,2029년까지돈번다",
   "'세계1위'로입증한토종'비전AI'경쟁력…피지컬AI시장공략",
-  "[마켓인사이트]한주내내바닥다진코스피,상승흐름이어가나"
+  "[마켓인사이트]한주내내바닥다진코스피,상승흐름이어가나",
+  "[이슈]\"AI데이터센터시대,ESG핵심...AX전환으로지속가능경쟁력...",
+  "이통3사대표상반기보수보니…홍범식LGU+대표18억원'최고'",
+  "'규제강화후급락'단일레버리지거래대금,증가추세왜?"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,17 @@
   [
    "2026-08-16T06:11:19.371600+09:00",
    "한주 바닥다진 이어가나 상승흐름 내내 코스피"
+  ],
+  [
+   "2026-08-16T06:21:03.969216+09:00",
+   "보수 대표 18억원 LGU 상반기 최고 보니 홍범식 이통3사"
+  ],
+  [
+   "2026-08-16T06:21:03.969216+09:00",
+   "규제강화 급락 증가추세 레버리지 단일 거래대금"
   ]
  ],
- "last_run": "2026-08-16T06:12:00.379811+09:00",
+ "last_run": "2026-08-16T06:21:12.626944+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
