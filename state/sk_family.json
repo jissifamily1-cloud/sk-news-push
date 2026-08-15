@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=141785",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190404",
-  "http://www.popcornnews.net/news/articleView.html?idxno=128294",
   "http://www.seouleconews.com/news/articleView.html?idxno=92756",
   "https://www.sisajournal.com/news/articleView.html?idxno=381887",
   "http://www.yonhapnewstv.co.kr/news/AKR20260731103024sVW",
@@ -2999,12 +2996,12 @@
   "https://www.sidae.com/article/2026081514002569698",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02384566645547648",
   "https://www.hankyung.com/article/2026081425646",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80549"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80549",
+  "https://www.sidae.com/article/2026081513341563641",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93102",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260815141510cX0"
  ],
  "seen_titles": [
-  "[특징주]삼전닉스'불기둥'…삼성전자24%·하이닉스28%폭등",
-  "최태원첫'직접매수'다음날…SK하이닉스상한가근접",
-  "최태원첫SK하이닉스직접투자'적중'..하루만에평가이익13억",
   "SK실트론매각7개월만분수령…SK㈜이사회,두산행결론내나",
   "두산주가,급등세...'이소식'에관심집중",
   "최태원이사니28%올랐다…코인수준등락삼전·닉스[종목Pick]",
@@ -6001,7 +5998,10 @@
   "'9440억원재산분할'노소영관장,SK반도체사업기여있었나",
   "구광모·젠슨황'삼겹살회동'이…LG·엔비디아피지컬AI동맹으로",
   "'최태원의전략통'…SK하이닉스AI신사업발굴맡은기타리스트[강경...",
-  "최태원,'9440억재산분할'불복…대법원에재상고"
+  "최태원,'9440억재산분할'불복…대법원에재상고",
+  "박정원두산회장상반기보수455억…재계총수'1위'",
+  "최태원,'9440억재산분할'재상고장제출…다시대법으로",
+  "[뉴스초점]최태원'9,440억불복'재상고…재원마련주목"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,17 @@
   [
    "2026-08-15T14:10:15.207535+09:00",
    "최태원의 기타리스트 신사업 강경 발굴 맡은 SK하이닉스 AI 전략통"
+  ],
+  [
+   "2026-08-15T14:20:13.416626+09:00",
+   "대법으로 다시 재산분할 제출 재상고장 9440억"
+  ],
+  [
+   "2026-08-15T14:20:13.416626+09:00",
+   "불복 440억 재원마련 재상고 주목"
   ]
  ],
- "last_run": "2026-08-15T14:11:33.353012+09:00",
+ "last_run": "2026-08-15T14:20:29.137246+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
