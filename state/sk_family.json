@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsdream.kr/news/articleView.html?idxno=115453",
-  "http://www.inews24.com/view/1990621",
-  "https://kpenews.com/View.aspx?No=4169516",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356792",
   "https://www.ggilbo.com/news/articleView.html?idxno=1172543",
   "https://biz.heraldcorp.com/article/10826771",
   "https://view.asiae.co.kr/article/2026073108022972835",
@@ -2999,12 +2995,13 @@
   "https://news.tf.co.kr/read/life/2354593.htm",
   "https://imnews.imbc.com/replay/2026/nw1200/article/6844977_36967.html",
   "https://www.gukjenews.com/news/articleView.html?idxno=3665609",
-  "https://www.kado.net/news/articleView.html?idxno=2066854"
+  "https://www.kado.net/news/articleView.html?idxno=2066854",
+  "https://www.etnews.com/20260815000024",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878041",
+  "https://www.etnews.com/20260815000023",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608150004"
  ],
  "seen_titles": [
-  "사전공시피한'48억승부수'…최태원책임베팅에SK하이닉스29%폭등",
-  "사흘간폭락딛고솟구친코스피...삼성전자·SK하이닉스20%대폭등",
-  "\"불장신호탄?\"...삼전·하이닉스20%대급등,상승세얼마나갈까?",
   "최태원회장SK하이닉스주식49억만사들인이유..사전공시규정최대...",
   "최태원의완벽한'저점매수'…SK하닉매입하루만에12억평가차익",
   "[특징주]SK스퀘어,최태원회장장내매수소식..'상한가'",
@@ -6001,7 +5998,10 @@
   "최태원·노소영‘세기의재산분할’다시대법으로…경우의수따져보...",
   "최태원·노소영'9,440억'‥다시대법원으로",
   "김정관장관,테라파워와만남…SMR표준화보급에한국제조생태계강...",
-  "최태원,노소영에9440억원재산분할판결불복…대법원재상고"
+  "최태원,노소영에9440억원재산분할판결불복…대법원재상고",
+  "[포토]테라파워·SK이노베이션간SMR공동사업추진조건합의서체결...",
+  "상반기그룹총수보수수령1위는두산박정원회장…455억원챙겨",
+  "소떼방북에삼계탕세트까지…회장님의‘통큰결단’이남긴것"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,17 @@
   [
    "2026-08-15T12:30:21.629957+09:00",
    "대법원으로 다시 440억"
+  ],
+  [
+   "2026-08-15T13:00:29.585578+09:00",
+   "테라파워 체결 SK이노베이션 SMR 공동사업 조건 합의서"
+  ],
+  [
+   "2026-08-15T13:00:29.585578+09:00",
+   "통큰 세트까지 회장님의 방북에 결단 소떼 삼계탕 남긴"
   ]
  ],
- "last_run": "2026-08-15T12:50:25.984737+09:00",
+ "last_run": "2026-08-15T13:00:45.975258+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
