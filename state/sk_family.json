@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.namdonews.com/news/articleView.html?idxno=918632",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03817926645520096",
-  "https://biz.heraldcorp.com/article/10826766",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=442116",
-  "https://economist.co.kr/article/view/ecn202607310007",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=119648",
   "https://www.ajunews.com/view/20260731100115090",
   "https://www.mt.co.kr/industry/2026/07/31/2026073109305299300",
   "https://www.newsis.com/view/NISX20260731_0003731193",
@@ -2999,15 +2993,15 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=598502",
   "https://www.econovill.com/news/articleView.html?idxno=748112",
   "https://www.ytn.co.kr/_ln/0103_202608151118511487",
-  "https://www.joongboo.com/news/articleView.html?idxno=363733940"
+  "https://www.joongboo.com/news/articleView.html?idxno=363733940",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706781&plink=ORI&cooper=NAVER",
+  "https://www.m-economynews.com/news/article.html?no=69791",
+  "https://www.mtnews.net/news/articleView.html?idxno=25665",
+  "https://www.ngetnews.com/news/articleView.html?idxno=552467",
+  "https://www.econovill.com/news/articleView.html?idxno=748113",
+  "https://bizhankook.com/articles/bill-gates-k-nuclear-ai-power.html"
  ],
  "seen_titles": [
-  "코스피17%폭등,코스닥도9%대강세…전날폭락딛고'불기둥'",
-  "'불기둥'코스피…삼전·닉스장초반20%대급등",
-  "개미구하러‘최태원구조대’출동…SK하이닉스장초반27%급등",
-  "[특징주]SK스퀘어,반도체훈풍·최태원회장매수소식에상한가",
-  "최태원SK그룹회장,SK하이닉스주식48억원매수…'제도상최대규모'",
-  "사흘폭락뒤하루만에급반등..코스피6400선회복",
   "[특징주]SK스퀘어,美반도체훈풍·최태원매수에상한가직행",
   "55%급락한SK하이닉스…최태원48억원베팅한이유?",
   "상반기수출14년만에최대‥하반기도'탄탄'",
@@ -6001,7 +5995,13 @@
   "두산박정원,상반기보수455억원'총수1위'…RSU주가급등영향",
   "최태원SK그룹회장,美메모리팹가능성열었다…\"생태계갖춰지면어...",
   "'세기의이혼'다시대법원으로...이번주법조계'키워드'",
-  "추미애\"숨은독립운동영웅끝까지찾겠다…역사적정의세울것\""
+  "추미애\"숨은독립운동영웅끝까지찾겠다…역사적정의세울것\"",
+  "마감시한1분앞두고기자단공지…\"상고장제출했습니다\"[자막뉴스]",
+  "최태원,9440억원재산분할판결재상고...노소영과9년째법정공방",
+  "산업부-테라파워,4세대SMR글로벌공급망협력본격화…韓원전파운...",
+  "최태원,9440억원재산분할재상고…다시대법원으로",
+  "박정원두산회장상반기보수456억…RSU가키운'연봉킹'",
+  "빌게이츠의차세대원전'나트륨'…SK·HD현대·두산·현대건설올라탔..."
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,21 @@
   [
    "2026-08-15T11:30:21.901224+09:00",
    "생태계 회장 열었다 메모리 가능성 갖춰지면"
+  ],
+  [
+   "2026-08-15T12:00:31.699938+09:00",
+   "회장 연봉킹 키운 456억 두산 보수 상반기 박정원 RSU가"
+  ],
+  [
+   "2026-08-15T12:00:31.699938+09:00",
+   "원전 나트륨 HD현대 올라탔 차세대 현대건설 두산 게이츠의"
+  ],
+  [
+   "2026-08-15T12:00:31.699938+09:00",
+   "1분 상고장 공지 시한 앞두고 마감 제출했습니다 기자단"
   ]
  ],
- "last_run": "2026-08-15T11:50:27.877659+09:00",
+ "last_run": "2026-08-15T12:00:48.774129+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
