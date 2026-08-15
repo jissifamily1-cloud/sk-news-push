@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026081316013852818",
-  "https://www.kgnews.co.kr/news/article.html?no=907603",
   "https://www.etnews.com/20260813000381",
   "http://www.queen.co.kr/news/articleView.html?idxno=461726",
   "http://www.fnnews.com/news/202608131555165177",
@@ -2999,11 +2997,11 @@
   "https://www.busan.com/view/busan/view.php?code=2026081515091144776",
   "https://www.nocutnews.co.kr/news/6563489",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02456726645547648",
-  "https://www.mk.co.kr/article/12128748"
+  "https://www.mk.co.kr/article/12128748",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534177",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=126009"
  ],
  "seen_titles": [
-  "인텔,AI추론겨냥CPU·패키징전략재정비",
-  "코스피단숨에6800선…외국인2조사고개미2.7조팔았다",
   "반도체랠리지속…코스피3.56%올라6800선마감",
   "반도체연일강세…삼전·닉스,4~5%대급등마감(종합)",
   "[13일마감시황]반도체'투톱'날았다…코스피,3.5%상승6800선안착",
@@ -6001,7 +5999,9 @@
   "최태원,현금9440억재산분할재상고\"주주·경영부정적영향최소화...",
   "전남광주특별시의회\"SK전남광주동부권100조투자계획환영\"",
   "\"호남의아들·사위\"광주의미래\"…鄭·金·宋,전남광주서'신경전'",
-  "최경주재단,하계드림캠프성황리에마무리…탈북청년지원UnionDream통..."
+  "최경주재단,하계드림캠프성황리에마무리…탈북청년지원UnionDream통...",
+  "최태원,9천440억재산분할판결불복…대법원재상고",
+  "NBA1라운더출신→대만서평균26.4점...특급스코어러LG서빛날까?뉴..."
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-08-15T15:41:07.041466+09:00",
    "마무리 지원 하계드림캠프 성황리에 탈북 청년 최경주재단 UnionDream"
+  ],
+  [
+   "2026-08-15T15:51:03.969784+09:00",
+   "NBA 1라운더 빛날까 LG서 평균 4점 출신 대만서 특급 스코어러"
   ]
  ],
- "last_run": "2026-08-15T15:41:16.640383+09:00",
+ "last_run": "2026-08-15T15:51:09.687992+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
