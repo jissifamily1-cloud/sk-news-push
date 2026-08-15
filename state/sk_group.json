@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444716",
-  "http://www.fnnews.com/news/202608131648513461",
-  "https://www.the-today.com/news/articleView.html?idxno=88432",
-  "https://www.dkilbo.com/news/articleView.html?idxno=551326",
-  "https://www.livebiz.today/news/articleView.html?idxno=204131",
-  "https://www.ceoscoredaily.com/page/view/2026081316205796739",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43023",
   "https://www.mk.co.kr/article/12126758",
   "https://www.mt.co.kr/industry/2026/08/13/2026081316140656631",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12128829",
   "https://www.sedaily.com/article/20079842",
   "https://www.mydaily.co.kr/page/view/2026081601492742291",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160032&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160032&t=NN",
+  "https://www.dailian.co.kr/news/view/1678506/?sc=Naver",
+  "https://news.dealsitetv.com/articles/174660",
+  "https://www.theguru.co.kr/news/article.html?no=105845",
+  "https://www.sedaily.com/article/20079639",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1396107",
+  "https://theviewers.co.kr/View.aspx?No=4187991"
  ],
  "seen_titles": [
-  "120일선뚫은코스피'지금부터중요'…美금리넘어실적상향'필요'",
-  "SK케미칼2분기매출4791억원전사업고른성장",
-  "SK케미칼,올해2분기매출4791억원영업이익319억원달성",
-  "'6,800선돌파'코스피3.5%상승…4일간8.8%올랐다",
-  "SK케미칼,2Q분기최대매출…전사업고른성장",
-  "[기획]10대증권사,상반기전년比2배성장…'증시활황'수혜",
   "반도체·이차전지·바이오규제\"확푼다\"…4.3조원투자물꼬",
   "삼성그룹시총2000조돌파…국내증시42%가푸른빛",
   "[오늘의증시]코스피3.56%급등…AI반도체귀환에'기술적강세장'진...",
@@ -6001,7 +5995,13 @@
   "“삼전·하닉서빠진돈어디갔나봤더니”…한달새21%뛴‘이곳’",
   "‘삼전닉스’돌아오자코스피7000터치…다음주증시향방은[선데이...",
   "'슈팅33개→1골'후반기2승의전북,콤파뇨복귀로'골결정력문제'...",
-  "반도체반등에다시8,000억대…레버리지거래'꿈틀'"
+  "반도체반등에다시8,000억대…레버리지거래'꿈틀'",
+  "AI·로봇·우주로바뀌는영남…대기업312조투자시동",
+  "[두산,SK실트론인수후]박정원회장,흡수합병유력…'지주사리스크...",
+  "[영상][단독]中,韓배터리공장들여다본다...1839개'공짜점검'정체",
+  "LG·SKT에도전장낸스타트업…‘국가대표AI’4파전누가웃을까",
+  "SKT·KT·LGU+,장기고객잡아라…체험형프로그램'소통'",
+  "돌아온外人,삼전닉스상승이어질까"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,29 @@
   [
    "2026-08-16T07:41:03.046501+09:00",
    "돌아오자 향방은 터치 다음주 삼전닉스 코스피 증시 선데이"
+  ],
+  [
+   "2026-08-16T08:08:52.313201+09:00",
+   "흡수합병 박정원 회장 리스크 유력 지주사"
+  ],
+  [
+   "2026-08-16T08:08:52.313201+09:00",
+   "점검 정체 배터리 1839개 공장 들여다본다 공짜"
+  ],
+  [
+   "2026-08-16T08:08:52.313201+09:00",
+   "스타트업 웃을까 도전장 국가대표 LG SKT에 4파전 누가 AI"
+  ],
+  [
+   "2026-08-16T08:08:52.313201+09:00",
+   "SKT LGU 소통 잡아라 KT 장기고객 체험형 프로그램"
+  ],
+  [
+   "2026-08-16T08:08:52.313201+09:00",
+   "삼전닉스 이어질까 돌아온 상승"
   ]
  ],
- "last_run": "2026-08-16T08:01:19.418013+09:00",
+ "last_run": "2026-08-16T08:09:08.781469+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
