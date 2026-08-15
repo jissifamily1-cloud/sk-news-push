@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=715337",
-  "https://www.newspost.kr/news/articleView.html?idxno=224588",
-  "https://kpenews.com/View.aspx?No=4169502",
-  "https://www.newspim.com/news/view/20260731000391",
   "https://www.thepublic.kr/news/articleView.html?idxno=313316",
   "https://www.usmbc.co.kr/NewsArticle/852760",
   "https://www.namdonews.com/news/articleView.html?idxno=918632",
@@ -2999,13 +2995,13 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=857167",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260815.99099004123",
   "http://www.yonhapnewstv.co.kr/news/MYH20260815111649fT9",
-  "http://kor.theasian.asia/archives/413157"
+  "http://kor.theasian.asia/archives/413157",
+  "https://www.pennmike.com/news/articleView.html?idxno=125752",
+  "https://www.ziksir.com/news/articleView.html?idxno=143317",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=598502",
+  "https://www.econovill.com/news/articleView.html?idxno=748112"
  ],
  "seen_titles": [
-  "[특징주]삼성전자·SK하이닉스20%대폭등...SK스퀘어는'上'",
-  "[뉴공아카이브]박홍배더불어민주당의원,이해민조국혁신당의원,한...",
-  "‘K맵’에밀려힘못쓰는구글[데이터로보는세상]",
-  "‘드론방어’‘자폭드론’대표주자어디?[미장보석주]",
   "\"하이닉스3600주를한번에…\"슈카,최태원매수'포착'",
   "SK하이닉스,폭락딛고28%급반등…최태원첫매수통했나",
   "코스피17%폭등,코스닥도9%대강세…전날폭락딛고'불기둥'",
@@ -6001,7 +5997,11 @@
   "최태원·노소영재산분할,다시대법원으로",
   "최태원결국재상고선택,9440억현금지급판결동의못했나",
   "[이시각헤드라인]8월15일토요와이드(11시)",
-  "아자뉴스바이트20260815"
+  "아자뉴스바이트20260815",
+  "[재계핫이슈]최태원회장'11시59분상고'속사정은?",
+  "최태원,노소영재산분할판결재상고…9440억원지급다시대법원판단...",
+  "두산박정원,상반기보수455억원'총수1위'…RSU주가급등영향",
+  "최태원SK그룹회장,美메모리팹가능성열었다…\"생태계갖춰지면어..."
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,13 @@
   [
    "2026-08-15T11:20:15.346155+09:00",
    "아자뉴스바이트"
+  ],
+  [
+   "2026-08-15T11:30:21.901224+09:00",
+   "생태계 회장 열었다 메모리 가능성 갖춰지면"
   ]
  ],
- "last_run": "2026-08-15T11:20:32.264280+09:00",
+ "last_run": "2026-08-15T11:30:34.502501+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
