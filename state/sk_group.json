@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/market/389879",
-  "https://www.ekn.kr/web/view.php?key=20260813020432399",
   "http://www.fnnews.com/news/202608131336509334",
   "https://www.kgnews.co.kr/news/article.html?no=907627",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206519",
@@ -2999,11 +2997,11 @@
   "https://www.ziksir.com/news/articleView.html?idxno=143317",
   "https://www.cbci.co.kr/news/articleView.html?idxno=598502",
   "https://www.econovill.com/news/articleView.html?idxno=748112",
-  "https://www.newsis.com/view/NISX20260815_0003750533"
+  "https://www.newsis.com/view/NISX20260815_0003750533",
+  "https://basketkorea.com/news/newsview.php?ncode=1065579037923551",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477689"
  ],
  "seen_titles": [
-  "SK에코플랜트,'AI데이터센터사업단'신설…조직·기능일원화",
-  "“코스피,삼전닉스동력삼아추가상승가능성”…외신들‘기술적강...",
   "목표가24%하향,SK오션플랜트실적공백지적",
   "2천억에그친SK하이닉스크레디트매수",
   "‘복지사각지대줄인다’…여주시-SK하이닉스,어르신보행기100대지...",
@@ -6001,7 +5999,9 @@
   "최태원,노소영재산분할판결재상고…9440억원지급다시대법원판단...",
   "두산박정원,상반기보수455억원'총수1위'…RSU주가급등영향",
   "최태원SK그룹회장,美메모리팹가능성열었다…\"생태계갖춰지면어...",
-  "전남광주시의회\"SK전남동부권100조원투자,환영\""
+  "전남광주시의회\"SK전남동부권100조원투자,환영\"",
+  "[KBL유소년클럽대회]‘기선제압’SKU9,KTU9격파",
+  "SK하이닉스,AI호황에실적또뛴다…\"지금이비중확대기회\""
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,17 @@
   [
    "2026-08-15T11:31:12.751610+09:00",
    "동부권 투자 전남 전남광주시의회 환영 100조원"
+  ],
+  [
+   "2026-08-15T11:41:10.880437+09:00",
+   "기선 KT 격파 U9 제압"
+  ],
+  [
+   "2026-08-15T11:41:10.880437+09:00",
+   "지금이 호황에 기회 AI 확대 SK하이닉스 뛴다 비중 실적"
   ]
  ],
- "last_run": "2026-08-15T11:35:08.374427+09:00",
+ "last_run": "2026-08-15T11:41:21.811975+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
