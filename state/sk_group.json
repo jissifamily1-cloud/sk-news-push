@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130561&t=NN",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310228&inflow=N",
-  "https://www.tokenpost.kr/news/cryptocurrency/389974",
   "https://www.dailian.co.kr/news/view/1678176/?sc=Naver",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5680",
   "https://www.kgnews.co.kr/news/article.html?no=907650",
@@ -2999,12 +2996,12 @@
   "https://www.sisajournal.com/news/articleView.html?idxno=383754",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=48200",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003259373&CMPT_CD=P0010",
-  "https://www.goal.com/kr/뉴스/a/bltb93e23acf0ae87f9"
+  "https://www.goal.com/kr/뉴스/a/bltb93e23acf0ae87f9",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=270642",
+  "https://www.dongponews.net/news/articleView.html?idxno=59890",
+  "https://biz.sbs.co.kr/article_hub/20000328980?division=NAVER"
  ],
  "seen_titles": [
-  "'CPI안도'돌아온외인,코스피6800선탈환…시총10위전종목'상승'[...",
-  "반도체發훈풍·순환매지속…코스피·코스닥나흘연속상승",
-  "코스피,외인·기관'쌍끌이'매수에3.5%대급등…6810선마감",
   "미국발훈풍에‘삼전닉스’급등…코스피,나흘째강세에6810선‘안착...",
   "[마감시황]코스피,외국인·기관'쌍끌이'에6800선돌파…코스닥0.29%...",
   "캐나다해군전투함MRO초읽기..한화·HD현대등북미거점확보'총력...",
@@ -6001,33 +5998,12 @@
   "재산분할금9440억확정앞두고…최태원은왜'마감1분전'재상고했을...",
   "최태원SK회장,'9440억재산분할'불복…다시대법원으로",
   "광복절하루전,충남은'에너지독립'을선언했다",
-  "[오피셜]‘수비라인안정감높였다!’후반기반등노리는대구FC,센터..."
+  "[오피셜]‘수비라인안정감높였다!’후반기반등노리는대구FC,센터...",
+  "\"인수하면다죽는다\"결사반대하더니…SK반도체신화에'숟가락얹기...",
+  "'세기의결혼에서'세기의이혼과재산분할'다시대법원으로...",
+  "이혼소송재상고원인?…주가고려·SK실트론분할·매일억대이자연기"
  ],
  "recent_sigs": [
-  [
-   "2026-08-15T10:31:12.881184+09:00",
-   ""
-  ],
-  [
-   "2026-08-15T10:31:12.881184+09:00",
-   "고점론 27만전자 164만닉스 반도체 주간 돌아온 국장과 불붙은 외인"
-  ],
-  [
-   "2026-08-15T10:31:12.881184+09:00",
-   "기아대책과 홍지민 함께 배우 서울보훈청 후원 유족 독립유공자"
-  ],
-  [
-   "2026-08-15T10:41:02.238731+09:00",
-   "유효성 3상서 JW중외제약 입증 통풍치료제"
-  ],
-  [
-   "2026-08-15T10:41:02.238731+09:00",
-   "선제적 롯데카드 체계 1200억원 보안 AI로 강화 투자 정보보호에"
-  ],
-  [
-   "2026-08-15T10:41:02.238731+09:00",
-   "노동 메가특구 정부는 말고 투자하라"
-  ],
   [
    "2026-08-15T10:51:04.958564+09:00",
    "희비 전기차 공장 갈려 가동률 한파 대응에 K배터리"
@@ -6263,9 +6239,13 @@
   [
    "2026-08-15T16:31:10.995461+09:00",
    "높였다 안정감 수비라인 센터 후반기 반등 대구FC 노리는"
+  ],
+  [
+   "2026-08-15T16:41:06.118469+09:00",
+   "이혼소송 억대 연기 SK실트론 주가 원인 재상고 분할 매일 고려 이자"
   ]
  ],
- "last_run": "2026-08-15T16:31:19.911886+09:00",
+ "last_run": "2026-08-15T16:41:12.162128+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
