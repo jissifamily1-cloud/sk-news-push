@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12126641",
-  "https://www.yna.co.kr/view/AKR20260813090451008?input=1195m",
-  "https://www.g-enews.com/view.php?ud=202608131615224602aa6f4cdad_1",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008704106&plink=ORI&cooper=NAVER",
   "https://www.dt.co.kr/article/12078200",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=608383",
   "http://www.thebigdata.co.kr/view.php?ud=2026081316201713030a47484cf8_23",
@@ -2999,13 +2995,13 @@
   "https://m.sports.naver.com/basketball/article/065/0000300741",
   "http://www.yonhapnewstv.co.kr/news/MYH20260815195059t8Z",
   "https://biz.heraldcorp.com/article/10842439",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212742"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212742",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534192",
+  "https://www.hankookilbo.com/news/article/A2026081519140000266?did=NA",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150637&t=NN",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212729"
  ],
  "seen_titles": [
-  "코스피6,800선돌파-외국인·기관'쌍끌이'에나흘간8.8%상승",
-  "SK케미칼,2분기영업익323억…전년比흑자전환",
-  "코스피,나흘째상승세...3.56%올라지수6,800선회복",
-  "SK케미칼,2분기영업익319억원···전년동기比26.8%증가",
   "베라루빈타고뜨는소캠2…삼성·SKAI메모리영토넓힌다",
   "돌아온외국인에코스피날았다…15거래일만에6800선탈환",
   "SK케미칼,분기최대매출경신···그린케미칼·제약동반성장",
@@ -6001,7 +5997,11 @@
   "[KBL유소년]'데뷔경기에서만점활약'SKU12마시현이보여준게임체...",
   "재산분할9,440억판결불복…최태원'재상고'이유는?",
   "“낯익은여성누구?”옛날사진‘추억팔이’하더니…몰락한싸이월...",
-  "최태원9440억재산분할판결재상고…\"금액과하다\""
+  "최태원9440억재산분할판결재상고…\"금액과하다\"",
+  "'9천440억재산분할'다시대법으로…최태원재상고",
+  "\"국장믿었던내가바보\"韓개미들'피눈물'조명한BBC",
+  "'고점론'에줄줄이낮췄는데…\"삼전닉스극단적저평가\"뚝심보인이유...",
+  "하루이자만1억3000만원…피할수없었던'재상고'?"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,17 @@
   [
    "2026-08-15T19:57:22.218836+09:00",
    "싸이월 여성 사진 하더니 누구 몰락한 옛날 추억 낯익은 팔이"
+  ],
+  [
+   "2026-08-15T20:11:04.909955+09:00",
+   "극단적 이유 고점론 저평가 삼전닉스 뚝심 줄줄이 낮췄는데 보인"
+  ],
+  [
+   "2026-08-15T20:11:04.909955+09:00",
+   "3000만 없었던 하루 이자만 재상고 1억 피할"
   ]
  ],
- "last_run": "2026-08-15T20:01:22.927020+09:00",
+ "last_run": "2026-08-15T20:11:13.510942+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
