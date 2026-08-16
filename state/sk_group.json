@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6844698_37012.html",
-  "https://www.public25.com/news/articleView.html?idxno=52708",
-  "https://www.segye.com/newsView/20260814504186?OutUrl=naver",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260814073820vJR",
-  "http://www.ferrotimes.com/news/articleView.html?idxno=49777",
-  "https://www.news1.kr/finance/general-stock/6258668",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=598161",
   "https://www.koreaittimes.com/news/articleView.html?idxno=156108",
   "https://www.koreaittimes.com/news/articleView.html?idxno=156109",
   "https://www.yna.co.kr/view/AKR20260814012700009?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720591",
   "https://www.news1.kr/economy/idustry-trade/6260304",
   "https://www.mt.co.kr/tech/2026/08/17/2026081415092747896",
-  "https://www.mk.co.kr/article/12129186"
+  "https://www.mk.co.kr/article/12129186",
+  "https://www.starnewskorea.com/sports/2026/08/17/2026081622272270082",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608170047&t=NN",
+  "https://www.dailian.co.kr/news/view/1678679/?sc=Naver",
+  "https://weekly.donga.com/3/all/11/6347545/1",
+  "https://biz.heraldcorp.com/article/10841981",
+  "http://www.fnnews.com/news/202608161329218294",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=308486"
  ],
  "seen_titles": [
-  "[마켓프리뷰]코스피나흘연속상승…변동성벗어나정상화신호?",
-  "EU배터리라벨·QR의무화눈앞…K배터리'협력사검증'시험대",
-  "K배터리부활시작됐나…'디테일'뜯어보니",
-  "[넥스트-샷]생산자물가도안정···S&P500최고기록경신합니다",
-  "[연합뉴스이시각헤드라인]-07:30",
-  "한국증시,미국물가둔화와반도체강세에상승시도",
-  "물가·유가부담완화에뉴욕증시상승…S&P500사상최고",
   "美S&P500사상최고치…생산자물가둔화·유가2%대하락",
   "SK케미칼,2분기영업익319억…매출24.8%증가",
   "자정넘기면9440억원재산분할확정…최태원·노소영재상고주목",
@@ -6001,7 +5994,14 @@
   "독파모2차발표앞두고스타트업이대기업제쳐…\"벤치마크가다가아...",
   "韓에'SMR러브콜'보낸빌게이츠…테라파워vsK-SMR경쟁력은",
   "국가대표AI2차전선발눈앞…'글로벌벤치마크'가변수될까",
-  "삼전닉스,반년새현금곳간117조원↑…설비투자대비실탄확보"
+  "삼전닉스,반년새현금곳간117조원↑…설비투자대비실탄확보",
+  "'인천좌타홈런1위'한유섬의첫아치가8월에터지다니!→2G연속포에...",
+  "솔리다임IPO설'모락'…SK하닉주주에득일까,실일까",
+  "[여의도물어보살③]'돈없는개미빠져라'…레버리지보완책효과는",
+  "“월50억씩벌다반년만에65억손실”코스피ETF에서새길찾은황...",
+  "상반기14조원벌어들인K-정유,반사이익아직끝나지않았다[비즈360...",
+  "예탁금다시100조돌파…개미들다시총알모았다",
+  "ETF1160종시대,테마선점넘어'상품설계'경쟁"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,29 @@
   [
    "2026-08-17T06:50:59.610854+09:00",
    "실탄 현금 확보 반년 117조원 대비 설비투자 삼전닉스 곳간"
+  ],
+  [
+   "2026-08-17T07:11:01.798212+09:00",
+   "빠져라 개미 보완책 없는 레버리지 효과는"
+  ],
+  [
+   "2026-08-17T07:11:01.798212+09:00",
+   "찾은 50억씩 반년 손실 벌다 65억 만에 코스피 ETF에서"
+  ],
+  [
+   "2026-08-17T07:11:01.798212+09:00",
+   "아직 14조원 정유 않았다 비즈360 상반기 벌어들인 반사이익 끝나지"
+  ],
+  [
+   "2026-08-17T07:11:01.798212+09:00",
+   "개미들 모았다 다시 총알 돌파 100조 예탁금"
+  ],
+  [
+   "2026-08-17T07:11:01.798212+09:00",
+   "1160종 선점 ETF 경쟁 테마 시대 상품 설계 넘어"
   ]
  ],
- "last_run": "2026-08-17T07:01:20.521206+09:00",
+ "last_run": "2026-08-17T07:11:18.393647+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
