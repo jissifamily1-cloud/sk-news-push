@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2116350",
-  "https://www.donga.com/news/Economy/article/all/20260813/134475343/1",
-  "https://www.tokenpost.kr/news/cryptocurrency/390083",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444743",
   "https://news.tf.co.kr/read/economy/2354056.htm",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06264806645546992",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000002969&cp=nv",
@@ -2999,13 +2995,13 @@
   "https://biz.sbs.co.kr/article_hub/20000329020?division=NAVER",
   "https://jp.yna.co.kr/view/AJP20260816000700882?input=1728m",
   "https://www.tokenpost.kr/news/market/391600",
-  "https://www.busan.com/view/busan/view.php?code=2026081614201052026"
+  "https://www.busan.com/view/busan/view.php?code=2026081614201052026",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005901908",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444886",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720580",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16164778"
  ],
  "seen_titles": [
-  "SK하이닉스통합노조공식출범…설립인가완료",
-  "SK쉴더스보안서비스고객,본인동의없이보험가입통지받고'황당'",
-  "최태원·노소영9,440억분할확정?…내일결론",
-  "[올댓차이나]홍콩증시,中경기불안에사흘째하락마감…H주0.23%↓",
   "SK하이닉스통합노조공식출범…반도체노조연대가능성도",
   "\"링이냐패널이냐\"…램리서치-PSK특허소송,재판부가도면검토",
   "철강·석화‘AI·반도체특수’로불황뚫었다",
@@ -6001,7 +5997,11 @@
   "최태원재상고배경은?…9천440억'지급방식'때문에",
   "韓国SK会長の再上告元妻が全額現金要求したため？＝1千億円の離婚訴訟",
   "76.51%손실,반도체레버리지ETF회복부담커졌다",
-  "코스닥,세계1위질주에도…삼전닉스부활에수급우려"
+  "코스닥,세계1위질주에도…삼전닉스부활에수급우려",
+  "최태원·노소영,재산분할지급방식이견…최회장,파기환송심재상고",
+  "4대은행상반기평균급여7150만원으로12.6%늘어,13년만에최대폭...",
+  "삼성전자·SK하이닉스주주환원확대기대…증권가\"연간300조원가능\"",
+  "SK하이닉스주가하루만10%폭락에미자,심경…\"주식다날아갔다\""
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,13 @@
   [
    "2026-08-16T14:31:13.792235+09:00",
    "1위 질주에도 코스닥 세계 삼전닉스 수급 부활에 우려"
+  ],
+  [
+   "2026-08-16T14:33:40.771294+09:00",
+   "주식 주가 심경 폭락에 날아갔다 SK하이닉스 미자 하루만"
   ]
  ],
- "last_run": "2026-08-16T14:31:24.788470+09:00",
+ "last_run": "2026-08-16T14:33:46.513480+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
