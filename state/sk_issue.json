@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ikld.kr/news/articleView.html?idxno=337531",
   "https://www.dailyt.co.kr/newsView/dlt202607140003",
   "https://economist.co.kr/article/view/ecn202607070042",
   "http://www.ujeil.com/news/articleView.html?idxno=388788",
@@ -2999,10 +2998,10 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=635530",
   "https://www.newscj.com/news/articleView.html?idxno=3425529",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265798",
-  "https://www.sedaily.com/article/20079897"
+  "https://www.sedaily.com/article/20079897",
+  "http://www.newskr.kr/news/articleView.html?idxno=105654"
  ],
  "seen_titles": [
-  "환경산업기술원,친환경위장대응전략모색",
   "[지구촌이색환경정책소개]\"가격표옆에환경성적표를붙이세요\"…...",
   "유니세프까지번진VVIP마케팅…기부도‘0.1%잡기’경쟁[큰손을잡...",
   "[기획]-뉴스분석-ESG공시시대,울산산업의대전환(상)",
@@ -6001,10 +6000,16 @@
   "국고채담합심판대오른국책은행···정부배당·정책금융'이중부담...",
   "통합대한항공,중복노선재편…신규취항·증편확대",
   "대한항공·아시아나12월통합한다…시간대·신규노선확대",
-  "“민간인에‘엄호사격’지시”…군무원들,韓정부ILO제소"
+  "“민간인에‘엄호사격’지시”…군무원들,韓정부ILO제소",
+  "1조이혼소송쟁점된TRS가뭐길래"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-16T12:20:57.855563+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-16T12:30:58.330007+09:00",
+   "1조 뭐길래 이혼소송 TRS가 쟁점된"
+  ]
+ ],
+ "last_run": "2026-08-16T12:31:07.366816+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6060,6 +6065,7 @@
   "koreastocknews.com": "증권경제신문",
   "nbntv.co.kr": "내외경제TV",
   "ebn.co.kr": "이비엔(EBN)뉴스센터",
-  "ntoday.co.kr": "투데이신문"
+  "ntoday.co.kr": "투데이신문",
+  "newskr.kr": "한국농어촌방송"
  }
 }
