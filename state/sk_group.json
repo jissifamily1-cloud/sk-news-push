@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130610&t=NN",
-  "http://www.metroseoul.co.kr/article/20260813500576",
-  "https://www.sedaily.com/article/20079152",
   "https://news.mtn.co.kr/news-detail/2026081316163398920",
   "https://www.delighti.co.kr/news/articleView.html?idxno=120197",
   "https://www.hankyung.com/article/2026081301011",
@@ -2999,12 +2996,12 @@
   "https://www.sentv.co.kr/article/view/sentv202608160006",
   "https://biz.heraldcorp.com/article/10842573",
   "https://www.g-enews.com/view.php?ud=2026081609094248280c8c1c064d_1",
-  "https://www.jasm.co.kr/news/articleView.html?idxno=308545"
+  "https://www.jasm.co.kr/news/articleView.html?idxno=308545",
+  "https://www.eroun.net/news/articleView.html?idxno=87673",
+  "https://magazine.hankyung.com/business/article/202608163777b",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43058"
  ],
  "seen_titles": [
-  "MSCI올라탄LG이노텍…최대4390억원자금유입전망[투자360]",
-  "코스피급등한날,공매도2조3864억원으로급증...KT거래비중41%최고",
-  "[헬로스톡]8/13주목할종목:한화손해보험·한국전력·클래시스·SK오...",
   "SKchemicalspostsrecordquarterlysalesinQ2ongreenchemicals,pha",
   "애플공급망넘보는중국CXMTD램…YMTC낸드는세계3위로",
   "삼성·SK,현지생산거점확대에도미국은'추가투자압박'",
@@ -6001,7 +5998,10 @@
   "증시급반등에…코스피공매도잔고14%증가",
   "은행원상반기평균급여7150만원,삼전보다많아…가계대출묶어도이...",
   "\"빌게이츠원전,현대건설이짓는다\"…테라파워'나트륨'4세대SMR최...",
-  "인천'테라스붕괴'아파트찾은박찬대시장\"시공·감리에책임묻겠..."
+  "인천'테라스붕괴'아파트찾은박찬대시장\"시공·감리에책임묻겠...",
+  "개인10조손실…단일종목레버리지ETF,무엇이문제였나",
+  "[속보]“삼전보다많았다”4대은행평균급여‘역대최대’",
+  "최태원,9440억원지급검토했으나결국재상고…'주가하락분까지보..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-08-16T09:21:02.031931+09:00",
    "묻겠 시공 감리에 붕괴 찾은 아파트 시장 박찬대 책임 인천 테라스"
+  ],
+  [
+   "2026-08-16T09:31:12.281002+09:00",
+   "9440억원 지급 하락분까지 재상고 최태원 결국 검토했으나 주가"
   ]
  ],
- "last_run": "2026-08-16T09:21:14.492850+09:00",
+ "last_run": "2026-08-16T09:31:19.188382+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
