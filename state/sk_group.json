@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026081407432212950",
-  "https://www.khan.co.kr/article/202608140743001",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6844698_37012.html",
   "https://www.public25.com/news/articleView.html?idxno=52708",
   "https://www.segye.com/newsView/20260814504186?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092168166",
   "https://economist.co.kr/article/view/ecn202608110042",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720591",
-  "https://www.news1.kr/economy/idustry-trade/6260304"
+  "https://www.news1.kr/economy/idustry-trade/6260304",
+  "https://www.mt.co.kr/tech/2026/08/17/2026081415092747896",
+  "https://www.mk.co.kr/article/12129186"
  ],
  "seen_titles": [
-  "[증시전망대]인플레우려식자美훈풍…코스피,5일째랠리이어갈까",
-  "해킹취약中企위한'구독형보안서비스'각광",
   "[마켓프리뷰]코스피나흘연속상승…변동성벗어나정상화신호?",
   "EU배터리라벨·QR의무화눈앞…K배터리'협력사검증'시험대",
   "K배터리부활시작됐나…'디테일'뜯어보니",
@@ -6001,7 +5999,9 @@
   "AI수요회복기대감에…반도체추가상승전망[주간증시전망]",
   "글로벌AI공룡이줄서는‘언어데이터거상’플리토이정수[AI3강...",
   "독파모2차발표앞두고스타트업이대기업제쳐…\"벤치마크가다가아...",
-  "韓에'SMR러브콜'보낸빌게이츠…테라파워vsK-SMR경쟁력은"
+  "韓에'SMR러브콜'보낸빌게이츠…테라파워vsK-SMR경쟁력은",
+  "국가대표AI2차전선발눈앞…'글로벌벤치마크'가변수될까",
+  "삼전닉스,반년새현금곳간117조원↑…설비투자대비실탄확보"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-08-17T06:34:32.091902+09:00",
    "글로벌 언어 플리토 서는 거상 이정수 공룡이 데이터 AI 3강"
+  ],
+  [
+   "2026-08-17T06:50:59.610854+09:00",
+   "실탄 현금 확보 반년 117조원 대비 설비투자 삼전닉스 곳간"
   ]
  ],
- "last_run": "2026-08-17T06:41:07.750615+09:00",
+ "last_run": "2026-08-17T06:51:05.173472+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
