@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026081316163398920",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=120197",
-  "https://www.hankyung.com/article/2026081301011",
-  "https://www.ytn.co.kr/_ln/0102_202608131735161151",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477146",
-  "https://futurechosun.com/?p=157564",
-  "http://www.metroseoul.co.kr/article/20260813500568",
   "https://www.100ssd.co.kr/news/articleView.html?idxno=211927",
   "https://www.newsway.co.kr/news/view?ud=2026081315263628268",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=270412",
@@ -2999,16 +2992,16 @@
   "https://www.jasm.co.kr/news/articleView.html?idxno=308545",
   "https://www.eroun.net/news/articleView.html?idxno=87673",
   "https://magazine.hankyung.com/business/article/202608163777b",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43058"
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43058",
+  "https://www.g-enews.com/view.php?ud=202608160843331056fbbec65dfb_1",
+  "http://www.fnnews.com/news/202608160909291216",
+  "https://economist.co.kr/article/view/ecn202608160001",
+  "https://www.thepublic.kr/news/articleView.html?idxno=315097",
+  "https://www.segye.com/newsView/20260816504644?OutUrl=naver",
+  "https://www.youthdaily.co.kr/news/article.html?no=225205",
+  "https://www.mt.co.kr/industry/2026/08/16/2026081416184426163"
  ],
  "seen_titles": [
-  "SKchemicalspostsrecordquarterlysalesinQ2ongreenchemicals,pha",
-  "애플공급망넘보는중국CXMTD램…YMTC낸드는세계3위로",
-  "삼성·SK,현지생산거점확대에도미국은'추가투자압박'",
-  "5조쏟아붓는AI데이터센터…KT의KT클라우드재합병,실익이냐비용이...",
-  "아이에스티이,2분기매출169억…분기사상최대",
-  "MSCI,AI반도체담고바이오·콘텐츠뺐다",
-  "'보안특화AI'개발에LG참전…SKT·네이버도참여검토",
   "레버리지대책후36%↓…'공포지수'3개월래최저",
   "SK케미칼,2Q매출4791억원...\"본업견조·자회사적자축소\"",
   "제네시스GV90에삼성배터리단다",
@@ -6001,7 +5994,14 @@
   "인천'테라스붕괴'아파트찾은박찬대시장\"시공·감리에책임묻겠...",
   "개인10조손실…단일종목레버리지ETF,무엇이문제였나",
   "[속보]“삼전보다많았다”4대은행평균급여‘역대최대’",
-  "최태원,9440억원지급검토했으나결국재상고…'주가하락분까지보..."
+  "최태원,9440억원지급검토했으나결국재상고…'주가하락분까지보...",
+  "美데이터센터,전력소비12%육박…AI서버수주폭증",
+  "\"안팔길잘했다\"…삼전·닉스,'300조'역대급주주환원기대도",
+  "글로벌수익률1위코스닥…‘삼전·닉스’급반등에수급쏠림재현되...",
+  "끝난줄알았던'세기의이혼'다시대법원으로…최태원회장재상고",
+  "코스닥이제끝?…증권가“코스닥비중축소하고반도체·대형주사라...",
+  "성과급에퇴직금까지‘억대’...은행권임금상승폭13년만에최대",
+  "AI서버1대메모리만'36억'…삼전닉스가웃는이유[이슈속으로]"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,21 @@
   [
    "2026-08-16T09:31:12.281002+09:00",
    "9440억원 지급 하락분까지 재상고 최태원 결국 검토했으나 주가"
+  ],
+  [
+   "2026-08-16T09:41:06.483435+09:00",
+   "축소하고 이제 반도체 사라 증권가 코스닥 대형주 비중"
+  ],
+  [
+   "2026-08-16T09:41:06.483435+09:00",
+   "만에 은행권 퇴직금까지 13년 임금 상승폭 억대 성과급에"
+  ],
+  [
+   "2026-08-16T09:41:06.483435+09:00",
+   "1대 삼전닉스가 AI서버 36억 이유 메모리만 웃는"
   ]
  ],
- "last_run": "2026-08-16T09:31:19.188382+09:00",
+ "last_run": "2026-08-16T09:41:18.086811+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
