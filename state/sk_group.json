@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202608140453i",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000003049&cp=nv",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000003048&cp=nv",
-  "https://www.chosun.com/economy/tech_it/2026/08/14/4SU4RLAN5FBCDFCPZWFJBKSBLI/",
   "https://www.donga.com/news/Economy/article/all/20260813/134475008/2",
   "https://www.donga.com/news/Economy/article/all/20260813/134475040/2",
   "https://www.donga.com/news/Economy/article/all/20260813/134475023/2",
@@ -2999,13 +2995,13 @@
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96460",
   "http://www.lak.co.kr/news/boardview.php?id=23710",
   "http://www.fnnews.com/news/202608161836586750",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000003472&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000003472&cp=nv",
+  "https://www.pennmike.com/news/articleView.html?idxno=125785",
+  "https://www.tokenpost.kr/news/market/391654",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5740",
+  "http://www.fnnews.com/news/202608161854014558"
  ],
  "seen_titles": [
-  "美,물가안정세에훈풍탄증시…고유가악재뚫고랠리계속",
-  "'K동박시대'다시왔다…북미탈중국화·ESS시장확대호재",
-  "UBP,\"AI로돈버는빅테크…주가흔들려도'월세'받는투자법제안\"",
-  "코스피강세장복귀했지만…\"이번엔천천히오른다\"",
   "SK케미칼,2분기영업이익319억원기록",
   "해저묻고우주로쏘고…AI도약,물·전력절감기술에달렸다",
   "'삼전닉스'이틀새12%뛰었는데美마이크론또6%↑…오늘'7000피'첫...",
@@ -6001,7 +5997,11 @@
   "[k1.live]'K리그최고신예'성예건-김예건맞대결성사…부천은'신입...",
   "이천시,‘첨단산업·자연공존’2040경관계획만든다",
   "'남산곤돌라'취소소송,20일항소심결과나온다",
-  "‘현금+주식’거절에재상고…최회장이대법원行택한사정"
+  "‘현금+주식’거절에재상고…최회장이대법원行택한사정",
+  "반도체'빚투'다시고개...삼성전자·SK하이닉스신용잔고나란히급증",
+  "상위3종목74.84%,라운드힐메모리ETF집중",
+  "[증시프리즘]외국인이돌아왔다…코스피5일연속상승이끈'바이코리...",
+  "[강남視角]110만개창업보다중요한것"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-08-16T18:41:01.674935+09:00",
    "20일 결과 곤돌라 취소소송 남산 항소심 나온다"
+  ],
+  [
+   "2026-08-16T18:59:21.765606+09:00",
+   "110만개 창업보다 중요한"
   ]
  ],
- "last_run": "2026-08-16T18:51:03.758296+09:00",
+ "last_run": "2026-08-16T18:59:27.223077+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
