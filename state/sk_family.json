@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10827337",
-  "https://www.dkilbo.com/news/articleView.html?idxno=550154",
   "http://www.newsprime.co.kr/news/article.html?no=742306",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=273961",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93095",
@@ -2999,11 +2997,11 @@
   "https://www.ekn.kr/web/view.php?key=20260816029343284",
   "https://www.ytn.co.kr/_ln/0103_202608161911056105",
   "https://www.donga.com/news/Society/article/all/20260816/134485010/1",
-  "https://www.imaeil.com/page/view/2026081614271978789"
+  "https://www.imaeil.com/page/view/2026081614271978789",
+  "http://www.inews24.com/view/1995464",
+  "https://www.ajunews.com/view/20260816194000915"
  ],
  "seen_titles": [
-  "BTS보이콧에해명한그래미...세계적팝스타들은이렇게대응했다",
-  "[패트롤]횡성군의회-횡성군-횡성숲체원-홍천군-정선군",
   "美훈풍,코스피17.9%'대폭등'...역대최대",
   "\"적자나면임금조정하겠다고?\"…SK하닉노조'발끈'",
   "\"하루만에12억벌었다\"...SK하이닉스49억쾌척한최태원의'대박'",
@@ -6001,7 +5999,9 @@
   "‘현금vs주식’SK최태원재상고쟁점,9440억‘지급방식’",
   "최태원\"일부는주식\"·노소영\"현금만\"...9,440억지급이견에재상고",
   "“분할방식에이견”…최태원,9440억원지급놓고재상고",
-  "'세기의재산분할소송'최태원\"9천440억원중일부주식\"…노소영\"현..."
+  "'세기의재산분할소송'최태원\"9천440억원중일부주식\"…노소영\"현...",
+  "최태원\"9440억원재산분할일부주식으로\"⋯노소영\"전액현금만\"",
+  "'롯데家'신격호와사실혼…\"38살연하\"서미경은왜연예계를떠났나"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-08-16T19:40:13.775262+09:00",
    "세기의 일부 소송 재산분할 주식 9천440억원"
+  ],
+  [
+   "2026-08-16T20:10:14.662304+09:00",
+   "서미경은 신격호와 38살 연하 사실혼 연예계를 롯데 떠났나"
   ]
  ],
- "last_run": "2026-08-16T20:00:38.184826+09:00",
+ "last_run": "2026-08-16T20:10:25.893392+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
