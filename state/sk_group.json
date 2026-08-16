@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/13/20260813500287?wlog_tag3=naver",
-  "https://www.thelec.kr/news/articleView.html?idxno=60892",
-  "https://www.sedaily.com/article/20079249",
-  "https://view.asiae.co.kr/article/2026081319065833903",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=78380",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=78393",
   "http://www.4th.kr/news/articleView.html?idxno=2116350",
   "https://www.donga.com/news/Economy/article/all/20260813/134475343/1",
   "https://www.tokenpost.kr/news/cryptocurrency/390083",
@@ -2999,15 +2993,15 @@
   "https://www.hankookilbo.com/news/article/A2026081611090000415?did=NA",
   "https://www.newsis.com/view/NISX20260815_0003750383",
   "https://www.koreajoongangdaily.com/korea/sk-chiefs-divorce-settlement-appeal-may-be-less-about-winning-more-about-buying-time/12826733",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423116"
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423116",
+  "http://www.lawissue.co.kr/view.php?ud=202608161426572978f4ab64559d_12",
+  "https://www.dailian.co.kr/news/view/1678959/?sc=Naver",
+  "https://biz.sbs.co.kr/article_hub/20000329020?division=NAVER",
+  "https://jp.yna.co.kr/view/AJP20260816000700882?input=1728m",
+  "https://www.tokenpost.kr/news/market/391600",
+  "https://www.busan.com/view/busan/view.php?code=2026081614201052026"
  ],
  "seen_titles": [
-  "SK케미칼,2분기매출4791억원…\"분기기준역대최대\"",
-  "증시4거래일연속상승…시총6천조회복",
-  "SK하이닉스통합노조공식출범…‘성과급현금지급’사수",
-  "윤풍영SK수펙스사장,SK하이닉스글로벌성장TF장임명",
-  "윤풍영SK사장,하이닉스‘글로벌성장’이끈다",
-  "반도체강세에코스피나흘연속상승…6,800선회복",
   "SK하이닉스통합노조공식출범…설립인가완료",
   "SK쉴더스보안서비스고객,본인동의없이보험가입통지받고'황당'",
   "최태원·노소영9,440억분할확정?…내일결론",
@@ -6001,17 +5995,15 @@
   "반도체주열풍에국민주'삼전닉스'소액주주1100만넘었다",
   "AI돌릴수록돈된다…통신사가AIDC에꽂힌이유[통신AI베팅②]",
   "SKchief'sdivorcesettlementappealmaybelessaboutwinning,moreab",
-  "[WeeklyCoin]또반도체에뺏기나···비트코인,물가둔화에도'하락'"
+  "[WeeklyCoin]또반도체에뺏기나···비트코인,물가둔화에도'하락'",
+  "SK이노베이션·테라파워,나트륨SMR사업협력합의서체결",
+  "1조현금마련에강제집행우려까지…최태원,재상고택한배경은",
+  "최태원재상고배경은?…9천440억'지급방식'때문에",
+  "韓国SK会長の再上告元妻が全額現金要求したため？＝1千億円の離婚訴訟",
+  "76.51%손실,반도체레버리지ETF회복부담커졌다",
+  "코스닥,세계1위질주에도…삼전닉스부활에수급우려"
  ],
  "recent_sigs": [
-  [
-   "2026-08-16T08:31:12.284191+09:00",
-   "크레디트 수요는 미진 안정 채권 스프레드"
-  ],
-  [
-   "2026-08-16T08:31:12.284191+09:00",
-   "개방형 영토 긴장 무역확장법에 지멘스 확장 생태계 인공지능 EDA"
-  ],
   [
    "2026-08-16T08:34:33.520500+09:00",
    "오를까 LG엔솔 19조원 코스피 급증 한미반도체 공매도 떨어질까"
@@ -6339,9 +6331,21 @@
   [
    "2026-08-16T14:21:06.548800+09:00",
    "반도체에 비트코인 둔화에도 물가 뺏기나 하락"
+  ],
+  [
+   "2026-08-16T14:31:13.792235+09:00",
+   ""
+  ],
+  [
+   "2026-08-16T14:31:13.792235+09:00",
+   "회복 ETF 커졌다 레버리지 부담 반도체 손실"
+  ],
+  [
+   "2026-08-16T14:31:13.792235+09:00",
+   "1위 질주에도 코스닥 세계 삼전닉스 수급 부활에 우려"
   ]
  ],
- "last_run": "2026-08-16T14:21:15.199114+09:00",
+ "last_run": "2026-08-16T14:31:24.788470+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
