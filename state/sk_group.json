@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbmaeil.com/article/20260813500667",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05966326645546992",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310260&inflow=N",
-  "http://www.beyondpost.co.kr/view.php?ud=202608131746171675be44c0aacd_30",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271748",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1395816",
-  "https://news.skbroadband.com/news/articleView.html?idxno=235004",
-  "https://www.dongponews.net/news/articleView.html?idxno=59847",
   "http://www.econotelling.com/news/articleView.html?idxno=21109",
   "https://www.hani.co.kr/arti/society/obituary/1272811.html",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=274781",
@@ -2999,17 +2991,17 @@
   "http://www.newskr.kr/news/articleView.html?idxno=105651",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361831",
   "https://www.joongang.co.kr/article/25453668",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260815131724TY6"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260815131724TY6",
+  "https://www.mk.co.kr/article/12128889",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000057134",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260816.99099004194",
+  "https://www.hani.co.kr/arti/economy/finance/1273089.html",
+  "https://economist.co.kr/article/view/ecn202608160004",
+  "https://www.jejumaeil.net/news/articleView.html?idxno=403708",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01328406645547976",
+  "https://kidd.co.kr/news/247042"
  ],
  "seen_titles": [
-  "日기업들,사상최대‘204조배당’푼다…한국은?",
-  "한국반도체주숨통트이나···미국물가상승률둔화,연준금리동...",
-  "[CEO워치]정상호롯데카드대표,고객기반회복‘청신호’…‘영업통...",
-  "[오늘의부고:8월13일]안병선(인천일보경기본사편집국장)씨모친상...",
-  "삼전·닉스동반강세에코스피오름세출발…코스닥은하락",
-  "중국YMTC낸드대약진",
-  "SK케미칼,2분기별도매출4790억…분기최대",
-  "SK케미칼,2분기영업익319억원…전년대비26.8%증가",
   "SK케미칼,2분기영업익319억⋯전년동기比26.8%↑",
   "SK케미칼,2분기영업익323억원으로흑자전환",
   "반도체쌍끌이에시총6000조회복…코스피6800돌파",
@@ -6001,7 +5993,15 @@
   "전남광주특별시의회\"SK동부권100조투자환영\"",
   "은행직원들평균연봉1.4억삼성전자보다더많이받는다",
   "반도체주반등에다시불붙은‘빚투’…삼전닉스신용잔고급증",
-  "[기업기상도]새롭게해뜬기업vs기습폭우휩쓸린기업"
+  "[기업기상도]새롭게해뜬기업vs기습폭우휩쓸린기업",
+  "은행원상반기에받아간평균급여7150만원…삼성전자보다많았다",
+  "삼전·닉스주주환원'300조시대'열리나…반도체초호황에기대감",
+  "최태원‘9440억재상고’득일까…SK㈜주가최대변수",
+  "4대은행상반기급여7150만원,지주는1억대…삼전보다많아",
+  "SK주가1만원에1300억널뛰기…최태원'9440억불복'속사정",
+  "제주SK,성남주장박수빈영입'중원강화'",
+  "[크레딧시그널]금리꺾였지만스프레드는‘쑥’…회사채투자심리꽁...",
+  "전기요금지역별차등제,AI데이터센터전용요금제로이어지나"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,21 @@
   [
    "2026-08-16T11:11:03.210322+09:00",
    "새롭게 기업 휩쓸린 vs 기습폭우"
+  ],
+  [
+   "2026-08-16T11:21:03.419516+09:00",
+   "강화 주장 성남 중원 박수빈 영입 제주SK"
+  ],
+  [
+   "2026-08-16T11:21:03.419516+09:00",
+   "투자심리 꺾였지만 회사채 금리 스프레드는"
+  ],
+  [
+   "2026-08-16T11:21:03.419516+09:00",
+   "차등제 전용 요금제로 전기요금 지역별 이어지나 AI데이터센터"
   ]
  ],
- "last_run": "2026-08-16T11:11:09.743464+09:00",
+ "last_run": "2026-08-16T11:21:16.895612+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7016,6 +7028,7 @@
   "gametoc.co.kr": "게임톡",
   "btnnews.tv": "BTN불교TV",
   "whosaeng.com": "후생신보",
-  "jasm.co.kr": "중앙신문"
+  "jasm.co.kr": "중앙신문",
+  "kidd.co.kr": "산업일보"
  }
 }
