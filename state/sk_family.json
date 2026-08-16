@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255641&CMPT_CD=P0010",
   "https://www.ekn.kr/web/view.php?key=20260731020198258",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=169136",
   "http://www.fnnews.com/news/202607311317289089",
@@ -2999,10 +2998,10 @@
   "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260816507&PRO_CODE=99",
   "https://www.kukinews.com/article/view/kuk202608160020",
   "https://www.joongang.co.kr/article/25453730",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83286"
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83286",
+  "https://www.dailian.co.kr/news/view/1678980/?sc=Naver"
  ],
  "seen_titles": [
-  "빅테크훈풍에코스피·코스닥동반급등…역대최대상승폭",
   "[속보]7월34%빠진코스피,단하루만에'대반전'…시총2위상한가찍...",
   "최태원도주주됐다…순현금108조SK하이닉스,'통큰환원'나설까",
   "최태원회장,SK하이닉스매수하루만에13억원벌었다",
@@ -6001,7 +6000,8 @@
   "'세기의이혼'최태원,재상고배경엔'9440억지급방식'에의견차",
   "최태원9440억‘일부주식지급’,노소영‘전액현금’…결국재상고",
   "재상고하는최태원…‘연472억’이자막고SK주가띄운다",
-  "[이승욱의포인트]강제집행부담에'기여도'논쟁까지…최태원,고심..."
+  "[이승욱의포인트]강제집행부담에'기여도'논쟁까지…최태원,고심...",
+  "[데일리안오늘뉴스종합]北,李대통령광복절경축사에무반응…공식..."
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-08-16T17:50:13.161513+09:00",
    "기여도 고심 부담에 논쟁까지 강제집행"
+  ],
+  [
+   "2026-08-16T18:02:41.315384+09:00",
+   "무반응 대통령 경축사에 광복절"
   ]
  ],
- "last_run": "2026-08-16T18:00:38.830381+09:00",
+ "last_run": "2026-08-16T18:02:54.558447+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
