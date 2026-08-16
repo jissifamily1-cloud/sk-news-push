@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265208",
-  "http://www.newswatch.kr/news/articleView.html?idxno=80596",
-  "https://www.dt.co.kr/article/12075858",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310255&t=NN",
   "http://www.dailypop.kr/news/articleView.html?idxno=101118",
   "http://www.fnnews.com/news/202607311009143221",
   "https://www.seoul.co.kr/news/economy/2026/07/31/20260731500169?wlog_tag3=naver",
@@ -2999,13 +2995,13 @@
   "https://www.segye.com/newsView/20260816504518?OutUrl=naver",
   "https://www.joongang.co.kr/article/25453658",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43058",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315097"
+  "https://www.thepublic.kr/news/articleView.html?idxno=315097",
+  "https://magazine.hankyung.com/business/article/202608163770b",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051700",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88010",
+  "https://www.news1.kr/industry/general-industry/6260470"
  ],
  "seen_titles": [
-  "김선태,논란끝에‘돈선태’하차…“리센느대표·멤버에직접사과...",
-  "김선태,리센느‘무섭노’논란사과후‘돈선태’자진하차..“능력...",
-  "살수있는최대치샀다…신뢰회복직접나선최태원",
-  "블룸버그,코스피장중17%급등집중조명…\"AI투자낙관론회복\"",
   "\"책임경영\"최태원,SK하닉주식매수하루만에시세차익'12억'",
   "주주의시간…삼성전자·SK하이닉스,역대급환원정책주목",
   "최태원회장,SK하이닉스'책임경영'하루만에11억원대평가이익",
@@ -6001,7 +5997,11 @@
   "“안팔길잘했네”…‘삼전닉스’주주환원,연간300조가능할까?[수...",
   "‘300조’돈벼락주주에내리나…삼전닉스주가가를핵심변수는",
   "최태원,9440억원지급검토했으나결국재상고…'주가하락분까지보...",
-  "끝난줄알았던'세기의이혼'다시대법원으로…최태원회장재상고"
+  "끝난줄알았던'세기의이혼'다시대법원으로…최태원회장재상고",
+  "SK㈜주가1만원에재산1300억'출렁'…최태원,9440억재상고셈법",
+  "최태원'9440억재상고'득실,SK주가에달렸다",
+  "최태원재상고승부수…9440억재산분할부담,득실가를열쇠는법원...",
+  "최태원회장재상고경제적득실은…9440억보다SK주가가변수"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,17 @@
   [
    "2026-08-16T09:30:21.059767+09:00",
    "9440억원 하락분까지 지급 결국 검토했으나 주가 재상고"
+  ],
+  [
+   "2026-08-16T10:10:14.047813+09:00",
+   "재상고 득실 부담 법원 9440억 승부수 가를 열쇠는 재산분할"
+  ],
+  [
+   "2026-08-16T10:10:14.047813+09:00",
+   "주가가 재상고 변수 회장 경제적 9440억보다 득실은"
   ]
  ],
- "last_run": "2026-08-16T10:00:39.575248+09:00",
+ "last_run": "2026-08-16T10:10:34.091967+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6346,6 +6354,7 @@
   "tvdaily.co.kr": "tvdaily.co.kr",
   "pressian.com": "pressian.com",
   "inews365.com": "충북일보",
-  "futurechosun.com": "더나은미래"
+  "futurechosun.com": "더나은미래",
+  "worktoday.co.kr": "워크투데이"
  }
 }
