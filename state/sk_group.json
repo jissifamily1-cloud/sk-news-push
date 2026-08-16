@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=186544",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210001",
-  "https://www.ceoscoredaily.com/page/view/2026081314292035922",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=120199",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190921",
-  "https://www.newsway.co.kr/news/view?ud=2026081317422654755",
-  "https://www.ziksir.com/news/articleView.html?idxno=143144",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260813174216ecl",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=740103",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636359",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=47035",
   "https://www.mhns.co.kr/news/articleView.html?idxno=756411",
   "https://www.hani.co.kr/arti/economy/economy_general/1272809.html",
   "https://www.mt.co.kr/industry/2026/08/13/2026081317165522689",
@@ -2999,20 +2988,20 @@
   "https://magazine.hankyung.com/business/article/202608163770b",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051700",
   "https://www.news1.kr/industry/general-industry/6260470",
-  "https://www.mediapen.com/news/view/1116788"
+  "https://www.mediapen.com/news/view/1116788",
+  "https://www.goal.com/kr/뉴스/a/blt758dca051887e01b",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=309010",
+  "https://www.econovill.com/news/articleView.html?idxno=748121",
+  "https://www.g-enews.com/view.php?ud=202608161009395609fbbec65dfb_1",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=363845",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260816101018WBY",
+  "https://www.techm.kr/news/articleView.html?idxno=154361",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=598592",
+  "https://www.g-enews.com/view.php?ud=202608160937592437fbbec65dfb_1",
+  "https://biz.heraldcorp.com/article/10842009",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361785"
  ],
  "seen_titles": [
-  "[2Q실적]SK케미칼,영업이익319억원26.8%↑…분기기준최대매출",
-  "눌려왔다터진테크업계노동대투쟁...삼전닉스와네이버방향갈렸다",
-  "자본잠식네이버제트,AI스트리머로반전노리나",
-  "메모리슈퍼사이클,내년D램공급이변수[MTN리포트…메모리호황가...",
-  "[마감시황]반도체'투톱'폭발적강세…코스피,3.56%급등하며6,800선...",
-  "\"월드컵올인하느라PL거절\"김민재대박...빌라·노팅엄제안다뿌리...",
-  "SKT,‘A.XK2’구동문턱낮춘다…메모리43%절감",
-  "SK케미칼,2분기매출액4791억원돌파…9년여만에최대치",
-  "SK케미칼,2분기영업익319억원…전년比26.8%↑",
-  "연일상승장…국내증시시가총액6천조원회복",
-  "[마감시황]코스피,나흘연속상승6800선안착",
   "SK케미칼,2분기영업이익319억원…26.8%증가",
   "SK하이닉스,‘통합노조’출범초읽기…“4일만에2000명합류,단일...",
   "SK케미칼,2분기매출4791억원…전년동기대비24.8%증가",
@@ -6001,7 +5990,18 @@
   "SK㈜주가1만원에재산1300억'출렁'…최태원,9440억재상고셈법",
   "최태원'9440억재상고'득실,SK주가에달렸다",
   "최태원회장재상고경제적득실은…9440억보다SK주가가변수",
-  "규제철퇴맞은단일종목레버리지,거래대금반등에도'팔자'쏠림"
+  "규제철퇴맞은단일종목레버리지,거래대금반등에도'팔자'쏠림",
+  "[오피셜]코스타감독체제날아오르는제주,성남서'멀티플레이어'박...",
+  "삼성·SK하이닉스주주환원'300조설'…배당·자사주에얼마풀까",
+  "[IT큐레이션]오픈웨이트가AI패권경쟁의새전선이됐다",
+  "SK하이닉스,美웨이퍼공장검토…칩플레이션경고",
+  "[이슈]정유4사'14조원대호실적'…유통망다지고신사업키운다",
+  "반도체살아나자코스피도'활짝'…외국인6.5조귀환",
+  "정부는정책드라이브,민간은서비스로구현...'디지털보훈'진화중",
+  "코스닥독주에제동…외국인귀환에다시코스피로",
+  "삼성전자,반도체대중수출625억달러…미국제쳐",
+  "적자해운사의10년변천사…한앤코의‘3단계전략’들여다봤더니",
+  "반도체슈퍼사이클2030년까지간다"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,53 @@
   [
    "2026-08-16T10:01:16.439166+09:00",
    "코스피 눈앞인데 늘었다 커지는 급반등에 공매도도 경계감"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "멀티 플레이어 코스타 날아오르는 감독 제주 체제 성남서"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "풀까 배당 얼마 자사주에 삼성 SK하이닉스 주주환원 300조설"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "패권 됐다 경쟁의 AI 전선이 오픈웨이트가"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "공장 웨이퍼 경고 칩플레이션 검토 SK하이닉스"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "키운다 유통망 정유 4사 다지고 신사업 호실적 14조원대"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "살아나자 코스피도 활짝 5조 외국인 반도체 귀환"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "보훈 디지털 구현 정책 진화 정부는 민간은 서비스로 드라이브"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "코스닥 제동 귀환에 독주에 코스피로 다시 외국인"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "수출 미국 삼성전자 대중 625억달러 제쳐 반도체"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "10년 해운사의 변천사 전략 들여다봤더니 적자 한앤코의 3단계"
+  ],
+  [
+   "2026-08-16T10:21:08.943269+09:00",
+   "반도체 2030년까지 간다 슈퍼사이클"
   ]
  ],
- "last_run": "2026-08-16T10:11:35.375625+09:00",
+ "last_run": "2026-08-16T10:21:40.861201+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
