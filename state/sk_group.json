@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026081315263628268",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=270412",
   "https://www.hankookilbo.com/news/article/A2026081314210002417?did=NA",
   "https://www.bloter.net/news/articleView.html?idxno=670908",
   "https://news.mtn.co.kr/news-detail/2026081316162717493",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260816504644?OutUrl=naver",
   "https://www.youthdaily.co.kr/news/article.html?no=225205",
   "https://www.mt.co.kr/industry/2026/08/16/2026081416184426163",
-  "http://www.footballist.co.kr/news/articleView.html?idxno=213630"
+  "http://www.footballist.co.kr/news/articleView.html?idxno=213630",
+  "https://sports.donga.com/ent/article/all/20260816/134483907/1",
+  "https://kpenews.com/View.aspx?No=4188058"
  ],
  "seen_titles": [
-  "SK케미칼,2Q매출4791억원...\"본업견조·자회사적자축소\"",
-  "제네시스GV90에삼성배터리단다",
   "YMTC낸드3위로...中레드테크대공습[MTN리포트…메모리호황가를변...",
   "코스피3.56%급등,6,800선회복...삼전·닉스5∼6%대상승",
   "美인플레둔화에AI투자심리회복…코스피'훈풍'",
@@ -6001,7 +5999,9 @@
   "코스닥이제끝?…증권가“코스닥비중축소하고반도체·대형주사라...",
   "성과급에퇴직금까지‘억대’...은행권임금상승폭13년만에최대",
   "AI서버1대메모리만'36억'…삼전닉스가웃는이유[이슈속으로]",
-  "리그홈승리간절한파주,'좋은기억'성남상대로갈증해소할까"
+  "리그홈승리간절한파주,'좋은기억'성남상대로갈증해소할까",
+  "42세미자,주식1억손실후물밥먹자…父장광“12만원돌려줄게”",
+  "코스피7000눈앞인데공매도도늘었다..급반등에커지는경계감"
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,13 @@
   [
    "2026-08-16T09:51:01.250717+09:00",
    "기억 간절한 성남 파주 리그 해소할까 승리 좋은 상대로 갈증"
+  ],
+  [
+   "2026-08-16T10:01:16.439166+09:00",
+   "코스피 눈앞인데 늘었다 커지는 급반등에 공매도도 경계감"
   ]
  ],
- "last_run": "2026-08-16T09:51:07.999269+09:00",
+ "last_run": "2026-08-16T10:01:22.132309+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
