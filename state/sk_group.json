@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econotelling.com/news/articleView.html?idxno=21109",
-  "https://www.hani.co.kr/arti/society/obituary/1272811.html",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274781",
-  "https://www.mk.co.kr/article/12126838",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238721",
-  "https://www.mk.co.kr/article/12126898",
-  "http://www.4th.kr/news/articleView.html?idxno=2116338",
-  "https://www.sentv.co.kr/article/view/sentv202608130106",
   "https://www.sedaily.com/article/20079186",
   "https://www.hankyung.com/article/2026081302151",
   "https://news.skbroadband.com/news/articleView.html?idxno=235000",
@@ -2999,17 +2991,17 @@
   "https://economist.co.kr/article/view/ecn202608160004",
   "https://www.jejumaeil.net/news/articleView.html?idxno=403708",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01328406645547976",
-  "https://kidd.co.kr/news/247042"
+  "https://kidd.co.kr/news/247042",
+  "https://www.tvreport.co.kr/breaking/article/1069040/",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290332",
+  "http://www.newskr.kr/news/articleView.html?idxno=105653",
+  "http://www.srtimes.kr/news/articleView.html?idxno=210141",
+  "https://www.businessplus.kr/news/articleView.html?idxno=115531",
+  "https://www.mk.co.kr/article/12128891",
+  "https://www.nocutnews.co.kr/news/6563589",
+  "https://www.news2day.co.kr/article/20260816500039"
  ],
  "seen_titles": [
-  "SK케미칼,2분기영업익319억⋯전년동기比26.8%↑",
-  "SK케미칼,2분기영업익323억원으로흑자전환",
-  "반도체쌍끌이에시총6000조회복…코스피6800돌파",
-  "SK케미칼,2분기매출액319억원…매출'분기최대'4791억원",
-  "독파모,글로벌평가서'이변'…모티프·업스테이지1·2위",
-  "코스피,외인·기관매수에3%대급등6800선회복…나흘연속상승마감",
-  "\"2조벌고도목표주가꺾인미래에셋증권…스페이스X,'대박'인가'독약...",
-  "[건설업계브리핑]대우건설·IPARK현산·SK에코플랜트外",
   "25일만에재개장한홈플러스…시민발길이어져",
   "\"삼전닉스직원이면의사이상환대\"…외신이주목한한국결혼시장변...",
   "외국인의'투자행보'재조명",
@@ -6001,7 +5993,15 @@
   "SK주가1만원에1300억널뛰기…최태원'9440억불복'속사정",
   "제주SK,성남주장박수빈영입'중원강화'",
   "[크레딧시그널]금리꺾였지만스프레드는‘쑥’…회사채투자심리꽁...",
-  "전기요금지역별차등제,AI데이터센터전용요금제로이어지나"
+  "전기요금지역별차등제,AI데이터센터전용요금제로이어지나",
+  "미자,주식1억손실후물에만밥먹자...父장광의위로\"12만원줄게...",
+  "9440억운명의날…최태원재산분할과SK주가잔혹사",
+  "최태원,9440억판결에재상고…마감1분전",
+  "전남광주통합특별시의회,SK100조원투자계획에지원체계가동예고",
+  "[잘먹잘살+]SSG닷컴·세븐일레븐·쿠팡·이랜드뉴발란스",
+  "삼전닉스서빠진돈어디로?…활짝웃은‘바이오·뷰티’",
+  "'헐크영입효과인가'휴온스,파죽의4연승2R1위질주…강동궁,2R3승...",
+  "[N2포커스]다시문두드리는‘7천피’…다음주안착시험대"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,29 @@
   [
    "2026-08-16T11:21:03.419516+09:00",
    "차등제 전용 요금제로 전기요금 지역별 이어지나 AI데이터센터"
+  ],
+  [
+   "2026-08-16T11:31:13.624917+09:00",
+   "투자계획에 가동 예고 전남광주통합특별시의회 100조원 지원체계"
+  ],
+  [
+   "2026-08-16T11:31:13.624917+09:00",
+   "세븐일레븐 SSG닷컴 쿠팡 이랜드 뉴발란스"
+  ],
+  [
+   "2026-08-16T11:31:13.624917+09:00",
+   "웃은 바이오 어디로 삼전닉스서 빠진 뷰티 활짝"
+  ],
+  [
+   "2026-08-16T11:31:13.624917+09:00",
+   "2R 3승 1위 휴온스 강동궁 질주 영입 파죽의 헐크 4연승 효과인가"
+  ],
+  [
+   "2026-08-16T11:31:13.624917+09:00",
+   "두드리는 7천피 시험대 다음주 다시 안착"
   ]
  ],
- "last_run": "2026-08-16T11:21:16.895612+09:00",
+ "last_run": "2026-08-16T11:31:30.372661+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
