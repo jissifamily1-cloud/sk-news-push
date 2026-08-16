@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2614408",
-  "https://basketkorea.com/news/newsview.php?ncode=1065595030657592",
-  "https://h21.hani.co.kr/arti/economy/economy_general/59714.html",
-  "https://bizhankook.com/articles/line-group-owner-dongyang-architects.html",
-  "https://www.hankookilbo.com/news/article/A2026081319200000878?did=NA",
-  "http://coinreaders.com/252655",
-  "https://www.dailian.co.kr/news/view/1678318/?sc=Naver",
-  "https://www.hankyung.com/article/2026081397506",
   "https://www.mk.co.kr/article/12127032",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87933",
   "https://www.khan.co.kr/article/202608132002005",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20260816_0003750987",
   "https://www.newdaily.co.kr/site/data/html/2026/08/16/2026081600033.html",
   "https://www.mk.co.kr/article/12128945",
-  "https://www.mk.co.kr/article/12128943"
+  "https://www.mk.co.kr/article/12128943",
+  "https://www.gokorea.kr/news/articleView.html?idxno=875235",
+  "https://www.ikbc.co.kr/article/view/kbc202608160023",
+  "https://www.ytn.co.kr/_ln/0103_202608161522544686",
+  "https://www.donga.com/news/Economy/article/all/20260816/134484982/1",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/16/2026081690058.html",
+  "https://www.hankyung.com/article/2026081640287",
+  "https://www.hankookilbo.com/news/article/A2026081609050000930?did=NA",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1329684"
  ],
  "seen_titles": [
-  "[증시오늘]코스피3.6%상승",
-  "[8월13일부고종합]안병선(인천일보경기본사편집국장)씨모친상외",
-  "이달개인은코스피상승,외국인은하락‘베팅’",
-  "[주식마감]반도체강세속원팩상한가...금호전기·이브이첨단소재...",
-  "[코인시황]물가안도에도비트코인6만3500달러로…\"서프라이즈없인...",
-  "[SK하이닉스노조]③중장기투자보다'현금성과급'고집…통합노조,...",
-  "'닥터둠'김영익\"9월또한번의반등이온다\"…하반기증시대전망[오...",
-  "SK케미칼,자회사실적개선으로2분기실적↑",
   "\"성과급현금원칙사수\"…SK하닉직군벽허문'통합노조'출범",
   "SK하이닉스통합노조출범…과반노조목표",
   "SK하이닉스통합노조공식출범…“1만8000명과반노조목표”",
@@ -6001,7 +5993,15 @@
   "최태원,막판재상고나선배경은…\"일부주식으로지급,노소영이거절...",
   "최태원,9440억원재산분할금'주식+현금'제안…노소영은\"전액현금...",
   "일학개미도다시반도체로…순매수상위권싹쓸이",
-  "“父한쪽몸마비돼도유공자도왔다”…홍지민,독립운동가후손이었..."
+  "“父한쪽몸마비돼도유공자도왔다”…홍지민,독립운동가후손이었...",
+  "외국인투자자대거매수세…코스피상승세이어갈까?",
+  "최태원·노소영재산분할방식이견…\"일부주식\"vs\"현금만\"",
+  "최태원재산분할재상고배경에'지급방식'입장차",
+  "4대은행직원급여,삼성전자보다더받는다…평균7150만원",
+  "4대은행상반기평균급여7150만원…삼성전자보다높아",
+  "삼성·SK하닉소비자들'폭발'…환불금놓고갈등터졌다",
+  "준공1년6개월만에테라스붕괴,송도아파트전면조사착수",
+  "이천시,'2040경관계획재정비용역'…미래청사진제시"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,21 @@
   [
    "2026-08-16T15:21:03.390732+09:00",
    "후손이었 한쪽 도왔다 마비돼도 독립운동가 홍지민 유공자"
+  ],
+  [
+   "2026-08-16T15:31:08.206447+09:00",
+   "터졌다 소비자들 SK하닉 삼성 놓고 갈등 폭발 환불금"
+  ],
+  [
+   "2026-08-16T15:31:08.206447+09:00",
+   "6개월 만에 전면 착수 1년 준공 붕괴 송도 아파트 조사 테라스"
+  ],
+  [
+   "2026-08-16T15:31:08.206447+09:00",
+   "경관계획 제시 용역 재정비 청사진 미래 이천시"
   ]
  ],
- "last_run": "2026-08-16T15:21:12.061501+09:00",
+ "last_run": "2026-08-16T15:31:19.425582+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
