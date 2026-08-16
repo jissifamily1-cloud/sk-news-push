@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://monthly.chosun.com/news/articleView.html?idxno=71030",
-  "https://www.mk.co.kr/article/12126825",
-  "https://www.hankyung.com/article/2026081300511",
-  "https://www.mk.co.kr/article/12126828",
-  "http://www.newsmaker.or.kr/news/articleView.html?idxno=180672",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444713",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4430050",
   "https://basketkorea.com/news/newsview.php?ncode=1065602024813193",
@@ -2999,14 +2994,14 @@
   "https://www.etnews.com/20260816000026",
   "https://www.chosun.com/economy/money/2026/08/16/CL2TQTS5QFDSTB3SDIOVIFYF6M/",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361829",
-  "https://www.g-enews.com/view.php?ud=202608161018376589fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202608161018376589fbbec65dfb_1",
+  "http://www.joseilbo.com/news/news_read.php?uid=573910&class=1",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005901831",
+  "https://www.munhwa.com/article/11609803",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575401603186",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608150008"
  ],
  "seen_titles": [
-  "공정위,정유4사전격조사…주유소에'자사제품만'팔게했나",
-  "SK케미칼,2분기별도매출4791억원…분기최대",
-  "공정위,정유4사현장조사…타사제품판매제한의혹",
-  "[마감시황]반도체날개단코스피3.56%급등...6,800선회복",
-  "코스피6,800선회복…나흘연속상승",
   "아시아증시,미국물가안도에상승…한국·일본반도체주강세",
   "SK에코플랜트,AI데이터센터'승부수'…전담사업단신설",
   "중국양쯔메모리,2분기낸드점유율세계3위올라서",
@@ -6001,7 +5996,12 @@
   "삼전닉스다음은어디?…시총과열맞춘이재만이찍은반도체소부장",
   "“올라도못믿겠다”...코스피반등에도주식팔아치우는개미들",
   "\"삼전닉스주주환원에300조푼다\"",
-  "샌디스크,HBF시제품설계완료…SK하이닉스와표준화주도"
+  "샌디스크,HBF시제품설계완료…SK하이닉스와표준화주도",
+  "\"삼전보다많이받는다?”…상반기7150만원찍은직장어디",
+  "삼성전자·SK하이닉스'빚투'다시증가세…신용잔고5조원육박",
+  "“올라봤자지”코스피하락배팅나선개미들",
+  "\"성과급·임금·정년까지\"…주요대기업노사협상'분수령',윈윈·산업...",
+  "[김종운의숲에서배우다]⑥자신만의'피톤치드'를발산하라"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-08-16T10:31:14.598738+09:00",
    "시제품 샌디스크 설계 주도 완료 SK하이닉스와 표준화 HBF"
+  ],
+  [
+   "2026-08-16T10:41:05.258602+09:00",
+   "주요 성과급 윈윈 분수령 산업 노사협상 임금 정년까지 대기업"
+  ],
+  [
+   "2026-08-16T10:41:05.258602+09:00",
+   "자신만의 피톤치드 발산하라"
   ]
  ],
- "last_run": "2026-08-16T10:31:20.432994+09:00",
+ "last_run": "2026-08-16T10:41:14.851296+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
