@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260813192125351",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390236.html",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=06478006645546992",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051315",
-  "https://www.bigtanews.co.kr/article/view/big202608130015",
-  "https://www.dt.co.kr/article/12078269",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260814.22012003506",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1175455",
-  "https://www.newspim.com/news/view/20260813001368",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=270422",
   "https://biz.sbs.co.kr/article_hub/20000328512?division=NAVER",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206539",
@@ -2999,18 +2990,18 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212798",
   "http://www.inews24.com/view/1995448",
   "https://kpenews.com/View.aspx?No=4188212",
-  "https://www.ekn.kr/web/view.php?key=20260816029033238"
+  "https://www.ekn.kr/web/view.php?key=20260816029033238",
+  "https://www.mediapen.com/news/view/1116814",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000057162",
+  "https://www.apnews.kr/news/articleView.html?idxno=3050500",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720583",
+  "https://www.slist.kr/news/articleView.html?idxno=759126",
+  "https://www.newsis.com/view/NISX20260814_0003750210",
+  "https://www.tokenpost.kr/news/market/391610",
+  "https://www.yna.co.kr/view/AKR20260816026300011?input=1195m",
+  "https://en.yna.co.kr/view/AEN20260816001800320?input=2106m"
  ],
  "seen_titles": [
-  "SK하이닉스‘통합노조’출범…성과급·임단협에목소리낸다",
-  "코스피,반도체강세에6800선회복",
-  "하이닉스글로벌성장TF장에윤풍영SK수펙스사장임명",
-  "SK하이닉스새노조출범…생산·사무직묶어과반노조추진",
-  "[기획]스마트도시로도약하는김천시",
-  "SK하이닉스통합노조공식출범…'성과급현금지급'원칙고수",
-  "SK하이닉스통합노조공식출범",
-  "한전,반도체메가프로젝트전력망구축속도…한화에어로와에너지효...",
-  "SK하이닉스,생산·사무직아우르는통합노조공식출범",
   "SK하이닉스통합노조출범…TF“노조활동본격진행”",
   "SK하이닉스통합노조공식출범…\"생산·기술사무직2400명모여\"",
   "'삼전닉스레버리지'보완책도입직후변동성지수50선으로'뚝'",
@@ -6001,7 +5992,16 @@
   "'삼전닉스'레버리지거래대금다시늘었다…이유는?",
   "\"삼전보다더받았다\"…4대은행원상반기급여7150만원",
   "외국인은사고개인은팔았다..코스피반등이끈‘반도체투톱’",
-  "[재계와친일논란上]재벌은정말‘적산’에서태어났나…대기업의..."
+  "[재계와친일논란上]재벌은정말‘적산’에서태어났나…대기업의...",
+  "최태원,재산분할일부주식제안…노소영,현금만고수",
+  "4대은행상반기평균급여7150만원…13년만에최고상승률",
+  "\"9440억현금?주주피해는어쩌나\"…최태원이재상고택한이유",
+  "최태원,9440억원재산분할금'주식지급'제안…노소영측\"전액현금\"",
+  "4대은행상반기평균급여7150만원…삼전보다많아",
+  "AIDC판키우는통신3사…통신이을수익원으로키운다[통신AI베팅③]",
+  "장신커지4.52%,미메모리ETF비중확대",
+  "[연합뉴스이시각헤드라인]-15:00",
+  "Stockloansonrollamidmarketrebound"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,21 @@
   [
    "2026-08-16T15:01:11.598260+09:00",
    "재벌은 태어났나 적산 에서 정말 대기업의"
+  ],
+  [
+   "2026-08-16T15:11:05.437947+09:00",
+   "ETF 장신커지 메모리 확대 비중"
+  ],
+  [
+   "2026-08-16T15:11:05.437947+09:00",
+   ""
+  ],
+  [
+   "2026-08-16T15:11:05.437947+09:00",
+   "rebound on loans market amid Stock roll"
   ]
  ],
- "last_run": "2026-08-16T15:01:20.479382+09:00",
+ "last_run": "2026-08-16T15:11:16.501121+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
