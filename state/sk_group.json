@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026081313185865411",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271735",
-  "https://www.thelec.kr/news/articleView.html?idxno=60916",
-  "https://www.hankyung.com/article/2026081301041",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240996",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130610&t=NN",
   "http://www.metroseoul.co.kr/article/20260813500576",
   "https://www.sedaily.com/article/20079152",
@@ -2999,14 +2994,14 @@
   "https://www.ddaily.co.kr/page/view/2026081601580548816",
   "https://www.newsis.com/view/NISX20260815_0003750520",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=308975",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7179032"
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7179032",
+  "https://www.mydaily.co.kr/page/view/2026081608582131297",
+  "https://www.sentv.co.kr/article/view/sentv202608160006",
+  "https://biz.heraldcorp.com/article/10842573",
+  "https://www.g-enews.com/view.php?ud=2026081609094248280c8c1c064d_1",
+  "https://www.jasm.co.kr/news/articleView.html?idxno=308545"
  ],
  "seen_titles": [
-  "[EZ시선]'방산'흔들렸는데'조선'날았다…한화오션,태국서설욕하...",
-  "2분기실적희비갈린이통3사…AIDC는승승장구",
-  "‘모두의AI’마감코앞인데…대부분컨소시엄도못꾸려",
-  "\"연우살리고MNC잡았다…내년럭셔리프로젝트본격화하는한국콜마\"",
-  "AI글래스시험부정·몰카범죄잇따르자포렌식업계대응나서",
   "MSCI올라탄LG이노텍…최대4390억원자금유입전망[투자360]",
   "코스피급등한날,공매도2조3864억원으로급증...KT거래비중41%최고",
   "[헬로스톡]8/13주목할종목:한화손해보험·한국전력·클래시스·SK오...",
@@ -6001,7 +5996,12 @@
   "새판짜기돌입한삼성SDI…불붙는韓ESS3차입찰[위클리배터리]",
   "광주반도체팹건설특수…레미콘공급'골재'가최대변수[초점]",
   "광복절에다시본'필승코리아펀드'…7년간수익률612.01%",
-  "[K증시돋보기]코스닥1000P회복시동…관건은9월승강제"
+  "[K증시돋보기]코스닥1000P회복시동…관건은9월승강제",
+  "제주의역대급상승세!후반기7G무패+2연승질주,안양2-0제압하고4...",
+  "증시급반등에…코스피공매도잔고14%증가",
+  "은행원상반기평균급여7150만원,삼전보다많아…가계대출묶어도이...",
+  "\"빌게이츠원전,현대건설이짓는다\"…테라파워'나트륨'4세대SMR최...",
+  "인천'테라스붕괴'아파트찾은박찬대시장\"시공·감리에책임묻겠..."
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,21 @@
   [
    "2026-08-16T09:11:07.070400+09:00",
    "1000P 9월 코스닥 승강제 시동 관건은 회복"
+  ],
+  [
+   "2026-08-16T09:21:02.031931+09:00",
+   "상반기 평균급여 은행원 많아 묶어도 7150만원 가계대출 삼전보다"
+  ],
+  [
+   "2026-08-16T09:21:02.031931+09:00",
+   "4세대 게이츠 원전 SMR 테라파워 짓는다 나트륨 현대건설이"
+  ],
+  [
+   "2026-08-16T09:21:02.031931+09:00",
+   "묻겠 시공 감리에 붕괴 찾은 아파트 시장 박찬대 책임 인천 테라스"
   ]
  ],
- "last_run": "2026-08-16T09:11:41.037216+09:00",
+ "last_run": "2026-08-16T09:21:14.492850+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -6903,6 +6915,7 @@
   "mjmedi.com": "민족의학신문",
   "gametoc.co.kr": "게임톡",
   "btnnews.tv": "BTN불교TV",
-  "whosaeng.com": "후생신보"
+  "whosaeng.com": "후생신보",
+  "jasm.co.kr": "중앙신문"
  }
 }
