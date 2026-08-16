@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026081314210002417?did=NA",
-  "https://www.bloter.net/news/articleView.html?idxno=670908",
-  "https://news.mtn.co.kr/news-detail/2026081316162717493",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274780",
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96304",
-  "https://zdnet.co.kr/view/?no=20260813173231",
-  "https://www.kgnews.co.kr/news/article.html?no=907743",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7178951",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005900609",
   "http://www.kdfnews.com/news/articleView.html?idxno=186544",
   "http://www.srtimes.kr/news/articleView.html?idxno=210001",
   "https://www.ceoscoredaily.com/page/view/2026081314292035922",
@@ -2999,18 +2990,18 @@
   "https://www.mt.co.kr/industry/2026/08/16/2026081416184426163",
   "http://www.footballist.co.kr/news/articleView.html?idxno=213630",
   "https://sports.donga.com/ent/article/all/20260816/134483907/1",
-  "https://kpenews.com/View.aspx?No=4188058"
+  "https://kpenews.com/View.aspx?No=4188058",
+  "http://www.osen.co.kr/article/G1112857161",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720570",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88010",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=598589",
+  "https://economist.co.kr/article/view/ecn202608160002",
+  "https://magazine.hankyung.com/business/article/202608163770b",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051700",
+  "https://www.news1.kr/industry/general-industry/6260470",
+  "https://www.mediapen.com/news/view/1116788"
  ],
  "seen_titles": [
-  "YMTC낸드3위로...中레드테크대공습[MTN리포트…메모리호황가를변...",
-  "코스피3.56%급등,6,800선회복...삼전·닉스5∼6%대상승",
-  "美인플레둔화에AI투자심리회복…코스피'훈풍'",
-  "코스피·코스닥나흘째동반상승...외인·기관매수세",
-  "삼성전자,2분기글로벌낸드시장출하량'1등'…하이닉스는2위",
-  "코스피,반도체주강세에3%대급등...6800선회복",
-  "SK케미칼,2분기매출분기최대…영업익도26.8%증가",
-  "SK에코플랜트,'AIDC사업단'출범…반도체등인프라사업확대'잰걸...",
-  "4년만에왕좌바뀌나…하반기미래에셋vs한국투자증권1위싸움본격화",
   "[2Q실적]SK케미칼,영업이익319억원26.8%↑…분기기준최대매출",
   "눌려왔다터진테크업계노동대투쟁...삼전닉스와네이버방향갈렸다",
   "자본잠식네이버제트,AI스트리머로반전노리나",
@@ -6001,7 +5992,16 @@
   "AI서버1대메모리만'36억'…삼전닉스가웃는이유[이슈속으로]",
   "리그홈승리간절한파주,'좋은기억'성남상대로갈증해소할까",
   "42세미자,주식1억손실후물밥먹자…父장광“12만원돌려줄게”",
-  "코스피7000눈앞인데공매도도늘었다..급반등에커지는경계감"
+  "코스피7000눈앞인데공매도도늘었다..급반등에커지는경계감",
+  "내용만보면밀리지않았다...'빠른전환'부천막고'득점력저조'답답...",
+  "코스닥8월수익률20%돌파…삼전·SK하닉반등에코스피추격",
+  "최태원재상고승부수…9440억재산분할부담,득실가를열쇠는법원...",
+  "증시급반등에공매도잔고도'쑥'…코스피19조원",
+  "조정받던반도체주동반불붙자…삼전닉스'빚투'다시기지개",
+  "SK㈜주가1만원에재산1300억'출렁'…최태원,9440억재상고셈법",
+  "최태원'9440억재상고'득실,SK주가에달렸다",
+  "최태원회장재상고경제적득실은…9440억보다SK주가가변수",
+  "규제철퇴맞은단일종목레버리지,거래대금반등에도'팔자'쏠림"
  ],
  "recent_sigs": [
   [
@@ -6321,7 +6321,7 @@
    "코스피 눈앞인데 늘었다 커지는 급반등에 공매도도 경계감"
   ]
  ],
- "last_run": "2026-08-16T10:01:22.132309+09:00",
+ "last_run": "2026-08-16T10:11:35.375625+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
