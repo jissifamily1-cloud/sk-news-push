@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357419",
-  "https://www.m-i.kr/news/articleView.html?idxno=1402313",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310296&inflow=N",
   "https://www.ajunews.com/view/20260813192125351",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390236.html",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06478006645546992",
@@ -2999,12 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477818",
   "https://news.tf.co.kr/read/economy/2354679.htm",
   "https://www.pennmike.com/news/articleView.html?idxno=125782",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212798"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212798",
+  "http://www.inews24.com/view/1995448",
+  "https://kpenews.com/View.aspx?No=4188212",
+  "https://www.ekn.kr/web/view.php?key=20260816029033238"
  ],
  "seen_titles": [
-  "[건설소식]한화건설부문·삼성물산건설부문·대우건설·SK에코플랜트...",
-  "SK하이닉스통합노조공식출범…조합원2400명돌파",
-  "SK하이닉스통합노조공식출범…삼성노조와연대촉각",
   "SK하이닉스‘통합노조’출범…성과급·임단협에목소리낸다",
   "코스피,반도체강세에6800선회복",
   "하이닉스글로벌성장TF장에윤풍영SK수펙스사장임명",
@@ -6001,7 +5998,10 @@
   "코스맥스,시장기대뛰어넘었다…중국·미국까지실적호조",
   "삼성전자소액주주800만명육박…'삼전닉스'1100만명돌파",
   "[박준규의이슈언박싱]호남반도체못하는게미국탓?…\"주한미군만...",
-  "'삼전닉스'레버리지거래대금다시늘었다…이유는?"
+  "'삼전닉스'레버리지거래대금다시늘었다…이유는?",
+  "\"삼전보다더받았다\"…4대은행원상반기급여7150만원",
+  "외국인은사고개인은팔았다..코스피반등이끈‘반도체투톱’",
+  "[재계와친일논란上]재벌은정말‘적산’에서태어났나…대기업의..."
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,17 @@
   [
    "2026-08-16T14:59:32.310759+09:00",
    "거래대금 이유는 다시 삼전닉스 늘었다 레버리지"
+  ],
+  [
+   "2026-08-16T15:01:11.598260+09:00",
+   "사고 팔았다 이끈 반도체 개인은 투톱 코스피 외국인은 반등"
+  ],
+  [
+   "2026-08-16T15:01:11.598260+09:00",
+   "재벌은 태어났나 적산 에서 정말 대기업의"
   ]
  ],
- "last_run": "2026-08-16T14:59:41.483617+09:00",
+ "last_run": "2026-08-16T15:01:20.479382+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
