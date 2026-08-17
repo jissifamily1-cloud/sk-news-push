@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026071718133755858",
-  "https://www.public25.com/news/articleView.html?idxno=50888",
-  "https://www.ceoscoredaily.com/page/view/2026073119082854612",
-  "https://www.khan.co.kr/article/202607311911001",
   "https://www.ktv.go.kr/content/view?content_id=758029",
   "https://www.econovill.com/news/articleView.html?idxno=745516",
   "https://news.jtbc.co.kr/article/NB12311173?influxDiv=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000003801&cp=nv",
   "https://www.segye.com/newsView/20260817518350?OutUrl=naver",
   "https://www.sentv.co.kr/article/view/sentv202608170012",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336512"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336512",
+  "https://www.etoday.co.kr/news/view/2614991",
+  "http://www.fnnews.com/news/202608171505207920",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608171307187820204",
+  "https://www.businessplus.kr/news/articleView.html?idxno=115544"
  ],
  "seen_titles": [
-  "1화도못하고…김선태하차·KBS편성취소,'돈선태'사실상폐지[엑...",
-  "SK(주),두산에SK실트론매각확정…이변없었다",
-  "AI슈퍼사이클에도반도체웨이퍼기업판SK...\"두산과초과이익공유...",
-  "SK,SK실트론2.3조에두산으로…AI투자재원확보",
   "김선태,'2차가해'논란에'돈선태'자진하차\"리센느에직접사과\"",
   "생각과질문을끌어내는공간,수원지관서가를가다",
   "7개월진통끝두산품에…SK,SK실트론2.3조에팔았다(종합)",
@@ -6001,10 +5997,27 @@
   "1년만에다시만난최태원·빌게이츠…SMR고리로‘AI전력동맹’...",
   "최태원,‘9440억원’지급위해SK지분팔아야할까?",
   "최태원,9440억재산분할재상고…1조현금마련'첩첩산중'",
-  "영향력·신뢰1위MBC…'유튜브열독률'급락했다"
+  "영향력·신뢰1위MBC…'유튜브열독률'급락했다",
+  "‘빌게이츠방한’그후…두산·SK·HD현대,美SMR선점본격화",
+  "하닉·이노베이션'쌍끌이'로SK가치상승본격화...하나證",
+  "SK-HD현대-두산,빌게이츠SMR밸류체인삼각편대완성",
+  "[이슈+]\"韓잡아라\"…글로벌빅테크CEO,국내총수들과'직거래'이유는..."
  ],
- "recent_sigs": [],
- "last_run": "2026-08-18T06:00:39.465526+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-18T06:02:01.915377+09:00",
+   "이노베이션 하닉 쌍끌이 본격화 가치상승 하나"
+  ],
+  [
+   "2026-08-18T06:02:01.915377+09:00",
+   "HD현대 SMR 두산 삼각편대 완성 밸류체인 빌게이츠"
+  ],
+  [
+   "2026-08-18T06:02:01.915377+09:00",
+   "글로벌 이유는 잡아라 총수들과 직거래 국내 빅테크 CEO"
+  ]
+ ],
+ "last_run": "2026-08-18T06:02:21.128710+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
