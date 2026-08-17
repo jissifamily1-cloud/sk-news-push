@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16163341",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4100800",
-  "https://www.g-enews.com/view.php?ud=20260814093215499044093b5d4e_1",
-  "https://www.newsway.co.kr/news/view?ud=2026081409383198364",
-  "https://www.tokenpost.kr/news/economy/390450",
-  "https://www.news1.kr/finance/market-exr/6258962",
-  "https://www.joongangenews.com/news/articleView.html?idxno=540111",
-  "http://www.inews24.com/view/1994983",
-  "http://www.beyondpost.co.kr/view.php?ud=202608140935277573be44c0aacd_30",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383606",
-  "https://www.mk.co.kr/article/12127690",
-  "https://biz.sbs.co.kr/article_hub/20000328693?division=NAVER",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477368",
   "https://www.news2day.co.kr/article/20260814500045",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720396",
@@ -2999,21 +2987,21 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=740392",
   "https://www.kyeonggi.com/article/20260817580100",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2294898",
-  "https://www.newsis.com/view/NISX20260817_0003751449"
+  "https://www.newsis.com/view/NISX20260817_0003751449",
+  "https://www.sportsseoul.com/news/read/1628994",
+  "https://isplus.com/article/view/isp202608170053",
+  "https://www.mk.co.kr/article/12129294",
+  "https://www.chosun.com/economy/tech_it/2026/08/17/ZZKPHDQN6JHZNOGSTL4Z2T6H2Y/",
+  "https://www.khan.co.kr/article/202608171401011",
+  "https://www.newsis.com/view/NISX20260807_0003740468",
+  "https://www.etoday.co.kr/news/view/2614794",
+  "https://bizhankook.com/articles/samsung-system-semiconductor-talent-drain.html",
+  "http://www.segyebiz.com/newsView/20260817510446?OutUrl=naver",
+  "https://www.etoday.co.kr/news/view/2614797",
+  "https://www.sisajournal.com/news/articleView.html?idxno=383268",
+  "https://www.etoday.co.kr/news/view/2614996"
  ],
  "seen_titles": [
-  "코스피,3주만에‘7000’터치…SK하이닉스6%대강세",
-  "반도체주상승에코스피장중7천터치…코스닥강보합",
-  "코스피,5거래일째상승…장중7000선돌파",
-  "앤스로픽몸값2800조전망…SK텔레콤7%급등,지분가치8조기대",
-  "[위클리오늘]빌게이츠전용기타고방한…HD현대·SK까지만난다",
-  "미래에셋운용,'TIGER200ETF'개인순매수1조원돌파",
-  "[위클리오늘]코스피장초반7000회복···환율1410원대",
-  "거버넌스포럼\"솔리다임5단중복상장논의중단해야\"",
-  "AI투자기대에반도체강세…메모리성장전망확대",
-  "수익률-94.87%주식계좌공개한최화정“겁이나더라”",
-  "SK하이닉스ADR주가,165.67달러7.29%상승마감",
-  "SK하이닉스4~5%대급등...반도체상승세지속",
   "[특징주]삼성전자·SK하이닉스,美샌디스크호재..동반'강세'",
   "반도체주나흘째상승세…삼성전자1.5%·SK하이닉스5.5%↑[특징주]",
   "[특징주]SK케미칼,분기최대매출에저평가매력부각…장초반10%대...",
@@ -6001,29 +5989,21 @@
   "[분석]3500억달러청구서구체화되나…대미투자'기업의시간'시작됐다",
   "‘이천르네상스’꿈꾸는성수석이천시장“거창한계획보다확실한...",
   "삼전닉스레버리지로증권가두달간1200억원수익냈다",
-  "삼성전자·SK하이닉스소액주주,1100만명넘겼다…반년만에2배급증"
+  "삼성전자·SK하이닉스소액주주,1100만명넘겼다…반년만에2배급증",
+  "광복절에한일전‘역사적참패’男농구…마줄스감독‘콘셉트’를모...",
+  "랄랄,하이닉스주식280만원에샀는데…“하락장우울증,왜이렇게살...",
+  "성인4명중한명은‘삼전닉스개미’…소액주주1100만명넘어서",
+  "삼성전자·SK하이닉스,호실적에상반기현금117조증가",
+  "젠슨황장녀,LG전자로보틱스거점찾는다…휴머노이드협력속도",
+  "바코드찍던매장에AI가들어왔다…'로봇점장'시대성큼[쇼핑AI下]",
+  "AI훈풍이다시돌린K배터리공장…가동률반등조짐",
+  "삼성전자'미래먹거리'라던시스템반도체,인력이탈가속",
+  "6개월만에600만명폭증…‘삼전·SK’로달려간개미들",
+  "“HBM4E곧온다”⋯더치열해진첨단패키징경쟁",
+  "'대통령직격'유시민,논란속에서도3년연속영향력1위[2026누가한...",
+  "韓AI도뛰었지만세계는더빨랐다…독파모모델이마주한‘60점벽’"
  ],
  "recent_sigs": [
-  [
-   "2026-08-17T08:02:22.811756+09:00",
-   "솔리다임 투자재원 지주사 확보냐 엇갈린 시선 IPO 검토에 할인이냐"
-  ],
-  [
-   "2026-08-17T08:02:22.811756+09:00",
-   "이름을 묻다 시대의 지금을 대한민국의"
-  ],
-  [
-   "2026-08-17T08:02:22.811756+09:00",
-   "주주환원이 기업가치에 대규모 긍정적일까 언제나"
-  ],
-  [
-   "2026-08-17T08:02:22.811756+09:00",
-   "7000선 코스피 외국인 개인 샀다 눈앞 4조 팔고 8조"
-  ],
-  [
-   "2026-08-17T08:02:22.811756+09:00",
-   "부담 전액 비용 본사 쿠팡이츠 백억커피 프로모션 진행"
-  ],
   [
    "2026-08-17T08:11:06.202530+09:00",
    "선정 우수기업 고용노동부 SK트리켐 주관 노사문화"
@@ -6435,9 +6415,33 @@
   [
    "2026-08-17T14:01:16.036103+09:00",
    "2배 만에 소액주주 SK하이닉스 삼성전자 급증 넘겼다 1100만명 반년"
+  ],
+  [
+   "2026-08-17T14:09:43.674603+09:00",
+   "K배터리 AI 조짐 반등 공장 훈풍이 가동률 다시 돌린"
+  ],
+  [
+   "2026-08-17T14:09:43.674603+09:00",
+   "가속 먹거리 이탈 삼성전자 미래 반도체 라던 시스템 인력"
+  ],
+  [
+   "2026-08-17T14:09:43.674603+09:00",
+   "개미들 달려간 600만명 폭증 만에 6개월 삼전"
+  ],
+  [
+   "2026-08-17T14:09:43.674603+09:00",
+   "온다 경쟁 치열해진 첨단 HBM4E 패키징"
+  ],
+  [
+   "2026-08-17T14:09:43.674603+09:00",
+   "연속 유시민 속에서도 누가 1위 논란 영향력 3년 직격 대통령"
+  ],
+  [
+   "2026-08-17T14:09:43.674603+09:00",
+   "세계는 60점 독파모 빨랐다 마주한 AI도 모델이 뛰었지만"
   ]
  ],
- "last_run": "2026-08-17T14:01:27.438691+09:00",
+ "last_run": "2026-08-17T14:10:02.971674+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
