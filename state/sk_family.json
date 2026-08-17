@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=745516",
-  "https://news.jtbc.co.kr/article/NB12311173?influxDiv=NAVER",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542812",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209576",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310612&t=NN",
@@ -2999,11 +2997,11 @@
   "http://www.fnnews.com/news/202608171505207920",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608171307187820204",
   "https://www.businessplus.kr/news/articleView.html?idxno=115544",
-  "https://biz.sbs.co.kr/article_hub/20000329103?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000329103?division=NAVER",
+  "https://www.newscj.com/news/articleView.html?idxno=3425853",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608141442327120107673"
  ],
  "seen_titles": [
-  "생각과질문을끌어내는공간,수원지관서가를가다",
-  "7개월진통끝두산품에…SK,SK실트론2.3조에팔았다(종합)",
   "[마감시황]코스피'분노의반격'...AI훈풍에1000p급등",
   "반도체호황에도매각…SK가본건‘다음10년’",
   "[포토S]이승준감독-최성환코치,'우수지도자상수상'",
@@ -6001,7 +5999,9 @@
   "하닉·이노베이션'쌍끌이'로SK가치상승본격화...하나證",
   "SK-HD현대-두산,빌게이츠SMR밸류체인삼각편대완성",
   "[이슈+]\"韓잡아라\"…글로벌빅테크CEO,국내총수들과'직거래'이유는...",
-  "'막판쟁점'에몰린대미투자…김정관\"이달말해결목표\""
+  "'막판쟁점'에몰린대미투자…김정관\"이달말해결목표\"",
+  "[천지일보이슈종합]김민석與대표로·거제813㎜물폭탄·종합특검줄...",
+  "[더벨][빌게이츠-K원전동맹]SK,나트륨SMR사업개발파트너'부상'…..."
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,17 @@
   [
    "2026-08-18T06:50:14.969497+09:00",
    "몰린 막판 목표 쟁점 대미투자 김정관 해결 이달말"
+  ],
+  [
+   "2026-08-18T07:10:15.519066+09:00",
+   "종합특검 거제 김민석 대표로 물폭탄"
+  ],
+  [
+   "2026-08-18T07:10:15.519066+09:00",
+   "부상 SMR 나트륨 파트너 사업개발"
   ]
  ],
- "last_run": "2026-08-18T07:00:35.932129+09:00",
+ "last_run": "2026-08-18T07:10:30.513236+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
