@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10841118",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03640806645547320",
-  "https://www.newscj.com/news/articleView.html?idxno=3425035",
   "https://www.mk.co.kr/article/12127667",
   "https://www.tokenpost.kr/news/market/390434",
   "https://sports.khan.co.kr/article/202608140942003?pt=nv",
@@ -2999,12 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477971",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01505526645548304",
   "https://biz.sbs.co.kr/article_hub/20000329057?division=NAVER",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031791"
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031791",
+  "http://www.metroseoul.co.kr/article/20260817500173",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=598707",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=598704"
  ],
  "seen_titles": [
-  "코스피장중7000선탈환…美물가안도에외국인4300억'사자'",
-  "[특징주]반도체상승세지속…하이닉스4~5%대급등",
-  "빌게이츠1년만에한국방문…정부·재계인사와면담,SMR협력논의",
   "[개장시황]코스피,7000선등락…코스닥도1%대상승세",
   "미래에셋'TIGER200ETF',개인순매수1조원돌파",
   "[특징주]SK케미칼,분기최대매출ㆍ저평가매력부각에11%대급등",
@@ -6001,7 +5998,10 @@
   "SK이노베이션,테라파워와'K-나트륨'SMR사업모델검토",
   "독파모3차평가D-1…‘AA1위’모티프,진입유력‘실전사용성’변...",
   "삼전닉스레버리지로'수수료잔치'…거래소·증권사1천억벌어",
-  "전진선양평군수,민선9기정책드라이브…광역철도·생활인프라점검"
+  "전진선양평군수,민선9기정책드라이브…광역철도·생활인프라점검",
+  "SK바이오사이언스,RSV백신글로벌1b상신청...\"감염병대응강화\"",
+  "'기업대상'롯데·삼성전자초박빙양강구도…현대차·LG맹추격",
+  "'불멸의총수'이병철창업회장1위질주…정주영명예회장맹추격"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,21 @@
   [
    "2026-08-17T13:24:47.790788+09:00",
    "정책 민선9기 생활인프라 광역철도 점검 양평군수 전진선 드라이브"
+  ],
+  [
+   "2026-08-17T13:31:15.105880+09:00",
+   "강화 RSV백신 감염병 신청 SK바이오사이언스 글로벌1b상 대응"
+  ],
+  [
+   "2026-08-17T13:31:15.105880+09:00",
+   "현대차 롯데 양강 기업대상 LG 초박빙 삼성전자 구도 맹추격"
+  ],
+  [
+   "2026-08-17T13:31:15.105880+09:00",
+   "1위 창업회장 정주영 질주 불멸의 이병철 맹추격 총수 명예회장"
   ]
  ],
- "last_run": "2026-08-17T13:24:54.001393+09:00",
+ "last_run": "2026-08-17T13:31:26.055997+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
