@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477368",
-  "https://www.news2day.co.kr/article/20260814500045",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720396",
   "https://www.electimes.com/news/articleView.html?idxno=371269",
   "https://www.tokenpost.kr/news/cryptocurrency/390439",
@@ -2999,11 +2997,11 @@
   "http://www.segyebiz.com/newsView/20260817510446?OutUrl=naver",
   "https://www.etoday.co.kr/news/view/2614797",
   "https://www.sisajournal.com/news/articleView.html?idxno=383268",
-  "https://www.etoday.co.kr/news/view/2614996"
+  "https://www.etoday.co.kr/news/view/2614996",
+  "https://news.jtbc.co.kr/article/NB12313673?influxDiv=NAVER",
+  "https://www.ajunews.com/view/20260817110847298"
  ],
  "seen_titles": [
-  "[특징주]삼성전자·SK하이닉스,美샌디스크호재..동반'강세'",
-  "반도체주나흘째상승세…삼성전자1.5%·SK하이닉스5.5%↑[특징주]",
   "[특징주]SK케미칼,분기최대매출에저평가매력부각…장초반10%대...",
   "코스피3주만에7000선회복…물가·유가하락에투심개선[개장시황]",
   "[개장시황]\"반도체훈풍에급등\"…코스피,장중7000선터치",
@@ -6001,7 +5999,9 @@
   "6개월만에600만명폭증…‘삼전·SK’로달려간개미들",
   "“HBM4E곧온다”⋯더치열해진첨단패키징경쟁",
   "'대통령직격'유시민,논란속에서도3년연속영향력1위[2026누가한...",
-  "韓AI도뛰었지만세계는더빨랐다…독파모모델이마주한‘60점벽’"
+  "韓AI도뛰었지만세계는더빨랐다…독파모모델이마주한‘60점벽’",
+  "삼전닉스레버리지개미는눈물…증권사·거래소1170억벌어",
+  "경영계\"N%성과급,반도체공장설립은노동쟁의대상아냐\""
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,13 @@
   [
    "2026-08-17T14:09:43.674603+09:00",
    "세계는 60점 독파모 빨랐다 마주한 AI도 모델이 뛰었지만"
+  ],
+  [
+   "2026-08-17T14:11:02.930090+09:00",
+   "반도체 아냐 대상 성과급 노동쟁의 경영계 설립은 공장"
   ]
  ],
- "last_run": "2026-08-17T14:10:02.971674+09:00",
+ "last_run": "2026-08-17T14:11:09.472846+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
