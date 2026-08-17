@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260814084400002?input=1195m",
-  "https://www.mk.co.kr/article/12127882",
-  "https://kpenews.com/View.aspx?No=4187011",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260814132957DsM",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432528",
   "https://biz.heraldcorp.com/article/10841600",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444775",
   "http://www.finomy.com/news/articleView.html?idxno=259254",
@@ -2999,14 +2994,14 @@
   "https://www.slist.kr/news/articleView.html?idxno=759315",
   "https://biz.sbs.co.kr/article_hub/20000329103?division=NAVER",
   "https://biz.heraldcorp.com/article/10841973",
-  "https://www.viva100.com/article/20260817500438"
+  "https://www.viva100.com/article/20260817500438",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=301584",
+  "https://www.ajunews.com/view/20260818065308193",
+  "https://www.kbmaeil.com/article/20260818500007",
+  "https://www.namdonews.com/news/articleView.html?idxno=920246",
+  "https://www.g-enews.com/view.php?ud=2026081800045043180c8c1c064d_1"
  ],
  "seen_titles": [
-  "최태원결단주목…'9,440억'조달어떻게?",
-  "코스피변동성조명한외신,개인투자자손실에…\"조울증앓는듯\"",
-  "법원,HJ중공업상대해외선주102억원대손배소송전부기각",
-  "법무법인화우,공정거래·하도급전문가이기성변호사영입",
-  "'세기의재산분할'확정될까…오늘까지재상고시한",
   "SK바사,RSV예방항체글로벌소아1b상신청…영아대상개발본격화",
   "게이츠원전에425억넣은정기선…4년뒤'배위원자로'그린다",
   "[中경제,두개의실험실③]해킹·먹통막는AI…상포'사이버방패'",
@@ -6001,7 +5996,12 @@
   "대기업신규채용2년새15%감소…청년↓장년↑'세대역전'",
   "'막판쟁점'에몰린대미투자…김정관\"이달말해결목표\"",
   "‘이제자포자기’털리고또털리는데…개인정보유출5건중4건은못...",
-  "BYD·테슬라900대투입하는쏘카···렌터카시장,中전기차공세거..."
+  "BYD·테슬라900대투입하는쏘카···렌터카시장,中전기차공세거...",
+  "[입찰정보]8월14일자",
+  "[뉴욕증시마감]국제유가·국채금리급등에일제히하락…다우0.5%↓",
+  "현대차청년신규채용2년새65%줄여…국내주요대기업청년고용비중...",
+  "[미국증시]유가90달러·금리19년최고…뉴욕증시3대지수일제히하락",
+  "日언론,“韓의울산해저20m'수중AI데이터센터'착수”집중조명"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,13 @@
   [
    "2026-08-18T06:51:08.008639+09:00",
    "쏘카 900대 BYD 테슬라 전기차 투입하는 공세 시장 렌터카"
+  ],
+  [
+   "2026-08-18T06:59:07.500855+09:00",
+   "수중 착수 AI 조명 울산 20m 해저 언론 집중 데이터센터"
   ]
  ],
- "last_run": "2026-08-18T06:51:19.256466+09:00",
+ "last_run": "2026-08-18T06:59:14.484150+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
