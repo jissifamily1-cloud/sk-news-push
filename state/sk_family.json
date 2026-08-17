@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685112&plink=ORI&cooper=NAVER",
   "https://www.newsis.com/view/NISX20260717_0003713149",
   "https://www.g-enews.com/view.php?ud=202607311721041762923c501012_1",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607311811468390385",
@@ -2999,10 +2998,10 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608141442327120107673",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890017.html",
   "https://www.newswhoplus.com/news/articleView.html?idxno=67103",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=67107"
+  "https://www.newswhoplus.com/news/articleView.html?idxno=67107",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02528886645548632"
  ],
  "seen_titles": [
-  "[MD포토]이승준감독-최성환코치'우수지도자상수상'",
   "최태원,\"SK하이닉스주식,샀다팔았다말고가만히갖고계세요\"",
   "SK,SK실트론2.3조원에두산매각…최태원재산분할해법찾았다",
   "두산,SK실트론품는다…“에너지·로봇에이어반도체까지AI시대준비...",
@@ -6001,7 +6000,8 @@
   "[더벨][빌게이츠-K원전동맹]SK,나트륨SMR사업개발파트너'부상'…...",
   "최태원재상고에노소영맞불?…1조현금마련첩첩산중",
   "최태원회장,'세기의이혼'서'세기의재산분할'...9440억판결재상고",
-  "SK하이닉스,美첨단패키징팹27일착공…메모리전공정투자열어놔"
+  "SK하이닉스,美첨단패키징팹27일착공…메모리전공정투자열어놔",
+  "SK,하이닉스·이노베이션이실적견인…목표가↑-하나"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-08-18T07:33:06.984482+09:00",
    "SK하이닉스 착공 투자 27일 열어놔 메모리 전공정 첨단 패키징"
+  ],
+  [
+   "2026-08-18T07:50:12.930258+09:00",
+   "견인 이노베이션이 목표가 하나 실적 하이닉스"
   ]
  ],
- "last_run": "2026-08-18T07:40:25.963256+09:00",
+ "last_run": "2026-08-18T07:50:29.395578+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
