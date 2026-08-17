@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10841600",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444775",
-  "http://www.finomy.com/news/articleView.html?idxno=259254",
-  "https://www.nocutnews.co.kr/news/6563081",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072110",
-  "https://www.sedaily.com/article/20079352",
   "http://www.dailypop.kr/news/articleView.html?idxno=101578",
   "https://www.electimes.com/news/articleView.html?idxno=371276",
   "https://www.welfarenews.net/news/articleView.html?idxno=209710",
@@ -2999,15 +2993,15 @@
   "https://www.ajunews.com/view/20260818065308193",
   "https://www.kbmaeil.com/article/20260818500007",
   "https://www.namdonews.com/news/articleView.html?idxno=920246",
-  "https://www.g-enews.com/view.php?ud=2026081800045043180c8c1c064d_1"
+  "https://www.g-enews.com/view.php?ud=2026081800045043180c8c1c064d_1",
+  "https://www.yna.co.kr/view/AKR20260817043900007?input=1195m",
+  "https://biz.heraldcorp.com/article/10843309",
+  "https://www.hankookilbo.com/news/article/A2026080311130005255?did=NA",
+  "https://www.goal.com/kr/뉴스/a/blte1426d238ad2821c",
+  "http://www.fnnews.com/news/202608171337316272",
+  "https://www.hankookilbo.com/news/article/A2026080316500001206?did=NA"
  ],
  "seen_titles": [
-  "SK바사,RSV예방항체글로벌소아1b상신청…영아대상개발본격화",
-  "게이츠원전에425억넣은정기선…4년뒤'배위원자로'그린다",
-  "[中경제,두개의실험실③]해킹·먹통막는AI…상포'사이버방패'",
-  "빌게이츠1년만의방한…韓에원전설비발주'본궤도'",
-  "[TOP'sPick][제약]부광약품자회사‘한국유니온제약’,회생절차종...",
-  "네이버·LG전자에최대20배베팅…바이낸스선물출시",
   "‘적극행정’에소부장웃었다…SK하이닉스,출연금증여세면제된까...",
   "한앤컴퍼니,중장기LNG운송수요대응..SK해운·에이치라인해운조단...",
   "[이시각헤드라인]8월14일뉴스현장",
@@ -6001,7 +5995,13 @@
   "[뉴욕증시마감]국제유가·국채금리급등에일제히하락…다우0.5%↓",
   "현대차청년신규채용2년새65%줄여…국내주요대기업청년고용비중...",
   "[미국증시]유가90달러·금리19년최고…뉴욕증시3대지수일제히하락",
-  "日언론,“韓의울산해저20m'수중AI데이터센터'착수”집중조명"
+  "日언론,“韓의울산해저20m'수중AI데이터센터'착수”집중조명",
+  "kt의'뒷심야구'…10구단체제최초3할대역전승률도전",
+  "“280층에사람있어요”…랄랄,‘주식하락장우울증’토로",
+  "\"'반도체강국'한국과대만,따져보면아주달라\"[인터뷰]",
+  "14년만에맨체스터유나이티드서뛰는韓선수탄생하나…잔류선언에...",
+  "'백기'든개미들지난주에만7조매도,이번주는?",
+  "\"한국메모리반도체호황,미국·중국갈등덕분\"[인터뷰]"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,25 @@
   [
    "2026-08-18T06:59:07.500855+09:00",
    "수중 착수 AI 조명 울산 20m 해저 언론 집중 데이터센터"
+  ],
+  [
+   "2026-08-18T07:01:17.841791+09:00",
+   "강국 대만 따져보면 반도체 달라 아주 한국과"
+  ],
+  [
+   "2026-08-18T07:01:17.841791+09:00",
+   "뛰는 잔류 유나이티드서 선수 탄생하나 만에 맨체스터 선언에 14년"
+  ],
+  [
+   "2026-08-18T07:01:17.841791+09:00",
+   "개미들 지난주에만 매도 7조 이번주는 백기"
+  ],
+  [
+   "2026-08-18T07:01:17.841791+09:00",
+   "미국 메모리 호황 갈등 덕분 반도체 한국 중국"
   ]
  ],
- "last_run": "2026-08-18T06:59:14.484150+09:00",
+ "last_run": "2026-08-18T07:01:31.552589+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
