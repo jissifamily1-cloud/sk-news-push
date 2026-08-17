@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=875012",
-  "https://www.gokorea.kr/news/articleView.html?idxno=875013",
-  "https://www.mk.co.kr/article/12127750",
-  "http://www.seouleconews.com/news/articleView.html?idxno=93074",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430168",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720411",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93739",
-  "https://www.g-enews.com/view.php?ud=202608141033292545fbbec65dfb_1",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430164",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83206",
   "https://www.etoday.co.kr/news/view/2614592",
   "https://www.ppss.kr/news/articleView.html?idxno=305539",
@@ -2999,18 +2990,18 @@
   "https://www.tokenpost.kr/news/market/392029",
   "https://www.ajunews.com/view/20260817140812474",
   "https://www.besteleven.com/news/articleView.html?idxno=311278",
-  "https://www.ajunews.com/view/20260817151827621"
+  "https://www.ajunews.com/view/20260817151827621",
+  "https://www.sportsseoul.com/news/read/1629028",
+  "https://www.bloter.net/news/articleView.html?idxno=671096",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720626",
+  "https://www.hankyung.com/article/2026081754217",
+  "https://www.ajunews.com/view/20260817131804423",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271860",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000003726&cp=nv",
+  "http://www.fnnews.com/news/202608171822233901",
+  "https://www.hankyung.com/article/2026081753161"
  ],
  "seen_titles": [
-  "'KBO유일4할타자'백인천전감독별세-향년83세",
-  "“투자후남는현금모두주주에게”파격선언에주가14%급등…AI타...",
-  "1년만에방한한빌게이츠…韓SMR밸류체인'핵심축'부상하나",
-  "대기업,비주력사업정리하고AI·반도체등미래산업에집중",
-  "하나증권\"AI인프라확장에메모리반도체수요지속,삼성전자SK하이닉...",
-  "동부건설,상반기순이익391억원…전년比266.5%증가",
-  "최태원·노소영재산분할9440억오늘확정되나…재상고기한마지막날",
-  "[오늘증시]코스피'7000선공방'…외인매수에도차익매물쏟아져",
-  "'세기의이혼'재산분할결론은…최태원결단주목",
   "산업부,간부대상AI교육…M.AX정책뒷받침",
   "산업부,인공지능전환가속화…간부대상AI교육프로그램시작",
   "최태원-노소영재산분할,9천440억원이혼소송판결앞두고주목",
@@ -6001,7 +5992,16 @@
   "1조5339억원순매수,연기금하이닉스집중",
   "정부'반도체속도전'반영…SKH,용인·청주증설총력",
   "[BE.현장]\"마치'차두리11명'을풀어놓은것같다\"…버려진원석들로...",
-  "만들기무섭게팔렸다···SK하이닉스,HBM풀가동에재고회전속도'껑..."
+  "만들기무섭게팔렸다···SK하이닉스,HBM풀가동에재고회전속도'껑...",
+  "유효슛10개막아낸2006년생GK홍성민에공격수주닝요·조르지동시...",
+  "[AIis]독파모2차평가발표임박…국민평가·전문가심사변수",
+  "[EBN오늘(17일)이슈종합]최태원·빌게이츠1년새두차례회동,외...",
+  "최태원재상고에노소영대응주목…'부대상고'가능성은",
+  "[길잃은투자자들]'최악변동성'에과녁빗나가는예측…리서치센터도...",
+  "단일종목레버리지에'개미만피철철',증권사·거래소는'웃음꽃'",
+  "삼전닉스‘300조주주환원’기대에또빚투돌아왔다",
+  "반도체주반등에다시'빚투'...신용거래융자이달3조증가",
+  "통신3사'새먹거리'AI인프라매출급증"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,29 @@
   [
    "2026-08-17T18:21:05.468992+09:00",
    "HBM 풀가동에 재고 무섭게 SK하이닉스 회전속도 팔렸다 만들기"
+  ],
+  [
+   "2026-08-17T18:31:09.856188+09:00",
+   "빗나가는 리서치센터도 최악 변동성 과녁 예측"
+  ],
+  [
+   "2026-08-17T18:31:09.856188+09:00",
+   "철철 단일종목 거래소는 웃음 증권사 레버리지에 개미만"
+  ],
+  [
+   "2026-08-17T18:31:09.856188+09:00",
+   "300조 주주환원 빚투 기대에 돌아왔다 삼전닉스"
+  ],
+  [
+   "2026-08-17T18:31:09.856188+09:00",
+   "빚투 이달 3조 반등에 반도체주 다시 신용거래융자 증가"
+  ],
+  [
+   "2026-08-17T18:31:09.856188+09:00",
+   "AI 급증 매출 인프라 통신 먹거리 3사"
   ]
  ],
- "last_run": "2026-08-17T18:21:19.315043+09:00",
+ "last_run": "2026-08-17T18:31:26.429837+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
