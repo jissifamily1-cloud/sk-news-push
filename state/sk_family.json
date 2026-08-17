@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209576",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310612&t=NN",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685112&plink=ORI&cooper=NAVER",
   "https://www.newsis.com/view/NISX20260717_0003713149",
   "https://www.g-enews.com/view.php?ud=202607311721041762923c501012_1",
@@ -2999,11 +2997,11 @@
   "https://biz.sbs.co.kr/article_hub/20000329103?division=NAVER",
   "https://www.newscj.com/news/articleView.html?idxno=3425853",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608141442327120107673",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890017.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890017.html",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=67103",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=67107"
  ],
  "seen_titles": [
-  "반도체호황에도매각…SK가본건‘다음10년’",
-  "[포토S]이승준감독-최성환코치,'우수지도자상수상'",
   "[MD포토]이승준감독-최성환코치'우수지도자상수상'",
   "최태원,\"SK하이닉스주식,샀다팔았다말고가만히갖고계세요\"",
   "SK,SK실트론2.3조원에두산매각…최태원재산분할해법찾았다",
@@ -6001,7 +5999,9 @@
   "'막판쟁점'에몰린대미투자…김정관\"이달말해결목표\"",
   "[천지일보이슈종합]김민석與대표로·거제813㎜물폭탄·종합특검줄...",
   "[더벨][빌게이츠-K원전동맹]SK,나트륨SMR사업개발파트너'부상'…...",
-  "최태원재상고에노소영맞불?…1조현금마련첩첩산중"
+  "최태원재상고에노소영맞불?…1조현금마련첩첩산중",
+  "최태원회장,'세기의이혼'서'세기의재산분할'...9440억판결재상고",
+  "SK하이닉스,美첨단패키징팹27일착공…메모리전공정투자열어놔"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,17 @@
   [
    "2026-08-18T07:20:15.584854+09:00",
    "재상고에 1조 현금마련 첩첩산중 맞불"
+  ],
+  [
+   "2026-08-18T07:33:06.984482+09:00",
+   "9440억 이혼 회장 판결 세기의 재상고 재산분할"
+  ],
+  [
+   "2026-08-18T07:33:06.984482+09:00",
+   "SK하이닉스 착공 투자 27일 열어놔 메모리 전공정 첨단 패키징"
   ]
  ],
- "last_run": "2026-08-18T07:30:31.493565+09:00",
+ "last_run": "2026-08-18T07:33:24.323772+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
