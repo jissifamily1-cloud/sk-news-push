@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.handmk.com/news/articleView.html?idxno=42210",
-  "https://www.naeil.com/news/read/598913",
-  "http://www.popcornnews.net/news/articleView.html?idxno=129738",
-  "https://www.naeil.com/news/read/598888",
-  "https://magazine.hankyung.com/money/article/202608141585c",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87514",
   "https://news.tf.co.kr/read/economy/2354184.htm",
   "https://economist.co.kr/article/view/ecn202608140029",
@@ -2999,14 +2994,14 @@
   "https://www.monews.co.kr/news/articleView.html?idxno=413251",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005221",
   "https://www.dailypharm.com/user/news/341497?REFERER=NP",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635799"
+  "https://www.seoulfn.com/news/articleView.html?idxno=635799",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5748",
+  "https://www.mt.co.kr/world/2026/08/18/2026081806063034189",
+  "http://www.fnnews.com/news/202608180602312167",
+  "https://www.news1.kr/industry/general-industry/6261009",
+  "https://www.mk.co.kr/article/12129762"
  ],
  "seen_titles": [
-  "빌게이츠가직접韓원전기업세일즈에나선다...'테라파워'는어떤업...",
-  "동부건설,2분기영업익282억원...전년비69.2%증가",
-  "SK바이오사이언스,RSV예방항체글로벌임상신청",
-  "대기업집단,3개월간75개사늘고79개사줄었다",
-  "'옥문아'김숙,투자실패담고백\"ETF넣었다가-38%\"",
   "민형배시장“SK,조만간100조원규모투자발표”",
   "롯데카드,선제적방어체계강화위해AI보안연합합류",
   "[경제읽기]최태원·노소영재상고시한…코스피닷새째상승세",
@@ -6001,7 +5996,12 @@
   "제약바이오2분기,두자릿수매출두드러져",
   "[데스크칼럼]삼성·SK에날아드는청구서…‘올인코리아’역설",
   "약가인하코앞인데…급여중심중견제약수익성'빨간불'",
-  "[주간증시전망]5거래일11%반등뒤'속도조절'··외국인수급'관건'"
+  "[주간증시전망]5거래일11%반등뒤'속도조절'··외국인수급'관건'",
+  "[뉴욕증시마감시황]뉴욕증시,이란발유가·금리급등에하락…반도체...",
+  "美국채30년물19년만에최고…증시흔든금리·유가[뉴욕마감]",
+  "\"280층에사람있어요\"랄랄,SK하이닉스하락에즉흥탈색까지",
+  "대기업,인력·자본밀어넣어'AX'총력…기밀유출우려는진행형",
+  "“월요일에장이열렸어야했는데”…日·대만서메모리株급등"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,21 @@
   [
    "2026-08-18T06:11:06.541233+09:00",
    "반등 속도조절 5거래일 외국인 수급 관건"
+  ],
+  [
+   "2026-08-18T06:21:07.852109+09:00",
+   "SK하이닉스 즉흥 있어요 탈색까지 280층에 하락에 사람 랄랄"
+  ],
+  [
+   "2026-08-18T06:21:07.852109+09:00",
+   "대기업 자본 AX 기밀 총력 우려는 유출 진행형 밀어넣어 인력"
+  ],
+  [
+   "2026-08-18T06:21:07.852109+09:00",
+   "했는데 대만서 메모리 열렸어야 급등 장이 월요일에"
   ]
  ],
- "last_run": "2026-08-18T06:11:43.232661+09:00",
+ "last_run": "2026-08-18T06:21:18.800228+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
