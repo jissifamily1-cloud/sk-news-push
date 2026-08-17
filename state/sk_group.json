@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608140951048006",
-  "https://news.tf.co.kr/read/national/2354133.htm",
-  "https://www.news1.kr/it-science/cc-newmedia/6258979",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=315541",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37450",
-  "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081400829.html",
   "https://www.newsis.com/view/NISX20260814_0003749016",
   "https://www.tokenpost.kr/news/blockchain/390467",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720400",
@@ -2999,15 +2993,15 @@
   "https://www.tokenpost.kr/news/cryptocurrency/391939",
   "http://www.efnews.co.kr/news/articleView.html?idxno=131654",
   "http://www.jeonmin.co.kr/news/articleView.html?idxno=445251",
-  "http://www.jeonmin.co.kr/news/articleView.html?idxno=445239"
+  "http://www.jeonmin.co.kr/news/articleView.html?idxno=445239",
+  "https://www.insight.co.kr/news/568555",
+  "https://www.asiatime.co.kr/article/20260817500062",
+  "http://www.newsbrite.net/news/articleView.html?idxno=199758",
+  "http://www.segyebiz.com/newsView/20260817510947?OutUrl=naver",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4925702",
+  "http://www.fnnews.com/news/202608171241112030"
  ],
  "seen_titles": [
-  "10:00//산업부,과장급이상간부'AI교육'…M.AX정책속도",
-  "산업부간부부터AI배운다⋯'AI-네이티브'부처전환속도",
-  "다시뛰는코스피,15거래일만‘칠천피’탈환…삼전1%대·닉스5%대동...",
-  "채권혼합50ETF잇단출시,미국채·샌디스크더했다",
-  "동부건설,2분기영업익180억…외형·수익성동시회복",
-  "코스피,장초반7000선탈환…외인6000억'사자'[시황]",
   "[특징주]美반도체훈풍에투심개선···삼전닉스강세",
   "한국찾은빌게이츠,최태원·정기선만나'SMR동맹'힘싣는다",
   "SK케미칼,장초반12%대급등…2분기'분기'최대매출",
@@ -6001,17 +5995,15 @@
   "Trade.xyz7일거래대금186.8억달러기록",
   "경총\"영업이익성과배분쟁의대상아냐...메가특구노동유연성필요...",
   "전북현대,부천에2-3충격패…2연패수렁",
-  "전북현대,'해결사'티아고와재계약…녹색유니폼계속입는다"
+  "전북현대,'해결사'티아고와재계약…녹색유니폼계속입는다",
+  "'SK하이닉스주주'랄랄\"280층에사람있어요\"",
+  "'생성형AI구독'품은이통3사…유료이용자'락인'",
+  "SK네트웍스,2분기매출1조4,445억,영업익248억시현",
+  "외인귀환에불붙은‘삼전닉스’…코스피불기둥더타오를까",
+  "SK트리켐,고용부'2026노사문화우수기업'선정",
+  "증시반등에드리운'공매도'그림자…대차잔고8월들어40조'쑥'"
  ],
  "recent_sigs": [
-  [
-   "2026-08-17T08:32:43.217333+09:00",
-   "SK그룹 전남광주특별시의회 동부권 원대 초당적 100조 투자계획"
-  ],
-  [
-   "2026-08-17T08:40:59.612050+09:00",
-   "GW까지 550조 왔나 메가프로젝트 투자한다는데 계통접속은"
-  ],
   [
    "2026-08-17T08:51:02.449517+09:00",
    "복병 천스닥 다시 삼전닉스로 회복에 몰린다"
@@ -6467,9 +6459,25 @@
   [
    "2026-08-17T14:31:16.356566+09:00",
    "재계약 입는다 전북현대 계속 유니폼 티아고와 녹색 해결사"
+  ],
+  [
+   "2026-08-17T14:41:05.789560+09:00",
+   "시현 2분기 445억 248억 1조 매출 영업익 SK네트웍스"
+  ],
+  [
+   "2026-08-17T14:41:05.789560+09:00",
+   "불붙은 코스피 귀환에 외인 불기둥 타오를까 삼전닉스"
+  ],
+  [
+   "2026-08-17T14:41:05.789560+09:00",
+   "SK트리켐 노사문화 고용부 우수기업 선정"
+  ],
+  [
+   "2026-08-17T14:41:05.789560+09:00",
+   "반등에 증시 들어 40조 그림자 대차잔고 8월 공매도 드리운"
   ]
  ],
- "last_run": "2026-08-17T14:31:29.621095+09:00",
+ "last_run": "2026-08-17T14:41:19.669244+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
