@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271762",
-  "https://dealsite.co.kr/articles/167162",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03220966645547320",
-  "https://www.newsis.com/view/NISX20260814_0003748744",
-  "https://www.mt.co.kr/society/2026/08/14/2026081408045513561",
-  "https://biz.sbs.co.kr/article_hub/20000328698?division=NAVER",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03270166645547320",
-  "https://www.thepublic.kr/news/articleView.html?idxno=314805",
   "https://magazine.hankyung.com/business/article/202608140767b",
   "https://www.sentv.co.kr/article/view/sentv202608140009",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608120953446720108021",
@@ -2999,17 +2991,17 @@
   "https://www.viva100.com/article/20260817500176",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/17/2026081700017.html",
   "https://www.newsis.com/view/NISX20260817_0003751283",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307291"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307291",
+  "https://www.sportschosun.com/life/2026-08-17/202608170100095900006116",
+  "https://www.sportschosun.com/life/2026-08-17/202608170100095860006113",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608170107&t=NN",
+  "https://www.lecturernews.com/news/articleView.html?idxno=208752",
+  "https://www.viva100.com/article/20260817500188",
+  "https://www.dailian.co.kr/news/view/1679015/?sc=Naver",
+  "https://economist.co.kr/article/view/ecn202608170006",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720600"
  ],
  "seen_titles": [
-  "[어제장오늘장]기술적강세장진입…코스피상승세이어질까",
-  "SK최태원회장'운명의날'…재상고안하면노소영에9440억원,하루이...",
-  "최태원·노소영9년소송오늘기로…'약1조'재산분할확정될까",
-  "[굿모닝!글로벌뉴욕증시]예상치를밑돈물가지표와유가하락에기술...",
-  "삼성전자·SK하이닉스,프리마켓서동반상승…미PPI둔화호재",
-  "물가·유가동반하락세에투심개선…삼전닉스프리마켓서3~6%강세",
-  "[AIMY증시전망]코스피,美PPI안도·반도체강세에상승전망",
-  "美물가안정에뉴욕증시상승…S&P500사상최고[뉴스새벽배송]",
   "美PPI안도·샌디스크發호재에…삼전3%·하닉5.8%강세[마켓시그널...",
   "[산업부·기후부장차관일정(2026년8월14일)]",
   "[박정식의국내주식시황]반도체를중심으로시장상승및실적주장세...",
@@ -6001,7 +5993,15 @@
   "제주항공,제주SKFC홈경기서브랜드데이…항공권증정·할인행사",
   "삼전닉스,반년만에현금117조늘어…투자실탄278조로'두둑'",
   "단일종목레버리지로거래소·증권사수수료1200억벌었다",
-  "'455억'박정원vs'빈손'이재용···주가폭등가른총수보수"
+  "'455억'박정원vs'빈손'이재용···주가폭등가른총수보수",
+  "제주항공,제주SK홈경기서브랜드데이개최…“스포츠로고객접점확...",
+  "SK트리켐,‘노사문화우수기업’선정…“신뢰기반노사관계구축”",
+  "'돌아온외국인'순매수에코스피5일연속'빨간불'",
+  "[코스피·코스닥지수]코스피변동성커졌다…\"시장안정장치정교화하...",
+  "단일종목레버리지ETF,두달간수수료1000억넘어",
+  "제주항공,축구장서승무원시축…제주SK팬들과‘브랜드데이’",
+  "\"거래소·증권사만배불렸다\"…단일종목레버리지수수료1천억훌쩍",
+  "현금88조·ADR40조에도…SK하이닉스,왜솔리다임IPO인가"
  ],
  "recent_sigs": [
   [
@@ -6325,7 +6325,7 @@
    "총수 빈손 가른 455억 박정원 폭등 보수 이재용 vs 주가"
   ]
  ],
- "last_run": "2026-08-17T09:51:13.916538+09:00",
+ "last_run": "2026-08-17T10:01:21.641016+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
