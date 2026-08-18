@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6260470",
-  "https://www.mediapen.com/news/view/1116788",
-  "https://www.goal.com/kr/뉴스/a/blt758dca051887e01b",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309010",
   "https://www.econovill.com/news/articleView.html?idxno=748121",
   "https://www.g-enews.com/view.php?ud=202608161009395609fbbec65dfb_1",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=363845",
@@ -2999,13 +2995,13 @@
   "https://sports.donga.com/sports/article/all/20260818/134496082/1",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=405053",
   "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260818&SEQUENCE=0119",
-  "https://www.mk.co.kr/article/12127759"
+  "https://www.mk.co.kr/article/12127759",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7179499",
+  "https://www.tbc.co.kr/news/view?pno=20260811145431AE03756&id=209916",
+  "https://www.newstnt.com/news/articleView.html?idxno=714321",
+  "https://www.hankyung.com/article/2026081881317"
  ],
  "seen_titles": [
-  "규제철퇴맞은단일종목레버리지,거래대금반등에도'팔자'쏠림",
-  "[오피셜]코스타감독체제날아오르는제주,성남서'멀티플레이어'박...",
-  "삼성·SK하이닉스주주환원'300조설'…배당·자사주에얼마풀까",
-  "[IT큐레이션]오픈웨이트가AI패권경쟁의새전선이됐다",
   "SK하이닉스,美웨이퍼공장검토…칩플레이션경고",
   "[이슈]정유4사'14조원대호실적'…유통망다지고신사업키운다",
   "반도체살아나자코스피도'활짝'…외국인6.5조귀환",
@@ -6001,7 +5997,11 @@
   "주도하는축구,냉철한영입판단부터빈틈없는스쿼드관리까지…‘벤...",
   "독파모2차평가,LG·SKT·업스테이지3파전···탈락한모티프",
   "\"메가프로젝트최우선\"김민석체제..충북영향은",
-  "수백조‘돈폭탄’오매불망…애간장태우는하이닉스[재계톡톡]"
+  "수백조‘돈폭탄’오매불망…애간장태우는하이닉스[재계톡톡]",
+  "LGAI연구원,국가대표AI뽑는'독파모'프로젝트준결승진출",
+  "'물먹는하마'데이터센터?...포항시대책은'아직'",
+  "[특징주]한주에이알티,21일신주추가상장…한국첨단소재·엑시온그룹...",
+  "코스피에또'뭉칫돈'몰렸다…외국인'7조'쓸어담은종목"
  ],
  "recent_sigs": [
   [
@@ -6863,9 +6863,21 @@
   [
    "2026-08-18T21:11:13.923106+09:00",
    "애간장 오매불망 폭탄 하이닉스 수백조 태우는"
+  ],
+  [
+   "2026-08-18T21:21:08.987586+09:00",
+   "먹는 아직 포항시 대책은 하마 데이터센터"
+  ],
+  [
+   "2026-08-18T21:21:08.987586+09:00",
+   "한국첨단소재 엑시온그룹 신주 한주에이알티 21일 추가상장"
+  ],
+  [
+   "2026-08-18T21:21:08.987586+09:00",
+   "7조 외국인 뭉칫돈 코스피에 쓸어담은 종목 몰렸다"
   ]
  ],
- "last_run": "2026-08-18T21:11:20.014428+09:00",
+ "last_run": "2026-08-18T21:21:21.640220+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
