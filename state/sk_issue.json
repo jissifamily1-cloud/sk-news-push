@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202608092006025",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=861094",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=833733",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1172551",
   "https://www.khan.co.kr/article/202608092025005",
   "https://www.mydaily.co.kr/page/view/2026080918400203691",
   "https://www.segye.com/newsView/20260809512076?OutUrl=naver",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/photos/8059926",
   "https://www.news1.kr/photos/8059923",
   "https://www.news1.kr/photos/8059925",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=44245"
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=44245",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16375",
+  "https://www.jejusori.net/news/articleView.html?idxno=505635",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608180003",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=608657"
  ],
  "seen_titles": [
-  "[아침을열며]검찰수사권이없는나라",
-  "합수본,'투표율허위입력의혹'충북도·진천군선관위압색",
-  "韓축구최악의사건,옆나라일본까지파괴…日축구협회'심판성접대...",
-  "여름철아이목감기늘어난다…감기와다른증상은",
   "신상품아닌데도“입점장려금내라”농협하나로갑질",
   "대한축구협회,축구대표팀경기심판성접대논란…일본인심판도의혹...",
   "법카로성접대…10년만에들통난‘축협의민낯’[현장메모]",
@@ -6001,7 +5997,11 @@
   "'헤이딜러'갑질공정위신고기자회견",
   "'헤이딜러'갑질피해자의제보",
   "참여연대·민변,'헤이딜러'갑질공정위신고",
-  "대기업브랜드사용료2조2000억원돌파…SK,LG제치고첫1위"
+  "대기업브랜드사용료2조2000억원돌파…SK,LG제치고첫1위",
+  "[ESG실무]⑥기업ESG정보'검증'의시대…그린워싱·공시리스크함께...",
+  "'정치권로비의혹'경찰,제주아파트시행사압수수색",
+  "대기업간판값1위는SK…하이닉스업고6년만에LG제쳐",
+  "대기업'간판값'처음2조넘었다…SK·LG·한화순"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "벌어 2조 지주사 지난해 대기업 사용료로 상표권"
   ]
  ],
- "last_run": "2026-08-18T10:50:57.082199+09:00",
+ "last_run": "2026-08-18T11:01:06.972561+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
