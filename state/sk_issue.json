@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6560554",
-  "http://www.apparelnews.co.kr/news/news_view/?idx=226796",
   "https://www.ytn.co.kr/_ln/0103_202608101336297319",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632828",
   "https://www.ytn.co.kr/_ln/0103_202608101332106815",
@@ -2999,11 +2997,11 @@
   "https://imnews.imbc.com/news/2026/society/article/6845544_36918.html",
   "https://www.yna.co.kr/view/AKR20260818155700004?input=1195m",
   "https://www.viva100.com/article/20260818501268",
-  "https://imnews.imbc.com/news/2026/society/article/6845540_36918.html"
+  "https://imnews.imbc.com/news/2026/society/article/6845540_36918.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH2026081817592101T",
+  "https://www.ajunews.com/view/20260818175507089"
  ],
  "seen_titles": [
-  "정몽규·이임생'휴대전화교체'정황…'홍명보선임'수사확대",
-  "파인드카푸어X배리웨이,협업컬렉션출시",
   "경찰\"축구협회성접대의혹,소추요건검토필요\"",
   "경찰,스타벅스논란두달만에압수수색에“늦은건아니다”",
   "경찰\"스타벅스관계자의도가중요\"...'늑장수사'는부인",
@@ -6001,7 +5999,9 @@
   "검찰,하청업체외국인노동자사망사고책임회피시도한원청대표구...",
   "이태한선관위특별검사임명…투표율조작·해외출장'윗선'정조준",
   "이대통령,‘선관위특검’에이태한임명…최장150일수사",
-  "'쿠팡수사무마폭로'문지석검사\"압수수색영장에지청장격노\""
+  "'쿠팡수사무마폭로'문지석검사\"압수수색영장에지청장격노\"",
+  "검찰,쌍방울그룹압수수색…주가조작의혹수사",
+  "선관위특검출범…투표용지부족포함12개의혹본격수사"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "회장의 인정 매각 지분 잔여 프리미엄 여부 SK실트론 경영권 최태원"
   ]
  ],
- "last_run": "2026-08-18T17:58:53.077946+09:00",
+ "last_run": "2026-08-18T18:01:11.991823+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
