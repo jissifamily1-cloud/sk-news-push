@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608141941316542",
-  "https://www.ajunews.com/view/20260814193731023",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545227",
-  "https://www.g-enews.com/view.php?ud=20260814193915720924debea800_1",
-  "http://www.yonhapnewstv.co.kr/news/MYH202608141941513dH",
-  "https://www.newsis.com/view/NISI20260814_0021399728",
-  "https://www.newsis.com/view/NISI20260814_0021399727",
-  "https://www.newsis.com/view/NISI20260814_0021399729",
-  "https://www.ytn.co.kr/_ln/0103_202608141939331138",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212638",
   "http://www.bizwnews.com/news/articleView.html?idxno=143381",
   "https://www.newscj.com/news/articleView.html?idxno=3425274",
@@ -2999,18 +2990,18 @@
   "https://www.ziksir.com/news/articleView.html?idxno=143444",
   "https://byline.network/?p=9004111222615631",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03663766645548632",
-  "https://www.ajunews.com/view/20260818122041028"
+  "https://www.ajunews.com/view/20260818122041028",
+  "https://news.bizwatch.co.kr/article/mobile/2026/08/18/0011",
+  "http://www.paxetv.com/news/articleView.html?idxno=279618",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430538",
+  "https://view.asiae.co.kr/article/2026081812373144065",
+  "https://www.joongang.co.kr/article/25454100",
+  "https://www.sedaily.com/article/20080339",
+  "https://www.kbsm.net/news/view.php?idx=530648",
+  "https://www.viva100.com/article/20260818500580",
+  "https://www.news1.kr/it-science/internet-platform/6261753"
  ],
  "seen_titles": [
-  "목포대·순천대협상재개…‘100조투자’지렛대될까?",
-  "상반기보수1위두산박정원455억...'주가급등'RSU덕",
-  "통신3사CEO상반기보수킹은홍범식LGU+…18억1600만원수령",
-  "코스피상승에베팅한개인들…‘TIGER200’에1조원몰려",
-  "박정원두산회장,상반기보수455억원'최고'…주가상승영향",
-  "바이낸스,네이버·LG전자등무기한선물출시…국내계정은차단",
-  "‘9440억분할’재상고시한곧마감…최태원고심중",
-  "SK이노·테라파워,美SMR협력확대…‘K-나트륨’사업모델검토",
-  "코스피,닷새연속상승…7,000선턱밑마감",
   "SK이노베이션,테라파워와나트륨SMR사업협력과차세대SMR의글로벌...",
   "최태원-노소영'세기의재산분할'재상고여부는?[이슈플러스]",
   "최태원·노소영이혼오늘마지막시한…하루지연이자만1억3천만원",
@@ -6001,7 +5992,16 @@
   "LG·SKT·업스테이지,독파모2차통과…3차서최종2개팀선발",
   "독파모2차업스테이지·SKT·LGAI연구원통과…모티프탈락",
   "'국가대표AI'2차평가,업스테이지·SKT·LG勝…정부\"AI전략대대적개...",
-  "과기정통부,국대AI판다시짠다…\"프론티어급모델경쟁가능하게\""
+  "과기정통부,국대AI판다시짠다…\"프론티어급모델경쟁가능하게\"",
+  "독파모2차평가모티프탈락…SKT·LG·업스테이지진출",
+  "혜인,상반기영업익전년比58.7%증가...\"신성장동력확대\"",
+  "개인'팔자'에코스피다시7,000선아래로…외국인은9천억'사자'",
+  "독파모업스테이지·SKT·LG3파전…3차평가최종전남았다(종합)",
+  "독파모최종2팀내년초선정…“지원방식은전면재검토”",
+  "삼전팔고삼전우샀다…29%가격차·특별배당기대[주식초고수는지금...",
+  "구미상의,본사지역소재매출액상위100대기업경영실적분석",
+  "‘빚투’다시30조원대…삼성전자·SK하이닉스로31%쏠렸다",
+  "'독파모'3차평가까지기존체계유지…내년초2개팀선정"
  ],
  "recent_sigs": [
   [
@@ -6979,9 +6979,17 @@
   [
    "2026-08-18T12:41:09.579249+09:00",
    "경쟁 과기정통부 프론티어급 다시 가능하게 모델 국대AI 짠다"
+  ],
+  [
+   "2026-08-18T12:51:04.941700+09:00",
+   "다시 쏠렸다 30조원대 삼성전자 빚투 SK하이닉스로"
+  ],
+  [
+   "2026-08-18T12:51:04.941700+09:00",
+   "유지 내년 선정 3차 2개 평가까지 기존 독파모 체계"
   ]
  ],
- "last_run": "2026-08-18T12:41:15.676741+09:00",
+ "last_run": "2026-08-18T12:51:14.239995+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
