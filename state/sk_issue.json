@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.impacton.net/news/articleView.html?idxno=19699",
-  "https://www.bloter.net/news/articleView.html?idxno=669076",
-  "https://www.seoul.co.kr/news/economy/2026/08/10/20260810031002?wlog_tag3=naver",
-  "https://www.segye.com/newsView/20260809511976?OutUrl=naver",
   "https://www.yna.co.kr/view/AKR20260807096400004?input=1195m",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553444120",
   "https://www.goal.com/kr/뉴스/a/blta2e573c8c7f2bf04",
@@ -2999,13 +2995,13 @@
   "http://www.newsworker.co.kr/news/articleView.html?idxno=441488",
   "https://www.newsis.com/view/NISX20260818_0003752365",
   "https://www.nocutnews.co.kr/news/6564045",
-  "https://www.ytn.co.kr/_ln/0103_202608180916441991"
+  "https://www.ytn.co.kr/_ln/0103_202608180916441991",
+  "https://news.tf.co.kr/read/national/2354951.htm",
+  "https://www.newdaily.co.kr/site/data/html/2026/08/18/2026081800133.html",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84586",
+  "https://biz.chosun.com/policy/policy_sub/2026/08/18/5RNGXBJFQ5ADBHAWFVCVINSMKA/"
  ],
  "seen_titles": [
-  "【클릭ESG】억대외주없앤AI…ESG담당자야근은그대로?",
-  "[롯데건설리빌딩]④달라진포트폴리오'플랜트·ESG경영'드라이브",
-  "‘납품·입점업자에갑질’농협하나로유통과징금4.6억",
-  "[이코노브리핑]NXT,프리마켓상·하한가주문금지외",
   "경찰'직원간사건문의금지'있으나마나…6년간징계3건뿐",
   "\"대한민국서성접대,진상조사착수\"...'초유의사태'일본축구협회,K...",
   "“다수의구성원조차제대로몰랐던십수년전일…”축구협회사과문...",
@@ -6001,7 +5997,11 @@
   "한화,KAI지분확보하며경영참여선언하자…KAI노조\"독립성훼손\"공...",
   "시민단체·민변,'중고차딜러갑질의혹'헤이딜러공정위신고",
   "여고생성추행하고아내에게덮어씌운60대재판행",
-  "종합특검,'관저이전의혹'김건희·윤한홍이르면오늘기소"
+  "종합특검,'관저이전의혹'김건희·윤한홍이르면오늘기소",
+  "KT넷코어,계약서에도없는유지보수업무떠넘기고대금미지급…'갑질...",
+  "檢,민중민주당간부9명기소…\"北사상동조단체계승\"",
+  "대기업상표권수익'역대최대'2.2조원…SK·LG·한화·CJ順",
+  "대기업집단,상표권사용료2.2조원‘역대최대’…SK·LG·한화순"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "벌어 2조 지주사 지난해 대기업 사용료로 상표권"
   ]
  ],
- "last_run": "2026-08-18T11:31:05.896102+09:00",
+ "last_run": "2026-08-18T11:41:01.130714+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
