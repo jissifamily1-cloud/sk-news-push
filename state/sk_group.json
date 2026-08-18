@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=748124",
-  "https://www.the-today.com/news/articleView.html?idxno=88540",
-  "https://www.hankyung.com/article/2026081641891",
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96460",
-  "http://www.lak.co.kr/news/boardview.php?id=23710",
-  "http://www.fnnews.com/news/202608161836586750",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000003472&cp=nv",
   "https://www.pennmike.com/news/articleView.html?idxno=125785",
   "https://www.tokenpost.kr/news/market/391654",
@@ -2999,15 +2993,15 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=93884",
   "https://www.etoday.co.kr/news/view/2615680",
   "https://www.g-enews.com/view.php?ud=202608190638032731e250e8e188_1",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720796"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720796",
+  "https://www.ajunews.com/view/20260819064740378",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260819064957wey",
+  "https://biz.chosun.com/international/international_economy/2026/08/19/COM2FHYEXRDZLODCR3N5F6LZKM/",
+  "https://www.globale.co.kr/news/articleView.html?idxno=39928",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93891",
+  "https://news.bizwatch.co.kr/article/industry/2026/08/18/0035"
  ],
  "seen_titles": [
-  "토스증권\"솔리다임IPO,SK하이닉스주주엔불리\"왜?",
-  "\"앞으로반도체쏠림덜할것\"[한경프리미엄9TODAY]",
-  "[k1.live]'K리그최고신예'성예건-김예건맞대결성사…부천은'신입...",
-  "이천시,‘첨단산업·자연공존’2040경관계획만든다",
-  "'남산곤돌라'취소소송,20일항소심결과나온다",
-  "‘현금+주식’거절에재상고…최회장이대법원行택한사정",
   "반도체'빚투'다시고개...삼성전자·SK하이닉스신용잔고나란히급증",
   "상위3종목74.84%,라운드힐메모리ETF집중",
   "[증시프리즘]외국인이돌아왔다…코스피5일연속상승이끈'바이코리...",
@@ -6001,7 +5995,13 @@
   "[초점]AI·로봇이바꾼일자리지도…'많이뽑는제조업'은끝났다",
   "2분기수출절반책임진5대기업…반도체호황에쏠림심화",
   "질주하던마이크론·샌디스크·WDC급제동…AI호황랠리시험대",
-  "외국인8조귀환했지만…순매수87%'삼전닉스'에몰렸다"
+  "외국인8조귀환했지만…순매수87%'삼전닉스'에몰렸다",
+  "[뉴욕증시마감]美국채금리급등에일제히하락…나스닥1.3%↓",
+  "[글로벌증시]고금리충격에일제하락…나스닥1.3%↓",
+  "중동發불안에유가상승·글로벌국채금리급등에…뉴욕증시,일제히...",
+  "뉴욕증시,중동불안·국채금리급등에3일연속하락···나스닥1.33%↓",
+  "대기업고액연봉자보수36%가'주식'…SK·두산에63%몰렸다",
+  "[단독]5500억떼인SK…'플루투스캐피탈'주식전환"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,13 @@
   [
    "2026-08-19T06:51:03.995382+09:00",
    "8조 몰렸다 순매수 귀환했지만 외국인 삼전닉스"
+  ],
+  [
+   "2026-08-19T06:56:23.514040+09:00",
+   "5500억 떼인 캐피탈 플루투스 주식"
   ]
  ],
- "last_run": "2026-08-19T06:51:17.772292+09:00",
+ "last_run": "2026-08-19T06:56:29.014406+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
