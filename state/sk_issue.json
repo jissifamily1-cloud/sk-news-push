@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koscaj.com/news/articleView.html?idxno=325667",
-  "https://www.segye.com/newsView/20260810500560?OutUrl=naver",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02364886645544040",
-  "https://www.g-enews.com/view.php?ud=2026081007003211282bd56fbc3c_1",
-  "https://dealsite.co.kr/articles/166624",
-  "https://economist.co.kr/article/view/ecn202608040015",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=224574",
-  "https://www.starnewskorea.com/sports/2026/08/10/2026081005553032141",
-  "https://www.wikitree.co.kr/articles/1151377",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336321",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691107",
   "https://www.sidae.com/article/2026081007125569896",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211300",
   "https://www.news1.kr/local/moi/6248154",
@@ -2999,20 +2988,20 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7179000",
   "https://www.dailian.co.kr/news/view/1679376/?sc=Naver",
   "https://www.joongang.co.kr/article/25454121",
-  "https://www.ytn.co.kr/_ln/0103_202608181403049318"
+  "https://www.ytn.co.kr/_ln/0103_202608181403049318",
+  "https://www.yna.co.kr/view/PYH20260818104400013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260818104000013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260818104100013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260818103300013?input=1196m",
+  "https://www.segye.com/newsView/20260818513496?OutUrl=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667289",
+  "https://www.mk.co.kr/article/12130147",
+  "https://news.jtbc.co.kr/article/NB12313834?influxDiv=NAVER",
+  "http://www.ddanzi.com/892073859",
+  "https://www.segye.com/newsView/20260818513819?OutUrl=naver",
+  "https://www.sidae.com/article/2026081812224950464"
  ],
  "seen_titles": [
-  "불공정거래관행근절,전문·종합상생협력첫걸음",
-  "‘월드컵충격탈락에외인심판성접대까지…’추락하는한국축구를...",
-  "[포토]용산구,청년도전지원사업’단기참여자모집",
-  "미국반격나섰다…한미AI동맹'규제암초'",
-  "[LX출범5년]덩치커졌지만실속없어…경기민감도높은사업'한계'",
-  "승소율90%라더니6247억토해냈다…공정위통계의착시",
-  "【오늘의법조】2026년8월10일",
-  "'충격'日\"韓심판성접대논란,일본축구협회가조사착수...공식발표...",
-  "이강인,한국축구상황에입열었다…“좋은상황아니지만...”",
-  "\"폐버스청년주택\"제안에조선일보\"청년들분노에불질러\"",
-  "증권사·디지털자산밀착제동?...금융당국'플랫폼결합'예의주시",
   "'심판성접대의혹'일파만파…일본축구협회,자국심판4명조사",
   "경찰수사권커졌는데…6년간사건문의48건",
   "용산구,미취업청년대상5주취업지원…28일까지모집",
@@ -6001,7 +5990,18 @@
   "국고채담합에최대15조원과징금…고금리덫에걸린증권업계",
   "가습기살균제피해자,서울시와빈소·천막설치두고대치계속…李대...",
   "경찰‘마약좀비’남성자택압수수색…마약류투약정황포착",
-  "'잇단끼임사망'노동부,현대중공업고강도감독착수"
+  "'잇단끼임사망'노동부,현대중공업고강도감독착수",
+  "눈물흘리는유가족",
+  "구호외치는가습기살균제피해자들",
+  "서울시관계자들과대치하는가습기살균제피해자들",
+  "2차사회적참사특조위촉구하는가습기살균제피해자들",
+  "“문제제기하자계정차단”…중고차플랫폼‘헤이딜러’갑질고발",
+  "고용노동부,HD현대중공업본사·공장중대재해감독돌입",
+  "[단독]검찰,‘주가조작의혹’쌍방울그룹전격압수수색",
+  "수원'마약좀비'압수수색…경찰,새마약투약정황포착",
+  "[20260818]요약은더힘들다뉴스공장",
+  "제주경찰,정관계로비의혹아파트분양사무실압수수색…본격수사",
+  "권기창안동시장측근구속기소"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "간판값 작년 역대 LG 3499억 대기업집단 3490억원 2조"
   ]
  ],
- "last_run": "2026-08-18T14:10:56.143136+09:00",
+ "last_run": "2026-08-18T14:20:57.281899+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
