@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357490",
-  "https://www.koreatimes.co.kr/path/A2026081616480003674",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60687",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168277",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=126034",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260816507&PRO_CODE=99",
-  "https://www.kukinews.com/article/view/kuk202608160020",
-  "https://www.hankyung.com/article/2026081641991",
-  "https://www.hankyung.com/article/2026081642111",
-  "https://www.joongang.co.kr/article/25453730",
   "https://www.hankyung.com/article/2026081642071",
   "https://www.hankyung.com/article/2026081642091",
   "https://biz.heraldcorp.com/article/10841795",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2615600",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=85410",
   "http://www.fnnews.com/news/202608181809558898",
-  "https://www.ddaily.co.kr/page/view/2026081810542577195"
+  "https://www.ddaily.co.kr/page/view/2026081810542577195",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=281147",
+  "https://www.seoul.co.kr/news/economy/2026/08/19/20260819500007?wlog_tag3=naver",
+  "https://www.news2day.co.kr/article/20260818500072",
+  "https://www.news1.kr/it-science/cc-newmedia/6262118",
+  "https://www.mk.co.kr/article/12130734",
+  "https://biz.chosun.com/topics/law_firm/2026/08/19/537K3KHNYJFPTOKGLVNSCQGVJM/",
+  "https://www.sedaily.com/article/20080594",
+  "https://biz.chosun.com/it-science/ict/2026/08/19/LCIHLRY3ZZF4NG5XPOMALM3NVE/",
+  "https://www.hankyung.com/article/2026081878111",
+  "https://biz.chosun.com/industry/company/2026/08/19/YLJGMNLICZCPFM5SLAFJ76ULUA/"
  ],
  "seen_titles": [
-  "Nostocks,justcash:SKchairmanappeals$666mil.divorcesettlement",
-  "최태원,재산분할9,440억재상고...\"현금+주식\"vs\"전액현금\"이견",
-  "4대은행원상반기평균급여7150만원…삼성전자앞질러",
-  "[KBL유스]\"우리팀의장점은팀워크!\"정관장U144강진출이끈포워드...",
-  "'세기의이혼'최태원,재상고배경엔'9440억지급방식'에의견차",
-  "최태원9440억‘일부주식지급’,노소영‘전액현금’…결국재상고",
-  "교부금개편효과에미래기금100조로커진다",
-  "교육교부금'내국세연동제'54년만에없앤다",
-  "재상고하는최태원…‘연472억’이자막고SK주가띄운다",
-  "[단독]공작기계상반기수주8년만에최대",
   "[단독]年수익률20%…변동장에돌아온ELS",
   "“‘삼전닉스’는알겠는데”국민연금이싹쓸이한‘이주식’…40→7...",
   "[이승욱의포인트]강제집행부담에'기여도'논쟁까지…최태원,고심...",
@@ -6001,7 +5991,17 @@
   "코스피7000선복귀시도…급락종목10곳중6곳가격회복",
   "AI주급락뉴욕증시3거래일연속하락…나스닥1.3%↓",
   "최태원發오버행덜고하이닉스뜨고…SK'할인딱지'뗀다[증시는왜]",
-  "[서버주권①]\"메모리한개300만원\"…서버예산은작년그대로"
+  "[서버주권①]\"메모리한개300만원\"…서버예산은작년그대로",
+  "뉴욕증시,미국채금리급등·고유가에하락...나스닥1.3%↓",
+  "[서울데이터랩]미국증시,기술주·반도체주약세에일제히하락마감",
+  "[N2모닝경제브리핑-8월19일]美증시,장기금리급등에하락…반도체...",
+  "독파모3파전,모델뜯어보니…LG'초대형'·SKT'추론'·업스테이지'효...",
+  "“도박하듯주식하는버릇,안바뀌네요”…레버리지막자‘빚투’늘...",
+  "베이조스는‘의결권없는주식’줬다…대법원가는최태원9440억‘...",
+  "삼성·SK·현대차그룹,100조美메가투자속도낸다",
+  "메모리떠났던인텔,‘포스트HBM’기술노린다…삼성·SK에변수될까",
+  "\"AI검증하느라일더늘어\"…뒷감당은결국개발자몫",
+  "“중동戰에품귀”...정유업계실적‘1등공신’된윤활유"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,41 @@
   [
    "2026-08-19T06:11:34.273520+09:00",
    "그대로 메모리 작년 예산은 서버 300만원"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "반도체 증시 급등에 장기금리 하락"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "초대형 3파전 LG 뜯어보니 업스테이지 추론 독파모 모델 SKT"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "바뀌네요 버릇 도박하듯 주식하는 빚투 레버리지 막자"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "주식 의결권 줬다 베이조스는 가는 없는 최태원 대법원 9440억"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "100조 삼성 메가투자 현대차그룹 속도낸다"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "HBM 기술 변수될까 메모리 인텔 노린다 삼성 떠났던 SK에 포스트"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "결국 검증하느라 늘어 AI 개발자 뒷감당은"
+  ],
+  [
+   "2026-08-19T06:21:05.827256+09:00",
+   "윤활유 1등 공신 품귀 중동 실적 정유업계"
   ]
  ],
- "last_run": "2026-08-19T06:12:28.872870+09:00",
+ "last_run": "2026-08-19T06:21:30.457193+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
