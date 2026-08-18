@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/distribution/6252458",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1393903",
-  "https://economist.co.kr/article/view/ecn202608040035",
-  "https://www.newsis.com/view/NISX20260809_0003741895",
-  "https://biz.sbs.co.kr/article_hub/20000327561?division=NAVER",
   "https://economist.co.kr/article/view/ecn202608080004",
   "https://economist.co.kr/article/view/ecn202608050011",
   "https://www.sisain.co.kr/news/articleView.html?idxno=58297",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260818_0003752377",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608181007459390278",
   "https://www.greened.kr/news/articleView.html?idxno=347838",
-  "https://www.jejudomin.co.kr/news/articleView.html?idxno=321392"
+  "https://www.jejudomin.co.kr/news/articleView.html?idxno=321392",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16418",
+  "https://www.khan.co.kr/article/202608181354001",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101276",
+  "https://www.seoul.co.kr/news/society/accident/2026/08/18/20260818500118?wlog_tag3=naver",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93123"
  ],
  "seen_titles": [
-  "[기자의눈]'점주보호'만앞세운가맹규제,균형이필요하다",
-  "\"취지는공감,현실은외면\"…새벽배송·플랫폼규제에업계반발",
-  "담합과징금은1.8조인데…피해소비자몫은‘0원’",
-  "축구협회,성접대논란사과…\"쇄신의기회로삼겠다\"[간추린주말뉴스...",
-  "'환자·건보부담가중'의료기기간납업체,공정위제재'전무'",
   "과징금2조시대…이재명정부공정위는공정한가",
   "“과징금보다공정위조사가더무섭다”…기업이떠는이유",
   "투표자수꿰맞추려다일을키워버린선관위",
@@ -6001,7 +5996,12 @@
   "여고생추행한남편의부탁…현장없던아내는송치됐다",
   "대기업집단,작년간판값2.2조역대최대…SK3499억ㆍLG3490억원",
   "\"문제제기하면계정차단\"…참여연대·민변,헤이딜러공정위신고",
-  "효성해링턴플레이스제주파문'일파만파'"
+  "효성해링턴플레이스제주파문'일파만파'",
+  "韓·美소비자모두'그린철강차'원해…현대차·기아전환은더디다",
+  "경찰‘정관계로비의혹’아파트시행사본격수사착수···압수수색",
+  "경찰,'효성해링턴플레이스제주'시행사압수수색…정치권로비의혹...",
+  "정치권로비의혹으로번진…제주아파트시행사압수수색",
+  "80개대기업집단,작년간판값2.2조받았다…SK·LG·한화순"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "간판값 작년 역대 LG 3499억 대기업집단 3490억원 2조"
   ]
  ],
- "last_run": "2026-08-18T13:50:57.476991+09:00",
+ "last_run": "2026-08-18T13:57:43.168764+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
