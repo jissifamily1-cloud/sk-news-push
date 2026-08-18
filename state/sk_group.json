@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720384",
-  "https://www.joongang.co.kr/article/25453246",
   "https://news.mtn.co.kr/news-detail/2026081319553646231",
   "https://www.ajunews.com/view/20260813193109358",
   "https://www.mk.co.kr/article/12126978",
@@ -2999,11 +2997,11 @@
   "https://www.tjb.co.kr/news05/bodo/view/id/102570",
   "https://www.etoday.co.kr/news/view/2615741",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608130055177790103996",
-  "http://www.datanews.co.kr/news/article.html?no=146053"
+  "http://www.datanews.co.kr/news/article.html?no=146053",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667937",
+  "https://biz.chosun.com/stock/stock_general/2026/08/19/C7IX743BMZFHDCBQCR42TM6MBQ/"
  ],
  "seen_titles": [
-  "[Biz&Now]SK하이닉스글로벌성장TF장에윤풍영",
-  "윤풍영SK수펙스사장,SK하이닉스'글로벌성장TF장'겸임",
   "SK하이닉스글로벌성장TF장에윤풍영SK수펙스사장",
   "하이닉스글로벌성장TF장에윤풍영SK수펙스사장임명",
   "윤풍영SK수펙스사장,'반도체슈퍼사이클'업고SK하이닉스사업확장...",
@@ -6001,7 +5999,9 @@
   "뉴욕증시,美국채금리상승에'비명'…필라델피아지수5.44%↓",
   "[증시키워드]반도체비중회복·기술주주목…엔비디아협력LG전자관...",
   "[더벨][CompanyWatch]저스템,상반기실적'퀀텀점프'…JFS공급본궤도",
-  "SK이노베이션,올해매출100조돌파가능하다"
+  "SK이노베이션,올해매출100조돌파가능하다",
+  "'미기술주폭락'삼성전자·SK하이닉스프리장서5~6%급락",
+  "[특징주]美고금리여파에…삼전닉스,프리마켓서5%급락"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,13 @@
   [
    "2026-08-19T08:48:55.417944+09:00",
    "SK이노베이션 돌파 가능하다 100조 매출 올해"
+  ],
+  [
+   "2026-08-19T08:51:03.402288+09:00",
+   "고금리 여파에 급락 프리마켓서 삼전닉스"
   ]
  ],
- "last_run": "2026-08-19T08:49:17.235377+09:00",
+ "last_run": "2026-08-19T08:51:08.929733+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
