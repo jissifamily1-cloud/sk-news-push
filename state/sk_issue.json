@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026081007125569896",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211300",
   "https://www.news1.kr/local/moi/6248154",
   "https://kpenews.com/View.aspx?No=4179861",
   "https://economist.co.kr/article/view/ecn202608040006",
@@ -2999,11 +2997,11 @@
   "https://news.jtbc.co.kr/article/NB12313834?influxDiv=NAVER",
   "http://www.ddanzi.com/892073859",
   "https://www.segye.com/newsView/20260818513819?OutUrl=naver",
-  "https://www.sidae.com/article/2026081812224950464"
+  "https://www.sidae.com/article/2026081812224950464",
+  "https://biz.chosun.com/topics/topics_social/2026/08/18/I5XPI5AKD5GO5PK3WA37SHFSBI/",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48218"
  ],
  "seen_titles": [
-  "'심판성접대의혹'일파만파…일본축구협회,자국심판4명조사",
-  "경찰수사권커졌는데…6년간사건문의48건",
   "용산구,미취업청년대상5주취업지원…28일까지모집",
   "하나증권“은행주,일부우려요인에도순환매장세서소외가능성낮...",
   "법원서이겨도끝아니다…기업에새겨진‘공정위주홍글씨’",
@@ -6001,7 +5999,9 @@
   "수원'마약좀비'압수수색…경찰,새마약투약정황포착",
   "[20260818]요약은더힘들다뉴스공장",
   "제주경찰,정관계로비의혹아파트분양사무실압수수색…본격수사",
-  "권기창안동시장측근구속기소"
+  "권기창안동시장측근구속기소",
+  "가습기살균제피해자들“참사진상재규명해야…李대통령과면담요구...",
+  "대기업,'간판값'연간2조2천억역대최대…SK·LG순"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "간판값 작년 역대 LG 3499억 대기업집단 3490억원 2조"
   ]
  ],
- "last_run": "2026-08-18T14:20:57.281899+09:00",
+ "last_run": "2026-08-18T14:31:07.281918+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
