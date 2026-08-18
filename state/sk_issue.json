@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ikbc.co.kr/article/view/kbc202608100026",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/10/2026081000134.html",
-  "https://www.newsis.com/view/NISX20260810_0003742735",
-  "https://www.ytn.co.kr/_ln/0103_202608101146228272",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80422",
   "https://www.joongang.co.kr/article/25452092",
   "https://www.tvreport.co.kr/breaking/article/1067605/",
@@ -2999,13 +2995,13 @@
   "https://view.asiae.co.kr/article/2026081815585196209",
   "https://www.khan.co.kr/article/202608181600011",
   "https://www.khan.co.kr/article/202608181600001",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30804"
+  "http://www.fieldnews.kr/news/articleView.html?idxno=30804",
+  "https://www.etoday.co.kr/news/view/2615596",
+  "https://www.jemin.com/news/articleView.html?idxno=841793",
+  "https://www.hankyung.com/article/202608187486i",
+  "https://www.newspim.com/news/view/20260818001099"
  ],
  "seen_titles": [
-  "청소년전문여행사'안데르센'환불지연·연락두절...소비자피해주...",
-  "선관위재검표놓고충돌…與\"18일실시\"野\"특검연계해야\"",
-  "與\"국힘,'부정선거'군불때기중단하고선관위개혁동참하라\"",
-  "투표끝났는데투표자수'널뛰기'...조작의혹확산",
   "'환불지연·연락두절'청소년여행사안데르센…피해주의보발령",
   "“환불지연·연락두절”…청소년여행사안데르센피해주의보",
   "'가족논란→5년공백→화가변신'女배우,파리초대전까지'승승장구...",
@@ -6001,7 +5997,11 @@
   "축늘어져서있던'수원마약좀비'30대…정밀감정서결국'양성'",
   "검찰,쌍방울그룹압수수색…주가조작의혹혐의",
   "구속중경찰조사실출석에‘4중결박’…고진수“과도한비인도적...",
-  "최태원회장의SK실트론잔여지분매각…'경영권프리미엄'인정여부..."
+  "최태원회장의SK실트론잔여지분매각…'경영권프리미엄'인정여부...",
+  "‘강남주차장추락사’업체대표이사,중대재해법위반혐의구속기소",
+  "제주시아파트건축·분양로비의혹…경찰,시행사압수수색",
+  "'불법하도급'근로자사망사고낸원청대표…서울첫중대재해법구속...",
+  "'쿠팡수사외압폭로'문지석\"엄희준,압수수색보고에격노…'혐의검..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "회장의 인정 매각 지분 잔여 프리미엄 여부 SK실트론 경영권 최태원"
   ]
  ],
- "last_run": "2026-08-18T16:11:04.333075+09:00",
+ "last_run": "2026-08-18T16:20:53.841730+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
