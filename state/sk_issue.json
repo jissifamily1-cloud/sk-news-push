@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswell.co.kr/news/articleView.html?idxno=20902",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/10/2026081000074.html",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855589",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3660149",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475852",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1533477",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/10/2026081090090.html",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/10/2026081000083.html",
-  "https://view.asiae.co.kr/article/2026080613500952639",
-  "http://www.fnnews.com/news/202608101047485192",
   "https://www.ngonews.kr/news/articleView.html?idxno=235039",
   "https://www.thepublic.kr/news/articleView.html?idxno=314329",
   "https://www.newdaily.co.kr/site/data/html/2026/08/10/2026081000076.html",
@@ -2999,19 +2989,19 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04116406645548632",
   "https://www.newsis.com/view/NISX20260818_0003752881",
   "https://www.khan.co.kr/article/202608181530001",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60695"
+  "https://www.lawtv.kr/news/articleView.html?idxno=60695",
+  "https://www.topdaily.kr/articles/111517",
+  "https://www.slist.kr/news/articleView.html?idxno=759519",
+  "https://www.mt.co.kr/society/2026/08/18/2026081814175425915",
+  "https://www.newdaily.co.kr/site/data/html/2026/08/18/2026081800252.html",
+  "https://www.hankyung.com/article/202608187230H",
+  "https://www.segye.com/newsView/20260818516898?OutUrl=naver",
+  "https://www.yna.co.kr/view/AKR20260818125000004?input=1195m",
+  "https://www.news1.kr/society/incident-accident/6261996",
+  "https://www.joongang.co.kr/article/25454162",
+  "https://view.asiae.co.kr/article/2026081815385484294"
  ],
  "seen_titles": [
-  "KDB생명3파전심판,금융위가꼭지켜봐야할흥국생명대주주'피의자...",
-  "합수본,중앙선관위압수수색계속…'외유성출장의혹'참고인조사",
-  "위닉스,해외공기청정기수출확대",
-  "박성훈\"간납업체저가→고가공급·리베이트비리지속\"",
-  "농협노조,창립일앞두고\"강호동회장사퇴하라\"정면겨냥",
-  "'투표통계조작의혹'합수본,중앙선관위압수수색계속",
-  "합수본,'투표율조작의혹'중앙선관위압수수색계속…'외유성출장'...",
-  "'심판성접대'의나라,韓축구는과거도현재도미래도죽었다",
-  "200억→수천억가능해진‘총수과징금’…주병기공정위,칼끝바꾼이...",
-  "6·3지방선거또'투표후조작정황'…현장집계보다30%줄기도",
   "\"청소년여행상품어쩌나\"…안데르센여행사사업중단에도모집글버젓...",
   "농협하나로유통,납품업체상대갑질적발…공정위과징금4억6200만원",
   "'봐주기수사'논란속상피제꺼냈지만…곳곳에실효성'물음표'",
@@ -6001,7 +5991,17 @@
   "방사청'뇌물사건'후폭풍…LIG·한화동시제재땐무기사업2년멈출...",
   "검찰,'주가조작의혹'쌍방울그룹압수수색…자본시장법위반혐의",
   "음성판정받았던‘수원마약영상’30대,모발정밀감정서‘양성’",
-  "대기업계열사가낸'간판값'2조원훌쩍...SK,사상첫1위로LG제쳐"
+  "대기업계열사가낸'간판값'2조원훌쩍...SK,사상첫1위로LG제쳐",
+  "한화,KAI15%다음수는…공정위넘어'수은지분'확보가핵심",
+  "'수원마약영상'30대,정밀감정서양성...경찰\"휴대전화서도투약정...",
+  "'선관위특검'출범임박…노태악위원장등윗선겨눈다",
+  "검찰,쌍방울그룹압수수색…'주가조작의혹'관련",
+  "고개떨군'수원좀비'마약맞았다…정밀감정서결국양성",
+  "검찰,‘주가조작의혹’쌍방울그룹압수수색",
+  "서울남부지검,쌍방울그룹압수수색…\"주가조작의혹\"",
+  "검찰쌍방울그룹압수수색…\"주가조작의심징후포착\"",
+  "검찰,쌍방울그룹전격압수수색…‘주가조작의혹’강제수사착수",
+  "\"고향살리자\"기부금66억원몰렸는데…답례품소고기원산지조작"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "간판값 작년 역대 LG 3499억 대기업집단 3490억원 2조"
   ]
  ],
- "last_run": "2026-08-18T15:40:58.712017+09:00",
+ "last_run": "2026-08-18T15:51:01.344008+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
