@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48186",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005901384",
-  "https://www.yna.co.kr/view/AKR20260813169400003?input=1195m",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444834",
-  "https://www.m-i.kr/news/articleView.html?idxno=1402671",
-  "https://www.etoday.co.kr/news/view/2614875",
-  "https://www.newsis.com/view/NISX20260814_0003750098",
-  "http://www.breaknews.com/1229142",
-  "https://www.tokenpost.kr/news/market/390814",
-  "https://dealsite.co.kr/articles/167276",
-  "https://www.sentv.co.kr/article/view/sentv202608140087",
   "https://www.mediajeju.com/news/articleView.html?idxno=365735",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4430258",
   "https://dealsite.co.kr/articles/167310",
@@ -2999,20 +2988,20 @@
   "https://www.etoday.co.kr/news/view/2615358",
   "https://www.mk.co.kr/article/12129954",
   "http://www.e-platform.net/news/articleView.html?idxno=104601",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=156179"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156179",
+  "https://www.hani.co.kr/arti/economy/it/1272995.html",
+  "http://www.tjb.co.kr/sub0301/bodo/view/id/102444",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=06104086645547320",
+  "https://www.nocutnews.co.kr/news/6563991",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7179377",
+  "https://www.ngonews.kr/news/articleView.html?idxno=235718",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720688",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268813",
+  "https://www.newsis.com/view/NISX20260818_0003752262",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274943",
+  "https://www.investchosun.com/site/data/html_dir/2026/08/18/2026081880064.html"
  ],
  "seen_titles": [
-  "[핫이슈]최태원·노소영재상고기한'코앞'…9년만에종결되나",
-  "SK네트웍스·바디프랜드,2분기세전이익371억원달성·건기식'바디프...",
-  "빌게이츠방한···SMR도반도체처럼'파운드리'시대열리나",
-  "곽노정SK하이닉스사장,상반기보수261억원…직원평균급여1.44억원",
-  "정부,추석연휴앞두고불법스팸대응현황점검",
-  "최태원회장,상반기SK㈜보수17억5천만원…작년수준유지",
-  "빌게이츠방한…SK·HD현대·두산'SMR탄력'",
-  "SK하이닉스상반기직원평균급여1억4천여만원…전년보다23%↑",
-  "최태원회장,지주사SK로부터상반기급여17.5억수령",
-  "최태원,상반기보수로17.5억원수령",
-  "최태원,상반기SK서17.5억수령…지난해와동일",
   "통신3사상반기'연봉킹'홍범식LGU+대표…18.2억수령",
   "금오공대·영남대,반도체인재양성성과점검…“기업요구맞는실무...",
   "346만명된SK하이닉스소액주주,1년새5배",
@@ -6001,7 +5990,18 @@
   "'롯데렌탈인수무산'어피니티,SK렌터카단독엑시트전략가동",
   "전월세난에2030첫집몰린은평…생애최초매수비중두달새2배",
   "3대메가프로젝트로AIDC급증…SK·GS,자회사발전소'총동원'",
-  "Moody'sRaisesSouthKorea'sGrowthForecastto3.5%asSemiconductor"
+  "Moody'sRaisesSouthKorea'sGrowthForecastto3.5%asSemiconductor",
+  "모티프,글로벌AI평가서1위?…‘AAII점수’어디까지믿어야하나",
+  "빌게이츠방한,정재계연쇄회동…'K-SMR동맹'확대",
+  "빌게이츠만난최태원·정기선…테라파워손잡고SMR영토확장",
+  "SK하이닉스노사오늘최종타결시도…\"9부능선넘었다\"",
+  "\"한국'美의회접촉',일본·대만보다활동량많지만질적차이나\"",
+  "대기업신규채용2년새15%감소…\"청년줄고장년늘며세대역전\"",
+  "[EBN데이터센터]반도체강세에코스피대형주엇갈림...코스닥은반도...",
+  "반도체소재기업SK트리켐,'노사문화우수기업'인증",
+  "KX하이텍,상반기영업익148억…전년比827%↑",
+  "[OpeningMarket]SouthKoreanStocksSurgeAbove7,200",
+  "[Invest]SK이노베이션,SK동남아투자법인감자해3000억회수"
  ],
  "recent_sigs": [
   [
@@ -6899,9 +6899,17 @@
   [
    "2026-08-18T10:35:36.036159+09:00",
    "Semiconductor as South Korea Raises Growth Boo Moody Forecast to"
+  ],
+  [
+   "2026-08-18T10:41:06.586770+09:00",
+   "Stocks South Above Korean Surge"
+  ],
+  [
+   "2026-08-18T10:41:06.586770+09:00",
+   "감자해 SK동남아투자법인 회수 3000억 SK이노베이션"
   ]
  ],
- "last_run": "2026-08-18T10:35:55.209624+09:00",
+ "last_run": "2026-08-18T10:41:15.907496+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
