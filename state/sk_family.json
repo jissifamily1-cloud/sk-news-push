@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/31/2026073190238.html",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/31/2026073190258.html",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=311106",
   "https://www.nocutnews.co.kr/news/6556804",
   "https://www.news1.kr/finance/general-finance/6245467",
   "https://www.newspim.com/news/view/20260801000013",
@@ -2999,12 +2996,12 @@
   "https://www.ekn.kr/web/view.php?key=20260818025572242",
   "https://www.mk.co.kr/article/12129835",
   "https://www.ceoscoredaily.com/page/view/2026081720164551503",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16412"
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16412",
+  "https://biz.heraldcorp.com/article/10843565",
+  "https://www.g-enews.com/view.php?ud=202608180916051092fbbec65dfb_1",
+  "https://news.bizwatch.co.kr/article/market/2026/08/18/0002"
  ],
  "seen_titles": [
-  "SK,두산과SK실트론2.3조규모지분매각계약체결",
-  "SK,'최태원지분29.4%'제외하고두산에SK실트론2.3조원매각…\"미래...",
-  "빅테크호실적에급반등한코스피,외국인순매수지속여부주목",
   "SK,결국SK실트론판다…두산에2.3조매각확정",
   "두산,2.3조원에SK실트론인수",
   "사상최대상승…코스피1,000포인트급등하며6,595.45달성",
@@ -6001,7 +5998,10 @@
   "‘AI·반도체·SMR’…남은넉달재계총수들의승부처는?",
   "하닉·이노쌍끌이수혜받는다…하나증권,SK주가상향[오늘나온보고...",
   "[최·노재산분할,다시대법으로]‘하루이자만1.3억’시간은벌었지...",
-  "[정책브리핑]3대메가반영전력수요전망다시…전기본토론회재개"
+  "[정책브리핑]3대메가반영전력수요전망다시…전기본토론회재개",
+  "‘강대강’SK하이닉스노사,9부능선넘었다…오늘임단협최종담판",
+  "54조쏟아붓는SK하이닉스,공급난해소는2028년넘긴다",
+  "하이닉스·이노베이션쌍끌…지주사SK몸값도뛴다"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,21 @@
   [
    "2026-08-18T09:30:24.402086+09:00",
    "전력수요 다시 토론회 재개 전망 메가 반영 3대 전기본"
+  ],
+  [
+   "2026-08-18T09:40:15.045559+09:00",
+   "넘었다 담판 능선 강대강 노사 임단협 9부 최종 SK하이닉스"
+  ],
+  [
+   "2026-08-18T09:40:15.045559+09:00",
+   "54조 2028년 넘긴다 쏟아붓는 해소는 공급난 SK하이닉스"
+  ],
+  [
+   "2026-08-18T09:40:15.045559+09:00",
+   "지주사 쌍끌 뛴다 하이닉스 몸값도 이노베이션"
   ]
  ],
- "last_run": "2026-08-18T09:30:35.484692+09:00",
+ "last_run": "2026-08-18T09:40:32.137248+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
