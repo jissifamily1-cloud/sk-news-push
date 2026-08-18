@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202608160006",
-  "https://biz.heraldcorp.com/article/10842573",
   "https://www.g-enews.com/view.php?ud=2026081609094248280c8c1c064d_1",
   "https://www.jasm.co.kr/news/articleView.html?idxno=308545",
   "https://www.eroun.net/news/articleView.html?idxno=87673",
@@ -2999,11 +2997,11 @@
   "https://www.starnewskorea.com/sports/2026/08/18/2026081816044463727",
   "https://www.livebiz.today/news/articleView.html?idxno=204225",
   "https://biz.chosun.com/it-science/ict/2026/08/18/4AJETE3NCFBKFL6EKBVLRFMLPQ/",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890303.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890303.html",
+  "https://www.segye.com/newsView/20260818523127?OutUrl=naver",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275014"
  ],
  "seen_titles": [
-  "은행원상반기평균급여7150만원,삼전보다많아…가계대출묶어도이...",
-  "\"빌게이츠원전,현대건설이짓는다\"…테라파워'나트륨'4세대SMR최...",
   "인천'테라스붕괴'아파트찾은박찬대시장\"시공·감리에책임묻겠...",
   "개인10조손실…단일종목레버리지ETF,무엇이문제였나",
   "[속보]“삼전보다많았다”4대은행평균급여‘역대최대’",
@@ -6001,7 +5999,9 @@
   "'잠실벌찢었다'안현민,타구속도180㎞→비거리145m시즌8호포!역대...",
   "AI훈풍에낸드상위5개사매출77%급증…삼성전자,6%포인트못미쳐",
   "과기정통부,‘모두의AI’사업에6개컨소시엄출사표",
-  "코스피반등에도거래대금·거래량연중'최저'"
+  "코스피반등에도거래대금·거래량연중'최저'",
+  "모두의AI에도전장…SKT·KT·카카오등6파전",
+  "MicronTakesThirdPlace,OvertakingKioxiainGlbalNANDMarketinQ2"
  ],
  "recent_sigs": [
   [
@@ -7015,9 +7015,17 @@
   [
    "2026-08-18T20:28:29.571267+09:00",
    "코스피 거래대금 최저 반등에도 연중 거래량"
+  ],
+  [
+   "2026-08-18T20:31:13.797139+09:00",
+   "도전장 KT 6파전 모두의 카카오 SKT AI에"
+  ],
+  [
+   "2026-08-18T20:31:13.797139+09:00",
+   "NAND Glbal Market in Takes Q2 Third Micron Kioxia Place Overtaking"
   ]
  ],
- "last_run": "2026-08-18T20:28:35.265854+09:00",
+ "last_run": "2026-08-18T20:31:22.622314+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
