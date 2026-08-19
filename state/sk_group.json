@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12078595",
-  "http://www.medisobizanews.com/news/articleView.html?idxno=141015",
-  "https://www.segye.com/newsView/20260817513985?OutUrl=naver",
-  "https://biz.heraldcorp.com/article/10843247",
-  "https://www.seoul.co.kr/news/editOpinion/editorial/2026/08/18/20260818027008?wlog_tag3=naver",
   "https://www.etoday.co.kr/news/view/2614816",
   "https://www.mt.co.kr/tech/2026/08/18/2026081713422275509",
   "https://www.seoul.co.kr/news/economy/industry/2026/08/18/20260818032003?wlog_tag3=naver",
@@ -2999,14 +2994,14 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4430756",
   "http://www.fnnews.com/news/202608191115342032",
   "https://economist.co.kr/article/view/ecn202608190029",
-  "https://en.yna.co.kr/view/AEN20260819004600320?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260819004600320?input=2106m",
+  "https://www.nocutnews.co.kr/news/6564728",
+  "https://www.munhwa.com/article/11610441",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=441742",
+  "https://www.ekn.kr/web/view.php?key=20260819025124057",
+  "http://www.srtimes.kr/news/articleView.html?idxno=210345"
  ],
  "seen_titles": [
-  "K-바이오,빅파마들러리끝…해외직판으로글로벌위상'UP'",
-  "“AI가AI개발”…글로벌연구진,美정부에통제촉구",
-  "[단독]SK‘4중상장’주인공솔리다임,상반기순이익5.9조원전년比...",
-  "[사설]김민석與대표,강성지지층아닌국민목소리에귀열길",
-  "솔리다임나스닥상장추진설…중복상장규제시험대",
   "LG제친모티프…'국가대표AI'2차전,글로벌평가가변수",
   "국내기업6곳‘엔비디아동맹’…AI두뇌얻고종속관계시험대",
   "[美증시]반도체밀어올린앤트로픽매출폭풍성장…1년만에14배",
@@ -6001,7 +5996,12 @@
   "KDI,올해성장률전망치'2.5%→3.2%'…물가2.7%유지",
   "반도체가이끈지역경제…충북생산27.8%↑",
   "[오늘의삼전닉스]4조순매수'우군'돌아서자급락,SK하이닉스어쩌...",
-  "Listedfirms'profitssoarinH1,drivenbyAI-ledsemiconductorboom"
+  "Listedfirms'profitssoarinH1,drivenbyAI-ledsemiconductorboom",
+  "코스피상장사올상반기영업익254%↑…삼전닉스빼도76%↑",
+  "글로벌국채급등‘쇼크’…코스피사이드카‘패닉’",
+  "신안군,'8.2GW해상풍력현장점검'...국회정책지원건의",
+  "바이오株기지개켜지만…“아무거나사면물린다”",
+  "[금융권횡제세①]반도체'초과이익배분'논란에도말한마디안나오..."
  ],
  "recent_sigs": [
   [
@@ -7079,9 +7079,17 @@
   [
    "2026-08-19T12:09:26.394262+09:00",
    "by soar AI firms Listed semiconductor H1 profits led driven in boom"
+  ],
+  [
+   "2026-08-19T12:11:06.288710+09:00",
+   "켜지만 사면 아무거나 물린다 바이오 기지개"
+  ],
+  [
+   "2026-08-19T12:11:06.288710+09:00",
+   "한마디 반도체 초과이익 배분 논란에도 나오"
   ]
  ],
- "last_run": "2026-08-19T12:09:50.368989+09:00",
+ "last_run": "2026-08-19T12:11:14.701201+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
