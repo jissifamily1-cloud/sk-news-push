@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260613042900007?input=1195m",
   "https://ilyo.co.kr/?ac=article_view&entry_id=511415",
   "https://www.golfjournal.co.kr/news/articleView.html?idxno=10912",
   "https://www.yeongnam.com/web/view.php?key=20260611029499424",
@@ -2999,10 +2998,10 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260136&CMPT_CD=P0010",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=270947",
   "https://www.m-i.kr/news/articleView.html?idxno=1403568",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=63049"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63049",
+  "https://www.fntimes.com/html/view.php?ud=2026081911152040497de3572ddd_18"
  ],
  "seen_titles": [
-  "\"일진파워,AI전력인프라슈퍼사이클수혜株\"[클릭e종목]",
   "한국은행'전남광주통합특별시'지역경제세미나연다",
   "포항지역봉사단체늘푸른마음회,후원한마당행사열어",
   "울주군해뜨미씨름단김무호시즌4관왕",
@@ -6001,7 +6000,8 @@
   "용인반도체송전망따라걸었다...거제의폭우가던진질문",
   "수조원대'대미투자'속도전…관세몽둥이둔화시킬삼성·SK배수진",
   "광주·대구·여수·부산청소년400명,음악으로영·호남잇는다",
-  "AI시대'혁신학'으로승부…인스콜라리,글로벌리더가주목한교육과..."
+  "AI시대'혁신학'으로승부…인스콜라리,글로벌리더가주목한교육과...",
+  "'리밸런싱완수'SK㈜,보수수직상승...장용호157%·강동수217%↑[가성..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-08-19T11:10:14.068112+09:00",
    "삼성 배수진 투자 관세 속도전 수조원대 몽둥이 둔화시킬 대미"
+  ],
+  [
+   "2026-08-19T11:40:16.272500+09:00",
+   "리밸런싱 수직상승 장용호 강동수 완수 보수 가성"
   ]
  ],
- "last_run": "2026-08-19T11:30:34.541761+09:00",
+ "last_run": "2026-08-19T11:40:27.368258+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
