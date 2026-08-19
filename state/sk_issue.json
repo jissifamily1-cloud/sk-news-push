@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koit.co.kr/news/articleView.html?idxno=208410",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000002075&cp=nv",
-  "https://www.hani.co.kr/arti/society/society_general/1272314.html",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6504",
   "https://www.getnews.co.kr/news/articleView.html?idxno=877548",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050047",
   "https://www.ikbc.co.kr/article/view/kbc202608110018",
@@ -2999,13 +2995,13 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6845968_37012.html",
   "http://www.popcornnews.net/news/articleView.html?idxno=130151",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285345",
-  "https://dealsite.co.kr/articles/167425"
+  "https://dealsite.co.kr/articles/167425",
+  "https://www.electimes.com/news/articleView.html?idxno=371414",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608191537399130571",
+  "https://www.newsis.com/view/NISX20260820_0003755166",
+  "https://www.yna.co.kr/view/AKR20260820027300052?input=1195m"
  ],
  "seen_titles": [
-  "\"발주자가대금지급안해도원사업자책임\"",
-  "경찰여객기참사수사단,공항공사등압수수색",
-  "[속보]경찰특수단,‘제주항공참사’국토부·한국공항공사압수수색",
-  "산업은행,583억금융사고..경찰압색으로인지\"충격\"",
   "산업은행서583억규모금융사고발생⋯\"거래처기업금융사기\"",
   "'여객기참사'경찰특수단,공항공사·국토부·부산항공청압수수색",
   "[속보]12·29여객기참사'특별수사단,공항공사·국토부압수수색",
@@ -6001,7 +5997,11 @@
   "이루지못한'온전한보상'‥장관,빈소조문",
   "배민,음식배달넘어'1시간커머스'로...패션·뷰티·장보기까지외연...",
   "[20년전그때]검찰'바다이야기'제조·판매사대표구속기소",
-  "한화,KAI인수시동…방산전문화·계열화제도폐지'의미퇴색'"
+  "한화,KAI인수시동…방산전문화·계열화제도폐지'의미퇴색'",
+  "(금요아침)선언넘어이행으로,'한국형탄소중립인증제도'가필요하다",
+  "[부산ㆍ경남대학브리핑모음(8월20일)]동아대권영빈교수,‘2026제...",
+  "창원주택가서도박판벌인26명검거…주범1명구속",
+  "창원서주택빌려도박판벌인26명검거…50대운영자는구속"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "어피너티 배신당했다 소송전 가나 롯데 상대"
   ]
  ],
- "last_run": "2026-08-20T08:20:55.246241+09:00",
+ "last_run": "2026-08-20T08:31:01.181461+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
