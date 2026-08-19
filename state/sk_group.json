@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstopkorea.com/news/articleView.html?idxno=47077",
-  "https://www.mediapen.com/news/view/1116931",
-  "https://www.yakup.com/news/index.html?cat=12&nid=331156",
-  "https://www.monews.co.kr/news/articleView.html?idxno=413251",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005221",
-  "https://www.dailypharm.com/user/news/341497?REFERER=NP",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635799",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5748",
   "https://www.mt.co.kr/world/2026/08/18/2026081806063034189",
   "http://www.fnnews.com/news/202608180602312167",
@@ -2999,16 +2992,16 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03617846645548960",
   "http://www.finomy.com/news/articleView.html?idxno=259464",
   "https://www.ekn.kr/web/view.php?key=20260819026344025",
-  "https://www.asiatime.co.kr/article/20260819500195"
+  "https://www.asiatime.co.kr/article/20260819500195",
+  "http://www.4th.kr/news/articleView.html?idxno=2116567",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101545",
+  "https://www.ziksir.com/news/articleView.html?idxno=143578",
+  "http://www.newsprime.co.kr/news/article.html?no=744309",
+  "https://www.dt.co.kr/article/12078947",
+  "https://theopiniontimes.news/%eb%b0%98%eb%8f%84%ec%b2%b4-%ed%95%9c%ed%8c%8c%c2%b7%e7%be%8e-%ea%b8%88%eb%a6%ac-%ed%8f%ad%ed%83%84-%ec%a6%9d%ec%8b%9c-%eb%b8%94%eb%9e%99-%eb%8d%b0%ec%9d%b4/",
+  "https://www.khan.co.kr/article/202608191348001"
  ],
  "seen_titles": [
-  "[美증시]美·이란긴장격화에3대지수동반하락…앤트로픽훈풍메모...",
-  "\"글로벌백신자립,돈만쏟아붓는다고안된다…생태계없으면공장도...",
-  "제약바이오2분기,두자릿수매출두드러져",
-  "[데스크칼럼]삼성·SK에날아드는청구서…‘올인코리아’역설",
-  "약가인하코앞인데…급여중심중견제약수익성'빨간불'",
-  "[주간증시전망]5거래일11%반등뒤'속도조절'··외국인수급'관건'",
-  "[뉴욕증시마감시황]뉴욕증시,이란발유가·금리급등에하락…반도체...",
   "美국채30년물19년만에최고…증시흔든금리·유가[뉴욕마감]",
   "\"280층에사람있어요\"랄랄,SK하이닉스하락에즉흥탈색까지",
   "대기업,인력·자본밀어넣어'AX'총력…기밀유출우려는진행형",
@@ -6001,7 +5994,14 @@
   "삼전닉스7~9%급락에도개인4.4조‘사자’…외인·기관은‘팔자’",
   "[데일리토픽]독파모SKT·LG·업스테이지'3파전'압축⋯GPU3000장확보",
   "“한국은압박,北에겐러브콜”…지지율최저李대통령,외교마저‘시...",
-  "주주운동본부“배임죄폐지시‘맞절3인방’즉각고발”"
+  "주주운동본부“배임죄폐지시‘맞절3인방’즉각고발”",
+  "삼전·닉스'성과급배임'경찰수사본격..고발인조사",
+  "코스피상장사순이익4배급증…반도체가실적견인",
+  "SK바이오팜,세노바메이트美특허분쟁합의…소송종결",
+  "코스피·코스닥상반기실적'껑충'…영업익각각254%·62%↑",
+  "코스피상장사상반기영업익258%급증...‘삼전닉스’빼도76%↑",
+  "반도체한파·美금리폭탄…증시'블랙데이'",
+  "경기·충청‘반도체호황’,서울·부산‘외국인발소비호황’···관..."
  ],
  "recent_sigs": [
   [
@@ -6979,9 +6979,13 @@
   [
    "2026-08-19T13:45:53.920254+09:00",
    "배임죄 고발 맞절 즉각 폐지 3인방 주주운동본부"
+  ],
+  [
+   "2026-08-19T13:51:02.462525+09:00",
+   "부산 서울 충청 경기 호황 소비 외국인발 반도체"
   ]
  ],
- "last_run": "2026-08-19T13:46:08.078352+09:00",
+ "last_run": "2026-08-19T13:51:08.239963+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
