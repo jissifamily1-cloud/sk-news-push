@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=363377",
-  "https://www.nspna.com/news/?newsid=823632",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/10/2026081000285.html",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=363599",
-  "https://www.etoday.co.kr/news/view/2613005",
-  "https://www.ziksir.com/news/articleView.html?idxno=142730",
   "https://www.wikitree.co.kr/articles/1151648",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475888",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855848",
@@ -2999,15 +2993,15 @@
   "https://www.khan.co.kr/article/202608191955005",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260376&CMPT_CD=P0010",
   "https://www.newspim.com/news/view/20260819001242",
-  "https://www.pressian.com/pages/articles/2026081916273469495"
+  "https://www.pressian.com/pages/articles/2026081916273469495",
+  "http://www.fnnews.com/news/202608192010141242",
+  "https://www.wikitree.co.kr/articles/1153479",
+  "https://www.ajunews.com/view/20260819200724536",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260819513&PRO_CODE=99",
+  "https://www.khan.co.kr/article/202608192006025",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534577"
  ],
  "seen_titles": [
-  "한화-한국항공우주결합,방산판도바꾸나",
-  "[들어보니]증권사임직원‘모럴해저드’확산…증선위,칼빼들다",
-  "\"필수의료살리려면처벌완화\"vs\"구조탓일뿐면책과해\"…의료분쟁...",
-  "민주당전대삼킨'신천지'…밖겨누던칼끝,당내로",
-  "5000억대불법도박자금세탁조직2개파...광주경찰에덜미",
-  "[이슈직썰]\"국민5명중1명가입\"···'11조'상조시장,'규제'프레...",
   "현직경찰·소방관도있었다…1만여명다녀간‘기업형성매매업소’...",
   "통합대한항공D-4개월…조종사서열갈등·마일리지'두난제'여전",
   "野박성훈,'병원-간납업체유착'에건보재정누수",
@@ -6001,7 +5995,13 @@
   "가습기살균제피해자의‘이젠안먹어도되는약’[금주의B컷]",
   "'정치인체포지시'폭로했는데...홍장원,조태용과함께재판행",
   "종합특검,조태용·홍장원등전국정원간부4명불구속기소…내란가...",
-  "'20대하청노동자끼임사'HL만도대표이사,중처법입건…사고29일만"
+  "'20대하청노동자끼임사'HL만도대표이사,중처법입건…사고29일만",
+  "종합특검,조태용·홍장원등전직국정원지휘부내란혐의기소",
+  "강남유흥업소서20대여성집단성폭행...불법촬영에증거인멸위해...",
+  "종합특검,조태용·홍장원등전국정원간부4명내란혐의기소",
+  "[속보]종합특검,'내란가담'혐의조태용·홍장원등국정원4명기소",
+  "[경향의눈]언론을적으로보는‘전설의과방위원장’",
+  "\"성과급지급은배임\"삼전닉스대표고발,수사본격화"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-08-19T17:40:57.172044+09:00",
    "알아보기 이름으로 살까 주식을 TRS 증권사"
+  ],
+  [
+   "2026-08-19T20:20:51.120078+09:00",
+   "배임 고발 대표 본격화 수사 삼전닉스 지급은 성과급"
   ]
  ],
- "last_run": "2026-08-19T20:11:49.591697+09:00",
+ "last_run": "2026-08-19T20:21:00.979903+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6072,6 +6076,7 @@
   "ntoday.co.kr": "투데이신문",
   "newskr.kr": "한국농어촌방송",
   "dnews.co.kr": "대한경제",
-  "kyeonggi.com": "경기일보"
+  "kyeonggi.com": "경기일보",
+  "obsnews.co.kr": "OBS경인TV"
  }
 }
