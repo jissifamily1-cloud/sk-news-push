@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260811010003299",
-  "https://www.donga.com/news/Politics/article/all/20260810/134449173/1",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258051&CMPT_CD=P0010",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5211532",
   "https://www.hankookilbo.com/news/article/A2026081016280002359?did=NA",
   "http://www.kjdaily.com/article.php?aid=1786359783684239005",
@@ -2999,12 +2996,12 @@
   "https://news.mtn.co.kr/news-detail/2026081914172285093",
   "https://thetracker.co.kr/View.aspx?No=4191467",
   "https://www.sportsworldi.com/newsView/20260819516666",
-  "https://www.yna.co.kr/view/AKR20260819114700009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260819114700009?input=1195m",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244990",
+  "https://www.ytn.co.kr/_ln/0134_202608191530000415",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1397168"
  ],
  "seen_titles": [
-  "한화,투자넘어사업적결합…'육·해·공·우주'통합전략속도",
-  "“2105명→1494명”…6·3지방선거투표자수55%현장집계와차이",
-  "증인김건희\"영부인은클러치백이필수품,짝퉁도있다\"",
   "[단독]'2만명선거인단'축구협회장투표,'키오스크나PC도입'검토",
   "107개대포통장으로5000억불법도박자금세탁…대구·부산조직원1...",
   "광주경찰‘5천억돈세탁’조직잡았다…179명무더기검거",
@@ -6001,10 +5998,18 @@
   "정유4사담합20일첫공판…반기보고서기재는'제각각'",
   "[더트래커2026상반기유통리포트⑨]쿠팡,6200억과징금에도매출신...",
   "뒤늦게불거진축구협회심판성접대의혹…경찰“성매매알선공소시...",
-  "대만검찰,무인기에중국산부품쓴업체관계자구속"
+  "대만검찰,무인기에중국산부품쓴업체관계자구속",
+  "시알홀딩스,지주사전환뒤또'규정위반'논란",
+  "\"스트레칭한겁니다\"...'수원좀비'A씨내일경찰재소환[Y녹취록]",
+  "SK이어롯데까지…사모펀드,렌터카에꽂혔다"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-19T15:31:07.331149+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-19T15:40:49.122758+09:00",
+   "사모펀드 롯데까지 이어 꽂혔다 렌터카에"
+  ]
+ ],
+ "last_run": "2026-08-19T15:40:55.433098+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
