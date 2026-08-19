@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12313848?influxDiv=NAVER",
-  "https://www.sportsworldi.com/newsView/20260818516568",
-  "https://biz.heraldcorp.com/article/10817796",
-  "https://www.koreaherald.com/article/10813759",
-  "https://www.etoday.co.kr/news/view/2605216",
-  "https://biz.heraldcorp.com/article/10813437",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450044",
-  "https://www.viva100.com/article/20260720500367",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/20/2026072080035.html",
   "http://www.lkp.news/news/articleView.html?idxno=83031",
   "https://biz.sbs.co.kr/article_hub/20000329246?division=NAVER",
   "http://www.beyondpost.co.kr/view.php?ud=20260818153641460846a9e4dd7f_30",
@@ -2999,18 +2990,18 @@
   "https://www.hankyung.com/article/2026081997856",
   "https://www.topstarnews.net/news/articleView.html?idxno=16168078",
   "https://www.etoday.co.kr/news/view/2616136",
-  "https://biz.sbs.co.kr/article_hub/20000329597?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000329597?division=NAVER",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=692854",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375021",
+  "https://www.bntnews.co.kr/article/view/bnt202608200018",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02532166645549288",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=761696",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=761694",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156278",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93896",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443955"
  ],
  "seen_titles": [
-  "美금리·유가덮친뉴욕…코스피는7200터치",
-  "[포커스]개미몰린두달,증권사·거래소수수료1173억...시장관리는...",
-  "'캡스'라스무스뷘터,서양선수최초'홀오브레전드'헌액",
-  "무너진수비와3연패,부담감커진서울전…다만유병훈호안양은언제...",
-  "테라파워'나트륨'11월사전검토착수···한국형4세대'SMR'은언제?",
-  "\"완전히미친짓\"…월가가본서학개미들의이상한미국투자",
-  "페이커·우지이어‘캡스’도전설로…LoL‘홀오브레전드’헌액",
-  "지식재산처-SK,기술과특허를연결하는‘민관협력모델’첫선",
-  "Hotelkimchibrandsexpandtheirreachabroad",
   "‘K호텔김치’해외공략본격화…면세점·수출동시확대[종합]",
   "워커힐,프리미엄‘수펙스김치’미국수출",
   "수출길오른워커힐'수펙스김치'···\"亞주요시장진출추진\"",
@@ -6001,7 +5992,16 @@
   "\"구글다음빅테크손잡았다\"…8월들어40%넘게뛰었다[종목+]",
   "미국증시,재무부장기채매입확대에반등…엔비디아·반도체주는약세...",
   "코리아컵8강대진,진출팀확정",
-  "SK하이닉스,40조자사주소각한다…주주환원강화속도"
+  "SK하이닉스,40조자사주소각한다…주주환원강화속도",
+  "'정정용체제위기고조'...전북,3부당진에자이언트킬링희생양!16강...",
+  "'디펜딩챔피언'전북,K3당진시민축구단에패하며코리아컵8강불발",
+  "뉴욕증시,모더나176%폭등에바이오주불기둥…다우53463마감",
+  "판깔린‘모두의AI’ICT공룡연합격돌",
+  "KT,차세대먹거리AIDC사업가속도...매출매년40%씩쑥쑥자라통신...",
+  "LG에너지솔루션충당금눈덩이,2년반새80%늘어난2.3조...삼성SDI도...",
+  "[투데이시그널]AI가자본을빨아들인다…연준멈춰도장기금리는오른...",
+  "[AI시대新자원전쟁]②AI·반도체물확보전쟁…산업용수냐생활·농...",
+  "[WhoIs?]최신원SK네트웍스명예회장"
  ],
  "recent_sigs": [
   [
@@ -6183,9 +6183,37 @@
   [
    "2026-08-20T06:45:16.236296+09:00",
    "재무부 장기채 매입 반등 약세 엔비디아 확대에 반도체주는 미국증시"
+  ],
+  [
+   "2026-08-20T07:01:20.337977+09:00",
+   "다우 바이오주 뉴욕증시 폭등에 모더나 불기둥 마감"
+  ],
+  [
+   "2026-08-20T07:01:20.337977+09:00",
+   "ICT공룡 연합 AI 모두의 깔린 격돌"
+  ],
+  [
+   "2026-08-20T07:01:20.337977+09:00",
+   "매년 쑥쑥 차세대 KT 매출 통신 먹거리 AIDC 가속도 사업 자라"
+  ],
+  [
+   "2026-08-20T07:01:20.337977+09:00",
+   "눈덩이 LG에너지솔루션 2년 삼성SDI도 3조 늘어난 충당금"
+  ],
+  [
+   "2026-08-20T07:01:20.337977+09:00",
+   "멈춰도 장기금리는 빨아들인다 오른 AI가 연준 자본을"
+  ],
+  [
+   "2026-08-20T07:01:20.337977+09:00",
+   "AI 반도체 확보 생활 산업용수냐 전쟁"
+  ],
+  [
+   "2026-08-20T07:01:20.337977+09:00",
+   "명예회장 최신원 SK네트웍스"
   ]
  ],
- "last_run": "2026-08-20T06:51:13.447314+09:00",
+ "last_run": "2026-08-20T07:01:41.638760+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
