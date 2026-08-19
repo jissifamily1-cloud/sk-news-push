@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.footballist.co.kr/news/articleView.html?idxno=213700",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460257",
   "https://news.jtbc.co.kr/article/NB12313848?influxDiv=NAVER",
   "https://www.sportsworldi.com/newsView/20260818516568",
   "https://biz.heraldcorp.com/article/10817796",
@@ -2999,11 +2997,11 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236321",
   "https://www.kbmaeil.com/article/20260820500009",
   "https://www.hankyung.com/article/2026081997856",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16168078"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16168078",
+  "https://www.etoday.co.kr/news/view/2616136",
+  "https://biz.sbs.co.kr/article_hub/20000329597?division=NAVER"
  ],
  "seen_titles": [
-  "[독파모2차발표]SK텔레콤3차진출,다음행보는\"산업·생활서비스...",
-  "초미세반도체수율의핵심…HPSP,'고압수소'독점기술력부각",
   "美금리·유가덮친뉴욕…코스피는7200터치",
   "[포커스]개미몰린두달,증권사·거래소수수료1173억...시장관리는...",
   "'캡스'라스무스뷘터,서양선수최초'홀오브레전드'헌액",
@@ -6001,7 +5999,9 @@
   "진보당-한국노총\"메가특구노동권보호\"",
   "조르지2골1도움,포항살렸다…4부진주꺾고코리아컵8강",
   "\"구글다음빅테크손잡았다\"…8월들어40%넘게뛰었다[종목+]",
-  "미국증시,재무부장기채매입확대에반등…엔비디아·반도체주는약세..."
+  "미국증시,재무부장기채매입확대에반등…엔비디아·반도체주는약세...",
+  "코리아컵8강대진,진출팀확정",
+  "SK하이닉스,40조자사주소각한다…주주환원강화속도"
  ],
  "recent_sigs": [
   [
@@ -6185,7 +6185,7 @@
    "재무부 장기채 매입 반등 약세 엔비디아 확대에 반도체주는 미국증시"
   ]
  ],
- "last_run": "2026-08-20T06:45:21.791347+09:00",
+ "last_run": "2026-08-20T06:51:13.447314+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
