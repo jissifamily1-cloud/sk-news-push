@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.peoplewatch.co.kr/article/view/ppw202608180004",
-  "https://www.etoday.co.kr/news/view/2615470",
-  "https://www.ajunews.com/view/20260818132058138",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1396646",
-  "https://www.nocutnews.co.kr/news/6564121",
-  "https://www.namdonews.com/news/articleView.html?idxno=920296",
   "https://www.ddaily.co.kr/page/view/2026081813214941134",
   "https://www.cbci.co.kr/news/articleView.html?idxno=598973",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43066",
@@ -2999,15 +2993,15 @@
   "https://www.dynews.co.kr/news/articleView.html?idxno=862259",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6845863_37004.html",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275090",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534577"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534577",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260819202537rrz",
+  "https://www.segye.com/newsView/20260819523249?OutUrl=naver",
+  "http://www.kjdaily.com/article.php?aid=1787137011684853002",
+  "http://coinreaders.com/253548",
+  "http://www.cctimes.kr/news/articleView.html?idxno=922564",
+  "http://www.cctimes.kr/news/articleView.html?idxno=922565"
  ],
  "seen_titles": [
-  "\"한국AI,미국·중국이어세계3강굳혔다\"…독자AI모델3팀다음단...",
-  "휴온스,파죽의7연승-팀리그2R선두수성·크라운해태맹추격",
-  "독파모,업스테이지·SKT·LG3강압축",
-  "'국대AI3파전',업스테이지·SKT·LG압축",
-  "'국가대표AI'3개팀GPU지원에1200억…정부\"모델고도화뒷받침\"[일...",
-  "삼성전자2배ETF열어놓고다시잠근금융당국…개미규제어디까지",
   "코스피,기관'팔자'에하락전환…7000선내줘",
   "[食전食후]코스피,7000선다시내줘…기관매도에상승폭반납",
   "독파모2차단계평가…LG·SKT·업스테이지다음단계진출",
@@ -6001,7 +5995,13 @@
   "'3대메가'9월충남아산서최초'첫삽'",
   "국채금리에휘청였던코스피‥하이닉스40조자사주소각에반등하나?",
   "SamsungExpandsPyeongtaekFabintoTriple-Deck",
-  "\"성과급지급은배임\"삼전닉스대표고발,수사본격화"
+  "\"성과급지급은배임\"삼전닉스대표고발,수사본격화",
+  "'삼전닉스레버리지'후폭풍?…'5일간모의거래'의무화[뉴스더보기]",
+  "SK하이닉스‘자사주40조원소각’...주주환원역대급규모?",
+  "호남반도체핵심‘전력공급’…송·변전인프라관건",
+  "美증시,국채금리19년최고찍고후퇴...반도체·연준에시선집중",
+  "SK하이닉스40조자사주매입∙소각",
+  "반도체의힘…충북생산27.8%`쑥'"
  ],
  "recent_sigs": [
   [
@@ -7063,9 +7063,13 @@
   [
    "2026-08-19T20:21:10.495292+09:00",
    "고발 지급은 본격화 대표 수사 배임 삼전닉스 성과급"
+  ],
+  [
+   "2026-08-19T20:31:15.600567+09:00",
+   "충북 생산 반도체의"
   ]
  ],
- "last_run": "2026-08-19T20:21:18.421015+09:00",
+ "last_run": "2026-08-19T20:31:21.440579+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
