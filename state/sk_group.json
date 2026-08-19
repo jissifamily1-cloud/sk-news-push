@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1679377/?sc=Naver",
-  "https://biz.chosun.com/it-science/ict/2026/08/18/E6KWBZ7ZTRBBTM73BBF4DXWPCY/",
-  "http://www.popcornnews.net/news/articleView.html?idxno=130003",
-  "https://www.m-i.kr/news/articleView.html?idxno=1403180",
-  "https://www.fntimes.com/html/view.php?ud=202608181311196904c1c16452b0_18",
-  "https://www.naeil.com/news/read/599132",
   "https://www.newsis.com/view/NISX20260818_0003752535",
   "https://www.dailian.co.kr/news/view/1679382/?sc=Naver",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031874",
@@ -2999,15 +2993,15 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275089",
   "https://view.asiae.co.kr/article/2026081919444858308",
   "https://www.ytn.co.kr/_ln/0134_202608191935297648",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=858000"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=858000",
+  "https://www.newstnt.com/news/articleView.html?idxno=714489",
+  "https://www.nocutnews.co.kr/news/6565116",
+  "https://www.yna.co.kr/view/AKR20260819171000057?input=1195m",
+  "https://www.newsis.com/view/NISX20260819_0003754974",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704743",
+  "https://news.bizwatch.co.kr/article/consumer/2026/08/18/0034"
  ],
  "seen_titles": [
-  "[K-기업AX대전환①전자·반도체]‘AI네이티브’기업탈바꿈속도",
-  "'삼전닉스'다시코스피절반...주주환원기대감에강세이어가",
-  "'국대AI'LG·SKT·업스테이지'독파모4강'생존…'활용성·사용성'핵...",
-  "독파모2차전‘모티프’탈락…LG‧SKT‧업스테이지3강압축",
-  "SKT·LG·업스테이지,'독파모'2차평가통과…'국가대표AI'3파전돌입",
-  "美반도체훈풍에LB세미콘18%대급등…퀄컴호재도[특징주]",
   "넵튠,크래프톤BGMI운영맡는다…인도광고시장진출",
   "괴리율기준내일부터2%…ETF괴리잡을까",
   "성과급에주주환원까지…삼성·SK,배분부담에발목잡히나",
@@ -6001,21 +5995,15 @@
   "Korea,U.S.StallOverFirstInvestmentProject",
   "'장애인과비장애인이하나가된다'…SK텔레콤어댑티브오픈",
   "SK하이닉스'역대급'40조자사주소각...이제증시반등할까[몇층이세...",
-  "프로축구이랜드,변경준대체자로홍석준영입"
+  "프로축구이랜드,변경준대체자로홍석준영입",
+  "[공시]SK하이닉스65만주등...20일,코스피49개종목'자사주매수'",
+  "'모두의AI'프로젝트에통신3사일제히참여…각사구상은?",
+  "울산서'칠석날한마당'…헌공다례·학춤등볼거리다채",
+  "[올댓차이나]홍콩증시,실적호조주매수에상승마감…H주0.21%↑",
+  "신안군,해상풍력정책간담회및신안군장학재단제10대이사장선출",
+  "새주인찾은롯데렌탈…호텔롯데숨통트일까"
  ],
  "recent_sigs": [
-  [
-   "2026-08-19T14:01:20.161271+09:00",
-   "에치드 29조원 논란 검증 평가에도 성능"
-  ],
-  [
-   "2026-08-19T14:01:20.161271+09:00",
-   "진행형 할인잔치는 던킨 도넛의"
-  ],
-  [
-   "2026-08-19T14:01:20.161271+09:00",
-   "경영진 주주단체 경찰 삼성 배임 연동 고발 영업이익 성과급은"
-  ],
   [
    "2026-08-19T14:11:00.415203+09:00",
    "영업익 코스피 역대 388조 삼전닉스가 상장사 차지"
@@ -7087,9 +7075,25 @@
   [
    "2026-08-19T19:51:20.755828+09:00",
    "이랜드 프로축구 홍석준 변경준 대체자로 영입"
+  ],
+  [
+   "2026-08-19T20:01:22.607520+09:00",
+   "볼거리 헌공다례 울산서 다채 칠석날 한마당 학춤"
+  ],
+  [
+   "2026-08-19T20:01:22.607520+09:00",
+   "실적 마감 홍콩 증시 매수에 H주 호조주 상승"
+  ],
+  [
+   "2026-08-19T20:01:22.607520+09:00",
+   "이사장 정책 선출 간담회 해상풍력 제10대 신안군 신안군장학재단"
+  ],
+  [
+   "2026-08-19T20:01:22.607520+09:00",
+   "트일까 롯데렌탈 주인 숨통 호텔롯데 찾은"
   ]
  ],
- "last_run": "2026-08-19T19:51:26.516200+09:00",
+ "last_run": "2026-08-19T20:01:36.230531+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
