@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12048329",
-  "https://www.sidae.com/article/2026022513471957203",
   "https://www.hankyung.com/article/202602253965i",
   "https://www.etoday.co.kr/news/view/2559447",
   "https://news.tf.co.kr/read/economy/2296084.htm",
@@ -2999,11 +2997,11 @@
   "https://www.ceoscoredaily.com/page/view/2026081913413644972",
   "http://www.yonhapnewstv.co.kr/news/MYH20260819175201M4w",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190644&t=NNv",
-  "https://economist.co.kr/article/view/ecn202608190069"
+  "https://economist.co.kr/article/view/ecn202608190069",
+  "https://www.newspim.com/news/view/20260819001192",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005863"
  ],
  "seen_titles": [
-  "“경제인한자리모여‘AI대전환’해법모색”",
-  "대한상의제주포럼개막…AI·성장전략·K컬처까지'미래해법'논의",
   "'AX시대,韓경제성장해법찾자'…대한상의,제주포럼개막",
   "최태원\"일하는방식자체를AI에맞게새로짜야\"…상의,하계포럼개막",
   "'2026제주포럼'대한상의,AI시대한국경제성장전략찾는다",
@@ -6001,7 +5999,9 @@
   "SK하이닉스,‘성과급자사주지급’대타협임박…“통합노조반발,큰...",
   "침묵지킨조희대…법원행정처장\"제청권보장돼야\"",
   "9만명자동차공동파업...생산·수출대란",
-  "[CEOAtoZ]조용했던구광모,LG의'세일즈최전선'에나서다"
+  "[CEOAtoZ]조용했던구광모,LG의'세일즈최전선'에나서다",
+  "SK하이닉스,잉여현금절반이상주주에게…환원공식바꿨다",
+  "[취재후일담]\"가만히앉아서벌잖아\"…반도체직원들의금융권'초과이..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,17 @@
   [
    "2026-08-19T18:10:17.170185+09:00",
    "구광모 최전선 세일즈 나서다 조용했던 LG의"
+  ],
+  [
+   "2026-08-19T18:30:23.863732+09:00",
+   "환원 이상 잉여 바꿨다 SK하이닉스 절반 주주에게 현금"
+  ],
+  [
+   "2026-08-19T18:30:23.863732+09:00",
+   "벌잖아 가만히 초과이 앉아서 반도체 금융권 직원들의"
   ]
  ],
- "last_run": "2026-08-19T18:20:28.966685+09:00",
+ "last_run": "2026-08-19T18:30:39.114690+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
