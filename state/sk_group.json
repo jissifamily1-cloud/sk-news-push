@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mhns.co.kr/news/articleView.html?idxno=756722",
-  "https://www.sedaily.com/article/20080356",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101284",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357514",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478244",
   "https://www.mediapen.com/news/view/1117039",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478240",
@@ -2999,13 +2995,13 @@
   "https://www.tokenpost.kr/news/market/390954",
   "http://www.yonhapnewstv.co.kr/news/MYH20260819210600KZ9",
   "https://www.tokenpost.kr/news/cryptocurrency/393363",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93943"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93943",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720949",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608190010",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96613",
+  "https://www.rcast.co.kr/news/articleView.html?idxno=31482"
  ],
  "seen_titles": [
-  "[일문일답]\"독파모2차평가,기업간점수격차근소\"",
-  "'깐부회동'다음엔SMR동맹…K-산업,AI풀스택파트너로",
-  "대기업집단,작년간판값2.2조역대최대…SK3499억ㆍLG3490억원",
-  "대기업신규채용2년새15%뚝↓…청년층줄고장년층늘며‘세대역전...",
   "2027년EU배터리여권도입,독일배터리‘건강검진’시장열린다",
   "'삼전닉스'반등이냐롤러코스터냐…증권가가르는'3대변수'",
   "씨케이솔루션,2분기흑자전환…매출850억원기록",
@@ -6001,7 +5997,11 @@
   "17억5000만원받은최태원,상여는없었다",
   "美국채금리쇼크에코스피5.8%↓…SK하이닉스는자사주소각계획",
   "미국산반도체프리미엄전망에메모리팹논의",
-  "[증권픽]키움증권'영웅문S#간편모드'누적이용자170만돌파외"
+  "[증권픽]키움증권'영웅문S#간편모드'누적이용자170만돌파외",
+  "[EBN오늘(19일)이슈종합]SK하이닉스,40조자사주취득·소각…포스...",
+  "SK하이닉스,40조자사주소각…자본배분공식바꿨다",
+  "'PL러브콜'모두거절한김민재,뮌헨도화답...\"이적대상아냐...모든...",
+  "NH투자증권,'N2IMA1중기형3호'모집개시하루만에조기완판外"
  ],
  "recent_sigs": [
   [
@@ -6911,9 +6911,17 @@
   [
    "2026-08-19T21:15:15.717951+09:00",
    "누적 키움증권 영웅문S 간편모드 돌파 170만 이용자"
+  ],
+  [
+   "2026-08-19T21:21:09.198277+09:00",
+   "김민재 PL 뮌헨도 모두 이적 러브콜 아냐 거절한 대상 화답 모든"
+  ],
+  [
+   "2026-08-19T21:21:09.198277+09:00",
+   "N2 하루만에 중기형 개시 조기 3호 완판 NH투자증권 모집 IMA1"
   ]
  ],
- "last_run": "2026-08-19T21:15:21.549353+09:00",
+ "last_run": "2026-08-19T21:21:17.713127+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
