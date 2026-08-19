@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://theviewers.co.kr/View.aspx?No=4190033",
-  "http://www.metroseoul.co.kr/article/20260818500509",
   "https://www.hankookilbo.com/news/article/A2026081815400004954?did=NA",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072345",
   "http://www.incheonin.com/news/articleView.html?idxno=120109",
@@ -2999,11 +2997,11 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000014.html",
   "https://news.dealsitetv.com/articles/174735",
   "https://www.m-i.kr/news/articleView.html?idxno=1403725",
-  "https://www.koreaherald.com/article/10845801"
+  "https://www.koreaherald.com/article/10845801",
+  "https://www.cstimes.com/news/articleView.html?idxno=717278",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090030.html"
  ],
  "seen_titles": [
-  "코스피,기관매도세에6800선으로하락…코스닥도3%대약세[MTN마감...",
-  "용인반도체산단송전선로건설반발…충북시민사회\"비수도권희생강...",
   "[더밸류브리핑]오늘의KB금융소식...KB증권·KB자산운용",
   "코스피,장초반강세무색…7200서6800대로후퇴",
   "영주시,기업사회공헌을농촌으로…일손지원부터농특산물소비까지",
@@ -6001,7 +5999,9 @@
   "[속보]주주환원40조에신용등급상향까지…SK하닉프리장7%대폭등",
   "[핀포인트][삼성전기]수급불균형에도투자느긋…“세종,용수부족...",
   "대기업고액연봉자5명중1명은'주식보상'…SK·두산이64%",
-  "[GraphicNews]ForeigntouristsexploreSeoul’smarkets,hikingtrai"
+  "[GraphicNews]ForeigntouristsexploreSeoul’smarkets,hikingtrai",
+  "'모두의AI'6파전…카카오'카톡'·SKT'풀스택'·KT'AI연합'",
+  "[키워드NOW]연봉킹"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,13 @@
   [
    "2026-08-20T08:09:39.604402+09:00",
    "markets Seoul explore tourists trails hiking Foreign"
+  ],
+  [
+   "2026-08-20T08:11:04.341923+09:00",
+   "연봉킹"
   ]
  ],
- "last_run": "2026-08-20T08:10:01.235667+09:00",
+ "last_run": "2026-08-20T08:11:10.879945+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
