@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/industry/2026/07/16/2026071518185383044",
-  "https://view.asiae.co.kr/article/2026071518411523902",
   "https://www.newsis.com/view/NISX20260715_0003711110",
   "https://www.hankyung.com/article/2026071577431",
   "https://www.m-i.kr/news/articleView.html?idxno=1392097",
@@ -2999,11 +2997,11 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694074",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190514&t=NN",
   "https://www.thepowernews.co.kr/view.php?ud=202608191248377709caa2b7671d_7",
-  "https://www.starnewskorea.com/broadcast-show/2026/08/19/2026081916193370661"
+  "https://www.starnewskorea.com/broadcast-show/2026/08/19/2026081916193370661",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=239567",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=662681"
  ],
  "seen_titles": [
-  "공정거래조정신청‘역대최다’…“플랫폼·편의점가맹분쟁급증”",
-  "지난해공정거래분쟁조정‘역대최다’…쿠팡에가장많이몰려",
   "지난해공정거래분쟁조정'역대최다'…쿠팡,플랫폼사업자최다",
   "불공정거래분쟁조정최근3년간급증...소상공인관련분쟁커",
   "불공정거래분쟁역대최대…온라인플랫폼분쟁,쿠팡이절반",
@@ -6001,7 +5999,9 @@
   "SK하이닉스,40조원자사주취득·소각...국내최대규모",
   "'생수·두쫀쿠'제치고1위…외국인·젠슨황홀린'음료'정체는",
   "광주·대구·여수·부산청소년들,음악선율로하나된다",
-  "허키시바세키VS김구라..이름부터대결구도\"누가더비주류인가?\"[라..."
+  "허키시바세키VS김구라..이름부터대결구도\"누가더비주류인가?\"[라...",
+  "[병원계소식]8월19일",
+  "[기획]D램11.8배폭등…사재기'사각지대'"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-08-19T16:10:14.232061+09:00",
    "정체는 두쫀쿠 음료 외국인 젠슨 생수 1위 제치고 홀린"
+  ],
+  [
+   "2026-08-19T16:30:21.863649+09:00",
+   "사재기 폭등 8배 사각지대 D램"
   ]
  ],
- "last_run": "2026-08-19T16:27:19.847738+09:00",
+ "last_run": "2026-08-19T16:30:35.567192+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
