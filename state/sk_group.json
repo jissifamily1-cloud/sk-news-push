@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000329469?division=NAVER",
-  "https://www.mydaily.co.kr/page/view/2026081916093006345",
-  "https://www.joongangenews.com/news/articleView.html?idxno=541139",
   "https://news.ifm.kr/news/articleView.html?idxno=477516",
   "https://www.joongangenews.com/news/articleView.html?idxno=541141",
   "https://news.tf.co.kr/read/economy/2355635.htm",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/it-science/cc-newmedia/6264627",
   "https://www.munhwa.com/article/11610863",
   "https://www.news1.kr/industry/sb-founded/6264587",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023968"
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023968",
+  "https://www.news1.kr/finance/general-stock/6264999",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=53549",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=761005"
  ],
  "seen_titles": [
-  "SK하이닉스노사,임단협잠정합의수순",
-  "SK하이닉스,3년간잉여현금흐름50%주주환원",
-  "[연금절세따라잡기]7월은레버리지·8월은거시변수,시장대응전략...",
   "[셀럽의한수]글로벌증시,국제유가·채권금리급등에'출렁'",
   "SK하이닉스,40조원자사주매입‘초강수’…2407만주전량소각",
   "(종합)SK하이닉스,'40조원'역대급주주환원…자사주전량소각·배당도...",
@@ -6001,7 +5998,10 @@
   "\"또왔네\"스팸취급받을라…최적요금제'6개월마다고지'실효성은",
   "[속보]뉴욕증시,美국채금리반등에일제히하락…하닉ADR4.4%↑등반도...",
   "957조반도체팹투자시동…K-소부장\"실증보다양산데이터중요\"",
-  "[AI특별기획④]초지능시대의룰메이커,'K-AI'가완성할다음도약"
+  "[AI특별기획④]초지능시대의룰메이커,'K-AI'가완성할다음도약",
+  "'삼전닉스'레버리지규제풍선효과…'3배'투자위해해외로",
+  "[이넷뉴스브랜드평판]삼성SDI,2차전지상장기업8월1위...LG에너지솔...",
+  "[포토뉴스]\"정기점검받으면뭐해\"곰팡이범벅얼음정수기...해지요구..."
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,21 @@
   [
    "2026-08-21T06:21:03.267072+09:00",
    "초지능 다음 완성할 메이커 도약 시대의 AI"
+  ],
+  [
+   "2026-08-21T06:31:02.430763+09:00",
+   "삼전닉스 3배 규제 투자 레버리지 풍선효과 해외로"
+  ],
+  [
+   "2026-08-21T06:31:02.430763+09:00",
+   "8월 상장기업 LG에너지솔 2차전지 삼성SDI 1위"
+  ],
+  [
+   "2026-08-21T06:31:02.430763+09:00",
+   "얼음정수기 뭐해 받으면 요구 정기점검 곰팡이 범벅 해지"
   ]
  ],
- "last_run": "2026-08-21T06:21:16.827480+09:00",
+ "last_run": "2026-08-21T06:31:14.365395+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
