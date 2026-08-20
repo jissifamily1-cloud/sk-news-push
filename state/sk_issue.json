@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20078243",
-  "https://www.sedaily.com/article/20078261",
-  "https://sateconomy.co.kr/news/view/1065601883669294",
-  "https://www.namdonews.com/news/articleView.html?idxno=919763",
-  "https://www.busan.com/view/busan/view.php?code=2026081116264005878",
-  "https://newscham.net/articles/117047",
   "https://www.nocutnews.co.kr/news/6561499",
   "https://www.namdonews.com/news/articleView.html?idxno=919755",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634097",
@@ -2999,15 +2993,15 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090223.html",
   "https://www.newspim.com/news/view/20260820001270",
   "https://www.joongang.co.kr/article/25454884",
-  "https://www.edaily.co.kr/News/Read?newsId=05244726645549288&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=05244726645549288&mediaCodeNo=257",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1176629",
+  "http://www.fnnews.com/news/202608201844378153",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225122",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641810",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260665&CMPT_CD=P0010",
+  "https://www.hidomin.com/news/articleView.html?idxno=717974"
  ],
  "seen_titles": [
-  "TPG,1.3조에롯데렌탈품는다[시그널]",
-  "롯데,알짜팔아미래동력베팅…바이오·화학체질개선속도[시그널]",
-  "CJ제일제당,햇반12%올리고산식비공개…‘투명판가’는소재식품만",
-  "'장윤기분리수사지시'박성주전국수본부장피의자전환",
-  "국내서전투기교신엿듣고기밀유출…'중국군출신'2명구속",
-  "“해석은그냥의견\"대통령이좁히려는것",
   "'돈봉투·산막의혹'김영환전충북지사불구속송치",
   "제주항공참사경찰특수단,국토부·KAC등압색",
   "‘법원제출문서위조의혹’…경찰,ROTC중앙회압수수색",
@@ -6001,13 +5995,15 @@
   "종합특검,'내란가담의혹'심우정전검찰총장불구속기소",
   "종합특검,'내란중요임무종사'심우정前검찰총장불구속기소",
   "[속보]종합특검,‘내란가담의혹’심우정前검찰총장기소",
-  "[속보]종합특검,심우정전검찰총장기소…내란중요임무종사혐의"
+  "[속보]종합특검,심우정전검찰총장기소…내란중요임무종사혐의",
+  "석유화학산업구조조정신호탄…기업통폐합구체화",
+  "석화사업재편1호기업결합조건부승인",
+  "종합특검,'계엄사검사파견검토'심우정전검찰총장기소",
+  "특검,‘내란가담의혹·항고포기’심우정전총장기소",
+  "심우정'내란중요임무'혐의재판행...'대검계엄수사팀'문건확인",
+  "종합특검,'계엄검사파견'검토한심우정기소…尹석방지휘혐의도"
  ],
  "recent_sigs": [
-  [
-   "2026-08-20T12:50:51.058506+09:00",
-   "부인 1심 혐의 시작 담합 정유사들 기름값 핑계 전쟁 재판"
-  ],
   [
    "2026-08-20T15:31:00.002474+09:00",
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
@@ -6017,7 +6013,7 @@
    "26조 4사 전면 유가담합 의혹 정보교환 정유 HD현대 공판"
   ]
  ],
- "last_run": "2026-08-20T18:40:54.787196+09:00",
+ "last_run": "2026-08-20T18:50:55.832830+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
