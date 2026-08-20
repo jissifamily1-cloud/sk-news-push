@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280885",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633745",
-  "https://biz.chosun.com/topics/topics_social/2026/08/11/UB5BGXF4DFETJEWQJSUBE73XBQ/",
-  "https://www.newsis.com/view/NISX20260811_0003744103",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244825",
-  "https://www.ytn.co.kr/_ln/0103_202608111026235207",
   "https://www.newsis.com/view/NISI20260811_0021394514",
   "https://www.newsis.com/view/NISI20260811_0021394516",
   "https://www.kado.net/news/articleView.html?idxno=2066013",
@@ -2999,15 +2993,15 @@
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423174",
   "http://www.legaltimes.co.kr/news/articleView.html?idxno=95678",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4101736",
-  "https://www.newspim.com/news/view/20260820000399"
+  "https://www.newspim.com/news/view/20260820000399",
+  "http://www.impacton.net/news/articleView.html?idxno=20032",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317878",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260820010006566",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641475",
+  "https://www.busan.com/view/busan/view.php?code=2026082008235256832",
+  "https://imnews.imbc.com/news/2026/society/article/6845999_36918.html"
  ],
  "seen_titles": [
-  "제주항공여객기참사특수단,한국공항공사·국토부등압수수색",
-  "경찰여객기참사특별수사단,한국공항공사·국토부등압수수색…“추...",
-  "‘국보법수사’여행사,2년뒤환불·여행재개공지…피해자들“사...",
-  "대학생모의공정위에역대최다43개팀…AI담합등겨룬다",
-  "'전직경찰간부'가대웅제약수사정보유출했나…경찰압수수색",
-  "12·29여객기참사특별수사단,한국공항공사등압수수색",
   "국토부등압수수색나선12·29여객기참사특별수사단",
   "12·29여객기참사특별수사단,국토부등압수수색",
   "[속보]12·29여객기참사특수단,공항공사·국토부등압수수색",
@@ -6001,7 +5995,13 @@
   "[단독]SK텔레콤,'김앤장전관'으로변호인단싹바꾸고'5G상고심'대응",
   "한양대로스쿨팀,'24회모의공정위경연대회'대상",
   "김명호진보당제주도당위원장\"효성해링턴플레이스제주,권력형게...",
-  "창원주택가서불법도박장운영한일당무더기적발"
+  "창원주택가서불법도박장운영한일당무더기적발",
+  "8월4주차해외ESG핫클립",
+  "경향신문기자\"최민희언론관,트럼프·윤석열닮아\"",
+  "우크라이나정치권반부패수사,대통령실로확대",
+  "합수본,‘투표함입찰비리’업체대표첫피의자조사…‘선피아카...",
+  "경남창원한주택급습했더니‘도박장’…26명무더기적발",
+  "합수본,'사전투표함입찰방해의혹'업체관계자피의자조사"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "대응 SK텔레콤 바꾸고 으로 김앤장 5G상고심 전관 변호인단"
   ]
  ],
- "last_run": "2026-08-20T10:42:26.344686+09:00",
+ "last_run": "2026-08-20T10:50:57.825686+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
