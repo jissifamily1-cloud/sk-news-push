@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=573620&class=32",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633929",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=809328",
-  "https://www.dt.co.kr/article/12077626",
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041700",
   "https://www.insight.co.kr/news/567575",
   "https://www.news1.kr/politics/president/6255053",
@@ -2999,13 +2995,13 @@
   "http://www.newsworker.co.kr/news/articleView.html?idxno=441994",
   "https://www.naeil.com/news/read/599484",
   "https://www.ytn.co.kr/_ln/0102_202608201314519223",
-  "http://www.breaknews.com/1230147"
+  "http://www.breaknews.com/1230147",
+  "http://www.impacton.net/news/articleView.html?idxno=20039",
+  "https://news.mtn.co.kr/news-detail/2026082013125453054",
+  "https://www.insight.co.kr/news/569159",
+  "https://www.khan.co.kr/article/202608201323001"
  ],
  "seen_titles": [
-  "'12·29여객기참사'경찰특수단,국토부등압수수색...추가자료확보",
-  "‘여객기참사’관련공항공사등압수수색",
-  "[이슈]한화,KAI지분15.89%…공정위심사대올랐다",
-  "“이재명암살단모집”댓글단30대시각장애인…검찰,협박죄실형구...",
   "국공립병원검체검사입찰담합의혹…'2940억'규모",
   "KB금융회장후보이재근,국민은행장3년...ELS·LTV·국고채제재시계...",
   "정부'핵추진잠수함'전담조직확대…'경제검찰'공정위인력237명증...",
@@ -6001,7 +5997,11 @@
   "[진단_상조회사①더케이예다함]교직원공제회가키운김도한체제의더...",
   "“선불유심1개개통하면10만원대출”",
   "석화재편'대산1호'결합조건부승인...가격인상제한",
-  "창원서부경찰서,주택가도박장급습…판돈2200만원압수"
+  "창원서부경찰서,주택가도박장급습…판돈2200만원압수",
+  "미국선법무,유럽선재무...지속가능성조직의분화는어디로?",
+  "'대산1호'롯데·HD현대케미칼기업결합조건부승인",
+  "경남창원주택서'도박장'운영한50대...경찰에덜미",
+  "창원주택가에도박판차린일당···경찰,26명무더기검거"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "부인 1심 혐의 시작 담합 정유사들 기름값 핑계 전쟁 재판"
   ]
  ],
- "last_run": "2026-08-20T13:21:28.890096+09:00",
+ "last_run": "2026-08-20T13:31:05.569539+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
