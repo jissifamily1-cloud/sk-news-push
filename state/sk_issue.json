@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260805513517?OutUrl=naver",
-  "https://biz.sbs.co.kr/article_hub/20000327995?division=NAVER",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271539",
-  "https://www.newspim.com/news/view/20260811001013",
-  "https://www.chosun.com/national/regional/chungcheong/2026/08/11/EAVINF4RUJDT3M562B63JXAO2I/",
   "http://www.popcornnews.net/news/articleView.html?idxno=129340",
   "https://www.donga.com/news/Society/article/all/20260811/134459102/1",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258389&CMPT_CD=P0010",
@@ -2999,14 +2994,14 @@
   "https://biz.chosun.com/policy/policy_sub/2026/08/20/YYINMWIONFHQVHT4E5GRJG6XCM/",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16438",
   "https://www.mk.co.kr/article/12132571",
-  "https://www.ceoscoredaily.com/page/view/2026082014041414929"
+  "https://www.ceoscoredaily.com/page/view/2026082014041414929",
+  "https://www.hankyung.com/article/2026082031201",
+  "http://www.gjdream.com/news/articleView.html?idxno=672011",
+  "https://www.ytn.co.kr/_ln/0102_202608201810212438",
+  "http://www.gndomin.com/news/articleView.html?idxno=486206",
+  "http://www.yonhapnewstv.co.kr/news/AKR2026082018095712J"
  ],
  "seen_titles": [
-  "여름휴가서돌아왔다면고인물부터흘려보내야한다…왜?",
-  "세아,계열사거래세무처리발목…과세취소소송패소",
-  "미래에셋이품은코빗,법인명'디지털엑스'로변경…그룹편입'속도'",
-  "김영환전충북지사,금품수수혐의로검찰송치",
-  "김영환전충북지사,체육계금품수수혐의로검찰송치",
   "산업은행,583억금융사고공시…\"거래처기업금융사기혐의\"",
   "경찰‘돈봉투수수의혹’김영환전충북지사송치…강제수사1년만",
   "'압색후경영중단'안데르센여행사\"2년뒤환불\"…고객들'무슨돈으...",
@@ -6001,7 +5996,12 @@
   "상조업체,지배주주신용공여50%로제한돼…개정안국회통과",
   "콜롬비아,세계첫BTR2제출…파리협정'이행의성적표'두번째장열...",
   "롯데·HD현대'석화동맹'성사",
-  "‘26조유가담합’첫공판…HD현대·SK정보교환의혹,정유4사‘전면..."
+  "‘26조유가담합’첫공판…HD현대·SK정보교환의혹,정유4사‘전면...",
+  "공정위,가격제한조건으로석화재편승인",
+  "공정위,석유화학'대산1호'결합조건부승인",
+  "불공정손배소에공정위자료제출의무화...공정거래법통과",
+  "창원서주택빌려도박판벌인26명검거",
+  "종합특검,'내란가담의혹'심우정전검찰총장기소"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "26조 4사 전면 유가담합 의혹 정보교환 정유 HD현대 공판"
   ]
  ],
- "last_run": "2026-08-20T18:10:58.253505+09:00",
+ "last_run": "2026-08-20T18:19:34.010480+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
