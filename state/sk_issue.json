@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbsm.net/news/view.php?idx=529975",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=120060",
-  "https://view.asiae.co.kr/article/2026081114180047318",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=90351",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=450458",
-  "https://www.imaeil.com/page/view/2026081114084703322",
-  "http://worknworld.kctu.org/news/articleView.html?idxno=509788",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700064&plink=ORI&cooper=NAVER",
   "http://www.whosaeng.com/172761",
   "https://www.delighti.co.kr/news/articleView.html?idxno=120062",
   "https://www.livebiz.today/news/articleView.html?idxno=204034",
@@ -2999,17 +2991,17 @@
   "https://www.dailian.co.kr/news/view/1680293/?sc=Naver",
   "https://www.lawtv.kr/news/articleView.html?idxno=60717",
   "https://www.idomin.com/news/articleView.html?idxno=2012776",
-  "https://www.ytn.co.kr/_ln/0103_202608201417485938"
+  "https://www.ytn.co.kr/_ln/0103_202608201417485938",
+  "http://www.metroseoul.co.kr/article/20260820500328",
+  "https://www.livebiz.today/news/articleView.html?idxno=204272",
+  "https://kpenews.com/View.aspx?No=4192517",
+  "https://www.seoul.co.kr/news/society/law/2026/08/20/20260820500131?wlog_tag3=naver",
+  "https://www.ytn.co.kr/_ln/0103_202608201435183094",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=857940",
+  "https://www.todaykorea.co.kr/news/articleView.html?idxno=405135",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84717"
  ],
  "seen_titles": [
-  "압수수색전과정의무녹화…‘한동훈독직폭행’같은분쟁줄어들까",
-  "공정위,국공립병원검체검사입찰담합의혹7개사제재착수",
-  "[단독]재계'저승사자'조사4국,금호석유화학세무조사",
-  "LF네트웍스,과징금4억1800만원",
-  "경찰압수수색에충남전교조거센반발…엇갈린'수사적법성'",
-  "'중국군출신'2명국내서군사기밀수집…한미군사시설노렸다",
-  "\"경찰은전교조표적수사와노조탄압을즉각중단하라\"",
-  "[뉴스브리핑]오늘의주요뉴스…콜롬비아규모7.4강진…600여명사상",
   "검체검사입찰‘706건’담합의혹…공정위심의착수",
   "LF네트웍스,납품업체에판촉비전가·경쟁백화점영업정보요구로제...",
   "공정위,국공립병원검체검사입찰담합한7개의료법인제재착수...과...",
@@ -6001,7 +5993,15 @@
   "KAI노조,한화반박에‘재반박’…“공급망장악우려해소안돼”",
   "합수본,'입찰담합의혹'선관위출신업체대표소환",
   "창원주택가서불법도박벌인일당26명검거",
-  "종합특검,심우정전검찰총장오늘기소방침...\"내란중요임무종사혐..."
+  "종합특검,심우정전검찰총장오늘기소방침...\"내란중요임무종사혐...",
+  "호서대,후기대학원학위수여식…석·박사299명배출",
+  "'석유화학사업재편'대산1호기업결합조건부승인...5년간가격인상...",
+  "대한항공'메가캐리어'뜬다..지형재편따른혼란여전",
+  "양정원‘피의자→참고인’둔갑하고룸살롱접대…강남서팀장재판행",
+  "경찰,'수원마약영상'30대남성소환조사",
+  "LIGD&A,비위일파만파...방산수주'빨간불'",
+  "종합특검,'김건희수사무마'이창수전지검장등5명기소",
+  "HD현대오일뱅크,SK에너지등정유4사유가담합의혹재판본격화…檢..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "부인 1심 혐의 시작 담합 정유사들 기름값 핑계 전쟁 재판"
   ]
  ],
- "last_run": "2026-08-20T14:31:06.862790+09:00",
+ "last_run": "2026-08-20T14:39:28.708985+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
