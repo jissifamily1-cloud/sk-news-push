@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1226090",
   "https://www.the-today.com/news/articleView.html?idxno=88058",
   "https://www.jbnews.com/news/articleView.html?idxno=1508701",
   "https://www.news1.kr/society/general-society/6246381",
@@ -2999,10 +2998,10 @@
   "https://www.news1.kr/industry/general-industry/6264093",
   "https://www.joongdo.co.kr/web/view.php?key=20260820010006011",
   "http://www.weeklytoday.com/news/articleView.html?idxno=790958",
-  "https://www.peoplewatch.co.kr/article/view/ppw202608200002"
+  "https://www.peoplewatch.co.kr/article/view/ppw202608200002",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=599627"
  ],
  "seen_titles": [
-  "두산,SK실트론인수로반도체사업확대...\"2031년매출3조원목표\"",
   "SK,SK실트론지분70.6%두산에매각…‘2.3조원규모’",
   "코스피사상최대반등...급락장서유입된'큰손'매수세",
   "[뉴스後]SK실트론,두산품으로…구미반도체앵커기업새주인",
@@ -6001,7 +6000,8 @@
   "[단독]한성숙총리,28일재계와회동…경제단체장간담회추진",
   "화성시,복지사각지대많은4개지역순회",
   "[위클리오늘]화성시,19일부터문턱확낮춘'찾아가는그냥드림'시행...",
-  "[불편한질문]남의절차엔'공정'외친성기학…영원무역보수도공정..."
+  "[불편한질문]남의절차엔'공정'외친성기학…영원무역보수도공정...",
+  "[총수家]최태원SK그룹회장⑦ㅣ엔비디아·앤트로픽·빌게이츠와잇..."
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-08-20T11:10:15.803438+09:00",
    "영원무역 외친 보수도 성기학 공정 절차엔 남의"
+  ],
+  [
+   "2026-08-20T11:30:24.107010+09:00",
+   "게이츠와 엔비디아 앤트로픽 회장"
   ]
  ],
- "last_run": "2026-08-20T11:20:24.462993+09:00",
+ "last_run": "2026-08-20T11:30:35.616677+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
