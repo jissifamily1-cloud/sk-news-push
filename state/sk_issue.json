@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100297.html",
-  "https://www.chosun.com/economy/industry-company/2026/08/11/W6QKWJ2XIRGFFNSAZCTYWQG334/",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=120090",
   "https://www.ytn.co.kr/_ln/0115_202608111828470485",
   "https://www.hankookilbo.com/news/article/A2026081116510004205?did=NA",
   "https://www.delighti.co.kr/news/articleView.html?idxno=120088",
@@ -2999,12 +2996,12 @@
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=191165",
   "https://www.yna.co.kr/view/AKR20260820174400002?input=1195m",
   "https://www.khan.co.kr/article/202608201934001",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93994"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93994",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245059",
+  "https://www.segye.com/newsView/20260820521066?OutUrl=naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608201055&t=NN"
  ],
  "seen_titles": [
-  "롯데,롯데렌탈美TPG에매각…어피니티무산후새주인찾았다",
-  "롯데,美사모펀드에롯데렌탈매각…1조3000억원확보",
-  "'계열사자금우회지원의혹'김정수다올저축은행대표피의자조사",
   "장윤기'분리수사'지시박성주전국수본부장피의자전환",
   "공수처\"형소법부칙만으론수사권불안정\"난색표한이유",
   "산업은행,거래처사기혐의로583억원대금융사고리스크발생",
@@ -6001,7 +5998,10 @@
   "롯데케미칼·HD현대오일뱅크'대산1호'조건부승인…과점막을'5년안...",
   "상조회사지배주주신용공여,자본금50%이내…할부거래법통과",
   "‘계엄수사팀’검사후보명단까지검토…종합특검,‘내란가담’심...",
-  "기업은행서94억규모금융사고…외부인사기혐의"
+  "기업은행서94억규모금융사고…외부인사기혐의",
+  "상조회사지배주주신용공여,자본금50%이내제한",
+  "공정위,석유화학재편‘대산1호’승인",
+  "상조사지배주주신용공여50%이내로…할부거래법통과"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "26조 4사 전면 유가담합 의혹 정보교환 정유 HD현대 공판"
   ]
  ],
- "last_run": "2026-08-20T19:50:57.125272+09:00",
+ "last_run": "2026-08-20T20:01:10.815199+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
