@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200488",
-  "https://www.wikitree.co.kr/articles/1150123",
   "http://www.thevaluenews.co.kr/news/view.php?idx=200492",
   "https://www.peoplewatch.co.kr/article/view/ppw202608030005",
   "https://www.dongponews.net/news/articleView.html?idxno=59374",
@@ -2999,11 +2997,11 @@
   "https://dealsite.co.kr/articles/167530",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=316251",
   "https://www.jbnews.com/news/articleView.html?idxno=1507910",
-  "https://www.dailian.co.kr/news/view/1680569/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1680569/?sc=Naver",
+  "https://www.insight.co.kr/news/569308",
+  "https://www.newsis.com/view/NISX20260821_0003756925"
  ],
  "seen_titles": [
-  "[ChipWar]SK실트론,두산품으로…반도체수직계열화·리밸런싱'윈윈...",
-  "최태원회장,SK중간배당194억원받는다…실수령100억원안팎",
   "[투자전략따라잡기]MS실적발표이후급변한투심,배경은?",
   "[셀럽의한수]트럼프\"이란과호르무즈합의도달…핵합의도\"",
   "빅딜승자는두산…SK,8년안전장치통할까",
@@ -6001,7 +5999,9 @@
   "[충정로에서]SK하이닉스의주주환원,그리고솔리다임",
   "이재명대통령,최태원과비공개만찬…대미·국내반도체투자논의",
   "청주상공회의소,전국공동사회공헌사업동참",
-  "李대통령,최태원과전격만찬…대미투자반도체카드오갔나"
+  "李대통령,최태원과전격만찬…대미투자반도체카드오갔나",
+  "李대통령,최태원회장과비공개만찬...이재용·정의선·구광모회동도...",
+  "최태원SK회장,내달'EBS석학강연'프로그램출연…\"AI·뉴캐피탈리..."
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-08-21T08:36:48.818602+09:00",
    "SK하이닉스의 주주환원 솔리다임 그리고"
+  ],
+  [
+   "2026-08-21T08:58:06.326424+09:00",
+   "석학 출연 뉴캐피탈리 프로그램 강연 내달 AI 회장 EBS"
   ]
  ],
- "last_run": "2026-08-21T08:50:27.217261+09:00",
+ "last_run": "2026-08-21T08:58:21.393079+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
