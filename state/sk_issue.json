@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kado.net/news/articleView.html?idxno=2066054",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=86349",
-  "https://www.etoday.co.kr/news/view/2613244",
-  "https://www.hankookilbo.com/news/article/A2026081114280003955?did=NA",
   "https://www.ajunews.com/view/20260811152501902",
   "https://www.viva100.com/article/20260811500621",
   "https://daily.hankooki.com/news/articleView.html?idxno=1394788",
@@ -2999,13 +2995,13 @@
   "http://www.seouleconews.com/news/articleView.html?idxno=93198",
   "https://www.dt.co.kr/article/12079244",
   "https://www.seoul.co.kr/news/society/2026/08/20/20260820500155?wlog_tag3=naver",
-  "https://www.yna.co.kr/view/AKR20260820129400004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260820129400004?input=1195m",
+  "https://news.mtn.co.kr/news-detail/2026082015210336745",
+  "https://magazine.hankyung.com/business/article/202608202565b",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120495",
+  "https://www.mhj21.com/news/articleView.html?idxno=253610"
  ],
  "seen_titles": [
-  "중국군출신2명,한미군사시설정보수집혐의구속",
-  "LF네트웍스,판촉비떠넘기고경쟁사영업정보요구-과징금4억1800만원",
-  "한의사미용의료기기사용갈등확산…클래시스·솔타“한의원공급안...",
-  "국공립병원검체검사입찰짬짜미의혹...공정위제재착수",
   "정부,핵잠전담조직띄운다…국방부·방사청38명증원키로",
   "LF네트웍스‘판촉비용전가’제재",
   "검찰수사에공급확대까지…석화업계하반기'첩첩산중'",
@@ -6001,7 +5997,11 @@
   "석유화학재편'대산1호'결합조건부승인…제품가격5년인상제한",
   "석화재편‘대산1호’조건부결합승인…가격인상제한",
   "오세훈측“존재확인안된통화를유죄근거로”…항소이유서제출",
-  "HD현대오일뱅크,법정서유가담합부인…\"구조적비리없어\""
+  "HD현대오일뱅크,법정서유가담합부인…\"구조적비리없어\"",
+  "금융위\"ESG공시,전향적으로업그레이드\"[ESG경제포럼]",
+  "롯데·HD현대'대산1호'조건부승인...공정위,석유화학구조조정첫발...",
+  "공정위,석화재편'대산1호'결합조건부승인…가격인상제한",
+  "[초점]자생한방병원·힘찬병원·연세사랑병원,간납업체조사안하나"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
   ]
  ],
- "last_run": "2026-08-20T15:31:06.652035+09:00",
+ "last_run": "2026-08-20T15:41:08.458136+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
