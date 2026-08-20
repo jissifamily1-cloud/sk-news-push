@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608111317168115",
-  "http://www.fnnews.com/news/202608111324319496",
   "https://www.techm.kr/news/articleView.html?idxno=154192",
   "http://www.yonhapnewstv.co.kr/news/MYH20260811132459SVR",
   "https://www.news1.kr/photos/8050391",
@@ -2999,11 +2997,11 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=363924",
   "https://www.newspim.com/news/view/20260820000769",
   "https://www.kgnews.co.kr/news/article.html?no=908390",
-  "https://www.ytn.co.kr/_ln/0103_202608201347349059"
+  "https://www.ytn.co.kr/_ln/0103_202608201347349059",
+  "https://www.joongangenews.com/news/articleView.html?idxno=541413",
+  "https://imnews.imbc.com/news/2026/econo/article/6846050_36932.html"
  ],
  "seen_titles": [
-  "공정위,국공립병원검체검사입찰담합7개사심의착수",
-  "LF네트웍스,판촉비부당전가·경영정보요구…과징금4.18억",
   "[테크M이슈]하림이품은홈플러스익스프레스…정상화속도붙는다",
   "[이시각헤드라인]8월11일뉴스현장",
   "여객기참사특수단,한국공항공사압수수색",
@@ -6001,7 +5999,9 @@
   "석화재편'대산1호''결합조건부승인…\"5년간가격인상제한\"",
   "'26조대유가담합'재판본격화…정유4사,첫공판서혐의부인",
   "‘수원마약좀비’30대오늘피의자신분소환...경찰,투약경위추궁...",
-  "경찰,'마약영상'남성소환...에토미데이트집중단속도"
+  "경찰,'마약영상'남성소환...에토미데이트집중단속도",
+  "공정위,롯데·HD현대석화통합안'대산1호'조건부승인...5년간가격...",
+  "석화재편'대산1호'결합조건부승인‥제품가격인상제한"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "부인 1심 혐의 시작 담합 정유사들 기름값 핑계 전쟁 재판"
   ]
  ],
- "last_run": "2026-08-20T14:00:17.053348+09:00",
+ "last_run": "2026-08-20T14:01:27.949600+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
