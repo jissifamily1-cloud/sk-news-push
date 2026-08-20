@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.segyebiz.com/newsView/20260811511873?OutUrl=naver",
-  "https://www.tokenpost.kr/news/policy/388179",
   "http://www.joseilbo.com/news/news_read.php?uid=573620&class=32",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633929",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=809328",
@@ -2999,11 +2997,11 @@
   "https://www.naeil.com/news/read/599443",
   "https://www.m-i.kr/news/articleView.html?idxno=1404161",
   "http://www.newsworker.co.kr/news/articleView.html?idxno=441994",
-  "https://www.naeil.com/news/read/599484"
+  "https://www.naeil.com/news/read/599484",
+  "https://www.ytn.co.kr/_ln/0102_202608201314519223",
+  "http://www.breaknews.com/1230147"
  ],
  "seen_titles": [
-  "“피검사·암조직검사까지…”12년담합에과징금588억폭탄",
-  "LF네트웍스,판촉비전가로과징금4억1800만원",
   "'12·29여객기참사'경찰특수단,국토부등압수수색...추가자료확보",
   "‘여객기참사’관련공항공사등압수수색",
   "[이슈]한화,KAI지분15.89%…공정위심사대올랐다",
@@ -6001,7 +5999,9 @@
   "노보노디스크,공정위경고불복소송",
   "'대산1호'공정위문턱넘었다…석유화학사업재편속도",
   "[진단_상조회사①더케이예다함]교직원공제회가키운김도한체제의더...",
-  "“선불유심1개개통하면10만원대출”"
+  "“선불유심1개개통하면10만원대출”",
+  "석화재편'대산1호'결합조건부승인...가격인상제한",
+  "창원서부경찰서,주택가도박장급습…판돈2200만원압수"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "부인 1심 혐의 시작 담합 정유사들 기름값 핑계 전쟁 재판"
   ]
  ],
- "last_run": "2026-08-20T13:10:57.638700+09:00",
+ "last_run": "2026-08-20T13:20:05.746636+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
