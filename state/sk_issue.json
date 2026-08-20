@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=69623",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269910",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633733",
   "http://www.koreastocknews.com/news/articleView.html?idxno=120472",
   "https://www.kwnews.co.kr/article/20260811500154",
   "https://www.nocutnews.co.kr/news/6561022",
@@ -2999,12 +2996,12 @@
   "https://www.goodkyung.com/news/articleView.html?idxno=290435",
   "http://www.inews24.com/view/1996543",
   "https://www.thepublic.kr/news/articleView.html?idxno=315027",
-  "https://www.donga.com/news/Society/article/all/20260820/134486102/1"
+  "https://www.donga.com/news/Society/article/all/20260820/134486102/1",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93953",
+  "https://www.wikitree.co.kr/articles/1153565",
+  "https://www.sedaily.com/article/20081187"
  ],
  "seen_titles": [
-  "12·29제주항공참사수사,경찰특수단공항·국토부압수수색",
-  "대웅제약수사정보유출의혹확산…경찰,성남중원서압수물분석후...",
-  "HL만도공장서숨진김승모씨대책위“노동부,압수수색사전정보유...",
   "산은,'583억금융사고'경찰압수수색통해인지···내부통제도마",
   "[속보]179명숨진12·29제주항공여객기참사특별수사단,한국공항공...",
   "경찰,'무안공항여객기참사'공항공사·국토부등압수수색",
@@ -6001,7 +5998,10 @@
   "자비스앤빌런즈'삼쩜삼',후결제전환에민원60%줄었으나공정위제...",
   "현대엔지,하도급대금늑장지급…공정위시정명령",
   "[이슈체크]76조원대국고채'담합의혹'심판대오른금융권…과징금...",
-  "“중국인명단샀다,맘껏”…여의사,프로포폴4700차례불법투약[더뎁..."
+  "“중국인명단샀다,맘껏”…여의사,프로포폴4700차례불법투약[더뎁...",
+  "'14조유가담합'정유4사첫공판…불공정거래·조사방해혐의도",
+  "미드'히어로즈'여배우갑작스러운죽음두고의문증폭",
+  "창원주택가에불법도박‘하우스’차린일당26명무더기검거"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "어피너티 배신당했다 소송전 가나 롯데 상대"
   ]
  ],
- "last_run": "2026-08-20T09:40:57.695119+09:00",
+ "last_run": "2026-08-20T09:50:54.704441+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
