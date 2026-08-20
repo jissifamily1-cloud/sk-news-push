@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260802500011",
-  "http://www.boannews.com/media/view.asp?idx=144971&kind=2",
-  "https://www.dt.co.kr/article/12076000",
   "http://www.breaknews.com/1226090",
   "https://www.the-today.com/news/articleView.html?idxno=88058",
   "https://www.jbnews.com/news/articleView.html?idxno=1508701",
@@ -2999,12 +2996,12 @@
   "https://www.viva100.com/article/20260820500462",
   "http://www.legaltimes.co.kr/news/articleView.html?idxno=95678",
   "https://www.asiatime.co.kr/article/20260820500147",
-  "https://www.news1.kr/industry/general-industry/6264093"
+  "https://www.news1.kr/industry/general-industry/6264093",
+  "https://www.joongdo.co.kr/web/view.php?key=20260820010006011",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=790958",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608200002"
  ],
  "seen_titles": [
-  "\"나떨고있냐'…SK하이닉스경력채용발표앞두고대기업들긴장",
-  "AI동맹·핵심광물협력성과…이대통령,독일거쳐귀국",
-  "李대통령,남미3개국순방등…사진으로돌아보는한주의기록[한컷...",
   "두산,SK실트론인수로반도체사업확대...\"2031년매출3조원목표\"",
   "SK,SK실트론지분70.6%두산에매각…‘2.3조원규모’",
   "코스피사상최대반등...급락장서유입된'큰손'매수세",
@@ -6001,7 +5998,10 @@
   "“문두드리기전먼저간다”..화성시,선제적복지‘찾아가는그냥드...",
   "한양대로스쿨팀,'24회모의공정위경연대회'대상",
   "화성시,사업장이용어려운시민위한‘찾아가는그냥드림’시행",
-  "[단독]한성숙총리,28일재계와회동…경제단체장간담회추진"
+  "[단독]한성숙총리,28일재계와회동…경제단체장간담회추진",
+  "화성시,복지사각지대많은4개지역순회",
+  "[위클리오늘]화성시,19일부터문턱확낮춘'찾아가는그냥드림'시행...",
+  "[불편한질문]남의절차엔'공정'외친성기학…영원무역보수도공정..."
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-08-20T10:50:15.957915+09:00",
    "회동 28일 한성숙 경제단체장 간담회 총리 재계와"
+  ],
+  [
+   "2026-08-20T11:10:15.803438+09:00",
+   "영원무역 외친 보수도 성기학 공정 절차엔 남의"
   ]
  ],
- "last_run": "2026-08-20T11:00:39.531436+09:00",
+ "last_run": "2026-08-20T11:10:27.020998+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
