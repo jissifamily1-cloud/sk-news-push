@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608111450486347",
-  "https://kpenews.com/View.aspx?No=4182239",
-  "http://www.metroseoul.co.kr/article/20260811500377",
-  "https://biz.sbs.co.kr/article_hub/20000328011?division=NAVER",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244842",
   "http://www.fnnews.com/news/202608111321370978",
   "https://www.hani.co.kr/arti/economy/finance/1272380.html",
@@ -2999,13 +2995,13 @@
   "https://www.sentv.co.kr/article/view/sentv202608200148",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2295686",
   "https://www.etnews.com/20260820000269",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641707"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641707",
+  "http://www.srtimes.kr/news/articleView.html?idxno=210478",
+  "https://www.g-enews.com/view.php?ud=20260820155548330624debea800_1",
+  "https://www.newscj.com/news/articleView.html?idxno=3426609",
+  "https://www.joongang.co.kr/article/25454832"
  ],
  "seen_titles": [
-  "도심서거대성매매업소운영...성매수자명단에경찰·소방관·공무원...",
-  "경찰,무안공항참사수사속도..공항공사·국토부등추가압수수색",
-  "국공립병원검체검사입찰서2900억대담합…공정위제재절차착수",
-  "LF스퀘어'갑질'딱걸렸다…납품업체에판촉비떠넘겨",
   "엘에프네트웍스,납품업체에판촉비떠넘겨과징금'부과'",
   "'감독부당선임·성접대'축구협회급물살탄수사…형사처벌까지이어...",
   "산은,거래기업사기혐의로583억금융사고위험",
@@ -6001,7 +5997,11 @@
   "공정위,롯데·HD현대석유화학'대산1호'기업결합조건부승인",
   "\"석유화학재편1호\"대산기업결합조건부승인…가격·공급제한",
   "카카오,계열사147개→92개…다이어트끝내고AI성장모드돌입",
-  "‘수원마약좀비영상’남성,오늘경찰소환조사"
+  "‘수원마약좀비영상’남성,오늘경찰소환조사",
+  "공정위,석유화학업계첫구조재편'대산1호프로젝트'조건부승인",
+  "공정위,석화사업재편‘대산1호’조건부승인…“경쟁제한우려”",
+  "'대산1호'석화구조개편본궤도…LDPE·EVA가격제한",
+  "‘김건희봐주기’의혹수사팀기소…심우정도‘내란혐의’기소예..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
   ]
  ],
- "last_run": "2026-08-20T16:04:22.660455+09:00",
+ "last_run": "2026-08-20T16:10:56.934446+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
