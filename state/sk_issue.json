@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/society/2026/08/11/20260811500252?wlog_tag3=naver",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383197",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134206",
-  "https://news.bizwatch.co.kr/article/industry/2026/08/11/0036",
   "https://economist.co.kr/article/view/ecn202608110049",
   "https://www.newsis.com/view/NISX20260811_0003744983",
   "https://imnews.imbc.com/news/2026/society/article/6843981_36918.html",
@@ -2999,13 +2995,13 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=83565",
   "https://www.yna.co.kr/view/AKR20260820162800002?input=1195m",
   "https://www.newsgn.com/news/articleView.html?idxno=568803",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=757086"
+  "https://www.mhns.co.kr/news/articleView.html?idxno=757086",
+  "https://www.hankyung.com/article/202608203125h",
+  "https://view.asiae.co.kr/article/2026082017500434830",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878440",
+  "https://biz.chosun.com/policy/policy_sub/2026/08/20/YYINMWIONFHQVHT4E5GRJG6XCM/"
  ],
  "seen_titles": [
-  "돈봉투수수혐의김영환전충북지사불구속송치",
-  "전투기도청에군사정보수집까지…'중국군출신'중국인2명구속",
-  "8년묵은상품이'신상품'둔갑…농협하나로유통,과징금철퇴",
-  "한화,KAI인수'첫번째시험대'올랐다",
   "산업은행,583억원규모금융사고발생…거래처'사기혐의'경찰수사",
   "산업은행,거래처사기혐의로583억금융사고발생",
   "[단독]'장윤기분리수사지시'박성주전국수본부장등피의자전환",
@@ -6001,7 +5997,11 @@
   "손해배상소송입증쉬워진다…공정위자료제출의무법제화",
   "불공정손배소에공정위자료제출의무화…공정거래법통과",
   "주택가에서도박판벌인일당26명검거",
-  "민주당,강은희교육감'백지신탁무력화'의혹정조준…\"차명주식실..."
+  "민주당,강은희교육감'백지신탁무력화'의혹정조준…\"차명주식실...",
+  "호서대,후기대학원학위수여식서299명배출",
+  "\"AI로만든거아냐?\"인천남동구,엉터리안내문논란에해명",
+  "석유화학재편롯데케미칼·HD현대오일뱅크·HD현대케미칼'대산1호'공...",
+  "상조업체,지배주주신용공여50%로제한돼…개정안국회통과"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
   ]
  ],
- "last_run": "2026-08-20T17:50:57.962726+09:00",
+ "last_run": "2026-08-20T18:01:15.706676+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
