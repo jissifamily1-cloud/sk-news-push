@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://swtvnews.com/news/newsview.php?ncode=1065570944441652",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443011",
-  "https://www.pharmnews.com/news/articleView.html?idxno=305686",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=105390",
-  "https://www.cstimes.com/news/articleView.html?idxno=717212",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=390817",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=390759",
-  "https://economist.co.kr/article/view/ecn202608190011",
-  "https://biz.heraldcorp.com/article/10844929",
-  "http://www.breaknews.com/1229731",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=662665",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=133724",
   "https://www.newsway.co.kr/news/view?ud=2026081909330140430",
   "https://www.dailian.co.kr/news/view/1679717/?sc=Naver",
   "https://www.m-economynews.com/news/article.html?no=69323",
@@ -2999,21 +2987,21 @@
   "https://www.newspim.com/news/view/20260820001062",
   "http://www.inews24.com/view/1996791",
   "https://www.newsis.com/view/NISX20260820_0003756206",
-  "https://www.namdonews.com/news/articleView.html?idxno=920615"
+  "https://www.namdonews.com/news/articleView.html?idxno=920615",
+  "http://www.inews24.com/view/1996793",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=850997",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445211",
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=318460",
+  "https://kpenews.com/View.aspx?No=4193183",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608201430251210706",
+  "http://www.joseilbo.com/news/news_read.php?uid=574161&class=53",
+  "http://www.fnnews.com/news/202608201440120453",
+  "https://www.etnews.com/20260820000348",
+  "https://www.news1.kr/industry/general-industry/6264561",
+  "https://www.khan.co.kr/article/202608201600001",
+  "https://www.topdaily.kr/articles/111554"
  ],
  "seen_titles": [
-  "SK하이닉스주가,8월19일장중1,531,000원7.88%하락",
-  "SK바이오팜,엑스코프리미국특허소송첫합의",
-  "[개장시황]\"美국채금리급등여파\"…코스피,매도사이드카발동",
-  "코스피6500선붕괴⋯美국채금리쇼크'반도체'직격",
-  "‘모두의AI’판깔렸다…네이버빠지고SKT·KT·카카오6파전",
-  "SK바이오팜'엑스코프리'특허방어…美제네릭사합의",
-  "SK쉴더스,AI도'접근주체'로관리...제로트러스트사업확장",
-  "SK증권,‘K-브랜드지수’증권사부문톱10탈락…‘토스증권’신규...",
-  "SK텔레콤,'모두의AI'사업참여…전국민AI활용지원나선다",
-  "SK바이오팜,엑스코프리美후속특허소송인도MSN과합의종결",
-  "SKT,풀스택AI역량총결집'모두의AI'사업공모참여...국민AI활용...",
-  "SKT,전국민AI플랫폼구축나선다…'모두의AI'사업참여",
   "수출액절반상위5개기업이싹쓸이…2분기비중50.2%'역대최고'",
   "[빅데이터투데이]아파트2026년8월브랜드평판랭킹...1위힐스테이트...",
   "SKT,‘모두의AI’구축사업참여…풀스택역량총동원",
@@ -6001,7 +5989,19 @@
   "[ETF시황]코스피급반등에반도체레버리지ETF강세",
   "메모리빅2성과급주식으로…삼성전자DS100%·하이닉스60%",
   "호남반도체산단전력·용수인프라사업,25일국무회의서예타면제의...",
-  "[마감시황]SK하이닉스'40조주주환원'에12%급등…삼성전자도9%↑"
+  "[마감시황]SK하이닉스'40조주주환원'에12%급등…삼성전자도9%↑",
+  "코스피5%급등마감…삼성전자·SK하이닉스'쌍끌이'",
+  "코스피,하루만에6800선재탈환…반도체훈풍에6%가까이'급등'",
+  "SK하이닉스대규모주주환원발표뒤'딜레마'에외신주목,돈나갈곳...",
+  "11개월만의1300원대환율회복과'D램달러'의귀환사이",
+  "SK하이닉스노사,성과급합의안도출..60%주식으로지급",
+  "SK하이닉스40조자사주매입에SK증권수수료'잭팟'",
+  "코스피5.9%급등해6850선회복…코스닥1.99%↑",
+  "SK하이닉스성과급60%주식으로준다…삼성전자'주식보상모델'확대",
+  "[ET톡]'코리아디스카운트'깨는삼성전자·SK하이닉스",
+  "SK하이닉스,성과급60%자사주지급…적자땐임금3%나중에(종합)",
+  "‘농어촌기본소득’영향군지역고용률역대최고···반도체산업단...",
+  "SK텔레콤,산업실증앞세워경쟁력확보…확장성방점"
  ],
  "recent_sigs": [
   [
@@ -7027,9 +7027,13 @@
   [
    "2026-08-20T16:01:26.388671+09:00",
    "급등 삼성전자도 주주환원 SK하이닉스 40조"
+  ],
+  [
+   "2026-08-20T16:04:31.969636+09:00",
+   "앞세워 실증 경쟁력 SK텔레콤 방점 확보 확장성 산업"
   ]
  ],
- "last_run": "2026-08-20T16:01:48.116999+09:00",
+ "last_run": "2026-08-20T16:04:38.513199+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
