@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260802500178",
-  "https://www.ngonews.kr/news/articleView.html?idxno=234366",
   "https://www.sisajournal.com/news/articleView.html?idxno=382012",
   "https://www.joongboo.com/news/articleView.html?idxno=363732909",
   "https://www.joongboo.com/news/articleView.html?idxno=363732915",
@@ -2999,11 +2997,11 @@
   "https://www.mt.co.kr/industry/2026/08/20/2026082011080213481",
   "http://www.suwonilbo.kr/news/articleView.html?idxno=317532",
   "https://www.kpinews.kr/newsView/1065593834353700",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260820152721WuD"
+  "http://www.yonhapnewstv.co.kr/news/AKR20260820152721WuD",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160278775363917",
+  "https://www.m-i.kr/news/articleView.html?idxno=1404216"
  ],
  "seen_titles": [
-  "李대통령,AI·핵심광물협력다각화…세일즈외교성과",
-  "\"역대급변동성지나막바지구간\"…美반도체실적·금리주시할때",
   "전국상의,'그냥드림'공동챌린지…복지사각지대해소나선다",
   "대한상의,전국74개상의와'그냥드림'지원…복지사각지대해소나선...",
   "AI가벌어준돈…배당늘리고자사주사고,삼성·SK'주주가치'높인다",
@@ -6001,7 +5999,9 @@
   "이재용·최태원\"주주행복\"같은데…삼성'배당'·하이닉스'자사주'왜...",
   "경기도의회,조직권·예산편성권확보위한연구돌입",
   "남종섭의장\"지방의회법,경기도의회요구반영되도록힘모아달라\"",
-  "한총리,경제단체간담회추진…규제애로청취"
+  "한총리,경제단체간담회추진…규제애로청취",
+  "용인시의회,경기도의회와현안논의…“기초지자체의견반영돼야”",
+  "주목받는최태원리더십…팔방미인'재계맏형'의광폭경영"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-08-20T15:02:19.937866+09:00",
    "자사주 삼성 같은데 주주행복 이재용 배당 하이닉스"
+  ],
+  [
+   "2026-08-20T15:40:17.051846+09:00",
+   "리더십 주목 맏형 팔방미인 광폭 경영 받는 재계"
   ]
  ],
- "last_run": "2026-08-20T15:30:34.362447+09:00",
+ "last_run": "2026-08-20T15:40:38.364959+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
