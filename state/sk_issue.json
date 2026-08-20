@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260811164214239",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260811010003720",
-  "https://www.news1.kr/local/sejong-chungbuk/6255815",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=252182",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54199",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84290",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=450487",
-  "http://www.iminju.net/news/articleView.html?idxno=167919",
-  "https://www.mt.co.kr/society/2026/08/11/2026081116214373559",
-  "https://www.news1.kr/finance/bank/6255826",
-  "https://www.mt.co.kr/society/2026/08/11/2026081110310121205",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050399",
   "https://www.sisajournal.com/news/articleView.html?idxno=383203",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80461",
@@ -2999,20 +2988,20 @@
   "https://www.mediapen.com/news/view/1117833",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592918449590",
   "https://www.newsis.com/view/NISX20260820_0003756512",
-  "https://www.sedaily.com/article/20081477"
+  "https://www.sedaily.com/article/20081477",
+  "https://news.mtn.co.kr/news-detail/2026082016053314077",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93981",
+  "https://www.newspim.com/news/view/20260820001209",
+  "https://www.newspim.com/news/view/20260820001215",
+  "https://lawtalknews.co.kr/article/VS5LR86FK6AI",
+  "http://www.joseilbo.com/news/news_read.php?uid=574170&class=18",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=862453",
+  "https://www.edaily.co.kr/News/Read?newsId=05084006645549288&mediaCodeNo=257",
+  "https://view.asiae.co.kr/article/2026082017330385206",
+  "http://www.jejunews.com/news/articleView.html?idxno=2227297",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641660"
  ],
  "seen_titles": [
-  "산업은행,거래기업사기혐의로580억원대금융사고발생",
-  "[단독]경찰,단속뒤폐업·명의변경막는다…성인PC방‘처분공백’...",
-  "'돈봉투수수의혹'김영환전충북지사송치…강제수사1년만(종합)",
-  "정상혁신한은행장,녹색금융'속도'...태양광·풍력PF'싹쓸이'",
-  "\"캐디피현금만받습니다\"사라진다…골프장서카드·간편결제가능",
-  "'환불'얘기만뺐다…넥슨'메이플키우기',소통빙자한'대결'선언에...",
-  "'돈봉투수수의혹'김영환전충북지사검찰송치",
-  "'돈봉투·인테리어비용대납의혹'김영환전충북지사,검찰송치",
-  "'범죄도시'마석도이름딴마약판매방운영하며58억번20대들재판행",
-  "산업은행,580억원대금융사고발생…\"거래처사기혐의\"",
-  "검사빠지고애매한중수청기술유출수사…경찰·공소청영장'공조'관...",
   "산업은행,거래처사기혐의로583억금융사고…\"상당부분담보\"",
   "금호석화,'재계저승사자'조사4국비정기세무조사",
   "'납품업자와임차인에갑질'엘에프네트웍스에4억대과징금",
@@ -6001,7 +5990,18 @@
   "상조업체지배주주'돈줄'조인다…선수금11조원소비자보호강화",
   "공정위,롯데케미칼·HD현대오일뱅크'대산1호'조건부승인",
   "상조회사지배주주신용공여50%로제한…개정안국회통과",
-  "‘특검기소’도이치수사팀“그래서누가수사무마했나”"
+  "‘특검기소’도이치수사팀“그래서누가수사무마했나”",
+  "석화구조조정'대산1호'조건부승인…롯데·HD현대통합법인출범",
+  "공정위,'대산1호'석유화학사업재편조건부승인",
+  "손해배상소송에공정위자료제출의무화…피해기업입증쉬워진다",
+  "상조선수금11.3조시대…지배주주대여자본금절반으로묶는다",
+  "가해자폰에서'불법촬영영상'직접지웠는데…자백녹취만으로처벌될...",
+  "해외숨은보이스피싱총책잡는다…내부자협조땐형감면",
+  "[단독]A시장수사서'4억뭉치돈'단서나왔다…선거자금정조준?",
+  "'김건희수사무마'기소된검사들\"트집잡기식…무고함밝힐것\"",
+  "도이치수사팀“특검,‘김건희봐주기’혐의못찾자트집기소…법...",
+  "아파트사업과정관계로비의혹",
+  "종합특검,‘김건희봐주기수사의혹’이창수전중앙지검장등5명기..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
   ]
  ],
- "last_run": "2026-08-20T17:31:03.637608+09:00",
+ "last_run": "2026-08-20T17:40:54.221713+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
