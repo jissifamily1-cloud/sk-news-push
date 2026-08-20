@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026081110295984420",
-  "https://news.tf.co.kr/read/life/2352712.htm",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244832",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383098",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190813",
-  "https://www.yna.co.kr/view/PYH20260811050900013?input=1196m",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134176",
-  "https://www.dailian.co.kr/news/view/1677021/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260811058600011?input=1195m",
   "https://www.thereport.co.kr/news/articleView.html?idxno=90332",
   "https://www.ngetnews.com/news/articleView.html?idxno=552296",
@@ -2999,17 +2991,17 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000103.html",
   "https://www.newsis.com/view/NISX20260820_0003755284",
   "https://www.newsis.com/view/NISX20260820_0003755437",
-  "https://view.asiae.co.kr/article/2026082010220649009"
+  "https://view.asiae.co.kr/article/2026082010220649009",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430964",
+  "https://www.nocutnews.co.kr/news/6565341",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03742486645549288",
+  "https://www.news1.kr/society/court-prosecution/6264102",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=441926",
+  "https://www.chosun.com/national/national_general/2026/08/20/732IY6LKMVDKHGN7ZX5GN2JSUY/",
+  "https://www.kukinews.com/article/view/kuk202608200068",
+  "https://www.yna.co.kr/view/AKR20260820072500061?input=1195m"
  ],
  "seen_titles": [
-  "제24회모의공정위경연대회개최…생성형AI·알고리즘담합법리'맞...",
-  "경찰,'제주항공여객기참사'국토부등3곳압수수색",
-  "12·29여객기참사특수단'공항공사·국토부'압수수색",
-  "여객기참사특수단,국토부·공항공사동시압수수색",
-  "경찰,'무안공항제주항공여객기사고'재차강제수사…국토부등압수...",
-  "경찰여객기참사특별수사단,국토부압수수색",
-  "HL만도사망사고압수수색정보샜나...대책위'사전유출'의혹제기",
-  "경찰무안공항여객기참사특별수사단,한국공항공사·국토부등압수...",
   "[연합뉴스이시각헤드라인]-10:30",
   "한국,아·태디지털규제'초고위험'국가",
   "전직경찰거쳐사측에유출정황…'대웅제약수사무마'강제수사",
@@ -6001,7 +5993,15 @@
   "뇌물수수의혹에난감한LIGD&A…K-방산고속질주에제동걸릴까‘좌...",
   "젤렌스키,대통령실부실장경질…자금세탁연루의혹",
   "\"양정원'피의자'→'참고인'으로\"…강남경찰서팀장,檢보완수사로덜미",
-  "\"잘끝날거야\"사건무마하고뇌물챙긴경찰관재판행"
+  "\"잘끝날거야\"사건무마하고뇌물챙긴경찰관재판행",
+  "[현장에서]공정위전원회의대비하는채권시장",
+  "3억뇌물에915억방위사업'편파평가'…방사청공무원등기소",
+  "젤렌스키,부패수사직격탄…측근무드라전격해임",
+  "합수본,'입찰담합'선관위출신투표함업체대표소환(종합)",
+  "HL만도하청노동자죽음에대표이사입건…사망사고이어불법파견수...",
+  "‘유리하게평가해달라’…방위사업청직원에게뇌물준방산업체임직...",
+  "창원주택가서수천만원대도박판개설50대구속",
+  "비틀대던'수원마약영상'30대,오늘경찰소환조사"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "대응 SK텔레콤 바꾸고 으로 김앤장 5G상고심 전관 변호인단"
   ]
  ],
- "last_run": "2026-08-20T11:10:55.089168+09:00",
+ "last_run": "2026-08-20T11:20:53.349884+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
