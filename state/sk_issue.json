@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=244113",
-  "https://www.etoday.co.kr/news/view/2613369",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05943366645546336",
-  "http://www.tjb.co.kr/sub0301/bodo/view/id/102260",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80460",
-  "http://www.4th.kr/news/articleView.html?idxno=2116143",
-  "https://www.hankookilbo.com/news/article/A2026081116420001480?did=NA",
-  "https://www.hankookilbo.com/news/article/A2026081115470005652?did=NA",
   "https://www.ajunews.com/view/20260811164214239",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260811010003720",
   "https://www.news1.kr/local/sejong-chungbuk/6255815",
@@ -2999,17 +2991,17 @@
   "https://www.ddaily.co.kr/page/view/2026082017032767173",
   "http://www.inews24.com/view/1996670",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=227564",
-  "https://www.wikitree.co.kr/articles/1153715"
+  "https://www.wikitree.co.kr/articles/1153715",
+  "https://www.mediapen.com/news/view/1117835",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052680",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052679",
+  "http://www.inews24.com/view/1996844",
+  "https://www.mediapen.com/news/view/1117833",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592918449590",
+  "https://www.newsis.com/view/NISX20260820_0003756512",
+  "https://www.sedaily.com/article/20081477"
  ],
  "seen_titles": [
-  "우리군교신도청에기밀유출까지…중국군출신2명구속外[오늘의...",
-  "산은,거래처사기혐의로580억원대금융사고발생",
-  "국내에서전투기교신도청하고,정보빼낸전직중국군구속",
-  "12·29여객기참사수사74명입건…국토부등추가압수수색",
-  "'병원검체검사입찰서담합'의혹녹십자의료재단등제재착수",
-  "LF네트웍스과징금4.2억원..\"판촉비전가·경쟁사경영정보요구\"",
-  "김영환전충북지사'산막뇌물,돈봉투수수혐의'불구속송치",
-  "[단독]\"가짜확인서법원에제출\"…경찰,'문서위조파문'ROTC중앙회...",
   "산업은행,거래기업사기혐의로580억원대금융사고발생",
   "[단독]경찰,단속뒤폐업·명의변경막는다…성인PC방‘처분공백’...",
   "'돈봉투수수의혹'김영환전충북지사송치…강제수사1년만(종합)",
@@ -6001,7 +5993,15 @@
   "한화에반발하는KAI노조\"섣부른방산대형화,비효율우려…한화가...",
   "석화구조조정'대산1호'조건부통과…NCC통폐합,경쟁제한문턱넘어",
   "석유화학구조조정첫관문넘었다…대산통합승인,LDPE·EVA엔'5년족...",
-  "임은정,중수청지원…임용시1급수사관으로"
+  "임은정,중수청지원…임용시1급수사관으로",
+  "KAI노조,한화인수움직임에재차반발…“공급망장악·독과점우려”",
+  "공정거래법·하도급법개정안국회본회의통과",
+  "선불식할부거래소비자보호,지배주주신용공여는조이고소비자정보...",
+  "상조업체지배주주자금대여제한할부거래법개정안,국회통과",
+  "상조업체지배주주'돈줄'조인다…선수금11조원소비자보호강화",
+  "공정위,롯데케미칼·HD현대오일뱅크'대산1호'조건부승인",
+  "상조회사지배주주신용공여50%로제한…개정안국회통과",
+  "‘특검기소’도이치수사팀“그래서누가수사무마했나”"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
   ]
  ],
- "last_run": "2026-08-20T17:20:56.967224+09:00",
+ "last_run": "2026-08-20T17:31:03.637608+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
