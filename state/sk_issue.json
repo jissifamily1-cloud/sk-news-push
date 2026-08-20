@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6561499",
-  "https://www.namdonews.com/news/articleView.html?idxno=919755",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634097",
   "https://news.mtn.co.kr/news-detail/2026081118090010031",
   "http://www.srtimes.kr/news/articleView.html?idxno=209736",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06376326645546336",
@@ -2999,12 +2996,12 @@
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=225122",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641810",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260665&CMPT_CD=P0010",
-  "https://www.hidomin.com/news/articleView.html?idxno=717974"
+  "https://www.hidomin.com/news/articleView.html?idxno=717974",
+  "https://www.hani.co.kr/arti/society/society_general/1273889.html",
+  "https://www.ytn.co.kr/_ln/0103_202608201850477002",
+  "https://www.joongang.co.kr/article/25454895"
  ],
  "seen_titles": [
-  "'돈봉투·산막의혹'김영환전충북지사불구속송치",
-  "제주항공참사경찰특수단,국토부·KAC등압색",
-  "‘법원제출문서위조의혹’…경찰,ROTC중앙회압수수색",
   "롯데,롯데렌탈미국계사모펀드TPG에매각…1조3105억'빅딜'",
   "판촉비전가·경영정보요구…공정위,LF네트웍스과징금4억1800만원부...",
   "[마켓인]롯데렌탈,美TPG품으로…매각가1.3조성사",
@@ -6001,7 +5998,10 @@
   "종합특검,'계엄사검사파견검토'심우정전검찰총장기소",
   "특검,‘내란가담의혹·항고포기’심우정전총장기소",
   "심우정'내란중요임무'혐의재판행...'대검계엄수사팀'문건확인",
-  "종합특검,'계엄검사파견'검토한심우정기소…尹석방지휘혐의도"
+  "종합특검,'계엄검사파견'검토한심우정기소…尹석방지휘혐의도",
+  "[단독]김건희'디올의류’받은업체제품영국국빈방문등외교행...",
+  "종합특검,심우정전검찰총장'내란혐의'등불구속기소",
+  "종합특검,심우정전검찰총장‘계엄사합수부검사파견검토’혐의..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "26조 4사 전면 유가담합 의혹 정보교환 정유 HD현대 공판"
   ]
  ],
- "last_run": "2026-08-20T18:50:55.832830+09:00",
+ "last_run": "2026-08-20T18:56:02.772443+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
