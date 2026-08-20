@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/industry/2026/08/19/0040",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=662694",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93936",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168454",
-  "https://www.news1.kr/it-science/internet-platform/6263427",
-  "https://www.nocutnews.co.kr/news/6565000",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43124",
   "http://www.finomy.com/news/articleView.html?idxno=259498",
   "https://www.ekn.kr/web/view.php?key=20260819029004208",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445111",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20260821_0003756957",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=316251",
   "https://www.kukinews.com/article/view/kuk202608210016",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210521"
+  "http://www.srtimes.kr/news/articleView.html?idxno=210521",
+  "https://biz.sbs.co.kr/article_hub/20000329924?division=NAVER",
+  "https://www.newspim.com/news/view/20260821000079",
+  "https://www.ajunews.com/view/20260821084000301",
+  "https://www.dailian.co.kr/news/view/1680569/?sc=Naver",
+  "https://www.mk.co.kr/article/12132905",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704976",
+  "https://www.newspim.com/news/view/20260821000056"
  ],
  "seen_titles": [
-  "SK하이닉스,40조원자사주매입·소각…\"국내상장사최대규모\"",
-  "반도체주급락에코스피5.8%↓…외국인3.5조원'팔자'",
-  "외인2조매도에도1400원붕괴…'46조법인세'앞두고원화강세베팅...",
-  "SK하이닉스,'넘사벽'주주환원…40조자사주매입해태운다",
-  "코스피,미국장기금리충격에6470선급락마감",
-  "구윤철부총리\"대미3500억달러투자,에너지분야관심높아\"",
-  "'역대최대'40조원소각에도…SK하이닉스주주환원아쉬운이유",
   "'모두의AI'잡아라…통신·플랫폼중심으로AI동맹총출동",
   "美국채금리發'검은수요일'…환율열달만에1300원대",
   "삼성16조넘어섰다…SK하이닉스,40조자사주소각,국내최대기록경...",
@@ -6001,7 +5994,14 @@
   "유안타證\"SK,자회사실적·주주환원호조…목표가83만원\"",
   "이재명대통령,최태원과비공개만찬…대미·국내반도체투자논의",
   "휴온스,팀리그2라운드10연승…‘전승우승’신화[PBA]",
-  "토스증권,올리브영과손잡고신규투자자유치"
+  "토스증권,올리브영과손잡고신규투자자유치",
+  "'바이백약발'끝?...뉴욕증시,일제히하락마감",
+  "[모닝리포트]\"신성이엔지,반도체팹투자확대에수주증가\"",
+  "[마켓프리뷰]뉴욕증시금리재상승에일제히하락…코스피,반도체·외...",
+  "李대통령,최태원과전격만찬…대미투자반도체카드오갔나",
+  "“SK,‘아직시작도안했다’…자회사실적호조·주주환원확대기대...",
+  "하나금융,디지털자산수탁사업가속화",
+  "[AIMY증시전망]코스피,美증시약세영향에하락출발전망"
  ],
  "recent_sigs": [
   [
@@ -6499,9 +6499,17 @@
   [
    "2026-08-21T08:41:01.777040+09:00",
    "올리브영과 유치 손잡고 토스증권 신규 투자자"
+  ],
+  [
+   "2026-08-21T08:51:03.986052+09:00",
+   "하나금융 사업 디지털자산 수탁 가속화"
+  ],
+  [
+   "2026-08-21T08:51:03.986052+09:00",
+   "약세 코스피 하락 전망 출발 영향에 증시"
   ]
  ],
- "last_run": "2026-08-21T08:41:11.280952+09:00",
+ "last_run": "2026-08-21T08:51:12.195607+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
