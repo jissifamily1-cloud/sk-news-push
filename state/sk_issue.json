@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071754",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211740",
-  "https://www.ppss.kr/news/articleView.html?idxno=305007",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83086",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30651",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=120083",
-  "https://www.kukinews.com/article/view/kuk202608110150",
-  "https://www.newsis.com/view/NISX20260811_0003744485",
-  "https://news.ifm.kr/news/articleView.html?idxno=476988",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=450480",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634033",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05844966645546336",
   "https://www.christiantoday.co.kr/news/376718",
@@ -2999,19 +2989,19 @@
   "https://www.kyeonggi.com/article/20260820580369",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245049",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4101833",
-  "https://www.dt.co.kr/article/12079287"
+  "https://www.dt.co.kr/article/12079287",
+  "http://news.lghellovision.net/news/articleView.html?idxno=551815",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=252828",
+  "https://www.m-i.kr/news/articleView.html?idxno=1404335",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090198.html",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479125",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101842",
+  "https://view.asiae.co.kr/article/2026082016435385988",
+  "https://www.dailian.co.kr/news/view/1680439/?sc=Naver",
+  "https://www.nocutnews.co.kr/news/6565625",
+  "https://www.seoul.co.kr/news/society/accident/2026/08/20/20260820500189?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "청소년여행사안데르센환불지연·연락두절…여행중단에정부기관...",
-  "김영환전충북지사송치…인테리어비대납받고특혜혐의",
-  "경찰,中인민해방군출신2명구속...한미군사정보도청·자료유출혐...",
-  "LF스퀘어납품업자에판촉비떠넘긴LF네트웍스…공정위,4억1800만원과...",
-  "국세청,조사요원핸드폰수거후'모범납세자'금호석유화학특별세무...",
-  "롯데그룹,'국내1위'롯데렌탈매각…새주인은글로벌사모펀드TPG",
-  "담합엔“별도법인”…씨젠·의료재단잇는형제애",
-  "美컨설턴트“한국,쿠팡등차별규제…트럼프압박다음타깃될수도...",
-  "텔레그램마약채널'마석도'총책검거…58억원규모전국유통조직기...",
-  "현직공무원,피의자신분으로15개월…검찰처분기다리다'멈춘시간...",
   "‘돈봉투수수의혹’김영환전충북도지사검찰송치",
   "2년간마약거래액58억…검·경합수본,'마석도'운영총책구속기소",
   "[자유통일당대변인논평]선거조작위인가,더는선거라부를가치도...",
@@ -6001,7 +5991,17 @@
   "공정위,‘대산1호프로젝트’조건부승인…LDPE·EVA가격인상제한",
   "공정위,롯데·HD현대'대산1호'조건부승인",
   "공정위,롯데·HD현대'대산1호'조건부승인…5년간가격·공급제한...",
-  "‘일감몰아주기의혹’합수본,‘선관위출신’기업대표소환"
+  "‘일감몰아주기의혹’합수본,‘선관위출신’기업대표소환",
+  "경기도교육청,부천·광명·의정부고교배정방식변경",
+  "유통가,엇갈린규제법안…대형마트·백화점풀고온라인마켓조인다",
+  "고려아연,MBK고발예고에\"성과주주에게공유한것…자기모순말라\"",
+  "공정위,롯데·HD현대석유화학대산1호합병조건부승인",
+  "KAI노조,한화측에재반박…\"수직계열화,경쟁력보장못해\"",
+  "상조회사'대주주쌈짓돈'전용금지…'할부거래법개정안'국회본회의...",
+  "할부거래법개정안국회통과…상조회사지배주주신용공여한도,자본...",
+  "공정위'무혐의'결정재조사요청가능…신고인권리강화",
+  "하청노동자사망에'현대車'와'현대重'법적용엇갈리나",
+  "창원한주택이불법도박장으로…26명현장서붙잡혀"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
   ]
  ],
- "last_run": "2026-08-20T16:40:59.774238+09:00",
+ "last_run": "2026-08-20T16:50:58.832218+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
