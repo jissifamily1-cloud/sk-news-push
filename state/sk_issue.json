@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kado.net/news/articleView.html?idxno=2066013",
-  "https://idsn.co.kr/news/view/1065575873229427",
-  "https://www.segye.com/newsView/20260811507135?OutUrl=naver",
-  "https://www.ibabynews.com/news/articleView.html?idxno=153487",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307259",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309851&inflow=N",
   "https://view.asiae.co.kr/article/2026081110295984420",
   "https://news.tf.co.kr/read/life/2352712.htm",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244832",
@@ -2999,15 +2993,15 @@
   "https://www.busan.com/view/busan/view.php?code=2026082008235256832",
   "https://imnews.imbc.com/news/2026/society/article/6845999_36918.html",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=390911",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260820.99099005579"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260820.99099005579",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608181520123800104059",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608181333440720105027",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000103.html",
+  "https://www.newsis.com/view/NISX20260820_0003755284",
+  "https://www.newsis.com/view/NISX20260820_0003755437",
+  "https://view.asiae.co.kr/article/2026082010220649009"
  ],
  "seen_titles": [
-  "[속보]12·29여객기참사특수단,공항공사·국토부등압수수색",
-  "12·29여객기참사특별수사단,한국공항공사·국토부·부산지방항공청...",
-  "경찰여객기참사특수단,한국공항공사·국토부등압수수색",
-  "[청년뉴스]아름다운재단-미래에셋박현주재단,가족돌봄청년위한금융...",
-  "공급망·지분뺏긴KAI,독자체계종합경쟁력'위기'",
-  "한화,KAI‘인수’성큼…완주까지넘어야할산",
   "제24회모의공정위경연대회개최…생성형AI·알고리즘담합법리'맞...",
   "경찰,'제주항공여객기참사'국토부등3곳압수수색",
   "12·29여객기참사특수단'공항공사·국토부'압수수색",
@@ -6001,7 +5995,13 @@
   "경남창원한주택급습했더니‘도박장’…26명무더기적발",
   "합수본,'사전투표함입찰방해의혹'업체관계자피의자조사",
   "대만군용드론에중국산부품납품…방산업체대표구속",
-  "창원도심주택지서도박장운영·참가한26명덜미…현금2229만원압수"
+  "창원도심주택지서도박장운영·참가한26명덜미…현금2229만원압수",
+  "[더벨][한진칼공정위규제대응]최대리스크‘마일리지’통합,재무...",
+  "[더벨][윤활유담합과징금리스크]‘범우’지배주주벡스인터코퍼레...",
+  "뇌물수수의혹에난감한LIGD&A…K-방산고속질주에제동걸릴까‘좌...",
+  "젤렌스키,대통령실부실장경질…자금세탁연루의혹",
+  "\"양정원'피의자'→'참고인'으로\"…강남경찰서팀장,檢보완수사로덜미",
+  "\"잘끝날거야\"사건무마하고뇌물챙긴경찰관재판행"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "대응 SK텔레콤 바꾸고 으로 김앤장 5G상고심 전관 변호인단"
   ]
  ],
- "last_run": "2026-08-20T11:01:08.360211+09:00",
+ "last_run": "2026-08-20T11:10:55.089168+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
