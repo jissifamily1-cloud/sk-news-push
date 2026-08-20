@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026081878391",
-  "https://www.hankyung.com/article/2026081879001",
-  "https://sports.donga.com/sports/article/all/20260819/134499899/1",
-  "https://www.chosun.com/economy/tech_it/2026/08/19/BQFM7DIA75AVZKZX7MWX5MZ6JU/",
-  "https://www.donga.com/news/Economy/article/all/20260818/134498989/2",
-  "https://www.xportsnews.com/article/2185086",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000004153&cp=nv",
-  "https://www.joongang.co.kr/article/25454301",
-  "https://biz.chosun.com/international/international_economy/2026/08/19/UDRCJOLCRZFBLGYG5XRB64KDMI/",
   "https://www.tokenpost.kr/news/breaking/392645",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000004135&cp=nv",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000004136&cp=nv",
@@ -2999,18 +2990,18 @@
   "https://www.kpinews.kr/newsView/1065579159212584",
   "https://www.ytn.co.kr/_ln/0102_202608201137006107",
   "https://www.news1.kr/local/gwangju-jeonnam/6264199",
-  "https://www.munhwa.com/article/11610676"
+  "https://www.munhwa.com/article/11610676",
+  "https://www.dailian.co.kr/news/view/1680260/?sc=Naver",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445177",
+  "https://www.munhwa.com/article/11610690",
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=2441",
+  "https://byline.network/?p=9004111222615994",
+  "https://economist.co.kr/article/view/ecn202608200026",
+  "https://view.asiae.co.kr/article/2026082007581216371",
+  "https://zdnet.co.kr/view/?no=20260820114339",
+  "https://www.besteleven.com/news/articleView.html?idxno=311363"
  ],
  "seen_titles": [
-  "보고도믿기어려운…롯데,7회에만13득점폭발‘리그역대공동2위’",
-  "맨유관심도마다한김민재,부상악재피했다...프리시즌최종전'교체...",
-  "8월3주주요제조업전망",
-  "삼성이렇게질경기였나,'53000-2700-4600'新파티에도웃지못했다",
-  "호남반도체부지옆에‘람사르신청습지’변수",
-  "[데스크칼럼]레버리지사태에서뭘배울것인가",
-  "[사설]글로벌경쟁속도못따라가는'국가대표AI'프로젝트",
-  "[다산칼럼]세금지옥이되어가는한국",
-  "SSG김민준역대최다연속경기QS공동2위…고졸루키위대한기록함께...",
   "SKT·업스테이지·LGAI연구원,‘국대AI’3차전진출",
   "‘국가대표AI’선발경쟁,LG-SKT-업스테이지3파전압축",
   "롯데'승리확률0.7%'서대반전!6회까지0득점→7회에만13점대폭발,...",
@@ -6001,7 +5992,16 @@
   "SK온헝가리공장,노동자65명안전위협…4억4600만원과태료",
   "코스피,장중급등에매수사이드카...삼전닉스상승세",
   "'호남권반도체'들어설광주군공항무안이전28일결정되나",
-  "울산시,원하청복지·처우격차해소호평"
+  "울산시,원하청복지·처우격차해소호평",
+  "네이버불참한‘모두의AI’,카카오·통신사는왜절박한가",
+  "SK하이닉스자사주매입에해석엇갈려,메모리반도체'호황장기화예...",
+  "또‘롤러코스피’…오늘은매수사이드카",
+  "하나금융·SKT손잡은'비트고코리아',가상자산사업자신고수리",
+  "비트고코리아,글로벌디지털자산기업최초국내가상자산사업자신고...",
+  "[오늘의삼전닉스]주주환원·자사주매입에거래량폭발...'재료'반응...",
+  "‘불법사이트개설죄’생긴다…광고수익막아돈줄차단",
+  "\"AI와블록체인융합\"...포스텍,디지털자산전문가과정11기모집",
+  "[K리그1프리뷰]'8G무패'제주와'5G무패'김천격돌!…부천은첫연..."
  ],
  "recent_sigs": [
   [
@@ -7035,9 +7035,25 @@
   [
    "2026-08-20T11:44:46.584722+09:00",
    "처우격차 해소 울산시 복지 원하청 호평"
+  ],
+  [
+   "2026-08-20T11:51:11.553488+09:00",
+   "재료 거래량 폭발 주주환원 자사주 반응 매입에"
+  ],
+  [
+   "2026-08-20T11:51:11.553488+09:00",
+   "차단 생긴다 수익 불법사이트 돈줄 개설죄 광고 막아"
+  ],
+  [
+   "2026-08-20T11:51:11.553488+09:00",
+   "모집 AI와 11기 블록체인 디지털자산 전문가 융합 포스텍 과정"
+  ],
+  [
+   "2026-08-20T11:51:11.553488+09:00",
+   "8G 제주와 김천 5G 격돌 부천은 무패"
   ]
  ],
- "last_run": "2026-08-20T11:44:55.723752+09:00",
+ "last_run": "2026-08-20T11:51:25.119822+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
