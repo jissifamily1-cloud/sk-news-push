@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202608110049",
-  "https://www.newsis.com/view/NISX20260811_0003744983",
-  "https://imnews.imbc.com/news/2026/society/article/6843981_36918.html",
   "https://www.segye.com/newsView/20260805513517?OutUrl=naver",
   "https://biz.sbs.co.kr/article_hub/20000327995?division=NAVER",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271539",
@@ -2999,12 +2996,12 @@
   "https://www.hankyung.com/article/202608203125h",
   "https://view.asiae.co.kr/article/2026082017500434830",
   "https://www.getnews.co.kr/news/articleView.html?idxno=878440",
-  "https://biz.chosun.com/policy/policy_sub/2026/08/20/YYINMWIONFHQVHT4E5GRJG6XCM/"
+  "https://biz.chosun.com/policy/policy_sub/2026/08/20/YYINMWIONFHQVHT4E5GRJG6XCM/",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16438",
+  "https://www.mk.co.kr/article/12132571",
+  "https://www.ceoscoredaily.com/page/view/2026082014041414929"
  ],
  "seen_titles": [
-  "산업은행,583억원규모금융사고발생…거래처'사기혐의'경찰수사",
-  "산업은행,거래처사기혐의로583억금융사고발생",
-  "[단독]'장윤기분리수사지시'박성주전국수본부장등피의자전환",
   "여름휴가서돌아왔다면고인물부터흘려보내야한다…왜?",
   "세아,계열사거래세무처리발목…과세취소소송패소",
   "미래에셋이품은코빗,법인명'디지털엑스'로변경…그룹편입'속도'",
@@ -6001,7 +5998,10 @@
   "호서대,후기대학원학위수여식서299명배출",
   "\"AI로만든거아냐?\"인천남동구,엉터리안내문논란에해명",
   "석유화학재편롯데케미칼·HD현대오일뱅크·HD현대케미칼'대산1호'공...",
-  "상조업체,지배주주신용공여50%로제한돼…개정안국회통과"
+  "상조업체,지배주주신용공여50%로제한돼…개정안국회통과",
+  "콜롬비아,세계첫BTR2제출…파리협정'이행의성적표'두번째장열...",
+  "롯데·HD현대'석화동맹'성사",
+  "‘26조유가담합’첫공판…HD현대·SK정보교환의혹,정유4사‘전면..."
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-08-20T15:31:00.002474+09:00",
    "법정서 부인 구조적 HD현대오일뱅크 비리 없어 유가담합"
+  ],
+  [
+   "2026-08-20T18:10:51.177231+09:00",
+   "26조 4사 전면 유가담합 의혹 정보교환 정유 HD현대 공판"
   ]
  ],
- "last_run": "2026-08-20T18:01:15.706676+09:00",
+ "last_run": "2026-08-20T18:10:58.253505+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
