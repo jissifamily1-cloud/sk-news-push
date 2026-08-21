@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718924",
-  "https://news.mtn.co.kr/news-detail/2026080315354881790",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546359",
-  "https://www.newsis.com/view/NISX20260803_0003734398",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443809",
-  "http://www.inews24.com/view/1991347",
   "https://www.newspim.com/news/view/20260803001116",
   "https://www.businesspost.co.kr/BP?command=article_view&num=443806",
   "https://www.mt.co.kr/industry/2026/08/03/2026080316072699712",
@@ -2999,15 +2993,15 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1310945&inflow=N",
   "http://www.newsian.co.kr/news/articleView.html?idxno=94016",
   "https://www.gokorea.kr/news/articleView.html?idxno=875765",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851079"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851079",
+  "https://www.dongponews.net/news/articleView.html?idxno=59374",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265850",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1012216",
+  "http://www.newsbrite.net/news/articleView.html?idxno=199873",
+  "https://www.joongang.co.kr/article/25455045",
+  "https://www.sedaily.com/article/20081677"
  ],
  "seen_titles": [
-  "대한상의,전국74개상의와복지사각지대지원…'그냥드림'챌린지",
-  "최태원,확실한'재산분할'카드SK실트론개인지분...처분시점은",
-  "용인특례시의회,AI연구모임등의원연구단체8개운영",
-  "용인특례시의회,의원연구단체8개운영",
-  "두산그룹이SK실트론을100%자회사만들어도최대3.3조'감당수준':...",
-  "SK실트론인수하며반도체날개단두산…최태원'재산분할열쇠'도품...",
   "김민석민주당당대표후보,3일전주서표심공략",
   "[공시학개론]흔들리는주가에자사주사는경영진…'책임경영'신호",
   "[성공예감]삼전닉스목표주가,애널리스트에따라3배까지차이나는...",
@@ -6001,7 +5995,13 @@
   "이대통령,최태원과비공개만찬…‘호남반도체’실행점검했나",
   "[초점]李대통령,최태원과비공개만찬…'반도체·대미투자'해법논...",
   "이재명대통령-최태원SK회장비공식만찬…호남반도체프로젝트논의...",
-  "SK하이닉스,'日미야기현에메모리팹건립추진'보도\"사실무근\""
+  "SK하이닉스,'日미야기현에메모리팹건립추진'보도\"사실무근\"",
+  "대한상의·신기업가정신협의회,복지사각지대해소'공동챌린지'첫발",
+  "李대통령,최태원회장과비공개만찬회동…대미투자·메가프로젝트논...",
+  "李대통령,최태원과만찬···발등에떨어진대미투자탓?",
+  "'1조원재산분할'재상고전…긴소송이남긴'유감'",
+  "SK하닉끌어올릴한방더있다?“사팔말라”최태원의장담",
+  "성과급60%자사주로…SK하이닉스임금협약대전환"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,21 @@
   [
    "2026-08-21T10:00:28.253808+09:00",
    "미야기현에 보도 건립 SK하이닉스 사실무근 메모리"
+  ],
+  [
+   "2026-08-21T10:10:14.634867+09:00",
+   "1조 재상고전 재산분할 유감 남긴 소송이"
+  ],
+  [
+   "2026-08-21T10:10:14.634867+09:00",
+   "끌어올릴 말라 한방 사팔 최태원의 SK하닉 있다 장담"
+  ],
+  [
+   "2026-08-21T10:10:14.634867+09:00",
+   "자사주로 SK하이닉스 대전환 임금협약 성과급"
   ]
  ],
- "last_run": "2026-08-21T10:00:41.879131+09:00",
+ "last_run": "2026-08-21T10:10:31.690085+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
