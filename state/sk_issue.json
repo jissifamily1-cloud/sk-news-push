@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257210",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260812.99099003238",
-  "https://www.ngetnews.com/news/articleView.html?idxno=552343",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=120516",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257211",
-  "https://www.dailian.co.kr/news/view/1677630/?sc=Naver",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336386",
-  "https://www.dt.co.kr/article/12077880",
-  "https://www.yna.co.kr/view/AKR20260812101000004?input=1195m",
   "https://www.junggi.co.kr/news/articleView.html?idxno=37426",
   "https://www.greened.kr/news/articleView.html?idxno=347496",
   "https://www.newsis.com/view/NISX20260812_0003746200",
@@ -2999,18 +2990,18 @@
   "https://www.newspim.com/news/view/20260821000901",
   "https://news.jtbc.co.kr/article/NB12314482?influxDiv=NAVER",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214016",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546333"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546333",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=357769",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546367",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214014",
+  "https://www.m-i.kr/news/articleView.html?idxno=1404807",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546359",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642947",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260821191624X85",
+  "https://news.jtbc.co.kr/article/NB12314477?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "감축전제로고탄소기업에도투자···NH아문디,전환금융길연다",
-  "도소매·서비스가맹본부10곳중6곳꼴로계약서부실작성",
-  "공정위,LF네트웍스에과징금4억1800만원부과",
-  "김정수다올저축은행대표피의자조사···다올투자증권에3000억지원...",
-  "연체없던583억원,경찰이먼저찾았다···산업은행기업대출서무슨...",
-  "KAI노조,한화기업결합불허요구…\"경쟁업체가경영참여하는구조...",
-  "유시춘EBS이사장법카무단사용?1심재판부무죄선고",
-  "이준석,부정선거론겨냥“사전투표,투표율오입력한건도없어”",
-  "가습기살균제피해자단체서영철대표사망…산소발생기·휠체어생활",
   "롯데렌탈,경영권지분1조3천여억원에매각",
   "한화지분확대에최대주주수은'컨설팅용역'까지…KAI노조는반발",
   "[단독]'수사부담'커진경찰,기동대130개부대정원10%씩줄인다",
@@ -6001,7 +5992,16 @@
   "종합특검,'양평'원희룡·디올백·통일교사건경찰에'줄이첩'",
   "[뉴스룸오프닝]트럼프말대로조기종료/'이혼'이소환한'비자금'...",
   "MBN뉴스7주요뉴스",
-  "최태원·노소영이혼이소환한‘노태우비자금’"
+  "최태원·노소영이혼이소환한‘노태우비자금’",
+  "노태우일가비자금·조세포탈의혹…검찰,연희동사저전격압수수색",
+  "[아는기자]이혼이소환한‘비자금’…35년만에환수?",
+  "檢,‘노태우비자금의혹’압수수색…부메랑된‘904억메모’",
+  "'비자금은닉의혹'노태우전대통령부인김옥숙여사자택압수수색",
+  "종합특검,'양평고속도록의혹'원희룡사건,경찰이첩",
+  "거제·통영특별재난지역선포…도시뒤덮은쓰레기산",
+  "[단독]‘노태우비자금’압수수색…장남재단‘세탁통로’의심",
+  "검찰,'노태우비자금'첫강제수사…김옥숙여사자택압수수색",
+  "이혼소송이들춰낸'비자금'…'노태우일가'수사시작됐다"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "동참하라 전문 제명 이진숙 수록 헌법 오월단체 촉구"
   ]
  ],
- "last_run": "2026-08-21T19:10:53.086434+09:00",
+ "last_run": "2026-08-21T19:20:59.341082+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
