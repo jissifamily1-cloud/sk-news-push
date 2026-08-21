@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260820_0003755540",
-  "http://www.joseilbo.com/news/news_read.php?uid=574128&class=17",
   "https://mhnse.com/news/articleView.html?idxno=1494592",
   "http://www.impacton.net/news/articleView.html?idxno=20032",
   "http://www.osen.co.kr/article/G1112860377",
@@ -2999,11 +2997,11 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=445369",
   "https://www.etnews.com/20260821000280",
   "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260821020&PRO_CODE=4",
-  "https://www.smartbizn.com/news/articleView.html?idxno=151854"
+  "https://www.smartbizn.com/news/articleView.html?idxno=151854",
+  "https://www.dailian.co.kr/news/view/1680755/?sc=Naver",
+  "https://www.mk.co.kr/article/12128021"
  ],
  "seen_titles": [
-  "[하이닉스株소각파급]\"주주환원은합당한배분…삼전기대치도높아...",
-  "[하이닉스株소각파급]\"메모리피크아웃우려해소할강력한촉매\"",
   "[하이닉스株소각파급]\"주가바닥다졌지만상단은시장의문풀려야...",
   "[하이닉스株소각파급]\"코스피반등보다안정화…삼성전자도기대\"",
   "국토부·인천시,송도'테라스붕괴'아파트사고조사위구성",
@@ -6001,7 +5999,9 @@
   "[8월22일자]비즈니스포스트아침의주요기사",
   "“코스피30%급락,투자자불신만키웠다”…로이터의'韓레버리지'진...",
   "'AI반도체호황'충북수혜지속...깊어지는'양극화'",
-  "\"형광등하나까지아꼈던회사\"···SK하이닉스의'위기극복DNA'"
+  "\"형광등하나까지아꼈던회사\"···SK하이닉스의'위기극복DNA'",
+  "만년하위권의반란휴온스…최성원·강동궁최강조합증명",
+  "‘미운오리’들의부활…살아나는LG그룹주"
  ],
  "recent_sigs": [
   [
@@ -6679,9 +6679,17 @@
   [
    "2026-08-21T20:51:04.700024+09:00",
    "아침의 주요기사 비즈니스포스트"
+  ],
+  [
+   "2026-08-21T21:11:03.308501+09:00",
+   "반란 강동궁 휴온스 하위권의 증명 최강 만년 조합 최성원"
+  ],
+  [
+   "2026-08-21T21:11:03.308501+09:00",
+   "미운 살아나는 부활 들의 오리 LG그룹주"
   ]
  ],
- "last_run": "2026-08-21T21:02:30.388252+09:00",
+ "last_run": "2026-08-21T21:11:12.713746+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
