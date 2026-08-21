@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsbrite.net/news/articleView.html?idxno=199585",
-  "http://www.4th.kr/news/articleView.html?idxno=2115753",
-  "http://www.fnnews.com/news/202608040927493631",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16262",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238317",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54011",
-  "https://www.viva100.com/article/20260804500497",
   "https://www.smarttoday.co.kr/ko-kr/articles/110078",
   "https://www.newspim.com/news/view/20260804000416",
   "https://economist.co.kr/article/view/ecn202608040011",
@@ -2999,16 +2992,16 @@
   "https://www.thereport.co.kr/news/articleView.html?idxno=90654",
   "http://www.globalepic.co.kr/view.php?ud=20260821150456288748439a4874_29",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=143379",
-  "https://www.ytn.co.kr/_ln/0134_202608211531164398"
+  "https://www.ytn.co.kr/_ln/0134_202608211531164398",
+  "https://www.mk.co.kr/article/12133253",
+  "https://www.gokorea.kr/news/articleView.html?idxno=875871",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80637",
+  "https://www.segye.com/newsView/20260821510009?OutUrl=naver",
+  "https://www.gokorea.kr/news/articleView.html?idxno=875870",
+  "https://biz.heraldcorp.com/article/10848292",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7180076"
  ],
  "seen_titles": [
-  "[위클리오늘]상반기배당기업48%늘었다…이재용728억원으로개인...",
-  "한국상장사배당,상반기에50%증가...주주환원정책강화",
-  "상법개정후배당확대,삼성·현대·금융지주'주주환호'...개인배당...",
-  "SK㈜,주당1500원중간배당…최태원회장194억원수령전망",
-  "'씨름역대최장기록썼다'한라급김무호시대활짝,23연승+7번연속...",
-  "상반기개인배당1위728억이재용...삼성家4·5·6위포진",
-  "상반기개인배당액1위이재용728억…정몽구·정몽준뒤이어",
   "상반기배당공시기업48%급증…이재용삼성전자회장728억원'개인배...",
   "'경기도산모·소아생존체계고도화'논의의장마련",
   "\"출생느는데병상은감소\"…경기도마저'의료공백'",
@@ -6001,7 +5994,14 @@
   "최태원이혼이소환한'노태우비자금'",
   "[사건의재구성]노태우비자금300억원,검찰본격수사안팎",
   "메가프로젝트가연건설시장…중견사'팹밖일감'어디까지커질까",
-  "노소영처벌가능성도...'김옥숙메모'하나하나들여다볼검찰[Y녹취..."
+  "노소영처벌가능성도...'김옥숙메모'하나하나들여다볼검찰[Y녹취...",
+  "물가흐름따라바뀌는‘부의지도’[신간]",
+  "검찰,노태우비자금300억원수사본격화…최태원이혼소송에영향평...",
+  "검찰,'노태우비자금의혹'강제수사...김옥숙연희동자택등압색",
+  "최태원이혼소송서공개된‘노태우비자금’국고환수될까",
+  "노태우전대통령비자금수사…노재헌자택포함압수수색",
+  "SK하이닉스성과급주식지급안,다음주全조합원투표로결정…주총...",
+  "검찰,노태우일가비자금의혹수사…김옥숙여사자택등압수수색"
  ],
  "recent_sigs": [
   [
@@ -6093,7 +6093,7 @@
    "일감 메가프로젝트가 건설시장 중견사 커질까 어디까지"
   ]
  ],
- "last_run": "2026-08-21T15:40:25.836006+09:00",
+ "last_run": "2026-08-21T15:50:24.897609+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
