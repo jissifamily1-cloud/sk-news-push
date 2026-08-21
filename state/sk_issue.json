@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/internet-platform/6255784",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/12/20260812032005?wlog_tag3=naver",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=314945",
-  "https://www.hankyung.com/article/2026081150821",
-  "https://www.laborplus.co.kr/news/articleView.html?idxno=41275",
-  "https://www.donga.com/news/Economy/article/all/20260811/134460146/2",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=207703",
   "http://www.newstomato.com/ReadNews.aspx?no=1309991&inflow=N",
   "https://biz.chosun.com/policy/policy_sub/2026/08/11/TLNUORIKYVH6VE7P75TLLJCMQQ/",
@@ -2999,15 +2993,15 @@
   "https://www.kbmaeil.com/article/20260821500063",
   "https://www.ytn.co.kr/_ln/0103_202608211052225298",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000004953&cp=nv",
-  "https://view.asiae.co.kr/article/2026082110393117077"
+  "https://view.asiae.co.kr/article/2026082110393117077",
+  "http://www.srtimes.kr/news/articleView.html?idxno=210545",
+  "http://www.newskr.kr/news/articleView.html?idxno=105776",
+  "http://www.iminju.net/news/articleView.html?idxno=168362",
+  "https://www.tjb.co.kr/news05/bodo/view/id/102669",
+  "https://www.smartbizn.com/news/articleView.html?idxno=151763",
+  "https://www.sisajournal.com/news/articleView.html?idxno=384354"
  ],
  "seen_titles": [
-  "구글제재앞두고커지는美압박…한미디지털갈등시험대",
-  "美TPG,롯데렌탈1.3조원에인수",
-  "점주10%만모여도본부와협의…외식프랜차이즈,새가맹사업법'촉각...",
-  "[사설]M&A막고영업기밀까지요구…거꾸로가는기업육성책",
-  "8월2주주요제조업전망",
-  "롯데,美TPG에1.3조받고렌터카판다",
   "공정위,엘에프네트웍스'납품업체쥐어짜기'철퇴…판촉비떠넘기고경...",
   "주병기\"쿠팡차별없다…국내외플랫폼모두동일기준\"",
   "공정위원장“쿠팡이라고해서제재차별안한다”",
@@ -6001,7 +5995,13 @@
   "검찰,‘노태우비자금의혹’수사확대…김옥숙연희동자택압수수색",
   "검찰,'노태우비자금'첫강제수사...김옥숙자택포함",
   "검찰,‘노태우비자금의혹’김옥숙연희동자택등압수수색",
-  "‘세기의이혼’불똥튀었다…‘904억비자금메모’노태우부인자택..."
+  "‘세기의이혼’불똥튀었다…‘904억비자금메모’노태우부인자택...",
+  "공정위사건자료,손배소증거로쓴다…공정거래법·하도급법개정",
+  "이혼소송불똥노태우가로…김옥숙자택압수수색",
+  "檢,'노태우비자금의혹'김옥숙여사자택등압수수색",
+  "검찰,'노태우전대통령비자금의혹'김옥숙자택등압수수색",
+  "검찰,'노태우비자금의혹'김옥숙여사연희동자택등압수수색",
+  "檢,'노태우비자금'강제수사착수…김옥숙여사자택등압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "검찰 의혹 영부 이혼소송 김옥숙 비자금 부메랑 노태우"
   ]
  ],
- "last_run": "2026-08-21T11:01:06.279266+09:00",
+ "last_run": "2026-08-21T11:10:58.415553+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
