@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1226486",
-  "https://www.hankyung.com/article/202608031716r",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047584",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443857",
   "https://news.bizwatch.co.kr/article/industry/2026/08/04/0008",
   "https://www.mt.co.kr/economy/2026/08/04/2026080408524987521",
   "https://biz.heraldcorp.com/article/10830006",
@@ -2999,13 +2995,13 @@
   "https://www.etoday.co.kr/news/view/2616828",
   "https://news.mtn.co.kr/news-detail/2026082111220840245",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100113.html",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106036"
+  "http://www.00news.co.kr/news/articleView.html?idxno=106036",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=713174",
+  "https://www.ytn.co.kr/_ln/0103_202608211412327811",
+  "https://www.naeil.com/news/read/599639",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445308"
  ],
  "seen_titles": [
-  "상법개정후상반기배당기업48%↑…이재용728억1위",
-  "상법개정후상반기배당기업48%↑…이재용728억원1위",
-  "상법개정후배당기업47%↑·배당액18%↑...HD현대증가율1위",
-  "상법개정후상반기배당기업48%증가…개인1위이재용728억원",
   "이재용,상반기배당728억원'개인1위'…상장사배당도48%늘었다",
   "배당기업86곳서127곳으로…개인배당금1위이재용",
   "[막전막후]반도체와반미(反美)를함께하겠다는사람들",
@@ -6001,13 +5997,13 @@
   "검찰,노태우일가‘비자금은닉’강제수사…김옥숙여사자택압수수...",
   "요새빅테크미션은메모리절감이라는데..[AI칩인사이드]",
   "'선행매매'인가,'책임경영'인가…최태원49억자사주매입두고갑작...",
-  "'노태우비자금'끝나지않은의혹"
+  "'노태우비자금'끝나지않은의혹",
+  "SK하이닉스,일본에메모리칩공장건설을검토중",
+  "세기의이혼이소환한'노태우비자금'...실체밝혀질까?[뉴스퀘어2PM]",
+  "‘노태우비자금’김옥숙연희동자택압수수색",
+  "새전기본에'원전19기'수요반영돼,환경단체\"3대메가프로젝트에..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-21T08:10:15.831531+09:00",
-   "출연 유튜브 동반 김어준 김민석 친청계 3인"
-  ],
   [
    "2026-08-21T08:20:16.485997+09:00",
    "검증 대상 경영진 독립이사로 결정도"
@@ -6095,9 +6091,13 @@
   [
    "2026-08-21T14:00:33.224506+09:00",
    "인가 선행매매 갑작 책임경영 49억 두고 자사주 매입"
+  ],
+  [
+   "2026-08-21T14:19:50.586084+09:00",
+   "메가 전기본에 환경단체 19기 원전 프로젝트에 수요 3대 반영돼"
   ]
  ],
- "last_run": "2026-08-21T14:10:27.154175+09:00",
+ "last_run": "2026-08-21T14:20:04.247206+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
