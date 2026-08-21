@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202608043073b",
-  "https://www.wikitree.co.kr/articles/1150235",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93225",
   "https://www.mk.co.kr/article/12115928",
   "https://www.hankyung.com/article/2026080431247",
@@ -2999,11 +2997,11 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642746",
   "https://www.starnewskorea.com/business-life/2026/08/21/2026082112144032982",
   "http://www.breaknews.com/1230565",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000058486"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000058486",
+  "https://www.sejungilbo.com/news/articleView.html?idxno=59746",
+  "https://www.newsis.com/view/NISX20260821_0003757500"
  ],
  "seen_titles": [
-  "\"상법개정후상반기배당기업48%증가...개인배당금1위이재용\"",
-  "상반기배당기업50%늘었다...이재용회장개인배당금728억원'1위'",
   "이재용,올상반기개인배당액728억1위…정몽구671억뒤이어",
   "'심이영♥︎'최원영,미혼때부터'확신의기혼상'\"이광수아빠역할...",
   "최원영,확신의기혼상..코르티스마틴과투샷보니[라디오스타]",
@@ -6001,7 +5999,9 @@
   "[단독]‘노태우비자금의혹’연희동자택등압수수색…‘904억김옥...",
   "이대통령,최태원회장비공개회동…3대메가프로젝트등논의가능...",
   "'노태우비자금강제수사'검찰,김옥숙여사자택압수수색",
-  "검찰,'노태우비자금300억'첫강제수사…국고환수로이어질까"
+  "검찰,'노태우비자금300억'첫강제수사…국고환수로이어질까",
+  "[세미콜론]\"조사4국이실력발휘\"외쳤던임광현…노태우비자금조사...",
+  "SK하이닉스,'日반도체공장'추진보도에\"전혀결정된바없어\""
  ],
  "recent_sigs": [
   [
@@ -6089,7 +6089,7 @@
    "부메랑 904억 이혼소송 비자금 수사 급물살 추징"
   ]
  ],
- "last_run": "2026-08-21T12:40:24.612801+09:00",
+ "last_run": "2026-08-21T12:50:26.273626+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
