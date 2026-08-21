@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260812507980?OutUrl=naver",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54237",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260812100351yuJ",
-  "http://www.joseilbo.com/news/news_read.php?uid=573675&class=32",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93632",
-  "https://www.theguru.co.kr/news/article.html?no=105700",
   "http://www.yonhapnewstv.co.kr/news/AKR20260812101734KMD",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361626",
   "https://www.yna.co.kr/view/AKR20260812050200002?input=1195m",
@@ -2999,15 +2993,15 @@
   "https://www.etoday.co.kr/news/view/2616828",
   "https://www.bloter.net/news/articleView.html?idxno=671485",
   "http://weekly.chosun.com/news/articleView.html?idxno=54504",
-  "http://www.fnnews.com/news/202608211050173917"
+  "http://www.fnnews.com/news/202608211050173917",
+  "https://www.etnews.com/20260821000180",
+  "https://www.naeil.com/news/read/599639",
+  "https://www.chosun.com/national/court_law/2026/08/21/Z7MAECK6HRB3DEGYBNYWVZJFZ4/",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106036",
+  "https://www.newsis.com/view/NISX20260821_0003757633",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245083"
  ],
  "seen_titles": [
-  "한학자총재변호인의‘마지막반론’[종교칼럼]",
-  "이준석,부정선거론직격…\"사전투표오입력없고본투표서오류\"",
-  "이준석\"사전투표선투표율오입력한건도없어\"…부정선거론일축",
-  "산업은행,거래처'기업금융사기'로580억금융사고…경찰수사중",
-  "KAI노조\"공정위,KAI-한화기업결합심사불허하라\"",
-  "롯데건설,글로벌수준준법경영체계고도화…공정거래3년연속AA등급",
   "아시아나항공,마지막주총서'합병안'가결…\"12월엔'통합대한항공'...",
   "롯데렌탈,글로벌펀드TPG에매각롯데1.3조확보…리밸런싱가속화",
   "공정위,도소매·서비스업가맹계약서필수품목기재의무점검",
@@ -6001,7 +5995,13 @@
   "검찰,노태우일가‘비자금은닉’강제수사…김옥숙여사자택압수수...",
   "[대한항공통합청구서]④'포인트부채'마일리지4조회계셈법은",
   "특검이길터준'국정원길들이기'?…대북강경파물갈이설",
-  "'투표율조작'경기·충북선관위관계자소환…이태한특검은대검·경..."
+  "'투표율조작'경기·충북선관위관계자소환…이태한특검은대검·경...",
+  "中드리미“로봇청소기넘어헤어드라이어·펫케어까지”",
+  "‘노태우비자금’김옥숙연희동자택압수수색",
+  "[단독]“윗선개입규명이사명”이라던2차특검,윤희근·원희룡·박...",
+  "'노태우비자금'끝나지않은의혹",
+  "제주CBS고상현기자,한국기협이달의기자상수상",
+  "LIGD&A방산수주에무슨일…임원뇌물혐의·14건'압수수색'"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "21일 뉴스센터 8월"
   ]
  ],
- "last_run": "2026-08-21T14:01:18.600988+09:00",
+ "last_run": "2026-08-21T14:10:55.862925+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
