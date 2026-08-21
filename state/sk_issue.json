@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050515",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211910",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/12/2026081290088.html",
-  "https://www.ajunews.com/view/20260812101143326",
-  "https://www.etoday.co.kr/news/view/2613431",
-  "https://www.tfmedia.co.kr/news/article.html?no=206411",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30665",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850098",
   "https://www.gukjenews.com/news/articleView.html?idxno=3662521",
   "http://www.metroseoul.co.kr/article/20260812500117",
   "https://www.jibs.co.kr/news/articles/articlesDetail/64430?feed=na",
@@ -2999,17 +2991,17 @@
   "https://www.ajunews.com/view/20260821141743084",
   "https://www.xportsnews.com/article/2186242",
   "https://www.newsis.com/view/NISX20260821_0003757677",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=740841"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=740841",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512394",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245089",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642834",
+  "https://www.tbc.co.kr/news/view?pno=20260821125137AE04313&id=210060",
+  "https://www.hani.co.kr/arti/society/society_general/1274028.html",
+  "https://www.yna.co.kr/view/AKR20260821109800004?input=1195m",
+  "https://www.jejumaeil.net/news/articleView.html?idxno=403886",
+  "http://www.globalepic.co.kr/view.php?ud=20260821150456288748439a4874_29"
  ],
  "seen_titles": [
-  "중앙선관위10년간투표자수오입력'침묵'…자체감사·처벌無",
-  "이준석,부정선거반박…\"재검표막는정당은국민의힘\"",
-  "이준석\"사전투표오입력없어…재검표막는건국힘\"",
-  "국세청,초고액체납자대응전담팀신설…해외관계사·명의신탁까지...",
-  "재산숨긴고액체납자,탈세까지한번에캔다…조사4국전담팀신설[국...",
-  "[관서장회의]시동걸린국세외수입통합징수…핵심키는연내근거법...",
-  "국세청,체납통합징수·AI세정본격화…\"국가재정혁신뒷받침\"",
-  "아시아나,마지막주총서합병가결…38년만에역사속으로",
   "KAI노동조합\"공정거래위원회,KAI와한화의기업결합심사불허해야\"",
   "선관위,반복된투표자수오입력에도10년간자체감사'0건'",
   "이준석\"사전투표오입력한건도없어\"..'부정선거음모론'반박",
@@ -6001,7 +5993,15 @@
   "\"SK성장의비밀\"?…'최태원·노소영이혼→300억비자금'잔혹사총정리",
   "'과거사는모르오'日축구협회도똑같네…\"성접대사실확인불가\"결...",
   "'불법정치자금수수'노웅래1심이어2심도무죄…法\"위법수집증거...",
-  "[이슈]검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색…..."
+  "[이슈]검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색…...",
+  "[단독]공정위심판대오른HNE&C있는데…SM회장차녀우지영,부동산...",
+  "불공정거래피해자손배소'입증부담'낮춘다",
+  "‘불법정치자금수수혐의’노웅래전의원,2심도무죄",
+  "20억챙긴지역주택조합지주대표등2명불구속기소",
+  "‘불법정치자금수수’노웅래2심도무죄…‘위법증거수집’판단유...",
+  "'뇌물·불법정치자금혐의'노웅래2심도무죄…\"위법수집증거\"",
+  "고상현'유명아파트게이트의혹'연속보도'이달의기자상'",
+  "[사건의재구성]노태우비자금300억원,검찰본격수사안팎"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "총정리 비자금 300억 이혼 최태원 비밀 노소영 잔혹사 성장의"
   ]
  ],
- "last_run": "2026-08-21T15:01:08.742936+09:00",
+ "last_run": "2026-08-21T15:10:55.241924+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
