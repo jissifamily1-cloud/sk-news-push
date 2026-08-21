@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.taxtimes.co.kr/news/article.html?no=276374",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=59628",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=59627",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=59633",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2052498",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071357345360101895",
   "https://www.newspim.com/news/view/20260812000500",
   "https://view.asiae.co.kr/article/2026081108563888863",
   "https://www.ajunews.com/view/20260812103715433",
@@ -2999,15 +2993,15 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190174.html",
   "https://www.harpersbazaar.co.kr/article/1908251",
   "https://www.mediawatch.kr/news/article.html?no=260739",
-  "https://www.seoul.co.kr/news/society/2026/08/21/20260821500200?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/08/21/20260821500200?wlog_tag3=naver",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7180076",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053574",
+  "https://www.news1.kr/local/gyeonggi/6265784",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642844",
+  "https://www.ajunews.com/view/20260821150811205",
+  "https://www.ytn.co.kr/_ln/0134_202608211531164398"
  ],
  "seen_titles": [
-  "전부처국세외수입고지·체납정보,국세행정시스템과실시간연계",
-  "국세청발표'`26년하반기국세행정운영방안'전문",
-  "국세청최초'조사4국'에체납추적팀…고액체납자탈세까지한번에캔...",
-  "[`26(하)국세행정]'체납해소'에올인…체납관리단향후계획은?",
-  "국세청,'고액체납·특별세무조사'연계....'국세·국세외수입통합징수...",
-  "[더벨][윤활유담합과징금리스크]'부당이득'71%오너일가로",
   "국세청,지방청조사국에'체납추적전담팀'신설…고액체납자'손바닥...",
   "[허만섭의딥러닝]반도체실적만말할뿐…'주류담론'은이면을묻지...",
   "합수본,노태악'배우자동반출장'수사확대…\"상대국초청없었다\"",
@@ -6001,7 +5995,13 @@
   "노웅래,'뇌물·불법정치자금'2심도무죄…\"정치검찰수사관행끝내야...",
   "올가을가방,디자인보다‘질감’을보세요",
   "[심층분석]IBK기업은행,잇단금융사고에‘리스크관리’시험대…장...",
-  "‘불법정치자금수수’노웅래,1심이어항소심도무죄"
+  "‘불법정치자금수수’노웅래,1심이어항소심도무죄",
+  "검찰,노태우일가비자금의혹수사…김옥숙여사자택등압수수색",
+  "[신아일보tv]노태우비자금다시수면위로",
+  "경찰,'HL만도근로자끼임사'책임자5명형사입건",
+  "동료사진으로딥페이크만든방송사직원…경찰수사중",
+  "'불법정치자금수수'노웅래전의원,항소심에서도무죄...\"위법수집...",
+  "노소영처벌가능성도...'김옥숙메모'하나하나들여다볼검찰[Y녹취..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "총정리 비자금 300억 이혼 최태원 비밀 노소영 잔혹사 성장의"
   ]
  ],
- "last_run": "2026-08-21T15:31:02.368468+09:00",
+ "last_run": "2026-08-21T15:40:54.927185+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
