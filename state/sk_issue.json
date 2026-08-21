@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850093",
-  "https://view.asiae.co.kr/article/2026081111014021690",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04224646645546664",
   "https://www.thepublic.kr/news/articleView.html?idxno=314643",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1533767",
@@ -2999,11 +2997,11 @@
   "https://www.kyeonggi.com/article/20260821580126",
   "https://www.segye.com/newsView/20260821508519?OutUrl=naver",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715717&plink=ORI&cooper=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=03660486645549616&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03660486645549616&mediaCodeNo=257",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597756",
+  "https://www.ajunews.com/view/20260821141743084"
  ],
  "seen_titles": [
-  "10년오입력에자체감사0건…선관위감사공백드러나",
-  "\"검찰보다경찰먼저\"…로펌,경찰수사'초기대응팀'키운다",
   "가맹본부77곳중51곳‘필수품목’계약서미흡",
   "12년간검체검사입찰담합의혹…공정위,7개업체제재착수",
   "\"한화의KAI경영참여,불허해야\"…전면투쟁예고",
@@ -6001,7 +5999,9 @@
   "최태원·노소영이혼소송이쏘아올린공…‘노태우비자금’35년만에...",
   "“장난아닌중범죄”교실덮친AI딥페이크…피해자‘삭제못해지옥...",
   "[뉴스브리핑]오늘의주요뉴스…노태우비자금의혹…김옥숙자택압수...",
-  "[속보]노웅래前의원,'불법정치자금'혐의2심도무죄"
+  "[속보]노웅래前의원,'불법정치자금'혐의2심도무죄",
+  "제주CBS고상현기자'아파트인허가게이트의혹보도',이달의기자상",
+  "\"SK성장의비밀\"?…'최태원·노소영이혼→300억비자금'잔혹사총정리"
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-08-21T11:40:53.291788+09:00",
    "21일 뉴스센터 8월"
+  ],
+  [
+   "2026-08-21T14:50:50.402329+09:00",
+   "총정리 비자금 300억 이혼 최태원 비밀 노소영 잔혹사 성장의"
   ]
  ],
- "last_run": "2026-08-21T14:40:55.012582+09:00",
+ "last_run": "2026-08-21T14:50:57.617681+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
