@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443076",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850665",
-  "http://www.footballist.co.kr/news/articleView.html?idxno=213737",
-  "https://www.etnews.com/20260820000116",
-  "https://www.segye.com/newsView/20260820508629?OutUrl=naver",
   "http://www.weeklytoday.com/news/articleView.html?idxno=790922",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608200848005000101273",
   "http://www.weeklytoday.com/news/articleView.html?idxno=790934",
@@ -2999,14 +2994,14 @@
   "https://news.jtbc.co.kr/article/NB12314477?influxDiv=NAVER",
   "https://www.koreatimes.co.kr/path/A2026082118490005829",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214015",
-  "https://www.betanews.net/article/view/beta202608210081"
+  "https://www.betanews.net/article/view/beta202608210081",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=357769",
+  "http://www.yonhapnewstv.co.kr/news/MYH202608211919041HI",
+  "https://news.jtbc.co.kr/article/NB12314503?influxDiv=NAVER",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=609263",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368"
  ],
  "seen_titles": [
-  "SK증권주가,상한가...왜?",
-  "어제는급락,오늘은급등...코스피,매수사이드카발동",
-  "미래에셋배당커버드콜ETF,수익률61.6%1위",
-  "SK하닉11%급등에코스피5%↑…매수사이드카발동[장중시황]",
-  "코스피,외인순매수에5%급등…매수사이드카발동",
   "SK엔무브,美HF싱클레어에윤활기유장기공급…북미공략강화",
   "[기업&나눔]SK,지난해32조사회적가치창출…8년간누적'155조'",
   "[공식발표]남자U19대표팀,U20아시안컵예선출전명단확정'레바논...",
@@ -6001,7 +5996,12 @@
   "이혼소송이들춰낸'비자금'…'노태우일가'수사시작됐다",
   "SamsungElectronicsplansrecordshareholderreturnofupto$79.6bil",
   "이혼소송서낸'비자금메모'가단초…몰수까지이어질까",
-  "코스피,반도체강세에7천선'코앞'"
+  "코스피,반도체강세에7천선'코앞'",
+  "노태우일가비자금·조세포탈의혹…검찰,연희동사저전격압수수색",
+  "'삼전닉스'가끌었다…코스피6,900선회복",
+  "노소영이꺼낸'300억메모'부메랑…재산몰수가능성",
+  "SK하이닉스,대규모자사주소각으로주가급등:메디컬투데이TV",
+  "[아는기자]이혼이소환한‘비자금’…35년만에환수?"
  ],
  "recent_sigs": [
   [
@@ -6907,9 +6907,21 @@
   [
    "2026-08-21T19:21:06.098094+09:00",
    "7천선 강세에 반도체 코앞 코스피"
+  ],
+  [
+   "2026-08-21T19:31:10.807363+09:00",
+   "300억 메모 노소영이 재산 부메랑 꺼낸 가능성 몰수"
+  ],
+  [
+   "2026-08-21T19:31:10.807363+09:00",
+   "주가 자사주 SK하이닉스 급등 메디컬투데이TV 대규모 소각으로"
+  ],
+  [
+   "2026-08-21T19:31:10.807363+09:00",
+   "소환한 이혼이 35년 비자금 만에 환수"
   ]
  ],
- "last_run": "2026-08-21T19:21:14.970505+09:00",
+ "last_run": "2026-08-21T19:31:21.924410+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
