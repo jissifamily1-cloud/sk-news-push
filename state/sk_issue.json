@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202608121453001",
   "https://news.jtbc.co.kr/article/NB12312977?influxDiv=NAVER",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128710",
   "https://www.kado.net/news/articleView.html?idxno=2066303",
@@ -2999,10 +2998,10 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=740914",
   "https://ysmbc.co.kr/NewsArticle/1533406",
   "https://news.knn.co.kr/news/article/191552",
-  "https://news.jtbc.co.kr/article/NB12314462?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12314462?influxDiv=NAVER",
+  "https://www.tbc.co.kr/news/view?pno=20260820160509AE04262&id=210065"
  ],
  "seen_titles": [
-  "경찰,‘청문감사담당관’전원다른지역출신배치…검찰보완수사요...",
   "제식구감싸기막는다…경찰'내부비리수사대'40명규모구성",
   "가습기살균제피해자대표서영철씨별세…피해생존자4615명남아",
   "가습기살균제피해자단체대표사망…산소발생기·휠체어생활",
@@ -6001,7 +6000,8 @@
   "[이슈]노웅래,'6천만원수수'혐의항소심도'위법수집'무죄…범여권...",
   "여수산단구조조정탄력…하부기업은\"원료걱정\"",
   "에스원담합으로수백억매출...과징금은'찔끔'",
-  "[앵커한마디]스스로발부한'압수수색영장'"
+  "[앵커한마디]스스로발부한'압수수색영장'",
+  "바라크나눔그룹수사본격화...자금흐름추적"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "2022년 SK지오센트릭 폭발 사고 울산지검"
   ]
  ],
- "last_run": "2026-08-21T21:10:55.718489+09:00",
+ "last_run": "2026-08-21T21:21:01.704506+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
