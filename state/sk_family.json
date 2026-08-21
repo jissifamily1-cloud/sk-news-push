@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260803230952eO8",
-  "https://www.mk.co.kr/article/12101316",
-  "https://www.newsis.com/view/NISX20260803_0003734750",
-  "https://www.news1.kr/industry/general-industry/6247490",
-  "https://www.yna.co.kr/view/AKR20260803136100003?input=1195m",
-  "https://www.newsis.com/view/NISX20260803_0003734547",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167204",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51906",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238301",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443145",
   "https://www.kyeonggi.com/article/20260804580008",
   "https://www.slist.kr/news/articleView.html?idxno=756249",
   "https://view.asiae.co.kr/article/2026080317040524926",
@@ -2999,19 +2989,19 @@
   "http://www.iminju.net/news/articleView.html?idxno=168362",
   "https://www.smartbizn.com/news/articleView.html?idxno=151763",
   "https://www.ajunews.com/view/20260821104925783",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60725"
+  "https://www.lawtv.kr/news/articleView.html?idxno=60725",
+  "https://www.mediawatch.kr/news/article.html?no=260734",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534817",
+  "https://www.hani.co.kr/arti/society/society_general/1273996.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260821111630vyF",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101961",
+  "https://biz.heraldcorp.com/article/10847901",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715455&plink=ORI&cooper=NAVER",
+  "https://www.wikitree.co.kr/articles/1153855",
+  "http://www.newskr.kr/news/articleView.html?idxno=105776",
+  "https://www.ngonews.kr/news/articleView.html?idxno=235987"
  ],
  "seen_titles": [
-  "코스피,역대급폭등후5%급락…6,200선후퇴",
-  "AI·반도체가싹바꿔버렸다...'한국주식부자'1위는?",
-  "출근시간주택가대형화재‥주민1명숨져",
-  "공공기관장검증강화‥'높아진문턱'",
-  "[추적]④외국인이던진111만주,개미가받았는데...150만원이깨지면?",
-  "\"최태원이하닉사라고한이유\"…'배당2.5%·액분'지라시가돈다",
-  "[단독]\"수요못따라가\"이달말하닉인디애나공장착공식...미국채...",
-  "[김정태칼럼]K반도체가산으로가지않으려면",
-  "[영원무역디스카운트③]실적반토막에도성래은보수300%↑…'고무줄...",
-  "9940억원짜리이혼이남긴것[알아야보이는법(法)]",
   "SK㈜주당1500원중간배당…\"일관성있는책임경영\"",
   "'300억대사기'차가원구속…\"증거인멸우려\"",
   "사라진주주서한이남긴씁쓸함[취재수첩]",
@@ -6001,7 +5991,17 @@
   "檢,'노태우비자금의혹'김옥숙여사자택등압수수색",
   "검찰,'노태우비자금의혹'김옥숙여사연희동자택등압수수색",
   "檢,'비자금은닉의혹'노태우전대통령일가전격압수수색",
-  "검찰,'노태우비자금'김옥숙자택압수수색"
+  "검찰,'노태우비자금'김옥숙자택압수수색",
+  "檢,‘노태우비자금의혹’강제수사돌입...김옥숙여사자택등압...",
+  "검찰,'노태우비자금'김옥숙연희동자택등압수수색",
+  "최태원·노소영이혼소송서불거진‘노태우비자금’…검찰,노태우일...",
+  "검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
+  "검찰,'노태우비자금은닉의혹'강제수사...김옥숙여사자택압수수...",
+  "SK하이닉스,성과급난맥‘위기분담’극복",
+  "검찰,'노태우비자금의혹'김옥숙자택등압수수색",
+  "'노태우비자금의혹'김옥숙여사연희동자택압수수색",
+  "이혼소송불똥노태우가로…김옥숙자택압수수색",
+  "'세기의이혼소송'불똥튀었다…노소영'비자금메모'에친정압수수..."
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-08-21T10:51:38.843336+09:00",
    "대형 이유 전해진 소식 관련해 일본에 생산공장 SK하이닉스와"
+  ],
+  [
+   "2026-08-21T11:20:16.032186+09:00",
+   "압수수 세기의 소송 이혼 비자금 튀었다 불똥 친정 메모"
   ]
  ],
- "last_run": "2026-08-21T11:10:31.460962+09:00",
+ "last_run": "2026-08-21T11:20:28.486390+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
