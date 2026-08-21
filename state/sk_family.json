@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lkp.news/news/articleView.html?idxno=82533",
-  "https://www.news1.kr/industry/general-industry/6247799",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93194",
-  "https://news.tf.co.kr/read/economy/2350099.htm",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=607174",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443842",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1172572",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443829",
-  "https://www.pressman.kr/news/articleView.html?idxno=103002",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1173099",
   "https://www.thepublic.kr/news/articleView.html?idxno=313638",
   "http://www.yonhapnewstv.co.kr/news/MYH202608031803490NE",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030249&t=NNv",
@@ -2999,19 +2989,19 @@
   "https://www.mk.co.kr/article/12132993",
   "http://www.yonhapnewstv.co.kr/news/AKR20260821102152QH4",
   "https://www.joongang.co.kr/article/25455049",
-  "https://www.hankyung.com/article/2026082142487"
+  "https://www.hankyung.com/article/2026082142487",
+  "https://www.dt.co.kr/article/12079378",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213871",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71155",
+  "https://www.dailian.co.kr/news/view/1680696/?sc=Naver",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94026",
+  "https://biz.chosun.com/topics/law_firm/2026/08/21/CAUNQQN6GFFNHLW2EE4WQDKVTU/",
+  "http://www.fnnews.com/news/202608211033294909",
+  "https://www.ikbc.co.kr/article/view/kbc202608210025",
+  "https://www.sedaily.com/article/20081740",
+  "https://www.wikitree.co.kr/articles/1153852"
  ],
  "seen_titles": [
-  "최태원,SK중간배당195억원받는다…'재산분할재원'주목",
-  "용인특례시의회,올해의원연구단체8개운영",
-  "'연구하는의회'속도내는용인특례시의회",
-  "'300억대사기'차가원구속기로…혐의엔묵묵부답",
-  "'23연승신기록'씨름김무호,문경대회서통산14번째한라장사",
-  "최태원,SK㈜중간배당194억원…재산분할재원마련주목",
-  "거창군,하반기정기인사단행",
-  "KEMS·KOMMA,전기이륜차BSS해외진출표준화논의",
-  "\"23연승질주\"김무호,문경서통산14번째한라장사",
-  "SK하이닉스주주환원엇갈린전망···\"ADR로공개불가\"vs\"계획없다...",
   "최태원회장,SK㈜중간배당195억수령…재산분할재원주목",
   "두산,SK실트론지분70.6%2.3조에인수…메리츠證\"가격·구조모두우...",
   "SK㈜,주당1500원중간현금배당…최태원회장,194억수령예정(종합)",
@@ -6001,7 +5991,17 @@
   "[속보]‘노태우비자금의혹’김옥숙여사자택압수수색",
   "[속보]검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
   "검찰,'노태우비자금의혹'김옥숙여사자택등압수수색",
-  "[속보]검찰,'노태우비자금의혹'김옥숙여사자택등압수수색"
+  "[속보]검찰,'노태우비자금의혹'김옥숙여사자택등압수수색",
+  "[속보]‘노태우비자금의혹’검찰,김옥숙연희동자택압수수색",
+  "'김옥숙메모'904억어디로…검찰,노태우일가강제수사",
+  "李대통령,최태원SK회장과비공개만찬회동…무슨논의오갔나",
+  "검찰,김옥숙여사자택등압수수색…'노태우비자금의혹'강제수사",
+  "검찰,'노태우비자금의혹'강제수사…김옥숙자택압수수색",
+  "검찰,‘노태우비자금의혹’김옥숙여사연희동자택등압수수색",
+  "검찰,노태우일가'비자금은닉'강제수사...김옥숙사저등압수수색",
+  "[속보]검찰,'노태우비자금의혹'김옥숙연희동자택압수수색...'904...",
+  "檢,노태우일가비자금의혹수사…연희동사저등압수수색",
+  "SK하이닉스와관련해전해진대형소식...\"일본에생산공장추진\"(이유..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-08-21T10:30:22.036793+09:00",
    "규모일 호남보다 일본 SK하이닉스 작은 반도체 공장"
+  ],
+  [
+   "2026-08-21T10:50:14.190951+09:00",
+   "전해진 소식 관련해 대형 SK하이닉스와 일본에 생산공장 이유"
   ]
  ],
- "last_run": "2026-08-21T10:40:26.755595+09:00",
+ "last_run": "2026-08-21T10:50:29.270141+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
