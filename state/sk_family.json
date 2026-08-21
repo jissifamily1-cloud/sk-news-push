@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260803151810332",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627008",
-  "https://www.m-economynews.com/news/article.html?no=69380",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718924",
   "https://news.mtn.co.kr/news-detail/2026080315354881790",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546359",
@@ -2999,12 +2996,12 @@
   "https://www.sisain.co.kr/news/articleView.html?idxno=58313",
   "https://www.news1.kr/industry/general-industry/6265197",
   "https://news.tf.co.kr/read/economy/2356361.htm",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310945&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1310945&inflow=N",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94016",
+  "https://www.gokorea.kr/news/articleView.html?idxno=875765",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851079"
  ],
  "seen_titles": [
-  "SK,두산에실트론경영권2.3조양도…수익공유및자산효율화병행",
-  "실트론딜에담긴최태원·박정원의셈법은",
-  "대한상의·신기업가정신협의회,복지사각지대해소'공동챌린지'첫발",
   "대한상의,전국74개상의와복지사각지대지원…'그냥드림'챌린지",
   "최태원,확실한'재산분할'카드SK실트론개인지분...처분시점은",
   "용인특례시의회,AI연구모임등의원연구단체8개운영",
@@ -6001,7 +5998,10 @@
   "글로벌AI격변,한국의중국의가는길이다르다",
   "최태원SK회장,'위대한수업'출연…AI시대인재상제시한다",
   "최태원,EBS석학강연대선다…'AI시대새자본주의'설명",
-  "이대통령,최태원과비공개만찬…‘호남반도체’실행점검했나"
+  "이대통령,최태원과비공개만찬…‘호남반도체’실행점검했나",
+  "[초점]李대통령,최태원과비공개만찬…'반도체·대미투자'해법논...",
+  "이재명대통령-최태원SK회장비공식만찬…호남반도체프로젝트논의...",
+  "SK하이닉스,'日미야기현에메모리팹건립추진'보도\"사실무근\""
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-08-21T09:30:21.703387+09:00",
    "다르다 중국의 격변 길이 AI 글로벌 한국의 가는"
+  ],
+  [
+   "2026-08-21T10:00:28.253808+09:00",
+   "미야기현에 보도 건립 SK하이닉스 사실무근 메모리"
   ]
  ],
- "last_run": "2026-08-21T09:50:27.252722+09:00",
+ "last_run": "2026-08-21T10:00:41.879131+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
