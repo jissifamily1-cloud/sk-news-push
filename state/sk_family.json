@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=313638",
-  "http://www.yonhapnewstv.co.kr/news/MYH202608031803490NE",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030249&t=NNv",
-  "http://www.finomy.com/news/articleView.html?idxno=258511",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30412",
   "https://www.sentv.co.kr/article/view/sentv202608030072",
   "https://biz.heraldcorp.com/article/10829338",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455394",
@@ -2990,7 +2985,11 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260821102152QH4",
   "https://www.joongang.co.kr/article/25455049",
   "https://www.hankyung.com/article/2026082142487",
+  "https://www.insight.co.kr/news/569367",
   "https://www.dt.co.kr/article/12079378",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168579",
+  "https://www.newspim.com/news/view/20260821000392",
+  "https://weekly.khan.co.kr/article/202608211048001",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213871",
   "https://monthly.chosun.com/news/articleView.html?idxno=71155",
   "https://www.dailian.co.kr/news/view/1680696/?sc=Naver",
@@ -2999,14 +2998,10 @@
   "http://www.fnnews.com/news/202608211033294909",
   "https://www.ikbc.co.kr/article/view/kbc202608210025",
   "https://www.sedaily.com/article/20081740",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106024",
   "https://www.wikitree.co.kr/articles/1153852"
  ],
  "seen_titles": [
-  "최태원회장,SK㈜중간배당195억수령…재산분할재원주목",
-  "두산,SK실트론지분70.6%2.3조에인수…메리츠證\"가격·구조모두우...",
-  "SK㈜,주당1500원중간현금배당…최태원회장,194억수령예정(종합)",
-  "최태원SK㈜중간배당'세후100억'추산…'재산분할'재원마련해법될...",
-  "SK㈜,중간배당실시…최태원회장'세후100억원'수령",
   "두산,2.3조원에SK실트론인수:메디컬투데이TV",
   "SK보통주·우선주에1500원씩중간배당,최태원실수령98억예상",
   "누가하이닉스3600주를한번에…슈카가본'큰손'누구?",
@@ -5992,7 +5987,11 @@
   "[속보]검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
   "검찰,'노태우비자금의혹'김옥숙여사자택등압수수색",
   "[속보]검찰,'노태우비자금의혹'김옥숙여사자택등압수수색",
+  "검찰,'노태우일가비자금은닉의혹'김옥숙여사자택등압수수색",
   "[속보]‘노태우비자금의혹’검찰,김옥숙연희동자택압수수색",
+  "李대통령·최태원SK회장,비공개만찬…반도체·대미투자논의",
+  "檢,'노태우비자금은닉의혹'김옥숙여사자택압수수색",
+  "검찰,‘노태우비자금’김옥숙연희동자택압수수색,‘904억메모’...",
   "'김옥숙메모'904억어디로…검찰,노태우일가강제수사",
   "李대통령,최태원SK회장과비공개만찬회동…무슨논의오갔나",
   "검찰,김옥숙여사자택등압수수색…'노태우비자금의혹'강제수사",
@@ -6001,6 +6000,7 @@
   "검찰,노태우일가'비자금은닉'강제수사...김옥숙사저등압수수색",
   "[속보]검찰,'노태우비자금의혹'김옥숙연희동자택압수수색...'904...",
   "檢,노태우일가비자금의혹수사…연희동사저등압수수색",
+  "李대통령또만난최태원,무슨말오갔나",
   "SK하이닉스와관련해전해진대형소식...\"일본에생산공장추진\"(이유..."
  ],
  "recent_sigs": [
@@ -6073,11 +6073,15 @@
    "규모일 호남보다 일본 SK하이닉스 작은 반도체 공장"
   ],
   [
-   "2026-08-21T10:50:14.190951+09:00",
-   "전해진 소식 관련해 대형 SK하이닉스와 일본에 생산공장 이유"
+   "2026-08-21T10:51:38.843336+09:00",
+   "만난 대통령 무슨 오갔나"
+  ],
+  [
+   "2026-08-21T10:51:38.843336+09:00",
+   "대형 이유 전해진 소식 관련해 일본에 생산공장 SK하이닉스와"
   ]
  ],
- "last_run": "2026-08-21T10:50:29.270141+09:00",
+ "last_run": "2026-08-21T10:51:54.180316+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
