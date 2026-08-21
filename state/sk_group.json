@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260820114339",
-  "https://www.besteleven.com/news/articleView.html?idxno=311363",
-  "https://www.businessplus.kr/news/articleView.html?idxno=115686",
-  "https://www.newstree.kr/newsView/ntr202608200011",
   "http://www.yonhapnewstv.co.kr/news/AKR20260820115647dC4",
   "https://www.sedaily.com/article/20081293",
   "https://www.thebilliards.kr/news/articleView.html?idxno=31733",
@@ -2999,13 +2995,13 @@
   "http://www.fnnews.com/news/202608211511080774",
   "https://www.khan.co.kr/article/202608220600081",
   "https://www.newspim.com/news/view/20260821000572",
-  "https://www.newspim.com/news/view/20260821000889"
+  "https://www.newspim.com/news/view/20260821000889",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63213",
+  "https://www.mk.co.kr/article/12133699",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716459&plink=ORI&cooper=NAVER",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423230"
  ],
  "seen_titles": [
-  "하나금융·SKT손잡은'비트고코리아',가상자산사업자신고수리",
-  "비트고코리아,글로벌디지털자산기업최초국내가상자산사업자신고...",
-  "[오늘의삼전닉스]주주환원·자사주매입에거래량폭발...'재료'반응...",
-  "‘불법사이트개설죄’생긴다…광고수익막아돈줄차단",
   "\"AI와블록체인융합\"...포스텍,디지털자산전문가과정11기모집",
   "[K리그1프리뷰]'8G무패'제주와'5G무패'김천격돌!…부천은첫연...",
   "[금융권이모저모]미래에셋자산운용,'TIGER배당커버드콜액티브'연초...",
@@ -6001,7 +5997,11 @@
   "SMR시장,'한미일분업'과'중러올인원'의대결[이유범의에코&에너지...",
   "코스피발목잡는‘보이지않는손’,미국장기국채금리의정체[경제...",
   "[AI로본부동산]'신혼특공vs생애최초'…당첨에더유리한선택은",
-  "코스피절반삼킨'삼전닉스'…커진변동성에\"지수쏠림낮춰야\""
+  "코스피절반삼킨'삼전닉스'…커진변동성에\"지수쏠림낮춰야\"",
+  "삼성전자·SK하이닉스주주환원규모현황",
+  "개인도기업도“달러쌀때쟁여놓자”…달러예금15조원줍줍했다",
+  "[모닝와이드]오늘의주요뉴스",
+  "[주간e종목]SK증권,SK하이닉스40조자사주매입수혜주로부각"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,25 @@
   [
    "2026-08-22T06:11:05.175392+09:00",
    "삼전닉스 지수 쏠림 삼킨 커진 코스피 절반 변동성에 낮춰야"
+  ],
+  [
+   "2026-08-22T06:21:09.624197+09:00",
+   "SK하이닉스 규모 삼성전자 주주환원 현황"
+  ],
+  [
+   "2026-08-22T06:21:09.624197+09:00",
+   "달러예금 쟁여놓자 기업도 15조원 달러 개인도 줍줍했다"
+  ],
+  [
+   "2026-08-22T06:21:09.624197+09:00",
+   "오늘의 주요뉴스"
+  ],
+  [
+   "2026-08-22T06:21:09.624197+09:00",
+   "수혜주로 SK증권 40조 SK하이닉스 부각 자사주 매입"
   ]
  ],
- "last_run": "2026-08-22T06:11:41.703872+09:00",
+ "last_run": "2026-08-22T06:21:23.101639+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
