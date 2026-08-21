@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/money/2026/08/20/2S6LWDKEP5DM7NEBDQSTG7E6RE/",
-  "https://www.mt.co.kr/stock/2026/08/20/2026081918452174148",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=5830",
-  "http://www.fnnews.com/news/202608200518070929",
-  "https://www.g-enews.com/view.php?ud=202608191737088569fbbec65dfb_1",
-  "https://www.mediapen.com/news/view/1117522",
-  "https://www.g-enews.com/view.php?ud=202608191742527449fbbec65dfb_1",
-  "https://www.dt.co.kr/article/12079111",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01695766645549288",
   "https://www.seoul.co.kr/news/economy/securities/2026/08/20/20260820029004?wlog_tag3=naver",
   "https://www.etoday.co.kr/news/view/2615481",
   "https://www.seoul.co.kr/news/economy/2026/08/20/20260820004003?wlog_tag3=naver",
@@ -2999,18 +2990,18 @@
   "https://www.munhwa.com/article/11611040",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100135.html",
   "https://www.munhwa.com/article/11611033",
-  "https://www.yna.co.kr/view/AKR20260821067200003?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260821067200003?input=1195m",
+  "https://www.ekn.kr/web/view.php?key=20260814024203064",
+  "https://zdnet.co.kr/view/?no=20260720093507",
+  "https://www.yna.co.kr/view/AKR20260720021751030?input=1195m",
+  "https://www.ekn.kr/web/view.php?key=20260821023405031",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608210480&t=NN",
+  "https://news.tf.co.kr/read/economy/2356435.htm",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6846323_36967.html",
+  "http://www.joseilbo.com/news/news_read.php?uid=574234&class=18",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3010560"
  ],
  "seen_titles": [
-  "현대차·기아5년전투자한美기업6배'대박'…뭘만들길래",
-  "필라델피아반도체지수2%,마이크론0.4%↓...반도체주,이틀째조정받...",
-  "SK바이오팜,美특허소송관련합의도출…재판종결",
-  "미국증시반도체주?..마벨'급등',SK하이닉스'상승',메모리주'뚝'",
-  "에너지냐,반도체냐…2000억달러규모'1호대미투자'막판줄다리기",
-  "월배당유혹이끌려ETF투자한70대은퇴자에게생긴일",
-  "\"290층구조대갑니다\"....순현금2배불린SK하닉,화끈한주주환원",
-  "[뉴욕증시마감시황]재무부바이백에장기금리급락…미증시상승,나...",
-  "[뉴욕증시]미재무부시장개입속나흘만에반등…테슬라,4.2%급등",
   "주식은과열인데빅테크가AI칩맡기고빚내는사연",
   "[美증시특징주]반도체주,오픈AI영업적자확대에조정…메모리는보...",
   "6000억달러AI광풍,글로벌큰손들이단기채권방파제쌓는이유",
@@ -6001,7 +5992,16 @@
   "이혼소송부메랑‘904억비자금’…‘추징수사’급물살",
   "中드리미,180℃가열스팀로청‘아쿠아스팀’출시…“韓시장본...",
   "생산라인멈춘현대차,올손실2.3조…‘N%성과급’사태에산업계줄...",
-  "중국가전드리미\"정보보호·AS강화해한국소비자에다가갈것\""
+  "중국가전드리미\"정보보호·AS강화해한국소비자에다가갈것\"",
+  "최태원,SK㈜서상반기17억5000만원…윤풍영은주식보상포함77억원",
+  "프리미엄김치美간다…워커힐,‘수펙스김치’미국첫수출",
+  "호텔김치판로넓힌다…면세점입점·미국수출(종합)",
+  "로이터“삼성전자,21일주주환원계획논의할듯”",
+  "삼성전자곳간열린다…'100조+α'주주환원기대",
+  "주주환원탄력vs中반도체굴기발목…삼전닉스주가향방은",
+  "노태우비자금'904억'밝혀지나‥검찰수사착수",
+  "권민수“환율,펀더멘털상하향이맞다…원화국제화가첫과제”",
+  "상위제약사,약가제도개편앞서판관비중낮췄다"
  ],
  "recent_sigs": [
   [
@@ -7119,9 +7119,17 @@
   [
    "2026-08-21T12:05:51.891881+09:00",
    "정보보호 드리미 다가갈 AS 중국가전 강화해 한국소비자에"
+  ],
+  [
+   "2026-08-21T12:10:59.557757+09:00",
+   "맞다 환율 하향이 과제 펀더멘털상 원화 권민수 국제화가"
+  ],
+  [
+   "2026-08-21T12:10:59.557757+09:00",
+   "제약사 판관비중 앞서 개편 약가제도 낮췄다 상위"
   ]
  ],
- "last_run": "2026-08-21T12:06:13.468251+09:00",
+ "last_run": "2026-08-21T12:11:10.207515+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
