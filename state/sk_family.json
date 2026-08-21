@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16253",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=280607",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1328703",
   "https://www.huffingtonpost.kr/article/259216",
   "https://www.sisajournal.com/news/articleView.html?idxno=382124",
   "https://www.jjan.kr/article/20260803500298",
@@ -2999,12 +2996,12 @@
   "https://www.g-enews.com/view.php?ud=2026082108560152278fbfc802b3_1",
   "https://www.polinews.co.kr/news/articleView.html?idxno=740810",
   "http://www.yonhapnewstv.co.kr/news/AKR20260821090059SNs",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534795"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534795",
+  "http://www.globalepic.co.kr/view.php?ud=202608201501167135f69d33b22_29",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721142",
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58313"
  ],
  "seen_titles": [
-  "[Invest]SKTNS매각,최종승자는KCA파트너스",
-  "결국SK실트론품은두산,최태원개인지분도품을까",
-  "최태원SK실트론지분얼마에팔릴까···29.39%가격결정변수는",
   "[기업해부SK②]SK를흔드는오너리스크…9440억원재산분할판결이남...",
   "두산,SK실트론품고'반도체거점'완성…박정원승부수통했다",
   "“배당금1주당1500원”…SK중간배당확정,지급일과대상은?",
@@ -6001,7 +5998,10 @@
   "경기도의회,'지방의회법'국회제정대응강화",
   "폴리뉴스모닝브리핑8월21일금요일",
   "이대통령,SK최태원과만찬회동…메가프로젝트논의",
-  "이대통령,최태원과비공개만찬…대미투자상황공유했을듯"
+  "이대통령,최태원과비공개만찬…대미투자상황공유했을듯",
+  "경기도의회,지방의회법TF강화…입법대응력높인다",
+  "李대통령,최태원SK회장과비공개만찬…'3대메가프로젝트'투자현안...",
+  "글로벌AI격변,한국의중국의가는길이다르다"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-08-21T08:58:06.326424+09:00",
    "석학 출연 뉴캐피탈리 프로그램 강연 내달 AI 회장 EBS"
+  ],
+  [
+   "2026-08-21T09:30:21.703387+09:00",
+   "다르다 중국의 격변 길이 AI 글로벌 한국의 가는"
   ]
  ],
- "last_run": "2026-08-21T09:20:25.490045+09:00",
+ "last_run": "2026-08-21T09:30:38.532288+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6368,6 +6372,7 @@
   "job-post.co.kr": "잡포스트(JOBPOST)",
   "cfnews.kr": "유교신문",
   "1conomynews.co.kr": "1코노미뉴스",
-  "sisunnews.co.kr": "시선뉴스"
+  "sisunnews.co.kr": "시선뉴스",
+  "sisain.co.kr": "시사IN"
  }
 }
