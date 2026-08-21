@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebilliards.kr/news/articleView.html?idxno=31733",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48312",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=405115",
-  "http://www.segyebiz.com/newsView/20260820511486?OutUrl=naver",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000004643&cp=nv",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168480",
   "https://www.mhns.co.kr/news/articleView.html?idxno=757011",
@@ -2999,13 +2995,13 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716459&plink=ORI&cooper=NAVER",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423230",
   "https://www.wikitree.co.kr/articles/1154047",
-  "https://www.segye.com/newsView/20260821504014?OutUrl=naver"
+  "https://www.segye.com/newsView/20260821504014?OutUrl=naver",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375079",
+  "https://www.news1.kr/local/gwangju-jeonnam/6264712",
+  "https://www.tokenpost.kr/news/cryptocurrency/395398",
+  "https://www.yna.co.kr/view/AKR20260821019900017?input=1195m"
  ],
  "seen_titles": [
-  "[금융권이모저모]미래에셋자산운용,'TIGER배당커버드콜액티브'연초...",
-  "SKT'3G'신규가입중단...서비스는연말쯤종료",
-  "SK텔레콤,3G시대막내린다…신규가입중단",
-  "초고수,13%뛴SK하이닉스더샀다…삼성전자도순매수[주식초고수는...",
   "'6년의기다림'휴온스,창단첫PBA팀리그라운드우승…크라운해태-...",
   "SKhynixPlansRecordKRW40TrillionShareBuyback",
   "[투데이's특징주]SK하이닉스,40조규모자사주매입에'강세'···SK증...",
@@ -6001,7 +5997,11 @@
   "[모닝와이드]오늘의주요뉴스",
   "[주간e종목]SK증권,SK하이닉스40조자사주매입수혜주로부각",
   "삼성전자·SK하이닉스덕에엄청나게걷히는세금,이렇게쓰인다(정부...",
-  "2만원대에사서한주도안팔았다…전원주‘하이닉스잭팟’"
+  "2만원대에사서한주도안팔았다…전원주‘하이닉스잭팟’",
+  "[게임노트]2026년8월21일...'0-9를뒤집었다'짐머맨무너진한화,LG...",
+  "\"고마운하닉·삼전\"전남광주특별시'명예도로명'지정검토",
+  "온도34.9%로토큰화주식선두",
+  "[AI돋보기]한국AI정말세계3강인가…숫자로따져보니"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,21 @@
   [
    "2026-08-22T06:31:15.595366+09:00",
    "잭팟 2만원대에 주도 팔았다 전원주 사서 하이닉스"
+  ],
+  [
+   "2026-08-22T06:41:07.411296+09:00",
+   "명예도로명 전남광주특별시 삼전 검토 지정 하닉 고마운"
+  ],
+  [
+   "2026-08-22T06:41:07.411296+09:00",
+   "선두 온도 토큰화 주식"
+  ],
+  [
+   "2026-08-22T06:41:07.411296+09:00",
+   "숫자로 정말 한국 AI 따져보니 3강인가 세계"
   ]
  ],
- "last_run": "2026-08-22T06:31:21.305454+09:00",
+ "last_run": "2026-08-22T06:41:19.090533+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
