@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000002488&cp=nv",
-  "https://www.naeil.com/news/read/598617",
-  "https://www.naeil.com/news/read/598620",
-  "https://www.newsis.com/view/NISX20260804_0003735275",
-  "https://view.asiae.co.kr/article/2026080513214073569",
-  "https://www.sidae.com/article/2026081211075294670",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134262",
-  "https://www.joongangenews.com/news/articleView.html?idxno=539605",
-  "https://www.etoday.co.kr/news/view/2613698",
   "https://www.nocutnews.co.kr/news/6561813",
   "https://www.news1.kr/society/court-prosecution/6256781",
   "https://www.knnews.co.kr/news/articleView.php?idxno=1548537",
@@ -2999,18 +2990,18 @@
   "https://lawtalknews.co.kr/article/XVQ2RQRLQZZG",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546347",
   "https://www.newsis.com/view/NISX20260821_0003758092",
-  "https://www.newsis.com/view/NISX20260821_0003758081"
+  "https://www.newsis.com/view/NISX20260821_0003758081",
+  "https://www.hankyung.com/article/2026082154821",
+  "https://www.sisaweek.com/news/articleView.html?idxno=237411",
+  "https://www.sedaily.com/article/20081974",
+  "https://www.hankyung.com/article/2026082154801",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260821174834Gbh",
+  "https://news.tf.co.kr/read/life/2356727.htm",
+  "https://www.ytn.co.kr/_ln/0103_202608211744328606",
+  "https://www.mk.co.kr/article/12133454",
+  "https://www.mk.co.kr/article/12133436"
  ],
  "seen_titles": [
-  "울산시,성인PC방급증에‘칼’뽑았다",
-  "정치인132명에억대불법정치자금",
-  "다올저축은행대표경찰출석조사",
-  "\"액상형전담은괜찮지않나\"vs\"환풍구타고냄새다온다\"",
-  "세계2위R&D투자에도…과학노벨상은'0명'[사이언스스코프]",
-  "KAI노조,한화지분확대반발…\"기업결합심사불허해야\"",
-  "아시아나항공,대한항공합병안가결…12월17일통합항공사출범",
-  "\"우리끼리경쟁할때지났다\"...한화·KAI결합,K방산'톱10'승부수",
-  "종합특검,‘해경계엄가담’의혹김종욱전해경청장등불구속기소",
   "숨진광주고교생학폭당했나…경찰자료확보'수사속도'",
   "'가습기살균제'피해자단체대표숨져…피해구제인정자중1422번째",
   "KAI노조“공정위,한화결합심사불허를”",
@@ -6001,13 +5992,18 @@
   "'거래도와줄게요'말에속아1400만원증발…게임아이템사기,피해금...",
   "檢‘노태우비자금의혹’압수수색…“노소영은피의자포함안돼”",
   "조국혁신당\"'불법정치자금'노웅래2심도무죄…檢·한동훈,사과하라...",
-  "검찰,'노태우비자금의혹'압수수색…\"피의자에노소영없어\"(종합)"
+  "검찰,'노태우비자금의혹'압수수색…\"피의자에노소영없어\"(종합)",
+  "상조회사,고객이맡긴돈…쌈짓돈처럼함부로못쓴다",
+  "1등없는뽑기?…'쿠지'는규제사각지대",
+  "법까지고쳐180일간수사…종합특검,성과는‘물음표’",
+  "檢,노태우'904억비자금'수사본격화",
+  "[앵커리포트]'노태우비자금'베일벗나…검찰,강제수사나서",
+  "종합특검,'양평고속도로의혹'원희룡경찰이첩",
+  "'노태우비자금의혹'첫강제수사...김옥숙자택도포함",
+  "檢,'노태우비자금'김옥숙자택압수수색",
+  "세기의이혼이소환했다…'노태우비자금'"
  ],
  "recent_sigs": [
-  [
-   "2026-08-21T11:40:53.291788+09:00",
-   "21일 뉴스센터 8월"
-  ],
   [
    "2026-08-21T14:50:50.402329+09:00",
    "총정리 비자금 300억 이혼 최태원 비밀 노소영 잔혹사 성장의"
@@ -6025,7 +6021,7 @@
    "동참하라 전문 제명 이진숙 수록 헌법 오월단체 촉구"
   ]
  ],
- "last_run": "2026-08-21T17:40:55.465449+09:00",
+ "last_run": "2026-08-21T17:50:54.732029+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
