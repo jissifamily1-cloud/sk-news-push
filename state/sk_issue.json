@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635034",
-  "https://biz.sbs.co.kr/article_hub/20000328221?division=NAVER",
-  "https://www.bntnews.co.kr/article/view/bnt202608120190",
-  "https://news.tf.co.kr/read/economy/2353307.htm",
-  "https://view.asiae.co.kr/article/2026081211542418956",
   "https://www.thepublic.kr/news/articleView.html?idxno=314675",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244863",
   "https://www.news1.kr/local/sejong-chungbuk/6256698",
@@ -2999,14 +2994,14 @@
   "https://www.insight.co.kr/news/569479",
   "https://economist.co.kr/article/view/ecn202608210045",
   "https://www.the-today.com/news/articleView.html?idxno=88749",
-  "https://www.ytn.co.kr/_ln/0103_202608211641196334"
+  "https://www.ytn.co.kr/_ln/0103_202608211641196334",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101777",
+  "https://www.ngetnews.com/news/articleView.html?idxno=552613",
+  "https://www.news1.kr/society/court-prosecution/6265916",
+  "https://www.yna.co.kr/view/AKR20260821142000004?input=1195m",
+  "https://www.the-today.com/news/articleView.html?idxno=88751"
  ],
  "seen_titles": [
-  "[단독]경찰,‘내부비리’전문수사대40명규모로구성",
-  "日,스마트폰얼굴인식강제해제수사도입…법원'신체검사영장'발부",
-  "10월검찰청폐지…검사역할도달라진다",
-  "KAI노조\"공정위,한화와기업결합불허해야\"입장문",
-  "KAI노조,한화경영참여반대…\"기업결합불허해야\"",
   "\"경쟁사에핵심정보털릴판\"…KAI노조,한화기업결합에'결사반대'",
   "은행권금융사고공시액1900억육박…'외부사기'비상",
   "이강일의원'선거앱의혹'김성택전의원맞고발…첫고발인조사",
@@ -6001,7 +5996,12 @@
   "재산분할위해노소영이꺼낸'300억'메모,부메랑돼'친정비자금의...",
   "'노태우비자금'첫강제수사,최태원·노소영이혼재상고심에영향미...",
   "검찰,김옥숙연희동사저전격압수수색…'노태우비자금904억'정조준",
-  "동료사진으로딥페이크제작·유포한방송사직원입건"
+  "동료사진으로딥페이크제작·유포한방송사직원입건",
+  "롯데케미칼·HD현대케미칼대산통합,공정위조건부승인…LDPE·EVA가격...",
+  "[단독]신성통상무배당인데…오너家가나안은상폐뒤300억배당",
+  "檢'노태우비자금의혹'강제수사…\"피의자에노소영없어\"(종합2보)",
+  "3대특검미제해결한다더니줄줄이재이첩…종합특검무용론현실화",
+  "[이슈]이혼재판서빠진'노태우300억'…최태원·SK로수사번지나(1부..."
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "검찰 연희동 노태우 정조준 전격 904억 비자금 사저 김옥숙"
   ]
  ],
- "last_run": "2026-08-21T16:45:38.231285+09:00",
+ "last_run": "2026-08-21T16:51:01.158654+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
