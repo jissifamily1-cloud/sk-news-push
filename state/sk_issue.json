@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/166794",
-  "https://www.munhwa.com/article/11609057",
-  "https://view.asiae.co.kr/article/2026081212153546419",
-  "http://www.fnnews.com/news/202608121155016472",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739864",
-  "https://www.wikitree.co.kr/articles/1151960",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258588&CMPT_CD=P0010",
-  "http://www.press9.kr/news/articleView.html?idxno=80978",
-  "https://www.news1.kr/society/court-prosecution/6256719",
   "https://www.insight.co.kr/news/567739",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701804&plink=ORI&cooper=NAVER",
   "https://www.naeil.com/news/read/598608",
@@ -2999,18 +2990,18 @@
   "https://www.topdaily.kr/articles/111583",
   "https://www.ajunews.com/view/20260821165603481",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000058589",
-  "http://www.gjdream.com/news/articleView.html?idxno=672034"
+  "http://www.gjdream.com/news/articleView.html?idxno=672034",
+  "https://www.nocutnews.co.kr/news/6566261",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=500216",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225146",
+  "https://www.nocutnews.co.kr/news/6566256",
+  "https://www.chosun.com/national/incident/2026/08/21/KJA2Z2AORVDL5IACF5UDJKCUBE/",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213931",
+  "https://www.ytn.co.kr/_ln/0103_202608211659311213",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6846389_36981.html",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213967"
  ],
  "seen_titles": [
-  "케이카,‘한앤코흔적’지우고‘KG체제’이식속도",
-  "[단독]1422명으로늘어난‘가습기살균제사망’…피해자단체대표도...",
-  "\"필수품목적어라\"법바뀐지1년반인데…가맹본부3곳중2곳'깜깜이...",
-  "KAI민영화속도전..수은,BCG등에항공산업컨설팅맡길듯",
-  "[분석]15%선넘은한화,KAI와어디까지가나…공정위심사가가를'방...",
-  "축구협회성접대논란에…박지성,마음먹고'작심발언'쏟아냈다",
-  "무죄선고받은유시춘전EBS이사장\"검찰사적복수끝나\"",
-  "한화그룹,KAI지분확대에노조반발…기업결합심사변수",
-  "종합특검,'계엄가담'김종욱전해경청장등지휘부불구속기소",
   "\"한국축구신뢰회복고민해야\"…박지성,'외국인심판성접대'파문...",
   "일본,스마트폰얼굴인식강제해제수사도입…\"지나치다\"우려도",
   "[기고]한국형증거수집제도가무력화된다",
@@ -6001,7 +5992,16 @@
   "롯데케미칼,'대산1호'승인에도…10조빚에신용도'먹구름'",
   "같은거래처서산은583억·기업은행94억…정책은행678억사기혐의",
   "6개월수사하고도다시경찰로…종합특검무용론현실화",
-  "오월단체\"5·18헌법전문수록·이진숙제명동참하라\"촉구"
+  "오월단체\"5·18헌법전문수록·이진숙제명동참하라\"촉구",
+  "세무사광고'환급률1위'등퇴출…국세청고시환영",
+  "[IB탈탈털기]2조원베팅한한화,KAI지분15%넘겼다…이제시선은'이...",
+  "검찰,'노태우비자금300억'추적본격화",
+  "'6천만원불법정치자금수수'노웅래2심도무죄",
+  "지역주택조합추진과정서20억뒷돈주고받은2명기소",
+  "최태원·노소영소송나비효과…노태우일가'비자금의혹'압수수색[짤...",
+  "제주실종'골든타임'날려버린경찰의거짓말...왜?[이슈ON]",
+  "'이혼소송'후폭풍‥'노태우비자금'강제수사",
+  "8월21일미리보는MBN뉴스7"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "동참하라 전문 제명 이진숙 수록 헌법 오월단체 촉구"
   ]
  ],
- "last_run": "2026-08-21T17:01:22.015201+09:00",
+ "last_run": "2026-08-21T17:10:56.643583+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
