@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053033",
-  "https://www.ziksir.com/news/articleView.html?idxno=143684",
   "http://www.inews24.com/view/1996573",
   "https://www.newsis.com/view/NISX20260820_0003755562",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=662747",
@@ -2999,11 +2997,11 @@
   "http://www.kjdaily.com/article.php?aid=1787305512684953227",
   "https://www.hankookilbo.com/news/article/A2026082114190003605?did=NA",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445365",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16169699"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16169699",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=128894",
+  "https://www.newspim.com/news/view/20260821000916"
  ],
  "seen_titles": [
-  "SKT\"3G신규가입전면중단\"…23년만에종료수순",
-  "SKB,서울국제여성영화제특집관마련…상영작34편공개",
   "[특징주]SK증권,SK하이닉스40조원자사주매입중개..'상한가'",
   "증권가\"SK하이닉스40조자사주매입·소각은예상뛰어넘는주주환원...",
   "\"단일종목ETF막았더니빚투·서학개미로\"…식지않는레버리지열풍",
@@ -6001,7 +5999,9 @@
   "삼성전자·SK하이닉스독주…코스피상승이끌었다",
   "삼성전자,최대110조원사상최대주주환원…3분기30조원현금배당",
   "SK하이닉스,일본반도체공장건설보도에\"다양한방안검토하고있다...",
-  "[공매도브리핑]SK하이닉스3,973억…한전KPS비중39.78%"
+  "[공매도브리핑]SK하이닉스3,973억…한전KPS비중39.78%",
+  "AI호황으로돈번삼전닉스,'역대급'주주환원나선다",
+  "삼성전자,역대최대환원에도주가'주춤'…이유는기대선반영"
  ],
  "recent_sigs": [
   [
@@ -6923,9 +6923,13 @@
   [
    "2026-08-21T18:51:04.415919+09:00",
    "SK하이닉스 한전KPS 973억 비중"
+  ],
+  [
+   "2026-08-21T18:52:16.478601+09:00",
+   "기대 이유는 삼성전자 환원에도 선반영 역대 주가 주춤"
   ]
  ],
- "last_run": "2026-08-21T18:51:10.856273+09:00",
+ "last_run": "2026-08-21T18:52:23.000723+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
