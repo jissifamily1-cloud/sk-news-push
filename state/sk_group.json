@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=154447",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275119",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850928",
-  "https://news.mtn.co.kr/news-detail/2026082009111610167",
-  "https://www.g-enews.com/view.php?ud=20260820100532276844093b5d4e_1",
-  "http://www.queen.co.kr/news/articleView.html?idxno=461970",
-  "https://www.imaeil.com/page/view/2026082010205948979",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053033",
   "https://www.ziksir.com/news/articleView.html?idxno=143684",
   "http://www.inews24.com/view/1996573",
@@ -2999,16 +2992,16 @@
   "https://www.datasom.co.kr/news/articleView.html?idxno=209621",
   "https://www.mk.co.kr/article/12133502",
   "http://www.rookie.co.kr/news/articleView.html?idxno=126267",
-  "https://www.tfmedia.co.kr/news/article.html?no=206633"
+  "https://www.tfmedia.co.kr/news/article.html?no=206633",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000005049&cp=nv",
+  "https://view.asiae.co.kr/article/2026082118422568495",
+  "https://news.ifm.kr/news/articleView.html?idxno=477697",
+  "http://www.kjdaily.com/article.php?aid=1787305512684953227",
+  "https://www.hankookilbo.com/news/article/A2026082114190003605?did=NA",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445365",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16169699"
  ],
  "seen_titles": [
-  "SK브로드밴드,서울국제여성영화제4년째후원…상영작34편공개",
-  "코스피,삼전닉스급등에5%대폭등…매수사이드카발동",
-  "SKT,오늘부터3G신규가입중단…\"내년말서비스종료목표\"",
-  "SK하이닉스,전국4개거점서채용설명회…구직자4000명몰려",
-  "\"수익률61.6%로1위\"…미래에셋운용배당커버드콜ETF주목",
-  "앤트로픽,한국컴퓨트전략총괄찾는다",
-  "SKhynixTurnstoOpticalLinkstoBreakAI'sDataBottleneck",
   "SKT\"3G신규가입전면중단\"…23년만에종료수순",
   "SKB,서울국제여성영화제특집관마련…상영작34편공개",
   "[특징주]SK증권,SK하이닉스40조원자사주매입중개..'상한가'",
@@ -6001,7 +5994,14 @@
   "[분석]삼성·하이닉스,주주환원왜달랐나",
   "전원주,2만원에산하이닉스안팔고15년‘9000%대박’",
   "\"하나부터열까지아쉬웠던시즌...디펜스중심잡는선수되겠다\"새시...",
-  "[전문가칼럼]주문받아만든기술은연구개발이아닌가?"
+  "[전문가칼럼]주문받아만든기술은연구개발이아닌가?",
+  "삼성올해최대110조주주환원…韓기업역대최대",
+  "\"안팔아,더기다린다\"…SK하이닉스수익률9000%에도꿋꿋한이유",
+  "[오늘의증시]코스피는웃었지만…주주환원·금리가가른증시",
+  "삼성전자·SK하이닉스독주…코스피상승이끌었다",
+  "삼성전자,최대110조원사상최대주주환원…3분기30조원현금배당",
+  "SK하이닉스,일본반도체공장건설보도에\"다양한방안검토하고있다...",
+  "[공매도브리핑]SK하이닉스3,973억…한전KPS비중39.78%"
  ],
  "recent_sigs": [
   [
@@ -6919,9 +6919,13 @@
   [
    "2026-08-21T18:41:06.275192+09:00",
    "주문받아 아닌가 기술은 연구개발이 만든"
+  ],
+  [
+   "2026-08-21T18:51:04.415919+09:00",
+   "SK하이닉스 한전KPS 973억 비중"
   ]
  ],
- "last_run": "2026-08-21T18:41:18.065371+09:00",
+ "last_run": "2026-08-21T18:51:10.856273+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
