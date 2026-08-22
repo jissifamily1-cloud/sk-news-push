@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=315523",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432712",
-  "https://www.ajunews.com/view/20260820130524720",
-  "https://www.etoday.co.kr/news/view/2616371",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213617",
-  "https://www.chosun.com/economy/economy_general/2026/08/20/AHGGEQZCHNGVVDD4LJZK6JVALI/",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=662765",
   "http://www.techholic.co.kr/news/articleView.html?idxno=222536",
   "http://www.techholic.co.kr/news/articleView.html?idxno=222538",
@@ -2999,15 +2993,15 @@
   "https://www.mediapen.com/news/view/1118184",
   "https://www.seoul.co.kr/news/economy/securities/2026/08/22/20260822500008?wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20260821_0003757366",
-  "https://www.sedaily.com/article/20081885"
+  "https://www.sedaily.com/article/20081885",
+  "http://www.newsprime.co.kr/news/article.html?no=744721",
+  "https://www.thepublic.kr/news/articleView.html?idxno=315704",
+  "https://www.thepublic.kr/news/articleView.html?idxno=315723",
+  "https://www.thepublic.kr/news/articleView.html?idxno=315679",
+  "https://www.segye.com/newsView/20260821507611?OutUrl=naver",
+  "https://www.sedaily.com/article/20082074"
  ],
  "seen_titles": [
-  "교육교부금제개편임박…미래대응기금100조넘을까",
-  "'21년원클럽맨떠난다'…SSG,9월5일두산전서김성현플레잉코치은퇴...",
-  "AWS,'코리아피지컬AI프론티어프로그램'가동…국내상용화지원",
-  "SK엔무브,HF싱클레어와북미윤활기유공급·유통협력",
-  "'상승장족쇄'푼액티브전략…미래에셋,커버드콜ETF수익률1위",
-  "'캡틴'송안톤중심U-19대표팀,U-20아시안컵예선최종23인확정",
   "[食전食후]코스피,외인·기관매수에6%대급등…6800선회복",
   "비트고코리아,해외기업최초직접VASP취득…국내기관공략",
   "美훈풍·하이닉스주주환원…코스피5%급등'환호'[프레스룸경제라...",
@@ -6001,7 +5995,13 @@
   "[김이코의시장분석]환율·금리'복합변수'앞에선코스피…박스권돌...",
   "[서울데이터랩]미국증시상승마감…다우0.98%올라강세,반도체는차...",
   "\"현금대신주식?\"\"성과급따로?\"…잠잠하던반도체투톱흔드는불씨...",
-  "트럼프가띄운‘하이퍼리퀴드’…월가긴장하는이유는[도예리의디지..."
+  "트럼프가띄운‘하이퍼리퀴드’…월가긴장하는이유는[도예리의디지...",
+  "[해외시황]뉴욕증시,美국채금리상승에도경기지표호조에'반등'…...",
+  "보안취약점1개가'연쇄타격'…올상반기랜섬웨어피해4744건",
+  "서울發전세대란에지금경기도는…\"집보기전에계약부터할께요\"노룩...",
+  "\"왜이렇게아이폰이많아요?\"의반전…아이폰충성고객도,갤럭시Z폴...",
+  "정정용의전북,황선홍의대전…위기의감독들,돌파구찾을까",
+  "메모리사소캠2양산에소부장업계도‘꿈틀’[빛이나는비즈]"
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,29 @@
   [
    "2026-08-22T10:01:20.000291+09:00",
    "하이퍼리퀴드 월가 이유는 긴장하는 띄운 트럼프가 디지 도예리의"
+  ],
+  [
+   "2026-08-22T10:11:04.772309+09:00",
+   "랜섬웨어 상반기 보안 4744건 연쇄 타격 취약점 피해 1개가"
+  ],
+  [
+   "2026-08-22T10:11:04.772309+09:00",
+   "전세대란에 노룩 계약부터 서울 할께요 보기전에 경기도는 지금"
+  ],
+  [
+   "2026-08-22T10:11:04.772309+09:00",
+   "충성고객도 아이폰이 갤럭시 많아요 아이폰 이렇게 반전"
+  ],
+  [
+   "2026-08-22T10:11:04.772309+09:00",
+   "정정용의 황선홍의 전북 돌파구 찾을까 대전 감독들 위기의"
+  ],
+  [
+   "2026-08-22T10:11:04.772309+09:00",
+   "업계도 소캠2 양산에 꿈틀 메모리사 소부장"
   ]
  ],
- "last_run": "2026-08-22T10:01:29.672436+09:00",
+ "last_run": "2026-08-22T10:11:21.318539+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
