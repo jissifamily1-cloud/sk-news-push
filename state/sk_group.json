@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20081373",
-  "https://www.etoday.co.kr/news/view/2616428",
   "https://www.mydaily.co.kr/page/view/2026082014512179996",
   "https://www.mt.co.kr/industry/2026/08/20/2026082011080213481",
   "https://www.ajunews.com/view/20260820135652812",
@@ -2999,11 +2997,11 @@
   "https://www.g-enews.com/view.php?ud=2026082307014683312bd56fbc3c_1",
   "https://www.newsway.co.kr/news/view?ud=2026082113411673454",
   "https://www.news1.kr/it-science/cc-newmedia/6265810",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431341"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431341",
+  "https://www.joongangenews.com/news/articleView.html?idxno=541950",
+  "https://www.yna.co.kr/view/AKR20260821159200003?input=1195m"
  ],
  "seen_titles": [
-  "고려아연케이잼,LG에너지솔루션공급망뚫고\"북미공급본격화\"",
-  "대기업임원보수체계'지각변동'...연봉보다주가에웃고운다?",
   "중CXMT에어YMTC도상장준비...삼전·닉스와경쟁구도",
   "확달라진휴온스,프로당구꼴찌→우승대역전드라마",
   "'2018우승주역'로맥돌아온다⋯SSG,27일홈커밍데이",
@@ -6001,7 +5999,9 @@
   "홍콩증시SK하이닉스2배레버리지‘역풍’…고점대비77%손실",
   "'삼전닉스레버리지'사고싶은데3000만원부터?…달라진투자법[주린이...",
   "AI기업변신하는통신사,스타트업'파트너'로키운다",
-  "삼성110조·하이닉스40조+α…'금액보다환원율'따져보니"
+  "삼성110조·하이닉스40조+α…'금액보다환원율'따져보니",
+  "삼성전자·SK하이닉스가받친코스피6900선…이번주엔비디아·잭슨홀...",
+  "K-배터리3사글로벌등록특허10만건눈앞…3년새약2배로↑"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-08-23T07:11:05.053757+09:00",
    "삼성 하이닉스 40조 110조 금액보다 환원율 따져보니"
+  ],
+  [
+   "2026-08-23T07:31:10.114206+09:00",
+   "등록 글로벌 10만건 배터리 2배로 3사 눈앞 특허 3년새"
   ]
  ],
- "last_run": "2026-08-23T07:23:47.548736+09:00",
+ "last_run": "2026-08-23T07:31:16.189320+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
