@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=740711",
-  "https://www.newsis.com/view/NISX20260820_0003755924",
-  "http://www.impacton.net/news/articleView.html?idxno=20029",
-  "https://www.seoul.co.kr/news/politics/2026/08/20/20260820500105?wlog_tag3=naver",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850960",
-  "https://www.newsis.com/view/NISX20260820_0003755269",
   "https://www.mt.co.kr/society/2026/08/20/2026082010204662049",
   "https://www.sedaily.com/article/20081332",
   "https://daily.hankooki.com/news/articleView.html?idxno=1397526",
@@ -2999,15 +2993,15 @@
   "https://www.ajunews.com/view/20260822105701038",
   "https://www.ytn.co.kr/_ln/0102_202608221054383202",
   "https://www.sedaily.com/article/20082081",
-  "https://www.aitimes.com/news/articleView.html?idxno=214241"
+  "https://www.aitimes.com/news/articleView.html?idxno=214241",
+  "https://www.sportschosun.com/baseball/2026-08-22/202608220100129960008309",
+  "https://www.edaily.co.kr/News/Read?newsId=02010646645549944&mediaCodeNo=257",
+  "https://www.kado.net/news/articleView.html?idxno=2067919",
+  "https://www.mk.co.kr/article/12133760",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260470&CMPT_CD=P0010",
+  "https://www.newsis.com/view/NISX20260822_0003758372"
  ],
  "seen_titles": [
-  "코스피,6%대급등…하이닉스13%·삼성전자8%↑",
-  "[분석]HBM다음은'거리'다···SK하이닉스가빛을연구하는이유",
-  "부천시,상동·대장성장거점조성…\"기업이성장하는무대만들터\"",
-  "YonhapNewsSummary",
-  "건설업계,아파트앱경쟁강화…분양정보부터관리비·주차까지",
-  "김종훈진보당대표\"제3정당되도록노력…충북송전탑반대\"",
   "中,신장제재맞서공급망실사기관겨냥…RBA협력금지",
   "“대통령쳤는데더세졌다”…논란의유시민,3년연속1위차지한까...",
   "이재명임기내호남반도체1호팹구축'전부처올인'",
@@ -6001,7 +5995,13 @@
   "中낸드YMTC,IPO신청서수리…6조8000억원조달추진",
   "삼성전자,사상최대주주환원...장마감뒤거래는하락",
   "삼성‘110조환원’에도머쓱…‘40조소각’띄운SK하이닉스는호평...",
-  "엔비디아,국내NPU스타트업리벨리온과인수협상중"
+  "엔비디아,국내NPU스타트업리벨리온과인수협상중",
+  "\"이런기분난생처음\"문현빈도뜨겁게감격했다…9점차뒤집기,한화...",
+  "[VC'sPick]\"데이터바로연산\"…AI반도체투자유치",
+  "반도체반등에서학개미도움직였다…삼전·닉스ETF1185억순매수",
+  "“AI빚내가보증설께”…엔비디아통큰약속에서학개미DRAM에1천억...",
+  "[요망진중년]50대중년여성의해방실패기",
+  "\"주주환원흐름이어간다\"KCC,'삼성물산배당금'받아재배당왜?"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,17 @@
   [
    "2026-08-22T11:01:17.725224+09:00",
    "리벨리온과 엔비디아 스타트업 협상 NPU 국내 인수"
+  ],
+  [
+   "2026-08-22T11:11:12.177312+09:00",
+   "여성의 해방 중년 50대 실패기"
+  ],
+  [
+   "2026-08-22T11:11:12.177312+09:00",
+   "삼성물산 재배당 흐름 받아 주주환원 이어간다 KCC 배당금"
   ]
  ],
- "last_run": "2026-08-22T11:01:23.781145+09:00",
+ "last_run": "2026-08-22T11:11:20.761148+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
