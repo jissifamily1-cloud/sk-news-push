@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202608202043i",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30875",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432710",
-  "https://www.newspim.com/news/view/20260820000720",
-  "https://www.sedaily.com/article/20081316",
   "https://www.naeil.com/news/read/599461",
   "https://www.naeil.com/news/read/599473",
   "https://www.naeil.com/news/read/599439",
@@ -2999,14 +2994,14 @@
   "https://www.viva100.com/article/20260822500005",
   "http://www.yonhapnewstv.co.kr/news/MYH20260822091240rAc",
   "https://www.sedaily.com/article/20082088",
-  "https://www.newsis.com/view/NISX20260822_0003758336"
+  "https://www.newsis.com/view/NISX20260822_0003758336",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716615&plink=ORI&cooper=NAVER",
+  "https://www.sedaily.com/article/20082094",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168633",
+  "http://www.fnnews.com/news/202608220911163808",
+  "https://www.theguru.co.kr/news/article.html?no=106137"
  ],
  "seen_titles": [
-  "SK엔무브북미윤활기유유통망확대",
-  "한투운용,'ACE고배당주Plus커버드콜액티브'개인순매수1000억원돌파",
-  "\"40조태운다\"SK하이닉스역대급주주환원에코스피6%대폭등",
-  "SKT3G신규가입중단,23년만에서비스종료수순",
-  "'26조유가담합'정유4사첫공판서혐의부인…\"사실아냐\"",
   "박관열광주시장,광주역세권자족도시승부…2만호주택·30만㎡국가산...",
   "'디펜딩챔피언'전북,K3당진에충격패…포항·대전은8강진출",
   "'TIGER배당커버드콜액티브',연초이후수익률61.6%기록",
@@ -6001,7 +5996,12 @@
   "경북안동시,국립의대설립으로의료격차해소박차",
   "'N%성과급'갈등지속…정부해법찾기난항",
   "“모든수단동원”韓총리,주택신속공급총력…8·13대책속도전",
-  "\"치매인식개선\"…K리그1제주SKFC'이름없는유니폼'"
+  "\"치매인식개선\"…K리그1제주SKFC'이름없는유니폼'",
+  "서학개미,'삼전닉스'라운드힐ETF일주일동안1천억샀다",
+  "삼성전자,110조주주환원확정…내년188조‘배당메가사이클’",
+  "변동성장세에'틈새투자상품'봇물",
+  "\"선수이름이사라졌다\"…제주SK,유니폼으로치매의기억을말한다",
+  "[통신리뷰]SKT,'모두의AI'사업참여…풀스택역량총집결(8월3주차)"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,21 @@
   [
    "2026-08-22T09:21:05.731579+09:00",
    "개선 치매 유니폼 K리그1 제주SK 이름없는 인식 FC"
+  ],
+  [
+   "2026-08-22T09:31:12.996894+09:00",
+   "투자상품 봇물 장세에 틈새 변동성"
+  ],
+  [
+   "2026-08-22T09:31:12.996894+09:00",
+   "기억을 사라졌다 유니폼으로 제주SK 말한다 치매의 이름이 선수"
+  ],
+  [
+   "2026-08-22T09:31:12.996894+09:00",
+   "풀스택 사업 8월3주차 총집결 모두의AI 참여 역량 SKT"
   ]
  ],
- "last_run": "2026-08-22T09:21:29.796567+09:00",
+ "last_run": "2026-08-22T09:31:24.085316+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
