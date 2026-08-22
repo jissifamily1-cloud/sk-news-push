@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703741",
   "https://biz.chosun.com/industry/company/2026/08/12/HKSLH6EJVBC2THRGZA75ROQDBU/",
   "https://www.ddaily.co.kr/page/view/2026081211242447530",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05225046645546664",
@@ -2999,10 +2998,10 @@
   "https://www.etnews.com/20260821000153",
   "https://www.joongang.co.kr/article/25455299",
   "https://www.chosun.com/politics/assembly/2026/08/22/7THR5FF6JNGAFG53DQQUIFOQIA/",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60732"
+  "https://www.lawtv.kr/news/articleView.html?idxno=60732",
+  "https://www.pennmike.com/news/articleView.html?idxno=126174"
  ],
  "seen_titles": [
-  "민주당,가짜합성니코틴전자담배범정부조사촉구",
   "대한항공·아시아나합병최종결의…12월17일통합출범",
   "KAI노조\"공정위,한화기업결합심사불허해야\"…항공우주경쟁질서훼...",
   "한화,KAI인수시험대올랐다…‘방산독점’우려해소관건",
@@ -6001,10 +6000,16 @@
   "“CI도나왔다”…롯데케미칼-HD현대케미칼통합법인출격준비",
   "[단독]“김건희특검팀에아는동생있어,걱정마라”…수사정보빼돌...",
   "노웅래‘2심무죄’에與“응답하라한동훈”韓“실제돈안받아무...",
-  "종합특검,6개월수사에도주요사건줄줄이국수본재이첩방침"
+  "종합특검,6개월수사에도주요사건줄줄이국수본재이첩방침",
+  "[재계핫이슈]최태원회장,호남반도체와9440억원의틈바구니"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-22T10:40:53.478552+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-22T10:50:50.191728+09:00",
+   "최태원 호남반도체와 9440억원의 틈바구니 회장"
+  ]
+ ],
+ "last_run": "2026-08-22T10:51:00.084167+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6068,6 +6073,7 @@
   "pressian.com": "pressian.com",
   "yonhapnewstv.co.kr": "연합뉴스TV",
   "the-today.com": "더투데이",
-  "gjdream.com": "드림투데이"
+  "gjdream.com": "드림투데이",
+  "pennmike.com": "펜앤마이크"
  }
 }
