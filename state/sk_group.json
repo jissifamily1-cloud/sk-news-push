@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20081330",
-  "https://www.sedaily.com/article/20081331",
-  "https://www.hankyung.com/article/202608199622i",
-  "http://www.samdailbo.com/news/articleView.html?idxno=269278",
-  "https://www.sedaily.com/article/20081329",
   "https://www.news1.kr/local/gwangju-jeonnam/6264308",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80614",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=905000",
@@ -2999,14 +2994,14 @@
   "https://www.etnews.com/20260822000001",
   "https://www.hankyung.com/article/2026082260327",
   "https://www.topstarnews.net/news/articleView.html?idxno=16170209",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=878475"
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878475",
+  "https://www.newsway.co.kr/news/view?ud=2026082211505805264",
+  "https://www.newsjeju.net/news/articleView.html?idxno=424884",
+  "https://zdnet.co.kr/view/?no=20260821203408",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479554",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261008&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "[시장따라잡기]성공적증시데뷔한유니트리…국내로봇주영향은?",
-  "[직설]7월FOMC의사록공개…美·日국채금리급등,증시변곡점오나...",
-  "美재무부,장기국채바이백규모확대...\"임시방편일뿐\"",
-  "40조원으로2407만주'삭제'…SK하이닉스,HBM으로키운현금을'주당가...",
-  "美국채금리급등에AI메모리주동반급락",
   "올상반기벤처투자54%급증…AI·바이오에돈몰렸다",
   "\"코스피,사실상13개종목에좌우\"…대형주쏠림경고한이코노미스트",
   "제주,안양에1-2패배…코리아컵8강진출무산",
@@ -6001,29 +5996,14 @@
   "삼전닉스반등하자서학개미움직였다…한주간라운드힐ETF1천억사들...",
   "삼전닉스턱밑까지쫓아온中YMTC…6.8조실탄마련나선다",
   "8월3주차SK텔레콤주가,10만원선등락끝상승마감",
-  "[김선한의짜오베트남]\"삼성전자,반도체전략재편에메모리후공정..."
+  "[김선한의짜오베트남]\"삼성전자,반도체전략재편에메모리후공정...",
+  "\"AI설비투자더간다\"···삼전·하이닉스담은ETF에뭉칫돈",
+  "제주SK'이름없는유니폼'…치매공감메시지",
+  "OTT가TV매출마저넘었다…네덜란드서첫역전",
+  "삼성·SK·한화와손잡은세보엠이씨…반도체설비시장서존재감",
+  "3855km를걸어청와대앞에섰다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-22T06:01:19.572134+09:00",
-   "파마리서치 대장주 사고 반도체 팔았다"
-  ],
-  [
-   "2026-08-22T06:01:19.572134+09:00",
-   "밝혀진 칸예 16년 회식 비화 관객 전설의 웨스트 1열 식당 만에"
-  ],
-  [
-   "2026-08-22T06:01:19.572134+09:00",
-   "회동 최태원부터 현안은 시작된 테이블 LG 삼성 총수 오를"
-  ],
-  [
-   "2026-08-22T06:01:19.572134+09:00",
-   "출렁인 모멘텀 따라 SK하닉 40조 안전판 반등 외인"
-  ],
-  [
-   "2026-08-22T06:01:19.572134+09:00",
-   "8월 알테오젠 3주차 디앤디파마텍"
-  ],
   [
    "2026-08-22T06:11:05.175392+09:00",
    "뉴욕증시 저가 주간 지수 하락 3대 상승 기준 매수에"
@@ -6451,9 +6431,21 @@
   [
    "2026-08-22T11:51:02.940483+09:00",
    "후공정 반도체전략 메모리 삼성전자 재편에"
+  ],
+  [
+   "2026-08-22T12:01:22.993402+09:00",
+   "TV 매출마저 넘었다 OTT가 역전 네덜란드서"
+  ],
+  [
+   "2026-08-22T12:01:22.993402+09:00",
+   "세보엠이씨 시장서 삼성 반도체 손잡은 존재감 한화와 설비"
+  ],
+  [
+   "2026-08-22T12:01:22.993402+09:00",
+   "앞에 3855km를 섰다 걸어 청와대"
   ]
  ],
- "last_run": "2026-08-22T11:51:09.198170+09:00",
+ "last_run": "2026-08-22T12:01:34.347270+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
