@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000329733?division=NAVER",
-  "https://www.sedaily.com/article/20081326",
-  "https://biz.sbs.co.kr/article_hub/20000329654?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000329653?division=NAVER",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=609023",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43144",
   "https://www.sedaily.com/article/20081330",
   "https://www.sedaily.com/article/20081331",
   "https://www.hankyung.com/article/202608199622i",
@@ -2999,15 +2993,15 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16170197",
   "https://www.mk.co.kr/article/12133765",
   "https://www.econovill.com/news/articleView.html?idxno=748644",
-  "https://www.seoultimes.news/news/article.html?no=2000099033"
+  "https://www.seoultimes.news/news/article.html?no=2000099033",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80643",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479551",
+  "https://www.etnews.com/20260822000001",
+  "https://www.hankyung.com/article/2026082260327",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16170209",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878475"
  ],
  "seen_titles": [
-  "SKT,3G신규가입중단…2027년말까지서비스종료추진",
-  "SK엔무브,美HF싱클레어와북미윤활기유유통확대'맞손'",
-  "단일종목레버리지ETF,도입이후무엇을보완해야하나",
-  "코스피상장사상반기순익333%급증",
-  "역시반도체후광…SK하이닉스경기이천고용률1.9%p'껑충'뛰어",
-  "‘26조원대유가담합’국내정유사4곳,첫재판서혐의부인",
   "[시장따라잡기]성공적증시데뷔한유니트리…국내로봇주영향은?",
   "[직설]7월FOMC의사록공개…美·日국채금리급등,증시변곡점오나...",
   "美재무부,장기국채바이백규모확대...\"임시방편일뿐\"",
@@ -6001,7 +5995,13 @@
   "최근5거래일SK증권주가급등마감",
   "“유학비부담확줄어좋아요”…삼전닉스주주환원300조원의‘나비...",
   "한미반도체,1300억들여8공장확보…\"장비쇼티지대비\"",
-  "[CEO위클리]조현준12년만에동생과법정대면…최태원대통령과비공..."
+  "[CEO위클리]조현준12년만에동생과법정대면…최태원대통령과비공...",
+  "삼성전자\"올해최대110조주주환원\"…주가탄력받나",
+  "SK하이닉스,40조원통큰주주환원…추가카드나오나",
+  "삼전닉스반등하자서학개미움직였다…한주간라운드힐ETF1천억사들...",
+  "삼전닉스턱밑까지쫓아온中YMTC…6.8조실탄마련나선다",
+  "8월3주차SK텔레콤주가,10만원선등락끝상승마감",
+  "[김선한의짜오베트남]\"삼성전자,반도체전략재편에메모리후공정..."
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-08-22T11:41:05.497052+09:00",
    "조현준 법정 동생과 대통령과 최태원 비공 대면 만에 12년"
+  ],
+  [
+   "2026-08-22T11:51:02.940483+09:00",
+   "후공정 반도체전략 메모리 삼성전자 재편에"
   ]
  ],
- "last_run": "2026-08-22T11:41:13.935103+09:00",
+ "last_run": "2026-08-22T11:51:09.198170+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
