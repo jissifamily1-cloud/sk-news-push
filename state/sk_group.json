@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=154473",
-  "https://www.khan.co.kr/article/202608201452001",
   "https://www.newstnt.com/news/articleView.html?idxno=714456",
   "https://www.mydaily.co.kr/page/view/2026082015005865322",
   "http://www.fnnews.com/news/202608201446359936",
@@ -2999,11 +2997,11 @@
   "https://www.sentv.co.kr/article/view/sentv202608210117",
   "https://economist.co.kr/article/view/ecn202608180046",
   "https://www.dailian.co.kr/news/view/1680972/?sc=Naver",
-  "https://www.sidae.com/article/2026082114083873993"
+  "https://www.sidae.com/article/2026082114083873993",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230026&t=NN",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431346"
  ],
  "seen_titles": [
-  "뭘해먹고살까?",
-  "[종합]성과급만평균7억원?…SK하이닉스,임금6.3%올리고PS60%자사...",
   "SKhynixbuybacksendssharessoaring,brokerhitslimit",
   "법인코인시장열리기전'금고전쟁'…코다이어하나금융참전에수탁...",
   "“대기업74%하반기채용나선다”",
@@ -6001,7 +5999,9 @@
   "SKT·네이버가앤트로픽에공들이는이유?…AIDC고객선점",
   "'공장만지으면끝?'...메가특구성패'소부장·인력'에달려",
   "삼전닉스채권혼합형줄등장…ETF3종목신규상장",
-  "환율1300원대진입…\"단기적하락모멘텀\""
+  "환율1300원대진입…\"단기적하락모멘텀\"",
+  "SK하이닉스'성과급60%주식'…이번주노조투표'촉각'",
+  "예탁금한방에단일종목레버리지거래'뚝'…사이드카는계속"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,13 @@
   [
    "2026-08-23T08:11:04.339949+09:00",
    "1300원대 하락 진입 모멘텀 환율 단기적"
+  ],
+  [
+   "2026-08-23T08:21:04.888297+09:00",
+   "한방에 사이드카는 예탁금 단일종목 계속 거래 레버리지"
   ]
  ],
- "last_run": "2026-08-23T08:11:28.316321+09:00",
+ "last_run": "2026-08-23T08:21:10.617011+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
