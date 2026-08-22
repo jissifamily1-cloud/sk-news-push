@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/society/2026/08/20/2026082010204662049",
-  "https://www.sedaily.com/article/20081332",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1397526",
-  "https://www.mt.co.kr/world/2026/08/20/2026082012280482204",
   "https://www.sedaily.com/article/20081328",
   "https://www.huffingtonpost.kr/article/259708",
   "https://www.newspenguin.com/news/articleView.html?idxno=22053",
@@ -2999,13 +2995,13 @@
   "https://www.kado.net/news/articleView.html?idxno=2067919",
   "https://www.mk.co.kr/article/12133760",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260470&CMPT_CD=P0010",
-  "https://www.newsis.com/view/NISX20260822_0003758372"
+  "https://www.newsis.com/view/NISX20260822_0003758372",
+  "https://biz.sbs.co.kr/article_hub/20000330168?division=NAVER",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16170181",
+  "https://basketkorea.com/news/newsview.php?ncode=1065579112798575",
+  "https://biz.heraldcorp.com/article/10848608"
  ],
  "seen_titles": [
-  "中,신장제재맞서공급망실사기관겨냥…RBA협력금지",
-  "“대통령쳤는데더세졌다”…논란의유시민,3년연속1위차지한까...",
-  "이재명임기내호남반도체1호팹구축'전부처올인'",
-  "다시오르는삼전닉스…\"메모리반도체주가는美국채금리에달려\"",
   "'14조유가담합'정유4개사,첫재판서전부혐의부인",
   "“40조소각·100조환원”…SK하이닉스,주가부양승부수",
   "하나금융·SKT손잡은비트고코리아,국내가상자산사업자신고수리",
@@ -6001,7 +5997,11 @@
   "반도체반등에서학개미도움직였다…삼전·닉스ETF1185억순매수",
   "“AI빚내가보증설께”…엔비디아통큰약속에서학개미DRAM에1천억...",
   "[요망진중년]50대중년여성의해방실패기",
-  "\"주주환원흐름이어간다\"KCC,'삼성물산배당금'받아재배당왜?"
+  "\"주주환원흐름이어간다\"KCC,'삼성물산배당금'받아재배당왜?",
+  "中낸드업체YMTCIPO잰걸음…6조8천억원조달계획",
+  "최근5거래일SK하이닉스주가롤러코스터이틀째반등",
+  "‘미라클소노의사령탑’손창환소노감독,“올해가진짜지않을까요...",
+  "“비트코인보다SK하이닉스”해외거래소에서1등…한국서다떠난다..."
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,21 @@
   [
    "2026-08-22T11:11:12.177312+09:00",
    "삼성물산 재배당 흐름 받아 주주환원 이어간다 KCC 배당금"
+  ],
+  [
+   "2026-08-22T11:21:03.238391+09:00",
+   "반등 5거래일 최근 주가 SK하이닉스 이틀째 롤러코스터"
+  ],
+  [
+   "2026-08-22T11:21:03.238391+09:00",
+   "소노의 소노 진짜지 않을까요 감독 미라클 올해가 사령탑 손창환"
+  ],
+  [
+   "2026-08-22T11:21:03.238391+09:00",
+   "거래소에서 해외 1등 떠난다 SK하이닉스 한국서 비트코인보다"
   ]
  ],
- "last_run": "2026-08-22T11:11:20.761148+09:00",
+ "last_run": "2026-08-22T11:21:16.302908+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
