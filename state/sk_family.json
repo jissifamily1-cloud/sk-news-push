@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.datasom.co.kr/news/articleView.html?idxno=209375",
-  "http://www.cctimes.kr/news/articleView.html?idxno=920374",
   "https://www.cbci.co.kr/news/articleView.html?idxno=594539",
   "https://www.newsen.com/news_view.php?uid=202608051305490310",
   "https://www.naeil.com/news/read/597821",
@@ -2999,11 +2997,11 @@
   "https://www.pennmike.com/news/articleView.html?idxno=126174",
   "https://www.seoultimes.news/news/article.html?no=2000099033",
   "https://www.ytn.co.kr/_ln/0103_202608221202280700",
-  "https://www.newsis.com/view/NISX20260820_0003756402"
+  "https://www.newsis.com/view/NISX20260820_0003756402",
+  "https://www.ytn.co.kr/_ln/0103_202608221353499481",
+  "https://www.joongangenews.com/news/articleView.html?idxno=541912"
  ],
  "seen_titles": [
-  "김해시,폭염기기상재해대응원예농가'맞춤형현장기술지원'",
-  "김해시,도시농업생활원예프로그램참여자모집",
   "김해시,폭염·가뭄대응원예농가현장기술지원총력",
   "김해시,기상이변맞서원예농가75곳현장밀착지원",
   "충주시새마을회,열무김치나눔활동",
@@ -6001,7 +5999,9 @@
   "[재계핫이슈]최태원회장,호남반도체와9440억원의틈바구니",
   "[CEO위클리]조현준12년만에동생과법정대면…최태원대통령과비공...",
   "'노태우비자금'압수물분석착수...'152억기부금'주목",
-  "\"투자자넘어사업자로\"…SK그룹,'AI풀스택'전력동맹가속[K-SMR전성..."
+  "\"투자자넘어사업자로\"…SK그룹,'AI풀스택'전력동맹가속[K-SMR전성...",
+  "'노태우비자금'압수물분석착수...'152억기부금'의심",
+  "SK최태원과먼저만난李대통령…삼성이재용·LG구광모까지'총수릴..."
  ],
  "recent_sigs": [
   [
@@ -6027,9 +6027,13 @@
   [
    "2026-08-22T13:06:08.684419+09:00",
    "동맹 SMR 가속 투자자 사업자로 풀스택 전성 넘어 AI 전력"
+  ],
+  [
+   "2026-08-22T14:00:27.991711+09:00",
+   "총수 이재용 대통령 삼성 만난 LG 구광모까지 최태원과 먼저"
   ]
  ],
- "last_run": "2026-08-22T13:50:27.090514+09:00",
+ "last_run": "2026-08-22T14:00:43.548858+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
