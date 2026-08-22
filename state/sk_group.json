@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608201446359936",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=271251",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203674",
-  "https://www.sisajournal.com/news/articleView.html?idxno=384226",
-  "https://www.seoulfn.com/news/articleView.html?idxno=636077",
   "http://www.iminju.net/news/articleView.html?idxno=168316",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546757",
   "https://www.chosun.com/economy/tech_it/2026/08/20/GZIBW35XSND55DWC56IQ3NC4WE/",
@@ -2999,14 +2994,14 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230026&t=NN",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431346",
   "https://www.tokenpost.kr/news/market/395828",
-  "https://www.g-enews.com/view.php?ud=202608230754416929fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202608230754416929fbbec65dfb_1",
+  "https://www.aitimes.com/news/articleView.html?idxno=214253",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=600265",
+  "https://www.dt.co.kr/article/12079533",
+  "https://www.ddaily.co.kr/page/view/2026082302215635744",
+  "https://www.newsis.com/view/NISX20260821_0003757929"
  ],
  "seen_titles": [
-  "“대기업74%하반기채용나선다”",
-  "양평군,디지털취약계층찾아가는서비스협약",
-  "잣대달라진‘국가대표AI’,성적표는일부만…독파모투명성시험대",
-  "SKB,서울국제여성영화제4년연속후원",
-  "서울·대구·청주이어광주까지…4천구직자송곳질문쏟아진SK하이닉...",
   "\"단일종목레버리지,시장영향감안한촘촘한규제필요\"",
   "SK하이닉스,성과급'현금40%·자사주60%'잠정합의",
   "SK이노울산CLX,해군첫해상급유훈련지원",
@@ -6001,7 +5996,12 @@
   "SK하이닉스'성과급60%주식'…이번주노조투표'촉각'",
   "예탁금한방에단일종목레버리지거래'뚝'…사이드카는계속",
   "거래대금9분의1,단일종목ETF규제뒤감소",
-  "데스크톱CPU20%폭락속AMD신기록…韓메모리판도변화"
+  "데스크톱CPU20%폭락속AMD신기록…韓메모리판도변화",
+  "메모리폭등에엔비디아서버최대15%인상...빅테크부담가중",
+  "한국,AI3강평가받지만…산업경쟁력은인도·영국과경합",
+  "삼전닉스‘150조+α’배당폭탄에도...코스피회전율·거래량연중최저",
+  "K-배터리,북미공략본격화…ESS증설·투자재원확보속도[위클리배...",
+  "'2030광주産반도체양산'청사진은…연말엔63만평개발시작"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-08-23T08:31:11.522737+09:00",
    "변화 CPU 판도 메모리 신기록 AMD 폭락 데스크톱"
+  ],
+  [
+   "2026-08-23T08:41:00.236565+09:00",
+   "증설 확보 투자 속도 ESS 재원 공략 위클리배 본격화 배터리 북미"
+  ],
+  [
+   "2026-08-23T08:41:00.236565+09:00",
+   "연말엔 청사진은 반도체 63만평 시작 광주 개발 양산"
   ]
  ],
- "last_run": "2026-08-23T08:31:17.007344+09:00",
+ "last_run": "2026-08-23T08:41:08.710138+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
