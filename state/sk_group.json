@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/599417",
-  "https://www.naeil.com/news/read/599398",
-  "https://www.xportsnews.com/article/2185832",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405811",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2271884",
   "https://www.thepublic.kr/news/articleView.html?idxno=315523",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432712",
   "https://www.ajunews.com/view/20260820130524720",
@@ -2999,14 +2994,14 @@
   "https://economist.co.kr/article/view/ecn202608220004",
   "https://www.sidae.com/article/2026082209244741468",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275304",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=600154"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=600154",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16170092",
+  "https://www.mediapen.com/news/view/1118184",
+  "https://www.seoul.co.kr/news/economy/securities/2026/08/22/20260822500008?wlog_tag3=naver",
+  "https://www.newsis.com/view/NISX20260821_0003757366",
+  "https://www.sedaily.com/article/20081885"
  ],
  "seen_titles": [
-  "코스피상장사매출2천조…순이익작년4.3배성장",
-  "청주시,창업도시프로젝트로글로벌도약꿈꾼다",
-  "인텔차세대PC칩,대만2나노확대관측",
-  "글로벌DX인프라투자확대모멘텀…SI테마폭등랠리",
-  "마벨,구글맞춤형AI칩수주…122억달러확보",
   "교육교부금제개편임박…미래대응기금100조넘을까",
   "'21년원클럽맨떠난다'…SSG,9월5일두산전서김성현플레잉코치은퇴...",
   "AWS,'코리아피지컬AI프론티어프로그램'가동…국내상용화지원",
@@ -6001,7 +5996,12 @@
   "삼전·하이닉스20%뛰자서학개미몰렸다…美ETF에1200억",
   "인천송도아파트외벽'테라스붕괴'…국토부·인천시합동조사착수",
   "SamsungElectronicsPledgesUpto110TrillionWoninRecordSharehold",
-  "삼성전기,엇갈린증시속약세…새주130만원선딛고반등할까"
+  "삼성전기,엇갈린증시속약세…새주130만원선딛고반등할까",
+  "\"9점차또뒤집기\"한화,3번째대역전승에도짐머맨난조숙제",
+  "[김이코의시장분석]환율·금리'복합변수'앞에선코스피…박스권돌...",
+  "[서울데이터랩]미국증시상승마감…다우0.98%올라강세,반도체는차...",
+  "\"현금대신주식?\"\"성과급따로?\"…잠잠하던반도체투톱흔드는불씨...",
+  "트럼프가띄운‘하이퍼리퀴드’…월가긴장하는이유는[도예리의디지..."
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,17 @@
   [
    "2026-08-22T09:51:06.357432+09:00",
    "엇갈린 새주 삼성전기 약세 딛고 반등할까 130만원선 증시"
+  ],
+  [
+   "2026-08-22T10:01:20.000291+09:00",
+   "현금 잠잠하던 반도체 흔드는 대신 따로 주식 성과급 투톱 불씨"
+  ],
+  [
+   "2026-08-22T10:01:20.000291+09:00",
+   "하이퍼리퀴드 월가 이유는 긴장하는 띄운 트럼프가 디지 도예리의"
   ]
  ],
- "last_run": "2026-08-22T09:51:14.638450+09:00",
+ "last_run": "2026-08-22T10:01:29.672436+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
