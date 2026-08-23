@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ppss.kr/news/articleView.html?idxno=304290",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1393129",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444026",
   "https://www.dailian.co.kr/news/view/1674920/?sc=Naver",
   "https://www.asiatime.co.kr/article/20260805500221",
@@ -2999,11 +2997,11 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=443202",
   "https://www.yonhapmidas.com/news/articleView.html?idxno=10535",
   "https://www.edaily.co.kr/News/Read?newsId=01292326645550272&mediaCodeNo=257",
-  "https://news.ifm.kr/news/articleView.html?idxno=477706"
+  "https://news.ifm.kr/news/articleView.html?idxno=477706",
+  "https://biz.heraldcorp.com/article/10848974",
+  "https://biz.heraldcorp.com/article/10848972"
  ],
  "seen_titles": [
-  "[수석기자의창]선언이아닌행동하는CEO가필요하다",
-  "실적호조에도주가지지부진…삼전닉스,대규모주주환원꺼내나",
   "LG화학김동춘대표,자사주1억원어치매입…책임경영행보",
   "[크랩]9년넘게걸린최태원-노소영이혼소송에외신까지주목한이유",
   "대구시향,하이든·라벨현악4중주로실내악의깊이선사",
@@ -6001,7 +5999,9 @@
   "최종현학술원\"소버린AI기준,모델보유아닌'운용능력'돼야\"",
   "\"복합위기해법은실용국익외교\"연합뉴스한반도심포지엄",
   "에이전트AI시대…\"국가안보,보유에서운용으로바꿔야\"",
-  "최태원·노소영'세기의이혼'이남긴것…부부재산,누구돈까지나눠..."
+  "최태원·노소영'세기의이혼'이남긴것…부부재산,누구돈까지나눠...",
+  "최종현학술원“HBM잘만드는것만으론부족…韓,글로벌AI설계까지...",
+  "삼성전자1주가무려‘250만원’?SK하이닉스인줄…처음있는게아니..."
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-08-23T10:10:15.721794+09:00",
    "누구 세기의 나눠 이혼 재산 부부 돈까지 남긴"
+  ],
+  [
+   "2026-08-23T10:20:15.244796+09:00",
+   "삼성전자 1주가 무려 있는 아니 SK하이닉스인 처음 250만원"
   ]
  ],
- "last_run": "2026-08-23T10:10:30.499869+09:00",
+ "last_run": "2026-08-23T10:20:26.790938+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
