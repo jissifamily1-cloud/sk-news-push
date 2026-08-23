@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000329802?division=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=04847846645549288&mediaCodeNo=257",
-  "http://www.joseilbo.com/news/news_read.php?uid=574165&class=18",
   "https://www.newspim.com/news/view/20260820001150",
   "https://www.mt.co.kr/stock/2026/08/20/2026082014081992465",
   "https://mhnse.com/news/articleView.html?idxno=1494869",
@@ -2999,12 +2996,12 @@
   "http://www.metroseoul.co.kr/article/20260823500230",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053912",
   "http://www.segyebiz.com/newsView/20260823507269?OutUrl=naver",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608230804075500937"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608230804075500937",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1176863",
+  "https://www.dt.co.kr/article/12079637",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721319"
  ],
  "seen_titles": [
-  "KDB생명인수나선한투,미래에셋대비'열세'자산운용강화기대",
-  "마이크론제친중국YMTC상장준비에삼성·SK낸드'초긴장'",
-  "\"SK하닉,저평가·강력신호\"…\"목표470만원,ADR300달러\"",
   "삼전닉스사상최대환원…해외IB들\"저평가\"주목",
   "매도폭탄은없었다…국민연금리밸런싱을다시본다[마켓프리즘]",
   "[일본증시]닛케이,3거래일만에반등...1.36%상승마감",
@@ -6001,13 +5998,12 @@
   "“바닥인가,피크아웃인가”…삼전닉스에다시쌓이는‘빚투’",
   "당정'원팀'다지기…식탁위에서정국해법찾는李대통령",
   "북극항로…부산,신성장에너지도약할까",
-  "K-배터리3사글로벌등록특허9만건돌파"
+  "K-배터리3사글로벌등록특허9만건돌파",
+  "태안지역전통시장·상권활성화맞손",
+  "ESS3차입찰임박…절치부심배터리3사",
+  "성과급60%자사주로…SK하이닉스임단협,노조문턱넘을까"
  ],
  "recent_sigs": [
-  [
-   "2026-08-23T09:51:01.224652+09:00",
-   "봇물 이어 파업 자동차 요구 철강까지 성과급 조선 초읽기"
-  ],
   [
    "2026-08-23T10:01:16.665999+09:00",
    "반으로 갈렸다 금리 인상 동결 전문가도 8월"
@@ -6385,7 +6381,7 @@
    "돌파 등록특허 배터리 글로벌 3사 9만건"
   ]
  ],
- "last_run": "2026-08-23T15:46:01.681471+09:00",
+ "last_run": "2026-08-23T15:51:05.147088+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
