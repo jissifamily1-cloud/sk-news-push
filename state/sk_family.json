@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/05/2026080590290.html",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01968006645544696",
   "https://www.dt.co.kr/article/12076794",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456453",
   "https://www.kmib.co.kr/article/view.asp?arcid=1785922769&code=11151400&cp=nv",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20260823_0003758760",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=851218",
   "http://www.yonhapnewstv.co.kr/news/MYH20260822161436xGz",
-  "https://www.etoday.co.kr/news/view/2617115"
+  "https://www.etoday.co.kr/news/view/2617115",
+  "https://zdnet.co.kr/view/?no=20260823112056",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721304"
  ],
  "seen_titles": [
-  "안철수\"'李고려장세법개정안'파기가답…강남6070방빼고외지로...",
-  "SK하이닉스,솔리다임프리IPO로美투자비만들까",
   "10억원씩‘통큰베팅’…자사주사는오너들,주주들은좋겠네[투자36...",
   "[만화경]회장님의주식매입",
   "李대통령,10일'메가프로젝트2차점검회의'…호남반도체논의전망",
@@ -6001,7 +5999,9 @@
   "AI에이전트시대…최종현학술원\"소버린AI2.0,'운용주권'이중심돼...",
   "\"국산AI보유만으로안심못해\"…전문가들한목소리",
   "[기업기상도]비온뒤맑게갠기업vs물폭탄덮친기업",
-  "최종현학술원“반도체강국한국,AI생태계‘설계자’로나서야”"
+  "최종현학술원“반도체강국한국,AI생태계‘설계자’로나서야”",
+  "에이전트AI시대국가안보…\"모델성능보다안정적운용중요\"",
+  "\"국산AI모델만으론부족\"…최종현학술원,'운용주권'강조"
  ],
  "recent_sigs": [
   [
@@ -6041,7 +6041,7 @@
    "비온 덮친 vs 맑게 물폭탄 기업"
   ]
  ],
- "last_run": "2026-08-23T11:20:25.633205+09:00",
+ "last_run": "2026-08-23T11:30:31.282831+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
