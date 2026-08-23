@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbmaeil.com/article/20260820500596",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=316198",
-  "https://www.edaily.co.kr/News/Read?newsId=04851126645549288&mediaCodeNo=257",
-  "https://biz.sbs.co.kr/article_hub/20000329726?division=NAVER",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546759",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000193.html",
   "https://www.betanews.net/article/view/beta202608200036",
   "https://www.dailian.co.kr/news/view/1680429/?sc=Naver",
   "https://zdnet.co.kr/view/?no=20260820162916",
@@ -2999,15 +2993,15 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1311082&inflow=N",
   "https://www.ajunews.com/view/20260823150939878",
   "https://www.busan.com/view/busan/view.php?code=2026082314482758848",
-  "https://www.kgnews.co.kr/news/article.html?no=908600"
+  "https://www.kgnews.co.kr/news/article.html?no=908600",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274179",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032323",
+  "https://www.ytn.co.kr/_ln/0102_202608231516112138",
+  "https://www.mk.co.kr/article/12134050",
+  "https://www.koreaherald.com/article/10849101",
+  "https://www.jjan.kr/article/20260823500025"
  ],
  "seen_titles": [
-  "[이슈]원·달러환율1300원대진입에달러예금급증…이달들어9조원...",
-  "SK하이닉스성과급60%자사주로지급…노사임단협잠정합의",
-  "SK하이닉스노사,잠정합의안도출…\"40%현금,60%자사주\"",
-  "“삼전닉스고마워요”…SK하이닉스주주환원정책+삼성전자동참분위...",
-  "3G서비스신규가입중단…\"트래픽감소·장비노후화\"",
-  "모티프는왜탈락했나…SKT·LG가앞선‘전문성·실사용’평가",
   "[오후장체크포인트]SK하이닉스40조자사주매입삼성전자주주환원...",
   "SK하이닉스,임단협잠정합의⋯성과급60%자사주로지급",
   "대산1호석화재편최종관문넘어…여수구조조정도'파란불',울산...",
@@ -6001,17 +5995,15 @@
   "메모리값급등에엔비디아도백기…AI서버값15%인상",
   "李대통령,다음주與·재계연쇄회동…올하반기국정운영속도높인...",
   "'성과급60%자사주'SK하이닉스임단협…가결여부이번주결정",
-  "인천시-국토부,송도아파트테라스붕괴사고조사첫회의"
+  "인천시-국토부,송도아파트테라스붕괴사고조사첫회의",
+  "\"국산AI모델확보만으론부족\"…AI주권기준'보유'에서'운용'으로",
+  "반도체호황,청년취업률높이는기회",
+  "이번주엔비디아실적영향관심...기준금리도주목",
+  "‘삼전닉스’자사주매입이코스피에‘단비’될까",
+  "Dividendsorbuybacks:Samsung,SKhynixdivideonAIwindfall",
+  "35년청사진반복한‘새만금운명’정치권실행력이관건"
  ],
  "recent_sigs": [
-  [
-   "2026-08-23T09:26:54.553867+09:00",
-   "소버린 운용 최종현학술원 전환해야 주권 AI 으로 보유"
-  ],
-  [
-   "2026-08-23T09:26:54.553867+09:00",
-   "완화나 반도체투자에 고통 추가세수 총재 이창용 저격 단기"
-  ],
   [
    "2026-08-23T09:41:02.110931+09:00",
    "삼전닉스 IMF라는데 빼면"
@@ -6371,9 +6363,21 @@
   [
    "2026-08-23T15:21:03.919954+09:00",
    "송도 붕괴 회의 인천시 조사 테라스 아파트 국토부 사고"
+  ],
+  [
+   "2026-08-23T15:31:09.496771+09:00",
+   "자사주 단비 매입이 될까 삼전닉스 코스피에"
+  ],
+  [
+   "2026-08-23T15:31:09.496771+09:00",
+   "divide or Dividends on Samsung windfall buybacks hynix AI"
+  ],
+  [
+   "2026-08-23T15:31:09.496771+09:00",
+   "관건 새만금 35년 청사진 실행력이 정치권 반복한 운명"
   ]
  ],
- "last_run": "2026-08-23T15:21:09.861576+09:00",
+ "last_run": "2026-08-23T15:31:21.208430+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
