@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12313065?influxDiv=NAVER",
-  "https://www.yna.co.kr/view/AKR20260812101051004?input=1195m",
-  "http://www.fnnews.com/news/202608121828250905",
   "https://www.namdonews.com/news/articleView.html?idxno=919921",
   "https://www.tfmedia.co.kr/news/article.html?no=206434",
   "https://www.kyeonggi.com/article/20260812580502",
@@ -2999,12 +2996,12 @@
   "https://www.the-today.com/news/articleView.html?idxno=88817",
   "https://www.newsis.com/view/NISX20260823_0003758977",
   "https://www.hankyung.com/article/2026082370711",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=120601"
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120601",
+  "https://www.the-today.com/news/articleView.html?idxno=88819",
+  "http://www.jndn.com/article.php?aid=1787474996438280005",
+  "https://www.hani.co.kr/arti/politics/politics_general/1274211.html"
  ],
  "seen_titles": [
-  "샤이니키·입짧은햇님,'주사이모'관련경찰조사받아",
-  "'가습기살균제피해자'서영철대표사망…\"항상정의로웠던사람\"(종합...",
-  "수은,KAI‘민영화’속도낸다...우주항공경쟁력컨설팅발주",
   "'수사정보유출'前검찰수사관,2심도징역형집유",
   "한화-KAI기업결합반대나선KAI노조…재계,공정위결정에촉각",
   "‘양평고속道백지화’원희룡,특검휴대전화반환거부에준항고",
@@ -6001,7 +5998,10 @@
   "[이슈]파파존스,순익절반배당·설비투자는18억…서창우'상생경영...",
   "'허위진단서로보험금을'…경찰,수사중",
   "담합으로빼돌린범죄수익,최초로동결한소정수부장검사",
-  "GS리테일,홈쇼핑납품업체에판촉비전가…과징금소송최종패소"
+  "GS리테일,홈쇼핑납품업체에판촉비전가…과징금소송최종패소",
+  "[이슈]\"허태수GS홈쇼핑'갑질'대법서10억확정\"…허서홍GS리테일,피...",
+  "“참사1년만에유해1740점발견·책임자처벌은0건”",
+  "‘녹취록공개’주장한동훈에…조국“‘잠금해제실패’폰공개할..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "동결한 부장검사 담합으로 최초로 빼돌린 범죄수익 소정수"
   ]
  ],
- "last_run": "2026-08-23T17:50:52.715899+09:00",
+ "last_run": "2026-08-23T18:01:07.678677+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
