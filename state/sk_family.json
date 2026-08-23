@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260805_0003737898",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260805171447lsG",
-  "https://www.kgnews.co.kr/news/article.html?no=906653",
-  "https://www.ngetnews.com/news/articleView.html?idxno=552158",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444033",
-  "https://www.busan.com/view/busan/view.php?code=2026080517005351102",
   "https://www.ppss.kr/news/articleView.html?idxno=304290",
   "https://daily.hankooki.com/news/articleView.html?idxno=1393129",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444026",
@@ -2999,15 +2993,15 @@
   "https://www.viva100.com/article/20260823500184",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275305",
   "https://www.dkilbo.com/news/articleView.html?idxno=550583",
-  "https://www.sportschosun.com/sports-news/2026-07-25/202607250100156750010095"
+  "https://www.sportschosun.com/sports-news/2026-07-25/202607250100156750010095",
+  "https://biz.chosun.com/industry/company/2026/08/23/ON65FZUFWFHQJGPZAFWRMU4SQA/",
+  "https://www.dt.co.kr/article/12079555",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443202",
+  "https://www.yonhapmidas.com/news/articleView.html?idxno=10535",
+  "https://www.edaily.co.kr/News/Read?newsId=01292326645550272&mediaCodeNo=257",
+  "https://news.ifm.kr/news/articleView.html?idxno=477706"
  ],
  "seen_titles": [
-  "[3대메가프로젝트]'반도체날개'달고경제대도약",
-  "단감일소피해비상···김해시,원예농가지원총력",
-  "최태원노소영,37년중21년은파경이었다",
-  "두산,AI시대웨이퍼에베팅…SK실트론인수큰그림명확",
-  "\"방송은나가게해달라\"코르티스마틴도충격받은유세윤'새깅패션'...",
-  "코르티스마틴,늙크크유세윤새깅패션에충격“오히려배워”(라스...",
   "[수석기자의창]선언이아닌행동하는CEO가필요하다",
   "실적호조에도주가지지부진…삼전닉스,대규모주주환원꺼내나",
   "LG화학김동춘대표,자사주1억원어치매입…책임경영행보",
@@ -6001,7 +5995,13 @@
   "“에이전트AI시대⋯‘AI주권’기준,모델‘보유’서‘운용’역량...",
   "최종현학술원·서울대미래전연구센터,\"AI운용주권확보해야\"",
   "고전의절제미와인상주의의색채…대구시향,'현악4중주'정수펼친다",
-  "\"종료9.7초전짜릿한금빛한끗\"'에페여제'송세라또해냈다!4년만에..."
+  "\"종료9.7초전짜릿한금빛한끗\"'에페여제'송세라또해냈다!4년만에...",
+  "최종현학술원“AI주권기준,보유에서운용으로바꿔야”",
+  "“소버린AI핵심은‘운용주권’…메모리공급넘어AI설계로”",
+  "최종현학술원\"소버린AI기준,모델보유아닌'운용능력'돼야\"",
+  "\"복합위기해법은실용국익외교\"연합뉴스한반도심포지엄",
+  "에이전트AI시대…\"국가안보,보유에서운용으로바꿔야\"",
+  "최태원·노소영'세기의이혼'이남긴것…부부재산,누구돈까지나눠..."
  ],
  "recent_sigs": [
   [
@@ -6027,9 +6027,13 @@
   [
    "2026-08-23T09:25:59.763193+09:00",
    "주권 운용으로 기준 AI 보유에서 학술원 바꿔야"
+  ],
+  [
+   "2026-08-23T10:10:15.721794+09:00",
+   "누구 세기의 나눠 이혼 재산 부부 돈까지 남긴"
   ]
  ],
- "last_run": "2026-08-23T10:00:39.029784+09:00",
+ "last_run": "2026-08-23T10:10:30.499869+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
