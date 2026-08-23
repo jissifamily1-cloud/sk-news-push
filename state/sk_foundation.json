@@ -1327,7 +1327,9 @@
   "https://www.dt.co.kr/article/12079555",
   "http://www.econonews.co.kr/news/articleView.html?idxno=443202",
   "https://www.edaily.co.kr/News/Read?newsId=01292326645550272&mediaCodeNo=257",
-  "https://biz.heraldcorp.com/article/10848974"
+  "https://biz.heraldcorp.com/article/10848974",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88270",
+  "https://www.busan.com/view/busan/view.php?code=2026082310373973897"
  ],
  "seen_titles": [
   "기업은행,지난해‘ESG채권’7.3조발행…5년연속은행권최대비중",
@@ -2656,10 +2658,12 @@
   "“소버린AI핵심은‘운용주권’…메모리공급넘어AI설계로”",
   "최종현학술원\"소버린AI기준,모델보유아닌'운용능력'돼야\"",
   "에이전트AI시대…\"국가안보,보유에서운용으로바꿔야\"",
-  "최종현학술원“HBM잘만드는것만으론부족…韓,글로벌AI설계까지..."
+  "최종현학술원“HBM잘만드는것만으론부족…韓,글로벌AI설계까지...",
+  "\"국산AI모델확보만으론부족\"…AI주권기준'보유'에서'운용'으로",
+  "\"AI주권,모델보유보다운용역량이핵심\"…소버린AI2.0제언"
  ],
  "recent_sigs": [],
- "last_run": "2026-08-23T10:30:49.541796+09:00",
+ "last_run": "2026-08-23T10:40:42.778259+09:00",
  "initialized": true,
  "press_names": {
   "econonews.co.kr": "이코노뉴스",
@@ -2731,6 +2735,7 @@
   "m-joongang.com": "월간중앙",
   "the-today.com": "더투데이",
   "4th.kr": "포쓰저널",
-  "popcornnews.net": "팝콘뉴스"
+  "popcornnews.net": "팝콘뉴스",
+  "busan.com": "부산일보"
  }
 }
