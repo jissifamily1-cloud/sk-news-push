@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445211",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=318460",
-  "https://kpenews.com/View.aspx?No=4193183",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608201430251210706",
-  "http://www.joseilbo.com/news/news_read.php?uid=574161&class=53",
-  "http://www.fnnews.com/news/202608201440120453",
   "https://www.etnews.com/20260820000348",
   "https://www.news1.kr/industry/general-industry/6264561",
   "https://www.khan.co.kr/article/202608201600001",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1404881",
   "https://www.m-i.kr/news/articleView.html?idxno=1404613",
   "https://www.m-i.kr/news/articleView.html?idxno=1404621",
-  "https://www.edaily.co.kr/News/Read?newsId=01521926645550272&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01521926645550272&mediaCodeNo=257",
+  "https://www.ajunews.com/view/20260823110133553",
+  "https://www.etoday.co.kr/news/view/2617111",
+  "https://zdnet.co.kr/view/?no=20260823124959",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1330132",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597837",
+  "https://www.ytn.co.kr/_ln/0102_202608231300315550"
  ],
  "seen_titles": [
-  "[마감시황]SK하이닉스'40조주주환원'에12%급등…삼성전자도9%↑",
-  "코스피5%급등마감…삼성전자·SK하이닉스'쌍끌이'",
-  "코스피,하루만에6800선재탈환…반도체훈풍에6%가까이'급등'",
-  "SK하이닉스대규모주주환원발표뒤'딜레마'에외신주목,돈나갈곳...",
-  "11개월만의1300원대환율회복과'D램달러'의귀환사이",
-  "SK하이닉스노사,성과급합의안도출..60%주식으로지급",
   "SK하이닉스40조자사주매입에SK증권수수료'잭팟'",
   "코스피5.9%급등해6850선회복…코스닥1.99%↑",
   "SK하이닉스성과급60%주식으로준다…삼성전자'주식보상모델'확대",
@@ -6001,7 +5995,13 @@
   "SK하이닉스,'성과급60%'자사주로…노조찬반투표'촉각'",
   "[기획]가전·통신도판바꾼다…플랫폼·AI인프라로",
   "[기획]잘나갈때'다음판'짠다…산업계,중장기체질전환속도",
-  "블룸버그“엔비디아,리벨리온과초기협의…기술협력·투자·인수가..."
+  "블룸버그“엔비디아,리벨리온과초기협의…기술협력·투자·인수가...",
+  "[아주사설|기본·원칙·상식]삼성전자·SK하이닉스의1150조주주환원...",
+  "엔비디아서버값인상‘변수’…네이버·카카오AI투자셈법복잡해지...",
+  "\"엔비디아,AI서버가격15%이상인상\"",
+  "삼성전자,올해사상최대규모주주환원추진",
+  "'제주SK리빙레전드'이창민,K리그통산300경기출전금자탑",
+  "증시향방,엔비디아·잭슨홀변수...금리도주목"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,17 @@
   [
    "2026-08-23T13:11:05.568738+09:00",
    "협의 리벨리온과 협력 블룸버그 초기 엔비디아 투자 인수 기술"
+  ],
+  [
+   "2026-08-23T13:21:05.043549+09:00",
+   "통산 300경기 리빙 K리그 출전 레전드 금자탑 제주SK 이창민"
+  ],
+  [
+   "2026-08-23T13:21:05.043549+09:00",
+   "엔비디아 변수 금리도 잭슨홀 증시 주목 향방"
   ]
  ],
- "last_run": "2026-08-23T13:11:14.344337+09:00",
+ "last_run": "2026-08-23T13:21:13.831541+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
