@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200951",
   "https://www.newsway.co.kr/news/view?ud=2026082015313643353",
   "https://www.junggi.co.kr/news/articleView.html?idxno=37514",
   "http://www.newstomato.com/ReadNews.aspx?no=1310856&inflow=N",
@@ -2999,10 +2998,10 @@
   "https://www.g-enews.com/view.php?ud=20260823193258520923c501012_1",
   "https://www.topstarnews.net/news/articleView.html?idxno=16170896",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553478875",
-  "https://www.khan.co.kr/article/202608232021005"
+  "https://www.khan.co.kr/article/202608232021005",
+  "https://www.segye.com/newsView/20260823508152?OutUrl=naver"
  ],
  "seen_titles": [
-  "SK하이닉스노사,초과이익분배금60%자사주지급잠정합의",
   "박광열광주시장,공공택지,국가산단조성...기업유치·양질의일자리...",
   "[더밸류브리핑]오늘의증권계소식...한국거래소·미래에셋증권·미래...",
   "\"우리가이통2위\"…KT·LG유플러스의'아전인수'왜?",
@@ -6001,7 +6000,8 @@
   "반도체반등에도개미들'관망'…코스피주식회전율연중'최저'",
   "문가영,거울셀카로전한편안한일상…'고래별'촬영속근황",
   "김천상무,제주원정0-0무승부...6경기무패행진",
-  "“일본에또질수는없지않나…후배들에쓴소리로악역할것”"
+  "“일본에또질수는없지않나…후배들에쓴소리로악역할것”",
+  "삼성전자100조이상주주환원…기업가치재평가‘전환점’"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-08-23T20:29:12.945494+09:00",
    "악역 않나 일본에 수는 후배들에 없지 쓴소리로"
+  ],
+  [
+   "2026-08-23T20:31:10.869208+09:00",
+   "100조 기업가치 주주환원 전환점 삼성전자 이상 재평가"
   ]
  ],
- "last_run": "2026-08-23T20:29:18.739035+09:00",
+ "last_run": "2026-08-23T20:31:16.410178+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
