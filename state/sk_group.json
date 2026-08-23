@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275182",
-  "https://www.edaily.co.kr/News/Read?newsId=04936406645549288&mediaCodeNo=257",
-  "https://www.etoday.co.kr/news/view/2616524",
-  "http://www.finomy.com/news/articleView.html?idxno=259515",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=50043",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052598",
   "https://www.thelec.kr/news/articleView.html?idxno=61169",
@@ -2999,13 +2995,13 @@
   "https://www.edaily.co.kr/News/Read?newsId=02128726645550272&mediaCodeNo=257",
   "https://www.donga.com/news/Economy/article/all/20260823/134525712/1",
   "https://www.mt.co.kr/future/2026/08/23/2026082313301325664",
-  "https://www.hankyung.com/article/2026082371131"
+  "https://www.hankyung.com/article/2026082371131",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=693049",
+  "https://www.namdonews.com/news/articleView.html?idxno=920816",
+  "https://www.namdonews.com/news/articleView.html?idxno=920819",
+  "https://www.sedaily.com/article/20082304"
  ],
  "seen_titles": [
-  "국토부-인천시,송도아파트돌출발코니붕괴사고원인규명나선다",
-  "네이버,NC홈경기에NFT티켓도입...‘네이버존’입장편의제공",
-  "[마감증시]코스피,매수사이드카속6,850선전격회복...원·달러환...",
-  "채권·삼전닉스‘반반전략’…‘채권혼합형ETF‘폭풍성장’",
   "[급등락주짚어보기]SK증권·금호전기상한가…코스닥은바이오·디지...",
   "'배터리3사'EU산업가속화법논의···반사이익'기대'",
   "SK그룹,16억달러美수소투자'깜깜'…플러그파워부진심화",
@@ -6001,7 +5997,11 @@
   "美보다센삼전닉스150조+α주주환원…'다음3년'에쏠린눈",
   "엔비디아,메모리값상승에AI서버가격15%인상예고",
   "8월셋째주,AI반도체에520억'뭉칫돈'…딥테크투자열기지속",
-  "韓종합상사,日과다른길"
+  "韓종합상사,日과다른길",
+  "대학무대괴물스트라이커→위기의성남에온복덩이...안산전역전골...",
+  "[반도체·데이터센터,전남광주시대연다]⑨용수확보-하루65만t필요한...",
+  "전남광주시,삼성·SK명예도로명검토",
+  "외인·기관·개인팔아도기타법인이지수견인…‘제4매수주체’된S..."
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,21 @@
   [
    "2026-08-23T18:04:49.981201+09:00",
    "종합상사 다른"
+  ],
+  [
+   "2026-08-23T18:11:04.288538+09:00",
+   "필요한 65만t 용수 확보 하루"
+  ],
+  [
+   "2026-08-23T18:11:04.288538+09:00",
+   "명예도로명 검토 삼성 전남광주시"
+  ],
+  [
+   "2026-08-23T18:11:04.288538+09:00",
+   "기타법인이 개인 지수 외인 매수주체 기관 제4 견인 팔아도"
   ]
  ],
- "last_run": "2026-08-23T18:04:55.819784+09:00",
+ "last_run": "2026-08-23T18:11:16.568673+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
