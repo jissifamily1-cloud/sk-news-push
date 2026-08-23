@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=128461",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84747",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=88202",
-  "https://www.tfmedia.co.kr/news/article.html?no=206602",
-  "https://www.ziksir.com/news/articleView.html?idxno=143788",
-  "http://www.lkp.news/news/articleView.html?idxno=83180",
-  "https://www.jbnews.com/news/articleView.html?idxno=1509809",
-  "https://www.greened.kr/news/articleView.html?idxno=348091",
   "https://www.kpinews.kr/newsView/1065598167945050",
   "https://www.ddaily.co.kr/page/view/2026082015121169001",
   "http://worknworld.kctu.org/news/articleView.html?idxno=509843",
@@ -2999,17 +2991,17 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000058867",
   "https://www.sedaily.com/article/20082315",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608230070&t=NN",
-  "https://www.jjan.kr/article/20260823500259"
+  "https://www.jjan.kr/article/20260823500259",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1095260",
+  "https://www.seoul.co.kr/news/economy/2026/08/23/20260823500088?wlog_tag3=naver",
+  "https://www.hankyung.com/article/2026082371431",
+  "https://www.asiatime.co.kr/article/20260823500080",
+  "https://www.hankyung.com/article/202608237206i",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721325",
+  "http://www.fnnews.com/news/202608231821048961",
+  "http://www.fnnews.com/news/202608231818561055"
  ],
  "seen_titles": [
-  "SK하닉자사주소각에코스피상승마감…장중매수사이드카도",
-  "독파모세부성적공개…모티프·SKT·LG평가별1위",
-  "백신도'국내생산세액공제'받나…바이오협회,적격품목지정건의",
-  "코스피6%가까이급등…SK하이닉스·삼성전자주주환원기대감↑",
-  "SK하이닉스노사,임금6.3%인상·성과급주식지급확대잠정합의",
-  "대출규제가바꾼서울집값…강남내리고'중저가지역'오른다",
-  "코스피,반도체주급등에5.89%상승…6850선회복",
-  "SK하이닉스,성과급60%주식으로지급…삼성전자와차이점은?",
   "충북도,창업도시조성추진단발대…60여개기관맞손",
   "5만건하자누적인가,'부실시공'인가…송도발코니붕괴'판도라의상...",
   "환율하락세,삼전·닉스실적·주가발목잡나",
@@ -6001,7 +5993,15 @@
   "기고·이현〉800조반도체시대,공장보다먼저사람의마음을준비해야...",
   "이익급증·역대급수주에도…웃지못하는건설사들",
   "삼전닉스'150조+α'역대급돈잔치에도…\"7천피안착이관건\"",
-  "[주간증시전망]미연준의장통화정책에시장관심쏠릴듯"
+  "[주간증시전망]미연준의장통화정책에시장관심쏠릴듯",
+  "SK하이닉스성과급체계변경,이번주분수령",
+  "삼전닉스레버리지,예탁금3배뛰자30대절반짐쌌다",
+  "삼전닉스쫓는YMTC…IPO로6.8조원조달한다",
+  "엔비디아,내년AI서버‘가격인상’예고",
+  "애플,퀄컴이어…엔비디아도AI칩가격15％인상예고",
+  "[EBN오늘(23일)이슈종합]삼성전자누적특허30만건눈앞,투자자손...",
+  "ACE고배당주PLUS커버드콜액티브순매수1천억돌파",
+  "금값뛰니채굴기업ETF‘귀한몸’…나흘만에12%급등[ETF스퀘어]"
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,21 @@
   [
    "2026-08-23T18:21:03.498055+09:00",
    "통화정책에 의장 쏠릴 연준 시장관심"
+  ],
+  [
+   "2026-08-23T18:31:09.102607+09:00",
+   "누적 눈앞 삼성전자 30만건 투자자 특허"
+  ],
+  [
+   "2026-08-23T18:31:09.102607+09:00",
+   "돌파 고배당주PLUS커버드콜액티브 1천억 순매수 ACE"
+  ],
+  [
+   "2026-08-23T18:31:09.102607+09:00",
+   "나흘 채굴기업 귀한 금값 만에 뛰니 ETF 급등"
   ]
  ],
- "last_run": "2026-08-23T18:21:14.765847+09:00",
+ "last_run": "2026-08-23T18:31:20.635487+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
