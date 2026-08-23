@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608101638041800106329",
-  "https://www.nocutnews.co.kr/news/6565571",
-  "http://www.lkp.news/news/articleView.html?idxno=83155",
-  "https://www.yna.co.kr/view/AKR20260820106751008?input=1195m",
   "http://www.srtimes.kr/news/articleView.html?idxno=210480",
   "https://www.etoday.co.kr/news/view/2616502",
   "https://www.hankyung.com/article/2026082026877",
@@ -2999,13 +2995,13 @@
   "https://www.chosun.com/economy/tech_it/2026/08/23/FRLMNPY6SVA5TJTIBCGSPSJZYY/",
   "http://www.fnnews.com/news/202608231329238216",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/23/2026082390050.html",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=156351"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156351",
+  "https://www.sportsseoul.com/news/read/1630180",
+  "https://www.ddaily.co.kr/page/view/2026082313590732061",
+  "https://www.edaily.co.kr/News/Read?newsId=01610486645550272&mediaCodeNo=257",
+  "https://www.edaily.co.kr/News/Read?newsId=01607206645550272&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "경제안보강화2법발의…\"국가안보인프라국산반도체사용·기술유출...",
-  "[정상태의삶의풍경]신경망을닮은인공지능",
-  "미국서터진암백신'잭팟'…모더나177%뛰니'K-바이오'도기지개",
-  "[더벨][thebelldesk]SK실트론매각관전포인트",
   "성과급60%주식으로…SK하이닉스노사잠정합의안보니",
   "상반기실적반등성공한하나증권,비은행핵심축도약",
   "외국계IB,주주환원하이닉스에\"저평가…강력한신호\"(종합2보)",
@@ -6001,25 +5997,13 @@
   "메모리품귀에…美엔비디아도항복,AI서버값15%올린다",
   "삼성110조의'빈칸'…SK하이닉스40조소각이던진숙제[fn마켓워치]",
   "\"엔비디아,고객사에AI서버가격15%인상예고\"",
-  "[Today'sSignal]AIInvestmentCostsAreRisingPricierServersPutPr"
+  "[Today'sSignal]AIInvestmentCostsAreRisingPricierServersPutPr",
+  "‘연고지더비’서충격의구단‘최다’7실점…‘4경기14실점’압박...",
+  "광주군공항찾는김용범실장…호남반도체산단확대주목",
+  "삼성전자,110조주주환원에도주가‘출렁’…반등주도할까",
+  "\"한국경제체질바꿀'K실리콘밸리'조성,유니콘기업100개만들것\""
  ],
  "recent_sigs": [
-  [
-   "2026-08-23T08:01:18.257495+09:00",
-   "지금은 간다 코스피 반도체의 최고민수 박민수 1만 시간"
-  ],
-  [
-   "2026-08-23T08:01:18.257495+09:00",
-   "7000선 문턱서 주춤 코스피 순매수 개인 4조"
-  ],
-  [
-   "2026-08-23T08:01:18.257495+09:00",
-   "패션도 유니폼 전략 CEO"
-  ],
-  [
-   "2026-08-23T08:01:18.257495+09:00",
-   "데이터센터를 논의 바닷속에 협력 SK가"
-  ],
   [
    "2026-08-23T08:11:04.339949+09:00",
    "막힌 코스피 주주환원이 금리에 붙어있어라 받친다 대형주"
@@ -6435,9 +6419,17 @@
   [
    "2026-08-23T14:01:14.442801+09:00",
    "Servers Profi Pricier Put AI Costs Are Rising Investment"
+  ],
+  [
+   "2026-08-23T14:10:59.872411+09:00",
+   "110조 반등 출렁 주가 삼성전자 주주환원에도 주도할까"
+  ],
+  [
+   "2026-08-23T14:10:59.872411+09:00",
+   "100개 경제 바꿀 한국 체질 K실리콘밸리 기업 조성 유니콘 만들"
   ]
  ],
- "last_run": "2026-08-23T14:01:20.065891+09:00",
+ "last_run": "2026-08-23T14:11:09.049438+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
