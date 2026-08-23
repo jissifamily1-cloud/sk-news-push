@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168532",
-  "https://news.mtn.co.kr/news-detail/2026082015352046790",
-  "https://www.smarttoday.co.kr/ko-kr/articles/110648",
-  "https://www.newspim.com/news/view/20260820001052",
   "https://www.hankyung.com/article/2026082026216",
   "https://www.kado.net/news/articleView.html?idxno=2067682",
   "https://www.businessplus.kr/news/articleView.html?idxno=115701",
@@ -2999,13 +2995,13 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=878583",
   "https://www.hankookilbo.com/news/article/A2026082311450003265?did=NA",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2296051",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423247"
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423247",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311045&inflow=N",
+  "http://www.metroseoul.co.kr/article/20260823500128",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/23/2026082300033.html",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=451056"
  ],
  "seen_titles": [
-  "코스피,삼전닉스급등하며5%대상승마감",
-  "예탁금3000만원올렸더니…레버리지ETF개미들손발묶였다",
-  "코스피,외인순매수에6%급등한6852마감...'반도체만'초강세",
-  "주주환원약발먹혔나…반도체강세에코스피5%껑충",
   "SK하이닉스노사,성과급60%주식지급...적자시위기극복동참(종합...",
   "SK이노베이션,울산CLX서첫해상급유훈련…에너지안보강화",
   "[종합]호황엔주식,적자땐임금이연…SK하이닉스노사'성과·위기...",
@@ -6001,13 +5997,13 @@
   "울산서차·기름·금속만들지만결정은서울서…산업수도는왜'생산기...",
   "\"국산AI모델확보만으로는부족…접근·운용주권이중요\"",
   "충남콘진원,GST입주기업오픈이노베이션밋업",
-  "삼성전자·SK하이닉스150조주주환원···식어버린투심살릴까"
+  "삼성전자·SK하이닉스150조주주환원···식어버린투심살릴까",
+  "반도체‘150조’메가주주환원…SK하이닉스에삼성도가세",
+  "거래대금'급감'에도코스피는널뛰기…상장사80%평균밑돌았다",
+  "코스피6900선회복에도투심'냉랭'…회전율연중최저,IPO시장도위...",
+  "화력발전폐쇄충격에태안소상공인24억특례보증"
  ],
  "recent_sigs": [
-  [
-   "2026-08-23T06:41:01.710966+09:00",
-   "IPO로 삼전닉스에 6조8천억원 조달 YMTC 도전 계획 낸드"
-  ],
   [
    "2026-08-23T07:01:21.201591+09:00",
    "닉스 ETF 이제부터가 삼전 2배 문제다"
@@ -6411,9 +6407,21 @@
   [
    "2026-08-23T12:31:25.521150+09:00",
    "식어버린 150조 투심 주주환원 삼성전자 SK하이닉스 살릴까"
+  ],
+  [
+   "2026-08-23T12:41:04.834311+09:00",
+   "에도 밑돌았다 코스피는 급감 평균 널뛰기 거래대금 상장사"
+  ],
+  [
+   "2026-08-23T12:41:04.834311+09:00",
+   "IPO 6900선 연중 투심 회복에도 냉랭 회전율 시장도 최저 코스피"
+  ],
+  [
+   "2026-08-23T12:41:04.834311+09:00",
+   "태안 특례보증 충격에 화력발전 폐쇄 소상공인 24억"
   ]
  ],
- "last_run": "2026-08-23T12:31:33.879217+09:00",
+ "last_run": "2026-08-23T12:41:16.613346+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
