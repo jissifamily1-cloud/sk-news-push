@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20078721",
   "http://www.fnnews.com/news/202608121818313620",
   "https://news.jtbc.co.kr/article/NB12313065?influxDiv=NAVER",
   "https://www.yna.co.kr/view/AKR20260812101051004?input=1195m",
@@ -2999,10 +2998,10 @@
   "https://www.the-today.com/news/articleView.html?idxno=88816",
   "https://www.kyeonggi.com/article/20260823580270",
   "https://www.the-today.com/news/articleView.html?idxno=88817",
-  "https://www.newsis.com/view/NISX20260823_0003758977"
+  "https://www.newsis.com/view/NISX20260823_0003758977",
+  "https://www.hankyung.com/article/2026082370711"
  ],
  "seen_titles": [
-  "이병철다올금융그룹회장피의자조사…‘계열사우회지원’의혹",
   "'K리그우승감독'포옛,韓축구대표팀임시지휘봉잡나",
   "샤이니키·입짧은햇님,'주사이모'관련경찰조사받아",
   "'가습기살균제피해자'서영철대표사망…\"항상정의로웠던사람\"(종합...",
@@ -6001,10 +6000,16 @@
   "[이슈]美로열티60억·광고비86억…서창우,가맹점매출은왜줄었나(1...",
   "홍준표“한동훈,녹음파일까보자는건인민재판”…한동훈“노웅래...",
   "[이슈]파파존스,순익절반배당·설비투자는18억…서창우'상생경영...",
-  "'허위진단서로보험금을'…경찰,수사중"
+  "'허위진단서로보험금을'…경찰,수사중",
+  "담합으로빼돌린범죄수익,최초로동결한소정수부장검사"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-23T17:31:00.179446+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-23T17:40:07.335520+09:00",
+   "담합으로 최초로 소정수 동결한 범죄수익 빼돌린 부장검사"
+  ]
+ ],
+ "last_run": "2026-08-23T17:40:14.568718+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
