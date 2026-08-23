@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreaherald.com/article/10846961",
-  "https://magazine.hankyung.com/business/article/202608202487b",
-  "http://www.newsprime.co.kr/news/article.html?no=744494",
   "https://www.m-i.kr/news/articleView.html?idxno=1404269",
   "http://www.newsprime.co.kr/news/article.html?no=744487",
   "https://www.gukjenews.com/news/articleView.html?idxno=3669768",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12133924",
   "https://economist.co.kr/article/view/ecn202608190071",
   "https://www.econovill.com/news/articleView.html?idxno=747710",
-  "https://www.bloter.net/news/articleView.html?idxno=671443"
+  "https://www.bloter.net/news/articleView.html?idxno=671443",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721295",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4102156",
+  "https://economist.co.kr/article/view/ecn202608230001"
  ],
  "seen_titles": [
-  "모더나주가177%띄운암백신에‘mRNA’주목…K바이오도수혜입을까",
-  "제주포도호텔,미식과온천결합한패키지",
-  "배경훈부총리\"독파모,지표보다활용·확산이중요\"",
   "SKhynix,unionreachtentativedealforstock-heavybonuses",
   "SK이노베이션,울산CLX서민·관·군합동해상급유훈련지원",
   "[카드]SK이노,울산CLX서유류분배훈련참여",
@@ -6001,7 +5998,10 @@
   "“PER4배면빠질만큼빠진거야”…삼전닉스공부다시시작하는반도체...",
   "옷소비살아났다...패션업계'효자'된수입브랜드",
   "[박정원회장의빅피처③]\"무리수아니다\"두산,2.3조원인수금액소화...",
-  "'체질개선성공'SK인텔릭스,구독계정확대·AI로봇신사업박차"
+  "'체질개선성공'SK인텔릭스,구독계정확대·AI로봇신사업박차",
+  "K-배터리3사특허10만건육박…3년반만에약2배",
+  "김용범,광주반도체부지내일방문…국가산단확대주목",
+  "갈길먼'30만전자'5명중1명개미인데…증권가월요일전망은"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-08-23T09:11:02.250652+09:00",
    "AI 구독 체질개선 SK인텔릭스 성공 확대 로봇 박차 계정 신사업"
+  ],
+  [
+   "2026-08-23T09:21:01.173290+09:00",
+   "월요일 갈길 증권가 개미인데 30만전자 5명 1명 전망은"
   ]
  ],
- "last_run": "2026-08-23T09:11:23.932132+09:00",
+ "last_run": "2026-08-23T09:21:07.838704+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
