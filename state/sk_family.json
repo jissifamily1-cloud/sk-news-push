@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://medicalworldnews.co.kr/news/view.php?idx=1510976474",
-  "https://www.yna.co.kr/view/AKR20260807121500062?input=1195m",
-  "https://dealsite.co.kr/articles/166817",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444246",
-  "https://www.yna.co.kr/view/AKR20260807135800053?input=1195m",
   "https://www.econovill.com/news/articleView.html?idxno=747449",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429207",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4099600",
@@ -2999,14 +2994,14 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=878690",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=500483",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721435",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260824010007890"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260824010007890",
+  "https://economist.co.kr/article/view/ecn202608240034",
+  "https://www.munhwa.com/article/11611611",
+  "https://www.seoul.co.kr/news/publicnews/2026/08/24/20260824500165?wlog_tag3=naver",
+  "https://www.joongangenews.com/news/articleView.html?idxno=542276",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5214415"
  ],
  "seen_titles": [
-  "\"내년메모리물량동났다\"…선수금내걸고확보전쟁",
-  "포스코퓨처엠,3조LFP뚫었다…북미ESS정조준",
-  "한국전광,ESG경영대상환경부문중소기업최우수상수상",
-  "두산,SK실트론인수하자마자'관세복병'…후속협상주목",
-  "한국전광,한국ESG위원회'ESG경영대상'환경부문중소기업최우수상수...",
   "[CEO백과]최태원회장,'SK하이닉스'주식가지고있으라한이유는?",
   "강원교육청교감급이상인사단행⋯이서영정책국장·한왕규교육국장...",
   "정영춘강원도교육청행정국장3급직급승진…지방공무원58명승진·전...",
@@ -6001,7 +5996,12 @@
   "SK하이닉스,광주군공항찾았다…반도체공장부지·전력·용수논의",
   "전남광주통합특별시,'SK하이닉스현장방문'...군공항입지살폈다",
   "SK하이닉스경영진,광주군공항부지점검…반도체클러스터'속도'",
-  "40%까지밀린李…삐거덕與다독이고재계까지‘광폭행보’"
+  "40%까지밀린李…삐거덕與다독이고재계까지‘광폭행보’",
+  "엔비디아의서버가격인상,‘삼전닉스’에약일까독일까",
+  "SK하이닉스,광주군공항현장점검…반도체클러스터가속도",
+  "SK하이닉스,광주군공항현장전격방문",
+  "SK하이닉스경영진,광주군공항다시찾았다…호남반도체클러스터'...",
+  "SK하닉경영진,광주군공항재방문…반도체클러스터속도"
  ],
  "recent_sigs": [
   [
@@ -6073,7 +6073,7 @@
    "까지 다독이고 삐거덕 밀린 광폭행보 재계까지"
   ]
  ],
- "last_run": "2026-08-24T15:40:28.584605+09:00",
+ "last_run": "2026-08-24T15:50:25.575348+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
