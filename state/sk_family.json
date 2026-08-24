@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=209471",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635195",
-  "https://biz.sbs.co.kr/article_hub/20000327504?division=NAVER",
-  "http://www.breaknews.com/1227659",
   "https://www.newscj.com/news/articleView.html?idxno=3423579",
   "https://www.lawtv.kr/news/articleView.html?idxno=60628",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444281",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10850489",
   "https://www.econovill.com/news/articleView.html?idxno=748770",
   "https://www.betanews.net/article/view/beta202608240064",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000059195"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059195",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=741093",
+  "https://www.pressian.com/pages/articles/2026082417101540714",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=271809",
+  "https://www.newspim.com/news/view/20260824001138"
  ],
  "seen_titles": [
-  "최태원,노소영에1조원주고9년소송끝낼까…17일까지재상고",
-  "최태원,노소영에1조지급하나…재상고기한17일",
-  "[핫이슈]SK실트론품은두산…노조·최태원지분이변수",
-  "최태원·노소영‘9년이혼소송’마침표찍나…재상고기한17일도래",
   "1조원육박'세기의재산분할'…재상고기한일주일앞",
   "[연합뉴스이시각헤드라인]-10:30",
   "최태원,노소영에재산분할액1조원지급하나…재상고17일까지",
@@ -6001,7 +5997,11 @@
   "광주군공항찾은SK하이닉스,반도체산업탄력",
   "SK하이닉스경영진,광주군공항다시방문…실행방안협의",
   "SK하이닉스경영진,광주군공항점검…반도체인프라협의",
-  "李대통령,재계총수들과연쇄회동…'메가프로젝트'협력강화행보"
+  "李대통령,재계총수들과연쇄회동…'메가프로젝트'협력강화행보",
+  "SK하이닉스경영진,한달만에광주군공항다시찾았다",
+  "SK하이닉스경영진,광주군공항또찾았다…호남권반도체클러스터속...",
+  "SK하이닉스경영진,직접광주군공항찾았다…남은과제'산더미'",
+  "'앤트로픽상장'에SKT지분가치7조?메모리·SI도'훈풍'기대"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-08-24T17:40:17.132972+09:00",
    "총수들과 메가 협력 강화 행보 연쇄 대통령 재계 회동 프로젝트"
+  ],
+  [
+   "2026-08-24T17:50:14.950073+09:00",
+   "7조 훈풍 앤트로픽 상장 SI도 기대 지분가치 SKT 메모리"
   ]
  ],
- "last_run": "2026-08-24T17:40:28.787623+09:00",
+ "last_run": "2026-08-24T17:50:28.604490+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
