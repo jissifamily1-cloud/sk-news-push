@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1227613",
-  "http://www.newsbrite.net/news/articleView.html?idxno=199625",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071505",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=595991",
-  "https://www.mt.co.kr/industry/2026/08/08/2026080714455982199",
-  "https://www.aitimes.com/news/articleView.html?idxno=213708",
-  "https://www.yna.co.kr/view/AKR20260807146000004?input=1195m",
   "https://www.the-today.com/news/articleView.html?idxno=88248",
   "https://www.mhns.co.kr/news/articleView.html?idxno=755959",
   "https://news.mtn.co.kr/news-detail/2026080716364819783",
@@ -2999,16 +2992,16 @@
   "https://sports.donga.com/region/article/all/20260824/134532882/1",
   "https://www.smartbizn.com/news/articleView.html?idxno=151965",
   "https://www.thepowernews.co.kr/view.php?ud=202608241514573504caa2b7671d_7",
-  "https://www.newstnt.com/news/articleView.html?idxno=714999"
+  "https://www.newstnt.com/news/articleView.html?idxno=714999",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535043",
+  "https://www.asiatime.co.kr/article/20260824500347",
+  "https://www.ziksir.com/news/articleView.html?idxno=144122",
+  "https://gj.newdaily.co.kr/site/data/html/2026/08/24/2026082400308.html",
+  "http://www.metroseoul.co.kr/article/20260824500505",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851345",
+  "https://www.m-joongang.com/news/articleView.html?idxno=402941"
  ],
  "seen_titles": [
-  "[인사]경북영천시",
-  "폭염잊은프로축구…추춘제도입목소리확대",
-  "'불안과기대사이'널뛰는SK하이닉스…증권가\"HBM4·LTA기반펀터멘...",
-  "분당서울대병원,중증소아진료의뢰플랫폼공식운영",
-  "[8월7일인사종합]국회,행정안전부,해양수산부,국가유산청외",
-  "[더차트]상반기배당큰손은이재용…배당금727억,개인1위",
-  "잦아진오너들의자사주매입…책임경영일환이지만변동성확대지적도...",
   "'9년연속배당'최태원,'미래지배력'다진정기선[재계-in]",
   "[비바100]사라진‘인간’의시간,당신생각의주인은누구인가요?",
   "美고용'-2.3만'인데S&P사상최고…월요일'54조하이닉스'첫시험대",
@@ -6001,7 +5994,14 @@
   "전남광주,SK하이닉스경영진광주군공항직접둘러봤다",
   "SK하이닉스경영진,광주군공항재방문···반도체투자실행논의",
   "[이슈]SK하이닉스,광주군공항현장전격방문…반도체클러스터가속...",
-  "SK하이닉스경영진,광주군공항전격방문…호남권반도체클러스터'..."
+  "SK하이닉스경영진,광주군공항전격방문…호남권반도체클러스터'...",
+  "[OBS뉴스오늘2]종합특검수사마무리…'제주실종'추정시신발견·경...",
+  "[마켓Q]삼성전자,역대최대주주환원에도빠진'자사주매입'...주가'...",
+  "염성진SK하이닉스사장,광주군공항현장방문…반도체클러스터가...",
+  "SK하이닉스경영진,광주군공항현장점검…반도체클러스터협의구...",
+  "SK하이닉스,400조호남투자구체화…광주군공항현장점검",
+  "[전남광주소식]SK하이닉스광주군공항현장방문·담양군'첨단4지구...",
+  "삼성·SK·현대차그룹,빅테크와손잡고세계시장삼킨다"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-24T16:30:22.705062+09:00",
    "증발 40조 삼성전자 발표 소각 143조 환원 전량 SK하이닉 110조 시총"
+  ],
+  [
+   "2026-08-24T16:50:17.374392+09:00",
+   "시장 손잡고 현대차그룹 삼킨다 삼성 빅테크와 세계"
   ]
  ],
- "last_run": "2026-08-24T16:40:26.350563+09:00",
+ "last_run": "2026-08-24T16:50:30.572350+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
