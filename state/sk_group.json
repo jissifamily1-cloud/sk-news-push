@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/topics/law_firm/2026/08/21/X35NP7KQLZERRO7FHINWBQWBKA/",
-  "https://medicalworldnews.co.kr/news/view.php?idx=1510976750",
-  "https://mhnse.com/news/articleView.html?idxno=1497307",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54547",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115103",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275302",
-  "https://www.bigtanews.co.kr/article/view/big202608210027",
   "http://www.yonhapnewstv.co.kr/news/MYH20260821215803N6o",
   "https://www.chosun.com/sports/baseball/2026/08/21/5EB26CNE45CSZKG4A42TDERSUI/",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=78453",
@@ -2999,16 +2992,16 @@
   "https://www.greened.kr/news/articleView.html?idxno=348316",
   "https://biz.sbs.co.kr/article_hub/20000330512?division=NAVER",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=858959",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695009"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695009",
+  "https://www.sportschosun.com/sports-news/2026-08-25/202608250100144260009197",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=143481",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878745",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260825074159y7y",
+  "https://kpenews.com/View.aspx?No=4197617",
+  "https://www.globale.co.kr/news/articleView.html?idxno=40023",
+  "https://news.bizwatch.co.kr/article/mobile/2026/08/24/0026"
  ],
  "seen_titles": [
-  "'9:0리드도못지키면어쩌나'LG2경기연속15실점'충격',구단최초...",
-  "\"부동산세제조정에치우쳐…중장기적조세정책방향제시를\"",
-  "[오늘의주요일정]사회(8월22일토요일)",
-  "‘0-9에서15-11로뒤집었다’역대최다점수차2위대역전극연출,한...",
-  "‘0:9→15:11’뒤집기쇼…한화,LG꺾고6연패끝",
-  "0-9에서15-11로LG에‘뒤집기한판’…한화,9점차대역전극으로6연...",
-  "'9점차도뒤집혔다'한화대역전극…KIA·롯데연승질주,삼성은NC에...",
   "삼성전자,최대110조원주주환원…3분기에30조원현금배당",
   "'9점차뒤집고대역전'한화,LG제물로6연패탈출…KIA6연승·3위유지...",
   "선발무너진한화,불펜박살난LG에대역전승…0-9→15-11(종합)",
@@ -6001,7 +5994,14 @@
   "이재명대통령,올해이재용회장과12회만났다···장인화9회·최태...",
   "[마켓프리뷰]'악재'된삼성전자주주환원…장중환율1370원대로",
   "LNG공백메운미국산…전력업계'고초'",
-  "포스트HBM해법갈렸다...삼성전자는쌓고SK하닉은잇고"
+  "포스트HBM해법갈렸다...삼성전자는쌓고SK하닉은잇고",
+  "\"모두가하나된8월의행복필드,SKT어댑티브오픈\"'파이팅요정'김선...",
+  "[오늘의글로벌마켓]뉴욕증시,기술주약세속3대지수혼조세",
+  "대기업영업익,'삼전닉스'빼고도72%증가...중장기설비투자11%↓",
+  "[3분증시]뉴욕증시,혼조세마감…기술주약세",
+  "미래에셋운용,메모리성장성에달러분산더한다..美국채혼합ETF상장",
+  "넥슨,〈서든어택〉21주년쇼케이스성료·〈카러플〉프로축구협업",
+  "두나무·비트고등대형사진입…중소수탁업체'진퇴양난'"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,21 @@
   [
    "2026-08-25T07:36:54.733777+09:00",
    "갈렸다 잇고 쌓고 삼성전자는 SK하닉은 HBM 해법 포스트"
+  ],
+  [
+   "2026-08-25T07:51:02.037760+09:00",
+   "미래에셋운용 분산 ETF 더한다 상장 혼합 국채 메모리 달러 성장성에"
+  ],
+  [
+   "2026-08-25T07:51:02.037760+09:00",
+   "프로축구 쇼케이스 협업 카러플 넥슨 성료 서든어택 21주년"
+  ],
+  [
+   "2026-08-25T07:51:02.037760+09:00",
+   "두나무 진퇴양난 비트고 진입 대형사 중소수탁업체"
   ]
  ],
- "last_run": "2026-08-25T07:41:06.038094+09:00",
+ "last_run": "2026-08-25T07:51:13.733681+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
