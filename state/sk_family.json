@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990042.html",
-  "http://www.segyebiz.com/newsView/20260809507868?OutUrl=naver",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271372",
   "https://www.ddaily.co.kr/page/view/2026080910120259932",
   "https://www.segye.com/newsView/20260809507171?OutUrl=naver",
   "https://imnews.imbc.com/replay/2026/nw1200/article/6843431_36967.html",
@@ -2999,12 +2996,12 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5214477",
   "https://www.newsis.com/view/NISX20260824_0003760304",
   "https://www.joongangenews.com/news/articleView.html?idxno=542331",
-  "https://www.etoday.co.kr/news/view/2617532"
+  "https://www.etoday.co.kr/news/view/2617532",
+  "https://www.ziksir.com/news/articleView.html?idxno=144132",
+  "https://www.fnnews.com/news/202608241800343840",
+  "https://www.mt.co.kr/industry/2026/08/24/2026082415344234551"
  ],
  "seen_titles": [
-  "최태원,노소영에약1조원지급하나…내주재상고안하면확정(종합)",
-  "최태원SK그룹회장,노소영관장에9440억원지급할까…17일까지재상고",
-  "[중국의역습④]지정학적리스크더해진'위협'···\"반도체굴기가...",
   "최태원·노소영재산분할,내주재상고여부분수령…1조원지급확정되...",
   "[추적]〈SK하이닉스>⑩주주에게는375원,성과급재원은영업익10%…같...",
   "SK하이닉스'통합노조'설립급물살…성과급재협상에내부반발확산",
@@ -6001,7 +5998,10 @@
   "이대통령,'재계스킨십'늘린다…최태원이어정의선·이재용연쇄회...",
   "이대통령,최태원이어정의선·이재용연쇄회동할듯…'3대메가'등...",
   "李대통령,SK최태원이어삼성이재용·현대차정의선연쇄회동…'메...",
-  "HBM중심축‘맞춤설계’로…삼성전자·SK하이닉스,커스텀개발가속"
+  "HBM중심축‘맞춤설계’로…삼성전자·SK하이닉스,커스텀개발가속",
+  "李대통령,정의선·이재용과비공개회동추진…'3대메가'속도전",
+  "호남반도체클러스터박차…SK하닉경영진,군공항방문",
+  "초호황기입증된'삼전닉스',호재넘치는데주가는왜?"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-08-24T18:00:31.652179+09:00",
    "맞춤 SK하이닉스 삼성전자 중심축 가속 커스텀 개발 설계 HBM"
+  ],
+  [
+   "2026-08-24T18:02:56.035870+09:00",
+   "주가는 초호황기 입증된 삼전닉스 호재 넘치는데"
   ]
  ],
- "last_run": "2026-08-24T18:00:43.801394+09:00",
+ "last_run": "2026-08-24T18:03:11.003975+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
