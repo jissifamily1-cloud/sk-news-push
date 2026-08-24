@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.todayenergy.kr/news/articleView.html?idxno=301335",
-  "https://biz.heraldcorp.com/article/10833965",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051336407720103927",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444200",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52006",
@@ -2999,11 +2997,11 @@
   "https://www.the-today.com/news/articleView.html?idxno=88869",
   "https://www.namdonews.com/news/articleView.html?idxno=920908",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271753",
-  "https://www.yna.co.kr/view/AKR20260824108100054?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260824108100054?input=1195m",
+  "https://www.kwnews.co.kr/article/20260824500942",
+  "https://www.viva100.com/article/20260824501154"
  ],
  "seen_titles": [
-  "AI슈퍼사이클의그늘…‘공급망프리미엄’시험대오른K산업",
-  "[추적]〈SK하이닉스>⑧149만6000원에서멈췄다…7일이운명을결정한다...",
   "맛피아·장나라·김정난스타집사들도…'세계고양이의날'에'후끈'",
   "한국전광,ESG경영대상환경부문최우수상수상",
   "[더벨][두산실트론인수재무방정식]FI유치없다,로보틱스팔고도...",
@@ -6001,7 +5999,9 @@
   "[이슈]SK실트론최태원지분29.39%·2034년까지언아웃…박정원'승자의...",
   "SK하이닉스,광주군공항방문…호남반도체논의구체화",
   "경영진이직접답한SK하이닉스미래전략…\"인재중심기술경쟁력\"",
-  "SK하이닉스경영진,광주군공항방문…반도체부지점검"
+  "SK하이닉스경영진,광주군공항방문…반도체부지점검",
+  "[포토뉴스]제4회강릉시재향군인회안보워크숍성료",
+  "SK하이닉스,광주군공항관제탑에올랐다…반도체클러스터,구상에서..."
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "방문 SK하이닉스 광주 군공항 반도체 경영진 점검 부지"
   ]
  ],
- "last_run": "2026-08-24T15:00:48.001706+09:00",
+ "last_run": "2026-08-24T15:03:58.781865+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
