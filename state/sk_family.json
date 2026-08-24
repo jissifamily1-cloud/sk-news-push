@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260809015500011?input=1195m",
-  "https://www.ajunews.com/view/20260809100943371",
-  "http://www.fnnews.com/news/202608091043076317",
-  "https://www.gokorea.kr/news/articleView.html?idxno=874512",
-  "https://www.dt.co.kr/article/12077191",
-  "https://www.yna.co.kr/view/AKR20260807146051004?input=1195m",
   "http://www.srtimes.kr/news/articleView.html?idxno=209471",
   "https://www.seoulfn.com/news/articleView.html?idxno=635195",
   "https://biz.sbs.co.kr/article_hub/20000327504?division=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20260824139900001?input=1195m",
   "https://www.newspost.kr/news/articleView.html?idxno=225146",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=85987",
-  "https://view.asiae.co.kr/article/2026082417061936701"
+  "https://view.asiae.co.kr/article/2026082417061936701",
+  "https://www.youthdaily.co.kr/news/article.html?no=225605",
+  "https://news.tf.co.kr/read/economy/2357397.htm",
+  "https://biz.heraldcorp.com/article/10850489",
+  "https://www.econovill.com/news/articleView.html?idxno=748770",
+  "https://www.betanews.net/article/view/beta202608240064",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059195"
  ],
  "seen_titles": [
-  "“성과급은자사주,적자땐임금조정”SK하이닉스임단협‘난기류’",
-  "최태원·노소영'세기의이혼'대법원가나…재상고일주일앞",
-  "9440억재산분할…최태원·노소영9년법정싸움이번주끝나나",
-  "최태원,노소영에약1조원지급하나…17일재산분할소송확정여부결...",
-  "SK하이닉스'과자2,000원〉연간고정배당1,500원'…블라인드밈,계산...",
-  "최태원,노소영에게1조지급하고소송끝내나…17일재상고기한",
   "최태원,노소영에1조원주고9년소송끝낼까…17일까지재상고",
   "최태원,노소영에1조지급하나…재상고기한17일",
   "[핫이슈]SK실트론품은두산…노조·최태원지분이변수",
@@ -6001,7 +5995,13 @@
   "李대통령,최태원이어정의선·이재용연쇄회동…'3대메가'박차",
   "이대통령,4대그룹총수와연쇄회동…첨단산업경쟁력논의",
   "올해만33번대면...이대통령,4대그룹총수연쇄회동'첨단산업드라...",
-  "SK하이닉스,광주군공항찾아반도체입지점검"
+  "SK하이닉스,광주군공항찾아반도체입지점검",
+  "李대통령,총수연쇄회동…4천조'3대메가프로젝트'박차",
+  "대통령·4대그룹총수,올해33번만났다…첨단산업국가경쟁력논의",
+  "광주군공항찾은SK하이닉스,반도체산업탄력",
+  "SK하이닉스경영진,광주군공항다시방문…실행방안협의",
+  "SK하이닉스경영진,광주군공항점검…반도체인프라협의",
+  "李대통령,재계총수들과연쇄회동…'메가프로젝트'협력강화행보"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-08-24T17:20:16.321862+09:00",
    "채용설명회 SK하이닉스 광주서 열어"
+  ],
+  [
+   "2026-08-24T17:40:17.132972+09:00",
+   "총수들과 메가 협력 강화 행보 연쇄 대통령 재계 회동 프로젝트"
   ]
  ],
- "last_run": "2026-08-24T17:30:35.827257+09:00",
+ "last_run": "2026-08-24T17:40:28.787623+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
