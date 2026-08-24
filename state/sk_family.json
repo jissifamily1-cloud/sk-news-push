@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051336407720103927",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444200",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52006",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87658",
-  "https://www.pennmike.com/news/articleView.html?idxno=125177",
-  "https://www.techm.kr/news/articleView.html?idxno=154093",
-  "https://www.ppss.kr/news/articleView.html?idxno=304470",
-  "https://biz.heraldcorp.com/article/10834186",
   "http://www.press9.kr/news/articleView.html?idxno=80575",
   "http://www.journalist.or.kr/news/article.html?no=61414",
   "https://www.yna.co.kr/view/AKR20260807090900061?input=1195m",
@@ -2999,17 +2991,17 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271753",
   "https://www.yna.co.kr/view/AKR20260824108100054?input=1195m",
   "https://www.kwnews.co.kr/article/20260824500942",
-  "https://www.viva100.com/article/20260824501154"
+  "https://www.viva100.com/article/20260824501154",
+  "https://www.nocutnews.co.kr/news/6567035",
+  "https://www.etnews.com/20260824000306",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=85976",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059096",
+  "https://www.news1.kr/local/gwangju-jeonnam/6267654",
+  "https://www.newsis.com/view/NISX20260717_0003713194",
+  "https://www.hankyung.com/article/202608248905h",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644304"
  ],
  "seen_titles": [
-  "맛피아·장나라·김정난스타집사들도…'세계고양이의날'에'후끈'",
-  "한국전광,ESG경영대상환경부문최우수상수상",
-  "[더벨][두산실트론인수재무방정식]FI유치없다,로보틱스팔고도...",
-  "''멸종위기1급'여우28마리소백산방사…GPS로2년간추적",
-  "한국전광(주)최영근대표,ESG경영대상환경부분최우수상수상",
-  "최영근한국전광대표,ESG경영대상환경부분최우수상수상",
-  "최영근한국전광대표,ESG경영대상환경부문최우수상수상…광학기...",
-  "한국전광,ESG경영대상환경부문중소기업'최우수상'수상",
   "‘21년간무늬만부부’최태원·노소영,세기의결별막내린다",
   "한국전광(주),ESG경영대상환경부문최우수상",
   "21년간‘쇼윈도부부’…최태원·노소영,세기의결별막내린다",
@@ -6001,7 +5993,15 @@
   "경영진이직접답한SK하이닉스미래전략…\"인재중심기술경쟁력\"",
   "SK하이닉스경영진,광주군공항방문…반도체부지점검",
   "[포토뉴스]제4회강릉시재향군인회안보워크숍성료",
-  "SK하이닉스,광주군공항관제탑에올랐다…반도체클러스터,구상에서..."
+  "SK하이닉스,광주군공항관제탑에올랐다…반도체클러스터,구상에서...",
+  "SK하이닉스경영진,광주군공항또찾았다…반도체클러스터협의구체...",
+  "SK하이닉스,광주군공항현장전격방문…호남권반도체클러스터가속...",
+  "SK하이닉스경영진,광주군공항현장점검…반도체클러스터협의구체...",
+  "SK하이닉스경영진,광주군공항현장점검…반도체클러스터속도",
+  "SK하이닉스,광주군공항방문…반도체클러스터심층논의",
+  "SK하이닉스,광주반도체산단부지전격방문…사업가속도",
+  "SK하이닉스경영진,전남광주군공항방문…반도체클러스터'속도'",
+  "[성공예감]삼성전자주가,주주환원보다더중요한건이겁니다-김학..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-24T15:00:33.616095+09:00",
    "방문 SK하이닉스 광주 군공항 반도체 경영진 점검 부지"
+  ],
+  [
+   "2026-08-24T15:10:17.162214+09:00",
+   "이겁니다 삼성전자 김학 주주 중요한 주가 환원보다"
   ]
  ],
- "last_run": "2026-08-24T15:03:58.781865+09:00",
+ "last_run": "2026-08-24T15:10:28.833995+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
