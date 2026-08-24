@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026081315004861727",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608130552&t=NN",
-  "https://www.mt.co.kr/society/2026/08/13/2026081315085631100",
   "http://www.nongaek.com/news/articleView.html?idxno=96394",
   "https://www.hankookilbo.com/news/article/A2026081314310000707?did=NA",
   "http://www.joseilbo.com/news/news_read.php?uid=573795&class=32",
@@ -2999,12 +2996,12 @@
   "https://www.segye.com/newsView/20260824515041?OutUrl=naver",
   "https://www.dailian.co.kr/news/view/1681769/?sc=Naver",
   "http://www.jndn.com/article.php?aid=1787563208438342101",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=741096"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=741096",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1099456",
+  "https://news.jtbc.co.kr/article/NB12314860?influxDiv=NAVER",
+  "https://www.hankyung.com/article/2026082496897"
  ],
  "seen_titles": [
-  "KAI턱밑까지온한화…'한국판록히드마틴'구상에커지는독점우려",
-  "분쟁폭증하자…공정위,배달·쇼핑·숙박플랫폼향해다시칼뺐다",
-  "'주사이모'수사연예계로확대…전현무·키·온유·입짧은햇님경찰조...",
   "'코인출금중단700억편취'혐의델리오대표…1심징역15년",
   "“아이얼굴도못봤는데…”49재서울려퍼진유족의호소",
   "공정위,지급보증의무화대상'계약갱신'범위구체화",
@@ -6001,7 +5998,10 @@
   "‘노상원수첩’등미규명46건국수본이첩…권특검“지금까지수...",
   "프로야구표쓸어담은‘되팔이’무더기적발…매크로로1억6000만원거...",
   "1억6000만원대야구암표일당무더기검거",
-  "[전문]노웅래\"한동훈,조작기소피해자들에게사과하라\"·韓\"李공소..."
+  "[전문]노웅래\"한동훈,조작기소피해자들에게사과하라\"·韓\"李공소...",
+  "공정위,상조회사선수금운용내부통제강화…'선불식할부거래지침...",
+  "'딥페이크·관권선거의혹'전·현직경남도청공무원등4명구속영장",
+  "직장동료빈집에가둔30대긴급체포…\"좋아해서\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "결심공판 대표 SK케미칼 앞둔 홍지호"
   ]
  ],
- "last_run": "2026-08-24T18:31:05.173061+09:00",
+ "last_run": "2026-08-24T18:40:57.550057+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
