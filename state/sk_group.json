@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1997204",
-  "https://www.news1.kr/society/court-prosecution/6265916",
-  "https://biz.sbs.co.kr/article_hub/20000330101?division=NAVER",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190209.html",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3010613",
   "http://www.nongaek.com/news/articleView.html?idxno=96479",
   "https://www.mt.co.kr/world/2026/08/21/2026082116241694211",
   "http://www.impacton.net/news/articleView.html?idxno=20058",
@@ -2999,14 +2994,14 @@
   "https://www.ytn.co.kr/_ln/0102_202608242052141622",
   "https://www.dailian.co.kr/news/view/1681787/?sc=Naver",
   "https://www.econovill.com/news/articleView.html?idxno=748782",
-  "https://www.khan.co.kr/article/202608242059005"
+  "https://www.khan.co.kr/article/202608242059005",
+  "https://www.ikbc.co.kr/article/view/kbc202608240056",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260824211249IjK",
+  "https://www.khan.co.kr/article/202608242112015",
+  "https://view.asiae.co.kr/article/2026082421104692416",
+  "https://tjmbc.co.kr/NewsArticle/858356"
  ],
  "seen_titles": [
-  "\"중동전쟁여파…석유수입도줄고소비도줄었다\"",
-  "한화생명,한화금융미래이끌신입채용",
-  "원·달러1386원…원·엔2년여만에최저",
-  "코스피'버티고',코스닥'폭락'...바이오&로봇주'출렁'",
-  "3배국가ETN6종미국시장에추가됐다",
   "SK하이닉스,AI메모리대전서샌디스크상대압승?...월가\"내년까지질...",
   "'삼전닉스'뒷심좋아졌나",
   "“적자땐고통분담,흑자땐확실한보상”…SK하이닉스,파업대신‘...",
@@ -6001,7 +5996,12 @@
   "동탄또들썩?...삼성전자다음달부터직원'주택대출'",
   "[데일리안오늘뉴스종합]李대통령특감지명‘제식구감싸기’우려...",
   "삼성전자주주환원'배당+자사주'조합주목…금산법10%가변수",
-  "‘안보전원’남겨라…2040년탈석탄목표흔드는‘화력발전소옆데이..."
+  "‘안보전원’남겨라…2040년탈석탄목표흔드는‘화력발전소옆데이...",
+  "\"광주반도체4기에서더커진다\"...삼성·SK팹추가검토",
+  "110조주주환원에도삼성전자급락…코스피도3%대↓",
+  "금산법에묶인삼전‘배당’…지배구조보호닉스는‘소각’",
+  "'골프계우영우'이승민\"박인비선수가롤모델\"",
+  "[리포트]충청권정보보안생태계'세종'에조성"
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,21 @@
   [
    "2026-08-24T21:01:25.917494+09:00",
    "감싸기 대통령 특감 우려 제식구 지명"
+  ],
+  [
+   "2026-08-24T21:19:08.406099+09:00",
+   "보호 묶인 지배구조 배당 삼전 소각 닉스는 금산법에"
+  ],
+  [
+   "2026-08-24T21:19:08.406099+09:00",
+   "골프계 박인비 이승민 모델 우영우 선수가"
+  ],
+  [
+   "2026-08-24T21:19:08.406099+09:00",
+   "보안 정보 세종 충청권 조성 생태계"
   ]
  ],
- "last_run": "2026-08-24T21:11:10.207631+09:00",
+ "last_run": "2026-08-24T21:19:20.425522+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7486,6 +7498,7 @@
   "kidshankook.kr": "소년한국일보",
   "rapportian.com": "라포르시안",
   "yangsanilbo.com": "양산신문",
-  "tgdaily.co.kr": "더게임스데일리"
+  "tgdaily.co.kr": "더게임스데일리",
+  "tjmbc.co.kr": "대전MBC"
  }
 }
