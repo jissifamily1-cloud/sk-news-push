@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mhns.co.kr/news/articleView.html?idxno=756360",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04651046645546992",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=390427",
-  "https://biz.chosun.com/topics/law_firm/2026/08/13/AIVXABMEM5G7XARWYU4KKB7FU4/",
-  "https://www.newsis.com/view/NISX20260813_0003747665",
   "https://www.joongang.co.kr/article/25453034",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636150",
   "https://www.hani.co.kr/arti/society/society_general/1272706.html",
@@ -2999,14 +2994,14 @@
   "https://www.wolyo.co.kr/news/articleView.html?idxno=316783",
   "https://www.thepublic.kr/news/articleView.html?idxno=315929",
   "https://www.thepublic.kr/news/articleView.html?idxno=315925",
-  "https://gj.newdaily.co.kr/site/data/html/2026/08/24/2026082400227.html"
+  "https://gj.newdaily.co.kr/site/data/html/2026/08/24/2026082400227.html",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594679353880",
+  "http://www.metroseoul.co.kr/article/20260824500396",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83735",
+  "https://www.news1.kr/local/gwangju-jeonnam/6267709",
+  "http://www.joseilbo.com/news/news_read.php?uid=574364&class=32"
  ],
  "seen_titles": [
-  "'도이치주가조작'공범,대법서유죄확정…징역형집유",
-  "[속보]'도이치주가조작'공범,대법서징역형집행유예확정",
-  "춘천에서불법성매매알선한업주·종업원입건",
-  "‘도이치주가조작’공범,징역형집유·벌금확정",
-  "경찰'고위험코인선물거래유도'유사투자자문업체수사",
   "'도이치주가조작'공범…대법서징역형집행유예·벌금확정",
   "대포폰쓰고계좌돌려가며스테로이드판매…12명검거",
   "법무법인화우'경찰통'신재문·김도경영입…형소법대응인력강화",
@@ -6001,7 +5996,12 @@
   "\"내란세력과의전쟁은이제시작\"…권창영특검'상설특수본'제안",
   "노웅래2심도무죄에여권\"조작수사\"...야권\"이재명공소취소명분쌓...",
   "[선관위게이트]선관위특검오늘업무개시...투표용지부족·통계조...",
-  "광주경찰,프로야구암표판매일당19명검거…매크로개발자도적발"
+  "광주경찰,프로야구암표판매일당19명검거…매크로개발자도적발",
+  "공정위,상조선수금관리강화…‘11조원대소비자돈지킨다’",
+  "상조회사고위험자산투자깐깐해진다…선수금1000억원넘으면심의...",
+  "경찰,'대웅제약리베이트유출'압수수색...사측\"확인어렵다\"무응답",
+  "\"좋아해서\"직장동료차에태워빈집서16시간감금30대체포",
+  "종합특검\"쌍방울대북송금,대통령실개입시도…국정농단\""
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T15:31:02.122832+09:00",
+ "last_run": "2026-08-24T15:40:55.477160+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
