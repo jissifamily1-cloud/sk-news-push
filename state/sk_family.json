@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444123",
-  "https://www.news1.kr/society/court-prosecution/6253044",
-  "https://magazine.hankyung.com/business/article/202608030936b",
-  "https://biz.chosun.com/topics/topics_social/2026/08/09/IFVMDZF36NHIFJUWXOOSPHWM6I/",
-  "https://www.slist.kr/news/articleView.html?idxno=757530",
-  "https://www.ikbc.co.kr/article/view/kbc202608090005",
-  "https://www.news1.kr/life-culture/performance-exhibition/6252303",
   "https://www.greened.kr/news/articleView.html?idxno=347183",
   "https://www.hankyung.com/article/2026080922967",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049329",
@@ -2999,16 +2992,16 @@
   "https://www.m-joongang.com/news/articleView.html?idxno=402941",
   "https://www.etoday.co.kr/news/view/2612288",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475461",
-  "https://news.mtn.co.kr/news-detail/2026082416110037771"
+  "https://news.mtn.co.kr/news-detail/2026082416110037771",
+  "https://www.the-today.com/news/articleView.html?idxno=88878",
+  "https://www.news1.kr/industry/general-industry/6267906",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245127",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=862706",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480133",
+  "https://www.greened.kr/news/articleView.html?idxno=348300",
+  "https://www.dt.co.kr/article/12079891"
  ],
  "seen_titles": [
-  "[인사]대구광역시5급이하인사발령",
-  "[추적]SK하이닉스⑨버텨?손절해?지금사,말아?…375원에낚이기전...",
-  "최태원·노소영1조재산분할과'0원'세금…조세정의는어디로갔나",
-  "[인사]대구시민선9기첫5급이하",
-  "김선태,사과후1주일만에근황영상공개…'고독하구만'",
-  "메모리반도체품귀에'장기계약'러시..샌디스크·난야도LTA확대",
-  "[AI이슈트렌드]갤럭시Z8흥행속차가원사기·하이닉스HBF·스페이...",
   "최태원,노소영에약1조원지급하나…17일까지재상고안하면확정",
   "SK하이닉스375원배당에'최태원과자'밈…\"1년치배당보다비싸\"",
   "실화영화'47년7개월-어느여교수의외출'21일기자시사회",
@@ -6001,7 +5994,14 @@
   "삼성·SK·현대차그룹,빅테크와손잡고세계시장삼킨다",
   "'불안과기대사이'널뛰는SK하이닉스…증권가\"HBM4·LTA기반펀터멘...",
   "[8월7일인사종합]국회,행정안전부,해양수산부,국가유산청외",
-  "광주군공항에온SK하이닉스경영진…반도체생산기지밑그림"
+  "광주군공항에온SK하이닉스경영진…반도체생산기지밑그림",
+  "[이슈]2.3조실트론매각끝나자교체설…최창원'토사구팽'당하나?",
+  "대한상의,경제연구총괄에이시욱전KIEP원장내정",
+  "[부고종합·24일]노석철국민일보대외협력국장모친상등",
+  "1천400원대깨진환율...충청권기업숨통트이나",
+  "SK하이닉스,250만평광주군공항부지점검",
+  "SK하이닉스경영진,광주군공항전격방문…'호남반도체클러스터'판...",
+  "[이슈&트렌드]호남반도체공장발표에부상하는SMR대안론"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-24T16:50:17.374392+09:00",
    "시장 손잡고 현대차그룹 삼킨다 삼성 빅테크와 세계"
+  ],
+  [
+   "2026-08-24T17:07:43.366948+09:00",
+   "반도체 호남 대안론 발표에 SMR 공장 부상하는"
   ]
  ],
- "last_run": "2026-08-24T17:00:37.953012+09:00",
+ "last_run": "2026-08-24T17:07:54.667006+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
