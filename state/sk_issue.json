@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635654",
-  "https://www.ktv.go.kr/content/view?content_id=759313",
   "https://www.newsis.com/view/NISX20260812_0003746722",
   "https://www.yna.co.kr/view/AKR20260812162900004?input=1195m",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390005.html",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20260824_0003759590",
   "https://www.khan.co.kr/article/202608241023001",
   "https://www.yna.co.kr/view/PYH20260824039500013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260824039600013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260824039600013?input=1196m",
+  "http://www.inews24.com/view/1997544",
+  "http://www.inews24.com/view/1997545"
  ],
  "seen_titles": [
-  "‘스타벅스구호논란’배재고,45일만의공식전서1회전탈락",
-  "‘5·18폄하’배재고,봉황대기1회전탈락으로시즌마감",
   "KAI노조“공정위,한화·KAI기업결합불허해야”",
   "고액체납자추징강화···조사4국에전담팀신설",
   "'도이치주가조작공범'이준수대법선고…오창소각장분쟁도결론",
@@ -6001,7 +5999,9 @@
   "파기환송심출석하는안용찬전애경산업대표",
   "선수금1000억이상상조회사,'운용심의위'설치해야…공정위행정예고",
   "선관위특검,서초동에임시사무실마련…본격업무개시",
-  "파기환송심출석하는홍지호전SK케미칼대표"
+  "파기환송심출석하는홍지호전SK케미칼대표",
+  "[포토]파기환송심결심공판출석하는안용찬전애경산업대표",
+  "[포토]파기환송심결심공판출석하는홍지호전SK케미칼대표"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T10:27:11.386825+09:00",
+ "last_run": "2026-08-24T10:31:00.499947+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
