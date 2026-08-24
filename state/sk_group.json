@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-today.com/news/articleView.html?idxno=88751",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479477",
   "https://www.sportsworldi.com/newsView/20260821511592",
   "https://www.pennmike.com/news/articleView.html?idxno=125752",
   "https://www.dailian.co.kr/news/view/1680910/?sc=Naver",
@@ -2999,11 +2997,11 @@
   "https://tjmbc.co.kr/NewsArticle/858356",
   "http://www.econonews.co.kr/news/articleView.html?idxno=443253",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=557462",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480186"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480186",
+  "http://www.bizwnews.com/news/articleView.html?idxno=144180",
+  "https://www.ajunews.com/view/20260824212505613"
  ],
  "seen_titles": [
-  "주주환원기대감에삼성전자3.9%급등마감",
-  "이번엔삼성전자가100조쏜다?…역대급주주환원책예고에시장기대...",
   "[마감시황]삼성전자주주환원기대…코스피반등",
   "코스피,삼성전자주주환원기대감에하락딛고강보합마감…6900선회...",
   "서정성의협부회장,베네수엘라재난현장두차례지원…정수기까지실...",
@@ -6001,7 +5999,9 @@
   "[리포트]충청권정보보안생태계'세종'에조성",
   "코스피,외인과기관매도에6700선밑으로...LG에너지솔루션,삼성바이...",
   "대형주약세에코스피3.12%↓",
-  "삼전닉스주주환원에'2배베팅'다시꿈틀...레버리지ETF3일간2.8조손..."
+  "삼전닉스주주환원에'2배베팅'다시꿈틀...레버리지ETF3일간2.8조손...",
+  "넥센타이어,양산공장에PPA첫도입…\"생산단계부터재생에너지늘린다...",
+  "[아주경제오늘의뉴스종합]제주서또다른실종자시신발견…22일부..."
  ],
  "recent_sigs": [
   [
@@ -6751,9 +6751,13 @@
   [
    "2026-08-24T21:31:12.923265+09:00",
    "대형주 약세에 코스피"
+  ],
+  [
+   "2026-08-24T21:51:03.602393+09:00",
+   "발견 또다른 시신 22일부 제주서 실종자"
   ]
  ],
- "last_run": "2026-08-24T21:41:09.359910+09:00",
+ "last_run": "2026-08-24T21:51:09.960055+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
