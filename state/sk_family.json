@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1227423",
   "https://www.hankyung.com/article/202608079711g",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855150",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608030431361340106881",
@@ -2999,10 +2998,10 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431485",
   "https://www.yna.co.kr/view/AKR20260824097600054?input=1195m",
   "https://www.sidae.com/article/2026082413480044444",
-  "https://biz.chosun.com/industry/company/2026/08/24/LRYCTZKKJBE57FYO5RNH6XZ3AQ/"
+  "https://biz.chosun.com/industry/company/2026/08/24/LRYCTZKKJBE57FYO5RNH6XZ3AQ/",
+  "https://www.newsis.com/view/NISX20260824_0003760087"
  ],
  "seen_titles": [
-  "[신장섭의이코노믹스]자사주매입은주주환원과무관,단기투기부추...",
   "한동훈“SK공개압박괜찮다는김민석,SK에게2억받아유죄확정”",
   "구광모,내주실리콘밸리서젠슨황재회…로봇·AI데이터센터·모빌리...",
   "더투데이최태원단독기사100만뷰돌파…한달누적500만건",
@@ -6001,7 +6000,8 @@
   "SK하이닉스,일본에공장지을까…\"인프라·소재·장비갖춰\"",
   "전남광주암수술환자진료비30%가량,서울서소비",
   "전남권의료기관접근성전국최악",
-  "그룹전성기이끌었지만본인사업은휘청…최창원SK수펙스의장거취..."
+  "그룹전성기이끌었지만본인사업은휘청…최창원SK수펙스의장거취...",
+  "전남의료접근성전국최악…수술환자절반이상광주·서울로"
  ],
  "recent_sigs": [
   [
@@ -6053,7 +6053,7 @@
    "본인 전성기 SK수펙스 이끌었지만 사업은 휘청 거취 의장"
   ]
  ],
- "last_run": "2026-08-24T14:10:29.120389+09:00",
+ "last_run": "2026-08-24T14:20:26.912779+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
