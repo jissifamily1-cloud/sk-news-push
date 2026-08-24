@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202404307970b",
-  "https://www.skyedaily.com/news/news_view.html?ID=230237",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003026178&CMPT_CD=P0010",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=79874",
   "https://news.mtn.co.kr/news-detail/2024043016322397431",
   "http://www.srtimes.kr/news/articleView.html?idxno=155543",
   "https://www.dailian.co.kr/news/view/1356736/?sc=Naver",
@@ -2999,13 +2995,13 @@
   "https://www.busan.com/view/busan/view.php?code=2026082413435016472",
   "https://www.starnewskorea.com/sports/2026/08/24/2026082413110160020",
   "https://www.yna.co.kr/view/AKR20260824085251004?input=1195m",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490112.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490112.html",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000005519&cp=nv",
+  "https://news.jtbc.co.kr/article/NB12314744?influxDiv=NAVER",
+  "https://www.newsis.com/view/NISX20260819_0003754876",
+  "https://www.news1.kr/local/gwangju-jeonnam/6267513"
  ],
  "seen_titles": [
-  "공정위,배달·오픈마켓·숙박플랫폼실태조사…수수료·광고비들여다...",
-  "공정위,쿠팡·배민등실태조사…수수료·피해사례파악착수",
-  "국힘\"선관위셀프면죄부\"...장동혁\"법원서다시싸우겠다\"",
-  "오타니가다저스를떠날수도있다고?레이커스매각한구단주가다저스...",
   "인권위원장\"보완수사권폐지,대체체계충분히논의해야\"",
   "인권위원장\"보완수사권폐지…부실수사통제책마련해야\"",
   "공정위,SK계열사에불법채무보증과징금1.5억부과",
@@ -6001,7 +5997,11 @@
   "공정위\"선불식할부거래선수금운용지침마련해야\"",
   "경찰\"축협성접대공소시효만료,수사어려워...추가로확인할부분...",
   "특검\"김건희디올백수사무마단서확인…추가수사필요\"(종합)",
-  "\"尹대통령실대북송금수사개입\"이라던특검…영장2번기각에수사중..."
+  "\"尹대통령실대북송금수사개입\"이라던특검…영장2번기각에수사중...",
+  "직접만든불법매크로프로그램구독제로판매한개발자적발",
+  "조국\"한동훈,노웅래녹취틀자?20자리비번폰부터같이보자\"",
+  "불법자동예매로프로야구입장권되팔이…암표상무더기검거",
+  "매크로로프로야구입장권선점…1.6억암표판매일당검거"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T13:50:56.466173+09:00",
+ "last_run": "2026-08-24T14:01:14.456914+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
