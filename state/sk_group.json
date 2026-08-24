@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/assembly/6265337",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210489",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275229",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=53588",
-  "https://theviewers.co.kr/View.aspx?No=4193912",
-  "https://www.g-enews.com/view.php?ud=202608211008474492fbbec65dfb_1",
-  "https://sports.khan.co.kr/article/202608211038003?pt=nv",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431170",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608210426&t=NN",
-  "https://www.sedaily.com/article/20081737",
   "http://www.inews24.com/view/1997011",
   "https://www.youthdaily.co.kr/news/article.html?no=225448",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431165",
@@ -2999,19 +2989,19 @@
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43204",
   "https://www.econovill.com/news/articleView.html?idxno=748701",
   "http://www.thevaluenews.co.kr/news/view.php?idx=200997",
-  "https://www.newsway.co.kr/news/view?ud=2026082413522751138"
+  "https://www.newsway.co.kr/news/view?ud=2026082413522751138",
+  "https://www.hani.co.kr/arti/economy/marketing/1273974.html",
+  "https://www.insight.co.kr/news/568669",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637462",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16171859",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608240195&t=NNv",
+  "https://news.knn.co.kr/news/article_sns/1633",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2435673",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53707",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275367",
+  "https://www.greened.kr/news/articleView.html?idxno=348237"
  ],
  "seen_titles": [
-  "[특징주]SK증권,하이닉스자사주중개…연이틀급등",
-  "SK하이닉스,일본'반도체공장'추진…호남보다작은규모일듯",
-  "전원주,SK하이닉스수익률8000%…\"한주도안팔았다\"",
-  "美나랏빚첫'40조달러'돌파...재무부,국채바이백2배대폭확대",
-  "검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색",
-  "SK하이닉스노사,성과급난맥함께풀었다…위기분담조항눈길[비즈...",
-  "휴온스,프로당구PBA팀리그역대두번째전승우승…역대세번째10...",
-  "[개장시황]美국채금리재상승…코스피1%대↓",
-  "美국채금리재상승여파코스피1%하락출발…코스닥5%가까이급락...",
-  "이대통령,최태원SK회장과만찬회동…반도체투자현안논의",
   "한은부총재\"금리인상부작용도…균형있게판단\"(종합)",
   "매도사이드카코스닥800선붕괴…코스피약보합출발[시황]",
   "권민수한은부총재취임\"물가목표수준웃돌고가계부채위험\"",
@@ -6001,7 +5991,17 @@
   "[KTNextIT'뜯어보니]고객에게팔AX,KT부터바꾼다…'내부실증→사...",
   "실리콘웨이퍼값3년만에급등…전규격두자릿수인상",
   "[더밸류브리핑]오늘의증권사소식...DB증권·SK증권",
-  "최대110조푸는삼성전자…우선주괴리율축소'시동'[stock&톡]"
+  "최대110조푸는삼성전자…우선주괴리율축소'시동'[stock&톡]",
+  "이대통령-최태원비공개만찬…국내반도체팹과대미투자논의한듯",
+  "최태원'9440억'셈법달라졌다...SK㈜지분안건드릴길열려",
+  "최태원회장,상반기SK㈜서보수17.5억받아…최재원15억",
+  "[산업분석]메모리반도체삼성전자·SK하이닉스,수출259%↑…LTA가늘...",
+  "메모리품귀에엔비디아도무릎…삼성·SK,주도권커졌다",
+  "넥센타이어,양산공장에4MW재생에너지공급…연2,700톤탄소감축",
+  "SK에코플랜트머티리얼즈영명보육원아이들자립에7000만원",
+  "넥센타이어,PPA·자가발전'투트랙'…국내공장재생에너지속도",
+  "Exporters'DollarSellingSurges71%,BoostingWon",
+  "남용수한투운용본부장\"급락장에도펀더멘털견조...하방보다상방,..."
  ],
  "recent_sigs": [
   [
@@ -7015,9 +7015,17 @@
   [
    "2026-08-24T14:21:07.861956+09:00",
    "110조 축소 삼성전자 괴리율 푸는 시동 우선주"
+  ],
+  [
+   "2026-08-24T14:24:04.469034+09:00",
+   "Surges Exporters Selling Boosting Dollar Won"
+  ],
+  [
+   "2026-08-24T14:24:04.469034+09:00",
+   "남용수 펀더멘털 한투운용 상방 하방보다 견조 본부장 급락장에도"
   ]
  ],
- "last_run": "2026-08-24T14:21:30.341602+09:00",
+ "last_run": "2026-08-24T14:24:12.818538+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
