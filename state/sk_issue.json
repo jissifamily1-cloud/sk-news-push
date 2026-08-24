@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01764646645546992",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000002695&cp=nv",
-  "https://www.chosun.com/economy/industry-company/2026/08/13/7RRJGDXMPJED5D3SVVPR7PRRZ4/",
-  "https://www.chosun.com/sports/baseball/2026/08/12/64Z3E2EOMJF7FDNIHGQW7PW2SQ/",
-  "https://www.hani.co.kr/arti/society/society_general/1272653.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635654",
   "https://www.ktv.go.kr/content/view?content_id=759313",
   "https://www.newsis.com/view/NISX20260812_0003746722",
@@ -2999,13 +2994,14 @@
   "https://www.newsis.com/view/NISI20260824_0021408296",
   "https://www.starnewskorea.com/business-life/2026/08/24/2026082410113844230",
   "https://lawtalknews.co.kr/article/V0799K08H7TP",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/64795?feed=na"
+  "https://www.jibs.co.kr/news/articles/articlesDetail/64795?feed=na",
+  "https://www.yna.co.kr/view/PYH20260824039200013?input=1196m",
+  "https://www.newsis.com/view/NISX20260824_0003759590",
+  "https://www.khan.co.kr/article/202608241023001",
+  "https://www.yna.co.kr/view/PYH20260824039500013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260824039600013?input=1196m"
  ],
  "seen_titles": [
-  "'메가·프라임온누리'에약사사회반발…기존회원도'집단대응'",
-  "美압박에‘구글제재’부담커진공정위…구글수수료인하도변수",
-  "대한항공·아시아나항공합병최종승인",
-  "한화,공정위에KAI기업결합심사신청…KAI노조“경쟁사경영참여...",
   "‘스타벅스구호논란’배재고,45일만의공식전서1회전탈락",
   "‘5·18폄하’배재고,봉황대기1회전탈락으로시즌마감",
   "KAI노조“공정위,한화·KAI기업결합불허해야”",
@@ -6001,7 +5997,11 @@
   "\"가습기살균제살인기업처벌하라\"",
   "조이웍스비대위,'키운자와거둔자,판권이전의구조와사각지대'주...",
   "성범죄고소한전여친,한달뒤데이트예약…이증거로무죄가능할...",
-  "조국\"한동훈,녹음틀자?20자리폰비밀번호나풀라..'법꾸라지'\""
+  "조국\"한동훈,녹음틀자?20자리폰비밀번호나풀라..'법꾸라지'\"",
+  "파기환송심출석하는안용찬전애경산업대표",
+  "선수금1000억이상상조회사,'운용심의위'설치해야…공정위행정예고",
+  "선관위특검,서초동에임시사무실마련…본격업무개시",
+  "파기환송심출석하는홍지호전SK케미칼대표"
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-08-24T10:10:57.029644+09:00",
    "판결 파기환송 결심공판 촉구 참사 유죄 가습기살균제"
+  ],
+  [
+   "2026-08-24T10:27:05.014407+09:00",
+   "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T10:20:57.082001+09:00",
+ "last_run": "2026-08-24T10:27:11.386825+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
