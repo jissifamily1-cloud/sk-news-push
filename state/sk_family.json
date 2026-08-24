@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=80575",
-  "http://www.journalist.or.kr/news/article.html?no=61414",
-  "https://www.yna.co.kr/view/AKR20260807090900061?input=1195m",
   "https://www.newspim.com/news/view/20260807000796",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070405&t=NNv",
   "https://www.hellot.net/news/article.html?no=114213",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/local/gwangju-jeonnam/6267654",
   "https://www.newsis.com/view/NISX20260717_0003713194",
   "https://www.hankyung.com/article/202608248905h",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644304"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644304",
+  "https://www.hankyung.com/article/202608079711g",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=271762",
+  "https://news.tf.co.kr/read/national/2357274.htm"
  ],
  "seen_titles": [
-  "‘21년간무늬만부부’최태원·노소영,세기의결별막내린다",
-  "한국전광(주),ESG경영대상환경부문최우수상",
-  "21년간‘쇼윈도부부’…최태원·노소영,세기의결별막내린다",
   "[더벨][두산품에안기는SK실트론]㈜두산-실트론합병구조,넘어야할...",
   "[K-GX에보이는미래③]한병화유진투자증권이사\"3대메가프로젝트...",
   "ESG경영,한국전광'결실'…음저협'실행'",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,광주군공항방문…반도체클러스터심층논의",
   "SK하이닉스,광주반도체산단부지전격방문…사업가속도",
   "SK하이닉스경영진,전남광주군공항방문…반도체클러스터'속도'",
-  "[성공예감]삼성전자주가,주주환원보다더중요한건이겁니다-김학..."
+  "[성공예감]삼성전자주가,주주환원보다더중요한건이겁니다-김학...",
+  "맛피아·장나라·김정난스타집사들도…'세계고양이의날'에'후끈'",
+  "110조배당삼성,40조자사주소각SK하닉…반도체'주주환원전쟁'",
+  "SK하이닉스경영진,광주군공항현장전격방문…반도체클러스터가속..."
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "이겁니다 삼성전자 김학 주주 중요한 주가 환원보다"
   ]
  ],
- "last_run": "2026-08-24T15:10:28.833995+09:00",
+ "last_run": "2026-08-24T15:20:26.642700+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
