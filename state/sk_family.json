@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703171",
-  "https://www.asiatime.co.kr/article/20260810500065",
   "https://news.tf.co.kr/read/economy/2352220.htm",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307245",
   "https://economychosun.com/site/data/html_dir/2026/08/01/2026080100021.html",
@@ -2999,11 +2997,11 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271868",
   "https://slownews.kr/165401",
   "https://www.greened.kr/news/articleView.html?idxno=348316",
-  "http://www.breaknews.com/1231190"
+  "http://www.breaknews.com/1231190",
+  "http://woman.chosun.com/news/articleView.html?idxno=126464",
+  "https://news.dealsitetv.com/articles/174947"
  ],
  "seen_titles": [
-  "최태원,노소영에약1조원지급하나…내주재상고안하면확정",
-  "정성장\"핵잠재력·핵잠수함조기확보해야\"…책·특강넘어'노래'로핵...",
   "SKE&S해킹·산재은폐의혹취재후기\"가족같다던회사가...\"",
   "李대통령,오늘반도체속도전다시챙긴다",
   "[두산그룹줌인]SK실트론인수로반도체'수직계열화'완성...200%근접...",
@@ -6001,7 +5999,9 @@
   "이대통령,최태원이어정의선·이재용만난다…3대메가프로젝트'드...",
   "삼성전자주주800만명시대,이재명지지율40.2%:슬로우레터8월25일...",
   "이재명대통령,올해이재용회장과12회만났다···장인화9회·최태...",
-  "SK하이닉스경영진,광주군공항현장점검…‘호남권반도체클러스터..."
+  "SK하이닉스경영진,광주군공항현장점검…‘호남권반도체클러스터...",
+  "끝나지않은'세기의이혼',SK최태원회장재상고속사정",
+  "[두산,SK실트론인수후]M&A후매각악순환끊을까…종착지아닐수도"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-08-25T07:35:57.257237+09:00",
    "클러스터 점검 경영진 현장 광주 군공항 SK하이닉스 호남권 반도체"
+  ],
+  [
+   "2026-08-25T08:10:15.351928+09:00",
+   "아닐수도 악순환 종착지 매각 끊을까"
+  ],
+  [
+   "2026-08-25T08:10:15.351928+09:00",
+   "세기의 재상고 끝나지 회장 속사정 않은 이혼"
   ]
  ],
- "last_run": "2026-08-25T08:00:48.691007+09:00",
+ "last_run": "2026-08-25T08:10:31.231506+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
