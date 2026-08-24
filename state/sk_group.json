@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260821215803N6o",
-  "https://www.chosun.com/sports/baseball/2026/08/21/5EB26CNE45CSZKG4A42TDERSUI/",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=78453",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=252641",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=599054",
-  "https://dgmbc.com/NewsArticle/857135",
-  "https://www.dkilbo.com/news/articleView.html?idxno=551600",
   "https://www.news1.kr/local/daegu-gyeongbuk/6261939",
   "https://www.topstarnews.net/news/articleView.html?idxno=16166184",
   "https://tk.newdaily.co.kr/site/data/html/2026/08/18/2026081800220.html",
@@ -2999,16 +2992,16 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260825074159y7y",
   "https://kpenews.com/View.aspx?No=4197617",
   "https://www.globale.co.kr/news/articleView.html?idxno=40023",
-  "https://news.bizwatch.co.kr/article/mobile/2026/08/24/0026"
+  "https://news.bizwatch.co.kr/article/mobile/2026/08/24/0026",
+  "https://magazine.hankyung.com/business/article/202608201560b",
+  "https://www.viva100.com/article/20260825500019",
+  "https://biz.sbs.co.kr/article_hub/20000330515?division=NAVER",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=271873",
+  "https://view.asiae.co.kr/article/2026082415222360930",
+  "https://dealsite.co.kr/articles/167365",
+  "https://www.tokenpost.kr/news/cryptocurrency/396985"
  ],
  "seen_titles": [
-  "삼성전자,최대110조원주주환원…3분기에30조원현금배당",
-  "'9점차뒤집고대역전'한화,LG제물로6연패탈출…KIA6연승·3위유지...",
-  "선발무너진한화,불펜박살난LG에대역전승…0-9→15-11(종합)",
-  "[mhn포토]김재희,제가먼저에요",
-  "SK하이닉스노사,성과급체계확바꾼다…60%주식지급",
-  "길종성고양시의원,반도체인재양성과PM안전관리선제대응촉구",
-  "로빈후드장중12.98%상승,미크립토주강세",
   "충남신보,소상공인지원‘내일을여는발전자금’맞손",
   "SK하이닉스,40조원자사주전량소각...주주환원'확'키운다",
   "드리미,180℃가열시스템품은‘아쿠아스팀’첫공개…한국시장...",
@@ -6001,7 +5994,14 @@
   "[3분증시]뉴욕증시,혼조세마감…기술주약세",
   "미래에셋운용,메모리성장성에달러분산더한다..美국채혼합ETF상장",
   "넥슨,〈서든어택〉21주년쇼케이스성료·〈카러플〉프로축구협업",
-  "두나무·비트고등대형사진입…중소수탁업체'진퇴양난'"
+  "두나무·비트고등대형사진입…중소수탁업체'진퇴양난'",
+  "1600원바라보던환율,1300원대로떨어진3가지이유",
+  "대기업영업익246%급증했지만⋯삼전닉스빼면설비투자11%줄었다",
+  "[애프터마켓리뷰]한미약품,비만신약기술수출…\"총계약3.5조원\"",
+  "카카오페이증권,앗실수...안내오류에15억반대매매논란,'20만원상품...",
+  "하이브·JYP·현대차…\"목표주가하향\"쏟아졌다",
+  "[코스피1만의조건]갸우뚱한삼전닉스주주환원책…반도체+α가필요하...",
+  "1,370원대원화,화폐착시논쟁다시불렀다"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,25 @@
   [
    "2026-08-25T07:51:02.037760+09:00",
    "두나무 진퇴양난 비트고 진입 대형사 중소수탁업체"
+  ],
+  [
+   "2026-08-25T08:00:14.714397+09:00",
+   "논란 15억 안내오류에 상품 20만원 카카오페이증권 실수 반대매매"
+  ],
+  [
+   "2026-08-25T08:00:14.714397+09:00",
+   "현대차 JYP 쏟아졌다 하이브 목표주가 하향"
+  ],
+  [
+   "2026-08-25T08:00:14.714397+09:00",
+   "반도체 갸우뚱한 필요하 주주환원책 삼전닉스"
+  ],
+  [
+   "2026-08-25T08:00:14.714397+09:00",
+   "화폐 원화 논쟁 다시 착시 불렀다 370원대"
   ]
  ],
- "last_run": "2026-08-25T07:51:13.733681+09:00",
+ "last_run": "2026-08-25T08:00:28.282100+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
