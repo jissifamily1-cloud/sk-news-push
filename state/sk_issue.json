@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsworldi.com/newsView/20260813513213",
-  "https://www.mydaily.co.kr/page/view/2026081313320456636",
-  "https://www.ytn.co.kr/_ln/0101_202608131339100256",
-  "https://www.hankookilbo.com/news/article/A2026081311400005407?did=NA",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/13/2026081300156.html",
   "https://www.ytn.co.kr/_ln/0102_202608131333386911",
   "https://www.mt.co.kr/society/2026/08/13/2026081311002827539",
   "https://biz.heraldcorp.com/article/10840225",
@@ -2999,14 +2994,14 @@
   "https://www.etoday.co.kr/news/view/2617556",
   "https://www.mt.co.kr/society/2026/08/24/2026082415340349233",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000059145",
-  "https://www.newsis.com/view/NISX20260824_0003760393"
+  "https://www.newsis.com/view/NISX20260824_0003760393",
+  "https://www.edaily.co.kr/News/Read?newsId=03798246645550600&mediaCodeNo=257",
+  "https://www.hani.co.kr/arti/area/yeongnam/1274350.html",
+  "https://www.mk.co.kr/article/12134917",
+  "https://www.edaily.co.kr/News/Read?newsId=03804806645550600&mediaCodeNo=257",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596942336984"
  ],
  "seen_titles": [
-  "'도이치모터스주가조작가담'이모씨징역형집유확정",
-  "세라젬,협력업체'기술탈취'로헬스케어1위?…공정위,갑질행위에'철...",
-  "경찰,'한동훈당게사건'관련국힘서버업체압수수색",
-  "‘도이치주가조작’공범,유죄확정…징역10개월·집행유예2년",
-  "경찰,'한동훈당원게시판사건'압수수색…수사본격화",
   "공정위,배달·오픈마켓·숙박플랫폼들여다본다…수수료·광고비실태...",
   "[온탕냉탕]김지원1억기부부터연예계덮친‘주사이모’경찰조사...",
   "공정위,배달·오픈마켓·숙박플랫폼실태조사…“수수료집중점검”",
@@ -6001,15 +5996,20 @@
   "‘계엄저항’조성현·‘폭로’홍장원도기소…종합특검“가담책임...",
   "180일수사마무리권창영특검…'홍장원·조성현'등공소유지주목",
   "\"짝사랑해서\"…여성직장동료납치·감금한30대긴급체포",
-  "변호사대회서'檢보완수사폐지'우려쏟아져…\"사람이다쳐\""
+  "변호사대회서'檢보완수사폐지'우려쏟아져…\"사람이다쳐\"",
+  "주병기\"가맹점교섭요건과도…시행령수정안마련\"",
+  "‘관권선거’개입관련전·현직경남도공무원등4명사전영장신청",
+  "180일수사마무리한종합특검…결론못낸46건은국수본이첩",
+  "종합특검,미제46건국수본으로…권창영\"상설특수본설치해야\"",
+  "과거폭발사고다시도마위…김종화SK지오센트릭대표'안전경영'시험..."
  ],
  "recent_sigs": [
   [
-   "2026-08-24T10:27:05.014407+09:00",
-   "출석하는 SK케미칼 홍지호 파기환송심 대표"
+   "2026-08-24T16:31:06.297390+09:00",
+   "폭발사고 SK지오센트릭 도마 김종화 다시 시험 대표 안전경영 과거"
   ]
  ],
- "last_run": "2026-08-24T16:20:53.246635+09:00",
+ "last_run": "2026-08-24T16:31:15.380194+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6074,6 +6074,7 @@
   "yonhapnewstv.co.kr": "연합뉴스TV",
   "the-today.com": "더투데이",
   "gjdream.com": "드림투데이",
-  "pennmike.com": "펜앤마이크"
+  "pennmike.com": "펜앤마이크",
+  "megaeconomy.co.kr": "megaeconomy.co.kr"
  }
 }
