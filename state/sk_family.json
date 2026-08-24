@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049329",
-  "https://www.sedaily.com/article/20077252",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544132",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000001409&cp=nv",
-  "https://www.kado.net/news/articleView.html?idxno=2065515",
-  "http://www.knpnews.com/news/articleView.html?idxno=34264",
   "http://www.yonhapnewstv.co.kr/news/AKR20260809094516UWz",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211177",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005896857",
@@ -2999,15 +2993,15 @@
   "https://www.greened.kr/news/articleView.html?idxno=348300",
   "https://www.dt.co.kr/article/12079891",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071505",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3659298"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3659298",
+  "https://www.dailian.co.kr/news/view/1681733/?sc=Naver",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1398638",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7180399",
+  "https://www.kpinews.kr/newsView/1065597448649231",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=316589",
+  "https://kjmbc.co.kr/NewsArticle/1533615"
  ],
  "seen_titles": [
-  "실화영화'47년7개월-어느여교수의외출'21일기자시사회",
-  "메모리치킨게임엄습,장기계약은매직카드일까[AI칩인사이드]",
-  "SK하이닉스노사'성과급주식지급'평행선,곽노정'N%성과급'법적논...",
-  "재상고기한'D-5'…최태원·노소영'세기의이혼'대법원가나",
-  "‘짤방’으로이해하는K-주식세계",
-  "최태원·노소영재상고기한임박…‘재산분할금1조원’확정되나",
   "최태원,노소영에1조원지급하나…17일까지재상고안하면확정",
   "최태원,노소영에약1조원지급하나...역대최대이혼소송재산분할금",
   "어린이·가족뮤지컬'나는반딧불'박신애음악감독\"원곡감동,무대서...",
@@ -6001,17 +5995,15 @@
   "SK하이닉스경영진,광주군공항전격방문…'호남반도체클러스터'판...",
   "[이슈&트렌드]호남반도체공장발표에부상하는SMR대안론",
   "[인사]대구시민선9기첫5급이하",
-  "[인사]대구광역시5급이하인사발령"
+  "[인사]대구광역시5급이하인사발령",
+  "4대그룹총수,대통령과올해33차례대면…연쇄회동이어간다",
+  "SK하이닉스,광주군공항방문…호남권반도체클러스터청사진구체화",
+  "SK하이닉스경영진,광주군공항방문…반도체공장부지점검",
+  "SK하이닉스,광주군공항현장점검…호남반도체클러스터논의'구체...",
+  "이재명대통령,4대그룹총수와연쇄회동···첨단산업현안논의",
+  "SK하이닉스,광주서채용설명회열어"
  ],
  "recent_sigs": [
-  [
-   "2026-08-24T11:10:17.616399+09:00",
-   "삼성전자와 규제 SK하이닉스 주주환원 이유는 방식 지배구조와 다른"
-  ],
-  [
-   "2026-08-24T11:20:13.326778+09:00",
-   "배당 자사주 닉스 유리한 선택은 소각 vs 투자 삼전"
-  ],
   [
    "2026-08-24T13:20:15.434249+09:00",
    "릴레이 회동 대통령과 핵심 총수 4대그룹 현안은"
@@ -6067,9 +6059,17 @@
   [
    "2026-08-24T17:07:43.366948+09:00",
    "반도체 호남 대안론 발표에 SMR 공장 부상하는"
+  ],
+  [
+   "2026-08-24T17:20:16.321862+09:00",
+   "총수와 연쇄회동 대통령 현안 논의 첨단산업 4대 이재명"
+  ],
+  [
+   "2026-08-24T17:20:16.321862+09:00",
+   "채용설명회 SK하이닉스 광주서 열어"
   ]
  ],
- "last_run": "2026-08-24T17:10:25.345308+09:00",
+ "last_run": "2026-08-24T17:20:31.375183+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
