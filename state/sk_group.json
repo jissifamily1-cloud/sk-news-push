@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://kor.theasian.asia/archives/412729",
-  "https://www.tokenpost.kr/news/cryptocurrency/395378",
-  "http://www.fnnews.com/news/202608220525118724",
-  "https://www.segye.com/newsView/20260819515451?OutUrl=naver",
-  "https://www.nocutnews.co.kr/news/6566254",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=225111",
   "https://www.nocutnews.co.kr/news/6566346",
   "https://www.mediapen.com/news/view/1118159",
@@ -2999,14 +2994,14 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236402",
   "https://www.cbci.co.kr/news/articleView.html?idxno=600863",
   "https://www.sedaily.com/article/20082810",
-  "https://www.dailian.co.kr/news/view/1681791/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1681791/?sc=Naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250284&t=NN",
+  "https://www.seoulfn.com/news/articleView.html?idxno=636331",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260825065226nP8",
+  "https://www.mediapen.com/news/view/1118587",
+  "https://news.bizwatch.co.kr/article/industry/2026/08/24/0044"
  ],
  "seen_titles": [
-  "삼전닉스주주환원기대에코스피↑…코스닥은4%대'뚝'",
-  "매출470억위안,양쯔메모리세계3위제시",
-  "코스피,강보합에6900선회복...삼성생명,삼성물산상승VS삼성전기,...",
-  "檢,'노태우비자금의혹'압수수색…'세기의이혼'여파",
-  "“또쪼개기상장”에카카오160만주주‘부들부들’…새로상장하는...",
   "SK'100조투자'어디로…'여수묘도'급부상",
   "노태우비자금은끝나지않았다…환수가능할까",
   "반도체산단에복합쇼핑몰까지...광주부동산'꿈틀'",
@@ -6001,7 +5996,12 @@
   "미국의AI데이터센터반대운동과대한민국",
   "뉴욕증시혼조마감…엔비디아7거래일연속하락,반도체주흔들",
   "‘내가이걸왜샀을까’코스닥개미들비명터졌는데…“이제가격움...",
-  "장미란씨가족,서울서2차신고…“성인인데가출아니냐”경찰대응..."
+  "장미란씨가족,서울서2차신고…“성인인데가출아니냐”경찰대응...",
+  "\"같은주주환원인데삼전-8%\"…'110조vs40조'엇갈린온도차,이유는",
+  "[뉴욕증시]국채금리꺾였는데기술주'팔자'···엔비디아!반도체주...",
+  "[AM-PM]이대통령,오늘민주당신임지도부초청만찬外",
+  "[美증시]트럼프애플중국산칩수입허용루머에메모리주'휘청'",
+  "K-배터리,ESS넘어로봇용전고체본다"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,21 @@
   [
    "2026-08-25T06:51:05.255896+09:00",
    "경찰 신고 성인인데 아니냐 2차 서울서 장미란씨 가족 가출 대응"
+  ],
+  [
+   "2026-08-25T06:59:05.783864+09:00",
+   "민주당 만찬 지도부 신임 대통령 초청"
+  ],
+  [
+   "2026-08-25T06:59:05.783864+09:00",
+   "메모리주 휘청 중국산칩 애플 트럼프 루머에 수입 허용"
+  ],
+  [
+   "2026-08-25T06:59:05.783864+09:00",
+   "ESS 넘어 로봇용 본다 배터리 전고체"
   ]
  ],
- "last_run": "2026-08-25T06:51:13.527560+09:00",
+ "last_run": "2026-08-25T06:59:17.679355+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
