@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.nongaek.com/news/articleView.html?idxno=96394",
-  "https://www.hankookilbo.com/news/article/A2026081314310000707?did=NA",
-  "http://www.joseilbo.com/news/news_read.php?uid=573795&class=32",
-  "http://www.fnnews.com/news/202608131449151164",
   "https://www.dt.co.kr/article/12078181",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051185",
   "https://www.newspim.com/news/view/20260813001061",
@@ -2999,13 +2995,13 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=741096",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1099456",
   "https://news.jtbc.co.kr/article/NB12314860?influxDiv=NAVER",
-  "https://www.hankyung.com/article/2026082496897"
+  "https://www.hankyung.com/article/2026082496897",
+  "https://www.cnbizm.com/news/articleView.html?idxno=312536",
+  "https://www.namdonews.com/news/articleView.html?idxno=920982",
+  "https://www.edaily.co.kr/News/Read?newsId=04346006645550600&mediaCodeNo=257",
+  "https://www.mt.co.kr/politics/2026/08/24/2026082418400740411"
  ],
  "seen_titles": [
-  "'코인출금중단700억편취'혐의델리오대표…1심징역15년",
-  "“아이얼굴도못봤는데…”49재서울려퍼진유족의호소",
-  "공정위,지급보증의무화대상'계약갱신'범위구체화",
-  "고물가·한파뚫고쑥쑥…토종프랜차이즈성공방정식",
   "공정위,쿠팡·배민등실태조사착수…수수료·피해사례파악",
   "'2500억원규모코인출금중단'델리오대표,1심서실형선고",
   "다올금융이병철회장,'쇠고랑'찰수도…불법으로계열사자금지원...",
@@ -6001,7 +5997,11 @@
   "[전문]노웅래\"한동훈,조작기소피해자들에게사과하라\"·韓\"李공소...",
   "공정위,상조회사선수금운용내부통제강화…'선불식할부거래지침...",
   "'딥페이크·관권선거의혹'전·현직경남도청공무원등4명구속영장",
-  "직장동료빈집에가둔30대긴급체포…\"좋아해서\""
+  "직장동료빈집에가둔30대긴급체포…\"좋아해서\"",
+  "이강일,가맹점주단체'30명문턱'제동…공정위\"의견수렴해수정\"",
+  "매크로로프로야구표싹쓸이…1억6천만원암표판19명검거",
+  "매크로로야구표싹쓸이...1.6억어치암표판매한개발자와암표상검...",
+  "한동훈\"보완수사안전장치라던바디캠,수사누락땐무용지물\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "결심공판 대표 SK케미칼 앞둔 홍지호"
   ]
  ],
- "last_run": "2026-08-24T18:40:57.550057+09:00",
+ "last_run": "2026-08-24T18:50:54.107712+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
