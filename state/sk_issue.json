@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25453034",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636150",
-  "https://www.hani.co.kr/arti/society/society_general/1272706.html",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04703526645546992",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390131.html",
-  "https://www.naeil.com/news/read/598785",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390125.html",
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19708",
-  "https://www.munhwa.com/article/11609319",
   "https://www.munhwa.com/article/11609324",
   "https://www.munhwa.com/article/11609341",
   "https://www.munhwa.com/article/11609346",
@@ -2999,18 +2990,18 @@
   "http://www.metroseoul.co.kr/article/20260824500396",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83735",
   "https://www.news1.kr/local/gwangju-jeonnam/6267709",
-  "http://www.joseilbo.com/news/news_read.php?uid=574364&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=574364&class=32",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=120743",
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1549229",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1330240",
+  "https://www.ajunews.com/view/20260824153949856",
+  "https://www.yna.co.kr/view/AKR20260824123000054?input=1195m",
+  "https://www.sportschosun.com/football/2026-08-24/202608240100141980009071",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490161.html",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261183&CMPT_CD=P0010",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072962"
  ],
  "seen_titles": [
-  "'도이치주가조작'공범…대법서징역형집행유예·벌금확정",
-  "대포폰쓰고계좌돌려가며스테로이드판매…12명검거",
-  "법무법인화우'경찰통'신재문·김도경영입…형소법대응인력강화",
-  "경찰,'당원게시판의혹'첫압수수색…'한동훈당게사건'수사속도",
-  "법무법인화우,‘경찰수사실무경험’신재문·김도경변호사영입",
-  "국힘,'당협물갈이'의견수렴키로…\"지선활동미흡한당협교체\"",
-  "[속보]‘도이치주가조작’공범징역형집행유예확정…벌금4000만원",
-  "경찰,‘고위험코인선물투자유도’유사투자자문업체압수수색",
-  "경찰,국민의힘‘한동훈당원게시판사건’관련압수수색",
   "'도이치주가조작공범'이준수,대법서징역형집유확정",
   "경찰,'국민의힘당원게시판'서버관리업체압수수색",
   "‘도이치모터스주가조작’공범이준수유죄확정",
@@ -6001,7 +5992,16 @@
   "상조회사고위험자산투자깐깐해진다…선수금1000억원넘으면심의...",
   "경찰,'대웅제약리베이트유출'압수수색...사측\"확인어렵다\"무응답",
   "\"좋아해서\"직장동료차에태워빈집서16시간감금30대체포",
-  "종합특검\"쌍방울대북송금,대통령실개입시도…국정농단\""
+  "종합특검\"쌍방울대북송금,대통령실개입시도…국정농단\"",
+  "'판촉비납품업체전가·반품까지'GS리테일'갑질',대법원\"과징금10억...",
+  "박완수캠프‘딥페이크·관권선거의혹’…전·현직공무원등4명구...",
+  "HL만도사망유족,정몽원회장중처법위반고소·고발",
+  "경찰\"축구협회심판성접대의혹,공소시효지나수사어려워\"",
+  "광주경찰,'프로야구암표매크로'개발자·암표상검거",
+  "日에이어中도,KFA성접대의혹에전격조사진행한중국축구협회\"증...",
+  "'위장전입의혹'…경찰,손화정영종구청장수사",
+  "[단독]이화영\"국정원자료제대로제출됐다면유죄가능했겠나\"",
+  "고김승모대책위\"HL그룹정몽원중대재해법입건하라\""
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T15:40:55.477160+09:00",
+ "last_run": "2026-08-24T15:50:57.417104+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
