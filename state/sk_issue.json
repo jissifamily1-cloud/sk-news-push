@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202608120173",
-  "https://dealsite.co.kr/articles/166904",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244880",
-  "https://dealsite.co.kr/articles/166989",
-  "https://www.segye.com/newsView/20260812524622?OutUrl=naver",
-  "https://www.yna.co.kr/view/AKR20260813013600011?input=1195m",
   "http://www.breaknews.com/1228677",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000056456",
   "https://www.segye.com/newsView/20260813504467?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026082410415290792",
   "https://www.yna.co.kr/view/AKR20260824060500004?input=1195m",
   "https://biz.heraldcorp.com/article/10849785",
-  "https://news.tf.co.kr/read/photomovie/2357082.htm"
+  "https://news.tf.co.kr/read/photomovie/2357082.htm",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=227612",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052719",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400132.html",
+  "https://biz.heraldcorp.com/article/10849859",
+  "https://news.tf.co.kr/read/life/2357122.htm",
+  "https://www.newspim.com/news/view/20260824000486"
  ],
  "seen_titles": [
-  "샤이니키·온유,전현무까지…경찰,‘주사이모의혹’연루의심관계...",
-  "'한국축구또국제적망신'英BBC까지대서특필...대한축구협회성접...",
-  "도이치모터스주가조작공범,오늘대법선고…2심징역형집행유예",
-  "文정부노영민·김현미'채용청탁·외압혐의'오늘1심결론",
-  "HL만도고김승모대책위출범",
-  "‘나혼산’멤버들잔혹사?…박나래·전현무·키연달아경찰출석하게...",
   "반도체온실가스90%제거…녹색대전환이끄는한국환경산업기술원[정...",
   "[금융ESG경영]ESG67조쌓은우리금융…커진몸집에'관리체계'숙제",
   "[오늘의주요일정·13일]행안부,폭염·가뭄재난대응중앙재난안전대...",
@@ -6001,7 +5995,13 @@
   "'180일수사'종합특검,尹부부등58명기소…·핵심의혹상당수결론...",
   "[일지]종합특검팀출범부터수사결과발표까지",
   "‘헌법의검’자처한종합특검…수사역량,기관갈등논란만남긴채5...",
-  "홍지호·안용찬'가습기살균제참사'파기환송결심공판출석[TF사진관..."
+  "홍지호·안용찬'가습기살균제참사'파기환송결심공판출석[TF사진관...",
+  "[에너지칼럼]COP33유치,대한민국정부가지금선언해야한다",
+  "공정위,상조업계선수금관리까다로워진다",
+  "“통합되면쓸래”…대한항공·아시아나,특별공급에도잔여마일리지...",
+  "종합특검,58명기소로종료…중립성훼손등잇단잡음",
+  "'180일수사'종합특검…윤석열·김건희등60명재판행",
+  "종합특검,윤석열·김건희등58명기소로180일간수사종료"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T11:10:58.860575+09:00",
+ "last_run": "2026-08-24T11:20:52.619545+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
