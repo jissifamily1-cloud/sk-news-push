@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260807000796",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070405&t=NNv",
-  "https://www.hellot.net/news/article.html?no=114213",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070393&t=NNv",
-  "https://www.pennmike.com/news/articleView.html?idxno=125175",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457139",
   "https://www.kwnews.co.kr/article/20260807500273",
   "https://www.kado.net/news/articleView.html?idxno=2065463",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644304",
   "https://www.hankyung.com/article/202608079711g",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271762",
-  "https://news.tf.co.kr/read/national/2357274.htm"
+  "https://news.tf.co.kr/read/national/2357274.htm",
+  "https://www.news1.kr/entertain/interview/6267482",
+  "https://www.jbnews.com/news/articleView.html?idxno=1509993",
+  "https://news.jtbc.co.kr/article/NB12314768?influxDiv=NAVER",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=663002",
+  "http://www.fnnews.com/news/202608241453384430"
  ],
  "seen_titles": [
-  "[더벨][두산품에안기는SK실트론]㈜두산-실트론합병구조,넘어야할...",
-  "[K-GX에보이는미래③]한병화유진투자증권이사\"3대메가프로젝트...",
-  "ESG경영,한국전광'결실'…음저협'실행'",
-  "한국전광,'ESG경영대상'환경부문중소기업최우수상수상",
-  "[재계핫이슈]한국경제의국가자본주의화,이재용최태원의'책임'",
   "[기자수첩]오비이락(烏飛梨落)",
   "[기업해부SK④]SK는어떻게돈을버는가…계열사구조와현금흐름의비...",
   "‘선관위특검’최종후보2인,14일에나온다",
@@ -6001,7 +5996,12 @@
   "[성공예감]삼성전자주가,주주환원보다더중요한건이겁니다-김학...",
   "맛피아·장나라·김정난스타집사들도…'세계고양이의날'에'후끈'",
   "110조배당삼성,40조자사주소각SK하닉…반도체'주주환원전쟁'",
-  "SK하이닉스경영진,광주군공항현장전격방문…반도체클러스터가속..."
+  "SK하이닉스경영진,광주군공항현장전격방문…반도체클러스터가속...",
+  "어린이·가족뮤지컬'나는반딧불'최유경\"큰감동·힐링얻어갈것\"...",
+  "보령컵국제요트대회폐막…11개국선수85명'바다위열전'",
+  "SK하이닉스경영진,광주군공항또찾았다…반도체클러스터속도",
+  "SK하이닉스,광주군공항부지점검",
+  "광주특별시\"SK하이닉스,광주군공항현장전격방문...반도체클러스..."
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "이겁니다 삼성전자 김학 주주 중요한 주가 환원보다"
   ]
  ],
- "last_run": "2026-08-24T15:20:26.642700+09:00",
+ "last_run": "2026-08-24T15:30:34.114576+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
