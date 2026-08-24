@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1007630562&plink=ORI&cooper=NAVER",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635584",
-  "https://view.asiae.co.kr/article/2026081310383662675",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258780&CMPT_CD=P0010",
-  "https://www.yna.co.kr/view/AKR20260813064100001?input=1195m",
-  "https://www.chosun.com/economy/economy_general/2026/08/13/HPAVDZGJYNGJ3E35VX27X7YWK4/",
-  "https://www.kukinews.com/article/view/kuk202608130057",
-  "https://www.ytn.co.kr/_ln/0102_202608131041546113",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544907",
   "https://www.dt.co.kr/article/12078085",
   "https://www.ytn.co.kr/_ln/0101_202608131046254245",
@@ -2999,17 +2991,17 @@
   "https://www.dailian.co.kr/news/view/1356736/?sc=Naver",
   "http://www.seouleconews.com/news/articleView.html?idxno=77366",
   "https://www.pointe.co.kr/news/articleView.html?idxno=22391",
-  "https://www.etnews.com/20240430000311"
+  "https://www.etnews.com/20240430000311",
+  "http://www.sisajournal.com/news/articleView.html?idxno=289648",
+  "http://www.4th.kr/news/articleView.html?idxno=2061717",
+  "https://isplus.com/article/view/isp202404300120",
+  "https://www.asiatoday.co.kr/view.php?key=20240430010016820",
+  "http://www.metroseoul.co.kr/article/20240430500326",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=705048",
+  "https://www.mt.co.kr/policy/2026/08/24/2026082414090951213",
+  "https://www.newscj.com/news/articleView.html?idxno=3427300"
  ],
  "seen_titles": [
-  "같은그룹사에불법채무보증한SK계열사,과징금제재",
-  "\"위장계열사간채무보증\"...공정위,SK소속회사에과징금1.5억",
-  "공정위,SK위장계열사통한채무보증적발…과징금1.5억부과",
-  "중소인쇄업계\"인쇄용지제지사,일방적가격인상철회해야\"",
-  "연예인악플쓰고트위터계정지웠는데…'해외라못잡는다'는말,정말...",
-  "법무법인화우,'경찰수사통'신재문·김도경파트너변호사영입",
-  "\"위장계열사로부당채무보증\"…공정위,SK계열사에과징금",
-  "공정위,쿠팡·배민등플랫폼거래구조전방위점검",
   "화우,경찰수사간부출신신재문·김도경변호사영입",
   "외신에사진보냈더니'적대국협력'...언론압박거세지는이란",
   "與\"홈플러스정상영업환영…완전한정상화까지함께할것\"",
@@ -6001,7 +5993,15 @@
   "공정위,SK소속회사‘계열사채무보증위반’제재…과징금1.5억",
   "공정위,'최태원여동생'자산관리회사에과징금1억5300만원",
   "SK위장계열사통해채무보증...공정위,과징금1.5억부과",
-  "공정위,SK소속사에과징금…“계열사에위법한채무보증”"
+  "공정위,SK소속사에과징금…“계열사에위법한채무보증”",
+  "공정위,SK계열사제재…\"계열사간채무보증금지규정위반\"",
+  "SK그룹계열킨앤파트너스'위법채무보증'1.5억과징금",
+  "공정위,'불법채무보증'SK소속회사에과징금부과",
+  "SK계열사,위장법인으로120억채무보증…과징금1.5억부과",
+  "공정위,'채무보증금지위반'SK플레이스포에과징금1.5억원부과",
+  "공정위,SK계열사에과징금1억5300만…채무보증금지위반",
+  "광주경찰,매크로로프로야구입장권선점개발자1명·판매자18명검거",
+  "\"프로야구표싹쓸이\"…매크로암표상19명검거"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T14:23:54.161890+09:00",
+ "last_run": "2026-08-24T14:31:04.339708+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
