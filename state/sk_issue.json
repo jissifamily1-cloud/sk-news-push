@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1228677",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000056456",
-  "https://www.segye.com/newsView/20260813504467?OutUrl=naver",
-  "http://www.osen.co.kr/article/G1112856190",
-  "https://www.mk.co.kr/article/12125889",
-  "https://www.munhwa.com/article/11609198",
-  "http://tbs.seoul.kr/news/newsView.do?typ_800=6&idx_800=3537839&seq_800=20530722",
-  "https://www.sidae.com/article/2026081307315912829",
-  "https://www.newspim.com/news/view/20260813000052",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050875",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608111136492760101576",
   "https://www.kukinews.com/article/view/kuk202608130018",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065611626571263",
@@ -2999,19 +2989,19 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400132.html",
   "https://biz.heraldcorp.com/article/10849859",
   "https://news.tf.co.kr/read/life/2357122.htm",
-  "https://www.newspim.com/news/view/20260824000486"
+  "https://www.newspim.com/news/view/20260824000486",
+  "https://www.insight.co.kr/news/569705",
+  "http://www.queen.co.kr/news/articleView.html?idxno=462143",
+  "https://www.news1.kr/industry/distribution/6267357",
+  "https://biz.chosun.com/industry/company/2026/08/24/TSEQAKACWVHLHBMNJ4PNKJQ67E/",
+  "https://www.fntimes.com/html/view.php?ud=202608241032491563094b7542a8_18",
+  "https://www.chosun.com/national/court_law/2026/08/24/ARZ7VT4HKFFIRDZIHWDQBOOL3M/",
+  "https://imnews.imbc.com/news/2026/society/article/6846824_36918.html",
+  "https://www.newsis.com/view/NISX20260824_0003759797",
+  "https://www.edaily.co.kr/News/Read?newsId=02784726645550600&mediaCodeNo=257",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644198"
  ],
  "seen_titles": [
-  "반도체온실가스90%제거…녹색대전환이끄는한국환경산업기술원[정...",
-  "[금융ESG경영]ESG67조쌓은우리금융…커진몸집에'관리체계'숙제",
-  "[오늘의주요일정·13일]행안부,폭염·가뭄재난대응중앙재난안전대...",
-  "사조푸디스트,저가라인업까지장착…그룹매출10조달성첨병",
-  "[법조브리핑]“이재명기다리느라계엄해제표결미뤄”外",
-  "[연합뉴스이시각헤드라인]-07:30",
-  "국민의힘,장동혁·정점식지도부“국정난맥·사법파행바로잡을것...",
-  "조은석배정피하려?…감사원,'尹관저이전'주심배당조작정황",
-  "“나죽으면광화문서싸워달라”…가습기살균제피해자단체대표사망",
-  "'한국축구가어쩌다여기까지'BBC대서특필...외국인심판성접대의혹...",
   "“많이죄송하고또감사하다”…다시한번고개숙인배재고주장",
   "이준석“사전투표서투표율오입력단한건도안나와…부정선거론자...",
   "'관저의혹'조은석주심피하려했나…종합특검,'감사원배당조작정...",
@@ -6001,7 +5991,17 @@
   "“통합되면쓸래”…대한항공·아시아나,특별공급에도잔여마일리지...",
   "종합특검,58명기소로종료…중립성훼손등잇단잡음",
   "'180일수사'종합특검…윤석열·김건희등60명재판행",
-  "종합특검,윤석열·김건희등58명기소로180일간수사종료"
+  "종합특검,윤석열·김건희등58명기소로180일간수사종료",
+  "'납품업체에판촉비전가'GS리테일,과징금10억확정",
+  "조이웍스비대위,유통·패션산업'육성-회수'구조에제도개선촉구...",
+  "조이웍스비대위\"호카판권이전,중소기업보호제도없어\"",
+  "‘석유최고가제’보상두고갈라진정유업계…사법리스크에셈법복...",
+  "조이웍스,이랜드호카판권확보지적...\"중소기업보호장치시급\"",
+  "6개월달린2차특검,미처리사건46건·150명경찰로이첩",
+  "작업중기계끼여사망노동자유족,HL만도정몽원회장고소",
+  "경찰,'골프장대출'관련경남농협2차압수수색",
+  "종합특검,180일만에尹등58명기소…미처리46건은이첩",
+  "HL만도평택공장산재사망고김승모유가족,HL그룹회장고소·고발"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T11:34:23.469733+09:00",
+ "last_run": "2026-08-24T11:40:51.683312+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
