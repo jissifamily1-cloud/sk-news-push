@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/society/2026/08/09/2026080913460314750",
-  "https://www.m-i.kr/news/articleView.html?idxno=1400306",
-  "https://www.ytn.co.kr/_ln/0103_202608091412179811",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=877395",
   "https://www.ajunews.com/view/20260809133154615",
   "https://www.ytn.co.kr/_ln/0103_202608091439359244",
   "https://www.kyeonggi.com/article/20260809580126",
@@ -2999,13 +2995,13 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644476",
   "https://www.ytn.co.kr/_ln/0101_202608241910475953",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260825.22018006834",
-  "https://www.dt.co.kr/article/12079932"
+  "https://www.dt.co.kr/article/12079932",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546748",
+  "http://www.kjdaily.com/article.php?aid=1787567759685133004",
+  "http://www.segyebiz.com/newsView/20260824517074?OutUrl=naver",
+  "http://www.kjdaily.com/article.php?aid=1787567759685130002"
  ],
  "seen_titles": [
-  "대구시5급인사",
-  "최태원,노소영에1조원지급할까…‘9440억원분할’법정싸움,이번주...",
-  "최태원,노소영에약1조원지급하나...다음주쯤가닥",
-  "SK하이닉스54조시설투자…최태원\"공급늘려가격낮춰야\"",
   "[인사]강원특별자치도교육청2026년8월13일자",
   "최태원·노소영소송,17일분수령",
   "최태원·노소영9440억재산분할확정기로…재상고여부이번주결정",
@@ -6001,7 +5997,11 @@
   "응급실·대학병원접근성최악…“의료정책재설계필요”",
   "이대통령,최태원이어정의선·이재용연쇄회동할듯...'3대메가'등...",
   "[화요경제항산항심]글로벌경제시대의한국재벌총수들",
-  "[기획]110조도역부족…주주환원덫걸린삼전"
+  "[기획]110조도역부족…주주환원덫걸린삼전",
+  "서울폭염경보…열대야다시시작",
+  "전남환자10명중6명‘원정진료’…통합의료체계시급",
+  "최태원이어이재용·정의선만나는이대통령…투자현안점검",
+  "SK하이닉스,광주군공항또찾아…반도체클러스터구체화"
  ],
  "recent_sigs": [
   [
@@ -6093,7 +6093,7 @@
    "걸린 110조도 삼전 역부족 주주환원"
   ]
  ],
- "last_run": "2026-08-24T19:40:24.047564+09:00",
+ "last_run": "2026-08-24T19:50:15.458886+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
