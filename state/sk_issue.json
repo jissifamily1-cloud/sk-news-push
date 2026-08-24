@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20240430500326",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=705048",
-  "https://www.mk.co.kr/article/11004060",
-  "https://www.hankookilbo.com/News/Read/A2024043010170004032?did=NA",
-  "https://biz.chosun.com/policy/policy_sub/2024/04/30/C2A4DVZF2FE7XEBGCNNMFC7I2U/",
-  "https://www.dailian.co.kr/news/view/1677986/?sc=Naver",
-  "https://lawtalknews.co.kr/article/Y6DQZGSQ1II1",
-  "https://www.mt.co.kr/society/2026/08/13/2026081310145323889",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1007630562&plink=ORI&cooper=NAVER",
   "https://www.seoulfn.com/news/articleView.html?idxno=635584",
   "https://view.asiae.co.kr/article/2026081310383662675",
@@ -2999,17 +2991,17 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490138.html",
   "https://news.ifm.kr/news/articleView.html?idxno=477800",
   "https://www.kyeonggi.com/article/20260824580246",
-  "https://www.mt.co.kr/society/2026/08/24/2026082414000888436"
+  "https://www.mt.co.kr/society/2026/08/24/2026082414000888436",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003026178&CMPT_CD=P0010",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=79874",
+  "https://news.mtn.co.kr/news-detail/2024043016322397431",
+  "http://www.srtimes.kr/news/articleView.html?idxno=155543",
+  "https://www.dailian.co.kr/news/view/1356736/?sc=Naver",
+  "http://www.seouleconews.com/news/articleView.html?idxno=77366",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=22391",
+  "https://www.etnews.com/20240430000311"
  ],
  "seen_titles": [
-  "누적방문객1만명…경찰관도드나든‘기업형성매매업소’적발",
-  "이병철다올금융회장,'3000억원불법지원의혹'피의자조사",
-  "공정위,SK계열사제재…\"계열사간채무보증금지규정위반\"",
-  "SK그룹계열킨앤파트너스'위법채무보증'1.5억과징금",
-  "공정위,'불법채무보증'SK소속회사에과징금부과",
-  "SK계열사,위장법인으로120억채무보증…과징금1.5억부과",
-  "공정위,'채무보증금지위반'SK플레이스포에과징금1.5억원부과",
-  "공정위,SK계열사에과징금1억5300만…채무보증금지위반",
   "같은그룹사에불법채무보증한SK계열사,과징금제재",
   "\"위장계열사간채무보증\"...공정위,SK소속회사에과징금1.5억",
   "공정위,SK위장계열사통한채무보증적발…과징금1.5억부과",
@@ -6001,7 +5993,15 @@
   "특검\"김건희디올백수사팀,조사전불기소초안작성…수사무마정황...",
   "경,손화정영종구청장'선거법위반'수사",
   "경찰,‘위장전입의혹’손화정영종구청장수사…국회사무처등압수...",
-  "180일수사마무리…권창영종합특검\"남은사건,특수본설치해수사해..."
+  "180일수사마무리…권창영종합특검\"남은사건,특수본설치해수사해...",
+  "'대장동연루'SK최태원동생위장계열사,결국제재",
+  "계열사간부당채무보증…공정위,SK계열사에과징금",
+  "부당한채무보증한SK계열플레이스포에과징금부과",
+  "공정위,SK소속계열사제재…\"같은그룹사에100억연대보증\"",
+  "공정위,SK소속회사‘계열사채무보증위반’제재…과징금1.5억",
+  "공정위,'최태원여동생'자산관리회사에과징금1억5300만원",
+  "SK위장계열사통해채무보증...공정위,과징금1.5억부과",
+  "공정위,SK소속사에과징금…“계열사에위법한채무보증”"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "출석하는 SK케미칼 홍지호 파기환송심 대표"
   ]
  ],
- "last_run": "2026-08-24T14:20:57.441086+09:00",
+ "last_run": "2026-08-24T14:23:54.161890+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
