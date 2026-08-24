@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855150",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608030431361340106881",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790063.html",
   "https://www.mhns.co.kr/news/articleView.html?idxno=755828",
   "https://www.newspim.com/news/view/20260807000064",
   "https://news.unn.net/news/articleView.html?idxno=595646",
@@ -2999,12 +2996,12 @@
   "https://www.sidae.com/article/2026082413480044444",
   "https://biz.chosun.com/industry/company/2026/08/24/LRYCTZKKJBE57FYO5RNH6XZ3AQ/",
   "https://www.newsis.com/view/NISX20260824_0003760087",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608240189&t=NNv"
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608240189&t=NNv",
+  "https://magazine.hankyung.com/business/article/202608068614b",
+  "https://www.m-i.kr/news/articleView.html?idxno=1405268",
+  "https://www.the-today.com/news/articleView.html?idxno=88868"
  ],
  "seen_titles": [
-  "구광모,내주실리콘밸리서젠슨황재회…로봇·AI데이터센터·모빌리...",
-  "더투데이최태원단독기사100만뷰돌파…한달누적500만건",
-  "'멸종위기1급'여우28마리소백산방사…GPS로2년간추적",
   "[최형철칼럼]노소영9440억원이말하지않은것",
   "최태원·노소영뛰어넘는재산분할…권혁빈조단위이혼소송에쏠리는...",
   "[박상병칼럼]AI혁명과국제AI기구,그리고대한민국",
@@ -6001,7 +5998,10 @@
   "전남권의료기관접근성전국최악",
   "그룹전성기이끌었지만본인사업은휘청…최창원SK수펙스의장거취...",
   "전남의료접근성전국최악…수술환자절반이상광주·서울로",
-  "삼성SDI,ESS에4조붓는다‥\"삼성D9조지분유지\""
+  "삼성SDI,ESS에4조붓는다‥\"삼성D9조지분유지\"",
+  "잘나가던하이닉스는왜…주식은‘롱’과‘숏’의전쟁터",
+  "4대그룹,'사업다이어트'속도…한계법인청산·비핵심지분매각집...",
+  "[이슈]박정원두산,SK실트론'2.6조빚'도삼키나…9477억팔고1조빌린..."
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-08-24T14:10:14.982784+09:00",
    "본인 전성기 SK수펙스 이끌었지만 사업은 휘청 거취 의장"
+  ],
+  [
+   "2026-08-24T14:40:14.147318+09:00",
+   "1조 팔고 SK실트론 빌린 두산 삼키나 9477억 박정원 6조"
   ]
  ],
- "last_run": "2026-08-24T14:30:35.262646+09:00",
+ "last_run": "2026-08-24T14:40:28.248387+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
