@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jemin.com/news/articleView.html?idxno=842033",
-  "https://www.dailian.co.kr/news/view/1681571/?sc=Naver",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265906",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=209632",
-  "https://zdnet.co.kr/view/?no=20260824140714",
-  "https://www.goodkyung.com/news/articleView.html?idxno=290550",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357788",
   "https://www.newspim.com/news/view/20260824000767",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5919",
   "https://www.mt.co.kr/stock/2026/08/24/2026082411445672694",
@@ -2999,16 +2992,16 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608121627051720103887",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608210943211440107460",
   "https://www.dailian.co.kr/news/view/1682250/?sc=Naver",
-  "https://www.mk.co.kr/article/12136051"
+  "https://www.mk.co.kr/article/12136051",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608131718181560106141",
+  "https://www.the-today.com/news/articleView.html?idxno=88326",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201057111230662",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059592",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480484",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480483",
+  "https://www.g-enews.com/view.php?ud=202608260702357019fbbec65dfb_1"
  ],
  "seen_titles": [
-  "최대110조푸는삼성전자…우선주괴리율축소'시동'[stock&톡]",
-  "이대통령-최태원비공개만찬…국내반도체팹과대미투자논의한듯",
-  "최태원'9440억'셈법달라졌다...SK㈜지분안건드릴길열려",
-  "최태원회장,상반기SK㈜서보수17.5억받아…최재원15억",
-  "[산업분석]메모리반도체삼성전자·SK하이닉스,수출259%↑…LTA가늘...",
-  "메모리품귀에엔비디아도무릎…삼성·SK,주도권커졌다",
-  "넥센타이어,양산공장에4MW재생에너지공급…연2,700톤탄소감축",
   "SK에코플랜트머티리얼즈영명보육원아이들자립에7000만원",
   "넥센타이어,PPA·자가발전'투트랙'…국내공장재생에너지속도",
   "Exporters'DollarSellingSurges71%,BoostingWon",
@@ -6001,7 +5994,14 @@
   "[더벨][건설업종상장폐지리스크점검]동전주탈출한엑사이엔씨,시...",
   "[더벨][상업화이룬TPD,K-바이오밸류점검]유빅스,검증된BTK에도밸...",
   "'배터리슈퍼을'옛말…현대차,LG·SK·삼성으로공급처다변화",
-  "매경이전하는세상의지식(매-세-지,8월26일)"
+  "매경이전하는세상의지식(매-세-지,8월26일)",
+  "[더벨]SK하이닉스·하이퍼,AIDC주도'윤풍영·정석근키맨'",
+  "[이슈]5000억실패수습하러온조형기…SK시그넷'마지막CEO'되나",
+  "워커힐,프리미엄김치‘수펙스’미국첫수출",
+  "李대통령,3대그룹총수'연쇄회동'…\"AI민관원팀으로기업지원\"",
+  "리츠온라인관심30%줄었다…SK리츠·롯데리츠도평판지수하락",
+  "DK아시아1위지켰다…계룡건설브랜드평판228%급등",
+  "애플,中메모리조달다변화제약…CXMT2027년완판에삼성·SK우위..."
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,21 @@
   [
    "2026-08-26T07:12:46.992560+09:00",
    "26일 매경이 전하는 세상의 지식 8월"
+  ],
+  [
+   "2026-08-26T07:21:03.743004+09:00",
+   "SK리츠 온라인 리츠 평판지수 롯데리츠도 줄었다 하락 관심"
+  ],
+  [
+   "2026-08-26T07:21:03.743004+09:00",
+   "1위 브랜드평판 DK아시아 계룡건설 지켰다 급등"
+  ],
+  [
+   "2026-08-26T07:21:03.743004+09:00",
+   "CXMT 삼성 완판에 조달 다변화 애플 제약 메모리 2027년 우위"
   ]
  ],
- "last_run": "2026-08-26T07:13:32.750798+09:00",
+ "last_run": "2026-08-26T07:21:14.687395+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
