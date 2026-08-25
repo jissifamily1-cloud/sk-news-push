@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=743858",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545019",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636393",
-  "https://www.kbsm.net/news/view.php?idx=530313",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383567",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1533979",
   "http://www.yonhapnewstv.co.kr/news/AKR20260813184027IBE",
   "https://news.jtbc.co.kr/article/NB12313285?influxDiv=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.ngonews.kr/news/articleView.html?idxno=236251",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317920",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546840",
-  "https://dealsite.co.kr/articles/167733"
+  "https://dealsite.co.kr/articles/167733",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4102520",
+  "https://www.thepowernews.co.kr/view.php?ud=202608251113354947de3f0aa1be_7",
+  "http://www.metroseoul.co.kr/article/20260825500180",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500141.html",
+  "https://www.newspim.com/news/view/20260825000424"
  ],
  "seen_titles": [
-  "특검,'채상병수사외압'이시원재판행…경북경찰청간부도기소",
-  "HL만도'가짜회의록'의혹까지…야당\"본사·경영진수사하라\"한목소...",
-  "공정위,정유4사‘타사제품판매제한’현장조사실시",
-  "'가습기살균제'롯데쇼핑·제조사6억여원배상권고확정…10년소송...",
-  "검찰,3476억원대반도체소재담합적발…전·현직임직원5명기소",
   "국힘,경찰통해'한동훈죽이기'나서나...장동혁지도부\"수사협조\"",
   "이찬진금감원장취임1년…금감원\"감독패러다임전환\"평가",
   "경찰,‘한동훈당원게시판사건’압수수색…복당변수되나[현장영상...",
@@ -6001,10 +5996,15 @@
   "[단독]'선거법위반혐의'남영희인천시부시장경찰소환조사",
   "2차종합특검자찬에도언론우려일색'공소유지는'",
   "인터뷰전문:윤희석“노웅래죄없는것·죄물을수없는건달라”...",
-  "'뇌물기소파장'LIGD&A전자전기사업…\"계약해지어려울듯\""
+  "'뇌물기소파장'LIGD&A전자전기사업…\"계약해지어려울듯\"",
+  "화환헐값판매·바가지요금금지…장례식장'갑질'막는다",
+  "장례식장에과일·주류반입가능…화환은유족소유",
+  "전기차늘자충전갈등도폭발…충전민원3년만에2배'껑충'",
+  "정부보전기다리는데검찰·공정위까지…정유사3중압박가중",
+  "'억대뇌물수수'경찰간부,항소심서감형…징역10년→징역형집유"
  ],
  "recent_sigs": [],
- "last_run": "2026-08-25T11:10:52.861504+09:00",
+ "last_run": "2026-08-25T11:20:55.667451+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
