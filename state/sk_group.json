@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/economy_general/1273984.html",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721425",
-  "https://www.greened.kr/news/articleView.html?idxno=348271",
-  "https://biz.sbs.co.kr/article_hub/20000330396?division=NAVER",
-  "https://www.ziksir.com/news/articleView.html?idxno=144090",
-  "http://www.seouleconews.com/news/articleView.html?idxno=93256",
   "https://www.the-today.com/news/articleView.html?idxno=88869",
   "https://kpenews.com/View.aspx?No=4196908",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400232.html",
@@ -2999,15 +2993,15 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608240722204740104079",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261606&CMPT_CD=P0010",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695196",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245178"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245178",
+  "https://www.starnewskorea.com/sports/2026/08/26/2026082515322377221",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52343",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=601194",
+  "http://www.bizwnews.com/news/articleView.html?idxno=144234",
+  "https://www.edaily.co.kr/News/Read?newsId=02522326645551256&mediaCodeNo=257",
+  "https://dealsite.co.kr/articles/167493"
  ],
  "seen_titles": [
-  "[데이터뉴스룸]철강업50곳부채비율50%대재무구조튼튼…자산10조...",
-  "“코스닥소외,실적탓아니다”…SK증권“이익급증,반등여력충분...",
-  "SK증권,싱가포르'비지오'국내로드쇼개최",
-  "배당만하는삼성,희석만막는하이닉스…기업가버넌스포럼,\"기준바...",
-  "4대그룹,'사업다이어트'속도…한계법인청산·비핵심지분매각집...",
-  "[단독]한투,단일종목레버리지ETF로220억벌었다…증권사931억수익...",
   "'반도체특성화고설립·PM안전관리패러다임전환'제안",
   "[기획]전력확보전략다변화…ESS·수소·마이크로그리드부상",
   "전남광주45개공공기관유치총력전…\"유일행정통합완성\"",
@@ -6001,7 +5995,13 @@
   "[더벨][NewsBriefing]\"1년간수수료0원\"…미래에셋,디지털X에승부수",
   "'명심'과'명픽',그리고이재명의눈물",
   "KT,'모두의AI'로반전노린다",
-  "[데스크칼럼]삼성전자주주환원,지배구조가발목잡나"
+  "[데스크칼럼]삼성전자주주환원,지배구조가발목잡나",
+  "\"1년전돌아가신아버지생각이...\"KIA끝내기만루포영웅,잠시말을...",
+  "하닉A와마이크론2%대상승…엔비디아반등",
+  "SK하이닉스,167만8000원서반등마감…반도체주회복세시험대",
+  "[금융HOT뉴스]KB자산운용,'RISE삼성전자SK하이닉스채권혼합50ETF'주...",
+  "건설주,잘나가는이유살펴보니...주택아닌비주택수주호황-한화",
+  "[코스피1만의조건]인위적증시부양아닌…AI3강투자로李코노믹스..."
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,21 @@
   [
    "2026-08-26T07:41:06.079564+09:00",
    "삼성전자 지배구조가 주주환원 발목잡나"
+  ],
+  [
+   "2026-08-26T07:49:31.057103+09:00",
+   "ETF KB자산운용 RISE 삼성전자SK하이닉스채권혼합50"
+  ],
+  [
+   "2026-08-26T07:49:31.057103+09:00",
+   "주택아닌 비주택 잘나가는 수주호황 이유 살펴보니 한화 건설주"
+  ],
+  [
+   "2026-08-26T07:49:31.057103+09:00",
+   "증시부양 아닌 코노믹스 3강 인위적 투자로 AI"
   ]
  ],
- "last_run": "2026-08-26T07:41:25.833718+09:00",
+ "last_run": "2026-08-26T07:49:42.459639+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
