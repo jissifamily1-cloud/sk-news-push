@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=154553",
-  "https://view.asiae.co.kr/article/2026082410235555870",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6577",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=85914",
-  "https://www.pennmike.com/news/articleView.html?idxno=126241",
-  "https://www.pennmike.com/news/articleView.html?idxno=126245",
-  "https://realty.chosun.com/site/data/html_dir/2026/08/24/2026082401144.html",
   "https://biz.heraldcorp.com/article/10849728",
   "https://www.mk.co.kr/article/12134516",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275337",
@@ -2999,16 +2992,16 @@
   "https://www.dt.co.kr/article/12080192",
   "https://www.agrinet.co.kr/news/articleView.html?idxno=406622",
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597970",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859508"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859508",
+  "http://www.jndn.com/article.php?aid=1787652605438447001",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546915",
+  "http://www.e-platform.net/news/articleView.html?idxno=104785",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275505",
+  "http://www.beyondpost.co.kr/view.php?ud=20260825190732485892e75d13a3_30",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106113",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260826.22015007299"
  ],
  "seen_titles": [
-  "수출·면세점·정기구독까지…호텔가가‘김치’를미래먹거리로점찍...",
-  "SK쉴더스·엘림넷,의료기관통합보안서비스공동추진",
-  "제일풍경채첨단3지구A6블록,3일간1만8000명몰렸다",
-  "정유4사'꼼수'에알뜰주유소고사위기…공정위신고도이뤄져",
-  "서부발전,'충남마켓프로젝트'성공위한민·관·공업무협약체결",
-  "'제3회대한민국사회적가치페스타'9월21~22일코엑스개최",
-  "한투운용,삼성전자·하이닉스에채권더한퇴직연금ETF출시",
   "삼성전자급락에코스피6800선후퇴",
   "SK이터닉스주가,8월24일장중53,500원4.29%상승",
   "넥센타이어,국내공장에직접PPA도입…재생에너지전환가속화",
@@ -6001,7 +5994,14 @@
   "SK이노,배터리분리막자회사전격합병…美에직접투자한다",
   "영주시,농번기농촌인력부족해소에나선다",
   "세르지우제주SK감독\"경기전훈련은'회복'중점...승점3점가져올...",
-  "[공시]SK오션플랜트2분기IR개최"
+  "[공시]SK오션플랜트2분기IR개최",
+  "호남반도체핵심기반전력·용수인프라사업예타면제",
+  "‘현금40%·자사주60%’…SK하이닉스합의안부결",
+  "반도체클러스터후보지청주,낮은전력자립률해소과제\"전문가'이구...",
+  "SKInnovationMergeswithSKIETechnology",
+  "국악방송,최동현군산대명예교수'발로뛴50년판소리연구'조명…'...",
+  "[기자의눈]단일종목레버리지'증권사만독식'주장무리수",
+  "돌아온이현중…韓농구되살릴까"
  ],
  "recent_sigs": [
   [
@@ -7075,9 +7075,25 @@
   [
    "2026-08-25T19:11:08.083790+09:00",
    "IR 2분기 개최 SK오션플랜트"
+  ],
+  [
+   "2026-08-25T19:16:27.677795+09:00",
+   "Merges Technology with Innovation IE"
+  ],
+  [
+   "2026-08-25T19:16:27.677795+09:00",
+   "명예교수 최동현 연구 군산대 국악방송 판소리 발로 조명 50년"
+  ],
+  [
+   "2026-08-25T19:16:27.677795+09:00",
+   "증권사만 무리수 독식 단일종목 레버리지 주장"
+  ],
+  [
+   "2026-08-25T19:16:27.677795+09:00",
+   "농구 돌아온 되살릴까 이현중"
   ]
  ],
- "last_run": "2026-08-25T19:11:24.687520+09:00",
+ "last_run": "2026-08-25T19:16:41.517075+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
