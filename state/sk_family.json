@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42942",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422999",
   "https://www.ajunews.com/view/20260811094124788",
   "https://view.asiae.co.kr/article/2026081110001178636",
   "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/11/20260811500087?wlog_tag3=naver",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/sports/general-sport/6208283",
   "https://www.ikbc.co.kr/article/view/kbc202608250063",
   "https://www.hani.co.kr/arti/opinion/column/1274591.html",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695429"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695429",
+  "https://www.fnnews.com/news/202608251753221526",
+  "https://www.ajunews.com/view/20260825151252181"
  ],
  "seen_titles": [
-  "메가프로젝트연내353조투자착수...이재명대통령\"속도전넘어전격...",
-  "'다시세계3위,사브르끝판왕'오상욱의부상투혼\"AG2관왕수성!최신...",
   "'10kg감량'홍현희,위고비의혹에결백호소\"피뽑아보자\"('라스')",
   "'10kg감량'홍현희,위고비논란입열었다\"결백해,피뽑자\"[라스]",
   "\"피뽑아보자\"..홍현희,10kg빼고예뻐졌더니비만주사루머'분노'(라...",
@@ -6001,7 +5999,9 @@
   "'봉쇄시위로칼빌려출전'펜싱대표팀전원메달'해피엔딩'",
   "[속보]호남반도체클러스터'속도전'…전력·용수인프라'예타면제'",
   "인공지능,뜨겁게낙관하고차갑게계산하자[아침햇발]",
-  "호남반도체·AI데이터센터'예타면제'…3대메가프로젝트속도"
+  "호남반도체·AI데이터센터'예타면제'…3대메가프로젝트속도",
+  "\"이제는법제정해야할때\"…남종섭경기도의장,국회찾아'지방의회...",
+  "'반도체전용곳간'만든다…삼성·SK'메가프로젝트'에정부재정가세"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-08-25T17:56:40.235585+09:00",
    "낙관하고 차갑게 뜨겁게 인공지능 계산하자"
+  ],
+  [
+   "2026-08-25T18:10:15.761873+09:00",
+   "재정 만든다 메가프로젝트 전용 가세 곳간 반도체 삼성 정부"
   ]
  ],
- "last_run": "2026-08-25T18:00:42.154579+09:00",
+ "last_run": "2026-08-25T18:10:29.625533+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
