@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=106167",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=271725",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=47218",
-  "https://www.topdaily.kr/articles/111598",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7180327",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=271688",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=362120",
   "https://www.insight.co.kr/news/569697",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=726690",
   "https://www.mt.co.kr/economy/2026/08/24/2026082409360498634",
@@ -2999,16 +2992,16 @@
   "https://biz.chosun.com/it-science/ict/2026/08/26/33MFXT4A6BEHBPT2SIRMV2WNTY/",
   "https://www.hankyung.com/article/2026082522511",
   "https://www.news1.kr/it-science/security-hacking/6267794",
-  "https://biz.chosun.com/stock/stock_general/2026/08/26/V3CMPNJRCJG5JATII3ZRIVTVPI/"
+  "https://biz.chosun.com/stock/stock_general/2026/08/26/V3CMPNJRCJG5JATII3ZRIVTVPI/",
+  "https://www.bntnews.co.kr/article/view/bnt202608260006",
+  "https://www.hankyung.com/article/2026081424971",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005908258",
+  "https://www.tokenpost.kr/news/policy/397744",
+  "https://www.mk.co.kr/article/12136319",
+  "https://www.sidae.com/article/2026082514373784544",
+  "http://www.inews24.com/view/1997420"
  ],
  "seen_titles": [
-  "기후부,녹색대전환이끌청년인재취업기회제공",
-  "역대급주주환원에도하닉보다못한삼전?…주가희비갈린까닭",
-  "\"국회이전하고1만5000가구공급\"…용산공원주택공급논란에청와대...",
-  "[흔들리는한국거래소]①역대급실적에도경영평가강등…정은보리더...",
-  "코스닥,드디어반등하나...SK證“숫자로이익증명”",
-  "윕스,삼전닉스·TSMC등글로벌반도체기업에특허데이터공급",
-  "SK텔레콤,서울대와10년째'AI인재'키운다…정재헌CEO직접강단에",
   "엔비디아27일실적발표...AI모멘텀재부각시'코스피7000'안착가능성",
   "코스피,삼성전자8%대급락에'출렁'…장중6600선으로밀려[fn오후시황...",
   "SK쉴더스·엘림넷,의료기관대상통합보안서비스공동추진",
@@ -6001,7 +5994,14 @@
   "韓D램1㎏가치,금620g맞먹어…“메모리공급부족더심해진다”",
   "450조원'몰빵'후폭풍…'롤러코스피'더심해진이유있었다",
   "'해킹홍역'통신3사,정보보호'경영의제'로올렸다…CPO강화",
-  "티웨이매각한예림당,반도체에베팅…퓨처하이테크인수‘득일까실..."
+  "티웨이매각한예림당,반도체에베팅…퓨처하이테크인수‘득일까실...",
+  "KIA이호연,끝내기만루포KBO최초기록",
+  "시총3위SK스퀘어'AI·반도체투자회사'로변신",
+  "이대통령·재계총수연쇄회동…AI투자·대미통상현안조율할듯",
+  "현금비율5.4%포인트상승,배임기소뒤보수화",
+  "“죽다겨우살아났는데”…개미들27·28일주식창만봐야하는이유",
+  "TV판도흔든중국식굴기,메모리서삼성·SK겨눈다",
+  "100만원넘는엔비디아‘AIPC’가日서1위…“내책상에서AI돌린다..."
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,25 @@
   [
    "2026-08-26T06:11:15.815222+09:00",
    "매각한 예림당 인수 퓨처하이테크 반도체에 티웨이 베팅 득일까"
+  ],
+  [
+   "2026-08-26T06:17:12.427139+09:00",
+   "현금비율 기소 배임 포인트 보수화 상승"
+  ],
+  [
+   "2026-08-26T06:17:12.427139+09:00",
+   "28일 봐야하는 이유 주식창만 겨우 죽다 개미들 살아났는데"
+  ],
+  [
+   "2026-08-26T06:17:12.427139+09:00",
+   "중국식 흔든 겨눈다 굴기 판도 삼성 메모리서 TV"
+  ],
+  [
+   "2026-08-26T06:17:12.427139+09:00",
+   "넘는 PC 책상에서 AI 1위 100만원 돌린다 엔비디아"
   ]
  ],
- "last_run": "2026-08-26T06:12:10.466351+09:00",
+ "last_run": "2026-08-26T06:17:26.041764+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
