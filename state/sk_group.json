@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01810566645550272&mediaCodeNo=257",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2235312",
-  "https://www.etnews.com/20260823000037",
-  "https://www.etnews.com/20260821000035",
-  "https://www.etnews.com/20260821000113",
-  "https://www.mk.co.kr/article/12127631",
-  "https://biz.chosun.com/it-science/ict/2026/08/23/JTWZUPWPMVAKBHBDKVIWQB7MGM/",
-  "https://www.hankyung.com/article/2026082366201",
   "https://www.hankyung.com/article/2026082366341",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000058834",
   "http://www.metroseoul.co.kr/article/20260823500255",
@@ -2999,17 +2991,17 @@
   "http://www.intn.co.kr/news/articleView.html?idxno=2052762",
   "https://www.newspim.com/news/view/20260825000711",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445500",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000059441"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059441",
+  "http://www.osen.co.kr/article/G1112863274",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578862031881",
+  "https://www.koreaherald.com/article/10851492",
+  "https://www.joongangenews.com/news/articleView.html?idxno=542560",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059446",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=124107",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721543",
+  "https://www.mediapen.com/news/view/1118675"
  ],
  "seen_titles": [
-  "'성과급60%자사주'SK하이닉스임단협…가결여부이번주결정",
-  "인천시-국토부,송도아파트테라스붕괴사고조사첫회의",
-  "\"국산AI모델확보만으론부족\"…AI주권기준'보유'에서'운용'으로",
-  "반도체호황,청년취업률높이는기회",
-  "이번주엔비디아실적영향관심...기준금리도주목",
-  "‘삼전닉스’자사주매입이코스피에‘단비’될까",
-  "Dividendsorbuybacks:Samsung,SKhynixdivideonAIwindfall",
-  "35년청사진반복한‘새만금운명’정치권실행력이관건",
   "닿을듯말듯'칠천피'…엔비디아실적·잭슨홀미팅후날개달까",
   "[기자수첩]소비자일상바꾸던통신경쟁의빈자리",
   "대미투자1호왜늦어지나…美는성과필요,韓은수익률우선",
@@ -6001,7 +5993,15 @@
   "한국세무사회전산법인,'모두의AI'SKT컨소시엄참여",
   "코스피낙폭줄이며6600선회복…코스닥상승전환",
   "[김재섭의뒤집어보기]KT박윤영의'본업충실'경영철학과어긋난설...",
-  "엔비디아실적발표앞두고'25만전자·150만닉스'털썩"
+  "엔비디아실적발표앞두고'25만전자·150만닉스'털썩",
+  "한경기로끝나는이벤트는없다...인천,잔여홈5경기연결한‘유티...",
+  "[메가이슈토픽]카카오,AI·투자등'인적분할'…기대속'중복상장·실...",
+  "SKhynixwagedealrejectedbyjust25votes",
+  "SK증권주가,8월25일장중2,640원1.12%하락",
+  "국내기업72%\"현데이터센터로AI대응한계\"…인프라현대화시급",
+  "[현장]페라리첫전기차'루체'한국상륙…SK온·삼성디스플레이협업",
+  "도심복합사업,2029년일몰연장…건설사새먹거리될까",
+  "'기소·수사분리'눈앞…영장·수사오남용등재계도우려커진다"
  ],
  "recent_sigs": [
   [
@@ -6911,9 +6911,21 @@
   [
    "2026-08-25T14:06:27.540517+09:00",
    "닉스 발표 150만 엔비디아 전자 털썩 앞두고 25만 실적"
+  ],
+  [
+   "2026-08-25T14:11:07.119851+09:00",
+   "SK온 한국 협업 삼성디스플레이 페라리 루체 전기차 상륙"
+  ],
+  [
+   "2026-08-25T14:11:07.119851+09:00",
+   "연장 일몰 먹거리 도심복합사업 건설사 될까 2029년"
+  ],
+  [
+   "2026-08-25T14:11:07.119851+09:00",
+   "재계도 영장 분리 오남용 눈앞 우려 커진다 기소 수사"
   ]
  ],
- "last_run": "2026-08-25T14:06:36.175441+09:00",
+ "last_run": "2026-08-25T14:11:18.377812+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
