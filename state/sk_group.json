@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01521926645550272&mediaCodeNo=257",
-  "https://www.ajunews.com/view/20260823110133553",
-  "https://www.etoday.co.kr/news/view/2617111",
-  "https://zdnet.co.kr/view/?no=20260823124959",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1330132",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597837",
-  "https://www.ytn.co.kr/_ln/0102_202608231300315550",
-  "http://www.sportsq.co.kr/news/articleView.html?idxno=497731",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=87638",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=87637",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479707",
@@ -2999,17 +2991,17 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608192229216640105149",
   "https://www.newstnt.com/news/articleView.html?idxno=715103",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2276485",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275461"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275461",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83786",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362170",
+  "https://www.asiatime.co.kr/article/20260825500192",
+  "https://biz.heraldcorp.com/article/10851388",
+  "https://www.consumuch.com/news/articleView.html?idxno=78854",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645394",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=600950",
+  "https://biz.heraldcorp.com/article/10851387"
  ],
  "seen_titles": [
-  "‘주전경쟁청신호’풀타임뛴김민재,철벽수비로슈퍼컵정상이끌...",
-  "[부음]유진선모친,유인수부친,이광진장모외",
-  "최종현학술원\"소버린AI,모델보유보다운용역량중요\"",
-  "[분석]반도체가마시는물···AI증설경쟁,용수가공장속도가른다",
-  "월드리버티파이낸셜,USD1활용처확대…스페이스X·금까지무기한시장...",
-  "경북도,‘국립경국대의대’2030년개교준비본격화",
-  "울산서차·기름·금속만들지만결정은서울서…산업수도는왜'생산기...",
-  "\"국산AI모델확보만으로는부족…접근·운용주권이중요\"",
   "충남콘진원,GST입주기업오픈이노베이션밋업",
   "삼성전자·SK하이닉스150조주주환원···식어버린투심살릴까",
   "반도체‘150조’메가주주환원…SK하이닉스에삼성도가세",
@@ -6001,17 +5993,17 @@
   "[더벨]아크로스,미국운용사에'아시아반도체'지수공급",
   "[특징주]아스플로,해외반도체장비업체와298억원공급계약",
   "[통신]KT대졸신입채용/SKT갤럭시퀀텀7/LGU+유독Pick확대",
-  "SKhynixUnionRejectsTentativeLaborDealby25Votes"
+  "SKhynixUnionRejectsTentativeLaborDealby25Votes",
+  "AI데이터센터·HVDC겨냥…효성중공업,글로벌전력망시장공략가속",
+  "SK하이닉스임단협25표차부결…'자사주성과급'이견에발목",
+  "[25일인천영종구]운서중~영종하늘도시잇는공영버스5-6번신설등",
+  "[헤럴드pic]기후에너지기업일자리찾아볼까",
+  "삼성물산,삼성전자배당확대수혜기대",
+  "SK하이닉스임단협잠정안‘부결’",
+  "대우건설,국내증시급락에도주가4%대강세…동향커브주시",
+  "[헤럴드pic]기후에너지일자리박람회개막"
  ],
  "recent_sigs": [
-  [
-   "2026-08-25T06:41:03.979284+09:00",
-   "늘었는데 빼면 줄였다 영업익 삼성 SK하이닉스 캐펙스 감소 투자"
-  ],
-  [
-   "2026-08-25T06:41:03.979284+09:00",
-   "반대운동과 미국의 AI데이터센터 대한민국"
-  ],
   [
    "2026-08-25T06:51:05.255896+09:00",
    "샀을까 비명 코스닥 가격 개미들 터졌는데 이걸 이제 내가"
@@ -6963,9 +6955,17 @@
   [
    "2026-08-25T12:37:24.663414+09:00",
    "공급계약 장비업체와 해외 298억원 반도체 아스플로"
+  ],
+  [
+   "2026-08-25T12:51:03.388530+09:00",
+   "강세 주시 대우건설 주가 증시 국내 동향 급락에도 커브"
+  ],
+  [
+   "2026-08-25T12:51:03.388530+09:00",
+   "박람회 개막 기후에너지 일자리"
   ]
  ],
- "last_run": "2026-08-25T12:41:07.359029+09:00",
+ "last_run": "2026-08-25T12:51:11.808655+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
