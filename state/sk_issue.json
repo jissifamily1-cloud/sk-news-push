@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2614582",
-  "https://www.insight.co.kr/news/568250",
-  "https://www.kukinews.com/article/view/kuk202608140031",
-  "https://www.gokorea.kr/news/articleView.html?idxno=875007",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635671",
-  "http://www.queen.co.kr/news/articleView.html?idxno=461754",
-  "https://www.techm.kr/news/articleView.html?idxno=154305",
-  "https://www.m-economynews.com/news/article.html?no=69741",
-  "http://www.inews24.com/view/1995055",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850391",
   "http://www.osen.co.kr/article/G1112857051",
   "https://www.sisajournal.com/news/articleView.html?idxno=383366",
   "https://www.yna.co.kr/view/AKR20260814060000004?input=1195m",
@@ -2999,19 +2989,19 @@
   "https://www.newsis.com/view/NISX20260825_0003762286",
   "https://www.bntnews.co.kr/article/view/bnt202608250275",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645563",
-  "https://www.newsis.com/view/NISX20260825_0003762312"
+  "https://www.newsis.com/view/NISX20260825_0003762312",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5214780",
+  "https://biz.sbs.co.kr/article_hub/20000330709?division=NAVER",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260825181625Xzc",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445593",
+  "https://imnews.imbc.com/news/2026/econo/article/6847247_36932.html",
+  "https://www.ytn.co.kr/_ln/0102_202608251813168627",
+  "https://biz.chosun.com/topics/law_firm/2026/08/25/KKOEOJEAZRE5DDSWF3RVMOIBBU/",
+  "https://www.segye.com/newsView/20260825517129?OutUrl=naver",
+  "https://www.namdonews.com/news/articleView.html?idxno=921123",
+  "https://www.jbnews.com/news/articleView.html?idxno=1510133"
  ],
  "seen_titles": [
-  "대기업집단계열사4곳감소,AI·반도체편입은활발",
-  "당협위원장교체+징계+경찰수사...'삼중고'빠진친한계",
-  "이찬진1년,달라진금감원…키워드는‘소비자’",
-  "홍명보,경찰조사서\"감독선임과정중정몽규전회장과소통한적없...",
-  "‘피습자작극혐의’정이한전부산시장후보다음달첫재판",
-  "102개대기업집단,비주력사업정리·미래사업진출활발",
-  "대규모기업집단소속회사4개↓…\"비주력정리·AI등고부가산업진출\"",
-  "홍명보,경찰조사서\"정몽규와연락없었다\"...축협선임개입의혹전...",
-  "이찬진금감원장1주년,주가조작끊고‘사전예방’칼날",
-  "\"미래를향한도약:국내대기업,AI·반도체중심포트폴리오재편\"",
   "SK,D&D·원스토어'계열제외'···삼성은플랙트그룹코리아'편입'",
   "대기업,비주력사업정리하고AI·반도체등미래산업에집중",
   "코빗인수하자마자500억수혈…미래에셋,디지털금융판키운다",
@@ -6001,7 +5991,17 @@
   "쿠팡거부에공정위현장조사무산…\"출범후처음\"(종합)",
   "‘김수현명예훼손’김세의,합의부로재배당…재판장기화되나",
   "‘아동성범죄’최영중전청주시의원구속기소…지인에사진유포도",
-  "'꿀잼도시유착의혹'청주시공무원등5명송치"
+  "'꿀잼도시유착의혹'청주시공무원등5명송치",
+  "쿠팡현장조사나간공정위,쿠팡거부에'빈손'철수",
+  "공정위쿠팡현장조사무산…쿠팡\"적법절차지켜야\"",
+  "공정위,쿠팡현장조사시도…쿠팡측거부로철수",
+  "공정위쿠팡'할인비용전가의혹'현장조사무산,쿠팡조사거부뒤소...",
+  "쿠팡이조사거부‥공정위'쿠폰할인비용전가의혹'현장조사무산",
+  "장례식장화환은유족것...동의없이처분못한다",
+  "‘아동성범죄혐의’최영중구속기소…피해자만4명",
+  "‘상습성착취물제작’…검찰,전청주시의원최영중구속기소",
+  "베일벗은전남광주통합특별시조직개편안…4실8본부27국146과확대개...",
+  "'상습성착취물제작혐의'최영중구속기소"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "연쇄사고 사망 SK지오센트릭 남긴 시정명령 김종화 2022년 3명 116건"
   ]
  ],
- "last_run": "2026-08-25T18:10:58.353013+09:00",
+ "last_run": "2026-08-25T18:20:54.644385+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
