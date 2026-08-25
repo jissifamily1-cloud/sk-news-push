@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10849728",
-  "https://www.mk.co.kr/article/12134516",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275337",
-  "https://www.sedaily.com/article/20082476",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=309502",
   "http://www.sisacast.kr/news/articleView.html?idxno=99085",
   "https://www.etoday.co.kr/news/view/2617374",
@@ -2999,13 +2995,13 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275505",
   "http://www.beyondpost.co.kr/view.php?ud=20260825190732485892e75d13a3_30",
   "http://www.00news.co.kr/news/articleView.html?idxno=106113",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260826.22015007299"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260826.22015007299",
+  "https://www.sportsseoul.com/news/read/1629044",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2296571",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721652",
+  "https://en.yna.co.kr/view/AEN20260825010500320?input=2106m"
  ],
  "seen_titles": [
-  "삼성전자급락에코스피6800선후퇴",
-  "SK이터닉스주가,8월24일장중53,500원4.29%상승",
-  "넥센타이어,국내공장에직접PPA도입…재생에너지전환가속화",
-  "견본주택개관에1만8천여명인파...'제일풍경채첨단3지구A6블록'관...",
   "[뉴욕주간프리뷰]엔비디아실적과워시잭슨홀연설초점",
   "코스피,삼성전자급락에1%대↓···6800선약세",
   "\"타이밍은신의영역\"…국내증시급락에도하이닉스또담는이유는",
@@ -6001,7 +5997,11 @@
   "SKInnovationMergeswithSKIETechnology",
   "국악방송,최동현군산대명예교수'발로뛴50년판소리연구'조명…'...",
   "[기자의눈]단일종목레버리지'증권사만독식'주장무리수",
-  "돌아온이현중…韓농구되살릴까"
+  "돌아온이현중…韓농구되살릴까",
+  "수출·면세점·정기구독까지…호텔가가‘김치’를미래먹거리로점찍...",
+  "충북도·청주시,국가반도체클러스터정조준…산학연정머리맞대",
+  "호남반도체·AI데이터센터인프라예타면제…'3대메가'속도",
+  "SKInnovationtoabsorbbatterymaterialsunit"
  ],
  "recent_sigs": [
   [
@@ -7091,9 +7091,13 @@
   [
    "2026-08-25T19:16:27.677795+09:00",
    "농구 돌아온 되살릴까 이현중"
+  ],
+  [
+   "2026-08-25T19:21:03.356840+09:00",
+   "battery unit materials absorb to Innovation"
   ]
  ],
- "last_run": "2026-08-25T19:16:41.517075+09:00",
+ "last_run": "2026-08-25T19:21:08.651344+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
