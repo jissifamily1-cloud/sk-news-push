@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=745722",
-  "https://www.hankyung.com/article/202608248905h",
-  "https://www.newsway.co.kr/news/view?ud=2026082414533517782",
-  "https://www.viva100.com/article/20260824501154",
-  "https://economist.co.kr/article/view/ecn202608240021",
-  "https://zdnet.co.kr/view/?no=20260824145802",
   "https://www.donga.com/news/Sports/article/all/20260824/134531580/1",
   "https://www.nocutnews.co.kr/news/6567035",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644304",
@@ -2999,15 +2993,15 @@
   "https://www.khan.co.kr/article/202608260809001",
   "https://www.newspim.com/news/view/20260826000068",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431777",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608232025204240103442"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608232025204240103442",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608210210430260106766",
+  "https://www.kbmaeil.com/article/20260826500020",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=726814",
+  "https://www.newspim.com/news/view/20260826000042",
+  "https://www.newspim.com/news/view/20260826000074",
+  "https://www.newspim.com/news/view/20260826000047"
  ],
  "seen_titles": [
-  "SKT,서울대손잡고'풀스택AI'역량걸맞은미래인재육성",
-  "독파모최종전'실행력'본다…평가기준·투명성과제로",
-  "[기획]같은D램,청주산공제는1.3배",
-  "\"아이들미래응원\"...세종기업,아동양육시설후원",
-  "SK하이닉스경영진,광주군공항방문…반도체부지점검",
-  "\"산단형DSO·가격입찰형ESS도입시급…탈탄소실현\"",
   "‘K-제조업셧다운’운명의한주…성과급·노봉법‘秋鬪’기로",
   "대표이사각종의혹‘떠들썩’…그럼에도최근6경기최다승점‘1위...",
   "객실밖으로나온호텔김치…F&B사업확장으로수익구조다변화",
@@ -6001,7 +5995,13 @@
   "이대통령,기업총수연쇄회동···AI투자·대미통상현안조율할듯",
   "이대통령,최태원이어정의선·이재용연쇄회동…'3대메가프로젝트...",
   "[카카오인적분할②]투자사로남는카카오X…6.4조로성장동력찾기",
-  "[더벨]스톤브릿지글로벌,솔리다임투자검토...해외펀딩'시험대'"
+  "[더벨]스톤브릿지글로벌,솔리다임투자검토...해외펀딩'시험대'",
+  "[더벨][재무전략분석]40조태워40조조달…SK하이닉스바이백에숨은...",
+  "美반도체훈풍에코스피추가반등시동…엔비디아실적‘분수령’",
+  "[프리마켓포커스]美반도체반등에삼전·SK하닉동반강세",
+  "[AIMY증시전망]코스피상승출발전망…외국인수급·반도체반등주...",
+  "[특징주]'삼전닉스'美반도체훈풍에상승출발",
+  "[모닝리포트]\"금리하락에국내증시상승전망…회복탄력성주목\""
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,13 @@
   [
    "2026-08-26T08:13:38.731054+09:00",
    "솔리다임 스톤브릿지글로벌 해외 시험대 검토 투자 펀딩"
+  ],
+  [
+   "2026-08-26T08:21:03.634019+09:00",
+   "회복 탄력성 하락에 금리 전망 국내증시 상승 주목"
   ]
  ],
- "last_run": "2026-08-26T08:13:49.110597+09:00",
+ "last_run": "2026-08-26T08:21:09.234857+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
