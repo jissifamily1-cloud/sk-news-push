@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/industry/company/2026/08/24/LRYCTZKKJBE57FYO5RNH6XZ3AQ/",
-  "https://biz.chosun.com/policy/policy_sub/2026/08/24/XPOIQWSWJ5CWXI6FQZLK3MLNBQ/",
   "http://www.inews24.com/view/1997636",
   "https://basketkorea.com/news/newsview.php?ncode=1065581156995442",
   "https://www.ggilbo.com/news/articleView.html?idxno=1177053",
@@ -2999,11 +2997,11 @@
   "https://www.bntnews.co.kr/article/view/bnt202608260010",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721669",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=53687",
-  "https://www.g-enews.com/view.php?ud=202608260628512012fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202608260628512012fbbec65dfb_1",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94219",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=757683"
  ],
  "seen_titles": [
-  "삼성전자-9%↓아우성터졌는데…“600조풀수도”보고서나왔다[내...",
-  "[ET톡]3G종료의책임",
   "자영알뜰주유소협회,정유4사공정위신고...\"거래조건차별\"",
   "SK하이닉스,일본에공장지을까…\"인프라·소재·장비갖춰\"",
   "SKChairCheyorderedtopayex-wifeW944bindivorceassetruling",
@@ -6001,7 +5999,9 @@
   "뉴욕증시다우0.30%·나스닥0.66%↑…엔비디아8일만에반등",
   "美금리·유가동반진정…코스피,7000선다시노린다",
   "[이넷뉴스브랜드평판]삼성중공업,액화천연가스LNG상장기업8월1위...",
-  "아마존,기기값최대60%인상…메모리대란소비자전가"
+  "아마존,기기값최대60%인상…메모리대란소비자전가",
+  "[초점]성과급'N%'폭주…K-산업,벌어도웃지못한다",
+  "[박근종칼럼]800조'슈퍼예산',반도체가올린세수풍년,돈잔치대..."
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,17 @@
   [
    "2026-08-26T06:48:44.296484+09:00",
    "대란 메모리 인상 기기값 전가 소비자 아마존"
+  ],
+  [
+   "2026-08-26T06:51:08.190350+09:00",
+   "벌어도 못한다 웃지 폭주 성과급 산업"
+  ],
+  [
+   "2026-08-26T06:51:08.190350+09:00",
+   "풍년 슈퍼예산 올린 잔치 반도체가 세수 800조"
   ]
  ],
- "last_run": "2026-08-26T06:48:55.372467+09:00",
+ "last_run": "2026-08-26T06:51:16.879879+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
