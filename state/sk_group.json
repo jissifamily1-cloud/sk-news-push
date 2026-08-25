@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721342",
-  "https://www.m-i.kr/news/articleView.html?idxno=1405010",
-  "https://www.dailian.co.kr/news/view/1681298/?sc=Naver",
-  "https://www.newsis.com/view/NISX20260824_0003759307",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210648",
   "https://www.econovill.com/news/articleView.html?idxno=748692",
   "http://www.thebigdata.co.kr/view.php?ud=2026080623474575609511086197_23",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=272233",
@@ -2999,14 +2994,14 @@
   "https://www.upkoreanews.kr/news/articleView.html?idxno=99919",
   "https://news.tf.co.kr/read/photomovie/2357859.htm",
   "https://www.smarttoday.co.kr/ko-kr/articles/110777",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16498"
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16498",
+  "https://www.catchnews.kr/news/articleView.html?idxno=127596",
+  "https://www.hani.co.kr/arti/area/yeongnam/1273908.html",
+  "https://www.yna.co.kr/view/AKR20260825149700001?input=1195m",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48433",
+  "https://www.etnews.com/20260825000120"
  ],
  "seen_titles": [
-  "SK증권\"효성중공업,美전력망에AI수요까지…수주가시성확대\"",
-  "[모닝리포트]\"효성중공업,美송전강점에AI데이터센터고객확대\"",
-  "'제일풍경채첨단3지구'견본1만8000명구름인파…청약흥행예고",
-  "SK하이닉스성과급60%자사주로…24일조합원찬반투표'촉각'",
-  "[모닝리포트]\"HD현대일렉트릭,초고압수익성에배전성장…美증설도...",
   "SK텔레콤,서울대서AI산학강좌...모델·인프라·서비스기술전수",
   "한투운용,반도체대표주·채권5대5혼합ETF선보여",
   "SG,포스코인터내셔널과인니JV설립…동남아인프라시장공략",
@@ -6001,7 +5996,12 @@
   "SK지오센트릭김종화號,3명사망·116건시정명령남긴2022년연쇄사고...",
   "'기업현장의AX현주소'강연하는김지현SKAI위원회부사장[포토]",
   "[카카오분할]②투자체계이원화…초기기업은인베스트먼트,전략투...",
-  "삼성·현대차·SK이사회집중투표제비상...미리보는2027년주총"
+  "삼성·현대차·SK이사회집중투표제비상...미리보는2027년주총",
+  "8월21일주식시장주요공시",
+  "‘2명사망’SK지오센트릭,중처법은빠진채4년만에재판",
+  "호남반도체·AIDC인프라예타무더기면제…'3대메가'속도",
+  "미래에셋자산운용,'TIGER삼성전자SK하이닉스미국채혼합50ETF'상장",
+  "SK하이닉스HBM4웨이퍼테스터,韓장비사수주확대"
  ],
  "recent_sigs": [
   [
@@ -6995,9 +6995,13 @@
   [
    "2026-08-25T17:01:32.338136+09:00",
    "삼성 비상 미리 2027년 보는 현대차 이사회 집중투표제 주총"
+  ],
+  [
+   "2026-08-25T17:03:17.123964+09:00",
+   "확대 수주 장비사 SK하이닉스 웨이퍼 HBM4 테스터"
   ]
  ],
- "last_run": "2026-08-25T17:01:53.919293+09:00",
+ "last_run": "2026-08-25T17:03:23.934566+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
