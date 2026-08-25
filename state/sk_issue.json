@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=7952428",
-  "https://www.newsis.com/view/?id=NISX20240430_0002718004&cID=10401&pID=10400",
   "https://www.dt.co.kr/contents.html?article_no=2024043002109958054001",
   "https://www.newspim.com/news/view/20240430000278",
   "https://www.newdaily.co.kr/site/data/html/2024/02/15/2024021500380.html",
@@ -2999,11 +2997,11 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=741134",
   "https://www.naeil.com/news/read/599966",
   "http://www.inews24.com/view/1998031",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=316835"
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316835",
+  "http://www.foodnews.co.kr/news/articleView.html?idxno=119882",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225321"
  ],
  "seen_titles": [
-  "공정위,호텔지으려위법보증선'최태원여동생'경영SK소속회사에...",
-  "SK계열사플레이스포,위법채무보증…공정위제재",
   "공정위,SK계열사채무보증위반에1억5300만원과징금부과",
   "공정위,‘최태원동생’자산관리회사의불법채무보증제재…과징금...",
   "공정위,SK그룹소속'킨앤파트너스'의'계열사채무보증위반'제재",
@@ -6001,10 +5999,12 @@
   "[재계포커스]태광품에안긴애경산업…'섬유의태광'이K-뷰티에서찾...",
   "석포제련소불송치수사관고발당해",
   "주정직거래'5배확대'…독점유통구조는그대로",
-  "\"최영중,성착취피해자더있었다\"…확인된미성년피해자만총4명"
+  "\"최영중,성착취피해자더있었다\"…확인된미성년피해자만총4명",
+  "식품에'Eco'라고써도될까?",
+  "'공수처1호인지'경찰고위간부뇌물사건…항소심서징역10년→집행..."
  ],
  "recent_sigs": [],
- "last_run": "2026-08-25T13:10:53.768202+09:00",
+ "last_run": "2026-08-25T13:20:53.249042+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
