@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026081410280001552?did=NA",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80531",
   "http://www.nongaek.com/news/articleView.html?idxno=96408",
   "https://biz.heraldcorp.com/article/10841507",
   "https://www.newsis.com/view/NISX20260814_0003749320",
@@ -2999,11 +2997,11 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431728",
   "https://www.dailian.co.kr/news/view/1682298/?sc=Naver",
   "https://www.news1.kr/local/busan-gyeongnam/6269307",
-  "http://www.segyebiz.com/newsView/20260825517331?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20260825517331?OutUrl=naver",
+  "https://www.sentv.co.kr/article/view/sentv202608250205",
+  "https://www.joongangenews.com/news/articleView.html?idxno=542705"
  ],
  "seen_titles": [
-  "홍명보\"정몽규와연락한적없다\"…선임과정선긋기[포크뉴스]",
-  "[잇슈연예브리핑]샤이니키·입짧은햇님…'주사이모'사건경찰조...",
   "[뉴공아카이브]퍼니포:수도권23만호공급속도전…8·13부동산대책...",
   "석달간대기업계열사75개편입·79개제외",
   "홍명보\"축협감독선임과정몰라…정몽규연락도없었어\"",
@@ -6001,7 +5999,9 @@
   "공정위,쿠팡현장조사갔다가'빈손'귀가",
   "쿠팡이거부해서공정위조사못했다…사상첫사례",
   "檢,'관권선거의혹'경남도청공무원등4명구속영장청구",
-  "건보공단문건유출의혹…새단서제출했지만경찰은‘수사중지’"
+  "건보공단문건유출의혹…새단서제출했지만경찰은‘수사중지’",
+  "공정위‘할인비용전가의혹’쿠팡조사불발…현장조사거부",
+  "석포제련소주민대책위,불송치수사관고발...\"장형진소환조사촉구\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "연쇄사고 사망 SK지오센트릭 남긴 시정명령 김종화 2022년 3명 116건"
   ]
  ],
- "last_run": "2026-08-25T18:40:57.818258+09:00",
+ "last_run": "2026-08-25T18:43:00.902258+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
