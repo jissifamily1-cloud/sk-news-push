@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100194&t=NNv",
-  "https://mhnse.com/news/articleView.html?idxno=1485047",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244798",
-  "https://news.bizwatch.co.kr/article/industry/2026/08/10/0027",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=86241",
   "https://www.newsen.com/news_view.php?uid=202608101723531910",
   "https://www.topstarnews.net/news/articleView.html?idxno=16159924",
   "http://www.00news.co.kr/news/articleView.html?idxno=105753",
@@ -2999,14 +2994,14 @@
   "https://www.ibabynews.com/news/articleView.html?idxno=153591",
   "https://www.topstarnews.net/news/articleView.html?idxno=16172866",
   "https://www.sportschosun.com/sports-news/2026-07-22/202607220100136260008647",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=511611"
+  "https://ilyo.co.kr/?ac=article_view&entry_id=511611",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432842",
+  "https://www.bntnews.co.kr/article/view/bnt202608250196",
+  "http://www.e-platform.net/news/articleView.html?idxno=104758",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443277",
+  "https://www.joongdo.co.kr/web/view.php?key=20260825010007102"
  ],
  "seen_titles": [
-  "'최태원과세기의이혼'노소영,최수종연극백스테이지서포착",
-  "청주세계쿠킹베이커리,세계3대요리대회필리핀컬리너리컵서금메달...",
-  "[폴리뉴스창간26주년특별기획]「대한민국산업의길을바꾼경영자...",
-  "[이슈]노소영관장이최수종연극응원온이유",
-  "최태원SK실트론지분팔아도9440억마련어렵다,재상고로재산분할액...",
   "'9440만원재산분할'노소영,재상고확정전'이곳'다녀갔다",
   "[문화인사이드]BTS월드투어와영화‘오디세이’,반도체수출",
   "최수종,'최태원과이혼→9440억원재산분할'노소영만났다…\"귀한발...",
@@ -6001,7 +5996,12 @@
   "[ESG트렌드]국가아동권리보장원,'2026한국ESG경영대상'우수상수상...",
   "\"강인권수석선임\"…류지현호,2026아시안게임코치진확정",
   "\"우리,아시안게임때까지는사무실로복귀할수있을까요?\"亞게임59일...",
-  "'창업주장손'최영근지주사복귀…SK그룹오너3세들역할구도재조..."
+  "'창업주장손'최영근지주사복귀…SK그룹오너3세들역할구도재조...",
+  "류지현호아시안게임코치진확정…강인권수석코치등6명합류",
+  "류지현호,아시안게임코칭스태프구성완료",
+  "대한상의'중소․중견기업재생e맞춤형컨설팅무료제공'",
+  "대한상의,26일부터중소·중견기업재생에너지맞춤형컨설팅참여기업...",
+  "호남권반도체클러스터조성협의SK하이닉스경영진전남광주통합특..."
  ],
  "recent_sigs": [
   [
@@ -6061,7 +6061,7 @@
    "46조 1100조 11년 키운 이젠 백서원의 최태원이 하이닉스"
   ]
  ],
- "last_run": "2026-08-25T12:00:40.109789+09:00",
+ "last_run": "2026-08-25T12:10:29.430091+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
