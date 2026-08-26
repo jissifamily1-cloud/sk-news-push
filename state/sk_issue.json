@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/distribution/6258386",
-  "https://www.chosun.com/economy/market_trend/2026/08/18/BUOBORJVINAVJP2B6FO7V2KQAA/",
-  "https://www.donga.com/news/Economy/article/all/20260817/134490814/2",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54398",
-  "http://www.lawissue.co.kr/view.php?ud=2026081720563513039a8c8bf58f_12",
-  "https://www.newsis.com/view/NISX20260814_0003750326",
-  "https://www.khan.co.kr/article/202608180600041",
-  "https://www.hani.co.kr/arti/society/society_general/1273316.html",
   "https://www.seoul.co.kr/news/society/law/2026/08/18/20260818008002?wlog_tag3=naver",
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170214",
   "https://www.newsverse.kr/news/articleView.html?idxno=11195",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/society/incident-accident/6270411",
   "http://www.joynews24.com/view/1998614",
   "https://www.newsis.com/view/NISX20260826_0003763952",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445671"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445671",
+  "https://www.segye.com/newsView/20260826514908?OutUrl=naver",
+  "https://slownews.kr/165506",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008723070&plink=ORI&cooper=NAVER",
+  "https://news.knn.co.kr/news/article/191692",
+  "https://www.ytn.co.kr/_ln/0103_202608261705038095",
+  "https://www.fnnews.com/news/202608261653409366",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6847510_36981.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690162.html"
  ],
  "seen_titles": [
-  "“친명與장악하면친청계최고위원서배신자나올수도”[정치를부탁...",
-  "경찰,협력사노동자끼임사망...현대중공업군산조선소압수수색",
-  "가습기살균제피해자들\"정부,진상규명과피해보상나서라\"",
-  "셀럽들의컬러벨트스타일링연출법",
-  "대기업집단,작년간판값으로2.2조벌었다…SK·LG·한화순",
-  "\"담합조사강화…카톡도함부로지우면안돼요\"",
-  "\"쿠팡과징금취소해야…美기업때리는통쾌함보다국익이중요\"",
-  "쿠폰으로최저가맞춘쿠팡…할인비용,납품사에떠넘겨",
   "‘PB상품판매목표강제’다비치안경에14억과징금",
   "안경테못팔면'계약해지'압박…다비치안경'갑질'에과징금14억",
   "대법원,‘검사가자신이수사개시한범죄’에해당하지않아공소제기...",
@@ -6001,7 +5993,15 @@
   "'홍명보선임의혹'축구협회윗선수사…김정배·윤덕여소환",
   "檢,'수면제대리수령'싸이약식기소",
   "김정배전축협상근부회장경찰출석…'홍명보선임개입의혹'조사",
-  "공정위'석유유통업종표준대리점계약서'개정,주유소의정유사선택권..."
+  "공정위'석유유통업종표준대리점계약서'개정,주유소의정유사선택권...",
+  "옥시·애경에막힌‘가습기살균제참사’조정…10월법정배상시행",
+  "K-노동회의소,세가지성공조건",
+  "\"사고원인은폐·축소혐의\"…국토부직원7명송치",
+  "검찰,백종헌의원실압수수색..전직보좌관'금품의혹'",
+  "경찰,'홍명보선임의혹'대한축구협회전상근부회장소환",
+  "김정배前축협부회장경찰출석…홍명보선임'윗선개입'조사",
+  "'로컬라이저문제'알고도쉬쉬‥공무원7명송치",
+  "경찰,김정배前축협부회장소환…'홍명보선임'개입의혹수사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "공정위에 정산장려금 조사 정유사 계열 주유소만 알뜰주유소협회"
   ]
  ],
- "last_run": "2026-08-26T17:01:12.140889+09:00",
+ "last_run": "2026-08-26T17:10:58.182458+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
