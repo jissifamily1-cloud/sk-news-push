@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ggmedinews.com/news/articleView.html?idxno=6735",
-  "https://www.fntimes.com/html/view.php?ud=2026081215414793477de3572ddd_18",
-  "https://www.asiatime.co.kr/article/20260812500287",
-  "http://www.kwangju.co.kr/article.php?aid=1786516800802223277",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050791",
   "http://www.weeklytoday.com/news/articleView.html?idxno=790093",
   "https://daily.hankooki.com/news/articleView.html?idxno=1395306",
   "https://www.yna.co.kr/view/AKR20260812124800003?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://www.khan.co.kr/article/202608261615001",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=316887",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445656",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=364249"
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=364249",
+  "http://www.yonhapnewstv.co.kr/news/MYH202608261634394WA",
+  "http://www.metroseoul.co.kr/article/20260826500488",
+  "http://www.queen.co.kr/news/articleView.html?idxno=462319",
+  "https://dealsite.co.kr/articles/167744",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262021&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "[포토]서명하는김동철한전사장과염성진SK하이닉스사장",
-  "'SK네트웍스투자'피닉스랩,120억규모투자라운드진행",
-  "전국출생규모가장큰경기도,고위험산모·소아위한어린이병원은...",
-  "한전·삼성·SK,호남·용인반도체산단전력공급협약체결",
-  "한전,반도체메가프로젝트전력공급로드맵…호남6GW·용인14GW",
   "호남반도체산단,2029년3GW첫전력공급확정",
   "[포토]호남권반도체산단전력공급협약기념촬영",
   "[위클리오늘]전남광주통합특별시(8.12)",
@@ -6001,13 +5996,14 @@
   "이대통령만나는이재용,메가프로젝트진전되나…대미투자논의도주...",
   "이재명,이재용과다시만찬···'800조반도체'후속점검",
   "[현장]버거킹최초플래그십매장'플레임그라운드',와퍼재해석한근...",
-  "최태원이어이재용만났다…이대통령,800조반도체셈법"
+  "최태원이어이재용만났다…이대통령,800조반도체셈법",
+  "'허위종결'얼마나더?…경찰,전수조사TF가동",
+  "이대통령,지난주이어이번주도재계총수회동…메가프로젝트·대미...",
+  "이재명대통령,최태원이어이재용회장과만난다...메가프로젝트·대...",
+  "'빌게이츠패싱'두산에너빌리티,뉴스케일-테라파워놓고저울질",
+  "국가경쟁력위한노동시간연장,어디까지허용할것인가"
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T10:40:13.571301+09:00",
-   "자립 투자압박 총력전 와중에 내몰린 반도체 밥그릇싸움"
-  ],
   [
    "2026-08-26T10:50:14.808327+09:00",
    "현대차 끝낸 새만금 9조 품고 뛴다 30년 희망고문"
@@ -6071,9 +6067,17 @@
   [
    "2026-08-26T16:20:16.718813+09:00",
    "후속 점검 만찬 800조 이재명 반도체 이재용과 다시"
+  ],
+  [
+   "2026-08-26T16:40:14.972302+09:00",
+   "빌게이츠 놓고 저울질 뉴스케일 테라파워 두산에너빌리티 패싱"
+  ],
+  [
+   "2026-08-26T16:40:14.972302+09:00",
+   "어디까지 국가경쟁력 연장 노동시간 위한 허용할 것인가"
   ]
  ],
- "last_run": "2026-08-26T16:30:34.678433+09:00",
+ "last_run": "2026-08-26T16:40:33.036726+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
