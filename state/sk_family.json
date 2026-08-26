@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1677662/?sc=Naver",
-  "https://www.hg-times.com/news/articleView.html?idxno=304371",
   "https://news.mtn.co.kr/news-detail/2026081214492952388",
   "https://health.chosun.com/site/data/html_dir/2026/08/12/2026081201836.html",
   "https://www.rapportian.com/news/articleView.html?idxno=239341",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20260826131900054?input=1195m",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463346",
   "https://www.news1.kr/industry/general-industry/6270211",
-  "https://www.news2day.co.kr/article/20260826500212"
+  "https://www.news2day.co.kr/article/20260826500212",
+  "https://www.dt.co.kr/article/12080378",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80867"
  ],
  "seen_titles": [
-  "[포토]메가프로젝트전력공급협약식인사'염성진SK하이닉스사장'",
-  "전남광주·정부·한전·삼성전자·SK하이닉스,호남권반도체산단전력...",
   "여야,'광주반도체'충돌…민주당\"정부가기업팔비튼다고되나\"국힘...",
   "광주군공항반도체산단놓고여야격돌...입지·절차·미군협의쟁점",
   "호남반도체전력공급‘원팀’가동…2029년3GW공급",
@@ -6001,7 +5999,9 @@
   "전남광주시의회,고싸움놀이활성화·아동돌봄격차해소토론회",
   "이화여대강정혜동창,국문과후배위해장학금1억원쾌척",
   "李대통령-총수또만난다…메가프로젝트·대미압박지원사격요청",
-  "[최종현28주기]최종현이세운‘SKMS’…그룹성장·변화의근간"
+  "[최종현28주기]최종현이세운‘SKMS’…그룹성장·변화의근간",
+  "K-뷰티돌풍에재계부호지형도‘흔들’…재벌총수철옹성뚫은에...",
+  "[현장]\"3600여명삶문제,기다림은끝났다\"…거리로나온SK실트론노..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-08-26T15:50:13.329624+09:00",
    "SKMS 근간 변화의 성장 세운 최종현이"
+  ],
+  [
+   "2026-08-26T16:00:31.064772+09:00",
+   "3600여명 문제 나온 기다림은 끝났다 거리로 SK실트론"
   ]
  ],
- "last_run": "2026-08-26T15:50:28.098272+09:00",
+ "last_run": "2026-08-26T16:00:43.139827+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
