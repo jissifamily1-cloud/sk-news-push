@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3666402",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309048",
-  "https://www.newsis.com/view/NISX20260817_0003751502",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83316",
-  "https://imnews.imbc.com/news/2026/econo/article/6845258_36932.html",
-  "https://www.segye.com/newsView/20260817511929?OutUrl=naver",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212915",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608131318262410934",
-  "https://www.donga.com/news/Economy/article/all/20260817/134489195/1",
   "https://www.lawtv.kr/news/articleView.html?idxno=60688",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720622",
   "https://www.gpkorea.com/news/articleView.html?idxno=145729",
@@ -2999,18 +2990,18 @@
   "https://www.dailian.co.kr/news/view/1682741/?sc=Naver",
   "https://www.sedaily.com/article/20083556",
   "https://www.segye.com/newsView/20260826513663?OutUrl=naver",
-  "https://www.joongang.co.kr/article/25456355"
+  "https://www.joongang.co.kr/article/25456355",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=128727",
+  "https://biz.chosun.com/opinion/journalist/2026/08/26/52YMEEFMUJAHRHFUBWLDPXTYPI/",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311492&inflow=N",
+  "http://www.metroseoul.co.kr/article/20260826500425",
+  "https://view.asiae.co.kr/article/2026082615594149580",
+  "https://www.mk.co.kr/article/12136833",
+  "https://news.dealsitetv.com/articles/175228",
+  "https://www.yna.co.kr/view/AKR20260826135200004?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646651"
  ],
  "seen_titles": [
-  "[국제포토]가습기살균제참사의진실촉구기자회견",
-  "[국제포토]서대표의시신",
-  "[국제포토]비오는광장&추모집회지원은?",
-  "[국제포토]서울시,광장의추모집회불허",
-  "\"못팔면계약해지\"판매목표강제다비치안경,과징금14.7억",
-  "\"PB상품판매미달땐가맹해지\"…공정위,다비치안경에14억7700만원과...",
-  "국제약품,매출은39%늘었는데…주가는30%빠졌다.",
-  "김해시장우회광고의혹,시민단체가거리로나선다",
-  "축구협회,대표팀임시감독면접진행…포옛은서류탈락(종합)",
   "공정위,'갑질논란'다비치안경에과징금14억7700만원부과",
   "다비치안경,PB상품판매미달하면가맹해지압박했다과징금",
   "홍명보후임누가될까…축구대표팀‘새사령탑’면접돌입",
@@ -6001,7 +5992,16 @@
   "검찰,전보좌관금품의혹관련백종헌의원실압수수색",
   "검찰,‘前보좌관금품수수의혹’백종헌의원실압수수색",
   "검찰,‘前보좌관뇌물수수의혹’백종헌의원실압수수색",
-  "검찰,백종헌의원실압수수색…前보좌관금품수수의혹관련"
+  "검찰,백종헌의원실압수수색…前보좌관금품수수의혹관련",
+  "'전문직·명문대회원업계최다'라더니…듀오,허위광고로과징금3.4억",
+  "[기자수첩]골목상인·소비자부담키우는배달수수료…공정위조사...",
+  "한솔제지,담합과징금1426억원면제…상생지원고작6억원",
+  "정유사‘전속계약·깜깜이정산’막는다…주유소타사기름40%혼합...",
+  "검찰,백종헌의원실압수수색…前보좌관‘수천만원뇌물’의혹관",
+  "‘검찰수사권폐지’형소법개정안위헌일까...헌재가정식심판",
+  "[퇴근길7분뉴스]탄천물재생센터·웨스팅하우스·현대차·뤼튼",
+  "김정배前축구협회상근부회장경찰출석…정몽규조사초읽기",
+  "중앙지검,‘전직보좌관뇌물수수의혹’백종헌의원실압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "공정위에 정산장려금 조사 정유사 계열 주유소만 알뜰주유소협회"
   ]
  ],
- "last_run": "2026-08-26T15:50:54.766254+09:00",
+ "last_run": "2026-08-26T16:01:14.453928+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
