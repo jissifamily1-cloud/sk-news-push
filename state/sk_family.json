@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/sports/general-sport/6240250",
-  "https://www.dailian.co.kr/news/view/1677371/?sc=Naver",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93626",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/514482",
-  "http://www.maniareport.com/view.php?ud=2026081209211765456cf2d78c68_19",
-  "https://www.yna.co.kr/view/AKR20260727113100007?input=1195m",
   "https://view.asiae.co.kr/article/2026081210150584501",
   "https://biz.heraldcorp.com/article/10838497",
   "https://bizhankook.com/articles/line-group-owner-dongyang-architects.html",
@@ -2999,15 +2993,15 @@
   "https://www.kukinews.com/article/view/kuk202608260038",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=663159",
   "https://economist.co.kr/article/view/ecn202608260013",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84990"
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84990",
+  "http://www.popcornnews.net/news/articleView.html?idxno=130810",
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=207696",
+  "https://www.asiatime.co.kr/article/20260826500110",
+  "https://www.etoday.co.kr/news/view/2618266",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287190",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600095.html"
  ],
  "seen_titles": [
-  "최태원SK회장,다음주대만서젠슨황만난다…삼각동맹강화",
-  "최태원,'AI깐부'젠슨황과대만서재회...SKAI메모리동맹재확인",
-  "SK최태원,젠슨황과‘진짜깐부’로…대만서또만난다",
-  "한국펜싱,국제·아시아펜싱연맹과MOU체결…국제영향력강화",
-  "[기자의눈]대통령의폴더인사…'이재용·최태원생큐'인색한광주",
-  "'종료9.7초전소름의한끗→女에페세계챔피언탈환'송세라\"완전히펜...",
   "\"기량·자신감다올라왔다\"…펜싱에페송세라,AG2관왕도전",
   "SK하이닉스,中낸드50%증산…범용넘어HBF까지1위정조준[biz-플러스...",
   "\"세계선수권2회제패\"송세라,나고야AG개인·단체금메달겨냥",
@@ -6001,7 +5995,13 @@
   "이재용·최태원·정의선,李와연쇄회동…AI·美투자현안오르나",
   "李,'삼성·SK·현대'재계3대총수연쇄회동…'AI원팀'국가총력전",
   "'샌프란시스코AI서밋'후한달,최태원·이재용·정의선대통령과연...",
-  "李대통령,재계총수들과연쇄회동…'3대메가프로젝트'논의전망"
+  "李대통령,재계총수들과연쇄회동…'3대메가프로젝트'논의전망",
+  "이화여대강정혜동창,모교에'국문과80주년기념21기강정혜장학금'1억...",
+  "에코나우,18개국청소년'물위기해법'한목소리",
+  "李대통령-재계총수연쇄회동…3대메가·대미통상해법머리맞댄다",
+  "李대통령,재계총수연쇄회동⋯‘AI투자ㆍ美압박’머리맞댄다",
+  "李대통령,이재용·최태원·정의선연쇄회동…'AI원팀'투자속도전",
+  "美투자압박·中자립총력전와중에…밥그릇싸움내몰린韓반도체..."
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-08-26T08:00:31.673910+09:00",
    "이재용 AI 논의 정의선 만나는 투자 해법"
+  ],
+  [
+   "2026-08-26T10:40:13.571301+09:00",
+   "자립 투자압박 총력전 와중에 내몰린 반도체 밥그릇싸움"
   ]
  ],
- "last_run": "2026-08-26T10:30:33.193333+09:00",
+ "last_run": "2026-08-26T10:40:29.452318+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
