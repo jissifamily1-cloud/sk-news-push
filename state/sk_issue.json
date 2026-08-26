@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212762",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635530",
-  "https://www.newscj.com/news/articleView.html?idxno=3425529",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265798",
-  "https://www.sedaily.com/article/20079897",
-  "http://www.newskr.kr/news/articleView.html?idxno=105654",
-  "https://www.khan.co.kr/article/202608161350001",
   "https://www.ggilbo.com/news/articleView.html?idxno=1175048",
   "https://www.yna.co.kr/view/AKR20260816026200004?input=1195m",
   "https://biz.heraldcorp.com/article/10842697",
@@ -2999,16 +2992,16 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646461",
   "https://www.kizmom.com/news/articleView.html?idxno=112337",
   "http://www.lawleader.co.kr/news/articleView.html?idxno=19799",
-  "https://www.mt.co.kr/society/2026/08/26/2026082610225415327"
+  "https://www.mt.co.kr/society/2026/08/26/2026082610225415327",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721741",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120759",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608240959115400108629",
+  "http://www.inews24.com/view/1998390",
+  "https://view.asiae.co.kr/article/2026082609404790641",
+  "http://www.4th.kr/news/articleView.html?idxno=2116864",
+  "https://www.hankyung.com/article/202608263500i"
  ],
  "seen_titles": [
-  "[차이나딜레마①]지분·IP부터경영권까지…K-게임생태계덮친'차이나...",
-  "정유4사'26조유가담합'이주첫재판···짬짜미·주유소갑질공방",
-  "대한항공·아시아나통합후노선·마일리지어떻게?",
-  "대한항공·아시아나통합효과본격화...노선효율화로‘규모의경제’...",
-  "대한항공\"통합되면노선늘고황금시간대확보…운임인상은불가능\"",
-  "\"국대출신으로서쪽팔린다\"...축구협회안마방법카결제의혹에폭발...",
-  "대한항공·아시아나12월통합…\"노선다양해지고가격안오른다\"",
   "국고채담합심판대오른국책은행···정부배당·정책금융'이중부담...",
   "통합대한항공,중복노선재편…신규취항·증편확대",
   "대한항공·아시아나12월통합한다…시간대·신규노선확대",
@@ -6001,7 +5994,14 @@
   "[단독]주가조작합동대응단,한미회계법인압수수색…미공개정보이용...",
   "주진우\"투표지보다득표수많았다\"…전국46곳'유령투표소'의혹",
   "사법제도변화에김정욱변협회장이변호사대회서강조한것은?",
-  "직접만든매크로로아이돌티켓1700장싹쓸이…4억챙긴30대"
+  "직접만든매크로로아이돌티켓1700장싹쓸이…4억챙긴30대",
+  "돈은벌었는데곳간은비었다...한솔제지'영업익620억'의두얼굴",
+  "쿠팡,공정위현장조사거부…대규모유통업법조사첫무산",
+  "[더벨][한진칼공정위규제대응]'불법운임인상'역대급제재…통합...",
+  "HCT·현대교정기술원,공공입찰반복담합에도공정위'경고'",
+  "[사설]공정위조사막아선쿠팡,법위에설수없다",
+  "'LH감리입찰뇌물'심사위원2명무죄…\"증거위법수집\"",
+  "주진우\"46개투표소에서투표수보다득표수가더많아\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "섞어 까지 SK주유소서 기름 판다 에쓰오일 GS 오일뱅크"
   ]
  ],
- "last_run": "2026-08-26T11:01:09.870226+09:00",
+ "last_run": "2026-08-26T11:09:55.914887+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
