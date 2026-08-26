@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.consumuch.com/news/articleView.html?idxno=78854",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645394",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=600950",
-  "https://biz.heraldcorp.com/article/10851387",
-  "https://www.newscj.com/news/articleView.html?idxno=3427556",
   "http://www.issuenbiz.com/news/articleView.html?idxno=79035",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7180537",
   "http://www.newstown.co.kr/news/articleView.html?idxno=713538",
@@ -2999,14 +2994,14 @@
   "https://www.donga.com/news/Economy/article/all/20260826/134551960/1",
   "https://view.asiae.co.kr/article/2026082621112179092",
   "https://www.thepublic.kr/news/articleView.html?idxno=316378",
-  "https://www.dailian.co.kr/news/view/1682881/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1682881/?sc=Naver",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443377",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443378",
+  "https://www.khan.co.kr/article/202608262129005",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=593516",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859820"
  ],
  "seen_titles": [
-  "[특징주]아스플로,해외반도체장비업체와298억원공급계약",
-  "[통신]KT대졸신입채용/SKT갤럭시퀀텀7/LGU+유독Pick확대",
-  "SKhynixUnionRejectsTentativeLaborDealby25Votes",
-  "AI데이터센터·HVDC겨냥…효성중공업,글로벌전력망시장공략가속",
-  "SK하이닉스임단협25표차부결…'자사주성과급'이견에발목",
   "[25일인천영종구]운서중~영종하늘도시잇는공영버스5-6번신설등",
   "[헤럴드pic]기후에너지기업일자리찾아볼까",
   "삼성물산,삼성전자배당확대수혜기대",
@@ -6001,41 +5996,14 @@
   "박현주미래에셋회장“부동산으로돈버는시대는이제끝나야”",
   "박현주“삼전닉스,배당보다투자해야…주주환원요구는허접한얘기”",
   "SKAX-SAP,'AI네이티브엔터프라이즈'동맹…기업AX공략속도",
-  "[데일리안오늘뉴스종합]네팔홍수,외국인291명등384명소재불명…..."
+  "[데일리안오늘뉴스종합]네팔홍수,외국인291명등384명소재불명…...",
+  "[상한가종목]SK아이이테크놀로지-이월드이어시그네틱스-유디엠텍등...",
+  "코스피,강보합에6800선회복...삼성생명,삼성물산상승VS현대차,삼...",
+  "이대통령,이재용회장만나‘메가후속·대미투자’해법논의",
+  "경남FCU18진주고,아시아유스강호와겨룬다",
+  "이란'블랙리스트'선박45척공개...해운업계발칵"
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "MTS 하나증권 뉴스투데이 HTS 28일부터 공급"
-  ],
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "재점화 반등에 신용융자 빚투 증시 4조 3주"
-  ],
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "2차전지 가속 상용화 전고체 차세대 폭풍 배터리 로드맵"
-  ],
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "효능 1조 관건 입증이 베팅 SK바이오팜 내약성 오파칼림에"
-  ],
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "꿈꿔 낸드 제치고 YMTC 1위 FT 중국 세계 삼전닉스"
-  ],
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "SPA 27일 KKR 이사회서 수준 AI 울산 IMM 3조원 DC 의결"
-  ],
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "후원 국가대표 응원 오상욱 업고 SKT 8인 국민 황선우 뛴다 박혜정"
-  ],
-  [
-   "2026-08-26T15:31:13.107516+09:00",
-   "곳곳 비용부담에 데이터센터 암초 정치압박"
-  ],
   [
    "2026-08-26T15:41:12.189660+09:00",
    "추가 빅딜에도 이동훈 4억달러 SK바이오팜 가능 사장"
@@ -6831,9 +6799,13 @@
   [
    "2026-08-26T21:21:11.099669+09:00",
    "홍수 291명 외국인 네팔 소재불명 384명"
+  ],
+  [
+   "2026-08-26T21:31:18.041225+09:00",
+   "선박45척 공개 발칵 블랙리스트 해운업계 이란"
   ]
  ],
- "last_run": "2026-08-26T21:21:21.011377+09:00",
+ "last_run": "2026-08-26T21:31:23.880894+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
