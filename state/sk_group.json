@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-stock.kr/news/articleView.html?idxno=33231",
-  "https://www.mt.co.kr/industry/2026/08/25/2026082510561339847",
-  "https://www.ytn.co.kr/_ln/0102_202608251146021687",
-  "https://www.mydaily.co.kr/page/view/2026082422582976062",
-  "https://www.aitimes.com/news/articleView.html?idxno=214321",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=271893",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=227639",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=143506",
-  "https://www.munhwa.com/article/11611926",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431679",
-  "http://www.thebigdata.co.kr/view.php?ud=2026082510523182790a47484cf8_23",
-  "https://www.joongdo.co.kr/web/view.php?key=20260825010007102",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431677",
   "https://www.edaily.co.kr/News/Read?newsId=03325926645550928&mediaCodeNo=257",
   "https://www.munhwa.com/article/11611921",
@@ -2999,21 +2987,21 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608260633&t=NN",
   "https://www.nocutnews.co.kr/news/6568767",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=644108",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851658"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851658",
+  "https://www.hani.co.kr/arti/economy/marketing/1274494.html",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1177788",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=236446",
+  "https://www.mt.co.kr/world/2026/08/26/2026082619223610281",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=131914",
+  "https://view.asiae.co.kr/article/2026082619350929890",
+  "https://www.newsis.com/view/NISX20260826_0003764198",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275580",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3675774",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3675777",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=126356",
+  "https://www.dt.co.kr/article/12080452"
  ],
  "seen_titles": [
-  "키움고액자산가'반도체·에너지'로이동…10억이상1년새81%급증",
-  "낙폭줄인코스피,6550선회복…외국인2조원순매도",
-  "SK바이오팜,‘K-브랜드지수’제약·바이오부문톱10탈락…동아제약...",
-  "Industryon\"emergencyalert\"overendof3G",
-  "日반도체장비7월35%급증…27년7.4조엔전망",
-  "AI전력소모30배아낀‘베라루빈’…K반도체초격차도약시험대",
-  "\"GPU지능결정은메모리\"…SK하이닉스,3D적층·CXL풀링승부수",
-  "[멜콘IPO]워트보다우위자신…보수적몸값자신감",
-  "'성과급60%주식'SK하닉노사합의안부결에역풍?...현대차는극적타...",
-  "반도체투톱3%대하락출발...외국인매도우위",
-  "'와미쳤다'9위팀신인투수이럴줄알았나,32년전롯데레전드소환...",
-  "위버스브레인,음성AI로SKT와AI에이전트개발협력",
   "329개기업지출합쳐도'삼성·SK'못넘어…투자'온도차'극명",
   "현대건설디에이치,하이엔드주거2026년8월브랜드평판1위",
   "코스피,장중낙폭2%내축소...은행·원전·건설등↑",
@@ -6001,45 +5989,21 @@
   "[속보]\"삼전닉스,보고있나?\"…'3위→1위'로거침없는선언中",
   "행정통합한전남광주의회,TK에건넨조언…\"합친뒤기준미리정해야...",
   "진주고,K리그아시안유스챔피언십출격",
-  "[시큐리티포커스]국정원'사이버서밋코리아'개최·파이오링크'필..."
+  "[시큐리티포커스]국정원'사이버서밋코리아'개최·파이오링크'필...",
+  "SK하이닉스임단협잠정합의안부결…노사,재협상예고",
+  "[주식마감]'SK이노베이션과흡수합병'에SK아이이테크놀로지상한가......",
+  "\"수도권은폭발,지방은소멸\"이대통령균형발전드라이브",
+  "중국YMTC\"2027년까지낸드1위\"…삼성·SK하이닉스정조준",
+  "SKT후원국가대표8명,아시안게임출사표…\"AI기술로경기력지원\"",
+  "용인시,‘글로벌도시브랜드'대상…이상일“반도체전력·용수공급...",
+  "[올댓차이나]홍콩증시,기술주매수로사흘만에반등마감…H주1.05...",
+  "Samsung,SKhynixClashOverNext-GenAIMemoryat'HotChips2026'",
+  "이상일용인시장,반도체산단전력·용수공급촉구…\"중앙정부지원절...",
+  "용인시,'글로벌도시브랜드대상'반도체선도도시부문수상",
+  "'갑작스러운비보'박종하-안정욱부상소식에사령탑도진한아쉬움드...",
+  "정부,5극3특성장엔진3~4개선정…‘7대패키지’집중지원"
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T13:31:15.924838+09:00",
-   "경쟁력에 렉라자 넘어 조명 시장 차세대 유한양행 신약으로"
-  ],
-  [
-   "2026-08-26T13:31:15.924838+09:00",
-   "수조원 키운 번에 클릭 프로그램 매매가"
-  ],
-  [
-   "2026-08-26T13:31:15.924838+09:00",
-   "기관 순매수에 강세 코스피 급반등 삼전닉스"
-  ],
-  [
-   "2026-08-26T13:31:15.924838+09:00",
-   "결론 정책 오판으로 탈원전 본격화 원전 생태계 새판짜기"
-  ],
-  [
-   "2026-08-26T13:31:15.924838+09:00",
-   "D로 중심축 제약업계 여성 오너 시대 이동 열린다 영업 중심에서"
-  ],
-  [
-   "2026-08-26T13:41:03.322019+09:00",
-   "뜬다 원전 하반기 건설사는 짓는"
-  ],
-  [
-   "2026-08-26T13:41:03.322019+09:00",
-   "않는 1위 8월 JYP엔터 우려 목표주가 가시지 하향"
-  ],
-  [
-   "2026-08-26T13:41:03.322019+09:00",
-   "종료 회동 숨고르기중 2차 김윤덕 오세훈 코스피는"
-  ],
-  [
-   "2026-08-26T13:41:03.322019+09:00",
-   "SKT 카카오 세액공제 AIDC 시급 한목소리"
-  ],
   [
    "2026-08-26T13:51:10.512045+09:00",
    "브랜드 신성엠케이 의류 입히고 편조원단에 대표 인터뷰 조주연"
@@ -7083,9 +7047,21 @@
   [
    "2026-08-26T19:31:14.626462+09:00",
    "서밋 파이오링크 사이버 국정원 코리아 개최"
+  ],
+  [
+   "2026-08-26T19:41:04.696731+09:00",
+   "대상 선도 도시브랜드 수상 도시 반도체 부문 용인시 글로벌"
+  ],
+  [
+   "2026-08-26T19:41:04.696731+09:00",
+   "소식에 안정욱 갑작스러운 사령탑도 부상 박종하 아쉬움 비보 진한"
+  ],
+  [
+   "2026-08-26T19:41:04.696731+09:00",
+   "정부 4개 7대 성장엔진 지원 선정 5극3특 패키지 집중"
   ]
  ],
- "last_run": "2026-08-26T19:31:26.016159+09:00",
+ "last_run": "2026-08-26T19:41:16.806816+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
