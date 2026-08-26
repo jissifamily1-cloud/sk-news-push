@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=608657",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315157",
-  "https://www.mediajeju.com/news/articleView.html?idxno=365745",
-  "https://www.donga.com/news/Society/article/all/20260818/134493930/1",
   "https://www.newscj.com/news/articleView.html?idxno=3425945",
   "https://www.yna.co.kr/view/AKR20260818074600056?input=1195m",
   "https://www.nocutnews.co.kr/news/6564026",
@@ -2999,13 +2995,13 @@
   "https://www.iusm.co.kr/news/articleView.html?idxno=1067051",
   "http://www.yonhapnewstv.co.kr/news/MYH20260826183314sXH",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547139",
-  "https://www.news1.kr/industry/distribution/6270568"
+  "https://www.news1.kr/industry/distribution/6270568",
+  "https://www.mt.co.kr/living/2026/08/26/2026082618533553318",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000006460&cp=nv",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000006457&cp=nv",
+  "https://view.asiae.co.kr/article/2026082618331156592"
  ],
  "seen_titles": [
-  "'헤이딜러'갑질피해자의제보",
-  "참여연대·민변,'헤이딜러'갑질공정위신고",
-  "대기업브랜드사용료2조2000억원돌파…SK,LG제치고첫1위",
-  "[ESG실무]⑥기업ESG정보'검증'의시대…그린워싱·공시리스크함께...",
   "'정치권로비의혹'경찰,제주아파트시행사압수수색",
   "대기업간판값1위는SK…하이닉스업고6년만에LG제쳐",
   "대기업'간판값'처음2조넘었다…SK·LG·한화순",
@@ -6001,7 +5997,11 @@
   "매크로로1분만에티켓80장'싹쓸이'…13배뻥튀기암표상구속",
   "검찰,백종헌의원실압수수색…전보좌관뇌물혐의",
   "공정위,현장조사거부쿠팡제재방침…과태료부과검토",
-  "공정위·쿠팡,현장조사사전통지공방…여당은법개정추진"
+  "공정위·쿠팡,현장조사사전통지공방…여당은법개정추진",
+  "\"기습조사부당\"vs\"증거인멸우려\"...공정위현장조사초유의'법적분...",
+  "‘무안공항로컬라이저는적법’허위자료낸국토부7명송치",
+  "혼자풀수없는이중당적…설익은선관위·행안부역할론",
+  "'수면제대리수령'싸이…의료법위반혐의약식기소"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "공정위에 정산장려금 조사 정유사 계열 주유소만 알뜰주유소협회"
   ]
  ],
- "last_run": "2026-08-26T18:50:55.466002+09:00",
+ "last_run": "2026-08-26T19:01:11.344034+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
