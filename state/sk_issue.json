@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260816_0021400613",
-  "https://www.news1.kr/society/incident-accident/6260566",
-  "http://www.inews24.com/view/1995452",
-  "https://www.yna.co.kr/view/PYH20260816037100013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260816037300013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260816037200013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260816037500013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260816037600013?input=1196m",
@@ -2999,14 +2994,14 @@
   "https://hbnpress.com/news/view/1065578814634248",
   "http://www.newstomato.com/ReadNews.aspx?no=1311025&inflow=N",
   "https://www.joongang.co.kr/article/25456278",
-  "https://www.sisajournal.com/news/articleView.html?idxno=384832"
+  "https://www.sisajournal.com/news/articleView.html?idxno=384832",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245192",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260826112957vQZ",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=391308",
+  "https://www.mt.co.kr/thebio/2026/08/26/2026082609523315928",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690107.html"
  ],
  "seen_titles": [
-  "\"자료내다무산될판\"…공정위늦장심사에표류하는M&A",
-  "김연창전대구시경제부시장뇌물수수사건,검찰미래위진상조사",
-  "대한항공·아시아나통합후노선재편,중복시간대줄이고신규취항...",
-  "대한항공·아시아나12월통합..중복노선줄이고신규취항늘린다",
-  "가습기살균제피해자단체,광화문광장빈소설치두고서울시와대치",
   "검찰,'통일교의혹관련증거인멸혐의'전재수전보좌진에실형구형",
   "가습기살균제피해자단체,광화문빈소설치두고서울시와대치",
   "가습기살균제피해자연대,광화문빈소설치두고서울시와대치중",
@@ -6001,7 +5996,12 @@
   "주진우\"선관위자료점검투표수보다득표수많은'유령투표소'46곳...",
   "(단독)간첩단사건'무죄'에도포상금은'국고환수'불가…국정원은'생...",
   "혼선주려여장까지…中유학생살해혐의중국인수사본격화",
-  "SK주유소서GS칼텍스기름판다…타사제품최대40%까지허용"
+  "SK주유소서GS칼텍스기름판다…타사제품최대40%까지허용",
+  "'할인비용전가의혹'쿠팡,공정위현장조사거부",
+  "국힘주진우\"투표수보다득표수많은투표소46곳적발\"",
+  "주진우\"투표수보다득표수많은'유령투표소'46곳적발…특검강제수...",
+  "\"공단직원이제보\"기밀유출'자백'에도수사중단...왜?",
+  "'LH입찰뒷돈의혹'공기업직원들무죄…\"위법수집증거\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "섞어 까지 SK주유소서 기름 판다 에쓰오일 GS 오일뱅크"
   ]
  ],
- "last_run": "2026-08-26T11:21:09.426617+09:00",
+ "last_run": "2026-08-26T11:31:04.475557+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
