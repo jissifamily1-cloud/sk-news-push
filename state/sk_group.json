@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11611956",
-  "https://www.fnnews.com/news/202608251540100450",
-  "http://www.inews24.com/view/1998107",
-  "https://www.wikitree.co.kr/articles/1154831",
-  "http://www.inews24.com/view/1998078",
-  "https://www.fnnews.com/news/202608251538210551",
-  "https://www.hankyung.com/article/2026082516606",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=859401",
   "https://www.newsis.com/view/NISX20260825_0003761903",
   "http://www.press9.kr/news/articleView.html?idxno=81634",
@@ -2999,16 +2992,16 @@
   "https://theviewers.co.kr/View.aspx?No=4199258",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647310",
   "https://www.koreatimes.co.kr/path/A2026082615390002088",
-  "https://www.news2day.co.kr/article/20260826500181"
+  "https://www.news2day.co.kr/article/20260826500181",
+  "https://www.greened.kr/news/articleView.html?idxno=348535",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311588&inflow=N",
+  "https://www.fnnews.com/news/202608270725064214",
+  "https://www.slist.kr/news/articleView.html?idxno=761608",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63429",
+  "https://www.g-enews.com/view.php?ud=202608270718259920fbbec65dfb_1",
+  "https://news.bizwatch.co.kr/article/healthcare/2026/08/21/0032"
  ],
  "seen_titles": [
-  "[속보]삼성전자보합,SK하이닉스0.42%상승마감",
-  "삼성·LG로넘어간李-총수회동..투자보다‘실행해법’에시선",
-  "'정자역더블역세권'더샵분당하이스트,9월143가구일반분양",
-  "[치솟는국채금리]재정적자에중동발인플레우려까지...글로벌장기채...",
-  "엔비디아깜짝실적으론부족…\"이익률과젠슨황입에달렸다\"",
-  "[사라지는저가폰]①'칩플레이션'에무너지는보급형스마트폰시장",
-  "SK하이닉스,40조자사주소각나선까닭…저평가해소승부수되나",
   "UNIST,최첨단스마트강의실‘넥서스홀’개소…반도체인재양성거...",
   "코스피6740선반등…외국인3.8조팔았지만기관·개인'받았다'[fn마감...",
   "SK하이닉스100조투자청주…특별법기반'청주반도체클러스터'추진",
@@ -6001,7 +5994,14 @@
   "[건설의생존④]현금이최고…불황속‘돈’만드는새로운방법",
   "‘코치조언까지척척’아시아최강펜싱에AI혁신더해지다",
   "Samsung,SKhynixshareholderreturnsseendrivingfurtherwonstreng",
-  "[은행PB의포트폴리오③]윤종연하나은행PB팀장“안전자산·투자자..."
+  "[은행PB의포트폴리오③]윤종연하나은행PB팀장“안전자산·투자자...",
+  "이재명대통령,최태원이어이재용회장과비공개면담무슨이야기나...",
+  "이대통령,이재용과비공개만찬…메가프로젝트·대미투자논의",
+  "하나證\"SK이노,2.6%희석보다무서운자회사부담…주주보호책필요\"",
+  "엔비디아,'베라루빈'양산본격화…HBM수요더커진다",
+  "이상일용인시장\"현정부,반도체국가산단추진단회의1년3개월째'...",
+  "키옥시아1조엔증설과YMTC상장에낸드공급망긴장",
+  "[K-신약]②'허가'끝난게아니다…생존경쟁본게임"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,29 @@
   [
    "2026-08-27T07:21:04.584349+09:00",
    "안전자산 투자자 윤종연 PB팀장 하나은행"
+  ],
+  [
+   "2026-08-27T07:31:10.048179+09:00",
+   "주주보호책 자회사 하나 부담 무서운 희석보다 필요 SK이노"
+  ],
+  [
+   "2026-08-27T07:31:10.048179+09:00",
+   "베라 본격화 루빈 수요 엔비디아 양산 HBM 커진다"
+  ],
+  [
+   "2026-08-27T07:31:10.048179+09:00",
+   "정부 용인시장 1년 추진단 이상일 국가산단 반도체 3개월째 회의"
+  ],
+  [
+   "2026-08-27T07:31:10.048179+09:00",
+   "낸드 긴장 1조엔 공급망 키옥시아 YMTC 증설과 상장에"
+  ],
+  [
+   "2026-08-27T07:31:10.048179+09:00",
+   "허가 생존경쟁 본게임 아니다 끝난게"
   ]
  ],
- "last_run": "2026-08-27T07:21:26.689078+09:00",
+ "last_run": "2026-08-27T07:31:26.377265+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
