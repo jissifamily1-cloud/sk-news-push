@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050823",
-  "https://www.cwn.kr/news/articleView.html?idxno=53036",
-  "https://www.joongang.co.kr/article/25452804",
-  "http://www.inews24.com/view/1994415",
   "https://www.inews365.com/news/article.html?no=931579",
   "https://view.asiae.co.kr/article/2026081216532261399",
   "https://www.etoday.co.kr/news/view/2613854",
@@ -2999,13 +2995,13 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3675645",
   "https://www.cbci.co.kr/news/articleView.html?idxno=601231",
   "https://www.dailian.co.kr/news/view/1682813/?sc=Naver",
-  "https://www.sisajournal.com/news/articleView.html?idxno=384966"
+  "https://www.sisajournal.com/news/articleView.html?idxno=384966",
+  "https://www.newspim.com/news/view/20260826001087",
+  "https://www.dailian.co.kr/news/view/1682740/?sc=Naver",
+  "https://www.ajunews.com/view/20260826142733498",
+  "https://economist.co.kr/article/view/ecn202608260071"
  ],
  "seen_titles": [
-  "[인사]포항시",
-  "SK하이닉스,인디애나팹27일착공식…2028년HBM양산목표",
-  "[포토]반도체전력공급협약후에도멈추지않는대화",
-  "SK하이닉스미국인디애나공장27일착공식…최태원·젠슨황만날까",
   "SK하이닉스인디애나팹27일착공…최태원·젠슨황회동하나",
   "빌게이츠오고,구광모는美로…14일재계'빅데이'",
   "SK하이닉스,19일청주오스코서채용설명회",
@@ -6001,7 +5997,11 @@
   "안신일세종시의장,'지방의회법제정추진TF'단장맡아",
   "이재명대통령,이재용,최태원,정의선과연쇄회동추진…AI경쟁대응...",
   "이재용,오늘李대통령과회동…메가특구'속도전'담판",
-  "李대통령,삼성·SK·현대차총수와잇단회동…AI투자논의"
+  "李대통령,삼성·SK·현대차총수와잇단회동…AI투자논의",
+  "국회찾은안신일세종시의장,지방의회법조속처리촉구",
+  "李대통령,재계총수연쇄회동…韓美통상압박속'민관원팀'승부수...",
+  "\"한달에한번꼴\"李잇단SOS에피곤한재계...'투자자판기'부담호...",
+  "[CEOAtoZ]최태원,왜AI에1000조베팅했나봤더니"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,17 @@
   [
    "2026-08-26T16:56:37.139522+09:00",
    "직접 달라졌다 현지경영 사업 지휘 1년"
+  ],
+  [
+   "2026-08-26T18:10:15.925811+09:00",
+   "잇단 부담 SOS에 피곤한 투자 자판기 번꼴 재계 달에"
+  ],
+  [
+   "2026-08-26T18:10:15.925811+09:00",
+   "AI에 베팅했나 봤더니 1000조"
   ]
  ],
- "last_run": "2026-08-26T18:00:43.376140+09:00",
+ "last_run": "2026-08-26T18:10:34.510192+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
