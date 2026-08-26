@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=745004",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480323",
-  "http://www.lawissue.co.kr/view.php?ud=20260825114220797567191f6c6e_12",
-  "https://www.joongangenews.com/news/articleView.html?idxno=542503",
-  "https://www.jbnews.com/news/articleView.html?idxno=1510082",
   "https://www.munhwa.com/article/11611864",
   "https://www.ggilbo.com/news/articleView.html?idxno=1177338",
   "https://www.bloter.net/news/articleView.html?idxno=671713",
@@ -2999,14 +2994,14 @@
   "https://www.busan.com/view/busan/view.php?code=2026082618475114359",
   "http://www.cctimes.kr/news/articleView.html?idxno=923760",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431962",
-  "https://www.segye.com/newsView/20260826517883?OutUrl=naver"
+  "https://www.segye.com/newsView/20260826517883?OutUrl=naver",
+  "https://www.edaily.co.kr/News/Read?newsId=04880646645551256&mediaCodeNo=257",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1096013",
+  "http://www.footballist.co.kr/news/articleView.html?idxno=214034",
+  "https://www.laborplus.co.kr/news/articleView.html?idxno=41373",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=31060"
  ],
  "seen_titles": [
-  "‘13조하안주공’수주전본격화…현설은'북적',본입찰은'물음표'",
-  "‘60%주식지급’부결…현금비중이관건",
-  "[이성엽의IT프리즘]국가대표AI,모두의AI그리고프런티어AI의구분",
-  "SK하이닉스임단협잠정합의안부결…노사재협상",
-  "코스피,뉴욕기술주급락에장중1~2%대하락…장중낙폭은다소축소",
   "SK하이닉스임단협잠정합의안부결…단25표차",
   "SK하이닉스,임단협잠정합의안25표차부결⋯노사,다시협상테이블로",
   "[카드]'정자역품은1149가구'더샵분당하이스트,리모델링으로새단...",
@@ -6001,13 +5996,14 @@
   "“미·중이어한국이AI3위…탄탄한인재와공공투자에기인”",
   "충북체육회,제107회전국체전\"종합9위목표\"",
   "박현주,디지털X에또베팅…\"흑자나면최대3천억추가증자\"",
-  "靑,미래대응기금‘쌈짓돈’비판에“책임있는재정운용”"
+  "靑,미래대응기금‘쌈짓돈’비판에“책임있는재정운용”",
+  "AI덕에권력쥔메모리…'사상최초'비메모리매출역전",
+  "충북반도체클러스터판키운다",
+  "\"패배는잊어도치욕은잊지말자\"유병훈감독의메시지\"냉정히돌아...",
+  "기후위기의시대,'메가프로젝트'어떻게봐야할까?",
+  "이상일용인시장\"삼성팹가동앞당긴만큼부지조성도서둘러야\"…정..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T13:07:55.229162+09:00",
-   "Pharma Fortune Years and In Cross Threshol Biotech the Five Will"
-  ],
   [
    "2026-08-26T13:21:05.937069+09:00",
    "9T Deal Signs Biopharmaceuticals Licensing Candid for Drug Epilepsy"
@@ -7063,9 +7059,25 @@
   [
    "2026-08-26T19:01:21.834432+09:00",
    "비판에 있는 쌈짓돈 책임 재정 운용 미래대응기금"
+  ],
+  [
+   "2026-08-26T19:11:06.378704+09:00",
+   "키운다 클러스터 충북 반도체"
+  ],
+  [
+   "2026-08-26T19:11:06.378704+09:00",
+   "유병훈 돌아 말자 잊지 메시지 치욕은 패배는 냉정히 감독의 잊어도"
+  ],
+  [
+   "2026-08-26T19:11:06.378704+09:00",
+   "기후 메가프로젝트 위기의 어떻게 시대 봐야 할까"
+  ],
+  [
+   "2026-08-26T19:11:06.378704+09:00",
+   "조성도 앞당긴 용인시장 삼성 서둘러야 가동 만큼 이상일 부지"
   ]
  ],
- "last_run": "2026-08-26T19:01:30.846398+09:00",
+ "last_run": "2026-08-26T19:11:20.778426+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
