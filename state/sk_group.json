@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.energydaily.co.kr/news/articleView.html?idxno=202483",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008720644&plink=ORI&cooper=NAVER",
-  "https://m.skyedaily.com/news_view.html?ID=310435",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608192229216640105149",
-  "https://www.newstnt.com/news/articleView.html?idxno=715103",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2276485",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275461",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83786",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=362170",
@@ -2999,15 +2993,15 @@
   "https://www.newstnt.com/news/articleView.html?idxno=715441",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445700",
   "https://www.khan.co.kr/article/202608262054025",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721838"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721838",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000006508&cp=nv",
+  "https://www.hankyung.com/article/202608264186i",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721839",
+  "https://sateconomy.co.kr/news/view/1065593217635223",
+  "https://www.the-today.com/news/articleView.html?idxno=88997",
+  "https://www.mk.co.kr/article/12133244"
  ],
  "seen_titles": [
-  "'안정·경쟁력재생e조달'글로벌반도체투자유치어필",
-  "SK케미칼,센스맘과맞손…베개부터매트리스까지'스카이펠'적용확대",
-  "삼성전자·SK하이닉스에삼성전기까지…퇴직연금ETF상장",
-  "\"AI·퀀텀컴퓨팅시대,바이오가가장큰기회맞는다\"",
-  "SK케미칼,침구내장재소재바꿨다...스카이펠적용시장베개이어...",
-  "미래에셋자산운용,'TIGER삼성전자SK하이닉스미국채혼합50ETF'신규상장",
   "SK하이닉스임단협잠정합의안부결...찬반25표차",
   "'산업단지에너지전환,탄소중립산단구축으로해법찾는다'",
   "SK하이닉스잠정합의안부결…현대차노사는합의",
@@ -6001,25 +5995,15 @@
   "[공시]나이벡·신라젠·아난티'공매도금지',더콘텐츠온·혜인'거래정...",
   "[8월27일자]비즈니스포스트아침의주요기사",
   "SK이노,분리했던SKIET다시합친다",
-  "박현주\"韓증시변동성,국내레버리지ETF탓아니다\""
+  "박현주\"韓증시변동성,국내레버리지ETF탓아니다\"",
+  "[포토]최신반도체패키징기술한자리에",
+  "박현주회장\"삼전닉스토큰부터금·전기코인까지...투자시장확바뀐...",
+  "[EBN오늘(26일)이슈종합]LGAI연구원,내년엑사원'수익화원년'연...",
+  "통신3사,AI활용각양각색…스포츠·채용·네트워크로확장",
+  "SKExecutiveCheyJae-won'sBrownDegreeRekindlesDebateOverLegacy",
+  "대기업도‘세대역전’…청년줄고장년늘었다[데이터로보는세상]"
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T15:05:05.584099+09:00",
-   "준공 마진 2공장 리튬 10월 시대 연다 포스코 내년"
-  ],
-  [
-   "2026-08-26T15:11:03.099979+09:00",
-   "43만4000원 급반전 장중 찍고 현대차 40만8000원 하락해"
-  ],
-  [
-   "2026-08-26T15:11:03.099979+09:00",
-   "기부 입학 특혜 1부 논란 레거시 최재원 브라운대"
-  ],
-  [
-   "2026-08-26T15:11:03.099979+09:00",
-   "LG전자 삼성전자 격돌 B2B 혼수 확장 신사업 플랫폼"
-  ],
   [
    "2026-08-26T15:21:05.420092+09:00",
    "Samsung lift the Could payouts won hynix"
@@ -6855,9 +6839,29 @@
   [
    "2026-08-26T21:02:49.029615+09:00",
    "증시 박현주 아니다 변동성 ETF 레버리지 국내"
+  ],
+  [
+   "2026-08-26T21:11:04.585031+09:00",
+   "삼전닉스 토큰부터 투자 코인까지 전기 회장 박현주 바뀐 시장"
+  ],
+  [
+   "2026-08-26T21:11:04.585031+09:00",
+   "AI연구원 내년 엑사원 LG 수익화 원년"
+  ],
+  [
+   "2026-08-26T21:11:04.585031+09:00",
+   "확장 각양각색 스포츠 활용 AI 채용 네트워크로 통신 3사"
+  ],
+  [
+   "2026-08-26T21:11:04.585031+09:00",
+   "Executive Degree Legacy Brown Jae won Chey Over and Debate Rekindles"
+  ],
+  [
+   "2026-08-26T21:11:04.585031+09:00",
+   "청년 늘었다 장년 역전 세대 대기업도 줄고"
   ]
  ],
- "last_run": "2026-08-26T21:03:11.131462+09:00",
+ "last_run": "2026-08-26T21:11:22.120590+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
