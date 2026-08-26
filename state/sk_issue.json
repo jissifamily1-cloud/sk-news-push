@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pharmnews.com/news/articleView.html?idxno=305635",
-  "https://biz.heraldcorp.com/article/10842164",
-  "http://www.osen.co.kr/article/G1112857772",
-  "http://www.tongilnews.com/news/articleView.html?idxno=217225",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=608580",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7178995",
-  "https://www.seoul.co.kr/news/international/2026/08/15/20260815500029?wlog_tag3=naver",
-  "https://www.ekn.kr/web/view.php?key=20260815020583147",
-  "http://www.breaknews.com/1229282",
   "https://www.mt.co.kr/society/2026/08/15/2026081516524426255",
   "http://www.domin.co.kr/news/articleView.html?idxno=1565293",
   "https://www.insight.co.kr/news/568411",
@@ -2999,18 +2990,18 @@
   "https://www.dkilbo.com/news/articleView.html?idxno=552327",
   "https://n.news.naver.com/mnews/article/214/0001520149",
   "https://www.newdaily.co.kr/site/data/html/2026/08/26/2026082600080.html",
-  "https://www.mt.co.kr/industry/2026/08/26/2026082607525314500"
+  "https://www.mt.co.kr/industry/2026/08/26/2026082607525314500",
+  "https://www.mhj21.com/news/articleView.html?idxno=253683",
+  "https://www.yna.co.kr/view/AKR20260826058100002?input=1195m",
+  "https://www.newsis.com/view/NISX20260826_0003762993",
+  "https://www.m-economynews.com/news/article.html?no=70093",
+  "https://www.ytn.co.kr/_ln/0103_202608261015282885",
+  "https://www.dailian.co.kr/news/view/1682452/?sc=Naver",
+  "https://www.mhj21.com/news/articleView.html?idxno=253684",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=364222",
+  "https://www.segye.com/newsView/20260826504946?OutUrl=naver"
  ],
  "seen_titles": [
-  "성남FC·백현동·법카까지…檢미래위조사19건중8건이李·측근사건",
-  "대웅제약에칼빼든국세청…이번엔‘리베이트수사’경찰서까지압수...",
-  "[단독탐사보도]⑧목포신협이사'공익제보자'보복성고소의혹…경...",
-  "한동훈내쫓은‘당게’다시움직였다…복당보다먼저닥친경찰수사",
-  "국힘,檢미래위李관련12건추가선정에\"공소취소추진위로간판바...",
-  "3분만에털린147억짜리그림…\"세잔·르누아르작품찾았다\"",
-  "매출성장뒤에숨은경고등...국제약품주가,장부가치도밑돌아",
-  "‘일매출2억’홈플재개장에도못웃는다…기로에선입점업체",
-  "\"다망쳐놓고해보라고?\"이천수,또분통...홍명보향해직격탄\"못들...",
   "광복81년,미완의해방…\"국가보안법이제는폐지해야\"",
   "가습기살균제피해자연대,故서영철대표추모…\"끝까지싸울것\"",
   "'통합대한항공'출범임박…'마일리지통합'숙제여전",
@@ -6001,7 +5992,16 @@
   "실종中유학생닷새만에시신으로발견…실종신고30대남성이피의...",
   "[시선집중]박균택“잘못된기소인데대통령이라고끝까지재판받으라...",
   "투표수보다득표수많은'유령투표소'46곳…주진우\"선관위데이터...",
-  "SK주유소서GS·에쓰오일·오일뱅크기름40%까지섞어판다"
+  "SK주유소서GS·에쓰오일·오일뱅크기름40%까지섞어판다",
+  "공정위조사브레이크,쿠팡'7일전통지'놓고법정공방",
+  "정유사-주유소전속거래·사후정산관행개선…표준계약서개정",
+  "주유소'전량구매·사후정산'관행개선…타사제품40%까지가능",
+  "“무능·부패”경찰…학계·시민사회“정보경찰폐지·권한분산이핵...",
+  "합수본,'입찰담합'선관위출신투표함업체대표재소환",
+  "LH입찰'뒷돈'공기업직원,무죄확정…증거있는데도왜?",
+  "6·3지선'유령투표소'46곳적발…\"투표지보다득표수많아\"",
+  "[시포TV]주진우\"선관위,개표관련데이터고의조작…유령이투표했...",
+  "정가21만원티켓“273만원주세요”…팬들울린암표상,포르쉐타고..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "섞어 까지 SK주유소서 기름 판다 에쓰오일 GS 오일뱅크"
   ]
  ],
- "last_run": "2026-08-26T10:10:58.487860+09:00",
+ "last_run": "2026-08-26T10:20:53.778062+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
