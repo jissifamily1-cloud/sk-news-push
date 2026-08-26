@@ -1,24 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/market-exr/6267760",
-  "https://www.edaily.co.kr/News/Read?newsId=03683446645550600&mediaCodeNo=257",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1012541",
-  "http://news.lghellovision.net/news/articleView.html?idxno=552137",
-  "https://www.namdonews.com/news/articleView.html?idxno=920917",
-  "http://www.metroseoul.co.kr/article/20260824500410",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851302",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445448",
-  "https://www.ziksir.com/news/articleView.html?idxno=144113",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431510",
-  "https://www.edaily.co.kr/News/Read?newsId=03673606645550600&mediaCodeNo=257",
-  "https://www.todayeconomic.com/news/article.html?no=31842",
-  "https://news.mtn.co.kr/news-detail/2026082415484699669",
-  "https://www.sidae.com/article/2026081914152234604",
-  "https://www.siminsori.com/news/articleView.html?idxno=401171",
-  "https://www.news1.kr/industry/auto-industry/6267722",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84892",
-  "https://news.tf.co.kr/read/economy/2357334.htm",
-  "https://www.mt.co.kr/stock/2026/08/24/2026082415481672205",
   "https://www.asiatime.co.kr/article/20260824500181",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=609432",
   "https://news.skbroadband.com/news/articleView.html?idxno=235765",
@@ -2999,28 +2980,28 @@
   "https://www.newspost.kr/news/articleView.html?idxno=225191",
   "https://www.ziksir.com/news/articleView.html?idxno=144296",
   "https://www.news2day.co.kr/article/20260826500062",
-  "https://www.yna.co.kr/view/AKR20260826041400008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260826041400008?input=1195m",
+  "http://www.metroseoul.co.kr/article/20260826500036",
+  "https://news.mtn.co.kr/news-detail/2026082609280489031",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721701",
+  "https://www.kizmom.com/news/articleView.html?idxno=112329",
+  "https://view.asiae.co.kr/article/2026082609285444278",
+  "https://www.gasnews.com/news/articleView.html?idxno=126498",
+  "https://www.seoul.co.kr/news/economy/securities/2026/08/26/20260826500035?wlog_tag3=naver",
+  "https://www.hankyung.com/article/2026082630636",
+  "https://www.fnnews.com/news/202608260907420762",
+  "http://www.finomy.com/news/articleView.html?idxno=259940",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480566",
+  "https://sateconomy.co.kr/news/view/1065572323781059",
+  "https://www.yna.co.kr/view/AKR20260826042500003?input=1195m",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059634",
+  "https://imnews.imbc.com/news/2026/econo/article/6847384_36932.html",
+  "https://en.yna.co.kr/view/AEN20260826001451320?input=2106m",
+  "https://www.seoul.co.kr/news/economy/securities/2026/08/26/20260826500037?wlog_tag3=naver",
+  "https://economist.co.kr/article/view/ecn202608260004",
+  "https://biz.chosun.com/it-science/ict/2026/08/26/FPWV7SCDT5CGTBDH7YGJIXKLII/"
  ],
  "seen_titles": [
-  "코스피,삼전닉스하락에3.12%급락…코스닥은1.42%↑",
-  "“110조도부족했나”…‘주주환원실망’삼성전자주가급락[머니+]",
-  "[거래소기관]삼성전자·SK하이닉스줄줄이매도...NAVER삼성SDI엘앤에...",
-  "SK하이닉스경영진,광주군공항전격방문…반도체클러스터'가속'",
-  "삼성전자‘역대급돈보따리’효과無…코스피,6700선내줬다[시황]",
-  "[오늘의증권]메리츠증권·신한투자증권·SK증권",
-  "삼성전자급락에그룹주도'출렁'…코스피6700선이탈[fn마감시황]",
-  "코스피,외인'팔자'에6700선밑으로…'25만전자'로뚝[마감시황]",
-  "외인3.7조순매도에도'원화강세'…달러·원1376원까지하락(종합)",
-  "삼전닉스150조원주주환원…달러풀려환율더내려갈까",
-  "SK하이닉스,광주군공항전격방문…반도체클러스터'가속도'",
-  "SK하이닉스,광주군공항찾아반도체집적단지논의",
-  "[마감시황]110조주주환원에도삼성전자8.7%급락마감",
-  "전남광주통합특별시,SK하이닉스의광주군공항현장직접방문…호남권...",
-  "[통신풍향계]SKT-서울대'AI공동과정'개설·KT'AX플랫폼컴퍼니'강...",
-  "AI데이터센터에조단위공격투자나선통신3사,엔비디아AI서버값인...",
-  "환율,수출업체네고물량·삼전닉스주주환원···장중1370원대까지하...",
-  "[증시-마감]코스피,삼전닉스급락에6,600선후퇴…외인3조원대순매...",
-  "코스피,삼성전자8%대급락에3.12%밀려6696선마감",
   "SKT,서울대와AI인재육성…정재헌CEO직접강단선다",
   "코스피,삼성전자8%대급락하자6600선후퇴…코스닥은1.42%상승[MTN마...",
   "소송안해도배상,집단소송법소급적용여야공방",
@@ -6001,7 +5982,26 @@
   "앤트로픽·솔리다임가치상승…SKT·SK하이닉스평가익영향은?",
   "물가잡는한은,1000조푸는정부…'엇박자재정'뇌관터지나",
   "\"美고금리기조에도버틸힘있어…韓IT비중확대유지\"<NH투자證>",
-  "[특징주]삼전닉스,보합으로출발해2%대상승세"
+  "[특징주]삼전닉스,보합으로출발해2%대상승세",
+  "SK인텔릭스,나무엑스'IR52장영실상'수상",
+  "코스피,장초반강보합…원전株강세",
+  "[EBN데이터센터]코스피,반도체주강세에1%대상승",
+  "SK하이닉스,델과AI메모리협력강화…HBM4·HBM4E공개",
+  "SKAX,SAP와'AI네이티브엔터프라이즈'협력…기업AX가속",
+  "SK이노베이션,자회사SKIET흡수합병단행",
+  "[서울데이터랩]코스피,하락출발뒤상승전환…삼성전자·SK하이닉스...",
+  "SK이노베이션,자회사SKIET흡수합병소식에10%대급락",
+  "SK이노베이션,자회사SKIET흡수합병소식에13%하락[특징주]",
+  "SK인텔릭스나무엑스,IR52장영실상···AI로보틱스기술인정",
+  "코스피,장초반1%대올라6820선...삼성전자·SK하이닉스동반강세",
+  "이재명대통령,삼성·SK·현대차총수연쇄회동…AI·투자현안점검",
+  "SK하이닉스,델포럼서AI메모리총망라…HBM4·eSSD등공개",
+  "삼성전자·SK하이닉스장초반동반강세…2%안팎반등",
+  "코스피하락출발직후상승전환‥삼성전자·하이닉스동반상승",
+  "(LEAD)SeoulstocksturnhigherafterweakstartaheadofNvidiaearnin",
+  "[서울데이터랩]개장직후인기검색종목20選",
+  "엔비디아'운명의날'미장도상승세…AI주,코스피향방가를까",
+  "[스마트클라우드쇼2026]AI가로봇·산업을움직인다…국내최대테크..."
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,25 @@
   [
    "2026-08-26T09:25:35.720102+09:00",
    "출발해 상승세 보합으로 삼전닉스"
+  ],
+  [
+   "2026-08-26T09:31:13.836591+09:00",
+   "stocks turn after weak Seoul Nvidia start ahead higher earnings LEAD of"
+  ],
+  [
+   "2026-08-26T09:31:13.836591+09:00",
+   "검색 인기 종목 직후 개장"
+  ],
+  [
+   "2026-08-26T09:31:13.836591+09:00",
+   "상승세 미장도 향방 운명의 AI주 코스피 가를까 엔비디아"
+  ],
+  [
+   "2026-08-26T09:31:13.836591+09:00",
+   "산업을 로봇 테크 움직인다 AI가 국내"
   ]
  ],
- "last_run": "2026-08-26T09:25:52.111330+09:00",
+ "last_run": "2026-08-26T09:31:28.130777+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
