@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1677606/?sc=Naver",
-  "http://www.segyebiz.com/newsView/20260812514125?OutUrl=naver",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7178653",
   "https://www.mk.co.kr/article/12125296",
   "http://www.fnnews.com/news/202608121418129549",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050732",
@@ -2999,12 +2996,12 @@
   "https://www.the-today.com/news/articleView.html?idxno=88919",
   "http://www.yonhapnewstv.co.kr/news/MYH20260826150932jYT",
   "https://daily.hankooki.com/news/articleView.html?idxno=1399466",
-  "https://www.viva100.com/article/20260826500707"
+  "https://www.viva100.com/article/20260826500707",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008875",
+  "https://www.mediapen.com/news/view/1118932",
+  "https://www.edaily.co.kr/News/Read?newsId=04070486645551256&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[위클리오늘]횡성군8월12일주요뉴스2차",
-  "\"경기도산모·소아의료인프라부족…24시간수용가능한권역'최종...",
-  "[현장]\"태어나는아이부터지켜야\"…경기도'주산기·어린이병원'지원...",
   "[산업지형바꾸는AI데이터센터]“칩·알고리즘보다중요”…‘AI3대...",
   "한전,호남권·용인반도체메가프로젝트전력공급나선다",
   "“받아줄병원이없다”…경기도산모·소아의료‘최종거점’확충...",
@@ -6001,7 +5998,10 @@
   "최창원,SK위기수습했지만주력사는439억적자…수펙스의장직내려...",
   "'허위종결'10여건더?…경찰,전수조사TF가동",
   "호남반도체'속도전'본격화…정부·여당총력전,광주·전남도실행단...",
-  "‘결국투자’⋯이대통령,재계총수와연쇄회동나서는까닭"
+  "‘결국투자’⋯이대통령,재계총수와연쇄회동나서는까닭",
+  "이재명·이재용회동…국내반도체투자·美투자압박대응",
+  "\"노사갈등속재조명\"...'100년대계'그린SK최종현의혜안",
+  "“1GW70조드는데수혜기업은0곳”…AIDC세액공제,조특법손질시급"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-08-26T15:00:30.831440+09:00",
    "내려 위기 439억 주력사는 수펙스 의장직 수습했지만 적자"
+  ],
+  [
+   "2026-08-26T15:40:15.396901+09:00",
+   "70조 1GW 세액공제 수혜 기업은 AIDC 조특법 드는데 0곳 시급 손질"
+  ],
+  [
+   "2026-08-26T15:40:15.396901+09:00",
+   "노사 혜안 재조명 대계 그린 갈등 100년 최종현의"
   ]
  ],
- "last_run": "2026-08-26T15:30:34.062233+09:00",
+ "last_run": "2026-08-26T15:40:32.692393+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
