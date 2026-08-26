@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lawissue.co.kr/view.php?ud=2026081416181488679aeda69934_12",
-  "https://www.segye.com/newsView/20260818506337?OutUrl=naver",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134452",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383823",
-  "https://www.ytn.co.kr/_ln/0102_202608181010465464",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534352",
-  "http://www.inews24.com/view/1995710",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309072",
   "https://news.jtbc.co.kr/article/NB12313794?influxDiv=NAVER",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244960",
   "https://www.yna.co.kr/view/PYH20260818048900013?input=1196m",
@@ -2999,17 +2991,17 @@
   "http://www.lawissue.co.kr/view.php?ud=202608261713496285b50722e900_12",
   "https://www.hankookilbo.com/news/article/A2026082617040005233?did=NA",
   "https://www.hankyung.com/article/2026082648471",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690180.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690180.html",
+  "https://www.imaeil.com/page/view/2026082618175090178",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120809",
+  "https://futurechosun.com/?p=158756",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431954",
+  "http://www.4th.kr/news/articleView.html?idxno=2116919",
+  "http://www.srtimes.kr/news/articleView.html?idxno=210937",
+  "https://www.fnnews.com/news/202608261550064747",
+  "https://www.hankyung.com/article/2026082648931"
  ],
  "seen_titles": [
-  "\"상생은구호뿐이었나\"…농협하나로유통,조직적부당행위에납품업체...",
-  "[뉴공아카이브]퍼니포:김민석대표선호투표끝당선…민주당새지...",
-  "대기업지주사'간판값'2조2천억원으로역대최대…SK1위올라",
-  "[ESG칼럼]공시의무화앞둔ESG오디세이",
-  "쿠팡최저가경쟁이면엔납품업체부담'전가'논란",
-  "법원,한탑공정위과징금집행잠정정지",
-  "카메라등이용촬영죄,경찰조사전촬영물을삭제해도될까",
-  "대기업‘간판값’2.2兆‘역대최대’…SK,LG제치고1위",
   "다비치안경'판매할당'에제동…목표못채우면계약종료압박",
   "SK·LG'간판값'만3000억원대…대기업상표권수입역대최대",
   "대기업지주사,지난해상표권사용료로2.2조벌어",
@@ -6001,7 +5993,15 @@
   "[서울고법판결]'김건희집사게이트'IMS모빌리티대표,항소심도'무죄...",
   "'강북오피스텔살인'50대구속기소…\"금품노린계획범죄\"",
   "\"투표수보다득표수더많은유령투표소46곳\"",
-  "검찰,백종헌의원실압수수색…'前보좌관금품수수의혹'"
+  "검찰,백종헌의원실압수수색…'前보좌관금품수수의혹'",
+  "\"사전통지없었다\"VS\"없어도된다\"공정위-쿠팡'현장조사논란'확산",
+  "공정위원장\"조사거부쿠팡형사고발…과태료부과도검토\"",
+  "[더나은미래경제브리핑]현대차자사주전량소각...김윤덕·오세훈,용...",
+  "주병기\"쿠팡,공정위현장조사거부…고발할것\"",
+  "주병기\"쿠팡조사거부형사고발\"…공정위는\"과태료검토\"",
+  "공정위,정유사·주유소간사후정산관행개선",
+  "[단독]불법사금융피해눈덩이...민생특사경'수사전문성'과제로",
+  "檢,담합캐다뇌물잡았지만,대법\"증거수집위법…무죄\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "공정위에 정산장려금 조사 정유사 계열 주유소만 알뜰주유소협회"
   ]
  ],
- "last_run": "2026-08-26T18:11:02.768121+09:00",
+ "last_run": "2026-08-26T18:20:54.832947+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
