@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260816037200013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260816037500013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260816037600013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260816037000013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260816036600013?input=1196m",
   "https://www.hani.co.kr/arti/opinion/column/1273119.html",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000003441&cp=nv",
@@ -2999,13 +2995,13 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260826112957vQZ",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391308",
   "https://www.mt.co.kr/thebio/2026/08/26/2026082609523315928",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690107.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690107.html",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=272149",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316265",
+  "https://biz.heraldcorp.com/article/10852692",
+  "https://www.newsis.com/view/NISX20260826_0003763254"
  ],
  "seen_titles": [
-  "검찰,'통일교의혹관련증거인멸혐의'전재수전보좌진에실형구형",
-  "가습기살균제피해자단체,광화문빈소설치두고서울시와대치",
-  "가습기살균제피해자연대,광화문빈소설치두고서울시와대치중",
-  "통합대한항공12월뜬다…아시아나마일리지전환은?",
   "광화문광장나선전국가습기살균제참사피해자연대",
   "광화문광장에조화놓은전국가습기살균제참사피해자연대",
   "광화문광장에나선전국가습기살균제참사피해자연대",
@@ -6001,7 +5997,11 @@
   "국힘주진우\"투표수보다득표수많은투표소46곳적발\"",
   "주진우\"투표수보다득표수많은'유령투표소'46곳적발…특검강제수...",
   "\"공단직원이제보\"기밀유출'자백'에도수사중단...왜?",
-  "'LH입찰뒷돈의혹'공기업직원들무죄…\"위법수집증거\""
+  "'LH입찰뒷돈의혹'공기업직원들무죄…\"위법수집증거\"",
+  "고려아연소액주주\"감사위원,경력보다견제력이먼저\"…의결권자문...",
+  "2조원캐디피시장'현금관행'깨지나…9월제도개선분수령",
+  "“투표수보다득표수많아‘유령투표소’46곳확인”",
+  "주가조작합동대응단,'미공개정보이용'혐의한미회계법인압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "섞어 까지 SK주유소서 기름 판다 에쓰오일 GS 오일뱅크"
   ]
  ],
- "last_run": "2026-08-26T11:31:04.475557+09:00",
+ "last_run": "2026-08-26T11:41:00.554889+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
