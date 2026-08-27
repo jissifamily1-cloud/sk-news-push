@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260813_0003748483",
-  "https://www.kbmaeil.com/article/20260813500026",
   "http://www.4th.kr/news/articleView.html?idxno=2116341",
   "https://www.m-i.kr/news/articleView.html?idxno=1402076",
   "https://www.ytn.co.kr/_ln/0103_202608131830220849",
@@ -2999,11 +2997,11 @@
   "https://www.newspim.com/news/view/20260827001137",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=272405",
   "https://www.bloter.net/news/articleView.html?idxno=672010",
-  "http://www.inews24.com/view/1999139"
+  "http://www.inews24.com/view/1999139",
+  "http://www.economytalk.kr/news/articleView.html?idxno=423771",
+  "https://www.newsis.com/view/NISX20260827_0003765680"
  ],
  "seen_titles": [
-  "[동정]최종현강원특별자치도의원",
-  "한미재계뉴노멀된'셔틀비즈니스'...韓보완재공급기지넘어동맹...",
   "최창원부회장,SK디스커버리·SK가스상반기보수24억…\"작년성과에...",
   "20억의위자료",
   "솔리다임IPO논란…\"SK하이닉스,주주가치보호원칙내놔야\"",
@@ -6001,7 +5999,9 @@
   "강정호도의원,속초항4대현안점검…\"항만기능회복서둘러야\"",
   "엔비디아·TSMC와현지밀착…SK하이닉스,美AI삼각밸류체인가시화",
   "인크루트,AX전담조직신설",
-  "\"스펙보다이것본다\"…SK하이닉스,신입채용판도바꿨다"
+  "\"스펙보다이것본다\"…SK하이닉스,신입채용판도바꿨다",
+  "\"모두가찾는코스닥으로\"…중소기업학회,'혁신벤처포럼'가동",
+  "[현장]\"스펙보다'이것'본다\"…SK하이닉스가귀띔한채용인재상은"
  ],
  "recent_sigs": [
   [
@@ -6089,7 +6089,7 @@
    "신입 바꿨다 본다 이것 SK하이닉스 판도 채용 스펙보다"
   ]
  ],
- "last_run": "2026-08-27T17:40:30.479656+09:00",
+ "last_run": "2026-08-27T17:50:28.044954+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
