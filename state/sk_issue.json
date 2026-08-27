@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639478",
-  "https://www.newstree.kr/newsView/ntr202608100007",
-  "https://www.yna.co.kr/view/AKR20260818164400004?input=1195m",
-  "https://www.segye.com/newsView/20260818519242?OutUrl=naver",
-  "https://www.seoul.co.kr/news/society/law/2026/08/18/20260818500240?wlog_tag3=naver",
-  "https://www.munhwa.com/article/11610223",
-  "https://imnews.imbc.com/news/2026/society/article/6845555_36918.html",
   "https://www.harpersbazaar.co.kr/article/1908067",
   "https://www.ajunews.com/view/20260818192018204",
   "https://www.jemin.com/news/articleView.html?idxno=841825",
@@ -2999,16 +2992,16 @@
   "https://www.consumuch.com/news/articleView.html?idxno=78883",
   "https://www.thepublic.kr/news/articleView.html?idxno=316419",
   "https://www.thepublic.kr/news/articleView.html?idxno=316427",
-  "http://www.jmbc.co.kr/news/view/67431"
+  "http://www.jmbc.co.kr/news/view/67431",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94331",
+  "https://www.sedaily.com/article/20083988",
+  "https://www.naeil.com/news/read/600167",
+  "http://www.metroseoul.co.kr/article/20260827500208",
+  "https://www.naeil.com/news/read/600240",
+  "https://www.naeil.com/news/read/600237",
+  "https://www.naeil.com/news/read/600233"
  ],
  "seen_titles": [
-  "영화산업살리려OTT공개늦춘다?…홀드백논의에소비자반발",
-  "'쿠팡수사무마폭로'문지석검사\"엄희준청장,압수수색에격노\"주...",
-  "효성해링턴아파트정경유착의혹...경찰,압수수색",
-  "광주경찰,노인들꼬드긴'코인사기'일당검거",
-  "'마약영상'남성20일소환...경찰수사또반전?",
-  "[프로필]'선관위특검'에이태한…특수·형사·공판두루거친'수사통...",
-  "‘애월아파트사업비리의혹’경찰강제수사착수",
   "'말만중립'한은담보...녹색채권,화석연료채권보다'불리'",
   "문지석검사\"쿠팡변호사가'차장검사는친한동기언니'언급\"",
   "닻올린선관위특검…용지부족·통계조작등12개의혹정조준",
@@ -6001,10 +5994,17 @@
   "대한제분,밀가루담합6년…네장의청구서",
   "공정위,듀오'매출1위·최다회원'광고위법성판단유보...일부광고...",
   "주진우\"박상용소환,이대통령재판취소위한것\"'맹폭'...국힘,朴경...",
-  "3,400억대불법도박사이트운영일당검거..\"캄보디아거점\""
+  "3,400억대불법도박사이트운영일당검거..\"캄보디아거점\"",
+  "법원,쿠팡공정위조사에일단제동…'7일전통지'놓고공방",
+  "“조사못받겠다”…쿠팡,공정위와정면충돌",
+  "주병기“쿠팡,형사고발추진”…국회에선“이번기회에관련법보완...",
+  "공정위,대형유통업체법위반과징금최대200%로대폭상향",
+  "아이에스동서,공정위18억과징금소송승소",
+  "파파존스‘세제강매’과징금10억원유지",
+  "박상용경찰출석…국힘“재판취소공작”"
  ],
  "recent_sigs": [],
- "last_run": "2026-08-27T13:01:08.597653+09:00",
+ "last_run": "2026-08-27T13:10:58.465779+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
