@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/tech_it/2026/08/26/KOZ7C2QUZFFEBJVJB7AGHQF4TM/",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128983",
-  "http://journal.kobeta.com/?post_type=post&p=63634",
-  "https://www.news2day.co.kr/article/20260826500186",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406377",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480740",
   "https://www.kpanews.co.kr/news/articleView.html?idxno=541607",
   "https://www.newsis.com/view/NISX20260826_0003763494",
   "http://www.newstomato.com/ReadNews.aspx?no=1311494&inflow=N",
@@ -2999,15 +2993,15 @@
   "https://www.g-enews.com/view.php?ud=2026082723594490090c8c1c064d_1",
   "https://www.nocutnews.co.kr/news/6569483",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=78694",
-  "https://www.ytn.co.kr/_ln/0104_202608280608327708"
+  "https://www.ytn.co.kr/_ln/0104_202608280608327708",
+  "http://www.bizwnews.com/news/articleView.html?idxno=141396",
+  "https://www.ekn.kr/web/view.php?key=20260720029433996",
+  "https://www.bntnews.co.kr/article/view/bnt202608280004",
+  "https://www.newsis.com/view/NISX20260828_0003766140",
+  "https://www.news1.kr/world/international-economy/6272084",
+  "https://www.g-enews.com/view.php?ud=202608280553147843fbbec65dfb_1"
  ],
  "seen_titles": [
-  "\"국대훈련도과학적으로\"…SKT,펜싱AI로국대키운다",
-  "SKT-FAN을활용해전력분석하는여자펜싱에페국가대표팀선수들",
-  "\"삼성·SK턱밑\"YMTC,6.8조IPO로'체급·기술'추격고삐",
-  "SKT,2026나고야AG'TeamSKT'출정식열어",
-  "SKT가만든AI펜싱코치…전력분석1시간→10분으로줄였다",
-  "SKT·SKB,'아시안게임국가대표·여성영화제'후원",
   "SK바이오팜,'미래의경쟁자'에1.1조베팅의의미는",
   "'TeamSKT'출정식",
   "호남등남부지방산업전기료최대10%인하…그래도중국도비싸",
@@ -6001,7 +5995,13 @@
   "\"삼성·SK하이닉스추격\"…日키옥시아,1조엔들여日북부에신규팹...",
   "세계10위AI만든탈락팀요청에…국가대표AI점수공개",
   "\"신약허가심사빨라져…산업계요청다음과제는'유연성'\"",
-  "\"미,반도체관세확대검토\"...SK하이닉스\"미국서HBM생산\""
+  "\"미,반도체관세확대검토\"...SK하이닉스\"미국서HBM생산\"",
+  "지식재산처-SK,'MOIP테크콘서트'개최…\"미래기술이해부터강한특허...",
+  "노랑풍선‘영어로배우는시드니’파라다이스호텔부산‘리우드패...",
+  "SK하이닉스,美첫HBM공장착공…40억달러투자",
+  "엔비디아호실적에뉴욕증시상승마감…나스닥1.57%↑",
+  "엔비디아9%폭등에美반도체주랠리…필라델피아지수2.3%↑",
+  "엔비디아,맞춤형NVHBM공개…대역폭30%늘리고다이확보"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,13 @@
   [
    "2026-08-28T06:21:05.619967+09:00",
    "미국서 생산 검토 확대 반도체 HBM 관세 하이닉스"
+  ],
+  [
+   "2026-08-28T06:31:15.819197+09:00",
+   "다이 대역폭 공개 NVHBM 확보 맞춤형 엔비디아 늘리고"
   ]
  ],
- "last_run": "2026-08-28T06:21:25.662479+09:00",
+ "last_run": "2026-08-28T06:31:22.499944+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
