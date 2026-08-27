@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260713172054230",
-  "http://www.inews24.com/view/1994927",
-  "https://www.newspim.com/news/view/20260813001299",
-  "https://www.kukinews.com/article/view/kuk202608140004",
-  "https://biz.chosun.com/topics/law_firm/2026/08/14/G5TU3YJ3FNBOPGMN7MCAHEZ3IE/",
   "https://www.etoday.co.kr/news/view/2614387",
   "https://economist.co.kr/article/view/ecn202608100047",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720360",
@@ -2999,14 +2994,14 @@
   "https://www.etnews.com/20260812000419",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=270209",
   "https://www.kpinews.kr/newsView/1065600693518291",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131563"
+  "http://www.efnews.co.kr/news/articleView.html?idxno=131563",
+  "https://magazine.hankyung.com/business/article/202608265083b",
+  "https://www.segye.com/newsView/20260827516503?OutUrl=naver",
+  "https://www.segye.com/newsView/20260826520611?OutUrl=naver",
+  "https://www.kukinews.com/article/view/kuk202608270213",
+  "https://www.newspim.com/news/view/20260827000964"
  ],
  "seen_titles": [
-  "[더in터뷰]'쿠팡사태',한미동맹영향까지?\"상식통하는미국아냐\"",
-  "'선경'지웠지만'SK'는남았다…일본회사이름80년째승계왜?(1부)",
-  "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
-  "최태원,오늘'9440억재산분할'결단…재상고냐소송종결이냐",
-  "최태원-노소영,오늘재산분할재상고시한...9년소송마무리될까",
   "‘세기의이혼’최태원·노소영,오늘재상고기한…9년재산분할소송...",
   "최태원-노소영‘9440억판결’오늘확정갈림길…재상고땐‘두번째...",
   "최태원·정기선,방한하는빌게이츠만난다…“SMR협력강화예상”",
@@ -6001,10 +5996,36 @@
   "[포토]인사말하는염성진SK하이닉스사장",
   "\"전력단절없다\"…삼성·SK'반도체메가프로젝트',한전과전력망협...",
   "전남광주·정부·한전·삼성·SK,호남반도체전력공급손잡았다",
-  "한전,호남권·용인반도체메가프로젝트전력공급협약…\"가동차질없..."
+  "한전,호남권·용인반도체메가프로젝트전력공급협약…\"가동차질없...",
+  "‘지분’보다‘실적’…AI격변기시험대오른8090재계뉴리더20인",
+  "목소리커진소액주주들…재계‘이사회독립성강화’선제대응",
+  "인간만의공감능력키운다…‘AI공교육’미래그리는충북[지방기...",
+  "엔비디아호실적이키운HBM기대…삼성·SK,가격급등은‘양날의검’",
+  "SK하이닉스는왜인디애나로갔나…인프라에인재·지원'삼박자'맞았다"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-28T06:00:41.654809+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-28T06:10:15.042900+09:00",
+   "이사회 소액주주들 재계 강화 독립성 목소리 커진 대응 선제"
+  ],
+  [
+   "2026-08-28T06:10:15.042900+09:00",
+   "능력 지방기 그리는 AI 미래 공교육 충북 공감 키운다 인간만의"
+  ],
+  [
+   "2026-08-28T06:10:15.042900+09:00",
+   "키운 양날의 가격 엔비디아 급등은 기대 HBM 삼성 호실적이"
+  ],
+  [
+   "2026-08-28T06:10:15.042900+09:00",
+   "인프라에 SK하이닉스는 지원 갔나 인디애나로 맞았다 삼박자 인재"
+  ],
+  [
+   "2026-08-28T06:10:15.042900+09:00",
+   "시험대 지분 보다 오른 재계 AI 격변기 20인 뉴리더 실적"
+  ]
+ ],
+ "last_run": "2026-08-28T06:10:41.173367+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
