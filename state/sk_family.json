@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490005.html",
-  "https://www.munhwa.com/article/11609459",
-  "https://www.hankyung.com/article/2026081405177",
-  "https://www.mk.co.kr/article/12127533",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140186&t=NN",
-  "https://www.fntimes.com/html/view.php?ud=202608131655368552a837df6494_18",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720364",
   "https://www.mk.co.kr/article/12127564",
   "https://www.slist.kr/news/articleView.html?idxno=758652",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260827000964",
   "https://www.ajunews.com/view/20260713172054230",
   "https://www.bntnews.co.kr/article/view/bnt202608280004",
-  "http://www.popcornnews.net/news/articleView.html?idxno=131013"
+  "http://www.popcornnews.net/news/articleView.html?idxno=131013",
+  "http://www.lawissue.co.kr/view.php?ud=2026082806573178649a8c8bf58f_12",
+  "https://www.businessplus.kr/news/articleView.html?idxno=116049",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608251612559280106769",
+  "https://weekly.donga.com/3/all/11/6363175/1",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860065",
+  "https://biz.chosun.com/science-chosun/bio/2026/08/28/CNBDB23FU5ESNANB5VOPELJNTA/"
  ],
  "seen_titles": [
-  "SK하이닉스‘액면분할’기대감?…업황·실적·주주환원‘알맹이’봐...",
-  "빌게이츠방한…정·재계잇달아만나SMR협력속도전",
-  "최태원·노소영재상고오늘까지…9440억지급확정되나",
-  "오늘재상고안할경우확정…최태원9440억원노소영에줄까",
-  "\"하루이자만1억3000만원\"…최태원,노소영에9440억원줄까",
-  "솔리다임나스닥상장논의에…거버넌스포럼“중복상장중단해야”",
   "'최태원,노소영에9440억원지급'오늘재상고안하면확정",
   "[THECOMPASS]솔리다임상장이소환한SK그룹지배구조잔혹사데자뷰",
   "최태원·노소영재산분할재상고오늘까지…9440억원확정기로",
@@ -6001,7 +5995,13 @@
   "SK하이닉스는왜인디애나로갔나…인프라에인재·지원'삼박자'맞았다",
   "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
   "SK하이닉스,美첫HBM공장착공…40억달러투자",
-  "SK하이닉스,美'인디애나HBM생산거점'기공식개최...2029년미국산HB..."
+  "SK하이닉스,美'인디애나HBM생산거점'기공식개최...2029년미국산HB...",
+  "(사)한국상담학회교정상담학회,번역서『범죄와심리학:법정에선심...",
+  "SK하이닉스,美인디애나HBM공장첫삽…40억달러투자",
+  "[더벨][턴어라운드시동거는LG]'조용한총수'구광모회장의반전,세...",
+  "“고졸이지만내전문성믿고지원”SK하이닉스‘학력·나이불문’채...",
+  "[CEO열전]2012년의최태원,2026년을미리봤다",
+  "[Why]“1.1兆통큰투자”SK바이오팜은왜신약빅딜을했을까"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,25 @@
   [
    "2026-08-28T06:50:14.711429+09:00",
    "기공식 미국산 HBM생산거점 2029년 인디애나 개최 HB SK하이닉스"
+  ],
+  [
+   "2026-08-28T07:10:15.543543+09:00",
+   "총수 구광모 회장의 반전 조용한"
+  ],
+  [
+   "2026-08-28T07:10:15.543543+09:00",
+   "SK하이닉스 전문성 불문 나이 학력 믿고 고졸이지만 지원"
+  ],
+  [
+   "2026-08-28T07:10:15.543543+09:00",
+   "2012년의 미리봤다 2026년을"
+  ],
+  [
+   "2026-08-28T07:10:15.543543+09:00",
+   "투자 SK바이오팜은 빅딜을 신약 했을까"
   ]
  ],
- "last_run": "2026-08-28T07:00:44.801913+09:00",
+ "last_run": "2026-08-28T07:10:37.367490+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
