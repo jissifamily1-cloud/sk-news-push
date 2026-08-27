@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=347901",
-  "https://www.news1.kr/society/incident-accident/6262187",
-  "https://www.joongang.co.kr/article/25454212",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04601846645548632",
-  "https://newscham.net/articles/117075",
-  "https://www.segye.com/newsView/20260818519818?OutUrl=naver",
-  "https://www.hankookilbo.com/news/article/A2026081815420005402?did=NA",
-  "https://biz.heraldcorp.com/article/10844469",
   "https://www.sisaweek.com/news/articleView.html?idxno=237349",
   "https://www.yna.co.kr/view/AKR20260818154000504?input=1195m",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000004044&cp=nv",
@@ -2999,17 +2991,17 @@
   "https://www.kukinews.com/article/view/kuk202608270081",
   "https://www.segye.com/newsView/20260827507160?OutUrl=naver",
   "https://www.yna.co.kr/view/AKR20260827076800055?input=1195m",
-  "https://www.news1.kr/local/jeonbuk/6271146"
+  "https://www.news1.kr/local/jeonbuk/6271146",
+  "https://h21.hani.co.kr/arti/society/society_general/59783.html",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578968846172",
+  "https://lawtalknews.co.kr/article/8WMLJ1MXPKGZ",
+  "https://www.khan.co.kr/article/202608271109001",
+  "https://www.nocutnews.co.kr/news/6569002",
+  "https://www.kbsm.net/news/view.php?idx=531817",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082296",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=364265"
  ],
  "seen_titles": [
-  "LIGD&A비위에방산업계직격탄…한화까지제재땐무기사업차질우려",
-  "정치권로비의혹정조준…경찰,'효성해링턴플레이스제주'압수수색",
-  "불법하도급주차설비공사서노동자사망…원청대표구속기소",
-  "노인100여명울린'코인투자'사기…3명구속송치",
-  "경찰,‘수원마약좀비영상’남성압수수색…마약류투약정황포착",
-  "검찰,쌍방울그룹압수수색...'주가조작의혹'수사",
-  "구글'1조4000억환급설'확산…게임업계\"발표아닌실제배상절차확...",
-  "\"중고차문제제기하자계정차단\"…시민단체,'헤이딜러'공정위신고",
   "李대통령,선관위특검에이태한임명…12개의혹파헤친다",
   "'쿠팡수사외압폭로'문지석\"엄희준,압수수색에격노·폭언\"",
   "조선소가알던위험,감독은장례뒤에왔다",
@@ -6001,7 +5993,15 @@
   "전북경찰,3400억원대불법도박사이트운영일당18명검거",
   "캄보디아거점3400억원대불법도박사이트운영…조폭등일당18명덜...",
   "산불감시원피복비부풀리기의혹…경찰,군산시청압수수색",
-  "산불감시원피복비대금부풀리기의혹…경찰,군산시청압수수색"
+  "산불감시원피복비대금부풀리기의혹…경찰,군산시청압수수색",
+  "엄마같던언니와조카네일가족,온전히보낼때까지공항지킨다",
+  "공정위칼날더매서워진다...유통대기업‘과징금폭탄’비상",
+  "‘사전통지부재’들어공정위현장조사거부한쿠팡…법적공방속...",
+  "공정위,납품대금기준으로과징금매긴다…유통업법제재강화",
+  "\"산불감시원피복비부풀렸다\"…경찰강제수사착수",
+  "권기창안동시장'공직선거법위반'입건…28일소환조사",
+  "권기창안동시장공직선거법위반혐의입건…28일경찰소환",
+  "주진우,박상용검사소환에\"권력충견'시동',이재명레임덕가속\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "GS간판 구매방식 석유 휘발유를 주유소에서 순정 바뀐다"
   ]
  ],
- "last_run": "2026-08-27T11:10:55.896616+09:00",
+ "last_run": "2026-08-27T11:20:55.916265+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
