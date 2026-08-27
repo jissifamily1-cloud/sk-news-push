@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/254892",
-  "https://www.etnews.com/20260826000189",
-  "http://www.globalepic.co.kr/view.php?ud=20260826130822262048439a4874_29",
-  "https://view.asiae.co.kr/article/2026082613101533211",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48464",
-  "https://www.econovill.com/news/articleView.html?idxno=748968",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=53742",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=859718",
   "https://www.sedaily.com/article/20083462",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026082779121",
   "https://biz.heraldcorp.com/article/10854684",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275677",
-  "https://www.munhwa.com/article/11612627"
+  "https://www.munhwa.com/article/11612627",
+  "https://www.starnewskorea.com/sports/2026/08/27/2026082716183897174",
+  "https://biz.sbs.co.kr/article_hub/20000331124?division=NAVER",
+  "http://www.bizwnews.com/news/articleView.html?idxno=144529",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5215354",
+  "https://biz.heraldcorp.com/article/10854689",
+  "https://www.fnnews.com/news/202608271948123309"
  ],
  "seen_titles": [
-  "정유사-주유소표준계약서개정…전속거래·사후정산개선",
-  "WSJ\"세계서가장미친증시\"사실일까",
-  "InFiveYears,WillK-PharmaandBiotechCrossthe'Fortune500'Thresh",
-  "'이렇게안풀릴수가'2R출신내야수복귀늦어지네…\"몸부터다시만...",
-  "회장보다사장더받아…재계보수표뒤집은성과급·주식",
-  "구자은133억·김승연116억…상반기재계총수'보수킹'은?",
   "SKAX·SAP,AI네이티브엔터프라이즈구현맞손···ERP혁신가속화",
   "리츠브랜드평판8월빅데이터분석결과…1위SK리츠·2위롯데리츠·3위...",
   "SK바이오팜,뇌전증신약1조베팅",
@@ -6001,29 +5995,15 @@
   "SK브로드밴드인적분할…데이터센터떼낸다",
   "亞AI인프라허브박차…SKT,AIDC전담‘SK호라이즌’설립",
   "KioxiaBetsBigonAIMemoryExpansion",
-  "‘그땐안되고,지금은돼?’…尹정부‘댐건설계획’,일부댐건설..."
+  "‘그땐안되고,지금은돼?’…尹정부‘댐건설계획’,일부댐건설...",
+  "'로맥아더장군의귀환'인천상륙한155홈런외인전설\"2018년가장기...",
+  "[집중진단]'삼전닉스'내년까지달린다…'반도체우상향'기대띄운엔...",
+  "이상일용인시장,정부에'반도체산단연계철도·도로조속추진'요청",
+  "\"뽑아주세요하이닉스\"…'고용한파'속채용설명회북적",
+  "한가인,주식계좌최초공개…“조정직전싹다팔았다”",
+  "'SK호라이즌'KKR·IMM3조투자뜯어보니…SKT가'51%'남긴셈법[fn마켓..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-27T13:51:04.939188+09:00",
-   "피켓시위 SK본사 상경 SK실트론노조"
-  ],
-  [
-   "2026-08-27T13:51:04.939188+09:00",
-   "주도 AX 울산시 WAVE 산업 새로운 개최 넥서스"
-  ],
-  [
-   "2026-08-27T13:51:04.939188+09:00",
-   "하반기 돌파 90만 다시 오를까 금값"
-  ],
-  [
-   "2026-08-27T13:51:04.939188+09:00",
-   "공장 분진 신고는 SK온 독성 수습 밖까지 헝가리"
-  ],
-  [
-   "2026-08-27T13:51:04.939188+09:00",
-   "물어야 ETF 책임 주도자 친명계도 하락 영향 지지율 주식"
-  ],
   [
    "2026-08-27T14:01:23.223130+09:00",
    "AI 만든 학습데이터 규모 푼다 56조 무료 토큰 개방 팀이 5개 독파모"
@@ -7075,9 +7055,21 @@
   [
    "2026-08-27T19:51:04.228396+09:00",
    "일부 안되고 정부 그땐 지금은 건설 계획"
+  ],
+  [
+   "2026-08-27T20:00:44.182452+09:00",
+   "뽑아주세요 채용설명회 북적 고용 하이닉스 한파"
+  ],
+  [
+   "2026-08-27T20:00:44.182452+09:00",
+   "한가인 팔았다 주식 조정 계좌 공개 직전"
+  ],
+  [
+   "2026-08-27T20:00:44.182452+09:00",
+   "SK호라이즌 투자 SKT가 남긴 fn마켓 뜯어보니 IMM 셈법 KKR 3조"
   ]
  ],
- "last_run": "2026-08-27T19:51:15.772153+09:00",
+ "last_run": "2026-08-27T20:00:55.545666+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
