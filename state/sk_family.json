@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260813000852",
-  "http://www.yonhapnewstv.co.kr/news/MYH202608131400120TG",
   "https://www.sportschosun.com/sports-news/2026-07-28/202607280100172400011133",
   "https://www.asiatime.co.kr/article/20260813500263",
   "http://www.srtimes.kr/news/articleView.html?idxno=209955",
@@ -2999,11 +2997,11 @@
   "https://biz.sbs.co.kr/article_hub/20000331113?division=NAVER",
   "https://www.sisajournal.com/news/articleView.html?idxno=384991",
   "http://www.newsbrite.net/news/articleView.html?idxno=200001",
-  "https://www.ccreview.co.kr/news/articleView.html?idxno=355963"
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=355963",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88473",
+  "https://www.edaily.co.kr/News/Read?newsId=03624406645551584&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "SK하이닉스,美인디애나첨단패키징공장27일착공...최태원·젠슨황...",
-  "최태원-노소영재상고기한D-1...'세기의이혼'마무리될까",
   "배당이냐자사주소각이냐…삼전닉스반등열쇠된주주환원",
   "[단독]유명수학학원개인정보유출…돈까지요구한해커",
   "\"세계3위디펜딩챔프꺾었다!\"'뉴어펜져스'도경동,세계선수권개인전...",
@@ -6001,7 +5999,9 @@
   "李대통령,이재용회장과회동…반도체·대미투자논의했을듯",
   "[세종24시]세종시,로컬콘텐츠거점공간'조치원ㄱ'개소",
   "이대통령,이재용과비공개회동...반도체투자·대미통상현안주목",
-  "안신일세종시의회의장,지방의회법조속처리건의"
+  "안신일세종시의회의장,지방의회법조속처리건의",
+  "하반기신입채용,17개업종중11곳서\"작년보다늘린다\"...정유·화학...",
+  "[단독]野반발에…與,'메가특구법+RE100산단법'통합검토"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-08-27T11:00:27.784697+09:00",
    "매출 3분기 엔비디아 예고 삼전 150조원 닉스 이어진다 HBM4 수요"
+  ],
+  [
+   "2026-08-27T13:10:15.505442+09:00",
+   "RE100산단법 메가특구법 통합 검토 반발에"
   ]
  ],
- "last_run": "2026-08-27T13:00:40.560155+09:00",
+ "last_run": "2026-08-27T13:10:30.972385+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
