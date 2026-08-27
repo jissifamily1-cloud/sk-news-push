@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260040&CMPT_CD=P0010",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210308",
-  "https://www.news1.kr/society/court-prosecution/6262621",
-  "https://www.yna.co.kr/view/AKR20260819034200065?input=1195m",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1098906",
-  "https://www.viva100.com/article/20260819500250",
   "https://biz.heraldcorp.com/article/10844834",
   "https://www.munhwa.com/article/11610319",
   "https://www.sentv.co.kr/article/view/sentv202608190026",
@@ -2999,15 +2993,15 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=316487",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000006758&cp=nv",
   "https://biz.chosun.com/stock/stock_general/2026/08/27/LJY57C7FUREBVGZZQLSH2QGHTA/",
-  "https://www.seoul.co.kr/news/society/2026/08/27/20260827500158?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/08/27/20260827500158?wlog_tag3=naver",
+  "https://www.mydaily.co.kr/page/view/2026082716073850217",
+  "https://www.seoul.co.kr/news/politics/2026/08/27/20260827500172?wlog_tag3=naver",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1566681",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647840",
+  "https://www.joongang.co.kr/article/25456762",
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1549530"
  ],
  "seen_titles": [
-  "풀려났던'수원마약좀비'30대남성…검사결과또뒤집혔다",
-  "체포됐다풀려난'수원마약영상'30대,모발감정서'양성'",
-  "제주경찰,'정관계로비의혹'아파트시행사압수수색…전담팀구성",
-  "[금융이슈]삼쩜삼,환급플랫폼선두의그늘...광고·수수료논란이어...",
-  "포렌식수사받는데'수갑·포승4중결박'…세종호텔해고자,헌법소원...",
-  "[이슈체크]'횡령혐의'임직원구속에차정훈회장수사까지…한국토지...",
   "주병기\"경제적강자,반칙성장못하게해야...시장은규제의집합체...",
   "'뇌물구속'방사청직원,LIGD&A수주사업3건관여…추가연루정황",
   "합수본,서초구선관위사무국장소환…직무유기혐의",
@@ -6001,10 +5995,16 @@
   "[선관위게이트]주진우\"계양을서잘못분류투표지몰래재분류...표...",
   "이대통령팔공산계곡정비공무원들에“정말큰일해냈다”",
   "주가조작대응단,한투증권압수수색…한미회계법인미공개정보이용참...",
-  "[속보]미성년여학생들추행·강제로끌고가려던40대…무죄주장했지..."
+  "[속보]미성년여학생들추행·강제로끌고가려던40대…무죄주장했지...",
+  "법원,쿠팡공정위직권조사효력잠정정지…내달2일심문",
+  "“공직끝난다”폭언·고함…감사원‘文정부통계조작강압감사’인...",
+  "캄보디아본사·전주콜센터·성인PC방연결…3천400억원대도박조직일...",
+  "감사원“전정부‘통계조작·서해감사’감사권남용심각”…고발·...",
+  "감사원,文통계감사팀고발…“서류던지고회유,강압감사확인”",
+  "박완수선거캠프‘딥페이크·관권선거의혹’영장심사하루연기"
  ],
  "recent_sigs": [],
- "last_run": "2026-08-27T16:01:12.402661+09:00",
+ "last_run": "2026-08-27T16:11:04.143593+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
