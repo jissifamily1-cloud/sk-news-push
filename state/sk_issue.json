@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1329831",
   "https://www.sedaily.com/article/20080553",
   "https://www.mk.co.kr/article/12130505",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=225030",
@@ -2999,10 +2998,10 @@
   "https://www.taxtimes.co.kr/news/article.html?no=276559",
   "https://www.jibs.co.kr/news/articles/articlesDetail/64906?feed=na",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/27/2026082790093.html",
-  "https://www.newsis.com/view/NISX20260827_0003765064"
+  "https://www.newsis.com/view/NISX20260827_0003765064",
+  "http://www.joseilbo.com/news/news_read.php?uid=574577&class=32"
  ],
  "seen_titles": [
-  "이태한선관위특별검사임명…투표율조작·해외출장'윗선'정조준",
   "이대통령,‘선관위특검’에이태한임명…최장150일수사",
   "'쿠팡수사무마폭로'문지석검사\"압수수색영장에지청장격노\"",
   "검찰,쌍방울그룹압수수색…주가조작의혹수사",
@@ -6001,7 +6000,8 @@
   "호텔로발송된커피봉지,잡고보니대마카트리지",
   "국힘,박상용경찰조사에\"이재명탄핵으로이어질것\"",
   "野이재명재판저지특위\"박상용탄압,李탄핵으로이어질수있어\"",
-  "군산시청'압수수색'…산불감시원피복비부풀리기의혹"
+  "군산시청'압수수색'…산불감시원피복비부풀리기의혹",
+  "쿠팡공정위현장조사'거부'에,주병기\"전례없는일,형사고발\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "GS간판 구매방식 석유 휘발유를 주유소에서 순정 바뀐다"
   ]
  ],
- "last_run": "2026-08-27T11:31:04.136364+09:00",
+ "last_run": "2026-08-27T11:40:57.255871+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
