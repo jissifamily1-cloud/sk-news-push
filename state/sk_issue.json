@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20080553",
-  "https://www.mk.co.kr/article/12130505",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225030",
-  "https://www.news1.kr/society/court-prosecution/6261694",
-  "https://www.hidomin.com/news/articleView.html?idxno=717628",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04736326645548632",
-  "https://www.hani.co.kr/arti/society/society_general/1273457.html",
-  "http://www.fnnews.com/news/202608181751023132",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191088",
   "http://www.fnnews.com/news/202608181740505386",
   "https://news.mtn.co.kr/news-detail/2026081817514980727",
   "https://www.dt.co.kr/article/12078825",
@@ -2999,18 +2990,18 @@
   "https://www.jibs.co.kr/news/articles/articlesDetail/64906?feed=na",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/27/2026082790093.html",
   "https://www.newsis.com/view/NISX20260827_0003765064",
-  "http://www.joseilbo.com/news/news_read.php?uid=574577&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=574577&class=32",
+  "http://www.lawissue.co.kr/view.php?ud=2026082711193997399aeda69934_12",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052832",
+  "https://www.thepowernews.co.kr/view.php?ud=2026082711181935619aeda69934_7",
+  "https://biz.heraldcorp.com/article/10854110",
+  "https://www.newsis.com/view/NISX20260827_0003765146",
+  "https://www.hani.co.kr/arti/economy/economy_general/1274891.html",
+  "http://www.jmbc.co.kr/news/view/67432",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052820",
+  "http://www.jmbc.co.kr/news/view_breakingnews/67431"
  ],
  "seen_titles": [
-  "이대통령,‘선관위특검’에이태한임명…최장150일수사",
-  "'쿠팡수사무마폭로'문지석검사\"압수수색영장에지청장격노\"",
-  "검찰,쌍방울그룹압수수색…주가조작의혹수사",
-  "선관위특검출범…투표용지부족포함12개의혹본격수사",
-  "학습기포장만뜯어도환불불가?…공정위지적에도업계모르쇠",
-  "경찰,수원공사장사망사고관련이랜드건설현장소장등송치",
-  "[단독]수사기록스캔외부에맡긴경찰…피해자정보유출우려",
-  "불법하도급주차설비사고…'서울첫중처법위반'기소",
-  "'노동자추락사'기계식주차업체대표재판행…서울첫중대재해법구...",
   "선관위특검에이태한…통계조작·외유출장등12개의혹'전방위수사...",
   "이대통령,선관위특검에이태한임명…'투표용지부족·통계조작'윗...",
   "李,이태한선관위특검임명…합수본수사이어'윗선'겨눈다",
@@ -6001,7 +5992,16 @@
   "국힘,박상용경찰조사에\"이재명탄핵으로이어질것\"",
   "野이재명재판저지특위\"박상용탄압,李탄핵으로이어질수있어\"",
   "군산시청'압수수색'…산불감시원피복비부풀리기의혹",
-  "쿠팡공정위현장조사'거부'에,주병기\"전례없는일,형사고발\""
+  "쿠팡공정위현장조사'거부'에,주병기\"전례없는일,형사고발\"",
+  "듀오‘매출1위·최다회원수’광고위법성판단불가...일부표현은...",
+  "공정위현장조사거부한쿠팡…'사상초유'소송제기,조사장기화되나",
+  "듀오,공정위표시광고법처분에“일부판단이견”...의결서검토",
+  "법위반인정시‘더센과징금’…대규모유통업제재강화",
+  "[속보]법원,쿠팡공정위조사효력잠정정지…내달2일심문",
+  "대형유통업체에과징금강화…정액→정률부과늘린다",
+  "경찰,군산시청압수수색..\"피복구매금액부풀렸다는의혹확인중\"",
+  "관세청,국제우편2차마약저지선10건적발…밀수사범100%검거",
+  "[속보]3,400억대불법도박사이트운영일당검거..\"캄보디아거점\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "GS간판 구매방식 석유 휘발유를 주유소에서 순정 바뀐다"
   ]
  ],
- "last_run": "2026-08-27T11:40:57.255871+09:00",
+ "last_run": "2026-08-27T11:50:56.508389+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
