@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.e-science.co.kr/news/articleView.html?idxno=133710",
-  "https://www.yna.co.kr/view/AKR20260818151800004?input=1195m",
-  "https://www.joongboo.com/news/articleView.html?idxno=363734138",
-  "https://www.newsis.com/view/NISX20260818_0003753168",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=316556",
-  "https://www.hankookilbo.com/news/article/A2026081815500003924?did=NA",
-  "https://www.nocutnews.co.kr/news/6564366",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639420",
-  "https://www.ytn.co.kr/_ln/0103_202608181719217620",
   "https://www.greened.kr/news/articleView.html?idxno=347901",
   "https://www.news1.kr/society/incident-accident/6262187",
   "https://www.joongang.co.kr/article/25454212",
@@ -2999,18 +2990,18 @@
   "https://www.hani.co.kr/arti/area/honam/1274878.html",
   "http://www.iminju.net/news/articleView.html?idxno=168634",
   "https://www.seoul.co.kr/news/society/2026/08/27/20260827500071?wlog_tag3=naver",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535449"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535449",
+  "https://www.segye.com/newsView/20260827507677?OutUrl=naver",
+  "https://www.ppss.kr/news/articleView.html?idxno=307588",
+  "https://www.kukinews.com/article/view/kuk202608270080",
+  "http://www.iminju.net/news/articleView.html?idxno=168639",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120838",
+  "https://www.kukinews.com/article/view/kuk202608270081",
+  "https://www.segye.com/newsView/20260827507160?OutUrl=naver",
+  "https://www.yna.co.kr/view/AKR20260827076800055?input=1195m",
+  "https://www.news1.kr/local/jeonbuk/6271146"
  ],
  "seen_titles": [
-  "비리못끊는방사청…대책마다실패[양낙규의DefenceClub]",
-  "한동훈,정성호사직서에\"공소취소무서워세팅다해놓고도망\"",
-  "검찰,외국인노동자15m추락사에안전책임부인한원청대표구속기소",
-  "'수원마약좀비영상'30대,정밀감정서결국양성반응:지금까지음...",
-  "[네카오금융혈투①]이해진네이버의장빅피처...검색·커머스·AI·코...",
-  "참여연대·민변,헤이딜러공정위신고\"사고차판뒤계정차단\"",
-  "무사고라더니사고차?…헤이딜러,'검수오류·계정차단'논란",
-  "[프로필]이태한선관위특검…특수·형사수사잔뼈굵은검사출신",
-  "'수원마약좀비'SNS영상속남성,모발정밀감정서양성정황…검사결...",
   "LIGD&A비위에방산업계직격탄…한화까지제재땐무기사업차질우려",
   "정치권로비의혹정조준…경찰,'효성해링턴플레이스제주'압수수색",
   "불법하도급주차설비공사서노동자사망…원청대표구속기소",
@@ -6001,7 +5992,16 @@
   "경찰,캄보디아콜센터차려3400억대도박사이트운영한18명검거",
   "국힘\"박상용탄압,李대통령탄핵으로이어질수있어\"",
   "캄보디아에콜센터두고성인PC방에서불법도박운영…일당무더기검...",
-  "국민의힘\"박상용검사탄압이재명대통령탄핵으로이어질수있어\""
+  "국민의힘\"박상용검사탄압이재명대통령탄핵으로이어질수있어\"",
+  "“전문매니저230명이라더니188명”…듀오,과징금3억4500만원맞은이...",
+  "[기업인사이트16-1]세무조사에서시작해기업의생존까지…15편이따라...",
+  "대형유통업체‘갑질’과징금세진다…반복위반최대100%가중",
+  "대규모유통업과징금더세진다…부과기준율최대200%",
+  "대규모유통업체과징금강화…반복위반시최대100%가중",
+  "전북경찰,3400억원대불법도박사이트운영일당18명검거",
+  "캄보디아거점3400억원대불법도박사이트운영…조폭등일당18명덜...",
+  "산불감시원피복비부풀리기의혹…경찰,군산시청압수수색",
+  "산불감시원피복비대금부풀리기의혹…경찰,군산시청압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "GS간판 구매방식 석유 휘발유를 주유소에서 순정 바뀐다"
   ]
  ],
- "last_run": "2026-08-27T11:01:07.729290+09:00",
+ "last_run": "2026-08-27T11:10:55.896616+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
