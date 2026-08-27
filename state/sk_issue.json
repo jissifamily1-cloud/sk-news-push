@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000003993&cp=nv",
-  "https://www.munhwa.com/article/11610194",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04247606645548632",
-  "https://www.sisajournal.com/news/articleView.html?idxno=383902",
   "https://www.dailian.co.kr/news/view/1679463/?sc=Naver",
   "https://www.seoul.co.kr/news/society/law/2026/08/18/20260818500182?wlog_tag3=naver",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=238820",
@@ -2999,13 +2995,13 @@
   "https://www.youthdaily.co.kr/news/article.html?no=225791",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=362281",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008723087&plink=ORI&cooper=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647453"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647453",
+  "https://www.mt.co.kr/politics/2026/08/27/2026082708054519274",
+  "https://www.socialvalue.kr/news/view/1065571494405846",
+  "https://www.cstimes.com/news/articleView.html?idxno=718234",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245220"
  ],
  "seen_titles": [
-  "광주경찰,노인상대5억대가상자산투자사기일당구속송치",
-  "檢,쌍방울그룹압수수색…‘주가조작의심’與고발건수사",
-  "‘수원마약좀비’,모발정밀감정서‘양성’",
-  "체포뒤풀려났던‘수원마약좀비’…‘모발감정’에걸렸다[지금뉴...",
   "대통령표창의배신…다비치안경,가맹점엔'판매강요·비용폭탄'",
   "플랫폼업계“상생협력법,실태조사겹규제”우려…대응고심",
   "“코인투자하면크루즈로세계일주”…노인층노린투자사기일당구...",
@@ -6001,7 +5997,11 @@
   "쿠팡,공정위현장조사거부…美정치권비판이후강경해진대응",
   "美비호쿠팡,공정위조사거부파장",
   "\"1초컷실패,도대체어떻게잡으라고?\"…쌓아두고도못쓰는'마일리지...",
-  "국민의힘주진우“박상용소환,이대통령재판취소위한것”"
+  "국민의힘주진우“박상용소환,이대통령재판취소위한것”",
+  "與이강일,공정위조사거부'쿠팡사례'막는행정조사기본법개정안발...",
+  "공정위현장조사거부한쿠팡…“사전통지없는조사는위법”",
+  "산은·기은이어하나은행까지…은행권'외부사기포비아'확산",
+  "\"무안로컬라이저적법\"국토부거짓말,직원7명송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "GS간판 구매방식 석유 휘발유를 주유소에서 순정 바뀐다"
   ]
  ],
- "last_run": "2026-08-27T09:10:57.034117+09:00",
+ "last_run": "2026-08-27T09:20:52.905920+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
