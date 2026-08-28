@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260827084500017?input=1195m",
-  "https://www.mt.co.kr/tech/2026/08/27/2026082710515032684",
-  "https://www.newsis.com/view/NISX20260827_0003764805",
   "http://www.inews24.com/view/1998714",
   "https://www.econovill.com/news/articleView.html?idxno=749074",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695912",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20260828_0003766674",
   "https://www.newsis.com/view/NISX20260828_0003767660",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423376",
-  "https://www.joongangenews.com/news/articleView.html?idxno=543809"
+  "https://www.joongangenews.com/news/articleView.html?idxno=543809",
+  "https://news.mtn.co.kr/news-detail/2026082816370011019",
+  "http://www.beyondpost.co.kr/view.php?ud=2026082906012838792aaae0046f_30",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/28/2026082890274.html"
  ],
  "seen_titles": [
-  "재생에너지거래길넓힌다…PPA중개플랫폼공식출범",
-  "소재국산화최전선…탑머티리얼,LFP소재공급본격화기대",
-  "재생EPPA거래한곳서…210MW규모첫계약",
   "기름값묶은지반년…잘나가는정유사'내수딜레마'",
   "[이슈체크]\"국가는어떻게파산하는가\"…월가초고수의소름돋는미국...",
   "장티푸스백신띄우는유바이오로직스…장기데이터들고조달시장정조...",
@@ -6001,7 +5998,10 @@
   "세제개편후흔들린'강남불패'…강북은'불장'[서울부동산,지금①...",
   "[오늘의주요일정]사회(8월29일토요일)",
   "SK하이닉스,3년뒤美공장서HBM4E양산···\"연간수십만장생산\"",
-  "용인특례시,'생활용수10만㎥증량'요청"
+  "용인특례시,'생활용수10만㎥증량'요청",
+  "금리·경기우려속반도체기대…9월코스피7000선시험대",
+  "엔비디아4.6%,필라델피아반도체지수3.47%↓...반도체주,케빈워시美...",
+  "[취재후Talk]공정위의기업결합은진짜늑장일까"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,17 @@
   [
    "2026-08-29T06:04:17.847659+09:00",
    "용인특례시 요청 10만 증량 생활용수"
+  ],
+  [
+   "2026-08-29T06:11:06.768973+09:00",
+   "반도체주 워시 케빈 엔비디아 필라델피아반도체지수"
+  ],
+  [
+   "2026-08-29T06:11:06.768973+09:00",
+   "기업결합은 진짜 공정위의 늑장일까"
   ]
  ],
- "last_run": "2026-08-29T06:04:57.172204+09:00",
+ "last_run": "2026-08-29T06:11:15.440410+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
