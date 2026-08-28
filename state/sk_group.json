@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1998714",
-  "https://www.econovill.com/news/articleView.html?idxno=749074",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695912",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851704",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721875",
-  "https://www.edaily.co.kr/News/Read?newsId=03735926645551584&mediaCodeNo=257",
-  "https://www.newsway.co.kr/news/view?ud=2026082712460214154",
   "https://www.yna.co.kr/view/AKR20260826184951530?input=1195m",
   "https://www.m-i.kr/news/articleView.html?idxno=1406796",
   "https://www.fnnews.com/news/202608271309470536",
@@ -2999,16 +2992,16 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=543809",
   "https://news.mtn.co.kr/news-detail/2026082816370011019",
   "http://www.beyondpost.co.kr/view.php?ud=2026082906012838792aaae0046f_30",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/28/2026082890274.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/28/2026082890274.html",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=78720",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63549",
+  "https://news.mtn.co.kr/news-detail/2026082817474499712",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481655",
+  "https://www.ajunews.com/view/20260828173727498",
+  "https://www.koreadaily.com/article/20260828141522916",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423377"
  ],
  "seen_titles": [
-  "기름값묶은지반년…잘나가는정유사'내수딜레마'",
-  "[이슈체크]\"국가는어떻게파산하는가\"…월가초고수의소름돋는미국...",
-  "장티푸스백신띄우는유바이오로직스…장기데이터들고조달시장정조...",
-  "'삼전닉스'사전대책충분했나…10월국감쟁점으로",
-  "용인반도체클러스터가는길뚫린다…곱등고개터널도신설",
-  "(단독)SKT,SK스토아매각계약9월초로연기",
-  "하반기취업문열린다…SK텔레콤·KT&G·LG전자·현대차등신입채용본...",
   "기업들'발품'팔던시대끝…재생에너지전용플랫폼떴다",
   "이현중합류남자농구대표팀,명예회복할까…FIBA월드컵예선2라운드",
   "SKhynixBreaksGroundon$3.87BillionU.S.HBMPlant",
@@ -6001,7 +5994,14 @@
   "용인특례시,'생활용수10만㎥증량'요청",
   "금리·경기우려속반도체기대…9월코스피7000선시험대",
   "엔비디아4.6%,필라델피아반도체지수3.47%↓...반도체주,케빈워시美...",
-  "[취재후Talk]공정위의기업결합은진짜늑장일까"
+  "[취재후Talk]공정위의기업결합은진짜늑장일까",
+  "빅딜잇따르는K-바이오,정작바이오텍은'자금절벽'",
+  "SK하이닉스미국인디애나HBM생산공장건설",
+  "모두의'무료'AI서비스…정부지원끝나면누가돈내나",
+  "[주간거래소기관]삼성전자·SK하이닉스팔고삼성SDI·두산에너빌리...",
+  "[김호균칼럼]꼬리가몸통을흔드는'약탈금융'",
+  "SKhynix,인디애나주에AI반도체생산기지",
+  "돌아온반도체투심,해외종목·채권으로변동성보완···8월상장ETF..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,25 @@
   [
    "2026-08-29T06:11:06.768973+09:00",
    "기업결합은 진짜 공정위의 늑장일까"
+  ],
+  [
+   "2026-08-29T06:21:06.838725+09:00",
+   "SK하이닉스 팔고 삼성SDI 두산에너빌리 삼성전자"
+  ],
+  [
+   "2026-08-29T06:21:06.838725+09:00",
+   "몸통을 약탈금융 꼬리가 흔드는"
+  ],
+  [
+   "2026-08-29T06:21:06.838725+09:00",
+   "반도체 인디애나주에 AI 생산기지 hynix"
+  ],
+  [
+   "2026-08-29T06:21:06.838725+09:00",
+   "반도체 채권으로 변동성 보완 투심 8월 ETF 돌아온 해외종목 상장"
   ]
  ],
- "last_run": "2026-08-29T06:11:15.440410+09:00",
+ "last_run": "2026-08-29T06:21:20.964690+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
