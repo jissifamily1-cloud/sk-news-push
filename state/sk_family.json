@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444834",
   "https://www.m-i.kr/news/articleView.html?idxno=1402671",
   "https://www.etoday.co.kr/news/view/2614875",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490211.html",
@@ -2999,10 +2998,10 @@
   "https://thetracker.co.kr/View.aspx?No=4187050",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=307584",
   "https://www.gukjenews.com/news/articleView.html?idxno=3648741",
-  "https://www.hankyung.com/article/202608142001i"
+  "https://www.hankyung.com/article/202608142001i",
+  "https://www.koreadaily.com/article/20260828141522916"
  ],
  "seen_titles": [
-  "빌게이츠방한,정재계연쇄회동…'K-SMR동맹'확대",
   "최태원회장,상반기SK㈜보수17억5천만원…작년수준유지",
   "최태원회장,지주사SK로부터상반기급여17.5억수령",
   "최태원,상반기보수로17.5억원수령",
@@ -6001,10 +6000,16 @@
   "SK네트웍스,2분기영업익248억원···역기저효과에전년비42%↓",
   "SK네트웍스발굴케이론,실리콘밸리손잡고800만달러투자유치",
   "건국대글로컬캠퍼스,2027수시박람회성료…상담열기속원서접수...",
-  "[단독]빌게이츠·최태원,선혜원서회동…'지혜를베푼다'"
+  "[단독]빌게이츠·최태원,선혜원서회동…'지혜를베푼다'",
+  "SKhynix,인디애나주에AI반도체생산기지"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-29T06:10:29.173372+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-29T06:20:17.781672+09:00",
+   "반도체 인디애나주에 AI 생산기지 hynix"
+  ]
+ ],
+ "last_run": "2026-08-29T06:20:29.318470+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6339,6 +6344,7 @@
   "ulsanpress.net": "울산신문",
   "veritas-a.com": "베리타스알파",
   "public25.com": "퍼블릭타임스",
-  "kyosu.net": "교수신문"
+  "kyosu.net": "교수신문",
+  "koreadaily.com": "미주중앙일보"
  }
 }
