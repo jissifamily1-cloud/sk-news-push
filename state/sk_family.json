@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202608141425201198",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705617&plink=ORI&cooper=NAVER",
-  "https://www.newspim.com/news/view/20260814000789",
   "https://ilyo.co.kr/?ac=article_view&entry_id=512291",
   "https://www.dailian.co.kr/news/view/1678547/?sc=Naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20260814144319M1u",
@@ -2999,12 +2996,12 @@
   "http://www.seouleconews.com/news/articleView.html?idxno=93388",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608280450&t=NNv",
   "https://www.nocutnews.co.kr/news/6569716",
-  "https://www.newsis.com/view/NISX20260828_0003767140"
+  "https://www.newsis.com/view/NISX20260828_0003767140",
+  "https://www.nocutnews.co.kr/news/6569822",
+  "https://www.mt.co.kr/politics/2026/08/28/2026082814504013281",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311781&inflow=N"
  ],
  "seen_titles": [
-  "[글로벌증시따라잡기]CPI이어PPI에도안도…금리인상가능성꺾였나...",
-  "[ABC뉴스칼럼]SK두글자에남은'선경'...일본의식민지정책이낳은...",
-  "최태원-노소영'세기의재산분할'...재상고시한임박",
   "[뉴스브리핑]오늘의주요뉴스…11살아동학대치사목사구속송치",
   "SK하이닉스美전공정팹검토…최태원\"내년메모리전쟁\"",
   "SK그룹'4중상장논란'에도솔리다임프리IPO추진셈법",
@@ -6001,13 +5998,12 @@
   "韓총리,경제단체장만나\"신속해결가능규제,최대한'즉시해소'\"",
   "'미국산HBM'선포일에관세카드…트럼프압박대응법은",
   "고개숙인경찰…14년만에연찬회선박근혜[노컷한컷]",
-  "노소영시의원\"폐교,문화예술교육·국제교류공간으로\""
+  "노소영시의원\"폐교,문화예술교육·국제교류공간으로\"",
+  "\"찬죽나누며나라잃은고통되새겨\"광복회강릉시지회,경술국치추...",
+  "\"이재용·최태원부르자\"국힘청문회카드…국감증인신청도검토",
+  "SK하이닉스,2029년미국서HBM생산…기술·인재·공급망잡는다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-28T09:30:24.084876+09:00",
-   "종합가전 SK하이닉스 4년 삼성전자 1위 연속 디지털고객경험지수"
-  ],
   [
    "2026-08-28T09:40:13.387207+09:00",
    "검토 SK하이닉스 아냐 솔리다임 철회 단계 계획 IPO는"
@@ -6059,9 +6055,13 @@
   [
    "2026-08-28T15:00:31.666653+09:00",
    "선포일에 대응법은 미국산 카드 압박 관세 트럼프 HBM"
+  ],
+  [
+   "2026-08-28T15:30:24.982025+09:00",
+   "SK하이닉스 인재 생산 HBM 잡는다 미국서 기술 2029년 공급망"
   ]
  ],
- "last_run": "2026-08-28T15:20:25.451750+09:00",
+ "last_run": "2026-08-28T15:30:36.894965+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
