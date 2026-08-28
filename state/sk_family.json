@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12127906",
-  "https://thetracker.co.kr/View.aspx?No=4187050",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260814140658Ozb",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444794",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271813",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04995446645547320",
   "https://www.etoday.co.kr/news/view/2614703",
   "http://www.fnnews.com/news/202608141118010990",
   "https://www.tokenpost.kr/news/breaking/390663",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20260828093300062?input=1195m",
   "https://www.newsway.co.kr/news/view?ud=2026082811090705799",
   "https://www.sedaily.com/article/20084459",
-  "https://www.newsway.co.kr/news/view?ud=2026082813364833244"
+  "https://www.newsway.co.kr/news/view?ud=2026082813364833244",
+  "https://www.joongangenews.com/news/articleView.html?idxno=543682",
+  "https://www.hani.co.kr/arti/politics/politics_general/1275125.html",
+  "https://www.asiatime.co.kr/article/20260828500254",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=762615",
+  "https://www.joongangenews.com/news/articleView.html?idxno=543676",
+  "https://www.donga.com/news/Inter/article/all/20260828/134562480/1"
  ],
  "seen_titles": [
-  "두산에너빌리티,美테라파워원전핵심기자재수주",
-  "최태원-노소영재산분할재상고시한임박...9,440억확정될까?",
-  "솔리다임美상장추진…하이닉스에호재냐악재냐",
-  "SK네트웍스,2분기영업익248억원···역기저효과에전년비42%↓",
-  "숨진11살아이손발묶은목사송치·수사확대",
-  "SK네트웍스2분기영업이익248억전년대비42%감소,마케팅비증가영...",
   "SK네트웍스2분기영업이익248억,전년比52.4%↓…매출·영업이익동...",
   "SK네트웍스,2분기세전이익371억원달성…전년비44.1%증가",
   "SK네트웍스,2분기영업익248억…전년比42%↓",
@@ -6001,7 +5995,13 @@
   "강릉경술국치추념식…'찬죽'나누며되새긴국치의아픔",
   "\"HBM웨이퍼도미국서?\"…SK하이닉스,전공정팹'마지막퍼즐'",
   "“왜전라도에반도체?”…국힘,이재용·최태원불러청문회개최추진",
-  "최태원\"산업성장과경쟁력중심으로재설계해야\""
+  "최태원\"산업성장과경쟁력중심으로재설계해야\"",
+  "최태원\"기업크기로규제하는시대바꿔야\"…'규제실험장·AI'해법제...",
+  "김성원국회산자위원장“이재용·최태원청문회추진”",
+  "中베이징대총장이화여대방문⋯AI·교육분야협력확대논의",
+  "\"AI의새로운미래시작\"...SK하이닉스,美서2029년HBM양산",
+  "\"대통령이부르면총수소환정치라더니\"…국민의힘,삼성이재용·SK최...",
+  "토드영美상원의원“반도체투자세액공제연장검토할것”"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,17 @@
   [
    "2026-08-28T13:00:32.098890+09:00",
    "한미 미래 착공 새로운 AI SK하이닉스 인디애나"
+  ],
+  [
+   "2026-08-28T14:30:23.654207+09:00",
+   "소환정치라더니 삼성 이재용 부르면 국민의힘 총수 대통령이"
+  ],
+  [
+   "2026-08-28T14:30:23.654207+09:00",
+   "토드 상원의원 반도체 공제 투자 검토할 연장 세액"
   ]
  ],
- "last_run": "2026-08-28T14:20:25.494352+09:00",
+ "last_run": "2026-08-28T14:30:37.665823+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
