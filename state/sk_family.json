@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/390663",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357425",
   "https://biz.sbs.co.kr/article_hub/20000328794?division=NAVER",
   "https://www.abcn.kr/news/articleView.html?idxno=89941",
   "https://www.ytn.co.kr/_ln/0103_202608141425201198",
@@ -2999,11 +2997,11 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=543676",
   "https://www.donga.com/news/Inter/article/all/20260828/134562480/1",
   "https://www.nocutnews.co.kr/news/6569763",
-  "https://www.dailian.co.kr/news/view/1683724/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1683724/?sc=Naver",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93388",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608280450&t=NNv"
  ],
  "seen_titles": [
-  "SK네트웍스,2분기영업익248억…전년比42%↓",
-  "\"주가겨우살아났는데\"...SK하이닉스'5단중복상장'논란,개미들'불...",
   "최태원\"내년메모리공급난가장심각할것\"",
   "빌게이츠,한국서최태원·정기선만난다…HD현대·SK와SMR상용화논...",
   "[글로벌증시따라잡기]CPI이어PPI에도안도…금리인상가능성꺾였나...",
@@ -6001,13 +5999,11 @@
   "\"대통령이부르면총수소환정치라더니\"…국민의힘,삼성이재용·SK최...",
   "토드영美상원의원“반도체투자세액공제연장검토할것”",
   "노소영의원\"전남광주폐교,한·몽예술교육거점으로활용해야\"",
-  "사설탐정에지명수배자정보흘린경찰…檢보완수사로뇌물혐의추가"
+  "사설탐정에지명수배자정보흘린경찰…檢보완수사로뇌물혐의추가",
+  "韓총리,경제단체장만나\"신속해결가능규제,최대한'즉시해소'\"",
+  "'미국산HBM'선포일에관세카드…트럼프압박대응법은"
  ],
  "recent_sigs": [
-  [
-   "2026-08-28T08:50:16.290829+09:00",
-   "한미 강해 앞으로 관계 강해질 토드 매우"
-  ],
   [
    "2026-08-28T09:00:32.463862+09:00",
    "SK하이닉스 미국에서 한국 쓴다 역사 반도체"
@@ -6063,9 +6059,13 @@
   [
    "2026-08-28T14:30:23.654207+09:00",
    "토드 상원의원 반도체 공제 투자 검토할 연장 세액"
+  ],
+  [
+   "2026-08-28T15:00:31.666653+09:00",
+   "선포일에 대응법은 미국산 카드 압박 관세 트럼프 HBM"
   ]
  ],
- "last_run": "2026-08-28T14:50:23.456423+09:00",
+ "last_run": "2026-08-28T15:00:46.701622+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
