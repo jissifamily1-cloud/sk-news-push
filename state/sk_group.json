@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270223&t=NN",
-  "https://www.mk.co.kr/article/12136583",
   "https://www.mt.co.kr/industry/2026/08/27/2026082622574823722",
   "https://www.news1.kr/finance/blockchain-fintech/6267400",
   "https://www.itooza.com/common/iview.php?no=2026082615152453447",
@@ -2999,11 +2997,11 @@
   "https://www.thelec.kr/news/articleView.html?idxno=61486",
   "https://www.kyosu.net/news/articleView.html?idxno=209446",
   "https://www.news1.kr/local/gwangju-jeonnam/6272625",
-  "https://www.fntimes.com/html/view.php?ud=20260828101640421b372994c95_18"
+  "https://www.fntimes.com/html/view.php?ud=20260828101640421b372994c95_18",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1400382",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170655"
  ],
  "seen_titles": [
-  "미래에셋증권채권,8월브랜드평판1위…KB증권·KR투자증권順",
-  "‘특허절벽’앞둔SK바이오팜,1.1조들여차세대뇌전증약확보",
   "[더벨]SK바이오팜,1.1조딜절반선급금…패키지자산,美관심",
   "\"전국민이한글처럼쉽게AI쓰도록\"…'모두의AI'오늘PT심사",
   "배터리·칩넘어로봇·OLED로…삼성·현대차'3세동맹'전방위확장",
@@ -6001,7 +5999,9 @@
   "SK실트론,노조에임직원처우안제시",
   "[경기과기대]반도체'현장맞춤형전문기술교육'중점추진…5년간75...",
   "호남반도체용수확보첫관문…동복댐증축주민보상협의",
-  "'반도체기업변신'SK에코플랜트,건설전통사업은‘손실’…향후과..."
+  "'반도체기업변신'SK에코플랜트,건설전통사업은‘손실’…향후과...",
+  "동신대,'학과별특화교육과정'으로AI·반도체시대취업력강화",
+  "美워시잭슨홀연설촉각속...일본증시'장중상승'"
  ],
  "recent_sigs": [
   [
@@ -6779,9 +6779,13 @@
   [
    "2026-08-28T14:18:04.391113+09:00",
    "전통사업은 기업 손실 SK에코플랜트 변신 향후 건설 반도체"
+  ],
+  [
+   "2026-08-28T14:20:59.184231+09:00",
+   "연설 촉각 잭슨홀 상승 일본증시 워시 장중"
   ]
  ],
- "last_run": "2026-08-28T14:18:26.861898+09:00",
+ "last_run": "2026-08-28T14:21:06.102663+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
