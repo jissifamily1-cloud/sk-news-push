@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1996543",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315027",
-  "https://www.donga.com/news/Society/article/all/20260820/134486102/1",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93953",
   "https://www.wikitree.co.kr/articles/1153565",
   "https://www.sedaily.com/article/20081187",
@@ -2999,12 +2996,12 @@
   "https://www.ibabynews.com/news/articleView.html?idxno=154083",
   "http://www.newslock.co.kr/news/articleView.html?idxno=134887",
   "https://www.redian.org/news/articleView.html?idxno=257217",
-  "https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/08/28/20260828500255?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/editOpinion/opinion/contribution/2026/08/28/20260828500255?wlog_tag3=naver",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860446",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=225448",
+  "https://www.ngetnews.com/news/articleView.html?idxno=552817"
  ],
  "seen_titles": [
-  "한창도박하던현장덮쳤다…주택가아지트서'26명검거'",
-  "주택빌려불법도박장운영…판돈벌이일당26명검거",
-  "한달사이물류센터화재만세번...이커머스업계1위쿠팡,안전관리...",
   "창원주택가빌려‘도박판’벌인일당경찰에적발",
   "\"325억싹다추적\"…친일파후손들숨겨둔돈탈탈털린다[스프]",
   "자비스앤빌런즈'삼쩜삼',후결제전환에민원60%줄었으나공정위제...",
@@ -6001,10 +5998,18 @@
   "[가전트렌드]LG전자,가전구독캠페인으로'2026에피어워드'브론즈...",
   "[뉴스락특별기획]수술대오른리니언시,먼저불어도면죄부NO",
   "정부,민생침해범정부합동대응반가동...9월부터민생침해집중대응",
-  "[기고]곪으면터진다,참정권도예외는아니었다"
+  "[기고]곪으면터진다,참정권도예외는아니었다",
+  "[공시]한국제지,490억과징금집행정지9월로연장",
+  "HL그룹HL홀딩스승계,잇따른편법및법위반의혹·논란도마위…공...",
+  "통신3사'어깨동무'의실체…6년간기지국임차료담합[이슈더보기]"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-28T17:20:53.937695+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-28T17:30:57.409834+09:00",
+   "통신3사 기지국 임차료 6년간 실체 담합 어깨동무"
+  ]
+ ],
+ "last_run": "2026-08-28T17:31:06.208747+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6073,6 +6078,7 @@
   "megaeconomy.co.kr": "megaeconomy.co.kr",
   "upkoreanews.kr": "업코리아",
   "thepowernews.co.kr": "더파워",
-  "economytalk.kr": "이코노미톡뉴스"
+  "economytalk.kr": "이코노미톡뉴스",
+  "ngetnews.com": "뉴스저널리즘"
  }
 }
