@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260827000166",
-  "https://zdnet.co.kr/view/?no=20260827130727",
-  "http://www.inews24.com/view/1998895",
-  "https://www.yna.co.kr/view/AKR20260827047500017?input=1195m",
-  "https://www.newsis.com/view/NISX20260827_0003764747",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032837",
   "https://www.newstnt.com/news/articleView.html?idxno=715512",
   "https://www.thelec.kr/news/articleView.html?idxno=61428",
@@ -2999,14 +2994,14 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=281542",
   "https://www.newsverse.kr/news/articleView.html?idxno=11312",
   "https://www.sedaily.com/article/20084648",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696615"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696615",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056127",
+  "https://www.newsis.com/view/NISX20260828_0003767096",
+  "https://biz.sbs.co.kr/article_hub/20000331187?division=NAVER",
+  "https://www.sisajournal.com/news/articleView.html?idxno=385024",
+  "https://www.g-enews.com/view.php?ud=202608290731432582fbbec65dfb_1"
  ],
  "seen_titles": [
-  "독보적팹파워입증…시지트로닉스,GaN전력반도체양산모멘텀",
-  "[이슈IN인천]석정규\"현장에서답찾는도시정책…균형발전이끌겠...",
-  "성장호조에커지는물가부담...증권가\"3연속금리인상가능성\"",
-  "지지율고심깊어지는靑…민생·경제행보로활로모색",
-  "삼성∙SK∙LG,생산세액공제'그림의떡'...현대차는대상서빠져",
   "[송도바이오열전]SK바이오사이언스,송도3772억투입…안동·독일과...",
   "신재생에너지관련주희비대주전자재료혜인강세한국전력약세",
   "[S-심층분석]삼성·SK가경계할건'기술격차'만이아니다…CXMT,샤오...",
@@ -6001,7 +5996,12 @@
   "뉴욕증시,워시연준의장매파발언에하락...나스닥0.5%↓",
   "[오늘의경제뉴스]트럼프의반도체관세,한국'메가프로젝트'겨냥?…...",
   "“공급망노린사이버공격...‘제로트러스트’가해법”",
-  "바이낸스,마라·아이온큐등5개종목무기한선물출시"
+  "바이낸스,마라·아이온큐등5개종목무기한선물출시",
+  "[와이파이]9월1주,유튜브·배민·제미나이동시할인…LGU+외2가지통...",
+  "'40조'통큰환원이어…SK하이닉스,추가카드꺼낸다[주주환원시대②...",
+  "SK하이닉스주가떨어져도…성과급손실에'세금까지'메워준다[많이...",
+  "\"살얼음판걷는동맹\"…'전방위압박'트럼프,'중구난방'李정부",
+  "SK,도시바지분매각에키옥시아1대주주올라…한일메모리협력모..."
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,29 @@
   [
    "2026-08-29T07:41:04.179597+09:00",
    "마라 종목 무기한 5개 선물 바이낸스 출시 아이온큐"
+  ],
+  [
+   "2026-08-29T08:01:18.592174+09:00",
+   "1주 제미나이 동시할인 2가지 배민 유튜브 9월 LGU"
+  ],
+  [
+   "2026-08-29T08:01:18.592174+09:00",
+   "SK하이닉스 추가 이어 카드 환원 꺼낸다 주주환원시대 40조"
+  ],
+  [
+   "2026-08-29T08:01:18.592174+09:00",
+   "많이 SK하이닉스 손실에 세금까지 떨어져도 메워준다 성과급 주가"
+  ],
+  [
+   "2026-08-29T08:01:18.592174+09:00",
+   "살얼음판 전방위 중구난방 동맹 걷는 정부 압박 트럼프"
+  ],
+  [
+   "2026-08-29T08:01:18.592174+09:00",
+   "메모리 매각에 올라 주주 한일 지분 키옥시아 1대 도시바 협력"
   ]
  ],
- "last_run": "2026-08-29T07:51:09.781015+09:00",
+ "last_run": "2026-08-29T08:01:34.219249+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
