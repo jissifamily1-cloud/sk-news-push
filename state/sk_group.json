@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260702029488210",
-  "http://www.metroseoul.co.kr/article/20260702500353",
-  "https://www.naeil.com/news/read/593872",
-  "https://www.koreaherald.com/article/10796251",
-  "https://www.koreatimes.co.kr/path/A2026070211020000682",
-  "https://www.sedaily.com/article/20062843",
   "https://www.ddaily.co.kr/page/view/2026070210010409631",
   "https://www.businesspost.co.kr/BP?command=article_view&num=440471",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154767",
@@ -2999,15 +2993,15 @@
   "https://thetracker.co.kr/View.aspx?No=4203433",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=275733",
   "https://www.sedaily.com/article/20084422",
-  "https://www.imaeil.com/page/view/2026082811082511567"
+  "https://www.imaeil.com/page/view/2026082811082511567",
+  "https://www.mt.co.kr/tech/2026/08/28/2026082811102032086",
+  "https://www.khan.co.kr/article/202608281237001",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4956013",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311767&inflow=N",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3677745",
+  "https://futurechosun.com/?p=158929"
  ],
  "seen_titles": [
-  "SK하이닉스대학생앰버서더,이천캠퍼스서'반도체현장·SK경영철학'...",
-  "[산업소식]스마일게이트희망스튜디오,'유스이스포츠페스티벌'개최",
-  "[특별기고]데이터가바꾸는제약산업의미래",
-  "삼성블루만든회사가대한항공도바꿨다…한국대표기업로고의계보",
-  "SKT·KT,토큰생태계·플랫폼경쟁가속...\"반도체다음은토큰\"",
-  "SKGroupunveilssupplieralliancetobolsterchipecosystem",
   "[현장]암참,AI리더십위원회출범…한미AI동맹가속",
   "SK,협력사와대규모상생협약..동반성장가속화",
   "환영사하는최창원SKSUPEX추구협의회의장",
@@ -6001,13 +5995,15 @@
   "SKT,전국민AI비서만든다…정부주도'모두의AI'사업수행자선정",
   "TrumpWeighsSteepTariffsonSemiconductors",
   "엔비디아가쏜AI희망에고율관세매긴다면[트럼프스톡커]",
-  "\"구미를세계피지컬AI중심으로\"…김일수경북도의원,경북도선제적..."
+  "\"구미를세계피지컬AI중심으로\"…김일수경북도의원,경북도선제적...",
+  "\"전국민잡아라\"SKT·KT·카카오'모두의AI'밑그림살펴보니…",
+  "트럼프행정부,고강도반도체관세카드만지작···대미투자압박수...",
+  "'모두의AI'사업…SKT·카카오·KT3파전압축",
+  "연내모두의AI출격…SKT'행동형'·KT'생활밀착'·카카오'카톡완결'",
+  "삼전·닉스55조자사주매입에도…코스피7,000선벽에갇힌이유",
+  "“기준도없이안된다?”…비영리법인설립거부,법원서제동"
  ],
  "recent_sigs": [
-  [
-   "2026-08-28T06:31:15.819197+09:00",
-   "다이 대역폭 공개 NVHBM 확보 맞춤형 엔비디아 늘리고"
-  ],
   [
    "2026-08-28T06:41:13.884600+09:00",
    "시대 내민 AI 첨단 엔비디아도 파트너"
@@ -6891,9 +6887,13 @@
   [
    "2026-08-28T12:31:12.634154+09:00",
    "구미를 김일수 세계 경북도의원 경북도 AI 선제적 중심으로 피지컬"
+  ],
+  [
+   "2026-08-28T12:41:03.186645+09:00",
+   "없이 비영리법인 기준도 법원서 제동 된다 거부 설립"
   ]
  ],
- "last_run": "2026-08-28T12:31:23.599606+09:00",
+ "last_run": "2026-08-28T12:41:08.784159+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
