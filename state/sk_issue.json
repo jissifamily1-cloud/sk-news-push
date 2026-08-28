@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260819180425396",
-  "https://www.hankyung.com/article/2026081904837",
-  "http://www.incheonin.com/news/articleView.html?idxno=120146",
-  "https://www.bzeronews.com/news/articleView.html?idxno=821380",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1329951",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720943",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04798646645548960",
@@ -2999,13 +2995,13 @@
   "https://www.pressman.kr/news/articleView.html?idxno=103387",
   "http://www.efnews.co.kr/news/articleView.html?idxno=131954",
   "http://www.breaknews.com/1232315",
-  "https://vop.co.kr/A00001696413.html"
+  "https://vop.co.kr/A00001696413.html",
+  "https://www.meconomynews.com/news/articleView.html?idxno=200965",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608261545166480101353",
+  "https://www.news1.kr/society/court-prosecution/6272409",
+  "https://www.newsis.com/view/NISX20260828_0003766755"
  ],
  "seen_titles": [
-  "[생생경제]왜증권사이름으로주식을살까…TRS알아보기",
-  "경기도평준화고배정손질…‘가습기살균제피해학생’선배정",
-  "'선지원,후추첨'…경기교육청,'27학년도고교배정방안발표",
-  "28세하청노동자숨진HL만도…압수수색이어대표이사입건",
   "[사사건건]대법관임명‘서면’제청갈등…행정·사법관계는?",
   "경상국립대법대생7명,3년연속전국대회입상",
   "경찰,축구협회'외국인심판성접대'의혹에\"성매매알선공소시효지...",
@@ -6001,7 +5997,11 @@
   "안전부터적금까지…기업들'소비자체감경쟁'",
   "구윤철\"민생이우리경제의가장핵심...취약차주금융부담완화에총력...",
   "공소청시대,이제특검도사라져야...“상설은민주주의흔들린다!”",
-  "[기자수첩]북극곰의비극넘어사람을덮친기후재난"
+  "[기자수첩]북극곰의비극넘어사람을덮친기후재난",
+  "로보락,롯데하이마트잠실서플래그십팝업숍개설",
+  "[더벨][윤활유담합과징금리스크]극동유화,충당부채회계충격...자기...",
+  "종합특검기소사건,줄줄이공판진행…총26건서울중앙지법으로",
+  "'500억대편취혐의'이종필前라임부사장…1심징역10년"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "딱지 롯데렌탈 계약서와 번째 급매"
   ]
  ],
- "last_run": "2026-08-28T11:01:14.089910+09:00",
+ "last_run": "2026-08-28T11:11:00.158124+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
