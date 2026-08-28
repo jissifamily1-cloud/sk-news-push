@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202608141445529376",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1396127",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545158",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3665013",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546645",
   "https://www.ajunews.com/view/20260814145923401",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361814",
@@ -2999,13 +2995,13 @@
   "https://www.techm.kr/news/articleView.html?idxno=154729",
   "https://www.yna.co.kr/view/AKR20260828061251001?input=1195m",
   "http://www.jeollailbo.com/news/articleView.html?idxno=809419",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169056"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169056",
+  "https://biz.sbs.co.kr/article_hub/20000331440?division=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727072&plink=ORI&cooper=NAVER",
+  "https://www.tfmedia.co.kr/news/article.html?no=206813",
+  "http://www.joseilbo.com/news/news_read.php?uid=574684&class=7"
  ],
  "seen_titles": [
-  "SK네트웍스2분기영업이익감소…세전이익증가로만회",
-  "최태원회장\"반도체주문량2배,전쟁같은상황…내년이가장부족\"",
-  "최태원-노소영'세기의재산분할'...오늘마침표?[뉴스퀘어2PM]",
-  "[짚고가자]빌게이츠까지뛰어든'작은원전'…SMR이뭐길래",
   "1년만에한국찾은빌게이츠,조정식국회의장면담[현장영상]",
   "정기선HD현대회장,빌게이츠와회동…SMR협력논의",
   "1년만에또한국찾은빌게이츠⋯최태원·정기선과SMR협력논의",
@@ -6001,7 +5997,11 @@
   "삼성·SK·LG,집중호우피해복구지원'한마음한뜻'",
   "韓총리,경제단체장들에\"신속해결가능한규제는즉시해소\"(종합)",
   "익산시,청소년기자녀둔부모위한'가족소통레시피'교육",
-  "최태원\"규제풀어보고효과따져야\"…'규제실험장'제안"
+  "최태원\"규제풀어보고효과따져야\"…'규제실험장'제안",
+  "韓총리만난최태원회장\"규제합리화실험장만들자\"제안",
+  "돈받고수배정보넘긴현직경찰…검찰보완수사로뇌물죄추가",
+  "‘20년‧194조’현금영수증에담긴우리삶…국세청공모전15편선정",
+  "국세청현금영수증숏폼공모전,영예의대상은?"
  ],
  "recent_sigs": [
   [
@@ -6061,7 +6061,7 @@
    "피해 삼성 지원 LG 집중호우 마음 복구"
   ]
  ],
- "last_run": "2026-08-28T16:00:41.219005+09:00",
+ "last_run": "2026-08-28T16:10:27.195306+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
