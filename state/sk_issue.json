@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640575",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210304",
-  "https://www.kgnews.co.kr/news/article.html?no=908301",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04539526645548960",
   "https://www.ppss.kr/news/articleView.html?idxno=306266",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640515",
@@ -2999,12 +2996,12 @@
   "http://www.dailypop.kr/news/articleView.html?idxno=101983",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055940",
   "https://www.taxtimes.co.kr/news/article.html?no=276573",
-  "https://www.sentv.co.kr/article/view/sentv202608270211"
+  "https://www.sentv.co.kr/article/view/sentv202608270211",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464147",
+  "https://www.bloter.net/news/articleView.html?idxno=672038",
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19814"
  ],
  "seen_titles": [
-  "'모의공정위'대상에한양대법전원…혼합결합분석호평",
-  "김영훈장관\"HL만도대표중처법입건…불법파견도보는중\"",
-  "경찰관관사위장전입·금품수수의혹,양산경찰서압수수색",
   "한화,74년만에재계5위…롯데·포스코제친'방산·조선3사'의힘",
   "[단독]서정진의셀트리온몰‘시간제한행사’절반이기만할인…장영...",
   "김영훈장관\"'노동자끼임사망'HL만도대표중대재해법입건\"",
@@ -6001,7 +5998,10 @@
   "결혼정보업체'듀오',잇단철퇴로신뢰구멍...개인정보유출에이어거...",
   "정부,담합·보험사기등민생침해'정조준'…9월부터분야별조사",
   "구윤철부총리\"내달분야별담합불공정거래행위순차적조사\"",
-  "[기획]KAI노리는한화에업계촉각…\"K-방산생태계훼손\"우려커져"
+  "[기획]KAI노리는한화에업계촉각…\"K-방산생태계훼손\"우려커져",
+  "로보락,팝업스토어오픈···올인원기능신형로봇청소기공개",
+  "국고채에가린LTV2720억…4대은행중우리은행첫변론핵심은",
+  "김지건판사\"형소법개정,조건부석방ㆍ공소유지변호사제도도입해야..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "딱지 롯데렌탈 계약서와 번째 급매"
   ]
  ],
- "last_run": "2026-08-28T10:20:53.376924+09:00",
+ "last_run": "2026-08-28T10:31:03.193671+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
