@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212416",
-  "http://www.mdilbo.com/detail/0kIA7d/757971",
-  "https://www.mediapen.com/news/view/1116379",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168086",
   "http://www.mdilbo.com/detail/ilgftp/757972",
   "https://www.ikbc.co.kr/article/view/kbc202608140012",
@@ -2999,12 +2996,12 @@
   "http://www.newsdream.kr/news/articleView.html?idxno=117046",
   "http://www.newscape.co.kr/news/articleView.html?idxno=124181",
   "https://www.g-enews.com/view.php?ud=20260828082630927139bf6e4b2_1",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851833"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851833",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252560",
+  "https://www.ziksir.com/news/articleView.html?idxno=144569",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=44438"
  ],
  "seen_titles": [
-  "빌게이츠가다시한국찾은이유…SK·HD현대,차세대원전공급망노린...",
-  "9440억이냐재상고냐…최태원·노소영9년소송오늘‘기로’",
-  "재상고안하면9,440억확정⋯최태원·노소영,오늘'운명의날'",
   "[단독]민형배시장\"광주반도체팹4기에서9기까지확장될수도\"",
   "최태원SK그룹회장\"메모리칩구매경쟁,마치전쟁같다\"",
   "주주안심시킨이재용,근심키운최태원[줌인IT]",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,美인디애나HBM패키징공장착공…\"한미AI의새로운미...",
   "SK하이닉스,美서차세대핵심HBM생산거점기공",
   "SK하이닉스,美인디애나HBM생산거점기공식…40억달러이상투자",
-  "SK하이닉스,인디애나팹착공…2029년'메이드인USA'HBM생산"
+  "SK하이닉스,인디애나팹착공…2029년'메이드인USA'HBM생산",
+  "SK하이닉스,美인디애나에40억달러투자…HBM첫미국생산기지착공",
+  "\"'메이드인USA'HBM만든다\"…SK하이닉스,인디애나생산거점첫삽",
+  "SK하이닉스,美HBM생산전초기지구축…한미협력강화"
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "SK하이닉스 미국에서 한국 쓴다 역사 반도체"
   ]
  ],
- "last_run": "2026-08-28T09:10:24.869840+09:00",
+ "last_run": "2026-08-28T09:20:26.956085+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
