@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695932",
-  "https://www.news1.kr/it-science/cc-newmedia/6270987",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481067",
-  "https://news.skbroadband.com/news/articleView.html?idxno=236185",
   "https://www.g-enews.com/view.php?ud=202608271350381675153ddfb15a_1",
   "https://www.asiatime.co.kr/article/20260827500266",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=253237",
@@ -2999,13 +2995,13 @@
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423377",
   "https://www.maniareport.com/view.php?ud=20260829061940267291b55a0d56_19",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481656",
-  "https://www.hankyung.com/article/202608290490i"
+  "https://www.hankyung.com/article/202608290490i",
+  "https://www.dailian.co.kr/news/view/1683859/?sc=Naver",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169032",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=272611",
+  "https://www.ceoscoredaily.com/page/view/2026082715140978545"
  ],
  "seen_titles": [
-  "배경훈부총리\"AI기술3개월마다바뀌는데...독파모평가방식의문\"",
-  "대법,‘중처법위반혐의’SK멀티유틸리티대표무죄확정",
-  "SK실트론노조,SK본사앞상경피켓시위",
-  "울산시,산업AX주도…새로운넥서스WAVE개최",
   "금값다시90만원돌파…하반기더오를까",
   "SK온헝가리공장,독성분진25㎏공장밖까지…신고는수습뒤[이슈]",
   "“李지지율하락,주식영향커…ETF주도자책임물어야”…친명계도...",
@@ -6001,7 +5997,11 @@
   "돌아온반도체투심,해외종목·채권으로변동성보완···8월상장ETF...",
   "'4회1-14도뒤집는게야구인데'…염경엽감독의조기승부포기와'미...",
   "[주간거래소외국인]삼성전자·SK하이닉스대신삼성전기담았다…무...",
-  "1800조원은어느기업으로?…AI데이터센터의기업지도[박신영의월가..."
+  "1800조원은어느기업으로?…AI데이터센터의기업지도[박신영의월가...",
+  "이재용,李대통령과한달만에또만찬...네팔총력구조박정원[재계...",
+  "통신사위협하는포털·쇼핑사OTT제휴상품",
+  "\"메모리가AI성패좌우\"…삼성·SK,美생산인프라·맞춤형기술로시...",
+  "중소형증권사IB‘한파’…교보증권만지난해수준지켰다"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,25 @@
   [
    "2026-08-29T06:31:18.152039+09:00",
    "데이터센터의 월가 기업으로 AI 어느 박신영의 1800조원은 기업지도"
+  ],
+  [
+   "2026-08-29T07:01:16.309662+09:00",
+   "만찬 재계 총력 네팔 구조 대통령과 만에 박정원 이재용"
+  ],
+  [
+   "2026-08-29T07:01:16.309662+09:00",
+   "통신사 OTT 상품 위협하는 포털 쇼핑사 제휴"
+  ],
+  [
+   "2026-08-29T07:01:16.309662+09:00",
+   "맞춤형 생산 좌우 AI 성패 기술로 인프라 삼성 메모리가"
+  ],
+  [
+   "2026-08-29T07:01:16.309662+09:00",
+   "IB 중소형 교보증권만 지난해 수준 지켰다 한파 증권사"
   ]
  ],
- "last_run": "2026-08-29T06:51:06.212623+09:00",
+ "last_run": "2026-08-29T07:01:30.201124+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
