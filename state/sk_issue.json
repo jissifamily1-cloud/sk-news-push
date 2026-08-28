@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49842",
-  "https://www.sommeliertimes.com/news/articleView.html?idxno=131426",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=227080",
-  "http://www.impacton.net/news/articleView.html?idxno=19748",
-  "https://www.mt.co.kr/industry/2026/08/20/2026081914515813526",
-  "https://news.tf.co.kr/read/life/2355758.htm",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4430639",
   "https://www.sedaily.com/article/20080980",
   "https://www.munhwa.com/article/11610549",
@@ -2999,15 +2993,15 @@
   "https://news.tf.co.kr/read/life/2359162.htm",
   "https://www.yna.co.kr/view/AKR20260828121900004?input=1195m",
   "https://www.naeil.com/news/read/600429",
-  "https://www.news1.kr/society/court-prosecution/6272825"
+  "https://www.news1.kr/society/court-prosecution/6272825",
+  "https://dealsite.co.kr/articles/168006",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148970820&call_from=naver_news",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000060472",
+  "https://www.hani.co.kr/arti/society/society_general/1275150.html",
+  "https://news.tf.co.kr/read/life/2359219.htm",
+  "https://www.dailian.co.kr/news/view/1683795/?sc=Naver"
  ],
  "seen_titles": [
-  "[패트롤]경기도-경기도일자리재단-경기도교육청",
-  "경기도교육청,2027학년도평준화학군학생배정방안공개",
-  "경기고교배정,2027학년도부터바뀐다…쏠림·미달막는데초점",
-  "[백종화]조직의성장을가로막는'리더십워싱(LeadershipWashing)'",
-  "최중경IFRS재단이사\"지속가능성공시는ESG아니다...스코프3는난제...",
-  "[레저N산업]폐그물입고텐트친다…가치소비가빚어낸'ESG레저노믹...",
   "동원산업스타키스트,美서'그린워싱'지목…아마존소송불똥튀나",
   "웨일스,세계최초'내추럴와인전용PGI'추진…합성화학물질·산업...",
   "[에너지칼럼]탄소중립녹색성장기본법개정안을보고",
@@ -6001,10 +5995,16 @@
   "'라임사태'이종필1심징역10년…300억횡령혐의",
   "제주실종·장윤기사건에수사유출까지…경찰,공직기강특별경보(종합)",
   "검·경사건‘핑퐁’줄인다",
-  "보완수사결과통보전검·경'사전협의'…'사건핑퐁'부작용줄인다"
+  "보완수사결과통보전검·경'사전협의'…'사건핑퐁'부작용줄인다",
+  "[전자는지금]삼성전자,‘디지털고객경험지수’종합가전4년연속1위...",
+  "의식주등민생분야담합근절…'범정부합동대응반'가동",
+  "제주실종허위종결·장윤기부실수사…경찰기강'흔들'",
+  "검·경수사협력대상에7대범죄추가…법무부,수사준칙개정안입법...",
+  "검경수사'핑퐁'줄인다…보완수사결과통보전사전협의",
+  "검사-특사경,지도·조언통한상호협력…수사준칙마련"
  ],
  "recent_sigs": [],
- "last_run": "2026-08-28T15:40:58.783613+09:00",
+ "last_run": "2026-08-28T15:50:55.286241+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
