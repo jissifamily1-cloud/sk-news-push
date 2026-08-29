@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026082715270001004?did=NA",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851777",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481216",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=79194",
-  "https://www.ceoscoredaily.com/page/view/2026082716134777408",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241243",
   "https://www.itdaily.kr/news/articleView.html?idxno=241249",
   "https://www.thereport.co.kr/news/articleView.html?idxno=90843",
   "https://www.e-science.co.kr/news/articleView.html?idxno=134250",
@@ -2999,15 +2993,15 @@
   "https://www.ddaily.co.kr/page/view/2026082716070266340",
   "https://magazine.hankyung.com/business/article/202608301219b",
   "https://www.munhwa.com/article/11613021",
-  "https://zdnet.co.kr/view/?no=20260827190709"
+  "https://zdnet.co.kr/view/?no=20260827190709",
+  "https://www.hankyung.com/article/2026083012607",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722185",
+  "https://biz.heraldcorp.com/article/10856259",
+  "https://www.ekn.kr/web/view.php?key=20260830022528196",
+  "http://www.srtimes.kr/news/articleView.html?idxno=211092",
+  "https://magazine.hankyung.com/business/article/202608301269b"
  ],
  "seen_titles": [
-  "[마감시황]코스피,104.16포인트오른6912.37마감",
-  "코스피7000선탈환실패...금리인상에발목",
-  "[서울데이터랩]마감직후인기검색종목20選",
-  "[퇴근길7분뉴스]네팔홍수·SSG닷컴·보안AI·젠슨황",
-  "Nvidia-inspiredKOSPIrallysubduedafterBOK's2ndstraightratehik",
-  "주택불황에도웃은중견건설사···비주택다각화가'생존법'",
   "“알아야올바른정책만든다”…이천시,공직자반도체특강·하이닉스...",
   "1억넣으면월100만원꽂힌다?‘월배당ETF’이거몰랐다간",
   "[단독]베일벗은SK최태원美HBM승부수…16개공정첫공개",
@@ -6001,7 +5995,13 @@
   "[취재수첩]호황의과실,어디까지나눌까…조선업노사의새로운숙제",
   "'최대5억원'…삼성전자,9월부터임직원주택대출지원",
   "주식시장‘진정’vs‘시들’…개미들,8월1.7조내다팔아..단일종목...",
-  "5G·LTE통합요금제시대,청년혜택은어떻게달라졌나"
+  "5G·LTE통합요금제시대,청년혜택은어떻게달라졌나",
+  "부부합해10억?안됩니다…삼성전자임직원대출규정보니",
+  "삼성전자,9월부터임직원주택대출…사내부부는1건제한",
+  "삼전닉스레버리지규제한달…개미들1.7조팔고상품옮겨탔다",
+  "자사주가지킨코스피…이번주,수출·AI인프라실적이가른다[주간증...",
+  "[주간브리핑]한은기준금리3.0%로인상…SK하이닉스,美HBM생산기지...",
+  "“불안하네~”...코스피외면하는개미들"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,17 @@
   [
    "2026-08-30T08:21:07.632166+09:00",
    "통합요금제 혜택은 달라졌나 어떻게 5G LTE 시대 청년"
+  ],
+  [
+   "2026-08-30T08:31:14.634753+09:00",
+   "생산기지 HBM 인상 SK하이닉스 기준금리 한은"
+  ],
+  [
+   "2026-08-30T08:31:14.634753+09:00",
+   "개미들 불안하네 외면하는 코스피"
   ]
  ],
- "last_run": "2026-08-30T08:21:13.427886+09:00",
+ "last_run": "2026-08-30T08:31:23.159546+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
