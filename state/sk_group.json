@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005909609",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=143653",
   "https://www.gukjenews.com/news/articleView.html?idxno=3676755",
   "https://www.ajunews.com/view/20260827145446993",
@@ -2999,10 +2998,10 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/29/2026082990110.html",
   "https://www.econovill.com/news/articleView.html?idxno=745722",
   "https://www.bigtanews.co.kr/article/view/big202608290006",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608290412&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608290412&t=NN",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1177577"
  ],
  "seen_titles": [
-  "SK하닉노사,'성과급'이견좁혔지만…커지는'노노갈등'불씨",
   "SKT·업스테이지손잡고'보안특화AI'개발…국내보안기업9곳총출동",
   "독파모5개팀AI학습데이터공개…“누구나이용가능”",
   "“사용성보다기반성능중심평가돼야”···모티프,‘독파모’탈락...",
@@ -6001,7 +6000,8 @@
   "[돈이보이는경제]잇단호재에도주가는지지부진…반도체상승장은...",
   "객실밖으로나온호텔김치…F&B사업확장으로수익구조다변화",
   "미래에셋증권,8월마지막주한화등9종목매수추천",
-  "\"한국과손잡아야\"…실리콘밸리가보낸'AI동맹'러브콜"
+  "\"한국과손잡아야\"…실리콘밸리가보낸'AI동맹'러브콜",
+  "외신,韓\"세계서가장미친증시\"…금융위정면반박"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-08-29T20:01:18.710891+09:00",
    "한국과 AI동맹 손잡아야 러브콜 보낸 실리콘밸리가"
+  ],
+  [
+   "2026-08-29T20:31:08.148831+09:00",
+   "미친 가장 증시 외신 반박 금융위 정면 세계서"
   ]
  ],
- "last_run": "2026-08-29T20:21:09.403553+09:00",
+ "last_run": "2026-08-29T20:31:14.797083+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
