@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260827_0021413396",
-  "https://www.newsis.com/view/NISI20260827_0021413399",
   "http://www.press9.kr/news/articleView.html?idxno=81729",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80745",
   "http://www.newsprime.co.kr/news/article.html?no=745439",
@@ -2999,11 +2997,11 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260829151521WTL",
   "https://www.mt.co.kr/world/2026/08/29/2026082914500919754",
   "https://www.hani.co.kr/arti/economy/marketing/1275239.html",
-  "https://www.jejudomin.co.kr/news/articleView.html?idxno=321809"
+  "https://www.jejudomin.co.kr/news/articleView.html?idxno=321809",
+  "https://economist.co.kr/article/view/ecn202608290009",
+  "https://www.seoultimes.news/news/article.html?no=2000099287"
  ],
  "seen_titles": [
-  "엔비디아실적전망치가'AI버블'우려잠재워,메모리반도체공급부...",
-  "재생에너지발전소·수요기업잇는다…PPA플랫폼출범",
   "2026인크루트채용설명회",
   "한투운용'ACE반도체Plus전략산업ETF'순자산3000억돌파",
   "2026채용동향발표경청하는학생들",
@@ -6001,17 +5999,11 @@
   "'오디세이'흥행에영화'트로이'도뜬다…시청40배폭증",
   "中창신메모리상반기매출10배폭증…삼전닉스주가또흔들리나",
   "중국CXMT,전년매출보다10배가까이올라…반도체슈퍼사이클에실적...",
-  "제주SK,20년담은서드유니폼'섬사람'공개"
+  "제주SK,20년담은서드유니폼'섬사람'공개",
+  "삼전·하닉주가에불똥?…中창신메모리‘깜짝실적’",
+  "[CEO위클리]李대통령만난이재용,美서첫삽뜬곽노정…재계수장..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-29T09:41:03.299284+09:00",
-   "CXMT 삼전 깜짝 주가 어떡해 어닝서프라이즈 월요일"
-  ],
-  [
-   "2026-08-29T09:41:03.299284+09:00",
-   "열풍에 시청 40배 늘어 오디세이 놀런 작품도 인기 트로이"
-  ],
   [
    "2026-08-29T09:51:03.695916+09:00",
    "자사주가 외국인 있었다 큰손 바꾼 팔아도 증시 따로 55조 수급"
@@ -6295,9 +6287,17 @@
   [
    "2026-08-29T15:41:02.168698+09:00",
    "20년 서드 섬사람 공개 담은 제주SK 유니폼"
+  ],
+  [
+   "2026-08-29T15:51:00.364186+09:00",
+   "주가에 하닉 깜짝 창신메모리 불똥 실적 삼전"
+  ],
+  [
+   "2026-08-29T15:51:00.364186+09:00",
+   "곽노정 이재용 대통령 수장 만난 재계"
   ]
  ],
- "last_run": "2026-08-29T15:41:08.204653+09:00",
+ "last_run": "2026-08-29T15:51:09.553896+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
