@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspost.kr/news/articleView.html?idxno=225261",
-  "https://www.newspim.com/news/view/20260827000970",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1099874",
   "https://www.newsis.com/view/NISX20260827_0003764738",
   "https://www.chosun.com/economy/tech_it/2026/08/27/DRY7KPLWXVGG7M6BZA64AEGYDM/",
@@ -2999,11 +2997,11 @@
   "https://www.greened.kr/news/articleView.html?idxno=348751",
   "https://www.mk.co.kr/article/12139027",
   "https://www.sisajournal.com/news/articleView.html?idxno=384575",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1400424"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1400424",
+  "https://www.mk.co.kr/article/12139452",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1177536"
  ],
  "seen_titles": [
-  "40억달러투입SK하이닉스,인디애나HBM공장착공",
-  "“삼전·하이닉스에조선·방산까지”…보름만에3000억몰린ETF",
   "기업이바라는인재의핵심역량은?",
   "채용동향꼼꼼히메모",
   "KB자산운용,'RISE네트워크인프라'6개월수익률1위…AI인프라성장...",
@@ -6001,17 +5999,11 @@
   "엔비디아'962억달러'도금리에밀렸다…월요일삼전·하이닉스3가지신...",
   "중국메모리반도체굴기...‘차이나칩포비아’커졌다",
   "전기차넘어선K배터리…AI·ESS·로봇으로'영토확장'",
-  "한국·금호·넥센타이어,유럽축구마케팅강화…현지경쟁력↑"
+  "한국·금호·넥센타이어,유럽축구마케팅강화…현지경쟁력↑",
+  "9월코스피8100까지간다...장기금리진정될것",
+  "고액자산가들네이버·카카오대신…'이종목'담았다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-29T11:21:04.271188+09:00",
-   "소액결제 통신사별 휴대폰 변경법 한도 차단"
-  ],
-  [
-   "2026-08-29T11:21:04.271188+09:00",
-   "정부 사실상 종목 금지 학습효과 판매 단일 ETF 레버리지 한국"
-  ],
   [
    "2026-08-29T11:31:10.437066+09:00",
    "SKIET 주주 흡수합병 기존 필요 SK이노베이션 보호정책"
@@ -6211,9 +6203,17 @@
   [
    "2026-08-29T17:11:04.431329+09:00",
    "한국 축구 마케팅 경쟁력 현지 금호 넥센타이어 유럽 강화"
+  ],
+  [
+   "2026-08-29T17:21:04.903401+09:00",
+   "8100까지 장기금리 코스피 진정될 간다 9월"
+  ],
+  [
+   "2026-08-29T17:21:04.903401+09:00",
+   "대신 네이버 카카오 고액자산가들 담았다 종목"
   ]
  ],
- "last_run": "2026-08-29T17:11:21.747658+09:00",
+ "last_run": "2026-08-29T17:21:14.222538+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
