@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nspna.com/news/?newsid=825831",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481093",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406766",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208684",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208678",
-  "https://www.joongangenews.com/news/articleView.html?idxno=543294",
-  "https://www.dailian.co.kr/news/view/1683189/?sc=Naver",
   "https://daily.hankooki.com/news/articleView.html?idxno=1399880",
   "https://www.greened.kr/news/articleView.html?idxno=348595",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201086",
@@ -2999,16 +2992,16 @@
   "http://www.rookie.co.kr/news/articleView.html?idxno=126437",
   "https://www.mediapen.com/news/view/1119722",
   "https://www.newsway.co.kr/news/view?ud=2026082814454905667",
-  "https://www.hankyung.com/article/2026082898276"
+  "https://www.hankyung.com/article/2026082898276",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=62386",
+  "https://www.mk.co.kr/article/12103296",
+  "https://www.edaily.co.kr/News/Read?newsId=01849926645552240&mediaCodeNo=257",
+  "https://www.mk.co.kr/article/12139007",
+  "https://economist.co.kr/article/view/ecn202608250034",
+  "https://www.fnnews.com/news/202608281855490039",
+  "https://www.yna.co.kr/view/AKR20260827018800004?input=1195m"
  ],
  "seen_titles": [
-  "모티프'독파모이의제기'에절차검증…배경훈부총리“평가방식재검...",
-  "과기정통부,독파모AI학습데이터29종무료개방…1.56조토큰규모",
-  "엔비디아'어닝서프라이즈'에AI랠리재점화…삼전닉스주가영향은?",
-  "추미애지사\"첨단기술과친환경함께성장...세계반도체산업새로운...",
-  "정부,휴머노이드2.3조·피지컬AI2.8조투자…'국산풀스택'승부수",
-  "추미애경기도지사,글로벌반도체·빅테크기업과‘K-반도체’미래...",
-  "삼성전자·SK하이닉스주가급락에개미'반신반의'하는데…증권가'매...",
   "'독자보안AI'놓고SKT·네이버2파전",
   "독파모평가공방확산…모티프이의신청에정부\"공정검토\"(종합2보)",
   "호남반도체인프라고비넘었다,남은건사람",
@@ -6001,7 +5994,14 @@
   "[횡성한우컵]신학기개학에맞춰개막한'횡성한우컵'...유소년농구꿈...",
   "“엔비디아실적뒤에한국있다”…삼전닉스기술력주목",
   "'TOP10'부터K반도체까지…월가로번진한국식ETF",
-  "올해133%폭등했는데…\"내년까지간다\"잘나가는이종목[분석+]"
+  "올해133%폭등했는데…\"내년까지간다\"잘나가는이종목[분석+]",
+  "SK하이닉스,홍보임원영입...김수형전SBS특파원9월1일출근",
+  "Koreanhotelkimchiexpandsglobalfootprint",
+  "엔비디아AI투자확대…삼성전자·SK하이닉스수혜이어질까[종목e슈]",
+  "삼전닉스주주환원호재...대신證“코스피7000선회복할것”",
+  "SK스퀘어엔‘하이닉스’있는데…쪼개는카카오‘국민메신저’한계...",
+  "\"전원주하이닉스'2만원재테크'에우울증걸린'250층'입주자\"처방전...",
+  "[로펌을만나다]김상곤광장대표\"N%성과급,상법이예측못해…보완..."
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,21 @@
   [
    "2026-08-29T09:01:26.357013+09:00",
    "올해 폭등했는데 간다 종목 내년까지 나가는"
+  ],
+  [
+   "2026-08-29T09:11:08.898537+09:00",
+   "쪼개는 국민 하이닉스 SK스퀘어엔 한계 메신저 있는데 카카오"
+  ],
+  [
+   "2026-08-29T09:11:08.898537+09:00",
+   "우울증 입주자 하이닉스 250층 2만원 걸린 전원주 재테크 처방전"
+  ],
+  [
+   "2026-08-29T09:11:08.898537+09:00",
+   "광장 보완 상법이 대표 예측못해 김상곤 성과급"
   ]
  ],
- "last_run": "2026-08-29T09:01:50.527191+09:00",
+ "last_run": "2026-08-29T09:11:20.734058+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
