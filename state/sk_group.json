@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607201057111230662",
-  "https://zdnet.co.kr/view/?no=20260827144756",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481115",
-  "https://zdnet.co.kr/view/?no=20260827142253",
-  "https://www.news1.kr/world/international-economy/6271486",
-  "http://www.4th.kr/news/articleView.html?idxno=2116968",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208686",
   "https://www.mediapen.com/news/view/1119324",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721949",
   "https://www.koreaherald.com/article/10854363",
@@ -2999,16 +2992,16 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16176780",
   "https://www.wikitree.co.kr/articles/1155796",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52422",
-  "https://www.etnews.com/20260829000011"
+  "https://www.etnews.com/20260829000011",
+  "https://www.news1.kr/local/daejeon-chungnam/6236264",
+  "https://www.ddaily.co.kr/page/view/2026082911021735172",
+  "https://www.bloter.net/news/articleView.html?idxno=672049",
+  "https://www.newsis.com/view/NISX20260828_0003767414",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16176793",
+  "https://www.hankyung.com/article/202608215119i",
+  "https://www.seoulfn.com/news/articleView.html?idxno=636692"
  ],
  "seen_titles": [
-  "추미애“경기도,세계친환경반도체산업의새기준으로만들것”",
-  "김은숙청주시의원“SK하이닉스100조투자…선제대응해야”",
-  "SK바이오팜,뇌전증신약후보'오파칼림'도입…두번째신약美직판기...",
-  "'독파모탈락'모티프,평가에이의신청…정부\"공정검토\"",
-  "[초점]엔비디아133조매출에도웃지못했다…AI다음전쟁터는'메모리...",
-  "금리인상에놀란증시,반도체·전력주쏠림강화…하락종목이‘1.8배...",
-  "‘반도체재건’시동건日키옥시아,낸드신공장에9조원승부수",
   "삼성전자26만5000원,1%대상승…엔비디아호실적에반도체株투자심리...",
   "SK하이닉스172만원선강세…엔비디아호실적에HBM기대재점화",
   "김준평동아에스티팀장\"K-신약허가·심사변화,개선넘어혁신\"",
@@ -6001,7 +5994,14 @@
   "8월4주차SK하이닉스주가,변동성심화속하락마감",
   "22년전작품인데…'오디세이'열풍에구매40배급증했다는'이영화'...",
   "워시매파발언에뉴욕증시하락…엔비디아4.6%↓",
-  "'오디세이'흥행에'트로이'역주행…전월보다40배증가"
+  "'오디세이'흥행에'트로이'역주행…전월보다40배증가",
+  "지식재산처-SK,첨단기술특허경쟁력강화맞손…'MOIP테크콘서트'",
+  "中CXMT,상반기매출1503억위안…텐센트제치고시총1위등극",
+  "16년키운코웨이수처리…AI반도체타고최대실적눈앞",
+  "\"증명서떼고맛집예약까지\"…SKT·카카오·KT'모두의AI'어떻게달라...",
+  "8월마지막주SK스퀘어주가하락마감",
+  "예금부터TDF,자산배분펀드까지…퇴직연금상품의모든것",
+  "[SKIET,7년간의계산서③]'10만5000원→1만4783원'···합병가액은공..."
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,21 @@
   [
    "2026-08-29T10:51:11.057238+09:00",
    "엄습 비상 금요일 공포 월요일 반도체 삼전닉스 팔았어야 1000만"
+  ],
+  [
+   "2026-08-29T11:11:02.778276+09:00",
+   "마지막 하락 마감 8월 주가 SK스퀘어"
+  ],
+  [
+   "2026-08-29T11:11:02.778276+09:00",
+   "자산배분펀드까지 퇴직연금 상품의 TDF 예금부터 모든"
+  ],
+  [
+   "2026-08-29T11:11:02.778276+09:00",
+   "1만4783원 10만5000원 합병가액은"
   ]
  ],
- "last_run": "2026-08-29T11:01:21.750305+09:00",
+ "last_run": "2026-08-29T11:11:14.621143+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
