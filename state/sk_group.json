@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20070840",
-  "https://www.news1.kr/local/daejeon-chungnam/6236264",
-  "https://www.ajunews.com/view/20260827143403894",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721943",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406836",
-  "https://www.g-enews.com/view.php?ud=202608271425148495923c501012_1",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=94339",
-  "https://www.kukinews.com/article/view/kuk202608270135",
-  "http://www.inews24.com/view/1998998",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131939",
   "http://www.yonhapnewstv.co.kr/news/AKR20260827143537K7E",
   "http://www.newsian.co.kr/news/articleView.html?idxno=94338",
   "https://www.sedaily.com/article/20084026",
@@ -2999,19 +2989,19 @@
   "https://www.mk.co.kr/article/12139322",
   "https://www.lecturernews.com/news/articleView.html?idxno=209592",
   "https://www.jejusori.net/news/articleView.html?idxno=505952",
-  "https://www.tokenpost.kr/news/market/400165"
+  "https://www.tokenpost.kr/news/market/400165",
+  "https://www.hankyung.com/article/2026081424971",
+  "https://www.sedaily.com/article/20084713",
+  "http://www.medisobizanews.com/news/articleView.html?idxno=141544",
+  "https://news.mtn.co.kr/news-detail/2026082711345715213",
+  "https://www.sedaily.com/article/20084711",
+  "https://www.sedaily.com/article/20084710",
+  "https://view.asiae.co.kr/article/2026082816051221485",
+  "https://view.asiae.co.kr/article/2026082709493481750",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=309273",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=726967"
  ],
  "seen_titles": [
-  "SK텔레콤,업스테이지와‘사이버보안특화AI’개발도전",
-  "[정책브리핑]용인시,‘굿시티포럼2026’국가대표글로벌반도체선...",
-  "정부·통신3사,AI통신망투자위해'맞손'…연내종합대책만든다",
-  "코스피7000눈앞…엔비디아'70%성장'에삼전·하닉강세",
-  "'독파모'로확보한AI학습용데이터29종개방",
-  "AI시대통신망투자다시뛴다…민·관협의체본격가동",
-  "ESS중앙계약시장3차'1GW시대'열리나...LG엔솔·삼성SDI·SK온격돌",
-  "'적자SKIET'다시품은SK이노…'기업가치제고'로이어질까",
-  "추미애,\"경기도를세계친환경반도체산업새기준으로\"",
-  "삼성전자·하이닉스,엔비디아실적서하반기메모리수요확인…호황...",
   "[더밸류브리핑]오늘의ETF소식...미래에셋자산운용·KB자산운용·한화...",
   "SK하이닉스,美인디애나AI메모리패키징공장기공식",
   "SK스토아노조,라포랩스매각재추진반발…“계약파기·법위반조사...",
@@ -6001,7 +5991,17 @@
   "800만돌파오디세이열풍에역주행한‘그영화’",
   "크리스토퍼놀런감독,맷데이먼,톰홀랜드,앤해서웨이주연영화'...",
   "짝퉁천국에서첨단기술국가로진화하는중국",
-  "지에스올해133%상승,정유주마진기대반영"
+  "지에스올해133%상승,정유주마진기대반영",
+  "시총3위SK스퀘어'AI·반도체투자회사'로변신",
+  "SKT·카카오·KT,‘모두의AI’낙점…외산AI추격나선다",
+  "잘나가는바이오시밀러ㆍ뷰티ㆍ톡신기업,상반기채용문'활짝'",
+  "이세철전무\"메모리공급부족2028년상반기까지...반도체주저평가\"",
+  "삼성바이오,역대급3조유상증자…스위스기업인수에쏟는다",
+  "베네수엘라,OPEC탈퇴검토…핵심유전100년간미국에임대하나",
+  "1550원까지갔었는데…1300원대안착한환율전망은[주末머니]",
+  "\"1.1조들여신약사왔다\"…큰돈쓰는데SK바이오팜목표주가오른이유...",
+  "한국은행,내년성장률대폭상향…기업지표가경기흐름좌우한다",
+  "[슬금슬금]달러는안내렸는데환율은1300원대…원화강세의뒷면"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,41 @@
   [
    "2026-08-29T10:01:17.865119+09:00",
    "지에스 반영 마진 상승 정유주 올해 기대"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "잘나가는 톡신 바이오시밀러 상반기 활짝 기업 뷰티 채용"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "공급 상반기까지 반도체주 저평가 부족 메모리 전무 이세철 2028년"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "스위스 삼성바이오 유상증자 역대급 인수에 쏟는다 기업 3조"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "임대하나 핵심 검토 100년간 탈퇴 유전 미국에 베네수엘라 OPEC"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "안착한 1300원대 갔었는데 1550원까지 전망은 환율"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "신약 1조 SK바이오팜 목표주가 오른 이유 들여 사왔다 쓰는데"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "흐름 대폭 한국은행 내년 기업 상향 지표가 성장률 좌우한다 경기"
+  ],
+  [
+   "2026-08-29T10:08:45.147015+09:00",
+   "환율은 내렸는데 1300원대 원화 뒷면 강세의 달러는"
   ]
  ],
- "last_run": "2026-08-29T10:01:28.931519+09:00",
+ "last_run": "2026-08-29T10:09:09.660562+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
