@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kado.net/news/articleView.html?idxno=2066827",
   "https://www.etnews.com/20260814000287",
   "https://www.mt.co.kr/industry/2026/08/14/2026081416455085938",
   "https://www.newsis.com/view/NISX20260814_0003750193",
@@ -2999,10 +2998,10 @@
   "https://www.xportsnews.com/article/2189702",
   "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/15/2026071580051.html",
   "http://www.wsobi.com/news/articleView.html?idxno=316549",
-  "http://www.iminju.net/news/articleView.html?idxno=168137"
+  "http://www.iminju.net/news/articleView.html?idxno=168137",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80903"
  ],
  "seen_titles": [
-  "최태원·정기선만난빌게이츠\"차세대나트륨SMR생태계구축협력\"",
   "빌게이츠만난정기선·최태원…AI전력수요에K원전협력",
   "빌게이츠,소형모듈원전협력확대…SK·HD현대·두산참여",
   "김정관,빌게이츠만나SMR협력논의…韓원전기업참여확대",
@@ -6001,10 +6000,16 @@
   "\"여배우인가?\"…'올림픽金'쇼트트랙아이돌,연세대졸업했다→학사모...",
   "커피마시고쉬던호텔라운지의진화…워커힐,비스타로비에브랜드...",
   "SK네트웍스·바디프랜드,2분기세전이익371억원달성·건기식'바디프...",
-  "SK네트웍스,2분기영업익248억원···전년比42.4%↓"
+  "SK네트웍스,2분기영업익248억원···전년比42.4%↓",
+  "[초점]SK최태원,오늘(30일)일본간다…'日반도체투자'촉각"
  ],
- "recent_sigs": [],
- "last_run": "2026-08-30T06:00:41.370684+09:00",
+ "recent_sigs": [
+  [
+   "2026-08-30T06:10:17.678045+09:00",
+   "반도체 투자 일본 30일 촉각 간다"
+  ]
+ ],
+ "last_run": "2026-08-30T06:10:29.395867+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
