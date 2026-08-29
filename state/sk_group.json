@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://newstapa.org/article/xQrLV",
-  "https://www.news1.kr/finance/general-stock/6271694",
-  "https://www.asiatime.co.kr/article/20260827500341",
-  "https://www.mk.co.kr/article/12137859",
   "https://www.fnnews.com/news/202608271307571481",
   "https://www.mt.co.kr/industry/2026/08/27/2026082713571440422",
   "https://www.ajunews.com/view/20260827160307318",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260830011400007?input=1195m",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608300041&t=NN",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481375",
-  "https://www.edaily.co.kr/News/Read?newsId=01187366645552568&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01187366645552568&mediaCodeNo=257",
+  "https://magazine.hankyung.com/business/article/202608301292b",
+  "https://www.sedaily.com/article/20084793",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000060648",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=602199"
  ],
  "seen_titles": [
-  "한국은행,기준금리2회연속인상…금융시장\"예상보다옅어진매파적...",
-  "독파모탈락한모티프,과기정통부에이의제기\"평가상세공개해야\"",
-  "SK이터닉스,삼성바이오로직스와170MW재생에너지공급협력",
-  "'엔비디아훈풍'코스피6900선탈환…금리인상에상승폭은축소",
   "엔비디아발훈풍에웃다금리인상에발목잡힌코스피···삼전닉스1~2%...",
   "코스피,반도체강세에3일연속완만한상승세유지‥6,900선에서마감",
   "엔비디아컨콜서삼성·SK·LG·현대차언급…韓기업존재감커져",
@@ -6001,7 +5997,11 @@
   "이정후,애리조나와DH1차전2안타3출루…열흘만에멀티히트",
   "삼전·닉스에도전장…'낸드1위'넘보는中",
   "침해사고의심정황만있어도보존의무발생,삭제·훼손시'불리...",
-  "신약빅딜릴레이…한미‘3.2조잭팟’·SK바이오팜‘1.1조승부수’..."
+  "신약빅딜릴레이…한미‘3.2조잭팟’·SK바이오팜‘1.1조승부수’...",
+  "[속보]삼전닉스상반기법인세11.2조",
+  "“한국처럼될까겁난다”…‘개미지옥’막기위해결국초강수두는...",
+  "삼성전자,무주택임직원에최대5억대출…연1.5%·DSR미적용",
+  "주성엔지니어링,장중상승분반납…8월마지막주흐름은"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,21 @@
   [
    "2026-08-30T08:41:04.763428+09:00",
    "2조 한미 빅딜 릴레이 신약 잭팟 승부수 1조 SK바이오팜"
+  ],
+  [
+   "2026-08-30T08:51:03.837177+09:00",
+   "될까 한국처럼 초강수 개미지옥 막기 결국 두는 겁난다"
+  ],
+  [
+   "2026-08-30T08:51:03.837177+09:00",
+   "미적용 임직원에 대출 DSR 삼성전자 5억 무주택"
+  ],
+  [
+   "2026-08-30T08:51:03.837177+09:00",
+   "장중 마지막 반납 주성엔지니어링 8월 흐름은 상승분"
   ]
  ],
- "last_run": "2026-08-30T08:41:14.042675+09:00",
+ "last_run": "2026-08-30T08:51:14.814188+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
