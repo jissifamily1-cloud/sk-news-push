@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202608270156",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=601668",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=851761",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=227710",
   "https://www.boannews.com/news/articleView.html?idxno=145501",
@@ -2999,11 +2997,11 @@
   "https://www.mt.co.kr/world/2026/08/30/2026082709533773413",
   "https://www.mt.co.kr/world/2026/08/30/2026082610595515106",
   "https://www.mt.co.kr/stock/2026/08/30/2026082813564254736",
-  "https://www.newsis.com/view/NISX20260828_0003767356"
+  "https://www.newsis.com/view/NISX20260828_0003767356",
+  "https://www.news1.kr/local/gwangju-jeonnam/6273491",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169050"
  ],
  "seen_titles": [
-  "금리인상누른'엔비디아훈풍'…코스피,6900선안착",
-  "석탄하역장사망사고...SK멀티유틸리티대표중대재해처벌법무죄확정",
   "코스피,외인·기관쌍끌이에1.5%상승…6900선회복",
   "한은연속금리인상에도코스피·코스닥1%상승",
   "SK이노베이션7년만에SKIET를다시품고투심은차가워졌다,장용호주...",
@@ -6001,7 +5999,9 @@
   "창신메모리가보여준'허페이모델'…바뀌는中도시개발공식",
   "정부는물러난게아니라,자리를옮겼다…中증시가다시쓰는산업지...",
   "삼전닉스성장+주주환원효과더누리는투자법은?[머니똑똑]",
-  "원·달러,올들어최저수준으로…'백투백인상'에더떨어질까"
+  "원·달러,올들어최저수준으로…'백투백인상'에더떨어질까",
+  "군공항이전·반도체용수·국립의대…'함께가는해법'찾아라",
+  "코스피7천깔딱고개이번엔?…美금리여전히변수[주간증시전망]"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-08-30T06:11:04.607416+09:00",
    "떨어질까 최저 달러 백투백 인상 수준으로 들어"
+  ],
+  [
+   "2026-08-30T06:21:02.996187+09:00",
+   "이전 용수 국립의대 가는 해법 반도체 찾아라 함께 군공항"
+  ],
+  [
+   "2026-08-30T06:21:02.996187+09:00",
+   "금리 깔딱고개 이번엔 여전히 7천 변수 코스피"
   ]
  ],
- "last_run": "2026-08-30T06:11:50.582926+09:00",
+ "last_run": "2026-08-30T06:21:11.308403+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
