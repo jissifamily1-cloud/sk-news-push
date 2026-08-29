@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026082710495495221",
-  "http://www.inews24.com/view/1998972",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203878",
-  "https://news.mtn.co.kr/news-detail/2026082714074770986",
-  "https://www.ddaily.co.kr/page/view/2026082713503947560",
-  "https://www.etnews.com/20260827000274",
-  "https://news.skbroadband.com/news/articleView.html?idxno=236193",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=762475",
   "https://www.yakup.com/news/index.html?cat=12&nid=331668",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481090",
@@ -2999,16 +2992,16 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008724753&plink=ORI&cooper=NAVER",
   "https://www.medigatenews.com/news/3826012736",
   "https://www.mk.co.kr/article/12139317",
-  "https://www.yna.co.kr/view/AKR20260829021300005?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260829021300005?input=1195m",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316633",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423394",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316679",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316709",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316705",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316647",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316616"
  ],
  "seen_titles": [
-  "AI아이폰온다…배터리·기판·카메라부품주일제히함박웃음",
-  "SK텔레콤,독립이사상여지급위해자사주1061주처분결정",
-  "美엔비디아호실적속...일본증시'장중상승',키옥시아'껑충'",
-  "외인vs기관,'대덕전자·브이엠'수급공방...반도체소부장모멘텀은",
-  "거침없는박현주\"\"정치가특정자산개입,굉장히위험...미국참얌전\"",
-  "제2뇌전증신약베팅한SK바이오팜…1조가치있을까",
-  "박현주미래에셋회장韓리서치비판…\"단기전망이시장변동성키워...",
   "이상일용인시장“삼성·SK반도체팹조기가동,인프라가관건”",
   "시총3위SK스퀘어'AI·반도체투자회사'로변신",
   "AI시대통신망투자늘린다…정부·통신3사,규제·세제개선추진",
@@ -6001,7 +5994,14 @@
   "[취재파일]넉달만에원전19기만큼늘었다…27GW는어떻게계산됐나",
   "뷰노,약314억원규모주주배정유상증자결의",
   "“월요일삼전주가어떡해”CXMT깜짝어닝서프라이즈",
-  "'오디세이'열풍에'트로이'시청40배늘어…놀런작품도인기"
+  "'오디세이'열풍에'트로이'시청40배늘어…놀런작품도인기",
+  "ADT캡스'캡스홈',AI+보안인프라결합으로'AI안심케어'시대연다",
+  "55조자사주가바꾼증시수급···외국인팔아도'큰손'따로있었다",
+  "청와대,배임죄폐지가닥...\"이재명대장동재판면소노린우회로\"논...",
+  "中YMTC·CXMT'증설폭주'…韓메모리,2027년'팽창의저주'오나",
+  "내달거래소애프터마켓서ETF·ETN빠진다…ETP거래제외가닥",
+  "SKT,3조800억원투자유치…AI데이터센터'SK호라이즌'신설",
+  "\"내년낸드1위목표\"中YMTC맹추격속SK하이닉스'구형공정'고심"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,33 @@
   [
    "2026-08-29T09:41:03.299284+09:00",
    "열풍에 시청 40배 늘어 오디세이 놀런 작품도 인기 트로이"
+  ],
+  [
+   "2026-08-29T09:51:03.695916+09:00",
+   "자사주가 외국인 있었다 큰손 바꾼 팔아도 증시 따로 55조 수급"
+  ],
+  [
+   "2026-08-29T09:51:03.695916+09:00",
+   "재판 청와대 가닥 배임죄 폐지 대장동 우회로 이재명 면소 노린"
+  ],
+  [
+   "2026-08-29T09:51:03.695916+09:00",
+   "2027년 메모리 오나 저주 팽창의 CXMT 증설 YMTC 폭주"
+  ],
+  [
+   "2026-08-29T09:51:03.695916+09:00",
+   "애프터마켓서 빠진다 ETP ETN 제외 가닥 내달 거래소 거래 ETF"
+  ],
+  [
+   "2026-08-29T09:51:03.695916+09:00",
+   "유치 신설 데이터 3조 SKT AI 센터 SK호라이즌 800억원 투자"
+  ],
+  [
+   "2026-08-29T09:51:03.695916+09:00",
+   "고심 목표 SK하이닉스 구형 맹추격 낸드 내년 공정 YMTC 1위"
   ]
  ],
- "last_run": "2026-08-29T09:41:12.276627+09:00",
+ "last_run": "2026-08-29T09:51:22.968977+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
