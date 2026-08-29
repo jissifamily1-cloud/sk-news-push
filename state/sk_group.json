@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20084026",
-  "https://biz.heraldcorp.com/article/10854344",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=225311",
   "https://www.job-post.co.kr/news/articleView.html?idxno=225312",
   "https://daily.hankooki.com/news/articleView.html?idxno=1399869",
   "http://www.lawissue.co.kr/view.php?ud=20260827143716227867191f6c6e_12",
@@ -2999,12 +2996,12 @@
   "https://www.fetv.co.kr/news/articleView.html?idxno=309273",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=726967",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481686",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423382"
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423382",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94432",
+  "https://www.kbmaeil.com/article/20260829500054",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311422"
  ],
  "seen_titles": [
-  "SK스토아노조,라포랩스매각재추진반발…“계약파기·법위반조사...",
-  "메리츠증권,무형자산취득9배'껑충'…IT투자로리테일승부수",
-  "ASML코리아,하반기세자릿수공채돌입…첨단팹기술인력대거충원",
   "'삼전닉스'주주환원에대한항공·아시아나웃는이유",
   "정원주대우건설회장,베트남정부에에너지사업의지전달[건설·분...",
   "[단독]SK바이오사이언스,면역증강제독감백신접고'패치형'개발집중",
@@ -6001,7 +5998,10 @@
   "한국은행,내년성장률대폭상향…기업지표가경기흐름좌우한다",
   "[슬금슬금]달러는안내렸는데환율은1300원대…원화강세의뒷면",
   "SK텔레콤,SK호라이즌·SK하이퍼시너지기대…AI사업가치커진다",
-  "반도체부터로봇까지···삼성·SK·현대차,美에뭐짓나"
+  "반도체부터로봇까지···삼성·SK·현대차,美에뭐짓나",
+  "한국증시급등락'반면교사'?…日,단일레버리지ETF판매에제동",
+  "코스피흔들리자일주일새2.6조몰린‘방어형ETF’",
+  "'엔비디아호재'도무용지물…국장발목잡은금리와트럼프[주간증..."
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,17 @@
   [
    "2026-08-29T10:21:04.534815+09:00",
    "로봇까지 짓나 삼성 현대차 반도체부터"
+  ],
+  [
+   "2026-08-29T10:31:08.000262+09:00",
+   "몰린 ETF 방어형 흔들리자 6조 일주일 코스피"
+  ],
+  [
+   "2026-08-29T10:31:08.000262+09:00",
+   "무용지물 잡은 호재 엔비디아 국장 주간 발목 금리와 트럼프"
   ]
  ],
- "last_run": "2026-08-29T10:21:11.057189+09:00",
+ "last_run": "2026-08-29T10:31:17.585986+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
