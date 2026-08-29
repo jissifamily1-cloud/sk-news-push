@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=88112",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287732",
-  "https://www.ziksir.com/news/articleView.html?idxno=144498",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=418591",
-  "https://www.econovill.com/news/articleView.html?idxno=749097",
   "https://www.asiatime.co.kr/article/20260827500284",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=266066",
   "https://news.tf.co.kr/read/economy/2358740.htm",
@@ -2999,14 +2994,14 @@
   "https://www.interfootball.co.kr/news/articleView.html?idxno=693460",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481705",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258026",
-  "https://www.fnnews.com/news/202608291109486077"
+  "https://www.fnnews.com/news/202608291109486077",
+  "https://www.hankyung.com/article/2026082907347",
+  "https://www.econovill.com/news/articleView.html?idxno=749269",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851973",
+  "https://www.viva100.com/article/20260829500089",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=129045"
  ],
  "seen_titles": [
-  "미국은직접환급인데…세액공제뿐인한국판IRA에與도우려",
-  "[SKI-SKIET합병]캐즘똑같이겪었는데…피어그룹은회복,SKIET만적자...",
-  "무섭게내달리는FC서울독주체제…중위권치열한경쟁속에우승당하...",
-  "SK하이닉스,美HBM거점‘첫삽’D-1…AI메모리공급망현지화시동",
-  "최태원'9440억'셈법달라졌다...SK㈜지분안건드릴길열려",
   "[더벨]SK하이닉스·하이퍼,AIDC주도'윤풍영·정석근키맨'",
   "[이슈]5000억실패수습하러온조형기…SK시그넷'마지막CEO'되나",
   "워커힐,프리미엄김치‘수펙스’미국첫수출",
@@ -6001,7 +5996,12 @@
   "[K리그1포인트]입추지나자'5G4승'무서운상승세…'가을황선홍'의...",
   "서진시스템,악재털어냈나…SK증권\"이제반등조건갖춰\"",
   "[분석]삼성낸드,中YMTC에이미추월···엑스태킹설계도따라간다",
-  "최태원'AI드라이브'에SKB도쪼갠다…3조원몰리는'이사업'[공시록..."
+  "최태원'AI드라이브'에SKB도쪼갠다…3조원몰리는'이사업'[공시록...",
+  "1년전엔적자였는데…中CXMT,반년만에16조벌었다",
+  "[IT큐레이션]카카오와SKT는왜그랬을까?",
+  "국내기름값15주하락…정부두달째최고가격동결",
+  "이달넷째주주유소휘발유·경유가격소폭내려…15주연속하락세",
+  "삼성·SK·LG·롯데,수해지역손길보탰다…70억성금전달"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,29 @@
   [
    "2026-08-29T11:41:09.571409+09:00",
    "최태원 3조원 AI 사업 SKB도 드라이브 몰리는 공시록 쪼갠다"
+  ],
+  [
+   "2026-08-29T11:51:04.782420+09:00",
+   "벌었다 CXMT 1년 적자였는데 만에 16조 반년 전엔"
+  ],
+  [
+   "2026-08-29T11:51:04.782420+09:00",
+   "카카오와 SKT는 그랬을까"
+  ],
+  [
+   "2026-08-29T11:51:04.782420+09:00",
+   "기름값 정부 최고가격 하락 동결 15주 국내 달째"
+  ],
+  [
+   "2026-08-29T11:51:04.782420+09:00",
+   "소폭 주유소 하락세 가격 휘발유 연속 내려 15주 이달 넷째 경유"
+  ],
+  [
+   "2026-08-29T11:51:04.782420+09:00",
+   "롯데 LG 전달 보탰다 성금 수해지역 손길 70억 삼성"
   ]
  ],
- "last_run": "2026-08-29T11:41:20.594024+09:00",
+ "last_run": "2026-08-29T11:51:21.420053+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
