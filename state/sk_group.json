@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=214511",
-  "https://www.edaily.co.kr/News/Read?newsId=01807286645551912&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=01735126645551912&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=01722006645551912&mediaCodeNo=257",
   "https://www.seoul.co.kr/news/economy/industry/2026/08/28/20260828032004?wlog_tag3=naver",
   "https://www.seoul.co.kr/news/economy/2026/08/28/20260828029003?wlog_tag3=naver",
@@ -2999,12 +2996,12 @@
   "https://www.khan.co.kr/article/202608302020005",
   "https://www.fnnews.com/news/202608302029157049",
   "https://biz.heraldcorp.com/article/10855880",
-  "https://www.tokenpost.kr/news/breaking/400692"
+  "https://www.tokenpost.kr/news/breaking/400692",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260830204401xHv",
+  "https://www.viva100.com/article/20260830500755",
+  "http://web.ubc.co.kr/wp/archives/129690"
  ],
  "seen_titles": [
-  "[브랜드평판]KT엠모바일,알뜰폰8월1위...프리티,SK세븐모바일뒤쫓...",
-  "[N2모닝경제브리핑-8월28일]美증시,엔비디아‘어닝서프라이즈’...",
-  "\"AI열풍꺼지지않았다\"엔비디아9%↑…랠리'재점화'환호터졌다",
   "제주실종에쏠린눈…휴대폰으로어디까지찾을수있나",
   "NorwayConferenceLeagueSoccer",
   "[美증시]엔비디아폭풍실적에3대지수동반상승…소프트웨어주대폭...",
@@ -6001,25 +5998,12 @@
   "추미애‘비상선언’지방세제개편‘빌드업’[유튜브속경향]",
   "\"하루에만5번출루했다!\"4번타자이정후,더블헤더지배한'미친타격...",
   "[증시예보]‘칠천피’다시두드리는코스피…8월반도체수출·美고...",
-  "바이낸스30일HYPE무기한상장보도"
+  "바이낸스30일HYPE무기한상장보도",
+  "삼전닉스상반기법인세11.2조…연간100조전망도",
+  "코트라,모두의성장협의체출범…경제외교등성과중소기업까지확산",
+  "데이터센터시대..실무형인재키운다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T14:51:02.022161+09:00",
-   "규모 10대사 현대건설 일감 수주잔고 4조"
-  ],
-  [
-   "2026-08-30T14:51:02.022161+09:00",
-   "AI 수자원공사 물관리로 초순수 글로벌 손잡 이콜랩과 시장 노크"
-  ],
-  [
-   "2026-08-30T14:51:02.022161+09:00",
-   "서로 오가며 함께 최태원 취업 자격 인정하자 청년 경력"
-  ],
-  [
-   "2026-08-30T14:51:02.022161+09:00",
-   "VASP 정공법 택한 11개월 뚫은 이유는 만에 비트코코리아"
-  ],
   [
    "2026-08-30T14:56:10.598856+09:00",
    "공백 지휘부 AI 재정비 해소 배경훈 하정우 3각 편대 이해민"
@@ -6395,9 +6379,13 @@
   [
    "2026-08-30T20:41:00.497869+09:00",
    "HYPE 무기한 상장 바이낸스 30일 보도"
+  ],
+  [
+   "2026-08-30T20:51:02.300485+09:00",
+   "데이터센터 인재 실무형 시대 키운다"
   ]
  ],
- "last_run": "2026-08-30T20:41:07.104181+09:00",
+ "last_run": "2026-08-30T20:51:09.870379+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
