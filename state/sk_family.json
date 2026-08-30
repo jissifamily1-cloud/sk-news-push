@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH202608141916052gs",
-  "https://www.joongang.co.kr/article/25453462",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260814.99099004090",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4430283",
   "https://www.segye.com/newsView/20260814519745?OutUrl=naver",
   "https://www.busan.com/view/busan/view.php?code=2026081419241092366",
@@ -2999,12 +2996,12 @@
   "https://www.dailian.co.kr/news/view/1684183/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260830046200001?input=1195m",
   "https://www.news1.kr/industry/general-industry/6273931",
-  "https://www.fnnews.com/news/202608301559581710"
+  "https://www.fnnews.com/news/202608301559581710",
+  "https://www.dailian.co.kr/news/view/1684184/?sc=Naver",
+  "https://www.yna.co.kr/view/PYH20260830065400013?input=1196m",
+  "https://www.news1.kr/politics/general-politics/6273902"
  ],
  "seen_titles": [
-  "\"주가급등에성과보상\"상반기총수1위박정원455억·전문경영인곽...",
-  "빌게이츠만난김정관...“韓,‘테라파워SMR’최적파트너”",
-  "재상고시한오늘까지…'세기의재산분할'확정될까",
   "AI발주가급등에…박정원상반기보수456억‘최고’",
   "[속보]빌게이츠,정재계연쇄회동…‘AI전력난해법’SMR협력본격화",
   "SK이노·테라파워,차세대SMR합의…최태원·게이츠만찬",
@@ -6001,7 +5998,10 @@
   "한일청년,결혼·출산첫조건'경제안정'…공동대응기구출범",
   "김민석,개각발표에\"진보개혁연대환영…민생실용기조에부합\"",
   "최태원\"한일,경제공동체만들어야\"…양국저출산문제극복방안(종합...",
-  "최태원\"韓日청년오가며취업…경력·자격함께인정하자\""
+  "최태원\"韓日청년오가며취업…경력·자격함께인정하자\"",
+  "최태원\"한일경제공동체만들어야…청년오가며일하게하자\"",
+  "제1차한일저출산대응심포지엄",
+  "내년예산800조+α정부안공개·정기국회개원…이번주(31일~9월6일)주..."
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-08-30T16:10:15.942046+09:00",
    "소득 경제계 저출생 경제 한일 안정적 양국 합쳐 공동"
+  ],
+  [
+   "2026-08-30T16:50:13.430406+09:00",
+   "공개 정부안 이번주 내년 31일 예산 9월6일 개원 800조 정기국회"
   ]
  ],
- "last_run": "2026-08-30T16:40:24.408744+09:00",
+ "last_run": "2026-08-30T16:50:29.070231+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
