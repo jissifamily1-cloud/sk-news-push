@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202608250219",
-  "http://www.medisobizanews.com/news/articleView.html?idxno=141613",
-  "https://www.etoday.co.kr/news/view/2618995",
   "https://www.segye.com/newsView/20260827516500?OutUrl=naver",
   "https://www.kukinews.com/article/view/kuk202608270213",
   "https://biz.chosun.com/it-science/ict/2026/08/28/T7U5UCVGT5HANOUOBBQFPGGJQI/",
@@ -2999,12 +2996,12 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026083106125034052aaae0046f_30",
   "https://www.news1.kr/industry/sb-founded/6272926",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=53864",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=78742"
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=78742",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608291914316960801",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=762674",
+  "https://www.greened.kr/news/articleView.html?idxno=348766"
  ],
  "seen_titles": [
-  "[더벨][독립이사교육현황점검]횟수상위SK·현대차,교육방식은갈...",
-  "워커힐,프리미엄'수펙스김치'미국첫수출",
-  "WalkerhillExportsPremiumSUPEXKimchitoU.S.,ExpandingGlobalK-F",
   "워커힐호텔'수펙스'김치미국간다",
   "29일개막하는독일분데스리가,김민재·이재성·정우영코리안리거출...",
   "이대통령,오늘은이재용과저녁회동…‘3대메가’,대미통상현안...",
@@ -6001,7 +5998,10 @@
   "레버리지ETF거래규모,피크때대비무려4%까지급감...블룸버그통신,...",
   "동진쎄미켐,반도체가끌고中매각밀었다…상반기순익급증이유[실...",
   "[브랜드평판]DK아시아로열파크씨티,주거커뮤니티8월1위...롯데건설...",
-  "논문찾던AI,CMC까지관리…피닉스랩\"케이론,제약사OS로\""
+  "논문찾던AI,CMC까지관리…피닉스랩\"케이론,제약사OS로\"",
+  "'발코니추락사고'후시공현장타설퇴출되나",
+  "애플계정해킹으로수백만원무단결제피해속출...2차인증까지뚫린...",
+  "최태원회장\"저출산해법은경제공동체수준협력강화\"...'결혼의향'..."
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,21 @@
   [
    "2026-08-31T06:21:01.193891+09:00",
    "논문 CMC까지 관리 케이론 제약사 AI 찾던 피닉스랩 OS로"
+  ],
+  [
+   "2026-08-31T06:31:08.231202+09:00",
+   "발코니 퇴출되나 추락사고 현장타설 후시공"
+  ],
+  [
+   "2026-08-31T06:31:08.231202+09:00",
+   "속출 2차 인증까지 해킹으로 애플 피해 뚫린 계정 무단결제 수백만"
+  ],
+  [
+   "2026-08-31T06:31:08.231202+09:00",
+   "강화 최태원 결혼 의향 수준 저출산 회장 해법은 협력 경제공동체"
   ]
  ],
- "last_run": "2026-08-31T06:21:15.182331+09:00",
+ "last_run": "2026-08-31T06:31:19.889984+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
