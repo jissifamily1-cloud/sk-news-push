@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851360",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309170",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309176",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309105",
-  "https://www.medicopharma.co.kr/news/articleView.html?idxno=69308",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481318",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608280276&t=NN",
-  "https://www.yna.co.kr/view/PYH20260828008400071?input=1196m",
   "https://www.yna.co.kr/view/PYH20260828008200071?input=1196m",
   "https://www.yna.co.kr/view/PYH20260828008300071?input=1196m",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1722021",
@@ -2999,17 +2991,17 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262519&CMPT_CD=P0010",
   "https://www.g-enews.com/view.php?ud=202608310720472498fbbec65dfb_1",
   "https://biz.sbs.co.kr/article_hub/20000331626?division=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=01876166645552896&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01876166645552896&mediaCodeNo=257",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=86546",
+  "https://www.gosiweek.com/article/1065565946831232",
+  "https://biz.sbs.co.kr/article_hub/20000331627?division=NAVER",
+  "http://www.breaknews.com/1232657",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860338",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696454",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696679",
+  "https://news.bizwatch.co.kr/article/healthcare/2026/08/26/0042"
  ],
  "seen_titles": [
-  "SK에코플랜트,SK에코엔지니어링흡수합병…'AI인프라솔루션기업'전...",
-  "면세점뚫고,美상륙…롯데·워커힐‘명품김치’글로벌출사표",
-  "롯데·워커힐호텔,김치로K푸드영토넓힌다",
-  "[MD트렌드]‘호텔김치’,해외로간다…롯데·신세계·워커힐,글로벌...",
-  "SK하이닉스인디애나팹조감도",
-  "SK하이닉스인디애나팹건설현장",
-  "엔비디아파워,美나스닥상승장이끌어",
-  "SK하이닉스인디애나팹기공식",
   "SK하이닉스인디애나팹임시사무소",
   "'미국산HBM'만드는SK하이닉스…\"2030년엔핵심HBM거점\"",
   "[뉴욕증시]엔비디아發AI낙관론재점화,기술주랠리···세일즈포스...",
@@ -6001,7 +5993,15 @@
   "혼잣말로'좋아한다'말하게되는...참불가사의한야구선수",
   "CXMT,모바일D램LPDDR6첫양산...샤오미폴더블공급파장",
   "[서학개미브리핑]박스권갇힌코스피…개인투자자,해외증시로발길",
-  "[MUSTKNOW5]‘물가·속도내는CXMT·최고치찍은해운운임’…이번주시..."
+  "[MUSTKNOW5]‘물가·속도내는CXMT·최고치찍은해운운임’…이번주시...",
+  "'대기업고밀도·공기업빅시즌'…인크루트,하반기취업전략제시",
+  "하반기채용,대기업·공기업이이끈다…SK하이닉스·CJ올리브영·한전...",
+  "[마켓프리뷰]'엔비디아온기'막은美반도체관세…코스피'뚝'",
+  "최보윤국민의힘수석대변인“포퓰리즘과부실입법중단”촉구",
+  "SK이노-SKIET합병,재무방어뒤남은과제",
+  "반도체추가세수로'미래대응기금'만드는데...소부장지원은빠졌다",
+  "[AI핫이슈]판커진피지컬AI...빅테크공격행보",
+  "[K-신약]④합성의약품에서CAR-T까지…진화과정살펴보니"
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,37 @@
   [
    "2026-08-31T07:31:08.347838+09:00",
    "CXMT 해운운임 속도내는 찍은 물가 이번주 최고치"
+  ],
+  [
+   "2026-08-31T07:41:08.600944+09:00",
+   "한전 채용 하반기 SK하이닉스 대기업 공기업이 이끈다 CJ올리브영"
+  ],
+  [
+   "2026-08-31T07:41:08.600944+09:00",
+   "관세 엔비디아 반도체 온기 코스피 막은"
+  ],
+  [
+   "2026-08-31T07:41:08.600944+09:00",
+   "최보윤 중단 부실입법 포퓰리즘과 촉구 국민의힘 수석대변인"
+  ],
+  [
+   "2026-08-31T07:41:08.600944+09:00",
+   "방어 SKIET 재무 남은 합병 과제 SK이노"
+  ],
+  [
+   "2026-08-31T07:41:08.600944+09:00",
+   "만드는데 빠졌다 미래대응기금 소부장 반도체 추가 지원은 세수로"
+  ],
+  [
+   "2026-08-31T07:41:08.600944+09:00",
+   "빅테크 AI 행보 커진 피지컬 공격"
+  ],
+  [
+   "2026-08-31T07:41:08.600944+09:00",
+   "살펴보니 진화 CAR 과정 T까지 합성의약품에서"
   ]
  ],
- "last_run": "2026-08-31T07:31:20.230593+09:00",
+ "last_run": "2026-08-31T07:41:31.687768+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
