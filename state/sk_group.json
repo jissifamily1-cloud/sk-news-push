@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000099231",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647935",
-  "http://www.inews24.com/view/1999175",
-  "https://www.ikbc.co.kr/article/view/kbc202608270062",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700374.html",
-  "https://www.veritas-a.com/news/articleView.html?idxno=624902",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262457&CMPT_CD=P0010",
-  "https://www.hankyung.com/article/2026082777331",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=762557",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=762556",
   "https://www.edaily.co.kr/News/Read?newsId=05018406645551584&mediaCodeNo=257",
   "https://www.newsway.co.kr/news/view?ud=2026082718404460775",
   "https://www.donga.com/news/Economy/article/all/20260827/134559068/1",
@@ -2999,19 +2989,19 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608301410152500851",
   "https://www.dt.co.kr/article/12080964",
   "https://dgmbc.com/NewsArticle/859393",
-  "https://www.sedaily.com/article/20084890"
+  "https://www.sedaily.com/article/20084890",
+  "https://sports.donga.com/sports/article/all/20260830/134570037/1",
+  "http://www.dailyesports.com/view.php?ud=202608301533137854b91e133c1f_27",
+  "https://www.hani.co.kr/arti/economy/economy_general/1275321.html",
+  "https://www.sedaily.com/article/20084893",
+  "https://www.ajunews.com/view/20260830152047013",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120981",
+  "https://www.etnews.com/20260830000089",
+  "http://www.metroseoul.co.kr/article/20260830500245",
+  "https://www.edaily.co.kr/News/Read?newsId=01902406645552568&mediaCodeNo=257",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311868&inflow=N"
  ],
  "seen_titles": [
-  "SK텔레콤,SK브로드밴드인적분할해AIDC전문기업'SK호라이즌'설립",
-  "이해민의원,개인정보침해사고기록보존의무화법안발의",
-  "\"삼전닉스에더이상밀리면안돼\"...日키옥시아,1조엔들여신공장",
-  "추미애경기지사,삼성·SK·애플·AWS와RE100해법논의...\"친환경반도...",
-  "동부건설,반도체·플랜트로체질전환···'성장'뒤재무부담은과제",
-  "삼성뼈아픈파운드리실패…이번엔부활할수있을까[반도체플러스]",
-  "독자권익위원회97차정기회의제안,이렇게반영했습니다",
-  "대전생활과학고등학교'전국최초바이오헬스특성화고'타이틀쟁취",
-  "삼성·SK·현대차,美투자시계빨라졌다",
-  "일본M&A사상최대…해외기업의인수급증",
   "대전하나U-18수비수김도연,바이에른뮌헨이적…2주간트라이얼서...",
   "엔비디아실적에월스트리트도'깜짝'…삼전닉스,3분기기대감커져",
   "SKT,AI인프라함대완성…3조800억투자유치",
@@ -6001,13 +5991,19 @@
   "낸드1위노리는中YMTC…‘D램올인’삼성ㆍSK허찌르나",
   "‘삼전닉스’급락7000선숨고른코스피…이번주‘잭슨홀매파’시...",
   "뜨거웠던8월마무리하는한국가스공사…9월'일본전지훈련'으로스타...",
-  "신현송한은총재“원화면역력생겨...대미투자,환율에부담안돼”"
+  "신현송한은총재“원화면역력생겨...대미투자,환율에부담안돼”",
+  "월드컵예선F조최하위…위기스의니콜라스호,31일사우디와홈경기선...",
+  "카르민코프,전승으로LEC서머PO진출",
+  "삼성전자·SK하이닉스,상반기법인세납부액11조원넘어…세금도껑충",
+  "IIF“반도체호황에원화추가강세…환율코로나이전회복”",
+  "최태원\"한·일청년들자유롭게오가며일해야더큰기회온다\"",
+  "삼성전자,무주택임직원에최대5억원주택대출지원",
+  "'친명·친문·진보野·중도'한배에…李,지지기반재건승부수",
+  "美데이터센터반발확산…K배터리ESS사업에도변수되나",
+  "금리는올리고돈은푼다…‘하준경식폴리시믹스’시험하는노란봉투...",
+  "“5억지원에연1.5%”…삼성전자,임직원주택대출시작"
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T09:31:13.725017+09:00",
-   "있었나요 국힘 이재용 호남반도체 최태원씨 압력 청문회"
-  ],
   [
    "2026-08-30T09:42:23.763473+09:00",
    "2029년 인디애나에 HBM공장 양산 착공 SK하이닉스 하반기"
@@ -6455,9 +6451,25 @@
   [
    "2026-08-30T15:31:09.978046+09:00",
    "면역력 부담 총재 환율에 한은 생겨 대미 투자 원화 신현송"
+  ],
+  [
+   "2026-08-30T15:41:03.976577+09:00",
+   "친문 한배에 승부수 기반 지지 재건 진보 중도 친명"
+  ],
+  [
+   "2026-08-30T15:41:03.976577+09:00",
+   "확산 사업에도 반발 ESS K배터리 데이터센터 변수되나"
+  ],
+  [
+   "2026-08-30T15:41:03.976577+09:00",
+   "푼다 폴리시믹스 하준경식 돈은 시험하는 금리는 노란봉투 올리고"
+  ],
+  [
+   "2026-08-30T15:41:03.976577+09:00",
+   "지원에 주택대출 삼성전자 임직원 5억 시작"
   ]
  ],
- "last_run": "2026-08-30T15:31:18.367056+09:00",
+ "last_run": "2026-08-30T15:41:17.920382+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
