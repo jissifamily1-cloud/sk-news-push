@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000331249?division=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696204",
-  "https://www.tenasia.co.kr/article/2026082779334",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445814",
   "https://sports.donga.com/ent/article/all/20260827/134560272/1",
   "https://www.fnnews.com/news/202608272124134110",
   "https://www.newspim.com/news/view/20260827001289",
@@ -2999,13 +2995,13 @@
   "https://www.hankookilbo.com/news/article/A2026083017440000487?did=NA",
   "https://www.busan.com/view/busan/view.php?code=2026083018210326429",
   "https://www.sedaily.com/article/20084994",
-  "https://www.jjan.kr/article/20260830500384"
+  "https://www.jjan.kr/article/20260830500384",
+  "https://www.dailian.co.kr/news/view/1684207/?sc=Naver",
+  "https://www.fnnews.com/news/202608301829578049",
+  "https://www.fnnews.com/news/202608301830185967",
+  "https://www.fnnews.com/news/202608301829071106"
  ],
  "seen_titles": [
-  "AI로‘심플’해진통신앱,LGU+3년째고객경험1위가말해주는것",
-  "엔비디아역대급실적에韓‘훈풍’",
-  "내년세수첫'조단위'예상...\"중장기활용안마련해야\"",
-  "수출효자된'윤활유'..가격'껑충'",
   "[데일리안오늘뉴스종합]'실종사건31만건'전수조사나선경찰…또다...",
   "과기정통부,독파모탈락팀이의제기에\"평가결과상세공개\"",
   "한가인,주식계좌공개…\"조정직전싹다팔았다\"",
@@ -6001,7 +5997,11 @@
   "중국CXMT,차세대모바일D램양산돌입...샤오미폰에탑재",
   "삼전닉스,올상반기법인세만11조원",
   "삼성전자·하이닉스,법인세로만연100조내나",
-  "[주간증시전망]수출개선···국내기업호재기대감"
+  "[주간증시전망]수출개선···국내기업호재기대감",
+  "‘8번준우승설움끝’이상희,일본투어데뷔13년만에첫승",
+  "李중폭개각..與\"실력인선\"vs野\"아집개각\"",
+  "건설사산재사망...5년간300명육박",
+  "국힘\"공소취소위한국정테러개각\""
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,21 @@
   [
    "2026-08-30T18:31:11.065190+09:00",
    "수출 기업 기대감 국내 개선 호재"
+  ],
+  [
+   "2026-08-30T18:40:58.036616+09:00",
+   "인선 실력 아집 vs 중폭개각 개각"
+  ],
+  [
+   "2026-08-30T18:40:58.036616+09:00",
+   "5년간 산재 육박 300명 사망 건설사"
+  ],
+  [
+   "2026-08-30T18:40:58.036616+09:00",
+   "국정테러 국힘 위한 취소 개각 공소"
   ]
  ],
- "last_run": "2026-08-30T18:31:20.018708+09:00",
+ "last_run": "2026-08-30T18:41:09.905655+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
