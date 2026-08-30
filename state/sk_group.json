@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20084221",
-  "https://www.nocutnews.co.kr/news/6569435",
-  "https://www.news1.kr/industry/general-industry/6271947",
-  "http://www.hellodd.com/news/articleView.html?idxno=112965",
-  "http://www.segyebiz.com/newsView/20260827518442?OutUrl=naver",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1722005",
   "https://www.fnnews.com/news/202608271823599432",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463994",
@@ -2999,14 +2994,14 @@
   "https://www.jemin.com/news/articleView.html?idxno=842259",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=364387",
   "https://biz.chosun.com/it-science/ict/2026/08/30/OYLNXZEZINA6NBUEWZUDROYOMQ/",
-  "https://www.donga.com/news/Economy/article/all/20260830/134569594/1"
+  "https://www.donga.com/news/Economy/article/all/20260830/134569594/1",
+  "https://www.g-enews.com/view.php?ud=202608301441019898112616b072_1",
+  "https://www.viva100.com/article/20260830500526",
+  "https://www.g-enews.com/view.php?ud=202608281501251489a9fc143920_1",
+  "https://www.fnnews.com/news/202608301428339320",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608301424470380854"
  ],
  "seen_titles": [
-  "취업보장·파격연봉…미래CEO,신입생선점부터가시작[르포]",
-  "\"친숙한투자경험제공…자산형성플랫폼으로자리매김\"[인터뷰]",
-  "코스피6900선회복…금리인상후상승폭축소",
-  "SKT,AIDC전문기업'SK호라이즌'설립...SK하이퍼와차별점은",
-  "엔비디아가확인한AI수요…반도체투자심리다시살아나나",
   "개미들\"달러싸졌을때담자\"...환헤지아닌환노출상품주목",
   "AI투자정점론밀어낸엔비디아,삼전닉스HBM호황지속전망",
   "[마감시황]코스피,외국인·기관동반매수에6,910선안착…코스닥도...",
@@ -6001,17 +5996,14 @@
   "현무암처럼제주에뿌리내린20년…제주SK'섬사람'입는다",
   "SKT,AIDC'전략·운영·개발'3각체제구축...AI인프라승부수",
   "삼성전자,9월부터무주택직원에최대5억대출…연금리1.5%·DSR미적...",
-  "개미들‘삼전닉스레버리지’한달간1조7700억원팔아치웠다"
+  "개미들‘삼전닉스레버리지’한달간1조7700억원팔아치웠다",
+  "코트라,'모두의성장협의체'출범…지역·상생·혁신과제발굴",
+  "[건설인사이드]10대사수주잔고429.4조…‘규모’현대건설·‘일감...",
+  "수자원공사,초순수·AI물관리로글로벌시장'노크'…이콜랩과손잡...",
+  "최태원\"韓日청년서로오가며취업..경력·자격함께인정하자\"",
+  "11개월만에VASP뚫은비트코코리아…정공법택한이유는"
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T08:41:04.763428+09:00",
-   "삭제 정황만 발생 훼손 침해사고 의심 불리 보존 의무 있어도"
-  ],
-  [
-   "2026-08-30T08:41:04.763428+09:00",
-   "2조 한미 빅딜 릴레이 신약 잭팟 승부수 1조 SK바이오팜"
-  ],
   [
    "2026-08-30T08:51:03.837177+09:00",
    "될까 한국처럼 초강수 개미지옥 막기 결국 두는 겁난다"
@@ -6491,9 +6483,25 @@
   [
    "2026-08-30T14:31:14.086268+09:00",
    "늘리는 비용 원유 가중 정유사 압박"
+  ],
+  [
+   "2026-08-30T14:51:02.022161+09:00",
+   "규모 10대사 현대건설 일감 수주잔고 4조"
+  ],
+  [
+   "2026-08-30T14:51:02.022161+09:00",
+   "AI 수자원공사 물관리로 초순수 글로벌 손잡 이콜랩과 시장 노크"
+  ],
+  [
+   "2026-08-30T14:51:02.022161+09:00",
+   "서로 오가며 함께 최태원 취업 자격 인정하자 청년 경력"
+  ],
+  [
+   "2026-08-30T14:51:02.022161+09:00",
+   "VASP 정공법 택한 11개월 뚫은 이유는 만에 비트코코리아"
   ]
  ],
- "last_run": "2026-08-30T14:41:06.667554+09:00",
+ "last_run": "2026-08-30T14:51:16.026782+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
