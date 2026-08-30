@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=70172",
-  "https://www.mk.co.kr/article/12138294",
-  "https://www.tokenpost.kr/news/market/399034",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443445",
-  "https://www.ytn.co.kr/_ln/0134_202608272132394006",
-  "https://www.tokenpost.kr/news/ai/399042",
-  "https://www.mt.co.kr/world/2026/08/27/2026082721020775187",
   "http://www.ttlnews.com/news/articleView.html?idxno=3137872",
   "https://www.khan.co.kr/article/202608272142001",
   "https://www.sidae.com/article/2026082800220199481",
@@ -2999,16 +2992,16 @@
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260831.22012008734",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43348",
   "https://www.cbci.co.kr/news/articleView.html?idxno=602279",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=126469"
+  "http://www.rookie.co.kr/news/articleView.html?idxno=126469",
+  "https://www.sportsworldi.com/newsView/20260830510644",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375298",
+  "https://www.geconomy.co.kr/news/article.html?no=323171",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=272792",
+  "http://www.cctimes.kr/news/articleView.html?idxno=924358",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598204",
+  "http://www.footballist.co.kr/news/articleView.html?idxno=214190"
  ],
  "seen_titles": [
-  "독파모축적데이터개방…LG만선별·4개사는전체공개",
-  "외국인,'삼전닉스'대신바이오담았다...셀트리온·삼바8월순매수1...",
-  "알짜회사인줄…지금은애물단지[스페셜리포트]",
-  "코스피7,000선회복시도…금리인상에상승폭축소",
-  "정부,모티프반발에독파모2차평가점수공개…SKT1위·업스테이지...",
-  "독파모2차평가전체성적표공개…SKT70.6점으로1위",
-  "모티프이의제기에독파모2차결과종합공개…SKT1위·모티프4위",
   "'독파모'논란에세부점수전면공개…SKT1위",
   "SKT·업스테이지,'보안특화AI파운데이션모델'개발",
   "\"삼전닉스고점에싹팔았다\"…'♥연정훈'한가인,주식전문가도놀란...",
@@ -6001,17 +5994,16 @@
   "부산·김해지하철4곳,통신품질개선제자리",
   "코트라,민관'동반성장협의체'출범…지역·상생·혁신방점",
   "주성엔지니어링,선단D램투자확대와공정미세화수혜가능성",
-  "[횡성한우컵]인구4만5천여명의횡성이들썩였다!유소년꿈나들의..."
+  "[횡성한우컵]인구4만5천여명의횡성이들썩였다!유소년꿈나들의...",
+  "[인천토크박스]무고사선발이유?윤정환“날씨가좀시원해지지않...",
+  "'4번타자로나선'샌프란시스코이정후,애리조나와더블헤더에서3안...",
+  "中CXMT,LPDDR6양산‘선수’쳤다…삼성·SK하이닉스추격속도",
+  "삼성전자-SK하이닉스,주주환원이어법인세도역대최대규모'임박'",
+  "SK하이닉스품은청주시…내년1조원대`세수잭팟?'",
+  "세르지우제주SK감독\"이번경기도똑같이준비...상대장점무마시킬...",
+  "\"대구전실수한장호익,다음날장어덮밥먹였다\"부산조성환감독의..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T13:11:14.801321+09:00",
-   "24일 주요 28일 다음주 정리와 전망 4주차 8월 이슈"
-  ],
-  [
-   "2026-08-30T13:11:14.801321+09:00",
-   "에도 회의 밑돌까 매파 G20 워시 370원 고용 주목"
-  ],
   [
    "2026-08-30T13:21:05.754298+09:00",
    "23명 돌입 수원시립합창단 주니어콰이어 출범 2기 활동"
@@ -6439,9 +6431,21 @@
   [
    "2026-08-30T19:11:02.385294+09:00",
    "횡성이 4만 인구 유소년 꿈나들의 5천여 들썩였다 명의"
+  ],
+  [
+   "2026-08-30T19:21:00.391931+09:00",
+   "청주시 1조원대 세수 SK하이닉스 잭팟 품은 내년"
+  ],
+  [
+   "2026-08-30T19:21:00.391931+09:00",
+   "제주SK 경기도 똑같이 장점 준비 세르지우 상대 무마시킬 감독"
+  ],
+  [
+   "2026-08-30T19:21:00.391931+09:00",
+   "부산 장호익 조성환 실수한 다음날 장어덮밥 먹였다 대구전 감독의"
   ]
  ],
- "last_run": "2026-08-30T19:11:16.454529+09:00",
+ "last_run": "2026-08-30T19:21:12.022314+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
