@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=154698",
-  "https://www.mk.co.kr/article/12138169",
-  "http://www.newstomato.com/ReadNews.aspx?no=1311724&inflow=N",
-  "https://www.newsis.com/view/NISX20260827_0003765996",
-  "https://www.bigtanews.co.kr/article/view/big202608270023",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116045",
-  "https://zdnet.co.kr/view/?no=20260827180524",
-  "http://www.thebigdata.co.kr/view.php?ud=2026082717591274450a47484cf8_23",
-  "https://thetracker.co.kr/View.aspx?No=4202156",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=406178",
-  "https://www.sedaily.com/article/20084198",
   "https://www.safetynews.co.kr/news/articleView.html?idxno=250245",
   "https://www.mk.co.kr/article/12138153",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=851801",
@@ -2999,20 +2988,20 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4432525",
   "https://www.joongboo.com/news/articleView.html?idxno=363735110",
   "https://www.mt.co.kr/industry/2026/08/30/2026083012192629378",
-  "https://m.skyedaily.com/news_view.html?ID=310711"
+  "https://m.skyedaily.com/news_view.html?ID=310711",
+  "https://www.g-enews.com/view.php?ud=2026082815110634233084322ec9_1",
+  "https://www.asiatime.co.kr/article/20260830500051",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258057",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258067",
+  "https://www.ddaily.co.kr/page/view/2026083013144171281",
+  "https://www.ddaily.co.kr/page/view/2026083013082273524",
+  "https://www.ajunews.com/view/20260830111637608",
+  "https://www.fnnews.com/news/202608301324505596",
+  "https://www.edaily.co.kr/News/Read?newsId=01712166645552568&mediaCodeNo=257",
+  "https://www.mt.co.kr/stock/2026/08/30/2026083011014632198",
+  "https://www.viva100.com/article/20260830500108"
  ],
  "seen_titles": [
-  "SKT,AIDC'SK호라이즌'출범…3조투자유치",
-  "SKT,AI데이터센터전담'호라이즌'설립",
-  "SKT,AIDC인프라회사'SK호라이즌'설립추진",
-  "\"메모리병목없으면내년100%성장\"AI거품론잠재운젠슨황",
-  "SKT,AI데이터센터전문기업'SK호라이즌'출범…3조800억원투자유...",
-  "HBM도맞춤형으로…엔비디아,신기술공개",
-  "[기자수첩]균열도색논란에사장대응까지…SK뷰에드리운'불신'",
-  "유안타·SK웃고한화·iM울고…중소형證실적희비",
-  "[현장:2026인크루트채용설명회①]\"대기업채용문다시열렸다\"…삼...",
-  "SK,상반기110개종속사정리…“태양광등비핵심사업대거손절”",
-  "기후에너지인재·기업한자리에…청년취업연계강화",
   "[WhoIs?]최신원SK네트웍스명예회장",
   "지식재산처-SK,기술과특허를연결하는‘민관협력모델’첫선",
   "Hotelkimchibrandsexpandtheirreachabroad",
@@ -6001,7 +5990,18 @@
   "[외환-주간]'매파워시'에도1,370원밑돌까…美고용·G20회의주목",
   "수원시립합창단'주니어콰이어'2기출범…23명활동돌입",
   "가능성넘어성과로…코리아콘퍼런스,K스타트업글로벌진출'결실'",
-  "‘불친절한연준’논란에워시가꺼낸답…24년전신현송논문도인용"
+  "‘불친절한연준’논란에워시가꺼낸답…24년전신현송논문도인용",
+  "삼성·SK가AI에집중한사이모바일D램파고든中CXMT",
+  "中YMTC,낸드출하량3위맹추격…韓,'고대역폭·고부가'로승부수",
+  "메모리팹4기불편한국힘,최태원-이재용소환꿈이뤄질까?",
+  "삼전닉스,법인세연간100조낼까···상반기법인세만11조",
+  "개미투자자,다시미국증시로?…두달간美주식9.7조원순매수",
+  "삼성·SK하이닉스상반기법인세11.2조원,역대두번째",
+  "코스피조정에서학개미美증시로…두달새10조원순매수",
+  "李중폭개각에野\"김승원지명,공소취소선언\"",
+  "반도체ETF잘나가자더깊게판다…CPU·낸드‘핀셋투자’",
+  "커지는대외변수불확실성…코스피,이번주7000회복할까?",
+  "[사설]반도체관세움직임에어떻게대응하고있나"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,25 @@
   [
    "2026-08-30T13:21:05.754298+09:00",
    "워시가 24년 논란에 논문도 인용 연준 신현송 불친절한 꺼낸"
+  ],
+  [
+   "2026-08-30T13:31:14.142148+09:00",
+   "김승원 중폭개각에 공소취소 선언 지명"
+  ],
+  [
+   "2026-08-30T13:31:14.142148+09:00",
+   "판다 CPU 잘나가자 ETF 낸드 투자 핀셋 반도체 깊게"
+  ],
+  [
+   "2026-08-30T13:31:14.142148+09:00",
+   "코스피 회복할까 이번주 커지는 불확실성 대외변수"
+  ],
+  [
+   "2026-08-30T13:31:14.142148+09:00",
+   "어떻게 관세 있나 대응하고 움직임에 반도체"
   ]
  ],
- "last_run": "2026-08-30T13:21:18.078128+09:00",
+ "last_run": "2026-08-30T13:31:28.546760+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
