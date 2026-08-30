@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026082805293158210",
-  "https://www.koreaherald.com/article/10854572",
-  "https://www.newsis.com/view/NISX20260827_0003766101",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170585",
-  "https://www.g-enews.com/view.php?ud=20260828052320149e250e8e188_1",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6048",
   "https://www.chosun.com/economy/money/2026/08/28/5FP73LZOHVDJPP4SIWOA5I33OA/",
   "https://biz.chosun.com/international/international_economy/2026/08/28/7KPAO362N5BTBDHFYVVZVGFLLI/",
   "https://www.goal.com/kr/뉴스/a/blt286d8187fd3cdf37",
@@ -2999,15 +2993,15 @@
   "https://www.khan.co.kr/article/202608302002005",
   "https://www.kyeongin.com/article/1769909",
   "https://www.cstimes.com/news/articleView.html?idxno=718555",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=94471"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94471",
+  "https://www.insight.co.kr/news/570944",
+  "https://news.jtbc.co.kr/article/NB12315793?influxDiv=NAVER",
+  "https://www.khan.co.kr/article/202608302023005",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432535",
+  "https://www.khan.co.kr/article/202608302025015",
+  "https://www.khan.co.kr/article/202608302020005"
  ],
  "seen_titles": [
-  "엔비디아는100점인데...삼성전자·SK하이닉스는왜못올랐나?[몇층이...",
-  "보안기업9곳,SK텔레콤보안AI컨소시엄합류",
-  "키옥시아,샌디스크와日메모리증설에43조원투입…삼전닉스추격전",
-  "SKT,SK브로드밴드0.84대0.16인적분할…신설법인SK호라이즌출범",
-  "‘4위탈락’모티프이의제기에···과기부,독파모2차점수공개,SK...",
-  "곽노정SK하이닉스사장\"인디애나팹,2029년3분기HBM4E양산\"",
   "SK하이닉스,'메이드인USA'HBM양산첫걸음뗐다",
   "SK하이닉스,미국서HBM생산…한국기업최초",
   "엔비디아1600억달러메모리약정,한국HBM가치사슬수주가시성직결",
@@ -6001,7 +5995,13 @@
   "[아침을열며]애플의‘중국D램’요구,한국에던진경고",
   "규정피해외부보관‘수원중고차’2만8천대달한다",
   "코트라,정상외교후속행사개최및'모두의성장협의체'출범",
-  "[기자수첩]韓·美정부서동시'러브콜'받은이재용·최태원선택은?"
+  "[기자수첩]韓·美정부서동시'러브콜'받은이재용·최태원선택은?",
+  "최태원,저출산해법으로'한일경제공동체'제안...청년일자리·AI연결",
+  "'연100조'찍을까…삼전·닉스상반기법인세만11조2천억",
+  "삼성전자,최대5억임직원에주택대출",
+  "최태원,한일저출산에\"청년들두나라오가야\"",
+  "삼전닉스상반기법인세11조돌파…내년엔연간100조가능성도",
+  "추미애‘비상선언’지방세제개편‘빌드업’[유튜브속경향]"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,21 @@
   [
    "2026-08-30T20:21:03.172249+09:00",
    "러브콜 최태원 이재용 받은 정부서 동시 선택은"
+  ],
+  [
+   "2026-08-30T20:31:09.022823+09:00",
+   "오가야 한일 저출산에 최태원 청년들 나라"
+  ],
+  [
+   "2026-08-30T20:31:09.022823+09:00",
+   "가능성도 11조 연간 내년엔 상반기 100조 돌파 삼전닉스 법인세"
+  ],
+  [
+   "2026-08-30T20:31:09.022823+09:00",
+   "개편 선언 지방세제 비상 빌드업 추미애"
   ]
  ],
- "last_run": "2026-08-30T20:21:09.821162+09:00",
+ "last_run": "2026-08-30T20:31:20.570223+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
