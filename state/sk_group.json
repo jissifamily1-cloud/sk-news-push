@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=2026082717542742384c878f8fa1_30",
-  "https://www.hankookilbo.com/news/article/A2026082714020003242?did=NA",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=120888",
   "https://www.techm.kr/news/articleView.html?idxno=154698",
   "https://www.mk.co.kr/article/12138169",
   "http://www.newstomato.com/ReadNews.aspx?no=1311724&inflow=N",
@@ -2999,12 +2996,12 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4432524",
   "https://www.joongang.co.kr/article/25457349",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391568",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432525"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432525",
+  "https://www.joongboo.com/news/articleView.html?idxno=363735110",
+  "https://www.mt.co.kr/industry/2026/08/30/2026083012192629378",
+  "https://m.skyedaily.com/news_view.html?ID=310711"
  ],
  "seen_titles": [
-  "SK에코플랜트,SK에코엔지니어링품는다···AI·반도체인프라'원팀'...",
-  "SK호라이즌출격\"AI데이터센터역량강화\"",
-  "SKT,AIDC승부수…SKB쪼개'SK호라이즌'신설",
   "SKT,AIDC'SK호라이즌'출범…3조투자유치",
   "SKT,AI데이터센터전담'호라이즌'설립",
   "SKT,AIDC인프라회사'SK호라이즌'설립추진",
@@ -6001,13 +5998,12 @@
   "[채권-주간]매파워시발언속내년예산안주시…방향성탐색전",
   "삼전닉스,상반기법인세만11조…법인세‘100조시대’오나",
   "8월4주차(24일~28일)주요이슈정리와다음주전망",
-  "[외환-주간]'매파워시'에도1,370원밑돌까…美고용·G20회의주목"
+  "[외환-주간]'매파워시'에도1,370원밑돌까…美고용·G20회의주목",
+  "수원시립합창단'주니어콰이어'2기출범…23명활동돌입",
+  "가능성넘어성과로…코리아콘퍼런스,K스타트업글로벌진출'결실'",
+  "‘불친절한연준’논란에워시가꺼낸답…24년전신현송논문도인용"
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T07:21:02.503428+09:00",
-   "폴드 삼성 CXMT LPDDR6 탑재 양산 앞서 샤오미 내달"
-  ],
   [
    "2026-08-30T07:32:21.970268+09:00",
    "떠난 청년 외국인이 결국 받고 월급 빈자리 채웠 로봇 밤샘까지"
@@ -6479,9 +6475,21 @@
   [
    "2026-08-30T13:11:14.801321+09:00",
    "에도 회의 밑돌까 매파 G20 워시 370원 고용 주목"
+  ],
+  [
+   "2026-08-30T13:21:05.754298+09:00",
+   "23명 돌입 수원시립합창단 주니어콰이어 출범 2기 활동"
+  ],
+  [
+   "2026-08-30T13:21:05.754298+09:00",
+   "성과로 가능성 넘어 진출 코리아콘퍼런스 글로벌 결실 K스타트업"
+  ],
+  [
+   "2026-08-30T13:21:05.754298+09:00",
+   "워시가 24년 논란에 논문도 인용 연준 신현송 불친절한 꺼낸"
   ]
  ],
- "last_run": "2026-08-30T13:11:23.675024+09:00",
+ "last_run": "2026-08-30T13:21:18.078128+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
