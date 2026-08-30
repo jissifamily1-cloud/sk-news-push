@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260828005951072?input=1195m",
-  "https://magazine.hankyung.com/business/article/202608265083b",
-  "https://news.mtn.co.kr/news-detail/2026082715543613007",
-  "https://www.segye.com/newsView/20260827516503?OutUrl=naver",
-  "https://www.segye.com/newsView/20260826520611?OutUrl=naver",
-  "https://www.munhwa.com/article/11612656",
-  "https://www.etoday.co.kr/news/view/2618964",
   "https://www.kukinews.com/article/view/kuk202608250219",
   "http://www.medisobizanews.com/news/articleView.html?idxno=141613",
   "https://www.etoday.co.kr/news/view/2618995",
@@ -2999,16 +2992,16 @@
   "https://www.mt.co.kr/industry/2026/08/31/2026082817320113834",
   "https://www.ddaily.co.kr/page/view/2026083016212971072",
   "https://www.news1.kr/finance/market-exr/6273904",
-  "https://www.news1.kr/finance/market-exr/6273819"
+  "https://www.news1.kr/finance/market-exr/6273819",
+  "https://www.mk.co.kr/article/12140023",
+  "https://www.dt.co.kr/article/12081010",
+  "http://www.srtimes.kr/news/articleView.html?idxno=211164",
+  "http://www.beyondpost.co.kr/view.php?ud=2026083106125034052aaae0046f_30",
+  "https://www.news1.kr/industry/sb-founded/6272926",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=53864",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=78742"
  ],
  "seen_titles": [
-  "SK하이닉스글로벌성장TF장에윤풍영SK수펙스협의회사장",
-  "최창원부회장,상반기보수24억…\"지난해성과에상여금증가\"",
-  "하이닉스'글로벌성장TF장'에윤풍영SK수펙스사장임명",
-  "최창원부회장,SK디스커버리·SK가스상반기보수24억…\"작년성과에...",
-  "[단독]‘혁신지휘자’윤풍영수펙스사장,SK하이닉스글로벌성장T...",
-  "대기업오른라인그룹,오너일가독특한지배구조와'사촌경영'눈길",
-  "KT'900억대과징금','임원4명투입'후대폭감경",
   "[더벨][독립이사교육현황점검]횟수상위SK·현대차,교육방식은갈...",
   "워커힐,프리미엄'수펙스김치'미국첫수출",
   "WalkerhillExportsPremiumSUPEXKimchitoU.S.,ExpandingGlobalK-F",
@@ -6001,7 +5994,14 @@
   "박정호고문\"큰바람을읽고,스스로생각하라\"",
   "‘15GW승부수’띄운SKT…AIDC분리전략시험대[IT클로즈업]",
   "환율까지도와주네…'삼전닉스'박스권등락에개미들미장으로",
-  "삼성전자자사주소각때마다'10%룰'발목…\"높아진지분율예외둬야..."
+  "삼성전자자사주소각때마다'10%룰'발목…\"높아진지분율예외둬야...",
+  "“임원달고이정도는기본”…삼성·SK주식부자400명육박",
+  "4대그룹‘주식10억클럽’임원398명…91%가‘삼전닉스’",
+  "호남반도체부지\"기업이골랐다\"는데어디와비교했나…바뀐'65만톤...",
+  "레버리지ETF거래규모,피크때대비무려4%까지급감...블룸버그통신,...",
+  "동진쎄미켐,반도체가끌고中매각밀었다…상반기순익급증이유[실...",
+  "[브랜드평판]DK아시아로열파크씨티,주거커뮤니티8월1위...롯데건설...",
+  "논문찾던AI,CMC까지관리…피닉스랩\"케이론,제약사OS로\""
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,25 @@
   [
    "2026-08-31T06:11:07.915575+09:00",
    "자사주 때마다 높아진 둬야 소각 발목 예외 지분율 삼성전자"
+  ],
+  [
+   "2026-08-31T06:21:01.193891+09:00",
+   "대비 레버리지ETF 무려 까지 피크때 거래규모 블룸버그통신 급감"
+  ],
+  [
+   "2026-08-31T06:21:01.193891+09:00",
+   "상반기 이유 동진쎄미켐 매각 순익 반도체가 밀었다 끌고 급증"
+  ],
+  [
+   "2026-08-31T06:21:01.193891+09:00",
+   "주거 커뮤니티 DK아시아 8월 1위 로열파크씨티 롯데건설"
+  ],
+  [
+   "2026-08-31T06:21:01.193891+09:00",
+   "논문 CMC까지 관리 케이론 제약사 AI 찾던 피닉스랩 OS로"
   ]
  ],
- "last_run": "2026-08-31T06:12:04.250846+09:00",
+ "last_run": "2026-08-31T06:21:15.182331+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
