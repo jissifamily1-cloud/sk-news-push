@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000328909?division=NAVER",
-  "https://biz.chosun.com/industry/company/2026/08/14/4A5MPNU4C5BWJMI7LLFTVK3RMQ/",
-  "https://www.news1.kr/industry/general-industry/6259954",
   "https://www.seoultimes.news/news/article.html?no=2000098845",
   "http://www.dailypop.kr/news/articleView.html?idxno=101613",
   "https://www.sedaily.com/article/20079725",
@@ -2999,12 +2996,12 @@
   "http://www.metroseoul.co.kr/article/20260830500247",
   "https://www.ajunews.com/view/20260830152047013",
   "https://www.newsis.com/view/NISI20260830_0021416227",
-  "https://www.newspim.com/news/view/20260830000147"
+  "https://www.newspim.com/news/view/20260830000147",
+  "http://www.srtimes.kr/news/articleView.html?idxno=211155",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/30/2026083090074.html",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407609"
  ],
  "seen_titles": [
-  "빌게이츠,최태원·정기선연쇄회동…'차세대나트륨SMR'상용화속...",
-  "최태원,오늘밤결론...9440억내고끝낼까,재상고할까",
-  "빌게이츠가찾은원전깐부…SK판키우고,HD·두산이만든다",
   "SK이노베이션,테라파워와나트륨SMR협력확대…‘K-나트륨’추진",
   "최태원\"미국등메모리팹건설검토…내년메모리부족가장심각\"",
   "[뉴스앤데이터]상반기재계총수보수살펴보니…박정원455억·구자...",
@@ -6001,7 +5998,10 @@
   "한일경제계,저출산공동대응나선다…고용·소득안정이핵심",
   "최태원\"한·일청년들자유롭게오가며일해야더큰기회온다\"",
   "최태원대한상공회의소회장,한일저출산대응교류위원회참석",
-  "최태원\"한일청년,양국오가며일하도록노동시장연결해야\""
+  "최태원\"한일청년,양국오가며일하도록노동시장연결해야\"",
+  "최태원\"한일경제공동체만들어야…청년일자리·저출산해법\"",
+  "최태원\"청년들한·일오가며취업…경력도서로인정해야\"",
+  "최태원\"韓·日경제공동체만들어야\"…저출산공동대응"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-08-30T15:10:16.377081+09:00",
    "오가며 청년들 하자 일하게"
+  ],
+  [
+   "2026-08-30T16:00:27.356147+09:00",
+   "공동 대응 경제공동체 저출산 만들어야"
   ]
  ],
- "last_run": "2026-08-30T15:50:24.986797+09:00",
+ "last_run": "2026-08-30T16:00:46.087317+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
