@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=876508",
-  "https://www.hani.co.kr/arti/opinion/column/1275012.html",
-  "http://www.econotelling.com/news/articleView.html?idxno=21197",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=609826",
-  "https://www.mk.co.kr/article/12138218",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271855173150667",
   "https://www.veritas-a.com/news/articleView.html?idxno=624948",
   "https://www.dailian.co.kr/news/view/1683427/?sc=Naver",
   "https://www.veritas-a.com/news/articleView.html?idxno=624949",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12139803",
   "https://www.dt.co.kr/article/12080987",
   "https://www.yna.co.kr/view/AKR20260830018451003?input=1195m",
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97136"
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97136",
+  "https://www.newspim.com/news/view/20260830000150",
+  "http://www.osen.co.kr/article/G1112866376",
+  "https://www.yna.co.kr/view/AKR20260830044700089?input=1195m",
+  "https://www.news1.kr/industry/general-industry/6273931",
+  "https://www.fnnews.com/news/202608301559581710",
+  "https://www.joongboo.com/news/articleView.html?idxno=363735176"
  ],
  "seen_titles": [
-  "SKT,데이터센터전문사'SK호라이즌'출범…'AI함대'구축",
-  "동부건설,상반기플랜트매출54.5%급증...반도체프로젝트로매출신...",
-  "SKT,AI데이터센터전문기업'SK호라이즌'설립…3조원대투자유치",
-  "日키옥시아,이와테현에1조엔규모공장신설",
-  "부산반도체기업‘리노공업’한달넘게파업…성과금놓고이견팽...",
-  "SKT,AI데이터센터신설법인'호라이즌'설립…브로드밴드인적분할",
   "SKT,아시아AI인프라허브노린다…AIDC인프라컴퍼니‘SK호라이즌...",
   "[단독]금감원,SK이노-SKIET합병두고제동걸듯…\"주주소통없는합...",
   "모티프이의신청에'독파모'평가공방확산…과기정통부\"규정에따라...",
@@ -6001,17 +5995,15 @@
   "엔트로픽상장기대감···SKT주가다시달리나",
   "‘삼전닉스’55조자사주방파제...기타법인“45조매수여력”",
   "한일경제계,저출산대응교류위출범…\"경제공동체수준협력을\"(종합)",
-  "'PL러브콜거절이유있었다!'김민재향한찬사,\"타의백업?그이상..."
+  "'PL러브콜거절이유있었다!'김민재향한찬사,\"타의백업?그이상...",
+  "[MLB]SF이정후,더블헤더타격감폭발...켈리와맞대결도완승",
+  "“운동도잘하고공부도잘하는선수들을키우겠다!”유소년농구트렌...",
+  "중국CXMT,'차세대모바일D램'LPDDR6양산…샤오미폰에탑재",
+  "최태원\"한일,경제공동체만들어야\"…양국저출산문제극복방안(종합...",
+  "최태원\"韓日청년오가며취업…경력·자격함께인정하자\"",
+  "[톱니바퀴]윤영만,첨단산업중심경기도...스마트가스안전망으로지..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T10:41:02.790067+09:00",
-   "미스코리아 당선 잊지 탈락 심경 우지원 못할 전희철"
-  ],
-  [
-   "2026-08-30T10:41:02.790067+09:00",
-   "승부수 사업 네이버 SKT AIDC 키운다 법인 따로 별도"
-  ],
   [
    "2026-08-30T10:51:04.272244+09:00",
    "CXMT 하닉엔 삼전 악재일까 호재일까 실적 깜짝"
@@ -6403,9 +6395,13 @@
   [
    "2026-08-30T16:31:10.689550+09:00",
    "러브콜 거절 이유 향한 타의 찬사 PL 있었다 백업 김민재 이상"
+  ],
+  [
+   "2026-08-30T16:41:03.146342+09:00",
+   "윤영만 가스안전망으로 첨단산업 중심 스마트 경기도"
   ]
  ],
- "last_run": "2026-08-30T16:31:21.525620+09:00",
+ "last_run": "2026-08-30T16:41:09.391275+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
