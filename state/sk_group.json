@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.bizwnews.com/news/articleView.html?idxno=144500",
-  "https://www.hankyung.com/article/202608277417h",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481244",
-  "https://www.yna.co.kr/view/AKR20260827164300007?input=1195m",
-  "http://www.sportsq.co.kr/news/articleView.html?idxno=497920",
   "https://news.skbroadband.com/news/articleView.html?idxno=236216",
   "https://www.mediapen.com/news/view/1118498",
   "https://www.ddaily.co.kr/page/view/2026082716493636344",
@@ -2985,16 +2980,21 @@
   "https://www.mk.co.kr/article/12139633",
   "https://www.maniareport.com/view.php?ud=2026083009243792046cf2d78c68_19",
   "https://www.munhwa.com/article/11613026",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/30/2026083000012.html",
+  "https://www.imaeil.com/page/view/2026083009391811658",
   "https://www.kyeonggi.com/article/20260830580038",
   "https://www.thepublic.kr/news/articleView.html?idxno=316748",
   "https://www.thepublic.kr/news/articleView.html?idxno=316740",
   "https://www.etoday.co.kr/news/view/2619621",
   "https://www.kado.net/news/articleView.html?idxno=2069286",
   "https://www.dt.co.kr/article/12080863",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16177203",
   "https://view.asiae.co.kr/article/2026083009314830986",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16177203",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=364425",
   "http://www.kdfnews.com/news/articleView.html?idxno=187243",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316735",
+  "https://www.segye.com/newsView/20260828511254?OutUrl=naver",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316774",
   "https://www.thepublic.kr/news/articleView.html?idxno=316744",
   "https://www.ddaily.co.kr/page/view/2026083001404817293",
   "https://www.yna.co.kr/view/AKR20260829047700017?input=1195m",
@@ -3002,11 +3002,6 @@
   "https://www.yna.co.kr/view/AKR20260829029400017?input=1195m"
  ],
  "seen_titles": [
-  "5개팀압축된'모두의AI'…모델넘어'국민접점'이승부처?",
-  "KT“모두의AI,앱에안가둔다”…포털·쇼핑·IPTV로확장",
-  "엔비디아이어AMD·퀄컴도'소캠'러브콜…삼전닉스웃는다",
-  "힘빠진반도체대신2차전지·전력이달렸다…코스피6900선안착[이런...",
-  "'엔비디아의힘'...코스피1%대상승...한은금리인상에상승폭축소",
   "'반도체우상향'기대띄운엔비디아…\"삼전닉스내년까지달린다\"",
   "정석근SK하이퍼대표“AI버블?아직입구”…한국을지능생산기지로",
   "엔비디아훈풍속코스피1.5%상승…금리인상에‘칠천피’문턱서후...",
@@ -5987,16 +5982,21 @@
   "“이재용·최태원씨,호남반도체압력있었나요?”…국힘청문회추진",
   "'열흘만에멀티히트'이정후2안타2타점반등...팀은만루포에1-7완...",
   "이정후,10일만에멀티히트·3출루…‘KBO출신’켈리맞대결도판정승",
+  "1500원뚫었던원·달러환율,1300원대진입…'원화강세'어디까지",
+  "\"법인세100조가능성?\"…삼성·SK하이닉스,상반기에벌써11조냈다",
   "[속보]삼전닉스상반기법인세11조넘었다…연간100조넘길수도",
   "SKT컨소시엄,'모두의AI'사업자선정…10월베타출시목표",
   "\"엔비디아가이정도인데\"…삼성전자·SK하이닉스실적전망도상향",
   "삼전ㆍ하이닉스,상반기법인세11.2조…역대최대납부예고",
   "삼전·닉스레버리지규제후한달간1조7730억원어치팔아",
   "신현송한은총재“대미200억달러투자,환율에부담안돼…원화면...",
-  "AI메모리병목확산…삼성전자·SK하이닉스수혜넓어진다",
   "삼성전자·SK하이닉스상반기법인세'11조'…반기기준역대2위",
+  "AI메모리병목확산…삼성전자·SK하이닉스수혜넓어진다",
   "삼성전자,임직원주택자금최대5억원지원…금리연1.5%",
   "삼성전자·SK하이닉스상반기법인세11.2조…반기역대2위",
+  "SK하이닉스,美인디애나에HBM공장착공…2029년하반기양산",
+  "코스피변동성잡혔다...다만증시체력추가회복은필수",
+  "삼성전자,110조풀었는데25만원…돈풀었는데주가는빠졌다?",
   "\"집만지키지않는다\"…ADT캡스,AI로가족안전까지챙긴다",
   "증설멈추고합치고돌려쓰고…K-배터리,'재편의시간'[위클리배터리...",
   "우본노조위원장조합비주식투자…노조내부징계절차",
@@ -6365,27 +6365,39 @@
    "있었나요 국힘 이재용 호남반도체 최태원씨 압력 청문회"
   ],
   [
-   "2026-08-30T09:41:02.288817+09:00",
-   "가족 AI로 지키지 집만 챙긴다 ADT캡스 안전까지 않는다"
+   "2026-08-30T09:42:23.763473+09:00",
+   "2029년 인디애나에 HBM공장 양산 착공 SK하이닉스 하반기"
   ],
   [
-   "2026-08-30T09:41:02.288817+09:00",
-   "증설 합치고 재편의 시간 위클리배터리 돌려쓰고 멈추고 배터리"
+   "2026-08-30T09:42:23.763473+09:00",
+   "다만 체력 추가 회복은 필수 증시 코스피 변동성 잡혔다"
   ],
   [
-   "2026-08-30T09:41:02.288817+09:00",
-   "노조위원장 주식 내부 조합비 노조 절차 투자 우본 징계"
+   "2026-08-30T09:42:23.763473+09:00",
+   "삼성전자 주가는 25만원 빠졌다 110조 풀었는데"
   ],
   [
-   "2026-08-30T09:41:02.288817+09:00",
-   "증설 글로벌 순위권 낸드 공세 노린다 YMTC"
+   "2026-08-30T09:42:23.763473+09:00",
+   "챙긴다 지키지 AI로 ADT캡스 가족 집만 안전까지 않는다"
   ],
   [
-   "2026-08-30T09:41:02.288817+09:00",
-   "중요해졌다 수학만큼 역량 AI는 이제 영어 필수"
+   "2026-08-30T09:42:23.763473+09:00",
+   "멈추고 시간 배터리 재편의 증설 위클리배터리 돌려쓰고 합치고"
+  ],
+  [
+   "2026-08-30T09:42:23.763473+09:00",
+   "노조 내부 절차 노조위원장 우본 징계 조합비 주식 투자"
+  ],
+  [
+   "2026-08-30T09:42:23.763473+09:00",
+   "글로벌 공세 낸드 YMTC 순위권 노린다 증설"
+  ],
+  [
+   "2026-08-30T09:42:23.763473+09:00",
+   "역량 AI는 중요해졌다 필수 영어 수학만큼 이제"
   ]
  ],
- "last_run": "2026-08-30T09:41:18.515711+09:00",
+ "last_run": "2026-08-30T09:42:48.058863+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
