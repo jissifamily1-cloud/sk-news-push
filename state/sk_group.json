@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202608271810589511",
-  "https://biz.sbs.co.kr/article_hub/20000331225?division=NAVER",
-  "https://www.aitimes.com/news/articleView.html?idxno=214501",
-  "https://www.thepublic.kr/news/articleView.html?idxno=316548",
-  "https://www.fnnews.com/news/202608271810552499",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009392",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275666",
   "https://www.ddaily.co.kr/page/view/2026082717584242463",
   "https://www.ppss.kr/news/articleView.html?idxno=307675",
   "https://www.topdaily.kr/articles/111685",
@@ -2999,16 +2992,16 @@
   "https://www.ajunews.com/view/20260830135537863",
   "https://www.insight.co.kr/news/570925",
   "https://www.hankookilbo.com/news/article/A2026083013400000041?did=NA",
-  "https://www.koreaherald.com/article/10856454"
+  "https://www.koreaherald.com/article/10856454",
+  "http://www.osen.co.kr/article/G1112866328",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693375",
+  "https://www.busan.com/view/busan/view.php?code=2026083014274959878",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7181365",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=364440",
+  "https://www.ajunews.com/view/20260830133601841",
+  "https://www.dt.co.kr/article/12080939"
  ],
  "seen_titles": [
-  "‘K호텔김치’해외공략본격화…면세점·수출동시확대[종합]",
-  "워커힐,프리미엄‘수펙스김치’미국수출",
-  "수출길오른워커힐'수펙스김치'···\"亞주요시장진출추진\"",
-  "워커힐,‘수펙스김치’첫미국수출⋯해외판매망확대",
-  "독파모5개팀AI데이터3544만건푼다…기업·연구자누구나활용",
-  "SKT,SK브로드밴드분할AIDC컴패니'SK호라이즌'출범…3조투자유치",
-  "SKT,AIDC사업이원화…'개발'SK하이퍼·'운영'SK호라이즌신설",
   "SKT,AI데이터센터'SK호라이즌'띄운다...KKR·IMM서3조800억원유치",
   "이상일시장,정부에용인반도체산단조기가동지원요청",
   "SK에코플랜트,힘빠진SK에코엔지니어링재흡수",
@@ -6001,13 +5994,16 @@
   "단일종목레버리지거래급감에도정부,'긴급조치권'확대속도",
   "삼성·하이닉스상반기법인세11조...AI반도체호황에'역대급세수'",
   "통신품질미흡지역91%개선…지하철8개구간은여전히'미흡'",
-  "YMTCtoboostNANDoutputasKoreanrivalsholdback"
+  "YMTCtoboostNANDoutputasKoreanrivalsholdback",
+  "‘NBA슈퍼스타’지미버틀러의기를받은동대문토모,U13부값진우승...",
+  "\"고심끝에상고\"최태원SK회장,재산분할9440억판결불복",
+  "삼성전자,9월부터주택대출지원…5억원,연1.5%파격조건",
+  "신현송\"원화,대외충격에면역력생겨…대미투자도환율부담안돼...",
+  "최태원회장,일본서저출산해법모색…한일민간협력첫발",
+  "7000선앞둔코스피…'중국메모리굴기'CXMT가새변수",
+  "美원유늘리는정유사…비용압박가중"
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T08:21:07.632166+09:00",
-   "통합요금제 혜택은 달라졌나 어떻게 5G LTE 시대 청년"
-  ],
   [
    "2026-08-30T08:31:14.634753+09:00",
    "생산기지 HBM 인상 SK하이닉스 기준금리 한은"
@@ -6495,9 +6491,17 @@
   [
    "2026-08-30T14:21:01.978272+09:00",
    "Korean YMTC to hold boost back as NAND rivals output"
+  ],
+  [
+   "2026-08-30T14:31:14.086268+09:00",
+   "앞둔 코스피 7000선 메모리 CXMT가 굴기 중국 변수"
+  ],
+  [
+   "2026-08-30T14:31:14.086268+09:00",
+   "늘리는 비용 원유 가중 정유사 압박"
   ]
  ],
- "last_run": "2026-08-30T14:21:08.209439+09:00",
+ "last_run": "2026-08-30T14:31:22.494085+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
