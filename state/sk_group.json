@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/money/2026/08/28/5FP73LZOHVDJPP4SIWOA5I33OA/",
-  "https://biz.chosun.com/international/international_economy/2026/08/28/7KPAO362N5BTBDHFYVVZVGFLLI/",
   "https://www.goal.com/kr/뉴스/a/blt286d8187fd3cdf37",
   "https://www.aitimes.com/news/articleView.html?idxno=214511",
   "https://www.edaily.co.kr/News/Read?newsId=01807286645551912&mediaCodeNo=257",
@@ -2999,11 +2997,11 @@
   "https://www.khan.co.kr/article/202608302023005",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4432535",
   "https://www.khan.co.kr/article/202608302025015",
-  "https://www.khan.co.kr/article/202608302020005"
+  "https://www.khan.co.kr/article/202608302020005",
+  "https://www.fnnews.com/news/202608302029157049",
+  "https://biz.heraldcorp.com/article/10855880"
  ],
  "seen_titles": [
-  "SK하이닉스,'메이드인USA'HBM양산첫걸음뗐다",
-  "SK하이닉스,미국서HBM생산…한국기업최초",
   "엔비디아1600억달러메모리약정,한국HBM가치사슬수주가시성직결",
   "[브랜드평판]KT엠모바일,알뜰폰8월1위...프리티,SK세븐모바일뒤쫓...",
   "[N2모닝경제브리핑-8월28일]美증시,엔비디아‘어닝서프라이즈’...",
@@ -6001,17 +5999,11 @@
   "삼성전자,최대5억임직원에주택대출",
   "최태원,한일저출산에\"청년들두나라오가야\"",
   "삼전닉스상반기법인세11조돌파…내년엔연간100조가능성도",
-  "추미애‘비상선언’지방세제개편‘빌드업’[유튜브속경향]"
+  "추미애‘비상선언’지방세제개편‘빌드업’[유튜브속경향]",
+  "\"하루에만5번출루했다!\"4번타자이정후,더블헤더지배한'미친타격...",
+  "[증시예보]‘칠천피’다시두드리는코스피…8월반도체수출·美고..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T14:31:14.086268+09:00",
-   "앞둔 코스피 7000선 메모리 CXMT가 굴기 중국 변수"
-  ],
-  [
-   "2026-08-30T14:31:14.086268+09:00",
-   "늘리는 비용 원유 가중 정유사 압박"
-  ],
   [
    "2026-08-30T14:51:02.022161+09:00",
    "규모 10대사 현대건설 일감 수주잔고 4조"
@@ -6395,9 +6387,13 @@
   [
    "2026-08-30T20:31:09.022823+09:00",
    "개편 선언 지방세제 비상 빌드업 추미애"
+  ],
+  [
+   "2026-08-30T20:34:31.520061+09:00",
+   "수출 코스피 두드리는 다시 8월 칠천피 반도체"
   ]
  ],
- "last_run": "2026-08-30T20:31:20.570223+09:00",
+ "last_run": "2026-08-30T20:34:37.451260+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
