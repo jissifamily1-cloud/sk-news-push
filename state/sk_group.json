@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009521",
-  "https://www.tokenpost.kr/news/market/398874",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309181",
-  "https://www.mt.co.kr/tech/2026/08/27/2026082715225998287",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200511",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445773",
-  "https://www.mt.co.kr/estate/2026/08/27/2026082715100651787",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=129011",
   "https://www.sportsseoul.com/news/read/1631305",
   "https://www.edaily.co.kr/News/Read?newsId=04542806645551584&mediaCodeNo=257",
@@ -2999,16 +2992,16 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1311829&inflow=N",
   "https://www.mk.co.kr/article/12139017",
   "https://www.newspim.com/news/view/20260828000623",
-  "https://www.joongangenews.com/news/articleView.html?idxno=543774"
+  "https://www.joongangenews.com/news/articleView.html?idxno=543774",
+  "https://zdnet.co.kr/view/?no=20260720093507",
+  "https://www.yna.co.kr/view/AKR20260720021751030?input=1195m",
+  "http://www.joseilbo.com/news/news_read.php?uid=574716&class=17",
+  "https://www.pressian.com/pages/articles/2026083009133415322",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94455",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056162",
+  "https://www.youthdaily.co.kr/news/article.html?no=226000"
  ],
  "seen_titles": [
-  "“AI어떻게써야하나”…취준생몰려든인크루트채용설명회[가보니...",
-  "[1%초고수의선택]'삼성E&A'사고'LG에너지솔루션'팔았다",
-  "청화대영빈관찾은이상일용인특례시장\"반도체필수기반시설차질없...",
-  "엔비디아질주에미소짓는K-메모리⋯삼성·SK,‘슈퍼갑’되나",
-  "[오늘증시]코스피,6900선안착…엔비디아호실적·법인매수세힘입어...",
-  "(2ndLD)Seoulstocksendhigherfor3rddayonNvidiaearnings",
-  "\"반도체,이제는전력전쟁\"…추미애,글로벌기업과맞손",
   "글로벌벤치마크1위가왜탈락?…모티프,'독파모'결과에이의제기",
   "[현장]임경현인크루트CBO\"기업채용늘었지만필요인원만선별\"",
   "주주환원시대...배당주투자'성장'도잡는다",
@@ -6001,7 +5994,14 @@
   "LGU+멤버십해외로영토확장…로밍넘어여행혜택경쟁",
   "코스닥,왜아직도바닥?...“반등하려면금리떨어져야”",
   "대학총장140명한자리에…\"AX시대대학교육·연구·운영전면재설계\"",
-  "[주간산업나침반]'노사슈퍼위크'車봉합·철강조선전운...SK하이닉..."
+  "[주간산업나침반]'노사슈퍼위크'車봉합·철강조선전운...SK하이닉...",
+  "프리미엄김치美간다…워커힐,‘수펙스김치’미국첫수출",
+  "호텔김치판로넓힌다…면세점입점·미국수출(종합)",
+  "연1.5%·최대5억에사내FAQ‘폭발’…삼성전자주택대출기준살펴보...",
+  "[속보]'삼전닉스',올해상반기법인세작년보다167%급증한11조2000억...",
+  "9월코스피향방은…이익늘지만고금리에'느린반등'",
+  "[궁금해집]걸어서의왕역10분·초등학교5분…'의왕역한신더휴'",
+  "반도체호황에세수도‘잭팟’...삼성·SK하이닉스법인세11조원"
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,17 @@
   [
    "2026-08-30T09:11:05.266491+09:00",
    "슈퍼위크 철강조선 봉합 노사 전운 SK하이닉"
+  ],
+  [
+   "2026-08-30T09:21:02.813884+09:00",
+   "10분 걸어서 한신더휴 의왕역 초등학교 5분"
+  ],
+  [
+   "2026-08-30T09:21:02.813884+09:00",
+   "호황에 SK하이닉스 반도체 삼성 법인세 잭팟 세수도 11조원"
   ]
  ],
- "last_run": "2026-08-30T09:11:24.022189+09:00",
+ "last_run": "2026-08-30T09:21:11.974280+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
