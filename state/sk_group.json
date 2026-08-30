@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.skbroadband.com/news/articleView.html?idxno=236216",
-  "https://www.mediapen.com/news/view/1118498",
-  "https://www.ddaily.co.kr/page/view/2026082716493636344",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6037",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168989",
-  "https://www.viva100.com/article/20260827501304",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445770",
-  "https://www.kukinews.com/article/view/kuk202608270114",
-  "https://view.asiae.co.kr/article/2026082716541955834",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406995",
   "https://www.mt.co.kr/tech/2026/08/27/2026082716143689406",
   "https://www.thelec.kr/news/articleView.html?idxno=61449",
   "https://www.g-enews.com/view.php?ud=2026082711341155783d7a510102_1",
@@ -2999,19 +2989,19 @@
   "https://www.ddaily.co.kr/page/view/2026083001404817293",
   "https://www.yna.co.kr/view/AKR20260829047700017?input=1195m",
   "https://www.viva100.com/article/20260830500068",
-  "https://www.yna.co.kr/view/AKR20260829029400017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260829029400017?input=1195m",
+  "https://biz.sbs.co.kr/article_hub/20000331545?division=NAVER",
+  "https://news.mtn.co.kr/news-detail/2026083009392756143",
+  "https://www.nocutnews.co.kr/news/6570128",
+  "https://biz.chosun.com/it-science/ict/2026/08/30/ASFA2PTFSZACJGJXXM7IJIX5FM/",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481781",
+  "https://www.edaily.co.kr/News/Read?newsId=01295606645552568&mediaCodeNo=257",
+  "https://www.youthdaily.co.kr/news/article.html?no=226002",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407384",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608300068&t=NN",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000060659"
  ],
  "seen_titles": [
-  "'반도체우상향'기대띄운엔비디아…\"삼전닉스내년까지달린다\"",
-  "정석근SK하이퍼대표“AI버블?아직입구”…한국을지능생산기지로",
-  "엔비디아훈풍속코스피1.5%상승…금리인상에‘칠천피’문턱서후...",
-  "광주는팹,무안은소부장…전북‘반도체협력사유치’빈자리있나",
-  "중국YMTC,7조원IPO추진…\"2027년삼성·SK하이닉스넘는다\"",
-  "[민주부동산]현대건설·동부건설·우미건설",
-  "코스피,엔비디아호실적에1.53%상승…한은금리인상에상승폭축소",
-  "엔비디아질주에삼성·SK하이닉스도웃는다…HBM수요'청신호'",
-  "[증시인사이트]엔비디아호실적확인…코스피,7천선회복이고비?",
-  "송도아파트하자은폐논란:메디컬투데이TV",
   "민형배시장\"반도체기업힘실을기업은행이전요청\"",
   "[르포]\"미래CEO후보,신입생부터키운다\"…LGD계약학과몰린학부모...",
   "[외국인놀이터코스피③]\"매도\"한마디에시총증발…외국계보고서...",
@@ -6001,7 +5991,17 @@
   "증설멈추고합치고돌려쓰고…K-배터리,'재편의시간'[위클리배터리...",
   "우본노조위원장조합비주식투자…노조내부징계절차",
   "中YMTC낸드증설공세⋯글로벌순위권노린다",
-  "[AI위클리]AI는이제필수역량…영어·수학만큼중요해졌다"
+  "[AI위클리]AI는이제필수역량…영어·수학만큼중요해졌다",
+  "美주식10조쓸어담은서학개미…엔비디아팔고‘이종목’샀다",
+  "삼전닉스,상반기법인세11조…역대두번째규모",
+  "삼전닉스올해상반기법인세만11조넘어…역대2위기록",
+  "‘D램집중’삼전·하이닉스빈틈파고드는中YMTC…낸드1위노린다",
+  "한국거래소,반도체·바이오등ETF4종상장",
+  "'단종레'투자문턱높이자…개미,한달새1.8조팔았다",
+  "신현송총재\"원화면역력생겼다...美최대200억달러투자충분히감내...",
+  "키움·DB·마이다스에셋·KB자산운용,신규상장ETF4종목유가증권시장...",
+  "22년전영화가왜?…'오디세이'열풍에다시떴다",
+  "\"AI잘써야살아남는다\"…수학·영어만큼필수교육된"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,17 @@
   [
    "2026-08-30T09:42:23.763473+09:00",
    "역량 AI는 중요해졌다 필수 영어 수학만큼 이제"
+  ],
+  [
+   "2026-08-30T09:51:03.559610+09:00",
+   "오디세이 떴다 열풍에 22년 다시 영화가"
+  ],
+  [
+   "2026-08-30T09:51:03.559610+09:00",
+   "영어만큼 필수 교육 AI 수학 써야 살아남는다"
   ]
  ],
- "last_run": "2026-08-30T09:42:48.058863+09:00",
+ "last_run": "2026-08-30T09:51:13.352621+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
