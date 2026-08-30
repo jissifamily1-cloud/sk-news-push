@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260827516500?OutUrl=naver",
-  "https://www.kukinews.com/article/view/kuk202608270213",
-  "https://biz.chosun.com/it-science/ict/2026/08/28/T7U5UCVGT5HANOUOBBQFPGGJQI/",
-  "https://www.sedaily.com/article/20084192",
-  "https://www.sedaily.com/article/20084238",
-  "https://www.yna.co.kr/view/AKR20260827170700003?input=1195m",
-  "https://www.sedaily.com/article/20084250",
-  "https://www.news1.kr/finance/general-stock/6272054",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168972",
   "https://www.g-enews.com/view.php?ud=2026082806072261402bd56fbc3c_1",
   "https://biz.sbs.co.kr/article_hub/20000331273?division=NAVER",
   "http://www.beyondpost.co.kr/view.php?ud=2026082806073752742aaae0046f_30",
@@ -2999,18 +2990,18 @@
   "https://www.hitnews.co.kr/news/articleView.html?idxno=78742",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608291914316960801",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=762674",
-  "https://www.greened.kr/news/articleView.html?idxno=348766"
+  "https://www.greened.kr/news/articleView.html?idxno=348766",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481889",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722222",
+  "https://www.sedaily.com/article/20085038",
+  "https://www.munhwa.com/article/11613140",
+  "https://www.sedaily.com/article/20085013",
+  "https://www.etoday.co.kr/news/view/2619520",
+  "https://www.news1.kr/it-science/cc-newmedia/6272867",
+  "https://www.news1.kr/industry/general-industry/6272907",
+  "https://www.newsis.com/view/NISX20260830_0003768599"
  ],
  "seen_titles": [
-  "워커힐호텔'수펙스'김치미국간다",
-  "29일개막하는독일분데스리가,김민재·이재성·정우영코리안리거출...",
-  "이대통령,오늘은이재용과저녁회동…‘3대메가’,대미통상현안...",
-  "최창원,SK위기수습했지만주력사는439억적자…수펙스의장직내려...",
-  "'최태원의전략통'…SK하이닉스AI신사업발굴맡은기타리스트[강경...",
-  "박정원두산회장상반기보수456억…RSU가키운'연봉킹'",
-  "[재계핫이슈]최태원회장'11시59분상고'속사정은?",
-  "엔비디아,호실적에8.7%급등하며시총5조5천억달러돌파...마이크론은...",
-  "SK하이닉스,美HBM거점‘인디애나팹’착공…2029년하반기첫양산...",
   "엔비디아8.7%급등하며기술주랠리…나스닥1.57%↑(종합)",
   "‘지분’보다‘실적’…AI격변기시험대오른8090재계뉴리더20인",
   "코스피6000대정체에도…증권가는\"만스피전망유효\"",
@@ -6001,7 +5992,16 @@
   "논문찾던AI,CMC까지관리…피닉스랩\"케이론,제약사OS로\"",
   "'발코니추락사고'후시공현장타설퇴출되나",
   "애플계정해킹으로수백만원무단결제피해속출...2차인증까지뚫린...",
-  "최태원회장\"저출산해법은경제공동체수준협력강화\"...'결혼의향'..."
+  "최태원회장\"저출산해법은경제공동체수준협력강화\"...'결혼의향'...",
+  "주가하락에도주식부자임원급증…삼성·SK에몰린이유보니",
+  "삼성·하이닉스'10억주식부자'임원363명…4대그룹의91%",
+  "IIF“반도체호황·삼전닉스국내투자에원화추가강세…코로나이전...",
+  "‘대기업임원달면이정도?’…4대그룹‘주식10억클럽’400명,90%가...",
+  "“어차피줍줍나오는데”…서울완판행진속청약통장깨는경기·인...",
+  "[노트북너머]분할후재합병…모회사주주는무엇을얻었나",
+  "같은AIDC인데왜둘로?…SKT,MW·GW급따로키운다",
+  "공룡빅테크에맞선'제논'…\"韓'액셔너블AI'승부수\"[K-챌린저]",
+  "신임법무김승원·재경이형일·국방강신철지명…2차개각단행[간추..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,29 @@
   [
    "2026-08-31T06:31:08.231202+09:00",
    "강화 최태원 결혼 의향 수준 저출산 회장 해법은 협력 경제공동체"
+  ],
+  [
+   "2026-08-31T06:39:19.722667+09:00",
+   "경기 완판 어차피 줍줍 서울 행진 청약통장 깨는 나오는데"
+  ],
+  [
+   "2026-08-31T06:39:19.722667+09:00",
+   "분할후 얻었나 모회사 무엇을 주주는 재합병"
+  ],
+  [
+   "2026-08-31T06:39:19.722667+09:00",
+   "같은 GW급 따로 둘로 SKT MW 키운다 DC인데 AI"
+  ],
+  [
+   "2026-08-31T06:39:19.722667+09:00",
+   "액셔너블 빅테크에 공룡 맞선 제논 승부수 AI"
+  ],
+  [
+   "2026-08-31T06:39:19.722667+09:00",
+   "이형일 신임 2차 개각 단행 지명 김승원 간추 법무 국방 재경 강신철"
   ]
  ],
- "last_run": "2026-08-31T06:31:19.889984+09:00",
+ "last_run": "2026-08-31T06:39:36.664140+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
