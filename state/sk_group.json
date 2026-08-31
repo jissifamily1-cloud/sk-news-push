@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191401",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1722096",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1722174",
   "https://www.news1.kr/economy/trend/6273434",
@@ -2999,10 +2998,10 @@
   "https://www.news1.kr/society/court-prosecution/6275197",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=762781",
   "http://www.srtimes.kr/news/articleView.html?idxno=211239",
-  "https://www.news1.kr/industry/sb-founded/6274704"
+  "https://www.news1.kr/industry/sb-founded/6274704",
+  "https://www.news1.kr/industry/company/6274713"
  ],
  "seen_titles": [
-  "“연1.5%에최대5억,사내부부는1건으로”…삼성전자,9월부터임직원...",
   "[AI프리즘]AI수익률격차…반도체는대박인데수십억달러부은빅테...",
   "'성과급잭팟'삼전·하닉,주담대효과는줄지만…사내대출은별도",
   "[1%초고수의주간선택]'삼양식품'사고'현대해상'팔았다",
@@ -6001,7 +6000,8 @@
   "中회사취업하려고…'기술유출'SK하이닉스前직원징역1년6개월확정",
   "상반기고전한보안3사,SI강화·신규수주앞세워수익성개선나선다",
   "'896조'첨단산업은전남광주로…금융허브는왜전북전주인가?",
-  "'K-NPU'리벨·퓨리·딥엑스,정부계약시험대…독자생존력입증변수"
+  "'K-NPU'리벨·퓨리·딥엑스,정부계약시험대…독자생존력입증변수",
+  "돈잘버는기업에서,큰꿈과큰책임을지는기업으로[이근면의품격..."
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,13 @@
   [
    "2026-09-01T06:31:14.271377+09:00",
    "리벨 NPU 딥엑스 생존력 정부계약 입증 시험대 퓨리 변수 독자"
+  ],
+  [
+   "2026-09-01T06:41:05.864192+09:00",
+   "기업으로 품격 꿈과 기업에서 버는 이근면의 책임을 지는"
   ]
  ],
- "last_run": "2026-09-01T06:31:48.952297+09:00",
+ "last_run": "2026-09-01T06:41:12.002284+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
