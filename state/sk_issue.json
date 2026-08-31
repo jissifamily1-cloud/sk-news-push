@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6565625",
-  "https://www.seoul.co.kr/news/society/accident/2026/08/20/20260820500189?wlog_tag3=naver",
-  "https://www.dailian.co.kr/news/view/1680442/?sc=Naver",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245037",
   "https://view.asiae.co.kr/article/2026082016451613838",
   "https://www.newsis.com/view/NISX20260820_0003756449",
   "https://view.asiae.co.kr/article/2026082016540180523",
@@ -2999,13 +2995,13 @@
   "https://www.pressian.com/pages/articles/2026083109130747545",
   "https://www.donga.com/news/Society/article/all/20260831/134573771/1",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201136",
-  "http://www.newsprime.co.kr/news/article.html?no=745696"
+  "http://www.newsprime.co.kr/news/article.html?no=745696",
+  "https://www.asiatime.co.kr/article/20260831500076",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521843",
+  "https://www.dailian.co.kr/news/view/1684333/?sc=Naver",
+  "https://www.segye.com/newsView/20260831504036?OutUrl=naver"
  ],
  "seen_titles": [
-  "고려아연,MBK고발예고에\"성과주주에게공유한것…자기모순말라\"",
-  "공정위,롯데·HD현대석유화학대산1호합병조건부승인",
-  "KAI노조,한화측에재반박…\"수직계열화,경쟁력보장못해\"",
-  "상조회사'대주주쌈짓돈'전용금지…'할부거래법개정안'국회본회의...",
   "할부거래법개정안국회통과…상조회사지배주주신용공여한도,자본...",
   "공정위'무혐의'결정재조사요청가능…신고인권리강화",
   "하청노동자사망에'현대車'와'현대重'법적용엇갈리나",
@@ -6001,7 +5997,11 @@
   "경남통영·고성정점식\"정치경찰야당탄압...유감\"",
   "드라마와영화무단편집해유튜브로37억챙겨…검찰송치",
   "대법원\"고려아연,선메탈스(SMC)근거로한영풍의결권제한은무효\"",
-  "경동나비엔,협력사도면베껴경쟁사제공…과징금5억원"
+  "경동나비엔,협력사도면베껴경쟁사제공…과징금5억원",
+  "영풍·MBK\"대법원,고려아연의결권제한위법확인\"…9월임시주총주...",
+  "대법원\"고려아연,SMC활용한영풍의결권제한은위법\"…경영권방어...",
+  "영풍\"대법원,고려아연SMC활용영풍의결권제한위법판단유지\"",
+  "영화·드라마저작권침해해‘10분몰아보기’로수익챙긴‘기업형..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "규모 책정 노사 관계도 위로금 이례적 달랐다 롯데렌탈"
   ]
  ],
- "last_run": "2026-08-31T09:31:03.310036+09:00",
+ "last_run": "2026-08-31T09:40:53.941451+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
