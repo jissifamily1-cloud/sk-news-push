@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260821165603481",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000058589",
-  "http://www.gjdream.com/news/articleView.html?idxno=672034",
-  "https://www.nocutnews.co.kr/news/6566261",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=500216",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225146",
-  "https://www.nocutnews.co.kr/news/6566256",
-  "https://www.chosun.com/national/incident/2026/08/21/KJA2Z2AORVDL5IACF5UDJKCUBE/",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213931",
-  "https://www.ytn.co.kr/_ln/0103_202608211659311213",
   "https://imnews.imbc.com/replay/2026/nw1700/article/6846389_36981.html",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213967",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128885",
@@ -2999,19 +2989,19 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1311998&inflow=N",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4432697",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87770",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=94526"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94526",
+  "https://www.m-economynews.com/news/article.html?no=70273",
+  "https://www.sentv.co.kr/article/view/sentv202608310201",
+  "https://lawtalknews.co.kr/article/07CW83CXCQI3",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317411",
+  "https://www.swtvnews.com/news/newsview.php?ncode=1065597462358993",
+  "https://www.newsway.co.kr/news/view?ud=2026083117284671347",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110993",
+  "https://www.chosun.com/national/court_law/2026/08/31/6O3MIU6PJBBFTJOYPBXF7FYGF4/",
+  "https://www.kbsm.net/news/view.php?idx=532320",
+  "https://view.asiae.co.kr/article/2026083117062470371"
  ],
  "seen_titles": [
-  "롯데케미칼·HD현대케미칼대산통합,공정위조건부승인…LDPE·EVA가격...",
-  "[단독]신성통상무배당인데…오너家가나안은상폐뒤300억배당",
-  "檢'노태우비자금의혹'강제수사…\"피의자에노소영없어\"(종합2보)",
-  "3대특검미제해결한다더니줄줄이재이첩…종합특검무용론현실화",
-  "[이슈]이혼재판서빠진'노태우300억'…최태원·SK로수사번지나(1부...",
-  "롯데케미칼,'대산1호'승인에도…10조빚에신용도'먹구름'",
-  "같은거래처서산은583억·기업은행94억…정책은행678억사기혐의",
-  "6개월수사하고도다시경찰로…종합특검무용론현실화",
-  "오월단체\"5·18헌법전문수록·이진숙제명동참하라\"촉구",
-  "세무사광고'환급률1위'등퇴출…국세청고시환영",
   "[IB탈탈털기]2조원베팅한한화,KAI지분15%넘겼다…이제시선은'이...",
   "검찰,'노태우비자금300억'추적본격화",
   "'6천만원불법정치자금수수'노웅래2심도무죄",
@@ -6001,7 +5991,17 @@
   "(디저트제국의두얼굴)②(단독)SPC점주절반이상‘매우불만족’…...",
   "삼양사,전분당담합과징금전액면제받았다",
   "공정위,한화'KAI주식취득'승인...한화\"환영\"",
-  "고려아연\"대법결정,현지배구조효력에영향없어\"반박"
+  "고려아연\"대법결정,현지배구조효력에영향없어\"반박",
+  "국회·정부손잡았다…‘자발적탄소시장법’제정논의본격화",
+  "한화KAI지분확대‘승인’…공정위“경쟁제한성없어”",
+  "\"허각온댔잖아요\"레스토랑갔더니허공등장?변호사들\"단순실수아닌...",
+  "고려아연\"대법원판단,현경영체제와무관\"…영풍·MBK에'확대해석'...",
+  "경동나비엔,두달여만에또하도급법위반…입찰참가제한‘위기’",
+  "한화,KAI2대주주지위확보···'한국판스페이스X'밑그림구체화",
+  "삼양사,전분당담합과징금2103억원전액면제",
+  "‘30억뇌물’안성시전국장·개발업자등관계자10명줄줄이재판행",
+  "법무부\"특사경지명권,지도·조언권한있는공소청이가져야\"...국회...",
+  "영화·드라마결말까지'10분압축'…'몰아보기'유튜버일당송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "일단 여전 석화 가격은 수출 우려 밀어내기 뛰었는데"
   ]
  ],
- "last_run": "2026-08-31T17:50:54.350735+09:00",
+ "last_run": "2026-08-31T18:01:13.861894+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
