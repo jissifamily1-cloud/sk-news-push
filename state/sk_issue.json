@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/22/2026082290003.html",
   "https://www.chosun.com/national/court_law/2026/08/22/SX7NYVCHKZFG5LTK5LF5C7LBH4/",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000005085&cp=nv",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553476887",
@@ -2999,10 +2998,10 @@
   "https://www.etoday.co.kr/news/view/2620190",
   "https://biz.chosun.com/science-chosun/medicine-health/2026/09/01/44UO2NKBKRCI5PMJAMNOIPWTLA/",
   "https://www.sedaily.com/article/20085482",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169164"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169164",
+  "https://biz.sbs.co.kr/article_hub/20000331881?division=NAVER"
  ],
  "seen_titles": [
-  "이대통령이\"선배님죄송합니다\"라며공식적으로사과한사람",
   "위증엔무방비,억울한피해자양산,재정신청홍수",
   "檢,‘노태우비자금의혹’김옥숙여사자택등압수수색",
   "‘노태우비자금’김옥숙여사자택압수수색",
@@ -6001,10 +6000,16 @@
   "[논현논단-이덕환칼럼]‘살균가전제품’소비자가거부할때",
   "[단독]독감백신NIP차질…사노피50만도즈펑크에민간물량전환",
   "한화,KAI주식취득승인…‘한국판스페이스X’구상탄력[biz-플러스...",
-  "은행이피해자?…사기꾼에눈뜨고당한허술한내부통제"
+  "은행이피해자?…사기꾼에눈뜨고당한허술한내부통제",
+  "\"일본에반도체공장검토\"최태원발언에SK는'부인'"
  ],
- "recent_sigs": [],
- "last_run": "2026-09-01T06:40:53.351808+09:00",
+ "recent_sigs": [
+  [
+   "2026-09-01T06:50:49.787504+09:00",
+   "검토 공장 부인 반도체 발언에 최태원 SK는 일본에"
+  ]
+ ],
+ "last_run": "2026-09-01T06:50:56.650252+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
