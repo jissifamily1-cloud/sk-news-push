@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191397",
-  "https://www.tjb.co.kr/news05/bodo/view/id/102935",
-  "https://www.dailian.co.kr/news/view/1683659/?sc=Naver",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134978",
-  "https://biz.heraldcorp.com/article/10855464",
   "https://biz.heraldcorp.com/article/10855467",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553494347",
   "https://www.newsis.com/view/NISX20260828_0003766858",
@@ -2999,14 +2994,14 @@
   "https://news.tf.co.kr/read/economy/2359820.htm",
   "https://www.koreaittimes.com/news/articleView.html?idxno=156559",
   "https://www.koreaittimes.com/news/articleView.html?idxno=156560",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464715"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464715",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407895",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=852092",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200061",
+  "https://www.asiatime.co.kr/article/20260831500187",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008729934&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "모두의AI사업자로'SKT·카카오·KT'최종선정",
-  "[속보]삼전·닉스자사주'폭풍쇼핑'…46조원더산다",
-  "SKT,'A.XK2'기반대국민AI서비스만든다",
-  "전국민AI서비스,SKT·카카오·KT세갈래로간다",
-  "유나이티드'페노듀오'내달급여...200억대시장공략",
   "작년건설공사액29조'뚝'…'선행지표'계약액도고꾸라졌다",
   "달러예금한달새15조원급증…SK하닉ADR자금유입도한몫",
   "Lackofregulationsonsmartglasses",
@@ -6001,7 +5996,12 @@
   "8월코스피일평균거래대금연중'최저'…떠오르는'박스피'악몽",
   "SK온,북미배터리전략'ESS·LFP'로확장…美서최대18GWh협력추진",
   "[Today'sSignal]SKOnExpandsU.S.BatteryStrategyBeyondEVswith9G",
-  "SK이터닉스,국내최대육상풍력가동···의성에99MW구축"
+  "SK이터닉스,국내최대육상풍력가동···의성에99MW구축",
+  "\"모바일신분증위·변조막는다\"…통신3사,PASSQR검증캠페인",
+  "한은\"반도체성과급,소비진작기여…내년파급효과더클것\"",
+  "SK온,ESS시장대규모배터리공급계약체결...북미시장공략강화",
+  "이천·청주등반도체수혜지역소비최대4%증가",
+  "반도체패키징산업전…\"HBM다음기술은?\""
  ],
  "recent_sigs": [
   [
@@ -6959,9 +6959,13 @@
   [
    "2026-08-31T12:51:06.726796+09:00",
    "국내 구축 의성에 SK이터닉스 가동 99MW 육상풍력"
+  ],
+  [
+   "2026-08-31T13:01:17.514413+09:00",
+   "반도체 다음 패키징 HBM 산업전 기술은"
   ]
  ],
- "last_run": "2026-08-31T12:51:16.207665+09:00",
+ "last_run": "2026-08-31T13:01:23.009672+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
