@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1117833",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592918449590",
-  "https://www.newsis.com/view/NISX20260820_0003756512",
-  "https://www.sedaily.com/article/20081477",
-  "https://news.mtn.co.kr/news-detail/2026082016053314077",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93981",
-  "https://www.newspim.com/news/view/20260820001209",
-  "https://www.newspim.com/news/view/20260820001215",
-  "https://lawtalknews.co.kr/article/VS5LR86FK6AI",
-  "http://www.joseilbo.com/news/news_read.php?uid=574170&class=18",
   "https://www.dynews.co.kr/news/articleView.html?idxno=862453",
   "https://www.edaily.co.kr/News/Read?newsId=05084006645549288&mediaCodeNo=257",
   "https://view.asiae.co.kr/article/2026082017330385206",
@@ -2999,19 +2989,19 @@
   "http://www.inews24.com/view/1999894",
   "https://www.ikbc.co.kr/article/view/kbc202608310022",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8650173",
-  "https://www.yna.co.kr/view/AKR20260831053600004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260831053600004?input=1195m",
+  "https://www.edaily.co.kr/News/Read?newsId=02656806645552896&mediaCodeNo=257",
+  "https://www.topdaily.kr/articles/111445",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=31150",
+  "https://www.etoday.co.kr/news/view/2619880",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=47356",
+  "https://www.viva100.com/article/20260831500394",
+  "https://biz.chosun.com/topics/law_firm/2026/08/31/6CDUQKE6JNERBHCX3OWAMH5624/",
+  "https://www.nocutnews.co.kr/news/6570435",
+  "https://www.newsis.com/view/NISX20260831_0003768975",
+  "https://www.newsis.com/view/NISX20260831_0003769059"
  ],
  "seen_titles": [
-  "석유화학구조조정첫관문넘었다…대산통합승인,LDPE·EVA엔'5년족...",
-  "임은정,중수청지원…임용시1급수사관으로",
-  "KAI노조,한화인수움직임에재차반발…“공급망장악·독과점우려”",
-  "공정거래법·하도급법개정안국회본회의통과",
-  "선불식할부거래소비자보호,지배주주신용공여는조이고소비자정보...",
-  "상조업체지배주주자금대여제한할부거래법개정안,국회통과",
-  "상조업체지배주주'돈줄'조인다…선수금11조원소비자보호강화",
-  "공정위,롯데케미칼·HD현대오일뱅크'대산1호'조건부승인",
-  "상조회사지배주주신용공여50%로제한…개정안국회통과",
-  "‘특검기소’도이치수사팀“그래서누가수사무마했나”",
   "석화구조조정'대산1호'조건부승인…롯데·HD현대통합법인출범",
   "공정위,'대산1호'석유화학사업재편조건부승인",
   "손해배상소송에공정위자료제출의무화…피해기업입증쉬워진다",
@@ -6001,7 +5991,17 @@
   "파머스에프앤비·아브오보,가맹금직접받았다가공정위경고",
   "[속보]신천지·통일교'정교유착'비리합수본수사종결…이만희구속...",
   "정교유착합수본수사마무리…통일교한학자·신천지이만희재판행",
-  "정교유착합수본종료…이만희구속기소·한학자금고260억원압수"
+  "정교유착합수본종료…이만희구속기소·한학자금고260억원압수",
+  "[마켓인]대법“고려아연,영풍의결권제한위법”…원심판결유지",
+  "[격변하는푸른그룹]사조그룹,푸른그룹과결별수순…공정위에계열분...",
+  "대법원\"과거고려아연의영풍의결권제한은위법\"…9월임시주총주...",
+  "대법원\"고려아연,SMC활용영풍의결권제한은위법\"…원심유지",
+  "대법원\"고려아연,SMC활용영풍의결권제한위법\"",
+  "인천세관가상자산으로제재망뚫었다…507억대중고차1024대불법수출...",
+  "정교유착합수본수사마무리…이만희·한학자등32명기소",
+  "630만뷰대박영상알고보니…영화결말까지딱'10분'무단유포",
+  "[일지]정교유착합수본출범부터수사종료까지",
+  "합수본,신천지·통일교32명기소…이만희구속·한학자불구속"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "규모 책정 노사 관계도 위로금 이례적 달랐다 롯데렌탈"
   ]
  ],
- "last_run": "2026-08-31T10:10:56.477276+09:00",
+ "last_run": "2026-08-31T10:20:57.854586+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
