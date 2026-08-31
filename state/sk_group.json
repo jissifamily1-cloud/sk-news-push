@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260702001055",
-  "https://www.newspim.com/news/view/20260702001050",
-  "https://www.newspim.com/news/view/20260702001046",
-  "https://www.newspim.com/news/view/20260702001038",
-  "https://news.tf.co.kr/read/photomovie/2339154.htm",
-  "https://news.tf.co.kr/read/photomovie/2339152.htm",
-  "https://news.tf.co.kr/read/photomovie/2339158.htm",
-  "https://www.koreajoongangdaily.com/business/amcham-korea-launches-ai-leadership-council-with-apple-openai-qualcomm-and-tesla/12752285",
   "https://www.ekn.kr/web/view.php?key=20260702029488210",
   "http://www.metroseoul.co.kr/article/20260702500353",
   "https://www.naeil.com/news/read/593872",
@@ -2999,17 +2991,17 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8650660",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=227789",
   "https://www.koreajoongangdaily.com/business/won-bucks-strong-dollar-weak-yen-as-chip-dollars-flood-into-korea/12852719",
-  "https://www.segye.com/newsView/20260831515570?OutUrl=naver"
+  "https://www.segye.com/newsView/20260831515570?OutUrl=naver",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600035",
+  "https://www.g-enews.com/view.php?ud=20260831194303802727fa31d75c_1",
+  "https://news.jtbc.co.kr/article/NB12315988?influxDiv=NAVER",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=792359",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=792376",
+  "https://www.busan.com/view/busan/view.php?code=2026083119410113946",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1178719",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008730745&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "'SK와협력사·공정위의상생협력을위해'",
-  "SK-공정거래위원회상생협약체결식",
-  "환영사하는최창원SKSUPEX추구협의회의장",
-  "SK-공정위상생협약체결식참석한주병기-최창원",
-  "기념촬영하는주병기-최창원",
-  "기념촬영하는최창원-주병기[포토]",
-  "환영사하는최창원SUPEX추구협의회의장[포토]",
-  "'SK-공정위상생협약체결'[TF사진관]",
   "AmchamKorealaunchesAILeadershipCouncilwithApple,OpenAI,Qualc",
   "SK·삼성,2·3차협력사까지상생확대…“AI시대공급망경쟁력강화”",
   "SK,반도체생태계에8700억원투자…기술·금융지원확대",
@@ -6001,25 +5993,17 @@
   "‘삼전닉스’성과급어디에썼나?…“집사고테슬라샀다”",
   "GS칼텍스,9월LPG가격동결",
   "Wonbucksstrongdollar,weakyenaschipdollarsfloodintoKorea",
-  "한국은행“반도체수혜지역,2년간소비증가액1.7조전망”"
+  "한국은행“반도체수혜지역,2년간소비증가액1.7조전망”",
+  "반도체성과급받아테슬라샀다⋯이천·화성·청주고가소비급증",
+  "최태원\"日전역살펴보고있다\"…SK하이닉스\"합작공장검토는아냐\"",
+  "\"사자마자하루만에판다\"…삼전·하닉치고빠지기'회전율급증'",
+  "[위클리오늘]사하구소식(8.31)",
+  "[전혜은시선]최태원SK회장의'한·일경제블록'구상...반도체합작...",
+  "SK오션플랜트,지역사회거센반발에도사모펀드에팔린다",
+  "[주식마감]뚜렷한호재없이코스닥상한가종목'속출'...강동씨앤엘...",
+  "[뉴스직격]이언주\"개각평가?청문회통해확인하고우려해소해야\""
  ],
  "recent_sigs": [
-  [
-   "2026-08-31T13:51:01.009184+09:00",
-   "얼굴 사진 광고 전에도 원빈 공개 촬영 16년"
-  ],
-  [
-   "2026-08-31T13:51:01.009184+09:00",
-   "용인시장 이상일 반도체산단 전력 풀어야 용수부터"
-  ],
-  [
-   "2026-08-31T13:51:01.009184+09:00",
-   "역대 9월엔 코스피 최악의 쉬어가나 하나"
-  ],
-  [
-   "2026-08-31T13:51:01.009184+09:00",
-   "발목 삼성전자 나선 소각 규제가 110조 자사주 환원 금산법"
-  ],
   [
    "2026-08-31T14:01:19.875577+09:00",
    "남한강 마침표 8일의 검룡소에서 순례 두물머리까지"
@@ -7043,9 +7027,29 @@
   [
    "2026-08-31T19:41:03.924039+09:00",
    "전망 7조 반도체 수혜 한국은행 소비증가액 2년간 지역"
+  ],
+  [
+   "2026-08-31T19:51:07.743695+09:00",
+   "소식 사하구"
+  ],
+  [
+   "2026-08-31T19:51:07.743695+09:00",
+   "경제블록 합작 구상 반도체 회장의 최태원"
+  ],
+  [
+   "2026-08-31T19:51:07.743695+09:00",
+   "사모펀드에 SK오션플랜트 반발에도 거센 지역 사회 팔린다"
+  ],
+  [
+   "2026-08-31T19:51:07.743695+09:00",
+   "상한가 코스닥 뚜렷한 강동씨앤엘 종목 속출 없이 호재"
+  ],
+  [
+   "2026-08-31T19:51:07.743695+09:00",
+   "청문회 확인하고 이언주 개각 우려 평가 해소해야"
   ]
  ],
- "last_run": "2026-08-31T19:41:15.235337+09:00",
+ "last_run": "2026-08-31T19:51:24.374171+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
