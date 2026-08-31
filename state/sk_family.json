@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1628801",
-  "https://www.asiatime.co.kr/article/20260815500004",
-  "https://www.ekn.kr/web/view.php?key=20260814022532374",
-  "https://www.inthenews.co.kr/news/article.html?no=90554",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590076.html",
   "https://www.hankyung.com/article/2026081532817",
   "https://www.mediapen.com/news/view/1116739",
@@ -2999,13 +2995,13 @@
   "https://www.sedaily.com/article/20085467",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445917",
   "https://www.sedaily.com/article/20085509",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260901072839hVA"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260901072839hVA",
+  "https://www.econovill.com/news/articleView.html?idxno=749432",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722414",
+  "https://www.g-enews.com/view.php?ud=202609010718393469fbbec65dfb_1",
+  "https://biz.sbs.co.kr/article_hub/20000331886?division=NAVER"
  ],
  "seen_titles": [
-  "SK㈜지분팔면시장충격…최태원,'9440억재산분할'결국재상고",
-  "“하이닉스인수하면다죽는다”반대했던노소영…9440억분할‘기여...",
-  "최태원\"주가하락까지보전\"양보안내놨지만…협상테이블걷어찬노...",
-  "[광복절과재계②]1945년에도삼성은있었을까…지금의대기업들찾아...",
   "다시대법원간최태원·노소영이혼소송,노관장은SK반도체사업에...",
   "최태원재상고…'세기의이혼'다시대법원으로",
   "\"9440억산정적정한가\"…'SK재산분할'상고놓고재계뒷말",
@@ -6001,7 +5997,11 @@
   "美인디애나이어日까지…SK하이닉스생산거점넓힌다",
   "[WhoIs?]김민석더불어민주당대표",
   "풀가동해도HBM·D램공급태부족…최태원“日공장검토”[biz-플러스...",
-  "'2차장마'구름중부로…9월첫날장대비"
+  "'2차장마'구름중부로…9월첫날장대비",
+  "SK하이닉스,日반도체공장검토…최태원회장\"확정된것은없다\"",
+  "최태원\"일본투자검토\"…SK하이닉스합작공장설은\"사실과달라\"",
+  "최태원회장\"日전력·용수살펴\"…SK\"공장아닌협력아이디어\"",
+  "[마켓프리뷰]삼전닉스대규모자사주매입지속…코스피상승전환"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,21 @@
   [
    "2026-09-01T07:00:27.504710+09:00",
    "넓힌다 생산거점 까지 인디애나 이어 SK하이닉스"
+  ],
+  [
+   "2026-09-01T07:40:13.915173+09:00",
+   "사실과 합작공장설은 투자 일본 SK하이닉스 검토 달라"
+  ],
+  [
+   "2026-09-01T07:40:13.915173+09:00",
+   "공장 아닌 살펴 회장 협력 아이디어 전력 용수"
+  ],
+  [
+   "2026-09-01T07:40:13.915173+09:00",
+   "상승 코스피 매입 지속 삼전닉스 자사주 대규모"
   ]
  ],
- "last_run": "2026-09-01T07:30:32.965126+09:00",
+ "last_run": "2026-09-01T07:40:32.496100+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
