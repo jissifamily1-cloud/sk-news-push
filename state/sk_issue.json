@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260821052401bBD",
-  "https://www.tfmedia.co.kr/news/article.html?no=206609",
-  "https://www.chosun.com/economy/economy_general/2026/08/21/G7Q24DPHPNGPPEQ2ZEWHF3R5HM/",
-  "https://www.hankyung.com/article/2026082030291",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065082",
-  "https://biz.chosun.com/policy/policy_sub/2026/08/21/U6BPKZCGUVGVVFD3OWUYRF32GY/",
-  "https://www.news1.kr/economy/trend/6264987",
   "https://mbcgn.kr/01_new/new01_view.asp?idx=410444",
   "https://www.hankookilbo.com/news/article/A2026082010270002551?did=NA",
   "https://www.chosun.com/national/national_general/2026/08/21/ACMSG4VPBZGFZFQC5IGRL3BV3U/",
@@ -2999,16 +2992,16 @@
   "https://www.hg-times.com/news/articleView.html?idxno=304852",
   "http://www.4th.kr/news/articleView.html?idxno=2117161",
   "https://www.mk.co.kr/article/12140285",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215914"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215914",
+  "https://www.newscj.com/news/articleView.html?idxno=3428911",
+  "https://www.mk.co.kr/article/12140298",
+  "https://www.kado.net/news/articleView.html?idxno=2069580",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=317114",
+  "https://www.bntnews.co.kr/article/view/bnt202608310259",
+  "https://www.news1.kr/society/incident-accident/6274760",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/31/2026083190132.html"
  ],
  "seen_titles": [
-  "정상혁신한은행장,녹색금융'속도'...태양광·풍력PF'싹쓸이'",
-  "美재생농업20억달러시장성장했지만…인증기준달라소비자혼란",
-  "ESG는비용인가,위기의보험인가[이창언의지속가능성나침반]",
-  "[유통소식]롯데마트,연휴겨냥'통큰데이'…'통짜장어'2차판매",
-  "결혼4년차에도여전히달달한이부부의데이트룩",
-  "유럽ESG펀드신규출시사상최저…친환경사업돈줄끊기나",
-  "공정위,석유화학기업결합조건부승인",
   "공정위손배소자료제출의무화…공정거래·하도급법개정안국회통과",
   "석화사업재편‘대산1호’기업결합조건부승인",
   "[사설]구조조정석유화학에'경쟁제한시정조치'지나치다",
@@ -6001,7 +5994,14 @@
   "성동구,행당7구역아기씨당왜곡보도강한유감...\"명백한허위사실\"",
   "'1900억원상장사기혐의'하이브방시혁검찰송치임박",
   "방시혁결국검찰간다…‘1900억부당이득혐의’이번주송치",
-  "'자본시장법위반'방시혁수사막바지…\"이번주중송치\""
+  "'자본시장법위반'방시혁수사막바지…\"이번주중송치\"",
+  "[현장]빗속법원앞울린목탁소리…스님들\"신천지95세이만희총회...",
+  "경찰,‘1900억부당이득혐의’방시혁이번주검찰송치",
+  "'자본시장법위반'방시혁이르면오늘검찰송치",
+  "정교유착검경합수본,237일수사종료…정치인기소'0명'",
+  "방시혁‘1900억부당이득’의혹…경찰,이번주송치",
+  "성동구,'아기씨당현금기부채납요구'반박…\"사실아냐\"",
+  "정교유착합수본,신천지·통일교32명기소…한학자금고서260억원압..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "규모 책정 노사 관계도 위로금 이례적 달랐다 롯데렌탈"
   ]
  ],
- "last_run": "2026-08-31T13:50:53.109413+09:00",
+ "last_run": "2026-08-31T14:01:09.708933+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
