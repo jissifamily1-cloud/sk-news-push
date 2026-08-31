@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailypop.kr/news/articleView.html?idxno=101777",
-  "https://www.ngetnews.com/news/articleView.html?idxno=552613",
-  "https://www.news1.kr/society/court-prosecution/6265916",
-  "https://www.yna.co.kr/view/AKR20260821142000004?input=1195m",
-  "https://www.the-today.com/news/articleView.html?idxno=88751",
-  "https://www.topdaily.kr/articles/111583",
   "https://www.ajunews.com/view/20260821165603481",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000058589",
   "http://www.gjdream.com/news/articleView.html?idxno=672034",
@@ -2999,15 +2993,15 @@
   "https://www.industrynews.co.kr/news/articleView.html?idxno=85268",
   "https://www.newsis.com/view/NISX20260831_0003770122",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1330854",
-  "https://www.segye.com/newsView/20260831516275?OutUrl=naver"
+  "https://www.segye.com/newsView/20260831516275?OutUrl=naver",
+  "https://www.kbsm.net/news/view.php?idx=532315",
+  "https://www.dailian.co.kr/news/view/1684674/?sc=Naver",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311998&inflow=N",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432697",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87770",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94526"
  ],
  "seen_titles": [
-  "‘노태우비자금수사’최태원·노소영이혼소송엔영향없을듯…“재...",
-  "4개월새3명숨진SK지오센트릭…검찰,SK이노베이션까지압수수색",
-  "재산분할위해노소영이꺼낸'300억'메모,부메랑돼'친정비자금의...",
-  "'노태우비자금'첫강제수사,최태원·노소영이혼재상고심에영향미...",
-  "검찰,김옥숙연희동사저전격압수수색…'노태우비자금904억'정조준",
-  "동료사진으로딥페이크제작·유포한방송사직원입건",
   "롯데케미칼·HD현대케미칼대산통합,공정위조건부승인…LDPE·EVA가격...",
   "[단독]신성통상무배당인데…오너家가나안은상폐뒤300억배당",
   "檢'노태우비자금의혹'강제수사…\"피의자에노소영없어\"(종합2보)",
@@ -6001,7 +5995,13 @@
   "고려아연\"현경영체제이상無…지난해3월주총서이미적법성인정\"",
   "법무부\"특사경지명,공소청에서관리해야\"…국회에의견",
   "안성시공무원,개발업자들에30억뇌물혐의추가기소",
-  "법무부“특사경지명권,‘지도·조언’하는공소청에”"
+  "법무부“특사경지명권,‘지도·조언’하는공소청에”",
+  "가습기살균제피해,내달부터'구제→배상'…국가·기업공동책임진다",
+  "공정위,한화의KAI지분취득승인…“경쟁제한성없어”",
+  "(디저트제국의두얼굴)②(단독)SPC점주절반이상‘매우불만족’…...",
+  "삼양사,전분당담합과징금전액면제받았다",
+  "공정위,한화'KAI주식취득'승인...한화\"환영\"",
+  "고려아연\"대법결정,현지배구조효력에영향없어\"반박"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "일단 여전 석화 가격은 수출 우려 밀어내기 뛰었는데"
   ]
  ],
- "last_run": "2026-08-31T17:40:57.557418+09:00",
+ "last_run": "2026-08-31T17:50:54.350735+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
