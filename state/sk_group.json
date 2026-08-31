@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260702029488210",
-  "http://www.metroseoul.co.kr/article/20260702500353",
-  "https://www.naeil.com/news/read/593872",
-  "https://www.koreaherald.com/article/10796251",
-  "https://www.koreatimes.co.kr/path/A2026070211020000682",
-  "https://www.sedaily.com/article/20062843",
-  "https://www.ddaily.co.kr/page/view/2026070210010409631",
   "https://www.businesspost.co.kr/BP?command=article_view&num=440471",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154767",
   "https://www.businesspost.co.kr/BP?command=article_view&num=440884",
@@ -2999,16 +2992,16 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=792376",
   "https://www.busan.com/view/busan/view.php?code=2026083119410113946",
   "https://www.ggilbo.com/news/articleView.html?idxno=1178719",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008730745&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008730745&plink=ORI&cooper=NAVER",
+  "http://www.segyebiz.com/newsView/20260831518180?OutUrl=naver",
+  "https://www.segye.com/newsView/20260831517902?OutUrl=naver",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722388",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8650693",
+  "https://biz.sbs.co.kr/article_hub/20000331763?division=NAVER",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260901.22003009228",
+  "https://www.etnews.com/20260831000369"
  ],
  "seen_titles": [
-  "AmchamKorealaunchesAILeadershipCouncilwithApple,OpenAI,Qualc",
-  "SK·삼성,2·3차협력사까지상생확대…“AI시대공급망경쟁력강화”",
-  "SK,반도체생태계에8700억원투자…기술·금융지원확대",
-  "공정위,SK와1·2·3차하도급사상생협약체결…대금지급조건개선",
-  "AmChamlaunchesAIleadershipcouncilinKorea",
-  "AMCHAMlaunchesAILeadershipCounciltobolsterKorea-USAIcooperat",
-  "암참AI리더십위원회공식출범…“한미AI협력확대”",
   "‘한미AI동맹가교’…암참,애플·AWS참여‘AI리더십위원회’출범",
   "[WhoIs?]장용호SK대표이사사장겸SK이노베이션대표이사총괄사장",
   "SKAICommitteeHostsUNITE2026inSiliconValley,UnveilsExpandedGl",
@@ -6001,29 +5994,16 @@
   "[전혜은시선]최태원SK회장의'한·일경제블록'구상...반도체합작...",
   "SK오션플랜트,지역사회거센반발에도사모펀드에팔린다",
   "[주식마감]뚜렷한호재없이코스닥상한가종목'속출'...강동씨앤엘...",
-  "[뉴스직격]이언주\"개각평가?청문회통해확인하고우려해소해야\""
+  "[뉴스직격]이언주\"개각평가?청문회통해확인하고우려해소해야\"",
+  "SK오션플랜트주인바뀐다…고성군“특구지정해제검토”",
+  "SK하이닉스반도체공장일본에도들어서나…최태원“검토중,논의가...",
+  "SK오션플랜트,SK품떠나디오션품으로…4100억원에경영권매각",
+  "[경제톡톡]한국은행2달연속금리인상…자산배분전략은?",
+  "[주간증시전망]워시의'매파발언'은연막?!…문남중\"9월엔오히려금...",
+  "미래에너지원각광…‘지역동맹’결성해생태계구축을",
+  "손홍래조선대교수팀,반도체소재적용가능한실록산고분자개발…..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-31T14:01:19.875577+09:00",
-   "남한강 마침표 8일의 검룡소에서 순례 두물머리까지"
-  ],
-  [
-   "2026-08-31T14:01:19.875577+09:00",
-   "에너지 도약 SK이노베이션 기업으로 가속화"
-  ],
-  [
-   "2026-08-31T14:01:19.875577+09:00",
-   "원스토어 토종 세계 장터 게임 AI와 블록체인 제공"
-  ],
-  [
-   "2026-08-31T14:01:19.875577+09:00",
-   "화학품 상승랠리 기대 부각 정제마진 개선 수요 석유화학주 특수"
-  ],
-  [
-   "2026-08-31T14:01:19.875577+09:00",
-   "지수 부진에도 소캠에 영업익 제2 티엘비 HBM 치솟아"
-  ],
   [
    "2026-08-31T14:11:10.001698+09:00",
    "골라서 관행 산다 공정위 전속거래 정유사 기름 손봤다"
@@ -7047,9 +7027,21 @@
   [
    "2026-08-31T19:51:07.743695+09:00",
    "청문회 확인하고 이언주 개각 우려 평가 해소해야"
+  ],
+  [
+   "2026-08-31T20:01:30.670602+09:00",
+   "오히려 매파 발언 연막 문남중 9월엔 워시의"
+  ],
+  [
+   "2026-08-31T20:01:30.670602+09:00",
+   "생태계 각광 미래 지역동맹 에너지원 구축을 결성해"
+  ],
+  [
+   "2026-08-31T20:01:30.670602+09:00",
+   "개발 소재 조선대 손홍래 고분자 교수팀 실록산 가능한 적용 반도체"
   ]
  ],
- "last_run": "2026-08-31T19:51:24.374171+09:00",
+ "last_run": "2026-08-31T20:01:42.710129+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
