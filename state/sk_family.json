@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2354573.htm",
-  "https://magazine.hankyung.com/business/article/202608152877b",
-  "https://www.insight.co.kr/news/568393",
   "https://www.joongangenews.com/news/articleView.html?idxno=540301",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4430301",
   "https://imnews.imbc.com/replay/2026/nw2500/article/6844914_36989.html",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000331656?division=NAVER",
   "https://www.irobotnews.com/news/articleView.html?idxno=48199",
   "https://economist.co.kr/article/view/ecn202608310007",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056531"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056531",
+  "https://www.sedaily.com/article/20085118",
+  "http://www.yonhapnewstv.co.kr/news/AKR202608311002354vp",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=317089"
  ],
  "seen_titles": [
-  "SK최태원,'노소영에9440억지급'판결불복...'세기의재산분할'다시...",
-  "최태원'노소영에9440억재산분할'불복,재상고…다시대법으로",
-  "최태원회장재산분할재상고…노소영관장측협의끝내거부",
   "노소영\"전액현금\"vs최태원\"주식도\"…9440억협상결렬이유",
   "\"주주·그룹경영영향최소화\"...최태원,9440억판결재상고",
   "(종합)최태원SK회장,이혼재상고왜?…'노태우300억'배제에도노소...",
@@ -6001,7 +5998,10 @@
   "한일상의,'공급망·에너지안보·미래산업협력'공동성명",
   "서울AI허브,'피지컬AI'전문인재본격배출…로봇·AI융합교육성료",
   "\"30만㎡부지까지준비했다\"…SK하이닉스에러브콜보내는日",
-  "하반기채용시장…대기업'고밀도',중기'상시침투',공기업'빅시즌'"
+  "하반기채용시장…대기업'고밀도',중기'상시침투',공기업'빅시즌'",
+  "고갈되는대지급금2030년1.2조…체불임금안전망흔들",
+  "한일경제인들\"강점살린지역교류로미래산업함께육성\"",
+  "인크루트채용설명회에구직자300명몰려…\"하반기대기업·공기업이..."
  ],
  "recent_sigs": [
   [
@@ -6045,7 +6045,7 @@
    "러브콜 부지까지 30만 SK하이닉스에 준비했다 보내는"
   ]
  ],
- "last_run": "2026-08-31T10:00:38.458410+09:00",
+ "last_run": "2026-08-31T10:10:24.830255+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
