@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=671064",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850450",
   "https://www.dailian.co.kr/news/view/1678810/?sc=Naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20260815002134EYG",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545269",
@@ -2999,11 +2997,11 @@
   "https://www.edaily.co.kr/News/Read?newsId=02788006645552896&mediaCodeNo=257",
   "https://www.dailian.co.kr/news/view/1684435/?sc=Naver",
   "https://www.nocutnews.co.kr/news/6570538",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432630"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432630",
+  "http://www.newsprime.co.kr/news/article.html?no=745738",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=727068"
  ],
  "seen_titles": [
-  "최태원·노소영'세기의재산분할'다시대법원간다…최회장재상고",
-  "최태원,‘재산분할9440억’판결불복…다시대법으로",
   "최태원회장,자정1분전'재산분할'재상고배경은",
   "'세기의재산분할'다시대법원으로…최태원,분할비율불복'재상고'",
   "'세기의재산분할'다시대법간다…최태원,'9440억원지급'불복해재...",
@@ -6001,7 +5999,9 @@
   "SK하이닉스,日합작공장검토…\"전력·물좋은곳이면어디든\"",
   "최태원\"한일6조달러경제연대…여권없이오가는시범사업도\"",
   "한일상의회장단,AI·공급망협력확대…최태원\"더큰시장만들자\"",
-  "한일상의회장단\"공급망·에너지안보손잡고,지역강점이어야\""
+  "한일상의회장단\"공급망·에너지안보손잡고,지역강점이어야\"",
+  "[숏폼]청년들일본으로?최태원식'저출생해법'이놓친것",
+  "최태원의저출산해법\"한·일청년일자리부터합치자\""
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-08-31T11:00:31.203510+09:00",
    "합작공장 곳이면 좋은 어디든 전력 SK하이닉스 검토"
+  ],
+  [
+   "2026-08-31T11:20:15.458860+09:00",
+   "일본으로 저출생 해법 청년들 최태원식 놓친"
+  ],
+  [
+   "2026-08-31T11:20:15.458860+09:00",
+   "일자리부터 합치자 최태원의 저출산 청년 해법"
   ]
  ],
- "last_run": "2026-08-31T11:10:24.667436+09:00",
+ "last_run": "2026-08-31T11:20:32.663302+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
