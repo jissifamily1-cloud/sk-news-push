@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2356287.htm",
-  "https://www.ajunews.com/view/20260820180504815",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090223.html",
-  "https://www.newspim.com/news/view/20260820001270",
   "https://www.joongang.co.kr/article/25454884",
   "https://www.edaily.co.kr/News/Read?newsId=05244726645549288&mediaCodeNo=257",
   "https://www.ggilbo.com/news/articleView.html?idxno=1176629",
@@ -2999,13 +2995,13 @@
   "http://www.e2news.com/news/articleView.html?idxno=333739",
   "https://www.tenasia.co.kr/article/2026083132744",
   "https://www.wikitree.co.kr/articles/1156149",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000060944"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000060944",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052917",
+  "https://www.sisajournal.com/news/articleView.html?idxno=385391",
+  "https://www.hani.co.kr/arti/area/capital/1275447.html",
+  "https://www.tfmedia.co.kr/news/article.html?no=206864"
  ],
  "seen_titles": [
-  "[속보]종합특검,‘내란가담의혹’심우정전검찰총장불구속기소",
-  "[속보]종합특검,심우정前검찰총장기소…내란가담혐의",
-  "‘14조원유가담합’정유4사재판서혐의부인",
-  "호서대,제42회후기대학원학위수여식…석·박사299명배출",
   "종합특검,'尹즉시항고포기'심우정전검찰총장불구속기소",
   "'수원마약좀비'30대남성4시간조사…\"몸에힘이없어서\"부인",
   "종합특검,'윤구속취소즉시항고포기'심우정전검찰총장기소",
@@ -6001,7 +5997,11 @@
   "중소기업기술자료유용…공정위,경동나비엔에과징금부과",
   "무단'몰아보기'로37억챙겼다…26개채널돌린유튜버일당,검찰송치",
   "구독자146만명모은‘몰아보기’채널…정체알고보니",
-  "영화·드라마'몰아보기'로37억챙긴일당송치"
+  "영화·드라마'몰아보기'로37억챙긴일당송치",
+  "범정부합동대응반가동...9월의식주·생필품·서비스등불공정거래...",
+  "정교유착합수본활동종료...한학자·이만희등32명재판에",
+  "가상자산‘환치기’로2796억챙겨…제재국에중고차수출일당적발",
+  "서류위조에코인결제까지…그들은왜제재국으로차를보냈나"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "규모 책정 노사 관계도 위로금 이례적 달랐다 롯데렌탈"
   ]
  ],
- "last_run": "2026-08-31T11:31:04.305541+09:00",
+ "last_run": "2026-08-31T11:40:56.697850+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
