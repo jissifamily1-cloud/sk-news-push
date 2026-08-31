@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444913",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245052",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608191559383360101643",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049260",
-  "https://www.energydaily.co.kr/news/articleView.html?idxno=202395",
-  "https://www.koscaj.com/news/articleView.html?idxno=325960",
-  "https://www.koscaj.com/news/articleView.html?idxno=325936",
-  "https://www.koscaj.com/news/articleView.html?idxno=325935",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479217",
   "https://www.newstree.kr/newsView/ntr202608180022",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206869",
@@ -2999,17 +2991,17 @@
   "https://www.kyeongin.com/article/1769940",
   "https://www.mydaily.co.kr/page/view/2026083113435002288",
   "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/08/31/20260831500144?wlog_tag3=naver",
-  "https://www.ekn.kr/web/view.php?key=20260831028068434"
+  "https://www.ekn.kr/web/view.php?key=20260831028068434",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407902",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407850",
+  "https://www.tokenpost.kr/news/policy/401045",
+  "https://view.asiae.co.kr/article/2026083114151529178",
+  "https://www.fnnews.com/news/202608311411220131",
+  "https://thetracker.co.kr/View.aspx?No=4205902",
+  "https://www.etoday.co.kr/news/view/2620011",
+  "https://www.cnbizm.com/news/articleView.html?idxno=313264"
  ],
  "seen_titles": [
-  "[역사속오늘·8.21]임시정부기관지「독립」창간(1919)·박인비,리우...",
-  "문따고들어가자男女무려26명이…난리난창원",
-  "[속보]종합특검,‘내란가담혐의’심우정전검찰총장기소…전무곤...",
-  "김상훈“공정위,네이버·두나무합병심사서둘러야”",
-  "[위기의특사경]①검사수사지휘권사라진다...서울시민사국'촉각'",
-  "석유화학'대산1호프로젝트'기업결합조건부승인",
-  "[WhoIs?]이병철다올금융그룹회장",
-  "[오늘의주요일정·21일]한성숙총리주택공급관련서울구청장간담...",
   "[더벨][한진칼공정위규제대응]행정소송까지간'좌석공급'축소,통...",
   "LIGD&A,'4억대뇌물'악재…구본상'창립50년'에준법경영도마",
   "중소기업'기술탈취'피해입증문턱낮춘다…자료제출명령확대",
@@ -6001,7 +5993,15 @@
   "러시아등국제제재대상국에500억원상당중고차판일당인천세관에...",
   "'1900억부당이익혐의'방시혁,구속영장두번반려됐는데…결국검찰...",
   "성동구,행당7구역아기씨당논란일축…언론중재위제소방침",
-  "“일단가격은뛰었는데”…K-석화,中‘밀어내기수출’우려여전"
+  "“일단가격은뛰었는데”…K-석화,中‘밀어내기수출’우려여전",
+  "[기획]과잉설비줄이랬더니…석화재편효과언제나오나",
+  "[기획]석화재편딜레마…곳곳이난관",
+  "한화,KAI지분15.89%공정위심사넘었다",
+  "공정위,한화의KAI주식취득승인…\"지배력미확보로경쟁제한없어\"",
+  "공정위,한화-KAI주식취득승인…\"지배력확보수준아냐\"",
+  "[더트래커2026상반기정유·석화리포트⑤]롯데케미칼,첨단소재가만...",
+  "[속보]공정위,한화에어로스페이스·KAI기업결합승인",
+  "성동구,지난8월27일과28일연이어보도된행당7구역'아기씨당'관련..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "일단 여전 석화 가격은 수출 우려 밀어내기 뛰었는데"
   ]
  ],
- "last_run": "2026-08-31T14:11:00.395856+09:00",
+ "last_run": "2026-08-31T14:20:55.534020+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
