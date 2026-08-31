@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6565983",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534817",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260821111630vyF",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1397908",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101961",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715455&plink=ORI&cooper=NAVER",
-  "https://www.wikitree.co.kr/articles/1153855",
-  "https://www.ngonews.kr/news/articleView.html?idxno=235987",
-  "https://www.mediawatch.kr/news/article.html?no=260734",
-  "https://www.hani.co.kr/arti/society/society_general/1273996.html",
-  "https://kormedi.com/?p=2849990",
   "https://biz.heraldcorp.com/article/10847944",
   "https://www.koscaj.com/news/articleView.html?idxno=325982",
   "https://www.newsis.com/view/NISX20260821_0003757394",
@@ -2999,20 +2988,20 @@
   "https://www.bigtanews.co.kr/article/view/big202608310007",
   "https://www.news2day.co.kr/article/20260831500169",
   "https://biz.heraldcorp.com/article/10857566",
-  "https://magazine.hankyung.com/business/article/202608314003b"
+  "https://magazine.hankyung.com/business/article/202608314003b",
+  "https://www.news1.kr/society/incident-accident/6274886",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1400979",
+  "https://www.nocutnews.co.kr/news/6570723",
+  "https://www.mk.co.kr/article/12140386",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593427960417",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608310242&t=NN",
+  "https://www.gokorea.kr/news/articleView.html?idxno=876716",
+  "https://imnews.imbc.com/news/2026/econo/article/6848539_36932.html",
+  "https://www.sidae.com/article/2026083114244363779",
+  "https://www.newsis.com/view/NISX20260831_0003769796",
+  "https://www.news1.kr/society/court-prosecution/6274575"
  ],
  "seen_titles": [
-  "이혼소송불똥노태우가로…김옥숙자택압수수색",
-  "檢,'노태우비자금의혹'김옥숙여사자택등압수수색",
-  "검찰,'노태우전대통령비자금의혹'김옥숙자택등압수수색",
-  "검찰,'노태우비자금의혹'김옥숙여사연희동자택등압수수색",
-  "檢,'노태우비자금'강제수사착수…김옥숙여사자택등압수수색",
-  "빈소찾아온기후장관…가습기살균제유족\"우리에겐구제아닌배상이...",
-  "땅헐값매입청탁…20억뒷돈준지역주택조합대행사이사기소",
-  "검찰,'노태우비자금'김옥숙연희동자택등압수수색",
-  "검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
-  "수백억혈세지원했지만사후관리'깜깜'…부산전력반도체'빨간불'",
-  "검찰,'노태우비자금은닉의혹'강제수사...김옥숙여사자택압수수...",
   "검찰,'노태우비자금의혹'김옥숙자택등압수수색",
   "'노태우비자금의혹'김옥숙여사연희동자택압수수색",
   "'세기의이혼소송'불똥튀었다…노소영'비자금메모'에친정압수수...",
@@ -6001,7 +5990,18 @@
   "공정위,한화의KAI주식취득승인",
   "공정위,한화KAI지분15.89%취득승인...\"지배력확보수준아냐\"",
   "한화,KAI2대주주로…공정위“경쟁제한우려없어”",
-  "“하이브오너리스크본격화”방시혁검찰송치"
+  "“하이브오너리스크본격화”방시혁검찰송치",
+  "가습기살균제참사15주기1958명추모식…피해자들,'온전한배상'촉구",
+  "영풍·MBK\"대법,고려아연의의결권제한은위법으로판단\"",
+  "공정위,한화의KAI지분취득승인…\"지배력확보수준아냐\"",
+  "공정위,한화-KAI기업결합승인…“지배력확보수준아니다”",
+  "공정위,한화KAI지분확대‘허용’…“현단계선경영지배력없어”",
+  "공정위,한화‘KAI주식취득’승인...\"경쟁제한성없어\"",
+  "한화,KAI주식인수로항공우주시장선점할까-공정위승인완료",
+  "공정위,한화의KAI지분15.89%취득승인‥\"경쟁제한성없어\"",
+  "공정위,한화그룹'KAI주식15.89%취득'승인",
+  "공정위,한화-KAI기업결합승인…\"지배력확보아냐\"",
+  "[일지]'정교유착'한학자통일교총재1심선고까지"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "일단 여전 석화 가격은 수출 우려 밀어내기 뛰었는데"
   ]
  ],
- "last_run": "2026-08-31T15:10:54.429603+09:00",
+ "last_run": "2026-08-31T15:20:54.523505+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
