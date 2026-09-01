@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432630",
-  "https://www.newscj.com/news/articleView.html?idxno=3428857",
-  "https://www.viva100.com/article/20260831500545",
-  "https://www.ddaily.co.kr/page/view/2026083109471107699",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=88618",
-  "https://www.g-enews.com/view.php?ud=202608311054335133fbbec65dfb_1",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445972",
   "http://www.popcornnews.net/news/articleView.html?idxno=131270",
   "https://www.m-economynews.com/news/article.html?no=70255",
@@ -2999,15 +2993,15 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260901184754A17",
   "https://www.joongdo.co.kr/web/view.php?key=20260901010000347",
   "https://www.hellot.net/news/article.html?no=114695",
-  "https://www.hani.co.kr/arti/society/obituary/1275751.html"
+  "https://www.hani.co.kr/arti/society/obituary/1275751.html",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275978",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=852343",
+  "https://www.ekn.kr/web/view.php?key=20260901025429278",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311612408640040",
+  "https://www.mk.co.kr/article/12141673",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290854"
  ],
  "seen_titles": [
-  "한일상의회장단\"공급망·에너지안보손잡고,지역강점이어야\"",
-  "또정보유출…개보위,GS리테일·SKT등에130억원대철퇴",
-  "LS증권,반도체투톱‘엇갈린눈높이’…하이닉스27%↓·삼전12.5%↑",
-  "해커에뚫린GS리테일,과징금128억원'철퇴'",
-  "통신3사,위변조신분증근절위해'PASS'QR인증확산나서",
-  "韓반도체ETF에서1조3788억원이탈…규제장벽맞닥뜨린개미들",
   "SK하이닉스주가장중3%대내려,미국금리인상우려에삼성전자도약...",
   "SK온,美ESS시장서9GWh수주…네오볼타와18GWh협력추진",
   "국내최대육상풍력떴다...SK이터닉스,의성서99MW상업운전",
@@ -6001,7 +5995,13 @@
   "코스피6,800선회복…삼전닉스자사주매입효과",
   "[충남대,서울대10개국가대표로]교육-연구-산업연결'NEXUS'들여다보...",
   "[헬로스톡]9/1주목할종목:LG유플러스·SK텔레콤·SK이노베이션·현...",
-  "9월2일궂긴소식"
+  "9월2일궂긴소식",
+  "{ClosingMarket]KOSPIEdgesHigherAmidMixedTrading",
+  "[통신풍향계]SKT'에어20만회원'돌파·KT'로밍상품'개편·LGU+'AI...",
+  "“환경·에너지에서AI인프라로”…SK에코플랜트,4100억매각으로사업...",
+  "공정위,롯데렌탈TPG매각승인…롯데“10월내거래종결”",
+  "“6000밑은안갈것”…전문가7인‘비중축소’없었다[머니닥터시...",
+  "생산거점넓히는SK하이닉스…글로벌대응에총력"
  ],
  "recent_sigs": [
   [
@@ -7055,9 +7055,17 @@
   [
    "2026-09-01T19:01:20.800846+09:00",
    "소식 궂긴 9월2일"
+  ],
+  [
+   "2026-09-01T19:11:03.312825+09:00",
+   "6000밑은 비중 축소 7인 전문가 머니닥터 없었다"
+  ],
+  [
+   "2026-09-01T19:11:03.312825+09:00",
+   "대응에 총력 글로벌 SK하이닉스 넓히는 생산거점"
   ]
  ],
- "last_run": "2026-09-01T19:01:31.609702+09:00",
+ "last_run": "2026-09-01T19:11:11.826426+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
