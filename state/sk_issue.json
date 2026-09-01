@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260824500396",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83735",
-  "https://www.news1.kr/local/gwangju-jeonnam/6267709",
-  "http://www.joseilbo.com/news/news_read.php?uid=574364&class=32",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=120743",
-  "https://www.knnews.co.kr/news/articleView.php?idxno=1549229",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1330240",
   "https://www.ajunews.com/view/20260824153949856",
   "https://www.yna.co.kr/view/AKR20260824123000054?input=1195m",
@@ -2999,15 +2993,15 @@
   "http://www.4th.kr/news/articleView.html?idxno=2117277",
   "http://www.ikpnews.net/news/articleView.html?idxno=71331",
   "https://www.newsis.com/view/NISX20260901_0003772118",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=391832"
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=391832",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=852334",
+  "https://www.fnnews.com/news/202609011805047043",
+  "https://www.econovill.com/news/articleView.html?idxno=749563",
+  "https://www.sedaily.com/article/20085972",
+  "https://www.yna.co.kr/view/AKR20260901174300011?input=1195m",
+  "https://www.ajunews.com/view/20260901170608894"
  ],
  "seen_titles": [
-  "상조회사고위험자산투자깐깐해진다…선수금1000억원넘으면심의...",
-  "경찰,'대웅제약리베이트유출'압수수색...사측\"확인어렵다\"무응답",
-  "\"좋아해서\"직장동료차에태워빈집서16시간감금30대체포",
-  "종합특검\"쌍방울대북송금,대통령실개입시도…국정농단\"",
-  "'판촉비납품업체전가·반품까지'GS리테일'갑질',대법원\"과징금10억...",
-  "박완수캠프‘딥페이크·관권선거의혹’…전·현직공무원등4명구...",
   "HL만도사망유족,정몽원회장중처법위반고소·고발",
   "경찰\"축구협회심판성접대의혹,공소시효지나수사어려워\"",
   "광주경찰,'프로야구암표매크로'개발자·암표상검거",
@@ -6001,15 +5995,25 @@
   "공정위,이번엔장류담합정조준…5개사현장조사",
   "산란계협회법인취소'일단멈춤'",
   "헌재,내달7일재판소원첫변론…대법'심리불속행기각'쟁점",
-  "봉양순서울시의원\"검사수사지휘폐지한달앞…서울시특사경책임..."
+  "봉양순서울시의원\"검사수사지휘폐지한달앞…서울시특사경책임...",
+  "헌재,내달재판소원1호'녹십자담합'사건변론연다",
+  "\"대형유통사상품대금정산30일로단축\"",
+  "한화,KAI지분왜늘렸나…공정위승인에커지는'방산시너지'기대",
+  "헌재,‘재판취소1호’녹십자과징금사건내달7일첫공개변론",
+  "[연합뉴스이시각헤드라인]-18:00",
+  "SK렌터카이어롯데렌탈도사모펀드품…\"기업가치극대화vs가격경쟁\"..."
  ],
  "recent_sigs": [
   [
    "2026-09-01T14:32:53.872120+09:00",
    "차례 승인 롯데렌탈 막혔던 주식취득 매각 TPG"
+  ],
+  [
+   "2026-09-01T18:10:52.196041+09:00",
+   "사모펀드 극대화 가격경쟁 SK렌터카 롯데렌탈도 vs 이어 기업가치"
   ]
  ],
- "last_run": "2026-09-01T18:01:10.950010+09:00",
+ "last_run": "2026-09-01T18:10:58.347219+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
