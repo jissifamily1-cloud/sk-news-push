@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202608241602001",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=208016",
-  "https://www.idomin.com/news/articleView.html?idxno=2013010",
-  "https://www.etoday.co.kr/news/view/2617556",
-  "https://www.mt.co.kr/society/2026/08/24/2026082415340349233",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000059145",
-  "https://www.newsis.com/view/NISX20260824_0003760393",
-  "https://www.edaily.co.kr/News/Read?newsId=03798246645550600&mediaCodeNo=257",
   "https://www.hani.co.kr/arti/area/yeongnam/1274350.html",
   "https://www.mk.co.kr/article/12134917",
   "https://www.edaily.co.kr/News/Read?newsId=03804806645550600&mediaCodeNo=257",
@@ -2999,17 +2991,17 @@
   "http://www.jndn.com/article.php?aid=1788254758438850005",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651727",
   "https://www.news1.kr/society/court-prosecution/6276764",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263416&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263416&CMPT_CD=P0010",
+  "http://www.4th.kr/news/articleView.html?idxno=2117281",
+  "https://www.busan.com/view/busan/view.php?code=2026090118402131445",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=273174",
+  "https://news.tf.co.kr/read/economy/2360697.htm",
+  "https://www.newspim.com/news/view/20260901001218",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651731",
+  "https://www.munhwa.com/article/11613754",
+  "https://www.hankookilbo.com/news/article/A2026090117580004470?did=NA"
  ],
  "seen_titles": [
-  "백해룡경정,‘세관마약수사외압의혹’감사원직무감찰청구",
-  "공정위,상조회사선수금운용관리강화..선불식할부거래업자법준수...",
-  "경찰'박완수선거캠프딥페이크의혹'전·현직공무원구속영장신청",
-  "‘계엄저항’조성현·‘폭로’홍장원도기소…종합특검“가담책임...",
-  "180일수사마무리권창영특검…'홍장원·조성현'등공소유지주목",
-  "\"짝사랑해서\"…여성직장동료납치·감금한30대긴급체포",
-  "변호사대회서'檢보완수사폐지'우려쏟아져…\"사람이다쳐\"",
-  "주병기\"가맹점교섭요건과도…시행령수정안마련\"",
   "‘관권선거’개입관련전·현직경남도공무원등4명사전영장신청",
   "180일수사마무리한종합특검…결론못낸46건은국수본이첩",
   "종합특검,미제46건국수본으로…권창영\"상설특수본설치해야\"",
@@ -6001,7 +5993,15 @@
   "‘어선정책사업’업체선정특혜준일당검거",
   "검찰,‘TV조선재승인의혹’한상혁전방통위원장에징역형구형",
   "검찰,'TV조선재승인점수조작'한상혁에징역3년구형",
-  "대통령님은서영철회장의죽음에책임이있습니다"
+  "대통령님은서영철회장의죽음에책임이있습니다",
+  "공정위,쿠팡대규모현장조사..'빈손철수'일주일만",
+  "롯데렌탈공정위매각승인…롯데자금난해소될까",
+  "공정위,롯데렌탈매각승인…롯데,10월내거래종결예정",
+  "롯데,롯데렌탈매각10월내종결…1조3000억원유입",
+  "내달7일재판소원첫공개변론열린다…'1호정식심리'녹십자사건",
+  "공정위,쿠팡현장조사…‘공정거래법위반’혐의",
+  "‘결말까지15분’영화무단요약37억챙긴유튜버검찰송치",
+  "검찰,'TV조선점수조작'한상혁전방통위원장징역3년구형"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "사모펀드 극대화 가격경쟁 SK렌터카 롯데렌탈도 vs 이어 기업가치"
   ]
  ],
- "last_run": "2026-09-01T18:41:01.046448+09:00",
+ "last_run": "2026-09-01T18:50:58.388938+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
