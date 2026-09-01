@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260824124700052?input=1195m",
-  "https://www.chosun.com/national/incident/2026/08/24/DHONGSZLYRDRDBBLXVOT7UC4XY/",
-  "https://www.newsis.com/view/NISX20260824_0003760326",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261350&CMPT_CD=P0010",
-  "http://www.beyondpost.co.kr/view.php?ud=20260824160605342318ef25b590_30",
-  "https://www.newspim.com/news/view/20260824000996",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644340",
-  "https://www.asiatime.co.kr/article/20260824500184",
-  "https://www.busan.com/view/busan/view.php?code=2026082416020843110",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054293",
   "https://www.khan.co.kr/article/202608241602001",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=208016",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/News/Read?newsId=05215206645575856&mediaCodeNo=257",
   "https://www.mt.co.kr/society/2026/09/01/2026090117372924297",
   "https://www.cstimes.com/news/articleView.html?idxno=718976",
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19837"
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19837",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336826",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317583",
+  "https://www.news2day.co.kr/article/20260901500287",
+  "http://www.gndomin.com/news/articleView.html?idxno=487561",
+  "https://www.newscj.com/news/articleView.html?idxno=3429371",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651732",
+  "http://www.jndn.com/article.php?aid=1788254758438850005",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651727",
+  "https://www.news1.kr/society/court-prosecution/6276764"
  ],
  "seen_titles": [
-  "'딥페이크·관권선거의혹'경남도청전현직공무원등구속영장",
-  "‘공직선거법위반’혐의…경찰,손화정인천영종구청장수사",
-  "경찰,손화정영종구청장수사…위장전입·허위경력의혹",
-  "이례적으로발끈한종합특검,왜?",
-  "“육성하나대기업이성큼?”,,,러닝화‘호카’키운조이웍스‘비대...",
-  "경찰,손화정인천영종구청장선거법위반혐의수사",
-  "경찰,손화정인천영종구청장‘공직선거법위반’혐의수사",
-  "정몽원회장고소·고발…유족측\"HL만도중대재해실질책임자수사해...",
-  "경찰‘딥페이크·관권선거의혹’경남도전·현직공무원구속영장신...",
   "종합특검\"김건희명품백수수건수사무마정황…국수본에이첩\"",
   "백해룡경정,‘세관마약수사외압의혹’감사원직무감찰청구",
   "공정위,상조회사선수금운용관리강화..선불식할부거래업자법준수...",
@@ -6001,7 +5992,16 @@
   "헌재,'재판소원1호'녹십자사건다음달7일첫변론",
   "헌재,'재판소원1호'녹십자사건다음달공개변론",
   "롯데,렌탈·화학동시구조조정…올해자산매각1조7300억원",
-  "유승익\"경찰수사민주적통제,국가경찰위실질화ㆍ개방형경찰청장\""
+  "유승익\"경찰수사민주적통제,국가경찰위실질화ㆍ개방형경찰청장\"",
+  "경실련\"공정위,구글에8500억과징금부과하라\"",
+  "공정위,롯데렌탈매각승인…롯데,주총거쳐10월내거래종결",
+  "롯데,롯데렌탈매각확정…비주력사업‧자산정리속도",
+  "KAI노조\"한화,공정위승인면죄부아니다\"",
+  "공정위,글로벌사모펀드TPG의'롯데렌탈인수'승인…\"렌터카시장경...",
+  "경찰,국립전통예중·고채용비리정황추가포착…교사주거지등압...",
+  "‘어선정책사업’업체선정특혜준일당검거",
+  "검찰,‘TV조선재승인의혹’한상혁전방통위원장에징역형구형",
+  "검찰,'TV조선재승인점수조작'한상혁에징역3년구형"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "사모펀드 극대화 가격경쟁 SK렌터카 롯데렌탈도 vs 이어 기업가치"
   ]
  ],
- "last_run": "2026-09-01T18:21:01.475686+09:00",
+ "last_run": "2026-09-01T18:31:01.954375+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
