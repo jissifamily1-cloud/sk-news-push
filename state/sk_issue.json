@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644356",
-  "http://www.newstomato.com/ReadNews.aspx?no=1311199&inflow=N",
-  "https://www.ajunews.com/view/20260824154009857",
   "https://www.joongdo.co.kr/web/view.php?key=20260824010006811",
   "https://www.seoul.co.kr/news/society/2026/08/24/20260824500189?wlog_tag3=naver",
   "https://www.inews365.com/news/article.html?no=932872",
@@ -2999,12 +2996,12 @@
   "https://www.newdaily.co.kr/site/data/html/2026/09/01/2026090100359.html",
   "https://www.ytn.co.kr/_ln/0103_202609011907172783",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260901.99099000372",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311612408640040"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608311612408640040",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722581",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651825",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651818"
  ],
  "seen_titles": [
-  "종합특검,윤석열등58명기소…미처리사건46건다시경찰로",
-  "2차종합특검끝나자…'조작기소특검'9월처리군불",
-  "[종합특검수사마무리]미완사건46건국수본이첩…공소유지도시험...",
   "[풍경소리]선관위개혁이어려운이유",
   "매크로로야구표싹쓸이한일당검거…범죄수익8500만원추징",
   "종합특검,尹부부등58명기소…180일수사마무리",
@@ -6001,7 +5998,10 @@
   "서민위,한국노총과국회서기자회견…\"李대북송금수사·재판해야\"",
   "'재판소원1호'녹십자입찰담합다음달7일첫변론",
   "간장·된장가격도‘짬짜미’?…공정위,5개사대해조사시작",
-  "공정위,롯데렌탈TPG매각승인…롯데“10월내거래종결”"
+  "공정위,롯데렌탈TPG매각승인…롯데“10월내거래종결”",
+  "헌재,'재판소원1호'녹십자사건변론연다",
+  "공정위,‘장류담합’혐의5개업체현장조사",
+  "[여기는진주]공정위,한화KAI주식취득승인…노조“재검토”외"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "사모펀드 극대화 가격경쟁 SK렌터카 롯데렌탈도 vs 이어 기업가치"
   ]
  ],
- "last_run": "2026-09-01T19:31:06.056828+09:00",
+ "last_run": "2026-09-01T19:40:57.713719+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
