@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260715519566?OutUrl=naver",
-  "https://www.seoul.co.kr/news/peoples/2026/07/16/20260716023007?wlog_tag3=naver",
-  "https://www.jejumaeil.net/news/articleView.html?idxno=402790",
   "https://www.cbci.co.kr/news/articleView.html?idxno=593493",
   "https://view.asiae.co.kr/article/2026073109550148657",
   "https://www.ytn.co.kr/_ln/0103_202608160633429101",
@@ -2999,12 +2996,12 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245343",
   "https://www.khan.co.kr/article/202609011454011",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609010524&t=NNv",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5216182"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5216182",
+  "https://sports.donga.com/economy/article/all/20260901/134583516/1",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358257",
+  "http://www.bizwnews.com/news/articleView.html?idxno=144941"
  ],
  "seen_titles": [
-  "[제약업계소식]7월24일",
-  "분당서울대병원'중증소아전원플랫폼'가동…“골든타임확보”",
-  "[이슈]최태원,AI들여만놔선안돼...업무'재설계'주문",
   "AI는우리경제큰물결…“일하는방식자체를재설계해야”",
   "“AI들인다고저절로성과안나,업무방식새로짜야”",
   "AI대전환시대,한국경제성장해법묻는다",
@@ -6001,7 +5998,10 @@
   "두달전에도부인했는데,최태원또꺼낸'일본반도체공장'",
   "오늘의부고-이형희SK㈜부회장장모상외",
   "일본반도체공장'낸드'유력…최태원의노림수는HBF",
-  "HBM4존재감커졌다…목표가삼성전자40만→45만원·하이닉스330만→..."
+  "HBM4존재감커졌다…목표가삼성전자40만→45만원·하이닉스330만→...",
+  "[부고]이형희씨장모상",
+  "최태원'日반도체합작공장설'선그은SK…\"투자계획검토단계\"",
+  "[부고]이형희(SK㈜부회장)씨빙모상"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-09-01T15:10:14.524078+09:00",
    "커졌다 목표가 45만 존재감 330만 HBM4 40만 삼성전자 하이닉스"
+  ],
+  [
+   "2026-09-01T15:20:15.839328+09:00",
+   "빙모상 부회장"
   ]
  ],
- "last_run": "2026-09-01T15:10:26.394925+09:00",
+ "last_run": "2026-09-01T15:20:29.290218+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
