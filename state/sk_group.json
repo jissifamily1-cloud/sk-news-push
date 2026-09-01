@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=321749",
-  "http://www.kwangju.co.kr/article.php?aid=1788103200802802074",
-  "https://www.chosun.com/economy/real_estate/2026/08/31/6J2YQ5N2FFFE7A6QM55LDM574Y/",
-  "https://www.chosun.com/economy/tech_it/2026/08/31/O27LXNMKBNESDMB2GITYEQ443U/",
-  "https://www.chosun.com/economy/economy_general/2026/08/31/QFYS4DETQVG2LC47N7MOM5U5YU/",
-  "https://www.donga.com/news/Economy/article/all/20260830/134571785/2",
-  "https://www.donga.com/news/Economy/article/all/20260830/134571806/2",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000007478&cp=nv",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3678847",
-  "https://mhnse.com/news/articleView.html?idxno=1515212",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000007471&cp=nv",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000007472&cp=nv",
   "https://www.cbci.co.kr/news/articleView.html?idxno=602292",
@@ -2999,19 +2989,19 @@
   "https://www.newscj.com/news/articleView.html?idxno=3429067",
   "https://www.newspim.com/news/view/20260901000422",
   "https://www.edaily.co.kr/News/Read?newsId=03991766645575856&mediaCodeNo=257",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7181126"
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7181126",
+  "https://www.etoday.co.kr/news/view/2620518",
+  "https://www.g-enews.com/view.php?ud=202609011308029577923c501012_1",
+  "https://www.ajunews.com/view/20260901130931901",
+  "https://www.inthenews.co.kr/news/article.html?no=91246",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3681051",
+  "https://news.skbroadband.com/news/articleView.html?idxno=236531",
+  "https://www.thepublic.kr/news/articleView.html?idxno=317057",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1178933",
+  "http://www.newsdream.kr/news/articleView.html?idxno=117263",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275942"
  ],
  "seen_titles": [
-  "경제·부동산라인교체…‘책임론’컸던김용범은남아",
-  "'치나리누구야?'첫선발부터1골1도움...제주SK,대전3-1잡고4위점...",
-  "12년만에군공항이전후보지결정“환영”",
-  "전남광주복합개발프로젝트‘첫주거단지’",
-  "中CXMT,매출874%급증…D램공장3곳늘린다",
-  "‘삼전닉스레버리지’규제한달…개미1조7000억원어치순매도",
-  "단일종목레버리지규제한달…하루거래대금19분의1로급감",
-  "‘삼전닉스’상반기법인세11조넘어역대2번째",
-  "美,캐나다관세…완성차는‘담담’,부품업계는‘한숨’",
-  "삼성·SK하이닉스상반기법인세11조돌파…전년比167%급증",
   "“드디어결실”이상희,9년만에프로무대우승컵번쩍..일본투어는...",
   "삼전닉스,상반기법인세만11조2000억…연간100조전망도",
   "매서운CXMT,차세대모바일D램양산…美에도소송",
@@ -6001,7 +5991,17 @@
   "[창간17주년기획]더똑똑해지는AI,더의지하는인간",
   "[단독]YMTC낸드추격'핵심2인방'···삼성·하이닉스출신이었다",
   "\"해외서스테이블코인으로'삼전닉스'주식투자\",싱가포르서첫선",
-  "[K증시돋보기]'자사주소각'대세…주주환원마중물될까"
+  "[K증시돋보기]'자사주소각'대세…주주환원마중물될까",
+  "코스피,반등해6800선수성…삼전·SK하닉강보합",
+  "코스피,외인·기관1.4조‘팔자’...6800선‘줄다리기’",
+  "[食전食후]코스피,외인·기관매도에도반도체반등에강보합…코스닥...",
+  "하나증권,해외투자자유치잰걸음…푸투증권VIP초청세미나성료",
+  "SK오션플랜트매각최종합의…경남고성군\"기회발전특구지정해제검...",
+  "반도체성과급에평택·용인소비최대4%늘어",
+  "\"그때그감성,지금은힙하다\"…10대부터60대까지사로잡은'90년대뉴...",
+  "SK디앤디주가,상한가...왜?",
+  "[드림Talk]SK건설의두번째변신…지속가능성관건",
+  "PolicyChiefKimYong-beomResignsOverLeveragedETFControversy"
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,25 @@
   [
    "2026-09-01T13:11:03.990164+09:00",
    "주주환원 대세 자사주 소각 될까 마중물"
+  ],
+  [
+   "2026-09-01T13:21:02.913769+09:00",
+   "감성 사로잡은 10대부터 지금은 힙하다 90년대 그때 60대까지"
+  ],
+  [
+   "2026-09-01T13:21:02.913769+09:00",
+   "상한가 주가 SK디앤디"
+  ],
+  [
+   "2026-09-01T13:21:02.913769+09:00",
+   "SK건설의 변신 번째 지속가능성 관건"
+  ],
+  [
+   "2026-09-01T13:21:02.913769+09:00",
+   "Over Controversy Leveraged Kim Yong Resigns Chief ETF Policy beom"
   ]
  ],
- "last_run": "2026-09-01T13:11:25.792877+09:00",
+ "last_run": "2026-09-01T13:21:16.971373+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
