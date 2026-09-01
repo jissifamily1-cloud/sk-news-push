@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275848",
-  "https://www.thelec.kr/news/articleView.html?idxno=61523",
-  "https://www.m-i.kr/news/articleView.html?idxno=1407907",
-  "https://www.naeil.com/news/read/600565",
-  "http://www.ktnews.com/news/articleView.html?idxno=148066",
   "https://www.naeil.com/news/read/600534",
   "https://www.itbiznews.com/news/articleView.html?idxno=223263",
   "https://www.joongangenews.com/news/articleView.html?idxno=543950",
@@ -2999,14 +2994,14 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236559",
   "https://www.dailian.co.kr/news/view/1685239/?sc=Naver",
   "https://www.hankyung.com/article/2026090173606",
-  "https://www.newspim.com/news/view/20260901001274"
+  "https://www.newspim.com/news/view/20260901001274",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005913263",
+  "https://www.kyeonggi.com/article/20260902580003",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52522",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94615",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443708"
  ],
  "seen_titles": [
-  "4대그룹임원주식1조돌파...삼성·SK에98%집중",
-  "SK이터닉스,국내최대99MW육상풍력상업운전",
-  "4대그룹임원398명'주식10억클럽'…삼전닉스91%",
-  "‘개인정보유출’GS리테일,과징금128억원",
-  "성수동고릴라,선선해진9월성수동팝업리스트",
   "SK온미국서대형배터리셀공급계약",
   "개보위,개인정보유출사고GS리테일에과징금128억원",
   "SKT·KT·LGU+,모바일신분증위·변조막는다…PASSQR검증확산",
@@ -6001,7 +5996,12 @@
   "역대급호황에못웃는SK하이닉스하청노동자들",
   "용혜인,안산주택'단타'…中국적자에팔아2000만원차익등[9/2(수)...",
   "\"김용범사퇴로끝날일아니다\"…삼전닉스레버리지정조준[분석+]",
-  "전국광역단체장9월2일일정"
+  "전국광역단체장9월2일일정",
+  "500대기업상반기평균급여5,499만원…금융지주·증권'고연봉'독식",
+  "대기업상반기평균급여5천499만원…전년대비7.1%늘었다",
+  "[인터뷰]신성엽원림대표\"100년,200년영속기업으로정진\"",
+  "메리츠證\"SK하닉자사주신고물량21.6%소화\"…10월16일완료전망",
+  "뉴욕증시,미국과이란교전재개와인플레우려등영향하락⋯엔비디아..."
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,21 @@
   [
    "2026-09-02T06:51:07.621997+09:00",
    "2일 일정 광역단체장 9월 전국"
+  ],
+  [
+   "2026-09-02T07:01:01.607370+09:00",
+   "영속 정진 신성엽 100년 200년 대표 원림 기업으로"
+  ],
+  [
+   "2026-09-02T07:01:01.607370+09:00",
+   "자사주 SK하닉 물량 완료 신고 소화 10월16일 메리츠 전망"
+  ],
+  [
+   "2026-09-02T07:01:01.607370+09:00",
+   "인플레 미국과 엔비디아 우려 뉴욕증시 교전재개와 하락 이란 영향"
   ]
  ],
- "last_run": "2026-09-02T06:51:37.091633+09:00",
+ "last_run": "2026-09-02T07:01:12.836261+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
