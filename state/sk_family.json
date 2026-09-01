@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1678889/?sc=Naver",
-  "https://www.donga.com/news/Economy/article/all/20260815/134483410/1",
-  "https://news.tf.co.kr/read/economy/2354624.htm",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545307",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83279",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545331",
   "http://www.lawissue.co.kr/view.php?ud=202608151926238589204ead0791_12",
   "https://www.g-enews.com/view.php?ud=202608151916586390e30fcb1ba8_1",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590110.html",
@@ -2999,15 +2993,15 @@
   "http://www.whosaeng.com/173292",
   "http://www.yonhapnewstv.co.kr/news/MYH20260901093808dZJ",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2284860",
-  "http://www.inews24.com/view/2000293"
+  "http://www.inews24.com/view/2000293",
+  "https://www.ekn.kr/web/view.php?key=20260901020558935",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7181681",
+  "https://www.sedaily.com/article/20085614",
+  "http://www.inews24.com/view/2000295",
+  "https://www.sedaily.com/article/20085613",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406312"
  ],
  "seen_titles": [
-  "장고끝재상고선택한최태원…재계는‘9440억분할’놓고뒷말",
-  "[데일리안오늘뉴스종합]최태원'9440억재산분할'재상고,李,3대'평...",
-  "‘9440억’재산분할소송새국면…“최회장주식·현금제안에노관...",
-  "최태원·노소영재산분할,다시대법으로…반도체기여논란'재점화'",
-  "최태원“전액현금못줘”…다시대법으로",
-  "[이슈포인트]소송끝낼절충안도무산…노소영'현금9440억'고수에다...",
   "최태원,밤11시59분“재상고”…인지대만66억원",
   "최태원,9440억원재산분할판결에재상고…현금지급방식도쟁점",
   "최태원,9440억재산분할재상고…법리·재원부담고려",
@@ -6001,7 +5995,13 @@
   "서울서남권난임·임산부심리상담지원확대",
   "9월첫날중부곳곳비…남부체감33도폭염",
   "서울서남권역난임·임산부심리상담센터,양천센터개소식개최",
-  "[최태원의선택①]38세에SK지휘봉…28년만에'AI제국'으로"
+  "[최태원의선택①]38세에SK지휘봉…28년만에'AI제국'으로",
+  "서울서남권역난임·임산부심리상담센터양천센터개소식",
+  "이대목동병원,난임·임산부심리상담센터양천센터개소",
+  "HBM4공급본격화에메모리값폭등…HBM사상첫70달러돌파",
+  "[최태원의선택②]하이닉스잘나갈때…SK그룹'AI대전환'승부수",
+  "HBM경쟁판도바뀌나…삼성전자웃고SK하이닉스울었다?",
+  "최태원日반도체투자발언논란…SK\"합작공장검토한적없다\""
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,25 @@
   [
    "2026-09-01T10:10:14.211356+09:00",
    "으로 28년 38세에 제국 만에 AI 지휘봉"
+  ],
+  [
+   "2026-09-01T10:20:16.517879+09:00",
+   "메모리값 공급 70달러 돌파 HBM4 본격화에 HBM 사상 폭등"
+  ],
+  [
+   "2026-09-01T10:20:16.517879+09:00",
+   "AI 하이닉스 승부수 잘나갈 대전환"
+  ],
+  [
+   "2026-09-01T10:20:16.517879+09:00",
+   "울었다 판도 SK하이닉스 웃고 바뀌나 삼성전자 경쟁 HBM"
+  ],
+  [
+   "2026-09-01T10:20:16.517879+09:00",
+   "합작공장 반도체 투자 검토한 없다 논란 발언"
   ]
  ],
- "last_run": "2026-09-01T10:10:25.222349+09:00",
+ "last_run": "2026-09-01T10:20:36.415642+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
