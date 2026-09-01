@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260816084644kff",
-  "https://www.segye.com/newsView/20260816504518?OutUrl=naver",
-  "https://www.joongang.co.kr/article/25453658",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43058",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315097",
   "https://magazine.hankyung.com/business/article/202608163770b",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051700",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=88010",
@@ -2999,14 +2994,14 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=636973",
   "https://www.ajunews.com/view/20260901132408929",
   "http://www.doctorstimes.com/news/articleView.html?idxno=239756",
-  "https://www.kyeonggi.com/article/20260901580325"
+  "https://www.kyeonggi.com/article/20260901580325",
+  "https://biz.sbs.co.kr/article_hub/20000332106?division=NAVER",
+  "https://www.catholictimes.org/article/20260827500116",
+  "https://www.hankookilbo.com/news/article/A2026090115510001417?did=NA",
+  "https://www.newsis.com/view/NISX20260901_0003771984",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7181836"
  ],
  "seen_titles": [
-  "(이번주법조일정)8월17일~8월21일",
-  "[두산,SK실트론인수후]박정원회장,흡수합병유력…'지주사리스크...",
-  "극한가뭄에반도체용수까지…물확보'비상'",
-  "[프리즘]\"올해유독더워\"…폭염견딘취약계층·야외노동자",
-  "“안팔길잘했네”…‘삼전닉스’주주환원,연간300조가능할까?[수...",
   "‘300조’돈벼락주주에내리나…삼전닉스주가가를핵심변수는",
   "최태원,9440억원지급검토했으나결국재상고…'주가하락분까지보...",
   "끝난줄알았던'세기의이혼'다시대법원으로…최태원회장재상고",
@@ -6001,7 +5996,12 @@
   "[2026국감프리뷰]野,메가프로젝트검증총력···\"李·崔이어전영...",
   "선혜원한옥속보이지않는'거미'…흔들리는것들의안부",
   "[병원계소식]9월1일",
-  "“실신인줄알았는데심정지”…119영상통화가살린공장근로자"
+  "“실신인줄알았는데심정지”…119영상통화가살린공장근로자",
+  "[증시인사이트]코스피,삼전·닉스자사주매입이지탱…9월반전기대...",
+  "‘순교자성월’맞은갤러리1898전시눈길",
+  "BTS가춤추고간그2층한옥,허공에유리구슬꿴거미줄매달렸다",
+  "최성환SK네트웍스사장,보유주식대부분장내매도…지분율0.01%로",
+  "[부고]이형희(SK그룹부회장)씨장모상"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-09-01T16:10:14.879992+09:00",
    "전영 총력 검증 이어 메가프로젝트"
+  ],
+  [
+   "2026-09-01T16:50:13.783552+09:00",
+   "장내매도 대부분 사장 보유 SK네트웍스 지분율 주식"
   ]
  ],
- "last_run": "2026-09-01T16:40:26.884599+09:00",
+ "last_run": "2026-09-01T16:50:28.689313+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
