@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=272833",
-  "https://news.tf.co.kr/read/economy/2359831.htm",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60796",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860829",
   "https://www.youthdaily.co.kr/news/article.html?no=226058",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1330818",
   "https://www.g-enews.com/view.php?ud=202608311312287028923c501012_1",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1685131/?sc=Naver",
   "https://dealsite.co.kr/articles/168051",
   "http://www.newskr.kr/news/articleView.html?idxno=106039",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=88599"
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=88599",
+  "https://www.hankyung.com/article/2026090281486",
+  "http://www.lkp.news/news/articleView.html?idxno=83525",
+  "https://www.public25.com/news/articleView.html?idxno=53853",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005913272"
  ],
  "seen_titles": [
-  "네이버페이·SK에너지,'주유소고객혜택확대위한업무협약'체결",
-  "최태원\"한일경제연대필요…더큰시장·산업생태계만들자\"",
-  "'반도체성과급'수혜지역소비최대4%↑...\"고가품편중\"",
-  "최태원\"한일합치면GDP6조달러\"공급망협력제안",
   "'반도체성과급'의힘…한은\"내년GDP성장률최고0.09%p↑\"",
   "이천시,민선9기공약이행계획확정…2030년까지1조4595억원투입",
   "코스피,6700선회복‘줄다리기’...1%대약세",
@@ -6001,7 +5997,11 @@
   "개미는레버리지에데이고김용범은떠났다[기자수첩-증권]",
   "[한앤코의SK디앤디]유증에신용홀로서기까지…한앤코부담커졌다",
   "[오늘의이슈]물가3%대복귀,미금리도갈림길",
-  "삼성디스플레이,아산에67조원단계적투자…OLED·차세대디스플레이..."
+  "삼성디스플레이,아산에67조원단계적투자…OLED·차세대디스플레이...",
+  "중동긴장유가급등에채권매도세까지…美반도체주하락[뉴욕증시...",
+  "SK에코플랜트,해양풍력매각·에코엔지니어링합병…'반도체·AI'로체...",
+  "뉴욕증시,미·이란교전재개에하락다우0.8%·나스닥1.03%↓...국제유...",
+  "증시오늘'핫이슈'…\"AI가성공해도,혹은실패해도미국채금리는떨..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-09-02T07:21:03.743711+09:00",
    "디스플레이 단계적 OLED 삼성디스플레이 투자 아산에 67조원 차세대"
+  ],
+  [
+   "2026-09-02T07:31:16.770853+09:00",
+   "혹은 핫이슈 AI가 국채금리는 증시 실패해도 성공해도"
   ]
  ],
- "last_run": "2026-09-02T07:21:20.429439+09:00",
+ "last_run": "2026-09-02T07:31:23.088752+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
