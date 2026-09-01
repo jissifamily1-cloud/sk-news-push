@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432640",
-  "https://www.fnnews.com/news/202608310947301380",
-  "http://www.nongaek.com/news/articleView.html?idxno=96611",
-  "https://www.gokorea.kr/news/articleView.html?idxno=876677",
-  "https://www.news1.kr/finance/general-stock/6274533",
   "https://www.kizmom.com/news/articleView.html?idxno=112435",
   "https://www.hankookilbo.com/news/article/A2026083110560002250?did=NA",
   "https://www.fnnews.com/news/202608311109007703",
@@ -2999,14 +2994,14 @@
   "https://www.veritas-a.com/news/articleView.html?idxno=625662",
   "https://www.veritas-a.com/news/articleView.html?idxno=625661",
   "http://www.bizwnews.com/news/articleView.html?idxno=144902",
-  "http://coinreaders.com/255947"
+  "http://coinreaders.com/255947",
+  "https://www.newsis.com/view/NISX20260823_0003758648",
+  "https://www.tjb.co.kr/news05/bodo/view/id/103085",
+  "https://www.greened.kr/news/articleView.html?idxno=348994",
+  "http://www.kjdaily.com/article.php?aid=1788263772685763227",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446160"
  ],
  "seen_titles": [
-  "SK하이닉스,日합자공장검토…최태원\"충분한전력과수자원\"고려",
-  "내년1월부터SK주유소서네이버페이포인트적립",
-  "성과급자사주덕에...삼성·SK'주식10억클럽'임원들수두룩",
-  "코스피,美금리인상우려에3.5%급락후낙폭축소…반도체株약세",
-  "예탁원\"9월에상장사38곳2억2948만주의무보유해제\"",
   "GS리테일개인정보대규모유출…166만명피해·과징금128억원",
   "시간·키워드입력하면SKT'에이닷'이그때그사진찾아준다",
   "[특징주]SK텔레콤,차익실현매물몰리며7%급락",
@@ -6001,41 +5996,14 @@
   "[2027과고경쟁률]충남2.78대1'상승'",
   "[2027과고경쟁률]대구일2.89대1'상승'",
   "하나증권,'DiscoverKorea'행사마쳐",
-  "마이크론전망극과극!최저360달러·최고3,500달러"
+  "마이크론전망극과극!최저360달러·최고3,500달러",
+  "제주사회적가치기업성과만큼보상받는다…2억4천만원지원",
+  "(R)\"충남대,서울대10개선봉\"\"..5년간3,500억지원",
+  "67조'아산투자'첫발…삼성디스플레이,2028년6월까지신규라인구축",
+  "[주식마감]JW신약·현대약품상한가…삼성전자·SK하이닉스도상승",
+  "[9월2일자]비즈니스포스트아침의주요기사"
  ],
  "recent_sigs": [
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "주유카드 기업은행 OIL 법인 출시 고유가에"
-  ],
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "HBM4 45만 하이닉스 330만 존재감 커졌다 삼성전자 40만 목표가"
-  ],
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "낸드 ETF CPU 반도체 핀셋 쏟아진다 각개전투 HBM 투자도"
-  ],
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "베선트 엔화 엇박자 약세 심상찮은 워시"
-  ],
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "지분 SK텔레콤 통신주 단순 엔트로픽 AI 탈피하고 기지국 8조"
-  ],
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "2026서 선보여 ICT 플랫폼 랩오투원 베슬링크 WEEK 통합 해운"
-  ],
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "Societe rally Generale chips beyond AI Korea go must"
-  ],
-  [
-   "2026-09-01T15:01:15.233086+09:00",
-   "메모 오늘의"
-  ],
   [
    "2026-09-01T15:11:03.457034+09:00",
    "뚫는다 메모리 CUBE 3D 전략 공개 한계 삼성전자"
@@ -6875,9 +6843,17 @@
   [
    "2026-09-01T20:51:04.628208+09:00",
    "360달러 최고 전망 마이크론 최저 500달러 극과"
+  ],
+  [
+   "2026-09-01T21:01:21.638834+09:00",
+   "상승 JW신약 상한가 삼성전자 SK하이닉스도 현대약품"
+  ],
+  [
+   "2026-09-01T21:01:21.638834+09:00",
+   "주요기사 아침의 비즈니스포스트"
   ]
  ],
- "last_run": "2026-09-01T20:51:23.470902+09:00",
+ "last_run": "2026-09-01T21:01:31.143484+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
