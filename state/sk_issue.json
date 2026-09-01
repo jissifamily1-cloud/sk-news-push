@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1330240",
-  "https://www.ajunews.com/view/20260824153949856",
-  "https://www.yna.co.kr/view/AKR20260824123000054?input=1195m",
-  "https://www.sportschosun.com/football/2026-08-24/202608240100141980009071",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490161.html",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261183&CMPT_CD=P0010",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072962",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032457",
   "https://www.yna.co.kr/view/AKR20260824124700052?input=1195m",
   "https://www.chosun.com/national/incident/2026/08/24/DHONGSZLYRDRDBBLXVOT7UC4XY/",
   "https://www.newsis.com/view/NISX20260824_0003760326",
@@ -2999,17 +2991,17 @@
   "https://www.econovill.com/news/articleView.html?idxno=749563",
   "https://www.sedaily.com/article/20085972",
   "https://www.yna.co.kr/view/AKR20260901174300011?input=1195m",
-  "https://www.ajunews.com/view/20260901170608894"
+  "https://www.ajunews.com/view/20260901170608894",
+  "https://www.joongangenews.com/news/articleView.html?idxno=544724",
+  "https://imnews.imbc.com/news/2026/econo/article/6848898_36932.html",
+  "https://www.nocutnews.co.kr/news/6571698",
+  "https://www.fnnews.com/news/202609011810470511",
+  "https://www.edaily.co.kr/News/Read?newsId=05215206645575856&mediaCodeNo=257",
+  "https://www.mt.co.kr/society/2026/09/01/2026090117372924297",
+  "https://www.cstimes.com/news/articleView.html?idxno=718976",
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19837"
  ],
  "seen_titles": [
-  "HL만도사망유족,정몽원회장중처법위반고소·고발",
-  "경찰\"축구협회심판성접대의혹,공소시효지나수사어려워\"",
-  "광주경찰,'프로야구암표매크로'개발자·암표상검거",
-  "日에이어中도,KFA성접대의혹에전격조사진행한중국축구협회\"증...",
-  "'위장전입의혹'…경찰,손화정영종구청장수사",
-  "[단독]이화영\"국정원자료제대로제출됐다면유죄가능했겠나\"",
-  "고김승모대책위\"HL그룹정몽원중대재해법입건하라\"",
-  "'위장전입의혹'손화정영종구청장수사착수",
   "'딥페이크·관권선거의혹'경남도청전현직공무원등구속영장",
   "‘공직선거법위반’혐의…경찰,손화정인천영종구청장수사",
   "경찰,손화정영종구청장수사…위장전입·허위경력의혹",
@@ -6001,7 +5993,15 @@
   "한화,KAI지분왜늘렸나…공정위승인에커지는'방산시너지'기대",
   "헌재,‘재판취소1호’녹십자과징금사건내달7일첫공개변론",
   "[연합뉴스이시각헤드라인]-18:00",
-  "SK렌터카이어롯데렌탈도사모펀드품…\"기업가치극대화vs가격경쟁\"..."
+  "SK렌터카이어롯데렌탈도사모펀드품…\"기업가치극대화vs가격경쟁\"...",
+  "공정위,장류5개사현장조사…CJ·대상·샘표·풀무원·사조담합의혹",
+  "공정위,CJ·대상·풀무원등5개사현장조사‥장류담합의혹",
+  "헌재,재판소원도입후첫변론연다…녹십자'백신담합'사건",
+  "檢폐지이후에는3중구조…로펌,담합사건대응달라진다",
+  "헌재,'재판소원1호'녹십자사건다음달7일첫변론",
+  "헌재,'재판소원1호'녹십자사건다음달공개변론",
+  "롯데,렌탈·화학동시구조조정…올해자산매각1조7300억원",
+  "유승익\"경찰수사민주적통제,국가경찰위실질화ㆍ개방형경찰청장\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "사모펀드 극대화 가격경쟁 SK렌터카 롯데렌탈도 vs 이어 기업가치"
   ]
  ],
- "last_run": "2026-09-01T18:10:58.347219+09:00",
+ "last_run": "2026-09-01T18:21:01.475686+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
