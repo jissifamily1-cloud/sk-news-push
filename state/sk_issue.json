@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.korea.kr/news/policyNewsView.do?newsId=148970530&call_from=naver_news",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315941",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=316783",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315929",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315925",
-  "https://gj.newdaily.co.kr/site/data/html/2026/08/24/2026082400227.html",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594679353880",
   "http://www.metroseoul.co.kr/article/20260824500396",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83735",
   "https://www.news1.kr/local/gwangju-jeonnam/6267709",
@@ -2999,16 +2992,16 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=741897",
   "https://biz.heraldcorp.com/article/10858909",
   "https://www.dailian.co.kr/news/view/1685100/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20260901178700004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260901178700004?input=1195m",
+  "https://www.sentv.co.kr/article/view/sentv202608310151",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/01/2026090100352.html",
+  "https://www.mk.co.kr/article/12141624",
+  "http://www.4th.kr/news/articleView.html?idxno=2117277",
+  "http://www.ikpnews.net/news/articleView.html?idxno=71331",
+  "https://www.newsis.com/view/NISX20260901_0003772118",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=391832"
  ],
  "seen_titles": [
-  "상조회사선수금운용관리강화…소비자납입금보호한다",
-  "공정위제재맞선GS리테일…'부당반품'소송대법원서패소",
-  "\"내란세력과의전쟁은이제시작\"…권창영특검'상설특수본'제안",
-  "노웅래2심도무죄에여권\"조작수사\"...야권\"이재명공소취소명분쌓...",
-  "[선관위게이트]선관위특검오늘업무개시...투표용지부족·통계조...",
-  "광주경찰,프로야구암표판매일당19명검거…매크로개발자도적발",
-  "공정위,상조선수금관리강화…‘11조원대소비자돈지킨다’",
   "상조회사고위험자산투자깐깐해진다…선수금1000억원넘으면심의...",
   "경찰,'대웅제약리베이트유출'압수수색...사측\"확인어렵다\"무응답",
   "\"좋아해서\"직장동료차에태워빈집서16시간감금30대체포",
@@ -6001,7 +5994,14 @@
   "[이슈]'통일교정교유착'한학자징역2년…합수본수사종료,신천지...",
   "[단독]한동훈의추미애고소무혐의일단락…檢‘尹고발사주모의’...",
   "대법,'황의조수사정보유출'경찰실형파기환송…\"증거부족\"",
-  "검찰,'TV조선점수조작의혹'한상혁前방통위원장에징역3년구형"
+  "검찰,'TV조선점수조작의혹'한상혁前방통위원장에징역3년구형",
+  "두달새공정위제재두번…경동나비엔,상생경영‘흔들’",
+  "렌터카1·2위결합불허했던공정위,TPG의롯데렌탈인수최종승인…...",
+  "대형유통사'늑장정산'막는다…대금지급기한60일→35일단축",
+  "공정위,이번엔장류담합정조준…5개사현장조사",
+  "산란계협회법인취소'일단멈춤'",
+  "헌재,내달7일재판소원첫변론…대법'심리불속행기각'쟁점",
+  "봉양순서울시의원\"검사수사지휘폐지한달앞…서울시특사경책임..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "차례 승인 롯데렌탈 막혔던 주식취득 매각 TPG"
   ]
  ],
- "last_run": "2026-09-01T17:50:58.133244+09:00",
+ "last_run": "2026-09-01T18:01:10.950010+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
