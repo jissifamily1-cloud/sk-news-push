@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260815195059t8Z",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212742",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212729",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1534192",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065611017914082",
@@ -2999,11 +2997,11 @@
   "https://www.viva100.com/article/20260901500411",
   "https://www.sportschosun.com/entertainment/2026-09-01/202609010100005090000110",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=272660",
-  "https://www.kpanews.co.kr/news/articleView.html?idxno=542176"
+  "https://www.kpanews.co.kr/news/articleView.html?idxno=542176",
+  "http://www.queen.co.kr/news/articleView.html?idxno=462602",
+  "https://www.mediapen.com/news/view/1120316"
  ],
  "seen_titles": [
-  "최태원'9440억'판결에재상고…'시간벌기'해석도",
-  "재산분할9,440억판결불복…최태원'재상고'이유는?",
   "최태원9440억재산분할판결재상고…\"금액과하다\"",
   "하루이자만1억3000만원…피할수없었던'재상고'?",
   "'9천440억재산분할'다시대법으로…최태원재상고",
@@ -6001,7 +5999,9 @@
   "최태원日반도체투자검토보도에⋯SK“합작공장검토사실과달라...",
   "류승수,배용준과오랜우정자랑\"감동받아..눈물날뻔\"",
   "SK그룹,최태원회장'일본반도체합작공장검토설'부인",
-  "서울서남권역난임·임산부심리상담센터양천센터개소식진행"
+  "서울서남권역난임·임산부심리상담센터양천센터개소식진행",
+  "최태원회장\"SK하이닉스,일본합작공장추진설사실아냐\"",
+  "‘내수기업’을‘글로벌초일류’로…최태원28년,SK지도를바꾸다"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-09-01T10:20:16.517879+09:00",
    "합작공장 반도체 투자 검토한 없다 논란 발언"
+  ],
+  [
+   "2026-09-01T11:00:28.805925+09:00",
+   "바꾸다 글로벌 지도를 28년 내수 초일류 기업"
   ]
  ],
- "last_run": "2026-09-01T10:50:23.949707+09:00",
+ "last_run": "2026-09-01T11:00:40.402149+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
