@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/110990",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16465",
-  "https://www.cstimes.com/news/articleView.html?idxno=718653",
-  "http://www.newstomato.com/ReadNews.aspx?no=1312055&inflow=N",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535859",
-  "https://www.newspim.com/news/view/20260831001040",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106239",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446041",
-  "https://www.koreajoongangdaily.com/business/sk-hynix-weighs-joint-memory-plant-in-japan-as-part-of-overseas-expansion-efforts/12852748",
-  "https://www.mt.co.kr/stock/2026/08/31/2026083117105657593",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=310105",
   "https://www.sedaily.com/article/20085418",
   "https://www.mk.co.kr/article/12140612",
   "https://www.hankyung.com/article/2026083146361",
@@ -2999,20 +2988,20 @@
   "https://news.ifm.kr/news/articleView.html?idxno=478468",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008733986&plink=ORI&cooper=NAVER",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=362548",
-  "https://www.ytn.co.kr/_ln/0102_202609021219192010"
+  "https://www.ytn.co.kr/_ln/0102_202609021219192010",
+  "https://sports.khan.co.kr/article/202609021244003?pt=nv",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289486",
+  "https://view.asiae.co.kr/article/2026090212434858298",
+  "http://www.inews24.com/view/2000843",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362542",
+  "http://www.newsmp.com/news/articleView.html?idxno=257862",
+  "http://www.inews24.com/view/2000917",
+  "https://www.dailian.co.kr/news/view/1685438/?sc=Naver",
+  "https://www.etnews.com/20260902000223",
+  "http://www.inews24.com/view/2000851",
+  "http://www.newstomato.com/ReadNews.aspx?no=1312263&inflow=N"
  ],
  "seen_titles": [
-  "[허프생각]'독자AI프로젝트'의2차평가가보여준집단기억상실,...",
-  "[퇴근길머니]대출풀었는데오픈런?…삼성내일부터5억사내대출",
-  "D램은미국리쇼어링,낸드는아시아잔류…공정별투자처가갈린이유...",
-  "최태원SK회장의이혼소송과지분0%후계자최인근의도전",
-  "SK에너지·네이버페이맞손…내년1월부터주유하고Npay적립",
-  "SK에코플랜트,해상풍력자회사SK오션플랜트지분전량매각",
-  "최태원\"일본에반도체합작공장설립검토\"",
-  "SK에코플랜트,SK오션플랜트4100억에매각…'반도체·AI'집중",
-  "['클릭'증시]삼전닉스자사주매입에잭슨홀'매파'연설딛고반등",
-  "[오늘의주목주]LG전자주가7%대올라,코스피삼전닉스자사주매입에...",
-  "SKhynixweighsjointmemoryplantinJapanaspartofoverseasexpansio",
   "삼전닉스자사주매입이받친코스피…美실적·고용주목",
   "SK에코플랜트,해상풍력자회사보유지분전량매각…4100억규모",
   "HBM4판도변화…삼전·하닉눈높이도엇갈려",
@@ -6001,7 +5990,18 @@
   "\"AI붙였더니50시간일이500시간\"…SKT가겪은'생산성역설'",
   "충남대,지역거점국립대선정…5년간3천500억지원",
   "석유최고가격손실보전,산업부예산엔담겼지만산식은없다",
-  "일본에꽂힌SK최태원?\"반도체쇄국주의?그럴때가아닙니다\""
+  "일본에꽂힌SK최태원?\"반도체쇄국주의?그럴때가아닙니다\"",
+  "‘끼리끼리’소유이창섭정진운,학창시절부터아이돌까지이어진특...",
+  "국민의힘부산의원들\"금융위·금감원부산이전은국토균형발전필...",
+  "지역인재가곧대기업간다…동의과학대,‘미래모빌리티UIC협의체...",
+  "AI호황에성과급눈높이도'쑥'…메모리3사모두노사갈등",
+  "렌탈3사희비'프리미엄'이갈랐다",
+  "8월의약품허가123건,대웅바이오6건선두",
+  "SK하이닉스,'계산하는HBM'꺼냈다…AI추론성능최대5.15배",
+  "차기수협은행장6파전…신학기,사상첫'연임행장'도전장",
+  "TSMC,HBM패키징당분간'마이크로범프'…협력사에5μm숙제",
+  "주성엔지니어링,올해R&D비중40%육박…'ALG'기술확장속도",
+  "반도체기업전기료3~5년치선납제안…\"한전채25조대체\""
  ],
  "recent_sigs": [
   [
@@ -6963,9 +6963,37 @@
   [
    "2026-09-02T12:51:15.856645+09:00",
    "아닙니다 쇄국주의 일본에 꽂힌 반도체 그럴 때가 최태원"
+  ],
+  [
+   "2026-09-02T13:01:21.332105+09:00",
+   "렌탈 갈랐다 희비 프리미엄 3사"
+  ],
+  [
+   "2026-09-02T13:01:21.332105+09:00",
+   "의약품 선두 대웅바이오 허가 8월 123건 6건"
+  ],
+  [
+   "2026-09-02T13:01:21.332105+09:00",
+   "추론 SK하이닉스 꺼냈다 계산하는 성능 AI HBM 15배"
+  ],
+  [
+   "2026-09-02T13:01:21.332105+09:00",
+   "수협은행장 신학기 도전장 사상 차기 6파전 행장 연임"
+  ],
+  [
+   "2026-09-02T13:01:21.332105+09:00",
+   "당분간 패키징 협력사에 마이크로범프 숙제 HBM TSMC"
+  ],
+  [
+   "2026-09-02T13:01:21.332105+09:00",
+   "비중 속도 확장 기술 올해 주성엔지니어링 ALG 육박"
+  ],
+  [
+   "2026-09-02T13:01:21.332105+09:00",
+   "대체 한전채 반도체 5년치 제안 25조 선납 기업 전기료"
   ]
  ],
- "last_run": "2026-09-02T12:51:29.242536+09:00",
+ "last_run": "2026-09-02T13:01:42.972229+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
