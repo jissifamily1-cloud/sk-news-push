@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026090109374698318",
-  "https://www.ytn.co.kr/_ln/0102_202609011159318270",
-  "http://www.4th.kr/news/articleView.html?idxno=2117239",
-  "https://www.munhwa.com/article/11613640",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275929",
-  "http://www.4th.kr/news/articleView.html?idxno=2117238",
-  "https://zdnet.co.kr/view/?no=20260901115323",
-  "https://www.newsis.com/view/NISX20260901_0003771259",
-  "https://biz.sbs.co.kr/article_hub/20000331986?division=NAVER",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16559",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4103920",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2465249",
   "https://www.ddaily.co.kr/page/view/2026083114281406542",
   "https://www.munhwa.com/article/11613639",
@@ -2999,20 +2988,20 @@
   "https://www.lecturernews.com/news/articleView.html?idxno=209531",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444352",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445938",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169296"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169296",
+  "https://news.tf.co.kr/read/world/2361307.htm",
+  "https://www.jasm.co.kr/news/articleView.html?idxno=311702",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=143926",
+  "https://www.khan.co.kr/article/202609030718011",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=879672",
+  "https://www.edaily.co.kr/News/Read?newsId=02617446645576512&mediaCodeNo=257",
+  "https://www.bntnews.co.kr/article/view/bnt202609030030",
+  "https://www.public25.com/news/articleView.html?idxno=53946",
+  "https://www.hankyung.com/article/2026090307886",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609021421111240109317",
+  "https://biz.sbs.co.kr/article_hub/20000332444?division=NAVER"
  ],
  "seen_titles": [
-  "SKT'에어',20만회원돌파…유튜브프리미엄라이트1년무료",
-  "하나증권,푸투증권VIP초청행사…K-자본시장알렸다",
-  "과기부'2026데이터+AI혁신챌린지'참가자모집",
-  "기술로사회난제해법찾는다…'데이터+AI혁신챌린지'참가자모집",
-  "“흩어진데이터경진대회하나로”…과기정통부,국민참여AI챌린지...",
-  "유가·금리불안에코스피약세...장중등락거듭",
-  "반도체가만든세수대박…내년820조'슈퍼예산'·162조기금가동",
-  "중국CXMT,‘5세대HBM’생산돌입…K반도체위협",
-  "NXTMovestoPreventSKhynixPriceSwings",
-  "[경제소식]우리은행,알뜰폰요금제2종출시",
-  "정부,'데이터+AI혁신챌린지'공고…\"기술로사회문제해결\"",
   "삼성'5억주택대출'오늘시행…경기남부매수세자극하나",
   "물·전기갖추고SK에손짓…日,협력사까지미리설계",
   "'물먹는반도체'에하루215만톤공급계획…극한가뭄에도버틸수있나",
@@ -6001,7 +5990,18 @@
   "[이용호의손에잡히는인공지능]챗봇에서행동하는AI로,'모두의AI'...",
   "[WhoIs?]전영현삼성전자DS부문장대표이사부회장",
   "[WhoIs?]허제홍엘앤에프대표이사",
-  "AI도입도노조합의필요하나…통신업계노사갈등확산"
+  "AI도입도노조합의필요하나…통신업계노사갈등확산",
+  "뉴욕증시,국채금리상승세둔화에4일만에반등",
+  "[뉴욕증시]미국국채금리주춤하자4일만에반등…다우0.6%↑",
+  "[오늘의글로벌마켓]뉴욕증시,국채금리숨고르기에3대지수일제히상...",
+  "뉴욕증시4거래일만에상승마감···미국10년물금리34개월만에최...",
+  "뉴욕증시,美국채금리'주춤세'에나흘만에반등세로전환...다우0.6%...",
+  "\"美서안만들면관세낼각오하라\"…러트닉,새반도체관세예고",
+  "삼성전자1위·SK하이닉스2위…한미반도체3위",
+  "뉴욕증시,국채금리급등세주춤에반등다우0.56%↑...국제유가WTI0.88...",
+  "미국채금리상승주춤하자4거래일만에반등[뉴욕증시브리핑]",
+  "[더벨]티빙조사결과발표임박…역대대형사고와비교해보니",
+  "[증시전략]스노우플레이크,실적상향에시간외거래서21%급등"
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,17 @@
   [
    "2026-09-03T07:21:05.610650+09:00",
    "노조 통신업계 갈등 도입도 AI 확산 노사 필요하나 합의"
+  ],
+  [
+   "2026-09-03T07:27:37.293956+09:00",
+   "조사 티빙 역대 사고와 비교해보니 대형 임박 결과 발표"
+  ],
+  [
+   "2026-09-03T07:27:37.293956+09:00",
+   "시간외 거래서 상향에 실적 스노우플레이크 급등"
   ]
  ],
- "last_run": "2026-09-03T07:21:13.974665+09:00",
+ "last_run": "2026-09-03T07:27:46.576836+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
