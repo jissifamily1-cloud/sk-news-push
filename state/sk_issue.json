@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/distribution/6269257",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261794&CMPT_CD=P0010",
-  "https://www.sedaily.com/article/20083200",
-  "https://www.nocutnews.co.kr/news/6567947",
-  "https://www.mt.co.kr/living/2026/08/25/2026082517403854458",
-  "http://www.4th.kr/news/articleView.html?idxno=2116839",
-  "https://www.wikitree.co.kr/articles/1154884",
-  "https://www.kado.net/news/articleView.html?idxno=2068523",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721648",
   "https://www.sedaily.com/article/20083204",
   "https://www.newsis.com/view/NISX20260825_0003762286",
@@ -2999,17 +2991,17 @@
   "https://www.ddaily.co.kr/page/view/2026090216353972387",
   "https://www.sidae.com/article/2026090215394573030",
   "https://www.newsway.co.kr/news/view?ud=2026090216110261202",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263930&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263930&CMPT_CD=P0010",
+  "https://www.m-i.kr/news/articleView.html?idxno=1409294",
+  "https://www.newsway.co.kr/news/view?ud=2026090216353455353",
+  "https://www.chosun.com/national/incident/2026/09/02/KXZFAMTRMVGEVFWN7OHV44GYNY/",
+  "https://www.chosun.com/national/national_general/2026/09/02/OBEUFBWRMNECVHRNH2LTHLPU2U/",
+  "https://www.wikitree.co.kr/articles/1156832",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43460",
+  "https://www.ddaily.co.kr/page/view/2026090216494589563",
+  "https://www.seoultimes.news/news/article.html?no=2000099450"
  ],
  "seen_titles": [
-  "'현장조사거부'쿠팡\"공정위,사전통지위반…법원판단받을것\"",
-  "법조기자가한동훈에게보내는한토막법률소양강의",
-  "‘11년째인터폴적색수배’거라브제인…시민단체·피해자들“소환...",
-  "'5·18비하구호'배재고야구부주동학생2명,결국유니폼벗는다",
-  "\"사전통지없었다\"…쿠팡거부에공정위현장조사불발",
-  "[4th-Eco]이재명정부기후에너지정책1년…\"공급확대넘어수요관리로...",
-  "[단독]시민공원‘이안’,모집신고취소·인허가‘0건’인데상담...",
-  "공정위현장조사쿠팡거부로철수…전례거의없어",
   "주정직거래물량확대…생활폐기물관어업체진입허용",
   "장례식장에과일·주류반입가능해진다…화환도유족소유로",
   "쿠팡거부에공정위현장조사무산…\"출범후처음\"(종합)",
@@ -6001,13 +5993,17 @@
   "“먼저실증하라”…AI성능광고사전실증의무명확해진다",
   "KAI노조\"공정위,한화주식취득승인재검토해야\"",
   "영풍석포제련소주민대책위\"압수수색등강제수사해야\"",
-  "박성주전국수본부장기소...\"장윤기사건,수사지휘권남용\""
+  "박성주전국수본부장기소...\"장윤기사건,수사지휘권남용\"",
+  "쿠팡\"사전통지없는공정위조사위법\"…법원에효력정지요청",
+  "KAI노조\"한화지분취득승인재검토해야\"…공정위결정에반발",
+  "여교사몰카찍은아들휴대전화부순경찰간부…형사처벌면했지만...",
+  "경찰,국민의힘함운경‘구의원금품갹출의혹’압수수색",
+  "'민주당공천사기'로40억가로챈그인물,이번엔'대동강맥주팔이'...",
+  "낙동강주민들,검찰고발인조사…\"환경오염은폐,영풍실질지배자...",
+  "“4년간8474억축소·누락”…낙동강주민들,영풍회계분식수사촉구",
+  "정몽규,홍명보감독선임의혹피의자조사"
  ],
  "recent_sigs": [
-  [
-   "2026-09-02T11:01:04.353984+09:00",
-   "롯데렌탈 신동빈 리밸런싱 팔았다 매각"
-  ],
   [
    "2026-09-02T12:20:53.279605+09:00",
    "간다 통신 3사 대법원 150만원 1인당 소송도 과장광고"
@@ -6017,7 +6013,7 @@
    "산식은 담겼지만 석유 손실보전 산업부 없다 예산엔 최고가격"
   ]
  ],
- "last_run": "2026-09-02T16:50:57.633400+09:00",
+ "last_run": "2026-09-02T17:01:13.316825+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
