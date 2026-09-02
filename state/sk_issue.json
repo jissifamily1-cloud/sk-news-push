@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261823&CMPT_CD=P0010",
-  "https://www.fnnews.com/news/202608251722014807",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/25/2026082590186.html",
-  "https://www.news1.kr/society/incident-accident/6269262",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645557",
-  "https://www.mydaily.co.kr/page/view/2026082517554505068",
-  "https://www.viva100.com/article/20260825500517",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260825.99099007217",
   "https://www.news1.kr/industry/distribution/6269257",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261794&CMPT_CD=P0010",
   "https://www.sedaily.com/article/20083200",
@@ -2999,17 +2991,17 @@
   "https://www.fntimes.com/html/view.php?ud=2026090216224214787de3572ddd_18",
   "https://www.etoday.co.kr/news/view/2621158",
   "https://www.sidae.com/article/2026090215472368083",
-  "https://www.edaily.co.kr/News/Read?newsId=04349286645576184&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=04349286645576184&mediaCodeNo=257",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=811701",
+  "https://www.idomin.com/news/articleView.html?idxno=2013906",
+  "http://www.press9.kr/news/articleView.html?idxno=82059",
+  "https://zdnet.co.kr/view/?no=20260902152121",
+  "https://www.ddaily.co.kr/page/view/2026090216353972387",
+  "https://www.sidae.com/article/2026090215394573030",
+  "https://www.newsway.co.kr/news/view?ud=2026090216110261202",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263930&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "이진숙\"5·18성역화완성되나\",제명촉구안에반발",
-  "20m고도지구서24m로…제주'효성해링턴'인허가전면감찰",
-  "'미성년자4명'상대성범죄…최영중전시의원구속기소",
-  "환경단체\"경찰,가습기살균제주범옥시외국인사장소환수사해야\"",
-  "공정위,쿠팡거부로현장조사철수…사상첫사례",
-  "쿠팡,공정위현장조사거부…직권조사취소소송제기",
-  "iM증권,NH투자증권목표가하향…\"거래대금둔화·배당매력은유효\"",
-  "생활폐기물수집·운반업체입찰때관외기업진출허용",
   "'현장조사거부'쿠팡\"공정위,사전통지위반…법원판단받을것\"",
   "법조기자가한동훈에게보내는한토막법률소양강의",
   "‘11년째인터폴적색수배’거라브제인…시민단체·피해자들“소환...",
@@ -6001,7 +5993,15 @@
   "낙동강주민들\"검찰,영풍조직적회계분식·감사방해행위강제수사...",
   "낙동강환경피해주민대책위“검찰,영풍책임규명위해강력수사해...",
   "\"업주성폭행\"신고…'영장번거롭다'외면한경찰,직원의죽음",
-  "중수청출범D-30,수사당국구성본격화"
+  "중수청출범D-30,수사당국구성본격화",
+  "[포커스]한화,KAI2대주주굳혔지만…노조\"승인결정재검토하라\"",
+  "KAI노조\"공정위,한화기업결합승인재검토하라\"촉구",
+  "CJ제일제당·대상,장류담합의혹조사…15년전고추장제재전력재조...",
+  "\"경쟁사가2대주주\"…KAI·한화우주사업'정보방화벽'시험대",
+  "“먼저실증하라”…AI성능광고사전실증의무명확해진다",
+  "KAI노조\"공정위,한화주식취득승인재검토해야\"",
+  "영풍석포제련소주민대책위\"압수수색등강제수사해야\"",
+  "박성주전국수본부장기소...\"장윤기사건,수사지휘권남용\""
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "산식은 담겼지만 석유 손실보전 산업부 없다 예산엔 최고가격"
   ]
  ],
- "last_run": "2026-09-02T16:40:58.383384+09:00",
+ "last_run": "2026-09-02T16:50:57.633400+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
