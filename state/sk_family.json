@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://enews.imbc.com/News/RetrieveNewsInfo/515018",
-  "http://www.osen.co.kr/article/G1112859030",
   "https://zdnet.co.kr/view/?no=20260814174410",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478087",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521295",
@@ -2999,11 +2997,11 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=603212",
   "https://www.joongang.co.kr/article/25458575",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=48639",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020804&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020804&t=NN",
+  "https://www.ajunews.com/view/20260902212500725",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=88703"
  ],
  "seen_titles": [
-  "SK하이닉스,美첨단패키징팹27일착공…메모리전공정투자열어놔",
-  "SK,하이닉스·이노베이션이실적견인…목표가↑-하나",
   "[더벨]'탈탄소시대'SW해운,석탄운송8300억베팅이유는",
   "홍혜걸\"아내잘만난남편중내가1등\"(라스)",
   "홍혜걸.♥︎여에스더와별거청산\"둘만의찌찌쪼쪼\"부부일상('라스...",
@@ -6001,7 +5999,9 @@
   "이병철,'불멸의총수'1위수성'7개월연속'…정주영·유일한2위권치...",
   "최태원“키옥시아와공동생산등가능…연내日투자안내놓을것”",
   "SKT정재헌\"AI전환,불편함의골짜기견뎌야J커브올라타\"",
-  "최태원\"일본키옥시아와공동생산가능…매력적인후보지\""
+  "최태원\"일본키옥시아와공동생산가능…매력적인후보지\"",
+  "최태원\"키옥시아와공동생산가능\"…AI메모리부족에日생산거점검...",
+  "최태원,일본반도체투자가능성열어둬-SK하이닉스글로벌생산거점..."
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "7개월 1위 총수 수성 정주영 이병철 불멸의 2위권 유일한 연속"
   ]
  ],
- "last_run": "2026-09-02T21:30:36.256862+09:00",
+ "last_run": "2026-09-02T21:40:26.129487+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
