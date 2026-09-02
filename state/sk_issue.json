@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pennmike.com/news/articleView.html?idxno=126393",
-  "https://www.newspim.com/news/view/20260825000807",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261712&CMPT_CD=P0010",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=120772",
   "https://www.kpanews.co.kr/news/articleView.html?idxno=541509",
   "https://www.donga.com/news/Economy/article/all/20260825/134540186/1",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261788&CMPT_CD=P0010",
@@ -2999,13 +2995,13 @@
   "https://biz.sbs.co.kr/article_hub/20000332337?division=NAVER",
   "https://biz.heraldcorp.com/article/10860278",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=610608",
-  "https://imnews.imbc.com/news/2026/society/article/6849111_36918.html"
+  "https://imnews.imbc.com/news/2026/society/article/6849111_36918.html",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41720",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=727194",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722711",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057735"
  ],
  "seen_titles": [
-  "배재고야구부2명,결국꿈접었다...이재명이스타벅스표적삼지않았...",
-  "\"내가족도당할라\"...'경찰사건은폐·허위종결'에시민불신확산",
-  "부천독립운동탄압의선봉소사경찰관주재소",
-  "HL만도노조\"HL정몽원회장,실질경영책임자\"···중처법위반고소",
   "공정위'90%승소율'뒤에…\"올해과징금1,000억원돌려줬다\"",
   "“화환1000원에넘겨라”장례식장횡포…유족동의없이처분못한다",
   "사위월급이대통령뇌물?...문재인사건,국민참여재판가나",
@@ -6001,7 +5997,11 @@
   "경찰,고령층타깃출자금9천억대주유소사업조합수사",
   "‘홍명보선임부당개입전혀없다’정몽규前회장경찰출석[세상&]",
   "쿠팡경기광주3센터압수수색…지게차끼임사고강제수사",
-  "[단독]경찰,국민의힘함운경'정치자금법위반의혹'강제수사착수"
+  "[단독]경찰,국민의힘함운경'정치자금법위반의혹'강제수사착수",
+  "AI･신기술제품광고하려면실증할수있어야...공정위,'표시·광고내...",
+  "렌탈매각으로실탄확보한롯데…'재무다이어트'속도",
+  "인공지능신기술제품등성능실증의무화…자료미제출시과태료",
+  "쿠팡\"사전통지없는현장조사위법\"…공정위와효력정지공방"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "산식은 담겼지만 석유 손실보전 산업부 없다 예산엔 최고가격"
   ]
  ],
- "last_run": "2026-09-02T14:51:00.766667+09:00",
+ "last_run": "2026-09-02T15:01:08.975613+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
