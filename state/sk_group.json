@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.idomin.com/news/articleView.html?idxno=2013676",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=792369",
-  "https://www.inews365.com/news/article.html?no=933773",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608310272&t=NNv",
-  "https://www.sportsseoul.com/news/read/1629044",
-  "https://www.namdonews.com/news/articleView.html?idxno=921805",
-  "https://www.edaily.co.kr/News/Read?newsId=04100006645552896&mediaCodeNo=257",
-  "https://www.aitimes.com/news/articleView.html?idxno=214667",
-  "https://www.g-enews.com/view.php?ud=202608311805524894ea13369bfa_1",
   "https://www.tokenpost.kr/news/market/401150",
   "https://www.seoultimes.news/news/article.html?no=2000099357",
   "https://www.biotimes.co.kr/news/articleView.html?idxno=34133",
@@ -2999,18 +2990,18 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483053",
   "https://vn.asiatoday.co.kr/view.php?key=20260902000921089",
   "https://www.m-i.kr/news/articleView.html?idxno=1409024",
-  "https://www.viva100.com/article/20260902500704"
+  "https://www.viva100.com/article/20260902500704",
+  "https://www.news1.kr/sports/basketball/6277515",
+  "https://www.gosiweek.com/article/1065587304559446",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200135",
+  "https://www.imaeil.com/page/view/2026090213293308345",
+  "https://www.sedaily.com/article/20086262",
+  "https://news.tf.co.kr/read/economy/2361024.htm",
+  "http://www.bizwnews.com/news/articleView.html?idxno=144978",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260902132619S8c",
+  "https://www.onews.tv/news/articleView.html?idxno=286050"
  ],
  "seen_titles": [
-  "[연합뉴스이시각헤드라인]-18:00",
-  "반도체훈풍소비로돌아왔다...'이천은집사고,청주는지출늘어'",
-  "SK오션플랜트,사모펀드디오션과매각계약",
-  "[건설업계동향]IPARK현대산업개발ㆍ삼성물산ㆍSK에코플랜트(8.31)",
-  "\"수도권편중끝내고청주로\"…반도체클러스터지정총력촉구",
-  "애플까지노리더니…\"중국군과무관\"美에소송낸회사",
-  "수출·면세점·정기구독까지…호텔가가‘김치’를미래먹거리로점찍...",
-  "전남광주특별시,반도체클러스터\"2030년6월양산\"못박았다",
-  "국민성장펀드,경보제약에200억원지원…ADCCDMO진출속도",
   "SK하이닉스,AI붐대응위해일본메모리합작공장설립검토",
   "SK에코플랜트,SK오션플랜트지분전량매각…반도체·AI역량집중",
   "코스피6820선회복,기타법인1조5773억매수",
@@ -6001,7 +5992,16 @@
   "HBM이어CXL시대온다…엑시콘,차세대검사장비공급확대기대",
   "SamsungtungchiếnlượcCUBE,quyếtgiữngôivươngbộnhớgi",
   "[기획]캐즘에멈췄던공장다시돌린다…배터리업계도기대감",
-  "심텍,청주시에4000억투자로반도체PCB생산강화"
+  "심텍,청주시에4000억투자로반도체PCB생산강화",
+  "'우승목표'AG출전남자농구대표팀최종12인확정…최준용합류",
+  "중학생400명,SKT·현대차·항우연간다…이공계진로‘현장에서찾는...",
+  "SK이노,발달장애인음악축제10년의역사…문화플랫폼으로자리매김",
+  "대구남산ART오케스트라,전국발달장애인음악축제대상",
+  "삼성전기사들이는주식고수들…1조MLCC수주에‘베팅’[주식초고수...",
+  "SK이노베이션E&S,덕양에너젠과수소충전인프라늘린다",
+  "중국메모리반도체기업,상반기실적'사상최대'",
+  "[이시각헤드라인]9월2일뉴스현장",
+  "백승기의원\"용인반도체환경·사회적부담안성시민에전가말아야\""
  ],
  "recent_sigs": [
   [
@@ -6955,9 +6955,17 @@
   [
    "2026-09-02T13:32:39.721406+09:00",
    "심텍 4000억 강화 반도체 생산 투자로 청주시에 PCB"
+  ],
+  [
+   "2026-09-02T13:41:03.644291+09:00",
+   "2일 9월 뉴스현장"
+  ],
+  [
+   "2026-09-02T13:41:03.644291+09:00",
+   "안성시민에 전가말아야 백승기 사회적 의원 용인 반도체 부담 환경"
   ]
  ],
- "last_run": "2026-09-02T13:33:03.959858+09:00",
+ "last_run": "2026-09-02T13:41:12.165291+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
