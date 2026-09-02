@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbmaeil.com/article/20260825500158",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260825.99099006906",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431631",
-  "https://www.ajunews.com/view/20260825092001072",
-  "https://www.thepublic.kr/news/articleView.html?idxno=316051",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500038.html",
   "https://www.etoday.co.kr/news/view/2617731",
   "https://biz.chosun.com/policy/policy_sub/2026/08/25/KWTLAI35GJCNZK22JF35LFLVEQ/",
   "https://news.tf.co.kr/read/economy/2357470.htm",
@@ -2999,15 +2993,15 @@
   "https://lawtalknews.co.kr/article/JYJCR03Y2NV8",
   "https://www.bloter.net/news/articleView.html?idxno=672446",
   "https://www.mk.co.kr/article/12142076",
-  "https://news.tf.co.kr/read/national/2360857.htm"
+  "https://news.tf.co.kr/read/national/2360857.htm",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=207608",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=364643",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1536096",
+  "https://www.m-economynews.com/news/article.html?no=70340",
+  "https://www.news1.kr/economy/employment-labor/6277307",
+  "http://www.globalepic.co.kr/view.php?ud=202609021050405448439a4874_29"
  ],
  "seen_titles": [
-  "장례식장화환은유족소유…과일·주류반입가능",
-  "“조문객이보낸화환은유족의것”…장례식장의임의처분불허",
-  "장례식장,화환처분임의로못한다…외부음식반입도허용",
-  "유족에게보낸근조화환,임의처분금지…과일·음료,장례식장반입...",
-  "'기지국임차료담합'LG유플러스패소…공정위58억원대과징금유지",
-  "\"조문객이보낸화환은유족소유\"…장례식장임의처분막는다",
   "조문객이보낸화환,장례식장마음대로못판다…과일·음료반입도허...",
   "공정위“장례식장술·음료·과일외부에서사올수있다”",
   "\"장례식장화환·음식반입유족뜻대로\"…표준약관개정",
@@ -6001,10 +5995,21 @@
   "아청물제작해수사받는10대청소년…부모몰래대응하다처벌키운다",
   "'허위특허로경쟁사방해'대웅제약항소심11월선고",
   "권기창안동시장동생구속…경선앞두고‘책임당원모집혐의’",
-  "경찰,'40대지게차끼임중태'광주시쿠팡물류센터압수수색"
+  "경찰,'40대지게차끼임중태'광주시쿠팡물류센터압수수색",
+  "보람상조,'2026올해의브랜드대상'6년연속...소비자신뢰로입증",
+  "공정위,CJ·대상·샘표·풀무원·사조대림현장조사…'장류담합'정조...",
+  "쿠팡근로자끼임중상…경찰·노동부합동수사",
+  "쿠팡광주물류센터지게차사고...경찰·노동부강제수사착수",
+  "노동부·경찰,쿠팡경기광주3센터압수수색…지게차끼임사고",
+  "리밸런싱신동빈또팔았다…롯데렌탈매각"
  ],
- "recent_sigs": [],
- "last_run": "2026-09-02T10:50:55.890953+09:00",
+ "recent_sigs": [
+  [
+   "2026-09-02T11:01:04.353984+09:00",
+   "롯데렌탈 신동빈 리밸런싱 팔았다 매각"
+  ]
+ ],
+ "last_run": "2026-09-02T11:01:11.174346+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
