@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.korea.kr/briefing/actuallyView.do?newsId=148970649&call_from=naver_news",
-  "https://www.kgnews.co.kr/news/article.html?no=909027",
   "https://www.mk.co.kr/article/12136681",
   "https://www.mk.co.kr/article/12136682",
   "https://www.nocutnews.co.kr/news/6568382",
@@ -2999,11 +2997,11 @@
   "https://www.esquirekorea.co.kr/article/1909097",
   "https://www.newspim.com/news/view/20260903001238",
   "https://www.seoul.co.kr/news/society/2026/09/04/20260904008002?wlog_tag3=naver",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005466"
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005466",
+  "https://dealsite.co.kr/articles/168398",
+  "https://news.jtbc.co.kr/article/NB12316616?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[사실은이렇습니다][설명]조선일보(8.26.)\"납품사에쿠폰비떠넘긴...",
-  "1분만에티켓80장싹쓸이...13배웃돈붙여되판'매크로암표상'",
   "주진우“투표지보다득표수많아”…‘유령투표소’46곳의혹",
   "참사606일,첫송치는‘허위해명’…원인규명언제?경찰수사력도...",
   "'알맹이빠진'제주항공참사첫송치…\"국토부7명이문제점은폐\"",
@@ -6001,7 +5999,9 @@
   "평범한후드집업이지겹다면'와플'5",
   "지소연향한주심의성희롱발언사태,축구협회공정위징계여부심의",
   "‘사기적부정거래’혐의방시혁,내사착수21개월만에檢송치",
-  "[오피셜]지소연향한‘생리'망언,FIFA-AFC에공유이어축구협회도..."
+  "[오피셜]지소연향한‘생리'망언,FIFA-AFC에공유이어축구협회도...",
+  "대기업주식보상1년새66%급증…총수2세도RSU",
+  "'걸스데이'파문주심공정위로…축구협\"징계수위논의\""
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "바뀐 롯데 의무 소각 자기주식 비중 이유는 1위"
   ]
  ],
- "last_run": "2026-09-03T20:40:53.654649+09:00",
+ "last_run": "2026-09-03T20:50:59.824656+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
