@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1007180173&plink=ORI&cooper=NAVER",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=4926297",
-  "https://www.news1.kr/articles/5037444",
   "https://www.joongang.co.kr/article/25160252",
   "http://news.mt.co.kr/mtview.php?no=2023050423492797707",
   "https://www.sedaily.com/NewsView/29PG80IQY5",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/industry/general-industry/6278382",
   "https://www.consumuch.com/news/articleView.html?idxno=78939",
   "https://news.jtbc.co.kr/article/NB12316433?influxDiv=NAVER",
-  "https://sports.khan.co.kr/article/202609030909003?pt=nv"
+  "https://sports.khan.co.kr/article/202609030909003?pt=nv",
+  "https://www.newspim.com/news/view/20260902001152",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000008641&cp=nv",
+  "https://www.newdaily.co.kr/site/data/html/2026/09/03/2026090300054.html"
  ],
  "seen_titles": [
-  "'천화동인6호실소유자의혹'조우형구속영장기각",
-  "'천화동인6호'조우형구속영장기각…\"불구속재판필요\"",
-  "'천화동인6호'조우형구속영장기각…\"구속필요성인정안돼\"(종합)",
   "'천화동인6호실소유주'조우형영장기각…“이재명·유동규도불구속...",
   "'천화동인6호실소유주의혹'조우형,구속영장청구기각",
   "[속보]'천화동인6호실소유주'조우형구속영장기각",
@@ -6001,10 +5998,13 @@
   "100℃가열식부터4L초음파까지…쿠첸,가습기2종선봬",
   "\"리뷰쓰면음료수\"네이버영수증리뷰믿을수있나",
   "\"중국경찰이왜?\"…황교안측음모론에재판장황당",
-  "‘12시간조사’정몽규‘홍명보선임부당개입’의혹에경찰출석,..."
+  "‘12시간조사’정몽규‘홍명보선임부당개입’의혹에경찰출석,...",
+  "[AI판결돋보기]명문대마약동아리,동료자수에도공소기각…대법이...",
+  "12시간조사받은정몽규…홍명보선임개입거듭부인",
+  "경찰,'홍명보선임개입의혹'정몽규12시간조사"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-03T09:31:00.608379+09:00",
+ "last_run": "2026-09-03T09:33:21.872411+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
