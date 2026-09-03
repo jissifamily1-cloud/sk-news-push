@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12315160?influxDiv=NAVER",
-  "https://sateconomy.co.kr/news/view/1065575921638110",
-  "https://idsn.co.kr/news/view/1065589239483993",
   "https://www.yna.co.kr/view/AKR20260826101000011?input=1195m",
   "https://www.korea.kr/briefing/actuallyView.do?newsId=148970649&call_from=naver_news",
   "https://www.kgnews.co.kr/news/article.html?no=909027",
@@ -2999,12 +2996,12 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1722940",
   "http://www.yonhapnewstv.co.kr/news/MYH20260903194755DEi",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=644679",
-  "https://www.hankookilbo.com/news/article/A2026090319190002812?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026090319190002812?did=NA",
+  "https://www.esquirekorea.co.kr/article/1909097",
+  "https://www.newspim.com/news/view/20260903001238",
+  "https://www.seoul.co.kr/news/society/2026/09/04/20260904008002?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "'무안공항참사'1년8개월만에첫송치…'콘트리트둔덕'수사는연말...",
-  "쿠팡,공정위현장조사불응…할인비전가의혹법정다툼으로",
-  "듀오‘업계최다전문직·명문대회원’광고제재…과징금3억4500만원",
   "[전국주요신문사설](26일석간)",
   "[사실은이렇습니다][설명]조선일보(8.26.)\"납품사에쿠폰비떠넘긴...",
   "1분만에티켓80장싹쓸이...13배웃돈붙여되판'매크로암표상'",
@@ -6001,7 +5998,10 @@
   "대기업임원'주식보상'확늘었다…삼성서만신규약정317건",
   "하이브방시혁불구속송치…사기적부정거래혐의",
   "경찰,학교시설계약과정'뇌물수수'정황포착",
-  "'3명사망'천안대원산업압수수색...공장관계자3명입건"
+  "'3명사망'천안대원산업압수수색...공장관계자3명입건",
+  "평범한후드집업이지겹다면'와플'5",
+  "지소연향한주심의성희롱발언사태,축구협회공정위징계여부심의",
+  "‘사기적부정거래’혐의방시혁,내사착수21개월만에檢송치"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "바뀐 롯데 의무 소각 자기주식 비중 이유는 1위"
   ]
  ],
- "last_run": "2026-09-03T19:50:56.399788+09:00",
+ "last_run": "2026-09-03T20:01:11.308209+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
