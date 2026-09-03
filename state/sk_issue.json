@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topdaily.kr/articles/111622",
-  "https://www.taxtimes.co.kr/news/article.html?no=276529",
-  "https://www.kukinews.com/article/view/kuk202608260015",
-  "https://www.khan.co.kr/article/202608260853001",
-  "https://biz.heraldcorp.com/article/10852162",
-  "https://www.smartbizn.com/news/articleView.html?idxno=152128",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260826090447EJg",
-  "https://www.sentv.co.kr/article/view/sentv202608260012",
-  "https://view.asiae.co.kr/article/2026082609013972657",
   "https://www.seoulfn.com/news/articleView.html?idxno=636452",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008721720&plink=ORI&cooper=NAVER",
   "https://www.sedaily.com/article/20083342",
@@ -2999,18 +2990,18 @@
   "https://www.dt.co.kr/article/12081941",
   "https://www.newsis.com/view/NISX20260903_0003774895",
   "https://news.tf.co.kr/read/life/2361553.htm",
-  "https://www.mk.co.kr/article/12143263"
+  "https://www.mk.co.kr/article/12143263",
+  "http://www.inews24.com/view/2001627",
+  "https://www.widedaily.com/news/articleView.html?idxno=300566",
+  "http://www.breaknews.com/1233848",
+  "https://www.ajunews.com/view/20260903111840722",
+  "http://www.queen.co.kr/news/articleView.html?idxno=462764",
+  "http://www.breaknews.com/1233850",
+  "https://www.xportsnews.com/article/2191562",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260903133340nJo",
+  "https://www.donga.com/news/Society/article/all/20260903/134598262/1"
  ],
  "seen_titles": [
-  "컴퍼니케이·한투파공동투자아이큐랩,압수수색에회수변수",
-  "주류제조사-주정제조사간주정직거래허용량10%로확대",
-  "경산서실종된중국인유학생숨진채발견…30대자국남성체포",
-  "매크로로아이돌콘서트표싹쓸이···4억원챙긴암표상검거",
-  "20대中유학생,졸업식위해다시한국왔다가참변…남자친구가용의자",
-  "쿠팡,공정위현장조사거부···정부와갈등격화",
-  "[사건사고]中유학생숨진채발견…'실종신고'남성체포外",
-  "대법“영장없이확보한증거무효”…'LH용역비리'직원들무죄",
-  "경찰은“피의자특정불가”…檢시정조치로당근마켓10대피의자잡았...",
   "공정위쿠팡조사결국무산···'사전통지'놓고정면대치",
   "[친절한경제]발인날대뜸\"1천원에팔라\"…장례식장잇단민원,결국",
   "‘암표로4억수익’경찰,매크로이용콘서트티켓되팔이30대구속",
@@ -6001,7 +5992,16 @@
   "방시혁‘상장정보은폐’혐의검찰송치…2631억원추징보전",
   "'3명사망'대원산업화재…노동부·경찰,압수수색실시",
   "경찰,'사기적부정거래'방시혁송치…\"구속영장검찰과이견\"",
-  "방시혁,‘사기적부정거래혐의’검찰송치…내사착수1년9개월만"
+  "방시혁,‘사기적부정거래혐의’검찰송치…내사착수1년9개월만",
+  "교보생명,신창재회장에이례적주식보상",
+  "총수일가지분3.5%불과한데지배력은막강…사익편취규제대상첫100...",
+  "대기업총수일가,지분3.5%로60%대지배력..순환출자는감소",
+  "총수일가지분3.5%인데내부지분61.4%…사익편취규제대상첫1000곳넘...",
+  "방시혁등5명불구속송치…경찰\"하이브상장차익2631억부당이득\"",
+  "경찰,방시혁하이브의장불구속송치..사기적부정거래혐의",
+  "'사기적부정거래'방시혁,결국검찰송치…\"2631억상당부당이득취해...",
+  "금품수수의혹…전북고창군수경찰소환조사",
+  "경찰‘1500억대부당이득’방시혁송치…내사착수1년9개월만"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "넘었다 절반 삼성전자가 주식보상 급증 대기업"
   ]
  ],
- "last_run": "2026-09-03T13:31:02.610658+09:00",
+ "last_run": "2026-09-03T13:41:05.797937+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
