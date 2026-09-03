@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=106586",
-  "https://www.mt.co.kr/tech/2026/09/02/2026090212555844663",
-  "https://www.econovill.com/news/articleView.html?idxno=749613",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=225867",
-  "https://www.dt.co.kr/article/12081707",
-  "http://www.metroseoul.co.kr/article/20260902500349",
-  "https://www.newspim.com/news/view/20260902000828",
-  "http://www.footballist.co.kr/news/articleView.html?idxno=214272",
   "https://www.seoul.co.kr/news/economy/estate/2026/09/02/20260902500180?wlog_tag3=naver",
   "https://biz.sbs.co.kr/article_hub/20000332334?division=NAVER",
   "https://www.etnews.com/20260902000336",
@@ -2999,17 +2991,17 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026090406253346422aaae0046f_30",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483694",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=54039",
-  "https://www.labortoday.co.kr/news/articleView.html?idxno=236614"
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=236614",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6939033",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722950",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483697",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483696",
+  "https://www.g-enews.com/view.php?ud=202609040649278393fbbec65dfb_1",
+  "https://www.apnews.kr/news/articleView.html?idxno=3050972",
+  "https://thetracker.co.kr/View.aspx?No=4212496",
+  "https://biz.sbs.co.kr/article_hub/20000332692?division=NAVER"
  ],
  "seen_titles": [
-  "'될만한신약'해외서찾는다…K-바이오달라진생존전략",
-  "투심위축에주식거래급감…증권사3분기실적‘경고등’",
-  "\"이제와서임대넣으라니\"…광명하안,공공임대변수에수주전관망세",
-  "\"AI트래픽5년뒤최대5배↑…통신망투자·규제바꿔야\"",
-  "정재헌SKTCEO\"AX의J커브주목해야\"",
-  "SK스퀘어99만3000원,6.94%급락…SK하이닉스약세에100만원선붕괴",
-  "서울대강단선정재헌SKTCEO“AI시대,통찰과공감갖춘인재필요...",
-  "SK이노베이션E&S,덕양에너젠과기체·액화복합수소충전소구축",
   "이현중·여준석등AG남자농구대표팀최종명단12명확정",
   "K리그유소년,아시아팀들과제주서격돌…8개팀참가",
   "전남광주옛전방부지‘챔피언스시티1차’4일견본주택오픈",
@@ -6001,7 +5993,15 @@
   "엔비디아,1.8%상승하며전고점에바짝접근...SK하이닉스ADR,씨티그룹...",
   "에코프로,화학상장기업브랜드평판1위…포스코퓨처엠·LG화학제쳤다",
   "[브랜드평판]삼성,대기업집단9월1위...SK,LG뒤이어",
-  "디지털자본초과이윤'노동사회연대기금'재분배해야"
+  "디지털자본초과이윤'노동사회연대기금'재분배해야",
+  "문가영,상큼한손키스",
+  "'롤러코스터'코스피…美증시훈풍에상승기대",
+  "삼성,대기업집단브랜드평판1위…SK·LG와격차벌렸다",
+  "CEO브랜드평판9월빅데이터분석...1위삼성이재용,2위LG구광모,...",
+  "로직안착하이브리드본딩,HBM연기로소부장재편",
+  "[상법개정과운용사의결권②]'찬성'근거?…지분구조놓치고회사설...",
+  "ESR,삼성SRA운용애평택물류센터3400억에매각",
+  "[조간브리핑]공공기관대수술부터AI가사혁명까지…경제판이바뀐다"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,25 @@
   [
    "2026-09-04T06:51:05.438184+09:00",
    "재분배해야 자본 초과이윤 디지털 노동사회연대기금"
+  ],
+  [
+   "2026-09-04T07:01:23.444347+09:00",
+   "재편 로직 HBM 본딩 연기로 안착 하이브리드 소부장"
+  ],
+  [
+   "2026-09-04T07:01:23.444347+09:00",
+   "지분구조 놓치고 회사 근거 찬성"
+  ],
+  [
+   "2026-09-04T07:01:23.444347+09:00",
+   "3400억에 물류센터 평택 ESR 매각 삼성SRA운용애"
+  ],
+  [
+   "2026-09-04T07:01:23.444347+09:00",
+   "AI 판이 대수술부터 공공기관 바뀐다 가사혁명까지 경제"
   ]
  ],
- "last_run": "2026-09-04T06:51:16.597824+09:00",
+ "last_run": "2026-09-04T07:01:37.765002+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
