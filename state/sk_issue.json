@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646102",
-  "https://www.newscj.com/news/articleView.html?idxno=3427768",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444279",
-  "https://www.fntimes.com/html/view.php?ud=2026082517554552591b5a221379_18",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245181",
-  "https://www.segye.com/newsView/20260825518120?OutUrl=naver",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608241404243400105281",
-  "https://biz.sbs.co.kr/article_hub/20000330759?division=NAVER",
-  "https://www.newscj.com/news/articleView.html?idxno=3427783",
-  "https://www.sidae.com/article/2026082607053138733",
-  "https://www.etoday.co.kr/news/view/2618089",
   "https://www.wikitree.co.kr/articles/1154944",
   "https://biz.sbs.co.kr/article_hub/20000330762?division=NAVER",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000059596",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20260903_0003774791",
   "https://www.yna.co.kr/view/AKR20260831136900004?input=1195m",
   "https://www.edaily.co.kr/News/Read?newsId=03765446645576512&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433288"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433288",
+  "http://www.inews24.com/view/2001604",
+  "http://www.inews24.com/view/2001596",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3042412",
+  "https://www.donga.com/news/Economy/article/all/20260903/134597325/1",
+  "https://news.jtbc.co.kr/article/NB12316506?influxDiv=NAVER",
+  "https://www.wikitree.co.kr/articles/1157024",
+  "https://www.segye.com/newsView/20260903509102?OutUrl=naver",
+  "https://www.starnewskorea.com/music/2026/09/03/2026090312230997851",
+  "https://www.sportsworldi.com/newsView/20260903509305",
+  "https://www.imaeil.com/page/view/2026090312213916554",
+  "https://www.seoul.co.kr/news/society/2026/09/03/20260903500114?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "중국인여대생실종5일만에숨진채발견…30대피의자체포",
-  "[천지일보이슈종합]호르무즈기뢰·쿠팡조사거부·제주장미란·당원...",
-  "[WhoIs?]허진수상미당홀딩스대표이사부회장",
-  "최유삼號신정원,기업여신차주매핑해녹색기업찾는다…'기후금융웹...",
-  "[오늘의주요일정·26일]기후부,산업용지역전기요금제공청회",
-  "공정위현장조사전면거부한쿠팡…사상초유‘빈손철수’사태外...",
-  "[더벨][윤활유담합과징금리스크]극동유화,'시총육박'과징금감당...",
-  "'LH입찰담합'공기업직원들무죄확정…증거위법수집",
-  "동대구역서실종된20대중국인유학생숨진채발견…30대중국인체포",
-  "'경산실종'중국인여대생,엿새만에주검으로…신고한남성이피의자",
-  "중국인유학생살해피의자는최초신고자",
   "‘실종’20대중국인여성유학생끝내주검으로…피의자는실종신고...",
   "'빵하나에1만6천원?'…가격표에소비자'발칵'",
   "\"연락안된다\"직접신고하더니…'실종'20대유학생살해피의자검거",
@@ -6001,7 +5990,18 @@
   "경찰,'사기적부정거래혐의'방시혁하이브의장불구속송치",
   "경찰,방시혁하이브의장불구속송치…\"기존주주지분팔게유도\"",
   "“성과급은현금대신주식”...삼성이끌어올린대기업주식약정66%↑",
-  "대기업집단,순환출자·자사주줄고주식보상늘었다"
+  "대기업집단,순환출자·자사주줄고주식보상늘었다",
+  "유진그룹이어웅진도경영승계에RSU활용",
+  "대기업집단사익편취규제대상1047개…사상첫1000개돌파",
+  "마운자로국내외가격격차에공정위\"개입어렵다\"…醫\"복지부나서야...",
+  "총수·임원주식보상1년새65.7%급증…삼성만317건",
+  "'사기적부정거래혐의'방시혁불구속송치…수사1년8개월만",
+  "방시혁,결국오늘(3일)불구속송치…“2631억부당이득”",
+  "경찰,‘자본시장법위반’방시혁하이브의장등5명불구속송치",
+  "[속보]경찰,방시혁'사기적부정거래혐의'불구속검찰송치",
+  "‘사기적부정거래혐의’방시혁하이브의장불구속송치…2631억부당...",
+  "방시혁하이브의장불구속송치…2631억부당이득혐의",
+  "“상장계획없다”해놓고뒤에선‘상장보장’…방시혁,21개월만에..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "주식보상 대기업집단 자사주 줄고 늘었다 순환출자"
   ]
  ],
- "last_run": "2026-09-03T12:31:02.048063+09:00",
+ "last_run": "2026-09-03T12:40:58.112107+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
