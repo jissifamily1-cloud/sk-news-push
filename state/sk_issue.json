@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/600124",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6938532",
   "https://www.mydaily.co.kr/page/view/2026082613275636937",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7180745",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547066",
@@ -2999,11 +2997,11 @@
   "http://www.newstown.co.kr/news/articleView.html?idxno=714625",
   "https://www.hankookilbo.com/news/article/A2026090311260002789?did=NA",
   "https://www.hankyung.com/article/2026090328721",
-  "https://www.hani.co.kr/arti/society/society_general/1276126.html"
+  "https://www.hani.co.kr/arti/society/society_general/1276126.html",
+  "https://sports.khan.co.kr/article/202609031826013?pt=nv",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260904010001576"
  ],
  "seen_titles": [
-  "‘LH입찰뒷돈’직원들‘위법수집증거’로무죄",
-  "[롯데지주점검③]케미칼재편본격화…기초화학이익455억→23억",
   "‘전문직·명문대회원수업계최다’거짓광고…공정위,듀오에과징...",
   "쿠팡,공정위현장조사거부…'7일전통지'놓고법정공방",
   "“화환1천원에넘겨라”…장례식장갑질횡포막는다",
@@ -6001,17 +5999,11 @@
   "인천시의회최병은의원,지역상품조례'차별용어'손본다",
   "'2631억부당이득'방시혁등송치…\"자본시장신뢰훼손한조직적범죄...",
   "'1568억부당이득'방시혁불구속송치",
-  "강호동농협회장‘억대부의금’정황포착…경찰,수사착수"
+  "강호동농협회장‘억대부의금’정황포착…경찰,수사착수",
+  "KFA,지소연향한주심의부적절발언공정위에이첩",
+  "규제이슈에흔들리는쿠팡…'공정위리스크'내년흑자변수"
  ],
  "recent_sigs": [
-  [
-   "2026-09-03T12:20:58.912281+09:00",
-   "대기업 삼성이 주식 성과급은 대신 끌어올린 주식약정 현금"
-  ],
-  [
-   "2026-09-03T12:20:58.912281+09:00",
-   "주식보상 대기업집단 자사주 줄고 늘었다 순환출자"
-  ],
   [
    "2026-09-03T13:01:09.104214+09:00",
    "넘었다 절반 삼성전자가 주식보상 급증 대기업"
@@ -6025,7 +6017,7 @@
    "바뀐 롯데 의무 소각 자기주식 비중 이유는 1위"
   ]
  ],
- "last_run": "2026-09-03T18:20:53.519521+09:00",
+ "last_run": "2026-09-03T18:31:06.370936+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
