@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12077735",
-  "https://news.tf.co.kr/read/economy/2334269.htm",
-  "https://biz.sbs.co.kr/article_hub/20000317490?division=NAVER",
-  "https://www.mt.co.kr/industry/2026/06/18/2026061816344739577",
   "http://www.inews24.com/view/1977750",
   "https://www.newsis.com/view/NISX20260618_0003674821",
   "http://www.queen.co.kr/news/articleView.html?idxno=458868",
@@ -2999,13 +2995,13 @@
   "https://www.socialvalue.kr/news/view/1065592475590093",
   "http://www.newstomato.com/ReadNews.aspx?no=1312443&inflow=N",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3074208",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=318616"
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=318616",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290022",
+  "http://www.metroseoul.co.kr/article/20260903500397",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260903010001418",
+  "http://www.tvdaily.co.kr/read.php3?aid=17884176481800700008"
  ],
  "seen_titles": [
-  "글로벌복합위기속생존전략은…26일연합뉴스한반도심포지엄",
-  "SK창업주일가3세최영근씨,5년만에그룹복귀…헤리티지팀장근무",
-  "'SK창업주일가3세'최영근씨,5년만에그룹지주사복귀",
-  "SK창업주장손최영근…5년만에그룹팀장복귀",
   "'SK창업주장손'최영근,5년만에SK㈜복귀",
   "SK그룹장손최영근,5년만에지주사로복귀",
   "SK그룹장손최영근씨,5년만에SK㈜팀장으로복귀",
@@ -6001,7 +5997,11 @@
   "SK이노울산CLX,제조AI의방향제시한다…최태원의'AI풀스팩'전략구...",
   "이대통령,정의선과비공개회동…새만금·미통상현안논의",
   "사회적가치연구원기후테크선금융모색",
-  "\"어느대학나왔나요?\"에서\"AI로풀어보세요\"...기업은무엇을볼까"
+  "\"어느대학나왔나요?\"에서\"AI로풀어보세요\"...기업은무엇을볼까",
+  "용인특례시의회,'스마트행정연구회'출범…AI행정혁신연구",
+  "경기도의회남종섭의장,국회서'지방의회법'연내제정촉구",
+  ":\"도둑감시할의회손발묶여있다\"…남종섭경기도의장,국회서던진...",
+  "안셀엘고트,韓행사에日유카타입고등장…사전드레스코드'무색..."
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-09-03T15:50:14.191728+09:00",
    "무엇을 볼까 풀어보세요 기업은 대학 에서 나왔나요 AI로 어느"
+  ],
+  [
+   "2026-09-03T16:00:28.994367+09:00",
+   "행사에 유카타 등장 엘고트 입고 코드 드레스 안셀 사전 무색"
   ]
  ],
- "last_run": "2026-09-03T15:50:27.959883+09:00",
+ "last_run": "2026-09-03T16:00:44.051063+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
