@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=712692",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/515087",
-  "https://www.mydaily.co.kr/page/view/2026081812143571534",
-  "https://www.livebiz.today/news/articleView.html?idxno=204206",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105910",
-  "https://www.pennmike.com/news/articleView.html?idxno=125859",
-  "https://biz.sbs.co.kr/article_hub/20000329206?division=NAVER",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271924",
   "https://www.ytn.co.kr/_ln/0103_202608181430473855",
   "https://www.m-i.kr/news/articleView.html?idxno=1403210",
@@ -2999,16 +2992,16 @@
   "https://www.incheonilbo.com/news/articleView.html?idxno=1331148",
   "https://bizhankook.com/articles/sk-hynix-closes-loca-capital.html",
   "https://www.widedaily.com/news/articleView.html?idxno=300540",
-  "https://www.m-economynews.com/news/article.html?no=70381"
+  "https://www.m-economynews.com/news/article.html?no=70381",
+  "http://www.metroseoul.co.kr/article/20260903500125",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1100470",
+  "https://www.m-i.kr/news/articleView.html?idxno=1409551",
+  "https://www.kyeonggi.com/article/20260903580101",
+  "https://www.hankyung.com/article/202609031740i",
+  "https://www.newsis.com/view/NISX20260902_0003773850",
+  "http://www.dailypop.kr/news/articleView.html?idxno=102187"
  ],
  "seen_titles": [
-  "허키시바세키,이날치밴드이재남편이었다…결혼식영상공개(라스)",
-  "'적자늪'벗어나캐시카우된솔리다임…분할상장논란분분",
-  "[K-기업AX대전환①전자·반도체]‘AI네이티브’기업탈바꿈속도",
-  "김해시,폭염·가뭄지친농작물에유용미생물무상공급",
-  "허키시바세키,♥아내는이날치밴드이재였다…결혼식영상공개(라스...",
-  "[재계빅4,하반기승부수③]최태원,HBM넘어‘AI인프라SK’로…15G...",
-  "현대건설,테라파워원전최대8기EPC우선권확보...원전분야협력확...",
   "[산업콕!]게이츠방한에뜬K-SMR...SK·HD현대·두산'삼각편대'",
   "[막전막후]이재명식기준으로는'전당대회도패배'",
   "[투자전략따라잡기]미·이란긴장고조불안한美…이번주전망?",
@@ -6001,7 +5994,14 @@
   "\"반쪽자치끝낸다\"…경기도의회'지방의회법'연내제정결의",
   "[단독]일본반도체투자검토하는SK,현지투자사'로카캐피탈'청산...",
   "최태원\"日투자매력적\"…SK하이닉스·키옥시아낸드동맹시동거나",
-  "SK이노베이션울산CLX,‘WAVE2026’서제조AI혁신기술총망라"
+  "SK이노베이션울산CLX,‘WAVE2026’서제조AI혁신기술총망라",
+  "용인특례시의회,'스마트행정연구회'공식출범",
+  "용인특례시의회,AI·빅데이터활용한행정혁신정책연구착수",
+  "용인특례시의회의원연구단체'스마트행정연구회'발대식개최",
+  "남종섭·강득구“지방자치35년,제도적완성이룰때”…지방의회법...",
+  "李대통령,전날정의선현대차회장과비공개회동",
+  "中창신메모리,삼전·닉스와나란히DDR5양산…중국모바일서실탄쌓...",
+  "[뉴스줌인]美인디애나이어日미야기현까지…SK하이닉스에쏟아지는..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,21 @@
   [
    "2026-09-03T10:10:17.684029+09:00",
    "복안 회수냐 일본서 반도체 합작이냐 드러낸"
+  ],
+  [
+   "2026-09-03T11:20:15.414223+09:00",
+   "정의선 회장과 비공개 회동 전날 현대차 대통령"
+  ],
+  [
+   "2026-09-03T11:20:15.414223+09:00",
+   "삼전 중국 창신메모리 양산 모바일서 실탄 나란히 닉스와 DDR5"
+  ],
+  [
+   "2026-09-03T11:20:15.414223+09:00",
+   "SK하이닉스에 미야기현까지 쏟아지는 이어 인디애나"
   ]
  ],
- "last_run": "2026-09-03T11:10:24.640340+09:00",
+ "last_run": "2026-09-03T11:20:35.884999+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
