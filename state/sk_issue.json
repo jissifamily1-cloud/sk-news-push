@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1311025&inflow=N",
-  "https://www.joongang.co.kr/article/25456278",
-  "https://www.sisajournal.com/news/articleView.html?idxno=384832",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245192",
   "http://www.yonhapnewstv.co.kr/news/AKR20260826112957vQZ",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391308",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12143464",
   "https://www.datasom.co.kr/news/articleView.html?idxno=209798",
   "https://www.khan.co.kr/article/202609031555021",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=59945"
+  "https://www.sejungilbo.com/news/articleView.html?idxno=59945",
+  "https://www.hani.co.kr/arti/society/society_general/1276080.html",
+  "https://biz.chosun.com/topics/topics_social/2026/09/03/EHRTF6CYAVHONN4WVH5VKATODY/",
+  "https://www.sisajournal.com/news/articleView.html?idxno=385946"
  ],
  "seen_titles": [
-  "(단독)간첩단사건'무죄'에도포상금은'국고환수'불가…국정원은'생...",
-  "혼선주려여장까지…中유학생살해혐의중국인수사본격화",
-  "SK주유소서GS칼텍스기름판다…타사제품최대40%까지허용",
   "'할인비용전가의혹'쿠팡,공정위현장조사거부",
   "국힘주진우\"투표수보다득표수많은투표소46곳적발\"",
   "주진우\"투표수보다득표수많은'유령투표소'46곳적발…특검강제수...",
@@ -6001,7 +5998,10 @@
   "공정위,대기업내부지분율61%...총수일가가지분3.5%로장악",
   "대기업계열사10곳중8곳총수일가직접보유지분'0'",
   "총수일가사익편취규제회사처음으로1000개넘어···삼성,‘임원...",
-  "공정위,총수있는대기업주식소유형황공개…'사익편취규제'대상89..."
+  "공정위,총수있는대기업주식소유형황공개…'사익편취규제'대상89...",
+  "[단독]반구대병원‘사인미상’환자도…다른환자가밀친뒤숨져",
+  "‘3명사망’천안대원산업압수수색…경찰,관계자3명입건",
+  "천안공장화재3명사망…회사관계자3명입건·공장압수수색"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "위법 과징금서 갈렸다 이통3사 5G 광고는 모두"
   ]
  ],
- "last_run": "2026-09-03T16:11:13.475693+09:00",
+ "last_run": "2026-09-03T16:21:03.120098+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
