@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276019",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260902010000733",
-  "https://news.jtbc.co.kr/article/NB12316274?influxDiv=NAVER",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=201235",
-  "https://jp.yna.co.kr/view/AJP20260902000900882?input=1728m",
-  "http://www.metroseoul.co.kr/article/20260902500147",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/02/2026090200130.html",
   "https://biz.heraldcorp.com/article/10860087",
   "https://www.cnbnews.com/news/articleView.html?idxno=1013940",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12143831",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260904.22012000746",
   "https://www.mk.co.kr/article/12143830",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000008883&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000008883&cp=nv",
+  "https://www.edaily.co.kr/News/Read?newsId=05149606645576512&mediaCodeNo=257",
+  "https://www.segye.com/newsView/20260903515624?OutUrl=naver",
+  "http://www.fashionn.com/board/read_new.php?table=1023&number=62277",
+  "http://www.cctimes.kr/news/articleView.html?idxno=925431",
+  "https://www.dt.co.kr/article/12082055",
+  "https://www.sedaily.com/article/20087002"
  ],
  "seen_titles": [
-  "금리부담커질수록자산잘굴린기업뜬다",
-  "[재계인사이드]치열한하이엔드아파트경쟁,삼성물산의‘래미안딜...",
-  "MicronTaiwanUnionMembersVoteOver80%inFavorofStrike",
-  "SNT에너지,하동LNG발전핵심설비1282억원수주",
-  "김용범\"성장의과실,국민에닿도록고민하고방안찾아야\"",
-  "[제약레이더]SK바이오팜·GC녹십자의료재단·메디톡스,AI인프라부터...",
   "韓国主要企業の平均給与6カ月で約640万円＝前年比7.1％増",
   "SK이노발달장애인음악축제10년…대표사회공헌으로성장",
   "현찰은예금,주식은은행주…고금리시대돈몰리는은행",
@@ -6001,7 +5995,13 @@
   "[포토]문가영,바람같이퇴장",
   "[증시와이드]한가지에의지한다는것",
   "[포토]문가영,윙크에빠져들어",
-  "삼전닉스또때린러트닉…“美서안만들면대가”"
+  "삼전닉스또때린러트닉…“美서안만들면대가”",
+  "美서메모리안만드는삼성·SK…'투자연계관세'새변수",
+  "관세핑계로사실상‘반도체현지생산’압박…삼전닉스는예의주시",
+  "[패션엔포토]트와이스미나,성수동이발칵!찰랑찰랑매혹적인홀터...",
+  "SK하이닉스,충북취약계층노인알츠하이머조기검진지원",
+  "호남팹투자해도‘전환배치’불가…인력확보난망",
+  "“불장에돈좀땡겼지!”아이오닉5N몰고등장…143만명홀린어르신..."
  ],
  "recent_sigs": [
   [
@@ -7351,9 +7351,17 @@
   [
    "2026-09-03T19:11:36.752181+09:00",
    "때린 만들면 대가 러트닉 삼전닉스"
+  ],
+  [
+   "2026-09-03T19:21:03.734739+09:00",
+   "인력확보 난망 전환배치 투자해도 불가 호남팹"
+  ],
+  [
+   "2026-09-03T19:21:03.734739+09:00",
+   "땡겼지 몰고 143만명 아이오닉5N 홀린 불장에 등장 어르신"
   ]
  ],
- "last_run": "2026-09-03T19:11:53.079920+09:00",
+ "last_run": "2026-09-03T19:21:13.470492+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
