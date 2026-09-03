@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.doctorstimes.com/news/articleView.html?idxno=239549",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=413529",
   "http://www.joseilbo.com/news/news_read.php?uid=573975&class=32",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213089",
   "https://www.newsen.com/news_view.php?uid=202608181305500310",
@@ -2999,11 +2997,11 @@
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=191588",
   "https://www.fnnews.com/news/202609030934006198",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307395",
-  "https://www.sedaily.com/article/20086599"
+  "https://www.sedaily.com/article/20086599",
+  "https://www.viva100.com/article/20260903500568",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362591"
  ],
  "seen_titles": [
-  "하이닉스·이노베이션‘쌍끌이’…SK목표주가56만원→77만원[오늘,...",
-  "한국기업찾는글로벌거물들…\"협력방안계속구체화\"",
   "통영시,경남형청년마을조성사업4개단체선정",
   "경기도산모·소아의료인프라부족,전원체계개선만으론해결안돼",
   "아산시둔포면,제75회둔포면민의날문화체육축제한마당개최",
@@ -6001,7 +5999,9 @@
   "SK이노베이션울산CLX,'듀얼브레인'기반제조AI미래비전추진",
   "SK이노울산CLX,제조AI선보인다…울산세계미래산업박람회",
   "\"회수냐합작이냐\"···최태원,일본서드러낸반도체복안",
-  "최태원,일본메모리공장검토…키옥시아손잡고‘낸드1위’노린다"
+  "최태원,일본메모리공장검토…키옥시아손잡고‘낸드1위’노린다",
+  "용인특례시의회,스마트행정연구회로디지털혁신가속화",
+  "반도체·데이터센터로축적SK의AI역량,SK이노울산CLX제조현장서..."
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "복안 회수냐 일본서 반도체 합작이냐 드러낸"
   ]
  ],
- "last_run": "2026-09-03T10:40:26.023493+09:00",
+ "last_run": "2026-09-03T10:50:25.773479+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
