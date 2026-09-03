@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260902_0003773274",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=358302",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=502140",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=225862",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=663683",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=741950",
   "https://www.sisajournal.com/news/articleView.html?idxno=385747",
   "https://www.edaily.co.kr/News/Read?newsId=03958966645576184&mediaCodeNo=257",
   "https://www.getnews.co.kr/news/articleView.html?idxno=879609",
@@ -2999,15 +2993,15 @@
   "https://biz.chosun.com/science-chosun/bio/2026/09/04/KT2BS7CHUVAJRLHU5VHPDDWXGU/",
   "https://www.news1.kr/finance/general-stock/6279593",
   "https://www.news1.kr/finance/general-stock/6279591",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309608"
+  "https://www.fetv.co.kr/news/articleView.html?idxno=309608",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169439",
+  "https://www.khan.co.kr/article/202609040600031",
+  "https://www.news1.kr/industry/sb-founded/6279286",
+  "https://www.khan.co.kr/article/202609040600041",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3042416",
+  "https://www.segye.com/newsView/20260903515741?OutUrl=naver"
  ],
  "seen_titles": [
-  "[EZ분양프리뷰]광주도심최대급복합개발본격화…'올뉴챔피언스...",
-  "美·이란다시붙자'삼전닉스'4%와르르…코스피도6500선",
-  "전남광주,반도체미래향한'붐업'…전남대서토크콘서트",
-  "[이슈+]SK리밸런싱선명해졌다…AI는분리·에너지는통합",
-  "[분석_바이오테크⑩SK바이오사이언스]안재용체제의SK바이오사이언스...",
-  "SK하이닉스162만9000원,3.78%하락…美금리급등에반도체주'휘청'",
   "100만명몰리는불꽃축제…이통3사,AI로'통신대란'막는다",
   "정재헌SKTCEO,기술시대생존법제시…\"불편함골짜기건너야도약\"",
   "최태원\"日키옥시아와공동생산도선택지…협력없으면투자종료\"",
@@ -6001,7 +5995,13 @@
   "K바이오기술수출벌써21兆…역대최대실적기대",
   "5%넘보는美10년국채금리…투자위축시코스피직격탄",
   "\"해외IB보고서믿어도될까\"…외국인은파는데코스피1만전망유지",
-  "한화손보,캐롯손보통합1년…車보험시장점유율6%"
+  "한화손보,캐롯손보통합1년…車보험시장점유율6%",
+  "스페이스X외면한타임폴리오,CXMT뺀KB운용…왜?",
+  "“국내RE100기업사업장재생에너지사용률,국내선13%,해외선67%”",
+  "김진영엑시나대표\"AI인프라승부처,연산아닌메모리효율확장\"[K-...",
+  "잔치는끝났나…거래대금급감·금리인상에고개숙인증권주",
+  "4천억펀드부터병원·생산까지…삼성의신약개발확장전략",
+  "대기업총수일가지분3.5%로61.4%내부지배"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,33 @@
   [
    "2026-09-04T06:11:04.650131+09:00",
    "통합 1년 보험 캐롯손보 한화손보 시장점유율"
+  ],
+  [
+   "2026-09-04T06:21:00.375554+09:00",
+   "KB운용 외면한 스페이스X 타임폴리오 CXMT"
+  ],
+  [
+   "2026-09-04T06:21:00.375554+09:00",
+   "국내선 해외선 사용률 RE100 국내 재생에너지 기업 사업장"
+  ],
+  [
+   "2026-09-04T06:21:00.375554+09:00",
+   "연산 AI 김진영 아닌 대표 효율확장 엑시나 인프라 메모리 승부처"
+  ],
+  [
+   "2026-09-04T06:21:00.375554+09:00",
+   "금리인상에 끝났나 거래대금 증권주 잔치는 급감 고개 숙인"
+  ],
+  [
+   "2026-09-04T06:21:00.375554+09:00",
+   "전략 확장 펀드부터 신약개발 병원 생산까지 4천억 삼성의"
+  ],
+  [
+   "2026-09-04T06:21:00.375554+09:00",
+   "내부 지배 지분 총수일가 대기업"
   ]
  ],
- "last_run": "2026-09-04T06:11:59.854180+09:00",
+ "last_run": "2026-09-04T06:21:19.744775+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
