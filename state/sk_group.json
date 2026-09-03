@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266319",
-  "https://www.etnews.com/20260902000343",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005913699",
-  "https://www.newspim.com/news/view/20260902000845",
-  "https://www.newsis.com/view/NISX20260902_0003773359",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=610590",
   "https://view.asiae.co.kr/article/2026090214320387517",
   "https://www.cstimes.com/news/articleView.html?idxno=719126",
   "https://dealsite.co.kr/articles/168286",
@@ -2999,15 +2993,15 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092169405",
   "https://www.ceoscoredaily.com/page/view/2026090110554634708",
   "https://www.edaily.co.kr/News/Read?newsId=02384566645576840&mediaCodeNo=257",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8654513"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8654513",
+  "https://www.g-enews.com/view.php?ud=20260904070948481fbbec65dfb_1",
+  "https://news.tf.co.kr/read/economy/2361836.htm",
+  "https://www.greened.kr/news/articleView.html?idxno=349218",
+  "https://www.ppss.kr/news/articleView.html?idxno=308737",
+  "https://news.ifm.kr/news/articleView.html?idxno=478592",
+  "https://news.jtbc.co.kr/article/NB12316659?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "국힘부산의원\"금융위,금감원도세종아닌부산이전원해\"",
-  "SK이노E&S,액화수소충전소에기체수소더한다···5곳우선검토",
-  "통신3사,100만명인파불꽃축제앞두고'이동기지국·AI'로혼잡대비",
-  "통신3사,여의도불꽃축제대비비상체계가동",
-  "이통3사,AI·5G로불꽃축제통신망관리'총력'",
-  "최태원회장\"키옥시아와공동생산도선택지\"…日투자검토",
   "\"복지사각지대발굴·고독사예방\"청주시,복지안전망강화",
   "신학기수협은행장연임출사표…6파전",
   "옛전방·일신방직부지에3천216가구…‘챔피언스시티1차’분양",
@@ -6001,7 +5995,13 @@
   "\"아이폰17'차비폰'됐다\"…아이폰신작출시에통신사보조금경쟁시...",
   "현대百,계열사24개중절반이‘상장사’…4대유통그룹중‘최다’,...",
   "국민의힘,용혜인·김승원‘쌍끌이낙마’총공세[오늘의여의도]",
-  "“달러값1350원대로급락”…지금안사면또후회할까?[잇슈머니]"
+  "“달러값1350원대로급락”…지금안사면또후회할까?[잇슈머니]",
+  "CXMT,D램점유율10%돌파...삼성·SK가격방어선흔든다",
+  "뉴욕증시,연준이사금리동결시사에1%대상승마감",
+  "이재용·최태원회장,오는28일뉴욕에서젠슨황CEO와회동왜?...트럼...",
+  "'새만금투자논의했나'…이재명·정의선,비공개회동에이목집중",
+  "'6조KODEX'변동성논란부터'40조소각'SK하이닉스까지[머니카운터...",
+  "이재용·최태원,28일뉴욕서젠슨황만난다…수상직접축하"
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,21 @@
   [
    "2026-09-04T07:11:41.060077+09:00",
    "급락 달러값 사면 지금 후회할까 1350원대로"
+  ],
+  [
+   "2026-09-04T07:21:05.807799+09:00",
+   "새만금 이재명 비공개 정의선 논의했나 집중 투자 회동에 이목"
+  ],
+  [
+   "2026-09-04T07:21:05.807799+09:00",
+   "KODEX 소각 머니카운터 변동성 40조 SK하이닉스까지 논란부터 6조"
+  ],
+  [
+   "2026-09-04T07:21:05.807799+09:00",
+   "이재용 직접 만난다 축하 28일 뉴욕서 수상 최태원 젠슨"
   ]
  ],
- "last_run": "2026-09-04T07:12:37.719508+09:00",
+ "last_run": "2026-09-04T07:21:17.494666+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
