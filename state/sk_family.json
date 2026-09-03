@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260819000199",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=87179",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=85446",
-  "http://www.inews24.com/view/1996086",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640048",
-  "https://www.pharmnews.com/news/articleView.html?idxno=305687",
-  "https://www.mt.co.kr/policy/2026/08/19/2026081909500925414",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2052634",
   "https://www.newsis.com/view/NISX20260819_0003753798",
   "https://www.news1.kr/economy/trend/6262648",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16426",
@@ -2999,17 +2991,17 @@
   "https://biz.sbs.co.kr/article_hub/20000332611?division=NAVER",
   "https://www.sedaily.com/article/20086916",
   "https://www.techm.kr/news/articleView.html?idxno=154916",
-  "https://www.insight.co.kr/news/571817"
+  "https://www.insight.co.kr/news/571817",
+  "https://www.kgnews.co.kr/news/article.html?no=910225",
+  "https://www.joongboo.com/news/articleView.html?idxno=363735672",
+  "https://www.newsen.com/news_view.php?uid=202609031732366710",
+  "https://www.onews.tv/news/articleView.html?idxno=286247",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722931",
+  "http://www.sisacast.kr/news/articleView.html?idxno=99570",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260903173130kEz",
+  "https://news.jtbc.co.kr/article/NB12316600?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[K-지능강국]①800조공장지어도끝아니다···대한민국을하나의...",
-  "글로벌AI생태계를향한담대한비전,'샌프란AI선언'[지식용어]",
-  "지역감정넘어선하모니,영·호남청소년이쏘아올리다",
-  "광주·대구·여수·부산청소년400명전남대서합동연주",
-  "단순히눈마르는줄알았는데…안구건조증방치하다'각막염·결막염...",
-  "광주·대구·여수·부산청소년400명,음악으로잇는영호남",
-  "삼성전자,플랙트HVAC광주서만든다…2400억투자",
-  "민주당새지도부‘TK0명’…지역현안동력비상",
   "씨엔알리서치,9월1일'RWE실무로드맵'후속교육세션개최",
   "광주학생교육문화회관,전남대서'영·호남교류음악회'개최",
   "제24회모의공정위,참신한시각과논리로공정거래이슈풀어내",
@@ -6001,13 +5993,17 @@
   "'한일경제공동체'주장한최태원,일본공장세울까[CEO업&다운]",
   "TSMC“팹20개짓지만AI수요폭발에역부족”",
   "\"배치전환노사협상\"...정부'엇박자',3대메가프로젝트좌초우려",
-  "\"공급망,최대투자해도부족\"...최태원회장,키옥시아협력도'선택지..."
+  "\"공급망,최대투자해도부족\"...최태원회장,키옥시아협력도'선택지...",
+  "용인특례시의회의원연구단체‘스마트행정연구회’발대식개최",
+  "이원과천시테니스협회장,\"테니스를사랑하는마음으로우정나누는...",
+  "류승수“‘아무도날모르고돈많았으면’정반대로흘러가고있다”...",
+  "경기도의회남종섭의장국회서'지방의회법연내제정'강력촉구",
+  "SK이노베이션울산CLX,'듀얼브레인'으로제조AI미래그린다",
+  "SK사회적가치연구원,기후테크선금융메커니즘논의\"미래기후성과...",
+  "이대통령,어제정의선과비공개회동…새만금투자논의한듯",
+  "이대통령,정의선회장과비공개회동…'새만금9조투자'논의했나"
  ],
  "recent_sigs": [
-  [
-   "2026-09-03T11:40:15.837890+09:00",
-   "이유 입에 시선 반도체 마지막 퍼즐 부활 쏠리는 HBM"
-  ],
   [
    "2026-09-03T12:10:14.891862+09:00",
    "계열사 없어도 지분 8곳엔 총수일가 10곳 직접 지배"
@@ -6091,9 +6087,13 @@
   [
    "2026-09-03T17:30:23.163332+09:00",
    "투자해도 선택지 공급망 회장 부족 협력도 키옥시아"
+  ],
+  [
+   "2026-09-03T17:50:14.404804+09:00",
+   "논의했나 투자 정의선 새만금 대통령 회장과 9조 비공개 회동"
   ]
  ],
- "last_run": "2026-09-03T17:40:25.918783+09:00",
+ "last_run": "2026-09-03T17:50:29.834375+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
