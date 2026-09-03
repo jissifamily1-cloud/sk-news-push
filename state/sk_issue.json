@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10852487",
-  "https://www.busan.com/view/busan/view.php?code=2026082608080794215",
-  "https://www.munhwa.com/article/11612147",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690090.html",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=362233",
-  "https://view.asiae.co.kr/article/2026082609485617023",
   "https://www.khan.co.kr/article/202608261059001",
   "http://www.seouleconews.com/news/articleView.html?idxno=93313",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646461",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260903000832",
   "https://www.newsis.com/view/NISX20260903_0003774951",
   "https://www.etoday.co.kr/news/view/2621607",
-  "https://www.khan.co.kr/article/202609031502001"
+  "https://www.khan.co.kr/article/202609031502001",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88801",
+  "http://www.knpnews.com/news/articleView.html?idxno=34421",
+  "https://www.joongang.co.kr/article/25458843",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005392",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317902",
+  "https://www.ytn.co.kr/_ln/0115_202609031514213185"
  ],
  "seen_titles": [
-  "“투표지<득표수,전국‘유령투표소’46곳확인”",
-  "‘딥페이크·관권선거의혹’전·현직경남도공무원구속기로…내일...",
-  "中여대생살해피의자…경찰에실종신고한30대중국인",
-  "주진우\"투표한사람은1000명인데득표는1101표…전국46곳서'숫자불...",
-  "​​​​​​​쿠팡은왜공정위조사를거부했나?",
-  "\"공정위기습조사,적법절차결여\"美하원보고서에서자신감얻었나…...",
   "참여연대“공정위현장조사거부한쿠팡,초법기업인가”",
   "쿠팡,공정위현장조사거부'미묘한파장'…\"대규모유통업법상처음\"",
   "[단독]주가조작합동대응단,한미회계법인압수수색…미공개정보이용...",
@@ -6001,7 +5995,13 @@
   "노동부·경찰,화재로3명사망한천안대원산업압수수색착수",
   "\"여행비1년전선납했건만\"…갑자기문닫은여행사9000명날벼락",
   "방시혁측,'사기적부정거래'혐의검찰송치에\"투명한의혹해소기대...",
-  "‘3명사망’천안대원산업화재에회사관계자3명입건·압수수색"
+  "‘3명사망’천안대원산업화재에회사관계자3명입건·압수수색",
+  "대기업집단내부지분율61.4%…순환출자1,202개줄었다",
+  "\"업계최다\"근거못댄듀오…3.45억과징금에구체답변은\"시간필요...",
+  "‘3명사망’대원산업폭발·화재…노동부·경찰,압수수색",
+  "방시혁측,사기적부정거래혐의검찰송치에\"의혹투명하게해소될...",
+  "방시혁하이브의장21개월만에불구속송치…하이브\"혐의전면부인\"",
+  "'5명사상'천안화재공장등압수수색...대표등3명입건"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "넘었다 절반 삼성전자가 주식보상 급증 대기업"
   ]
  ],
- "last_run": "2026-09-03T15:20:57.294283+09:00",
+ "last_run": "2026-09-03T15:31:23.004705+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
