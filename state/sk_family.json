@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1977750",
-  "https://www.newsis.com/view/NISX20260618_0003674821",
-  "http://www.queen.co.kr/news/articleView.html?idxno=458868",
-  "https://magazine.hankyung.com/business/article/202606184882b",
-  "https://zdnet.co.kr/view/?no=20260618154946",
   "https://www.news1.kr/industry/general-industry/6201554",
   "https://www.mk.co.kr/article/12106500",
   "https://www.usmbc.co.kr/NewsArticle/854167",
@@ -2999,14 +2994,14 @@
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290022",
   "http://www.metroseoul.co.kr/article/20260903500397",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260903010001418",
-  "http://www.tvdaily.co.kr/read.php3?aid=17884176481800700008"
+  "http://www.tvdaily.co.kr/read.php3?aid=17884176481800700008",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317911",
+  "https://www.joongangenews.com/news/articleView.html?idxno=545392",
+  "https://www.sportsworldi.com/newsView/20260903512770",
+  "https://www.m-i.kr/news/articleView.html?idxno=1409781",
+  "http://www.newstomato.com/ReadNews.aspx?no=1312454&inflow=N"
  ],
  "seen_titles": [
-  "'SK창업주장손'최영근,5년만에SK㈜복귀",
-  "SK그룹장손최영근,5년만에지주사로복귀",
-  "SK그룹장손최영근씨,5년만에SK㈜팀장으로복귀",
-  "'SK家장손'최영근,5년만에SK복귀",
-  "'SK家창업주장손'최영근,5년만에복귀…\"그룹헤리티지보존역할...",
   "SK창업주장손최영근씨,5년만에경영일선복귀....SK그룹지주사헤...",
   "SK창업주장손최영근,대마혐의공백깨고SK(주)복귀",
   "SK家창업주장손최영근,5년만에지주사복귀",
@@ -6001,13 +5996,14 @@
   "용인특례시의회,'스마트행정연구회'출범…AI행정혁신연구",
   "경기도의회남종섭의장,국회서'지방의회법'연내제정촉구",
   ":\"도둑감시할의회손발묶여있다\"…남종섭경기도의장,국회서던진...",
-  "안셀엘고트,韓행사에日유카타입고등장…사전드레스코드'무색..."
+  "안셀엘고트,韓행사에日유카타입고등장…사전드레스코드'무색...",
+  "용인특례시의회'스마트행정연구회'출범...AI로행정혁신해법찾는다",
+  "[지방의회24時]'스마트행정연구회',AI·빅데이터활용한스마트행정...",
+  "'아무도나를모르고돈이많았으면'류승수,굿즈제작근황부터요로...",
+  "남종섭경기도의회의장,지방의회법연내제정국회·정부에촉구",
+  "하닉,일본반도체공장?…최태원진의놓고해석‘분분’"
  ],
  "recent_sigs": [
-  [
-   "2026-09-03T10:10:17.684029+09:00",
-   "복안 회수냐 일본서 반도체 합작이냐 드러낸"
-  ],
   [
    "2026-09-03T11:20:15.414223+09:00",
    "정의선 회장과 비공개 회동 전날 현대차 대통령"
@@ -6079,9 +6075,13 @@
   [
    "2026-09-03T16:00:28.994367+09:00",
    "행사에 유카타 등장 엘고트 입고 코드 드레스 안셀 사전 무색"
+  ],
+  [
+   "2026-09-03T16:20:15.403560+09:00",
+   "반도체 하닉 공장 일본 분분 해석 진의 놓고"
   ]
  ],
- "last_run": "2026-09-03T16:10:27.047471+09:00",
+ "last_run": "2026-09-03T16:20:29.203805+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
