@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25458748",
-  "https://www.segye.com/newsView/20260903507272?OutUrl=naver",
   "http://www.finomy.com/news/articleView.html?idxno=260697",
   "https://www.kmecnews.co.kr/news/articleView.html?idxno=51608",
   "https://www.ppss.kr/news/articleView.html?idxno=308666",
@@ -2999,11 +2997,11 @@
   "https://www.fnnews.com/news/202609041623001340",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1722983",
   "https://www.khan.co.kr/article/202609050600051",
-  "https://www.medipana.com/news/articleView.html?idxno=417103"
+  "https://www.medipana.com/news/articleView.html?idxno=417103",
+  "https://www.seoul.co.kr/news/economy/securities/2026/09/05/20260905500001?wlog_tag3=naver",
+  "https://www.sedaily.com/article/20087468"
  ],
  "seen_titles": [
-  "[Telecom&Now]LGU+,제천국제음악영화제미디어파트너…U+tv서한눈에...",
-  "호남반도체현장찾은황기연한국수출입은행행장“선제적투자로메...",
   "대구시,반도체검사디자인센터설립위한투자협약체결",
   "한전,삼성전자20조·하이닉스5조전기료선납제안…전력망재원마...",
   "SK하이닉스임단협불발후첫메시지“불이익없도록할것…지속가능...",
@@ -6001,7 +5999,9 @@
   "\"삼성전자67만원·SK하이닉스470만원\"…노무라,메모리수요강세평가",
   "경상흑자2331억달러호재놓친증시…'셀코리아'에발목",
   "9월코스피는원래잔인했다지만,미국중간선거가코스피를살릴수있...",
-  "[제약공시책갈피]9월1주차-알테오젠·유한양행外"
+  "[제약공시책갈피]9월1주차-알테오젠·유한양행外",
+  "[서울데이터랩]미국증시혼조마감…반도체강세에도다우·S＆P500·나...",
+  "美고용호조에금리인상확률재상승...뉴욕증시일제리하락[데일리..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-09-05T06:11:07.638415+09:00",
    "1주차 9월 알테오젠 유한양행"
+  ],
+  [
+   "2026-09-05T06:31:08.653229+09:00",
+   "다우 반도체 혼조 증시 P500 마감 강세에도 미국"
+  ],
+  [
+   "2026-09-05T06:31:08.653229+09:00",
+   "재상승 뉴욕 확률 고용 증시 일제리 하락 데일리 금리인상 호조에"
   ]
  ],
- "last_run": "2026-09-05T06:21:11.366892+09:00",
+ "last_run": "2026-09-05T06:31:18.012459+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
