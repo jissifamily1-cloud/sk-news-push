@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=707335",
-  "https://www.newscj.com/news/articleView.html?idxno=3429790",
-  "https://www.ekn.kr/web/view.php?key=20260903027520040",
-  "https://www.newscj.com/news/articleView.html?idxno=3429787",
   "https://www.news1.kr/realestate/general/6278817",
   "https://www.fnnews.com/news/202609030737282164",
   "https://www.sidae.com/article/2026090310353913258",
@@ -2999,13 +2995,13 @@
   "https://www.segye.com/newsView/20260905502300?OutUrl=naver",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2291368",
   "http://www.bizwnews.com/news/articleView.html?idxno=145295",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=63840"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63840",
+  "https://www.ngonews.kr/news/articleView.html?idxno=237309",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=364871",
+  "https://www.thepublic.kr/news/articleView.html?idxno=317594",
+  "https://www.tokenpost.kr/news/cryptocurrency/402818"
  ],
  "seen_titles": [
-  "中창신메모리,삼전·닉스와나란히DDR5양산…중국모바일서실탄쌓...",
-  "'확실한존재감'전북내득점1위이승우,포항전에서팀반등의계기...",
-  "한전,삼전닉스에'전기료25조'선납제안…조건협의중",
-  "[소버린AI생태계]네이버클라우드,보안특화AI최종사업자선정",
   "한전,삼전닉스에전기료선납안꺼냈다…25조규모",
   "한전,삼성·SK하이닉스에전기료25조선납제안…“첨단산업전력망...",
   "네이버,정부'보안특화AI'사업선정…\"경쟁력강화\"(종합)",
@@ -6001,7 +5997,11 @@
   "“가을옷보고햇과일사고”…유통가,주말고객잡기총력전",
   "SKT,자원순환캠페인'리파인데이'…전자폐기물재활용",
   "유안타증권,쿠팡이츠제휴이벤트…30일까지",
-  "33세'농심가장손'신상열부사장,13일화촉…신부는SKT직원"
+  "33세'농심가장손'신상열부사장,13일화촉…신부는SKT직원",
+  "'농심3세'신상열부사장13일결혼...\"예비신부는SKT회사원\"",
+  "'농심3세'신상열부사장,SK텔레콤회사원과13일결혼",
+  "'데이터무제한'이라더니…\"다쓰면400Kbps,사진1장보내기도버거워...",
+  "토큰터미널,실물자산배치145개추가반영"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-09-05T08:27:39.638310+09:00",
    "쿠팡이츠 이벤트 유안타증권 30일까지 제휴"
+  ],
+  [
+   "2026-09-05T08:51:06.470628+09:00",
+   "무제한 버거워 이라더니 쓰면 보내기도 400Kbps 사진 1장 데이터"
+  ],
+  [
+   "2026-09-05T08:51:06.470628+09:00",
+   "추가 145개 실물자산 배치 토큰터미널 반영"
   ]
  ],
- "last_run": "2026-09-05T08:41:05.807076+09:00",
+ "last_run": "2026-09-05T08:51:15.164300+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
