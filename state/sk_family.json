@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=731425",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=356146",
-  "https://www.seoultimes.news/news/article.html?no=2000095302",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=686751",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=611000",
   "https://www.seoulfn.com/news/articleView.html?idxno=627293",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=58444",
@@ -2999,13 +2995,13 @@
   "http://www.newsdream.kr/news/articleView.html?idxno=117537",
   "https://www.viva100.com/article/20260904500297",
   "http://www.globalepic.co.kr/view.php?ud=20260904113336437448439a4874_29",
-  "https://www.bloter.net/news/articleView.html?idxno=672713"
+  "https://www.bloter.net/news/articleView.html?idxno=672713",
+  "https://www.newstnt.com/news/articleView.html?idxno=716700",
+  "https://www.news1.kr/life-culture/performance-exhibition/6278991",
+  "https://www.news1.kr/life-culture/performance-exhibition/6279278",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=209803"
  ],
  "seen_titles": [
-  "최신원SK네트웍스명예회장,'무보수경영'선언",
-  "최신원SK네트웍스명예회장,경영복귀하며'무보수'선언",
-  "돈안받는최신원명예회장...책임경영가능할까?",
-  "'비판정면돌파'최신원SK네트웍스명예회장,무보수로일한다",
   "경영복귀최신원SK네트웍스명예회장'무보수'선언",
   "[최남주의비즈토크]'무보수'선택한SK네트웍스최신원명예회장",
   "최신원SK네트웍스명예회장,무보수경영선언···경영자문등수행",
@@ -6001,7 +5997,11 @@
   "로봇개부터비전AI까지…SK이노울산CLX,역대최대규모'제조AI'전...",
   "함양군,2026년항노화관헬스투어운영",
   "이재용·최태원,뉴욕서젠슨황만난다",
-  "[낸드리부트]④321단·HBF앞세운SK하이닉스…1위추격속도"
+  "[낸드리부트]④321단·HBF앞세운SK하이닉스…1위추격속도",
+  "국민대,공예전문인력양성실무교육마무리…10월부터심화교육",
+  "\"신뢰도높은창작진\"…뮤지컬'나는반딧불',배우들도기대하는이유",
+  "김지현제작PD\"어린이·가족뮤지컬'나는반딧불'매력요?이세가지...",
+  "[분석]'BuildHere'···미국은준비가됐나?"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-09-04T12:00:32.329562+09:00",
    "앞세운 SK하이닉스 321단 1위 속도 HBF 추격"
+  ],
+  [
+   "2026-09-04T12:20:14.293053+09:00",
+   "미국은 준비가 Here 됐나 Build"
   ]
  ],
- "last_run": "2026-09-04T12:10:25.258066+09:00",
+ "last_run": "2026-09-04T12:20:25.807448+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
