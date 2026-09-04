@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mhj21.com/news/articleView.html?idxno=251787",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=261531",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=80389",
-  "https://www.ngonews.kr/news/articleView.html?idxno=228939",
-  "https://www.newsway.co.kr/news/view?ud=2026042320480815586",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230660&t=NN",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=436427",
-  "https://biz.chosun.com/industry/company/2026/04/23/RYXABA6NWJBWPN4SMOIFII6RHU/",
-  "https://www.nocutnews.co.kr/news/6565096",
   "http://www.jndn.com/article.php?aid=1783413798435646109",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077556",
   "https://www.imaeil.com/page/view/2026070215334789506",
@@ -2999,18 +2990,18 @@
   "https://www.ekn.kr/web/view.php?key=20260904021010603",
   "https://www.thepublic.kr/news/articleView.html?idxno=317534",
   "https://www.ekn.kr/web/view.php?key=20260904027270658",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=227917"
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=227917",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000062534",
+  "https://biz.sbs.co.kr/article_hub/20000332828?division=NAVER",
+  "https://biz.chosun.com/industry/business-venture/2026/09/04/AGFSXXTDPZFWPMA4GC2U57EGLE/",
+  "https://www.etoday.co.kr/news/view/2621917",
+  "https://www.yna.co.kr/view/AKR20260904037600030?input=1195m",
+  "https://view.asiae.co.kr/article/2026090409535154706",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483777",
+  "https://www.news1.kr/industry/sb-founded/6279743",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358449"
  ],
  "seen_titles": [
-  "최신원\"무보수로일하겠다\"···도덕성논란'정면돌파'",
-  "'무보수경영자문'택한최신원…SK네트웍스복귀후첫행보",
-  "'경영복귀'최신원SK네트웍스명예회장,무보수로일하기로",
-  "SK네트웍스\"최신원명예회장,무보수로역할수행\"",
-  "경영복귀'최신원SK네트웍스명예회장,'무보수'선언…경영자문등...",
-  "'무보수경영복귀'카드꺼낸최신원…SK네트웍스,여론부담덜기나서...",
-  "'경영복귀'최신원SK네트웍스명예회장,'무보수'선언",
-  "최신원,명예회장무보수결정…\"자문등본연역할집중\"",
-  "\"월급안받겠다\"…'무보수'경영선언한회장님",
   "최신원SK네트웍스명예회장무보수경영결정,\"기업사회위해봉사할...",
   "최신원SK네트웍스명예회장,‘무보수’경영선언",
   "\"개고기이제못먹는다니\"…'김건희법'시행앞둔복날풍경",
@@ -6001,7 +5992,16 @@
   "[패트롤]경기도-경기도의회-경기도교육청-한국도자재단-경기도농수산...",
   "이재용·최태원·젠슨황'깐부'재회…美서반도체현안머리맞댄다",
   "[패트롤]경기도의회-용인시의회-평택시의회-화성시의회",
-  "CEO2026년9월브랜드평판...삼성이재용,LG구광모,SK최태원順"
+  "CEO2026년9월브랜드평판...삼성이재용,LG구광모,SK최태원順",
+  "\"모두가찾는코스닥\"…진입문턱낮추고장기성장자금늘려야",
+  "\"상장부담낮추고퇴출기준정교하게\"…코스닥활성화대안",
+  "“모두가찾는코스닥만들자”…중기중앙회·중소기업학회,혁신벤처포...",
+  "코스닥30주년맞아…中企상장제도개선논의",
+  "코스닥활성화하려면…\"상장부담낮추고퇴출기준정교하게\"",
+  "\"중소벤처기업·투자자함께성장하는코스닥시장제도개선방안마련...",
+  "중기중앙회,코스닥진입·성장·퇴출개선제안",
+  "\"코스닥활성화핵심은자본배분기능회복…상폐기준차등화필요\"",
+  "이재용·최태원,뉴욕서젠슨황재회한다…HBM4세일즈전전면에"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-09-04T13:30:25.956268+09:00",
    "브랜드평판 이재용 CEO 2026년 삼성 9월 구광모 LG"
+  ],
+  [
+   "2026-09-04T13:50:14.202573+09:00",
+   "젠슨 전면에 이재용 HBM4 세일즈전 뉴욕서 재회한다"
   ]
  ],
- "last_run": "2026-09-04T13:40:25.218306+09:00",
+ "last_run": "2026-09-04T13:50:29.642719+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
