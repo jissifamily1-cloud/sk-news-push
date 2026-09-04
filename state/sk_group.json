@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.finomy.com/news/articleView.html?idxno=260697",
-  "https://www.kmecnews.co.kr/news/articleView.html?idxno=51608",
-  "https://www.ppss.kr/news/articleView.html?idxno=308666",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000548460",
   "https://www.g-enews.com/view.php?ud=2026090310545272732aa6f4cdad_1",
   "https://www.namdonews.com/news/articleView.html?idxno=922167",
   "https://www.yna.co.kr/view/AKR20260902171151003?input=1195m",
@@ -2999,13 +2995,13 @@
   "https://www.khan.co.kr/article/202609050600051",
   "https://www.medipana.com/news/articleView.html?idxno=417103",
   "https://www.seoul.co.kr/news/economy/securities/2026/09/05/20260905500001?wlog_tag3=naver",
-  "https://www.sedaily.com/article/20087468"
+  "https://www.sedaily.com/article/20087468",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553515223",
+  "https://www.yna.co.kr/view/AKR20260904023000017?input=1195m",
+  "https://www.news2day.co.kr/article/20260904500264",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=135590"
  ],
  "seen_titles": [
-  "대구시,반도체검사디자인센터설립위한투자협약체결",
-  "한전,삼성전자20조·하이닉스5조전기료선납제안…전력망재원마...",
-  "SK하이닉스임단협불발후첫메시지“불이익없도록할것…지속가능...",
-  "코스피,美증시반등에1%대↑···6600선회복",
   "기후부,반도체산업용수하루256만톤선제확보추진",
   "코스피,전날3.99%급락딛고반등…외국인·기관매도에상승폭축소",
   "“5년치전기료25조미리내세요”…한전,삼성전자·하이닉스에제안",
@@ -6001,7 +5997,11 @@
   "9월코스피는원래잔인했다지만,미국중간선거가코스피를살릴수있...",
   "[제약공시책갈피]9월1주차-알테오젠·유한양행外",
   "[서울데이터랩]미국증시혼조마감…반도체강세에도다우·S＆P500·나...",
-  "美고용호조에금리인상확률재상승...뉴욕증시일제리하락[데일리..."
+  "美고용호조에금리인상확률재상승...뉴욕증시일제리하락[데일리...",
+  "꼴찌축구팀보다심각한9월두산타선,'24이닝무득점→4G2득점'이무...",
+  "[AI돋보기]기지국이AI데이터센터로…통신사'변신'시작됐다",
+  "[N2포커스]불꽃축제에AI·5G총출동…통신3사,'트래픽전쟁'대비",
+  "SK온헝가리배터리공장서생식독성물질오염확인…현지당국조사..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,21 @@
   [
    "2026-09-05T06:31:08.653229+09:00",
    "재상승 뉴욕 확률 고용 증시 일제리 하락 데일리 금리인상 호조에"
+  ],
+  [
+   "2026-09-05T06:41:02.006943+09:00",
+   "시작됐다 기지국이 AI 변신 데이터센터로 통신사"
+  ],
+  [
+   "2026-09-05T06:41:02.006943+09:00",
+   "5G AI 통신 불꽃축제에 대비 3사 전쟁 총출동 트래픽"
+  ],
+  [
+   "2026-09-05T06:41:02.006943+09:00",
+   "배터리 물질 SK온 당국 오염 확인 생식독성 현지 헝가리 공장서 조사"
   ]
  ],
- "last_run": "2026-09-05T06:31:18.012459+09:00",
+ "last_run": "2026-09-05T06:41:13.657334+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
