@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077556",
-  "https://www.imaeil.com/page/view/2026070215334789506",
-  "https://www.newsis.com/view/NISX20260702_0003693420",
   "http://www.4th.kr/news/articleView.html?idxno=2114822",
   "https://www.mt.co.kr/industry/2026/07/16/2026071518185383044",
   "https://view.asiae.co.kr/article/2026071518411523902",
@@ -2999,12 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483777",
   "https://www.news1.kr/industry/sb-founded/6279743",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=358449",
-  "https://www.pennmike.com/news/articleView.html?idxno=127116"
+  "https://www.pennmike.com/news/articleView.html?idxno=127116",
+  "https://www.yna.co.kr/view/AKR20260904097000704?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737739&plink=ORI&cooper=NAVER",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=502620"
  ],
  "seen_titles": [
-  "최신원SK네트웍스명예회장,‘무보수’경영선언",
-  "\"개고기이제못먹는다니\"…'김건희법'시행앞둔복날풍경",
-  "신안군'국제문페스타'성료…문순득재조명",
   "세명종합병원,복지부'포괄2차종합병원'최종지정…지역의료거점...",
   "세명종합병원,보건복지부'포괄2차종합병원'지정",
   "세명종합병원,'포괄2차종합병원'지정…보건복지부주관",
@@ -6001,7 +5998,10 @@
   "중기중앙회,코스닥진입·성장·퇴출개선제안",
   "\"코스닥활성화핵심은자본배분기능회복…상폐기준차등화필요\"",
   "이재용·최태원,뉴욕서젠슨황재회한다…HBM4세일즈전전면에",
-  "이재명대통령에대한소고(小考)"
+  "이재명대통령에대한소고(小考)",
+  "[부고]최우석(전월간조선차장)씨부친상",
+  "[자막뉴스]이재용·최태원전격'뉴욕행'결정…\"젠슨축하해\"'깐부어...",
+  "'2대0에서2대3'T1한화생명전대역전패에경기력논란...CEO선임두고..."
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-09-04T13:57:18.039053+09:00",
    "이재명 대통령에 소고"
+  ],
+  [
+   "2026-09-04T14:00:29.020844+09:00",
+   "선임 논란 경기력 두고 CEO 대역전패에 2대3 한화생명전 2대0에서 T1"
   ]
  ],
- "last_run": "2026-09-04T13:57:30.682618+09:00",
+ "last_run": "2026-09-04T14:00:41.242592+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
