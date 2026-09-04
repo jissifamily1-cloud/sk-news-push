@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=861780",
-  "https://www.fntimes.com/html/view.php?ud=202609030845266346048b718333_18",
-  "https://www.mydaily.co.kr/page/view/2026090308481976653",
-  "https://www.mt.co.kr/industry/2026/09/03/2026090308144576164",
-  "https://www.newsis.com/view/NISX20260903_0003774240",
-  "https://www.newspim.com/news/view/20260903000103",
-  "https://www.livebiz.today/news/articleView.html?idxno=204613",
-  "https://www.news1.kr/finance/market-exr/6278338",
-  "https://view.asiae.co.kr/article/2026090308540328566",
-  "https://www.gpkorea.com/news/articleView.html?idxno=146316",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1722786",
   "https://view.asiae.co.kr/article/2026090308520068893",
   "https://www.chosun.com/economy/stock-finance/2026/09/03/B6SPTY26TJAADBFGUXISA2IO3U/",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52563",
@@ -2999,20 +2988,20 @@
   "https://biz.heraldcorp.com/article/10863187",
   "https://biz.heraldcorp.com/article/10863135",
   "https://www.news2day.co.kr/article/20260904500068",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609011515086120109590"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609011515086120109590",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466965",
+  "https://biz.chosun.com/notice/obituary/2026/09/04/4PLGLWCUFFAKVIGBE3VY5SQZRM/",
+  "https://www.newsis.com/view/NISX20260904_0003777172",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276249",
+  "https://www.mk.co.kr/article/12144776",
+  "https://www.mk.co.kr/article/12144797",
+  "https://www.g-enews.com/view.php?ud=202609041747391161daecd3dad5_1",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=44638",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446475",
+  "https://www.dailian.co.kr/news/view/1686662/?sc=Naver",
+  "https://www.mk.co.kr/article/12144773"
  ],
  "seen_titles": [
-  "서울집값부담에경기매수늘었다…'국평20억'수도권확산",
-  "한국전력,삼전닉스에25조전기료선납제안",
-  "[반도체세제전쟁]①\"세금더깎아줄게\"삼전닉스유혹",
-  "SK이노,'울산세계미래산업박람회'참가",
-  "강동구'삼익파크맨션'19평,5.7억떨어진7.8억원에거래[일일하락가...",
-  "SK이노울산CLX,제조AI전면에…‘듀얼브레인’공개",
-  "SK이노울산CLX,울산세계미래산업박람회서제조AI선보여",
-  "현대글로비스,하반기신입채용…AI역량검사로'AX인재'발굴",
-  "[AIMY증시전망]코스피,전날4%급락딛고반등시도",
-  "美상무장관'TSMC모델'거론하며삼성·하이닉스압박\"미국서안만들...",
-  "美증시반등에저가매수유입…삼전·하이닉스프리마켓1%대↑",
   "SK이노울산CLX,WAVE2026서제조AI미래선보인다",
   "부천대장하우스토리디센트10월분양…공공분양548가구",
   "[원자재시황]미국채금리진정에금·뉴욕증시반등",
@@ -6001,7 +5990,18 @@
   "[단독]“미토스허용해달라”韓요청에도美백악관‘묵묵부답’…...",
   "공모가수준까지밀렸던스페이스X…반등기대에서학개미몰린다[투자...",
   "[오늘의부고:9월4일]원희목(유한재단이사장)씨모친상外",
-  "[더벨][thebellnote]SK그룹리밸런싱과AI대전략"
+  "[더벨][thebellnote]SK그룹리밸런싱과AI대전략",
+  "SK이터닉스·엔라이튼맞손···발전자산데이터로재생e사업키운다",
+  "[부음]진민수(SK에코플랜트홍보실)씨빙부상",
+  "조선이공대,반도체생산기술특화직업교육선도대학비전선포",
+  "[마감시황]코스피6,680선회복·코스닥3%급등…외인·기관동반매...",
+  "SK렌터카법인차량분석…기업맞춤형서비스제공",
+  "\"美반도체투자는대미펀드와완전별개\"",
+  "신다인,2주연속우승시동...KLPGA투어OK저축은행읏맨오픈첫날4언...",
+  "[오늘의ESG]삼성전자·SKT·유한킴벌리·롯데웰푸드·현대홈쇼핑·대상...",
+  "[이주의ETF]삼성자산운용'KODEXWTI원유선물(H)'9%대올라상승률1위...",
+  "주가게걸음인데…일본증권사\"삼전닉스심각한저평가\"",
+  "병원예약부터공공기관서류신청까지AI가척척"
  ],
  "recent_sigs": [
   [
@@ -6867,9 +6867,33 @@
   [
    "2026-09-04T17:51:13.494199+09:00",
    "리밸런싱과 SK그룹 대전략 AI"
+  ],
+  [
+   "2026-09-04T18:01:18.983436+09:00",
+   "별개 반도체 완전 대미펀드와 투자는"
+  ],
+  [
+   "2026-09-04T18:01:18.983436+09:00",
+   "4언 신다인 우승 OK저축은행 읏맨 시동 오픈 연속 첫날 KLPGA투어 2주"
+  ],
+  [
+   "2026-09-04T18:01:18.983436+09:00",
+   "SKT 대상 현대홈쇼핑 삼성전자 유한킴벌리 롯데웰푸드"
+  ],
+  [
+   "2026-09-04T18:01:18.983436+09:00",
+   "삼성자산운용 상승률 WTI원유선물 KODEX 1위 올라"
+  ],
+  [
+   "2026-09-04T18:01:18.983436+09:00",
+   "주가 심각한 게걸음인데 삼전닉스 저평가 증권사 일본"
+  ],
+  [
+   "2026-09-04T18:01:18.983436+09:00",
+   "AI가 신청까지 서류 공공기관 예약부터 병원 척척"
   ]
  ],
- "last_run": "2026-09-04T17:51:49.830292+09:00",
+ "last_run": "2026-09-04T18:01:38.284080+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
