@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260827172220",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260903.22019000610",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1179350",
-  "https://www.namdonews.com/news/articleView.html?idxno=922095",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1722754",
   "https://www.polinews.co.kr/news/articleView.html?idxno=742010",
   "https://futurechosun.com/?p=159245",
   "https://www.newsjeju.net/news/articleView.html?idxno=425304",
@@ -2999,14 +2994,14 @@
   "https://www.consumuch.com/news/articleView.html?idxno=78956",
   "https://www.thepublic.kr/news/articleView.html?idxno=317552",
   "https://www.pressman.kr/news/articleView.html?idxno=103519",
-  "https://www.joongang.co.kr/article/25459103"
+  "https://www.joongang.co.kr/article/25459103",
+  "https://www.seoul.co.kr/news/economy/finance/2026/09/04/20260904500154?wlog_tag3=naver",
+  "https://biz.sbs.co.kr/article_hub/20000332750?division=NAVER",
+  "https://zdnet.co.kr/view/?no=20260904120636",
+  "https://www.news2day.co.kr/article/20260904500141",
+  "https://www.news2day.co.kr/article/20260904500146"
  ],
  "seen_titles": [
-  "박수영\"금융위·금감원부산이전해야...李,글로벌금융중심지공약...",
-  "9월증시'8000선'재도전할까…10개증권사\"반도체·조선중심선별대...",
-  "[기획]인텔급치솟은YMTC시총전망…낸드는이미‘삼전닉스’급",
-  "\"보안과AI결합한모델,지속지원해야\"",
-  "[사설]다시3%대물가,서민경제안정에총력기울여야",
   "삼성·SK'자사주방어막'도뚫렸다…중동발악재에코스피6500선까지...",
   "\"전남광주,반도체최적지조건다갖췄다\"",
   "최태원,日반도체투자검토…SK하이닉스글로벌생산거점확대하나",
@@ -6001,7 +5996,12 @@
   "롯데지주,배당수익률5.2%에자사주까지…\"주가하방견조\"",
   "노·도·강집값뛰자'별내로'…서울동북권폭등에경기매수세확산",
   "디지털기기부터책까지…기업들'정보격차'줄인다",
-  "연준발훈풍에비트코인8만달러...주식·코인동반랠리"
+  "연준발훈풍에비트코인8만달러...주식·코인동반랠리",
+  "‘삼전·닉스토큰’나오나…내년2월부터토큰증권단계적확대",
+  "[직설]6천선갇힌코스피…삼전닉스방어막끝나면돌파구는?",
+  "[현장]정부,이용자많은'모두의AI'에GPU더준다…예산2500억원",
+  "2분기낸드시장성장세‘지속’…삼성전자·SK하이닉스,고부가제품...",
+  "美반도체관세검토…정부“경쟁국대비불리하지않게논의”"
  ],
  "recent_sigs": [
   [
@@ -7009,7 +7009,7 @@
    "연준발 동반 랠리 훈풍에 달러 코인 8만 주식 비트코인"
   ]
  ],
- "last_run": "2026-09-04T12:21:17.800120+09:00",
+ "last_run": "2026-09-04T12:31:13.849388+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
