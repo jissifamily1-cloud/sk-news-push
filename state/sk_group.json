@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260903000110",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443800",
-  "https://www.wikitree.co.kr/articles/1156941",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16181613",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483357",
-  "https://www.fntimes.com/html/view.php?ud=202609022330509890141825007d_18",
   "https://www.gukjenews.com/news/articleView.html?idxno=3683292",
   "http://www.joseilbo.com/news/news_read.php?uid=574987&class=10",
   "https://www.mt.co.kr/tech/2026/09/03/2026090308261933482",
@@ -2999,15 +2993,15 @@
   "http://www.00news.co.kr/news/articleView.html?idxno=106367",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=88820",
   "http://www.inews24.com/view/2002272",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258346"
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258346",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260904184622Cal",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52639",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=121021",
+  "https://zdnet.co.kr/view/?no=20260904183905",
+  "https://futurechosun.com/?p=159474",
+  "https://www.tokenpost.kr/news/market/402399"
  ],
  "seen_titles": [
-  "SK하이닉스임단협잠정합의부결뒤첫소통,\"성과·보상불이익없도...",
-  "메리츠증권,11월말까지MOUM계좌개설시현금·주식지급",
-  "[모닝리포트]내년AI·반도체예산21조투입…로봇·태양광테마'수...",
-  "[모닝리포트]롯데지주,5%배당·자사주24%주목…\"수익성개선에재...",
-  "SK이노베이션울산CLX,'WAVE2026'서제조AI미래선보인다",
-  "코스피6650.33출발…장초반돈이더쏠린시장은어디?",
   "[코스피시황]개인매수에반등출발…외국인·기관은동반순매도",
   "남-북-러가스관테마쑥쑥…하이스틸·화성밸브주가신바람",
   "De-RiskingFromChina:LGEnergySolutionSecuresUSLithiumSupplyTh",
@@ -6001,17 +5995,15 @@
   "김정관,美반도체관세압박에\"동등대우원칙\"",
   "외국인·기관6거래일만에'사자'…코스피1.64%올라6,687선마감",
   "\"삼전닉스넘겠다\"中양쯔메모리까지…\"IPO절차순조롭게진행중\"",
-  "[깐팩]미국64vs중국30vs한국0.7GW···AI크기를재봤다"
+  "[깐팩]미국64vs중국30vs한국0.7GW···AI크기를재봤다",
+  "코스피1%대올라6,680선…코스닥도반등",
+  "미국금리안정에코스피1.6%상승…외국인·기관6일만에'사자'",
+  "유안타증권,쿠팡이츠와제휴이벤트",
+  "KIST,양자생태계외연확장호주'타깃팅'",
+  "[더나은미래경제브리핑]코스피·코스닥시총상폐기준강화6개월유예...",
+  "300억원출자지엔씨에너지,에스케이티엔에스인수참여"
  ],
  "recent_sigs": [
-  [
-   "2026-09-04T12:51:01.533633+09:00",
-   "정부 AI 사업자로 선정 보안 네이버클라우드 사이버 최종"
-  ],
-  [
-   "2026-09-04T12:51:01.533633+09:00",
-   "원화 우려 이익 영향은 수출기업 감소 제한적 강세에 반도체"
-  ],
   [
    "2026-09-04T13:11:08.524516+09:00",
    "9월 브랜드평판 2026년 화학 에코프로 LG화학 상장기업 포스코퓨처엠"
@@ -6875,9 +6867,25 @@
   [
    "2026-09-04T18:41:07.016803+09:00",
    "중국 재봤다 7GW AI 한국 vs 미국 크기를"
+  ],
+  [
+   "2026-09-04T18:51:17.629355+09:00",
+   "유안타증권 이벤트 쿠팡이츠와 제휴"
+  ],
+  [
+   "2026-09-04T18:51:17.629355+09:00",
+   "외연 확장 KIST 생태계 양자 호주 타깃팅"
+  ],
+  [
+   "2026-09-04T18:51:17.629355+09:00",
+   "시총 유예 상폐기준 코스닥 코스피 6개월 강화"
+  ],
+  [
+   "2026-09-04T18:51:17.629355+09:00",
+   "에스케이티엔에스 참여 300억원 출자 지엔씨에너지 인수"
   ]
  ],
- "last_run": "2026-09-04T18:41:15.612038+09:00",
+ "last_run": "2026-09-04T18:51:31.270813+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
