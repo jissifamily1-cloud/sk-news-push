@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/600977",
-  "http://www.sisacast.kr/news/articleView.html?idxno=99555",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579938747056",
   "https://www.naeil.com/news/read/600976",
   "https://www.naeil.com/news/read/600975",
   "https://www.thereport.co.kr/news/articleView.html?idxno=91052",
@@ -2999,12 +2996,12 @@
   "https://view.asiae.co.kr/article/2026090316480458432",
   "https://www.newspim.com/news/view/20260905000019",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609050322&t=NN",
-  "https://basketkorea.com/news/newsview.php?ncode=1065577772487438"
+  "https://basketkorea.com/news/newsview.php?ncode=1065577772487438",
+  "http://www.osen.co.kr/article/G1112870450",
+  "https://www.edaily.co.kr/News/Read?newsId=02197606645577168&mediaCodeNo=257",
+  "https://www.kyeonggi.com/article/20260905580102"
  ],
  "seen_titles": [
-  "SK이노베이션,1801만주보호예수해제…1441만주는PRS연계",
-  "대기업주식보상65.7%급증…삼성전자가절반넘었다",
-  "\"현금보다주식\"…대기업성과보상주식약정전년比66%↑",
   "보안특화AI개발사업자에네이버클라우드",
   "SK텔레콤,'수능응원백서'캠페인전개",
   "SK이노울산CLX,정유공장에AI심는다…'듀얼브레인'공개",
@@ -6001,7 +5998,10 @@
   "\"美국채10년물금리5%넘어가면주가급락우려\"[주末머니]",
   "평택해수청,사설항로표지관계자간담회9일개최",
   "[속보]삼전닉스개미들\"나떨고있니\"...2700조원IPO온다",
-  "“놀이가곧농구가되는마법”의정부SK스카이짐,7세유아농구반으..."
+  "“놀이가곧농구가되는마법”의정부SK스카이짐,7세유아농구반으...",
+  "‘마지막까지자기역할다했다’김성현,뜬공수비→치열한8구승부...",
+  "[골프IN화보]김재희6위,OK저축은행읏맨오픈2라운드마감",
+  "여주시민들뿔났다,“물·전력내주고희생만강요”"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,17 @@
   [
    "2026-09-05T17:31:07.199432+09:00",
    "농구가 의정부 되는 스카이짐 7세 유아농구반으 마법 놀이가"
+  ],
+  [
+   "2026-09-05T17:41:03.526643+09:00",
+   "OK저축은행 6위 읏맨 2라운드 마감 김재희 오픈"
+  ],
+  [
+   "2026-09-05T17:41:03.526643+09:00",
+   "뿔났다 희생만 여주시민들 내주고 강요 전력"
   ]
  ],
- "last_run": "2026-09-05T17:31:22.920353+09:00",
+ "last_run": "2026-09-05T17:41:12.963071+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
