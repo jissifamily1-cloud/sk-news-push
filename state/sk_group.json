@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85457",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62507",
-  "https://www.ytn.co.kr/_ln/0134_202609031135123070",
-  "https://www.idaegu.com/news/articleView.html?idxno=665436",
   "https://www.kado.net/news/articleView.html?idxno=2070378",
   "https://zdnet.co.kr/view/?no=20260903112038",
   "https://zdnet.co.kr/view/?no=20260903110401",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20260905_0003777426",
   "https://www.hankookilbo.com/news/article/A2026090316270004047?did=NA",
   "https://www.hankyung.com/article/202609044647i",
-  "https://economist.co.kr/article/view/ecn202609010025"
+  "https://economist.co.kr/article/view/ecn202609010025",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52644",
+  "https://www.kbmaeil.com/article/20260905500057",
+  "https://www.yna.co.kr/view/AKR20260903166300003?input=1195m",
+  "https://www.ddaily.co.kr/page/view/2026090509465254030"
  ],
  "seen_titles": [
-  "[이슈]美'반도체표적관세'예고…삼성·SK영향'촉각'靑\"韓기업불...",
-  "한전,삼성·SK하이닉스에25조선납제안…반도체전력망돈줄찾는다",
-  "네이버클라우드,보안특화AI모델개발사업자로최종선정",
-  "\"美해군,차기호위함후보에韓·日·튀르키예함정검토\"",
   "샌디스크가본현대인...우리는'호모메모리스'다",
   "\"대가치르게될것\"...트럼프표적관세에韓'비상'[자막뉴스]",
   "[2027수시모집-영진전문대]AI·해외취업경쟁력강화…수시2천309명선...",
@@ -6001,7 +5997,11 @@
   "이강인떠난PSG,리그개막3경기무승…엔리케감독과는재계약",
   "계좌까지공개했다…스타들의주식썰,공감보다우려",
   "엔비디아빅딜,오픈AI아스트라...고래싸움에반도체가웃었다[빈난새...",
-  "AI비서는무료인데…이통3사는어디서돈버나"
+  "AI비서는무료인데…이통3사는어디서돈버나",
+  "뉴욕증시,고용깜짝증가에하락…반도체주는강세",
+  "AI데이터센터‘전력전쟁’…LNG·ESS·SMR묶은새시장뜬다",
+  "AI데이터센터전력확보전…'에너지올인원'설루션산업부상",
+  "55조자사주가받친삼전닉스…10월‘수급안전판’사라지나[증시레..."
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,13 @@
   [
    "2026-09-05T10:21:04.792035+09:00",
    "무료인데 AI 이통 어디서 3사는 버나 비서는"
+  ],
+  [
+   "2026-09-05T10:31:09.403056+09:00",
+   "삼전닉스 수급 사라지나 55조 증시레 자사주가 받친 10월 안전판"
   ]
  ],
- "last_run": "2026-09-05T10:21:19.609645+09:00",
+ "last_run": "2026-09-05T10:31:15.190011+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
