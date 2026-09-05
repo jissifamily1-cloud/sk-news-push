@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.efnews.co.kr/news/articleView.html?idxno=132111",
-  "https://news.dealsitetv.com/articles/175448",
   "https://www.news1.kr/local/gwangju-jeonnam/6278947",
   "https://www.koreajoongangdaily.com/business/kepco-proposes-25-trillion-won-electricity-bill-prepayment-system-to-samsung-sk-hynix/12858105",
   "https://www.newsis.com/view/NISX20260903_0003774724",
@@ -2999,11 +2997,11 @@
   "https://www.lecturernews.com/news/articleView.html?idxno=210147",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423502",
   "https://www.news1.kr/it-science/cc-newmedia/6280714",
-  "https://www.wikitree.co.kr/articles/1157521"
+  "https://www.wikitree.co.kr/articles/1157521",
+  "https://www.g-enews.com/view.php?ud=202609060745096505fbbec65dfb_1",
+  "https://www.g-enews.com/view.php?ud=202609060721351921fbbec65dfb_1"
  ],
  "seen_titles": [
-  "세종시와촌산단,반도체·AI첨단산업의전략기지로활용해야",
-  "Value-UpPushTakesHoldAcrossKOSPI",
   "SK증권,IRP·연금저축이전이벤트10월말까지연장…최대100만원캐시...",
   "\"기후테크,기술만큼중요한건필요한시점에적기자금공급\"",
   "반복되는ETF'카피캣'논란,이번엔'삼전닉스+채권'",
@@ -6001,7 +5999,9 @@
   "[코스피·코스닥지수]오픈AI발AI혁신에반도체주들썩...한국증시반...",
   "'8兆재산'권혁빈이혼소송9일첫결론···스마일게이트지배구조시...",
   "美IT매체\"SKTAI전략,글로벌통신사들에청사진제시\"",
-  "아파트값안내려간다면...서울에사는사람은모두이런일겪는다"
+  "아파트값안내려간다면...서울에사는사람은모두이런일겪는다",
+  "외장GPU출하12%급증…한국그래픽D램공급망반등",
+  "노라,64단3DD램건식식각돌파…中메모리수직화가속"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,17 @@
   [
    "2026-09-06T07:51:04.037540+09:00",
    "이런 모두 사는 겪는다 사람은 내려간다면 아파트값 서울에"
+  ],
+  [
+   "2026-09-06T08:01:13.283043+09:00",
+   "D램 그래픽 반등 공급망 한국 GPU 급증 출하 외장"
+  ],
+  [
+   "2026-09-06T08:01:13.283043+09:00",
+   "D램 돌파 가속 건식 64단 메모리 수직화 노라 식각 3D"
   ]
  ],
- "last_run": "2026-09-06T07:51:10.244464+09:00",
+ "last_run": "2026-09-06T08:01:23.395374+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
