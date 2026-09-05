@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.idomin.com/news/articleView.html?idxno=2012822",
-  "http://www.bokuennews.com/news/article.html?no=282853",
   "http://www.jndn.com/article.php?aid=1787220514438195093",
   "http://www.lawissue.co.kr/view.php?ud=202608201458075279d94aa4ada6_12",
   "https://weekly.khan.co.kr/article/202608201949001",
@@ -2999,11 +2997,11 @@
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160278775363917",
   "https://www.kyosu.net/news/articleView.html?idxno=209118",
   "https://view.asiae.co.kr/article/2026082014291743887",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484191"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484191",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446324",
+  "http://www.inews24.com/view/2001307"
  ],
  "seen_titles": [
-  "최태원,마감임박'재상고'…이혼소송더간다[CEO업&다운]",
-  "삼전닉스發'주식성과급',산업계보상공식흔든다",
   "전두환·노태우비자금환수되나…‘독립몰수제’내년시행",
   "삽들고집기나르고밥짓고…수해현장메운손길",
   "한양대류마티스병원,류마티스예방센터조직개편기념'현판식및심포...",
@@ -6001,10 +5999,17 @@
   "용인시의회,경기도의회와현안논의…“기초지자체의견반영돼야”",
   "경남대,2025학년도후기학위수여식개최…총688명학위받아",
   "\"지역과국가발전이끌다\"…경남대,제77회후기학위수여식거행",
-  "[9월5일부고종합]장기영(핀포인트뉴스자본시장부팀장)씨장모상외"
+  "[9월5일부고종합]장기영(핀포인트뉴스자본시장부팀장)씨장모상외",
+  "SK하이닉스일본반도체공장TSMC'선례'뒤따르나,정부지원정책이...",
+  "삼성·SK새공장어디로...日현찰지원·美보조금강점"
  ],
- "recent_sigs": [],
- "last_run": "2026-09-06T06:00:40.249988+09:00",
+ "recent_sigs": [
+  [
+   "2026-09-06T06:10:13.085026+09:00",
+   "어디로 강점 현찰 지원 공장 보조금 삼성"
+  ]
+ ],
+ "last_run": "2026-09-06T06:10:28.133899+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
