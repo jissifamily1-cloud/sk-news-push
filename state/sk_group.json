@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20260903005000320?input=2106m",
-  "https://biz.sbs.co.kr/article_hub/20000332533?division=NAVER",
-  "https://www.sidae.com/article/2026090307545257104",
-  "https://sateconomy.co.kr/news/view/1065580096552183",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742035",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266361",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000548467",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=85457",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=62507",
   "https://www.ytn.co.kr/_ln/0134_202609031135123070",
@@ -2999,16 +2992,16 @@
   "https://news.bizwatch.co.kr/article/real_estate/2026/09/04/0032",
   "https://www.ajunews.com/view/20260905094040184",
   "http://www.breaknews.com/1234382",
-  "https://www.theguru.co.kr/news/article.html?no=106726"
+  "https://www.theguru.co.kr/news/article.html?no=106726",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008939",
+  "http://www.kjdaily.com/article.php?aid=1788570691685992227",
+  "https://www.the-today.com/news/articleView.html?idxno=89529",
+  "https://www.newsis.com/view/NISX20260905_0003777426",
+  "https://www.hankookilbo.com/news/article/A2026090316270004047?did=NA",
+  "https://www.hankyung.com/article/202609044647i",
+  "https://economist.co.kr/article/view/ecn202609010025"
  ],
  "seen_titles": [
-  "대형주'역대급주주환원'…밸류업공시기업756개사로확대",
-  "SK이노베이션울산CLX,WAVE2026서제조AI현재와미래선보인다",
-  "수출입은행,호남권메가프로젝트반도체생태계지원",
-  "SeoulsharesextendgainslateThu.morningasoilpricesease",
-  "'전세계인재모십니다'中창신메모리CXMT",
-  "상반기급여직원1억·회장19억…\"금융지주,삼전닉스안부럽네\"",
-  "8월대형주주주환원확대…SK하이닉스40조자사주매입·소각",
   "[이슈]美'반도체표적관세'예고…삼성·SK영향'촉각'靑\"韓기업불...",
   "한전,삼성·SK하이닉스에25조선납제안…반도체전력망돈줄찾는다",
   "네이버클라우드,보안특화AI모델개발사업자로최종선정",
@@ -6001,7 +5994,14 @@
   "'부천대장하우스토리디센트'내달공공분양",
   "'800조반도체'연결고리로뜬무안공항…청사진현실화할까",
   "국민의힘장동혁·정점식,김승원사퇴및국정전환촉구",
-  "[통신리뷰]LG유플러스,다문화가족·1인가구AI역량강화나선다(9월..."
+  "[통신리뷰]LG유플러스,다문화가족·1인가구AI역량강화나선다(9월...",
+  "SK㈜,올해판만큼재투자했다…반도체·AI중심'막바지리밸런싱'",
+  "[이번주증시]삼성전자·SK하이닉스44조거래",
+  "[단독]헝가리SK온공장관측정서유해물질검출…마을우물까지전수...",
+  "이강인떠난PSG,리그개막3경기무승…엔리케감독과는재계약",
+  "계좌까지공개했다…스타들의주식썰,공감보다우려",
+  "엔비디아빅딜,오픈AI아스트라...고래싸움에반도체가웃었다[빈난새...",
+  "AI비서는무료인데…이통3사는어디서돈버나"
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,25 @@
   [
    "2026-09-05T10:11:03.108866+09:00",
    "1인 LG유플러스 강화 다문화가족 역량 9월 AI 가구 나선다"
+  ],
+  [
+   "2026-09-05T10:19:56.697540+09:00",
+   "떠난 리그 개막 PSG 엔리케 3경기 무승 재계약 이강인 감독과는"
+  ],
+  [
+   "2026-09-05T10:19:56.697540+09:00",
+   "우려 공감보다 공개했다 주식썰 스타들의 계좌까지"
+  ],
+  [
+   "2026-09-05T10:19:56.697540+09:00",
+   "웃었다 오픈AI 고래싸움에 엔비디아 빅딜 빈난새 반도체가 아스트라"
+  ],
+  [
+   "2026-09-05T10:19:56.697540+09:00",
+   "버나 어디서 AI 3사는 이통 무료인데 비서는"
   ]
  ],
- "last_run": "2026-09-05T10:11:24.909776+09:00",
+ "last_run": "2026-09-05T10:20:10.591033+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
