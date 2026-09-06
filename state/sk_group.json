@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260903500875",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121271",
-  "http://www.gjdream.com/news/articleView.html?idxno=672378",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423485",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=253843",
-  "http://www.press9.kr/news/articleView.html?idxno=82116",
   "https://www.newspim.com/news/view/20260903000887",
   "https://idsn.co.kr/news/view/1065593343786767",
   "https://www.mydaily.co.kr/page/view/2026090315153636406",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260905_0003777551",
   "https://www.segye.com/newsView/20260906504613?OutUrl=naver",
   "https://www.g-enews.com/view.php?ud=202609041551261402923c501012_1",
-  "https://www.g-enews.com/view.php?ud=202609041348005616153ddfb15a_1"
+  "https://www.g-enews.com/view.php?ud=202609041348005616153ddfb15a_1",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362692",
+  "http://www.joseilbo.com/news/news_read.php?uid=575154&class=16",
+  "https://www.sisajournal.com/news/articleView.html?idxno=386188",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862505",
+  "https://www.pennmike.com/news/articleView.html?idxno=127191",
+  "https://www.joongang.co.kr/article/25459418"
  ],
  "seen_titles": [
-  "‘빅딜메이커’김석봉씨티證부사장,모건스탠리韓IB수장으로",
-  "성북도동대문도‘국평’은이제20억?...동탄·영통·수정은벌써",
-  "美차기호위함후보에‘韓충남급’…日·튀르키예함정과경쟁",
-  "대산서첫발뗀석화재편…다음은여수·울산‘설비경쟁력’",
-  "청주시'메가성장프로젝트'본격화…오송·옥산·오창중심축에'컬리...",
-  "영암농특산물,광주아파트단지찾아간다",
   "外人지분율동반하락,주가는삼성전기↑·현대차↓···개인투심이...",
   "상장사10곳중3곳'밸류업'동참…시총비중80%넘었다",
   "SKT·LGU+,줄여온망투자다시늘리나…5GSA·주파수경매변수",
@@ -6001,7 +5995,13 @@
   "'제7회푸른하늘의날'…50개기업·기관기후행동선언",
   "매년9월7일은‘푸른하늘의날’…韓中대기환경고위급간담회",
   "[주간증시전망]\"하방은단단,상단은부담\"...코스피'숨고르기'",
-  "252조굴리는삼성증권‘슈퍼리치’…WM명가위상더커졌다"
+  "252조굴리는삼성증권‘슈퍼리치’…WM명가위상더커졌다",
+  "국내10대브랜드가치2000억弗'삼전닉스'이끌고방산·금융밀어",
+  "“집값안꺾이면세금최대56배↑”…2030년3곳빼고서울전역종부...",
+  "서울집값11%오르면2030년22개구종부세…세부담8.9배껑충",
+  "[최형철칼럼]수출1조달러시대,증시는어쩌란말이냐",
+  "[막전막후]국민1인당1600만원씩돌아가는820조'슈퍼예산'의이면",
+  "“3000만원→60억됐다”…43세파이어족의‘계절투자법’"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,21 @@
   [
    "2026-09-06T12:11:03.880675+09:00",
    "252조 명가 삼성증권 커졌다 위상 굴리는 WM 슈퍼리치"
+  ],
+  [
+   "2026-09-06T12:21:04.034827+09:00",
+   "어쩌란 말이냐 수출 1조달러시대 증시는"
+  ],
+  [
+   "2026-09-06T12:21:04.034827+09:00",
+   "국민 돌아가는 820조 1인당 1600만원씩 슈퍼예산 이면"
+  ],
+  [
+   "2026-09-06T12:21:04.034827+09:00",
+   "3000만원 60억 계절 됐다 43세 투자법 파이어족의"
   ]
  ],
- "last_run": "2026-09-06T12:11:15.222193+09:00",
+ "last_run": "2026-09-06T12:21:15.029988+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
