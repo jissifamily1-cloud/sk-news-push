@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852573",
-  "http://www.lawissue.co.kr/view.php?ud=20260903145133523467191f6c6e_12",
-  "https://www.joongangenews.com/news/articleView.html?idxno=545350",
-  "https://www.newsway.co.kr/news/view?ud=2026090313591850685",
-  "https://www.sedaily.com/article/20086816",
-  "https://www.sedaily.com/article/20086817",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=105913",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483566",
   "https://www.news1.kr/local/gwangju-jeonnam/6279053",
@@ -2999,15 +2993,15 @@
   "https://economist.co.kr/article/view/ecn202609060006",
   "https://www.econovill.com/news/articleView.html?idxno=749983",
   "https://www.sedaily.com/article/20087559",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484226"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484226",
+  "https://www.viva100.com/article/20260905500332",
+  "https://www.ajunews.com/view/20260906102838782",
+  "https://www.ekn.kr/web/view.php?key=20260906025521103",
+  "https://www.news1.kr/industry/general-industry/6281223",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467131",
+  "https://www.mt.co.kr/stock/2026/09/06/2026090610062125712"
  ],
  "seen_titles": [
-  "SK스퀘어,'100만원'회복시도하다급락…장중94만7000원까지밀려",
-  "'800조반도체'들어오면지역도부자될까…호남이풀어야할숙제",
-  "(LEAD)Nearly40mlnTvingaccountscompromisedinmassivedatabreach",
-  "[통신풍향계]SKT'수능응원캠페인'·KT'CU디지털사이니지광고'-'유...",
-  "서울접근성·직주근접갖춘3기신도시‘부천대장하우스토리디센트...",
-  "[종합]삼성전자·SK하이닉스發'N%성과급'확산에제동…정부\"쟁의대...",
   "유안타증권평균급여13위→3위…1년새두배뛴까닭",
   "이란美기지타격에놀랐나…코스피1%대급락[마켓시그널]",
   "8월외환보유량사상최대폭증가…국가별순위는공개않기로",
@@ -6001,7 +5995,13 @@
   "\"삼전67만·하닉470만원간다\"…노무라가여전히강세전망한이유",
   "\"25만몰린불꽃축제,통신은끊기지않았다\"",
   "반도체대형주팔아치운서학개미…레버리지ETF는순매수[코주부]",
-  "[톡톡!부동산]강남집값내리는데노원·중랑은신고가…'15억벽'의역..."
+  "[톡톡!부동산]강남집값내리는데노원·중랑은신고가…'15억벽'의역...",
+  "[주간증시전망]오픈AI훈풍탄코스피…반등지속열쇠는美CPI",
+  "국내10대브랜드가치272조달성…삼성1위·SK하이닉스3위",
+  "“개별주못믿겠다”…서학개미,마이크론·SK하이닉스팔고‘속슬’...",
+  "SK-울산상의,지역미래비전논의'2026울산포럼'개최",
+  "SK·울산상의,제조업AX해법찾는다···'2026울산포럼'개최",
+  "SK온ESS수주로목표치45%채워…DB손보·롯데지주주주환원부각"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-09-06T10:31:11.632711+09:00",
    "내리는데 신고가 강남 중랑은 집값 15억 노원"
+  ],
+  [
+   "2026-09-06T10:41:00.956912+09:00",
+   "SK온 수주로 DB손보 롯데지주 주주환원 ESS 채워 목표치 부각"
   ]
  ],
- "last_run": "2026-09-06T10:31:25.457588+09:00",
+ "last_run": "2026-09-06T10:41:07.033963+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
