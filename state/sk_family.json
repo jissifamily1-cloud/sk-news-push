@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2605054",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=441428",
   "https://www.news1.kr/industry/general-industry/6232103",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716884",
   "http://www.metroseoul.co.kr/article/20260720500313",
@@ -2999,11 +2997,11 @@
   "https://biz.chosun.com/policy/policy_sub/2026/08/21/U6BPKZCGUVGVVFD3OWUYRF32GY/",
   "https://www.mt.co.kr/industry/2026/09/06/2026090415360073496",
   "https://www.g-enews.com/view.php?ud=2026090415013451627fa31d75c_1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3686216"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3686216",
+  "https://www.mk.co.kr/article/12145574",
+  "https://www.ajunews.com/view/20260906145948094"
  ],
  "seen_titles": [
-  "충주시새마을회,속초서지도자수련대회…자살예방특강진행",
-  "전국상의‘복지사각지대’해소…복지부'그냥드림'사업지원",
   "대한상의ERT,전국상의와복지사각지대해소나선다",
   "전국상의,'그냥드림'공동챌린지…복지사각지대해소나선다",
   "대한상의,전국74개상의와'그냥드림'지원…복지사각지대해소나선...",
@@ -6001,7 +5999,9 @@
   "‘李변호인단출신’나승철총리실민정실장,재산28억신고",
   "HBM이어낸드도AI특수…삼성·SK하이닉스,시장절반차지",
   "SK하이닉스가日에반도체공장을지으려는배경은?…'키옥시아·소부장...",
-  "UNEEPC환경패션쇼·ESG환경공헌대상개최"
+  "UNEEPC환경패션쇼·ESG환경공헌대상개최",
+  "AI가신약개발10년단축?진화하는헬스케어대해부",
+  "美관세·보조금압박vs日파격현금지원…K-반도체,'넥스트팹'향..."
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-09-06T17:10:14.621990+09:00",
    "소부장 공장을 지으려는 SK하이닉스가 반도체 배경은 키옥시아"
+  ],
+  [
+   "2026-09-06T18:20:14.635511+09:00",
+   "파격 반도체 넥스트 현금 보조금 관세 압박 vs 지원"
   ]
  ],
- "last_run": "2026-09-06T18:10:24.723700+09:00",
+ "last_run": "2026-09-06T18:20:26.119356+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
