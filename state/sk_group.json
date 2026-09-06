@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260903173130kEz",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058386",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=862059",
   "https://www.sentv.co.kr/article/view/sentv202609030222",
   "https://www.etnews.com/20260903000396",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260906508213?OutUrl=naver",
   "https://www.news1.kr/economy/trend/6280531",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/07/2026090700001.html",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=604288"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=604288",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63869",
+  "https://www.sidae.com/article/2026090409533216290"
  ],
  "seen_titles": [
-  "'한일경제공동체'주장한최태원,일본공장세울까[CEO업&다운]",
-  "정진욱의원,서남권반도체산업이끌'현장실무형인재'육성해법찾는...",
   "[ET포토]최미나수,'실물비율이이정도~'",
   "이대통령,어제정의선과비공개회동…새만금투자논의한듯",
   "[신아일보tv]SK재팬인베스트먼트5년만에청산",
@@ -6001,7 +5999,9 @@
   "불붙은주주환원경쟁…‘신뢰쌓은기업’에돈몰린다[마이머니]",
   "'반도체·LNG·이란'까지꺼낸美…한·미대미투자협상'복합딜'로",
   "[단국대②]'AI·X캠퍼스'전환박차…AI교수부터첨단연구·산학협...",
-  "집값상승지속시2030년서울22개구종부세…125개주요단지세부..."
+  "집값상승지속시2030년서울22개구종부세…125개주요단지세부...",
+  "SK텔레콤AI데이터센터사업운영계획",
+  "권혁빈이혼소송다음주선고…쟁점은혼인파탄여부"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,17 @@
   [
    "2026-09-07T06:21:03.511813+09:00",
    "2030년 지속 집값 주요 125개 22개구 상승 서울 종부세 단지"
+  ],
+  [
+   "2026-09-07T06:31:10.043504+09:00",
+   "사업 SK텔레콤 운영 계획 AI데이터센터"
+  ],
+  [
+   "2026-09-07T06:31:10.043504+09:00",
+   "이혼소송 파탄 쟁점은 다음주 권혁빈 선고 여부 혼인"
   ]
  ],
- "last_run": "2026-09-07T06:21:30.579110+09:00",
+ "last_run": "2026-09-07T06:31:19.179217+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
