@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/gwangju-jeonnam/6279053",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852557",
-  "http://www.economytalk.kr/news/articleView.html?idxno=423391",
-  "https://www.sentv.co.kr/article/view/sentv202609030173",
-  "https://www.smartbizn.com/news/articleView.html?idxno=152961",
-  "https://www.yna.co.kr/view/AKR20260903125800008?input=1195m",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852576",
-  "http://www.metroseoul.co.kr/article/20260903500371",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=226065",
   "https://www.sedaily.com/article/20086827",
   "https://www.jibs.co.kr/news/articles/articlesDetail/65138?feed=na",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/03/2026090300247.html",
@@ -2999,18 +2990,18 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467131",
   "https://www.mt.co.kr/stock/2026/09/06/2026090610062125712",
   "http://www.newstomato.com/ReadNews.aspx?no=1312653&inflow=N",
-  "https://www.gokorea.kr/news/articleView.html?idxno=877303"
+  "https://www.gokorea.kr/news/articleView.html?idxno=877303",
+  "https://zdnet.co.kr/view/?no=20260906102957",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058870",
+  "https://www.newscj.com/news/articleView.html?idxno=3430357",
+  "https://www.chosun.com/economy/money/2026/09/06/3RRMFZU6BVB6JFYFUTO24MKJYU/",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000009377&cp=nv",
+  "https://zdnet.co.kr/view/?no=20260906103855",
+  "https://www.newsis.com/view/NISX20260906_0003777934",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2053085",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484229"
  ],
  "seen_titles": [
-  "8월외환보유량사상최대폭증가…국가별순위는공개않기로",
-  "국내기업들,1500억달러한미조선협력프로젝트MASGA어떻게추진하나",
-  "자동화흐름탄아진엑스텍,로봇용모션제어기술로외형성장기대",
-  "조국혁신당'호남반도체레드팀'자처…\"전남광주대응시급\"(종합)",
-  "[클라우드월드]삼성SDS'RXART'개최·이노그리드'가상화플랫폼'출...",
-  "[ESG경영분석]유진투자증권…\"지배구조:사외이사중심견제구조+내부...",
-  "조국혁신당“800조호남반도체,지역에소득·일자리남겨야”",
-  "SK그룹,기후테크'선금융'해법찾는다···미래기후가치현재자금과...",
-  "씨티,환율부담반영해SK하이닉스·삼성전자목표주가하향",
   "노동부\"N%성과급,쟁의대상아냐\"…양대노총\"지침폐기해야\"반발",
   "밸류업공시기업756곳...시총비중83%확대",
   "포스코퓨처엠전날8퍼센트급락딛고강한반등장중18만7200원",
@@ -6001,7 +5992,16 @@
   "SK·울산상의,제조업AX해법찾는다···'2026울산포럼'개최",
   "SK온ESS수주로목표치45%채워…DB손보·롯데지주주주환원부각",
   "서울집값상승이어지면…종부세,2030년22개구과세",
-  "서울아파트시장의충격예상,2030년까지종부세폭발적증가예측"
+  "서울아파트시장의충격예상,2030년까지종부세폭발적증가예측",
+  "'투자한파'맞은AI스타트업…상장사손잡고판로뚫는다",
+  "SK·울산상의,제조업AI전환본격화…울산미래산업해법찾는다",
+  "삼성전자·SK하이닉스날았다…국내10대브랜드가치2천억달러육박",
+  "9월반도체대형주대거매도한서학개미…레버리지ETF는순매수",
+  "청주성안길단속없는금연선도거리조성",
+  "SK,'2026울산포럼'11일개최…제조AX가속화방안논의",
+  "\"제조업AI전환속도낸다\"…SK·울산상의,오는11일'울산포럼2026'개...",
+  "집값상승지속땐2030년서울22개구종부세…비강남권과세확대",
+  "[주간증시]코스피한주간1.50%↓...이번주는상승출발기대감↑"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,13 @@
   [
    "2026-09-06T10:41:00.956912+09:00",
    "SK온 수주로 DB손보 롯데지주 주주환원 ESS 채워 목표치 부각"
+  ],
+  [
+   "2026-09-06T11:01:11.669367+09:00",
+   "출발 기대감 주는 상승 코스피 한주간"
   ]
  ],
- "last_run": "2026-09-06T10:51:03.898625+09:00",
+ "last_run": "2026-09-06T11:01:17.252107+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
