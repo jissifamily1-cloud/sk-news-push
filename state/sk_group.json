@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260903001167",
-  "https://www.newspim.com/news/view/20260903001169",
-  "https://www.newspim.com/news/view/20260903001171",
-  "https://www.newspim.com/news/view/20260903001168",
-  "https://www.newspim.com/news/view/20260903001164",
   "https://m.skyedaily.com/news_view.html?ID=310962",
   "https://www.mk.co.kr/article/12143685",
   "https://www.sentv.co.kr/article/view/sentv202609030099",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1686610/?sc=Naver",
   "https://view.asiae.co.kr/article/2026090315071464529",
   "https://www.ulsanpress.net/news/articleView.html?idxno=582496",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16184995"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16184995",
+  "https://news.tf.co.kr/read/economy/2362470.htm",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94866",
+  "https://biz.sbs.co.kr/article_hub/20000333010?division=NAVER",
+  "https://www.dailian.co.kr/news/view/1686635/?sc=Naver",
+  "http://www.metroseoul.co.kr/article/20260907500001"
  ],
  "seen_titles": [
-  "[ET포토]문가영,'미소가주는힐링'",
-  "두달사이에달러당200원하락…“잔치는끝났다”",
-  "옛전남방직·일신방직부지‘챔피언스시티1차’분양",
-  "배우강훈,'카리스마매력'",
-  "최미나수,'은은한미소~'",
   "최미나수,'모델맞네~'",
   "강훈,'비율천재'",
   "문가영,'안녕하세요~'",
@@ -6001,7 +5996,12 @@
   "'모두의AI'전에,'모두의보안'부터[기자수첩-ICT]",
   "[2026양성평등지수]객관적데이터와새평가항목도입해신뢰도높였다",
   "[영상]오늘울산은(9월7일월울산신문)",
-  "미국증시,CPI·10년물금리분수령…서학개미는SOXL베팅"
+  "미국증시,CPI·10년물금리분수령…서학개미는SOXL베팅",
+  "SK그룹,11일울산포럼개최…제조AX·일상속AI논의",
+  "38조방어막걷힌뒤코스피는?…이르면10월'수급공백'우려",
+  "[증시전략]연준의금리결정,돌고돌아\"데이터기반\"…물가관건",
+  "반도체다음은이것?…다시불붙은2차전지ETF",
+  "SK오션플랜트,목표주가최대39%격차…\"2027년저점,2028년반등\""
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,25 @@
   [
    "2026-09-07T07:11:02.381825+09:00",
    "서학개미는 미국증시 금리 분수령 CPI SOXL 베팅 10년물"
+  ],
+  [
+   "2026-09-07T07:21:01.341535+09:00",
+   "수급 우려 방어막 공백 38조 코스피는 이르면 걷힌 10월"
+  ],
+  [
+   "2026-09-07T07:21:01.341535+09:00",
+   "연준의 데이터 물가 결정 돌고돌아 관건 금리 기반"
+  ],
+  [
+   "2026-09-07T07:21:01.341535+09:00",
+   "2차전지 반도체 다음은 불붙은 ETF 다시 이것"
+  ],
+  [
+   "2026-09-07T07:21:01.341535+09:00",
+   "격차 목표주가 반등 저점 2027년 2028년 SK오션플랜트"
   ]
  ],
- "last_run": "2026-09-07T07:11:59.163991+09:00",
+ "last_run": "2026-09-07T07:21:15.815155+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
