@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyeongin.com/article/1770191",
-  "https://www.yna.co.kr/view/AKR20260903161600054?input=1195m",
-  "https://www.mt.co.kr/future/2026/09/03/2026090314061885832",
-  "https://www.goodkyung.com/news/articleView.html?idxno=290979",
   "https://www.news2day.co.kr/article/20260903500227",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=191634",
   "https://www.segye.com/newsView/20260903517197?OutUrl=naver",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/industry/general-industry/6280725",
   "https://www.mt.co.kr/living/2026/09/07/2026090618313936874",
   "https://www.fnnews.com/news/202609060934024282",
-  "http://www.beyondpost.co.kr/view.php?ud=2026090706330720642aaae0046f_30"
+  "http://www.beyondpost.co.kr/view.php?ud=2026090706330720642aaae0046f_30",
+  "https://www.mk.co.kr/article/12145648",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723164",
+  "https://www.geconomy.co.kr/news/article.html?no=323418",
+  "http://www.economytalk.kr/news/articleView.html?idxno=423947"
  ],
  "seen_titles": [
-  "TSMC“팹20개짓지만AI수요폭발에역부족”",
-  "“반도체는여전히원픽,바벨전략으로변동성방어”…신한운용김정...",
-  "[ET포토]옥택연,'남다른밝음'",
-  "바이오클러스터확충중인인천,직업훈련수요75%가‘경력직’…...",
   "조국혁신당,호남반도체성공전략논의\"자립형생태계구축\"",
   "에임인텔리전스,SKT'모두의AI'컨소시엄합류…보안고도화담당",
   "코스피,기관ㆍ금융투자매도세에장중6400선까지'출렁'…6500대강보합...",
@@ -6001,7 +5997,11 @@
   "日모가미에밀렸던'韓충남함'…호주대신美시장서'설욕전'펴나",
   "일단때리고보자?과징금·세무조사폭주…기업들만멍든다",
   "AI병목에'연산하는메모리'뜬다…D램3사기술개발속도",
-  "종부세,2030년에는강북금천도봉제외22개구부과대상된다...총125개..."
+  "종부세,2030년에는강북금천도봉제외22개구부과대상된다...총125개...",
+  "재고자산같이늘어도…삼전닉스‘매출예고편’현대차는‘악성재고...",
+  "6680선회복코스피…美고용발금리부담다시변수",
+  "美관세피해공장옮겼더니…한국기업,美공급망핵심으로",
+  "15GWAI데이터센터만드는SK그룹,SK온ESS역할도커질까"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,25 @@
   [
    "2026-09-07T06:41:05.486785+09:00",
    "병목에 AI 기술개발 연산하는 3사 속도 D램 뜬다 메모리"
+  ],
+  [
+   "2026-09-07T07:01:14.091235+09:00",
+   "삼전닉스 같이 재고자산 매출 늘어도 악성재고 현대차는 예고편"
+  ],
+  [
+   "2026-09-07T07:01:14.091235+09:00",
+   "회복 코스피 금리 변수 고용발 부담 다시 6680선"
+  ],
+  [
+   "2026-09-07T07:01:14.091235+09:00",
+   "한국 관세 공장 공급망 기업 피해 핵심으로 옮겼더니"
+  ],
+  [
+   "2026-09-07T07:01:14.091235+09:00",
+   "SK그룹 역할도 AI 만드는 ESS 커질까 데이터센터 SK온 15GW"
   ]
  ],
- "last_run": "2026-09-07T06:51:07.114558+09:00",
+ "last_run": "2026-09-07T07:01:28.002472+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
