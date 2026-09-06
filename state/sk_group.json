@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://m.skyedaily.com/news_view.html?ID=310962",
-  "https://www.mk.co.kr/article/12143685",
-  "https://www.sentv.co.kr/article/view/sentv202609030099",
-  "https://www.hankyung.com/article/2026090327711",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106340",
-  "https://kjmbc.co.kr/NewsArticle/1535277",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260904010001569",
   "https://www.goodkyung.com/news/articleView.html?idxno=290980",
   "https://www.sedaily.com/article/20086934",
   "https://www.joongangenews.com/news/articleView.html?idxno=545492",
@@ -2999,16 +2992,16 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=94866",
   "https://biz.sbs.co.kr/article_hub/20000333010?division=NAVER",
   "https://www.dailian.co.kr/news/view/1686635/?sc=Naver",
-  "http://www.metroseoul.co.kr/article/20260907500001"
+  "http://www.metroseoul.co.kr/article/20260907500001",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003264598&CMPT_CD=P0010",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52655",
+  "https://www.dailyt.co.kr/newsView/dlt202609070007",
+  "https://biz.sbs.co.kr/article_hub/20000333015?division=NAVER",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=879967",
+  "https://biz.sbs.co.kr/article_hub/20000333014?division=NAVER",
+  "https://www.fnnews.com/news/202609070712243442"
  ],
  "seen_titles": [
-  "최미나수,'모델맞네~'",
-  "강훈,'비율천재'",
-  "문가영,'안녕하세요~'",
-  "반도체들어간완제품도관세검토…한국반도체비상",
-  "KT우규민,역대3번째900경기출장에‘-1’…우완최초눈앞",
-  "네이버,SK텔레콤제쳤다…정부‘사이버보안AI’개발",
-  "부천대장첫공공분양'하우스토리'",
   "['클릭'증시]美,이란결혼식장타격...한국엔반도체관세",
   "\"호남반도체10만첨단도시조성해야\"…조국혁신당,자립형생태계제...",
   "SK하닉,日생산거점검토…美관세압박속글로벌확장고심",
@@ -6001,7 +5994,14 @@
   "38조방어막걷힌뒤코스피는?…이르면10월'수급공백'우려",
   "[증시전략]연준의금리결정,돌고돌아\"데이터기반\"…물가관건",
   "반도체다음은이것?…다시불붙은2차전지ETF",
-  "SK오션플랜트,목표주가최대39%격차…\"2027년저점,2028년반등\""
+  "SK오션플랜트,목표주가최대39%격차…\"2027년저점,2028년반등\"",
+  "팬들속뒤집어놓은선수...생각할수록참고맙네",
+  "과기부,모두의AI사업착수간담회가져",
+  "9월7일'푸른하늘의날'...“우리모두의행동으로만드는맑고푸른...",
+  "[마켓프리뷰]외인·기관복귀에국내증시상승…美금리방향촉각",
+  "서학개미,9월개별반도체주대거처분…'3배'속슬은매수",
+  "[서학개미브리핑]서학개미,글로벌국채금리상승세에초단기美국채...",
+  "\"주가38%빠졌는데,내년물량없다\"…삼전닉스반전오나"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,25 @@
   [
    "2026-09-07T07:21:01.341535+09:00",
    "격차 목표주가 반등 저점 2027년 2028년 SK오션플랜트"
+  ],
+  [
+   "2026-09-07T07:31:10.466006+09:00",
+   "증시 촉각 기관 외인 국내 금리 상승 복귀에 방향"
+  ],
+  [
+   "2026-09-07T07:31:10.466006+09:00",
+   "매수 처분 9월 대거 속슬은 반도체주 개별 3배 서학개미"
+  ],
+  [
+   "2026-09-07T07:31:10.466006+09:00",
+   "국채 상승세에 국채금리 글로벌 초단기 서학개미"
+  ],
+  [
+   "2026-09-07T07:31:10.466006+09:00",
+   "반전 없다 오나 삼전닉스 주가 물량 내년 빠졌는데"
   ]
  ],
- "last_run": "2026-09-07T07:21:15.815155+09:00",
+ "last_run": "2026-09-07T07:31:23.996686+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
