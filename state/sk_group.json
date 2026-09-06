@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25458824",
-  "https://www.etoday.co.kr/news/view/2621582",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1179553",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483553",
   "https://www.jbnews.com/news/articleView.html?idxno=1510801",
   "https://www.polinews.co.kr/news/articleView.html?idxno=742070",
   "https://www.tenasia.co.kr/article/2026090320694",
@@ -2999,13 +2995,13 @@
   "https://www.etoday.co.kr/news/view/2622249",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=144037",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=144041",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008739664&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008739664&plink=ORI&cooper=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484219",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609060047&t=NN",
+  "https://www.yna.co.kr/view/AKR20260904152200017?input=1195m",
+  "https://www.edaily.co.kr/News/Read?newsId=01282486645577496&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "수급공백에120조매물벽까지…7천피돌파구는[마켓딥다이브]",
-  "기업가치제고계획공시업체누적756개사…한달새11개사↑",
-  "본질적질문을논의할때다",
-  "[단독]‘신약청탁’기소유예김승원,헌법소원보니…“누구와도500만...",
   "‘경인더비’서5연승노리는서울⋯인천은파이널A사수전",
   "알트주가,상한가...무슨회사길래?",
   "IT소재부터석유화학까지…LG화학,핵심사업성장모멘텀재가동",
@@ -6001,7 +5997,11 @@
   "신규상장40곳중목표가3곳…상장후기업분석‘뚝’",
   "[이번주증시]美고용호조속주초반제한적흐름보일듯",
   "[이번주환율]두달만에200원내린환율…1300원대초반까지열리나",
-  "\"연11%집값상승지속되면2030년엔강북·금천·도봉뺀서울전역이..."
+  "\"연11%집값상승지속되면2030년엔강북·금천·도봉뺀서울전역이...",
+  "\"강남만내는세금인줄알았는데\"…종부세,서울22개구로확산",
+  "항공주웃고車는울상…환율하락에'희비'",
+  "[AI위클리]'미토스'맞설국산보안AI뜬다…'모두의AI'도출격",
+  "SK·울산상의,산업부터일상까지확산한AI로지역혁신방안찾는다"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-09-06T09:31:10.586535+09:00",
    "상승 서울 집값 지속되면 금천 강북 전역이 2030년엔 도봉"
+  ],
+  [
+   "2026-09-06T09:41:04.701494+09:00",
+   "산업부터 AI로 찾는다 울산상의 지역 확산한 방안 혁신 일상까지"
   ]
  ],
- "last_run": "2026-09-06T09:31:35.003850+09:00",
+ "last_run": "2026-09-06T09:41:10.519765+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
