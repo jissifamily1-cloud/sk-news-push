@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=763423",
-  "https://www.hankyung.com/article/2026090321937",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=663774",
-  "https://www.greened.kr/news/articleView.html?idxno=349177",
-  "https://www.ajunews.com/view/20260903143118200",
-  "https://www.ajunews.com/view/20260903143143201",
   "https://www.topstarnews.net/news/articleView.html?idxno=16182031",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591053609144",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=273630",
@@ -2999,15 +2993,15 @@
   "https://www.besteleven.com/news/articleView.html?idxno=311888",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484212",
   "https://www.ikbc.co.kr/article/view/kbc202609060007",
-  "https://www.fnnews.com/news/202609060851599329"
+  "https://www.fnnews.com/news/202609060851599329",
+  "https://www.sentv.co.kr/article/view/sentv202609060002",
+  "https://www.kizmom.com/news/articleView.html?idxno=112555",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276263",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94845",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000548734",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433611"
  ],
  "seen_titles": [
-  "10대그룹만난김영훈\"청년첫경력지원관심가져달라\"",
-  "\"청년일자리늘려달라\"…노동장관,10대그룹간담회",
-  "中CXMT,글로벌D램점유율첫10%…삼성·SK추격속도",
-  "코스피,오후2시께돌연급락…삼성전자·SK하이닉스도'휘청'",
-  "김영훈노동장관,10대그룹에\"청년일자리확대\"당부",
-  "메리츠증권,MOUM계좌개설…현금·주식이벤트",
   "25조받아도한전빚안줄어…'전기료선납'은한전채대체재",
   "[속보]코스피,상승세꺾여6500대로후퇴…삼성전자·SK하이닉스도내...",
   "李대통령,전날정의선회장과비공개회동…새만금투자점검한듯",
@@ -6001,7 +5995,13 @@
   "[B11현장]'속죄포'터뜨린정재희\"팬들에게죄송해멀리서사죄했다...",
   "롯데케미칼·코리아세븐살아났다…롯데지주실적개선본격화",
   "2030년서울22개구종부세…사실상'서울시민세'되나",
-  "집값상승세유지때비거주종부세9배급증…\"상승률절반꺾여도5배..."
+  "집값상승세유지때비거주종부세9배급증…\"상승률절반꺾여도5배...",
+  "AI예산9.4조로확대…모델·보안·대국민서비스본격화",
+  "[국제]서학개미가9월가장많이산종목은…'3배반도체ETF'다시쓸어...",
+  "SK·울산상의,11일'2026울산포럼'개최",
+  "삼전·닉스급락에도해외IB는낙관론…\"메모리공급난장기화\"",
+  "미국이SK하이닉스를잡았다…5조5000억HBM공장가보니[특파원토크...",
+  "티빙·웨이브연내합병가능할까…해킹사태에불확실성확대"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,25 @@
   [
    "2026-09-06T09:10:59.991095+09:00",
    "절반 상승세 유지 꺾여도 비거주 상승률 급증 집값 9배 종부세 5배"
+  ],
+  [
+   "2026-09-06T09:21:10.445647+09:00",
+   "울산포럼 개최 11일 울산상의"
+  ],
+  [
+   "2026-09-06T09:21:10.445647+09:00",
+   "메모리 급락에도 장기화 닉스 낙관론 IB는 해외 삼전 공급난"
+  ],
+  [
+   "2026-09-06T09:21:10.445647+09:00",
+   "5조 HBM 토크 잡았다 특파원 미국이 공장 가보니 SK하이닉스를 5000억"
+  ],
+  [
+   "2026-09-06T09:21:10.445647+09:00",
+   "웨이브 확대 가능할까 연내 불확실성 사태에 합병 해킹 티빙"
   ]
  ],
- "last_run": "2026-09-06T09:11:06.638612+09:00",
+ "last_run": "2026-09-06T09:21:24.573788+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
