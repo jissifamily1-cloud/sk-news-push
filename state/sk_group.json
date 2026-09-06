@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12316573?influxDiv=NAVER",
-  "https://www.etoday.co.kr/news/view/2621683",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16182199",
   "https://news.bizwatch.co.kr/article/mobile/2026/09/03/0012",
   "https://www.businesspost.co.kr/BP?command=article_view&num=446350",
   "https://www.stardailynews.co.kr/news/articleView.html?idxno=548647",
@@ -2999,12 +2996,12 @@
   "https://www.donga.com/news/Economy/article/all/20260731/134402949/1",
   "https://www.hidomin.com/news/articleView.html?idxno=720029",
   "https://biz.heraldcorp.com/article/10863371",
-  "https://biz.heraldcorp.com/article/10864055"
+  "https://biz.heraldcorp.com/article/10864055",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217367",
+  "https://www.seoul.co.kr/news/economy/2026/09/07/20260907001001?wlog_tag3=naver",
+  "https://www.mk.co.kr/article/12145603"
  ],
  "seen_titles": [
-  "[증시인사이트]'3중매도'맞은코스피…삼전·닉스방어도소용없나",
-  "삼성전자,2분기HBM점유율33%로급등…SK하이닉스와격차축소",
-  "나경원\"삼전닉스전기요금선납국가권력앞세운자본징발\"",
   "삼전20조·하닉5조…한전'전기료미리낼수있나'타진,왜?",
   "삼성전자,HBM점유율33%로껑충…SK하이닉스와격차좁혔다",
   "[HD포토]트와이스미나,'아름다워'(SK-II포토콜)",
@@ -6001,29 +5998,12 @@
   "AI가이끄는지속가능경영…‘그린에너텍ESG컨퍼런스2026’8월7일개...",
   "'취업사관학교'영진전문대수시모집서2309명뽑는다",
   "[증시예보]美10년물5%문턱…코스피,CPI·만기일에반등시험대",
-  "“230만원→70만원”SK하이닉스보다심하다…‘반토막’에충격적리포..."
+  "“230만원→70만원”SK하이닉스보다심하다…‘반토막’에충격적리포...",
+  "오키나와'뱅뱅'도는태풍크로반…일본에또폭우",
+  "오를때도내릴때도‘뒷북’…‘목표주가’에물린개미들[목표주가...",
+  "“월요일에삼전닉스의시간옵니까”…GPT-6에불붙은美반도체"
  ],
  "recent_sigs": [
-  [
-   "2026-09-06T14:01:11.833511+09:00",
-   "빙부상 프로 홍보실 SK에코플랜트 진민수"
-  ],
-  [
-   "2026-09-06T14:01:11.833511+09:00",
-   "먹거리 내리고 올라 생활물가 생활비 대구"
-  ],
-  [
-   "2026-09-06T14:01:11.833511+09:00",
-   "manufacturing to co in Forum AI Innovation on host Ulsan"
-  ],
-  [
-   "2026-09-06T14:01:11.833511+09:00",
-   "뛰고 기업들 몸값 방산 반도체 날았다"
-  ],
-  [
-   "2026-09-06T14:01:11.833511+09:00",
-   "김재희 티샷 OK"
-  ],
   [
    "2026-09-06T14:11:00.413117+09:00",
    "공급원으로 재이용수 클러스터 호남 반도체 하수처리"
@@ -6439,9 +6419,21 @@
   [
    "2026-09-06T19:51:05.708932+09:00",
    "230만원 반토막 심하다 70만원 충격적 리포 SK하이닉스보다"
+  ],
+  [
+   "2026-09-06T20:01:15.002774+09:00",
+   "뱅뱅 태풍 일본에 크로반 폭우 오키나와 도는"
+  ],
+  [
+   "2026-09-06T20:01:15.002774+09:00",
+   "때도 개미들 오를 뒷북 물린 목표주가 내릴"
+  ],
+  [
+   "2026-09-06T20:01:15.002774+09:00",
+   "6에 옵니까 월요일에 반도체 시간 GPT 삼전닉스의 불붙은"
   ]
  ],
- "last_run": "2026-09-06T19:51:15.544431+09:00",
+ "last_run": "2026-09-06T20:01:26.465490+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
