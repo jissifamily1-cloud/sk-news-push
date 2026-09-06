@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25454994",
-  "https://www.donga.com/news/Economy/article/all/20260820/134515271/2",
-  "https://biz.sbs.co.kr/article_hub/20000329875?division=NAVER",
-  "https://news.jtbc.co.kr/article/NB12314343?influxDiv=NAVER",
-  "https://www.segye.com/newsView/20260820524975?OutUrl=naver",
   "https://biz.chosun.com/policy/politics/president_office/2026/08/20/ST4MY2GT5FFW3PJFVTRF6PLNRA/",
   "https://www.ytn.co.kr/_ln/0101_202608202347009997",
   "https://www.mk.co.kr/article/12132785",
@@ -2999,14 +2994,14 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276263",
   "https://www.the-today.com/news/articleView.html?idxno=89553",
   "https://www.the-today.com/news/articleView.html?idxno=89552",
-  "https://www.edaily.co.kr/News/Read?newsId=01282486645577496&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01282486645577496&mediaCodeNo=257",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=261308",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=274081",
+  "https://www.mt.co.kr/industry/2026/09/06/2026090609340858549",
+  "https://www.seoulfn.com/news/articleView.html?idxno=637326",
+  "https://economist.co.kr/article/view/ecn202609060001"
  ],
  "seen_titles": [
-  "삼전닉스판개미웁니다...\"역대급주주환원\"100조쏘고40조태운다",
-  "이재명대통령,최태원SK회장과비공개만찬…반도체투자·노사현안...",
-  "李대통령,최태원과비공개회동…호남반도체논의",
-  "이대통령,최태원회장과비공개만찬회동…무슨얘기오갔나",
-  "최태원,EBS세계석학강연‘위대한수업’출연",
   "李대통령,최태원회장과만찬…호남반도체·대미투자논의'촉각'",
   "이대통령,최태원회장비공개회동…'호남반도체'등논의가능성",
   "李대통령,최태원과만찬회동…'3대메가'대미투자논의주목",
@@ -6001,7 +5996,12 @@
   "SK·울산상의,11일'2026울산포럼'개최",
   "[이슈]최성환SK울타리안개인회사…계열분리보다'투트랙'가능성(2...",
   "[이슈]SK네트웍스지분정리한최성환,100%개인회사로AI독자행보(1부...",
-  "SK·울산상의,산업부터일상까지확산한AI로지역혁신방안찾는다"
+  "SK·울산상의,산업부터일상까지확산한AI로지역혁신방안찾는다",
+  "SK·울산상의,'울산포럼2026'서제조업AX대전환및지역혁신모색",
+  "제조업수도에부는'AI바람'…SK·울산상의,11일'울산포럼2026'개최",
+  "SK와울산상의,11일부터'울산포럼'개최…AI전환논한다",
+  "SK,울산제조업에AI입힌다···'피지컬AI'로산업AX가속",
+  "이재명정부의‘운수좋은날’"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-09-06T09:50:12.518977+09:00",
    "지역 방안 찾는다 울산상의 혁신 AI로 일상까지 산업부터 확산한"
+  ],
+  [
+   "2026-09-06T10:00:26.975007+09:00",
+   "AX 울산 가속 산업 AI 제조업에 피지컬 입힌다"
+  ],
+  [
+   "2026-09-06T10:00:26.975007+09:00",
+   "좋은 이재명 운수 정부의"
   ]
  ],
- "last_run": "2026-09-06T09:50:28.347185+09:00",
+ "last_run": "2026-09-06T10:00:42.900376+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
