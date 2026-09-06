@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260820_0003756784",
-  "http://www.fnnews.com/news/202608202316559393",
-  "https://www.yna.co.kr/view/AKR20260820187000001?input=1195m",
   "https://www.donga.com/news/Politics/article/all/20260820/134516496/2",
   "https://www.news1.kr/politics/president/6264992",
   "https://www.hankyung.com/article/2026082033851",
@@ -2999,12 +2996,12 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4433612",
   "https://view.asiae.co.kr/article/2026090610225203536",
   "https://www.dailian.co.kr/news/view/1686903/?sc=Naver",
-  "https://www.etoday.co.kr/news/view/2622270"
+  "https://www.etoday.co.kr/news/view/2622270",
+  "https://www.news1.kr/industry/general-industry/6281223",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467131",
+  "https://kpenews.com/View.aspx?No=4214404"
  ],
  "seen_titles": [
-  "李,최태원과비공개만찬…반도체메가투자논의",
-  "李대통령,최태원과비공개만찬…반도체투자논의",
-  "이재명대통령,최태원회장과만찬…반도체투자논의한듯",
   "이대통령,최태원과비공개만찬…반도체팹·대미투자논의한듯",
   "李대통령,최태원SK회장과비공개회동…반도체등현안논의",
   "李대통령,최태원과만찬회동…대미투자논의여부주목",
@@ -6001,7 +5998,10 @@
   "SK·울산상의,울산포럼서AI로지역혁신해법찾는다",
   "SK·울산상의,‘울산포럼2026’개최…제조AX·일상AI논의",
   "최태원회장이띄운울산포럼,올해는제조AX·생활AI논의",
-  "SK·울산상의,‘2026울산포럼’개최…제조업AX·생활AI미래논의"
+  "SK·울산상의,‘2026울산포럼’개최…제조업AX·생활AI미래논의",
+  "SK-울산상의,지역미래비전논의'2026울산포럼'개최",
+  "SK·울산상의,제조업AX해법찾는다···'2026울산포럼'개최",
+  "SK·울산상의,지역혁신해법발굴나서..산업부터일상까지AI확산"
  ],
  "recent_sigs": [
   [
@@ -6061,7 +6061,7 @@
    "좋은 이재명 운수 정부의"
   ]
  ],
- "last_run": "2026-09-06T10:30:34.001832+09:00",
+ "last_run": "2026-09-06T10:40:26.239349+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
