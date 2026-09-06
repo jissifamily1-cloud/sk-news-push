@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=548647",
-  "https://www.thelec.kr/news/articleView.html?idxno=61763",
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=548646",
-  "https://www.news1.kr/finance/market-exr/6279208",
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=548644",
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=548645",
-  "https://www.slist.kr/news/articleView.html?idxno=763446",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=204104",
   "http://www.joynews24.com/view/2001783",
   "https://www.moneystorm.kr/news/articleView.html?idxno=6201",
@@ -2999,16 +2992,16 @@
   "https://www.seoul.co.kr/news/economy/2026/09/07/20260907001001?wlog_tag3=naver",
   "https://www.mk.co.kr/article/12145603",
   "https://www.etnews.com/20260906000150",
-  "https://www.newspim.com/news/view/20260906000138"
+  "https://www.newspim.com/news/view/20260906000138",
+  "https://www.wikitree.co.kr/articles/1157624",
+  "http://www.ujeil.com/news/articleView.html?idxno=391573",
+  "http://www.ujeil.com/news/articleView.html?idxno=391549",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=582419",
+  "http://www.ujeil.com/news/articleView.html?idxno=391531",
+  "https://www.khan.co.kr/article/202609062019005",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=582471"
  ],
  "seen_titles": [
-  "[HD포토]트와이스미나,'아름다워'(SK-II포토콜)",
-  "부채40%↓…SK브로드밴드,본업집중모드로",
-  "유럽디젤유공급부족에한국산수입정황,\"영국이나네덜란드로운송...",
-  "[S포토]문가영,'써보세요'",
-  "육군'50만드론전사'사업,中밀어내고국산배터리탑재",
-  "[S포토]문가영,'예쁨'",
-  "美훈풍에도삼전닉스하락…기관5000억'팔자'[핫종목](종합)",
   "[S포토]문가영,'청순'",
   "[S포토]문가영,'사랑을담아'",
   "[포토]강훈'무결점밀크피부'",
@@ -6001,7 +5994,14 @@
   "오를때도내릴때도‘뒷북’…‘목표주가’에물린개미들[목표주가...",
   "“월요일에삼전닉스의시간옵니까”…GPT-6에불붙은美반도체",
   "퇴직연금,주식몰빵은불안한데…“수익은내야”ETF에몰리면서60%...",
-  "남자농구안영준,손가락탈구로아시안게임출전불발…마줄스호대체..."
+  "남자농구안영준,손가락탈구로아시안게임출전불발…마줄스호대체...",
+  "삼성전자·SK하이닉스밀어냈다…개미들이올인한1위종목'정체'",
+  "SK·울산상의,제조AX·일상속AI로울산혁신이끈다",
+  "\"AI대전환변화이끌주역으로성장하길\"",
+  "SK·울산상의,제조업AX·지역AI혁신해법모색",
+  "프로축구울산,수적열세에도제주원정서무승부",
+  "난코스에에이스…‘차이’만든경상북도,6년만에‘정상’질주",
+  "SK이노울산CLX,울산대4명에장학금"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,21 @@
   [
    "2026-09-06T20:21:00.294785+09:00",
    "출전 남자농구 불발 대체 안영준 손가락 탈구로 마줄스호 아시안게임"
+  ],
+  [
+   "2026-09-06T20:31:12.714377+09:00",
+   "수적 프로축구 울산 원정서 무승부 열세에도 제주"
+  ],
+  [
+   "2026-09-06T20:31:12.714377+09:00",
+   "6년 난코스에 경상북도 만든 차이 정상 질주 에이스 만에"
+  ],
+  [
+   "2026-09-06T20:31:12.714377+09:00",
+   "SK이노 울산CLX 장학금 4명에 울산대"
   ]
  ],
- "last_run": "2026-09-06T20:21:09.561102+09:00",
+ "last_run": "2026-09-06T20:31:24.736153+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
