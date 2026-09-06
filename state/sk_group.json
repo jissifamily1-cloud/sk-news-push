@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12143720",
-  "https://www.hankyung.com/article/2026090327741",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466534",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260903010001502",
   "https://www.ggilbo.com/news/articleView.html?idxno=1178450",
@@ -2999,11 +2997,11 @@
   "https://www.etoday.co.kr/news/view/2622371",
   "https://www.yna.co.kr/view/AKR20260907009600011?input=1195m",
   "https://www.yna.co.kr/view/AKR20260902153300371?input=1195m",
-  "https://www.ytn.co.kr/_ln/0102_202609070747162300"
+  "https://www.ytn.co.kr/_ln/0102_202609070747162300",
+  "https://www.seoulfn.com/news/articleView.html?idxno=637345",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=300343"
  ],
  "seen_titles": [
-  "'유가증권'으로순익1위오른OK저축은행…3분기는'안갯속'",
-  "'의왕역ㆍ과천청사역'환승센터추진...위과선연장'기대'",
   "천안'K-컬처박람회'개막…닷새간'한류문화'향연",
   "보안특화AI모델개발…네이버클라우드선정",
   "'더현대'품었다…광주에최대주거복합단지",
@@ -6001,7 +5999,9 @@
   "[오늘의증시일정]SK디스커버리·세화피앤씨·진원생명과학등",
   "[전국주요신문톱뉴스](7일조간)",
   "[다문화3.0]\"레이업슛하나에3년\"…농구로뭉친어머니들",
-  "\"삼전닉스이번주더간다...딱이것만조심\""
+  "\"삼전닉스이번주더간다...딱이것만조심\"",
+  "9월7일개장전주요공시",
+  "[박정식의국내주식시황]인공지능투자확대기대감으로반도체부각..."
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-09-07T08:11:01.580577+09:00",
    "간다 조심 이번주 이것만 삼전닉스"
+  ],
+  [
+   "2026-09-07T08:16:37.499995+09:00",
+   "기대감으로 부각 인공지능 반도체 확대 투자"
   ]
  ],
- "last_run": "2026-09-07T08:11:39.541169+09:00",
+ "last_run": "2026-09-07T08:16:43.240780+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
