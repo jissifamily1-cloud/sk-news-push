@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026090316272978195",
-  "https://www.mydaily.co.kr/page/view/2026090316253951973",
-  "https://www.mydaily.co.kr/page/view/2026090316260760520",
-  "https://www.news1.kr/industry/general-industry/6273993",
-  "https://www.fnnews.com/news/202609031625073343",
-  "http://www.kjdaily.com/article.php?aid=1788420050685886227",
   "http://www.newstomato.com/ReadNews.aspx?no=1312477&inflow=N",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276153",
   "https://www.cwn.kr/news/articleView.html?idxno=55173",
@@ -2999,15 +2993,15 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=862557",
   "https://www.g-enews.com/view.php?ud=2026090415013451627fa31d75c_1",
   "https://www.mt.co.kr/industry/2026/09/06/2026090415360073496",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637332"
+  "https://www.seoulfn.com/news/articleView.html?idxno=637332",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=604334",
+  "https://www.mk.co.kr/article/12145455",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=558768",
+  "https://www.hankyung.com/article/2026090668391",
+  "https://www.hankyung.com/article/2026090668411",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1067509"
  ],
  "seen_titles": [
-  "급등락롤러코스터탄코스피…6680→6440→6579",
-  "[증권UP+]AI반도체부터국제유가까지···금투업계'투자기회'발굴",
-  "[MD포토]트와이스미나'인형의손인사'",
-  "[MD포토]트와이스미나'눈부신화이트패션'",
-  "[MD포토]트와이스미나'시선을사로잡는아름다움'",
-  "[MD포토]트와이스미나'빈틈없는아름다움'",
   "'주식가치10억원'非오너임원400명…삼성·SK98.2%",
   "김석봉씨티證부사장,12월부터모건스탠리韓IB공동대표[fn마켓워치...",
   "삼성전자·SK하이닉스약세…주식혼조마감",
@@ -6001,7 +5995,13 @@
   "금리·유가에흔들린코스피…이번주美CPI주목",
   "SK하이닉스가日에반도체공장을지으려는배경은?…'키옥시아·소부장...",
   "HBM이어낸드도AI특수…삼성·SK하이닉스,시장절반차지",
-  "[주간환율전망]1340원대환율···'엔캐리청산'경계속숨고르기"
+  "[주간환율전망]1340원대환율···'엔캐리청산'경계속숨고르기",
+  "\"삼전브랜드몸값만135조원\"…국내10대기업가치2천억달러",
+  "서학개미,반도체株팔고'3배ETF'베팅",
+  "[2026대한민국다문화엑스포]\"외국인이라생각말고다함께어울려살...",
+  "재생에너지직접구매…전력거래시장확대",
+  "폐기물이스마트폰소재·키링으로'재탄생'…자원순환앞장서는기업들",
+  "김상욱\"울산이에너지허브돼야대한민국강국된다\""
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,25 @@
   [
    "2026-09-06T17:11:08.115379+09:00",
    "청산 환율 1340원대 엔캐리 숨고르기 경계"
+  ],
+  [
+   "2026-09-06T17:31:06.672600+09:00",
+   "다함께 생각 외국인이라 말고 어울려"
+  ],
+  [
+   "2026-09-06T17:31:06.672600+09:00",
+   "직접 확대 전력거래시장 구매 재생에너지"
+  ],
+  [
+   "2026-09-06T17:31:06.672600+09:00",
+   "재탄생 소재 키링으로 스마트폰 앞장서는 자원순환 기업들 폐기물이"
+  ],
+  [
+   "2026-09-06T17:31:06.672600+09:00",
+   "강국 울산이 허브 돼야 된다 김상욱 대한민국 에너지"
   ]
  ],
- "last_run": "2026-09-06T17:21:04.403083+09:00",
+ "last_run": "2026-09-06T17:31:20.419600+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
