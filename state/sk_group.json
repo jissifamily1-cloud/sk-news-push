@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202609032987i",
-  "https://www.sedaily.com/article/20086946",
-  "https://www.sedaily.com/article/20086943",
-  "https://www.aitimes.com/news/articleView.html?idxno=214805",
-  "https://www.ekn.kr/web/view.php?key=20260903025500330",
-  "https://www.imaeil.com/page/view/2026090317523481597",
   "https://futurechosun.com/?p=159377",
   "https://www.veritas-a.com/news/articleView.html?idxno=626156",
   "https://www.mk.co.kr/article/12143655",
@@ -2999,15 +2993,15 @@
   "https://www.fntimes.com/html/view.php?ud=202609070721022362141825007d_18",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245485",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258369",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862237"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862237",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723169",
+  "https://www.etoday.co.kr/news/view/2622358",
+  "https://slownews.kr/166017",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433639",
+  "https://www.g-enews.com/view.php?ud=202609070735595910fbbec65dfb_1",
+  "https://dealsite.co.kr/articles/168363"
  ],
  "seen_titles": [
-  "WillforeignresidentsqualifyforKorea’s$370marriagesubsidy?",
-  "한전,삼성전자·SK하이닉스에전기료25조선납제안…반도체전력망에...",
-  "李,정의선현대차회장과비공개회동…새만금·美통상현안논의한듯",
-  "내년7월'K미토스'개발…네이버,韓보안AI생태계만든다",
-  "①삼성·SK,대미투자6.5배늘려야TSMC와비슷해져",
-  "中물량공세에美·日은투자유치총력…“호남팹후순위밀릴판”",
   "[게시판]마인드로직,고교생대상챗GPT·제미나이무상제공등단신",
   "[금융권풍향계]황기연수은행장,전남광주반도체기업방문등현장...",
   "\"호남권반도체클러스터인력수급가능한가\"…국회서비판목소리쇄...",
@@ -6001,7 +5995,13 @@
   "[KFT모닝브리프]2026.09.07—오늘꼭알아야할국내외경제·시장...",
   "[정재용칼럼]한전의'전기료25조원선납'추진타당한가?",
   "[넥스트-샷]좋은고용은나쁜뉴스···월가다시'9월인상'긴장",
-  "에너지조달'판'바뀐다…넓어진韓기업선택권"
+  "에너지조달'판'바뀐다…넓어진韓기업선택권",
+  "[EBN칼럼]AGI시대,사라지는스타트업과살아남는스타트업(上)",
+  "KB증권\"내년메모리사상초유의공급부족온다…삼성전자·SK하이닉스...",
+  "검찰캐비닛열었나?한동훈은김승원녹취록을어디서얻었을까:슬로...",
+  "삼전닉스,바닥다졌나…노무라'초저평가'에美반도체랠리까지",
+  "EU,챗GPT검색엔진지정…미·중AI격차6개월로압축",
+  "[ETF리그테이블][2026년8월]변동성이겨낸한화운용…태양광·그룹주..."
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,25 @@
   [
    "2026-09-07T07:40:57.960251+09:00",
    "넓어진 선택권 기업 에너지 바뀐다 조달"
+  ],
+  [
+   "2026-09-07T07:51:03.262597+09:00",
+   "캐비닛 열었나 녹취록을 슬로 한동훈은 얻었을까 검찰 어디서 김승원"
+  ],
+  [
+   "2026-09-07T07:51:03.262597+09:00",
+   "초저평가 삼전닉스 바닥 랠리까지 반도체 노무라 다졌나"
+  ],
+  [
+   "2026-09-07T07:51:03.262597+09:00",
+   "격차 EU 6개월로 AI 챗GPT 압축 검색엔진 지정"
+  ],
+  [
+   "2026-09-07T07:51:03.262597+09:00",
+   "변동성 태양광 이겨낸 한화운용 그룹주"
   ]
  ],
- "last_run": "2026-09-07T07:41:16.869598+09:00",
+ "last_run": "2026-09-07T07:51:17.326612+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
