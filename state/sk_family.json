@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2356361.htm",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310945&inflow=N",
   "http://www.newsian.co.kr/news/articleView.html?idxno=94016",
   "https://www.gokorea.kr/news/articleView.html?idxno=875765",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=851079",
@@ -2999,11 +2997,11 @@
   "https://news.tf.co.kr/read/economy/2362470.htm",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=392225",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/07/2026090790016.html",
-  "http://www.srtimes.kr/news/articleView.html?idxno=211645"
+  "http://www.srtimes.kr/news/articleView.html?idxno=211645",
+  "https://www.yna.co.kr/view/AKR20260907009600011?input=1195m",
+  "https://dealsite.co.kr/articles/168455"
  ],
  "seen_titles": [
-  "李대통령,최태원SK회장과비공개만찬…'3대메가프로젝트'투자현안...",
-  "글로벌AI격변,한국의중국의가는길이다르다",
   "최태원SK회장,'위대한수업'출연…AI시대인재상제시한다",
   "최태원,EBS석학강연대선다…'AI시대새자본주의'설명",
   "이대통령,최태원과비공개만찬…‘호남반도체’실행점검했나",
@@ -6001,7 +5999,9 @@
   "SK그룹,11일울산포럼개최…제조AX·일상속AI논의",
   "UNEEPC황예지총회장,'목포환경패션쇼·ESG환경공헌대상'앙드래김...",
   "이흥구퇴임…대법관2명공석현실화",
-  "권혁빈스마일게이트CVO이혼1심판결'눈앞'…소송장기화되나"
+  "권혁빈스마일게이트CVO이혼1심판결'눈앞'…소송장기화되나",
+  "[전국주요신문톱뉴스](7일조간)",
+  "SK하이닉스-키옥시아맞손언급최태원,'D램or낸드'선택은"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-09-07T07:10:13.653009+09:00",
    "권혁빈 분할되나 4조원 이혼 국내"
+  ],
+  [
+   "2026-09-07T08:15:43.430796+09:00",
+   "키옥시아 D램 맞손 SK하이닉스 낸드 언급 선택은 or"
   ]
  ],
- "last_run": "2026-09-07T08:10:26.388563+09:00",
+ "last_run": "2026-09-07T08:15:57.879318+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
