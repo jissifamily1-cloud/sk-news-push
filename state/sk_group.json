@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000332544?division=NAVER",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466185",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483573",
-  "https://www.m-i.kr/news/articleView.html?idxno=1409705",
-  "https://www.mydaily.co.kr/page/view/2026090314572343395",
-  "https://www.sportsseoul.com/news/read/1632768",
-  "https://biz.heraldcorp.com/article/10855419",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48674",
   "https://www.newscj.com/news/articleView.html?idxno=3429873",
   "https://cc.newdaily.co.kr/site/data/html/2026/09/03/2026090300268.html",
   "https://daily.hankooki.com/news/articleView.html?idxno=1402455",
@@ -2999,17 +2991,17 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1723140",
   "https://www.ziksir.com/news/articleView.html?idxno=145536",
   "https://www.meconomynews.com/news/articleView.html?idxno=201263",
-  "https://www.newsgn.com/news/articleView.html?idxno=571630"
+  "https://www.newsgn.com/news/articleView.html?idxno=571630",
+  "http://www.joseilbo.com/news/news_read.php?uid=575150&class=17",
+  "http://www.newstomato.com/ReadNews.aspx?no=1312649&inflow=N",
+  "https://www.dt.co.kr/article/12082264",
+  "http://www.4th.kr/news/articleView.html?idxno=2117550",
+  "https://www.sentv.co.kr/article/view/sentv202609060016",
+  "http://www.newstomato.com/ReadNews.aspx?no=1312650&inflow=N",
+  "https://www.ekn.kr/web/view.php?key=20260906021441052",
+  "https://www.edaily.co.kr/News/Read?newsId=01469446645577496&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[영상]김동환포티투마루대표\"독자AI모델확보,산업주권·경제경...",
-  "[ETF따라잡기]불확실할수록'몰빵'금지“성장주와방어주함께가져...",
-  "[셀럽의한수]9월주식시장쉽지않다“현금비중확보중요하다”",
-  "[오후장체크포인트]코스피상승세왜막혔나“외국인돌아오는게중...",
-  "'하이퍼'이어'호라이즌'···SK텔레콤의새AI회사두곳,무엇이다...",
-  "2차전지소재부품주반등기지개…대형주·원통형캔모멘텀에수급...",
-  "[기획]기후쇼크에생산·물류흔들…산업계'기후방어전'",
-  "李대통령,정의선과비공개회동…새만금·대미투자논의",
   "‘새역사썼다’대한민국장애인펜싱,국제무대단체전사상첫금메...",
   "2029년3분기첫‘메이드인USA’HBM4E가쏟아진다",
   "'임단협부결'SK하이닉스\"성과·보상불이익없도록할것\"",
@@ -6001,7 +5993,15 @@
   "서울집값오르면2030년22개구종부세…비강남세부담급증",
   "서울주요아파트종부세,2030년최대9배…과세대상101곳",
   "집값상승에비강남권도사정권...2030년서울22개구종부세낸다",
-  "고성군,제4회투자유치위원회개최"
+  "고성군,제4회투자유치위원회개최",
+  "삼전·닉스브랜드가치‘껑충’…삼성,HBM5성능2배정조준",
+  "반도체호황에삼성·하이닉스‘쑥’…10대브랜드가치2천억달러눈...",
+  "최태원제안울산포럼11일개최…“AI를일상으로”",
+  "SK,울산제조업AI전환확산…지역혁신해법모색",
+  "정부,‘모두의AI’12월출시추진…보안특화AI개발도착수",
+  "삼전·하닉서포스코·디스플레이로…전기료선납제확산가능성",
+  "“통신비빼면2%대라는데”…한은이보는물가는달랐다",
+  "美물가에FOMC‘빅위크’…기타법인자사주’방어통하나[주간증시전..."
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,21 @@
   [
    "2026-09-06T11:31:08.888465+09:00",
    "제4회 고성군 개최 투자유치위원회"
+  ],
+  [
+   "2026-09-06T11:41:03.728592+09:00",
+   "전기료 확산 디스플레이로 가능성 선납제 하닉서 포스코 삼전"
+  ],
+  [
+   "2026-09-06T11:41:03.728592+09:00",
+   "보는 빼면 한은이 달랐다 물가는 통신비 대라는데"
+  ],
+  [
+   "2026-09-06T11:41:03.728592+09:00",
+   "방어 주간증시전 FOMC 기타법인 빅위크 통하나 자사주 물가에"
   ]
  ],
- "last_run": "2026-09-06T11:31:15.946045+09:00",
+ "last_run": "2026-09-06T11:41:14.959879+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
