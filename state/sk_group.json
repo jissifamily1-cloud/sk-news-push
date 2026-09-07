@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.ifm.kr/news/articleView.html?idxno=478694",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=600200",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121364",
-  "https://dealsite.co.kr/articles/168454",
-  "https://www.newsway.co.kr/news/view?ud=2026090416514448376",
-  "https://www.nocutnews.co.kr/news/6573368",
   "https://www.polinews.co.kr/news/articleView.html?idxno=742218",
   "https://www.suwonilbo.kr/news/articleView.html?idxno=318007",
   "https://www.ddaily.co.kr/page/view/2026090416310691036",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/opinion/2026/09/08/2026090709445281668",
   "https://www.sidae.com/article/2026090116441180647",
   "https://www.pharmnews.com/news/articleView.html?idxno=306118",
-  "https://www.ziksir.com/news/articleView.html?idxno=145612"
+  "https://www.ziksir.com/news/articleView.html?idxno=145612",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169662",
+  "https://www.newsis.com/view/NISX20260907_0003779930",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169619",
+  "https://www.ziksir.com/news/articleView.html?idxno=145615",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=852910",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723304"
  ],
  "seen_titles": [
-  "고성군,SK오션플랜트인수기업에상생협력마련촉구",
-  "[오늘의증시]코스피6700선눈앞…금리우려완화에반도체가끌어올렸...",
-  "SK렌터카,법인차운영맞춤형모빌리티서비스개시",
-  "SKT·카카오·KT,'모두의AI'서비스윤곽공개...정부,연내출시총력",
-  "52조원ESS시장열린다…배터리3사LFP‘증설경쟁’",
-  "[부음]진민수(SK에코플랜트홍보실)씨장인상",
   "외국인·기관쌍끌이에코스피1%대상승…6680선마감",
   "[마감시황]외인·기관돌아오자코스피1.64%↑...코스닥도800선회복",
   "김성제의왕시장,인덕원자이에스케이뷰찾아주민요구청취",
@@ -6001,7 +5995,13 @@
   "[유효상칼럼]왜'붉은샌드위치위기(TheRedSandwichCrisis)'를두려...",
   "지능생산하는AIDC,세법에선임대업",
   "수급안정선도기업약가특례,품절대란막는'안전장치'부상",
-  "'집중투표제'시행D-2…4대그룹이사회·지배구조변화촉각"
+  "'집중투표제'시행D-2…4대그룹이사회·지배구조변화촉각",
+  "멍청해진구글,그리고GPT-6아스트라의출시[이승현의AI네이티브]",
+  "[오늘의주요일정]사회(9월8일화요일)",
+  "3954만계정유출한티빙…\"보상보다재이용유도\"",
+  "코스피7000선눈앞…삼전닉스,'36.8조자사주'로지수끌어올린다",
+  "[출근길브리핑-9월8일]낸드까지中추격·警김승원'신약로비의혹...",
+  "늦어지는코스닥셀렉트…\"불확실성만키운다\""
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,33 @@
   [
    "2026-09-08T06:17:45.311072+09:00",
    "촉각 이사회 4대 지배구조 변화 시행 집중투표제"
+  ],
+  [
+   "2026-09-08T06:20:59.218644+09:00",
+   "구글 그리고 출시 멍청해진 아스트라의 GPT"
+  ],
+  [
+   "2026-09-08T06:20:59.218644+09:00",
+   "화요일 사회 9월8일"
+  ],
+  [
+   "2026-09-08T06:20:59.218644+09:00",
+   "유도 티빙 보상보다 재이용 계정 유출한 3954만"
+  ],
+  [
+   "2026-09-08T06:20:59.218644+09:00",
+   "지수 눈앞 삼전닉스 자사주 끌어올린다 8조 코스피 7000선"
+  ],
+  [
+   "2026-09-08T06:20:59.218644+09:00",
+   "로비 김승원 낸드까지 의혹 추격 신약"
+  ],
+  [
+   "2026-09-08T06:20:59.218644+09:00",
+   "불확실성만 키운다 코스닥 셀렉트 늦어지는"
   ]
  ],
- "last_run": "2026-09-08T06:18:43.238503+09:00",
+ "last_run": "2026-09-08T06:21:18.168280+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
