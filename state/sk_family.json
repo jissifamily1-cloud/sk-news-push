@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12079378",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168579",
-  "https://www.newspim.com/news/view/20260821000392",
   "https://weekly.khan.co.kr/article/202608211048001",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213871",
   "https://monthly.chosun.com/news/articleView.html?idxno=71155",
@@ -2999,12 +2996,12 @@
   "http://www.newswell.co.kr/news/articleView.html?idxno=21637",
   "https://www.pennmike.com/news/articleView.html?idxno=126640",
   "https://www.lawtv.kr/news/articleView.html?idxno=60856",
-  "https://www.mt.co.kr/society/2026/09/07/2026090710272616136"
+  "https://www.mt.co.kr/society/2026/09/07/2026090710272616136",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3686751",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=201354",
+  "https://www.cstimes.com/news/articleView.html?idxno=719575"
  ],
  "seen_titles": [
-  "[속보]검찰,'노태우비자금의혹'김옥숙여사자택등압수수색",
-  "검찰,'노태우일가비자금은닉의혹'김옥숙여사자택등압수수색",
-  "[속보]‘노태우비자금의혹’검찰,김옥숙연희동자택압수수색",
   "李대통령·최태원SK회장,비공개만찬…반도체·대미투자논의",
   "檢,'노태우비자금은닉의혹'김옥숙여사자택압수수색",
   "검찰,‘노태우비자금’김옥숙연희동자택압수수색,‘904억메모’...",
@@ -6001,7 +5998,10 @@
   "'공정과경제민주화'하자더니재벌로도배된나라,'농심3세신상열...",
   "[전문]與김민석\"李·민주당좀도와달라\"···호소인가결속요청인가",
   "[전문]김민석\"검찰다음은경찰개혁\"...개헌·주거뉴딜도의제화",
-  "\"미국일방적세상은지났다\"與김민석국회서'영점이동'선언"
+  "\"미국일방적세상은지났다\"與김민석국회서'영점이동'선언",
+  "평창오대산자연명상마을9월26일힐링콘서트개최…리코더·가야금...",
+  "[현장]“상장문턱보다성장사다리”…코스닥30년,‘진입·유지·퇴...",
+  "SK·울산상의,11일'2026울산포럼'개최…제조AX·일상AI방안모색"
  ],
  "recent_sigs": [
   [
@@ -6097,7 +6097,7 @@
    "미국 일방적 선언 세상은 김민석 지났다 국회서 영점이동"
   ]
  ],
- "last_run": "2026-09-07T10:50:37.000213+09:00",
+ "last_run": "2026-09-07T11:00:37.283315+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
