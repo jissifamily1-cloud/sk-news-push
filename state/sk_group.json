@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260903500394",
-  "https://www.hankookilbo.com/news/article/A2026090414230004556?did=NA",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1014464",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252807",
-  "https://www.veritas-a.com/news/articleView.html?idxno=624940",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=300328",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=239397",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160273658283368",
-  "https://www.the-today.com/news/articleView.html?idxno=89491",
-  "https://weekly.donga.com/3/all/11/6373825/1",
   "https://www.mk.co.kr/article/12144671",
   "http://www.newswatch.kr/news/articleView.html?idxno=81009",
   "https://biz.sbs.co.kr/article_hub/20000332878?division=NAVER",
@@ -2999,19 +2989,19 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236662",
   "https://www.news2day.co.kr/article/20260907500208",
   "https://www.g-enews.com/view.php?ud=202609080629482742fbbec65dfb_1",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169636"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169636",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=274344",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609080163&t=NN",
+  "https://www.g-enews.com/view.php?ud=202609080640201821fbbec65dfb_1",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94934",
+  "https://www.g-enews.com/view.php?ud=20260908063553337fbbec65dfb_1",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071509407240971",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071408040030943",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071501569260969",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071343212830938",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8657188"
  ],
  "seen_titles": [
-  "‘용혜인테마주’오해벗었나…롤러코스터탄‘이종목’",
-  "'쪼개기상장'금지…기업자금조달위축우려",
-  "외국인비중바닥까지내려왔다…美금리안정땐수급반전기대",
-  "대구시'반도체검사디자인센터'설립투자협약체결",
-  "미정부반도체표적관세압박카드통할까...\"품목엄격적용시부담커...",
-  "[2027전문대수시특집]'해외취업전국1위'영진전문대수시2309명(95.9%)...",
-  "국내서밀린LG엔솔?'AI전력대폭발'북미서ESS'독주체제'가속",
-  "SKT,자원순환캠페인'리파인데이'개최…버려진스마트폰에새생명",
-  "김성제의왕시장,인덕원자이SK뷰서‘찾아가는시장실’",
-  "[이슈]SK오션플랜트매각후유증지속…경남고성군\"상생협력방안담...",
   "외국인·기관,KB·신한·하나·우리6900억순매수…금리·환율호재...",
   "‘심각한저평가’삼전닉스…노무라證“전례없는수요가환율악재...",
   "[핫이슈]카카오·SKT·KT,'모두의AI'사업자선정",
@@ -6001,7 +5991,17 @@
   "이재명정부의노동쟁의대상시행지침을보며",
   "[넥스트K-제약바이오①]초기단계에머무는AI신약개발...\"전과정으...",
   "딥시크,추론칩16만개자립선언…한국메모리공급선흔든다",
-  "1년전'구금덫'벗어난LG엔솔,美배터리공급망정상화"
+  "1년전'구금덫'벗어난LG엔솔,美배터리공급망정상화",
+  "SK하이닉스,이천서'AI반도체융합축제'…여주·청주이어상생확대",
+  "\"비행기안타고물탄다\"...곽튜브,SK하닉-14%계좌공개",
+  "D램매출59%급증…HBM4조기출하가삼성점유율갈랐다",
+  "[초점]車는협상끝냈지만…조선·철강·반도체노사갈등'9월고비'",
+  "삼성·SK재고열흘밑돌아…내년메모리품귀현실화",
+  "[환율급락파장]기업경영불확실성커졌다…수출전선악재될까노심...",
+  "[환율급락파장]저점은어디?…문제는불확실성",
+  "[환율급락파장]급락하는환율,방향타잡아라",
+  "[환율급락파장]자본시장경계감급상승",
+  "반도체주강세에코스피4.6%급등…7천선턱밑"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,45 @@
   [
    "2026-09-08T06:40:59.600710+09:00",
    "정상화 벗어난 구금 1년 LG엔솔 공급망 배터리"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "탄다 비행기 곽튜브 SK하닉 공개 계좌 안타고"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "매출 급증 갈랐다 삼성 점유율 조기 HBM4 D램 출하가"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "철강 9월 반도체 고비 노사갈등 협상 조선 끝냈지만"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "메모리 품귀 삼성 열흘 재고 내년 밑돌아 현실화"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "악재될까 노심 커졌다 경영 불확실성 기업 수출전선"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "문제는 불확실성 어디 저점은"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "잡아라 방향타 환율 급락하는"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "급상승 자본시장 경계감"
+  ],
+  [
+   "2026-09-08T06:51:03.686808+09:00",
+   "반도체주 7천 급등 턱밑 강세에 코스피"
   ]
  ],
- "last_run": "2026-09-08T06:41:13.715071+09:00",
+ "last_run": "2026-09-08T06:51:30.376013+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
