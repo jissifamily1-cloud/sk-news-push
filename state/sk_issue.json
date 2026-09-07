@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6271204",
-  "https://www.mt.co.kr/society/2026/08/28/2026082805530476808",
-  "https://www.dailian.co.kr/news/view/1683284/?sc=Naver",
-  "https://www.ceoscoredaily.com/page/view/2026082713312352537",
-  "http://www.jeonmin.co.kr/news/articleView.html?idxno=445965",
-  "https://www.nocutnews.co.kr/news/6569476",
   "http://www.lawissue.co.kr/view.php?ud=2026082807404891969a8c8bf58f_12",
   "https://www.yna.co.kr/view/AKR20260828013700011?input=1195m",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608270054535350104872",
@@ -2999,15 +2993,15 @@
   "https://news.tf.co.kr/read/life/2362764.htm",
   "https://www.pennmike.com/news/articleView.html?idxno=127252",
   "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066537",
-  "https://biz.heraldcorp.com/article/10865024"
+  "https://biz.heraldcorp.com/article/10865024",
+  "https://www.newspenguin.com/news/articleView.html?idxno=22149",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80957",
+  "https://www.hankookilbo.com/news/article/A2026090713320000041?did=NA",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260907.99099002025",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=239443",
+  "https://www.kyeonggi.com/article/20260907580189"
  ],
  "seen_titles": [
-  "고객돈10조굴리는대형상조사들…'선수금심의위'세운다",
-  "\"강아지죽어있어요\"신고…쓰레기집에개방치한60대,선처호소",
-  "쿠팡겨냥했나…현장조사방어권줄이는법개정에업계'긴장'",
-  "통합앞둔대한항공,마일리지부채4조675억원…전환율은미확정",
-  "피복비대금부풀리기의혹…경찰,군산시청압수수색",
-  "강성필\"공소취소조항삭제해야…무리할필요없어\"[한판승부]",
   "제5회하나뿐인지구영상제,9월3일개막…총58편작품선봬",
   "[전국주요신문사설](28일조간)",
   "[더벨][SanctionRadar]하나은행외부인사기발생,타행공시확인후...",
@@ -6001,10 +5995,16 @@
   "경찰,'경영권방어용자사주출연'의혹한진칼압수수색",
   "국민의힘경남도당,김해시장선거'우회광고⋅광고비대납의혹'도철...",
   "산업기술유출혐의,초기수사에서확인해야할주요사항",
-  "되살아난의결권…‘대한항공경영권방어’의혹,경찰한진칼압수수..."
+  "되살아난의결권…‘대한항공경영권방어’의혹,경찰한진칼압수수...",
+  "1.5도목표무너졌는데,지금이오히려'기회'라고?",
+  "대기업,공시반복위반시과태료최대50%가중",
+  "경찰,한진칼압수수색…경영권방어용자사주출연의혹",
+  "‘수원마약좀비’30대남성구속영장",
+  "경찰,한진칼압수수색···자사주복지기금출연배임혐의",
+  "경찰,'수원좀비마약'피의자사전구속영장신청…경기광주병원직..."
  ],
  "recent_sigs": [],
- "last_run": "2026-09-07T14:20:52.328604+09:00",
+ "last_run": "2026-09-07T14:31:07.003453+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
