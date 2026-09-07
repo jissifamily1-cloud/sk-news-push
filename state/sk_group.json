@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742218",
-  "https://www.suwonilbo.kr/news/articleView.html?idxno=318007",
-  "https://www.ddaily.co.kr/page/view/2026090416310691036",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245460",
-  "https://economist.co.kr/article/view/ecn202609040025",
   "https://zdnet.co.kr/view/?no=20260904160208",
   "http://www.ikld.kr/news/articleView.html?idxno=340133",
   "https://www.hankookilbo.com/news/article/A2026090415370001116?did=NA",
@@ -2999,14 +2994,14 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092169619",
   "https://www.ziksir.com/news/articleView.html?idxno=145615",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=852910",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723304"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723304",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=6298",
+  "https://www.news2day.co.kr/article/20260907500214",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=762977",
+  "https://www.news1.kr/finance/general-stock/6282806",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723242"
  ],
  "seen_titles": [
-  "외국인·기관쌍끌이에코스피1%대상승…6680선마감",
-  "[마감시황]외인·기관돌아오자코스피1.64%↑...코스닥도800선회복",
-  "김성제의왕시장,인덕원자이에스케이뷰찾아주민요구청취",
-  "[DD퇴근길]유통넘어AI인프라로…정용진,팍스실리카무대서존재감",
-  "[부고종합·4일]전명우전LG전자부사장모친상등",
   "기초연금개혁실패…반도체세수꺾이면어쩌나[이병희의연금술사]",
   "삼성전자,스마트폰주기판'HDI'조달골머리",
   "대장홍대선에GTX-D까지겹쳤다…서울과가까워지는부천대장주목",
@@ -6001,7 +5996,12 @@
   "3954만계정유출한티빙…\"보상보다재이용유도\"",
   "코스피7000선눈앞…삼전닉스,'36.8조자사주'로지수끌어올린다",
   "[출근길브리핑-9월8일]낸드까지中추격·警김승원'신약로비의혹...",
-  "늦어지는코스닥셀렉트…\"불확실성만키운다\""
+  "늦어지는코스닥셀렉트…\"불확실성만키운다\"",
+  "[마켓뷰]원화이어엔화까지강해진다…'달러약세'넘어환율지형이...",
+  "[전문가7인AI특별대담시즌2③]AI,사람을줄이나…자리보다먼저...",
+  "[소비자민원평가-통신]가입부터해지까지곳곳분쟁…불완전판매·고객...",
+  "'자사주매입'총알떨어지면어쩌나…금리안정·반도체수요관건",
+  "'차세대장비호조'주성엔지니어링,내년영업익2배청사진"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,25 @@
   [
    "2026-09-08T06:20:59.218644+09:00",
    "불확실성만 키운다 코스닥 셀렉트 늦어지는"
+  ],
+  [
+   "2026-09-08T06:31:05.829942+09:00",
+   "AI 줄이나 먼저 자리보다 사람을"
+  ],
+  [
+   "2026-09-08T06:31:05.829942+09:00",
+   "분쟁 해지까지 가입부터 고객 불완전판매 곳곳"
+  ],
+  [
+   "2026-09-08T06:31:05.829942+09:00",
+   "어쩌나 안정 금리 자사주 관건 반도체 떨어지면 매입 총알 수요"
+  ],
+  [
+   "2026-09-08T06:31:05.829942+09:00",
+   "내년 호조 장비 청사진 차세대 영업익 주성엔지니어링 2배"
   ]
  ],
- "last_run": "2026-09-08T06:21:18.168280+09:00",
+ "last_run": "2026-09-08T06:31:19.979985+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
