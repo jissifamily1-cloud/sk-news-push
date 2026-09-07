@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260821104925783",
   "https://www.lawtv.kr/news/articleView.html?idxno=60725",
   "https://www.mediawatch.kr/news/article.html?no=260734",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1534817",
@@ -2999,10 +2998,10 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=446550",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580090534864",
   "http://www.weeklytoday.com/news/articleView.html?idxno=793388",
-  "https://www.hankyung.com/article/2026090778811"
+  "https://www.hankyung.com/article/2026090778811",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446444"
  ],
  "seen_titles": [
-  "檢,'노태우비자금의혹'김옥숙여사자택등압수수색",
   "검찰,'노태우비자금의혹'김옥숙여사연희동자택등압수수색",
   "檢,'비자금은닉의혹'노태우전대통령일가전격압수수색",
   "검찰,'노태우비자금'김옥숙자택압수수색",
@@ -6001,7 +6000,8 @@
   "[821조슈퍼예산①]정부'3대메가프로젝트+AI'에21.3조,삼성이재용...",
   "[CEO열전]최태원표리밸런싱강조2년…SK\"합병이든분할이든본업경...",
   "[위클리오늘]최종현강원도의원,\"결산은집행률아닌도민체감성과...",
-  "사진앱강자네이버스노우,日캐릭터채팅시장두드린다"
+  "사진앱강자네이버스노우,日캐릭터채팅시장두드린다",
+  "[821조슈퍼예산②]정부내년첨단바이오R&D에2.2조,서정진셀트리온..."
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,13 @@
   [
    "2026-09-07T16:00:28.163072+09:00",
    "캐릭터채팅 강자 사진 스노우 시장 두드린다 네이버"
+  ],
+  [
+   "2026-09-07T16:10:16.334949+09:00",
+   "셀트리온 2조 첨단바이오 D에 정부 서정진 내년"
   ]
  ],
- "last_run": "2026-09-07T16:00:41.679683+09:00",
+ "last_run": "2026-09-07T16:10:28.227481+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
