@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=253937",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=91081",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/04/2026090400169.html",
-  "https://www.newsis.com/view/NISX20260904_0003776940",
   "https://www.fnnews.com/news/202609041544365570",
   "https://www.mk.co.kr/article/12144538",
   "https://www.newsis.com/view/NISX20260904_0003776365",
@@ -2999,13 +2995,13 @@
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52692",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484721",
   "https://www.m-joongang.com/news/articleView.html?idxno=403016",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443972"
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443972",
+  "https://www.kukinews.com/article/view/kuk202609070245",
+  "https://www.segye.com/newsView/20260907515083?OutUrl=naver",
+  "https://us.aving.net/news/articleView.html?idxno=54516",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=727496"
  ],
  "seen_titles": [
-  "美국채안정에코스피6680대로금리진정세…SK하이닉스3%↑",
-  "통신3사,'100만인파'몰리는불꽃축제장서AI통신망기술력대결",
-  "\"ETF국민사기3인방공수처고발\"",
-  "'모두의AI'출발…SKT·카카오·KT\"연내1500만사용목표\"",
   "美금리동결기대에자사주까지…삼전2%·SK하닉3%상승[핫스탁](종합)",
   "대형주의무게…삼성전자·하이닉스뛰자코스피1.64%반등[fn마감시황...",
   "Koreanconglomerateownerscontrol61.4%ofshareswith3.5%directst",
@@ -6001,57 +5997,13 @@
   "'KoAct배당성장액티브'1년수익률105.5%…배당성장ETF1위",
   "카카오·네이버,반도체랠리그늘벗어났지만...상반기낙폭회복은언...",
   "[단독]최길수특감후보자,아이파킹주식매입직후'상장때갚는'3...",
-  "코스피,4%대상승에7000선회복눈앞...SK하이닉스,SK스퀘어,삼성전..."
+  "코스피,4%대상승에7000선회복눈앞...SK하이닉스,SK스퀘어,삼성전...",
+  "대미투자1호,텍사스가스발전소유력…대형원전8기건설도검토",
+  "‘기술개발인의날’55명정부포상",
+  "LMSSDevelopsSmartAirbagVesttoProtectWorkersFromFalls",
+  "추미애SNS'지방소비세↑40.3%'?...세금인상아닌중앙·지방몫조정"
  ],
  "recent_sigs": [
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "호남 반도체 속도전 인데 레미콘 SK하이닉스 800조 삼성전자 총파업"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "고민 수출 활짝 하락은 화장품 역대급 환율 호황에"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "코스피 독주한 마감 이곳 상승"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "세상 만들것입니다 나은 제보는 당신의"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "코스피 안착 6990선 도착 2조 구조대 팔자 개인"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "이상 외국인 삼전닉 급등 돌아오니 이런 주식창 얼마만이냐"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "List Price KOSPI Closing"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "대상 SKT 진행 도미노피자 34세 할인 반값 위크"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "원전 밸류업까지 수출의 실적 턴어라운드에 대한민국 한전기술 중심"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "삼전닉스 재고 KB증권 10일치도 재평가 안돼 메모리 강력한"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "계약학과 반도체 바꾼 AI가 인재시 갈래요"
-  ],
-  [
-   "2026-09-07T15:50:59.803679+09:00",
-   "9월 7일자"
-  ],
   [
    "2026-09-07T16:01:31.376411+09:00",
    "콘테크미트업데이 SK에코플랜트 공모전 개최"
@@ -6711,9 +6663,17 @@
   [
    "2026-09-07T21:31:13.924105+09:00",
    "매입 주식 갚는 후보자 최길수 상장 직후 아이파킹 특감"
+  ],
+  [
+   "2026-09-07T21:51:04.938306+09:00",
+   "LMSS Airbag Workers Develops From Vest Smart Falls Protect to"
+  ],
+  [
+   "2026-09-07T21:51:04.938306+09:00",
+   "지방 세금인상 중앙 조정 지방소비세 추미애SNS 아닌"
   ]
  ],
- "last_run": "2026-09-07T21:41:04.565236+09:00",
+ "last_run": "2026-09-07T21:51:14.195732+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
