@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026090451071",
-  "http://www.srtimes.kr/news/articleView.html?idxno=211663",
-  "https://www.ceoscoredaily.com/page/view/2026090413393791864",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742165",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742169",
-  "https://www.hankyung.com/article/2026090451271",
-  "https://www.hankyung.com/article/2026090451051",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81012",
-  "https://news.mtn.co.kr/news-detail/2026090416255681428",
-  "https://www.mk.co.kr/article/12144749",
-  "https://www.sedaily.com/article/20087350",
   "https://biz.heraldcorp.com/article/10863187",
   "https://biz.heraldcorp.com/article/10863135",
   "https://www.news2day.co.kr/article/20260904500068",
@@ -2999,20 +2988,20 @@
   "https://www.yna.co.kr/view/AKR20260907121600008?input=1195m",
   "https://view.asiae.co.kr/article/2026090409390916714",
   "https://kpenews.com/View.aspx?No=4216837",
-  "https://www.ytn.co.kr/_ln/0102_202609080742353503"
+  "https://www.ytn.co.kr/_ln/0102_202609080742353503",
+  "https://www.fnnews.com/news/202609080805184775",
+  "https://www.namdonews.com/news/articleView.html?idxno=922528",
+  "https://www.tokenpost.kr/news/market/403935",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=727504",
+  "https://www.yna.co.kr/view/AKR20260908015800051?input=1195m",
+  "https://www.the-today.com/news/articleView.html?idxno=89688",
+  "https://view.asiae.co.kr/article/2026090808081122092",
+  "https://www.newspim.com/news/view/20260908000035",
+  "https://view.asiae.co.kr/article/2026090808065515622",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800021.html",
+  "https://www.yna.co.kr/view/AKR20260908016300008?input=1195m"
  ],
  "seen_titles": [
-  "SKT,자원순환실천위한'리파인데이'진행",
-  "SKT생활서비스·카카오메신저·KT콘텐츠…다담은'모두의AI'연내출...",
-  "한전'25조전기료선납'제안…반도체전력망부담놓고시각차",
-  "삼성전자,HBM점유율33%로‘점프업’…“SK하이닉스와격차확줄였...",
-  "삼성SDS,계열사현장서검증착수…\"제조로봇운영체계구축\"",
-  "노란봉투법시행지침윤곽…성과급·공장이전교섭기준살펴보니",
-  "반도체·바이오주,환율하락發이익감소주의",
-  "[단독]삼성화재,KKR손잡고英캐노피우스품는다",
-  "[ParkSu-jin'sMoneyWatch]AmidexpectationsthatU.S.interestrate",
-  "'퇴근길ETF'거래무산…신규상품이'찜'한종목은?[ETF브리핑]",
-  "靑,반도체대미투자논의공식화…호르무즈엔파병수순",
   "[조상인의미담]거장‘블록버스터전시’넘어…비주류예술가재발견...",
   "[단독]“미토스허용해달라”韓요청에도美백악관‘묵묵부답’…...",
   "공모가수준까지밀렸던스페이스X…반등기대에서학개미몰린다[투자...",
@@ -6001,7 +5990,18 @@
   "공사채시장최대발행주체부상한LH…\"수급좌우전망\"",
   "[PE는지금]AI인프라로쏠리는'사모펀드뭉칫돈'…데이터센터·에너지...",
   "SK증권,주도적자산운용돕는다..맞춤형리워드·수수료우대",
-  "전문가\"7천피,악재확인했고호재만남았다\""
+  "전문가\"7천피,악재확인했고호재만남았다\"",
+  "삼전닉스급등,더갈근거는...증권가\"AI수요기반확대\"",
+  "[마감시황]'반도체랠리'탄코스피,7000선눈앞…4.61%급등",
+  "반도체ETF12.65%올랐지만개인은미국지수로",
+  "[프리마켓포커스]美휴장에도AI기대는계속…코스피'강보합'",
+  "부산서'아임인부산데이'…한국·인니기후협력등논의",
+  "[젠슨황의두얼굴3부작(3)]젠슨황이웃으며던진'하청의경고',한...",
+  "[클릭e종목]\"글로벌텍스프리,사상최대국내실적…이제6000억日시장...",
+  "한가원-우체국물류지원단,다문화가족청소년꿈·성장지원맞손",
+  "일본무대접수이상희\"이번엔신한동해오픈우승도전\"",
+  "[속보]노동절맞은뉴욕증시‘숨고르기’…삼전닉스프리장약보합...",
+  "[마켓뷰]'7천피'탈환vs차익실현…코스피상승세이어가나"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,41 @@
   [
    "2026-09-08T08:11:11.862264+09:00",
    "7천피 악재 남았다 확인했고 전문가 호재만"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "휴장에도 기대는 AI 계속 강보합 코스피"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "논의 인니 한국 협력 기후 부산서 아임인부산 데이"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "황이 경고 젠슨 던진 웃으며 하청의"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "실적 사상 국내 이제 글로벌텍스프리 시장 6000억"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "다문화가족 지원 한가원 성장 맞손 우체국물류지원단 청소년"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "우승 도전 무대 이상희 이번엔 신한동해오픈 접수 일본"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "노동절 맞은 프리장 약보합 숨고르기 뉴욕증시 삼전닉스"
+  ],
+  [
+   "2026-09-08T08:20:59.434904+09:00",
+   "차익실현 탈환 이어가나 7천피 상승세 코스피 vs"
   ]
  ],
- "last_run": "2026-09-08T08:11:30.684690+09:00",
+ "last_run": "2026-09-08T08:21:23.551582+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
