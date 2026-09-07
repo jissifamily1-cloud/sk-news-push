@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000331205?division=NAVER",
-  "https://www.dt.co.kr/article/12080656",
-  "https://www.the-today.com/news/articleView.html?idxno=89051",
-  "https://www.mk.co.kr/article/12137898",
-  "https://www.segye.com/newsView/20260827516815?OutUrl=naver",
-  "https://lawtalknews.co.kr/article/X0QH40JHDCJC",
-  "https://www.segye.com/newsView/20260827515485?OutUrl=naver",
-  "https://www.pressian.com/pages/articles/2026082716511504829",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547324",
   "http://www.newsian.co.kr/news/articleView.html?idxno=94350",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423354",
   "https://www.gukjenews.com/news/articleView.html?idxno=3676953",
@@ -2999,18 +2990,18 @@
   "https://news.jtbc.co.kr/article/NB12317049?influxDiv=NAVER",
   "https://www.yna.co.kr/view/AKR20260907069900057?input=1195m",
   "https://www.hankookilbo.com/news/article/A2026090711030004059?did=NA",
-  "http://www.press9.kr/news/articleView.html?idxno=82281"
+  "http://www.press9.kr/news/articleView.html?idxno=82281",
+  "https://www.dailian.co.kr/news/view/1687191/?sc=Naver",
+  "https://www.fnnews.com/news/202609071054541518",
+  "https://www.mediapen.com/news/view/1121685",
+  "https://www.khan.co.kr/article/202609071200031",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549034",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266488",
+  "https://www.newdaily.co.kr/site/data/html/2026/09/07/2026090700148.html",
+  "https://www.yna.co.kr/view/AKR20260907083600004?input=1195m",
+  "https://www.chosun.com/national/national_general/2026/09/07/RE4PJTTOVBGYJNKUAK5E7FERXM/"
  ],
  "seen_titles": [
-  "주가조작대응단,한미회계법인·한투증권압수수색",
-  "[사설]쿠팡의공정위조사거부…美비호믿고법위에서려하나",
-  "한미회계법인미공개정보의혹…한투증권압수수색",
-  "합동대응단,한미회계법인압색...최고위임원등10억원대부당이득혐...",
-  "정성주김제시장‘베트남여행경비지원’의혹…경찰,진술확보해...",
-  "중고거래사기신고했는데경찰이수사중지하면그냥끝인가요?",
-  "군산시청,또압수수색…반복되는수사에‘행정신뢰’흔들[지방자치...",
-  "캄보디아서3400억대불법도박사이트차린조직원18명검거",
-  "“부인했는데‘확인되었다’허위기재”…감사원,尹정부‘강압감사...",
   "[초점]공정위조사막아선쿠팡…쟁점은'거부'아닌'절차'",
   "LG유플러스\"공정위판매장려금7년담합주장은모순\"···276억과징금...",
   "군산시청산림녹지과압수수색…경찰,육묘장피복비대금부풀리기의...",
@@ -6001,7 +5992,16 @@
   "[단독]서울청금수대,한진칼압수수색...경영권분쟁변수로",
   "최보현신임울산경찰청장\"중대재해예방에힘쓸것\"",
   "'베스트리뷰'로뽑힌이유·기준공개하고,협찬사실도밝혀야",
-  "CJ제일제당,원재료담합과징금'2824억'…이번엔장류조사로"
+  "CJ제일제당,원재료담합과징금'2824억'…이번엔장류조사로",
+  "공시의무또어기면과태료최대50%가중…상습위반제재강화",
+  "공시의무반복위반시가중강화…불필요한감경기준은삭제",
+  "“공시또어기면과태료최대50%가중”…공정위,제재강화",
+  "기업집단공시의무또어긴기업에가중과태료최대20%→50%상향",
+  "온라인쇼핑몰‘AI베스트리뷰’선정기준명시해야…공정위가이드라...",
+  "나뚜루,거리매장서사라진다…롯데웰푸드선택은'완제품'",
+  "서울경찰청\"김병기수사막바지단계…변수없다면곧끝나\"",
+  "서울청광수단,'자사주복지기금출연'한진칼압수수색…배임혐의",
+  "경찰,대한항공지주사한진칼압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "SK에너지 김종화 대표이사 SK지오센트릭 사장"
   ]
  ],
- "last_run": "2026-09-07T11:50:55.115105+09:00",
+ "last_run": "2026-09-07T12:01:13.511932+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
