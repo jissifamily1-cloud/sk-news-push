@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/marketing/1273974.html",
-  "https://news.jtbc.co.kr/article/NB12314392?influxDiv=NAVER",
-  "https://www.ekn.kr/web/view.php?key=20260821028554951",
   "https://www.ytn.co.kr/_ln/0103_202608211028432848",
   "https://www.cwn.kr/news/articleView.html?idxno=53862",
   "https://www.youthdaily.co.kr/news/article.html?no=225448",
@@ -2999,12 +2996,12 @@
   "https://www.todayenergy.kr/news/articleView.html?idxno=302483",
   "https://biz.heraldcorp.com/article/10864482",
   "https://www.ytn.co.kr/_ln/0101_202609070741199510",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=302568"
+  "https://www.todayenergy.kr/news/articleView.html?idxno=302568",
+  "https://www.busan.com/view/busan/view.php?code=2026090611004095857",
+  "https://biz.heraldcorp.com/article/10864545",
+  "https://www.newspim.com/news/view/20260907000214"
  ],
  "seen_titles": [
-  "삼성전자'배당',SK하이닉스'소각'...다른주주환원방식왜?",
-  "검찰,'노태우비자금의혹'김옥숙연희동자택등압수수색",
-  "SK하이닉스노사,성과급난맥함께풀었다…위기분담조항눈길[비즈...",
   "이대통령,최태원SK회장과만찬회동…반도체투자현안논의",
   "SK하이닉스,일본'반도체공장'추진…호남보다작은규모일듯",
   "[패트롤]수원시-화성시-평택시-오산시-안성시",
@@ -6001,7 +5998,10 @@
   "[탐방]SK이노베이션E&S",
   "김종인“용혜인,장관직을버려도비례대표는버리지않을것”",
   "김종인\"대통령지지율20%대갈수도...정책실장,기존인물로극복어...",
-  "SK·울산상의,울산포럼2026,'LeadingAX,SmartLife울산'개최"
+  "SK·울산상의,울산포럼2026,'LeadingAX,SmartLife울산'개최",
+  "부산센텀종합병원,사회공헌사업힘보탤후원회뜬다",
+  "SK·엔비디아‘AI동맹’바이오로확장…SK바이오팜,B200128장탑재",
+  "[전문]①김민석\"AI경쟁력강화로미·중모두에대체불가국가역량..."
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,17 @@
   [
    "2026-09-07T09:50:13.869925+09:00",
    "SK이노베이션"
+  ],
+  [
+   "2026-09-07T10:20:13.590471+09:00",
+   "탑재 엔비디아 AI SK바이오팜 128장 B200 바이오로 동맹 확장"
+  ],
+  [
+   "2026-09-07T10:20:13.590471+09:00",
+   "강화로 AI 국가 경쟁력 역량 모두에 대체불가 김민석"
   ]
  ],
- "last_run": "2026-09-07T10:10:24.749724+09:00",
+ "last_run": "2026-09-07T10:20:31.379566+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
