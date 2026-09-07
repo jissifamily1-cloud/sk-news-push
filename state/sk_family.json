@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10847901",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715455&plink=ORI&cooper=NAVER",
   "https://www.wikitree.co.kr/articles/1153855",
   "http://www.newskr.kr/news/articleView.html?idxno=105776",
   "https://www.ngonews.kr/news/articleView.html?idxno=235987",
@@ -2999,11 +2997,11 @@
   "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/07/20260907500248?wlog_tag3=naver",
   "https://kpenews.com/View.aspx?No=4216090",
   "https://www.joongangenews.com/news/articleView.html?idxno=546176",
-  "https://www.newsis.com/view/NISX20260907_0003779729"
+  "https://www.newsis.com/view/NISX20260907_0003779729",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446571",
+  "http://www.nongaek.com/news/articleView.html?idxno=96701"
  ],
  "seen_titles": [
-  "검찰,‘노태우비자금의혹’김옥숙여사자택등압수수색",
-  "검찰,'노태우비자금은닉의혹'강제수사...김옥숙여사자택압수수...",
   "SK하이닉스,성과급난맥‘위기분담’극복",
   "검찰,'노태우비자금의혹'김옥숙자택등압수수색",
   "'노태우비자금의혹'김옥숙여사연희동자택압수수색",
@@ -6001,7 +5999,9 @@
   "최종현경기도의원“K-푸드의뿌리를경기의미래로”...전통식품연구...",
   "SK-울산상의,11일'2026울산포럼'개최..제조업AX전환논의",
   "[지방의회24時]최종현의원,경기도인권영향평가실효성높인다…'인...",
-  "최종현경기도의원\"정책추진전인권먼저\"…조례안상임위통과"
+  "최종현경기도의원\"정책추진전인권먼저\"…조례안상임위통과",
+  "권혁빈'8조이혼소송'9일1심결과주목,스마일게이트그룹지배구조...",
+  "[논평]'3대메가'지원명분의규제완화반대한다…특정재벌만살찌울..."
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,17 @@
   [
    "2026-09-07T16:10:16.334949+09:00",
    "셀트리온 2조 첨단바이오 D에 정부 서정진 내년"
+  ],
+  [
+   "2026-09-07T17:30:22.212254+09:00",
+   "1심 결과 지배구조 스마일게이트 이혼소송 권혁빈 9일 8조 주목"
+  ],
+  [
+   "2026-09-07T17:30:22.212254+09:00",
+   "재벌만 반대한다 3대메가 명분의 지원 규제완화 찌울 특정"
   ]
  ],
- "last_run": "2026-09-07T17:20:24.259933+09:00",
+ "last_run": "2026-09-07T17:30:40.657517+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
