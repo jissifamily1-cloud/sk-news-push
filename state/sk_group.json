@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20260904009600320?input=2106m",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7182563",
-  "https://www.yna.co.kr/view/AKR20260904121800017?input=1195m",
-  "https://biz.sbs.co.kr/article_hub/20000332855?division=NAVER",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116414",
-  "https://www.irobotnews.com/news/articleView.html?idxno=48298",
-  "https://www.viva100.com/article/20260904500612",
   "https://www.ajunews.com/view/20260904154253565",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698292",
   "https://ilyo.co.kr/?ac=article_view&entry_id=512582",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2622800",
   "https://www.hankyung.com/article/2026090790556",
   "http://www.lawissue.co.kr/view.php?ud=2026090720061739789817d053b9_12",
-  "https://www.mk.co.kr/article/12146533"
+  "https://www.mk.co.kr/article/12146533",
+  "https://www.betanews.net/article/view/beta202609070109",
+  "https://www.dailian.co.kr/news/view/1687483/?sc=Naver",
+  "https://www.tfmedia.co.kr/news/article.html?no=207048",
+  "https://www.newscj.com/news/articleView.html?idxno=3430613",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6850186_37004.html",
+  "http://www.kwangju.co.kr/article.php?aid=1788780300803116004",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6850187_37004.html"
  ],
  "seen_titles": [
-  "코스피,美금리우려완화에1%대강세…외인·기관'사자'",
-  "KOSPI200ClosingPriceList-5",
-  "대교뉴이프,SKT'모두의AI'참여…시니어돌봄서비스구축",
-  "[AI프리즘]'모두의AI'뜯어보니…SKT·KT·카카오승부수달랐다",
-  "美금리유지기대감에코스피2%대상승",
-  "낸드값55%뛰자시장70%커졌다…삼성1위·SK하닉2위",
-  "과기정통부,'모두의AI'프로젝트착수간담회개최",
   "의왕시,찾아가는시장실주민목소리에귀기울이다",
   "[마감시황]코스피,외인·기관쌍끌이에1%대상승…6680선회복",
   "메모리값4배뛰었다…아이폰18프로가격최대20%인상전망",
@@ -6001,7 +5994,14 @@
   "대미투자1호텍사스발전소…원전8기검토",
   "\"작년저점깼다\"…1340원대로하락한환율,단기바닥은?[분석+]",
   "SK증권,고객맞춤형투자리워드이벤트",
-  "“7천피구조대왔네요,전이제탈출합니다”…개미들6.8조던졌다"
+  "“7천피구조대왔네요,전이제탈출합니다”…개미들6.8조던졌다",
+  "코스피,4%대급등7000선'턱밑'마감...반도체강세",
+  "2분기글로벌D램시장60%↑…삼성전자선두",
+  "[감사인세미나]신재용서울대교수“깜깜이N%성과급,본질은금액이...",
+  "9.19충북기후정의행진집행위\"3대메가프로젝트중단하라\"",
+  "코스피7천선근접‥아스트라로메모리반도체상승시동걸렸나",
+  "전남광주‘4대성장엔진’가동…기업투자·일자리로잇는다",
+  "'수능만점'아스트라의등장‥\"범용인공지능(AGI)도래했다\""
  ],
  "recent_sigs": [
   [
@@ -6979,9 +6979,17 @@
   [
    "2026-09-07T20:21:05.698615+09:00",
    "던졌다 왔네요 탈출합니다 구조대 개미들 7천피 8조 이제"
+  ],
+  [
+   "2026-09-07T20:31:10.298468+09:00",
+   "전남광주 잇는다 투자 일자리로 기업 4대 가동 성장엔진"
+  ],
+  [
+   "2026-09-07T20:31:10.298468+09:00",
+   "AGI 범용인공지능 도래했다 수능 만점 아스트라의 등장"
   ]
  ],
- "last_run": "2026-09-07T20:21:11.958002+09:00",
+ "last_run": "2026-09-07T20:31:19.762773+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
