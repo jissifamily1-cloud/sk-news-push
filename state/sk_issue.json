@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12138199",
-  "https://www.hankyung.com/article/2026082776191",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647963",
-  "https://www.gokorea.kr/news/articleView.html?idxno=876478",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647958",
-  "https://www.redaily.co.kr/news/articleView.html?idxno=17436",
   "https://news.mtn.co.kr/news-detail/2026082719470175615",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706145",
   "http://www.jmbc.co.kr/news/view/67447",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20260907084700061?input=1195m",
   "https://imnews.imbc.com/news/2026/society/article/6850086_36918.html",
   "https://www.newsis.com/view/NISX20260907_0003779095",
-  "https://www.sedaily.com/article/20087940"
+  "https://www.sedaily.com/article/20087940",
+  "http://www.inews24.com/view/2002670",
+  "https://www.news1.kr/local/gyeonggi/6282145",
+  "https://www.newsis.com/view/NISX20260907_0003779106",
+  "https://www.joongang.co.kr/article/25459675",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723237",
+  "https://biz.chosun.com/topics/topics_social/2026/09/07/BXU7WJV2LNDDLPD3OA3BYPRBTM/"
  ],
  "seen_titles": [
-  "尹정부시절감사원,20시간넘게가학조사…진술‘복붙’해조작까지",
-  "쿠팡vs공정위·납품사,가격시스템놓고충돌",
-  "‘피복비대금부풀리기’의혹…경찰,군산시압수수색",
-  "경북안동시장,정치자금법위반혐의로경찰소환임박",
-  "‘캄보디아발’불법도박…판돈키운성인PC방",
-  "\"철도통합'3년의약속',그이후를남기려면\"[2026고속철도거버넌스...",
   "주가조작대응단,한미회계법인사건관련한투증권압수수색…참고인...",
   "피복비의혹에군산시청압수수색…경찰,계약자료확보",
   "\"성인PC방을도박장으로\"..수수료로만121억부당이득",
@@ -6001,7 +5995,13 @@
   "'수원좀비마약'남성구속영장…기초단체장선거법수사속도",
   "'수원마약좀비'30대남성구속영장청구",
   "경찰'수원마약좀비'구속영장재신청…\"압수수색서필로폰발견\"",
-  "경찰,대한항공지주사한진칼압수수색…배임혐의"
+  "경찰,대한항공지주사한진칼압수수색…배임혐의",
+  "법원,구글의원스토어배제는위법판단…원스토어\"공정한경쟁정착...",
+  "경찰'수원좀비마약'30대남성사전구속영장신청",
+  "경찰,'간호사태움사망'수사\"10월중수사마무리\"",
+  "경찰,‘자사주복지기금출연’한진칼압수수색…배임혐의",
+  "경찰,'자사주복지기금출연'논란한진칼압수수색",
+  "경찰,‘홍명보선임특혜의혹’정몽규전축협회장추가소환계획..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "SK에너지 김종화 대표이사 SK지오센트릭 사장"
   ]
  ],
- "last_run": "2026-09-07T12:40:54.197866+09:00",
+ "last_run": "2026-09-07T12:50:53.618822+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
