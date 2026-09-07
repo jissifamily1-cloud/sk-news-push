@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=316518",
-  "https://view.asiae.co.kr/article/2026082712583123710",
-  "https://www.seoul.co.kr/news/society/law/2026/08/27/20260827500223?wlog_tag3=naver",
-  "https://www.news1.kr/politics/pm-bai-comm/6271785",
-  "https://www.mt.co.kr/finance/2026/08/27/2026082716284054424",
   "http://www.domin.co.kr/news/articleView.html?idxno=1566714",
   "https://www.ajunews.com/view/20260827164921492",
   "https://biz.sbs.co.kr/article_hub/20000331205?division=NAVER",
@@ -2999,14 +2994,14 @@
   "https://news.tf.co.kr/read/life/2362501.htm",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433285",
   "https://www.livebiz.today/news/articleView.html?idxno=204682",
-  "https://www.newdaily.co.kr/site/data/html/2026/09/07/2026090700119.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/09/07/2026090700119.html",
+  "https://www.dt.co.kr/article/12082435",
+  "https://biz.heraldcorp.com/article/10864773",
+  "https://www.thepublic.kr/news/articleView.html?idxno=317732",
+  "https://news.jtbc.co.kr/article/NB12317049?influxDiv=NAVER",
+  "https://www.yna.co.kr/view/AKR20260907069900057?input=1195m"
  ],
  "seen_titles": [
-  "CJ여성직원330명사진·전화번호텔레그램에…前직원검찰송치",
-  "감사원\"尹정부,통계·서해감사서감사권남용\"…국수본에최재해·유...",
-  "검찰,함양대형산불낸‘봉대산불다람쥐’에징역10년구형",
-  "감사원,전정부겨냥'강압·위법포렌식'감사확인…감사관반박(종...",
-  "줄잇는대형금융사고…책무구조도1호나오나",
   "미성년자추행하고약취미수까지한40대,징역4년",
   "주가조작대응단,한미회계법인'미공개정보이용'관련한국투자증권...",
   "주가조작대응단,한미회계법인·한투증권압수수색",
@@ -6001,7 +5996,12 @@
   "'라임사태'이종필1심징역10년에불복…쌍방항소",
   "'불후의명곡'신성X남궁진'이별'로터뜨린하모니,숨은사연있었다",
   "롯데웰푸드,나뚜루가맹사업철수...재인수한지8년만에",
-  "중수청,정식입건전조사가능…압수수색·통신수사절차도마련"
+  "중수청,정식입건전조사가능…압수수색·통신수사절차도마련",
+  "‘후기조작·삭제’막는다…쇼핑몰리뷰운영기준공개의무화",
+  "온라인쇼핑몰리뷰작성자공개의무화",
+  "법원\"구글경쟁제한행위위법\"…과징금421억은다시산정해야",
+  "[단독]서울청금수대,한진칼압수수색...경영권분쟁변수로",
+  "최보현신임울산경찰청장\"중대재해예방에힘쓸것\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "SK에너지 김종화 대표이사 SK지오센트릭 사장"
   ]
  ],
- "last_run": "2026-09-07T11:10:53.201707+09:00",
+ "last_run": "2026-09-07T11:20:58.506768+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
