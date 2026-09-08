@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643062",
-  "https://www.donga.com/news/Economy/article/all/20260821/134522694/2",
   "https://www.donga.com/news/Society/article/all/20260821/134522499/2",
   "https://www.joongang.co.kr/article/25455235",
   "https://www.chosun.com/national/court_law/2026/08/22/SX7NYVCHKZFG5LTK5LF5C7LBH4/",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260908513662?OutUrl=naver",
   "https://news.tf.co.kr/read/national/2363566.htm",
   "https://www.businesspost.co.kr/BP?command=article_view&num=446717",
-  "https://www.kwnews.co.kr/article/20260908501686"
+  "https://www.kwnews.co.kr/article/20260908501686",
+  "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=348450",
+  "https://www.sedaily.com/article/20088657"
  ],
  "seen_titles": [
-  "'공개행정'순기능‥우려의목소리도",
-  "檢,'노태우비자금의혹'압수수색…'세기의이혼'여파",
   "노태우비자금은끝나지않았다…환수가능할까",
   "최태원만난李,내주이재용-정의선과도회동",
   "檢,‘노태우비자금의혹’김옥숙여사자택등압수수색",
@@ -6001,7 +5999,9 @@
   "EBS‘위대한수업’시즌610월12일첫방",
   "[취재석]울릉관광,이제는'사업'보다'전략'이다",
   "[9월9일자]비즈니스포스트아침의주요기사",
-  "최종현도의원,“소상공인생업현장안전부터재난피해까지촘촘하게..."
+  "최종현도의원,“소상공인생업현장안전부터재난피해까지촘촘하게...",
+  "최종현도의원\"소상공인지원개정안\"상임위통과",
+  "최태원“한·일힘합치면세계4위경제권가능…송전망연결해야”"
  ],
  "recent_sigs": [
   [
@@ -6045,7 +6045,7 @@
    "주요기사 아침의 비즈니스포스트"
   ]
  ],
- "last_run": "2026-09-08T21:40:26.307752+09:00",
+ "last_run": "2026-09-08T21:50:28.030392+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
