@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000099033",
-  "https://www.ytn.co.kr/_ln/0103_202608221202280700",
-  "https://www.newsis.com/view/NISX20260820_0003756402",
-  "https://www.ytn.co.kr/_ln/0103_202608221353499481",
-  "https://www.joongangenews.com/news/articleView.html?idxno=541912",
   "https://www.segye.com/newsView/20260821508096?OutUrl=naver",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=858689",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546461",
@@ -2999,14 +2994,14 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7182300",
   "https://www.segye.com/newsView/20260909502860?OutUrl=naver",
   "https://www.seoul.co.kr/news/society/2026/09/09/20260909500013?wlog_tag3=naver",
-  "https://www.fnnews.com/news/202609090730493179"
+  "https://www.fnnews.com/news/202609090730493179",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/09/2026090990037.html",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609081753452250190",
+  "https://www.starnewskorea.com/broadcast-show/2026/09/09/2026090908084129890",
+  "https://www.viva100.com/article/20260909500065",
+  "https://www.kukinews.com/article/view/kuk202609090021"
  ],
  "seen_titles": [
-  "'170만원하이닉스주식'비싸서못샀는데…개미들설렌다[투자톡]",
-  "[재계핫이슈]최태원회장,호남반도체와9440억원의틈바구니",
-  "[CEO위클리]조현준12년만에동생과법정대면…최태원대통령과비공...",
-  "'노태우비자금'압수물분석착수...'152억기부금'주목",
-  "\"투자자넘어사업자로\"…SK그룹,'AI풀스택'전력동맹가속[K-SMR전성...",
   "'노태우비자금'압수물분석착수...'152억기부금'의심",
   "SK최태원과먼저만난李대통령…삼성이재용·LG구광모까지'총수릴...",
   "광주이어일본?…곳곳에서한국메모리‘팹’을탐낸다[반도체투자...",
@@ -6001,7 +5996,12 @@
   "군살빼고'미래'에올인…SK최태원호'제4퀀텀점프'준비착착",
   "‘8조원대자산가’권혁빈스마일게이트창업자,이혼소송1심오늘...",
   "‘재산8조’권혁빈이혼오늘결론…9440억분할기록깨질까[이슈픽...",
-  "최태원·노소영넘어설까…'8조자산'권혁빈이혼소송1심오늘선고"
+  "최태원·노소영넘어설까…'8조자산'권혁빈이혼소송1심오늘선고",
+  "[키워드NOW]'8조'이혼소송",
+  "[부산브리핑모음(9월9일)]부산도시공사아르피나·한국청소년지도사...",
+  "스윙스\"선급금120억+추가30억..터널끝이보인다\"무슨일?[라스]",
+  "대기업오너일가주식가치,그룹공정자산의10.2%수준…삼성14.6%최고",
+  "스마일게이트권혁빈,이혼소송오늘결론…‘8조자산’재산분할규모..."
  ],
  "recent_sigs": [
   [
@@ -6045,7 +6045,7 @@
    "올인 미래 착착 최태원호 준비 퀀텀점프 제4 빼고 군살"
   ]
  ],
- "last_run": "2026-09-09T08:10:28.133138+09:00",
+ "last_run": "2026-09-09T08:20:24.928495+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
