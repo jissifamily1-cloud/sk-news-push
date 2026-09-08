@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/599639",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445308",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260821142649PDL",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=244714",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851143",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715717&plink=ORI&cooper=NAVER",
-  "https://www.nocutnews.co.kr/news/6566088",
   "https://www.ajunews.com/view/20260821141743084",
   "https://www.kyeonggi.com/article/20260821580126",
   "https://www.cnbizm.com/news/articleView.html?idxno=312309",
@@ -2999,16 +2992,16 @@
   "https://www.maniareport.com/view.php?ud=2026090810111098026cf2d78c68_19",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800121.html",
   "http://enews.imbc.com/News/RetrieveNewsInfo/517550",
-  "https://www.etoday.co.kr/news/view/2623029"
+  "https://www.etoday.co.kr/news/view/2623029",
+  "http://www.ddanzi.com/893781366",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446649",
+  "https://www.yna.co.kr/view/AKR20260908028300005?input=1195m",
+  "https://www.news1.kr/society/education/6283008",
+  "https://www.mt.co.kr/world/2026/09/08/2026090809405826264",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=121482",
+  "http://www.press9.kr/news/articleView.html?idxno=82384"
  ],
  "seen_titles": [
-  "SK하이닉스,일본에메모리칩공장건설을검토중",
-  "세기의이혼이소환한'노태우비자금'...실체밝혀질까?[뉴스퀘어2PM]",
-  "‘노태우비자금’김옥숙연희동자택압수수색",
-  "새전기본에'원전19기'수요반영돼,환경단체\"3대메가프로젝트에...",
-  "[사건현장]노태우일가강제수사…메모속비자금수면위로?",
-  "2026국제아웃도어캠핑&레포츠페스티벌28일개막…80여개브랜드참가",
-  "경기도의회,'지방의회법'입법대응본격화…조직·예산자율권정조준",
   "[뉴스브리핑]오늘의주요뉴스…노태우비자금의혹…김옥숙자택압수...",
   "[단독]최태원,30일일본간다…AI·반도체등협력논의",
   "\"SK성장의비밀\"?…'최태원·노소영이혼→300억비자금'잔혹사총정리",
@@ -6001,7 +5994,14 @@
   "711경기연속출장...LG박해민의꾸준함,결승선앞둔개근선수들",
   "최태원\"한일뭉치면세계4위경제권\"…한일경제공동체재차강조",
   "'위대한수업6'김유열EBS사장\"시즌6,'K지식'새길목\"",
-  "최태원,한일경제공동체재차제안⋯“뭉치면6조달러·세계4위경제권..."
+  "최태원,한일경제공동체재차제안⋯“뭉치면6조달러·세계4위경제권...",
+  "[뉴공아카이브]박시동경제평론가·12시에만나요진행자,이광수광수...",
+  "[부음]이필호모친,성연진부친,김봉연모친외",
+  "시즌6로돌아온EBS'위대한수업'…최태원SK회장도강단선다",
+  "슈뢰더·옐런에노벨상수상자까지…'위대한수업'시즌6온다",
+  "최태원,한일경제공동체필요성강조…\"에너지구매·비축같이하자\"",
+  "최태원SK회장\"글로벌분단시대,한일경제공동체필요\"",
+  "최태원SK회장,반도체해외거점\"조만간결론\"…日투자가능성열어"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-09-08T11:10:14.368370+09:00",
    "길목 EBS 수업6 김유열 사장 K지식 위대한 시즌6"
+  ],
+  [
+   "2026-09-08T11:50:13.343829+09:00",
+   "공동체 한일 분단 회장 시대 글로벌 경제 필요"
+  ],
+  [
+   "2026-09-08T11:50:13.343829+09:00",
+   "열어 조만간 해외거점 투자 가능성 회장 결론 반도체"
   ]
  ],
- "last_run": "2026-09-08T11:40:43.621070+09:00",
+ "last_run": "2026-09-08T11:50:36.856663+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
