@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214015",
-  "https://news.jtbc.co.kr/article/NB12314503?influxDiv=NAVER",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357769",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400216.html",
   "https://www.hani.co.kr/arti/society/society_general/1274104.html",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6846435_37004.html",
@@ -2999,13 +2995,13 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245538",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000010238&cp=nv",
   "https://www.khan.co.kr/article/202609081707001",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116562"
+  "https://www.businessplus.kr/news/articleView.html?idxno=116562",
+  "https://www.thegolftimes.co.kr/news/articleView.html?idxno=81922",
+  "https://www.news2day.co.kr/article/20260908500238",
+  "https://www.newspost.kr/news/articleView.html?idxno=225525",
+  "https://www.fnnews.com/news/202609081733251878"
  ],
  "seen_titles": [
-  "검찰,'노태우비자금'첫강제수사…김옥숙여사자택압수수색",
-  "이혼소송이들춰낸'비자금'…'노태우일가'수사시작됐다",
-  "이혼소송서낸'비자금메모'가단초…몰수까지이어질까",
-  "노소영이꺼낸'300억메모'부메랑…재산몰수가능성",
   "노태우일가비자금·조세포탈의혹…검찰,연희동사저전격압수수색",
   "[아는기자]이혼이소환한‘비자금’…35년만에환수?",
   "'신궁'김수녕,고려대여자양궁부초대감독으로…내년세종에서창...",
@@ -6001,17 +5997,13 @@
   "[부고종합·8일]신권식전삼성물산부사장모친상등",
   "존폐위기넘긴EBS‘위대한수업’…슈뢰더·옐런·노벨상수상자까지...",
   "최태원,EBS‘위대한수업’강연···노벨상수상자5명과나란히",
-  "[영상]최태원,한일경제공동체재강조…\"6조달러거대시장구축\""
+  "[영상]최태원,한일경제공동체재강조…\"6조달러거대시장구축\"",
+  "최예림",
+  "[오늘의부고:9월8일]성연진(헤럴드경제건설부동산부장)씨부친상...",
+  "최태원,한일경제공동체재차강조…\"6조달러경제권만들자\"[재계PI...",
+  "최태원회장,베트남에'AI포럼'제안...대규모'AI팩토리'투자도"
  ],
  "recent_sigs": [
-  [
-   "2026-09-08T11:50:13.343829+09:00",
-   "공동체 한일 분단 회장 시대 글로벌 경제 필요"
-  ],
-  [
-   "2026-09-08T11:50:13.343829+09:00",
-   "열어 조만간 해외거점 투자 가능성 회장 결론 반도체"
-  ],
   [
    "2026-09-08T12:00:27.534135+09:00",
    "이혼소송 노소영보다 결론 8조원대 권혁빈"
@@ -6073,7 +6065,7 @@
    "6조 시장 구축 경제공동체 거대 달러 한일 재강조"
   ]
  ],
- "last_run": "2026-09-08T17:40:24.425741+09:00",
+ "last_run": "2026-09-08T17:50:26.793675+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
