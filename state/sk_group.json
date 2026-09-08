@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ujeil.com/news/articleView.html?idxno=391531",
-  "https://www.khan.co.kr/article/202609062019005",
-  "https://www.ulsanpress.net/news/articleView.html?idxno=582471",
-  "https://www.knnews.co.kr/news/articleView.php?idxno=1550212",
-  "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260902&SEQUENCE=4419",
-  "https://ysmbc.co.kr/NewsArticle/1535623",
-  "https://www.chosun.com/economy/stock-finance/2026/09/06/WC3GHKBWPZDTXB2XQ3UGVMTX5Q/",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=604355",
-  "https://www.edaily.co.kr/News/Read?newsId=02053286645577496&mediaCodeNo=257",
-  "http://www.gnmaeil.com/news/articleView.html?idxno=594182",
-  "https://www.sedaily.com/article/20087736",
   "https://www.besteleven.com/news/articleView.html?idxno=311929",
   "https://www.news2day.co.kr/article/20260906500011",
   "https://www.g-enews.com/view.php?ud=202609061636565920c8c1c064d_1",
@@ -2999,20 +2988,20 @@
   "https://www.edaily.co.kr/News/Read?newsId=03985206645578152&mediaCodeNo=257",
   "https://www.fnnews.com/news/202609081816167175",
   "https://www.fnnews.com/news/202609081816117641",
-  "https://www.ajunews.com/view/20260908140517623"
+  "https://www.ajunews.com/view/20260908140517623",
+  "https://www.sportsworldi.com/newsView/20260908517087",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006403",
+  "http://www.ikld.kr/news/articleView.html?idxno=340288",
+  "https://www.donga.com/news/Economy/article/all/20260731/134402949/1",
+  "http://www.kjdaily.com/article.php?aid=1788859906686226227",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52741",
+  "https://www.fnnews.com/news/202609081822168645",
+  "https://www.sedaily.com/article/20088602",
+  "https://www.cctoday.co.kr/news/articleView.html?idxno=2236409",
+  "https://www.fnnews.com/news/202609081828550847",
+  "https://www.sisajournal.com/news/articleView.html?idxno=386493"
  ],
  "seen_titles": [
-  "SK·울산상의,제조AX·일상속AI로울산혁신이끈다",
-  "\"AI대전환변화이끌주역으로성장하길\"",
-  "SK·울산상의,제조업AX·지역AI혁신해법모색",
-  "프로축구울산,수적열세에도제주원정서무승부",
-  "난코스에에이스…‘차이’만든경상북도,6년만에‘정상’질주",
-  "SK이노울산CLX,울산대4명에장학금",
-  "“디오션자산운용,1조투자·3600명고용이행해야”",
-  "SK하이닉스성과급풀리자\"지갑열렸다\"‥청주소비견인",
-  "포스코·SK에‘광양투자’요청…미래산업유치총력",
-  "[단독]개미들,증시급락에반대매매후남은빚도급증…1년전보다5배...",
-  "원·달러환율3분기13%급락…항공·철강'방긋'vs자동차·IT'먹구름...",
   "AI가메모리까지빨아들였다…스마트폰·PC덮친‘램대란’",
   "SK오션플랜트기존투자·고용계획지켜야",
   "“하닉믿고샀는데”‘218만원→94만원’주가반토막…‘이주식’...",
@@ -6001,7 +5990,18 @@
   "사업몸집커지고,반도체압박까지…'대미투자마지노선'흔들",
   "최태원\"韓·日뭉치면세계4위경제권\"",
   "\"외투기업은이미푸토성시민…아침함께하며고충챙겨\"[베트남지...",
-  "1년새시총'계급장'바뀌었다…1554개종목100계단이상이동"
+  "1년새시총'계급장'바뀌었다…1554개종목100계단이상이동",
+  "안영준,손가락부상으로AG하차…마줄스호대체발탁카드는문정현",
+  "[나고야NOW]아뿔싸,안영준손가락부상으로대표팀낙마→문정현대...",
+  "국내기업,우즈벡에AI스마트열에너지통합플랫폼구축",
+  "AI가이끄는지속가능경영…‘그린에너텍ESG컨퍼런스2026’8월7일개...",
+  "반도체강세에도개인은하락베팅…SK하이닉스인버스503억",
+  "'7천피'찍고6955로밀린코스피…장중221p출렁",
+  "외국인돌아왔지만개미3조던져뒷심빠진코스피7100찍고하락",
+  "10대그룹,2년간17兆사업처분…미래투자보다리밸런싱치우쳐[시그...",
+  "충북보건과학대에서'배워라,강해져라,도약하라'",
+  "美터틀캐피털\"삼전닉스에주목\"",
+  "\"혜택받으려면재구독하라고?\"…티빙'보상안'에다시불붙은집단소송"
  ],
  "recent_sigs": [
   [
@@ -7127,9 +7127,25 @@
   [
    "2026-09-08T18:31:08.586265+09:00",
    "1554개 종목 계급장 이동 100계단 시총 바뀌었다 이상 1년"
+  ],
+  [
+   "2026-09-08T18:41:02.105656+09:00",
+   "투자보다 미래 10대 사업 치우쳐 리밸런싱 시그 처분 2년간"
+  ],
+  [
+   "2026-09-08T18:41:02.105656+09:00",
+   "충북보건과학대에서 배워라 강해져라 도약하라"
+  ],
+  [
+   "2026-09-08T18:41:02.105656+09:00",
+   "주목 터틀캐피털 삼전닉스에"
+  ],
+  [
+   "2026-09-08T18:41:02.105656+09:00",
+   "혜택받으려면 보상안 불붙은 재구독하라고 집단소송 다시 티빙"
   ]
  ],
- "last_run": "2026-09-08T18:31:40.040987+09:00",
+ "last_run": "2026-09-08T18:41:15.995504+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
