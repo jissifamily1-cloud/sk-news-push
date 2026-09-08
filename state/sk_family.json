@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213967",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213931",
   "https://magazine.hankyung.com/business/article/202608215329b",
   "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/21/20260821500273?wlog_tag3=naver",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=225146",
@@ -2999,11 +2997,11 @@
   "https://biz.chosun.com/industry/company/2026/09/08/RLTD5PAUGRAAHLQ3QPMTZ3MRBA/",
   "https://www.etnews.com/20260908000286",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169705",
-  "https://www.asiatime.co.kr/article/20260908500315"
+  "https://www.asiatime.co.kr/article/20260908500315",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=85687",
+  "https://www.m-i.kr/news/articleView.html?idxno=1411421"
  ],
  "seen_titles": [
-  "제주실종'골든타임'날려버린경찰의거짓말...왜?[이슈ON]",
-  "'이혼소송'후폭풍‥'노태우비자금'강제수사",
   "8월21일미리보는MBN뉴스7",
   "최태원·노소영소송나비효과…노태우일가'비자금의혹'압수수색[짤...",
   "李대통령,최태원만났다...무슨얘기했나'추측무성'",
@@ -6001,7 +5999,9 @@
   "최태원,한·일경제공동체또강조…“하나로뭉치면세계4위경제권...",
   "EBS-국가평생교육진흥원,'위대한수업'AI등고등교육확산",
   "최태원회장,한일경제공동체제안…\"6조달러경제권으로협상력강화...",
-  "SK하닉일본공장초읽기?…최태원“日파트너와AI관련투자고민중..."
+  "SK하닉일본공장초읽기?…최태원“日파트너와AI관련투자고민중...",
+  "최태원회장\"韓日뭉치면6조달러경제권…더강력한교섭력·발언권...",
+  "[기획]4대그룹상생금융7조시대…'상생돈줄'2·3차까지넓힌다"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-09-08T15:30:22.090882+09:00",
    "일본 초읽기 고민 투자 공장 SK하닉 파트너와 AI"
+  ],
+  [
+   "2026-09-08T15:40:14.080678+09:00",
+   "4대그룹 상생 돈줄 3차까지 시대 7조 상생금융 넓힌다"
   ]
  ],
- "last_run": "2026-09-08T15:30:36.500086+09:00",
+ "last_run": "2026-09-08T15:40:29.396918+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
