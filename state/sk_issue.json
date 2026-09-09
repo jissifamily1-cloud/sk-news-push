@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202609012057005",
-  "https://news.jtbc.co.kr/article/NB12316197?influxDiv=NAVER",
-  "https://www.chosun.com/national/regional/yeongnam/2026/09/01/ZR5LPQ6UDZALLNN7TZ2PT6G6DI/",
-  "https://tjmbc.co.kr/NewsArticle/859962",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2285666",
   "http://www.gnmaeil.com/news/articleView.html?idxno=593894",
   "https://www.cbci.co.kr/news/articleView.html?idxno=602840",
   "https://www.viva100.com/article/20260901501561",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1688507/?sc=Naver",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336991",
   "https://www.ytn.co.kr/_ln/0103_202609091854391707",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637621"
+  "https://www.seoulfn.com/news/articleView.html?idxno=637621",
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19906",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260909192403jEF",
+  "https://www.khan.co.kr/article/202609091923001",
+  "https://www.news1.kr/local/kangwon/6285515",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8659086"
  ],
  "seen_titles": [
-  "철수8일만에…쿠팡현장조사다시간공정위",
-  "[단독]이의신청남기고숨진알바생…경찰압수수색도없이\"불송치\"결...",
-  "경선앞두고‘당원모집’…권기창안동시장동생구속",
-  "경찰,공무원'납품비리의혹'계룡시청압수수색",
-  "롯데,롯데렌탈지분매각공정위승인…10월거래마무리",
   "KAI노조,공정위한화인수승인반발",
   "\"내년전기차50만대시대연다\"…보조금물량43%폭탄지원과한전...",
   "[2027예산]전기자동차보조금43만대까지확충⋯한전에5000억원현금출...",
@@ -6001,10 +5996,15 @@
   "'제주실종사건허위종결'경찰관구속기간열흘연장",
   "선행매매혐의금감원출입기자자리·자택압수수색…연예기획사대표...",
   "'수원마약좀비'30대남성구속...보강수사2개월만",
-  "장세일영광군수집무실압수수색···'자녀금품의혹'수사확대"
+  "장세일영광군수집무실압수수색···'자녀금품의혹'수사확대",
+  "한동훈검찰자료유출논란…법무부차관\"내부구성원자괴감과충격\"",
+  "'수원마약좀비'영상속30대남성구속",
+  "‘실종사건허위종결’제주경찰관,구속기간열흘연장",
+  "경찰,'가족업체수의계약관여'강원현직기초의원압수수색",
+  "경찰,실종사건대응강화…검찰은이틀째압수수색"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-09T19:20:56.240448+09:00",
+ "last_run": "2026-09-09T19:31:01.630420+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
