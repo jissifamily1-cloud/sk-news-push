@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80976",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723374",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307416",
   "https://www.cbci.co.kr/news/articleView.html?idxno=599627",
   "https://www.asiatime.co.kr/article/20260831500041",
@@ -2999,11 +2997,11 @@
   "https://www.newspim.com/news/view/20260909001286",
   "https://www.newsis.com/view/NISX20260909_0003783038",
   "https://www.khan.co.kr/article/202609100600011",
-  "https://www.etoday.co.kr/news/view/2623608"
+  "https://www.etoday.co.kr/news/view/2623608",
+  "https://www.bloter.net/news/articleView.html?idxno=673168",
+  "https://www.etoday.co.kr/news/view/2623734"
  ],
  "seen_titles": [
-  "풍력에밀렸던상선띄운다…SK오션플랜트,그리스서6000억수주",
-  "SK에코플랜트,스타트업혁신기술찾는'콘테크미트업데이'열어",
   "코스피7100선돌파…'이것'이견인했다",
   "최태원,'한일경제공동체'또강조…\"비용절감·발언권확보\"",
   "[EBN데이터센터]반도체강세...이차전지·바이오는엇갈려",
@@ -6001,7 +5999,9 @@
   "서울시'제로서울기업실천단'2기출범...\"기후위기대응강화\"",
   "강남대신성북·중랑·노원…서울집값상승축'중저가'로이동",
   "[단독]“일시켜도야근수당없다”…삼성전자직원절반이대상될판",
-  "토허구역‘풍선효과’에신고가속출…병점·권선·남양주국평10억원..."
+  "토허구역‘풍선효과’에신고가속출…병점·권선·남양주국평10억원...",
+  "[길진홍의See그널]포스코의시간,SK하이닉스의시간",
+  "[시론]AI에대응한청년일자리마련해야"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,17 @@
   [
    "2026-09-10T06:21:06.273030+09:00",
    "권선 남양주 토허구역 풍선효과 속출 병점 국평 신고가 10억원"
+  ],
+  [
+   "2026-09-10T06:31:14.337080+09:00",
+   "SK하이닉스의 시간 포스코의"
+  ],
+  [
+   "2026-09-10T06:31:14.337080+09:00",
+   "일자리 대응한 AI에 마련해야 청년"
   ]
  ],
- "last_run": "2026-09-10T06:21:40.801061+09:00",
+ "last_run": "2026-09-10T06:31:22.948713+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
