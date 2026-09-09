@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260908000464",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446646",
-  "https://www.etnews.com/20260908000160",
-  "http://www.joseilbo.com/news/news_read.php?uid=575271&class=32",
   "http://www.metroseoul.co.kr/article/20260908500125",
   "https://www.gukjenews.com/news/articleView.html?idxno=3688080",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=503100",
@@ -2999,13 +2995,13 @@
   "https://www.fetv.co.kr/news/articleView.html?idxno=309892",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=726886",
   "https://www.mt.co.kr/tech/2026/09/10/2026090922244555561",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637627"
+  "https://www.seoulfn.com/news/articleView.html?idxno=637627",
+  "https://www.hankyung.com/article/2026091052096",
+  "https://biz.sbs.co.kr/article_hub/20000333766?division=NAVER",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723684",
+  "https://www.the-today.com/news/articleView.html?idxno=89842"
  ],
  "seen_titles": [
-  "홍성군청권효경선수,태극마크달고세계정상'우뚝'",
-  "반도체ETF수익률뛰었지만...개인은미국지수·안정형상품담았다",
-  "연초'0곳'이던반도체소부장…코스닥시총10위권절반넘어",
-  "정부'모두의AI'프로젝트에외신평가긍정적,반도체수요에중장기...",
   "[미리보는AINEX2026]〈하〉바닷속AI인프라경쟁…해저케이블해법모...",
   "\"성과급배임혐의'공범'\"...주주단체,삼성전자이사회·노조추가고...",
   "SK텔레콤,T로밍데이터16GB추가혜택연말까지연장",
@@ -6001,7 +5997,11 @@
   "[건설인당생산성]까뮤이앤씨,직원보다더높았던'매출증가율'",
   "[성과급전쟁④·끝]\"제로섬넘어지속가능한'상생해법'찾아야\"",
   "1000만명몰린알뜰폰의반전…'0원요금제'뿌리더니줄줄이적자",
-  "[뉴욕증시]유가101달러'속수무책',반도체'선방'···닉스7%↑·메..."
+  "[뉴욕증시]유가101달러'속수무책',반도체'선방'···닉스7%↑·메...",
+  "유가급등·美국채금리상승에사흘째하락마감[뉴욕증시브리핑]",
+  "[증시전략]코스피33거래일만에7천피탈환…8천선갈까?",
+  "AI투자에범용SSD공급축소…대체재HDD가격'사상최고'",
+  "[핫이슈]中창신메모리,HBM수율25%'참패'…100개만들면80개불량"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-09-10T07:11:03.319764+09:00",
    "101달러 반도체 선방 유가 속수무책 닉스"
+  ],
+  [
+   "2026-09-10T07:21:06.338349+09:00",
+   "투자에 AI 축소 HDD 사상 공급 최고 범용 SSD 가격 대체재"
+  ],
+  [
+   "2026-09-10T07:21:06.338349+09:00",
+   "80개 창신메모리 HBM 참패 100개 불량 만들면 수율"
   ]
  ],
- "last_run": "2026-09-10T07:11:45.326741+09:00",
+ "last_run": "2026-09-10T07:21:15.977630+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
