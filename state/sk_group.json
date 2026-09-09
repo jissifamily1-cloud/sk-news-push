@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.bizwnews.com/news/articleView.html?idxno=141396",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698876",
-  "https://www.slist.kr/news/articleView.html?idxno=764438",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1403672",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723361",
-  "https://www.newsway.co.kr/news/view?ud=2026090809211213358",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309805",
-  "https://www.mt.co.kr/stock/2026/09/08/2026090809261699657",
-  "https://www.newspim.com/news/view/20260908000220",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687953",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=156876",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171052",
   "https://www.newsis.com/view/NISX20260908_0003780277",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4433833",
@@ -2999,20 +2988,20 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276574",
   "https://www.segye.com/newsView/20260909517135?OutUrl=naver",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745686&plink=ORI&cooper=NAVER",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245585"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245585",
+  "https://www.etoday.co.kr/news/view/2623755",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318222",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4990741",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11410",
+  "https://zdnet.co.kr/view/?no=20260909205346",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358708",
+  "https://www.yeongnam.com/web/view.php?key=20260909029117673",
+  "https://www.mk.co.kr/article/12144231",
+  "https://www.mk.co.kr/article/12144494",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446836",
+  "https://www.k-health.com/news/articleView.html?idxno=101094"
  ],
  "seen_titles": [
-  "중동리스크격화에정유주급등…투자심리살아나나",
-  "OTT구독부담에…SKB‘Btv+max’뜬다",
-  "코스피‘7천피’고지돌파‘우상향’시동걸리는이유[손재철인사...",
-  "SK바이오팜,신경과학·항암R&D강화…글로벌인재잇단영입",
-  "지식재산처-SK,'MOIP테크콘서트'개최…\"미래기술이해부터강한특허...",
-  "코스피15거래일만에7000선탈환...장초반상승",
-  "미래에셋증권,8월K-브랜드지수1위…삼성증권2위부상",
-  "[EBN데이터센터]코스피7000선탈환성공…반도체대형주견인",
-  "15거래일만에7000선넘은코스피…기관순매수에상승출발[개장시황...",
-  "SK바이오팜,글로벌R&D인력강화…신경과학전문가영입",
-  "오픈AIGPT-6아스트라훈풍에삼전닉스연일상승",
   "[개장시황]코스피,어제이은추가상승에7000선탈환…반도체株혼조",
   "\"AI로직무체험하고현직자에게취업노하우듣는다\"…충남청년JobPl...",
   "SK텔레콤,'T로밍데이터추가'프로모션연말까지연장",
@@ -6001,7 +5990,18 @@
   "EUStepsUpChineseBatteryChecks",
   "‘40홈런’불방망이김도영,AG5연패몰아칠까",
   "중동먹구름에도반도체훈풍…코스피'7천선'탈환",
-  "TSMC·ASML,대형AI칩생산한계넘는다"
+  "TSMC·ASML,대형AI칩생산한계넘는다",
+  "최태원,노소영재산분할7000억원수용⋯\"2440억원만다투겠다\"",
+  "우리다문화장학재단장학생에디다니엘,태극마크달고아시안게임출...",
+  "최태원,노소영에7000억원은재산분할수용…2440억원만다투기로",
+  "재산분할2조5,500억...스마일게이트권혁빈이혼",
+  "현대홈쇼핑플러스샵재승인평가1위…쇼핑엔티최하위",
+  "SK바이오팜,美의사과학자전진배치…신약개발'현장중심'으로",
+  "[Y르포]“물·에너지·AI의융합”…첨단기술과비즈니스가교차하는...",
+  "‘빅블러’시대…분할·합병공식바뀌었다[스페셜리포트]",
+  "이참에내퇴직연금도…그곳으로갈아탈까",
+  "[9월10일자]비즈니스포스트아침의주요기사",
+  "AI로'건강한노년'돕는다…'SEOULAge-Tech콘퍼런스'개최"
  ],
  "recent_sigs": [
   [
@@ -6867,9 +6867,37 @@
   [
    "2026-09-09T20:51:24.376035+09:00",
    "한계 넘는다 ASML TSMC 생산 대형 AI칩"
+  ],
+  [
+   "2026-09-09T21:11:06.815012+09:00",
+   "재승인 쇼핑엔티 최하위 평가 1위 현대홈쇼핑플러스샵"
+  ],
+  [
+   "2026-09-09T21:11:06.815012+09:00",
+   "으로 현장 중심 SK바이오팜 신약개발 전진 의사과학자 배치"
+  ],
+  [
+   "2026-09-09T21:11:06.815012+09:00",
+   "에너지 비즈니스가 교차하는 AI의 기술과 융합 첨단"
+  ],
+  [
+   "2026-09-09T21:11:06.815012+09:00",
+   "합병 시대 바뀌었다 분할 빅블러"
+  ],
+  [
+   "2026-09-09T21:11:06.815012+09:00",
+   "갈아탈까 이참에 그곳으로 퇴직연금도"
+  ],
+  [
+   "2026-09-09T21:11:06.815012+09:00",
+   "비즈니스포스트 주요기사 아침의"
+  ],
+  [
+   "2026-09-09T21:11:06.815012+09:00",
+   "AI로 SEOUL 건강한 돕는다 Age 노년 개최 콘퍼런스 Tech"
   ]
  ],
- "last_run": "2026-09-09T21:01:22.876710+09:00",
+ "last_run": "2026-09-09T21:11:30.277547+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7516,6 +7544,7 @@
   "lec.co.kr": "법률저널",
   "babytimes.co.kr": "베이비타임즈",
   "ggmedinews.com": "경기메디뉴스",
-  "newscammp.co.kr": "뉴스캠프"
+  "newscammp.co.kr": "뉴스캠프",
+  "k-health.com": "헬스경향"
  }
 }
