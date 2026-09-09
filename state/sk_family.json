@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/world/usa-canada/6272065",
-  "https://biz.heraldcorp.com/article/10854798",
-  "https://www.hani.co.kr/arti/international/america/1275043.html",
   "https://www.sedaily.com/article/20084257",
   "https://www.newsis.com/view/NISX20260827_0003765588",
   "https://www.newsis.com/view/NISX20260828_0003766113",
@@ -2999,12 +2996,12 @@
   "https://www.bloter.net/news/articleView.html?idxno=673159",
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4024734",
   "https://biz.chosun.com/it-science/ict/2026/09/10/RPQZR5SFLBGK5KYQT73A3NUXUI/",
-  "https://www.labortoday.co.kr/news/articleView.html?idxno=236704"
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=236704",
+  "https://www.ekn.kr/web/view.php?key=20260910023082879",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6850813_37012.html",
+  "https://www.the-today.com/news/articleView.html?idxno=89841"
  ],
  "seen_titles": [
-  "인디애나이어美2호공장기대감↑…SK“미국내투자계속확대할것...",
-  "[르포]콩심던땅에클린룸기둥‘우뚝’…SK하이닉스,미국공장첫삽",
-  "마이크론제치고차세대HBM美첫생산…전공정팹추가건설기대도",
   "'美첫생산기지'SK하이닉스,인디애나AI패키징팹기공식…5.5조투...",
   "SK하이닉스,미국산HBM만든다…\"2029년하반기양산\"(종합)",
   "[종합]SK하이닉스,한국서D램만들고미국서HBM완성…엔비디아'안방...",
@@ -6001,7 +5998,10 @@
   "[허정수칼럼]누가SKIET합병을원하는가",
   "[이슈분석]'조단위'세기의이혼…스마일게이트vsSK,무엇이달랐나",
   "IPO분쟁이어오너이혼까지…스마일게이트덮친‘줄소송리스크’",
-  "국회경제대도약위출범'재계먼저'잡았다"
+  "국회경제대도약위출범'재계먼저'잡았다",
+  "[패트롤]경기도-경기도의회-경기도교육청-경기신보-경기도산림환경연...",
+  "'2조5천억원대'재산분할‥세기의이혼또",
+  "[핫이슈]日키옥시아,SK하이닉스연대설일축…\"독점규제·美샌디스크..."
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-09-10T06:20:14.024944+09:00",
    "IPO 리스크 분쟁 이어 이혼까지 덮친 오너 스마일게이트 줄소송"
+  ],
+  [
+   "2026-09-10T07:00:28.596903+09:00",
+   "키옥시아 일축 독점규제 연대설 SK하이닉스 샌디스크"
   ]
  ],
- "last_run": "2026-09-10T06:50:24.300254+09:00",
+ "last_run": "2026-09-10T07:00:40.259963+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
