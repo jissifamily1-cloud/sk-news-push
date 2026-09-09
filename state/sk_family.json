@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12113290",
-  "http://www.lawissue.co.kr/view.php?ud=202608041929193482f4ab64559d_12",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=205344",
   "https://www.gukjenews.com/news/articleView.html?idxno=3656111",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=354384",
@@ -2999,11 +2997,11 @@
   "http://www.breaknews.com/1235085",
   "http://www.inews24.com/view/2003500",
   "https://www.gukjenews.com/news/articleView.html?idxno=3689266",
-  "https://www.insight.co.kr/news/572563"
+  "https://www.insight.co.kr/news/572563",
+  "http://weekly.chosun.com/news/articleView.html?idxno=55089",
+  "https://biz.heraldcorp.com/article/10867101"
  ],
  "seen_titles": [
-  "[비즈토크<하>]역대급주주환원…삼전닉스임원주식추적사이트'주...",
-  "미국에기술인재보낸다‥4년통합교육",
   "반도체지키고바이오·조선담아라",
   "분당서울대병원,오는12일'경기도산모·소아생존체계'국회토론회...",
   "분당서울대병원,'경기도산모·소아생존체계고도화방안'국회토론...",
@@ -6001,7 +5999,9 @@
   "국민의힘구자근,\"정부경제현안때마다‘생색용위원회’만들기개...",
   "삼성전자오너일가주식가치첫100조돌파…이재용47조'1위'",
   "광진구립여성합창단,전국합창경연페스티벌일반부대상수상",
-  "최태원회장,노벨상수상자들과EBS강단선다...'위대한수업'출연"
+  "최태원회장,노벨상수상자들과EBS강단선다...'위대한수업'출연",
+  "\"8조원재산절반달라\"…스마일게이트창업자이혼소송오늘결론",
+  "[단독]곧문닫는검찰‘노태우비자금의혹’수사속도…동아시아문..."
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-09-09T07:50:16.631777+09:00",
    "올인 미래 착착 최태원호 준비 퀀텀점프 제4 빼고 군살"
+  ],
+  [
+   "2026-09-09T09:10:13.629346+09:00",
+   "문닫는 수사 동아시아문 속도 노태우 비자금 의혹 검찰"
   ]
  ],
- "last_run": "2026-09-09T09:00:40.300825+09:00",
+ "last_run": "2026-09-09T09:10:27.180787+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
