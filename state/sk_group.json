@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/168463",
-  "https://weekly.donga.com/3/all/11/6377056/1",
-  "https://www.the-today.com/news/articleView.html?idxno=88919",
-  "https://www.news1.kr/finance/general-stock/6282986",
-  "https://www.etoday.co.kr/news/view/2622931",
   "http://www.fieldnews.kr/news/articleView.html?idxno=31350",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=727513",
   "https://www.sedaily.com/article/20088286",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260909_0003783312",
   "http://www.kjdaily.com/article.php?aid=1788949745686469028",
   "https://www.nocutnews.co.kr/news/6575839",
-  "https://www.mt.co.kr/future/2026/09/09/2026090916132863203"
+  "https://www.mt.co.kr/future/2026/09/09/2026090916132863203",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260909195457lMy",
+  "https://www.ngonews.kr/news/articleView.html?idxno=237692",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2468791",
+  "https://www.edaily.co.kr/News/Read?newsId=05034806645578480&mediaCodeNo=257",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549584"
  ],
  "seen_titles": [
-  "'용인반도체클러스터동일하이빌파크밸리'1순위2.13대1...9일까지정...",
-  "[지배구조리포트][한국카본]오너가보수한도4배늘려'200억'…최태원...",
-  "한·미SMR협력속도내는데…기후부,협회전환방치",
-  "정유업계,새먹거리된'액침냉각유'..실증에속도",
-  "[산업용전기요금차등안]배터리업계,ESS수요확대전망에'함박웃음...",
   "‘2026동아AI포럼’9월10일개최…주간동아창간31주년기념",
   "최창원,SK위기수습했지만주력사는439억적자…수펙스의장직내려...",
   "곽튜브,SK하이닉스'-14%'인증…\"있는돈거의다때려박아,물탄다...",
@@ -6001,7 +5996,12 @@
   "[올댓차이나]홍콩증시,중동정세악화에사흘째속락마감…H주0.34%...",
   "전남광주반도체시대,완성의열쇠는?/주정민",
   "김형동\"미래대응기금,정부지지율더떨어질것\"행정통합엔부정적",
-  "피지컬AI연구→사업화잇는다…다임리서치·IBM·카이스트맞손"
+  "피지컬AI연구→사업화잇는다…다임리서치·IBM·카이스트맞손",
+  "[단독]최태원,재산분할7천억수용…2,440억만다툰다",
+  "[현장]기후위기대응,기업의'실천'으로잇는다…'제로서울기업실천...",
+  "청주대,교육부'초광역성장엔진인재육성사업'선정",
+  "[미리보는이데일리신문]이상기후에…스마트팜'여의도11배'늘었다",
+  "역대최대‘2조5500억원’재산분할,누구?"
  ],
  "recent_sigs": [
   [
@@ -7039,9 +7039,21 @@
   [
    "2026-09-09T19:51:07.373238+09:00",
    "연구 카이스트 잇는다 맞손 IBM 피지컬AI 다임리서치 사업화"
+  ],
+  [
+   "2026-09-09T20:01:17.861498+09:00",
+   "초광역 교육부 선정 청주대 인재육성사업 성장엔진"
+  ],
+  [
+   "2026-09-09T20:01:17.861498+09:00",
+   "스마트팜 이상기후에 여의도 11배 늘었다"
+  ],
+  [
+   "2026-09-09T20:01:17.861498+09:00",
+   "누구 역대 2조 5500억 재산분할"
   ]
  ],
- "last_run": "2026-09-09T19:51:29.142637+09:00",
+ "last_run": "2026-09-09T20:01:29.867968+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
