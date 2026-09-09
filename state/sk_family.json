@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.usmbc.co.kr/NewsArticle/858330",
-  "https://www.ikbc.co.kr/article/view/kbc202608240063",
-  "https://www.chosun.com/politics/blue_house/2026/08/25/UOLWZRV3INGBFLAMU63ULWU4NA/",
-  "https://www.mt.co.kr/industry/2026/08/25/2026082419484054971",
-  "https://www.newspim.com/news/view/20260825000008",
-  "https://www.hankyung.com/article/2026082495201",
   "https://www.chosun.com/politics/blue_house/2026/08/25/T5GN7GQZTJFUXADIICTGX5METU/",
   "https://www.joongang.co.kr/article/25455808",
   "https://www.mt.co.kr/industry/2026/08/25/2026082415344234551",
@@ -2999,15 +2993,15 @@
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=318643",
   "https://www.donga.com/news/Economy/article/all/20260909/134634700/1",
   "https://biz.chosun.com/topics/law_firm/2026/09/09/SN5QYFWSGJBRZE7VUZNE4KGEOU/",
-  "https://www.econovill.com/news/articleView.html?idxno=750315"
+  "https://www.econovill.com/news/articleView.html?idxno=750315",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=204256",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=364754",
+  "http://www.metroseoul.co.kr/article/20260909500280",
+  "http://www.kjdaily.com/article.php?aid=1787567759685130002",
+  "https://www.newspim.com/news/view/20260909000938",
+  "https://www.yna.co.kr/view/AKR20260909119700004?input=1195m"
  ],
  "seen_titles": [
-  "이재명대통령,최태원이어정의선·이재용만난다…'3대메가'속도전",
-  "SK하이닉스,광주서채용설명회..경영진들사업지시찰도",
-  "공단이사장은보은자리?‥\"임명반대\"",
-  "전남,의료인프라·접근성열악\"권역별로구축해야\"",
-  "[단독]美,호남반도체언급하며“공장지어달라”압박",
-  "\"반도체달라\"빅테크난리인데…웃지도울지도못하는삼전닉스,왜?",
   "[미국특징주]엔비디아의반도체시장에바짝다가서는우군과적군들",
   "[이심기칼럼]국가가기업이될때,실패는누가책임지나",
   "‘호남팹건설·美투자요구’이중부담에…총수들,李와연쇄독대",
@@ -6001,7 +5995,13 @@
   "권혁빈스마일게이트CVO이혼소송1심…배우자에2.5조재산분할",
   "9440억중7000억인정한최태원…재상고범위2440억으로축소",
   "[속보]법원“스마일게이트권혁빈이혼소송재산분할2조5500억원”…...",
-  "법원\"스마일게이트권혁빈,이혼후아내에게주식35%분할해야\""
+  "법원\"스마일게이트권혁빈,이혼후아내에게주식35%분할해야\"",
+  "'국회경제대도약위원회출범식'[포토오늘]",
+  "최태원\"최근경쟁은결국속도전\"…국회에'플레잉코치'당부",
+  "최태원\"기업혁신·국회입법속도맞춰야\"…경제대도약위출범",
+  "SK하이닉스,광주군공항또찾아…반도체클러스터구체화",
+  "키옥시아CEO\"SK하이닉스와생산제휴논의없어...낸드가격과도한인...",
+  "[2보]법원\"스마일게이트권혁빈이혼\"…아내에재산분할2조원이상"
  ],
  "recent_sigs": [
   [
@@ -6129,7 +6129,7 @@
    "법원 이혼 스마일게이트 아내에게 주식 권혁빈 분할해야"
   ]
  ],
- "last_run": "2026-09-09T14:30:38.136317+09:00",
+ "last_run": "2026-09-09T14:40:25.251588+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
