@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260813_0003747970",
-  "https://www.news1.kr/local/jeonbuk/6258087",
-  "https://www.etnews.com/20260813000241",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260827232312mbl",
   "http://www.breaknews.com/1224873",
   "https://www.wikitree.co.kr/articles/1148756",
   "https://www.dkilbo.com/news/articleView.html?idxno=549728",
@@ -2999,13 +2995,13 @@
   "https://www.abcn.kr/news/articleView.html?idxno=91594",
   "https://www.kado.net/news/articleView.html?idxno=2071753",
   "https://www.econovill.com/news/articleView.html?idxno=750375",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=274863"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=274863",
+  "http://weekly.chosun.com/news/articleView.html?idxno=55090",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266187&CMPT_CD=P0010",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/517794",
+  "https://www.yna.co.kr/view/AKR20260910029900003?input=1195m"
  ],
  "seen_titles": [
-  "전북창조경제혁신센터'전북리딩비즈투자조합'결성",
-  "전북창조경제혁신센터,선배기업출자'전북리딩비즈투자조1호'결성",
-  "MVP꿈꾸는정승원…숨겨둔다음세리머니는?",
-  "【인사】포항시인사이동조서(6급이하)",
   "[인사]포항시(6급이하.7월30일자)",
   "포항시인사",
   "[부산]천억원쓴'안전한급식실'..\"사고는증가\"",
@@ -6001,7 +5997,11 @@
   "[ABC뉴스칼럼]최태원SK회장은'허풍선이'였나",
   "'2조5000억재산분할'권혁빈전처측\"재판부판단감사…비율은아쉬...",
   "국회·재계'경제대도약위원회'출범…최태원\"국내변수줄여야예정된...",
-  "'2.5조재산분할'권혁빈전처측\"공동창업불구35%그쳐아쉬워\""
+  "'2.5조재산분할'권혁빈전처측\"공동창업불구35%그쳐아쉬워\"",
+  "국회·재계맞손'국회경제대도약위원회'출범…\"국가경쟁력확보총...",
+  "\"용혜인오늘사무실출근안해\"...이유확인해보니",
+  "장기하,'너나나나'무반주첫라이브…'라스'최고의1분",
+  "최태원,울산포럼앞두고SKAI데이터센터점검…경영진총출동"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-09-10T08:40:16.930249+09:00",
    "였나 회장은 허풍선이"
+  ],
+  [
+   "2026-09-10T09:20:15.824200+09:00",
+   "AI데이터센터 울산포럼 경영진 총출동 앞두고 점검"
   ]
  ],
- "last_run": "2026-09-10T09:10:28.523262+09:00",
+ "last_run": "2026-09-10T09:20:31.827008+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
