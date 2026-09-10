@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8076636",
-  "https://www.news1.kr/photos/8076628",
-  "https://www.news1.kr/photos/8076627",
   "https://www.news1.kr/photos/8076630",
   "https://www.news1.kr/photos/8076626",
   "https://view.asiae.co.kr/article/2026082810404635161",
@@ -2999,12 +2996,12 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=637672",
   "https://www.mediapen.com/news/view/1122608",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708674",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742734"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=742734",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=853327",
+  "http://www.metroseoul.co.kr/article/20260910500455",
+  "https://www.thepowernews.co.kr/view.php?ud=202609101536033096de3f0aa1be_7"
  ],
  "seen_titles": [
-  "한성숙총리,규제합리화간담회기념촬영",
-  "경청하는최태원회장",
-  "경제단체장들과머리맞댄한성숙총리",
   "경제협·단체규제합리화간담회주재하는한성숙총리",
   "박용진손잡은최태원회장",
   "[포토]경제협-단체규제합리화한성숙총리-최태원회장",
@@ -6001,17 +5998,12 @@
   "[창간24/AI發K자성장①]돈·인재·기술이몰리는곳만더커진다",
   "최태원회장,울산찾아'AI풀스택'현장경영…SK하이닉스노사는임단...",
   "최태원,울산현장찾아AX점검···SKCEO총집결'AI풀스택'속도",
-  "[진단]회사는AI로똑똑해지는데내자리는괜찮을까…대기업'AI대전..."
+  "[진단]회사는AI로똑똑해지는데내자리는괜찮을까…대기업'AI대전...",
+  "용인시의회,생활밀착형조례잇따라제정",
+  "최태원회장,AX실행현황점검나서…울산SKAI데이터센터·울산CLX...",
+  "최태원,울산서AI현장경영…SK‘풀스택프로바이더’전략직접챙긴..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-10T09:50:13.337410+09:00",
-   "정유공장까지 데이터센터부터 3개월 AI 선언 울산으로 AX"
-  ],
-  [
-   "2026-09-10T09:50:13.337410+09:00",
-   "모빌리티 인본주의 뛰자 사업보국 일군 반도체 한번 K야성 이끈"
-  ],
   [
    "2026-09-10T10:00:30.309413+09:00",
    "현장경영 AX 나선다"
@@ -6107,9 +6099,13 @@
   [
    "2026-09-10T15:30:21.276370+09:00",
    "기술이 곳만 인재 커진다 몰리는"
+  ],
+  [
+   "2026-09-10T15:50:17.677221+09:00",
+   "AI 챙긴 울산서 직접 현장경영 전략 프로바이더 풀스택"
   ]
  ],
- "last_run": "2026-09-10T15:40:24.798719+09:00",
+ "last_run": "2026-09-10T15:50:34.708143+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6455,6 +6451,7 @@
   "todayenergy.kr": "todayenergy.kr",
   "newswell.co.kr": "뉴스웰",
   "idaegu.com": "대구일보",
-  "kdpress.co.kr": "데일리경제"
+  "kdpress.co.kr": "데일리경제",
+  "thepowernews.co.kr": "더파워"
  }
 }
