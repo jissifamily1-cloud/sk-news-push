@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8076630",
-  "https://www.news1.kr/photos/8076626",
   "https://view.asiae.co.kr/article/2026082810404635161",
   "https://view.asiae.co.kr/article/2026082810393697162",
   "https://view.asiae.co.kr/article/2026082810395410920",
@@ -2999,11 +2997,11 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=742734",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=853327",
   "http://www.metroseoul.co.kr/article/20260910500455",
-  "https://www.thepowernews.co.kr/view.php?ud=202609101536033096de3f0aa1be_7"
+  "https://www.thepowernews.co.kr/view.php?ud=202609101536033096de3f0aa1be_7",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747300&plink=ORI&cooper=NAVER",
+  "https://www.kwnews.co.kr/article/20260910501013"
  ],
  "seen_titles": [
-  "경제협·단체규제합리화간담회주재하는한성숙총리",
-  "박용진손잡은최태원회장",
   "[포토]경제협-단체규제합리화한성숙총리-최태원회장",
   "[포토]국민의례하는한성숙국무총리",
   "[포토]경제협-단체규제합리화간담회개최",
@@ -6001,7 +5999,9 @@
   "[진단]회사는AI로똑똑해지는데내자리는괜찮을까…대기업'AI대전...",
   "용인시의회,생활밀착형조례잇따라제정",
   "최태원회장,AX실행현황점검나서…울산SKAI데이터센터·울산CLX...",
-  "최태원,울산서AI현장경영…SK‘풀스택프로바이더’전략직접챙긴..."
+  "최태원,울산서AI현장경영…SK‘풀스택프로바이더’전략직접챙긴...",
+  "[단독]검찰,\"최태원,동거인에860억넘게썼다\"발언한노소영변호인...",
+  "최종현도의원“결산성과,숫자보다도민체감효과로평가해야”"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-09-10T15:50:17.677221+09:00",
    "AI 챙긴 울산서 직접 현장경영 전략 프로바이더 풀스택"
+  ],
+  [
+   "2026-09-10T16:00:29.330852+09:00",
+   "발언한 변호인 넘게 동거인에 썼다 860억 검찰"
   ]
  ],
- "last_run": "2026-09-10T15:50:34.708143+09:00",
+ "last_run": "2026-09-10T16:00:41.291799+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
