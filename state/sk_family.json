@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newscape.co.kr/news/articleView.html?idxno=124181",
-  "https://www.g-enews.com/view.php?ud=20260828082630927139bf6e4b2_1",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851833",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252560",
   "https://www.ziksir.com/news/articleView.html?idxno=144569",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=44438",
   "https://www.news1.kr/life-culture/performance-exhibition/6272170",
@@ -2999,13 +2995,13 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=84535",
   "https://www.sisaweek.com/news/articleView.html?idxno=237815",
   "https://www.wikitree.co.kr/articles/1158566",
-  "https://biz.heraldcorp.com/article/10869076"
+  "https://biz.heraldcorp.com/article/10869076",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200301",
+  "https://www.redian.org/news/articleView.html?idxno=257292",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93659",
+  "https://www.news2day.co.kr/article/20260910500135"
  ],
  "seen_titles": [
-  "SK하이닉스,美서차세대핵심HBM생산거점기공",
-  "SK하이닉스,美인디애나HBM생산거점기공식…40억달러이상투자",
-  "SK하이닉스,인디애나팹착공…2029년'메이드인USA'HBM생산",
-  "SK하이닉스,美인디애나에40억달러투자…HBM첫미국생산기지착공",
   "\"'메이드인USA'HBM만든다\"…SK하이닉스,인디애나생산거점첫삽",
   "SK하이닉스,美HBM생산전초기지구축…한미협력강화",
   "뮤지컬'나는반딧불'전윤환·김승현·박용재\"오래추억할작품됐으면...",
@@ -6001,7 +5997,11 @@
   "최태원SK회장,울산현장찾아그룹AX추진현황점검",
   "스마일게이트지배구조향방은?",
   "'세기의이혼'약2조5500억받는권혁빈전처측…“아쉬움있다”",
-  "최태원,울산데이터센터·CLX현장경영"
+  "최태원,울산데이터센터·CLX현장경영",
+  "최태원,노소영재산분할7000억수용...2440억만대법원서다툰다",
+  "최태원SK회장,AI데이터센터·울산CLX방문...AX현장경영나서",
+  "최태원SK회장'7조행보'...울산AI거점서'풀스택전략'점검",
+  "[재계인사이드]선대보다한층강화된이재용회장의삼성그룹지배력"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,13 @@
   [
    "2026-09-10T11:40:13.822309+09:00",
    "향방은 지배구조 스마일게이트"
+  ],
+  [
+   "2026-09-10T12:00:29.538665+09:00",
+   "이재용 한층 강화된 회장의 삼성그룹 지배력 선대보다"
   ]
  ],
- "last_run": "2026-09-10T11:50:24.344251+09:00",
+ "last_run": "2026-09-10T12:00:40.640495+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
