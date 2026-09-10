@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12316396?influxDiv=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260902193245DH5",
-  "http://www.osen.co.kr/article/G1112868378",
   "https://www.kyeongin.com/article/1770130",
   "http://www.fsnews.co.kr/news/articleView.html?idxno=62063",
   "https://www.seoul.co.kr/news/economy/2026/09/03/20260903006005?wlog_tag3=naver",
@@ -2999,12 +2996,12 @@
   "http://www.newsprime.co.kr/news/article.html?no=747316",
   "https://jejumbc.com/NewsArticle/861709",
   "https://news.koreanbar.or.kr/news/articleView.html?idxno=36128",
-  "https://www.donga.com/news/Politics/article/all/20260910/134646808/1"
+  "https://www.donga.com/news/Politics/article/all/20260910/134646808/1",
+  "https://www.klnews.co.kr/news/articleView.html?idxno=322669",
+  "https://www.edaily.co.kr/News/Read?newsId=06025366645578808&mediaCodeNo=257",
+  "http://www.tvdaily.co.kr/read.php3?aid=17890419851801800002"
  ],
  "seen_titles": [
-  "\"이사건에중국인경찰이어딨어요?\"호통친재판장",
-  "'홍명보선임개입'정몽규소환…첫피의자조사",
-  "드디어올것이왔다!'홍명보선임개입의혹'정몽규전축구협회장...",
   "‘장애인성폭행’색동원시설장1심징역15년",
   "학교급식인데…중국도라지국산과섞었다",
   "쿠팡,美로비땐“미국기업”법정에선“한국플랫폼”",
@@ -6001,10 +5998,13 @@
   "공정위\"우방·이랜드건설포함\"하도급대금늑장지급조사",
   "위조신분증으로금품빼앗은30대집행유예",
   "검찰수사지휘폐지이후중대재해사건…\"노동청수사빨라지고공소청...",
-  "“김승원청탁의혹핵심은‘오빠’…사적관계가공적으로연결되면..."
+  "“김승원청탁의혹핵심은‘오빠’…사적관계가공적으로연결되면...",
+  "한국해양수산개발원,제3차K-해양금융혁신포럼개최",
+  "'실종허위종결'부경장,女화장실벽면서DNA나왔다",
+  "금감원출입기자까지…연예기획사發30억대선행매매파문"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-10T21:40:58.487835+09:00",
+ "last_run": "2026-09-10T21:50:54.016021+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
