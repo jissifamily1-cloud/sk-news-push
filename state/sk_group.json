@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://enews.imbc.com/News/RetrieveNewsInfo/517725",
-  "https://www.thepublic.kr/news/articleView.html?idxno=318119",
-  "https://www.asiatime.co.kr/article/20260909500234",
-  "http://www.bizwnews.com/news/articleView.html?idxno=145726",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=254124",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609090418&t=NN",
-  "https://www.interfootball.co.kr/news/articleView.html?idxno=694185",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260909134601dOZ",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3689173",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=156952",
   "https://www.polinews.co.kr/news/articleView.html?idxno=742636",
   "https://www.mk.co.kr/article/12148171",
   "http://www.newsprime.co.kr/news/article.html?no=747042",
@@ -2999,19 +2989,19 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16189430",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1723847",
   "https://www.viva100.com/article/20260910501040",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190023.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190023.html",
+  "https://m.sports.naver.com/basketball/article/065/0000301474",
+  "https://www.medigatenews.com/news/1149673706",
+  "https://www.businessplus.kr/news/articleView.html?idxno=116661",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445439",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=64127",
+  "https://news.bizwatch.co.kr/article/market/2026/09/09/0016",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446925",
+  "https://news.ifm.kr/news/articleView.html?idxno=479113",
+  "https://www.g-enews.com/view.php?ud=202609110655317317e250e8e188_1",
+  "https://www.mk.co.kr/article/12150043"
  ],
  "seen_titles": [
-  "SK키파운드리,엘모스와130나노기술협력확대·장기웨이퍼공급계약...",
-  "SK하이닉스,‘메모리공급자’에서‘AI솔루션크리에이터’로",
-  "[시장따라잡기]주택사업수익성회복가능성…건설주힘받나?",
-  "전기차부터AI데이터센터까지...에이엘티,차세대전력반도체테스트...",
-  "삼성전자주가재평가조건은⋯“파운드리ㆍ주주환원이관건”[찐코노...",
-  "[AI프리즘]오픈AI,한국사업확대…사이버보안파트너5곳뽑는다(종합...",
-  "소유\"제작진한테도말못했다\"눈시울붉힌이유(끼리끼리)",
-  "삼성·SK성과급잔치에소부장도들썩…리노공업50일째파업",
-  "중기연수원·시높시스,‘시뮬레이션월드코리아2026’맞손",
-  "SK행복나눔재단,대학생이사회문제연구하는'써니스콜라'5기성과공...",
   "무신사ㆍSK디앤디,자본조달어쩌나...세무조사에상폐논란까지",
   "위플랫,우즈벡열에너지인프라현대화사업참여",
   "[오피셜]\"존경하는손흥민선배계신LA에서발전하겠다\"…제주유망주...",
@@ -6001,7 +5991,17 @@
   "미국증시,PPI·유가·국채금리충격에하락…엔비디아·반도체주약세",
   "美반도체주급락에코스피도조정압력…외국인향방안갯속",
   "“기존보안체계론못막아”⋯무너지는보안경계선",
-  "\"최태원,동거인에1000억썼다\"고소당한노소영측변호사…검찰,불기..."
+  "\"최태원,동거인에1000억썼다\"고소당한노소영측변호사…검찰,불기...",
+  "[용병닷컴통신]제임스-킹-힉스...경쟁을기대하는베즐리",
+  "SK바이오팜1.1조원규모'오파칼림'임상에제동…FDA부분보류",
+  "['함께더멀리'AI대전환과공존/⑤]AI가먼저보고사람이최종판단...",
+  "[WhoIs?]한채양이마트대표이사사장",
+  "최태원\"AI인프라와생산현장하나로이어야'AI풀스택프로바이더'완...",
+  "더세진자사주후광...7000피복귀주역된'기타법인'",
+  "[WhoIs?]박성준네오위즈대표이사",
+  "'국민주'믿고샀다가원금100%손실?…ELS·슈퍼엔저파헤친다[머니...",
+  "SK하이닉스담은월가가주목한'알짜ETF'2선은?",
+  "“삼전닉스가공동개발하는격”…중국‘HBM연합전선’무서운까닭"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,41 @@
   [
    "2026-09-11T06:51:03.336387+09:00",
    "변호사 검찰 1000억 최태원 노소영 고소당한 동거인에 썼다 불기"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "보고 AI가 판단 먼저 사람이 최종"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "대표이사 사장 한채양 이마트"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "프로바이더 최태원 생산현장 이어야 인프라와 풀스택 하나로 AI"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "자사주 기타법인 후광 7000피 세진 주역 복귀"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "대표이사 박성준 네오위즈"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "샀다가 ELS 엔저 머니 믿고 국민주 원금 파헤친다 슈퍼 손실"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "SK하이닉스 알짜 ETF 주목한 2선은 월가가 담은"
+  ],
+  [
+   "2026-09-11T07:01:18.658045+09:00",
+   "HBM 무서운 공동개발하는 까닭 중국 삼전닉스가 연합전선"
   ]
  ],
- "last_run": "2026-09-11T06:51:14.159285+09:00",
+ "last_run": "2026-09-11T07:01:43.121788+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
