@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026083000131487647",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432528",
-  "https://www.segye.com/newsView/20260830500236?OutUrl=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=01794166645552568&mediaCodeNo=257",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1722206",
   "https://www.g-enews.com/view.php?ud=202608301424088139112616b072_1",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608300101&t=NN",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=364440",
@@ -2999,14 +2994,14 @@
   "https://biz.heraldcorp.com/article/10869847",
   "https://www.gokorea.kr/news/articleView.html?idxno=878013",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522392",
-  "http://kor.theasian.asia/archives/415170"
+  "http://kor.theasian.asia/archives/415170",
+  "https://www.etoday.co.kr/news/view/2624299",
+  "https://www.betanews.net/article/view/beta202609100095",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52839",
+  "https://www.itbiznews.com/news/articleView.html?idxno=224638",
+  "https://view.asiae.co.kr/article/2026091107575014804"
  ],
  "seen_titles": [
-  "노소영특별시의원\"전남광주폐교,한·몽문화예술교육거점으로재탄...",
-  "[DD주간브리핑]\"6G·AIDC부터AI쇼핑까지\"...국회,AI인프라·플랫폼...",
-  "최태원,한일경제계행사참석…저출산대응교류위원회출범",
-  "韓“집있어야결혼”,日“만날사람있어야”…저출생닮은듯다...",
-  "한일청년결혼·출산인식비슷한듯다르네…양국경제계공동대응",
   "대한상의,'韓·日저출산대응협의체'출범…저출산공동대응나선다",
   "대한상의,한일저출산대응민간협력출범…청년\"결혼엔경제안정...",
   "\"결혼하고아이도낳고싶지만\"…韓日청년이꼽은조건은",
@@ -6001,7 +5996,12 @@
   "최태원SK회장“멤버사간시너지로AI선도하자”",
   "SK그룹회장법적분쟁,노소영관장변호사'명예훼손불기소'결정의...",
   "최태원SK그룹회장,울산서'AI풀스택'전략현장점검…제조·데이터...",
-  "[오늘의신문]유가100달러돌파·AI전력망호황…청년고용·전셋값은..."
+  "[오늘의신문]유가100달러돌파·AI전력망호황…청년고용·전셋값은...",
+  "[증시키워드]SK하이닉스성과급잠정합의·최태원등판한SK이노…삼성...",
+  "최태원SK회장,울산서AX현장경영…\"AI풀스택프로바이더\"실행력...",
+  "최태원SK회장,AX에잰걸음…현장경영나서",
+  "SK최태원,울산AI데이터센터현장방문…AI풀스택전구간현황점검",
+  "최태원SK회장,제3회한미동맹대상수상자선정"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,21 @@
   [
    "2026-09-11T08:00:29.496343+09:00",
    "청년고용 호황 전셋값은 유가 돌파 AI 100달러 전력망"
+  ],
+  [
+   "2026-09-11T08:10:14.339198+09:00",
+   "나서 AX에 잰걸음 현장경영 회장"
+  ],
+  [
+   "2026-09-11T08:10:14.339198+09:00",
+   "현황 현장방문 울산 구간 점검 AI풀스택 AI데이터센터"
+  ],
+  [
+   "2026-09-11T08:10:14.339198+09:00",
+   "선정 한미동맹대상 제3회 수상자 회장"
   ]
  ],
- "last_run": "2026-09-11T08:00:41.190328+09:00",
+ "last_run": "2026-09-11T08:10:33.974239+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
