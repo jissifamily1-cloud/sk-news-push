@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260828_0003766534",
-  "https://www.kbmaeil.com/article/20260828500141",
-  "https://www.m-economynews.com/news/article.html?no=70190",
   "https://biz.heraldcorp.com/article/10855419",
   "https://www.newspim.com/news/view/20260828000536",
   "https://biz.heraldcorp.com/article/10855441",
@@ -2999,12 +2996,12 @@
   "https://www.sedaily.com/article/20089598",
   "https://www.slist.kr/news/articleView.html?idxno=765185",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1067760",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1067759"
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1067759",
+  "https://www.edaily.co.kr/News/Read?newsId=05106966645578808&mediaCodeNo=257",
+  "https://www.fnnews.com/news/202609101834278710",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000010955&cp=nv"
  ],
  "seen_titles": [
-  "한총리\"풀수있는규제최대한풀것…규제합리화로'모두의성장'...",
-  "공항시대앞두고‘관광위기’덮친울릉도...군의회,판뒤집을‘실...",
-  "SK하이닉스,美첫HBM생산기지착공...2029년‘메이드인USA’HBM양산",
   "2029년3분기첫‘메이드인USA’HBM4E가쏟아진다",
   "한성숙총리,주요경제협·단체만나\"풀수있는규제최대한풀것\"",
   "아파트주차로봇허용하고ESS규제확푼다",
@@ -6001,7 +5998,10 @@
   "[만화경]이혼,시대의자화상",
   "檢,\"최태원,동거인에1천억썼다\"노소영변호사불기소",
   "최태원회장,울산AI현장찾았다…7조원데이터센터점검",
-  "2026울산포럼,제조업AX실행전략찾는다"
+  "2026울산포럼,제조업AX실행전략찾는다",
+  "“최태원,동거인에1000억원지출”발언…노소영측변호사불기소",
+  "울산찾은최태원…AI현장경영광폭행보",
+  "최태원,울산SKAI데이터센터처음찾았다…CEO총집결"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,17 @@
   [
    "2026-09-10T18:30:21.739483+09:00",
    "실행전략 울산포럼 AX 찾는다 제조업"
+  ],
+  [
+   "2026-09-10T18:50:32.413137+09:00",
+   "1000억원 불기소 지출 변호사 발언 동거인에"
+  ],
+  [
+   "2026-09-10T18:50:32.413137+09:00",
+   "AI데이터센터 총집결 찾았다 CEO 울산 처음"
   ]
  ],
- "last_run": "2026-09-10T18:40:25.430577+09:00",
+ "last_run": "2026-09-10T18:50:50.254309+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
