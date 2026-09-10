@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260828_0021414238",
-  "https://www.dailian.co.kr/news/view/1683612/?sc=Naver",
   "https://www.dailian.co.kr/news/view/1683611/?sc=Naver",
   "http://www.press9.kr/news/articleView.html?idxno=81777",
   "https://www.nocutnews.co.kr/news/6569631",
@@ -2999,11 +2997,11 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=144269",
   "https://www.pennmike.com/news/articleView.html?idxno=127535",
   "https://www.pressian.com/pages/articles/2026091014492368093",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43629"
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43629",
+  "https://www.hankookilbo.com/news/article/A2026091014420000318?did=NA",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522375"
  ],
  "seen_titles": [
-  "박수치는최태원회장-손경식회장",
-  "'규제합리화'위해한자리보인정부-경제단체관계자들",
   "한성숙총리발언듣는최태원대한상의회장",
   "SK하이닉스,美인디애나HBM거점착공…2029년하반기양산",
   "최태원-손경식,경제협·단체규제합리화간담회",
@@ -6001,7 +5999,9 @@
   "최태원SK그룹회장,AX현장경영…국내현황점검나서",
   "[막전막후]아이폰셀카찍는이재명대통령의'불행'",
   "“실적늘리기감사는그만”…최종현강원도의원,질적평가요구",
-  "최태원,재산분할재상고범위2440억으로압축이유는?…'분할비율·S..."
+  "최태원,재산분할재상고범위2440억으로압축이유는?…'분할비율·S...",
+  "최태원,울산데이터센터·정유화학현장경영…'AI전환'실행점검",
+  "삼성100조,롯데1조…대기업오너지분가치'극과극'"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-09-10T14:50:13.864180+09:00",
    "이재명 대통령의 셀카찍는 아이폰 불행"
+  ],
+  [
+   "2026-09-10T15:10:14.081327+09:00",
+   "1조 지분가치 롯데 100조 극과 대기업 오너 삼성"
   ]
  ],
- "last_run": "2026-09-10T15:00:38.438450+09:00",
+ "last_run": "2026-09-10T15:10:28.639505+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
