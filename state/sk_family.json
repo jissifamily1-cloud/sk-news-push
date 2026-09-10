@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317093",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83930",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706165",
   "https://www.gukjenews.com/news/articleView.html?idxno=3677507",
   "http://www.newsdream.kr/news/articleView.html?idxno=117046",
   "http://www.newscape.co.kr/news/articleView.html?idxno=124181",
@@ -2999,12 +2996,12 @@
   "https://www.lawtv.kr/news/articleView.html?idxno=60900",
   "https://www.starnewskorea.com/sports/2026/09/10/2026091010435543379",
   "https://www.cstimes.com/news/articleView.html?idxno=720147",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446863"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446863",
+  "http://www.sisacast.kr/news/articleView.html?idxno=99860",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=84535",
+  "https://www.sisaweek.com/news/articleView.html?idxno=237815"
  ],
  "seen_titles": [
-  "SK하이닉스,美인디애나HBM공장첫삽…2029년미국산제품양산",
-  "SK하이닉스,美인디애나HBM팹첫삽…한미AI반도체동맹가속",
-  "SK하이닉스,美인디애나서HBM첫삽···'메이드인USA'HBM양산",
   "(사)한국상담학회교정상담학회,번역서'범죄와심리학'출간...심리와...",
   "SK하이닉스,美인디애나HBM패키징공장착공…\"한미AI의새로운미...",
   "SK하이닉스,美서차세대핵심HBM생산거점기공",
@@ -6001,7 +5998,10 @@
   "이혼한부부에게주식을쪼갠판결...7조회사스마일게이트에남겨진...",
   "'한화1차지명출신사령탑'유소년야구정상등극,대전서구연맹회장...",
   "최태원회장,울산AI데이터센터·정유공장점검…AX현황확인",
-  "SK최태원울산AI데이터센터·울산CLX현장방문,'AX'현황점검"
+  "SK최태원울산AI데이터센터·울산CLX현장방문,'AX'현황점검",
+  "최태원,SK그룹AX현장경영...울산AI데이터센터·울산CLX방문",
+  "최태원SK회장,울산현장찾아그룹AX추진현황점검",
+  "스마일게이트지배구조향방은?"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,13 @@
   [
    "2026-09-10T11:20:14.313096+09:00",
    "남겨진 부부에게 회사 판결 7조 주식을 쪼갠 스마일게이트에 이혼한"
+  ],
+  [
+   "2026-09-10T11:40:13.822309+09:00",
+   "향방은 지배구조 스마일게이트"
   ]
  ],
- "last_run": "2026-09-10T11:30:30.654340+09:00",
+ "last_run": "2026-09-10T11:40:27.333220+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
