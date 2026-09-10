@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ibabynews.com/news/articleView.html?idxno=154344",
-  "https://news.mtn.co.kr/news-detail/2026090816280549868",
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97571",
-  "https://www.ceoscoredaily.com/page/view/2026090811215125269",
-  "https://biz.heraldcorp.com/article/10866668",
-  "http://www.celuvmedia.com/article.php?aid=1788856861527235007",
-  "https://www.news1.kr/industry/general-industry/6273993",
-  "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260908&SEQUENCE=0123",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3033986",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=853072",
   "https://dgmbc.com/NewsArticle/861137",
@@ -2999,17 +2991,17 @@
   "http://news.ebs.co.kr/ebsnews/allView/60767185/N",
   "http://www.cctimes.kr/news/articleView.html?idxno=926630",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276627",
-  "https://kpenews.com/View.aspx?No=4221220"
+  "https://kpenews.com/View.aspx?No=4221220",
+  "https://www.techm.kr/news/articleView.html?idxno=155106",
+  "https://www.busan.com/view/busan/view.php?code=2026091012450124633",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034257",
+  "https://www.chosun.com/economy/economy_general/2026/09/10/YHXTGRJFD5ASZPOH6XSBMHBBYQ/",
+  "https://kr.aving.net/news/articleView.html?idxno=1814285",
+  "https://www.pressman.kr/news/articleView.html?idxno=103599",
+  "https://www.newsjeju.net/news/articleView.html?idxno=425653",
+  "http://www.bizwnews.com/news/articleView.html?idxno=145845"
  ],
  "seen_titles": [
-  "반도체ETF,한달전최하위서상위권으로…개인은차익실현",
-  "코스피,중동충돌에유가·물가경계심리···6950선약보합마감",
-  "\"의사안부럽다\"新자산층삼전닉스맨",
-  "HBM뒤처진삼성의반격…日50개사와기술동맹",
-  "[청년뉴스]월드비전,'온:청년프로젝트'첫발…인구감소지역자립준비...",
-  "반도체가키운국민소득…'4만달러시대'눈앞",
-  "'7경기17골폭발'홈4연승도전대전,안양잡고'상위권·ACLE'두마리...",
-  "[한화에어로,방산대장주의전환]②유럽선미국산제치고…미국선함...",
   "고려아연주총최대승부처는‘감사위원’…MBK진입땐분쟁격화",
   "성시경공연운영미흡에관객불만폭주…\"30만원내고거지체험\"[셀럽...",
   "'주식가치10억원'非오너임원400명…삼성·SK98.2%",
@@ -6001,7 +5993,15 @@
   "반도체몰리고,SKY의대는주춤…\"안정지원\"",
   "SK하이닉스노사,성과급현금40%서50%로확대",
   "SKhynixSaves170,000TonsofWaterDaily",
-  "[기자수첩]‘주의하세요’로못막는신종피싱..피해자탓을멈춰라"
+  "[기자수첩]‘주의하세요’로못막는신종피싱..피해자탓을멈춰라",
+  "ADT캡스-하나은행,소상공인500곳에디지털솔루션지원",
+  "SK하이닉스노사,임단협수정안마련…PS현금비중40→50%",
+  "K리그2수원삼성,서울이랜드와'1·2위맞대결'",
+  "한은“코스피변동성세계최고…반도체단일종목레버리지ETF도영향...",
+  "울산산업인공지능전환의미래를한눈에!'제3회울산세계미래산업박...",
+  "'추석특수잡아라'…유통가가펼치는추석공략",
+  "제주야간치안사각지대줄인다…자치경찰-민간경비3사협력",
+  "우리다문화장학재단특기장학생'에디다니엘',태극마크단다"
  ],
  "recent_sigs": [
   [
@@ -6879,9 +6879,25 @@
   [
    "2026-09-10T12:51:01.898625+09:00",
    "탓을 피싱 주의하세요 신종 멈춰라 피해자 막는"
+  ],
+  [
+   "2026-09-10T13:01:16.501244+09:00",
+   "인공지능전환의 미래를 울산 울산세계미래산업박 산업 눈에 3회"
+  ],
+  [
+   "2026-09-10T13:01:16.501244+09:00",
+   "추석 특수 유통가가 펼치는 공략 잡아라"
+  ],
+  [
+   "2026-09-10T13:01:16.501244+09:00",
+   "제주 줄인다 협력 자치경찰 민간경비 야간 치안 3사 사각지대"
+  ],
+  [
+   "2026-09-10T13:01:16.501244+09:00",
+   "태극마크 다니엘 에디 우리다문화장학재단 단다 특기장학생"
   ]
  ],
- "last_run": "2026-09-10T12:51:11.585148+09:00",
+ "last_run": "2026-09-10T13:01:30.615403+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
