@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260828_0003766797",
-  "https://www.edaily.co.kr/News/Read?newsId=03266886645551912&mediaCodeNo=257",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=879123",
   "https://www.hg-times.com/news/articleView.html?idxno=304802",
   "http://www.srtimes.kr/news/articleView.html?idxno=211024",
   "http://www.srtimes.kr/news/articleView.html?idxno=211044",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12149668",
   "https://www.yna.co.kr/view/AKR20260910156700004?input=1195m",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307433",
-  "https://www.peoplewatch.co.kr/article/view/ppw202609100013"
+  "https://www.peoplewatch.co.kr/article/view/ppw202609100013",
+  "https://www.hankyung.com/article/2026091074747",
+  "http://www.inews24.com/view/2004407",
+  "https://www.sedaily.com/article/20089598"
  ],
  "seen_titles": [
-  "공소청전환앞두고석달간800건처리'강철초임'…우수검사선정",
-  "퇴사직원에‘강제추행’덮어씌워…검찰이밝혀낸‘조작극’",
-  "울릉군의회,관광정책연구착수",
   "서울시체육회,제107회전국체전D-50필승결의대회",
   "SK하닉,2년연속'대학생취업선호도1위'…탐구등3대'미래역량'본...",
   "서미영인크루트대표,\"AI,신입이경력직과경쟁할수있는영역\"",
@@ -6001,7 +5998,10 @@
   "에너지부터데이터센터까지…최태원,울산서'AX현장경영'",
   "檢,\"최태원,동거인에1천억썼다\"발언한노소영변호사불기소",
   "2.5조재산분할판결권혁빈···그는어떻게7조원자산을일궜나",
-  "'이혼하면경영권까지?'…오너가이혼,최후의보루흔들린다"
+  "'이혼하면경영권까지?'…오너가이혼,최후의보루흔들린다",
+  "검찰,\"최태원,동거인에1000억썼다\"발언한노소영변호사불기소",
+  "\"최태원,동거인에1000억썼다\"노소영변호사,검찰불기소",
+  "[만화경]이혼,시대의자화상"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-09-10T18:10:13.151798+09:00",
    "이혼하면 최후의 경영권까지 흔들린다 보루 이혼 오너가"
+  ],
+  [
+   "2026-09-10T18:20:15.513822+09:00",
+   "이혼 시대의 자화상"
   ]
  ],
- "last_run": "2026-09-10T18:10:28.346348+09:00",
+ "last_run": "2026-09-10T18:20:28.010776+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
