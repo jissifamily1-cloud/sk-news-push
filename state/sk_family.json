@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20084797",
-  "https://www.news1.kr/industry/general-industry/6273796",
-  "https://view.asiae.co.kr/article/2026083009535061303",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851992",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464536",
   "https://www.newsis.com/view/NISX20260830_0003768178",
   "http://www.econonews.co.kr/news/articleView.html?idxno=443540",
@@ -2999,13 +2995,13 @@
   "https://www.newsgn.com/news/articleView.html?idxno=570384",
   "https://www.idomin.com/news/articleView.html?idxno=2013462",
   "https://www.segye.com/newsView/20260910515883?OutUrl=naver",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190023.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190023.html",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091530229120104868",
+  "https://www.yna.co.kr/view/AKR20260910138200546?input=1195m",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=64127",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660724"
  ],
  "seen_titles": [
-  "저출산해법머리맞댄韓日경제계…공동대응기구출범",
-  "韓日청년“결혼·출산,경제적안정전제”‥양국재계저출산교류위...",
-  "\"한국청년81.4%,일본청년보다결혼·출산긍정적…日57.6%\"",
-  "한일청년,결혼·출산의조건은'경제적안정'…경제계직접나선다",
   "한일청년,결혼·출산첫조건은'경제적안정'…韓결혼의향81%",
   "韓日청년결혼·출산가르는건'경제력'···저출산해법함께찾는다",
   "대한상의,韓日저출산대응협의체출범…\"저출산민간협력본격화\"",
@@ -6001,7 +5997,11 @@
   "'제21회수려한합천1·2학년대학축구연맹전'성료",
   "합천군,수려한합천1·2학년대학축구연맹전마무리",
   "울산찾은최태원‘AX대전환’속도",
-  "\"최태원,동거인에1000억썼다\"고소당한노소영측변호사…검찰,불기..."
+  "\"최태원,동거인에1000억썼다\"고소당한노소영측변호사…검찰,불기...",
+  "[더벨][SK리밸런싱2년]2024년이천선언...숨가빴던조정후찾아온'온...",
+  "[율곡로]세기의이혼",
+  "최태원\"AI인프라와생산현장하나로이어야'AI풀스택프로바이더'완...",
+  "“반도체같이하자”최태원제안에…일본키옥시아가거절한이유는?..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,25 @@
   [
    "2026-09-11T06:50:14.194913+09:00",
    "변호사 불기 검찰 고소당한 1000억 동거인에 썼다"
+  ],
+  [
+   "2026-09-11T07:10:17.232430+09:00",
+   "숨가빴던 선언 찾아온 조정후 이천 2024년"
+  ],
+  [
+   "2026-09-11T07:10:17.232430+09:00",
+   "이혼 세기의"
+  ],
+  [
+   "2026-09-11T07:10:17.232430+09:00",
+   "풀스택 하나로 인프라와 생산현장 AI 이어야 프로바이더"
+  ],
+  [
+   "2026-09-11T07:10:17.232430+09:00",
+   "반도체 제안에 거절한 이유는 같이 일본 키옥시아가 하자"
   ]
  ],
- "last_run": "2026-09-11T07:00:41.197273+09:00",
+ "last_run": "2026-09-11T07:10:38.534569+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
