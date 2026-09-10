@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260828000467",
-  "https://news.unn.net/news/articleView.html?idxno=596574",
   "https://www.dailian.co.kr/news/view/1683640/?sc=Naver",
   "https://www.etoday.co.kr/news/view/2619315",
   "https://www.news1.kr/photos/8076738",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/photos/8100086",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101526247820522",
   "https://www.kwnews.co.kr/article/20260910501361",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81069"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81069",
+  "https://www.sedaily.com/article/20089537",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=254347"
  ],
  "seen_titles": [
-  "박용진부위원장과인사하는최태원회장",
-  "이화여대,中베이징대와AI·교육분야협력확대논의",
   "메모리호황,이번엔다르다...'사이클'벗는SK하이닉스(종합)",
   "경제협·단체규제합리화간담회[포토]",
   "메모하는최태원회장",
@@ -6001,7 +5999,9 @@
   "가슴을뜨겁게만드는무대'나는반딧불'",
   "[사설]경제대도약위한입법,‘속도전’으로효능감높여라",
   "[포토뉴스]후평1동,세대공감나눔릴레이캠페인참여",
-  "최태원SK그룹회장,제3회'한미동맹대상'수상자에선정"
+  "최태원SK그룹회장,제3회'한미동맹대상'수상자에선정",
+  "최태원,7조데이터센터점검…AI풀스택역량고도화",
+  "K반도체'빅2',왜일본가나…삼성은'연구',SK는'생산'주목"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-09-10T17:10:14.389452+09:00",
    "롯데 삼성전자"
+  ],
+  [
+   "2026-09-10T17:50:15.816303+09:00",
+   "SK는 연구 일본 K반도체 삼성은 빅2 가나 주목 생산"
   ]
  ],
- "last_run": "2026-09-10T17:40:24.227416+09:00",
+ "last_run": "2026-09-10T17:50:29.708054+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
