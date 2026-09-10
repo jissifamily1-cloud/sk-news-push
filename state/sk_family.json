@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260812000416",
-  "https://www.etnews.com/20260812000419",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=270209",
-  "https://www.kpinews.kr/newsView/1065600693518291",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131563",
-  "https://magazine.hankyung.com/business/article/202608265083b",
-  "https://www.segye.com/newsView/20260827516503?OutUrl=naver",
-  "https://www.segye.com/newsView/20260826520611?OutUrl=naver",
-  "https://www.kukinews.com/article/view/kuk202608270213",
-  "https://www.newspim.com/news/view/20260827000964",
-  "https://www.ajunews.com/view/20260713172054230",
   "https://www.bntnews.co.kr/article/view/bnt202608280004",
   "http://www.popcornnews.net/news/articleView.html?idxno=131013",
   "http://www.lawissue.co.kr/view.php?ud=2026082806573178649a8c8bf58f_12",
@@ -2999,20 +2988,20 @@
   "http://www.4th.kr/news/articleView.html?idxno=2117774",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=208491",
   "https://www.ytn.co.kr/_ln/0101_202609101023454047",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746497&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746497&plink=ORI&cooper=NAVER",
+  "https://www.busan.com/view/busan/view.php?code=2026091010340141402",
+  "https://www.ziksir.com/news/articleView.html?idxno=145963",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609100308&t=NN",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252953",
+  "https://dealsite.co.kr/articles/168784",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358732",
+  "https://www.yna.co.kr/view/AKR20260910029901003?input=1195m",
+  "https://kpenews.com/View.aspx?No=4221067",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=47581",
+  "https://www.mk.co.kr/article/12149115",
+  "https://magazine.hankyung.com/business/article/202609105965b"
  ],
  "seen_titles": [
-  "[포토]인사말하는염성진SK하이닉스사장",
-  "\"전력단절없다\"…삼성·SK'반도체메가프로젝트',한전과전력망협...",
-  "전남광주·정부·한전·삼성·SK,호남반도체전력공급손잡았다",
-  "한전,호남권·용인반도체메가프로젝트전력공급협약…\"가동차질없...",
-  "‘지분’보다‘실적’…AI격변기시험대오른8090재계뉴리더20인",
-  "목소리커진소액주주들…재계‘이사회독립성강화’선제대응",
-  "인간만의공감능력키운다…‘AI공교육’미래그리는충북[지방기...",
-  "엔비디아호실적이키운HBM기대…삼성·SK,가격급등은‘양날의검’",
-  "SK하이닉스는왜인디애나로갔나…인프라에인재·지원'삼박자'맞았다",
-  "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
-  "SK하이닉스,美첫HBM공장착공…40억달러투자",
   "SK하이닉스,美'인디애나HBM생산거점'기공식개최...2029년미국산HB...",
   "(사)한국상담학회교정상담학회,번역서『범죄와심리학:법정에선심...",
   "SK하이닉스,美인디애나HBM공장첫삽…40억달러투자",
@@ -6001,7 +5990,18 @@
   "데이터센터부터제조AX까지..최태원,울산서'AI풀스택'현장경영",
   "최태원SK그룹회장,SKAI데이터센터울산,SK이노베이션울산CLX등현...",
   "'김승원청탁의혹'공방...한동훈녹취록또공개[뉴스퀘어10]",
-  "\"조단위이혼소송끝판왕\"…권혁빈2.5조재산분할뜯어보니[스프]"
+  "\"조단위이혼소송끝판왕\"…권혁빈2.5조재산분할뜯어보니[스프]",
+  "최태원,‘AX대전환’3개월만에현장행보…울산서AI사업점검",
+  "최태원SK회장,울산찾아AX점검…'AI풀스택프로바이더'전략속도",
+  "최태원회장,SK그룹AI현장점검나서",
+  "최태원SK회장,울산현장경영…\"AI풀스택전략,제조까지이어졌나\"...",
+  "울산찾는최태원SK회장,AI데이터센터현장점검",
+  "'분쟁축소'택한최태원…재산분할7000억수용·2440억만다툰다",
+  "최태원,울산SKAI데이터센터·울산CLX현장점검(종합)",
+  "최태원SK회장,'3개월만'울산현장경영..10일AI데이터센터·정유화...",
+  "최태원SK그룹회장,울산서AX현장경영",
+  "“회장은공장뛰고직원은AI공부”…최태원식‘AX’현장경영에사...",
+  "반도체서데이터센터·공장까지…최태원,SK‘AI풀스택’현장지휘"
  ],
  "recent_sigs": [
   [
@@ -6097,7 +6097,7 @@
    "CLX등 AI데이터센터 울산 SK이노베이션 회장"
   ]
  ],
- "last_run": "2026-09-10T10:30:33.127176+09:00",
+ "last_run": "2026-09-10T10:40:27.217455+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
