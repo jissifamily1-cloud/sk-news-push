@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202608280004",
-  "http://www.popcornnews.net/news/articleView.html?idxno=131013",
-  "http://www.lawissue.co.kr/view.php?ud=2026082806573178649a8c8bf58f_12",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116049",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608251612559280106769",
-  "https://weekly.donga.com/3/all/11/6363175/1",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860065",
-  "https://biz.chosun.com/science-chosun/bio/2026/08/28/CNBDB23FU5ESNANB5VOPELJNTA/",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=63502",
   "https://www.greened.kr/news/articleView.html?idxno=348645",
   "https://www.socialvalue.kr/news/view/1065565030301537",
@@ -2999,17 +2991,17 @@
   "https://kpenews.com/View.aspx?No=4221067",
   "https://www.newstopkorea.com/news/articleView.html?idxno=47581",
   "https://www.mk.co.kr/article/12149115",
-  "https://magazine.hankyung.com/business/article/202609105965b"
+  "https://magazine.hankyung.com/business/article/202609105965b",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5218287",
+  "https://www.ajunews.com/view/20260713172054230",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266640",
+  "https://www.nocutnews.co.kr/news/6576020",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=85797",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169836",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171138",
+  "https://www.mt.co.kr/politics/2026/09/10/2026091010095857219"
  ],
  "seen_titles": [
-  "SK하이닉스,美'인디애나HBM생산거점'기공식개최...2029년미국산HB...",
-  "(사)한국상담학회교정상담학회,번역서『범죄와심리학:법정에선심...",
-  "SK하이닉스,美인디애나HBM공장첫삽…40억달러투자",
-  "[더벨][턴어라운드시동거는LG]'조용한총수'구광모회장의반전,세...",
-  "“고졸이지만내전문성믿고지원”SK하이닉스‘학력·나이불문’채...",
-  "[CEO열전]2012년의최태원,2026년을미리봤다",
-  "[Why]“1.1兆통큰투자”SK바이오팜은왜신약빅딜을했을까",
-  "SK하이닉스,美에첫HBM생산기지…수출넘어'AI공급망'핵심으로",
   "이재명대통령,이재용·최태원회장잇단회동에국민의힘\"주52시간...",
   "SK하이닉스,미국첫HBM생산기지'인디애나팹'착공…HBM4E수십만장생...",
   "SK하이닉스,미국첫HBM생산기지짓는다…40억달러투자·2029년양산",
@@ -6001,7 +5993,15 @@
   "최태원SK회장,'3개월만'울산현장경영..10일AI데이터센터·정유화...",
   "최태원SK그룹회장,울산서AX현장경영",
   "“회장은공장뛰고직원은AI공부”…최태원식‘AX’현장경영에사...",
-  "반도체서데이터센터·공장까지…최태원,SK‘AI풀스택’현장지휘"
+  "반도체서데이터센터·공장까지…최태원,SK‘AI풀스택’현장지휘",
+  "[아침&눈길]스마일게이트권혁빈재산분할2.5조가장비싼이혼…왜?...",
+  "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
+  "최태원,울산AI심장부찾는다…7조데이터센터직접점검",
+  "최태원,울산서AX현장경영…AI데이터센터·제조현장점검",
+  "SK최태원,울산서AI데이터센터·제조현장점검…AX실행력높인다",
+  "최태원회장,울산데이터센터·CLX찾아'AX현장경영'",
+  "최태원SK회장,이번엔국내AX현장독려...글로벌광폭행보지속",
+  "재계\"풀어달라\"다음날노동계는\"묶어달라\"…국회,반도체52시간딜레..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,17 @@
   [
    "2026-09-10T10:26:41.112694+09:00",
    "CLX등 AI데이터센터 울산 SK이노베이션 회장"
+  ],
+  [
+   "2026-09-10T10:50:13.498289+09:00",
+   "이번엔 국내 독려 광폭행보 AX현장 글로벌 지속 SK회장"
+  ],
+  [
+   "2026-09-10T10:50:13.498289+09:00",
+   "국회 반도체 다음날 52시간 노동계는 재계 딜레 풀어달라 묶어달라"
   ]
  ],
- "last_run": "2026-09-10T10:40:27.217455+09:00",
+ "last_run": "2026-09-10T10:50:31.422064+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
