@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8076667",
   "https://www.news1.kr/photos/8076666",
   "https://www.nocutnews.co.kr/news/6569625",
   "https://www.nocutnews.co.kr/news/6569629",
@@ -2999,10 +2998,10 @@
   "http://www.segyebiz.com/newsView/20260910514976?OutUrl=naver",
   "https://www.yna.co.kr/view/AKR20260910135700504?input=1195m",
   "https://www.newsway.co.kr/news/view?ud=2026091015063979141",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=503750"
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=503750",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48874"
  ],
  "seen_titles": [
-  "한성숙국무총리,경제협·단체규제합리화간담회참석",
   "한성숙총리와최태원회장",
   "경제협·단체규제합리화간담회…총리\"신속히풀수있는규제즉시...",
   "경제협·단체규제합리화간담회참석하는한성숙총리-최태원회장",
@@ -6001,7 +6000,8 @@
   "최태원SK그룹회장,울산서AX실행현황점검…경영진총출동",
   "제3회'한미동맹대상'수상자에최태원SK그룹회장",
   "HBM넘어제조AI로…최태원,'4번째퀀텀점프'시동",
-  "[뉴스워커_SK그룹]최태원회장,데이터센터짓고250만평공장에AI…S..."
+  "[뉴스워커_SK그룹]최태원회장,데이터센터짓고250만평공장에AI…S...",
+  "최태원,울산AI데이터센터·제조현장방문…AX추진현황점검"
  ],
  "recent_sigs": [
   [
@@ -6093,7 +6093,7 @@
    "공장에 짓고 AI 250만평 회장 데이터센터"
   ]
  ],
- "last_run": "2026-09-10T16:30:45.329023+09:00",
+ "last_run": "2026-09-10T16:40:24.597099+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
