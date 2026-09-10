@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://kpenews.com/View.aspx?No=4184969",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16381",
-  "https://news.mtn.co.kr/news-detail/2026081305093025506",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050874",
-  "https://www.segye.com/newsView/20260812520158?OutUrl=naver",
-  "https://www.etnews.com/20260812000421",
-  "https://www.etnews.com/20260812000425",
   "https://www.etnews.com/20260812000418",
   "https://www.etnews.com/20260812000424",
   "https://www.etnews.com/20260812000416",
@@ -2999,16 +2992,16 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=863913",
   "https://biz.chosun.com/industry/company/2026/09/10/YNPUNMXBTZAMVEUQF6SS7LD724/",
   "https://www.gukjenews.com/news/articleView.html?idxno=3689942",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060730"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060730",
+  "https://biz.heraldcorp.com/article/10854793",
+  "http://www.techholic.co.kr/news/articleView.html?idxno=222820",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=853261",
+  "http://www.paxetv.com/news/articleView.html?idxno=281478",
+  "https://www.eroun.net/news/articleView.html?idxno=89763",
+  "http://www.4th.kr/news/articleView.html?idxno=2117774",
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=208491"
  ],
  "seen_titles": [
-  "[정책브리핑]용인·호남반도체산단'전력적기공급'협약체결",
-  "호남반도체산단‘전력고속도로’놓는다…2029년3GW첫공급",
-  "기후부-한전,반도체메가프로젝트'적기전력공급'약속",
-  "호남반도체산단2029년전력3GW우선공급",
-  "[포토]용인일반산단전력공급협약",
-  "[포토]대화하는염성진-김성환-김용관",
-  "[포토]호남권반도체산단전력공급협약",
   "[포토]참석자들과대화하는김성환장관",
   "[포토]반도체메가프로젝트전력공급협약식",
   "[포토]인사말하는염성진SK하이닉스사장",
@@ -6001,7 +5994,14 @@
   "권혁빈이혼,2.5조재산분할판결…지배구조흔들리나",
   "최태원,AI전환현장점검…‘AI데이터센터울산’방문",
   "국회경제대도약위원회출범…\"입법·제도개선위한협력체운영\"",
-  "최태원,SK사장단대동'AX현장'으로…울산데이터센터·CLX찾아"
+  "최태원,SK사장단대동'AX현장'으로…울산데이터센터·CLX찾아",
+  "SK하이닉스,2029년3분기첫‘메이드인USA’HBM4E공급한다",
+  "최태원SK회장,그룹사장단과울산행-AI데이터센터·제조AX현장방문",
+  "최태원SK회장,울산서AX현장경영⋯'AI풀스택'추진현황점검",
+  "최태원SK회장,AX현장경영…AI데이터센터·제조현장점검",
+  "최태원SK회장,울산서AI전환현장점검...데이터센터·제조AX살핀다",
+  "데이터센터부터제조AX까지..최태원,울산서'AI풀스택'현장경영",
+  "최태원SK그룹회장,SKAI데이터센터울산,SK이노베이션울산CLX등현..."
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-09-10T10:20:16.790444+09:00",
    "찾아 으로 사장단 CLX 울산 대동 데이터센터 현장 AX"
+  ],
+  [
+   "2026-09-10T10:26:41.112694+09:00",
+   "CLX등 AI데이터센터 울산 SK이노베이션 회장"
   ]
  ],
- "last_run": "2026-09-10T10:20:28.526711+09:00",
+ "last_run": "2026-09-10T10:26:54.486305+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6438,6 +6442,7 @@
   "theviewers.co.kr": "뷰어스",
   "todayenergy.kr": "todayenergy.kr",
   "newswell.co.kr": "뉴스웰",
-  "idaegu.com": "대구일보"
+  "idaegu.com": "대구일보",
+  "kdpress.co.kr": "데일리경제"
  }
 }
