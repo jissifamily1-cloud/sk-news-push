@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=128838",
-  "https://www.ekn.kr/web/view.php?key=20260828027267619",
-  "https://www.newsis.com/view/NISX20260828_0003766556",
   "https://www.news1.kr/photos/8076739",
   "https://www.news1.kr/photos/8076743",
   "https://www.newspim.com/news/view/20260828000481",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/AKR20260910140100704?input=1195m",
   "https://news.jtbc.co.kr/article/NB12317754?influxDiv=NAVER",
   "http://www.wsobi.com/news/articleView.html?idxno=317975",
-  "https://www.topdaily.kr/articles/111895"
+  "https://www.topdaily.kr/articles/111895",
+  "http://www.inews24.com/view/2004374",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101433353640104295",
+  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90937"
  ],
  "seen_titles": [
-  "이화여대·베이징대,AI·디지털미래교육'맞손'…교류30주년결실",
-  "‘피크론일축’…SK하닉사장“메모리공급난,2030년까지간다”",
-  "한성숙총리만난최태원회장\"규제만없애선한계,사회문제근본원인...",
   "한총리'규제합리화힘모읍시다'",
   "경제단체장들에게당부하는한성숙총리",
   "간담회참석하는한성숙총리와최태원회장",
@@ -6001,7 +5998,10 @@
   "[영상]천문학적이혼재산분할…비슷한듯다른최태원·권혁빈판결",
   "\"최태원,동거인에860억원이상썼다\"발언…검찰불기소",
   "SK그룹·넷마블문화재단,최태원회장'AX현장경영'나서·'2026전국장애...",
-  "[TOP'sPick][중후장대]HD현대중공업,‘엔진·SMR’미래사업에1조722..."
+  "[TOP'sPick][중후장대]HD현대중공업,‘엔진·SMR’미래사업에1조722...",
+  "최태원회장,제3회'한미동맹대상'수상자로선정",
+  "[더벨][영상|People&Story]하이닉스다음은AI…28년째판키우는최...",
+  "[산업브리핑]SK·롯데·삼성전자"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-09-10T17:00:26.910401+09:00",
    "미래사업에 SMR 1조722 HD현대중공업 엔진"
+  ],
+  [
+   "2026-09-10T17:10:14.389452+09:00",
+   "28년째 키우는 다음은 AI 하이닉스"
+  ],
+  [
+   "2026-09-10T17:10:14.389452+09:00",
+   "롯데 삼성전자"
   ]
  ],
- "last_run": "2026-09-10T17:00:42.639228+09:00",
+ "last_run": "2026-09-10T17:10:34.556704+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6436,6 +6444,7 @@
   "newswell.co.kr": "뉴스웰",
   "idaegu.com": "대구일보",
   "kdpress.co.kr": "데일리경제",
-  "thepowernews.co.kr": "더파워"
+  "thepowernews.co.kr": "더파워",
+  "niceeconomy.co.kr": "나이스경제"
  }
 }
