@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026082810374226876",
-  "https://www.newsis.com/view/NISI20260828_0021414248",
-  "https://view.asiae.co.kr/article/2026082810340828612",
-  "https://www.dailian.co.kr/news/view/1683613/?sc=Naver",
-  "https://www.newsis.com/view/NISI20260828_0021414246",
   "https://www.newsis.com/view/NISI20260828_0021414240",
   "https://www.newsis.com/view/NISI20260828_0021414239",
   "https://www.newsis.com/view/NISI20260828_0021414238",
@@ -2999,14 +2994,14 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=274969",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590305557937",
   "https://www.ajunews.com/view/20260910134634914",
-  "https://www.sisajournal.com/news/articleView.html?idxno=386764"
+  "https://www.sisajournal.com/news/articleView.html?idxno=386764",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260910144019Odh",
+  "https://www.ytn.co.kr/_ln/0103_202609101428171051",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358749",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=144269",
+  "https://www.pennmike.com/news/articleView.html?idxno=127535"
  ],
  "seen_titles": [
-  "[포토]회의실들어서는한성숙국무총리-최태원대한상의회장",
-  "경제협·단체규제합리화간담회",
-  "'대기업CEO'출신韓총리,재계만나\"신속히풀수있는규제'즉시해...",
-  "박수치는최태원-손경식회장",
-  "인사나누는최태원회장-박용진규제합리화위원회부위원장",
   "총리,경제협·단체규제합리화간담회",
   "한성숙총리,경제협·단체규제합리화간담회",
   "박수치는최태원회장-손경식회장",
@@ -6001,13 +5996,14 @@
   "SK스퀘어,사업모델대수술…\"AI네이티브기반업무방식·의사결정재설...",
   "[CEO열전]최태원회장,울산서SK'AI풀스택'현장경영…데이터센터부...",
   "[아주사설│기본·원칙·상식]AI3강노리는한국,결국승부처는'인재...",
-  "스마일게이트덮친'2.5조이혼리스크'…'불편한동거'시작되나"
+  "스마일게이트덮친'2.5조이혼리스크'…'불편한동거'시작되나",
+  "[사건현장]가둔직후AI에질문도…드러나는계획범죄정황",
+  "파주카페냉동창고살인...풀어야할의혹은?[뉴스퀘어2PM]",
+  "최태원,AI현장경영시동…울산서인프라·제조AX점검",
+  "최태원SK그룹회장,AX현장경영…국내현황점검나서",
+  "[막전막후]아이폰셀카찍는이재명대통령의'불행'"
  ],
  "recent_sigs": [
-  [
-   "2026-09-10T08:40:16.930249+09:00",
-   "였나 회장은 허풍선이"
-  ],
   [
    "2026-09-10T09:20:15.824200+09:00",
    "AI데이터센터 울산포럼 경영진 총출동 앞두고 점검"
@@ -6103,9 +6099,13 @@
   [
    "2026-09-10T14:40:12.024042+09:00",
    "리스크 이혼 덮친 시작되나 동거 5조 불편한 스마일게이트"
+  ],
+  [
+   "2026-09-10T14:50:13.864180+09:00",
+   "이재명 대통령의 셀카찍는 아이폰 불행"
   ]
  ],
- "last_run": "2026-09-10T14:40:29.544554+09:00",
+ "last_run": "2026-09-10T14:50:28.944177+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
