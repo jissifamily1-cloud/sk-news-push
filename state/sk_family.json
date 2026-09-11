@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01420246645552896&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=01400566645552896&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=01407126645552896&mediaCodeNo=257",
-  "https://economychosun.com/site/data/html_dir/2026/08/24/2026082400019.html",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000007503&cp=nv",
   "https://www.donga.com/news/Economy/article/all/20260830/134571764/2",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34609",
@@ -2999,13 +2995,13 @@
   "https://www.seoultimes.news/news/article.html?no=2000099784",
   "https://www.businesspost.co.kr/BP?command=article_view&num=447014",
   "https://www.nocutnews.co.kr/news/6576904",
-  "https://mpmbc.co.kr/NewsArticle/1534603"
+  "https://mpmbc.co.kr/NewsArticle/1534603",
+  "https://www.dailian.co.kr/news/view/1689373/?sc=Naver",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=157049",
+  "https://www.ekn.kr/web/view.php?key=20260911028253624",
+  "https://www.chosun.com/economy/industry-company/2026/07/30/7QA2TFETZVDXVBHSTS76TYNQZY/"
  ],
  "seen_titles": [
-  "韓청년81%“결혼할래요”日58%보다높아…‘고용·수입안정’이우...",
-  "[사설]CPTPP가입논의재시동,또흐지부지끝나지않길",
-  "스펙보다프롬프트…대기업채용지각변동",
-  "\"AI와과제어떻게풀었나요\"반나절테스트…'생각근육'더중요해졌다",
   "[재계이슈]구광모,美방문나흘만에젠슨황딸LG로봇훈련소참관...",
   "“아이도,일할사람도줄어…비용상승”…한·일재계저출산대응...",
   "한일청년,결혼-출산첫조건‘경제적안정’꼽아",
@@ -6001,7 +5997,11 @@
   "최태원‘1000억지출’발언고소…노소영측변호사불기소",
   "[데스크리포트9월]세계자원전쟁속한국'무방비',AI·반도체·로봇...",
   "95일의봉쇄,30%대지지율,용혜인의버티키[노컷한컷]",
-  "제때치료받을권리,여전히멀기만한전남"
+  "제때치료받을권리,여전히멀기만한전남",
+  "농협중앙회,임직원정보보호역량높인다…아카데미·숏폼경연개최",
+  "농협,전임직원'정보보호체질'바꾼다",
+  "트럼프“호르무즈파병해라”압박했는데…李대통령지지율최저",
+  "조현범석방으로,3년오너리스크해소된한국타이어앞날은?"
  ],
  "recent_sigs": [
   [
@@ -6057,7 +6057,7 @@
    "고소 지출 불기소 변호사 1000억 발언"
   ]
  ],
- "last_run": "2026-09-11T15:40:23.536358+09:00",
+ "last_run": "2026-09-11T15:50:23.646096+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
