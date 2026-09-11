@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25460471",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742651",
-  "https://www.betanews.net/article/view/beta202609090081",
-  "https://www.mk.co.kr/article/12148593",
-  "https://www.mk.co.kr/article/12148591",
-  "http://www.press9.kr/news/articleView.html?idxno=82490",
-  "https://magazine.hankyung.com/business/article/202609029852b",
-  "https://www.dt.co.kr/article/12083086",
-  "https://www.hankyung.com/article/2026090946061",
   "https://www.tokenpost.kr/news/market/405043",
   "https://www.nocutnews.co.kr/news/6575777",
   "http://www.newswatch.kr/news/articleView.html?idxno=81055",
@@ -2999,18 +2990,18 @@
   "https://news.tf.co.kr/read/economy/2364789.htm",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88075",
   "https://www.the-stock.kr/news/articleView.html?idxno=33362",
-  "https://www.theguru.co.kr/news/article.html?no=106977"
+  "https://www.theguru.co.kr/news/article.html?no=106977",
+  "https://www.businessplus.kr/news/articleView.html?idxno=116719",
+  "https://www.g-enews.com/view.php?ud=202609111314037648923c501012_1",
+  "https://tk.newdaily.co.kr/site/data/html/2026/09/11/2026091100159.html",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318449",
+  "https://www.topdaily.kr/articles/111906",
+  "https://www.etoday.co.kr/news/view/2624490",
+  "https://www.hani.co.kr/arti/economy/finance/1277368.html",
+  "https://www.cfnews.kr/news/article.html?no=111955",
+  "http://www.iminju.net/news/articleView.html?idxno=169398"
  ],
  "seen_titles": [
-  "최태원은7천억다툼접고,권혁빈은2.5조분할…같은날엇갈린재산...",
-  "[9일특징주]美,포드에中배터리협력경고…이차전지株'강세'",
-  "7000피왔는데‘돈빼는개미’…박스권갇힌코스피에9월들어순매도...",
-  "기업영업이익률역대최고…‘삼전닉스’빼도호전",
-  "권혁빈,2.5조'사상최대'재산분할…회사지분35%넘긴다",
-  "권혁빈이혼1심,2조5500억재산분할…역대최대",
-  "[마감시황]AI훈풍에코스피7000선탈환...환율23개월만에최저",
-  "\"내년부터메모리구조적수요급증...삼전·SK하닉최대수혜\"-KB證",
-  "\"금융·의료·엔터분야데이터,AI입히면막대한수익기대\"",
   "권혁빈'세기의이혼'…사상최대2.5조재산분할",
   "최태원SK회장,재산분할7000억수용…2440억만대법원으로",
   "“환율어디까지내려갈까”…주춤하는달러,살아나는원화[화제의리...",
@@ -6001,7 +5992,16 @@
   "'실적따로주가따로'…반도체소부장·이차전지반등은언제쯤",
   "금리상승기,증권사가꼽은포트폴리오전략",
   "[덕산일렉테라IPO]형따라가는이수완…중복상장도전장",
-  "美금융분석업체\"어플라이드머티리얼즈,대미반도체투자수혜주\""
+  "美금융분석업체\"어플라이드머티리얼즈,대미반도체투자수혜주\"",
+  "[영상]최태원SK회장,울산AI현장점검…\"AI풀스택프로바이더완성...",
+  "코스피,외인·기관3.2조'팔자'에2%대하락…6800선등락",
+  "안동에모인첨단바이오···경북바이오산업미래연다",
+  "\"고맙다,반도체\"…삼성전자‧SK하이닉스자사주매입에코스피7000선'...",
+  "[기업Check!]SK바이오팜,1조베팅2주만에FDA제동…'오파칼림'숨고...",
+  "코스피·코스닥2%대하락...삼성전자4%·SK하이닉스3%대'뚝'",
+  "코스피3%하락,국고채3년연고점…유가·금리치솟자금융시장타격",
+  "[법정24]2조5500억원대9440억원…SK·스마일게이트‘세기의이혼’...",
+  "AI·반도체커질수록물수요도↑…삼성·SK도찾은국제물주간2026"
  ],
  "recent_sigs": [
   [
@@ -6883,9 +6883,17 @@
   [
    "2026-09-11T13:21:07.879483+09:00",
    "대미 반도체 머티리얼즈 투자 금융분석업체 어플라이드 수혜주"
+  ],
+  [
+   "2026-09-11T13:31:09.258081+09:00",
+   "9440억원 이혼 스마일게이트 세기의 2조5500억원"
+  ],
+  [
+   "2026-09-11T13:31:09.258081+09:00",
+   "수요도 반도체 국제물주간 커질수록 SK도 찾은 AI 삼성"
   ]
  ],
- "last_run": "2026-09-11T13:21:27.146978+09:00",
+ "last_run": "2026-09-11T13:31:17.566347+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
