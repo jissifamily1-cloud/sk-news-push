@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newslock.co.kr/news/articleView.html?idxno=135942",
-  "https://www.hankyung.com/article/202609105897g",
-  "https://www.dailian.co.kr/news/view/1688707/?sc=Naver",
-  "http://www.iminju.net/news/articleView.html?idxno=169320",
   "http://www.iminju.net/news/articleView.html?idxno=169322",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699542",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276605",
@@ -2999,13 +2995,13 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1413069",
   "https://www.segye.com/newsView/20260912501438?OutUrl=naver",
   "https://www.cbci.co.kr/news/articleView.html?idxno=606114",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6428"
+  "https://www.moneystorm.kr/news/articleView.html?idxno=6428",
+  "http://www.joseilbo.com/news/news_read.php?uid=575554&class=53",
+  "http://www.jbsori.com/news/articleView.html?idxno=17870",
+  "https://www.news1.kr/local/gwangju-jeonnam/6288075",
+  "https://www.abcn.kr/news/articleView.html?idxno=91714"
  ],
  "seen_titles": [
-  "신한카드,'모두의AI'사업참여…에이전트페이표준규격만든다",
-  "SK하이닉스,성과급현금40%에서50%로확대…15~16일총투표",
-  "AI전력수요커지는데전고체배터리주는약세삼성SDI등장중하락",
-  "SK하이닉스노사,성과급현금비중50%로확대…15~16일총투표",
   "\"성과급현금50%·주식50%\"…SK하닉노사,재투표간다",
   "SK하이닉스노사,성과급현금·주식50대50수정합의안마련",
   "SK하이닉스노사,성과급'현금50%·자사주50%'재합의",
@@ -6001,7 +5997,11 @@
   "용인특례시,제11회백암백중문화제개최",
   "3억원와인부터9만원대한우까지…호텔추석선물,가격도취향도넓어...",
   "코스피7000선하회…삼성전자SK하이닉스등↓KB금융↑",
-  "[뉴욕증시마감시황]유가떨어지자5거래일만에반등…나스닥1%↑,반..."
+  "[뉴욕증시마감시황]유가떨어지자5거래일만에반등…나스닥1%↑,반...",
+  "유가하락에뉴욕증시5일만에반등…델12%·스카이웍스5%↑",
+  "민주당전북도당위원장의'SNS자충수'와'즉흥정치'가우려되는이유",
+  "\"시장도업무간섭안한다\"…100만조회수달성전남광주홍보팀",
+  "[ABC뉴스말말말]\"최태원회장이동거인에게쓴돈1000억넘을것\""
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,21 @@
   [
    "2026-09-12T07:21:10.341258+09:00",
    "만에 5거래일 떨어지자 유가 나스닥 반등"
+  ],
+  [
+   "2026-09-12T07:31:14.541015+09:00",
+   "전북도당위원장의 SNS 정치 민주당 이유 우려되는 즉흥 자충수"
+  ],
+  [
+   "2026-09-12T07:31:14.541015+09:00",
+   "조회수 홍보팀 전남광주 한다 간섭 100만 시장도 달성 업무"
+  ],
+  [
+   "2026-09-12T07:31:14.541015+09:00",
+   "회장이 넘을 동거인에게 최태원 1000억"
   ]
  ],
- "last_run": "2026-09-12T07:21:16.832009+09:00",
+ "last_run": "2026-09-12T07:31:25.387962+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
