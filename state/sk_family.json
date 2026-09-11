@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/30/2026083090074.html",
-  "https://www.m-i.kr/news/articleView.html?idxno=1407609",
-  "https://biz.sbs.co.kr/article_hub/20000331585?division=NAVER",
-  "https://www.dt.co.kr/article/12080972",
-  "https://www.mt.co.kr/industry/2026/08/30/2026083015554658072",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215770",
   "https://www.dongponews.net/news/articleView.html?idxno=60186",
   "https://www.yna.co.kr/view/AKR20260830018451003?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://www.econovill.com/news/articleView.html?idxno=750075",
   "https://biz.heraldcorp.com/article/10870220",
   "https://www.cnbnews.com/news/articleView.html?idxno=1015359",
-  "https://www.cfnews.kr/news/article.html?no=111947"
+  "https://www.cfnews.kr/news/article.html?no=111947",
+  "https://www.newsis.com/view/NISX20260911_0003785593",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169935",
+  "http://www.queen.co.kr/news/articleView.html?idxno=463191",
+  "https://www.handmk.com/news/articleView.html?idxno=43076",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1405161"
  ],
  "seen_titles": [
-  "최태원\"한일경제공동체만들어야…청년일자리·저출산해법\"",
-  "최태원\"청년들한·일오가며취업…경력도서로인정해야\"",
-  "최태원\"韓·日경제공동체만들어야\"…저출산공동대응",
-  "한국청년10명중8명'결혼하고싶다'…그런데왜못하나",
-  "최태원“日오가며일할수있으면,청년실업·저출산해소”",
   "최태원\"한일경제합쳐'안정적소득'↑\"…양국경제계,저출생공동대...",
   "최태원\"청년들,한·일오가며일하게하자…경제공동체로저출산돌파...",
   "\"결혼하고싶다\"韓81%·日58%…한일청년'온도차'",
@@ -6001,7 +5996,12 @@
   "[진격의K방산,글로벌경쟁의날개를달아라⑦]\"신한부터SK하이닉스,...",
   "“최태원,동거인에1000억원넘게썼다”…노소영측변호사‘불기소...",
   "최태원SK그룹회장,SKAI데이터센터울산현장방문",
-  "[법정24]“이혼원치않는다”던권혁빈…법원은왜혼인파탄을인정..."
+  "[법정24]“이혼원치않는다”던권혁빈…법원은왜혼인파탄을인정...",
+  "전남광주25조원'슈퍼금고'조례안본회의통과…논란여전",
+  "최태원SK회장\"AI인프라와제조AX하나로이어져야\"",
+  "최태원SK회장\"AI풀스택전략으로그룹역량결집\"",
+  "최태원SK회장,울산AI·제조현장점검...'AI풀스택'실행속도",
+  "靑,'하태경정책실장설'부인…공석열흘째후임인선향방은?"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-09-11T10:30:21.878241+09:00",
    "SK하이닉스 신한부터"
+  ],
+  [
+   "2026-09-11T10:50:13.344338+09:00",
+   "공석 향방은 후임 부인 인선 열흘째 하태경 정책실장설"
   ]
  ],
- "last_run": "2026-09-11T10:40:25.355235+09:00",
+ "last_run": "2026-09-11T10:50:24.594320+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
