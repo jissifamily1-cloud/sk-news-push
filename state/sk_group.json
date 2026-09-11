@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=91695",
-  "https://view.asiae.co.kr/article/2026091010265472709",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=605528",
   "https://biz.chosun.com/it-science/ict/2026/09/10/AHAAXHAOFBASTPDA52J2YTLL54/",
   "https://magazine.hankyung.com/business/article/202609105965b",
   "https://www.delighti.co.kr/news/articleView.html?idxno=121603",
@@ -2999,12 +2996,12 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16190667",
   "https://www.seoulfn.com/news/articleView.html?idxno=637811",
   "https://www.tokenpost.kr/news/insights/406754",
-  "https://www.betanews.net/article/view/beta202609120001"
+  "https://www.betanews.net/article/view/beta202609120001",
+  "https://www.mydaily.co.kr/page/view/2026091122543742449",
+  "https://www.sedaily.com/article/20090091",
+  "https://www.fnnews.com/news/202609120818045628"
  ],
  "seen_titles": [
-  "SK하이닉스노사,25표차부결임단협잠정합의안마련",
-  "현대엔지니어링,용인열병합발전·신호남복합발전소공사수주",
-  "SK하이닉스노사,수정잠정합의안마련…성과급현금50%·주식50%",
   "SK하이닉스노사,성과급수정잠정합의안마련…‘현금50%·주식50%’...",
   "SK하이닉스노사,성과급수정잠정합의안도출…현금비율50%로상향(...",
   "증권사브랜드평판9월빅데이터분석결과…1위미래에셋증권·2위삼성...",
@@ -6001,7 +5998,10 @@
   "이채영,첫연출영화일본초청…스크린·연출병행근황",
   "[뉴욕증시]금리인상?예견,유가하락에반등···SOXL5%↑·델12%↑",
   "[온체인주식선물]SK하이닉스,정규장종가보다2.89%웃돈",
-  "아이폰듀오가격이509만원…‘500만원시대’만든메모리폭등의배..."
+  "아이폰듀오가격이509만원…‘500만원시대’만든메모리폭등의배...",
+  "'9위팀초대박'5억에韓역대2위투수품다니…폰세-페디제친외인,...",
+  "친구통장엔690만원쌓였는데나는‘0원’…20대빈부격차더심해진...",
+  "답답한박스권증시…잠시맡겨이자받는ETF에일주일새1.5조원"
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,17 @@
   [
    "2026-09-12T08:41:01.576560+09:00",
    "메모리 500만원 듀오 시대 만든 아이폰 가격이 509만원 폭등의"
+  ],
+  [
+   "2026-09-12T08:51:40.395938+09:00",
+   "0원 20대 나는 친구 쌓였는데 690만원 빈부 심해진 통장엔 격차"
+  ],
+  [
+   "2026-09-12T08:51:40.395938+09:00",
+   "ETF에 이자 증시 5조원 답답한 받는 박스권 잠시 맡겨 일주일"
   ]
  ],
- "last_run": "2026-09-12T08:41:11.027491+09:00",
+ "last_run": "2026-09-12T08:51:49.554321+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
