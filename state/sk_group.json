@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746497&plink=ORI&cooper=NAVER",
-  "https://www.asiatime.co.kr/article/20260910500099",
-  "https://www.yna.co.kr/view/AKR20260910049500003?input=1195m",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/10/2026091000094.html",
   "https://www.inthenews.co.kr/news/article.html?no=91695",
   "https://view.asiae.co.kr/article/2026091010265472709",
   "https://www.cbci.co.kr/news/articleView.html?idxno=605528",
@@ -2999,13 +2995,13 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061390",
   "https://www.etoday.co.kr/news/view/2624710",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171207",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434554"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434554",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16190667",
+  "https://www.seoulfn.com/news/articleView.html?idxno=637811",
+  "https://www.tokenpost.kr/news/insights/406754",
+  "https://www.betanews.net/article/view/beta202609120001"
  ],
  "seen_titles": [
-  "[금융권이모저모]신한카드,SK텔레콤과'AI결제'표준구축外",
-  "SK하이닉스노사,성과급주식·현금선택권강화…새임단협합의안내...",
-  "코스피,장중6900선까지밀려…외국인·기관동반매도[장중시황]",
-  "\"조단위이혼소송끝판왕\"…권혁빈2.5조재산분할뜯어보니[스프]",
   "SK하이닉스노사,25표차부결임단협잠정합의안마련",
   "현대엔지니어링,용인열병합발전·신호남복합발전소공사수주",
   "SK하이닉스노사,수정잠정합의안마련…성과급현금50%·주식50%",
@@ -6001,7 +5997,11 @@
   "[분양현장]걸어서의왕역10분·초등학교5분…'의왕역한신더휴'",
   "방향잃은증시…파킹형ETF로투자금이동",
   "다음주증시...유가향방·美FOMC가최대변수?",
-  "\"AI도입빠른韓,생산국수혜까지…성장기회커진다\""
+  "\"AI도입빠른韓,생산국수혜까지…성장기회커진다\"",
+  "이채영,첫연출영화일본초청…스크린·연출병행근황",
+  "[뉴욕증시]금리인상?예견,유가하락에반등···SOXL5%↑·델12%↑",
+  "[온체인주식선물]SK하이닉스,정규장종가보다2.89%웃돈",
+  "아이폰듀오가격이509만원…‘500만원시대’만든메모리폭등의배..."
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,17 @@
   [
    "2026-09-12T08:31:09.045519+09:00",
    "AI 기회 커진다 수혜까지 생산국 성장 도입 빠른"
+  ],
+  [
+   "2026-09-12T08:41:01.576560+09:00",
+   "SK하이닉스 종가보다 웃돈 정규장"
+  ],
+  [
+   "2026-09-12T08:41:01.576560+09:00",
+   "메모리 500만원 듀오 시대 만든 아이폰 가격이 509만원 폭등의"
   ]
  ],
- "last_run": "2026-09-12T08:31:14.669979+09:00",
+ "last_run": "2026-09-12T08:41:11.027491+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
