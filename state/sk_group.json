@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4105750",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=605517",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=908764",
   "https://www.hani.co.kr/arti/economy/finance/1276786.html",
   "https://economist.co.kr/article/view/ecn202609100022",
@@ -2999,11 +2997,11 @@
   "https://www.abcn.kr/news/articleView.html?idxno=91714",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486350",
   "https://view.asiae.co.kr/article/2026091207462145206",
-  "https://www.hankyung.com/article/2026091200327"
+  "https://www.hankyung.com/article/2026091200327",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16190637",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486353"
  ],
  "seen_titles": [
-  "정재헌SKT대표,'GSMAM360'서AI풀스택전략공유",
-  "'AX대전환'선언3개월...최태원SK회장,울산현장경영점검",
   "SKhynixADRSurges7%toPost-ListingHigh",
   "[충북은,지금]\"충북5극3특성장엔진통해반도체·자동차·이차전지...",
   "양자컴퓨팅관련주장중희비우리로4%대상승포톤도강세",
@@ -6001,7 +5999,9 @@
   "[ABC뉴스말말말]\"최태원회장이동거인에게쓴돈1000억넘을것\"",
   "[주간거래소기관]삼성전자SK하이닉스한미반도체두산에너빌리티'...",
   "[에너지오디세이]②46년석유비축패러다임전환…'정적비축'서'동적...",
-  "\"-50%에서-27%됐다\"…SK하닉280층에들어간서동주근황"
+  "\"-50%에서-27%됐다\"…SK하닉280층에들어간서동주근황",
+  "미국증시,유가3%가까이반락에안도…금리뛰어도나스닥0.96%↑",
+  "[주간거래소외국인]SK스퀘어대한항공SK이노베이션현대모비스에꽂..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-09-12T07:51:44.405896+09:00",
    "들어간 서동주 280층에 에서 됐다 SK하닉 근황"
+  ],
+  [
+   "2026-09-12T08:01:20.249440+09:00",
+   "현대모비스에 SK스퀘어 대한항공 SK이노베이션"
   ]
  ],
- "last_run": "2026-09-12T07:51:52.802943+09:00",
+ "last_run": "2026-09-12T08:01:26.957594+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
