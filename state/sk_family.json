@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jbnews.com/news/articleView.html?idxno=1510449",
-  "https://www.dt.co.kr/article/12081061",
   "https://www.joongangenews.com/news/articleView.html?idxno=543972",
   "https://www.mt.co.kr/industry/2026/08/31/2026083109123133490",
   "https://www.dailian.co.kr/news/view/1684325/?sc=Naver",
@@ -2999,11 +2997,11 @@
   "http://www.joseilbo.com/news/news_read.php?uid=575548&class=33",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190215.html",
   "https://www.edaily.co.kr/News/Read?newsId=05392326645579136&mediaCodeNo=257",
-  "https://www.mbceg.co.kr/post/140091"
+  "https://www.mbceg.co.kr/post/140091",
+  "http://www.4th.kr/news/articleView.html?idxno=2117920",
+  "https://www.ubc.co.kr/news/28023/"
  ],
  "seen_titles": [
-  "최태원\"한일강점연결해더큰시장만들자\"미래산업경제연대속도",
-  "한국무협충북본부'할랄인증제도대응전략세미나'개최",
   "한일상의“양국지역강점이어더큰시장만들어야”",
   "최태원,한일'경제공동체'밑그림키운다…반도체·AI·에너지까지협...",
   "한일상의회장단,미래산업·공급망협력강화'공동성명'채택",
@@ -6001,7 +5999,9 @@
   "‘300억비자금’국고환수되나…검찰,노소영참고인소환통보",
   "9월11일'뉴스9'예고",
   "‘노태우비자금은닉’수사…검찰,노소영에참고인소환통보",
-  "고립된이들을다시사회로..사회적처방효과입증"
+  "고립된이들을다시사회로..사회적처방효과입증",
+  "검찰,노소영소환일정조율…'선경300억'노태우비자금실체캔다",
+  "울산,'피지컬AI'표준화선도한다"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-09-11T18:20:14.668137+09:00",
    "신공항 지역차별 반도체 되나 구자근 송언석 TK는"
+  ],
+  [
+   "2026-09-11T21:00:30.458086+09:00",
+   "울산 선도한다 표준화 AI 피지컬"
   ]
  ],
- "last_run": "2026-09-11T20:50:22.332175+09:00",
+ "last_run": "2026-09-11T21:00:43.588765+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6393,6 +6397,7 @@
   "idaegu.com": "대구일보",
   "kdpress.co.kr": "데일리경제",
   "thepowernews.co.kr": "더파워",
-  "niceeconomy.co.kr": "나이스경제"
+  "niceeconomy.co.kr": "나이스경제",
+  "ubc.co.kr": "ubc.co.kr"
  }
 }
