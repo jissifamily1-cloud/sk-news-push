@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260903085000002?input=1195m",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8653788",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637144",
-  "https://www.chosun.com/national/incident/2026/09/03/RWS6W6ZTMNBYHIPW3QXRQ4DYHQ/",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008736019&plink=ORI&cooper=NAVER",
   "https://www.gukjenews.com/news/articleView.html?idxno=3683621",
   "https://www.news1.kr/society/incident-accident/6278254",
   "https://www.ytn.co.kr/_ln/0103_202609031208265178",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260911048500002?input=1195m",
   "https://www.newdaily.co.kr/site/data/html/2026/09/11/2026091100187.html",
   "https://www.ppss.kr/news/articleView.html?idxno=310176",
-  "https://www.nocutnews.co.kr/news/6576839"
+  "https://www.nocutnews.co.kr/news/6576839",
+  "http://www.inews24.com/view/2004680",
+  "https://magazine.hankyung.com/business/article/202609119055b",
+  "https://www.newspim.com/news/view/20260911000845",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1568496",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661188"
  ],
  "seen_titles": [
-  "삼성주식지급약정317건…총수있는기업집단중최다",
-  "한화·웅진·유진등대기업집단,총수2세에주식지급약정",
-  "일진글로벌·대명화학·부영,총수지분20%이상···이동섭회장51.6...",
-  "경찰,‘1500억원대부당이득’방시혁하이브의장송치",
-  "'자본시장법위반'방시혁결국불구속송치…20개월만",
   "'상장없다'속여2631억원부당이득...방시혁불구속송치",
   "[일지]'2631억부당이득'방시혁불구속송치까지1년9개월",
   "경찰,'사기적부정거래'혐의방시혁불구속송치",
@@ -6001,7 +5996,12 @@
   "[게시판]공정위-한국하도급법학회공동학술대회",
   "민주최고위원박선원,'김승원의혹'제보자공개…한동훈\"공익신고...",
   "'그것이알고싶다'수술실실태조명,태아시신방치부터비밀장부의...",
-  "6.3지방선거여론조사조작됐나?…경찰,전북지역강제수사"
+  "6.3지방선거여론조사조작됐나?…경찰,전북지역강제수사",
+  "\"10%도충분\"vs\"30%는돼야\"…점주단체등록기준'충돌'",
+  "공정위-가맹본부,점주단체등록놓고신경전",
+  "한성숙총리\"대미투자,상업적합리성지키며양국실질이익이돼야...",
+  "지방선거여론조사조작의혹…경찰,관련자압수수색",
+  "전북에서‘지방선거여론조사조작’의혹…경찰,압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "기업 않는다 쿠팡 반박 로비 차별 하지 워싱턴"
   ]
  ],
- "last_run": "2026-09-11T14:40:53.215898+09:00",
+ "last_run": "2026-09-11T14:50:52.006941+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
