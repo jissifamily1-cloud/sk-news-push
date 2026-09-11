@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699542",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276605",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4105750",
   "https://www.cbci.co.kr/news/articleView.html?idxno=605517",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=908764",
@@ -2999,11 +2997,11 @@
   "http://www.jbsori.com/news/articleView.html?idxno=17870",
   "https://www.news1.kr/local/gwangju-jeonnam/6288075",
   "https://www.abcn.kr/news/articleView.html?idxno=91714",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486350"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486350",
+  "https://view.asiae.co.kr/article/2026091207462145206",
+  "https://www.hankyung.com/article/2026091200327"
  ],
  "seen_titles": [
-  "SK하이닉스노사,성과급현금·주식50대50수정합의안마련",
-  "SK하이닉스노사,성과급'현금50%·자사주50%'재합의",
   "정재헌SKT대표,'GSMAM360'서AI풀스택전략공유",
   "'AX대전환'선언3개월...최태원SK회장,울산현장경영점검",
   "SKhynixADRSurges7%toPost-ListingHigh",
@@ -6001,7 +5999,9 @@
   "민주당전북도당위원장의'SNS자충수'와'즉흥정치'가우려되는이유",
   "\"시장도업무간섭안한다\"…100만조회수달성전남광주홍보팀",
   "[ABC뉴스말말말]\"최태원회장이동거인에게쓴돈1000억넘을것\"",
-  "[주간거래소기관]삼성전자SK하이닉스한미반도체두산에너빌리티'..."
+  "[주간거래소기관]삼성전자SK하이닉스한미반도체두산에너빌리티'...",
+  "[에너지오디세이]②46년석유비축패러다임전환…'정적비축'서'동적...",
+  "\"-50%에서-27%됐다\"…SK하닉280층에들어간서동주근황"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,17 @@
   [
    "2026-09-12T07:41:00.347147+09:00",
    "삼성전자 한미반도체 SK하이닉스 두산에너빌리티"
+  ],
+  [
+   "2026-09-12T07:51:44.405896+09:00",
+   "석유비축 46년 비축 정적 동적 패러다임"
+  ],
+  [
+   "2026-09-12T07:51:44.405896+09:00",
+   "들어간 서동주 280층에 에서 됐다 SK하닉 근황"
   ]
  ],
- "last_run": "2026-09-12T07:41:06.638235+09:00",
+ "last_run": "2026-09-12T07:51:52.802943+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
