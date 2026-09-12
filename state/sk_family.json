@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=63616",
-  "https://kpenews.com/View.aspx?No=4206019",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608310188&t=NNv",
   "https://www.mk.co.kr/article/12140366",
   "https://www.etoday.co.kr/news/view/2620001",
   "https://www.yna.co.kr/view/AKR20260831118600009?input=1195m",
@@ -2999,12 +2996,12 @@
   "https://www.fnnews.com/news/202609130755399799",
   "https://www.yna.co.kr/view/AKR20260912036600003?input=1195m",
   "https://www.yna.co.kr/view/AKR20260912034700003?input=1195m",
-  "https://www.newsis.com/view/NISX20260911_0003786500"
+  "https://www.newsis.com/view/NISX20260911_0003786500",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444230",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=864645",
+  "https://www.hankyung.com/article/2026091307217"
  ],
  "seen_titles": [
-  "최태원\"한일,서로의시장넓혀주는파트너될수있어\"",
-  "최태원\"한일,서로시장넓혀줄파트너\"…AI·공급망·에너지'동행'제...",
-  "‘필요하면세운다’재확인..SK하이닉스,대미투자더키우나",
   "ESS활황에CATL러브콜…삼아알미늄\"9월증설결정\"",
   "한일상의회장단회의“한·일산업생태계함께만들어야”",
   "日미야기현,SK하이닉스공장유치총력⋯30만㎡부지제안",
@@ -6001,7 +5998,10 @@
   "최태원\"울산AI데이터센터900MW확대상당히진척…곧발표가능\"",
   "최태원\"울산,제조AX·시민행복·예술아우른AI도시로\"",
   "최태원\"AI,비즈니스모델로이익내는지속가능구조로가야\"",
-  "[현장]최태원SK회장\"AI도결국수익성…투자·사업선순환구조갖춰..."
+  "[현장]최태원SK회장\"AI도결국수익성…투자·사업선순환구조갖춰...",
+  "최태원SK회장\"미래울산은'AI시티'…제조AI·시민행복·예술아울러...",
+  "최태원\"울산,제조AI·시민서비스·예술결합도시로\"",
+  "\"국회의원아니었으면몰빵\"…이준석이콕집은'이종목'"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-09-13T08:12:50.181575+09:00",
    "SK회장 갖춰 결국 AI도 사업 선순환 수익성 구조 투자"
+  ],
+  [
+   "2026-09-13T08:30:27.144152+09:00",
+   "종목 이준석이 몰빵 집은 아니었으면 국회의원"
   ]
  ],
- "last_run": "2026-09-13T08:20:25.016578+09:00",
+ "last_run": "2026-09-13T08:30:38.390340+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
