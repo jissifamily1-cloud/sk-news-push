@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202609100035",
-  "http://www.sisacast.kr/news/articleView.html?idxno=99860",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169857",
-  "http://www.press9.kr/news/articleView.html?idxno=82523",
-  "http://www.press9.kr/news/articleView.html?idxno=82522",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260910010003932",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1723758",
   "https://www.ajunews.com/view/20260910112852603",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260912042851007?input=1195m",
   "https://www.newsis.com/view/NISX20260912_0003786940",
   "https://www.kukinews.com/article/view/kuk202609120034",
-  "https://www.ikbc.co.kr/article/view/kbc202609120033"
+  "https://www.ikbc.co.kr/article/view/kbc202609120033",
+  "https://www.news1.kr/sports/soccer/6288537",
+  "https://www.newspim.com/news/view/20260912000137",
+  "https://www.dailian.co.kr/news/view/1689616/?sc=Naver",
+  "https://www.edaily.co.kr/News/Read?newsId=02624006645579464&mediaCodeNo=257",
+  "https://www.edaily.co.kr/News/Read?newsId=02620726645579464&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "정재헌SKTCEO,아시아통신리더들과'AI연대'",
-  "[특징주]SK가스,울산GPS이익확대전망에4%대상승",
-  "'AI네이티브'체질개선나선SK스퀘어…사내에이전트·지식허브구...",
-  "[오늘의삼전닉스]SK하이닉스본주와ADR의엇박자에뼈아픈하루",
-  "최태원,SK그룹AX현장경영...울산AI데이터센터·울산CLX방문",
   "SK하이닉스노사,성과급현금50%·주식50%수정합의",
   "SK,영업이익14배전망…순차입금은6.6조↓",
   "롯데지주,집중투표제의무화…소수주주영향력확대",
@@ -6001,7 +5996,12 @@
   "이동경,두시즌연속'10-10'새역사…울산,인천에2-1승리(종합2보...",
   "서울,클리말라멀티골'극장승'…울산이동경2년연속'10-10'(종합2보)",
   "[통하는충남]공주서펼쳐진피크타임페스티벌‘대성황’",
-  "\"반도체팹인재육성'속도'\"...기업참여여부'관건'"
+  "\"반도체팹인재육성'속도'\"...기업참여여부'관건'",
+  "'클리말라멀티골'서울,전북에2-1극적승리…선두질주(종합)",
+  "[프로축구]FC서울,'득점2위'클리말라앞세워전북제압…울산이동...",
+  "‘K리그새역사’이동경…2년연속10골-10도움",
+  "[포토]김재희,출발전필수에너지를먹는다",
+  "[포토]김재희,시원하게하품하기"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,17 @@
   [
    "2026-09-12T21:31:12.657889+09:00",
    "반도체 여부 관건 기업 인재 육성 참여 속도"
+  ],
+  [
+   "2026-09-12T21:41:03.275374+09:00",
+   "김재희 에너지를 필수 먹는다 출발"
+  ],
+  [
+   "2026-09-12T21:41:03.275374+09:00",
+   "하품하기 김재희 시원하게"
   ]
  ],
- "last_run": "2026-09-12T21:31:19.311589+09:00",
+ "last_run": "2026-09-12T21:41:12.961079+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
