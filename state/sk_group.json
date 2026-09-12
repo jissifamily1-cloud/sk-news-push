@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://kpenews.com/View.aspx?No=4221220",
   "https://www.techm.kr/news/articleView.html?idxno=155106",
   "https://www.busan.com/view/busan/view.php?code=2026091012450124633",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034257",
@@ -2999,10 +2998,10 @@
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=226257",
   "http://www.beyondpost.co.kr/view.php?ud=2026091306424183324c878f8fa1_30",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169971",
-  "https://www.edaily.co.kr/News/Read?newsId=01134886645579792&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01134886645579792&mediaCodeNo=257",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434569"
  ],
  "seen_titles": [
-  "반도체몰리고,SKY의대는주춤…\"안정지원\"",
   "SK하이닉스노사,성과급현금40%서50%로확대",
   "SKhynixSaves170,000TonsofWaterDaily",
   "[기자수첩]‘주의하세요’로못막는신종피싱..피해자탓을멈춰라",
@@ -6001,7 +6000,8 @@
   "(이번주법조일정)9월14일~9월19일",
   "이상일용인시장,“용인반도체에1600조투자전망…천지개벽할것”",
   "설계·공정부터팹까지…삼성·SK,반도체생태계'AI대전환'",
-  "‘농심3세’신상열부사장오늘결혼…SKT평사원과백년가약"
+  "‘농심3세’신상열부사장오늘결혼…SKT평사원과백년가약",
+  "중동發고유가에인플레경계감높인정부…2%대물가사수'험로'"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,13 @@
   [
    "2026-09-13T07:21:06.269048+09:00",
    "부사장 SKT 결혼 평사원과 백년가약 농심 3세 신상열"
+  ],
+  [
+   "2026-09-13T07:31:28.922689+09:00",
+   "정부 경계감 사수 물가 고유가에 인플레 중동 험로 높인"
   ]
  ],
- "last_run": "2026-09-13T07:21:11.771516+09:00",
+ "last_run": "2026-09-13T07:31:35.403905+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
