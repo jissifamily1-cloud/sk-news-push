@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.huffingtonpost.kr/article/260343",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723749",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=763523",
   "https://www.getnews.co.kr/news/articleView.html?idxno=880390",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2468970",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2468956",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/News/Read?newsId=01987686645579464&mediaCodeNo=257",
   "https://www.sedaily.com/article/20090118",
   "https://www.mk.co.kr/article/12151044",
-  "http://www.metroseoul.co.kr/article/20260912500014"
+  "http://www.metroseoul.co.kr/article/20260912500014",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97753",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034450",
+  "https://www.etnews.com/20260912000014"
  ],
  "seen_titles": [
-  "반도체호황이수시에도?…반도체계약학과지원늘고의대줄어",
-  "SKT,국제통신업계와AI성장전략·디지털신뢰협력강화",
-  "하나카드,'말하면결제하는'AI만든다…에이전트페이개발",
   "SK그룹최태원'울산AI데이터센터건설'직접챙긴다,울산포럼앞두...",
   "SK하이닉스,3조원채권투자재개전망…6곳운용사위탁거론",
   "최태원SK그룹회장,울산서'AI풀스택프로바이더'실행현장직접살...",
@@ -6001,7 +5998,10 @@
   "대단지둘러싸인'숲세권'…강북솔샘역인근8억대아파트가보니[랜선...",
   "삼성SDS로봇파트너사어딘가봤더니…손·데이터전문",
   "안전벨트매고레버리지로가속페달…‘양면베팅’으로갈아탄서학개...",
-  "아이폰18사전예약시작…통신3사,서비스경쟁총력전"
+  "아이폰18사전예약시작…통신3사,서비스경쟁총력전",
+  "네게바공백?최병욱과치나리가달린다!제주,부천원정서순위상승...",
+  "김윤국회의원,정부에'이천반도체클러스터'지정요청",
+  "[2026ACEFair]'가족나들이·비즈니스의장(場)'대만족…“올해도흥..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,21 @@
   [
    "2026-09-12T13:11:02.663282+09:00",
    "매고 베팅 서학개 가속페달 으로 레버리지로 안전벨트 양면 갈아탄"
+  ],
+  [
+   "2026-09-12T13:51:14.175884+09:00",
+   "공백 치나리가 달린다 순위 제주 네게바 최병욱과 상승 부천 원정서"
+  ],
+  [
+   "2026-09-12T13:51:14.175884+09:00",
+   "이천 정부에 반도체클러스터 김윤 요청 지정 국회의원"
+  ],
+  [
+   "2026-09-12T13:51:14.175884+09:00",
+   "가족 대만족 올해도 비즈니스의 나들이"
   ]
  ],
- "last_run": "2026-09-12T13:41:07.256502+09:00",
+ "last_run": "2026-09-12T13:51:25.855928+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
