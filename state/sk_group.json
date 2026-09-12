@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485729",
-  "https://zdnet.co.kr/view/?no=20260910085407",
-  "http://www.hellodd.com/news/articleView.html?idxno=113128",
-  "https://www.hani.co.kr/arti/culture/culture_general/1276795.html",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4105350",
-  "https://www.sidae.com/article/2026091010465434333",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=266641",
   "http://www.seouleconews.com/news/articleView.html?idxno=93651",
   "http://www.issuenbiz.com/news/articleView.html?idxno=79645",
@@ -2999,15 +2993,15 @@
   "https://www.sedaily.com/article/20090098",
   "https://www.sedaily.com/article/20090096",
   "https://www.sedaily.com/article/20090102",
-  "https://www.sedaily.com/article/20090100"
+  "https://www.sedaily.com/article/20090100",
+  "http://www.newsprime.co.kr/news/article.html?no=747477",
+  "http://www.kjdaily.com/article.php?aid=1789175408686642227",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318376",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318391",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318388",
+  "https://news.mtn.co.kr/news-detail/2026091015195482115"
  ],
  "seen_titles": [
-  "[패트롤]경북도-경북도의회-경북교육청-한국국학진흥원",
-  "충북보건과학대학교,AI·취업·평생교육으로미래를잇다",
-  "55만명쓸물매일아껴…SK하이닉스‘물순환’승부수",
-  "K-배터리이어반도체까지…피아이이,AI검사기술로영토확장",
-  "'모두의AI'결과이후…AI결제생태계만들어진다",
-  "[조간브리핑]체스두고주차까지···AI가'나는로봇아닙니다'48단...",
   "슈뢰더·재닛옐런·최태원…EBS‘위대한수업’정부지원다시받는...",
   "대한건설협회,전남도회와광주시회통합추진본격화",
   "SK하이닉스노사,성과급'현금50%·주식50%'지급재합의",
@@ -6001,7 +5995,13 @@
   "“3년물4%·유가100달러·환율1345원…‘3高트리플쇼크’현실화”",
   "“반도체계약학과28대1”5992명몰린취업보장전쟁",
   "엔화강세에日기업비상…도요타,환율1엔오르면영업익4353억감소",
-  "MMF서19조빠졌다…증시로이동하는‘대기자금’"
+  "MMF서19조빠졌다…증시로이동하는‘대기자금’",
+  "[해외시황]뉴욕증시,유가하락·CPI안도에5거래일만에'반등'…나스...",
+  "[이번주증시]삼성전자·SK하이닉스58조거래",
+  "정재헌SKTCEO,'GSMAM360아세안'참석…AI시대성장전략논의",
+  "SK하이닉스,지난해하루물17만톤아꼈다…\"2030년까지6억톤감축\"",
+  "ADT캡스,소상공인500곳에AICCTV·키오스크등디지털솔루션지원",
+  "이주완박사\"감산이D램가격올려…증산땐가격하락할것\"[경제일타..."
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,21 @@
   [
    "2026-09-12T10:11:03.502438+09:00",
    "19조 대기자금 이동하는 MMF서 증시로 빠졌다"
+  ],
+  [
+   "2026-09-12T10:21:01.199422+09:00",
+   "하루 SK하이닉스 지난해 아꼈다 2030년까지 감축 17만톤 6억톤"
+  ],
+  [
+   "2026-09-12T10:21:01.199422+09:00",
+   "500곳에 ADT캡스 키오스크 지원 솔루션 CCTV 소상공인 AI 디지털"
+  ],
+  [
+   "2026-09-12T10:21:01.199422+09:00",
+   "박사 이주완 가격 감산이 증산 하락할 올려 경제일타 D램"
   ]
  ],
- "last_run": "2026-09-12T10:11:25.153354+09:00",
+ "last_run": "2026-09-12T10:21:11.609413+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
