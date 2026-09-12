@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1686154/?sc=Naver",
-  "https://www.viva100.com/article/20260903501383",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50236",
   "http://www.newstomato.com/ReadNews.aspx?no=1312431&inflow=N",
   "https://www.imaeil.com/page/view/2026090317020000722",
   "https://www.tjb.co.kr/news05/bodo/view/id/103172",
@@ -2999,12 +2996,12 @@
   "https://www.chosun.com/politics/assembly/2026/09/03/EITUVE4IBNF2TDKPBLTM3LNT5Y/",
   "https://www.nocutnews.co.kr/news/6577151",
   "https://www.nocutnews.co.kr/news/6577158",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/518070"
+  "http://enews.imbc.com/News/RetrieveNewsInfo/518070",
+  "https://www.news1.kr/politics/assembly/6288004",
+  "https://www.news1.kr/local/gwangju-jeonnam/6287564",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100105.html"
  ],
  "seen_titles": [
-  "개정형사소송법시행한달앞으로…전문성강화나선특별사법경찰",
-  "노동자3명숨진천안공장화재·폭발…노동부·경찰압수수색",
-  "[기자수첩]경찰에게도'혼자산다'말하기두려운사회",
   "'재판거래의혹'현직부장판사…압수수색·증거개시놓고공방",
   "대구서구,고액체납자가택수색후명품가방압수",
   "'5명사상'천안대원산업공장압수수색..관계자3명입건",
@@ -6001,10 +5998,18 @@
   "이태원참사특조위연장법안국회통과",
   "DRI부터수소환원제철까지,철강의미래'그린철강'대해부[기후로운...",
   "한동훈·김승원·용혜인사건줄줄이…영등포서,정치권수사'각축장'",
-  "‘그알’사산아인가,태아살인인가?고주차산모임신중절실태"
+  "‘그알’사산아인가,태아살인인가?고주차산모임신중절실태",
+  "방사청\"한화,KAI이사회진입땐경쟁제한성검토할것\"",
+  "'장윤기사건'기밀흘리고父증거은닉도운경찰2명첫재판",
+  "제주서렌터카'과도한할인'제동…롯데렌탈·SK렌터카,출혈경쟁끝..."
  ],
- "recent_sigs": [],
- "last_run": "2026-09-13T06:01:34.773605+09:00",
+ "recent_sigs": [
+  [
+   "2026-09-13T06:10:50.328250+09:00",
+   "제동 출혈경쟁 제주서 SK렌터카 과도한 롯데렌탈 렌터카 할인"
+  ]
+ ],
+ "last_run": "2026-09-13T06:10:56.769102+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
