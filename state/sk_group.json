@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2117790",
-  "https://www.sisaweek.com/news/articleView.html?idxno=237815",
-  "https://www.kpinews.kr/newsView/1065578658198578",
-  "https://www.mbceg.co.kr/post/140038",
-  "https://biz.sbs.co.kr/article_hub/20000333870?division=NAVER",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609091408316330290",
-  "https://www.electimes.com/news/articleView.html?idxno=372256",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=135174",
   "https://biz.heraldcorp.com/article/10869054",
   "https://www.nc.press/news/articleView.html?idxno=626017",
   "https://news.tf.co.kr/read/economy/2363459.htm",
@@ -2999,17 +2991,17 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486426",
   "https://www.g-enews.com/view.php?ud=2026091218393429150c8c1c064d_1",
   "https://kpenews.com/View.aspx?No=4221162",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89816"
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89816",
+  "https://m.sports.naver.com/basketball/article/065/0000301521",
+  "http://www.osen.co.kr/article/G1112874502",
+  "https://www.sportsseoul.com/news/read/1634593",
+  "https://www.besteleven.com/news/articleView.html?idxno=312147",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598926",
+  "https://www.mk.co.kr/article/12151125",
+  "https://www.besteleven.com/news/articleView.html?idxno=312146",
+  "https://www.newsis.com/view/NISX20260912_0003786880"
  ],
  "seen_titles": [
-  "현대엔지니어링주우정에너지사업확대전략통했다,2.4조용인·신호...",
-  "SKT정재헌CEO,GSMAM360아세안참석",
-  "SK하이닉스ADR,200弗눈앞…상장두달만에최고가찍었다",
-  "삼성자산운용,리츠ETF분배금확대..하나증권빌딩매각익반영",
-  "스마일게이트지배구조향방은?",
-  "[노성열의AI경제]중국'SMR굴기'맞설한국의승부수…원전제조의T...",
-  "강원FC,강릉홈에서전북과무승부4경기연속무패",
-  "쿠팡·SKT급유출또나면…과징금'매출10%'",
   "용인반도체산단용수설계·CM수주전윤곽",
   "신호남복합,현대엔지니어링품에…두산과EPC'장군멍군'",
   "SK브로드밴드,Btv가입자대상KBO포스트시즌티켓추첨…최대130매",
@@ -6001,7 +5993,15 @@
   "전기차부진에도CNT가웃었다…나노신소재2027년더뜨거워진다",
   "헝가리당국,\"이반차55개우물전수조사서'SK온배터리유해용매'미...",
   "SK스퀘어,사업모델빠르게혁신..‘AI네이티브’투자회사로본격부...",
-  "SK스퀘어,'AI네이티브'가속…\"AI로사업모델큰전환점만들겠다\""
+  "SK스퀘어,'AI네이티브'가속…\"AI로사업모델큰전환점만들겠다\"",
+  "강남구청장배준우승!넥스트레벨U11의의미있는출발",
+  "'도발세리머니논란'아이아스에이영민부천감독,\"내선수였다면혼...",
+  "클리말라추가시간5분극장골폭발…서울,전북2-1잡고독주굳히기...",
+  "[B11현장]제주감독과는다른반응→\"조롱으로받아들일수도\",부천...",
+  "'부천전무승부'세르지우코스타감독\"어려운경기...승리자있었다면...",
+  "‘세리머니후격한신경전’제주코스타감독,아이아스에대해“축...",
+  "[B11현장]아이아스의공격적셀레브레이션?제주코스타감독,\"항상...",
+  "K리그1선두서울,전북상대극장승…울산은인천격파(종합)"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,13 @@
   [
    "2026-09-12T18:51:06.176165+09:00",
    "55개 이반차 우물 유해 전수조사서 헝가리 배터리 SK온 당국 용매"
+  ],
+  [
+   "2026-09-12T19:11:02.179995+09:00",
+   "서울 상대 선두 격파 전북 K리그1 울산은 극장승 인천"
   ]
  ],
- "last_run": "2026-09-12T19:01:24.193922+09:00",
+ "last_run": "2026-09-12T19:11:08.373788+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
