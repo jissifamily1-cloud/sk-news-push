@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260910506281?OutUrl=naver",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101029248040102412",
-  "https://www.fnnews.com/news/202609101045297747",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89074",
   "https://www.thereport.co.kr/news/articleView.html?idxno=91241",
   "http://www.newscape.co.kr/news/articleView.html?idxno=124477",
@@ -2999,12 +2996,12 @@
   "https://www.ddaily.co.kr/page/view/2026091209201364474",
   "https://magazine.hankyung.com/business/article/202609120205b",
   "https://www.joongangenews.com/news/articleView.html?idxno=547725",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16190756"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16190756",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=262231",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=262232",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=157058"
  ],
  "seen_titles": [
-  "호르무즈파병논란,정유·해운·석화원가변수로",
-  "‘93년생동갑’울산강상우·심상민,인고(忍苦)끝포효...‘팬들가...",
-  "동탄중심입지에49층랜드마크…'아크메르동탄'출격",
   "AI진심인최태원…SK의AI역량결집된울산전격점검[리더의나침반...",
   "[더벨][i-point]광무,유비즈솔루션307억에품는다",
   "\"파병하면탄핵\"한정수,정치적발언중단선언\"제자리로돌아갈것\"",
@@ -6001,7 +5998,10 @@
   "반도체타고박스권상단향하는코스피…‘호르무즈파병’암초만났...",
   "삼전직스레버리지에피눈물났는데...‘롤러코스피’이유있었다",
   "9월2주차SK스퀘어주가108만원대마감하락세전환",
-  "9월2주차SK이터닉스주가5만원대등락지속"
+  "9월2주차SK이터닉스주가5만원대등락지속",
+  "거래구조조정한라포랩스,SK스토아최다액출자자변경승인재신청",
+  "SSG닷컴,가을패션·뷰티할인전...'F/W슈퍼위크'개최",
+  "[인사이트]엔비디아는왜경쟁AI칩을자기생태계로끌어들이나"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,17 @@
   [
    "2026-09-12T12:01:21.927601+09:00",
    "2주차 하락세 마감 SK스퀘어 108만원대 9월 주가"
+  ],
+  [
+   "2026-09-12T12:31:14.689909+09:00",
+   "패션 개최 가을 뷰티 할인전 슈퍼위크 SSG닷컴"
+  ],
+  [
+   "2026-09-12T12:31:14.689909+09:00",
+   "칩을 경쟁 엔비디아는 생태계로 자기 끌어들이나 AI"
   ]
  ],
- "last_run": "2026-09-12T12:21:06.646200+09:00",
+ "last_run": "2026-09-12T12:31:23.223308+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
