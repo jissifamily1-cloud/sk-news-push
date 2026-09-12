@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.issuenbiz.com/news/articleView.html?idxno=79645",
-  "http://www.yonhapnewstv.co.kr/news/AKR202609101049280QO",
-  "https://www.yna.co.kr/view/AKR20260910055000002?input=1195m",
-  "https://www.econovill.com/news/articleView.html?idxno=750398",
-  "http://www.beyondpost.co.kr/view.php?ud=202609101041599014be44c0aacd_30",
   "http://www.4th.kr/news/articleView.html?idxno=2117781",
   "https://www.gukjenews.com/news/articleView.html?idxno=3690742",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577329409954",
@@ -2999,14 +2994,14 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=318388",
   "https://news.mtn.co.kr/news-detail/2026091015195482115",
   "https://www.g-enews.com/view.php?ud=202609120940288291fbbec65dfb_1",
-  "https://www.theguru.co.kr/news/article.html?no=107005"
+  "https://www.theguru.co.kr/news/article.html?no=107005",
+  "https://www.ajunews.com/view/20260912102354196",
+  "https://www.yna.co.kr/view/AKR20260911063900017?input=1195m",
+  "https://www.munhwa.com/article/11616467",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434564",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423655"
  ],
  "seen_titles": [
-  "SK하이닉스노사,성과급'현금50%·주식50%'지급재합의",
-  "SK하이닉스,PS현금비중50%로올렸다…임단협재합의안마련",
-  "정재헌SKT대표,아세안서'AI신뢰동맹'…통신산업새성장판모색",
-  "[특징주]국제유가100달러돌파…정유주두자릿수급등",
-  "SK하이닉스,성과급자사주지급비율수정…노조재투표",
   "신한·하나카드,AI결제인프라개발…SKT'모두의AI'컨소시엄",
   "정재헌SKTCEO,아세안서AI성장·디지털신뢰협력넓힌다",
   "신한카드,SKT와맞손…차세대'AI결제'표준수립나선다",
@@ -6001,7 +5996,12 @@
   "ADT캡스,소상공인500곳에AICCTV·키오스크등디지털솔루션지원",
   "이주완박사\"감산이D램가격올려…증산땐가격하락할것\"[경제일타...",
   "오픈AI·구글맞춤칩올라탄브로드컴…팹리스판도뒤흔들다",
-  "[통신리뷰]SKT,글로벌무대서AI성장전략·디지털신뢰협력강화..."
+  "[통신리뷰]SKT,글로벌무대서AI성장전략·디지털신뢰협력강화...",
+  "[2027수시]논술로몰린N수생,반도체는'역대최고'…전형·대학별양...",
+  "[바이오사이언스]K바이오,해외신약'선점경쟁'…1조원베팅도",
+  "이준석,“동관이형재벌중에제일똑똑…나라면한화주식에몰빵”",
+  "\"달라진원화강세공식…外人주식17조원팔아도환율급락\"",
+  "삼전·닉스가불지핀'주주환원'논의···주가영향두곤갑론을박"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,29 @@
   [
    "2026-09-12T10:21:01.199422+09:00",
    "박사 이주완 가격 감산이 증산 하락할 올려 경제일타 D램"
+  ],
+  [
+   "2026-09-12T10:41:05.800176+09:00",
+   "몰린 반도체는 최고 역대 전형 N수생 대학별 논술로"
+  ],
+  [
+   "2026-09-12T10:41:05.800176+09:00",
+   "베팅도 경쟁 K바이오 해외신약 1조원 선점"
+  ],
+  [
+   "2026-09-12T10:41:05.800176+09:00",
+   "똑똑 몰빵 재벌 동관이형 한화 주식에 제일 이준석 중에 나라면"
+  ],
+  [
+   "2026-09-12T10:41:05.800176+09:00",
+   "달라진 주식 환율 원화 급락 팔아도 17조원 강세"
+  ],
+  [
+   "2026-09-12T10:41:05.800176+09:00",
+   "지핀 주주환원 두곤 닉스가 주가 영향 삼전 갑론을박 논의"
   ]
  ],
- "last_run": "2026-09-12T10:31:24.124543+09:00",
+ "last_run": "2026-09-12T10:41:22.383141+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
