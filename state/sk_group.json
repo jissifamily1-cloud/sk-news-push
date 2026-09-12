@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10869054",
-  "https://www.nc.press/news/articleView.html?idxno=626017",
   "https://news.tf.co.kr/read/economy/2363459.htm",
   "https://www.thelec.kr/news/articleView.html?idxno=62062",
   "http://www.thebigdata.co.kr/view.php?ud=202609101130182647d0a8833aad_23",
@@ -2999,11 +2997,11 @@
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598926",
   "https://www.mk.co.kr/article/12151125",
   "https://www.besteleven.com/news/articleView.html?idxno=312146",
-  "https://www.newsis.com/view/NISX20260912_0003786880"
+  "https://www.newsis.com/view/NISX20260912_0003786880",
+  "https://www.kukinews.com/article/view/kuk202609120028",
+  "https://www.yna.co.kr/view/AKR20260912042800007?input=1195m"
  ],
  "seen_titles": [
-  "용인반도체산단용수설계·CM수주전윤곽",
-  "신호남복합,현대엔지니어링품에…두산과EPC'장군멍군'",
   "SK브로드밴드,Btv가입자대상KBO포스트시즌티켓추첨…최대130매",
   "SKB,KBO포스트시즌직관이벤트",
   "성시경,피크닉콘서트'자,오늘은'성료…가을밤수놓은210분의낭만",
@@ -6001,25 +5999,11 @@
   "'부천전무승부'세르지우코스타감독\"어려운경기...승리자있었다면...",
   "‘세리머니후격한신경전’제주코스타감독,아이아스에대해“축...",
   "[B11현장]아이아스의공격적셀레브레이션?제주코스타감독,\"항상...",
-  "K리그1선두서울,전북상대극장승…울산은인천격파(종합)"
+  "K리그1선두서울,전북상대극장승…울산은인천격파(종합)",
+  "코스타제주감독“승자가있어야했다면우리…승점1점에만족하지...",
+  "이동경,두시즌연속'10-10'새역사…울산,인천에2-1승리(종합)"
  ],
  "recent_sigs": [
-  [
-   "2026-09-12T13:11:02.663282+09:00",
-   "Ecosystem Chips Bringing Nvidia Why Into Its Is Rival AI"
-  ],
-  [
-   "2026-09-12T13:11:02.663282+09:00",
-   "숲세권 랜선 가보니 솔샘역 인근 강북 아파트 대단지 둘러싸인 8억대"
-  ],
-  [
-   "2026-09-12T13:11:02.663282+09:00",
-   "로봇 파트너사 봤더니 데이터 어딘가 삼성SDS 전문"
-  ],
-  [
-   "2026-09-12T13:11:02.663282+09:00",
-   "매고 베팅 서학개 가속페달 으로 레버리지로 안전벨트 양면 갈아탄"
-  ],
   [
    "2026-09-12T13:51:14.175884+09:00",
    "공백 치나리가 달린다 순위 제주 네게바 최병욱과 상승 부천 원정서"
@@ -6171,9 +6155,13 @@
   [
    "2026-09-12T19:11:02.179995+09:00",
    "서울 상대 선두 격파 전북 K리그1 울산은 극장승 인천"
+  ],
+  [
+   "2026-09-12T19:21:03.856658+09:00",
+   "연속 인천에 이동경 승리 시즌 역사 울산"
   ]
  ],
- "last_run": "2026-09-12T19:11:08.373788+09:00",
+ "last_run": "2026-09-12T19:21:10.340750+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
