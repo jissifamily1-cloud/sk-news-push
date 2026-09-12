@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12140366",
-  "https://www.etoday.co.kr/news/view/2620001",
   "https://www.yna.co.kr/view/AKR20260831118600009?input=1195m",
   "https://www.khan.co.kr/article/202608311457001",
   "https://www.bzeronews.com/news/articleView.html?idxno=821889",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20260911_0003786500",
   "http://www.econonews.co.kr/news/articleView.html?idxno=444230",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=864645",
-  "https://www.hankyung.com/article/2026091307217"
+  "https://www.hankyung.com/article/2026091307217",
+  "https://www.mt.co.kr/industry/2026/09/13/2026091214343694124",
+  "https://news.mtn.co.kr/news-detail/2026091308001196998"
  ],
  "seen_titles": [
-  "ESS활황에CATL러브콜…삼아알미늄\"9월증설결정\"",
-  "한일상의회장단회의“한·일산업생태계함께만들어야”",
   "日미야기현,SK하이닉스공장유치총력⋯30만㎡부지제안",
   "최태원SK회장\"일본에반도체합작공장설립검토\"",
   "“SK하이닉스잡아라”···일미야기현,반도체공장유치총력",
@@ -6001,7 +5999,9 @@
   "[현장]최태원SK회장\"AI도결국수익성…투자·사업선순환구조갖춰...",
   "최태원SK회장\"미래울산은'AI시티'…제조AI·시민행복·예술아울러...",
   "최태원\"울산,제조AI·시민서비스·예술결합도시로\"",
-  "\"국회의원아니었으면몰빵\"…이준석이콕집은'이종목'"
+  "\"국회의원아니었으면몰빵\"…이준석이콕집은'이종목'",
+  "\"100만울산시민에'AI에이전트'주면…\"최태원SK회장의제안",
+  "최태원\"AI,수익못내면거품처럼꺼져…데이터플랫폼이관건\""
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,17 @@
   [
    "2026-09-13T08:30:27.144152+09:00",
    "종목 이준석이 몰빵 집은 아니었으면 국회의원"
+  ],
+  [
+   "2026-09-13T08:40:13.927664+09:00",
+   "AI 에이전트 제안 주면 회장의 100만 울산시민에"
+  ],
+  [
+   "2026-09-13T08:40:13.927664+09:00",
+   "AI 거품처럼 데이터 못내면 꺼져 수익 플랫폼이 관건"
   ]
  ],
- "last_run": "2026-09-13T08:30:38.390340+09:00",
+ "last_run": "2026-09-13T08:40:29.559129+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
