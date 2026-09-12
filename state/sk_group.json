@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026091010340141402",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=880389",
-  "https://www.ajunews.com/view/20260910101912322",
-  "https://www.newsis.com/view/NISX20260910_0003783955",
-  "https://www.hani.co.kr/arti/economy/marketing/1277124.html",
   "https://www.seoul.co.kr/news/society/2026/09/10/20260910500067?wlog_tag3=naver",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276607",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95121",
@@ -2999,14 +2994,14 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=275279",
   "http://www.osen.co.kr/article/G1112873038",
   "http://www.kjdaily.com/article.php?aid=1789172825686644227",
-  "https://www.edaily.co.kr/News/Read?newsId=01840086645579464&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01840086645579464&mediaCodeNo=257",
+  "https://biz.sbs.co.kr/article_hub/20000334251?division=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486358",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95246",
+  "https://www.hankyung.com/article/2026091194276",
+  "https://www.mt.co.kr/stock/2026/09/12/2026091117154216275"
  ],
  "seen_titles": [
-  "SK하이닉스노사,임단협'수정잠정합의안'도출…\"성과급현금비중늘...",
-  "유가100달러에뉴욕증시하락…코스피7000선공방",
-  "SK하이닉스,하루17만톤물절약…55만명하루생활용수맞먹어",
-  "최태원,‘AX대전환’3개월만에현장행보…울산서AI사업점검",
-  "신한·하나카드,SKT'모두의AI'컨소시엄참여…'에이전트페이'만든...",
   "SK하이닉스노사,'현금비중50%'임단협수정안도출",
   "\"주식줄이고현금더\"…SK하이닉스,'성과급현금50%-자사주50%'재합...",
   "하이닉스노사,성과급수정안마련…‘현금50%·주식50%’",
@@ -6001,7 +5996,12 @@
   "웨이퍼부터HBM까지'공급절벽'…AI폭풍에韓반도체패권굳힌다",
   "‘AI네이티브’투자회사로탈바꿈중인SK스퀘어",
   "[이번주해외주식]SOXL14억달러거래…알파벳순매수1위",
-  "\"추석장보기지금이기회\"갈비·화장품까지…할인쏟아진다"
+  "\"추석장보기지금이기회\"갈비·화장품까지…할인쏟아진다",
+  "'길잃은자금'어디로?…파킹형ETF에일주일간1.5조뭉칫돈",
+  "AI재확산우려에백신·진단시약주들썩…바이오니아·보령'방긋'",
+  "한국ETF사라졌던日증시…3년반만에반도체로귀환",
+  "'웃돈5배줘도못구한다'…삼전닉스에목줄잡힌中[강경주의테크X...",
+  "고유가·고금리에제동걸린반도체주…이업종이대신뛰었다[김근희의..."
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,25 @@
   [
    "2026-09-12T09:31:13.906117+09:00",
    "할인 지금이 기회 쏟아진다 갈비 화장품까지 추석 장보기"
+  ],
+  [
+   "2026-09-12T09:41:04.089902+09:00",
+   "들썩 우려에 AI 방긋 진단시약주 바이오니아 보령 재확산 백신"
+  ],
+  [
+   "2026-09-12T09:41:04.089902+09:00",
+   "사라졌던 만에 3년 한국 귀환 반도체로 ETF 증시"
+  ],
+  [
+   "2026-09-12T09:41:04.089902+09:00",
+   "줘도 구한다 잡힌 목줄 삼전닉스에 5배 테크X 웃돈 강경주의"
+  ],
+  [
+   "2026-09-12T09:41:04.089902+09:00",
+   "고금리에 뛰었다 김근희의 고유가 제동 걸린 업종이 대신 반도체주"
   ]
  ],
- "last_run": "2026-09-12T09:31:22.268105+09:00",
+ "last_run": "2026-09-12T09:41:17.929587+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
