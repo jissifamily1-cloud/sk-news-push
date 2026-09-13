@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businessplus.kr/news/articleView.html?idxno=116686",
-  "https://sports.khan.co.kr/article/202609101711003?pt=nv",
-  "https://biz.heraldcorp.com/article/10869568",
-  "https://www.todayeconomic.com/news/article.html?no=32080",
-  "https://www.mt.co.kr/tech/2026/09/10/2026091015225255541",
-  "https://www.ddaily.co.kr/page/view/2026091017083429862",
   "https://www.joongang.co.kr/article/25460814",
   "https://www.rapportian.com/news/articleView.html?idxno=240218",
   "https://www.hankookilbo.com/news/article/A2026091016500005628?did=NA",
@@ -2999,15 +2993,15 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16191696",
   "https://www.m-i.kr/news/articleView.html?idxno=1413151",
   "https://www.m-i.kr/news/articleView.html?idxno=1413120",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=645321"
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=645321",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609130100&t=NN",
+  "https://news.tf.co.kr/read/economy/2365278.htm",
+  "https://www.kyeongin.com/article/1770773",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5218889",
+  "https://www.besteleven.com/news/articleView.html?idxno=312188",
+  "https://www.khan.co.kr/article/202609132004005"
  ],
  "seen_titles": [
-  "하동군,섬진강하천유지수량확보및환경청신설제안",
-  "[산업브리핑]SK·롯데·삼성전자",
-  "[금융권이모저모]신한은행,소상공인'성공두드림세미나'개최外",
-  "‘26G무승’수렁빠진광주…이정규감독의“좋은결정”은사퇴?면...",
-  "신한·하나카드,AI결제인프라개발…SKT‘모두의AI’컨소시엄참여",
-  "스마일게이트,신작MMORPG‘이클립스’정식출시…PC·모바일크로스...",
   "스마일게이트,신작MMORPG'이클립스'출시…온·오프라인이벤트준비",
   "‘네마녀의날’코스피출렁…반도체낙폭만회로7000선사수",
   "우체국물류지원단-한국건강가정진흥원,다문화가족인식개선위해MOU",
@@ -6001,7 +5995,13 @@
   "\"AI를너무빨리만들고있다\"…아모데이의'속도제한',삼성전자·SK하...",
   "충남도,'2026충남청년잡플래닝데이'체험프로그램운영",
   "이상일용인특례시장,삼성전자·SK하이닉스용인산단1600조원투자전...",
-  "산청군,디지털정보격차해소공동대응"
+  "산청군,디지털정보격차해소공동대응",
+  "최태원“글로벌빅테크와AI데이터센터협업속도빨라”",
+  "'농심3세'신상열부사장결혼…재계보기드문'맞벌이부부'탄생(종...",
+  "[참성단]삼성전자노·노갈등",
+  "\"반도체온다\"9주째상승한광주아파트값…견본주택'북적'",
+  "[B11현장]50-50금자탑달성에도기쁘지않은강원레전드김대원,\"기...",
+  "[정동칼럼]세금때문에남이되는부부들"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,25 @@
   [
    "2026-09-13T20:22:10.605809+09:00",
    "해소 산청군 공동 정보격차 디지털 대응"
+  ],
+  [
+   "2026-09-13T20:31:12.897061+09:00",
+   "삼성전자 갈등"
+  ],
+  [
+   "2026-09-13T20:31:12.897061+09:00",
+   "아파트값 반도체 상승한 9주째 광주 견본주택 북적 온다"
+  ],
+  [
+   "2026-09-13T20:31:12.897061+09:00",
+   "레전드 김대원 강원 금자탑 기쁘지 달성에도 않은"
+  ],
+  [
+   "2026-09-13T20:31:12.897061+09:00",
+   "부부들 세금 남이 때문에 되는"
   ]
  ],
- "last_run": "2026-09-13T20:22:24.424441+09:00",
+ "last_run": "2026-09-13T20:31:26.045635+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
