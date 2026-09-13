@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topdaily.kr/articles/111720",
-  "https://view.asiae.co.kr/article/2026083115421250679",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443620",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005912075",
-  "https://zdnet.co.kr/view/?no=20260831161528",
-  "https://hbnpress.com/news/view/1065597640017040",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121070",
   "https://www.kukinews.com/article/view/kuk202608310190",
   "https://www.delighti.co.kr/news/articleView.html?idxno=121075",
   "https://www.hankookilbo.com/news/article/A2026083116150003431?did=NA",
@@ -2999,16 +2992,16 @@
   "https://www.iusm.co.kr/news/articleView.html?idxno=1067804",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131044413690757",
   "https://www.nocutnews.co.kr/news/6577243",
-  "https://www.khan.co.kr/article/202609131447001"
+  "https://www.khan.co.kr/article/202609131447001",
+  "https://www.newsis.com/view/NISX20260913_0003787310",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/13/2026091300070.html",
+  "https://www.ziksir.com/news/articleView.html?idxno=146218",
+  "http://www.inews24.com/view/2005015",
+  "https://www.econovill.com/news/articleView.html?idxno=750629",
+  "https://www.insight.co.kr/news/573243",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1067805"
  ],
  "seen_titles": [
-  "최태원,한일상공회의소회의서“더큰시장·산업생태계함께만들어...",
-  "[넥스트SK]선별재편속몸집키우는'AI반도체'",
-  "전주상의,한·일경제협력강화나서",
-  "최태원\"일본에메모리반도체합작공장검토\"",
-  "최태원\"SK하이닉스,일본에반도체합작공장검토\"",
-  "최태원회장\"SK하이닉스,일본반도체공장설립검토…전지역고려\"",
-  "최태원회장\"SK하이닉스,일본현지반도체합작공장설립검토중\"",
   "한일경제인센다이서맞손…최태원\"더큰산업생태계함께만들자\"",
   "“전력·물좋은곳이면어디든”…최태원SK회장,日메모리합작공장...",
   "최태원회장\"SK하이닉스,일본내반도체합작공장설립검토중\"",
@@ -6001,7 +5994,14 @@
   "최태원회장\"울산,제조·시민·예술잇는AI시티로\"",
   "최태원회장“AI,비즈니스모델로이익내는구조로가야”",
   "최태원\"AI,돈벌어스스로투자할수있어야\"",
-  "BTS무대였던SK영빈관에거대한거미줄이···선혜원‘흔들리는것들..."
+  "BTS무대였던SK영빈관에거대한거미줄이···선혜원‘흔들리는것들...",
+  "조정식국회의장,취임100일…\"민생법·예산안차질없이처리…개헌논...",
+  "재벌家끼리결혼은옛말…‘농심3세’신상열도직장인과결혼",
+  "[CEO직썰]최태원SK회장\"울산,제조AI·시민행복·예술아우른'AI시...",
+  "최태원SK그룹회장\"울산,제조AI·'모두의AI'잇는AI시티로\"",
+  "최태원회장\"울산AIDC,900MW까지거의다왔다…곧발표가능\"",
+  "최태원SK그룹회장\"AI도결국돈벌어야한다\"...다음과제로'수익성...",
+  "[2026울산포럼]AI모델보다현장데이터…울산,'60년제조암묵지'깨워..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,21 @@
   [
    "2026-09-13T14:50:15.098638+09:00",
    "흔들리는 영빈관에 BTS 거대한 선혜원 거미줄이 것들 무대였던"
+  ],
+  [
+   "2026-09-13T15:00:34.978976+09:00",
+   "벌어야 다음 회장 한다 결국 과제로 수익성 AI도"
+  ],
+  [
+   "2026-09-13T15:00:34.978976+09:00",
+   "재벌 끼리 결혼 결혼은 농심 직장인과 옛말 신상열도 3세"
+  ],
+  [
+   "2026-09-13T15:00:34.978976+09:00",
+   "현장 울산 60년 제조 암묵지 깨워 AI모델보다 데이터"
   ]
  ],
- "last_run": "2026-09-13T14:50:33.349158+09:00",
+ "last_run": "2026-09-13T15:00:52.468568+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
