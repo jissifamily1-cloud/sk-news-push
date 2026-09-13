@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=153602",
-  "https://www.sentv.co.kr/article/view/sentv202609100185",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446906",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=318845",
-  "https://view.asiae.co.kr/article/2026091016354850881",
-  "https://www.joongang.co.kr/article/25460796",
-  "https://www.yna.co.kr/view/AKR20260910140100704?input=1195m",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1181066",
   "https://www.mk.co.kr/article/12149505",
   "https://www.mk.co.kr/article/12149506",
   "https://biz.chosun.com/industry/business-venture/2026/09/10/HLYWPODRLZGHNDXGO6ZAOW4F5A/",
@@ -2999,17 +2991,17 @@
   "https://www.dt.co.kr/article/12083654",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2440378",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2440379",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=358883"
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358883",
+  "https://www.kukinews.com/article/view/kuk202608310145",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260914010004866",
+  "http://www.srtimes.kr/news/articleView.html?idxno=212261",
+  "https://www.sedaily.com/article/20090277",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260914010004864",
+  "https://www.segye.com/newsView/20260913509622?OutUrl=naver",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1405519",
+  "https://www.mk.co.kr/article/12151458"
  ],
  "seen_titles": [
-  "[마감]코스피,중동리스크에7천선턱걸이…외인2.5조순매도",
-  "[증시-마감]중동불안에도'7천피'사수…지수리밸런싱에'출렁'",
-  "코스피,외국인대규모매도에7030선하락···유가·금리부담지속",
-  "코스피,유가·금리부담에약보합…7000선은방어",
-  "현대엔지니어링용인·호남발전소건설사업우선협상대상자선정,2.4조...",
-  "'네마녀의날'코스피,중동악재에약보합마감…'칠천피'는방어",
-  "檢,'석유화학담합의혹'수사경영진으로확대…LG화학·OCI·PKC줄줄이...",
-  "IT임금상승,7개월뒤서비스물가로…통화정책변수된삼전닉스",
   "[영상]천문학적이혼재산분할…비슷한듯다른최태원·권혁빈판결",
   "의대보다삼전닉스…SKY수시지원\"반도체늘고의대줄고\"",
   "넥써쓰,KT·LG유플러스·서틱대상유증’38억규모‘",
@@ -6001,7 +5993,15 @@
   "원화강세·금리급등…코스피‘수급절벽’오나",
   "환율급락에반도체실적전망도'뚝'…두달새21조원감소",
   "삼성전자·SK하이닉스떠나는개미들…5개월만에'팔자'전환",
-  "제조AI에시민·문화더한다…최태원이그린'AI시티울산'"
+  "제조AI에시민·문화더한다…최태원이그린'AI시티울산'",
+  "삼전·닉스성과급효과…소비1.7조늘고임원은‘10억클럽’",
+  "사람뺏기면반도체패권놓친다…'인재방어'고삐죄는삼성",
+  "'삼전닉스'사들이던개인투자자매도세로…외국인도'팔자'",
+  "첨단산업전환이가른두도시의운명[정다은특파원의딩동베이징]",
+  "제조경쟁력넘어생활속으로…최태원'울산형AI생태계'승부",
+  "[단독]시공30위건설사‘아파트하자’심각",
+  "[포토뉴스]대전유성구,글로벌대기업멘토와'청년취업터닝포인트...",
+  "빚만168조원인데주가반등?…오라클의‘AI도박’통해야삼전닉스도..."
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,29 @@
   [
    "2026-09-13T17:31:15.450131+09:00",
    "그린 AI시티 문화 제조AI에 시민 울산 최태원이 더한다"
+  ],
+  [
+   "2026-09-13T17:41:32.347871+09:00",
+   "산업 첨단 도시의 운명 전환이 가른"
+  ],
+  [
+   "2026-09-13T17:41:32.347871+09:00",
+   "최태원 제조경쟁력 AI생태계 울산형 넘어 승부 생활속으로"
+  ],
+  [
+   "2026-09-13T17:41:32.347871+09:00",
+   "아파트 건설사 30위 심각 시공 하자"
+  ],
+  [
+   "2026-09-13T17:41:32.347871+09:00",
+   "대기업 청년 포인트 멘토와 글로벌 대전 취업 유성구 터닝"
+  ],
+  [
+   "2026-09-13T17:41:32.347871+09:00",
+   "통해야 오라클의 168조원인데 도박 주가 빚만 반등 AI 삼전닉스도"
   ]
  ],
- "last_run": "2026-09-13T17:31:21.015439+09:00",
+ "last_run": "2026-09-13T17:41:48.794131+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
