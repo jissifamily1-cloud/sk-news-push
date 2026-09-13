@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10868559",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=664280",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=503718",
-  "https://www.news2day.co.kr/article/20260910500226",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=503750",
   "https://www.joongangenews.com/news/articleView.html?idxno=547250",
   "https://www.yna.co.kr/view/AKR20260910126700063?input=1195m",
@@ -2999,13 +2995,13 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1405510",
   "https://www.seoul.co.kr/news/economy/2026/09/13/20260913500056?wlog_tag3=naver",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083954",
-  "https://www.bloter.net/news/articleView.html?idxno=673359"
+  "https://www.bloter.net/news/articleView.html?idxno=673359",
+  "https://www.newsis.com/view/NISX20260913_0003787309",
+  "https://www.m-i.kr/news/articleView.html?idxno=1413216",
+  "https://www.newsq.co.kr/news/articleView.html?idxno=500081",
+  "https://www.sedaily.com/article/20090244"
  ],
  "seen_titles": [
-  "충남도,8개시군과27개사1조5303억투자유치",
-  "충남도·8개시군,27개기업과1조5천억원투자협약",
-  "충남도,8개시군과대규모합동투자유치협약체결",
-  "코스피,유가금리부담…7030선약보합마감",
   "[뉴스워커_하나카드]\"찾아줘\"하면결제까지…AI'AgentPay'개발",
   "(마감시황)코스피,유가·美금리부담속0.25%하락…7,000선방어",
   "[뉴스워커_SK그룹]최태원회장,데이터센터짓고250만평공장에AI…S...",
@@ -6001,29 +5997,13 @@
   "최태원\"울산,제조AI·생활AI결합한'AI시티'로가야\"",
   "외환위기후최악의20대취업난…그속파고드는‘취업사교육’업체",
   "구미취업한마당16일개최…70개기업503명채용예정",
-  "해킹분석·대응도전문가에게…SK쉴더스사례로본MDR"
+  "해킹분석·대응도전문가에게…SK쉴더스사례로본MDR",
+  "마이크론에샌디스크까지가세…국내반도체'인재쟁탈전'불붙는다",
+  "대리점밖으로나온통신지원…SKT,경남4개군고령층직접찾는다",
+  "삼성전자·SK하이닉스팔기시작한개미들",
+  "SK하닉새마을금고,예금5000억늘었다"
  ],
  "recent_sigs": [
-  [
-   "2026-09-13T09:51:03.030909+09:00",
-   "간다더니 제주 오히려 관광객 늘었다 무서워"
-  ],
-  [
-   "2026-09-13T09:51:03.030909+09:00",
-   "하이닉스 취업코칭 청년들 대비반도 200만 구직 한숨 원짜리"
-  ],
-  [
-   "2026-09-13T09:51:03.030909+09:00",
-   "긴장 바람 한국 AI 타고 기술 증시 반등할까 국제"
-  ],
-  [
-   "2026-09-13T09:51:03.030909+09:00",
-   "고금리 AI 분수령 고유가 코스피 7000선 재탈환 vs"
-  ],
-  [
-   "2026-09-13T09:51:03.030909+09:00",
-   "반도체 유효할 중심 주목 전략 FOMC"
-  ],
   [
    "2026-09-13T10:01:20.141876+09:00",
    "금리 회의 가능성 인상 착수 커지자 F4 연준 대응"
@@ -6423,9 +6403,13 @@
   [
    "2026-09-13T15:41:00.043546+09:00",
    "사례로 분석 SK쉴더스 대응도 전문가에게 해킹 MDR"
+  ],
+  [
+   "2026-09-13T15:51:03.388769+09:00",
+   "SK하닉 5000억 예금 늘었다 새마을금고"
   ]
  ],
- "last_run": "2026-09-13T15:41:06.987695+09:00",
+ "last_run": "2026-09-13T15:51:09.249485+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
