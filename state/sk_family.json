@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202608310190",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121075",
   "https://www.hankookilbo.com/news/article/A2026083116150003431?did=NA",
   "https://www.newsis.com/view/NISX20260831_0003770044",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=727093",
@@ -2999,11 +2997,11 @@
   "http://www.inews24.com/view/2005015",
   "https://www.econovill.com/news/articleView.html?idxno=750629",
   "https://www.insight.co.kr/news/573243",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1067805"
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1067805",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486514",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4999490"
  ],
  "seen_titles": [
-  "한일경제인센다이서맞손…최태원\"더큰산업생태계함께만들자\"",
-  "“전력·물좋은곳이면어디든”…최태원SK회장,日메모리합작공장...",
   "최태원회장\"SK하이닉스,일본내반도체합작공장설립검토중\"",
   "최태원\"한일,AI·첨단산업·공급망·에너지부터협력해야\"",
   "최태원회장\"SK하이닉스,日반도체합작공장검토\"",
@@ -6001,7 +5999,9 @@
   "최태원SK그룹회장\"울산,제조AI·'모두의AI'잇는AI시티로\"",
   "최태원회장\"울산AIDC,900MW까지거의다왔다…곧발표가능\"",
   "최태원SK그룹회장\"AI도결국돈벌어야한다\"...다음과제로'수익성...",
-  "[2026울산포럼]AI모델보다현장데이터…울산,'60년제조암묵지'깨워..."
+  "[2026울산포럼]AI모델보다현장데이터…울산,'60년제조암묵지'깨워...",
+  "최태원SK회장,'2026울산포럼'서울산미래상으로'AI시티'제시",
+  "최태원\"AI,비즈니스모델로지속가능한구조까지가야\""
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-09-13T15:00:34.978976+09:00",
    "현장 울산 60년 제조 암묵지 깨워 AI모델보다 데이터"
+  ],
+  [
+   "2026-09-13T15:20:16.252751+09:00",
+   "비즈니스 AI 지속가능한 모델로 구조까지 가야"
   ]
  ],
- "last_run": "2026-09-13T15:10:27.590454+09:00",
+ "last_run": "2026-09-13T15:20:28.461856+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
