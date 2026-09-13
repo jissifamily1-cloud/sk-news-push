@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=05182406645578808&mediaCodeNo=257",
-  "https://www.ytn.co.kr/_ln/0102_202609101851406625",
-  "http://www.popcornnews.net/news/articleView.html?idxno=132568",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7183580",
-  "https://www.news1.kr/industry/general-industry/6286928",
-  "https://www.segye.com/newsView/20260910515833?OutUrl=naver",
-  "https://www.namdonews.com/news/articleView.html?idxno=923050",
-  "https://www.yna.co.kr/view/AKR20260910029902003?input=1195m",
-  "https://view.asiae.co.kr/article/2026091019150139683",
   "https://www.edaily.co.kr/News/Read?newsId=05297206645578808&mediaCodeNo=257",
   "https://www.newsis.com/view/NISX20260910_0003784968",
   "https://www.news1.kr/photos/8100324",
@@ -2999,18 +2990,18 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=300789",
   "https://cc.newdaily.co.kr/site/data/html/2026/09/13/2026091300095.html",
   "https://www.etoday.co.kr/news/view/2624925",
-  "https://www.gokorea.kr/news/articleView.html?idxno=878240"
+  "https://www.gokorea.kr/news/articleView.html?idxno=878240",
+  "https://www.youthdaily.co.kr/news/article.html?no=226984",
+  "https://www.tjb.co.kr/news05/bodo/view/id/103567",
+  "https://www.mt.co.kr/world/2026/09/14/2026091407143854537",
+  "https://www.abcn.kr/news/articleView.html?idxno=91790",
+  "https://www.news1.kr/finance/general-stock/6289091",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000011672&cp=nv",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5218959",
+  "http://www.wsobi.com/news/articleView.html?idxno=318083",
+  "https://www.newsis.com/view/NISX20260914_0003787673"
  ],
  "seen_titles": [
-  "TvingFacesBacklashOverInadequateDataBreachCompensation",
-  "구리없으면AI도먹통…K전선·전력기기'동빛슈퍼사이클'",
-  "은행권정기예금금리줄인상...증시자금은행으로?",
-  "Btv고객,TV밖에서야구본다…SK브로드밴드,포스트시즌티켓쏜다",
-  "말보다행동…최태원,SK그룹AI핵심거점울산서현장경영",
-  "최태원\"SK그룹멤버사간시너지통해AI시대선도해나가자\"(종합)",
-  "의사보다삼전닉스?…SKY수시지원경쟁률보니",
-  "\"호남반도체,기업이원하는지원부터살펴야\"",
-  "최태원,울산AI데이터센터·울산CLX현장방문…\"AI시대선도\"(종합2보...",
   "최태원,울산AX현장경영…\"AI인프라·제조현장하나로이어져야\"",
   "최태원SK회장\"멤버사간시너지로AI시대선도할것\"",
   "검찰,\"최태원,동거인에1000억넘게써\"노소영변호사불기소",
@@ -6001,7 +5992,16 @@
   "[굿모닝!글로벌뉴욕증시]예상치에부합된물가지표와국제유가약세...",
   "정용래유성구청장,청년일자리·청소년문화로미래세대키운다",
   "[증시키워드]삼성전자초기업노조‘노노갈등’진통⋯현대차AI자율...",
-  "호르무즈봉쇄에도국내석유수급안정,중동발위기극복비결은?"
+  "호르무즈봉쇄에도국내석유수급안정,중동발위기극복비결은?",
+  "한전'25조SOS'무산…삼성·SK,'전기료선납'제안거절",
+  "삼성전자·하이닉스,한전'25조전기료선납'제안퇴짜",
+  "'AI속도조절론'에반도체주긴장…\"장기성장세는지속\"",
+  "\"5년치전기료25조원먼저내달라\"한전제안,삼성·SK모두거절",
+  "삼성전자2%·SK하이닉스3%↓…FOMC경계속프리마켓약세",
+  "삼전·SK하닉,‘5년전기료25조선납’한전제안거절…중장기경영...",
+  "삼전닉스,'25조전기료선납'한전제안거절",
+  "통신3사,경남4개군과'찾아가는서비스'업무협약체결...추석보이스...",
+  "그로쓰리서치\"반도체증설본격화…인프라수요확대전망\""
  ],
  "recent_sigs": [
   [
@@ -6427,9 +6427,17 @@
   [
    "2026-09-14T08:21:01.392261+09:00",
    "호르무즈 안정 위기 중동발 수급 비결은 국내 봉쇄에도 극복 석유"
+  ],
+  [
+   "2026-09-14T08:31:07.889470+09:00",
+   "보이스 업무협약 통신3사 체결 추석 찾아가는 경남 서비스 4개군과"
+  ],
+  [
+   "2026-09-14T08:31:07.889470+09:00",
+   "인프라 수요 확대 전망 반도체 증설 본격화 그로쓰리서치"
   ]
  ],
- "last_run": "2026-09-14T08:21:31.501980+09:00",
+ "last_run": "2026-09-14T08:31:17.837905+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
