@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.koreastocknews.com/news/articleView.html?idxno=121152",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463170",
-  "https://www.kukinews.com/article/view/kuk202609100202",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=239652",
-  "https://www.econovill.com/news/articleView.html?idxno=750469",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309992",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699685",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=208287",
   "https://news.jtbc.co.kr/article/NB12317754?influxDiv=NAVER",
   "https://www.vegannews.co.kr/news/article.html?no=386142",
@@ -2999,16 +2992,16 @@
   "https://news.tf.co.kr/read/economy/2365271.htm",
   "https://www.news1.kr/industry/distribution/6288941",
   "https://www.seoulfn.com/news/articleView.html?idxno=637834",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260914.22006003983"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260914.22006003983",
+  "https://m.sports.naver.com/basketball/article/065/0000301560",
+  "http://www.ujeil.com/news/articleView.html?idxno=392004",
+  "http://www.ujeil.com/news/articleView.html?idxno=391993",
+  "http://www.ujeil.com/news/articleView.html?idxno=391991",
+  "https://www.ajunews.com/view/20260913191546645",
+  "https://www.fnnews.com/news/202609131917289431",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=864723"
  ],
  "seen_titles": [
-  "중국화웨이캠브리콘인공지능가속기가격인상,'품귀현상'HBM비용...",
-  "코스피,중동긴장에도안정세유지…삼성전자·SK하이닉스의비결은?",
-  "SK하이닉스노사,'현금50%·주식50%'수정잠정합의안마련",
-  "[오늘증시]외국인매도세에코스피소폭하락\"7000사수\"…코스닥은기...",
-  "[통하는충남]충남도,8개시군에27개사1조5000억유치",
-  "넥써쓰,KT·LG유플러스·서틱대상유상증자…38억원조달",
-  "신한카드,SKT와AI결제표준구축…'에이전트페이'개발",
   "하나카드,SKT컨소시엄과'모두의AI'사업결제파트너참여",
   "외인2.5조팔자코스피0.25%↓...7000선사수",
   "\"AI가물건사고결제까지\"...신한카드,SKT와'에이전트페이'만든다",
@@ -6001,21 +5994,16 @@
   "'농심3세'신상열부사장결혼…신동원남매·김동관·서경배총출동",
   "'농심3세'신상열결혼식에한화김동관참석…롯데가는'불참'",
   "[주간증시전망]'7천피'넘어7500향할까···美FOMC영향'제한적'",
-  "전담조직·특별법·시험운항…1년만에구상서실행단계로"
+  "전담조직·특별법·시험운항…1년만에구상서실행단계로",
+  "[2026추계강서구협회장배농구대회U11]4강결과,동탄SK와성북삼성...",
+  "울산,산업현장·시민일상'AI시티'로대전환",
+  "울산대,초광역인재양성사업왜탈락했나",
+  "울산제조AX'속도전'…핵심열쇠는현장데이터·인력·실증",
+  "추경호대구시장\"국가물산업클러스터중심으로글로벌물산업중심도시...",
+  "[기자수첩]레버리지가남긴빈자리",
+  "숨은진주의프로데뷔골,용인김진호향한칭찬세례"
  ],
  "recent_sigs": [
-  [
-   "2026-09-13T13:21:39.978130+09:00",
-   "부사장 예비 신상열 농심 백년 결혼 3세 다니는 신부와 SK텔레콤"
-  ],
-  [
-   "2026-09-13T13:21:39.978130+09:00",
-   "이상일 정부에 전망 투자 용수 1600조 반도체 공급 용인시장 전력"
-  ],
-  [
-   "2026-09-13T13:21:39.978130+09:00",
-   "목표 약속 1조원 10년간 농어촌상생기금 고작 3255억원"
-  ],
   [
    "2026-09-13T13:41:09.349114+09:00",
    "배관보수 SK하이닉스 규탄 불구 화학사고 최저 입찰한 반복"
@@ -6403,9 +6391,21 @@
   [
    "2026-09-13T19:21:05.926011+09:00",
    "만에 단계로 전담조직 구상서 특별법 시험운항 1년 실행"
+  ],
+  [
+   "2026-09-13T19:31:10.521557+09:00",
+   "물산업 중심으로 추경호 대구시장 중심도시 국가물산업클러스터 글로벌"
+  ],
+  [
+   "2026-09-13T19:31:10.521557+09:00",
+   "레버리지가 빈자리 남긴"
+  ],
+  [
+   "2026-09-13T19:31:10.521557+09:00",
+   "김진호 향한 진주의 데뷔골 칭찬 세례 프로 숨은 용인"
   ]
  ],
- "last_run": "2026-09-13T19:21:14.157897+09:00",
+ "last_run": "2026-09-13T19:31:22.801736+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
