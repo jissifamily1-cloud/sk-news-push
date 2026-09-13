@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202609101507573349923c501012_1",
-  "https://www.fnnews.com/news/202609101523115874",
-  "https://kormedi.com/?p=2864011",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=908926",
-  "https://www.newsis.com/view/NISX20260910_0003784339",
-  "http://www.metroseoul.co.kr/article/20260910500397",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=245859",
-  "https://www.bloter.net/news/articleView.html?idxno=673258",
   "https://www.news1.kr/world/northeast-asia/6286436",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1723786",
   "https://www.edaily.co.kr/News/Read?newsId=04286966645578808&mediaCodeNo=257",
@@ -2999,17 +2991,17 @@
   "https://www.news2day.co.kr/article/20260913500035",
   "https://www.insight.co.kr/news/573227",
   "http://www.fieldnews.kr/news/articleView.html?idxno=31478",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245667"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245667",
+  "https://www.techm.kr/news/articleView.html?idxno=155183",
+  "https://www.seoultimes.news/news/article.html?no=2000099817",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=275301",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=452258",
+  "https://www.ajunews.com/view/20260913130759986",
+  "https://www.mt.co.kr/industry/2026/09/13/2026091116114823371",
+  "https://www.asiatime.co.kr/article/20260913500044",
+  "https://www.inews365.com/news/article.html?no=935362"
  ],
  "seen_titles": [
-  "스마일게이트,신작MMORPG'이클립스'출시",
-  "최태원SK회장,울산현장찾아AX점검···그룹CEO총집결'AI풀스택...",
-  "[진단]회사는AI로똑똑해지는데내자리는괜찮을까…대기업'AI대전...",
-  "한은\"레버리지ETF·반도체쏠림,증시변동성키워\"",
-  "\"반도체슈퍼사이클잡는다\"아이엘,반도체장비기업인수",
-  "서울대병원창업기업,네이버·셀트리온과마주앉았다⋯28건사업화논...",
-  "한국기술교육대유길상총장,\"AI시대,'사람키우는대한민국모델'세...",
-  "반도체산단·공공주택오염토'반출정화'허용…용산공원도적용되나",
   "화학산업협회,'케미컬플래닛'첫프로그램…미래세대와접점넓힌다",
   "한은\"레버리지ETF투자급증,주가변동성확대요인\"外[오늘의주요...",
   "SK스퀘어,'AI네이티브'투자회사전환속도…전사AX추진",
@@ -6001,25 +5993,17 @@
   "최태원\"울산을AI시티로\"...제조AX부터복지·교통·의료까지확장",
   "농심3세신상열부사장오늘결혼...SK텔레콤다니는예비신부와백년...",
   "이상일용인시장\"반도체투자1600조전망\"…정부에전력·용수공급속...",
-  "10년간1조원약속농어촌상생기금고작3255억원…목표32.6%"
+  "10년간1조원약속농어촌상생기금고작3255억원…목표32.6%",
+  "SKT·KT·LG유플러스'아이폰18'전초전...야구·축구·로밍'총동원'",
+  "SKT,산청·함양·거창·합천찾는다…고령층통신교육·점검",
+  "최태원,속도·규모·안전넘어'수익모델구축과지속가능성'새화두...",
+  "\"화학사고반복불구배관보수최저입찰한SK하이닉스'규탄'\"",
+  "[전운의세상읽기]이재명대통령에게드리는고언-권력을비추는15개...",
+  "\"범용줄이고AI로\"…판바뀐MLCC,삼성전기웃는다",
+  "유가100달러·미10년물5%눈앞…반도체의존韓경제‘복합쇼크’",
+  "한국교통대,초광역반도체인재양성거점으로…4년간최대600억원지..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-13T07:31:28.922689+09:00",
-   "정부 경계감 사수 물가 고유가에 인플레 중동 험로 높인"
-  ],
-  [
-   "2026-09-13T07:41:07.326872+09:00",
-   "전액 자기자본 자금 라포랩스 SK스토아 재신청 인수"
-  ],
-  [
-   "2026-09-13T07:41:07.326872+09:00",
-   "개미들 지금이 어때 두드리 삼전닉스 관망하던 검색창 그때인가"
-  ],
-  [
-   "2026-09-13T07:41:07.326872+09:00",
-   "선정 교통대 육성사업 초광역 성장엔진 인재"
-  ],
   [
    "2026-09-13T07:51:02.125085+09:00",
    "대통령 받는 공약 할인 가짜였다 아냐 요금 나만"
@@ -6451,9 +6435,29 @@
   [
    "2026-09-13T13:21:39.978130+09:00",
    "목표 약속 1조원 10년간 농어촌상생기금 고작 3255억원"
+  ],
+  [
+   "2026-09-13T13:41:09.349114+09:00",
+   "배관보수 SK하이닉스 규탄 불구 화학사고 최저 입찰한 반복"
+  ],
+  [
+   "2026-09-13T13:41:09.349114+09:00",
+   "권력을 대통령에게 15개 고언 이재명 비추는 드리는"
+  ],
+  [
+   "2026-09-13T13:41:09.349114+09:00",
+   "AI로 삼성전기 MLCC 줄이고 바뀐 범용 웃는다"
+  ],
+  [
+   "2026-09-13T13:41:09.349114+09:00",
+   "반도체 유가 눈앞 100달러 복합쇼크 10년물 의존 경제"
+  ],
+  [
+   "2026-09-13T13:41:09.349114+09:00",
+   "반도체 4년간 한국교통대 초광역 거점으로 인재양성 600억"
   ]
  ],
- "last_run": "2026-09-13T13:31:14.226355+09:00",
+ "last_run": "2026-09-13T13:41:26.221350+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
