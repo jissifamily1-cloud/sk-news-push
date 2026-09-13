@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25460814",
-  "https://www.rapportian.com/news/articleView.html?idxno=240218",
-  "https://www.hankookilbo.com/news/article/A2026091016500005628?did=NA",
-  "https://www.sedaily.com/article/20089515",
-  "https://www.ytn.co.kr/_ln/0102_202609101710559575",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=317623",
   "http://news.lghellovision.net/news/articleView.html?idxno=554646",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708664",
@@ -2999,14 +2994,14 @@
   "https://www.kyeongin.com/article/1770773",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5218889",
   "https://www.besteleven.com/news/articleView.html?idxno=312188",
-  "https://www.khan.co.kr/article/202609132004005"
+  "https://www.khan.co.kr/article/202609132004005",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=742835",
+  "https://www.ksmnews.co.kr/news/view.php?idx=621632",
+  "https://www.mk.co.kr/article/12151594",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16191710",
+  "http://www.kjdaily.com/article.php?aid=1789298485686733274"
  ],
  "seen_titles": [
-  "스마일게이트,신작MMORPG'이클립스'출시…온·오프라인이벤트준비",
-  "‘네마녀의날’코스피출렁…반도체낙폭만회로7000선사수",
-  "우체국물류지원단-한국건강가정진흥원,다문화가족인식개선위해MOU",
-  "서울대병원,원내우수성과기술사업화지원오픈이노베이션행사개최",
-  "코스피,대내외악재에도7000선사수…\"단기변동성불가피\"",
   "한화운용‘글로벌HBM반도체ETF’,4년간10배뛰었다…“메모리산업...",
   "[기업]SKT'모두의AI'출범식...\"전국민AI일상화시동\"",
   "현대엔지니어링용인·신호남발전사업우협선정…총2조3826억원",
@@ -6001,13 +5996,14 @@
   "[참성단]삼성전자노·노갈등",
   "\"반도체온다\"9주째상승한광주아파트값…견본주택'북적'",
   "[B11현장]50-50금자탑달성에도기쁘지않은강원레전드김대원,\"기...",
-  "[정동칼럼]세금때문에남이되는부부들"
+  "[정동칼럼]세금때문에남이되는부부들",
+  "울산제조업AI활용논의…최태원,데이터센터·공장현장점검",
+  "대구물산업,국제협력·수출날개…‘국제물주간’폐막",
+  "“SK하이닉스·삼성전자!”양세찬,경제용어미션에주식명폭로(‘런...",
+  "\"AI거품터지면미국증시·나스닥폭락?\"…삼성전자·SK하이닉스까지...",
+  "800조팹이‘앵커’…연관기업모여야클러스터완성"
  ],
  "recent_sigs": [
-  [
-   "2026-09-13T14:31:14.614954+09:00",
-   "후지쓰 내년 해외 수출 CPU 가능성은 위협 삼전닉스 인공지능용"
-  ],
   [
    "2026-09-13T14:41:10.603834+09:00",
    "현대캐피탈 반대파도 렌터카사 700개 품는다 유예 원금"
@@ -6375,9 +6371,13 @@
   [
    "2026-09-13T20:31:12.897061+09:00",
    "부부들 세금 남이 때문에 되는"
+  ],
+  [
+   "2026-09-13T20:41:00.196668+09:00",
+   "800조 모여야 연관기업 앵커 클러스터 완성 팹이"
   ]
  ],
- "last_run": "2026-09-13T20:31:26.045635+09:00",
+ "last_run": "2026-09-13T20:41:07.660529+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
