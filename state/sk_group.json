@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bigtanews.co.kr/article/view/big202609100015",
-  "https://www.etnews.com/20260910000417",
-  "https://www.fnnews.com/news/202609101831552836",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000010955&cp=nv",
-  "https://www.sentv.co.kr/article/view/sentv202609100223",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1067760",
-  "https://www.dailian.co.kr/news/view/1689026/?sc=Naver",
   "https://www.slist.kr/news/articleView.html?idxno=765185",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=310910",
   "https://www.apsk.co.kr/news/articleView.html?idxno=540419",
@@ -2999,16 +2992,16 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=447059",
   "https://www.segye.com/newsView/20260910520404?OutUrl=naver",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101806068080104640",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609111106070840104354"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609111106070840104354",
+  "https://www.fnnews.com/news/202609140658582101",
+  "https://www.g-enews.com/view.php?ud=202609140712548069fbbec65dfb_1",
+  "https://www.news1.kr/industry/general-industry/6288909",
+  "https://www.greened.kr/news/articleView.html?idxno=349945",
+  "https://www.nocutnews.co.kr/news/6577342",
+  "http://www.inews24.com/view/2004953",
+  "http://www.inews24.com/view/2005020"
  ],
  "seen_titles": [
-  "[단독]6장입장문냈는데…독파모이의제기에돌아온정부답변은‘기...",
-  "대우건설정원주,호남반도체100억기부…\"마중물역할\"",
-  "[증시오늘]코스피7000선턱걸이",
-  "SK바이오팜도입뇌전증신약'오파칼림',美FDA임상일부제동",
-  "SKT\"모두의AI드림팀꾸려…'엔드투엔드'실행형에이전트개발\"",
-  "최태원,울산SKAI데이터센터처음찾았다…CEO총집결",
-  "FDA,SK바이오팜‘대형베팅’오파칼림임상제동…“계약전이미검...",
   "최태원회장,울산AI현장찾았다…7조원데이터센터점검",
   "넥써쓰,KT·LGU+·서틱에유증…원스토어지분95.88%로확대",
   "檢,\"최태원,동거인에1천억썼다\"노소영변호사불기소",
@@ -6001,7 +5994,14 @@
   "[WhoIs?]신재호LS엠트론대표이사사장",
   "5년내8배확장추진하는전남해상풍력…‘계통’은여전히불안요소...",
   "[더벨][CompanyWatch]SK넥실리스,말레이시아법인100%자회사전환",
-  "[더벨][바이오스톡오해와진실]SK바이오팜,오파칼림임상보류\"오름..."
+  "[더벨][바이오스톡오해와진실]SK바이오팜,오파칼림임상보류\"오름...",
+  "\"삼전·닉스다시사야하나\"…반도체다시보는증권가",
+  "\"개발속도늦추자\"아우성에도…AI서버현장은여전히품귀다",
+  "'얄미운'유가100달러재돌파…정유·항공'긴장'車전동화'가속'",
+  "'농심家3세'신상열부사장,일반회사원과결혼식...'재벌가맞벌이부...",
+  "대입수시접수못해'발동동'…정부,구제나선다[오늘아침]",
+  "삼성전자,日패키징R&D거점문열어…TSMC도택한'소부장강국'",
+  "아이폰듀오329만원출격…삼성D·LGD,하반기'애플효과'커진다"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,33 @@
   [
    "2026-09-14T07:21:04.589423+09:00",
    "오파칼림 임상 보류 오름 SK바이오팜"
+  ],
+  [
+   "2026-09-14T07:31:10.870569+09:00",
+   "서버 여전히 개발 아우성에도 현장은 품귀다 AI 늦추자 속도"
+  ],
+  [
+   "2026-09-14T07:31:10.870569+09:00",
+   "전동화 얄미운 100달러 항공 가속 긴장 정유 유가 재돌파"
+  ],
+  [
+   "2026-09-14T07:31:10.870569+09:00",
+   "결혼식 농심 3세 재벌가 부사장 일반 회사원과 맞벌이 신상열"
+  ],
+  [
+   "2026-09-14T07:31:10.870569+09:00",
+   "대입 정부 수시 나선다 구제 못해 접수 동동"
+  ],
+  [
+   "2026-09-14T07:31:10.870569+09:00",
+   "패키징 소부장 삼성전자 거점 강국 택한 TSMC도 열어"
+  ],
+  [
+   "2026-09-14T07:31:10.870569+09:00",
+   "아이폰 듀오 출격 하반기 329만원 효과 LGD 삼성D 애플 커진다"
   ]
  ],
- "last_run": "2026-09-14T07:22:09.089267+09:00",
+ "last_run": "2026-09-14T07:31:29.589194+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
