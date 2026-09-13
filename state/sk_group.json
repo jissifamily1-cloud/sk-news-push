@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485901",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723807",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2236546",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/10/2026091000311.html",
-  "https://www.ajunews.com/view/20260910160759513",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061081",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061066",
   "http://www.globalepic.co.kr/view.php?ud=2026091015460388845f69d33b22_29",
   "https://www.fnnews.com/news/202609101558090364",
   "https://www.fnnews.com/news/202609100904579283",
@@ -2999,16 +2992,16 @@
   "https://www.iusm.co.kr/news/articleView.html?idxno=1067805",
   "http://www.segyebiz.com/newsView/20260913507742?OutUrl=naver",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609130065&t=NN",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169894"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169894",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4999490",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486519",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486514",
+  "https://www.joongang.co.kr/article/25461397",
+  "https://www.joongangenews.com/news/articleView.html?idxno=547771",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=611826",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=853492"
  ],
  "seen_titles": [
-  "이민석위원장“기업과시민의환경실천지속될수있도록지원”",
-  "토종AI반도체수출확대'레퍼런스'에달렸다…\"정부가나서야\"",
-  "[거래소외국인]SK하이닉스삼성전자한미반도체대량매도...삼성전자...",
-  "[EBN데이터센터]10일상승종목30選…샘표상한가기록",
-  "충청권데이터센터'兆단위투자'…지역산업과연결해야",
-  "유가·금리불안에도코스피,기타법인매수에7000선선방…삼전닉스...",
-  "[마감시황]외국인매도세에코스피약보합마감…7000선방어",
   "[마감시황]코스피,외국인매도공세에도7000선지켜",
   "'SKY의대'수시지원자11%감소…반도체계약학과는5.2%↑",
   "이천시·청주시·SK하이닉스,고향사랑기부제활성화협약",
@@ -6001,7 +5994,14 @@
   "[2026울산포럼]AI모델보다현장데이터…울산,'60년제조암묵지'깨워...",
   "믿었던개미마저삼전닉스던졌다…유가·금리압박속7천피복귀기로",
   "AI가띄운코스피,중동악재에찬물…이번주FOMC'고비",
-  "SK스퀘어'AI네이티브'투자사전환…전사AX추진"
+  "SK스퀘어'AI네이티브'투자사전환…전사AX추진",
+  "최태원\"AI,비즈니스모델로지속가능한구조까지가야\"",
+  "전기제품株'극과극'…MLCC웃고2차전지울었다",
+  "최태원SK회장,'2026울산포럼'서울산미래상으로'AI시티'제시",
+  "원화값15%뛰자삼전닉스이익전망21조줄어...‘반도체달러’의역...",
+  "올해농어촌상생기금'삼성34억,현대차16억'출연…SK는'無'",
+  "라포랩스,SK스토아인수다시나선다…SKT와거래구조조정",
+  "[주간증시전망]'아스트라효과'에7000피회복…FOMC·국채금리는변..."
  ],
  "recent_sigs": [
   [
@@ -6459,9 +6459,21 @@
   [
    "2026-09-13T15:01:40.414456+09:00",
    "중동 FOMC 고비 코스피 이번주 찬물 띄운 악재에 AI가"
+  ],
+  [
+   "2026-09-13T15:11:03.522122+09:00",
+   "올해 34억 출연 SK는 16억 농어촌상생기금 삼성 현대차"
+  ],
+  [
+   "2026-09-13T15:11:03.522122+09:00",
+   "다시 나선다 SKT와 조정 인수 SK스토아 거래구조 라포랩스"
+  ],
+  [
+   "2026-09-13T15:11:03.522122+09:00",
+   "7000피 국채금리는 FOMC 아스트라 회복 효과"
   ]
  ],
- "last_run": "2026-09-13T15:09:06.223067+09:00",
+ "last_run": "2026-09-13T15:11:14.633980+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
