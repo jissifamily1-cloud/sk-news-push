@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topdaily.kr/articles/111722",
-  "https://www.hankyung.com/article/2026083142436",
   "https://news.dealsitetv.com/articles/175416",
   "https://www.news1.kr/world/northeast-asia/6275004",
   "https://www.inews365.com/news/article.html?no=933828",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20090210",
   "https://www.khan.co.kr/article/202609131148001",
   "https://www.delighti.co.kr/news/articleView.html?idxno=121751",
-  "https://www.hankookilbo.com/news/article/A2026091222460004596?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026091222460004596?did=NA",
+  "https://www.joongang.co.kr/article/25461370",
+  "https://www.donga.com/news/Economy/article/all/20260913/134655496/1"
  ],
  "seen_titles": [
-  "최태원\"SK하이닉스,일본합작공장검토\"…현지사업확대",
-  "[넥스트SK]3년간192개사줄인최태원…'문어발'걷고AI·반도체집중",
   "6500까지밀린증시…'최태원일본팹'등반도체덕에반등",
   "[퇴근길7분뉴스]SK하이닉스·CXMT·한화K9·컬리",
   "최태원SK회장\"일본에메모리칩합작공장설립검토\"",
@@ -6001,7 +5999,9 @@
   "‘취임100일’조정식“기업혁신,입법으로이어지는선순환만들것...",
   "최태원“AI,비즈니스모델구축해지속가능성갖춰야”",
   "최태원SK회장,울산미래상으로'AI시티'제시…제조·생활에AI접목",
-  "최태원\"울산AIDC900메가임박\"…대한민국AX거점으로키운다"
+  "최태원\"울산AIDC900메가임박\"…대한민국AX거점으로키운다",
+  "최태원“AI,결국돈벌어스스로투자하는구조까지가야”",
+  "최태원“AI버블꺼뜨리지않으려면…수익내는비즈니스모델만들어..."
  ],
  "recent_sigs": [
   [
@@ -6097,7 +6097,7 @@
    "900메가 키운다 거점으로 임박 울산 AX AIDC 대한민국"
   ]
  ],
- "last_run": "2026-09-13T12:00:46.035107+09:00",
+ "last_run": "2026-09-13T12:10:25.887417+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
