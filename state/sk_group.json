@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/jeju/6286484",
-  "http://www.e2news.com/news/articleView.html?idxno=334092",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=95146",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=727654",
-  "https://news.skbroadband.com/news/articleView.html?idxno=237551",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=600324",
-  "https://www.donga.com/news/Economy/article/all/20260910/134643537/1",
-  "http://www.lkp.news/news/articleView.html?idxno=83909",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191850",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191859",
   "https://www.edaily.co.kr/News/Read?newsId=04122966645578808&mediaCodeNo=257",
   "https://www.hankookilbo.com/news/article/A2026091014420000318?did=NA",
   "https://zdnet.co.kr/view/?no=20260910150030",
@@ -2999,19 +2989,19 @@
   "http://www.cctimes.kr/news/articleView.html?idxno=926921",
   "https://weeklytrade.co.kr/news/view.html?no=101386",
   "https://www.m-i.kr/news/articleView.html?idxno=1413162",
-  "https://www.news2day.co.kr/article/20260913500024"
+  "https://www.news2day.co.kr/article/20260913500024",
+  "https://www.newsway.co.kr/news/view?ud=2026091201073179521",
+  "https://www.ziksir.com/news/articleView.html?idxno=146205",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266733",
+  "https://tk.newdaily.co.kr/site/data/html/2026/09/13/2026091300043.html",
+  "https://www.sedaily.com/article/20090206",
+  "https://www.newsis.com/view/NISX20260913_0003787215",
+  "https://www.news1.kr/industry/distribution/6288730",
+  "https://www.smarttoday.co.kr/ko-kr/articles/111519",
+  "https://www.sedaily.com/article/20090204",
+  "https://www.g-enews.com/view.php?ud=202609131128373996fbbec65dfb_1"
  ],
  "seen_titles": [
-  "법원,공정위한화조사에첫제동…연2000억‘간판값’의문은남았...",
-  "현대-대우-DL,총공사비3957억사당17구역물밑탐색전",
-  "“삼전닉스만샀다면배아플만하네”…한달새30%뛴반도체장비주...",
-  "제주자치경찰-민간경비업체,안심동행네트워크구축",
-  "화학업계,석화단지인근초등학생과생태탐구",
-  "[통화신용정책보고서①]금융위기때보다더출렁인코스피…한은,레버...",
-  "챗GPT고객서AI파트너로…오픈AI·삼성협력확대",
-  "AI가바꾼콘텐츠…광주·전남에이스페어개막",
-  "전기차폴스타,韓서제대로불붙었다⋯글로벌핵심시장부상",
-  "SK하이닉스노사,잠정합의안도출…현금보상늘리고복지혜택강화",
   "SK쉴더스,하나은행과소상공인디지털전환지원…\"선택품목따라지...",
   "SK하이닉스노사,임금협상수정합의안도출…'현금50%·주식50%'구성...",
   "최태원SK회장,'AX선언'3개월만에울산서AI제조·인프라현장점...",
@@ -6001,7 +5991,17 @@
   "서산시,5개기업과'2,974억원규모'투자협약체결",
   "환율이끌어내린삼전닉스연간영업이익전망",
   "[전문가기고]매물이아니라임대차시장을봐야한다",
-  "[재계인사이드]현정은현대그룹의재도약,북한에달렸는데..."
+  "[재계인사이드]현정은현대그룹의재도약,북한에달렸는데...",
+  "최태원이그린'제조AI'밑그림…SK,울산서실행단계로",
+  "SKT,경남4개군서'찾아가는서비스'확대",
+  "최태원\"AI,수익확보와투자이어지는구조가돼야…울산을제조AX선...",
+  "대구시,물·에너지·AI융합앞세운‘대한민국국제물주간2026’폐막",
+  "환율내려도美주식팔았다…서학개미,3개월만에순매도전환[인베스...",
+  "식어가는반도체투심…外人이어개미도이달들어삼전·닉스'팔자'",
+  "'농심3세'신상열부사장오늘결혼…'신라면'들고웨딩사진촬영",
+  "개미들,반도체몰빵투자지쳤다",
+  "5개월만에삼전·닉스던진개미…9월13조원순매도[마켓시그널]",
+  "딥시크쇼크에도망친개미…K메모리헐값에담는큰손"
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,13 @@
   [
    "2026-09-13T11:31:12.959203+09:00",
    "현대그룹의 재도약 북한에 달렸는데 현정은"
+  ],
+  [
+   "2026-09-13T11:51:01.121699+09:00",
+   "쇼크에 헐값에 도망친 담는 K메모리 개미 큰손 딥시크"
   ]
  ],
- "last_run": "2026-09-13T11:41:06.161800+09:00",
+ "last_run": "2026-09-13T11:51:06.790217+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
