@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=144849",
-  "https://www.joongang.co.kr/article/25457736",
-  "https://www.fnnews.com/news/202608311332035714",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7181542",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1722344",
   "https://economist.co.kr/article/view/ecn202608310045",
   "https://www.pressian.com/pages/articles/2026083115223241551",
   "https://www.youthdaily.co.kr/news/article.html?no=226073",
@@ -2999,14 +2994,14 @@
   "http://www.srtimes.kr/news/articleView.html?idxno=212254",
   "https://www.etoday.co.kr/news/view/2624798",
   "http://www.segyebiz.com/newsView/20260913503534?OutUrl=naver",
-  "https://www.greened.kr/news/articleView.html?idxno=349933"
+  "https://www.greened.kr/news/articleView.html?idxno=349933",
+  "https://news.tf.co.kr/read/ptoday/2365149.htm",
+  "https://www.sportsseoul.com/news/read/1634670",
+  "https://www.news1.kr/industry/general-industry/6288639",
+  "https://biz.chosun.com/industry/company/2026/09/13/G2RM3SLDVVE6PAYRUZBHODDNGM/",
+  "https://www.viva100.com/article/20260913500250"
  ],
  "seen_titles": [
-  "최태원\"일본에반도체합작공장검토…전력·용수풍부한곳고려\"",
-  "SK하이닉스,일본메모리합작공장검토…생산거점확대추진",
-  "최태원회장“한일경제연대,서로시장넓혀주는파트너돼야”",
-  "최태원\"韓日합치면6조달러시장…더큰산업생태계만들자\"",
-  "최태원\"韓日경제연대,글로벌질서만들수있다\"",
   "최태원회장\"일본에반도체합작공장검토\"…SK하이닉스해외생산거점...",
   "[속보]최태원SK회장\"일본에반도체합작공장설립검토\"",
   "[속보]최태원\"일본내에반도체합작공장설립검토중\"",
@@ -6001,7 +5996,12 @@
   "최태원SK회장,울산미래상으로'AI시티'제시",
   "최태원“울산,제조AI·시민행복·예술아우른'AI시티'로가야”",
   "최태원SK회장“미래울산,모두의AI품은인공지능도시”",
-  "울산포럼역대최대…최태원\"울산을AI시티로\""
+  "울산포럼역대최대…최태원\"울산을AI시티로\"",
+  "조정식국회의장취임100일…민생·개혁법안177건처리",
+  "조정식국회의장취임100일…“첫째도,둘째도,셋째도민생”",
+  "최태원,AIDC사용'에너지'관심…아반떼탑승하고시뮬레이터체험",
+  "최태원“AI경쟁,이제수익화가과제…사업모델만들어야”",
+  "최태원회장“AI,비즈모델로이익내는구조돼야…한일에너지경협,..."
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "울산을 역대 AI시티로 울산포럼"
   ]
  ],
- "last_run": "2026-09-13T09:50:28.335556+09:00",
+ "last_run": "2026-09-13T10:00:43.354615+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
