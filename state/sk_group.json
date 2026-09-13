@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43629",
-  "https://www.inthenews.co.kr/news/article.html?no=91727",
-  "https://www.joongangenews.com/news/articleView.html?idxno=547202",
-  "https://www.donga.com/news/Economy/article/all/20260910/134643288/1",
-  "http://www.newstomato.com/ReadNews.aspx?no=1313244&inflow=N",
-  "https://www.newstnt.com/news/articleView.html?idxno=717690",
-  "https://biz.heraldcorp.com/article/10869275",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=358753",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=611619",
-  "https://www.ddaily.co.kr/page/view/2026091014424347976",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260910010003912",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=358749",
   "https://www.fnnews.com/news/202609101438081814",
@@ -2999,19 +2989,19 @@
   "https://www.mt.co.kr/tech/2026/09/13/2026091310365846732",
   "https://www.newscj.com/news/articleView.html?idxno=3432192",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000064806",
-  "http://www.incheonnews.com/news/articleView.html?idxno=440377"
+  "http://www.incheonnews.com/news/articleView.html?idxno=440377",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0800&key=20260913.99099003976",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000011417&cp=nv",
+  "https://zdnet.co.kr/view/?no=20260913103600",
+  "https://www.asiatime.co.kr/article/20260913500021",
+  "https://biz.chosun.com/it-science/ict/2026/09/13/CMFKEEE2GJEE5KURZEIF2RN2IE/",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170028",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/13/2026091300027.html",
+  "https://www.newsway.co.kr/news/view?ud=2026091310034345796",
+  "https://www.chosun.com/economy/economy_general/2026/09/13/H2S2I2LVZJEZFNSPFQF5TOCWGU/",
+  "https://www.joongdo.co.kr/web/view.php?key=20260911010003581"
  ],
  "seen_titles": [
-  "두산에너빌리티주가1%대하락…9만원선회복하며낙폭축소",
-  "'간절함안고다시뛴다'광주FC,안양상대모든것쏟는다...필승다짐",
-  "웨스팅하우스의결권확보땐원전수출숨통…전문가들“실익없을것...",
-  "최태원,재산분할재상고범위2440억으로압축이유는?…'분할비율·S...",
-  "하나카드‘모두의AI’참여…‘에이전트페이’로AI금융혁신선도",
-  "SK디앤디주가,9월10일장중4,295원14.53%상승",
-  "한은“레버리지ETF투자급증,주가변동성확대요인“",
-  "미국이어EU도중국배터리‘빗장’…K배터리반사이익기대",
-  "SKT정재헌CEO,GSMAM360아세안서AI성장전략·디지털신뢰논의",
-  "레버리지ETF영향제한적→변동성키운요인…한은입장바뀐이유는?...",
   "SK하이닉스노사,성과급지급안조정…현금비중50%로확대",
   "잠정합의안부결에한발물러선SK하이닉스…현금50%지급",
   "“용인·여수서2조3826억발전사업”…현대엔지니어링,잇단우협선정",
@@ -6001,7 +5991,17 @@
   "노인비율49%지역으로…SKT,지자체와'찾아가는서비스'",
   "[축구]이동경,두시즌연속'10-10'달성…울산,인천에2-1승리",
   "최태원\"울산,제조AI·시민행복·예술아우른도시로\"",
-  "[박창우평론]'민주의황금시대'가국민의황금시대인가?"
+  "[박창우평론]'민주의황금시대'가국민의황금시대인가?",
+  "최태원SK회장\"울산을제조AX·시민행복·예술아우른AI도시로만들...",
+  "베트남·필리핀거쳐미국·인도까지…K조선,해외영토지도새로그린...",
+  "최태원\"울산을'AI시티'로…모두의AI로시민행복제고\"",
+  "최태원회장“울산AI데이터센터논의끝나간다…곧발표”",
+  "美샌디스크“경력5년이상한국엔지니어채용합니다”",
+  "최태원\"AI로울산산업·생활바꾼다…지속가능한수익모델필요\"",
+  "최태원“AI경쟁,기술넘어수익화로…돈버는구조만들어야”",
+  "최태원,AI사업화강조…\"비즈니스모델·지속가능성함께고민해야\"",
+  "日엔화의3배뛴원화가치…3분기들어G20중상승률1위",
+  "서산지역에2,974억원투자'큰손'몰린다,5개기업대규모증설추진"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,17 @@
   [
    "2026-09-13T10:51:05.649413+09:00",
    "황금시대인가 황금시대 국민의 민주의"
+  ],
+  [
+   "2026-09-13T11:01:17.827800+09:00",
+   "엔화의 원화 가치 1위 3배 G20 3분기 들어 상승률"
+  ],
+  [
+   "2026-09-13T11:01:17.827800+09:00",
+   "기업 투자 몰린다 서산지역에 증설 5개 대규모 974억 큰손"
   ]
  ],
- "last_run": "2026-09-13T10:51:12.767953+09:00",
+ "last_run": "2026-09-13T11:01:26.799957+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
