@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260910156700004?input=1195m",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1331746",
-  "https://www.ddaily.co.kr/page/view/2026091018040200232",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=79059",
   "https://www.goodkyung.com/news/articleView.html?idxno=291251",
   "https://www.sedaily.com/article/20089598",
   "https://www.fnnews.com/news/202609101810159152",
@@ -2999,13 +2995,13 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=606367",
   "https://www.cbci.co.kr/news/articleView.html?idxno=606355",
   "https://www.edaily.co.kr/News/Read?newsId=01666246645580120&mediaCodeNo=257",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061709"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061709",
+  "https://www.sportschosun.com/baseball/2026-09-13/202609140100091590005992",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62537",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609122210294150731",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=763570"
  ],
  "seen_titles": [
-  "SK바이오팜,오파칼림美임상부분보류…\"계약전부터독성소견검토...",
-  "“첨단BIO미래연다”…2026경북바이오산업엑스포안동서개막",
-  "檢,\"최태원,동거인에1천억썼다\"발언한노소영변호사불기소",
-  "이천시,SK하이닉스·청주시고향사랑기부협약…'전국최초'상호기부...",
   "'AI기지국'만나똑똑해진로봇…조선소용접·도장실증",
   "SK바이오팜도입신약후보'오파칼림',美FDA서'부분임상보류'통보",
   "SK넥실리스,말레이시아자회사지분매수결정...지분,재무구조개선...",
@@ -6001,7 +5997,11 @@
   "13조원쏟아낸반도체'팔자'전환의배경…개미,이달들어삼전·닉...",
   "\"달러로벌어원화로바꾸니…\"잘나가던K-반도체발목잡은환율급락",
   "\"亞스테이블코인,달러뚫고폭발성장…ASA,시장잇는윤활유\"",
-  "[이슈+]SK스토아인수재시동건라포랩스"
+  "[이슈+]SK스토아인수재시동건라포랩스",
+  "빅리그재진입여부질문에\"잘모르겠다\"…오히려'곽빈'콕짚은아빌...",
+  "AI서버값인상,엔비디아도예외아니었다!?",
+  "[경주지진10년,대한민국은안전한가](2)반도체공장,미세진동에도...",
+  "[소비자민원평가-렌탈]\"제품은고장반복,관리는부실\"...품질·렌탈관..."
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,21 @@
   [
    "2026-09-14T06:21:09.895581+09:00",
    "라포랩스 재시동 인수 SK스토아"
+  ],
+  [
+   "2026-09-14T06:31:12.222632+09:00",
+   "AI 서버값 인상 아니었다 예외 엔비디아도"
+  ],
+  [
+   "2026-09-14T06:31:12.222632+09:00",
+   "미세 진동에도 반도체공장"
+  ],
+  [
+   "2026-09-14T06:31:12.222632+09:00",
+   "부실 반복 고장 품질 렌탈 관리는 제품은"
   ]
  ],
- "last_run": "2026-09-14T06:21:40.939425+09:00",
+ "last_run": "2026-09-14T06:31:23.338243+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
