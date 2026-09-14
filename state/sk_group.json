@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=575548&class=33",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=89550",
-  "http://www.beyondpost.co.kr/view.php?ud=2026091119233351164c878f8fa1_30",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106542",
-  "https://www.dailymedi.com/news/news_view.php?wr_id=940426",
   "https://www.mydaily.co.kr/page/view/2026091119511737904",
   "https://www.edaily.co.kr/News/Read?newsId=05392326645579136&mediaCodeNo=257",
   "https://www.newsis.com/view/NISX20260911_0003786536",
@@ -2999,14 +2994,14 @@
   "https://www.mt.co.kr/policy/2026/09/15/2026091418480836684",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169691",
   "http://www.metroseoul.co.kr/article/20260915500003",
-  "https://www.fnnews.com/news/202609101547077838"
+  "https://www.fnnews.com/news/202609101547077838",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724222",
+  "https://www.nocutnews.co.kr/news/6578043",
+  "http://www.metroseoul.co.kr/article/20260915500005",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=606713",
+  "https://imnews.imbc.com/news/2026/world/article/6851835_36925.html"
  ],
  "seen_titles": [
-  "김선옥중구의원\"주차난부터장애인정책까지…주민불편에답해야\"",
-  "삼성SDI,세계EV배터리7위→톱10밖추락…韓3사중사용량최대29.4...",
-  "ETF상위4사상반기실적늘었는데…9월순자산은뚝",
-  "“백암전통잇고지역발전앞당길것”…제11회백중문화제개막",
-  "‘300억비자금’국고환수되나…검찰,노소영참고인소환통보",
   "국제유가·금리급등에코스피1.76%하락-3거래일만에7,000선붕괴",
   "이상일용인시장“백암전통지키고지역발전속도”…백중문화제서...",
   "['클릭'증시]韓수출호조에도...국제유가·금리급등부담감",
@@ -6001,7 +5996,12 @@
   "\"등록금공짜,억대연봉보장?\"수험생우르르...대입판흔드는'계약...",
   "美선하이닉스토큰도나왔는데…국내는걸음마부터[토큰증권이온다...",
   "환율에발목잡힌서학개미,반도체ETF로반토막",
-  "TSMC,하이-NAEUV2030년부터양산본격화..'초미세공정'경쟁가속화"
+  "TSMC,하이-NAEUV2030년부터양산본격화..'초미세공정'경쟁가속화",
+  "코스피,반도체급락에금리·유가부담'겹악재'",
+  "트럼프\"AI규제는역겨운음모\"↔\"통제시급\"…美대선흔든다",
+  "코스피,7000선공방전…FOMC앞두고'빚투'부담까지",
+  "15일코스피장흐름은,반도체투심이최대변수",
+  "'AI개발제동론'에엔비디아등미반도체주동반급락"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,21 @@
   [
    "2026-09-15T06:41:01.207929+09:00",
    "2030년부터 양산 초미세공정 가속화 경쟁 TSMC EUV 본격화 NA 하이"
+  ],
+  [
+   "2026-09-15T06:51:03.178463+09:00",
+   "부담까지 FOMC 코스피 7000선 공방전 빚투 앞두고"
+  ],
+  [
+   "2026-09-15T06:51:03.178463+09:00",
+   "반도체 흐름은 변수 투심이 코스피 15일"
+  ],
+  [
+   "2026-09-15T06:51:03.178463+09:00",
+   "동반 제동론 반도체주 급락 AI 엔비디아 개발"
   ]
  ],
- "last_run": "2026-09-15T06:41:30.645760+09:00",
+ "last_run": "2026-09-15T06:51:14.263183+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
