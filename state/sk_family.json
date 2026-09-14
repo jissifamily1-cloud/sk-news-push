@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7181623",
-  "https://www.mk.co.kr/article/12138906",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/31/2026083190249.html",
-  "https://www.newsis.com/view/NISX20260831_0003770243",
-  "https://www.seoul.co.kr/news/economy/industry/2026/09/01/20260901029003?wlog_tag3=naver",
   "https://www.donga.com/news/Economy/article/all/20260831/134579661/2",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=317361",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000007852&cp=nv",
@@ -2999,14 +2994,14 @@
   "https://www.thebigdata.co.kr/view.php?ud=202609110815335934bbceadc3c9_23",
   "https://www.seoulfn.com/news/articleView.html?idxno=637773",
   "http://www.bokuennews.com/news/article.html?no=284099",
-  "https://biz.heraldcorp.com/article/10872070"
+  "https://biz.heraldcorp.com/article/10872070",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065621096964013",
+  "http://www.newsprime.co.kr/news/article.html?no=747521",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=144388",
+  "https://www.electimes.com/news/articleView.html?idxno=372362",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3694030"
  ],
  "seen_titles": [
-  "SK최태원회장\"일본반도체공장설립\"언급없었다",
-  "최태원'해외메모리공장설립'한마디에일본이들썩",
-  "‘분할상장’5년만에원점…SKIET주주만운다[재계톡톡]",
-  "하루차이에엇갈린3000만원…새양육지원제도놓고맘카페'부글부글...",
-  "최태원\"투자검토중\"…SK하이닉스,美·日추가생산거점어디에",
   "SK하이닉스,日에반도체공장설립검토…미국압박커질듯",
   "日“30만m²부지준비”하이닉스공장러브콜…최태원“검토중”",
   "[출근길포인트]AI시대선제대응…SK하이닉스,한국·미국이어일본...",
@@ -6001,7 +5996,12 @@
   "[SK그룹줌인]SK에코플랜트,반도체중심재편마무리수순...남은변수...",
   "[창간24/AI發K자성장②]\"반도체다음은전력\"···全계통폭발적성...",
   "농협중앙회,신뢰받는농협구현에앞장",
-  "기업氣살리고한국길제시…산업변곡점마다길잡이된10년[헤럴드..."
+  "기업氣살리고한국길제시…산업변곡점마다길잡이된10년[헤럴드...",
+  "[CEO열전]최태원회장,울산을'AI시티'로…제조에AI·도시에감성더...",
+  "[카드]최태원SK회장\"울산,AI시티의모습돼야\"",
+  "[CEO]최태원\"AI,스스로돈벌어투자해야\"...신동빈\"KAIST,산학협력...",
+  "아이티공간\"불나기전에잡는다\"...울산포럼서전기화재예방AI제시",
+  "[포토]'2026울산포럼'개최"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,25 @@
   [
    "2026-09-14T09:30:25.191581+09:00",
    "한국 산업 10년 살리고 제시 길잡이 변곡점마다 기업 헤럴드"
+  ],
+  [
+   "2026-09-14T09:40:14.343152+09:00",
+   "돼야 울산 모습 회장 AI시티의"
+  ],
+  [
+   "2026-09-14T09:40:14.343152+09:00",
+   "AI 스스로 신동빈 투자해야 벌어 산학협력 KAIST"
+  ],
+  [
+   "2026-09-14T09:40:14.343152+09:00",
+   "불나기 AI 전에 울산포럼서 제시 전기화재예방 아이티공간 잡는다"
+  ],
+  [
+   "2026-09-14T09:40:14.343152+09:00",
+   "울산포럼 개최"
   ]
  ],
- "last_run": "2026-09-14T09:30:36.427810+09:00",
+ "last_run": "2026-09-14T09:40:38.795955+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6418,6 +6434,7 @@
   "kdpress.co.kr": "데일리경제",
   "thepowernews.co.kr": "더파워",
   "niceeconomy.co.kr": "나이스경제",
-  "ubc.co.kr": "ubc.co.kr"
+  "ubc.co.kr": "ubc.co.kr",
+  "electimes.com": "전기신문"
  }
 }
