@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075120",
-  "https://news.mtn.co.kr/news-detail/2026091116073799220",
-  "https://biz.heraldcorp.com/article/10870791",
-  "https://www.koreatimes.co.kr/path/A2026091115040002821",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16190032",
-  "https://www.news2day.co.kr/article/20260911500216",
   "https://www.mstoday.co.kr/news/articleView.html?idxno=102573",
   "https://www.sentv.co.kr/article/view/sentv202609110173",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661226",
@@ -2999,15 +2993,15 @@
   "https://www.kyeongin.com/article/1770847",
   "https://www.hankookilbo.com/news/article/A2026091218360000325?did=NA",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609141555080990978",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663037"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663037",
+  "https://sports.donga.com/sports/article/all/20260914/134667897/1",
+  "https://www.khan.co.kr/article/202609142036015",
+  "https://news.jtbc.co.kr/article/NB12318284?influxDiv=NAVER",
+  "https://www.munhwa.com/article/11616928",
+  "https://www.sedaily.com/article/20090855",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724212"
  ],
  "seen_titles": [
-  "반도체주약세에깨진7000…코스피,외국인·기관매도에6909.91마감",
-  "현대엔지니어링,용인반도체·여수산단에너지인프라잇달아확보",
-  "코스피6909.91···외국인·기관동반매도에전기전자직격",
-  "코스피,유가·금리부담에6900선후퇴…외인·기관3.5조'팔자'",
-  "외인·기관매도에코스피7000선이탈",
-  "유가·금리부담에코스피1.76%하락마감…7000선반납[MTN마감시황]",
   "中CXMT영업이익률82%…삼전닉스제치고메모리수익성1위",
   "KOSPIfallsonhigheroilprices,globalbondyields",
   "SK디앤디주가,9월11일4,090원1.56%하락마감",
@@ -6001,7 +5995,13 @@
   "[경인아고라]천도(天道)는옳은가",
   "아산e편한세상신탁사,지난해부터'전매약속'알고있었다",
   "‘삼전닉스’자사주매입,내달조기완료전망",
-  "[여기는진주]산림청,경남서부임도임시개방…다음달5일까지외"
+  "[여기는진주]산림청,경남서부임도임시개방…다음달5일까지외",
+  "‘농구야반갑다’2026~2027시즌프로농구미디어데이29일개최",
+  "2014아시안게임‘금’SK오세근“남자농구,8강전잘넘으면분위기...",
+  "퇴근하고도\"8시까지주식거래\"…'빚투늘리나'우려도",
+  "“전기료25조미리달라니…삼전닉스삥뜯을생각말라”유승민의말",
+  "“그래도반도체아니면뭘사겠냐”…50%비싸도서학개미가9600억쓸...",
+  "[EBN오늘(14일)이슈종합]83주째서울집값밀어올린'유동성'등"
  ],
  "recent_sigs": [
   [
@@ -6987,9 +6987,17 @@
   [
    "2026-09-14T20:31:16.825986+09:00",
    "5일까지 임도 임시개방 다음 산림청 경남서부"
+  ],
+  [
+   "2026-09-14T20:41:00.420287+09:00",
+   "그래도 아니면 반도체 비싸도 9600억 사겠냐 서학개미가"
+  ],
+  [
+   "2026-09-14T20:41:00.420287+09:00",
+   "83주째 밀어올린 서울 유동성 집값"
   ]
  ],
- "last_run": "2026-09-14T20:31:40.012934+09:00",
+ "last_run": "2026-09-14T20:41:08.745889+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
