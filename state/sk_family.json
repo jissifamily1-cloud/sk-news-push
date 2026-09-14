@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://m.skyedaily.com/news_view.html?ID=310817",
-  "https://www.hankyung.com/article/2026083143326",
-  "https://www.imaeil.com/page/view/2026083116505563384",
-  "https://www.sidae.com/article/2026083116255563500",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716459&plink=ORI&cooper=NAVER",
   "https://www.ceoscoredaily.com/page/view/2026081414230374886",
   "https://www.news1.kr/society/court-prosecution/6259490",
@@ -2999,13 +2995,13 @@
   "https://www.ekn.kr/web/view.php?key=20260914020574107",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266721&CMPT_CD=P0010",
   "https://www.kgnews.co.kr/news/article.html?no=911306",
-  "https://www.sportschosun.com/entertainment/2026-09-14/202609140100093420006117"
+  "https://www.sportschosun.com/entertainment/2026-09-14/202609140100093420006117",
+  "https://www.sedaily.com/article/20090525",
+  "https://www.sedaily.com/article/20090524",
+  "https://www.sedaily.com/article/20090522",
+  "https://www.sedaily.com/article/20090519"
  ],
  "seen_titles": [
-  "최태원“전력·용수좋은일본전역서검토”…SK하이닉스반도체합작...",
-  "\"역대급실적SK하이닉스,하청노동자차별여전…최태원회장에직접...",
-  "\"330만원→240만원\"충격리포트…SK하이닉스주주'패닉'[종목+]",
-  "최태원\"日에반도체공장설립검토\"…1순위조건전력·용수꼽아",
   "최태원SK회장\"일본에반도체공장설립검토\"",
   "[모닝와이드]오늘의주요뉴스",
   "최태원,‘9440억원재산분할불복’다시대법원으로…“하루이자만...",
@@ -6001,7 +5997,11 @@
   "정유·화학넘어‘AI전력회사’로…최태원,SK이노베이션재설계",
   "투쟁하다쓰러져도...홍성군송전탑반대운동계속합니다",
   "동티모르청소년과2년째우정,용인특례시의회",
-  "최민정,미쉐린서핑크빛생일파티?…창문에포착된의문의男정체는"
+  "최민정,미쉐린서핑크빛생일파티?…창문에포착된의문의男정체는",
+  "“AI열풍,수익없으면꺼진다”…최태원이본‘AI버블’가능성",
+  "현대차,2028년레벨2+자율차양산…자체AI플랫폼탑재",
+  "美·日금리결정‘슈퍼위크’…연준인상·BOJ추가인상주목",
+  "친환경포장한계깬스타트업나누…맞춤형코팅으로매출2배↑"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,25 @@
   [
    "2026-09-14T10:40:17.797514+09:00",
    "계속 반대운동 투쟁하다 합니다 홍성군 송전탑 쓰러져도"
+  ],
+  [
+   "2026-09-14T11:00:31.723437+09:00",
+   "최태원이 가능성 꺼진다 AI 열풍 수익 버블 없으면"
+  ],
+  [
+   "2026-09-14T11:00:31.723437+09:00",
+   "2028년 레벨2 현대차 AI 양산 자율차 플랫폼 탑재 자체"
+  ],
+  [
+   "2026-09-14T11:00:31.723437+09:00",
+   "인상 연준 추가 금리 주목 슈퍼위크 BOJ 결정"
+  ],
+  [
+   "2026-09-14T11:00:31.723437+09:00",
+   "코팅으로 스타트업 매출 친환경 포장 나누 2배 한계 맞춤형"
   ]
  ],
- "last_run": "2026-09-14T10:50:25.120793+09:00",
+ "last_run": "2026-09-14T11:00:54.878677+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
