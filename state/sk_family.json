@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000007852&cp=nv",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000007828&cp=nv",
   "https://www.joongangenews.com/news/articleView.html?idxno=544342",
   "https://www.joongang.co.kr/article/25457883",
@@ -2999,10 +2998,10 @@
   "https://www.electimes.com/news/articleView.html?idxno=372362",
   "https://www.gukjenews.com/news/articleView.html?idxno=3694030",
   "https://www.mk.co.kr/article/12138906",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637862"
+  "https://www.seoulfn.com/news/articleView.html?idxno=637862",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=121784"
  ],
  "seen_titles": [
-  "[출근길포인트]AI시대선제대응…SK하이닉스,한국·미국이어일본...",
   "최태원“한·일,강점살려서로시장넓혀줘야”",
   "日도“SK하이닉스오라”유치총력…최태원“공장설립검토”",
   "[종합]SK하이닉스\"일본합작공장검토사실아냐\"…최태원회장발언...",
@@ -6001,7 +6000,8 @@
   "아이티공간\"불나기전에잡는다\"...울산포럼서전기화재예방AI제시",
   "[포토]'2026울산포럼'개최",
   "‘분할상장’5년만에원점…SKIET주주만운다[재계톡톡]",
-  "최태원회장\"AI가스스로이익창출하고다시투자해야\""
+  "최태원회장\"AI가스스로이익창출하고다시투자해야\"",
+  "[딜라이트닷넷창간⑨]GPU넘어HBM·NPU·CXL까지…AI반도체생태계..."
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-09-14T09:40:14.343152+09:00",
    "울산포럼 개최"
+  ],
+  [
+   "2026-09-14T10:30:23.436131+09:00",
+   "생태계 AI GPU 반도체 HBM NPU CXL까지 넘어"
   ]
  ],
- "last_run": "2026-09-14T10:20:26.580546+09:00",
+ "last_run": "2026-09-14T10:30:35.092743+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
