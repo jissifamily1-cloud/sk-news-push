@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://dgmbc.com/NewsArticle/861905",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1101278",
-  "https://www.mk.co.kr/article/12150503",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723960",
-  "http://www.srtimes.kr/news/articleView.html?idxno=212205",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=275225",
-  "https://www.livebiz.today/news/articleView.html?idxno=204830",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=208427",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=208426",
   "https://www.e-science.co.kr/news/articleView.html?idxno=135300",
   "https://en.yna.co.kr/view/AEN20260911007400320?input=2106m",
@@ -2999,17 +2991,17 @@
   "https://www.jbnews.com/news/articleView.html?idxno=1511509",
   "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html?partner=naver",
   "https://futurechosun.com/?p=160211",
-  "https://www.fnnews.com/news/202609141840210167"
+  "https://www.fnnews.com/news/202609141840210167",
+  "https://biz.sbs.co.kr/article_hub/20000334477?division=NAVER",
+  "https://www.thelec.kr/news/articleView.html?idxno=62242",
+  "https://www.busan.com/view/busan/view.php?code=2026091419015199980",
+  "https://www.thelec.kr/news/articleView.html?idxno=62258",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5219125",
+  "https://www.sedaily.com/article/20090831",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260915.22019004480",
+  "https://www.edaily.co.kr/News/Read?newsId=04323046645580120&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "'탈중국'기조미국ESS가'K-배터리'에던진과제",
-  "코스피,유가·금리공포속낙폭줄여6900선마감…코스닥도하락",
-  "이통3사,아이폰18프로예약판매실시...혜택경쟁본격화",
-  "코스피1.76%급락하며6900선턱걸이…코스닥도1.95%하락",
-  "[속보]장중6,800까지밀렸던코스피,123포인트빠지며6,910으로마감",
-  "KB국민카드,추석맞이이벤트선봬",
-  "“다시7000피밑으로”…코스피1.7%하락마감,코스닥도내려",
-  "[EBN데이터센터]유가·금리'이중고'에코스피휘청…6900선마감",
   "이통3사,아이폰18프로사전예약돌입…가입자유치전",
   "신한카드,아이폰18출시기념이벤트...온라인구매시최대12개월무...",
   "이통3사아이폰18프로12일예약판매...프로199만원·프로맥스219만원...",
@@ -6001,7 +5993,15 @@
   "SK하이닉스직원상반기평균급여1억4천여만원…직장인연평균3.2배",
   "TechStocksShudderinResponsetoCallstoSlowA.I.Progress",
   "[더나은미래경제브리핑]퇴근길주식거래장열렸다...금융권,추석앞...",
-  "데이터센터·AI힘주는건설업계,하반기젊은피대거수혈"
+  "데이터센터·AI힘주는건설업계,하반기젊은피대거수혈",
+  "[주간증시전망]오늘부터퇴근후8시까지주식매매…KRX,애프터마켓...",
+  "SK바이오팜,MSCIESG평가'AAA'획득",
+  "“SK이노와합병해자랑스럽나”성난SKIET주주들…회사“비율변경...",
+  "SK이노\"SKIET합병외추가개편없다...SK온IPO계획없어\"",
+  "삼전닉스,한전'5년치전기료25조선납'제안거절",
+  "“전문가부족”…보안인재양성맞손잡은기업·대학",
+  "[사설]부산대수시지원급증,지역거점대재도약기대된다",
+  "성과급·하청에복잡해진파업전선…공급망전체번질라노심초사"
  ],
  "recent_sigs": [
   [
@@ -7043,9 +7043,21 @@
   [
    "2026-09-14T19:01:47.833819+09:00",
    "건설업계 힘주는 대거 AI 젊은피 수혈 하반기 데이터센터"
+  ],
+  [
+   "2026-09-14T19:21:22.496573+09:00",
+   "인재 잡은 전문가 보안 양성 기업 대학 맞손 부족"
+  ],
+  [
+   "2026-09-14T19:21:22.496573+09:00",
+   "기대된다 지원 지역거점대 재도약 급증 부산대 수시"
+  ],
+  [
+   "2026-09-14T19:21:22.496573+09:00",
+   "파업 전선 노심초사 공급망 번질라 성과급 하청에 복잡해진 전체"
   ]
  ],
- "last_run": "2026-09-14T19:11:09.889213+09:00",
+ "last_run": "2026-09-14T19:21:33.765285+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
