@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jejudomin.co.kr/news/articleView.html?idxno=400018",
-  "https://en.yna.co.kr/view/AEN20260911007600320?input=2106m",
-  "https://biz.sbs.co.kr/article_hub/20000334176?division=NAVER",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486257",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=310995",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=318990",
   "http://www.paxetv.com/news/articleView.html?idxno=281652",
   "https://www.etoday.co.kr/news/view/2624593",
@@ -2999,14 +2994,14 @@
   "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026091400055&story_seq=0&soCode=114&socttSn=NS2026091400055&socttSeq=0",
   "http://www.kwangju.co.kr/article.php?aid=1789380900803347004",
   "https://www.itdaily.kr/news/articleView.html?idxno=241598",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276910"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276910",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95362",
+  "https://www.newspim.com/news/view/20260914001086",
+  "https://zdnet.co.kr/view/?no=20260914193136",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260915.22002004631",
+  "http://www.kjdaily.com/article.php?aid=1789381294686798028"
  ],
  "seen_titles": [
-  "충남도,1.5조기업투자유치…식품·축산·첨단산업동시견인",
-  "[Invest]웨스팅하우스가원전족쇄를풀열쇠?…韓·美·주주이해관계...",
-  "코스피,고유가·고금리여파6900선으로하락마감",
-  "할인부터AI구독까지..통신3사,아이폰신제품사전예약돌입",
-  "제주SK,부천원정서상위권추격가속",
   "KOSPI200ClosingPriceList-5",
   "중동긴장에7천피붕괴…국고채3년물4%대급등",
   "조선·발전부품수요폭발에…태웅,대형단조앞세워실적개선탄력",
@@ -6001,25 +5996,14 @@
   "[매일신문조규덕기자의위클리TK]SK실트론매각갈등,문장초씨름전...",
   "호남55.9%…이재명대통령국정수행든든한버팀목",
   "[AI브리프]코난테크놀로지,국방부OSINT분석플랫폼구축",
-  "SKInnovationPlansSKIETMergerToCutSeparatorCosts"
+  "SKInnovationPlansSKIETMergerToCutSeparatorCosts",
+  "[증권픽]미래에셋,공기업퇴직연금경쟁력강화릴레이세미나외",
+  "[코인시황]기술주급락·유가100달러에도비트코인'꿋꿋'…시선은클...",
+  "\"떳떳하십니까\"…SKIET주주들,5년만의재합병추진에쓴소리",
+  "田“산은이전최우선과제…대통령·은행장과논의”",
+  "이재명정부다시민심앞으로/김영집"
  ],
  "recent_sigs": [
-  [
-   "2026-09-14T13:41:04.229539+09:00",
-   "고수들 주식 상위 쓸어담았다 급락하자 초고수 SK하이닉스"
-  ],
-  [
-   "2026-09-14T13:41:04.229539+09:00",
-   "Summary News Yonhap"
-  ],
-  [
-   "2026-09-14T13:41:04.229539+09:00",
-   ""
-  ],
-  [
-   "2026-09-14T13:41:04.229539+09:00",
-   "지원 거창 함양 SKT 디지털 나선다 합천 취약계층 산청"
-  ],
   [
    "2026-09-14T13:51:04.890663+09:00",
    "인트론바이오 한국비엔씨 불기등 코로나19 다시 주목 테마주 주가"
@@ -7051,9 +7035,25 @@
   [
    "2026-09-14T19:31:34.176318+09:00",
    "Merger Cut Innovation Costs SKIET Separator To Plans"
+  ],
+  [
+   "2026-09-14T19:41:09.187227+09:00",
+   "시선은 기술주 비트코인 급락 꿋꿋 100달러에도 유가"
+  ],
+  [
+   "2026-09-14T19:41:09.187227+09:00",
+   "떳떳하십니까 5년 만의 재합병 쓴소리 SKIET 추진에 주주들"
+  ],
+  [
+   "2026-09-14T19:41:09.187227+09:00",
+   "대통령 은행장과 이전 최우선 산은 과제 논의"
+  ],
+  [
+   "2026-09-14T19:41:09.187227+09:00",
+   "민심 다시 김영집 이재명 정부 앞으로"
   ]
  ],
- "last_run": "2026-09-14T19:32:04.118753+09:00",
+ "last_run": "2026-09-14T19:41:23.416933+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
