@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20057505",
-  "https://www.mk.co.kr/article/12120705",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079762",
   "https://www.donga.com/news/Health/article/all/20260730/134390744/2",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34420",
@@ -2999,11 +2997,11 @@
   "https://medicalworldnews.co.kr/news/view.php?idx=1510977223",
   "http://www.weeklytoday.com/news/articleView.html?idxno=794417",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=727833",
-  "http://www.newstomato.com/ReadNews.aspx?no=1313573&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1313573&inflow=N",
+  "https://www.joongangenews.com/news/articleView.html?idxno=548046",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=254436"
  ],
  "seen_titles": [
-  "SK창업주장손최영근,5년만에지주사복귀",
-  "SK가3세최영근,5년만에일선복귀",
   "‘삼전닉스’두고증권가전망도‘극과극’",
   "[이사람]작은거인윤필재,체격대신기술로'황소15마리'",
   "무작정휘두르다“악”…라운딩전‘동적스트레칭’필수[이진한의...",
@@ -6001,7 +5999,9 @@
   "[피부과시술제대로알기]볼살·눈밑꺼짐부터팔자주름까지…콜라겐...",
   "[위클리오늘]강원,민주당과예산정책협의회개최…성장동력확보총...",
   "AI'속도조절론'에반도체휘청…코스피3%대급락",
-  "생태계선점부터BM구축,기술내재화까지…’재계빅4’AX전략"
+  "생태계선점부터BM구축,기술내재화까지…’재계빅4’AX전략",
+  "[마감시황]코스피3%급락한6680선...'AI속도조절론'악재",
+  "SK리밸런싱에울고웃는다...반도체54조투자할때지방은'철수'"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,17 @@
   [
    "2026-09-14T16:00:35.103814+09:00",
    "빅4 BM 내재화까지 구축 전략 선점부터 재계 AX 기술 생태계"
+  ],
+  [
+   "2026-09-14T16:10:17.286206+09:00",
+   "악재 급락한 속도조절론 AI 코스피 6680선"
+  ],
+  [
+   "2026-09-14T16:10:17.286206+09:00",
+   "지방은 SK리밸런싱에 웃는다 투자할 반도체 54조 울고 철수"
   ]
  ],
- "last_run": "2026-09-14T16:00:46.713393+09:00",
+ "last_run": "2026-09-14T16:10:33.431204+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
