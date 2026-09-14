@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=273858",
-  "https://www.hankyung.com/article/202609044179i",
-  "https://www.yna.co.kr/view/AKR20260904075000004?input=1195m",
-  "https://www.kukinews.com/article/view/kuk202609040062",
-  "https://www.fnnews.com/news/202609041131038572",
-  "https://www.pressian.com/pages/articles/2026090411314301868",
   "https://www.joongang.co.kr/article/25459096",
   "https://www.fnnews.com/news/202609041115191182",
   "https://www.huffingtonpost.kr/article/260162",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260914000502",
   "https://www.kgnews.co.kr/news/article.html?no=911432",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000011737&cp=nv",
-  "https://www.ytn.co.kr/_ln/0103_202609141101363848"
+  "https://www.ytn.co.kr/_ln/0103_202609141101363848",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=864894",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609141115401090885",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=275419",
+  "https://www.ngonews.kr/news/articleView.html?idxno=238067",
+  "https://www.hankookilbo.com/news/article/A2026091410460004549?did=NA",
+  "https://www.hani.co.kr/arti/area/capital/1277660.html"
  ],
  "seen_titles": [
-  "석화사업재편1호결실…HD현대·롯데케미칼,'H&L어드밴스드'출범",
-  "'공시대상기업허위제출'김준기DB창업회장\"허위아냐\"[CEO와법정]",
-  "'계열사자료허위제출'김준기DB회장첫재판서혐의부인",
-  "‘룸살롱접대의혹’지귀연재판행…공수처,불구속기소",
-  "\"교제알리면직장잃을까봐\"…제자살해·유기한中강사,사이코패스...",
-  "경산중국인유학생살해한대학강사정창성구속송치…연인관계폭로...",
   "‘삼성전자노조블랙리스트의혹’직원6명검찰송치",
   "공수처,'룸살롱접대혐의'지귀연부장판사기소...뇌물수수불기소...",
   "우크라이나,정보기관사이갈등에수도도심에서총격전:젤렌스키체...",
@@ -6001,10 +5995,16 @@
   "경찰,'선거법위반혐의'김진규검단구청장관련자압수수색",
   "유령상품권업체차려934억세탁…범죄수익전문세탁조직적발",
   "경찰,김진규검단구청장선거법위반의혹관련압수수색",
-  "노동부,HL만도본사압수수색...중처법위반여부집중"
+  "노동부,HL만도본사압수수색...중처법위반여부집중",
+  "[ESG칼럼]좋은기업,나쁜기업,이상한기업",
+  "권익위,1300억대‘모듈러교실입찰담합’적발",
+  "쿠팡vs공정위'현장조사집행정지'갈림길…유통규제지형,법원판단...",
+  "경찰,김진규인천검단구청장선거법의혹강제수사…전운전기사압수...",
+  "노동부,HL만도2차압수수색…20대하청노동자끼임사망수사",
+  "경찰,김진규인천검단구청장강제수사착수…공직선거법위반혐의"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-14T11:20:58.322417+09:00",
+ "last_run": "2026-09-14T11:31:04.979969+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
