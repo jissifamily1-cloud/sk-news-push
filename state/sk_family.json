@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000331938?division=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697214",
-  "https://www.tenasia.co.kr/article/2026090164184",
-  "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/01/20260901500161?wlog_tag3=naver",
-  "https://www.sportschosun.com/life/2026-09-01/202609010100006980000212",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697227",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87798",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169231",
-  "https://www.globale.co.kr/news/articleView.html?idxno=40145",
   "https://www.etnews.com/20260901000285",
   "https://www.newsway.co.kr/news/view?ud=2026090113500008560",
   "https://www.yna.co.kr/view/AKR20260901106900005?input=1195m",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/AKR20260915024700004?input=1195m",
   "https://www.newspim.com/news/view/20260915000084",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609150808121110019",
-  "https://www.news1.kr/society/court-prosecution/6290437"
+  "https://www.news1.kr/society/court-prosecution/6290437",
+  "http://www.paxetv.com/news/articleView.html?idxno=280855",
+  "https://kpenews.com/View.aspx?No=4227039",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487018",
+  "https://www.segye.com/newsView/20260915502789?OutUrl=naver",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/15/2026091500037.html",
+  "https://www.sentv.co.kr/article/view/sentv202609150016",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/15/2026091590064.html",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62552",
+  "https://www.kado.net/news/articleView.html?idxno=2072654"
  ],
  "seen_titles": [
-  "[직설]롤러코스피지나자박스피,거래열기'뚝'…워시발긴축신호까...",
-  "내년반도체특별회계2조6000억신설…\"정부차원신속재정뒷받침\"",
-  "'SK창업주외손자'재벌3세레이든,LA→대만페스티벌서끊임없는러...",
-  "최종현경기도의원,인권영향평가실효성높인다…조례개정안대표발...",
-  "[부고]이형희SK㈜부회장장모상",
-  "정부,추가세수162조기반'미래대응기금'신설…메가프로젝트예산2배...",
-  "취임28주년최태원,반도체ㆍAI로…글로벌영토확장",
-  "[부음]이형희(SK㈜부회장)씨장모상",
-  "[부고]이형희(SK부회장)씨장모상",
   "최태원이띄운일본메모리공장…SK하이닉스,생산거점다변화'촉각'",
   "서까래가로지른유리구슬거미줄…한옥에쌓인삶의시간",
   "'모범택시3'나온日배우\"내한국인기는거짓이었다\"실체폭로(라스...",
@@ -6001,7 +5992,16 @@
   "최태원,'동거인1천억원발언'불기소에불복…\"50배부풀려\"",
   "최태원회장측,'1000억지출'주장변호사불기소에항고",
   "최태원측“노소영대리인,재판영향주려허위수치유포…불기소항...",
-  "최태원측\"노소영변호사,금액50배부풀려\"…檢불기소불복항고"
+  "최태원측\"노소영변호사,금액50배부풀려\"…檢불기소불복항고",
+  "[부고]이형희(SK㈜부회장)씨장모상",
+  "최태원회장측,검찰불기소에불복항고..이상원변호사명예훼손건",
+  "SK최태원,'동거인에1000억원'노소영측변호사발언에항고",
+  "최태원측,“동거인에1000억넘게지출”발언불기소에항고",
+  "최태원SK회장,노소영측명예훼손불기소에항고…\"왜곡된사실언...",
+  "\"동거인에1000억썼다는건허위\"…최태원,노소영측변호사불기소에...",
+  "최태원측\"'김희영에1000억'주장한노소영측변호사불기소에항고...",
+  "HBM가격,내년최대140%뛴다..그배경은?",
+  "최태원-노소영또충돌…'동거인1000억지출'놓고법적공방"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-09-15T08:30:21.563981+09:00",
    "처분에 불기소 항고 유포 허위사실"
+  ],
+  [
+   "2026-09-15T08:40:13.460020+09:00",
+   "내년 배경은 가격 뛴다 HBM"
+  ],
+  [
+   "2026-09-15T08:40:13.460020+09:00",
+   "충돌 1000억 공방 놓고 지출 동거인 법적"
   ]
  ],
- "last_run": "2026-09-15T08:30:33.819143+09:00",
+ "last_run": "2026-09-15T08:40:31.632843+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6388,6 +6396,7 @@
   "niceeconomy.co.kr": "나이스경제",
   "ubc.co.kr": "ubc.co.kr",
   "electimes.com": "전기신문",
-  "doctorstimes.com": "의사신문"
+  "doctorstimes.com": "의사신문",
+  "dailycar.co.kr": "데일리카"
  }
 }
