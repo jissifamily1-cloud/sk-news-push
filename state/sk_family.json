@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260831517902?OutUrl=naver",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535919",
-  "http://www.cctimes.kr/news/articleView.html?idxno=924608",
   "https://www.khan.co.kr/article/202608312033005",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=600037",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7181623",
@@ -2999,12 +2996,12 @@
   "http://www.wsobi.com/news/articleView.html?idxno=318084",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34747",
   "https://www.news1.kr/bio/general/6289208",
-  "http://kor.theasian.asia/archives/415477"
+  "http://kor.theasian.asia/archives/415477",
+  "https://www.medipana.com/news/articleView.html?idxno=417557",
+  "https://www.thebigdata.co.kr/view.php?ud=202609110815335934bbceadc3c9_23",
+  "https://www.seoulfn.com/news/articleView.html?idxno=637773"
  ],
  "seen_titles": [
-  "최태원\"일본반도체공장건설검토\"…SK\"합작공장설립은아냐\"",
-  "SK하이닉스반도체공장일본에도들어서나…최태원“검토중,논의가...",
-  "최태원\"일본에반도체합작공장설립검토\"…SK,합작공장은부인",
   "청주상의한일지방상의교류우수사례표창",
   "최태원“일본에하이닉스메모리공장설립검토”",
   "SK최태원회장\"일본반도체공장설립\"언급없었다",
@@ -6001,7 +5998,10 @@
   "삼성전자-SK그룹-LG전자'갤럭시AI클래스'2학기참여학급모집...울산...",
   "국회,경제계와상시협의체출범…노동계·소비자의견수렴은과제",
   "노을,지난해사회성과34.6억창출…\"의료접근성높이는데공헌\"",
-  "[오늘의신문]호르무즈불안에유가다시상승…중국PHEV·청년고용·퇴..."
+  "[오늘의신문]호르무즈불안에유가다시상승…중국PHEV·청년고용·퇴...",
+  "노을,지난해사회성과34.6억인정…전년比3.5배",
+  "[SK그룹줌인]SK에코플랜트,반도체중심재편마무리수순...남은변수...",
+  "[창간24/AI發K자성장②]\"반도체다음은전력\"···全계통폭발적성..."
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,17 @@
   [
    "2026-09-14T09:00:33.071759+09:00",
    "호르무즈 다시 청년고용 불안에 중국 유가 PHEV 상승"
+  ],
+  [
+   "2026-09-14T09:20:15.438028+09:00",
+   "반도체 SK에코플랜트 변수 재편 수순 마무리 남은 중심"
+  ],
+  [
+   "2026-09-14T09:20:15.438028+09:00",
+   "반도체 전력 다음은 계통 폭발적"
   ]
  ],
- "last_run": "2026-09-14T09:10:25.582055+09:00",
+ "last_run": "2026-09-14T09:20:29.378478+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
