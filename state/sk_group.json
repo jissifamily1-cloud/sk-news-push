@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=144387",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=406866",
-  "https://biz.heraldcorp.com/article/10872094",
-  "https://biz.heraldcorp.com/article/10872092",
-  "http://www.newskr.kr/news/articleView.html?idxno=106332",
-  "https://www.asiatime.co.kr/article/20260914500049",
-  "https://www.woodkorea.co.kr/news/articleView.html?idxno=91322",
-  "https://www.newspim.com/news/view/20260914000167",
-  "https://news.dealsitetv.com/articles/175938",
   "https://www.electimes.com/news/articleView.html?idxno=372362",
   "https://www.news1.kr/finance/market-exr/6289259",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16709",
@@ -2999,18 +2990,18 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277016",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=645590",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1100097",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1067983"
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1067983",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318885",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318886",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084362",
+  "https://www.edaily.co.kr/News/Read?newsId=05080726645580448&mediaCodeNo=257",
+  "https://www.hidomin.com/news/articleView.html?idxno=721356",
+  "https://www.edaily.co.kr/News/Read?newsId=05034806645580448&mediaCodeNo=257",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062646",
+  "https://www.ekn.kr/web/view.php?key=20260915026215150",
+  "https://www.edaily.co.kr/News/Read?newsId=05041366645580448&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "SKT,롯데월드심야대관해'장기고객'3천명과함께축제",
-  "SKT,'어드벤처데이'로장기고객과한밤의축제즐겼다",
-  "SKT,심야롯데월드'통대관'해장기고객들과축제",
-  "코스피,6700선급락출발…AI속도조절론여파",
-  "[개장시황]코스피,FOMC앞두고3%대급락…외인·기관'팔자'에6600선...",
-  "SK바이오팜,3년연속MSCIESG최고등급‘AAA’획득...국내제약업계...",
-  "롯데월드밤새통대관한SKT…장기고객3000명‘어드벤처데이’축제",
-  "SKT,장기고객과한밤축제즐겨..‘어드벤처데이’개최",
-  "코스피,美금리경계에3%대급락출발···반도체株약세에6700선후...",
   "코스피,장초반3%급락에6700아래로...美9월금리인상확률'86%'",
   "SKAX,AI교육도인증시대연다…고용노동부장관상수상",
   "“中반도체60%까지따라와…첨단기술조기도입만이살길”[헤럴드...",
@@ -6001,7 +5992,16 @@
   "LSCable&SystemFacesFirstStrikeThreatin37Years",
   "프로농구,29일미디어데이개최",
   "SK하이닉스시니어서포터즈새출발",
-  "석화구조조정마지막퍼즐울산…'감축만으론안풀린다'"
+  "석화구조조정마지막퍼즐울산…'감축만으론안풀린다'",
+  "SK인텔릭스'나무엑스',말레이시아첫진출…AI웰니스로봇글로벌공...",
+  "SKT,콜센터품질지수평가서5년연속최우수기업선정",
+  "iM뱅크,11월30일까지'텐텐통장'신규가입이벤트",
+  "\"통장하나로해외주식투자\"iM뱅크‘텐텐통장’이벤트",
+  "iM뱅크,'텐텐통장'신규가입푸짐한경품·현금이벤트",
+  "AI속도조절론에K칩촉각…\"HBM수요당장안꺾인다\"",
+  "[부고]윤영두(SK이노베이션부사장)씨부친상",
+  "[똑똑한리빙]바디프랜드,신세계까사,나무엑스",
+  "미중'AI치킨게임'번진다…\"K칩수요유지할것\""
  ],
  "recent_sigs": [
   [
@@ -7051,9 +7051,21 @@
   [
    "2026-09-15T19:11:03.132432+09:00",
    "구조조정 풀린다 석화 퍼즐 울산 감축만으론 마지막"
+  ],
+  [
+   "2026-09-15T19:21:01.070556+09:00",
+   "부친상 SK이노베이션 부사장 윤영두"
+  ],
+  [
+   "2026-09-15T19:21:01.070556+09:00",
+   "바디프랜드 나무엑스 신세계까사"
+  ],
+  [
+   "2026-09-15T19:21:01.070556+09:00",
+   "수요 유지할 K칩 번진다 미중 치킨게임 AI"
   ]
  ],
- "last_run": "2026-09-15T19:12:57.071811+09:00",
+ "last_run": "2026-09-15T19:21:12.721493+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
