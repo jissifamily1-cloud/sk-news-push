@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005241",
   "http://www.press9.kr/news/articleView.html?idxno=82060",
   "http://www.metroseoul.co.kr/article/20260902500543",
   "https://www.yna.co.kr/view/AKR20260902134300003?input=1195m",
@@ -2999,10 +2998,10 @@
   "http://www.lkp.news/news/articleView.html?idxno=83583",
   "https://www.sedaily.com/article/20091157",
   "https://www.newscj.com/news/articleView.html?idxno=3432910",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192044"
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192044",
+  "https://www.hinews.co.kr/view.php?ud=202609151550229903cd8b879b3c_48"
  ],
  "seen_titles": [
-  "최태원SK회장\"키옥시아공동생산·日공장검토…협력불발땐투자...",
   "최태원SK회장,日반도체합작공장설립검토…\"전력·용수풍부하면...",
   "최태원,일본에반도체투자검토이유는…탄탄한소부장생태계",
   "[그래픽]권혁빈'최대8조'이혼소송,세가지쟁점",
@@ -6001,7 +6000,8 @@
   "최성환사장SK네트웍스지분대량매도...전문경영인중심체제강화...",
   "“어?아이폰아니네”젠슨황도쓰는‘삼성폰’…트럼프전화받다...",
   "젠슨황손에또삼성폴더블폰…이번엔'갤럭시Z폴드8'",
-  "\"제조경쟁력에감성더한다\"…SK,AI인프라연계특화생태계구축"
+  "\"제조경쟁력에감성더한다\"…SK,AI인프라연계특화생태계구축",
+  "\"노관장측왜곡과억지,명예훼손항고\"...최태원회장,검찰불기소에..."
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "제조 구축 AI 인프라 경쟁력에 더한다 특화 생태계 연계 감성"
   ]
  ],
- "last_run": "2026-09-15T15:50:27.591353+09:00",
+ "last_run": "2026-09-15T16:00:39.919891+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
