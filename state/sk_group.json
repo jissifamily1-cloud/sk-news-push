@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1689940/?sc=Naver",
-  "https://www.g-enews.com/view.php?ud=202609140933132537fbbec65dfb_1",
-  "https://en.yna.co.kr/view/AEN20260914001700320?input=2106m",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1015568",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=319073",
   "http://www.weeklytoday.com/news/articleView.html?idxno=794269",
   "https://www.newscj.com/news/articleView.html?idxno=3432384",
@@ -2999,13 +2995,13 @@
   "https://www.kyeongin.com/article/1770931",
   "https://www.kyeongin.com/article/1770922",
   "https://www.joongboo.com/news/articleView.html?idxno=363736864",
-  "https://www.khan.co.kr/article/202609152006005"
+  "https://www.khan.co.kr/article/202609152006005",
+  "https://www.ekn.kr/web/view.php?key=20260915027445166",
+  "https://www.newscj.com/news/articleView.html?idxno=3432747",
+  "https://www.newstnt.com/news/articleView.html?idxno=718544",
+  "https://news.mtn.co.kr/news-detail/2026091520134144895"
  ],
  "seen_titles": [
-  "SK바이오팜\"3년연속MSCIESG최고등급획득\"",
-  "'25조전기료선납'한전제안에…삼성전자·SK하이닉스'거절'",
-  "SK이터닉스,파주에코그린상업운전개시…연258GWh전력생산",
-  "SKAX,자체AI역량인증제도정부공인…고용노동부장관상수상",
   "코스피,장초반3%대급락6600선후퇴…외인·기관팔자",
   "이통3사,네팔대홍수구호인력로밍요금전액면제한다",
   "호주데이터센터8개사뭉친날…엔비디아가그린2GWAI영토의명암",
@@ -6001,7 +5997,11 @@
   "인천대학,반도체·바이오학과수험생몰린다",
   "[경인어젠다]“용인반도체클러스터가동,속도내야”",
   "핀셋규제두달,동탄·기흥·구리집값…풍선효과만뚜렷",
-  "적극적주주환원제도,주식시장재도약의불쏘시개로[박동흠의생활속..."
+  "적극적주주환원제도,주식시장재도약의불쏘시개로[박동흠의생활속...",
+  "[패트롤]영천시-대구남구-영남이공대-iM뱅크-대구시교육청",
+  "광명시,160억투입'탄소중립스마트도시'구축…DRT연14억운영비",
+  "[공시]9월16일,코스피상장사42개종목자사주매수신청",
+  "삼성전자·SK하이닉스애프터마켓서소폭반등"
  ],
  "recent_sigs": [
   [
@@ -6967,9 +6967,25 @@
   [
    "2026-09-15T20:31:12.264431+09:00",
    "주식시장 주주환원제도 박동흠의 재도약의 생활 불쏘시개로 적극적"
+  ],
+  [
+   "2026-09-15T20:41:00.725309+09:00",
+   "영천시 iM뱅크 영남이공대 대구시교육청 대구남구"
+  ],
+  [
+   "2026-09-15T20:41:00.725309+09:00",
+   "160억 DRT 14억 광명시 운영비 탄소중립 구축 투입 스마트도시"
+  ],
+  [
+   "2026-09-15T20:41:00.725309+09:00",
+   "종목 9월 상장사 신청 매수 42개 코스피 16일 자사주"
+  ],
+  [
+   "2026-09-15T20:41:00.725309+09:00",
+   "삼성전자 소폭 애프터마켓서 반등 SK하이닉스"
   ]
  ],
- "last_run": "2026-09-15T20:31:25.991065+09:00",
+ "last_run": "2026-09-15T20:41:14.568120+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
