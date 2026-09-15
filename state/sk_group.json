@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.electimes.com/news/articleView.html?idxno=372382",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075252",
-  "https://biz.heraldcorp.com/article/10872585",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423675",
-  "http://www.finomy.com/news/articleView.html?idxno=261490",
-  "https://www.mt.co.kr/society/2026/09/14/2026091411071714830",
-  "https://www.newstnt.com/news/articleView.html?idxno=718132",
-  "https://www.mediapen.com/news/view/1123307",
   "https://www.fashionbiz.co.kr/article/229478",
   "https://www.ajunews.com/view/20260914111536910",
   "https://www.cnbizm.com/news/articleView.html?idxno=314968",
@@ -2999,17 +2991,17 @@
   "http://www.queen.co.kr/news/articleView.html?idxno=462481",
   "https://www.youthdaily.co.kr/news/article.html?no=227127",
   "https://www.yna.co.kr/view/AKR20260916013400011?input=1195m",
-  "https://biz.sbs.co.kr/article_hub/20000334881?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000334881?division=NAVER",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=727930",
+  "https://www.newsis.com/view/NISX20260916_0003791122",
+  "https://www.hankyung.com/article/2026091671456",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/16/2026091600024.html",
+  "https://www.dailian.co.kr/news/view/1689796/?sc=Naver",
+  "https://www.businessplus.kr/news/articleView.html?idxno=116897",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88168",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487373"
  ],
  "seen_titles": [
-  "긴축경계감속코스피6700선…개인2조'저가매수'[장중시황]",
-  "AI수장들“속도늦추자”…삼전·하이닉스긴장하는이유",
-  "SK텔레콤,경남4개군과'찾아가는서비스'협력…디지털격차해소",
-  "SK바이오팜,오파칼림도입승부수…임상보류해제가분수령",
-  "쿠팡알럭스,27일까지'추석감사제'…설화수·SK-II·랑콤등국내외...",
-  "'유가쇼크'코스피3%급락…6600선곤두박질",
-  "국내원유수급선방에도…유가재급등에정유업계'이중고'",
-  "코스피,낙폭2%대축소…반도체둔화속보안株·K뷰티↑",
   "코스피3%대하락출발...외국인·기관매도세",
   "[르포]\"터빈높이만227m…국내최초민간해상풍력1단지가연'바람...",
   "파리바게뜨오비맥주하이트진로外(유통家이모저모)",
@@ -6001,7 +5993,15 @@
   "[영재교육]2027학년도영재교육원선발,교육청부터대학부설까지어떻...",
   "오를땐\"지수견인\",내릴땐\"급락주도\"...코스피‘반도체쏠림’의...",
   "[전국주요신문톱뉴스](16일조간)",
-  "[애프터마켓리뷰]제조AI확산·中로봇규제기대…로봇주줄줄이급..."
+  "[애프터마켓리뷰]제조AI확산·中로봇규제기대…로봇주줄줄이급...",
+  "[프리마켓포커스]美증시하락에도반도체반등…삼전·SK하닉강세",
+  "SK證\"한화,목표가17만원으로상향…인적분할효과본격화\"",
+  "\"한화,인적분할후합산시가총액33.9%증가…목표가↑\"-SK",
+  "[속보]국채금리·유가동반급등…뉴욕증시일제히하락,삼전닉스프...",
+  "치솟는집값,원룸도사치다…달라진청년주거지도[Now2.30]",
+  "[요즘테크+/③]AI성적표라는'벤치마크',무엇을재고무엇을놓치나",
+  "\"영유아감염병예방전선구축\"…SK바이오사이언스,소아청소년과심포...",
+  "SK바이오사이언스,'2026NEWVISION심포지엄'성료"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,25 @@
   [
    "2026-09-16T08:11:03.090774+09:00",
    "확산 기대 제조AI 로봇주 로봇 규제 줄줄이"
+  ],
+  [
+   "2026-09-16T08:21:05.503861+09:00",
+   "주거 사치다 원룸도 지도 달라진 집값 청년 치솟는"
+  ],
+  [
+   "2026-09-16T08:21:05.503861+09:00",
+   "무엇을 재고 놓치나 벤치마크 AI 성적표라는"
+  ],
+  [
+   "2026-09-16T08:21:05.503861+09:00",
+   "감염병 SK바이오사이언스 영유아 전선 예방 구축 심포 소아청소년과"
+  ],
+  [
+   "2026-09-16T08:21:05.503861+09:00",
+   "NEW VISION 성료 SK바이오사이언스 심포지엄"
   ]
  ],
- "last_run": "2026-09-16T08:11:27.919920+09:00",
+ "last_run": "2026-09-16T08:21:19.463605+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
