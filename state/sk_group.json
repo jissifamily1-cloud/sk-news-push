@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6453",
-  "http://www.newskr.kr/news/articleView.html?idxno=106343",
-  "https://biz.heraldcorp.com/article/10872379",
-  "https://www.munhwa.com/article/11616751",
-  "https://www.joongangenews.com/news/articleView.html?idxno=547820",
-  "https://www.ekn.kr/web/view.php?key=20260914027164268",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=253063",
   "https://www.koreaherald.com/article/10872526",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/14/2026091490121.html",
@@ -2999,15 +2993,15 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=446718",
   "https://www.seoulfn.com/news/articleView.html?idxno=638066",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8664543",
-  "https://en.yna.co.kr/view/AEN20260916000500320?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260916000500320?input=2106m",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282240",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267685&CMPT_CD=P0010",
+  "https://www.dailian.co.kr/news/view/1690609/?sc=Naver",
+  "https://biz.sbs.co.kr/article_hub/20000334867?division=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487353",
+  "https://www.etnews.com/20260916000010"
  ],
  "seen_titles": [
-  "'SK하이닉스독점'끝난한미반도체,실적성장여지더커진이유는",
-  "하나증권·업비트글로벌,디지털자산사업협력…싱가포르서기회모색",
-  "'태광이탈'8000억대넥스플렉스인수전…부산EP완주'난항'",
-  "코스피,장중2%대내려6,700대…하락폭다소축소",
-  "\"SK이노,AI에너지솔루션기업으로\"",
-  "[더벨][SK리밸런싱2년]2024년이천선언...숨가빴던조정후찾아온'온...",
   "추격30년넘어세계경제리드…AI시대,한국의새도약을묻다",
   "'AI속도조절'에블랙먼데이오나...전문가들\"반도체장기수요는탄...",
   "반도체호황에내년법인세첫200조돌파…15년만에소득세추월",
@@ -6001,7 +5995,13 @@
   "[WhoIs?]곽노정SK하이닉스대표이사사장",
   "[뉴욕증시]국채5%·유가108달러'더블펀치',이틀째휘청···반도체...",
   "“AI개발늦추면삼전닉스폭락?”…K반도체위기설뜯어보니[잇슈머...",
-  "TopheadlinesinmajorS.Koreannewspapers"
+  "TopheadlinesinmajorS.Koreannewspapers",
+  "뉴욕증시,국채금리·유가급등에이틀째하락…나스닥0.8%↓",
+  "[손병관의뉴스프레소]여당의원들,기자회견앞둔대통령에'공소취소...",
+  "환율하락에웃는금융지주…연말'주주환원보따리'커지나",
+  "[증시전략]美클래리티법,상원서절차표결부결…비트코인급락세",
+  "힐스테이트1위지켰다…자이브랜드평판51%급등",
+  "블루어드,'2026대한민국일자리으뜸기업'선정"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,29 @@
   [
    "2026-09-16T07:10:57.419492+09:00",
    "major Top in headlines Korean newspapers"
+  ],
+  [
+   "2026-09-16T07:21:06.161345+09:00",
+   "공소취소 대통령에 기자회견 앞둔 의원들 여당"
+  ],
+  [
+   "2026-09-16T07:21:06.161345+09:00",
+   "연말 금융지주 웃는 커지나 하락에 주주환원 환율 보따리"
+  ],
+  [
+   "2026-09-16T07:21:06.161345+09:00",
+   "비트코인 클래리티법 부결 급락세 상원서 절차표결"
+  ],
+  [
+   "2026-09-16T07:21:06.161345+09:00",
+   "지켰다 급등 브랜드평판 자이 1위 힐스테이트"
+  ],
+  [
+   "2026-09-16T07:21:06.161345+09:00",
+   "선정 일자리 으뜸기업 블루어드 대한민국"
   ]
  ],
- "last_run": "2026-09-16T07:11:51.668122+09:00",
+ "last_run": "2026-09-16T07:21:22.598446+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
