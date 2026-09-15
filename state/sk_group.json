@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20260913000500320?input=2106m",
-  "https://www.newsis.com/view/NISX20260911_0003786231",
-  "https://www.ekn.kr/web/view.php?key=20260831027158491",
-  "https://www.edaily.co.kr/News/Read?newsId=01384166645579792&mediaCodeNo=257",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266834&CMPT_CD=P0010",
-  "https://www.ajunews.com/view/20260913100608710",
-  "https://www.ddaily.co.kr/page/view/2026091309581144779",
-  "https://www.ddaily.co.kr/page/view/2026091309363895145",
-  "https://www.viva100.com/article/20260913500294",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061492",
   "http://www.metroseoul.co.kr/article/20260913500096",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486465",
@@ -2999,18 +2990,18 @@
   "https://biz.heraldcorp.com/article/10873760",
   "https://www.sedaily.com/article/20091020",
   "https://www.tokenpost.kr/news/market/408063",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447229"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=447229",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50346",
+  "https://www.aitimes.com/news/articleView.html?idxno=215272",
+  "http://www.whosaeng.com/173713",
+  "https://www.munhwa.com/article/11617160",
+  "https://www.news1.kr/world/northeast-asia/6290960",
+  "http://www.bizwnews.com/news/articleView.html?idxno=146311",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034765",
+  "https://www.sisaweek.com/news/articleView.html?idxno=237892",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=311209"
  ],
  "seen_titles": [
-  "\"통신비25%더할인\"문자돌던데…진짜대상자따로있다",
-  "‘부정적’전망단SK지오센트릭,700억회사채수요예측",
-  "‘반도체슈퍼사이클’에입시판도들썩…계약학과경쟁률28.5대1",
-  "\"서울에얼마안남은10억미만대단지\"…은평구언덕에위치한이곳",
-  "SKchairmancallsforsustainableAIbizmodelamidinvestmentboom",
-  "유동성분산이'복병'…시세조종악용여지도커져[12시간거래시대③]",
-  "[똑똑한여행]워커힐,하나투어,서울신라호텔,모두투어,소노,호텔스...",
-  "최태원\"SK이노,AIDC전기화솔루션·에너지컨설팅으로확대\"",
-  "울산HD이동경10골10도움대기록...두시즌연속한국인선수최초",
   "최태원\"울산,제조AI전초기지로구축\"…'AI시티'청사진제시",
   "최태원\"울산,제조AI·시민행복·예술아우른'AI시티'로도약해야\"",
   "SKT,경남고령지역서통신밀착지원…지자체와‘찾아가는서비스’",
@@ -6001,7 +5992,16 @@
   "상반기‘중동반사이익’누린정유·석화…하반기는희비엇갈린다[...",
   "이달말韓자본시장첫통합IR개막…일반투자자도참석가능",
   "SKHX2862만달러재매수주문…기존보다30.3%많아",
-  "[현장]국내환경단체\"국민성장펀드'SKLNG발전'에투자안돼,미래녹..."
+  "[현장]국내환경단체\"국민성장펀드'SKLNG발전'에투자안돼,미래녹...",
+  "최태원회장,울산AI현장점검…SK'AX전환'속도",
+  "\"AI에이전트결제전,문자로물어본다\"...SKT,GSMARCS회의개최",
+  "SK바이오팜이동훈사장,자사주1,000주추가매입",
+  "반도체등‘대기업계약학과’수시지원역대최대",
+  "\"日낸드메모리키옥시아,내년美ADR상장해100억달러조달\"",
+  "SK인텔릭스,나무엑스말레이시아진출로'글로벌웰니스로봇'시장잡...",
+  "안성시의회\"송·변전시설집중지역'보통교부세산정'즉각재도입\"촉...",
+  "[이형일경제부총리청문회]여야,'자료제출'공방",
+  "KB금융發인적쇄신...여의도CEO세대교체는?"
  ],
  "recent_sigs": [
   [
@@ -7023,9 +7023,21 @@
   [
    "2026-09-15T12:11:26.545455+09:00",
    "국내 미래 환경단체 발전 안돼 투자 LNG 국민성장펀드"
+  ],
+  [
+   "2026-09-15T12:20:57.080475+09:00",
+   "변전시설 안성시의회 재도입 산정 즉각 지역 집중 보통교부세"
+  ],
+  [
+   "2026-09-15T12:20:57.080475+09:00",
+   "자료 제출 공방 여야"
+  ],
+  [
+   "2026-09-15T12:20:57.080475+09:00",
+   "인적쇄신 KB금융 세대교체는 여의도 CEO"
   ]
  ],
- "last_run": "2026-09-15T12:11:53.515265+09:00",
+ "last_run": "2026-09-15T12:21:08.948074+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
