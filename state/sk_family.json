@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=349011",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/02/2026090290031.html",
-  "https://www.starnewskorea.com/star/2026/09/02/2026090208381893721",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=861446",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=94601",
-  "https://www.hankyung.com/article/202609028358i",
-  "https://www.peoplewatch.co.kr/article/view/ppw202609010013",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=663650",
-  "https://www.yna.co.kr/view/AKR20260902032900017?input=1195m",
-  "https://www.fntimes.com/html/view.php?ud=202609011933264154094b7542a8_18",
   "https://view.asiae.co.kr/article/2026090208082761802",
   "https://biz.heraldcorp.com/article/10859512",
   "https://www.dailian.co.kr/news/view/1685227/?sc=Naver",
@@ -2999,19 +2989,19 @@
   "https://www.dailian.co.kr/news/view/1690343/?sc=Naver",
   "https://www.catchnews.kr/news/articleView.html?idxno=128424",
   "http://www.press9.kr/news/articleView.html?idxno=82722",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000550443"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000550443",
+  "https://www.ngonews.kr/news/articleView.html?idxno=238181",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=853520",
+  "http://www.lawissue.co.kr/view.php?ud=202609150919482192204ead0791_12",
+  "https://economist.co.kr/article/view/ecn202609150002",
+  "http://www.inews24.com/view/2000837",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71249",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170136",
+  "https://www.joongangenews.com/news/articleView.html?idxno=548120",
+  "https://www.hankyung.com/article/202609154674g",
+  "https://www.livebiz.today/news/articleView.html?idxno=204878"
  ],
  "seen_titles": [
-  "서울대10개만들기'…부산·전남·충남대에5년간700억",
-  "조혜련전격고백\"다음목표는미국카네기홀\"[라스]",
-  "국회미래연구원,'新한반도전략구상'포럼개최",
-  "[뉴시안창간14주년특별기획-점프UP코리아②]HBM만으론초격차못...",
-  "최태원\"日키옥시아와공동생산가능…합작공장도검토\"",
-  "해명·조회공시불러온최태원발언…실수혹은고도의전략?",
-  "[부고]이형희SK(주)부회장장모상",
-  "SKT정재헌\"AI전환,불편함의골짜기견뎌야J커브올라탄다\"",
-  "정재헌SKT대표\"AI도입하고기업들이사람수를줄이려한다.잘못된...",
-  "정재헌SKTCEO\"AI시대,토큰만들고쓰게하는사람이토큰경제장악...",
   "정재헌SKTCEO“AI시대,통찰·공감갖춘인재필요”",
   "\"AI활용신입이더빠른데채용줄인다고?\"…SKT정재헌\"인재고갈온...",
   "\"기술혁신,'불편함의골짜기'견뎌야초생산성도달\"…정재헌SKTCEO,...",
@@ -6001,7 +5991,17 @@
   "최태원측\"생활비20억을1000억으로부풀려\"…노소영변호사불기소에...",
   "\"동거인에1000억사용거짓,실제지출20억\"최태원SK회장,항고",
   "최태원SK회장측,노소영측변호사명예훼손불기소처분에항고",
-  "최태원측“노소영변호사,금액50배부풀려”…검찰불기소불복항..."
+  "최태원측“노소영변호사,금액50배부풀려”…검찰불기소불복항...",
+  "최태원회장,노소영아트센터나비관장측변호사불기소처분에항고",
+  "25조전남광주시'슈퍼금고'조례공방…'역차별'vs'고른금융'",
+  "최태원회장법률대리인,이상원변호사명예훼손불기소처분에항고",
+  "최태원,'동거인에1000억이상썼다'발언변호사명예훼손혐의항고",
+  "최성환SK네트웍스사장,보유주식대부분매도…45억원규모",
+  "우리정서담은K-가곡,세계적성악가들과함께만나보세요",
+  "최태원측,노소영대리인불기소에항고…\"1000억주장은왜곡\"",
+  "[종합]최태원SK회장,검찰불기소에항고…\"노소영측'1000억원'주장...",
+  "노소영변호인\"동거인에1000억썼다\"발언불기소에최태원측'항고'...",
+  "SK하이닉스가최대주주키옥시아도美ADR상장검토...\"최소100억달러..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-09-15T09:20:14.593922+09:00",
    "부풀려 변호사 불기소에 생활비 20억을 1000억으로"
+  ],
+  [
+   "2026-09-15T09:30:22.306969+09:00",
+   "키옥시아도 100억달러 최대주주 ADR SK하이닉스가 상장 최소 검토"
   ]
  ],
- "last_run": "2026-09-15T09:20:29.332963+09:00",
+ "last_run": "2026-09-15T09:30:34.889069+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
