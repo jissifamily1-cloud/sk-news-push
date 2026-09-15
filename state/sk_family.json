@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.seouleconews.com/news/articleView.html?idxno=93470",
-  "https://biz.chosun.com/industry/company/2026/09/02/PHJYMKDZHVFMNIPLCDEFLU4PY4/",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169288",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697566",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=300113",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443715",
   "https://www.ziksir.com/news/articleView.html?idxno=145089",
   "http://www.globalepic.co.kr/view.php?ud=20260902110016673048439a4874_29",
   "https://www.nocutnews.co.kr/news/6571986",
@@ -2999,15 +2993,15 @@
   "https://www.redian.org/news/articleView.html?idxno=257313",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=226369",
   "https://www.techm.kr/news/articleView.html?idxno=155230",
-  "https://www.meconomynews.com/news/articleView.html?idxno=201632"
+  "https://www.meconomynews.com/news/articleView.html?idxno=201632",
+  "https://www.cwn.kr/news/articleView.html?idxno=56346",
+  "https://www.mediawatch.kr/news/article.html?no=261040",
+  "https://www.donga.com/news/Economy/article/all/20260915/134670195/1",
+  "https://www.m-economynews.com/news/article.html?no=70337",
+  "https://www.bloter.net/news/articleView.html?idxno=673629",
+  "https://www.huffingtonpost.kr/article/260491"
  ],
  "seen_titles": [
-  "최태원SK회장“日키옥시아와공동생산가능성검토…협력없으면...",
-  "정재헌SKT대표\"AI시대경쟁력은통찰력과공감능력\"",
-  "정재헌SKTCEO\"AI전환,불편함넘어야'J커브'도달\"",
-  "서울대강단에선정재헌SK텔레콤CEO\"AI,기존원칙파괴…국가간경...",
-  "대한상의·기획예산처·GCC,한국형자발적탄소시장조성맞손",
-  "[CEO직썰]SKT정재헌CEO\"AI시대,불편함견뎌야'J커브'초생산성도...",
   "[CEO'sSpeech]SKT정재헌CEO가말한AI시대인재상은?",
   "서울대강단에선SKT정재헌\"통찰력·공감력이AI시대경쟁력\"",
   "정재헌SKTCEO,“AX의‘J커브’넘어야한다…통찰력·공감능력이경...",
@@ -6001,7 +5995,13 @@
   "최태원측,'동거인에1000억지출'주장반박...노소영측변호사명예...",
   "최태원회장,\"동거인에1천억원썼다\"발언변호사불기소에항고",
   "최태원SK회장'동거인에1000억원지출'불기소불복",
-  "SK최태원,'김희영에1000원억'명예훼손불기소항고...\"실제론20억원..."
+  "SK최태원,'김희영에1000원억'명예훼손불기소항고...\"실제론20억원...",
+  "최태원,'생활비50배부풀려'반박...검찰불기소결정에항고",
+  "최태원측,노소영측변호사불기소처분에항고…“50배이상부풀려...",
+  "최태원회장“노소영·변호사,거짓알고도50배부풀려”…검찰불기...",
+  "미·중경쟁속“新한반도전략설계해야”…국회서구상논의",
+  "최태원회장,'김희영에게1000억지출'정면반박…\"실제는20억\"",
+  "SK최태원'동거인에1천억썼다발언'노소영측명예훼손불기소처분..."
  ],
  "recent_sigs": [
   [
@@ -6097,7 +6097,7 @@
    "불복 불기소 50배 동거인 1천억 부풀려"
   ]
  ],
- "last_run": "2026-09-15T10:50:25.995118+09:00",
+ "last_run": "2026-09-15T11:00:39.026188+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
