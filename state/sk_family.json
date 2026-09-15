@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8652582",
-  "http://www.srtimes.kr/news/articleView.html?idxno=211442",
-  "https://www.dailian.co.kr/news/view/1685476/?sc=Naver",
   "https://www.sportschosun.com/sports-news/2026-07-31/202607310100198870012932",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=266310",
   "http://www.inews24.com/view/2001014",
@@ -2999,12 +2996,12 @@
   "https://www.peoplewatch.co.kr/article/view/ppw202609150006",
   "https://www.aflnews.co.kr/news/articleView.html?idxno=328253",
   "https://www.ngetnews.com/news/articleView.html?idxno=553310",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=275649"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=275649",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43757",
+  "https://news.jtbc.co.kr/article/NB12318394?influxDiv=NAVER",
+  "https://theopiniontimes.news/%eb%82%98-%ed%98%bc1000%ec%96%b5-%ec%82%ac%ec%9a%a9-%eb%b0%9c%ec%96%b8%ec%9d%80-50%eb%b0%b0-%eb%b6%80%ed%92%80%eb%a6%b0-%ed%97%88%ec%9c%84-%ec%b5%9c%ed%83%9c/"
  ],
  "seen_titles": [
-  "SK하이닉스,日키옥시아공동생산검토…메모리반도체공장건설도선...",
-  "최태원\"日키옥시아와공동생산도선택지…협력안되면투자종료\"",
-  "'세계2위K-펜싱'최신원회장\"사무실봉쇄어려움속에지원해준문체...",
   "정재헌SKTCEO\"AI전환시대,불편함골짜기견뎌야J커브도약\"",
   "최태원SK회장\"日키옥시아와공동생산가능\"…투자도검토",
   "'무서운국채금리'쇼크,전문가\"장기간지속되진않을것\"이유는?",
@@ -6001,7 +5998,10 @@
   "김희영에쓴돈'1000억vs20억'..…최태원·노소영의엇갈린셈법",
   "농협중앙회,신뢰받는농협구현위해임직원정보보호준수강화에나...",
   "최태원회장,명예훼손불기소에항고…\"노소영측,왜곡된주장반복...",
-  "20억을1천억원으로부풀리기'허위사실유포'…노소영변호사의'명예..."
+  "20억을1천억원으로부풀리기'허위사실유포'…노소영변호사의'명예...",
+  "최태원회장측,검찰불기소에항고…\"노소영관장측변호사허위사...",
+  "\"동거인에1천억?50배부풀려\"…최태원측,노소영변호사불기소에항...",
+  "‘나혼“1000억사용발언은50배부풀린허위”…최태원,불기소처분..."
  ],
  "recent_sigs": [
   [
@@ -6105,7 +6105,7 @@
    "지주사 변모 사업부로 삼킨"
   ]
  ],
- "last_run": "2026-09-15T11:40:26.116102+09:00",
+ "last_run": "2026-09-15T11:50:27.618992+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
