@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260902_0003773370",
-  "https://www.newspenguin.com/news/articleView.html?idxno=22117",
-  "http://www.yonhapnewstv.co.kr/news/MYH202609021537096sh",
-  "https://www.kado.net/news/articleView.html?idxno=2070120",
-  "https://www.apnews.kr/news/articleView.html?idxno=3050909",
   "http://www.newstomato.com/ReadNews.aspx?no=1312286&inflow=N",
   "https://biz.sbs.co.kr/article_hub/20000332311?division=NAVER",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=207559",
@@ -2999,14 +2994,14 @@
   "https://www.pennmike.com/news/articleView.html?idxno=127828",
   "https://www.fnnews.com/news/202609151402439087",
   "http://enews.imbc.com/News/RetrieveNewsInfo/518277",
-  "https://www.hankookilbo.com/news/article/A2026091511260001351?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026091511260001351?did=NA",
+  "https://news.mtn.co.kr/news-detail/2026091514451745315",
+  "https://www.catholictimes.org/article/20260911500045",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150414&t=NNv",
+  "https://www.apnews.kr/news/articleView.html?idxno=3051277",
+  "https://www.bloter.net/news/articleView.html?idxno=673653"
  ],
  "seen_titles": [
-  "사람살리는약,지구에는부담?...기후위기의아이러니",
-  "의원직사퇴즉답피한용혜인…\"청문회잘준비\"",
-  "강원대치대학부생3명,생분해성구강드레싱특허출원",
-  "SKT정재헌이꺼낸'AX의J커브'…\"불편함견뎌야초생산성온다\"",
-  "정부,3대메가프로젝트전폭지원…업계“실행속도기대”",
   "[셀럽의한수]\"9월아니라10월은기대\"이번엔‘옥토버서프라이즈...",
   "정재헌SKTCEO\"AI도입초기엔더불편...'J커브'넘어야생산성혁신...",
   "정재헌SKTCEO\"AI도입초기불편넘어야생산성J커브\"",
@@ -6001,21 +5996,14 @@
   "[재계핫이슈]삼전닉스의전기요금선납거절과호남반도체",
   "최태원측\"노소영변호사,20억알고도1000억으로부풀려...불기소항...",
   "조준호,눈밑지방재배치후달라졌다\"안면인식잠금도…\"(라스)",
-  "\"로봇개가순찰하고AI가최적점찾고\"…환갑넘은울산CLX의AX실험"
+  "\"로봇개가순찰하고AI가최적점찾고\"…환갑넘은울산CLX의AX실험",
+  "최태원,'동거인에1000억원'발언불기소불복…\"50배부풀려\"",
+  "베토벤·슈베트르미사곡한무대에…국립합창단30일연주회",
+  "[단독]레인보우로보틱스,미국에생산시설만든다…\"로봇수출재개\"",
+  "최태원,검찰불기소에항고…\"노소영·변호사,거짓알고도허위사실...",
+  "[SK인사시그널]①최창원,디스커버리위기에수펙스용퇴설솔솔"
  ],
  "recent_sigs": [
-  [
-   "2026-09-15T08:50:13.524114+09:00",
-   "알고도 주장 50배 변호사 허위사실 거짓 노소영과"
-  ],
-  [
-   "2026-09-15T08:50:13.524114+09:00",
-   "함정과 승자의 패자의 반전"
-  ],
-  [
-   "2026-09-15T08:50:13.524114+09:00",
-   "부실 폭탄 자회사 리밸런싱으로 개미에겐 유증 됐다"
-  ],
   [
    "2026-09-15T09:00:30.952523+09:00",
    "동거인 재판단 요구 1000억설"
@@ -6083,9 +6071,13 @@
   [
    "2026-09-15T14:30:20.261667+09:00",
    "AX 넘은 실험 찾고 환갑 순찰하고 로봇개가 AI가 최적점 울산CLX의"
+  ],
+  [
+   "2026-09-15T14:50:14.262802+09:00",
+   "솔솔 위기에 용퇴설 디스커버리 수펙스"
   ]
  ],
- "last_run": "2026-09-15T14:40:23.245427+09:00",
+ "last_run": "2026-09-15T14:50:25.998590+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
