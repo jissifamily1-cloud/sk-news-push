@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260902_0002227708",
   "https://biz.chosun.com/industry/company/2026/09/02/UCWVPFTVS5F6DA2ZAYDRJVPHYQ/",
   "http://enews.imbc.com/News/RetrieveNewsInfo/516796",
   "https://www.newsis.com/view/NISX20260817_0003751570",
@@ -2999,10 +2998,10 @@
   "https://www.hinews.co.kr/view.php?ud=202609151550229903cd8b879b3c_48",
   "http://www.lkp.news/news/articleView.html?idxno=84067",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724374",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1101654"
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1101654",
+  "https://www.asiatime.co.kr/article/20260915500379"
  ],
  "seen_titles": [
-  "[단독]최태원,이달말멕시코行…한-멕시코FTA논의‘주목’",
   "카사마츠쇼,혹독한K-예능신고식…'라스'서무슨일?",
   "SK최태원·빌게이츠,1년만에'선혜원'서재회…'SMR동맹'강화",
   "“AI시대가원하는인재는‘이것’갖춰야”…정재헌SKT사장,서울대...",
@@ -6001,7 +6000,8 @@
   "\"노관장측왜곡과억지,명예훼손항고\"...최태원회장,검찰불기소에...",
   "최성환SK네트웍스사장,ASX컴퍼니설립논란직면...'계열분리'위한...",
   "\"20억원이1000억원으로?\"…최태원측,노소영대리인정면반박",
-  "대한민국시도의회의장협의회,국회행안위면담…'지방의회법'연내제..."
+  "대한민국시도의회의장협의회,국회행안위면담…'지방의회법'연내제...",
+  "노소영측변호사A씨.사실알고도지출금액'50배'부풀린이유는"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-09-15T16:20:15.733530+09:00",
    "1000억원으로 정면 반박 대리인 20억원이"
+  ],
+  [
+   "2026-09-15T16:30:20.698251+09:00",
+   "50배 A씨 이유는 변호사 사실 지출금액 알고도 부풀린"
   ]
  ],
- "last_run": "2026-09-15T16:20:28.739690+09:00",
+ "last_run": "2026-09-15T16:30:35.267318+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
