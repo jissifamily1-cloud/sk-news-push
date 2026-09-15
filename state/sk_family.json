@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1312286&inflow=N",
-  "https://biz.sbs.co.kr/article_hub/20000332311?division=NAVER",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=207559",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=358318",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260902010000795",
   "https://www.hankyung.com/article/202609029896i",
@@ -2999,12 +2996,12 @@
   "https://www.catholictimes.org/article/20260911500045",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150414&t=NNv",
   "https://www.apnews.kr/news/articleView.html?idxno=3051277",
-  "https://www.bloter.net/news/articleView.html?idxno=673653"
+  "https://www.bloter.net/news/articleView.html?idxno=673653",
+  "http://www.dailypop.kr/news/articleView.html?idxno=102573",
+  "https://www.kado.net/news/articleView.html?idxno=2070120",
+  "https://view.asiae.co.kr/article/2026091514372221768"
  ],
  "seen_titles": [
-  "[셀럽의한수]\"9월아니라10월은기대\"이번엔‘옥토버서프라이즈...",
-  "정재헌SKTCEO\"AI도입초기엔더불편...'J커브'넘어야생산성혁신...",
-  "정재헌SKTCEO\"AI도입초기불편넘어야생산성J커브\"",
   "SKT,CEO첫서울대강연…정재헌“AI,극한마주할때혁신”",
   "SK하이닉스,日생산거점구축타진…최태원\"키옥시아와공동생산도검...",
   "정재헌\"AI시대경쟁력은통찰력과공감능력\"",
@@ -6001,17 +5998,12 @@
   "베토벤·슈베트르미사곡한무대에…국립합창단30일연주회",
   "[단독]레인보우로보틱스,미국에생산시설만든다…\"로봇수출재개\"",
   "최태원,검찰불기소에항고…\"노소영·변호사,거짓알고도허위사실...",
-  "[SK인사시그널]①최창원,디스커버리위기에수펙스용퇴설솔솔"
+  "[SK인사시그널]①최창원,디스커버리위기에수펙스용퇴설솔솔",
+  "최태원측,노소영대리인불기소에항고…\"1000억아닌20억,50배부풀...",
+  "강원대치대학부생3명,생분해성구강드레싱특허출원",
+  "최신'갤럭시폴드'로트럼프전화받은젠슨황CEO"
  ],
  "recent_sigs": [
-  [
-   "2026-09-15T09:00:30.952523+09:00",
-   "동거인 재판단 요구 1000억설"
-  ],
-  [
-   "2026-09-15T09:00:30.952523+09:00",
-   "인재양성의 생각 일군 선대회장 대의"
-  ],
   [
    "2026-09-15T09:20:14.593922+09:00",
    "썼다 동거인에 20억 생활비 불기 실제 000억"
@@ -6075,9 +6067,13 @@
   [
    "2026-09-15T14:50:14.262802+09:00",
    "솔솔 위기에 용퇴설 디스커버리 수펙스"
+  ],
+  [
+   "2026-09-15T15:01:02.246062+09:00",
+   "전화 젠슨 CEO 갤럭시 폴드 트럼프 받은 최신"
   ]
  ],
- "last_run": "2026-09-15T14:50:25.998590+09:00",
+ "last_run": "2026-09-15T15:01:17.401927+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
