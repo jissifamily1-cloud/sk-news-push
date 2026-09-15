@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.electimes.com/news/articleView.html?idxno=372362",
-  "https://www.news1.kr/finance/market-exr/6289259",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16709",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276824",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486643",
-  "https://www.segye.com/newsView/20260914504115?OutUrl=naver",
-  "https://biz.sbs.co.kr/article_hub/20000334374?division=NAVER",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=95292",
   "https://www.cwn.kr/news/articleView.html?idxno=56226",
   "https://www.joongang.co.kr/article/25461573",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751401&plink=ORI&cooper=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/News/Read?newsId=05034806645580448&mediaCodeNo=257",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062646",
   "https://www.ekn.kr/web/view.php?key=20260915026215150",
-  "https://www.edaily.co.kr/News/Read?newsId=05041366645580448&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=05041366645580448&mediaCodeNo=257",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1015925",
+  "https://www.etnews.com/20260915000465",
+  "http://www.inews24.com/view/2006011",
+  "https://www.bigtanews.co.kr/article/view/big202609150027",
+  "https://www.newsis.com/view/NISX20260915_0003790930",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487328",
+  "https://www.danbinews.com/news/articleView.html?idxno=33681",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=866099"
  ],
  "seen_titles": [
-  "코스피,장초반3%급락에6700아래로...美9월금리인상확률'86%'",
-  "SKAX,AI교육도인증시대연다…고용노동부장관상수상",
-  "“中반도체60%까지따라와…첨단기술조기도입만이살길”[헤럴드...",
-  "추격의30년넘어선도경제로…AI시대,한국의새도약을묻다[헤럴드...",
-  "코스피,7000선재탈환시험대…'삼전·하닉'약세",
-  "SKT,장기고객위해롯데월드통째로빌렸다",
-  "이찬일의글로벌경제브리프236-1",
-  "[모닝리포트]ISC,판가인상·고부가제품믹스에실적레벨업기대",
   "[뉴욕브리핑]유가하락에5일만에반등…나스닥1%상승",
   "아이티공간\"불나기전에잡는다\"...울산포럼서전기화재예방AI제시",
   "9월FOMC경계·AI속도조절론에…삼전닉스3~5%약세[핫종목]",
@@ -6001,13 +5993,17 @@
   "AI속도조절론에K칩촉각…\"HBM수요당장안꺾인다\"",
   "[부고]윤영두(SK이노베이션부사장)씨부친상",
   "[똑똑한리빙]바디프랜드,신세계까사,나무엑스",
-  "미중'AI치킨게임'번진다…\"K칩수요유지할것\""
+  "미중'AI치킨게임'번진다…\"K칩수요유지할것\"",
+  "SK텔레콤,한국표준협회콜센터품질지수평가'최우수'",
+  "[부음]윤영두(SK이노베이션부사장)씨부친상",
+  "마이크론대만노조,창사최대보상안거부\"영업익15%달라\"",
+  "[증시오늘]코스피약보합코스닥반등",
+  "[올댓차이나]홍콩증시,中내수부진우려에반락마감…H주0.96%↓",
+  "한투운용,'ACE라이프자산주주가치액티브ETF'1년수익률127%",
+  "잉여현금흐름",
+  "동양일보독자권익위원회/\"지역축제,주민이주인이돼야\"…심층·후속..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-15T13:21:03.745291+09:00",
-   "업황 나이스신평 소재사 어렵다 셀보다 살아나는데 2차전지"
-  ],
   [
    "2026-09-15T13:41:00.560938+09:00",
    "경기경제청 포승공장 TOK첨단재료 반도체 준공 강화 평택 공급망 소재"
@@ -7063,9 +7059,33 @@
   [
    "2026-09-15T19:21:01.070556+09:00",
    "수요 유지할 K칩 번진다 미중 치킨게임 AI"
+  ],
+  [
+   "2026-09-15T19:31:10.963240+09:00",
+   "보상안 창사 거부 대만노조 영업익 달라 마이크론"
+  ],
+  [
+   "2026-09-15T19:31:10.963240+09:00",
+   "코스피 반등 코스닥 약보합"
+  ],
+  [
+   "2026-09-15T19:31:10.963240+09:00",
+   "부진 내수 반락 H주 우려에 홍콩 증시 마감"
+  ],
+  [
+   "2026-09-15T19:31:10.963240+09:00",
+   "1년 ETF 수익률 ACE 라이프자산주주가치액티브 한투운용"
+  ],
+  [
+   "2026-09-15T19:31:10.963240+09:00",
+   "잉여현금흐름"
+  ],
+  [
+   "2026-09-15T19:31:10.963240+09:00",
+   "후속 동양일보 심층 지역축제 주인이 주민이 돼야 독자권익위원회"
   ]
  ],
- "last_run": "2026-09-15T19:21:12.721493+09:00",
+ "last_run": "2026-09-15T19:31:30.698511+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
