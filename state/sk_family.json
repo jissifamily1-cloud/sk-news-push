@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307395",
-  "https://www.sedaily.com/article/20086599",
   "https://www.viva100.com/article/20260903500568",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=362591",
   "https://www.kbsm.net/news/view.php?idx=532710",
@@ -2999,11 +2997,11 @@
   "https://news.jtbc.co.kr/article/NB12318461?influxDiv=NAVER",
   "http://www.globalepic.co.kr/view.php?ud=2026091517365840265f69d33b22_29",
   "https://www.g-enews.com/view.php?ud=20260915203620554112616b072_1",
-  "https://www.khan.co.kr/article/202609152053005"
+  "https://www.khan.co.kr/article/202609152053005",
+  "https://www.mk.co.kr/article/12150276",
+  "https://www.mk.co.kr/article/12150382"
  ],
  "seen_titles": [
-  "최태원,일본메모리공장검토…키옥시아손잡고‘낸드1위’노린다",
-  "용인특례시의회,스마트행정연구회로디지털혁신가속화",
   "반도체·데이터센터로축적SK의AI역량,SK이노울산CLX제조현장서...",
   "울릉'관광객19%'급감…군의회위기대책마련나서",
   "\"반쪽자치끝낸다\"…경기도의회'지방의회법'연내제정결의",
@@ -6001,17 +5999,11 @@
   "동거인에1000억지출?…\"20억썼다\"최태원측항고",
   "남종섭경기도의장,국회에'지방의회법제정촉구건의안'전달",
   "최태원SK그룹회장,'동거인에1000억'발언불기소처분에항고",
-  "“동거인에1000억”…최태원측“50배부풀려”항고"
+  "“동거인에1000억”…최태원측“50배부풀려”항고",
+  "후계자없는중소기업…‘大폐업’쓰나미온다[스페셜리포트]",
+  "주가부진에도…‘렌즈명가’시간은온다[미장보석주]"
  ],
  "recent_sigs": [
-  [
-   "2026-09-15T15:20:13.741158+09:00",
-   "검찰 불기소에 반박 동거인에 항고 주장 1000억원 지출"
-  ],
-  [
-   "2026-09-15T15:20:13.741158+09:00",
-   "남긴 질문 악마의 변호사"
-  ],
   [
    "2026-09-15T15:50:15.430337+09:00",
    "제조 구축 AI 인프라 경쟁력에 더한다 특화 생태계 연계 감성"
@@ -6109,7 +6101,7 @@
    "or 뜻밖의 폴더블폰 애플 발신인 들린 손에 삼성 젠슨"
   ]
  ],
- "last_run": "2026-09-15T21:10:24.265250+09:00",
+ "last_run": "2026-09-15T21:20:26.225010+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
