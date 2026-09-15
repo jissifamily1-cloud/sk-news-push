@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12081707",
-  "https://www.econovill.com/news/articleView.html?idxno=749613",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=792635",
-  "https://www.dailian.co.kr/news/view/1685528/?sc=Naver",
-  "https://www.newsis.com/view/NISX20260901_0003771746",
   "https://www.yna.co.kr/view/AKR20260902123300053?input=1195m",
   "https://www.sportsseoul.com/news/read/1632450",
   "https://www.smarttoday.co.kr/ko-kr/articles/111096",
@@ -2999,14 +2994,14 @@
   "https://www.newsway.co.kr/news/view?ud=2026091321302471549",
   "https://www.fnnews.com/news/202609151348569974",
   "https://www.theguru.co.kr/news/article.html?no=107014",
-  "https://www.ajunews.com/view/20260915103221224"
+  "https://www.ajunews.com/view/20260915103221224",
+  "https://www.lawtv.kr/news/articleView.html?idxno=60940",
+  "https://www.edaily.co.kr/News/Read?newsId=03785126645580448&mediaCodeNo=257",
+  "https://www.sisajournal.com/news/articleView.html?idxno=387235",
+  "https://www.newsis.com/view/NISX20260915_0003790258",
+  "https://www.pennmike.com/news/articleView.html?idxno=127828"
  ],
  "seen_titles": [
-  "정재헌SKTCEO\"AX의J커브주목해야\"",
-  "[위클리오늘]SK텔레콤소식(9.2)",
-  "日,TSMC에1.2조엔쐈는데…SK하이닉스는얼마나받을까",
-  "'8조원'권혁빈이혼소송9일첫결론…스마일게이트운명가를3대쟁점",
-  "'비싼물가'논란울릉관광객19%감소…군의회,개선안연구",
   "정재헌SKTCEO“AI도입초기엔생산성하락…‘불편함의골짜기’넘...",
   "최태원,日새메모리공장건설검토",
   "최태원\"日키옥시아와공동생산도하나의선택지\"",
@@ -6001,7 +5996,12 @@
   "60년달린울산CLX,AI두뇌달고다시뛴다[르포]",
   "SK이노,60년울산CLX에AI심는다…'듀얼브레인'전환추진",
   "[르포]\"2030년年1000억효과\"…SK이노,6년걸리던'숙련자의눈'AI로...",
-  "[르포]60년정유·석화공장에'AI두뇌'...미래60년그리는SK이노울..."
+  "[르포]60년정유·석화공장에'AI두뇌'...미래60년그리는SK이노울...",
+  "최태원,'노소영변호사명예훼손'불기소에항고...\"20억을1,000억으로...",
+  "[르포]녹슨배관에AI두뇌심었다…'환갑'SK울산CLX의변신",
+  "최태원,'동거인에1000억지출'반박…\"50배이상부풀려\"",
+  "'AI시티울산에안전더하다'아이티공간,스마트로컬구상",
+  "[재계핫이슈]삼전닉스의전기요금선납거절과호남반도체"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-09-15T14:10:15.612786+09:00",
    "60년 석화 미래 정유 두뇌 SK이노 공장에 AI 그리는"
+  ],
+  [
+   "2026-09-15T14:19:23.465907+09:00",
+   "스마트 로컬 구상 안전 아이티공간 울산에 더하다 AI시티"
+  ],
+  [
+   "2026-09-15T14:19:23.465907+09:00",
+   "호남반도체 삼전닉스의 거절과 전기요금 선납"
   ]
  ],
- "last_run": "2026-09-15T14:10:35.849175+09:00",
+ "last_run": "2026-09-15T14:19:41.210182+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
