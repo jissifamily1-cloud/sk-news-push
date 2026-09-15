@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260902123300053?input=1195m",
-  "https://www.sportsseoul.com/news/read/1632450",
-  "https://www.smarttoday.co.kr/ko-kr/articles/111096",
   "https://www.newsis.com/view/NISX20260902_0003773370",
   "https://www.newspenguin.com/news/articleView.html?idxno=22117",
   "http://www.yonhapnewstv.co.kr/news/MYH202609021537096sh",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/News/Read?newsId=03785126645580448&mediaCodeNo=257",
   "https://www.sisajournal.com/news/articleView.html?idxno=387235",
   "https://www.newsis.com/view/NISX20260915_0003790258",
-  "https://www.pennmike.com/news/articleView.html?idxno=127828"
+  "https://www.pennmike.com/news/articleView.html?idxno=127828",
+  "https://www.fnnews.com/news/202609151402439087",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/518277",
+  "https://www.hankookilbo.com/news/article/A2026091511260001351?did=NA"
  ],
  "seen_titles": [
-  "정재헌SKTCEO“AI도입초기엔생산성하락…‘불편함의골짜기’넘...",
-  "최태원,日새메모리공장건설검토",
-  "최태원\"日키옥시아와공동생산도하나의선택지\"",
   "사람살리는약,지구에는부담?...기후위기의아이러니",
   "의원직사퇴즉답피한용혜인…\"청문회잘준비\"",
   "강원대치대학부생3명,생분해성구강드레싱특허출원",
@@ -6001,7 +5998,10 @@
   "[르포]녹슨배관에AI두뇌심었다…'환갑'SK울산CLX의변신",
   "최태원,'동거인에1000억지출'반박…\"50배이상부풀려\"",
   "'AI시티울산에안전더하다'아이티공간,스마트로컬구상",
-  "[재계핫이슈]삼전닉스의전기요금선납거절과호남반도체"
+  "[재계핫이슈]삼전닉스의전기요금선납거절과호남반도체",
+  "최태원측\"노소영변호사,20억알고도1000억으로부풀려...불기소항...",
+  "조준호,눈밑지방재배치후달라졌다\"안면인식잠금도…\"(라스)",
+  "\"로봇개가순찰하고AI가최적점찾고\"…환갑넘은울산CLX의AX실험"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-09-15T14:19:23.465907+09:00",
    "호남반도체 삼전닉스의 거절과 전기요금 선납"
+  ],
+  [
+   "2026-09-15T14:30:20.261667+09:00",
+   "AX 넘은 실험 찾고 환갑 순찰하고 로봇개가 AI가 최적점 울산CLX의"
   ]
  ],
- "last_run": "2026-09-15T14:21:38.499170+09:00",
+ "last_run": "2026-09-15T14:30:35.806636+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
