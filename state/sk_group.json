@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2005158",
-  "https://www.seoul.co.kr/news/economy/securities/2026/09/14/20260914500099?wlog_tag3=naver",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=598966",
   "https://www.insight.co.kr/news/573353",
   "http://www.metroseoul.co.kr/article/20260914500173",
   "https://www.electimes.com/news/articleView.html?idxno=372388",
@@ -2999,12 +2996,12 @@
   "https://www.sedaily.com/article/20091211",
   "http://www.beyondpost.co.kr/view.php?ud=2026091606112023702aaae0046f_30",
   "https://www.mk.co.kr/article/12153828",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=47681"
+  "https://www.newstopkorea.com/news/articleView.html?idxno=47681",
+  "https://www.goodkyung.com/news/articleView.html?idxno=291419",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609120157181830707",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609130149090290736"
  ],
  "seen_titles": [
-  "시진핑,브릭스AI·디지털주도권선언…'5대기술협력구상'제안",
-  "“비싼HBM없이도LLM쌩쌩…‘LPU’로AI반도체가성비뒤집겠다”",
-  "조선업이바다에서그리는새로운세가지산업에주목하라[조원경의...",
   "테오도르증시분석:반도체와대형기술주중심으로외국인과기관의매...",
   "정진완號우리은행,금리최대3.05%p↓…300억상생펀드5개월만에소...",
   "[더벨][IB풍향계]신한증권,커버리지1부내부승진으로공백메웠다",
@@ -6001,7 +5998,10 @@
   "억소리나는아이폰가격에...요금25%‘추가할인’허위광고기승",
   "마이크론0.4%↑,SK하이닉스ADR0.46%↓...반도체주,혼조세마감",
   "“AI가샀어요,반품할게요”일상되기전에…SKT가전세계에제안했다",
-  "메모리장기계약,'독'될수도...경종울린한기평"
+  "메모리장기계약,'독'될수도...경종울린한기평",
+  "삼성전자,올해HBM시장입지넓힌다…HBM4시장기대감상승",
+  "[2026대경스마트건설대상]OSC대상성지제강",
+  "[2026대경스마트건설대상]건설자재대상삼표시멘트"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,21 @@
   [
    "2026-09-16T06:31:09.958306+09:00",
    "메모리 울린 장기계약 수도 경종 한기평"
+  ],
+  [
+   "2026-09-16T06:41:02.018309+09:00",
+   "기대감 입지 HBM 상승 삼성전자 HBM4 올해 넓힌다 시장"
+  ],
+  [
+   "2026-09-16T06:41:02.018309+09:00",
+   "OSC대상 성지제강"
+  ],
+  [
+   "2026-09-16T06:41:02.018309+09:00",
+   "삼표시멘트 건설자재대상"
   ]
  ],
- "last_run": "2026-09-16T06:31:29.013554+09:00",
+ "last_run": "2026-09-16T06:41:12.804251+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
