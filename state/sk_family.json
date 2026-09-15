@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25458613",
-  "https://www.kwnews.co.kr/article/20260902500533",
-  "https://www.kado.net/news/articleView.html?idxno=2070282",
-  "https://mpmbc.co.kr/NewsArticle/1532538",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608131353583600104669",
   "https://www.segye.com/newsView/20260902516727?OutUrl=naver",
   "https://biz.sbs.co.kr/article_hub/20000332443?division=NAVER",
   "https://www.fnnews.com/news/202609030614119048",
@@ -2999,14 +2994,14 @@
   "https://www.ajunews.com/view/20260915175709788",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034859",
   "https://daily.hankooki.com/news/articleView.html?idxno=1406479",
-  "https://www.fnnews.com/news/202609151811155238"
+  "https://www.fnnews.com/news/202609151811155238",
+  "https://sjbnews.com/news/news.php?number=887794",
+  "https://www.fnnews.com/news/202609151818104157",
+  "https://www.dailian.co.kr/news/view/1690794/?sc=Naver",
+  "https://www.wikitree.co.kr/articles/1159742",
+  "https://www.sidae.com/article/2026091516480473376"
  ],
  "seen_titles": [
-  "강원대강릉캠퍼스치의학과학생들,‘생분해성구강용드레싱’국내...",
-  "강원대치대고현서·이지은·김내훈,자체개발기술특허출원",
-  "태극기들고다시거리로..10대소녀들의항일투쟁",
-  "[더벨]'탈탄소시대'SW해운,석탄운송8300억베팅이유는",
-  "최태원“키옥시아와협력도가능”…힘실리는日투자설",
   "\"키옥시아공동생산도선택지\"…최태원,日주목한이유는?",
   "\"외인7조던졌다\"...피멍든삼전·하이닉스,브로드컴이살릴까",
   "[권혁빈이혼소송]③현금분할시,100%지배구조‘흔들’…“아직상...",
@@ -6001,7 +5996,12 @@
   "남종섭의장,이해식행안위간사만나'지방의회법'촉구...4대과제제...",
   "박종혁인천시의회의장,국회찾아'지방의회법'연내제정촉구",
   "[포토뉴스]세종시의회,국회행안위면담…'지방의회법'연내제정거듭...",
-  "SK이노,울산CLX에'AI두뇌'심는다…제조AX본격화"
+  "SK이노,울산CLX에'AI두뇌'심는다…제조AX본격화",
+  "(선진기업을찾아서)전북IT기업(주)나우리",
+  "\"동거인에1000억\"주장한노소영측불기소",
+  "“인사권독립만으론부족”…박종혁의장,지방의회법제정국회압박",
+  "“지방의회부활35년,조직·예산권독립시급”…세종시의회안신일...",
+  "노소영측이상원변호사는왜20억을1000억이라했나"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,17 @@
   [
    "2026-09-15T18:00:29.476280+09:00",
    "결단에 54조 확산 감속론 증설 AI 베팅했는데 SK하이닉스"
+  ],
+  [
+   "2026-09-15T18:30:58.934300+09:00",
+   "불기소 동거인에 주장한 1000억"
+  ],
+  [
+   "2026-09-15T18:30:58.934300+09:00",
+   "이상원 노소영측 1000억이라 20억을 했나 변호사는"
   ]
  ],
- "last_run": "2026-09-15T18:20:25.029954+09:00",
+ "last_run": "2026-09-15T18:31:12.432888+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
