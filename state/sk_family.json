@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=273748",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260903191053mJW",
-  "https://www.m-i.kr/news/articleView.html?idxno=1409930",
-  "https://www.onews.tv/news/articleView.html?idxno=286242",
   "http://www.yonhapnewstv.co.kr/news/MYH20260903194755DEi",
   "https://biz.sbs.co.kr/article_hub/20000332675?division=NAVER",
   "https://www.donga.com/news/Politics/article/all/20260903/134602356/1",
@@ -2999,13 +2995,13 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=133183",
   "http://www.seouleconews.com/news/articleView.html?idxno=93799",
   "http://www.newslock.co.kr/news/articleView.html?idxno=136337",
-  "https://www.donga.com/news/Inter/article/all/20260916/134680920/2"
+  "https://www.donga.com/news/Inter/article/all/20260916/134680920/2",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=357678",
+  "https://www.chosun.com/economy/tech_it/2026/09/16/6BRXOI4PQJGHTOIINHONQOLBJQ/",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609161505021250347",
+  "http://www.wsobi.com/news/articleView.html?idxno=318317"
  ],
  "seen_titles": [
-  "'공소취소'에선그은김승원…\"지휘생각없어\"",
-  "정의선,李대통령과비공개회동…9조원새만금투자논의",
-  "용인시의회스마트행정·문화관광이음연구회발대식'본격활동'",
-  "하이브방시혁불구속송치…사기적부정거래혐의",
   "李대통령-정의선비공개회동…새만금투자논의가능성",
   "李,양대노총과대화…메가특구법,정년연장등논의",
   "이대통령,양대노총위원장만나3대메가프로젝트논의",
@@ -6001,7 +5997,11 @@
   "SK이노베이션,AI데이터센터전력시장공략…재생에너지·BESS·SMR묶는...",
   "SK하이닉스,美인텔과메모리생산동맹모색…현지화압박돌파구찾을...",
   "SK,'WCE2026'서통합에너지솔루션선보여",
-  "[속보]“SK하이닉스,인텔美시설임대해메모리생산검토”"
+  "[속보]“SK하이닉스,인텔美시설임대해메모리생산검토”",
+  "세종시의회,국회행안위찾아지방의회법제정촉구",
+  "로이터“SK하이닉스,인텔美오하이오공장임대해칩생산논의”",
+  "이재용,日참의원과반도체협력논의…요코하마서‘후공정’승부수",
+  "SK이노베이션·SKT'WCE2026'서AI시대'통합에너지솔루션'공개·스타..."
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "리밸런싱 후보 시험대 경영능력 최재원 의장"
   ]
  ],
- "last_run": "2026-09-16T15:40:23.840577+09:00",
+ "last_run": "2026-09-16T15:50:24.718567+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
