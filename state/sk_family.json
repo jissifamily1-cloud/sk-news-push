@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260903173130kEz",
-  "https://news.jtbc.co.kr/article/NB12316600?influxDiv=NAVER",
-  "https://www.etoday.co.kr/news/view/2621711",
-  "https://www.joongboo.com/news/articleView.html?idxno=363735675",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1067416",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260904010001569",
   "https://www.edaily.co.kr/News/Read?newsId=04805206645576512&mediaCodeNo=257",
@@ -2999,13 +2995,13 @@
   "https://www.mediafine.co.kr/news/articleView.html?idxno=89981",
   "https://www.kpinews.kr/newsView/1065580661458988",
   "https://www.newspim.com/news/view/20260915000558",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435211"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435211",
+  "https://www.dailian.co.kr/news/view/1691184/?sc=Naver",
+  "https://www.slist.kr/news/articleView.html?idxno=766612",
+  "https://www.asiatime.co.kr/article/20260916500317",
+  "http://www.newsdream.kr/news/articleView.html?idxno=118317"
  ],
  "seen_titles": [
-  "이대통령,정의선회장과비공개회동…'새만금9조투자'논의했나",
-  "AI로행정바꾸고관광은체류형으로…용인시의회‘정책연구투트랙’",
-  "2026하나증권KTATour과천토리·아리배전국동호인테니스대회개최",
-  "SK이노울산CLX,WAVE2026서제조AI'듀얼브레인'공개",
   "SK하닉,日생산거점검토…美관세압박속글로벌확장고심",
   "李,정의선현대차회장과비공개회동…새만금·美통상현안논의한듯",
   "이대통령,정의선과비공개회동…새만금투자등논의",
@@ -6001,7 +5997,11 @@
   "SK이노베이션,AI전력수요잡는다…재생에너지·BESS·SMR·LNG통합솔...",
   "SK,'2026AI해커톤'실시…AX로현장문제해결",
   "최태원·최창원,나란히전력사업확장…SK에너지지형바뀐다",
-  "이재용,방한일본정치인들과오찬…반도체·한일협력논의"
+  "이재용,방한일본정치인들과오찬…반도체·한일협력논의",
+  "SK이노베이션,AI데이터센터전력해법제시…재생에너지부터SMR까지",
+  "로이터\"SK하이닉스·인텔,미국메모리생산논의…오하이오공장활용...",
+  "변압기부터반도체장비까지…AI슈퍼사이클확산에전력·소부장‘활...",
+  "[생각드림]'대관황제'사라졌는데,왜여의도는아직도북적일까"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,21 @@
   [
    "2026-09-16T14:50:14.049170+09:00",
    "이재용 반도체 정치인들과 한일 방한 협력 논의 오찬 일본"
+  ],
+  [
+   "2026-09-16T15:00:28.027652+09:00",
+   "로이터 생산 미국 메모리 활용 논의 인텔 공장 SK하이닉스 오하이오"
+  ],
+  [
+   "2026-09-16T15:00:28.027652+09:00",
+   "반도체 AI 장비까지 전력 슈퍼사이클 변압기부터 확산에 소부장"
+  ],
+  [
+   "2026-09-16T15:00:28.027652+09:00",
+   "아직도 사라졌는데 대관황제 여의도는 북적일까"
   ]
  ],
- "last_run": "2026-09-16T14:50:28.662293+09:00",
+ "last_run": "2026-09-16T15:00:47.014718+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
