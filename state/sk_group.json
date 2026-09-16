@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tenasia.co.kr/article/2026091553224",
-  "https://www.edaily.co.kr/News/Read?newsId=03430886645580448&mediaCodeNo=257",
-  "http://www.inews24.com/view/2005735",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=121232",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89881",
-  "https://www.sedaily.com/article/20091048",
-  "https://www.techm.kr/news/articleView.html?idxno=155239",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276953",
   "https://www.newsis.com/view/NISX20260914_0003789093",
   "https://zdnet.co.kr/view/?no=20260915114452",
   "http://www.metroseoul.co.kr/article/20260915500238",
@@ -2999,17 +2991,17 @@
   "https://www.lcnews.co.kr/news/articleView.html?idxno=208397",
   "https://www.news1.kr/society/court-prosecution/6293016",
   "https://www.newsis.com/view/NISX20260916_0003792398",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435278"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435278",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=311039",
+  "https://news.mtn.co.kr/news-detail/2026091706120544458",
+  "https://www.chosun.com/economy/int_economy/2026/09/17/HDFTEQIST5CQDFVXPNUCYJKRAY/",
+  "https://www.kbmaeil.com/article/20260917500003",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609170275&t=NN",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764010",
+  "https://www.news1.kr/industry/general-industry/6292330",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=79201"
  ],
  "seen_titles": [
-  "SKB,AI로복지위기가구찾는다...양자보안도적용",
-  "SK렌터카,구글워크스페이스전사도입…38년축적데이터,AI로활용'...",
-  "최태원회장측,검찰불기소에항고…\"노소영관장측변호사허위사...",
-  "SK이노베이션주가장중3%상승,영업이익10조전망에증권가목표주...",
-  "SK하이닉스이어키옥시아도美로…14조원조달검토",
-  "SK하이닉스노조,임단협수정합의안'재투표'시작…\"현금·주식절반씩...",
-  "누이좋고매부좋고…K제약X빅파마'블록버스터동맹'확산",
-  "프로데뷔후첫주장맡은오세근\"솔선수범리더십으로가야죠\"",
   "대전하나시티즌,24년만에아시아무대복귀",
   "\"안성이왜홀로짊어져야하나\"송전탑351기앞에선시의원들",
   "철강불황·포스코파업먹구름속포항,AI데이터센터로미래승부수",
@@ -6001,7 +5993,15 @@
   "삼성증권가세로뜨거워지는발행어음시장...기업별강점은",
   "'유심해킹'SKT1300억대과징금불복소송오늘시작",
   "삼성전자·SK하이닉스,AI추론메모리확장경쟁'치열'",
-  "[뉴욕증시]매파색채뚜렷한FOMC…동반하락"
+  "[뉴욕증시]매파색채뚜렷한FOMC…동반하락",
+  "최태원이그린'AI시티울산'…데이터센터와공장을넘어시민의일상까...",
+  "뉴욕증시연준금리인상·추가긴축우려에하락…다우1.21%↓[뉴욕마감...",
+  "금리인상보다매서웠던워시의입…다우1.2%하락",
+  "3년2개월만에금리올린연준…다우631P하락,석달만에최저",
+  "[속보]하이닉스손잡더니4%'껑충'…금리인상덮친시장서인텔웃었...",
+  "[단독]최태원둘째딸최민정,美서AI헬스케어대박터지나?…창업3년...",
+  "K-웰니스로봇승부수…SK인텔릭스'나무엑스'말레이시아진출",
+  "[경력채용]휴젤,리가켐바이오,SK케미칼,차바이오텍,한화제약"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,21 @@
   [
    "2026-09-17T06:11:03.397282+09:00",
    "하락 동반 FOMC 색채 매파 뚜렷한"
+  ],
+  [
+   "2026-09-17T06:20:58.629236+09:00",
+   "대박 AI 최태원 터지나 헬스케어 둘째딸 창업 최민정 3년"
+  ],
+  [
+   "2026-09-17T06:20:58.629236+09:00",
+   "진출 웰니스 말레이시아 SK인텔릭스 나무엑스 승부수 로봇"
+  ],
+  [
+   "2026-09-17T06:20:58.629236+09:00",
+   "휴젤 SK케미칼 차바이오텍 한화제약 리가켐바이오"
   ]
  ],
- "last_run": "2026-09-17T06:11:52.258114+09:00",
+ "last_run": "2026-09-17T06:21:10.297837+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
