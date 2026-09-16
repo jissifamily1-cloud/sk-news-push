@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290022",
-  "http://www.metroseoul.co.kr/article/20260903500397",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260903010001418",
   "http://www.tvdaily.co.kr/read.php3?aid=17884176481800700008",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=317911",
@@ -2999,11 +2997,11 @@
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=50427",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171376",
   "http://www.e-platform.net/news/articleView.html?idxno=105423",
-  "https://www.joongang.co.kr/article/25462267"
+  "https://www.joongang.co.kr/article/25462267",
+  "https://www.dt.co.kr/article/12084218",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363279"
  ],
  "seen_titles": [
-  "경기도의회남종섭의장,국회서'지방의회법'연내제정촉구",
-  ":\"도둑감시할의회손발묶여있다\"…남종섭경기도의장,국회서던진...",
   "안셀엘고트,韓행사에日유카타입고등장…사전드레스코드'무색...",
   "용인특례시의회'스마트행정연구회'출범...AI로행정혁신해법찾는다",
   "[지방의회24時]'스마트행정연구회',AI·빅데이터활용한스마트행정...",
@@ -6001,7 +5999,9 @@
   "SK이노,'WCE2026'서AI시대통합에너지솔루션공개",
   "SK그룹\"'2026SKAI해커톤'통해'AX강화'\"..재계'AI경쟁'가열",
   "SK이노,AI데이터센터최적화된에너지기술공개",
-  "SK하이닉스‘N%성과급’…‘현금·주식절반씩‘수정안57%가결"
+  "SK하이닉스‘N%성과급’…‘현금·주식절반씩‘수정안57%가결",
+  "SK이노,‘WCE2026’서AI시대‘통합에너지솔루션’선보인다",
+  "SK,재생·ESS·SMR·LNG결합AI데이터센터맞춤형전력해법"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-09-16T10:30:22.773196+09:00",
    "수정안 가결 현금 주식 SK하이닉스 성과급 절반씩"
+  ],
+  [
+   "2026-09-16T10:40:13.726618+09:00",
+   "맞춤형 ESS 전력해법 LNG 결합 재생 AI SMR 데이터센터"
   ]
  ],
- "last_run": "2026-09-16T10:30:34.956281+09:00",
+ "last_run": "2026-09-16T10:40:25.683394+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
