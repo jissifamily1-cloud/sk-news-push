@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008753440&plink=ORI&cooper=NAVER",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60936",
-  "https://biz.heraldcorp.com/article/10873636",
   "https://www.inthenews.co.kr/news/article.html?no=91878",
   "https://www.sedaily.com/article/20090930",
   "https://thetracker.co.kr/View.aspx?No=4227165",
@@ -2999,12 +2996,12 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471449",
   "https://www.koreaherald.com/article/10876042",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=359153",
-  "https://www.koreaherald.com/article/10876041"
+  "https://www.koreaherald.com/article/10876041",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89350",
+  "https://biz.heraldcorp.com/article/10876050",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=645708"
  ],
  "seen_titles": [
-  "SK텔레콤,AI시대메시징역할재정의...의사결정채널로활용",
-  "코스피,美추가긴축우려에6600선약세…삼전닉스보합",
-  "최태원,\"동거인에1천억썼다\"노소영측변호사불기소에항고",
   "한국사회보장정보원,SKT·SKB와AI복지혁신'맞손'",
   "[오늘일본은]日원전지진데이터까지조작…하마오카재가동철회",
   "SK증권,임직원·가족과노을공원에상수리나무180그루식재",
@@ -6001,53 +5998,12 @@
   "청주대,신헌철전서울시립교향악단이사장초청명사특강개최",
   "SKhynixdeniesUSproductionrumorslinkedtoIntel",
   "증권가,ESG보폭확대…디지털·환경·아동까지사회공헌다각화",
-  "Koreainks$14mexportcontractwithCentralAsia"
+  "Koreainks$14mexportcontractwithCentralAsia",
+  "SK하이닉스,인텔과美반도체생산협력설에선긋기…\"확정된사안없...",
+  "“SK하닉-인텔,미국서메모리생산협상중”",
+  "경상국립대,'기업-청년구직자'잇는다"
  ],
  "recent_sigs": [
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "해상풍력 다시 상승 LS에코에너지 부각 동국산업 자릿수"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "분리막 SKIET 승부 폴란드에 넘을까"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "Biopharm Achieves Year Consecutive MSCI 3rd Rating AAA What for ESG"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "후폭풍 성과급 파업 나서 전력업계도"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "재생에너지 LNG까지 공략 전력시장 AIDC 결합 SMR SK이노베이션"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "생체 시각 개인에 디바이스 감지하는 스마트 넘어 공간 시대로"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "씹어먹는다 올해 영업이익 합병 실망감 본업이 SK이노베이션"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "Telecom on cloud AI sign F5 security partnership"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "증시 2006년 유지돼도 상승 저평가 이익만 삼성자산운용 이후"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "몸값 검토 가늠자 투자유치 키옥시아 ADR 솔리다임의"
-  ],
-  [
-   "2026-09-16T14:21:11.722991+09:00",
-   "EV 2만7000개 확산 미국 차질 고용계획 취소 투자"
-  ],
   [
    "2026-09-16T14:31:14.117365+09:00",
    "한화 요인은 한화그룹 지주사 긍정 진단은 인적분할 증권계"
@@ -6923,9 +6879,13 @@
   [
    "2026-09-16T20:21:05.138856+09:00",
    "Asia with Central contract inks Korea export 14m"
+  ],
+  [
+   "2026-09-16T20:31:08.679537+09:00",
+   "청년 기업 구직자 경상국립대 잇는다"
   ]
  ],
- "last_run": "2026-09-16T20:21:14.558251+09:00",
+ "last_run": "2026-09-16T20:31:15.448452+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
