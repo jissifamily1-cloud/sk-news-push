@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Society/article/all/20260908/134627006/1",
-  "https://www.natv.go.kr/natv/news/newsView.do?newsId=514173",
   "https://weekly.khan.co.kr/article/202609090600011",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8658383",
   "https://www.sedaily.com/article/20088622",
@@ -2999,11 +2997,11 @@
   "https://www.thebigdata.co.kr/view.php?ud=202609170011402681570d99e4c8_23",
   "https://www.sentv.co.kr/article/view/sentv202609170009",
   "https://www.hankookilbo.com/news/article/A2026091707480003141?did=NA",
-  "https://www.busan.com/view/busan/view.php?code=2026091707351543170"
+  "https://www.busan.com/view/busan/view.php?code=2026091707351543170",
+  "https://news.jtbc.co.kr/article/NB12318746?influxDiv=NAVER",
+  "https://www.yna.co.kr/view/AKR20260917027200061?input=1195m"
  ],
  "seen_titles": [
-  "김승원청탁의혹기소의견냈던檢,수뇌부교체뒤‘기소유예’선회",
-  "윤용근\"김승원'신약청탁의혹',단순청탁아닌주가조작사건…한동...",
   "1694호를읽고[독자의소리]",
   "[단독]“김승원10억받기로”제보에수사…결론왜뒤집혔나",
   "베트남서짝퉁명품팔다붙잡힌총책국내송환",
@@ -6001,7 +5999,9 @@
   "[LIGD&A50년-77]그룹출범26년만에대기업지정",
   "에이비엘바이오대표가족까지조사선상…내부정보이용의혹",
   "'불법촬영'아들휴대폰부숴증거없앤현직경찰관…'정직'처분",
-  "\"표만팔았는데24억?\"…암표로아파트·상가사들인30대구속"
+  "\"표만팔았는데24억?\"…암표로아파트·상가사들인30대구속",
+  "브로커가'공갈미수'고소한김승원의혹제보자,2년전무혐의",
+  "카카오보이스톡'타사코드'썼지만…공소시효만료로불송치"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "자리 위태 중소업체 시장 렌터카 빅플레이어 전쟁에"
   ]
  ],
- "last_run": "2026-09-17T08:30:58.559721+09:00",
+ "last_run": "2026-09-17T08:40:50.975728+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
