@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=356146",
   "https://www.seoultimes.news/news/article.html?no=2000095302",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=686751",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=611000",
@@ -2999,10 +2998,10 @@
   "https://www.ceoscoredaily.com/page/view/2026091509504444273",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=64466",
   "https://biz.sbs.co.kr/article_hub/20000335137?division=NAVER",
-  "https://slownews.kr/166505"
+  "https://slownews.kr/166505",
+  "https://www.m-i.kr/news/articleView.html?idxno=1415118"
  ],
  "seen_titles": [
-  "경영복귀최신원SK네트웍스명예회장'무보수'선언",
   "[최남주의비즈토크]'무보수'선택한SK네트웍스최신원명예회장",
   "최신원SK네트웍스명예회장,무보수경영선언···경영자문등수행",
   "[이슈]SK네트웍스최신원,횡령유죄·사면후복귀…'무보수'명예회장...",
@@ -6001,7 +6000,8 @@
   "삼성·SK,자산격차1.6배불과한데…이재용·최태원주식가치6.6배차이",
   "한·중앙아6개국'미래동반자'선언…핵심광물·AI·인프라로손잡다",
   "[비즈나우]SK하닉·인텔맞손…\"美생산논의\"",
-  "미국기준금리인상,값싼돈의시대가끝나가고있다:9월17일."
+  "미국기준금리인상,값싼돈의시대가끝나가고있다:9월17일.",
+  "韓·중앙아경제계한자리에…핵심광물·에너지·AI협력"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-09-17T08:00:27.444068+09:00",
    "인상 값싼 미국 돈의 9월17일 끝나가고 시대가 있다 기준금리"
+  ],
+  [
+   "2026-09-17T08:20:14.244614+09:00",
+   "경제계 AI 핵심광물 에너지 자리에 중앙아 협력"
   ]
  ],
- "last_run": "2026-09-17T08:10:24.084844+09:00",
+ "last_run": "2026-09-17T08:20:25.927385+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
