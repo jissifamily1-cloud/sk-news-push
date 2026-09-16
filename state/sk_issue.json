@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260908_0002233660",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=880189",
-  "https://www.hankyung.com/article/202609081957i",
-  "https://www.chosun.com/culture-life/culture_general/2026/09/08/64OBM5OWHBBSLLFCR2PE3JRU4A/",
-  "https://www.tfmedia.co.kr/news/article.html?no=207075",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549314",
-  "https://www.yna.co.kr/view/AKR20260908148700002?input=1195m",
   "https://www.seoulfn.com/news/articleView.html?idxno=637526",
   "https://www.newsis.com/view/NISX20260908_0003781366",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800317.html",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20091657",
   "https://www.chosun.com/national/incident/2026/09/16/G4RNHRH4J5DPVECJPFH2SPWOHQ/",
   "https://www.banronbodo.com/news/articleView.html?idxno=33038",
-  "https://www.kmecnews.co.kr/news/articleView.html?idxno=51840"
+  "https://www.kmecnews.co.kr/news/articleView.html?idxno=51840",
+  "https://www.m-i.kr/news/articleView.html?idxno=1414908",
+  "https://www.mk.co.kr/article/12154314",
+  "https://www.kukinews.com/article/view/kuk202609160135",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/16/2026091600265.html",
+  "https://www.newspim.com/news/view/20260916000620",
+  "https://www.etoday.co.kr/news/view/2626353",
+  "http://www.newsprime.co.kr/news/article.html?no=748027"
  ],
  "seen_titles": [
-  "제주경찰청압수수색하는제주지검",
-  "현대차·코오롱등'WHE2026'참가...수소생산·저장·활용등기술선...",
-  "일주일째쿠팡고강도조사벌이는공정위",
-  "“용지값71%폭등”…출판계,제지업계에칼뽑았다",
-  "공정위,다이소추가현장조사…부당반품행위집중점검하나?",
-  "공정위,다이소‘갑질’추가현장조사…부당반품등혐의",
-  "소비자집단소송제도확대도입추진…사용자친화키오스크개발",
   "프랜차이즈업계,가맹점주단체협의제에제동···범위·절차손봐야\"",
   "HL만도노동자사망49일째…유족\"본사·회장수사해야\"",
   "공정위,'납품업체갑질의혹'다이소현장조사",
@@ -6001,10 +5994,17 @@
   "“11만원BTS티켓300만원에”…암표팔아아파트·상가산30대구속",
   "‘여교사몰카’아들폰부순경찰아빠,중징계‘정직’처분",
   "공정위,대한항공·아시아나마일리지통합안확정",
-  "공정위,건설산업상생협약민관협의체출범"
+  "공정위,건설산업상생협약민관협의체출범",
+  "KAI·LIG노조공동전선구축…\"한화방산독과점막을것\"",
+  "네이버·토스난투극...경찰수사뺨맞고공정위맞불",
+  "“경쟁늘면인건비·안전비용줄어”환경미화원200명,국회찾은이유...",
+  "네이버vs토스,검색리워드갈등결제단말기로번졌다…경찰수사이...",
+  "불공정행위기업에솜방망이처벌…경실련\"집단소송제도입해야\"",
+  "대형건설사19곳,납품단가1077억원올렸다…‘상생약속’80%이행",
+  "'빅딜'전주식거래…에이비엘바이오의혹'일파만파'"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-16T15:40:51.602321+09:00",
+ "last_run": "2026-09-16T15:50:56.126355+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
