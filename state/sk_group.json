@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609092004074000102378",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60687",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522550",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=310192",
-  "https://news.mtn.co.kr/news-detail/2026091509591149264",
-  "https://www.dailian.co.kr/news/view/1690455/?sc=Naver",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157156",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008753440&plink=ORI&cooper=NAVER",
   "https://www.lawtv.kr/news/articleView.html?idxno=60936",
   "https://biz.heraldcorp.com/article/10873636",
@@ -2999,16 +2992,16 @@
   "https://zdnet.co.kr/view/?no=20260916195802",
   "http://www.kwangju.co.kr/article.php?aid=1789556100803448028",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609160535&t=NN",
-  "https://www.newspim.com/news/view/20260916001192"
+  "https://www.newspim.com/news/view/20260916001192",
+  "http://www.lawissue.co.kr/view.php?ud=202609162012253971204ead0791_12",
+  "https://news.mtn.co.kr/news-detail/2026091620060717190",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/16/2026091690189.html",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471449",
+  "https://www.koreaherald.com/article/10876042",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=359153",
+  "https://www.koreaherald.com/article/10876041"
  ],
  "seen_titles": [
-  "코스피,美반도체쇼크속6690선보합권…외인매도에도삼전·닉스강...",
-  "대기업취업보장에몰렸다…계약학과지원'역대최다'",
-  "코스피,고유가·고금리우려속6,600선에서출발",
-  "하락개장코스피,상승전환…6700선주변등락중",
-  "[위클리오늘]\"25조원먼저내라\"…삼성전자·SK하이닉스,한전제안거...",
-  "SK증권,임직원가족과함께180그루식재...'행복나눔숲가꾸기'",
-  "[특징주]'영업익10조'전망에SK이노베이션·SKIET동반강세",
   "SK텔레콤,AI시대메시징역할재정의...의사결정채널로활용",
   "코스피,美추가긴축우려에6600선약세…삼전닉스보합",
   "최태원,\"동거인에1천억썼다\"노소영측변호사불기소에항고",
@@ -6001,7 +5994,14 @@
   "SK하이닉스,인텔과美메모리협력설에\"확정된바없다\"",
   "정진욱국회의원“공장유치는시작…인재정착해야반도체수도”",
   "거래대금50조→26조'반토막'…삼전닉스만보던개미들탈출러시",
-  "SK하이닉스·인텔동반상승…\"美서메모리생산협의\""
+  "SK하이닉스·인텔동반상승…\"美서메모리생산협의\"",
+  "SK,AI해커톤서현장문제해결솔루션발굴",
+  "애프터마켓도반도체강세…삼성전자2%·SK하이닉스4%↑",
+  "SK바이오팜\"세노바메이트,일본신약허가획득\"",
+  "청주대,신헌철전서울시립교향악단이사장초청명사특강개최",
+  "SKhynixdeniesUSproductionrumorslinkedtoIntel",
+  "증권가,ESG보폭확대…디지털·환경·아동까지사회공헌다각화",
+  "Koreainks$14mexportcontractwithCentralAsia"
  ],
  "recent_sigs": [
   [
@@ -6915,9 +6915,17 @@
   [
    "2026-09-16T20:01:16.711781+09:00",
    "상주시의회 상주의 상주 AI 미래를 연구회 묻다"
+  ],
+  [
+   "2026-09-16T20:21:05.138856+09:00",
+   "디지털 사회공헌 환경 아동까지 다각화 보폭 증권가 확대 ESG"
+  ],
+  [
+   "2026-09-16T20:21:05.138856+09:00",
+   "Asia with Central contract inks Korea export 14m"
   ]
  ],
- "last_run": "2026-09-16T20:11:11.182115+09:00",
+ "last_run": "2026-09-16T20:21:14.558251+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
