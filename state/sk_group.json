@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.weeklytoday.com/news/articleView.html?idxno=794497",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=275615",
-  "https://www.namdonews.com/news/articleView.html?idxno=923420",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3695396",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/15/2026091500068.html",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709282",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50403",
   "https://www.pointe.co.kr/news/articleView.html?idxno=84747",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=239762",
   "https://magazine.hankyung.com/money/article/202609155014c",
@@ -2999,16 +2992,16 @@
   "https://byline.network/?p=9004111222620400",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665181",
   "https://www.seoul.co.kr/news/economy/industry/2026/09/16/20260916500285?wlog_tag3=naver",
-  "https://it.donga.com/109543/"
+  "https://it.donga.com/109543/",
+  "http://www.breaknews.com/1237210",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1100394",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1100451",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1182261",
+  "http://www.cctimes.kr/news/articleView.html?idxno=927935",
+  "https://www.dongascience.com/news/view/79949",
+  "https://www.hankyung.com/article/202609169082v"
  ],
  "seen_titles": [
-  "구글클라우드,SK렌터카에AI업무환경구축",
-  "현대차,유미코아와유럽핵심원자재법빗장풀'하이니켈양극재동맹...",
-  "국내백신R&D성과한자리집결...상용화촉진",
-  "[테크스냅]티빙,전사개인정보보호교육…\"보안문화내재화\"",
-  "\"AI가상담사에게'F'되는법가르친다\"…SKT,콜센터품질지수평가'최...",
-  "美국채금리5%돌파여파…코스피하락출발[개장시황]",
-  "[오피셜]'김예건·윤도영발탁'김은중호올림픽대표팀,10월호주원정...",
   "고객센터에AI들였더니...SKT콜센터품질지수5년연속'최우수'",
   "구글클라우드,SK렌터카전사에워크스페이스도입…업무환경혁신",
   "최태원측\"생활비1천억\"발언노소영측변호사불기소에항고",
@@ -6001,33 +5994,16 @@
   "SKT,F5보안솔루션재판매파트너계약체결",
   "‘AI속도조절론’에K반도체타격?…“단기영향YES,장기적제한은...",
   "‘AI’가일자리새기준이됐다…직업별‘AI대체가능성’계산사이...",
-  "반도체모듈·화재안전기술로산업현장의묵은문제푸는‘JS솔루션..."
+  "반도체모듈·화재안전기술로산업현장의묵은문제푸는‘JS솔루션...",
+  "청주대,'뚝배기보다장맛'강조한신헌철전SK부회장명사특강진행",
+  "충북도,서울서투자유치세일즈…CEO300명에'러브콜'",
+  "SK하이닉스성과급현금·주식50%씩지급",
+  "[주식마감]'카카오게임즈피인수효과'미투온상한가...큐라티스,엠...",
+  "대한민국기술인재꿈'무럭무럭'",
+  "[사이언스게시판]우주항공청,항공우주부품고도화기술개발사업성과...",
+  "\"한국주식다시담아라\"…'위험'경고하더니3개월만에반전"
  ],
  "recent_sigs": [
-  [
-   "2026-09-16T13:41:00.872968+09:00",
-   "맞춤형 경계 손잡나 TSMC와 반도체 허문 삼성도 HBM"
-  ],
-  [
-   "2026-09-16T13:41:00.872968+09:00",
-   "탄생하나 짐펜트라 블록버스터급 4조 글로벌 육박 연매출"
-  ],
-  [
-   "2026-09-16T13:41:00.872968+09:00",
-   "시민과 모색 미래 함께 상주의 지식 상주 아카데 상주시의회"
-  ],
-  [
-   "2026-09-16T13:41:00.872968+09:00",
-   "콘서트 대상 개최 취업 금융권 금감원 장애대학생 청년구직자"
-  ],
-  [
-   "2026-09-16T13:41:00.872968+09:00",
-   "정비 광산구 폐유흥가 재검토 방치 광주송정역 사업 원점"
-  ],
-  [
-   "2026-09-16T13:41:00.872968+09:00",
-   "삼성 실적 감속론 메모리값 환율 덮은 하반기 하닉 AI"
-  ],
   [
    "2026-09-16T13:51:07.847812+09:00",
    "자체 꿈틀 개발 AI 경쟁에 반도체 시스템반도체"
@@ -7011,9 +6987,25 @@
   [
    "2026-09-16T19:31:13.183607+09:00",
    "반도체 안전 문제 JS솔루션 화재 묵은 산업 현장의 기술로 푸는 모듈"
+  ],
+  [
+   "2026-09-16T19:41:17.745554+09:00",
+   "큐라티스 카카오게임즈 미투온 상한가 피인수 효과"
+  ],
+  [
+   "2026-09-16T19:41:17.745554+09:00",
+   "무럭무럭 대한민국 기술 인재"
+  ],
+  [
+   "2026-09-16T19:41:17.745554+09:00",
+   "항공우주부품 우주항공청 성과 고도화기술개발사업"
+  ],
+  [
+   "2026-09-16T19:41:17.745554+09:00",
+   "담아라 한국 주식 위험 다시 반전 3개월 만에 경고하더니"
   ]
  ],
- "last_run": "2026-09-16T19:31:21.522809+09:00",
+ "last_run": "2026-09-16T19:41:31.587794+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
