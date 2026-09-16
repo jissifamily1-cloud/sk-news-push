@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/economy_general/2026/09/15/ANBRCZX56VGKBD3P27NZ2SQB6Q/",
-  "https://biz.chosun.com/policy/policy_sub/2026/09/15/QFLCPJVOFVD4BACO2H5AHF46VQ/",
-  "https://www.mt.co.kr/stock/2026/09/15/2026091511434533009",
   "http://www.inews24.com/view/2005655",
   "https://www.businessplus.kr/news/articleView.html?idxno=116866",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724262",
@@ -2999,12 +2996,12 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236826",
   "https://www.news2day.co.kr/article/20260916500277",
   "https://biz.sbs.co.kr/article_hub/20000335115?division=NAVER",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=727572"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=727572",
+  "https://www.starnewskorea.com/sports/2026/09/17/2026091705131822622",
+  "https://news.tf.co.kr/read/world/2366862.htm",
+  "https://www.seoulfn.com/news/articleView.html?idxno=638167"
  ],
  "seen_titles": [
-  "[사람in]제33회가스안전대상국무총리표창-임상묵SK에너지대표",
-  "'하이닉스몰빵-14%'곽튜브,이번엔제대로터졌다…파김치500세트이...",
-  "구글클라우드,SK렌터카전사에'구글워크스페이스'제공…AI기반업...",
   "SK인텔릭스'나무엑스',첫해외진출…말레이시아공략",
   "SK인텔릭스'나무엑스',말레이시아진출",
   "SKT,국제회의서AI∙메시징서비스결합방안찾는다",
@@ -6001,7 +5998,10 @@
   "그룹사20곳,협력사납품대금9조6천억원조기지급",
   "K-제약·바이오,글로벌블록버스터가시권...기업체급확대는과제",
   "[외신헤드라인]\"SK하이닉스,인텔과美서메모리칩생산방안협의중\"",
-  "[경제간첩경보①]첨단산업뚫렸다…'초격차'빼가는산업스파이"
+  "[경제간첩경보①]첨단산업뚫렸다…'초격차'빼가는산업스파이",
+  "'11G7승-ERA1.39'세상에이런외인이있었나,\"앞으로도한국서좋은...",
+  "뉴욕증시,美연준기준금리인상에하락…다우1.21%하락",
+  "[뉴욕증시]워시\"물가너무높다\"반락마감···은행'된서리'·반도..."
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,13 @@
   [
    "2026-09-17T06:41:05.466762+09:00",
    "빼가는 첨단산업 산업스파이 뚫렸다 초격차"
+  ],
+  [
+   "2026-09-17T06:51:02.504417+09:00",
+   "워시 마감 된서리 물가 너무 높다 반도 반락 은행"
   ]
  ],
- "last_run": "2026-09-17T06:41:19.360289+09:00",
+ "last_run": "2026-09-17T06:51:08.954688+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
