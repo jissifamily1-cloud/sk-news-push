@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=288830",
-  "https://www.m-i.kr/news/articleView.html?idxno=1411558",
-  "http://www.cctimes.kr/news/articleView.html?idxno=926206",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260909053901whm",
   "https://www.chosun.com/national/welfare-medical/2026/09/09/VH7355YL2BEYZCPV5WSZHZPMJE/",
   "https://www.dailyt.co.kr/newsView/dlt202608300006",
   "https://www.segye.com/newsView/20260830510403?OutUrl=naver",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12154898",
   "https://www.donga.com/news/Society/article/all/20260917/134685103/2",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757019&plink=ORI&cooper=NAVER",
-  "https://www.seoulfn.com/news/articleView.html?idxno=638113"
+  "https://www.seoulfn.com/news/articleView.html?idxno=638113",
+  "https://www.news1.kr/industry/hotel-tourism/6292373",
+  "https://www.pharmnews.com/news/articleView.html?idxno=306353",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/17/2026091790005.html",
+  "https://www.newsis.com/view/NISX20260916_0003792549"
  ],
  "seen_titles": [
-  "선체탈출실종자뒤늦게확인..수색부실?",
-  "현대차·코오롱등수소기업'WHE2026'총출동",
-  "'야차룰'억지싸움강요20대女참변",
-  "[날씨]동해안오전까지비…전국대체로맑지만강풍주의",
   "건보공단“담배소송최종패소하더라도얻어낸가치매우커”",
   "[지구촌이색환경정책리포트]메마른사막에100억그루나무를...산...",
   "뜨거워지는바다,늘어나는재해…기후변화는이미‘재무’의문제다...",
@@ -6001,10 +5997,19 @@
   "“4조계약공시전에운좋게?”…에이비엘바이오,가족계좌조사착수",
   "7년간암표팔아24억벌어,아파트-상가까지산업자",
   "'BTS콘서트300만원'…암표팔아집·상가샀다",
-  "[전국+]전북여론조작논란,국회로번졌다···'선거브로커카르텔'..."
+  "[전국+]전북여론조작논란,국회로번졌다···'선거브로커카르텔'...",
+  "[단독]\"공정위제재무색\"…한국관광공사,中OTA판촉비3년새2.8배늘...",
+  "에이비엘바이오,주식선행매매혐의…합동대응단칼날에업계'촉각'",
+  "추미애\"김지용은'밀정'…나치아이히만연상케해\"",
+  "SK케미칼vs애경…'가습기살균제'343억구상권법정공방시작"
  ],
- "recent_sigs": [],
- "last_run": "2026-09-17T06:01:12.938892+09:00",
+ "recent_sigs": [
+  [
+   "2026-09-17T06:10:48.064898+09:00",
+   "살균제 SK케미칼 애경 법정 시작 공방 343억 구상권 vs"
+  ]
+ ],
+ "last_run": "2026-09-17T06:10:55.325927+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
