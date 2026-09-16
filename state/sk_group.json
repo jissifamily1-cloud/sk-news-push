@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/mobile/6290695",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700576",
-  "https://www.joongdo.co.kr/web/view.php?key=20260911010003581",
-  "http://www.metroseoul.co.kr/article/20260915500254",
-  "https://www.news2day.co.kr/article/20260915500139",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=136278",
-  "https://www.mk.co.kr/article/12153013",
   "https://www.socialvalue.kr/news/view/1065579791322286",
   "https://www.kukinews.com/article/view/kuk202609150090",
   "http://www.yonhapnewstv.co.kr/news/MYH20260915132911ZwV",
@@ -2999,16 +2992,16 @@
   "https://www.smartbizn.com/news/articleView.html?idxno=154097",
   "https://www.newstnt.com/news/articleView.html?idxno=718656",
   "https://www.ekn.kr/web/view.php?key=20260917023105675",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757229&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757229&plink=ORI&cooper=NAVER",
+  "https://www.lecturernews.com/news/articleView.html?idxno=210710",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000066309",
+  "https://biz.sbs.co.kr/article_hub/20000335137?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000335138?division=NAVER",
+  "https://www.g-enews.com/view.php?ud=202609161200582383fda4f5ab74_1",
+  "https://www.etoday.co.kr/news/view/2626502",
+  "https://www.etoday.co.kr/news/view/2626509"
  ],
  "seen_titles": [
-  "[가스안전대상-산업포장]천성흔한비크라이오대표",
-  "[가스안전대상-국무총리표창]임상묵SK에너지대표",
-  "[오피셜]'강민우·김예건·윤도영발탁'韓축구미래이끌올림픽대표...",
-  "SKT,콜센터품질지수최우수기업인증5년연속획득",
-  "SKT,콜센터품질지수평가에서‘최우수’선정",
-  "[메가이슈토픽]\"20억을1000억으로부풀려\"…최태원측,'허위유포'불...",
-  "인공지능실행<결제·예약>문자로최종승인",
   "노소영측변호사“김희영에1천억썼다”주장불기소에최태원항고",
   "최태원측\"노소영·변호사,거짓알고도허위사실주장\"…명예훼손항...",
   "환율하락에삼전닉스3분기실적전망↓잇따라…\"펀더멘털은견조\"",
@@ -6001,7 +5994,14 @@
   "삼성전자,25만원넘었지만···증권가목표가는27만~60만원'극과극...",
   "SK바이오텍,세종취약계층지원에2480만원기탁",
   "렌터카시장‘빅플레이어’전쟁에…중소업체설자리“위태”",
-  "[뉴욕증시]워시의장의'매파적'발언…얼어붙은시장"
+  "[뉴욕증시]워시의장의'매파적'발언…얼어붙은시장",
+  "[미국뉴욕증시]연준기준금리인상·워시매파발언에다우존스·S&P50...",
+  "\"금리인상·매파발언\"…뉴욕증시3대지수'일제히하락'",
+  "[비즈나우]SK하닉·인텔맞손…\"美생산논의\"",
+  "[애프터마켓리뷰]비나텍,블룸에너지내독점지위'확고'",
+  "픽테펀드에中자금7조유입…美빅테크투자우회로",
+  "빛샘전자·아모센스상한가…삼전보합·SK하닉상승폭축소[전날애프...",
+  "[오늘의증시일정]미트박스·롯데관광개발·SK리츠등"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,29 @@
   [
    "2026-09-17T07:51:05.161072+09:00",
    "워시 시장 매파적 얼어붙은 의장의 발언"
+  ],
+  [
+   "2026-09-17T08:01:21.747537+09:00",
+   "맞손 SK하닉 인텔 논의 생산"
+  ],
+  [
+   "2026-09-17T08:01:21.747537+09:00",
+   "비나텍 지위 확고 독점 블룸에너지"
+  ],
+  [
+   "2026-09-17T08:01:21.747537+09:00",
+   "우회로 픽테 유입 자금 빅테크 투자 펀드에 7조"
+  ],
+  [
+   "2026-09-17T08:01:21.747537+09:00",
+   "SK하닉 전날 상승폭 축소 상한가 아모센스 삼전 빛샘전자 애프 보합"
+  ],
+  [
+   "2026-09-17T08:01:21.747537+09:00",
+   "롯데관광개발 미트박스 SK리츠"
   ]
  ],
- "last_run": "2026-09-17T07:51:29.460344+09:00",
+ "last_run": "2026-09-17T08:01:38.290439+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
