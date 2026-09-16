@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.jeollailbo.com/news/articleView.html?idxno=808496",
-  "https://www.joongangenews.com/news/articleView.html?idxno=540978",
-  "https://gj.newdaily.co.kr/site/data/html/2026/08/19/2026081900080.html",
-  "http://www.iminju.net/news/articleView.html?idxno=168223",
   "https://www.mt.co.kr/policy/2026/08/19/2026081909500925414",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=85446",
   "https://www.viva100.com/article/20260819500212",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10875946",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=727970",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1068031",
-  "https://www.donga.com/news/Politics/article/all/20260916/134681886/1"
+  "https://www.donga.com/news/Politics/article/all/20260916/134681886/1",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1406931",
+  "http://www.iminju.net/news/articleView.html?idxno=169625",
+  "https://www.m-i.kr/news/articleView.html?idxno=1414968",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063124"
  ],
  "seen_titles": [
-  "\"음악으로잇는영·호남\"…광주·대구·여수·부산청소년400명,아름...",
-  "광주·대구·여수·부산청소년400명,음악으로영호남잇는다",
-  "광주·대구·여수·부산청소년오케스트라,전남대민주마루서합동무...",
-  "[전남은오늘]전남광주통합시·전남광주통합시교육청·전남광주동구",
   "광주학생교육문화회관,전남대서'영·호남교류음악회'개최",
   "광주·대구·여수·부산청소년400명,음악으로잇는영호남",
   "지역감정넘어선하모니,영·호남청소년이쏘아올리다",
@@ -6001,7 +5997,11 @@
   "李대통령“한-중앙아새로운실크로드…핵심광물협력강화해야”",
   "SK하이닉스미국서메모리만드나…인텔과생산협력검토",
   "SK이노,WCE2026서AI데이터센터용'통합에너지설루션'공개",
-  "韓·중앙亞5개극‘서울선언’…“핵심광물협력·단계적비핵화지지..."
+  "韓·중앙亞5개극‘서울선언’…“핵심광물협력·단계적비핵화지지...",
+  "리튬·우라늄부터고속철까지…韓,중앙아8400만시장공략나선다",
+  "韓·중앙아시아경제계,공동선언채택…최태원\"화합이곧번영\"",
+  "최태원표'전기화'속도…SK이노,AI시대에너지해법제시",
+  "李대통령,한-중앙아'新실크로드'제시…'서울선언'채택"
  ],
  "recent_sigs": [
   [
@@ -6089,7 +6089,7 @@
    "단계적 협력 중앙 비핵화 핵심광물 지지 서울선언 5개극"
   ]
  ],
- "last_run": "2026-09-16T17:10:26.386138+09:00",
+ "last_run": "2026-09-16T17:20:26.179988+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
