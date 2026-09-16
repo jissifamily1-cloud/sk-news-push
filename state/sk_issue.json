@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245549",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=311529",
-  "https://www.news1.kr/local/busan-gyeongnam/6284110",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260908185210Uls",
-  "https://www.yna.co.kr/view/PYH20260908227300056?input=1196m",
-  "https://www.newsis.com/view/NISI20260908_0021429128",
   "https://www.newsis.com/view/NISI20260908_0021429124",
   "http://www.4th.kr/news/articleView.html?idxno=2117635",
   "https://www.thepublic.kr/news/articleView.html?idxno=318049",
@@ -2999,15 +2993,15 @@
   "https://www.laborplus.co.kr/news/articleView.html?idxno=41504",
   "https://www.hani.co.kr/arti/politics/politics_general/1278171.html",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6852310_37004.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665316"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665316",
+  "https://www.livebiz.today/news/articleView.html?idxno=204930",
+  "https://www.etoday.co.kr/news/view/2626471",
+  "https://www.newsway.co.kr/news/view?ud=2026091620405158216",
+  "https://www.dailian.co.kr/news/view/1691367/?sc=Naver",
+  "https://www.mydaily.co.kr/page/view/2026091620400682936",
+  "https://www.mbceg.co.kr/post/140241"
  ],
  "seen_titles": [
-  "공정위,아성다이소'부당반품의혹'추가조사",
-  "징역,벌금,과징금,손배…4중제재에도담합줄줄이:후안무치경제...",
-  "부산예인선전복수사본격화…당국,압수수색실시중처법검토(종합...",
-  "예인선사고선사압수수색…실종자2명추락확인",
-  "검찰,제주서부경찰서압수수색",
-  "검찰,'제주실종신고허위종결'서부경찰서압수수색",
   "검찰,제주서부서부경장사무실압수수색",
   "[유통소식]대상펫라이프,고양이영양관리신제품3종출시",
   "약손명가가맹점주들,본사'수수료인상·갑질'의혹제기…국감서확...",
@@ -6001,10 +5995,16 @@
   "연합노련,생폐관외업체진입확대···'노동자안전'우려",
   "추미애“김지용중수청장후보자,책임발뺌…아이히만연상케해”",
   "[단독]\"리딩방사기를당했는데요\"‥압수수색전날변호사에게걸려온...",
-  "경찰,전주시설공단압수수색…이사장선거법의혹관련"
+  "경찰,전주시설공단압수수색…이사장선거법의혹관련",
+  "법원,제지·제분업계에내린공정위'가격재결정명령'효력정지인용",
+  "법원,공정위제지·밀가루‘가격재결정명령’제동",
+  "법원,공정위제지·밀가루'가격재결정'제동…집행정지잇따라",
+  "법원,공정위제지·밀가루업체'가격재결정명령'효력정지",
+  "에이비엘바이오,미공개정보의혹에주주서한…“내부통제·정보관리보...",
+  "\"10년이상고착한토착비리\"...양양수의계약,이권카르텔밝혀낼까..."
  ],
  "recent_sigs": [],
- "last_run": "2026-09-16T20:40:53.215515+09:00",
+ "last_run": "2026-09-16T20:50:53.991425+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
