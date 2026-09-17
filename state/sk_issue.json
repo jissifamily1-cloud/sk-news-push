@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://ysmbc.co.kr/NewsArticle/1536178",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=274744",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245571",
-  "https://www.greened.kr/news/articleView.html?idxno=349646",
-  "https://www.seoul.co.kr/news/society/2026/09/09/20260909500221?wlog_tag3=naver",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=865011",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000063912",
   "https://biz.sbs.co.kr/article_hub/20000169780?division=NAVER",
   "http://www.m-economynews.com/news/article.html?no=43197",
@@ -2999,15 +2993,15 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=95582",
   "https://www.mt.co.kr/society/2026/09/17/2026091716252682938",
   "https://www.newsis.com/view/NISX20260917_0003794262",
-  "https://www.yna.co.kr/view/AKR20260917149500061?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260917149500061?input=1195m",
+  "https://www.seoulfn.com/news/articleView.html?idxno=631863",
+  "https://www.ceoscoredaily.com/page/view/2025090409414501029",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=493285",
+  "http://www.inews24.com/view/1800053",
+  "https://www.bizhankook.com/bk/article/28701",
+  "https://www.newdaily.co.kr/site/data/html/2024/07/08/2024070800343.html"
  ],
  "seen_titles": [
-  "보복대행조직에고객정보유출혐의…우체국직원압수수색",
-  "사고인지도,검사도,사후관리도실패…기업은행내부통제붕괴쓴소리",
-  "공영홈쇼핑판매홍어·가자미'원산지표시'수사",
-  "공영홈쇼핑'원산지검증'또도마위…홍어·가자미9935개,2억8400만원...",
-  "사격훈련후실탄챙긴경찰관자택압수수색…경찰“추가실탄,범죄...",
-  "\"11세지적장애아동사망,38시간쇠사슬로묶고방치했다\"⋯외조모·목...",
   "사격훈련뒤실탄3발빼돌린경찰관…자택까지압수수색",
   "[김대호박사의오늘기업·사람]애플·화웨이·SK",
   "공정위,SK위장계열사에과징금1억5천만원부과",
@@ -6001,7 +5995,13 @@
   "중국산가짜화장품45억원어치오픈마켓서유통…브로커검찰송치",
   "'신천지총회장'이만희,또풀려나…한달사이에3번째일시석방",
   "[단독]'김건희디올백수사'김경목검사,선관위특검합류",
-  "'수원마약영상'30대필로폰투약혐의인정…내일송치"
+  "'수원마약영상'30대필로폰투약혐의인정…내일송치",
+  "[SK오너가복귀③]최태원회장의'든든한지원군'최기원행복나눔재...",
+  "농심삼남신동익친족기업간‘채무보증’…“유동성악화속동반부실...",
+  "[단독]SK'최태원여동생'실질적지배회사'플레이스포'논란끝청산...",
+  "SK최태원회장공정거래법위반⋯공정위'경고'",
+  "[단독]최기원SK행복나눔재단이사장,개인회사설립해부동산임대사...",
+  "'천화동인6호'조우형\"서판교터널개통은미공개정보아냐\""
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "SKB LGU 손배소송 입찰 패소 KT 1심 담합 공공회선"
   ]
  ],
- "last_run": "2026-09-17T17:01:19.059599+09:00",
+ "last_run": "2026-09-17T17:10:52.554504+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
