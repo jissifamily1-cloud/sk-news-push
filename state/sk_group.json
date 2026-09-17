@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008755790&plink=ORI&cooper=NAVER",
-  "https://www.ekn.kr/web/view.php?key=20260916026115386",
-  "https://www.youthdaily.co.kr/news/article.html?no=227173",
-  "https://www.munhwa.com/article/11617423",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463448",
-  "https://www.newstree.kr/newsView/ntr202609160009",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/16/2026091600157.html",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580048515841",
   "https://www.thebigdata.co.kr/view.php?ud=2026091611295829430a47484cf8_23",
   "http://www.lawissue.co.kr/view.php?ud=20260916113716176167191f6c6e_12",
   "https://www.taxtimes.co.kr/news/article.html?no=276883",
@@ -2999,17 +2991,17 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=607761",
   "https://www.news1.kr/finance/general-stock/6294575",
   "https://www.womennews.co.kr/news/articleView.html?idxno=282323",
-  "https://www.etoday.co.kr/news/view/2626967"
+  "https://www.etoday.co.kr/news/view/2626967",
+  "https://www.news2day.co.kr/article/20260917500191",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764130",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764009",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764076",
+  "https://www.yakup.com/news/index.html?cat=12&nid=332729",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764099",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000013263&cp=nv",
+  "https://www.monews.co.kr/news/articleView.html?idxno=413988"
  ],
  "seen_titles": [
-  "'2026프로야구GO!',황재균·장채근·박한이등신규레전드선수추가",
-  "SK하이닉스임단협수정안최종가결",
-  "칩부족넘어전력난까지…AI광풍에韓‘황금기’진입",
-  "이재용,日참의원대표단과'깜짝회동'…AI·반도체협력논의",
-  "AI속도조절론에엇갈린‘삼전닉스’전망…BNK는목표가낮추고KB는...",
-  "SK하이닉스임단협수정안가결...현금50%확정",
-  "SK하이닉스임단협재합의안가결…성과급현금50%확정",
-  "충북도,수도권서300여CEO대상투자유치세일즈",
   "인텔CEO\"가격급등한메모리,내년엔더부족해질것\"",
   "현금비중10%p늘렸다…SK하이닉스노사,임단협최종타결",
   "이재용,日참의원대표단과오찬…반도체·AI한일협력논의",
@@ -6001,7 +5993,15 @@
   "코스피약보합…삼성전기·SK스퀘어등↓",
   "금리인상은악재라는데코스피보합권…남은변수는'국제유가'",
   "[인터뷰]“여자가무슨정치를하냐고요?한부모가장에서진도군의회...",
-  "[논현광장-이준일의기업이야기]눈앞이익에취해있을시간이없다"
+  "[논현광장-이준일의기업이야기]눈앞이익에취해있을시간이없다",
+  "[N2모닝경제브리핑-9월18일]美증시,‘금리·유가’진정에급반등...",
+  "\"AI서투르면취업못해요\"...대기업들모든직무서'AI활용역량'을채...",
+  "반도체인재확보경쟁치열하더니...SK하이닉스장기급여부채3조육박...",
+  "\"추석귀성길안심하세요\"…삼성화재·KB손보-무상점검,현대해상-긴급...",
+  "[BMK2026]삼성바이오로직스,ADC상업화앞당긴다…제형·공정최적화전...",
+  "[주간IPO]9월넷째주,엘리스그룹·엠비디·진코스텍·멜콘수요예측...",
+  "“우리도한국삼전닉스처럼성과급”…대만마이크론,파업예고",
+  "체급키운K-제약,'블록버스터'가시화···글로벌200위권"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,41 @@
   [
    "2026-09-18T06:10:58.990720+09:00",
    "없다 시간이 있을 취해 이익에 눈앞"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "진정에 유가 급반등 금리 증시"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "못해요 활용 모든 역량 취업 직무서 AI 대기업들 서투르면"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "치열하더니 확보 육박 3조 인재 장기급여부채 경쟁 반도체 SK하이닉스"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "현대해상 추석 KB손보 무상점검 귀성길 긴급 안심하세요 삼성화재"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "최적화 앞당긴다 상업화 삼성바이오로직스 제형 ADC 공정"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "진코스텍 수요예측 9월 멜콘 엘리스그룹 엠비디 넷째"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "성과급 예고 한국 파업 마이크론 우리도 대만 삼전닉스처럼"
+  ],
+  [
+   "2026-09-18T06:21:03.752240+09:00",
+   "블록버스터 가시화 200위권 키운 체급 제약 글로벌"
   ]
  ],
- "last_run": "2026-09-18T06:11:39.445675+09:00",
+ "last_run": "2026-09-18T06:21:30.351754+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
