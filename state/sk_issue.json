@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2363853.htm",
-  "https://www.mt.co.kr/politics/2026/09/09/2026090912501056591",
-  "https://biz.sbs.co.kr/article_hub/20000333640?division=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260909143948ak4",
   "https://www.ytn.co.kr/_ln/0102_202609091437029064",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2468314",
   "https://dealsite.co.kr/articles/168714",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20260917_0003794404",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666209",
   "https://www.kgnews.co.kr/news/article.html?no=912049",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666212"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666212",
+  "https://biz.sbs.co.kr/article_hub/20000169780?division=NAVER",
+  "http://www.m-economynews.com/news/article.html?no=43197",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1714467555&code=11151100&cp=nv",
+  "http://www.segye.com/newsView/20240430514424?OutUrl=naver"
  ],
  "seen_titles": [
-  "금감원특사경,주가조작세력·현직기자동시압수수색",
-  "\"치안지옥\"외친지하루만에…국힘투톱,與·경찰에'보완수사'공세",
-  "공영홈쇼핑믿고샀는데…홍어·가자미원산지논란",
-  "‘실종허위종결’이틀째압수수색…메신저대화확보",
   "금감원특사경,'선행매매혐의'현직기자압수수색",
   "가맹점넘겨받는데비용은'제각각'···승계두고엇갈린기준",
   "한탑,공정위서과징금분할납부승인받아",
@@ -6001,7 +5997,11 @@
   "선관위특검,열흘만에첫강제수사…중앙선관위등10곳압색(종합)",
   "“경찰이김병기사건‘침대수사’”…공익신고자,박성주전국수본부...",
   "경찰“보이스톡에네이블비공개코드사용”…공소시효지나불송치",
-  "‘가습기살균제소송비’343억원두고애경·SK법정공방시작"
+  "‘가습기살균제소송비’343억원두고애경·SK법정공방시작",
+  "[김대호박사의오늘기업·사람]애플·화웨이·SK",
+  "공정위,SK위장계열사에과징금1억5천만원부과",
+  "공정위,계열사간채무보증SK그룹플레이스포과징금제재",
+  "공정위,SK계열사부당채무보증제재"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "SKB LGU 손배소송 입찰 패소 KT 1심 담합 공공회선"
   ]
  ],
- "last_run": "2026-09-17T17:21:04.537667+09:00",
+ "last_run": "2026-09-17T17:31:02.769529+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
