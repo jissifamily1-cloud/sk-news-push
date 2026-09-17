@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.globalepic.co.kr/view.php?ud=20260916121523607748439a4874_29",
-  "https://www.thepublic.kr/news/articleView.html?idxno=318941",
-  "https://www.inthenews.co.kr/news/article.html?no=91973",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000012567&cp=nv",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3012035",
-  "https://www.betanews.net/article/view/beta202609160053",
   "https://www.news2day.co.kr/article/20260916500149",
   "https://www.mk.co.kr/article/12154013",
   "https://www.irobotnews.com/news/articleView.html?idxno=48539",
@@ -2999,15 +2993,15 @@
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299436715648",
   "https://www.fntimes.com/html/view.php?ud=202609180641154063141825007d_18",
   "https://view.asiae.co.kr/article/2026091807124646107",
-  "https://biz.sbs.co.kr/article_hub/20000335410?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000335410?division=NAVER",
+  "https://www.hani.co.kr/arti/economy/economy_general/1278053.html",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258862",
+  "https://www.mediapen.com/news/view/1124453",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724758",
+  "https://news.bizwatch.co.kr/article/market/2026/09/17/0013",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701497"
  ],
  "seen_titles": [
-  "\"AX·GX결합,新성장동력\"…글로벌기후·에너지리더부산집결",
-  "부산모인기후·에너지리더들…AI·녹색전환해법찾는다",
-  "[창간24/넥스트레벨]삼성·SK가떠받친'반도체코리아'···이제시스...",
-  "비비안,풍력에너지설비사업위해테크트렉과MOU",
-  "보합권에서등락하는코스피...눈치보기장세이어져",
-  "“'AX•GX'쌍둥이전환으로신성장동력창출”",
   "아웃백,SKT와'아이폰18프로'프로모션'→샘표'연두링'브랜드캠페인...",
   "[창간24/한국의AI②]심심이부터초거대AI까지···한국AI연구20...",
   "SK하이닉스성과급논란,‘현금50%-주식50%’로마무리",
@@ -6001,7 +5995,13 @@
   "이상일용인특례시장,\"반도체서나올성과...시민윤택한삶누리게\"",
   "[KFT모닝브리프]2026.09.18—오늘꼭알아야할국내외경제뉴스",
   "경기도,용인반도체클러스터점검…용수공급과방류수저감방안등...",
-  "[증시전략]美금리올리자국채금리하락반전…불안감잦아드나?"
+  "[증시전략]美금리올리자국채금리하락반전…불안감잦아드나?",
+  "“에너지정책재점검하는상황”…부산서글로벌기후에너지라운드",
+  "[넥스트-샷]금리인상충격은하루짜리?···유가꺾이자나스닥1.7%...",
+  "[美증시]젠슨황\"내년칩판매량2배로증가\"…AI수요고점론일축",
+  "마이크론대만노조\"영업익15%나눠라\"…삼성·SK성과급제도소환",
+  "[단독]변동성증시안전판필요...금투협,공모펀드활성화재시동",
+  "[시큐리티핫이슈]K-보안'SaaS플랫폼'탄력...글로벌확장"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,17 @@
   [
    "2026-09-18T07:21:02.429120+09:00",
    "반전 불안감 올리자 국채금리 금리 잦아드나 하락"
+  ],
+  [
+   "2026-09-18T07:31:06.245862+09:00",
+   "안전판 활성화 변동성 재시동 금투협 공모펀드 증시 필요"
+  ],
+  [
+   "2026-09-18T07:31:06.245862+09:00",
+   "SaaS 확장 보안 플랫폼 탄력 글로벌"
   ]
  ],
- "last_run": "2026-09-18T07:21:23.392244+09:00",
+ "last_run": "2026-09-18T07:31:15.087141+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
