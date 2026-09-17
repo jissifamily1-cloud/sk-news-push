@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thelec.kr/news/articleView.html?idxno=62330",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447273",
   "https://www.etoday.co.kr/news/view/2625746",
   "https://www.insight.co.kr/news/573649",
   "https://news.ifm.kr/news/articleView.html?idxno=479508",
@@ -2999,11 +2997,11 @@
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=406219",
   "https://www.besteleven.com/news/articleView.html?idxno=312300",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=276087",
-  "http://www.kjdaily.com/article.php?aid=1789615776687090227"
+  "http://www.kjdaily.com/article.php?aid=1789615776687090227",
+  "https://www.fnnews.com/news/202609171050540866",
+  "https://www.tokenpost.kr/news/blockchain/409482"
  ],
  "seen_titles": [
-  "SK바이오팜이동훈사장,보름만에자사주3000주매입",
-  "\"휴대전화요금25%추가할인\"글급속확산",
   "[데스크칼럼]변호사말한마디에불붙은여론재판,정상인가?",
   "[재계투데이]LG전자,한국형공동주택히트펌프모델제주서첫선外",
   "66-to-1competitionforSKhynix-linkedmajorinearlyadmissions",
@@ -6001,25 +5999,11 @@
   "'1천억원지출설'에재산분할대상집값에기부금까지포함됐나···최...",
   "여전히건재한'스트롱맨'무고사,K리그130라운드가장주목할만한선...",
   "SK증권\"한화엔진,그룹데이터센터사업수혜기대\"",
-  "SK하이닉스·삼성전자오전거래대금3.7조원"
+  "SK하이닉스·삼성전자오전거래대금3.7조원",
+  "SK이노베이션,베트남중앙정책전략위원회와투자프로젝트협력강화...",
+  "[로빈후드온체인]메타거래대금이하루만에16배로뛰어...릴슈럽거..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-17T06:41:05.466762+09:00",
-   "9조6천억원 협력사 조기 납품대금 20곳 지급 그룹사"
-  ],
-  [
-   "2026-09-17T06:41:05.466762+09:00",
-   "가시권 과제 확대는 글로벌 체급 기업 바이오 제약 블록버스터"
-  ],
-  [
-   "2026-09-17T06:41:05.466762+09:00",
-   "생산방안 협의중 SK하이닉스 메모리칩 인텔과"
-  ],
-  [
-   "2026-09-17T06:41:05.466762+09:00",
-   "빼가는 첨단산업 산업스파이 뚫렸다 초격차"
-  ],
   [
    "2026-09-17T06:51:02.504417+09:00",
    "워시 마감 된서리 물가 너무 높다 반도 반락 은행"
@@ -7079,9 +7063,17 @@
   [
    "2026-09-17T12:41:03.068657+09:00",
    "삼성전자 SK하이닉스 오전 거래대금 7조원"
+  ],
+  [
+   "2026-09-17T12:50:58.218081+09:00",
+   "협력 프로젝트 투자 베트남 강화 SK이노베이션 중앙정책전략위원회와"
+  ],
+  [
+   "2026-09-17T12:50:58.218081+09:00",
+   "슈럽 하루 만에 거래대금이 메타 뛰어 16배로"
   ]
  ],
- "last_run": "2026-09-17T12:41:18.087928+09:00",
+ "last_run": "2026-09-17T12:51:07.004721+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
