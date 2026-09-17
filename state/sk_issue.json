@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260909171024sP8",
-  "https://magazine.hankyung.com/business/article/202609094525b",
-  "https://www.newsis.com/view/NISX20260909_0003783166",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260909171432Jf1",
-  "https://www.munhwa.com/article/11615825",
-  "https://kpenews.com/View.aspx?No=4220175",
   "http://news.lghellovision.net/news/articleView.html?idxno=554509",
   "https://news.bizwatch.co.kr/article/finance/2026/09/09/0027",
   "https://www.newspim.com/news/view/20260909001213",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260917_0003794664",
   "https://www.khan.co.kr/article/202609172109005",
   "https://magazine.hankyung.com/business/article/202404307970b",
-  "https://www.skyedaily.com/news/news_view.html?ID=230237"
+  "https://www.skyedaily.com/news/news_view.html?ID=230237",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666560",
+  "https://www.ytn.co.kr/_ln/0103_202609172137402408",
+  "https://www.segye.com/newsView/20260917516769?OutUrl=naver",
+  "https://www.hankyung.com/article/2026091723827",
+  "https://www.mt.co.kr/society/2026/09/17/2026091721071949533",
+  "https://www.yna.co.kr/view/AKR20260917047655004?input=1195m"
  ],
  "seen_titles": [
-  "법원,한화자료제출명령내년1월까지효력정지",
-  "한화손들어준법원…공정위자료제출명령제동",
-  "영광군수집무실압수수색…\"수사로진실밝혀질것\"",
-  "검찰,'실종허위종결'이틀째압수수색…메신저대화확보",
-  "‘공공기관홈쇼핑,믿었는데뒤통수?’…국산홍어·가자미3억원어치...",
-  "일본항공,대한항공에이어한진칼지분까지..\"조원태우군되나\"",
   "실탄3발가져간경찰관자택압수수색",
   "기업은행,대출사기보고후2주만에또당해…자체점검선\"문제없어\"",
   "금감원특사경,'선행매매혐의'출입기자압수수색",
@@ -6001,7 +5995,13 @@
   "선관위특검,중앙선관위압수수색종료…경기·김포는계속(종합2보)",
   "행안부,직접나서‘김지용논란’에조목조목해명",
   "공정위,SK계열사에불법채무보증과징금1.5억부과",
-  "공정위SK소속회사의위법채무보증행위제재나서"
+  "공정위SK소속회사의위법채무보증행위제재나서",
+  "가습기살균제피해자단체,고서영철대표노제열어",
+  "가습기살균제피해자단체,청와대앞고서영철대표노제",
+  "선관위특검,수사개시10일만에첫동시다발적압수수색",
+  "선관위특검,첫강제수사돌입…10곳압수수색12시간만에종료",
+  "'수원마약좀비'30대\"해외서필로폰투약\"인정…송치예정",
+  "선관위특검,선관위10곳첫압수수색…12시간만에마무리(종합3보)"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "SKB LGU 손배소송 입찰 패소 KT 1심 담합 공공회선"
   ]
  ],
- "last_run": "2026-09-17T21:40:58.962555+09:00",
+ "last_run": "2026-09-17T21:50:55.956732+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
