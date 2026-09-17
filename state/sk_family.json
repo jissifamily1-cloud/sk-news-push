@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260906500079",
-  "https://zdnet.co.kr/view/?no=20260906121121",
   "https://www.g-enews.com/view.php?ud=202609061228566250112616b072_1",
   "https://www.viva100.com/article/20260906500350",
   "https://www.mk.co.kr/article/12145271",
@@ -2999,11 +2997,11 @@
   "https://www.apnews.kr/news/articleView.html?idxno=3051343",
   "https://www.idomin.com/news/articleView.html?idxno=2014084",
   "https://www.thepublic.kr/news/articleView.html?idxno=319162",
-  "https://www.newsis.com/view/NISX20260917_0003793826"
+  "https://www.newsis.com/view/NISX20260917_0003793826",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=452574",
+  "http://www.joseilbo.com/news/news_read.php?uid=575907&class=32"
  ],
  "seen_titles": [
-  "[2026국제금융협력포럼]베트남은기회이자경쟁시장,\"K-금융DNA심어...",
-  "[ZD브리핑]‘깜짝빛날시간’…애플폴더블폰공개",
   "SK·울산상의,'울산포럼2026'개최…제조AX·일상AI해법모색",
   "SK·울산상의,제조업AX해법찾는다…울산포럼11일개최",
   "SK,11일울산포럼…제조현장에AI심는다",
@@ -6001,13 +5999,11 @@
   "노소영'1000억'산식논란…최태원측\"생활비·자녀지급액까지합산...",
   "부경원예농협'소비촉진·농가소득증대'꽃꽂이교실운영",
   "최태원차녀최민정,美AI헬스케어사업확장…뉴욕넘어3개주로",
-  "\"미확정\"이라는데美·日서잇단팹추진설…SK하이닉스글로벌확장거..."
+  "\"미확정\"이라는데美·日서잇단팹추진설…SK하이닉스글로벌확장거...",
+  "한국수출입은행,충북에3년간5조원푼다",
+  "국힘'이재용·최태원'국감증인신청할까...민주\"망신주기식안돼\""
  ],
  "recent_sigs": [
-  [
-   "2026-09-17T09:40:13.629460+09:00",
-   "부풀 수치 1000억원 50배 넘게 기부금도 포함 지출설"
-  ],
   [
    "2026-09-17T10:10:14.591852+09:00",
    "4곳 전력 3곳은 AI데이터센터 확보는 나머지 파주뿐 대기"
@@ -6103,9 +6099,13 @@
   [
    "2026-09-17T15:20:16.002704+09:00",
    "확장 사업 헬스케어 뉴욕 넘어 AI 차녀 3개주로"
+  ],
+  [
+   "2026-09-17T15:47:13.970259+09:00",
+   "신청할까 민주 망신주기식 국감증인 이재용 안돼 국힘"
   ]
  ],
- "last_run": "2026-09-17T15:40:24.998769+09:00",
+ "last_run": "2026-09-17T15:47:30.704650+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
