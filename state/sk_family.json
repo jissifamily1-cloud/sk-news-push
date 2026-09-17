@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260906_0003777934",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058870",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446489",
-  "https://www.dt.co.kr/article/12082264",
-  "http://www.4th.kr/news/articleView.html?idxno=2117550",
   "https://www.smarttoday.co.kr/ko-kr/articles/111224",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=207797",
   "http://www.metroseoul.co.kr/article/20260906500079",
@@ -2999,14 +2994,14 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=117019",
   "https://news.tf.co.kr/read/economy/2367182.htm",
   "http://www.epj.co.kr/news/articleView.html?idxno=39416",
-  "https://www.mt.co.kr/economy/2026/09/17/2026091714272950509"
+  "https://www.mt.co.kr/economy/2026/09/17/2026091714272950509",
+  "https://www.ilyosisa.co.kr/news/article.html?no=257972",
+  "https://www.ilyosisa.co.kr/news/article.html?no=257968",
+  "https://www.ilyosisa.co.kr/news/article.html?no=257971",
+  "https://www.apnews.kr/news/articleView.html?idxno=3051343",
+  "https://www.idomin.com/news/articleView.html?idxno=2014084"
  ],
  "seen_titles": [
-  "\"제조업AI전환속도낸다\"…SK·울산상의,오는11일'울산포럼2026'개...",
-  "SK·울산상의,제조업AI전환본격화…울산미래산업해법찾는다",
-  "[부음]김희태,박상민모친,박현정부친외",
-  "최태원제안울산포럼11일개최…“AI를일상으로”",
-  "SK,울산제조업AI전환확산…지역혁신해법모색",
   "스마일게이트이혼소송9일선고..'세기의이혼되나'",
   "SK,제조업AX및일상AI논의할'2026울산포럼'개최",
   "[2026국제금융협력포럼]베트남은기회이자경쟁시장,\"K-금융DNA심어...",
@@ -6001,7 +5996,12 @@
   "한수원,AI시대사이버보안점검…외부전문가와대응책논의",
   "한수원'에너지안보',사이버보안위원회개최",
   "한수원,'2026년사이버보안위원회'개최",
-  "한수원'사이버보안위원회'가동…AI위협대응·보안체계재점검"
+  "한수원'사이버보안위원회'가동…AI위협대응·보안체계재점검",
+  "‘막던지는’노소영더티플레이③단순계산오류?숨겨진노림수",
+  "‘막던지는’노소영더티플레이①앞뒤안맞는1000억계산법",
+  "‘막던지는’노소영더티플레이②‘기부금까지?’무관한지출내역",
+  "노소영'1000억'산식논란…최태원측\"생활비·자녀지급액까지합산...",
+  "부경원예농협'소비촉진·농가소득증대'꽃꽂이교실운영"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-09-17T14:50:12.692716+09:00",
    "기부금 포함 출연금까지 알면서도"
+  ],
+  [
+   "2026-09-17T15:00:27.600583+09:00",
+   "던지는 내역 기부금까지 무관한 더티 플레이 지출"
   ]
  ],
- "last_run": "2026-09-17T14:50:26.578297+09:00",
+ "last_run": "2026-09-17T15:00:42.961934+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
