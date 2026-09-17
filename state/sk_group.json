@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6579016",
-  "https://www.munhwa.com/article/11617453",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266882",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599096",
   "https://www.munhwa.com/article/11617436",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=363284",
   "https://www.joongangenews.com/news/articleView.html?idxno=548522",
@@ -2999,13 +2995,13 @@
   "https://www.bloter.net/news/articleView.html?idxno=673860",
   "https://www.mt.co.kr/economy/2026/09/18/2026091718494438647",
   "https://www.taxtimes.co.kr/news/article.html?no=276883",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1724755"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724755",
+  "https://www.econovill.com/news/articleView.html?idxno=751200",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53040",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444519",
+  "https://news.bizwatch.co.kr/article/industry/2026/09/17/0028"
  ],
  "seen_titles": [
-  "거래대금급감·금리상승에'제동'걸린증권주…목표가줄하향",
-  "코빗→디지털엑스거래소도개명…\"미래에셋브랜드통합\"",
-  "[테크스냅]토스애즈,공익광고인식변화측정…금연캠페인적용",
-  "'AI대전환페스타2026'개막···충북도\"AI로산업대전환중심지...",
   "\"코스피역사적저평가\"...ETF로승부",
   "\"마줄스호출범후가장아름다운경기\"韓농구제대로미쳤다…'항저우...",
   "유가·금리치솟자코스피3%하락,국고채금리연고점경신",
@@ -6001,7 +5997,11 @@
   "[K바이오돈의경로]재무에서투자로…커진유창호입지｜SK바이오팜②",
   "면접갔더니\"경력없네요?\"...인턴마저퇴짜,청년어디로",
   "경실련\"불법행위로과징금11조원내고매출은580조원\"",
-  "美기술주·반도체훈풍에코스피외국인귀환기대"
+  "美기술주·반도체훈풍에코스피외국인귀환기대",
+  "중소형증권사회사채시장잇단노크…IB성장기반다진다",
+  "엘앤에프,SK온과협업…1천600억원규모LFP양극재공급",
+  "뉴욕증시,국채금리급등진정등영향상승⋯엔비디아·테슬라2%대,애...",
+  "[인사이드스토리]삼성·SK추격하는中…'각개전투'로는버거운이유"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,25 @@
   [
    "2026-09-18T06:51:03.987052+09:00",
    "반도체 외국인 귀환 코스피 기대 기술주 훈풍에"
+  ],
+  [
+   "2026-09-18T07:01:16.598269+09:00",
+   "다진다 잇단 기반 노크 시장 성장 회사채 IB 중소형 증권사"
+  ],
+  [
+   "2026-09-18T07:01:16.598269+09:00",
+   "공급 SK온과 LFP 600억원 규모 1천 양극재 엘앤에프 협업"
+  ],
+  [
+   "2026-09-18T07:01:16.598269+09:00",
+   "뉴욕증시 진정 급등 영향 국채금리 상승 엔비디아 테슬라"
+  ],
+  [
+   "2026-09-18T07:01:16.598269+09:00",
+   "버거운 각개전투 이유 추격하는 로는 삼성"
   ]
  ],
- "last_run": "2026-09-18T06:51:09.695754+09:00",
+ "last_run": "2026-09-18T07:01:30.878344+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
