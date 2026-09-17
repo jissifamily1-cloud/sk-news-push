@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8109211",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=228228",
-  "https://www.news1.kr/photos/8109215",
-  "https://www.news1.kr/photos/8109220",
-  "https://www.news1.kr/photos/8109210",
-  "https://www.news1.kr/photos/8109214",
-  "https://www.news1.kr/photos/8109219",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52979",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=228227",
   "https://www.it-b.co.kr/news/articleView.html?idxno=89907",
   "http://www.4th.kr/news/articleView.html?idxno=2118169",
   "http://www.kjdaily.com/article.php?aid=1789529120686977227",
@@ -2999,18 +2990,18 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=319239",
   "https://www.thepublic.kr/news/articleView.html?idxno=319237",
   "https://www.newsis.com/view/NISX20260917_0003793646",
-  "https://dealsite.co.kr/articles/169246"
+  "https://dealsite.co.kr/articles/169246",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600550",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6852686_37012.html",
+  "https://www.g-enews.com/view.php?ud=202609171246352347fda4f5ab74_1",
+  "https://www.thelec.kr/news/articleView.html?idxno=62464",
+  "https://biz.sbs.co.kr/article_hub/20000335427?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000335426?division=NAVER",
+  "https://www.etoday.co.kr/news/view/2627029",
+  "https://slownews.kr/166579",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6852685_37012.html"
  ],
  "seen_titles": [
-  "론자등10대CDMO지목",
-  "미국이금리올리면환율,중국공장멈추면수출…한국경제누가움직...",
-  "“ETF,싸다고좋은게아니다”…삼성운용이짚은투자자실수",
-  "[G-브리핑]‘제우스:오만의신’,‘잿빛비늘의은신처’추가",
-  "스페이스에이아이,학습데이터만바꿔로봇파지성공률61.5%→84.2%",
-  "동탄은계약금배액상환하고도계약깨는데…삼전평택캠퍼스배후'평...",
-  "'현금50%'25표마음돌렸다…SK하이닉스,임단협교섭마무리(종합)",
-  "SK하이닉스임단협3주만에수정안가결",
-  "SK하이닉스노조임단협수정안가결…성과급현금50%확정",
   "아파트2026년9월브랜드평판...힐스테이트,롯데캐슬,자이順",
   "SK하이닉스,성과급현금50%임단협수정안가결",
   "\"이재용회장깜짝참석\"…일본참의원대표단만나",
@@ -6001,7 +5992,16 @@
   "SK쉴더스,임직원과혈액나눔…'희망의REDPACK'진행",
   "\"함께땀흘린협력사에감사\"…SK하이닉스,3만명가족행사",
   "\"SK하이닉스美ADR과괴리율40%…국장신뢰부족,결국메꿔질것\"",
-  "[리포트랩]선박용엔진이AI전력원으로…바뀌는조선주리레이팅공식"
+  "[리포트랩]선박용엔진이AI전력원으로…바뀌는조선주리레이팅공식",
+  "엘앤에프,3분기말LFP양산⋯SK온과1600억원규모계약",
+  "유가·국채금리하락에뉴욕증시반등‥나스닥1.69%↑",
+  "사우디아람코공급차질덮친유럽…폴란드오를렌,6개지역서긴급...",
+  "GDP냐GDR이냐…램리서치-PSK특허소송다음달선고",
+  "[애프터마켓리뷰]스페이스X,우주선시험비행소식에관련주급등",
+  "[비즈나우]편가르는AI속도조절…옅어진충격파",
+  "[증시키워드]배민인수철회한네이버⋯한화시스템UAE대공망호재에...",
+  "김승원과부동산,파병,공소취소,오늘이재명기자회견의고차방정...",
+  "[비즈&플러스]2030'떡지순례'열풍‥편의점업계도가세"
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,37 @@
   [
    "2026-09-18T07:51:03.787248+09:00",
    "AI 전력원으로 조선주 바뀌는 리레이팅 선박용 엔진이"
+  ],
+  [
+   "2026-09-18T07:56:45.008078+09:00",
+   "아람코 긴급 지역서 공급 6개 오를렌 차질 덮친 폴란드 사우디 유럽"
+  ],
+  [
+   "2026-09-18T07:56:45.008078+09:00",
+   "특허소송 PSK 선고 램리서치 GDR이냐 GDP냐 다음달"
+  ],
+  [
+   "2026-09-18T07:56:45.008078+09:00",
+   "스페이스X 비행 소식에 급등 관련주 시험 우주선"
+  ],
+  [
+   "2026-09-18T07:56:45.008078+09:00",
+   "옅어진 충격파 AI 편가르는 속도조절"
+  ],
+  [
+   "2026-09-18T07:56:45.008078+09:00",
+   "UAE 호재에 네이버 대공망 배민 인수 철회한 한화시스템"
+  ],
+  [
+   "2026-09-18T07:56:45.008078+09:00",
+   "김승원과 취소 이재명 부동산 고차 기자회견의 파병 방정 공소"
+  ],
+  [
+   "2026-09-18T07:56:45.008078+09:00",
+   "열풍 업계도 편의점 떡지순례 가세"
   ]
  ],
- "last_run": "2026-09-18T07:51:20.160879+09:00",
+ "last_run": "2026-09-18T07:57:06.609311+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
