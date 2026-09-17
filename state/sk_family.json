@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026090610225203536",
-  "https://www.dailian.co.kr/news/view/1686903/?sc=Naver",
   "https://www.etoday.co.kr/news/view/2622270",
   "https://www.news1.kr/industry/general-industry/6281223",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467131",
@@ -2999,11 +2997,11 @@
   "https://www.e-science.co.kr/news/articleView.html?idxno=135694",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471729",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=86164",
-  "https://www.tokenpost.kr/news/insights/409517"
+  "https://www.tokenpost.kr/news/insights/409517",
+  "https://www.asiatime.co.kr/article/20260917500335",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609170482&t=NNv"
  ],
  "seen_titles": [
-  "SK·울산상의,‘울산포럼2026’개최…제조AX·일상AI논의",
-  "최태원회장이띄운울산포럼,올해는제조AX·생활AI논의",
   "SK·울산상의,‘2026울산포럼’개최…제조업AX·생활AI미래논의",
   "SK-울산상의,지역미래비전논의'2026울산포럼'개최",
   "SK·울산상의,제조업AX해법찾는다···'2026울산포럼'개최",
@@ -6001,7 +5999,9 @@
   "앤필라테스최윤정원장,선수컨디셔닝·시니어운동확장…국회정무...",
   "김해시,알로에농장에서장애학생'마음치유'…치유농업프로그램운...",
   "'마지막퍼즐'K-메모리에쏠린눈…日정·재계,이재용-최태원과연쇄...",
-  "전력확보한AI데이터센터,수익도보장될까?…비트플래닛(Bitplanet),손..."
+  "전력확보한AI데이터센터,수익도보장될까?…비트플래닛(Bitplanet),손...",
+  "일본으로향하는눈길…한일반도체협력확대모색",
+  "인텔에손내민SK하이닉스…묘수일까악수일까"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-09-17T14:30:21.268605+09:00",
    "확보한 비트플래닛 보장될까 전력 AI 수익도 Bitplanet 데이터센터"
+  ],
+  [
+   "2026-09-17T14:40:13.039081+09:00",
+   "악수일까 내민 SK하이닉스 인텔에 묘수일까"
   ]
  ],
- "last_run": "2026-09-17T14:30:34.812087+09:00",
+ "last_run": "2026-09-17T14:40:25.905945+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
