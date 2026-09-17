@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/area/capital/1277050.html",
-  "https://www.joongang.co.kr/article/25460478",
   "https://www.hankookilbo.com/news/article/A2026090915560000098?did=NA",
   "https://www.hankookilbo.com/news/article/A2026090918080000575?did=NA",
   "https://www.nocutnews.co.kr/news/6575810",
@@ -2999,11 +2997,11 @@
   "https://www.etoday.co.kr/news/view/2627003",
   "https://www.yna.co.kr/view/AKR20260918012000011?input=1195m",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724769",
-  "https://www.farminsight.net/news/articleView.html?idxno=16897"
+  "https://www.farminsight.net/news/articleView.html?idxno=16897",
+  "http://www.breaknews.com/1237654",
+  "https://news.jtbc.co.kr/article/NB12318943?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "수원‘마약좀비’결국구속…3번째검사서다시‘양성’영장발부",
-  "버스정류장서등굽힌채비틀…‘수원마약좀비영상’30대구속",
   "법원,공정위현장조사에제동…\"한화에대한자료제출명령효력정지\"",
   "'수원마약좀비'30대두달여만에구속…필로폰소지혐의",
   "경찰,영광군수집무실압수수색…특정업체계약밀어주기의혹",
@@ -6001,10 +5999,12 @@
   "중동전쟁틈타석유화학담합…김유신OCI대표등8명오늘구속갈림...",
   "[전국주요신문사설](18일조간)",
   "JW중외제약,299억원공정위과징금취소소송승소",
-  "[르포]\"증거는없다,뿌리를뽑으라\"…계란산업농단의몸통은?"
+  "[르포]\"증거는없다,뿌리를뽑으라\"…계란산업농단의몸통은?",
+  "국민의힘장동혁·정점식,“개각참극과국정난맥집중포화”",
+  "출범열흘만에첫강제수사…내부서버등자료확보"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-18T08:20:51.746129+09:00",
+ "last_run": "2026-09-18T08:30:59.212725+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
