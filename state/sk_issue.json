@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026090915560000098?did=NA",
-  "https://www.hankookilbo.com/news/article/A2026090918080000575?did=NA",
-  "https://www.nocutnews.co.kr/news/6575810",
   "https://www.swtvnews.com/news/newsview.php?ncode=1065599053389067",
   "https://www.suwonilbo.kr/news/articleView.html?idxno=318106",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034220",
@@ -2999,12 +2996,12 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724769",
   "https://www.farminsight.net/news/articleView.html?idxno=16897",
   "http://www.breaknews.com/1237654",
-  "https://news.jtbc.co.kr/article/NB12318943?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12318943?influxDiv=NAVER",
+  "http://www.nongaek.com/news/articleView.html?idxno=96837",
+  "https://www.etoday.co.kr/news/view/2627000",
+  "https://www.newsis.com/view/NISX20260917_0003794650"
  ],
  "seen_titles": [
-  "법원,공정위현장조사에제동…\"한화에대한자료제출명령효력정지\"",
-  "'수원마약좀비'30대두달여만에구속…필로폰소지혐의",
-  "경찰,영광군수집무실압수수색…특정업체계약밀어주기의혹",
   "공영홈쇼핑,수산물‘원산지갈이’덜미…4~5년전판매돼지목살도...",
   "‘수원마약좀비’구속까지80일걸린대한민국마약수사시스템",
   "'수원마약좀비'30대구속…증거인멸우려",
@@ -6001,10 +5998,13 @@
   "JW중외제약,299억원공정위과징금취소소송승소",
   "[르포]\"증거는없다,뿌리를뽑으라\"…계란산업농단의몸통은?",
   "국민의힘장동혁·정점식,“개각참극과국정난맥집중포화”",
-  "출범열흘만에첫강제수사…내부서버등자료확보"
+  "출범열흘만에첫강제수사…내부서버등자료확보",
+  "[오늘의사설]\"미3년만에금리인상...고금리뉴노멀대비해야\"",
+  "중국인에육군군사기밀빼돌린20대병장,대법서징역4년확정",
+  "SNS일파만파'수원마약좀비'30대男,구속송치"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-18T08:40:51.927383+09:00",
+ "last_run": "2026-09-18T08:50:57.312626+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
