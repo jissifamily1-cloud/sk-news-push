@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1688433/?sc=Naver",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3689970",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318101",
-  "https://www.nbntv.kr/news/articleView.html?idxno=340775",
-  "https://www.hankookilbo.com/news/article/A2026090913200005706?did=NA",
   "https://www.nocutnews.co.kr/news/6575707",
   "https://www.updownnews.co.kr/news/articleView.html?idxno=318700",
   "https://www.news1.kr/local/gwangju-jeonnam/6285331",
@@ -2999,14 +2994,14 @@
   "https://www.sedaily.com/article/20092375",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666417",
   "https://www.newsis.com/view/NISX20260917_0003794645",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1537861"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1537861",
+  "http://www.4th.kr/news/articleView.html?idxno=2118288",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=866368",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260917204509Uqf",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6852597_37004.html",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000013138&cp=nv"
  ],
  "seen_titles": [
-  "과징금·청문회·새벽배송까지…김민석수첩에등장한'쿠팡’",
-  "공영홈쇼핑,'외국산홍어무침·가자미국내산둔갑'판매의혹수사중",
-  "금감원특사경,'선행매매'기자압수수색",
-  "KH그룹\"제넨셀사외이사영입은통상경영…대장동·대북송금엮기멈...",
-  "'182억대출사기'당한기업은행,사기범압수수색영장받고도또대출",
   "'194억'경찰보디캠사업에중국산납품?…경찰강제수사",
   "공영홈쇼핑'국내산'홍어·가자미원산지위반혐의…판매액3억원육...",
   "자녀금품수수의혹…전남경찰,장세일영광군수압수수색(종합)",
@@ -6001,7 +5996,12 @@
   "‘수원마약좀비’영상남성,필로폰투약혐의인정…경찰,송치예...",
   "[주요단신]위성곤“제주해상풍력을국가전력계획반영해달라”외",
   "'수원마약좀비'30대男,해외서필로폰투약인정…내일송치",
-  "선관위특검,선관위압수수색…강제수사돌입"
+  "선관위특검,선관위압수수색…강제수사돌입",
+  "대형유통업체대금지급기한단축…직매입60일→35일",
+  "[공시]공정위,한국제지에490억과징금…법원결정은?",
+  "출범열흘만에첫강제수사…중앙·지역선관위10곳압수수색",
+  "선관위특검,출범열흘만에강제수사돌입",
+  "‘수원마약좀비’30대남성“해외서필로폰투약”자백"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "SKB LGU 손배소송 입찰 패소 KT 1심 담합 공공회선"
   ]
  ],
- "last_run": "2026-09-17T20:40:52.061783+09:00",
+ "last_run": "2026-09-17T20:50:50.395381+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
