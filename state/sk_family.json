@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.usmbc.co.kr/NewsArticle/860710",
-  "http://www.gnmaeil.com/news/articleView.html?idxno=594204",
-  "https://www.donga.com/news/Economy/article/all/20260906/134614962/2",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115417",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655978",
   "https://www.the-today.com/news/articleView.html?idxno=88707",
   "http://www.gndomin.com/news/articleView.html?idxno=486055",
@@ -2999,13 +2995,13 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363737132",
   "https://www.mk.co.kr/article/12145574",
   "https://www.widedaily.com/news/articleView.html?idxno=301231",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307479"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307479",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=84917",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=359207",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=254892",
+  "http://www.metroseoul.co.kr/article/20260917500548"
  ],
  "seen_titles": [
-  "신규입주'4천900가구'‥상승세꺾이나?",
-  "김해부경원예농협,꽃소비촉진꽃꽂이교실운영",
-  "“AI로지역문제해결”11일‘울산포럼’열린다",
-  "'산업수도'울산,AI로다시뛴다…SK·울산상의'AX대전환'",
   "SK·울산상의,11일‘울산포럼2026’개최",
   "[단독]최태원·노소영장기전에애간장타는사람따로있다?",
   "경남대개교80주년맞아제77회후기학위수여식거행",
@@ -6001,25 +5997,13 @@
   "중부일보사랑의헌혈캠패인",
   "AI가신약개발10년단축?진화하는헬스케어대해부",
   "SK하이닉스,잇따른미·일'팹'추진설…글로벌영토확장가속화되나",
-  "반도체넘어한일산업권으로···이재용·최태원,日전략재편"
+  "반도체넘어한일산업권으로···이재용·최태원,日전략재편",
+  "[이슈포인트]'동거인1000억'에공익법인후원금도포함…티앤씨,88%공...",
+  "[최태원·노소영'1000억'공방③]기부금까지개인지출로?…재단자금...",
+  "최태원SK회장,인텔팹빌려'미국HBM거점'만드나",
+  "美메모리생산꺼낸SK하이닉스…韓정부반대가능성에고비용'장벽'"
  ],
  "recent_sigs": [
-  [
-   "2026-09-17T11:10:50.092626+09:00",
-   "없으면 생산 완결형 생태계 현지 미국서 짜나 관세"
-  ],
-  [
-   "2026-09-17T11:10:50.092626+09:00",
-   "집이 이라던 동거인에 앞뒤 맞는"
-  ],
-  [
-   "2026-09-17T11:10:50.092626+09:00",
-   "증여 20억 생활비는 1000억이라더니 주장에 기부금까지"
-  ],
-  [
-   "2026-09-17T11:10:50.092626+09:00",
-   "김희영에 주장 1000억원 공익 뜯어보니 기부금"
-  ],
   [
    "2026-09-17T11:30:20.299401+09:00",
    "LG 핵심은 회장 구광모 미래 경쟁력 속도 AX AI는 핵심"
@@ -6131,9 +6115,25 @@
   [
    "2026-09-17T17:00:28.543287+09:00",
    "팩트 증여설 1000억 공익기금까지 앞에 자가 깨진 끌어온"
+  ],
+  [
+   "2026-09-17T17:20:16.646739+09:00",
+   "포함 티앤씨 공익법인 1000억 동거인 후원금도"
+  ],
+  [
+   "2026-09-17T17:20:16.646739+09:00",
+   "기부금까지 재단 지출로 자금 개인"
+  ],
+  [
+   "2026-09-17T17:20:16.646739+09:00",
+   "빌려 미국 회장 거점 인텔 만드나 HBM"
+  ],
+  [
+   "2026-09-17T17:20:16.646739+09:00",
+   "가능성에 생산 SK하이닉스 장벽 메모리 반대 정부 꺼낸 고비용"
   ]
  ],
- "last_run": "2026-09-17T17:10:25.346660+09:00",
+ "last_run": "2026-09-17T17:20:38.255171+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
