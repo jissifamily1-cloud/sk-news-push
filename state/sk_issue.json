@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260909000780",
-  "https://www.yna.co.kr/view/AKR20260909098051004?input=1195m",
-  "http://www.joseilbo.com/news/news_read.php?uid=575371&class=32",
-  "https://www.news1.kr/local/gwangju-jeonnam/6285241",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43618",
   "http://www.4th.kr/news/articleView.html?idxno=2117725",
   "http://www.00news.co.kr/news/articleView.html?idxno=106461",
@@ -2999,13 +2995,13 @@
   "https://www.edaily.co.kr/News/Read?newsId=05205366645581104&mediaCodeNo=257",
   "https://www.busan.com/view/busan/view.php?code=2026091718065705481",
   "https://www.hani.co.kr/arti/opinion/editorial/1278355.html",
-  "https://www.sedaily.com/article/20092348"
+  "https://www.sedaily.com/article/20092348",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2301948",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2301947",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724742",
+  "https://news.jtbc.co.kr/article/NB12318896?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[단독]입연제넨셀핵심임원\"113억투자,임상승인조건아니었다\"....",
-  "중앙그룹투자자,홍석현등총수일가고소…\"최소325억피해\"(종합)",
-  "중앙그룹채권투자자들,홍석현등총수일가고소...\"최소325억피해\"",
-  "전남경찰,장세일영광군수압수수색…자녀금품수수의혹",
   "'고질병'또도진IBK기업은행내부통제…압수수색영장받고도19억추...",
   "KT납품'경찰보디캠'중국산의혹…치안정보中유출우려",
   "'원산지의혹'공영홈쇼핑,식품검증빨간불",
@@ -6001,7 +5997,11 @@
   "'수원마약좀비'30대男,필로폰투약사실자백했다",
   "'수원좀비영상'마약혐의남성\"해외서필로폰투약\"자백",
   "[사설]“사법권독립”외친대법원장,책임부터다하라",
-  "‘가습기살균제’소송비343억두고첫공방…애경·SK비용범위서입..."
+  "‘가습기살균제’소송비343억두고첫공방…애경·SK비용범위서입...",
+  "[사이언스픽]\"생명과학연구의근본은독성학입니다.\"",
+  "[사이언스픽]무엇이얼마나위험한지연구한다",
+  "대규모유통업법개정…대금지급기한단축",
+  "[뉴스룸오프닝]여당주도'보고서'채택/'12개의혹'들여다본다/..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "SKB LGU 손배소송 입찰 패소 KT 1심 담합 공공회선"
   ]
  ],
- "last_run": "2026-09-17T18:50:56.951493+09:00",
+ "last_run": "2026-09-17T19:01:07.604365+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
