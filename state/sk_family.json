@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202609061228566250112616b072_1",
-  "https://www.viva100.com/article/20260906500350",
-  "https://www.mk.co.kr/article/12145271",
-  "https://www.nocutnews.co.kr/news/6573670",
   "https://www.newsway.co.kr/news/view?ud=2026090613164230176",
   "http://www.metroseoul.co.kr/article/20260906500126",
   "https://www.newsis.com/view/NISX20260906_0003778015",
@@ -2999,13 +2995,13 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=319162",
   "https://www.newsis.com/view/NISX20260917_0003793826",
   "https://www.goodmorningcc.com/news/articleView.html?idxno=452574",
-  "http://www.joseilbo.com/news/news_read.php?uid=575907&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=575907&class=32",
+  "https://www.newspim.com/news/view/20260917001029",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=359203",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3698638",
+  "https://www.kwnews.co.kr/article/20260917500823"
  ],
  "seen_titles": [
-  "SK·울산상의,'울산포럼2026'개최…제조AX·일상AI해법모색",
-  "SK·울산상의,제조업AX해법찾는다…울산포럼11일개최",
-  "SK,11일울산포럼…제조현장에AI심는다",
-  "SK,AI에서지역혁신해법찾는다…울산포럼11일개최",
   "SK울산포럼11일개최…제조AX·생활속AI논의",
   "SK·울산상의,제조AX·생활AI로울산혁신이끈다",
   "용인시,'백옥쌀'이용한제1회제과·제빵대회개최",
@@ -6001,7 +5997,11 @@
   "최태원차녀최민정,美AI헬스케어사업확장…뉴욕넘어3개주로",
   "\"미확정\"이라는데美·日서잇단팹추진설…SK하이닉스글로벌확장거...",
   "한국수출입은행,충북에3년간5조원푼다",
-  "국힘'이재용·최태원'국감증인신청할까...민주\"망신주기식안돼\""
+  "국힘'이재용·최태원'국감증인신청할까...민주\"망신주기식안돼\"",
+  "충북도·수출입은행,3년간5조금융지원…반도체·바이오기업키운다",
+  "[최태원·노소영'1000억'공방①]다시쟁점된산정내역…노소영·자녀...",
+  "충북도,수출입은행과5조원규모지원협약…전략산업육성",
+  "[동정]강원특별자치도의회"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-09-17T15:47:13.970259+09:00",
    "신청할까 민주 망신주기식 국감증인 이재용 안돼 국힘"
+  ],
+  [
+   "2026-09-17T16:00:28.497130+09:00",
+   "자녀 다시 내역 쟁점된 산정"
   ]
  ],
- "last_run": "2026-09-17T15:50:26.309056+09:00",
+ "last_run": "2026-09-17T16:00:44.241414+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
