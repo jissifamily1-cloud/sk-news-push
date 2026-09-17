@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1536915",
-  "https://www.kado.net/news/articleView.html?idxno=2071587",
-  "https://www.ytn.co.kr/_ln/0101_202609091638580391",
   "http://www.finomy.com/news/articleView.html?idxno=261182",
   "https://zdnet.co.kr/view/?no=20260909162706",
   "https://www.dailian.co.kr/news/view/1688433/?sc=Naver",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12155800",
   "https://www.newsis.com/view/NISI20260917_0021442160",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666351",
-  "https://www.ytn.co.kr/_ln/0103_202609171923298289"
+  "https://www.ytn.co.kr/_ln/0103_202609171923298289",
+  "https://news.jtbc.co.kr/article/NB12318882?influxDiv=NAVER",
+  "https://www.sedaily.com/article/20092375",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666417"
  ],
  "seen_titles": [
-  "190억대보디캠사업,중국산의혹수사",
-  "'수의계약특혜의혹'경찰강제수사…기초의회·공직사회파장",
-  "김민석\"한동훈,불량쪽가위\"VS한동훈\"뇌피셜거짓말\"[정치ON]",
   "공정위,아성다이소부당반품의혹추가현장조사",
   "직매입정산기한60일→35일'대규모유통업법',국회법사위통과",
   "과징금·청문회·새벽배송까지…김민석수첩에등장한'쿠팡’",
@@ -6001,7 +5998,10 @@
   "‘수원마약좀비’30대남성,결국인정했다...“해외서필로폰투약...",
   "대구시선관위압수수색마친선관위특검",
   "“투표왜멈췄나”…선관위특검첫강제수사",
-  "'장모살해·시신유기'조재복에검찰'무기징역'구형[이슈플러스]"
+  "'장모살해·시신유기'조재복에검찰'무기징역'구형[이슈플러스]",
+  "겉모습만감쪽같네'중국산가짜화장품'…성분은'맹탕'",
+  "‘수원마약좀비’영상남성,필로폰투약혐의인정…경찰,송치예...",
+  "[주요단신]위성곤“제주해상풍력을국가전력계획반영해달라”외"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "SKB LGU 손배소송 입찰 패소 KT 1심 담합 공공회선"
   ]
  ],
- "last_run": "2026-09-17T20:10:53.383983+09:00",
+ "last_run": "2026-09-17T20:20:52.967058+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
