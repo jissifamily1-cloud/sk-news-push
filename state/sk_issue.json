@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/economy/trend/6284448",
-  "https://view.asiae.co.kr/article/2026090908482013757",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=365080",
-  "https://www.news1.kr/industry/distribution/6284330",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433369",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000010434&cp=nv",
-  "https://www.news1.kr/local/daejeon-chungnam/6284642",
-  "https://www.news1.kr/local/gyeonggi/6284598",
-  "https://www.hankookilbo.com/news/article/A2026090909310002903?did=NA",
-  "https://www.dailian.co.kr/news/view/1688115/?sc=Naver",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609090332&t=NN",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260909010003345",
   "https://www.kado.net/news/articleView.html?idxno=2071507",
@@ -2999,19 +2989,19 @@
   "http://tbs.seoul.kr/news/newsView.do?typ_800=9&idx_800=3538294&seq_800=20531188",
   "https://www.newdaily.co.kr/site/data/html/2026/09/17/2026091700097.html",
   "https://www.joongboo.com/news/articleView.html?idxno=363737043",
-  "https://www.mt.co.kr/society/2026/09/17/2026091709534413432"
+  "https://www.mt.co.kr/society/2026/09/17/2026091709534413432",
+  "https://www.gokorea.kr/news/articleView.html?idxno=878749",
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19963",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=226479",
+  "https://www.news1.kr/local/busan-gyeongnam/6293583",
+  "https://www.segye.com/newsView/20260917506408?OutUrl=naver",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1537752",
+  "https://www.wikitree.co.kr/articles/1160142",
+  "http://www.iminju.net/news/articleView.html?idxno=169645",
+  "https://biz.heraldcorp.com/article/10876685",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665860"
  ],
  "seen_titles": [
-  "AI인재대거영입도기업결합신고대상…공정위,'애크하이어'기준마...",
-  "‘인재통째빼가기’결합심사회피막는다…공정위,'기업결합의신고...",
-  "대산1호출범…석유화학구조조정,'얼마나줄이느냐'넘어'성과검증...",
-  "부작용우려에'신중론'나왔는데…규제고삐죄는국회,배달앱업계'...",
-  "'나사빠진'기업은행…영장받고도사고몰랐다,보고뒤엔19억또대...",
-  "경찰보디캠이중국산?…KT컨소시엄수사",
-  "48시간쇠사슬결박…천안11세손자죽게한외조모구속기소(종합)",
-  "195억규모'경찰보디캠'사업에중국산납품의혹",
-  "[속보]48시간쇠사슬로침대에묶어...'천안11세학대사망'외할머니...",
-  "영장받고도몰랐다…기업은행,대출사고인지후19억추가실행",
   "쇠사슬로묶인채3일…교회서숨진11세아동외조모기소",
   "금감원,현직인터넷매체기자선행매매혐의로압수수색",
   "천안교회서11세아동숨지게한외할머니구속기소…\"쇠사슬결박\"",
@@ -6001,7 +5991,17 @@
   "선관위특검,중앙선관위·지방선관위9곳압수수색…강제수사착수",
   "나경원\"삼전닉스레버리지ETF조기도입,김용범이강압…李가직접...",
   "선관위특검,중앙·김포·의정부선관위등압수수색나서",
-  "선관위특검,중앙선관위등9곳압수수색…첫강제수사착수"
+  "선관위특검,중앙선관위등9곳압수수색…첫강제수사착수",
+  "공감신문,이종욱·김은혜의원·한국시장경제교수협회,'한국경제도약...",
+  "김형연\"검찰출신,악의없어도'검찰세계관'못벗어나\"",
+  "선관위특검,중앙·지방선관위9곳압수수색",
+  "\"자료빼돌려입찰\"…아라온호위탁관리두고전·현업체공방",
+  "선관위특검,수사개시10일만에첫압수수색…중앙·지방선관위등9곳",
+  "선관위특검팀,출범10일만에첫압수수색",
+  "김지용중수청장후보자저격한임은정이올린글(전문)",
+  "선관위특검,출범10일만첫강제수사…중앙선관위등9곳압수수색",
+  "선관위특검,출범10일만에첫강제수사…중앙선관위·지역선관위9곳...",
+  "특검,출범10일만에선관위압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "자리 위태 중소업체 시장 렌터카 빅플레이어 전쟁에"
   ]
  ],
- "last_run": "2026-09-17T10:20:52.317209+09:00",
+ "last_run": "2026-09-17T10:31:03.621722+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
