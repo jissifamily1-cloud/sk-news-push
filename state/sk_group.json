@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/securities/2026/09/17/20260917500027?wlog_tag3=naver",
-  "https://www.yna.co.kr/view/AKR20260917054200008?input=1195m",
-  "https://biz.chosun.com/stock/stock_general/2026/09/17/2IYVTI4LLZA7XCGFLS33UNPY5A/",
-  "http://www.press9.kr/news/articleView.html?idxno=82902",
-  "https://www.g-enews.com/view.php?ud=202609170928308562fbbec65dfb_1",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000066357",
   "https://biz.heraldcorp.com/article/10876509",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2440273",
@@ -2999,14 +2994,14 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092170466",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=79244",
   "https://www.mediapen.com/news/view/1124721",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6643"
+  "https://www.moneystorm.kr/news/articleView.html?idxno=6643",
+  "https://www.mediapen.com/news/view/1124723",
+  "https://www.news2day.co.kr/article/20260918500220",
+  "https://www.sedaily.com/article/20092762",
+  "https://www.ytn.co.kr/_ln/0108_202609190630487151",
+  "https://www.news1.kr/industry/general-industry/6295595"
  ],
  "seen_titles": [
-  "코스피,美금리인상에도6720선강보합출발",
-  "SK하이닉스,협력사8000명·가족3만명초청…서울랜드서감사행사",
-  "SKT,'채팅+PC버전'고객이벤트진행",
-  "'Btv에이닷'MAU170만명…AI대화55%콘텐츠선택으로",
-  "SKB'Btv에이닷'이용고객55%,AI추천콘텐츠실제시청",
   "[서울데이터랩]코스피,장초반6755.46상승…반도체강세속연준경계...",
   "코스피,美매파적금리인상에도강보합…상승폭은제한(종합)",
   "[특징주]조선株,증권가긍정전망에일제히강세",
@@ -6001,7 +5996,12 @@
   "아이폰18프로지원금최대45만원...통신3사혜택어디가클까",
   "학술마케팅지킨JW리베이트판결…기등재약재평가기준공개",
   "[美증시]트리플위칭데이딛고연착륙,나스닥상승다우조정…AI테마...",
-  "[뉴욕증시마감시황]美10년물5%·유가100달러에도AI질주…나스닥..."
+  "[뉴욕증시마감시황]美10년물5%·유가100달러에도AI질주…나스닥...",
+  "[美증시특징주]샌디스크11%폭등…립부탄훈풍에S&P100편입기대감...",
+  "대형계약에도냉정한시장반응...K바이오,규모아닌확실성시험대",
+  "중동발‘에너지대란’에불붙은쟁탈전…韓기업가스전선점빛났다...",
+  "누리호에탄15개작은손님들...우주에서할일은?",
+  "\"끓여서쓸까,넉넉하게쓸까\"…환절기필수템'가습기·공기청정기'[강..."
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,29 @@
   [
    "2026-09-19T06:31:08.909786+09:00",
    "질주 AI 100달러에도 나스닥 유가 10년물"
+  ],
+  [
+   "2026-09-19T06:51:36.212045+09:00",
+   "편입 P100 립부 샌디스크 폭등 기대감 훈풍에"
+  ],
+  [
+   "2026-09-19T06:51:36.212045+09:00",
+   "대형 규모 반응 확실성 시장 시험대 계약에도 아닌 냉정한 K바이오"
+  ],
+  [
+   "2026-09-19T06:51:36.212045+09:00",
+   "빛났다 쟁탈전 불붙은 가스전 에너지 선점 기업 대란 중동발"
+  ],
+  [
+   "2026-09-19T06:51:36.212045+09:00",
+   "15개 누리호에 손님들 일은 우주에서 작은"
+  ],
+  [
+   "2026-09-19T06:51:36.212045+09:00",
+   "필수템 공기청정기 넉넉하게 가습기 환절기 쓸까 끓여서"
   ]
  ],
- "last_run": "2026-09-19T06:41:09.334211+09:00",
+ "last_run": "2026-09-19T06:51:53.090161+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
