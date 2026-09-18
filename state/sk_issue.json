@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=274928",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723721",
-  "https://biz.sbs.co.kr/article_hub/20000333890?division=NAVER",
   "https://www.hankookilbo.com/news/article/A2026091011010004456?did=NA",
   "http://www.yonhapnewstv.co.kr/news/AKR20260910094543G0k",
   "https://www.fnnews.com/news/202609101009059634",
@@ -2999,12 +2996,12 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245836",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5220225",
   "https://www.wikitree.co.kr/articles/1160582",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1538010"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1538010",
+  "https://www.ytn.co.kr/_ln/0103_202609182040014009",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667460",
+  "https://jejumbc.com/NewsArticle/863303"
  ],
  "seen_titles": [
-  "대규모유통업법정산기한단축,국내유통생태계'대전환'예고",
-  "대한항공,공정위조사중자료삭제…심사관\"법인·직원고발\"",
-  "\"비행편줄이겠다\"대한항공요청퇴짜…조사방해는고발수순",
   "공정위,조사관련파일삭제한대한항공'조사방해'혐의로고발",
   "공정위,항공사시정명령완화요청·대한항공조사방해심의착수",
   "공정위,대한항공공급좌석완화요청기각…자료삭제엔고발",
@@ -6001,10 +5998,13 @@
   "'15조석화담합혐의'OCI·PKC등경영진8명구속심사",
   "중동위기틈타15조원담합혐의…석유화학경영진8명구속기로",
   "가습기켜기전에침실온도부터18~20도로낮춰보세요,뒤척임이줄어...",
-  "15조'석화가격담합'경영진8명구속기로"
+  "15조'석화가격담합'경영진8명구속기로",
+  "[메디컬인사이트154회]비슷하지만다른질환'부비동염과비염'",
+  "법원,공정위‘계란값담합’제재효력정지…산지가격고시조건부...",
+  "'실종사건허위종결'부경장구속기소"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-18T20:50:50.820878+09:00",
+ "last_run": "2026-09-18T21:01:08.738854+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
