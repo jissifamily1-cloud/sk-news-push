@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fntimes.com/html/view.php?ud=202609170712223734141825007d_18",
-  "https://www.gokorea.kr/news/articleView.html?idxno=878722",
-  "https://www.smartbizn.com/news/articleView.html?idxno=154097",
-  "https://www.newstnt.com/news/articleView.html?idxno=718656",
-  "https://www.ekn.kr/web/view.php?key=20260917023105675",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757229&plink=ORI&cooper=NAVER",
-  "https://www.lecturernews.com/news/articleView.html?idxno=210710",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000066309",
-  "https://biz.sbs.co.kr/article_hub/20000335137?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000335138?division=NAVER",
   "https://www.g-enews.com/view.php?ud=202609161200582383fda4f5ab74_1",
   "https://www.etoday.co.kr/news/view/2626502",
@@ -2999,18 +2990,18 @@
   "https://www.autodaily.co.kr/news/articleView.html?idxno=600576",
   "https://www.kukinews.com/article/view/kuk202609180186",
   "https://futurechosun.com/?p=160749",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277339"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277339",
+  "https://www.ytn.co.kr/_ln/0102_202609181837126932",
+  "https://www.nocutnews.co.kr/news/6580721",
+  "https://biz.sbs.co.kr/article_hub/20000335651?division=NAVER",
+  "https://www.aflnews.co.kr/news/articleView.html?idxno=328557",
+  "https://biz.sbs.co.kr/article_hub/20000335632?division=NAVER",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106692",
+  "https://www.ytn.co.kr/_ln/0102_202609181829057616",
+  "http://www.econotelling.com/news/articleView.html?idxno=21335",
+  "https://www.nocutnews.co.kr/news/6580723"
  ],
  "seen_titles": [
-  "금리올리고추가인상까지…뉴욕증시,사흘째하락",
-  "국제유가100달러돌파,중동분쟁에국내정유업계비상",
-  "삼성·SK하이닉스독주계속된다...빅테크\"HBM대체기술은보완재일뿐...",
-  "미국기준금리인상,값싼돈의시대가끝나가고있다:9월17일.",
-  "[부고]윤영두SK이노베이션부사장부친상",
-  "[KFT모닝브리프]2026.09.17—오늘꼭알아야할국내외경제뉴스",
-  "사우디송유관폐쇄로국제유가급등,국내정유업계의대책은?",
-  "삼성전자,25만원넘었지만···증권가목표가는27만~60만원'극과극...",
-  "SK바이오텍,세종취약계층지원에2480만원기탁",
   "렌터카시장‘빅플레이어’전쟁에…중소업체설자리“위태”",
   "[뉴욕증시]워시의장의'매파적'발언…얼어붙은시장",
   "[미국뉴욕증시]연준기준금리인상·워시매파발언에다우존스·S&P50...",
@@ -6001,7 +5992,16 @@
   "창신메모리,낸드시장진출추진…국내업계긴장감커진다",
   "“HBM독주한동안지속되지만”…삼전·닉스,차세대메모리기술개발...",
   "1인당GDP13위인데경제체감은27위…이유는?",
-  "[ClosingMarket]KOSPIClimbs2.66%AsSemiconductorHeavyweightsSu"
+  "[ClosingMarket]KOSPIClimbs2.66%AsSemiconductorHeavyweightsSu",
+  "외국인·기관동반순매수에코스피강세마감",
+  "SK하닉자회사솔리다임,美현지에낸드공장구축검토",
+  "미국발반도체훈풍에코스피6800선탈환",
+  "\"SK하이닉스용인반도체오폐수,고삼저수지직방류계획철회하라\"",
+  "[증시인사이트]BOJ금리인상…코스피외국인자금이탈심해질까",
+  "['클릭'증시]AI수요폭증에빅테크증설경쟁",
+  "[기업]통신3사,추석앞두고협력사납품대금조기지급",
+  "반도체주오랜만에'중거리포'",
+  "롯데,창업주고향울산과'동행'…투자·사회공헌·신사업확대"
  ],
  "recent_sigs": [
   [
@@ -6891,9 +6891,17 @@
   [
    "2026-09-18T18:31:12.247668+09:00",
    "Heavyweights Semiconductor Climbs KOSPI As Surge"
+  ],
+  [
+   "2026-09-18T18:41:03.066535+09:00",
+   "오랜만에 중거리포 반도체주"
+  ],
+  [
+   "2026-09-18T18:41:03.066535+09:00",
+   "고향 사회공헌 신사업 동행 창업주 투자 롯데 울산과 확대"
   ]
  ],
- "last_run": "2026-09-18T18:31:20.797730+09:00",
+ "last_run": "2026-09-18T18:41:11.571064+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
