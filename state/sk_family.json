@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202609081052098144",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80976",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446637",
-  "https://www.livebiz.today/news/articleView.html?idxno=204710",
-  "https://www.ekn.kr/web/view.php?key=20260908024031900",
-  "https://www.maniareport.com/view.php?ud=2026090810111098026cf2d78c68_19",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/08/2026090800121.html",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/517550",
-  "https://www.etoday.co.kr/news/view/2623029",
-  "http://www.ddanzi.com/893781366",
   "https://www.businesspost.co.kr/BP?command=article_view&num=446649",
   "https://www.yna.co.kr/view/AKR20260908028300005?input=1195m",
   "https://www.news1.kr/society/education/6283008",
@@ -2999,19 +2989,19 @@
   "https://www.insight.co.kr/news/574141",
   "http://www.inews24.com/view/2006931",
   "https://www.veritas-a.com/news/articleView.html?idxno=626675",
-  "https://www.edaily.co.kr/News/Read?newsId=03027446645581432&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03027446645581432&mediaCodeNo=257",
+  "https://www.mydaily.co.kr/page/view/2026091809211673021",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3688089",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81241",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=62662",
+  "https://www.newsway.co.kr/news/view?ud=2026091810463372275",
+  "https://www.yna.co.kr/view/AKR20260918073900004?input=1195m",
+  "http://www.globalepic.co.kr/view.php?ud=2026091811151297848439a4874_29",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170443",
+  "https://www.nocutnews.co.kr/news/6580349",
+  "https://www.cwn.kr/news/articleView.html?idxno=56781"
  ],
  "seen_titles": [
-  "최태원\"한일뭉치면세계4위경제권\"...경제공동체또강조",
-  "최태원,'한일경제공동체'또강조…\"비용절감·발언권확보\"",
-  "최태원\"한일협력하면세계4위경제권\",에너지·AI·반도체연대강조",
-  "韓日경제공동체역설한최태원\"하나로뭉쳐비용절감해야...에너지공...",
-  "최태원“韓日에너지공동구매하고,송전망도연결해야”",
-  "711경기연속출장...LG박해민의꾸준함,결승선앞둔개근선수들",
-  "최태원\"한일뭉치면세계4위경제권\"…한일경제공동체재차강조",
-  "'위대한수업6'김유열EBS사장\"시즌6,'K지식'새길목\"",
-  "최태원,한일경제공동체재차제안⋯“뭉치면6조달러·세계4위경제권...",
-  "[뉴공아카이브]박시동경제평론가·12시에만나요진행자,이광수광수...",
   "[부음]이필호모친,성연진부친,김봉연모친외",
   "시즌6로돌아온EBS'위대한수업'…최태원SK회장도강단선다",
   "슈뢰더·옐런에노벨상수상자까지…'위대한수업'시즌6온다",
@@ -6001,7 +5991,17 @@
   "\"반도체가미래다\"...SK부회장3명,하이닉스로전격이동",
   "[사이드B]이재용·최태원행보에또'日'…왜일본이눈에들어올까",
   "건국대의과대학개교40주년..'미래의학개척하고세계로도약'",
-  "8.5억인지대낸최태원…2440억재산분할대법판단구한다"
+  "8.5억인지대낸최태원…2440억재산분할대법판단구한다",
+  "삼성테일러·하이닉스인디애나총력전…美본토에AI반도체전진기지...",
+  "건국대의대,40주년기념식개최…동문회2억5000만원기탁·중장기계...",
+  "서진우·유정준·이형희SK핵심부회장3명,하이닉스에전격합류",
+  "SK하이닉스,'대관·외교'부회장3인전면배치…글로벌대응력높인다",
+  "SK핵심부회장3명이동…'하이닉스'중심그룹재편속도",
+  "대법,최태원-노소영재산분할재상고접수…인지대8억원납부",
+  "[EpicWhy]최태원,부회장3명SK하이닉스로보낸까닭은",
+  "SK부회장3명하이닉스로…반도체에힘싣는다",
+  "SK부회장3인방,하이닉스합류…그룹중심에'반도체'",
+  "SK하이닉스,'서진우·유정준·이형희부회장영입'...글로벌시장전략..."
  ],
  "recent_sigs": [
   [
@@ -6053,7 +6053,7 @@
    "눈에 일본이 들어올까 이재용 행보에"
   ]
  ],
- "last_run": "2026-09-18T11:10:24.639306+09:00",
+ "last_run": "2026-09-18T11:20:26.180030+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
