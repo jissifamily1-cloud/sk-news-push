@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/society/2026/09/09/20260909500013?wlog_tag3=naver",
-  "https://www.fnnews.com/news/202609090730493179",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/09/2026090990037.html",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609081753452250190",
   "https://www.starnewskorea.com/broadcast-show/2026/09/09/2026090908084129890",
@@ -2999,11 +2997,11 @@
   "https://news.hidoc.co.kr/news/articleView.html?idxno=67216",
   "https://www.asiatime.co.kr/article/20260918500071",
   "https://www.yna.co.kr/view/AKR20260918147100003?input=1195m",
-  "https://www.asiatime.co.kr/article/20260918500287"
+  "https://www.asiatime.co.kr/article/20260918500287",
+  "https://www.yna.co.kr/view/AKR20260916166100008?input=1195m",
+  "https://www.dailian.co.kr/news/view/1692072/?sc=Naver"
  ],
  "seen_titles": [
-  "‘재산8조’권혁빈이혼오늘결론…9440억분할기록깨질까[이슈픽...",
-  "최태원·노소영넘어설까…'8조자산'권혁빈이혼소송1심오늘선고",
   "[키워드NOW]'8조'이혼소송",
   "[부산브리핑모음(9월9일)]부산도시공사아르피나·한국청소년지도사...",
   "스윙스\"선급금120억+추가30억..터널끝이보인다\"무슨일?[라스]",
@@ -6001,7 +5999,9 @@
   "무한도전때'공황장애'겪었다는하하…정신과전문의\"무대공포증일...",
   "[힘내라K산업]②최태원,SK하이닉스전열재정비…'부회장단투입·풀스...",
   "D램은중국에,HBM은미국에…협공당하는K-메모리",
-  "[힘내라K산업]①AI인프라부터제조혁신까지…최태원의'AI청사진'울..."
+  "[힘내라K산업]①AI인프라부터제조혁신까지…최태원의'AI청사진'울...",
+  "[마켓人]'재벌회장에쓴소리'이남우기업거버넌스포럼회장",
+  "日의원단만난이재용·8시간토론구광모·트리플코어장인화[재계in..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,17 @@
   [
    "2026-09-19T06:20:18.199998+09:00",
    "청사진 AI 인프라부터 최태원의 제조혁신까지"
+  ],
+  [
+   "2026-09-19T07:10:12.742122+09:00",
+   "기업거버넌스포럼 쓴소리 회장 재벌 회장에 이남우"
+  ],
+  [
+   "2026-09-19T07:10:12.742122+09:00",
+   "장인화 8시간 의원단 트리플코어 이재용 구광모 만난 재계in 토론"
   ]
  ],
- "last_run": "2026-09-19T07:00:37.221706+09:00",
+ "last_run": "2026-09-19T07:10:30.524497+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
