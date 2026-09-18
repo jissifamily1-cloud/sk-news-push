@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.weeklytoday.com/news/articleView.html?idxno=794837",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=136434",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=794836",
-  "https://www.newdaily.co.kr/site/data/html/2026/09/17/2026091700097.html",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7184609",
-  "https://www.ppss.kr/news/articleView.html?idxno=311193",
-  "https://theviewers.co.kr/View.aspx?No=4230862",
-  "http://www.inews24.com/view/2006576",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=664736",
   "https://www.yna.co.kr/view/AKR20260917068700008?input=1195m",
   "https://www.dailian.co.kr/news/view/1691527/?sc=Naver",
@@ -2999,17 +2991,17 @@
   "https://biz.sbs.co.kr/article_hub/20000335323?division=NAVER",
   "https://www.newsis.com/view/NISX20260918_0003794854",
   "https://www.sidae.com/article/2026091714102976779",
-  "https://www.mt.co.kr/stock/2026/09/19/2026091816351285150"
+  "https://www.mt.co.kr/stock/2026/09/19/2026091816351285150",
+  "https://sports.donga.com/region/article/all/20260919/134700178/1",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16199308",
+  "https://www.the-today.com/news/articleView.html?idxno=90404",
+  "https://www.edaily.co.kr/News/Read?newsId=01804006645581760&mediaCodeNo=257",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435741",
+  "https://www.econovill.com/news/articleView.html?idxno=751329",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435740",
+  "https://www.seoulfn.com/news/articleView.html?idxno=638250"
  ],
  "seen_titles": [
-  "[기자수첩]파업리스크확산속'종이호랑이'된행정지침",
-  "반도체후공정에뭉칫돈…TSMC·인텔첨단패키징투자↑",
-  "하나카드,대한방사선사협회제휴카드출시",
-  "[특징주]조선株,\"조선업종과도하게하락\"..일제히'강세'",
-  "11번가,27일까지‘E쿠폰핫딜’프로모션…인기명절선물할인",
-  "[위클리오늘]25표차부결뒤뒤집혔다…SK하이닉스임단협,PS현금50...",
-  "SK쉴더스,전구성원참여헌혈캠페인'희망의REDPACK'진행",
-  "[위클리오늘]코스피6700선상승출발···환율1370원대",
   "나경원\"삼전닉스레버리지ETF조기도입,김용범이강압…李가직접...",
   "美연준3년여만에금리인상…韓\"조정기회vs시장냉각\"",
   "연준3년여만의금리인상에도코스피이틀째상승…외국인은7일째'팔...",
@@ -6001,7 +5993,15 @@
   "SK하닉성과급갈등일단락…삼성노조는'두쪽'수순[많이본경제기...",
   "\"우린,늦출여유없다\"…美속도조절론속'韓AI'반격카드[AI감속론...",
   "OTT홍수시대,SKB'Btv+max'하나면끝",
-  "AI속도조절론vs젠슨황…반도체주다시달릴까?"
+  "AI속도조절론vs젠슨황…반도체주다시달릴까?",
+  "용인특례시,기업상생·산업혁신정책역량인정받았다",
+  "미국증시,10년물5%재접근에도반도체강세…나스닥0.4%상승",
+  "이남우기업거버넌스회장,솔리다임美상장설…SK하이닉스주주보호...",
+  "SK바이오팜세노바메이트‘공급규모확대’어디까지…美처방확대...",
+  "\"AI인프라병목,GPU에서'메모리'로이동…내년공급부족심화\"",
+  "SK하이닉스솔리다임,美첫낸드생산거점검토...빅테크수요대응",
+  "美국채5%인데'삼전닉스'왜버티나…50년전'니프티피프티'교훈",
+  "[창간24/한국의AI③]챗GPT이후'AIG3'로···韓,AI국가경쟁에..."
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,29 @@
   [
    "2026-09-19T08:21:06.348833+09:00",
    "AI 조절론 반도체주 vs 다시 젠슨 속도 달릴까"
+  ],
+  [
+   "2026-09-19T08:31:08.679806+09:00",
+   "공급 세노바메이트 규모 처방 SK바이오팜 확대 어디까지"
+  ],
+  [
+   "2026-09-19T08:31:08.679806+09:00",
+   "인프라 AI 공급부족 이동 병목 메모리 심화 GPU에서 내년"
+  ],
+  [
+   "2026-09-19T08:31:08.679806+09:00",
+   "낸드 대응 수요 검토 생산거점 솔리다임 SK하이닉스 빅테크"
+  ],
+  [
+   "2026-09-19T08:31:08.679806+09:00",
+   "국채 버티나 인데 삼전닉스 니프티 피프티 교훈 50년전"
+  ],
+  [
+   "2026-09-19T08:31:08.679806+09:00",
+   "경쟁에 AI G3 국가 이후 챗GPT"
   ]
  ],
- "last_run": "2026-09-19T08:21:27.731309+09:00",
+ "last_run": "2026-09-19T08:31:25.119331+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
