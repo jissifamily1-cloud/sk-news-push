@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202608212233593974",
-  "https://www.ytn.co.kr/_ln/0103_202608212151014478",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190262.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643061",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716253&plink=ORI&cooper=NAVER",
   "https://www.kbmaeil.com/article/20260821500206",
@@ -2999,12 +2996,12 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724907",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95655",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294880",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81256"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81256",
+  "https://www.econovill.com/news/articleView.html?idxno=751298",
+  "https://www.busan.com/view/busan/view.php?code=2026091816300192201",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1537968"
  ],
  "seen_titles": [
-  "'세기의이혼'이소환한'노태우비자금'...904억메모진실밝혀지나",
-  "'노태우비자금의혹'첫강제수사...김옥숙자택도포함",
-  "檢,'노태우비자금의혹'압수수색…'세기의이혼'여파",
   "[단독]‘노태우비자금’압수수색…장남재단‘세탁통로’의심",
   "부메랑된'300억'메모…이혼이소환한'비자금'",
   "‘300억비자금’30년미스터리,검찰수사로풀리나",
@@ -6001,7 +5998,10 @@
   "SK부회장3명,SK하이닉스로전격이동…배경은",
   "최태원-노소영재산분할재상고…불복금액9440억→2440억축소",
   "최태원SK회장,노소영관장재산분할사건대법원접수",
-  "SK하이닉스낸드생산지도美로확장…솔리다임동부공장검토"
+  "SK하이닉스낸드생산지도美로확장…솔리다임동부공장검토",
+  "[인사]부산시",
+  "[인사]부산시1~5급23일자발령",
+  "대법,최태원-노소영재산분할재상고접수"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-09-18T16:20:14.772323+09:00",
    "배경은 3명 부회장 이동 전격 SK하이닉스로"
+  ],
+  [
+   "2026-09-18T16:50:16.579186+09:00",
+   "재상고 재산분할 대법 접수"
   ]
  ],
- "last_run": "2026-09-18T16:40:23.827642+09:00",
+ "last_run": "2026-09-18T16:50:28.380815+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
