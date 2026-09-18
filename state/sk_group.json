@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=202609170945379831be44c0aacd_30",
-  "https://www.busan.com/view/busan/view.php?code=2026091709474590020",
   "https://www.namdonews.com/news/articleView.html?idxno=923711",
   "http://www.issuenbiz.com/news/articleView.html?idxno=79859",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170340",
@@ -2999,11 +2997,11 @@
   "https://view.asiae.co.kr/article/2026091814061867915",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423812",
   "https://www.dailian.co.kr/news/view/1692072/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20260916166100008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260916166100008?input=1195m",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=608070",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488638"
  ],
  "seen_titles": [
-  "코스피·코스닥오전동반상승세",
-  "\"조선주낙폭과대…데이터센터주목\"한화엔진6%강세[핫종목]",
   "코스피,美금리인상에도상승…외인7거래일째순매도",
   "미국금리·국채금리동반상승...한국증시·대출금리·내수부담키우...",
   "SK하이닉스,협력사임직원·가족3만명에서울랜드쏜다…'땡스풀데...",
@@ -6001,7 +5999,9 @@
   "“언제나갈지몰라안들어온다”…은마이주소식에전세2억뚝↓",
   "[바이오브리핑]SK바이오팜,파킨슨병DMT후보도입",
   "日의원단만난이재용·8시간토론구광모·트리플코어장인화[재계in...",
-  "[마켓人]'재벌회장에쓴소리'이남우기업거버넌스포럼회장"
+  "[마켓人]'재벌회장에쓴소리'이남우기업거버넌스포럼회장",
+  "아이폰18프로·프로맥스공식개통…공시지원금최대45만원책정",
+  "[주간거레소외국인]가온전선SK스퀘어GSLG이노텍LIG디펜스앤에어..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-09-19T07:11:05.156076+09:00",
    "회장에 이남우 쓴소리 재벌 회장 기업거버넌스포럼"
+  ],
+  [
+   "2026-09-19T07:31:16.806419+09:00",
+   "LIG디펜스앤에어 가온전선 SK스퀘어 LG이노텍 GS"
   ]
  ],
- "last_run": "2026-09-19T07:21:15.037637+09:00",
+ "last_run": "2026-09-19T07:31:22.565223+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
