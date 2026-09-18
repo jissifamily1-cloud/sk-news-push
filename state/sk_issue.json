@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745693&plink=ORI&cooper=NAVER",
-  "https://www.korea.kr/briefing/actuallyView.do?newsId=148971592&call_from=naver_news",
-  "https://www.khan.co.kr/article/202609092127005",
-  "https://www.sedaily.com/article/20089163",
-  "https://tjmbc.co.kr/NewsArticle/861482",
-  "https://www.yna.co.kr/view/AKR20260909155551004?input=1195m",
-  "https://www.pressian.com/pages/articles/2026090919591468642",
   "http://www.gnmaeil.com/news/articleView.html?idxno=594488",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=559212",
   "https://www.cbci.co.kr/news/articleView.html?idxno=602840",
@@ -2999,16 +2992,16 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667008",
   "https://www.dailian.co.kr/news/view/1692045/?sc=Naver",
   "https://imnews.imbc.com/news/2026/society/article/6852717_36918.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666935"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666935",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=124654",
+  "https://www.hani.co.kr/arti/society/society_general/1278448.html",
+  "https://www.dailian.co.kr/news/view/1692057/?sc=Naver",
+  "https://www.ikbc.co.kr/article/view/kbc202609180024",
+  "https://www.edaily.co.kr/News/Read?newsId=02984806645581432&mediaCodeNo=257",
+  "https://www.newsis.com/view/NISX20260918_0003795222",
+  "https://www.seoul.co.kr/news/society/2026/09/18/20260918500092?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "양팔늘어뜨리고'비틀'…\"정신과약\"버티더니결국",
-  "[사실은이렇습니다][설명]매일경제(9.9.)\"법원,공정위현장조사에...",
-  "대정부질문첫날부터‘김승원난타전’",
-  "‘제주실종허위종결’경찰관,구속기간연장",
-  "[리포트]\"교회밖으로못나가게..\"⋯쇠사슬직접구입해'38시간결박'",
-  "법원,공정위의'한화내부거래'조사중자료제출명령효력정지(종합)",
-  "\"'준강간사건'CCTV압수도안해…커진경찰권한,조서작성부터달라...",
   "'창원간첩단'재판1년만에창원지법서재개",
   "[특별기고]진정한수사혁신,현장태도와예산서시작된다",
   "\"내년전기차50만대시대연다\"…보조금물량43%폭탄지원과한전...",
@@ -6001,10 +5994,17 @@
   "중동위기틈타‘15조원대석화담합’혐의경영진8명구속기로",
   "실종자찾은척사건지운제주경찰…최대징역15년?법조계가본형...",
   "'전쟁틈타담합'석유화학업체경영진8명구속갈림길",
-  "‘아라온호입찰영업비밀유출’업체경찰수사"
+  "‘아라온호입찰영업비밀유출’업체경찰수사",
+  "방값올리기꼼수'오버부킹'피해5년새2.5배급증",
+  "경찰킥스무단조회·정보유출상반기18건…징계는솜방망이",
+  "스마트워치로군사기밀촬영해中에넘긴군인실형확정",
+  "'중동전쟁틈타수조원대담합·폭리'혐의석유화학전·현직경영진...",
+  "745억끌어모아3400억베팅…주가4배띄운‘슈퍼개미’구속기소",
+  "62억시세조종'슈퍼개미'기소…월카드값수천만원펑펑호화생활",
+  "‘슈퍼개미’행세하며3400억매수…3년간주가띄워62억챙겼다"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-18T10:40:53.896934+09:00",
+ "last_run": "2026-09-18T10:51:27.620809+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
