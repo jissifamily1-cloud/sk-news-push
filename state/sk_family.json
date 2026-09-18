@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6846435_37004.html",
-  "https://www.hani.co.kr/arti/society/society_general/1274104.html",
-  "https://www.news1.kr/local/jeju/6266066",
-  "https://www.pennmike.com/news/articleView.html?idxno=126131",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400216.html",
-  "http://www.newstomato.com/ReadNews.aspx?no=1313029&inflow=N",
   "https://www.dt.co.kr/article/12082852",
   "https://www.sportsworldi.com/newsView/20260804516978",
   "https://www.usmbc.co.kr/NewsArticle/858005",
@@ -2999,15 +2993,15 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7185065",
   "https://www.seoultimes.news/news/article.html?no=2000100050",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=254954",
-  "https://www.ajunews.com/view/20260918165225215"
+  "https://www.ajunews.com/view/20260918165225215",
+  "https://www.news2day.co.kr/article/20260918500213",
+  "https://www.nocutnews.co.kr/news/6580663",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=447604",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=86273",
+  "https://www.dt.co.kr/article/12084779",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282371"
  ],
  "seen_titles": [
-  "무성했던추가비자금의혹‥강제환수길열리나",
-  "이혼과정서실토된‘노태우비자금’수사착수…30여년만에봉인풀...",
-  "[인사]제주도",
-  "경남대,개교80주년맞아제77회후기학위수여식거행",
-  "'신궁'김수녕,고려대여자양궁부초대감독으로…내년세종에서창...",
-  "(부음)김봉연(직썰편집인)씨모친상",
   "[9월8일부고종합]구자용(현대자동차부사장)씨부친상외",
   "나폴리맛피아권성준,세계고양이의날맞아돌고도네이션과함께사...",
   "'공개행정'순기능‥우려의목소리도",
@@ -6001,7 +5995,13 @@
   "대법,최태원·노소영재산분할재상고접수…2440억원다툰다",
   "[이슈]최태원,재산분할2440억원재상고…인지대8억5455만원",
   "최윤정SK바이오팜본부장,미래먹거리준비'척척'…승계구도도'청사...",
-  "최태원,재산분할9440억중2440억재상고…인지대8.5억원"
+  "최태원,재산분할9440억중2440억재상고…인지대8.5억원",
+  "[오늘의인사:9월18일]부산대학교·교육부·외교부·과학기술정보통...",
+  "부산시,첫조직개편에따른인사발령",
+  "[인사]외교부,충북영동군,과학기술정보통신부외",
+  "최태원-노소영재산분할재상고심대법원접수…불복액2440억원으로축...",
+  "최태원·노소영재산분할대법원접수…최회장측인지대8.5억납부",
+  "최태원-노소영이혼재산분할다시대법원으로…인지대만8억5천만원"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-09-18T17:00:28.091723+09:00",
    "준비 본부장 미래먹거리 청사 척척 승계 구도도 SK바이오팜"
+  ],
+  [
+   "2026-09-18T17:20:16.997927+09:00",
+   "재산분할 다시 인지대만 8억5천만원 대법원으로 이혼"
   ]
  ],
- "last_run": "2026-09-18T17:10:25.152440+09:00",
+ "last_run": "2026-09-18T17:20:30.317472+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
