@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.koreastocknews.com/news/articleView.html?idxno=121297",
   "https://www.seoul.co.kr/news/economy/securities/2026/09/17/20260917500027?wlog_tag3=naver",
   "https://www.yna.co.kr/view/AKR20260917054200008?input=1195m",
   "https://biz.chosun.com/stock/stock_general/2026/09/17/2IYVTI4LLZA7XCGFLS33UNPY5A/",
@@ -2999,10 +2998,10 @@
   "https://www.joongang.co.kr/article/25463221",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170466",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=79244",
-  "https://www.mediapen.com/news/view/1124721"
+  "https://www.mediapen.com/news/view/1124721",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=6643"
  ],
  "seen_titles": [
-  "美기준금리인상에도버틴코스피…장초반0.60%상승[개장시황]",
   "코스피,美금리인상에도6720선강보합출발",
   "SK하이닉스,협력사8000명·가족3만명초청…서울랜드서감사행사",
   "SKT,'채팅+PC버전'고객이벤트진행",
@@ -6001,7 +6000,8 @@
   "‘토허제확대1년’후폭풍…거래마르고매매·전월세다뛰었다",
   "아이폰18프로지원금최대45만원...통신3사혜택어디가클까",
   "학술마케팅지킨JW리베이트판결…기등재약재평가기준공개",
-  "[美증시]트리플위칭데이딛고연착륙,나스닥상승다우조정…AI테마..."
+  "[美증시]트리플위칭데이딛고연착륙,나스닥상승다우조정…AI테마...",
+  "[뉴욕증시마감시황]美10년물5%·유가100달러에도AI질주…나스닥..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-09-19T06:21:11.027497+09:00",
    "다우 연착륙 상승 트리플위칭데이 딛고 AI테마 나스닥 조정"
+  ],
+  [
+   "2026-09-19T06:31:08.909786+09:00",
+   "질주 AI 100달러에도 나스닥 유가 10년물"
   ]
  ],
- "last_run": "2026-09-19T06:21:19.372603+09:00",
+ "last_run": "2026-09-19T06:31:15.293823+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
