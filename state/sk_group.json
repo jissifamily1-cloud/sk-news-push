@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.namdonews.com/news/articleView.html?idxno=923711",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=79859",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170340",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487895",
   "https://biz.heraldcorp.com/article/10876561",
   "https://www.greened.kr/news/articleView.html?idxno=350283",
@@ -2999,12 +2996,12 @@
   "https://www.dailian.co.kr/news/view/1692072/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260916166100008?input=1195m",
   "https://www.cbci.co.kr/news/articleView.html?idxno=608070",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488638"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488638",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282385",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11473",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488639"
  ],
  "seen_titles": [
-  "코스피,美금리인상에도상승…외인7거래일째순매도",
-  "미국금리·국채금리동반상승...한국증시·대출금리·내수부담키우...",
-  "SK하이닉스,협력사임직원·가족3만명에서울랜드쏜다…'땡스풀데...",
   "코스피,美기준금리인상에도상승출발…장초반1%대올라",
   "SK하이닉스,내달협력사대가족감사행사…3만명초청",
   "[특징주]한화엔진,데이터센터용발전엔진성장기대감에7%대강세",
@@ -6001,7 +5998,10 @@
   "日의원단만난이재용·8시간토론구광모·트리플코어장인화[재계in...",
   "[마켓人]'재벌회장에쓴소리'이남우기업거버넌스포럼회장",
   "아이폰18프로·프로맥스공식개통…공시지원금최대45만원책정",
-  "[주간거레소외국인]가온전선SK스퀘어GSLG이노텍LIG디펜스앤에어..."
+  "[주간거레소외국인]가온전선SK스퀘어GSLG이노텍LIG디펜스앤에어...",
+  "뉴욕증시,반도체강세등에혼조마감…나스닥0.4%↑",
+  "[오늘의경제뉴스]석화업계15조'사상최대'담합의혹…전쟁통에이...",
+  "[주간코스닥기관]삼성전자·삼성전자우쓸어담았다…SK스퀘어·두산..."
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,21 @@
   [
    "2026-09-19T07:31:16.806419+09:00",
    "LIG디펜스앤에어 가온전선 SK스퀘어 LG이노텍 GS"
+  ],
+  [
+   "2026-09-19T07:40:59.323448+09:00",
+   "등에 반도체 뉴욕증시 혼조마감 나스닥 강세"
+  ],
+  [
+   "2026-09-19T07:40:59.323448+09:00",
+   "석화업계 담합 15조 의혹 전쟁통에 사상"
+  ],
+  [
+   "2026-09-19T07:40:59.323448+09:00",
+   "담았다 SK스퀘어 삼성전자우 삼성전자 두산 쓸어"
   ]
  ],
- "last_run": "2026-09-19T07:31:22.565223+09:00",
+ "last_run": "2026-09-19T07:41:10.385343+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
