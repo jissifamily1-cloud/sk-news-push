@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1724571",
-  "https://www.widedaily.com/news/articleView.html?idxno=301216",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=208450",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609170416&t=NN",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5219768",
   "https://www.cbci.co.kr/news/articleView.html?idxno=607622",
   "https://www.kpinews.kr/newsView/1065575751754340",
@@ -2999,13 +2995,13 @@
   "https://www.g-enews.com/view.php?ud=202609191018132671fbbec65dfb_1",
   "https://www.m-i.kr/news/articleView.html?idxno=1416208",
   "https://www.getnews.co.kr/news/articleView.html?idxno=881287",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268694&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268694&CMPT_CD=P0010",
+  "https://www.m-economynews.com/news/article.html?no=70880",
+  "https://www.g-enews.com/view.php?ud=202609191036186598fbbec65dfb_1",
+  "http://www.kjdaily.com/article.php?aid=1789782722687215276",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3700638"
  ],
  "seen_titles": [
-  "SK하이닉스,협력사가족3만명서울랜드초청…곽노정도감사인사",
-  "[금융권이모저모]한국투자신탁운용,테크펀드6개월·연초·1년수익률...",
-  "공감신문,이종욱·김은혜의원·한국시장경제교수협회,'한국경제도약...",
-  "잭팟터진다…장초반6.14%솟구친'이곳'주가의비밀",
   "스타트업부터기술인재까지…기업들성장지원프로그램확대",
   "[차이나워치]화웨이,엔비디아에맞설'AI칩'공개…中기술자립속도",
   "외인6일간반도체11조투매…'수요정점'vs'저가매수기회'팽팽",
@@ -6001,7 +5997,11 @@
   "중국반도체의거침없는영토확장,한국메모리왕좌흔들까",
   "용인특례시,대한민국문화경영대상동반성장부문대상수상",
   "'K-메모리,'美ㆍ中포위망에협공...D램은中에,HBM은美에추적",
-  "\"한국은슈터의팀\"...12년만AG결승이끈이현중"
+  "\"한국은슈터의팀\"...12년만AG결승이끈이현중",
+  "中CXMT·美마이크론협공...삼성·SK‘메모리왕좌’위협",
+  "반도체장비'품귀'의역설…납기40개월벽에부딪힌AI반도체증설...",
+  "[이번주증시]아이티센피엔에스66%급등…상승률1위",
+  "황선홍감독\"팀분위기최고\"…대전,인천전서6위굳히기도전"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,17 @@
   [
    "2026-09-19T10:41:09.160221+09:00",
    "이현중 이끈 12년만 슈터의 한국은 AG 결승"
+  ],
+  [
+   "2026-09-19T11:01:14.701892+09:00",
+   "1위 아이티센피엔에스 급등 상승률"
+  ],
+  [
+   "2026-09-19T11:01:14.701892+09:00",
+   "분위기 황선홍 감독 6위 최고 인천전서 도전 대전 굳히기"
   ]
  ],
- "last_run": "2026-09-19T10:51:11.768556+09:00",
+ "last_run": "2026-09-19T11:01:23.344035+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
