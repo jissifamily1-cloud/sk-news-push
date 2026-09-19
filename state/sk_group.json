@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wsobi.com/news/articleView.html?idxno=318359",
-  "http://www.impacton.net/news/articleView.html?idxno=20355",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276076",
-  "https://www.news1.kr/bio/pharmaceutical-bio/6293568",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724618",
   "https://www.techm.kr/news/articleView.html?idxno=155322",
   "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067579",
@@ -2999,13 +2995,13 @@
   "https://www.newscj.com/news/articleView.html?idxno=3428997",
   "https://www.kukinews.com/article/view/kuk202608310145",
   "https://www.topstarnews.net/news/articleView.html?idxno=16199375",
-  "https://www.wikitree.co.kr/articles/1160619"
+  "https://www.wikitree.co.kr/articles/1160619",
+  "https://www.mt.co.kr/industry/2026/09/19/2026091716102917837",
+  "https://economist.co.kr/article/view/ecn202609190001",
+  "https://www.gokorea.kr/news/articleView.html?idxno=879105",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3700532"
  ],
  "seen_titles": [
-  "\"한국경제지표13위인데체감도는최하위권\"…사회적안전망결핍이부...",
-  "중국산가짜화장품·건강기능식품45억원어치유통적발",
-  "발표하는임의철SK하이닉스부사장",
-  "치매소재단편영화‘영식스티’공개…“조금이라도의심되면병원으...",
   "LaborDisputesSpreadAcrossKorea'sManufacturingSector",
   "삼성전자서비스·SK하이닉스'한국경영대상'고객만족부문2년연속대...",
   "【데일리ESG정책브리핑】한미에너지협력·산림탄소국제감축등",
@@ -6001,7 +5997,11 @@
   "노태문319억·곽노정239억…주가내려도'임원주식부자'늘었다",
   "삼전·닉스성과급효과…소비1.7조늘고임원은‘10억클럽’",
   "최근5거래일SK이터닉스주가,등락거듭하며51,200원마감",
-  "'추석연휴때가장막히는고속도로'1~5위가모두..."
+  "'추석연휴때가장막히는고속도로'1~5위가모두...",
+  "AI속도조절론에도…'계속배우는AI'가메모리반도체판키운다",
+  "이익률1위뺏긴K-반도체,중·미협공에'샌드위치'위기",
+  "한국메모리시장위협하는미국과중국의급부상,삼성과SK하이닉스의...",
+  "용인시,문화경영대상수상…지방자치동반성장정책인정받아"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,21 @@
   [
    "2026-09-19T09:11:07.665548+09:00",
    "5500억 사곤 삼성 괴물 홀린 배긴다 TSMC"
+  ],
+  [
+   "2026-09-19T09:31:12.854680+09:00",
+   "1위 샌드위치 이익률 반도체 위기 뺏긴 협공에"
+  ],
+  [
+   "2026-09-19T09:31:12.854680+09:00",
+   "메모리 시장 삼성과 중국의 위협하는 급부상 SK하이닉스의 미국과 한국"
+  ],
+  [
+   "2026-09-19T09:31:12.854680+09:00",
+   "동반성장 인정받아 정책 용인시 수상 지방자치 문화경영대상"
   ]
  ],
- "last_run": "2026-09-19T09:21:05.049773+09:00",
+ "last_run": "2026-09-19T09:31:24.193311+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
