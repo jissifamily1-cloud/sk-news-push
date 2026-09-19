@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.cctimes.kr/news/articleView.html?idxno=928038",
-  "http://www.globalepic.co.kr/view.php?ud=20260917114041545048439a4874_29",
-  "https://www.munhwa.com/article/11617741",
   "https://www.hankyung.com/article/202609170554i",
   "https://biz.sbs.co.kr/article_hub/20000335221?division=NAVER",
   "https://www.bloter.net/news/articleView.html?idxno=673856",
@@ -2999,12 +2996,12 @@
   "https://www.dailian.co.kr/news/view/1692396/?sc=Naver",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609200035&t=NN",
   "https://www.g-enews.com/view.php?ud=2026092007282541432bd56fbc3c_1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3701025"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3701025",
+  "https://www.ddaily.co.kr/page/view/2026092000365588060",
+  "https://www.g-enews.com/view.php?ud=202609191707529542fda4f5ab74_1",
+  "https://www.segye.com/newsView/20260918514921?OutUrl=naver"
  ],
  "seen_titles": [
-  "\"2만명몰렸는데청약은썰렁\"···첨단3지구'반도체호재'안통했다",
-  "美금리올랐는데코스피도같이오른다…왜?",
-  "SK하이닉스와메모리반도체협력은인텔에'호재'평가,미국공장건설...",
   "외국인·기관매도세확대에…코스피,6700선에서강보합",
   "FOMC충격견뎌낸코스피6700선보합권…'개인·자사주'1조순매수[장...",
   "SK하이닉스,'ThanksFULLDay'개최…협력사구성원·가족3만명초청",
@@ -6001,7 +5998,10 @@
   "삼성·SK그룹상장사담았다…ETF4종목신규상장",
   "삼전닉스자사주매입끝?…추석후'수급절벽'우려",
   "SK넥실리스폴란드,스탈로바볼라고교생장학금수여",
-  "용인시,3개지역서'면·동민의날'행사개최…화합의시간가져"
+  "용인시,3개지역서'면·동민의날'행사개최…화합의시간가져",
+  "D램값뛰고피지컬AI뜬다…반도체성장축확대[위클리반도체]",
+  "AI인프라기업엔스케일,10억달러손실안고상장하는이유",
+  "다시오르는반도체…특별배당받으려면삼성전자28일까지매수해야"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,17 @@
   [
    "2026-09-20T07:50:57.227673+09:00",
    "용인시 개최 행사 3개 동민의 화합의 가져 지역서 시간"
+  ],
+  [
+   "2026-09-20T08:01:09.266309+09:00",
+   "엔스케일 손실 인프라 이유 10억 AI 안고 상장하는 달러 기업"
+  ],
+  [
+   "2026-09-20T08:01:09.266309+09:00",
+   "오르는 특별배당 받으려면 삼성전자 28일까지 매수해야 다시 반도체"
   ]
  ],
- "last_run": "2026-09-20T07:51:06.001157+09:00",
+ "last_run": "2026-09-20T08:01:18.279814+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
