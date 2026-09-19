@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://weekly.chosun.com/news/articleView.html?idxno=55089",
-  "https://biz.heraldcorp.com/article/10867101",
   "http://www.osen.co.kr/article/G1112872370",
   "https://www.sportsseoul.com/news/read/1633862",
   "https://www.donga.com/news/Economy/article/all/20260909/134632332/1",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260918510564?OutUrl=naver",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609190394&t=NN",
   "https://www.gukjenews.com/news/articleView.html?idxno=3700202",
-  "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100015.html"
+  "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100015.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/19/2026091990112.html",
+  "https://www.joongangenews.com/news/articleView.html?idxno=549398"
  ],
  "seen_titles": [
-  "\"8조원재산절반달라\"…스마일게이트창업자이혼소송오늘결론",
-  "[단독]곧문닫는검찰‘노태우비자금의혹’수사속도…동아시아문...",
   "스윙스\"후배들에정산해주려고30억빌려..아직도빚갚는중\"고백(라...",
   "‘민망의상’신지원,남다른허벅지이유있었다…알고보니쇼트트랙...",
   "‘재산8조’권혁빈이혼소송오늘결론…역대최대재산분할경신가...",
@@ -6001,7 +5999,9 @@
   "최태원,재산분할재상고접수…인지대8억원납부",
   "美·中협공에쫓기는K-메모리…삼전·닉스'비상등'",
   "[인사]부산시(1~5급)",
-  "[재계이슈]최태원,한일상공회의소회장단회의서경제공동체강조..."
+  "[재계이슈]최태원,한일상공회의소회장단회의서경제공동체강조...",
+  "빨라진독감유행…추석연휴독감·코로나19'트윈데믹'우려도",
+  "中CXMT·美마이크론동시에치고온다…삼성전자·SK하이닉스'메모리..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,13 @@
   [
    "2026-09-19T20:30:20.333837+09:00",
    "한일 회의서 강조 경제 상공회의소 공동체 회장단"
+  ],
+  [
+   "2026-09-19T20:50:15.344883+09:00",
+   "삼성전자 동시에 메모리 SK하이닉스 CXMT 마이크론 온다 치고"
   ]
  ],
- "last_run": "2026-09-19T20:40:31.642691+09:00",
+ "last_run": "2026-09-19T20:50:27.119023+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
