@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.livesnews.com/news/article.html?no=64275",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447430",
   "https://www.dizzotv.com/site/data/html_dir/2026/09/17/2026091780041.html",
   "https://www.mk.co.kr/article/12155181",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=406204",
@@ -2999,11 +2997,11 @@
   "https://news.bizwatch.co.kr/article/industry/2026/09/18/0001",
   "http://www.osen.co.kr/article/G1112878257",
   "https://www.kyeonggi.com/article/20260919580135",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/19/2026091990079.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/19/2026091990079.html",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488709",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488708"
  ],
  "seen_titles": [
-  "'PF살리기'3조원쏜다…정부,캠코펀드투입해주택1만8천호공급",
-  "하나카드,대한방사선사협회회원맞춤형제휴카드선보인다",
   "AI-반도체등27개기업,충남에1조5303억투자",
   "[산업계동향]삼성전자ㆍSK하이닉스ㆍLG전자(9.17)",
   "美금융주약세에도韓금융주는강세…금리인상에‘잠룡’깨어났다...",
@@ -6001,21 +5999,11 @@
   "구광모\"빠르고집요하게\"…LG,AI투자전략재정비",
   "'갈레고-바사니vs박태준-이상헌'서로의약점겨눈정면승부선발공...",
   "“황금연휴엔국내로”…추석연휴길어지자리조트·주요관광지‘북...",
-  "韓美외교장관회담결과문분석해보니…'반도체'온도차"
+  "韓美외교장관회담결과문분석해보니…'반도체'온도차",
+  "조선소에서데이터센터만든다…삼성중공업의'FDC승부수'",
+  "6월고점서반토막난싸이맥스…하반기부터실적반전온다"
  ],
  "recent_sigs": [
-  [
-   "2026-09-19T10:11:01.122307+09:00",
-   "감시 900억 오히려 인력은 벌었는데 수수료 한국거래소 시장"
-  ],
-  [
-   "2026-09-19T10:11:01.122307+09:00",
-   "웃고 황에 젠슨 이란 국장 리스크와 울고 트럼프에"
-  ],
-  [
-   "2026-09-19T10:11:01.122307+09:00",
-   "펀더멘털 달러 반영해 반등 200원대로 단기 하락할"
-  ],
   [
    "2026-09-19T10:21:04.570450+09:00",
    "전격 반도체 SK하이닉스 전문경영인 집결 부회장 글로벌 3인 총력"
@@ -6199,9 +6187,17 @@
   [
    "2026-09-19T16:01:21.435420+09:00",
    "분석해보니 외교장관 결과문 온도차 반도체 회담"
+  ],
+  [
+   "2026-09-19T16:11:01.394865+09:00",
+   "FDC 삼성중공업의 데이터센터 조선소에서 승부수 만든다"
+  ],
+  [
+   "2026-09-19T16:11:01.394865+09:00",
+   "반토막 하반기부터 6월 실적 싸이맥스 온다 고점서 반전"
   ]
  ],
- "last_run": "2026-09-19T16:01:28.082549+09:00",
+ "last_run": "2026-09-19T16:11:10.169084+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
