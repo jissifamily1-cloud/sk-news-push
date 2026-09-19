@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447448",
-  "https://biz.chosun.com/stock/stock_general/2026/09/17/VDVUWWQR6JBAHLFGXDXLITWFEQ/",
-  "https://www.news1.kr/finance/general-stock/6293803",
   "http://www.cctimes.kr/news/articleView.html?idxno=928038",
   "http://www.globalepic.co.kr/view.php?ud=20260917114041545048439a4874_29",
   "https://www.munhwa.com/article/11617741",
@@ -2999,12 +2996,12 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092170451",
   "https://biz.heraldcorp.com/article/10878772",
   "https://www.newsis.com/view/NISX20260918_0003796184",
-  "https://www.dailian.co.kr/news/view/1692396/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1692396/?sc=Naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609200035&t=NN",
+  "https://www.g-enews.com/view.php?ud=2026092007282541432bd56fbc3c_1",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3701025"
  ],
  "seen_titles": [
-  "코스피6800선문턱서주춤…외국인7거래일째'팔자'",
-  "[테오도르시장분석]외국인과기관의매도세이어져..연준과일본은행...",
-  "용인반도체클러스터공사장서25t덤프트럭전도",
   "\"2만명몰렸는데청약은썰렁\"···첨단3지구'반도체호재'안통했다",
   "美금리올랐는데코스피도같이오른다…왜?",
   "SK하이닉스와메모리반도체협력은인텔에'호재'평가,미국공장건설...",
@@ -6001,7 +5998,10 @@
   "AI전환속도내는기업들…직무설계세분화과제",
   "‘HBM더높이’속도전에도…SK하이닉스“하이브리드본딩수율90%포...",
   "\"관심있지만가격이고민\"…정자동리모델링단지'더샵분당하이스트...",
-  "삼성·SK그룹상장사담았다…ETF4종목신규상장"
+  "삼성·SK그룹상장사담았다…ETF4종목신규상장",
+  "삼전닉스자사주매입끝?…추석후'수급절벽'우려",
+  "SK넥실리스폴란드,스탈로바볼라고교생장학금수여",
+  "용인시,3개지역서'면·동민의날'행사개최…화합의시간가져"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,17 @@
   [
    "2026-09-20T07:40:56.432828+09:00",
    "상장 삼성 상장사 SK그룹 신규 담았다 ETF 4종목"
+  ],
+  [
+   "2026-09-20T07:50:57.227673+09:00",
+   "SK넥실리스 수여 장학금 고교생 폴란드 스탈로바볼라"
+  ],
+  [
+   "2026-09-20T07:50:57.227673+09:00",
+   "용인시 개최 행사 3개 동민의 화합의 가져 지역서 시간"
   ]
  ],
- "last_run": "2026-09-20T07:41:07.704247+09:00",
+ "last_run": "2026-09-20T07:51:06.001157+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
