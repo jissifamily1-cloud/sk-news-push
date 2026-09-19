@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202609171116244770",
-  "https://www.yna.co.kr/view/AKR20260917094300008?input=1195m",
   "https://www.mk.co.kr/article/12155224",
   "https://biz.heraldcorp.com/article/10876886",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063365",
@@ -2999,11 +2997,11 @@
   "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100021.html",
   "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100015.html",
   "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100017.html",
-  "https://www.joongangenews.com/news/articleView.html?idxno=549398"
+  "https://www.joongangenews.com/news/articleView.html?idxno=549398",
+  "https://www.mk.co.kr/article/12156520",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208550"
  ],
  "seen_titles": [
-  "\"내몫\"이라던최태원집이동거인에쓴돈?노소영측앞뒤안맞는주...",
-  "\"현지생산없으면관세\"…SK,미국서'완결형생태계'틀짜나",
   "\"1000억이라더니생활비는20억\"…최태원측,'기부금까지증여'주장에...",
   "[더벨][밸류업가속하는SK렌터카]CFO→공동대표…박상욱,밸류업'진두...",
   "‘63빌딩높이’신안해상풍력터빈,‘메가프로젝트’전력원될까[현...",
@@ -6001,7 +5999,9 @@
   "[법으로읽는경제인사이트|한종목에‘2배’로투자하는시대]단일...",
   "[재계이슈]최태원,한일상공회의소회장단회의서경제공동체강조...",
   "[특별기고]박기순성균관대중국대학원교수|AI시대,누가세계의판...",
-  "中CXMT·美마이크론동시에치고온다…삼성전자·SK하이닉스'메모리..."
+  "中CXMT·美마이크론동시에치고온다…삼성전자·SK하이닉스'메모리...",
+  "“삼성SDI지금들어가야?”...국내주식유망주더있다",
+  "[이혁중CISO칼럼]IoT/OT보안2-이미현실세계를흔들고있는사이버..."
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,17 @@
   [
    "2026-09-19T21:01:16.584149+09:00",
    "CXMT 메모리 동시에 온다 SK하이닉스 삼성전자 마이크론 치고"
+  ],
+  [
+   "2026-09-19T21:10:58.905743+09:00",
+   "유망주 들어가야 있다 국내 삼성SDI 주식 지금"
+  ],
+  [
+   "2026-09-19T21:10:58.905743+09:00",
+   "있는 세계를 흔들고 IoT 현실 이미 OT 보안2 사이버"
   ]
  ],
- "last_run": "2026-09-19T21:01:22.924944+09:00",
+ "last_run": "2026-09-19T21:11:07.705179+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
