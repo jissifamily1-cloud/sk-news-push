@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101433353640104295",
-  "https://www.mt.co.kr/world/2026/09/17/2026091711314765326",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=49055",
   "https://www.newspost.kr/news/articleView.html?idxno=225756",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=727999",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20260918_0003796271",
   "https://www.businesspost.co.kr/BP?command=article_view&num=447485",
   "https://www.segye.com/newsView/20260920500944?OutUrl=naver",
-  "https://www.yna.co.kr/view/AKR20260918167800003?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260918167800003?input=1195m",
+  "https://www.kbmaeil.com/article/20260920500036",
+  "https://www.g-enews.com/view.php?ud=202609200638043027fbbec65dfb_1"
  ],
  "seen_titles": [
-  "영종구,시내버스2202번,2251번2개노선신규개설",
-  "하나카드,바우처·라운지혜택담은방사선사카드출시",
   "되살아난재벌순환출자[유레카]",
   "[SK인사시그널]③수련마친최인근·민근…'3세경영'본격화되나",
   "SK스퀘어,AX로투자·포트폴리오업무혁신",
@@ -6001,7 +5999,9 @@
   "국힘,국감앞두고레버리지ETF·농지전수조사부각…특검추진도",
   "엘앤에프ESS수요급증에LFP양극재'입도선매',허제홍하이니켈양극...",
   "30년전놓친‘안방비자금’…김옥숙·노소영일가자금다시수사선...",
-  "AI속도조절론에도…\"올해반도체시장1.6조달러로성장가속\""
+  "AI속도조절론에도…\"올해반도체시장1.6조달러로성장가속\"",
+  "美반도체훈풍에‘7000피’재도전…미중회담·추석연휴변수",
+  "15만명빈자리채울길없는데…美공장문여는삼성·SK의속사정"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,17 @@
   [
    "2026-09-20T06:41:00.825435+09:00",
    "반도체시장 성장 속도조절론에도 가속 올해 6조달러로 AI"
+  ],
+  [
+   "2026-09-20T06:50:59.900221+09:00",
+   "추석 미중회담 변수 반도체 연휴 훈풍에 7000피 재도전"
+  ],
+  [
+   "2026-09-20T06:50:59.900221+09:00",
+   "삼성 속사정 SK의 빈자리 채울 여는 공장 15만 없는데"
   ]
  ],
- "last_run": "2026-09-20T06:41:07.613684+09:00",
+ "last_run": "2026-09-20T06:51:08.199316+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
