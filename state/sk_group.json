@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471561",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1182331",
   "http://www.incheonnews.com/news/articleView.html?idxno=440637",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=359161",
   "https://news.tf.co.kr/read/economy/2366995.htm",
@@ -2999,11 +2997,11 @@
   "http://www.osen.co.kr/article/G1112878277",
   "https://biz.heraldcorp.com/article/10878740",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488712",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488711"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488711",
+  "https://www.g-enews.com/view.php?ud=202609191633563081e30fcb1ba8_1",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488713"
  ],
  "seen_titles": [
-  "한화엔진주가장중7%대강세,북미AI데이터센터용엔진사업기대감...",
-  "SK하이닉스,협력사구성원·가족3만명초청감사행사",
   "“에너지안보강화”…동서발전,LNG직수입공급망넓힌다",
   "[투데이's특징주]조선주,증권가긍정적전망에장초반동반'강세'",
   "\"민간우호증진에지속협력\"…SM그룹우오현회장,한미동맹재단'후...",
@@ -6001,7 +5999,9 @@
   "'모레노대표팀감독관전'에부천이영민감독,\"국가대표나오길바라...",
   "AI데이터센터올라탄통신株…‘최선호는SKT’KT·LGU+도증설[투자...",
   "한화그룹이직접수요만든다…한화엔진데이터센터수혜부각",
-  "배만보던HD현대마린솔루션,이젠데이터센터엔진까지잡는다"
+  "배만보던HD현대마린솔루션,이젠데이터센터엔진까지잡는다",
+  "中은범용D램·美는HBM맹추격…삼성·SK‘메모리양강’흔든다",
+  "HD현대중공업,배만만드는회사아니다…AI데이터센터가새시장"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-09-19T16:41:24.108273+09:00",
    "데이터센터 엔진까지 잡는다 HD현대마린솔루션 이젠 배만 보던"
+  ],
+  [
+   "2026-09-19T16:51:04.534808+09:00",
+   "HD현대중공업 회사 시장 데이터센터가 AI 아니다 만드는 배만"
   ]
  ],
- "last_run": "2026-09-19T16:41:30.759509+09:00",
+ "last_run": "2026-09-19T16:51:10.384564+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
