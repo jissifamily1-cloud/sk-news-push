@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2626586",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62651",
-  "https://www.g-enews.com/view.php?ud=2026091708201735613084322ec9_1",
-  "https://www.joongangenews.com/news/articleView.html?idxno=548701",
-  "https://www.news1.kr/industry/general-industry/6293590",
-  "http://www.srtimes.kr/news/articleView.html?idxno=212697",
-  "https://www.munhwa.com/article/11617780",
   "http://www.beyondpost.co.kr/view.php?ud=202609171154041057205868f676_30",
   "https://www.sedaily.com/article/20092060",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=363360",
@@ -2999,16 +2992,16 @@
   "https://www.fnnews.com/news/202609200812229704",
   "https://www.yna.co.kr/view/AKR20260920010400003?input=1195m",
   "https://www.g-enews.com/view.php?ud=202609200643037282fda4f5ab74_1",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171054589000102589"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171054589000102589",
+  "https://www.ikbc.co.kr/article/view/kbc202609200005",
+  "http://www.popcornnews.net/news/articleView.html?idxno=133541",
+  "https://zdnet.co.kr/view/?no=20260920083630",
+  "http://www.metroseoul.co.kr/article/20260920500014",
+  "https://www.tokenpost.kr/news/insights/410925",
+  "https://www.edaily.co.kr/News/Read?newsId=01164406645582088&mediaCodeNo=257",
+  "https://www.thebigdata.co.kr/view.php?ud=2026091816372090680ecbf9426b_23"
  ],
  "seen_titles": [
-  "대한상의,청년취업길뚫는다…'일경험·K-뉴딜'로4.9만명전폭지원",
-  "'매파적'연준에도버티는코스피…2거래일째상승",
-  "\"실무경험부터취업까지\"…대한상의,청년4만9000명'취업사다리'...",
-  "대한상의,구직청년4만9천명에실무훈련·현장경험지원",
-  "대한상의,청년4만9000명취업지원...일경험·실무교육확대",
-  "대한상의,청년4만9000명취업돕는다…4500개기업현장개방",
-  "\"신입인데경력은어디서쌓죠?\"…대한상의,청년4만9000명에'실전기...",
   "청년에게실무경험기회를…대한상의,4.9만명에직무교육",
   "11번가,추석'E쿠폰핫딜'연다…모바일상품권부터외식·여행까지할...",
   "대한상의,청년4.9만명취업지원…'실무훈련·현장경험제공'",
@@ -6001,7 +5994,14 @@
   "\"연휴전팔까,담을까\"...돌아온외국인·불기둥반도체,7000선넘보는...",
   "SK온,헝가리진출기업'사회적책임'시상식서2년연속수상",
   "제논정신과임상보류에주가30%이상폭락…뇌전증FDA신청은완료",
-  "[더벨]'SK그룹출신'현은아,노종원의테크브릿지합류"
+  "[더벨]'SK그룹출신'현은아,노종원의테크브릿지합류",
+  "삼전·하이닉스자사주매입'속도전'…10월중순조기종료될듯",
+  "SKT,,'무도런'에이어가을러닝시리즈프로모션진행",
+  "SKT,러너500명가민런코리아참가권쏜다",
+  "찬바람불면배당주?…채권ㆍ예금금리상승에인기'주춤'",
+  "[온체인주식선물]SK하이닉스,정규장종가보다1.38%할인",
+  "SK바이오팜,파킨슨병신약품었다…오름은BMS임상중단[바이오주간...",
+  "SK하이닉스,협력사지원1.4조…‘개발→양산’병목줄인다"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,33 @@
   [
    "2026-09-20T08:31:05.960754+09:00",
    "SK그룹 출신 현은아 테크브릿지 노종원의 합류"
+  ],
+  [
+   "2026-09-20T08:40:56.680337+09:00",
+   "가을 무도런 프로모션 시리즈 진행 SKT 이어 러닝"
+  ],
+  [
+   "2026-09-20T08:40:56.680337+09:00",
+   "500명 참가권 러너 가민런코리아 쏜다 SKT"
+  ],
+  [
+   "2026-09-20T08:40:56.680337+09:00",
+   "찬바람 금리 상승에 배당주 예금 채권 불면 주춤 인기"
+  ],
+  [
+   "2026-09-20T08:40:56.680337+09:00",
+   "할인 종가보다 SK하이닉스 정규장"
+  ],
+  [
+   "2026-09-20T08:40:56.680337+09:00",
+   "오름은 파킨슨병 바이오 BMS 주간 임상 중단 SK바이오팜 신약 품었다"
+  ],
+  [
+   "2026-09-20T08:40:56.680337+09:00",
+   "협력사 개발 SK하이닉스 4조 병목 지원 양산 줄인다"
   ]
  ],
- "last_run": "2026-09-20T08:31:18.832370+09:00",
+ "last_run": "2026-09-20T08:41:16.044414+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
