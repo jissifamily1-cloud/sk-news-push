@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=766941",
-  "https://www.ytn.co.kr/_ln/0102_202609171542500677",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447481",
-  "https://dgmbc.com/NewsArticle/862989",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609170910322060421",
-  "http://www.joseilbo.com/news/news_read.php?uid=575907&class=32",
-  "https://www.apnews.kr/news/articleView.html?idxno=3051348",
-  "http://www.popcornnews.net/news/articleView.html?idxno=133349",
-  "https://www.newspost.kr/news/articleView.html?idxno=225762",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=204501",
   "https://news.tf.co.kr/read/economy/2367258.htm",
   "https://www.newsway.co.kr/news/view?ud=2026091715532686618",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/17/2026091700277.html",
@@ -2999,19 +2989,19 @@
   "https://www.koreatimes.co.kr/path/A2026092009580005144",
   "https://www.ilyosisa.co.kr/news/article.html?no=258011",
   "https://www.namdonews.com/news/articleView.html?idxno=923927",
-  "https://www.dt.co.kr/article/12084955"
+  "https://www.dt.co.kr/article/12084955",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553555272",
+  "https://www.fnnews.com/news/202609201515307512",
+  "https://www.newspim.com/news/view/20260920000140",
+  "https://www.newspim.com/news/view/20260920000131",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=614516",
+  "https://www.khan.co.kr/article/202609201516011",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=866652",
+  "https://www.asiatime.co.kr/article/20260920500054",
+  "https://www.dailian.co.kr/news/view/1692624/?sc=Naver",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=866648"
  ],
  "seen_titles": [
-  "[마감시황]외국인7거래일째'팔자'…코스피,6715선하락마감",
-  "코스피6715.41마감…시총상위주일제히약세",
-  "매파적FOMC에삼성전자약보합마감…SK하이닉스0.8%↓[핫스탁](종합)",
-  "美금리인상...하이퍼스케일러AI투자속도는",
-  "SK바이오팜,퍼스트바이오파킨슨병DMT후보물질도입…최대4308억원규...",
-  "SK하이닉스\"인텔과협력미확정\"입장밝혀…대신證,'초기탐색단계...",
-  "코스피6,715약보합마감…삼성전자·SK하이닉스소폭하락",
-  "[속보]미금리상승에환율13.6원↑...코스피약보합마감",
-  "메모리반도체공급부족미국에서'안보문제'로부각,SK하이닉스삼성...",
-  "[속보]장초반상승세못지킨코스피,소폭하락마감",
   "서울국평20억미만분양단지‘고공행진’",
   "국힘'이재용·최태원'국감증인신청할까...민주\"망신주기식안돼\"",
   "\"공익자금까지왜곡\"…최태원133억출연,노소영'1000억'셈법깼다",
@@ -6001,7 +5991,17 @@
   "Samsung,SKhynixnearendofbuybacks,leavingKOSPIwithoutclearbuy",
   "SK,30년만에되살아난악몽⋯’선경300억’실체밝혀지나",
   "다시고개든원·달러환율…1,400원선향하나",
-  "‘자사주방파제’10월이면끝…코스피‘삼전닉스’만바라본다"
+  "‘자사주방파제’10월이면끝…코스피‘삼전닉스’만바라본다",
+  "[현장목소리]'미친회복속도'광주FC성골에이스문민서,\"종아리상...",
+  "'호르무즈·대미투자'한미외교고비봉착..유엔총회약식회담관건",
+  "보이스피싱예방부터돌봄까지…SKT'선한AI'확장",
+  "SK,사회적가치페스타21~22일개최…지역문제해법모색",
+  "SK하이닉스청주·이천캠퍼스서산업안전보건법위반167건적발",
+  "실적은‘최대’안전은‘부실’···SK하이닉스등반도체공장안전...",
+  "SK하이닉스,산업안전보건법위반사항167건적발…청주캠퍼스119건",
+  "앤트로픽,'AI속도조절'외치더니신모델저울질…韓반도체전망'맑음...",
+  "서울소재의대10년새최저치찍었다…지역의대는?",
+  "충북학사,SK하이닉스청주캠퍼스서기업탐방프로그램"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,21 @@
   [
    "2026-09-20T15:21:08.622497+09:00",
    "삼전닉스 10월이면 바라본다 방파제 자사주 코스피"
+  ],
+  [
+   "2026-09-20T15:31:05.497485+09:00",
+   "속도조절 맑음 저울질 외치더니 신모델 AI 반도체 전망 앤트로픽"
+  ],
+  [
+   "2026-09-20T15:31:05.497485+09:00",
+   "최저치 찍었다 서울 10년 소재 의대 지역 의대는"
+  ],
+  [
+   "2026-09-20T15:31:05.497485+09:00",
+   "청주캠퍼스서 기업탐방 SK하이닉스 프로그램 충북학사"
   ]
  ],
- "last_run": "2026-09-20T15:21:38.063201+09:00",
+ "last_run": "2026-09-20T15:31:17.899341+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
