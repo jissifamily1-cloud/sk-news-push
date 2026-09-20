@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=319736",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=311493",
-  "https://www.m-i.kr/news/articleView.html?idxno=1415667",
-  "https://www.fnnews.com/news/202609171825012532",
-  "https://www.fnnews.com/news/202609171824047126",
   "https://www.sedaily.com/article/20092337",
   "https://www.dt.co.kr/article/12084656",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758886&plink=ORI&cooper=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.newswhoplus.com/news/articleView.html?idxno=70119",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701662",
   "https://economist.co.kr/article/view/ecn202609160029",
-  "https://biz.sbs.co.kr/article_hub/20000335778?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000335778?division=NAVER",
+  "https://www.sportsseoul.com/news/read/1636567",
+  "https://www.fnnews.com/news/202609210738157010",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210030&t=NN",
+  "https://www.newspim.com/news/view/20260921000017",
+  "https://www.kyosu.net/news/articleView.html?idxno=210585"
  ],
  "seen_titles": [
-  "“스펙보다실무”…대한상의,청년4만9000명취업지원",
-  "동서발전,'가스텍2026'서글로벌3개사와LNG수급협력…연료비경쟁...",
-  "\"에너지안보강화\"···동서발전,LNG직수입공급망확대",
-  "연준추가인상예고에도코스피약보합…6715마감",
-  "삼전닉스자사주매입벌써31조…내달조기종료‘불안감’",
   "SK바이오팜,파킨슨병신약후보물질4,308억원에도입",
   "앞뒤다른노소영측계산법···'1000억'에숨겨진204억진실",
   "경제지표13위인데체감은27위…한국인의마음이따라가지못해",
@@ -6001,7 +5996,12 @@
   "최태원,9440억중7000억상고제외…2440억놓고분할대상·비율다시...",
   "10월'아이폰듀오'국내출시…통신사'애플특수'이어지나",
   "“한국은큰돈넣을수있는시장임을증명해야”김영익·마경환·홍춘...",
-  "[마켓프리뷰]'글로벌긴축'속메모리부족우려…반도체주강세"
+  "[마켓프리뷰]'글로벌긴축'속메모리부족우려…반도체주강세",
+  "“커리어최고의사령탑”이탈로가극찬한세르지우감독리더십…‘...",
+  "AI전력수요에ESS배터리급성장…내년1000GWh넘본다",
+  "외국인,삼전닉스팔고'이것'담았다...\"원화상승엔역시\"",
+  "[미국특징주]엔비디아·MS손잡은엔스케일,뉴욕증시IPO추진",
+  "사외이사연봉8천만원시대…SK그룹가장후하고삼성전자1억7천최..."
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,21 @@
   [
    "2026-09-21T07:41:00.484700+09:00",
    "우려 메모리 부족 글로벌 긴축 반도체주 강세"
+  ],
+  [
+   "2026-09-21T07:51:01.132991+09:00",
+   "이것 외국인 담았다 상승엔 팔고 원화 삼전닉스 역시"
+  ],
+  [
+   "2026-09-21T07:51:01.132991+09:00",
+   "엔스케일 뉴욕증시 엔비디아 MS IPO 손잡은"
+  ],
+  [
+   "2026-09-21T07:51:01.132991+09:00",
+   "7천 삼성전자 8천만 후하고 1억 시대 가장 연봉 SK그룹 사외이사"
   ]
  ],
- "last_run": "2026-09-21T07:41:32.550223+09:00",
+ "last_run": "2026-09-21T07:51:12.585050+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
