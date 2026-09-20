@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2004298",
-  "https://www.jbnews.com/news/articleView.html?idxno=1511279",
-  "https://www.newsis.com/view/NISX20260910_0003784525",
-  "http://www.dailypop.kr/news/articleView.html?idxno=102416",
-  "https://www.edaily.co.kr/News/Read?newsId=04493606645578808&mediaCodeNo=257",
-  "https://www.yna.co.kr/view/AKR20260909181900004?input=1195m",
   "https://www.news1.kr/society/incident-accident/6285266",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708681",
   "https://www.polinews.co.kr/news/articleView.html?idxno=742738",
@@ -2999,15 +2993,15 @@
   "https://www.ytn.co.kr/_ln/0101_202609201124097419",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43890",
   "https://www.dt.co.kr/article/12084912",
-  "https://www.newsway.co.kr/news/view?ud=2026092011241909344"
+  "https://www.newsway.co.kr/news/view?ud=2026092011241909344",
+  "https://www.m-i.kr/news/articleView.html?idxno=1416164",
+  "https://www.m-i.kr/news/articleView.html?idxno=1416202",
+  "https://www.m-i.kr/news/articleView.html?idxno=1416249",
+  "https://www.joongangenews.com/news/articleView.html?idxno=549300",
+  "http://www.inews24.com/view/2007526",
+  "https://www.ytn.co.kr/_ln/0103_202609201151168195"
  ],
  "seen_titles": [
-  "공정위,대한항공조사방해로고발의견…시정명령변경요청모두기각",
-  "청주-제주노선좌석,줄이려던대한항공'제동'…공정위\"감축불가\"...",
-  "경찰이불송치했던불법대부업총책…검찰이보완수사로구속기소",
-  "'보복대행'조직에주소넘긴우체국직원논란",
-  "檢,‘석화제품가격담합의혹’PKC·LG화학·OCI경영진소환",
-  "중수청신설후산업기술수사강화방안은…경찰정책포럼",
   "경찰,산업기술보호정책포럼개최…기술유출대응역량강화",
   "대출사기,79억이490억으로···은행금융사고공시실효성'한계'",
   "[김능구·황장수의닥터둠의전망9월①][전문]지지율추락에인사지...",
@@ -6001,7 +5995,13 @@
   "민주\"한동훈,조선제일관종왕자병...수사나받길\"",
   "30년묵은'안방비자금'실체드러나나…노소영,'김옥숙메모'로참고...",
   "[속보]‘아빠찬스’前선관위사무총장딸,소송이겼다…“이례적이...",
-  "'안방비자금'수사본격화…SK성장종잣돈설진위가린다"
+  "'안방비자금'수사본격화…SK성장종잣돈설진위가린다",
+  "[기획]쿠팡52.3일·컬리54.6일…'35일룰'영향권확대",
+  "[기획]'35일'예외어디까지…홈플러스첫시험대될까",
+  "[기획]'35일정산'확정…유통가,정산체계손질에거래절벽역풍예...",
+  "[주간유통나침반]추석대목인데유통업계'긴장'…홈플러스매각·공...",
+  "김옥숙152억원출연금…'노태우안방비자금'다시수사선",
+  "'수사무마대가로억대뇌물'관세청특사경,1심징역9년"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "안방 성장 가린다 종잣돈설 진위 본격화 수사 비자금"
   ]
  ],
- "last_run": "2026-09-20T11:51:02.213502+09:00",
+ "last_run": "2026-09-20T12:01:06.309506+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
