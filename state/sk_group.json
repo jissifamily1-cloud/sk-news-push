@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailypharm.com/user/news/342605?REFERER=NP",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31652",
   "https://biz.heraldcorp.com/article/10877244",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277204",
   "https://www.hankyung.com/article/202609171433i",
@@ -2999,11 +2997,11 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1416034",
   "https://www.bloter.net/news/articleView.html?idxno=673994",
   "https://www.hankyung.com/article/202609205975g",
-  "https://www.m-i.kr/news/articleView.html?idxno=1416222"
+  "https://www.m-i.kr/news/articleView.html?idxno=1416222",
+  "http://www.kjdaily.com/article.php?aid=1789877477687238276",
+  "https://www.todaykorea.co.kr/news/articleView.html?idxno=406322"
  ],
  "seen_titles": [
-  "SK바이오팜,퍼스트바이오파킨슨병신약후보도입…최대4308억원규모",
-  "삼성전자·SK하이닉스800조호남반도체구체화…광주공항2028년비우고...",
   "1년새145%뛴S-Oil…국제유가상승에정유株더오를까",
   "인텔오하이오서메모리생산?…하이닉스앞에놓인'3대관문'",
   "'계약총액최대4307억원'SK케미칼,파킨슨병신약도입…오픈이노베...",
@@ -6001,7 +5999,9 @@
   "공장줄여도끝아니다…K-석화구조조정'2차시험대'",
   "[AI시대일의재편]코더서검증자로…진화하는SKT개발자현장",
   "\"성과급올랐다고?\"삼전닉스'착시'…급여오른이유봤더니",
-  "골목시장다독이고,해외선실탄채우고…보폭넓히는카드사[카드톡톡..."
+  "골목시장다독이고,해외선실탄채우고…보폭넓히는카드사[카드톡톡...",
+  "[이번주증시]사흘만열리는코스피…7000다시넘본다",
+  "이통3사,한가위앞두고특별대응체계가동···트래픽관리'총력'"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,17 @@
   [
    "2026-09-20T13:12:51.732610+09:00",
    "채우고 다독이고 해외선 넓히는 보폭 카드톡톡 골목시장 카드사 실탄"
+  ],
+  [
+   "2026-09-20T13:21:00.496020+09:00",
+   "코스피 열리는 넘본다 다시 사흘만"
+  ],
+  [
+   "2026-09-20T13:21:00.496020+09:00",
+   "이통3사 총력 대응 트래픽 한가위 관리 가동 체계 특별 앞두고"
   ]
  ],
- "last_run": "2026-09-20T13:13:16.147729+09:00",
+ "last_run": "2026-09-20T13:21:08.957161+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
