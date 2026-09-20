@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8096507",
-  "https://www.news1.kr/photos/8096509",
   "https://www.news1.kr/photos/8096505",
   "https://www.news1.kr/photos/8096513",
   "https://www.news1.kr/photos/8096511",
@@ -2999,11 +2997,11 @@
   "https://www.ilyosisa.co.kr/news/article.html?no=258015",
   "http://www.metroseoul.co.kr/article/20260920500273",
   "https://thetracker.co.kr/View.aspx?No=4233634",
-  "https://www.asiatime.co.kr/article/20260920500058"
+  "https://www.asiatime.co.kr/article/20260920500058",
+  "https://www.fntimes.com/html/view.php?ud=202609201629076337de3572ddd_18",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=854341"
  ],
  "seen_titles": [
-  "발언하는최태원회장",
-  "'함께이루는도약'국회경제대도약위원회출범식",
   "인사하는최태원대한상의회장",
   "경제대도약위원회출범식자리한조정식의장과최태원회장",
   "발언하는최태원대한상공회의소회장",
@@ -6001,7 +5999,9 @@
   "검찰,‘김옥숙비자금’수사본격화⋯30여년묻혔던실체드러날까",
   "美성과비중절대적SK하이닉스…인재영입‘기술통’넘어'국제경영통...",
   "[기업을바꾼선택③]SK,계열사219→151개로…팔고줄인돈HBM·AI에쓴...",
-  "[힘내라K산업]⑤비핵심자산80조원정리…최태원의‘AI풀스택’"
+  "[힘내라K산업]⑤비핵심자산80조원정리…최태원의‘AI풀스택’",
+  "노태우일가‘안방비자금’실체드러날까…검찰수사본격화",
+  "SKSOVAC,'로컬-지역미래'해법모색…AI로사회공헌성과측정"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-09-20T16:30:19.771834+09:00",
    "80조원 최태원의 AI 정리 풀스택 비핵심자산"
+  ],
+  [
+   "2026-09-20T16:40:13.875809+09:00",
+   "지역 AI로 성과 측정 SOVAC 미래 모색 사회공헌 로컬 해법"
   ]
  ],
- "last_run": "2026-09-20T16:30:37.775103+09:00",
+ "last_run": "2026-09-20T16:40:24.977804+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
