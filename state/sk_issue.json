@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2117836",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1404941",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=44758",
   "https://www.newsis.com/view/NISX20260910_0003783676",
   "https://www.etoday.co.kr/news/view/2624176",
@@ -2999,11 +2997,11 @@
   "https://www.dailian.co.kr/news/view/1692584/?sc=Naver",
   "https://www.newsis.com/view/NISX20260920_0003797094",
   "https://news.jtbc.co.kr/article/NB12319215?influxDiv=NAVER",
-  "https://www.munhwa.com/article/11618335"
+  "https://www.munhwa.com/article/11618335",
+  "https://www.m-i.kr/news/articleView.html?idxno=1416334",
+  "https://www.segye.com/newsView/20260920505326?OutUrl=naver"
  ],
  "seen_titles": [
-  "HD현대,상생협력2·3차까지확대..조선·전력·건설기계7500개사혜택",
-  "공정위,대한항공'좌석유지완화'요청기각의견",
   "[김진호의파리만평]2026년09월10일공정위,공시위반과태료강화",
   "증가하는기술범죄대응논의…서울청,'산업기술보호정책포럼'",
   "정산주기60일→35일⋯직매입유통사자금·발주부담에‘긴장’",
@@ -6001,7 +5999,9 @@
   "[노태우家공익재단결산해부①]돈들어오면건물부터샀다…'안방비...",
   "'아빠찬스'논란前선관위사무총장딸,임용취소불복소송승소",
   "30년전놓친'안방비자금'수사속도내는검...김옥숙·노소영일가자...",
-  "노소영,30년새3번째검찰조사…‘안방비자금’실체규명주목"
+  "노소영,30년새3번째검찰조사…‘안방비자금’실체규명주목",
+  "'민생사정'속도전에기업들불만…공정위\"적법성입증할것\"",
+  "검찰,제주실종사건허위종결경찰관구속기소"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "안방 성장 가린다 종잣돈설 진위 본격화 수사 비자금"
   ]
  ],
- "last_run": "2026-09-20T13:01:05.364247+09:00",
+ "last_run": "2026-09-20T13:12:44.260062+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
