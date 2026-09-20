@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026091016560302913",
-  "http://www.inews24.com/view/2004372",
-  "https://www.sportsworldi.com/newsView/20260910515718",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=121151",
-  "https://www.socialvalue.kr/news/view/1065599259537519",
   "https://view.asiae.co.kr/article/2026091016501478099",
   "https://www.sedaily.com/article/20089510",
   "https://news.jtbc.co.kr/article/NB12317751?influxDiv=NAVER",
@@ -2999,14 +2994,14 @@
   "https://biz.heraldcorp.com/article/10879598",
   "https://www.inews365.com/news/article.html?no=936587",
   "https://www.socialvalue.kr/news/view/1065589053117308",
-  "https://news.jtbc.co.kr/article/NB12319223?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12319223?influxDiv=NAVER",
+  "https://www.asiatime.co.kr/article/20260920500049",
+  "https://www.kgnews.co.kr/news/article.html?no=912387",
+  "https://www.kwnews.co.kr/article/20260920501016",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170548",
+  "https://www.ilyosisa.co.kr/news/article.html?no=258011"
  ],
  "seen_titles": [
-  "공정위,다이소이어올리브영도현장조사…대규모유통업법위반혐의",
-  "공정위,CJ올리브영추가조사…대규모유통업법위반검토",
-  "[모빌리티NOW]통합대한항공…5년난기류뚫고‘메가캐리어’뜬다",
-  "검찰,전쟁틈타'가격담합'···김유신OCI부회장소환조사",
-  "공정위,CJ올리브영추가조사…대규모유통업법위반혐의",
   "주병기공정위원장,내주방미…美반독점수장들과면담추진'쿠팡논...",
   "서울경찰청,산업기술유출막는다…민·관·학공동대응강화",
   "\"압수수색왔다\"믿고열어준문…AI위조신분증들고온30대강도",
@@ -6001,15 +5996,24 @@
   "노소영美20만불밀반입·다이아반지…‘안방비자금’드디어규명되...",
   "'오송참사'부실제방시공·감리사1심결과불복항소…법정공방2...",
   "검찰정조준한'노태우안방비자금'…노소영의'다이아목걸이·20만달...",
-  "추미애\"김지용,한동훈휴대전화포렌식두차례거부\""
+  "추미애\"김지용,한동훈휴대전화포렌식두차례거부\"",
+  "[기후위기㊦]“대응안하면배임”…기후소송직면한기업들",
+  "추미애“김지용중수청장후보자추가검증관점바로잡아야”",
+  "‘아빠찬스의혹’전남선관위경력공채9급합격한前선관위사무총...",
+  "檢,노소영세번째조사…'선경300억'자금경위조사",
+  "SK,30년만에되살아난악몽⋯’선경300억’실체밝혀지나"
  ],
  "recent_sigs": [
   [
    "2026-09-20T11:50:55.258809+09:00",
    "안방 성장 가린다 종잣돈설 진위 본격화 수사 비자금"
+  ],
+  [
+   "2026-09-20T15:20:50.067750+09:00",
+   "악몽 밝혀지나 선경 실체 30년만에 300억 되살아난"
   ]
  ],
- "last_run": "2026-09-20T15:10:54.747113+09:00",
+ "last_run": "2026-09-20T15:20:58.974269+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6081,6 +6085,7 @@
   "economytalk.kr": "이코노미톡뉴스",
   "ngetnews.com": "뉴스저널리즘",
   "econovill.com": "ER 이코노믹리뷰",
-  "lkp.news": "리버티코리아포스트"
+  "lkp.news": "리버티코리아포스트",
+  "ilyosisa.co.kr": "일요시사"
  }
 }
