@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=133345",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488113",
-  "https://www.joongangenews.com/news/articleView.html?idxno=548965",
-  "https://www.huffingtonpost.kr/article/260598",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=854104",
-  "https://biz.heraldcorp.com/article/10877407",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=106296",
-  "https://www.etnews.com/20260917000442",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1724716",
   "https://www.sentv.co.kr/article/view/sentv202609170185",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005923623",
   "http://www.newsprime.co.kr/news/article.html?no=748248",
@@ -2999,18 +2990,18 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000067281",
   "https://www.ggilbo.com/news/articleView.html?idxno=1182808",
   "http://www.newstomato.com/ReadNews.aspx?no=1314316&inflow=N",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447640"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=447640",
+  "http://www.segyebiz.com/newsView/20260920509616?OutUrl=naver",
+  "https://www.mtnews.net/news/articleView.html?idxno=26017",
+  "https://www.dt.co.kr/article/12084986",
+  "https://www.econovill.com/news/articleView.html?idxno=751363",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170551",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=866912",
+  "http://www.bizwnews.com/news/articleView.html?idxno=146836",
+  "https://www.busan.com/view/busan/view.php?code=2026092016224537779",
+  "https://bizhankook.com/articles/germany-biotech-cluster-success.html"
  ],
  "seen_titles": [
-  "티맵,2700만이동데이터활용넓힌다…교통예측넘어서비스확장",
-  "[제1회투데이신문경제포럼'힌지']임규빈연구위원\"반도체의존도...",
-  "SK텔레콤,AI컴퍼니전환속도…SK스토아매각엔'진땀'",
-  "[1%초고수의선택]'두산'사고,급등한'성호전자'팔았다",
-  "美트레이더ETF대표\"코스피기술주기초레버리지출시검토\"",
-  "[제약업계소식]9월17일",
-  "[분석]AIDC기업으로쪼개고붙이고...통신과SI,한지붕아래다른셈...",
-  "[가래소기관]두산삼성전자우한미약품HD현대중공업한화엔진쓸어...",
-  "하나카드,방사선사협회제휴카드출시'맞손'",
   "한화오션'매출비중78%'호황에날개단상선의명과암,김희철태국...",
   "'매파FOMC'에도코스피약보합…개인·기관'사자'에6700선사수",
   "‘17만평’공원품은대단지…태영건설‘구미파크원데시앙’본격...",
@@ -6001,7 +5992,16 @@
   "\"삼성·SK맹추\"…中CXMT,'5세대D램'양산돌입",
   "대기업출신학교차별금지명문화26.6%…공정채용갈길멀어",
   "'대미투자1호'불발뒤에…트럼프'반도체청구서'",
-  "[9월21일자]비즈니스포스트아침의주요기사"
+  "[9월21일자]비즈니스포스트아침의주요기사",
+  "SOVAC2026,‘지역의미래’해법모색",
+  "반도체제조업집중점검결과발표…총338건위반적발",
+  "CXMT,드디어5세대D램양산…삼전닉스주도권흔든다",
+  "코스피,미·중정상회담·추석연휴앞두고변동성커질까?…자사주매...",
+  "中CXMT,5세대D램양산돌입…삼전·닉스추격",
+  "최윤겸감독이반긴진태호·김진호의성장",
+  "SK증권,'연금저축랩'신규출시",
+  "[기고]해양수도부산,북항인트라아시아물류의심장지켜라",
+  "[유럽스타트업열전]'대학도시'하이델베르크는어떻게바이오거점이..."
  ],
  "recent_sigs": [
   [
@@ -6459,9 +6459,25 @@
   [
    "2026-09-20T16:51:04.990286+09:00",
    "주요기사 아침의 비즈니스포스트"
+  ],
+  [
+   "2026-09-20T17:01:10.616232+09:00",
+   "최윤겸 진태호 감독이 김진호의 성장 반긴"
+  ],
+  [
+   "2026-09-20T17:01:10.616232+09:00",
+   "연금저축랩 출시 SK증권 신규"
+  ],
+  [
+   "2026-09-20T17:01:10.616232+09:00",
+   "부산 지켜라 인트라아시아 북항 물류의 심장 해양수도"
+  ],
+  [
+   "2026-09-20T17:01:10.616232+09:00",
+   "대학도시 거점이 어떻게 바이오 하이델베르크는"
   ]
  ],
- "last_run": "2026-09-20T16:51:16.336358+09:00",
+ "last_run": "2026-09-20T17:01:25.202756+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
