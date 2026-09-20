@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260917000489",
-  "http://www.jndn.com/article.php?aid=1789636627439880001",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=664737",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260917181655gxq",
-  "https://biz.sbs.co.kr/article_hub/20000335362?division=NAVER",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=311492",
-  "https://www.fnnews.com/news/202609171813019088",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4435485",
   "https://www.cctoday.co.kr/news/articleView.html?idxno=2236991",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=854125",
@@ -2999,16 +2992,16 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668188",
   "https://www.mediawatch.kr/news/article.html?no=260960",
   "https://www.g-enews.com/view.php?ud=202609210656395048fbbec65dfb_1",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210019&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210019&t=NN",
+  "https://www.kbmaeil.com/article/20260921500029",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154386",
+  "https://www.fntimes.com/html/view.php?ud=202609210704129764141825007d_18",
+  "https://www.chosun.com/economy/economy_general/2026/09/21/NLBVCUYIINE4LC44YDYJ75PVMI/",
+  "https://www.energydaily.co.kr/news/articleView.html?idxno=203419",
+  "http://www.kjdaily.com/article.php?aid=1789942493687357227",
+  "https://www.energydaily.co.kr/news/articleView.html?idxno=203432"
  ],
  "seen_titles": [
-  "[카드뉴스브리핑]국민-마스터카드'도쿄마라톤'출전권이벤트",
-  "삼성전자·하이닉스,한전‘전기료25조원선납’제안거절…이자등...",
-  "\"오늘은뭐볼까\"…콘텐츠선택고민줄여",
-  "SK하이닉스,협력사감사행사마련",
-  "SK바이오팜,차세대파킨슨병신약후보도입…글로벌권리확보",
-  "'레버리지ETF'국감쟁점화...野,한투금융CEO들증인신청",
-  "두산,SK실트론인수본격화…기업결합심사돌입",
   "호남반도체클러스터‘물65만t’공급계획안근거부실",
   "HBM독주속'삼성·SK하이닉스'K-반도체격돌",
   "코스피,매파적FOMC에도방어…소폭하락마감",
@@ -6001,7 +5994,14 @@
   "미국채5%돌파…삼전닉스탈출신호일까?아닐까?[잇슈머니]",
   "곽노정SK하이닉스사장“AI시대,관점을‘밖에서안으로’전환해야...",
   "AI품귀타고영업익89조찍은삼성전자…골드만'49만원'베팅",
-  "금리상승에도반도체연이틀강세[굿모닝글로벌이슈]"
+  "금리상승에도반도체연이틀강세[굿모닝글로벌이슈]",
+  "AI가키운ESS배터리시장…상반기출하71%급증",
+  "삼성전자·SK하이닉스,수십조자사주매입···밸류업판도더커진다",
+  "[KFT모닝브리프]2026.09.21—오늘꼭알아야할국내외경제뉴스",
+  "“1억맡겼는데매달300만원?”…월배당ETF오해3가지[왕개미연구소...",
+  "[초점]RE100전력수요증가어떻게대비해야하나",
+  "CXMT,5세대D램양산…삼성전자·SK하이닉스추격속도",
+  "[기획]AI물관리로에너지까지최적화…K-water,물에너지10GW승부수"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,29 @@
   [
    "2026-09-21T07:10:59.175277+09:00",
    "국채 탈출 신호일까 돌파 아닐까 삼전닉스"
+  ],
+  [
+   "2026-09-21T07:31:11.085604+09:00",
+   "국내외 경제뉴스 알아야"
+  ],
+  [
+   "2026-09-21T07:31:11.085604+09:00",
+   "오해 ETF 매달 월배당 왕개미연구소 3가지 1억 맡겼는데 300만원"
+  ],
+  [
+   "2026-09-21T07:31:11.085604+09:00",
+   "증가 어떻게 대비해야 RE100 수요 하나 전력"
+  ],
+  [
+   "2026-09-21T07:31:11.085604+09:00",
+   "양산 속도 SK하이닉스 5세대 D램 추격 CXMT 삼성전자"
+  ],
+  [
+   "2026-09-21T07:31:11.085604+09:00",
+   "물관리로 AI water 최적화 에너지까지 물에너지 승부수 10GW"
   ]
  ],
- "last_run": "2026-09-21T07:21:06.277883+09:00",
+ "last_run": "2026-09-21T07:31:27.427381+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
