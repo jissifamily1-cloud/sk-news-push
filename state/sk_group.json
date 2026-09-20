@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260917143128",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31650",
-  "https://www.ilyosisa.co.kr/news/article.html?no=257971",
-  "https://www.newsis.com/view/NISX20260917_0003794037",
-  "https://www.koreaherald.com/article/10877230",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=228022",
-  "https://newstapa.org/article/dGIhz",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=365632",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471743",
-  "https://www.wikitree.co.kr/articles/1160235",
-  "http://www.srtimes.kr/news/articleView.html?idxno=212743",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724673",
   "https://www.delighti.co.kr/news/articleView.html?idxno=122071",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=365628",
@@ -2999,20 +2988,20 @@
   "https://www.hankyung.com/article/202609205920g",
   "http://www.footballist.co.kr/news/articleView.html?idxno=215008",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=88603",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171510"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171510",
+  "http://www.metroseoul.co.kr/article/20260920500153",
+  "https://www.dt.co.kr/article/12084926",
+  "https://www.chosun.com/economy/industry-company/2026/09/20/CXJYPJTSXNHP7MCWJ2OFEYDSLI/",
+  "https://view.asiae.co.kr/article/2026092012453569683",
+  "https://www.munhwa.com/article/11618335",
+  "https://www.g-enews.com/view.php?ud=202609201246451095153ddfb15a_1",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423822",
+  "https://www.fnnews.com/news/202609201056539805",
+  "https://www.tokenpost.kr/news/blockchain/411005",
+  "https://www.dailian.co.kr/news/view/1692584/?sc=Naver",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1182634"
  ],
  "seen_titles": [
-  "SK이노베이션14만원대강세…배터리·ESS기대에2%대상승",
-  "SK바이오팜,파킨슨병DMT신약후보물질도입",
-  "한양대에'AI반도체혁신연구소'개소···6년간석·박사110명양성",
-  "“귀성은분산·귀경은집중”…추석교통,25일정오최대혼잡",
-  "대한상의,청년4.9만명에게'취업도약기회'",
-  "러셀텐서트레이더ETF대표\"레버리지ETF,증시변동성주범아냐\"",
-  "'모두의AI'카카오컨소시엄,금융분야파트너선정",
-  "태영건설'구미파크원데시앙'11월분양",
-  "‘막던지는’노소영더티플레이②‘기부금까지?’무관한지출내역",
-  "SK바팜·퍼스트바이오\"파킨슨병신약물질도입\"",
-  "AIboomgivesSamsungpricingpowerasMLCCsupplytightens",
   "한미반도체22만5500원약보합…HBM장비기대속장중등락",
   "[현장에서]조선일보자회사매출걱정한노동위...'기업압력에기자...",
   "SK쉴더스,'희망의REDPACK'헌혈캠페인진행",
@@ -6001,7 +5990,18 @@
   "\"삼전닉스처럼달라\"난리…'반도체상소문'마이크론도비상[김대영의...",
   "\"안양위해싸울준비됐다\"엘쿠라노의정신무장,'복귀포+경합의지'로...",
   "지방소멸해법찾는'SOVAC2026'개막…AI접목한로컬생태계제시",
-  "'SOVAC2026',이번엔'지역의미래'해법모색...기대효과는?"
+  "'SOVAC2026',이번엔'지역의미래'해법모색...기대효과는?",
+  "SKSOVAC,사회적가치페스타서'지역의미래'조명…AI활용해법공개",
+  "1330원찍었는데,어느새1380원…환율1400원‘초읽기’?",
+  "반도체성과급이끌어올린임금…경총“상반기임금상승분3분의1,반...",
+  "SKT,'사회적가치페스타'참가…AI로사회문제해법찾는다",
+  "노소영,30년새3번째검찰조사…‘안방비자금’실체규명주목",
+  "'반도체성과급'이밀어올린임금…상반기3.1%상승",
+  "반도체일자리수역대최대라는데신규채용은오히려줄어···왜?",
+  "[르포]\"가변조리개써볼래요\"아이폰18프로에꽂힌소비자들",
+  "[로빈후드온체인]에이전트웜홀보유지갑이하루새836개늘어...넷플...",
+  "[노태우家공익재단결산해부①]돈들어오면건물부터샀다…'안방비...",
+  "세종일자리경제진흥원,추석맞아'사회연대경제가치소비상생마당'개..."
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,37 @@
   [
    "2026-09-20T12:41:05.824551+09:00",
    "경합 준비됐다 정신 무장 엘쿠라노의 복귀포 의지 안양 싸울"
+  ],
+  [
+   "2026-09-20T13:01:12.159201+09:00",
+   "3번째 노소영 안방 조사 비자금 실체 주목 30년새 검찰 규명"
+  ],
+  [
+   "2026-09-20T13:01:12.159201+09:00",
+   "상반기 성과급 임금 밀어올린 상승 반도체"
+  ],
+  [
+   "2026-09-20T13:01:12.159201+09:00",
+   "일자리수 채용은 줄어 최대라는데 신규 오히려 역대 반도체"
+  ],
+  [
+   "2026-09-20T13:01:12.159201+09:00",
+   "가변 꽂힌 조리개 써볼래요 아이폰18 소비자들 프로에"
+  ],
+  [
+   "2026-09-20T13:01:12.159201+09:00",
+   "에이전트 넷플 늘어 하루 지갑이 웜홀 보유 836개"
+  ],
+  [
+   "2026-09-20T13:01:12.159201+09:00",
+   "들어오면 안방 샀다 건물부터"
+  ],
+  [
+   "2026-09-20T13:01:12.159201+09:00",
+   "상생마당 사회연대경제 추석 세종일자리경제진흥원 가치소비 맞아"
   ]
  ],
- "last_run": "2026-09-20T12:51:08.056765+09:00",
+ "last_run": "2026-09-20T13:01:33.974093+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
