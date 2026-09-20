@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260917164104Dwz",
-  "https://biz.heraldcorp.com/article/10877433",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6602",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488149",
-  "https://www.huffingtonpost.kr/article/260602",
-  "https://www.insight.co.kr/news/574074",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609171621229920580",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276242",
   "https://en.yna.co.kr/view/AEN20260917007452320?input=2106m",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=664807",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95581",
@@ -2999,17 +2991,17 @@
   "https://www.sedaily.com/article/20093114",
   "https://www.ajunews.com/view/20260920144924868",
   "https://www.ajunews.com/view/20260918155155019",
-  "https://www.ajunews.com/view/20260920143311841"
+  "https://www.ajunews.com/view/20260920143311841",
+  "https://mhnse.com/news/articleView.html?idxno=1554583",
+  "https://www.mt.co.kr/industry/2026/09/20/2026092018113537593",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668016",
+  "https://www.donga.com/news/Economy/article/all/20260920/134705302/1",
+  "http://www.gndomin.com/news/articleView.html?idxno=490254",
+  "http://www.gndomin.com/news/articleView.html?idxno=490147",
+  "http://www.mdilbo.com/detail/0kIA7d/758979",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1101021"
  ],
  "seen_titles": [
-  "SK하이닉스\"AI전환의새로운흐름과통찰공유하다\"",
-  "SK바이오팜,퍼스트바이오와‘기술도입·지분투자’계약동시체결",
-  "SKT,PC에서도문자그대로…'채팅+PC버전'이용확대",
-  "SK하이닉스,美AI인프라행사서PIM등‘비욘드HBM’기술대거공개",
-  "노소영측'최태원집'셈법논란…여론전엔'동거인돈'·소송선'내몫...",
-  "SK하이닉스'ThanksFULLDay'협력사구성원·가족3만명초청",
-  "대한상의,청년취업사다리놓는다…실무훈련·현장경험지원",
-  "美금리인상에도선방…코스피,6700선약보합마감[투자360]",
   "[증시프리즘]코스피,'매파FOMC'에도약보합…외인2.3조매도에도낙...",
   "[코스피지수선물옵션]반도체株희비엇갈렸다…삼성전자·SK하이닉스...",
   "SK바이오팜파킨슨병치료제신약후보물질4308억원에도입:이중저해...",
@@ -6001,13 +5993,17 @@
   "HBM4황금수율잡고물량전…범용D램·파운드리경쟁력도높여",
   "미중정상회담ㆍ추석앞두고긴장한韓증시...이번주전망은?",
   "[바이오판흔드는AI]K-바이오,자체개발플랫폼구축'열풍'…전문...",
-  "유엔총회에백악관미중회담…韓경제에미치는파장은"
+  "유엔총회에백악관미중회담…韓경제에미치는파장은",
+  "안문숙,자선바자회서노소영관장깜짝만남…\"무슨얘기나눴나봤더...",
+  "'글로벌큰손'드러켄밀러회장방한,두산등과회동추진",
+  "중CXMT,5세대D램공정양산돌입…‘삼전닉스’추격가속",
+  "노소영,‘비자금의혹’관련출석조율중…20만달러·다이아이어3번...",
+  "고성군의회제312회제1차정례회폐회",
+  "거창군-SKT,어르신대상'찾아가는서비스'운영",
+  "통합특별시첫조직개편안통과,통합행정본격화",
+  "SK하이닉스청주,산안법위반'무더기적발'"
  ],
  "recent_sigs": [
-  [
-   "2026-09-20T12:20:59.818714+09:00",
-   "않는 반의 초록불 횡단보도 비밀 1초 꺼지지"
-  ],
   [
    "2026-09-20T12:31:08.962362+09:00",
    "SK하이닉스 중순 종료 대규모 자사주 조기 내달 삼성전자 매입"
@@ -6507,9 +6503,25 @@
   [
    "2026-09-20T18:11:03.898208+09:00",
    "경제에 유엔총회에 미중회담 미치는 백악관 파장은"
+  ],
+  [
+   "2026-09-20T18:21:42.450834+09:00",
+   "제312회 폐회 정례회 고성군의회 제1차"
+  ],
+  [
+   "2026-09-20T18:21:42.450834+09:00",
+   "거창군 서비스 운영 대상 어르신 찾아가는 SKT"
+  ],
+  [
+   "2026-09-20T18:21:42.450834+09:00",
+   "통과 조직개편안 본격화 통합행정 통합특별시"
+  ],
+  [
+   "2026-09-20T18:21:42.450834+09:00",
+   "적발 청주 산안법 위반 무더기 SK하이닉스"
   ]
  ],
- "last_run": "2026-09-20T18:11:20.433427+09:00",
+ "last_run": "2026-09-20T18:21:57.855373+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
