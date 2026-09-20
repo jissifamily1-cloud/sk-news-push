@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.hankooki.com/news/articleView.html?idxno=6939884",
-  "https://www.sedaily.com/article/20092308",
-  "https://www.ytn.co.kr/_ln/0102_202609171810154923",
-  "https://www.ekn.kr/web/view.php?key=20260917026036092",
-  "http://www.srtimes.kr/news/articleView.html?idxno=212766",
   "https://www.ytn.co.kr/_ln/0101_202609171804153997",
   "https://news.ifm.kr/news/articleView.html?idxno=479733",
   "https://www.ajunews.com/view/20260917174413172",
@@ -2999,14 +2994,14 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609171454209860541",
   "https://www.yakup.com/news/index.html?cat=12&nid=332798",
   "https://www.insight.co.kr/news/574425",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210022&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210022&t=NN",
+  "https://www.ajunews.com/view/20260921065142474",
+  "http://www.jbsori.com/news/articleView.html?idxno=17918",
+  "https://biz.sbs.co.kr/article_hub/20000335770?division=NAVER",
+  "https://www.sedaily.com/article/20093187",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725000"
  ],
  "seen_titles": [
-  "조선업부터K뷰티까지…美진출뒤엔무보있었다",
-  "美긴축전환...\"워시,예상보다더매파적\"[증시긴급진단]",
-  "[금주의통신톡톡]112로뜨는전화도가짜였다…LG유플러스,추석앞두...",
-  "SK증권,IB조직3개본부로확대...자금조달영역넓힌다",
-  "[퇴근길애프터시황]한화엔진10%대급등…비츠로테크'上'",
   "곽노정SK하이닉스사장“AI시대,관점을‘밖에서안으로’전환해야...",
   "동서발전,글로벌LNG공급기업3개사와협력확대로직수입공급망넓...",
   "“韓투자자,레버리지ETF오래보유…손실한도·청산시점정해야”",
@@ -6001,7 +5996,12 @@
   "반도체공장바닥까지PC화…하프슬래브적용확대‘눈길’",
   "아이씨엠“ICM-203,골관절염치료패러다임바꾸는DMOAD로키운다”",
   "SK사회적가치연구원,사회공헌효과AI로금액환산...SOVAC서첫공개",
-  "삼전닉스개미들'초긴장'...자사주매입\"끝이보인다\""
+  "삼전닉스개미들'초긴장'...자사주매입\"끝이보인다\"",
+  "[아주증시포커스]美금리인상·유가급등에출렁…미중정상회담·추석...",
+  "\"경력지우고신입으로입사하려는'중고신입','취업N수','하닉고시...",
+  "[증시전략]미·중정상회담,시진핑건강이변수…AI모멘텀은?",
+  "상반기근로자임금3.1%올랐지만…“반도체성과급착시효과”",
+  "칠천피다시시험대…반도체훈풍vs美금리5%"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,25 @@
   [
    "2026-09-21T06:50:59.739636+09:00",
    "공개 효과 SOVAC서 AI로 사회적가치연구원 사회공헌 금액 환산"
+  ],
+  [
+   "2026-09-21T07:01:12.110273+09:00",
+   "신입 취업 하닉 신입으로 중고 입사하려는 N수 지우고 고시 경력"
+  ],
+  [
+   "2026-09-21T07:01:12.110273+09:00",
+   "건강이 모멘텀은 시진핑 변수 AI 정상회담"
+  ],
+  [
+   "2026-09-21T07:01:12.110273+09:00",
+   "올랐지만 성과급 반도체 상반기 임금 근로자 착시 효과"
+  ],
+  [
+   "2026-09-21T07:01:12.110273+09:00",
+   "금리 반도체 훈풍 칠천피 다시 vs 시험대"
   ]
  ],
- "last_run": "2026-09-21T06:51:07.963372+09:00",
+ "last_run": "2026-09-21T07:01:25.887520+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
