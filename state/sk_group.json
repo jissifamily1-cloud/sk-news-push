@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.banronbodo.com/news/articleView.html?idxno=33047",
-  "https://news.bizwatch.co.kr/article/mobile/2026/09/17/0031",
-  "https://www.ajunews.com/view/20260917143808335",
-  "https://www.edaily.co.kr/News/Read?newsId=04700246645581104&mediaCodeNo=257",
-  "https://www.dailian.co.kr/news/view/1691826/?sc=Naver",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=311483",
   "https://www.donga.com/news/Economy/article/all/20260917/134690371/2",
   "https://www.suwonilbo.kr/news/articleView.html?idxno=318293",
@@ -2999,14 +2994,14 @@
   "https://www.kyeongin.com/article/1771204",
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599308",
   "https://www.edaily.co.kr/News/Read?newsId=02735526645582088&mediaCodeNo=257",
-  "https://www.tvreport.co.kr/breaking/article/1077025/"
+  "https://www.tvreport.co.kr/breaking/article/1077025/",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=122182",
+  "https://www.namdonews.com/news/articleView.html?idxno=923995",
+  "https://www.mk.co.kr/article/12157653",
+  "https://www.donga.com/news/Economy/article/all/20260920/134702911/1",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=319969"
  ],
  "seen_titles": [
-  "'국평20억'시대연동탄,매주평균0.63%씩올랐다",
-  "\"HD현대마린솔루션,데이터센터엔진정비독점으로2030년실적폭발시...",
-  "[현장의시각]‘호남반도체’성공이끌수자원公수장,낙하산인선...",
-  "[통신레이더]SKB,AI로TV콘텐츠탐색변화…SKT·LG유플러스,서비스...",
-  "美'더올리고길게간다'…韓銀,최종금리높이나",
   "[이슈진단+][AI속도논쟁③]\"200㎞달려도도로에선100㎞\"…한국AI,...",
   "국제유가오르는데휘발유소비는역대7월최대…최고가격제의역설",
   "김유원네이버클라우드대표\"AI시대사이버보안위해연대해야\"",
@@ -6001,7 +5996,12 @@
   "음악으로증명한최고의순간…클라리네티스트이지민‘35회성정대상...",
   "'2경기연속골'제주SK이탈로\"역사만드는선수가되고싶다\"",
   "“韓기업,정부지원사라져도美투자계속할것”",
-  "노소영관장,안문숙유튜브서포착..털털하게김치맛보고구매까지..."
+  "노소영관장,안문숙유튜브서포착..털털하게김치맛보고구매까지...",
+  "SK온,헝가리CSR시상식서'나눔실천모범상'수상",
+  "\"추석전간부인사\"…전남노조혹평속첫조직'시험대'",
+  "“인천시민·인천유나이티드향한모욕,결단코그냥넘기지않을것”...",
+  "[단독]국내개발칩,통신사AI서비스서하루1400만건이용자요청처리",
+  "김윤선용인특례시의원\"반도체도시용인,이제처인구균형발전준비..."
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,25 @@
   [
    "2026-09-20T19:31:07.363912+09:00",
    "유튜브서 털털하게 관장 포착 노소영 구매까지 보고 안문숙 김치"
+  ],
+  [
+   "2026-09-20T19:41:00.282010+09:00",
+   "시험대 인사 혹평 전남노조 간부 추석전"
+  ],
+  [
+   "2026-09-20T19:41:00.282010+09:00",
+   "결단코 향한 넘기지 그냥 인천 인천시민 모욕 유나이티드 않을"
+  ],
+  [
+   "2026-09-20T19:41:00.282010+09:00",
+   "1400만건 AI서비스서 하루 요청 국내개발 이용자 처리 통신사"
+  ],
+  [
+   "2026-09-20T19:41:00.282010+09:00",
+   "준비 균형발전 이제 김윤선 처인구 반도체 용인 도시 용인특례시의원"
   ]
  ],
- "last_run": "2026-09-20T19:31:19.056281+09:00",
+ "last_run": "2026-09-20T19:41:14.149244+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
