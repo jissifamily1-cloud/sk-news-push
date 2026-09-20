@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609170782&t=NN",
-  "https://www.fnnews.com/news/202609171843389217",
-  "https://www.news1.kr/industry/general-industry/6294478",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16197356",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=743458",
-  "https://www.etoday.co.kr/news/view/2626974",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277229",
   "https://www.fnnews.com/news/202609171651334387",
   "https://www.newsis.com/view/NISX20260917_0003794598",
   "https://gamefocus.co.kr/detail.php?number=179203",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2627700",
   "https://www.yna.co.kr/view/AKR20260921009300011?input=1195m",
   "https://www.cbci.co.kr/news/articleView.html?idxno=607817",
-  "https://www.etoday.co.kr/news/view/2627712"
+  "https://www.etoday.co.kr/news/view/2627712",
+  "https://www.newsis.com/view/NISX20260921_0003797495",
+  "https://www.dailian.co.kr/news/view/1692702/?sc=Naver",
+  "https://www.etoday.co.kr/news/view/2627707",
+  "http://www.datanews.co.kr/news/article.html?no=146583",
+  "https://www.ddaily.co.kr/page/view/2026092107432020467",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435819",
+  "https://www.fntimes.com/html/view.php?ud=202609210753423171141825007d_18"
  ],
  "seen_titles": [
-  "SK온,엘앤에프와1600억원LFP양극재계약…ESS공급망강화",
-  "SK온,LFP소재도국산화…ESS공급망탈중국속도",
-  "엘앤에프,SK온에1천617억원규모공급…LFP양극재사업본격화",
-  "LFP양극재선두엘앤에프,삼성SDI이어SK온도수주…1617억규모",
-  "SK온,엘앤에프서LFP양극재1600억원조달…ESS공략확대",
-  "11번가,추석선물·외식겨냥E쿠폰핫딜프로모션",
-  "SK온,엘앤에프와1,600억규모LFP양극재공급계약",
   "우오현회장,한미동맹재단‘후원기업인증패’수상",
   "韓경제계,美건국250주년축하…\"경제·기술동맹새역사\"(종합)",
   "'인더그레이'가이리치신작,IPTV·VOD극장동시서비스시작",
@@ -6001,7 +5994,14 @@
   "[전날애프터마켓]이엔셀추가상승상한가…삼전·SK하닉소폭반납",
   "[전국주요신문톱뉴스](21일조간)",
   "[속보]엘앤에프,SK온과1617억원규모LFP양극재공급계약…지난해매...",
-  "워커힐김치,해외누적수출량1년만에82톤기록"
+  "워커힐김치,해외누적수출량1년만에82톤기록",
+  "삼성전자·SK하이닉스,프리마켓서1%동반상승",
+  "“뭘볼지고민끝”…SKB,추석연휴‘Btv취향저격’콘텐츠할인",
+  "[오늘의투자전략]코스피7000선재진입시도⋯추석앞두고‘수급공...",
+  "SK브로드밴드,추석맞아BtvVOD할인·맞춤추천강화",
+  "[주간클라우드동향/9월③]국가클라우드보안개편본격화…국정원...",
+  "외인6조폭탄매도도받아냈다…개미몰린'압축ETF'의나비효과",
+  "BeyondSamsungandSKhynix:JusungEngineeringLeadsKoreanChipStoc"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,25 @@
   [
    "2026-09-21T08:13:43.213179+09:00",
    "1년 기록 워커힐 만에 해외 82톤 수출량 김치 누적"
+  ],
+  [
+   "2026-09-21T08:20:58.630264+09:00",
+   "강화 추석 맞아 tv 추천 SK브로드밴드 VOD 할인 맞춤"
+  ],
+  [
+   "2026-09-21T08:20:58.630264+09:00",
+   "클라우드 보안 본격화 국가 개편 국정원"
+  ],
+  [
+   "2026-09-21T08:20:58.630264+09:00",
+   "매도도 몰린 폭탄 압축 ETF 개미 외인 6조 나비효과 받아냈다"
+  ],
+  [
+   "2026-09-21T08:20:58.630264+09:00",
+   "Beyond Engineering Korean Chip hynix Samsung Leads Stocks Jusung and"
   ]
  ],
- "last_run": "2026-09-21T08:13:49.162025+09:00",
+ "last_run": "2026-09-21T08:21:12.182115+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
