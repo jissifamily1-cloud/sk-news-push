@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/news/2026/econo/article/6851000_36932.html",
-  "https://news.tf.co.kr/read/life/2364577.htm",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006825",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549797",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061130",
-  "https://biz.heraldcorp.com/article/10869556",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660266",
   "http://www.stoo.com/article.php?aid=108825376312",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1723839",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/News/Read?newsId=01895846645582416&mediaCodeNo=257",
   "https://view.asiae.co.kr/article/2026092107291877288",
   "https://dealsite.co.kr/articles/169287",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6853204_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6853204_37012.html",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=608458",
+  "https://kpenews.com/View.aspx?No=4235469",
+  "https://www.sedaily.com/article/20093219",
+  "https://biz.heraldcorp.com/article/10879866",
+  "https://www.viva100.com/article/20260921500029",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=84949"
  ],
  "seen_titles": [
-  "공정위,다이소이어올리브영도추가현장조사‥4월이어두번째",
-  "검찰,'홈플러스사태'MBK김병주회장피의자조사",
-  "상장연예기획사대표,기자들포섭한특징주기사로30억대부당이득...",
-  "“승원오빠가교수님과통화”…교수답변은?",
-  "검찰,'수조원대석화제품담합'OCI·LG화학·PCK경영진소환",
-  "보스숨겨주던조직원한방에무너졌다…불법사금융총책,거짓말변호...",
   "강원경찰,양양군의원자택·배우자업체압수수색",
   "연예기획사대표,기자포섭해'30억선행매매'적발…금감원압수수색",
   "[EBN오늘(10일)이슈종합]LIGD&A,뇌물혐의에신규수주부담등",
@@ -6001,10 +5995,16 @@
   "\"중견기업맞춤형정책지원필요\"",
   "대한상의\"수출비중18%차지하는중견기업,맞춤형지원필요\"",
   "15조석화담합뜯어보니PVC가40%…한화·LG양분",
-  "[와글와글플러스]\"전선관위사무총장딸임용취소,위법\""
+  "[와글와글플러스]\"전선관위사무총장딸임용취소,위법\"",
+  "\"통보도영장도없이왜옵니까?\"…쿠팡·한화의정면반격에조사단...",
+  "하나증권“은행주,단기모멘텀크지않지만실적시즌겨냥매수전략...",
+  "조사불응·총파업·농어촌반발…지지율하락에경제개혁동시다발진...",
+  "대한상의“이중적위치처한중견기업,맞춤형정책필요”",
+  "“중견기업,획일적정책대신맞춤형지원필요”",
+  "[시선]\"국감앞두고경찰·국세청칼끝한곳에\"...대웅제약,리베이트..."
  ],
  "recent_sigs": [],
- "last_run": "2026-09-21T07:50:52.158747+09:00",
+ "last_run": "2026-09-21T08:01:06.154256+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
