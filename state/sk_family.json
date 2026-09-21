@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=546856",
-  "https://thetracker.co.kr/View.aspx?No=4219866",
-  "https://www.mt.co.kr/society/2026/09/09/2026090914561791062",
-  "https://www.busan.com/view/busan/view.php?code=2026090915195937488",
-  "https://kookbang.dema.mil.kr/newsWeb/20260909/10/ATCE_CTGR_0010010000/view.do",
-  "https://www.mk.co.kr/article/12135507",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=281373",
-  "http://www.mdilbo.com/detail/c3QycN/758228",
   "https://www.m-i.kr/news/articleView.html?idxno=1405554",
   "https://m.skyedaily.com/news_view.html?ID=311299",
   "https://www.sidae.com/article/2026090914443555662",
@@ -2999,17 +2991,17 @@
   "https://www.hani.co.kr/arti/economy/marketing/1278878.html",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064732",
   "https://www.gokorea.kr/news/articleView.html?idxno=879307",
-  "https://www.ajunews.com/view/20260921160824436"
+  "https://www.ajunews.com/view/20260921160824436",
+  "https://zdnet.co.kr/view/?no=20260921095019",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668742",
+  "https://www.news1.kr/industry/general-industry/6297873",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81295",
+  "http://www.lawissue.co.kr/view.php?ud=20260921153703726d94aa4ada6_12",
+  "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/21/20260921500324?wlog_tag3=naver",
+  "http://www.bizwnews.com/news/articleView.html?idxno=146974",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192312"
  ],
  "seen_titles": [
-  "권혁빈창업자이혼1심,배우자기여도35%인정2조5500억원'사상최...",
-  "최태원,재산분할9440억중7000억수용…2440억만대법재심판요청",
-  "[종합]권혁빈이혼소송1심서2조5500억재산분할...주식35%·현금650억",
-  "권혁빈스마일게이트CVO,배우자에지분35%준다…2조5500억원대재산...",
-  "조정식·최태원'혁신·입법'2인3각속도전...\"주52시간예외\"건의",
-  "국회·경제계‘경제대도약위’출범…최태원“기업혁신·입법속도...",
-  "국회경제대도약위출범…국회·경제계협력체계구축",
-  "속도올리는호남반도체클러스터…기업점검·공항이전·시민결집",
   "SK하이닉스현장점검이어범시민추진위출범…호남반도체클러스터...",
   "국무회의부터군공항후보지심의까지···‘800조반도체’슈퍼위크",
   "SK하이닉스,광주군공항찾았다…호남권반도체클러스터구체화",
@@ -6001,7 +5993,15 @@
   "최태원“인공지능이알아서척해결해주지않는다”",
   "\"생각넘어행동으로\"…'제3회대한민국사회적가치페스타'개막",
   "경제계와정부가손잡았다,'대한민국사회적가치페스타'에서본AI의...",
-  "여야,법사위·산자위서충돌…국토위,홍지선청문보고서채택"
+  "여야,법사위·산자위서충돌…국토위,홍지선청문보고서채택",
+  "최태원\"AI로사회적비용낮춰야…사회문제해결에도보상필요\"",
+  "최태원“AI는강력한해결자”…‘속도조절론’엔말아껴[현장영상]",
+  "사회적가치페스타개막…최태원\"AI,사회문제해결사\"(종합)",
+  "최태원대한상의회장\"AI로사회문제비용낮춰야\"",
+  "경기도의회,지방의회법독자제정안전달…예산·인사자율권강화요...",
+  "경기도의회,국회강명구국회의원방문및지방의회법제정촉구건의안...",
+  "SK그룹SOVAC,대한상의와'대한민국사회적가치페스타'공동개최",
+  "[WIKI현장]최태원SK회장\"AI·자본결합해사회적비용낮춰야…생각..."
  ],
  "recent_sigs": [
   [
@@ -6101,7 +6101,7 @@
    "충돌 채택 법사위 산자위서 국토위 청문보고서 홍지선 여야"
   ]
  ],
- "last_run": "2026-09-21T17:10:28.665981+09:00",
+ "last_run": "2026-09-21T17:20:24.476073+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
