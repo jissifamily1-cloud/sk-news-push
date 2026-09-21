@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260909000650",
-  "https://www.newspim.com/news/view/20260909000642",
-  "https://www.newspim.com/news/view/20260909000641",
-  "https://www.newspim.com/news/view/20260909000640",
-  "https://www.newspim.com/news/view/20260909000639",
-  "https://www.newspim.com/news/view/20260909000633",
-  "https://zdnet.co.kr/view/?no=20260909112908",
   "https://www.newspim.com/news/view/20260909000638",
   "http://www.econonews.co.kr/news/articleView.html?idxno=444086",
   "https://www.newspim.com/news/view/20260909000628",
@@ -2999,16 +2992,16 @@
   "https://www.bizwork.co.kr/news/articleView.html?idxno=419321",
   "https://www.greened.kr/news/articleView.html?idxno=350524",
   "https://news.dealsitetv.com/articles/176205",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16465"
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16465",
+  "http://www.bokuennews.com/news/article.html?no=284510",
+  "http://www.paxetv.com/news/articleView.html?idxno=282407",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=795322",
+  "https://www.dizzotv.com/site/data/html_dir/2026/09/21/2026092180046.html",
+  "https://www.newsis.com/view/NISX20260921_0003797855",
+  "https://www.eroun.net/news/articleView.html?idxno=90552",
+  "http://www.wsobi.com/news/articleView.html?idxno=318518"
  ],
  "seen_titles": [
-  "박수치는조정식국회의장과최태원회장",
-  "'국회경제대도약위원회출범식'",
-  "국회경제대도약위원회'출범'",
-  "손에손잡은'국회·경제계'",
-  "'국회경제대도약위원회출범식'기념촬영",
-  "국회경제대도약위원회출범식'손에손잡고'",
-  "AI속도전에국회도뛴다…최태원\"입법도혁신에발맞춰야\"",
   "대화나누는조정식-김성원-최태원",
   "최태원\"기다리면대도약기회잃어…국회가국내변수줄여달라\"",
   "'경제대도약을위한경제계제언'전달받은조정식국회의장",
@@ -6001,7 +5994,14 @@
   "IPARK현대산업개발,추석연휴대비건설현장안전점검",
   "이혼소송서나온'김옥숙메모'…30년묵은노태우일가비자금다시수...",
   "[재계투데이]SK하이닉스,학력안보는AI해커톤개최外",
-  "최태원SK회장의이혼소송과지분0%후계자최인근의도전"
+  "최태원SK회장의이혼소송과지분0%후계자최인근의도전",
+  "유해균막고유익균지킨다…구강염증치료소재개발",
+  "세브란스병원,'점막모사'생체재료개발...\"유해균억제·미생물균형...",
+  "[건설업계동향]GS건설ㆍ현대엔지니어링ㆍIPARK현대산업개발(9.21)",
+  "IPARK현대산업개발,추석앞두고CEO주관현장안전점검실시",
+  "IPARK현대산업개발,추석앞두고시티오씨엘8단지안전점검",
+  "SOVAC2026,지역격차·청년·인구감소해법논의...AI기반CSR평가도...",
+  "삼성전자·SK,플랙트그룹HVAC생산라인착공·SOVAC2026서지역문제해..."
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-09-21T10:12:39.783616+09:00",
    "보는 개최 SK하이닉스 해커톤 학력 AI"
+  ],
+  [
+   "2026-09-21T10:30:21.894237+09:00",
+   "플랙트그룹 SOVAC HVAC 삼성전자 생산라인 2026서 지역문제 착공"
   ]
  ],
- "last_run": "2026-09-21T10:20:26.344013+09:00",
+ "last_run": "2026-09-21T10:30:34.096085+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
