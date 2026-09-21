@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11615751",
-  "https://www.newscj.com/news/articleView.html?idxno=3431239",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=274710",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=444048",
-  "https://www.news1.kr/world/northeast-asia/6284840",
-  "https://www.goodkyung.com/news/articleView.html?idxno=291180",
-  "https://www.viva100.com/article/20260909500701",
-  "https://www.fnnews.com/news/202609091223206089",
-  "https://www.the-today.com/news/articleView.html?idxno=88196",
   "https://www.businesspost.co.kr/BP?command=article_view&num=446765",
   "https://www.ekn.kr/web/view.php?key=20260909026442478",
   "https://www.ajunews.com/view/20260909122205246",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/AKR20260921089500001?input=1195m",
   "https://www.newsis.com/view/NISX20260921_0003798260",
   "https://www.munhwa.com/article/11618600",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064546"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064546",
+  "https://www.hankyung.com/article/2026092180247",
+  "https://www.yna.co.kr/view/PYH20260921116500013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260921115500013?input=1196m",
+  "https://www.newsis.com/view/NISX20260921_0003797862",
+  "http://www.popcornnews.net/news/articleView.html?idxno=133670",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065585766684648",
+  "https://www.yna.co.kr/view/AKR20260921051100003?input=1195m",
+  "https://www.naeil.com/news/read/603024",
+  "https://view.asiae.co.kr/article/2026092113021311202"
  ],
  "seen_titles": [
-  "“기업현장목소리,입법신속반영”…국회·경제계‘대도약위원회...",
-  "[포토]커피마시는최태원대한상의회장",
-  "[현장]최태원\"기다리면대도약찬스잃어…기업혁신-국회입법속도...",
-  "대한상의,숨은지역기업발굴한다…'지역기업이야기'10일공개",
-  "日반도체키옥시아CEO,SK하이닉스생산제휴일축…\"논의없어\"",
-  "'국회경제대도약위원회'출범⋯\"국회·경제계상시적협력체계구축\"",
-  "용인시의회김희영의원발의,‘용인시국제문화행사지원에관한조례...",
-  "\"지방의회부활35년,껍데기뿐\"…남종섭경기도의장,국회서'지방의회...",
-  "에릭트럼프'서울만찬'…김성집은누구를연결했나..또다른미스테리...",
   "외신\"일본키오시아SK하이닉스와반도체생산논의없어,독점금지법...",
   "최태원“기업혁신속도에입법맞춰야”…국회경제대도약위출범",
   "[포토]경제대도약위원회출범식",
@@ -6001,7 +5992,16 @@
   "산자위,'호남반도체'국감증인채택이견에전체회의취소",
   "국회산자위,국감증인·참고인협상결렬",
   "호남반도체국감놓고…野“대기업총수부르자”與“망신주기”...",
-  "IPARK현대산업개발,추석연휴전'CEO주관안전보건점검'"
+  "IPARK현대산업개발,추석연휴전'CEO주관안전보건점검'",
+  "\"AI,사회문제푸는가장강력한해결사\"…최태원이꺼낸해법",
+  "대한민국사회적가치페스타,개회사하는최태원대한상의회장",
+  "대한민국사회적가치페스타,위로약방부스둘러보는한성숙국무총리",
+  "정부·기업·시민사회'사회문제'해법모색…대한상의,'사회적가치페...",
+  "IPARK현대산업개발,추석앞두고인천시티오씨엘현장안전점검",
+  "정경구IPARK현대산업개발대표,추석앞두고시티오씨엘안전점검",
+  "사회적가치페스타개막…최태원\"AI,강력한사회문제해결사\"",
+  "노소영·최태원이혼소송,904억원수사단서로",
+  "최태원회장\"AI로사회적비용낮춰야…착한마음에만기대선한계\""
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-09-21T12:20:13.123081+09:00",
    "국감 부르자 망신주기 대기업 놓고 총수 반도체 호남"
+  ],
+  [
+   "2026-09-21T13:20:14.854108+09:00",
+   "904억원 수사 이혼소송 단서로"
+  ],
+  [
+   "2026-09-21T13:20:14.854108+09:00",
+   "기대선 사회적 낮춰야 AI로 마음에만 착한 회장 한계 비용"
   ]
  ],
- "last_run": "2026-09-21T13:10:23.536283+09:00",
+ "last_run": "2026-09-21T13:20:29.275077+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
