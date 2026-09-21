@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202608241800343840",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=226077",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637578",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=853169",
-  "https://www.joongangenews.com/news/articleView.html?idxno=546832",
-  "http://www.iminju.net/news/articleView.html?idxno=169279",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=318643",
-  "https://www.donga.com/news/Economy/article/all/20260909/134634700/1",
-  "https://biz.chosun.com/topics/law_firm/2026/09/09/SN5QYFWSGJBRZE7VUZNE4KGEOU/",
-  "https://www.econovill.com/news/articleView.html?idxno=750315",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=204256",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=364754",
   "http://www.metroseoul.co.kr/article/20260909500280",
   "http://www.kjdaily.com/article.php?aid=1787567759685130002",
@@ -2999,20 +2988,20 @@
   "https://www.pressian.com/pages/articles/2026082417101540714",
   "https://www.edaily.co.kr/News/Read?newsId=03132406645582416&mediaCodeNo=257",
   "http://www.segyebiz.com/newsView/20260921510760?OutUrl=naver",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276746"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=276746",
+  "https://www.newspim.com/news/view/20260921000752",
+  "https://www.newspim.com/news/view/20260921000753",
+  "https://www.newspim.com/news/view/20260921000748",
+  "https://www.newspim.com/news/view/20260921000749",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260921141133EBA",
+  "https://www.kmaeil.com/news/articleView.html?idxno=652408",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=795401",
+  "http://www.jndn.com/article.php?aid=1787564027438361003",
+  "https://www.newspim.com/news/view/20260824001186",
+  "https://www.yna.co.kr/view/AKR20260921051101003?input=1195m",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7185342"
  ],
  "seen_titles": [
-  "호남반도체클러스터박차…SK하닉경영진,군공항방문",
-  "최태원,재산분할9,440억중2,440억원만다툰다…상고취지변경신청",
-  "최태원·노소영,재산분할재상고서2440억원만다룬다···7000억원은인...",
-  "최태원-노소영넘었다…권혁빈,재산분할2조5500억판결",
-  "최태원,노소영재산분할분쟁범위축소...9440억중2440억만다툰다",
-  "최태원,재산분할7000억원수긍…2440억원만다툰다",
-  "권혁빈스마일게이트CVO이혼소송1심…배우자에2.5조재산분할",
-  "9440억중7000억인정한최태원…재상고범위2440억으로축소",
-  "[속보]법원“스마일게이트권혁빈이혼소송재산분할2조5500억원”…...",
-  "법원\"스마일게이트권혁빈,이혼후아내에게주식35%분할해야\"",
-  "'국회경제대도약위원회출범식'[포토오늘]",
   "최태원\"최근경쟁은결국속도전\"…국회에'플레잉코치'당부",
   "최태원\"기업혁신·국회입법속도맞춰야\"…경제대도약위출범",
   "SK하이닉스,광주군공항또찾아…반도체클러스터구체화",
@@ -6001,7 +5990,18 @@
   "SK하이닉스경영진,광주군공항또찾았다…호남권반도체클러스터속...",
   "산중위,'국감증인·참고인채택'여야이견…전체회의취소",
   "AI속도조절론?…재계총수들,“AI가미래”한목소리",
-  "[현장]최태원회장\"각영역자본연결해야…협력으로돌파구찾을때..."
+  "[현장]최태원회장\"각영역자본연결해야…협력으로돌파구찾을때...",
+  "한성숙총리-최태원회장,사회적가치페스타참석",
+  "사회적가치전시장둘러보는한성숙총리-최태원회장",
+  "사회적가치페스타찾은한성숙총리-최태원회장",
+  "전시장둘러보는한성숙총리-최태원회장",
+  "'세기의이혼소송'노소영,깜짝근황…자선바자회참가포착",
+  "경기도의회,정책지원관1대1확대등담은지방의회법연내통과촉구",
+  "[위클리오늘]경기도의회,강명구국회의원방문및지방의회법제정촉...",
+  "SK하이닉스,광주군공항방문…반도체투자구체화",
+  "SK하이닉스경영진,광주군공항현장방문…반도체부지점검",
+  "사회적가치페스타개막…최태원\"AI로사회문제효율적해결\"(종합)",
+  "최태원\"AI,강력한사회문제해결사…보상체계결합선순환생태계만..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-09-21T14:10:14.636502+09:00",
    "찾을 연결해야 협력으로 영역 돌파구 자본 회장"
+  ],
+  [
+   "2026-09-21T14:20:12.905353+09:00",
+   "이혼 자선 깜짝 참가 세기의 포착 소송 근황 바자회"
+  ],
+  [
+   "2026-09-21T14:20:12.905353+09:00",
+   "보상체계 선순환 강력한 생태계 사회문제 AI 결합 해결사"
   ]
  ],
- "last_run": "2026-09-21T14:10:28.534294+09:00",
+ "last_run": "2026-09-21T14:20:30.044392+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
