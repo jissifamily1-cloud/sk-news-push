@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyeonggi.com/article/20260916580292",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=444543",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=228138",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117049",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=301239",
   "https://www.techm.kr/news/articleView.html?idxno=155377",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95624",
@@ -2999,13 +2995,13 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=133657",
   "https://www.junggi.co.kr/news/articleView.html?idxno=37850",
   "https://www.joongangenews.com/news/articleView.html?idxno=549619",
-  "https://www.munhwa.com/article/11618594"
+  "https://www.munhwa.com/article/11618594",
+  "https://www.donga.com/news/Economy/article/all/20260921/134709310/1",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=62679",
+  "https://www.nocutnews.co.kr/news/6581272",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269123&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "삼전닉스자사주로버티는증시",
-  "건설사19곳,하도급납품단가1천77억원인상…상생협약성과",
-  "삼성전자·SK하이닉스나란히상승…美AI반도체주강세",
-  "[오늘증시]코스피2%가까이급등6840선…반도체주강세에6800선탈환",
   "[금융권이모저모]KB자산운용,밸류업커버드콜ETF순자산3000억원돌파...",
   "전직원AI교육강화한SK브로드밴드,인재육성우수기관인증",
   "SKT·KT·LG유플러스,추석'통신망관리·경제활성화'앞장",
@@ -6001,7 +5997,11 @@
   "고려대,SKGlobalScholarshipProgram'3기장학증서수여식개최",
   "코스피,추석눈치싸움속7000포인트안착하나",
   "AI가MLCC까지빨아들인다…삼성전기'4조수주'눈앞,주문은2027년까지",
-  "“평탄화아닌상향평준화”…노도강10%↑.경기곳곳‘신고가’"
+  "“평탄화아닌상향평준화”…노도강10%↑.경기곳곳‘신고가’",
+  "SKT,공공AI·빅데이터세미나‘그랜데이터퍼블릭데이’성료",
+  "'학력·경력안본다'…SK하이닉스,총상금'1억원'AI해커톤열어",
+  "[임종률의나고야레터]'군면제?金제외'12년전뼈아팠던예비역캡...",
+  "인천'페리어'슈퍼골덮어버린대전'강윤성'의극장동점골"
  ],
  "recent_sigs": [
   [
@@ -7067,9 +7067,17 @@
   [
    "2026-09-21T12:21:05.843093+09:00",
    "경기 아닌 신고가 상향평준화 노도강 곳곳 평탄화"
+  ],
+  [
+   "2026-09-21T12:31:43.674959+09:00",
+   "제외 예비역 면제 뼈아팠던 12년"
+  ],
+  [
+   "2026-09-21T12:31:43.674959+09:00",
+   "극장 페리어 슈퍼골 인천 덮어버린 대전 동점골 강윤성"
   ]
  ],
- "last_run": "2026-09-21T12:21:20.233903+09:00",
+ "last_run": "2026-09-21T12:31:52.955925+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
