@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260909000627",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608240189&t=NNv",
-  "https://www.sentv.co.kr/article/view/sentv202609090099",
-  "https://www.smarttoday.co.kr/ko-kr/articles/111366",
-  "https://www.mediapen.com/news/view/1122302",
-  "http://www.press9.kr/news/articleView.html?idxno=82438",
-  "https://www.news1.kr/industry/company/6284796",
-  "https://www.newscj.com/news/articleView.html?idxno=3431227",
-  "https://www.newscj.com/news/articleView.html?idxno=3431226",
   "https://www.m-economynews.com/news/article.html?no=70563",
   "http://www.efnews.co.kr/news/articleView.html?idxno=132248",
   "https://www.nocutnews.co.kr/news/6575419",
@@ -2999,18 +2990,18 @@
   "http://www.wsobi.com/news/articleView.html?idxno=318518",
   "https://www.cbci.co.kr/news/articleView.html?idxno=608581",
   "https://www.insight.co.kr/news/574485",
-  "https://www.cstimes.com/news/articleView.html?idxno=721433"
+  "https://www.cstimes.com/news/articleView.html?idxno=721433",
+  "https://www.news1.kr/society/general-society/6297208",
+  "https://www.kwnews.co.kr/article/20260921500127",
+  "https://www.khan.co.kr/article/202609211044001",
+  "https://www.sedaily.com/article/20093328",
+  "https://www.edaily.co.kr/News/Read?newsId=02515766645582416&mediaCodeNo=257",
+  "https://kpenews.com/View.aspx?No=4235698",
+  "http://www.lawissue.co.kr/view.php?ud=2026092110355427767191f6c6e_12",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=866837",
+  "https://view.asiae.co.kr/article/2026092109345071822"
  ],
  "seen_titles": [
-  "국회경제대도약위원회출범식'국민의례'",
-  "삼성SDI,ESS에4조붓는다…\"삼성D9조지분유지\"",
-  "스마일게이트권혁빈이혼소송1심오늘판결…8조재산분할촉각",
-  "키옥시아CEO\"SK하이닉스와생산제휴불가…반독점규제걸림돌\"",
-  "\"이대로가면둘다망한다\"…최태원회장숭부수,\"6조달러한일결합...",
-  "최태원SK회장,EBS강단서'AI시대새자본주의'꺼낸다",
-  "국회대도약위출범…최태원\"변수줄여달라\"조정식\"기업동반자\"(종...",
-  "[포토]국회경제대도약위원회출범식참석한조정식-최태원",
-  "[포토]조정식국회의장-최태원대한상의회장,국회경제대도약위원회...",
   "국회·경제계상시협력체계구축...‘경제대도약위원회’출범",
   "국회-경제계\"기업현장목소리,입법으로잇는다\"...국회경제대도약...",
   "발언하는최태원대한상의회장",
@@ -6001,7 +5992,16 @@
   "삼성전자·SK,플랙트그룹HVAC생산라인착공·SOVAC2026서지역문제해...",
   "[총수家]구자은LS그룹회장ㅣ'AI혁신'앞세운미래가치도약…신사...",
   "노소영,30년만에세번째'검찰조사'...이번엔'904억비자금메모'",
-  "제3회대한민국사회적가치페스타개막…SOVAC,'로컬·AI'중심으로상..."
+  "제3회대한민국사회적가치페스타개막…SOVAC,'로컬·AI'중심으로상...",
+  "'9440억재산분할'노소영깜짝근황…안문숙\"충성\"외치며반겼다",
+  "‘2026아티스트레지던시강릉’참여작가5명선정",
+  "유익·유해균닥치는대로죽이는대신···미생물균형유지하는염증...",
+  "“유해균만골라잡는다”…연세대,구강염증잡는생체재료개발",
+  "'유해균만골라잡는'혁신생체재료개발,구강염증치료새길열다",
+  "IPARK현대산업개발,추석연휴안전사고예방나서..CEO현장안전점검",
+  "IPARK현대산업개발,추석앞두고CEO현장안전점검",
+  "충주시새마을회,취약계층에미끄럼방지패드설치",
+  "\"고동진\"호남반도체는선거용…완공때면시장달라질수도\"[AI룰메이..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-09-21T10:40:16.051418+09:00",
    "가치 중심으로 대한민국 AI 로컬 페스타 SOVAC 사회적 제3회 개막"
+  ],
+  [
+   "2026-09-21T10:50:17.640561+09:00",
+   "선거용 완공 달라질 수도 때면 반도체는 호남 시장 고동진 AI룰메이"
   ]
  ],
- "last_run": "2026-09-21T10:40:28.710912+09:00",
+ "last_run": "2026-09-21T10:50:29.884986+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
