@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3051176",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7183647",
-  "http://www.joynews24.com/view/2004509",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660880",
-  "https://www.slist.kr/news/articleView.html?idxno=765359",
-  "https://news.jtbc.co.kr/article/NB12317853?influxDiv=NAVER",
-  "http://www.inews24.com/view/2004533",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486068",
   "https://news.tf.co.kr/read/national/2364676.htm",
   "https://www.lawtv.kr/news/articleView.html?idxno=60911",
@@ -2999,16 +2992,16 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000013994&cp=nv",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1538167",
   "https://www.hinews.co.kr/view.php?ud=202609211033357176cd8b879b3c_48",
-  "https://www.insight.co.kr/news/574485"
+  "https://www.insight.co.kr/news/574485",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=64661",
+  "https://www.etoday.co.kr/news/view/2627914",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154439",
+  "http://www.amnews.co.kr/news/articleView.html?idxno=74646",
+  "https://www.livesnews.com/news/article.html?no=64383",
+  "https://www.newdaily.co.kr/site/data/html/2026/09/21/2026092100121.html",
+  "https://view.asiae.co.kr/article/2026091816530875921"
  ],
  "seen_titles": [
-  "[AP미디어동향9월2주]인터넷신문광고문제,시민사회와손잡다",
-  "검찰,'석유제품담합의혹'OCI부회장피의자조사",
-  "'그것이알고싶다'살인병동527,은밀한낙태비즈니스실체",
-  "‘위증지시’로불송치됐던불법사금융총책…조직원자백에덜미",
-  "'그알'36주산모임신중절영상,암암리에이뤄지는낙태비즈니스",
-  "검찰,'신약청탁'수사때김승원외이낙연등야권전방위겨냥",
-  "대성건설·디에스종합건설,\"20%할인분양\"거짓광고로공정위제재",
   "檢,석화업계담합의혹수사경영진으로확대…주요업체잇단소환",
   "실종사건허위종결제주경찰관,여자화장실침입혐의도검찰로",
   "'홈플러스사태'김병주MBK회장검찰서피의자조사받아",
@@ -6001,7 +5994,14 @@
   "휴대폰넘기고“잃어버렸다”…보험악용‘휴대폰깡’136명송치",
   "경찰,이기흥전대한체육회장'무혐의'…불송치",
   "LGU+해킹의혹,제보받고서버폐기·OS재설치…경찰수사10개월째",
-  "노소영,30년만에세번째'검찰조사'...이번엔'904억비자금메모'"
+  "노소영,30년만에세번째'검찰조사'...이번엔'904억비자금메모'",
+  "[이슈인터뷰]김경식소장\"한전·발전사단순재통합은시대역행…지...",
+  "[ESGX이슈5]폭염에의류공장매출4.1%증발…냉방투자는4년이면회...",
+  "\"중소기업엔고객사,대기업엔협력사\"···중견기업,'양쪽역할'에맞...",
+  "서울고법,산란계협회'계란담합'처분집행정지",
+  "서울고법,대한산란계협회‘계란담합’금지행위처분집행정지",
+  "세기의이혼소송빌미'노태우비자금'다시캐는檢…35년만국고환...",
+  "신뢰흔들린에이비엘바이오,8개월새시총10조증발"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "상습법위반사업자 SK오션플랜트 하도급법 불복했지만 기각"
   ]
  ],
- "last_run": "2026-09-21T10:50:58.420246+09:00",
+ "last_run": "2026-09-21T11:01:12.689528+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
