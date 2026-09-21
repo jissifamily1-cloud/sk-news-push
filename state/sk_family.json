@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485450",
-  "https://game.donga.com/124196/",
-  "https://theviewers.co.kr/View.aspx?No=4219877",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260909.99099002956",
-  "https://www.ngonews.kr/news/articleView.html?idxno=237653",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266605",
-  "https://www.yna.co.kr/view/AKR20260909119751004?input=1195m",
-  "https://www.dailian.co.kr/news/view/1688319/?sc=Naver",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091057361920109549",
   "https://www.viva100.com/article/20260909500741",
   "https://www.youthdaily.co.kr/news/article.html?no=226751",
   "https://www.hankookilbo.com/news/article/A2026090910220005731?did=NA",
@@ -2999,18 +2990,18 @@
   "https://www.newsworker.co.kr/news/articleView.html?idxno=505402",
   "http://www.wsobi.com/news/articleView.html?idxno=318567",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645056",
-  "https://news.mtn.co.kr/news-detail/2026092115182323496"
+  "https://news.mtn.co.kr/news-detail/2026092115182323496",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472900",
+  "http://www.newstomato.com/ReadNews.aspx?no=1314415&inflow=N",
+  "http://www.metroseoul.co.kr/article/20260921500501",
+  "https://www.mediapen.com/news/view/1125103",
+  "https://magazine.hankyung.com/business/article/202609218572b",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076133",
+  "http://www.gjdream.com/news/articleView.html?idxno=672087",
+  "https://www.newscj.com/news/articleView.html?idxno=3427430",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154503"
  ],
  "seen_titles": [
-  "“대승적차원”…최태원,노소영9440억재산분할중2440억만대법판...",
-  "세기의이혼2.5조재산분할…스마일게이트권혁빈이혼[세상&]",
-  "[현장]스마일게이트권혁빈이혼…배우자에'역대최대'2.5조재산분할",
-  "법원,스마일게이트권혁빈이혼청구인용…재산분할2조5500억원",
-  "법원,스마일게이트권혁빈이혼인용…재산분할2.5조원'역대최대'",
-  "법원“권혁빈이혼성립”…아내에재산분할2조원이상",
-  "법원\"권혁빈스마일게이트창업자,재산분할로아내에게주식35%지급...",
-  "법원,스마일게이트권혁빈이혼…\"배우자에주식2.5조·현금650억지...",
-  "법원\"스마일게이트권혁빈이혼\"…재산분할2조5천억원(종합)",
   "최태원,노소영재산분할7000억인정…2440억만다투기로",
   "[더벨]최태원“국회가국내변수줄여줘야”…실트론매각엔침묵",
   "국회-경제계,상시협력체'대도약위원회'출범",
@@ -6001,7 +5992,16 @@
   "[2026국감]②개인정보·해킹으로불려올기업인은…SKT정재헌,GS허서...",
   "IPARK현대산업개발,추석맞아협력사대금조기지급·CEO현장안전점...",
   "SK하이닉스광주군공항부지공동점검",
-  "최태원\"사회문제푸는게돈되는구조만들어야\""
+  "최태원\"사회문제푸는게돈되는구조만들어야\"",
+  "\"각자해결에서함께해결로\"···제3회대한민국사회적가치페스타개...",
+  "최태원“AI로사회문제해결”…사회적가치페스타개막",
+  "최태원\"AI로사회문제해법찾아야…성과측정·보상필요\"",
+  "‘김옥숙메모’의역풍...'안방비자금'칼날,이혼소송자충수",
+  "정경구IPARK현대산업개발대표,인천건설현장안전직접챙겨",
+  "IPARK현산AI스마트점검53억대금선지급단행",
+  "호남반도체총력전…범시민추진위출범·SK군공항현장점검",
+  "SK하이닉스,광주군공항현장점검…투자규모·시기는미정",
+  "최태원\"AI로사회문제비용낮춰야\"···사회적가치페스타개막"
  ],
  "recent_sigs": [
   [
@@ -6105,7 +6105,7 @@
    "사회문제 구조 되는 푸는 만들어야"
   ]
  ],
- "last_run": "2026-09-21T15:50:27.186192+09:00",
+ "last_run": "2026-09-21T16:00:40.841144+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
