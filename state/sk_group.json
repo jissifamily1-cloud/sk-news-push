@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=311039",
-  "https://www.mk.co.kr/article/12156727",
-  "https://economist.co.kr/article/view/ecn202609180040",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=210024",
   "https://www.woodkorea.co.kr/news/articleView.html?idxno=91460",
   "https://www.sedaily.com/article/20092784",
   "https://www.g-enews.com/view.php?ud=202609181719407979923c501012_1",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20260921_0003799037",
   "https://www.sidae.com/article/2026091812180398691",
   "https://www.newsis.com/view/NISX20260921_0003799220",
-  "https://www.mt.co.kr/finance/2026/09/22/2026092121554592355"
+  "https://www.mt.co.kr/finance/2026/09/22/2026092121554592355",
+  "https://www.seoul.co.kr/news/economy/2026/09/22/20260922500005?wlog_tag3=naver",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764139",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311687",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=79285"
  ],
  "seen_titles": [
-  "최태원이그린'AI시티울산'…데이터센터와공장을넘어시민의일상까...",
-  "반도체밸류체인구축…두산그룹株잘나가네",
-  "SK증권,전문가에연금맡기는‘연금저축랩’출시",
-  "SK온,엘앤에프LFP양극재공급계약···서산·조지아생산라인투입",
   "SK쉴더스,선제적침해사고대응체계구축해기업침해사고예방지원",
   "SK하이닉스,실리콘밸리에‘SK하이닉스벤처스’출범",
   "금투협\"레버리지ETF도입,외부입김없어..단순참고자료\"",
@@ -6001,7 +5997,11 @@
   "'셀코리아'이제끝?…외국인수급확대신호켜졌다",
   "[시대리포트]한국제조현장,피지컬AI승부처",
   "[오늘의주요일정]사회(9월22일화요일)",
-  "\"회사채보다싸게빌리자\"기업노크에…\"금리깎아줄게\"은행문활짝"
+  "\"회사채보다싸게빌리자\"기업노크에…\"금리깎아줄게\"은행문활짝",
+  "[서울데이터랩]미국증시,기술주·반도체강세에일제히상승마감…...",
+  "온누리상품권준다더니3달째무소식…삼성전자지급지연에고객센터...",
+  "나스닥사상최고치…반도체주급등에미증시일제상승",
+  "Vagelos,Cuss그리고윤승용…의사가만든신약의길"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,21 @@
   [
    "2026-09-22T06:11:07.463664+09:00",
    "회사채보다 활짝 빌리자 노크에 은행 기업 싸게 금리 깎아줄게"
+  ],
+  [
+   "2026-09-22T06:21:01.442949+09:00",
+   "온누리 상품권 3달째 삼성전자 지연에 무소식 지급 고객센터 준다더니"
+  ],
+  [
+   "2026-09-22T06:21:01.442949+09:00",
+   "최고치 급등에 상승 일제 반도체주 나스닥 사상 증시"
+  ],
+  [
+   "2026-09-22T06:21:01.442949+09:00",
+   "Cuss 그리고 만든 윤승용 Vagelos 의사가 신약의"
   ]
  ],
- "last_run": "2026-09-22T06:11:57.186905+09:00",
+ "last_run": "2026-09-22T06:21:12.696719+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
