@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tournews21.com/news/articleView.html?idxno=143023",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16465",
-  "https://www.naeil.com/news/read/600883",
-  "https://www.newspim.com/news/view/20260909000460",
-  "https://www.etoday.co.kr/news/view/2623515",
-  "https://magazine.hankyung.com/business/article/202609093616b",
   "https://www.newspim.com/news/view/20260909000646",
   "https://www.newspim.com/news/view/20260909000650",
   "https://www.newspim.com/news/view/20260909000642",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/world/2026/09/21/2026092109084137087",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=365856",
   "https://view.asiae.co.kr/article/2026092109565285369",
-  "https://www.thebigdata.co.kr/view.php?ud=202609210930124656df3c2a17b7_23"
+  "https://www.thebigdata.co.kr/view.php?ud=202609210930124656df3c2a17b7_23",
+  "http://www.medical-tribune.co.kr/news/articleView.html?idxno=215227",
+  "https://www.edaily.co.kr/News/Read?newsId=02391126645582416&mediaCodeNo=257",
+  "http://www.ikld.kr/news/articleView.html?idxno=341062",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=419321",
+  "https://www.greened.kr/news/articleView.html?idxno=350524",
+  "https://news.dealsitetv.com/articles/176205"
  ],
  "seen_titles": [
-  "김희영용인시의원발의'국제문화행사지원조례'본회의통과",
-  "최태원SK회장의이혼소송과지분0%후계자최인근의도전",
-  "부고",
-  "'신발덕후고3'이세운무신사…20년만에10조IPO도전하는조만호",
-  "[종합]국회·경제계‘경제대도약위’출범…“기업혁신·투자동반자...",
-  "최태원\"기업혁신속도와입법속도맞춰야…'플레잉코치'역할해달라...",
   "경제대도약위원회출범식인사말하는최태원회장",
   "박수치는조정식국회의장과최태원회장",
   "'국회경제대도약위원회출범식'",
@@ -6001,7 +5995,13 @@
   "입속유해균죽이고유익균살린다…구강염증치료신소재개발",
   "IPARK현대산업개발,추석앞두고CEO주관현장안전점검…\"연휴비상상...",
   "정경구IPARK현대산업개발대표,추석연휴앞두고인천현장안전챙겨",
-  "IPARK현대산업개발,추석연휴전사고예방CEO현장점검...소비자관심..."
+  "IPARK현대산업개발,추석연휴전사고예방CEO현장점검...소비자관심...",
+  "구강염증유해균만잡아내는신소재개발",
+  "IPARK현대산업개발,추석전CEO현장안전점검…\"연휴사고예방\"",
+  "IPARK현대산업개발,추석연휴전CEO현장점검실시",
+  "IPARK현대산업개발,추석연휴대비건설현장안전점검",
+  "이혼소송서나온'김옥숙메모'…30년묵은노태우일가비자금다시수...",
+  "[재계투데이]SK하이닉스,학력안보는AI해커톤개최外"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,17 @@
   [
    "2026-09-21T08:50:12.249923+09:00",
    "선상 자료가 수사 은닉 재산분할 소송 비자금 받으려던"
+  ],
+  [
+   "2026-09-21T10:12:39.783616+09:00",
+   "메모 일가 나온 다시 이혼소송서 묵은 김옥숙 노태우 30년 비자금"
+  ],
+  [
+   "2026-09-21T10:12:39.783616+09:00",
+   "보는 개최 SK하이닉스 해커톤 학력 AI"
   ]
  ],
- "last_run": "2026-09-21T10:10:26.244997+09:00",
+ "last_run": "2026-09-21T10:12:57.473155+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
