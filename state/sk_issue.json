@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/bio/welfare-medical/6287473",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266436&CMPT_CD=P0010",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84599",
-  "https://www.news1.kr/society/court-prosecution/6287483",
-  "https://www.chosun.com/national/court_law/2026/09/11/SB3WHC2S35DJFI662S4SMRP464/",
-  "https://biz.heraldcorp.com/article/10870416",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16693",
   "https://www.hankookilbo.com/news/article/A2026091007290004051?did=NA",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=853439",
   "https://www.news1.kr/society/court-prosecution/6287518",
@@ -2999,16 +2992,16 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=122219",
   "http://www.iminju.net/news/articleView.html?idxno=169811",
   "https://www.beopbo.com/news/articleView.html?idxno=337923",
-  "http://www.lak.co.kr/news/boardview.php?id=23957"
+  "http://www.lak.co.kr/news/boardview.php?id=23957",
+  "https://www.newspim.com/news/view/20260921000453",
+  "https://www.naeil.com/news/read/602964",
+  "https://www.naeil.com/news/read/603028",
+  "https://www.safetynews.co.kr/news/articleView.html?idxno=250670",
+  "https://www.naeil.com/news/read/603024",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064660",
+  "https://www.naeil.com/news/read/603020"
  ],
  "seen_titles": [
-  "오유경식약처장\"제넨셀임상승인특혜없어…검찰도무혐의\"",
-  "\"의성군수의계약의혹,경찰은엄정수사해야\"",
-  "\"56분만에조작된가짜뉴스\"…시민사회단체,'DK도시개발·홍보대행사...",
-  "검찰,김병기구속영장보완수사요구…\"구속필요성소명부족\"",
-  "[속보]檢,김병기구속영장보완수사요구“구속필요성소명부족”",
-  "[속보]검찰,김병기구속영장보완수사요구…“구속필요성소명부족...",
-  "EU,27일부터환경성광고규제본격화...국내수출기업도점검해야",
   "'종이값담합'손배소앞두고제지업계에견제구날린출판계,왜?",
   "檢,김병기구속영장에보완수사요구…\"구속필요성소명부족\"",
   "檢,김병기구속영장에보완수사요구…\"구속필요성소명부족\"(종합)",
@@ -6001,7 +5994,14 @@
   "공정위,반복담합공공입찰제한기준강화…기간5년→10년",
   "與,한동훈에\"검찰기밀자료누구에게받았나…수사대상\"",
   "경찰,이기흥전체육회장에대해무혐의결정",
-  "반복입찰담합업체,공공조달시장서제한강화"
+  "반복입찰담합업체,공공조달시장서제한강화",
+  "20년만에또석화담합의혹…가격결정관행도마",
+  "“공정위제재로2차피해”…다비치안경점주반발",
+  "“대기업협력사이자중소기업고객사”",
+  "하청노동자끼임사망한HL만도…노동부감독서같은유형안전위반...",
+  "노소영·최태원이혼소송,904억원수사단서로",
+  "경찰,이기흥전대한체육회장불송치…\"증거불충분\"",
+  "경찰,이기흥전체육회장사건불송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "상습법위반사업자 SK오션플랜트 하도급법 불복했지만 기각"
   ]
  ],
- "last_run": "2026-09-21T13:10:52.039881+09:00",
+ "last_run": "2026-09-21T13:20:59.902085+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
