@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260921000080",
-  "https://www.greened.kr/news/articleView.html?idxno=350524",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488976",
-  "https://biz.heraldcorp.com/article/10880198",
-  "https://www.newsis.com/view/NISX20260918_0003796379",
-  "https://www.m-economynews.com/news/article.html?no=70772",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81183",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276558",
   "http://www.wsobi.com/news/articleView.html?idxno=318518",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277383",
@@ -2999,16 +2992,16 @@
   "https://www.slist.kr/news/articleView.html?idxno=768242",
   "https://biz.sbs.co.kr/article_hub/20000336381?division=NAVER",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=867407",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7184827"
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7184827",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6853692_37012.html",
+  "https://www.etoday.co.kr/news/view/2628839",
+  "https://www.newsis.com/view/NISX20260923_0003801207",
+  "https://kjmbc.co.kr/NewsArticle/1538218",
+  "https://view.asiae.co.kr/article/2026092211273703837",
+  "http://www.breaknews.com/1238774",
+  "https://www.g-enews.com/view.php?ud=2026092307312350602bd56fbc3c_1"
  ],
  "seen_titles": [
-  "수은,HD현대오일뱅크·SK에너지원유자금한도확대…중동전대응",
-  "이혼소송서나온'김옥숙메모'…30년묵은노태우일가비자금다시수...",
-  "우리기술투자,토큰증권인프라·플랫폼투자결실...차세대금융판도...",
-  "서금원,AI로재무상태·신용관리맞춤형‘금융건강검진’추진",
-  "미국·헝가리누비는교실…울산과학대취업률'날개'",
-  "현금늘리고이연분조기지급…SK하이닉스노사,임단협극적타결",
-  "[HotIssue]SKCheyTae-wonAppealsProsecutor'sDecisionNottoIndic",
   "SKInnovationHostsYouthClimateStartupWeek",
   "삼성전자·SK,플랙트그룹HVAC생산라인착공·SOVAC2026서지역문제해...",
   "[개장시황]코스피,6,930선회복하며7,000선재도전발판마련…반도...",
@@ -6001,7 +5994,14 @@
   "'오케이마담2'극장동시IPTV·VOD서비스시작",
   "[마켓프리뷰]개인매도'AI훈풍'빗겨간코스피…7천피'턱걸이'",
   "석화249만톤줄인다…이제는'수요싸움'",
-  "[뉴(NEW)희망의시대]한미동맹새공식'프렌드쇼어링'…K반도체·철강..."
+  "[뉴(NEW)희망의시대]한미동맹새공식'프렌드쇼어링'…K반도체·철강...",
+  "뉴욕증시,미-이란관계주시속혼조마감",
+  "[전날애프터마켓]삼성전자·현대차0.4%↑⋯시총상위주정규장대비...",
+  "[오늘의증시]美반도체랠리에코스피나흘연속상승전망",
+  "（수정）2026_9_23오늘의주요뉴스",
+  "[이주의관.종]'전자'가견인하는두산…AI사이클탑승",
+  "[수급검증]선물2조샀다고‘반등베팅’?…SK하이닉스미결제약정9....",
+  "ACEA,EU·영국배터리원산지규정2029년까지유예"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,33 @@
   [
    "2026-09-23T07:40:59.896279+09:00",
    "프렌드쇼어링 반도체 한미동맹 철강 새공식"
+  ],
+  [
+   "2026-09-23T07:51:40.186049+09:00",
+   "상위주 삼성전자 현대차 대비 정규장 시총"
+  ],
+  [
+   "2026-09-23T07:51:40.186049+09:00",
+   "반도체 코스피 상승 연속 랠리에 나흘 전망"
+  ],
+  [
+   "2026-09-23T07:51:40.186049+09:00",
+   "주요뉴스 오늘의 수정"
+  ],
+  [
+   "2026-09-23T07:51:40.186049+09:00",
+   "AI 사이클 전자 두산 탑승 견인하는"
+  ],
+  [
+   "2026-09-23T07:51:40.186049+09:00",
+   "미결제약정 베팅 반등 2조 선물 샀다고 SK하이닉스"
+  ],
+  [
+   "2026-09-23T07:51:40.186049+09:00",
+   "ACEA 배터리 원산지 2029년까지 유예 규정 EU 영국"
   ]
  ],
- "last_run": "2026-09-23T07:41:20.127622+09:00",
+ "last_run": "2026-09-23T07:51:58.807888+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
