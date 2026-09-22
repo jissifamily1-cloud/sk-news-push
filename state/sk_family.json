@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediawatch.kr/news/article.html?no=260966",
-  "https://www.smarttoday.co.kr/ko-kr/articles/111393",
-  "https://www.socialvalue.kr/news/view/1065597712275995",
-  "http://www.press9.kr/news/articleView.html?idxno=82477",
   "https://www.ajunews.com/view/20260909161549025",
   "http://www.newstomato.com/ReadNews.aspx?no=1313130&inflow=N",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/09/2026090990196.html",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10881853",
   "https://www.ajunews.com/view/20260922102807304",
   "https://www.dt.co.kr/article/12085353",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88827"
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88827",
+  "https://www.k-health.com/news/articleView.html?idxno=101322",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363640",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200570",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=276991"
  ],
  "seen_titles": [
-  "[판결]권혁빈스마일게이트창업자이혼…재산분할2조5500억원",
-  "최태원,재산분할상고범위축소…대법원서2440억원만다툰다",
-  "최태원SK회장,재산분할금9440억중2240억원만대법서다툰다",
-  "최태원“국내불확실성줄여달라”…기업혁신에필요한법·제도개...",
   "최태원,재산분할7000억원수용..2440억원만대법서다툰다",
   "국내이혼재산분할최고액나와…법원,'스마일게이트'권혁빈에2.5조...",
   "최태원,해외반도체공장검토속\"국내변수줄여달라\"",
@@ -6001,7 +5997,11 @@
   "“사회문제해결하면합당한보상해주는구조필요”",
   "산자위,이소영청문보고서여야합의채택…野,부적격의견",
   "이소영중기장관후보자경과보고서채택…청문회후1주일만",
-  "[동아시아문화센터를묻다①]152억원출연금의경로"
+  "[동아시아문화센터를묻다①]152억원출연금의경로",
+  "경기도의회,지방의회법제정촉구건의안전달",
+  "이소영중기장관후보자,청문문턱넘었다…'부적격'우려병기",
+  "[노태우'안방비자금'의수상한흐름①]김옥숙,재단에147억출연...이...",
+  "\"커피한잔에도AI얘기\"…SK그룹일상화두된'AX'"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-09-22T11:20:14.241829+09:00",
    "경로 152억원 출연금의"
+  ],
+  [
+   "2026-09-22T11:31:00.412419+09:00",
+   "AI 화두 AX 일상 커피 한잔에도 얘기"
+  ],
+  [
+   "2026-09-22T11:31:00.412419+09:00",
+   "147억 출연 김옥숙 재단에"
   ]
  ],
- "last_run": "2026-09-22T11:20:27.069841+09:00",
+ "last_run": "2026-09-22T11:31:16.707600+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
