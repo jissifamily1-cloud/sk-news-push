@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yakup.com/news/index.html?cat=12&nid=332798",
-  "https://www.insight.co.kr/news/574425",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210022&t=NN",
-  "https://www.ajunews.com/view/20260921065142474",
-  "http://www.jbsori.com/news/articleView.html?idxno=17918",
-  "https://biz.sbs.co.kr/article_hub/20000335770?division=NAVER",
-  "https://www.sedaily.com/article/20093187",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725000",
   "https://www.segye.com/newsView/20260920511219?OutUrl=naver",
   "https://dealsite.co.kr/articles/169074",
   "https://www.khan.co.kr/article/202609210700001",
@@ -2999,17 +2991,17 @@
   "https://www.ppss.kr/news/articleView.html?idxno=312197",
   "https://www.fnnews.com/news/202609221846217010",
   "https://www.rcast.co.kr/news/articleView.html?idxno=31701",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489732"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489732",
+  "https://www.topdaily.kr/articles/111862",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725432",
+  "https://www.etoday.co.kr/news/view/2628795",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170728",
+  "https://www.livebiz.today/news/articleView.html?idxno=205073",
+  "https://www.kpinews.kr/newsView/1065602460769280",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607218808067",
+  "http://coinreaders.com/259641"
  ],
  "seen_titles": [
-  "아이씨엠“ICM-203,골관절염치료패러다임바꾸는DMOAD로키운다”",
-  "SK사회적가치연구원,사회공헌효과AI로금액환산...SOVAC서첫공개",
-  "삼전닉스개미들'초긴장'...자사주매입\"끝이보인다\"",
-  "[아주증시포커스]美금리인상·유가급등에출렁…미중정상회담·추석...",
-  "\"경력지우고신입으로입사하려는'중고신입','취업N수','하닉고시...",
-  "[증시전략]미·중정상회담,시진핑건강이변수…AI모멘텀은?",
-  "상반기근로자임금3.1%올랐지만…“반도체성과급착시효과”",
-  "칠천피다시시험대…반도체훈풍vs美금리5%",
   "삼전닉스자사주매입,10월종료되나…코스피‘10월변동성’예고...",
   "[단종레국부유출백서]'코리아프리미엄'위해…맹견목줄도없이푼...",
   "연휴전에살까?팔까?7000선앞둔코스피어디로",
@@ -6001,13 +5993,17 @@
   "삼성·SK하이닉스3분기영업익190조전망…다음승부는HBM4",
   "고객이믿고쓰도록…SKT,자체신뢰지표만든다",
   "한국투자증권,대학생모의투자대회'한투모투배틀'개최外",
-  "[코스피지수선물옵션]반도체부터방산까지엇갈렸다…삼성전자·SK하..."
+  "[코스피지수선물옵션]반도체부터방산까지엇갈렸다…삼성전자·SK하...",
+  "[TOP'sPick][전자·IT]삼성전자,미스트랄AI와전략적파트너십체결...",
+  "홍지선국토부장관첫행보는3기신도시…\"계획보다실행이중요\"",
+  "홍지선국토장관,첫현장행보로3기신도시부천대장방문…“공급은...",
+  "SK온,포스코퓨처엠서1.1조원치LFP양극재조달",
+  "SK하이닉스,美인디애나HBM공장'인허가'문제로발목잡히나'...법정...",
+  "\"삼전닉스만가는장끝났다\"…추석이후'강한시장'온다",
+  "SK온,1.1조'LFP배터리소재'동맹…美ESS서중국지운다",
+  "샌디스크(SNDK),AI데이터업고S&P100입성...1,805달러저항시험개..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-22T13:01:23.055148+09:00",
-   "비상선언 재정 전임 수술 추미애 아닌 응급 살리자는 지사"
-  ],
   [
    "2026-09-22T13:21:05.890748+09:00",
    "물류 세계 북극까지 파나마에서"
@@ -6947,9 +6943,17 @@
   [
    "2026-09-22T19:01:20.640769+09:00",
    "엇갈렸다 삼성전자 반도체부터 SK하 방산까지"
+  ],
+  [
+   "2026-09-22T19:11:05.595929+09:00",
+   "LFP 중국 소재 배터리 1조 지운다 SK온 ESS서 동맹"
+  ],
+  [
+   "2026-09-22T19:11:05.595929+09:00",
+   "SNDK 입성 AI 샌디스크 업고 데이터 805달러 저항 시험"
   ]
  ],
- "last_run": "2026-09-22T19:01:44.979832+09:00",
+ "last_run": "2026-09-22T19:11:15.238087+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
