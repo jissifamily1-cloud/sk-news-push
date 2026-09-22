@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260921000054",
-  "https://www.yna.co.kr/view/AKR20260921026100030?input=1195m",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/21/2026092100062.html",
-  "https://www.betanews.net/article/view/beta202609210013",
-  "http://www.inews24.com/view/2007674",
-  "https://www.livesnews.com/news/article.html?no=64377",
   "https://sateconomy.co.kr/news/view/1065573447153004",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573470717084",
   "http://www.bokuennews.com/news/article.html?no=284481",
@@ -2999,15 +2993,15 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221427568780167",
   "https://www.bosa.co.kr/news/articleView.html?idxno=3011763",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725255",
-  "https://www.newsis.com/view/NISX20260922_0003800761"
+  "https://www.newsis.com/view/NISX20260922_0003800761",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764025",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764547",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764419",
+  "https://www.news1.kr/industry/sb-founded/6294440",
+  "https://www.kmecnews.co.kr/news/articleView.html?idxno=51961",
+  "https://www.news1.kr/realestate/general/6299038"
  ],
  "seen_titles": [
-  "SKT,'그랜드퍼블릭데이2026'개최…공공AI활용사례공유",
-  "SK스토아,경력쇼호스트공개모집…커머스경쟁력강화",
-  "미중정상회담·유엔총회'슈퍼위크'앞두고…코스피장중7000재진입...",
-  "SOVAC2026,‘지역의미래’주제로코엑스서개최…대한민국사회적가...",
-  "SK오션플랜트,하도급법'상습법위반사업자'불복했지만기각",
-  "대기업9곳,농어촌상생기금출연701억원그쳐",
   "[증권업소식]삼성자산운용·키움·KB·대신·한국투자·NH투자증권",
   "AI올라탄삼성·SK,조선잡은HD현대…‘돈되는산업’이그룹운명...",
   "건보공단,사용량-약가연동'유형다'협상완료…80개품목약가인하",
@@ -6001,7 +5995,13 @@
   "[C의공습]①K-배터리텃밭파고든中…‘기술수출’로미국시장공략",
   "시장선점하려는다국적제약사'맞불작전'",
   "'101만원더비싸도산다'…통신3사,아이폰듀오선점경쟁",
-  "AI글래스1년새3.6배…96%는‘화면없는안경’"
+  "AI글래스1년새3.6배…96%는‘화면없는안경’",
+  "피해액전액보상vs.자체쿠폰살포…개인정보유출기업CEO들국회국...",
+  "\"단일종목레버리지ETF누가밀어붙였나\"…국회,박현주·김남구·김용...",
+  "현대·롯데건설도시정비'순항'vs.삼성물산·포스코이앤씨'막판스퍼...",
+  "\"AI메모리증설에공정실적쌓였다\"…솔브레인,호실적배경[실적why]",
+  "SK하이닉스,활황에도불구공사대금어음지급논란",
+  "불황에도10대건설사7곳신입공채…원전·데이터센터인재확보전"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,33 @@
   [
    "2026-09-23T06:11:01.400273+09:00",
    "6배 AI 화면 없는 1년 글래스 안경"
+  ],
+  [
+   "2026-09-23T06:21:00.213001+09:00",
+   "CEO들 살포 쿠폰 개인정보 자체 국회 기업 피해액 전액 보상 vs 유출"
+  ],
+  [
+   "2026-09-23T06:21:00.213001+09:00",
+   "ETF 단일종목 김남구 국회 김용 레버리지 밀어붙였나 누가 박현주"
+  ],
+  [
+   "2026-09-23T06:21:00.213001+09:00",
+   "현대 도시정비 롯데건설 포스코이앤씨 vs 순항 삼성물산 스퍼 막판"
+  ],
+  [
+   "2026-09-23T06:21:00.213001+09:00",
+   "AI 솔브레인 실적 쌓였다 호실적 증설에 메모리 배경 공정"
+  ],
+  [
+   "2026-09-23T06:21:00.213001+09:00",
+   "SK하이닉스 불구 공사대금 논란 활황에도 어음 지급"
+  ],
+  [
+   "2026-09-23T06:21:00.213001+09:00",
+   "인재 공채 신입 확보전 7곳 데이터센터 10대 건설사 원전 불황에도"
   ]
  ],
- "last_run": "2026-09-23T06:11:45.656746+09:00",
+ "last_run": "2026-09-23T06:21:19.585969+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
