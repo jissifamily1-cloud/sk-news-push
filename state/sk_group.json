@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6295639",
-  "http://www.economytalk.kr/news/articleView.html?idxno=424222",
-  "https://www.mt.co.kr/tech/2026/09/21/2026092015245914259",
-  "https://www.koreatimes.co.kr/path/A2026092014270003169",
-  "https://www.edaily.co.kr/News/Read?newsId=01777766645582416&mediaCodeNo=257",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668188",
-  "https://www.mediawatch.kr/news/article.html?no=260960",
   "https://www.g-enews.com/view.php?ud=202609210656395048fbbec65dfb_1",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210019&t=NN",
   "https://www.kbmaeil.com/article/20260921500029",
@@ -2999,16 +2992,16 @@
   "http://www.domin.co.kr/news/articleView.html?idxno=1569865",
   "https://www.sedaily.com/article/20094219",
   "https://www.gpkorea.com/news/articleView.html?idxno=146969",
-  "https://www.ajunews.com/view/20260922191432319"
+  "https://www.ajunews.com/view/20260922191432319",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277571",
+  "https://www.socialvalue.kr/news/view/1065601307191274",
+  "http://www.e2news.com/news/articleView.html?idxno=334542",
+  "https://www.newsis.com/view/NISX20260922_0003800864",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1183438",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1332754",
+  "https://www.yna.co.kr/view/AKR20260922189200007?input=1195m"
  ],
  "seen_titles": [
-  "빅테크'현금고갈?'28년까지투자'실탄'충분…삼전닉스'미소'",
-  "[AX·6G③]알뜰폰,가입자늘린다음은?SKT가꺼낸'자생력과제'",
-  "메모리값오른댔는데\"다들재고가득\"…반도체호황파티에'일침'[IT썰...",
-  "Strongerwontotestchip,displayfirms'Q3profitability",
-  "[MUSTKNOW5]스페이스X매도급증…AI침입·드러켄밀러방한",
-  "미국채5%돌파…삼전닉스탈출신호일까?아닐까?[잇슈머니]",
-  "곽노정SK하이닉스사장“AI시대,관점을‘밖에서안으로’전환해야...",
   "AI품귀타고영업익89조찍은삼성전자…골드만'49만원'베팅",
   "금리상승에도반도체연이틀강세[굿모닝글로벌이슈]",
   "AI가키운ESS배터리시장…상반기출하71%급증",
@@ -6001,7 +5994,14 @@
   "올추석밥상머리에오를민심의화두는?",
   "SK에코플랜트,반도체·AI핵심인재육성총력",
   "SK온,포스코퓨처엠서1.1조원LFP양극재조달…美ESS공략",
-  "SK,정기인사10월로앞당긴다…AI성과창출·체질개선총력"
+  "SK,정기인사10월로앞당긴다…AI성과창출·체질개선총력",
+  "SKOn,POSCOFutureMForgeLFPSupplyAlliance",
+  "SK사회적가치연구원,AI로사회공헌성과측정…‘SEESV’첫공개",
+  "SK에코플랜트,전문성갖춘실무형인재양성…반도체·AI경쟁력강화",
+  "남자핸드볼,이란과26-26극적무승부…내일바레인상대[나고야AG]",
+  "[주식마감]'퀄컴NPU서로봇AI최적화'노타상한가...셀리드,더블유...",
+  "굴뚝대신예술…인천공장의변신",
+  "[아시안게임]남자핸드볼,이란과26-26아쉬운무승부"
  ],
  "recent_sigs": [
   [
@@ -6943,9 +6943,21 @@
   [
    "2026-09-22T19:31:15.602389+09:00",
    "인사 10월로 체질 정기 총력 창출 앞당긴다 개선 성과 AI"
+  ],
+  [
+   "2026-09-22T19:51:01.467525+09:00",
+   "로봇 더블유 상한가 최적화 AI 노타 퀄컴 셀리드 NPU서"
+  ],
+  [
+   "2026-09-22T19:51:01.467525+09:00",
+   "예술 대신 공장의 인천 굴뚝 변신"
+  ],
+  [
+   "2026-09-22T19:51:01.467525+09:00",
+   "이란과 무승부 핸드볼 남자 아쉬운"
   ]
  ],
- "last_run": "2026-09-22T19:41:14.639831+09:00",
+ "last_run": "2026-09-22T19:51:12.547034+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
