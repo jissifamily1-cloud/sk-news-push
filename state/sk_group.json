@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000335323?division=NAVER",
-  "https://www.newsis.com/view/NISX20260918_0003794854",
-  "https://www.sidae.com/article/2026091714102976779",
-  "https://www.mt.co.kr/stock/2026/09/19/2026091816351285150",
-  "https://sports.donga.com/region/article/all/20260919/134700178/1",
   "https://www.topstarnews.net/news/articleView.html?idxno=16199308",
   "https://www.the-today.com/news/articleView.html?idxno=90404",
   "https://www.edaily.co.kr/News/Read?newsId=01804006645581760&mediaCodeNo=257",
@@ -2999,14 +2994,14 @@
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=911227",
   "https://www.sedaily.com/article/20093779",
   "https://www.sedaily.com/article/20093760",
-  "https://biz.heraldcorp.com/article/10881664"
+  "https://biz.heraldcorp.com/article/10881664",
+  "http://www.metroseoul.co.kr/article/20260922500083",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=129592",
+  "https://view.asiae.co.kr/article/2026092210081034544",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=37865",
+  "https://kbench.com/?q=node%2F282080"
  ],
  "seen_titles": [
-  "SK하닉성과급갈등일단락…삼성노조는'두쪽'수순[많이본경제기...",
-  "\"우린,늦출여유없다\"…美속도조절론속'韓AI'반격카드[AI감속론...",
-  "OTT홍수시대,SKB'Btv+max'하나면끝",
-  "AI속도조절론vs젠슨황…반도체주다시달릴까?",
-  "용인특례시,기업상생·산업혁신정책역량인정받았다",
   "미국증시,10년물5%재접근에도반도체강세…나스닥0.4%상승",
   "이남우기업거버넌스회장,솔리다임美상장설…SK하이닉스주주보호...",
   "SK바이오팜세노바메이트‘공급규모확대’어디까지…美처방확대...",
@@ -6001,7 +5996,12 @@
   "천안시드림스타트,아동대상호두수확체험진행",
   "美연준,다시긴축가나…금리4.1%전망에월가‘긴장’",
   "H100가격한달새22%급등…GPU품귀에기업·연구현장‘비상’",
-  "‘더샵분당하이스트’,22일1순위해당지역청약접수"
+  "‘더샵분당하이스트’,22일1순위해당지역청약접수",
+  "SK텔레콤,'인사이트데이'서고객신뢰지표제작논의",
+  "[마켓펄스]'AI낙관론'확산에...코스피,7100선'안착'",
+  "코스피,기관·외국인순매수에장중강세",
+  "메타발AI랠리가삼성전기6%급등을불렀다",
+  "애플워치시리즈12·울트라4,공식용량은64GB…실제로는128GBNAND탑..."
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,17 @@
   [
    "2026-09-22T10:11:07.116667+09:00",
    "접수 1순위 분당하이스트 더샵 해당지역 22일 청약"
+  ],
+  [
+   "2026-09-22T10:21:18.007539+09:00",
+   "메타발 불렀다 AI 삼성전기 랠리가 급등을"
+  ],
+  [
+   "2026-09-22T10:21:18.007539+09:00",
+   "워치 시리즈 64GB 애플 울트라 실제로는 용량은 NAND 128GB"
   ]
  ],
- "last_run": "2026-09-22T10:11:36.607170+09:00",
+ "last_run": "2026-09-22T10:21:34.909618+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
