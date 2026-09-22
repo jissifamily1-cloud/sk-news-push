@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=853209",
-  "https://www.smartbizn.com/news/articleView.html?idxno=153484",
-  "https://www.socialvalue.kr/news/view/1065599372150777",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=611471",
-  "https://www.etoday.co.kr/news/view/2623708",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=741136",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95074",
   "https://www.ytn.co.kr/_ln/0103_202609091724027035",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609091716518170357",
@@ -2999,15 +2993,15 @@
   "https://www.ilyosisa.co.kr/news/article.html?no=258060",
   "https://www.m-i.kr/news/articleView.html?idxno=1417502",
   "https://www.newspost.kr/news/articleView.html?idxno=225864",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=311808"
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=311808",
+  "http://www.spochoo.com/news/articleView.html?idxno=130385",
+  "https://www.mediapen.com/news/view/1125468",
+  "https://www.kmaeil.com/news/articleView.html?idxno=652623",
+  "http://www.metroseoul.co.kr/article/20260922500404",
+  "https://www.aflnews.co.kr/news/articleView.html?idxno=328709",
+  "https://www.news1.kr/local/sejong-chungbuk/6299092"
  ],
  "seen_titles": [
-  "최태원,재산분할재상고심서2440억만다툰다…7000억은인정",
-  "SK최태원재산분할7천억수용하는상고취지감축신청서제출,나머지...",
-  "\"7천억원은인정,2440억원만판단받겠다\"",
-  "최태원,재산분할금7000억수용…대법서2440억만다툰다",
-  "\"9440억중7000억수용\"···최태원,재산분할다툼2440억으로좁혔다",
-  "최태원,재산분할7000억원수용…9440억중2440억만대법서다툰다",
   "권혁빈이혼재산분할2.55조원…국내역대최대",
   "남종섭,15일간‘지방의회법’입법드라이브…경기서전국연대로",
   "[기획]대한민국산업의길을바꾼경영자최종현⑤28년뒤다시읽는...",
@@ -6001,7 +5995,13 @@
   "주식0원→20억원→0원…동아시아문화센터3년째부실공시논란",
   "남종섭경기도의회의장,전통시장찾아민생현장점검",
   "[노태우家재단자금추적]김옥숙147억,건물로흘렀나…검찰수사본...",
-  "美AI거점구축한SK,日로보폭넓힌다…최태원글로벌행보점검"
+  "美AI거점구축한SK,日로보폭넓힌다…최태원글로벌행보점검",
+  "\"티볼로시작해야구와가까워지게\"KBO,야구로자라나는티볼스쿨개...",
+  "KBO,‘야구로자라나는티볼스쿨’개시…서울·수원·광주·울산·창원...",
+  "남종섭경기도의회의장,전통시장장보기로상권·복지시설함께챙겨",
+  "경기도의회남종섭의장,추석앞두고전통시장민생행보",
+  "세종시의회,국회찾아행정수도특별법·지방의회법제정촉구",
+  "건국대글로컬캠퍼스'충북AX데이터센터'29일개소"
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "거점 AI 구축한 보폭 넓힌다 글로벌 점검 행보"
   ]
  ],
- "last_run": "2026-09-22T15:40:26.453102+09:00",
+ "last_run": "2026-09-22T15:50:26.784113+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
