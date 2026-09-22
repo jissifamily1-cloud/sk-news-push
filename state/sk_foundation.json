@@ -1908,7 +1908,9 @@
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170836",
   "http://www.weeklytoday.com/news/articleView.html?idxno=795546",
   "https://www.goodkyung.com/news/articleView.html?idxno=291661",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276991"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=276991",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=135907",
+  "https://www.news1.kr/bio/healthcare/6298740"
  ],
  "seen_titles": [
   "기업은행,지난해‘ESG채권’7.3조발행…5년연속은행권최대비중",
@@ -3818,10 +3820,12 @@
   "SK케미칼,치매예방단편영화'영식스티'온라인상영",
   "[위클리오늘]남양주시,왕숙·왕숙2·진접2에생활밀착형스마트도시서...",
   "[금융이모저모]신한은행,영업점기다림을바꾸다,'신한톡번호표'전...",
-  "\"커피한잔에도AI얘기\"…SK그룹일상화두된'AX'"
+  "\"커피한잔에도AI얘기\"…SK그룹일상화두된'AX'",
+  "신협재단,휠체어저상버스예약지원…탑승횟수13회서860회로",
+  "SK케미칼,치매극복의날맞아'영식스티'온라인상영관연다"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-22T11:40:52.371991+09:00",
+ "last_run": "2026-09-22T11:50:42.443628+09:00",
  "initialized": true,
  "press_names": {
   "econonews.co.kr": "이코노뉴스",
@@ -3938,6 +3942,7 @@
   "tournews21.com": "투어코리아",
   "financialpost.co.kr": "파이낸셜포스트",
   "medicaltimes.com": "메디칼타임즈",
-  "goodkyung.com": "굿모닝경제"
+  "goodkyung.com": "굿모닝경제",
+  "e-science.co.kr": "이코노미사이언스"
  }
 }
