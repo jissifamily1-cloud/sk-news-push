@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=64649",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=64648",
-  "http://www.newsdream.kr/news/articleView.html?idxno=118544",
-  "https://view.asiae.co.kr/article/2026091816434285328",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117128",
-  "https://biz.sbs.co.kr/article_hub/20000335781?division=NAVER",
   "https://www.cstimes.com/news/articleView.html?idxno=721307",
   "https://www.rcast.co.kr/news/articleView.html?idxno=31661",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725005",
@@ -2999,15 +2993,15 @@
   "http://www.kjdaily.com/article.php?aid=1790077149687559002",
   "http://www.kjdaily.com/article.php?aid=1790077147687558002",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489752",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260922205535IYr"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260922205535IYr",
+  "https://www.inven.co.kr/webzine/news/?news=321359",
+  "https://www.segye.com/newsView/20260922519037?OutUrl=naver",
+  "https://www.ekn.kr/web/view.php?key=20260922020338088",
+  "https://www.g-enews.com/view.php?ud=2026092219023598383084322ec9_1",
+  "https://www.newstnt.com/news/articleView.html?idxno=719846",
+  "https://www.mk.co.kr/article/12156578"
  ],
  "seen_titles": [
-  "[증시전망대]추석앞둔코스피,'전약후강'다시올까…유가·금리변수...",
-  "글로벌ESS배터리,상반기71%폭증…\"각형이시장다먹는다\"",
-  "[키-리포트]SK\"코미코,업종내가장풍부한모멘텀\"",
-  "레버리지담는개인VS인버스담는기관…엇갈리는수급",
-  "[비즈+]한미글로벌,SK하이닉스美인디애나HBM공장PM맡는다",
-  "[애프터마켓리뷰]'미인프라투자기대'전선주강세…가온전선급등",
   "중동방산협력확대에방산주강세…추가수주기대",
   "미래에셋증권,제비용0%대표지수선물ETN4종목재상장外",
   "ESS배터리시장급성장…각형중심으로판커진다",
@@ -6001,13 +5995,15 @@
   "‘800조호남반도체’2028년인프라구축‘속도’",
   "하나된전남광주행정결합넘어‘사회적통합’이루자",
   "KB자산운용,삼성·SK대표기업담은ETF출시",
-  "AI훈풍에도뒷심부족…코스피7,000선은방어"
+  "AI훈풍에도뒷심부족…코스피7,000선은방어",
+  "[ASL]4강진출이재호\"Bo7테테전?자신있는편이다\"",
+  "포스코퓨처엠,SK온과LFP양극재1조1000억공급계약체결,수주행보본...",
+  "호남권반도체클러스터,2030년첫양산목표",
+  "SK온,포스코퓨처엠서1.1조LFP양극재조달…美ESS공략속도",
+  "[공시]9월23일,코스피상장사48개종목자사주매수신청",
+  "10대건설사하자판정,대우건설‘최다’[국회방청석]"
  ],
  "recent_sigs": [
-  [
-   "2026-09-22T15:01:22.912590+09:00",
-   "보급형 어렵다 나트륨 카드 배터리 비싼 하이니켈만으론 꺼낸다"
-  ],
   [
    "2026-09-22T15:11:57.897067+09:00",
    "점검 강보합 배터리 SK이노베이션 개선 14만1500원 정유마진 윤활유"
@@ -6771,9 +6767,17 @@
   [
    "2026-09-22T20:51:05.013627+09:00",
    "ETF 대표기업 출시 삼성 담은 KB자산운용"
+  ],
+  [
+   "2026-09-22T21:11:18.895848+09:00",
+   "9월 종목 코스피 매수 23일 48개 자사주 신청 상장사"
+  ],
+  [
+   "2026-09-22T21:11:18.895848+09:00",
+   "판정 건설사 10대 대우건설 하자 최다"
   ]
  ],
- "last_run": "2026-09-22T21:01:25.129869+09:00",
+ "last_run": "2026-09-22T21:11:27.508518+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
