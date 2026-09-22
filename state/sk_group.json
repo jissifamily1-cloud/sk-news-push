@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3701779",
-  "http://www.popcornnews.net/news/articleView.html?idxno=133618",
-  "http://www.ikld.kr/news/articleView.html?idxno=341057",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725039",
   "https://www.topstarnews.net/news/articleView.html?idxno=16203498",
   "http://www.newsdream.kr/news/articleView.html?idxno=118594",
   "https://www.joongangenews.com/news/articleView.html?idxno=549523",
@@ -2999,13 +2995,13 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609211331457000102285",
   "https://www.sedaily.com/article/20094030",
   "https://www.sedaily.com/article/20094073",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8670021"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8670021",
+  "https://www.news2day.co.kr/article/20260922500042",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269555&CMPT_CD=P0010",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609230016&t=NN",
+  "https://www.fntimes.com/html/view.php?ud=202609230712135499141825007d_18"
  ],
  "seen_titles": [
-  "SK텔레콤,공공AI·빅데이터세미나개최",
-  "SK브로드밴드,추석연휴맞아Btv할인·맞춤형콘텐츠제공",
-  "3만7천세대신주거벨트중심'신분평에피트더웨이시티'10월분양",
-  "SK하이닉스,AI해커톤개최…우수참가자채용패스트트랙",
   "SK스퀘어주가,9월21일장중1,106,000원2.50%상승",
   "SK하이닉스,총상금1억규모'AI해커톤2026'개최",
   "SK스퀘어주가,9월21일장중1,104,000원2.32%상승",
@@ -6001,7 +5997,11 @@
   "[더벨]'공모채자신감'롯데리츠,담보부사채또발행",
   "“ADC넘어AOC로…뇌질환까지영역넓힐것”",
   "에임드바이오“ADC서AOC확장…2030년임상15개진입목표”",
-  "“삼전닉스에역대급기회온다?”…‘AI에이전트’뭐길래?[잇슈머니..."
+  "“삼전닉스에역대급기회온다?”…‘AI에이전트’뭐길래?[잇슈머니...",
+  "[N2모닝경제브리핑-9월23일]美증시,반도체랠리에나스닥또‘사...",
+  "\"AI로인류멸종?한국은다른것부터고민해야한다\"",
+  "1인당최소'7억원'날렸다…SK하닉신입4명,입사하자마자짐싼이유",
+  "[KFT모닝브리프]2026.09.23—오늘꼭알아야할국내외경제뉴스"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,21 @@
   [
    "2026-09-23T07:19:17.706763+09:00",
    "AI 뭐길래 역대급 에이전트 머니 삼전닉스에 기회 잇슈 온다"
+  ],
+  [
+   "2026-09-23T07:31:08.895749+09:00",
+   "것부터 멸종 AI로 고민해야 한다 다른 인류 한국은"
+  ],
+  [
+   "2026-09-23T07:31:08.895749+09:00",
+   "최소 이유 입사하자마자 1인당 날렸다 SK하닉 4명 7억원 신입"
+  ],
+  [
+   "2026-09-23T07:31:08.895749+09:00",
+   "국내외 알아야 경제뉴스"
   ]
  ],
- "last_run": "2026-09-23T07:22:13.122138+09:00",
+ "last_run": "2026-09-23T07:31:21.278714+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
