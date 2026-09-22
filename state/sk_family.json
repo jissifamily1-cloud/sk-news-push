@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11615816",
-  "https://www.mk.co.kr/article/12148427",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=274796",
   "https://www.news2day.co.kr/article/20260909500250",
   "https://news.koreanbar.or.kr/news/articleView.html?idxno=36117",
   "https://www.fnnews.com/news/202609091644209351",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20260922_0003799901",
   "https://view.asiae.co.kr/article/2026092210364218258",
   "https://www.newsis.com/view/NISX20260922_0003799924",
-  "https://www.viva100.com/article/20260922500550"
+  "https://www.viva100.com/article/20260922500550",
+  "https://www.asiatime.co.kr/article/20260922500116",
+  "http://www.metroseoul.co.kr/article/20260922500169",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725276"
  ],
  "seen_titles": [
-  "최태원,재산분할다툼2440억원으로줄였다···7000억원수용",
-  "노소영에게7000억내준최태원,진짜싸움은'나머지2440억'대법원행",
-  "스마일게이트20년'단독지배'균열...'2.5조'재산분할결과는",
   "[속보]최태원,노소영분할액9440억가운데7000억은수용",
   "[속보]최태원,노소영재산분할액7000억원수용...2440억원만재상고",
   "최태원회장,노소영재산분할'대승적차원'서7천억원수용…\"그이상...",
@@ -6001,7 +5998,10 @@
   "SK최태원·LG구광모·LS구자은,李대통령멕시코순방동행\"첨단산업협...",
   "\"이재용·최태원불러야\"…'호남반도체'국감증인놓고여야공방",
   "국회산자위,최승호삼전노조위원장등국감증인채택…최태원등추...",
-  "이소영청문보고서여야합의채택…도덕성·전문성우려도"
+  "이소영청문보고서여야합의채택…도덕성·전문성우려도",
+  "[노태우비자금]②20억대주식흔적없이증발…김옥숙재단의'수상한...",
+  "산자위,이소영중기부장관경과보고서채택…野이재용·최태원증인...",
+  "재계총수,나흘추석에도'경영시계'…AI·美투자해법찾는다"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-09-22T10:50:13.481991+09:00",
    "놓고 호남 이재용 불러야 여야 증인 국감 공방 반도체"
+  ],
+  [
+   "2026-09-22T11:10:13.909008+09:00",
+   "추석에도 재계 나흘 경영 해법 총수 찾는다 시계 AI 투자"
   ]
  ],
- "last_run": "2026-09-22T11:00:42.497275+09:00",
+ "last_run": "2026-09-22T11:10:30.068696+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
