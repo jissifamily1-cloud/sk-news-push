@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260909500250",
-  "https://news.koreanbar.or.kr/news/articleView.html?idxno=36117",
-  "https://www.fnnews.com/news/202609091644209351",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463089",
   "https://www.mediawatch.kr/news/article.html?no=260966",
   "https://www.smarttoday.co.kr/ko-kr/articles/111393",
   "https://www.socialvalue.kr/news/view/1065597712275995",
@@ -2999,13 +2995,13 @@
   "https://www.viva100.com/article/20260922500550",
   "https://www.asiatime.co.kr/article/20260922500116",
   "http://www.metroseoul.co.kr/article/20260922500169",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725276"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725276",
+  "https://biz.heraldcorp.com/article/10881853",
+  "https://www.ajunews.com/view/20260922102807304",
+  "https://www.dt.co.kr/article/12085353",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88827"
  ],
  "seen_titles": [
-  "[속보]최태원,노소영분할액9440억가운데7000억은수용",
-  "[속보]최태원,노소영재산분할액7000억원수용...2440억원만재상고",
-  "최태원회장,노소영재산분할'대승적차원'서7천억원수용…\"그이상...",
-  "권혁빈스마일게이트창업자이혼…2조5517억재산분할'역대최대'(종...",
   "[판결]권혁빈스마일게이트창업자이혼…재산분할2조5500억원",
   "최태원,재산분할상고범위축소…대법원서2440억원만다툰다",
   "최태원SK회장,재산분할금9440억중2240억원만대법서다툰다",
@@ -6001,7 +5997,11 @@
   "이소영청문보고서여야합의채택…도덕성·전문성우려도",
   "[노태우비자금]②20억대주식흔적없이증발…김옥숙재단의'수상한...",
   "산자위,이소영중기부장관경과보고서채택…野이재용·최태원증인...",
-  "재계총수,나흘추석에도'경영시계'…AI·美투자해법찾는다"
+  "재계총수,나흘추석에도'경영시계'…AI·美투자해법찾는다",
+  "“사회문제해결하면합당한보상해주는구조필요”",
+  "산자위,이소영청문보고서여야합의채택…野,부적격의견",
+  "이소영중기장관후보자경과보고서채택…청문회후1주일만",
+  "[동아시아문화센터를묻다①]152억원출연금의경로"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-09-22T11:10:13.909008+09:00",
    "추석에도 재계 나흘 경영 해법 총수 찾는다 시계 AI 투자"
+  ],
+  [
+   "2026-09-22T11:20:14.241829+09:00",
+   "경로 152억원 출연금의"
   ]
  ],
- "last_run": "2026-09-22T11:10:30.068696+09:00",
+ "last_run": "2026-09-22T11:20:27.069841+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
