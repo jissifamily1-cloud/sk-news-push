@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/09/20260909500370?wlog_tag3=naver",
-  "https://www.sportschosun.com/sports-news/2026-08-12/202608120100067580004202",
   "https://www.newsis.com/view/NISX20260727_0003724769",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=252940",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2299971",
@@ -2999,11 +2997,11 @@
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705723",
   "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/22/20260922500263?wlog_tag3=naver",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260923010008568",
-  "https://biz.chosun.com/distribution/food/2026/09/22/KGLC67BKYNAUTER7BGKKASWCUI/"
+  "https://biz.chosun.com/distribution/food/2026/09/22/KGLC67BKYNAUTER7BGKKASWCUI/",
+  "https://www.goodkyung.com/news/articleView.html?idxno=291675",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106760"
  ],
  "seen_titles": [
-  "\"시간허비땐대도약찬스잃어\"…최태원,국회에속도전주문",
-  "\"韓日뭉치면GDP세계3위…양국경제·안보연합구축하자\"",
   "[ㄱㄱㄷ의정Pick!]남종섭의장,두번째국회행…전국시도의회와지...",
   "최종현경기도의원,반려동물생명지키는‘경기도립동물병원’추진",
   "'종료9.7초전소름의한끗→女에페세계챔피언탈환'송세라\"완전히펜...",
@@ -6001,7 +5999,9 @@
   "이대통령,최태원이어이재용·정의선만나···AI투자·대미통상현...",
   "남종섭경기도의회의장,추석앞두고전통시장민생행보…상인격려...",
   "정경선이띄운'트레일마크'…사회혁신경험을인재역량으로",
-  "월드푸드테크協,대한상의사회적가치페스타서‘환경해법’제시"
+  "월드푸드테크協,대한상의사회적가치페스타서‘환경해법’제시",
+  "[르포]400개기관집결한사회적가치페스타,기술·자본연대로문제...",
+  "[국감장서는기업인들]보안·회생·담합'집중포화'"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-09-22T17:50:14.350025+09:00",
    "정경선이 트레일마크 경험을 사회혁신 인재 역량으로 띄운"
+  ],
+  [
+   "2026-09-22T18:20:18.524762+09:00",
+   "회생 보안 담합 집중포화"
   ]
  ],
- "last_run": "2026-09-22T18:10:26.347818+09:00",
+ "last_run": "2026-09-22T18:20:32.861768+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
