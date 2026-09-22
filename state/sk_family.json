@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2117744",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60890",
-  "https://view.asiae.co.kr/article/2026090916310410940",
-  "https://news.dealsitetv.com/articles/175803",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=318682",
   "https://www.wikitree.co.kr/articles/1158414",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=254237",
   "https://www.munhwa.com/article/11615816",
@@ -2999,14 +2994,14 @@
   "https://www.ngonews.kr/news/articleView.html?idxno=238978",
   "https://news.jtbc.co.kr/article/NB12319515?influxDiv=NAVER",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5220801",
-  "https://www.mt.co.kr/politics/2026/09/22/2026092210115142058"
+  "https://www.mt.co.kr/politics/2026/09/22/2026092210115142058",
+  "https://www.m-i.kr/news/articleView.html?idxno=1417259",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765243&plink=ORI&cooper=NAVER",
+  "https://www.hankyung.com/article/2026092200757",
+  "https://www.newsis.com/view/NISX20260922_0003799901",
+  "https://view.asiae.co.kr/article/2026092210364218258"
  ],
  "seen_titles": [
-  "최태원,노소영재산분할7000억원수용…2440억원만다투기로",
-  "최태원·노소영9440억기록깼다…스마일게이트권혁빈,역대최대2.5조...",
-  "최태원,노소영재산분할7000억원수용키로…2440억원만다툰다",
-  "최태원,노소영재산분할7000억원수용…2440억원만대법서다툰다",
-  "[LAW투데이]\"권혁빈이혼2.5조원지급\"...'세기의결별'첫판결분석",
   "최태원,재산분할9440억중7000억수용…2440억만대법서다툰다",
   "[퇴근길7분뉴스]2.5조재산분할·7000피·고려아연·오픈AI",
   "최태원,재산분할다툼2440억원으로줄였다···7000억원수용",
@@ -6001,7 +5996,12 @@
   "국회산자위,이소영중소벤처기업부장관후보자인사청문경과보고서...",
   "국회산자위,이소영중기장관후보인사청문보고서채택",
   "이소영청문보고서여야합의채택…'부적격'도병기",
-  "산자위,이소영중기부장관인사청문보고서채택...野\"부적격\""
+  "산자위,이소영중기부장관인사청문보고서채택...野\"부적격\"",
+  "산자위,이소영중기부장관후보자청문보고서채택…野'부적격'의견",
+  "산자위,이소영중기장관청문보고서채택…야당'부적격'의견",
+  "[속보]국회산자위,이소영중기장관인사청문보고서채택",
+  "SK최태원·LG구광모·LS구자은,李대통령멕시코순방동행\"첨단산업협...",
+  "\"이재용·최태원불러야\"…'호남반도체'국감증인놓고여야공방"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-09-22T10:10:14.018262+09:00",
    "이혼소송서 발칵 비자금 안방 재부상 꺼낸 메모에 의혹"
+  ],
+  [
+   "2026-09-22T10:50:13.481991+09:00",
+   "멕시코 순방 LG구광모 대통령 첨단산업 LS구자은 SK최태원 동행"
+  ],
+  [
+   "2026-09-22T10:50:13.481991+09:00",
+   "놓고 호남 이재용 불러야 여야 증인 국감 공방 반도체"
   ]
  ],
- "last_run": "2026-09-22T10:40:26.271584+09:00",
+ "last_run": "2026-09-22T10:50:30.311565+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
