@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8097607",
-  "https://www.edaily.co.kr/News/Read?newsId=04352566645578480&mediaCodeNo=257",
   "https://www.huffingtonpost.kr/article/260330",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52785",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=853209",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/industry/general-industry/6298939",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=255189",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609220097&t=NNv",
-  "https://www.inews365.com/news/article.html?no=936927"
+  "https://www.inews365.com/news/article.html?no=936927",
+  "https://www.ilyosisa.co.kr/news/article.html?no=258060",
+  "https://www.m-i.kr/news/articleView.html?idxno=1417502"
  ],
  "seen_titles": [
-  "'나는반딧불'성황리마쳐",
-  "'나는반딧불'문시연·최종현",
   "가슴뭉클한'나는반딧불'",
   "'나는뮤지컬'감동가족뮤지컬개막",
   "최태원,재산분할재상고심서2440억만다툰다…7000억은인정",
@@ -6001,7 +5999,9 @@
   "\"현장경영·미래구상·李순방동행\"…총수들,추석연휴'광폭행보'",
   "검찰,노소영참고인조사조율…'노태우비자금메모'수사본격화",
   "엔비디아·로보티즈,로봇동맹…핵심은'액션데이터'",
-  "건국대글로컬캠,충북산업'AI전환'거점구축"
+  "건국대글로컬캠,충북산업'AI전환'거점구축",
+  "주식0원→20억원→0원…동아시아문화센터3년째부실공시논란",
+  "남종섭경기도의회의장,전통시장찾아민생현장점검"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-09-22T15:09:22.305173+09:00",
    "조율 노태우 검찰 수사 본격화 조사 메모 비자금 참고인"
+  ],
+  [
+   "2026-09-22T15:30:22.182490+09:00",
+   "부실 주식 20억원 3년째 논란 공시 동아시아문화센터 0원"
   ]
  ],
- "last_run": "2026-09-22T15:20:23.070903+09:00",
+ "last_run": "2026-09-22T15:30:33.791313+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
