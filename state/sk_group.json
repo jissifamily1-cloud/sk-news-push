@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260921_0003797829",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276688",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=393520",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170569",
   "https://www.joongangenews.com/news/articleView.html?idxno=549508",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=664977",
@@ -2999,12 +2996,12 @@
   "https://www.g-enews.com/view.php?ud=20260923062830740e7e8286d56_1",
   "https://www.greened.kr/news/articleView.html?idxno=350715",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170693",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728226"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=728226",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=157359",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725448",
+  "https://www.sedaily.com/article/20094280"
  ],
  "seen_titles": [
-  "SK스토아,3년만에경력쇼호스트공개모집",
-  "AI데이터센터發전력수요급증…안전·용량겸비한'각형배터리'뜬...",
-  "\"추석연휴앞두고반도체훈풍\"…코스피6,940선상승",
   "[개장]美반도체강세코스피상승…장중7000선돌파",
   "SK하이닉스,학벌대신'AI실력'본다…1억해커톤·채용패스트트랙",
   "코스피,장중7000선돌파…삼성전자3%대강세",
@@ -6001,7 +5998,10 @@
   "美中회담앞둔미일…AI·희토류대중포위망재확인",
   "최태원·구광모·구자은회장,이재명대통령의멕시코순방동행...AI·...",
   "\"오일만팔아선안돼\"…정유4사,가전·건설손잡고'AI냉각연합군'...",
-  "[THEBiz&CEO]'HBM굴욕'씻은전영현삼성전자부회장…다음은파운드..."
+  "[THEBiz&CEO]'HBM굴욕'씻은전영현삼성전자부회장…다음은파운드...",
+  "'호텔김치'가미국식탁으로…워커힐,수출1년만에호주까지",
+  "美반도체훈풍에코스피반등시도…연휴앞두고수급변수",
+  "8.4조원들여K배터리체질바꾼다…나트륨·전고체배터리로中과경..."
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-09-23T06:41:06.147217+09:00",
    "전영현 파운드 HBM 굴욕 씻은 다음은 삼성전자 부회장"
+  ],
+  [
+   "2026-09-23T06:51:02.109692+09:00",
+   "들여 체질 전고체 배터리로 4조 나트륨 바꾼다 K배터리"
   ]
  ],
- "last_run": "2026-09-23T06:41:27.000534+09:00",
+ "last_run": "2026-09-23T06:51:09.047825+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
