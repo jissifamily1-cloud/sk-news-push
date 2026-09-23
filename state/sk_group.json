@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260922010900009?input=1195m",
-  "https://www.g-enews.com/view.php?ud=202609220018546829fda4f5ab74_1",
-  "https://www.edaily.co.kr/News/Read?newsId=02312406645582744&mediaCodeNo=257",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725211",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489338",
   "https://www.businesspost.co.kr/BP?command=article_view&num=446560",
   "https://www.mt.co.kr/finance/2026/09/22/2026092122315733323",
   "https://www.hankyung.com/article/2026092294857",
@@ -2999,14 +2994,14 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026092406064487962aaae0046f_30",
   "https://www.newspim.com/news/view/20260923000754",
   "https://www.sedaily.com/article/20094773",
-  "https://www.joongang.co.kr/article/25464618"
+  "https://www.joongang.co.kr/article/25464618",
+  "https://www.mk.co.kr/article/12160772",
+  "https://www.seoul.co.kr/news/economy/securities/2026/09/24/20260924500011?wlog_tag3=naver",
+  "https://www.news2day.co.kr/article/20260922500096",
+  "https://www.joongang.co.kr/article/25464606",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=854505"
  ],
  "seen_titles": [
-  "미국증시,유가급락·메타AI에급등…CPU반도체랠리로나스닥최고치",
-  "메타AI에이전트뮤즈돌풍에AMD시총1조달러돌파",
-  "오라클·로켓랩·메타…월가최고분석가3인이찍은AI·우주장기주",
-  "\"우량주두고탈출\"…월가거물'韓주식판'경고보니",
-  "美반도체급등…코스피,외국인매수세붙나",
   "현대건설디에이치1위…대우건설푸르지오써밋은42%급등",
   "[WhoIs?]니콜라파리르노코리아대표이사사장",
   "\"돈빌려줄곳찾아라\"…좋은기업쟁탈전은행,좋아질기업발굴전으...",
@@ -6001,7 +5996,12 @@
   "엔비디아1.47%,마이크론2.2%↓...반도체주,국채수익률급등에일제히...",
   "\"성과급은커녕이자도벅차다\"…중기,우울한추석",
   "재계,추석부터내년농사짓는다…총수들연휴에‘2027년승부수’고...",
-  "삼전닉스없이수익률48000%…50억모은33세‘최애종목’"
+  "삼전닉스없이수익률48000%…50억모은33세‘최애종목’",
+  "“추석때주식얘기꺼내도되겠죠?”…일단7000은지킨코스피",
+  "[서울데이터랩]미국증시,기술주약세에일제히하락마감…나스닥1%...",
+  "[전문가7인AI특별대담시즌2⑤]도입성패판단은?…\"측정할준비가...",
+  "추석지나도7000피지킬까…과거22개연도데이터뜯어보니",
+  "추석귀경길,25일정오최대고비…부산→서울8시간"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,29 @@
   [
    "2026-09-24T06:21:26.075770+09:00",
    "최애 없이 50억 종목 수익률 모은 삼전닉스 33세"
+  ],
+  [
+   "2026-09-24T06:31:10.357837+09:00",
+   "일단 7000은 주식 추석때 코스피 얘기 꺼내도 되겠죠 지킨"
+  ],
+  [
+   "2026-09-24T06:31:10.357837+09:00",
+   "미국 약세에 기술주 증시 일제히 나스닥 하락 마감"
+  ],
+  [
+   "2026-09-24T06:31:10.357837+09:00",
+   "판단은 준비가 도입 성패 측정할"
+  ],
+  [
+   "2026-09-24T06:31:10.357837+09:00",
+   "추석 데이터 지킬까 연도 지나도 뜯어보니 7000피 과거 22개"
+  ],
+  [
+   "2026-09-24T06:31:10.357837+09:00",
+   "추석 서울 고비 25일 정오 귀경길 부산 8시간"
   ]
  ],
- "last_run": "2026-09-24T06:21:45.085400+09:00",
+ "last_run": "2026-09-24T06:31:26.721609+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
