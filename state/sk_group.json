@@ -1,18 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725167",
-  "https://www.sentv.co.kr/article/view/sentv202609210176",
-  "http://www.joseilbo.com/news/news_read.php?uid=576132&class=53",
-  "https://www.cstimes.com/news/articleView.html?idxno=721529",
-  "http://www.newsprime.co.kr/news/article.html?no=748593",
-  "https://www.thepowernews.co.kr/view.php?ud=202609211602429556de3f0aa1be_7",
-  "http://www.newskr.kr/news/articleView.html?idxno=106552",
-  "https://www.kgnews.co.kr/news/article.html?no=912587",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210192&t=NN",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447715",
-  "https://www.g-enews.com/view.php?ud=202609211544189662923c501012_1",
-  "https://www.hankyung.com/article/2026092173131",
-  "https://www.mt.co.kr/stock/2026/09/21/2026092115300252092",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725155",
   "https://news.bizwatch.co.kr/article/real_estate/2026/09/21/0024",
   "https://www.thepowernews.co.kr/view.php?ud=202609211603586383de3f0aa1be_7",
@@ -2999,22 +2986,22 @@
   "https://www.newsworker.co.kr/news/articleView.html?idxno=505876",
   "https://www.mk.co.kr/article/12160316",
   "https://www.khan.co.kr/article/202609231430001",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=609406"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=609406",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170796",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867866",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=121424",
+  "https://www.bloter.net/news/articleView.html?idxno=674353",
+  "http://www.newstomato.com/ReadNews.aspx?no=1314698&inflow=N",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277227",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1409474",
+  "https://www.fnnews.com/news/202609231438078718",
+  "https://economist.co.kr/article/view/ecn202609230043",
+  "https://www.ccreview.co.kr/news/articleView.html?idxno=358455",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/23/2026092300248.html",
+  "https://www.mk.co.kr/article/12160331",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=229122"
  ],
  "seen_titles": [
-  "[EBN데이터센터]HBM주들썩...장비·후공정전반강세",
-  "SKT,공공AI·빅데이터활용확산…행정혁신사례공유",
-  "코스피7거래일만에‘칠천피’탈환…삼성전자·하이닉스등반도체주...",
-  "코스피,반도체훈풍에7000선돌파",
-  "코스피,반도체株강세·수출호조에'7000피탈환'…코스닥1.11%↑",
-  "예약부터승차까지직접체험…신협재단,휠체어이용자이동권지원",
-  "삼성전자4%대급등..코스피'7000'선탈환",
-  "코스피'7000선'탈환…반도체호재에상승마감",
-  "코스피,반도체훈풍에'7천피'회복",
-  "SK하이닉스곽노정\"메모리없이는AI도없다,기술우위지킬것\"",
-  "코스피,7거래일만에7000선탈환…삼성전자상승견인",
-  "모든직원이에이전트개발…SK스퀘어,AX속도전",
-  "개미·외인동반매도에도…코스피,6거래일만에7000돌파",
   "[EBN데이터센터]화학섬유주혼조세...효성티앤씨2%대하락",
   "SK하이닉스미국공장PM,한미글로벌이맡는다",
   "청소년·청년봉사,교육·기업협력으로잇는다…이민옥“제도지원”",
@@ -6001,45 +5988,22 @@
   "[2026국감레이더②]박현주·김남구·김병주까지…증권·PEF수장'긴장...",
   "Kakaoclearskeyhurdleforplannedcorporatesplit",
   "서울떠나청라로…‘매출69조’하나금융그룹,인천‘향토은행’시...",
-  "[속보]SK바이오팜,633억원규모세노바메이트공급계약…지난해매출..."
+  "[속보]SK바이오팜,633억원규모세노바메이트공급계약…지난해매출...",
+  "'악사'뗀교보자산운용…교보생명,계열사지배력강화",
+  "엔비디아찍고MS까지…LG전자AI질주",
+  "LG전자-SK엔무브,차세대열관리핵심소재공동개발",
+  "역대최대정부ESS입찰…배터리3사7.08GWh수주전",
+  "이통3사,추석고객잡기나섰다…로밍부터영화·외식·빈집관리까지",
+  "삼전·닉스'선한영향력'시즌2...에코플랜트발주줍줍,KCC도덩달아...",
+  "교보악사자산운용,'교보자산운용'으로사명변경...\"그룹금융·자산운...",
+  "코스피,연휴앞둔관망세에상승폭일부반납...0.73%↑[fn오후시황]",
+  "\"28일까진삼전들고있어야\"역대급배당앞둬…현금규모만30조원'눈...",
+  "AI부터노무·건강관리까지…서원대최고경영자과정2학기개강",
+  "코스닥,추석지나면또밀리나…20여년간코스피이긴건'단5번'",
+  "SKBiopharmreinvestsXcoprigainsinnewdrugs",
+  "SK텔레콤0.92%내려…8만6000원대서거래"
  ],
  "recent_sigs": [
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "프리마켓서 SK하이닉스 삼성전자 강세에 반도체주 상승 이틀째"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "25호 5명 실종 피해 500채 7명 확산 사망 태풍 주택"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "수익률 KB온국민TDF 1위 KB자산운용"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "떠받친 자사주 막바지 추석 어쩌나 매입 수급 삼전닉스 절벽 증시"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "청년 채용 해결 현대해상 기회로 경험을 사회문제 잇는다"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "발굴 기업 출범 호서대 AI반디차기술투자협회 유망"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "행복나래 많은 지속가능 해피히어로 조명 사회적경제"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "눈높이 올라가는데 삼성물산 주주환원 저평가 주가 여전히"
-  ],
-  [
-   "2026-09-23T08:51:02.412749+09:00",
-   "주요공시 22일 주식시장 9월"
-  ],
   [
    "2026-09-23T09:01:18.402923+09:00",
    "건당 기반 독일 과금 반복매출 급여화 코어라인소프트 수혜 폐암검진"
@@ -6883,9 +6847,29 @@
   [
    "2026-09-23T14:41:38.419362+09:00",
    "SK바이오팜 공급계약 매출 지난해 633억원 규모 세노바메이트"
+  ],
+  [
+   "2026-09-23T14:51:37.911692+09:00",
+   "현금 역대급 삼전 규모만 배당 30조원 있어야 앞둬 들고 28일까진"
+  ],
+  [
+   "2026-09-23T14:51:37.911692+09:00",
+   "건강관리까지 최고경영자과정 2학기 노무 서원대 개강 AI부터"
+  ],
+  [
+   "2026-09-23T14:51:37.911692+09:00",
+   "밀리나 지나면 20여년간 추석 이긴 코스피 5번 코스닥"
+  ],
+  [
+   "2026-09-23T14:51:37.911692+09:00",
+   "reinvests drugs Xcopri in gains new Biopharm"
+  ],
+  [
+   "2026-09-23T14:51:37.911692+09:00",
+   "내려 8만6000원대서 거래 SK텔레콤"
   ]
  ],
- "last_run": "2026-09-23T14:42:05.411295+09:00",
+ "last_run": "2026-09-23T14:51:54.315259+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
