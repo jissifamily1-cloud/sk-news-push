@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260922.22013007305",
-  "http://www.paxetv.com/news/articleView.html?idxno=282474",
   "http://www.cctimes.kr/news/articleView.html?idxno=928872",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1538227",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53118",
@@ -2999,11 +2997,11 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1314718&inflow=N",
   "https://futurechosun.com/?p=161271",
   "https://biz.heraldcorp.com/article/10882859",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463869"
+  "http://www.queen.co.kr/news/articleView.html?idxno=463869",
+  "https://www.m-i.kr/news/articleView.html?idxno=1417868",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61035"
  ],
  "seen_titles": [
-  "미월스트리트선물및유럽시장초반상당한상승세…'미-중'",
-  "男농구쾌거…이현중뒤엔이정현·여준석있었다",
   "SK바이오팜,'대한민국사회적가치페스타'참가...뇌전증환자와가족...",
   "청주에100조쏟아붓는데물·전력이`발목?'",
   "[비즈투데이]SK하이닉스곽노정\"차세대메모리\"",
@@ -6001,7 +5999,9 @@
   "IPTV단독상품가입막은통신3사제재…방미통위,4900만원과징금",
   "[더나은미래경제브리핑]이찬진,은행지주사회장단소집“금융자회...",
   "“연휴끝나면주가오른다”22번중15번…이번에도통할까?[투자360]",
-  "OECD,한국올해성장률전망3.7%로대폭상향\"G20중최대상승\""
+  "OECD,한국올해성장률전망3.7%로대폭상향\"G20중최대상승\"",
+  "삼성·SK등대기업부터유망스타트업까지…'코리아프리미엄위크'28...",
+  "[게임뉴스]카카오게임즈및컴투스홀딩스소식외"
  ],
  "recent_sigs": [
   [
@@ -6755,9 +6755,17 @@
   [
    "2026-09-23T18:51:03.821322+09:00",
    "상승 전망 OECD 성장률 상향 올해 G20 대폭 한국"
+  ],
+  [
+   "2026-09-23T19:01:19.567296+09:00",
+   "프리미엄 위크 삼성 유망 대기업부터 스타트업까지 코리아"
+  ],
+  [
+   "2026-09-23T19:01:19.567296+09:00",
+   "소식 카카오게임즈 컴투스홀딩스"
   ]
  ],
- "last_run": "2026-09-23T18:51:15.512678+09:00",
+ "last_run": "2026-09-23T19:01:28.552238+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
