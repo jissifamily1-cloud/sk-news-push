@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6692",
-  "https://www.kukinews.com/article/view/kuk202609210233",
-  "https://www.edaily.co.kr/News/Read?newsId=04801926645582416&mediaCodeNo=257",
-  "https://www.mk.co.kr/article/12158675",
   "https://www.newstnt.com/news/articleView.html?idxno=719603",
   "https://biz.heraldcorp.com/article/10881197",
   "https://www.sedaily.com/article/20093688",
@@ -2999,13 +2995,13 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/09/23/2026092390224.html",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490100",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277664",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106805"
+  "http://www.00news.co.kr/news/articleView.html?idxno=106805",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867296",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200590",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702833",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200589"
  ],
  "seen_titles": [
-  "연휴앞두고'7천피'회복...환율상승세는'주춤'",
-  "[특징주]삼성전자·SK하이닉스온기에후공정까지…SFA반도체17%급등",
-  "학곡액화수소충전소10월6일부터‘임시휴업’…예비차등대응책마...",
-  "[골프IN화보]김재희,하나금융그룹챔피언십최종라운드경기장면",
   "“3대메가프로젝트성공위해원전수명연장·LNG발전필요”",
   "[공시]9월22일,코스피상장사45개종목자사주매수신청",
   "삼성·SK용인산단전력병목어떻게해소?…“동해·중부권선로구축...",
@@ -6001,21 +5997,13 @@
   "코스피4거래일연속상승7,080마감",
   "한화자산운용,반도체'퓨어플레이어'ETF3종제시",
   "SKhynixADRsTradeNear40%Premium",
-  "['클릭'증시]변동성조절대책시행...명절앞두고상승마감"
+  "['클릭'증시]변동성조절대책시행...명절앞두고상승마감",
+  "[공시]1400억채권발행SK지오센트릭,실적사활",
+  "SK엔무브·LG전자,차세대열관리기술로글로벌시장정조준",
+  "방미통위,온라인단독가입제한IPTV3사에과징금",
+  "SK온,포스코퓨처엠과손잡고LFP양극재확보…美시장정조준"
  ],
  "recent_sigs": [
-  [
-   "2026-09-23T13:31:10.279000+09:00",
-   "교보자산운용 교보악사자산운용 출발 으로"
-  ],
-  [
-   "2026-09-23T13:31:10.279000+09:00",
-   "친환경 기대 데이터센터 수혜 에너지 공급 전력 SOFC 미래 부각"
-  ],
-  [
-   "2026-09-23T13:31:10.279000+09:00",
-   "예술가 작품 도입 의료 발달장애 환경 디스에이블드 서울정석치과"
-  ],
   [
    "2026-09-23T13:51:07.291090+09:00",
    "흔들리는 신뢰 공급 강대강 바이오 대치는"
@@ -6723,9 +6711,13 @@
   [
    "2026-09-23T19:21:04.018220+09:00",
    "상승 조절 시행 앞두고 변동성 마감 명절 대책"
+  ],
+  [
+   "2026-09-23T19:31:16.129130+09:00",
+   "정조준 포스코퓨처엠과 시장 양극재 확보 손잡고 LFP SK온"
   ]
  ],
- "last_run": "2026-09-23T19:21:13.342904+09:00",
+ "last_run": "2026-09-23T19:31:22.046738+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
