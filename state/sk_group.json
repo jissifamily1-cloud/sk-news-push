@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12085291",
-  "https://www.seoul.co.kr/news/economy/securities/2026/09/22/20260922031003?wlog_tag3=naver",
   "https://www.segye.com/newsView/20260922501054?OutUrl=naver",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063603",
   "https://www.joongang.co.kr/article/25463868",
@@ -2999,11 +2997,11 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3705097",
   "https://www.mk.co.kr/article/12159209",
   "http://www.bizwnews.com/news/articleView.html?idxno=147301",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490103"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490103",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444794",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/23/2026092390259.html"
  ],
  "seen_titles": [
-  "[美증시특징주]메타뮤즈훈풍에반도체랠리…하이닉스등메모리는...",
-  "AI·반도체‘폭풍랠리’,나스닥2.3%껑충…삼전·SK하닉도이어갈까",
   "코스피7천피회복…연휴‘전약후강’이번에도?",
   "삼성·SK품고도집값7%뚝…분당과39.8%p벌어진평택·이천[숫자뒤...",
   "[IT리더열전-모빌리티②]티맵모빌리티이재환\"데이터확장,포트폴리...",
@@ -6001,7 +5999,9 @@
   "'골때녀'초대핸드볼챔피언가린다",
   "“추석전에주식팔았는데”…내돈바로못찾는속사정[최소한의금...",
   "한화운용,반도체ETF3종라인업완성",
-  "[표]개인,코스피서1조4543억원순매도…삼성전자집중매도"
+  "[표]개인,코스피서1조4543억원순매도…삼성전자집중매도",
+  "코스피,소폭상승에7000선유지...삼성전자,SK스퀘어상승VS현대차,...",
+  "[단독]'레버리지ETF'손실규모첫확인…개인투자자,증권사1곳서만..."
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-09-23T21:31:33.852443+09:00",
    "1조4543억원 순매도 집중 개인 삼성전자 매도 코스피서"
+  ],
+  [
+   "2026-09-23T21:41:02.871251+09:00",
+   "ETF 레버리지 1곳서만 규모 투자자 확인 손실 개인 증권사"
   ]
  ],
- "last_run": "2026-09-23T21:31:42.688924+09:00",
+ "last_run": "2026-09-23T21:41:08.693355+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
