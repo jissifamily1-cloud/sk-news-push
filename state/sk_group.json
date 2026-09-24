@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.issuenbiz.com/news/articleView.html?idxno=80014",
-  "https://www.tokenpost.kr/news/market/411924",
-  "https://www.segye.com/newsView/20260922504354?OutUrl=naver",
   "https://www.seoul.co.kr/news/economy/securities/2026/09/22/20260922500038?wlog_tag3=naver",
   "https://news.tf.co.kr/read/economy/2368673.htm",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725248",
@@ -2999,12 +2996,12 @@
   "https://www.g-enews.com/view.php?ud=202609231008172956139bf6e4b2_1",
   "https://www.g-enews.com/view.php?ud=202609232010439665153ddfb15a_1",
   "https://www.newsis.com/view/NISX20260923_0003801686",
-  "https://www.bloter.net/news/articleView.html?idxno=674245"
+  "https://www.bloter.net/news/articleView.html?idxno=674245",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744053",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744051",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744055"
  ],
  "seen_titles": [
-  "[이시각시황]뉴욕훈풍에코스피강세…AI·반도체질주",
-  "코스피·코스닥,동반상승...반도체주강세",
-  "[국내증시개장시황]국내증시혼조세,코스피상승세속삼성전자강...",
   "코스피7000선안착?…외국인·기관매수세,삼성전자배당으로박스권...",
   "[서울데이터랩]코스피,장초반2%가까이올라7146.02…외국인·기관...",
   "SKT,가상공간서통신망검증…KISTI와디지털트윈맞손",
@@ -6001,7 +5998,10 @@
   "\"보조금끊기자전기차곤두박질\"…K배터리,美세액공제'날벼락'",
   "'국민주'삼전·닉스도추석밥상에…연말반도체훈풍기대감",
   "키움증권,다음달'철권스타즈컵'개최…'무릎'선수출전",
-  "[AI대전환리딩전략]동진쎄미켐,AI반도체공급망핵심주자로"
+  "[AI대전환리딩전략]동진쎄미켐,AI반도체공급망핵심주자로",
+  "삼성,DS특별성과급세부안공개임박…자사주지급방식구체화",
+  "GS칼텍스,실적개선이후성과급기준쟁점…통합노조교섭본격화",
+  "삼성전자,산업현장통신망구축…로봇운용위한5G기술시험"
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,17 @@
   [
    "2026-09-24T14:11:00.483486+09:00",
    "주자로 반도체 핵심 동진쎄미켐 공급망 AI"
+  ],
+  [
+   "2026-09-24T14:23:20.204817+09:00",
+   "성과급 기준 개선 본격화 실적 교섭 GS칼텍스 이후 쟁점 통합노조"
+  ],
+  [
+   "2026-09-24T14:23:20.204817+09:00",
+   "삼성전자 기술 구축 위한 5G 로봇 통신망 운용 산업현장 시험"
   ]
  ],
- "last_run": "2026-09-24T14:21:11.054150+09:00",
+ "last_run": "2026-09-24T14:23:29.673745+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
