@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=83146",
-  "https://www.smartbizn.com/news/articleView.html?idxno=154581",
-  "http://www.srtimes.kr/news/articleView.html?idxno=213087",
-  "https://www.pennmike.com/news/articleView.html?idxno=128226",
   "https://www.ajunews.com/view/20260922093120154",
   "https://www.socialvalue.kr/news/view/1065573147622886",
   "https://www.catchnews.kr/news/articleView.html?idxno=128541",
@@ -2999,13 +2995,13 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=64868",
   "https://www.wikitree.co.kr/articles/1161853",
   "https://www.seoul.co.kr/news/society/2026/09/24/20260924500076?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/estate/2026/09/24/20260924500070?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/economy/estate/2026/09/24/20260924500070?wlog_tag3=naver",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366083",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98288",
+  "https://magazine.hankyung.com/business/article/202609245122b",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=127241"
  ],
  "seen_titles": [
-  "코스피,美훈풍에7000선훌쩍",
-  "SK스페셜티,타지키스탄텅스텐전주기사업협의…SPC·생산허브검토",
-  "SK텔레콤·KISTI,양자암호망'디지털트윈'개발",
-  "한국투자증권,직장인찾아가는'연금스테이션'운영",
   "[이채정의엮어읽기]\"韓의美간보기(playinggames)\"청구서는",
   "술먹어'수억'성과급날렸네…SK하닉신입4명해고된이유가'황당'",
   "알테오젠,삼성바이오로직스제치고K-브랜드지수제약·바이오부문2위",
@@ -6001,21 +5997,13 @@
   "李대통령,유엔총회·한미정상회담·투자서밋마치고멕시코국빈방문...",
   "고점개미9조5천억손실…27년만에'최악'의매매타이밍",
   "“호남전력자급률210%...분산전력망최적지”",
-  "아직뜨거운‘반도체벨트’집값…‘삼성전자인근’수원영통,전..."
+  "아직뜨거운‘반도체벨트’집값…‘삼성전자인근’수원영통,전...",
+  "삼성전자DS,추석직후특별성과급기준공개…복지확대도속도",
+  "부상이겨낸'로컬보이'김륜성,K리그100경기출전금자탑...코스타...",
+  "이재용·최태원빠진1차명단…재계총수누가증인석설까",
+  "SK전희철감독\"오늘은승패를떠나2~3쿼터경기력점검할것\""
  ],
  "recent_sigs": [
-  [
-   "2026-09-24T10:51:35.443909+09:00",
-   "나고야 서울적십자병원 이경태 제20회 아이치 핸드볼 과장 아시안게임"
-  ],
-  [
-   "2026-09-24T10:51:35.443909+09:00",
-   "평탄화 인천 가성비 단지 쓰나미 실수요자 덮친 송도 비명 싹쓸이에"
-  ],
-  [
-   "2026-09-24T10:51:35.443909+09:00",
-   "필리조선 대통령 한화 얘기는 나눈 트럼프 이재명 대통령과"
-  ],
   [
    "2026-09-24T11:01:21.394855+09:00",
    "이상 ANA 3명 여객기 엔진 긴급착륙 비상탈출 158명"
@@ -6303,9 +6291,21 @@
   [
    "2026-09-24T16:42:11.103712+09:00",
    "영통 아직 인근 벨트 뜨거운 삼성전자 반도체 수원 집값"
+  ],
+  [
+   "2026-09-24T17:01:17.352741+09:00",
+   "금자탑 보이 K리그 코스타 김륜성 100경기 이겨낸 로컬 출전 부상"
+  ],
+  [
+   "2026-09-24T17:01:17.352741+09:00",
+   "설까 누가 명단 이재용 1차 재계 총수 빠진 증인석 최태원"
+  ],
+  [
+   "2026-09-24T17:01:17.352741+09:00",
+   "감독 떠나 오늘은 전희철 승패를 3쿼터 점검할 경기력"
   ]
  ],
- "last_run": "2026-09-24T16:51:04.445885+09:00",
+ "last_run": "2026-09-24T17:01:29.011068+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
