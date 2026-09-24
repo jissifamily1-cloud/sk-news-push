@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12133236",
-  "https://view.asiae.co.kr/article/2026082512464782055",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645050",
   "https://www.ikbc.co.kr/article/view/kbc202608240063",
   "https://www.usmbc.co.kr/NewsArticle/858330",
   "http://www.kwangju.co.kr/article.php?aid=1787571300802612277",
@@ -2999,12 +2996,12 @@
   "https://www.banronbodo.com/news/articleView.html?idxno=33077",
   "https://www.etoday.co.kr/news/view/2629347",
   "https://www.news1.kr/life-culture/performance-exhibition/6298326",
-  "https://www.insight.co.kr/news/575212"
+  "https://www.insight.co.kr/news/575212",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436453",
+  "https://www.sentv.co.kr/article/view/sentv202609250001",
+  "http://www.e-platform.net/news/articleView.html?idxno=105696"
  ],
  "seen_titles": [
-  "SK㈜,올해판만큼재투자했다…반도체·AI중심'막바지리밸런싱'",
-  "최창원,SK위기수습했지만주력사는439억적자…수펙스의장직내려...",
-  "민선9기첫당정협의회‥'공공기관이전'맞손",
   "JP모건도놀랐다…SK하닉자사주소각속도전,왜[재계톡톡]",
   "'응급실30분내40%불가'…전남의료접근성전국꼴찌",
   "응급실·대학병원접근성최악…“의료정책재설계필요”",
@@ -6001,7 +5998,10 @@
   "[주간기업동향]정용진신세계그룹회장,보육원아동위해사재1억원...",
   "李대통령,최태원·구광모와셰인바움만나…“멕시코는북미·중남미...",
   "추석연휴,온가족이함께뮤지컬보자…'나는반딧불'·'티니핑'·'코드...",
-  "李대통령,최태원·구광모와멕시코대통령만나...\"경제협정조속체..."
+  "李대통령,최태원·구광모와멕시코대통령만나...\"경제협정조속체...",
+  "USMCA재검토에멕시코진출韓기업'촉각'…최태원·구광모\"경제협정...",
+  "재계총수들,추석에도경영행보…북미·영국서글로벌네트워크강화",
+  "3대메가프로젝트로전력수요폭증…높아지는'FirmPower'의중요성"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-09-25T08:10:14.690057+09:00",
    "아동 보육원 정용진 회장 1억원 신세계그룹 사재"
+  ],
+  [
+   "2026-09-25T08:30:21.804701+09:00",
+   "Firm 메가프로젝트로 중요성 3대 전력수요 폭증 높아지는 Power"
   ]
  ],
- "last_run": "2026-09-25T08:20:24.377366+09:00",
+ "last_run": "2026-09-25T08:30:38.871178+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6400,6 +6404,7 @@
   "dailyt.co.kr": "데일리환경",
   "tvreport.co.kr": "TV리포트",
   "cstimes.com": "컨슈머타임스(Consumertimes)",
-  "tournews21.com": "투어코리아"
+  "tournews21.com": "투어코리아",
+  "e-platform.net": "에너지플랫폼뉴스"
  }
 }
