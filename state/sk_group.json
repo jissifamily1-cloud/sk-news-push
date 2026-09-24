@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202609220055",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=208696",
-  "https://www.yna.co.kr/view/AKR20260922046100017?input=1195m",
-  "https://www.nocutnews.co.kr/news/6581767",
   "https://www.mt.co.kr/stock/2026/09/22/2026092209353453897",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=208691",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=228469",
@@ -2999,13 +2995,13 @@
   "https://thetracker.co.kr/View.aspx?No=4241172",
   "https://www.inthenews.co.kr/news/article.html?no=92350",
   "https://biz.heraldcorp.com/article/10883418",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490188"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490188",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4108603",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490191",
+  "http://www.joseilbo.com/news/news_read.php?uid=576329&class=32",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490189"
  ],
  "seen_titles": [
-  "SK하이닉스ADR주가,188.86달러0.73%상승마감",
-  "SKT·KISTI,양자암호망디지털트윈개발…ECOC서공개",
-  "SKT,KISTI와양자암호망구축전가상검증기술개발",
-  "SKT,양자암호통신망디지털트윈개발…구축전성능검증",
   "美반도체훈풍에코스피2%대강세…삼성전자·하이닉스↑",
   "'7160돌파'코스피,美반도체훈풍타고2%대상승",
   "신협재단,저상버스예약앱성과공개…타지역확산도모색",
@@ -6001,7 +5997,11 @@
   "재계총수들‘AI전환’직접챙긴다…삼성·SK·LG,경영부터생산현장...",
   "추석연휴알뜰하게보내려면…이통3사로밍·멤버십혜택‘한가득’",
   "성과입증한제네시스PE의10년…다음‘블루오션’찾아항해한다[하...",
-  "적자에주가급락했던티로보틱스…ESS·휴머노이드로반전노린다"
+  "적자에주가급락했던티로보틱스…ESS·휴머노이드로반전노린다",
+  "삼성전자성과급세부안이달말공개...고가사무용의자제공도",
+  "삼성물산,내년배당8550원전망…시장예상치두배넘는다",
+  "李\"트럼프와'군함건조'협력논의…AI·소형원자로첨단산업대도약...",
+  "\"한번팔고끝\"아니다…코어라인소프트,의료AI반복매출시대연다"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,21 @@
   [
    "2026-09-24T15:21:05.626864+09:00",
    "티로보틱스 적자에 급락했던 노린다 휴머노이드로 ESS 주가 반전"
+  ],
+  [
+   "2026-09-24T15:31:07.600229+09:00",
+   "배당 8550원 예상치 삼성물산 넘는다 시장 전망 내년"
+  ],
+  [
+   "2026-09-24T15:31:07.600229+09:00",
+   "첨단산업 군함건조 소형원자로 트럼프와 대도약 논의 AI 협력"
+  ],
+  [
+   "2026-09-24T15:31:07.600229+09:00",
+   "연다 반복매출 의료 시대 코어라인소프트 팔고 아니다 AI"
   ]
  ],
- "last_run": "2026-09-24T15:21:14.181195+09:00",
+ "last_run": "2026-09-24T15:31:19.354198+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
