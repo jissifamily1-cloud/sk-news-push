@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436032",
-  "https://www.wikitree.co.kr/articles/1161232",
-  "https://www.cstimes.com/news/articleView.html?idxno=721652",
-  "https://www.edaily.co.kr/News/Read?newsId=02889686645582744&mediaCodeNo=257",
   "https://www.koit.co.kr/news/articleView.html?idxno=209200",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7185481",
   "https://www.ddaily.co.kr/page/view/2026092209212548769",
@@ -2999,13 +2995,13 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=85156",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4436398",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85155",
-  "https://www.g-enews.com/view.php?ud=202609241123406675fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202609241123406675fbbec65dfb_1",
+  "https://www.econovill.com/news/articleView.html?idxno=751812",
+  "https://www.hani.co.kr/arti/hanihealth/pharm/1279384.html",
+  "https://thetracker.co.kr/View.aspx?No=4240913",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307524"
  ],
  "seen_titles": [
-  "SKT,공공AI·빅데이터활용사례∙기술공개",
-  "'차관→경제사령탑'첫직행이형일…물가·부동산고차방정식과제",
-  "코스피7161.61출발…개장과동시에급등한'이유'",
-  "코스피,AI낙관론에2%대급등…코스닥도상승",
   "SKT-KISTI,양자암호통신망'디지털트윈'기술세계최초개발",
   "SKT·KISTI,양자암호통신망'디지털트윈'개발",
   "SKT,'2026인사이트데이'개최…\"기업신뢰측정지표마련\"",
@@ -6001,7 +5997,11 @@
   "SK엔무브·LG전자,차세대열관리및액침냉각기술개발나선다",
   "추석맞아멈추는코스피…'AI랠리·미중담판'이가른다",
   "현대해상·SK,청년일경험한계넘는프로젝트트레일마크선봬",
-  "AI랙구리선병목뚫은마벨…2나노광통신승부수에주가6%뛰었다"
+  "AI랙구리선병목뚫은마벨…2나노광통신승부수에주가6%뛰었다",
+  "삼성전자DS특별성과급세부안이달말공개…사회공헌방안도포함될...",
+  "희귀질환치료제‘100일신속등재’시동…환자가체감하는제도될수...",
+  "삼성반도체특별성과급윤곽…1인당최대‘6억원’추산",
+  "국장은쉬는데미장은이틀더뛴다···삼전·하이닉스,월요일'갭'..."
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,21 @@
   [
    "2026-09-24T11:51:00.400452+09:00",
    "구리선 승부수에 마벨 병목 광통신 AI 2나노 뛰었다 주가 뚫은"
+  ],
+  [
+   "2026-09-24T12:01:17.775331+09:00",
+   "희귀질환 신속등재 시동 체감하는 제도 치료제 100일 환자가"
+  ],
+  [
+   "2026-09-24T12:01:17.775331+09:00",
+   "6억원 특별성과급 추산 1인당 윤곽 삼성 반도체"
+  ],
+  [
+   "2026-09-24T12:01:17.775331+09:00",
+   "쉬는데 이틀 삼전 월요일 하이닉스 미장은 뛴다 국장은"
   ]
  ],
- "last_run": "2026-09-24T11:51:06.834104+09:00",
+ "last_run": "2026-09-24T12:01:28.880880+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
