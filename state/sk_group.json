@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsbrite.net/news/articleView.html?idxno=200570",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363640",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436086",
-  "https://www.ddaily.co.kr/page/view/2026092211130516888",
-  "https://biz.chosun.com/industry/company/2026/09/22/YBKX3WI5RJF5FIWFV2VZ2XZQ5I/",
   "http://www.4th.kr/news/articleView.html?idxno=2118538",
   "https://economist.co.kr/article/view/ecn202609220023",
   "https://theviewers.co.kr/View.aspx?No=4237881",
@@ -2999,14 +2994,14 @@
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607757741647",
   "https://www.seoulfn.com/news/articleView.html?idxno=638714",
   "https://www.tokenpost.kr/news/insights/413831",
-  "https://www.yna.co.kr/view/AKR20260923089300054?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260923089300054?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725642",
+  "https://www.ytn.co.kr/_ln/0101_202609250833172100",
+  "https://www.mt.co.kr/stock/2026/09/25/2026092217551798528",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868050",
+  "https://www.newsis.com/view/NISX20260925_0003803275"
  ],
  "seen_titles": [
-  "평균62일→29일'속전속결'…지선직전나온레버리지ETF책임공방",
-  "[노태우'안방비자금'의수상한흐름①]김옥숙,재단에147억출연...이...",
-  "이소영중기장관후보자,청문문턱넘었다…'부적격'우려병기",
-  "SK하이닉스ADR,美반도체지수조기편입…개미'최애'SOXL에도담겼다",
-  "SKT,고객과신뢰지표함께만든다…\"고객자문단100명심층인터뷰\"",
   "배터리3사,ESS수주3차전…생산능력확충승부수",
   "농협은행,800조호남반도체클러스터금융지원…대출문턱낮춘다",
   "[오늘의삼전닉스]배당기대감에AI낙관론까지'호재'만가득한하루",
@@ -6001,7 +5996,12 @@
   "[추석풀가동①]삼성전자·SK하이닉스,추석에도AI메모리'풀가동'...",
   "[뉴욕증시]국채금리급등vs호르무즈개방기대'혼조'···메타4%↑·...",
   "[온체인주식선물]삼성전자,정규장종가보다4.81%할인",
-  "SK는'넓은부지'·삼성은'속도전'…호남반도체투자의지"
+  "SK는'넓은부지'·삼성은'속도전'…호남반도체투자의지",
+  "李대통령,멕시코서기업인간담회…최태원·구광모등참석",
+  "이대통령,한-멕시코기업인간담회...최태원·구광모등참석",
+  "AI·반도체ETF,'투자필수템'됐다…순자산65조돌파",
+  "李,멕시코와경제협력확대…신산업까지넓힌다",
+  "李\"한·멕시코경제협력발전적기\"韓기업\"경제협정조속체결희망..."
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,21 @@
   [
    "2026-09-25T08:41:04.748755+09:00",
    "투자의지 호남 삼성은 SK는 부지 속도전 반도체 넓은"
+  ],
+  [
+   "2026-09-25T08:51:05.927338+09:00",
+   "투자 순자산 돌파 65조 ETF AI 반도체 됐다 필수템"
+  ],
+  [
+   "2026-09-25T08:51:05.927338+09:00",
+   "넓힌다 확대 경제협력 신산업까지 멕시코와"
+  ],
+  [
+   "2026-09-25T08:51:05.927338+09:00",
+   "경제협정 적기 멕시코 경제협력 체결 발전 희망 기업 조속"
   ]
  ],
- "last_run": "2026-09-25T08:41:14.074438+09:00",
+ "last_run": "2026-09-25T08:51:17.363711+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
