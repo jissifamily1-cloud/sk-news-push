@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsian.co.kr/news/articleView.html?idxno=95815",
-  "http://www.newskr.kr/news/articleView.html?idxno=106572",
-  "https://www.dizzotv.com/site/data/html_dir/2026/09/22/2026092280021.html",
-  "https://www.dizzotv.com/site/data/html_dir/2026/09/22/2026092280013.html",
   "https://www.newspim.com/news/view/20260922000349",
   "https://www.ytn.co.kr/_ln/0102_202609220949063491",
   "https://www.fnnews.com/news/202609220911369927",
@@ -2999,13 +2995,13 @@
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317284",
   "https://www.getnews.co.kr/news/articleView.html?idxno=881778",
   "https://www.g-enews.com/view.php?ud=20260923170628251127fa31d75c_1",
-  "http://www.kjdaily.com/article.php?aid=1790238316687602276"
+  "http://www.kjdaily.com/article.php?aid=1790238316687602276",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490208",
+  "https://www.insight.co.kr/news/575208",
+  "http://www.metroseoul.co.kr/article/20260924500063",
+  "https://biz.heraldcorp.com/article/10883551"
  ],
  "seen_titles": [
-  "SKT,KISTI와양자암호통신망디지털트윈기술개발",
-  "코스피,美반도체·AI주급등에2%대상승…단숨에7100선돌파",
-  "코스피7150선질주…삼성전자·SK하이닉스강세",
-  "SKT가만드는기업신뢰지표“고객행동에서신뢰읽는다”",
   "SKT·KISTI,양자암호통신망디지털트윈구축...설치전성능검증",
   "KB자산운용,삼성·SK핵심계열사담은ETF출시…총보수연0.15%",
   "'AI랠리'에코스피2%대상승...7,100선회복",
@@ -6001,13 +5997,13 @@
   "SK텔레콤,양자암호·공공AI기술고도화…고객신뢰지표도직접만든다",
   "[금융zip]우리은행,신보·기보와청년창업기업에2000억원금융지원...",
   "넘어야할산많은K배터리…민관합동으로부활할수있을까",
-  "삼성전자레버리지ETF3일간19%↑…SK하이닉스는1%대"
+  "삼성전자레버리지ETF3일간19%↑…SK하이닉스는1%대",
+  "[주간ETF]AI반도체ETF가휩쓴연휴전증시…원유·방산은동반'하락...",
+  "\"최대6억대박터지나\"...삼성전자DS,추석직후'특별성과급기준'...",
+  "몸집줄이는LG헬로비전…LG유플러스합병수순밟나",
+  "투자·회수·조달‘팔방미인’어펄마가그리는상승곡선[하우스리뷰..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-24T11:51:00.400452+09:00",
-   "구리선 승부수에 마벨 병목 광통신 AI 2나노 뛰었다 주가 뚫은"
-  ],
   [
    "2026-09-24T12:01:17.775331+09:00",
    "희귀질환 신속등재 시동 체감하는 제도 치료제 100일 환자가"
@@ -6299,9 +6295,21 @@
   [
    "2026-09-24T17:41:06.926265+09:00",
    "레버리지 3일간 SK하이닉스는 ETF 삼성전자"
+  ],
+  [
+   "2026-09-24T17:51:40.230995+09:00",
+   "직후 대박 터지나 삼성전자 추석 DS 6억 기준 특별성과급"
+  ],
+  [
+   "2026-09-24T17:51:40.230995+09:00",
+   "합병 밟나 줄이는 수순 몸집 LG헬로비전 LG유플러스"
+  ],
+  [
+   "2026-09-24T17:51:40.230995+09:00",
+   "그리는 회수 팔방미인 조달 하우스리뷰 상승곡선 투자 어펄마가"
   ]
  ],
- "last_run": "2026-09-24T17:41:23.267853+09:00",
+ "last_run": "2026-09-24T17:51:52.041970+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
