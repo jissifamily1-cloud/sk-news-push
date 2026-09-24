@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2628293",
-  "https://www.newspim.com/news/view/20260922000044",
-  "https://www.g-enews.com/view.php?ud=202609220841487819153ddfb15a_1",
   "https://www.newspim.com/news/view/20260922000067",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4436017",
   "https://www.g-enews.com/view.php?ud=202609220847117962153ddfb15a_1",
@@ -2999,12 +2996,12 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4436390",
   "https://magazine.hankyung.com/business/article/202609244841b",
   "https://www.getnews.co.kr/news/articleView.html?idxno=881657",
-  "https://news.dealsitetv.com/articles/176330"
+  "https://news.dealsitetv.com/articles/176330",
+  "https://www.dailian.co.kr/news/view/1694348/?sc=Naver",
+  "http://www.newskr.kr/news/articleView.html?idxno=106645",
+  "https://www.tokenpost.kr/news/market/413193"
  ],
  "seen_titles": [
-  "[키-리포트]SK\"하이브,BTS로외형성장…핵심은의존도완화\"",
-  "SK증권\"SM엔터,아시아넘어서구권·중국현지화로디스카운트해소\"",
-  "[모닝리포트]\"저스템,반도체수율투자확대수혜\"",
   "기타법인매수세주춤…외인,삼전·닉스수급'구원투수'되나",
   "[AIMY증시전망]코스피,美반도체훈풍에상승전망…7000선안착시도",
   "인텔,AI투자우려완화에12%급등",
@@ -6001,7 +5998,10 @@
   "이억원,추석연휴도업무모드…환율·레버리지ETF국감대비",
   "이재용은미국,최태원·구광모는멕시코…총수들의'추석경영'",
   "[추석기획]가격·차종만이아니었다...제주서SK렌터카이용해보니",
-  "[재계투데이]LG전자·SK엔무브,차세대열관리기술협력外"
+  "[재계투데이]LG전자·SK엔무브,차세대열관리기술협력外",
+  "李대통령,월가에\"한국투자안하면후회\"…트럼프와군함건조논의",
+  "미중정상24일백악관회담…韓반도체·배터리·철강셈법제각각",
+  "[국내증시개장시황]코스피하락,코스닥상승속혼조세"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,17 @@
   [
    "2026-09-24T09:34:45.370297+09:00",
    "협력 SK엔무브 기술 열관리 LG전자 차세대"
+  ],
+  [
+   "2026-09-24T09:51:04.135784+09:00",
+   "제각각 배터리 백악관 셈법 정상 미중 24일 반도체 철강 회담"
+  ],
+  [
+   "2026-09-24T09:51:04.135784+09:00",
+   "코스닥 코스피 혼조세 하락 상승"
   ]
  ],
- "last_run": "2026-09-24T09:41:10.320845+09:00",
+ "last_run": "2026-09-24T09:51:13.541128+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
