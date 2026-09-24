@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260922000067",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436017",
-  "https://www.g-enews.com/view.php?ud=202609220847117962153ddfb15a_1",
-  "https://www.ajunews.com/view/20260922084751878",
-  "https://biz.chosun.com/stock/stock_general/2026/09/22/UPTSAKGMYNDFFJ46QVFNIJ5V44/",
-  "https://www.fnnews.com/news/202609220845068560",
-  "http://www.datanews.co.kr/news/article.html?no=146581",
-  "http://www.popcornnews.net/news/articleView.html?idxno=133775",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88785",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489396",
-  "https://www.hellot.net/news/article.html?no=115063",
   "https://www.viva100.com/article/20260922500098",
   "https://www.etnews.com/20260921000272",
   "http://www.newswell.co.kr/news/articleView.html?idxno=22133",
@@ -2999,20 +2988,20 @@
   "https://news.dealsitetv.com/articles/176330",
   "https://www.dailian.co.kr/news/view/1694348/?sc=Naver",
   "http://www.newskr.kr/news/articleView.html?idxno=106645",
-  "https://www.tokenpost.kr/news/market/413193"
+  "https://www.tokenpost.kr/news/market/413193",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62641",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=665258",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154823",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=132655",
+  "https://www.thepublic.kr/news/articleView.html?idxno=319889",
+  "https://magazine.hankyung.com/business/article/202609244872b",
+  "https://www.thepublic.kr/news/articleView.html?idxno=319971",
+  "https://www.thepublic.kr/news/articleView.html?idxno=319965",
+  "https://www.thepublic.kr/news/articleView.html?idxno=319913",
+  "https://www.thepublic.kr/news/articleView.html?idxno=319918",
+  "https://www.thepublic.kr/news/articleView.html?idxno=319864"
  ],
  "seen_titles": [
-  "기타법인매수세주춤…외인,삼전·닉스수급'구원투수'되나",
-  "[AIMY증시전망]코스피,美반도체훈풍에상승전망…7000선안착시도",
-  "인텔,AI투자우려완화에12%급등",
-  "KB자산운용,삼성·SK핵심계열사담은ETF선봬",
-  "SK證\"하이브,BTS의존도완화가관건…목표가↓\"",
-  "SK證“하이브,BTS컴백에저연차IP도두터워…목표가29만원\"",
-  "하이브,실적은좋지만목표가는하향…\"핵심은BTS\"",
-  "삼성전자HBM4·D램·eSSD…3분기,다잘했다",
-  "현대건설디에이치,9월하이엔드주거브랜드평판1위...롯데건설르엘...",
-  "\"정량적평가넘어선다\"…SKT,고객'실제행동'기반신뢰측정지표수...",
-  "SKT,'2026인사이트데이'성료...\"고객신뢰강화\"",
   "SK네트웍스서비스와손잡은에니아이,조리로봇전국유지보수망구축...",
   "신협재단,저상버스예약앱성과공개…탑승13회서860회로늘어",
   "직스테크놀로지,총상금1천만원'제2회ZYXCADAX경진대회'개최",
@@ -6001,7 +5990,18 @@
   "[재계투데이]LG전자·SK엔무브,차세대열관리기술협력外",
   "李대통령,월가에\"한국투자안하면후회\"…트럼프와군함건조논의",
   "미중정상24일백악관회담…韓반도체·배터리·철강셈법제각각",
-  "[국내증시개장시황]코스피하락,코스닥상승속혼조세"
+  "[국내증시개장시황]코스피하락,코스닥상승속혼조세",
+  "HBM,메모리성능경쟁에서패키징경쟁으로이동한다..왜?",
+  "삼성,반도체성과급세부기준이달말공개",
+  "삼성전자DS,특별성과급세부안이달말공개···복지개선도속도",
+  "李대통령,월가큰손에'韓투자'세일즈...\"첨단산업대도약에동참해...",
+  "삼성·SK하이닉스자사주매입막바지…코스피'수급공백'경계",
+  "삼성전자DS,추석뒤특별성과급베일벗는다…자사주로얼마받나",
+  "[추석특집]추석에열리는美·中'워싱턴담판'…국내증시흔들핵심...",
+  "같은스마트폰에들어가는데…D램·낸드플래시'가격흐름'갈렸다",
+  "지역맛집찾았더니맥도날드가1위…관광공사'맛집차트'의민낯",
+  "해외여행족부터집콕족까지빈틈없이…SKT가제안하는'알뜰한추석연...",
+  "현대해상,청년사회문제해결경험채용과연결한다"
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,33 @@
   [
    "2026-09-24T09:51:04.135784+09:00",
    "코스닥 코스피 혼조세 하락 상승"
+  ],
+  [
+   "2026-09-24T10:01:17.780930+09:00",
+   "받나 DS 특별성과급 베일 삼성전자 벗는다 얼마 추석 자사주로"
+  ],
+  [
+   "2026-09-24T10:01:17.780930+09:00",
+   "열리는 핵심 담판 흔들 국내 추석에 증시 워싱턴"
+  ],
+  [
+   "2026-09-24T10:01:17.780930+09:00",
+   "스마트폰에 가격 흐름 같은 들어가는데 갈렸다 D램 낸드플래시"
+  ],
+  [
+   "2026-09-24T10:01:17.780930+09:00",
+   "지역 찾았더니 맛집 민낯 맛집차트 맥도날드가 1위 관광공사"
+  ],
+  [
+   "2026-09-24T10:01:17.780930+09:00",
+   "해외여행족부터 알뜰한 빈틈없이 추석 제안하는 집콕족까지 SKT가"
+  ],
+  [
+   "2026-09-24T10:01:17.780930+09:00",
+   "청년 현대해상 연결한다 사회문제 채용과 경험 해결"
   ]
  ],
- "last_run": "2026-09-24T09:51:13.541128+09:00",
+ "last_run": "2026-09-24T10:01:36.696636+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
