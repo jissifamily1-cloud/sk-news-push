@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260922093120154",
-  "https://www.socialvalue.kr/news/view/1065573147622886",
-  "https://www.catchnews.kr/news/articleView.html?idxno=128541",
-  "https://www.etoday.co.kr/news/view/2626515",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=45028",
-  "https://www.nocutnews.co.kr/news/6581780",
   "http://www.beyondpost.co.kr/view.php?ud=202609220948442063be44c0aacd_30",
   "https://www.joongboo.com/news/articleView.html?idxno=363737500",
   "https://www.segye.com/newsView/20260922505105?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366083",
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98288",
   "https://magazine.hankyung.com/business/article/202609245122b",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=127241"
+  "http://www.rookie.co.kr/news/articleView.html?idxno=127241",
+  "https://www.newsis.com/view/NISX20260923_0003802267",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550477",
+  "https://www.asiatime.co.kr/article/20260921500407",
+  "https://www.wikitree.co.kr/articles/1161792",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550442",
+  "https://www.m-economynews.com/news/article.html?no=70978"
  ],
  "seen_titles": [
-  "[이채정의엮어읽기]\"韓의美간보기(playinggames)\"청구서는",
-  "술먹어'수억'성과급날렸네…SK하닉신입4명해고된이유가'황당'",
-  "알테오젠,삼성바이오로직스제치고K-브랜드지수제약·바이오부문2위",
-  "9월16일주식시장주요공시",
-  "[아파트값상승톱10]서울마포구‘힐스테이트마포더퍼스트’등",
-  "셀트리온,'K-브랜드지수'제약·바이오부문1위수성",
   "SKT,KISTI와'디지털트윈'양자암호통신망기술개발",
   "코스피,美반도체훈풍에장초반2%대급등…7100선돌파",
   "SK인천석유화학,추석앞두고지역사회공헌앞장",
@@ -6001,25 +5995,15 @@
   "삼성전자DS,추석직후특별성과급기준공개…복지확대도속도",
   "부상이겨낸'로컬보이'김륜성,K리그100경기출전금자탑...코스타...",
   "이재용·최태원빠진1차명단…재계총수누가증인석설까",
-  "SK전희철감독\"오늘은승패를떠나2~3쿼터경기력점검할것\""
+  "SK전희철감독\"오늘은승패를떠나2~3쿼터경기력점검할것\"",
+  "SKT,추석해외여행최대5명데이터공유…일본선외식할인도",
+  "추석에도바쁜총수들…이재용美·英,최태원·구광모멕시코行",
+  "\"데이터폭증,AI로막는다\"…이통3사,명절통신대책가동",
+  "전남광주통합특별시,출범첫승진인사단행",
+  "엔비디아다음은브로드컴…中,국유데이터센터'90%의존'네트워크손...",
+  "농업지키며RE100지원…'농촌-산단상생'영농형태양광주목"
  ],
  "recent_sigs": [
-  [
-   "2026-09-24T11:01:21.394855+09:00",
-   "이상 ANA 3명 여객기 엔진 긴급착륙 비상탈출 158명"
-  ],
-  [
-   "2026-09-24T11:11:01.469680+09:00",
-   "넓힌다 어센드 인증 화웨이 진입 국산화 레벨2 AI칩 까지"
-  ],
-  [
-   "2026-09-24T11:11:01.469680+09:00",
-   "면허 눈길 헝가리서 쌓은 사회적 SK온"
-  ],
-  [
-   "2026-09-24T11:11:01.469680+09:00",
-   "몰리는 3사 특별 이동통신 관리 AI로 추석 트래픽 통신 들어간"
-  ],
   [
    "2026-09-24T11:21:02.205305+09:00",
    "쏠림 공장 멈춘 유럽선 판매 한국 ASML 첨단 노광장비 심화"
@@ -6303,9 +6287,25 @@
   [
    "2026-09-24T17:01:17.352741+09:00",
    "감독 떠나 오늘은 전희철 승패를 3쿼터 점검할 경기력"
+  ],
+  [
+   "2026-09-24T17:11:15.196513+09:00",
+   "데이터 가동 명절 막는다 폭증 3사 대책 AI로 이통 통신"
+  ],
+  [
+   "2026-09-24T17:11:15.196513+09:00",
+   "출범 전남광주통합특별시 단행 승진인사"
+  ],
+  [
+   "2026-09-24T17:11:15.196513+09:00",
+   "브로드컴 엔비디아 국유 다음은 의존 네트워크 데이터센터"
+  ],
+  [
+   "2026-09-24T17:11:15.196513+09:00",
+   "농업 주목 농촌 영농형 RE100 상생 지원 산단 태양광 지키며"
   ]
  ],
- "last_run": "2026-09-24T17:01:29.011068+09:00",
+ "last_run": "2026-09-24T17:11:29.290795+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
