@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-today.com/news/articleView.html?idxno=88790",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=861426",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444450",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283023",
   "http://www.cctimes.kr/news/articleView.html?idxno=921242",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20094793",
   "https://www.sedaily.com/article/20094787",
   "https://economist.co.kr/article/view/ecn202609240003",
-  "https://kpenews.com/View.aspx?No=4240889"
+  "https://kpenews.com/View.aspx?No=4240889",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366077",
+  "https://www.newsway.co.kr/news/view?ud=2026092410333550864"
  ],
  "seen_titles": [
-  "<오늘의부고>",
-  "[부음]이재호장인,남기재부친,김성준부친,박광석모친",
   "[백용재칼럼]최태원의진짜위기는9440억아닌'제2의소버린'사태",
   "\"동거인엔수백억펑펑,노동자엔꼼수\"…SK,또'오너리스크'에볼모...",
   "예산군학생선수들,하계전국대회서저력",
@@ -6001,7 +5999,9 @@
   "대기업총수들2027판짜기시작…추석에도경영전선",
   "“불평등계약족쇄벗은APR-1400…美원전시장서‘가격경쟁력’입증...",
   "추석에도멈추지않는'경영시계'…총수들美·英·멕시코로",
-  "추석에도해외로..재계총수,멕시코·뉴욕·런던서글로벌경영"
+  "추석에도해외로..재계총수,멕시코·뉴욕·런던서글로벌경영",
+  "추석연휴잊은재계총수들…'AI·글로벌시장'경영행보박차",
+  "추석명절반납한재계총수들…이재용은英,최태원·구광모는美·멕..."
  ],
  "recent_sigs": [
   [
@@ -6049,7 +6049,7 @@
    "APR 경쟁력 원전시장서 불평등 족쇄 가격 입증 벗은 계약"
   ]
  ],
- "last_run": "2026-09-24T10:40:25.757871+09:00",
+ "last_run": "2026-09-24T10:50:25.934861+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
