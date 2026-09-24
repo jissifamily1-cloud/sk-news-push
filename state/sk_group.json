@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/169485",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16206601",
-  "http://www.inews24.com/view/2008234",
-  "https://news.tf.co.kr/read/economy/2368792.htm",
   "http://www.newsbrite.net/news/articleView.html?idxno=200570",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=363640",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4436086",
@@ -2999,13 +2995,13 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490263",
   "https://www.sentv.co.kr/article/view/sentv202609250001",
   "http://www.e-platform.net/news/articleView.html?idxno=105696",
-  "https://magazine.hankyung.com/business/article/202609255574b"
+  "https://magazine.hankyung.com/business/article/202609255574b",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607757741647",
+  "https://www.seoulfn.com/news/articleView.html?idxno=638714",
+  "https://www.tokenpost.kr/news/insights/413831",
+  "https://www.yna.co.kr/view/AKR20260923089300054?input=1195m"
  ],
  "seen_titles": [
-  "SK증권\"하이브목표주가하향,현재이익은방탄소년단월드투어에크...",
-  "메타주가11%급등…도대체‘뮤즈’가뭐길래",
-  "SK텔레콤주가,9월22일장중87,300원0.34%상승",
-  "'김병주MBK회장·최승호삼성노조위원장'국감증인부른다",
   "평균62일→29일'속전속결'…지선직전나온레버리지ETF책임공방",
   "[노태우'안방비자금'의수상한흐름①]김옥숙,재단에147억출연...이...",
   "이소영중기장관후보자,청문문턱넘었다…'부적격'우려병기",
@@ -6001,7 +5997,11 @@
   "키움증권,'철권스타즈컵'후원...고객접점확대",
   "재계총수들,추석에도경영행보…북미·영국서글로벌네트워크강화",
   "3대메가프로젝트로전력수요폭증…높아지는'FirmPower'의중요성",
-  "“국감서는티빙최주희”대표직유지가능할까"
+  "“국감서는티빙최주희”대표직유지가능할까",
+  "[추석풀가동①]삼성전자·SK하이닉스,추석에도AI메모리'풀가동'...",
+  "[뉴욕증시]국채금리급등vs호르무즈개방기대'혼조'···메타4%↑·...",
+  "[온체인주식선물]삼성전자,정규장종가보다4.81%할인",
+  "SK는'넓은부지'·삼성은'속도전'…호남반도체투자의지"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,17 @@
   [
    "2026-09-25T08:31:12.942038+09:00",
    "대표직 최주희 티빙 유지 국감서는 가능할까"
+  ],
+  [
+   "2026-09-25T08:41:04.748755+09:00",
+   "정규장 삼성전자 종가보다 할인"
+  ],
+  [
+   "2026-09-25T08:41:04.748755+09:00",
+   "투자의지 호남 삼성은 SK는 부지 속도전 반도체 넓은"
   ]
  ],
- "last_run": "2026-09-25T08:31:22.164494+09:00",
+ "last_run": "2026-09-25T08:41:14.074438+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
