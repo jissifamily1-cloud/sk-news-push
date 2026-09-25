@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2008376",
-  "https://www.news1.kr/local/gwangju-jeonnam/6299167",
-  "https://view.asiae.co.kr/article/2026092215525100603",
-  "https://www.viva100.com/article/20260922501030",
   "https://www.ziksir.com/news/articleView.html?idxno=147298",
   "https://www.dailian.co.kr/news/view/1693653/?sc=Naver",
   "https://www.etnews.com/20260922000424",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1694489/?sc=Naver",
   "https://www.newsis.com/view/NISX20260922_0003799721",
   "https://www.dt.co.kr/article/12085827",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=610000"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=610000",
+  "https://www.mt.co.kr/stock/2026/09/26/2026092608170096601",
+  "https://www.m-economynews.com/news/article.html?no=71064",
+  "https://www.ikbc.co.kr/article/view/kbc202609260006",
+  "https://biz.heraldcorp.com/article/10884751"
  ],
  "seen_titles": [
-  "금융업계,취약계층어르신에'KB동행나눔박스'전달·군인-군가족위한...",
-  "'800조호남권반도체클러스터'속도전…2030년6월첫양산목표",
-  "코스피,개인1.6조매도속강보합마감…7000선사수",
-  "과방위국감증인에티빙대표·이통3사CISO…개인정보유출·보안사고...",
   "\"호남반도체클러스터,에너지민주주의·균형발전모델돼야\"",
   "과방위,'4000만계정유출'티빙등국정감사증인·참고인42명채택",
   "가성비경쟁끝⋯K-배터리,전력기술로AIDCESS판키운다",
@@ -6001,7 +5997,11 @@
   "[추석민심르포]\"대기업온다는디될랑가\"…메가프로젝트놓고갈린...",
   "\"국평이20억\"…반도체품은동탄,올해집값전국1위",
   "이재용·최태원에한은총재까지…‘사칭리딩방’의끝없는유혹",
-  "SK이터닉스주가5만원선지켰다"
+  "SK이터닉스주가5만원선지켰다",
+  "10년전1억원투자했다면…엔비디아138억·비트코인135억원",
+  "李대통령“한·멕시코무역협정조속재개”...첨단산업·에너지협력...",
+  "李대통령\"한국·멕시코무역협정,양국경제협력고도화할것\"",
+  "‘코스피7000맞나요’개미울리는쏠림장세…상한가‘반토막’,신..."
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,13 @@
   [
    "2026-09-26T08:41:00.841823+09:00",
    "5만원선 SK이터닉스 지켰다 주가"
+  ],
+  [
+   "2026-09-26T08:53:10.508805+09:00",
+   "개미 쏠림장세 울리는 반토막 상한가 맞나요 코스피"
   ]
  ],
- "last_run": "2026-09-26T08:41:19.803672+09:00",
+ "last_run": "2026-09-26T08:53:16.554352+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
