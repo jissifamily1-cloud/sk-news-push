@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=719692",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170639",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60998",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=210057",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=854466",
-  "https://www.koreatimes.co.kr/path/A2026092114130002694",
-  "https://www.mediapen.com/news/view/1125364",
   "https://news.jtbc.co.kr/article/NB12319546?influxDiv=NAVER",
   "https://realty.chosun.com/site/data/html_dir/2026/09/19/2026091900578.html",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065098",
@@ -2999,16 +2992,16 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725649",
   "http://coinreaders.com/260089",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307527",
-  "https://www.newsis.com/view/NISX20260922_0003800267"
+  "https://www.newsis.com/view/NISX20260922_0003800267",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260925102405pzP",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95979",
+  "https://www.econovill.com/news/articleView.html?idxno=751889",
+  "http://www.newsprime.co.kr/news/article.html?no=748964",
+  "https://www.seoulfn.com/news/articleView.html?idxno=638466",
+  "http://www.newsprime.co.kr/news/article.html?no=748965",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490280"
  ],
  "seen_titles": [
-  "SK인천석유화학,1500만원상당생필품기탁…취약계층전달",
-  "코스피'전약후강'반복될까…연휴후수급·경제지표에주목",
-  "울산'중후장대AI'로제조업판바꾼다",
-  "[특징주]외국인·기관,미래에셋증권매수상위…삼성전자수급은엇갈...",
-  "Towritemorecallsummaries,pleasevisitA.",
-  "단통법폐지14개월만에후속시책...소비자보호는여전히불안",
-  "[진단·㊤]길고어두운'중국'이라는터널",
   "[일문일답]KISA\"오픈AI,국내취약점학습금지확약해\"",
   "Internet-onlybanks,regionallendersexpandalliancestocorporate",
   "U-19축구대표팀김정수호,27일부터벌교서소집훈련…배승균·모경빈...",
@@ -6001,7 +5994,14 @@
   "中CXMT단기간추격어려워…삼성·SK기술력'2~3세대'우위",
   "마이크론(MU)1,000달러안착...메모리품귀딛고목표가'1,600달러'",
   "\"샤롯데가왜여기서나와\"···친척들도몰랐던기업사명비화",
-  "\"추석상여금굴려볼까\"…운용사,美지수·AI·월배당추천"
+  "\"추석상여금굴려볼까\"…운용사,美지수·AI·월배당추천",
+  "재계총수들,추석에도광폭행보…북미·유럽서네트워크강화",
+  "추석연휴에도'2027년경영지도'그리는총수들...미국런던멕시코집...",
+  "추석에도분주한재계총수들…북미·유럽서하반기경영구상",
+  "[해외시황]뉴욕증시,유가·국채금리급등에'혼조'…다우0.31%↓",
+  "HBM밖에서도AI특수···K-반도체'제2전선'커진다",
+  "추석에도해외향한총수들…이재용·최태원,젠슨황만날까",
+  "차빌려주던쏘카가달라졌다…전기자전거·주차이어자율주행진출"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,17 @@
   [
    "2026-09-25T10:21:06.517101+09:00",
    "굴려볼까 상여금 추천 추석 AI 운용사 지수 월배당"
+  ],
+  [
+   "2026-09-25T10:31:12.439204+09:00",
+   "최태원 향한 총수들 젠슨 만날까 추석에도 이재용 해외"
+  ],
+  [
+   "2026-09-25T10:31:12.439204+09:00",
+   "달라졌다 전기자전거 자율주행 쏘카가 진출 빌려주던 이어 주차"
   ]
  ],
- "last_run": "2026-09-25T10:21:20.714268+09:00",
+ "last_run": "2026-09-25T10:31:21.593684+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
