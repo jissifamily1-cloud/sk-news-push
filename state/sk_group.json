@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157442",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=743783",
   "https://www.joongangenews.com/news/articleView.html?idxno=549914",
   "http://www.jeollailbo.com/news/articleView.html?idxno=811884",
   "https://m.skyedaily.com/news_view.html?ID=311968",
@@ -2999,11 +2997,11 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=144859",
   "https://www.fnnews.com/news/202609251108170987",
   "https://www.mk.co.kr/article/12161299",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16212412"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16212412",
+  "https://www.newsway.co.kr/news/view?ud=2026092511270132504",
+  "https://www.segye.com/newsView/20260925505018?OutUrl=naver"
  ],
  "seen_titles": [
-  "'강원전결승골로공수맹활약'제주이탈로,K리그130라운드MVP",
-  "SKhynixLooksBeyondHBMasAIInferenceReshapesMemoryDemand",
   "'2030년6월첫양산'호남반도체클러스터'전격전'가동",
   "SK하이닉스,HBM다음은'AI추론'…HBF·PIM으로메모리영역넓힌다",
   "1330원대찍던원·달러환율다시1400원위협…Fed긴축·고유가에원...",
@@ -6001,7 +5999,9 @@
   "건설사채용,원전·데이터센터인재찾기...\"토목·건축위주에서무게...",
   "[단독]\"하이닉스성과급도몸값\"…미래에셋,'롯데마트이천점'판다[...",
   "대한민국역사상이런적은없었다…올해만사이드카절반가량쏠려",
-  "[아시안게임]남자핸드볼김진영·김락찬출격…한국-카자흐스탄오후..."
+  "[아시안게임]남자핸드볼김진영·김락찬출격…한국-카자흐스탄오후...",
+  "짧은추석에도바쁜총수들…해외출장·경영구상'분주'",
+  "“삼전·SK하닉예전만못한이유있었다”…서학개미,美주식순매수로..."
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,13 @@
   [
    "2026-09-25T11:21:01.679802+09:00",
    "오후 남자 핸드볼 카자흐스탄 김진영 출격 한국 김락찬"
+  ],
+  [
+   "2026-09-25T11:31:12.609000+09:00",
+   "삼전 예전만 있었다 주식 서학개미 SK하닉 순매수로 못한 이유"
   ]
  ],
- "last_run": "2026-09-25T11:21:12.726940+09:00",
+ "last_run": "2026-09-25T11:31:19.875673+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
