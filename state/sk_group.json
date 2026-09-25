@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=549914",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=811884",
-  "https://m.skyedaily.com/news_view.html?ID=311968",
   "https://www.koreaherald.com/article/10882063",
   "https://www.tokenpost.kr/news/blockchain/412019",
   "https://www.sisajournal.com/news/articleView.html?idxno=388054",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12161299",
   "https://www.topstarnews.net/news/articleView.html?idxno=16212412",
   "https://www.newsway.co.kr/news/view?ud=2026092511270132504",
-  "https://www.segye.com/newsView/20260925505018?OutUrl=naver"
+  "https://www.segye.com/newsView/20260925505018?OutUrl=naver",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95984",
+  "https://biz.sbs.co.kr/article_hub/20000336706?division=NAVER",
+  "https://www.yna.co.kr/view/AKR20260923056600003?input=1195m"
  ],
  "seen_titles": [
-  "'2030년6월첫양산'호남반도체클러스터'전격전'가동",
-  "SK하이닉스,HBM다음은'AI추론'…HBF·PIM으로메모리영역넓힌다",
-  "1330원대찍던원·달러환율다시1400원위협…Fed긴축·고유가에원...",
   "SKT·KISTI,양자암호망구축전가상검증…'디지털트윈'기술개발",
   "2030년6월첫양산목표'호남권반도체클러스터'조성",
   "“지금유가얼마지?”…증시들쑤신기름값공식",
@@ -6001,7 +5998,10 @@
   "대한민국역사상이런적은없었다…올해만사이드카절반가량쏠려",
   "[아시안게임]남자핸드볼김진영·김락찬출격…한국-카자흐스탄오후...",
   "짧은추석에도바쁜총수들…해외출장·경영구상'분주'",
-  "“삼전·SK하닉예전만못한이유있었다”…서학개미,美주식순매수로..."
+  "“삼전·SK하닉예전만못한이유있었다”…서학개미,美주식순매수로...",
+  "삼성반도체'역대급'보상예고…성과급산정안추석직후공개",
+  "李대통령,최태원·구광모등과함께韓-멕시코기업인간담회참석",
+  "K-윤활기유,하반기도'맑음'…반사이익넘어공급망대안으로"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,13 @@
   [
    "2026-09-25T11:31:12.609000+09:00",
    "삼전 예전만 있었다 주식 서학개미 SK하닉 순매수로 못한 이유"
+  ],
+  [
+   "2026-09-25T11:51:34.865952+09:00",
+   "넘어 맑음 공급망 반사이익 윤활기유 대안으로 하반기도"
   ]
  ],
- "last_run": "2026-09-25T11:41:04.505124+09:00",
+ "last_run": "2026-09-25T11:51:41.956455+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
