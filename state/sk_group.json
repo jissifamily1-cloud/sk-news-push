@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2118538",
-  "https://economist.co.kr/article/view/ecn202609220023",
-  "https://theviewers.co.kr/View.aspx?No=4237881",
-  "https://biz.heraldcorp.com/article/10881949",
-  "https://biz.heraldcorp.com/article/10881940",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276991",
-  "https://zdnet.co.kr/view/?no=20260922112358",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725312",
-  "https://www.yna.co.kr/view/AKR20260922084500008?input=1195m",
-  "https://www.newsis.com/view/NISX20260922_0003799689",
   "https://www.news1.kr/sports/soccer/6298754",
   "https://biz.heraldcorp.com/article/10882001",
   "https://biz.sbs.co.kr/article_hub/20000336183?division=NAVER",
@@ -2999,17 +2989,19 @@
   "https://www.ytn.co.kr/_ln/0101_202609250833172100",
   "https://www.mt.co.kr/stock/2026/09/25/2026092217551798528",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=868050",
-  "https://www.newsis.com/view/NISX20260925_0003803275"
+  "https://www.newsis.com/view/NISX20260925_0003803275",
+  "http://www.jndn.com/article.php?aid=1790293806440204003",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154839",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117335",
+  "https://www.etnews.com/20260925000004",
+  "https://biz.sbs.co.kr/article_hub/20000336686?division=NAVER",
+  "https://www.mt.co.kr/politics/2026/09/25/2026092508115836220",
+  "https://www.yna.co.kr/view/PYH20260925024200013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260925024100013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260925024000013?input=1196m",
+  "https://www.thebigdata.co.kr/view.php?ud=202609241825157635570d99e4c8_23"
  ],
  "seen_titles": [
-  "배터리3사,ESS수주3차전…생산능력확충승부수",
-  "농협은행,800조호남반도체클러스터금융지원…대출문턱낮춘다",
-  "[오늘의삼전닉스]배당기대감에AI낙관론까지'호재'만가득한하루",
-  "같은반세권인데청약성적은갈려…동탄에청약통장몰린이유",
-  "유한킴벌리,연천에서꿀벌숲가꾼다",
-  "‘돈맥경화’추석이두려운중기",
-  "\"커피한잔에도AI얘기\"…SK그룹일상화두된'AX'",
-  "\"대한민국엔반도체거점기관없다…국가R&D는파편화\"",
   "[EBN데이터센터]발행어음경쟁불붙은증권주...미래에셋·삼성강세,...",
   "분기말시중은행채발행급증…\"삼전닉스예금만기이슈\"",
   "평택시의회최준구의원\"반도체세수로평택미래기금\"제안",
@@ -6001,7 +5993,15 @@
   "이대통령,한-멕시코기업인간담회...최태원·구광모등참석",
   "AI·반도체ETF,'투자필수템'됐다…순자산65조돌파",
   "李,멕시코와경제협력확대…신산업까지넓힌다",
-  "李\"한·멕시코경제협력발전적기\"韓기업\"경제협정조속체결희망..."
+  "李\"한·멕시코경제협력발전적기\"韓기업\"경제협정조속체결희망...",
+  "SK는‘넓은부지’·삼성은‘속도전’…호남반도체투자의지",
+  "명절반납한재계총수들···미·영·멕시코누비며'광폭행보'",
+  "[뉴스+]추석에도멈추지않는재계시계…총수들,북미·유럽서내년경...",
+  "'6억성과급'삼성반도체의클라스…300만원짜리의자에앉아일한다",
+  "SK는'넓게'·삼성은'빠르게'…호남반도체투자의지",
+  "李대통령국빈방문에최태원·구광모·구자은등멕시코집결",
+  "이재명대통령,한-멕시코기업인간담회",
+  "[채명석의산업시각]‘수확의날’추석,우리는절망만얻었다"
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,13 @@
   [
    "2026-09-25T08:51:05.927338+09:00",
    "경제협정 적기 멕시코 경제협력 체결 발전 희망 기업 조속"
+  ],
+  [
+   "2026-09-25T09:01:17.514499+09:00",
+   "수확의 추석 절망만 우리는 얻었다"
   ]
  ],
- "last_run": "2026-09-25T08:51:17.363711+09:00",
+ "last_run": "2026-09-25T09:01:23.719768+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
