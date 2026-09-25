@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489658",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609220149&t=NN",
-  "http://www.metroseoul.co.kr/article/20260922500390",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221436532360171",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=228883",
-  "https://zdnet.co.kr/view/?no=20260922153125",
-  "https://www.newspim.com/news/view/20260922000965",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170698",
   "http://www.jeollailbo.com/news/articleView.html?idxno=811957",
   "https://www.etoday.co.kr/news/view/2628662",
   "https://www.thepublic.kr/news/articleView.html?idxno=319710",
@@ -2999,17 +2991,17 @@
   "https://www.straightnews.co.kr/news/articleView.html?idxno=311965",
   "http://www.joseilbo.com/news/news_read.php?uid=576351&class=53",
   "https://www.moneystorm.kr/news/articleView.html?idxno=6772",
-  "https://view.asiae.co.kr/article/2026092316430460869"
+  "https://view.asiae.co.kr/article/2026092316430460869",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=121534",
+  "https://view.asiae.co.kr/article/2026090910363903994",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=881807",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16215401",
+  "https://www.etoday.co.kr/news/view/2629400",
+  "https://www.ziksir.com/news/articleView.html?idxno=147477",
+  "https://biz.heraldcorp.com/article/10883832",
+  "https://www.mt.co.kr/society/2026/09/26/2026092214462015296"
  ],
  "seen_titles": [
-  "전남광주,호남권반도체클러스터구축'속도'",
-  "고객이기업신뢰도측정한다…SKT,'2026인사이트데이'개최",
-  "삼성전자·SK하이닉스자사주매입다음달조기종료…코스피수급공백...",
-  "차세대배터리기대감에전고체株함박웃음…종목별희비는엇갈려",
-  "카카오인적분할첫관문넘었다…합병반대2%대",
-  "SI3사,글로벌빅테크손잡고기업용AI시장정조준",
-  "멜콘“반도체공정환경제어국내1위…마이크론·TSMC등해외고객사...",
-  "TIGER반도체TOP100.48%상승…국내반도체대형주흐름반영",
   "\"부스돌고카지노가던CES는그만”…K팝입은‘비즈니스의밤’만...",
   "LH,용인반도체산단심사공정성강화…외부위원까지후보군확대",
   "정부R&D확대에도…K배터리협업'동상이몽'",
@@ -6001,7 +5993,15 @@
   "[지난밤뉴욕에선]3대지수,미·이란해빙무드에일제히상승",
   "‘적자기업’서200조몸값으로…SK하닉솔리다임,내년美상장시동",
   "[비즈인사이트]SK하이닉스손자회사'솔리다임',이르면내년美상장...",
-  "[에너지오디세이]⑥폐플라스틱에서석유뽑는다…열분해유사업재시동"
+  "[에너지오디세이]⑥폐플라스틱에서석유뽑는다…열분해유사업재시동",
+  "곽노정SK하이닉스사장\"메모리시장,곡선도로진입…유연한적응력...",
+  "SK하이닉스곽노정\"고객시선서AI메모리새로운가능성찾을것\"",
+  "뉴욕증시,호르무즈재개방기대감따른유가하락에상승마감",
+  "미국증시,고금리뚫고상승마감…AI투자확산에MS·반도체강세",
+  "이대통령\"한멕무역협정논의재개해야\"⋯첨단산업협력강화구상",
+  "호르무즈빗장열리나…뉴욕증시,'미·이란협상급물살'에일제히반...",
+  "최태원동거인김희영,허위사실비방유튜버에또이겼다…1000만원받...",
+  "그눈이향한곳,전부다찍혔다...성관계까지'몰카',AI안경부작용"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,21 @@
   [
    "2026-09-26T07:41:02.516219+09:00",
    "폐플라스틱에서 재시동 뽑는다 열분해유 사업 석유"
+  ],
+  [
+   "2026-09-26T07:51:06.969659+09:00",
+   "호르무즈 협상 열리나 이란 빗장 일제히 뉴욕증시 급물살"
+  ],
+  [
+   "2026-09-26T07:51:06.969659+09:00",
+   "허위사실 1000만원 비방 유튜버에 동거인 이겼다 최태원 김희영"
+  ],
+  [
+   "2026-09-26T07:51:06.969659+09:00",
+   "부작용 몰카 찍혔다 AI 향한 눈이 안경 전부 성관계까지"
   ]
  ],
- "last_run": "2026-09-26T07:41:08.282998+09:00",
+ "last_run": "2026-09-26T07:51:18.403188+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
