@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447807",
-  "https://www.newsis.com/view/NISX20260922_0003800033",
-  "https://www.yna.co.kr/view/AKR20260922093000007?input=1195m",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16206707",
-  "https://www.bloter.net/news/articleView.html?idxno=674210",
-  "https://view.asiae.co.kr/article/2026092211494892516",
-  "https://www.ajunews.com/view/20260922112744625",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=3507",
   "https://www.insight.co.kr/news/574753",
   "https://www.woodkorea.co.kr/news/articleView.html?idxno=91509",
@@ -2999,16 +2992,16 @@
   "https://www.busan.com/view/busan/view.php?code=2026092508091448723",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769750&plink=ORI&cooper=NAVER",
   "https://www.kukinews.com/article/view/kuk202609250001",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5221358"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5221358",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600704",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490271",
+  "https://www.yna.co.kr/view/AKR20260923128400017?input=1195m",
+  "https://www.tokenpost.kr/news/market/413856",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490269",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522931",
+  "https://www.ytn.co.kr/_ln/0104_202609250921546788"
  ],
  "seen_titles": [
-  "‘800조호남권반도체’2030년6월첫양산목표",
-  "'26조유가담합'재판본격화…정유4사11월부터핵심증인신문시작",
-  "개인정보위,통신3사CEO만난다…'개인정보보호'논의",
-  "삼성전기주가장중6%대올라,미국나스닥훈풍에국내IT주강세",
-  "제주이탈로,K리그130RMVP…K리그2는서울E박재용",
-  "한가위에도쉼없는스포츠…AG금빛도전·모레노호는첫걸음",
-  "\"금빛도전·3위싸움격화\"한가위에도국내외스포츠풀가동",
   "[반도체팹사이씬]美팹늘리는데…삼성·SK,'인재확보'비상",
   "'유가담합'재판,리니언시임직원11월증인신문",
   "中배터리굴기에K-배터리'원팀'...정부3000억·민간8조투입",
@@ -6001,7 +5994,14 @@
   "짧은추석에도출국한총수들…뉴욕서‘AI삼자회동’다시열리나",
   "이대통령,한-멕시코기업인간담회주재…최태원·구광모등참석",
   "李대통령“멕시코와원유·핵심자원협력”…방산·디지털도넓힌다",
-  "이대통령,한·멕시코기업인간담회…최태원·구광모도참석"
+  "이대통령,한·멕시코기업인간담회…최태원·구광모도참석",
+  "삼성반도체직원'6억원성과급'예고이달말산정방식·지급기준공...",
+  "빅뱅월드투어에베이비몬스터까지…YG엔터쌍끌이성장",
+  "누리호에실린국산위성15기…우주서어떤임무맡나",
+  "[국내증시개장시황]코스닥2%급등,주요종목혼조세",
+  "스트레이키즈월드투어출격…JYP실적다시뛸까",
+  "대기업,'상생·내수활성화'팔걷었다...추석앞두고대금조기지급",
+  "트럼프·시진핑국빈만찬...트럼프·시진핑연설"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,33 @@
   [
    "2026-09-25T09:21:39.379109+09:00",
    "국민 AI로 메신저 카카오 넘어"
+  ],
+  [
+   "2026-09-25T09:40:58.954732+09:00",
+   "쌍끌이 베이비몬스터까지 월드투어에 빅뱅 성장 YG엔터"
+  ],
+  [
+   "2026-09-25T09:40:58.954732+09:00",
+   "국산 15기 우주서 누리호에 위성 실린 맡나 어떤 임무"
+  ],
+  [
+   "2026-09-25T09:40:58.954732+09:00",
+   "종목 코스닥 급등 혼조세 주요"
+  ],
+  [
+   "2026-09-25T09:40:58.954732+09:00",
+   "다시 월드투어 스트레이키즈 JYP 출격 실적 뛸까"
+  ],
+  [
+   "2026-09-25T09:40:58.954732+09:00",
+   "지급 걷었다 활성화 내수 조기 대금 대기업 앞두고 추석 상생"
+  ],
+  [
+   "2026-09-25T09:40:58.954732+09:00",
+   "국빈만찬 트럼프 연설 시진핑"
   ]
  ],
- "last_run": "2026-09-25T09:31:13.548888+09:00",
+ "last_run": "2026-09-25T09:41:18.160526+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
