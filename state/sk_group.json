@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.skbroadband.com/news/articleView.html?idxno=238630",
-  "https://www.ilyosisa.co.kr/news/article.html?no=258060",
-  "https://cn.asiatoday.co.kr/view.php?key=20260909001019376",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121534",
-  "https://view.asiae.co.kr/article/2026090910363903994",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277080",
   "http://www.finomy.com/news/articleView.html?idxno=262149",
   "https://www.mt.co.kr/tech/2026/09/22/2026092215155422017",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201825",
@@ -2999,15 +2993,15 @@
   "https://biz.sbs.co.kr/article_hub/20000336727?division=NAVER",
   "https://view.asiae.co.kr/article/2026092110431372607",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065540",
-  "https://www.newsway.co.kr/news/view?ud=2026092113302344305"
+  "https://www.newsway.co.kr/news/view?ud=2026092113302344305",
+  "https://www.ziksir.com/news/articleView.html?idxno=147476",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490332",
+  "https://www.kyeonggi.com/article/20260926580003",
+  "https://www.dt.co.kr/article/12085823",
+  "https://www.munhwa.com/article/11619492",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609260005&t=NN"
  ],
  "seen_titles": [
-  "AI트래픽폭증하는데투자수익비대칭…\"망이용대가·품질차등화해...",
-  "'이웃과함께풍성한한가위'…증평군,따뜻한나눔잇따라",
-  "미국휩쓴메타'뮤즈'…네카오·통신사도'실행형AI'각축",
-  "대출미끼'휴대폰깡'…9억챙긴일당검거",
-  "주식0원→20억원→0원…동아시아문화센터3년째부실공시논란",
-  "SK海力士郭鲁正：存储器竞争瞬息万变…必须灵活应对",
   "곽노정SK하이닉스사장\"메모리시장,곡선도로진입…유연한적응력...",
   "SK하이닉스곽노정\"고객시선서AI메모리새로운가능성찾을것\"",
   "K-브랜드지수제약·바이오부문'재편'...삼성바이오등눈길",
@@ -6001,7 +5995,13 @@
   "뉴욕증시,미·이란협상기대에상승…AI·반도체주강세",
   "실물도없는칩,앤스로픽이수천억주고사는이유[테크토크]",
   "'추석후유증달랜다'…이통사로러닝·문화·공연누리자",
-  "추석용돈도'주식'으로…미성년'억대주주'1년새두배"
+  "추석용돈도'주식'으로…미성년'억대주주'1년새두배",
+  "\"한·멕시코FTA협상재개해야\"…李대통령,북미통상돌파구모색",
+  "유가2%급락하자뉴욕증시웃었다…AI·반도체주까지불붙어",
+  "李대통령“한·멕시코무역협정,경제협력고도화기초될것”",
+  "李대통령“한멕무역협정논의조속재개를…북미통상불확실‘분명...",
+  "[속보]간밤美증시,미·이란긴장완화에상승…SK하닉ADR2.78%↑",
+  "SK하이닉스손자회사도美증시가나…\"이르면내년상장\""
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,17 @@
   [
    "2026-09-26T07:21:04.407815+09:00",
    "주주 억대 으로 1년 용돈도 주식 미성년 추석"
+  ],
+  [
+   "2026-09-26T07:31:10.409748+09:00",
+   "간밤 긴장 ADR SK하닉 증시 이란 상승 완화에"
+  ],
+  [
+   "2026-09-26T07:31:10.409748+09:00",
+   "내년 SK하이닉스 상장 증시 이르면 가나 손자회사도"
   ]
  ],
- "last_run": "2026-09-26T07:21:16.002035+09:00",
+ "last_run": "2026-09-26T07:31:19.073858+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
