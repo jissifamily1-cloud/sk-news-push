@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260824161451",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=281344",
   "https://biz.chosun.com/it-science/ict/2026/08/24/FKYHPFSYGNEKPNGTS653YO23DY/",
   "https://www.sedaily.com/article/20082614",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4102363",
@@ -2999,11 +2997,11 @@
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34810",
   "https://news.ifm.kr/news/articleView.html?idxno=480250",
   "https://www.ikbc.co.kr/article/view/kbc202609250026",
-  "https://news.ifm.kr/news/articleView.html?idxno=480251"
+  "https://news.ifm.kr/news/articleView.html?idxno=480251",
+  "https://news.ifm.kr/news/articleView.html?idxno=480252",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=365417"
  ],
  "seen_titles": [
-  "[전남광주소식]SK하이닉스광주군공항현장방문·담양군'첨단4지구...",
-  "전남광주,SK하이닉스경영진광주군공항직접둘러봤다",
   "SK하이닉스경영진,광주군공항재방문···반도체투자실행논의",
   "[이슈]SK하이닉스,광주군공항현장전격방문…반도체클러스터가속...",
   "SK하이닉스경영진,광주군공항전격방문…호남권반도체클러스터'...",
@@ -6001,7 +5999,9 @@
   "법정에낸'904억메모'…30년묵은비자금은닉의혹수사",
   "이재명대통령,멕시코서'경제영토'넓혔다…투자·AI협력강화,북미...",
   "추석연휴에도분주한재계총수들...북미·유럽서네트워크강화",
-  "멕시코문두드린삼성·LG·SK…이대통령순방효과로날개다나"
+  "멕시코문두드린삼성·LG·SK…이대통령순방효과로날개다나",
+  "삼성은가전,기아는전기차,LS는전력…멕시코간9개기업'누가무엇...",
+  "최태원·구광모멕시코행,이재용뉴욕·런던행…추석에도분주"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,17 @@
   [
    "2026-09-25T17:20:14.654729+09:00",
    "법정에 메모 904억 비자금 수사 은닉 의혹 묵은 30년"
+  ],
+  [
+   "2026-09-25T18:00:29.649027+09:00",
+   "전기차 누가 기업 기아는 LS는 삼성은 9개 멕시코 가전 전력 무엇"
+  ],
+  [
+   "2026-09-25T18:00:29.649027+09:00",
+   "구광모 추석에도 분주 뉴욕 런던행 멕시코행 이재용"
   ]
  ],
- "last_run": "2026-09-25T17:50:24.257236+09:00",
+ "last_run": "2026-09-25T18:00:47.837607+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6422,6 +6430,7 @@
   "cstimes.com": "컨슈머타임스(Consumertimes)",
   "tournews21.com": "투어코리아",
   "e-platform.net": "에너지플랫폼뉴스",
-  "nongmin.com": "농민신문"
+  "nongmin.com": "농민신문",
+  "sisafocus.co.kr": "시사포커스"
  }
 }
