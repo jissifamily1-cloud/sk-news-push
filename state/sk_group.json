@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000100182",
-  "https://www.yna.co.kr/view/AKR20260922082700371?input=1195m",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489639",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1408943",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7185594",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296006",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=204661",
   "http://www.newswatch.kr/news/articleView.html?idxno=81283",
@@ -2999,14 +2994,14 @@
   "https://www.the-today.com/news/articleView.html?idxno=90754",
   "https://www.the-today.com/news/articleView.html?idxno=90753",
   "https://www.sedaily.com/article/20095017",
-  "https://news.mtn.co.kr/news-detail/2026092516445140457"
+  "https://news.mtn.co.kr/news-detail/2026092516445140457",
+  "https://www.yna.co.kr/view/AKR20260925018300007?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260926007551072?input=1195m",
+  "https://www.ddaily.co.kr/page/view/2026092404291536591",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=6771",
+  "https://www.news1.kr/local/gwangju-jeonnam/6300486"
  ],
  "seen_titles": [
-  "SK이노베이션14만1500원강보합…배터리·윤활유개선뒤정유마진점검",
-  "[오후장체크포인트]수급주체없이7천선사수“지금부터2~3주가승...",
-  "[셀럽의한수]삼전닉스자사주매입곧마무리10월수급공백우려해...",
-  "SKT,고객행동으로‘기업신뢰’잰다…자문단과지표마련",
-  "[강성곤의아름다운우리말]상황이부르는말,호칭의재발견",
   "마스가·MRO기대에조선기자재株들썩…관련주에몰아치는매수溫氣",
   "SK온,ESS생산거점재편속도…기존공장활용확대",
   "[공기업레이더]\"삼전·하닉에선납금요구?자금조달아이디어중하나...",
@@ -6001,7 +5996,12 @@
   "[투데이온]최태원의'인텔승부수'통했다,솔리다임1500억弗신화쓸...",
   "주간증시전망,유가내리자살아난위험선호…추석뒤코스피도웃을까",
   "李대통령,‘USMCA’美압박맞은‘한-멕’기업에…“위기는기회다”",
-  "원전,데이터센터관련직업군이라면…건설사채용문'활짝'"
+  "원전,데이터센터관련직업군이라면…건설사채용문'활짝'",
+  "◇오늘의경기(26일)",
+  "뉴욕증시,미·이란협상기대에상승…AI·반도체주강세(종합)",
+  "[PLAYIT]차기'갤럭시울트라'두뇌미리보기…퀄컴스냅드래곤8엘리...",
+  "멕시코국빈방문,李대통령…기업인간담회·투자보장협정개정으로경...",
+  "제조업기반취약한광주,이젠글로벌AI부품생산기지로"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,21 @@
   [
    "2026-09-26T06:21:07.240306+09:00",
    "원전 채용문 직업군이라면 활짝 건설사 데이터센터"
+  ],
+  [
+   "2026-09-26T06:31:14.320354+09:00",
+   "퀄컴 엘리 두뇌 차기 갤럭시 미리보기 스냅드래곤8 울트라"
+  ],
+  [
+   "2026-09-26T06:31:14.320354+09:00",
+   "간담회 방문 국빈 투자보장협정 대통령 기업인 멕시코 개정으로"
+  ],
+  [
+   "2026-09-26T06:31:14.320354+09:00",
+   "이젠 기반 글로벌 AI 제조업 취약한 생산기지로 부품 광주"
   ]
  ],
- "last_run": "2026-09-26T06:21:21.064274+09:00",
+ "last_run": "2026-09-26T06:31:25.809927+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
