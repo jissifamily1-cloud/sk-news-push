@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12159369",
-  "https://www.news1.kr/local/gwangju-jeonnam/6299067",
-  "https://www.busan.com/view/busan/view.php?code=2026092215164543910",
-  "https://www.newsis.com/view/NISX20260922_0003800397",
-  "https://www.jbnews.com/news/articleView.html?idxno=1512124",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728252",
   "https://news.skbroadband.com/news/articleView.html?idxno=238630",
   "https://www.ilyosisa.co.kr/news/article.html?no=258060",
   "https://cn.asiatoday.co.kr/view.php?key=20260909001019376",
@@ -2999,15 +2993,15 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092170665",
   "https://www.news1.kr/society/court-prosecution/6300904",
   "https://www.ddaily.co.kr/page/view/2026092312333658949",
-  "https://www.sidae.com/article/2026092214264422736"
+  "https://www.sidae.com/article/2026092214264422736",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576991140418",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282619",
+  "https://biz.sbs.co.kr/article_hub/20000336727?division=NAVER",
+  "https://view.asiae.co.kr/article/2026092110431372607",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065540",
+  "https://www.newsway.co.kr/news/view?ud=2026092113302344305"
  ],
  "seen_titles": [
-  "SK케미칼,치매예방캠페인'건뇌하세요'온라인상영관운영",
-  "정재헌SKT대표,공공AI시장공략...통신·카드·이동데이터묶는다",
-  "TSMC,1.4나노A14내년1분기시험생산…삼성전자와고객확보전본격화",
-  "휠체어이동길넓힌신협·SK·위즈온…대전시공공서비스로",
-  "전남광주특별시에'반도체로'생긴다…10월8일명예도로명부여",
-  "프로농구,아시안게임금메달열기이어간다",
   "AI트래픽폭증하는데투자수익비대칭…\"망이용대가·품질차등화해...",
   "'이웃과함께풍성한한가위'…증평군,따뜻한나눔잇따라",
   "미국휩쓴메타'뮤즈'…네카오·통신사도'실행형AI'각축",
@@ -6001,7 +5995,13 @@
   "'0000'비밀번호바꾸라는정부…7년전캠페인또꺼냈다",
   "'세기의이혼'이어지지만재판상이혼은매년감소…이유는?",
   "고적층대신저단HBM…자율주행·로봇새수요처로[반도체레이다]",
-  "추석연휴잊은반도체·디스플레이,24시간멈추지않는다"
+  "추석연휴잊은반도체·디스플레이,24시간멈추지않는다",
+  "SK하이닉스,'2026미래포럼'서사업·기술방향성모색",
+  "뉴욕증시,미-이란협상기대에상승...다우존스1%↑",
+  "뉴욕증시,미·이란협상기대에상승…AI·반도체주강세",
+  "실물도없는칩,앤스로픽이수천억주고사는이유[테크토크]",
+  "'추석후유증달랜다'…이통사로러닝·문화·공연누리자",
+  "추석용돈도'주식'으로…미성년'억대주주'1년새두배"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,21 @@
   [
    "2026-09-26T07:11:13.297374+09:00",
    "추석 반도체 연휴 않는다 디스플레이 24시간 잊은 멈추지"
+  ],
+  [
+   "2026-09-26T07:21:04.407815+09:00",
+   "주고 사는 실물도 이유 앤스로픽이 수천억 없는"
+  ],
+  [
+   "2026-09-26T07:21:04.407815+09:00",
+   "달랜다 러닝 이통사로 공연 누리자 후유증 추석 문화"
+  ],
+  [
+   "2026-09-26T07:21:04.407815+09:00",
+   "주주 억대 으로 1년 용돈도 주식 미성년 추석"
   ]
  ],
- "last_run": "2026-09-26T07:11:40.365564+09:00",
+ "last_run": "2026-09-26T07:21:16.002035+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
