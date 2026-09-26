@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12159435",
-  "https://news.mtn.co.kr/news-detail/2026092215593243569",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=263868",
-  "http://www.newskr.kr/news/articleView.html?idxno=106590",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221519552760197",
-  "https://en.yna.co.kr/view/AEN20260922006751320?input=2106m",
-  "https://biz.sbs.co.kr/article_hub/20000336286?division=NAVER",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363666",
   "http://www.newstomato.com/ReadNews.aspx?no=1314562&inflow=N",
   "https://www.mk.co.kr/article/12159453",
   "https://cc.newdaily.co.kr/site/data/html/2026/09/22/2026092200261.html",
@@ -2999,17 +2991,17 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=277405",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53243",
   "https://www.news2day.co.kr/article/20260926500005",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=70547"
+  "https://www.newswhoplus.com/news/articleView.html?idxno=70547",
+  "https://www.econovill.com/news/articleView.html?idxno=751915",
+  "https://www.econovill.com/news/articleView.html?idxno=751916",
+  "https://www.tokenpost.kr/news/breaking/414345",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4108685",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725675",
+  "https://www.mediapen.com/news/view/1126111",
+  "https://www.segye.com/newsView/20260926503152?OutUrl=naver",
+  "https://www.cwn.kr/news/articleView.html?idxno=57435"
  ],
  "seen_titles": [
-  "해수부·HMM부산행…부산역‘비스퀘어’매각주목",
-  "[함께가자우리ESG]신협재단,휠체어버스예약앱성과빛났다",
-  "SK에코플랜트,반도체·AI신입68명하이테크부문배치",
-  "놀이공원할인·해외로밍…통신3사,추석선물풍성",
-  "코스피'7000선'지켰다…코스닥은소폭하락[MTN마감시황]",
-  "SK에코플랜트,신입68명대상반도체·AI온보딩프로그램진행",
-  "코스피장중7,170선찍고상승폭반납",
-  "유신컨소시엄,호남반도체산단밑그림짠다",
   "(LEAD)SeoulstocksedgeuponchipgainsamidrenewedAIoptimism;Kore",
   "SK사회적가치연구원,'AI기반CSR플랫폼'첫공개",
   "'개미1.6조매도'코스피전강후약AI낙관론재부각…삼성전자1%↑",
@@ -6001,7 +5993,15 @@
   "靑\"한-멕시코무역협정논의조속재개해야…기업도전뒷받침\"",
   "뉴욕증시,유가하락에동반상승…다우0.9%↑",
   "[N2포커스]李대통령“한·멕시코무역협정,경제협력고도화기반”...",
-  "재계총수들,추석연휴해외서경영행보"
+  "재계총수들,추석연휴해외서경영행보",
+  "마이크론,다음주'가이던스500억달러'실적시험대…시장눈높이높...",
+  "李대통령\"무역협정재개논의촉구\"…美·멕시코협정불확실성언급",
+  "솔리다임,2027년IPO검토…기업가치최대1500억달러거론",
+  "李대통령\"한·멕무역협정논의조속재개해야...경제협력더고도화시...",
+  "뉴욕증시,미·이란대화기대에일제히상승…AI·반도체주강세",
+  "SK하이닉스낸드자회사솔리다임,내년뉴욕상장검토...기업가치1500억...",
+  "반도체호황아래소비자는‘칩플레이션’부담…컴퓨터23.7%↑·태블릿...",
+  "누리호,'국산위성15기발사'로본격우주임무개시…정밀감시부터..."
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,17 @@
   [
    "2026-09-26T09:21:06.213166+09:00",
    "품은반도건설의 자족도시 집값 카이브 계양신도시 일자리가"
+  ],
+  [
+   "2026-09-26T09:51:01.923742+09:00",
+   "컴퓨터 부담 아래 태블릿 반도체 호황 소비자는 칩플레이션"
+  ],
+  [
+   "2026-09-26T09:51:01.923742+09:00",
+   "감시부터 위성 발사 국산 정밀 본격 누리호 15기 임무 개시 우주"
   ]
  ],
- "last_run": "2026-09-26T09:41:05.168661+09:00",
+ "last_run": "2026-09-26T09:51:10.514692+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
