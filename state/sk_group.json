@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202609220057",
-  "http://www.joseilbo.com/news/news_read.php?uid=576233&class=17",
-  "https://www.newsway.co.kr/news/view?ud=2026092211291369715",
   "https://www.cbci.co.kr/news/articleView.html?idxno=609093",
   "https://www.joongangenews.com/news/articleView.html?idxno=550184",
   "https://www.hani.co.kr/arti/area/capital/1278706.html",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/News/Read?newsId=02259926645584056&mediaCodeNo=257",
   "https://www.hankyung.com/article/2026092336196",
   "https://www.topstarnews.net/news/articleView.html?idxno=16216026",
-  "https://sateconomy.co.kr/news/view/1065607268140255"
+  "https://sateconomy.co.kr/news/view/1065607268140255",
+  "https://www.newspim.com/news/view/20260926000145",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=311969",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=610048"
  ],
  "seen_titles": [
-  "[업앤다운]삼성증권2.83%↑·미래에셋증권2.82%↑나란히강세",
-  "[건설플러스]금호건설,2026하반기신입사원공개채용外",
-  "국회경제대도약위원회",
   "거래대금줄자증권주도약세…애프터마켓효과주목",
   "뷰티업계최초…에이피알,AI관리·제품신뢰성국제인증",
   "SK하이닉스,잇단해외팹투자설…곽노정\"신규거점준비중\"",
@@ -6001,7 +5998,10 @@
   "‘경영권분쟁’고려아연회사채시장‘노크’…최대3000억조달",
   "\"1000개중에뭘담지?\"…노후자금굴리다멘붕온개미들[김연지의연...",
   "\"8.5초전역전페이드어웨이\"…현대모비스,LG꺾고시범경기2연승",
-  "삼성전자·SK하이닉스·현대차,미·중‘두달휴전’…추가관세미뤘..."
+  "삼성전자·SK하이닉스·현대차,미·중‘두달휴전’…추가관세미뤘...",
+  "[프로농구]'아바디아노결승포'현대모비스,시범경기서LG에역전승…...",
+  "미중무역휴전두달연장합의삼성전자·SK하이닉스영향은?",
+  "호르무즈재개방기대감에유가진정…AI·반도체주일제히반등"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,17 @@
   [
    "2026-09-26T19:11:01.214139+09:00",
    "노후자금 중에 김연지의 멘붕 굴리다 1000개 개미들 담지"
+  ],
+  [
+   "2026-09-26T19:41:01.900892+09:00",
+   "무역휴전 SK하이닉스 미중 연장 영향은 합의삼성전자"
+  ],
+  [
+   "2026-09-26T19:41:01.900892+09:00",
+   "기대감에 유가 진정 호르무즈 일제히 재개방 AI 반도체주 반등"
   ]
  ],
- "last_run": "2026-09-26T19:31:15.458084+09:00",
+ "last_run": "2026-09-26T19:41:10.746231+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
