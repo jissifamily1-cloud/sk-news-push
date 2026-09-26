@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157451",
-  "https://magazine.hankyung.com/business/article/202609221851b",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16207223",
-  "https://www.yna.co.kr/view/AKR20260922178700003?input=1195m",
   "https://www.newsis.com/view/NISX20260922_0003800836",
   "http://www.paxetv.com/news/articleView.html?idxno=282600",
   "https://www.donga.com/news/Economy/article/all/20260922/134721356/1",
@@ -2999,13 +2995,13 @@
   "https://www.kukinews.com/article/view/kuk202609140218",
   "https://www.etoday.co.kr/news/view/2628858",
   "https://biz.chosun.com/stock/stock_general/2026/09/27/RDEK3BU44FGYTFRPDJVRRS2DEE/",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447945"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=447945",
+  "https://www.hani.co.kr/arti/opinion/column/1278728.html",
+  "https://www.dongponews.net/news/articleView.html?idxno=60650",
+  "https://www.ziksir.com/news/articleView.html?idxno=147424",
+  "https://www.newspim.com/news/view/20260922001095"
  ],
  "seen_titles": [
-  "포스코퓨처엠,SK온과1.1조원LFP양극재공급계약",
-  "코스피7000선지켜…개인1.6조매도",
-  "SK온,포스코퓨처엠서1.1조원LFP양극재조달…美ESS공급망'탈중국...",
-  "SK온,비중국산LFP양극재확보…美ESS시장공략",
   "SK온,비중국ESS핵심소재확보쾌거,포스코퓨처엠과1.1조계약",
   "포스코퓨처엠,SK온과LFP양극재1.1조원공급계약",
   "SK에코플랜트,반도체·AI신입68명집중교육…용인현장방문",
@@ -6001,7 +5997,11 @@
   "철강이어석화업계에도하청직고용압박…불황·구조조정속삼중고",
   "대기업유동성해법된PRS…주가하락땐정산리스크'부메랑'",
   "[주간증시전망]美물가·마이크론실적발표에쏠린눈",
-  "SK최태원일본반도체공장밀어붙이나,잦은재해에일본정부인허가..."
+  "SK최태원일본반도체공장밀어붙이나,잦은재해에일본정부인허가...",
+  "갈길먼한-일협력[문정인칼럼]",
+  "대한민국사회적가치페스타21일개막…400여기관한자리에",
+  "\"11조팔던외인,다시돌아올까\"…추석후코스피'수급'첫시험대",
+  "[단독]레버리지ETF후삼성전자장중변동폭41%·하이닉스57%확대"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,17 @@
   [
    "2026-09-27T06:11:06.730877+09:00",
    "인허가 일본 재해에 반도체 일본정부 잦은 최태원 밀어붙이나 공장"
+  ],
+  [
+   "2026-09-27T06:21:03.835033+09:00",
+   "추석 외인 시험대 돌아올까 11조 다시 수급 코스피 팔던"
+  ],
+  [
+   "2026-09-27T06:21:03.835033+09:00",
+   "레버리지 변동폭 ETF 하이닉스 삼성전자 확대 장중"
   ]
  ],
- "last_run": "2026-09-27T06:12:01.516640+09:00",
+ "last_run": "2026-09-27T06:21:12.783466+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
