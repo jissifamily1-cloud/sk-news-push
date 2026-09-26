@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84535",
   "https://www.sisaweek.com/news/articleView.html?idxno=237815",
   "https://www.wikitree.co.kr/articles/1158566",
   "https://biz.heraldcorp.com/article/10869076",
@@ -2999,10 +2998,10 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=854832",
   "https://www.etoday.co.kr/news/view/2629417",
   "https://www.ytn.co.kr/_ln/0101_202609261217538524",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/26/2026092690037.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/26/2026092690037.html",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744101"
  ],
  "seen_titles": [
-  "'한화1차지명출신사령탑'유소년야구정상등극,대전서구연맹회장...",
   "최태원회장,울산AI데이터센터·정유공장점검…AX현황확인",
   "SK최태원울산AI데이터센터·울산CLX현장방문,'AX'현황점검",
   "최태원,SK그룹AX현장경영...울산AI데이터센터·울산CLX방문",
@@ -6001,7 +6000,8 @@
   "李대통령\"한-멕시코'첨단산업·에너지·문화'함께가자\"",
   "\"자산불리는법알려주겠다\"⋯한국은행총재사칭SNS주의보",
   "멕시코서경제·문화협력주력...\"무역협정논의조속재개\"",
-  "최태원동거인김희영,허위사실유튜버에또승소…1000만원배상"
+  "최태원동거인김희영,허위사실유튜버에또승소…1000만원배상",
+  "[한-멕시코포럼]李\"멕시코제조역량,韓경쟁력더해지면성장의기..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-09-26T11:50:15.041572+09:00",
    "사칭 불리는 주의보 한국은행 총재 알려주겠다 자산 SNS"
+  ],
+  [
+   "2026-09-26T12:50:13.086178+09:00",
+   "더해지면 성장의 경쟁력 멕시코 제조역량"
   ]
  ],
- "last_run": "2026-09-26T12:40:26.028122+09:00",
+ "last_run": "2026-09-26T12:50:29.315990+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
