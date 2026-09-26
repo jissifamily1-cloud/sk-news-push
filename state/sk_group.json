@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489707",
-  "https://www.hani.co.kr/arti/society/labor/1278665.html",
-  "https://www.mk.co.kr/article/12159484",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=665164",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076320",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1409062",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=320265",
   "http://www.newsdream.kr/news/articleView.html?idxno=118770",
   "http://www.press9.kr/news/articleView.html?idxno=83208",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=311760",
@@ -2999,16 +2992,16 @@
   "https://www.segye.com/newsView/20260926503375?OutUrl=naver",
   "https://www.koreajoongangdaily.com/business/sk-hynixs-solidigm-eyes-150b-ipo-for-as-early-as-2027-reuters-report-suggestsnbsp/12891770",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490349",
-  "https://www.abcn.kr/news/articleView.html?idxno=92340"
+  "https://www.abcn.kr/news/articleView.html?idxno=92340",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81365",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=144890",
+  "https://www.tokenpost.kr/news/breaking/414355",
+  "https://www.m-i.kr/news/articleView.html?idxno=1418064",
+  "https://www.etnews.com/20260926000010",
+  "https://www.g-enews.com/view.php?ud=202609231141486854139bf6e4b2_1",
+  "https://www.yna.co.kr/view/AKR20260923099000017?input=1195m"
  ],
  "seen_titles": [
-  "코스피,7100선아래로…삼전·닉스도상승분반납",
-  "JP모건운용\"원화,엔화보다강세이어갈것…100엔당860~880원대\"",
-  "코스피7천돌파했지만ETF머니마켓관망",
-  "[거래소기관]2차전지도엇박자…엘앤에프사고삼성SDI·LG엔솔팔아",
-  "반도체사업장27곳서산안법위반338건적발…SK하이닉스가3분의1",
-  "과방위,개인정보유출티빙·통신3사등국감줄소환",
-  "코스피,유가반등에상승폭반납…7010선마감",
   "코스피2%대상승출발했지만…7017선마감",
   "신협재단,사회적가치페스타서'저상버스탑승예약앱제공'성과공개",
   "'전강후약'코스피장중7170선찍고상승폭반납",
@@ -6001,7 +5994,14 @@
   "월요일국장개미들촉각…뉴욕증시는미·이란협상기대에AI기술주...",
   "SKhynix'sSolidigmeyes$150BIPOforasearlyas2027,Reutersreports",
   "2차전지株일제히휘파람...로봇배터리부터핵심소재까지매수세확...",
-  "휘발유잡았더니윤활유폭등...엔진오일교체'빨간불'"
+  "휘발유잡았더니윤활유폭등...엔진오일교체'빨간불'",
+  "한·멕투자보장협정개정타결…李대통령\"무역협정서둘러야\"",
+  "[오늘의글로벌마켓]뉴욕증시,미-이란협상기대감속하락...다우0.9...",
+  "솔리다임,이르면2027년미국IPO검토…로이터",
+  "미·이란협상기대에유가2%↓...S&P5000.51%↑[뉴욕증시]",
+  "로이터“SK하이닉스손자회사솔리다임,이르면내년美상장검토”",
+  "삼성SDI,보수적기조가결실로…ESS·전고체로캐즘정면돌파",
+  "[바이오사이언스]신약찾고스타트업키우고…협력넓히는K바이오"
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,17 @@
   [
    "2026-09-26T10:01:17.744981+09:00",
    "윤활유 잡았더니 폭등 교체 빨간불 엔진오일 휘발유"
+  ],
+  [
+   "2026-09-26T10:11:02.116562+09:00",
+   "삼성SDI 기조가 결실로 보수적 ESS 캐즘 전고체로 정면돌파"
+  ],
+  [
+   "2026-09-26T10:11:02.116562+09:00",
+   "협력 찾고 넓히는 K바이오 신약 키우고 스타트업"
   ]
  ],
- "last_run": "2026-09-26T10:01:29.596682+09:00",
+ "last_run": "2026-09-26T10:11:11.475202+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
