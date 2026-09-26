@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=133916",
-  "https://www.hani.co.kr/arti/economy/marketing/1278668.html",
-  "https://www.kado.net/news/articleView.html?idxno=2074478",
-  "https://www.gokorea.kr/news/articleView.html?idxno=831982",
-  "https://idsn.co.kr/news/view/1065597518296069",
   "https://www.sentv.co.kr/article/view/sentv202609220216",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=320251",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=277108",
@@ -2999,14 +2994,14 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=881822",
   "https://www.kado.net/news/articleView.html?idxno=2074793",
   "https://www.yna.co.kr/view/AKR20260921078300017?input=1195m",
-  "https://www.dailian.co.kr/news/view/1694552/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1694552/?sc=Naver",
+  "https://www.naeil.com/news/read/603419",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600708",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260926104448Pvg",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363743",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16215517"
  ],
  "seen_titles": [
-  "SK텔레콤,통신3사중남녀평균급여격차가장커",
-  "[단독]농어민돕겠다더니…상생기금실질지원은14%뿐,SK·포스코는‘...",
-  "[현장]최태원\"사회문제직접해결해비용낮춰야\"···스타트업이SK...",
-  "통신3사'AI쓰임새'넓힌다…양자암호망도가상으로,AI교육은해외로",
-  "전자·통신업상반기월평균임금943만원…지난해보다23%올라",
   "코스피장중2%대급등후상승폭반납…7017.91강보합",
   "SK에코플랜트,반도체·AI핵심인재68명집중육성",
   "AI시대청년일자리해법모색…일경험·창업지원방안논의",
@@ -6001,7 +5996,12 @@
   "[이슈분석]SK하이닉스미국손자회사솔리다임상장추진설이관심받...",
   "[속보]이대통령\"한·멕시코무역협정논의조속재개해야\"",
   "[테크톡노트]내취향기억하는AI…'에이전트메모리'란",
-  "다뉴브강마르자원전멈췄다…한국,원전수출‘냉각수’잡아라"
+  "다뉴브강마르자원전멈췄다…한국,원전수출‘냉각수’잡아라",
+  "이대통령“한·멕,포괄적무역협정논의조속재개하길”",
+  "中메모리물량공세⋯삼성·SK하이닉스범용D램호황조기종료?",
+  "SK하이닉스손자회사솔리다임,이르면내년美상장검토",
+  "\"솔리다임이르면내년美상장…기업가치200조\"",
+  "9월4주차SK하이닉스주가186만원대상승세마감"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-09-26T10:41:43.828488+09:00",
    "다뉴브강 원전 마르자 수출 멈췄다 잡아라 냉각수 한국"
+  ],
+  [
+   "2026-09-26T11:01:18.043731+09:00",
+   "마감 9월 SK하이닉스 4주차 상승세 주가 186만원대"
   ]
  ],
- "last_run": "2026-09-26T10:51:01.997302+09:00",
+ "last_run": "2026-09-26T11:01:24.882946+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
