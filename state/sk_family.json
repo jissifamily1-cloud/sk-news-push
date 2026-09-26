@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5218287",
-  "https://www.ajunews.com/view/20260713172054230",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266640",
-  "https://www.nocutnews.co.kr/news/6576020",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85797",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169836",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171138",
   "https://www.mt.co.kr/politics/2026/09/10/2026091010095857219",
@@ -2999,14 +2994,14 @@
   "https://www.hankyung.com/article/202609170171g",
   "https://www.ytn.co.kr/_ln/0101_202609260906282604",
   "https://magazine.hankyung.com/business/article/202609266367b",
-  "https://www.news1.kr/industry/general-industry/6301059"
+  "https://www.news1.kr/industry/general-industry/6301059",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=70547",
+  "https://biz.sbs.co.kr/article_hub/20000336743?division=NAVER",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005926941",
+  "https://www.dailian.co.kr/news/view/1694536/?sc=Naver",
+  "https://www.gokorea.kr/news/articleView.html?idxno=879714"
  ],
  "seen_titles": [
-  "최태원,울산SKAI데이터센터·울산CLX현장점검(종합)",
-  "최태원SK회장,'3개월만'울산현장경영..10일AI데이터센터·정유화...",
-  "최태원SK그룹회장,울산서AX현장경영",
-  "“회장은공장뛰고직원은AI공부”…최태원식‘AX’현장경영에사...",
-  "반도체서데이터센터·공장까지…최태원,SK‘AI풀스택’현장지휘",
   "[아침&눈길]스마일게이트권혁빈재산분할2.5조가장비싼이혼…왜?...",
   "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
   "최태원,울산AI심장부찾는다…7조데이터센터직접점검",
@@ -6001,7 +5996,12 @@
   "\"부산호텔예약해줘\"AI에믿고맡겼는데…'찜찜하네'[홍민성의테토...",
   "이대통령\"한멕무역협정논의조속재개해야...기업도전뒷받침\"",
   "최태원,또'승부수'...美서역대급IPO추진",
-  "\"가스전평가부터도입까지\"민간첫성공…SK'바로사'14년여정"
+  "\"가스전평가부터도입까지\"민간첫성공…SK'바로사'14년여정",
+  "재계총수들,추석연휴해외서경영행보",
+  "李\"한멕무역협정논의조속재개해야…기업도전뒷받침\"",
+  "이재명대통령\"한-멕시코무역협정논의조속재개해야\"",
+  "李대통령\"한-멕시코,무역협정논의재개해기업도전뒷받침해야\"",
+  "한-멕시코무역협정재개논의,경제협력의새지평열리나"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-09-26T09:20:14.267620+09:00",
    "성공 여정 가스전 도입까지 민간 바로사 평가부터 14년"
+  ],
+  [
+   "2026-09-26T09:30:22.480570+09:00",
+   "멕시코 무역 경제 협정 열리나 논의 지평 재개 협력의"
   ]
  ],
- "last_run": "2026-09-26T09:20:29.040601+09:00",
+ "last_run": "2026-09-26T09:30:34.914484+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
