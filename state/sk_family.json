@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.starnewskorea.com/sports/2026/09/10/2026091010435543379",
-  "https://www.cstimes.com/news/articleView.html?idxno=720147",
   "https://www.businesspost.co.kr/BP?command=article_view&num=446863",
   "http://www.sisacast.kr/news/articleView.html?idxno=99860",
   "https://www.pointe.co.kr/news/articleView.html?idxno=84535",
@@ -2999,11 +2997,11 @@
   "https://www.autodaily.co.kr/news/articleView.html?idxno=600708",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366118",
   "http://www.jeollailbo.com/news/articleView.html?idxno=812044",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=86564"
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=86564",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=854832",
+  "https://www.etoday.co.kr/news/view/2629417"
  ],
  "seen_titles": [
-  "AI진심인최태원…SK의AI역량결집된울산전격점검[리더의나침반...",
-  "SK그룹최태원'울산AI데이터센터건설'직접챙긴다,울산포럼앞두...",
   "최태원SK그룹회장,울산서'AI풀스택프로바이더'실행현장직접살...",
   "이혼한부부에게주식을쪼갠판결...7조회사스마일게이트에남겨진...",
   "'한화1차지명출신사령탑'유소년야구정상등극,대전서구연맹회장...",
@@ -6001,7 +5999,9 @@
   "中메모리물량공세⋯삼성·SK하이닉스범용D램호황조기종료?",
   "이대통령\"한·멕시코무역협정논의재개해야\"…공급망협력확대",
   "이대통령\"한멕무역협정논의조속재개...기업도전뒷받침\"",
-  "韓·멕시코정상,기업인간담회…경제협정·사업환경안정논의"
+  "韓·멕시코정상,기업인간담회…경제협정·사업환경안정논의",
+  "李대통령\"한-멕시코'첨단산업·에너지·문화'함께가자\"",
+  "\"자산불리는법알려주겠다\"⋯한국은행총재사칭SNS주의보"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-09-26T11:00:29.145467+09:00",
    "SK하이닉스 범용 종료 조기 물량 호황 D램 메모리 공세 삼성"
+  ],
+  [
+   "2026-09-26T11:50:15.041572+09:00",
+   "사칭 불리는 주의보 한국은행 총재 알려주겠다 자산 SNS"
   ]
  ],
- "last_run": "2026-09-26T11:40:25.418442+09:00",
+ "last_run": "2026-09-26T11:50:26.606072+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
