@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026092217351",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609221800066540239",
-  "https://news.bizwatch.co.kr/article/industry/2026/09/22/0042",
-  "https://www.joongangenews.com/news/articleView.html?idxno=550218",
-  "https://www.dt.co.kr/article/12085546",
-  "https://www.mt.co.kr/estate/2026/09/22/2026092218105297542",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436176",
-  "https://biz.sbs.co.kr/article_hub/20000336324?division=NAVER",
   "https://www.etoday.co.kr/news/view/2628786",
   "https://www.cbci.co.kr/news/articleView.html?idxno=609122",
   "https://www.g-enews.com/view.php?ud=202609201603158060fbbec65dfb_1",
@@ -2999,17 +2991,17 @@
   "http://www.smedaily.co.kr/news/articleView.html?idxno=363739",
   "https://www.hani.co.kr/arti/opinion/column/1279113.html",
   "https://www.gokorea.kr/news/articleView.html?idxno=879750",
-  "https://biz.heraldcorp.com/article/10885048"
+  "https://biz.heraldcorp.com/article/10885048",
+  "https://www.fnnews.com/news/202609270848228827",
+  "https://www.news2day.co.kr/article/20260927500007",
+  "https://www.mk.co.kr/article/12161758",
+  "http://www.yonhapnewstv.co.kr/news/MYH202609270848058Ot",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609270010&t=NN",
+  "https://www.news1.kr/society/general-society/6302139",
+  "https://www.joongang.co.kr/article/25464929",
+  "https://www.fnnews.com/news/202609270840588245"
  ],
  "seen_titles": [
-  "[게시판]포지큐브,S-OIL·하나은행에AI에이전트구축등단신",
-  "한가위에도쉼없는스포츠…AG금빛도전·모레노호첫걸음",
-  "美반도체주급등에도…7천피겨우지킨코스피",
-  "SK온,포스코퓨처엠서1.1조원규모LFP양극재조달…美ESS‘탈중국’...",
-  "포스코퓨처엠,SK온서1.1조LFP따냈다…삼원계쏠림던다",
-  "대만,8월수출주문사상첫1000억달러돌파…AI반도체·서버수요폭...",
-  "SK온-포스코퓨처엠,LFP양극재공급계약…“1.1조원규모”",
-  "국토장관,취임첫현장은3기신도시…\"주택공급,계획보다실행\"",
   "포스코퓨처엠,1.1조원규모LFP양극재공급계약",
   "'전강후약'코스피7000선사수…환율1350원대급락",
   "반도체가바꾼경기세수지도…5개도시법인지방소득세‘7조육박’...",
@@ -6001,7 +5993,15 @@
   "국산LFP양극재1조계약,행선지미국",
   "청와대에‘부동산차르’가필요하다[아침햇발]",
   "이재명정부2년차,여야국정감사대격돌예고…핵심쟁점은?",
-  "“서울통신비,세계주요도시중가장비싸…뉴욕과비슷”"
+  "“서울통신비,세계주요도시중가장비싸…뉴욕과비슷”",
+  "올해초과세수50조웃돌듯…내년미래대응기금200조넘어설전망",
+  "올해초과세수50조넘을듯...미래대응기금200조대전망",
+  "“이러니지갑이털리지”…서울스마트폰요금,뉴욕과나란히세계1...",
+  "눈높이낮춘증권가…추석이후코스피향방은",
+  "50조원+α더걷혔다…세수도반도체'훈풍'",
+  "\"가짜선행학력위조\"…'최태원동거인'김희영,허위사실유튜버에...",
+  "“억대성과급놓칠수없다”…삼전닉스‘육아휴직’초유상황,무슨...",
+  "\"10년전에1억넣었다면지금138억\"수익률비교해보니1위'이주식'"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-09-27T08:41:03.739185+09:00",
    "1조 계약 미국 LFP 양극재 국산 행선지"
+  ],
+  [
+   "2026-09-27T09:01:15.411114+09:00",
+   "지금 넣었다면 1위 수익률 1억 138억 10년 비교해보니 주식 전에"
   ]
  ],
- "last_run": "2026-09-27T08:53:24.002938+09:00",
+ "last_run": "2026-09-27T09:01:21.054766+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
