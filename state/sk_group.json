@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2628853",
-  "https://www.newsis.com/view/NISX20260923_0003801268",
-  "https://www.etoday.co.kr/news/view/2628852",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489800",
-  "https://www.fnnews.com/news/202609230759382232",
   "https://www.edaily.co.kr/News/Read?newsId=02535446645583072&mediaCodeNo=257",
   "https://www.cstimes.com/news/articleView.html?idxno=721777",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/23/2026092300030.html",
@@ -2999,14 +2994,14 @@
   "https://www.edaily.co.kr/News/Read?newsId=01856486645584384&mediaCodeNo=257",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260928010009412",
   "https://www.hankyung.com/article/2026092775361",
-  "https://www.mk.co.kr/article/12162086"
+  "https://www.mk.co.kr/article/12162086",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276558",
+  "https://www.sedaily.com/article/20095218",
+  "https://www.hankookilbo.com/news/article/A2026092715030003044?did=NA",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085455",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1068440"
  ],
  "seen_titles": [
-  "고려아연·현대모비스등7개사,26년간106분기연속영업흑자'대기록...",
-  "[마켓뷰]추석앞둔코스피,미기술주강세에상승세이어갈까",
-  "DS證“포스코퓨처엠,첫LFP수주⋯연평균물량작년양극재판매량웃...",
-  "美반도체랠리에삼전·닉스프리마켓서2~3%↑",
-  "[증시키워드]'음주해고'SK하이닉스·신약허가눈앞HLB...현대차,美...",
   "SK온,美ESS공략가속…포스코퓨처엠과1조1천억규모LFP양극재공급...",
   "포스코퓨처엠,SK온향LFP양극재1조742억수주...추가기대유효",
   "삼성물산,삼성전자배당확대수혜…내년DPS8550원전망-SK",
@@ -6001,7 +5996,12 @@
   "미중회담서빠진반도체합의…K메모리'안도반긴장반'",
   "삼전닉스자사주매입끝물…외인·기관,7000방어'최대변수'",
   "제주항공참사유가족,왜韓대신美법정택했나",
-  "또삼전닉스국감소환추진에…與\"망신주기식안돼\""
+  "또삼전닉스국감소환추진에…與\"망신주기식안돼\"",
+  "SKInnovationHostsYouthClimateStartupWeek",
+  "“반도체특허분쟁,방어넘어수익화까지도울것”",
+  "\"추석민심,분노들끓어\"…국민의힘,장외-원내'투트랙'공세검토",
+  "포스코퓨처엠,SK온에LFP양극재1조1천억원공급",
+  "[긴급진단]액체화물특화항경쟁력흔들릴라…수익·투자권한향방'주..."
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,25 @@
   [
    "2026-09-27T17:21:03.306172+09:00",
    "삼전닉스 소환추진에 망신주기식 안돼 국감"
+  ],
+  [
+   "2026-09-27T17:31:12.499324+09:00",
+   "반도체 수익화까지 분쟁 넘어 방어 도울 특허"
+  ],
+  [
+   "2026-09-27T17:31:12.499324+09:00",
+   "원내 분노 들끓어 민심 트랙 검토 장외 공세 국민의힘 추석"
+  ],
+  [
+   "2026-09-27T17:31:12.499324+09:00",
+   "LFP 공급 1조1천억원 SK온에 포스코퓨처엠 양극재"
+  ],
+  [
+   "2026-09-27T17:31:12.499324+09:00",
+   "액체화물 경쟁력 흔들릴라 특화항 향방 투자권한 수익"
   ]
  ],
- "last_run": "2026-09-27T17:21:22.182140+09:00",
+ "last_run": "2026-09-27T17:31:26.548670+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
