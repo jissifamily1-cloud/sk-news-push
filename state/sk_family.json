@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2113407",
   "https://www.nongmin.com/article/20260909500647",
   "https://www.hg-times.com/news/articleView.html?idxno=304802",
   "https://magazine.hankyung.com/business/article/202608265083b",
@@ -2999,10 +2998,10 @@
   "https://www.mk.co.kr/article/12133077",
   "https://www.news1.kr/industry/general-industry/6258604",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=248486",
-  "http://amenews.kr/news/view.php?idx=67945"
+  "http://amenews.kr/news/view.php?idx=67945",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=854864"
  ],
  "seen_titles": [
-  "펜싱오상욱,2년만에아시아선수권정상...도경동동메달",
   "'15-8결승완승'…오상욱,아시아선수권개인전정상복귀",
   "'고수는장비를탓하지않았다'끝판왕오상욱,亞펜싱선수권개인전우...",
   "SK장손최영근,5년만에경영복귀…3세구도다시주목",
@@ -6001,10 +6000,16 @@
   "MLCC어떻길래…삼성전기‘방긋’",
   "최창원부회장,상반기보수24억…\"지난해성과에상여금증가\"",
   "[단독]최신원SK네트웍스회장,횡령연루회사와호화별장거래",
-  "중기중앙회·중기학회,코스닥성장사다리강화도모"
+  "중기중앙회·중기학회,코스닥성장사다리강화도모",
+  "[출근길브리핑-9월28일]정국격돌국면돌입·제조업경기전망개선..."
  ],
- "recent_sigs": [],
- "last_run": "2026-09-28T06:00:40.895298+09:00",
+ "recent_sigs": [
+  [
+   "2026-09-28T06:10:13.884611+09:00",
+   "돌입 정국 국면 제조업 개선 격돌 경기전망"
+  ]
+ ],
+ "last_run": "2026-09-28T06:10:27.911739+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
