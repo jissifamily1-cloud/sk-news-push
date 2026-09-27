@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=365802",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=136617",
-  "https://www.newspim.com/news/view/20260920000131",
   "https://www.tournews21.com/news/articleView.html?idxno=143970",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005924640",
   "https://www.sportsseoul.com/news/read/1636470",
@@ -2999,12 +2996,12 @@
   "https://www.newspost.kr/news/articleView.html?idxno=225937",
   "https://www.jibs.co.kr/news/articles/articlesDetail/65895?feed=na",
   "https://www.hani.co.kr/arti/economy/marketing/1279575.html",
-  "https://www.yna.co.kr/view/AKR20260927021651054?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260927021651054?input=1195m",
+  "https://m.sports.naver.com/basketball/article/065/0000302079",
+  "https://www.koreaherald.com/article/10885240",
+  "https://www.boannews.com/news/articleView.html?idxno=146012"
  ],
  "seen_titles": [
-  "SOVAC2026,‘지역의미래’해법모색",
-  "SKSOVAC,'로컬-지역미래'해법모색…AI로사회공헌성과측정",
-  "SOVAC,지역격차·청년·인구감소해법모색…'지역의미래'논의",
   "SOVAC,사회적가치페스타공동주관…지역문제해법찾는다",
   "SK,사회적가치페스타21~22일개최…지역문제해법모색",
   "SOVAC2026,'지역의미래'화두로대한상의페스타참여",
@@ -6001,21 +5998,12 @@
   "'최태원동거인'김희영,허위사실유튜버에잇단승소…\"1000만원배상...",
   "삼성·SK하이닉스육아휴직률동시에꺾였다…‘억대성과급’겹친반...",
   "최태원·구광모는멕시코,이재용은뉴욕…한가위에도바쁜재벌총수들",
-  "전남광주민심\"민생팍팍\"…통합갈등엔\"민시장제역할해야\"(종합)"
+  "전남광주민심\"민생팍팍\"…통합갈등엔\"민시장제역할해야\"(종합)",
+  "[웜업터뷰]'AG금메달리스트'이정현출격준비…켐바오·제임스·오브...",
+  "Korea,Mexicoexpandeconomictiesintoadvancedindustries,energy,",
+  "2026국정감사,AI와사이버보안,국방·안보,재난안전까지주목해야..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-27T07:51:02.640517+09:00",
-   "종료 해외 저무는 찾아보니 3G 사례 통신"
-  ],
-  [
-   "2026-09-27T07:51:02.640517+09:00",
-   "2분기 중동 공급 정상화 100달러대 기대에도 내년 전망 유가 휴전"
-  ],
-  [
-   "2026-09-27T07:51:02.640517+09:00",
-   "미국 저장용량 성장 ESS K배터리 기회 2032년까지 1TWh 목표"
-  ],
   [
    "2026-09-27T08:11:42.573479+09:00",
    "100만t 자원전 규제 증산 페루 국면 없애고 구리"
@@ -6455,9 +6443,17 @@
   [
    "2026-09-27T13:41:01.000538+09:00",
    "민생 시장 팍팍 민심 통합갈등엔 제역할해야 전남광주"
+  ],
+  [
+   "2026-09-27T13:51:04.514017+09:00",
+   "cult advanced Mexico industries expand energy Korea into economic ties"
+  ],
+  [
+   "2026-09-27T13:51:04.514017+09:00",
+   "AI와 사이버보안 재난 안보 국정감사 국방 안전까지 주목해야"
   ]
  ],
- "last_run": "2026-09-27T13:41:07.954798+09:00",
+ "last_run": "2026-09-27T13:51:12.884557+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
