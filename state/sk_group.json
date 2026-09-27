@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202609231010434917",
-  "https://www.topdaily.kr/articles/112085",
-  "https://www.yna.co.kr/view/PYH20260923050100003?input=1196m",
-  "https://www.gokorea.kr/news/articleView.html?idxno=879518",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363687",
   "https://www.cbci.co.kr/news/articleView.html?idxno=609345",
   "https://www.businessplus.kr/news/articleView.html?idxno=117286",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=393691",
@@ -2999,14 +2994,14 @@
   "https://www.imaeil.com/page/view/2026092317284020750",
   "https://www.news1.kr/realestate/general/6299276",
   "https://www.imaeil.com/page/view/2026092422433188978",
-  "https://www.newsis.com/view/NISX20260927_0003804473"
+  "https://www.newsis.com/view/NISX20260927_0003804473",
+  "http://www.4th.kr/news/articleView.html?idxno=2118617",
+  "https://www.sportsseoul.com/news/read/1636689",
+  "https://www.newspim.com/news/view/20260921000565",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725717",
+  "http://www.beyondpost.co.kr/view.php?ud=2026092806424376092aaae0046f_30"
  ],
  "seen_titles": [
-  "LG전자·SK엔무브,차세대냉매·액침냉각공동개발…AI데이터센터‘...",
-  "한화운용,‘퓨어플레이어’중심PLUS반도체투자솔루션3종완성",
-  "[특징주]엑시콘,AI서버확대와CXL2.0테스터양산공급기대감에급...",
-  "전남광주통합특별시,출범첫승진인사...조직안정·성과중점",
-  "교보자산운용,'단독경영'닻올려...ETF승부수로재정비속도",
   "LG전자·SK엔무브,AI데이터센터차세대열관리소재공동개발",
   "포스코퓨처엠SK온과1조742억원LFP동맹체결",
   "SK엔무브-LG전자손잡았다글로벌냉매·공조시장공략",
@@ -6001,7 +5996,12 @@
   "기초기술에디지털기술결합…경북기계공업고,융합형기술인재양성...",
   "서울서10억이하아파트어딨나…5건중1건'노원구'",
   "'삼전닉스'열풍에기술인재수요증가…대구경북마이스터고,2027학년...",
-  "이대통령,미국·멕시코5박7일순방종료[간추린주말뉴스]"
+  "이대통령,미국·멕시코5박7일순방종료[간추린주말뉴스]",
+  "'이력한줄'그친청년경험…현대해상·SK,'채용역량'으로잇는다",
+  "워커힐김치,美수출1년만에82톤돌파…글로벌영토넓힌다",
+  "워커힐김치,미국수출1년만에82톤팔렸다...해외유통망확대",
+  "연휴끝코스피,7000선안착시험대…美기술주·금리·외인수급주목",
+  "삼성전자3분기실적,3개월대비5%상향조정...SK하이닉스도2%올라가"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,13 @@
   [
    "2026-09-28T06:41:07.522556+09:00",
    "5박7일 미국 대통령 멕시코 순방 종료"
+  ],
+  [
+   "2026-09-28T06:51:01.099063+09:00",
+   "대비 삼성전자 3개월 올라가 상향 실적 SK하이닉스도 조정 3분기"
   ]
  ],
- "last_run": "2026-09-28T06:41:26.681528+09:00",
+ "last_run": "2026-09-28T06:51:07.341550+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
