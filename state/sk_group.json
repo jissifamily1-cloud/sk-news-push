@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=719841",
-  "https://sports.khan.co.kr/article/202609222147003?pt=nv",
-  "http://weekly.chosun.com/news/articleView.html?idxno=55449",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8669785",
   "https://www.fntimes.com/html/view.php?ud=202609160841015456b372994c95_18",
   "https://www.hani.co.kr/arti/economy/marketing/1277914.html",
   "https://www.hani.co.kr/arti/opinion/column/1277615.html",
@@ -2999,13 +2995,13 @@
   "https://news.dealsitetv.com/articles/176350",
   "https://www.sisajournal.com/news/articleView.html?idxno=388324",
   "https://www.mt.co.kr/tech/2026/09/27/2026092214583728292",
-  "https://www.g-enews.com/view.php?ud=2026092315513640153ddfb15a_1"
+  "https://www.g-enews.com/view.php?ud=2026092315513640153ddfb15a_1",
+  "https://www.ngetnews.com/news/articleView.html?idxno=553711",
+  "https://www.meconomynews.com/news/articleView.html?idxno=201976",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448002",
+  "https://zdnet.co.kr/view/?no=20260927121709"
  ],
  "seen_titles": [
-  "[기자의눈]'만년2위'AMD시총1조달러달성시사점",
-  "코스피,장중2%대급등후상승폭반납…7,017.91마감",
-  "이통3사,양자암호·글로벌AI·소상공인AX로신사업확대",
-  "SSG아빌라난공불락이라고?KT는또패배를안겼다…김민혁역전타-힐...",
   "\"인생에서가장비싼술\"…SK하이닉스신입4명,연수중음주로해고",
   "반도체소부장특화단지는‘시작’…민간투자뒷받침‘관건’",
   "마포구'힐스테이트마포더퍼스트'32평,4.7억상승한20.9억원에거래...",
@@ -6001,17 +5997,13 @@
   "두산,전자사업승부수…차입늘어도현금창출력기대",
   "외국인'오른다'·개미'내린다'…엇갈린ETF베팅결과는",
   "연휴끝예산전쟁시작…눈여겨볼만한AI예산은",
-  "'SK'후광벗으니…SK증권,수익성개선속도"
+  "'SK'후광벗으니…SK증권,수익성개선속도",
+  "'최태원동거인'김희영,허위사실유튜버에또승소…1000만원배상",
+  "반도체ETF,지난주수익률상위권휩쓸어…AI훈풍에최고13%",
+  "최태원'한-멕시코비즈니스포럼'참석,\"양국강점모아새로운성장길...",
+  "[ZD브리핑]마이크론최대실적예고...개보위원장·통신3사CEO첫회동"
  ],
  "recent_sigs": [
-  [
-   "2026-09-27T06:21:03.835033+09:00",
-   "추석 외인 시험대 돌아올까 11조 다시 수급 코스피 팔던"
-  ],
-  [
-   "2026-09-27T06:21:03.835033+09:00",
-   "레버리지 변동폭 ETF 하이닉스 삼성전자 확대 장중"
-  ],
   [
    "2026-09-27T06:35:03.232674+09:00",
    "반도체 50조 증시 신바람에 훈풍 초과세수 이상 랠리"
@@ -6455,9 +6447,13 @@
   [
    "2026-09-27T12:10:59.913916+09:00",
    "SK증권 개선 후광 수익성 속도 벗으니"
+  ],
+  [
+   "2026-09-27T12:31:06.310134+09:00",
+   "예고 통신3사 최대실적 CEO 개보위원장 마이크론 첫회동"
   ]
  ],
- "last_run": "2026-09-27T12:21:06.201067+09:00",
+ "last_run": "2026-09-27T12:31:12.403089+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
