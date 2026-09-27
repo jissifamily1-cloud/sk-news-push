@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12133244",
-  "https://www.mk.co.kr/article/12133077",
   "https://www.news1.kr/industry/general-industry/6258604",
   "https://www.newsis.com/view/NISX20260813_0003748483",
   "http://www.whosaeng.com/172840",
@@ -2999,11 +2997,11 @@
   "https://zdnet.co.kr/view/?no=20260927191300",
   "https://www.newsway.co.kr/news/view?ud=2026092719202012860",
   "https://view.asiae.co.kr/article/2026092719385003523",
-  "https://www.sportschosun.com/sports-news/2026-09-27/202609270100181680011987"
+  "https://www.sportschosun.com/sports-news/2026-09-27/202609270100181680011987",
+  "http://www.segyebiz.com/newsView/20260927509844?OutUrl=naver",
+  "https://www.dkilbo.com/news/articleView.html?idxno=555548"
  ],
  "seen_titles": [
-  "[오늘Who]최창원SK디스커버리리밸런싱정점향한다,SK가스의존도낮...",
-  "몸집줄이기끝낸SK…선별재편으로남길사업고른다",
   "SK이노베이션,해쌀태양광지분절반매각...신재생에너지재편본격화",
   "대기업도‘세대역전’…청년줄고장년늘었다[데이터로보는세상]",
   "MLCC어떻길래…삼성전기‘방긋’",
@@ -6001,7 +5999,9 @@
   "이재용·최태원·젠슨황,28일뉴욕서만난다",
   "젠슨황'밴플리트상'받는28일…이재용·최태원도뉴욕행",
   "한·멕,무역협정논의본격화…광물·공급망협력도확대",
-  "\"19-10→42-43통한의1점\"男에페,세계챔피언카자흐에연장혈투끝역전..."
+  "\"19-10→42-43통한의1점\"男에페,세계챔피언카자흐에연장혈투끝역전...",
+  "韓·멕시코,무역협정사전작업착수…경제협력확대",
+  "국감앞둔여야,무엇을부각하나…與'민생성과'vs野'정부실정'"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-09-27T19:08:53.533931+09:00",
    "재단엔 남에겐 축재 자기 152억 부정 비자금"
+  ],
+  [
+   "2026-09-27T20:00:27.932686+09:00",
+   "국감 vs 정부 앞둔 여야 무엇을 실정 성과 부각하나 민생"
   ]
  ],
- "last_run": "2026-09-27T19:50:25.512738+09:00",
+ "last_run": "2026-09-27T20:00:41.382234+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
