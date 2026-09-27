@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsdream.kr/news/articleView.html?idxno=118538",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=359332",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260921010007553",
-  "https://www.hankyung.com/article/202609206242i",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84987",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2312677",
-  "http://www.segyebiz.com/newsView/20260920509616?OutUrl=naver",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=854341",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=365802",
   "http://www.newslock.co.kr/news/articleView.html?idxno=136617",
   "https://www.newspim.com/news/view/20260920000131",
@@ -2999,17 +2991,17 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4436574",
   "http://www.metroseoul.co.kr/article/20260927500126",
   "http://www.metroseoul.co.kr/article/20260927500119",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=85183"
+  "https://www.pointe.co.kr/news/articleView.html?idxno=85183",
+  "https://biz.chosun.com/it-science/ict/2026/09/27/4FJ2MJMOMNDYNJ27S2OCYRDQQU/",
+  "https://view.asiae.co.kr/article/2026092712405495143",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550647",
+  "https://www.dt.co.kr/article/12085935",
+  "https://www.newspost.kr/news/articleView.html?idxno=225937",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/65895?feed=na",
+  "https://www.hani.co.kr/arti/economy/marketing/1279575.html",
+  "https://www.yna.co.kr/view/AKR20260927021651054?input=1195m"
  ],
  "seen_titles": [
-  "SOVAC,기업-기관228곳과‘지역의미래’논의",
-  "SK,대한상의와'사회적가치페스타'공동개최…청년고민·사회비용해...",
-  "SOVAC2026,'지역의미래'해법찾는다…청년·인구감소·일자리집중...",
-  "SK가키운SOVAC,228개기업·기관과'지역의미래'해법찾는다",
-  "SK부회장단대거하이닉스행…공급망·대외협력속도낸다",
-  "사회적가치페스타,21~22일열린다…400개기업참가",
-  "지역의미래조명하는SOVAC2026개막…대한민국사회적가치페스타공...",
-  "SOVAC,'지역의미래'해법찾는다…228개기업·기관참여",
   "SOVAC2026,‘지역의미래’해법모색",
   "SKSOVAC,'로컬-지역미래'해법모색…AI로사회공헌성과측정",
   "SOVAC,지역격차·청년·인구감소해법모색…'지역의미래'논의",
@@ -6001,13 +5993,17 @@
   "뉴욕항까지얼마라고요?…6개월새3배뛴해상운임",
   "[기자수첩]성능경쟁가능한가…독파모가마주한딜레마",
   "반도체·자동차등수출기업환율하락직격탄…내년사업계획재점검",
-  "[이슈포커스]40만발길이증명한부산북항···'반짝특수'넘어설까"
+  "[이슈포커스]40만발길이증명한부산북항···'반짝특수'넘어설까",
+  "‘억대성과급’기대에…삼성전자·SK하이닉스,상반기육아휴직률동...",
+  "\"여보,좀더있다가\"…억대성과급기대감에삼전닉스육아휴직률동반...",
+  "\"서울4G20GB요금,6개도시중최고...도쿄의2.3배\"",
+  "예탁금3000만원족쇄에묶인단일종목ETF…거래량10분의1토막",
+  "'최태원동거인'김희영,허위사실유튜버에잇단승소…\"1000만원배상...",
+  "삼성·SK하이닉스육아휴직률동시에꺾였다…‘억대성과급’겹친반...",
+  "최태원·구광모는멕시코,이재용은뉴욕…한가위에도바쁜재벌총수들",
+  "전남광주민심\"민생팍팍\"…통합갈등엔\"민시장제역할해야\"(종합)"
  ],
  "recent_sigs": [
-  [
-   "2026-09-27T07:40:59.011118+09:00",
-   "투자 대미 ESS 2차 수출 보나 효과 기대 변압기"
-  ],
   [
    "2026-09-27T07:51:02.640517+09:00",
    "종료 해외 저무는 찾아보니 3G 사례 통신"
@@ -6455,9 +6451,13 @@
   [
    "2026-09-27T13:25:54.671286+09:00",
    "증명한 특수 넘어설까 40만 반짝 북항 발길이 부산"
+  ],
+  [
+   "2026-09-27T13:41:01.000538+09:00",
+   "민생 시장 팍팍 민심 통합갈등엔 제역할해야 전남광주"
   ]
  ],
- "last_run": "2026-09-27T13:31:22.511491+09:00",
+ "last_run": "2026-09-27T13:41:07.954798+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
