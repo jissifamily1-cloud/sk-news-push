@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202609110529073469",
-  "https://www.donga.com/news/People/article/all/20260911/134646978/2",
   "https://www.mt.co.kr/industry/2026/09/11/2026091019492620570",
   "https://www.hankyung.com/article/2026091076641",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2299752",
@@ -2999,11 +2997,11 @@
   "http://www.4th.kr/news/articleView.html?idxno=2118712",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066084",
   "https://www.dynews.co.kr/news/articleView.html?idxno=867298",
-  "https://www.idaegu.com/news/articleView.html?idxno=665907"
+  "https://www.idaegu.com/news/articleView.html?idxno=665907",
+  "http://www.metroseoul.co.kr/article/20260927500196",
+  "https://www.kmaeil.com/news/articleView.html?idxno=652817"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,AI데이터센터울산현장챙겨",
-  "\"그룹멤버사간시너지\"…최태원,SK의'AI풀스택프로바이더완성'조...",
   "최태원,울산찾아'AI데이터센터'직접챙긴다",
   "■9월11일(금)경제캘린더",
   "최태원회장,한미동맹대상수상",
@@ -6001,7 +5999,9 @@
   "최태원\"한국기술·투자와멕시코제조기반결합하면가능성커져\"",
   "최태원,한·멕시코경제협력넓힌다…첨단산업·에너지·콘텐츠까지확...",
   "충북수출얼라이언스,진천극동전선방문간담회개최",
-  "이재명정부2년차첫국정감사6일개막…3대관전포인트?"
+  "이재명정부2년차첫국정감사6일개막…3대관전포인트?",
+  "최태원\"한·멕시코,미래산업·문화로협력넓혀야\"",
+  "추석마무리국정감사정국…인사·사법·안보놓고여야격돌예고"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-09-27T15:01:02.984733+09:00",
    "6일 국정감사 개막 관전포인트 2년 이재명 정부 3대"
+  ],
+  [
+   "2026-09-27T15:40:14.446274+09:00",
+   "놓고 여야 예고 추석 격돌 정국 안보 사법 마무리 인사 국정감사"
   ]
  ],
- "last_run": "2026-09-27T15:30:30.459012+09:00",
+ "last_run": "2026-09-27T15:40:31.047070+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6427,6 +6431,7 @@
   "tournews21.com": "투어코리아",
   "e-platform.net": "에너지플랫폼뉴스",
   "nongmin.com": "농민신문",
-  "sisafocus.co.kr": "시사포커스"
+  "sisafocus.co.kr": "시사포커스",
+  "kmaeil.com": "경인매일"
  }
 }
