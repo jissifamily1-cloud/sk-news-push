@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609230843366220101278",
-  "https://www.dailian.co.kr/news/view/1693891/?sc=Naver",
   "https://www.newspim.com/news/view/20260923000155",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766146&plink=ORI&cooper=NAVER",
   "https://www.tjb.co.kr/news05/bodo/view/id/103976",
@@ -2999,11 +2997,11 @@
   "https://www.edaily.co.kr/News/Read?newsId=01977846645584384&mediaCodeNo=257",
   "https://www.segye.com/newsView/20260927508199?OutUrl=naver",
   "https://www.khan.co.kr/article/202609272101005",
-  "https://www.fnnews.com/news/202609261820011350"
+  "https://www.fnnews.com/news/202609261820011350",
+  "https://www.ajunews.com/view/20260923104218328",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490528"
  ],
  "seen_titles": [
-  "[속보]코스피약2%상승…7,150선출발",
-  "스카이라운지짓고게스트하우스까지…진화하는‘공공분양’아파트",
   "\"티로보틱스,ESS용AMR수주확대…내년휴머노이드공급기대\"-SK증권",
   "[더벨][i-point]SK증권\"티로보틱스,휴머노이드상용화로성장본격화...",
   "행복나래,사회적가치페스타서'행복얼라이언스'10년조명",
@@ -6001,7 +5999,9 @@
   "美국채금리·마이크론실적대기…연휴뒤코스피향방가를변수는",
   "환율하락·AI속도조절론뚫고…K반도체,3Q성적표도‘A+’",
   "금리치솟아도,주가안떨어졌다…‘돈의공식’바뀌나",
-  "李대통령美·멕시코순방마무리…외교성과안고'인사시험대'"
+  "李대통령美·멕시코순방마무리…외교성과안고'인사시험대'",
+  "롤러코스터장겪은2030,첫투자선택지달라졌다…\"삼전·닉스굳건,...",
+  "코스피시총상위30곳서하반기1035조증발...삼성·SK반도체에90%집..."
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-09-27T21:31:44.475801+09:00",
    "마무리 인사 성과 멕시코 대통령 시험대 외교 순방 안고"
+  ],
+  [
+   "2026-09-27T21:41:01.386545+09:00",
+   "1035조 코스피 증발 시총 상위 반도체에 삼성 30곳서 하반기"
   ]
  ],
- "last_run": "2026-09-27T21:31:50.415582+09:00",
+ "last_run": "2026-09-27T21:41:07.213184+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
