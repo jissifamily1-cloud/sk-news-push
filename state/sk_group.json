@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/general-stock/6300072",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=609352",
-  "http://www.inews24.com/view/2008704",
-  "https://www.sedaily.com/article/20094404",
-  "https://www.mydaily.co.kr/page/view/2026092212405021903",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192392",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318229",
-  "https://www.dailian.co.kr/news/view/1693733/?sc=Naver",
   "https://www.ytn.co.kr/_ln/0102_202609231059039637",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=814077",
   "https://view.asiae.co.kr/article/2026092310580313449",
@@ -2999,17 +2991,17 @@
   "https://www.starnewskorea.com/sports/2026/09/28/2026092209501581332",
   "https://www.public25.com/news/articleView.html?idxno=55406",
   "https://dealsite.co.kr/articles/169229",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=881867"
+  "https://www.getnews.co.kr/news/articleView.html?idxno=881867",
+  "https://www.etoday.co.kr/news/view/2629632",
+  "https://www.etoday.co.kr/news/view/2629637",
+  "https://www.cstimes.com/news/articleView.html?idxno=721867",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609190247460000103665",
+  "https://www.edaily.co.kr/News/Read?newsId=01958166645584712&mediaCodeNo=257",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154888",
+  "https://kjmbc.co.kr/NewsArticle/1538628",
+  "https://www.etoday.co.kr/news/view/2629629"
  ],
  "seen_titles": [
-  "LG전자,SK엔무브와'AI데이터센터'차세대열관리핵심소재공동개발...",
-  "전남광주통합특별시출범첫승진인사단행…“조직안정·성과최우선”",
-  "메타뮤즈열풍에나스닥최고치…기술주랠리재점화",
-  "반도체매출비중높은종목만…한화운용,ETF3종라인업제시",
-  "삼성물산36만9500원강세…유럽SMR'BWRX-300'동맹에증권가도주목",
-  "'삼성분산'KB운용vs'SK올인'교보운용⋯ETF상장첫날승자는?",
-  "한국형원전美수출길열렸다…APR-14002기건설협의",
-  "통신3사,추석맞이납품대금3175억원지급…전년比364억원↓",
   "SK온·포스코퓨처엠,1.1조'LFP양극재'전략적동맹…美서'탈중국공...",
   "교보자산운용,사명변경완료…그룹핵심자산운용사로도약",
   "\"앱깔지마세요,AI가대신전화하니까\"…SKT'모두의AI'10월베타[인...",
@@ -6001,7 +5993,15 @@
   "'군필'베테랑부터'19세'막내까지...'12년만의韓농구金'새역사숨...",
   "[코스피·코스닥,현대건설셀트리온LG디스플레이HLD&I현대로템SK바...",
   "[단종레국부유출백서]정부가물타기막고등떠밀어…개인들만낭떠...",
-  "\"단일레버리지규제로거래대금92%급감...회전율도한자릿수\""
+  "\"단일레버리지규제로거래대금92%급감...회전율도한자릿수\"",
+  "LS증권“美증시,외교빅이벤트소화하며상승…이란변수는여전”",
+  "[전일주요공시]SHD·현대로템·현대건설등",
+  "칩부터칠러까지'풀스택'…LG전자,AIDC냉각사업확대",
+  "[더벨][이슈&보드]SK디앤디,유증반대주주에이례적서면답변",
+  "\"금리5%넘는데반도체만달린다…마이크론CEO발언주목\"",
+  "삼성전자·SK하이닉스,본주는한자릿수하락···2배ETF는최대'반토...",
+  "조인철국회의원'추석민심'출연",
+  "SK증권\"서진시스템,하반기ESS·반도체반등본격...목표가7만원상향..."
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,33 @@
   [
    "2026-09-28T07:50:58.454952+09:00",
    "규제로 급감 레버리지 거래대금 자릿수 회전율도 단일"
+  ],
+  [
+   "2026-09-28T08:01:18.719506+09:00",
+   "냉각사업 AIDC 칩부터 풀스택 칠러까지 확대 LG전자"
+  ],
+  [
+   "2026-09-28T08:01:18.719506+09:00",
+   "서면 SK디앤디 유증 반대 이례적 답변 주주에"
+  ],
+  [
+   "2026-09-28T08:01:18.719506+09:00",
+   "금리 CEO 마이크론 달린다 주목 반도체만 넘는데 발언"
+  ],
+  [
+   "2026-09-28T08:01:18.719506+09:00",
+   "2배 자릿수 본주는 반토 SK하이닉스 ETF는 하락 삼성전자"
+  ],
+  [
+   "2026-09-28T08:01:18.719506+09:00",
+   "출연 조인철 민심 추석 국회의원"
+  ],
+  [
+   "2026-09-28T08:01:18.719506+09:00",
+   "목표가 SK증권 서진시스템 7만원 하반기 상향 ESS 반등 본격 반도체"
   ]
  ],
- "last_run": "2026-09-28T07:51:10.090705+09:00",
+ "last_run": "2026-09-28T08:01:38.597853+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
