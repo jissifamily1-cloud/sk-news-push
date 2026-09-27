@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728226",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157359",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725448",
-  "https://www.sedaily.com/article/20094280",
-  "https://sports.khan.co.kr/article/202609230700003?pt=nv",
-  "https://www.newsis.com/view/NISX20260922_0003800994",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=310684",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609230009&t=NN",
   "https://www.epnc.co.kr/news/articleView.html?idxno=407313",
   "https://www.ceoscoredaily.com/page/view/2026092215460912906",
@@ -2999,16 +2992,16 @@
   "https://www.khan.co.kr/article/202609271555001",
   "https://www.mk.co.kr/article/12161933",
   "https://www.mk.co.kr/article/12161924",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728295"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=728295",
+  "https://www.yna.co.kr/view/AKR20260927037900007?input=1195m",
+  "https://www.sportsseoul.com/news/read/1637765",
+  "https://biz.sbs.co.kr/article_hub/20000336837?division=NAVER",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93963",
+  "https://www.joongang.co.kr/article/25464999",
+  "https://www.mk.co.kr/article/12161939",
+  "https://www.yna.co.kr/view/AKR20260927036200009?input=1195m"
  ],
  "seen_titles": [
-  "최태원·구광모·구자은회장,이재명대통령의멕시코순방동행...AI·...",
-  "\"오일만팔아선안돼\"…정유4사,가전·건설손잡고'AI냉각연합군'...",
-  "[THEBiz&CEO]'HBM굴욕'씻은전영현삼성전자부회장…다음은파운드...",
-  "'호텔김치'가미국식탁으로…워커힐,수출1년만에호주까지",
-  "美반도체훈풍에코스피반등시도…연휴앞두고수급변수",
-  "8.4조원들여K배터리체질바꾼다…나트륨·전고체배터리로中과경...",
-  "SSG에이스아빌라강판시킨KT김민혁의적시타“중요한상황서해결...",
   "미·중정상회담에쏠린증시눈…반도체규제향방이삼전·닉스변수",
   "국감증인준비하는'자산운용사',레버리지ETF'책임'피할수있나",
   "미·이란대화재개에나스닥이틀연속사상최고-[글로벌마감시황]",
@@ -6001,7 +5994,14 @@
   "“SK하이닉스솔리다임,내년미국상장검토”…중복상장논란재점화",
   "물품대금앞당겨지급하고…수해복구현장곳곳서구슬땀\"명절·재난나...",
   "SK이노베이션,전시에군에유류안정적으로공급훈련",
-  "분양땐자랑거리,입주뒤엔애물단지…아파트커뮤니티의굴욕"
+  "분양땐자랑거리,입주뒤엔애물단지…아파트커뮤니티의굴욕",
+  "'이정현18점'프로농구소노,kt와시범경기완승",
+  "서울통신요금,세계주요6개도시중최고수준…4G20GB도쿄의2.3배",
+  "세계자금美주식으로…외국인순매수9천420억달러'역대최대'",
+  "젠슨황·이재용·최태원,28일뉴욕서회동…HBM·AI협력주목",
+  "최태원동거인김희영유튜버상대손배소승소",
+  "\"향후10년韓·美에큰기회…전력기기·조방원·로봇株주목\"",
+  "美주식에몰린해외자금…1년간1천280조원순매수'역대최대'"
  ],
  "recent_sigs": [
   [
@@ -6459,9 +6459,17 @@
   [
    "2026-09-27T16:11:01.063003+09:00",
    "뒤엔 커뮤니티의 아파트 애물단지 분양 굴욕 자랑거리 입주"
+  ],
+  [
+   "2026-09-27T16:20:58.863091+09:00",
+   "주목 향후 10년 조방원 기회 전력기기 로봇"
+  ],
+  [
+   "2026-09-27T16:20:58.863091+09:00",
+   "해외자금 주식에 순매수 1천280조원 1년간 몰린 역대"
   ]
  ],
- "last_run": "2026-09-27T16:11:12.915548+09:00",
+ "last_run": "2026-09-27T16:21:07.351163+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
