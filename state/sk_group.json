@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1409366",
-  "https://www.the-today.com/news/articleView.html?idxno=90649",
-  "https://www.seoul.co.kr/news/society/2026/09/23/20260923500070?wlog_tag3=naver",
-  "https://www.sedaily.com/article/20094407",
   "https://www.news1.kr/finance/general-stock/6300072",
   "https://www.cbci.co.kr/news/articleView.html?idxno=609352",
   "http://www.inews24.com/view/2008704",
@@ -2999,13 +2995,13 @@
   "https://biz.sbs.co.kr/article_hub/20000336893?division=NAVER",
   "https://www.fntimes.com/html/view.php?ud=202609280712591454141825007d_18",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725720",
-  "https://www.ajunews.com/view/20260928071950689"
+  "https://www.ajunews.com/view/20260928071950689",
+  "https://www.starnewskorea.com/sports/2026/09/28/2026092209501581332",
+  "https://www.public25.com/news/articleView.html?idxno=55406",
+  "https://dealsite.co.kr/articles/169229",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=881867"
  ],
  "seen_titles": [
-  "법무법인율촌,이재근변호사'아시아분쟁해결우수변호사50인'선정",
-  "'동맹'나선SK엔무브·LG전자,차세대열관리시장공략",
-  "대기업33%5년이상흑자행진…10년이상흑자는20%",
-  "현대해상,AI시대청년미래인재육성'프로젝트트레일마크'공개",
   "LG전자,SK엔무브와'AI데이터센터'차세대열관리핵심소재공동개발...",
   "전남광주통합특별시출범첫승진인사단행…“조직안정·성과최우선”",
   "메타뮤즈열풍에나스닥최고치…기술주랠리재점화",
@@ -6001,7 +5997,11 @@
   "[서학개미브리핑]美증시상승베팅한서학개미들지난주차익실현",
   "[KFT모닝브리프]2026.09.28—오늘꼭알아야할국내외경제뉴스",
   "삼전닉스앞에'메모리황금길'…3Q영업익190조원전망",
-  "[아주증시포커스]롤러코스터장겪은2030,첫투자선택지달라졌다…..."
+  "[아주증시포커스]롤러코스터장겪은2030,첫투자선택지달라졌다…...",
+  "'군필'베테랑부터'19세'막내까지...'12년만의韓농구金'새역사숨...",
+  "[코스피·코스닥,현대건설셀트리온LG디스플레이HLD&I현대로템SK바...",
+  "[단종레국부유출백서]정부가물타기막고등떠밀어…개인들만낭떠...",
+  "\"단일레버리지규제로거래대금92%급감...회전율도한자릿수\""
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,21 @@
   [
    "2026-09-28T07:41:00.438196+09:00",
    "달라졌다 선택지 겪은 투자 롤러코스터장"
+  ],
+  [
+   "2026-09-28T07:50:58.454952+09:00",
+   "셀트리온 현대건설 SK바 HL 코스피 현대로템 코스닥 LG디스플레이"
+  ],
+  [
+   "2026-09-28T07:50:58.454952+09:00",
+   "개인들만 낭떠 막고 물타기 떠밀어 정부가"
+  ],
+  [
+   "2026-09-28T07:50:58.454952+09:00",
+   "규제로 급감 레버리지 거래대금 자릿수 회전율도 단일"
   ]
  ],
- "last_run": "2026-09-28T07:41:21.835128+09:00",
+ "last_run": "2026-09-28T07:51:10.090705+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
