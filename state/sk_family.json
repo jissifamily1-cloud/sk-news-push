@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1224873",
-  "https://www.wikitree.co.kr/articles/1148756",
-  "https://www.dkilbo.com/news/articleView.html?idxno=549728",
   "https://kjmbc.co.kr/NewsArticle/1527211",
   "https://www.venturesquare.net/1112490/",
   "https://www.abcn.kr/news/articleView.html?idxno=89941",
@@ -2999,12 +2996,12 @@
   "https://www.kgnews.co.kr/news/article.html?no=913017",
   "https://www.mk.co.kr/article/12162001",
   "https://www.edaily.co.kr/News/Read?newsId=01843366645584384&mediaCodeNo=257",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271343316780442"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271343316780442",
+  "https://www.seoul.co.kr/news/economy/industry/2026/09/27/20260927500073?wlog_tag3=naver",
+  "https://www.mk.co.kr/article/12162051",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448009"
  ],
  "seen_titles": [
-  "공소청전환앞두고석달간800건처리'강철초임'…우수검사선정",
-  "퇴사직원에‘강제추행’덮어씌워…검찰이밝혀낸‘조작극’",
-  "[인사]포항시",
   "【인사】포항시인사이동조서(6급이하)",
   "[인사]포항시(6급이하.7월30일자)",
   "포항시인사",
@@ -6001,13 +5998,12 @@
   "젠슨황,뉴욕서이재용·최태원과재회…AI반도체협력확대주목",
   "韓·멕시코,협의체신설…FTA논의에속도",
   "오늘의부고종합",
-  "북미로ㆍ유럽으로…기업총수들,추석연휴잊은‘광폭행보’"
+  "북미로ㆍ유럽으로…기업총수들,추석연휴잊은‘광폭행보’",
+  "최태원,멕시코서“韓기술·멕시코제조기반협력기대”...재계,AI부...",
+  "[매경포럼]K반도체초호황1년의숙제",
+  "[9월28일자]비즈니스포스트아침의주요기사"
  ],
  "recent_sigs": [
-  [
-   "2026-09-27T11:00:26.874641+09:00",
-   "포럼 멕시코서 상의 성장 새로운 첫걸음 비즈니스"
-  ],
   [
    "2026-09-27T11:20:13.628523+09:00",
    "멕시코는 회장 핵심 지평 대한상의 기업 경제 거점 협력"
@@ -6059,9 +6055,17 @@
   [
    "2026-09-27T17:00:26.223697+09:00",
    "총수들 기업 광폭 연휴 행보 추석 유럽으로 북미로 잊은"
+  ],
+  [
+   "2026-09-27T17:10:15.284765+09:00",
+   "1년의 K반도체 숙제 초호황"
+  ],
+  [
+   "2026-09-27T17:10:15.284765+09:00",
+   "아침의 비즈니스포스트 주요기사"
   ]
  ],
- "last_run": "2026-09-27T17:00:38.035472+09:00",
+ "last_run": "2026-09-27T17:10:30.008233+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
