@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tournews21.com/news/articleView.html?idxno=143970",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005924640",
-  "https://www.sportsseoul.com/news/read/1636470",
-  "https://www.m-i.kr/news/articleView.html?idxno=1416346",
-  "https://www.nocutnews.co.kr/news/6580927",
-  "https://www.techm.kr/news/articleView.html?idxno=155416",
-  "https://www.joongang.co.kr/article/25463354",
-  "http://www.metroseoul.co.kr/article/20260920500153",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88603",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171510",
-  "https://www.ddaily.co.kr/page/view/2026092011571052907",
   "https://www.edaily.co.kr/News/Read?newsId=01489126645582088&mediaCodeNo=257",
   "http://www.4th.kr/news/articleView.html?idxno=2118401",
   "https://www.newsinside.kr/news/articleView.html?idxno=5005035",
@@ -2999,20 +2988,20 @@
   "https://www.yna.co.kr/view/AKR20260927021651054?input=1195m",
   "https://m.sports.naver.com/basketball/article/065/0000302079",
   "https://www.koreaherald.com/article/10885240",
-  "https://www.boannews.com/news/articleView.html?idxno=146012"
+  "https://www.boannews.com/news/articleView.html?idxno=146012",
+  "https://www.chosun.com/economy/tech_it/2026/09/27/BCNE4BZRJRHUFGYXUJPHGAIV2Q/",
+  "https://www.ajunews.com/view/20260927104708620",
+  "https://www.techm.kr/news/articleView.html?idxno=155591",
+  "https://www.yna.co.kr/view/AKR20260923070500003?input=1195m",
+  "https://www.hankyung.com/article/2026092773667",
+  "https://www.newspim.com/news/view/20260927000081",
+  "https://www.koreatimes.co.kr/path/A2026092713060005197",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=127350",
+  "https://www.seoul.co.kr/news/politics/2026/09/27/20260927500047?wlog_tag3=naver",
+  "https://www.kbsm.net/news/view.php?idx=535623",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=127348"
  ],
  "seen_titles": [
-  "SOVAC,사회적가치페스타공동주관…지역문제해법찾는다",
-  "SK,사회적가치페스타21~22일개최…지역문제해법모색",
-  "SOVAC2026,'지역의미래'화두로대한상의페스타참여",
-  "SOVAC2026'지역의미래'해법모색…AI사회공헌플랫폼공개",
-  "수도권격차·인구감소대안모색…SOVAC2026,‘로컬’핵심의제로...",
-  "SKSOVAC,'사회적가치페스타'주관…지역미래해법모색",
-  "올해SOVAC주제는'지역의미래'…400여개기관참여",
-  "SK\"사회문제해결도AI로\"...'사회적가치페스타'참가",
-  "SK주도SOVAC,지역문제해법모색…AI로사회공헌성과측정",
-  "SKSOVAC,사회적가치페스타서'지역의미래'조명…AI활용해법공개",
-  "지방소멸해법찾는'SOVAC2026'개막…AI접목한로컬생태계제시",
   "'SOVAC2026',이번엔'지역의미래'해법모색...기대효과는?",
   "SOVAC,'사회적가치페스타'공동주관참여…지역미래해법모색",
   "\"지역격차·청년·인구감소해법찾는다\"…SOVAC,사회적가치페스타참...",
@@ -6001,7 +5990,18 @@
   "전남광주민심\"민생팍팍\"…통합갈등엔\"민시장제역할해야\"(종합)",
   "[웜업터뷰]'AG금메달리스트'이정현출격준비…켐바오·제임스·오브...",
   "Korea,Mexicoexpandeconomictiesintoadvancedindustries,energy,",
-  "2026국정감사,AI와사이버보안,국방·안보,재난안전까지주목해야..."
+  "2026국정감사,AI와사이버보안,국방·안보,재난안전까지주목해야...",
+  "서울통신요금,주요6개도시중최상위권…일부요금은도쿄의2.3배",
+  "반도체'웃고',자동차·이차전지'울상'...상장사3분기실적전망",
+  "'분기영업익100조'시대연다…삼성전자,HBM4타고사상최대실적눈...",
+  "대미투자1호가스발전추진에ESS기대감…K-배터리신시장",
+  "\"20GB에6만원\"…서울통신비,도쿄·파리의2배이상",
+  "최태원\"멕시코는글로벌경제거점\"...제조넘어AI·공급망협력넓힌...",
+  "ParentalleavefallsatSamsung,SKhynixasheftybonusesloom",
+  "수비스페셜리스트로거듭난문정현,그이면에는문경은감독의조언이...",
+  "“뻥뚫린내정보”6년간1억4000만건유출…하루6.4만건꼴",
+  "칠곡군종합자원봉사센터,대한민국사회적가치페스타참여",
+  "'이정현출전+NEW스타팅멤버'예고한소노손창환감독,\"초반에실험..."
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,29 @@
   [
    "2026-09-27T13:51:04.514017+09:00",
    "AI와 사이버보안 재난 안보 국정감사 국방 안전까지 주목해야"
+  ],
+  [
+   "2026-09-27T14:01:15.632415+09:00",
+   "as at Samsung falls bonuses hynix hefty loom Parental leave"
+  ],
+  [
+   "2026-09-27T14:01:15.632415+09:00",
+   "수비 이면에는 조언이 스페셜리스트로 문정현 문경은 거듭난 감독의"
+  ],
+  [
+   "2026-09-27T14:01:15.632415+09:00",
+   "뚫린 4만건꼴 정보 4000만건 하루 6년간 1억 유출"
+  ],
+  [
+   "2026-09-27T14:01:15.632415+09:00",
+   "칠곡군종합자원봉사센터 참여 사회적가치 페스타 대한민국"
+  ],
+  [
+   "2026-09-27T14:01:15.632415+09:00",
+   "손창환 출전 감독 예고한 실험 멤버 NEW 소노 스타팅 이정현 초반에"
   ]
  ],
- "last_run": "2026-09-27T13:51:12.884557+09:00",
+ "last_run": "2026-09-27T14:01:32.135362+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
