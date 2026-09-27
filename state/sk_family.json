@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260828_0003766797",
-  "https://www.edaily.co.kr/News/Read?newsId=03266886645551912&mediaCodeNo=257",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=807978",
   "http://www.breaknews.com/1224873",
   "https://www.wikitree.co.kr/articles/1148756",
   "https://www.dkilbo.com/news/articleView.html?idxno=549728",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12161997",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448008",
   "https://www.khan.co.kr/article/202609271646011",
-  "https://www.kgnews.co.kr/news/article.html?no=913017"
+  "https://www.kgnews.co.kr/news/article.html?no=913017",
+  "https://www.mk.co.kr/article/12162001",
+  "https://www.edaily.co.kr/News/Read?newsId=01843366645584384&mediaCodeNo=257",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609271343316780442"
  ],
  "seen_titles": [
-  "울산AI데이터센터현장점검",
-  "사설탐정에지명수배자정보흘린경찰…檢보완수사로뇌물혐의추가",
-  "사설탐정에수배정보넘긴경찰…검찰보완수사로뇌물혐의추가",
   "공소청전환앞두고석달간800건처리'강철초임'…우수검사선정",
   "퇴사직원에‘강제추행’덮어씌워…검찰이밝혀낸‘조작극’",
   "[인사]포항시",
@@ -6001,7 +5998,10 @@
   "[부음]김남선씨별세",
   "[부음]김대원장모,최수종모친,이정선부인외",
   "오늘의부고-배우최수종씨모친상외",
-  "젠슨황,뉴욕서이재용·최태원과재회…AI반도체협력확대주목"
+  "젠슨황,뉴욕서이재용·최태원과재회…AI반도체협력확대주목",
+  "韓·멕시코,협의체신설…FTA논의에속도",
+  "오늘의부고종합",
+  "북미로ㆍ유럽으로…기업총수들,추석연휴잊은‘광폭행보’"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-09-27T15:40:14.446274+09:00",
    "놓고 여야 예고 추석 격돌 정국 안보 사법 마무리 인사 국정감사"
+  ],
+  [
+   "2026-09-27T17:00:26.223697+09:00",
+   "총수들 기업 광폭 연휴 행보 추석 유럽으로 북미로 잊은"
   ]
  ],
- "last_run": "2026-09-27T16:50:24.941652+09:00",
+ "last_run": "2026-09-27T17:00:38.035472+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
