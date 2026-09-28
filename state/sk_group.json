@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fetv.co.kr/news/articleView.html?idxno=310788",
-  "https://www.dt.co.kr/article/12085763",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16212148",
   "https://www.news2day.co.kr/article/20260911500220",
   "https://www.kbmaeil.com/article/20260925500022",
   "https://biz.chosun.com/policy/politics/president_office/2026/09/25/ZO4MMA2YWFBU7DUWH3E4FWZAOQ/",
@@ -2999,12 +2996,12 @@
   "https://www.ytn.co.kr/_ln/0101_202609281925570245",
   "https://www.polinews.co.kr/news/articleView.html?idxno=744257",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672897",
-  "https://www.newspim.com/news/view/20260928001088"
+  "https://www.newspim.com/news/view/20260928001088",
+  "http://www.newskr.kr/news/articleView.html?idxno=106727",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102702",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1183962"
  ],
  "seen_titles": [
-  "李대통령,韓-멕시코기업인간담회…최태원·구광모등참석",
-  "재운(財運)강한땅에터잡은엔비디아,20년더번성할것",
-  "\"28만전자안착\"삼성전자,추석뒤29만원선넘을까",
   "건설사R&D예산은줄여도…로봇은키운다",
   "수출절반이반도체인데,그절반은중국행…커지는'쏠림리스크'",
   "10월중순조기종료되는삼전닉스자사주매입…외국인복귀가증시...",
@@ -6001,7 +5998,10 @@
   "여야,환노위서이재용·최태원증인채택두고공방",
   "반복담합에영업정지·등록취소…당정,공정거래법·개별법17건개정추...",
   "[집중취재]강원곳곳AI데이터센터추진…동해속도·강릉주춤",
-  "[2026AG]남자핸드볼,4강서카타르에2점차석패…일본과동메달결정..."
+  "[2026AG]남자핸드볼,4강서카타르에2점차석패…일본과동메달결정...",
+  "코스피외국인·기관4조원대매도에7천선붕괴",
+  "美증시상승에도코스피7000붕괴…반도체5%급락",
+  "[주식마감]담관암치료제FDA승인소식에HLB그룹주'上'...씨싸이트,..."
  ],
  "recent_sigs": [
   [
@@ -6927,9 +6927,13 @@
   [
    "2026-09-28T19:41:05.933178+09:00",
    "남자 핸드볼 일본과 결정 카타르에 석패 2점 동메달 4강서"
+  ],
+  [
+   "2026-09-28T19:51:03.616007+09:00",
+   "씨싸이트 치료제 담관암 승인 HLB그룹주 소식에 FDA"
   ]
  ],
- "last_run": "2026-09-28T19:41:17.252557+09:00",
+ "last_run": "2026-09-28T19:51:09.504195+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
