@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmaeil.com/news/articleView.html?idxno=651518",
-  "https://www.nspna.com/news/?newsid=828001",
-  "https://www.etoday.co.kr/news/view/2624647",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88082",
   "https://news.jtbc.co.kr/article/NB12317972?influxDiv=NAVER",
   "https://www.fnnews.com/news/202609111738083759",
@@ -2999,12 +2996,12 @@
   "https://www.ytn.co.kr/_ln/0102_202609281905482131",
   "https://www.ddaily.co.kr/page/view/2026092818442713373",
   "https://www.mk.co.kr/article/12150517",
-  "https://www.fnnews.com/news/202609281914458466"
+  "https://www.fnnews.com/news/202609281914458466",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725909",
+  "https://view.asiae.co.kr/article/2026092819183061521",
+  "https://www.ytn.co.kr/_ln/0101_202609281925570245"
  ],
  "seen_titles": [
-  "최태원'AI풀스택프로바이더'승부수",
-  "[단독]검찰,‘김옥숙메모’노소영소환통보",
-  "[A주간서머리]경제·산업계\"이재용,母홍라희지분1.9조매수...권...",
   "용인특례시의회,동티모르청소년과2년연속교류···미래세대소통...",
   "용인특례시의회,동티모르청소년과2년연속미래세대교류진행",
   "견학으로시작해올해는‘지방자치체험’…용인시의회,동티모르청...",
@@ -6001,7 +5998,10 @@
   "뉴욕서만나는이재용·최태원·젠슨황...'AI동맹'주목",
   "장인화포스코그룹회장,법무부국감증인채택…기업인줄소환재연되...",
   "金뒤에서‘세계경제’움직인銀[신간]",
-  "[강남視角]호남반도체,선결조건은'물'"
+  "[강남視角]호남반도체,선결조건은'물'",
+  "이재용·최태원·젠슨황,뉴욕서재회…'AI동맹'확대주목",
+  "기후위,'호남반도체'여야공방…삼성·SK총수증인신경전",
+  "여야,환노위서이재용·최태원증인채택두고공방"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-09-28T19:20:18.379650+09:00",
    "선결조건은 호남반도체"
+  ],
+  [
+   "2026-09-28T19:30:22.840362+09:00",
+   "환노위서 여야 증인채택 이재용 두고 공방"
   ]
  ],
- "last_run": "2026-09-28T19:20:33.100347+09:00",
+ "last_run": "2026-09-28T19:30:34.433705+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
