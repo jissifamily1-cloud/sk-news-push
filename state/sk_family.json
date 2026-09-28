@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://idsn.co.kr/news/view/1065580601665837",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=204328",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000064538",
   "https://economychosun.com/site/data/html_dir/2026/09/07/2026090700021.html",
@@ -2999,10 +2998,10 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363737878",
   "https://www.yna.co.kr/view/AKR20260928119800007?input=1195m",
   "https://www.dailian.co.kr/news/view/1695102/?sc=Naver",
-  "https://www.globale.co.kr/news/articleView.html?idxno=40652"
+  "https://www.globale.co.kr/news/articleView.html?idxno=40652",
+  "https://www.newsis.com/view/NISX20260928_0003805563"
  ],
  "seen_titles": [
-  "\"정보보호가신뢰의기본\"...농협중앙회,숏폼과특강으로보안의식무...",
   "농협중앙회,정보보호아카데미개최…개인정보보호실천문화확산",
   "울릉군의회,재정·도로·관광·교육현안집중추궁",
   "최태원SK회장,울산서AX현장경영...AI데이터센터·CLX점검",
@@ -6001,7 +6000,8 @@
   "[화보]지방의회법제정관련국회입법공청회",
   "[아시안게임]악재뚫고'금4개'…올림픽앞두고과제도남긴한국펜싱",
   "글로벌전쟁뛰는이재용·최태원도국회로…올해도도진국감'기업인...",
-  "[류스픽]군·유엔사6일만에DMZ폭발사고조사···사고지점접근못..."
+  "[류스픽]군·유엔사6일만에DMZ폭발사고조사···사고지점접근못...",
+  "SK하이닉스계속\"미확정\"이라는데…열흘에한번꼴'해외팹추진說'꾸..."
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-09-28T16:10:16.112548+09:00",
    "지점 사고 유엔사 폭발사고 6일만에 접근 조사 DMZ"
+  ],
+  [
+   "2026-09-28T16:20:15.268618+09:00",
+   "계속 열흘에 SK하이닉스 미확정 이라는데 번꼴 해외팹"
   ]
  ],
- "last_run": "2026-09-28T16:10:28.290006+09:00",
+ "last_run": "2026-09-28T16:20:27.381490+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
