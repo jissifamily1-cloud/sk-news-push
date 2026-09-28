@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1415480",
-  "https://www.ddaily.co.kr/page/view/2026091713442163416",
-  "https://www.techm.kr/news/articleView.html?idxno=155351",
-  "https://www.khan.co.kr/article/202609171500001",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1332327",
   "https://www.news1.kr/society/incident-accident/6294091",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170357",
   "https://www.seoul.co.kr/news/society/law/2026/09/17/20260917500177?wlog_tag3=naver",
@@ -2999,14 +2994,14 @@
   "https://www.fnnews.com/news/202609281914408524",
   "https://www.yna.co.kr/view/AKR20260928154400004?input=1195m",
   "https://www.newspim.com/news/view/20260928001074",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=867529"
+  "https://www.dynews.co.kr/news/articleView.html?idxno=867529",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744257",
+  "https://www.segye.com/newsView/20260928514976?OutUrl=naver",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246067",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000017917&cp=nv",
+  "https://www.ppss.kr/news/articleView.html?idxno=312844"
  ],
  "seen_titles": [
-  "\"입법기다리다소상공인다죽는다\"…소상공인단체,플랫폼피해구제...",
-  "관광공사,中트립닷컴에11억썼다…공정위제재뒤에도협업",
-  "2년조사끝'무혐의'…무신사,입점브랜드거래제한의혹벗었다",
-  "교육용태블릿20만대담합혐의…공정위제재절차착수",
-  "'수원마약영상'30대남성,검찰송치",
   "경찰,통일시대연구원관계자압수수색…국가보안법위반혐의",
   "직원넘어대표가족까지?…에이비엘바이오'내부자거래'어디까지관...",
   "출소후함양서또대형산불낸‘봉대산불다람쥐’징역12년",
@@ -6001,7 +5996,12 @@
   "[사설]담합반복하면등록취소,강력한만큼신중해야",
   "\"중학생제자동의받았다\"성관계교사…檢보완수사로강제추행적용",
   "[종합]신용한충북지사집무실압수수색…신\"불법행위없었다\"정면부...",
-  "경찰,신용한충북도지사집무실압색"
+  "경찰,신용한충북도지사집무실압색",
+  "반복담합에영업정지·등록취소…당정,공정거래법·개별법17건개정추...",
+  "정부,쉰들러가낸ISDS승소확정…3250억유출막았다",
+  "설탕·밀가루담합잡겠다더니식품업은빠졌다",
+  "경찰,충북지사집무실압수수색",
+  "신용한충북지사집무실전격압수수색…경찰,차명폰·불법선거운동..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "제재 5년간 불명예 현대백화점그룹 최다 82번 1부 걸렸다"
   ]
  ],
- "last_run": "2026-09-28T19:21:02.792312+09:00",
+ "last_run": "2026-09-28T19:31:06.395779+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
