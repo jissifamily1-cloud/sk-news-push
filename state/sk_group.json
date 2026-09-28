@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/gwangju-jeonnam/6300486",
-  "https://zdnet.co.kr/view/?no=20260925161629",
-  "https://www.yna.co.kr/view/AKR20260926005400001?input=1195m",
-  "https://www.nocutnews.co.kr/news/6583284",
-  "https://www.dailian.co.kr/news/view/1694173/?sc=Naver",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260926065858wSM",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260926065748Es3",
-  "http://www.joseilbo.com/news/news_read.php?uid=576349&class=53",
   "https://www.slist.kr/news/articleView.html?idxno=768811",
   "https://www.newscj.com/news/articleView.html?idxno=3435620",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609260004&t=NN",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20260929_0003806166",
   "https://www.nocutnews.co.kr/news/6584142",
   "https://news.bizwatch.co.kr/article/mobile/2026/09/28/0025",
-  "https://www.ytn.co.kr/_ln/0102_202609290734196280"
+  "https://www.ytn.co.kr/_ln/0102_202609290734196280",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5221937",
+  "https://www.etnews.com/20260929000013",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277684",
+  "https://www.kado.net/news/articleView.html?idxno=2075296",
+  "https://www.viva100.com/article/20260929500062",
+  "https://biz.sbs.co.kr/article_hub/20000337132?division=NAVER",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155034",
+  "https://www.etoday.co.kr/news/view/2630110"
  ],
  "seen_titles": [
-  "10년전1억투자했다면…엔비디아138억·SK하닉47억·은마아파트2.9억",
-  "비싼하이니켈만으론어렵다…K-배터리,‘나트륨’보급형카드꺼낸다",
-  "[투데이온]최태원의'인텔승부수'통했다,솔리다임1500억弗신화쓸...",
-  "주간증시전망,유가내리자살아난위험선호…추석뒤코스피도웃을까",
-  "李대통령,‘USMCA’美압박맞은‘한-멕’기업에…“위기는기회다”",
-  "원전,데이터센터관련직업군이라면…건설사채용문'활짝'",
-  "◇오늘의경기(26일)",
-  "뉴욕증시,미·이란협상기대에상승…AI·반도체주강세(종합)",
   "[PLAYIT]차기'갤럭시울트라'두뇌미리보기…퀄컴스냅드래곤8엘리...",
   "멕시코국빈방문,李대통령…기업인간담회·투자보장협정개정으로경...",
   "제조업기반취약한광주,이젠글로벌AI부품생산기지로",
@@ -6001,7 +5993,15 @@
   "[오늘의증시]美국채금리상승여파…코스피약세이어지나",
   "DMZ폭발물은\"북한군지뢰가능성매우높아\"[오늘아침]",
   "'국민이체감'모두의AI,이용자사로잡을전략은",
-  "[스타트경제]뉴노멀된'미국채금리5%'...금융시장영향은?"
+  "[스타트경제]뉴노멀된'미국채금리5%'...금융시장영향은?",
+  "[투데이라인업]국회국방위,'DMZ폭발사고'현안질의/이대통령,메...",
+  "젠슨황엔비디아CEO,한미관계기여'밴플리트상'수상",
+  "올해대기업간퇴직공직자3명중1명…삼성·한화가품었다",
+  "퇴직공직자6명중1명대기업행…삼성·한화취업비중커졌다",
+  "퇴직공직자대기업행줄었지만⋯'삼성•한화•LIG'재취업인기",
+  "[애프터마켓리뷰]담관암치료제FDA승인에HLB그룹주'상한가'",
+  "세계채권시장,0%대빚의청구서날아와···韓경제까지번진'금리...",
+  "DS證“반도체,환율쇼크는이미알려진악재⋯2027년HBM가격주목”"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,21 @@
   [
    "2026-09-29T07:51:03.492685+09:00",
    "금융시장 뉴노멀 영향은 국채금리"
+  ],
+  [
+   "2026-09-29T08:01:18.708508+09:00",
+   "치료제 상한가 승인에 담관암 HLB그룹주 FDA"
+  ],
+  [
+   "2026-09-29T08:01:18.708508+09:00",
+   "날아와 빚의 청구서 채권시장 번진 세계 경제까지 금리"
+  ],
+  [
+   "2026-09-29T08:01:18.708508+09:00",
+   "환율 HBM 악재 알려진 2027년 가격 반도체 쇼크는 주목 이미 DS"
   ]
  ],
- "last_run": "2026-09-29T07:51:19.996458+09:00",
+ "last_run": "2026-09-29T08:01:30.392203+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
