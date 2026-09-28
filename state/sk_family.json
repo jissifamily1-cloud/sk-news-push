@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3691918",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061195",
-  "http://www.newsdream.kr/news/articleView.html?idxno=117991",
-  "https://www.yna.co.kr/view/AKR20260911063800054?input=1195m",
   "https://view.asiae.co.kr/article/2026091111194511630",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=3128",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89126",
@@ -2999,13 +2995,13 @@
   "http://www.newskr.kr/news/articleView.html?idxno=106718",
   "https://www.kbmaeil.com/article/20260928500539",
   "https://www.imaeil.com/page/view/2026092815040183264",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868354"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868354",
+  "https://www.news1.kr/industry/distribution/6303428",
+  "https://www.newspost.kr/news/articleView.html?idxno=225958",
+  "https://www.m-i.kr/news/articleView.html?idxno=1418533",
+  "https://www.lawtv.kr/news/articleView.html?idxno=61029"
  ],
  "seen_titles": [
-  "'연25조'전남광주특별시금고선정기준'지역분포도'로변경",
-  "최태원회장이사장단이끌고울산간까닭",
-  "최태원,울산AI데이터센터·울산CLX현장방문…\"전속력으로AX에돌입...",
-  "홍천군어린이집연합회,9월12일제14회명랑운동회개최",
   "홍천어린이집가족한자리에…12일'명랑운동회'",
   "농협중앙회,개인정보위와'하반기정보보호아카데미'개최",
   "전남광주시금고평가에영업망지역별분포반영확정",
@@ -6001,7 +5997,11 @@
   "LG생활건강닥터그루트·더페이스샵멕시코진출...K-뷰티멕시코수출...",
   "겨레의정서품은아리랑,전통과현대넘나드는웅장한화음으로",
   "영화'아리랑'100년…국악으로다시부르는민족의노래",
-  "재벌총수'망신주기'국감단골소재?"
+  "재벌총수'망신주기'국감단골소재?",
+  "LG생활건강,멕시코시장공략속도…이선주대표현장행보",
+  "뉴욕서만나는이재용·최태원·젠슨황…AI협력확대주목",
+  "[기획]팹투입삼성·관절다지는LG…K-산업,휴머노이드실증총력전",
+  "추석연휴반납한이재용·최태원,뉴욕서젠슨황과두달만에재회"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-09-28T15:30:25.600053+09:00",
    "국감 단골소재 망신주기 재벌총수"
+  ],
+  [
+   "2026-09-28T15:40:14.316810+09:00",
+   "관절 실증 LG 다지는 총력전 투입 휴머노이드 산업 삼성"
+  ],
+  [
+   "2026-09-28T15:40:14.316810+09:00",
+   "연휴 재회 추석 이재용 만에 젠슨 황과 뉴욕서 반납한"
   ]
  ],
- "last_run": "2026-09-28T15:30:39.769022+09:00",
+ "last_run": "2026-09-28T15:40:29.470774+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
