@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=64127",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660724",
-  "https://www.kado.net/news/articleView.html?idxno=2071987",
-  "https://biz.heraldcorp.com/article/10869847",
   "https://www.gokorea.kr/news/articleView.html?idxno=878013",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522392",
   "http://kor.theasian.asia/archives/415170",
@@ -2999,13 +2995,13 @@
   "http://www.bokuennews.com/news/article.html?no=284774",
   "https://www.joongangenews.com/news/articleView.html?idxno=543853",
   "http://www.globalepic.co.kr/view.php?ud=20260928112414694448439a4874_29",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363767"
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363767",
+  "https://www.mediapen.com/news/view/1126297",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260928114700NeH",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=359632",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=616479"
  ],
  "seen_titles": [
-  "\"최태원,동거인에1000억썼다\"고소당한노소영측변호사…검찰,불기...",
-  "[더벨][SK리밸런싱2년]2024년이천선언...숨가빴던조정후찾아온'온...",
-  "[율곡로]세기의이혼",
-  "최태원\"AI인프라와생산현장하나로이어야'AI풀스택프로바이더'완...",
   "“반도체같이하자”최태원제안에…일본키옥시아가거절한이유는?...",
   "최종현도의원\"감사성과,건수아닌행정개선효과로평가해야\"",
   "최태원SK회장“멤버사간시너지로AI선도하자”",
@@ -6001,7 +5997,11 @@
   "닥터그루트·더페이스샵,뉴욕·LA이어멕시코상륙",
   "[종합]최대난제풀리는'800조호남반도체'…삼성전자·SK하이닉스투...",
   "200조美상장가시화…논란의‘솔리다임’은어떤회사?",
-  "[단독]SK하이닉스,日공장기초공사돌입"
+  "[단독]SK하이닉스,日공장기초공사돌입",
+  "AI전쟁·통상압박속연말인사…4대그룹,‘실전형인재’전면세...",
+  "조희대\"靑'재제청하라'고만요청…국감서입장밝힐것\"",
+  "뉴욕서다시뭉치는이재용·최태원·젠슨황…차세대HBM논의할까",
+  "﻿SK최태원회장동거인김희영,악성유튜버상대로1000만원승소"
  ],
  "recent_sigs": [
   [
@@ -6049,7 +6049,7 @@
    "SK하이닉스 기초공사 돌입 공장"
   ]
  ],
- "last_run": "2026-09-28T11:50:30.896662+09:00",
+ "last_run": "2026-09-28T12:00:39.178235+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
