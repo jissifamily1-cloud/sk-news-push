@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260926.99099008406",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000068712",
-  "https://www.news1.kr/local/sejong-chungbuk/6298602",
-  "https://www.etoday.co.kr/news/view/2629402",
-  "https://www.wikitree.co.kr/articles/1162060",
-  "https://www.imaeil.com/page/view/2026092608012751096",
-  "https://www.ngonews.kr/news/articleView.html?idxno=239250",
-  "https://biz.sbs.co.kr/article_hub/20000336564?division=NAVER",
-  "https://www.newsis.com/view/NISX20260923_0003801303",
   "https://www.edaily.co.kr/News/Read?newsId=01754806645584056&mediaCodeNo=257",
   "https://www.sentv.co.kr/article/view/sentv202609230054",
   "https://dealsite.co.kr/articles/169605",
@@ -2999,18 +2990,18 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609221409508360101394",
   "https://medicalworldnews.co.kr/news/view.php?idx=1510977494",
   "https://www.yna.co.kr/view/AKR20260929021200008?input=1195m",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490940"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490940",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576991140418",
+  "https://cn.asiatoday.co.kr/view.php?key=20260909001019376",
+  "http://www.lawissue.co.kr/view.php?ud=202609290826271313204ead0791_12",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=64990",
+  "https://www.fnnews.com/news/202609290816578836",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366220",
+  "https://www.ziksir.com/news/articleView.html?idxno=147668",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=301648",
+  "http://www.newswell.co.kr/news/articleView.html?idxno=22208"
  ],
  "seen_titles": [
-  "[비즈인사이트]SK하이닉스손자회사'솔리다임',이르면내년美상장...",
-  "[에너지오디세이]⑥폐플라스틱에서석유뽑는다…열분해유사업재시동",
-  "곽노정SK하이닉스사장\"메모리시장,곡선도로진입…유연한적응력...",
-  "SK하이닉스곽노정\"고객시선서AI메모리새로운가능성찾을것\"",
-  "뉴욕증시,호르무즈재개방기대감따른유가하락에상승마감",
-  "미국증시,고금리뚫고상승마감…AI투자확산에MS·반도체강세",
-  "이대통령\"한멕무역협정논의재개해야\"⋯첨단산업협력강화구상",
-  "호르무즈빗장열리나…뉴욕증시,'미·이란협상급물살'에일제히반...",
-  "최태원동거인김희영,허위사실비방유튜버에또이겼다…1000만원받...",
   "그눈이향한곳,전부다찍혔다...성관계까지'몰카',AI안경부작용",
   "李대통령“한·멕시코무역협정논의조속재개해야”",
   "\"호르무즈다시열리나\"…美·이란외교기대에뉴욕증시3대지수상승...",
@@ -6001,7 +5992,16 @@
   "[더벨]'예비입찰코앞인데'솔리다임,투자유치난제산적",
   "9대대기업농어촌상생기금553억중농어민직접지원13.8%불과",
   "[마켓뷰]'7천피'내준코스피,美금리악재에추가하락하나",
-  "[단독]메모리용량커지면느려진다?…SK하이닉스,'속도병목'해법찾..."
+  "[단독]메모리용량커지면느려진다?…SK하이닉스,'속도병목'해법찾...",
+  "SK하이닉스,'2026미래포럼'서사업·기술방향성모색",
+  "SK海力士郭鲁正：存储器竞争瞬息万变…必须灵活应对",
+  "진학사캐치,구직자58%“자기소개서전형폐지긍정적”응답",
+  "[증시전망대]'7천피'무너진코스피,미국채·유가겹악재에또흔들리...",
+  "엔비디아젠슨황,벤플리트상수상...'韓美관계기여'",
+  "여기어때,'제휴기업특가'상품으로B2B시장공략",
+  "청와대참모3인,재산50억넘어…박지영비서관92억'톱'",
+  "\"국장·반도체팔고미국장으로\"…코스피7000무너지자ETF뭉칫돈이탈",
+  "'반도체투톱'에대한슬기로운접근법[오인경의그·말·이]"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,17 @@
   [
    "2026-09-29T08:21:00.404817+09:00",
    "메모리 커지면 병목 해법 SK하이닉스 속도 느려진다 용량"
+  ],
+  [
+   "2026-09-29T08:31:06.137320+09:00",
+   "코스피 미국장으로 이탈 반도체 무너지자 팔고 ETF 국장 뭉칫돈"
+  ],
+  [
+   "2026-09-29T08:31:06.137320+09:00",
+   "접근법 반도체 슬기로운 투톱"
   ]
  ],
- "last_run": "2026-09-29T08:21:37.534555+09:00",
+ "last_run": "2026-09-29T08:31:14.869755+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
