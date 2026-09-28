@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260917501084",
-  "https://view.asiae.co.kr/article/2026091714312602822",
-  "https://www.yna.co.kr/view/AKR20260917047654004?input=1195m",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81225",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4107257",
-  "https://www.meconomynews.com/news/articleView.html?idxno=201376",
-  "http://www.inews24.com/view/2006423",
   "https://www.nocutnews.co.kr/news/6579887",
   "https://realty.chosun.com/site/data/html_dir/2026/09/17/2026091702566.html",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035106",
@@ -2999,16 +2992,16 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672930",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260929.22006009153",
   "https://view.asiae.co.kr/article/2026092819310001245",
-  "https://www.hankookilbo.com/news/article/A2026092819440003910?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026092819440003910?did=NA",
+  "http://www.e-platform.net/news/articleView.html?idxno=105744",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1538837",
+  "https://news.jtbc.co.kr/article/NB12320350?influxDiv=NAVER",
+  "https://www.ktv.go.kr/content/view?content_id=761641",
+  "https://www.nocutnews.co.kr/news/6584098",
+  "https://www.kyeongin.com/article/1771634",
+  "https://www.kyeonggi.com/article/20260928580628"
  ],
  "seen_titles": [
-  "소상공인5개단체,배달플랫폼과수수료협상직접나선다",
-  "배달앱소상공인단체,'민간상생협의체'만든다…\"플랫폼과직접협상...",
-  "선관위특검첫압수수색은중앙·지방선관위…강제수사돌입(종합2보)",
-  "'학교디지털교과서용태블릿PC입찰담합'4개업체제재착수",
-  "디지털교과서태블릿입찰담합적발…제재절차착수",
-  "\"생활환급액100만원사라져요\"...자리톡,카카오알림톡으로낚시광...",
-  "조중훈·조양호·조원태,3代이은'수송보국'…통합대한항공눈앞",
   "\"경찰이김병기사건암장\"…공익신고자,박성주검찰에고발",
   "'일파만파'HL만도하청노동자사망사건…노동부,판교본사까지압수수...",
   "경찰,카카오톡음성통화보이스톡기술탈취의혹관련공소시효만료...",
@@ -6001,7 +5994,14 @@
   "경찰,신용한지사집무실압수수색",
   "공소시효이틀앞두고세금포탈업자송치…검·경합동수사빛발해",
   "경찰,'불법선거운동의혹'신용한충북도지사집무실압수수색",
-  "충북경찰청,신용한충북지사집무실압수수색"
+  "충북경찰청,신용한충북지사집무실압수수색",
+  "석유정제·판매등국민생활직결산업담합처벌강화",
+  "담합하면시장퇴출…처분시효,15년으로확대",
+  "가맹점상대로'고금리대출'…217억번명륜진사갈비'돈놀이'",
+  "반복담합시시장퇴출···당정입법추진",
+  "'탱크데이'역풍맞은스타벅스…카드결제액28.5%급감",
+  "뇌물을용역비로둔갑…‘안성토착비리’법정서드러난은폐정황",
+  "\"동의하관계\"중학생제자성폭행교사의뻔뻔한거짓말,검찰이밝혀..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "제재 5년간 불명예 현대백화점그룹 최다 82번 1부 걸렸다"
   ]
  ],
- "last_run": "2026-09-28T20:10:54.574833+09:00",
+ "last_run": "2026-09-28T20:20:54.005754+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
