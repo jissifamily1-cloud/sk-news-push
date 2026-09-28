@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/world/international-economy/6301797",
-  "http://www.beyondpost.co.kr/view.php?ud=2026092605295843922aaae0046f_30",
-  "https://www.g-enews.com/view.php?ud=2026092522285862140c8c1c064d_1",
-  "https://www.hankookilbo.com/news/article/A2026092604480002467?did=NA",
-  "https://www.fnnews.com/news/202609260515234342",
   "https://www.mt.co.kr/world/2026/09/26/2026092605022110846",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671776",
   "https://www.nocutnews.co.kr/news/6582908",
@@ -2999,14 +2994,14 @@
   "https://www.sidae.com/article/2026092815073133966",
   "https://www.munhwa.com/article/11619997",
   "https://www.sedaily.com/article/20095701",
-  "https://www.goodkyung.com/news/articleView.html?idxno=291792"
+  "https://www.goodkyung.com/news/articleView.html?idxno=291792",
+  "https://www.fnnews.com/news/202609290623315704",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673308",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=610413",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=236964",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=236974"
  ],
  "seen_titles": [
-  "최태원\"멕시코백신역량협력\"…구광모\"전장·자율주행투자확대\"·",
-  "이천시·GH,18만㎡반도체소부장클러스터추진",
-  "\"손주랑삼전닉스얘기하다놀라\"…1억굴리는꼬마개미들[분석+]",
-  "TK는\"왜광주냐\"했는데,반도체품은전남광주,실은토허제에한숨?",
-  "이정현·유기상이어이주영·김승우도일냈다!韓3X3남자농구,사상...",
   "[아주경제오늘의뉴스종합]최태원\"멕시코백신역량협력\"…구광모...",
   "한풀꺾인메타,힘받는MS…뉴욕증시도SK하닉도올랐다",
   "필라델피아반도체지수1.4%,SK하이닉스ADR2.78%↑...반도체주,유가하...",
@@ -6001,7 +5996,12 @@
   "중국핵심광물장악력재확인,K배터리공급망다변화빛본다",
   "[속보]뉴욕증시하락마감…하닉ADR5%↓",
   "리사가디자인한AI글라스?…신세계아이앤씨,‘메타글라스’국내...",
-  "SKC,출자에보증까지사업재편나서지만…재무부담↑"
+  "SKC,출자에보증까지사업재편나서지만…재무부담↑",
+  "SK하닉ADR5%급락…'203조'짜리중복상장설에발목잡혔나",
+  "젠슨황·이재용·최태원뉴욕회동…“AI협력논의할듯”",
+  "코스닥강세…알테오젠·에코프로비엠·HLB↑",
+  "[2026국정감사]'이재용·최태원'에멈춘기후노동위국감'맹탕'우려",
+  "민간탄소시장탄소감축량90%\"그린워싱\""
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,21 @@
   [
    "2026-09-29T06:41:08.993792+09:00",
    "재편 부담 출자에 나서지만 재무 보증까지 사업 SKC"
+  ],
+  [
+   "2026-09-29T06:51:07.954946+09:00",
+   "코스닥 알테오젠 HLB 강세 에코프로비엠"
+  ],
+  [
+   "2026-09-29T06:51:07.954946+09:00",
+   "맹탕 국감 최태원 멈춘 이재용 우려 기후노동위"
+  ],
+  [
+   "2026-09-29T06:51:07.954946+09:00",
+   "탄소시장 그린워싱 민간 탄소감축량"
   ]
  ],
- "last_run": "2026-09-29T06:41:15.733206+09:00",
+ "last_run": "2026-09-29T06:51:18.972573+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
