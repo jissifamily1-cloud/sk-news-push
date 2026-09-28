@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665316",
-  "https://www.livebiz.today/news/articleView.html?idxno=204930",
-  "https://www.etoday.co.kr/news/view/2626471",
-  "https://www.newsway.co.kr/news/view?ud=2026091620405158216",
-  "https://www.dailian.co.kr/news/view/1691367/?sc=Naver",
   "https://www.mydaily.co.kr/page/view/2026091620400682936",
   "https://www.mbceg.co.kr/post/140241",
   "https://n.news.naver.com/mnews/article/214/0001524369",
@@ -2999,14 +2994,14 @@
   "https://www.mt.co.kr/society/2026/09/28/2026092808350770627",
   "https://www.yna.co.kr/view/AKR20260928041700002?input=1195m",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160270242615083",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61023"
+  "https://www.lawtv.kr/news/articleView.html?idxno=61023",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2053659",
+  "https://www.nocutnews.co.kr/news/6583621",
+  "https://biz.heraldcorp.com/article/10885847",
+  "http://www.inews24.com/view/2009354",
+  "https://www.joongang.co.kr/article/25465163"
  ],
  "seen_titles": [
-  "경찰,전주시설공단압수수색…이사장선거법의혹관련",
-  "법원,제지·제분업계에내린공정위'가격재결정명령'효력정지인용",
-  "법원,공정위제지·밀가루‘가격재결정명령’제동",
-  "법원,공정위제지·밀가루'가격재결정'제동…집행정지잇따라",
-  "법원,공정위제지·밀가루업체'가격재결정명령'효력정지",
   "에이비엘바이오,미공개정보의혹에주주서한…“내부통제·정보관리보...",
   "\"10년이상고착한토착비리\"...양양수의계약,이권카르텔밝혀낼까...",
   "[뉴스하이킥]장예찬“한동훈‘오빠’공세에김승원주가조작의혹만...",
@@ -6001,7 +5996,12 @@
   "신고인도'사전의견청취절차'요청한다…공정위,사건절차규칙개정",
   "공정위,신고인에게도사전의견청취기회준다…사건규칙개정",
   "토착비리1,863명적발이남긴질문…경찰만으로충분한가?",
-  "[法으로읽는뉴스]검사의수사권,헌법이준권한인가국회가준권한..."
+  "[法으로읽는뉴스]검사의수사권,헌법이준권한인가국회가준권한...",
+  "공정위,사건절차규칙개정·시행…신고인절차적권리강화",
+  "담합되풀이하면퇴출…당정,등록취소·영업정지도입추진",
+  "“과징금만으론안된다”…당정,반복담합퇴출·가격재결정법제화",
+  "당정,반복담합사업자등록취소·영업정지추진…17개업종정조준",
+  "재수사요청뭉개고허위보고까지…‘부실수사’경찰10명중6명경..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "82건 대기업 불공정거래 CJ 763건 33건 39건 제재 현대"
   ]
  ],
- "last_run": "2026-09-28T10:20:53.764909+09:00",
+ "last_run": "2026-09-28T10:31:00.887207+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
