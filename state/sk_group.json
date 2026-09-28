@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=83253",
-  "https://www.thelec.kr/news/articleView.html?idxno=62691",
   "https://www.cstimes.com/news/articleView.html?idxno=721851",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489999",
   "https://www.gosiweek.com/article/1065586575261499",
@@ -2999,11 +2997,11 @@
   "https://www.ytn.co.kr/_ln/0101_202609280925335022",
   "https://www.segye.com/newsView/20260928503860?OutUrl=naver",
   "https://www.etoday.co.kr/news/view/2629716",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609280845110580473"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609280845110580473",
+  "https://futurechosun.com/?p=160011",
+  "http://www.sisacast.kr/news/articleView.html?idxno=99835"
  ],
  "seen_titles": [
-  "SKT,고객신뢰지표구축·양자암호디지털트윈개발…기술과고객중...",
-  "전남광주,반도체국가산단250만평조성…삼성·SK하이닉스입주협약...",
   "“삼성전자주식,1년안에이정도가격까지폭등한다”",
   "CJENM,티빙해킹으로윤상현·최주희대표까지국감증인채택",
   "SK엔무브·LG전자,차세대냉매·액침냉각공동개발",
@@ -6001,7 +5999,9 @@
   "이대통령,내일메가프로젝트3차점검회의개최",
   "박스권갇힌반도체주...그럼에도증권가는“삼전닉스매수하세요”",
   "[특징주]솔리다임IPO추진설에…SK하이닉스,장중2%대약세",
-  "[텔코NOW]SKTㆍKTㆍLGU+"
+  "[텔코NOW]SKTㆍKTㆍLGU+",
+  "[더나은미래주간브리핑]재고의류가옷장으로…자본·법·AI로넓히는...",
+  "SK하이닉스,'2026미래포럼'개최…AI시대풀스택AI메모리크리에이..."
  ],
  "recent_sigs": [
   [
@@ -6617,7 +6617,7 @@
    "KT LGU SKT"
   ]
  ],
- "last_run": "2026-09-28T09:31:56.251900+09:00",
+ "last_run": "2026-09-28T09:41:08.041773+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
