@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285676413823",
-  "https://www.koreadaily.com/article/20260916223103443",
-  "https://www.nocutnews.co.kr/news/6579765",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592407216467",
-  "https://www.mt.co.kr/living/2026/09/17/2026091713383651625",
-  "https://www.imaeil.com/page/view/2026091714593063815",
-  "https://www.news1.kr/local/jeju/6294040",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268096&CMPT_CD=P0010",
-  "https://www.yna.co.kr/view/AKR20260917133700017?input=1195m",
-  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170770",
   "https://www.nocutnews.co.kr/news/6579849",
   "https://www.edaily.co.kr/News/Read?newsId=04368966645581104&mediaCodeNo=257",
   "https://biz.heraldcorp.com/article/10877281",
@@ -2999,19 +2989,19 @@
   "https://www.fnnews.com/news/202609281836373578",
   "https://www.goodmorningcc.com/news/articleView.html?idxno=453051",
   "https://www.gukjenews.com/news/articleView.html?idxno=3707428",
-  "https://www.news1.kr/local/sejong-chungbuk/6303762"
+  "https://www.news1.kr/local/sejong-chungbuk/6303762",
+  "https://www.newsis.com/view/NISX20260928_0003805999",
+  "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026092800054&story_seq=0&soCode=114&socttSn=NS2026092800054&socttSeq=0",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260928185837XRL",
+  "https://www.segye.com/newsView/20260928516657?OutUrl=naver",
+  "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260928&SEQUENCE=0121",
+  "https://www.seoul.co.kr/news/society/2026/09/28/20260928500242?wlog_tag3=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3707439",
+  "https://www.bzeronews.com/news/articleView.html?idxno=823163",
+  "https://www.newspim.com/news/view/20260928001066",
+  "https://news.jtbc.co.kr/article/NB12320380?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "이태한특검팀,선관위압수수색실시",
-  "'유령어린이집'차려놓고1000만불꿀꺽…가짜출석부로보육지원금챙...",
-  "쇄빙연구선'아라온호'위탁관리업체영업비밀유출의혹…경찰수사",
-  "정식품,‘베지밀’대리점밀어내기의혹…공정위현장조사",
-  "\"골목상권마다한숨·탄식\"…소상공인들,배달앱과'직접협상'나선다",
-  "선관위특검,대구시선관위전격압수수색…투표용지부족사태본격수...",
-  "'선거법위반혐의'제주도의원2명…한명은재판,한명은수사(종합...",
-  "'현대·기아차하청갑질사건',담당검사또교체...'벌써일곱번째'",
-  "에이비엘바이오,'공시전거래의혹'에\"성실히조사협조\"",
-  "JW중외제약,299억원리베이트과징금취소소송승소",
   "소상공단체,배달플랫폼에상생협의체제안…\"수수료·배달비인하\"",
   "식품·외식업계,국감앞두고초긴장…마케팅·담합논란재점화",
   "“과징금보다당장수수료인하”…소상공인5개단체,배민·쿠팡이츠...",
@@ -6001,7 +5991,17 @@
   "명륜당,오너일가대부업체부당지원",
   "충북경찰,신용한지사집무실압수수색",
   "충북경찰청,신용한충북지사집무실압수수색...휴대전화등확보",
-  "경찰,신용한충북지사집무실압수수색…휴대전화확보(종합)"
+  "경찰,신용한충북지사집무실압수수색…휴대전화확보(종합)",
+  "경찰,충북지사집무실압색…신용한\"불법행위없다\"(종합)",
+  "경찰,충북지사집무실압색...신용한\"불법행위없어\"",
+  "경찰,신용한충북지사집무실압수수색…선거법위반혐의",
+  "경찰,‘불법선거운동의혹’신용한충북지사집무실압수수색",
+  "신용한충북지사집무실압수수색",
+  "선거법위반의혹신용한충북지사집무실압수수색",
+  "신용한지사,\"불법행위없으며사실관계명백히밝혀질것\"",
+  "경찰,신용한충북지사집무실압수수색···'차명휴대전화'의혹수사...",
+  "경찰,신용한충북지사집무실압수수색…선거법위반의혹수사",
+  "경찰,신용한충북지사집무실압수수색…'불법선거운동'의혹수사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "제재 5년간 불명예 현대백화점그룹 최다 82번 1부 걸렸다"
   ]
  ],
- "last_run": "2026-09-28T19:01:08.929959+09:00",
+ "last_run": "2026-09-28T19:10:54.589393+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
