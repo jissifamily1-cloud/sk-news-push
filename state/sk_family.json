@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8101161",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=794158",
-  "https://www.cfnews.kr/news/article.html?no=111955",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116719",
-  "https://news.mtn.co.kr/news-detail/2026091112422541317",
   "https://www.nocutnews.co.kr/news/6576766",
   "http://www.metroseoul.co.kr/article/20260911500074",
   "https://www.koit.co.kr/news/articleView.html?idxno=209010",
@@ -2999,14 +2994,14 @@
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005927674",
   "https://www.ekn.kr/web/view.php?key=20260928024539528",
   "http://www.efnews.co.kr/news/articleView.html?idxno=132696",
-  "https://www.kwnews.co.kr/article/20260928501062"
+  "https://www.kwnews.co.kr/article/20260928501062",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490886",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550767",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246051",
+  "https://www.ajunews.com/view/20260928133230770",
+  "https://www.news1.kr/industry/general-industry/6303454"
  ],
  "seen_titles": [
-  "'2026울산포럼'참석한최태원회장",
-  "'2026울산포럼'참석한최태원SK그룹회장",
-  "최태원·김상욱,'2026울산포럼'참석",
-  "'2026울산포럼'개회",
-  "[위클리오늘]횡성군,KTX타고온수도권관광객580여명유치",
   "[법정24]2조5500억원대9440억원…SK·스마일게이트‘세기의이혼’...",
   "[영상]최태원SK회장,울산AI현장점검…\"AI풀스택프로바이더완성...",
   "전남광주25조원'금고전쟁'새기준논란…지역별영업망분포반영'...",
@@ -6001,7 +5996,12 @@
   "미중정상회담마무리…국빈만찬서중국기업인없어",
   "[똑똑한케어]LG생활건강,아모레퍼시픽헤라,아이소이",
   "LG생활건강,'닥터그루트·더페이스샵'멕시코상륙…중남미공략속도",
-  "제8보병사단참전전몰장병추모제개최"
+  "제8보병사단참전전몰장병추모제개최",
+  "이선주LG생활건강대표,멕시코현장점검…K뷰티중남미확장",
+  "LG생활건강,멕시코찍고브라질로…닥터그루트·더페이스샵중남미공...",
+  "[부고종합·28일]김동연부광약품전회장별세등",
+  "[미리보는국감]기업M&A,기내식성분이국감이슈?…총수망신주기...",
+  "美향한이재용·최태원…韓4대그룹,엔비디아와동맹속도"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-09-28T16:30:32.633353+09:00",
    "정상회담 만찬서 기업인 국빈 중국 없어 마무리 미중"
+  ],
+  [
+   "2026-09-28T17:10:51.532744+09:00",
+   "4대 동맹 이재용 향한 속도 엔비디아와"
   ]
  ],
- "last_run": "2026-09-28T17:00:38.291314+09:00",
+ "last_run": "2026-09-28T17:11:02.583097+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
