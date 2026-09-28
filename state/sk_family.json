@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itbiznews.com/news/articleView.html?idxno=224638",
-  "https://view.asiae.co.kr/article/2026091107575014804",
   "https://www.ddaily.co.kr/page/view/2026083000131487647",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006878",
   "https://news.bizwatch.co.kr/article/industry/2026/09/11/0002",
@@ -2999,11 +2997,11 @@
   "https://www.pennmike.com/news/articleView.html?idxno=128500",
   "http://www.4th.kr/news/articleView.html?idxno=2118761",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711219",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=796021"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=796021",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277729",
+  "https://www.segye.com/newsView/20260927511363?OutUrl=naver"
  ],
  "seen_titles": [
-  "[증시키워드]SK하이닉스성과급잠정합의·최태원등판한SK이노…삼성...",
-  "최태원SK회장,울산서AX현장경영…\"AI풀스택프로바이더\"실행력...",
   "최태원SK회장,AX에잰걸음…현장경영나서",
   "SK최태원,울산AI데이터센터현장방문…AI풀스택전구간현황점검",
   "최태원SK회장,제3회한미동맹대상수상자선정",
@@ -6001,7 +5999,9 @@
   "[재계핫이슈]\"재벌체제해체\"주장했던대통령과이재용최태원...",
   "李,멕시코LG생건부스찾아..중남미공략속도",
   "LG생건,멕시코K-엑스포서하루5000명'흥행몰이'",
-  "[위클리오늘]\"시민의눈으로공약을살핀다\"강릉시,민선9기공약이..."
+  "[위클리오늘]\"시민의눈으로공약을살핀다\"강릉시,민선9기공약이...",
+  "LG생활건강,멕시코K-엑스포서브랜드입지강화",
+  "비상장주식,이혼할때어떻게나눌까?[알아야보이는법(法)]"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-09-28T12:30:21.522475+09:00",
    "주장했던 대통령과 해체 이재용 재벌체제"
+  ],
+  [
+   "2026-09-28T13:10:15.895758+09:00",
+   "이혼할 나눌까 비상장주식 어떻게"
   ]
  ],
- "last_run": "2026-09-28T13:00:41.513168+09:00",
+ "last_run": "2026-09-28T13:10:27.240266+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
