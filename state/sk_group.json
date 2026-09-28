@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770320&plink=ORI&cooper=NAVER",
-  "https://www.mediapen.com/news/view/1126093",
   "https://www.news1.kr/world/international-economy/6301797",
   "http://www.beyondpost.co.kr/view.php?ud=2026092605295843922aaae0046f_30",
   "https://www.g-enews.com/view.php?ud=2026092522285862140c8c1c064d_1",
@@ -2999,11 +2997,11 @@
   "https://www.enetnews.co.kr/news/articleView.html?idxno=54789",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=79439",
   "https://www.sidae.com/article/2026092815073133966",
-  "https://www.munhwa.com/article/11619997"
+  "https://www.munhwa.com/article/11619997",
+  "https://www.sedaily.com/article/20095701",
+  "https://www.goodkyung.com/news/articleView.html?idxno=291792"
  ],
  "seen_titles": [
-  "[마켓뷰]美국채5%시대의경고…韓경제,'스텔스긴축'덫에갇히나",
-  "‘폭스바겐,참대단했는데’이젠우량주그룹에서도외면…무려75%나...",
   "최태원\"멕시코백신역량협력\"…구광모\"전장·자율주행투자확대\"·",
   "이천시·GH,18만㎡반도체소부장클러스터추진",
   "\"손주랑삼전닉스얘기하다놀라\"…1억굴리는꼬마개미들[분석+]",
@@ -6001,7 +5999,9 @@
   "[브랜드평판]DK아시아로열파크씨티,주거커뮤니티9월1위...롯데건설...",
   "조인호원장\"백신다음은재생의료\"…안동,글로벌연구거점화",
   "중국핵심광물장악력재확인,K배터리공급망다변화빛본다",
-  "[속보]뉴욕증시하락마감…하닉ADR5%↓"
+  "[속보]뉴욕증시하락마감…하닉ADR5%↓",
+  "리사가디자인한AI글라스?…신세계아이앤씨,‘메타글라스’국내...",
+  "SKC,출자에보증까지사업재편나서지만…재무부담↑"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,13 @@
   [
    "2026-09-29T06:31:12.268815+09:00",
    "마감 하닉ADR 뉴욕증시 하락"
+  ],
+  [
+   "2026-09-29T06:41:08.993792+09:00",
+   "재편 부담 출자에 나서지만 재무 보증까지 사업 SKC"
   ]
  ],
- "last_run": "2026-09-29T06:31:30.984949+09:00",
+ "last_run": "2026-09-29T06:41:15.733206+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
