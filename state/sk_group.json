@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=350839",
-  "https://www.mk.co.kr/article/12162468",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000069087",
   "https://www.inthenews.co.kr/news/article.html?no=92377",
   "https://zdnet.co.kr/view/?no=20260928104312",
   "https://www.mediapen.com/news/view/1126280",
@@ -2999,12 +2996,12 @@
   "https://news.mtn.co.kr/news-detail/2026093006261269950",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376100",
   "https://biz.sbs.co.kr/article_hub/20000337414?division=NAVER",
-  "https://www.labortoday.co.kr/news/articleView.html?idxno=237004"
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=237004",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=6868",
+  "https://www.mt.co.kr/world/2026/09/30/2026093006302898188",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16228506"
  ],
  "seen_titles": [
-  "[오늘의통신]SKT,전국7곳캠퍼스방문…KT는NATO국방통신표준화...",
-  "몸값204조솔리다임美상장설…SK'5단중복상장'논란재점화",
-  "SKT-하나금융-삼성전자,‘5G특화망스마트오피스’구축",
   "추석연휴뒤코스피약세,외국인매도vs개인매수의대결장열렸다",
   "SKT'5G특화망'금융오피스바꾼다⋯하나금융·삼성전자와'맞손'",
   "24년곁을지킨든든한후원,금빛칼끝으로돌아왔다",
@@ -6001,7 +5998,10 @@
   "미국채금리20여년래최고…3대지수이틀째하락[뉴욕마감]",
   "KBL사령탑7명,우승후보로DB지목…강력한외국인선수진용구축",
   "산은,벤처·스타트업공급4년새반토막…대기업엔20조원",
-  "형식적의무이행임에도,중대재해처벌법열네번째무죄판결"
+  "형식적의무이행임에도,중대재해처벌법열네번째무죄판결",
+  "[뉴욕증시마감시황]장기금리부담에도반도체주반등…하이닉스ADR2...",
+  "美국채30년물금리24년만최고…물가눈치보는증시[뉴욕마감]",
+  "미국증시,장기금리급등에하락…반도체2%대반등·SK하이닉스ADR강..."
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,13 @@
   [
    "2026-09-30T06:41:14.588913+09:00",
    "무죄 판결 중대재해처벌법 의무 열네 번째 이행임에도 형식적"
+  ],
+  [
+   "2026-09-30T06:51:01.562011+09:00",
+   "하락 반등 반도체 급등에 SK하이닉스 ADR 장기금리 미국증시"
   ]
  ],
- "last_run": "2026-09-30T06:41:45.768524+09:00",
+ "last_run": "2026-09-30T06:51:08.526764+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
