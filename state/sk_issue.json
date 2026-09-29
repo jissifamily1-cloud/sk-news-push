@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=319249",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5220001",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=282339",
-  "https://www.wikitree.co.kr/articles/1160376",
-  "https://www.koscaj.com/news/articleView.html?idxno=326562",
-  "https://www.koscaj.com/news/articleView.html?idxno=326587",
-  "https://www.etoday.co.kr/news/view/2627003",
-  "https://www.yna.co.kr/view/AKR20260918012000011?input=1195m",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1724769",
-  "https://www.farminsight.net/news/articleView.html?idxno=16897",
-  "http://www.breaknews.com/1237654",
   "https://news.jtbc.co.kr/article/NB12318943?influxDiv=NAVER",
   "http://www.nongaek.com/news/articleView.html?idxno=96837",
   "https://www.etoday.co.kr/news/view/2627000",
@@ -2999,20 +2988,20 @@
   "https://www.naeil.com/news/read/603685",
   "https://www.newsis.com/view/NISX20260929_0003806965",
   "https://www.kyeonggi.com/article/20260929580152",
-  "https://www.naeil.com/news/read/603597"
+  "https://www.naeil.com/news/read/603597",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=882054",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/29/2026092990118.html",
+  "https://www.joongangenews.com/news/articleView.html?idxno=551261",
+  "https://www.donga.com/news/Economy/article/all/20260929/134750624/1",
+  "https://news.bizwatch.co.kr/article/market/2026/09/29/0010",
+  "https://www.bzeronews.com/news/articleView.html?idxno=823192",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491054",
+  "https://www.etoday.co.kr/news/view/2630345",
+  "http://www.iminju.net/news/articleView.html?idxno=170083",
+  "http://www.newsprime.co.kr/news/article.html?no=749235",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291242047540716"
  ],
  "seen_titles": [
-  "[집중분석]대산공장떼어합치고6000억또넣는다…롯데케미칼의'석...",
-  "'수원마약좀비'30대\"해외에서투약\"자백…오늘구속송치",
-  "'수원마약영상'속30대구속송치...\"해외서필로폰투약\"자백",
-  "중국에1700만원받고군사기밀유출…육군병사가받은처벌",
-  "계약갱신도지급보증대상가능…직불합의서엔'원청최종책임'확인해...",
-  "대금지급시정명령받아도입금'하세월'",
-  "중동전쟁틈타석유화학담합…김유신OCI대표등8명오늘구속갈림...",
-  "[전국주요신문사설](18일조간)",
-  "JW중외제약,299억원공정위과징금취소소송승소",
-  "[르포]\"증거는없다,뿌리를뽑으라\"…계란산업농단의몸통은?",
-  "국민의힘장동혁·정점식,“개각참극과국정난맥집중포화”",
   "출범열흘만에첫강제수사…내부서버등자료확보",
   "[오늘의사설]\"미3년만에금리인상...고금리뉴노멀대비해야\"",
   "중국인에육군군사기밀빼돌린20대병장,대법서징역4년확정",
@@ -6001,7 +5990,18 @@
   "MBK김병주불기소검토에홈플전단채피해자반발",
   "경찰,충주시청압수수색…지방선거불법여론조사의혹",
   "명문대동아리인맥으로200억챙긴금융엘리트…20여곳압수수색",
-  "명문대경영동아리출신‘정보카르텔’…M&A정보로200억챙겨"
+  "명문대경영동아리출신‘정보카르텔’…M&A정보로200억챙겨",
+  "환절기어린이건강,호흡기관리가핵심",
+  "주병기\"무너진정의다시세울것\"…쿠팡재조사시사",
+  "\"학연·직함믿고...\"서울대경영동아리출신금융엘리트'200억정보카...",
+  "‘금융엘리트’카르텔적발…미공개M&A정보로200억대부당이득챙...",
+  "명문대동아리출신'정보카르텔',미공개정보로200억부당이득",
+  "충북참여연대\"취임석달만에'지사집무실압수수색'…의혹밝혀야\"",
+  "금융당국,M&A미공개정보이용혐의압수수색",
+  "명문대‘금융카르텔’덜미…미공개정보로200억챙겨[종합]",
+  "호재성정보돌려200억원대부당이득…'정보카르텔'압수수색",
+  "명문대경영동아리출신'정보카르텔'적발…200억원대부당이득혐의",
+  "명문대출신‘정보카르텔’…미공개정보로200억챙긴일당덜미"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "김옥숙 메모 자금 경위 설명 입증하려 검찰서 기여 꺼낸 노소영"
   ]
  ],
- "last_run": "2026-09-29T13:20:52.521448+09:00",
+ "last_run": "2026-09-29T13:31:03.717865+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
