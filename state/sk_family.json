@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kjdaily.com/article.php?aid=1789298487686730002",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742835",
-  "https://www.khan.co.kr/article/202609132034005",
-  "https://www.edaily.co.kr/News/Read?newsId=02496086645579792&mediaCodeNo=257",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=228128",
-  "https://www.seoul.co.kr/news/economy/industry/2026/09/14/20260914032003?wlog_tag3=naver",
-  "https://www.mt.co.kr/society/2026/09/14/2026091322294737969",
   "https://www.mt.co.kr/industry/2026/09/14/2026091319531517458",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34742",
   "https://www.chosun.com/economy/industry-company/2026/09/14/HKHSNTMIFVESVEFF6KZTKO2SS4/",
@@ -2999,16 +2992,16 @@
   "https://www.edaily.co.kr/News/Read?newsId=03870406645585040&mediaCodeNo=257",
   "https://www.yna.co.kr/view/AKR20260929003151072?input=1195m",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1726013",
-  "https://imnews.imbc.com/news/2026/world/article/6854727_36925.html"
+  "https://imnews.imbc.com/news/2026/world/article/6854727_36925.html",
+  "https://www.cnbizm.com/news/articleView.html?idxno=316492",
+  "http://www.newsprime.co.kr/news/article.html?no=749238",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171006",
+  "https://biz.heraldcorp.com/article/10887613",
+  "https://news.bizwatch.co.kr/article/industry/2026/09/29/0019",
+  "https://magazine.hankyung.com/business/article/202609292053b",
+  "https://www.etoday.co.kr/news/view/2630320"
  ],
  "seen_titles": [
-  "'취임100일'조정식\"개헌논의본궤도올릴것\"",
-  "최태원“글로벌빅테크와AI데이터센터협업속도빨라”",
-  "[정동칼럼]세금때문에남이되는부부들",
-  "전남광주시금고지정조례안찬반논란끝통과",
-  "울산제조업AI활용논의…최태원,데이터센터·공장현장점검",
-  "유리거미줄·식빵끈이불·비닐발자국…한옥에시간을꿰다",
-  "[미리보는이데일리신문]현대차,3년내자율주행차양산‘승부수’",
   "최태원회장\"울산,제조AI·시민행복·예술아우른'AI시티'로도약해야...",
   "최태원“AX경쟁력심은울산,AI선도모델만들자”",
   "머니투데이오프라인헤드라인-14일",
@@ -6001,7 +5994,14 @@
   "최태원“엔비디아는두뇌,SK는기억…GPU보다빨리함께크자”",
   "젠슨황,'한미관계기여'밴플리트상…\"韓과맺은우정에감사\"(종합)",
   "젠슨황\"AI는폭주하지않아…'책임있는낙관주의'필요\"",
-  "젠슨황\"AI폭주안해‥기술발전멈추지말아야\""
+  "젠슨황\"AI폭주안해‥기술발전멈추지말아야\"",
+  "최태원,젠슨황'밴플리트상'수상축하…AI·기술협력도강조",
+  "젠슨황,밴플리트상수상…이재용·최태원도축하",
+  "최태원\"엔비디아는두뇌,SK는기억\"…젠슨황수상축하",
+  "“GPU수요보다우리파트너십더빨리확장되길”",
+  "이재용·최태원뉴욕총출동…젠슨황에\"한미동맹최전선\"",
+  "“젠슨황축하”삼성·SK‘깐부’총출동",
+  "국감기업인전선,삼성·SK·쿠팡에집중…산업계‘안도와긴장’"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,13 @@
   [
    "2026-09-29T14:00:28.187096+09:00",
    "감사 맺은 한미관계 기여 젠슨 우정에 밴플리트상"
+  ],
+  [
+   "2026-09-29T14:20:49.453061+09:00",
+   "국감 산업계 삼성 기업인 전선 긴장 안도와 집중 쿠팡에"
   ]
  ],
- "last_run": "2026-09-29T14:10:24.421212+09:00",
+ "last_run": "2026-09-29T14:21:05.361742+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
