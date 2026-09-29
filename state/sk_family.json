@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160280053934187",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260913.99099004058",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84657",
-  "https://www.m-i.kr/news/articleView.html?idxno=1412866",
-  "https://www.news2day.co.kr/article/20260913500035",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=275301",
   "http://www.newslock.co.kr/news/articleView.html?idxno=136139",
   "https://www.huffingtonpost.kr/article/260432",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673578",
   "http://www.inews24.com/view/2009860",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=240244",
-  "https://www.kyeonggi.com/article/20260929580118"
+  "https://www.kyeonggi.com/article/20260929580118",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81422",
+  "https://www.hankookilbo.com/news/article/A2026092910550003759?did=NA",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008774522&plink=ORI&cooper=NAVER",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444956",
+  "https://www.joongang.co.kr/article/25465568"
  ],
  "seen_titles": [
-  "최태원\"울산,제조AI·시민생활·예술결합한'AI시티'로가야\"",
-  "용인특례시의회,동티모르청소년들과문화·교육·복지교류",
-  "최태원\"AI,속도·규모만으론안돼\"…수익모델강조",
-  "‘취임100일’조정식국회의장“국민삶변화체감할수있게”",
-  "최태원SK회장“AI와예술결합해울산발전”",
   "최태원\"미래울산은AI시티\"…SK,제조·시민생활잇는'피지컬AI'승부",
   "'AI리밸런싱'SK그룹,성과급·분사·매각놓고노사갈등고조",
   "최태원\"울산을AI시티로\"...제조AX부터복지·교통·의료까지확장",
@@ -6001,7 +5996,12 @@
   "젠슨황“AI는폭주안해…인간적속성부여가공포키운것”",
   "최태원,젠슨황에건배사…\"전장은데이터센터로바뀌었다\"",
   "최태원회장,젠슨황수상축하\"두뇌는엔비디아,기억은SK\"…AI동맹...",
-  "젠슨황축하하러뭉친이재용·최태원…폴더블폰·GPU등동맹과시"
+  "젠슨황축하하러뭉친이재용·최태원…폴더블폰·GPU등동맹과시",
+  "젠슨황\"AI는폭주안해…인간적속성부여가공포키워\"",
+  "밴플리트상받은젠슨황\"한국과인공지능시대함께열겠다\"",
+  "젠슨황\"AI는폭주안해\"…통제불능론정면반박",
+  "이재용·최태원,젠슨황과뉴욕서한자리에…AI·반도체동맹강화",
+  "이재용은축하영상,최태원은건배사…뉴욕서젠슨황과재회"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-09-29T11:20:14.032839+09:00",
    "폭주 공포 AI는 젠슨 인간적 부여가 키운 속성 안해"
+  ],
+  [
+   "2026-09-29T11:40:14.993564+09:00",
+   "최태원은 뉴욕서 영상 건배사 황과 재회 이재용은 젠슨 축하"
   ]
  ],
- "last_run": "2026-09-29T11:30:28.776301+09:00",
+ "last_run": "2026-09-29T11:40:26.709183+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
