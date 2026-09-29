@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportschosun.com/entertainment/2026-09-14/202609140100093420006117",
-  "https://www.sedaily.com/article/20090525",
-  "https://www.sedaily.com/article/20090524",
-  "https://www.sedaily.com/article/20090522",
-  "https://www.sedaily.com/article/20090519",
   "http://www.nongaek.com/news/articleView.html?idxno=96783",
   "https://view.asiae.co.kr/article/2026091408471020451",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609141056474600103342",
@@ -2999,14 +2994,14 @@
   "https://news.jtbc.co.kr/article/NB12320512?influxDiv=NAVER",
   "https://www.fnnews.com/news/202609291332406893",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=764849",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16870"
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16870",
+  "https://www.joongangenews.com/news/articleView.html?idxno=551321",
+  "https://www.livebiz.today/news/articleView.html?idxno=205193",
+  "https://www.fnnews.com/news/202609291303316394",
+  "https://www.m-i.kr/news/articleView.html?idxno=2000712",
+  "https://www.mt.co.kr/world/2026/09/29/2026092915003966165"
  ],
  "seen_titles": [
-  "정유·화학넘어‘AI전력회사’로…최태원,SK이노베이션재설계",
-  "투쟁하다쓰러져도...홍성군송전탑반대운동계속합니다",
-  "동티모르청소년과2년째우정,용인특례시의회",
-  "최민정,미쉐린서핑크빛생일파티?…창문에포착된의문의男정체는",
-  "“AI열풍,수익없으면꺼진다”…최태원이본‘AI버블’가능성",
   "현대차,2028년레벨2+자율차양산…자체AI플랫폼탑재",
   "美·日금리결정‘슈퍼위크’…연준인상·BOJ추가인상주목",
   "친환경포장한계깬스타트업나누…맞춤형코팅으로매출2배↑",
@@ -6001,7 +5996,12 @@
   "'20년전이건희가받은상'젠슨황도받았다…삼성,뉴욕타임스퀘어...",
   "젠슨황이본韓AI경쟁력…반도체넘어'기술수용력'이무기",
   "최태원회장,\"엔비디아가두뇌를설계하면SK가기억을만든다\"",
-  "SK하이닉스솔리다임프리IPO코앞...주주가치시험대"
+  "SK하이닉스솔리다임프리IPO코앞...주주가치시험대",
+  "[동아시아문화센터의수상한돈②]주식'0→20억→0'…5번고치고도안...",
+  "젠슨황·이재용·최태원,뉴욕서폴더블폰·GPU로'AI깐부동맹'과시",
+  "젠슨황\"AI안전하려면오히려더빨리개발해야\"",
+  "이재용·최태원·젠슨황뉴욕서한자리…'AI동맹'재확인",
+  "젠슨황\"한국,'이것'활용하면야망달성\"…AI가바꾼한미연대지형..."
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,13 @@
   [
    "2026-09-29T16:10:16.070116+09:00",
    "SK하이닉스 솔리다임 코앞 프리IPO 시험대 주주가치"
+  ],
+  [
+   "2026-09-29T16:20:15.011509+09:00",
+   "달성 지형 이것 한국 젠슨 활용하면 AI가 바꾼 한미연대 야망"
   ]
  ],
- "last_run": "2026-09-29T16:10:31.865697+09:00",
+ "last_run": "2026-09-29T16:20:31.936340+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
