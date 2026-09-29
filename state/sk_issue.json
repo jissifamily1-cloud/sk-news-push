@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260918047300004?input=1195m",
-  "https://www.ytn.co.kr/_ln/0103_202609180940537770",
-  "https://www.newsis.com/view/NISX20260918_0003795047",
-  "https://biz.heraldcorp.com/article/10878015",
-  "https://www.newsis.com/view/NISX20260918_0003795130",
-  "https://www.yna.co.kr/view/AKR20260918031000002?input=1195m",
-  "https://www.news1.kr/economy/trend/6294803",
-  "https://view.asiae.co.kr/article/2026091808415561457",
-  "https://www.ajunews.com/view/20260918092428913",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192192",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307473",
   "http://www.joseilbo.com/news/news_read.php?uid=575955&class=8",
   "https://www.cwn.kr/news/articleView.html?idxno=56772",
@@ -2999,19 +2989,19 @@
   "https://news.tf.co.kr/read/life/2370713.htm",
   "https://www.kado.net/news/articleView.html?idxno=2075334",
   "https://www.mk.co.kr/article/12163572",
-  "https://www.fnnews.com/news/202609291058444706"
+  "https://www.fnnews.com/news/202609291058444706",
+  "http://www.popcornnews.net/news/articleView.html?idxno=134281",
+  "https://www.vegannews.co.kr/news/article.html?no=389504",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=85320",
+  "https://www.nocutnews.co.kr/news/6584462",
+  "https://www.kpinews.kr/newsView/1065588198064046",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=506236",
+  "https://www.nocutnews.co.kr/news/6584452",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673656",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=91831",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423999"
  ],
  "seen_titles": [
-  "'중동전쟁틈타수조원대담합'석유화학업체경영진8명구속심사",
-  "'수조원담합'석유화학업체경영진8명오늘구속심사",
-  "15조원대'석화담합'혐의경영진8명…구속영장심사시작",
-  "공정위,102개대기업집단하도급공시·연동제설명회…허위·지연공시...",
-  "공정위,대기업하도급대금공시제설명회…허위·지연공시재발방지",
-  "[게시판]공정위,21일하도급대금공시제도·연동제설명회",
-  "하도급대금허위·지연공시막는다…102개기업집단대상설명회",
-  "공정위,102개대기업집단대상하도급결제조건공시·에너지연동제...",
-  "공정위,대기업집단하도급대금공시·연동제교육…에너지까지적용확...",
-  "무신사,공정위조사2년만에무혐의…'전략브랜드'불확실성해소",
   "KB증권,혜택은크게'탈락조건'은작게···\"표시광고법위반소지\"",
   "권한없는지명으로특사경의수사권이발생할수있는가[기고]",
   "경찰,'수사정보유출·조회'상반기18건적발...작년연간기록이미...",
@@ -6001,7 +5991,17 @@
   "공수처,'통일교편파수사의혹'김건희특검무혐의",
   "명문대경영동아리인맥이'정보카르텔'로…200억원대부당이득혐의적...",
   "“200억대박비결이선후배간내부정보?”…명문대‘금융엘리트집단...",
-  "주진우\"민주당,스타벅스·배재고엔발끈하더니…'암살자들'왜침묵하..."
+  "주진우\"민주당,스타벅스·배재고엔발끈하더니…'암살자들'왜침묵하...",
+  "[2026국감기업리포트①]우아한형제들,주요증인으로부상...배민개...",
+  "시장집중도,1위점유율만으론부족하다",
+  "공정위,'최저가·1위'눈속임광고로젠이사·착한이사과징금",
+  "서울대동아리출신임원들,미공개정보로200억부당이득",
+  "M&A정보,가족·지인에게흘려…금융위,'정보카르텔'강제조사",
+  "[2026국감레이더⑧]정몽원증인신청에HL만도'긴장'…원·하청안전...",
+  "경찰,충주시청압수수색…시장선거'불법여론조사의혹'",
+  "경찰,‘불법여론조사의혹’충주시청압수수색",
+  "명문대동아리'정보카르텔'적발···미공개정보로200억대이득",
+  "김병주'불기소검토'보도에반발···홈플사태1년반무슨일이"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "김옥숙 메모 자금 경위 설명 입증하려 검찰서 기여 꺼낸 노소영"
   ]
  ],
- "last_run": "2026-09-29T13:50:59.624747+09:00",
+ "last_run": "2026-09-29T14:01:15.742711+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
