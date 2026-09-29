@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260927017100011?input=1195m",
-  "https://www.smartbizn.com/news/articleView.html?idxno=154870",
-  "https://www.etoday.co.kr/news/view/2629506",
-  "https://www.yna.co.kr/view/AKR20260927019100003?input=1195m",
-  "https://www.ytn.co.kr/_ln/0104_202609271039555728",
   "https://www.ajunews.com/view/20260927103732587",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=854851",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366131",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260929091700007?input=1195m",
   "https://www.mediawatch.kr/news/article.html?no=260960",
   "https://www.mk.co.kr/article/12163561",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315067&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1315067&inflow=N",
+  "https://www.huffingtonpost.kr/article/260833",
+  "https://www.sisajournal.com/news/articleView.html?idxno=388562",
+  "https://www.g-enews.com/view.php?ud=20260929095730276fbbec65dfb_1",
+  "https://m.skyedaily.com/news_view.html?ID=312222",
+  "https://www.tokenpost.kr/news/blockchain/415569"
  ],
  "seen_titles": [
-  "세수도반도체효과…초과세수50조원넘을듯",
-  "AI폭풍에밑동드러난반도체도화지…12인치웨이퍼값40%뛴다",
-  "억대성과급놓칠라…삼성·SK하이닉스,육아휴직률첫동반하락",
-  "올해초과세수'50조원+α'...내년미래대응기금200조원넘을듯",
-  "레버리지산외국인vs개인은곱버스베팅…수익률승자는",
   "삼성전자,창사첫'분기영업익100조'눈앞",
   "[주간사모펀드]KKR,韓투자사상최대…AI공급망에몰리는글로벌자...",
   "벽지·장판만바꾼게아니다…‘집안유해물질’까지잡은인천환경...",
@@ -6001,13 +5996,14 @@
   "[아시안게임]AG빛내는다문화태극전사…조엘진·비웨사에이해란까지",
   "곽노정SK하이닉스사장“AI시대,관점을‘밖에서안으로’전환해야...",
   "젠슨황과다시뭉친이재용·최태원…뉴욕서과시한‘AI깐부동맹’",
-  "‘깐부’젠슨황시상식달려간총수들…엔비디아밀월강화‘총력’"
+  "‘깐부’젠슨황시상식달려간총수들…엔비디아밀월강화‘총력’",
+  "10월국정감사앞두고기업인증인채택속속:정무위단일종목레버리...",
+  "이재용·최태원,젠슨황밴플리트상수상축하…\"진정한동반자\"",
+  "발열벽깬애플2나노모바일두뇌,75와트PC그래픽카드맞먹자반도체...",
+  "美10월금리인상확률70%,증시다시‘긴축공포’",
+  "[로빈후드온체인]AMC엔터테인먼트거래대금이하루만에6.0배로뛰어..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-29T06:41:08.993792+09:00",
-   "재편 부담 출자에 나서지만 재무 보증까지 사업 SKC"
-  ],
   [
    "2026-09-29T06:51:07.954946+09:00",
    "코스닥 알테오젠 HLB 강세 에코프로비엠"
@@ -6939,9 +6935,21 @@
   [
    "2026-09-29T12:31:11.010353+09:00",
    "AG 태극전사 이해란까지 다문화 빛내는 조엘진 비웨사에"
+  ],
+  [
+   "2026-09-29T12:51:05.251334+09:00",
+   "발열벽 모바일 2나노 반도체 두뇌 75와트 그래픽카드 맞먹자 애플 PC"
+  ],
+  [
+   "2026-09-29T12:51:05.251334+09:00",
+   "증시 다시 10월 확률 금리인상 긴축 공포"
+  ],
+  [
+   "2026-09-29T12:51:05.251334+09:00",
+   "뛰어 엔터테인먼트 만에 거래대금이 하루 0배로 AMC"
   ]
  ],
- "last_run": "2026-09-29T12:41:06.781130+09:00",
+ "last_run": "2026-09-29T12:51:17.982472+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
