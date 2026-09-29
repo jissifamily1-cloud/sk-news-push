@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/jeju/6295448",
-  "https://www.hankyung.com/article/202609184065i",
-  "https://www.newspim.com/news/view/20260918000821",
-  "https://www.yna.co.kr/view/AKR20260918120800064?input=1195m",
-  "https://www.etoday.co.kr/news/view/2627323",
-  "https://hbnpress.com/news/view/1065594782652632",
-  "https://www.newsis.com/view/NISX20260918_0003795941",
-  "https://www.hani.co.kr/arti/area/capital/1278510.html",
-  "https://www.newsjeju.net/news/articleView.html?idxno=426062",
-  "https://www.jejumaeil.net/news/articleView.html?idxno=404855",
   "https://www.mk.co.kr/article/12156542",
   "https://www.nocutnews.co.kr/news/6580558",
   "https://www.newspim.com/news/view/20260918000835",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/local/sejong-chungbuk/6304881",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4109225",
   "http://www.beyondpost.co.kr/view.php?ud=202609291559517196be44c0aacd_30",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=246833"
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=246833",
+  "https://www.m-economynews.com/news/article.html?no=71148",
+  "https://www.etoday.co.kr/news/view/2630386",
+  "https://www.socialvalue.kr/news/view/1065597935986211",
+  "https://www.consumuch.com/news/articleView.html?idxno=79145",
+  "https://www.techm.kr/news/articleView.html?idxno=155675",
+  "https://www.mt.co.kr/living/2026/09/29/2026092916205049318",
+  "https://www.wikitree.co.kr/articles/1162806",
+  "https://www.ngetnews.com/news/articleView.html?idxno=553813",
+  "https://www.insight.co.kr/news/575795",
+  "https://www.redian.org/news/articleView.html?idxno=257383"
  ],
  "seen_titles": [
-  "부경장'위계공무집행방해'왜빠졌나…개인아닌시스템문제로본검...",
-  "\"실종자와연락했다\"허위종결한경찰관구속기소",
-  "검찰,'빗썸관계사횡령·주가조작'혐의강종현에징역20년구형",
-  "'오송참사부실제방'1심법정최고형금호건설·감리사항소",
-  "실종자와연락한척사건종결…검찰,제주경찰관구속기소",
-  "15조원규모담합,석유화학업체전·현직경영진8명구속기로",
-  "'이선균수사정보유출'검찰수사관집행유예선고",
-  "‘수원마약의심영상’30대구속송치…해외필로폰투약인정",
-  "'제주실종허위종결'부경장구속기소…지휘·감독부실까지드러나",
-  "'실종사건처리체계부실'허위종결부경장구속기소",
   "검찰,제주실종신고허위종결경찰기소…“안일한판단으로범행”",
   "제주실종허위종결경찰관구속기소…윗선기소는없어",
   "검찰,'제주실종사건허위종결'경찰관구속기소",
@@ -6001,7 +5991,17 @@
   "참여연대\"경찰신용한지사압수수색관련엄정수사해야\"",
   "\"계정공유문제없다\"vs\"선거법위반\"…이강일의원6시간조사",
   "주가조작합동대응단,명문대경영동아리'정보카르텔'적발…200억부당...",
-  "李대통령\"경찰사건조작에경징계말안돼…해임정도해야\"外[오..."
+  "李대통령\"경찰사건조작에경징계말안돼…해임정도해야\"外[오...",
+  "상품바코드만검색하면원재료·영양정보까지...‘소비자24’확대",
+  "바코드로원재료·영양성분한눈에…‘소비자24’에40만상품정보연계",
+  "쿠팡집행정지신청기각…공정위현장조사재개하나",
+  "명륜당,148억과징금제재…대부업계열사부당지원등",
+  "CJ제일제당부터홈플러스까지...유통·식품업계국감이슈모아보니",
+  "쿠팡,공정위현장조사효력정지재항고...\"적법한조사는협조\"",
+  "급기야이대통령에게까지공개적으로찍힌유명음식점회사",
+  "[단독]여기어때·야놀자,공정위제재안밝혔다가'숙세페'제재",
+  "서울대출신금융엘리트,미공개정보로200억부당이득혐의",
+  "홈플러스피해자단체\"김병주불기소검토경위밝혀라\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "김옥숙 메모 자금 경위 설명 입증하려 검찰서 기여 꺼낸 노소영"
   ]
  ],
- "last_run": "2026-09-29T16:21:00.234799+09:00",
+ "last_run": "2026-09-29T16:31:15.612345+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
