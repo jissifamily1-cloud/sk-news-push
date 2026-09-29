@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.e2news.com/news/articleView.html?idxno=334182",
-  "https://www.newspost.kr/news/articleView.html?idxno=225652",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=95353",
   "https://www.ajunews.com/view/20260914154454657",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7183778",
   "https://www.joongboo.com/news/articleView.html?idxno=363736688",
@@ -2999,12 +2996,12 @@
   "https://www.mediapen.com/news/view/1126738",
   "https://news.mtn.co.kr/news-detail/2026092916234771845",
   "https://www.kgnews.co.kr/news/article.html?no=913407",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307546"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307546",
+  "https://www.ajunews.com/view/20260929134741587",
+  "https://www.sedaily.com/article/20096215",
+  "https://www.ajunews.com/view/20260929154357011"
  ],
  "seen_titles": [
-  "전남광주통합특별시의회,2026결산검사위원10명위촉",
-  "\"AI시대,개인정보규율방식달라져야\"…규제개편논의본격화",
-  "“개인정보보호법AI특례기준모호···정교한정책필요\"",
   "최태원SK회장\"미래도시울산'AI시티'로도약해야\"",
   "최태원의'AI시티울산'속도…데이터센터900MW확보[재계PICK]",
   "코스피,AI속도조절론에3%대급락…6680선마감",
@@ -6001,13 +5998,12 @@
   "최태원,젠슨황에건배사…“한미동맹최전선,AI데이터센터로”",
   "젠슨황\"한국과33년더\"…한미AI기술동맹가속",
   "젠슨황,이재용·최태원축하속'밴플리트賞'수상…\"한국과우정에...",
-  "\"젠슨황잡아라\"···삼성파운드리vsSK데이터센터맞대결"
+  "\"젠슨황잡아라\"···삼성파운드리vsSK데이터센터맞대결",
+  "'밴플리트'로뭉친이재용·최태원과젠슨황...\"우리는동반자\"동맹...",
+  "젠슨황“AI,애완용돌멩이보다자의식없어…인간이통제가능”",
+  "靑테이블앉은삼성·SK…\"지방팹인력이탈막아달라\""
  ],
  "recent_sigs": [
-  [
-   "2026-09-29T12:00:30.230035+09:00",
-   "꺼낸 김옥숙 검찰서 경위 기여 자금 입증하려 메모 설명"
-  ],
   [
    "2026-09-29T12:20:16.361856+09:00",
    "활약 지원 금빛 대표팀 아시안게임 기업들 뒤엔"
@@ -6107,9 +6103,13 @@
   [
    "2026-09-29T17:40:20.976845+09:00",
    "플리트 폭주 젠슨 수상 AI는"
+  ],
+  [
+   "2026-09-29T18:10:14.987038+09:00",
+   "이탈 테이블 지방 앉은 삼성 막아달라 인력"
   ]
  ],
- "last_run": "2026-09-29T18:00:41.592807+09:00",
+ "last_run": "2026-09-29T18:10:26.883732+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
