@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=715648",
-  "https://www.joongang.co.kr/article/25453498",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34719",
-  "https://www.khan.co.kr/article/202609140600071",
-  "https://www.fnnews.com/news/202609130830255728",
-  "https://www.hani.co.kr/arti/opinion/column/1277615.html",
   "https://www.segye.com/newsView/20260913509634?OutUrl=naver",
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4024842",
   "https://www.munhwa.com/article/11616652",
@@ -2999,15 +2993,15 @@
   "https://www.socialvalue.kr/news/view/1065577664262272",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609290091&t=NNv",
   "https://www.cstimes.com/news/articleView.html?idxno=722253",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=600767"
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600767",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=855048",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/29/2026092900209.html",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42099",
+  "https://biz.sbs.co.kr/article_hub/20000337286?division=NAVER",
+  "https://www.kukinews.com/article/view/kuk202609290128",
+  "https://thetracker.co.kr/View.aspx?No=4245054"
  ],
  "seen_titles": [
-  "\"산업·시민생활까지활용울산을AI시티로만들자\"",
-  "전남광주시금고선정기준변경‘시끌’",
-  "[패트롤]안성시의회-오산시의회-용인시의회",
-  "용인특례시의회,동티모르청소년교류2년째",
-  "최태원‘9440억재산분할’불복…다시대법원간다",
-  "[포토]국회경제대도약위원회출범식참석한이형희SK부회장",
   "이대통령,이번주중대국민소통···①인사②파병③공소취소‘삼...",
   "\"전력·용수다드립니다\"SK투자설에불붙은日유치전[현장클릭]",
   "되살아난재벌순환출자[유레카]",
@@ -6001,7 +5995,13 @@
   "최태원,젠슨황‘밴플리트상’축하건배사…“엔비디아는두뇌,SK는...",
   "[단독]이수스페셜티,황화리튬다음달생산…전고체시대열린다",
   "젠슨황,밴플리트수상…이재용·최태원뉴욕서나란히축사",
-  "이재용축사·최태원건배사⋯젠슨황밴플리트상수상에'AI동맹'과시"
+  "이재용축사·최태원건배사⋯젠슨황밴플리트상수상에'AI동맹'과시",
+  "젠슨황\"韓은공장가장잘짓는나라\"…'밴플리트상'수상에이재용...",
+  "\"한미동맹최전선의친구\"…이재용·최태원,젠슨황밴플리트상축하",
+  "삼성전자,2026밴플리트상수상'젠슨황'축하영상…\"한미AI·반도체...",
+  "젠슨황,'한미관계기여'밴플리트상…\"韓과맺은우정에감사\"",
+  "젠슨황,밴플리트상수상…이재용·최태원,축하위해뉴욕행",
+  "권혁빈항소…스마일게이트100%지분쪼개질까"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,13 @@
   [
    "2026-09-29T14:20:49.453061+09:00",
    "국감 산업계 삼성 기업인 전선 긴장 안도와 집중 쿠팡에"
+  ],
+  [
+   "2026-09-29T15:00:29.771181+09:00",
+   "나라 젠슨 짓는 이재용 공장 플리트상 수상에 가장"
   ]
  ],
- "last_run": "2026-09-29T14:50:24.472520+09:00",
+ "last_run": "2026-09-29T15:00:41.573181+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
