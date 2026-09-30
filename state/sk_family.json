@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.eroun.net/news/articleView.html?idxno=90085",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700592",
-  "https://news.ifm.kr/news/articleView.html?idxno=479426",
   "http://www.joseilbo.com/news/news_read.php?uid=575684&class=32",
   "http://www.yonhapnewstv.co.kr/news/AKR202609150957401oE",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192029",
@@ -2999,12 +2996,12 @@
   "http://www.ddanzi.com/895922226",
   "https://www.dailian.co.kr/news/view/1696272/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260930114400003?input=1195m",
-  "https://www.dt.co.kr/article/12086676"
+  "https://www.dt.co.kr/article/12086676",
+  "https://www.tournews21.com/news/articleView.html?idxno=144638",
+  "https://www.etoday.co.kr/news/view/2630962",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259200"
  ],
  "seen_titles": [
-  "최태원측,‘김희영에게1천억썼다발언’불기소에항고",
-  "BTS가춤추고간그2층한옥,허공에유리구슬꿴거미줄매달렸다",
-  "고창소작답양도투쟁39년…\"농민들의땅을되찾은역사,후대에잇는...",
   "최태원SK회장,노소영대리인명예훼손불기소에항고",
   "최태원측,'김희영에1000억'주장다시법정다툼…검찰불기소에항고",
   "최태원,\"동거인에1천억썼다\"노소영변호사檢불기소에'항고'",
@@ -6001,7 +5998,10 @@
   "[20260930]요약은더힘들다뉴스공장",
   "최종현'원유'이어최태원'LNG'…'무자원산유국'꿈,38년만에가스...",
   "[르포]한국으로오는호주천연가스의출발점…다윈LNG터미널",
-  "[르포]최태원14년집념,중동발‘자원안보’해법으로…호주서연..."
+  "[르포]최태원14년집념,중동발‘자원안보’해법으로…호주서연...",
+  "용인특례시의회스마트행정연구회,강원서'스마트행정해법'찾았다",
+  "용인특례시의회의원연구단체2팀,춘천서AI·문화정책벤치마킹",
+  "전장의밴플리트서젠슨황까지···한-미'지능생산동맹'으로"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-09-30T15:10:16.280386+09:00",
    "호주서 14년 집념 해법으로 안보 중동발 자원"
+  ],
+  [
+   "2026-09-30T15:20:14.791228+09:00",
+   "황까지 젠슨 으로 플리트서 지능생산 전장의 동맹"
   ]
  ],
- "last_run": "2026-09-30T15:10:34.757903+09:00",
+ "last_run": "2026-09-30T15:20:29.801877+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
