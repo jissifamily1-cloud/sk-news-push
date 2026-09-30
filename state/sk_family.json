@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202609150825311082",
-  "https://www.dt.co.kr/article/12083932",
-  "https://www.the-today.com/news/articleView.html?idxno=90140",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=254439",
   "https://www.etoday.co.kr/news/view/2625531",
   "https://www.kukinews.com/article/view/kuk202609150019",
@@ -2999,12 +2996,12 @@
   "http://www.breaknews.com/1239886",
   "https://swtvnews.com/news/newsview.php?ncode=1065570528031190",
   "https://www.topstarnews.net/news/articleView.html?idxno=16228686",
-  "https://www.edaily.co.kr/News/Read?newsId=02856886645585368&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02856886645585368&mediaCodeNo=257",
+  "https://www.sportsworldi.com/newsView/20260930503774",
+  "https://www.kukinews.com/article/view/kuk202609300021",
+  "https://www.youthdaily.co.kr/news/article.html?no=227741"
  ],
  "seen_titles": [
-  "최태원측,'김희영1000억원지출'발언불기소에불복…항고",
-  "최태원측,'1000억발언'노소영변호사불기소처분에항고",
-  "\"50배넘게수치부풀려왜곡\"..최태원측,노소영측변호사檢불기소...",
   "“50배부풀렸다”…최태원측,노소영변호사불기소에항고",
   "[한국반도체,두총수의대전략(1)]승자의함정과패자의반전",
   "리밸런싱으로자회사부실턴SK최창원...개미에겐유증'폭탄'됐다",
@@ -6001,7 +5998,10 @@
   "[인사]대전동구정기인사발령",
   "SK그룹\"여자핸드볼12회연속올림픽본선진출전폭지원\"",
   "1천700억지원결실…SK후원속한국핸드볼아시안게임선전",
-  "여자는전승금메달,남자는4강…한국핸드볼,亞무대서반등"
+  "여자는전승금메달,남자는4강…한국핸드볼,亞무대서반등",
+  "[AG이슈]‘여자금·남자4위’한국핸드볼,아시아정상권재도약",
+  "핸드볼18년후원한‘키다리아저씨’SK,여자금메달·남자4강성과...",
+  "SK최태원회장의'18년지속후원'…핸드볼AG금빛재도약"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-09-30T09:00:28.043214+09:00",
    "금메달 전승 4강 여자는 한국 무대서 핸드볼 반등 남자는"
+  ],
+  [
+   "2026-09-30T09:10:13.711299+09:00",
+   "핸드볼 금빛 재도약 후원 18년 지속 회장의 AG"
   ]
  ],
- "last_run": "2026-09-30T09:00:42.180162+09:00",
+ "last_run": "2026-09-30T09:10:28.869907+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
