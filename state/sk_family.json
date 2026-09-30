@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075368",
-  "https://www.viva100.com/article/20260915500158",
-  "https://www.news2day.co.kr/article/20260915500029",
   "https://www.epnc.co.kr/news/articleView.html?idxno=406930",
   "https://www.hankyung.com/article/2026091546907",
   "https://www.dailian.co.kr/news/view/1690343/?sc=Naver",
@@ -2999,12 +2996,12 @@
   "https://news.tf.co.kr/read/economy/2360682.htm",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=49337",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201963",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=610750"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=610750",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=359775",
+  "https://www.munhwa.com/article/11620451",
+  "https://www.ekn.kr/web/view.php?key=20260930029082832"
  ],
  "seen_titles": [
-  "최태원회장,'1000억유포'노소영대리인불기소에항고",
-  "최태원회장,'노소영변호인불기소'에항고...\"거짓알고도허위사실...",
-  "최태원노소영대리인불기소항고",
   "“실제보다50배부풀렸다”⋯최태원측,노소영측변호사명예훼손불...",
   "최태원회장,‘1000억원주장’노소영변호사불기소에항고",
   "최태원측\"1000억원사용주장은허위\"…검찰불기소처분항고",
@@ -6001,7 +5998,10 @@
   "최성환SK네트웍스사장,보유주식95.7%팔았다",
   "SK,핸드볼에18년간1700억원지원…여자대표팀AG금메달탈환",
   "[더밸류브리핑]오늘의캐피탈소식…현대캐피탈·NH농협캐피탈",
-  "[글로벌반도체]이재용\"딸이름도같고Z폴드8사랑도같이\"웃음…젠..."
+  "[글로벌반도체]이재용\"딸이름도같고Z폴드8사랑도같이\"웃음…젠...",
+  "'젠슨황과더가까이'…이재용·최태원,가족까지함께한뉴욕회동",
+  "SK,핸드볼에18년간1700억원지원…아시안게임서女금메달결실",
+  "[김병헌의체인지]기업의시간,정치의시간"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-09-30T11:00:28.429741+09:00",
    "이재용 이름도 웃음 Z폴드8 같고 사랑도 같이"
+  ],
+  [
+   "2026-09-30T11:10:13.461521+09:00",
+   "기업의 정치의 시간"
   ]
  ],
- "last_run": "2026-09-30T11:00:41.657327+09:00",
+ "last_run": "2026-09-30T11:10:27.975779+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
