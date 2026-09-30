@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1123546",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6744",
-  "https://www.mk.co.kr/article/12152800",
   "https://www.smartbizn.com/news/articleView.html?idxno=153861",
   "http://www.segyebiz.com/newsView/20260915504092?OutUrl=naver",
   "https://www.hankookilbo.com/news/article/A2026090115510001417?did=NA",
@@ -2999,12 +2996,12 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=134485",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=278062",
   "http://www.intn.co.kr/news/articleView.html?idxno=2053732",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88335"
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88335",
+  "https://www.sportsseoul.com/news/read/1638593",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475665",
+  "http://www.ddanzi.com/895922226"
  ],
  "seen_titles": [
-  "최태원측,‘동거인1000억지출’주장에“50배부풀려”반박",
-  "최태원,\"동거인에1천억썼다\"노소영측변호사불기소에항고",
-  "최태원,노소영측변호사검찰불기소에항고…“악의적허위사실주장...",
   "최태원회장,'동거인에1000억'발언...'노소영명예훼손'항고[전문]",
   "최태원,‘동거인1000억원발언’불기소에불복…“50배부풀려”",
   "최태원회장,불기소처분에항고···\"노소영측변호사,20억원을1000...",
@@ -6001,7 +5998,10 @@
   "[2026국감]올해국감도기업인들줄소환…쟁점살펴보니",
   "스마일게이트권혁빈배우자도'맞항소'…2.5兆이혼소송,2심서다시...",
   "행안부-SK사회적가치연구원,사회연대경제혁신모델성과측정보상",
-  "삼전닉스,3분기실적최대변수는환율"
+  "삼전닉스,3분기실적최대변수는환율",
+  "이재용·최태원,젠슨황위해뉴욕집결…삼성·SK‘AI깐부’과시",
+  "용인특례시의회,인공지능·데이터행정우수사례탐방",
+  "[20260930]요약은더힘들다뉴스공장"
  ],
  "recent_sigs": [
   [
@@ -6097,7 +6097,7 @@
    "변수는 실적 삼전닉스 환율 3분기"
   ]
  ],
- "last_run": "2026-09-30T14:40:31.580219+09:00",
+ "last_run": "2026-09-30T14:50:24.211029+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
