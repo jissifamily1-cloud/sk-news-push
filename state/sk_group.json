@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/internet-platform/6303591",
-  "https://www.peoplewatch.co.kr/article/view/ppw202609280012",
-  "http://www.newstomato.com/ReadNews.aspx?no=1314989&inflow=N",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=881965",
-  "https://www.betanews.net/article/view/beta202609280052",
   "https://www.ytn.co.kr/_ln/0102_202609281715279050",
   "http://www.newstomato.com/ReadNews.aspx?no=1314986&inflow=N",
   "https://www.kukinews.com/article/view/kuk202609280204",
@@ -2999,14 +2994,14 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008776641&plink=ORI&cooper=NAVER",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609280956067760102073",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=228656",
-  "https://www.etnews.com/20260930000209"
+  "https://www.etnews.com/20260930000209",
+  "https://www.insight.co.kr/news/575897",
+  "https://www.newsis.com/view/NISX20260930_0003808661",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=228657",
+  "https://www.tokenpost.kr/news/blockchain/416245",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277917"
  ],
  "seen_titles": [
-  "포스코퓨처엠대규모LFP양극재수주에증설시급해져,엄기천캐나다...",
-  "통신3사,개인정보보호투자늘린다",
-  "\"터지고수습은그만\"…통신3사CEO,개인정보유출직접챙긴다",
-  "연휴끝나니코스피6900선붕괴…삼전닉스5%대하락",
-  "FT\"韓'모두의AI'에승부수걸었다\"",
   "작년엔수수료,올해는'해외자금'…배민김범석또국감증인대",
   "KT박윤영\"보안·IT현대화에2.2조\"…통신3사CEO,보안강화한목소리",
   "통신3사만난개인정보위송경희위원장\"개인정보보호는CEO가직접챙...",
@@ -6001,7 +5996,12 @@
   "반도체호황에세수'역대최대'…미래기금에56조더넣을수있어",
   "[더벨][ProductTracker]유경PSG운용,홈플러스펀드대출만기1년연장",
   "공기청정기2026년9월브랜드평판...삼성,LG,코웨이順",
-  "[人사이트]최승천에이머슬리대표“숙련자의경험,제조현장에남기..."
+  "[人사이트]최승천에이머슬리대표“숙련자의경험,제조현장에남기...",
+  "정유성아나,SSG서진용과결혼+출산소식깜짝발표\"아기가먼저찾아...",
+  "18년간1700억원후원…SK의핸드볼사랑,여자팀금메달결실[나고야AG...",
+  "알뜰폰2026년9월브랜드평판...KT엠모바일,프리티,SK세븐모바일順",
+  "[로빈후드온체인]유나이티드스테이츠오일펀드온체인가격이정규...",
+  "AMDCEOLisaSutoReturntoKorea,DeepeningSamsungTies"
  ],
  "recent_sigs": [
   [
@@ -7051,9 +7051,17 @@
   [
    "2026-09-30T12:41:14.884270+09:00",
    "숙련자의 현장에 대표 남기 에이머슬리 제조 경험 최승천"
+  ],
+  [
+   "2026-09-30T12:51:00.378148+09:00",
+   "오일 스테이츠 가격이 정규 유나이티드 온체인 펀드"
+  ],
+  [
+   "2026-09-30T12:51:00.378148+09:00",
+   "Su AMD Return Deepening Lisa CEO Ties Samsung to Korea"
   ]
  ],
- "last_run": "2026-09-30T12:41:27.363445+09:00",
+ "last_run": "2026-09-30T12:51:08.887456+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
