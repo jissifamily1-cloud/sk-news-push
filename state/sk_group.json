@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1418824",
-  "https://www.edaily.co.kr/News/Read?newsId=02929046645585040&mediaCodeNo=257",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703441",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=31833",
-  "https://www.sedaily.com/article/20095873",
-  "https://www.busan.com/view/busan/view.php?code=2026092909054973341",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3707791",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3707677",
-  "https://www.wikitree.co.kr/articles/1162608",
   "https://www.goodkyung.com/news/articleView.html?idxno=291802",
   "https://www.newspim.com/news/view/20260929000089",
   "https://www.hankyung.com/article/2026092910256",
@@ -2999,18 +2990,18 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=122630",
   "https://www.polinews.co.kr/news/articleView.html?idxno=744500",
   "https://futurechosun.com/?p=161569",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277968"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277968",
+  "https://www.mydaily.co.kr/page/view/2026093018273755506",
+  "https://www.tfmedia.co.kr/news/article.html?no=207607",
+  "https://www.joongang.co.kr/article/25466097",
+  "https://www.thelec.kr/news/articleView.html?idxno=63050",
+  "https://www.ytn.co.kr/_ln/0102_202609301830484161",
+  "https://www.hankyung.com/article/202609305771i",
+  "https://www.thepublic.kr/news/articleView.html?idxno=320673",
+  "https://www.etoday.co.kr/news/view/2631047",
+  "https://www.fnnews.com/news/202609301829013965"
  ],
  "seen_titles": [
-  "삼성전자·SK하이닉스3분기실적기대밑돌듯…4분기회복전망",
-  "LPDDR6는같은선상…CXMT,삼성전자·SK하이닉스턱밑추격",
-  "美국채금리·유가상승영향…코스피6860선약보합",
-  "구직자58%\"자소서폐지긍정적\"…93%는작성에AI활용",
-  "SK하이닉스목표가낮췄지만…“4분기반등·주주환원기대”-DS",
-  "SK플래닛,OK캐쉬백오늘의투자이용범위주식투자까지확대",
-  "[개장시황]코스피,하락출발…미국금리급등에외국인홀로순매도",
-  "환율부담에SK하닉목표가↓…DS證“4분기HBM4·주주환원주목”[코...",
-  "엔비디아320조원자사주매입결정…미국기업사상최대규모",
   "미증시밀리자국장도흔들…코스피0.66%내린6,844.41개장",
   "구직자'자소서AI'활용경험93%...'자소서전형폐지'긍정.",
   "청와대참모재산봤더니…재산1위는92억신고한‘이사람’",
@@ -6001,7 +5992,16 @@
   "코스피,美국채금리급등부담으로0.48%하락",
   "롯데,범용사업줄이고'기술'로새판짠다…AI소재·수소·바이오전...",
   "[더나은미래경제브리핑]오픈AI,메타대항마‘닷츠’출시...“신입사...",
-  "SouthKoreaSpends$23BillioninDefendingWon"
+  "SouthKoreaSpends$23BillioninDefendingWon",
+  "[MD라이프]신세계免,한글날미디어아트‘한지에담은안녕’선봬",
+  "국회산자위,'유가담합'국내정유4사대표국감증인채택조율",
+  "독파모중단설에갈팡질팡혼란에빠진‘국대AI’개발사",
+  "엔비디아,11월서울서'AI데이'개최",
+  "올해초과세수63.2조역대최대...미래대응기금200조넘을까",
+  "與,디스커버리제도연내입법추진…회사에증거요구가능해진다",
+  "현대건설은확정·포스코·SK에코는논의…건설사안전문제국감간다",
+  "장비주20%뛸때소재주16%…월말추격빨라진반도체소재주",
+  "반도체덕에국세63조더걷힌다"
  ],
  "recent_sigs": [
   [
@@ -7007,9 +7007,25 @@
   [
    "2026-09-30T18:31:08.342387+09:00",
    "Spends in Defending Korea Billion Won South"
+  ],
+  [
+   "2026-09-30T18:41:10.199172+09:00",
+   "연내 요구 증거 입법 가능해진다 제도 회사에 디스커버리"
+  ],
+  [
+   "2026-09-30T18:41:10.199172+09:00",
+   "확정 현대건설은 건설사 안전문제 간다 포스코 SK에코는 국감 논의"
+  ],
+  [
+   "2026-09-30T18:41:10.199172+09:00",
+   "장비주 월말 반도체 소재주 빨라진 추격"
+  ],
+  [
+   "2026-09-30T18:41:10.199172+09:00",
+   "덕에 국세 반도체 63조 걷힌다"
   ]
  ],
- "last_run": "2026-09-30T18:31:17.023942+09:00",
+ "last_run": "2026-09-30T18:41:24.297776+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
