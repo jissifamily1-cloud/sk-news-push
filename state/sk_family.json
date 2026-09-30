@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=853733",
-  "https://www.joongang.co.kr/article/25461906",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709282",
   "https://www.mediapen.com/news/view/1123546",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=6744",
   "https://www.mk.co.kr/article/12152800",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000337550?division=NAVER",
   "https://www.insight.co.kr/news/575922",
   "https://www.newsway.co.kr/news/view?ud=2026093010283688991",
-  "http://www.popcornnews.net/news/articleView.html?idxno=134485"
+  "http://www.popcornnews.net/news/articleView.html?idxno=134485",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=278062",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2053732",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88335"
  ],
  "seen_titles": [
-  "[인사이트뉴스]키옥시아,왜미국으로가나…AI메모리몸값키우기이...",
-  "중앙대(죽죽장관기)-선문대(황가람기),제21회1·2학년연맹전제패..통...",
-  "최태원,\"김희영에1000억\"주장노소영측불기소에항고…\"50배부풀려...",
   "최태원측,‘동거인1000억지출’주장에“50배부풀려”반박",
   "최태원,\"동거인에1천억썼다\"노소영측변호사불기소에항고",
   "최태원,노소영측변호사검찰불기소에항고…“악의적허위사실주장...",
@@ -6001,7 +5998,10 @@
   "젠슨황효과'잠잠'…삼성·SK,엔비디아와AI동맹강화",
   "\"우린딸이름도같아\"이재용회장이공개한젠슨황과의세가지공통...",
   "국감총수소환전또시작됐다…경영검증인가정치공방인가",
-  "[2026국감]올해국감도기업인들줄소환…쟁점살펴보니"
+  "[2026국감]올해국감도기업인들줄소환…쟁점살펴보니",
+  "스마일게이트권혁빈배우자도'맞항소'…2.5兆이혼소송,2심서다시...",
+  "행안부-SK사회적가치연구원,사회연대경제혁신모델성과측정보상",
+  "삼전닉스,3분기실적최대변수는환율"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-09-30T14:30:22.785049+09:00",
    "쟁점 줄소환 올해 살펴보니 국감도 기업인들"
+  ],
+  [
+   "2026-09-30T14:40:13.010934+09:00",
+   "혁신모델 성과 SK사회적가치연구원 보상 행안부 사회연대경제 측정"
+  ],
+  [
+   "2026-09-30T14:40:13.010934+09:00",
+   "변수는 실적 삼전닉스 환율 3분기"
   ]
  ],
- "last_run": "2026-09-30T14:30:37.111080+09:00",
+ "last_run": "2026-09-30T14:40:31.580219+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
