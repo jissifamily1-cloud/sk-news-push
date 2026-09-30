@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000337150?division=NAVER",
-  "https://www.newscj.com/news/articleView.html?idxno=3436299",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171780",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=665409",
-  "https://zdnet.co.kr/view/?no=20260929093144",
-  "https://www.tokenpost.kr/news/market/415472",
-  "https://www.yna.co.kr/view/AKR20260929042500008?input=1195m",
   "https://news.tf.co.kr/read/economy/2370539.htm",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/29/2026092900064.html",
   "https://www.widedaily.com/news/articleView.html?idxno=301530",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0134_202609301935335232",
   "https://www.dynews.co.kr/news/articleView.html?idxno=867914",
   "https://www.seoul.co.kr/news/economy/2026/09/30/20260930500268?wlog_tag3=naver",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=106641"
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=106641",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539101",
+  "https://www.ekn.kr/web/view.php?key=20260930022540569",
+  "http://www.cctimes.kr/news/articleView.html?idxno=930151",
+  "https://www.dt.co.kr/article/12086757",
+  "https://www.econovill.com/news/articleView.html?idxno=752343",
+  "https://www.chosun.com/international/us/2026/09/30/2CT4S3QWYZEU5A6H7CSAIPNGBI/",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1333233"
  ],
  "seen_titles": [
-  "[모닝리포트]팬오션,VLCC역대급계약따냈다…탱커수혜주부상",
-  "원스토어,AI게임유통문턱낮춘다...전용관모든개발자에개방",
-  "실적없이질주하던닷컴버블과다르다…S&P순익32%폭증,한국반도...",
-  "[이시각시황]美증시급락여파…코스피6800선지킬까",
-  "코스피0.66%내린6844.41로출발…외국인매도에약세",
-  "삼성그룹6개사,美AI기업'헬릭스'에10억달러투자...의미는?",
-  "코스피,외국인순매도에6870선약세",
   "AI가대신쓰는'자소서'...폐지'찬vs반'선택은?",
   "[국내증시개장시황]코스피하락세지속,코스닥소폭상승세",
   "코스피,美국채금리부담속하락출발해보합권(종합)",
@@ -6001,29 +5994,16 @@
   "내일새벽마이크론실적발표...삼전닉스주가향방핵심변수[몇층이...",
   "충북이보지못한청년들의'직주락'(職住樂)",
   "‘반도체공룡’마이크론오늘실적발표…주식분할에쏠린눈[재테...",
-  "사이드카도멈춘9월코스피…7000선회복뒤다시6800선대"
+  "사이드카도멈춘9월코스피…7000선회복뒤다시6800선대",
+  "[비즈투데이]SK텔레콤,개인정보보호의날캠페인",
+  "“진실의순간왔다”…삼전닉스버팀목사라지자‘코스피4000’경고...",
+  "JSR,오창에반도체소재생산거점구축",
+  "‘반도체풍향계’마이크론실적드디어나온다…‘삼전닉스’랠리재...",
+  "CXMT,R&D·후공정에7조투자…고성장뒤엔삼성전자기술유출의혹도",
+  "[단독]美의회“중국에기우는한국면밀한관찰필요”…국무장관에...",
+  "용인반도체클러스터처리수갈등격화양상"
  ],
  "recent_sigs": [
-  [
-   "2026-09-30T14:11:05.612582+09:00",
-   "가격 박람 사야 시대 갈아타기 비슷하면 집코노미 어려워진"
-  ],
-  [
-   "2026-09-30T14:11:05.612582+09:00",
-   "렌터카 롯데렌탈도 판매 도입 미국에서 시작된 직영"
-  ],
-  [
-   "2026-09-30T14:11:05.612582+09:00",
-   "체계 15억원 사회연대경제 도입 3년간 행안부 성과보상"
-  ],
-  [
-   "2026-09-30T14:11:05.612582+09:00",
-   "변하지 안영준 핵심 SK의 워니와 않은 자밀"
-  ],
-  [
-   "2026-09-30T14:11:05.612582+09:00",
-   "네이티브 선봬 컨택센터 LG유플러스 AI"
-  ],
   [
    "2026-09-30T14:31:15.072130+09:00",
    "신사업 롯데 강화로 키운다 기술 경쟁력"
@@ -6911,9 +6891,21 @@
   [
    "2026-09-30T19:51:42.851354+09:00",
    "9월 코스피 다시 사이드카도 멈춘 6800선대 7000선 회복"
+  ],
+  [
+   "2026-09-30T20:21:02.939584+09:00",
+   "기술유출 후공정에 CXMT 의혹도 뒤엔 7조 삼성전자 투자 고성장"
+  ],
+  [
+   "2026-09-30T20:21:02.939584+09:00",
+   "국무장관에 면밀한 의회 중국에 기우는 관찰 한국 필요"
+  ],
+  [
+   "2026-09-30T20:21:02.939584+09:00",
+   "처리수 용인 반도체클러스터 격화 갈등 양상"
   ]
  ],
- "last_run": "2026-09-30T20:11:07.724931+09:00",
+ "last_run": "2026-09-30T20:21:14.555950+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
