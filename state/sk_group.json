@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/market/2026/09/29/0004",
-  "https://www.impacton.net/news/articleView.html?idxno=30052",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=144980",
-  "https://biz.heraldcorp.com/article/10887081",
-  "https://www.chosun.com/economy/money/2026/09/29/KJ33ZJG3MVEZHBWUF256U56ODA/",
-  "https://hbnpress.com/news/view/1065572615789795",
-  "https://www.sportschosun.com/baseball/2026-09-29/202609290100193630012786",
-  "https://magazine.hankyung.com/business/article/202609291134b",
   "http://www.beyondpost.co.kr/view.php?ud=202609290941243822be44c0aacd_30",
   "https://www.raonnews.com/news/article.html?no=61465",
   "https://www.joongangenews.com/news/articleView.html?idxno=551129",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/News/Read?newsId=05779366645585368&mediaCodeNo=257",
   "https://news.jtbc.co.kr/article/NB12320751?influxDiv=NAVER",
   "https://www.newstnt.com/news/articleView.html?idxno=720931",
-  "https://www.tjb.co.kr/news05/bodo/view/id/104275"
+  "https://www.tjb.co.kr/news05/bodo/view/id/104275",
+  "https://mhnse.com/news/articleView.html?idxno=1565784",
+  "https://mhnse.com/news/articleView.html?idxno=1565782",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008777486&plink=ORI&cooper=NAVER",
+  "https://www.edaily.co.kr/News/Read?newsId=05999126645585368&mediaCodeNo=257",
+  "https://www.joongang.co.kr/article/25466111",
+  "http://www.kjdaily.com/article.php?aid=1790769923688037276",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=85397",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448356"
  ],
  "seen_titles": [
-  "\"생활플랫폼속으로들어간증권사\"…KB증권,OK캐쉬백에서비스탑재",
-  "외국인'팔자'에코스피·코스닥동반약세",
-  "중동불안에美금리상승까지…코스피약보합출발[시황]",
-  "신성에스티,2차전지부품'히트싱크'로아메리칸드림전망",
-  "【데일리ESG정책브리핑】한국ESS특허세계1위·ESS특허·2035NDC이행...",
-  "코스피,美기술주약세에장초반6800선약보합...삼성전기만2%↑",
-  "“한국의세계적역량뒷받침할기업환경조성해야”[헤럴드기업포럼...",
-  "오픈AI훈련멈추자반도체주휘청,보안주는솟구쳤다",
   "SK매직,미네랄·퓨어워터선택가능한'투워터정수기'출시",
   "\"햄버거사올래,군대갈래?\"…류현진·윤석민이양현종에게시킨'국대...",
   "“스트레이키즈구원투수되나”JYP에쏠린시선",
@@ -6001,7 +5993,15 @@
   "[실적프리뷰]'실적발표D-DAY'마이크론,AI투자지속여부확인…개장...",
   "더걷힌'100조',미래기금에?\"지방재정줄어들어\"우려",
   "[공시]10월1일,코스피상장사47개종목자사주매수신청",
-  "(R)\"대전,1.5조반도체연구소잡아라\"..'800조호남'이변수"
+  "(R)\"대전,1.5조반도체연구소잡아라\"..'800조호남'이변수",
+  "[mhn포토]김재희,아버지와함께야~호",
+  "[mhn포토]김재희,아버지와함께우승도전",
+  "반도체덕에63조더걷힌다…또불거진'쌈짓돈'논란",
+  "[미리보는이데일리신문]“지주사·자회사는한팀…회장인사권막지...",
+  "美하원중국특위장“한중밀착면밀히살펴야…美에중대한위험”",
+  "SK하이닉스·삼성전자거래대금10조3천억원",
+  "정유4사CEO국감증인신청…유가담합의혹·거래관행수술대오르나",
+  "[10월1일자]비즈니스포스트아침의주요기사"
  ],
  "recent_sigs": [
   [
@@ -6811,9 +6811,29 @@
   [
    "2026-09-30T21:02:59.526882+09:00",
    "반도체 호남 연구소 변수 잡아라 5조 800조 대전"
+  ],
+  [
+   "2026-09-30T21:11:01.155719+09:00",
+   "자회사는 회장 한팀 막지 지주사 인사권"
+  ],
+  [
+   "2026-09-30T21:11:01.155719+09:00",
+   "한중 면밀히 중대한 살펴야 밀착 중국특위장 위험 하원"
+  ],
+  [
+   "2026-09-30T21:11:01.155719+09:00",
+   "10조3천억원 거래대금 삼성전자 SK하이닉스"
+  ],
+  [
+   "2026-09-30T21:11:01.155719+09:00",
+   "유가담합 CEO 관행 정유 수술대 증인 4사 거래 의혹 신청 오르나 국감"
+  ],
+  [
+   "2026-09-30T21:11:01.155719+09:00",
+   "주요기사 비즈니스포스트 아침의"
   ]
  ],
- "last_run": "2026-09-30T21:03:05.884016+09:00",
+ "last_run": "2026-09-30T21:11:17.653472+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
