@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=551095",
-  "https://www.raonnews.com/news/article.html?no=61461",
-  "https://www.newspim.com/news/view/20260929000097",
-  "https://www.etnews.com/20260929000029",
-  "https://www.g-enews.com/view.php?ud=2026092909174014fbbec65dfb_1",
   "https://biz.sbs.co.kr/article_hub/20000337150?division=NAVER",
   "https://www.newscj.com/news/articleView.html?idxno=3436299",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171780",
@@ -2999,14 +2994,14 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=320696",
   "http://www.beyondpost.co.kr/view.php?ud=2026093019204415834c878f8fa1_30",
   "https://www.dailymedi.com/news/news_view.php?wr_id=941007",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036316"
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036316",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1184595",
+  "https://www.ytn.co.kr/_ln/0134_202609301935335232",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=867914",
+  "https://www.seoul.co.kr/news/economy/2026/09/30/20260930500268?wlog_tag3=naver",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=106641"
  ],
  "seen_titles": [
-  "'2.55조주식분할'권혁빈스마일게이트CVO,이혼소송항소",
-  "(LEAD)Seoulstocksopenloweroninflationwoes",
-  "이란의호르무즈용선사옥죄기…한국원유수송운임비상",
-  "DDR5채택비중확대...\"삼전닉스,가격상승과제품믹스개선효과기...",
-  "美국채19년만에5.2%돌파,흔들리는원화…'균형환율1400원'논쟁",
   "[모닝리포트]팬오션,VLCC역대급계약따냈다…탱커수혜주부상",
   "원스토어,AI게임유통문턱낮춘다...전용관모든개발자에개방",
   "실적없이질주하던닷컴버블과다르다…S&P순익32%폭증,한국반도...",
@@ -6001,25 +5996,14 @@
   "2000억'국대AI'는평가판다시짜고…2500억'모두의AI'는비용부터물...",
   "박찬대인천시장,송도K-바이오랩허브첫삽…“생산넘어창업·신약...",
   "바이오기업·병원연결…송도'K-바이오랩허브'착공",
-  "바이오창업마중물'K-바이오랩허브'첫삽"
+  "바이오창업마중물'K-바이오랩허브'첫삽",
+  "[주식마감]SK하이닉스D램후공정외주확대기대감에윈팩상한가......",
+  "내일새벽마이크론실적발표...삼전닉스주가향방핵심변수[몇층이...",
+  "충북이보지못한청년들의'직주락'(職住樂)",
+  "‘반도체공룡’마이크론오늘실적발표…주식분할에쏠린눈[재테...",
+  "사이드카도멈춘9월코스피…7000선회복뒤다시6800선대"
  ],
  "recent_sigs": [
-  [
-   "2026-09-30T13:51:02.768003+09:00",
-   "삼성전자DS 교체 SK하이닉스 의자 직원에게 쏜다 명품 이미"
-  ],
-  [
-   "2026-09-30T13:51:02.768003+09:00",
-   "내리며 삼전 코스피 강세 약보합세 코스닥은"
-  ],
-  [
-   "2026-09-30T13:51:02.768003+09:00",
-   "실적 마이크론 극복하나 속도조절론 AI"
-  ],
-  [
-   "2026-09-30T13:51:02.768003+09:00",
-   "SK하닉도 쓰래요 9명 자소서 없앴는데 10명 무용 취준생"
-  ],
   [
    "2026-09-30T14:01:56.733180+09:00",
    "전력 확보 상승 태양광에너지 폭증 수요 테마 데이터센터 동력"
@@ -6935,9 +6919,21 @@
   [
    "2026-09-30T19:41:09.284504+09:00",
    "첫삽 마중물 바이오창업 바이오랩허브"
+  ],
+  [
+   "2026-09-30T19:51:42.851354+09:00",
+   "청년들의 보지 못한 충북이 직주락"
+  ],
+  [
+   "2026-09-30T19:51:42.851354+09:00",
+   "분할에 재테 주식 발표 실적 반도체 마이크론 쏠린 공룡"
+  ],
+  [
+   "2026-09-30T19:51:42.851354+09:00",
+   "9월 코스피 다시 사이드카도 멈춘 6800선대 7000선 회복"
   ]
  ],
- "last_run": "2026-09-30T19:41:15.541475+09:00",
+ "last_run": "2026-09-30T19:51:54.769950+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
