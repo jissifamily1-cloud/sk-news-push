@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4107776",
-  "https://biz.heraldcorp.com/article/10880118",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668410",
-  "https://www.mt.co.kr/economy/2026/09/21/2026092108362859140",
-  "https://www.news1.kr/economy/trend/6296900",
-  "https://www.yna.co.kr/view/AKR20260921035900002?input=1195m",
   "https://view.asiae.co.kr/article/2026092109133034928",
   "https://www.mt.co.kr/society/2026/09/21/2026092109312821068",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260921010007690",
@@ -2999,15 +2993,15 @@
   "https://www.imaeil.com/page/view/2026093010194926035",
   "http://www.yonhapnewstv.co.kr/news/AKR20260930112004kI0",
   "https://www.pressian.com/pages/articles/2026093011165818561",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448255"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448255",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=610893",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=246881",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246117",
+  "https://www.mediapen.com/news/view/1126866",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246115",
+  "http://www.dailypop.kr/news/articleView.html?idxno=102955"
  ],
  "seen_titles": [
-  "공정위,반복담합업체입찰참가제한강화…10년간벌점4점이상",
-  "담합두번걸리면공공입찰‘제동’…공정위기준강화",
-  "공정위,반복담합제재강화…공공입찰제한확대",
-  "반복담합사업자공공입찰참여제한확대…반복담합판단기간5년→1...",
-  "담합시정명령2번이면공공입찰제한요청…벌점산정기간5년→10년",
-  "담합10년간여러번저지르면공공입찰참여불가…5년서확대",
   "상습담합기업,공공조달시장에서퇴출된다…공정위,'입찰참가자격...",
   "경찰,'부정채용·횡령의혹'이기흥전체육회장불송치결론",
   "경찰,'부정채용혐의'이기흥전대한체육회장불송치",
@@ -6001,10 +5995,16 @@
   "코스모로보틱스,'로봇매출부풀리기'의혹압수수색에하한가",
   "전재수측증거인멸선임비서관징역1년법정구속",
   "[속보]법원,'통일교의혹증거인멸'전재수전비서관,징역1년선고...",
-  "코스모로보틱스주가장중하한가,경찰압수수색에투자심리위축"
+  "코스모로보틱스주가장중하한가,경찰압수수색에투자심리위축",
+  "[소비자시대]\"근거없는최저가·품질1위\"…공정위,착한이사·로젠이...",
+  "유엔사\"MDL이남서北지뢰발견…정전협정위반판단\"...野\"北부인...",
+  "'담합'걸리고도LH공사수주…소송에막힌감점제재",
+  "쿠팡,'공정위현장조사'재항고…\"조사절차·기업권리판단구할것\"",
+  "식품업계담합과징금2.2조…'삼양사'4354억최다",
+  "반복담합업체퇴출추진…5년내2회적발땐영업제한"
  ],
  "recent_sigs": [],
- "last_run": "2026-09-30T11:31:05.339656+09:00",
+ "last_run": "2026-09-30T11:40:52.398587+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
