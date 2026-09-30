@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=86017",
   "https://hbnpress.com/news/view/1065578944012358",
   "https://www.seoul.co.kr/news/society/2026/09/15/20260915500088?wlog_tag3=naver",
   "http://www.newswatch.kr/news/articleView.html?idxno=81152",
@@ -2999,10 +2998,10 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=880105",
   "https://www.handmk.com/news/articleView.html?idxno=43715",
   "https://www.busan.com/view/busan/view.php?code=2026092915555150742",
-  "http://www.beyondpost.co.kr/view.php?ud=202609301740429854c878f8fa1_30"
+  "http://www.beyondpost.co.kr/view.php?ud=202609301740429854c878f8fa1_30",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261001010010918"
  ],
  "seen_titles": [
-  "최태원회장,검찰불기소에항고…\"노관장측,사실관계알고도'1000억...",
   "\"김희영에1000억\"주장이불편한SK최태원회장…노소영측변호사불...",
   "최태원회장\"20억원생활비,1000억원으로50배나부풀려\"…노소영측...",
   "최태원회장측\"김희영동거인에1천억원썼다...50배부풀려\"...노소영...",
@@ -6001,7 +6000,8 @@
   "인스콜라리,'혁신학'과정운영…AI시대실행역량교육",
   "인스콜라리,AI시대실행역량다루는'혁신학'교육과정출시",
   "‘2.5조재산분할’스마일게이트이혼소송항소심으로…향후쟁점살...",
-  "남종섭경기도의장,‘지방의회법’광역과함께기초까지연대…“연..."
+  "남종섭경기도의장,‘지방의회법’광역과함께기초까지연대…“연...",
+  "사장단인사앞둔SK…'곽노정·장용호'부회장승진에쏠린눈"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-09-30T17:50:14.509687+09:00",
    "5조 이혼 소송 항소심으로 스마일게이트 재산분할 향후 쟁점"
+  ],
+  [
+   "2026-09-30T18:10:15.427979+09:00",
+   "인사 곽노정 사장단 쏠린눈 부회장 장용호 앞둔 승진에"
   ]
  ],
- "last_run": "2026-09-30T18:00:40.059497+09:00",
+ "last_run": "2026-09-30T18:10:27.405800+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
