@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=387235",
-  "https://www.newsis.com/view/NISX20260915_0003790258",
-  "https://www.pennmike.com/news/articleView.html?idxno=127828",
   "https://www.fnnews.com/news/202609151402439087",
   "http://enews.imbc.com/News/RetrieveNewsInfo/518277",
   "https://www.hankookilbo.com/news/article/A2026091511260001351?did=NA",
@@ -2999,12 +2996,12 @@
   "https://www.sportschosun.com/sports-news/2026-07-31/202607310100198870012932",
   "https://magazine.hankyung.com/money/article/202609171401c",
   "https://magazine.hankyung.com/business/article/202609304595b",
-  "https://magazine.hankyung.com/money/article/202609171027c"
+  "https://magazine.hankyung.com/money/article/202609171027c",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281735042600104411",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281511149000108061",
+  "http://www.econotelling.com/news/articleView.html?idxno=21375"
  ],
  "seen_titles": [
-  "최태원,'노소영변호사명예훼손'불기소에항고...\"20억을1,000억으로...",
-  "[르포]녹슨배관에AI두뇌심었다…'환갑'SK울산CLX의변신",
-  "최태원,'동거인에1000억지출'반박…\"50배이상부풀려\"",
   "'AI시티울산에안전더하다'아이티공간,스마트로컬구상",
   "[재계핫이슈]삼전닉스의전기요금선납거절과호남반도체",
   "최태원측\"노소영변호사,20억알고도1000억으로부풀려...불기소항...",
@@ -6001,7 +5998,10 @@
   "'세계2위K-펜싱'최신원회장\"사무실봉쇄어려움속에지원해준문체...",
   "2026대한민국오너십30…베스트오너십총괄표",
   "최태원SK(주)대표,인적자원관리'호평'…공급망관리모범[2026ESG리...",
-  "오너리스크가순위를갈랐다…30개그룹중15곳이마이너스"
+  "오너리스크가순위를갈랐다…30개그룹중15곳이마이너스",
+  "[더벨][thebelldesk]SKIET,리밸런싱출구찾아서",
+  "[더벨][thebellnote]SK하이닉스의'본질'",
+  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(86)사회적가치측정..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,21 @@
   [
    "2026-10-01T06:20:14.454694+09:00",
    "15곳이 30개 마이너스 리스크가 오너 순위를 갈랐다"
+  ],
+  [
+   "2026-10-01T07:10:16.310916+09:00",
+   "리밸런싱 찾아서 SKIET 출구"
+  ],
+  [
+   "2026-10-01T07:10:16.310916+09:00",
+   "SK하이닉스의 본질"
+  ],
+  [
+   "2026-10-01T07:10:16.310916+09:00",
+   "측정 가치 70년 사회적 유산"
   ]
  ],
- "last_run": "2026-10-01T07:00:37.443023+09:00",
+ "last_run": "2026-10-01T07:10:38.397074+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
