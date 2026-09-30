@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://enews.imbc.com/News/RetrieveNewsInfo/518277",
   "https://www.hankookilbo.com/news/article/A2026091511260001351?did=NA",
   "https://news.mtn.co.kr/news-detail/2026091514451745315",
   "https://www.catholictimes.org/article/20260911500045",
@@ -2999,10 +2998,10 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281735042600104411",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281511149000108061",
   "http://www.econotelling.com/news/articleView.html?idxno=21375",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/01/2026100100023.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/10/01/2026100100023.html",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366342"
  ],
  "seen_titles": [
-  "[재계핫이슈]삼전닉스의전기요금선납거절과호남반도체",
   "최태원측\"노소영변호사,20억알고도1000억으로부풀려...불기소항...",
   "조준호,눈밑지방재배치후달라졌다\"안면인식잠금도…\"(라스)",
   "\"로봇개가순찰하고AI가최적점찾고\"…환갑넘은울산CLX의AX실험",
@@ -6001,7 +6000,8 @@
   "[더벨][thebelldesk]SKIET,리밸런싱출구찾아서",
   "[더벨][thebellnote]SK하이닉스의'본질'",
   "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(86)사회적가치측정...",
-  "국정감사시즌마다기업총수호출악순환…이재용-최태원에포스코-..."
+  "국정감사시즌마다기업총수호출악순환…이재용-최태원에포스코-...",
+  "국감장향하는기업인들…\"산업전방위현안산적\""
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-10-01T08:20:14.641024+09:00",
    "이재용 기업 시즌마다 최태원에 포스코 총수 악순환 국정감사 호출"
+  ],
+  [
+   "2026-10-01T08:50:16.229657+09:00",
+   "기업인들 전방위 산업 향하는 국감장 현안 산적"
   ]
  ],
- "last_run": "2026-10-01T08:40:24.116568+09:00",
+ "last_run": "2026-10-01T08:50:28.510776+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
