@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR202609150957401oE",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192029",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=282198",
   "https://www.mt.co.kr/society/2026/09/15/2026091509365523009",
   "https://www.inthenews.co.kr/news/article.html?no=91878",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150277&t=NN",
@@ -2999,12 +2996,12 @@
   "https://www.tournews21.com/news/articleView.html?idxno=144638",
   "https://www.etoday.co.kr/news/view/2630962",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259200",
-  "https://www.newsgn.com/news/articleView.html?idxno=576889"
+  "https://www.newsgn.com/news/articleView.html?idxno=576889",
+  "https://biz.heraldcorp.com/article/10889259",
+  "https://www.hankookilbo.com/news/article/A2026093014240000027?did=NA",
+  "https://www.greened.kr/news/articleView.html?idxno=351131"
  ],
  "seen_titles": [
-  "최태원측,'김희영에1000억'주장다시법정다툼…검찰불기소에항고",
-  "최태원,\"동거인에1천억썼다\"노소영변호사檢불기소에'항고'",
-  "최태원,'동거인1천억원발언'불기소에불복해항고",
   "최태원회장측,노소영대리인'허위사실유포'불기소처분에항고…...",
   "최태원측\"생활비1천억\"발언노소영측변호사불기소에항고",
   "최태원회장측,'김희영에1000억'발언변호사불기소에항고",
@@ -6001,7 +5998,10 @@
   "용인특례시의회스마트행정연구회,강원서'스마트행정해법'찾았다",
   "용인특례시의회의원연구단체2팀,춘천서AI·문화정책벤치마킹",
   "전장의밴플리트서젠슨황까지···한-미'지능생산동맹'으로",
-  "국감앞두고증인채택격돌…野'김현지'공세에與'조희대'맞불"
+  "국감앞두고증인채택격돌…野'김현지'공세에與'조희대'맞불",
+  "LNG부터SMR까지…SK이노‘AI에너지설루션프로바이더’도약[호주...",
+  "\"2027년D램웨이퍼10장중3장은HBM에쓴다\"",
+  "SK하이닉스,솔리다임美상장시'중복상장'심사대…관건은주주동의..."
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,21 @@
   [
    "2026-09-30T15:20:14.791228+09:00",
    "황까지 젠슨 으로 플리트서 지능생산 전장의 동맹"
+  ],
+  [
+   "2026-09-30T15:40:13.266961+09:00",
+   "에너지 LNG부터 프로바이더 SMR까지 SK이노 AI 호주 설루션 도약"
+  ],
+  [
+   "2026-09-30T15:40:13.266961+09:00",
+   "웨이퍼 쓴다 2027년 3장은 D램 10장 HBM에"
+  ],
+  [
+   "2026-09-30T15:40:13.266961+09:00",
+   "솔리다임 심사대 상장시 관건은 SK하이닉스 주주동의 중복상장"
   ]
  ],
- "last_run": "2026-09-30T15:30:33.534415+09:00",
+ "last_run": "2026-09-30T15:40:31.513600+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
