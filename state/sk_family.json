@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202609150019",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447194",
-  "https://biz.sbs.co.kr/article_hub/20000334648?division=NAVER",
   "https://www.sedaily.com/article/20090915",
   "https://www.ytn.co.kr/_ln/0103_202609150852317347",
   "https://www.newsis.com/view/NISX20260901_0003771984",
@@ -2999,12 +2996,12 @@
   "https://www.kukinews.com/article/view/kuk202609300021",
   "https://www.youthdaily.co.kr/news/article.html?no=227741",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437035",
-  "https://www.mk.co.kr/article/12164412"
+  "https://www.mk.co.kr/article/12164412",
+  "https://www.mk.co.kr/article/12164435",
+  "https://www.handmk.com/news/articleView.html?idxno=43686",
+  "https://www.hankyung.com/article/202609303774H"
  ],
  "seen_titles": [
-  "리밸런싱으로자회사부실턴SK최창원...개미에겐유증'폭탄'됐다",
-  "최태원측“‘김희영에1000억’은허위”…노소영변호사불기소항고",
-  "최태원,‘동거인1천억원발언’노소영측변호사불기소에항고",
   "최태원,'동거인1천억지출'주장한노소영측변호사명예훼손불기소...",
   "최태원,'동거인에게1천억이상써'발언불기소에항고",
   "최태원,‘노소영변호사동거인1000억원발언’檢불기소에불복",
@@ -6001,7 +5998,10 @@
   "핸드볼18년후원한‘키다리아저씨’SK,여자금메달·남자4강성과...",
   "SK최태원회장의'18년지속후원'…핸드볼AG금빛재도약",
   "[솔리다임IPO③]美상장은어디까지규율하나…중복상장제도의'경계...",
-  "솔리다임상장설에휘청...SK하닉,본주·ADR·그룹주줄하락"
+  "솔리다임상장설에휘청...SK하닉,본주·ADR·그룹주줄하락",
+  "SK그룹18년핸드볼후원,아시안게임여자금메달·남자4강결실",
+  "최태원,젠슨황밴플리트상축하…\"SK는엔비디아의기억\"AI협력강조",
+  "\"둘다딸이매디슨\"…이재용,젠슨황수상축사에빵터졌다"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-09-30T09:30:22.062752+09:00",
    "그룹주 ADR 솔리다임 하닉 본주 줄하락 휘청 상장설에"
+  ],
+  [
+   "2026-09-30T09:50:13.445786+09:00",
+   "터졌다 딸이 이재용 젠슨 축사에 수상 매디슨"
   ]
  ],
- "last_run": "2026-09-30T09:30:38.074655+09:00",
+ "last_run": "2026-09-30T09:50:26.775583+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
