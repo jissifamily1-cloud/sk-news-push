@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03526006645585040&mediaCodeNo=257",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=444956",
-  "https://www.news1.kr/industry/general-industry/6304325",
   "https://www.donga.com/news/Economy/article/all/20260929/134750632/1",
   "https://www.newsis.com/view/NISX20260929_0003806853",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448148",
@@ -2999,12 +2996,12 @@
   "https://www.sedaily.com/article/20096620",
   "https://www.hankyung.com/article/2026093049096",
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043194",
-  "https://www.kbmaeil.com/article/20261001500030"
+  "https://www.kbmaeil.com/article/20261001500030",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1726300",
+  "https://biz.heraldcorp.com/article/10889695",
+  "https://www.goodkyung.com/news/articleView.html?idxno=291883"
  ],
  "seen_titles": [
-  "최태원회장,젠슨황수상축하\"두뇌는엔비디아,기억은SK\"…AI동맹...",
-  "SeoulstocksslightlylowerlateTues.morningoninflationwoes",
-  "‘용인반도체클러스터동일하이빌파크밸리’10월1일정당계약돌입",
   "KB證,OK캐쉬백에‘임베디드금융’서비스오픈",
   "이재용·최태원,젠슨황과뉴욕서한자리에…AI·반도체동맹강화",
   "이재용\"25년친구\"최태원\"AI최전선이끌어\"…젠슨황밴플리트상축...",
@@ -6001,7 +5998,10 @@
   "시추서발전까지‘원스톱’…SK이노‘LNG풀밸류체인’완성",
   "주성엔지니어링,에코프로비엠제쳤다…코스닥시총상위소부장포진",
   "SK케미칼,MSCIESG평가'AAA'획득",
-  "7000선막힌코스피…4분기‘실적의힘’으로고금리넘을까"
+  "7000선막힌코스피…4분기‘실적의힘’으로고금리넘을까",
+  "美물가둔화에도국채금리급등…코스피,외국인수급에촉각",
+  "“사상최대”어닝서프라이즈쓴마이크론,분기매출73.5조원…“내년...",
+  "SK온,美소재자회사약2조원규모채무인수키로…재무위험성↑"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,17 @@
   [
    "2026-10-01T06:41:02.597394+09:00",
    "실적의 코스피 넘을까 고금리 4분기 으로 7000선 막힌"
+  ],
+  [
+   "2026-10-01T06:51:03.330051+09:00",
+   "마이크론 내년 사상 분기매출 5조원 어닝서프라이즈"
+  ],
+  [
+   "2026-10-01T06:51:03.330051+09:00",
+   "위험성 소재 채무 자회사 2조원 재무 규모 인수키로 SK온"
   ]
  ],
- "last_run": "2026-10-01T06:41:21.939220+09:00",
+ "last_run": "2026-10-01T06:51:11.364832+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
