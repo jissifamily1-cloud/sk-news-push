@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1236589",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1406119",
-  "https://www.ikbc.co.kr/article/view/kbc202609150018",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=406090",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276920",
   "https://www.insight.co.kr/news/573485",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075368",
@@ -2999,13 +2995,13 @@
   "http://www.newsbrite.net/news/articleView.html?idxno=200655",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192612",
   "https://news.tf.co.kr/read/economy/2371145.htm",
-  "https://www.ekn.kr/web/view.php?key=20260930021500222"
+  "https://www.ekn.kr/web/view.php?key=20260930021500222",
+  "https://www.tfmedia.co.kr/news/article.html?no=207586",
+  "https://www.news1.kr/entertain/celebrity-topic/6305635",
+  "https://news.tf.co.kr/read/economy/2360682.htm",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=49337"
  ],
  "seen_titles": [
-  "최태원,‘동거인에1000억’주장불기소에항고…“50배부풀려”",
-  "최태원회장,검찰불기소에항고...\"노소영측,알고도50배부풀린허...",
-  "최태원,동거인1000억원지출검찰불기소항고..“50배부풀려”",
-  "최태원측,노소영측변호사불기소에항고…\"1000억주장사실과달라...",
   "최태원,노소영측'동거인에1,000억썼다'에\"실제생활비20억\"...불기...",
   "최태원측,'동거인1천억원지출'발언노소영측변호사불기소에항...",
   "최태원회장,'1000억유포'노소영대리인불기소에항고",
@@ -6001,7 +5997,11 @@
   "젠슨황,2026년밴플리트상수상...이재용·최태원도참석",
   "최태원SK회장,젠슨황과'한미AI동맹'강조…\"파트너십이GPU수요보...",
   "'세기의이혼'쌍방항소…스마일게이트,지배구조이슈장기화돌입",
-  "대통령은또“속도내라”지만...호남반도체‘실행계획’이없다"
+  "대통령은또“속도내라”지만...호남반도체‘실행계획’이없다",
+  "[신간]박영애시낭송15집『시가내게로오는시간』출간",
+  "'원곡자'정중식,뮤지컬'나는반딧불'마지막까지응원…폐막공연도...",
+  "최성환SK네트웍스사장,보유주식95.7%팔았다",
+  "SK,핸드볼에18년간1700억원지원…여자대표팀AG금메달탈환"
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "호남반도체 없다 속도내라 실행 지만 계획 대통령은"
   ]
  ],
- "last_run": "2026-09-30T10:40:31.763492+09:00",
+ "last_run": "2026-09-30T10:50:24.913620+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
