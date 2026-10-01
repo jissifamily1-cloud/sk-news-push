@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03893366645582744&mediaCodeNo=257",
-  "https://www.m-joongang.com/news/articleView.html?idxno=403083",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765975&plink=ORI&cooper=NAVER",
-  "https://www.nocutnews.co.kr/news/6582041",
-  "https://www.newscj.com/news/articleView.html?idxno=3434770",
-  "https://biz.chosun.com/topics/topics_social/2026/09/22/B4B247QXYFHPBM7VOOCXKNS7UM/",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1332695",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260922.99099007560",
-  "https://www.techm.kr/news/articleView.html?idxno=155492",
-  "https://www.newspim.com/news/view/20260922000889",
-  "https://www.munhwa.com/article/11618959",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=337278",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=255189",
   "https://www.cwn.kr/news/articleView.html?idxno=57207",
@@ -2999,20 +2988,20 @@
   "https://www.news1.kr/local/busan-gyeongnam/6307713",
   "https://www.newsis.com/view/NISX20261001_0003810927",
   "https://www.newsis.com/view/NISX20261001_0003810918",
-  "https://www.khan.co.kr/article/202610011449001"
+  "https://www.khan.co.kr/article/202610011449001",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=124875",
+  "https://newstapa.org/article/bdITt",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077108",
+  "https://www.vegannews.co.kr/news/article.html?no=390064",
+  "https://www.mk.co.kr/article/12166107",
+  "https://www.news1.kr/society/incident-accident/6307759",
+  "https://www.nocutnews.co.kr/news/6585879",
+  "https://www.ekn.kr/web/view.php?key=20261001024391109",
+  "https://www.joongangenews.com/news/articleView.html?idxno=552036",
+  "https://view.asiae.co.kr/article/2026100115003712276",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=814736"
  ],
  "seen_titles": [
-  "'배민인수'우버,공정위에자발적사전심사요청…\"韓장기투자\"",
-  "\"어느수사관걸리느냐뽑기운\"…수사권독립앞둔경찰현주소",
-  "정몽규,축구협회감독선임'업무방해혐의'송치…홍명보무혐의",
-  "수사기밀누설…현직경감수사",
-  "'홍명보선임개입'정몽규등3명송치…洪은불송치",
-  "경찰,‘감독선임부당개입의혹’정몽규·이임생송치…홍명보무...",
-  "인천공항세관,버려진마약류단서로밀수·유통조직검거",
-  "우버,배달의민족인수위한본격적인발걸음내디뎌",
-  "공정위,'우버·DH'기업결합사전심사착수...\"택시호출·배달플랫폼...",
-  "우버,배민인수추진…공정위기업결합사전심사착수",
-  "공정위,‘우버-배민인수’기업결합심사개시",
   "[속보]네이버가포기한배민,우버가단독인수…공정위사전심사개...",
   "검찰,노소영참고인조사조율…'노태우비자금메모'수사본격화",
   "정몽규·이임생,'축구협회감독선임자료허위기재'...업무방해로검찰...",
@@ -6001,7 +5990,18 @@
   "\"보좌진증거인멸유죄,전재수직접답하라\"…국힘시의원들촉구",
   "\"보좌진4명증거인멸유죄\"…부산시의회국힘,전재수에입장촉구",
   "공개매수정보로3억넘게챙긴前증권사직원2명구속기소",
-  "‘부당노동행위혐의’광주글로벌모터스압수수색···노조“노동탄..."
+  "‘부당노동행위혐의’광주글로벌모터스압수수색···노조“노동탄...",
+  "위닉스,겨울철겨냥가습기·온풍기출시",
+  "“하루아침에거래중단”…신세계면세점불공정거래정황추가확인",
+  "\"삼성합병으로엘리엇손해,정부1500억원배상하라\"",
+  "코스모로보틱스,하한가다음날21.94%상승",
+  "노동청,노조고소에광주글로벌모터스압수수색…상생노력물거품",
+  "미공개정보주식매매로3.8억원챙겨…前증권사직원들재판행",
+  "부산·서울서동시에전재수겨냥…국민의힘\"보좌진유죄,이제시장이...",
+  "[단독]코스모로보틱스‘최대고객’은1인회사…법인주소는자회사...",
+  "석유화학6개사'16조원담합'기소...중동전쟁때도가격짬짜미혐의",
+  "가족동원해수억원'꿀꺽'…前증권사직원구속기소",
+  "[이슈]광주글로벌모터스,노동청압수수색…부당노동행위강제수사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "급부상 2026년 김앤장 해외딜이 독주 대기업 갈랐다"
   ]
  ],
- "last_run": "2026-10-01T15:10:52.845892+09:00",
+ "last_run": "2026-10-01T15:20:57.166349+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
