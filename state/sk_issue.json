@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8669545",
-  "https://www.medicopharma.co.kr/news/articleView.html?idxno=69615",
-  "https://www.khan.co.kr/article/202609221340001",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085113",
   "https://isplus.com/article/view/isp202609220127",
   "https://www.ytn.co.kr/_ln/0103_202609221337528297",
@@ -2999,12 +2996,12 @@
   "http://www.doctorstimes.com/news/articleView.html?idxno=240258",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=278256",
   "https://www.sedaily.com/article/20097056",
-  "https://www.hankookilbo.com/news/article/A2026100110070003250?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026100110070003250?did=NA",
+  "https://imnews.imbc.com/news/2026/world/article/6855175_36925.html",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=941028",
+  "https://www.newsis.com/view/NISX20261001_0003810617"
  ],
  "seen_titles": [
-  "기내에떨어진‘하얀가루’에줄줄이…‘마약루트’끈질긴추적[지...",
-  "에이비엘바이오,대표가족현조사대상미포함…친인척은빅딜전매도",
-  "안동시장당선도우려당원모집혐의···경찰,공무원4명압수수색",
   "안동시청압수수색…공무원'선거앞당원모집'의혹수사",
   "정몽규전회장검찰송치…홍명보선임이사회자료‘허위기재’혐...",
   "'감독선임의혹'정몽규송치...홍명보는무혐의",
@@ -6001,7 +5998,10 @@
   "\"진료권훼손·응급진료위축시키는수사방식재고해야\"",
   "코스모로보틱스,주가출렁...상장전매출허위의혹…회사\"적법한매...",
   "구의원뇌물·채용비리파헤친경찰…‘토착비리’수사팀에포상금30...",
-  "\"가격올릴순서까지짰다\"…'16조담합'혐의석유화학사6곳재판행"
+  "\"가격올릴순서까지짰다\"…'16조담합'혐의석유화학사6곳재판행",
+  "'쿠팡사태반발'미국왜이러나?현지전문가들얘기들어보니‥",
+  "﻿진료소아응급센터압수수색…\"의료붕괴자초\"",
+  "\"경제위기를손익기회로\"…16조원대담합석유화학사들재판행(종합)"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "급부상 2026년 김앤장 해외딜이 독주 대기업 갈랐다"
   ]
  ],
- "last_run": "2026-10-01T12:31:01.115316+09:00",
+ "last_run": "2026-10-01T12:41:25.837538+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
