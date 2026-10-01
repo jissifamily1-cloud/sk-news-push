@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81446",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=611088",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=814525",
-  "https://www.nocutnews.co.kr/news/6584959",
-  "https://www.newsis.com/view/NISX20260930_0003808521",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2304257",
   "http://www.4th.kr/news/articleView.html?idxno=2118895",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711626",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437089",
@@ -2999,15 +2993,15 @@
   "https://www.newsen.com/news_view.php?uid=202610020659012110",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171261",
   "https://www.seoulfn.com/news/articleView.html?idxno=639193",
-  "https://www.munhwa.com/article/11620966"
+  "https://www.munhwa.com/article/11620966",
+  "https://www.hankyung.com/article/2026100290346",
+  "https://www.ajunews.com/view/20261002070317966",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16233492",
+  "https://www.munhwa.com/article/11620976",
+  "https://www.edaily.co.kr/News/Read?newsId=02460006645608984&mediaCodeNo=257",
+  "https://www.slist.kr/news/articleView.html?idxno=770392"
  ],
  "seen_titles": [
-  "정수기브랜드평판2026년9월빅데이터분석…1위코웨이·2위LG전자·...",
-  "[오늘증시]'6조매도'외국인잠잠해지자…코스피6900선'컴백'",
-  "SKT,韓3대고객만족도조사'그랜드슬램'달성",
-  "美반도체훈풍에소부장株'들썩'…주성엔지니어링2%대↑",
-  "반도체호황에세수'껑충'…올해국세수입478조6000억원",
-  "[산업소식]삼성전자,고객만족도평가9개부문1위",
   "엔비디아,11월서울서'AI데이'···피지컬·에이전틱AI다룬다",
   "엔비디아,11월서울서'AI데이'…피지컬·에이전틱AI조명",
   "삼성은AI인프라,SK하이닉스는HBM...증권가가본'재평가축'",
@@ -6001,7 +5995,13 @@
   "박하나“죄송한데남편자랑좀할게요”건물주전남친→시험관재도...",
   "K방산ETF효자였던한화오션…올해는애물단지",
   "[뉴욕증시]'제퍼슨풋'금리꺾이자반등···SK하닉5%↑·엑센추어1...",
-  "중랑구,중랑창업지원센터복합화사업착공"
+  "중랑구,중랑창업지원센터복합화사업착공",
+  "美국채금리따라등락반복하다강보합마감…다우0.04%↑[뉴욕증시...",
+  "[뉴욕증시마감]美국채금리급등부담딛고낙폭만회…강보합",
+  "미국증시상승마감…금리급락에반도체반등SK하이닉스ADR5%↑",
+  "[속보]SK하이닉스ADR5%급등,마이크론도3%↑…금리상승에도반도체강...",
+  "[르포]“한국서쓰던번호그대로”…오키나와서써본SKT‘가족로밍’",
+  "최태원SK회장·재닛옐런·소피마르소...'위대한수업6'역대최대50..."
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,17 @@
   [
    "2026-10-02T07:11:01.006045+09:00",
    "중랑구 착공 중랑창업지원센터 복합화사업"
+  ],
+  [
+   "2026-10-02T07:21:08.259374+09:00",
+   "가족로밍 번호 오키나와서 SKT 한국서 그대로 쓰던 써본"
+  ],
+  [
+   "2026-10-02T07:21:08.259374+09:00",
+   "역대 수업6 재닛 최태원 회장 옐런 위대한 마르소 소피"
   ]
  ],
- "last_run": "2026-10-02T07:11:47.681186+09:00",
+ "last_run": "2026-10-02T07:21:17.786365+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
