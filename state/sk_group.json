@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=240306",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=359775",
-  "https://www.m-i.kr/news/articleView.html?idxno=2001089",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=229820",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=320828",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744412",
-  "https://www.fnnews.com/news/202609301030187343",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=228643",
   "https://www.it-b.co.kr/news/articleView.html?idxno=90065",
   "https://www.ajunews.com/view/20260930105619973",
@@ -2999,16 +2992,16 @@
   "https://www.kpanews.co.kr/news/articleView.html?idxno=545344",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364065",
   "https://www.thepublic.kr/news/articleView.html?idxno=320812",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6855347_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6855347_37012.html",
+  "https://www.chosun.com/economy/int_economy/2026/10/02/DYBYCBOSNNGOJBAXCMVXN6SK3A/",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609301141573400101289",
+  "https://www.econovill.com/news/articleView.html?idxno=752537",
+  "https://slownews.kr/167278",
+  "https://www.etoday.co.kr/news/view/2631773",
+  "https://biz.sbs.co.kr/article_hub/20000337985?division=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8676337"
  ],
  "seen_titles": [
-  "'젠슨황과더가까이'…이재용·최태원,가족까지함께한뉴욕회동",
-  "\"'개인정보유출'과징금·과태료급증…최근3년간1조원육박\"",
-  "오늘증시,코스피6900선회복·코스닥1%대상승…반도체주강세",
-  "SK케미칼,MSCIESG평가서최고등급'AAA'획득…국내화학기업중유일",
-  "[분석]삼성은왜반도체만팔지않고AI데이터센터에직접뛰어드나",
-  "금리우려에도美반도체훈풍에…코스피6900선회복[fn오전시황]",
-  "제주제휴혜택통합…SK렌터카,'제주드라이브패스'출시",
   "엔비디아,'AI데이서울2026'연다…삼성∙LG∙SK∙네이버도참여",
   "수시일반전형지원자절반이'논술'로…\"수능최저충족이관건\"",
   "SK,핸드볼에18년간1700억원지원…아시안게임서女금메달결실",
@@ -6001,7 +5994,14 @@
   "\"우리도신속등재\"신청약제몰려…정부,약제선정지연불가피",
   "국채시장안정에뉴욕증시상승…다우0.04%↑",
   "SK텔레콤,멤버십기획에'AI에이전트'전면투입…고객맞춤혜택개...",
-  "[비즈&플러스]데이터센터냉각시장공략‥K-브랜드'한글'열풍"
+  "[비즈&플러스]데이터센터냉각시장공략‥K-브랜드'한글'열풍",
+  "뉴욕증시,국채금리급등에흔들리다소폭상승…10년물금리24년만에...",
+  "[더벨]엔트리움,프리IPO추진…'700억몸값'상장채비",
+  "소잃고AWS와외양간고치는티빙,국회국정감사역할론급부상",
+  "‘좌아하게’라는위기신호,“대통령이고립감을느끼는것같다”:...",
+  "앤스로픽,11월중순상장추진⋯오픈AI제치고IPO선점하나[마켓핫]",
+  "[애프터마켓리뷰]알지노믹스,RNA치료플랫폼확장기대감에급등",
+  "삼성전자·테슬라연계ELS발행1년새두배로↑"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,33 @@
   [
    "2026-10-02T07:50:57.030691+09:00",
    "브랜드 냉각 열풍 시장 한글 데이터센터 공략"
+  ],
+  [
+   "2026-10-02T08:01:16.584183+09:00",
+   "상장 엔트리움 700억 채비 몸값 프리IPO"
+  ],
+  [
+   "2026-10-02T08:01:16.584183+09:00",
+   "역할론 국정감사 외양간 잃고 AWS와 고치는 국회 급부상 티빙"
+  ],
+  [
+   "2026-10-02T08:01:16.584183+09:00",
+   "라는 신호 고립감을 느끼는 대통령이 위기 같다 좌아하게"
+  ],
+  [
+   "2026-10-02T08:01:16.584183+09:00",
+   "상장 IPO 오픈AI 앤스로픽 중순 11월 선점하나 제치고"
+  ],
+  [
+   "2026-10-02T08:01:16.584183+09:00",
+   "RNA 플랫폼 급등 확장 알지노믹스 치료 기대감에"
+  ],
+  [
+   "2026-10-02T08:01:16.584183+09:00",
+   "ELS 1년 연계 삼성전자 배로 테슬라 발행"
   ]
  ],
- "last_run": "2026-10-02T07:51:09.074310+09:00",
+ "last_run": "2026-10-02T08:01:37.082092+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
