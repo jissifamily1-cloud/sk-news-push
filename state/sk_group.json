@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.jndn.com/article.php?aid=1790670055440405007",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=301717",
-  "https://www.thelec.kr/news/articleView.html?idxno=62953",
-  "https://www.ikbc.co.kr/article/view/kbc202609290047",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=137129",
-  "http://www.iminju.net/news/articleView.html?idxno=170117",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475216",
-  "https://www.goodkyung.com/news/articleView.html?idxno=291845",
-  "http://www.popcornnews.net/news/articleView.html?idxno=134363",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=86707",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601015592024",
   "https://www.itdaily.kr/news/articleView.html?idxno=241892",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=665503",
   "https://www.smartbizn.com/news/articleView.html?idxno=155137",
@@ -2999,20 +2988,20 @@
   "https://www.etnews.com/20261001000265",
   "https://www.dailysecu.com/news/articleView.html?idxno=208672",
   "https://tk.newdaily.co.kr/site/data/html/2026/10/01/2026100100202.html",
-  "https://www.tokenpost.kr/news/blockchain/416896"
+  "https://www.tokenpost.kr/news/blockchain/416896",
+  "https://www.sportsworldi.com/newsView/20261001510030",
+  "https://www.etoday.co.kr/news/view/2631459",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711872",
+  "http://www.popcornnews.net/news/articleView.html?idxno=134656",
+  "https://www.naeil.com/news/read/603911",
+  "https://www.news1.kr/industry/general-industry/6307475",
+  "http://www.kjdaily.com/article.php?aid=1790826796688054276",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278036",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=230083",
+  "https://kr.aving.net/news/articleView.html?idxno=1814919",
+  "https://www.viva100.com/article/20261001500872"
  ],
  "seen_titles": [
-  "SK온,미국자회사SKBA해외채무2조인수결정",
-  "전남대,‘반도체·에너지·AI’지역인재2만3천명양성",
-  "SK,회사채수요예측에7200억원쏠려…'언더발행'성공",
-  "넥써쓰,원스토어지분100%확보…완전자회사편입",
-  "외국인,또3조매도폭탄…코스피'美국채금리·유가'부담0.27%↓",
-  "[2026국감이슈]단일종목레버리지민원82건…출시두달도안돼신규...",
-  "李대통령,3대메가프로젝트점검…\"성공핵심은정주여건\"",
-  "코스피6800선약보합마감···외국인3조순매도",
-  "코스피,외국인2.9조원매도에이틀째하락…장중낙폭대부분만회",
-  "SK하이닉스,협력사R&D비용최대50%먼저댄다…실패위험도분담",
-  "SK온,美배터리자회사2조원해외채무인수…외부금융부담낮춘다",
   "넥써쓰,원스토어100%자회사전환추진…게임유통·결제통합가속",
   "젠슨황\"한국과수십년함께\"…이재용·최태원AI동맹강조",
   "KB운용글로벌AI낸드메모리반도체ETF,한달수익률13.7%",
@@ -6001,7 +5990,18 @@
   "ADT캡스,KCSI무인경비부문1위…AI·데이터기반서비스확대",
   "ADT캡스,2026KCSI무인경비부문1위선정",
   "영진전문대,수시1차‘1만3896명지원’…공학계열49%증가",
-  "[로빈후드온체인]힘스앤허스헬스토큰60만달러어치가줄어...페폰스..."
+  "[로빈후드온체인]힘스앤허스헬스토큰60만달러어치가줄어...페폰스...",
+  "골든에그93%‘경주기행’,안방까지간다…오늘부터IPTV·VOD동시서비...",
+  "코스피,장중상승전환해6900선회복…코스닥은3%대급등",
+  "영진전문대,2027학년도수시1차경쟁률7.4대1..전년대비지원자26.5...",
+  "SKT,AI가추천한가을멤버십혜택…'에어'는출시1주년특가",
+  "대체자금조달로부상한PRS,잔액20조돌파…5대그룹집중",
+  "\"25개기업한자리에\"…한경협·영등포구'천하제일취업박람회'개최",
+  "SK하이닉스·삼성전자3조4천억원거래…반도체주상위권",
+  "SK에코플랜트,말레이센바이로지분전량매각…\"반도체·AI중심재편...",
+  "마이크론분기매출542억달러,사상최대...주가는왜이러지",
+  "[KPEX2026특집인터뷰]도구로보틱스,치안로봇'실전투입'시대연다...",
+  "메모리풍향계마이크론,‘호황지속’가리켰다⋯삼성·SK,3분기새역..."
  ],
  "recent_sigs": [
   [
@@ -7007,9 +7007,37 @@
   [
    "2026-10-01T13:01:15.448734+09:00",
    "줄어 페폰스 60만달러어치가 힘스앤허스 헬스 토큰"
+  ],
+  [
+   "2026-10-01T13:11:00.203743+09:00",
+   "5대 대체자금조달로 잔액 부상한 PRS 돌파 20조 집중"
+  ],
+  [
+   "2026-10-01T13:11:00.203743+09:00",
+   "한경협 자리에 취업박람회 영등포구 개최 기업 25개 천하제일"
+  ],
+  [
+   "2026-10-01T13:11:00.203743+09:00",
+   "삼성전자 상위권 거래 3조4천억원 SK하이닉스 반도체주"
+  ],
+  [
+   "2026-10-01T13:11:00.203743+09:00",
+   "재편 전량 센바이로 매각 반도체 SK에코플랜트 AI 중심 말레이 지분"
+  ],
+  [
+   "2026-10-01T13:11:00.203743+09:00",
+   "사상 매출 542억달러 마이크론 이러지 분기 주가는"
+  ],
+  [
+   "2026-10-01T13:11:00.203743+09:00",
+   "치안 연다 도구로보틱스 시대 로봇 실전 투입"
+  ],
+  [
+   "2026-10-01T13:11:00.203743+09:00",
+   "풍향계 삼성 가리켰다 지속 마이크론 3분기 호황 메모리 새역"
   ]
  ],
- "last_run": "2026-10-01T13:01:21.515242+09:00",
+ "last_run": "2026-10-01T13:11:21.886176+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
