@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.spochoo.com/news/articleView.html?idxno=130093",
-  "https://www.ceoscoredaily.com/page/view/2026091514282973430",
   "https://www.jbnews.com/news/articleView.html?idxno=1511587",
   "https://www.kwnews.co.kr/article/20260915500876",
   "https://news.mtn.co.kr/news-detail/2026091514285795364",
@@ -2999,11 +2997,11 @@
   "https://sateconomy.co.kr/news/view/1065576357477093",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150414&t=NNv",
   "https://www.bloter.net/news/articleView.html?idxno=673653",
-  "https://www.news2day.co.kr/article/20260930500231"
+  "https://www.news2day.co.kr/article/20260930500231",
+  "http://www.metroseoul.co.kr/article/20261001500152",
+  "https://view.asiae.co.kr/article/2026100108562677512"
  ],
  "seen_titles": [
-  "강원대치대학부생3명,생분해성구강드레싱특허출원",
-  "최신'갤럭시폴드'로트럼프전화받은젠슨황CEO",
   "'김도영문제없습니다'환한미소와함께대표팀합류,캐치볼부터펑고...",
   "“동거인에1000억이상썼다”노소영측법률대리인,불기소처분…최...",
   "한국무역협회충북본부,충청권기업할랄시장진출돕는다",
@@ -6001,7 +5999,9 @@
   "[국감쟁점]국감증인석엇갈린유통가…CJ제일제당·MBK나오고GS리테...",
   "[단독]레인보우로보틱스,미국에생산시설만든다…\"로봇수출재개\"",
   "[SK인사시그널]①잔류냐이동이냐…최창원수펙스의장거취주목",
-  "[2026비자발적고립청년일경험캠프(21)]비수도권돌봄·한부모청년..."
+  "[2026비자발적고립청년일경험캠프(21)]비수도권돌봄·한부모청년...",
+  "아이치·나고야아시안게임금빛물결뒤SK·현대차맞춤형지원눈길",
+  "호남반도체부터제넨셀까지…국감증인채택공방"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-10-01T10:50:13.646775+09:00",
    "CJ제일제당 엇갈린 GS리테 유통가 증인석 MBK 나오고 국감"
+  ],
+  [
+   "2026-10-01T11:20:13.744486+09:00",
+   "현대차 아시안게임 맞춤형 아이치 금빛 나고야 눈길 물결 지원"
+  ],
+  [
+   "2026-10-01T11:20:13.744486+09:00",
+   "증인채택 호남 국감 반도체부터 공방 제넨셀까지"
   ]
  ],
- "last_run": "2026-10-01T11:10:23.354760+09:00",
+ "last_run": "2026-10-01T11:20:30.066017+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
