@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2118895",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711626",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437089",
   "https://hbnpress.com/news/view/1065577186000428",
   "https://www.econovill.com/news/articleView.html?idxno=752226",
   "https://www.etnews.com/20260930000162",
@@ -2999,12 +2996,12 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16233492",
   "https://www.munhwa.com/article/11620976",
   "https://www.edaily.co.kr/News/Read?newsId=02460006645608984&mediaCodeNo=257",
-  "https://www.slist.kr/news/articleView.html?idxno=770392"
+  "https://www.slist.kr/news/articleView.html?idxno=770392",
+  "https://www.public25.com/news/articleView.html?idxno=55800",
+  "https://www.fntimes.com/html/view.php?ud=202610020713125603141825007d_18",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930427"
  ],
  "seen_titles": [
-  "엔비디아,11월서울서'AI데이'···피지컬·에이전틱AI다룬다",
-  "엔비디아,11월서울서'AI데이'…피지컬·에이전틱AI조명",
-  "삼성은AI인프라,SK하이닉스는HBM...증권가가본'재평가축'",
   "SKT전구성원개인정보보호서약AI시대\"프라이버시퍼스트다진다...",
   "반도체호황에올해초과세수'역대최대'…63조더걷힌다",
   "SK케미칼,MSCIESG최고등급AAA…화학산업군내국내유일",
@@ -6001,7 +5998,10 @@
   "미국증시상승마감…금리급락에반도체반등SK하이닉스ADR5%↑",
   "[속보]SK하이닉스ADR5%급등,마이크론도3%↑…금리상승에도반도체강...",
   "[르포]“한국서쓰던번호그대로”…오키나와서써본SKT‘가족로밍’",
-  "최태원SK회장·재닛옐런·소피마르소...'위대한수업6'역대최대50..."
+  "최태원SK회장·재닛옐런·소피마르소...'위대한수업6'역대최대50...",
+  "뉴욕증시국채금리진정에다우0.04%↑...국제유가브렌트유4.37%급등",
+  "[KFT모닝브리프]2026.10.02—오늘꼭알아야할국내외경제뉴스",
+  "증시오늘'핫이슈'\"2011년유럽재정위기어게인?이번엔프랑스가'타..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-10-02T07:21:08.259374+09:00",
    "역대 수업6 재닛 최태원 회장 옐런 위대한 마르소 소피"
+  ],
+  [
+   "2026-10-02T07:31:07.942835+09:00",
+   "국내외 알아야 경제뉴스"
+  ],
+  [
+   "2026-10-02T07:31:07.942835+09:00",
+   "증시 어게인 핫이슈 2011년 유럽재정위기 프랑스가 이번엔"
   ]
  ],
- "last_run": "2026-10-02T07:21:17.786365+09:00",
+ "last_run": "2026-10-02T07:31:17.332587+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
