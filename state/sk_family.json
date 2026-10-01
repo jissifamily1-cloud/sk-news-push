@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88159",
-  "https://www.cnbizm.com/news/articleView.html?idxno=315250",
   "https://www.ngetnews.com/news/articleView.html?idxno=553345",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=254655",
   "https://www.mk.co.kr/article/12153482",
@@ -2999,11 +2997,11 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=448452",
   "https://www.newspim.com/news/view/20261001001324",
   "https://biz.sbs.co.kr/article_hub/20000337887?division=NAVER",
-  "https://www.munhwa.com/article/11620917"
+  "https://www.munhwa.com/article/11620917",
+  "http://www.breaknews.com/1240566",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261001010000497"
  ],
  "seen_titles": [
-  "'20억이1000억으로'…노소영변호사이상원,알고도50배부풀렸나?",
-  "삼성전자여,'도덕적해이'를벌하라",
   "노소영측이상원변호사의1000억주장은어떻게만들어졌을까[페어한...",
   "[데스크칼럼]변호사말한마디에불붙은여론재판,정상인가?",
   "최태원·노소영소송'1000억원'진실공방…최회장측\"50배부풀려\"",
@@ -6001,17 +5999,11 @@
   "[2026국감프리뷰⑧]SPC반복되는산업재해에국회도벼른다,허진수...",
   "충남교육청,아산탕정고첫삽…2028년3월개교목표",
   "'2.5조분할'권혁빈이혼소송쌍방항소[CEO업&다운]",
-  "MBK김병주,올해도국감소환…‘투자기업책임론’다시도마위에"
+  "MBK김병주,올해도국감소환…‘투자기업책임론’다시도마위에",
+  "조승래의원,\"취약계층및연구인력채용관련조특법개정안발의\"",
+  "아산탕정2고교신축공사첫삽…2028년3월개교목표"
  ],
  "recent_sigs": [
-  [
-   "2026-10-01T11:50:16.081255+09:00",
-   "불러 이름값 경쟁 증인 이재용 국감"
-  ],
-  [
-   "2026-10-01T11:50:16.081255+09:00",
-   "범용 28년까지 키움 호황 마이크론 확신 이어질까 메모리 시장"
-  ],
   [
    "2026-10-01T14:00:29.892071+09:00",
    "문제 교육 AI 정의와 인스콜라리 지식보다 혁신학 실행력 시대"
@@ -6069,7 +6061,7 @@
    "MBK 투자기업 국감 김병주 책임론 올해도 도마위에 다시 소환"
   ]
  ],
- "last_run": "2026-10-01T17:40:30.243736+09:00",
+ "last_run": "2026-10-01T17:51:02.689492+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
