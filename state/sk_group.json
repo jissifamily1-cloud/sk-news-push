@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868918",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448253",
-  "https://m.sports.naver.com/basketball/article/065/0000302169",
-  "https://biz.heraldcorp.com/article/10888762",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445030",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241905",
-  "https://www.sentv.co.kr/article/view/sentv202609300096",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241907",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744417",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744416",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=240306",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=359775",
   "https://www.m-i.kr/news/articleView.html?idxno=2001089",
@@ -2999,19 +2989,19 @@
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4025591",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259260",
   "https://biz.chosun.com/science-chosun/bio/2026/10/02/SKTGSQYGNFG2BMYH6GJUVJQCLU/",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271587&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271587&CMPT_CD=P0010",
+  "https://www.hani.co.kr/arti/economy/finance/1280118.html",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155416",
+  "https://www.newsway.co.kr/news/view?ud=2026100207352302339",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155415",
+  "https://www.ziksir.com/news/articleView.html?idxno=148144",
+  "https://www.thepublic.kr/news/articleView.html?idxno=320837",
+  "https://www.kpanews.co.kr/news/articleView.html?idxno=545344",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=364065",
+  "https://www.thepublic.kr/news/articleView.html?idxno=320812",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6855347_37012.html"
  ],
  "seen_titles": [
-  "\"한국데이터센터전력정책논의가스와원전진영이주도\",재생에너지...",
-  "[KBL개막D-3]두팀만달성했던리핏,KCC는왕조의기틀을다질수있...",
-  "“반도체열기,피지컬AI·제조AI로”AI전쟁기업성장전략뜨거운관...",
-  "SK텔레콤,KCSI이동전화부문1년만에1위탈환…고객만족도3관왕",
-  "SKT,사내개인정보보호캠페인개최…AI생애주기위험관리강화",
-  "“KCSI1위탈환”…SKT,올해3대고객만족도조사석권",
-  "Btv에서'숏폼쇼핑'통했다…SKB'핫딜',판매액석달새50억→100억",
-  "SK하이닉스,소부장기술개발초기부터지원…메모리생태계강화",
-  "SK텔레콤,개인정보보호의날맞아임직원보안실천",
-  "올해초과세수63.2조'역대최대'…반도체호황에국세478.6조전망",
   "'젠슨황과더가까이'…이재용·최태원,가족까지함께한뉴욕회동",
   "\"'개인정보유출'과징금·과태료급증…최근3년간1조원육박\"",
   "오늘증시,코스피6900선회복·코스닥1%대상승…반도체주강세",
@@ -6001,7 +5991,17 @@
   "[데스크칼럼]삼성·SK엔25조구걸,내부는8000억돈잔치…한전의기...",
   "[넥스트-샷]채권이밀어내고연준이끌어올렸다···월가결국'찔끔...",
   "[단독]SK바이오팜,차세대항암제‘KRASG12D’신약개발중단...RPT집...",
-  "이재명대통령이이럴줄은몰랐습니다[반도체특별과외]"
+  "이재명대통령이이럴줄은몰랐습니다[반도체특별과외]",
+  "산은,벤처·스타트업지원1%밑으로급감…대기업엔20조몰아줬다",
+  "마이크론,'깜짝실적'에도주가잠잠···삼성전자·SK하이닉스에쏠린...",
+  "치솟던美국채금리진정세…뉴욕증시강보합마감",
+  "금리충격딛고반등···중국발공급불안에국제유가'급등'",
+  "美10년물5.3%돌파후진정…뉴욕증시,채권발작딛고강보합",
+  "코딩몰라도AI에이전트개발…SKAX,'AI부트캠프바이브'출시",
+  "\"우리도신속등재\"신청약제몰려…정부,약제선정지연불가피",
+  "국채시장안정에뉴욕증시상승…다우0.04%↑",
+  "SK텔레콤,멤버십기획에'AI에이전트'전면투입…고객맞춤혜택개...",
+  "[비즈&플러스]데이터센터냉각시장공략‥K-브랜드'한글'열풍"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,21 @@
   [
    "2026-10-02T07:41:38.742145+09:00",
    "줄은 몰랐습니다 이재명 이럴 대통령이"
+  ],
+  [
+   "2026-10-02T07:50:57.030691+09:00",
+   "안정에 다우 상승 뉴욕증시 국채시장"
+  ],
+  [
+   "2026-10-02T07:50:57.030691+09:00",
+   "AI 에이전트 전면 고객 혜택 투입 멤버십 맞춤 기획에 SK텔레콤"
+  ],
+  [
+   "2026-10-02T07:50:57.030691+09:00",
+   "브랜드 냉각 열풍 시장 한글 데이터센터 공략"
   ]
  ],
- "last_run": "2026-10-02T07:41:52.617357+09:00",
+ "last_run": "2026-10-02T07:51:09.074310+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
