@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260930042451008?input=1195m",
-  "https://www.viva100.com/article/20260930501267",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312247",
-  "https://www.dt.co.kr/article/12086706",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241924",
-  "https://www.sedaily.com/article/20096648",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067472",
-  "https://view.asiae.co.kr/article/2026093015532194041",
   "https://www.newsis.com/view/NISX20260930_0003809220",
   "https://www.gokorea.kr/news/articleView.html?idxno=880076",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=253481",
@@ -2999,17 +2991,17 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=117636",
   "http://www.newsdream.kr/news/articleView.html?idxno=119346",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364078",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117634"
+  "https://www.businessplus.kr/news/articleView.html?idxno=117634",
+  "https://www.cwn.kr/news/articleView.html?idxno=58144",
+  "https://www.vegannews.co.kr/news/article.html?no=390320",
+  "http://www.beyondpost.co.kr/view.php?ud=2026100212321820872aaae0046f_30",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282871",
+  "https://www.jbnews.com/news/articleView.html?idxno=1512747",
+  "http://www.inews24.com/view/2011390",
+  "https://www.tokenpost.kr/news/blockchain/417398",
+  "https://www.topdaily.kr/articles/112199"
  ],
  "seen_titles": [
-  "[마감시황]코스피,외국인2조원순매도에0.48%내린6830선마감",
-  "코스피,美국채금리부담에사흘째하락",
-  "마이크론실적앞두고엇갈린‘삼전닉스’…코스피,6830선약보합",
-  "엘리스그룹\"10월IPO추진…'AIPMDC'로네오클라우드시장공략\"",
-  "豪바다서캔가스380㎞해저질주후급랭…한국행LNG年130만톤확보",
-  "서울시립대,차세대메모리연구성과IEDM서발표…논문2편채택",
-  "코스피,6800선약보합마감…코스닥은소폭상승",
-  "마이크론실적앞두고'희비'…반도체대장주장혼조마감[핫스탁](종...",
   "과징금에집단배상까지겹치나…집단소송법두고\"기업책임예측불가...",
   "알체라,10월6~8일'AIFESTA26'월드모델특별관참가…\"FromDataToRea...",
   "SK이노베이션주가,9월30일148,800원1.99%상승",
@@ -6001,7 +5993,15 @@
   "[금융권이모저모]KB증권,MTS'My연금'전면개편…조회·진단서투자까...",
   "\"경유가인하·네이버페이제휴\"…SK에너지,KCSI주유소부문16년연속...",
   "전국민무료'모두의AI'3사3色",
-  "[금융권이모저모]신한자산운용,글로벌메모리10종목담은DRAMETF상장..."
+  "[금융권이모저모]신한자산운용,글로벌메모리10종목담은DRAMETF상장...",
+  "CATL,'전기차배터리시장점유율39.4%로독주'...글로벌사용량20%급...",
+  "9월고용보고서앞두고삼성전자약세·SK하이닉스강세",
+  "마이크론2분기D램점유율,24%로SK하이닉스바짝추격...SK하이닉스,...",
+  "삼성전자,자사주매입계획물량초과…15조원채우나",
+  "중부권최대108만평규모아산탕정2신도시착공",
+  "추석하도급대금조기지급2.2조전년比22%↓...계룡건설1위",
+  "[로빈후드온체인]마이크론토큰12만달러어치가줄어...후디지갑3만...",
+  "친환경접는SK에코플랜트,마지막퍼즐성주테크"
  ],
  "recent_sigs": [
   [
@@ -6891,9 +6891,21 @@
   [
    "2026-10-02T12:41:01.341825+09:00",
    "ETF 글로벌 상장 담은 메모리 신한자산운용 DRAM 10종목"
+  ],
+  [
+   "2026-10-02T12:51:13.496019+09:00",
+   "하도급대금 조기지급 추석 1위 2조 전년 계룡건설"
+  ],
+  [
+   "2026-10-02T12:51:13.496019+09:00",
+   "지갑 줄어 후디 3만 마이크론 토큰 12만달러어치가"
+  ],
+  [
+   "2026-10-02T12:51:13.496019+09:00",
+   "마지막 SK에코플랜트 퍼즐 친환경 접는 성주테크"
   ]
  ],
- "last_run": "2026-10-02T12:41:22.618485+09:00",
+ "last_run": "2026-10-02T12:51:24.475091+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
