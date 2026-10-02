@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/economy/trend/6299958",
-  "https://view.asiae.co.kr/article/2026092309480244717",
-  "https://www.tbc.co.kr/news/view?pno=20260923090824AE05998&id=211410",
-  "https://www.segye.com/newsView/20260923505562?OutUrl=naver",
-  "https://www.nocutnews.co.kr/news/6582524",
-  "https://www.edaily.co.kr/News/Read?newsId=02968406645583072&mediaCodeNo=257",
   "https://www.etnews.com/20260923000071",
   "http://www.intn.co.kr/news/articleView.html?idxno=2053613",
   "https://www.news1.kr/local/gwangju-jeonnam/6299996",
@@ -2999,15 +2993,15 @@
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043280",
   "https://www.yna.co.kr/view/AKR20261002095500530?input=1195m",
   "http://www.medisobizanews.com/news/articleView.html?idxno=142813",
-  "https://www.newsis.com/view/NISX20261002_0003812490"
+  "https://www.newsis.com/view/NISX20261002_0003812490",
+  "https://www.hankyung.com/article/202610020148i",
+  "https://www.upkoreanews.kr/news/articleView.html?idxno=100510",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780690&plink=ORI&cooper=NAVER",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7187225",
+  "https://www.khan.co.kr/article/202610021353021",
+  "https://www.mt.co.kr/society/2026/10/02/2026100211582141573"
  ],
  "seen_titles": [
-  "공정위,담합'리니언시'혜택축소…조사후1순위신고과징금75%감경",
-  "담합'뒷북자진신고'과징금전액면제→75%감경으로축소한다",
-  "경북기초단체장22명중6명수사…뇌물·선거법위반혐의",
-  "7000만원수뢰혐의…前강원도청대변인구속기소",
-  "경찰,손훈모순천시장실압수수색",
-  "‘김승원의혹’제넨셀설립자살인미수혐의,수사본격화",
   "비행기좌석밑'흰가루'추적했더니…“속옷서도마약나와”남녀7명...",
   "신보,압수수색받고도9개월간무대응…수사대상업체에58억원추가...",
   "경찰,손훈모순천시장집무실압수수색…불법정치자금의혹관련",
@@ -6001,10 +5995,16 @@
   "소아응급실압수수색파장…의협\"전대미문,집행경위밝혀라\"",
   "소아응급실압수수색공방…의협\"전대미문,묵과못해\"",
   "\"소아응급실압수수색은초유의사태…재발방지책마련하라\"",
-  "경찰,고창군수정치자금법사건관련군체육회장압수수색"
+  "경찰,고창군수정치자금법사건관련군체육회장압수수색",
+  "공정위상임위원에김자봉한국금융연구원선임연구위원…17년만에외...",
+  "'스마트시티'포장뒤오너2세배불린BS그룹…'셀프승인,매각'으로...",
+  "소아응급실아이숨지자압수수색…\"의사떠날것\"반발",
+  "중수청공식출범…전종민차장\"절제를최우선원칙으로\"",
+  "단속피하다추락사한이주노동자…인권위“현장적발위주단속지양...",
+  "선관위특검,중앙선관위에포렌식수사관상주·자료검증"
  ],
  "recent_sigs": [],
- "last_run": "2026-10-02T13:50:54.001924+09:00",
+ "last_run": "2026-10-02T14:01:03.032720+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
