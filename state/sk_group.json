@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448363",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=85410",
-  "https://hbnpress.com/news/view/1065572238184956",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491723",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407612",
-  "https://www.etoday.co.kr/news/view/2631288",
-  "https://www.livebiz.today/news/articleView.html?idxno=205244",
   "https://www.news1.kr/it-science/cc-newmedia/6307029",
   "https://www.hankyung.com/article/2026100165966",
   "https://www.sentv.co.kr/article/view/sentv202610010034",
@@ -2999,16 +2992,16 @@
   "https://www.sentv.co.kr/article/view/sentv202610020099",
   "https://view.asiae.co.kr/article/2026100216420352538",
   "https://www.edaily.co.kr/News/Read?newsId=01794166645609312&mediaCodeNo=257",
-  "https://www.g-enews.com/view.php?ud=202610021549291589fda4f5ab74_1"
+  "https://www.g-enews.com/view.php?ud=202610021549291589fda4f5ab74_1",
+  "http://www.kjdaily.com/article.php?aid=1790983990688183276",
+  "https://magazine.hankyung.com/business/article/202610017467b",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445217",
+  "https://www.hankyung.com/article/2026100315297",
+  "https://www.g-enews.com/view.php?ud=202610030707137268fda4f5ab74_1",
+  "https://www.tokenpost.kr/news/insights/417798",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1411928"
  ],
  "seen_titles": [
-  "SKT,AI로읽어낸고객'취향저격'멤버십혜택선봬",
-  "ADT캡스,고객만족도KCSI무인경비부문1위선정",
-  "코스피,6800선하락출발···삼성전자·SK하이닉스약세",
-  "하나증권\"마이크론호실적에메모리수요성장세재확인,관련주SK하이...",
-  "SKT,AI로고객맞춤형T멤버십혜택강화…'AI위크'운영",
-  "SKT,AI로T멤버십혜택기획...10월'AI위크'운영",
-  "코스피,장초반6800선약세...삼성전자·SK하이닉스동반하락",
   "SKT,AI제안따라고객취향반영멤버십혜택구성",
   "한국맥도날드,군장병에‘행복의버거’600인분전달",
   "주유소휘발유가격'SK에너지'최고·'EX알뜰'최저...정유사와알뜰차...",
@@ -6001,7 +5994,14 @@
   "SK하이닉스,솔리다임美상장설…'주주반발'·'자금조달'딜레마",
   "\"2028년엔더부족\"…마이크론까지'공급자우위',메모리상승국면계...",
   "NC·SK가스·리노공업[하나證주간추천주]",
-  "모더나,바이돌법방어무산…LNP특허침해본안심리오른다"
+  "모더나,바이돌법방어무산…LNP특허침해본안심리오른다",
+  "서학개미,마이크론순매수2위…SK하이닉스ADR은팔았다",
+  "\"63조더걷혔다\"…'세수풍년'",
+  "최태원,SK㈜지분9440억매각…재산분할자금마련",
+  "\"삼전·하닉80%담았는데어쩌죠?\"…목표주가만믿었다간",
+  "AI낙관론에글로벌증시펀드2주째순유입…기술주'숨고르기'속자금...",
+  "[온체인주식선물]삼성전자,정규장종가보다1.76%웃돈",
+  "건설안전·서울집값·LH개편…국토위국감'3대쟁점'"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,33 @@
   [
    "2026-10-03T08:31:07.399714+09:00",
    "방어 침해 바이돌법 본안 특허 무산 모더나 오른다 심리 LNP"
+  ],
+  [
+   "2026-10-03T08:41:00.871212+09:00",
+   "세수 풍년 걷혔다 63조"
+  ],
+  [
+   "2026-10-03T08:41:00.871212+09:00",
+   "자금 지분 최태원 9440억 매각 마련 재산분할"
+  ],
+  [
+   "2026-10-03T08:41:00.871212+09:00",
+   "삼전 하닉 믿었다간 목표주가만 담았는데 어쩌죠"
+  ],
+  [
+   "2026-10-03T08:41:00.871212+09:00",
+   "낙관론에 증시 글로벌 기술주 AI 순유입 자금 2주째 숨고르기 펀드"
+  ],
+  [
+   "2026-10-03T08:41:00.871212+09:00",
+   "삼성전자 웃돈 정규장 종가보다"
+  ],
+  [
+   "2026-10-03T08:41:00.871212+09:00",
+   "쟁점 개편 LH 건설안전 국감 서울 3대 집값 국토위"
   ]
  ],
- "last_run": "2026-10-03T08:31:16.756485+09:00",
+ "last_run": "2026-10-03T08:41:20.114417+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
