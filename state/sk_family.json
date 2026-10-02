@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260901106900005?input=1195m",
   "http://www.inews24.com/view/2000293",
   "https://www.munhwa.com/article/11609931",
   "https://www.newsis.com/view/NISX20260817_0003751570",
@@ -2999,10 +2998,10 @@
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077273",
   "https://www.thepublic.kr/news/articleView.html?idxno=321021",
   "https://dhnews.co.kr/news/view/1065591826053541",
-  "http://www.yonhapnewstv.co.kr/news/MYH2026100117452138h"
+  "http://www.yonhapnewstv.co.kr/news/MYH2026100117452138h",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=728741"
  ],
  "seen_titles": [
-  "[패트롤]인천시-인천시의회-인천시교육청-인천관광공사-인천문화재단",
   "세종시의회안신일의장,국회서'지방의회법'연내제정촉구",
   "서까래가로지른유리구슬거미줄…한옥에쌓인삶의시간",
   "[최태원의선택①]38세에SK지휘봉…28년만에'AI제국'으로",
@@ -6001,7 +6000,8 @@
   "박종혁의장민주당당대표에지방의회법연내제정건의",
   "최형두\"KIST60년·국책연구기관50년,박정희·정주영·이건희가세운...",
   "영남대‘K-콘텐츠로배우는한국문화’,블루리본강좌선정",
-  "[CEO풍향계]'뉴욕깐부회동'이재용…'국방AI강화'김승연"
+  "[CEO풍향계]'뉴욕깐부회동'이재용…'국방AI강화'김승연",
+  "부품기지이자큰손고객…엔비디아·AMD격전지된한국"
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-10-02T15:20:13.339534+09:00",
    "뉴욕 강화 깐부회동 이재용 김승연 국방AI"
+  ],
+  [
+   "2026-10-02T15:40:15.363622+09:00",
+   "AMD 부품 기지이자 큰손 고객 한국 격전지 엔비디아"
   ]
  ],
- "last_run": "2026-10-02T15:30:34.610261+09:00",
+ "last_run": "2026-10-02T15:40:26.662958+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
