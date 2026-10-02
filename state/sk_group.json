@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026093055551",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437270",
-  "https://www.koreatimes.co.kr/path/A2026093015050004291",
   "https://www.newspim.com/news/view/20260930001177",
   "https://www.newspenguin.com/news/articleView.html?idxno=22247",
   "https://biz.chosun.com/it-science/ict/2026/10/01/PAEGD2BQEZFRXEEUG3H3EBPHBA/",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20261002_0003813226",
   "https://www.joongang.co.kr/article/25466855",
   "https://www.dailian.co.kr/news/view/1697471/?sc=Naver",
-  "https://www.khan.co.kr/article/202610030600121"
+  "https://www.khan.co.kr/article/202610030600121",
+  "https://www.ngetnews.com/news/articleView.html?idxno=554019",
+  "https://www.mk.co.kr/article/12167670",
+  "https://www.kpanews.co.kr/news/articleView.html?idxno=545514"
  ],
  "seen_titles": [
-  "암참·대한상의,韓기업미국진출돕는다…실무노하우공유",
-  "[더벨][thebellLeagueTable|2026년3분기]격차확벌린NH증권,DCM1위...",
-  "\"수출만해선기회놓친다\"…美파고든韓기업의'현지화'공식",
   "AI솔루션기업'올거나이즈'日증시입성",
   "\"자회사상장땐ADR가치하락\"…SK하이닉스는이미경고했다",
   "AMCHAM,KCCIurgeKoreanfirmstoseizeUSopportunities",
@@ -6001,7 +5998,10 @@
   "물가2.9%로꺾였다?통신비착시걷히니오름세여전",
   "“내년의대합격컷넘을것”…삼전닉스학과선배들의꿀팁",
   "통신3사,10월멤버십혜택경쟁…AI맞춤형부터테마파크할인까지",
-  "증권사리포트97%는“사라”…익명보고서가효과있을까[경제뭔데]"
+  "증권사리포트97%는“사라”…익명보고서가효과있을까[경제뭔데]",
+  "정유4사대표공정위국감총출동…주유방식·거래관행도마",
+  "“손절엄두안나서가지고있었는데”…코스닥,반도체소부장타고...",
+  "약국90%연결한바로팜,이제'수익화'로간다"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,21 @@
   [
    "2026-10-03T06:11:08.463679+09:00",
    "보고서가 증권사 익명 리포트 있을까 사라 효과"
+  ],
+  [
+   "2026-10-03T06:31:15.721643+09:00",
+   "도마 4사 주유 국감 대표 총출동 거래관행 방식 정유 공정위"
+  ],
+  [
+   "2026-10-03T06:31:15.721643+09:00",
+   "타고 엄두 반도체 있었는데 코스닥 손절 나서 가지고 소부장"
+  ],
+  [
+   "2026-10-03T06:31:15.721643+09:00",
+   "약국 바로팜 수익화 간다 이제 연결한"
   ]
  ],
- "last_run": "2026-10-03T06:21:04.141724+09:00",
+ "last_run": "2026-10-03T06:31:26.982580+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
