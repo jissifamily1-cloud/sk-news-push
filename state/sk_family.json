@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260902000797",
-  "https://www.khan.co.kr/article/202609162032035",
   "https://www.polinews.co.kr/news/articleView.html?idxno=743349",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1537690",
   "https://www.m-i.kr/news/articleView.html?idxno=1410152",
@@ -2999,11 +2997,11 @@
   "https://sjbnews.com/news/news.php?number=887743",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065616",
   "https://www.hankyung.com/article/2026091692781",
-  "https://www.dailian.co.kr/news/view/1697436/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1697436/?sc=Naver",
+  "https://www.news2day.co.kr/article/20261002500200",
+  "https://www.dailian.co.kr/news/view/1697469/?sc=Naver"
  ],
  "seen_titles": [
-  "SK하이닉스·인텔동반상승…\"美서메모리생산협의\"",
-  "SK하이닉스,인텔과美메모리협력설에\"확정된바없다\"",
   "이대통령,중앙아와'新실크로드'…핵심광물·인프라협력",
   "한-중앙아,'비즈니스서밋공동선언'채택…협력MOU19건체결",
   "“SK하닉-인텔,미국서메모리생산협상중”",
@@ -6001,15 +5999,21 @@
   "고창군,‘고창소작답양도제39주년기념식’성황리개최",
   "[찐검승부㉑-❷]유니시티'팀유니시티'…5개프로구단후원,팬접점...",
   "한옥천장에가득한'구슬과철선의거미줄'",
-  "野수적열세에주요증인채택줄줄이불발…'맹탕국감'현실화되나"
+  "野수적열세에주요증인채택줄줄이불발…'맹탕국감'현실화되나",
+  "[N2포커스]야구대신핸드볼·펜싱키운최태원…‘사회적가치경영...",
+  "젠슨황만난이재용·최태원,日양궁장찾은정의선,이지스함띄운..."
  ],
  "recent_sigs": [
   [
    "2026-10-03T06:10:15.994384+09:00",
    "줄줄이 수적 주요 열세에 국감 현실화되나 불발 맹탕 증인채택"
+  ],
+  [
+   "2026-10-03T07:10:13.855470+09:00",
+   "양궁장 이재용 젠슨 만난 정의선 찾은 이지스함 띄운"
   ]
  ],
- "last_run": "2026-10-03T07:00:42.182228+09:00",
+ "last_run": "2026-10-03T07:10:25.876955+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
