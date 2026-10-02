@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260930_0003809220",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880076",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253481",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16229526",
-  "https://www.newsis.com/view/NISX20260930_0003808711",
-  "https://www.thelec.kr/news/articleView.html?idxno=63033",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260930010010811",
   "https://www.dailian.co.kr/news/view/1696337/?sc=Naver",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145073",
@@ -2999,15 +2993,15 @@
   "https://www.jbnews.com/news/articleView.html?idxno=1512747",
   "http://www.inews24.com/view/2011390",
   "https://www.tokenpost.kr/news/blockchain/417398",
-  "https://www.topdaily.kr/articles/112199"
+  "https://www.topdaily.kr/articles/112199",
+  "http://www.beyondpost.co.kr/view.php?ud=2026100212445510972aaae0046f_30",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476588",
+  "http://www.popcornnews.net/news/articleView.html?idxno=134830",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96411",
+  "https://www.yna.co.kr/view/AKR20261002089200008?input=1195m",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88408"
  ],
  "seen_titles": [
-  "과징금에집단배상까지겹치나…집단소송법두고\"기업책임예측불가...",
-  "알체라,10월6~8일'AIFESTA26'월드모델특별관참가…\"FromDataToRea...",
-  "SK이노베이션주가,9월30일148,800원1.99%상승",
-  "내년HBM평균가격2배전망…삼성·닉스증산에도공급빠듯",
-  "배경훈\"독파모계속된다\"…프론티어AI개발도병행",
-  "인천송도‘K-바이오랩허브’첫삽…2240억대형프로젝트개막",
   "3거래일연속하락한코스피,美금리부담에투심제한[시황]",
   "건설업계,유동성위기봉착...'앞으로벌고뒤로밑지고'",
   "전국집값양극화사상최대…'서울만평탄화'의역설",
@@ -6001,17 +5995,15 @@
   "중부권최대108만평규모아산탕정2신도시착공",
   "추석하도급대금조기지급2.2조전년比22%↓...계룡건설1위",
   "[로빈후드온체인]마이크론토큰12만달러어치가줄어...후디지갑3만...",
-  "친환경접는SK에코플랜트,마지막퍼즐성주테크"
+  "친환경접는SK에코플랜트,마지막퍼즐성주테크",
+  "삼성전자자사주300만주더매입할듯...공시물량(5328만주)계획대비...",
+  "SK바이오팜,美세일즈조직재정비…다품종전환속도",
+  "[현장]망은통신3사가쥐고,가입자절반은계열사가차지…알뜰폰\"...",
+  "[정유담합의덫②]대법원서도깨진'리니언시'…공정위'수천억제재...",
+  "KB증권\"4분기메모리가격두자릿수상승…가속구간진입\"",
+  "영란은행총재\"AI투자열풍\"경고VS블랙록CEO\"AI버블없다\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-02T06:51:20.920018+09:00",
-   "실적이 반도체 기대 버팀목 발작에도 코스피 선전 금리"
-  ],
-  [
-   "2026-10-02T06:51:20.920018+09:00",
-   "이란 폭격설에 급등했는데 유가 SK하이닉스 AD"
-  ],
   [
    "2026-10-02T07:01:18.298076+09:00",
    "덮친 채권 급등 국채금리 쇼크 세계"
@@ -6903,9 +6895,25 @@
   [
    "2026-10-02T12:51:13.496019+09:00",
    "마지막 SK에코플랜트 퍼즐 친환경 접는 성주테크"
+  ],
+  [
+   "2026-10-02T13:01:18.013143+09:00",
+   "통신 3사가 절반은 가입자 망은 계열사가 차지 알뜰폰 쥐고"
+  ],
+  [
+   "2026-10-02T13:01:18.013143+09:00",
+   "제재 깨진 리니언시 수천억 대법원서도 공정위"
+  ],
+  [
+   "2026-10-02T13:01:18.013143+09:00",
+   "4분기 KB증권 진입 가속구간 메모리 두자릿수 가격 상승"
+  ],
+  [
+   "2026-10-02T13:01:18.013143+09:00",
+   "블랙록 VS 열풍 AI투자 없다 경고 버블 CEO 총재 AI 영란은행"
   ]
  ],
- "last_run": "2026-10-02T12:51:24.475091+09:00",
+ "last_run": "2026-10-02T13:01:31.639476+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
