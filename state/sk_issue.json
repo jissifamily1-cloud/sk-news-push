@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1125619",
-  "https://www.etoday.co.kr/news/view/2628897",
-  "https://www.ajunews.com/view/20260923091357990",
-  "https://biz.chosun.com/policy/policy_sub/2026/09/23/FGQM76EKHFGTND27LHNQQEHBQQ/",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8670221",
   "https://biz.heraldcorp.com/article/10882918",
   "https://www.mt.co.kr/economy/2026/09/23/2026092308241818367",
@@ -2999,13 +2995,13 @@
   "https://www.pressian.com/pages/articles/2026100211572517144",
   "https://www.nocutnews.co.kr/news/6586473",
   "https://www.fnnews.com/news/202610021142532633",
-  "https://www.newsis.com/view/NISX20261002_0003812433"
+  "https://www.newsis.com/view/NISX20261002_0003812433",
+  "http://www.4th.kr/news/articleView.html?idxno=2119079",
+  "https://www.insight.co.kr/news/576305",
+  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166588",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043280"
  ],
  "seen_titles": [
-  "담합자진신고,조사전후혜택달라진다…반복담합감면도강화",
-  "담합조사뒤첫신고도과징금25%낸다…‘전액면제’축소추진",
-  "담합조사후자진신고하면과징금면제없다…75%감경으로축소",
-  "공정위조사시작후담합자진신고,과징금감면최대100%→75%하향",
   "공정위,담합조사뒤자진신고혜택축소…반복담합제재도강화",
   "조사시작되면‘담합자수’해도과징금…반복담합감면도축소",
   "공정위,자진신고시점따라과징금감경수준차등화한다",
@@ -6001,10 +5997,14 @@
   "심덕섭고창군수정치자금관련고창군체육회장압수수색",
   "심덕섭군수'금품수수'의혹…경찰,고창군체육회압수수색",
   "'절제'내세운중수청,'대행체제'로출범…\"더정확한수사약속\"",
-  "'중수청개청'전종민차장\"지난날의과오거울삼고하루빨리조직안..."
+  "'중수청개청'전종민차장\"지난날의과오거울삼고하루빨리조직안...",
+  "[유통소식]롯데마트·슈퍼,'청년농부팝업스토어'",
+  "호반그룹,사장단인사...김대헌사장이사회의장·송종민부회장건설...",
+  "소아응급센터압수수색에국회도우려\"환자안전최우선해야\"",
+  "소아응급실압수수색파장…의협\"전대미문,집행경위밝혀라\""
  ],
  "recent_sigs": [],
- "last_run": "2026-10-02T13:20:54.411201+09:00",
+ "last_run": "2026-10-02T13:31:00.050221+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
