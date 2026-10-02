@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12154564",
-  "https://www.dailian.co.kr/news/view/1691311/?sc=Naver",
   "http://www.econonews.co.kr/news/articleView.html?idxno=444450",
   "https://www.sedaily.com/article/20091782",
   "https://news.unn.net/news/articleView.html?idxno=597602",
@@ -2999,11 +2997,11 @@
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53394",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855526",
   "https://www.cbci.co.kr/news/articleView.html?idxno=612042",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117685"
+  "https://www.businessplus.kr/news/articleView.html?idxno=117685",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609160468&t=NNv",
+  "https://www.sedaily.com/article/20097796"
  ],
  "seen_titles": [
-  "SK하이닉스,인텔과미국서메모리직접생산협상…\"다양한선택지검...",
-  "\"SK하이닉스,인텔과美현지서첫메모리생산논의\"",
   "SK하이닉스·인텔,미국메모리반도체생산협력논의…확정사항은없...",
   "\"중앙亞와새30년을실크로드정신절실\"",
   "SMR부터수소환원제철까지…SK·포스코·한화·한난,기후산업박람회서...",
@@ -6001,7 +5999,9 @@
   "최태원회장선보인주식수익스왑…증권사어떤이득",
   "[인천소식]인천경실련'후원의밤'·인천시'하나금융타운'완성-'주택...",
   "이병철,불멸의총수8개월연속1위…구본무6위상승속접전지속[9월...",
-  "[이슈+]최태원SK회장,재산분할대비SK㈜지분9440억원매각키로"
+  "[이슈+]최태원SK회장,재산분할대비SK㈜지분9440억원매각키로",
+  "증설중단에가격인상…중국ESS'저가공세'막힌다",
+  "한투,최태원회장PRS조달지원…4000억전량인수[시그널]"
  ],
  "recent_sigs": [
   [
@@ -6113,7 +6113,7 @@
    "선보인 증권사 이득 회장 어떤 주식수익스왑"
   ]
  ],
- "last_run": "2026-10-02T19:00:38.855194+09:00",
+ "last_run": "2026-10-02T19:10:24.853299+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
