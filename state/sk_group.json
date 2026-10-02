@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260930_0003809265",
-  "https://www.g-enews.com/view.php?ud=202609301550083211923c501012_1",
-  "https://www.newspim.com/news/view/20260930001065",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=665584",
   "http://www.datanews.co.kr/news/article.html?no=146715",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145079",
@@ -2999,12 +2996,12 @@
   "https://www.news2day.co.kr/article/20261002500185",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=255681",
   "https://www.newspim.com/news/view/20261001000905",
-  "https://www.asiatime.co.kr/article/20261002500123"
+  "https://www.asiatime.co.kr/article/20261002500123",
+  "https://www.huffingtonpost.kr/article/260956",
+  "https://cn.asiatoday.co.kr/view.php?key=20261002001308559",
+  "https://byline.network/?p=9004111222622146"
  ],
  "seen_titles": [
-  "코스피,‘전강후약’6830선마감…사흘째하락",
-  "[마감시황]코스피,외인2.3조순매도에0.48%↓…코스닥은0.72%↑",
-  "코스피,외인·기관매도에6830선하락",
   "HL디앤아이한라,청주신분평에피트더웨이시티10월분양",
   "코스피,대외경계감확산에0.5%내린6838마감...3분기20%하락",
   "롯데,신사업삼각편대‘AI소재·청정수소·바이오’키운다",
@@ -6001,7 +5998,10 @@
   "[10월2일고용24채용정보]우성·세스코·SK케미칼·에스디바이오센서...",
   "디제잉에게임·생방송까지…대기업'펀마케팅'으로인재잡는다",
   "파생결합잔액96.7조원…3년만에최고",
-  "김미경수원시의장\"수원대전환,시민삶으로이어져야\"…시의회정책..."
+  "김미경수원시의장\"수원대전환,시민삶으로이어져야\"…시의회정책...",
+  "SK바이오팜이동훈미국세일즈직원들에게'원팀'강조:\"멀티프로덕...",
+  "韩银：10月物价涨幅约3%核心物价持续上涨",
+  "에스케이팩,피지컬AI자율제조국제공동R&D과제선정"
  ],
  "recent_sigs": [
   [
@@ -6879,9 +6879,17 @@
   [
    "2026-10-02T13:11:01.964643+09:00",
    "삶으로 수원시의장 수원대전환 이어져야 시의회 김미경 정책 시민"
+  ],
+  [
+   "2026-10-02T13:21:03.567323+09:00",
+   ""
+  ],
+  [
+   "2026-10-02T13:21:03.567323+09:00",
+   "에스케이팩 자율제조 선정 과제 국제공동 피지컬 AI"
   ]
  ],
- "last_run": "2026-10-02T13:11:28.274682+09:00",
+ "last_run": "2026-10-02T13:21:13.168869+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
