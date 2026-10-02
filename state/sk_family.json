@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260915001276",
-  "https://news.tf.co.kr/read/economy/2366297.htm",
   "https://www.mediapen.com/news/view/1123801",
   "http://www.fieldnews.kr/news/articleView.html?idxno=31550",
   "https://www.ajunews.com/view/20260915175709788",
@@ -2999,11 +2997,11 @@
   "https://www.mk.co.kr/article/12166681",
   "https://magazine.hankyung.com/business/article/202609303247b",
   "https://www.slist.kr/news/articleView.html?idxno=770392",
-  "https://www.banronbodo.com/news/articleView.html?idxno=33105"
+  "https://www.banronbodo.com/news/articleView.html?idxno=33105",
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=912828",
+  "https://swtvnews.com/news/newsview.php?ncode=1065570101026543"
  ],
  "seen_titles": [
-  "남종섭의장,이해식국회행안위간사만나'지방의회법제정촉구건...",
-  "안신일의장국회찾아지방의회법연내제정촉구",
   "이해식의원만난안신일세종시의장,'지방의회법'연내제정촉구",
   "노소영법률대리인이상원,'1000억지출'거짓알고도유포했나",
   "최태원·노소영,‘1000억원’공방...“실제론20억원,50배뻥튀기”...",
@@ -6001,7 +5999,9 @@
   "“이재용·최태원이개미살리러온다”…300조실적으로박스권뚫나",
   "대중은잘몰랐던7兆부자…2조5500억재산분할권혁빈은누구",
   "최태원SK회장·재닛옐런·소피마르소...'위대한수업6'역대최대50...",
-  "[주간기업동향]정기선HD현대회장,차세대이지스함건조역량강조..."
+  "[주간기업동향]정기선HD현대회장,차세대이지스함건조역량강조...",
+  "아산교육청,(가칭)아산탕정2고신축공사착공식개최",
+  "노벨상수상자부터국내석학까지…EBS‘위대한수업’시즌6,12일첫..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,13 @@
   [
    "2026-10-02T08:10:13.603422+09:00",
    "강조 건조 HD현대 역량 정기선 차세대 회장 이지스함"
+  ],
+  [
+   "2026-10-02T09:01:04.847857+09:00",
+   "수업 석학까지 위대한 국내 시즌 노벨상 수상자부터 EBS 12일"
   ]
  ],
- "last_run": "2026-10-02T08:50:26.759119+09:00",
+ "last_run": "2026-10-02T09:01:21.960778+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6381,6 +6385,7 @@
   "nongmin.com": "농민신문",
   "sisafocus.co.kr": "시사포커스",
   "kmaeil.com": "경인매일",
-  "e2news.com": "이투뉴스"
+  "e2news.com": "이투뉴스",
+  "swtvnews.com": "swtvnews.com"
  }
 }
