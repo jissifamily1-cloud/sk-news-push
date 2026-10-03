@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newslock.co.kr/news/articleView.html?idxno=137243",
-  "https://www.fnnews.com/news/202610010937436924",
-  "https://www.ddaily.co.kr/page/view/2026100110321706770",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880141",
-  "https://sateconomy.co.kr/news/view/1065576357477093",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312295",
   "https://www.hankyung.com/article/202609304757r",
   "http://www.breaknews.com/1240290",
   "https://www.sisajournal.com/news/articleView.html?idxno=388836",
@@ -2999,15 +2993,15 @@
   "http://www.inews24.com/view/2011397",
   "https://economist.co.kr/article/view/ecn202609280039",
   "https://www.yna.co.kr/view/AKR20261003045000001?input=1195m",
-  "https://basketkorea.com/news/newsview.php?ncode=1065615706487587"
+  "https://basketkorea.com/news/newsview.php?ncode=1065615706487587",
+  "https://www.ikbc.co.kr/article/view/kbc202610040004",
+  "http://www.kjdaily.com/article.php?aid=1791065291688202276",
+  "https://www.g-enews.com/view.php?ud=202610040630482231fbbec65dfb_1",
+  "https://www.vegannews.co.kr/news/article.html?no=391217",
+  "https://www.newsway.co.kr/news/view?ud=2026100209533109534",
+  "http://www.kjdaily.com/article.php?aid=1791064172688201276"
  ],
  "seen_titles": [
-  "\"55년보안전문성입증\"…ADT캡스,고객만족도정상",
-  "회계자문삼일6분기연속1위…안진,삼정과초접전끝2위[2026년3분기...",
-  "정부,막힌투자7.9조푼다…현대차전동화인허가3년→1년",
-  "SKAX,'AI부트캠프바이브'출시...비개발자도AI에이전트만든다",
-  "가스전·선박·발전소묶었다…SK이노E&S,LNG변동성대응총력",
-  "SK하이닉스,솔리다임'중복상장우려'일축…\"결정된바없어·주주가...",
   "SK텔레콤,고객신뢰로이동통신1위달성한비결은?",
   "[국감쟁점]국감증인석엇갈린유통가…CJ제일제당·MBK나오고GS리테...",
   "[2026국감]대기업취업해도비정규직…청년10명중6명'불안한첫발'",
@@ -6001,7 +5995,13 @@
   "한화가쏘아올린'가을인사'…LG도이달성과보고돌입",
   "AI로뚫고AI로막는다…해킹도‘AI전쟁’",
   "李정부2년차국감개막…'민생우선'vs'실정검증'충돌예고",
-  "[게임리포트]‘시즌1호매진’소노,개막전스타팅에담긴특별한의..."
+  "[게임리포트]‘시즌1호매진’소노,개막전스타팅에담긴특별한의...",
+  "한달간코스피서20조판외인…삼전·하이닉스보유율하락",
+  "외국인코스피20조원팔았다…SK하이닉스·삼성전자에17조원집중",
+  "반도체훈풍이만든9440억…최태원SK지분매각에쏠린중국시선",
+  "한국투자증권,SK주식4000억원어치취득결정",
+  "방개수대신'층고'로승부수...수도권아파트설계기준이바뀐다",
+  "마이크론34조투자에도D램공급부족…증산효과는2028년부터"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,25 @@
   [
    "2026-10-04T07:04:00.501756+09:00",
    "1호 소노 특별한 시즌 매진 담긴 스타팅에 개막전"
+  ],
+  [
+   "2026-10-04T07:21:00.733618+09:00",
+   "주식 4000억원어치 취득 결정 한국투자증권"
+  ],
+  [
+   "2026-10-04T07:21:00.733618+09:00",
+   "반도체 시선 쏠린 중국 9440억 훈풍이 지분 최태원 만든 매각에"
+  ],
+  [
+   "2026-10-04T07:21:00.733618+09:00",
+   "층고 기준이 대신 승부수 개수 아파트 설계 수도권 바뀐다"
+  ],
+  [
+   "2026-10-04T07:21:00.733618+09:00",
+   "2028년부터 D램 마이크론 34조 공급부족 효과는 증산 투자에도"
   ]
  ],
- "last_run": "2026-10-04T07:13:48.531783+09:00",
+ "last_run": "2026-10-04T07:21:15.657838+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
