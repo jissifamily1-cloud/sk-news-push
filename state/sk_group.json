@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261001_0003810159",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437315",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=312292",
   "http://www.newswatch.kr/news/articleView.html?idxno=81183",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276558",
@@ -2999,11 +2997,11 @@
   "http://www.kjdaily.com/article.php?aid=1791064172688201276",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000070759",
   "https://www.segye.com/newsView/20261003500119?OutUrl=naver",
-  "https://www.g-enews.com/view.php?ud=2026100407122722712bd56fbc3c_1"
+  "https://www.g-enews.com/view.php?ud=2026100407122722712bd56fbc3c_1",
+  "https://www.segye.com/newsView/20261002512830?OutUrl=naver",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96495"
  ],
  "seen_titles": [
-  "김앤장독주속'광·태'급부상…대기업·해외딜이판갈랐다[2026년3...",
-  "최수진의원“서남권반도체예산,대기업직원주거비2000억편성”",
   "SK가EX알뜰보다평균142원비싸…서울'알뜰'단10곳",
   "희비엇갈린3분기…반도체·유통·증권株↓운송·정유株↑",
   "[예능에숨은투자상품]단타·물타기주식놀이화'눈살'",
@@ -6001,7 +5999,9 @@
   "마이크론34조투자에도D램공급부족…증산효과는2028년부터",
   "\"이재명정부2년차국감막오른다\"…여야,총력전예고",
   "삼전·하이닉스자사주매입10월종료…코스피앞날은?",
-  "LG엔솔,메르세데스에46100원통형배터리공급추진…2028년인도목표"
+  "LG엔솔,메르세데스에46100원통형배터리공급추진…2028년인도목표",
+  "‘풍향계’마이크론은메모리순풍예고,삼전닉스영업익180조다가간...",
+  "삼성전자,분기영업익100조시대눈앞…'K-메모리슈퍼사이클'어디까..."
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-10-04T07:31:09.340940+09:00",
    "목표 LG엔솔 메르세데스에 원통형 인도 2028년 공급 배터리"
+  ],
+  [
+   "2026-10-04T07:40:58.169271+09:00",
+   "메모리 시대 슈퍼사이클 영업익 눈앞 분기 100조 삼성전자 어디까"
   ]
  ],
- "last_run": "2026-10-04T07:31:16.193530+09:00",
+ "last_run": "2026-10-04T07:41:04.682601+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
