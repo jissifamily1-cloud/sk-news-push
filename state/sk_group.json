@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445109",
-  "https://www.kyeongin.com/article/1771813",
-  "https://www.namdonews.com/news/articleView.html?idxno=924920",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880138",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253497",
   "https://www.betanews.net/article/view/beta202610010030",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1726365",
   "https://www.tfmedia.co.kr/news/article.html?no=207625",
@@ -2999,14 +2994,14 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20261004062904eSb",
   "https://biz.heraldcorp.com/article/10892101",
   "https://www.news1.kr/society/court-prosecution/6309925",
-  "https://www.yna.co.kr/view/AKR20261002179200008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261002179200008?input=1195m",
+  "https://www.dt.co.kr/article/12087264",
+  "https://www.kbmaeil.com/article/20261004500010",
+  "https://www.news2day.co.kr/article/20261003500006",
+  "https://www.kbmaeil.com/article/20261004500013",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610040001&t=NN"
  ],
  "seen_titles": [
-  "SK에너지,고객만족도조사주유소부문16년연속1위",
-  "SK에너지휘발유가장비싸…EX알뜰가장저렴",
-  "SK이터닉스주가,10월1일장중48,800원1.11%하락",
-  "SK하이닉스\"솔리다임자본활용방안결정된것없어…주주가치최우선...",
-  "SK인천석유화학정기보수실시,안전확보와주민불편최소화",
   "[특징주]에이팩트,SK하이닉스패키징외주확대기대에10.19%올라…후...",
   "SK텔레콤자급제'에어',1주년기념초특가프로모션으로인기폭발",
   "SKT,AI가제안한콘셉트로10월T멤버십혜택구성…'AI위크'운영",
@@ -6001,7 +5996,12 @@
   "외국인,한달간코스피서20조매도…비중삼전46%·닉스49%대",
   "메모리‘오징어게임’벌어지나…美싱크탱크의‘메모리공급과잉’...",
   "李대통령고발?내란특수본?…중수청'1호수사'시험대",
-  "반도체설비투자확대로공급확대?\"내후년하반기는돼야\""
+  "반도체설비투자확대로공급확대?\"내후년하반기는돼야\"",
+  "외국인,한달간20조폭풍순매도…삼전닉스보유율‘뚝’",
+  "삼성전자실적앞둔코스피…반도체훈풍에‘7000피’지킬까",
+  "[재계인사이드]최태원회장의재상고심,사실상‘SK실트론재판’",
+  "외국인한달새20조팔았다…삼성전자·SK하이닉스에매도집중",
+  "삼성전자보다'2배'넘게던졌다…외인지분율50%무너진‘이종목’"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,21 @@
   [
    "2026-10-04T06:41:02.132625+09:00",
    "내후년 확대 확대로 하반기는 돼야 반도체 공급 설비투자"
+  ],
+  [
+   "2026-10-04T06:58:58.630960+09:00",
+   "최태원 SK실트론 재상고심 회장의 재판 사실상"
+  ],
+  [
+   "2026-10-04T06:58:58.630960+09:00",
+   "SK하이닉스에 20조 삼성전자 팔았다 집중 매도 외국인"
+  ],
+  [
+   "2026-10-04T06:58:58.630960+09:00",
+   "넘게 삼성전자보다 2배 지분율 종목 무너진 던졌다 외인"
   ]
  ],
- "last_run": "2026-10-04T06:41:13.125043+09:00",
+ "last_run": "2026-10-04T06:59:09.874937+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
