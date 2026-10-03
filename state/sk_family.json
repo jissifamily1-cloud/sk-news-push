@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01961446645581104&mediaCodeNo=257",
-  "https://shindonga.donga.com/3/all/13/6287857/1",
-  "https://www.usmbc.co.kr/NewsArticle/862830",
-  "https://www.usmbc.co.kr/NewsArticle/862831",
-  "https://www.koreadaily.com/article/20260818215438596",
   "http://www.doctorstimes.com/news/articleView.html?idxno=239549",
   "https://www.namdonews.com/news/articleView.html?idxno=920457",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285217",
@@ -2999,14 +2994,14 @@
   "https://view.asiae.co.kr/article/2026090409535154706",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483777",
   "https://www.news1.kr/industry/sb-founded/6279743",
-  "https://www.yna.co.kr/view/AKR20260904037600030?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260904037600030?input=1195m",
+  "https://www.donga.com/news/Culture/article/all/20260917/134684622/2",
+  "https://www.mk.co.kr/article/12150273",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512574",
+  "https://www.news1.kr/society/court-prosecution/6309669",
+  "https://www.newsis.com/view/NISX20261002_0003813152"
  ],
  "seen_titles": [
-  "최태원회장,'김희영에1000억'발언다시다툰다…불기소불복항고",
-  "인텔·SK하이닉스,미국생산협의설에동반상승",
-  "SK이노,AI시대겨냥'통합에너지솔루션'공개",
-  "9만명자동차공동파업...생산·수출대란",
-  "고전주의·인상주의매력'홀릭'대구시향,19일콘서트하우스",
   "인재위해심은'자작나무의숲'…거대한탄소저장고로대전환",
   "생각과질문을끌어내는공간,수원지관서가를가다",
   "끝나지않는'소통'논란‥협치는언제?",
@@ -6001,10 +5996,24 @@
   "\"중소벤처기업·투자자함께성장하는코스닥시장제도개선방안마련...",
   "중기중앙회,코스닥진입·성장·퇴출개선제안",
   "\"코스닥활성화핵심은자본배분기능회복…상폐기준차등화필요\"",
-  "코스닥활성화하려면…\"상장부담낮추고퇴출기준정교하게\""
+  "코스닥활성화하려면…\"상장부담낮추고퇴출기준정교하게\"",
+  "한옥천장에매달린거대한‘유리거미줄’",
+  "세계의미각홀리다…취향저격K농업[스페셜리포트]",
+  "[단독]SK3세최성환,100%개인회사설립…‘AI플랫폼’사업판키우...",
+  "'검찰'지운공소청,90일유예기간MBK등막판수사총력",
+  "[국감전운]②증인채택부터팽팽한신경전…김현지·김용범에이재용·..."
  ],
- "recent_sigs": [],
- "last_run": "2026-10-04T06:00:42.072513+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-04T06:10:14.099596+09:00",
+   "신경전 김용범에 김현지 팽팽한 이재용 증인 채택부터"
+  ],
+  [
+   "2026-10-04T06:10:14.099596+09:00",
+   "지운 총력 MBK 공소청 막판 90일 검찰 수사 유예기간"
+  ]
+ ],
+ "last_run": "2026-10-04T06:10:28.205077+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
