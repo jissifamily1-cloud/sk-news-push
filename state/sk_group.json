@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.besteleven.com/news/articleView.html?idxno=312706",
-  "https://www.yna.co.kr/view/AKR20261001047100054?input=1195m",
   "https://isplus.com/article/view/isp202610010052",
   "https://www.etnews.com/20261001000108",
   "https://www.cnbnews.com/news/articleView.html?idxno=1017633",
@@ -2999,11 +2997,11 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=552537",
   "https://www.g-enews.com/view.php?ud=202610031215433797fbbec65dfb_1",
   "https://www.g-enews.com/view.php?ud=20261003120528568fbbec65dfb_1",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=814906"
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=814906",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/03/2026100390035.html",
+  "https://biz.heraldcorp.com/article/10892468"
  ],
  "seen_titles": [
-  "보안뚫린플랫폼에칼빼든국회…IT·통신수장들국감줄소환",
-  "신흥주거타운조성되는울산야음동…'힐스테이트선암호수공원'주목",
   "[마켓인]“韓기관투자가절반,향후1년내인프라투자확대계획”",
   "재계약소식없는리버풀주장,차기행선지는마드리드?…레알,반다이...",
   "민형배\"군공항이전빨라지면반도체팹공기2년확보\"",
@@ -6001,7 +5999,9 @@
   "최근5거래일SK이터닉스4만원대마감소폭상승",
   "핫도그값지키던유통공룡도백기…메모리폭등에연말가전덮친'칩...",
   "10년물국채5%뚫은AI와석유…빅테크와정유주만웃었다",
-  "[이슈]SK쉴더스,국내최초AWS'위협탐지·대응'컴피턴시획득"
+  "[이슈]SK쉴더스,국내최초AWS'위협탐지·대응'컴피턴시획득",
+  "최태원동거인김희영,뉴욕기업무대등장…재산분할후첫동행",
+  "오건영“금리오르면큰일?이생각낭패…투자포트폴리오AI로향해야..."
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,13 @@
   [
    "2026-10-03T12:21:03.009312+09:00",
    "AWS 국내 위협 탐지 SK쉴더스 획득 대응 컴피턴시"
+  ],
+  [
+   "2026-10-03T12:31:07.403736+09:00",
+   "낭패 오건영 AI로 생각 포트폴리오 투자 큰일 금리 향해야 오르면"
   ]
  ],
- "last_run": "2026-10-03T12:21:11.495049+09:00",
+ "last_run": "2026-10-03T12:31:13.198233+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
