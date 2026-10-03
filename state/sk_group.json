@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/economy_general/1280334.html",
-  "https://www.yna.co.kr/view/AKR20261001043100017?input=1195m",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=301871",
   "https://www.ddaily.co.kr/page/view/2026100109285375628",
   "https://www.joongangenews.com/news/articleView.html?idxno=551770",
   "https://news.tf.co.kr/read/economy/2371694.htm",
@@ -2999,12 +2996,12 @@
   "http://www.metroseoul.co.kr/article/20261003500003",
   "https://biz.heraldcorp.com/article/10892431",
   "https://kstar.kbs.co.kr/list_view.html?idx=411161",
-  "https://www.mediapen.com/news/view/1127681"
+  "https://www.mediapen.com/news/view/1127681",
+  "https://www.sedaily.com/article/20097553",
+  "https://www.newsis.com/view/NISX20261002_0003812872",
+  "https://news.bizwatch.co.kr/article/healthcare/2026/10/02/0009"
  ],
  "seen_titles": [
-  "마이크론호실적불구,고금리와싸움…삼전닉스보합권[핫종목]",
-  "현대차,'플레오스커넥트앱아이디어공모전'대상공개",
-  "[국내증시개장시황]국내증시상승출발,주요기업주가상승주도",
   "현대차울산공장인허가단축…반도체팹공사통합발주허용",
   "SKT,해킹딛고고객만족도'3관왕'…\"답은고객에\"",
   "SKAX,'AI부트캠프바이브'출시…일반인도AI에이전트만든다",
@@ -6001,7 +5998,10 @@
   "용인특례시이상일시장,함평군에반도체산단조성행정경험공유",
   "美고용이식으니금리인상공포도‘멈춤’…연휴이후코스피7000선...",
   "EBS'위대한수업,그레이트마인즈'시즌6...최태원회장강연으로10월...",
-  "'환경'덜어낸SK에코플랜트,가벼워진몸으로반도체·AI박차"
+  "'환경'덜어낸SK에코플랜트,가벼워진몸으로반도체·AI박차",
+  "거래소다음은금융인프라…두나무·LGCNS도뛰어들었다[도예리의디...",
+  "거세지는中범용칩공세…삼전·닉스,'차세대HBM'으로격차벌린다[초...",
+  "K-제약바이오,CPHI밀라노집결…수주·기술수출기회모색"
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,21 @@
   [
    "2026-10-03T10:01:17.630863+09:00",
    "몸으로 반도체 SK에코플랜트 가벼워진 박차 환경 AI 덜어낸"
+  ],
+  [
+   "2026-10-03T10:11:05.381675+09:00",
+   "뛰어들었다 거래소 LG 두나무 도예리의 다음은 금융 CNS도 인프라"
+  ],
+  [
+   "2026-10-03T10:11:05.381675+09:00",
+   "차세대 삼전 닉스 범용칩 격차 거세지는 으로 HBM 벌린다 공세"
+  ],
+  [
+   "2026-10-03T10:11:05.381675+09:00",
+   "집결 기술수출 CPHI 밀라노 제약바이오 수주 기회 모색"
   ]
  ],
- "last_run": "2026-10-03T10:03:23.712599+09:00",
+ "last_run": "2026-10-03T10:11:16.564874+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
