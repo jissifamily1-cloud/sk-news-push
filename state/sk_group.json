@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ikld.kr/news/articleView.html?idxno=341610",
-  "https://www.sedaily.com/article/20096991",
-  "https://www.joongangenews.com/news/articleView.html?idxno=551859",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16231616",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445109",
   "https://www.kyeongin.com/article/1771813",
   "https://www.namdonews.com/news/articleView.html?idxno=924920",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20261003023800008?input=1195m",
   "https://www.yna.co.kr/view/AKR20261002140900003?input=1195m",
   "https://www.newsis.com/view/NISX20261002_0003813152",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171343"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171343",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261004062904eSb",
+  "https://biz.heraldcorp.com/article/10892101",
+  "https://www.news1.kr/society/court-prosecution/6309925",
+  "https://www.yna.co.kr/view/AKR20261002179200008?input=1195m"
  ],
  "seen_titles": [
-  "줄소환피한대형건설사,'반복재해'문책면하나",
-  "테오도르시장분석:오전10시기준낙폭축소보합권",
-  "온디바이스AI시대성큼…SOCAMM수혜주로몰리는자금",
-  "디앤디플랫폼리츠,세미콜론수송추가지분∙회사채투자",
   "SK에너지,고객만족도조사주유소부문16년연속1위",
   "SK에너지휘발유가장비싸…EX알뜰가장저렴",
   "SK이터닉스주가,10월1일장중48,800원1.11%하락",
@@ -6001,7 +5997,11 @@
   "외인,한달간코스피서20조'팔자'…삼전비중46%·닉스49%대",
   "HBM에호남까지갈길바쁜SK하이닉스…솔리다임자금조달고심",
   "[국감전운]②증인채택부터팽팽한신경전…김현지·김용범에이재용·...",
-  "신형폰반납보상내건통신3사…2년뒤기기변경까지유도"
+  "신형폰반납보상내건통신3사…2년뒤기기변경까지유도",
+  "외국인,한달간코스피서20조매도…비중삼전46%·닉스49%대",
+  "메모리‘오징어게임’벌어지나…美싱크탱크의‘메모리공급과잉’...",
+  "李대통령고발?내란특수본?…중수청'1호수사'시험대",
+  "반도체설비투자확대로공급확대?\"내후년하반기는돼야\""
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,21 @@
   [
    "2026-10-04T06:31:46.534180+09:00",
    "반납 기기변경까지 유도 통신 보상 2년 3사 신형폰 내건"
+  ],
+  [
+   "2026-10-04T06:41:02.132625+09:00",
+   "벌어지나 싱크탱크의 과잉 오징어 메모리 공급 게임"
+  ],
+  [
+   "2026-10-04T06:41:02.132625+09:00",
+   "특수본 수사 중수청 고발 내란 시험대 대통령 1호"
+  ],
+  [
+   "2026-10-04T06:41:02.132625+09:00",
+   "내후년 확대 확대로 하반기는 돼야 반도체 공급 설비투자"
   ]
  ],
- "last_run": "2026-10-04T06:32:00.353120+09:00",
+ "last_run": "2026-10-04T06:41:13.125043+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
