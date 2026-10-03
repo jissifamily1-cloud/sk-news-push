@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.impacton.net/news/articleView.html?idxno=30091",
   "https://www.hankyung.com/article/202609304646r",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491762",
   "http://www.beyondpost.co.kr/view.php?ud=2026100109554450772aaae0046f_30",
@@ -2999,10 +2998,10 @@
   "https://www.segye.com/newsView/20261002507457?OutUrl=naver",
   "https://www.tournews21.com/news/articleView.html?idxno=144912",
   "https://www.news2day.co.kr/article/20261003500014",
-  "https://www.mk.co.kr/article/12158316"
+  "https://www.mk.co.kr/article/12158316",
+  "https://zdnet.co.kr/view/?no=20261003212658"
  ],
  "seen_titles": [
-  "美금리·유가상승에코스피흔들…나흘째하락세",
   "코스피,美금리부담에주춤⋯마이크론호실적에도반도체주약세",
   "[만나보니][KB자산운용]이준석실장\"오래들고갈ETF만든다…RISE만...",
   "【데일리ESG정책브리핑】육상풍력허가간소화·K-택소노미플랫폼...",
@@ -6001,17 +6000,10 @@
   "내월급은‘찔끔’물가는‘왕창’…한은“10월물가,3%내외상승전...",
   "용인특례시,시승격30주년&'조아용페스티벌'개최",
   "외국인8.3조순매도,추석뒤‘선별매수’…LG전자·한미반도체는샀...",
-  "“모두죽일수있다”…월가흔드는AI멸망론[USREPORT]"
+  "“모두죽일수있다”…월가흔드는AI멸망론[USREPORT]",
+  "SK쉴더스,AWS'위협탐지및대응'컴피턴시국내첫획득"
  ],
  "recent_sigs": [
-  [
-   "2026-10-03T15:21:36.225052+09:00",
-   "경쟁 맡겨줘 IT 비서 AI 결제도 준비됐나 한국 기업은 예약도"
-  ],
-  [
-   "2026-10-03T15:28:16.759380+09:00",
-   "노소영 최태원 재산분할액과 같은 SK지분 9440억 규모 매각"
-  ],
   [
    "2026-10-03T15:40:59.698331+09:00",
    "주유소 가격 저렴한 브랜드는 휘발유 가장 비싸 SK에너지가"
@@ -6111,9 +6103,13 @@
   [
    "2026-10-03T21:10:57.105091+09:00",
    "죽일 있다 멸망론 모두 AI 월가 흔드는"
+  ],
+  [
+   "2026-10-03T21:31:08.177329+09:00",
+   "SK쉴더스 국내 위협탐지 AWS 획득 대응 컴피턴시"
   ]
  ],
- "last_run": "2026-10-03T21:21:08.080746+09:00",
+ "last_run": "2026-10-03T21:31:14.843800+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
