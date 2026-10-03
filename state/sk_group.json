@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312292",
   "http://www.newswatch.kr/news/articleView.html?idxno=81183",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=276558",
   "http://www.weeklytoday.com/news/articleView.html?idxno=796512",
@@ -2999,10 +2998,10 @@
   "https://www.segye.com/newsView/20261003500119?OutUrl=naver",
   "https://www.g-enews.com/view.php?ud=2026100407122722712bd56fbc3c_1",
   "https://www.segye.com/newsView/20261002512830?OutUrl=naver",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96495"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96495",
+  "https://www.ddaily.co.kr/page/view/2026100309042551702"
  ],
  "seen_titles": [
-  "SK가EX알뜰보다평균142원비싸…서울'알뜰'단10곳",
   "희비엇갈린3분기…반도체·유통·증권株↓운송·정유株↑",
   "[예능에숨은투자상품]단타·물타기주식놀이화'눈살'",
   "[2026국감]대형개인정보유출10건중9건'안전조치의무위반'",
@@ -6001,7 +6000,8 @@
   "삼전·하이닉스자사주매입10월종료…코스피앞날은?",
   "LG엔솔,메르세데스에46100원통형배터리공급추진…2028년인도목표",
   "‘풍향계’마이크론은메모리순풍예고,삼전닉스영업익180조다가간...",
-  "삼성전자,분기영업익100조시대눈앞…'K-메모리슈퍼사이클'어디까..."
+  "삼성전자,분기영업익100조시대눈앞…'K-메모리슈퍼사이클'어디까...",
+  "美는260만원인데왜한국에선180만원?…속타는SK하이닉스투자자들의..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,13 @@
   [
    "2026-10-04T07:40:58.169271+09:00",
    "메모리 시대 슈퍼사이클 영업익 눈앞 분기 100조 삼성전자 어디까"
+  ],
+  [
+   "2026-10-04T07:51:36.295613+09:00",
+   "180만원 SK하이닉스 속타는 투자자들의 한국에선 260만원인데"
   ]
  ],
- "last_run": "2026-10-04T07:41:04.682601+09:00",
+ "last_run": "2026-10-04T07:51:42.464367+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
