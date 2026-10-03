@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610010940547948",
-  "https://www.bloter.net/news/articleView.html?idxno=674785",
   "https://www.cnbnews.com/news/articleView.html?idxno=1017430",
   "https://www.cbci.co.kr/news/articleView.html?idxno=611449",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277996",
@@ -2999,11 +2997,11 @@
   "https://www.hankyung.com/article/2026100202146",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259307",
   "https://www.segye.com/newsView/20261003504648?OutUrl=naver",
-  "https://www.mediapen.com/news/view/1127757"
+  "https://www.mediapen.com/news/view/1127757",
+  "https://biz.heraldcorp.com/article/10892565",
+  "https://www.wikitree.co.kr/articles/1163189"
  ],
  "seen_titles": [
-  "ADT캡스,'2026KCSI'무인경비부문1위",
-  "\"무제한요금제가만원대\"…SKT에어,1주년특가행사",
   "[특징주]주성엔지니어링,장중코스닥시총2위로…11조도넘어",
   "코오롱베니트AX부스트서밋2026,이달13일개최",
   "청주새워터충전소가보니…테슬라NACS바로꽂았다[카미경]",
@@ -6001,7 +5999,9 @@
   "\"삼전닉스보다소부장\"…수익률상위권오른상품보니[이수의ETF줌인...",
   "[여경코멘토]9월넷째주3명활동···무려51건지적·의견무슨내...",
   "“예약도결제도맡겨줘”…AI비서경쟁,한국기업은준비됐나[핫IT...",
-  "최태원,SK지분9440억매각...노소영재산분할액과같은규모"
+  "최태원,SK지분9440억매각...노소영재산분할액과같은규모",
+  "“삼전닉스,CAPEX규모믿어도된다”…AI투자내년1.2조달러[헤럴드...",
+  "“휘발유가격,SK에너지가가장비싸”…가장저렴한주유소브랜드는..."
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,13 @@
   [
    "2026-10-03T15:28:16.759380+09:00",
    "노소영 최태원 재산분할액과 같은 SK지분 9440억 규모 매각"
+  ],
+  [
+   "2026-10-03T15:40:59.698331+09:00",
+   "주유소 가격 저렴한 브랜드는 휘발유 가장 비싸 SK에너지가"
   ]
  ],
- "last_run": "2026-10-03T15:31:11.156735+09:00",
+ "last_run": "2026-10-03T15:41:05.564867+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
