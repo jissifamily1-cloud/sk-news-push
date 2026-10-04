@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=394286",
-  "https://basketkorea.com/news/newsview.php?ncode=1065577060999052",
-  "https://www.dt.co.kr/article/12086893",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=394285",
-  "https://www.edaily.co.kr/News/Read?newsId=03289846645608656&mediaCodeNo=257",
-  "https://en.asiatoday.co.kr/view.php?key=20261001000936597",
-  "https://www.etnews.com/20261001000167",
-  "https://www.edaily.co.kr/News/Read?newsId=03280006645608656&mediaCodeNo=257",
-  "https://www.kyosu.net/news/articleView.html?idxno=210769",
-  "https://m.sports.naver.com/basketball/article/065/0000302184",
-  "https://www.naeil.com/news/read/603975",
   "https://www.asiatime.co.kr/article/20261001500125",
   "https://www.ikbc.co.kr/article/view/kbc202610010023",
   "https://www.mt.co.kr/tech/2026/10/01/2026100110534523964",
@@ -2999,20 +2988,20 @@
   "https://www.tokenpost.kr/news/insights/418017",
   "https://biz.chosun.com/stock/stock_general/2026/10/04/YJ42UCJZWVBHFFCDBTAVQZGMPQ/",
   "https://www.fnnews.com/news/202610040821555585",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/04/2026100490005.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/04/2026100490005.html",
+  "https://www.etoday.co.kr/news/view/2632040",
+  "https://www.newscj.com/news/articleView.html?idxno=3437715",
+  "https://biz.heraldcorp.com/article/10892200",
+  "https://www.hankyung.com/article/2026100204986",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1726675",
+  "https://www.bloter.net/news/articleView.html?idxno=674904",
+  "https://basketkorea.com/news/newsview.php?ncode=1065607813719793",
+  "https://www.joongangenews.com/news/articleView.html?idxno=552459",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=318637",
+  "https://www.thebigdata.co.kr/view.php?ud=2026100215520648290ecbf9426b_23",
+  "https://www.thebigdata.co.kr/view.php?ud=202610040802276846570d99e4c8_23"
  ],
  "seen_titles": [
-  "배경훈부총리가쏘아올린‘프런티어AI’목표…현실은GPU격차로...",
-  "항체부터mRNA·백신까지…코로나19테마株'방긋'",
-  "Korea’slistedcompaniesstepupsharebuybacks,cancellations",
-  "[기술적분석]코스피지수와주요종목(10월1일)",
-  "[바코인사이드]베테랑사령탑의꿈,‘명가재건’",
-  "‘저점매수’가능한반세권분상제아파트,‘이천역예미지센트럴파크...",
-  "[테오도르의시장분석]특징주와테마주\"반도체·로봇·게임주\"(10월1일...",
-  "[해설]독파모3차앞두고기업들셈법달라졌다…‘프론티어’냐‘완...",
-  "Spikein30-yearU.S.TreasuryyieldsrattlesAsia",
-  "휴디스텍-오브로,대리점계약체결…정밀측위·디지털트윈사업확대",
-  "[단독]독자AI파운데이션모델3차,탈락없을수도…3개모두지원검...",
   "[건강365]삐끗한허리,응급실가야할까…척추질환진료선택기준은...",
   "[KBL개막D-2]개막전결장선수는?10개구단부상리포트",
   "SK에너지‘고객이선택한주유소’16년연속1위",
@@ -6001,7 +5990,18 @@
   "[온체인주식선물]현대차,정규장종가보다1.91%웃돈",
   "외국인,한달사이코스피20조‘팔자’…삼성전자·SK하이닉스순매...",
   "李정부2년차국감시작...여야'전방위'충돌예고",
-  "한복입은김희영,최태원과나란히…이재용앞엔젠슨황"
+  "한복입은김희영,최태원과나란히…이재용앞엔젠슨황",
+  "AI라고다같은AI가아니다⋯고금리ㆍ병목ㆍ수급이가를10월ETF성과",
+  "李정부2년차국감돌입…여야,민생성과vs실정검증충돌예고",
+  "[단독]국민연금은‘계산제외’라던기권표…주총선찬성률낮췄다",
+  "\"반도체만믿다간큰일\"직장인들돌변하더니…'대이동'[김연지의연금...",
+  "한달앞당긴한화...주요그룹도연말인사준비'속도'",
+  "\"삼원계외길끝\"…LFP·양·음극재로다시뛰는K-배터리소재3사",
+  "[BK프리뷰]DB-소노,우승후보간의첫빅뱅",
+  "[주간산업나침반]조선업임단협진통지속...HD현대重부결·한화오션...",
+  "[글로벌주간브리핑]AI에돈쏟아붓는빅테크…미·중은반도체넘어...",
+  "메모리호황의두얼굴…HBM은공급난,D램은추격전",
+  "반도체뺀대한민국수출은‘정체’…착시현상심화"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,45 @@
   [
    "2026-10-04T09:01:52.911774+09:00",
    "이재용 앞엔 입은 한복 나란히 최태원과 젠슨 김희영"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "찬성률 낮췄다 라던 기권표 국민연금은 제외 계산 주총선"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "돌변하더니 직장인들 믿다간 김연지의 연금 대이동 반도체만 큰일"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "한화 인사 준비 속도 연말 앞당긴 주요 그룹도"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "다시 삼원계 외길 LFP 뛰는 음극재로 소재 3사 배터리"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "간의 DB 우승 후보 소노 빅뱅"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "지속 임단협 조선업 한화오션 HD현대 진통 부결"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "AI에 중은 넘어 쏟아붓는 빅테크 반도체"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "메모리 추격전 얼굴 D램은 호황의 공급난 HBM은"
+  ],
+  [
+   "2026-10-04T09:11:38.336100+09:00",
+   "수출은 정체 착시현상 대한민국 심화 반도체"
   ]
  ],
- "last_run": "2026-10-04T09:01:59.730776+09:00",
+ "last_run": "2026-10-04T09:12:06.082169+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
