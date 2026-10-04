@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/industry/2026/10/01/0017",
-  "https://biz.heraldcorp.com/article/10890403",
   "https://biz.sbs.co.kr/article_hub/20000337778?division=NAVER",
   "http://www.joseilbo.com/news/news_read.php?uid=576669&class=53",
   "https://www.mt.co.kr/industry/2026/10/01/2026100110494832185",
@@ -2999,11 +2997,11 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553529",
   "https://www.fnnews.com/news/202610041834133237",
   "https://www.fnnews.com/news/202610041832140280",
-  "https://www.fnnews.com/news/202610041831546708"
+  "https://www.fnnews.com/news/202610041831546708",
+  "https://www.segye.com/newsView/20261004507052?OutUrl=naver",
+  "https://www.koreajoongangdaily.com/business/from-banks-to-lenders-suspected-ai-hacks-expose-cracks-in-koreas-financial-defenses/12904281"
  ],
  "seen_titles": [
-  "'금리쇼크'에맞선반도체…마이크론·에이전틱AI가구원투수될까",
-  "3분기최대실적전망‘두산’쓸어담았다[주식초고수는지금]",
   "다시1위올라선고객만족도…정재헌SKT대표“답은고객”",
   "마이크론분기·연간모두사상최대…삼성·SK,HBM4패권전격화",
   "ETF,TDF에서대체자산까지…이유있는흥행가도[2026헤럴드투자대상...",
@@ -6001,7 +5999,9 @@
   "최태원과나란히,김희영9440억판결후‘첫공식동행’",
   "\"삼전닉스,年1000조번다\"전망에…추가주주환원기대",
   "부진의늪빠진바이오주…성장성입증이반등조건",
-  "'몸집'만보는코스닥상폐기준…흑자기업도퇴출걱정"
+  "'몸집'만보는코스닥상폐기준…흑자기업도퇴출걱정",
+  "수장없이개문발차…고소·고발쇄도속준비안돼수기접수[공소청...",
+  "Frombankstolenders,suspectedAIhacksexposecracksinKorea’sfina"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-10-04T18:41:00.953700+09:00",
    "코스닥 걱정 몸집 퇴출 보는 흑자기업도 상폐기준"
+  ],
+  [
+   "2026-10-04T19:01:16.990324+09:00",
+   "고소 없이 수장 공소청 개문발차 고발 쇄도 준비안돼 수기 접수"
+  ],
+  [
+   "2026-10-04T19:01:16.990324+09:00",
+   "fina suspected banks AI to Korea expose hacks From lenders in cracks"
   ]
  ],
- "last_run": "2026-10-04T18:51:02.683881+09:00",
+ "last_run": "2026-10-04T19:01:25.609725+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
