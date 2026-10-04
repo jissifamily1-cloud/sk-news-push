@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435312",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075691",
   "https://biz.heraldcorp.com/article/10876509",
   "http://enews.imbc.com/News/RetrieveNewsInfo/518507",
   "https://www.mhns.co.kr/news/articleView.html?idxno=760714",
@@ -2999,11 +2997,11 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=443955",
   "https://www.newsis.com/view/NISX20260930_0003809645",
   "https://www.news1.kr/politics/assembly/6309258",
-  "https://www.segye.com/newsView/20261004506907?OutUrl=naver"
+  "https://www.segye.com/newsView/20261004506907?OutUrl=naver",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764010",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446454"
  ],
  "seen_titles": [
-  "한·중앙아6개국'미래동반자'선언…핵심광물·AI·인프라로손잡다",
-  "[비즈나우]SK하닉·인텔맞손…\"美생산논의\"",
   "미국기준금리인상,값싼돈의시대가끝나가고있다:9월17일.",
   "韓·중앙아경제계한자리에…핵심광물·에너지·AI협력",
   "[한국반도체,두총수의대전략(3)]이재용의미등기,삼성의병목베팅",
@@ -6001,7 +5999,9 @@
   "[WhoIs?]최신원SK네트웍스명예회장",
   "[현장]\"故최종현선대회장꿈이뤘다\"…SK이노베이션,호주14년자원개...",
   "국감개막D-1…與\"민생올인\"野\"실정심판\"대격돌",
-  "최태원,‘주주가치최우선’바탕지분매각"
+  "최태원,‘주주가치최우선’바탕지분매각",
+  "[단독]최태원둘째딸최민정,美서AI헬스케어대박터지나?…창업3년...",
+  "한전'73조'전력망구축자금마련분주,'한전채절벽'앞두고전기료..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "바탕 주주가치 지분 최우선 매각"
   ]
  ],
- "last_run": "2026-10-05T06:10:33.857759+09:00",
+ "last_run": "2026-10-05T06:20:31.425513+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
