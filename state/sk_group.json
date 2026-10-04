@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreajoongangdaily.com/business/koreas-sovereign-ai-project-survives-but-companies-face-uncertain-strategy-shift/12899906",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96349",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=136507",
-  "http://www.popcornnews.net/news/articleView.html?idxno=134654",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7186906",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=136506",
-  "http://www.bizwnews.com/news/articleView.html?idxno=147808",
-  "https://www.tokenpost.kr/news/market/416887",
-  "https://www.dailian.co.kr/news/view/1696807/?sc=Naver",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067774",
   "https://www.newsq.co.kr/news/articleView.html?idxno=500323",
   "https://biz.heraldcorp.com/article/10890459",
   "http://www.kdfnews.com/news/articleView.html?idxno=188716",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/finance/general-stock/6309589",
   "https://www.news1.kr/politics/assembly/6309258",
   "https://www.yeongnam.com/web/view.php?key=20261004025051729",
-  "https://www.dailian.co.kr/news/view/1697328/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1697328/?sc=Naver",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448537",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315545&inflow=N",
+  "http://www.beyondpost.co.kr/view.php?ud=2026100506064524172aaae0046f_30",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612275",
+  "https://www.yna.co.kr/view/AKR20261002178800008?input=1195m",
+  "https://weekly.khan.co.kr/article/202610050600021",
+  "https://www.segye.com/newsView/20261004506930?OutUrl=naver",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1726619",
+  "https://www.segye.com/newsView/20261004506907?OutUrl=naver",
+  "https://biz.chosun.com/topics/topics_social/2026/10/05/DGQFLG6L6RDQXN7YTBIFN7HRZM/"
  ],
  "seen_titles": [
-  "넥써쓰,원스토어완전자회사편집과정추진",
-  "‘재취업’퇴직공무원4170명…한화·삼성·현대차·LIG·SK순으로자리...",
-  "영진전문대,1차수시모집경쟁률7.4대1…반도체·신재생·AI융합기계...",
-  "Korea’ssovereignAIprojectsurvives,butcompaniesfaceuncertains",
-  "\"장병여러분감사합니다\"…식품·유통업계,국군의날맞아할인·나눔...",
-  "SKT,AI가'누구에게뭘할인할지'고른다…T멤버십기획에에이전트투...",
-  "\"비개발자도AI에이전트만든다\"…SKAX,'AI부트캠프바이브'출시",
-  "SKAX,비개발자용AI에이전트교육프로그램출시",
-  "SKAX,코딩몰라도'내업무AI'직접만든다…인사·영업까지바이브코...",
-  "[단독]HBM병목겨냥한美'케플러'…\"EUV없이메모리집적도높인다\"",
   "1760억달러몰린K-주식무기한선물…토큰화제언",
   "[현장]KT·네이버가말하는AIDC의다음무대는…\"AI서비스센터·AI팩...",
   "수원시의회,발달장애인문화예술페스티벌참석",
@@ -6001,7 +5991,17 @@
   "삼전닉스자사주매입막바지…'수급공백'메울190조실적'기대'",
   "국감개막D-1…與\"민생올인\"野\"실정심판\"대격돌",
   "[박재일칼럼]TK패싱,올해의4자성어될라",
-  "삼성100조·SK80조눈앞…'물량부터잡자'달라진메모리슈퍼사이클"
+  "삼성100조·SK80조눈앞…'물량부터잡자'달라진메모리슈퍼사이클",
+  "엔비디아AI반도체'담보대출'전략성공할까,삼성전자SK하이닉스실...",
+  "(주간증시전망)반도체실적기대속'금리·유가'변수",
+  "삼성전자,국내기업최초로분기영업이익'100조원시대'여나...8일3분...",
+  "[반도체픽]마이크론이어삼전·닉스도충당금수십조…AI반도체호황...",
+  "단일레버리지LP,하루최대두시간호가의무위반했다",
+  "“주식갖고있으라더니”솔리다임중복상장···주주가치보호시험...",
+  "외국인‘엑소더스’…코스피수익률주요국‘꼴찌’",
+  "\"승부는가동률\"…삼전닉스,메모리증설전2라운드",
+  "최태원,‘주주가치최우선’바탕지분매각",
+  "[글로벌거상]“공기한번도안늦췄다”…멕시코서1억달러건설사..."
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,41 @@
   [
    "2026-10-05T06:02:27.017978+09:00",
    "삼성 슈퍼사이클 메모리 물량부터 잡자 80조 눈앞 달라진 100조"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "100조원 시대 삼성전자 영업이익 3분 국내기업 최초로 8일 분기 여나"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "마이크론 닉스도 이어 AI 수십조 삼전 호황 충당금 반도체"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "단일 하루 레버리지 LP 호가의무 위반했다 두시간"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "주식 중복상장 시험 주주가치 있으라더니 갖고 솔리다임 보호"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "주요국 엑소더스 수익률 코스피 꼴찌 외국인"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "증설전 삼전닉스 승부는 2라운드 가동률 메모리"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "바탕 최우선 지분 최태원 주주가치 매각"
+  ],
+  [
+   "2026-10-05T06:21:11.574328+09:00",
+   "늦췄다 공기 1억달러 건설사 번도 멕시코서"
   ]
  ],
- "last_run": "2026-10-05T06:11:10.939117+09:00",
+ "last_run": "2026-10-05T06:21:35.904455+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
