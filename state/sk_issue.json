@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202609251020466650",
-  "https://www.yna.co.kr/view/AKR20260925020951001?input=1195m",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/25/2026092590039.html",
-  "https://www.ytn.co.kr/_ln/0101_202609251040230707",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035744",
-  "https://www.news1.kr/politics/president/6301533",
-  "https://www.hankyung.com/article/2026092557187",
-  "https://www.gokorea.kr/news/articleView.html?idxno=879700",
-  "https://www.munhwa.com/article/11619421",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552192",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609250020&t=NN",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/25/2026092590050.html",
   "https://www.imaeil.com/page/view/2026092510493406318",
@@ -2999,19 +2989,19 @@
   "https://www.ikbc.co.kr/article/view/kbc202610040009",
   "https://news.tf.co.kr/read/life/2372834.htm",
   "https://www.thepublic.kr/news/articleView.html?idxno=320913",
-  "https://www.newsis.com/view/NISX20261004_0003813843"
+  "https://www.newsis.com/view/NISX20261004_0003813843",
+  "https://www.segye.com/newsView/20261004503212?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261004104701xir",
+  "https://www.medipana.com/news/articleView.html?idxno=418727",
+  "https://www.kyeonggi.com/article/20261004580076",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677340",
+  "https://www.medipana.com/news/articleView.html?idxno=418726",
+  "https://www.sedaily.com/article/20097981",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000019601&cp=nv",
+  "http://weekly.chosun.com/news/articleView.html?idxno=55869",
+  "https://www.hani.co.kr/arti/society/society_general/1280784.html"
  ],
  "seen_titles": [
-  "李대통령\"개혁너무급하게가면반동맞이\"…유시민겨냥?",
-  "李대통령\"국보법폐지주장하다독소조항못없애\"…유시민겨냥한듯(종...",
-  "李,유시민겨냥\"국보법독소조항폐지,누군가주장으로무산\"",
-  "이대통령\"국보법폐지주장하다독소조항못없애\"...유시민겨냥했나",
-  "휴대전화포렌식에도증거없었다…박종진'공천헌금의혹'불송치",
-  "李대통령\"2030년6월넘기는일없다\"…유시민겨냥\"멋내다결과못내...",
-  "李대통령\"개혁급하면반동맞아\"…유시민겨냥했나",
-  "공정거래위직원외부접촉미보고50건,법무법인과의대화가70%차지",
-  "[속보]李대통령,유시민겨냥“누군가가국보법폐지주장해독소조항...",
-  "이대통령“北주체사상공부했다고경찰이압수수색…아직국가보안...",
   "유시민겨냥했나…李대통령\"과한주장,좋은결과어려워\"",
   "불법개설병원·약국수사,평균1년…수사지연에건보재정환수율은...",
   "이재명대통령\"국보법폐지주장하다독소조항도못없애\"…유시민겨냥",
@@ -6001,7 +5991,17 @@
   "\"AI로성착취물만든'그놈'구속…\"낮엔경찰,밤엔불법영상유포\"",
   "경찰관이AI성착취물제작·유포…입직전부터범행'충격'",
   "롯데하이마트,10월가전할인행사…이사·웨딩최대540만원혜택",
-  "화성·오산내년도중학교신입생이렇게배정…계획확정"
+  "화성·오산내년도중학교신입생이렇게배정…계획확정",
+  "‘요금인상제한·좌석수유지’어긴대한항공·아시아나,4년간과태...",
+  "지인나체성착취물제작·유포자잡고보니…현직경찰의'이중생활'",
+  "소아응급실압수수색에환자단체도\"환아안전우선\"",
+  "‘지인나체AI합성·유포’현직경찰관구속…위장수사에덜미",
+  "AI성착취물제작·유포한현직경찰관구속…텔레그램‘잠입수사’...",
+  "소아응급센터위축되면어디로…소청병협\"소아의료전체흔들려\"",
+  "AI로성착취물400개넘게만들고유포까지…잡고보니‘현직경찰’",
+  "현직경찰휴대전화털자성착취물와르르…기소유예이력도",
+  "성착취물유포자잡고보니현직경찰…휴대폰서5600개'와르르'",
+  "현직경찰,AI성착취물400개제작·유포…불법촬영까지"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "총력 유예기간 막판 90일 검찰 지운 공소청 MBK 수사"
   ]
  ],
- "last_run": "2026-10-04T10:41:31.815826+09:00",
+ "last_run": "2026-10-04T10:50:51.608272+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
