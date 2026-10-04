@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005790",
   "https://www.naeil.com/news/read/599204",
   "https://www.gosiweek.com/article/1065576757698492",
   "https://view.asiae.co.kr/article/2026081910102692957",
@@ -2999,10 +2998,10 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=321082",
   "https://view.asiae.co.kr/article/2026100410315411854",
   "https://www.news2day.co.kr/article/20261004500004",
-  "http://www.yonhapnewstv.co.kr/news/MYH202610031430478B7"
+  "http://www.yonhapnewstv.co.kr/news/MYH202610031430478B7",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261004.99099000732"
  ],
  "seen_titles": [
-  "광주학생교육문화회관,전남대서'영·호남교류음악회'개최",
   "광주·대구·여수·부산청소년400명,음악으로잇는영호남",
   "지역감정넘어선하모니,영·호남청소년이쏘아올리다",
   "광주·대구·여수·부산청소년400명전남대서합동연주",
@@ -6001,7 +6000,8 @@
   "최태원회장,SK지분팔아재산분할금마련…주가수익스와프계약병행",
   "최태원·김희영,뉴욕서함께…재산분할파기환송심이후첫포착",
   "李정부2년차국감6일시작…민주'민생성과'·국힘'부동산·안보'...",
-  "[여의도풍향계]국정감사증언대서는JYP…조희대증인충돌되풀이"
+  "[여의도풍향계]국정감사증언대서는JYP…조희대증인충돌되풀이",
+  "SK지주최태원지분율3%하락…최회장재산분할자금충당"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-10-04T11:10:14.692469+09:00",
    "서는 JYP 국정감사 증언대 충돌 증인 되풀이 조희대"
+  ],
+  [
+   "2026-10-04T12:30:21.273642+09:00",
+   "재산분할 SK지주 자금 하락 충당 지분율 회장"
   ]
  ],
- "last_run": "2026-10-04T12:20:25.804629+09:00",
+ "last_run": "2026-10-04T12:30:36.101784+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
