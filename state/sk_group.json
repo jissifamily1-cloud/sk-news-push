@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/incheon/6307311",
-  "http://www.srtimes.kr/news/articleView.html?idxno=213716",
   "http://www.newskr.kr/news/articleView.html?idxno=106819",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437330",
   "https://www.news1.kr/industry/general-industry/6307342",
@@ -2999,11 +2997,11 @@
   "https://www.thepowernews.co.kr/view.php?ud=202610021335084279de3f0aa1be_7",
   "https://www.tokenpost.kr/news/cryptocurrency/418020",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610040012&t=NN",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=882572"
+  "https://www.getnews.co.kr/news/articleView.html?idxno=882572",
+  "https://news.ifm.kr/news/articleView.html?idxno=480837",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870000"
  ],
  "seen_titles": [
-  "SKT자급제단말용요금브랜드'에어',포인트사용률96%",
-  "SK하이닉스\"솔리다임자본조달에주주가치가판단기준\"",
   "SK하이닉스\"솔리다임상장미확정…기존주주영향충분히살필것\"",
   "'4년만의정기보수'SK인천석유화학,40일간공정중단",
   "SK하닉자회사솔리다임,美IPO추진설에소액주주반발…\"주주가치보...",
@@ -6001,7 +5999,9 @@
   "1559원→1330원급락한원·달러…美금리·대미투자가다시1400원흔드...",
   "[DEX리포트]하루거래량66억5000만달러...급등1위는'셰어홀더이누...",
   "사상최대실적에도\"주가왜이래?\"…메모리호황속변수",
-  "외국인,9월한달간코스피서20조'셀코리아'...'삼전닉스'비중40%..."
+  "외국인,9월한달간코스피서20조'셀코리아'...'삼전닉스'비중40%...",
+  "\"AI반도체,지금사도될까?\"…ETF이름보다'무엇을담았나'부터봐야...",
+  "외국인순매도20조...반도체투톱집중"
  ],
  "recent_sigs": [
   [
@@ -6313,7 +6313,7 @@
    "66억5000만 셰어홀더이누 급등 하루 달러 1위는 거래량"
   ]
  ],
- "last_run": "2026-10-04T09:31:09.229408+09:00",
+ "last_run": "2026-10-04T09:41:03.584579+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
