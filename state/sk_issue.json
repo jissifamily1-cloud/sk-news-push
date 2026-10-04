@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12320005?influxDiv=NAVER",
-  "https://www.k-health.com/news/articleView.html?idxno=101365",
-  "https://www.khan.co.kr/article/202609251226001",
-  "https://www.etnews.com/20260925000019",
   "https://www.imaeil.com/page/view/2026092512293132786",
   "https://www.thereport.co.kr/news/articleView.html?idxno=91741",
   "https://www.jibs.co.kr/news/articles/articlesDetail/65843?feed=na",
@@ -2999,13 +2995,13 @@
   "https://www.busan.com/view/busan/view.php?code=2026100414001994183",
   "https://www.fnnews.com/news/202610041328237943",
   "https://www.chosun.com/national/welfare-medical/2026/10/04/F6HRGPAIDZBXBDDCPI44LMK2R4/",
-  "https://www.fnnews.com/news/202610041418204234"
+  "https://www.fnnews.com/news/202610041418204234",
+  "https://www.ngonews.kr/news/articleView.html?idxno=239833",
+  "https://www.newspim.com/news/view/20261004000042",
+  "https://www.imaeil.com/page/view/2026100414165542133",
+  "https://www.news1.kr/politics/assembly/6310137"
  ],
  "seen_titles": [
-  "이대통령\"선명한주장,멋있을지몰라도좋은결과어려워\"…유시민...",
-  "사무장병원·면대약국수사에평균1년…부당이득금징수는'지지부진'",
-  "이대통령“한꺼번에,화끈하게해치우기쉽지않다”…국가보안법‘...",
-  "李대통령,'개혁팔이반명'에우려…“선명함멋있지만오히려결과놓...",
   "장동혁\"당원게시판수사중…한동훈복당언급자체부적절\"",
   "이재명대통령재차\"연임없다\"",
   "“2030년6월2일넘기는일없다”는李…“개혁너무급하면반동”",
@@ -6001,10 +5997,14 @@
   "AI허위영상에아동·청소년성착취물5600개소지한현직경찰관구속",
   "경찰구속영장3건중1건검찰서기각…올해첫30%돌파",
   "소아응급실압수수색에젊은소아과의사들“이러고현장남아달라하...",
-  "대한항공·아시아나,최근4년간공정위과태료1~3위싹쓸이"
+  "대한항공·아시아나,최근4년간공정위과태료1~3위싹쓸이",
+  "현직경찰관이AI성착취제작해텔레그램방에유포",
+  "중수청,첫휴일에도수사준비…공소청기록이관은아직",
+  "영화'암살자(들)',이번엔'탄환굿즈'논란휩싸여",
+  "한동훈\"김지용,민주당에충성맹세혈서라도쓰라…그러면시켜줄것\""
  ],
  "recent_sigs": [],
- "last_run": "2026-10-04T14:40:49.277871+09:00",
+ "last_run": "2026-10-04T14:50:52.531803+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
