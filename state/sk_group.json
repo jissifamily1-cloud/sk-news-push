@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726372",
-  "https://www.cnbizm.com/news/articleView.html?idxno=316805",
   "https://theviewers.co.kr/View.aspx?No=4248185",
   "https://www.inthenews.co.kr/news/article.html?no=92564",
   "http://www.popcornnews.net/news/articleView.html?idxno=134637",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20097799",
   "https://www.ddaily.co.kr/page/view/2026100223325276488",
   "https://www.ktv.go.kr/content/view?content_id=761958",
-  "https://news.mtn.co.kr/news-detail/2026092110055640324"
+  "https://news.mtn.co.kr/news-detail/2026092110055640324",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261004.99099000732",
+  "http://www.kjdaily.com/article.php?aid=1791084209688207276"
  ],
  "seen_titles": [
-  "SK하이닉스\"솔리다임자본조달방안미정\"…주주가치우선검토",
-  "마이크론호실적에\"수요여전히강해\"…삼전닉스주가는보합",
   "SK하닉,솔리다임‘중복상장’잡음…주주들분통터지는이유[김미정의...",
   "해킹감사되는국감…빅테크한국대표도줄소환",
   "SK텔레콤'에어',출시1주년…\"통신미니멀리즘통했다\"",
@@ -6001,7 +5999,9 @@
   "‘K-모더나’키울랩허브착공…“사업비는빠듯”",
   "韓ESS·유럽EV수주전재점화…K-배터리물량경쟁[위클리배터리]",
   "이시각주요뉴스(26.10.04.12시)",
-  "미국에김치7만톤수출한워커힐호텔,호주로간다…글로벌판로확대"
+  "미국에김치7만톤수출한워커힐호텔,호주로간다…글로벌판로확대",
+  "SK지주최태원지분율3%하락…최회장재산분할자금충당",
+  "KODEX200·TIGER200거래늘고인버스줄었다…9월ETF292조"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,13 @@
   [
    "2026-10-04T12:15:35.759683+09:00",
    "시각 주요뉴스 12시"
+  ],
+  [
+   "2026-10-04T12:31:11.589704+09:00",
+   "인버스 줄었다 292조 KODEX 9월 TIGER 거래 ETF 늘고"
   ]
  ],
- "last_run": "2026-10-04T12:21:39.398164+09:00",
+ "last_run": "2026-10-04T12:31:18.164013+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
