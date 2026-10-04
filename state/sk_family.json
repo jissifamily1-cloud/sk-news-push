@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026081910102692957",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2052634",
   "https://www.newsis.com/view/NISX20260819_0003753798",
   "https://www.news1.kr/economy/trend/6262648",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16426",
@@ -2999,11 +2997,11 @@
   "http://www.yonhapnewstv.co.kr/news/MYH202610031430478B7",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261004.99099000732",
   "https://www.mk.co.kr/article/12167984",
-  "https://economist.co.kr/article/view/ecn202610040011"
+  "https://economist.co.kr/article/view/ecn202610040011",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011291",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=360057"
  ],
  "seen_titles": [
-  "광주·대구·여수·부산청소년400명전남대서합동연주",
-  "광주학생교육문화회관,'영호남청소년'음악으로하나된다",
   "AI투자결실맺나…SK네트웍스,업스테이지가치상승에'방긋'",
   "제24회모의공정위성료…한양대법전원‘대상’",
   "한양대법전원,‘제24회모의공정위’대상…AI·플랫폼등공정거래...",
@@ -6001,7 +5999,9 @@
   "[여의도풍향계]국정감사증언대서는JYP…조희대증인충돌되풀이",
   "SK지주최태원지분율3%하락…최회장재산분할자금충당",
   "한복차려입은김희영,최태원회장과나란히…뉴욕공식행사참석",
-  "'최태원과나란히'김희영,한복차림으로뉴욕공식석상올라…파기환..."
+  "'최태원과나란히'김희영,한복차림으로뉴욕공식석상올라…파기환...",
+  "'나고야검객'오상욱,AG통산5金으로한국선수단MVP쾌거…한일전...",
+  "최태원,SK지분2.3%매각…9440억원확보에도최대주주유지"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-10-04T12:30:21.273642+09:00",
    "재산분할 SK지주 자금 하락 충당 지분율 회장"
+  ],
+  [
+   "2026-10-04T14:20:13.187421+09:00",
+   "확보에도 지분 유지 9440억원 최대주주 매각"
   ]
  ],
- "last_run": "2026-10-04T14:10:28.113318+09:00",
+ "last_run": "2026-10-04T14:20:28.247190+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
