@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000070075",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=89533",
-  "https://www.fnnews.com/news/202610011050377177",
-  "https://www.welfarenews.net/news/articleView.html?idxno=211787",
   "https://view.asiae.co.kr/article/2026100108562677512",
   "https://www.ekn.kr/web/view.php?key=20261001025173389",
   "https://www.etoday.co.kr/news/view/2631059",
@@ -2999,13 +2995,13 @@
   "http://www.metroseoul.co.kr/article/20261004500001",
   "http://www.yonhapnewstv.co.kr/news/MYH20261004102545xrL",
   "http://www.yonhapnewstv.co.kr/news/MYH20261004102216gvR",
-  "https://economist.co.kr/article/view/ecn202610040005"
+  "https://economist.co.kr/article/view/ecn202610040005",
+  "https://www.munhwa.com/article/11621304",
+  "https://www.thepublic.kr/news/articleView.html?idxno=321082",
+  "https://view.asiae.co.kr/article/2026100410315411854",
+  "https://www.segye.com/newsView/20261004503119?OutUrl=naver"
  ],
  "seen_titles": [
-  "SK하이닉스,솔리다임중복상장우려에“주주가치최우선”",
-  "SK하이닉스\"솔리다임IPO결정된것없어…주주가치제고최우선\"",
-  "정재헌SKT대표\"3대고객만족도1위,신뢰회복의완성아냐…현장서...",
-  "[사설]'30%대지지율'이재명정부출구전략찾아야",
   "[증시오늘(1일)주요특징주]코스피,대형주약세에6810선숨고르기…...",
   "오픈AI,DDN파트너에직접기술지원…'보안AI생태계'확장",
   "웰페어뉴스브리핑'(2026.10.01)",
@@ -6001,7 +5997,11 @@
   "코인거래식어도'달러코인'은해외로…스테이블코인지난해10조순유...",
   "한달간20조매도…삼전닉스외인비중줄어",
   "전기차라인을에너지저장장치로전환…배터리시험대",
-  "SK하이닉스,美선40%웃돈붙었다…한국과'같은주식'맞나"
+  "SK하이닉스,美선40%웃돈붙었다…한국과'같은주식'맞나",
+  "‘9월코스피맥못춘이유있었네…’한달간외국인20조팔아치워,1...",
+  "최태원회장,SK지분팔아재산분할금마련…주가수익스와프계약병행",
+  "최태원·김희영,뉴욕서함께…재산분할파기환송심이후첫포착",
+  "4분기시작한주식시장…증권가“증시이탈보단주식비중확대골든타..."
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,17 @@
   [
    "2026-10-04T10:31:45.437083+09:00",
    "주식 한국과 웃돈 맞나 SK하이닉스 붙었다 같은"
+  ],
+  [
+   "2026-10-04T10:41:42.778874+09:00",
+   "포착 김희영 재산분할 함께 뉴욕서 최태원 이후 파기환송심"
+  ],
+  [
+   "2026-10-04T10:41:42.778874+09:00",
+   "골든타 증시 확대 주식시장 비중 이탈보단 주식 4분기 증권가 시작한"
   ]
  ],
- "last_run": "2026-10-04T10:31:54.149176+09:00",
+ "last_run": "2026-10-04T10:41:52.203538+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
