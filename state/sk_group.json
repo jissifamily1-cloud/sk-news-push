@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1411253",
-  "https://www.newsis.com/view/NISX20261001_0003810454",
   "https://www.news1.kr/local/incheon/6307311",
   "http://www.srtimes.kr/news/articleView.html?idxno=213716",
   "http://www.newskr.kr/news/articleView.html?idxno=106819",
@@ -2999,11 +2997,11 @@
   "https://www.thebigdata.co.kr/view.php?ud=202610040802276846570d99e4c8_23",
   "https://www.the-today.com/news/articleView.html?idxno=91169",
   "https://www.thepowernews.co.kr/view.php?ud=202610021335084279de3f0aa1be_7",
-  "https://www.tokenpost.kr/news/cryptocurrency/418020"
+  "https://www.tokenpost.kr/news/cryptocurrency/418020",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610040012&t=NN",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=882572"
  ],
  "seen_titles": [
-  "트럼프“韓,알래스카LNG개발사업투자”…SK이노베이션역할주목",
-  "\"2028년도공급빠듯\"…'메모리바로미터'마이크론호실적,삼전·닉스...",
   "SKT자급제단말용요금브랜드'에어',포인트사용률96%",
   "SK하이닉스\"솔리다임자본조달에주주가치가판단기준\"",
   "SK하이닉스\"솔리다임상장미확정…기존주주영향충분히살필것\"",
@@ -6001,7 +5999,9 @@
   "반도체뺀대한민국수출은‘정체’…착시현상심화",
   "[증시전망]삼성전자실적이'7000피'지킬까…고금리와맞붙는코스피",
   "1559원→1330원급락한원·달러…美금리·대미투자가다시1400원흔드...",
-  "[DEX리포트]하루거래량66억5000만달러...급등1위는'셰어홀더이누..."
+  "[DEX리포트]하루거래량66억5000만달러...급등1위는'셰어홀더이누...",
+  "사상최대실적에도\"주가왜이래?\"…메모리호황속변수",
+  "외국인,9월한달간코스피서20조'셀코리아'...'삼전닉스'비중40%..."
  ],
  "recent_sigs": [
   [
@@ -6313,7 +6313,7 @@
    "66억5000만 셰어홀더이누 급등 하루 달러 1위는 거래량"
   ]
  ],
- "last_run": "2026-10-04T09:21:14.381684+09:00",
+ "last_run": "2026-10-04T09:31:09.229408+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
