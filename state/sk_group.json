@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610011101088080116",
-  "https://www.newsis.com/view/NISX20261001_0003810526",
-  "https://www.hankyung.com/article/2026100170816",
-  "https://www.the-today.com/news/articleView.html?idxno=91031",
-  "https://biz.heraldcorp.com/article/10890298",
-  "https://www.goodkyung.com/news/articleView.html?idxno=291910",
   "https://sports.khan.co.kr/article/202610011130003?pt=nv",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=321017",
   "https://biz.heraldcorp.com/article/10890377",
@@ -2999,15 +2993,15 @@
   "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62736",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492582",
   "https://www.fnnews.com/news/202610041518026783",
-  "https://basketkorea.com/news/newsview.php?ncode=1065595707071236"
+  "https://basketkorea.com/news/newsview.php?ncode=1065595707071236",
+  "https://www.newsis.com/view/NISX20261002_0003813060",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492587",
+  "https://www.hani.co.kr/arti/economy/marketing/1280825.html",
+  "https://www.g-enews.com/view.php?ud=202610041538405380daecd3dad5_1",
+  "https://www.sedaily.com/article/20097925",
+  "https://www.bloter.net/news/articleView.html?idxno=674935"
  ],
  "seen_titles": [
-  "SK하이닉스,중복상장우려에\"주주영향먼저따진다\"",
-  "한국발명진흥회,캠퍼스특허유니버시아드(CPU)마지막관문…국민의선...",
-  "3G폰은떠났는데…승강기·차량관제가3G망발목잡았다",
-  "남청주권대규모주거타운조성속도",
-  "영진전문대,수시1차경쟁률평균7.4대1,전년보다↑",
-  "\"3분기는반도체판아니다\"…증권가가꼽은깜짝실적예상종목[분석+]",
   "[ETF국감②]한투운용은만들고한투證은220억수수료…김남구까지부...",
   "정부가시급히전환해야할3대경제정책방향[조원경의경제·산업답...",
   "[심층분석]메리츠증권,16.7조조달길열렸다…부동산강자넘어'종합...",
@@ -6001,17 +5995,15 @@
   "“메모리값7배뛸수도”..립부탄인텔CEO의과감한전망배경은?",
   "\"GPU하나에HBM여러개\"…파크시스템스,후공정계측시장정조준",
   "한복차려입은김희영,최태원과나란히…9440억판결후첫공식동행",
-  "[BK리뷰]‘우승후보맞대결?’DB,소노압도…이규섭감독데뷔첫..."
+  "[BK리뷰]‘우승후보맞대결?’DB,소노압도…이규섭감독데뷔첫...",
+  "\"속도·용량넘어'맞춤형'으로\"…메모리업계,커스텀HBM개발속도",
+  "10월중순자사주매입마무리전망…SK스퀘어주주가치재평가",
+  "‘호남반도체’격전지된산자위국감…대미투자는뜻밖의초당적협...",
+  "한·미신인왕출신유해란,하이트진로우승상금2억7000만...4년6개월...",
+  "“패션플랫폼몸값10조?”…무신사도전통할까[시그널]",
+  "부동산금융위축,주가수익스왑키우는증권사"
  ],
  "recent_sigs": [
-  [
-   "2026-10-04T10:10:57.913990+09:00",
-   "선택지 AI 법인 설립 모리타 퍼플렉시티 APAC 연내"
-  ],
-  [
-   "2026-10-04T10:10:57.913990+09:00",
-   "달러 코인 지난해 거래 순유 식어도 10조 해외로 스테이블코인"
-  ],
   [
    "2026-10-04T10:31:45.437083+09:00",
    "에너지저장장치로 배터리 시험대 라인을 전기차"
@@ -6199,9 +6191,29 @@
   [
    "2026-10-04T16:01:15.494378+09:00",
    "압도 우승 감독 소노 DB 후보 데뷔 이규섭 맞대결"
+  ],
+  [
+   "2026-10-04T16:11:05.270345+09:00",
+   "주주가치 재평가 마무리 SK스퀘어 매입 중순 자사주 10월 전망"
+  ],
+  [
+   "2026-10-04T16:11:05.270345+09:00",
+   "호남 초당적 뜻밖의 투자는 산자위 국감 대미 반도체 격전지"
+  ],
+  [
+   "2026-10-04T16:11:05.270345+09:00",
+   "6개월 2억7000만 출신 유해란 신인왕 우승상금 4년 하이트진로"
+  ],
+  [
+   "2026-10-04T16:11:05.270345+09:00",
+   "도전 10조 패션 플랫폼 몸값 통할까 무신사"
+  ],
+  [
+   "2026-10-04T16:11:05.270345+09:00",
+   "주가수익스왑 키우는 위축 증권사 부동산금융"
   ]
  ],
- "last_run": "2026-10-04T16:01:25.826216+09:00",
+ "last_run": "2026-10-04T16:11:21.809388+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
