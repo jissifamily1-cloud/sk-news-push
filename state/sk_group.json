@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=576669&class=53",
-  "https://www.mt.co.kr/industry/2026/10/01/2026100110494832185",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320774",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1539146",
   "https://magazine.hankyung.com/business/article/202610017365b",
   "http://www.yonhapnewstv.co.kr/news/AKR20261001113541XZ7",
@@ -2999,12 +2996,12 @@
   "https://www.fnnews.com/news/202610041831546708",
   "https://www.segye.com/newsView/20261004507052?OutUrl=naver",
   "https://www.koreajoongangdaily.com/business/from-banks-to-lenders-suspected-ai-hacks-expose-cracks-in-koreas-financial-defenses/12904281",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=230590"
+  "https://www.job-post.co.kr/news/articleView.html?idxno=230590",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261002190442sZT",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=318648",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315634&inflow=N"
  ],
  "seen_titles": [
-  "마이크론분기·연간모두사상최대…삼성·SK,HBM4패권전격화",
-  "ETF,TDF에서대체자산까지…이유있는흥행가도[2026헤럴드투자대상...",
-  "마이크론호실적'삼전닉스'상승…코스피6870선상승반전",
   "마이크론,'28년까지호황이어질까?...키움證\"범용메모리시장확신...",
   "SK하이닉스\"솔리다임상장,확정된것없어…주주가치최우선\"",
   "'출동경비'서'AI플랫폼'으로…ADT캡스,무인경비고객만족도1위",
@@ -6001,7 +5998,10 @@
   "'몸집'만보는코스닥상폐기준…흑자기업도퇴출걱정",
   "수장없이개문발차…고소·고발쇄도속준비안돼수기접수[공소청...",
   "Frombankstolenders,suspectedAIhacksexposecracksinKorea’sfina",
-  "이상일용인시장,함평군과반도체산단경험공유"
+  "이상일용인시장,함평군과반도체산단경험공유",
+  "[연합뉴스TV스페셜]443회:AI패권전쟁,K-반도체의미래는?",
+  "KT·LGU+계열알뜰폰'0원·마이너스요금'도마...\"공정경쟁훼손우려...",
+  "SK하이닉스,AI투자확대에솔리다임자금조달‘고심’"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,21 @@
   [
    "2026-10-04T19:20:59.352651+09:00",
    "용인시장 공유 반도체 함평군과 이상일 산단 경험"
+  ],
+  [
+   "2026-10-04T20:10:59.387860+09:00",
+   "반도체의 AI패권전쟁 미래는 443회"
+  ],
+  [
+   "2026-10-04T20:10:59.387860+09:00",
+   "우려 훼손 알뜰폰 도마 0원 LGU 요금 마이너스 공정경쟁 KT 계열"
+  ],
+  [
+   "2026-10-04T20:10:59.387860+09:00",
+   "확대에 고심 SK하이닉스 솔리다임 자금조달 AI 투자"
   ]
  ],
- "last_run": "2026-10-04T20:01:17.278392+09:00",
+ "last_run": "2026-10-04T20:11:10.464986+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
