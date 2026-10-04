@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsq.co.kr/news/articleView.html?idxno=500323",
-  "https://biz.heraldcorp.com/article/10890459",
-  "http://www.kdfnews.com/news/articleView.html?idxno=188716",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145127",
   "https://www.thebigdata.co.kr/view.php?ud=2026100112314992990ecbf9426b_23",
   "https://www.newscj.com/news/articleView.html?idxno=3437039",
@@ -2999,12 +2996,12 @@
   "https://www.segye.com/newsView/20261004506930?OutUrl=naver",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1726619",
   "https://www.segye.com/newsView/20261004506907?OutUrl=naver",
-  "https://biz.chosun.com/topics/topics_social/2026/10/05/DGQFLG6L6RDQXN7YTBIFN7HRZM/"
+  "https://biz.chosun.com/topics/topics_social/2026/10/05/DGQFLG6L6RDQXN7YTBIFN7HRZM/",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612277",
+  "https://www.yna.co.kr/view/AKR20261003025100008?input=1195m",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612265"
  ],
  "seen_titles": [
-  "1760억달러몰린K-주식무기한선물…토큰화제언",
-  "[현장]KT·네이버가말하는AIDC의다음무대는…\"AI서비스센터·AI팩...",
-  "수원시의회,발달장애인문화예술페스티벌참석",
   "가을야구확정두산,내친김에4위까지?[프로야구]",
   "SK하이닉스“솔리다임상장,확정된사항없어…주주가치최우선”",
   "SK하이닉스,솔리다임중복상장우려에\"결정된것없어…주주가치최우...",
@@ -6001,7 +5998,10 @@
   "외국인‘엑소더스’…코스피수익률주요국‘꼴찌’",
   "\"승부는가동률\"…삼전닉스,메모리증설전2라운드",
   "최태원,‘주주가치최우선’바탕지분매각",
-  "[글로벌거상]“공기한번도안늦췄다”…멕시코서1억달러건설사..."
+  "[글로벌거상]“공기한번도안늦췄다”…멕시코서1억달러건설사...",
+  "[반도체픽]\"마이크론34조쏟아도공급과잉은딴세상\"…전문가들\"유...",
+  "이번주크레딧2조원발행…파라다이스수요예측도",
+  "[증시신호등]닉스12조·삼전5조'폭풍매도'…하이닉스외인지분율..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,21 @@
   [
    "2026-10-05T06:21:11.574328+09:00",
    "늦췄다 공기 1억달러 건설사 번도 멕시코서"
+  ],
+  [
+   "2026-10-05T06:31:14.438387+09:00",
+   "마이크론 쏟아도 공급 세상 전문가들 과잉은 34조"
+  ],
+  [
+   "2026-10-05T06:31:14.438387+09:00",
+   "크레딧 2조원 발행 이번주 수요예측도 파라다이스"
+  ],
+  [
+   "2026-10-05T06:31:14.438387+09:00",
+   "닉스 폭풍 하이닉스 매도 12조 5조 지분율 삼전 외인"
   ]
  ],
- "last_run": "2026-10-05T06:21:35.904455+09:00",
+ "last_run": "2026-10-05T06:31:25.442917+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
