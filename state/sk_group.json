@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610010073&t=NN",
-  "https://news.mtn.co.kr/news-detail/2026100110140790821",
-  "https://news.mtn.co.kr/news-detail/2026100110114034660",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=85423",
   "https://www.news1.kr/finance/general-stock/6307341",
   "https://www.mediapen.com/news/view/1127188",
   "https://www.econovill.com/news/articleView.html?idxno=752416",
@@ -2999,13 +2995,13 @@
   "https://www.ytn.co.kr/_ln/0134_202610041403186976",
   "https://www.mk.co.kr/article/12168002",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011291",
-  "https://www.starnewskorea.com/sports/2026/10/04/2026100413031478356"
+  "https://www.starnewskorea.com/sports/2026/10/04/2026100413031478356",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=49460",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=255861",
+  "http://www.bizwnews.com/news/articleView.html?idxno=148016",
+  "https://www.seoulfn.com/news/articleView.html?idxno=639281"
  ],
  "seen_titles": [
-  "中매체\"美,동맹반도체기업에'지리적中의존'축소요구\"",
-  "SK하이닉스,솔리다임상장우려에\"주주가치최우선\"",
-  "SK하이닉스,솔리다임상장선긋기…\"주주가치고려할사안\"",
-  "SK하이닉스,솔리다임美상장설에\"결정된내용없다\"",
   "ADT캡스,고객만족도무인경비1위...AI로보안넘어매장관리까지",
   "정재헌SKTCEO\"마부작침처럼…고객신뢰다시쌓겠다\"",
   "솔리다임몸집키우는SK하이닉스\"외부자본유치시주주가치지킬것...",
@@ -6001,7 +5997,11 @@
   "'이상징후'보이기시작...암울한한국분위기[자막뉴스]",
   "제조업서쌓은AI,이젠국방분야로확장",
   "'나고야검객'오상욱,AG통산5金으로한국선수단MVP쾌거…한일전...",
-  "[원주현장]\"이런적은처음\"이규섭감독도놀랐다...원주열기미쳤..."
+  "[원주현장]\"이런적은처음\"이규섭감독도놀랐다...원주열기미쳤...",
+  "[STPICK]HBM·낸드투자동시에…SK하이닉스,솔리다임자금조달'고심...",
+  "최태원회장,지분9440억매각…SK주가불확실성해소되나",
+  "키움증권,연금저축·중개형ISA'절세2종개설이벤트'진행",
+  "[창간24/한국무역80년②]\"팔수있는건다판다\"···경제개발5개..."
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,17 @@
   [
    "2026-10-04T14:21:01.942481+09:00",
    "AI 국방 쌓은 분야로 확장 이젠 제조업서"
+  ],
+  [
+   "2026-10-04T14:41:00.099357+09:00",
+   "연금저축 개설 진행 중개형ISA 이벤트 절세2종 키움증권"
+  ],
+  [
+   "2026-10-04T14:41:00.099357+09:00",
+   "판다 있는 5개 경제개발"
   ]
  ],
- "last_run": "2026-10-04T14:31:08.443212+09:00",
+ "last_run": "2026-10-04T14:41:09.385271+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
