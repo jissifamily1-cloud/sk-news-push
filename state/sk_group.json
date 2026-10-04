@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202610010010",
   "https://www.busan.com/view/busan/view.php?code=2026100110312432871",
   "https://www.wikitree.co.kr/articles/1163248",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171208",
@@ -2999,10 +2998,10 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000019681&cp=nv",
   "https://www.mk.co.kr/article/12168126",
   "https://www.hankyung.com/article/2026100425951",
-  "https://www.busan.com/view/busan/view.php?code=2026100417100910540"
+  "https://www.busan.com/view/busan/view.php?code=2026100417100910540",
+  "https://www.hankookilbo.com/news/article/A2026100412350002163?did=NA"
  ],
  "seen_titles": [
-  "SK하이닉스,솔리다임미국상장설에“확정된것없다”",
   "美국채금리부담에코스피6800'위협'…코스닥한달만에2%강세[장중...",
   "현대차,생성형AI품은'창밖동화'…플레오스커넥트앱공모전대상선...",
   "\"가치분산될라\"SK하닉개미들뿔났다…솔리다임상장추진설'시끌'",
@@ -6001,7 +6000,8 @@
   "“2028년이후가문제”…메모리증설경쟁에‘공급과잉’우려다시...",
   "외국인한달새17조팔아…삼전닉스비중연중최저",
   "\"코리안드림꿈꾸는인재들…국내유치할환경조성해야\"",
-  "막오르는국감…‘민생’방어막치는與,‘총체적실패’벼르는野"
+  "막오르는국감…‘민생’방어막치는與,‘총체적실패’벼르는野",
+  "안뚫린데가없다…\"업무에AI도입늘고있는데\"기업들노심초사"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-10-04T17:21:02.992115+09:00",
    "국감 총체적 벼르는 오르는 실패 치는 방어막 민생"
+  ],
+  [
+   "2026-10-04T17:31:09.614004+09:00",
+   "뚫린 데가 AI 있는데 없다 늘고 도입 기업들 노심초사 업무에"
   ]
  ],
- "last_run": "2026-10-04T17:21:12.072076+09:00",
+ "last_run": "2026-10-04T17:31:16.084704+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
