@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newskr.kr/news/articleView.html?idxno=106819",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437330",
-  "https://www.news1.kr/industry/general-industry/6307342",
   "http://www.4th.kr/news/articleView.html?idxno=2118998",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100130.html",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89941",
@@ -2999,12 +2996,12 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610040012&t=NN",
   "https://www.getnews.co.kr/news/articleView.html?idxno=882572",
   "https://news.ifm.kr/news/articleView.html?idxno=480837",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870000"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870000",
+  "https://economist.co.kr/article/view/ecn202610040003",
+  "https://www.inthenews.co.kr/news/article.html?no=92627",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261004095553FgE"
  ],
  "seen_titles": [
-  "SK하이닉스\"솔리다임상장미확정…기존주주영향충분히살필것\"",
-  "'4년만의정기보수'SK인천석유화학,40일간공정중단",
-  "SK하닉자회사솔리다임,美IPO추진설에소액주주반발…\"주주가치보...",
   "청주신분평지구992가구10월분양",
   "액트\"솔리다임상장,SK하이닉스주주가치훼손우려…재검토하라\"",
   "SK하이닉스\"솔리다임자본활용방안결정된것없어\"",
@@ -6001,7 +5998,10 @@
   "사상최대실적에도\"주가왜이래?\"…메모리호황속변수",
   "외국인,9월한달간코스피서20조'셀코리아'...'삼전닉스'비중40%...",
   "\"AI반도체,지금사도될까?\"…ETF이름보다'무엇을담았나'부터봐야...",
-  "외국인순매도20조...반도체투톱집중"
+  "외국인순매도20조...반도체투톱집중",
+  "'포모마저그립다'…외국인한달새20조팔아치운'삼전·닉스',자사주...",
+  "[주간AI노트]AI패권,특허로승부본다…민·관‘K-AI’원팀출범",
+  "\"범죄의심됩니다\"…AI로피싱예방나선이통사들"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,17 @@
   [
    "2026-10-04T09:21:03.295815+09:00",
    "66억5000만 셰어홀더이누 급등 하루 달러 1위는 거래량"
+  ],
+  [
+   "2026-10-04T10:01:14.500040+09:00",
+   "출범 원팀 특허로 승부 패권 AI 본다"
+  ],
+  [
+   "2026-10-04T10:01:14.500040+09:00",
+   "의심됩니다 이통사들 AI로 범죄 피싱 예방 나선"
   ]
  ],
- "last_run": "2026-10-04T09:51:04.646187+09:00",
+ "last_run": "2026-10-04T10:01:22.833988+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
