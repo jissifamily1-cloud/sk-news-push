@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=764595",
-  "https://www.ddaily.co.kr/page/view/2026100114304571546",
-  "https://www.mydaily.co.kr/page/view/2026100114532142629",
-  "https://zdnet.co.kr/view/?no=20261001093751",
   "https://www.huffingtonpost.kr/article/260918",
   "https://news.ifm.kr/news/articleView.html?idxno=480687",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704229",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12168379",
   "https://www.polinews.co.kr/news/articleView.html?idxno=744883",
   "https://www.edaily.co.kr/News/Read?newsId=02000806645609968&mediaCodeNo=257",
-  "https://www.hankyung.com/article/202610053447h"
+  "https://www.hankyung.com/article/202610053447h",
+  "https://www.viva100.com/article/20261005500437",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315633&inflow=N",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1103278",
+  "https://www.fnnews.com/news/202610041406327709"
  ],
  "seen_titles": [
-  "Memoryshortagedeepens,extendingboomforKoreanchipmakers",
-  "AI글로벌특허경쟁,민·관원팀으로맞힘",
-  "현대해상,청년경험채용연계‘프로젝트트레일마크’공개",
-  "현대해상,청년사회문제해결경험미래역량으로…SK와'트레일마크'추...",
   "나무AX자회사에스케이팩,피지컬AI자율제조국제공동R&D과제선정",
   "청주주거축남부권으로확장…신분평지구서992세대공급",
   "AI서비스아이디어390개몰렸다…과기정통부,본선12팀선정",
@@ -6001,21 +5997,13 @@
   "K바이오존재감…‘아태10대거래’에삼성·SK·한미선정",
   "롯데면세점,AI·브랜드협력…상품검색부터매장상담까지",
   "李정부2년차국감,여야전면전…대미투자·DMZ·사법개편'격돌'",
-  "SK하이닉스방류수유입하천,염소·황산이온FAO권고치초과"
+  "SK하이닉스방류수유입하천,염소·황산이온FAO권고치초과",
+  "아태바이오제약10대거래에韓3건⋯삼성바이오·SK바이오팜·한미선...",
+  "\"알뜰폰소규모사업자3곳중1곳,고객센터직원3명이하\"",
+  "경기도,용인반도체클러스터가동앞두고방류수관리기준강화추진",
+  "기업인안보이는국감..'친기업·메가프로젝트'에與몸사리나"
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T08:40:57.285494+09:00",
-   "본격화 개발사업 아산시 중부권"
-  ],
-  [
-   "2026-10-05T08:40:57.285494+09:00",
-   "정규장 웃돈 현대차 종가보다"
-  ],
-  [
-   "2026-10-05T08:40:57.285494+09:00",
-   "마이크론도 두드린다 불량 쎄크 샀다 HBM 삼성 잡는"
-  ],
   [
    "2026-10-05T08:51:01.899156+09:00",
    "7명뿐 침해사고 증원은 KISA 2배인데 84명 요구에 4년 인력"
@@ -6399,9 +6387,17 @@
   [
    "2026-10-05T14:21:39.139528+09:00",
    "황산이온 초과 하천 유입 FAO 방류수 권고치 SK하이닉스 염소"
+  ],
+  [
+   "2026-10-05T14:41:05.003543+09:00",
+   "반도체 경기도 관리기준 가동 강화 앞두고 용인 클러스터 방류수"
+  ],
+  [
+   "2026-10-05T14:41:05.003543+09:00",
+   "몸사리나 기업인 국감 친기업 보이는 메가프로젝트"
   ]
  ],
- "last_run": "2026-10-05T14:31:13.725216+09:00",
+ "last_run": "2026-10-05T14:41:14.514155+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
