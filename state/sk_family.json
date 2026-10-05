@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2117544",
-  "https://www.mediapen.com/news/view/1124269",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487965",
   "https://zdnet.co.kr/view/?no=20260917112651",
   "https://www.newspost.kr/news/articleView.html?idxno=225756",
@@ -2999,11 +2997,11 @@
   "https://www.dt.co.kr/article/12087427",
   "https://www.dentalnews.or.kr/news/article.html?no=48299",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272289&CMPT_CD=P0010",
-  "https://www.idaegu.com/news/articleView.html?idxno=666074"
+  "https://www.idaegu.com/news/articleView.html?idxno=666074",
+  "http://www.jndn.com/article.php?aid=1791186187440658003",
+  "https://www.busan.com/view/busan/view.php?code=2026100515060398130"
  ],
  "seen_titles": [
-  "중기중앙회-한국중기학회,혁신벤처포럼「모두가찾는코스닥」개최",
-  "SK하이닉스‘메이드인USA’메모리시대여나",
   "비투엔,차량용영상·반도체로사업확장",
   "구광모LG회장,\"AI는미래경쟁력핵심축\"…AX핵심은'속도'",
   "최태원측,‘김희영1000억’발언항고…“노소영·자녀지출까지뒤...",
@@ -6001,7 +5999,9 @@
   "‘줄소환’서‘선별소환’으로…국감에서사라진대기업총수들",
   "점막모사생체재료개발‘주목’",
   "이토록눈부신업적남기고도한국인에게잊힌작가",
-  "6일국감첫날부터정면충돌…조희대대법원장'불출석'에여야공방격..."
+  "6일국감첫날부터정면충돌…조희대대법원장'불출석'에여야공방격...",
+  "전남광주통합특별시,출범100일시민음악회연다",
+  "이재명정부두번째국감돌입…민주“민생올인”vs국힘“실정심..."
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-10-05T16:40:14.054938+09:00",
    "국감 불출석 조희대 여야 공방 대법원장 정면충돌 6일 첫날부터"
+  ],
+  [
+   "2026-10-05T16:50:14.373729+09:00",
+   "이재명 정부 국감 민주 돌입 번째 민생 올인 국힘 vs 실정"
   ]
  ],
- "last_run": "2026-10-05T16:40:27.512243+09:00",
+ "last_run": "2026-10-05T16:50:29.431222+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
