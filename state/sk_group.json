@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261001000351",
-  "https://news.jtbc.co.kr/article/NB12320901?influxDiv=NAVER",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744576",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675656",
-  "https://www.gosiweek.com/article/1065590292790561",
-  "https://www.ddaily.co.kr/page/view/2026100113575634143",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=255587",
   "https://www.bloter.net/news/articleView.html?idxno=674327",
   "https://www.ajunews.com/view/20260923105141356",
   "https://www.asiatime.co.kr/article/20261001500337",
@@ -2999,16 +2992,16 @@
   "https://zdnet.co.kr/view/?no=20261005111000",
   "http://www.metroseoul.co.kr/article/20261005500109",
   "https://www.fnnews.com/news/202610051320527656",
-  "http://www.segyebiz.com/newsView/20261005505709?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20261005505709?OutUrl=naver",
+  "http://www.cctimes.kr/news/articleView.html?idxno=930566",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171426",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16238485",
+  "https://www.kbsm.net/news/view.php?idx=536550",
+  "https://www.asiatime.co.kr/article/20261005500053",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278219",
+  "https://www.mt.co.kr/estate/2026/10/05/2026100213515497219"
  ],
  "seen_titles": [
-  "中관찰자망“美,한국반도체공급망의중국의존축소압박”",
-  "AI가고른SKT'10월T멤버십'…혜택쏟아진다",
-  "SK하이닉스,솔리다임美상장설에\"확정된것없어…장기주주가치가...",
-  "[단독]유심사태뒤통신3사대리점'빈동네'없앴지만…사각지대는...",
-  "허재냐이현중이냐…KBL감독들이꼽은한국농구'GOAT'는?\"마이클조...",
-  "[재계포커스]SK,AI에그룹미래걸었다…반도체호황이'리밸런싱'까...",
-  "[무등의아침]김상욱“광주AI·울산AX로시너지내자…전남광주,울...",
   "여성1인가구밀집지역에경찰드론·순찰로봇뜬다…오늘부터3개월집...",
   "현대차그룹,아이오닉3·EV2배터리조달다변화…삼성SDI·CATL·SK온낙점...",
   "\"믿을곳은한국뿐\"…젠슨황덕담에숨겨진'공급망·고객사'전략",
@@ -6001,17 +5994,16 @@
   "[ZD브리핑]'AI페스타26'개막…국감·삼성전자실적도주목",
   "객실에서세계식탁으로…호텔업계,프리미엄식품사업에힘준다",
   "삼성바이오·SK바이오팜·한미약품,올해'아태10대바이오거래'선정",
-  "단일종목레버리지20주단위거래…단주처분방안검토"
+  "단일종목레버리지20주단위거래…단주처분방안검토",
+  "'108만평규모'아산탕정2도시개발사업착공",
+  "아태지역흔든K-바이오…삼성·SK·한미,'영향력큰딜'선정",
+  "프로농구오늘(5일)경기일정…현대모비스VSKCC-한국가스공사VS정관...",
+  "영주시노인복지관,'제8회스마일페스티벌'마무리...어르신1000여명...",
+  "“고객정보유출왜(?)”…티빙·이통3사줄줄이국감행",
+  "ForeignInvestorsSellMoreThan20TrillionWoninKOSPIShares",
+  "\"집값올라청약기다렸는데분양가도뛰어\"…대기실수요도내집마련..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T07:31:07.062049+09:00",
-   "국장 투자하면 안됩니다 조홍래 갈까 그렇게 미장"
-  ],
-  [
-   "2026-10-05T07:40:59.370663+09:00",
-   "영업익 3조원대 전망 기록 3분기 통신3사"
-  ],
   [
    "2026-10-05T07:50:58.246988+09:00",
    "김빠진 증권사 CEO 정무위 채택도 국감 불발 증인"
@@ -6379,9 +6371,29 @@
   [
    "2026-10-05T13:21:01.895413+09:00",
    "세계 식품 호텔업계 식탁으로 객실에서 힘준다 사업에 프리미엄"
+  ],
+  [
+   "2026-10-05T13:41:00.166830+09:00",
+   "정관 5일 VS 프로농구 한국가스공사 경기 일정 KCC 현대모비스"
+  ],
+  [
+   "2026-10-05T13:41:00.166830+09:00",
+   "1000여 제8회 스마일 영주시노인복지관 마무리 페스티벌 어르신"
+  ],
+  [
+   "2026-10-05T13:41:00.166830+09:00",
+   "티빙 유출 정보 이통3사 고객 국감행 줄줄이"
+  ],
+  [
+   "2026-10-05T13:41:00.166830+09:00",
+   "KOSPI Sell Investors Foreign Trillion Won Than Shares in More"
+  ],
+  [
+   "2026-10-05T13:41:00.166830+09:00",
+   "마련 실수요도 대기 분양가도 집값 뛰어 기다렸는데 청약 올라"
   ]
  ],
- "last_run": "2026-10-05T13:31:10.095906+09:00",
+ "last_run": "2026-10-05T13:41:17.090400+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
