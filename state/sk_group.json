@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064461",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=611520",
-  "https://www.thepowernews.co.kr/view.php?ud=202610011332389549de3f0aa1be_7",
-  "https://www.newsway.co.kr/news/view?ud=2026100111181481542",
-  "https://news.ifm.kr/news/articleView.html?idxno=480668",
-  "https://www.newstnt.com/news/articleView.html?idxno=721026",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278045",
-  "https://www.dailian.co.kr/news/view/1696769/?sc=Naver",
-  "https://www.mt.co.kr/policy/2026/10/01/2026100113231134175",
-  "http://www.4th.kr/news/articleView.html?idxno=2119018",
   "https://biz.chosun.com/it-science/ict/2026/10/01/H6H6ZC2G6FF5XDEM4I37WYKHTQ/",
   "https://news.unn.net/news/articleView.html?idxno=598163",
   "https://www.hellot.net/news/article.html?no=115241",
@@ -2999,19 +2989,19 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068520",
   "https://www.edaily.co.kr/News/Read?newsId=01617046645609968&mediaCodeNo=257",
   "https://www.g-enews.com/view.php?ud=20261005084926781906806b77b_1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3713140"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3713140",
+  "https://economist.co.kr/article/view/ecn202609220073",
+  "https://zdnet.co.kr/view/?no=20261002221843",
+  "https://www.edaily.co.kr/News/Read?newsId=01649846645609968&mediaCodeNo=257",
+  "https://www.edaily.co.kr/News/Read?newsId=01630166645609968&mediaCodeNo=257",
+  "https://www.newsway.co.kr/news/view?ud=2026100214193888774",
+  "https://www.asiatime.co.kr/article/20261001500358",
+  "https://dealsite.co.kr/articles/170058",
+  "https://www.mk.co.kr/article/12167269",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=204902",
+  "https://theviewers.co.kr/View.aspx?No=4250636"
  ],
  "seen_titles": [
-  "'숨은조달'만4.6조…SK이노금융익스포저10조육박[fn마켓워치]",
-  "SKecoplantSellsCENVIROStaketoVeolia",
-  "한전·SK하이닉스,찰나의정전도막는다..K-반도체전력공급파트너십...",
-  "호텔김치도미국서각광…워커힐\"올해100t수출\"",
-  "한전-SK하이닉스,반도체전력안정화협약…AI수요대응나선다",
-  "멤버십이용패턴부터검색트렌드까지…SKT,AI로10월혜택짰다",
-  "국감증인의결했지만…추가소환변수에이한우·송치영대표'좌불안...",
-  "한화,'브랜드사용료'에감춰진의문…'AI반도체,지금사도될까'[머...",
-  "복기왕의원,청년10명중6명비정규직",
-  "한전-SK하이닉스,반도체생산안정위해전력설비운영협력",
   "[영상]최태원·김희영,뉴욕서나란히포착…재산분할판결후첫동반...",
   "한전-SK하이닉스,'K반도체초격차'전력공급파트너십구축",
   "무제한요금제월1만원대…SKT에어,자급제고객공략",
@@ -6001,7 +5991,17 @@
   "[궁금해집]7호선중화역인근작지만강한'라온프라이빗'",
   "“1승이부족합니다”일본에서걸려온전화…신지애‘68승’을다시...",
   "[긴급진단]메모리반도체주가돌연폭락\"도시바HDD쇼크\"...뉴욕증시...",
-  "진보당충북도당,SK하이닉스청주공장\"노동자건강실태점검부족\""
+  "진보당충북도당,SK하이닉스청주공장\"노동자건강실태점검부족\"",
+  "GPU수천장있어도논다…AIDC성능가르는‘데이터길'",
+  "AI데이터센터식혀라...삼성은'글로벌사냥',LG는'내실고도화'",
+  "[단독]\"알뜰폰1만명당1명\"이라더니…정부,상담사수도몰랐다",
+  "진코스텍·엘리스그룹일반청약[증시캘린더]",
+  "HBM5시대열릴까?삼성·SK,SEDEX서기술맞대결",
+  "\"요즘누가카드들고다녀요\"…카드사도변화의파도탄다",
+  "[오늘의딜PICK][영상]중국AI투자광풍,한국반도체엔'양날의검'",
+  "환율다시오르나...IBK證“연말1400원전망”",
+  "토큰증권,투자대상'무궁무진'…미술품·한우넘어IP까지확대",
+  "서울민간아파트분양가1년새34%↑…공사비오르자청약수요도‘선..."
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,41 @@
   [
    "2026-10-05T09:01:15.790073+09:00",
    "실태 점검 건강 청주공장 부족 노동자 진보당 충북도당 SK하이닉스"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "1명 1만명당 상담사 이라더니 정부 알뜰폰 수도 몰랐다"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "진코스텍 일반청약 엘리스그룹"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "SEDEX서 삼성 기술 HBM5 시대 열릴까 맞대결"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "들고다녀요 카드사도 카드 누가 요즘 변화의 탄다 파도"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "반도체엔 투자 양날의 광풍 한국 중국 AI"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "다시 환율 연말 오르나 1400원 IBK 전망"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "미술품 투자대상 IP까지 확대 넘어 토큰증권 무궁무진 한우"
+  ],
+  [
+   "2026-10-05T09:20:58.306193+09:00",
+   "분양가 민간아파트 서울 수요도 청약 오르자 1년 공사비"
   ]
  ],
- "last_run": "2026-10-05T09:11:08.431572+09:00",
+ "last_run": "2026-10-05T09:21:22.636654+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
