@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.queen.co.kr/news/articleView.html?idxno=464208",
-  "https://www.busan.com/view/busan/view.php?code=2026100118083366363",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437449",
-  "https://www.fnnews.com/news/202610011807016709",
-  "https://www.ddaily.co.kr/page/view/2026100117205854794",
-  "http://www.finomy.com/news/articleView.html?idxno=262726",
-  "https://www.yna.co.kr/view/AKR20261001178300001?input=1195m",
-  "https://www.koreajoongangdaily.com/business/micron-posts-record-earnings-signals-upside-for-samsung-sk-hynix/12900972",
-  "http://www.kdfnews.com/news/articleView.html?idxno=188765",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2444238",
-  "https://www.hellot.net/news/article.html?no=115267",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610011621447830222",
   "http://www.finomy.com/news/articleView.html?idxno=262720",
   "https://www.mk.co.kr/article/12166425",
@@ -2999,20 +2988,20 @@
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259338",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610060013&t=NN",
   "https://www.fntimes.com/html/view.php?ud=202610060719198784141825007d_18",
-  "https://www.ajunews.com/view/20261006071902326"
+  "https://www.ajunews.com/view/20261006071902326",
+  "https://www.etoday.co.kr/news/view/2632530",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445284",
+  "https://www.g-enews.com/view.php?ud=202610060735128354fbbec65dfb_1",
+  "https://biz.sbs.co.kr/article_hub/20000338326?division=NAVER",
+  "https://www.g-enews.com/view.php?ud=202610060733187472fbbec65dfb_1",
+  "https://biz.heraldcorp.com/article/10893532",
+  "https://www.etoday.co.kr/news/view/2628188",
+  "https://www.newsis.com/view/NISX20261006_0003814697",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272099&CMPT_CD=P0010",
+  "https://thetracker.co.kr/View.aspx?No=4252503",
+  "https://www.ytn.co.kr/_ln/0105_202610060730070802"
  ],
  "seen_titles": [
-  "'100조투자'청주,반도체국가거점도약위한기반넓힌다",
-  "SKT,고객만족도1위탈환…\"마부작침자세로신뢰회복\"",
-  "[위클리오늘]동래구소식(10.1)",
-  "금융정책디지털자산투자등가장핫한주제다룬亞최대가산자산...",
-  "[오늘증시]코스피,반도체훈풍에강세\"6971선마감\"...코스닥도반도...",
-  "울산현대차공장,전기차전환속도높인다",
-  "정무위국감,김용범·박현주증인채택불발…'맹탕국감'",
-  "고객만족도1위되찾은SKT\"더높은기준세울것\"",
-  "SKT정재헌\"무너진믿음1년만에되찾아\"…3대고객만족도1위",
-  "[2026국감]서남권'반도체클러스터'근로자주거2000억⋯지원기준'공...",
-  "정무위,홈플러스대표등국감증인채택…野\"김용범불러야\"",
   "Micronpostsrecordearnings,signalsupsideforSamsung,SKhynix",
   "[마감시황]코스피,반도체수출에방향틀어6971선…코스닥4.48%급등",
   "청주시,국가반도체클러스터지정총력",
@@ -6001,7 +5990,18 @@
   "[넥스트-샷]채권은22년전으로,나스닥은새역사로···또'AI勝'",
   "\"설마했는데진짜?\"...삼전닉스개미들,실적전망에'술렁'",
   "[KFT모닝브리프]2026.10.06—오늘꼭알아야할국내외경제뉴스",
-  "[아주증시포커스][단독]국민성장펀드18조승인했지만실제집행률25..."
+  "[아주증시포커스][단독]국민성장펀드18조승인했지만실제집행률25...",
+  "산업부,오늘국감화두는‘대미투자사업성·800조반도체외압설’",
+  "뉴욕증시,국채금리고공행진에도기술주상승세에올라⋯엔비디아2%대...",
+  "암호화폐채굴기끄고그래픽처리장치켠아이렌,9400억적자뚫고13조...",
+  "[마켓프리뷰]금리·유가부담에'7천피'공방…자사주매입막바지",
+  "미국빅테크투자금30%삼킨한국과대만,서버증설멈추면공급망흔...",
+  "김중남강릉시장“환동해6개시군공동번영..소도시욕심버리겠다”",
+  "AI데이터센터따라몸값뛴다…‘빅딜’이어지방개발도확산[AI新...",
+  "[오늘의증시]美금리상승에도나스닥최고치…코스피상승출발전망",
+  "낮은곳에서크게휘두르다,롯데의2루수정훈",
+  "독일연기금,韓임대주택시장에1000억원투자",
+  "군집위성관측체계구축...단백질결정화연구등수행"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,49 @@
   [
    "2026-10-06T07:41:04.421871+09:00",
    "실제 집행률 18조 국민성장펀드 승인했지만"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "엔비디아 기술주 올라 상승세에 뉴욕증시 국채금리 고공행진에도"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "아이렌 암호화폐 끄고 채굴기 뚫고 13조 적자 9400억 그래픽처리장치"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "막바지 7천피 매입 유가 부담에 자사주 공방 금리"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "대만 미국 공급망 서버 증설 투자금 빅테크 한국과 삼킨 멈추면"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "강릉시장 6개시군 번영 소도시 환동해 버리겠다 김중남 욕심 공동"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "이어 AI 지방 데이터센터 따라 확산 빅딜 개발도 뛴다 몸값"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "상승 상승에도 최고치 전망 출발 코스피 금리 나스닥"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "낮은 2루수 곳에서 롯데의 크게 휘두르다 정훈"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "독일 임대주택 시장에 연기금 투자 1000억원"
+  ],
+  [
+   "2026-10-06T07:51:06.639777+09:00",
+   "관측체계 연구 단백질 결정화 수행 구축 군집위성"
   ]
  ],
- "last_run": "2026-10-06T07:41:23.136871+09:00",
+ "last_run": "2026-10-06T07:51:35.891651+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
