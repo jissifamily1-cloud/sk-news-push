@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437413",
-  "https://www.mk.co.kr/article/12166159",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728673",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37966",
-  "https://www.tournews21.com/news/articleView.html?idxno=144763",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608311406409600108480",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=255714",
   "https://www.nspna.com/news/?newsid=830317",
@@ -2999,14 +2994,14 @@
   "https://www.sedaily.com/article/20098200",
   "https://www.hankyung.com/article/2026100537881",
   "https://www.sedaily.com/article/20098199",
-  "https://www.busan.com/view/busan/view.php?code=2026100517384110252"
+  "https://www.busan.com/view/busan/view.php?code=2026100517384110252",
+  "https://www.sportsseoul.com/news/read/1639470",
+  "https://biz.heraldcorp.com/article/10893398",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539505",
+  "https://www.sedaily.com/article/20098212",
+  "https://www.idomin.com/news/articleView.html?idxno=2016306"
  ],
  "seen_titles": [
-  "SKAX,비개발자도AI에이전트만든다…‘AI부트캠프바이브’출시",
-  "[마감시황]코스피,133.31포인트(+1.95%)오른6971.35마감",
-  "코스피상승전환해7000선턱밑까지…코스닥은4%대'급등'",
-  "[증시-마감]코스피,4거래일만에상승마감…6,900선까지회복",
-  "메모리대형주에서장비주까지…D램ETF‘원조’한화운용",
   "美물가안도에마이크론까지…반도체날자코스피6970선'껑충'",
   "스타트업골라서키우는AC,직접만드는벤처스튜디오",
   "카카오,월4900원통합멤버십출시…혜택은",
@@ -6001,7 +5996,12 @@
   "삼전닉스파생증거금률올들어첫하향",
   "원화강세의그늘…상장사영업익전망'뒷걸음질'",
   "[투자의창]숨고른원·달러환율,다시오를까",
-  "[밀물썰물]'독파모'유감"
+  "[밀물썰물]'독파모'유감",
+  "SK하이닉스방류하천염소·황산이온‘FAO권고치초과’…경기도,기...",
+  "리사수한국다시찾는다…AMD,韓AI협력확대기대감",
+  "SK하이닉스방류수염소·황산이온,'FAO권고치'초과",
+  "美규제허점틈타액침DUV343대비축…“中,7나노AI칩생산기반확...",
+  "[현장의눈]대통령실의깜냥2"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,17 @@
   [
    "2026-10-05T17:51:08.917249+09:00",
    "유감 독파모"
+  ],
+  [
+   "2026-10-05T18:01:22.143090+09:00",
+   "AI칩 비축 액침 7나노 규제 DUV 생산기반 틈타 343대 허점"
+  ],
+  [
+   "2026-10-05T18:01:22.143090+09:00",
+   "대통령실의 깜냥"
   ]
  ],
- "last_run": "2026-10-05T17:57:06.245813+09:00",
+ "last_run": "2026-10-05T18:01:30.344541+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
