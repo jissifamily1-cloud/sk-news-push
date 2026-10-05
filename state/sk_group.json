@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.huffingtonpost.kr/article/260918",
-  "https://news.ifm.kr/news/articleView.html?idxno=480687",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704229",
-  "http://www.metroseoul.co.kr/article/20261001500387",
   "https://www.yna.co.kr/view/AKR20261001065200017?input=1195m",
   "https://www.m-i.kr/news/articleView.html?idxno=2001811",
   "https://en.yna.co.kr/view/AEN20261001007200320?input=2106m",
@@ -2999,13 +2995,13 @@
   "https://www.viva100.com/article/20261005500437",
   "http://www.newstomato.com/ReadNews.aspx?no=1315633&inflow=N",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1103278",
-  "https://www.fnnews.com/news/202610041406327709"
+  "https://www.fnnews.com/news/202610041406327709",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299969375636",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764595",
+  "https://www.newscj.com/news/articleView.html?idxno=3437925",
+  "https://www.fnnews.com/news/202610051044526129"
  ],
  "seen_titles": [
-  "나무AX자회사에스케이팩,피지컬AI자율제조국제공동R&D과제선정",
-  "청주주거축남부권으로확장…신분평지구서992세대공급",
-  "AI서비스아이디어390개몰렸다…과기정통부,본선12팀선정",
-  "SK하이닉스'중복상장우려'솔리다임상장설다시한번진화나서,\"확...",
   "[공시추적]\"20년만의고점\"경고해놓고…반도체파생상품쏟아낸증권...",
   "과기정통부,'모두의AI실험실'발대식…12개팀서비스개발돌입",
   "SK에너지,연료공급·고객서비스강화…16년연속고객만족도1위",
@@ -6001,7 +5997,11 @@
   "아태바이오제약10대거래에韓3건⋯삼성바이오·SK바이오팜·한미선...",
   "\"알뜰폰소규모사업자3곳중1곳,고객센터직원3명이하\"",
   "경기도,용인반도체클러스터가동앞두고방류수관리기준강화추진",
-  "기업인안보이는국감..'친기업·메가프로젝트'에與몸사리나"
+  "기업인안보이는국감..'친기업·메가프로젝트'에與몸사리나",
+  "현대해상,청년경험채용연계‘프로젝트트레일마크’공개",
+  "현대해상,청년사회문제해결경험미래역량으로…SK와'트레일마크'추...",
+  "정부'독파모·프론티어AI'투트랙재편…4.7조투입",
+  "솔리다임美상장자본조달'투자가치재평가'vs'주주가치희석'[어떻게..."
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-10-05T14:41:05.003543+09:00",
    "몸사리나 기업인 국감 친기업 보이는 메가프로젝트"
+  ],
+  [
+   "2026-10-05T14:51:01.570833+09:00",
+   "투자가치 솔리다임 주주가치 희석 어떻게 상장 재평가 vs 자본조달"
   ]
  ],
- "last_run": "2026-10-05T14:41:14.514155+09:00",
+ "last_run": "2026-10-05T14:51:08.044383+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
