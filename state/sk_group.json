@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261001065200017?input=1195m",
-  "https://www.m-i.kr/news/articleView.html?idxno=2001811",
-  "https://en.yna.co.kr/view/AEN20261001007200320?input=2106m",
-  "https://www.ddaily.co.kr/page/view/2026100114433966501",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364030",
-  "http://www.epj.co.kr/news/articleView.html?idxno=39508",
   "https://www.m-i.kr/news/articleView.html?idxno=2001844",
   "https://en.yna.co.kr/view/AEN20261001007600320?input=2106m",
   "https://www.mt.co.kr/stock/2026/10/01/2026100114200176493",
@@ -2999,15 +2993,15 @@
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299969375636",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=764595",
   "https://www.newscj.com/news/articleView.html?idxno=3437925",
-  "https://www.fnnews.com/news/202610051044526129"
+  "https://www.fnnews.com/news/202610051044526129",
+  "https://www.ddaily.co.kr/page/view/2026100114304571546",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285203321087",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445274",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036653",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870090",
+  "http://www.bizwnews.com/news/articleView.html?idxno=148022"
  ],
  "seen_titles": [
-  "[공시추적]\"20년만의고점\"경고해놓고…반도체파생상품쏟아낸증권...",
-  "과기정통부,'모두의AI실험실'발대식…12개팀서비스개발돌입",
-  "SK에너지,연료공급·고객서비스강화…16년연속고객만족도1위",
-  "AI로주유소추천에영양제검증까지…국민아이디어12팀본선",
-  "韓·美오가며'AI혈맹'…재계·빅테크협력전방위확대",
-  "S.KoreanfirmstounveilAIservicedevelopedundergov'tproject:sou",
   "ADT캡스,KCSI무인경비부문1위…AICCTV경쟁력↑",
   "SK하이닉스솔리다임美상장설에\"판단기준은장기주주가치\"",
   "한전·SK하이닉스,'K-반도체초격차'강화위한전력공급파트너십구축",
@@ -6001,29 +5995,15 @@
   "현대해상,청년경험채용연계‘프로젝트트레일마크’공개",
   "현대해상,청년사회문제해결경험미래역량으로…SK와'트레일마크'추...",
   "정부'독파모·프론티어AI'투트랙재편…4.7조투입",
-  "솔리다임美상장자본조달'투자가치재평가'vs'주주가치희석'[어떻게..."
+  "솔리다임美상장자본조달'투자가치재평가'vs'주주가치희석'[어떻게...",
+  "나무AX자회사에스케이팩,피지컬AI자율제조국제공동R&D과제선정",
+  "국가안보위협하는금융권AI해킹,범국가적민·관합동방어체계로...",
+  "경기도,용인SK하이닉스가동앞두고수질조사…방류수영향살핀다",
+  "SK하이닉스폐수방류되는하천,염소·황산이온수치유엔권고보다높...",
+  "\"내년2월어쩌나\"…용인SK하이닉스앞두고고삼저수지수질비상",
+  "유안타증권,에이블리·4910과제휴이벤트…10월15일까지"
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T08:51:01.899156+09:00",
-   "7명뿐 침해사고 증원은 KISA 2배인데 84명 요구에 4년 인력"
-  ],
-  [
-   "2026-10-05T08:51:01.899156+09:00",
-   "3만7000가구 청주 조성 남청주권에 남진 주택시장 주거벨트 가속"
-  ],
-  [
-   "2026-10-05T09:01:15.790073+09:00",
-   "1승이 신지애 부족합니다 일본에서 다시 걸려온 68승 전화"
-  ],
-  [
-   "2026-10-05T09:01:15.790073+09:00",
-   "쇼크 도시바 뉴욕증시 돌연 폭락 주가 반도체 HDD 메모리"
-  ],
-  [
-   "2026-10-05T09:01:15.790073+09:00",
-   "실태 점검 건강 청주공장 부족 노동자 진보당 충북도당 SK하이닉스"
-  ],
   [
    "2026-10-05T09:20:58.306193+09:00",
    "1명 1만명당 상담사 이라더니 정부 알뜰폰 수도 몰랐다"
@@ -6399,9 +6379,13 @@
   [
    "2026-10-05T14:51:01.570833+09:00",
    "투자가치 솔리다임 주주가치 희석 어떻게 상장 재평가 vs 자본조달"
+  ],
+  [
+   "2026-10-05T15:01:16.403749+09:00",
+   "15일까지 이벤트 에이블리 10월 유안타증권 4910과 제휴"
   ]
  ],
- "last_run": "2026-10-05T14:51:08.044383+09:00",
+ "last_run": "2026-10-05T15:01:22.459231+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
