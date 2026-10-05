@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/it-science/ict/2026/10/01/H6H6ZC2G6FF5XDEM4I37WYKHTQ/",
-  "https://news.unn.net/news/articleView.html?idxno=598163",
-  "https://www.hellot.net/news/article.html?no=115241",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246158",
-  "http://sateconomy.co.kr/news/view/1065587304526380",
-  "http://www.popcornnews.net/news/articleView.html?idxno=134655",
   "https://www.ddaily.co.kr/page/view/2026100111144655628",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065583000822770",
   "https://www.ajunews.com/view/20261001134323335",
@@ -2999,15 +2993,15 @@
   "https://dealsite.co.kr/articles/170058",
   "https://www.mk.co.kr/article/12167269",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=204902",
-  "https://theviewers.co.kr/View.aspx?No=4250636"
+  "https://theviewers.co.kr/View.aspx?No=4250636",
+  "https://www.starnewskorea.com/business-life/2026/10/05/2026100509010588164",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064461",
+  "https://biz.sbs.co.kr/article_hub/20000338271?division=NAVER",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307595",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261005010000931",
+  "https://www.mediapen.com/news/view/1127799"
  ],
  "seen_titles": [
-  "[영상]최태원·김희영,뉴욕서나란히포착…재산분할판결후첫동반...",
-  "한전-SK하이닉스,'K반도체초격차'전력공급파트너십구축",
-  "무제한요금제월1만원대…SKT에어,자급제고객공략",
-  "SK하이닉스,솔리다임美상장설에“확정된것없어…장기주주가치...",
-  "영진전문대,수시1차1만3896명지원…평균경쟁률7.4대1",
-  "코오롱베니트,기업AX실행전략제시…산업별사례공유",
   "AI데이터센터늘리는데…SKT배출권'35만t'부족",
   "[임종호칼럼]국감기업인,많이부르는게능사아니다…'진짜책임자...",
   "'최적요금제고지의무'오늘시행인데지침은'아직'…통신사도\"기준...",
@@ -6001,7 +5995,13 @@
   "[오늘의딜PICK][영상]중국AI투자광풍,한국반도체엔'양날의검'",
   "환율다시오르나...IBK證“연말1400원전망”",
   "토큰증권,투자대상'무궁무진'…미술품·한우넘어IP까지확대",
-  "서울민간아파트분양가1년새34%↑…공사비오르자청약수요도‘선..."
+  "서울민간아파트분양가1년새34%↑…공사비오르자청약수요도‘선...",
+  "\"중국이글로벌배터리시장73%삼켰다\"K-배터리점유율폭락충격",
+  "호텔김치도미국서각광…워커힐\"올해100t수출\"",
+  "이번주크레딧2조원발행…6일파라다이스수요예측",
+  "연휴에멈춘내주식···엔비디아·테슬라는뛰었다,6일'삼전닉스'...",
+  "아산탕정2도시개발사업착공…2031년준공·2만1035호공급",
+  "“밀라노·요코하마·샌디에이고로”…K-바이오,10월‘3주수주전’"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,21 @@
   [
    "2026-10-05T09:20:58.306193+09:00",
    "분양가 민간아파트 서울 수요도 청약 오르자 1년 공사비"
+  ],
+  [
+   "2026-10-05T09:31:06.246666+09:00",
+   "삼전닉스 6일 멈춘 엔비디아 뛰었다 주식 연휴에 테슬라는"
+  ],
+  [
+   "2026-10-05T09:31:06.246666+09:00",
+   "착공 공급 도시개발사업 준공 아산탕정2 2031년 2만1035호"
+  ],
+  [
+   "2026-10-05T09:31:06.246666+09:00",
+   "바이오 3주 10월 수주전 밀라노 요코하마 샌디에이고로"
   ]
  ],
- "last_run": "2026-10-05T09:21:22.636654+09:00",
+ "last_run": "2026-10-05T09:31:17.640164+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
