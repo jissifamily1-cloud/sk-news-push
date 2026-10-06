@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781007&plink=ORI&cooper=NAVER",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312455",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598395891072",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171908",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448557",
   "https://www.hankyung.com/article/202610020711r",
@@ -2999,12 +2996,12 @@
   "http://www.kjdaily.com/article.php?aid=1791285326688408002",
   "http://www.ujeil.com/news/articleView.html?idxno=393073",
   "https://www.newsis.com/view/NISX20261006_0003816346",
-  "http://www.ujeil.com/news/articleView.html?idxno=393136"
+  "http://www.ujeil.com/news/articleView.html?idxno=393136",
+  "http://www.kwangju.co.kr/article.php?aid=1791286200804016372",
+  "https://www.mbceg.co.kr/post/140760",
+  "https://chmbc.co.kr/article/14082756"
  ],
  "seen_titles": [
-  "최태원,9440억규모SK지분매각결정…노소영재산분할액과같은규모",
-  "최태원,SK지분2.3%내놓는다…노소영재산분할액9440억원과사실상...",
-  "SK렌터카,인턴십부터신입온보딩까지…'사람'에투자한다",
   "세노바메이트로美상업화입증…SK바이오팜,'멀티프로덕트'시동",
   "코스닥'숨고르기'...대한광통신·제주반도체·성호전자는'껑충'",
   "중국반도체산업'전기차성공전략'재현가능성,EUV대체할신기술...",
@@ -6001,7 +5998,10 @@
   "‘호남반도체클러스터전략’삼성평택팹서찾는다",
   "국가도시공원,왜울산대공원인가",
   "[올댓차이나]홍콩증시,뉴욕증시강세에이틀째상승마감…H주0.96...",
-  "[지역국회의원국감활동]박성민\"광주軍공항이전위험요인꼼꼼히..."
+  "[지역국회의원국감활동]박성민\"광주軍공항이전위험요인꼼꼼히...",
+  "국민의힘‘호남반도체’또딴지…삼성·SK투자배경집중추궁",
+  "김중남강릉시장\"11월에대규모조직개편,내년에역점사업추진\"",
+  "[리포트]김중남강릉시장\"다음달대규모조직개편\""
  ],
  "recent_sigs": [
   [
@@ -7011,9 +7011,13 @@
   [
    "2026-10-06T20:31:11.631348+09:00",
    "박성민 위험요인 공항 광주 이전 꼼꼼히"
+  ],
+  [
+   "2026-10-06T20:41:03.252456+09:00",
+   "개편 대규모 김중남 다음 강릉시장"
   ]
  ],
- "last_run": "2026-10-06T20:31:23.102348+09:00",
+ "last_run": "2026-10-06T20:41:10.941050+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
