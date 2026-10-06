@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=302405",
-  "https://www.newscj.com/news/articleView.html?idxno=3396145",
-  "https://www.dailyt.co.kr/newsView/dlt202604240003",
-  "http://www.newsprime.co.kr/news/article.html?no=731425",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=356146",
   "https://www.seoultimes.news/news/article.html?no=2000095302",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=686751",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=611000",
@@ -2999,14 +2994,14 @@
   "https://magazine.hankyung.com/business/article/202610065331b",
   "http://www.press9.kr/news/articleView.html?idxno=83730",
   "https://news.mtn.co.kr/news-detail/2026100612181412707",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261006130350NVc"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261006130350NVc",
+  "https://www.sidae.com/article/2026100609271310282",
+  "https://www.ekn.kr/web/view.php?key=20261006027042600",
+  "http://www.popcornnews.net/news/articleView.html?idxno=135047",
+  "https://www.econovill.com/news/articleView.html?idxno=752199",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610060079&t=NN"
  ],
  "seen_titles": [
-  "[이민경의재계ON]최신원의'보수고사'향후전망은",
-  "최신원SK네트웍스명예회장,'무보수'선언...\"자문역할에집중\"",
-  "최신원SK네트웍스명예회장,'무보수'경영선언",
-  "[기업家]SK그룹④ㅣAI부터배터리·기부까지…기술혁신과사회적책...",
-  "최신원SK네트웍스명예회장,'무보수'선언",
   "최신원SK네트웍스명예회장,'무보수경영'선언",
   "최신원SK네트웍스명예회장,경영복귀하며'무보수'선언",
   "돈안받는최신원명예회장...책임경영가능할까?",
@@ -6001,7 +5996,12 @@
   "한경ESG10월호발간…2026ESG리더15명선정",
   "최태원,SK지분2.3%팔아9440억확보…의결권30.5%유지",
   "\"최태원SK지분매각,3%룰회피목적아닌지설명해야\"",
-  "1세대는현재진행형…그시절언니·오빠들의귀환"
+  "1세대는현재진행형…그시절언니·오빠들의귀환",
+  "대기업그룹총수주식재산3분기18조증발",
+  "[2026국감]호남반도체클러스터놓고여야공방…전력·용수공급쟁...",
+  "[2026국감]1조5000억서남권반도체첫국감부터검증대…투자경위·...",
+  "[오피니언리더메시지]누가AI의미래를결정하는가?",
+  "3분기주가휘청이더니…회장님들도'울상'"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,25 @@
   [
    "2026-10-06T12:20:15.008877+09:00",
    "선정 ESG 발간 15명 한경ESG 10월호 리더"
+  ],
+  [
+   "2026-10-06T13:20:15.355976+09:00",
+   "전력 여야 용수 클러스터 반도체 호남 공급 놓고 공방"
+  ],
+  [
+   "2026-10-06T13:20:15.355976+09:00",
+   "검증대 1조5000억 반도체 경위 투자 국감부터 서남권"
+  ],
+  [
+   "2026-10-06T13:20:15.355976+09:00",
+   "결정하는가 미래를 AI의 누가"
+  ],
+  [
+   "2026-10-06T13:20:15.355976+09:00",
+   "울상 3분기 회장님들도 주가 휘청이더니"
   ]
  ],
- "last_run": "2026-10-06T13:11:02.863103+09:00",
+ "last_run": "2026-10-06T13:20:36.560548+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
