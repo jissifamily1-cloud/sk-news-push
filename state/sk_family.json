@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/574141",
   "http://www.inews24.com/view/2006931",
   "https://www.veritas-a.com/news/articleView.html?idxno=626675",
   "https://www.edaily.co.kr/News/Read?newsId=03027446645581432&mediaCodeNo=257",
@@ -2999,10 +2998,10 @@
   "https://www.wolyo.co.kr/news/articleView.html?idxno=318693",
   "https://www.etnews.com/20261006000060",
   "https://newscham.net/130005/",
-  "https://www.dailian.co.kr/news/view/1698358/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1698358/?sc=Naver",
+  "https://www.insight.co.kr/news/576708"
  ],
  "seen_titles": [
-  "서흥,젤텍100%자회사화필요…주주가치재평가기대[리서치알음]",
   "서흥,젤텍내부거래개선시밸류에이션재평가…올해사상최대실적",
   "SK그룹,하이닉스지휘체계다듬는다…부회장3명전진배치",
   "SK그룹부회장3명SK하이닉스로…반도체에힘싣는다",
@@ -6001,7 +6000,8 @@
   "빅3총수주식재산17.5조급감...48개그룹18조증발",
   "SK인텔릭스,'나무엑스'中위탁생산추진…원가경쟁력확보'승부수'",
   "[멈춰라3대메가➀]‘메가프로젝트정세’,우리는무엇에맞서야하...",
-  "이재용·최태원·정의선,주식재산석달새17.6조감소"
+  "이재용·최태원·정의선,주식재산석달새17.6조감소",
+  "이재용13.2조·최태원3.2조↓...3분기그룹총수48명평가액18조감..."
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-10-06T17:20:15.108507+09:00",
    "정의선 감소 6조 이재용 주식재산"
+  ],
+  [
+   "2026-10-06T17:30:24.573958+09:00",
+   "3분기 이재용 평가액 총수 48명 18조 2조"
   ]
  ],
- "last_run": "2026-10-06T17:20:30.189731+09:00",
+ "last_run": "2026-10-06T17:30:36.910767+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
