@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econotelling.com/news/articleView.html?idxno=21399",
-  "https://www.insight.co.kr/news/576405",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855525",
-  "https://www.edaily.co.kr/News/Read?newsId=05553046645608984&mediaCodeNo=257",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171380",
-  "https://www.ekn.kr/web/view.php?key=20261002027031767",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448586",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=312448",
   "https://www.cbci.co.kr/news/articleView.html?idxno=612024",
   "https://biz.heraldcorp.com/article/10892260",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20261006001045",
   "https://www.newsis.com/view/NISX20261006_0003816210",
   "https://www.yna.co.kr/view/AKR20261006157900003?input=1195m",
-  "https://www.news1.kr/industry/general-industry/6311960"
+  "https://www.news1.kr/industry/general-industry/6311960",
+  "https://biz.sbs.co.kr/article_hub/20000338609?division=NAVER",
+  "https://www.munhwa.com/article/11621773",
+  "https://www.hankyung.com/article/202610065831h",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=79683",
+  "https://www.seoul.co.kr/news/economy/2026/10/07/20261007500004?wlog_tag3=naver",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612800",
+  "http://www.srtimes.kr/news/articleView.html?idxno=214067"
  ],
  "seen_titles": [
-  "'노소영재산분할대비'…최태원,SK지분매각규모는",
-  "코스피7000탈환…'삼전닉스'선방",
-  "취임1주년앞둔정재헌...SKT,놓쳤던고객만족도1위되찾았다",
-  "[시큐리티포커스]안랩'계정정보보안수칙'·아우토'국가PnCPKI시스...",
-  "\"삼전닉스서458조원쓸어담는다\"…고환율폭탄없는이유",
-  "안동시,바이오·백신등전략산업기업유치확대…최대70억원지원",
-  "한전,리벨리온·TTA와변전소관제에K반도체도입…SK하닉과는전력망...",
   "[오늘의주목주]'고유가수혜기대감'SK이노베이션주가8%대올라,코...",
   "[2026국감]이재용·최태원빠진국감…재계총수보다'현안책임자'불...",
   "이재용,기업인대상연속선두…정의선2위수성속3위권경쟁지속[9...",
@@ -6001,7 +5994,14 @@
   "[솔리다임IPO논란]①10조원주고산회사…쪼개기상장아니다",
   "경찰,금융권해킹수사착수했지만…\"배후추적,쉽지않을것\"",
   "대기업오너4·5세94%는유학파…미국컬럼비아대최다",
-  "\"칩사이빈틈잡아라\"…삼성·SK하이닉스,첨단패키징승부수"
+  "\"칩사이빈틈잡아라\"…삼성·SK하이닉스,첨단패키징승부수",
+  "서울1인가구자산격차,'주택보유여부'에갈린다…나이들수록심화",
+  "“코스피도?”AI기대에S&P·나스닥또사상최고치",
+  "조용호“반도체·AI로오산산업지도바꾼다”",
+  "APAC바이오거래K바이오두각…삼성바이오·SK바이오팜·한미'톱10'",
+  "[서울데이터랩]미국증시,주요지수동반상승마감…반도체는종목별...",
+  "코스피약세…지수하락에도삼성전기·LG엔솔↑",
+  "[갑론을法]KB·신한·하나등줄줄새는은행개인정보…개보법'매출..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,29 @@
   [
    "2026-10-07T06:11:09.215235+09:00",
    "첨단 SK하이닉스 사이 패키징 빈틈 승부수 잡아라 삼성"
+  ],
+  [
+   "2026-10-07T06:21:07.102207+09:00",
+   "조용호 반도체 바꾼다 오산 산업지도 AI로"
+  ],
+  [
+   "2026-10-07T06:21:07.102207+09:00",
+   "삼성바이오 APAC 톱10 한미 SK바이오팜 두각 K바이오 바이오 거래"
+  ],
+  [
+   "2026-10-07T06:21:07.102207+09:00",
+   "동반 종목별 지수 반도체는 마감 상승 미국 증시 주요"
+  ],
+  [
+   "2026-10-07T06:21:07.102207+09:00",
+   "지수 약세 LG엔솔 삼성전기 코스피 하락에도"
+  ],
+  [
+   "2026-10-07T06:21:07.102207+09:00",
+   "하나 개보법 개인정보 줄줄 은행 새는 신한 KB 매출"
   ]
  ],
- "last_run": "2026-10-07T06:11:49.156803+09:00",
+ "last_run": "2026-10-07T06:21:23.869162+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
