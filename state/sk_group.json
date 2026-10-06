@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192725",
-  "https://www.fnnews.com/news/202610020843133798",
-  "https://dealsite.co.kr/articles/169879",
-  "https://www.joongang.co.kr/article/25466609",
-  "https://www.sedaily.com/article/20097427",
-  "https://www.seoultimes.news/news/article.html?no=2000099874",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=912823",
-  "https://swtvnews.com/news/newsview.php?ncode=1065570101026543",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=365694",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=728699",
   "https://www.ilyosisa.co.kr/news/article.html?no=258114",
@@ -2999,17 +2991,17 @@
   "https://www.energy-news.co.kr/news/articleView.html?idxno=228771",
   "https://www.news1.kr/politics/assembly/6311359",
   "https://www.newsis.com/view/NISX20261006_0003815465",
-  "https://www.nocutnews.co.kr/news/6587444"
+  "https://www.nocutnews.co.kr/news/6587444",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=695853",
+  "https://www.koreatimes.co.kr/path/A2026100610430000466",
+  "http://www.press9.kr/news/articleView.html?idxno=83730",
+  "https://www.dailian.co.kr/news/view/1698162/?sc=Naver",
+  "https://www.newsis.com/view/NISX20261006_0003815451",
+  "https://biz.chosun.com/stock/stock_general/2026/10/06/5XRXNZCNUNF5JNXQZYJ73CRIUU/",
+  "https://www.etnews.com/20261006000184",
+  "http://www.nongaek.com/news/articleView.html?idxno=97012"
  ],
  "seen_titles": [
-  "SK엠앤서비스,베네피아에‘자체개발’AI리뷰기능도입",
-  "미국의반도체관세협박왜?…미국내투자끌어내려는협상수단",
-  "아우토크립트,카드·앱없는전기차충전구현…\"공공PnC상용화기반...",
-  "[20263Q리그테이블][M&A재무자문]선두꿰찬EY한영…8위에서1위로",
-  "유안타증권,'에이블리'·'4910'와제휴이벤트실시",
-  "[한국건설,80년의기록]⑨석유플랜트짓던SK에코플랜트,환경대신반...",
-  "SK렌터카,청년9명현업부서투입한3개월인턴십운영",
-  "[20263Q리그테이블][DCM]삼성證9위→5위퀀텀점프…신한·한투300억...",
   "베네피아,AI로쇼핑경쟁력키운다…AI요약서비스승부수",
   "“韓통신비,파리의2배”세계최고수준이라더니…“일본이통계왜...",
   "[뉴스앤데이터]대기업지주사상반기연봉킹LG1억700만원…LS1년새...",
@@ -6001,25 +5993,17 @@
   "반도체상장기업2026년10월브랜드평판...삼성전자,SK하이닉스,한미...",
   "[국감초점]산자위,'호남반도체'공방…野\"호남1극\"與\"입지타당\"",
   "'7개월만에재방한'리사수AMDCEO…AI서버확대속韓반도체협력...",
-  "벧엘의집원용철목사\"시설이전을위한후원콘서트,함께한이들과..."
+  "벧엘의집원용철목사\"시설이전을위한후원콘서트,함께한이들과...",
+  "\"새로운계획\"토트넘이김민재노린다!\"바이에른뮌헨이이적제안받...",
+  "SKTshowcasesAIbattlefieldcommandtoolsatArmyfestival",
+  "최태원,SK지분2.3%팔아9440억확보…의결권30.5%유지",
+  "[2026국감]배경훈“LG유플러스해킹은폐확인되면위약금면제요청...",
+  "김정관\"HBM기술우위중요해…서남권반도체공장빨리지어야\"",
+  "910선탈환한코스닥…주성엔지니어링시총4→2위‘껑충’",
+  "[2026국감]배경훈부총리“LGU+IMSI값원격전환…수사결과따라위...",
+  "삼전닉스주가,대세는강세기조전망…'떼돈'버는이익구조영향"
  ],
  "recent_sigs": [
-  [
-   "2026-10-06T06:41:01.563590+09:00",
-   "형해화하는 창구단일 일용직 노동3권"
-  ],
-  [
-   "2026-10-06T06:41:01.563590+09:00",
-   "3년 홈쇼핑 거래액 9배 꿰찬 퀸잇 숏츠 자리"
-  ],
-  [
-   "2026-10-06T06:41:01.563590+09:00",
-   "없다 홍콩 사람 삼전 모르는 K주식 열풍 뒤흔든 하이닉스"
-  ],
-  [
-   "2026-10-06T06:41:01.563590+09:00",
-   "문턱 100일 다음 살린 낮추고 행보 강릉시장의 주목 김중남 민생지원금"
-  ],
   [
    "2026-10-06T06:51:05.039346+09:00",
    "5차에 우주 올라탄 한화부터 누리호 어벤저스 SK하이닉스까지"
@@ -6963,9 +6947,21 @@
   [
    "2026-10-06T12:31:12.544235+09:00",
    "이전을 후원콘서트 벧엘의집 원용철 시설 위한 목사 함께 이들과"
+  ],
+  [
+   "2026-10-06T12:41:37.469760+09:00",
+   "코스닥 910선 주성엔지니어링 탈환한 시총 껑충 2위"
+  ],
+  [
+   "2026-10-06T12:41:37.469760+09:00",
+   "수사 따라 결과 원격 배경훈 부총리 IMSI값 LGU"
+  ],
+  [
+   "2026-10-06T12:41:37.469760+09:00",
+   "강세기조 주가 영향 대세는 이익구조 버는 삼전닉스 전망 떼돈"
   ]
  ],
- "last_run": "2026-10-06T12:31:19.025111+09:00",
+ "last_run": "2026-10-06T12:41:49.145033+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
