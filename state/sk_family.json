@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=203874",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8555620",
-  "https://sports.khan.co.kr/article/202605071914003?pt=nv",
-  "https://www.chosun.com/national/people/2026/05/05/53H3XXYRT5A5ZNCJP5WIS43KBA/",
-  "https://www.joongang.co.kr/article/25425702",
   "https://www.khan.co.kr/article/202605042149005",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553189499",
   "https://sports.khan.co.kr/article/202605041438003?pt=nv",
@@ -2999,14 +2994,14 @@
   "https://www.mk.co.kr/article/12150528",
   "https://www.joongangenews.com/news/articleView.html?idxno=552808",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90074",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600121.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600121.html",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261006113026O1b",
+  "https://www.yna.co.kr/view/AKR20261006079000001?input=1195m",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553750",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6914",
+  "https://www.ekn.kr/web/view.php?key=20261006020132551"
  ],
  "seen_titles": [
-  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(81)위기를도약의계...",
-  "신규입주'4천900가구'‥상승세꺾이나?",
-  "[재벌가주식성적표-SK]최태원주식가치5개월만에3.4조→8.7조'쑥'...",
-  "“장기기증,우리가영원히살수있는길”",
-  "\"'코리아~코리아~'가계속울려퍼지게...부탁합니다\"안방노메달후허...",
   "한국장기기증협회'2026순수장기기증서포터즈'발대",
   "[오늘의영상]소강체육대상별들이모였다!",
   "소강체육대상최우수선수상도받은김길리“초심을잃지않고늘최선...",
@@ -6001,7 +5996,12 @@
   "코스닥살아나려면‘후회’가빨라야한다[취재수첩]",
   "대기업총수48명주식재산3분기18.6조증발…이재용·최태원·정의선...",
   "그룹총수주식재산3개월새18.6조증발…이재용·최태원·정의선3...",
-  "'59조→45조'이재용주식재산13조증발…총수48명석달새18조사..."
+  "'59조→45조'이재용주식재산13조증발…총수48명석달새18조사...",
+  "48개그룹총수주식재산14%↓…25명상승·23명하락",
+  "여야,산업부국감서'호남반도체'·'대미투자보고유출'신경전",
+  "이재용,주식재산13.2조감소…최태원3.2조·정의선1.2조↓",
+  "\"최태원회장은SK지분9440억매각이3%룰우회용인지밝혀라\"[전문]",
+  "쟁점으로보는3주간의국정감사…메가프로젝트·인사검증놓고격돌"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,17 @@
   [
    "2026-10-06T11:20:14.734435+09:00",
    "하락 5조 현대차 48개 주식재산 삼성 총수"
+  ],
+  [
+   "2026-10-06T11:40:14.904966+09:00",
+   "국정감사 쟁점으로 3주간의 메가 프로젝트 보는 인사검증 격돌 놓고"
+  ],
+  [
+   "2026-10-06T11:40:14.904966+09:00",
+   "매각이 회장은 밝혀라 우회용인지 9440억 지분"
   ]
  ],
- "last_run": "2026-10-06T11:30:33.296063+09:00",
+ "last_run": "2026-10-06T11:40:29.130328+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
