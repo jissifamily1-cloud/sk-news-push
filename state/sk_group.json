@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=365694",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728699",
-  "https://www.ilyosisa.co.kr/news/article.html?no=258114",
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=3749",
-  "https://www.kado.net/news/articleView.html?idxno=2076176",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617127",
-  "https://www.newsis.com/view/NISX20261002_0003811930",
-  "https://www.hankyung.com/article/2026100293226",
   "http://www.thevaluenews.co.kr/news/view.php?idx=202049",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476128",
   "https://www.gukjenews.com/news/articleView.html?idxno=3711218",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261006_0003815451",
   "https://biz.chosun.com/stock/stock_general/2026/10/06/5XRXNZCNUNF5JNXQZYJ73CRIUU/",
   "https://www.etnews.com/20261006000184",
-  "http://www.nongaek.com/news/articleView.html?idxno=97012"
+  "http://www.nongaek.com/news/articleView.html?idxno=97012",
+  "https://www.g-enews.com/view.php?ud=20261006101613612824debea800_1",
+  "http://www.kjdaily.com/article.php?aid=1791258217688325276",
+  "https://news.mtn.co.kr/news-detail/2026100612181412707",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=394633",
+  "https://www.nocutnews.co.kr/news/6587470",
+  "https://www.econovill.com/news/articleView.html?idxno=752772",
+  "https://www.tokenpost.kr/news/blockchain/418707",
+  "https://www.news1.kr/economy/trend/6311371"
  ],
  "seen_titles": [
-  "베네피아,AI로쇼핑경쟁력키운다…AI요약서비스승부수",
-  "“韓통신비,파리의2배”세계최고수준이라더니…“일본이통계왜...",
-  "[뉴스앤데이터]대기업지주사상반기연봉킹LG1억700만원…LS1년새...",
-  "아산시,'아산탕정2도시개발사업'조성공사'첫삽'",
-  "노벨상수상자부터국내석학까지…EBS‘위대한수업’시즌6,12일첫...",
-  "[이슈]역대최대ESS1180MW구축…전력망병목완화시험대",
-  "美금리진정에도코스피'숨고르기'…외인매도에6930선",
-  "솔리다임미국중복상장?“LG화학때와는달라”",
   "유안타증권,에이블리·4910과신규고객대상이벤트진행",
   "9월소비자물가상승률2.9%…석유류14.8%급등",
   "SK바이오팜,美직접판매조직확장채비…'멀티프로덕트'전략속도",
@@ -6001,7 +5993,15 @@
   "김정관\"HBM기술우위중요해…서남권반도체공장빨리지어야\"",
   "910선탈환한코스닥…주성엔지니어링시총4→2위‘껑충’",
   "[2026국감]배경훈부총리“LGU+IMSI값원격전환…수사결과따라위...",
-  "삼전닉스주가,대세는강세기조전망…'떼돈'버는이익구조영향"
+  "삼전닉스주가,대세는강세기조전망…'떼돈'버는이익구조영향",
+  "SK케미칼,권역별폐현수막순환경제모델구축",
+  "삼성전자·SK하이닉스4조거래에도약세…전자·반도체주는들썩",
+  "\"최태원SK지분매각,3%룰회피목적아닌지설명해야\"",
+  "[테오도르의차트&수급]지지선확인/삼성전자,SK하이닉스,현대차기...",
+  "우상호,제1공약SK데이터센터,1GW→400MW축소…\"도민기만아닌가\"",
+  "SK케미칼,폐현수막T2T확대…권역별수거·재활용체계만든다",
+  "[로빈후드온체인]에이전트웜홀보유지갑이하루새1720개늘어...애...",
+  "이형일\"美원전,국내절차·상업성충족돼야송금…집값상승무겁게인..."
  ],
  "recent_sigs": [
   [
@@ -6959,9 +6959,17 @@
   [
    "2026-10-06T12:41:37.469760+09:00",
    "강세기조 주가 영향 대세는 이익구조 버는 삼전닉스 전망 떼돈"
+  ],
+  [
+   "2026-10-06T12:51:00.852816+09:00",
+   "웜홀 보유 지갑이 1720개 늘어 하루 에이전트"
+  ],
+  [
+   "2026-10-06T12:51:00.852816+09:00",
+   "상승 집값 원전 상업성 충족돼야 송금 이형일 무겁게 국내절차"
   ]
  ],
- "last_run": "2026-10-06T12:41:49.145033+09:00",
+ "last_run": "2026-10-06T12:51:10.404487+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
