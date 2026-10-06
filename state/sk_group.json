@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744679",
-  "https://dealsite.co.kr/articles/169924",
-  "https://dealsite.co.kr/articles/169934",
-  "http://www.segyebiz.com/newsView/20261001514863?OutUrl=naver",
-  "https://www.hani.co.kr/arti/economy/economy_general/1280567.html",
-  "http://www.paxetv.com/news/articleView.html?idxno=283220",
-  "https://dealsite.co.kr/articles/169836",
-  "https://www.cstimes.com/news/articleView.html?idxno=722746",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192725",
   "https://www.fnnews.com/news/202610020843133798",
   "https://dealsite.co.kr/articles/169879",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20261006000181",
   "http://www.newsdream.kr/news/articleView.html?idxno=119437",
   "https://www.news1.kr/it-science/general-science/6311345",
-  "https://biz.heraldcorp.com/article/10894180"
+  "https://biz.heraldcorp.com/article/10894180",
+  "https://sports.donga.com/economy/article/all/20261006/134792238/1",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=321340",
+  "https://www.joongboo.com/news/articleView.html?idxno=363738531",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=365826",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=228771",
+  "https://www.news1.kr/politics/assembly/6311359",
+  "https://www.newsis.com/view/NISX20261006_0003815465",
+  "https://www.nocutnews.co.kr/news/6587444"
  ],
  "seen_titles": [
-  "“리뷰개수보다정보의질”…베네피아,AI요약서비스도입",
-  "신한운용,글로벌D램ETF선보인다…삼전·하닉·마이크론담아",
-  "파생결합증권·사채잔액96조7000억원…2023년6월이후최대",
-  "[개장시황]외국인매도에코스피0.47%하락출발",
-  "[20263Q리그테이블][M&A재무자문]외국계IB에밀렸던빅4토종회계법...",
-  "폴리뉴스모닝브리핑10월2일금요일",
-  "[20263Q리그테이블][DCM]NH증권,KB독주끝냈다…대형딜기반1위탈...",
-  "[20263Q리그테이블][종합]거래한파뚫은역전극…삼성·NH·안진선두",
   "SK엠앤서비스,베네피아에‘자체개발’AI리뷰기능도입",
   "미국의반도체관세협박왜?…미국내투자끌어내려는협상수단",
   "아우토크립트,카드·앱없는전기차충전구현…\"공공PnC상용화기반...",
@@ -6001,21 +5993,17 @@
   "[2026국감]호남반도체결정주체,자료불일치…김정관“확인하겠다”",
   "[드림Talk]에코프로,'재무통'전진배치…신용등급추가강등막아라",
   "우주서신약연구하고AI·국산칩시험…누리호탄'작은실험실'",
-  "여야,李정부2년차국감시작부터정면충돌…경제·산업현안공방"
+  "여야,李정부2년차국감시작부터정면충돌…경제·산업현안공방",
+  "SK케미칼,폐현수막‘완전순환’체계구축…해중합기술로다시현수...",
+  "SKT,지상군페스티벌서AI참모·저궤도위성등국방AX기술선봬",
+  "'파업위기'삼성바이오연봉얼마길래?노사인상안놓고정면충돌",
+  "김정관\"호남반도체부지,최종결정은기업\"…野,설명불일치지적",
+  "반도체상장기업2026년10월브랜드평판...삼성전자,SK하이닉스,한미...",
+  "[국감초점]산자위,'호남반도체'공방…野\"호남1극\"與\"입지타당\"",
+  "'7개월만에재방한'리사수AMDCEO…AI서버확대속韓반도체협력...",
+  "벧엘의집원용철목사\"시설이전을위한후원콘서트,함께한이들과..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-06T06:29:40.796907+09:00",
-   "삼성전자 초읽기 7000선 영업익 분기 운명 코스피 걸려 100조"
-  ],
-  [
-   "2026-10-06T06:29:40.796907+09:00",
-   "닉스만큼 내놔 덮친 후폭풍 글로벌 성과급 삼전 반도체"
-  ],
-  [
-   "2026-10-06T06:29:40.796907+09:00",
-   "성장 폼팩터 3사 동시 ESS 배터리 전기차 전쟁"
-  ],
   [
    "2026-10-06T06:41:01.563590+09:00",
    "형해화하는 창구단일 일용직 노동3권"
@@ -6971,9 +6959,13 @@
   [
    "2026-10-06T12:21:06.508170+09:00",
    "국감 공방 산업 정부 여야 시작부터 경제 2년차 정면 현안 충돌"
+  ],
+  [
+   "2026-10-06T12:31:12.544235+09:00",
+   "이전을 후원콘서트 벧엘의집 원용철 시설 위한 목사 함께 이들과"
   ]
  ],
- "last_run": "2026-10-06T12:21:25.824894+09:00",
+ "last_run": "2026-10-06T12:31:19.025111+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
