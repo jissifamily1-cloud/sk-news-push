@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260504_0003616263",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16051400",
-  "https://www.yna.co.kr/view/AKR20260504069100007?input=1195m",
-  "https://www.mydaily.co.kr/page/view/2026050410345723983",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6932369",
-  "https://www.sportschosun.com/sports-news/2026-05-03/202605030100013300000851",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604271344041120101329",
   "http://www.osen.co.kr/article/G1112791146",
   "https://www.abcn.kr/news/articleView.html?idxno=87652",
   "http://www.00news.co.kr/news/articleView.html?idxno=103426",
@@ -2999,16 +2992,16 @@
   "https://www.kyeonggi.com/article/20261006580060",
   "https://www.mydaily.co.kr/page/view/2026100611184436228",
   "https://view.asiae.co.kr/article/2026100611353517135",
-  "https://www.smartbizn.com/news/articleView.html?idxno=155625"
+  "https://www.smartbizn.com/news/articleView.html?idxno=155625",
+  "https://www.pressian.com/pages/articles/2026100609400494944",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=122865",
+  "https://biz.sbs.co.kr/article_hub/20000338434?division=NAVER",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96571",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2305308",
+  "https://www.venturesquare.net/1117914/",
+  "https://www.investchosun.com/site/data/html_dir/2026/10/06/2026100680104.html"
  ],
  "seen_titles": [
-  "소강체육대상최신원펜싱협회장…언론상엔중앙일보성호준부장",
-  "‘소강체육대상’대상에최신원대한펜싱협회회장",
-  "[오피셜]초대박...韓국민영웅,'세계적인스타'쇼트트랙김길리또...",
-  "최신원대한펜싱협회장,제18회소강체육대상대상선정",
-  "최신원대한펜싱협회장,소강체육대상수상…최우수선수엔김윤지·김길...",
-  "한국펜싱황금기이끈최신원대한펜싱협회장,소강체육대상대상",
-  "\"펜싱황금기견인\"…최신원,소강체육대상대상영예",
   "최신원대한펜싱협회장,소강체육대상대상…펜싱황금기공헌",
   "최신원대한펜싱연맹회장,제18회소강체육대상대상영예…중앙일보...",
   "제18회소강체육대상최신원대한펜싱연맹회장대상...오는7일시상식",
@@ -6001,7 +5994,14 @@
   "이재용주식재산3개월새13조‘증발’…최태원·정의선까지17조넘게...",
   "“4755조걸린삼성·SK국감”…총수출석공방정쟁에가려진투자로...",
   "[2026국감]산자위,대미투자녹취유출공조…호남반도체증인채택은...",
-  "3분기48개韓그룹총수평가액18.6조감소"
+  "3분기48개韓그룹총수평가액18.6조감소",
+  "구미시,임산부의날맞아KBS교향악단과태교음악회개최",
+  "국내주요그룹총수48명,3분기주식재산18조원증발…13.9%감소",
+  "3분기주가하락에…이재용·최태원·정의선주식평가액17.5조증발",
+  "[초점]유통총수주식재산희비…서경배웃고정지선·신동빈울었다",
+  "이재용13조·최태원3조·정의선1조↓…총수주식재산18조급감",
+  "넷플릭스,K콘텐츠더빙비중40%넘었다…멕시코서‘언어장벽’넘는...",
+  "[Invest]어피너티·삼표·대유위니아국감부른다…PEF고용·다이옥신·..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-10-06T11:40:14.904966+09:00",
    "매각이 회장은 밝혀라 우회용인지 9440억 지분"
+  ],
+  [
+   "2026-10-06T12:00:31.103921+09:00",
+   "넷플릭스 언어 넘었다 장벽 넘는 비중 더빙 K콘텐츠 멕시코서"
+  ],
+  [
+   "2026-10-06T12:00:31.103921+09:00",
+   "대유위니아 PEF 다이옥신 부른다 어피너티 삼표 고용 국감"
   ]
  ],
- "last_run": "2026-10-06T11:50:26.991474+09:00",
+ "last_run": "2026-10-06T12:00:51.047909+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6456,6 +6464,7 @@
   "e2news.com": "이투뉴스",
   "swtvnews.com": "swtvnews.com",
   "nspna.com": "NSP통신",
-  "todayeconomic.com": "투데이e코노믹, 투데이이코노믹"
+  "todayeconomic.com": "투데이e코노믹, 투데이이코노믹",
+  "venturesquare.net": "벤처스퀘어"
  }
 }
