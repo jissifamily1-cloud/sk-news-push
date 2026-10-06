@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260928113239d6y",
-  "https://www.asiatime.co.kr/article/20260928500195",
-  "https://biz.heraldcorp.com/article/10885838",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320188",
   "https://biz.heraldcorp.com/article/10886042",
   "https://www.news1.kr/photos/8129056",
   "https://www.news1.kr/photos/8129058",
@@ -2999,13 +2995,13 @@
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077483",
   "https://www.kyeonggi.com/article/20261006580077",
   "https://www.kado.net/news/articleView.html?idxno=2076602",
-  "http://www.joseilbo.com/news/news_read.php?uid=576891&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=576891&class=32",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240325",
+  "https://news.ifm.kr/news/articleView.html?idxno=480942",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240315",
+  "https://www.kyeonggi.com/article/20261006580073"
  ],
  "seen_titles": [
-  "공정위,신고인에게도의견청취기회준다…사건규칙개정",
-  "[사설]민생해치는담합제재강화공감하지만정교한설계뒤따라야",
-  "식품업계“담합억제공감하지만…가격재결정명령,구체적기준·절차...",
-  "배달앱입점업체,매출26%플랫폼비용부담…수수료상한제논의재점...",
   "5년내두번담합땐‘등록취소’",
   "공정위,명륜당부당지원행위및가맹사업법위반행위104억7,200만원...",
   "명륜당부당지원행위및가맹사업법위반행위제재발표하는이순미상...",
@@ -6001,10 +5997,14 @@
   "[쿠팡인사전망]②디렉터서전무오른이성진…오상원은본사서CLS로",
   "경기광주간호사태움사망사건수사경찰,가해자3명검찰송치예정",
   "[속보]서울경찰청장\"영화'암살자(들)'배우위협·협박엄정대응\"",
-  "'쌍방울대북송금'징역형확정이화영측\"'재심청구'적극검토\""
+  "'쌍방울대북송금'징역형확정이화영측\"'재심청구'적극검토\"",
+  "병협,\"대학병원소아응급센터압수수색우려···신중한수사접근필...",
+  "\"검찰폐지부터공공의대·재정개혁까지,여야시의원이붙은'인천의...",
+  "진료중소아응급센터강제수사···의료계·환자단체\"수사방식재검...",
+  "‘소아응급센터강제수사’논란…경찰“진료권보장한수사”"
  ],
  "recent_sigs": [],
- "last_run": "2026-10-06T13:21:03.533185+09:00",
+ "last_run": "2026-10-06T13:31:03.824631+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
