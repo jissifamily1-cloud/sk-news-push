@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260918101041KpX",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800083.html",
   "https://www.g-enews.com/view.php?ud=20260918101116193427fa31d75c_1",
   "http://www.efnews.co.kr/news/articleView.html?idxno=132533",
   "https://magazine.hankyung.com/business/article/202609183228b",
@@ -2999,11 +2997,11 @@
   "https://www.mk.co.kr/article/12169368",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000010008&cp=nv",
   "http://www.queen.co.kr/news/articleView.html?idxno=464340",
-  "https://www.mediapen.com/news/view/1128152"
+  "https://www.mediapen.com/news/view/1128152",
+  "https://www.sisajournal.com/news/articleView.html?idxno=389257",
+  "http://www.segyebiz.com/newsView/20261006514739?OutUrl=naver"
  ],
  "seen_titles": [
-  "SK부회장단,SK하이닉스로보임…서진우·유정준·이형희3인",
-  "하이닉스가번돈,AI로향한다…SK대규모투자드라이브[재계머니맵...",
   "SK그룹,부회장3명SK하이닉스에전진배치…AI·반도체에힘싣는다",
   "SK부회장3명하이닉스집결…AI메모리에그룹역량집중",
   "[단독]대법,'최태원-노소영재산분할'재상고접수…崔인지대8억납...",
@@ -6001,13 +5999,11 @@
   "‘헬스장폐업’양치승“피해규모20억가까이”(라스)",
   "VIP사로잡는재계‘영빈관’…글로벌네트워킹전초기지로",
   "국내주요그룹총수,3분기주식재산18조원이상증발...이재용13.2조...",
-  "잘키운기업,‘이혼·상속’에흔들…재계“경영안정성우려”"
+  "잘키운기업,‘이혼·상속’에흔들…재계“경영안정성우려”",
+  "이재용·최태원·정의선주식재산17.6조증발…3분기'직격탄'",
+  "김정관“알래스카LNG,전략적가치생겨…상업적합리성전제”"
  ],
  "recent_sigs": [
-  [
-   "2026-10-06T10:10:15.832616+09:00",
-   "격돌 조희대부터 예고 검찰개혁 부동산까지 개막 국감"
-  ],
   [
    "2026-10-06T10:40:14.341058+09:00",
    "거래 회피용 회장 매각 의심 SK지분"
@@ -6141,7 +6137,7 @@
    "기업 이혼 상속 안정성 흔들 키운 우려 재계 경영"
   ]
  ],
- "last_run": "2026-10-06T16:10:28.292893+09:00",
+ "last_run": "2026-10-06T16:20:25.222387+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
