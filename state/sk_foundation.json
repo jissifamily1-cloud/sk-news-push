@@ -2056,7 +2056,9 @@
   "https://www.newsgn.com/news/articleView.html?idxno=577343",
   "http://www.newstomato.com/ReadNews.aspx?no=1315667&inflow=N",
   "https://www.dkilbo.com/news/articleView.html?idxno=556243",
-  "https://www.mk.co.kr/article/12168460"
+  "https://www.mk.co.kr/article/12168460",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=210089",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712330"
  ],
  "seen_titles": [
   "기업은행,지난해‘ESG채권’7.3조발행…5년연속은행권최대비중",
@@ -4114,10 +4116,12 @@
   "남부건업(주),김해시에이웃돕기성금1천만원기탁",
   "최태원,지분매각에헐거워진SK지배력…거버넌스시험대",
   "한국사학진흥재단,AI윤리헌장·AI윤리가이드라인제정...안전·신뢰...",
-  "기업銀'포용금융'의진화…오지근무군인가족위해콘서트"
+  "기업銀'포용금융'의진화…오지근무군인가족위해콘서트",
+  "중기대출270조기반으로...IBK기업은행,소상공인부터첨단산업까지...",
+  "하종현의60년회화,샌프란시스코서조명"
  ],
  "recent_sigs": [],
- "last_run": "2026-10-06T09:10:39.163530+09:00",
+ "last_run": "2026-10-06T09:20:44.114132+09:00",
  "initialized": true,
  "press_names": {
   "econonews.co.kr": "이코노뉴스",
@@ -4247,6 +4251,7 @@
   "discoverynews.kr": "디스커버리뉴스(DISCOVERYNEWS)",
   "futurechosun.com": "더나은미래",
   "srtimes.kr": "SR타임스",
-  "newstomato.com": "NewsTomato"
+  "newstomato.com": "NewsTomato",
+  "newsfreezone.co.kr": "뉴스프리존"
  }
 }
