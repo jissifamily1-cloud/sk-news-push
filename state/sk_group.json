@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267472",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437629",
-  "https://www.newspim.com/news/view/20261002001112",
-  "https://www.edaily.co.kr/News/Read?newsId=04877366645608984&mediaCodeNo=257",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7019",
   "https://daily.hankooki.com/news/articleView.html?idxno=1411870",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261002.99099000520",
@@ -2999,13 +2995,13 @@
   "http://www.koreastocknews.com/news/articleView.html?idxno=121618",
   "https://www.segye.com/newsView/20261006515689?OutUrl=naver",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1539637",
-  "https://www.hankyung.com/article/2026100663241"
+  "https://www.hankyung.com/article/2026100663241",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610060163&t=NN",
+  "https://www.thelec.kr/news/articleView.html?idxno=63308",
+  "https://www.kyeongin.com/article/1772075",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=312629"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,SK지분9440억원어치매각계획공시",
-  "최태원,재산분할재원마련나서나...SK㈜지분9440억원매각",
-  "최태원,SK지분2.3%·9440억원규모매각추진…노소영재산분할자금...",
-  "최태원,SK㈜지분165만주매각…노소영에지급할자금마련(종합)",
   "[종합]재산분할9440억마련나선최태원회장…SK㈜지분165만주판다",
   "최태원,SK지분2.3%매각…“이혼소송재산분할자금마련”(종합)",
   "[증시프리즘]코스피7천선닿자개인1.7조'매도폭탄'…기타법인1.5...",
@@ -6001,7 +5997,11 @@
   "두산건설,올해도시정비수주4조원돌파···대형사와어깨나란히",
   "삼전닉스앞지른‘소부장’…해킹사태로떠오른‘보안’",
   "수소도시인천비상…국내최대액화수소시설정비에버스충전대란우...",
-  "\"은퇴했는데뭐먹고사나\"…퇴직금쥔60대몰리더니'깜짝'"
+  "\"은퇴했는데뭐먹고사나\"…퇴직금쥔60대몰리더니'깜짝'",
+  "2배벌려다2.3조원날렸다…단일종목ETF손실액첫공개",
+  "개인정보유출뒤서버폐기LG유플러스...국감서'증거인멸'집중포화",
+  "알알이새겨진‘송도DNA’…탄탄히자리잡은의약품산업[2026창간특...",
+  "정진욱의원\"초광역특구에기업유치하려면전력·R&D등파격적인센..."
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,21 @@
   [
    "2026-10-06T20:11:37.907932+09:00",
    "먹고 퇴직금 60대 깜짝 몰리더니 사나 은퇴했는데"
+  ],
+  [
+   "2026-10-06T20:21:49.151239+09:00",
+   "LG유플러스 증거인멸 국감서 유출뒤 개인정보 집중포화 서버 폐기"
+  ],
+  [
+   "2026-10-06T20:21:49.151239+09:00",
+   "송도 의약품 새겨진 알알이 탄탄히 자리잡은 창간특 산업 DNA"
+  ],
+  [
+   "2026-10-06T20:21:49.151239+09:00",
+   "하려면 파격적 특구에 인센 의원 전력 정진욱 기업유치 초광역"
   ]
  ],
- "last_run": "2026-10-06T20:11:55.248541+09:00",
+ "last_run": "2026-10-06T20:22:00.339731+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
