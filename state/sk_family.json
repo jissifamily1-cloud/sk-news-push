@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1230103",
-  "https://www.nocutnews.co.kr/news/6565096",
-  "http://www.jndn.com/article.php?aid=1787132969438108005",
-  "https://www.thepowernews.co.kr/view.php?ud=202608191248377709caa2b7671d_7",
   "https://www.sedaily.com/article/20080927",
   "https://www.yna.co.kr/view/AKR20260819123600054?input=1195m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3699266",
@@ -2999,13 +2995,13 @@
   "https://www.slist.kr/news/articleView.html?idxno=771369",
   "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/06/20261006500141?wlog_tag3=naver",
   "https://www.ajunews.com/view/20261006134221652",
-  "https://www.chosun.com/economy/stock-finance/2026/10/06/FWLX6ORLBNCTXAHCRGNXRVO3HQ/"
+  "https://www.chosun.com/economy/stock-finance/2026/10/06/FWLX6ORLBNCTXAHCRGNXRVO3HQ/",
+  "https://sports.khan.co.kr/article/202610061353013?pt=nv",
+  "https://www.aitimes.com/news/articleView.html?idxno=215996",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005932719",
+  "https://www.fnnews.com/news/202610061338022832"
  ],
  "seen_titles": [
-  "최신원\"무보수로일하겠다\"···도덕성논란'정면돌파'",
-  "'무보수경영자문'택한최신원…SK네트웍스복귀후첫행보",
-  "'경영복귀'최신원SK네트웍스명예회장,무보수로일하기로",
-  "SK네트웍스\"최신원명예회장,무보수로역할수행\"",
   "도시의정상,옥상투어를권유한다",
   "영·호남4개도시청소년,아름다운클래식선율로동서화합그린다",
   "\"개고기이제못먹는다니\"…'김건희법'시행앞둔복날풍경",
@@ -6001,7 +5997,11 @@
   "'라스'양치승\"'헬스장폐업'피해액20억가까이…몰래울었다\"",
   "최종현경기도의원“지방의회법의목적은권한확대아닌도민의삶개...",
   "[2026국감]호남반도체두고산중위·기노위공방…산업장관\"최종결...",
-  "한국기업거버넌스포럼,최태원회장SK지분9440억원매각에“암묵적..."
+  "한국기업거버넌스포럼,최태원회장SK지분9440억원매각에“암묵적...",
+  "양치승,‘15억사기’가끝아니었다…“실제피해20억,헬멧쓰고소...",
+  "헨켈,SEDEX2026서AI·HBM시대위한첨단패키징소재솔루션선보여",
+  "48개그룹총수주식재산14%감소…18조원줄어",
+  "與\"대기업,당초부터호남염두\"vs野\"기업은그런적없다\"...'호남..."
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-10-06T13:50:16.390320+09:00",
    "한국기업거버넌스포럼 암묵적 회장 9440억원 지분 매각에"
+  ],
+  [
+   "2026-10-06T14:00:29.578002+09:00",
+   "vs 대기업 염두 당초부터 기업은 없다 그런 호남"
   ]
  ],
- "last_run": "2026-10-06T13:50:29.423516+09:00",
+ "last_run": "2026-10-06T14:00:42.231976+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
