@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202610020045",
-  "https://www.newspim.com/news/view/20261002001094",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=209182",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171907",
-  "https://www.insight.co.kr/news/576397",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315562&inflow=N",
-  "https://www.news1.kr/society/incident-accident/6309261",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610020104&t=NN",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=86944",
   "https://www.donga.com/news/Sports/article/all/20261002/134776197/1",
@@ -2999,16 +2992,16 @@
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53440",
   "https://www.bloter.net/news/articleView.html?idxno=675126",
   "https://www.news1.kr/finance/general-stock/6312032",
-  "http://www.inews24.com/view/2012341"
+  "http://www.inews24.com/view/2012341",
+  "http://www.joseilbo.com/news/news_read.php?uid=576926&class=1",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745032",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278317",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1103517",
+  "https://www.newscj.com/news/articleView.html?idxno=3438315",
+  "https://www.koreajoongangdaily.com/korea/industry-minister-says-alaska-lng-has-strategic-value-as-global-energy-routes-shift/12907572",
+  "https://www.pressian.com/pages/articles/2026100618435492346"
  ],
  "seen_titles": [
-  "(마감시황)코스피,7,000선회복…중동분쟁격화에정유·방산주강세",
-  "최태원,SK지분9440억원어치매각추진…재산분할자금마련",
-  "[속보]최태원,SK지분2.3%매각결정9440억규모",
-  "최태원회장,SK㈜지분9440억매각…\"개인자금조달\"",
-  "[증권Pick]오늘의이벤트모아보기",
-  "마이크론훈풍,코스피'상승'...한화·효성·LG·삼성SDI'활짝'",
-  "최태원회장,SK㈜지분매각한다...9440억원규모",
   "저PBR명단코앞…상장사들'막판밸류업'채비",
   "'최태원동거인은中간첩'주장한'배터리아저씨'…檢,항소심실형구...",
   "[속보]심상치않은급등세…10%뛰어오른SK이노정유주날았다",
@@ -6001,7 +5994,14 @@
   "코스피,외국인매도에'7천선'반납…코스닥은3%상승",
   "배경훈\"LGU+해킹은폐사실이면위약금면제\"",
   "'삼전닉스레버리지'투자한개미,석달만에2조3000억날렸다",
-  "[2026국감]\"노란봉투법밀어붙이더니노조질타\"…김도읍\"자가당착\""
+  "[2026국감]\"노란봉투법밀어붙이더니노조질타\"…김도읍\"자가당착\"",
+  "이재용주식재산13.2조감소…48개그룹총수18.6조줄었다",
+  "[2026국감-과방위]독자파운데이션모델·로봇·보안총출동…'AI패권...",
+  "27ExperiencedEngineersfromSamsungandSKhynixJoinedCXMT",
+  "\"지역현안넘어주민삶까지\"…깊이더한보도주문",
+  "[민선9기100일]신용한충북지사취임100일…'103조투자유치'넘어충...",
+  "IndustryministersaysAlaskaLNGhas'strategicvalue'asglobalener",
+  "안호영의원\"국정감사와메가프로젝트는정쟁의대상아니야\""
  ],
  "recent_sigs": [
   [
@@ -7095,9 +7095,29 @@
   [
    "2026-10-06T19:21:16.032251+09:00",
    "노조 자가당착 질타 노란봉투법 밀어붙이더니 김도읍"
+  ],
+  [
+   "2026-10-06T19:31:13.360421+09:00",
+   "Joined and Experienced Samsung hynix CXMT from Engineers"
+  ],
+  [
+   "2026-10-06T19:31:13.360421+09:00",
+   "주문 삶까지 지역 주민 넘어 보도 깊이 더한 현안"
+  ],
+  [
+   "2026-10-06T19:31:13.360421+09:00",
+   "100일 신용한 넘어 취임 투자유치 충북지사 103조"
+  ],
+  [
+   "2026-10-06T19:31:13.360421+09:00",
+   "value Industry minister says as Alaska LNG strategic global has energy"
+  ],
+  [
+   "2026-10-06T19:31:13.360421+09:00",
+   "국정감사와 프로젝트는 안호영 의원 대상 아니야 정쟁의 메가"
   ]
  ],
- "last_run": "2026-10-06T19:21:21.755305+09:00",
+ "last_run": "2026-10-06T19:31:30.320290+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
