@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000100517",
-  "https://biz.chosun.com/industry/company/2026/10/02/ACZPIX6WIBFHXGVBDMCFFZBMZQ/",
-  "https://www.hidomin.com/news/articleView.html?idxno=723474",
-  "https://dealsite.co.kr/articles/170088",
-  "http://www.segyebiz.com/newsView/20261002512245?OutUrl=naver",
   "https://www.ekn.kr/web/view.php?key=20261002028521833",
   "https://www.newsis.com/view/NISX20261002_0003812936",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261002010000783",
@@ -2999,14 +2994,14 @@
   "https://www.mediawatch.kr/news/article.html?no=261281",
   "https://www.tbc.co.kr/news/view?pno=20261006152747AE06452&id=211782",
   "https://www.news2day.co.kr/article/20261006500239",
-  "http://www.newsdream.kr/news/articleView.html?idxno=119466"
+  "http://www.newsdream.kr/news/articleView.html?idxno=119466",
+  "http://www.bizwnews.com/news/articleView.html?idxno=148187",
+  "https://news.mtn.co.kr/news-detail/2026100621151180825",
+  "https://www.laborplus.co.kr/news/articleView.html?idxno=41595",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448752",
+  "https://www.newstnt.com/news/articleView.html?idxno=721689"
  ],
  "seen_titles": [
-  "최태원,SK지분9440억원어치판다…노소영재산분할액과'똑같네'",
-  "최태원,SK㈜지분2.3%매각…처분규모9440억원",
-  "최태원,SK지분9440억매각…재산분할자금마련",
-  "최태원,노소영재산분할대비SK지분9440억원어치매각나선다",
-  "최태원회장,SK지분2.3%매각…재산분할자금마련목적",
   "최태원,SK지분9440억원매각...재산분할대비",
   "최태원회장,SK㈜지분2.26%매각…재산분할소송대응9440억원마련",
   "중수청개청5시간기준고소·고발26건…'검경불복'다수(종합)",
@@ -6001,7 +5996,12 @@
   "[26.10.6증시인싸잇]外人매도에코스피0.89%↓…코스닥은소부장·...",
   "국감달군'호남반도체'...\"기업결정맞나?\"",
   "금융권개인정보유출잇따르자…당국,2차금융사기'주의보'",
-  "[2026국감]\"기업이광주택했다\"는데…서남권반도체진실공방"
+  "[2026국감]\"기업이광주택했다\"는데…서남권반도체진실공방",
+  "하나카드,신세계프리미엄제휴카드'신세계byJADE하나카드'출시",
+  "포스코퓨처엠,삼성SDI와'6조'LFP공급계약…협력확대",
+  "10월1주주요제조업전망",
+  "[10월7일자]비즈니스포스트아침의주요기사",
+  "[공시]10월7일,코스피상장사51개종목자사주매수신청"
  ],
  "recent_sigs": [
   [
@@ -6871,9 +6871,21 @@
   [
    "2026-10-06T21:11:05.385473+09:00",
    "진실공방 는데 반도체 서남권 기업이 택했다 광주"
+  ],
+  [
+   "2026-10-06T21:21:02.557970+09:00",
+   "제조업 1주 10월 주요 전망"
+  ],
+  [
+   "2026-10-06T21:21:02.557970+09:00",
+   "비즈니스포스트 아침의 주요기사"
+  ],
+  [
+   "2026-10-06T21:21:02.557970+09:00",
+   "종목 코스피 51개 상장사 10월 신청 자사주 7일 매수"
   ]
  ],
- "last_run": "2026-10-06T21:11:12.290921+09:00",
+ "last_run": "2026-10-06T21:21:13.948118+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
