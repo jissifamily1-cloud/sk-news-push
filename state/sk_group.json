@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728824",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=87076",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712465",
-  "https://www.joongangenews.com/news/articleView.html?idxno=552882",
-  "https://news.mtn.co.kr/news-detail/2026100614034649252",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364214",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728805",
-  "https://www.khan.co.kr/article/202610061423001",
-  "https://www.hani.co.kr/arti/economy/marketing/1281092.html",
   "https://www.ekn.kr/web/view.php?key=20261006028162636",
   "https://news.tf.co.kr/read/economy/2373349.htm",
   "https://biz.sbs.co.kr/article_hub/20000338478?division=NAVER",
@@ -2999,18 +2990,18 @@
   "https://www.sedaily.com/article/20099331",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445418",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601003",
-  "https://www.fntimes.com/html/view.php?ud=202610080712107156141825007d_18"
+  "https://www.fntimes.com/html/view.php?ud=202610080712107156141825007d_18",
+  "http://www.e-platform.net/news/articleView.html?idxno=105990",
+  "https://www.insight.co.kr/news/576939",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880769",
+  "https://biz.sbs.co.kr/article_hub/20000338867?division=NAVER",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1103539",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145391",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704387",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448871",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705640"
  ],
  "seen_titles": [
-  "방어AI로대비하는미국,과장금올린한국",
-  "글로벌치매신약개화기…국내제약·바이오옥석가리기본격화",
-  "[칼럼]명분대신'근간'을지켰다…최태원의9,440억매각이남긴실리...",
-  "하나카드,신세계백화점특화'신세계byJADE'출시",
-  "하나카드,'신세계byJADE하나카드'출시…쇼핑·여행혜택결합",
-  "[2026국감]LG유플러스'해킹은폐의혹'도마…조경태\"고의성입증시...",
-  "삼성·SK광주반도체투자두고산중위공방…野\"호남몰아주기\"",
-  "SKT,AI참모·위성통신으로국방AX공략…미래전장기술공개",
-  "[2026국감]김정관산업장관“알래스카LNG,중동전쟁으로검토…상업...",
   "SK텔레콤,한글날맞아쉬운우리말담은'UX라이팅가이드'개발",
   "3분기그룹총수주식재산18조증발…이재용·최태원·정의선'직격탄...",
   "이훈기\"OTT·AI구독료도통신비부담\"…정부에대책요구",
@@ -6001,7 +5992,16 @@
   "“SK하이닉스,솔리다임美상장주관은행선정”<블룸버그>",
   "뉴욕증시,글로벌국채금리급등세등영향하락⋯엔비디아5거래일만...",
   "CATL·BYD만44.7%⋯비중국배터리시장도중국계가절반넘었다",
-  "[KFT모닝브리프]2026.10.08—오늘꼭알아야할국내외경제뉴스"
+  "[KFT모닝브리프]2026.10.08—오늘꼭알아야할국내외경제뉴스",
+  "SK에너지·현대오일뱅크담합공정위심의착수",
+  "'사후정보'라는HD현대오일뱅크...공정위는'두차례가격합의'판단",
+  "단일종목레버리지ETF,금융권의경고에도출시강행...정부의정책실...",
+  "[마켓프리뷰]코스피7000선부근공방지속…삼성전자실적경계감",
+  "용인시,반도체대전서지역소부장기업판로개척",
+  "[오늘의글로벌마켓]뉴욕증시,국채금리급등속3대지수하락세",
+  "[이진호의신통방통]넷플릭스영상은미국서날아오지않는다…'CDN'의...",
+  "[WhoIs?]정해린에스원대표이사사장",
+  "K배터리,3분기어닝서프라이즈기대...ESS출하증가로AMPC효과↑"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,29 @@
   [
    "2026-10-08T07:31:09.131714+09:00",
    "알아야 경제뉴스 국내외"
+  ],
+  [
+   "2026-10-08T07:41:03.571538+09:00",
+   "개척 소부장 반도체대전서 용인시 판로 기업 지역"
+  ],
+  [
+   "2026-10-08T07:41:03.571538+09:00",
+   "하락세 국채금리 뉴욕증시 3대지수 급등"
+  ],
+  [
+   "2026-10-08T07:41:03.571538+09:00",
+   "넷플릭스 않는다 미국서 영상은 날아오지 CDN"
+  ],
+  [
+   "2026-10-08T07:41:03.571538+09:00",
+   "에스원 사장 정해린 대표이사"
+  ],
+  [
+   "2026-10-08T07:41:03.571538+09:00",
+   "3분기 출하 기대 서프라이즈 ESS K배터리 증가로 AMPC 효과 어닝"
   ]
  ],
- "last_run": "2026-10-08T07:31:18.303413+09:00",
+ "last_run": "2026-10-08T07:41:19.806050+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
