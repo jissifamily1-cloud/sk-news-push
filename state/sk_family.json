@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43906",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260920213315ahP",
-  "https://www.apnews.kr/news/articleView.html?idxno=3051393",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260921053838weI",
-  "https://www.ajunews.com/view/20260920225203405",
-  "https://www.ekn.kr/web/view.php?key=20260918022456403",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=764251",
-  "https://www.fnnews.com/news/202609210605382459",
-  "https://www.insight.co.kr/news/574425",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=70119",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609161525172200104978",
   "https://www.hyunbulnews.com/news/articleView.html?idxno=505420",
   "https://dealsite.co.kr/articles/169374",
@@ -2999,19 +2989,19 @@
   "https://www.g-enews.com/view.php?ud=2026100713374866433084322ec9_1",
   "https://www.kyeonggi.com/article/20261007580258",
   "https://www.yna.co.kr/view/AKR20261007111900704?input=1195m",
-  "https://www.newsgn.com/news/articleView.html?idxno=577854"
+  "https://www.newsgn.com/news/articleView.html?idxno=577854",
+  "https://www.yna.co.kr/view/PYH20261007169500013?input=1196m",
+  "https://www.news1.kr/photos/8147222",
+  "https://www.news1.kr/photos/8147217",
+  "https://www.news1.kr/photos/8147216",
+  "https://www.mt.co.kr/industry/2026/10/07/2026100711264151454",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=132942",
+  "https://www.news1.kr/photos/8147215",
+  "http://www.econotelling.com/news/articleView.html?idxno=21259",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260921010007553",
+  "https://www.newspim.com/news/view/20261007000247"
  ],
  "seen_titles": [
-  "대한민국사회적가치페스타21일개막…400여기관한자리에",
-  "갈길먼한-일협력[문정인칼럼]",
-  "노소영관장,안문숙유튜브서포착..털털하게김치맛보고구매까지...",
-  "SK,대한상의와'사회적가치페스타'공동개최…청년고민·사회비용해...",
-  "노소영,세번째검찰조사받는다…'밀반입20만달러·다이아'재소환...",
-  "모레김건희'매관매직'2심결론…내일은여인형·이진우선고",
-  "최태원標'AI로사회문제해결',SOVAC서구체화…'CSR플랫폼'첫공개",
-  "내일김건희'매관매직'2심결론…오늘은여인형·이진우선고",
-  "[인터뷰]남종섭경기도의회의장\"추미애도정과맞춰가는과정...지방의...",
-  "[기자의눈]SK는왜포도밭을이렇게알뜰살뜰챙기나",
   "5대그룹경영진'젊은피'대거전진배치...'70년이후'사내이사1년새...",
   "안문숙,자선바자회서노소영만나…\"충성\"외치며반색",
   "SK사회적가치연구원,사회공헌효과AI로금액환산...SOVAC서첫공개",
@@ -6001,7 +5991,17 @@
   "이형일“기업투자걸림돌걷겠다”…경제6단체,정년연장해법요청",
   "용인시의회,플랫폼시티현장찾아교통·기업유치등개발방향점검",
   "'돈점논쟁'와중에지눌사상연구…김방룡충남대교수별세",
-  "검찰청폐지직전미제사건18만건폭증"
+  "검찰청폐지직전미제사건18만건폭증",
+  "이재명대통령,국민보고회참석",
+  "이재명대통령,한국형녹색대전환(K-GX)전략국민보고회",
+  "대화하는최태원회장과김정관장관",
+  "대화하는최태원회장과이형일·김성환장관",
+  "경제6단체\"투자막는규제풀어야\"…인허가·인프라지원촉구",
+  "이형일부총리,경제6단체장만나\"소통과청년정책\"강조",
+  "이창훈민간위원장과대화하는최태원회장",
+  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(85)사회적가치창출...",
+  "SK부회장단대거하이닉스행…공급망·대외협력속도낸다",
+  "李대통령,K-녹색대전환주재…최태원등경제계총출동"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-10-07T14:00:28.736269+09:00",
    "사건 검찰청 폐지 폭증 18만 미제 직전"
+  ],
+  [
+   "2026-10-07T14:10:13.832044+09:00",
+   "녹색대전환 경제계 대통령 주재 총출동"
   ]
  ],
- "last_run": "2026-10-07T14:00:40.969125+09:00",
+ "last_run": "2026-10-07T14:10:26.600722+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
