@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=638882",
-  "https://www.khan.co.kr/article/202609291457001",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=303593",
-  "https://news.tf.co.kr/read/life/2370813.htm",
-  "https://www.sisajournal.com/news/articleView.html?idxno=388608",
-  "https://www.hapt.co.kr/news/articleView.html?idxno=169590",
-  "https://www.ytn.co.kr/_ln/0102_202609291448250430",
-  "https://www.newspim.com/news/view/20260929000736",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=616711",
-  "https://www.sidae.com/article/2026092913305193382",
   "http://www.inews24.com/view/2009926",
   "http://weekly.chosun.com/news/articleView.html?idxno=55696",
   "https://www.chosun.com/national/regional/chungcheong/2026/09/29/MLQHV7DE2RHODGZ7NWIBXZKD44/",
@@ -2999,19 +2989,19 @@
   "https://www.ajunews.com/view/20261007155512340",
   "https://www.nocutnews.co.kr/news/6588360",
   "https://www.news1.kr/society/incident-accident/6313254",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700287.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700287.html",
+  "https://www.busan.com/view/busan/view.php?code=2026100716232224622",
+  "https://biz.chosun.com/policy/policy_sub/2026/10/07/5WB5CXSZBVFTJNS7QCRAKZI3CU/",
+  "https://www.ddaily.co.kr/page/view/2026100716164644460",
+  "https://news.bizwatch.co.kr/article/mobile/2026/10/07/0029",
+  "https://www.etoday.co.kr/news/view/2633508",
+  "https://www.hankyung.com/article/202610077837g",
+  "https://news.jtbc.co.kr/article/NB12321806?influxDiv=NAVER",
+  "https://www.joongboo.com/news/articleView.html?idxno=363738704",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=87173",
+  "http://www.metroseoul.co.kr/article/20261007500485"
  ],
  "seen_titles": [
-  "\"명문대경영동아리서뭉쳐200억챙겼다\"…미공개정보'금융카르텔'...",
-  "[연합뉴스이시각헤드라인]-14:30",
-  "'200억꿀꺽'명문대출신내부정보카르텔꼬리잡혔다",
-  "'서울대경영동아리'출신들,200억부당이득거둔수법이",
-  "합동대응단,'서울대경영동아리출신정보카르텔'정조준…200억대부당...",
-  "명문대동아리출신'정보카르텔'적발…미공개정보로200억부당이득",
-  "영정사진들고거리행진펼치는가습기살균제참사피해자가족들[경향포...",
-  "국회ESG포럼\"'ESG기본법'제정필요\"",
-  "쿠팡,'공정위현장조사중단'기각에재항고",
-  "'전국최저가'라더니…착한이사·로젠이사,과장광고로과징금철퇴",
   "당정\"전기·소방·승강기등반복담합사업자제재강화\"",
   "착한이사·로젠이사,과장광고로과징금2억원",
   "정유4사,국감소환기로...거래관행개선압박",
@@ -6001,7 +5991,17 @@
   "선관위특검한달째…자료확보넘어지휘부책임추적",
   "경찰까지드나든'기업형성매매업소'총책1심서실형",
   "지드래곤·양현석,저작권법위반'무혐의'…경찰불송치",
-  "\"이미공개된정보가담합?\"…정유2사,공정위제재착수에\"충분히..."
+  "\"이미공개된정보가담합?\"…정유2사,공정위제재착수에\"충분히...",
+  "네이버파이낸셜·두나무결합내년으로…주식교환세번째연기",
+  "농식품부장관“산란계협회,설립취지어긋난행동으로해산명령”",
+  "\"국민께송구\"담합으로고개숙인제일제당·삼양사[2026국감]",
+  "두나무·네이버빅딜또연기…주식교환내년3월로",
+  "CJ제일제당·삼양사,국감서담합사과…\"경쟁사접촉제한\"[국감]",
+  "\"공정경쟁훼손사죄\"…CJ제일제당·삼양사대표'가격담합사과'",
+  "지드래곤·양현석,저작권법위반혐의사건종결⋯경찰불송치처분",
+  "'반년간4명사망'인천원병원…장애인단체\"시·구관리책임밝혀야...",
+  "국제유가불안틈타44조원대기름값담합의혹…공정위,SK·HD현대오일...",
+  "HD현대오일뱅크·SK에너지,기름값담합혐의에\"사실관계소명\""
  ],
  "recent_sigs": [
   [
@@ -6037,7 +6037,7 @@
    "정유 공개된 제재 착수에 2사 충분히 담합 정보가 이미"
   ]
  ],
- "last_run": "2026-10-07T16:21:00.207690+09:00",
+ "last_run": "2026-10-07T16:31:01.786251+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
