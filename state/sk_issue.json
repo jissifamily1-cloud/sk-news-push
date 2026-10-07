@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202609303249i",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277908",
-  "https://www.socialvalue.kr/news/view/1065589828912165",
-  "https://dealsite.co.kr/articles/169726",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447641",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448222",
-  "https://www.mk.co.kr/article/12163436",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000069644",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270639&CMPT_CD=P0010",
   "http://www.popcornnews.net/news/articleView.html?idxno=134313",
@@ -2999,16 +2992,16 @@
   "https://www.fnnews.com/news/202610072232250535",
   "https://www.fntimes.com/html/view.php?ud=2026100716205919645e6e69892f_18",
   "https://www.news1.kr/local/gyeonggi/6313620",
-  "https://www.khan.co.kr/article/202610071743001"
+  "https://www.khan.co.kr/article/202610071743001",
+  "https://www.newsis.com/view/NISX20261007_0003816598",
+  "https://www.newsis.com/view/NISX20261007_0003816544",
+  "https://www.khan.co.kr/article/202610080600031",
+  "https://www.segye.com/newsView/20261007521351?OutUrl=naver",
+  "https://www.segye.com/newsView/20261007518153?OutUrl=naver",
+  "https://www.segye.com/newsView/20261007516609?OutUrl=naver",
+  "https://www.edaily.co.kr/News/Read?newsId=02069686645610952&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "서울대동아리'카르텔'‥미공개정보로200억챙겨",
-  "[기획]과자·음료또가격표바꾼다…국감앞두고도마위오른'원가의...",
-  "개인정보유출부터가격담합까지…국감앞둔유통·식품업계‘긴장’",
-  "서울대동아리출신끼리…'미공개정보'로200억꿀꺽",
-  "[1년전오늘]\"아시아나마일리지,10년간그대로쓴다\"…대한항공통...",
-  "美국무부\"한국정부,노동정책경직\"…노란봉투법거론[이상은의워...",
-  "쿠팡,현장조사집행정지기각에재항고...\"기업의절차적권리판단구...",
   "'굵직한사건사고'식품유통가국감장달군다…CJ·쿠팡·배민경영진...",
   "공정위,내달중점조사기획단출범…쿠팡첫타깃되나",
   "[WhoIs?]김석환한세예스24홀딩스대표이사부회장",
@@ -6001,10 +5994,22 @@
   "이재준수원시장'불법당원모집'의혹…경찰,민주경기도당전격압...",
   "산은·기은‘내부통제’도마…금융사고부터정책금융운용까지[2026국...",
   "경찰,민주당경기도당'12시간'고강도압수수색…수원시장선거법수...",
-  "경기남부청,민주당경기도당압수수색···이재준수원시장선거법수..."
+  "경기남부청,민주당경기도당압수수색···이재준수원시장선거법수...",
+  "[오늘의주요일정]기후에너지환경부(10월8일목요일)",
+  "[오늘의주요일정]경제(10월8일목요일)",
+  "[단독]사익편취통로인가···‘상표권사용료’비중높은회사일수록...",
+  "[정책이슈알려줘]소아응급실압수수색논란…정은경“가이드라인만...",
+  "[법조브리핑]“발화타이머맞췄다면방화착수”…‘사제총기아들...",
+  "‘응급실압색’반발확산…정은경“가이드라인만들것”",
+  "공소청남은수사속도,중수청은새사건배당…\"기관간공조관건\""
  ],
- "recent_sigs": [],
- "last_run": "2026-10-08T06:01:18.592786+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-08T06:10:54.417149+09:00",
+   "속도 공소청 남은 사건 공조 기관 중수청은 수사 배당 관건"
+  ]
+ ],
+ "last_run": "2026-10-08T06:11:01.740659+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
