@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202609291855001",
-  "https://www.segye.com/newsView/20260929515781?OutUrl=naver",
-  "https://www.ytn.co.kr/_ln/0102_202609291855134565",
-  "https://www.news1.kr/society/incident-accident/6305173",
-  "https://imnews.imbc.com/news/2026/society/article/6854802_36918.html",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5222130",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673919",
-  "http://www.yonhapnewstv.co.kr/news/MYH202609291922430RM",
   "https://www.sedaily.com/article/20096295",
   "https://www.mk.co.kr/article/12164133",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775441&plink=ORI&cooper=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.khan.co.kr/article/202610071845001",
   "https://www.munhwa.com/article/11622029",
   "https://www.ytn.co.kr/_ln/0103_202610071842347963",
-  "https://www.seoul.co.kr/news/society/2026/10/07/20261007500287?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/10/07/20261007500287?wlog_tag3=naver",
+  "https://www.todayeconomic.com/news/article.html?no=32363",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117851",
+  "https://sjbnews.com/news/news.php?number=889434",
+  "http://www.finomy.com/news/articleView.html?idxno=263097",
+  "https://biz.sbs.co.kr/article_hub/20000338837?division=NAVER",
+  "https://www.joongang.co.kr/article/25467942",
+  "https://www.newsis.com/view/NISX20261007_0003818077",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679941"
  ],
  "seen_titles": [
-  "경찰,코스모로보틱스압수수색…코스닥상장전매출'뻥튀기'의혹",
-  "[이슈]역사왜곡논란'암살자(들)'…고발에불매운동까지",
-  "경찰,코스모로보틱스압수수색…실적35억대허위계상의혹",
-  "[뉴스인사이드뉴스톡톡]삼성6개사,美AI기업헬릭스에1.3조투자外",
-  "하루새잇단압수수색…관가분위기뒤숭숭",
-  "경찰,서울중구청압수수색···김길성구청장공직선거법위반혐의...",
-  "금융엘리트카르텔,미공개정보로200억‘꿀꺽’",
-  "미공개정보로200억'꿀꺽'...서울대출신'정보카르텔'덜미",
   "경찰'수십만원식사제공'서울중구청압수수색…\"통상간담회\"(종합...",
   "경찰,'김길성공직선거법위반'혐의서울중구청청사압수수색",
   "\"서울대경영동아리인맥이카르텔로\"미공개정보로200억챙겨",
@@ -6001,7 +5993,15 @@
   "불법게임장사건무마대가로골프접대···경찰형사팀장기소",
   "경찰,민주당경기도당압수수색…이재준수원시장권리당원불법모집...",
   "복지장관\"필수의료현장수사가이드라인만들것\"",
-  "민주당경기도당압수수색…수원시장경선자료확보"
+  "민주당경기도당압수수색…수원시장경선자료확보",
+  "우리은행,남부발전과녹색여신약정…환경오염저감사업자금지원",
+  "[국감+]고개숙인CJ제일제당·삼양사대표\"담합재발방지약속\"",
+  "[생의한가운데]밀가루,설탕,석유담합과[리니언시]제도를아시나요?",
+  "[2026국감]설탕등담합에고개숙인CJ·삼양사···\"재발막겠다\"",
+  "쿠팡,또공정위상대집행정지신청…'10년치자료요구'불복",
+  "獨전직정보수장반역체포…기밀2000건빼돌려해외유출",
+  "'불법게임장업주수사무마'울진경찰서형사팀장기소",
+  "[단독]셀프주유‘정액·정량’선택안해도된다고?…“연천억원줄..."
  ],
  "recent_sigs": [
   [
@@ -6027,9 +6027,13 @@
   [
    "2026-10-07T18:21:02.997957+09:00",
    "44조대 HD현대오일뱅크 심판대 유가담합 SK에너지"
+  ],
+  [
+   "2026-10-07T19:01:06.705961+09:00",
+   "정량 해도 선택 된다고 정액 천억 셀프주유"
   ]
  ],
- "last_run": "2026-10-07T18:50:53.799996+09:00",
+ "last_run": "2026-10-07T19:01:13.577390+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
