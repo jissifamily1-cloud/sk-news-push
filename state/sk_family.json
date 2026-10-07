@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064546",
-  "https://www.hankyung.com/article/2026092180247",
-  "https://www.yna.co.kr/view/PYH20260921116500013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260921115500013?input=1196m",
-  "https://www.newsis.com/view/NISX20260921_0003797862",
-  "http://www.popcornnews.net/news/articleView.html?idxno=133670",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065585766684648",
-  "https://www.yna.co.kr/view/AKR20260921051100003?input=1195m",
   "https://www.naeil.com/news/read/603024",
   "https://view.asiae.co.kr/article/2026092113021311202",
   "https://www.yna.co.kr/view/PYH20260921116900013?input=1196m",
@@ -2999,17 +2991,17 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008787292&plink=ORI&cooper=NAVER",
   "https://www.joongang.co.kr/article/25467862",
   "https://www.insight.co.kr/news/574531",
-  "http://www.segyebiz.com/newsView/20261007513640?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20261007513640?OutUrl=naver",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036903",
+  "https://www.newsis.com/view/NISX20261007_0003817654",
+  "https://www.ziksir.com/news/articleView.html?idxno=148627",
+  "https://www.joongboo.com/news/articleView.html?idxno=363738682",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=132588",
+  "https://www.mediapen.com/news/view/1124992",
+  "https://www.viewsnnews.com/article?q=238917",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200785"
  ],
  "seen_titles": [
-  "SOVAC2026,지역을다시본다…청년·일자리넘어협력모델찾기",
-  "산자위,'호남반도체'국감증인채택이견에전체회의취소",
-  "국회산자위,국감증인·참고인협상결렬",
-  "호남반도체국감놓고…野“대기업총수부르자”與“망신주기”...",
-  "IPARK현대산업개발,추석연휴전'CEO주관안전보건점검'",
-  "\"AI,사회문제푸는가장강력한해결사\"…최태원이꺼낸해법",
-  "대한민국사회적가치페스타,개회사하는최태원대한상의회장",
-  "대한민국사회적가치페스타,위로약방부스둘러보는한성숙국무총리",
   "정부·기업·시민사회'사회문제'해법모색…대한상의,'사회적가치페...",
   "IPARK현대산업개발,추석앞두고인천시티오씨엘현장안전점검",
   "정경구IPARK현대산업개발대표,추석앞두고시티오씨엘안전점검",
@@ -6001,7 +5993,15 @@
   "이대통령,'한국형녹색대전환'보고회주재…최태원도참석",
   "이형일,대한상의등경제6단체장과첫간담회…“소통·협력강화”",
   "추석앞두고건설현장찾은정경구대표...IPARK현대산업개발안전직접...",
-  "이재명대통령,“K-GX,국가경쟁력확보위한미래전략”"
+  "이재명대통령,“K-GX,국가경쟁력확보위한미래전략”",
+  "이대통령\"추격자관행벗어나녹색시장의설계자·선도자가돼야\"",
+  "최태원대한상의회장\"인공지능·녹색전환,함께추진하는'쌍둥이전...",
+  "李대통령\"녹색시장의설계자이자선도자돼야\"…1000조'K-GX'엔진켰다",
+  "경기도,제107회전국체전결단식진행…종합5연패결의",
+  "IPARK현대산업개발,추석연휴전CEO현장안전점검...가을철안전사...",
+  "정경구IPARK현대산업개발대표,추석앞두고안전경영‘고삐’",
+  "李대통령\"녹색대전환,첨단산업초격차유지에필수적\"",
+  "3분기48개그룹총수주식자산18조증발...이재용·최태원·정의선'직..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-10-07T14:50:13.238103+09:00",
    "눈앞의 기후위기 우리가 대통령 현실 돼야 시장의 녹색 설계자"
+  ],
+  [
+   "2026-10-07T15:40:12.849537+09:00",
+   "주식자산 18조 이재용 48개 증발 정의선 3분기 총수"
   ]
  ],
- "last_run": "2026-10-07T15:30:32.594658+09:00",
+ "last_run": "2026-10-07T15:40:26.806004+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
