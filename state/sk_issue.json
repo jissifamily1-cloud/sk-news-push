@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270639&CMPT_CD=P0010",
-  "http://www.popcornnews.net/news/articleView.html?idxno=134313",
   "https://www.nocutnews.co.kr/news/6584807",
   "https://www.munhwa.com/article/11620355",
   "https://biz.chosun.com/topics/law_firm/2026/09/30/B5CRAEO3HFBABNBZSDXZZMOXGI/",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20261007518153?OutUrl=naver",
   "https://www.segye.com/newsView/20261007516609?OutUrl=naver",
   "https://www.edaily.co.kr/News/Read?newsId=02069686645610952&mediaCodeNo=257",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071211167400745"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071211167400745",
+  "https://www.news1.kr/industry/distribution/6313299",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077752"
  ],
  "seen_titles": [
-  "공정위,내달중점조사기획단출범…쿠팡첫타깃되나",
-  "[WhoIs?]김석환한세예스24홀딩스대표이사부회장",
   "[WhoIs?]구동휘LSMnM대표이사사장",
   "야만은대개효율적이다-늦게도착한비닉특권(ACP)[이창훈의경쟁법...",
   "뇌물받고수의계약몰아준공무원,징역2년실형확정",
@@ -6001,7 +5999,9 @@
   "[법조브리핑]“발화타이머맞췄다면방화착수”…‘사제총기아들...",
   "‘응급실압색’반발확산…정은경“가이드라인만들것”",
   "공소청남은수사속도,중수청은새사건배당…\"기관간공조관건\"",
-  "KAIㆍHMM,민영화재시동…국감서‘정부의지’시험대"
+  "KAIㆍHMM,민영화재시동…국감서‘정부의지’시험대",
+  "전기히터198%·난방매트131%↑…쌀쌀해진날씨에월동준비시작",
+  "[뉴스클레임사설]정유사들위기틈타기름값짬짜미,과징금최대로..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "속도 공소청 남은 사건 공조 기관 중수청은 수사 배당 관건"
   ]
  ],
- "last_run": "2026-10-08T06:24:16.043033+09:00",
+ "last_run": "2026-10-08T06:31:00.645690+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
