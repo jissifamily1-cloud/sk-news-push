@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1693168/?sc=Naver",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210234&t=NN",
-  "https://www.edaily.co.kr/News/Read?newsId=04224646645582416&mediaCodeNo=257",
   "https://www.kwnews.co.kr/article/20260921501864",
   "https://www.redaily.co.kr/news/articleView.html?idxno=17636",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725197",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/AKR20261007189000003?input=1195m",
   "https://www.gokorea.kr/news/articleView.html?idxno=880765",
   "https://biz.sbs.co.kr/article_hub/20000338871?division=NAVER",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890014.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890014.html",
+  "https://dealsite.co.kr/articles/170246",
+  "https://dealsite.co.kr/articles/170252",
+  "https://dealsite.co.kr/articles/170132"
  ],
  "seen_titles": [
-  "세종시의회,강명구의원만나지방의회법연내제정요청",
-  "[사가페2026]착한일에붙이는'가격표'…대한상공회의소,사회문제...",
-  "[사가페2026]\"선한마음에만기댈수없다\"…대한상의·SK,사회문제에...",
   "민관400여곳모인사회적가치페스타…AI·자본활용해법모색",
   "[현장]최태원\"사회적가치도측정·보상해야\"…내가한'착한행동'은...",
   "대미투자국회보고22일확정…산자위·재경위분리진행",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,AI환경연구소설립한다…반도체환경문제선제대응",
   "SK하이닉스,AI로친환경반도체혁신선도한다—새로운연구소설립추...",
   "SK하닉,AI환경연구소설립추진…반도체환경문제선제대응",
-  "이화영,대통령에가석방요구…野\"풀어주면공범자백\""
+  "이화영,대통령에가석방요구…野\"풀어주면공범자백\"",
+  "[최태원재산분할]SK지분판이유…재상고가바꾼9440억셈법",
+  "[최태원재산분할]2440억원만남긴재상고…실트론·분할비율쟁점",
+  "[20263Q리그테이블][DCM]회사채줄이는SK…떠밀리는SK증권"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,17 @@
   [
    "2026-10-08T07:10:15.642555+09:00",
    "선제대응 환경문제 설립한다 SK하이닉스 AI환경연구소 반도체"
+  ],
+  [
+   "2026-10-08T08:10:26.114317+09:00",
+   "실트론 분할비율 쟁점 남긴 2440억원만 재상고"
+  ],
+  [
+   "2026-10-08T08:10:26.114317+09:00",
+   "줄이는 회사채 SK증권 떠밀리는"
   ]
  ],
- "last_run": "2026-10-08T08:00:39.417025+09:00",
+ "last_run": "2026-10-08T08:10:40.273961+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
