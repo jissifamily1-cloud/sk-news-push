@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.cctimes.kr/news/articleView.html?idxno=929921",
-  "http://www.cctimes.kr/news/articleView.html?idxno=929926",
-  "https://www.news1.kr/politics/president/6305200",
   "https://www.dongponews.net/news/articleView.html?idxno=60822",
   "https://www.m-i.kr/news/articleView.html?idxno=2000832",
   "https://biz.chosun.com/topics/topics_social/2026/09/29/44OWXKH2YFAFTDRWYHBB7YUXMM/",
@@ -2999,12 +2996,12 @@
   "http://www.4th.kr/news/articleView.html?idxno=2119380",
   "https://news.jtbc.co.kr/article/NB12321887?influxDiv=NAVER",
   "https://www.kbmaeil.com/article/20261007500773",
-  "https://news.tf.co.kr/read/national/2374086.htm"
+  "https://news.tf.co.kr/read/national/2374086.htm",
+  "https://www.segye.com/newsView/20261007518835?OutUrl=naver",
+  "https://www.topdaily.kr/articles/112256",
+  "http://www.spochoo.com/news/articleView.html?idxno=130849"
  ],
  "seen_titles": [
-  "선거구민에호텔식사제공…경찰,김길성중구청장압수수색",
-  "경찰,코스모로보틱스압수수색…'매출35억부풀리기'의혹",
-  "'매출35억부풀리기'코스모로보틱스경찰압수수색",
   "경찰,코스모로보틱스압수수색…매출부풀리기의혹",
   "경찰,'매출부풀리기의혹'코스모로보틱스압수수색",
   "\"신용한지사집무실압수수색도민에명확한입장표명하라\"",
@@ -6001,7 +5998,10 @@
   "[국감]CJ제일제당·삼양사,담합사과…정부감독도도마",
   "울진경찰서형사팀장기소…수사무마하고뇌물받은혐의",
   "게임장사건덮고골프접대받은혐의…경찰팀장기소",
-  "경찰,민주당경기도당압수수색…이재준수원시장선거법위반관련"
+  "경찰,민주당경기도당압수수색…이재준수원시장선거법위반관련",
+  "CJ제일제당,담합사과하며재발방지책공개…“기업시스템과문화전...",
+  "[국정감사][2026]대한항공최정호\"통합LCC본사,이해당사자와소통...",
+  "참여연대\"쿠팡플레이,축구협회사유화\"…국감증언당일'공정위제재..."
  ],
  "recent_sigs": [
   [
@@ -6029,7 +6029,7 @@
    "정량 해도 선택 된다고 정액 천억 셀프주유"
   ]
  ],
- "last_run": "2026-10-07T19:40:53.582407+09:00",
+ "last_run": "2026-10-07T19:50:58.932093+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
