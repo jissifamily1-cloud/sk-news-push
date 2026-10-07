@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=879912",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1410308",
-  "http://www.joseilbo.com/news/news_read.php?uid=576488&class=18",
-  "https://www.hankookilbo.com/news/article/A2026092910110004270?did=NA",
-  "https://www.ytn.co.kr/_ln/0102_202609291103285088",
-  "https://www.ajunews.com/view/20260929102023018",
-  "https://www.smarttoday.co.kr/ko-kr/articles/112058",
-  "https://www.kukinews.com/article/view/kuk202609290055",
   "https://www.mk.co.kr/article/12163490",
   "https://www.news2day.co.kr/article/20260929500092",
   "https://imnews.imbc.com/news/2026/econo/article/6854701_36932.html",
@@ -2999,17 +2991,17 @@
   "https://www.etoday.co.kr/news/view/2633343",
   "https://www.joongangenews.com/news/articleView.html?idxno=553206",
   "https://biz.heraldcorp.com/article/10895697",
-  "https://imnews.imbc.com/news/2026/society/article/6856292_36918.html"
+  "https://imnews.imbc.com/news/2026/society/article/6856292_36918.html",
+  "https://www.nocutnews.co.kr/news/6588167",
+  "https://www.meconomynews.com/news/articleView.html?idxno=202026",
+  "https://www.nongmin.com/article/20261007500070",
+  "https://www.newspim.com/news/view/20261007000714",
+  "https://www.bntnews.co.kr/article/view/bnt202610070238",
+  "https://www.nocutnews.co.kr/news/6588162",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069549",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008786986&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "주진우\"與,패륜영화'암살자들'대박독려…상영중지·수익환수해야...",
-  "공수처,'통일교편파수사의혹'김건희특검팀무혐의처분",
-  "합동대응단명문대경영동아리출신정보카르텔적발,압수수색하고혐...",
-  "미공개정보로200억챙긴'금융엘리트'카르텔적발,M&A기밀유출충...",
-  "주가조작합동대응단,미공개정보이용카르텔적발...압수수색·혐의자...",
-  "명문대·컨설팅인맥,‘200억정보카르텔’됐나…20곳전격압수수색",
-  "미공개M&A정보로200억부당이익…명문대경영동아리'정보카르텔'적...",
-  "상장사내부정보로200억원'꿀꺽'...명문대'정보카르텔'적발",
   "대학동아리·컨설팅·사모펀드출신'금융마피아',200억부당이득적...",
   "명문대경영동아리출신미공개정보카르텔적발",
   "명문대경영동아리인맥타고M&A정보공유…부당이득200억혐의",
@@ -6001,7 +5993,15 @@
   "“필수의료위축”…소아응급실압수수색에의료계반발일파만파",
   "SK에너지·HD현대오일뱅크,44조원대유류가격담합혐의...공정위심판...",
   "국제유가요동틈타가격정보공유했나…정유사2곳‘담합’심판대",
-  "SK에너지·현대오일뱅크,44조원대유가담합의혹‥공정위,제재착수"
+  "SK에너지·현대오일뱅크,44조원대유가담합의혹‥공정위,제재착수",
+  "송미령장관,\"반복적설립조건위반에산란계협회허가취소\"",
+  "\"무심코눌렀다330원결제\"...KG이니시스,'이니안심서비스'[교묘한설...",
+  "‘닭값’내렸는데‘치킨값’그대로…bhc·BBQ·교촌‘담합여부’현...",
+  "[2026국감]송미령\"산란계협회,담합아닌설립요건위반으로해산조...",
+  "지드래곤,저작권법위반의혹1년여만에‘무혐의’",
+  "정은경\"응급실압수수색가이드라인마련\"…경찰청과협의",
+  "SK에너지·현대오일뱅크,44조대기름값담합혐의…공정위심의착수",
+  "전쟁틈타44조원대유가담합…SK에너지·HD현대오일뱅크심판대에"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "정유사 기름값 2곳 국내 의혹 올랐다 심사대 담합"
   ]
  ],
- "last_run": "2026-10-07T13:51:00.737712+09:00",
+ "last_run": "2026-10-07T14:01:10.297728+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
