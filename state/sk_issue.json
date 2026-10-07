@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jbnews.com/news/articleView.html?idxno=1512531",
-  "https://www.mt.co.kr/society/2026/09/29/2026092918303811235",
-  "https://www.mt.co.kr/society/2026/09/29/2026092918153874140",
-  "https://www.yna.co.kr/view/AKR20260929176000004?input=1195m",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260930.22002009441",
-  "https://www.news1.kr/society/incident-accident/6305177",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=365591",
-  "https://www.newsis.com/view/NISX20260929_0003807751",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5012548",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1102405",
   "https://www.khan.co.kr/article/202609291855001",
   "https://www.segye.com/newsView/20260929515781?OutUrl=naver",
   "https://www.ytn.co.kr/_ln/0102_202609291855134565",
@@ -2999,19 +2989,19 @@
   "https://www.ytn.co.kr/_ln/0103_202610071831278392",
   "https://www.kgnews.co.kr/news/article.html?no=914416",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223593",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617700"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617700",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2305716",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438197",
+  "https://www.kyeongin.com/article/1772149",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1412929",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261007183911w7r",
+  "https://www.newsis.com/view/NISX20261007_0003818063",
+  "https://www.khan.co.kr/article/202610071845001",
+  "https://www.munhwa.com/article/11622029",
+  "https://www.ytn.co.kr/_ln/0103_202610071842347963",
+  "https://www.seoul.co.kr/news/society/2026/10/07/20261007500287?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "[단독]경찰,코스모로보틱스압수수색…로봇35억허위매출혐의",
-  "'암살자(들)'상영중단요구확산",
-  "트럼프는어떻게공소취소했나:‘3승1무’로검찰을이긴방법",
-  "대한상의-산업부-공정위-소비자원,소비자안심유통환경구축'맞손'…...",
-  "중학생제자와합의성관계?어림없는거짓말…곧사라질‘檢보완수사...",
-  "충북참여연대\"도지사집무실압수수색참담…철저히수사해야\"",
-  "\"동의받았다\"여중생성폭행교사,검찰재수사에거짓말'덜미'",
-  "경찰,서울중구청청사압수수색…구청장공직선거법위반혐의",
-  "경찰,'매출35억부풀리기'의혹코스모로보틱스압수수색",
-  "서울대경영동아리출신카르텔,미공개정보로200억부당이득",
   "경찰,코스모로보틱스압수수색…코스닥상장전매출'뻥튀기'의혹",
   "[이슈]역사왜곡논란'암살자(들)'…고발에불매운동까지",
   "경찰,코스모로보틱스압수수색…실적35억대허위계상의혹",
@@ -6001,7 +5991,17 @@
   "경찰,'불법당원모집'의혹민주당경기도당압수수색",
   "경찰,민주당도당압수수색…이재준측‘불법당원모집’의혹",
   "SK에너지-HD현대오일뱅크44조규모유가담합혐의…공정위,제재착수",
-  "SK에너지·현대오일뱅크,담합혐의심의…과징금최대4.6조"
+  "SK에너지·현대오일뱅크,담합혐의심의…과징금최대4.6조",
+  "[국감]\"수주따냈다\"뒤에중소하도급업체는비용떠안아…해외건설...",
+  "국토장관\"소비자가사용하기쉽게항공마일리지관리할필요성있어\"...",
+  "제지사담합…피해떠안은영세인쇄업체들",
+  "[국감]대한항공마일리지국감도마…\"사용편의·사용처확대\"",
+  "공정위현장조사거부한쿠팡…또집행정지신청",
+  "국감서항공사마일리지도마…대한항공\"사용처확대,체감할수준개...",
+  "불법게임장사건무마대가로골프접대···경찰형사팀장기소",
+  "경찰,민주당경기도당압수수색…이재준수원시장권리당원불법모집...",
+  "복지장관\"필수의료현장수사가이드라인만들것\"",
+  "민주당경기도당압수수색…수원시장경선자료확보"
  ],
  "recent_sigs": [
   [
@@ -6029,7 +6029,7 @@
    "44조대 HD현대오일뱅크 심판대 유가담합 SK에너지"
   ]
  ],
- "last_run": "2026-10-07T18:40:54.039284+09:00",
+ "last_run": "2026-10-07T18:50:53.799996+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
