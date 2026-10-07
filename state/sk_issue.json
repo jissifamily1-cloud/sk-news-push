@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673133",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2303829",
-  "https://www.newsis.com/view/NISX20260928_0003806088",
-  "https://www.segye.com/newsView/20260928514742?OutUrl=naver",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170944",
-  "https://biz.chosun.com/distribution/food/2026/09/29/3BN6O3MI35D25LLROTTP66JBGM/",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1410005",
   "https://realty.chosun.com/site/data/html_dir/2026/09/28/2026092803086.html",
   "https://www.dailian.co.kr/news/view/1695353/?sc=Naver",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281249100260545",
@@ -2999,16 +2992,16 @@
   "https://www.wikitree.co.kr/articles/1164492",
   "https://www.dailian.co.kr/news/view/1698777/?sc=Naver",
   "https://www.mydaily.co.kr/page/view/2026100708293893155",
-  "https://www.joongang.co.kr/article/25467793"
+  "https://www.joongang.co.kr/article/25467793",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3013448",
+  "https://www.kyeonggi.com/article/20261007580131",
+  "https://www.newspim.com/news/view/20261007000616",
+  "https://www.rapportian.com/news/articleView.html?idxno=241039",
+  "https://imnews.imbc.com/news/2026/society/article/6856256_36918.html",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20110",
+  "http://www.newswatch.kr/news/articleView.html?idxno=81443"
  ],
  "seen_titles": [
-  "경찰,신용한충북도지사압수수색…선거법위반혐의",
-  "경찰,신용한충북도지사집무실압수수색...신지사\"일체불법행위없...",
-  "[오늘의주요일정]사회(9월29일화요일)",
-  "오너家엔저리·가맹점은고리…‘이자장사’철퇴",
-  "매각시동건배민…세무조사·공정위제재등으로'8조몸값'흔들리나",
-  "“햄버거가게에서도아침식사됩니다”…매장늘리기보다‘하루매...",
-  "국감앞둔유통업계…쿠팡·홈플부터식품담합까지현안산적",
   "423가구몽땅미분양…반값파격할인에도외면받는제주아파트",
   "합참,DMZ사고원인으로'북한군지뢰'지목…\"상응한조치시행\"등[9...",
   "전기ㆍ소방ㆍ감리까지…전문건설도‘면허퇴출’",
@@ -6001,10 +5994,22 @@
   "'불법촬영기소유예'받고도경찰됐다…불법영상물5600여개소지한...",
   "법관비위감독과영장심사는별개…서영교\"제대로발부\"발언적절했...",
   "[MD포커스]국감앞둔장민영기업은행장…‘TCB1572억’에잇단사고,...",
-  "최재민서울중수청장“광범위압색·별건수사등과거잘못되풀이안..."
+  "최재민서울중수청장“광범위압색·별건수사등과거잘못되풀이안...",
+  "의료기관'수사·압수수색'가이드라인만든다",
+  "최재민초대서울중수청장취임…“과거잘못되풀이안돼,법·원칙엄...",
+  "[2026국정감사]소아응급실압수수색논란에…정은경장관\"가이드라인...",
+  "소아응급실압수수색논란에…복지부·경찰청,의료사고수사절차개선...",
+  "최재민서울중수청장\"흔들리지않고오직국민바라보며엄정수사\"",
+  "김한규\"판사,법원아닌집에서영장발부\"…법원행정처장\"부적절\"",
+  "[초점]LG유플러스,'4G·5G기지국·중계기임차료담합'행정소송패소"
  ],
- "recent_sigs": [],
- "last_run": "2026-10-07T11:22:00.433898+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-07T11:30:54.985597+09:00",
+   "4G 중계기 LG유플러스 임차료 행정소송 담합 패소 5G 기지국"
+  ]
+ ],
+ "last_run": "2026-10-07T11:31:03.374231+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
