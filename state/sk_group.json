@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.irobotnews.com/news/articleView.html?idxno=48852",
-  "https://biz.chosun.com/policy/policy_sub/2026/10/06/OLCI5BKYFNHN5LW4DN6LYW3HJ4/",
-  "http://www.ikld.kr/news/articleView.html?idxno=341800",
-  "https://www.g-enews.com/view.php?ud=202610061339271870fbbec65dfb_1",
-  "https://www.sportsseoul.com/news/read/1639639",
-  "https://www.mydaily.co.kr/page/view/2026100610333140885",
-  "https://www.ajunews.com/view/20261006140535790",
   "http://www.newstomato.com/ReadNews.aspx?no=1315735&inflow=N",
   "https://biz.sbs.co.kr/article_hub/20000338457?division=NAVER",
   "https://www.mediapen.com/news/view/1128111",
@@ -2999,16 +2992,16 @@
   "http://www.joseilbo.com/news/news_read.php?uid=577015&class=78",
   "https://www.seoul.co.kr/news/economy/2026/10/08/20261008500004?wlog_tag3=naver",
   "https://www.mk.co.kr/article/12171049",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=7116"
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7116",
+  "https://www.news1.kr/finance/general-stock/6313489",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172021",
+  "https://www.sedaily.com/article/20099146",
+  "https://www.hankyung.com/article/2026100789456",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077752",
+  "https://www.news1.kr/industry/general-industry/6312751",
+  "https://www.news1.kr/it-science/cc-newmedia/6313265"
  ],
  "seen_titles": [
-  "SKT,지상군페스티벌서AI와통신기술선보여",
-  "코스피,반도체약세에6900선으로…코스닥은2%대뛰며900선돌파",
-  "거래소\"국내주식형액티브ETF,상당수비교지수수익률달성못해\"",
-  "\"LGU+가입자전번알면IMSI파악…15년가까이노출\"",
-  "與\"대기업,당초부터호남염두\"vs野\"기업은그런적없다\"...'호남...",
-  "신용한지사“삶의질높아지는충북대전환”",
-  "카타르LNG차질장기화에…韓기업역량갈린다",
   "중국경기회복기대감에석유화학주기지개…LG화학등대형주주목을",
   "한미반도체,삼성전기에반도체절단·검사장비245억규모공급한다",
   "허성무의원\"중국D램점유율10%…반도체도'LCD전철'경고\"",
@@ -6001,7 +5994,14 @@
   "\"반도체는팀스포츠\"리사수,삼성·SK와협력확대…韓AI연구소설립",
   "[서울데이터랩]미국뉴욕증시,대형기술주혼조속일제히하락마감...",
   "삼전닉스3년뒤주가하느님도몰라…유행따라갔다원금녹는다는ELS...",
-  "[뉴욕증시마감시황]국채금리급등에일제히하락…메모리반도체주는..."
+  "[뉴욕증시마감시황]국채금리급등에일제히하락…메모리반도체주는...",
+  "쇼핑하면주식살돈준다…'거래앱'벗어나는증권사MTS",
+  "미국증시반도체주는?...마이크론'급등'vs여러반도체주'뚝'",
+  "고점대비60%빠진하이브,BTS활동마저미지수[이런국장저런주식]",
+  "\"美·대만날아가는데왜한국만?\"…7천피서또밀린이유[분석+]",
+  "[뉴스클레임사설]정유사들위기틈타기름값짬짜미,과징금최대로...",
+  "한미반도체,3Q영업익1300억육박전망…TC본더수요↑",
+  "\"하객룩골라줘\"말하니결제까지…KT'모두의AI'써보니"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,37 @@
   [
    "2026-10-08T06:21:08.981935+09:00",
    "ELS 따라갔다 주가 3년뒤 유행 녹는다는 몰라 하느님도 원금 삼전닉스"
+  ],
+  [
+   "2026-10-08T06:41:39.866172+09:00",
+   "거래 주식 MTS 벗어나는 증권사 준다 쇼핑하면"
+  ],
+  [
+   "2026-10-08T06:41:39.866172+09:00",
+   "급등 미국증시 vs 여러 반도체주 반도체주는 마이크론"
+  ],
+  [
+   "2026-10-08T06:41:39.866172+09:00",
+   "BTS 빠진 고점 하이브 미지수 활동마저 대비"
+  ],
+  [
+   "2026-10-08T06:41:39.866172+09:00",
+   "7천피서 한국만 밀린 대만 이유 날아가는데"
+  ],
+  [
+   "2026-10-08T06:41:39.866172+09:00",
+   "기름값 틈타 짬짜미 위기 과징금 정유사들 최대로"
+  ],
+  [
+   "2026-10-08T06:41:39.866172+09:00",
+   "육박 수요 3Q 영업익 전망 본더 TC 한미반도체 1300억"
+  ],
+  [
+   "2026-10-08T06:41:39.866172+09:00",
+   "AI 골라줘 하객룩 KT 써보니 결제까지 말하니 모두의"
   ]
  ],
- "last_run": "2026-10-08T06:31:13.007711+09:00",
+ "last_run": "2026-10-08T06:42:01.629671+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
