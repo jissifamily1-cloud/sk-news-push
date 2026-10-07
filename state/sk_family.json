@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2367929.htm",
-  "https://www.cwn.kr/news/articleView.html?idxno=56890",
-  "https://www.aitimes.com/news/articleView.html?idxno=215491",
-  "https://www.newstnt.com/news/articleView.html?idxno=719267",
-  "https://www.newsis.com/view/NISX20260918_0003795244",
   "https://www.sportsseoul.com/news/read/1633862",
   "https://www.newsis.com/view/NISX20260918_0003796271",
   "https://www.asiatime.co.kr/article/20260918500207",
@@ -2999,14 +2994,14 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069292",
   "https://www.sentv.co.kr/article/view/sentv202610070011",
   "https://www.k-health.com/news/articleView.html?idxno=101290",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726921"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1726921",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=228800",
+  "https://www.news1.kr/life-culture/performance-exhibition/6311519",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=132923",
+  "https://www.seoultimes.news/news/article.html?no=2000100601",
+  "http://www.srtimes.kr/news/articleView.html?idxno=214117"
  ],
  "seen_titles": [
-  "빨라진독감유행…추석연휴독감·코로나19'트윈데믹'우려도",
-  "中CXMT·美마이크론동시에치고온다…삼성전자·SK하이닉스'메모리...",
-  "삼성전자·SK하이닉스,범용D램은중국에,HBM은마이크론에...K-반도체...",
-  "안문숙,자선바자회서노소영관장만났다…“꼼꼼하게봐주시고”",
-  "[비즈토크<상>]노소영측'1000억지출'주장다시쟁점화…\"왜곡된계...",
   "삼성전자·SK하이닉스,'K-메모리초격차흔들리나'…중국·미국협공에...",
   "[AI이슈트렌드]역대급수출실적속AI속도조절론·대통령지지율최...",
   "익산시,'2026년제3차청소년복지실무위원회'개최",
@@ -6001,7 +5996,12 @@
   "대기업오너4·5세94%가유학파…미국컬럼비아대출신'최다'",
   "‘3%룰회피’의혹최태원SK지분매각…“공동보유공시하라”",
   "\"나이상관없이즐긴다\"…안양춤축제서만난'셔플댄스'열풍",
-  "대기업오너4·5세94%유학파…컬럼비아대최다"
+  "대기업오너4·5세94%유학파…컬럼비아대최다",
+  "CEO2026년10월브랜드평판...삼성이재용,현대자동차정의선,두산박...",
+  "창작음악공연'삼색'…남해안별신굿장단과재즈의만남",
+  "대기업오너4·5세94%는유학파…美컬럼비아대'최다'",
+  "[뉴스앤데이터]대기업오너4·5세10명중9명유학파…학부부터해...",
+  "국내오너일가졸업대학고려대1위…서울대·연세대뒤이어"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-10-07T08:50:32.843996+09:00",
    "공동보유 공시하라 매각 의혹 지분 회피"
+  ],
+  [
+   "2026-10-07T09:10:14.227460+09:00",
+   "고려대 1위 졸업 국내 대학 연세대 일가 서울대 뒤이어 오너"
   ]
  ],
- "last_run": "2026-10-07T09:00:39.144951+09:00",
+ "last_run": "2026-10-07T09:10:26.314918+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
