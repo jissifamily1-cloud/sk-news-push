@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=600779",
-  "https://www.sisajournal.com/news/articleView.html?idxno=388639",
-  "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026092900091&story_seq=0&soCode=114&socttSn=NS2026092900091&socttSeq=0",
-  "https://www.tenasia.co.kr/article/2026092926094",
-  "https://www.mediapen.com/news/view/1126725",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673801",
   "http://www.yonhapnewstv.co.kr/news/AKR20260929174940ujr",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89840",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=359749",
@@ -2999,15 +2993,15 @@
   "https://www.wikitree.co.kr/articles/1164632",
   "https://www.dt.co.kr/article/12088016",
   "https://kidd.co.kr/news/247651",
-  "https://www.hankyung.com/article/2026100791551"
+  "https://www.hankyung.com/article/2026100791551",
+  "https://www.dailian.co.kr/news/view/1699108/?sc=Naver",
+  "https://www.sisajournal.com/news/articleView.html?idxno=389454",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1333672",
+  "https://www.segye.com/newsView/20261007518202?OutUrl=naver",
+  "https://www.news1.kr/local/gyeonggi/6313473",
+  "https://www.medipana.com/news/articleView.html?idxno=418929"
  ],
  "seen_titles": [
-  "\"M&A비밀정보우리끼리만\"…서울대동문들의일그러진우정",
-  "공정위주병기배달앱수수료해법'경쟁활성화',배민·쿠팡'최혜대우...",
-  "기업회생·원재료담합·정보보호쟁점산적…국감앞둔유통업계'긴장...",
-  "쿠팡,공정위현장조사집행정지기각에재항고…\"적법한조사는협조\"",
-  "대한상의-산업부-공정위-소비자원,유통산업발전과소비자보호위해...",
-  "공정위,로젠이사·착한이사부당광고제재⋯과징금2억1900만원부과",
   "쿠팡,공정위현장조사집행정지기각에불복…'재항고'",
   "警,단체장등선거법위반수사속도...결과'관심'",
   "박나래,2.5억요구받았다…前매니저는사생활폭로협박혐의부인\"...",
@@ -6001,13 +5995,15 @@
   "경기남부청,민주당경기도당압수수색…속보로급히전해진소식",
   "경기남부청,민주당경기도당압수수색",
   "SK에너지·현대오일뱅크기름값4년간44조담합…공정위,제재착수",
-  "공정위,44조'유가담합'정유사제재착수"
+  "공정위,44조'유가담합'정유사제재착수",
+  "예보,OK금융과예별손보주식매매계약체결",
+  "경찰,민주당경기도당압수수색…반부패수사대투입",
+  "경찰,민주당경기도당압수수색",
+  "영상녹화조사실한곳도없는중수청…“개문발차,현실로”",
+  "경기남부청,민주당경기도당압수수색…반부패수사대투입(상보)",
+  "소아응급센터압수수색에강원醫\"강제수사최소화해야\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T12:01:08.282304+09:00",
-   "심의 현대오일뱅크의 담합 등유 경유 SK에너지 휘발유 사건"
-  ],
   [
    "2026-10-07T12:11:26.838625+09:00",
    "44조 가격담합까지 현대오일뱅크 SK에너지 정보교환에 심판대 기름값"
@@ -6033,7 +6029,7 @@
    "정유 공개된 제재 착수에 2사 충분히 담합 정보가 이미"
   ]
  ],
- "last_run": "2026-10-07T17:57:54.884829+09:00",
+ "last_run": "2026-10-07T18:01:11.579984+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
