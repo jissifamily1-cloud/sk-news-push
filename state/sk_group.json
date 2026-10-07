@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1315735&inflow=N",
-  "https://biz.sbs.co.kr/article_hub/20000338457?division=NAVER",
-  "https://www.mediapen.com/news/view/1128111",
-  "http://www.beyondpost.co.kr/view.php?ud=2026100613484859542aaae0046f_30",
   "http://www.segyebiz.com/newsView/20261006510701?OutUrl=naver",
   "https://www.meconomynews.com/news/articleView.html?idxno=202236",
   "https://www.sentv.co.kr/article/view/sentv202610060117",
@@ -2999,13 +2995,13 @@
   "https://www.hankyung.com/article/2026100789456",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077752",
   "https://www.news1.kr/industry/general-industry/6312751",
-  "https://www.news1.kr/it-science/cc-newmedia/6313265"
+  "https://www.news1.kr/it-science/cc-newmedia/6313265",
+  "https://www.g-enews.com/view.php?ud=2026100801350142300c8c1c064d_1",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214962",
+  "https://www.sedaily.com/article/20099326",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96669"
  ],
  "seen_titles": [
-  "중국경기회복기대감에석유화학주기지개…LG화학등대형주주목을",
-  "한미반도체,삼성전기에반도체절단·검사장비245억규모공급한다",
-  "허성무의원\"중국D램점유율10%…반도체도'LCD전철'경고\"",
-  "[2026국감]“800조호남반도체기습발표,대미통상리스크키웠다”",
   "'양자보안순찰로봇관제'국내첫선…플로리젠로보틱스·IDQ공동개발",
   "김정관산업부장관“메가프로젝트입지,정부가제안하고최종결정은...",
   "아크메르동탄,자연·교통·직장을한번에잇는'트리플커넥트'갖춰",
@@ -6001,7 +5997,11 @@
   "\"美·대만날아가는데왜한국만?\"…7천피서또밀린이유[분석+]",
   "[뉴스클레임사설]정유사들위기틈타기름값짬짜미,과징금최대로...",
   "한미반도체,3Q영업익1300억육박전망…TC본더수요↑",
-  "\"하객룩골라줘\"말하니결제까지…KT'모두의AI'써보니"
+  "\"하객룩골라줘\"말하니결제까지…KT'모두의AI'써보니",
+  "\"AI슈퍼사이클올라탄대만,韓제치고세계1위등극\"…삼전·하이닉...",
+  "[OT보안②]전산업AX가속…OT보안투자는?",
+  "“서울에집한채있고없고차이가이정도일줄은”…1인가구자산...",
+  "[기획｜누리호5차성공,K-우주어디까지왔나②]치매치료제부터D램..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,25 @@
   [
    "2026-10-08T06:41:39.866172+09:00",
    "AI 골라줘 하객룩 KT 써보니 결제까지 말하니 모두의"
+  ],
+  [
+   "2026-10-08T06:51:01.290727+09:00",
+   "등극 AI 1위 삼전 슈퍼사이클 세계 제치고 대만 올라탄 하이닉"
+  ],
+  [
+   "2026-10-08T06:51:01.290727+09:00",
+   "가속 산업 보안 AX OT 투자는"
+  ],
+  [
+   "2026-10-08T06:51:01.290727+09:00",
+   "정도일 자산 없고 서울에 줄은 1인가구 있고 차이가"
+  ],
+  [
+   "2026-10-08T06:51:01.290727+09:00",
+   "치매치료제부터 D램"
   ]
  ],
- "last_run": "2026-10-08T06:42:01.629671+09:00",
+ "last_run": "2026-10-08T06:51:15.468576+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
