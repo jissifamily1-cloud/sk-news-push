@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12086381",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277800",
-  "https://www.busan.com/view/busan/view.php?code=2026092912193020645",
-  "https://www.hankookilbo.com/news/article/A2026092909380003098?did=NA",
-  "https://www.ppss.kr/news/articleView.html?idxno=312965",
-  "https://www.raonnews.com/news/article.html?no=61475",
-  "https://www.hankookilbo.com/news/article/A2026092910460003690?did=NA",
-  "https://www.etnews.com/20260929000162",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436903",
-  "https://www.newscj.com/news/articleView.html?idxno=3436384",
   "https://m.skyedaily.com/news_view.html?ID=312216",
   "http://www.inews24.com/view/2009829",
   "https://www.jejudomin.co.kr/news/articleView.html?idxno=400616",
@@ -2999,19 +2989,19 @@
   "https://www.bosa.co.kr/news/articleView.html?idxno=3013473",
   "https://www.mk.co.kr/article/12170434",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273401&CMPT_CD=P0010",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61092"
+  "https://www.lawtv.kr/news/articleView.html?idxno=61092",
+  "https://view.asiae.co.kr/article/2026100715120748615",
+  "http://www.newsdream.kr/news/articleView.html?idxno=119560",
+  "http://www.dailypop.kr/news/articleView.html?idxno=103098",
+  "https://www.viva100.com/article/20261007501043",
+  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166654",
+  "https://www.m-economynews.com/news/article.html?no=71440",
+  "https://www.hankyung.com/article/202610078490H",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005933918",
+  "https://www.sisajournal.com/news/articleView.html?idxno=389395",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261007010002099"
  ],
  "seen_titles": [
-  "명문대동아리서맺은인연이‘정보카르텔’로…금융엘리트들200억챙...",
-  "'명문대동문네트워크'가비밀정보창고로…200억챙긴금융엘리트카...",
-  "공수처,민중기특검‘통일교편파수사’의혹무혐의",
-  "명문대경영동아리인맥이‘미공개정보망’으로...200억챙긴정보카르...",
-  "[속보]\"동아리인맥이금융엘리트카르텔로\"…미공개M&A정보로200억챙...",
-  "“전국최저가·품질1위”광고…이사업체2곳과징금2.19억",
-  "주병기\"쿠팡조사,무너진정의다시세울것\"",
-  "'최저가·1등'거짓·과장광고,착한이사·로젠이사과징금2억",
-  "주병기공정위원장\"쿠팡현장조사재개…무너진정의다시세워야\"",
-  "'명륜진사갈비'명륜당,과징금148억철퇴...회장일가대부업체부당...",
   "미공개M&A정보로거액챙긴'금융엘리트'…당국,반복된이름추적해...",
   "공수처,'통일교편파수사의혹'민중기특검무혐의",
   "명문대경영동아리출신'정보카르텔'…내부정보로200억부당이득챙겨",
@@ -6001,7 +5991,17 @@
   "울산시의사회\"필수의료위축시키는수사안돼\"",
   "지드래곤·양현석,‘저작권법위반’혐의벗었다…경찰불송치처분",
   "김산무안군수공소청송치...선거법위반혐의",
-  "공정위,SK에너지·HD현대오일뱅크'44조원가격짬짜미'심사착수"
+  "공정위,SK에너지·HD현대오일뱅크'44조원가격짬짜미'심사착수",
+  "가습기살균제피해자,8일부터소송없이배상받는다",
+  "우리은행,한국남부발전과'K-택소노미녹색여신'약정…친환경프로젝...",
+  "[재계지도]총수일가지분0.06%인데순환출자8개…QCP그룹의얽힌지배...",
+  "진에어,베트남경쟁당국기업결합승인…해외심사마무리",
+  "전공의노조,응급의료법개정안에\"치료할사람은누가?\"",
+  "임신중지약·소아응급실압수수색복지위국감도마...정은경“제도정...",
+  "이화영측\"더기다리기힘들다\"…李대통령에가석방공개요구",
+  "\"4년간40조원\"…SK에너지·현대오일뱅크,기름값담합의혹",
+  "공정위,'44조기름값담합'SK에너지·HD현대오일제재착수",
+  "최고가격제국감질의는무산…정유4사,12일엔'주유소기름값'도마에"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-10-07T13:10:48.987308+09:00",
    "정유사 기름값 2곳 국내 의혹 올랐다 심사대 담합"
+  ],
+  [
+   "2026-10-07T15:20:47.303093+09:00",
+   "주유소 무산 질의는 12일엔 국감 도마에 정유 최고가격제 4사 기름값"
   ]
  ],
- "last_run": "2026-10-07T15:10:53.431071+09:00",
+ "last_run": "2026-10-07T15:20:56.939251+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6103,6 +6107,7 @@
   "mdtoday.co.kr": "메디컬투데이",
   "taxtimes.co.kr": "한국세정신문",
   "s-journal.co.kr": "S저널",
-  "newsian.co.kr": "뉴시안"
+  "newsian.co.kr": "뉴시안",
+  "asiatoday.co.kr": "아시아투데이"
  }
 }
