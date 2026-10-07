@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03132406645582416&mediaCodeNo=257",
-  "http://www.segyebiz.com/newsView/20260921510760?OutUrl=naver",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=276746",
   "https://www.newspim.com/news/view/20260921000752",
   "https://www.newspim.com/news/view/20260921000753",
@@ -2999,11 +2997,11 @@
   "http://weekly.chosun.com/news/articleView.html?idxno=55931",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610070104&t=NNv",
   "https://ilyo.co.kr/?ac=article_view&entry_id=513047",
-  "https://www.kwnews.co.kr/article/20261007501718"
+  "https://www.kwnews.co.kr/article/20261007501718",
+  "https://biz.sbs.co.kr/article_hub/20000338825?division=NAVER",
+  "https://www.dkilbo.com/news/articleView.html?idxno=556603"
  ],
  "seen_titles": [
-  "[포토]전시장설명듣는한성숙총리-최태원회장",
-  "[포토]리더스서밋참석해인사말하는최태원회장",
   "SK하이닉스경영진,한달만에광주군공항다시찾았다",
   "SK하이닉스경영진,광주군공항또찾았다…호남권반도체클러스터속...",
   "산중위,'국감증인·참고인채택'여야이견…전체회의취소",
@@ -6001,7 +5999,9 @@
   "\"서울대아니었네\"…대기업오너일가가장많이다닌대학은'이곳'",
   "녹색전환에1천조...포스코홀딩스·한화큐셀수혜",
   "겹겹이싼‘해외법인’방패…SK하이닉스‘솔리다임IPO’바라보는불...",
-  "최종현도의원“194억원산림바이오가공지원단지재검토해야”"
+  "최종현도의원“194억원산림바이오가공지원단지재검토해야”",
+  "녹색대전환에1천조…李\"기후위기대응,환경과성장중하나포기하...",
+  "오은주시인,세번째시조집『그곳엔과녁같은네가있다』출간기..."
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "해외법인 바라보는 SK하이닉스 방패 IPO 겹겹이 솔리다임"
   ]
  ],
- "last_run": "2026-10-07T18:30:34.642671+09:00",
+ "last_run": "2026-10-07T18:40:25.485365+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
