@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43943",
-  "https://www.mydaily.co.kr/page/view/2026092211470997678",
-  "https://www.edaily.co.kr/News/Read?newsId=03601446645582744&mediaCodeNo=257",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/519038",
   "https://www.asiatime.co.kr/article/20260922500222",
   "http://www.newsbrite.net/news/articleView.html?idxno=200571",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=64751",
@@ -2999,13 +2995,13 @@
   "https://dealsite.co.kr/articles/170349",
   "https://news.tf.co.kr/read/economy/2374318.htm",
   "https://www.cwn.kr/news/articleView.html?idxno=58691",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080098&t=NNv"
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080098&t=NNv",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117917",
+  "http://www.inews24.com/view/2013183",
+  "https://www.m-i.kr/news/articleView.html?idxno=2004061",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7188075"
  ],
  "seen_titles": [
-  "경기도의회,지방의회법제정촉구건의안전달",
-  "이소영중기장관후보자,청문문턱넘었다…'부적격'우려병기",
-  "[노태우'안방비자금'의수상한흐름①]김옥숙,재단에147억출연...이...",
-  "\"커피한잔에도AI얘기\"…SK그룹일상화두된'AX'",
   "(자체)'김옥숙메모'다음은돈의행방…재단출연·차명보험'자금연...",
   "KBO,'야구로자라나는티볼스쿨'진행…5개지역초등학교대상방과후...",
   "산중위,최승호초기업노조위원장증인부른다…이재용·최태원불발",
@@ -6001,7 +5997,11 @@
   "[재계는지금]한컴,AWS와함께미국공략…‘노마디안’사업화협력...",
   "최태원SK회장,EBS'위대한수업'강연나선다…청년들과'AI소통'",
   "SK하이닉스,AI로반도체환경문제푼다…'AI환경연구소'설립착수",
-  "LG엔솔,분기매출첫9조…'ESS질주'실적으로증명"
+  "LG엔솔,분기매출첫9조…'ESS질주'실적으로증명",
+  "최태원회장,EBS강연서'AI시대새로운자본주의'제안",
+  "최태원SK회장,EBS강연출격...\"20대로돌아간다면?\"",
+  "SK하이닉스,AI로전력·용수관리…반도체친환경공정연구확대",
+  "최태원,EBS'위대한수업'출연…AI시대생존전략강의"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-10-08T13:40:19.251782+09:00",
    "연말 CEO 재계 수시 인사 교체 10월 깨졌다 확산"
+  ],
+  [
+   "2026-10-08T14:50:14.994212+09:00",
+   "생존전략 강의 EBS 위대한 출연 AI시대 수업"
   ]
  ],
- "last_run": "2026-10-08T14:40:27.626808+09:00",
+ "last_run": "2026-10-08T14:50:26.689598+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
