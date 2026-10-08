@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25466072",
-  "https://www.hankookilbo.com/news/article/A2026093016080001036?did=NA",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2443945",
-  "https://www.dt.co.kr/article/12086743",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=762287",
-  "https://www.tfmedia.co.kr/news/article.html?no=207603",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=616884",
   "http://www.inews24.com/view/2010576",
   "https://www.joongdo.co.kr/web/view.php?key=20260930010009225",
@@ -2999,15 +2993,15 @@
   "https://www.busan.com/view/busan/view.php?code=2026100815455193331",
   "https://magazine.hankyung.com/business/article/202609305415b",
   "https://www.segye.com/newsView/20261008513647?OutUrl=naver",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595692085108"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595692085108",
+  "https://www.busan.com/view/busan/view.php?code=2026100816063764621",
+  "https://www.hani.co.kr/arti/area/capital/1281508.html",
+  "https://view.asiae.co.kr/article/2026100816015272344",
+  "https://www.ytn.co.kr/_ln/0103_202610081601108880",
+  "https://www.yna.co.kr/view/AKR20261008151900004?input=1195m",
+  "https://news.tf.co.kr/read/economy/2374425.htm"
  ],
  "seen_titles": [
-  "쿠팡-공정위,정면충돌지속…쿠팡은재항고,공정위는현장조사재추진",
-  "무림페이퍼,과징금충격딛고실적반등…하반기변수는무림P&P",
-  "[2026국감]한화·KAI·LIG수장국감장서나···지분확대·뇌물의혹...",
-  "[미리보는국감]가격담합·기업회생…유통·식품업계,국감쟁점은",
-  "환율·유가뛰고비행기는텅...\"이래도좌석유지?\"항공업계운다",
-  "대한항공“괌좌석90%→70%로”요청에…공정위는기각의견",
   "'노조와해용파산'의혹···노동청,원·하청압수수색",
   "<이슈진단>고소·조사는어디서?…공소청출범뒤달라지는충북형사...",
   "전재수위해범행한‘측근들전부유죄’…정작田은‘건재’",
@@ -6001,7 +5995,13 @@
   "‘44조담합의혹’SK에너지“진심송구”…내부통제강화조치",
   "국회ESG포럼\"ESG기본법제정반드시필요\"",
   "경찰,이재준수원시장‘일감몰아주기의혹’무혐의…불송치종결",
-  "[메가이슈토픽]공정위조사에고개숙인SK에너지…석유가격개편·담..."
+  "[메가이슈토픽]공정위조사에고개숙인SK에너지…석유가격개편·담...",
+  "쿠팡·배민·홈플러스줄줄이증인채택…유통업계국감긴장",
+  "경찰‘성폭력불송치’에목숨끊었는데…공소청“준강간혐의기소”",
+  "'내부비리'수사대,사건정보누설한경찰간부압수수색",
+  "'수사내용외부에누설'...현직경찰간부2명압수수색",
+  "\"검찰이한동훈딸수사공조중단\"의혹…법무장관대행\"진상확인\"",
+  "'유가담합의혹'SK에너지\"거래관행개선·내부통제강화\""
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "구매 대표 합리적 SK에너지 유가 담합 입장문 환경 만들겠다"
   ]
  ],
- "last_run": "2026-10-08T16:01:11.594222+09:00",
+ "last_run": "2026-10-08T16:10:57.518334+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
