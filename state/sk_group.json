@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.intn.co.kr/news/articleView.html?idxno=2053874",
-  "https://game.donga.com/124578/",
   "https://www.segye.com/newsView/20261007512509?OutUrl=naver",
   "https://www.theguru.co.kr/news/article.html?no=107951",
   "https://www.electimes.com/news/articleView.html?idxno=373157",
@@ -2999,11 +2997,11 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706146",
   "https://kpenews.com/View.aspx?No=4257489",
   "https://www.nocutnews.co.kr/news/6589260",
-  "https://www.dongascience.com/news/view/80269"
+  "https://www.dongascience.com/news/view/80269",
+  "https://www.jasm.co.kr/news/articleView.html?idxno=320906",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466"
  ],
  "seen_titles": [
-  "공정위,SK에너지·현대오일뱅크석유제품가격담합사건심의착수",
-  "전쟁틈타유가짬짜미?…SK에너지·현대오일뱅크‘44조원’담합의혹",
   "기업여윳돈67조원으로역대최대…반도체실적개선영향",
   "미·이란전쟁틈타휘발유가격담합했나···SK에너지·현대오일뱅크...",
   "[Telecom&Now]SKT,자체개발AI로100년전우리말·글되살렸다등",
@@ -6001,7 +5999,9 @@
   "[시큐리티핫이슈]잇단AI해킹속'오펜시브보안'뜬다",
   "단일종목레버리지ETF도입누가결정했나..이억원\"청와대지시아니...",
   "양경수\"메가특구에주52시간예외?이미방법있다\"[한판승부]",
-  "차세대원전,SMR규제'엇박자'…\"2028년허가신청,2032년심사기준마..."
+  "차세대원전,SMR규제'엇박자'…\"2028년허가신청,2032년심사기준마...",
+  "[뉴욕증시]오픈AI기술주약세에혼조마감…나스닥1.25%↓",
+  "엔비디아는사는데삼전닉스는판다…외국인의'AI차별화'"
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,13 @@
   [
    "2026-10-09T08:11:08.053530+09:00",
    "심사기준 규제 신청 2032년 허가 SMR 엇박자 원전 2028년 차세대"
+  ],
+  [
+   "2026-10-09T08:20:59.036205+09:00",
+   "외국인의 엔비디아는 판다 AI 차별화 삼전닉스는 사는데"
   ]
  ],
- "last_run": "2026-10-09T08:11:27.653206+09:00",
+ "last_run": "2026-10-09T08:21:05.606804+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
