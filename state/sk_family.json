@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/sejong-chungbuk/6299092",
-  "https://sports.khan.co.kr/article/202609221549003?pt=nv",
   "https://thetracker.co.kr/View.aspx?No=4238350",
   "https://thetracker.co.kr/View.aspx?No=4238340",
   "https://thetracker.co.kr/View.aspx?No=4238335",
@@ -2999,11 +2997,11 @@
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609220097&t=NNv",
   "https://www.mk.co.kr/article/12171678",
   "https://www.inews365.com/news/article.html?no=936927",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42228"
+  "https://www.aitimes.kr/news/articleView.html?idxno=42228",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117944",
+  "https://www.mk.co.kr/article/12171743"
  ],
  "seen_titles": [
-  "KBO,‘야구로자라나는티볼스쿨’개시…서울·수원·광주·울산·창원...",
-  "남종섭경기도의회의장,전통시장장보기로상권·복지시설함께챙겨",
   "경기도의회남종섭의장,추석앞두고전통시장민생행보",
   "세종시의회,국회찾아행정수도특별법·지방의회법제정촉구",
   "건국대글로컬캠퍼스'충북AX데이터센터'29일개소",
@@ -6001,7 +5999,9 @@
   "엔비디아·로보티즈,로봇동맹…핵심은'액션데이터'",
   "140년전니체에게‘사는법’을묻다[신간]",
   "건국대글로컬캠,충북산업'AI전환'거점구축",
-  "EBS'위대한수업',세계석학들과함께한5년…최태원회장시즌6첫문..."
+  "EBS'위대한수업',세계석학들과함께한5년…최태원회장시즌6첫문...",
+  "[영상]최태원SK회장,EBS'위대한수업'강연자로나선다",
+  "최태원\"AI로사회난제풀어야\""
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-10-08T16:31:53.446135+09:00",
    "증권업계 박현주 김남구 한투 회장 미래에셋"
+  ],
+  [
+   "2026-10-08T17:10:13.937919+09:00",
+   "사회난제 풀어야 AI로"
   ]
  ],
- "last_run": "2026-10-08T17:00:40.150552+09:00",
+ "last_run": "2026-10-08T17:10:27.892391+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
