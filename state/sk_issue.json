@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=351122",
-  "https://www.kyeongin.com/article/1771750",
-  "https://www.news1.kr/local/incheon/6306069",
-  "https://www.nocutnews.co.kr/news/6585078",
   "http://www.intn.co.kr/news/articleView.html?idxno=2053736",
   "https://kpenews.com/View.aspx?No=4246767",
   "https://www.sisajournal.com/news/articleView.html?idxno=388757",
@@ -2999,13 +2995,13 @@
   "https://www.kukinews.com/article/view/kuk202610080082",
   "https://magazine.hankyung.com/business/article/202609304674b",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680886",
-  "https://www.munhwa.com/article/11622260"
+  "https://www.munhwa.com/article/11622260",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745209",
+  "https://www.sisajournal.com/news/articleView.html?idxno=389533",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069890",
+  "https://www.m-economynews.com/news/article.html?no=71472"
  ],
  "seen_titles": [
-  "“총수2세회사에비상장주식싸게”…BS산업,공정위제재착수",
-  "대한항공인천~괌좌석감축요청퇴짜···청주~제주공급미달",
-  "BS산업,오너2세회사에PFV지분저가매각…공정위“70억부당지원...",
-  "전재수금품수수의혹‘증거인멸’전보좌진4명전원유죄…1명법정...",
   "검찰,금두꺼비수수의혹가세로전태안군수불기소처분",
   "천안고용노동지청,자동차부품업체'노조와해의혹'강제수사…원청...",
   "[오늘여의도]“지뢰사고는윤석열잘못”",
@@ -6001,7 +5997,11 @@
   "가습기살균제참사배상,정부·기업이함께나선다",
   "“규제파편화막자…‘ESG기본법’제정해야”",
   "‘성폭행불송치’후숨진안산10대아르바이트생사건…공소청,보완...",
-  "SK에너지,‘담합의혹’제기에“거래관행개선·내부통제강화할것..."
+  "SK에너지,‘담합의혹’제기에“거래관행개선·내부통제강화할것...",
+  "[유통국감리포트①]쿠팡·배민보안책임자,과방위국감첫날사과…...",
+  "경찰'무혐의'판단에세상등진성폭행피해자…보완수사로피의자기...",
+  "'석유담합'SK에너지김종화\"심려끼쳐송구…내부통제강화\"",
+  "SK에너지,담합심의앞두고내부통제전면강화"
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "차단 접촉 쇄신안 경쟁사 가격구조 폐지하고 사후정산 SK에너지"
   ]
  ],
- "last_run": "2026-10-08T12:31:02.272770+09:00",
+ "last_run": "2026-10-08T12:40:52.474817+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
