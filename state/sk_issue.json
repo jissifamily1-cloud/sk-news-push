@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25466098",
-  "https://www.ddaily.co.kr/page/view/2026093018234803085",
-  "http://www.ktnews.com/news/articleView.html?idxno=148963",
-  "https://www.edaily.co.kr/News/Read?newsId=05392326645585368&mediaCodeNo=257",
-  "https://www.fnnews.com/news/202609301829054794",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1102719",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2304426",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=246138",
@@ -2999,14 +2994,14 @@
   "https://www.sedaily.com/article/20099665",
   "https://www.fnnews.com/news/202610081639516061",
   "https://biz.chosun.com/topics/topics_social/2026/10/08/IS4FV2LJU5HYNHDLIQIVHNWKJA/",
-  "https://www.edaily.co.kr/News/Read?newsId=04952806645610952&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=04952806645610952&mediaCodeNo=257",
+  "http://www.press9.kr/news/articleView.html?idxno=83973",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246340",
+  "https://news.skbroadband.com/news/articleView.html?idxno=239828",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539896",
+  "https://www.sisajournal.com/news/articleView.html?idxno=389610"
  ],
  "seen_titles": [
-  "국회산자위,'유가담합'국내정유4사대표국감증인채택조율",
-  "최근10년간식품업체담합과징금2조2000억원…2026년에만83%몰려",
-  "전재수부산시장전보좌진4명‘증거인멸’유죄",
-  "7000억대‘영풍제지주가조작’22명유죄…벌금만3조원",
-  "3000원이던주가가4만8000원으로…영풍제지주가조작총책1심서징역...",
   "‘영풍제지주가조작’총책징역15년…실경영자공현철징역3년",
   "개인정보·이커머스피해'집단소송'길열리나…\"플랫폼업계도영향권...",
   "버버리2027여름컬렉션\"오래된것들로부터,새로운여름\"",
@@ -6001,17 +5996,14 @@
   "경찰내부비리수사대,현직간부2명압수수색…수사정보누설혐의",
   "경찰비리전담수사대,현직간부2명압수수색…수사정보유출의혹",
   "경찰청,현직간부2명압수수색…‘수사정보누설’혐의",
-  "내주정유4사대표국감총출동…주유소가격·담합의혹'정조준'"
+  "내주정유4사대표국감총출동…주유소가격·담합의혹'정조준'",
+  "JW중외제약·공정위,리베이트과징금취소판결에쌍방상고",
+  "쿠팡,공정위현장조사에또'소송'",
+  "경찰,'건진법사무민공원의혹'관련의왕시압수수색",
+  "경찰중요직무범죄수사대,현직간부2명압수수색",
+  "'44조담합'SK에너지\"진심으로송구…가격체계뜯어고친다\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-08T10:50:52.323344+09:00",
-   "장소 배상이행 기업체 떠나는 협약식 가습기살균제 대표들"
-  ],
-  [
-   "2026-10-08T10:50:52.323344+09:00",
-   "강화 석유 체계 나서 대국민 사과문 SK에너지 공정거래 유통 발표"
-  ],
   [
    "2026-10-08T11:10:50.151764+09:00",
    "거래관행 투명성 SK에너지 석유제품 가격체계 높인다 거래 개선"
@@ -6037,7 +6029,7 @@
    "구매 대표 합리적 SK에너지 유가 담합 입장문 환경 만들겠다"
   ]
  ],
- "last_run": "2026-10-08T16:50:55.569036+09:00",
+ "last_run": "2026-10-08T17:01:09.122107+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
