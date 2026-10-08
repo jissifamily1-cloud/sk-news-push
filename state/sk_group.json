@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/industry/2026/10/07/2026100712395346206",
-  "https://www.fnnews.com/news/202610071350313932",
-  "https://zdnet.co.kr/view/?no=20261007142453",
-  "https://www.ziksir.com/news/articleView.html?idxno=147421",
-  "http://www.newskr.kr/news/articleView.html?idxno=106979",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727015",
   "https://news.jtbc.co.kr/article/NB12321781?influxDiv=NAVER",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=81599",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=106851",
@@ -2999,15 +2993,15 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145470",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790144&plink=ORI&cooper=NAVER",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=65515",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279555"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279555",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=507875",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145471",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438459",
+  "https://www.g-enews.com/view.php?ud=202610090735468455fbbec65dfb_1",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65520",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=157963"
  ],
  "seen_titles": [
-  "[마켓언박싱]금리두번올랐는데…은행3분기마진은왜꺾일까",
-  "사우디OSP6년반만에최저…국내정유사,4분기수익성확대기대",
-  "저축은행67곳이전산망하나에묶여있다…중앙회도공격받았다",
-  "돈·사람늘렸는데도…증권가덮친'해킹공포'[이슈더보기]",
-  "李대통령\"핵심'녹색기술'먼저확보,미래녹색시장선점해야\"",
-  "[연합뉴스이시각헤드라인]-14:30",
   "삼성전자'영업익100조'시대연다…메모리반도체만110조전망",
   "靑,'삼전닉스레버리지'간담회회의록미작성..김재섭\"밀실회의\"비...",
   "더플레이토\"유료AI회의록'티로',300개기업사용\"",
@@ -6001,7 +5995,13 @@
   "[오늘의글로벌마켓]뉴욕증시,AI관련주나란히약세...나스닥1.3%↓",
   "뉴욕증시,AI기술주약세속혼조마감…나스닥1.25%↓",
   "[성수석시장취임100일기획]이천시,15만평반도체연구단지·ICON추...",
-  "단순노무벗어나AI핵심인재로…SK하이닉스,이주민일자리열었다"
+  "단순노무벗어나AI핵심인재로…SK하이닉스,이주민일자리열었다",
+  "최태원회장,'2030년첫양산목표'...800조원호남팹탄약고실사예...",
+  "오픈AI연환산매출,700억아닌500억달러...AI관련주일제히하락",
+  "[뉴욕마켓워치]되살아난AI의구심에반도체주급락…채권↑달러↓",
+  "월가최고가3000달러찍은마이크론…AI메모리공급난2028년까지달린...",
+  "AI기대꺾이자뉴욕증시휘청…나스닥1.25%급락,다우는소폭상승",
+  "[Insight]FromApprovalstoRecurringRevenue…MedicalAIValuations"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,13 @@
   [
    "2026-10-09T07:41:02.724941+09:00",
    "SK하이닉스 인재로 이주민 단순노무 일자리 열었다 AI 벗어나 핵심"
+  ],
+  [
+   "2026-10-09T07:51:37.405442+09:00",
+   "Approvals to Medical Revenue From Valuations Recurring AI Are"
   ]
  ],
- "last_run": "2026-10-09T07:41:12.056312+09:00",
+ "last_run": "2026-10-09T07:51:44.154591+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
