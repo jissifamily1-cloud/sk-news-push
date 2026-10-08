@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2373866.htm",
-  "https://www.newsway.co.kr/news/view?ud=2026100714381087240",
-  "https://www.kukinews.com/article/view/kuk202610070110",
-  "https://www.mk.co.kr/article/12170398",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071418558840776",
-  "https://www.khan.co.kr/article/202610071441001",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726995",
-  "https://www.cnbizm.com/news/articleView.html?idxno=317335",
   "http://www.intn.co.kr/news/articleView.html?idxno=2053874",
   "https://game.donga.com/124578/",
   "https://www.segye.com/newsView/20261007512509?OutUrl=naver",
@@ -2999,17 +2991,17 @@
   "http://woman.chosun.com/news/articleView.html?idxno=126668",
   "https://www.ddaily.co.kr/page/view/2026100617043219671",
   "https://www.banronbodo.com/news/articleView.html?idxno=33146",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727257"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727257",
+  "https://www.ziksir.com/news/articleView.html?idxno=147421",
+  "https://view.asiae.co.kr/article/2026100815484085528",
+  "http://www.popcornnews.net/news/articleView.html?idxno=135418",
+  "https://news.dealsitetv.com/articles/176635",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706146",
+  "https://kpenews.com/View.aspx?No=4257489",
+  "https://www.nocutnews.co.kr/news/6589260",
+  "https://www.dongascience.com/news/view/80269"
  ],
  "seen_titles": [
-  "'전쟁틈타44조원대담합'SK에너지·HD현대오일뱅크제재수순",
-  "AI데이터센터'액체냉각·전력'시장선점경쟁'후끈'",
-  "SK에너지·HD현대오일뱅크,전쟁틈타44조대담합의혹…공정위심판대",
-  "공정위,전쟁틈타44조원대유가담합한SK에너지·HD현대오일뱅크제...",
-  "정부1천조·기업220조'K-GX'시동…李대통령\"녹색시장판짜야\"",
-  "[통신업계9월동향]SKT,AI거버넌스강화···고객소통접점확대",
-  "골드만삭스\"삼성전자8일변동성확대…이벤트3건겹쳐\"",
-  "\"기름값이렇게정해졌나\"…SK에너지·HD현대오일뱅크,44조원대담합의...",
   "공정위,SK에너지·현대오일뱅크석유제품가격담합사건심의착수",
   "전쟁틈타유가짬짜미?…SK에너지·현대오일뱅크‘44조원’담합의혹",
   "기업여윳돈67조원으로역대최대…반도체실적개선영향",
@@ -6001,7 +5993,15 @@
   "고액자산가들은자산을어떻게지키고불릴까①",
   "무대위청춘들의노래,음원으로…SKB'블러썸음악제'결실",
   "[주간기업동향]이재용회장,런던서문화유산나눔·글로벌협력행보...",
-  "엔비디아투자했는데도IPO연기…AI데이터센터기업들'상장비상'"
+  "엔비디아투자했는데도IPO연기…AI데이터센터기업들'상장비상'",
+  "현대해상,청년사회문제해결경험'채용역량'으로연결",
+  "광주서창동을세창동으로…산업통상부,'호남반도체클러스터'예타...",
+  "LG전자,3분기실적보다'다음'에쏠린눈…AI냉각·로봇이성장공식...",
+  "[현대百M&A史]수입브랜드로몸집키운한섬…'제2의타임'은아직",
+  "[시큐리티핫이슈]잇단AI해킹속'오펜시브보안'뜬다",
+  "단일종목레버리지ETF도입누가결정했나..이억원\"청와대지시아니...",
+  "양경수\"메가특구에주52시간예외?이미방법있다\"[한판승부]",
+  "차세대원전,SMR규제'엇박자'…\"2028년허가신청,2032년심사기준마..."
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,33 @@
   [
    "2026-10-09T08:01:17.497593+09:00",
    "기업들 투자했는데도 상장 IPO 비상 엔비디아 연기 AI 데이터센터"
+  ],
+  [
+   "2026-10-09T08:11:08.053530+09:00",
+   "쏠린 LG전자 3분기 실적보다 AI 로봇이 다음 성장 냉각"
+  ],
+  [
+   "2026-10-09T08:11:08.053530+09:00",
+   "제2의 키운 브랜드로 수입 아직 몸집 한섬 타임"
+  ],
+  [
+   "2026-10-09T08:11:08.053530+09:00",
+   "해킹 잇단 보안 오펜시브 AI 뜬다"
+  ],
+  [
+   "2026-10-09T08:11:08.053530+09:00",
+   "ETF 이억원 청와대 누가 도입 아니 지시 결정했나 단일종목 레버리지"
+  ],
+  [
+   "2026-10-09T08:11:08.053530+09:00",
+   "이미 양경수 주52시간 예외 방법 있다 메가특구에"
+  ],
+  [
+   "2026-10-09T08:11:08.053530+09:00",
+   "심사기준 규제 신청 2032년 허가 SMR 엇박자 원전 2028년 차세대"
   ]
  ],
- "last_run": "2026-10-09T08:01:34.188293+09:00",
+ "last_run": "2026-10-09T08:11:27.653206+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
