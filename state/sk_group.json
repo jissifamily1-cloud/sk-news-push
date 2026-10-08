@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1639953",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299969375636",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=764595",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16934",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=65397",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438137",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870763",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364311",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=870813",
   "https://www.inthenews.co.kr/news/article.html?no=92799",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261008_0003818501",
   "https://www.businessplus.kr/news/articleView.html?idxno=117926",
   "https://www.yna.co.kr/view/AKR20261009007251072?input=1195m",
-  "https://www.ngetnews.com/news/articleView.html?idxno=554266"
+  "https://www.ngetnews.com/news/articleView.html?idxno=554266",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610090002&t=NN",
+  "https://biz.chosun.com/international/international_economy/2026/10/09/WWQJZNRXIJFHXN6X5DS26JUOMA/",
+  "https://magazine.hankyung.com/business/article/202610092279b",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493924",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493923",
+  "https://www.ytn.co.kr/_ln/0102_202610090633166797",
+  "https://www.yna.co.kr/view/AKR20261008163800003?input=1195m"
  ],
  "seen_titles": [
-  "티빙,'생색내기보상'논란…피해보상신청14%에그쳐,\"부실한보상...",
-  "[더벨]한투신탁·한투밸류,7월부터TF가동…연말분할목표",
-  "SK·LG·한화·HD현대,누리호타고우주로",
-  "한국지텔프,제591회지텔프(G-TELP)정기시험성적8일조기발표",
-  "[오늘의국감인물]공공·금융기강해이지적최은석의원",
-  "뱅크샐러드,IPO시동…SKSPE와맺은창업자근질권해소주목",
-  "FC서울조기우승카운트다운시계,역대급2위싸움재가동",
   "현대해상,청년경험채용연계‘프로젝트트레일마크’공개",
   "현대해상,청년사회문제해결경험미래역량으로…SK와'트레일마크'추...",
   "55조자사주효과막바지…삼전·닉스이제실적·주주환원주목",
@@ -6001,7 +5994,14 @@
   "마이크론대만노조,파업찬반투표99%찬성…AI發메모리호황속성과...",
   "[AI냉각전쟁/③]서버식히는정유사,검증하는통신사…냉각생태계...",
   "뉴욕증시,AI기술주약세에혼조마감…나스닥1.25%↓(종합)",
-  "배터리3사해외공장서안전위반잇따라…시정조치실효성도마"
+  "배터리3사해외공장서안전위반잇따라…시정조치실효성도마",
+  "뉴욕증시,오픈AI'실적쇼크'에기술주하락...나스닥1.25%↓",
+  "뉴욕증시,혼조마감…국제유가는4%급등",
+  "최태원,광주군공항첫방문…호남반도체클러스터점검",
+  "코스피·코스닥전거래일(8일)주요공시는...HD현대마린솔루션,글로벌...",
+  "엔비디아·마이크론·AMD줄줄이하락…뉴욕증시AI주'휘청'",
+  "AI로불러낸우리말...한글로고에서체개발도",
+  "'꿈의영업익'달성한K-메모리…SK하이닉스로바통이을까"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,29 @@
   [
    "2026-10-09T06:31:47.284401+09:00",
    "도마 위반 실효성 잇따라 안전 시정조치 해외공장서 배터리 3사"
+  ],
+  [
+   "2026-10-09T06:41:05.795334+09:00",
+   "방문 최태원 클러스터 호남 군공항 점검 반도체 광주"
+  ],
+  [
+   "2026-10-09T06:41:05.795334+09:00",
+   "글로벌 주요공시는 코스닥 코스피 거래일 8일 HD현대마린솔루션"
+  ],
+  [
+   "2026-10-09T06:41:05.795334+09:00",
+   "AI주 엔비디아 AMD 하락 뉴욕증시 휘청 마이크론 줄줄이"
+  ],
+  [
+   "2026-10-09T06:41:05.795334+09:00",
+   "불러낸 개발도 한글 우리말 서체 AI로 로고에"
+  ],
+  [
+   "2026-10-09T06:41:05.795334+09:00",
+   "메모리 SK하이닉스로 바통이을까 꿈의 달성한 영업익"
   ]
  ],
- "last_run": "2026-10-09T06:32:00.766220+09:00",
+ "last_run": "2026-10-09T06:41:21.633821+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
