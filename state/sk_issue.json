@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855163",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076855",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3709376",
-  "https://www.imaeil.com/page/view/2026093011055890803",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437144",
   "https://www.newspim.com/news/view/20260930000826",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437142",
   "https://www.thereport.co.kr/news/articleView.html?idxno=91877",
@@ -2999,14 +2994,14 @@
   "https://www.industrynews.co.kr/news/articleView.html?idxno=87218",
   "https://www.dailian.co.kr/news/view/1699344/?sc=Naver",
   "https://www.seoultimes.news/news/article.html?no=2000100676",
-  "https://www.news1.kr/industry/general-industry/6314142"
+  "https://www.news1.kr/industry/general-industry/6314142",
+  "https://view.asiae.co.kr/article/2026100811110429606",
+  "https://www.news1.kr/society/court-prosecution/6314174",
+  "https://www.khan.co.kr/article/202610081119001",
+  "https://www.tokenpost.kr/news/policy/419698",
+  "https://kpenews.com/View.aspx?No=4256240"
  ],
  "seen_titles": [
-  "‘뇌물받고수의계약’공무원징역2년확정",
-  "[티조챗]'미는자(들)''간첩(들)''부엉이바위의진실'밈까지…'암살자...",
-  "대전중학교배정,3자녀이상가정첫째도선배정신청가능",
-  "대한항공,청주~제주좌석90%유지의무위반…공정위‘이행강제금·...",
-  "[2026국감]담합적발되고도LH사업수주…\"제도상맹점해소해야\"",
   "[특징주]코스모로보틱스,매출허위계상의혹에'하한가'",
   "[KT인사전망]①부사장5명모두떠난KT…박윤영,보안·고객신뢰회...",
   "이동석충주시장,26~28일도청이전도보행진예고…시장\"시민참여\"...",
@@ -6001,7 +5996,12 @@
   "'유가담합의혹'SK에너지,고개숙였다…\"가격투명성·내부통제강화...",
   "SK에너지,공정위조사에사과…\"가격구조개편·내부통제강화\"",
   "SK에너지,석유제품가격·거래투명성강화...‘가격투명성,내부통제...",
-  "SK에너지,석유제품거래투명성높인다…가격체계·거래관행개선추진"
+  "SK에너지,석유제품거래투명성높인다…가격체계·거래관행개선추진",
+  "가습기살균제피해'국가주도배상'시작…\"기업분쟁으로인한배상지...",
+  "'계열사누락'성기학영원무역회장,1심벌금형선고유예",
+  "공소청,10대아르바이트생자살로이어진‘주점성폭행’업주기소·...",
+  "FBI,와일스통화기록과트럼프가족이동일정검토",
+  "\"사후정산폐지하고경쟁사접촉차단\"..SK에너지,가격구조쇄신안발..."
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-10-08T11:10:50.151764+09:00",
    "거래관행 투명성 SK에너지 석유제품 가격체계 높인다 거래 개선"
+  ],
+  [
+   "2026-10-08T11:20:46.747416+09:00",
+   "차단 접촉 쇄신안 경쟁사 가격구조 폐지하고 사후정산 SK에너지"
   ]
  ],
- "last_run": "2026-10-08T11:10:56.476796+09:00",
+ "last_run": "2026-10-08T11:20:55.129480+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6159,6 +6163,7 @@
   "asiatoday.co.kr": "아시아투데이",
   "peoplewatch.co.kr": "피플워치",
   "kyeongin.com": "경인일보",
-  "breaknews.com": "브레이크뉴스"
+  "breaknews.com": "브레이크뉴스",
+  "kpenews.com": "kpenews.com"
  }
 }
