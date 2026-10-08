@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=388695",
-  "https://www.imaeil.com/page/view/2026092822152800655",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200013",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090123.html",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1102515",
-  "http://www.segyebiz.com/newsView/20260930511056?OutUrl=naver",
-  "https://www.news1.kr/local/daejeon-chungnam/6306025",
-  "https://www.newsis.com/view/NISX20260930_0003808648",
-  "https://www.newsis.com/view/NISX20260930_0003808704",
-  "https://www.newspim.com/news/view/20260930000845",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=45188",
   "https://www.nocutnews.co.kr/news/6585027",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1102482",
@@ -2999,19 +2989,19 @@
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576354856088",
   "https://www.newspim.com/news/view/20261008000543",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438333",
-  "http://www.e2news.com/news/articleView.html?idxno=334922"
+  "http://www.e2news.com/news/articleView.html?idxno=334922",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=247403",
+  "https://www.tjb.co.kr/news05/bodo/view/id/104550",
+  "https://news.tf.co.kr/read/life/2374177.htm",
+  "https://news.tf.co.kr/read/national/2374269.htm",
+  "https://www.mk.co.kr/article/12171333",
+  "https://www.fnnews.com/news/202610081052041214",
+  "http://www.newstomato.com/ReadNews.aspx?no=1316086&inflow=N",
+  "https://biz.sbs.co.kr/article_hub/20000338947?division=NAVER",
+  "https://www.newsis.com/view/NISX20261008_0003818845",
+  "https://www.yna.co.kr/view/AKR20261008088600003?input=1195m"
  ],
  "seen_titles": [
-  "대한항공청주-제주좌석축소…공정위심의착수",
-  "대한항공계열'청주-제주'좌석축소혐의심의착수",
-  "CJ제일제당·삼양사'설탕·전분당담합'…식품값원가구조국감서캔...",
-  "'청주-제주'예약어렵더라니‥대한항공등'좌석수유지'위반",
-  "'전재수금품의혹'증거인멸혐의전보좌진4명전원유죄…1명은법...",
-  "[천안24시]천안원도심공공체육센터2029년준공순항…4232억투입수...",
-  "[수사·기소분리시대]〈하〉보완수사못하는공소청,경찰·중수청...",
-  "서울대동문·컨설팅인맥의'M&A카르텔'…미공개정보로200억챙겼다",
-  "전재수금품의혹증거인멸전보좌진4명유죄…1명법정구속",
-  "대전시교육청,2027학년도중학교배정개선…3자녀이상첫째도선배정",
   "가을철심해지는안구건조증…마이봄샘부터생활환경까지관리해야",
   "대전중학교입학다자녀가정선배정확대…첫째도적용",
   "BS산업,2세회사에PFV지분저가매각…공정위\"70억부당지원\"",
@@ -6001,7 +5991,17 @@
   "‘세계최고CEO’조원태의불편한민낯…4조마일리지·잇단안전사고...",
   "이종호,'임성근구명로비수사중휴대폰파손'증거인멸교사무죄확...",
   "'유가담합혐의'SK에너지,가격투명성등4대방안발표",
-  "공정위,SK에너지·HD현대오일뱅크담합심의착수"
+  "공정위,SK에너지·HD현대오일뱅크담합심의착수",
+  "가습기살균제피해국가주도배상,기후부\"피해자배상협약체결…정부...",
+  "가습기살균제참사15년만에…오늘부터'국가주도'배상시작",
+  "경찰,'건진법사청탁의혹'김성제의왕시장압수수색",
+  "경찰,'무민공원의혹'김성제의왕시장자택·시장실압수수색",
+  "경찰,‘무민공원의혹’김성제의왕시장자택·집무실압색",
+  "올해4명숨진인천정신병원...환자가창밖으로\"살려달라\"쪽지까지...",
+  "검찰기소피한SK에너지…뒤늦은사과·쇄신안발표",
+  "'기름값담합의혹'SK에너지\"국민께송구…거래관행개선\"",
+  "SK에너지,공정거래내부통제강화…\"임직원교육정례화,연1회자체...",
+  "'기름값담합의혹'SK에너지\"거래관행개선·내부통제강화\""
  ],
  "recent_sigs": [
   [
@@ -6081,7 +6081,7 @@
    "차단 접촉 쇄신안 경쟁사 가격구조 폐지하고 사후정산 SK에너지"
   ]
  ],
- "last_run": "2026-10-08T11:31:02.451327+09:00",
+ "last_run": "2026-10-08T11:40:51.365370+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
