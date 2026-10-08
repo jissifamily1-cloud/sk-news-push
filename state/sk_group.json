@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1164529",
-  "https://sateconomy.co.kr/news/view/1065590456071865",
-  "https://www.socialvalue.kr/news/view/1065590509499168",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1726989",
   "https://www.greened.kr/news/articleView.html?idxno=351580",
   "https://www.ngetnews.com/news/articleView.html?idxno=554187",
@@ -2999,12 +2996,12 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000021230&cp=nv",
   "https://www.koreaittimes.com/news/articleView.html?idxno=157962",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790087&plink=ORI&cooper=NAVER",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=283129"
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283129",
+  "https://www.hankyung.com/article/2026100923007",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=364421",
+  "https://www.fnnews.com/news/202610082215402483"
  ],
  "seen_titles": [
-  "WheredoKorea’schaebolheirsstudy?",
-  "AI전력수요는늘어나는데…전기장비株는차익실현에'휘청'",
-  "1∼8월비중국전기차배터리사용량24%↑…中강세·韓3사점유율하...",
   "李대통령\"녹색시장추격자아닌설계자돼야\"…최태원\"기업220조투자...",
   "공정위,‘4년유류담합’SK에너지·현대오일뱅크제재착수…과징금...",
   "검찰문닫기직전미제사건4만6천건급증",
@@ -6001,7 +5998,10 @@
   "“한국삼전닉스처럼성과급!”…마이크론대만노조파업경고",
   "[인사이트]'허가몇건'보다'반복매출'…의료AI기업가치계산법이달...",
   "'최고실적'에도주가↓…반도체시장전망은?",
-  "국제유가,미국이란공격우려등에급등...브렌트유4%↑"
+  "국제유가,미국이란공격우려등에급등...브렌트유4%↑",
+  "\"오픈AI매출기대못미친다\"…S&P500·나스닥'하락'[뉴욕증시브리핑...",
+  "오픈AI실적우려에뉴욕증시혼조…나스닥1%↓",
+  "삼성전자역대급실적에차익실현매물…코스피6600선까지하락"
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,13 @@
   [
    "2026-10-09T07:21:02.413910+09:00",
    "우려 급등 브렌트유 국제유가 미국 공격 등에 이란"
+  ],
+  [
+   "2026-10-09T07:31:44.677548+09:00",
+   "역대급 하락 6600선까지 실적에 차익실현 매물 코스피 삼성전자"
   ]
  ],
- "last_run": "2026-10-09T07:21:14.229795+09:00",
+ "last_run": "2026-10-09T07:31:50.948569+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
