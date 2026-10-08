@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/daejeon-chungnam/6305862",
-  "https://www.etnews.com/20260930000198",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246111",
-  "https://www.yna.co.kr/view/AKR20260930074951051?input=1195m",
-  "https://www.chosun.com/national/regional/2026/09/30/D7Y2WH2WZJFVDJ6T4WHDQ7U3TI/",
-  "http://www.inews24.com/view/2010332",
-  "https://www.imaeil.com/page/view/2026093010194926035",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260930112004kI0",
   "https://www.pressian.com/pages/articles/2026093011165818561",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448255",
   "https://www.cbci.co.kr/news/articleView.html?idxno=610893",
@@ -2999,17 +2991,17 @@
   "https://www.sedaily.com/article/20099401",
   "https://www.sedaily.com/article/20099402",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273520&CMPT_CD=P0010",
-  "https://www.joongboo.com/news/articleView.html?idxno=363738774"
+  "https://www.joongboo.com/news/articleView.html?idxno=363738774",
+  "https://www.kmaeil.com/news/articleView.html?idxno=653800",
+  "https://www.nocutnews.co.kr/news/6588693",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539859",
+  "https://www.kgnews.co.kr/news/article.html?no=914427",
+  "https://www.kgnews.co.kr/news/article.html?no=914428",
+  "https://www.newspim.com/news/view/20261008000364",
+  "https://imnews.imbc.com/news/2026/society/article/6856528_36918.html",
+  "https://www.hankookilbo.com/news/article/A2026100809580005615?did=NA"
  ],
  "seen_titles": [
-  "스타벅스,친환경목표후퇴[ESG뉴스5]",
-  "아고다항공권상담1만건웃돌아…취소·환불대응논란",
-  "“국민아닌전재수개인위해행동”…전시장보좌진4명‘PC증거인...",
-  "'금품의혹증거인멸'전재수전비서관징역1년…법정구속",
-  "노동부천안지청,‘하청노조와해의혹’원청압수수색",
-  "노동부천안지청'노조와해의혹'모베이스전자압수수색",
-  "[ET특징주]코스모로보틱스,'매출35억부풀리기'의혹에하한가",
-  "'서울대카르텔'미공개정보로200억부당이득",
   "전재수금품의혹증거인멸전보좌진4명유죄…1명법정구속(종합)",
   "‘통일교금품의혹증거인멸’전재수전비서관징역1년…법정구속",
   "“하청노조와해하려고의파산의혹”…노동당국,원청본사압수수색",
@@ -6001,7 +5993,15 @@
   "알토스·매쉬업등VC뭉쳤다…스타트업스케일업전략공유",
   "코스닥유증정정요구66.7%…5년평균의3배",
   "가습기살균제피해배상,국가·기업함께책임진다",
-  "경찰,김성제의왕시장자택·시장실압수수색…'무민공원의혹'관련"
+  "경찰,김성제의왕시장자택·시장실압수수색…'무민공원의혹'관련",
+  "가습기살균제참사15년…오늘부터국가주도배상시작",
+  "경찰,'무민공원건진법사의혹'의왕시장자택·집무실압색",
+  "경찰,김성제의왕시장주거지·집무실압수수색",
+  "경찰,김성제의왕시장자택·집무실압수수색…무민공원공사의혹수...",
+  "성폭행피해신고후숨진여성…검찰보완수사로주점업주기소",
+  "경찰,의왕시장자택·시장실압수수색…20억원규모'무민공원공사'수...",
+  "경찰,'건진법사무민공원의혹'관련의왕시장압수수색중",
+  "경찰,'건진법사무민공원청탁'의왕시장압수수색…제3자뇌물혐의"
  ],
  "recent_sigs": [
   [
@@ -6057,7 +6057,7 @@
    "유증 평균의 3배 정정요구 코스닥 5년"
   ]
  ],
- "last_run": "2026-10-08T10:12:55.696958+09:00",
+ "last_run": "2026-10-08T10:20:51.862160+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
