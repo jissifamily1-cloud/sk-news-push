@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20261007512509?OutUrl=naver",
-  "https://www.theguru.co.kr/news/article.html?no=107951",
   "https://www.electimes.com/news/articleView.html?idxno=373157",
   "https://biz.heraldcorp.com/article/10895795",
   "https://www.asiatime.co.kr/article/20261007500262",
@@ -2999,11 +2997,11 @@
   "https://www.nocutnews.co.kr/news/6589260",
   "https://www.dongascience.com/news/view/80269",
   "https://www.jasm.co.kr/news/articleView.html?idxno=320906",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466",
+  "https://www.globale.co.kr/news/articleView.html?idxno=40884",
+  "https://slownews.kr/167649"
  ],
  "seen_titles": [
-  "기업여윳돈67조원으로역대최대…반도체실적개선영향",
-  "미·이란전쟁틈타휘발유가격담합했나···SK에너지·현대오일뱅크...",
   "[Telecom&Now]SKT,자체개발AI로100년전우리말·글되살렸다등",
   "SK텔레콤,아시안게임메달리스트8명과'값진결실'자축",
   "서울본부세관,수출입안전관리우수업체(AEO)공인증서수여",
@@ -6001,7 +5999,9 @@
   "양경수\"메가특구에주52시간예외?이미방법있다\"[한판승부]",
   "차세대원전,SMR규제'엇박자'…\"2028년허가신청,2032년심사기준마...",
   "[뉴욕증시]오픈AI기술주약세에혼조마감…나스닥1.25%↓",
-  "엔비디아는사는데삼전닉스는판다…외국인의'AI차별화'"
+  "엔비디아는사는데삼전닉스는판다…외국인의'AI차별화'",
+  "오픈AI매출논란에반도체급락,뉴욕증시혼조마감",
+  "농지조사와레버리지ETF,불안한데자뷔:슬로우레터10월9일."
  ],
  "recent_sigs": [
   [
@@ -6261,7 +6261,7 @@
    "외국인의 엔비디아는 판다 AI 차별화 삼전닉스는 사는데"
   ]
  ],
- "last_run": "2026-10-09T08:21:05.606804+09:00",
+ "last_run": "2026-10-09T08:31:21.840248+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
