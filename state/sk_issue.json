@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointe.co.kr/news/articleView.html?idxno=85387",
-  "https://www.ytn.co.kr/_ln/0102_202609301612536327",
-  "https://www.ekn.kr/web/view.php?key=20260930026400601",
-  "http://www.yonhapnewstv.co.kr/news/AKR202609301607582FF",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=85384",
-  "https://www.etnews.com/20260930000335",
-  "https://www.ytn.co.kr/_ln/0102_202609301559049853",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277950",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=359803",
   "https://www.hankyung.com/article/202609305142h",
@@ -2999,16 +2992,16 @@
   "https://wemakenews.co.kr/news/view.php?no=26486",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366912",
   "https://www.knnews.co.kr/news/articleView.php?idxno=1552456",
-  "https://www.greened.kr/news/articleView.html?idxno=351681"
+  "https://www.greened.kr/news/articleView.html?idxno=351681",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90163",
+  "https://news.jtbc.co.kr/article/NB12321995?influxDiv=NAVER",
+  "https://wemakenews.co.kr/news/view.php?no=26487",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192999",
+  "https://www.kgnews.co.kr/news/article.html?no=914439",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080115&t=NN",
+  "https://www.ngetnews.com/news/articleView.html?idxno=554265"
  ],
  "seen_titles": [
-  "장윤기,강간살인유죄…논란의‘케이블타이’는증거부족",
-  "코스모로보틱스,매출부풀리기의혹에하한가…회사\"적법한매출\"",
-  "“거대한역사속이름없는‘수미’들의희로애락은위대”[인터뷰]",
-  "쿠첸,공기청정기출시추진…가전라인업다각화포석",
-  "[이로운넷현장]ESG규제'후퇴'아닌'선택적재편'...\"한국도ESG기본...",
-  "공정위,BS그룹오너2세'이익몰아주기'제재착수",
-  "대한항공등'청주-제주'좌석수줄였다가공정위심판대에",
   "대한상의,40만건상품정보‘소비자24’에제공…바코드로한눈에",
   "총수2세회사에비상장주식싸게판BS산업…공정위제재",
   "청주제주노선좌석줄인대한항공…공정위철퇴예고",
@@ -6001,7 +5994,14 @@
   "컵라면용기‘재활용최우수’라는데…실제론상당량폐기",
   "[단독]'검사합격해도현장못들어가'…타워크레인'제한'여전",
   "가습기살균제국가·기업‘공동배상’경남피해자숨통트이나",
-  "44조원대'기름값담합'의혹…SK에너지·HD현대오일뱅크과징금수조원..."
+  "44조원대'기름값담합'의혹…SK에너지·HD현대오일뱅크과징금수조원...",
+  "가습기살균제피해'국가주도배상'시작...김성환장관\"기업분쟁으로...",
+  "가습기살균제피해'국가주도배상'시작…김성환장관\"기업분쟁으로...",
+  "[이상헌의성공창업경제학]'치킨값논란'소상공인의생존문제다",
+  "막오른2026국감…'5대금융'빠진정무위,'대미투자'불붙은산중위",
+  "이재준시장일감몰아주기의혹벗었다…권리당원불법모집의혹은아...",
+  "[속보]'44조담합의혹'SK에너지\"국민께송구\"…공정위발표하루만...",
+  "SK에너지,44조원대기름값담합의혹에사과…거래관행개선"
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "구매 대표 합리적 SK에너지 유가 담합 입장문 환경 만들겠다"
   ]
  ],
- "last_run": "2026-10-08T14:40:53.802892+09:00",
+ "last_run": "2026-10-08T14:50:53.859115+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
