@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=320660",
-  "https://www.m-i.kr/news/articleView.html?idxno=2001420",
-  "https://www.jejusori.net/news/articleView.html?idxno=507009",
-  "http://www.yonhapnewstv.co.kr/news/MYH202609301715557YS",
-  "https://www.newspim.com/news/view/20260930000843",
-  "https://www.idomin.com/news/articleView.html?idxno=2016021",
-  "https://www.ceoscoredaily.com/page/view/2026093016483345766",
-  "https://www.newspim.com/news/view/20260930000411",
   "http://www.finomy.com/news/articleView.html?idxno=262601",
   "http://www.srtimes.kr/news/articleView.html?idxno=213631",
   "https://www.mt.co.kr/industry/2026/09/30/2026093016195847098",
@@ -2999,17 +2991,17 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=96756",
   "https://www.mk.co.kr/article/12171574",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273660&CMPT_CD=P0010",
-  "https://www.g-enews.com/view.php?ud=20261008110720332924debea800_1"
+  "https://www.g-enews.com/view.php?ud=20261008110720332924debea800_1",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000020993&cp=nv",
+  "https://www.ddaily.co.kr/page/view/2026100811380519712",
+  "https://kpenews.com/View.aspx?No=4256913",
+  "https://www.hankookilbo.com/news/article/A2026100809190003970?did=NA",
+  "https://www.segye.com/newsView/20261008513303?OutUrl=naver",
+  "https://www.medigatenews.com/news/1920872777",
+  "https://www.news1.kr/local/daegu-gyeongbuk/6314595",
+  "https://www.busan.com/view/busan/view.php?code=2026100815455193331"
  ],
  "seen_titles": [
-  "‘금품수수증거인멸’전재수보좌진,선임부터인턴까지죄다유죄",
-  "유담교수특혜의혹수사,유승렬인천청장“오래끌지않을것”",
-  "'통일교금품의혹'증거인멸혐의…전재수전보좌진4명,모두'유죄'",
-  "[대전교육소식]2027학년도중학교입학배정시행계획공고외",
-  "국회ESG포럼\"ESG기본법제정반드시필요\"",
-  "국내1위아고다의민낯?…소비자울리는'환불불가'논란",
-  "대한항공통합후속관리'공급좌석90%'쟁점…청주-제주·괌동시심의",
-  "대한항공,제주~청주항공좌석줄였다가덜미",
   "대한항공등기업결합시정조치위반혐의심의",
   "\"원가인상분반영\"vs\"상생위반\"...제지·인쇄업계갈등격화",
   "식품업계카르텔더공고해지고있다",
@@ -6001,7 +5993,15 @@
   "\"국민께진심으로송구\"…SK에너지,'가격담합의혹'공식사과",
   "피해기업발동동…‘기술탈취’공정위제재까지703일‘하세월’",
   "세월호등'디넷자료'관리,더이상이렇게해선안된다[그정보가알...",
-  "SK에너지“시장·고객체감할개선이룰것”…가격구조개편·내부통..."
+  "SK에너지“시장·고객체감할개선이룰것”…가격구조개편·내부통...",
+  "가습기살균제참사‘국가주도배상’시작",
+  "가습기살균제국가주도배상시작…내년부터개별심의",
+  "[2026국감]통합진에어부산이전거부·마일리지깜깜이..대한항공,국...",
+  "아사히·산토리등日맥주'가격인상담합'조사...\"배신당했다\"일본...",
+  "경찰‘무혐의’뒤집은공소청…숨진‘10대알바생’사건,업주기소",
+  "수사기관의압수수색에대한대응방안",
+  "권기창안동시장정책보좌관구속영장신청…당원모집혐의",
+  "‘44조담합의혹’SK에너지“진심송구”…내부통제강화조치"
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "구매 대표 합리적 SK에너지 유가 담합 입장문 환경 만들겠다"
   ]
  ],
- "last_run": "2026-10-08T15:40:54.904632+09:00",
+ "last_run": "2026-10-08T15:50:52.469258+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
