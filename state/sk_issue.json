@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://hbnpress.com/news/view/1065567052400712",
-  "https://www.yna.co.kr/view/AKR20261001023100004?input=1195m",
-  "https://news.tf.co.kr/read/economy/2371656.htm",
-  "https://www.kbmaeil.com/article/20261001500049",
-  "https://www.news1.kr/industry/distribution/6306936",
-  "https://www.ngonews.kr/news/articleView.html?idxno=239581",
   "https://biz.sbs.co.kr/article_hub/20000337717?division=NAVER",
   "https://tjmbc.co.kr/NewsArticle/865091",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000070015",
@@ -2999,15 +2993,15 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000021163&cp=nv",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85823",
   "https://www.mt.co.kr/finance/2026/10/08/2026100821440675819",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681385"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681385",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890253.html",
+  "https://www.khan.co.kr/article/202610090600041",
+  "https://www.segye.com/newsView/20261008518864?OutUrl=naver",
+  "https://www.segye.com/newsView/20261008515283?OutUrl=naver",
+  "https://www.segye.com/newsView/20261008517829?OutUrl=naver",
+  "https://www.segye.com/newsView/20261008513857?OutUrl=naver"
  ],
  "seen_titles": [
-  "[데스크칼럼]'미래도시'짓는다며뒤로는2세배불린BS그룹의두얼...",
-  "회생·담합·정보유출등현안산적…유통가,국감앞두고'촉각'",
-  "[예규·판례]압수수색중뇌물증거치운공무원...대법\"증거은닉교사...",
-  "금융엘리트카르텔부당이득,'내부통제강화'트리거되나",
-  "5000명노동감독관\"독립수사\"…자격증보유는단17명",
-  "코스모로보틱스압수수색...로봇산업영향주목",
   "내일개정형소법시행에각종'검경합수부'도활동종료",
   "11번가,10월'월간십일절'개막…가을시즌쇼핑공략",
   "보이스피싱·금융범죄‘검경합수부’종료…중수청으로역할넘긴다",
@@ -6001,10 +5995,21 @@
   "‘혐의없음’뒤집혔다…안산10대알바생성폭행업주기소",
   "박완수경남지사,'선거법위반·딥페이크의혹'13시간경찰고강도조...",
   "기은,쇄신책내고도또1147억금융사고…장민영\"외부통제장치강화...",
-  "경찰,건진법사‘무민공원의혹’의왕시장압수수색"
+  "경찰,건진법사‘무민공원의혹’의왕시장압수수색",
+  "삼성'GOS성능제한'공정위심의14일…심사관'과징금최대644억'",
+  "[단독]하청업체‘떼인돈’122억···‘김건희주가조작의혹’삼부...",
+  "“수사청탁막겠다”던경찰…간부2명,‘수사정보유출’의혹",
+  "경찰,의왕무민공원청탁관련김성제의왕시장압수수색",
+  "[사사건건]동대문구길거리서흉기난동…살인미수80대구속기소外",
+  "SK에너지,공정거래관련내부통제강화"
  ],
- "recent_sigs": [],
- "last_run": "2026-10-09T06:01:15.279773+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-09T06:10:51.165802+09:00",
+   "공정 SK에너지 내부통제 거래 강화"
+  ]
+ ],
+ "last_run": "2026-10-09T06:10:58.047844+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
