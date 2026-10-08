@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6585008",
-  "https://www.chosun.com/economy/economy_general/2026/09/30/ECWI7THC6ZENDK65TXOCZH6TXQ/",
-  "https://www.dailian.co.kr/news/view/1696050/?sc=Naver",
-  "http://www.inews24.com/view/2010349",
-  "https://www.hankookilbo.com/news/article/A2026093009320000238?did=NA",
-  "https://www.ytn.co.kr/_ln/0102_202609301201083937",
-  "https://www.dailian.co.kr/news/view/1696059/?sc=Naver",
-  "https://www.fnnews.com/news/202609301120163148",
-  "https://www.yna.co.kr/view/PYH20260930097300013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260930097400013?input=1196m",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674501",
   "https://www.news1.kr/photos/8133925",
   "https://biz.heraldcorp.com/article/10888963",
   "https://www.viva100.com/article/20260930500782",
@@ -2999,20 +2988,20 @@
   "https://www.munhwa.com/article/11622149",
   "http://www.ikld.kr/news/articleView.html?idxno=341944",
   "https://www.newscj.com/news/articleView.html?idxno=3438759",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96704"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96704",
+  "https://www.newsis.com/view/NISI20261008_0021481184",
+  "https://www.newsis.com/view/NISI20261008_0021481185",
+  "https://www.newsis.com/view/NISI20261008_0021481186",
+  "https://www.newsis.com/view/NISI20261008_0021481187",
+  "https://biz.chosun.com/opinion/journalist/2026/10/08/YY23UH7L3FGK7P3UH5SZ2SRNIM/",
+  "https://www.news1.kr/society/incident-accident/6314101",
+  "https://www.yna.co.kr/view/AKR20261008074200004?input=1195m",
+  "https://biz.heraldcorp.com/article/10896714",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=71279",
+  "https://www.newsis.com/view/NISI20261008_0021481188",
+  "https://www.ajunews.com/view/20261008103756010"
  ],
  "seen_titles": [
-  "공정위,대한항공계열항공사'좌석유지의무'위반심의전격착수",
-  "\"결합후공급좌석유지위반\"⋯공정위,대한항공등심의개시",
-  "공정위,‘좌석수축소금지’위반혐의대한항공·아시아나제재착...",
-  "BS산업,2세회사에PFV지분헐값매각…공정위제재착수",
-  "대한항공,아시아나합병조건‘공급좌석유지’위반혐의…공정위...",
-  "\"대한항공,2개노선좌석축소\"…공정위심의착수",
-  "괌관광객줄었는데좌석유지의무기준그대로?통합대한항공기준하...",
-  "좌석90%유지한다더니…합병조건어긴대한항공·아시아나",
-  "공공택지개발이익헐값에넘겨BS그룹총수2세회사370억챙겨",
-  "2세회사에지분싸게넘겨배당370억…공정위,BS심의착수",
-  "공정위,총수2세회사부당지원혐의BS제재절차착수",
   "PFV지분헐값에넘겨370억원배당…BS계열사부당지원혐의",
   "청주-제주좌석줄인항공사들…공정위이행강제금·고발의견",
   "공정위,BS소속계열사부당지원행위심의절차개시",
@@ -6001,7 +5990,18 @@
   "‘KF-16피아식별장치짝퉁모조품·‘부품돌려막기’…공군전투기...",
   "기후부,SK케미칼등과'가습기살균제배상이행협약'체결",
   "국가주도배상체계본격화…기후부·15개사,가습기살균제배상이행협...",
-  "[디깅인사이드]\"일단지르고보자\"…'10년죄인'부르는'면책용보험..."
+  "[디깅인사이드]\"일단지르고보자\"…'10년죄인'부르는'면책용보험...",
+  "가습기살균제배상이행업무협약식인사말하는김성환장관",
+  "인사말하는김성환장관",
+  "가습기살균제배상이행업무협약서들어보이는참석자",
+  "자리떠나는가습기살균제배상이행기업체대표들",
+  "[기자수첩]기업조사강화하는공정위,절차도공정해야한다",
+  "경찰,'무민공원의혹'의왕시장압수수색…건진법사연루의혹(종합)",
+  "'금융권해커는중국거주26세?'…경찰,공격자신원추적속도전",
+  "경찰,의왕시압수수색…‘건진법사무민공원조성사업알선의혹’관...",
+  "[전문]SK에너지,'석유시장가격구조개편및내부통제강화'조치시...",
+  "협약식장소떠나는가습기살균제배상이행기업체대표들",
+  "SK에너지,대국민사과문발표...석유유통·공정거래체계강화나서"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-10-08T10:40:51.863009+09:00",
    "죄인 부르는 면책용 10년 지르고 일단 보험 보자"
+  ],
+  [
+   "2026-10-08T10:50:52.323344+09:00",
+   "장소 배상이행 기업체 떠나는 협약식 가습기살균제 대표들"
+  ],
+  [
+   "2026-10-08T10:50:52.323344+09:00",
+   "강화 석유 체계 나서 대국민 사과문 SK에너지 공정거래 유통 발표"
   ]
  ],
- "last_run": "2026-10-08T10:41:01.026624+09:00",
+ "last_run": "2026-10-08T10:51:01.401021+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
