@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20260922501580",
   "https://www.joongboo.com/news/articleView.html?idxno=363737598",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171618",
   "https://www.news2day.co.kr/article/20260922500240",
@@ -2999,10 +2998,10 @@
   "https://www.hankyung.com/article/2026100818821",
   "http://www.newsian.co.kr/news/articleView.html?idxno=96761",
   "https://www.segye.com/newsView/20261008513992?OutUrl=naver",
-  "http://www.lawissue.co.kr/view.php?ud=202610081904052122f4ab64559d_12"
+  "http://www.lawissue.co.kr/view.php?ud=202610081904052122f4ab64559d_12",
+  "http://www.kwangju.co.kr/article.php?aid=1791454920804104004"
  ],
  "seen_titles": [
-  "[현장]최태원\"사회문제직접해결해비용낮춰야\"···스타트업이SK...",
   "\"예산넘어실제변화잰다\"…SK사회적가치연구원,AI기반CSR평가플...",
   "국감증인공방…與'망신주기안돼'·野'팔비틀기투자밝혀야'",
   "사회적가치연구원AI기반CSR평가플랫폼공개",
@@ -6001,7 +6000,8 @@
   "최태원SK그룹회장\"AI시대새로운자본주의필요\"",
   "골드만·모건스탠리찍었다는데…SK하이닉스\"확정없다\"선그은속사정",
   "“나도K컬처주인공”…한글매력에푸욱∼",
-  "이화여대,한재욱동창으로부터발전기금1억원기부받아"
+  "이화여대,한재욱동창으로부터발전기금1억원기부받아",
+  "최태원SK회장,광주반도체팹예정지첫방문"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-10-08T18:30:23.582408+09:00",
    "없다 SK하이닉스 그은 찍었다는데 골드만 속사정 모건스탠리 확정"
+  ],
+  [
+   "2026-10-08T19:30:23.947910+09:00",
+   "예정지 회장 광주 반도체 방문"
   ]
  ],
- "last_run": "2026-10-08T19:20:28.028721+09:00",
+ "last_run": "2026-10-08T19:30:44.235199+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6422,6 +6426,7 @@
   "nspna.com": "NSP통신",
   "todayeconomic.com": "투데이e코노믹, 투데이이코노믹",
   "venturesquare.net": "벤처스퀘어",
-  "jmbc.co.kr": "전주MBC"
+  "jmbc.co.kr": "전주MBC",
+  "kwangju.co.kr": "kwangju.co.kr"
  }
 }
