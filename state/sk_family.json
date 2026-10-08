@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=04536246645582416&mediaCodeNo=257",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=444675",
-  "http://www.kwangju.co.kr/article.php?aid=1789987800803587372",
   "https://www.dongponews.net/news/articleView.html?idxno=60673",
   "https://www.medipana.com/news/articleView.html?idxno=418049",
   "http://www.cctimes.kr/news/articleView.html?idxno=928911",
@@ -2999,12 +2996,12 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855897",
   "https://view.asiae.co.kr/article/2026100808455497109",
   "http://www.yonhapnewstv.co.kr/news/AKR20261008084450HuM",
-  "https://www.tfmedia.co.kr/news/article.html?no=207811"
+  "https://www.tfmedia.co.kr/news/article.html?no=207811",
+  "https://www.kukinews.com/article/view/kuk202608250119",
+  "https://biz.heraldcorp.com/article/10896418",
+  "https://www.insight.co.kr/news/576954"
  ],
  "seen_titles": [
-  "[포토뉴스]안신일의장,국회방문해'지방의회법'조속제정건의안...",
-  "[트렌드포커스]AI가일자리뺏는다?…두려워하기보단'활용법'고민할...",
-  "산자위,‘호남반도체’국감증인이견전체회의취소",
   "IPARK현산,추석앞두고CEO현장안전점검",
   "[미리보는이데일리신문]시동건대미투자,꽉막힌실무채널",
   "최태원\"AI로사회문제해결해비용낮춰야…새로운성장가능\"",
@@ -6001,7 +5998,10 @@
   "'25조'통합시첫금고쟁탈전본격화…광주은행vs농협",
   "최태원,EBS'위대한수업'강연나선다…AI시대새자본주의제시",
   "SK하이닉스,AI환경연구소설립추진…반도체환경난제대응",
-  "SK하이닉스,AI환경연구소설립추진…반도체·D센터문제선제대응"
+  "SK하이닉스,AI환경연구소설립추진…반도체·D센터문제선제대응",
+  "SK하이닉스경영진광주군공항방문…반도체클러스터논의구체화",
+  "SK하이닉스,‘AI환경연구소’세운다",
+  "산업현장에서EBS강단으로...최태원이청년에게건네는30년의경험"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,17 @@
   [
    "2026-10-08T08:30:21.467388+09:00",
    "말한다 AI EBS 위대한 수업 시대 강연자로 생존전략"
+  ],
+  [
+   "2026-10-08T09:00:29.819207+09:00",
+   "세운다 SK하이닉스 환경연구소 AI"
+  ],
+  [
+   "2026-10-08T09:00:29.819207+09:00",
+   "산업 최태원이 EBS 30년의 청년에게 건네는 경험 현장에서 강단으로"
   ]
  ],
- "last_run": "2026-10-08T08:50:25.057089+09:00",
+ "last_run": "2026-10-08T09:00:50.094347+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
