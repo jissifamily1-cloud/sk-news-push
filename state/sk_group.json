@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.electimes.com/news/articleView.html?idxno=373157",
-  "https://biz.heraldcorp.com/article/10895795",
-  "https://www.asiatime.co.kr/article/20261007500262",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81449",
-  "http://www.press9.kr/news/articleView.html?idxno=83849",
-  "https://www.sportsworldi.com/newsView/20261007512806",
   "https://www.hani.co.kr/arti/area/capital/1280960.html",
   "https://www.eroun.net/news/articleView.html?idxno=91768",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90149",
@@ -2999,15 +2993,15 @@
   "https://www.jasm.co.kr/news/articleView.html?idxno=320906",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466",
   "https://www.globale.co.kr/news/articleView.html?idxno=40884",
-  "https://slownews.kr/167649"
+  "https://slownews.kr/167649",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=92090",
+  "http://www.joseilbo.com/news/news_read.php?uid=577105&class=53",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000072046",
+  "https://www.etnews.com/20261009000007",
+  "https://www.tokenpost.kr/news/insights/420219",
+  "https://www.mt.co.kr/stock/2026/10/09/2026100817445057794"
  ],
  "seen_titles": [
-  "[Telecom&Now]SKT,자체개발AI로100년전우리말·글되살렸다등",
-  "SK텔레콤,아시안게임메달리스트8명과'값진결실'자축",
-  "서울본부세관,수출입안전관리우수업체(AEO)공인증서수여",
-  "한국최초온라인머드게임'단군의땅'개발한김지호대표에어캡CTO...",
-  "해상풍력8개사,전주기공급망구축…터빈국산사용비율60%로[K-GX...",
-  "SKT,美실리콘밸리IT거물들과한자리…'AI컴퍼니'완성할핵심동맹...",
   "K-GX,산업탈탄소본격화…온실가스多배출업'그린리빌딩'",
   "李대통령“기후위기눈앞의현실…우리가녹색시장의설계자돼야”",
   "[2026국감]'자격미달'한난사장논란…에너지공기업줄줄이'시험대...",
@@ -6001,7 +5995,13 @@
   "[뉴욕증시]오픈AI기술주약세에혼조마감…나스닥1.25%↓",
   "엔비디아는사는데삼전닉스는판다…외국인의'AI차별화'",
   "오픈AI매출논란에반도체급락,뉴욕증시혼조마감",
-  "농지조사와레버리지ETF,불안한데자뷔:슬로우레터10월9일."
+  "농지조사와레버리지ETF,불안한데자뷔:슬로우레터10월9일.",
+  "뉴욕증시,AI기술주약세에혼조마감…나스닥1.25%하락",
+  "'단일레버리지ETF'후폭풍…이억원“피해송구,청와대지시아냐”...",
+  "'꿈의마진'80%벽넘나…HBM훈풍탄하이닉스실적주목",
+  "엔비디아넘어선'분기영업익100조'삼성전자…내년전망도밝은데주...",
+  "[온체인주식선물]SK하이닉스,정규장종가보다1.01%할인",
+  "팔았지만판게아니다?…최태원SK지분매각에숨은PRS구조"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,25 @@
   [
    "2026-10-09T08:20:59.036205+09:00",
    "외국인의 엔비디아는 판다 AI 차별화 삼전닉스는 사는데"
+  ],
+  [
+   "2026-10-09T08:41:03.551385+09:00",
+   "하이닉스 넘나 HBM 실적 꿈의 훈풍 마진 주목"
+  ],
+  [
+   "2026-10-09T08:41:03.551385+09:00",
+   "영업익 전망도 넘어선 밝은데 내년 엔비디아 삼성전자 분기 100조"
+  ],
+  [
+   "2026-10-09T08:41:03.551385+09:00",
+   "정규장 할인 종가보다 SK하이닉스"
+  ],
+  [
+   "2026-10-09T08:41:03.551385+09:00",
+   "지분 최태원 PRS 팔았지만 아니다 구조 매각에 숨은"
   ]
  ],
- "last_run": "2026-10-09T08:31:21.840248+09:00",
+ "last_run": "2026-10-09T08:41:17.596323+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
