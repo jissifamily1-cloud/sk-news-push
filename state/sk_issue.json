@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/575960",
-  "https://www.news1.kr/industry/distribution/6306113",
-  "https://www.joongboo.com/news/articleView.html?idxno=363738107",
-  "https://news.ifm.kr/news/articleView.html?idxno=480586",
-  "https://www.sportsworldi.com/newsView/20260930513488",
-  "https://www.livebiz.today/news/articleView.html?idxno=205224",
-  "http://www.iminju.net/news/articleView.html?idxno=170175",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7186657",
-  "https://lawtalknews.co.kr/article/PG1CXIRU3LNS",
   "https://www.thepublic.kr/news/articleView.html?idxno=320605",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424032",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=312235",
@@ -2999,18 +2990,18 @@
   "https://thetracker.co.kr/View.aspx?No=4256182",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=227439",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680919",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800195.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800195.html",
+  "https://www.fnnews.com/news/202610081332435657",
+  "https://www.munhwa.com/article/11622264",
+  "https://www.mk.co.kr/article/12171428",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745214",
+  "https://www.chosun.com/national/court_law/2026/10/08/HZOJMPWGINE2XB7XVGS6D55VXA/",
+  "https://www.news1.kr/society/court-prosecution/6314354",
+  "https://news.skbroadband.com/news/articleView.html?idxno=239723",
+  "https://www.nocutnews.co.kr/news/6588842",
+  "https://www.bloter.net/news/articleView.html?idxno=675274"
  ],
  "seen_titles": [
-  "인천경찰,6·3지방선거법위반23건검찰송치",
-  "인천선거사범수사속도…경찰“수사공백없다”",
-  "[사건현장]테러에8년쓴상호포기…중식당피해보상은?",
-  "대전동·서부교육청,내년부터중학교'3자녀이상'선배정확대",
-  "한화·HD현대,조선·방산·전력인프라호조로급성장...재계판도바꿔",
-  "총수2세회사에배당370억...공정위,BS산업'부당지원'제재착수",
-  "[기자의눈]'정의를무너뜨린쿠팡'",
-  "유승렬인천경찰청장\"보완수사증가대비할것\"…수사인력130명증원",
-  "인천지방선거수사41건남았다…공소시효까지두달",
   "“타코좋아해요”…카리나,시스루셔츠하나로끝낸독보적사복패션",
   "공정위,총수2세회사에비상장주싸게팔아370억배당수익지원한BS...",
   "공정위,대한항공등3개사시정조치불이행심의착수…고발의견제시",
@@ -6001,7 +5992,16 @@
   "닭값37%떨어졌는데치킨값은그대로…‘2만원대치킨’가격들여다본...",
   "[판결]'임성근구명로비의혹'이종호,증거인멸교사무죄확정",
   "‘기름값담합의혹’SK에너지,거래관행개선책발표…“국민께송구...",
-  "SK에너지,공정위담합의혹에사과…공정거래체계강화"
+  "SK에너지,공정위담합의혹에사과…공정거래체계강화",
+  "국가주도가습기살균제배상시작..\"분담금다툼,피해구제막으면안돼...",
+  "가습기살균제피해‘국가주도배상’시작…“분담금이견은협의체서...",
+  "“여친이데이트할때마다작업복입고와요”…‘이재킷’에꽂힌여...",
+  "[유통국감리포트②]농해수위,CJ제일제당·삼양사대표에원재료담...",
+  "민주당이성윤“김지용중수청장후보자는검찰주의자”",
+  "'김건희측근'이종호,증거인멸교사무죄확정…특검\"유감\"(종합)",
+  "경찰,민주당경기도당압수수색…수원시장선거관련수사",
+  "[단독]경찰,이재준수원시장'용역특혜의혹'불송치…\"증거불충분\"",
+  "'정유사담합'의혹온도차…SK에너지\"재발방지\"HD현대오일뱅크\"사실..."
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "차단 접촉 쇄신안 경쟁사 가격구조 폐지하고 사후정산 SK에너지"
   ]
  ],
- "last_run": "2026-10-08T13:31:00.819684+09:00",
+ "last_run": "2026-10-08T13:41:34.127599+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
