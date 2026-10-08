@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260930100942",
-  "http://www.breaknews.com/1239920",
-  "https://kpenews.com/View.aspx?No=4246232",
-  "http://www.popcornnews.net/news/articleView.html?idxno=134347",
-  "https://www.newsis.com/view/NISX20260930_0003808401",
-  "https://www.etnews.com/20260930000109",
-  "https://view.asiae.co.kr/article/2026093008354289006",
-  "https://www.yna.co.kr/view/AKR20260930032200017?input=1195m",
-  "https://www.peoplewatch.co.kr/article/view/ppw202609300007",
-  "http://www.newswell.co.kr/news/articleView.html?idxno=22288",
-  "https://zdnet.co.kr/view/?no=20260929172840",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2304255",
   "https://www.newsis.com/view/NISX20260930_0003808461",
   "https://view.asiae.co.kr/article/2026093010360353708",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491236",
@@ -2999,21 +2987,21 @@
   "https://www.news1.kr/society/incident-accident/6313954",
   "http://www.atstar1.com/news/articleView.html?idxno=6039369",
   "https://www.mt.co.kr/society/2026/10/08/2026100809373016445",
-  "https://www.etoday.co.kr/news/view/2633709"
+  "https://www.etoday.co.kr/news/view/2633709",
+  "https://www.sisajournal.com/news/articleView.html?idxno=389477",
+  "https://vop.co.kr/A00001697058.html",
+  "http://www.metroseoul.co.kr/article/20261008500054",
+  "https://www.sedaily.com/article/20099425",
+  "https://www.kyeonggi.com/article/20261008580055",
+  "https://www.nocutnews.co.kr/news/6588662",
+  "https://www.joongang.co.kr/article/25468095",
+  "https://isplus.com/article/view/isp202610080008",
+  "https://www.khan.co.kr/article/202610080952001",
+  "https://www.fnnews.com/news/202610080938319149",
+  "https://www.yna.co.kr/view/AKR20261008054600004?input=1195m",
+  "http://www.breaknews.com/1241702"
  ],
  "seen_titles": [
-  "[단독]노동부'하청노조와해의혹'모베이스전자압수수색",
-  "노동부천안지청,'하청노조와해의혹'원청본사전격압수수색",
-  "日최대IB다이와,한국채권사업철수…실적공백에결국접었다",
-  "뉴빌리티,세미휴머노이드‘빌리’공개…1~2년내수백대푼다",
-  "원자력연구원첨단방사선연구소,20년노하우기반기술선도기관도약...",
-  "\"방사선이차전지·반도체기술개발본격추진\"",
-  "대전시교육청,중학교배정‘다자녀첫째’도선배정…",
-  "[2026국감]정유·석화덮친'담합·유통관행'후폭풍..국감증인대로",
-  "[2026국감기업리포트③]롯데칠성,'설탕담합'수요처로국감행...공...",
-  "매출조작의혹압수수색…코스모로보틱스'하한가'",
-  "[주니어전자]한국원자력연구원첨단방사선연구소'창립20주년'...차세대...",
-  "암치료서우주반도체까지…K-방사선기술20년",
   "첨단방사선연구소20주년…\"방사선융복합연구로미래선도\"",
   "설탕·밀가루까지'짬짜미'…식품담합과징금10년간2.2조원",
   "'명륜진사갈비뜯은'명륜당이종근일가,\"법적대응\"적반하장[조수...",
@@ -6001,7 +5989,19 @@
   "[속보]경찰,'무민공원의혹'의왕시장주거지·시장실압수수색",
   "지드래곤·양현석,YG두차례압수수색에도'혐의없음'",
   "[속보]경찰,'무민공원건진법사유착의혹'의왕시장실압수수색",
-  "가습기살균제참사배상재원,정부·기업15곳이분담"
+  "가습기살균제참사배상재원,정부·기업15곳이분담",
+  "쿠팡·공정위갈등계속…'10년치자료요구'에집행정지신청",
+  "‘10년치자료내라’공정위요구에집행정지신청한쿠팡",
+  "\"생닭값38%↓치킨값3만원\"…공정위칼빼들었다[영상PICK]",
+  "경찰,‘무민공원의혹’의왕시장자택·집무실압수수색",
+  "[속보]경찰,의왕시장실압수수색…‘무민공원·건진법사유착’의혹",
+  "'불법게임장수사무마·골프접대혐의'현직형사팀장기소",
+  "환자4명숨진인천정신병원…지난겨울엔“살려달라”쪽지까지",
+  "GD·양현석'혐의없음'두차례압수수색에도…경찰'불송치'결정",
+  "환자잇단사망,“살려달라”SOS쪽지날린정신병원…정부·인천시현...",
+  "경찰,'20억무민공원공사'의왕시장자택·집무실압수수색",
+  "경찰,'무민공원의혹'의왕시장자택·집무실압수수색",
+  "[공시검증]정유사담합사건,투자자에게어떻게설명했나…HD현대·SK..."
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-10-08T09:50:52.134997+09:00",
    "15곳이 참사 정부 기업 배상재원 분담 가습기살균제"
+  ],
+  [
+   "2026-10-08T10:01:02.300915+09:00",
+   "투자자에게 어떻게 HD현대 담합 설명했나 사건 정유사"
   ]
  ],
- "last_run": "2026-10-08T09:50:58.556571+09:00",
+ "last_run": "2026-10-08T10:01:11.754482+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6102,6 +6106,7 @@
   "newsian.co.kr": "뉴시안",
   "asiatoday.co.kr": "아시아투데이",
   "peoplewatch.co.kr": "피플워치",
-  "kyeongin.com": "경인일보"
+  "kyeongin.com": "경인일보",
+  "breaknews.com": "브레이크뉴스"
  }
 }
