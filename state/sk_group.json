@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726989",
-  "https://www.greened.kr/news/articleView.html?idxno=351580",
-  "https://www.ngetnews.com/news/articleView.html?idxno=554187",
-  "https://www.mt.co.kr/politics/2026/10/07/2026100714210724581",
-  "https://www.yna.co.kr/view/AKR20261007122900011?input=1195m",
   "https://www.mt.co.kr/industry/2026/10/07/2026100712395346206",
   "https://www.fnnews.com/news/202610071350313932",
   "https://zdnet.co.kr/view/?no=20261007142453",
@@ -2999,14 +2994,14 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=283129",
   "https://www.hankyung.com/article/2026100923007",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364421",
-  "https://www.fnnews.com/news/202610082215402483"
+  "https://www.fnnews.com/news/202610082215402483",
+  "https://www.etoday.co.kr/news/view/2634136",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145470",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790144&plink=ORI&cooper=NAVER",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65515",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279555"
  ],
  "seen_titles": [
-  "李대통령\"녹색시장추격자아닌설계자돼야\"…최태원\"기업220조투자...",
-  "공정위,‘4년유류담합’SK에너지·현대오일뱅크제재착수…과징금...",
-  "검찰문닫기직전미제사건4만6천건급증",
-  "벤투감독수석코치출신이었는데…K리그에서'미친성적'내고있는'이...",
-  "OK저축은행,756억레버리지투자에304억손실…규제사각지대드러나",
   "[마켓언박싱]금리두번올랐는데…은행3분기마진은왜꺾일까",
   "사우디OSP6년반만에최저…국내정유사,4분기수익성확대기대",
   "저축은행67곳이전산망하나에묶여있다…중앙회도공격받았다",
@@ -6001,7 +5996,12 @@
   "국제유가,미국이란공격우려등에급등...브렌트유4%↑",
   "\"오픈AI매출기대못미친다\"…S&P500·나스닥'하락'[뉴욕증시브리핑...",
   "오픈AI실적우려에뉴욕증시혼조…나스닥1%↓",
-  "삼성전자역대급실적에차익실현매물…코스피6600선까지하락"
+  "삼성전자역대급실적에차익실현매물…코스피6600선까지하락",
+  "뉴욕증시,오픈AI실적우려에기술주흔들⋯나스닥1.4%↓[종합]",
+  "[오늘의글로벌마켓]뉴욕증시,AI관련주나란히약세...나스닥1.3%↓",
+  "뉴욕증시,AI기술주약세속혼조마감…나스닥1.25%↓",
+  "[성수석시장취임100일기획]이천시,15만평반도체연구단지·ICON추...",
+  "단순노무벗어나AI핵심인재로…SK하이닉스,이주민일자리열었다"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,17 @@
   [
    "2026-10-09T07:31:44.677548+09:00",
    "역대급 하락 6600선까지 실적에 차익실현 매물 코스피 삼성전자"
+  ],
+  [
+   "2026-10-09T07:41:02.724941+09:00",
+   "ICON 반도체 15만 연구단지 이천시"
+  ],
+  [
+   "2026-10-09T07:41:02.724941+09:00",
+   "SK하이닉스 인재로 이주민 단순노무 일자리 열었다 AI 벗어나 핵심"
   ]
  ],
- "last_run": "2026-10-09T07:31:50.948569+09:00",
+ "last_run": "2026-10-09T07:41:12.056312+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
