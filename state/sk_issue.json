@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090176.html",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=65110",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552939",
-  "https://magazine.hankyung.com/business/article/202609305192b",
-  "https://biz.heraldcorp.com/article/10889326",
-  "https://www.etnews.com/20260930000128",
-  "https://www.eroun.net/news/articleView.html?idxno=91277",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85387",
   "https://www.ytn.co.kr/_ln/0102_202609301612536327",
   "https://www.ekn.kr/web/view.php?key=20260930026400601",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261008_0003819208",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=106886",
   "https://www.newspim.com/news/view/20261008000862",
-  "https://biz.chosun.com/industry/company/2026/10/08/KNV74GWR4ZFTXGSR4PZZDN6RQA/"
+  "https://biz.chosun.com/industry/company/2026/10/08/KNV74GWR4ZFTXGSR4PZZDN6RQA/",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155940",
+  "https://www.energydaily.co.kr/news/articleView.html?idxno=203924",
+  "https://www.wkorea.com/2026/10/08/%eb%9c%a8%ea%b2%81%ea%b2%8c-%eb%8b%ac%ec%95%84%ec%98%a4%eb%a5%b8-%ec%8b%a0%ec%b2%b4%ec%99%80-%ed%9d%90%ed%8a%b8%eb%9f%ac%ec%a7%84-%ec%8b%a4%eb%a3%a8%ec%97%a3-27-ss-%eb%9d%bc%ec%bd%94%ec%8a%a4/",
+  "https://wemakenews.co.kr/news/view.php?no=26486",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366912",
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1552456",
+  "https://www.greened.kr/news/articleView.html?idxno=351681"
  ],
  "seen_titles": [
-  "대한항공·진에어·아시아나에이행강제금부과전망",
-  "입찰담합업체적발되고도LH사업2941억수주,손해배상875억은안내",
-  "공정위,대한항공·진에어·아시아나고발의견…'청주-제주'좌석축소...",
-  "공정위,대한항공·아시아나·진에어제재착수…'좌석축소금지'규정...",
-  "공정위\"상조지배주주대여,몰라서어겨도엄중제재\"…회수계획요구",
-  "공정위,합병약속어긴대한항공에이행강제금·고발심의착수",
-  "'매출허위계상'압수수색코스모로보틱스\"사실관계확인위해성실협...",
   "장윤기,강간살인유죄…논란의‘케이블타이’는증거부족",
   "코스모로보틱스,매출부풀리기의혹에하한가…회사\"적법한매출\"",
   "“거대한역사속이름없는‘수미’들의희로애락은위대”[인터뷰]",
@@ -6001,7 +5994,14 @@
   "수사기밀유출의혹…완도해경소속간부대기발령",
   "'가습기살균제피해금'정부·기업공동부담한다",
   "가습기살균제국가배상첫발…김성환\"기업분쟁에배상늦어져선안...",
-  "‘유가담합의혹’SK에너지,거래관행개선책발표"
+  "‘유가담합의혹’SK에너지,거래관행개선책발표",
+  "가습기살균제피해자,국가에직접배상신청가능해졌다",
+  "'재활용최우수'컵라면용기,사용후엔폐기…평가기준현실화과제",
+  "뜨겁게달아오른신체와흐트러진실루엣,27SS라코스테컬렉션",
+  "컵라면용기‘재활용최우수’라는데…실제론상당량폐기",
+  "[단독]'검사합격해도현장못들어가'…타워크레인'제한'여전",
+  "가습기살균제국가·기업‘공동배상’경남피해자숨통트이나",
+  "44조원대'기름값담합'의혹…SK에너지·HD현대오일뱅크과징금수조원..."
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "구매 대표 합리적 SK에너지 유가 담합 입장문 환경 만들겠다"
   ]
  ],
- "last_run": "2026-10-08T14:31:03.292398+09:00",
+ "last_run": "2026-10-08T14:40:53.802892+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
