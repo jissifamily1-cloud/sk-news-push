@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446072",
-  "https://www.greened.kr/news/articleView.html?idxno=350608",
-  "https://www.socialvalue.kr/news/view/1065603139278680",
-  "https://www.medigatenews.com/news/962017869",
   "https://www.sedaily.com/article/20093494",
   "https://www.betanews.net/article/view/beta202609210124",
   "https://www.starnewskorea.com/broadcast-show/2026/09/22/2026092208090588514",
@@ -2999,13 +2995,13 @@
   "http://www.wsobi.com/news/articleView.html?idxno=319384",
   "https://www.polinews.co.kr/news/articleView.html?idxno=745194",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53134",
-  "https://www.viva100.com/article/20261008500302"
+  "https://www.viva100.com/article/20261008500302",
+  "http://www.sisacast.kr/news/articleView.html?idxno=100801",
+  "http://www.inews24.com/view/2013049",
+  "https://www.sedaily.com/article/20099459",
+  "https://www.newsis.com/view/NISX20261008_0003818598"
  ],
  "seen_titles": [
-  "'다시세계3위,사브르끝판왕'오상욱의부상투혼\"AG2관왕수성!최신...",
-  "최태원“사회문제해결에AI활용필요”",
-  "[1년전오늘]李대통령,조국전대표등83만여명첫특별사면",
-  "메트로신문9월22일자한줄뉴스",
   "[WhoIs?]정재헌SK텔레콤대표이사사장",
   "최태원회장\"사회적비용해결책은AI·사회적가치인센티브시스템\"...",
   "최태원,대한상의사회적가치페스타서“AI,사회문제해결사될것”",
@@ -6001,7 +5997,11 @@
   "삼성전자·SK그룹,3분기영업이익첫100조돌파·최태원회장EBS'위대...",
   "[이슈]李\"메가투자성공위해녹색시장선점필수\"…정부,'한국형녹...",
   "IPARK현대산업개발,추석앞두고건설현장안전점검",
-  "최태원,EBS‘위대한수업’강연자로⋯“AI시대자본주의·생존전략..."
+  "최태원,EBS‘위대한수업’강연자로⋯“AI시대자본주의·생존전략...",
+  "최태원SK회장,EBS'위대한수업'서AI시대자본주의제시",
+  "SK하이닉스,AI환경연구소설립…최태원\"반도체친환경전환앞장\"",
+  "안철수“최태원,주주통수칠생각말라”…솔리다임상장해명요구",
+  "최태원SK그룹회장\"AI로사회난제풀어야\"…韓日경제연대필요성도..."
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "영업이익 돌파 EBS 100조 회장 위대 3분기 삼성전자"
   ]
  ],
- "last_run": "2026-10-08T10:40:26.472807+09:00",
+ "last_run": "2026-10-08T10:50:26.710389+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
