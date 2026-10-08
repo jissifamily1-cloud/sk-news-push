@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ggilbo.com/news/articleView.html?idxno=1184521",
-  "https://www.newsis.com/view/NISX20260930_0003809136",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=453202",
-  "https://biz.heraldcorp.com/article/10889298",
-  "https://www.jejumaeil.net/news/articleView.html?idxno=405163",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674636",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090174.html",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744478",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363961",
-  "https://www.kwnews.co.kr/article/20260930500780",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89889",
   "https://www.news1.kr/society/court-prosecution/6306255",
   "http://www.newswell.co.kr/news/articleView.html?idxno=22339",
@@ -2999,19 +2989,19 @@
   "http://www.newsprime.co.kr/news/article.html?no=750325",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=205007",
   "https://ilyo.co.kr/?ac=article_view&entry_id=513064",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279438"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279438",
+  "https://www.khan.co.kr/article/202610081417001",
+  "https://www.etnews.com/20261008000227",
+  "https://www.ngonews.kr/news/articleView.html?idxno=240060",
+  "http://www.inews24.com/view/2013158",
+  "https://www.ikbc.co.kr/article/view/kbc202610080038",
+  "https://www.yna.co.kr/view/AKR20261008117100061?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680938",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=312792",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890117.html",
+  "https://economist.co.kr/article/view/ecn202610080026"
  ],
  "seen_titles": [
-  "공정위,중점조사기획단출범…초대단장에최장관",
-  "총수2세회사에지분헐값매각…BS산업'부당지원'제재위기",
-  "BS산업,총수장남회사에비상장주식헐값매각…공정위심판대",
-  "과징금하한18%·리니언시75%상한…담합제재,신용도상시변수됐다",
-  "코스모로보틱스,'상장전실적부풀리기'의혹으로압수수색…주가하...",
-  "천안고용노동지청,건설현장안전점검·부당노동행위수사동시강화",
-  "도청이전주장이동석충주시장\"내달2박3일도보행진\"",
-  "전대전서구청비서실장무혐의…장기간수사로또다른상처",
-  "“건강기능식품부터우주·반도체까지”…‘K-방사선기술’제2도약...",
-  "제주~청주노선좌석축소공정위심판대오른다",
   "공정위중점조사기획단출범…초대단장에최장관",
   "헐값지분에370억배당…공정위,'BS'부당지원심의",
   "국토위국정감사···현대건설·BYD·대한항공이국감에서답할것",
@@ -6001,7 +5991,17 @@
   "가습기살균제피해,소송없이배상신청…국가주도절차시작",
   "유독'시선집중'치킨값…10년째반복된가격논쟁[옛날신문보기]",
   "아이살릴의사더줄어들라…소아응급센터압수수색논란",
-  "공정위발표에고개숙인SK에너지…4대쇄신책들고정면돌파"
+  "공정위발표에고개숙인SK에너지…4대쇄신책들고정면돌파",
+  "가습기살균제피해자,소송없이배상받는다…오늘부터국가주도배상...",
+  "쿠쿠,4L대용량'자연기화식가습기'출시",
+  "\"축구협회가쿠팡플레이전용인가\"…국감서불거진'경기독점'논란",
+  "반년새4명숨진인천정신병원…\"살려달라\"SOS쪽지도",
+  "\"영장올라갔어\"…피의자에수사기밀유출한해경간부...대기발령",
+  "경찰,이재준수원시장'일감몰아주기'의혹불송치종결",
+  "경찰,‘무민공원의혹’의왕시장압수수색",
+  "SK에너지,공정위담합조사결과에사과…가격체계·내부통제손질",
+  "가습기살균제피해자'소송없는배상'…15개기업도비용분담",
+  "'유가담합'SK에너지,대표입장문통해\"합리적구매환경만들겠다\""
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,17 @@
   [
    "2026-10-08T14:10:45.153896+09:00",
    "들고 SK에너지 쇄신책 숙인 정면 4대 돌파 고개 발표에"
+  ],
+  [
+   "2026-10-08T14:20:47.496401+09:00",
+   "피해자 배상 15개 비용 분담 기업도 살균제 없는 소송"
+  ],
+  [
+   "2026-10-08T14:20:47.496401+09:00",
+   "구매 대표 합리적 SK에너지 유가 담합 입장문 환경 만들겠다"
   ]
  ],
- "last_run": "2026-10-08T14:10:54.448941+09:00",
+ "last_run": "2026-10-08T14:20:56.982407+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
