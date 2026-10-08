@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261006_0003816216",
-  "https://www.news2day.co.kr/article/20261006500041",
-  "https://www.kpanews.co.kr/news/articleView.html?idxno=545705",
-  "https://news.unn.net/news/articleView.html?idxno=597283",
-  "https://www.sedaily.com/article/20098793",
-  "https://www.dt.co.kr/article/12087790",
-  "https://www.pressian.com/pages/articles/2026100705180391368",
-  "https://www.fnnews.com/news/202610062150209204",
-  "https://www.fnnews.com/news/202610070525261635",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000020473&cp=nv",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000020453&cp=nv",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000020435&cp=nv",
@@ -2999,18 +2990,18 @@
   "https://www.newsis.com/view/NISX20261008_0003818985",
   "https://www.sedaily.com/article/20099496",
   "http://www.4th.kr/news/articleView.html?idxno=2119408",
-  "https://www.greened.kr/news/articleView.html?idxno=351684"
+  "https://www.greened.kr/news/articleView.html?idxno=351684",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069890",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=797389",
+  "https://www.m-economynews.com/news/article.html?no=71472",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145412",
+  "https://biz.heraldcorp.com/article/10896908",
+  "http://www.popcornnews.net/news/articleView.html?idxno=135378",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279398",
+  "https://www.news2day.co.kr/article/20261008500152",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208786"
  ],
  "seen_titles": [
-  "연휴끝코스피,7,000선하회…외국인매도",
-  "이재용주식재산‘13조증발’했는데…석달간1조넘게불린‘이사람...",
-  "“호남반도체전력수요6GW…송전망계획재검토해야”",
-  "“수익률2배좇았는데”…단일종목레버리지개미들,두달반만에2....",
-  "‘검사의수사’마지막90일…노태우비자금의혹,공소청서마저캐나",
-  "\"3대메가예산호남49.6%…TK는0.48%그쳐\"",
-  "[데스크칼럼]주식시장24시간개장,시장신뢰회복없이는불가능",
-  "엔비디아추격AMD,AI칩공급확늘린다…\"2027년대폭확대\"",
-  "[프로농구중간순위]6일",
   "유진투자증권,연말절세이벤트진행",
   "정부“LG유플러스침해사고조사방해의혹확인시위약금면제해야”",
   "[표]10월6일매매동향...외국인·기관주성엔지니어링순매수에주가...",
@@ -6001,7 +5992,16 @@
   "여야,레버리지ETF도입책임공방…野\"청와대개입\"與\"음모론\"",
   "상위1%,‘역대급실적’삼전담고삼전우팔았다[주식초고수는지...",
   "협력넘어경제공동체로..최태원,한일경제연대재차강조",
-  "국감증인석오르는건설사들…현대건설·대우건설·코오롱글로벌현안..."
+  "국감증인석오르는건설사들…현대건설·대우건설·코오롱글로벌현안...",
+  "'석유담합'SK에너지김종화\"심려끼쳐송구…내부통제강화\"",
+  "[전혜은시선]삼성전자영업익107조'사상최대'…AI메모리슈퍼사이...",
+  "SK에너지,담합심의앞두고내부통제전면강화",
+  "삼성전자,분기영업익100조돌파…이제'2027년이익'이핵심",
+  "역대급실적에도주춤한삼전…LG엔솔은5%대급등[종목Pick]",
+  "[2026국감]고개숙인이억원금융위원장…국감도중대국민사과\"진심...",
+  "SK쉴더스,금융권침해사고분석…\"AI해킹타깃은'섀도우IT'\"",
+  "[2026국감]정무위넘어온'레버리지ETF'…이억원\"청와대지시없었다...",
+  "AI자동화공격시대,섀도우IT와API보안이핵심이다"
  ],
  "recent_sigs": [
   [
@@ -7039,9 +7039,13 @@
   [
    "2026-10-08T12:31:10.650998+09:00",
    "현안 국감 대우건설 오르는 현대건설 건설사들 증인석 코오롱글로벌"
+  ],
+  [
+   "2026-10-08T12:41:01.129524+09:00",
+   "보안이 공격 API 핵심이다 시대 AI 섀도우 자동화 IT와"
   ]
  ],
- "last_run": "2026-10-08T12:31:22.213957+09:00",
+ "last_run": "2026-10-08T12:41:07.858318+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
