@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=320605",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424032",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312235",
-  "https://cooknchefnews.com/news/view/1065612927223208",
-  "https://www.ddaily.co.kr/page/view/2026093014422737455",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2053730",
-  "https://www.ajunews.com/view/20260930142651600",
-  "https://www.newsis.com/view/NISX20260930_0003809065",
-  "https://www.yna.co.kr/view/AKR20260930110800002?input=1195m",
   "https://www.siminsori.com/news/articleView.html?idxno=401797",
   "https://www.hani.co.kr/arti/area/capital/1280159.html",
   "https://www.dynews.co.kr/news/articleView.html?idxno=867841",
@@ -2999,18 +2990,18 @@
   "https://www.news1.kr/society/court-prosecution/6314354",
   "https://news.skbroadband.com/news/articleView.html?idxno=239723",
   "https://www.nocutnews.co.kr/news/6588842",
-  "https://www.bloter.net/news/articleView.html?idxno=675274"
+  "https://www.bloter.net/news/articleView.html?idxno=675274",
+  "https://www.viva100.com/article/20261008500503",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=883006",
+  "https://www.nocutnews.co.kr/news/6588900",
+  "https://www.sedaily.com/article/20099522",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036999",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036997",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890105.html",
+  "https://www.ceoscoredaily.com/page/view/2026100812402426615",
+  "https://www.cstimes.com/news/articleView.html?idxno=723402"
  ],
  "seen_titles": [
-  "“타코좋아해요”…카리나,시스루셔츠하나로끝낸독보적사복패션",
-  "공정위,총수2세회사에비상장주싸게팔아370억배당수익지원한BS...",
-  "공정위,대한항공등3개사시정조치불이행심의착수…고발의견제시",
-  "'국감D-6'유통·식품업계현안예의주시…주요쟁점은",
-  "\"사전통지없었다\"며공정위문전박대한쿠팡…법원철퇴에현장조사...",
-  "BS산업,이기승회장장남회사에PFV지분'헐값매각'의혹…공정위,...",
-  "대한항공'기내식사업되찾기'종결'또또또또'연장···왜?",
-  "[2026국감]담합적발업체들,제재후에도2941억수주",
-  "'명륜진사갈비'본사에과징금148억",
   "공정위,대한항공계열항공운송사업자청주-제주좌석감축혐의심의",
   "공정위,상조업계와개정할부거래법간담회'자산건전성규제'설명",
   "상조업체지배주주'사금고'활용막는다…공정위\"위반시엄중제재\"",
@@ -6001,7 +5992,16 @@
   "'김건희측근'이종호,증거인멸교사무죄확정…특검\"유감\"(종합)",
   "경찰,민주당경기도당압수수색…수원시장선거관련수사",
   "[단독]경찰,이재준수원시장'용역특혜의혹'불송치…\"증거불충분\"",
-  "'정유사담합'의혹온도차…SK에너지\"재발방지\"HD현대오일뱅크\"사실..."
+  "'정유사담합'의혹온도차…SK에너지\"재발방지\"HD현대오일뱅크\"사실...",
+  "쿠쿠,환절기맞아4ℓ대용량‘자연기화식가습기’출시",
+  "베트남경쟁당국기업결합승인받은진에어,내년3월에어서울·에어...",
+  "경찰은'혐의없음',공소청은'기소'…10대성폭행사건뒤집혔다",
+  "인천정신병원서날아온“살려달라”쪽지…반년새환자4명숨진이곳...",
+  "경찰,무민공원의혹관련의왕시장주거지등압수수색진행",
+  "'불송치'뒤숨진성폭력피해자…공소청,보완수사로기소",
+  "경찰,'무민공원건진법사연루의혹'의왕시장자택압수수색",
+  "‘유가담합의혹’SK에너지,가격체계대대적개편…“담합의혹죄송...",
+  "SK에너지,담합심의착수하루만에\"송구\"…내부통제·거래관행손본..."
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "차단 접촉 쇄신안 경쟁사 가격구조 폐지하고 사후정산 SK에너지"
   ]
  ],
- "last_run": "2026-10-08T13:41:34.127599+09:00",
+ "last_run": "2026-10-08T13:50:51.181333+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
