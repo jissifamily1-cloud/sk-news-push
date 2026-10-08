@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000337717?division=NAVER",
   "https://tjmbc.co.kr/NewsArticle/865091",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000070015",
   "https://www.fnnews.com/news/202610010748403362",
@@ -2999,10 +2998,10 @@
   "https://www.segye.com/newsView/20261008518864?OutUrl=naver",
   "https://www.segye.com/newsView/20261008515283?OutUrl=naver",
   "https://www.segye.com/newsView/20261008517829?OutUrl=naver",
-  "https://www.segye.com/newsView/20261008513857?OutUrl=naver"
+  "https://www.segye.com/newsView/20261008513857?OutUrl=naver",
+  "https://theviewers.co.kr/View.aspx?No=4248181"
  ],
  "seen_titles": [
-  "내일개정형소법시행에각종'검경합수부'도활동종료",
   "11번가,10월'월간십일절'개막…가을시즌쇼핑공략",
   "보이스피싱·금융범죄‘검경합수부’종료…중수청으로역할넘긴다",
   "11번가,10월'월간십일절'…가을인기상품특가판매",
@@ -6001,15 +6000,20 @@
   "“수사청탁막겠다”던경찰…간부2명,‘수사정보유출’의혹",
   "경찰,의왕무민공원청탁관련김성제의왕시장압수수색",
   "[사사건건]동대문구길거리서흉기난동…살인미수80대구속기소外",
-  "SK에너지,공정거래관련내부통제강화"
+  "SK에너지,공정거래관련내부통제강화",
+  "[통신3사경제학①]수조원쓰고제자리…점유율순위왜안바뀌나"
  ],
  "recent_sigs": [
   [
    "2026-10-09T06:10:51.165802+09:00",
    "공정 SK에너지 내부통제 거래 강화"
+  ],
+  [
+   "2026-10-09T07:01:14.541799+09:00",
+   "바뀌나 점유율 수조원 쓰고 순위 제자리"
   ]
  ],
- "last_run": "2026-10-09T06:50:52.307007+09:00",
+ "last_run": "2026-10-09T07:01:21.994410+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6094,6 +6098,7 @@
   "breaknews.com": "브레이크뉴스",
   "kpenews.com": "한국정경신문",
   "financialpost.co.kr": "파이낸셜포스트",
-  "finomy.com": "현대경제신문"
+  "finomy.com": "현대경제신문",
+  "theviewers.co.kr": "뷰어스"
  }
 }
