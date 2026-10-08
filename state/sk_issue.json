@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1102719",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2304426",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246138",
-  "https://sjbnews.com/news/news.php?number=888947",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246145",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261001.22004010020",
   "https://view.asiae.co.kr/article/2026093019370670177",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067590",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674801",
@@ -2999,15 +2993,15 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=246340",
   "https://news.skbroadband.com/news/articleView.html?idxno=239828",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1539896",
-  "https://www.sisajournal.com/news/articleView.html?idxno=389610"
+  "https://www.sisajournal.com/news/articleView.html?idxno=389610",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7187862",
+  "https://www.chosun.com/national/court_law/2026/10/08/DQ4BVYFIGJA3RCUKNISKM77RDM/",
+  "https://www.youthdaily.co.kr/news/article.html?no=228147",
+  "https://www.dailian.co.kr/news/view/1699606/?sc=Naver",
+  "https://www.yna.co.kr/view/AKR20261008175300051?input=1195m",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=360351"
  ],
  "seen_titles": [
-  "‘영풍제지주가조작’총책징역15년…실경영자공현철징역3년",
-  "개인정보·이커머스피해'집단소송'길열리나…\"플랫폼업계도영향권...",
-  "버버리2027여름컬렉션\"오래된것들로부터,새로운여름\"",
-  "李대통령'치킨값'예고에…“동네사장님형편은그대로인데”",
-  "한화오션153억과징금7억원으로감경...대법최종판결확정",
-  "공정위,대한항공3사청주-제주노선좌석수줄여",
   "검찰청폐지,공소청·중수청출범…충청권국가재정·산업기술수사거...",
   "GS리테일허서홍증인철회…공정성쟁점남아",
   "“서민밥상볼모로담합”…식품기업과징금2조2천억원",
@@ -6001,13 +5995,15 @@
   "쿠팡,공정위현장조사에또'소송'",
   "경찰,'건진법사무민공원의혹'관련의왕시압수수색",
   "경찰중요직무범죄수사대,현직간부2명압수수색",
-  "'44조담합'SK에너지\"진심으로송구…가격체계뜯어고친다\""
+  "'44조담합'SK에너지\"진심으로송구…가격체계뜯어고친다\"",
+  "[국감2026]전분당가격담합…국감장서고개숙인'CJ·삼양사'",
+  "“혐의없다”던성폭행사건뒤집혔다…숨진10대신고자사건,업주...",
+  "청탁받고수사정보유출…현직경찰간부2명압수수색",
+  "[2026국감]與\"檢,한동훈딸수사공조중단\"…법무장관대행\"공소청...",
+  "전재수금품의혹증거인멸전보좌진들·검찰모두항소",
+  "SK에너지,가격담합의혹에거래구조손질…경쟁사접촉통제강화"
  ],
  "recent_sigs": [
-  [
-   "2026-10-08T11:10:50.151764+09:00",
-   "거래관행 투명성 SK에너지 석유제품 가격체계 높인다 거래 개선"
-  ],
   [
    "2026-10-08T11:20:46.747416+09:00",
    "차단 접촉 쇄신안 경쟁사 가격구조 폐지하고 사후정산 SK에너지"
@@ -6029,7 +6025,7 @@
    "구매 대표 합리적 SK에너지 유가 담합 입장문 환경 만들겠다"
   ]
  ],
- "last_run": "2026-10-08T17:01:09.122107+09:00",
+ "last_run": "2026-10-08T17:10:56.460220+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
