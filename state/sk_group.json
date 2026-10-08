@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=321354",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321205",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610021347442480105067",
   "https://www.newsinside.kr/news/articleView.html?idxno=5018489",
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=247320",
@@ -2999,11 +2997,11 @@
   "https://www.hankyung.com/article/2026100817881",
   "https://biz.chosun.com/stock/stock_general/2026/10/09/7ODVNUMCMVAIZNJCWJ7EEOPD6Q/",
   "https://www.dailian.co.kr/news/view/1699590/?sc=Naver",
-  "https://www.mk.co.kr/article/12172126"
+  "https://www.mk.co.kr/article/12172126",
+  "https://www.hani.co.kr/arti/economy/economy_general/1281283.html",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424216"
  ],
  "seen_titles": [
-  "반도체소부장덜어낸국민연금…건설·에너지로눈돌렸다",
-  "AI기판증설앞둔심텍,17만원대에서2.06%하락",
   "[IT는지금]KT클라우드,50MW급‘청라AI데이터센터’구축참여外",
   "[엄태윤칼럼]美중간선거이후트럼프의대외정책방향",
   "영진전문대-YBM,재학생공인어학및IT역량강화'맞손'",
@@ -6001,7 +5999,9 @@
   "'860%급등'실화냐…'소부장대장주'됐는데또한방남았다",
   "반도체소부장ETF한달새20%상승랠리…코스닥액티브도덩달아웃...",
   "\"삼전은웃고2차전지는운다?\"…3분기실적성적표보니",
-  "“AI라못막았다?금융사방치한허점노린것”…연쇄해킹보고서보니"
+  "“AI라못막았다?금융사방치한허점노린것”…연쇄해킹보고서보니",
+  "44조규모유가담합혐의…SK에너지·현대오일뱅크공정위심의착수",
+  "미래에셋·삼성·키움·한투지주매도,대신證매수···국민연금매매..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-10-09T06:11:06.649057+09:00",
    "금융사 못막았다 연쇄해킹 AI라 보니 허점 노린것 방치한 보고서"
+  ],
+  [
+   "2026-10-09T06:21:04.782222+09:00",
+   "한투지주 삼성 대신 국민연금 미래에셋 키움 매도 매수 매매"
   ]
  ],
- "last_run": "2026-10-09T06:11:36.658589+09:00",
+ "last_run": "2026-10-09T06:21:10.532646+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
