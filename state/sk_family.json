@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4108685",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277405",
   "https://www.news2day.co.kr/article/20260926500005",
   "https://www.econovill.com/news/articleView.html?idxno=751916",
   "https://www.insight.co.kr/news/575297",
@@ -2999,11 +2997,11 @@
   "https://ilyo.co.kr/?ac=article_view&entry_id=511611",
   "http://www.metroseoul.co.kr/article/20260924500012",
   "https://www.ibabynews.com/news/articleView.html?idxno=154759",
-  "https://www.goodnews1.com/news/articleView.html?idxno=464544"
+  "https://www.goodnews1.com/news/articleView.html?idxno=464544",
+  "https://biz.heraldcorp.com/article/10854793",
+  "https://www.joongang.co.kr/article/25468557"
  ],
  "seen_titles": [
-  "최태원,'1000억발언'대리인불기소에항고…\"실제생활비20억\"",
-  "李\"한·멕시코무역협정논의조속재개해야\"…첨단산업협력확대제...",
   "\"부산호텔예약해줘\"AI에믿고맡겼는데…'찜찜하네'[홍민성의테토...",
   "이대통령\"한멕무역협정논의조속재개해야...기업도전뒷받침\"",
   "최태원,또'승부수'...美서역대급IPO추진",
@@ -6001,10 +5999,17 @@
   "'창업주장손'최영근지주사복귀…SK그룹오너3세들역할구도재조...",
   "“태극마크달고뛴다”한국국위선양마라톤프로젝트,시드니서힘찬...",
   "[건강뉴스]음식은적당히,산책은틈틈이…추석연휴건강수칙은?外",
-  "직장선교단체들,11월까지분야별일터복음화연합사역전개"
+  "직장선교단체들,11월까지분야별일터복음화연합사역전개",
+  "SK하이닉스,2029년3분기첫‘메이드인USA’HBM4E공급한다",
+  "3개청사돌려면차로3시간30분…민형배순회근무꼬였다"
  ],
- "recent_sigs": [],
- "last_run": "2026-10-10T06:00:45.989005+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-10T06:10:14.655383+09:00",
+   "30분 순회근무 민형배 3개 돌려면 차로 청사 3시간 꼬였다"
+  ]
+ ],
+ "last_run": "2026-10-10T06:10:28.101156+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
