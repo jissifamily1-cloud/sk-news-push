@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202610070074",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448865",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870856",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200094",
-  "https://www.etoday.co.kr/news/view/2633577",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279244",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610070101&t=NNv",
   "https://www.joongboo.com/news/articleView.html?idxno=363738724",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60893",
@@ -2999,15 +2993,15 @@
   "https://www.kbmaeil.com/article/20261009500124",
   "https://www.thebigdata.co.kr/view.php?ud=202610081123239758e91b94b033_23",
   "https://www.globale.co.kr/news/articleView.html?idxno=40887",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682031"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682031",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20134",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880946",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880945",
+  "https://www.ikbc.co.kr/article/view/kbc202610090049",
+  "https://www.betanews.net/article/view/beta202610090027",
+  "https://www.tournews21.com/news/articleView.html?idxno=145338"
  ],
  "seen_titles": [
-  "'바이오천하'였던코스닥판도,반도체소부장이뒤집었다",
-  "개교55년만에재탄생한신갈중…스마트학습환경구축",
-  "1~8월비중국전기차시장성장가도지속…K-배터리점유율축소",
-  "KBOmanagersreflectaheadoflastregular-seasonrivalshowdownatic",
-  "“축구협회,쿠팡은예치금면제,중소사엔50억원요구”특혜의혹제...",
-  "취임100일맞은우상호강원지사\"변화는시작했다…내년부터회복·...",
   "리사수AMD회장\"삼성·SKHBM4매우만족…이미성과\"",
   "리사수,삼성·SK반도체수장연쇄회동…AI공급망협력확대",
   "개인간중고거래도신용카드로결제…혁신금융서비스24건신규지정",
@@ -6001,25 +5995,15 @@
   "27년만에반도체재도전LG…이번엔자동차‘두뇌’만든다",
   "완도군장보고한상어워드,세계6개국동포경제인6명'21세기장보고...",
   "SK최태원회장전남광주반도체부지점검···용인과병행건설",
-  "최태원“호남반도체,가장빨리최대한짓겠다”"
+  "최태원“호남반도체,가장빨리최대한짓겠다”",
+  "광주부지찾은SK그룹최태원\"호남권반도체클러스터속도감추진\"",
+  "최태원회장,광주군공항방문으로호남반도체투자확고한의지표명",
+  "최태원SK회장,반도체클러스터광주방문...신속한투자가속화주목",
+  "최태원\"서남권반도체팹최대한빨리…수요되면용인이상으로\"",
+  "최태원“최대한빨리”…광주군공항첫현장점검,반도체팹조기착...",
+  "평택어린이들의작은나눔,위기가정에희망전한다…행복저금통78만..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-09T15:21:17.641956+09:00",
-   "기자들과 문답하는 현장서 회장 최태원"
-  ],
-  [
-   "2026-10-09T15:21:17.641956+09:00",
-   "부진 설비투자가 반전 성수기에도 예상 내년 열쇠 LG디스플레이 실적"
-  ],
-  [
-   "2026-10-09T15:21:17.641956+09:00",
-   "부지 민형배 호남 최태원SK회장 반도체팹 전남광주시장 방문"
-  ],
-  [
-   "2026-10-09T15:21:17.641956+09:00",
-   "밸류업 재탕 SK케미칼 안재현 눈총"
-  ],
   [
    "2026-10-09T15:31:17.113819+09:00",
    "소년합창단 이벤트 파리나무십자가 BC카드 진행 할인 공연"
@@ -6255,9 +6239,13 @@
   [
    "2026-10-09T21:11:05.156925+09:00",
    "동포 21세기 6명 세계 장보고 6개국 완도군 경제인 한상 어워드"
+  ],
+  [
+   "2026-10-09T21:31:12.259651+09:00",
+   "작은 나눔 희망 행복저금통 위기가정에 전한다 평택 78만 어린이들의"
   ]
  ],
- "last_run": "2026-10-09T21:21:10.125992+09:00",
+ "last_run": "2026-10-09T21:31:18.971355+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
