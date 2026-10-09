@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dkilbo.com/news/articleView.html?idxno=556568",
-  "http://www.breaknews.com/1241614",
-  "https://www.ytn.co.kr/_ln/0102_202610071833439986",
-  "http://www.gndomin.com/news/articleView.html?idxno=492045",
   "https://www.newstnt.com/news/articleView.html?idxno=721930",
   "http://www.4th.kr/news/articleView.html?idxno=2119375",
   "https://www.fnnews.com/news/202610071829222736",
@@ -2999,13 +2995,13 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871475",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438520",
   "https://www.the-today.com/news/articleView.html?idxno=91464",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16242850"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16242850",
+  "https://www.tfmedia.co.kr/news/article.html?no=207861",
+  "https://www.g-enews.com/view.php?ud=202610100736151620fbbec65dfb_1",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283152",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706199"
  ],
  "seen_titles": [
-  "\"살아난국내색조·미국76%폭발…코스맥스,글로벌뷰티싹쓸이\"",
-  "李\"보조금준뒤생산세액공제서차감\"지시",
-  "[이슈국감]800조호남반도체…기업보다정부가숙제",
-  "누리호5차발사성공…대전한국형뉴스페이스도약가속도",
   "상위1%가법인세80%부담…기업55%는한푼도안내",
   "[손바닥경제]인공지능경쟁의핵심부품",
   "반도체직업병산재심사,'입증자료'접근성쟁점",
@@ -6001,7 +5997,11 @@
   "반도체공장…최태원\"조기착수\"-민형배\"기반·인재·정주여건지원총...",
   "경영권은비싸게,신주는싸게…한화證\"소액주주이중피해\"",
   "[단독]SK온美배터리공장또감원…'잔류30명'에1.2조보조금환수...",
-  "미국증시다우423포인트상승…이란공격유예에안도,반도체는약세"
+  "미국증시다우423포인트상승…이란공격유예에안도,반도체는약세",
+  "최태원회장\"호남반도체,용인3분의2...가장빠른속도로짓겠다\"",
+  "美10년물국채5.36%폭등,빅테크AI빚더미에한국반도체고객사긴...",
+  "뉴욕증시,기술주반등에상승...다우존스0.8%↑",
+  "10년된DDR4메모리가다시돌아오고있다"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,17 @@
   [
    "2026-10-10T07:41:09.929196+09:00",
    "미국증시 유예에 상승 이란 공격 안도 반도체는 423포인트 약세 다우"
+  ],
+  [
+   "2026-10-10T07:51:03.444583+09:00",
+   "기술주 다우존스 뉴욕증시 반등에 상승"
+  ],
+  [
+   "2026-10-10T07:51:03.444583+09:00",
+   "메모리가 돌아오고 있다 DDR4 10년 다시"
   ]
  ],
- "last_run": "2026-10-10T07:41:26.559643+09:00",
+ "last_run": "2026-10-10T07:51:12.218904+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
