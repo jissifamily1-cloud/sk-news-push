@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2305605",
   "https://biz.sbs.co.kr/article_hub/20000338768?division=NAVER",
   "https://www.newsis.com/view/NISX20261007_0003817654",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493388",
@@ -2999,10 +2998,10 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3717139",
   "http://www.newstomato.com/ReadNews.aspx?no=1316173&inflow=N",
   "https://www.segye.com/newsView/20261009504631?OutUrl=naver",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617980"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617980",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069957"
  ],
  "seen_titles": [
-  "호남권전력수요6.3GW…12조송전망은여전히‘수도권행’",
   "[재계지도]총수일가지분0.06%인데순환출자8개…QCP그룹의얽힌지배...",
   "[DCM]SK지오센트릭+47bp…롯데계열도민평웃돌아[3분기리뷰②]",
   "[ESG경영분석]'이사회독립성강화'SK케미칼…\"5대위원회기반전문...",
@@ -6001,25 +6000,10 @@
   "세종시,미래발전의디딤돌...7조원인공지능(AI)데이터센터건립투...",
   "GPU서HBM4단수축소?…“엔비디아루빈,12단유지”",
   "최태원SK그룹회장,호남반도체클러스터부지첫방문",
-  "엔비디아,'루빈'HBM412단유지전망...\"HBM수요둔화우려기우\""
+  "엔비디아,'루빈'HBM412단유지전망...\"HBM수요둔화우려기우\"",
+  "[와이파이]10월2주,챗GPT서최적요금제탐색…LGU+외2가지통신혜택"
  ],
  "recent_sigs": [
-  [
-   "2026-10-09T06:31:47.284401+09:00",
-   "마이크론 노조 메모리 호황 찬반투표 찬성 AI 성과 파업 대만"
-  ],
-  [
-   "2026-10-09T06:31:47.284401+09:00",
-   "통신사 생태계 정유사 식히는 냉각 서버 검증하는"
-  ],
-  [
-   "2026-10-09T06:31:47.284401+09:00",
-   "기술주 나스닥 약세에 뉴욕증시 AI 마감 혼조"
-  ],
-  [
-   "2026-10-09T06:31:47.284401+09:00",
-   "도마 위반 실효성 잇따라 안전 시정조치 해외공장서 배터리 3사"
-  ],
   [
    "2026-10-09T06:41:05.795334+09:00",
    "방문 최태원 클러스터 호남 군공항 점검 반도체 광주"
@@ -6409,7 +6393,7 @@
    "유지 GPU서 엔비디아 HBM4 단수 축소 루빈 12단"
   ]
  ],
- "last_run": "2026-10-09T12:31:11.333242+09:00",
+ "last_run": "2026-10-09T12:41:07.711685+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
