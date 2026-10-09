@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01971286645583728&mediaCodeNo=257",
-  "https://www.news1.kr/politics/president/6301618",
-  "https://www.mk.co.kr/article/12161353",
-  "https://www.newsis.com/view/NISX20260925_0003803452",
-  "https://www.mt.co.kr/politics/2026/09/25/2026092515275236609",
-  "https://biz.chosun.com/international/international_economy/2026/09/25/2VETZXAKVRAIPBIVU7UKNJBGCI/",
-  "https://www.joongangenews.com/news/articleView.html?idxno=550559",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=70543",
-  "https://www.nongmin.com/article/20260921500244",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85161",
   "https://www.etoday.co.kr/news/view/2629366",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89722",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/PYH20261009066900054?input=1196m",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448989",
   "https://www.dailian.co.kr/news/view/1699815/?sc=Naver",
-  "https://www.yna.co.kr/view/PYH20261009067000054?input=1196m"
+  "https://www.yna.co.kr/view/PYH20261009067000054?input=1196m",
+  "https://www.the-today.com/news/articleView.html?idxno=91453",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=765595",
+  "http://www.newsprime.co.kr/news/article.html?no=750437",
+  "https://www.donga.com/news/Economy/article/all/20261009/134814699/1",
+  "https://www.newsis.com/view/NISX20261009_0003820269",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=407975",
+  "https://www.bloter.net/news/articleView.html?idxno=675377",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=507895",
+  "https://news.jtbc.co.kr/article/NB12322245?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "李·셰인바움간담회'최태원·구광모'참석…USMCA불확실성등논의",
-  "짧은추석에도바쁜재계총수들…해외출장·하반기경영구상",
-  "재계총수들,추석연휴글로벌광폭행보",
-  "최태원,이재용등재계총수들,북미·유럽서네트워크강화행보",
-  "재계총수들추석에도분주…현장점검·하반기경영구상",
-  "추석에도멈추지않는재계…북미·유럽서사업점검",
-  "李대통령·셰인바움,韓기업인간담회…\"경제협정조속체결\"",
-  "[K-지능열전]⑧삼성·SK800조는시작값···그뒤에'두번째투자'가...",
-  "靑“FTA가우리선호지만멕시코준비안돼”…USMCA협상에달렸다",
   "韓기업인들'플랜멕시코'동참…SK백신·LG전장투자확대",
   "[CEO풍향계]'반도체역량강화'최태원…'AI속도전'구자은",
   "재계총수올해명절연휴엔어디로…‘글로벌경영’나선다(종합)",
@@ -6001,7 +5992,16 @@
   "군공항탄약고부지찾은최태원·민형배",
   "[10월10일자]비즈니스포스트아침의주요기사",
   "광주찾은최태원\"건설비아낄생각없다\"…400조팹속도전[종합]",
-  "현장서이야기나누는최태원·민형배"
+  "현장서이야기나누는최태원·민형배",
+  "최태원,광주반도체클러스터첫현장방문…\"용인과동시건설도추진...",
+  "최태원SK그룹회장,광주반도체부지점검…\"용인과공장병행건설할...",
+  "'호남반도체'부지찾은최태원\"속도감있게진행\"",
+  "최태원“호남반도체빠른속도로건설…규모는용인의3분의2”",
+  "최태원SK회장,호남권반도체부지첫방문…\"속도감있게추진\"",
+  "최태원\"용인만으론부족…광주공장최대한빠르게짓겠다\"\"",
+  "최태원SK회장\"광주공장최대한빨리짓겠다\"…용인과병행검토",
+  "최태원SK그룹회장,전남광주군공항찾아반도체공장조기착공추진",
+  "호남반도체부지간최태원\"전력·용수늦어도먼저짓겠다\""
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "이야기 나누는 민형배 현장서"
   ]
  ],
- "last_run": "2026-10-09T17:00:47.515375+09:00",
+ "last_run": "2026-10-09T17:10:25.320600+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
