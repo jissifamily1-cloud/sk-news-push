@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026100711473587331",
-  "https://news.skbroadband.com/news/articleView.html?idxno=239631",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=60471",
   "http://www.popcornnews.net/news/articleView.html?idxno=135243",
   "https://www.hankyung.com/article/202610078565O",
   "https://www.mk.co.kr/article/12170462",
@@ -2999,12 +2996,12 @@
   "https://www.cwn.kr/news/articleView.html?idxno=58823",
   "https://www.cnbnews.com/news/articleView.html?idxno=1018784",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273839&CMPT_CD=P0010",
-  "https://biz.heraldcorp.com/article/10897481"
+  "https://biz.heraldcorp.com/article/10897481",
+  "https://www.globalepic.co.kr/view.php?ud=2026100814230859705f69d33b22_29",
+  "https://www.yeongnam.com/web/view.php?key=20261009026063481",
+  "https://www.koreaherald.com/article/10897751"
  ],
  "seen_titles": [
-  "서남권반도체물84.6%섬진강이댄다",
-  "LG·SK부품,우주로간다···전자산업의'우주실증'본격화",
-  "'44조원유가담합'의혹SK에너지·HD현대오일뱅크공정위심판대",
   "\"4년간40조원\"…SK에너지·현대오일뱅크,기름값담합의혹",
   "[단독]승강기'3G비상통화'불안제거한다…과기부,행안부에협조요...",
   "광주중수청개청…전북사건도광주서수사",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,'꿈의80%영업이익률눈앞'…삼성전자의신화넘본다",
   "SK텔레콤·업스테이지,'독자AI사이버보안협의체'출범",
   "월드컵금메달이끝이아니었다...한국장애인펜싱의새도전",
-  "“SK하이닉스는믿는다”역대급실적에도주가‘털썩’…SK하이닉스는..."
+  "“SK하이닉스는믿는다”역대급실적에도주가‘털썩’…SK하이닉스는...",
+  "용인특례시,‘제28회반도체대전’참가",
+  "반도체호황에도구조적양극화는오히려심화…3대메가프로젝트도난...",
+  "SKhynix,Samsungpush16-layerHBM4asRubinfavors12"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,21 @@
   [
    "2026-10-09T11:51:01.321636+09:00",
    "주가 역대급 SK하이닉스는 털썩 실적에도 믿는다"
+  ],
+  [
+   "2026-10-09T12:01:21.036280+09:00",
+   "제28회 참가 반도체대전 용인특례시"
+  ],
+  [
+   "2026-10-09T12:01:21.036280+09:00",
+   "호황에도 구조적 3대 심화 반도체 메가프로젝트도 양극화는 오히려"
+  ],
+  [
+   "2026-10-09T12:01:21.036280+09:00",
+   "as Samsung Rubin favors hynix push layer HBM4"
   ]
  ],
- "last_run": "2026-10-09T11:51:10.704201+09:00",
+ "last_run": "2026-10-09T12:01:32.540976+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
