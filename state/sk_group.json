@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=639520",
-  "https://www.ajunews.com/view/20261007150016053",
-  "https://www.mk.co.kr/article/12170452",
-  "https://www.ziksir.com/news/articleView.html?idxno=148634",
   "https://www.m-i.kr/news/articleView.html?idxno=2003553",
   "https://www.kbmaeil.com/article/20261007500377",
   "https://www.edaily.co.kr/News/Read?newsId=04231206645610624&mediaCodeNo=257",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20261008_0003819827",
   "https://www.nocutnews.co.kr/news/6588933",
   "https://www.mt.co.kr/tech/2026/10/09/2026100813561164012",
-  "https://www.itbiznews.com/news/articleView.html?idxno=227411"
+  "https://www.itbiznews.com/news/articleView.html?idxno=227411",
+  "https://biz.heraldcorp.com/article/10897700",
+  "https://www.hankookilbo.com/news/article/A2026100910050001890?did=NA",
+  "https://www.ytn.co.kr/_ln/0115_202610091014281625",
+  "https://www.naeil.com/news/read/604625"
  ],
  "seen_titles": [
-  "[A증권가소식]하나증권,생활밀착형'쇼핑적립'서비스선보여...\"소...",
-  "충북'어디서나운동장'시책...대기업기부달고'날개'",
-  "레버리지사태에도CEO다빠졌다…국감앞둔증권가\"일단안도\"",
-  "정유사3분기영업익5조넘지만…전쟁끝나도길어져도'걱정'",
   "미스트랄까지올라온개방형경쟁···韓AI전선,중국넘어유럽으로",
   "SKT,아시안게임메달리스트초청세리머니…'펜싱AI전력분석시스템...",
   "정재헌SKT대표,아시안게임메달리스트만났다…‘TeamSKT’한자리에",
@@ -6001,7 +5997,11 @@
   "반복되는정유업계담합…'자진신고유도냐,엄벌이냐'공정위딜레마",
   "푸른하늘가른주황빛불기둥…누리호5차발사돋보기[코스모스토리]",
   "윤슬,숫눈,볼우물을아시나요…100년전'말모이'AI로되살렸다",
-  "카운터포인트\"HBM4탑재량축소설은낭설…메모리슈퍼사이클지속\""
+  "카운터포인트\"HBM4탑재량축소설은낭설…메모리슈퍼사이클지속\"",
+  "삼성‘100조’역사쓴날…오픈AI매출대폭축소‘쇼크’[투자360]",
+  "삼성전자분기영업익100조원이어...SK하이닉스,영업이익률80%달성...",
+  "최태원SK회장,오늘'반도체부지'광주군공항첫방문",
+  "경북북부권투자유치전…안동은AI바이오,영주는첨단베어링"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-10-09T10:11:01.988514+09:00",
    "지속 HBM4 탑재량 슈퍼사이클 메모리 축소설은 낭설 카운터포인트"
+  ],
+  [
+   "2026-10-09T10:21:02.820558+09:00",
+   "안동은 영주는 북부권 투자유치전 첨단베어링 경북 AI바이오"
   ]
  ],
- "last_run": "2026-10-09T10:11:13.850774+09:00",
+ "last_run": "2026-10-09T10:21:08.775878+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
