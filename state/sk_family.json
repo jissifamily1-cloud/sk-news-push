@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2474311",
-  "https://www.mk.co.kr/article/12161404",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=311963",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725668",
-  "https://www.ajunews.com/view/20260925200539370",
-  "https://www.ajunews.com/view/20260925212436441",
-  "https://www.hankookilbo.com/news/article/A2026092604480002467?did=NA",
-  "https://www.mt.co.kr/politics/2026/09/26/2026092605062139391",
   "https://www.seoul.co.kr/news/politics/2026/09/26/20260926500004?wlog_tag3=naver",
   "https://www.joongang.co.kr/article/25464819",
   "https://www.newsis.com/view/NISX20260926_0003803607",
@@ -2999,17 +2991,17 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366971",
   "https://www.wikitree.co.kr/articles/1165038",
   "https://zdnet.co.kr/view/?no=20261009163220",
-  "https://biz.heraldcorp.com/article/10897899"
+  "https://biz.heraldcorp.com/article/10897899",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260923185727yqQ",
+  "https://biz.heraldcorp.com/article/10897906",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=856067",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494054",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871452",
+  "https://www.namdonews.com/news/articleView.html?idxno=925674",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745342",
+  "https://www.viva100.com/article/20261009500154"
  ],
  "seen_titles": [
-  "한-멕시코투자보장협정타결...7년만에결실맺어",
-  "이재용·최태원,추석연휴도해외로⋯북미·유럽서‘글로벌경영’",
-  "짧은추석연휴에도안쉬는재계총수들…이재용·최태원해외서'경...",
-  "최태원,멕시코서\"예방접종사업참여\"…구광모\"생산거점확대\"",
-  "\"추석연휴에도바쁘다바빠\"…재계총수들,멕시코·미국·영국서'글...",
-  "법정에낸'904억메모'…30년묵은비자금은닉의혹수사",
-  "이재명대통령,멕시코서'경제영토'넓혔다…투자·AI협력강화,북미...",
-  "추석연휴에도분주한재계총수들...북미·유럽서네트워크강화",
   "멕시코문두드린삼성·LG·SK…이대통령순방효과로날개다나",
   "삼성은가전,기아는전기차,LS는전력…멕시코간9개기업'누가무엇...",
   "최태원·구광모멕시코행,이재용뉴욕·런던행…추석에도분주",
@@ -6001,7 +5993,15 @@
   "최태원\"용인도부족하다\"…광주반도체공장건설속도전",
   "SK하이닉스주가168만원대…최태원회장이휴일'광주'찾은이유",
   "최태원\"호남반도체팹규모,용인3분의2수준검토...속도감있게추...",
-  "최태원회장“호남반도체공장최대한빨리착공…시점곧발표”"
+  "최태원회장“호남반도체공장최대한빨리착공…시점곧발표”",
+  "[CEO풍향계]'반도체역량강화'최태원…'AI속도전'구자은",
+  "호남반도체공장부지둘러본최태원“땅·수요더있다면용인보다...",
+  "최태원SK회장,호남반도체팹'속도전'천명…\"전력·용수늦어도조기...",
+  "최태원\"광주반도체공장최대한빨리건설\"",
+  "군공항찾은최태원,\"가장빠른속도로최대한짓겠다\"",
+  "최태원\"가장빠른속도로최대한짓겠다\"…광주팹속도전",
+  "최태원SK그룹회장\"용인·광주반도체공장병행건설해야할수도\"…투...",
+  "최태원,광주반도체부지첫방문⋯“최대한빨리건설할것”"
  ],
  "recent_sigs": [
   [
@@ -6081,7 +6081,7 @@
    "이야기 나누는 민형배 현장서"
   ]
  ],
- "last_run": "2026-10-09T17:20:26.061410+09:00",
+ "last_run": "2026-10-09T17:30:35.095010+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
