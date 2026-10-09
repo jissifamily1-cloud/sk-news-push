@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20261007500361",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438178",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870907",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=278410",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855879",
   "https://www.hankookilbo.com/news/article/A2026100717150005594?did=NA",
@@ -2999,12 +2996,12 @@
   "https://www.bigtanews.co.kr/article/view/big202610090005",
   "https://www.getnews.co.kr/news/articleView.html?idxno=883111",
   "https://biz.heraldcorp.com/article/10897497",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539996"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539996",
+  "https://www.thelec.kr/news/articleView.html?idxno=63512",
+  "http://www.metroseoul.co.kr/article/20261009500020",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366975"
  ],
  "seen_titles": [
-  "AMD,韓공급망·생태계동시정조준…\"HBM다세대협력·국내AICoE신설...",
-  "삼전,자사주매입없는첫날'선방'…단기변동성주의",
-  "안민석경기교육감\"교권회복없이는아무것도할수없어…교사지키...",
   "리사수\"반도체는팀스포츠…한국과3~5년장기파트너십중요\"",
   "중고거래도카드로안전결제…네이버페이등혁신금융24건신규지정",
   "리사수\"반도체는팀스포츠…삼성·SK와HBM협력확대\"",
@@ -6001,7 +5998,10 @@
   "미래에셋증권,10월둘째주LG이노텍등8종목매수추천",
   "최태원회장\"광주반도체공장최대한빨리짓겠다\"…호남권반도체클러...",
   "‘이러니국장탈출하지’미국도일본도신났는데…코스피는무려‘-...",
-  "최태원\"용수·전력늦어도광주팹먼저\""
+  "최태원\"용수·전력늦어도광주팹먼저\"",
+  "광주찾은최태원\"용수전력늦어도먼저착공\"...미군시설반환이변...",
+  "최태원회장,광주반도체공장'속도전'강조…용인의3분의2규모예고",
+  "[ESG브리핑-10월2주]골프존문화재단,순천취약계층간편식후원외"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,13 @@
   [
    "2026-10-09T19:51:02.012355+09:00",
    "코스피는 무려 일본도 국장 신났는데 미국도 이러니 탈출하지"
+  ],
+  [
+   "2026-10-09T20:11:01.808124+09:00",
+   "골프존문화재단 간편식 후원 취약계층 순천"
   ]
  ],
- "last_run": "2026-10-09T20:01:23.978235+09:00",
+ "last_run": "2026-10-09T20:11:08.645814+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
