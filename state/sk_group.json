@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10896101",
-  "https://www.widedaily.com/news/articleView.html?idxno=301791",
-  "https://www.dt.co.kr/article/12088008",
-  "https://www.seoul.co.kr/news/society/2026/10/07/20261007500262?wlog_tag3=naver",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278408",
-  "https://www.hankookilbo.com/news/article/A2026100714520003784?did=NA",
-  "https://www.hankookilbo.com/news/article/A2026100716470005479?did=NA",
   "https://www.thelec.kr/news/articleView.html?idxno=63420",
   "https://www.yna.co.kr/view/AKR20261007159551017?input=1195m",
   "https://imnews.imbc.com/news/2026/society/article/6856369_36918.html",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/local/gwangju-jeonnam/6315387",
   "http://www.kjdaily.com/article.php?aid=1791537249688659276",
   "https://www.starnewskorea.com/sports/2026/10/09/2026100915032438661",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6941431"
+  "https://sports.hankooki.com/news/articleView.html?idxno=6941431",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=209448",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34959",
+  "https://www.edaily.co.kr/News/Read?newsId=03732646645611280&mediaCodeNo=257",
+  "https://www.yna.co.kr/view/AKR20261009054300007?input=1195m",
+  "https://www.edaily.co.kr/News/Read?newsId=03735926645611280&mediaCodeNo=257",
+  "https://www.g-enews.com/view.php?ud=202610091819397033fbbec65dfb_1",
+  "https://www.edaily.co.kr/News/Read?newsId=03726086645611280&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[현장]리사수\"한국은AMDAI핵심파트너\"…삼성·SK와HBM4동맹확대",
-  "SKT,AI로되살린우리말'2026말모이'…LG유플러스,도서산간'찾아가...",
-  "고성군하학열호100일,성과넘어실행으로",
-  "안민석'하루를백일처럼'…'교부금7조감소수용못해',북부8곳책임...",
-  "[최재원의이슈플러스]반도체ELS에뭉칫돈몰리는데…3년내삼전닉스...",
-  "\"SKC,현금유출버텨낼까…'동박'수익회복과'글라스기판'상업화의...",
-  "AMD苏姿丰将接连会见三星1SK海力士高层",
   "\"166만도민에승리감동안길것\"충북선수단출격다짐",
   "AMD리사수,삼성·SK반도체수장연쇄회동…HBM동맹강화",
   "[오늘증시]외국인2조6000억순매도,코스피6800선턱걸이",
@@ -6001,7 +5994,14 @@
   "'정말올까'에서'얼마나빨리'로…최태원방문에광주반도체기대감",
   "삼성전자이어SK하이닉스도'꿈의실적'…영업이익률80%넘나",
   "'환상골향연'인천화력미쳤다,포항에3-0완승'이민혁·이청용·무...",
-  "잠실학생체육관이파란색으로물들다니…낯설고특별했던삼성의홈개..."
+  "잠실학생체육관이파란색으로물들다니…낯설고특별했던삼성의홈개...",
+  "정재헌SKTCEO,통신·AI엮은'성장기어'전략제시…'토큰게이트웨...",
+  "광주군공항반도체공장조기착공검토…용인3분의2규모구상",
+  "[포토]김재희,오차없는티샷임팩트",
+  "[프로농구중간순위]9일",
+  "[포토]김재희,정상을향하여",
+  "핵심부품값이짓누른노트북시장…2027년가격올리면출하량꺾인다",
+  "[포토]김재희,상위권에집중한다"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,25 @@
   [
    "2026-10-09T18:11:09.456106+09:00",
    "전남광주 의지 구체적 없어 일정 언급 반도체공장 최태원 건설"
+  ],
+  [
+   "2026-10-09T18:41:05.034487+09:00",
+   "9일"
+  ],
+  [
+   "2026-10-09T18:41:05.034487+09:00",
+   "정상을 김재희 향하여"
+  ],
+  [
+   "2026-10-09T18:41:05.034487+09:00",
+   "2027년 부품값이 시장 올리면 가격 짓누른 출하량 꺾인다 노트북 핵심"
+  ],
+  [
+   "2026-10-09T18:41:05.034487+09:00",
+   "상위권에 김재희 집중한다"
   ]
  ],
- "last_run": "2026-10-09T18:31:16.064464+09:00",
+ "last_run": "2026-10-09T18:41:18.934912+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
