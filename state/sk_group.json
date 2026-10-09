@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261007_0003817938",
-  "https://news.tf.co.kr/read/economy/2374065.htm",
   "https://en.yna.co.kr/view/AEN20261007009900315?input=2106m",
   "https://www.chosun.com/sports/football/2026/10/07/567R26OWRZGGHJKOYIFYHQK2ZY/",
   "https://gw.newdaily.co.kr/site/data/html/2026/10/07/2026100700369.html",
@@ -2999,11 +2997,11 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261009201904jy1",
   "https://www.topstarnews.net/news/articleView.html?idxno=16242710",
   "https://www.yna.co.kr/view/AKR20261009059000007?input=1195m",
-  "https://kjmbc.co.kr/NewsArticle/1540359"
+  "https://kjmbc.co.kr/NewsArticle/1540359",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=364422",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790658&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "신한자산운용,'SOL글로벌DRAM반도체플러스'ETF상장",
-  "리사수,삼성·SK반도체수장연쇄회동…AI반도체협력논의",
   "[종합]리사수AMD회장,삼성전자·SK하이닉스'핵심파트너'지목…H...",
   "리사수\"메모리공급난,韓과협업매우중요\"",
   "[증권데일리]증권사,고객일상파고든다…쇼핑·글로벌·디지털자산...",
@@ -6001,7 +5999,9 @@
   "최태원,광주반도체부지첫점검…속도전예고",
   "\"WBSC드림컵출전\"아시아3개국,한국야구지원성과확인",
   "한국야구가뿌린씨앗…라오스·몽골·베트남,국제대회맞대결",
-  "광주찾은최태원SK그룹회장\"최대한빠르게착공할것\""
+  "광주찾은최태원SK그룹회장\"최대한빠르게착공할것\"",
+  "호남권반도체부지찾은최태원회장용인3분의2크기로…최대한빠...",
+  "미증시최고치인데…\"코스피석달째박스권\"왜?"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,13 @@
   [
    "2026-10-09T20:21:00.683070+09:00",
    "최태원 예고 속도전 반도체 부지 광주 점검"
+  ],
+  [
+   "2026-10-09T20:41:03.051436+09:00",
+   "최고치인데 코스피 박스권 증시 달째"
   ]
  ],
- "last_run": "2026-10-09T20:31:15.652929+09:00",
+ "last_run": "2026-10-09T20:41:08.763086+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
