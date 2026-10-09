@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.getnews.co.kr/news/articleView.html?idxno=882897",
-  "https://www.koreatimes.co.kr/path/A2026100715070000600",
-  "https://biz.chosun.com/it-science/ict/2026/10/07/WJNBDKZQJFARBMEOMO3OYJFNEQ/",
-  "https://www.ftimes.kr/news/articleView.html?idxno=40180",
-  "https://www.goal.com/kr/뉴스/a/bltceeed6bd3376989d",
-  "https://theviewers.co.kr/View.aspx?No=4255198",
-  "https://www.newsway.co.kr/news/view?ud=2026100715391330549",
   "https://www.dt.co.kr/article/12087962",
   "http://www.dailypop.kr/news/articleView.html?idxno=103146",
   "https://www.kpinews.kr/newsView/1065591882890504",
@@ -2999,16 +2992,16 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000072118",
   "http://www.newskr.kr/news/articleView.html?idxno=107023",
   "https://www.bloter.net/news/articleView.html?idxno=675359",
-  "https://www.kbmaeil.com/article/20261009500111"
+  "https://www.kbmaeil.com/article/20261009500111",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261009.99099002547",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=883107",
+  "https://view.asiae.co.kr/article/2026100916075553520",
+  "https://www.koreaherald.com/article/10897855",
+  "https://www.pressian.com/pages/articles/2026100915580329821",
+  "https://www.newsis.com/view/NISX20261009_0003820200",
+  "http://www.kjdaily.com/article.php?aid=1791529578688656276"
  ],
  "seen_titles": [
-  "리사수,삼성·SK수장연쇄회동…AMD‘한국AI동맹’넓힌다",
-  "코스피,외인·기관3.3조매도에6800선턱걸이…코스닥900선반납",
-  "HD현대오일뱅크·SK에너지,기름값담합혐의에\"사실관계소명\"",
-  "[마켓뷰]코스피,6800선턱걸이마감…삼성전자실적앞두고관망세",
-  "삼성전자·SK하이닉스실적공개하루앞두고…외인·기관'팔자'",
-  "삼전닉스만나는AMD리사수\"반도체는팀스포츠\"",
-  "코스피2.74%내릴때코스닥9.27%↑…벌어진증시온도차",
   "하학열고성군수\"디오션,상생이행법적구속력확약해야\"",
   "코스피,6800선으로후퇴...코스닥도2%하락",
   "코스피,미금리반등·삼전실적경계에하락…6,800선턱걸이",
@@ -6001,21 +5994,16 @@
   "최태원\"전력·용수늦어져도먼저짓겠다\"…호남반도체투자속도전",
   "팬오션,3분기영업이익52%증가전망...VLCC효과",
   "나라스페이스위성,누리호와양방향교신…우주용반도체성능시험",
-  "호남엔반도체팹건설속도…구미의허탈한물음표"
+  "호남엔반도체팹건설속도…구미의허탈한물음표",
+  "최태원회장\"호남반도체클러스터,가장빠른속도로최대한짓겠다\"",
+  "최태원\"호남반도체,용인의3분의2규모..빠른착공우선\"",
+  "'호남팹'부지찾은최태원\"가장빠른속도로…용인3분의2규모\"",
+  "SKchiefeyesGwangjuchipfabsalongsideYongincluster",
+  "최태원회장,호남권반도체클러스터부지광주군공항첫방문…\"전력...",
+  "'호남반도체'부지둘러본최태원SK회장\"빠르게착공\"(종합)",
+  "코스피200ETF2.6조거래…ETN은인버스2배에집중"
  ],
  "recent_sigs": [
-  [
-   "2026-10-09T10:11:01.988514+09:00",
-   "푸른 불기둥 돋보기 주황빛 하늘 발사 누리호 5차 가른"
-  ],
-  [
-   "2026-10-09T10:11:01.988514+09:00",
-   "윤슬 아시나요 되살렸다 100년 말모이 숫눈 볼우물을 AI로"
-  ],
-  [
-   "2026-10-09T10:11:01.988514+09:00",
-   "지속 HBM4 탑재량 슈퍼사이클 메모리 축소설은 낭설 카운터포인트"
-  ],
   [
    "2026-10-09T10:21:02.820558+09:00",
    "안동은 영주는 북부권 투자유치전 첨단베어링 경북 AI바이오"
@@ -6295,9 +6283,13 @@
   [
    "2026-10-09T16:01:23.773075+09:00",
    "물음표 건설 속도 반도체 구미의 호남엔 허탈한"
+  ],
+  [
+   "2026-10-09T16:11:36.716300+09:00",
+   "집중 6조 ETF 코스피200 인버스 ETN은 거래 2배에"
   ]
  ],
- "last_run": "2026-10-09T16:01:34.977662+09:00",
+ "last_run": "2026-10-09T16:11:43.092548+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
