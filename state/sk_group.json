@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=204988",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=209364",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171585",
-  "https://www.sidae.com/article/2026100710362336236",
-  "https://www.starnewskorea.com/business-life/2026/10/07/2026100717081442772",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=201888",
-  "https://www.segye.com/newsView/20260912501438?OutUrl=naver",
-  "https://www.viva100.com/article/20261007500302",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279225",
-  "https://zdnet.co.kr/view/?no=20261007171648",
-  "https://www.donga.com/news/Economy/article/all/20261007/134802818/1",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448855",
   "https://www.joongang.co.kr/article/25467922",
   "https://www.hani.co.kr/arti/economy/marketing/1281357.html",
@@ -2999,20 +2988,20 @@
   "https://www.hankyung.com/article/2026100928671",
   "https://www.hankyung.com/article/2026100928561",
   "http://www.yonhapnewstv.co.kr/news/MYH20261009173329pZW",
-  "https://www.mk.co.kr/article/12172443"
+  "https://www.mk.co.kr/article/12172443",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6941432",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=310796",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575215527038",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682006",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=87292",
+  "https://www.ytn.co.kr/_ln/0115_202610091742217984",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307643",
+  "https://www.hankyung.com/article/2026100929291",
+  "https://www.hankyung.com/article/2026100929031",
+  "https://www.hankyung.com/article/2026100929121",
+  "https://biz.heraldcorp.com/article/10897913"
  ],
  "seen_titles": [
-  "코스피,금리반등·삼성전자실적경계감에1.98%↓…6,800선'턱걸이'",
-  "과거엔증거부족으로패소…공정위,정유사44조담합이번엔입증할까",
-  "한글날100주년,다시시작된'말모이'…이번엔AI가순우리말찾았다",
-  "개인간중고거래도신용카드로결제…혁신서비스지정",
-  "리사수“AI연구자수백명채용”…AMD,한국AI인프라생태계만든...",
-  "아시안게임메달리스트한자리에,‘팀SKT’금의환향",
-  "리사수AMD회장\"韓과3~5년중장기파트너십구축…오늘삼성전자만...",
-  "[이슈in]현실이된'AI해킹'금융권넘어전방위확산",
-  "리사수,삼성전자·SK하이닉스수장과잇따라회동",
-  "대기업오너4ㆍ5세94%가유학파…美컬럼비아대‘최다’",
-  "[마감]삼성전자실적D-1경계감…코스피,2%하락",
   "엔비디아·AMD,韓서AI칩쟁탈전…K반도체,‘메모리공급자’넘어설...",
   "발전공기업,현장중심위기관리및미래시장대비속도",
   "삼성전자,'EHS올인원'으로냉난방전기화동참…LGCNS,블록체인인프...",
@@ -6001,17 +5990,20 @@
   "\"AI성장성에균열\"vs\"계산방식차이일뿐\"",
   "담합적발돼도…中企피해보상은'먼길'",
   "[이시각헤드라인]10월9일와이드17",
-  "기판20%·동박판30%껑충…日·대만소부장영향력커져"
+  "기판20%·동박판30%껑충…日·대만소부장영향력커져",
+  "최태원SK회장,광주반도체특화단지예정부지방문…\"호남반도체클...",
+  "[포토]현대해상,'프로젝트트레일마크'청년인재육성",
+  "SK하이닉스노사,수정잠정합의안마련",
+  "최태원,호남반도체부지첫방문…“가장빠른속도로최대한짓겠다”",
+  "최태원SK회장,광주군공항부지방문…\"용인12년당겨도부족,병행...",
+  "최태원,호남반도체부지첫방문...속도전강조",
+  "최태원,광주현장전격방문···\"용인3분의2규모팹,즉시추진\"",
+  "삼성전자내년물량80%가장기계약분",
+  "부품하나만없어도데이터센터'올스톱'",
+  "\"AI인프라다음주도주는CPU·기판·MLCC\"",
+  "광주찾은최태원“호남반도체더커질것으로예상”"
  ],
  "recent_sigs": [
-  [
-   "2026-10-09T11:51:01.321636+09:00",
-   "장애인펜싱의 월드컵 한국 금메달이 도전 아니었다 끝이"
-  ],
-  [
-   "2026-10-09T11:51:01.321636+09:00",
-   "주가 역대급 SK하이닉스는 털썩 실적에도 믿는다"
-  ],
   [
    "2026-10-09T12:01:21.036280+09:00",
    "제28회 참가 반도체대전 용인특례시"
@@ -6275,9 +6267,25 @@
   [
    "2026-10-09T17:41:07.502322+09:00",
    "껑충 소부장 기판 대만 동박판 커져 영향력"
+  ],
+  [
+   "2026-10-09T17:51:07.329441+09:00",
+   "장기계약분 물량 삼성전자 내년"
+  ],
+  [
+   "2026-10-09T17:51:07.329441+09:00",
+   "올스톱 없어도 하나만 데이터센터 부품"
+  ],
+  [
+   "2026-10-09T17:51:07.329441+09:00",
+   "다음 주도주는 인프라 MLCC CPU AI 기판"
+  ],
+  [
+   "2026-10-09T17:51:07.329441+09:00",
+   "광주찾은 커질것으로 예상 최태원 호남반도체"
   ]
  ],
- "last_run": "2026-10-09T17:41:21.592947+09:00",
+ "last_run": "2026-10-09T17:51:21.064304+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
