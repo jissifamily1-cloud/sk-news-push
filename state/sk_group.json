@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20261007009900315?input=2106m",
-  "https://www.chosun.com/sports/football/2026/10/07/567R26OWRZGGHJKOYIFYHQK2ZY/",
-  "https://gw.newdaily.co.kr/site/data/html/2026/10/07/2026100700369.html",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1412903",
   "https://www.edaily.co.kr/News/Read?newsId=05077446645610624&mediaCodeNo=257",
   "https://www.nocutnews.co.kr/news/6588493",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424173",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20261009059000007?input=1195m",
   "https://kjmbc.co.kr/NewsArticle/1540359",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364422",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790658&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790658&plink=ORI&cooper=NAVER",
+  "https://www.apnews.kr/news/articleView.html?idxno=3051913",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434278",
+  "https://www.dizzotv.com/site/data/html_dir/2026/10/09/2026100980054.html",
+  "https://www.seoul.co.kr/news/society/2026/10/09/20261009500156?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "[종합]리사수AMD회장,삼성전자·SK하이닉스'핵심파트너'지목…H...",
-  "리사수\"메모리공급난,韓과협업매우중요\"",
-  "[증권데일리]증권사,고객일상파고든다…쇼핑·글로벌·디지털자산...",
-  "무디스,SK이노등급전망'부정적'→'안정적'상향…'Ba1'등급은유지",
   "[취임100일]이상일시장,반도체·교통성과'용인대도약'기대감",
   "[ClosingMarket]KOSPIBarelyHolds6,800AmidSemiconductorRout",
   "경북미래전략산업투자유치2라운드돌입",
@@ -6001,7 +5997,11 @@
   "한국야구가뿌린씨앗…라오스·몽골·베트남,국제대회맞대결",
   "광주찾은최태원SK그룹회장\"최대한빠르게착공할것\"",
   "호남권반도체부지찾은최태원회장용인3분의2크기로…최대한빠...",
-  "미증시최고치인데…\"코스피석달째박스권\"왜?"
+  "미증시최고치인데…\"코스피석달째박스권\"왜?",
+  "최태원\"12년당겨도부족\"…400조호남반도체건설속도낸다",
+  "SK최태원,광주반도체클러스터현장첫방문…\"수요폭증대응위해...",
+  "최태원SK회장“호남권반도체클러스터속도전”",
+  "“요즘돈많은애들?서울대안간다”…확달라진韓재벌가자제들..."
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,13 @@
   [
    "2026-10-09T20:41:03.051436+09:00",
    "최고치인데 코스피 박스권 증시 달째"
+  ],
+  [
+   "2026-10-09T20:51:05.893966+09:00",
+   "요즘 서울대 간다 많은 달라진 자제들 애들 재벌가"
   ]
  ],
- "last_run": "2026-10-09T20:41:08.763086+09:00",
+ "last_run": "2026-10-09T20:51:12.127186+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
