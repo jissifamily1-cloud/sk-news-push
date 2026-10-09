@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreaherald.com/article/10895833",
-  "https://www.newsis.com/view/NISX20261007_0003817540",
-  "https://www.newsgn.com/news/articleView.html?idxno=577956",
-  "https://news.appstory.co.kr/daily19622",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61092",
-  "http://www.joseilbo.com/news/news_read.php?uid=576980&class=8",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523438",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=278388",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071446539710791",
   "https://www.inthenews.co.kr/news/article.html?no=92803",
@@ -2999,16 +2992,16 @@
   "http://www.dailypop.kr/news/articleView.html?idxno=103206",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=856040",
   "https://www.gokorea.kr/news/articleView.html?idxno=880910",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31784"
+  "https://www.rcast.co.kr/news/articleView.html?idxno=31784",
+  "https://www.lecturernews.com/news/articleView.html?idxno=211757",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/09/2026100900031.html",
+  "http://www.newsprime.co.kr/news/article.html?no=750430",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000021239&cp=nv",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7142",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20122",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871170"
  ],
  "seen_titles": [
-  "배경훈장관\"독파모는계속된다\"…프론티어AI까지투트랙강조",
-  "워커힐,올해김치수출100톤목표⋯호주로판로확대",
-  "리사수,삼성전자·SK하이닉스반도체수장만난다…AI·HBM협력확대...",
-  "제주SK,이건희·김태환전역복귀...공격·측면에전력보강",
-  "Samsung’sHBMpricestippedtomorethandoublein2027",
-  "'사스포칼립스'정면돌파…워크데이\"AI에이전트로새성장\"",
-  "하학열고성군수\"말보다실행,구호보다결과로\"",
   "삼성전자3분기영업이익9배급증전망…반도체호황에도수익성둔화...",
   "공정위,SK에너지·HD현대오일뱅크'44조원가격짬짜미'심사착수",
   "서울본부세관,AEO21개업체에공인증서수여",
@@ -6001,7 +5994,14 @@
   "[줌인]SK최태원회장의AI구상…데이터센터부터'1인1에이전트'까지",
   "최태원첫점검지'탄약고이전부지'…20년밀린마륵동숙원",
   "이채원회장이말하는삼성전자와SK하이닉스투자,지금이기회일까?",
-  "자연·교통·직장을한번에잇는'트리플커넥트',아크메르동탄이그..."
+  "자연·교통·직장을한번에잇는'트리플커넥트',아크메르동탄이그...",
+  "EBS'위대한수업',최태원회장이전하는AI시대청년의생존전략",
+  "오픈AI매출기대치밑돌자AI주'흔들'…나스닥1.25%하락",
+  "[해외시황]뉴욕증시,AI성장우려·중동긴장에'혼조'…나스닥1.25%↓",
+  "[팩트체크]2.3조vs54조…레버리지손실추정액,왜23배차이?",
+  "[마켓뷰]코스피고점찍은다음날무슨일이…삼전28%·하이닉스42%...",
+  "\"SK하이닉스자랑하던남편,뇌종양사망희생양…산업재해신청\"",
+  "엘리스그룹,AIPMDC상표등록"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,25 @@
   [
    "2026-10-09T09:21:08.768399+09:00",
    "트리플 교통 직장을 아크메르 번에 잇는 동탄이 커넥트 자연"
+  ],
+  [
+   "2026-10-09T09:31:11.120933+09:00",
+   "손실 23배 vs 3조 레버리지 추정액 54조 차이"
+  ],
+  [
+   "2026-10-09T09:31:11.120933+09:00",
+   "삼전 다음 코스피 무슨 일이 고점 찍은 하이닉스"
+  ],
+  [
+   "2026-10-09T09:31:11.120933+09:00",
+   "뇌종양 산업재해 신청 SK하이닉스 남편 희생양 자랑하던 사망"
+  ],
+  [
+   "2026-10-09T09:31:11.120933+09:00",
+   "상표 등록 AI PMDC 엘리스그룹"
   ]
  ],
- "last_run": "2026-10-09T09:21:25.380850+09:00",
+ "last_run": "2026-10-09T09:31:28.458825+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
