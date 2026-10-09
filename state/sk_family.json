@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260923022348129",
-  "https://www.goodnews1.com/news/articleView.html?idxno=464544",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=505905",
-  "https://www.edaily.co.kr/News/Read?newsId=03824486645583072&mediaCodeNo=257",
-  "https://theviewers.co.kr/View.aspx?No=4240177",
-  "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/09/23/20260923500233?wlog_tag3=naver",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260923010008859",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447959",
-  "http://www.inews24.com/view/2008919",
-  "https://www.sedaily.com/article/20094595",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/519146",
   "https://view.asiae.co.kr/article/2026092316064585178",
   "https://www.etnews.com/20260923000077",
   "https://zdnet.co.kr/view/?no=20260923151403",
@@ -2999,20 +2988,20 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=448984",
   "https://www.newsis.com/view/NISX20261009_0003820109",
   "https://www.newsis.com/view/NISX20261009_0003820198",
-  "https://www.edaily.co.kr/News/Read?newsId=02253366645611280&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02253366645611280&mediaCodeNo=257",
+  "https://www.mk.co.kr/article/12172290",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000021288&cp=nv",
+  "https://www.mt.co.kr/industry/2026/10/09/2026100914542956741",
+  "https://www.hankyung.com/article/2026100926857",
+  "https://www.etoday.co.kr/news/view/2634161",
+  "https://www.etoday.co.kr/news/view/2634160",
+  "https://www.newsis.com/view/NISX20261009_0003820204",
+  "https://www.news1.kr/local/gwangju-jeonnam/6315297",
+  "https://www.fnnews.com/news/202610091450575973",
+  "https://www.newsis.com/view/NISX20261009_0003820224",
+  "https://www.hankyung.com/article/2026100926837"
  ],
  "seen_titles": [
-  "충남TP,'대한민국에너지대전'서신재생에너지홍보",
-  "젠슨황만난뒤런던으로…이재용회장,AI·문화외교잇는다",
-  "영탁,'니가왜거기서나와'실제연애담공개…\"어떻게보면뮤즈\"",
-  "재계총수들추석행보…이재용美·최태원멕시코행",
-  "[한가위,기업을읽다②]고향에서시작해재벌로…창업주들의첫사업...",
-  "직장선교단체들,11월까지분야별일터복음화연합사역전개",
-  "[2026국감레이더⑤]삼성·SK'긴장'…이재용·최태원증인불발에도...",
-  "추석에도쉴틈없다…이재용·최태원·구광모해외로",
-  "[기자가간다]\"올해차례상,30만원도모자라요\"…서민·상인모두한숨...",
-  "최종현경기도의원“도립동물병원,민간과경쟁아닌공공·민간상생...",
-  "삼성·SK·LG총수들,AI사업챙기러…추석연휴전후핵심시장'북미...",
   "SK이노'LNG-산업클러스터모델'해외사업순항,추형욱SMR로고도화정...",
   "구광모,MS와'AI혈맹'맺고멕시코行…추석연휴도반납",
   "연휴잊은총수들…재계‘2027경영시계’빨라진다",
@@ -6001,7 +5990,18 @@
   "최태원SK그룹회장,호남권반도체클러스터사업후보지방문",
   "최태원SK그룹회장,'반도체산단부지'광주군공항첫방문",
   "[속보]최태원\"호남반도체,상황되면가장빠른속도로짓겠다\"",
-  "최태원회장,광주반도체부지직접챙긴다…오늘첫방문"
+  "최태원회장,광주반도체부지직접챙긴다…오늘첫방문",
+  "[속보]최태원“호남반도체,용인3분의2규모…가장빠른속도로짓...",
+  "[속보]최태원“호남반도체,상황되면가장빠른속도로짓겠다”",
+  "[속보]최태원\"광주팹,용인2/3규모…땅·수요있으면커질것\"",
+  "[속보]최태원\"호남반도체인프라늦어지면팹먼저…비용안아낀다...",
+  "[속보]최태원회장\"호남반도체부지,용인3분의2규모\"",
+  "[속보]최태원회장\"호남반도체,상황되면가장빠른속도로지을것...",
+  "[속보]최태원회장\"광주팹,용인3분의2규모…땅·수요있으면커질...",
+  "[속보]최태원회장\"호남권반도체규모는용인의3분의2수준\"",
+  "[속보]광주찾은최태원\"반도체수요계속상당히빠르게늘것이라추...",
+  "[속보]최태원SK회장\"용수·전력늦더라도광주팹먼저들어갈것\"",
+  "[속보]최태원\"호남권반도체규모는용인3분의2수준\""
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-10-09T13:10:16.690749+09:00",
    "광주 반도체 부지 회장 군공항 방문"
+  ],
+  [
+   "2026-10-09T15:00:31.696459+09:00",
+   "SK회장 늦더라도 들어갈 광주 용수 먼저 전력"
+  ],
+  [
+   "2026-10-09T15:00:31.696459+09:00",
+   "반도체 수준 호남권 용인 3분의 규모는"
   ]
  ],
- "last_run": "2026-10-09T14:50:26.065803+09:00",
+ "last_run": "2026-10-09T15:00:46.257323+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
