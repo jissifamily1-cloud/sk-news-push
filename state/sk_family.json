@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8126501",
-  "https://www.news1.kr/photos/8126496",
-  "https://www.news1.kr/photos/8126476",
-  "https://www.yna.co.kr/view/PYH20260926003000013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260926002100013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260926002700013?input=1196m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3705901",
   "https://imnews.imbc.com/news/2026/politics/article/6854150_36911.html",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220328&t=NNv",
@@ -2999,15 +2993,15 @@
   "https://www.industrynews.co.kr/news/articleView.html?idxno=87292",
   "https://www.ytn.co.kr/_ln/0115_202610091742217984",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307643",
-  "https://biz.heraldcorp.com/article/10897913"
+  "https://biz.heraldcorp.com/article/10897913",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94237",
+  "https://www.imaeil.com/page/view/2026100917503784342",
+  "https://www.news2day.co.kr/article/20261009500069",
+  "https://magazine.hankyung.com/business/article/202610092953b",
+  "https://www.jasm.co.kr/news/articleView.html?idxno=320930",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077975"
  ],
  "seen_titles": [
-  "李대통령\"한-멕시코무역협정,경협고도화하는기반될것\"",
-  "한·멕비즈포럼참석한李\"무역협정논의조속재개해야\"…공급망·신...",
-  "李대통령\"기업도전뒷받침…韓·멕시코,새로운번영60년열자\"",
-  "최태원·구광모만난李대통령\"USMCA불확실성,위기는기회\"",
-  "李대통령\"한-멕시코무역협정으로호혜적경제협력고도화해야\"",
-  "환영사하는최태원대한상공회의소회장",
   "이동하는이재명대통령부부와최태원대한상공회의소회장",
   "박수치는이재명대통령부부",
   "악수하는이재명대통령과최태원대한상공회의소회장",
@@ -6001,7 +5995,13 @@
   "최태원SK회장,광주군공항부지방문…\"용인12년당겨도부족,병행...",
   "최태원,호남반도체부지첫방문...속도전강조",
   "최태원,광주현장전격방문···\"용인3분의2규모팹,즉시추진\"",
-  "광주찾은최태원“호남반도체더커질것으로예상”"
+  "광주찾은최태원“호남반도체더커질것으로예상”",
+  "최태원,\"호남반도체빠른속도로…규모는용인3분의2수준\"",
+  "최태원\"용수·전력늦어도먼저공사\"…광주반도체속도전선언",
+  "최태원,광주반도체클러스터조기건설의지…“용인과병행가능”",
+  "“용인만으론안된다”…최태원,광주반도체승부수",
+  "호남반도체부지방문한최태원\"용수·전기늦어도최대한빨리착공에...",
+  "최태원광주군공항반도체부지찾아…SK호남클러스터속도,군공항..."
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "광주찾은 호남반도체 커질것으로 예상"
   ]
  ],
- "last_run": "2026-10-09T17:50:26.965423+09:00",
+ "last_run": "2026-10-09T18:00:45.258195+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
