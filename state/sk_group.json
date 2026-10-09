@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6588493",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424173",
-  "https://www.donga.com/news/Economy/article/all/20261007/134803053/1",
   "http://www.finomy.com/news/articleView.html?idxno=263086",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2445175",
   "https://www.sentv.co.kr/article/view/sentv202610070074",
@@ -2999,12 +2996,12 @@
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434278",
   "https://www.dizzotv.com/site/data/html_dir/2026/10/09/2026100980054.html",
   "https://www.seoul.co.kr/news/society/2026/10/09/20261009500156?wlog_tag3=naver",
-  "https://mpmbc.co.kr/NewsArticle/1540335"
+  "https://mpmbc.co.kr/NewsArticle/1540335",
+  "https://www.mk.co.kr/article/12167094",
+  "https://www.kbmaeil.com/article/20261009500124",
+  "https://www.thebigdata.co.kr/view.php?ud=202610081123239758e91b94b033_23"
  ],
  "seen_titles": [
-  "[ClosingMarket]KOSPIBarelyHolds6,800AmidSemiconductorRout",
-  "경북미래전략산업투자유치2라운드돌입",
-  "7개월만에한국와삼전하닉찾아간리사수\"반도체는팀스포츠\"",
   "[단독][2027마이스터고]'대학대신삼전닉스'59개교6000명모집..'반...",
   "'SOL글로벌DRAM반도체플러스'ETF상장···연금계좌투자가능",
   "'바이오천하'였던코스닥판도,반도체소부장이뒤집었다",
@@ -6001,17 +5998,12 @@
   "SK최태원,광주반도체클러스터현장첫방문…\"수요폭증대응위해...",
   "최태원SK회장“호남권반도체클러스터속도전”",
   "“요즘돈많은애들?서울대안간다”…확달라진韓재벌가자제들...",
-  "최태원회장,광주군공항방문..반도체공장건설점검"
+  "최태원회장,광주군공항방문..반도체공장건설점검",
+  "HBM넘어‘AI메모리종합회사’노린다[CEO라운지]",
+  "27년만에반도체재도전LG…이번엔자동차‘두뇌’만든다",
+  "완도군장보고한상어워드,세계6개국동포경제인6명'21세기장보고..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-09T15:01:26.726201+09:00",
-   "SK하이닉스 재평가 성장 견인 실적이 HBM4 주가 이끈다 서버 D램이"
-  ],
-  [
-   "2026-10-09T15:01:26.726201+09:00",
-   "좋은 집값 서울 아파트 경기도 오를 외곽 교통 진짜 vs 입지는"
-  ],
   [
    "2026-10-09T15:11:10.754804+09:00",
    "빅딜데 SK증권 아마존 아모레퍼시픽 컨센서스 밑돌 영업익 3분기"
@@ -6263,9 +6255,17 @@
   [
    "2026-10-09T20:51:05.893966+09:00",
    "요즘 서울대 간다 많은 달라진 자제들 애들 재벌가"
+  ],
+  [
+   "2026-10-09T21:11:05.156925+09:00",
+   "두뇌 LG 자동차 이번엔 만에 만든다 재도전 반도체 27년"
+  ],
+  [
+   "2026-10-09T21:11:05.156925+09:00",
+   "동포 21세기 6명 세계 장보고 6개국 완도군 경제인 한상 어워드"
   ]
  ],
- "last_run": "2026-10-09T21:01:24.755704+09:00",
+ "last_run": "2026-10-09T21:11:13.839995+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
