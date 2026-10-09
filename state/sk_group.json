@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223593",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617700",
-  "https://www.m-economynews.com/news/article.html?no=71451",
-  "http://www.bizwnews.com/news/articleView.html?idxno=148307",
-  "https://imnews.imbc.com/news/2026/society/article/6856381_36918.html",
   "https://www.dkilbo.com/news/articleView.html?idxno=556568",
   "http://www.breaknews.com/1241614",
   "https://www.ytn.co.kr/_ln/0102_202610071833439986",
@@ -2999,14 +2994,14 @@
   "https://www.moneystorm.kr/news/articleView.html?idxno=7147",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6856911_37012.html",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85850",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790812&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790812&plink=ORI&cooper=NAVER",
+  "https://www.dailyt.co.kr/newsView/dlt202610100002",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871475",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438520",
+  "https://www.the-today.com/news/articleView.html?idxno=91464",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16242850"
  ],
  "seen_titles": [
-  "코스피6800선턱걸이…코스닥도900선무너져",
-  "반도체호황에기업여윳돈'최대'",
-  "“AI에이전트숫자경쟁은의미없다”…허정열워크데이코리아지사장...",
-  "리사수\"삼전닉스핵심파트너\"...HBM장기협력",
-  "[더나은미래경제브리핑]李대통령“전세사기피해자,정부가일상회...",
   "\"살아난국내색조·미국76%폭발…코스맥스,글로벌뷰티싹쓸이\"",
   "李\"보조금준뒤생산세액공제서차감\"지시",
   "[이슈국감]800조호남반도체…기업보다정부가숙제",
@@ -6001,7 +5996,12 @@
   "최태원,호남반도체부지찾아…\"가장빠른속도로짓겠다\"...\"규모커...",
   "호남찾은최태원‥\"가장빠른속도로짓겠다\"",
   "최태원SK회장,전남광주반도체특화단지점검…생산기지확충가속",
-  "미증시최고치인데…코스피석달째박스권,왜?"
+  "미증시최고치인데…코스피석달째박스권,왜?",
+  "국내유명비즈니스협업조직BNI강남엑설런트'챕터18기비전선포식...",
+  "반도체공장…최태원\"조기착수\"-민형배\"기반·인재·정주여건지원총...",
+  "경영권은비싸게,신주는싸게…한화證\"소액주주이중피해\"",
+  "[단독]SK온美배터리공장또감원…'잔류30명'에1.2조보조금환수...",
+  "미국증시다우423포인트상승…이란공격유예에안도,반도체는약세"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,29 @@
   [
    "2026-10-10T07:31:14.239610+09:00",
    "증시 박스권 최고치인데 달째 코스피"
+  ],
+  [
+   "2026-10-10T07:41:09.929196+09:00",
+   "엑설런트 BNI 비전선포식 유명 협업 챕터 강남 18기 국내 비즈니스"
+  ],
+  [
+   "2026-10-10T07:41:09.929196+09:00",
+   "반도체공장 지원 최태원 인재 정주여건 조기착수 기반 민형배"
+  ],
+  [
+   "2026-10-10T07:41:09.929196+09:00",
+   "이중 신주는 경영권은 비싸게 한화 소액주주 피해 싸게"
+  ],
+  [
+   "2026-10-10T07:41:09.929196+09:00",
+   "SK온 30명 환수 잔류 공장 2조 배터리 보조금 감원"
+  ],
+  [
+   "2026-10-10T07:41:09.929196+09:00",
+   "미국증시 유예에 상승 이란 공격 안도 반도체는 423포인트 약세 다우"
   ]
  ],
- "last_run": "2026-10-10T07:31:22.802245+09:00",
+ "last_run": "2026-10-10T07:41:26.559643+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
