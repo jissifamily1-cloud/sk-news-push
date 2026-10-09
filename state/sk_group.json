@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005934243",
-  "https://www.greened.kr/news/articleView.html?idxno=351634",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1103704",
-  "http://www.4th.kr/news/articleView.html?idxno=2119374",
-  "http://game.dailyesports.com/view.php?ud=20261007181554848921ad998911_26",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617695",
-  "https://view.asiae.co.kr/article/2026100718293278868",
   "https://www.fnnews.com/news/202610071824249942",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171604",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261007010002163",
@@ -2999,16 +2992,16 @@
   "https://www.seoul.co.kr/news/economy/securities/2026/10/10/20261010500003?wlog_tag3=naver",
   "https://www.ilemonde.com/news/articleView.html?idxno=30756",
   "https://biz.heraldcorp.com/article/10896153",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=92160"
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=92160",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279524",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171696",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=728865",
+  "https://www.mt.co.kr/stock/2026/10/10/2026100817133434741",
+  "https://www.ekn.kr/web/view.php?key=20261008028044055",
+  "http://www.beyondpost.co.kr/view.php?ud=2026101006523595192aaae0046f_30",
+  "https://www.g-enews.com/view.php?ud=202610091705463030fda4f5ab74_1"
  ],
  "seen_titles": [
-  "SK에너지·현대오일뱅크'44조담합'…4조대과징금맞나",
-  "'삶의질'·'제값찾기'…취임100일시도지사들'청사진'제시",
-  "단일종목레버리지ETF,도입경위'오리무중'…靑\"회의록없다\"",
-  "중고거래도신용카드로결제한다…금융위,혁신금융서비스지정",
-  "전쟁나자‘가격담합’SK에너지·현대오일뱅크공정위심사",
-  "삼성전자,실적발표날이더위험하다?…골드만삭스“8일변동성확대...",
-  "겹겹이싼‘해외법인’방패…SK하이닉스‘솔리다임IPO’바라보는불...",
   "토크콘서트'대구교육의미래를묻다'개최",
   "SK하이닉스,충북교육청에5,000만원기부…학생건강활동지원",
   "에너지·이동수단·주거'녹색미래'로…220조기업투자연결[한국형녹...",
@@ -6001,7 +5994,14 @@
   "[서울데이터랩]미국증시,다우·S＆P500·나스닥동반상승마감…반도...",
   "\"공장지을래도한전서전기안준다\"목소리에비상처방⋯'한전독점...",
   "“집있으면같은서울60대1인가구라도…자산,무주택자3.6배”",
-  "김민'나혼산'조작설-논란이오히려상한가연출-김대희"
+  "김민'나혼산'조작설-논란이오히려상한가연출-김대희",
+  "'중동특수'정유4사상반기14.8조잭팟…하반기경고등",
+  "해킹·구조조정비용걷히자…통신3사,3분기영업익1.4조전망",
+  "[폴더블대전환②]아이폰듀오흥행하면…한국부품도'기회'",
+  "흔들리는코스피에도10%수익낸ETF투자자,비결은",
+  "SK디앤디,1010억유상증자…군포지식산업센터자금난에390억투입",
+  "최태원회장,\"가장빠른속도로짓겠다\"...호남반도체부지첫방문",
+  "8000만달러운임에아시아정유사UAE머반유로눈길돌린다"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,37 @@
   [
    "2026-10-10T06:51:06.218284+09:00",
    "김민 상한가 나혼산 김대희 연출 논란이 조작설 오히려"
+  ],
+  [
+   "2026-10-10T07:01:18.847374+09:00",
+   "8조 상반기 특수 잭팟 하반기 정유 4사 중동 경고등"
+  ],
+  [
+   "2026-10-10T07:01:18.847374+09:00",
+   "통신 비용 해킹 3분기 영업익 걷히자 4조 3사 구조조정 전망"
+  ],
+  [
+   "2026-10-10T07:01:18.847374+09:00",
+   "아이폰 듀오 부품도 기회 흥행하면 한국"
+  ],
+  [
+   "2026-10-10T07:01:18.847374+09:00",
+   "ETF투자자 수익 비결은 흔들리는 코스피에도"
+  ],
+  [
+   "2026-10-10T07:01:18.847374+09:00",
+   "1010억 군포 지식산업센터 유상증자 390억 투입 SK디앤디 자금난에"
+  ],
+  [
+   "2026-10-10T07:01:18.847374+09:00",
+   "빠른 호남 방문 반도체부지 가장 최태원회장 속도로 짓겠다"
+  ],
+  [
+   "2026-10-10T07:01:18.847374+09:00",
+   "달러 돌린다 8000만 UAE 정유사 아시아 운임에 머반유로 눈길"
   ]
  ],
- "last_run": "2026-10-10T06:51:14.910363+09:00",
+ "last_run": "2026-10-10T07:01:40.107218+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
