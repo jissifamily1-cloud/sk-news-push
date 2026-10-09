@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261007201800013?input=1196m",
-  "https://news.dealsitetv.com/articles/176737",
-  "https://www.seoul.co.kr/news/economy/2026/10/07/20261007500179?wlog_tag3=naver",
-  "https://bizhankook.com/articles/k-gx-korean-green-transition.html",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=797227",
-  "https://www.etoday.co.kr/news/view/2633414",
   "https://www.raonnews.com/news/article.html?no=61705",
   "http://www.thevaluenews.co.kr/news/view.php?idx=202166",
   "https://www.asiatime.co.kr/article/20261007500288",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/stock/2026/10/09/2026100816324876257",
   "https://www.mt.co.kr/industry/2026/10/09/2026100817181632529",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=204930",
-  "http://www.breaknews.com/1241980"
+  "http://www.breaknews.com/1241980",
+  "https://m.sports.naver.com/basketball/article/065/0000302621",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880892",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65513",
+  "https://www.newsway.co.kr/news/view?ud=2026100814325688337",
+  "https://www.g-enews.com/view.php?ud=202610090802444066fda4f5ab74_1",
+  "https://www.asiatime.co.kr/article/20261008500357"
  ],
  "seen_titles": [
-  "전쟁틈타'44조원유가담합'...SK에너지·HD현대오일뱅크제재심의",
-  "[2026국감]단일종목레버리지ETF,누가제안했나…靑\"비공개간담회...",
-  "하학열고성군수“SK오션플랜트투자·고용약속이행강제력필요”",
-  "반도체호황에2분기기업여윳돈사상최대…가계는예금빼주식으로",
-  "공정위,SK에너지·현대오일뱅크담합사건심의개시",
-  "[재계투데이]삼성전자,아트스토어에'영국박물관'소장품30점공개...",
   "“물떠놓고빌어온8일운명의날”…삼전개미들기대속월가경고는...",
   "1000조투입되는'한국형녹색대전환'K-GX,목표와과제는?",
   "[위클리오늘]여주로컬푸드창작요리아카데미,전국무대서대상쾌거",
@@ -6001,7 +5995,13 @@
   "[단독]거래대금18분의1로줄었는데…'삼전닉스2배'운용보수월10억",
   "ESS로'서프라이즈',K배터리의부활?…\"AI가만든새기회\"",
   "넥써쓰장현국의원스토어승부수,이젠실적으로답할때[오늘의리더...",
-  "이재명대통령“퇴임후에재판받겠다!”선언하기를..."
+  "이재명대통령“퇴임후에재판받겠다!”선언하기를...",
+  "‘금메달리스트5명’용산고정문에걸린이름들…“눈물지으면서운...",
+  "SK하이닉스,3분기실적발표임박…메모리시장판도바꿀80%영업이익...",
+  "최태원,광주군공항첫방문…\"호남반도체팹부지직접챙긴다\"",
+  "반도체벨트'인구증가효과'…미분양도줄었다",
+  "데이터센터전력난해법떠오른'수요반응'…10년간최대201조원아낀...",
+  "[윤영민칼럼]K-GX1000조원,속도보다검증이먼저다"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,21 @@
   [
    "2026-10-09T09:01:20.588262+09:00",
    "퇴임 후에 대통령 재판 선언하기를 받겠다 이재명"
+  ],
+  [
+   "2026-10-09T09:11:03.022845+09:00",
+   "증가 반도체 인구 미분양도 효과 벨트 줄었다"
+  ],
+  [
+   "2026-10-09T09:11:03.022845+09:00",
+   "데이터센터 수요반응 떠오른 전력난 201조 10년간 해법 아낀"
+  ],
+  [
+   "2026-10-09T09:11:03.022845+09:00",
+   "GX 검증이 1000조원 속도보다 먼저다"
   ]
  ],
- "last_run": "2026-10-09T09:01:42.693882+09:00",
+ "last_run": "2026-10-09T09:11:14.982775+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
