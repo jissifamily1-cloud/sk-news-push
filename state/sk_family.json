@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=550477",
-  "https://www.joongangenews.com/news/articleView.html?idxno=550478",
-  "https://www.xportsnews.com/article/2199821",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260924191325LwL",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317286",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552138",
-  "https://imnews.imbc.com/news/2026/politics/article/6854018_36911.html",
-  "https://www.news1.kr/politics/president/6301456",
-  "https://www.edaily.co.kr/News/Read?newsId=01344806645583728&mediaCodeNo=257",
-  "https://www.fnnews.com/news/202609250440578760",
   "https://www.dynews.co.kr/news/articleView.html?idxno=861426",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444450",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283023",
@@ -2999,19 +2989,19 @@
   "https://www.hankookilbo.com/news/article/A2026100718500001675?did=NA",
   "https://www.joongangenews.com/news/articleView.html?idxno=553741",
   "https://www.newsis.com/view/NISI20261009_0021482689",
-  "https://www.news1.kr/photos/8151542"
+  "https://www.news1.kr/photos/8151542",
+  "https://www.dt.co.kr/article/12088192",
+  "https://www.busan.com/view/busan/view.php?code=2026100915371942095",
+  "https://www.newspim.com/news/view/20261009000121",
+  "https://www.segye.com/newsView/20261009506083?OutUrl=naver",
+  "https://www.dailian.co.kr/news/view/1699802/?sc=Naver",
+  "https://biz.heraldcorp.com/article/10897841",
+  "http://www.mdilbo.com/detail/0kIA7d/759454",
+  "https://news.tf.co.kr/read/economy/2374680.htm",
+  "https://www.donga.com/news/Economy/article/all/20261009/134814545/1",
+  "https://www.mt.co.kr/industry/2026/10/09/2026100915175278474"
  ],
  "seen_titles": [
-  "추석명절반납한재계총수들…이재용은英,최태원·구광모는美·멕...",
-  "추석반납한총수들…해외현장경영소화",
-  "관세대응1년···재계총수들,미국현장서투자성과따진다",
-  "“핵위협하늘에서만오지않고바다밑에서,소리없이다가오고있다...",
-  "“그냥살아”선우용여인생철학부터집한채값명품에피소드까지...",
-  "재계총수들연일'AI메시지'…경영전반에'인공지능DNA'이식",
-  "재계개정상법실현과국가역할론",
-  "재계총수들‘AI전환’직접챙긴다…삼성·SK·LG,경영부터생산현장...",
-  "전국최초경기도립동물병원,민간과상생협력방향으로설립",
-  "이재용·최태원빠진1차명단…재계총수누가증인석설까",
   "추석에도바쁜총수들…이재용美·英,최태원·구광모멕시코行",
   "[종합]추석에도쉬지않는총수들...이재용뉴욕·런던,최태원·구광모...",
   "KIA'히트상품'부상걱정,안하셔도됩니다…류지현감독\"제일세게...",
@@ -6001,7 +5991,17 @@
   "최태원SK회장\"광주반도체공장가장빨리짓겠다\"…'속도전'선언",
   "최태원SK회장,호남반도체용인3분의2규모추진…부지확보땐더...",
   "'여기가호남반도체클러스터부지'",
-  "취재진질문받는최태원회장·민형배시장"
+  "취재진질문받는최태원회장·민형배시장",
+  "“물·전기늦어도첫삽먼저”…호남간최태원,반도체‘속도전’...",
+  "[속보]최태원\"호남반도체,지을수있는상황된다면가장빠른속도...",
+  "최태원\"용수·전력늦어도착공먼저…호남반도체공장규모용인3분...",
+  "최태원SK회장,광주반도체부지첫방문…“용인보다빠르게,인프라...",
+  "최태원\"용인전체팹12년당겨도부족\"…광주병행건설시사[상보]",
+  "[속보]최태원“호남권반도체규모는용인3분의2수준”",
+  "최태원SK회장“용수·전력기다리기보다먼저공사”",
+  "[속보]최태원\"호남권반도체규모용인3분의2수준\"",
+  "광주간최태원“호남팹가장빠른속도로”…그옆엔與시장",
+  "최태원\"전력·용수늦어도먼저짓겠다\"…호남반도체팹'속도전'"
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "회장 취재진 민형배 시장 받는 질문"
   ]
  ],
- "last_run": "2026-10-09T15:30:40.749131+09:00",
+ "last_run": "2026-10-09T15:40:27.249725+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
