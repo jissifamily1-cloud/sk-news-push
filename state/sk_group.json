@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261007_0003818144",
-  "https://www.edaily.co.kr/News/Read?newsId=05802326645610624&mediaCodeNo=257",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008787786&plink=ORI&cooper=NAVER",
   "https://www.edaily.co.kr/News/Read?newsId=05795766645610624&mediaCodeNo=257",
   "https://www.vegannews.co.kr/news/article.html?no=391643",
   "http://andongmbc.co.kr/adboard/NewsView85144",
@@ -2999,12 +2996,12 @@
   "https://www.segye.com/newsView/20260923511147?OutUrl=naver",
   "https://www.joongangenews.com/news/articleView.html?idxno=553834",
   "https://www.yakup.com/news/index.html?cat=12&nid=333483",
-  "https://www.abcn.kr/news/articleView.html?idxno=92896"
+  "https://www.abcn.kr/news/articleView.html?idxno=92896",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2053643",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=129966",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478645"
  ],
  "seen_titles": [
-  "여주농특산물로빚은창작요리,전국무대서대상",
-  "“삼전닉스처럼‘영업익N%성과급’달라”…마이크론대만노조파업...",
-  "SKT·카카오·KT,이달'모두의AI'첫선…전국민무료사용",
   "[비즈투데이]SKT,AI로꼽은'순우리말100선'공개",
   "키움증권,연말자금이동노린다…ISA신규·이전고객에혜택강화",
   "“8일삼성전자에무슨일이”...100兆실적앞‘주가변수’겹친다",
@@ -6001,25 +5998,12 @@
   "현대해상·SK‘청년미래인재’육성맞손",
   "10월첫째주SK네트웍스주가변동현황",
   "상장제약·바이오사상반기평균부채비율코스피75.08%,코스닥58.73%",
-  "'건강기능식풍'한글자에덜미…중국산가짜54억원어치적발"
+  "'건강기능식풍'한글자에덜미…중국산가짜54억원어치적발",
+  "AI시대청년경험\"스펙넘어미래역량으로\"…현대해상,프로젝트트레...",
+  "'호남반도체'직접챙긴최태원…\"가장빠르게짓겠다\"",
+  "[증시동향]美S&P500·나스닥최고치경신했는데국내증시는침체"
  ],
  "recent_sigs": [
-  [
-   "2026-10-10T06:31:14.533786+09:00",
-   "뛰고 불면 역시 집은 빵빵 종목 증권가 배당도 바람 주가"
-  ],
-  [
-   "2026-10-10T06:31:14.533786+09:00",
-   "반도체주 연속 엔비디아 약세 마이크론 이어가 이틀"
-  ],
-  [
-   "2026-10-10T06:31:14.533786+09:00",
-   "물량 장기 130만톤 낮춘다 SK이노베이션 현물 확보 LNG 부담 조달"
-  ],
-  [
-   "2026-10-10T06:41:03.553373+09:00",
-   "공장 한전서 전기 독점 목소리에 준다 한전 비상처방 지을래도"
-  ],
   [
    "2026-10-10T06:51:06.218284+09:00",
    "자산 6배 60대 무주택자 1인 가구라도 있으면 같은 서울"
@@ -6343,9 +6327,13 @@
   [
    "2026-10-10T12:31:10.471805+09:00",
    "덜미 중국산 적발 54억원어치 가짜 글자에 건강기능식풍"
+  ],
+  [
+   "2026-10-10T12:41:05.428513+09:00",
+   "P500 나스닥 증시는 경신했는데 침체 최고치 국내"
   ]
  ],
- "last_run": "2026-10-10T12:31:16.352545+09:00",
+ "last_run": "2026-10-10T12:41:11.658311+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
