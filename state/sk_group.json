@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.e-platform.net/news/articleView.html?idxno=105990",
-  "https://www.insight.co.kr/news/576939",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880769",
   "https://biz.sbs.co.kr/article_hub/20000338867?division=NAVER",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1103539",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145391",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/industry/general-industry/6315250",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610021133001000102164",
   "https://www.livebiz.today/news/articleView.html?idxno=205483",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110002&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110002&t=NN",
+  "http://www.inews24.com/view/2013562",
+  "https://www.ddaily.co.kr/page/view/2026101018045660798",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448631"
  ],
  "seen_titles": [
-  "[더벨]AMD,메모리협력장기전'삼성파운드리까지넓히나'",
-  "[경제인사이드]신혼부터B2B까지…AI품은100조원'가전구독'",
-  "전쟁직후기름값치솟더니⋯SK에너지·현대오일뱅크,44조담합의혹",
   "반도체가기업곳간채웠다…여윳돈67조‘사상최대’,가계는예금빼...",
   "[마켓브리핑]뉴욕증시,이틀연속사상최고치기록후'숨고르기'",
   "블룸버그\"SK하이닉스솔리다임,2027년美IPO추진…최대100억달러조...",
@@ -6001,7 +5998,10 @@
   "SK하이닉스이르면28일실적공개…영업이익률80%돌파하나",
   "[더벨][SK그룹인사풍향계]한층빨라진인사시계…10월중순경영판...",
   "사상최대실적에도삼전닉스외국인지분율'뚝'…삼전,46%대로금융위...",
-  "삼전'107조'잔치에도주가는'주춤'…반등열쇠는美금리"
+  "삼전'107조'잔치에도주가는'주춤'…반등열쇠는美금리",
+  "이통3사,3분기영업이익1조4000억육박전망…전년比84%↑",
+  "[위클리반도체]분기영업익107조새역사쓴삼성전자…최태원SK회장...",
+  "[WhoIs?]김종우SKC대표이사사장"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,21 @@
   [
    "2026-10-11T06:50:59.719616+09:00",
    "삼전 주춤 107조 잔치에도 열쇠는 주가는 금리 반등"
+  ],
+  [
+   "2026-10-11T07:01:18.218631+09:00",
+   "이통3사 전망 영업이익 전년 1조4000억 3분기 육박"
+  ],
+  [
+   "2026-10-11T07:01:18.218631+09:00",
+   "SK회장 삼성전자 영업익 최태원 107조 분기 역사"
+  ],
+  [
+   "2026-10-11T07:01:18.218631+09:00",
+   "대표이사 사장 SKC 김종우"
   ]
  ],
- "last_run": "2026-10-11T06:51:06.722256+09:00",
+ "last_run": "2026-10-11T07:01:30.321857+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
