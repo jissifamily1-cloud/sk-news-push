@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000338866?division=NAVER",
-  "https://www.slist.kr/news/articleView.html?idxno=771819",
-  "https://view.asiae.co.kr/article/2026100715012973574",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880765",
-  "https://biz.sbs.co.kr/article_hub/20000338871?division=NAVER",
-  "https://www.sedaily.com/article/20099331",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445418",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601003",
   "https://www.fntimes.com/html/view.php?ud=202610080712107156141825007d_18",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/industry/2026/10/11/2026100813061544235",
   "https://www.kbmaeil.com/article/20261011500030",
   "https://www.yna.co.kr/view/AKR20261009021100008?input=1195m",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494113"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494113",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171663",
+  "https://www.g-enews.com/view.php?ud=202610110635128271fbbec65dfb_1",
+  "https://www.mt.co.kr/living/2026/10/11/2026100810365179189",
+  "https://www.yna.co.kr/view/AKR20261009038700008?input=1195m",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494116",
+  "https://www.news1.kr/industry/general-industry/6315250"
  ],
  "seen_titles": [
-  "[더벨][SK그룹인사풍향계]한층빨라진인사시계…10월중순경영판...",
-  "힘에부치는반도체…2차전지,투자대안될까",
-  "삼성전자,첫분기영업익'100조시대'여나?…오늘3분기실적발표",
-  "박스피·레버리지후폭풍…500조찍고뒷걸음질친ETF",
-  "[더벨][솔리다임스케일업의조건]손자회사상장효과,SK하이닉스가치...",
-  "23조규모‘ETF리밸런싱’임박…미래에셋·신한에쏠린수급변수",
   "[더벨][발레품은우양상선]다변화노리던우양상선,SK해운경유해발...",
   "[더벨][합병결실맺는SK이노E&S]용인열병합하이닉스증기공급,에너...",
   "[더벨][솔리다임스케일업의조건]'인수후상장'소프트뱅크·인텔도...",
@@ -6001,7 +5995,13 @@
   "\"AI가바꾼메모리시장…HBM쏠림에공급부족2028년까지지속\"",
   "삼성전자‘107조실적’에도코스피5.39%↓…반등열쇠는美금리",
   "삼전닉스주춤했지만…소부장선전에한달간수익률1위는반도체",
-  "삼성전자·SK하이닉스주춤했는데…반도체소부장한달새11%뛰었다"
+  "삼성전자·SK하이닉스주춤했는데…반도체소부장한달새11%뛰었다",
+  "자주쓰는곳에서더할인…카드사,유형별맞춤혜택",
+  "한국,남미광물공급망다변화…AI반도체리스크정면돌파",
+  "\"욕실코팅해주세요\"1만건눈앞…교원웰스,다음타깃은'싱크대'",
+  "올해신용등급하향,기업수는줄었지만건수로는48%늘어",
+  "삼성전자외국인보유율46%…2008년금융위기수준으로",
+  "SK하이닉스이르면28일실적공개…영업이익률80%돌파하나"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,29 @@
   [
    "2026-10-11T06:21:00.791528+09:00",
    "1위는 한달간 삼전닉스 선전에 소부장 수익률 주춤했지만 반도체"
+  ],
+  [
+   "2026-10-11T06:41:01.829073+09:00",
+   "남미 돌파 AI 공급망 반도체 한국 다변화 광물 정면 리스크"
+  ],
+  [
+   "2026-10-11T06:41:01.829073+09:00",
+   "다음 싱크대 교원웰스 타깃은 욕실코팅 1만건 해주세요 눈앞"
+  ],
+  [
+   "2026-10-11T06:41:01.829073+09:00",
+   "하향 올해 기업 줄었지만 신용등급 늘어 수는 건수로는"
+  ],
+  [
+   "2026-10-11T06:41:01.829073+09:00",
+   "금융위기 외국인 삼성전자 수준으로 2008년 보유율"
+  ],
+  [
+   "2026-10-11T06:41:01.829073+09:00",
+   "SK하이닉스 28일 이르면 영업이익률 돌파하나 실적 공개"
   ]
  ],
- "last_run": "2026-10-11T06:31:10.623794+09:00",
+ "last_run": "2026-10-11T06:41:18.155919+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
