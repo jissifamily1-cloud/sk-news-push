@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20261007009951315?input=2106m",
-  "http://www.cctimes.kr/news/articleView.html?idxno=931136",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086591",
   "https://www.joongboo.com/news/articleView.html?idxno=363738739",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478014",
@@ -2999,11 +2997,11 @@
   "http://www.joseilbo.com/news/news_read.php?uid=577111&class=53",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424213",
   "https://www.g-enews.com/view.php?ud=2026100810261240113084322ec9_1",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261010095228QiQ"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261010095228QiQ",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000072165",
+  "https://www.tvreport.co.kr/entertainment/article/1081956/"
  ],
  "seen_titles": [
-  "[기획]韓에연구소·수백명채용…리사수의특별한‘K-AI러브콜’",
-  "리사수,삼성서초사옥방문…\"HBM협력이어갈것\"",
   "반도체부품검증등임무띤10개‘초소형실험실’[누리호5차발사...",
   "'AI발에너지대란'현실로…\"美전력소비내년사상최대\"",
   "[급등수사본부]서울고속버스터미널인근부지가치상승기대감'대성산...",
@@ -6001,7 +5999,9 @@
   "헤지펀드는유동성공급자인가…IMF\"쏠린종목은10%p더흔들렸다\"[마...",
   "SK,동박업체왓슨투자7년···상장이후남은회수과제",
   "HBM고객을파운드리로…삼성전자,AMD와협력확대모색",
-  "개인정보유출,미국은수천만원배상…한국은?"
+  "개인정보유출,미국은수천만원배상…한국은?",
+  "최태원광주행,호남반도체'속도전'신호…조기착공은기반시설에달...",
+  "소유,'삼전닉스'주식대박나더니→주2회청소이모호출…\"집넓어서..."
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-10-10T10:01:21.690789+09:00",
    "개인정보 수천만원 유출 미국은 배상 한국은"
+  ],
+  [
+   "2026-10-10T10:11:02.931982+09:00",
+   "호출 대박나더니 2회 주식 넓어서 삼전닉스 이모 청소 소유"
   ]
  ],
- "last_run": "2026-10-10T10:01:29.669507+09:00",
+ "last_run": "2026-10-10T10:11:08.454552+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
