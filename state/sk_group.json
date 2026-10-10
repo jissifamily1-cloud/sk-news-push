@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=365915",
-  "https://www.hankyung.com/article/202610079546i",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=209154",
   "https://www.sentv.co.kr/article/view/sentv202610070216",
   "https://www.livesnews.com/news/article.html?no=64791",
@@ -2999,11 +2997,11 @@
   "https://www.edaily.co.kr/News/Read?newsId=02473126645611608&mediaCodeNo=257",
   "http://www.stoo.com/article.php?aid=109296964552",
   "https://www.yna.co.kr/view/AKR20261010035000007?input=1195m",
-  "https://www.nocutnews.co.kr/news/6589475"
+  "https://www.nocutnews.co.kr/news/6589475",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16243277",
+  "http://www.joseilbo.com/news/news_read.php?uid=577118&class=78"
  ],
  "seen_titles": [
-  "조국“내년4월보궐선거…민주당1석보다혁신당1석이가성비높아”",
-  "SK에너지·현대오일뱅크44조원대기름값담합의혹",
   "[사설]누리호5차발사성공…민간주도우주산업본궤도올릴때",
   "[발언대]울산형창업도시,답은제조업현장에있다",
   "공정위“SK·현대오일44조담합”…업계“공정위가왜곡”",
@@ -6001,13 +5999,11 @@
   "[포토]김재희,선두권을정조준한다",
   "'문선민·클리말라골'서울,제주에2-1승리…우승확정까지승점7점",
   "'클리말라결승골'서울,제주1-0꺾고자력우승까지'승점7'",
-  "'클리말라결승골'서울,10년만의우승까지매직넘버'7'"
+  "'클리말라결승골'서울,10년만의우승까지매직넘버'7'",
+  "\"승점65-우승까지7점\"FC서울,제주제압하며선두질주",
+  "‘EUV독점’ASML,삼성·SK하이닉스에부품가격10%인상통보"
  ],
  "recent_sigs": [
-  [
-   "2026-10-10T10:31:06.793310+09:00",
-   "영업이익 후퇴 6600선 코스피 증시해 주간 삼전 통했다 107조원"
-  ],
   [
    "2026-10-10T10:41:00.508374+09:00",
    "중동 완화 뉴욕증시 실적 강세 나스닥 긴장 기대에"
@@ -6223,9 +6219,13 @@
   [
    "2026-10-10T16:21:00.805400+09:00",
    "매직 서울 우승까지 10년 결승골 넘버 클리말라 만의"
+  ],
+  [
+   "2026-10-10T16:31:09.689940+09:00",
+   "인상 독점 EUV ASML SK하이닉스에 통보 삼성 부품가격"
   ]
  ],
- "last_run": "2026-10-10T16:21:06.561081+09:00",
+ "last_run": "2026-10-10T16:31:17.781552+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
