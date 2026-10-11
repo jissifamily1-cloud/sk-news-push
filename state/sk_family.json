@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=89747",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005927063",
   "https://www.sedaily.com/article/20095136",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=868157",
   "https://view.asiae.co.kr/article/2026092711163154289",
@@ -2999,11 +2997,11 @@
   "https://www.jbnews.com/news/articleView.html?idxno=1513178",
   "https://www.joongboo.com/news/articleView.html?idxno=363738921",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=360389",
-  "https://sports.donga.com/it/article/all/20261011/134819451/1"
+  "https://sports.donga.com/it/article/all/20261011/134819451/1",
+  "https://www.hani.co.kr/arti/area/honam/1281806.html",
+  "https://www.hankyung.com/article/2026101139971"
  ],
  "seen_titles": [
-  "한·멕시코,첨단산업·공급망협력넓힌다…최태원\"새성장첫걸음\"",
-  "한-멕경제협력가속페달…KOTRA'북미공급망·K-소비재'동시공략",
   "대한상의,한·멕시코비즈니스포럼개최…최태원회장\"양국새성장의...",
   "[부고]홍수용(머니투데이방송부국장)씨모친상",
   "[더벨][영상|People&Story]하이닉스다음은AI…28년째판키우는최...",
@@ -6001,17 +5999,11 @@
   "[집중취재]2차공공기관이전왜충북인가1.정주여건·지원책완비",
   "\"나눔과추억이깃든가을축제\"…송도센트럴파크서'송도굿마켓'성황",
   "[이슈+]광주직접찾은최태원…400조반도체클러스터'속도전'의조건...",
-  "광주부지찾은최태원SK회장‘속도전’주문"
+  "광주부지찾은최태원SK회장‘속도전’주문",
+  "광주찾은최태원도‘속도전’합류…‘설마’하던전남광주안심분위...",
+  "SK텔레콤,데이터센터짓고,모델개발…'풀스택AI'가속"
  ],
  "recent_sigs": [
-  [
-   "2026-10-11T10:30:23.691112+09:00",
-   "반도체가 2036년 있을까 만들어지고 호남에선"
-  ],
-  [
-   "2026-10-11T10:30:23.691112+09:00",
-   "파워 수장들 러브콜 빛난다 K반도체 잇단 빅테크"
-  ],
   [
    "2026-10-11T11:10:15.123665+09:00",
    "철강부터 에너지까지 투입하는 GX 제조업 헤비급브 바꾼다 1000조"
@@ -6051,9 +6043,13 @@
   [
    "2026-10-11T16:10:16.000015+09:00",
    "찾은 클러스터 속도전 반도체 직접 조건 400조 광주"
+  ],
+  [
+   "2026-10-11T16:40:13.482119+09:00",
+   "개발 SK텔레콤 풀스택 데이터센터 AI 가속 짓고 모델"
   ]
  ],
- "last_run": "2026-10-11T16:30:32.850366+09:00",
+ "last_run": "2026-10-11T16:40:25.268856+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
