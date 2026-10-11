@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=188749",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437418",
-  "https://economist.co.kr/article/view/ecn202610010032",
   "https://vop.co.kr/A00001696955.html",
   "http://www.beyondpost.co.kr/view.php?ud=20261001161033839018ef25b590_30",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7186997",
@@ -2999,12 +2996,12 @@
   "https://www.idomin.com/news/articleView.html?idxno=2016654",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261011010002770",
   "https://www.mt.co.kr/society/2026/10/11/2026101116563857662",
-  "https://www.medipana.com/news/articleView.html?idxno=419071"
+  "https://www.medipana.com/news/articleView.html?idxno=419071",
+  "https://www.hani.co.kr/arti/economy/consumer/1281823.html",
+  "https://news.tf.co.kr/read/life/2374837.htm",
+  "https://www.g-enews.com/view.php?ud=20261008165218189624debea800_1"
  ],
  "seen_titles": [
-  "진료중소아응급센터압수수색…의료계-경찰'과잉수사'공방(종합)",
-  "野부산의원들,전재수보좌진4명유죄에\"시장지시·관여규명해야...",
-  "광주노동청,GGM압수수색…'부당노동행위'강제수사전환",
   "靑\"김지용인사청문요청안,금명국회보낼것\"…의혹5가지반박",
   "기후장관\"동복댐증고→증축변경,논점달라질문제아냐\"[일문일답]",
   "[리테일인사이드]G마켓·다이소몰·11번가·이마트24·쿠팡...\"월초할...",
@@ -6001,10 +5998,18 @@
   "경찰,박완수지사선거법위반혐의피의자조사…공소청송치여부'촉...",
   "마일스톤이만든'영업이익률50%'…K-바이오,자생플랫폼시대로",
   "이혼소송중'장모살해·아내납치'20대…접근금지빈틈노렸나",
-  "응급의료법통과후폭풍…응급의사회\"강제보다신뢰회복\""
+  "응급의료법통과후폭풍…응급의사회\"강제보다신뢰회복\"",
+  "과징금불복·조사권시비까지…쿠팡,규제기관과‘전면소송전’",
+  "선관위특검,'올공'투표용지공개검증조율…이달말유력",
+  "담합심의·손실보전까지…정유4사,국감앞두고현안산적"
  ],
- "recent_sigs": [],
- "last_run": "2026-10-11T18:01:08.250113+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-11T18:10:46.995156+09:00",
+   "손실보전까지 산적 담합 4사 정유 앞두고 국감 현안 심의"
+  ]
+ ],
+ "last_run": "2026-10-11T18:10:55.379677+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6091,6 +6096,7 @@
   "financialpost.co.kr": "파이낸셜포스트",
   "finomy.com": "현대경제신문",
   "theviewers.co.kr": "뷰어스",
-  "polinews.co.kr": "폴리뉴스 Polinews"
+  "polinews.co.kr": "폴리뉴스 Polinews",
+  "g-enews.com": "글로벌이코노믹"
  }
 }
