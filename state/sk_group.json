@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ikbc.co.kr/article/view/kbc202610080022",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871015",
-  "https://www.inthenews.co.kr/news/article.html?no=92855",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871009",
   "https://www.mt.co.kr/world/2026/10/08/2026100810263187325",
   "http://www.kdfnews.com/news/articleView.html?idxno=189012",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705847",
@@ -2999,13 +2995,13 @@
   "https://www.hankyung.com/article/2026101144911",
   "https://www.sedaily.com/article/20100172",
   "https://www.imaeil.com/page/view/2026082710480008872",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261011010002839"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261011010002839",
+  "https://www.kbmaeil.com/article/20261011500728",
+  "https://www.fnnews.com/news/202610111746278605",
+  "https://www.sedaily.com/article/20100194",
+  "https://www.ajunews.com/view/20261011142332619"
  ],
  "seen_titles": [
-  "LGEnergySolutionrisesonrecordquarterlyearnings",
-  "최태원“AI로사회비용낮추고난제풀어야”…EBS서청년과미래논...",
-  "\"GPU·전력다음은메모리\"…AIDC경쟁변화,韓에기회",
-  "엔텔스,AIoT국제전시회2026서AI데이터·과금플랫폼'타잔DB·FOSSAB...",
   "수도권아파트평균전셋값5억원육박…이천신규아파트분양가에관...",
   "\"SK하이닉스의솔리다임,내년美상장추진…밸류최대1000억달러\"",
   "SKB,Btv고객대상한국시리즈직관이벤트",
@@ -6001,7 +5997,11 @@
   "\"반도체사이클예측못해…호황믿고돈풀면위험\"",
   "[여명]외화내빈K관광",
   "[시각과전망-박승혁]경북포항의잔치를다시기대한다",
-  "[여의대로]ADR보다42%싼하이닉스주가,누구책임인가"
+  "[여의대로]ADR보다42%싼하이닉스주가,누구책임인가",
+  "최태원“美·中증설빨라지면한국점유율줄어…공장최대한빨리늘...",
+  "최태원\"中·美가더빨리반도체증설하면우리점유율줄어..우리도빨...",
+  "마이크론12%뛸때삼전닉스1%도못올라…반도체株반등서소외",
+  "공매도잔고늘었는데…10곳중7곳주가상승"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,17 @@
   [
    "2026-10-11T17:51:01.746633+09:00",
    "하이닉스 ADR보다 책임인가 주가 누구"
+  ],
+  [
+   "2026-10-11T18:01:16.740431+09:00",
+   "삼전닉스 소외 반등서 마이크론 올라 반도체"
+  ],
+  [
+   "2026-10-11T18:01:16.740431+09:00",
+   "7곳 늘었는데 주가 상승 잔고 10곳 공매도"
   ]
  ],
- "last_run": "2026-10-11T17:51:26.033255+09:00",
+ "last_run": "2026-10-11T18:01:26.008605+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
