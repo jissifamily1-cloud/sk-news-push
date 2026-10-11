@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/10/08/2026100808555270948",
-  "https://www.joongangenews.com/news/articleView.html?idxno=553419",
-  "https://www.socialvalue.kr/news/view/1065570538362709",
-  "http://www.ikld.kr/news/articleView.html?idxno=341857",
-  "https://www.insight.co.kr/news/576954",
-  "https://www.sedaily.com/article/20099357",
-  "https://www.fntimes.com/html/view.php?ud=202610080847376860048b718333_18",
-  "https://www.dailian.co.kr/news/view/1699212/?sc=Naver",
   "http://www.paxetv.com/news/articleView.html?idxno=283629",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727113",
   "https://www.newsis.com/view/NISX20261008_0003818490",
@@ -2999,17 +2991,17 @@
   "https://magazine.hankyung.com/business/article/202610114050b",
   "https://www.etnews.com/20261011000040",
   "https://zdnet.co.kr/view/?no=20261011103142",
-  "https://www.sidae.com/article/2026100815534150220"
+  "https://www.sidae.com/article/2026100815534150220",
+  "http://www.osen.co.kr/article/G1112891034",
+  "https://www.edaily.co.kr/News/Read?newsId=01374326645611936&mediaCodeNo=257",
+  "https://www.sedaily.com/article/20100075",
+  "https://www.etoday.co.kr/news/view/2634166",
+  "https://www.news1.kr/industry/general-industry/6315844",
+  "https://www.ajunews.com/view/20261011104452339",
+  "https://www.chosun.com/economy/money/2026/10/11/4UYRSGIPOFEHNAYH72PIS7OLNI/",
+  "https://www.ddaily.co.kr/page/view/2026101110535347792"
  ],
  "seen_titles": [
-  "[서학개미안테나]SK하이닉스낸드자회사솔리다임,美IPO본격화…골...",
-  "\"SK이노베이션,바로사LNG도입으로이익확대…목표가20%↑\"",
-  "\"K-보안역량결집\"…SKT·업스테이지,11개기관과'독자AI사이버보안...",
-  "[포토]SKT·업스테이지,'독자AI사이버보안협의체'출범",
-  "독파모경쟁SKT·업스테이지,'사이버보안AI'손잡는다",
-  "\"AI해킹,타깃은관리사각지대\"…SK쉴더스,'섀도우IT'보안가이드...",
-  "삼성전자,3분기영업익107조…스마트폰·가전부진도삼킨메모리초...",
-  "SKT·업스테이지,국내대표보안기업·대학과'독자AI사이버보안협의...",
   "SK하이닉스손자회사'솔리다임'미상장본격화",
   "韓수입선다변화에'고객붙잡기'..정유사신바람[여의도Pick!]",
   "SK하이닉스,‘AI환경연구소’세운다",
@@ -6001,7 +5993,15 @@
   "“로봇발잭팟터지나”삼전닉스에쏠린눈",
   "차기GSMA이사회서韓통신사빠져…6G·AI영향력약화우려",
   "폭스바겐전기차또배터리리콜…6개월만에재발",
-  "K배터리,소재공급망다변화로'탈중국'속도"
+  "K배터리,소재공급망다변화로'탈중국'속도",
+  "\"군대안갑니다\"초유의'금메달자랑'사태에입연황도윤...\"논란된...",
+  "퇴근후주식거래열었더니…개미·외국인바구니달랐다",
+  "삼성전자‘역대급실적’에도외국인지분율은‘금융위기수준’[이...",
+  "“진짜피해는아직시작전”…금융권해킹이남긴‘디지털클론’가...",
+  "로봇D램수요,2030년까지20배증가…삼성전자·SK하닉성장동력확대",
+  "신용등급강등줄었지만…이차전지기업신용도'경고등'",
+  "“삼성전자마저판다”...외국인삼전지분,금융위기수준인46%로‘뚝...",
+  "1000조투입하는K-GX,철강부터에너지까지제조업판바꾼다[헤비급브..."
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,13 @@
   [
    "2026-10-11T10:51:00.146101+09:00",
    "탈중국 소재 공급망 K배터리 다변화로 속도"
+  ],
+  [
+   "2026-10-11T11:01:17.541259+09:00",
+   "에너지까지 철강부터 GX 바꾼다 제조업 투입하는 헤비급브 1000조"
   ]
  ],
- "last_run": "2026-10-11T10:51:14.509375+09:00",
+ "last_run": "2026-10-11T11:01:23.174441+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
