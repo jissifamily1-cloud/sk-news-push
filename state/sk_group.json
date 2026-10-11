@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tjb.co.kr/news05/bodo/view/id/104540",
-  "https://www.ppss.kr/news/articleView.html?idxno=314553",
-  "http://www.inews24.com/view/2013010",
-  "https://view.asiae.co.kr/article/2026100809532777548",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171632",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=302276",
   "https://www.mediapen.com/news/view/1128668",
   "https://www.newscj.com/news/articleView.html?idxno=3438747",
@@ -2999,14 +2994,14 @@
   "https://mhnse.com/news/articleView.html?idxno=1587107",
   "http://www.kjdaily.com/article.php?aid=1791699378688683276",
   "https://www.segye.com/newsView/20261011510751?OutUrl=naver",
-  "http://www.segyebiz.com/newsView/20261011509820?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20261011509820?OutUrl=naver",
+  "http://www.kjdaily.com/article.php?aid=1791699665688678276",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494185",
+  "https://www.koreaherald.com/article/10898617",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494184",
+  "https://view.asiae.co.kr/article/2026100814381696088"
  ],
  "seen_titles": [
-  "100조영업익에도삼성전자주가횡보,왜",
-  "SKT·업스테이지,'독자AI사이버보안협의체'출범",
-  "[2026국감]8월까지ETF괴리율기준초과219건…전년比2.5배'역대최...",
-  "SKT·업스테이지,정보보호기업·대학과'독자AI사이버보안협의체'...",
-  "'SOL글로벌DRAM반도체플러스'ETF,상장일개인순매수몰렸다",
   "KT해킹서버로그삭제지시한건'CPO'···일부직원불응해일부만...",
   "SKT,'AI사이버보안원팀'결성…11개기관협의체본격가동",
   "SKT·업스테이지,보안기업6곳과‘독자AI사이버보안협의체’출범",
@@ -6001,21 +5996,14 @@
   "[mhn포토]김재희,스트레칭필수",
   "삼성전자·SK하이닉스거래대금2천620조…3분기집중도61.8%",
   "'48대1…수험생절반이상몰렸다'수시논술전형시험열린중앙대학...",
-  "삼성전자‘100조’벌어도외인매도폭탄…코스피이번주향방은"
+  "삼성전자‘100조’벌어도외인매도폭탄…코스피이번주향방은",
+  "[이번주증시]코스피반등할까…美물가·금리에쏠린눈",
+  "하나금융PBR0.8배…SK증권\"실적·배당·자사주매입에저평가해소...",
+  "SolidigmIPOsparksdebateoverSKhynixshareholdervalue",
+  "우리금융지주,자본부담덜고대출성장재개…SK증권\"두걸음나아가...",
+  "\"찬바람불땐OO주\"…금리상승기에도주목할10대업종[주末머니]"
  ],
  "recent_sigs": [
-  [
-   "2026-10-11T09:21:01.047172+09:00",
-   "가구 사는 1인 따라 동네 4배 자산 차이 서울"
-  ],
-  [
-   "2026-10-11T09:21:01.047172+09:00",
-   "외양간 OTT 투자 은행 확대 고치기 잃고 통신 총력"
-  ],
-  [
-   "2026-10-11T09:21:01.047172+09:00",
-   "AI가 SK쉴더스 시대 잡아라 IT Shadow 해킹하는 API부터"
-  ],
   [
    "2026-10-11T09:31:11.577287+09:00",
    "키움증권 한투운용 한투증권 마스턴투자운 미래에셋증권"
@@ -6435,9 +6423,25 @@
   [
    "2026-10-11T15:21:00.692612+09:00",
    "매도 벌어도 외인 폭탄 삼성전자 100조 향방은 코스피"
+  ],
+  [
+   "2026-10-11T15:31:05.653967+09:00",
+   "PBR 해소 하나금융 8배 매입에 SK증권 실적 저평가 자사주 배당"
+  ],
+  [
+   "2026-10-11T15:31:05.653967+09:00",
+   "shareholder value hynix sparks debate over IPO Solidigm"
+  ],
+  [
+   "2026-10-11T15:31:05.653967+09:00",
+   "성장 우리금융지주 대출 SK증권 덜고 걸음 자본 부담 나아가 재개"
+  ],
+  [
+   "2026-10-11T15:31:05.653967+09:00",
+   "상승기에도 주목할 금리 찬바람 OO주 10대 업종"
   ]
  ],
- "last_run": "2026-10-11T15:21:12.033781+09:00",
+ "last_run": "2026-10-11T15:31:19.904638+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
