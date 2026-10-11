@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448906",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080049&t=NN",
-  "http://www.ikld.kr/news/articleView.html?idxno=341944",
-  "https://www.mt.co.kr/politics/2026/10/08/2026100810282480827",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96704",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=394845",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493675",
   "https://www.polinews.co.kr/news/articleView.html?idxno=745194",
@@ -2999,14 +2994,14 @@
   "https://www.fnnews.com/news/202610111804450944",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261011010002939",
   "https://www.dynews.co.kr/news/articleView.html?idxno=868881",
-  "https://www.ajunews.com/view/20261011121204500"
+  "https://www.ajunews.com/view/20261011121204500",
+  "https://www.peoplewatch.co.kr/article/view/ppw202610110003",
+  "https://www.fnnews.com/news/202610111811558787",
+  "https://www.dt.co.kr/article/12088398",
+  "https://www.fnnews.com/news/202610111808262101",
+  "https://www.fnnews.com/news/202610111808160773"
  ],
  "seen_titles": [
-  "최태원,EBS‘위대한수업’강연자로⋯“AI시대자본주의·생존전략...",
-  "AI해킹,기존수법빠르게자동화…\"그림자IT노렸다\"",
-  "\"확정없다\"던솔리다임,내년美IPO추진구체화",
-  "SK케미칼,2030년매출2.8조목표…'RaaS'기반리사이클밸류체인승부...",
-  "대기업채용공고102%늘었다…반도체경력직채용157%↑",
   "리사수,삼전전영현·SK곽노정회동…AI협력논의",
   "반도체대기업공고2배급증…웹·앱개발자공고는오히려줄었다",
   "정석근SK하이퍼대표\"5GW허황된숫자아냐...투자세일즈총력\"",
@@ -6001,13 +5996,14 @@
   "삼전닉스'낸드'잭팟터진다…로봇용D램도기대감솔솔",
   "'싼돈'47조빠지고'비싼돈'57조몰려…은행권수익성압박↑",
   "충북반도체고입학설명회참가자5배급증",
-  "K-배터리3사,동반흑자한분기만에균열...고객사보상금에실적희..."
+  "K-배터리3사,동반흑자한분기만에균열...고객사보상금에실적희...",
+  "최태원의'반도체속도전'…광주·中상하이오가며증설강조",
+  "반도체담고바이오뺐더니코스닥액티브ETF웃었다",
+  "“미중증설속도전,이대로면밀린다”…최태원“최대한빨리뭔가해...",
+  "6600까지밀린코스피…반도체실적주목[주간증시전망]",
+  "‘삼전닉스’매수강도낮췄다…반도체장비·배터리로확산[1%고수의..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-11T12:20:58.507112+09:00",
-   "불기둥 주춤한 질주 사이 삼전닉스"
-  ],
   [
    "2026-10-11T12:31:08.328786+09:00",
    "행보 호남반도체 배경은 회장의 최태원"
@@ -6493,7 +6489,7 @@
    "실적 만에 균열 3사 보상금에 고객사 배터리 동반 흑자 분기"
   ]
  ],
- "last_run": "2026-10-11T18:11:19.812440+09:00",
+ "last_run": "2026-10-11T18:21:03.481989+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
