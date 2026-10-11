@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000100674",
-  "http://www.joseilbo.com/news/news_read.php?uid=577047&class=18",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364379",
   "https://www.dailian.co.kr/news/view/1699344/?sc=Naver",
   "https://www.seoultimes.news/news/article.html?no=2000100676",
   "https://www.goodkyung.com/news/articleView.html?idxno=292165",
@@ -2999,12 +2996,12 @@
   "https://sports.khan.co.kr/article/202610112100016?pt=nv",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=312891",
   "https://www.newscj.com/news/articleView.html?idxno=3439390",
-  "https://zdnet.co.kr/view/?no=20261011210506"
+  "https://zdnet.co.kr/view/?no=20261011210506",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81661",
+  "http://www.kjdaily.com/article.php?aid=1791720316688762002",
+  "http://www.bizwnews.com/news/articleView.html?idxno=148450"
  ],
  "seen_titles": [
-  "SK에너지,대국민사과문발표...석유유통·공정거래체계강화나서",
-  "[OpeningMarket]KOSPIOpensHigher,TurnsSoftAsSamsungEarningsBe",
-  "삼성전자보다뜨거운소부장·배터리…‘펩트론쇼크'에바이오는눈물",
   "\"SK오션플랜트투자,지역사회와약속한금액의44%수준\"",
   "SKchiefpitchesnewcapitalisminrareTVturn",
   "김성환장관과비교되는기업체대표의표정",
@@ -6001,7 +5998,10 @@
   "MOON도못비켜간‘1000승명장의무덤’",
   "최태원\"전남광주반도체,용인보다더커질수도...최고속도로착공\"",
   "최태원\"美·中증설빨라지면韓점유율줄어…생산능력확충서둘러...",
-  "SK쉴더스\"아르텍스,기존공격고도화\"...API보안대응책제시"
+  "SK쉴더스\"아르텍스,기존공격고도화\"...API보안대응책제시",
+  "최태원\"미중증설시우리점유율줄어…최대한빨리확장해야\"",
+  "“전력·용수늦어도공사부터”…호남반도체가속페달",
+  "SK증권,20일'AI가바꾸는투자지도2027'세미나개최"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-10-11T21:11:01.253359+09:00",
    "기존 대응책 고도화 공격 보안 제시 아르텍스 API SK쉴더스"
+  ],
+  [
+   "2026-10-11T21:20:59.443053+09:00",
+   "SK증권 개최 바꾸는 세미나 AI가 20일 투자지도"
   ]
  ],
- "last_run": "2026-10-11T21:11:07.984593+09:00",
+ "last_run": "2026-10-11T21:21:06.285300+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
