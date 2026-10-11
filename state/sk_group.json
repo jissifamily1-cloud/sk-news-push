@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318796",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077763",
-  "https://www.newsis.com/view/NISX20261008_0003818498",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445430",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407915",
-  "http://www.bizwnews.com/news/articleView.html?idxno=148368",
-  "http://www.inews24.com/view/2012986",
-  "https://www.viva100.com/article/20261008500147",
-  "https://www.ajunews.com/view/20261008085931544",
-  "http://www.datanews.co.kr/news/article.html?no=146835",
   "http://www.inews24.com/view/2012934",
   "https://view.asiae.co.kr/article/2026100809024153159",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438259",
@@ -2999,19 +2989,19 @@
   "https://www.ddaily.co.kr/page/view/2026101110535347792",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434300",
   "https://biz.sbs.co.kr/article_hub/20000339194?division=NAVER",
-  "https://www.hankyung.com/article/202610042610i"
+  "https://www.hankyung.com/article/202610042610i",
+  "https://www.segye.com/newsView/20261011506974?OutUrl=naver",
+  "https://www.news1.kr/finance/general-stock/6315861",
+  "https://kpenews.com/View.aspx?No=4258351",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578796404740",
+  "https://www.newsis.com/view/NISX20261011_0003820887",
+  "https://www.apnews.kr/news/articleView.html?idxno=3051950",
+  "https://www.newsis.com/view/NISX20261011_0003820892",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274264&CMPT_CD=P0010",
+  "https://www.public25.com/news/articleView.html?idxno=56212",
+  "https://www.segye.com/newsView/20261011506973?OutUrl=naver"
  ],
  "seen_titles": [
-  "AI해킹표적은'보이지않는시스템'…SK쉴더스,금융권침해사고분석...",
-  "누리호타고우주간SK하이닉스D램·낸드…실제궤도서성능검증",
-  "한국투자증권,삼성증권제치고K-브랜드지수증권사2위...상위권판도...",
-  "울산야음동신흥고급주거타운으로거듭나…'힐스테이트선암호수공...",
-  "산업현장에서EBS강단으로...최태원이청년에게건네는30년의경험",
-  "[속보]역대급실적에도…삼성,3분기폰·가전兆단위적자본듯",
-  "구로구'신도림태영타운'26평,6.6억오른14.9억원에거래[일일신고...",
-  "야구장갈까,집에서볼까…SKB,한국시리즈응원선택권넓힌다",
-  "SK브로드밴드,KBO후원연계…구독서비스오프라인경험확대",
-  "[Telecom&Now]SKB,가입자대상한국시리즈2~7차전직관티켓60매제공...",
   "엔비디아도,애플도제쳤다…삼성전자,분기영업익100조시대열었다",
   "반도체대기업채용공고2배늘었다…경력직은157%급증",
   "최태원회장의제언…\"사회적난제풀어야AI효과완성\"",
@@ -6001,7 +5991,17 @@
   "1000조투입하는K-GX,철강부터에너지까지제조업판바꾼다[헤비급브...",
   "문선민1골1도움·클리말라결승골…서울,제주꺾고선두질주",
   "로봇용D램수요2030년까지20배증가…삼성·SK새성장동력으로",
-  "美중간선거결과가국내증시미칠영향은?…시나리오별분석"
+  "美중간선거결과가국내증시미칠영향은?…시나리오별분석",
+  "최태원SK그룹회장팹공장부지방문은투자의지메시지[이슈플러스...",
+  "삼전외국인지분율18년9개월만에최저…자사주매입에도'팔자'",
+  "휴머노이드로봇,반도체새격전지부상..D램수요2030년까지20배급...",
+  "최태원,400조호남반도체클러스터현장점검…\"용인과동시건설할수...",
+  "\"매도세심상찮더니…\"삼성전자외국인지분,17년만에최저",
+  "자연·교통·직장을한번에잇는'트리플커넥트',주거복합단지'아크...",
+  "서울정승원\"흥민이형보고많이배워…나부터머리박고뛰어야\"",
+  "가장화려했던2인자,'1천승무관'한화김경문퇴장",
+  "[이슈진단]다음주뉴욕증시,물가지표·주요은행실적·워시의장발언...",
+  "외국인은‘반도체엑소더스’·개인은‘미국행’…韓증시동반이탈"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,29 @@
   [
    "2026-10-11T11:11:02.684986+09:00",
    "결과가 영향은 미칠 시나리오별 국내 분석 중간선거 증시"
+  ],
+  [
+   "2026-10-11T11:21:03.237279+09:00",
+   "단지 아크 직장을 번에 잇는 커넥트 교통 자연 트리플 주거복합"
+  ],
+  [
+   "2026-10-11T11:21:03.237279+09:00",
+   "배워 나부터 흥민이형 보고 뛰어야 박고 머리 많이 정승원 서울"
+  ],
+  [
+   "2026-10-11T11:21:03.237279+09:00",
+   "1천승 2인자 화려했던 가장 무관 퇴장 김경문 한화"
+  ],
+  [
+   "2026-10-11T11:21:03.237279+09:00",
+   "실적 뉴욕증시 워시 발언 주요 물가지표 은행 의장 다음주"
+  ],
+  [
+   "2026-10-11T11:21:03.237279+09:00",
+   "증시 외국인은 이탈 미국행 엑소더스 동반 반도체 개인은"
   ]
  ],
- "last_run": "2026-10-11T11:11:08.462671+09:00",
+ "last_run": "2026-10-11T11:21:19.710820+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
