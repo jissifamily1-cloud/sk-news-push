@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261008029000008?input=1195m",
-  "http://www.joseilbo.com/news/news_read.php?uid=577028&class=18",
-  "https://www.ajunews.com/view/20261008081035333",
-  "https://www.etoday.co.kr/news/view/2633676",
-  "https://www.sedaily.com/article/20099345",
-  "https://www.ajunews.com/view/20261008082647376",
-  "https://view.asiae.co.kr/article/2026100808300328347",
   "https://www.the-today.com/news/articleView.html?idxno=91374",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000020879&cp=nv",
   "https://view.asiae.co.kr/article/2026100808375805671",
@@ -2999,16 +2992,16 @@
   "https://www.dt.co.kr/article/12088277",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000021451&cp=nv",
   "https://www.yna.co.kr/view/AKR20261009036700017?input=1195m",
-  "https://news.ifm.kr/news/articleView.html?idxno=481235"
+  "https://news.ifm.kr/news/articleView.html?idxno=481235",
+  "https://h21.hani.co.kr/arti/economy/economy_general/59992.html",
+  "https://www.segye.com/newsView/20261011505460?OutUrl=naver",
+  "https://biz.chosun.com/stock/stock_general/2026/10/11/Z5LYOIIDGFEHPO7RMEI2YINXUA/",
+  "https://www.segye.com/newsView/20261009506378?OutUrl=naver",
+  "https://www.mediapen.com/news/view/1129088",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110014&t=NN",
+  "https://biz.heraldcorp.com/article/10897551"
  ],
  "seen_titles": [
-  "LG전자주가에쏠리는눈'이익늘었지만기대이하'...가전만믿고가나...",
-  "[굿모닝!글로벌뉴욕증시]프랑스발재정불안여파에따른채권시장...",
-  "DB증권,SK이노베이션목표가↑…\"새고객사확보가능성\"",
-  "[모닝리포트]\"에이팩트,메모리후공정외주확대…내년테스트비중...",
-  "SKB,2026KBO한국시리즈직관이벤트25일까지진행",
-  "SKB,구독상품가입자에‘한국시리즈’티켓쏜다…최대60매제공",
-  "44조원대유가담합의혹…공정위,SK에너지·HD현대오일뱅크심의착수",
   "반도체호황에경상수지461억달러흑자…한달만에'역대2위'경신",
   "[어제장오늘장]삼전3분기잠정실적발표…코스피반등열쇠될까?",
   "블룸버그“솔리다임,골드만·모건스탠리와美IPO추진”",
@@ -6001,7 +5994,14 @@
   "삼전·SK하닉부진에도…반도체소부장강세에KRX반도체11%↑",
   "“진리안에참된기쁨있길”…후배향한선배들의합창",
   "[AI위클리]\"무엇도신뢰하지말라\"…AI해킹이남긴교훈",
-  "목표가는38%나낮추고도'매수'…애널리스트는왜'매도'를말하지못하..."
+  "목표가는38%나낮추고도'매수'…애널리스트는왜'매도'를말하지못하...",
+  "호남반도체클러스터,빛좋은개살구안되려면",
+  "역대급‘삼성전자분기100조원’실적에도하락한코스피...대체왜?",
+  "“외국인계속팔더니”…삼성전자外人지분율,17년3개월만에최저...",
+  "AI쓰고도벗어난법인세전망치…의존도높아지며재정안정성↓",
+  "부가서비스도세대교체…통신3사,AI중심으로사업재정비",
+  "\"퇴근후에도주식샀다\"…개미,뭘담았나봤더니",
+  "빅딜완주하고펀딩속도전…한투PE,투자영토넓힌다[하우스리뷰]"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,25 @@
   [
    "2026-10-11T09:40:58.480910+09:00",
    "말하지 목표가는 매도 낮추고도 못하 매수 애널리스트는"
+  ],
+  [
+   "2026-10-11T09:50:58.730925+09:00",
+   "쓰고도 전망치 벗어난 안정성 높아지며 재정 법인세 AI 의존도"
+  ],
+  [
+   "2026-10-11T09:50:58.730925+09:00",
+   "재정비 통신3사 부가서비스도 세대교체 중심으로 사업 AI"
+  ],
+  [
+   "2026-10-11T09:50:58.730925+09:00",
+   "담았나 샀다 주식 퇴근 개미 봤더니 후에도"
+  ],
+  [
+   "2026-10-11T09:50:58.730925+09:00",
+   "펀딩 한투PE 투자 속도전 완주하고 영토 빅딜 넓힌다"
   ]
  ],
- "last_run": "2026-10-11T09:41:09.922531+09:00",
+ "last_run": "2026-10-11T09:51:12.908903+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
