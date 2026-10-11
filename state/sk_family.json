@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202609270002",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609270017&t=NN",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=444856",
   "https://www.dailian.co.kr/news/view/1694674/?sc=Naver",
   "https://www.news1.kr/industry/general-industry/6302212",
   "https://www.nocutnews.co.kr/news/6583382",
@@ -2999,12 +2996,12 @@
   "https://www.sidae.com/article/2026100817391038881",
   "https://www.ddaily.co.kr/page/view/2026101110535347792",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578796404740",
-  "https://www.segye.com/newsView/20261011506974?OutUrl=naver"
+  "https://www.segye.com/newsView/20261011506974?OutUrl=naver",
+  "https://www.thepublic.kr/news/articleView.html?idxno=319908",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172094",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11636"
  ],
  "seen_titles": [
-  "\"가짜선행학력위조\"…'최태원동거인'김희영,허위사실유튜버에...",
-  "[포토뉴스]강릉역,고객사은행사진행",
-  "\"'최태원동거인'김희영가짜선행학력위조\"…허위사실유튜버'승소...",
   "'최태원동거인'김희영,가짜뉴스유튜버에연쇄승소…형사·민사모...",
   "우리나라만가능한'이혼못해줘'…'파탄주의'고려시점?",
   "'최태원동거인'김희영,허위사실유포유튜버에또승소…1000만원배...",
@@ -6001,7 +5998,10 @@
   "빅테크수장들잇단러브콜,K반도체'칩파워'빛난다",
   "1000조투입하는K-GX,철강부터에너지까지제조업판바꾼다[헤비급브...",
   "최태원,400조호남반도체클러스터현장점검…\"용인과동시건설할수...",
-  "최태원SK그룹회장팹공장부지방문은투자의지메시지[이슈플러스..."
+  "최태원SK그룹회장팹공장부지방문은투자의지메시지[이슈플러스...",
+  "[쩐의흔적]임원들은사고,서경배오너일가는그대로…아모레홀딩스...",
+  "최태원SK회장\"호남반도체클러스터가속\"...시장반응은?,효과는?",
+  "물·석유·식량·반도체…대한민국앞으로30년결정할다섯번째자원..."
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-10-11T11:20:13.355747+09:00",
    "메시지 공장 이슈플러스 회장 부지 의지 방문은 투자"
+  ],
+  [
+   "2026-10-11T11:30:22.782479+09:00",
+   "다섯 석유 앞으로 번째 30년 자원 반도체 결정할 식량 대한민국"
   ]
  ],
- "last_run": "2026-10-11T11:20:27.125736+09:00",
+ "last_run": "2026-10-11T11:30:36.455996+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
