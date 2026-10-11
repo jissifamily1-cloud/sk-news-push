@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2633709",
-  "https://www.g-enews.com/view.php?ud=2026100809333857063084322ec9_1",
-  "https://www.ajunews.com/view/20261007181336001",
-  "https://www.yna.co.kr/view/AKR20261008011900530?input=1195m",
-  "http://www.footballist.co.kr/news/articleView.html?idxno=215624",
-  "https://www.news1.kr/economy/trend/6313419",
   "https://www.newsis.com/view/NISX20261008_0003818390",
   "https://www.mt.co.kr/economy/2026/10/08/2026100809362879683",
   "https://biz.heraldcorp.com/article/10896472",
@@ -2999,15 +2993,15 @@
   "https://www.fntimes.com/html/view.php?ud=202610080933351417b372994c95_18",
   "https://www.sedaily.com/article/20100116",
   "https://www.hankyung.com/article/2026101142157",
-  "https://www.kukinews.com/article/view/kuk202610110024"
+  "https://www.kukinews.com/article/view/kuk202610110024",
+  "https://www.sedaily.com/article/20100121",
+  "https://www.fnnews.com/news/202610111448561990",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610110039&t=NN",
+  "https://www.koreaherald.com/article/10898606",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494175",
+  "https://www.mt.co.kr/stock/2026/10/11/2026101114000327608"
  ],
  "seen_titles": [
-  "반도체수출호조에경상수지461억달러…역대두번째규모",
-  "SK텔레콤'독자AI사이버보안협의체'출범…에이닷엑스보안기능강화",
-  "SKT,업스테이지와'AI사이버보안협의체'출범",
-  "최태원SK회장,EBS'위대한수업'출격…AI시대'새자본주의'청사진...",
-  "107조영업이익인데...삼성전자장초반약세[종목NOW]",
-  "이명재·이유현·이탈로·클리말라'4파전'…9월'EASPORTS이달의선수...",
   "가습기살균제배상,정부·기업이함께낸다…15개사'분담금'확약",
   "SOL글로벌DRAM반도체플러스ETF,하반기신규상장반도체ETF중개인순...",
   "코스피,삼성전자‘107조영업익’에도6780선…외인·기관동반매도",
@@ -6001,7 +5995,13 @@
   "압구정'신현대12차'59평,12.5억하락한100억원거래[일일하락가]",
   "로봇,삼전하닉새먹거리부상…2030년까지메모리수요20배급증",
   "삼성전자'107조역대급실적'에도…外人지분율금융위기수준으로",
-  "[기자수첩]민형배특별시…무능하거나무지하거나,혹은비겁하거나"
+  "[기자수첩]민형배특별시…무능하거나무지하거나,혹은비겁하거나",
+  "최태원‘호남팹철회설’직접진화…“용인과동시건설도검토”",
+  "외인,삼성전자역대급실적에도'팔자'…지분율금융위기이후최저",
+  "\"삼전닉스주식꽉붙잡아야하나\"…또다른성장동력떴다",
+  "ForeignownershipofSamsungfallsto18-yearlow",
+  "국책은행한계에주주환원할인…기업은행,배당확대시험대",
+  "'박스피고차방정식'…실적기대감으로금리파고넘을까"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,25 @@
   [
    "2026-10-11T14:51:04.425776+09:00",
    "민형배 비겁하거나 무지하거나 무능하거나 혹은 특별시"
+  ],
+  [
+   "2026-10-11T15:01:17.178906+09:00",
+   "주식 붙잡아야 다른 하나 떴다 삼전닉스 성장동력"
+  ],
+  [
+   "2026-10-11T15:01:17.178906+09:00",
+   "of Foreign ownership Samsung year to falls low"
+  ],
+  [
+   "2026-10-11T15:01:17.178906+09:00",
+   "할인 주주환원 기업은행 시험대 배당 확대 한계에 국책은행"
+  ],
+  [
+   "2026-10-11T15:01:17.178906+09:00",
+   "파고 박스피 기대감으로 금리 넘을까 고차방정식 실적"
   ]
  ],
- "last_run": "2026-10-11T14:51:11.853410+09:00",
+ "last_run": "2026-10-11T15:01:31.157914+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
