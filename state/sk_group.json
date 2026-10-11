@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026100810145775667",
-  "https://www.segye.com/newsView/20261008505272?OutUrl=naver",
-  "https://www.viva100.com/article/20261008500278",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069802",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493664",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407940",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855926",
   "https://www.namdonews.com/news/articleView.html?idxno=925611",
   "https://www.mt.co.kr/industry/2026/10/08/2026100714170372595",
@@ -2999,15 +2993,15 @@
   "https://economist.co.kr/article/view/ecn202610110017",
   "https://www.newsgn.com/news/articleView.html?idxno=578368",
   "https://view.asiae.co.kr/article/2026101116325880057",
-  "https://www.mt.co.kr/stock/2026/10/11/2026101114351565390"
+  "https://www.mt.co.kr/stock/2026/10/11/2026101114351565390",
+  "https://sports.donga.com/sports/article/all/20261011/134820330/1",
+  "https://sports.khan.co.kr/article/202610111640003?pt=nv",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000072371",
+  "https://www.koreajoongangdaily.com/business/foreign-stake-in-samsung-hits-2009-low/12913628",
+  "https://www.hankyung.com/article/2026101139621",
+  "https://www.hankyung.com/article/2026101139631"
  ],
  "seen_titles": [
-  "3분기반도체대기업공고102%증가…공고조회수도64%늘어",
-  "최태원,EBS‘위대한수업’첫강연자로나서…“새로운가치의자본...",
-  "유니슨,K-GX국가전략동참…\"해상풍력밸류체인국산화이끈다\"",
-  "'뉴요커'라면김용범,유시민,정용진을어떻게썼을까",
-  "전국서주목받는충북반도체고,내년3개과신입생96명모집",
-  "한투'ACE라이프자산주주가치액티브',액티브ETF중6개월초과성과1...",
   "SKT·업스테이지,11개기관과‘독자AI보안’생태계구축",
   "SKT·업스테이지'독파모',사이버보안확장나선다",
   "코스피,삼전약발에도6,800선등락...외인·기관순매도",
@@ -6001,7 +5995,13 @@
   "전세계로봇이D램싹쓸이한다…삼전·하닉,'4년뒤20배'대호황예약",
   "고성군,SK오션플랜트인수디오션과지역상생안합의'총력'",
   "[마켓ING]6600선까지밀린코스피,美물가지표주목",
-  "삼전영업익족집게예측…'7년침묵'깬리포트도"
+  "삼전영업익족집게예측…'7년침묵'깬리포트도",
+  "김경문감독·손혁단장동반퇴진…한화,류지현감독포함한새사령...",
+  "‘28전29기’광주FC,7개월만에‘감격승’···‘바루아2골·2도움...",
+  "최태원'선착공'의지…호남반도체,전력공급이관건",
+  "ForeignstakeinSamsunghits2009low",
+  "계열사대폭줄인SK…리밸런싱과AX로새성장방정식쓴다",
+  "'사회적가치'원조SK,AI만나상생넓힌다"
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,17 @@
   [
    "2026-10-11T16:41:00.268443+09:00",
    "족집게 예측 삼전 리포트도 7년 영업익 침묵"
+  ],
+  [
+   "2026-10-11T16:50:48.405129+09:00",
+   "AX로 계열사 줄인 쓴다 리밸런싱과 성장방정식 대폭"
+  ],
+  [
+   "2026-10-11T16:50:48.405129+09:00",
+   "사회적가치 만나 상생 넓힌다 원조 AI"
   ]
  ],
- "last_run": "2026-10-11T16:41:16.884109+09:00",
+ "last_run": "2026-10-11T16:50:57.522475+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
