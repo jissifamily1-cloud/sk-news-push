@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.00news.co.kr/news/articleView.html?idxno=106928",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103001",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437438",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=255730",
   "https://www.newspim.com/news/view/20261001000947",
   "https://shindonga.donga.com/3/all/13/6402691/1",
@@ -2999,12 +2996,12 @@
   "https://www.hankyung.com/article/2026101146727",
   "https://www.yna.co.kr/view/AKR20261011052051004?input=1195m",
   "https://www.knnews.co.kr/news/articleView.php?idxno=1552495",
-  "https://www.hankookilbo.com/news/article/A2026101120550003368?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026101120550003368?did=NA",
+  "https://www.news1.kr/society/incident-accident/6316122",
+  "https://biz.chosun.com/topics/topics_social/2026/10/11/YCFT234I6BAZ5GMQRP435SKRBU/",
+  "https://www.sedaily.com/article/20100233"
  ],
  "seen_titles": [
-  "153억이7억으로…법원서줄줄이뒤집히는공정위과징금[사설]",
-  "\"신세계면세점,친인척여행사에일감몰아줬나\"",
-  "삼양사·한솔제지,담합자진신고,조사협력댓가로공정위과징금전...",
   "홈플러스부터쿠팡·배민까지…정무위국감‘유통·플랫폼’줄소환",
   "임금체불·사망산재수사,근로감독관초동판단이관건",
   "개정형소법D-1,비상선포한경찰",
@@ -6001,7 +5998,10 @@
   "경찰,국정원두차례압수수색…안보실예산지원의혹수사",
   "경찰,두차례국정원압수수색…尹정부안보실예산지원의혹수사(종합...",
   "박완수지사‘관권선거의혹’13시간조사",
-  "경찰,올1·9월국정원압수수색…尹정부안보실예산불법지원의혹..."
+  "경찰,올1·9월국정원압수수색…尹정부안보실예산불법지원의혹...",
+  "경찰,국정원두차례압수수색…尹정부안보실예산지원의혹",
+  "경찰,국정원압수수색…尹정부안보실관련의혹수사",
+  "경찰,국정원두차례압수수색…尹정부안보실예산지원의혹수사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "손실보전까지 산적 담합 4사 정유 앞두고 국감 현안 심의"
   ]
  ],
- "last_run": "2026-10-11T21:40:54.231125+09:00",
+ "last_run": "2026-10-11T21:50:53.740716+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
