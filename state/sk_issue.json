@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675847",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261001.99099000396",
-  "http://www.kwangju.co.kr/article.php?aid=1790853300803915006",
   "https://view.asiae.co.kr/article/2026100120181302228",
   "https://www.etoday.co.kr/news/view/2631731",
   "https://www.news1.kr/society/incident-accident/6308238",
@@ -2999,12 +2996,12 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6857134_37012.html",
   "https://www.khan.co.kr/article/202610120600071",
   "https://biz.sbs.co.kr/article_hub/20000339238?division=NAVER",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193074"
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193074",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4025871",
+  "https://www.sedaily.com/article/20100256",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6857142_37012.html"
  ],
  "seen_titles": [
-  "강호동농협중앙회장비서구속…‘고가기념품공금구매’의혹",
-  "부산국힘“보좌진유죄선고…전재수시장,시민에사과해야”",
-  "[단독]“내친구가현수막걸어준대”…천호성전북교육감,경찰에고...",
   "경찰,동대문구통일단체압수수색…'이적단체구성'혐의",
   "\"억울한일당하면어디로가요?\"…78년만에달라지는것들",
   "‘부당노동행위’GGM압수수색…“특별시나서야”",
@@ -6001,7 +5998,10 @@
   "1부오늘의주요뉴스",
   "[단독]한동훈딸‘허위스펙의혹’경찰수사,압색영장신청전무…...",
   "담합방지역부족…과징금불과매출5%대",
-  "[월드투데이]필리핀아동성착취물'주문제작'…화면너머로음란행..."
+  "[월드투데이]필리핀아동성착취물'주문제작'…화면너머로음란행...",
+  "[이슈분석]44조담합해놓고'혈세보전'청구서…정유4사,국감서'이...",
+  "설탕도밀가루도물엿도‘줄담합’…4개사과징금만1조1916억[Pick코노...",
+  "압수수색세번무산‥장모살해·아내납치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "물가 한은 총재 방향 미국 정한다 대출금리"
   ]
  ],
- "last_run": "2026-10-12T06:20:51.162365+09:00",
+ "last_run": "2026-10-12T06:31:03.211543+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
