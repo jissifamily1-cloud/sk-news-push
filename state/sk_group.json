@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=92874",
-  "https://www.fnnews.com/news/202610081332435657",
-  "https://news.bizwatch.co.kr/article/market/2026/10/08/0021",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90198",
-  "https://www.munhwa.com/article/11622265",
-  "https://www.bloter.net/news/articleView.html?idxno=675274",
-  "https://www.newsis.com/view/NISX20261008_0003819111",
-  "https://www.hankookilbo.com/news/article/A2026100811500002469?did=NA",
-  "https://www.munhwa.com/article/11622264",
-  "https://www.apnews.kr/news/articleView.html?idxno=3051860",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364389",
   "https://www.seoultimes.news/news/article.html?no=2000100685",
   "http://www.lkp.news/news/articleView.html?idxno=84789",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2634399",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=256216",
   "https://www.yna.co.kr/view/AKR20261012008200011?input=1195m",
-  "https://www.youthdaily.co.kr/news/article.html?no=228134"
+  "https://www.youthdaily.co.kr/news/article.html?no=228134",
+  "https://www.etoday.co.kr/news/view/2634415",
+  "https://www.dt.co.kr/article/12088436",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438599",
+  "https://www.newspim.com/news/view/20261012000076",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729053",
+  "https://www.yna.co.kr/view/AKR20261012016300008?input=1195m",
+  "http://www.press9.kr/news/articleView.html?idxno=83983",
+  "https://view.asiae.co.kr/article/2026101208063084682",
+  "https://www.newspim.com/news/view/20261012000064",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438597"
  ],
  "seen_titles": [
-  "\"이대로가다간심각한상황\"…다급해진中,한국에손내민다[김리안...",
-  "상법개정효과본격화…KOSPI200기업들주주환원강화나섰다",
-  "[2026국감]출시는속전속결,책임은공방…레버리지ETF청와대개입설...",
-  "신세계免,한글날미디어아트상영外CJ대한통운·SK스토아·퍼시스그...",
-  "삼성·SK하이닉스·두산·한화등7개사…자사주취득목적·소각이행...",
-  "정의당,국회밖에서‘원외국정감사’…정부에3대현안질의",
-  "고정좌석·칸막이없애자…SK일하는방식이달라졌다",
-  "[국감2026]전현희더민주의원\"단일종목레버리지ETF도입불가피…...",
-  "삼성전자'깜짝실적'주가는뒷걸음…3분기영업이익107조돌파에도",
-  "SK쉴더스,AI자동화공격확산에'ShadowIT'경고",
   "신한은행복정역세권복합개발에2.3조자금조달…생산적금융강화",
   "국가주도가습기살균제배상시작..\"분담금다툼,피해구제막으면안돼...",
   "\"레버리지사태,외국인초단타관리실패\"지적...이억원\"위법엄정대...",
@@ -6001,7 +5991,17 @@
   "[전일주요공시]LG에너지솔루션ㆍ삼성생명ㆍHD현대마린솔루션ㆍJYPEnt....",
   "SamsungElectronics创纪录业绩仍难提振股价，市场关注高利润能否持续",
   "[전국주요신문톱뉴스](12일조간)",
-  "'몰리브덴낸드'시대임박…지오엘리먼트,고체캐니스터시장선점'정..."
+  "'몰리브덴낸드'시대임박…지오엘리먼트,고체캐니스터시장선점'정...",
+  "[오늘의투자전략]\"코스피,실적상향속반등시도…6000선후반회복...",
+  "美반도체급락여파…삼전·SK하닉,프리마켓동반하락",
+  "SK하이닉스,3분기영업익만80조…\"출하량·판가복원본격화\"",
+  "[모닝리포트]\"SK텔레콤,통신정체넘어AI인프라로\"",
+  "[프리마켓포커스]반도체투톱동반약세…국내증시0.81%하락출발",
+  "[마켓뷰]연휴서돌아온코스피,중동정세악화속반등시도하나",
+  "최태원SK회장,광주부지점검·호남반도체클러스터속도전",
+  "[굿모닝증시]코스피,7000선재도전…美CPI·반도체실적이방향가른...",
+  "[모닝리포트]\"코스피반등,반도체이익상향에달려\"",
+  "\"창신메모리,美규제에도글로벌시장점유율확대전망\""
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-10-12T08:11:06.634848+09:00",
    "선점 시대 낸드 시장 임박 고체 몰리브덴 캐니스터 지오엘리먼트"
+  ],
+  [
+   "2026-10-12T08:21:01.747820+09:00",
+   "창신메모리 시장점유율 글로벌 확대 규제에도 전망"
   ]
  ],
- "last_run": "2026-10-12T08:11:39.437242+09:00",
+ "last_run": "2026-10-12T08:21:07.354536+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
