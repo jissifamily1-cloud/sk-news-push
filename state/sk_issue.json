@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5222604",
-  "https://news.jtbc.co.kr/article/NB12320940?influxDiv=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675847",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261001.99099000396",
   "http://www.kwangju.co.kr/article.php?aid=1790853300803915006",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20261011512564?OutUrl=naver",
   "https://www.yeongnam.com/web/view.php?key=20261011022375439",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6857134_37012.html",
-  "https://www.khan.co.kr/article/202610120600071"
+  "https://www.khan.co.kr/article/202610120600071",
+  "https://biz.sbs.co.kr/article_hub/20000339238?division=NAVER",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193074"
  ],
  "seen_titles": [
-  "[단독]공정위,쿠팡에‘조사방해’제재절차돌입…심사보고서송부",
-  "경찰,동대문구통일단체압수수색…국가보안법위반혐의",
   "강호동농협중앙회장비서구속…‘고가기념품공금구매’의혹",
   "부산국힘“보좌진유죄선고…전재수시장,시민에사과해야”",
   "[단독]“내친구가현수막걸어준대”…천호성전북교육감,경찰에고...",
@@ -6001,7 +5999,9 @@
   "양영준김앤장변호사“미국은30년전에산업스파이법마련,우리도마...",
   "[아침을열며]중요한것은수사권의견제와균형이다",
   "1부오늘의주요뉴스",
-  "[단독]한동훈딸‘허위스펙의혹’경찰수사,압색영장신청전무…..."
+  "[단독]한동훈딸‘허위스펙의혹’경찰수사,압색영장신청전무…...",
+  "담합방지역부족…과징금불과매출5%대",
+  "[월드투데이]필리핀아동성착취물'주문제작'…화면너머로음란행..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "물가 한은 총재 방향 미국 정한다 대출금리"
   ]
  ],
- "last_run": "2026-10-12T06:11:00.778105+09:00",
+ "last_run": "2026-10-12T06:20:51.162365+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
