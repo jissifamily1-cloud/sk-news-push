@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1224873",
-  "https://www.wikitree.co.kr/articles/1148756",
-  "https://www.dkilbo.com/news/articleView.html?idxno=549728",
-  "https://www.abcn.kr/news/articleView.html?idxno=89941",
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=544078",
   "https://www.pressian.com/pages/articles/2026072811022814074",
   "https://lawtalknews.co.kr/article/TPQZTF690M56",
   "https://n.news.naver.com/mnews/article/214/0001514309",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20261012008200011?input=1195m",
   "http://www.press9.kr/news/articleView.html?idxno=83983",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53554",
-  "http://www.press9.kr/news/articleView.html?idxno=83994"
+  "http://www.press9.kr/news/articleView.html?idxno=83994",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200040.html",
+  "https://www.hankyung.com/article/2026101251237",
+  "https://news.tf.co.kr/read/economy/2374863.htm",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=883184",
+  "https://magazine.hankyung.com/business/article/202610125127b"
  ],
  "seen_titles": [
-  "반도체·방산수장까지국감소환…'경영부담'우려올해도되풀이",
-  "[노태우비자금]④'독립몰수제'쥔검찰…일가은닉비자금환수되나",
-  "AI·항공우주부터라면까지…K산업,중남미시장키운다",
-  "“조희대,법원행정처재제청의견묵살”…與,새의혹제기하며“직...",
-  "연휴끝,재계시선여의도로…\"일단불러\"기업인줄소환반복될까",
   "李대통령,멕시코와CEPA논의물꼬…\"韓·멕시코경협지평넓혔다\"",
   "李,멕시코와CEPA논의물꼬…투자협정개정협상도타결",
   "李대통령,5박7일미국·멕시코순방마치고귀국…유엔서평화공존구...",
@@ -6001,7 +5996,12 @@
   "[전국주요신문톱뉴스](12일조간)",
   "최태원SK회장,광주부지점검·호남반도체클러스터속도전",
   "최태원회장\"호남반도체속도감있게추진\"",
-  "SK,AI청년인재2년제'AIGEN'신설·월300만원지원"
+  "SK,AI청년인재2년제'AIGEN'신설·월300만원지원",
+  "SK,청년AI인재육성'아이젠'신설…2년간매월300만원지원",
+  "\"청년에2년간월300만원쏜다\"…최태원표'파격지원'",
+  "SK,청년AI인재프로그램'아이젠'신설…최태원철학담았다",
+  "최태원\"미중반도체증설시우리점유율줄어…최대한빨리뭔가해야...",
+  "최태원강조한전인적역량…SK,청년AI인재키운다"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-10-12T08:40:13.878600+09:00",
    "AI 지원 300만원 2년제 신설 청년인재 AIGEN"
+  ],
+  [
+   "2026-10-12T08:50:13.120530+09:00",
+   "역량 강조한 인재 청년 AI 키운다 전인적"
   ]
  ],
- "last_run": "2026-10-12T08:40:26.981952+09:00",
+ "last_run": "2026-10-12T08:50:28.387059+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
