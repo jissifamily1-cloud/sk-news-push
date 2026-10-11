@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448002",
-  "https://www.joongang.co.kr/article/25464955",
-  "https://www.ajunews.com/view/20260927124218801",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490480",
   "https://www.sedaily.com/article/20095103",
   "http://www.newstomato.com/ReadNews.aspx?no=1314798&inflow=N",
@@ -2999,12 +2996,12 @@
   "https://www.newsway.co.kr/news/view?ud=2026101117363904726",
   "https://www.etoday.co.kr/news/view/2634350",
   "https://www.kbmaeil.com/article/20261011500728",
-  "https://www.fnnews.com/news/202610111746278605"
+  "https://www.fnnews.com/news/202610111746278605",
+  "http://www.inews24.com/view/2013642",
+  "https://www.namdonews.com/news/articleView.html?idxno=925787",
+  "https://biz.chosun.com/it-science/ict/2026/10/11/7XLN5GQMGFB2ZHL5DFY46CTHOE/"
  ],
  "seen_titles": [
-  "최태원상의회장\"한-멕시코강점모아야\"..비즈니스포럼개최",
-  "추석끝나자국감전운…여야,인사·사법·반도체놓고격돌",
-  "“최태원동거인,학력위조했다”떠들던유튜버…결국1천만원배상",
   "대한상의,멕시코서비즈니스포럼개최…첨단산업협력강화모색",
   "최태원동거인김희영,'허위사실'유튜버에또승소",
   "[부고]홍수용씨(머니투데이방송부국장)모친상",
@@ -6001,7 +5998,10 @@
   "최태원\"中반도체,무서운속도로쫓아온다\"…증설속도전주문",
   "최태원SK그룹회장“반도체생산능력서둘러키워야⋯미ㆍ중증설경...",
   "최태원“美·中증설빨라지면한국점유율줄어…공장최대한빨리늘...",
-  "최태원\"中·美가더빨리반도체증설하면우리점유율줄어..우리도빨..."
+  "최태원\"中·美가더빨리반도체증설하면우리점유율줄어..우리도빨...",
+  "최태원SK회장\"美·中증설빨라지면韓점유율줄어…우리도서둘러...",
+  "[뉴스분석]SK최태원,호남반도체투자우려직접'불식'",
+  "최태원“美·中반도체증설경쟁에뒤처지면점유율하락…공장확충..."
  ],
  "recent_sigs": [
   [
@@ -6081,7 +6081,7 @@
    "생산능력 키워야 반도체 회장 증설 서둘러"
   ]
  ],
- "last_run": "2026-10-11T18:00:40.008123+09:00",
+ "last_run": "2026-10-11T18:10:23.061893+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
