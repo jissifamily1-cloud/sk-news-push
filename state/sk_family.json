@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2629499",
-  "https://www.mydaily.co.kr/page/view/2026092214280181037",
   "https://economist.co.kr/article/view/ecn202609270002",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609270017&t=NN",
   "http://www.econonews.co.kr/news/articleView.html?idxno=444856",
@@ -2999,11 +2997,11 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190013.html",
   "https://www.etnews.com/20261011000032",
   "https://www.sidae.com/article/2026100817391038881",
-  "https://www.ddaily.co.kr/page/view/2026101110535347792"
+  "https://www.ddaily.co.kr/page/view/2026101110535347792",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578796404740",
+  "https://www.segye.com/newsView/20261011506974?OutUrl=naver"
  ],
  "seen_titles": [
-  "[쩐의흔적]임원들은사고,서경배오너일가는그대로…아모레홀딩스...",
-  "이재명정부2년차,여야국정감사대격돌예고…핵심쟁점은?",
   "\"가짜선행학력위조\"…'최태원동거인'김희영,허위사실유튜버에...",
   "[포토뉴스]강릉역,고객사은행사진행",
   "\"'최태원동거인'김희영가짜선행학력위조\"…허위사실유튜버'승소...",
@@ -6001,7 +5999,9 @@
   "최태원재상고이유서13일제출시한…노소영부대상고여부주목",
   "[ET시선]2036년,호남에선반도체가만들어지고있을까?",
   "빅테크수장들잇단러브콜,K반도체'칩파워'빛난다",
-  "1000조투입하는K-GX,철강부터에너지까지제조업판바꾼다[헤비급브..."
+  "1000조투입하는K-GX,철강부터에너지까지제조업판바꾼다[헤비급브...",
+  "최태원,400조호남반도체클러스터현장점검…\"용인과동시건설할수...",
+  "최태원SK그룹회장팹공장부지방문은투자의지메시지[이슈플러스..."
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-10-11T11:10:15.123665+09:00",
    "철강부터 에너지까지 투입하는 GX 제조업 헤비급브 바꾼다 1000조"
+  ],
+  [
+   "2026-10-11T11:20:13.355747+09:00",
+   "메시지 공장 이슈플러스 회장 부지 의지 방문은 투자"
   ]
  ],
- "last_run": "2026-10-11T11:10:25.688399+09:00",
+ "last_run": "2026-10-11T11:20:27.125736+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
