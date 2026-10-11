@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspost.kr/news/articleView.html?idxno=225937",
-  "http://www.e-platform.net/news/articleView.html?idxno=105704",
-  "https://www.edaily.co.kr/News/Read?newsId=01548166645584384&mediaCodeNo=257",
   "https://news.mtn.co.kr/news-detail/2026092713245314670",
   "https://www.newspim.com/news/view/20260927000081",
   "https://www.hani.co.kr/arti/economy/marketing/1279575.html",
@@ -2999,12 +2996,12 @@
   "https://www.dt.co.kr/article/12088398",
   "https://www.etnews.com/20261011000091",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727321",
-  "https://www.fnnews.com/news/202610111824115160"
+  "https://www.fnnews.com/news/202610111824115160",
+  "https://www.edaily.co.kr/News/Read?newsId=02965126645611936&mediaCodeNo=257",
+  "https://www.joongang.co.kr/article/25468739",
+  "https://www.edaily.co.kr/News/Read?newsId=02961846645611936&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[부음]홍수용(머니투데이방송부국장)씨모친상",
-  "2029년3분기첫‘메이드인USA’HBM4E가쏟아진다",
-  "'최태원동거인'김희영,허위사실유튜버에또승소…1000만원배상",
   "최태원'한-멕시코비즈니스포럼'참석,\"양국강점모아새로운성장길...",
   "한·멕시코,AI·항공우주로협력확대…최태원“양국의강점모으자”",
   "<오늘의부고>",
@@ -6001,7 +5998,10 @@
   "“미중증설속도전,이대로면밀린다”…최태원“최대한빨리뭔가해...",
   "최태원SK회장“미·중반도체증설시우리점유율축소…최대한빨...",
   "[EBN오늘(11일)이슈종합]최태원\"미중증설시韓점유율줄어…최대...",
-  "최태원,호남반도체에힘실었지만…\"부지누가골랐나\"진실공방'시끌..."
+  "최태원,호남반도체에힘실었지만…\"부지누가골랐나\"진실공방'시끌...",
+  "미국·AI발…재계때이른'가을인사'온다",
+  "최태원“미국·중국반도체공장늘리는데…한국도서둘러야”",
+  "\"임원조기인사로관세·AI대응\"…SK10월,삼성·LG11월단행할듯"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,21 @@
   [
    "2026-10-11T18:30:23.772612+09:00",
    "호남반도체에 누가 실었지만 시끌 진실공방 부지 골랐나"
+  ],
+  [
+   "2026-10-11T18:40:13.870853+09:00",
+   "온다 때이른 미국 가을 AI발 재계 인사"
+  ],
+  [
+   "2026-10-11T18:40:13.870853+09:00",
+   "미국 한국도 늘리는데 공장 반도체 중국 서둘러야"
+  ],
+  [
+   "2026-10-11T18:40:13.870853+09:00",
+   "11월 삼성 조기 10월 단행할듯 인사로 임원 관세 대응 AI LG"
   ]
  ],
- "last_run": "2026-10-11T18:30:38.305853+09:00",
+ "last_run": "2026-10-11T18:40:32.581420+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
