@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/People/article/all/20260928/134739684/2",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=807978",
   "http://www.breaknews.com/1224873",
   "https://www.wikitree.co.kr/articles/1148756",
   "https://www.dkilbo.com/news/articleView.html?idxno=549728",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20261012008500011?input=1195m",
   "https://kpenews.com/View.aspx?No=4258889",
   "https://www.yna.co.kr/view/AKR20261012008200011?input=1195m",
-  "http://www.press9.kr/news/articleView.html?idxno=83983"
+  "http://www.press9.kr/news/articleView.html?idxno=83983",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53554",
+  "http://www.press9.kr/news/articleView.html?idxno=83994"
  ],
  "seen_titles": [
-  "與\"민생경제올인\"vs野\"李정권실정검증대로\"",
-  "한·멕시코,경제협력강화…비즈니스포럼도개최",
   "반도체·방산수장까지국감소환…'경영부담'우려올해도되풀이",
   "[노태우비자금]④'독립몰수제'쥔검찰…일가은닉비자금환수되나",
   "AI·항공우주부터라면까지…K산업,중남미시장키운다",
@@ -6001,7 +5999,9 @@
   "[전국주요신문사설](12일조간)",
   "최태원,미·중증설속도전에점유율위기..\"반도체확장서둘러야\"",
   "[전국주요신문톱뉴스](12일조간)",
-  "최태원SK회장,광주부지점검·호남반도체클러스터속도전"
+  "최태원SK회장,광주부지점검·호남반도체클러스터속도전",
+  "최태원회장\"호남반도체속도감있게추진\"",
+  "SK,AI청년인재2년제'AIGEN'신설·월300만원지원"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-10-12T08:10:13.290290+09:00",
    "12일 조간"
+  ],
+  [
+   "2026-10-12T08:40:13.878600+09:00",
+   "AI 지원 300만원 2년제 신설 청년인재 AIGEN"
   ]
  ],
- "last_run": "2026-10-12T08:30:34.782680+09:00",
+ "last_run": "2026-10-12T08:40:26.981952+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
