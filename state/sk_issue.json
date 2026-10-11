@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2002069",
-  "https://biz.heraldcorp.com/article/10890979",
-  "https://kjmbc.co.kr/NewsArticle/1539285",
-  "https://www.news1.kr/society/incident-accident/6308251",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246186",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6855276_37004.html",
-  "https://www.ngonews.kr/news/articleView.html?idxno=239700",
-  "https://www.ikbc.co.kr/article/view/kbc202610010059",
-  "https://www.nocutnews.co.kr/news/6586209",
   "https://medicalworldnews.co.kr/news/view.php?idx=1510977584",
   "https://www.donga.com/news/Society/article/all/20261001/134771807/1",
   "https://imnews.imbc.com/news/2026/society/article/6855280_36918.html",
@@ -2999,18 +2990,18 @@
   "https://www.etoday.co.kr/news/view/2634349",
   "https://www.ceoscoredaily.com/page/view/2026100815562392484",
   "https://www.yna.co.kr/view/AKR20261011042900001?input=1195m",
-  "https://www.donga.com/news/Society/article/all/20261012/134823018/1"
+  "https://www.donga.com/news/Society/article/all/20261012/134823018/1",
+  "https://www.etoday.co.kr/news/view/2634378",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246367",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448990",
+  "https://www.news1.kr/politics/assembly/6316040",
+  "https://www.wikitree.co.kr/articles/1165368",
+  "https://ic.newdaily.co.kr/site/data/html/2026/10/12/2026101200012.html",
+  "http://www.whosaeng.com/sub_read.html?uid=174306",
+  "https://www.newscj.com/news/articleView.html?idxno=3439033",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448089"
  ],
  "seen_titles": [
-  "'신혼여행성지'가어쩌다…돌연노선텅비었는데\"좌석못줄여\"",
-  "경찰,‘국가보안법위반혐의’동대문구통일단체압수수색",
-  "강호동농협중앙회장비서구속…공금으로고가기념품구매의혹",
-  "공정위,현장조사거부한쿠팡에‘과태료1억’추진",
-  "공정위,'현장조사거부'쿠팡에과태료부과절차착수…최대1억원",
-  "LG화학등석화업체6곳,16조원대담합혐의로기소",
-  "‘정보좀줘봐’증권사선·후배의은밀한대화…미공개정보로수억...",
-  "‘케이블타이’범행연관성불인정…경찰관재판영향은?",
-  "시민단체'통일로'국가보안법위반혐의…경찰,사무실압수수색",
   "BHC전경영진의혹…서울국세청조사4국투입",
   "'자격정지'당한주짓수주성현‥실격패충격딛고값진동메달",
   "경찰,통일운동단체'통일로'압수수색…'국가보안법위반'혐의수사",
@@ -6001,7 +5992,16 @@
   "홈플러스회생부터배민수수료까지…유통업계현안‘도마위’[국감...",
   "“치킨값왜안내리나”공정위칼끝에…bhc·BBQ·교촌,셈법복잡",
   "[오늘의국회일정](12일·월)",
-  "경찰,‘尹정부국가안보실에예산위법지원의혹’국정원올해두차..."
+  "경찰,‘尹정부국가안보실에예산위법지원의혹’국정원올해두차...",
+  "공정위담합적발해도…실제과징금,매출의5.8%불과‘솜방망이’논...",
+  "[오늘의주요일정·12일]복지부,제6차자살예방기본계획브리핑",
+  "[WhoIs?]김범석우아한형제들대표이사",
+  "지난해소상공인렌탈분쟁124건…테이블오더46건으로'최다'",
+  "장모살해·아내납치한20대…쏟아진취재진질문에남긴‘한마디’",
+  "109시간만진화인천쿠팡물류센터화재원인,‘리튬배터리’추정",
+  "응급의료·비급여·약배송까지…복지부국감첫주,필수의료해법집...",
+  "[세계의창]'가짜신분'얻은말들…유럽4개국불법거래의혹수사",
+  "[WhoIs?]이정호레인보우로보틱스대표이사"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "물가 한은 총재 방향 미국 정한다 대출금리"
   ]
  ],
- "last_run": "2026-10-12T07:01:09.447723+09:00",
+ "last_run": "2026-10-12T07:10:53.586630+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
