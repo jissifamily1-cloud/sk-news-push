@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsdream.kr/news/articleView.html?idxno=119652",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=48055",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192989",
-  "https://platum.kr/archives/295921",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871084",
   "https://www.dailian.co.kr/news/view/1699419/?sc=Naver",
   "https://m.sports.naver.com/basketball/article/065/0000302589",
   "https://www.ddaily.co.kr/page/view/2026100813132747196",
@@ -2999,14 +2994,14 @@
   "https://www.etoday.co.kr/news/view/2634388",
   "http://www.snmnews.com/news/articleView.html?idxno=575685",
   "https://www.knnews.co.kr/news/articleView.php?idxno=1552559",
-  "https://www.edaily.co.kr/News/Read?newsId=01974566645612264&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01974566645612264&mediaCodeNo=257",
+  "https://www.chosun.com/sports/basketball/2026/10/12/YOKZQY6L5VAIFOYDGX2PYUMXQY/",
+  "https://www.ajunews.com/view/20261006140319761",
+  "https://www.cstimes.com/news/articleView.html?idxno=723419",
+  "https://biz.sbs.co.kr/article_hub/20000339253?division=NAVER",
+  "https://www.cstimes.com/news/articleView.html?idxno=723405"
  ],
  "seen_titles": [
-  "[재계투데이]최태원,EBS위대한수업서'AI와새로운자본주의’제시...",
-  "\"저희가할일먼저하겠다\"…케이블TV,李대통령에공개서한",
-  "SKT·업스테이지,보안기업·대학9곳과'AI사이버보안협의체'출범",
-  "창원LG,스크린뷰잉파티‘SAKERSONSCREEN’진행",
-  "리밸런싱수급부담?삼성전자역대최대실적인데코스피약세",
   "태안군'금융지원·페이백이어마케팅교육'골목경제살리기나서",
   "\"우리도역할할테니살려달라\"…케이블TV,대통령에공개서한",
   "\"검색만하던AI,이제직접움직인다\"…'실행형AI'경쟁본격화",
@@ -6001,7 +5996,12 @@
   "[전날애프터마켓]삼전·하닉낙폭축소…LG엔솔상승폭확대",
   "[황병성칼럼]'밴플리트상'수상소감",
   "“철길·하늘길·바닷길잇는트리플로드속도”",
-  "SK텔레콤,급성장하는데이터센터주도권확보기대…'매수'-NH"
+  "SK텔레콤,급성장하는데이터센터주도권확보기대…'매수'-NH",
+  "또꼴찌할거라던삼성3연승,다크호스로꼽혔던현대모비스는3연패",
+  "사법·경영리스크직면한김광일MBK부회장...고려아연이사회활동'...",
+  "금융권해킹속출에도사이버보험더딘성장…'보장한도'걸림돌",
+  "[애프터마켓리뷰]AI수요에반도체기판주강세",
+  "통신3사,무선넘어AI인프라로…5조영업익이후가관건"
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,13 @@
   [
    "2026-10-12T07:50:58.536607+09:00",
    "확보 데이터센터 매수 NH 주도권 기대 SK텔레콤 급성장하는"
+  ],
+  [
+   "2026-10-12T07:54:23.055050+09:00",
+   "5조 넘어 무선 AI 인프라로 통신 3사 관건 영업익 이후가"
   ]
  ],
- "last_run": "2026-10-12T07:51:15.246474+09:00",
+ "last_run": "2026-10-12T07:54:29.226811+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
