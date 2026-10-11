@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552383",
-  "https://www.mk.co.kr/article/12161889",
-  "http://www.4th.kr/news/articleView.html?idxno=2118712",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066084",
   "https://www.dynews.co.kr/news/articleView.html?idxno=867298",
   "https://www.idaegu.com/news/articleView.html?idxno=665907",
@@ -2999,12 +2996,12 @@
   "https://gj.newdaily.co.kr/site/data/html/2026/10/09/2026100900064.html",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267641",
   "http://www.segyebiz.com/newsView/20261011515173?OutUrl=naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004432"
+  "https://www.m-i.kr/news/articleView.html?idxno=2004432",
+  "https://www.kwnews.co.kr/article/20261011501081",
+  "https://www.newscj.com/news/articleView.html?idxno=3439390",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=312891"
  ],
  "seen_titles": [
-  "'올공'봉쇄에도…세계정상과시한K-펜싱의힘",
-  "최태원\"멕시코,글로벌시장접근성갖춘중요한경제거점\"",
-  "최태원회장“한국의기술,멕시코의제조역량합쳐새성장의길열...",
   "추석이후서울집값은?…'외곽주도상승세'무게",
   "최태원대한상의회장\"멕시코는중남미핵심거점…협력가능성커\"",
   "김희영이사,허위사실유포유튜버상대손배소또승소",
@@ -6001,7 +5998,10 @@
   "최태원SK회장,광주군공항현장점검…“전남광주서공장병행건설...",
   "최태원\"美·中증설빨라지면시장점유율줄어…우리도확장서둘러야...",
   "최태원“미·중증설시우리점유율줄어”…속도전강조",
-  "최태원\"美·中빠르게증설하면韓점유율감소…우리도서둘러야\""
+  "최태원\"美·中빠르게증설하면韓점유율감소…우리도서둘러야\"",
+  "월남참전상이국가유공자기념메달전달식및복지회관준공식",
+  "최태원\"美·中증설빨라지면韓점유율줄어…생산능력확충서둘러...",
+  "최태원\"전남광주반도체,용인보다더커질수도...최고속도로착공\""
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-10-11T20:30:22.668576+09:00",
    "점유율 서둘러야 빠르게 감소 증설하면 우리도"
+  ],
+  [
+   "2026-10-11T21:10:13.868940+09:00",
+   "반도체 속도로 용인보다 전남광주 수도 커질 최고 착공"
   ]
  ],
- "last_run": "2026-10-11T21:00:42.957625+09:00",
+ "last_run": "2026-10-11T21:10:26.350826+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
