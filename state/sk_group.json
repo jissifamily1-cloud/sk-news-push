@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/112393",
-  "https://www.viva100.com/article/20261008500198",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=302265",
-  "https://www.segye.com/newsView/20260922506019?OutUrl=naver",
-  "https://www.handmk.com/news/articleView.html?idxno=43909",
-  "https://www.raonnews.com/news/article.html?no=61718",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407914",
-  "https://www.kado.net/news/articleView.html?idxno=2077091",
   "https://www.cstimes.com/news/articleView.html?idxno=723331",
   "https://www.yna.co.kr/view/AKR20261008039751008?input=1195m",
   "http://www.datanews.co.kr/news/article.html?no=146840",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20261011000072",
   "https://www.fnnews.com/news/202610111116528716",
   "https://www.g-enews.com/view.php?ud=202610111245263270fbbec65dfb_1",
-  "https://www.tokenpost.kr/news/blockchain/421017"
+  "https://www.tokenpost.kr/news/blockchain/421017",
+  "https://www.itbiznews.com/news/articleView.html?idxno=227565",
+  "http://www.kjdaily.com/article.php?aid=1791691037688679276",
+  "https://www.edaily.co.kr/News/Read?newsId=01476006645611936&mediaCodeNo=257",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=133024",
+  "https://www.m-i.kr/news/articleView.html?idxno=2003555",
+  "https://www.imaeil.com/page/view/2026101112581901820",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90279",
+  "http://www.segyebiz.com/newsView/20261011508582?OutUrl=naver"
  ],
  "seen_titles": [
-  "SKT·업스테이지,독자AI에보안입힌다…11개기관‘AI사이버보안협...",
-  "“AI해킹,보안사각지대노린다”…SK쉴더스,기업대응전략제시",
-  "마스턴운용·SK이터닉스,연료전지연계형데이터센터사업MOU",
-  "[AI해킹전쟁㊦]뚫는AIvs막는AI…보안업계'추론경쟁'막올랐다",
-  "안전성과가격다잡은LFP…LFP테마주종목별차별화장세",
-  "대광건영·모아건설산업,'송도대광로제비앙모아엘가'529가구11월공...",
-  "반도체버텼지만바이오'휘청'…코스피6790선약보합",
-  "위즈코어,AI-RAN기반피지컬AI실증선봬…주요실증시나리오소개",
   "코스피,美국채금리부담에장초반약세…외국인·기관'팔자'",
   "SK이터닉스,마스턴투자운용과연료전지연계형데이터센터추진",
   "What'greentransition'canteachSeoulaboutitsAIambitions",
@@ -6001,21 +5993,17 @@
   "“로봇D램수요,2030년까지20배증가”",
   "투자고수들,'삼전닉스'매수줄였다…반도체장비·배터리로확산[1%...",
   "키옥시아,고밀도E1.LSSD꺼내든이유…122.88TB아키텍처검증완료",
-  "[로빈후드온체인]스웜보드거래대금이하루만에9.9배로뛰어...퀄컴..."
+  "[로빈후드온체인]스웜보드거래대금이하루만에9.9배로뛰어...퀄컴...",
+  "SKT정재헌\"통신·서비스·인프라경쟁력기반토큰생태계주도권확보...",
+  "삼성전자·SK하이닉스,로봇D램수요2030년20배전망",
+  "로봇D램수요4년새20배…삼성·SK하이닉스새수요처열린다",
+  "최태원SK그룹회장,광주반도체클러스터예정지방문…\"건설속도높...",
+  "[기획]투자도바쁜데보안·안전까지…기업들'리스크관리'비상",
+  "5G데이터이월은KT뿐…월19GB쓴다면1만원대알뜰폰20GB가답",
+  "기업신용등급하향조정,기업수는줄었지만건수로는48%늘었",
+  "반도체초호황에채용시장도후끈…입시지형에도변화조짐"
  ],
  "recent_sigs": [
-  [
-   "2026-10-11T07:01:18.218631+09:00",
-   "이통3사 전망 영업이익 전년 1조4000억 3분기 육박"
-  ],
-  [
-   "2026-10-11T07:01:18.218631+09:00",
-   "SK회장 삼성전자 영업익 최태원 107조 분기 역사"
-  ],
-  [
-   "2026-10-11T07:01:18.218631+09:00",
-   "대표이사 사장 SKC 김종우"
-  ],
   [
    "2026-10-11T07:10:58.710301+09:00",
    "AI 검토 투자 엔비디아 리플렉션 고용 협상 인수 방식도"
@@ -6419,9 +6407,25 @@
   [
    "2026-10-11T12:51:02.191218+09:00",
    "스웜보드 뛰어 퀄컴 9배로 만에 거래대금이 하루"
+  ],
+  [
+   "2026-10-11T13:01:25.749791+09:00",
+   "보안 비상 안전까지 리스크 투자도 바쁜데 관리 기업들"
+  ],
+  [
+   "2026-10-11T13:01:25.749791+09:00",
+   "19GB 20GB가 알뜰폰 1만원대 데이터 5G 이월은 쓴다면 KT뿐"
+  ],
+  [
+   "2026-10-11T13:01:25.749791+09:00",
+   "기업 수는 조정 늘었 줄었지만 하향 신용등급 건수로는"
+  ],
+  [
+   "2026-10-11T13:01:25.749791+09:00",
+   "반도체 조짐 지형에도 입시 시장도 채용 후끈 초호황에 변화"
   ]
  ],
- "last_run": "2026-10-11T12:51:10.515082+09:00",
+ "last_run": "2026-10-11T13:01:39.777874+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
