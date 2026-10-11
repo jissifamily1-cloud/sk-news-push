@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493689",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077796",
-  "https://www.newsis.com/view/NISI20261008_0021481239",
-  "https://www.newsis.com/view/NISI20261008_0021481236",
   "https://www.sentv.co.kr/article/view/sentv202610080058",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=321691",
   "https://www.businessplus.kr/news/articleView.html?idxno=117891",
@@ -2999,13 +2995,13 @@
   "http://www.kwangju.co.kr/article.php?aid=1791715500804149277",
   "https://www.mk.co.kr/article/12173194",
   "https://news.ifm.kr/news/articleView.html?idxno=481329",
-  "https://www.dt.co.kr/article/12088415"
+  "https://www.dt.co.kr/article/12088415",
+  "http://www.mdilbo.com/detail/0kIA7d/759492",
+  "https://gj.newdaily.co.kr/site/data/html/2026/10/09/2026100900064.html",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267641",
+  "http://www.ujeil.com/news/articleView.html?idxno=393272"
  ],
  "seen_titles": [
-  "유니슨,한국형녹색대전환전략참여…“해상풍력공급망구축선도”",
-  "[금융권이모저모]한국투자신탁운용,ACE주주가치ETF6개월비교지수...",
-  "최태원,EBS강연자로나선다…AI·한일경제협력성장전략제시",
-  "AIDC병목,GPU·전력서메모리로…정석근SK하이퍼대표\"韓에새기회...",
   "SK하이닉스,AI환경연구소설립추진…반도체생태계탈탄소전환지원",
   "누적경상흑자2800억달러…반도체질주에연간4500억달러‘순항’(종...",
   "SK이터닉스·마스턴투자운용,국내최초'연료전지연계AI데이터센터'...",
@@ -6001,29 +5997,13 @@
   "최태원,광주행직접결정…SK‘속도전’에삼성도움직이나",
   "최태원,\"美中증설대비호남팹속도내야\"",
   "[영상]증권사들이절대'매도'의견안내는이유,집중분석",
-  "“대만이더매력적?”…외인이삼전닉스171조던진이유"
+  "“대만이더매력적?”…외인이삼전닉스171조던진이유",
+  "‘전남광주통합100일’반도체·민생체감등성과·과제뚜렷",
+  "최태원SK회장,광주군공항현장점검…“전남광주서공장병행건설...",
+  "최태원\"美·中증설빨라지면시장점유율줄어…우리도확장서둘러야...",
+  "SK에너지\"공정거래내부통제강화\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-11T14:10:58.712764+09:00",
-   "있고 책임자는 단종레 피해자만 없는"
-  ],
-  [
-   "2026-10-11T14:10:58.712764+09:00",
-   "1000조 8개로 황제주 시총 11개서 감소"
-  ],
-  [
-   "2026-10-11T14:10:58.712764+09:00",
-   "베팅하는 사는 바이오 AZ 아직 화이자 바이오는"
-  ],
-  [
-   "2026-10-11T14:10:58.712764+09:00",
-   "미운 백조 복잡해진 오리 200조 상장에"
-  ],
-  [
-   "2026-10-11T14:10:58.712764+09:00",
-   "진용 관심 다음은 가을 빨라진 어딜까 한화 인사 HD현대 재계"
-  ],
   [
    "2026-10-11T14:20:57.805287+09:00",
    "스누캣 달콤한 쌀겨의 버려지던 변신 청년 창업팀 주목 한동대"
@@ -6467,9 +6447,13 @@
   [
    "2026-10-11T20:01:25.615584+09:00",
    "171조 대만이 던진 이유 매력적 외인이 삼전닉스"
+  ],
+  [
+   "2026-10-11T20:11:02.284295+09:00",
+   "SK에너지 강화 내부통제 공정거래"
   ]
  ],
- "last_run": "2026-10-11T20:01:36.771452+09:00",
+ "last_run": "2026-10-11T20:11:07.979535+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
