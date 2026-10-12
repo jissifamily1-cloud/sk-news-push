@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673292",
-  "http://www.sisacast.kr/news/articleView.html?idxno=100441",
-  "https://www.hankyung.com/article/2026092899256",
   "https://www.mediapen.com/news/view/1126467",
   "http://www.yonhapnewstv.co.kr/news/MYH20260929054121D00",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/28/2026092890214.html",
@@ -2999,12 +2996,12 @@
   "http://www.mdilbo.com/detail/tohfpC/759498",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200177.html",
   "https://www.todayenergy.kr/news/articleView.html?idxno=304050",
-  "http://www.kjdaily.com/article.php?aid=1791779300688792276"
+  "http://www.kjdaily.com/article.php?aid=1791779300688792276",
+  "https://www.namdonews.com/news/articleView.html?idxno=925847",
+  "https://www.newstnt.com/news/articleView.html?idxno=722328",
+  "https://www.joongang.co.kr/article/25468935"
  ],
  "seen_titles": [
-  "기후노동위,이재용·최태원국감증인채택신경전…국힘\"민주당반대...",
-  "세종시의회안신일의장「지방의회법」연내제정총력촉구",
-  "권혁빈“아내에2.5조못준다”…최태원뛰어넘은역대급재산분할판...",
   "[EBN오늘(28일)이슈종합]삼전닉스앞에'메모리황금길',美30조원발...",
   "국회,지방의회법제정공청회…연내통과가속도",
   "호남권반도체산단정주여건해법찾기",
@@ -6001,7 +5998,10 @@
   "전남광주반도체산단인근'배후주거지'빠르게조성할것",
   "민형배發'SK철수설'수습총력전나섰나…'호남반도체'전력·용수...",
   "[인사]기후에너지환경부(4.5급이하승진)",
-  "호남반도체기대감에서산30%급등…금호전기·금호건설도강세"
+  "호남반도체기대감에서산30%급등…금호전기·금호건설도강세",
+  "최태원광주방문에국힘공세…정진욱\"국회가기업협박하나\"",
+  "고려대KU마음건강연구소,'생애주기별사회적고립·사회적연결회복...",
+  "“AI로문제풀어보라”…SK,청년50명뽑아월300만원씩2년지원"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,13 @@
   [
    "2026-10-12T13:30:26.892179+09:00",
    "철수설 용수 총력전 민형배 나섰나 수습 호남반도체 전력"
+  ],
+  [
+   "2026-10-12T13:50:14.788041+09:00",
+   "문제 50명 2년 AI로 뽑아 300만원씩 청년 풀어보라 지원"
   ]
  ],
- "last_run": "2026-10-12T13:40:23.766102+09:00",
+ "last_run": "2026-10-12T13:50:28.705325+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
