@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=155076",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609290053&t=NN",
-  "https://www.newspim.com/news/view/20260929000283",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=311039",
-  "https://www.kado.net/news/articleView.html?idxno=2075324",
-  "https://news.tf.co.kr/read/economy/2370617.htm",
   "https://www.dailian.co.kr/news/view/1695529/?sc=Naver",
   "https://www.seoultimes.news/news/article.html?no=2000100329",
   "https://news.ifm.kr/news/articleView.html?idxno=480450",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20261012039851008?input=1195m",
   "https://www.newscj.com/news/articleView.html?idxno=3439601",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145539",
-  "http://www.newswell.co.kr/news/articleView.html?idxno=22603"
+  "http://www.newswell.co.kr/news/articleView.html?idxno=22603",
+  "https://biz.heraldcorp.com/article/10899881",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5022632",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7189",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449083",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595455006669",
+  "https://www.seoul.co.kr/news/society/2026/10/12/20261012500201?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,젠슨황엔비디아CEO'밴플리트상'수상축하메...",
-  "최태원SK회장,젠슨황밴플리트상수상축하\"엔비디아는두뇌,SK는...",
-  "젠슨황,한미관계기여‘밴플리트상’수상…이재용·최태원도축하",
-  "최태원,젠슨황밴플리트상축하…\"AI시대한미협력이끌어\"",
-  "최태원회장,젠슨황'밴플리트상'축하…\"한미AI동맹,데이터센터...",
-  "최태원\"엔비디아는'두뇌',SK는'기억'\"···젠슨황'밴클리프상'...",
   "젠슨황띄운이재용ㆍ최태원⋯삼성·SK,엔비디아와‘AI동맹’과시",
   "최태원\"엔비디아는두뇌,SK는기억\"…젠슨황에건배",
   "최태원회장,젠슨황에\"엔비디아는두뇌,SK는기억\"축하건배사",
@@ -6001,17 +5995,15 @@
   "[특징주]\"가장빠른속도\"최태원언급에…호남반도체관련주급등(종...",
   "최태원이어산업장관도광주군공항점검…호남반도체클러스터속도...",
   "최태원회장의경고\"늦어지면점유율다뺏긴다\"K-메모리의'속도전'...",
-  "주인잃은주식,결제액'뚝'…아랫목그리운K-증시[뉴스톡웰스톡]"
+  "주인잃은주식,결제액'뚝'…아랫목그리운K-증시[뉴스톡웰스톡]",
+  "김정관산업부장관,‘서남권반도체클러스터’현장점검",
+  "최태원\"사회적가치창출이보상받는'새자본주의'앞당겨야\"",
+  "[특징주]금호건설·금호전기,호남반도체클러스터조성기대에급등",
+  "SK그룹인사시계빨라진다,하이닉스곽노정·이노베이션장용호부회...",
+  "최태원,‘이타심의경제’에시장의법칙더했다",
+  "김정관산업부장관“호남반도체산단차질없는준비를”"
  ],
  "recent_sigs": [
-  [
-   "2026-10-12T09:50:14.116751+09:00",
-   "삼성전자 반도체 질주 10월 급증 수출 전체 SK하이닉스"
-  ],
-  [
-   "2026-10-12T09:50:14.116751+09:00",
-   "전남광주 속도로 건설 최대한 반도체공장 회장 빠른"
-  ],
   [
    "2026-10-12T10:00:30.850508+09:00",
    "금호건설 강세 해운 장중 금호전기 엑시콘 한화M"
@@ -6255,9 +6247,21 @@
   [
    "2026-10-12T15:40:14.096394+09:00",
    "주식 아랫목 잃은 주인 증시 결제액 그리운"
+  ],
+  [
+   "2026-10-12T15:50:14.971130+09:00",
+   "인사 빨라진다 시계 곽노정 장용호 부회 하이닉스 이노베이션"
+  ],
+  [
+   "2026-10-12T15:50:14.971130+09:00",
+   "법칙 시장의 이타심의 더했다 경제"
+  ],
+  [
+   "2026-10-12T15:50:14.971130+09:00",
+   "준비를 김정관 산업부 장관 호남반도체산단 차질없는"
   ]
  ],
- "last_run": "2026-10-12T15:40:30.952689+09:00",
+ "last_run": "2026-10-12T15:50:37.379983+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
