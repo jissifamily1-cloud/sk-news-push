@@ -2197,7 +2197,9 @@
   "https://www.newscj.com/news/articleView.html?idxno=3439509",
   "https://www.sentv.co.kr/article/view/sentv202610120077",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=765628",
-  "https://biz.heraldcorp.com/article/10899452"
+  "https://biz.heraldcorp.com/article/10899452",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478911",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=44349"
  ],
  "seen_titles": [
   "기업은행,지난해‘ESG채권’7.3조발행…5년연속은행권최대비중",
@@ -4396,10 +4398,12 @@
   "최태원식'AI인재'육성…SK,청년인재키울'아이젠'신설",
   "“AI로문제해결할청년육성”…SK,‘아이젠’1기모집",
   "SK,AI로사회문제해결할청년인재육성...2년제비학위프로그램'SK...",
-  "AI시대청년인재키우는‘SK아이젠’"
+  "AI시대청년인재키우는‘SK아이젠’",
+  "경복대학교,경기북부AI·디지털거점센터문열어…미래형직업교육...",
+  "학력보다문제해결력…SK,최태원AI인재관담아청년육성방식바꾼..."
  ],
  "recent_sigs": [],
- "last_run": "2026-10-12T11:30:56.329118+09:00",
+ "last_run": "2026-10-12T11:40:49.608190+09:00",
  "initialized": true,
  "press_names": {
   "econonews.co.kr": "이코노뉴스",
@@ -4537,6 +4541,7 @@
   "news2day.co.kr": "뉴스투데이",
   "industrynews.co.kr": "인더스트리뉴스",
   "ezyeconomy.com": "이지경제",
-  "koreaherald.com": "The Korea Herald"
+  "koreaherald.com": "The Korea Herald",
+  "s-journal.co.kr": "S저널"
  }
 }
