@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1126467",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260929054121D00",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/28/2026092890214.html",
-  "https://www.insight.co.kr/news/570897",
-  "https://www.xportsnews.com/article/2189702",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091530229120104868",
-  "https://mpmbc.co.kr/NewsArticle/1534603",
   "https://www.ikbc.co.kr/article/view/kbc202608290031",
   "https://www.usmbc.co.kr/NewsArticle/859344",
   "https://www.newsway.co.kr/news/view?ud=2026082814544048470",
@@ -2999,16 +2992,16 @@
   "http://www.kjdaily.com/article.php?aid=1791779300688792276",
   "https://www.namdonews.com/news/articleView.html?idxno=925847",
   "https://www.newstnt.com/news/articleView.html?idxno=722328",
-  "https://www.joongang.co.kr/article/25468935"
+  "https://www.joongang.co.kr/article/25468935",
+  "https://www.ajunews.com/view/20261012134936604",
+  "https://www.etnews.com/20261012000220",
+  "https://www.joongangenews.com/news/articleView.html?idxno=554084",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881104",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88561",
+  "https://www.mediawatch.kr/news/article.html?no=261321",
+  "https://www.newsis.com/view/NISX20261012_0003822132"
  ],
  "seen_titles": [
-  "[EBN오늘(28일)이슈종합]삼전닉스앞에'메모리황금길',美30조원발...",
-  "국회,지방의회법제정공청회…연내통과가속도",
-  "호남권반도체산단정주여건해법찾기",
-  "국회기후에너지환경노동위,내달6~27일국정감사",
-  "\"일평균5000명몰렸다\"…LG생활건강,'멕시코K-엑스포'서뷰티팝업흥...",
-  "'금4개'활약빛났지만…과제도남긴한국펜싱",
-  "'가장예약어려운전시'...삼청동선혜원'거미줄작품'인기",
   "■9월29일화경제캘린더",
   "젠슨황·이재용·최태원뉴욕회동예정…“반도체·AI협력논의될듯...",
   "[트렌드포커스]기업들,청년인재육성에적극투자...장학금후원부...",
@@ -6001,7 +5994,14 @@
   "호남반도체기대감에서산30%급등…금호전기·금호건설도강세",
   "최태원광주방문에국힘공세…정진욱\"국회가기업협박하나\"",
   "고려대KU마음건강연구소,'생애주기별사회적고립·사회적연결회복...",
-  "“AI로문제풀어보라”…SK,청년50명뽑아월300만원씩2년지원"
+  "“AI로문제풀어보라”…SK,청년50명뽑아월300만원씩2년지원",
+  "[특징주]금호전기,최태원'호남반도체클러스터'속도전발언에'上'",
+  "김정관장관,'서남권반도체클러스터'현장방문…부지·전력·용수공...",
+  "SK하이닉스,삼성전자·마이크론·TSMC실적잭팟이어받나…3분기영업...",
+  "최태원광주방문두고여야격돌,국정감사증인채택논란확대",
+  "\"로봇으로D램수요20배폭증\"…반도체공장증설경쟁가열",
+  "[26.10.12증시인싸잇]최태원‘호남반도체속도전’재확인…금호전...",
+  "최태원이어산업장관도찾았다…호남반도체추진점검(종합)"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,13 @@
   [
    "2026-10-12T13:50:14.788041+09:00",
    "문제 50명 2년 AI로 뽑아 300만원씩 청년 풀어보라 지원"
+  ],
+  [
+   "2026-10-12T14:00:31.394480+09:00",
+   "산업장관도 호남 찾았다 점검 이어 반도체"
   ]
  ],
- "last_run": "2026-10-12T13:50:28.705325+09:00",
+ "last_run": "2026-10-12T14:00:44.790787+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
