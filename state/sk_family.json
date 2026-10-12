@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=83410",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=85298",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008774423&plink=ORI&cooper=NAVER",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1410352",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5012043",
-  "https://view.asiae.co.kr/article/2026092909585563078",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609290064&t=NN",
   "http://www.newsdream.kr/news/articleView.html?idxno=119025",
   "https://www.fnnews.com/news/202609291104275014",
@@ -2999,15 +2993,15 @@
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267681",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7191",
   "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91281",
-  "https://www.khan.co.kr/article/202610121610001"
+  "https://www.khan.co.kr/article/202610121610001",
+  "https://news.mtn.co.kr/news-detail/2026101215524639364",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=106929",
+  "https://www.mediapen.com/news/view/1129328",
+  "https://www.ikbc.co.kr/article/view/kbc202610120045",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610120146&t=NN",
+  "https://www.yna.co.kr/view/AKR20261012086951008?input=1195m"
  ],
  "seen_titles": [
-  "[종합]이재용·최태원,美뉴욕서젠슨황과재회…25년인연·AI동맹...",
-  "\"엔비디아는두뇌,SK는기억\"...최태원이젠슨황에게건넨축하의잔",
-  "\"엔비디아는두뇌,SK는기억\"…최태원,젠슨황에띄운헌사",
-  "삼성·SK,젠슨황‘밴플리트상’수상축하…AI동맹과시",
-  "최태원,젠슨황밴플리트상수상축하⋯“엔비디아는두뇌,SK는기...",
-  "최태원회장,\"한미동맹최전선,전장에서데이터센터로\"…젠슨황'밴...",
   "이재용·최태원,뉴욕서젠슨황수상축하…'AI동맹'재확인",
   "최태원,젠슨황에\"엔비디아는두뇌,SK는기억만든다\"",
   "최태원SK회장,젠슨황엔비디아CEO'밴플리트상'수상축하…\"AI...",
@@ -6001,13 +5995,15 @@
   "최태원\"사회적가치창출에보상받는새자본주의앞당겨야\"",
   "[증시프리즘]외국인은팔고개인은담았다…코스피6400선붕괴하는급...",
   "[산업브리핑]한화·SK·롯데",
-  "D램수요폭증속에“CXMT,연내차세대D램출시예고”…거세지는중..."
+  "D램수요폭증속에“CXMT,연내차세대D램출시예고”…거세지는중...",
+  "김정관산업부장관,광주군공항방문…‘반도체산단’점검",
+  "최태원SK그룹회장,'사회적가치'성과적용한글로벌경제아젠다제...",
+  "호남반도체전력망논란에SK최태원방문공방까지…산중위국감서'...",
+  "김정관장관\"반도체클러스터,속도전넘어전격전...2029년첫팹완공...",
+  "\"최대한빨리\"최태원언급에…주가줄줄이'불기둥'",
+  "외국인,올해코스피서199조순매도…\"시장고민은외인수급\"(종합)"
  ],
  "recent_sigs": [
-  [
-   "2026-10-12T10:30:21.595623+09:00",
-   "떼내는 AI 사업 솔리다임 키운 하이닉스가 움켜쥘까"
-  ],
   [
    "2026-10-12T10:40:13.855135+09:00",
    "4분기도 가격 상승 확대 전망 생산능력 강조 반도체"
@@ -6259,9 +6255,17 @@
   [
    "2026-10-12T16:20:14.757030+09:00",
    "폭증 D램 차세대 속에 수요 거세지는 출시 예고 연내 CXMT"
+  ],
+  [
+   "2026-10-12T16:30:24.538293+09:00",
+   "최대한 언급에 주가 빨리 불기둥 줄줄이"
+  ],
+  [
+   "2026-10-12T16:30:24.538293+09:00",
+   "순매도 외국인 올해 외인 코스피서 시장 199조 고민은 수급"
   ]
  ],
- "last_run": "2026-10-12T16:20:31.548934+09:00",
+ "last_run": "2026-10-12T16:30:43.613207+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
