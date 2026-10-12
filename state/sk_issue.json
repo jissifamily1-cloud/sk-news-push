@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=213770",
-  "https://www.mk.co.kr/article/12167404",
-  "https://www.hankookilbo.com/news/article/A2026100109110005346?did=NA",
-  "https://www.rapportian.com/news/articleView.html?idxno=240957",
   "https://www.greened.kr/news/articleView.html?idxno=351389",
   "https://www.khan.co.kr/article/202610021719001",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8676765",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20261012083700001?input=1195m",
   "https://www.hg-times.com/news/articleView.html?idxno=305960",
   "http://weekly.chosun.com/news/articleView.html?idxno=56078",
-  "http://www.jmbc.co.kr/news/view/68686"
+  "http://www.jmbc.co.kr/news/view/68686",
+  "https://www.news1.kr/economy/trend/6316784",
+  "https://www.yna.co.kr/view/AKR20261012083951002?input=1195m",
+  "https://www.hankookilbo.com/news/article/A2026101211280005760?did=NA",
+  "https://news.jtbc.co.kr/article/NB12322503?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "\"응급실압수수색,전대미문의사태…용납안돼\"의료계반발",
-  "대만전현직군장교3명,中에한광훈련정보넘긴협의로기소",
-  "공수처,'공짜홍보영상의혹'국힘윤상현의원소환조사",
-  "중수청첫날李대통령·김승원고발등30건이상접수…1호수사는",
   "롯데하이마트,가전묶음부터소형가전까지10월할인전",
   "[생생포커스]주춤한증권주…3분기이익감소전망에과징금변수까지",
   "의협“경찰,6개월영아살리던응급실압수수색…용납될수없는일”",
@@ -6001,7 +5997,11 @@
   "與\"李대통령,태릉골프때도근무태세…주진우스토킹도넘어\"",
   "경찰청장직무대행\"한동훈의원딸의혹,새로운사실나오면재수사...",
   "경찰청장대행\"한동훈딸'허위스펙의혹'재수사가능성배제안해\"",
-  "유희태완주군수경찰소환..\"공직선거법위반혐의\""
+  "유희태완주군수경찰소환..\"공직선거법위반혐의\"",
+  "주병기\"'재벌착취'표현과도했지만생각그대로\"…野\"왜곡된인식\"(...",
+  "주병기\"대한민국에개척적인의사결정하는기업몇이나있나\"(종합)",
+  "경찰청장대행\"한동훈딸'허위스펙'의혹,재수사가능성배제안해...",
+  "경찰청장대행\"한동훈딸의혹,재수사가능성배제안해\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "2곳 대상될까 담합 거대정유사 44조원대 징벌적 과징금"
   ]
  ],
- "last_run": "2026-10-12T12:30:59.702103+09:00",
+ "last_run": "2026-10-12T12:40:58.285778+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
