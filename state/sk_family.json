@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202609132034005",
-  "https://www.inthenews.co.kr/news/article.html?no=92446",
-  "https://www.edaily.co.kr/News/Read?newsId=03972086645585040&mediaCodeNo=257",
-  "https://www.m-i.kr/news/articleView.html?idxno=2000412",
-  "https://news.tf.co.kr/read/national/2370787.htm",
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=3604",
-  "https://biz.sbs.co.kr/article_hub/20000337281?division=NAVER",
-  "https://kpenews.com/View.aspx?No=4245049",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066776",
   "https://www.dt.co.kr/article/12086397",
   "https://www.socialvalue.kr/news/view/1065577664262272",
@@ -2999,17 +2991,17 @@
   "https://www.namdonews.com/news/articleView.html?idxno=925923",
   "https://www.hani.co.kr/arti/economy/economy_general/1282034.html",
   "https://www.m-i.kr/news/articleView.html?idxno=2004953",
-  "https://www.edaily.co.kr/News/Read?newsId=04490326645612264&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=04490326645612264&mediaCodeNo=257",
+  "https://www.kukinews.com/article/view/kuk202610120254",
+  "https://biz.heraldcorp.com/article/10900124",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=87404",
+  "http://www.jndn.com/article.php?aid=1791799051441020001",
+  "http://www.jndn.com/article.php?aid=1791799062441022093",
+  "https://magazine.hankyung.com/business/article/202610127139b",
+  "http://www.paxetv.com/news/articleView.html?idxno=283913",
+  "http://www.jndn.com/article.php?aid=1791799128441027003"
  ],
  "seen_titles": [
-  "최태원“엔비디아는두뇌,SK는기억…GPU보다빨리함께크자”",
-  "젠슨황,'한미관계기여'밴플리트상…\"韓과맺은우정에감사\"(종합)",
-  "젠슨황\"AI는폭주하지않아…'책임있는낙관주의'필요\"",
-  "젠슨황\"AI폭주안해‥기술발전멈추지말아야\"",
-  "최태원,젠슨황'밴플리트상'수상축하…AI·기술협력도강조",
-  "젠슨황,밴플리트상수상…이재용·최태원도축하",
-  "최태원\"엔비디아는두뇌,SK는기억\"…젠슨황수상축하",
-  "“GPU수요보다우리파트너십더빨리확장되길”",
   "이재용·최태원뉴욕총출동…젠슨황에\"한미동맹최전선\"",
   "“젠슨황축하”삼성·SK‘깐부’총출동",
   "국감기업인전선,삼성·SK·쿠팡에집중…산업계‘안도와긴장’",
@@ -6001,13 +5993,17 @@
   "\"협박성발언까지\"…국민의힘호남반도체흔들기도를넘었다",
   "최태원이어광주간김정관“반도체투자적기이행만전을”",
   "최태원,노소영재산분할상고이유서제출…\"비율산정문제있어\"",
-  "스마일게이트IPO소송2라운드내달시작…’전환권회계'가승부처[마..."
+  "스마일게이트IPO소송2라운드내달시작…’전환권회계'가승부처[마...",
+  "FC강릉,K3리그선두시흥2-1격파‘이변’…8위도약·전국체전서상...",
+  "최태원,노소영과67:33재산분할비율“부당”상고이유서제출",
+  "최태원,노소영과재산분할놓고재상고…기여도·주가반영쟁점",
+  "“국감불러야...기업협박”...산자위,최태원광주방문설전",
+  "김동철한전사장“호남반도체전력망비용20%부담”",
+  "‘노소영몫33%’못받아들인최태원…대법원재상고",
+  "최태원\"사회적가치에보상,새자본주의로\"…'ELE'서울서첫개최",
+  "김정관산업장관“서남권기업투자지원구체화”"
  ],
  "recent_sigs": [
-  [
-   "2026-10-12T13:10:14.737250+09:00",
-   "건설부터 늦어져도 가능성은 전력 구역전기 확보 반도체"
-  ],
   [
    "2026-10-12T13:30:26.892179+09:00",
    "LG 삼성 남고 떠나나 누가 인사 연말 초읽기"
@@ -6275,9 +6271,21 @@
   [
    "2026-10-12T19:00:32.641690+09:00",
    "제출 있어 재산분할 문제 상고 비율 산정 이유서"
+  ],
+  [
+   "2026-10-12T19:10:18.068472+09:00",
+   "재상고 받아들인 대법원"
+  ],
+  [
+   "2026-10-12T19:10:18.068472+09:00",
+   "서울서 가치에 자본주의로 ELE 사회적 개최 보상"
+  ],
+  [
+   "2026-10-12T19:10:18.068472+09:00",
+   "투자 서남권 지원 구체화 산업장관 김정관 기업"
   ]
  ],
- "last_run": "2026-10-12T19:00:48.511055+09:00",
+ "last_run": "2026-10-12T19:10:35.316804+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
