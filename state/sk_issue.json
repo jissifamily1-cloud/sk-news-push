@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=02440326638861368",
-  "https://www.ajunews.com/view/20240430094912358",
-  "https://biz.sbs.co.kr/article_hub/20000169169?division=NAVER",
-  "http://news.tf.co.kr/read/economy/2094877.htm",
-  "https://www.chosun.com/economy/economy_general/2024/04/30/64SQHZFSFBD7JD2XTBMGVYCAYU/",
-  "http://www.inews24.com/view/1714218",
-  "https://news.tvchosun.com/site/data/html_dir/2024/04/30/2024043090048.html",
   "https://www.dt.co.kr/contents.html?article_no=2024043002109958054001",
   "https://www.news1.kr/articles/5401074",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=7952428",
@@ -2999,16 +2992,16 @@
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914103",
   "https://www.ytn.co.kr/_ln/0134_202610121324308841",
   "https://www.sisajournal.com/news/articleView.html?idxno=389749",
-  "https://www.ikbc.co.kr/article/view/kbc202610120030"
+  "https://www.ikbc.co.kr/article/view/kbc202610120030",
+  "http://www.inews24.com/view/2013867",
+  "http://www.newstomato.com/ReadNews.aspx?no=1316288&inflow=N",
+  "https://www.khan.co.kr/article/202610121335001",
+  "https://www.hankookilbo.com/news/article/A2026101212360001634?did=NA",
+  "https://www.sisajournal.com/news/articleView.html?idxno=389746",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16244616",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274529&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "공정위,SK소속회사‘계열사채무보증위반’제재",
-  "공정위몰래SK계열사간채무보증…1.5억과징금",
-  "공정위,SK소속회사플레이스포에채무보증행위제재",
-  "공정위,'채무보증금지규정위반'SK플레이스포에과징금1억5300만원...",
-  "공정위,SK소속회사위법채무보증행위과징금1.53억부과",
-  "공정위,SK계열사‘채무보증금지규정위반’제재",
-  "공정위,채무보증금지위반한SK계열사플레이스포에과징금1억5300만...",
   "공정위,호텔지으려위법보증선'최태원여동생'경영SK소속회사에...",
   "SK계열사플레이스포,위법채무보증…공정위제재",
   "공정위,‘최태원동생’자산관리회사의불법채무보증제재…과징금...",
@@ -6001,7 +5994,14 @@
   "관세청,'9월의관세인'에우주희주무관선정",
   "장인,장모에겐'대피권고'까지...경찰도위험을알고있었다[자막뉴...",
   "경찰청장직대\"한동훈딸의혹,새사실나오면재수사가능\"",
-  "경찰청장대행\"한동훈딸의혹,새사실드러날시재수사배제않곘다..."
+  "경찰청장대행\"한동훈딸의혹,새사실드러날시재수사배제않곘다...",
+  "[2026국감]통신사부가서비스'해지7단계'?⋯방미통위\"심기일전해살...",
+  "(단독)SGI서울보증,AIA프리미어보증보험신규·한도중단",
+  "주병기“개척적의사결정할수있는기업몇이나되나”",
+  "출판단체,국내6대제지사에연내'담합손배소'예고",
+  "공정위국감,쿠팡·정유4사증인채택…의혹집중점검",
+  "'닥터X'자문한남궁인교수,고증오류인정?…\"틀린부분제작진과싸...",
+  "경찰청장직무대행\"한동훈딸사건전면재수사배제안해\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "2곳 대상될까 담합 거대정유사 44조원대 징벌적 과징금"
   ]
  ],
- "last_run": "2026-10-12T13:31:13.918255+09:00",
+ "last_run": "2026-10-12T13:40:52.578566+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
