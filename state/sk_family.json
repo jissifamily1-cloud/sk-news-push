@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260928500279",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006878",
-  "https://www.newscj.com/news/articleView.html?idxno=3436064",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448058",
-  "https://www.mydaily.co.kr/page/view/2026091108292675160",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312049",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448057",
-  "https://www.newspost.kr/news/articleView.html?idxno=225952",
-  "https://www.fnnews.com/news/202609281400197067",
-  "https://www.fntimes.com/html/view.php?ud=202609281410294390b5b890e35c_18",
-  "https://www.seoultimes.news/news/article.html?no=2000100306",
   "https://www.joongangenews.com/news/articleView.html?idxno=550058",
   "https://biz.chosun.com/opinion/leader_column/2026/09/28/H5THURSGUNAR5CNVGPFLN42AZI/",
   "https://www.ceoscoredaily.com/page/view/2026092814173404356",
@@ -2999,20 +2988,20 @@
   "https://www.wolyo.co.kr/news/articleView.html?idxno=318880",
   "https://www.busan.com/view/busan/view.php?code=2026101210064344783",
   "http://www.queen.co.kr/news/articleView.html?idxno=464500",
-  "https://www.insight.co.kr/news/577323"
+  "https://www.insight.co.kr/news/577323",
+  "https://www.joongangenews.com/news/articleView.html?idxno=543853",
+  "https://news.tf.co.kr/read/national/2374963.htm",
+  "https://news.mtn.co.kr/news-detail/2026101210153477657",
+  "https://www.imaeil.com/page/view/2026101210092051484",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90291",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=106922",
+  "https://www.widedaily.com/news/articleView.html?idxno=301843",
+  "https://www.ekn.kr/web/view.php?key=20261012028524813",
+  "https://www.inthenews.co.kr/news/article.html?no=92913",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145507",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713247"
  ],
  "seen_titles": [
-  "李,멕시코LG생건부스찾아..중남미공략속도",
-  "LG생건,멕시코K-엑스포서하루5000명'흥행몰이'",
-  "[위클리오늘]\"시민의눈으로공약을살핀다\"강릉시,민선9기공약이...",
-  "LG생활건강,멕시코K-엑스포서브랜드입지강화",
-  "비상장주식,이혼할때어떻게나눌까?[알아야보이는법(法)]",
-  "[오늘의뷰티]아모레퍼시픽·LG생활건강·애경산업·아이소이·무신사",
-  "'재제청갈등'장기화에조희대\"국감서밝힐것\"",
-  "노소영이혼소송서꺼낸'김옥숙메모',검찰로…민사증거가비자금...",
-  "﻿LG생건,멕시코K-엑스포서'인기'…중남미진출속도↑",
-  "LG생활건강,멕시코서'닥터그루트·더페이스샵'띄운다",
-  "LG생건,멕시코서'닥터그루트·더페이스샵'앞세워중남미공략",
   "LG생활건강,이선주대표도K-엑스포현장뛰었다...\"중남미적극공략\"",
   "[인터뷰]김택수선수촌장\"亞게임기점으로종목별평가…국가대표는...",
   "반도체·방산총수까지국감증인거론…기업인'줄소환'논란재연",
@@ -6001,7 +5990,18 @@
   "AI시대청년인재육성...SK,2년제비학위프로그램'아이젠'신설",
   "SK,청년50명에2년간월300만원지원…AI인재키운다",
   "SK,AI시대맞춤형인재육성프로그램'아이젠'출범",
-  "최종현의유학지원부터최태원의AI인재육성까지...SK'인재보국'잇..."
+  "최종현의유학지원부터최태원의AI인재육성까지...SK'인재보국'잇...",
+  "[종합]최대난제풀리는'800조호남반도체'…삼성전자·SK하이닉스투...",
+  "김정관장관,호남반도체클러스터후보지현장점검",
+  "최태원“광주반도체공장최대한빨리짓겠다”",
+  "최태원'호남반도체클러스터'속도전강조…관련株급등",
+  "SK,AI시대청년인재키운다…2년간월300만원지원'아이젠'출범",
+  "SK,AI시대도전·혁신청년인재지원'SKAIGEN(아이젠)'프로그램신...",
+  "SK,AI시대이끌청년인재키운다…파격지원담은'아이젠'출범",
+  "[특징주]금호전기,호남반도체클러스터추진주목…두자릿수↑",
+  "SK,AI청년인재에‘파격지원’…2년간월300만원지원",
+  "SK,청년AI인재육성위한'신개념교육프로그램'제안",
+  "하이닉스가키운솔리다임떼내는SK···최태원,AI사업움켜쥘까"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-10-12T10:10:15.078564+09:00",
    "금호전기 이유는 주가 상한가"
+  ],
+  [
+   "2026-10-12T10:30:21.595623+09:00",
+   "떼내는 AI 사업 솔리다임 키운 하이닉스가 움켜쥘까"
   ]
  ],
- "last_run": "2026-10-12T10:20:25.858015+09:00",
+ "last_run": "2026-10-12T10:30:34.715817+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
