@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026082714110050930",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=762475",
-  "https://www.mk.co.kr/article/12133244",
-  "https://www.mk.co.kr/article/12133077",
-  "https://www.news1.kr/industry/general-industry/6258604",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248486",
-  "http://amenews.kr/news/view.php?idx=67945",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=854864",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96056",
-  "https://www.sedaily.com/article/20095274",
   "https://www.newsis.com/view/NISX20260927_0003804473",
   "https://www.greened.kr/news/articleView.html?idxno=350825",
   "https://www.nongmin.com/article/20260909500647",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2634442",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445536",
   "https://www.edaily.co.kr/News/Read?newsId=02259926645612264&mediaCodeNo=257",
-  "https://www.viva100.com/article/20261012500155"
+  "https://www.viva100.com/article/20261012500155",
+  "https://www.mydaily.co.kr/page/view/2026101209153318072",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=80486",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070523",
+  "https://www.mt.co.kr/industry/2026/10/12/2026101208341652800",
+  "https://www.joongangenews.com/news/articleView.html?idxno=553956",
+  "https://www.g-enews.com/view.php?ud=202610120900109514139bf6e4b2_1",
+  "https://www.youthdaily.co.kr/news/article.html?no=228187",
+  "https://www.ajunews.com/view/20261012090134444",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279742",
+  "https://www.veritas-a.com/news/articleView.html?idxno=631273"
  ],
  "seen_titles": [
-  "<김삼기의시사펀치>3대그룹이만든대한민국의미래",
-  "전략연\"북핵'동결'부터공감대형성해야…9·19단계적복원제안\"",
-  "빅터차의‘차가운평화’...제네바합의실패되풀이하나",
-  "[한반도심포지엄]\"한미동맹,美현안에연루우려커져\"…국익중심대응...",
-  "[한반도심포지엄]\"한미동맹,美현안에연루우려↑\"…국익중심대응...",
-  "2026한반도심포지엄2세션",
-  "아파트가격'양극화'‥울산도'심화'",
-  "네이버-두나무교환비율딜레마",
-  "산업용전기요금인하‥'울산역차별?'",
-  "[8월28일자]비즈니스포스트아침의주요기사",
   "[오늘Who]최창원SK디스커버리리밸런싱정점향한다,SK가스의존도낮...",
   "몸집줄이기끝낸SK…선별재편으로남길사업고른다",
   "SK이노베이션,해쌀태양광지분절반매각...신재생에너지재편본격화",
@@ -6001,7 +5991,17 @@
   "SK,AI인재육성프로그램‘아이젠’신설…2년간매월300만원지원",
   "SK,AI시대청년인재키운다…2년제비학위인재육성프로그램'아이젠...",
   "AI시대'혁신청년인재'육성…SK,아이젠프로그램운영",
-  "‘인재보국’철학잇는다⋯SK,매월300만원주며청년커리어개척지..."
+  "‘인재보국’철학잇는다⋯SK,매월300만원주며청년커리어개척지...",
+  "SK,AI청년인재키운다…2년간매월300만원지원",
+  "SK,AI인재육성프로그램'아이젠'신설…청년50명선발",
+  "\"AI인재보국\"…SK,'SKAIGEN'2년제비학위프로그램신설",
+  "'AI인재키운다'…SK,2년제비학위프로그램'아이젠'신설",
+  "최태원SK회장,호남반도체클러스터증설속도전강조…\"中·마이크론...",
+  "SK,청년AI인재육성'아이젠'신설…2년간월300만원지원",
+  "'AI청년인재'50명육성…SK2년제'아이젠'1기모집",
+  "SK,AI인재육성프로그램'아이젠'신설…月300만원지원",
+  "SK그룹정체성담긴'아이젠',1기참가자모집",
+  "고려대KU마음건강연구소사회적고립융합연구컨소시엄출범식개최...."
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,17 @@
   [
    "2026-10-12T09:10:12.797804+09:00",
    "커리어 주며 개척 잇는다 청년 인재보국 철학 매월 300만원"
+  ],
+  [
+   "2026-10-12T09:20:13.698881+09:00",
+   "아이젠 정체성 담긴 모집 1기 참가자"
+  ],
+  [
+   "2026-10-12T09:20:13.698881+09:00",
+   "출범식 고립 컨소시엄 KU마음건강연구소 개최 융합연구 고려대 사회적"
   ]
  ],
- "last_run": "2026-10-12T09:10:30.895992+09:00",
+ "last_run": "2026-10-12T09:20:30.524809+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
