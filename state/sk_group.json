@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://kjmbc.co.kr/NewsArticle/1540359",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364422",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790658&plink=ORI&cooper=NAVER",
-  "https://www.apnews.kr/news/articleView.html?idxno=3051913",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434278",
-  "https://www.dizzotv.com/site/data/html_dir/2026/10/09/2026100980054.html",
-  "https://www.seoul.co.kr/news/society/2026/10/09/20261009500156?wlog_tag3=naver",
-  "https://mpmbc.co.kr/NewsArticle/1540335",
-  "https://www.mk.co.kr/article/12167094",
-  "https://www.kbmaeil.com/article/20261009500124",
   "https://www.thebigdata.co.kr/view.php?ud=202610081123239758e91b94b033_23",
   "https://www.globale.co.kr/news/articleView.html?idxno=40887",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682031",
@@ -2999,19 +2989,19 @@
   "https://biz.sbs.co.kr/article_hub/20000339488?division=NAVER",
   "https://news.bizwatch.co.kr/article/industry/2026/10/12/0042",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610120127&t=NN",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1333933"
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1333933",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553608090",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=868942",
+  "https://www.jasm.co.kr/news/view/321196/?sc=Naver",
+  "http://www.kwangju.co.kr/article.php?aid=1791802800804197277",
+  "http://www.kjdaily.com/article.php?aid=1791802781688877002",
+  "https://www.hankyung.com/article/2026101271787",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449123",
+  "https://www.ikbc.co.kr/article/view/kbc202610120059",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6857360_37004.html",
+  "http://www.segyebiz.com/newsView/20261012523178?OutUrl=naver"
  ],
  "seen_titles": [
-  "한국야구가뿌린씨앗…라오스·몽골·베트남,국제대회맞대결",
-  "광주찾은최태원SK그룹회장\"최대한빠르게착공할것\"",
-  "호남권반도체부지찾은최태원회장용인3분의2크기로…최대한빠...",
-  "미증시최고치인데…\"코스피석달째박스권\"왜?",
-  "최태원\"12년당겨도부족\"…400조호남반도체건설속도낸다",
-  "SK최태원,광주반도체클러스터현장첫방문…\"수요폭증대응위해...",
-  "최태원SK회장“호남권반도체클러스터속도전”",
-  "“요즘돈많은애들?서울대안간다”…확달라진韓재벌가자제들...",
-  "최태원회장,광주군공항방문..반도체공장건설점검",
-  "HBM넘어‘AI메모리종합회사’노린다[CEO라운지]",
   "27년만에반도체재도전LG…이번엔자동차‘두뇌’만든다",
   "완도군장보고한상어워드,세계6개국동포경제인6명'21세기장보고...",
   "SK최태원회장전남광주반도체부지점검···용인과병행건설",
@@ -6001,7 +5991,17 @@
   "SK최태원,상고이유서제출…노소영기여도33%에이의",
   "정유4사,국감서고개숙였다…기름값담합에손실보전까지도마",
   "美나스닥,사상최고가에도'아직저렴하다'는이유[B급기자의B급리...",
-  "셀트리온훨훨…인천송도바이오성적표주목"
+  "셀트리온훨훨…인천송도바이오성적표주목",
+  "[오피셜]\"군복무통해더단단해질것\"…훈련소입소한제주SK장민규...",
+  "충북건설산업활성화방안모색",
+  "최태원회장,상고이유서제출…노소영과67대33재산분할비율다툰다",
+  "김정관장관“호남반도체팹2029년완공·2030년초생산”",
+  "김정관산업장관도호남반도체기반시설살폈다",
+  "최태원,이혼재산분할재상고…노소영몫33%다시다툰다",
+  "최태원,'노소영33%'재산분할비율·주가상승반영다툰다…상고이유...",
+  "\"군공항이전더앞당긴다…호남반도체전력·용수문제없어\"[와이드이...",
+  "\"역대급실적에도\"삼전닉스4%급락‥코스피도두달만에6,300선으로...",
+  "[2026국감]與野,‘공정위현장조사거부’쿠팡에집중포화...‘담합..."
  ],
  "recent_sigs": [
   [
@@ -7175,9 +7175,13 @@
   [
    "2026-10-12T20:01:45.826873+09:00",
    "성적표 송도 인천 셀트리온 주목 훨훨 바이오"
+  ],
+  [
+   "2026-10-12T20:11:06.165612+09:00",
+   "쿠팡에 거부 집중포화 담합 공정위 현장조사"
   ]
  ],
- "last_run": "2026-10-12T20:01:54.430080+09:00",
+ "last_run": "2026-10-12T20:11:11.813143+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
