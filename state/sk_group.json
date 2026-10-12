@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99069",
-  "https://www.segye.com/newsView/20261009505613?OutUrl=naver",
-  "https://www.mk.co.kr/article/12171718",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6941445",
-  "https://m.sports.naver.com/kfootball/article/216/0000143118",
   "https://www.sportschosun.com/football/2026-10-10/202610100100064170004132",
   "https://www.starnewskorea.com/sports/2026/10/10/2026101015172249140",
   "http://www.osen.co.kr/article/G1112890878",
@@ -2999,14 +2994,14 @@
   "https://www.hankyung.com/article/202610127188h",
   "https://www.mk.co.kr/article/12174058",
   "https://www.mk.co.kr/article/12174057",
-  "https://www.yna.co.kr/view/AKR20261013007451072?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261013007451072?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794142&plink=ORI&cooper=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000339521?division=NAVER",
+  "https://www.munhwa.com/article/11622937",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301010540010854",
+  "https://www.news1.kr/finance/general-stock/6317495"
  ],
  "seen_titles": [
-  "[GOAL상암]코스타감독\"장민규입대-이탈로부상,해결책을찾아야한...",
-  "[k1.interview]'무패행진마감'코스타감독,\"패배할경기아니었어.....",
-  "‘100조영업익’에도삼성전자주가발목잡은AI거품론",
-  "반도체슈퍼사이클실감…3분기대기업채용공고2배늘었다",
-  "'존중가득기자회견'...김기동은제주칭찬-코스타는이영민감독부친...",
   "[GOAL상암]'기동볼시즌2오나?'김기동감독\"우승에근접...구단과재...",
   "[현장인터뷰]'우승카운트다운-7'김기동감독\"지금상황에서는근접...",
   "\"질경기아니었지만...\"코스타제주감독\"K리그최고팀들이펼친명...",
@@ -6001,7 +5996,12 @@
   "성수석이천시장\"과천경마공원유치총력\"",
   "“레버리지,막는다고안합니까”…삼전닉스막았더니3배‘속슬’더...",
   "“이제국장투자더는못하겠습니다”…3분기거래대금34%급감",
-  "유가상승·반도체약세속뉴욕증시혼조…다우홀로상승(종합)"
+  "유가상승·반도체약세속뉴욕증시혼조…다우홀로상승(종합)",
+  "코스피3.7%급락…반등활로찾을까",
+  "[외신헤드라인]메타,최고성능AI'뮤즈원더'공개",
+  "[속보]마이크론3.9%급락…美반도체주일제하락",
+  "불황에도채용문…대형건설사‘핀셋’충원",
+  "바이오빼고'반도체올인'…코스닥액티브,패시브이겼다[ETF업&다운]"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,29 @@
   [
    "2026-10-13T06:21:01.732158+09:00",
    "유가 상승 반도체 홀로 혼조 뉴욕증시 약세 다우"
+  ],
+  [
+   "2026-10-13T06:31:10.178811+09:00",
+   "찾을까 반등 급락 활로 코스피"
+  ],
+  [
+   "2026-10-13T06:31:10.178811+09:00",
+   "원더 뮤즈 공개 AI 메타 최고성능"
+  ],
+  [
+   "2026-10-13T06:31:10.178811+09:00",
+   "일제 반도체주 급락 마이크론 하락"
+  ],
+  [
+   "2026-10-13T06:31:10.178811+09:00",
+   "충원 핀셋 채용문 건설사 불황에도 대형"
+  ],
+  [
+   "2026-10-13T06:31:10.178811+09:00",
+   "바이오 코스닥 액티브 빼고 올인 반도체 패시브 이겼다"
   ]
  ],
- "last_run": "2026-10-13T06:21:15.452398+09:00",
+ "last_run": "2026-10-13T06:31:26.894048+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
