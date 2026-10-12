@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277539",
-  "https://biz.heraldcorp.com/article/10886048",
-  "http://www.bokuennews.com/news/article.html?no=284774",
-  "https://www.joongangenews.com/news/articleView.html?idxno=543853",
-  "http://www.globalepic.co.kr/view.php?ud=20260928112414694448439a4874_29",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363767",
-  "https://www.mediapen.com/news/view/1126297",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260928114700NeH",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=359632",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=616479",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=91030",
   "https://www.gukjenews.com/news/articleView.html?idxno=3707028",
   "https://www.pennmike.com/news/articleView.html?idxno=128500",
   "http://www.4th.kr/news/articleView.html?idxno=2118761",
@@ -2999,20 +2988,20 @@
   "https://www.bizwork.co.kr/news/articleView.html?idxno=419765",
   "https://www.cbci.co.kr/news/articleView.html?idxno=614346",
   "https://www.news2day.co.kr/article/20261012500079",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000072463"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000072463",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=864274",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572341017464",
+  "http://www.newstomato.com/ReadNews.aspx?no=1316273&inflow=N",
+  "https://www.joongangenews.com/news/articleView.html?idxno=553979",
+  "https://www.sedaily.com/article/20100336",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=856119",
+  "https://www.newsis.com/view/NISX20261012_0003821658",
+  "https://www.mediapen.com/news/view/1129178",
+  "http://www.ddanzi.com/896769814",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200045.html",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1186143"
  ],
  "seen_titles": [
-  "LG생활건강·아모레퍼시픽,멕시코K-엑스포서'닥터그루트·더페이스샵...",
-  "LG생활건강,멕시코서닥터그루트·더페이스샵선보여",
-  "LG생활건강,멕시코서K뷰티알렸다…중남미시장공략본격화",
-  "하루5000명몰렸다…LG생활건강,멕시코서K-뷰티공략속도",
-  "최태원,한·멕시코경제협력확대제안...\"첨단산업·에너지로넓혀야...",
-  "최태원회장“멕시코는중요한글로벌경제거점”",
-  "닥터그루트·더페이스샵,멕시코진출…LG생활건강중남미공략",
-  "LG생활건강,멕시코서K뷰티승부수…닥터그루트·더페이스샵출격",
-  "LG생활건강,멕시코시티사로잡다…멕시코K-엑스포서흥행",
-  "부고",
-  "이재용·최태원·젠슨황,뉴욕서만난다…'AI동맹'확대주목",
   "뉴욕서뭉치는AI거물3인…젠슨황·이재용·최태원'반도체담판'",
   "최태원회장“韓-멕시코,기술·제조역량합쳐새기회만들어야”",
   "닥터그루트·더페이스샵,뉴욕·LA이어멕시코상륙",
@@ -6001,7 +5990,18 @@
   "SK그룹,AI청년인재육성프로그램신설",
   "금호전기주가22%급등1만470원…최태원호남반도체부지방문에관심",
   "[N2증시풍향계]한화M&S·금호건설·금호전기·엑시콘장중강세…해운...",
-  "민형배,무안청사상시집무…의료·군공항현안직접챙긴다"
+  "민형배,무안청사상시집무…의료·군공항현안직접챙긴다",
+  "대전서구유소년야구단,대한유소년야구연맹회장배우승",
+  "SK,AI인재키운다…청년50명에2년간월300만원지원",
+  "SK,청년AI인재키운다…2년간월300만원‘파격’지원",
+  "김정관장관,호남반도체클러스터현장점검…삼성전자·SK하이닉스투...",
+  "최태원“마이크론·CXMT증설빨라”…한국반도체팹확장서둘러야",
+  "SK,AI청년인재육성나선다…2년간매월300만원지원",
+  "김정관산업장관,호남반도체부지현장점검",
+  "SK,AI청년인재육성프로그램'아이젠'출범…2년간매월300만원지원",
+  "[뉴공아카이브]박시동경제평론가·12시에만나요진행자,이광수광수...",
+  "美관세·투자압박에고금리·AI대응까지…'시계제로'경영환경에...",
+  "금호전기주가,상한가...이유는?"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,21 @@
   [
    "2026-10-12T10:00:30.850508+09:00",
    "챙긴다 상시 의료 현안 무안청사 집무 민형배 직접 군공항"
+  ],
+  [
+   "2026-10-12T10:10:15.078564+09:00",
+   "진행자 경제평론가 이광수 광수 만나요 박시동 12시에"
+  ],
+  [
+   "2026-10-12T10:10:15.078564+09:00",
+   "관세 경영환경에 제로 AI 대응까지 투자 압박에 시계 고금리"
+  ],
+  [
+   "2026-10-12T10:10:15.078564+09:00",
+   "금호전기 이유는 주가 상한가"
   ]
  ],
- "last_run": "2026-10-12T10:00:45.059171+09:00",
+ "last_run": "2026-10-12T10:10:35.630135+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
