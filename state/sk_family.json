@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260929_0003807285",
-  "https://www.mediawatch.kr/news/article.html?no=261203",
-  "https://magazine.hankyung.com/business/article/202609292292b",
-  "https://www.yna.co.kr/view/PYH20260929170700003?input=1196m",
-  "https://www.socialvalue.kr/news/view/1065597710430379",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000069549",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594155982915",
   "https://zdnet.co.kr/view/?no=20260929151621",
   "https://www.thepowernews.co.kr/view.php?ud=202609291529471908de3f0aa1be_7",
@@ -2999,15 +2993,15 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=449123",
   "https://www.ikbc.co.kr/article/view/kbc202610120059",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200420.html",
-  "http://www.kjdaily.com/article.php?aid=1791802781688877002"
+  "http://www.kjdaily.com/article.php?aid=1791802781688877002",
+  "https://www.etoday.co.kr/news/view/2634870",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=311605",
+  "https://www.edaily.co.kr/News/Read?newsId=04759286645612264&mediaCodeNo=257",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554739",
+  "http://www.kwangju.co.kr/article.php?aid=1791803100804210004",
+  "https://www.newspim.com/news/view/20261012001511"
  ],
  "seen_titles": [
-  "국조실,새만금입주기업과현장간담회…\"규제애로신속해소\"",
-  "중소기업계\"업종·기업여건반영한맞춤형고용·노동정책필요\"",
-  "새만금‘규제실험장’논의…정부,입주기업투자걸림돌점검",
-  "뉴욕서뭉친'이재용·최태원·젠슨황'…K-반도체와엔비디아의동맹",
-  "최태원SK회장,젠슨황엔비디아CEO'밴플리트상'수상축하…AI파...",
-  "\"내딸이름도매디슨\"이재용,젠슨황과깜짝공통점",
   "[재계인사이드]SK바이오팜을통해엿보는SK그룹의미래",
   "이재용·최태원,젠슨황과다시뭉쳤다…‘밴플리트상’축하하며AI...",
   "\"업종별특성살려야\"…대한상의,중소기업맞춤형고용정책제언",
@@ -6001,7 +5995,13 @@
   "최태원,'노소영33%'재산분할비율·주가상승반영다툰다…상고이유...",
   "\"군공항이전더앞당긴다…호남반도체전력·용수문제없어\"[와이드이...",
   "최태원,'노소영몫33%'에이의…재산분할다시대법으로",
-  "김정관산업장관도호남반도체기반시설살폈다"
+  "김정관산업장관도호남반도체기반시설살폈다",
+  "최태원측“노소영기여도33%부당”⋯재산분할비율대법서다툼",
+  "최태원SK회장\"사회적가치창출보상받는'새로운자본주의'앞당겨...",
+  "최태원,노소영재산분할33%불복…상고이유서제출",
+  "최태원회장“33%재산분할은부당”…상고이유서제출",
+  "“野,호남반도체공격지나치다”",
+  "최태원,노소영재산분할'33.3%'불복…대법원서다시다툰다"
  ],
  "recent_sigs": [
   [
@@ -6253,7 +6253,7 @@
    "살폈다 반도체 기반시설 호남 산업장관도 김정관"
   ]
  ],
- "last_run": "2026-10-12T20:10:28.477655+09:00",
+ "last_run": "2026-10-12T20:20:25.144707+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
