@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.e2news.com/news/articleView.html?idxno=334629",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320360",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=560889",
   "https://www.hankyung.com/article/202609118817i",
   "https://www.ytn.co.kr/_ln/0102_202609290528037969",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673292",
@@ -2999,12 +2996,12 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438716",
   "https://www.ekn.kr/web/view.php?key=20260911028253624",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445564",
-  "https://www.electimes.com/news/articleView.html?idxno=373303"
+  "https://www.electimes.com/news/articleView.html?idxno=373303",
+  "https://www.dailian.co.kr/news/view/1700361/?sc=Naver",
+  "http://www.mdilbo.com/detail/tohfpC/759498",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200177.html"
  ],
  "seen_titles": [
-  "[강남視角]호남반도체,선결조건은'물'",
-  "이재용·최태원·젠슨황,뉴욕서재회…'AI동맹'확대주목",
-  "기후위,'호남반도체'여야공방…삼성·SK총수증인신경전",
   "여야,환노위서이재용·최태원증인채택두고공방",
   "나운규'아리랑'100년…국악·성악어우러진대합창펼쳐진다",
   "기후노동위,이재용·최태원국감증인채택신경전…국힘\"민주당반대...",
@@ -6001,17 +5998,12 @@
   "여야,산자위서최태원광주방문두고공방",
   "트럼프“호르무즈파병해라”압박했는데…李대통령지지율최저",
   "최태원'호남반도체클러스터'속도전주문에…테마주급등",
-  "전력확보늦어져도반도체팹건설부터…구역전기가능성은"
+  "전력확보늦어져도반도체팹건설부터…구역전기가능성은",
+  "삼성·SK·LG연말인사초읽기…누가남고누가떠나나",
+  "전남광주반도체산단인근'배후주거지'빠르게조성할것",
+  "민형배發'SK철수설'수습총력전나섰나…'호남반도체'전력·용수..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-12T07:30:23.841187+09:00",
-   "속도 용인과 병행 가능성도 주문 건설 호남 반도체"
-  ],
-  [
-   "2026-10-12T07:30:23.841187+09:00",
-   "미국 한국도 회장 대응 속도를 AI붐 중국 반도체 증설에"
-  ],
   [
    "2026-10-12T08:10:13.290290+09:00",
    "서둘러야 속도전에 확장 점유율 증설 위기 반도체"
@@ -6199,9 +6191,21 @@
   [
    "2026-10-12T13:10:14.737250+09:00",
    "건설부터 늦어져도 가능성은 전력 구역전기 확보 반도체"
+  ],
+  [
+   "2026-10-12T13:30:26.892179+09:00",
+   "LG 삼성 남고 떠나나 누가 인사 연말 초읽기"
+  ],
+  [
+   "2026-10-12T13:30:26.892179+09:00",
+   "전남광주 조성할 인근 반도체산단 빠르게 배후주거지"
+  ],
+  [
+   "2026-10-12T13:30:26.892179+09:00",
+   "철수설 용수 총력전 민형배 나섰나 수습 호남반도체 전력"
   ]
  ],
- "last_run": "2026-10-12T13:20:22.923745+09:00",
+ "last_run": "2026-10-12T13:30:46.024605+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
