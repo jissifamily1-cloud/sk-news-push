@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008786392&plink=ORI&cooper=NAVER",
-  "https://www.ngonews.kr/news/articleView.html?idxno=239981",
-  "https://www.sedaily.com/article/20098855",
-  "https://www.ikbc.co.kr/article/view/kbc202610070022",
-  "https://www.news1.kr/local/incheon/6312501",
   "https://www.yna.co.kr/view/AKR20261007056100065?input=1195m",
   "https://www.pressian.com/pages/articles/2026100709494347017",
   "https://www.techm.kr/news/articleView.html?idxno=155892",
@@ -2999,14 +2994,14 @@
   "https://www.mk.co.kr/article/12174088",
   "https://www.insight.co.kr/news/577472",
   "https://dealsite.co.kr/articles/170483",
-  "https://www.econovill.com/news/articleView.html?idxno=753351"
+  "https://www.econovill.com/news/articleView.html?idxno=753351",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881151",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881146",
+  "https://sports.khan.co.kr/article/202610130830003?pt=nv",
+  "https://news.jtbc.co.kr/article/NB12322648?influxDiv=NAVER",
+  "https://www.ytn.co.kr/_ln/0103_202610130831026623"
  ],
  "seen_titles": [
-  "이재영\"與김재섭만빼고고소취하…김재섭죽이기\"[뉴스연구소]",
-  "李대통령말한마디에칼빼드는공정위…생리대·교복이어치킨까지",
-  "공정위,치킨빅3가격담합현장조사착수",
-  "통합앞둔대한항공···좌석·마일리지·부산거점에남은질문",
-  "\"치킨값점검\"대통령말뒤에…공정위,치킨업계담합조사",
   "최형두\"글로벌플랫폼A사,망사용료등연1조2천억부담회피\"",
   "육계값37%내렸는데치킨값은그대로…공정위,'치킨담합'전격조사",
   "“조정핵심은연결”…한성숙,AI행정·창업국가속도",
@@ -6001,7 +5996,12 @@
   "LG유플러스,회사채발행‘복붙’공시?…중대한악재는반영안돼",
   "'300억원대사기혐의'차가원원헌드레드대표,오늘1심시작",
   "[2026국감]통신3사,부가서비스해지불편논란…KT해킹은폐의혹재...",
-  "[2026국정감사]네이버토스POS공방'투닥투닥'"
+  "[2026국정감사]네이버토스POS공방'투닥투닥'",
+  "네이버와토스플레이스의갈등,공정위조사착수…결제시스템불공정...",
+  "정유업계전쟁이익논란,가격담합의혹의진실은?",
+  "전현희의원“SNS광고,책임은명확히계약은공정하게”",
+  "\"한동훈판스카이캐슬\"…김건희와닮은꼴수사질타",
+  "'장모살해'·'제주흉기살인'...막지못한참극[뉴스UP]"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "담합 셀프주유 소명하고 질타받은 개선하겠다 4사 정유"
   ]
  ],
- "last_run": "2026-10-13T08:31:03.823689+09:00",
+ "last_run": "2026-10-13T08:41:04.139602+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
