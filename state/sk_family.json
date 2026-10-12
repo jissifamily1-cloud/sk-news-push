@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260929000411",
-  "https://biz.heraldcorp.com/article/10887400",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1410346",
-  "http://www.lawissue.co.kr/view.php?ud=202609291105242247204ead0791_12",
-  "https://www.seoultimes.news/news/article.html?no=2000100331",
-  "https://www.insight.co.kr/news/575713",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277750",
   "https://www.news2day.co.kr/article/20260929500107",
   "https://www.viva100.com/article/20260929500489",
   "http://www.metroseoul.co.kr/article/20260929500141",
@@ -2999,16 +2992,16 @@
   "https://www.dt.co.kr/article/12088554",
   "http://www.yonhapnewstv.co.kr/news/AKR2026101215504276P",
   "https://www.news1.kr/photos/8154410",
-  "https://www.mk.co.kr/article/12173658"
+  "https://www.mk.co.kr/article/12173658",
+  "https://www.edaily.co.kr/News/Read?newsId=03670326645612264&mediaCodeNo=257",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000072707",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171823",
+  "https://www.kado.net/news/articleView.html?idxno=2077510",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=209507",
+  "https://www.widedaily.com/news/articleView.html?idxno=301878",
+  "http://www.breaknews.com/1242320"
  ],
  "seen_titles": [
-  "파리이어뉴욕까지…최태원곁김희영,글로벌기업무대동행확대",
-  "최태원이그린'AI시티울산'…데이터센터와공장을넘어시민의일상까...",
-  "이재용·최태원,뉴욕서젠슨황과재회…\"파트너십이GPU수요보다더...",
-  "최태원회장,젠슨황수상축하\"엔비디아는두뇌,SK는기억만든다\"",
-  "최태원\"엔비디아는두뇌,SK는기억\"…젠슨황수상축하건배",
-  "최태원,젠슨황에건배사…“엔비디아는두뇌,SK는기억”",
-  "최태원\"엔비디아는두뇌,SK는기억\"…젠슨황과'AI동맹'전면에",
   "젠슨황,뉴욕서이재용·최태원과다시뭉쳤다…\"진정한동반자\"",
   "[숏폼]'6200억과징금에밥상물가담합까지'국감장줄소환기업들명...",
   "글로벌경제인젠슨황-이재용-최태원,뉴욕서황CEO수상축하회동",
@@ -6001,21 +5994,16 @@
   "호남반도체에…野“최태원팔목비틀어”vs與“崔증인채택이기업...",
   "최태원\"기업사회공헌성과정확히측정해야…인공지능활용가능\"",
   "'사회적기업월드포럼ELE'기념촬영",
-  "삼전역대급실적에도코스피3.7%하락마감…코스닥도4.8%‘뚝’"
+  "삼전역대급실적에도코스피3.7%하락마감…코스닥도4.8%‘뚝’",
+  "'느끼는로봇·잊는AI'…서울대2개과제삼성지원받는다",
+  "호남반도체\"속도,또속도\"강조한최태원…삼전행보구체화는언제...",
+  "최태원\"사회적가치도경제적보상받아야\"…'새로운자본주의'제안",
+  "최태원\"호남반도체클러스터최대한빨리\"…금호전기·유신상한가",
+  "최태원회장\"이타심만으론사회문제못푼다…새로운자본주의필요\"",
+  "[특징주]금호전기,최태원호남반도체'속도전'발언에상한가직행",
+  "김성환기후부장관\"호남반도체팹전력·용수공급적기에완수…기..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-12T10:10:15.078564+09:00",
-   "진행자 경제평론가 이광수 광수 만나요 박시동 12시에"
-  ],
-  [
-   "2026-10-12T10:10:15.078564+09:00",
-   "관세 경영환경에 제로 AI 대응까지 투자 압박에 시계 고금리"
-  ],
-  [
-   "2026-10-12T10:10:15.078564+09:00",
-   "금호전기 이유는 주가 상한가"
-  ],
   [
    "2026-10-12T10:30:21.595623+09:00",
    "떼내는 AI 사업 솔리다임 키운 하이닉스가 움켜쥘까"
@@ -6261,7 +6249,7 @@
    "마감 하락 실적에도 삼전 코스닥도 코스피 역대급"
   ]
  ],
- "last_run": "2026-10-12T16:00:51.889554+09:00",
+ "last_run": "2026-10-12T16:10:27.547331+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
