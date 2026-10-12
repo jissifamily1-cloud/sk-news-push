@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725911",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1538874",
-  "http://www.kwangju.co.kr/article.php?aid=1790595000803770277",
   "http://www.e2news.com/news/articleView.html?idxno=334629",
   "https://www.thepublic.kr/news/articleView.html?idxno=320360",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=560889",
@@ -2999,12 +2996,12 @@
   "http://www.newsbrite.net/news/articleView.html?idxno=200846",
   "http://www.kjdaily.com/article.php?aid=1791777131688791276",
   "http://www.kjdaily.com/article.php?aid=1791777198688790276",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438716"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438716",
+  "https://www.ekn.kr/web/view.php?key=20260911028253624",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445564",
+  "https://www.electimes.com/news/articleView.html?idxno=373303"
  ],
  "seen_titles": [
-  "뉴욕서만나는이재용·최태원·젠슨황...'AI동맹'주목",
-  "장인화포스코그룹회장,법무부국감증인채택…기업인줄소환재연되...",
-  "金뒤에서‘세계경제’움직인銀[신간]",
   "[강남視角]호남반도체,선결조건은'물'",
   "이재용·최태원·젠슨황,뉴욕서재회…'AI동맹'확대주목",
   "기후위,'호남반도체'여야공방…삼성·SK총수증인신경전",
@@ -6001,7 +5998,10 @@
   "SK,청년세대위한2년제비학위프로그램'아이젠'출범",
   "금호전기·금호건설회전율상위권…급락장서20개중16개상승",
   "삼성전자·SK하이닉스4.4조거래…상위20개57.9%",
-  "여야,산자위서최태원광주방문두고공방"
+  "여야,산자위서최태원광주방문두고공방",
+  "트럼프“호르무즈파병해라”압박했는데…李대통령지지율최저",
+  "최태원'호남반도체클러스터'속도전주문에…테마주급등",
+  "전력확보늦어져도반도체팹건설부터…구역전기가능성은"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,13 @@
   [
    "2026-10-12T12:40:13.937720+09:00",
    "삼전닉 재원이었나 목적이었나 관리가 사채 전력망 한전"
+  ],
+  [
+   "2026-10-12T13:10:14.737250+09:00",
+   "건설부터 늦어져도 가능성은 전력 구역전기 확보 반도체"
   ]
  ],
- "last_run": "2026-10-12T13:00:41.631036+09:00",
+ "last_run": "2026-10-12T13:10:26.754646+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
