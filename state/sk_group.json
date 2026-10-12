@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16242755",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871469",
-  "http://www.lkp.news/news/articleView.html?idxno=84811",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16242754",
-  "https://magazine.hankyung.com/job-joy/article/202610093094d",
-  "https://www.cwn.kr/news/articleView.html?idxno=58851",
   "https://www.insight.co.kr/news/577183",
   "https://www.livebiz.today/news/articleView.html?idxno=205470",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682106",
@@ -2999,15 +2993,15 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261012205659gaF",
   "https://www.ddaily.co.kr/page/view/2026101219545187132",
   "https://www.newstnt.com/news/articleView.html?idxno=722510",
-  "https://www.yna.co.kr/view/AKR20261012142351089?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261012142351089?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793852&plink=ORI&cooper=NAVER",
+  "https://news.jtbc.co.kr/article/NB12322626?influxDiv=NAVER",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070923",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261012210551xEV",
+  "http://www.kjdaily.com/article.php?aid=1791806591688896276",
+  "http://www.metroseoul.co.kr/article/20261012500633"
  ],
  "seen_titles": [
-  "광주부지찾은최태원SK그룹회장\"호남반도체,용인의3분의2규모...",
-  "아이폰18주문15%축소…삼성전자·SK하이닉스에번진AI의역설",
-  "프로축구강원,부천잡고3위도약…대전·인천도승리",
-  "SK그룹최태원회장,광주반도체클러스터방문...\"용인과병행건설\"...",
-  "미국증시,유가하락에나스닥반등…엔비디아·테슬라상승,애플은급...",
-  "[한국건설기술연구원스마트건설지원센터보육기업CEO]계약,정산까지...",
   "최태원\"반도체클러스터,속도높여짓겠다\"…광주사업불확실성한방...",
   "최태원,호남반도체현장으로...\"최대한빠른속도로건설\"",
   "최태원,광주반도체팹부지첫방문…\"가장빠른속도로짓겠다\"",
@@ -6001,7 +5995,13 @@
   "\"패륜정치\"vs\"대통령이왕?\"…이진숙,국감제척가결",
   "정유4사,국감서고개숙였지만…담합의혹·경영진관여엔말아껴",
   "[공시]10월13일,코스피상장사52개종목자사주매수신청",
-  "中CXMT,차세대D램기술진전…\"삼전닉스에도전\"(종합)"
+  "中CXMT,차세대D램기술진전…\"삼전닉스에도전\"(종합)",
+  "공정위조사거부한쿠팡…여야한목소리질타",
+  "김정관\"호남반도체투자의지절박\"…2029년첫공장완공목표",
+  "[2026국감]SK·GS·HD현대·에쓰오일,담합의혹\"송구\"…거래관행개선...",
+  "최태원측,67:33분할비율다툰다…상고이유서제출",
+  "삼성전자·SK하이닉스거래대금10조원…반도체주에거래집중",
+  "[2026국정감사]기름값담합의혹에정유업계해명…국감서거래관행..."
  ],
  "recent_sigs": [
   [
@@ -7037,7 +7037,7 @@
    "D램 CXMT 기술 진전 삼전닉스에 도전 차세대"
   ]
  ],
- "last_run": "2026-10-12T21:01:33.250070+09:00",
+ "last_run": "2026-10-12T21:11:09.359475+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
