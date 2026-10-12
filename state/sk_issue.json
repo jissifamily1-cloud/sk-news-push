@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=617490",
-  "http://www.globalepic.co.kr/view.php?ud=20261006145513393248439a4874_29",
-  "https://www.edaily.co.kr/News/Read?newsId=04037686645610296&mediaCodeNo=257",
-  "https://www.m-i.kr/news/articleView.html?idxno=2003021",
-  "https://www.munhwa.com/article/11621687",
-  "https://www.viewsnnews.com/article?q=238887",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315753&inflow=N",
-  "https://www.newsis.com/view/NISX20261006_0003815699",
   "https://www.greened.kr/news/articleView.html?idxno=351498",
   "https://www.joongang.co.kr/article/25467478",
   "http://www.breaknews.com/1241149",
@@ -2999,17 +2991,17 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683502",
   "https://daily.hankooki.com/news/articleView.html?idxno=1413966",
   "https://www.news2day.co.kr/article/20261012500328",
-  "https://news.bizwatch.co.kr/article/industry/2026/10/12/0042"
+  "https://news.bizwatch.co.kr/article/industry/2026/10/12/0042",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=868966",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727494",
+  "https://www.ytn.co.kr/_ln/0102_202610122004314949",
+  "http://www.segyebiz.com/newsView/20261012523178?OutUrl=naver",
+  "https://www.segye.com/newsView/20261012519498?OutUrl=naver",
+  "https://www.medigatenews.com/news/2306048385",
+  "https://www.ikbc.co.kr/article/view/kbc202610120068",
+  "https://www.segye.com/newsView/20261012519303?OutUrl=naver"
  ],
  "seen_titles": [
-  "시중에판매중인‘카본러닝화’,제품별로성능등천차만별",
-  "KAI민영화다시국감으로...英·브라질은무엇을넘기고무엇을남겼나",
-  "[2026국감]유통플랫폼줄소환…‘거래관행’정조준",
-  "\"탈퇴버튼은첫화면에\"…다크패턴가이드라인나왔다",
-  "알리·테무살리려다이소압박?…李대통령\"허위사실엄정대응\"",
-  "이재용·최태원·정의선주식재산'뚝'…총수들18조증발",
-  "3분기그룹총수48명주식자산18조원↓",
-  "쿠팡·다이소조사때마다“중국편들기”...낭설에정부‘골머리’",
   "골목마다메가·컴포즈…3년새매장2배된저가커피,이제'출점'보다...",
   "환절기아이건강위해‘이것’챙겨야…미니막스의제언",
   "주병기\"알리·테무를살리기위해다이소압박?가짜뉴스\"",
@@ -6001,7 +5993,15 @@
   "경남지사‘정치공세차단’…경남공직선거법수사는?",
   "정유4사,기름값논란에사과…전량구매계약손본다",
   "[2026국감]정유2사담합의혹집중추궁...주유기개선도속도차",
-  "정유4사,국감서고개숙였다…기름값담합에손실보전까지도마"
+  "정유4사,국감서고개숙였다…기름값담합에손실보전까지도마",
+  "소상공인서빙로봇렌탈계약분쟁심각",
+  "네이버POS연동에토스만빠졌다?…국감서불공정논란",
+  "여야,현장조사거부쿠팡·탈세혐의배민질타",
+  "[2026국감]與野,‘공정위현장조사거부’쿠팡에집중포화...‘담합...",
+  "정부·여야“쿠팡,법집행무시”…한목소리비판[2026국정감사]",
+  "소아응급의학회“경찰청장대행해명은기만…소아응급센터지정반납...",
+  "6시간전부터귀가女노리고차량따라가흉기로위협...강도상해40대...",
+  "“8억대코인탈취조직,공조수사로9개월만에일망타진”[경찰서사..."
  ],
  "recent_sigs": [
   [
@@ -6049,7 +6049,7 @@
    "정유업계 돈벌이 피눈물 질타 여야 담합의혹 국민 전쟁"
   ]
  ],
- "last_run": "2026-10-12T20:01:20.848647+09:00",
+ "last_run": "2026-10-12T20:10:56.560698+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
