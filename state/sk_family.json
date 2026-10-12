@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12164435",
-  "https://www.handmk.com/news/articleView.html?idxno=43686",
-  "https://www.hankyung.com/article/202609303774H",
   "http://www.ddanzi.com/895897847",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=254439",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424023",
@@ -2999,12 +2996,12 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092171817",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=856230",
   "https://www.greened.kr/news/articleView.html?idxno=351888",
-  "https://www.kukinews.com/article/view/kuk202610130003"
+  "https://www.kukinews.com/article/view/kuk202610130003",
+  "https://news.ifm.kr/news/articleView.html?idxno=481429",
+  "https://www.newscj.com/news/articleView.html?idxno=3439752",
+  "https://www.yna.co.kr/view/AKR20261012126100898?input=1195m"
  ],
  "seen_titles": [
-  "김새롬“난여자서장훈…다산꿈,남자몸만들어와도돼”(라스)",
-  "SK,18년간핸드볼발전에1천700억원지원…아시안게임서결실",
-  "마이크론실적이후가진짜다...돈의방향가를핵심변수는",
   "[인사]대전동구정기인사발령",
   "SK그룹\"여자핸드볼12회연속올림픽본선진출전폭지원\"",
   "1천700억지원결실…SK후원속한국핸드볼아시안게임선전",
@@ -6001,7 +5998,10 @@
   "최태원'속도전'선언에도…호남팹,땅값·인프라리스크'첩첩산중'",
   "[출근길브리핑-10월13일]李대통령'주사의혹'DN오토모티브엄중대...",
   "최태원,대법원에상고이유서제출...'노태우비자금'빼고도노소영몫...",
-  "최태원,‘노소영몫재산분할33%’불복…상고이유서제출"
+  "최태원,‘노소영몫재산분할33%’불복…상고이유서제출",
+  "최태원\"AI시대,시험잘보는인재보다변화에적응하는인재\"…SK,청...",
+  "[천지일보이슈종합]국정감사·정청래비자지연·미국대북정보공유...",
+  "'한일협력'미래경제포럼11월3일개최…오늘부터사전등록"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-10-13T06:40:13.786729+09:00",
    "상고이유서 재산분할 제출 불복"
+  ],
+  [
+   "2026-10-13T07:10:14.912115+09:00",
+   "국정감사 비자 정청래 정보공유 지연 미국 대북"
+  ],
+  [
+   "2026-10-13T07:10:14.912115+09:00",
+   "미래경제포럼 오늘부터 개최 11월3일 사전등록 한일협력"
   ]
  ],
- "last_run": "2026-10-13T07:00:44.419169+09:00",
+ "last_run": "2026-10-13T07:10:29.961865+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
