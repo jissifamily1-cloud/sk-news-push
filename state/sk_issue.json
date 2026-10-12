@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610061136064266",
-  "https://www.mt.co.kr/society/2026/10/06/2026100611175447145",
-  "https://www.yna.co.kr/view/AKR20261006086200004?input=1195m",
-  "https://www.news1.kr/society/incident-accident/6311331",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726808",
-  "https://www.ikbc.co.kr/article/view/kbc202610060023",
-  "https://www.newsis.com/view/NISX20261006_0003815483",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223265",
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171032",
   "https://www.dt.co.kr/article/12087593",
   "http://www.queen.co.kr/news/articleView.html?idxno=464305",
@@ -2999,17 +2991,17 @@
   "https://news.jtbc.co.kr/article/NB12322558?influxDiv=NAVER",
   "https://www.kwnews.co.kr/article/20261012501519",
   "https://www.hani.co.kr/arti/opinion/editorial/1282023.html",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41000"
+  "https://www.globale.co.kr/news/articleView.html?idxno=41000",
+  "http://www.finomy.com/news/articleView.html?idxno=263369",
+  "https://www.busan.com/view/busan/view.php?code=2026101218472603509",
+  "https://www.idomin.com/news/articleView.html?idxno=2016754",
+  "https://www.idomin.com/news/articleView.html?idxno=2016753",
+  "https://www.hani.co.kr/arti/society/society_general/1282032.html",
+  "https://www.namdonews.com/news/articleView.html?idxno=925910",
+  "https://www.kyeonggi.com/article/20261012580644",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086949"
  ],
  "seen_titles": [
-  "'신약청탁의혹'김승원고발5건…\"제넨셀2심판결문참고\"",
-  "의대교수협,경찰압수수색비판…응급실수사지침마련촉구",
-  "‘325일감금환자’등4명사망…인권위,인천원병원고발",
-  "경기남부청\"추미애'12억관사'고발사건,자료확보중\"",
-  "[전문]“장동혁·주진우·한동훈발언파묘!,암살자(들)향한비열한...",
-  "서울청장\"개정형소법시행후현장애로보고없어…중수청과긴밀협...",
-  "경찰,'업무상횡령'농협중앙회직원구속…DMZ고발건서울청수사",
-  "고범석서울청장\"암살자(들)배우위해·협박엄정조치할것\"",
   "경찰,\"김승원통해식약처청탁명백\"제넨셀창업주2심판결문분석",
   "공정위,'다크패턴'기준구체화…가이드라인배포",
   "[속보]고범석서울청장\"영화'암살자(들)'배우위해·협박엄정대응…...",
@@ -6001,7 +5993,15 @@
   "\"논문대필\"vs\"아빠찬스\"…김민석-한동훈'자녀파묘전쟁'",
   "[속보]장모살인하고아내납치한20대에구속영장…존속살해·특수감금...",
   "[사설]한동훈딸‘허위스펙’수사,봐주기수사아니었나",
-  "여야,SK에너지·HD현대오일뱅크정유담합에'전쟁돈벌이'질타"
+  "여야,SK에너지·HD현대오일뱅크정유담합에'전쟁돈벌이'질타",
+  "[2026국감]박성훈의원\"담합왜곡가격,국민세금으로보전안돼\"",
+  "“최선다하겠다”만외친조주연…홈플러스정상화깜깜",
+  "국감2주차,병역특례·공공기관통합·검찰개혁후속조치등쟁점",
+  "'경찰조사박완수'경남도확대해석경계,민주당·진보당\"수사기관압...",
+  "경찰,장모살해·아내납치한20대남성에구속영장신청",
+  "심야귀가여성흉기로위협해금품빼앗으려한40대구속",
+  "[단독]인천동물병원원장,의료용마약투약의혹…식약처압수수색...",
+  "환경특사경수사전문성우려…대구환경청전문인력1명"
  ],
  "recent_sigs": [
   [
@@ -6049,7 +6049,7 @@
    "정유업계 돈벌이 피눈물 질타 여야 담합의혹 국민 전쟁"
   ]
  ],
- "last_run": "2026-10-12T18:40:55.268700+09:00",
+ "last_run": "2026-10-12T18:51:02.689627+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
