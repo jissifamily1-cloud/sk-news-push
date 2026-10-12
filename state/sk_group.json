@@ -1,18 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1585555",
-  "https://mhnse.com/news/articleView.html?idxno=1585548",
-  "https://mhnse.com/news/articleView.html?idxno=1585532",
-  "https://mhnse.com/news/articleView.html?idxno=1585530",
-  "https://mhnse.com/news/articleView.html?idxno=1585540",
-  "https://mhnse.com/news/articleView.html?idxno=1585552",
-  "https://mhnse.com/news/articleView.html?idxno=1585544",
-  "https://mhnse.com/news/articleView.html?idxno=1585556",
-  "https://mhnse.com/news/articleView.html?idxno=1585538",
-  "https://mhnse.com/news/articleView.html?idxno=1585518",
-  "https://mhnse.com/news/articleView.html?idxno=1585522",
-  "https://mhnse.com/news/articleView.html?idxno=1585521",
-  "https://mhnse.com/news/articleView.html?idxno=1585520",
   "http://www.osen.co.kr/article/G1112890931",
   "https://www.dailian.co.kr/news/view/1699926/?sc=Naver",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=278544",
@@ -2999,22 +2986,22 @@
   "https://www.yna.co.kr/view/AKR20261012126100898?input=1195m",
   "https://www.mk.co.kr/article/12174037",
   "https://www.sedaily.com/article/20100547",
-  "https://www.mk.co.kr/article/12173958"
+  "https://www.mk.co.kr/article/12173958",
+  "http://www.newskr.kr/news/articleView.html?idxno=107090",
+  "https://www.kbmaeil.com/article/20261013500017",
+  "https://www.hankyung.com/article/2026101375226",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172143",
+  "https://www.mk.co.kr/article/12174065",
+  "https://www.etoday.co.kr/news/view/2634887",
+  "https://www.vegannews.co.kr/news/article.html?no=392336",
+  "https://www.vegannews.co.kr/news/article.html?no=392335",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494634",
+  "https://biz.sbs.co.kr/article_hub/20000339535?division=NAVER",
+  "https://www.dailian.co.kr/news/view/1700606/?sc=Naver",
+  "https://view.asiae.co.kr/article/2026101214550156886",
+  "https://www.g-enews.com/view.php?ud=202610130700425201fbbec65dfb_1"
  ],
  "seen_titles": [
-  "[mhn포토]김재희,또하나의버디를위해",
-  "[mhn포토]김재희,핀하이로날린다",
-  "[mhn포토]김재희,손인사로출발",
-  "[mhn포토]김재희,째야미소가득출발",
-  "[mhn포토]김재희,버디성공후째야미소",
-  "[mhn포토]김재희,두눈감고우승바라기",
-  "[mhn포토]김재희,퍼터를일자로",
-  "[mhn포토]김재희,파워실어날린다",
-  "[mhn포토]김재희,타구방향확인",
-  "[mhn포토]김재희,신나는미소",
-  "[mhn포토]김재희,이악물고날린다",
-  "[mhn포토]김재희,이미지스윙으로스윙점검",
-  "[mhn포토]김재희,허투루볼수없다",
   "[mhn포토]김재희,핀정조준",
   "민감한'대표팀'질문에농담으로답했다...대표팀GK구성윤,\"94년생인...",
   "‘클리말라결승포’서울,제주꺾고10년만의우승까지승점7",
@@ -6001,7 +5988,20 @@
   "'한일협력'미래경제포럼11월3일개최…오늘부터사전등록",
   "“1억이7000만원됐는데30%오르면본전?”…개미들이빠지는착각",
   "‘43조ADC시장’뚫어라…K바이오,美서수주전",
-  "매경이전하는세상의지식(매-세-지,10월13일)"
+  "매경이전하는세상의지식(매-세-지,10월13일)",
+  "[오늘의이슈]코스피3.65%급락…브렌트106달러",
+  "주식199조원판외국인,ETF는9.7조원샀다…반도체에도자금유입",
+  "中\"D램기술진전\"주장에반도체주약세…국제유가도급등[뉴욕증시...",
+  "반도체주'추락'...미국증시'혼조',SK하이닉스ADR'4%뚝'",
+  "삼성,AI추론메모리‘풀스택’승부수",
+  "뉴욕증시,반도체약세ㆍ사우디피격속혼조마감⋯나스닥0.44%↓[종합...",
+  "SK증권계약해지에경남제약195억원증자철회",
+  "SK이터닉스,솔라닉스육호와431억원대태양광용역계약",
+  "외국인,레버리지·인버스동시매수…코스피방향성놓고신중론",
+  "[마켓브리핑]中창신차세대메모리기술진전…반도체주'휘청'",
+  "코스피이익4.6배늘었는데…삼성운용이꼽은AI시대투자처는",
+  "SK하이닉스,목표주가400만원유지하는이유…“환율이기는실적”[클...",
+  "중국산전력망막자AI배터리멈출판…트럼프서명에美기술업계긴..."
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,37 @@
   [
    "2026-10-13T07:11:07.964898+09:00",
    "지식 10월 전하는 매경이 13일 세상의"
+  ],
+  [
+   "2026-10-13T07:21:01.372370+09:00",
+   "경남제약 철회 증자 195억원 해지에 계약 SK증권"
+  ],
+  [
+   "2026-10-13T07:21:01.372370+09:00",
+   "솔라닉스육호와 SK이터닉스 431억원대 계약 용역 태양광"
+  ],
+  [
+   "2026-10-13T07:21:01.372370+09:00",
+   "외국인 레버리지 매수 놓고 인버스 코스피 동시 신중론 방향성"
+  ],
+  [
+   "2026-10-13T07:21:01.372370+09:00",
+   "휘청 기술 차세대 메모리 반도체주 진전 창신"
+  ],
+  [
+   "2026-10-13T07:21:01.372370+09:00",
+   "AI 꼽은 6배 시대 투자처는 늘었는데 삼성운용이 코스피 이익"
+  ],
+  [
+   "2026-10-13T07:21:01.372370+09:00",
+   "유지하는 목표주가 400만원 실적 환율 SK하이닉스 이기는 이유"
+  ],
+  [
+   "2026-10-13T07:21:01.372370+09:00",
+   "전력망 AI 기술업계 멈출 배터리 막자 서명에 중국산 트럼프"
   ]
  ],
- "last_run": "2026-10-13T07:11:38.721260+09:00",
+ "last_run": "2026-10-13T07:21:25.544991+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
