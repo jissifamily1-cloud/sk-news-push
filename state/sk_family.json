@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192612",
-  "https://news.tf.co.kr/read/economy/2371145.htm",
   "https://www.ekn.kr/web/view.php?key=20260930021500222",
   "https://www.tfmedia.co.kr/news/article.html?no=207586",
   "https://www.news1.kr/entertain/celebrity-topic/6305635",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20261013017300011?input=1195m",
   "http://www.breaknews.com/1242497",
   "https://www.starnewskorea.com/broadcast-show/2026/10/13/2026101308055074514",
-  "https://www.kado.net/news/articleView.html?idxno=2077703"
+  "https://www.kado.net/news/articleView.html?idxno=2077703",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=302464",
+  "https://biz.sbs.co.kr/article_hub/20000339550?division=NAVER"
  ],
  "seen_titles": [
-  "SK그룹18년핸드볼후원,아시안게임여자금메달·남자4강결실",
-  "최태원,젠슨황밴플리트상축하…\"SK는엔비디아의기억\"AI협력강조",
   "\"둘다딸이매디슨\"…이재용,젠슨황수상축사에빵터졌다",
   "[뉴공아카이브]김준형조국혁신당원내대표·전국립외교원장,최종건...",
   "리밸런싱으로자회사부실턴SK최창원...개미에겐유증'폭탄'됐다",
@@ -6001,7 +5999,9 @@
   "[전국주요신문톱뉴스](13일조간)",
   "국민의힘장동혁·정점식,당정쇄신및사법부압박규탄",
   "'60대제니'박준금\"43kg33사이즈\"힙한몸매..비결뭐길래[라스]",
-  "최태원,'노소영몫재산분할33%'불복…상고이유서제출"
+  "최태원,'노소영몫재산분할33%'불복…상고이유서제출",
+  "[박정식의국내주식시황]CXMT영향에반도체주차익매물출회됬지만...",
+  "[기업이슈]호르무즈통항75%급감에해운주강세"
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,17 @@
   [
    "2026-10-13T08:10:14.381219+09:00",
    "압박 당정 정점식 장동혁 쇄신 사법부 규탄 국민의힘"
+  ],
+  [
+   "2026-10-13T08:30:22.387158+09:00",
+   "반도체주 매물 영향에 CXMT 됬지만 차익 출회"
+  ],
+  [
+   "2026-10-13T08:30:22.387158+09:00",
+   "급감에 통항 강세 호르무즈 해운주"
   ]
  ],
- "last_run": "2026-10-13T08:20:25.251663+09:00",
+ "last_run": "2026-10-13T08:30:36.474821+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
