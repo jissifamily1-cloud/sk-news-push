@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/politics/2026/10/06/2026100615302368414",
-  "https://www.huffingtonpost.kr/article/261015",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1412359",
-  "https://www.mt.co.kr/politics/2026/10/06/2026100615184720497",
-  "https://www.news1.kr/local/incheon/6311813",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678697",
-  "https://news.tf.co.kr/read/economy/2373474.htm",
   "https://www.yna.co.kr/view/AKR20261006157800030?input=1195m",
   "https://www.sisajournal.com/news/articleView.html?idxno=389283",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036785",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261012_0003822928",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424262",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=562095",
-  "https://news.jtbc.co.kr/article/NB12322600?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12322600?influxDiv=NAVER",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=596348",
+  "https://www.greened.kr/news/articleView.html?idxno=351873",
+  "https://www.mk.co.kr/article/12174015",
+  "https://www.news1.kr/society/incident-accident/6317528",
+  "https://www.donga.com/news/Politics/article/all/20261012/134828766/1",
+  "http://www.segyebiz.com/newsView/20261012524320?OutUrl=naver",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171855"
  ],
  "seen_titles": [
-  "공정위,다크패턴방지가이드라인배포…온라인상거래불공정관행제...",
-  "[단독]공정위\"KAI민영화,범부처차원서논의한바없다\"...한화인수...",
-  "여야,경찰소아응급실압수수색에\"진료방해없도록기준필요\"",
-  "압수수색이어국회넘은'응급실환자강제수용법'…소아응급실'휘청...",
-  "수장없이문열고고소장수기관리…중수청‘개문발차’국감도마...",
-  "김현정,김재섭국감첫날경찰조사논란에\"정치자작극유감\"",
-  "쿠팡'개인정보·공정거래위반'국감행:이번엔증인채택넘어책임...",
   "李,다이소'中플랫폼밀어주기'논란에\"국정방해허위사실엄정대응...",
   "'김재섭자작극논란'에정무위충돌…與\"탄압?사과하라\"野\"모독\"",
   "경찰,'반년간환자4명사망'인천정신병원진료기록등압색(종합)",
@@ -6001,7 +5994,14 @@
   "국감2주차첫날…여야,경찰수사공정성·감사원중립성공방(종합)",
   "국감장나온토스\"네이버,POS연동2년간퇴짜\"···네이버는\"자체주...",
   "與\"한동훈딸의혹,봐주기수사\"vs韓\"정치보복\"",
-  "장모살해뒤아내납치…붙잡히자\"양양엔바람쐬러\""
+  "장모살해뒤아내납치…붙잡히자\"양양엔바람쐬러\"",
+  "경남가습기살균제피해자발굴쉽지않아",
+  "[단독]쿠팡·배민'배달비수수료슈킹'논란,결국공정위로···\"미지...",
+  "“속여도남는장사?”…공정위제재비웃는기업들‘배짱광고’",
+  "경찰청장대행\"편파수사차단\"다짐에도…국감서'공정성·수사력'뭇매...",
+  "“경기‘與지지철회’심각…추미애그냥둘수없는상황”[정치를...",
+  "접근금지끝나자마자…장모살해하고아내감금한20대‘계획범죄’정...",
+  "담합의혹·거래관행질타에정유4사\"국민께송구\"[국감2026]"
  ],
  "recent_sigs": [
   [
@@ -6049,7 +6049,7 @@
    "정유업계 돈벌이 피눈물 질타 여야 담합의혹 국민 전쟁"
   ]
  ],
- "last_run": "2026-10-12T21:20:58.087294+09:00",
+ "last_run": "2026-10-12T21:31:06.180145+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
