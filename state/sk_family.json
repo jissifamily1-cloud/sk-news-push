@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20095715",
-  "https://www.peoplewatch.co.kr/article/view/ppw202609280013",
   "http://www.ikoreanspirit.com/news/articleView.html?idxno=87467",
   "https://daily.hankooki.com/news/articleView.html?idxno=1410160",
   "https://www.ekn.kr/web/view.php?key=20260928025069618",
@@ -2999,11 +2997,11 @@
   "https://www.s-journal.co.kr/news/articleView.html?idxno=44349",
   "https://biz.heraldcorp.com/article/10899518",
   "https://biz.sbs.co.kr/article_hub/20000339333?division=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683117"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683117",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=360424",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=364447"
  ],
  "seen_titles": [
-  "\"조국위해산화한1만9301명기억\"…강릉서8사단전몰장병추모제",
-  "지방의회독립입법의분기점",
   "LG생활건강,멕시코K-엑스포성공적마무리…닥터그루트·더페이스샵...",
   "솔리다임IPO에SK하이닉스급락…\"이러니국장떠나지\"반발도",
   "HS효성첨단소재멕시코에대규모투자로생산기지구축:성낙양현지거...",
@@ -6001,7 +5999,9 @@
   "학력보다문제해결력…SK,최태원AI인재관담아청년육성방식바꾼...",
   "김정관“메가프로젝트투자적기이행뒷받침”",
   "연휴뒤코스피장중2%대휘청…6500선밑으로",
-  "[무등의아침]“‘김지용반대’여권강경파,퇴로가없다…최태원광..."
+  "[무등의아침]“‘김지용반대’여권강경파,퇴로가없다…최태원광...",
+  "최태원\"AI시대,지식보다적응력\"…SK,새인재육성실험",
+  "'팹증설빨리빨리'외치는최태원"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-10-12T11:40:13.503037+09:00",
    "여권 김지용 반대 퇴로가 없다 강경파"
+  ],
+  [
+   "2026-10-12T11:50:14.083366+09:00",
+   "증설 외치는 빨리빨리"
   ]
  ],
- "last_run": "2026-10-12T11:40:34.651671+09:00",
+ "last_run": "2026-10-12T11:50:25.867592+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
