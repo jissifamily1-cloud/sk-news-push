@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437035",
-  "https://www.mk.co.kr/article/12164412",
   "https://www.mk.co.kr/article/12164435",
   "https://www.handmk.com/news/articleView.html?idxno=43686",
   "https://www.hankyung.com/article/202609303774H",
@@ -2999,11 +2997,11 @@
   "http://www.metroseoul.co.kr/article/20261012500536",
   "https://www.mt.co.kr/industry/2026/10/13/2026101222161539913",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171817",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856230"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=856230",
+  "https://www.greened.kr/news/articleView.html?idxno=351888",
+  "https://www.kukinews.com/article/view/kuk202610130003"
  ],
  "seen_titles": [
-  "'33억청담家'돌싱김새롬,재혼의지활활..\"남자는몸만들어오면돼...",
-  "삼성전자,뉴욕타임스스퀘어에젠슨황'밴플리트상'축하영상",
   "김새롬“난여자서장훈…다산꿈,남자몸만들어와도돼”(라스)",
   "SK,18년간핸드볼발전에1천700억원지원…아시안게임서결실",
   "마이크론실적이후가진짜다...돈의방향가를핵심변수는",
@@ -6001,7 +5999,9 @@
   "메트로신문10월13일자한줄뉴스",
   "\"SK하닉너마저\"주가이런데쪼개기상장?…솔리다임IPO진짜셈법",
   "최태원'속도전'선언에도…호남팹,땅값·인프라리스크'첩첩산중'",
-  "[출근길브리핑-10월13일]李대통령'주사의혹'DN오토모티브엄중대..."
+  "[출근길브리핑-10월13일]李대통령'주사의혹'DN오토모티브엄중대...",
+  "최태원,대법원에상고이유서제출...'노태우비자금'빼고도노소영몫...",
+  "최태원,‘노소영몫재산분할33%’불복…상고이유서제출"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-10-13T06:10:13.780522+09:00",
    "의혹 DN오토모티브 대통령 주사 엄중"
+  ],
+  [
+   "2026-10-13T06:40:13.786729+09:00",
+   "상고이유서 재산분할 제출 불복"
   ]
  ],
- "last_run": "2026-10-13T06:30:35.864409+09:00",
+ "last_run": "2026-10-13T06:40:28.247779+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
