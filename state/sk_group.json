@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261012_0003822432",
-  "https://www.newsis.com/view/NISX20261012_0003822444",
-  "https://www.newscj.com/news/articleView.html?idxno=3439601",
-  "https://www.etoday.co.kr/news/view/2634658",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7188454",
   "https://www.hankyung.com/article/2026101264236",
   "https://www.banronbodo.com/news/articleView.html?idxno=33161",
@@ -2999,13 +2995,13 @@
   "https://www.enetnews.co.kr/news/articleView.html?idxno=55224",
   "https://biz.sbs.co.kr/article_hub/20000339775?division=NAVER",
   "https://www.bigtanews.co.kr/article/view/big202610130020",
-  "https://realty.chosun.com/site/data/html_dir/2026/10/13/2026101302308.html"
+  "https://realty.chosun.com/site/data/html_dir/2026/10/13/2026101302308.html",
+  "https://www.sedaily.com/article/20101256",
+  "https://www.goodkyung.com/news/articleView.html?idxno=292303",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171901",
+  "https://www.vegannews.co.kr/news/article.html?no=392454"
  ],
  "seen_titles": [
-  "[2026국감]'적자'한전,삼전·닉스에25조전기료선납제안…속내는...",
-  "코스피나흘째주르륵…장중6400선붕괴",
-  "LS·효성등8개대기업집단,사익편취규제대상되나…\"자사주제외...",
-  "[특징주]\"가장빠른속도\"최태원언급에…호남반도체관련주급등(종...",
   "한전사장\"삼전닉스에선납제안,호남반도체때문아냐\"",
   "[속보]삼성전자·SK하이닉스나란히4%대하락마감",
   "최태원이어산업장관도광주군공항점검…호남반도체클러스터속도...",
@@ -6001,7 +5997,11 @@
   "[브랜드평판]미래에셋증권,증권사브랜드평판10월1위...삼성증권,한...",
   "中반도체추격에엇갈리는평가…\"내년매우힘든한해\"[글로벌뉴스...",
   "[증권리포트분석]③황지현삼성전기목표가229%빗나가",
-  "서울중곡동1층상가1.27억부터…서울상가추천경매"
+  "서울중곡동1층상가1.27억부터…서울상가추천경매",
+  "뉴욕증시,中반도체추격에약세...SK하이닉스3.2%↓[데일리국제금...",
+  "\"통신품고AIDC로날개\"…SKT,성장속도밟는다",
+  "AI투자늘어도메모리덜쓴다?…반도체가격고점우려[삼전주가굴...",
+  "SK가스,3년간900억원자사주매입분전량소각"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,21 @@
   [
    "2026-10-14T06:23:13.239612+09:00",
    "1층 경매 중곡동 상가 27억부터 서울 추천"
+  ],
+  [
+   "2026-10-14T06:31:15.468875+09:00",
+   "밟는다 날개 성장 AIDC로 통신 속도 품고 SKT"
+  ],
+  [
+   "2026-10-14T06:31:15.468875+09:00",
+   "고점 삼전 메모리 AI투자 우려 가격 늘어도 쓴다 주가 반도체"
+  ],
+  [
+   "2026-10-14T06:31:15.468875+09:00",
+   "3년간 자사주 전량 SK가스 매입분 소각 900억원"
   ]
  ],
- "last_run": "2026-10-14T06:23:32.681247+09:00",
+ "last_run": "2026-10-14T06:31:28.814130+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
