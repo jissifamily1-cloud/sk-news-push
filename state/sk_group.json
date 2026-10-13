@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7188454",
-  "https://www.hankyung.com/article/2026101264236",
-  "https://www.banronbodo.com/news/articleView.html?idxno=33161",
-  "https://economist.co.kr/article/view/ecn202610120037",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424253",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494534",
   "http://www.press9.kr/news/articleView.html?idxno=84064",
   "https://www.kbsm.net/news/view.php?idx=535865",
@@ -2999,14 +2994,14 @@
   "https://www.sedaily.com/article/20101256",
   "https://www.goodkyung.com/news/articleView.html?idxno=292303",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171901",
-  "https://www.vegannews.co.kr/news/article.html?no=392454"
+  "https://www.vegannews.co.kr/news/article.html?no=392454",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727694",
+  "https://www.g-enews.com/view.php?ud=202610140629198084e250e8e188_1",
+  "https://www.news2day.co.kr/article/20261012500243",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=237179",
+  "https://www.hankyung.com/article/2026101392476"
  ],
  "seen_titles": [
-  "한전사장\"삼전닉스에선납제안,호남반도체때문아냐\"",
-  "[속보]삼성전자·SK하이닉스나란히4%대하락마감",
-  "최태원이어산업장관도광주군공항점검…호남반도체클러스터속도...",
-  "SKT·KT·카카오,12월'모두의AI'출격…이용자확보경쟁본격화",
-  "[국감2026]한전'삼전닉스선납요구'에\"배임·특혜우려\"…무보엔'해...",
   "코스피,두달만에6400선아래로…코스닥도4%넘게'급락'",
   "'AI실무형인재'확보나선기업들...사내경진대회부터채용까지",
   "삼전닉스호남전력망부담·원전기술료대한한전의항변",
@@ -6001,7 +5996,12 @@
   "뉴욕증시,中반도체추격에약세...SK하이닉스3.2%↓[데일리국제금...",
   "\"통신품고AIDC로날개\"…SKT,성장속도밟는다",
   "AI투자늘어도메모리덜쓴다?…반도체가격고점우려[삼전주가굴...",
-  "SK가스,3년간900억원자사주매입분전량소각"
+  "SK가스,3년간900억원자사주매입분전량소각",
+  "\"주주가치제고강화\"…올해상장사자사주소각62조육박",
+  "한국반도체쇼크에스페이스X4.21%급락...AI거품론확산",
+  "[전문가7인AI특별대담시즌3(1)]AI잘쓰는사람,어떻게키우나…...",
+  "[2026년노동국감]김영훈장관\"메가특구주52시간예외신중해야\"",
+  "삼전닉스자사주매입끝나자K증시추락…\"매수기회\"vs\"아직관망\"[..."
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,21 @@
   [
    "2026-10-14T06:31:15.468875+09:00",
    "3년간 자사주 전량 SK가스 매입분 소각 900억원"
+  ],
+  [
+   "2026-10-14T06:41:05.710293+09:00",
+   "키우나 쓰는 어떻게 사람 AI"
+  ],
+  [
+   "2026-10-14T06:41:05.710293+09:00",
+   "메가특구 신중해야 장관 52시간 김영훈 예외"
+  ],
+  [
+   "2026-10-14T06:41:05.710293+09:00",
+   "추락 vs K증시 관망 아직 자사주 끝나자 매수 기회 삼전닉스 매입"
   ]
  ],
- "last_run": "2026-10-14T06:31:28.814130+09:00",
+ "last_run": "2026-10-14T06:41:16.975856+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
