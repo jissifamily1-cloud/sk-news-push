@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145539",
-  "https://news.jtbc.co.kr/article/NB12322542?influxDiv=NAVER",
-  "https://www.imaeil.com/page/view/2026101208494624180",
-  "https://www.mediapen.com/news/view/1129259",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96879",
-  "https://biz.sbs.co.kr/article_hub/20000339422?division=NAVER",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200304.html",
-  "https://www.yna.co.kr/view/AKR20261012039851008?input=1195m",
   "https://www.newsis.com/view/NISX20261012_0003822432",
   "https://www.newsis.com/view/NISX20261012_0003822444",
   "https://www.newscj.com/news/articleView.html?idxno=3439601",
@@ -2999,17 +2991,17 @@
   "https://www.segye.com/newsView/20261013526255?OutUrl=naver",
   "https://www.apsk.co.kr/news/articleView.html?idxno=540725",
   "https://www.viva100.com/article/20261012501322",
-  "https://www.etoday.co.kr/news/view/2635322"
+  "https://www.etoday.co.kr/news/view/2635322",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796218&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6857762_37012.html",
+  "https://www.news1.kr/industry/sb-founded/6318752",
+  "https://www.hankyung.com/article/2026101400107",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=55224",
+  "https://biz.sbs.co.kr/article_hub/20000339775?division=NAVER",
+  "https://www.bigtanews.co.kr/article/view/big202610130020",
+  "https://realty.chosun.com/site/data/html_dir/2026/10/13/2026101302308.html"
  ],
  "seen_titles": [
-  "[메자닌투자파일]나노팀,설비증설에200억…배터리안전소재힘주나",
-  "카페프리헷,전국점주83명초청간담회",
-  "'중3아빠'문세윤,학벌보다억대연봉?…딸진로고민시작(영크크는...",
-  "[속보]삼성전자·SK하이닉스4%대동반하락마감",
-  "최태원회장의경고\"늦어지면점유율다뺏긴다\"K-메모리의'속도전'...",
-  "4%빠진SK하이닉스…목표가는'320만원'으로올라,왜?",
-  "경북도'4대파운드리'세번째사업구체화…안동에1천750억원의약품...",
-  "저축은행중앙회에도해킹시도…67개사이용통합전산망보안'비상'",
   "[2026국감]'적자'한전,삼전·닉스에25조전기료선납제안…속내는...",
   "코스피나흘째주르륵…장중6400선붕괴",
   "LS·효성등8개대기업집단,사익편취규제대상되나…\"자사주제외...",
@@ -6001,7 +5993,15 @@
   "한동훈“美,한미정보협력문제제기했나”vs강경화“문제있었다...",
   "1381억처방시장급여재평가카운트다운…816억은행엽생존촉각",
   "[반도체인재리포트④]‘의치한’말고‘삼전닉스’⋯청년구원밧줄...",
-  "AI반도체는뜨거운데스마트폰은식었다…부품주희비속동반급락"
+  "AI반도체는뜨거운데스마트폰은식었다…부품주희비속동반급락",
+  "코스피급락'6천선'턱걸이…중국반도체추격공포",
+  "중국반도체공습에휘청‥코스피5%급락",
+  "용인팹훈풍번지나…넥스틴,SK하닉에장비공급계약에쏠린시선",
+  "노소영,9440억재산분할맞상고포기…최태원재상고로대법판단남아",
+  "[브랜드평판]미래에셋증권,증권사브랜드평판10월1위...삼성증권,한...",
+  "中반도체추격에엇갈리는평가…\"내년매우힘든한해\"[글로벌뉴스...",
+  "[증권리포트분석]③황지현삼성전기목표가229%빗나가",
+  "서울중곡동1층상가1.27억부터…서울상가추천경매"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,33 @@
   [
    "2026-10-14T06:17:19.289439+09:00",
    "스마트폰은 반도체는 희비 식었다 AI 급락 동반 부품주 뜨거운데"
+  ],
+  [
+   "2026-10-14T06:23:13.239612+09:00",
+   "공급 훈풍 쏠린 SK하닉에 시선 넥스틴 용인팹 계약에 장비 번지나"
+  ],
+  [
+   "2026-10-14T06:23:13.239612+09:00",
+   "판단 최태원 노소영 9440억 재상고로 대법 남아 맞상고 포기 재산분할"
+  ],
+  [
+   "2026-10-14T06:23:13.239612+09:00",
+   "증권사 1위 삼성증권 10월 미래에셋증권 브랜드평판"
+  ],
+  [
+   "2026-10-14T06:23:13.239612+09:00",
+   "평가 힘든 엇갈리는 내년 추격에 반도체 글로벌 매우"
+  ],
+  [
+   "2026-10-14T06:23:13.239612+09:00",
+   "삼성전기 목표가 황지현 빗나가"
+  ],
+  [
+   "2026-10-14T06:23:13.239612+09:00",
+   "1층 경매 중곡동 상가 27억부터 서울 추천"
   ]
  ],
- "last_run": "2026-10-14T06:18:15.626640+09:00",
+ "last_run": "2026-10-14T06:23:32.681247+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
