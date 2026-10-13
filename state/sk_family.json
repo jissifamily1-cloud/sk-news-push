@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.abcn.kr/news/articleView.html?idxno=92523",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068588",
   "https://www.woodkorea.co.kr/news/articleView.html?idxno=91622",
   "https://www.gosiweek.com/article/1065601793681617",
   "https://www.gokorea.kr/news/articleView.html?idxno=880105",
@@ -2999,11 +2997,11 @@
   "https://www.hani.co.kr/arti/economy/economy_general/1282124.html",
   "https://www.mt.co.kr/politics/2026/10/13/2026101311400036632",
   "https://www.yna.co.kr/view/AKR20261013118800054?input=1195m",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000072936"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000072936",
+  "https://www.ajunews.com/view/20261013142521543",
+  "https://www.ytn.co.kr/_ln/0101_202610131431515908"
  ],
  "seen_titles": [
-  "[증시인사이트]백악관\"트럼프,내일美상무장관과함께발표예정\"",
-  "SK,핸드볼18년간1700억원지원…\"여자금메달·남자4강\"",
   "이재용,젠슨황축하하며\"우린딸이름도같아\"[앵커리포트]",
   "87세강제퇴거에…마드리드뒤덮은텐트시위",
   "남종섭경기도의회의장,지방의회법제정연대‘기초의회’까지넓힌...",
@@ -6001,7 +5999,9 @@
   "‘서남권800조’속도낼까…‘반도체차르’밑전담조직둔다",
   "野\"이재용·최태원불러'호남반도체외압'물어야\"…與\"정쟁도구삼...",
   "신정훈,호남반도체일자리창출계획수립요구",
-  "\"광주엔이미앰코있는데\"…새로들어설'반도체팹'뭐가다를까"
+  "\"광주엔이미앰코있는데\"…새로들어설'반도체팹'뭐가다를까",
+  "[특징주]금호전기,최태원호남반도체투자의지에5%대강세",
+  "여야,노동부국감서'이재용·최태원'증인공방"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-10-13T14:30:22.872978+09:00",
    "들어설 앰코 이미 반도체 뭐가 있는데 새로 광주엔 다를까"
+  ],
+  [
+   "2026-10-13T14:40:13.618445+09:00",
+   "이재용 노동부 증인 공방 여야 국감서"
   ]
  ],
- "last_run": "2026-10-13T14:30:34.802273+09:00",
+ "last_run": "2026-10-13T14:40:27.277672+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
