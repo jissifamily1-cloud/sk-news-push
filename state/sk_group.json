@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=276558",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=367064",
-  "https://www.mk.co.kr/article/12173537",
-  "https://www.namdonews.com/news/articleView.html?idxno=925847",
-  "https://www.newstnt.com/news/articleView.html?idxno=722328",
-  "https://biz.sbs.co.kr/article_hub/20000339386?division=NAVER",
   "https://www.sedaily.com/article/20100463",
   "https://www.chosun.com/economy/stock-finance/2026/10/12/EJFKY5IKUBGQXPWVIKUXPPQJEI/",
   "https://www.dailysecu.com/news/articleView.html?idxno=208836",
@@ -2999,15 +2993,15 @@
   "http://www.inews24.com/view/2014646",
   "https://www.topstarnews.net/news/articleView.html?idxno=16245912",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1069091",
-  "https://it.donga.com/109692/"
+  "https://it.donga.com/109692/",
+  "https://isplus.com/article/view/isp202610130183",
+  "https://news.jtbc.co.kr/article/NB12322809?influxDiv=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000339647?division=NAVER",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3720393",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215052",
+  "https://news.jtbc.co.kr/article/NB12322795?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "공정위국감,쿠팡·정유4사증인채택…의혹집중점검",
-  "전K리거아톰의충격폭로…\"히딩크사단출신감독이한국선수때려...",
-  "이미주,'삼전닉스'열풍속직업계고출신..'학벌=성공'공식뒤집는다...",
-  "[HotIssue]SKCheyTae-wonAppealsProsecutor'sDecisionNottoIndic",
-  "SKInnovationHostsYouthClimateStartupWeek",
-  "[2026국감]한전20%인데,삼성·SK80%부담",
   "SK,청년AI인재키운다…매월300만원파격지원",
   "최태원광주방문에국힘공세…정진욱\"국회가기업협박하나\"",
   "고려대KU마음건강연구소,'생애주기별사회적고립·사회적연결회복...",
@@ -6001,7 +5995,13 @@
   "\"개미들정신꽉잡으세요\"…'상승'베팅했는데'날벼락'",
   "CXMT충격에흔들린삼전닉스,진짜위협은",
   "울산시,내년울산포럼서'로봇손경진대회'개최구상",
-  "반도체공장의최적입지는무엇이결정하는가[정석희의기후에너지..."
+  "반도체공장의최적입지는무엇이결정하는가[정석희의기후에너지...",
+  "호주서첫승노리는김기동감독“육체적피로있지만정신무장단단...",
+  "중국발반도체쇼크에내려앉았다…'6천피턱걸이'",
+  "[집중진단]'장중6천피붕괴''23만전자·150만닉스'개인들비명터진...",
+  "이상일용인시장,반도체클러스터근로자숙소PF규제완화건의…적...",
+  "노조미\"자격증명관련공격,3분의1차지\"",
+  "창신메모리,사실이면\"삼전닉스보다빠르다\"…긴장"
  ],
  "recent_sigs": [
   [
@@ -7127,9 +7127,17 @@
   [
    "2026-10-13T19:31:14.100766+09:00",
    "무엇이 에너지 결정하는가 기후 공장의 입지는 반도체 최적 정석희의"
+  ],
+  [
+   "2026-10-13T19:41:04.818903+09:00",
+   "공격 3분의 차지 자격증명 노조미"
+  ],
+  [
+   "2026-10-13T19:41:04.818903+09:00",
+   "긴장 창신메모리 빠르다 삼전닉스보다 사실이면"
   ]
  ],
- "last_run": "2026-10-13T19:31:27.926682+09:00",
+ "last_run": "2026-10-13T19:41:13.739090+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
