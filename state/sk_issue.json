@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngetnews.com/news/articleView.html?idxno=554197",
-  "https://www.smartbizn.com/news/articleView.html?idxno=155835",
-  "https://www.sedaily.com/article/20099125",
-  "https://www.mt.co.kr/living/2026/10/07/2026100715452511662",
   "https://view.asiae.co.kr/article/2026100715445462638",
   "https://www.m-i.kr/news/articleView.html?idxno=2003617",
   "http://www.lkp.news/news/articleView.html?idxno=84722",
@@ -2999,13 +2995,13 @@
   "https://news.jtbc.co.kr/article/NB12322770?influxDiv=NAVER",
   "https://www.monews.co.kr/news/articleView.html?idxno=414512",
   "https://www.nocutnews.co.kr/news/6590825",
-  "https://www.thepublic.kr/news/articleView.html?idxno=322075"
+  "https://www.thepublic.kr/news/articleView.html?idxno=322075",
+  "https://www.joongboo.com/news/articleView.html?idxno=363739174",
+  "https://www.newsis.com/view/NISX20261013_0003824322",
+  "https://www.newsis.com/view/NISX20261013_0003824410",
+  "https://www.edaily.co.kr/News/Read?newsId=03752326645612592&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "김찬호CJ제일제당대표,잇단담합적발에고개숙여…\"공정경쟁훼손...",
-  "두나무-네이버파이낸셜주식교환또연기···이번엔내년3월",
-  "“네이버·두나무결합심사속도내야...디지털자산골든타임놓쳐선안...",
-  "'원재료담합'CJ제일제당·삼양사대표\"국민께죄송…재발방지약속...",
   "기술탈취신고했더니한달대기…10건중4건은부처도못정해",
   "[2026국감]식품업계'2조원대담합과징금'…CJ제일제당·삼양사대표...",
   "국내1위아고다,소비자대응은낙제점…이용자신뢰흔들",
@@ -6001,7 +5997,11 @@
   "중간선거앞두고반트럼프의원압수수색…민주당\"정적표적수사\"",
   "서울시醫,경찰압수수색공식사과촉구",
   "'장모살해·아내납치'부실대응의혹…경찰,수원권선서감찰",
-  "정유4사,국감서고개숙였다…담합의혹에거래관행까지도마"
+  "정유4사,국감서고개숙였다…담합의혹에거래관행까지도마",
+  "경찰,'장모살해참극'앞선가정폭력수사과정감찰착수",
+  "대만해외공관시스템서중국산코드발견…수사착수",
+  "노동부특사경사건10건중6건은구속영장기각",
+  "[속보]'구더기방치'전직부사관항소심서무기징역구형"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T16:50:56.381774+09:00",
+ "last_run": "2026-10-13T17:01:11.078470+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
