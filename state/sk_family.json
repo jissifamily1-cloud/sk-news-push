@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261002132252003?input=1195m",
-  "https://www.news1.kr/society/incident-accident/6309261",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855496",
   "http://www.4th.kr/news/articleView.html?idxno=2119132",
   "http://www.seouleconews.com/news/articleView.html?idxno=94114",
@@ -2999,11 +2997,11 @@
   "http://weekly.chosun.com/news/articleView.html?idxno=56135",
   "https://www.newsis.com/view/NISX20261014_0003824851",
   "https://www.edaily.co.kr/News/Read?newsId=02637126645612920&mediaCodeNo=257",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/14/2026101490046.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/14/2026101490046.html",
+  "https://www.sedaily.com/article/20101284",
+  "https://www.m-i.kr/news/articleView.html?idxno=2005533"
  ],
  "seen_titles": [
-  "인천시의회박종혁의장,지방의회독립기반마련건의",
-  "최태원회장,SK지분9440억원매각…재산분할자금마련(1보)",
   "최태원SK회장,9440억원규모그룹지분매각추진",
   "최태원,SK(주)지분9440억규모2.3%매각…재산분할자금마련",
   "[Invest]최태원회장SK㈜지분2.26%매각…재산분할소송대응9440억마...",
@@ -6001,7 +5999,9 @@
   "노소영,9440억판결에맞상고안한이유는?…최태원은재상고",
   "노소영,재산분할맞상고포기…대법,최태원주장만심리한다",
   "노소영,재산분할맞상고포기…최태원상고만대법심리",
-  "신사업,'에너지,로봇,AI'집중…미래먹거리위해직접뛰는총수들"
+  "신사업,'에너지,로봇,AI'집중…미래먹거리위해직접뛰는총수들",
+  "노소영,재산분할맞상고안해…대법,최태원주장만심리한다",
+  "신정훈\"호남투자마저발목잡나\"…국민의힘에날선비판"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-10-14T08:40:13.749579+09:00",
    "총수들 직접 집중 AI 신사업 뛰는 먹거리 에너지 로봇 미래"
+  ],
+  [
+   "2026-10-14T08:50:14.735471+09:00",
+   "호남 신정훈 잡나 발목 투자마저 국민의힘에 비판"
   ]
  ],
- "last_run": "2026-10-14T08:40:25.970942+09:00",
+ "last_run": "2026-10-14T08:50:26.383898+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
