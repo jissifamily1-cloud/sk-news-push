@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.hidoc.co.kr/news/articleView.html?idxno=68128",
-  "http://www.newsbrite.net/news/articleView.html?idxno=200673",
-  "https://www.slist.kr/news/articleView.html?idxno=769946",
   "https://www.mydaily.co.kr/page/view/2026093008035195681",
   "https://www.sportschosun.com/entertainment/2026-09-30/202609300100203720013560",
   "https://www.dt.co.kr/article/12086653",
@@ -2999,12 +2996,12 @@
   "https://www.cwn.kr/news/articleView.html?idxno=59056",
   "https://www.lawtv.kr/news/articleView.html?idxno=61124",
   "https://www.namdonews.com/news/articleView.html?idxno=925946",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=614767"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=614767",
+  "https://www.mt.co.kr/stock/2026/10/13/2026101309522837020",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449140",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=364541"
  ],
  "seen_titles": [
-  "[아침&피플]문체위국감에JYP선다…박진영\"국민께충분히설명하겠...",
-  "\"사과도징계도했는데\"…한화에어로대표까지부른국회,기업압박성...",
-  "\"딸이똑같다\"이재용'젠슨황축사'에,최태원건배사로받아쳤다...뉴...",
   "'이재용회장딸'이원주씨글로벌비즈니스무대첫등장(영상)",
   "김현지·김용범·김승원관계자'제외',조희대만'포함'...민주당發국...",
   "반도체호황에63조초과세수...제조·건설은'트리플감소'",
@@ -6001,7 +5998,10 @@
   "최태원,'재산분할67:33비율불복'…대법에항소이유서제출",
   "최태원,'노소영몫33.3%'에이의제기...재산분할재상고상고이유서...",
   "[특징주]서산,최태원發'호남반도체'속도전기대에29%뛰어…전날상...",
-  "금호건설,11.94%급등…전일기관·개인매수"
+  "금호건설,11.94%급등…전일기관·개인매수",
+  "최태원호남반도체팹철회설진화에…호남기반株이틀째강세",
+  "최태원'CXMT의SK하이닉스추격'우려에관영매체의기양양,\"중국과협...",
+  "'CXMT쇼크'에무너진반도체株"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,17 @@
   [
    "2026-10-13T09:30:24.569922+09:00",
    "홈플러스는 한전은 국민에게 LH는 매출난 부채 전기요금"
+  ],
+  [
+   "2026-10-13T10:00:30.898118+09:00",
+   "추격 SK하이닉스 관영매체 의기양양 중국과 CXMT의 우려에"
+  ],
+  [
+   "2026-10-13T10:00:30.898118+09:00",
+   "무너진 반도체 CXMT쇼크"
   ]
  ],
- "last_run": "2026-10-13T09:50:23.824789+09:00",
+ "last_run": "2026-10-13T10:00:48.833745+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
