@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=135239",
-  "https://www.news1.kr/industry/distribution/6313211",
-  "https://www.mhj21.com/news/articleView.html?idxno=254185",
-  "https://view.asiae.co.kr/article/2026100715451578461",
-  "https://www.yna.co.kr/view/AKR20261007149200030?input=1195m",
   "https://www.thelec.kr/news/articleView.html?idxno=63413",
   "https://www.pharmnews.com/news/articleView.html?idxno=306744",
   "https://www.yna.co.kr/view/AKR20261007145000001?input=1195m",
@@ -2999,14 +2994,14 @@
   "http://www.domin.co.kr/news/articleView.html?idxno=1571706",
   "https://www.newsis.com/view/NISX20261013_0003824325",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037454",
-  "https://www.chosun.com/national/incident/2026/10/13/A7Q23EZXOJGDLPM4LIPMRAO27Q/"
+  "https://www.chosun.com/national/incident/2026/10/13/A7Q23EZXOJGDLPM4LIPMRAO27Q/",
+  "https://www.econovill.com/news/articleView.html?idxno=753448",
+  "https://www.sedaily.com/article/20101075",
+  "https://www.newscj.com/news/articleView.html?idxno=3439952",
+  "https://www.news1.kr/society/court-prosecution/6318645",
+  "https://www.hankyung.com/article/202610139289h"
  ],
  "seen_titles": [
-  "[2026국감]CJ제일제당·삼양사대표,국감서담합사과...\"다시는이런...",
-  "[국감현장]'설탕담합'에고개숙인CJ제일제당·삼양사…\"국민께사죄...",
-  "고개숙인CJ제일제당·삼양사,원재료답합재발방지약속",
-  "[2026국감]담합에고개숙인'식품기업대표'…설탕·밀가루·전분당과...",
-  "식품기업대표들,국감서담합사과…\"내부통제·준법경영전력\"",
   "두나무·네이버결합또연기…주식교환내년3월로미뤄",
   "[2026년국감]응급실압수수색·비급여쏠림…필수의료위기수술대오...",
   "[국감말·말·말](7일)",
@@ -6001,13 +5996,14 @@
   "수사미공개정보노무사에유출전주고용노동지청특사경입건",
   "'노무사에중대재해정보'노동부특사경입건…직위해제(종합)",
   "경찰청,장모살해및아내납치사건초기수사한권서경찰서감찰",
-  "송파구장모살해男,임시조치종료엿새만에범행…경찰감찰착수"
+  "송파구장모살해男,임시조치종료엿새만에범행…경찰감찰착수",
+  "[2026국감]김병주의원,방산업체M&A에국방당국'거부권'추진",
+  "장모살해·아내납치20대구속심사출석…범행질문엔‘묵묵부답’",
+  "김지용청문회D-1…범여권내홍속쟁점'수두룩'",
+  "공소청,구더기속'병든아내방치'전직부사관2심서무기징역구형",
+  "GGM노사갈등에비노조직원첫공개호소…\"상생발전협정서지켜야\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-13T10:40:53.003961+09:00",
-   "의혹 숙인 정유사들 담합 기름값 질타 고개"
-  ],
   [
    "2026-10-13T14:50:51.491367+09:00",
    "국감 22일 송명준 대표 HD현대오일뱅크 SK에너지 김종화 산자위"
@@ -6021,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T16:31:05.161997+09:00",
+ "last_run": "2026-10-13T16:41:00.047860+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
