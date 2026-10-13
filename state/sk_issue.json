@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joynews24.com/view/2012825",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273404&CMPT_CD=P0010",
-  "https://www.starnewskorea.com/music/2026/10/07/2026100716532067685",
-  "https://www.donga.com/news/Economy/article/all/20261007/134803105/2",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16868",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=228616",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171597",
@@ -2999,13 +2995,13 @@
   "https://www.kyeonggi.com/article/20261013580601",
   "https://www.seoul.co.kr/news/society/accident/2026/10/13/20261013500299?wlog_tag3=naver",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1334061",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16246015"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16246015",
+  "http://www.phmbc.co.kr/www/news/desk_news?idx=204936",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037500",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795956&plink=ORI&cooper=NAVER",
+  "https://www.donga.com/news/Politics/article/all/20261013/134836157/1"
  ],
  "seen_titles": [
-  "지드래곤·양현석,저작권법위반피소사건무혐의종결…경찰불송치",
-  "\"다음참사지금막아요\"",
-  "YG압수수색했지만..경찰,지드래곤·양현석저작권위반'무혐의'[스타...",
-  "과거엔증거부족으로패소…공정위,정유사44조담합이번엔입증할까",
   "ESG제도한데묶는기본법초안공개...정책연결설계에역점",
   "국회ESG포럼,'ESG기본법'제정필요",
   "담합에고개숙인CJ제일제당·삼양사…\"경쟁사접촉관리강화\"[국감2...",
@@ -6001,7 +5997,11 @@
   "“소아응급실압수수색은공권력남용”…경기남부경찰청국감서수사...",
   "“맞을까무서워혼인사실도숨겼는데”…장모살해사건유족들분통",
   "[국감]\"사망6개월만에압수수색\"…W진병원유족,재수사촉구",
-  "송파장모살해·아내납치20대구속…가족협박정황"
+  "송파장모살해·아내납치20대구속…가족협박정황",
+  "\"가습기살균제배상기한연장하고구제확대해야\"",
+  "경기남북부경찰청국감서아주대병원소아응급센터상대로한압수수색...",
+  "[단독]'장모살해범'왜못막았나…내부감찰착수",
+  "“이화영이판사판…입열면李가불리해질거라생각”[정치를부탁해..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T20:40:53.360498+09:00",
+ "last_run": "2026-10-13T20:50:55.096023+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
