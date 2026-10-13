@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043401",
-  "https://www.seoul.co.kr/news/society/2026/10/07/20261007500174?wlog_tag3=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=04172166645610624&mediaCodeNo=257",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261007.99099001658",
-  "https://www.abcn.kr/news/articleView.html?idxno=92802",
-  "https://www.yna.co.kr/view/PYH20261007201800013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261007202000013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261007201900013?input=1196m",
-  "https://magazine.hankyung.com/business/article/202404307970b",
   "https://www.skyedaily.com/news/news_view.html?ID=230237",
   "https://www.vegannews.co.kr/news/article.html?no=391586",
   "https://www.news2day.co.kr/article/20261007500259",
@@ -2999,18 +2990,18 @@
   "http://www.inews24.com/view/2014453",
   "https://www.fnnews.com/news/202610131424590225",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795335&plink=ORI&cooper=NAVER",
-  "https://www.ddaily.co.kr/page/view/2026101314370554211"
+  "https://www.ddaily.co.kr/page/view/2026101314370554211",
+  "https://www.kyeonggi.com/article/20261013580295",
+  "https://economist.co.kr/article/view/ecn202610130028",
+  "https://www.the-today.com/news/articleView.html?idxno=91638",
+  "https://www.m-i.kr/news/articleView.html?idxno=2005342",
+  "https://www.ekn.kr/web/view.php?key=20261013026505626",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=765760",
+  "https://www.fnnews.com/news/202610131440503932",
+  "https://news.tf.co.kr/read/national/2375704.htm",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4025841"
  ],
  "seen_titles": [
-  "압수수색까지했지만…지드래곤·양현석‘저작권법위반’무혐의",
-  "[일지]'명태균게이트'의혹부터尹'무상여론조사'2심무죄선고까지",
-  "'수용의무'앞세운응급의료법개정에전공의노조\"배후진료부터\"",
-  "소아응급실압수수색논란…정부“수사·압수수색가이드라인신속마...",
-  "지드래곤'저작권법위반'혐의,경찰불송치결정",
-  "공정위,SK에너지·현대오일뱅크의유가가격짬짜미의혹심의",
-  "전쟁틈타'44조원유가담합'...SK에너지·HD현대오일뱅크제재심의",
-  "공정위,SK에너지·현대오일뱅크담합사건심의개시",
-  "공정위,SK계열사에불법채무보증과징금1.5억부과",
   "공정위SK소속회사의위법채무보증행위제재나서",
   "가습기살균제배상8일접수…온라인홀짝2부제",
   "진에어,베트남경쟁당국서기업결합승인",
@@ -6001,7 +5992,16 @@
   "호카국내총판교체논란…조정훈\"중소기업기여도평가해야\"",
   "방사청장,한화KAI인수\"국가안보,국익측면에서밀도있게검토\"",
   "[단독]'송파장모살해·아내납치'20대남성…경찰감찰착수",
-  "산자위,김종화SK에너지대표·송명준HD현대오일뱅크대표22일국감..."
+  "산자위,김종화SK에너지대표·송명준HD현대오일뱅크대표22일국감...",
+  "호카국내총판권중소기업서이랜드로…조정훈의원“불공정거래여...",
+  "‘호카총판권갈등’국회로…조정훈의원,공정위에적정성질의",
+  "할인비낸다는쿠팡,정산자료는왜안냈나?쌓여가는탈세의혹(2부)",
+  "교복입찰51건담합적발…공정위,대리점8곳에과징금1억200만원",
+  "한화KAI지분확대발‘안보검증론’…민주김병주,국방부주도방산...",
+  "호카국내총판교체논란...조정훈의원,\"공정위가적정성면밀히검...",
+  "장모살해피의자수사논란에…경찰\"증거확보노력지속\"",
+  "GGM일부직원\"노사반목멈추고해법찾을것\"호소",
+  "[기자수첩]닭값잡는다며헛다리짚은당국…치킨3만원시대의'진짜..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "국감 22일 송명준 대표 HD현대오일뱅크 SK에너지 김종화 산자위"
   ]
  ],
- "last_run": "2026-10-13T14:50:57.835871+09:00",
+ "last_run": "2026-10-13T15:01:16.102552+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
