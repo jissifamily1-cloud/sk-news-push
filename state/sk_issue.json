@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202610077837g",
-  "https://news.jtbc.co.kr/article/NB12321806?influxDiv=NAVER",
-  "https://www.joongboo.com/news/articleView.html?idxno=363738704",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=87173",
-  "http://www.metroseoul.co.kr/article/20261007500485",
-  "http://www.inews24.com/view/2012805",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81452",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=44256",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53482",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727052",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12174706",
   "https://www.dailyt.co.kr/newsView/dlt202610130015",
   "https://www.joongang.co.kr/article/25469388",
-  "https://www.newsis.com/view/NISX20261013_0003824171"
+  "https://www.newsis.com/view/NISX20261013_0003824171",
+  "https://www.lawissue.co.kr/view.php?ud=2026101317470588589817d053b9_12",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479704",
+  "http://www.4th.kr/news/articleView.html?idxno=2119674",
+  "https://www.jasm.co.kr/news/view/321337/?sc=Naver",
+  "https://www.mk.co.kr/article/12174785",
+  "https://www.imaeil.com/page/view/2026101317244248125",
+  "https://newstapa.org/article/2t43L"
  ],
  "seen_titles": [
-  "\"공정경쟁훼손사죄\"…CJ제일제당·삼양사대표'가격담합사과'",
-  "지드래곤·양현석,저작권법위반혐의사건종결⋯경찰불송치처분",
-  "'반년간4명사망'인천원병원…장애인단체\"시·구관리책임밝혀야...",
-  "국제유가불안틈타44조원대기름값담합의혹…공정위,SK·HD현대오일...",
-  "HD현대오일뱅크·SK에너지,기름값담합혐의에\"사실관계소명\"",
-  "[2026국감]CJ제일제당·삼양사,담합사과⋯\"경쟁사접촉차단할것\"",
-  "[초점]JW중외제약불법리베이트재판,대법원간다",
   "[2026국감]유통업계수장들줄줄이소환…핵심쟁점담합·회생·정보...",
   "[국감]항공마일리지소멸·사용제한지적…홍지선\"관리필요\"",
   "[국감'26]\"국민께머리숙여사죄\"...CJ제일제당·삼양사,국감서담합...",
@@ -6001,7 +5994,14 @@
   "\"재벌세습이대한민국착취\"인식에변함없다는공정위원장[사설]",
   "“귀신보다무서운CJ계약서”…민병덕,5조공룡‘신비아파트갑질...",
   "주택가서“살려달라”발버둥쳤지만…‘장모살해·아내납치’CCTV엔",
-  "트럼프유세에서오마르의원거듭비판\"재앙그자체\""
+  "트럼프유세에서오마르의원거듭비판\"재앙그자체\"",
+  "듀오,회원43만명개인정보유출에거짓광고까지…과징금15억넘어",
+  "KAI노조,청와대앞상경투쟁나선다···한화'인수시도저지'",
+  "KAI노조3800명상경투쟁…'한화인수반대'청와대앞집회",
+  "KAI노조\"한화인수시도반대\"…14일부터청와대앞상경집회",
+  "美중간선거3주앞두고…민주당의원자택압수수색",
+  "3대특검과천양지차…국민시야에서사라진'함흥차사'선관위특검",
+  "“0.99달러저작권마타도어”?...한동훈해명에빠진사실들"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T17:40:57.436707+09:00",
+ "last_run": "2026-10-13T17:51:01.934156+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
