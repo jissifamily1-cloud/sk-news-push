@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thelec.kr/news/articleView.html?idxno=63413",
-  "https://www.pharmnews.com/news/articleView.html?idxno=306744",
-  "https://www.yna.co.kr/view/AKR20261007145000001?input=1195m",
-  "https://www.newsis.com/view/NISX20261007_0003817698",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790183.html",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267575",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448814",
-  "https://www.ngonews.kr/news/articleView.html?idxno=240036",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315961&inflow=N",
-  "https://www.asiatime.co.kr/article/20261007500307",
   "https://www.ngetnews.com/news/articleView.html?idxno=554197",
   "https://www.smartbizn.com/news/articleView.html?idxno=155835",
   "https://www.sedaily.com/article/20099125",
@@ -2999,19 +2989,19 @@
   "https://www.sedaily.com/article/20101075",
   "https://www.newscj.com/news/articleView.html?idxno=3439952",
   "https://www.news1.kr/society/court-prosecution/6318645",
-  "https://www.hankyung.com/article/202610139289h"
+  "https://www.hankyung.com/article/202610139289h",
+  "http://www.newstomato.com/ReadNews.aspx?no=1316505&inflow=N",
+  "https://www.gosiweek.com/article/1065598496687622",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322072",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130038",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1334023",
+  "https://www.news1.kr/local/gyeonggi/6318617",
+  "https://news.jtbc.co.kr/article/NB12322770?influxDiv=NAVER",
+  "https://www.monews.co.kr/news/articleView.html?idxno=414512",
+  "https://www.nocutnews.co.kr/news/6590825",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322075"
  ],
  "seen_titles": [
-  "두나무·네이버결합또연기…주식교환내년3월로미뤄",
-  "[2026년국감]응급실압수수색·비급여쏠림…필수의료위기수술대오...",
-  "[국감말·말·말](7일)",
-  "경찰,'저작권법위반피소'지드래곤·양현석무혐의",
-  "복지부,경찰청과필수의료사고수사절차개선논의…\"지속조율하겠다...",
-  "공정위,국제유가불안정이용한'44조원유가담합'의혹심의착수",
-  "공정위SK에너지·현대오일뱅크심의착수,매출44조원대기름값담합...",
-  "'전쟁혼란속44조원대유가담합의혹'SK에너지·HD현대오일뱅크,공...",
-  "고개숙인CJ제일제당·삼양사…원재료담합사과·재발방지약속",
-  "진에어·에어부산·에어서울합병'청신호'…베트남경쟁위기업결합승...",
   "김찬호CJ제일제당대표,잇단담합적발에고개숙여…\"공정경쟁훼손...",
   "두나무-네이버파이낸셜주식교환또연기···이번엔내년3월",
   "“네이버·두나무결합심사속도내야...디지털자산골든타임놓쳐선안...",
@@ -6001,7 +5991,17 @@
   "장모살해·아내납치20대구속심사출석…범행질문엔‘묵묵부답’",
   "김지용청문회D-1…범여권내홍속쟁점'수두룩'",
   "공소청,구더기속'병든아내방치'전직부사관2심서무기징역구형",
-  "GGM노사갈등에비노조직원첫공개호소…\"상생발전협정서지켜야\""
+  "GGM노사갈등에비노조직원첫공개호소…\"상생발전협정서지켜야\"",
+  "LS·DB사익편취규제사정권…자사주소각후속입법탄력받나",
+  "그린재킷,우리카드와손잡고캐디피결제서비스확대",
+  "\"귀신보다무서운계약서\"…CJENM'신비아파트'14억4000만원의함정?",
+  "접근금지·스마트워치도못막은참극…관계성범죄보호망'구멍'",
+  "경기남부경찰'장모살해·아내납치'수원권선서감찰",
+  "'장모살인·아내납치'피의자가정폭력수사한수원권선서감찰",
+  "중간선거앞두고반트럼프의원압수수색…민주당\"정적표적수사\"",
+  "서울시醫,경찰압수수색공식사과촉구",
+  "'장모살해·아내납치'부실대응의혹…경찰,수원권선서감찰",
+  "정유4사,국감서고개숙였다…담합의혹에거래관행까지도마"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T16:41:00.047860+09:00",
+ "last_run": "2026-10-13T16:50:56.381774+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
