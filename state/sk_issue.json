@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202610071202352280",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438104",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700168.html",
-  "https://www.ajunews.com/view/20261007114529417",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2053867",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315897&inflow=N",
-  "https://www.chosun.com/economy/economy_general/2026/10/07/GXXOAJAQP5FMZN2DQL5FY3S4MA/",
-  "https://biz.chosun.com/policy/policy_sub/2026/10/07/JY6334PQV5AVVBLRKXM2DTC4SQ/",
   "http://www.inews24.com/view/2012582",
   "http://www.yonhapnewstv.co.kr/news/AKR20261007093735gSD",
   "https://www.etnews.com/20261007000149",
@@ -2999,17 +2991,17 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684149",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=322060",
   "https://www.munhwa.com/article/11623049",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684146"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684146",
+  "https://www.edaily.co.kr/News/Read?newsId=02778166645612592&mediaCodeNo=257",
+  "https://www.inthenews.co.kr/news/article.html?no=92986",
+  "http://www.breaknews.com/1242528",
+  "https://www.ppss.kr/news/articleView.html?idxno=315159",
+  "https://www.medigatenews.com/news/2990599577",
+  "https://biz.heraldcorp.com/article/10900776",
+  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171148",
+  "https://www.mt.co.kr/society/2026/10/13/2026101308050825296"
  ],
  "seen_titles": [
-  "공정위‘SK에너지·현대오일뱅크’유류가격담합혐의심의",
-  "\"전쟁틈타석유류담합\"…공정위,SK에너지-현대오일뱅크심의착수",
-  "SK에너지·현대오일뱅크,44조원대유류담합혐의…공정위,제재착수",
-  "SK에너지·현대오일뱅크,44조규모기름값담합혐의공정위심판대에",
-  "전쟁기간석유제품담합했나…공정위,SK에너지·현대오일뱅크심의개...",
-  "44조원어치기름값담합혐의…SK에너지·현대오일뱅크공정위제재절...",
-  "SK에너지·현대오일뱅크'44조원대기름값담합'공정위심판대로",
-  "공정위,정유사석유류가격담합심의착수…관련매출44조원",
   "SK에너지·현대오일뱅크원유담합심의절차개시…공정위,정유사담...",
   "공정위,러·우전쟁기간휘발유-경유등가격담합한SK에너지,현대오...",
   "공정위,‘담합혐의’SK에너지·현대오일뱅크제재착수",
@@ -6001,7 +5993,15 @@
   "국민의힘“공정거래위원장,시장경제왜곡해인식…사퇴해야”",
   "김병주,방산업체M&A안보심사강화추진…국방부협의의무화",
   "경찰청장대행“‘한동훈딸허위스펙’의혹,재수사가능성배제안...",
-  "트럼프“러·우크라,에너지휴전동의…후티잘못처신”"
+  "트럼프“러·우크라,에너지휴전동의…후티잘못처신”",
+  "이인상노비타신임사장취임…\"글로벌사업확대\"",
+  "최은석의원“먼친척투자내역까지총수책임?처벌만강화하는공정...",
+  "국민의힘정무위원일동‘기업혐오’주병기공정위원장사퇴촉구",
+  "김현정\"속여서번돈이과징금보다많다면\"…듀오·빗썸광고제재실...",
+  "소아응급실압수수색에환자단체도우려…“또다른아이생명위협받아...",
+  "트럼프“러·우크라에너지휴전,내가동의하라했으니동의한것…후...",
+  "계속되는소아응급압색반발…서울시醫\"사과하라\"",
+  "\"결혼한줄도몰라\"...'송파장모살해'남성,혼인신고도강요했다"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "의혹 숙인 정유사들 담합 기름값 질타 고개"
   ]
  ],
- "last_run": "2026-10-13T11:10:54.743978+09:00",
+ "last_run": "2026-10-13T11:20:55.881506+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
