@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261007000616",
-  "https://www.rapportian.com/news/articleView.html?idxno=241039",
-  "https://imnews.imbc.com/news/2026/society/article/6856256_36918.html",
-  "https://www.lawleader.co.kr/news/articleView.html?idxno=20110",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81443",
-  "https://www.newspim.com/news/view/20261006001379",
-  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043395",
-  "https://www.newsis.com/view/NISX20261007_0003817134",
-  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171056",
-  "https://www.beopbo.com/news/articleView.html?idxno=338159",
   "https://www.khan.co.kr/article/202610071135001",
   "https://www.mt.co.kr/politics/2026/10/07/2026100710461321973",
   "https://biz.chosun.com/science-chosun/medicine-health/2026/10/07/6ZBUBZUJFJFBNH3ZLVEBVEYCKM/",
@@ -2999,19 +2989,19 @@
   "https://www.dailian.co.kr/news/view/1700759/?sc=Naver",
   "https://www.ziksir.com/news/articleView.html?idxno=149074",
   "https://www.nocutnews.co.kr/news/6590395",
-  "http://www.doctorstimes.com/news/articleView.html?idxno=240453"
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240453",
+  "https://www.m-i.kr/news/articleView.html?idxno=2005132",
+  "https://news.mtn.co.kr/article/2026101310213452813",
+  "https://www.newsis.com/view/NISX20261013_0003823517",
+  "https://www.news1.kr/politics/assembly/6317961",
+  "https://www.edaily.co.kr/News/Read?newsId=02578086645612592&mediaCodeNo=257",
+  "https://www.newspim.com/news/view/20261013000354",
+  "https://newstapa.org/article/9o-Aw",
+  "https://www.insight.co.kr/news/577514",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043566",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554795"
  ],
  "seen_titles": [
-  "법관비위감독과영장심사는별개…서영교\"제대로발부\"발언적절했...",
-  "[MD포커스]국감앞둔장민영기업은행장…‘TCB1572억’에잇단사고,...",
-  "최재민서울중수청장“광범위압색·별건수사등과거잘못되풀이안...",
-  "의료기관'수사·압수수색'가이드라인만든다",
-  "최재민초대서울중수청장취임…“과거잘못되풀이안돼,법·원칙엄...",
-  "[2026국정감사]소아응급실압수수색논란에…정은경장관\"가이드라인...",
-  "소아응급실압수수색논란에…복지부·경찰청,의료사고수사절차개선...",
-  "최재민서울중수청장\"흔들리지않고오직국민바라보며엄정수사\"",
-  "김한규\"판사,법원아닌집에서영장발부\"…법원행정처장\"부적절\"",
-  "[초점]LG유플러스,'4G·5G기지국·중계기임차료담합'행정소송패소",
   "[검찰청폐지]\"고소장은어디로,불송치엔어떻게?\"…내사건10문10답",
   "아주대소아응급실압수수색국감도마…정부,수사가이드라인만든다",
   "복지부,경찰청과의료사고수사절차개선방안논의",
@@ -6001,7 +5991,17 @@
   "野정무위원들\"공정거래위원장,정치적편향없이공정심의의문…사퇴...",
   "박완수선거법수사…유해남대변인,13시간조사만으로혐의단정경...",
   "윤건영\"김지용,李인사권존중하지만지금은국회의시간\"",
-  "소아응급의학회\"경찰무리한수사,소아응급의료사망선고\""
+  "소아응급의학회\"경찰무리한수사,소아응급의료사망선고\"",
+  "위닉스,창호·온돌에현대가전기술접목…전통생활문화알리기나서",
+  "[단독]'3000억원'기술탈취의혹…조정원,이엠텍-KT&G조정착수",
+  "국힘정무위원\"주병기공정거래위원장사퇴해야…왜곡된시장경제인식...",
+  "국힘\"주병기,대기업편향인식우려…공정위원장사퇴해야\"",
+  "국힘정무위원\"재벌이착취주역?편향우려\"…주병기공정위원장사퇴...",
+  "[2026국감]국민의힘정무위원들,주병기사퇴촉구…\"편향된기업관우...",
+  "김지용중수청장후보자7대의혹의이면",
+  "성폭행사장무혐의종결논란...경찰청장대행\"준강간매뉴얼정비\"",
+  "\"전문의사직서에센터반납논의까지\"…소아응급의학계분노",
+  "美정부,야당의원압수수색…트럼프“나라라고할수도없는데서온..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "한창민 공정위원장 쏠림이 삼성 국가재정 위협 의원 주병기"
   ]
  ],
- "last_run": "2026-10-13T10:22:13.767901+09:00",
+ "last_run": "2026-10-13T10:31:00.564412+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
