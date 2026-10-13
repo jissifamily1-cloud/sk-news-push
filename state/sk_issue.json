@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsdream.kr/news/articleView.html?idxno=119560",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103098",
-  "https://www.viva100.com/article/20261007501043",
-  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166654",
-  "https://www.m-economynews.com/news/article.html?no=71440",
-  "https://www.hankyung.com/article/202610078490H",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005933918",
   "https://www.sisajournal.com/news/articleView.html?idxno=389395",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261007010002099",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/society/court-prosecution/6318314",
   "http://www.whosaeng.com/174389",
   "https://www.fnnews.com/news/202610131449208988",
-  "https://www.khan.co.kr/article/202610131501001"
+  "https://www.khan.co.kr/article/202610131501001",
+  "https://www.skyedaily.com/news/news_view.html?ID=230237",
+  "https://www.ibabynews.com/news/articleView.html?idxno=155202",
+  "https://www.m-i.kr/news/articleView.html?idxno=2005358",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071193",
+  "https://www.kmaeil.com/news/articleView.html?idxno=654165",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=92460"
  ],
  "seen_titles": [
-  "우리은행,한국남부발전과'K-택소노미녹색여신'약정…친환경프로젝...",
-  "[재계지도]총수일가지분0.06%인데순환출자8개…QCP그룹의얽힌지배...",
-  "진에어,베트남경쟁당국기업결합승인…해외심사마무리",
-  "전공의노조,응급의료법개정안에\"치료할사람은누가?\"",
-  "임신중지약·소아응급실압수수색복지위국감도마...정은경“제도정...",
-  "이화영측\"더기다리기힘들다\"…李대통령에가석방공개요구",
   "\"4년간40조원\"…SK에너지·현대오일뱅크,기름값담합의혹",
   "공정위,'44조기름값담합'SK에너지·HD현대오일제재착수",
   "최고가격제국감질의는무산…정유4사,12일엔'주유소기름값'도마에",
@@ -6001,13 +5995,15 @@
   "김지용청문회D-1…'친윤·검찰주의자',정진웅·한동훈처남사건쟁점",
   "“필수의료무너뜨리는무리한공권력행사즉각중단하라”",
   "공수처구속영장발부율'25%'뿐...압색영장부실집행'기각'도",
-  "중간선거3주앞두고정적수사?···미행정부,트럼프비판한민주당..."
+  "중간선거3주앞두고정적수사?···미행정부,트럼프비판한민주당...",
+  "공정위SK소속회사의위법채무보증행위제재나서",
+  "[가전트렌드]쿠팡,하반기최대가전·디지털행사'쿠가세'개막外",
+  "[오늘의국감]'추미애12억관사'·'대법관재제청'논란…국감곳곳서...",
+  "국힘,주병기공정위원장사퇴촉구…\"공정한법집행걸림돌\"",
+  "허종식의원,인천동물병원장마약류자가투약사건에관리법개정촉...",
+  "체포뒤휴대전화잠금해제요구…압수와정보탐색은별개절차[이희..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-13T09:20:47.780996+09:00",
-   "한창민 공정위원장 쏠림이 삼성 국가재정 위협 의원 주병기"
-  ],
   [
    "2026-10-13T10:40:53.003961+09:00",
    "의혹 숙인 정유사들 담합 기름값 질타 고개"
@@ -6017,7 +6013,7 @@
    "국감 22일 송명준 대표 HD현대오일뱅크 SK에너지 김종화 산자위"
   ]
  ],
- "last_run": "2026-10-13T15:11:05.792817+09:00",
+ "last_run": "2026-10-13T15:20:54.304715+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
