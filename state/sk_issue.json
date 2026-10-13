@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.doctorstimes.com/news/articleView.html?idxno=240378",
-  "https://www.kbsm.net/news/view.php?idx=536827",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=240568",
   "http://www.koreastocknews.com/news/articleView.html?idxno=121640",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790213.html",
@@ -2999,11 +2997,11 @@
   "https://www.hani.co.kr/arti/society/women/1282242.html",
   "https://imnews.imbc.com/news/2026/society/article/6857674_36918.html",
   "https://www.topstarnews.net/news/articleView.html?idxno=16245906",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684537"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684537",
+  "https://news.jtbc.co.kr/article/NB12322783?influxDiv=NAVER",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1069102"
  ],
  "seen_titles": [
-  "전공의노조\"응급의료법개정안,배후진료여건확충선행돼야\"",
-  "전쟁틈타44조대유가담합…SK에너지·HD현대오일뱅크심판대에오른다",
   "SK에너지·HD현대오일뱅크4.6조과징금폭탄맞나…공정위,4년유가담...",
   "공정위,'44조원대담합혐의'SK에너지·현대오일뱅크제재착수",
   "가습기살균제피해,국가가배상한다…8일부터신청",
@@ -6001,7 +5999,9 @@
   "스토킹등4차례신고에도…입건안한경찰“피해자뜻따른것”",
   "'장모살인·아내납치'부실대응논란에‥경찰감찰착수",
   "'부정거래혐의'방시혁,수사지연사유들어보니…\"권력눈치보지않...",
-  "‘장모살해20대’구속…신고에도참극못막아"
+  "‘장모살해20대’구속…신고에도참극못막아",
+  "[단독]장모살해범,이미'수차례전과'…상습범의계획범죄정황",
+  "'납배출주사의혹'DN오토모티브울산공장,노동부국감'도마'"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T19:50:55.304089+09:00",
+ "last_run": "2026-10-13T20:01:16.975724+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
