@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202609301809001",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3709818",
   "https://www.nspna.com/news/?newsid=830176",
   "http://www.newstown.co.kr/news/articleView.html?idxno=717347",
   "https://www.suwonilbo.kr/view.html?id=L260930202408ec3d",
@@ -2999,11 +2997,11 @@
   "https://www.etnews.com/20261013000311",
   "https://www.ngetnews.com/news/articleView.html?idxno=554428",
   "http://www.dailypop.kr/news/articleView.html?idxno=103329",
-  "https://www.pennmike.com/news/articleView.html?idxno=129436"
+  "https://www.pennmike.com/news/articleView.html?idxno=129436",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609300141&t=NNv",
+  "https://www.m-i.kr/news/articleView.html?idxno=2005358"
  ],
  "seen_titles": [
-  "인스콜라리,‘혁신학’교육과정공개",
-  "인스콜라리(INSCHOLARY),'혁신학'교육과정선보여",
   "인스콜라리,AI시대교육과정'혁신학'선봬",
   "인스콜라리,'혁신학'교육과정공식론칭",
   "인스콜라리,국내외리더들이주목한‘혁신학’교육과정공개",
@@ -6001,7 +5999,9 @@
   "[2026국감]'호남반도체'주52시간예외공방…김영훈장관“결과정...",
   "최태원재산분할비율불복…노소영,부대상고여부촉각",
   "[인사이트]SK최태원의'사회적가치'10년실험…착한일에돈을주면...",
-  "[막전막후]대통령의암수(暗數)또는흑막(黑幕),주병기공정거래위원..."
+  "[막전막후]대통령의암수(暗數)또는흑막(黑幕),주병기공정거래위원...",
+  "중국에다내줬다…K-배터리,전고체가마지막기회",
+  "[오늘의국감]'추미애12억관사'·'대법관재제청'논란…국감곳곳서..."
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-10-13T15:10:16.674677+09:00",
    "암수 공정거래위원 대통령의 흑막 주병기 또는"
+  ],
+  [
+   "2026-10-13T15:20:15.428945+09:00",
+   "관사 논란 곳곳서 12억 국감 추미애 재제청 대법관"
   ]
  ],
- "last_run": "2026-10-13T15:10:36.265602+09:00",
+ "last_run": "2026-10-13T15:20:27.161102+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
