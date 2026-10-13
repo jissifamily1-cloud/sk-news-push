@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=240568",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=121640",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790213.html",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2445119",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145015",
   "https://www.edaily.co.kr/News/Read?newsId=04880646645610624&mediaCodeNo=257",
   "https://www.farminsight.net/news/articleView.html?idxno=16995",
   "https://www.farminsight.net/news/articleView.html?idxno=16993",
@@ -2999,14 +2994,14 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16245906",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684537",
   "https://news.jtbc.co.kr/article/NB12322783?influxDiv=NAVER",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1069102"
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1069102",
+  "https://www.ikbc.co.kr/article/view/kbc202610130064",
+  "http://worknworld.kctu.org/news/articleView.html?idxno=510113",
+  "https://www.kyeongin.com/article/1772486",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5224696",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6857683_37004.html"
  ],
  "seen_titles": [
-  "SK에너지·HD현대오일뱅크4.6조과징금폭탄맞나…공정위,4년유가담...",
-  "공정위,'44조원대담합혐의'SK에너지·현대오일뱅크제재착수",
-  "가습기살균제피해,국가가배상한다…8일부터신청",
-  "당진교육지원청,2027학년도중학교입학추첨관리위원회개최",
-  "5대금융지주기후금융어디까지왔나…선언넘어실행으로",
   "진에어,베트남서기업결합승인…내년3월통합출범'청신호'",
   "신장식,농식품부'산란계때려잡기'회의영상공개…\"국세청동원에...",
   "[국감]임미애,산란계협회해산에\"결론정해둔폭력행정\"",
@@ -6001,7 +5996,12 @@
   "'부정거래혐의'방시혁,수사지연사유들어보니…\"권력눈치보지않...",
   "‘장모살해20대’구속…신고에도참극못막아",
   "[단독]장모살해범,이미'수차례전과'…상습범의계획범죄정황",
-  "'납배출주사의혹'DN오토모티브울산공장,노동부국감'도마'"
+  "'납배출주사의혹'DN오토모티브울산공장,노동부국감'도마'",
+  "김병주\"한동훈,내딸은조국딸과다르다?...진짜자기중심,이중잣대...",
+  "한화오션원·하청노동자동시고공농성,\"자본이노동자를크레인에올...",
+  "경기남부경찰청‘장모살해’피의자수사담당권선경찰서감찰",
+  "[단독]경찰,압수수색도없이횡령혐의'증거불충분'…피의자말만...",
+  "\"가축도아니고21세기에\"‥대통령이어국회서도'납주사'질타"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T20:01:16.975724+09:00",
+ "last_run": "2026-10-13T20:10:59.185832+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
