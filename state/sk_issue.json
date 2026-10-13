@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4025774",
-  "https://www.ddaily.co.kr/page/view/2026100714292508417",
-  "https://www.hankookilbo.com/news/article/A2026100714510002939?did=NA",
-  "https://www.mediapen.com/news/view/1128531",
-  "https://www.khan.co.kr/article/202610071647001",
-  "https://www.seoulfn.com/news/articleView.html?idxno=639583",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312722",
-  "https://biz.sbs.co.kr/article_hub/20000338785?division=NAVER",
   "https://www.youthdaily.co.kr/news/article.html?no=228071",
   "https://www.sportsworldi.com/newsView/20261007516427",
   "https://www.donga.com/news/Society/article/all/20261007/134803154/1",
@@ -2999,17 +2991,17 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363739196",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684454",
   "https://www.newsis.com/view/NISX20261013_0003824508",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193191"
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193191",
+  "https://www.ajunews.com/view/20261008154909853",
+  "https://biz.sbs.co.kr/article_hub/20000339739?division=NAVER",
+  "https://www.ajunews.com/view/20261012173827588",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071275",
+  "http://www.jndn.com/article.php?aid=1791882181441078011",
+  "https://news.tf.co.kr/read/life/2375541.htm",
+  "https://www.medipana.com/news/articleView.html?idxno=419221",
+  "https://www.hankookilbo.com/news/article/A2026101315100005449?did=NA"
  ],
  "seen_titles": [
-  "공정위,SK에너지·현대오일뱅크'44조원대석유담합'제재절차착수",
-  "44조원대석유제품담합의혹…공정위,SK에너지·현대오일뱅크심의착...",
-  "송미령\"농지전수조사,비경작·수도권투기용중심대체안검토\"",
-  "국감장에서고개숙인식품기업인들…CJ·삼양사대표,담합재발방지...",
-  "아사히·삿포로등일맥주4사,긴자‘뒷모임’서짬짜미의혹…공정...",
-  "[국감]송미령\"일반·관행적농지법위반처분하지않을것\"",
-  "[2026국감]기술탈취신고했더니한달대기…10건중4건은부처도못...",
-  "이운익삼양사대표\"정부지원기업인데신뢰저버려\"[2026국감]",
   "CJ제일제당·삼양사,국감서담합사과…\"경쟁사접촉제한·내부통제강...",
   "YG압수수색했지만…지드래곤·양현석저작권법위반사건'무혐의'",
   "압수수색까지갔던지드래곤저작권사건…경찰,무혐의처분",
@@ -6001,7 +5993,15 @@
   "아주대병원압수수색논란,경기경찰국감서재점화…\"의료현장수사규...",
   "[단독]‘송파장모살해범’2년전에도‘사회복무’무단결근수배",
   "국회복지위,김승원'식약처청탁'공방…與\"정치공세\"野\"증인거부...",
-  "[2026국감]SK에너지김종화대표,담합의혹·손실보전액검증요구에..."
+  "[2026국감]SK에너지김종화대표,담합의혹·손실보전액검증요구에...",
+  "[수술대오른상조업]고객돈으로레버리지투자도...고객피해구제...",
+  "KAI노조,14일청와대앞집회예고…\"한화인수시도중단해야\"",
+  "[수술대오른상조업]선수금11조시대…소비자피해우려속선수금운...",
+  "[2026국감]한화,KAI경영참여'도마'…방산독과점·매각시점지적",
+  "서부경찰,현장경찰관역량강화교육",
+  "장모살해·아내납치20대구속…\"도망·증거인멸염려\"",
+  "서울시의사회,소아응급센터압수수색에\"경찰공식사과해야\"",
+  "송파장모살인·아내납치20대사회복무요원구속…\"증거인멸,도주..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T18:01:11.747494+09:00",
+ "last_run": "2026-10-13T18:10:59.225010+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
