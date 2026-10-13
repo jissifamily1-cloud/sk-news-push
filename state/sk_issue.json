@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026100715445462638",
-  "https://www.m-i.kr/news/articleView.html?idxno=2003617",
-  "http://www.lkp.news/news/articleView.html?idxno=84722",
-  "https://www.mk.co.kr/article/12170521",
-  "https://www.mk.co.kr/article/12170520",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61095",
-  "https://www.pressman.kr/news/articleView.html?idxno=103918",
-  "https://www.joongang.co.kr/article/25467879",
-  "https://www.kyeonggi.com/article/20261007580338",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=49528",
   "https://www.topstarnews.net/news/articleView.html?idxno=16240776",
   "https://byline.network/?p=9004111222622516",
@@ -2999,18 +2990,18 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363739174",
   "https://www.newsis.com/view/NISX20261013_0003824322",
   "https://www.newsis.com/view/NISX20261013_0003824410",
-  "https://www.edaily.co.kr/News/Read?newsId=03752326645612592&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03752326645612592&mediaCodeNo=257",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=508425",
+  "https://www.mk.co.kr/article/12174651",
+  "https://sateconomy.co.kr/news/view/1065598856279590",
+  "http://www.bizwnews.com/news/articleView.html?idxno=148777",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449211",
+  "https://www.news1.kr/politics/assembly/6318688",
+  "https://www.medigatenews.com/news/972394940",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240455",
+  "https://www.ddaily.co.kr/page/view/2026101315544766848"
  ],
  "seen_titles": [
-  "기술탈취신고했더니한달대기…10건중4건은부처도못정해",
-  "[2026국감]식품업계'2조원대담합과징금'…CJ제일제당·삼양사대표...",
-  "국내1위아고다,소비자대응은낙제점…이용자신뢰흔들",
-  "네이버파이낸셜·두나무주식교환또다시연기…“내년3월에시행”",
-  "‘통합진에어’내년3월뜬다…베트남기업결합심사마침표",
-  "출범한달'선관위특검'인력태부족...수사전선은확대",
-  "농협중앙회,개혁선언반년넘어...여전한수의계약",
-  "“의미있는결단”“기본권박탈”임신중지약에엇갈린복지위",
-  "경찰,지드래곤·양현석저작권위반피소사건‘무혐의’처분",
   "[STPICK]44조대유가담합…공정위,SK에너지·HD현대오일뱅크제재착...",
   "두나무·네이버파이낸셜주식교환또연기…내년3월로",
   "네이버파이낸셜·두나무합병,내년으로넘어간다",
@@ -6001,7 +5992,16 @@
   "경찰,'장모살해참극'앞선가정폭력수사과정감찰착수",
   "대만해외공관시스템서중국산코드발견…수사착수",
   "노동부특사경사건10건중6건은구속영장기각",
-  "[속보]'구더기방치'전직부사관항소심서무기징역구형"
+  "[속보]'구더기방치'전직부사관항소심서무기징역구형",
+  "[기획]영암군,'방문의해'...226억원문화재생과통합돌봄가동",
+  "“누가결정했나”묻자끝내침묵…쿠팡,책임떠넘기기공방",
+  "CJENM'신비아파트'1심승소에도국감서계약과정논란…'선개발후계...",
+  "그린재킷,우리카드와제휴…캐디피청구할인프로모션진행",
+  "가구업계'빌트인가구'입찰담합또지적,현대리바트내부통제강화·...",
+  "[국감초점]범여권,공수처국감서'한동훈의혹'공세…'李골프'고성...",
+  "[단독]소아응급실압수수색경찰책임자,복지위국감증인부른다",
+  "충북의사회,\"소아응급센터압수수색우려··\"응급의료특수성고려해...",
+  "국감서질타받은정유4사…가격담합심의대응·거래관행개선속도..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T17:01:11.078470+09:00",
+ "last_run": "2026-10-13T17:11:02.080010+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
