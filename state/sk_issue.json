@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mhns.co.kr/news/articleView.html?idxno=763104",
-  "https://mhnse.com/news/articleView.html?idxno=1578545",
-  "https://www.fnnews.com/news/202610071622574384",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3013393",
-  "https://www.fnnews.com/news/202610071626498218",
-  "https://view.asiae.co.kr/article/2026100716552277783",
-  "https://newstapa.org/article/cmEI2",
-  "https://www.tenasia.co.kr/article/2026100785914",
   "http://www.doctorstimes.com/news/articleView.html?idxno=240378",
   "https://www.kbsm.net/news/view.php?idx=536827",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=240568",
@@ -2999,17 +2991,17 @@
   "http://www.ttlnews.com/news/articleView.html?idxno=3151569",
   "https://medicalworldnews.co.kr/news/view.php?idx=1510977840",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000022256&cp=nv",
-  "https://www.k-health.com/news/articleView.html?idxno=101671"
+  "https://www.k-health.com/news/articleView.html?idxno=101671",
+  "http://www.finomy.com/news/articleView.html?idxno=263505",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322110",
+  "https://www.newsis.com/view/NISX20261013_0003824615",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1334041",
+  "https://www.hani.co.kr/arti/society/women/1282242.html",
+  "https://imnews.imbc.com/news/2026/society/article/6857674_36918.html",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16245906",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684537"
  ],
  "seen_titles": [
-  "[국감]임문영의원,기술탈취신고해도한달대기…'범부처신문고'대...",
-  "지드래곤,'내나이열셋'저작권논란벗었다…경찰'무혐의'종결",
-  "지드래곤·양현석'저작권법위반'혐의없음…경찰불송치",
-  "전공의노조\"응급환자수용의무강화전배후진료확충해야\"",
-  "檢폐지직전미제18만건...석달새4만6천건늘어",
-  "[2026국감]복지부\"필수의료현장수사가이드라인제정할것\"",
-  "선박왕권혁,뉴스타파보도7개월만에세금1천억원납부",
-  "GD·양현석,'저작권법위반'혐의벗었다…경찰불송치결정",
   "전공의노조\"응급의료법개정안,배후진료여건확충선행돼야\"",
   "전쟁틈타44조대유가담합…SK에너지·HD현대오일뱅크심판대에오른다",
   "SK에너지·HD현대오일뱅크4.6조과징금폭탄맞나…공정위,4년유가담...",
@@ -6001,7 +5993,15 @@
   "최근3년8개월공정위제재59건...현대리바트,기업집단소속기업중...",
   "대한소아응급의학회“의료진잠재적범죄자낙인…과잉압수수색사과...",
   "美이민당국,중간선거전민주당의원압색",
-  "[복지위국감]의약품재평가지연부터청소년약물오남용까지…식약..."
+  "[복지위국감]의약품재평가지연부터청소년약물오남용까지…식약...",
+  "[2026국감]한화의KAI지분확대'독과점'도마···방사청\"국익차원...",
+  "\"2년배제\"vs\"순차연동\"토스-네이버POS갈등국감으로…공정위\"불...",
+  "국조실장\"부동산문제,국민모두노력해야\"…野\"국민이무슨죄\"(종합...",
+  "[국감,핀셋]광주가정폭력피해자,독립주거시설안내못받았다",
+  "스토킹등4차례신고에도…입건안한경찰“피해자뜻따른것”",
+  "'장모살인·아내납치'부실대응논란에‥경찰감찰착수",
+  "'부정거래혐의'방시혁,수사지연사유들어보니…\"권력눈치보지않...",
+  "‘장모살해20대’구속…신고에도참극못막아"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
   ]
  ],
- "last_run": "2026-10-13T19:20:53.718951+09:00",
+ "last_run": "2026-10-13T19:31:05.484820+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
