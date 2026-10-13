@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1316277&inflow=N",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871831",
-  "https://www.mydaily.co.kr/page/view/2026101212562605230",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172129",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85907",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200144.html",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445567",
@@ -2999,13 +2995,13 @@
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53603",
   "https://www.kbmaeil.com/article/20261013500792",
   "http://www.kjdaily.com/article.php?aid=1791887916688967028",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1186629"
+  "https://www.ggilbo.com/news/articleView.html?idxno=1186629",
+  "https://www.ddaily.co.kr/page/view/2026101317490375429",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5224679",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6857677_37004.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684645"
  ],
  "seen_titles": [
-  "KISA,SK텔레콤'에이닷전화'에음성스팸간편신고기능연계",
-  "한전사장\"호남반도체전력망비용20%부담…삼전닉스가80%\"",
-  "[기자수첩]정년연장,숫자보다중요한것",
-  "“AI로문제풀어보라”…SK,청년50명뽑아월300만원씩2년지원",
   "본업선방삼성카드자본비율↓...주식대박하나카드↑",
   "107조벌어도판다…외국인떠나는삼성·SK",
   "최태원‘사회적가치’실험,글로벌경제의제로…“시장규칙바꿔야...",
@@ -6001,33 +5997,13 @@
   "코스피5.5%급락'검은화요일'…5거래일만에1천p하락",
   "144만원까지추락한SK하이닉스,400만원간다고?…증권가의계산법",
   "대도무문(大道無門)의정치를기대한다/오수열",
-  "[주식마감]상장폐지절차유예기대감에예선테크등4개종목'上'......"
+  "[주식마감]상장폐지절차유예기대감에예선테크등4개종목'上'......",
+  "서남권반도체클러스터속도낸다…'반도체혁신성장지원단'국장급전...",
+  "'중국산메모리'쇼크에횡보하던코스피장중5천대로",
+  "中창신발반도체쇼크?‥\"공정율·양산품질은입증안돼\"",
+  "[여기는포항]해오름동맹출범10주년…“동남권광역협력”외"
  ],
  "recent_sigs": [
-  [
-   "2026-10-13T13:51:15.707482+09:00",
-   "64년의 정유사 까지 선도 SK이노베이션 미래 뚝심"
-  ],
-  [
-   "2026-10-13T13:51:15.707482+09:00",
-   "공급부족 AI 인텔 자본 아닌 걸림돌은 문제 브로드컴"
-  ],
-  [
-   "2026-10-13T13:51:15.707482+09:00",
-   "SK하이닉스 144만원도 넘게 내줘 곤두박질"
-  ],
-  [
-   "2026-10-13T13:51:15.707482+09:00",
-   "비틀기 먹고살게 호남도 최태원 이재용 냅두세요 따져야"
-  ],
-  [
-   "2026-10-13T13:51:15.707482+09:00",
-   "HBM4 급락 한미반도체 22만3500원으로 유효 장비 수요는"
-  ],
-  [
-   "2026-10-13T13:51:15.707482+09:00",
-   "할인율 자산가치 다시 밀려 SK스퀘어 86만6000원으로 부각"
-  ],
   [
    "2026-10-13T14:01:28.188129+09:00",
    "환자 관절 척추 만족하는 도약할 직원 의료기관 분야서 모두"
@@ -7119,9 +7095,13 @@
   [
    "2026-10-13T19:51:04.893594+09:00",
    "상장폐지 예선테크 종목 기대감에 유예 4개 절차"
+  ],
+  [
+   "2026-10-13T20:01:26.267256+09:00",
+   "해오름동맹 10주년 동남권 광역 협력 출범"
   ]
  ],
- "last_run": "2026-10-13T19:51:16.081672+09:00",
+ "last_run": "2026-10-13T20:01:32.092305+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
