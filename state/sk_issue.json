@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/society/society_general/1281251.html",
-  "https://view.asiae.co.kr/article/2026100710390787628",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94182",
-  "http://www.popcornnews.net/news/articleView.html?idxno=135164",
   "https://www.ngetnews.com/news/articleView.html?idxno=554174",
   "https://www.newspim.com/news/view/20261007000443",
   "https://www.sedaily.com/article/20098923",
@@ -2999,13 +2995,13 @@
   "https://www.taxtimes.co.kr/news/article.html?no=277259",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571288625410",
   "http://www.ikld.kr/news/articleView.html?idxno=342112",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=395118"
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=395118",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872128",
+  "http://www.newsprime.co.kr/news/article.html?no=750682",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279994",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/13/2026101390071.html"
  ],
  "seen_titles": [
-  "최재민서울중수청장“오직국민위해법과원칙에따라수사할것”",
-  "[단독]지드래곤압수수색갔던‘내나이열셋’저작권…경찰무혐의...",
-  "'맨홀2명사망'전인천환경공단이사장등18명공소청송치",
-  "최재민서울중수청장\"과거잘못이름만바꿔되풀이안돼...수사방식...",
   "'계양구맨홀사망'인천환경공단전이사장등공소청송치",
   "초대서울지방중수청장최재민“과거잘못되풀이해선안돼”",
   "최재민서울중수청장“정치적이해관계에흔들리지말아야…과거잘못...",
@@ -6001,7 +5997,11 @@
   "최은석의원\"정보확인권한도없는데…친척투자내역까지총수책임?...",
   "[2026국감]오진석GS리테일부사장국감서'진땀'…벤더특혜·판매장...",
   "김병주의원,'방위사업법개정안'대표발의…방산업체M&A시'국가안보...",
-  "미연방수사관,민주당일한오마르의원자택압수수색…\"트럼프의정..."
+  "미연방수사관,민주당일한오마르의원자택압수수색…\"트럼프의정...",
+  "위닉스,한국학중앙연구원과캠페인",
+  "[2026국감]쿠팡,공정위조사대응에\"권리구제\"…최종결정권자여부...",
+  "[국감2026]한화엔진'인력탈취'의혹…STX엔진13명이직조사촉구",
+  "조국\"내가족압수수색90번,한동훈딸수사는0번\""
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "한창민 공정위원장 쏠림이 삼성 국가재정 위협 의원 주병기"
   ]
  ],
- "last_run": "2026-10-13T09:31:05.841763+09:00",
+ "last_run": "2026-10-13T09:40:54.644832+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
