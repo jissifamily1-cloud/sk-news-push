@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261007010002224",
-  "https://www.newsis.com/view/NISX20261007_0003817935",
   "https://www.joongang.co.kr/article/25467922",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=321608",
   "https://www.ngonews.kr/news/articleView.html?idxno=240053",
@@ -2999,11 +2997,11 @@
   "https://www.khan.co.kr/article/202610132115005",
   "https://news.tf.co.kr/read/national/2375923.htm",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/13/2026101390261.html",
-  "https://www.wikitree.co.kr/articles/1165958"
+  "https://www.wikitree.co.kr/articles/1165958",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=584637",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684739"
  ],
  "seen_titles": [
-  "복지부국감,임신중지약도입시각차…응급실수사기준도도마",
-  "[속보]경찰,민주당경기도당압수수색",
   "공정위“SK·현대오일44조담합”…정유사“이미공개된정보”반발",
   "SK에너지·HD현대오일뱅크,44조원대유가담합의혹…공정위제재착수",
   "가습기살균제국가배상본격화…피해자단체\"기업·정부밀실협약중단...",
@@ -6001,19 +5999,12 @@
   "“가습기살균제피해자95만명추산,1%도못찾았는데…배상신청6개월...",
   "[2026국감]부천정신병원환자사망사건,경찰부실수사의혹제기",
   "'장모살해'사회복무요원구속…\"흉기2점미리준비\"",
-  "제주경찰이또...안전확인수차례요청했지만,결국4살딸'사망'"
+  "제주경찰이또...안전확인수차례요청했지만,결국4살딸'사망'",
+  "공정위,남구교복대리점2곳입찰담합적발",
+  "[단독]‘장모살해’20대과거수배이력까지…‘장모살해’경찰대..."
  ],
- "recent_sigs": [
-  [
-   "2026-10-13T15:50:50.086080+09:00",
-   "예고 단기 호재 계약 정제마진 담합 정유업계 상승에 불공정"
-  ],
-  [
-   "2026-10-13T15:50:50.086080+09:00",
-   "심의 국감서 거래관행 진행 정유 혐의 별도 개선 담합 4사"
-  ]
- ],
- "last_run": "2026-10-13T21:40:54.514724+09:00",
+ "recent_sigs": [],
+ "last_run": "2026-10-13T21:51:01.308344+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
