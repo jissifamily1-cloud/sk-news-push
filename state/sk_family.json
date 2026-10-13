@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1638593",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475665",
-  "http://www.ddanzi.com/895922226",
-  "https://www.dailian.co.kr/news/view/1696272/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20260930114400003?input=1195m",
-  "https://www.dt.co.kr/article/12086676",
   "https://www.tournews21.com/news/articleView.html?idxno=144638",
   "https://www.etoday.co.kr/news/view/2630962",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259200",
@@ -2999,15 +2993,15 @@
   "https://www.ggilbo.com/news/articleView.html?idxno=1186430",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=618417",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=6964",
-  "https://www.ppss.kr/news/articleView.html?idxno=315187"
+  "https://www.ppss.kr/news/articleView.html?idxno=315187",
+  "https://www.asiatime.co.kr/article/20261013500145",
+  "https://www.mk.co.kr/article/12174291",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94286",
+  "https://www.kukinews.com/article/view/kuk202610120251",
+  "https://www.cstimes.com/news/articleView.html?idxno=723753",
+  "https://www.edaily.co.kr/News/Read?newsId=02742086645612592&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "김수미,개코와이혼후배우도전\"손석구에게맞아도좋아\"('라스')",
-  "“亞정상권재도약”…최태원‘18년핸드볼후원’금빛결실",
-  "[직설]美국채금리충격…코스피약세이어지나?",
-  "용인시의회스마트행정연구회,강원서AI행정적용사례점검",
-  "[아시안게임]18년간1천700억원…SK의지원,AG서빛발하다",
-  "젠슨황효과'잠잠'…삼성·SK,엔비디아와AI동맹강화",
   "\"우린딸이름도같아\"이재용회장이공개한젠슨황과의세가지공통...",
   "국감총수소환전또시작됐다…경영검증인가정치공방인가",
   "[2026국감]올해국감도기업인들줄소환…쟁점살펴보니",
@@ -6001,7 +5995,13 @@
   "금호전기주가,급등세...왜?",
   "최태원,재산분할33%불복…재상고이유서제출",
   "최태원회장\"사회적가치창출보상받는새자본주의전환필요\"",
-  "[오늘의특징주]예선테크·바이오인프라·서산상한가...상장폐지유예..."
+  "[오늘의특징주]예선테크·바이오인프라·서산상한가...상장폐지유예...",
+  "‘무자원산유국’꿈현실화한SK어스온,베트남광구서추가원유생...",
+  "주가급락속‘호남반도체’테마주만활개…실체없는급등‘주의보...",
+  "최태원,호남반도체현장서속도전선언했지만…땅값·전력·용수는숙...",
+  "최태원‘선착공’의지에도…호남반도체부지·전력·용수곳곳숙제",
+  "[특징주]호남테마주,반도체급락장뚫고'급등'",
+  "“젠슨황이매번간이유있었네”…세계1위오른‘K-푸드’는"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-10-13T10:50:15.455103+09:00",
    "예선테크 상장폐지 바이오인프라 서산 상한가 유예"
+  ],
+  [
+   "2026-10-13T11:10:13.906868+09:00",
+   "있었네 매번 세계 푸드 오른 이유 황이 젠슨 1위"
   ]
  ],
- "last_run": "2026-10-13T11:00:40.911567+09:00",
+ "last_run": "2026-10-13T11:10:27.408673+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
