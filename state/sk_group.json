@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610061339271870fbbec65dfb_1",
-  "http://www.wsobi.com/news/articleView.html?idxno=318518",
-  "https://www.betanews.net/article/view/beta202609210013",
-  "https://www.cnbizm.com/news/articleView.html?idxno=315728",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065608026895670",
   "https://cn.asiatoday.co.kr/view.php?key=20260909001019376",
   "https://www.delighti.co.kr/news/articleView.html?idxno=121534",
@@ -2999,13 +2995,13 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795023&plink=ORI&cooper=NAVER",
   "https://www.munhwa.com/article/11623137",
   "https://www.medipana.com/news/articleView.html?idxno=419153",
-  "https://www.goal.com/kr/뉴스/a/blt08ab25bca3dfa90a"
+  "https://www.goal.com/kr/뉴스/a/blt08ab25bca3dfa90a",
+  "https://www.edaily.co.kr/News/Read?newsId=03037286645612592&mediaCodeNo=257",
+  "http://www.inews24.com/view/2014368",
+  "https://www.fnnews.com/news/202610131014361608",
+  "https://www.ablenews.co.kr/news/articleView.html?idxno=233843"
  ],
  "seen_titles": [
-  "‘포스트HBM’부상한로봇용D램…삼전닉스·마이크론,휴머노이드메...",
-  "[NZSIINDEX]2026년9월23일…삼성전자실적보다중요한시장의방향",
-  "떨어졌을때사자…일주일간개미들이순매수한1위주식어디?",
-  "빅테크는왜게임스튜디오문닫고엔비디아칩에줄섰나",
   "삼성전자·SK,플랙트그룹HVAC생산라인착공·SOVAC2026서지역문제해...",
   "SOVAC2026,‘지역의미래’주제로코엑스서개최…대한민국사회적가...",
   "SKSOVAC,'지역의미래'해법찾는다",
@@ -6001,29 +5997,13 @@
   "두달만에'매도사이드카'…코스피장중6천선붕괴",
   "안재현SK케미칼사장“2030년까지매출2조8000억달성”",
   "코스피의약품업종3Q외국인투자4.8%↑…대형주집중",
-  "‘최예나·츄·이영현·솔지출격’울산HD,축구+차원이다른뮤직페..."
+  "‘최예나·츄·이영현·솔지출격’울산HD,축구+차원이다른뮤직페...",
+  "김동주넘어‘5억원’…두산김지우,우타신인야수최고계약금",
+  "메모리값상승에저가폰'직격탄'…2030년출하량40%↓",
+  "“오르기전분양가그대로”…‘이천역예미지센트럴파크’11월입...",
+  "서울시장애인체육회소속14개종목46명선수'아이치-나고야아시안패..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-13T06:31:10.178811+09:00",
-   "찾을까 반등 급락 활로 코스피"
-  ],
-  [
-   "2026-10-13T06:31:10.178811+09:00",
-   "원더 뮤즈 공개 AI 메타 최고성능"
-  ],
-  [
-   "2026-10-13T06:31:10.178811+09:00",
-   "일제 반도체주 급락 마이크론 하락"
-  ],
-  [
-   "2026-10-13T06:31:10.178811+09:00",
-   "충원 핀셋 채용문 건설사 불황에도 대형"
-  ],
-  [
-   "2026-10-13T06:31:10.178811+09:00",
-   "바이오 코스닥 액티브 빼고 올인 반도체 패시브 이겼다"
-  ],
   [
    "2026-10-13T06:41:04.316787+09:00",
    "AI 테크 퇴행하다 빅테크 화석"
@@ -7111,9 +7091,17 @@
   [
    "2026-10-13T12:21:02.151336+09:00",
    "솔지 출격 축구 이영현 HD 다른 울산 차원이 뮤직 최예나"
+  ],
+  [
+   "2026-10-13T12:31:12.627810+09:00",
+   "분양가 그대로 예미지 이천역 센트럴파크 오르기 11월"
+  ],
+  [
+   "2026-10-13T12:31:12.627810+09:00",
+   "나고야 14개 선수 46명 아이치 아시안패 서울시장애인체육회 종목 소속"
   ]
  ],
- "last_run": "2026-10-13T12:21:13.359777+09:00",
+ "last_run": "2026-10-13T12:31:20.866137+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
