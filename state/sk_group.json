@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727639",
-  "https://www.m-i.kr/news/articleView.html?idxno=2005292",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145583",
-  "https://www.koreajoongangdaily.com/business/global-chip-stocks-tumble-as-chinas-cxmt-unveils-nextgeneration-dram-plans/12917865",
-  "https://imnews.imbc.com/replay/2026/nw1400/article/6857604_36974.html",
   "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013500211?wlog_tag3=naver",
   "https://www.kado.net/news/articleView.html?idxno=2077778",
   "https://www.mt.co.kr/politics/2026/10/13/2026101314554815712",
@@ -2999,14 +2994,14 @@
   "https://www.mediapen.com/news/view/1130000",
   "https://www.chosun.com/economy/tech_it/2026/10/15/LMSKRO5HDZHLVG3ZCWCQZHAV6Y/",
   "https://www.newsis.com/view/NISX20261014_0003826247",
-  "https://www.newsis.com/view/NISX20261014_0003826426"
+  "https://www.newsis.com/view/NISX20261014_0003826426",
+  "https://www.sedaily.com/article/20101758",
+  "https://news.bizwatch.co.kr/article/industry/2026/10/14/0016",
+  "https://www.g-enews.com/view.php?ud=202610150603276448e250e8e188_1",
+  "https://www.fnnews.com/news/202610150604066013",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000073489"
  ],
  "seen_titles": [
-  "강원특별자치도,‘반도체대전2026’강원기업기술력선보인다",
-  "“송전탑·발전소피해누가책임지나”…안성주민들,정보공개·보상...",
-  "부트캠프,‘반도체·미래차전시회’연계교육",
-  "대기업탄소배출다시감소…IT·방산오히려늘어",
-  "산자위,MBK김병주‘홈플러스사태’국감증인재채택[국감]",
   "\"전쟁났나,차한대값날렸다\"…'7천피→5천피'개미들비명",
   "춘천공단오거리~한림성심병원전선지중화‘도시경관개선’",
   "삼성보급형폰전략'변수'…메모리값상승영향",
@@ -6001,7 +5996,12 @@
   "[美증시]9월소비자물가충격에나스닥급락…반도체추락,제약주는...",
   "상장줄고자금회수는막막…초기투자로돌어서는벤처자금",
   "W형?루트형?…증권가\"코스피,연말엔랠리\"",
-  "[오늘의주요일정]사회(10월15일목요일)"
+  "[오늘의주요일정]사회(10월15일목요일)",
+  "뉴욕증시,CPI충격에하락...반도체지수4.3%급락[데일리국제금융]",
+  "이것이'차세대HBM4E'…반도체대전개막",
+  "AI장밋빛환상깨졌나…델11%폭락-반도체주연쇄충격",
+  "美물가충격에엔비디아등반도체주급락세심화",
+  "최태원·앤디김상원의원워싱턴회동…경제협력논의"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,25 @@
   [
    "2026-10-15T06:11:09.570627+09:00",
    "10월15일 사회 목요일"
+  ],
+  [
+   "2026-10-15T06:21:06.695048+09:00",
+   "이것이 HBM4E 반도체대전 차세대 개막"
+  ],
+  [
+   "2026-10-15T06:21:06.695048+09:00",
+   "장밋빛 환상 반도체주 연쇄 폭락 AI 충격 깨졌나"
+  ],
+  [
+   "2026-10-15T06:21:06.695048+09:00",
+   "심화 반도체주 급락세 물가 충격에 엔비디아"
+  ],
+  [
+   "2026-10-15T06:21:06.695048+09:00",
+   "상원의원 최태원 회동 앤디 경제협력 워싱턴 논의"
   ]
  ],
- "last_run": "2026-10-15T06:11:48.303981+09:00",
+ "last_run": "2026-10-15T06:21:20.480113+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
