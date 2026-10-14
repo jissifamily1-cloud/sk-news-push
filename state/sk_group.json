@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171914",
-  "https://www.newsway.co.kr/news/view?ud=2026101315492042305",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795598&plink=ORI&cooper=NAVER",
-  "https://www.cstimes.com/news/articleView.html?idxno=723794",
-  "https://www.newsgn.com/news/articleView.html?idxno=578872",
-  "https://www.news1.kr/photos/8156741",
-  "https://imnews.imbc.com/news/2026/econo/article/6857618_36932.html",
-  "https://www.news1.kr/photos/8156731",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1414290",
   "https://www.g-enews.com/view.php?ud=20261013154800515923c501012_1",
   "https://zdnet.co.kr/view/?no=20261013155522",
   "http://www.iminju.net/news/articleView.html?idxno=170767",
@@ -2999,18 +2990,18 @@
   "https://www.the-today.com/news/articleView.html?idxno=91753",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=280515",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145672",
-  "https://www.fntimes.com/html/view.php?ud=202610150710288984141825007d_18"
+  "https://www.fntimes.com/html/view.php?ud=202610150710288984141825007d_18",
+  "https://www.businessplus.kr/news/articleView.html?idxno=118198",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408209",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65801",
+  "https://www.tjb.co.kr/news05/bodo/view/id/104827",
+  "https://www.etoday.co.kr/news/view/2635936",
+  "https://www.m-economynews.com/news/article.html?no=71676",
+  "http://www.kjdaily.com/article.php?aid=1792017620689138276",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3721973",
+  "https://www.news2day.co.kr/article/20261014500337"
  ],
  "seen_titles": [
-  "김광석\"반도체·AI호황,5년뒤장담못해…전력인프라서M&A기회찾...",
-  "반도체주하락에코스피급락",
-  "코스피,외국인4.5조매도에5.46%하락마감…반도체주직격탄",
-  "[마감시황]코스피,5.46%급락에도6천선사수…삼전닉스동반폭락",
-  "김병주MBK파트너스회장다시국회증인채택",
-  "‘반도체쇼크’코스피5.5%급락…6000선턱걸이",
-  "코스피,외인4조5000억'매도폭탄'에5.46%급락…6000선턱걸이",
-  "코스피5%급락마감…장중'육천피'깨지기도",
-  "코스피,5.5%하락에6000턱걸이...외인4.5조순매도속'반도체만급...",
   "세미콘웨스트,'포스트HBM'격전지로…K소부장,영토확장나선다",
   "싸진코스피에도외국인은'셀코리아'…\"매수주체공백우려↑\"",
   "[현장에서]안성이짊어진'두개의짐'",
@@ -6001,7 +5992,16 @@
   "[투데이온]SK하이닉스,美첫HBM거점에정규직1000명…인재채용시...",
   "[억지파업삼성바이오]⑤신유열·최윤정송도·PRS뜀박질...메리츠·한...",
   "[오늘의글로벌마켓]뉴욕증시,예상웃돈물가지표에기술주중심하락...",
-  "[KFT모닝브리프]2026.10.15—오늘꼭알아야할국내외경제뉴스"
+  "[KFT모닝브리프]2026.10.15—오늘꼭알아야할국내외경제뉴스",
+  "[요즘테크+/⑧]'모두의AI'본격화…사업자준비속정책일관성시험대",
+  "삼성전자,실리콘밸리서6G주도권확보나선다…AI·위성통신기술공...",
+  "물가쇼크에나스닥1.9%급락…AI·반도체동반추락",
+  "9월CPI쇼크에인플레우려고조...뉴욕증시일제하락",
+  "[증시키워드]삼성·SK차세대반도체청사진공개…원전·배터리등주...",
+  "뉴욕증시,예상웃돈물가에일제히하락...AI주급락에나스닥1.88%↓",
+  "美물가충격에뉴욕증시하락…나스닥1.88%급락",
+  "'나는솔로'34기영철공무원→상철'SK하닉'...나이와직업공개",
+  "중유,연료아닌원료로써도세금...면세법다시국회로"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,17 @@
   [
    "2026-10-15T07:41:09.423970+09:00",
    "알아야 국내외 경제뉴스"
+  ],
+  [
+   "2026-10-15T07:51:03.344445+09:00",
+   "영철 나이와 나는솔로 SK하닉 공무원 공개 직업 상철 34기"
+  ],
+  [
+   "2026-10-15T07:51:03.344445+09:00",
+   "써도 면세법 다시 중유 연료 세금 원료로 아닌 국회로"
   ]
  ],
- "last_run": "2026-10-15T07:41:20.492660+09:00",
+ "last_run": "2026-10-15T07:51:12.988119+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
