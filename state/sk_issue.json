@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1699314/?sc=Naver",
-  "https://www.hani.co.kr/arti/society/society_general/1281447.html",
-  "http://www.ddanzi.com/896543312",
-  "https://news.jtbc.co.kr/article/NB12321945?influxDiv=NAVER",
-  "https://www.news1.kr/photos/8149076",
-  "https://www.news1.kr/photos/8149075",
   "https://www.news1.kr/photos/8149055",
   "https://www.epnc.co.kr/news/articleView.html?idxno=407948",
   "https://www.news1.kr/photos/8149050",
@@ -2999,15 +2993,15 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=554927",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2306900",
   "https://www.fnnews.com/news/202610141321272533",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275148&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275148&CMPT_CD=P0010",
+  "https://www.lawtv.kr/news/articleView.html?idxno=61140",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=86056",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267767",
+  "https://www.newsis.com/view/NISX20261014_0003825594",
+  "https://www.mt.co.kr/society/2026/10/14/2026101411425441030",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1414573"
  ],
  "seen_titles": [
-  "경찰,'무민공원의혹'김성제의왕시장주거지·집무실압수수색",
-  "경찰,‘무민공원의혹’김성제의왕시장자택·집무실압수수색",
-  "[뉴공아카이브]퍼니포:尹,‘명태균여론조사’1심뒤집고무죄…왜...",
-  "경찰,'무민공원공사'관련김성제의왕시장자택·집무실압수수색",
-  "가습기살균제참사희생자추모묵념",
-  "가습기살균제참사희생자추모묵념하는김성환장관",
   "가습기살균제피해배상참여기업들",
   "국내가전소비자,'실용성'선호…카테고리별구매시점차이",
   "경청하는가습기살균제배상참여기업관계자들",
@@ -6001,7 +5995,13 @@
   "선관위특검,50억원대선거용품입찰의혹수사...중앙선관위등5곳압...",
   "반도체검사기술중국서무단사용…전직원3명기소",
   "경찰,가족연계기업에100억대자문료준LG엔솔사장수사",
-  "함께고공농성하는한화오션원·하청노동자들,그이유가"
+  "함께고공농성하는한화오션원·하청노동자들,그이유가",
+  "돌아온'재계저승사자'첫업무는먹거리담합조사",
+  "공정위중점조사단1호타깃은식품업계…대상·오뚜기·CJ제일제당현장...",
+  "밀가루부산물8년간1.4조담합적발…공정위과징금최대2100억",
+  "공정위중점조사기획단'1호사건'은식품담합…오뚜기등현장조사",
+  "선관위,투표소물품업체와유착의혹…특검팀,압수수색",
+  "[유통레이더]롯데온,애경산업,11번가,코스메카코리아,SK스토아,크라..."
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-10-14T13:10:54.613970+09:00",
    "경쟁 번호이동 했다면 담합 했겠나 SK텔레콤 재판부 3사"
+  ],
+  [
+   "2026-10-14T13:40:47.767474+09:00",
+   "11번가 롯데온 코스메카코리아 크라 애경산업 SK스토아"
   ]
  ],
- "last_run": "2026-10-14T13:31:07.320286+09:00",
+ "last_run": "2026-10-14T13:40:55.721774+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
