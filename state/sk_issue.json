@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000021056&cp=nv",
-  "https://www.hankyung.com/article/2026100816207",
-  "http://worknworld.kctu.org/news/articleView.html?idxno=510102",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523500",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214362",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364419",
-  "https://www.news1.kr/local/busan-gyeongnam/6314938",
-  "https://www.busan.com/view/busan/view.php?code=2026100817314139128",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321639",
-  "https://magazine.hankyung.com/money/article/202610081999c",
-  "https://www.harpersbazaar.co.kr/article/1911120",
   "https://www.wikitree.co.kr/articles/1164914",
   "https://biz.heraldcorp.com/article/10897453",
   "https://www.mydaily.co.kr/page/view/2026100818404280829",
@@ -2999,20 +2988,20 @@
   "https://www.hankyung.com/article/2026101422621",
   "https://www.fnnews.com/news/202610141806159593",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261014.99099004080",
-  "https://www.namdonews.com/news/articleView.html?idxno=926162"
+  "https://www.namdonews.com/news/articleView.html?idxno=926162",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087269",
+  "https://www.newspim.com/news/view/20261014001407",
+  "http://www.jndn.com/article.php?aid=1791970033441203005",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=319051",
+  "https://www.pressian.com/pages/articles/2026101418265201544",
+  "https://www.nocutnews.co.kr/news/6591609",
+  "https://www.hankookilbo.com/news/article/A2026101417250003062?did=NA",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261014182859Ams",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8685635",
+  "https://www.news1.kr/local/gwangju-jeonnam/6320334",
+  "https://www.ytn.co.kr/_ln/0101_202610141817555940"
  ],
  "seen_titles": [
-  "전재수전보좌진4명,‘증거인멸’1심불복…검찰도항소",
-  "CIA간부가빼돌린1941억원…금괴만수백개압수",
-  "플랜트건설노조,노동조합역사상처음9월총파업및10월민중항쟁역사...",
-  "[현장속으로①]광주글로벌모터스'노사갈등장기화'",
-  "\"경쟁사접촉사전승인·사후정산폐지\"…SK에너지,'담합고리'끊는다",
-  "SK에너지,담합의혹하루만에쇄신안발표",
-  "박완수경남지사,'관권선거·딥페이크의혹'경찰출석…13시간조사",
-  "'통일교금품수수의혹'전재수전보좌진·검찰,1심불복해쌍방항소",
-  "15년간4000억체납한'선박왕'…국세청압박에결국납부약속",
-  "SK에너지,거래관행개선책내놨다…“국민께심려끼쳐송구”",
-  "가을전시회갈때뭐입지?안유진부터카리나까지,셀럽들의미술관...",
   "\"계란값23.3%급등\"은특정일고시가격…실제평균은6.7%,임미애\"농식...",
   "경찰비리또터졌다…수사정보유출혐의현직경찰간부2명압수수색...",
   "[속보]\"김창민감독무차별폭행살해\"…가해자2명각각징역20년·15년",
@@ -6001,7 +5990,18 @@
   "친윤선그은김지용\"정치검사1호윤석열\"",
   "시민단체,한동훈고발…\"딸허위스펙수사무마의혹\"",
   "청약통장사들여강남아파트분양권판매한일당39명검거…26억원챙...",
-  "전남권민원시위까지광주청사로…3청사구상시험대"
+  "전남권민원시위까지광주청사로…3청사구상시험대",
+  "대구·경북가습기살균제피해신고사망자54명,구제미인정",
+  "'재계저승사자'1호사건은식품...업계,연이는담합조사에'한숨'",
+  "경찰‘선거법위반의혹’신수정북구청장실압수수색",
+  "김지용적격성놓고갈린與…\"비겁한선택\"vs\"반윤\"",
+  "[속보]안동산불이재민임시주택납품비리의혹A씨구속",
+  "[단독]김지용\"정진웅기소반대\"라더니…문건엔'기소'논리만",
+  "선관위특검,'법관활동비'의혹압수수색막히자법원직격…\"영장재...",
+  "김민석\"'신천지입당'확인\"…정청래\"있는대로공개\"",
+  "선관위특검“법원이고위법관‘활동비부당지급’압색영장기각”",
+  "GGM노조부분파업·삭발투쟁…'대표사퇴·시해결'촉구",
+  "'신천지확인'에여내홍재점화...야\"압수수색·특검\""
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "쿠팡 진행 홈인테리어 리빙쇼 와우 하반기"
   ]
  ],
- "last_run": "2026-10-14T18:20:55.276906+09:00",
+ "last_run": "2026-10-14T18:31:04.892759+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
