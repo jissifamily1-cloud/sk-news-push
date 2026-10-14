@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2374612.htm",
-  "https://www.nocutnews.co.kr/news/6589254",
-  "http://www.lawissue.co.kr/view.php?ud=202610082024478263204ead0791_12",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44328",
-  "https://www.segye.com/newsView/20261008517724?OutUrl=naver",
-  "https://kjmbc.co.kr/NewsArticle/1540248",
-  "https://mpmbc.co.kr/NewsArticle/1540218",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=797499",
-  "http://andongmbc.co.kr/adboard/NewsView85178",
   "https://www.ajunews.com/view/20261008211814431",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681326",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000021187&cp=nv",
@@ -2999,18 +2990,18 @@
   "https://www.ekn.kr/web/view.php?key=20261014027076297",
   "https://www.joongang.co.kr/article/25469750",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8685644",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6320357"
+  "https://www.news1.kr/local/daegu-gyeongbuk/6320357",
+  "https://m.skyedaily.com/news_view.html?ID=312688",
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1552801",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3151990",
+  "https://www.korea.kr/briefing/actuallyView.do?newsId=148973510&call_from=naver_news",
+  "https://www.dt.co.kr/article/12089186",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000022633&cp=nv",
+  "https://biz.chosun.com/industry/company/2026/10/14/ONQYNZ6LZVHKPAKNRFMDW2ACOQ/",
+  "https://www.mt.co.kr/society/2026/10/14/2026101418460123885",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1540511"
  ],
  "seen_titles": [
-  "쿠팡,공정위·개보위처분에연쇄불복…\"과도한제재,법원서소명\"",
-  "'전재수금품의혹증거인멸'전직보좌진4명·공소청모두항소",
-  "쿠쿠,4L자연기화식가습기선보여",
-  "소송없이국가에직접배상신청…가습기살균제피해,8일부터국가주...",
-  "경찰,‘관권선거·딥페이크의혹’박완수경남지사피의자신분13시간...",
-  "\"영장이미올라갔어\"해경,피의자에수사정보유출의혹",
-  "의원문의에직접찾아간해경..수사내용까지보고?",
-  "[위클리오늘]권기창안동시장측근수사,시청안으로번졌다…정책보...",
-  "경찰,안동시정책보좌관구속영장신청",
   "[2026국정감사]공소취소지휘않겠다는법무부…검찰수사적정성은...",
   "‘성폭행불송치’후숨진19살…공소청이가해자기소",
   "[사설]가습기살균제사태15년…이젠치유에나설때다",
@@ -6001,7 +5992,16 @@
   "부산중수청,경찰통보사건140여건검토…영장·송치기준협의중",
   "경찰,‘금품수수의혹’전진선양평군수관련건설업체압수수색",
   "LG디스플레이·LG엔솔,전임원75억원대배임혐의로고소",
-  "'안동산불임시주택납품비리'연루A씨구속"
+  "'안동산불임시주택납품비리'연루A씨구속",
+  "먹고나면버려지는컵라면용기,알고보니‘재활용최우수’등급",
+  "[성산칼럼]‘사회연대경제기본법’제정에대한개인적소회-김기형(...",
+  "김현정의원,듀오·거짓과장광고지적...\"공정위제재실효성강화해...",
+  "[사실은이렇습니다][설명]서울경제(10.14.)담합전으로낮춘다...가...",
+  "LG엔솔전임원,업무상배임혐의로피소…최대100억추정",
+  "“연봉2배줄게”…반도체검사핵심기술빼돌린3명‘덜미’",
+  "LG엔솔·LG디스플레이,전임원75억배임혐의로고소",
+  "경찰불송치한집단성폭행사건…공소청재수사거쳐3명전원구속기...",
+  "선관위특검\"고위법관수사확대에법원압색불허\""
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "쿠팡 진행 홈인테리어 리빙쇼 와우 하반기"
   ]
  ],
- "last_run": "2026-10-14T19:01:16.855767+09:00",
+ "last_run": "2026-10-14T19:10:58.139275+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
