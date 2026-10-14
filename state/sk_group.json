@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=280086",
-  "https://www.newscj.com/news/articleView.html?idxno=3439858",
-  "https://www.etoday.co.kr/news/view/2634718",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494858",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=765539",
-  "https://www.chosun.com/economy/industry-company/2026/10/02/EZ5QE64ORVFGBIAMKREPFGHLNI/",
   "https://biz.chosun.com/distribution/food/2026/10/12/6NNAP2A2ZREH7G5H7FKEUWOWJY/",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000022088&cp=nv",
   "https://www.joongangenews.com/news/articleView.html?idxno=554512",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2005999",
   "https://www.greened.kr/news/articleView.html?idxno=352097",
   "https://www.edaily.co.kr/News/Read?newsId=05815446645612920&mediaCodeNo=257",
-  "https://www.hankyung.com/article/2026101425447"
+  "https://www.hankyung.com/article/2026101425447",
+  "http://www.e-platform.net/news/articleView.html?idxno=106128",
+  "http://www.kwangju.co.kr/article.php?aid=1791981600804303372",
+  "https://www.vegannews.co.kr/news/article.html?no=392644",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495366",
+  "https://www.cwn.kr/news/articleView.html?idxno=59396",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495368"
  ],
  "seen_titles": [
-  "코스피연일급락에공포지수23%급등…시총5천조원깨져",
-  "SK하이닉스급락에도…하나證“360만원간다”[오늘,이종목",
-  "韓日協力を模索「未来経済フォーラム」参加受け付け開始＝ソウルで11...",
-  "[속보]SK하이닉스10%이상급락…144만원붕괴",
-  "SK어스온,베트남서원유생산확대…추산자원량6000만배럴",
-  "SK集团会长崔泰源视察光州半导体项目用地：“将以最快速度推进建设”",
   "\"허리·목통증,척추질환신호일수있어\"주의필요",
   "[2026국감]'반도체경쟁력'주52시간예외국감서다시쟁점",
   "민주노총“원청교섭요구644곳중실제교섭22곳뿐”",
@@ -6001,7 +5995,13 @@
   "용인특례시,'2026년하반기일자리박람회'에'반도체산업관'신설",
   "PF규제2년유예에도못웃는건설·시행사…SK디앤디·롯데건설·코오...",
   "\"코스피급락,피눈물\"…개미들반대매매무려'593억원'",
-  "증시'검은화요일'에600억반대매매'비명'…두달여만에최대"
+  "증시'검은화요일'에600억반대매매'비명'…두달여만에최대",
+  "SK가스,2030년까지연평균세전이익4500억원달성추진",
+  "“국민의힘‘호남반도체때리기’는영남·총선겨냥정치적포석”",
+  "삼성전자보합마감…SK하이닉스1.66%하락",
+  "코스피시총5000조붕괴...하반기대형주31%급락·소형주는상승",
+  "25년일감잡은우양상선…발레와손잡고5800억원선박투자",
+  "[표]10월14일매매동향...코스피,외국인매물에반등'무산'"
  ],
  "recent_sigs": [
   [
@@ -6841,7 +6841,7 @@
    "600억 비명 만에 화요일 달여 증시 검은 반대매매"
   ]
  ],
- "last_run": "2026-10-14T21:41:15.463029+09:00",
+ "last_run": "2026-10-14T21:51:04.852627+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
