@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610101840018487112616b072_1",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273331&CMPT_CD=P0010",
   "https://www.polinews.co.kr/news/articleView.html?idxno=745360",
   "https://www.mk.co.kr/article/12172746",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871535",
@@ -2999,11 +2997,11 @@
   "http://www.bizwnews.com/news/articleView.html?idxno=148905",
   "https://www.delighti.co.kr/news/articleView.html?idxno=123270",
   "https://www.sportschosun.com/life/2026-10-15/202610140100089970005841",
-  "https://slownews.kr/167945"
+  "https://slownews.kr/167945",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400389.html",
+  "https://www.donga.com/news/Society/article/all/20261015/134844568/1"
  ],
  "seen_titles": [
-  "대한소아청소년병원협회,회원병원75%\"전문의부족\"",
-  "부실수사검증도없이...검찰은왜엉터리기소를했나[김종성의'히...",
   "손훈모시장첫기자회견,질문은막히고언쟁만…'소통순천'은실종",
   "판사는‘집에서영장’,대법원장은‘오마카세’…국감서드러난‘법...",
   "브라질,해커지갑서가상자산170만달러압수",
@@ -6001,7 +5999,9 @@
   "\"첨단기술해외유출범,끝까지잡는다\"…지식재산처,국감후속입법으로...",
   "LG엔솔前사장,가족연관중국업체에75억자문료…회사가배임혐의고...",
   "GS25편의점물류공급중통행세의혹…공정위,법위반소지검토",
-  "국무회의생중계라는연극을그만둬야지지율오른다:슬로우레터10월..."
+  "국무회의생중계라는연극을그만둬야지지율오른다:슬로우레터10월...",
+  "환자받으라강제하고응급실은압수수색…이게필수의료개혁인가[...",
+  "경찰이불송치한집단성폭행사건…공소청이뒤집고3명전원구속기소"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "44조1000억 기름값 담합 규모 현대오일뱅크 SK에너지"
   ]
  ],
- "last_run": "2026-10-15T07:50:56.057167+09:00",
+ "last_run": "2026-10-15T08:01:15.109696+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
