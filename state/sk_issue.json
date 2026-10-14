@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03089766645610952&mediaCodeNo=257&returntp=election",
-  "https://www.newsis.com/view/NISX20261008_0003818800",
-  "https://www.eroun.net/news/articleView.html?idxno=91243",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438325",
   "https://www.fntimes.com/html/view.php?ud=202610081055472775fa6b69a559_18",
   "https://biz.chosun.com/opinion/leader_column/2026/10/08/XEY35SFXUBEQBCKPZNY7OYZB7Y/",
   "https://www.wikitree.co.kr/articles/1164753",
@@ -2999,13 +2995,13 @@
   "https://www.beminor.com/news/articleView.html?idxno=30570",
   "https://www.the-today.com/news/articleView.html?idxno=91699",
   "https://www.sedaily.com/article/20101480",
-  "https://www.news1.kr/society/court-prosecution/6319747"
+  "https://www.news1.kr/society/court-prosecution/6319747",
+  "https://www.hankookilbo.com/news/article/A2026101410470002809?did=NA",
+  "https://www.hankookilbo.com/news/article/A2026101413440000044?did=NA",
+  "https://www.etoday.co.kr/news/view/2635712",
+  "https://www.livebiz.today/news/articleView.html?idxno=205582"
  ],
  "seen_titles": [
-  "출범100일맞은경기남부지자체에경찰수사'칼바람'",
-  "공정위담합심의에…SK에너지,공정거래내부통제강화나선다",
-  "[이로운넷현장]공시·금융·공급망따로움직이는ESG...국회서'기본법...",
-  "홈플러스·쿠팡·정유사대표급…공정위국감증인줄소환",
   "통합진에어,베트남경쟁위원회기업결합승인…빨라지는'메가LCC'출...",
   "[현장의시각]K푸드가잘될수록걱정되는한가지",
   "인천정신병원서“살려달라”쪽지…올해만4명숨졌다,무슨일",
@@ -6001,7 +5997,11 @@
   "[국감]격리·강박사망사건일어난W진병원…경찰,'부실수사'에제식...",
   "[속보]전진선양평군수금품수수의혹,건설사압수수색",
   "특검,중앙선관위등5곳압수수색…선거물품유착정황확인",
-  "선관위-투표소물품업체50억상당유착정황…특검압수수색(종합)"
+  "선관위-투표소물품업체50억상당유착정황…특검압수수색(종합)",
+  "가습기살균제재심사결과받는데최장4년반걸렸다",
+  "'재계저승사자'1호표적은식품담합...대상·오뚜기·CJ제일제당현...",
+  "공정위중점조사기획단1호사건‘먹거리’...대상‧오뚜기‧CJ제일제...",
+  "21년만에부활한'재계저승사자',첫타깃은대상·오뚜기·CJ제일제당..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "11번가 롯데온 코스메카코리아 크라 애경산업 SK스토아"
   ]
  ],
- "last_run": "2026-10-14T14:10:53.423251+09:00",
+ "last_run": "2026-10-14T14:14:22.685926+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
