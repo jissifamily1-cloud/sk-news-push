@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013500211?wlog_tag3=naver",
-  "https://www.kado.net/news/articleView.html?idxno=2077778",
-  "https://www.mt.co.kr/politics/2026/10/13/2026101314554815712",
-  "https://www.hankyung.com/article/202610139097i",
-  "http://www.lkp.news/news/articleView.html?idxno=84873",
-  "https://www.mk.co.kr/article/12174492",
-  "https://www.joongang.co.kr/article/25469327",
   "http://coinreaders.com/262860",
   "http://www.newsprime.co.kr/news/article.html?no=750755",
   "https://zdnet.co.kr/view/?no=20261013103519",
@@ -2999,16 +2992,16 @@
   "https://news.bizwatch.co.kr/article/industry/2026/10/14/0016",
   "https://www.g-enews.com/view.php?ud=202610150603276448e250e8e188_1",
   "https://www.fnnews.com/news/202610150604066013",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000073489"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000073489",
+  "https://www.yna.co.kr/view/AKR20261015006351072?input=1195m",
+  "https://www.seoul.co.kr/news/international/2026/10/15/20261015500007?wlog_tag3=naver",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495369",
+  "https://www.news2day.co.kr/article/20261014500167",
+  "https://www.viva100.com/article/20261014500775",
+  "https://www.viva100.com/article/20261014500020",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=765804"
  ],
  "seen_titles": [
-  "\"전쟁났나,차한대값날렸다\"…'7천피→5천피'개미들비명",
-  "춘천공단오거리~한림성심병원전선지중화‘도시경관개선’",
-  "삼성보급형폰전략'변수'…메모리값상승영향",
-  "[오늘의국감]'추미애12억관사'·'대법관재제청'논란…국감곳곳서...",
-  "[CEOX파일]SKC_김종우대표,동박자회사9500억조달…3000억투자금...",
-  "[기자수첩]글로벌기업이먼저찾는K게이머···게임업계잡아야할...",
-  "깐깐해진금감원에경남제약,다보링크도유상증자철회....",
   "CXMT4F²D램진전주장에...모닝스타\"상용화까지시차상당\"",
   "체코원전불공정계약에호남송전망파음…산자위국감'후끈'",
   "[2026국감]한국형디스커버리확대에기술유출우려…반도체·통신영...",
@@ -6001,7 +5994,14 @@
   "이것이'차세대HBM4E'…반도체대전개막",
   "AI장밋빛환상깨졌나…델11%폭락-반도체주연쇄충격",
   "美물가충격에엔비디아등반도체주급락세심화",
-  "최태원·앤디김상원의원워싱턴회동…경제협력논의"
+  "최태원·앤디김상원의원워싱턴회동…경제협력논의",
+  "뉴욕증시,물가충격·반도체약세에하락…나스닥1.9%↓(종합)",
+  "[서울데이터랩]미국증시,기술주급락에나스닥1.88%↓…반도체주약...",
+  "뉴욕증시덮친인플레이션공포…마이크론·SK하이닉스ADR'와르르'",
+  "[N2모닝경제브리핑-10월15일]美증시,물가·AI우려에기술주급락...",
+  "AI성과가인사지형바꾸나⋯재계,연말인사시험대",
+  "[반도체인재리포트⑥]“사람이없습니다”⋯‘밑빠진독물붓기’...",
+  "[소비자분쟁The50㊵]요금낮춰준다더니탭까지몰래계약?…고령자울..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,29 @@
   [
    "2026-10-15T06:21:06.695048+09:00",
    "상원의원 최태원 회동 앤디 경제협력 워싱턴 논의"
+  ],
+  [
+   "2026-10-15T06:31:27.930164+09:00",
+   "공포 ADR 와르르 SK하이닉스 인플레이션 덮친 마이크론 뉴욕증시"
+  ],
+  [
+   "2026-10-15T06:31:27.930164+09:00",
+   "증시 물가 AI 기술주 급락 우려에"
+  ],
+  [
+   "2026-10-15T06:31:27.930164+09:00",
+   "인사 시험대 AI 연말 성과가 재계 지형 바꾸나"
+  ],
+  [
+   "2026-10-15T06:31:27.930164+09:00",
+   "붓기 사람이 빠진 없습니다"
+  ],
+  [
+   "2026-10-15T06:31:27.930164+09:00",
+   "요금 고령자 몰래 계약 탭까지 낮춰준다더니"
   ]
  ],
- "last_run": "2026-10-15T06:21:20.480113+09:00",
+ "last_run": "2026-10-15T06:31:44.957960+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
