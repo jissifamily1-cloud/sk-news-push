@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609281843160320109133",
-  "https://www.ddaily.co.kr/page/view/2026101316044280518",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261013160827ZwT",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=280176",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494958",
-  "https://dealsite.co.kr/articles/170562",
-  "https://www.mt.co.kr/stock/2026/10/13/2026101315573629643",
-  "https://www.joongang.co.kr/article/25469347",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274954&CMPT_CD=P0010",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171914",
   "https://www.newsway.co.kr/news/view?ud=2026101315492042305",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795598&plink=ORI&cooper=NAVER",
@@ -2999,18 +2990,18 @@
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364675",
   "https://www.newsway.co.kr/news/view?ud=2026101507130340834",
   "https://biz.sbs.co.kr/article_hub/20000340040?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000340033?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000340033?division=NAVER",
+  "https://www.khan.co.kr/article/202610150738001",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445723",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261015073640OX8",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727881",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6858073_37012.html",
+  "https://www.the-today.com/news/articleView.html?idxno=91753",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=280515",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145672",
+  "https://www.fntimes.com/html/view.php?ud=202610150710288984141825007d_18"
  ],
  "seen_titles": [
-  "'검은화요일'외국인4.5조매도폭탄...코스피6000선턱걸이",
-  "삼성·SK,세계최대반도체R&D거점'에픽센터'참여",
-  "코오롱인더스트리,FAKUMA2026서친환경소재공개…SK어스온,베트남서...",
-  "신정훈국회의원“호남도좀먹고살게둬라”…고용부에반도체일자리...",
-  "AI로연결된산업현장…삼성·LG,한국전자전서미래기술경쟁",
-  "6000까지밀린코스피…中창신메모리·외국인매도에급락",
-  "한국ESG평가원,KB금융·현대차등5개사최우수기업선정",
-  "에너지공급망불확실성속SK어스온,베트남원유생산거점확대",
-  "삼전닉스하락에코스피급락",
   "김광석\"반도체·AI호황,5년뒤장담못해…전력인프라서M&A기회찾...",
   "반도체주하락에코스피급락",
   "코스피,외국인4.5조매도에5.46%하락마감…반도체주직격탄",
@@ -6001,7 +5992,16 @@
   "예상웃돈CPI에뉴욕증시하락…나스닥2%↓",
   "美물가쇼크에뉴욕증시일제히하락…나스닥1.88%↓",
   "삼성전자,'실리콘밸리미래통신서밋'개최…차세대네트워크논의",
-  "[마켓프리뷰]코스피엿새째하락'한숨'…ASML호실적도'실망'"
+  "[마켓프리뷰]코스피엿새째하락'한숨'…ASML호실적도'실망'",
+  "소비자물가충격에뉴욕증시하락…나스닥1.9%↓",
+  "삼성전자,'실리콘밸리미래통신서밋2026'개최…6G기술공개",
+  "SK그룹,웨스팅하우스지분투자검토…대형원전으로확장",
+  "中CXMT'4F²D램'도전장…삼성·SK,초격차기술로맞불",
+  "소비자물가예상치상회에뉴욕증시하락",
+  "[투데이온]SK하이닉스,美첫HBM거점에정규직1000명…인재채용시...",
+  "[억지파업삼성바이오]⑤신유열·최윤정송도·PRS뜀박질...메리츠·한...",
+  "[오늘의글로벌마켓]뉴욕증시,예상웃돈물가지표에기술주중심하락...",
+  "[KFT모닝브리프]2026.10.15—오늘꼭알아야할국내외경제뉴스"
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,21 @@
   [
    "2026-10-15T07:33:24.764309+09:00",
    "엿새째 한숨 호실적도 ASML 실망 코스피 하락"
+  ],
+  [
+   "2026-10-15T07:41:09.423970+09:00",
+   "송도 PRS 뜀박질 최윤정 신유열 메리츠"
+  ],
+  [
+   "2026-10-15T07:41:09.423970+09:00",
+   "웃돈 예상 중심 뉴욕증시 기술주 하락 물가지표에"
+  ],
+  [
+   "2026-10-15T07:41:09.423970+09:00",
+   "알아야 국내외 경제뉴스"
   ]
  ],
- "last_run": "2026-10-15T07:33:31.062255+09:00",
+ "last_run": "2026-10-15T07:41:20.492660+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
