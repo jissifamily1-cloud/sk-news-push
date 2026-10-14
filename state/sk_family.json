@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ceoscoredaily.com/page/view/2026100216562367412",
-  "http://www.breaknews.com/1240786",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930936",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=240457",
-  "https://view.asiae.co.kr/article/2026100216570374216",
-  "https://www.donga.com/news/Economy/article/all/20261002/134776926/1",
   "https://www.tfmedia.co.kr/news/article.html?no=207677",
   "https://www.sidae.com/article/2026100216165290835",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192783",
@@ -2999,15 +2993,15 @@
   "http://www.mygoyang.com/news/articleView.html?idxno=90712",
   "http://www.newstomato.com/ReadNews.aspx?no=1316636&inflow=N",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4439221",
-  "https://www.thepublic.kr/news/articleView.html?idxno=322221"
+  "https://www.thepublic.kr/news/articleView.html?idxno=322221",
+  "http://www.osen.co.kr/article/G1112892554",
+  "https://vop.co.kr/A00001697146.html",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729238",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449315",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50802",
+  "https://www.bloter.net/news/articleView.html?idxno=675618"
  ],
  "seen_titles": [
-  "최태원,재산분할위해SK㈜지분9440억원매각…의결권지분30%이상...",
-  "[속보]노소영재산분할대비…최태원,SK지분9440억원어치매각",
-  "최태원,재산분할금마련위해SK주식9440억어치매각한다",
-  "주민과행정잇는동네일꾼300명한자리",
-  "최태원,SK지분2.3%9440억원에매각…노소영재산분할액규모",
-  "최태원,SK지분9440억원매각···시장충격최소화·주주가치고려",
   "최태원,노소영에지급할9천440억마련…SK지분2.3%매각",
   "최태원,‘그룹지배핵심’SK지분판다…노소영재산분할액9440억원...",
   "최태원회장,SK주식9440억원매각한다..\"개인자금조달\"",
@@ -6001,13 +5995,15 @@
   "대화노인종합복지관,취약노인40가정냉방비지원",
   "최태원,앤디김상원의원만났다…반도체협력논의",
   "최태원,SK지분9천440억매각계약…델일가에5천440억",
-  "\"용인반도체클러스터폐수방류철회하라\"…안성주민들,최태원에결..."
+  "\"용인반도체클러스터폐수방류철회하라\"…안성주민들,최태원에결...",
+  "함은정,모친상1년만에♥김병우감독과결혼한이유..\"세포가움직이...",
+  "SK주식매각상대2곳콕집은최태원우호지분확보꼼수?",
+  "불출석MBK김병주,23일재소환…국회\"안나오면동행명령\"",
+  "노소영재산분할맞상고안해,최태원재상고로'2440억'만대법서심리...",
+  "나무엑스출시1년…SK네트웍스,AI성과증명언제?",
+  "삼성·SK천문학적투자에…지자체,반도체기업모시기혈안[현장+]"
  ],
  "recent_sigs": [
-  [
-   "2026-10-14T09:10:13.540148+09:00",
-   "인수 펀드가 마이클 5440억원 운영 지분"
-  ],
   [
    "2026-10-14T09:30:25.571683+09:00",
    "필요 AI 해결사 사회 만드는 일이 네이티브 문제"
@@ -6099,9 +6095,17 @@
   [
    "2026-10-14T15:00:30.828195+09:00",
    "안성 반도체 폐수 주민들 방류 철회하라 클러스터 최태원에 용인"
+  ],
+  [
+   "2026-10-14T15:10:14.299886+09:00",
+   "혈안 기업 모시기 지자체 투자에 반도체 삼성 천문학적"
+  ],
+  [
+   "2026-10-14T15:10:14.299886+09:00",
+   "나무엑스 AI 증명 성과 출시 SK네트웍스 1년 언제"
   ]
  ],
- "last_run": "2026-10-14T15:00:46.765678+09:00",
+ "last_run": "2026-10-14T15:10:32.026113+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
