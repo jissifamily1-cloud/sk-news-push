@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026101390676",
-  "https://biz.chosun.com/policy/politics/president_office/2026/10/13/2LEFV2ZDUFFVTFEWPPSI7NQWJY/",
-  "https://biz.heraldcorp.com/article/10901223",
-  "https://www.lawissue.co.kr/view.php?ud=202610131529207906b3279dfb36_12",
-  "https://www.mt.co.kr/politics/2026/10/13/2026101314382568709",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145588",
-  "https://www.g-enews.com/view.php?ud=202610131454171505b065b72042_1",
-  "https://www.newspim.com/news/view/20261013000977",
-  "https://www.hankyung.com/article/202610138440g",
-  "https://www.bloter.net/news/articleView.html?idxno=675538",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494919",
   "https://biz.sbs.co.kr/article_hub/20000339646?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000339644?division=NAVER",
@@ -2999,19 +2989,19 @@
   "https://www.enetnews.co.kr/news/articleView.html?idxno=55258",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=237225",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=237206",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172018"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172018",
+  "https://www.slist.kr/news/articleView.html?idxno=773492",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=883575",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727876",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97096",
+  "https://www.newspim.com/news/view/20261015000039",
+  "https://biz.heraldcorp.com/article/10902933",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246319",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48180",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7275",
+  "https://www.electimes.com/news/articleView.html?idxno=373440"
  ],
  "seen_titles": [
-  "24시간가상자산청산1조원…샌디스크계약XRP웃돌아",
-  "스타링크美주파수확보에국내서도대응책···위성-이통융합서비스...",
-  "中CXMT쇼크…차세대D램추격에삼전닉스'초비상",
-  "SK어스온,베트남광구서첫원유생산…원유층추가발견",
-  "IMF,올해한국경제성장률3.3%전망…7월대비0.7%↑",
-  "코스피떠나는외국인,ETF는샀다…연초이후9.7조순매수",
-  "동대문구청김영회팀장,책의날기념식서문체부장관표창",
-  "신정훈\"호남도좀먹고살게둬라\"…국힘'기업팔비틀기'에정면반박",
-  "23만전자·140만닉스...외인들짐싸자코스피'검은화요일'",
-  "'HBM의아버지'김정호KAIST교수대전과학기술혁신대상받는다",
   "[조달호가만난사람]백인호회장의증언,\"재벌50년오딧세이가일군...",
   "코스피6%폭락에도…\"섣불리저가매수나서지마라\"",
   "[기획]구글부터넷플릭스까지…안방주도권뺏긴K-플랫폼,생존위협",
@@ -6001,7 +5991,17 @@
   "[이넷뉴스브랜드평판]GS칼텍스,주유소10월1위...HD현대오일뱅크,...",
   "성과는작고손은많이간다망설였는데",
   "[단독-중대재해리포트⑤]'집행유예'선고되면검찰은항소포기했다",
-  "AI데이터센터로외연확장하는굴뚝업체들"
+  "AI데이터센터로외연확장하는굴뚝업체들",
+  "뉴욕증시,물가충격·반도체약세에하락…나스닥1.9%↓",
+  "뉴욕증시,물가상승·반도체약세에하락…나스닥1.9%↓",
+  "美물가·반도체악재에코스피살얼음판…반등동력기로",
+  "뉴욕증시,인플레충격·반도체약세에하락…나스닥1.88%↓",
+  "[미국특징주]델11%급락…기업용AI수요지연우려에데이터센터주...",
+  "뉴욕증시,물가충격·반도체약세에하락…나스닥1.9%급락",
+  "[안전상황실·15일]제주평화로서다중추돌사고…16명중경상",
+  "국감서질타받은정유4사...정제마진호재에도'울상'",
+  "SK·삼성·현대'원전팀코리아'뭉친다…웨스팅하우스에최대4조투자",
+  "한전,지역기술기업투자유치·대기업협력지원"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,25 @@
   [
    "2026-10-15T06:41:02.860229+09:00",
    "외연 데이터센터로 확장하는 AI 굴뚝업체들"
+  ],
+  [
+   "2026-10-15T06:51:04.364031+09:00",
+   "제주 사고 평화로서 16명 중경상 추돌 다중"
+  ],
+  [
+   "2026-10-15T06:51:04.364031+09:00",
+   "국감서 질타받은 4사 정제마진 호재에도 정유 울상"
+  ],
+  [
+   "2026-10-15T06:51:04.364031+09:00",
+   "팀코리아 투자 삼성 웨스팅하우스에 원전 현대 4조 뭉친다"
+  ],
+  [
+   "2026-10-15T06:51:04.364031+09:00",
+   "투자유치 대기업 지원 지역 기술기업 협력 한전"
   ]
  ],
- "last_run": "2026-10-15T06:41:19.588910+09:00",
+ "last_run": "2026-10-15T06:51:18.776136+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
