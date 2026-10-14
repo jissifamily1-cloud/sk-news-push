@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20099808",
-  "https://news.tf.co.kr/read/economy/2374609.htm",
-  "https://www.busan.com/view/busan/view.php?code=2026100819012374616",
-  "https://m.skyedaily.com/news_view.html?ID=312688",
-  "https://www.hani.co.kr/arti/society/society_general/1281585.html",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=745281",
-  "http://www.yonhapnewstv.co.kr/news/MYH202610082006216HT",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6856659_37004.html",
   "https://news.tf.co.kr/read/economy/2374612.htm",
   "https://www.nocutnews.co.kr/news/6589254",
   "http://www.lawissue.co.kr/view.php?ud=202610082024478263204ead0791_12",
@@ -2999,17 +2991,17 @@
   "https://www.namdonews.com/news/articleView.html?idxno=926159",
   "https://www.sedaily.com/article/20101707",
   "https://www.ggilbo.com/news/articleView.html?idxno=1186977",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=395300"
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=395300",
+  "https://www.joongboo.com/news/articleView.html?idxno=363739337",
+  "https://imnews.imbc.com/news/2026/society/article/6857958_36918.html",
+  "https://biz.sbs.co.kr/article_hub/20000339998?division=NAVER",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246496",
+  "https://www.ekn.kr/web/view.php?key=20261014027076297",
+  "https://www.joongang.co.kr/article/25469750",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8685644",
+  "https://www.news1.kr/local/daegu-gyeongbuk/6320357"
  ],
  "seen_titles": [
-  "관권선거·딥페이크의혹박완수경남지사13시간경찰조사",
-  "성기학영원무역회장,'계열사누락'1심벌금형선고유예",
-  "경찰,공직선거법위반혐의로박완수경남지사입건",
-  "먹고나면버려지는컵라면용기,알고보니‘재활용최우수’등급",
-  "공소청·중수청출범이후첫법무부국감…공소취소·이화영등현안...",
-  "경찰,'건진법사무민공원의혹'김성제의왕시장압수수색",
-  "경찰,간부2명압수수색…공무상비밀누설혐의",
-  "\"피해자웃던데\"가무혐의이유?‥더이상증거안찾은경찰",
   "쿠팡,공정위·개보위처분에연쇄불복…\"과도한제재,법원서소명\"",
   "'전재수금품의혹증거인멸'전직보좌진4명·공소청모두항소",
   "쿠쿠,4L자연기화식가습기선보여",
@@ -6001,7 +5993,15 @@
   "전남광주통합특별시광주청사,집단시위·천막농성으로몸살",
   "고위법관수당의혹에칼뺀선관위특검…법원은영장기각",
   "與신천지의혹확인에친청계반발…국민의힘은공세전환",
-  "'법원vs선관위특검'정면충돌…사법부,'대법관수당의혹'압수수색..."
+  "'법원vs선관위특검'정면충돌…사법부,'대법관수당의혹'압수수색...",
+  "[시설]소아응급실특수성고려,아쉬웠다",
+  "선관위특검\"고위법관수사확대에압수수색영장기각\"",
+  "LG엔솔전사장배임혐의…LGD·LG엔솔75억피해",
+  "한국거래소,LG에너지솔루션·LG디스플레이'조회공시'요구",
+  "부산중수청,경찰통보사건140여건검토…영장·송치기준협의중",
+  "경찰,‘금품수수의혹’전진선양평군수관련건설업체압수수색",
+  "LG디스플레이·LG엔솔,전임원75억원대배임혐의로고소",
+  "'안동산불임시주택납품비리'연루A씨구속"
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "쿠팡 진행 홈인테리어 리빙쇼 와우 하반기"
   ]
  ],
- "last_run": "2026-10-14T18:50:58.412448+09:00",
+ "last_run": "2026-10-14T19:01:16.855767+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
