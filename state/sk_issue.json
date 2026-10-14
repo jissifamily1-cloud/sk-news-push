@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680919",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800195.html",
-  "https://www.fnnews.com/news/202610081332435657",
-  "https://www.munhwa.com/article/11622264",
-  "https://www.mk.co.kr/article/12171428",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=745214",
-  "https://www.chosun.com/national/court_law/2026/10/08/HZOJMPWGINE2XB7XVGS6D55VXA/",
-  "https://www.news1.kr/society/court-prosecution/6314354",
   "https://news.skbroadband.com/news/articleView.html?idxno=239723",
   "https://www.nocutnews.co.kr/news/6588842",
   "https://www.bloter.net/news/articleView.html?idxno=675274",
@@ -2999,17 +2991,17 @@
   "https://news.tf.co.kr/read/national/2376232.htm",
   "http://www.metroseoul.co.kr/article/20261014500382",
   "https://www.edaily.co.kr/News/Read?newsId=04116406645612920&mediaCodeNo=257",
-  "https://www.hani.co.kr/arti/society/society_general/1282343.html"
+  "https://www.hani.co.kr/arti/society/society_general/1282343.html",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=303985",
+  "https://www.joongangenews.com/news/articleView.html?idxno=555007",
+  "https://dealsite.co.kr/articles/170660",
+  "https://www.dt.co.kr/article/12089084",
+  "https://www.slist.kr/news/articleView.html?idxno=773395",
+  "https://www.newsis.com/view/NISX20261014_0003825874",
+  "https://www.sisajournal.com/news/articleView.html?idxno=390203",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/14/2026101400253.html"
  ],
  "seen_titles": [
-  "‘기름값담합의혹’SK에너지,거래관행개선책발표…“국민께송구...",
-  "SK에너지,공정위담합의혹에사과…공정거래체계강화",
-  "국가주도가습기살균제배상시작..\"분담금다툼,피해구제막으면안돼...",
-  "가습기살균제피해‘국가주도배상’시작…“분담금이견은협의체서...",
-  "“여친이데이트할때마다작업복입고와요”…‘이재킷’에꽂힌여...",
-  "[유통국감리포트②]농해수위,CJ제일제당·삼양사대표에원재료담...",
-  "민주당이성윤“김지용중수청장후보자는검찰주의자”",
-  "'김건희측근'이종호,증거인멸교사무죄확정…특검\"유감\"(종합)",
   "경찰,민주당경기도당압수수색…수원시장선거관련수사",
   "[단독]경찰,이재준수원시장'용역특혜의혹'불송치…\"증거불충분\"",
   "'정유사담합'의혹온도차…SK에너지\"재발방지\"HD현대오일뱅크\"사실...",
@@ -6001,7 +5993,15 @@
   "경찰,신수정전남광주시북구청장압수수색",
   "김지용,'정치검찰'로윤석열·한동훈지목…범여권은검찰개혁의지...",
   "김지용두고갈라진與…“비겁한선택”vs“전문성있는반윤”",
-  "[단독]한동훈딸‘부모찬스’논란‘노트북기부’,서울시장상수..."
+  "[단독]한동훈딸‘부모찬스’논란‘노트북기부’,서울시장상수...",
+  "[국감자료]컵라면용기'재활용최우수',폐기량이더많아",
+  "정기선HD현대회장취임1년...외형성장에도잇단산재·노사갈등·담...",
+  "공정위,1.4조원규모밀가루부산물담합심의착수",
+  "부활한‘재계저승사자’,먹거리담합부터손본다",
+  "공정위중점조사기획단,1호'대상·오뚜기·제일제당'현장조사",
+  "\"딸사망당시CCTV21분사라져\"…'양재웅병원'유족의분통",
+  "국힘,與'신천지집단가입확인'에\"특검·압수수색필요\"",
+  "[단독]중수청·공소청,'과학수사인력·장비이관'놓고이견…출범..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "쿠팡 진행 홈인테리어 리빙쇼 와우 하반기"
   ]
  ],
- "last_run": "2026-10-14T15:20:56.865071+09:00",
+ "last_run": "2026-10-14T15:31:02.146787+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
