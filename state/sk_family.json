@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026091692781",
-  "https://www.dailian.co.kr/news/view/1697436/?sc=Naver",
-  "https://www.news2day.co.kr/article/20261002500200",
-  "https://www.dailian.co.kr/news/view/1697469/?sc=Naver",
-  "https://h21.hani.co.kr/arti/politics/politics_general/59983.html",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445217",
   "https://kstar.kbs.co.kr/list_view.html?idx=411161",
   "https://www.sedaily.com/article/20097883",
@@ -2999,14 +2994,14 @@
   "https://mhnse.com/news/articleView.html?idxno=1593078",
   "https://www.newsis.com/view/NISX20261015_0003827029",
   "https://www.mk.co.kr/article/12176564",
-  "https://www.pressian.com/pages/articles/2026101511263085498"
+  "https://www.pressian.com/pages/articles/2026101511263085498",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=615747",
+  "https://www.nc.press/news/articleView.html?idxno=628585",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=508753",
+  "https://biz.heraldcorp.com/article/10903627",
+  "https://view.asiae.co.kr/article/2026101511032789471"
  ],
  "seen_titles": [
-  "[재계와친일논란上]재벌은정말‘적산’에서태어났나…대기업의...",
-  "원유도입선다변화‥탈중동본격화",
-  "발전·에너지·항만통합‥울산'본사사수'비상",
-  "세직선,9월성령기도회서'1030세계선교비전'위해합심기도",
-  "강원대강릉캠퍼스치의학과학생들,‘생분해성구강용드레싱’국내...",
   "강원대치대고현서·이지은·김내훈,자체개발기술특허출원",
   "고창군,‘고창소작답양도제39주년기념식’성황리개최",
   "[찐검승부㉑-❷]유니시티'팀유니시티'…5개프로구단후원,팬접점...",
@@ -6001,7 +5996,12 @@
   "최종건교수,북미대화재개분석…\"비핵화는평화의결과이고,평화는...",
   "메모리확장사활건SK하이닉스,美대관역량강화로영토확장정조...",
   "최태원이어산업·국방·국토부장관들잇단광주행…800조반도체투자...",
-  "경기도,“평화공존의길을열다”주제로에코피스포럼개최"
+  "경기도,“평화공존의길을열다”주제로에코피스포럼개최",
+  "[엔터家]프로야구㉔ㅣ'불붙은가을야구'LG준PO행…오스틴결승포·...",
+  "홀트아동복지회부산지부·한국창조미술협회부산지회,미술로아동꿈...",
+  "전남광주통합특별시,'250만평반도체산단'...2030년첫양산목표속...",
+  "웨스팅하우스에‘조단위’지분투자…SMR넘어대형원전으로확장",
+  "전남광주반도체클러스터가속도…탄약고부지63만평선공사"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,21 @@
   [
    "2026-10-15T11:10:14.941239+09:00",
    "대관 영토 확장 강화로 사활 역량 정조 메모리 SK하이닉스"
+  ],
+  [
+   "2026-10-15T11:40:13.997737+09:00",
+   "2030년 산단 전남광주통합특별시 반도체 양산 목표 250만평"
+  ],
+  [
+   "2026-10-15T11:40:13.997737+09:00",
+   "확장 SMR 단위 지분투자 웨스팅하우스에 대형원전으로 넘어"
+  ],
+  [
+   "2026-10-15T11:40:13.997737+09:00",
+   "전남광주 클러스터 부지 63만평 가속도 탄약고 반도체 선공사"
   ]
  ],
- "last_run": "2026-10-15T11:30:34.778519+09:00",
+ "last_run": "2026-10-15T11:40:32.727882+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
