@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20261012051334Fv7",
-  "https://www.seoul.co.kr/news/society/accident/2026/10/12/20261012010007?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/society/2026/10/12/20261012002001?wlog_tag3=naver",
-  "https://www.donga.com/news/Society/article/all/20261011/134822516/2",
-  "https://www.donga.com/news/Society/article/all/20261011/134822510/2",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000021634&cp=nv",
   "https://medicalworldnews.co.kr/news/view.php?idx=1510977792",
   "https://www.ytn.co.kr/_ln/0103_202610120058393915",
   "https://www.chosun.com/national/court_law/2026/10/12/UZRQXZWI4FETHKCCCWNA3I7KLI/",
@@ -2999,15 +2993,15 @@
   "http://www.segyebiz.com/newsView/20261015512122?OutUrl=naver",
   "http://www.digitalbizon.com/news/articleView.html?idxno=2344024",
   "https://www.nocutnews.co.kr/news/6591950",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6858133_36967.html"
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6858133_36967.html",
+  "https://www.tfmedia.co.kr/news/article.html?no=208046",
+  "https://www.kado.net/news/articleView.html?idxno=2078276",
+  "https://www.edaily.co.kr/News/Read?newsId=03768726645613248&mediaCodeNo=257",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3014005",
+  "https://www.sisajournal.com/news/articleView.html?idxno=390346",
+  "https://www.news1.kr/local/busan-gyeongnam/6321097"
  ],
  "seen_titles": [
-  "경찰,국정원압수수색…안보실예산지원의혹",
-  "경찰,가정폭력‘위험인물’알고도…소재파악조차안했다",
-  "과장급67%공석,출입국조회도안돼…‘개점휴업’중수청",
-  "[단독]불법도박대회까지연홀덤펍들,‘아는손님만환전’年10조영...",
-  "가정폭력20대,이혼소송중에장모살해-아내납치",
-  "“영아수면용품안전지적했다가법적분쟁곤욕”",
   "국회보건복지위원회10월6일~27일22일간국정감사",
   "[단독]'장모살해'20대가정폭력조사불응...다음날범행",
   "공소청이끝내나,중수청에넘기나…“우리수사어디서”기업혼란",
@@ -6001,7 +5995,13 @@
   "특검\"전국30곳서투표자수허위입력\",중앙선관위등7곳압수수색",
   "LG디스플레이·LG엔솔전경영진'횡령·배임의혹'수사",
   "선관위특검압수수색에부산남구포함…'투표자수허위입력'",
-  "선관위특검\"30개시군구선관위,투표자수허위입력확인\""
+  "선관위특검\"30개시군구선관위,투표자수허위입력확인\"",
+  "[2026국감]\"검사지휘사라졌는데...\"관세청특사경마약·밀수수사...",
+  "특검,강원도선관위압수수색…투표자수허위입력확인",
+  "선관위특검,7개선관위압수수색…투표자수허위입력의혹(종합)",
+  "의협,소아응급센터압수수색강력규탄...\"진료방해수사재발막아야...",
+  "이태한특검팀\"전국30개선관위에서투표자수허위입력\"",
+  "'불법정치자금수수혐의'배재정전의원징역1년4개월구형"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "44조1000억 기름값 담합 규모 현대오일뱅크 SK에너지"
   ]
  ],
- "last_run": "2026-10-15T12:31:03.201961+09:00",
+ "last_run": "2026-10-15T12:40:55.482220+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
