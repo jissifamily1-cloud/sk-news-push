@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/599204",
-  "https://www.gosiweek.com/article/1065576757698492",
-  "https://news.jtbc.co.kr/article/NB12321327?influxDiv=NAVER",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443955",
-  "https://www.newsis.com/view/NISX20260930_0003809645",
   "https://www.news1.kr/politics/assembly/6309258",
   "https://www.segye.com/newsView/20261004506907?OutUrl=naver",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=764010",
@@ -2999,14 +2994,14 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011291",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424331",
   "https://news.dealsitetv.com/articles/177026",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172255"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172255",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590176.html",
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914966",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072113",
+  "https://www.kyeonggi.com/article/20261015580365",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=798273"
  ],
  "seen_titles": [
-  "9만명자동차공동파업...생산·수출대란",
-  "고전주의·인상주의매력'홀릭'대구시향,19일콘서트하우스",
-  "생각과질문을끌어내는공간,수원지관서가를가다",
-  "‘원하는대로’살려면뇌부터이해하라[신간]",
-  "부경원예농협,화훼농가소득증대를위한꽃꽂이교실운영",
   "모두가찾는코스닥만들려면⋯중기중앙회·중기학회,혁신벤처포럼개...",
   "[현장]\"기업·투자자함께크는시장으로\"…중기학회,코스닥'정책과...",
   "코스닥활성화핵심은…\"상장문턱낮추고,퇴출기능정교하게\"",
@@ -6001,7 +5996,12 @@
   "'나고야검객'오상욱,AG통산5金으로한국선수단MVP쾌거…한일전...",
   "'반도체넘어전력까지'···SK,원전투자로AI밸류체인확장모색",
   "전남광주반도체클러스터속도전…최태원·정부릴레이점검",
-  "양대악재,코스피'곤두박질'...에스원·코웨이는'활짝'"
+  "양대악재,코스피'곤두박질'...에스원·코웨이는'활짝'",
+  "\"최태원회장도물렸다\"삼전닉스폭락…코스피7%대급락'검은목요일...",
+  "[포토]충남도의회,청소년전인적성장위한학교·지역사회협력모색",
+  "\"입시넘어삶의역량으로\"…충남도의회,공교육울타리넓히는'지역...",
+  "[경기일보독자권익위원회]사회변화이끈추적보도호평…“실질적대...",
+  "[위클리오늘]경기도,'편하G버스'필요한출퇴근노선도민에게직접..."
  ],
  "recent_sigs": [
   [
@@ -6089,7 +6089,7 @@
    "코스피 악재 곤두박질 코웨이는 활짝 에스원 양대"
   ]
  ],
- "last_run": "2026-10-15T16:20:32.297540+09:00",
+ "last_run": "2026-10-15T16:30:38.238272+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
