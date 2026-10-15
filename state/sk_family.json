@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/gwangju-jeonnam/6310439",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272661&CMPT_CD=P0010",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=812792",
-  "https://www.siminsori.com/news/articleView.html?idxno=401871",
-  "https://www.m-i.kr/news/articleView.html?idxno=2002387",
   "http://www.newstomato.com/ReadNews.aspx?no=1315667&inflow=N",
   "https://www.fnnews.com/news/202610041406327709",
   "https://www.dt.co.kr/article/12087427",
@@ -2999,14 +2994,14 @@
   "https://www.betanews.net/article/view/beta202610150149",
   "http://www.jeollailbo.com/news/articleView.html?idxno=813794",
   "https://www.m-i.kr/news/articleView.html?idxno=2006534",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256612"
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256612",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764010",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446454",
+  "https://www.newsis.com/view/NISX20261015_0003827934",
+  "https://www.viva100.com/article/20261015501246",
+  "https://news.tf.co.kr/read/national/2376882.htm"
  ],
  "seen_titles": [
-  "전남광주시,출범100일기념‘시민음악회’개최",
-  "반도체투자부터홈플러스회생까지…국감앞두고기업인줄소환",
-  "출범100일전남광주통합특별시,‘시민음악회’로새출발기념",
-  "[전남광주소식]'통합100일'기념시민음악회15일개최",
-  "최태원SK회장,9440억지분매각…‘주가충격최소화’에방점",
   "[시선집중]최종건“파병은거래품목아니야.李대통령기자회견에명...",
   "전남광주시'출범100일시민음악회'연다",
   "‘전남광주통합100일’기념시민음악회15일개최",
@@ -6001,7 +5996,12 @@
   "전남광주반도체클러스터조성속도…2030년첫양산목표",
   "\"투자보다행정늦는일없다\"…전남광주통합특별시,서남권반도체'...",
   "광주군공항반도체국가산단조성속도…국토부장관현장점검",
-  "삼성이재용·SK최태원회장,차세대메모리로중국추격따돌린다"
+  "삼성이재용·SK최태원회장,차세대메모리로중국추격따돌린다",
+  "[단독]최태원둘째딸최민정,美서AI헬스케어대박터지나?…창업3년...",
+  "한전'73조'전력망구축자금마련분주,'한전채절벽'앞두고전기료...",
+  "홍지선국토장관,호남반도체부지점검…\"기업수요반영\"",
+  "국토부장관도광주행…호남권반도체클러스터조성속도",
+  "호남반도체산단후보지둘러본홍지선장관\"산단적기제공…교통망·..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-10-15T17:10:16.177909+09:00",
    "따돌린다 중국 이재용 메모리로 추격 회장 차세대 삼성"
+  ],
+  [
+   "2026-10-15T17:20:16.554460+09:00",
+   "교통망 장관 호남 산단 적기 제공 홍지선 반도체산단 둘러본 후보지"
   ]
  ],
- "last_run": "2026-10-15T17:10:30.551759+09:00",
+ "last_run": "2026-10-15T17:20:29.171210+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
