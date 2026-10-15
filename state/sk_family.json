@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223004",
-  "https://www.busan.com/view/busan/view.php?code=2026100417100910540",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553529",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=415788",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190644&t=NNv",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=556947",
   "https://shindonga.donga.com/3/all/13/6287857/1",
@@ -2999,13 +2995,13 @@
   "https://www.newswhoplus.com/news/articleView.html?idxno=71829",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072356",
   "https://www.sisajournal.com/news/articleView.html?idxno=390399",
-  "https://biz.sbs.co.kr/article_hub/20000340165?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000340165?division=NAVER",
+  "https://www.m-i.kr/news/articleView.html?idxno=2006474",
+  "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/15/20261015500211?wlog_tag3=naver",
+  "https://www.aitimes.com/news/articleView.html?idxno=216287",
+  "https://www.imaeil.com/page/view/2026101515130573749"
  ],
  "seen_titles": [
-  "한복차려입은김희영,최태원회장과나란히…뉴욕공식행사참석",
-  "'최태원과나란히'김희영,한복차림으로뉴욕공식석상올라…파기환...",
-  "'나고야검객'오상욱,AG통산5金으로한국선수단MVP쾌거…한일전...",
-  "최태원,SK지분2.3%매각…9440억원확보에도최대주주유지",
   "최태원회장,지분9440억매각…SK주가불확실성해소되나",
   "최태원공개석상에김희영동행..재산분할판결후첫행보",
   "한복차려입은김희영,최태원과나란히…9440억판결후첫공식동행",
@@ -6001,17 +5997,13 @@
   "전남광주반도체클러스터속도전…2030년첫양산목표가시화",
   "전남광주,서남권반도체클러스터조성'속도'",
   "네이버페이,'얼굴결제'총공세…오프라인의벽,이번엔넘을까",
-  "[ETF따라잡기]국장탈출은지능순?개인투자자들미국으로이동"
+  "[ETF따라잡기]국장탈출은지능순?개인투자자들미국으로이동",
+  "용인시의회김희영의원발의장사시설관리조례개정안가결",
+  "경기도의회전통식품연구회,“경기전통식품의가치를지역경제성장...",
+  "전남광주반도체클러스터,정부·기업현장점검잇따라…2030년첫양산...",
+  "[속보]\"회장님도물렸다\"최태원'49억매입'재조명…코스피5500선추..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-15T10:00:30.137008+09:00",
-   "기업 국힘 노력을 정부 행정수도 권칠승 압박 으로 몰아 이전 투자"
-  ],
-  [
-   "2026-10-15T10:00:30.137008+09:00",
-   "방문 산업 국방 반도체 호남권 광주 만전 군공항 잇단 국토장관"
-  ],
   [
    "2026-10-15T10:10:14.189407+09:00",
    "사금융 불법 드라이브 반등에 지역투자 민생경제 성장률 확대"
@@ -6095,9 +6087,13 @@
   [
    "2026-10-15T15:50:15.240826+09:00",
    "이동 개인 탈출은 투자자들 미국으로 지능순 국장"
+  ],
+  [
+   "2026-10-15T16:00:34.523464+09:00",
+   "매입 49억 코스피 재조명 물렸다 회장님도 5500선"
   ]
  ],
- "last_run": "2026-10-15T15:50:29.967940+09:00",
+ "last_run": "2026-10-15T16:00:49.088387+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
