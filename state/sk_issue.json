@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000021604&cp=nv",
-  "https://www.traveltimes.co.kr/news/articleView.html?idxno=500524",
-  "https://www.joongang.co.kr/article/25468774",
-  "https://www.dailyt.co.kr/newsView/dlt202610110011",
   "http://www.yonhapnewstv.co.kr/news/MYH20261012051334Fv7",
   "https://www.seoul.co.kr/news/society/accident/2026/10/12/20261012010007?wlog_tag3=naver",
   "https://www.seoul.co.kr/news/society/2026/10/12/20261012002001?wlog_tag3=naver",
@@ -2999,13 +2995,13 @@
   "https://www.munhwa.com/article/11623769",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799104&plink=ORI&cooper=NAVER",
   "https://imnews.imbc.com/replay/2026/nw1200/article/6858131_36967.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686451"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686451",
+  "http://www.segyebiz.com/newsView/20261015512122?OutUrl=naver",
+  "http://www.digitalbizon.com/news/articleView.html?idxno=2344024",
+  "https://www.nocutnews.co.kr/news/6591950",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6858133_36967.html"
  ],
  "seen_titles": [
-  "[단독]스드메에이젠밥값까지걱정…예식장최소식대만1200만원",
-  "항공사마일리지도재산인데…\"적립·사용·소멸,국토부가관리해야\"",
-  "공정위추진‘대기업건전성지수’…입법조사처“OECD서전례없다”",
-  "‘철근누락’주역들의귀환…3기신도시감리60%삼킨‘담합카르...",
   "경찰,국정원압수수색…안보실예산지원의혹",
   "경찰,가정폭력‘위험인물’알고도…소재파악조차안했다",
   "과장급67%공석,출입국조회도안돼…‘개점휴업’중수청",
@@ -6001,7 +5997,11 @@
   "인천난동범,1주전에도흉기소지…조사하고도감독강화안해‘참극...",
   "선관위특검\"전국30개지역선관위,지선투표자수허위입력확인\"",
   "범행계획했나‥'흉기난동범'내일구속심사",
-  "특검,선관위동시다발압수수색…“투표자허위입력5곳→30곳”"
+  "특검,선관위동시다발압수수색…“투표자허위입력5곳→30곳”",
+  "특검\"전국30곳서투표자수허위입력\",중앙선관위등7곳압수수색",
+  "LG디스플레이·LG엔솔전경영진'횡령·배임의혹'수사",
+  "선관위특검압수수색에부산남구포함…'투표자수허위입력'",
+  "선관위특검\"30개시군구선관위,투표자수허위입력확인\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "44조1000억 기름값 담합 규모 현대오일뱅크 SK에너지"
   ]
  ],
- "last_run": "2026-10-15T12:20:54.782670+09:00",
+ "last_run": "2026-10-15T12:31:03.201961+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
