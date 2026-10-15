@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449306",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=302632",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495214",
-  "https://www.thebigdata.co.kr/view.php?ud=2026101412401263350ecbf9426b_23",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7188843",
-  "https://www.ajunews.com/view/20261014132846218",
   "https://www.etoday.co.kr/news/view/2635677",
   "https://news.ifm.kr/news/articleView.html?idxno=481625",
   "https://www.job-post.co.kr/news/articleView.html?idxno=232221",
@@ -2999,15 +2993,15 @@
   "https://futurechosun.com/?p=163320",
   "https://www.fnnews.com/news/202610151838395681",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275638&CMPT_CD=P0010",
-  "http://www.inews24.com/view/2015578"
+  "http://www.inews24.com/view/2015578",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590203.html",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=508869",
+  "https://www.yna.co.kr/view/AKR20261015170000007?input=1195m",
+  "https://news.jtbc.co.kr/article/NB12323217?influxDiv=NAVER",
+  "https://view.asiae.co.kr/article/2026101518291623449",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000022974&cp=nv"
  ],
  "seen_titles": [
-  "SK하이닉스안현사장,AI병목해법으로'메모리간데이터이동최적화...",
-  "13조팔아치운외국인⋯반도체대형주버리고소부장'베팅'",
-  "[이시각헤드라인]10월14일뉴스현장",
-  "K-문샷반도체미션가동…정부-삼성-SK뭉쳐반도체성능100배개선도...",
-  "중국CXMT이어YMTC도'4F²D램'개발에속도,삼성전자와SK하이닉스에...",
-  "SK하이닉스,AI추론병목해소나선다…HBM넘어메모리계층확장",
   "해저케이블부터RF부품까지…5G밸류체인매수온기확산",
   "안현SK하이닉스사장“HBF,구글등과협력…내년1월최종규격발표...",
   "'월가전설'댄아이브스\"中메모리위협은허구…韓,최소3년앞서\"",
@@ -6001,25 +5995,15 @@
   "[더나은미래경제브리핑]“자선넘어실질적변화”제1회공익활동임...",
   "[사설]대미투자이제'기업의시간',부담떠넘겨선안돼",
   "용인시\"2030년까지5000억원~1조원규모철도기금조성\"",
-  "\"삼전닉스주가반토막인데성과급줄땐가\"…개미들'부글'"
+  "\"삼전닉스주가반토막인데성과급줄땐가\"…개미들'부글'",
+  "대만해상풍력시장에'K-바람'…SK오션플랜트,대만재생에너지행사...",
+  "홍지선국토부장관,'유례없는속도조성'...반도체산단현장점검",
+  "프로농구오세근,사회복지재단에기부금전달",
+  "삼전닉스도와르르…'공포의검은일주일'7000→5500선붕괴",
+  "\"1000만원태웠는데200만원남았다\"77%폭락…삼전·닉스레버리지ETF...",
+  "외풍마다휘청…맷집잃은K증시"
  ],
  "recent_sigs": [
-  [
-   "2026-10-15T13:01:21.176001+09:00",
-   "상장일 상품 맞나보다 말았어야했을 나오지 닉스 레버리지"
-  ],
-  [
-   "2026-10-15T13:01:21.176001+09:00",
-   "이유 논란과 가중되는 투자 소비자물가지수 충격 주식시장 불안 AI"
-  ],
-  [
-   "2026-10-15T13:01:21.176001+09:00",
-   "방한객 5일 체류 893만 시대 숙박"
-  ],
-  [
-   "2026-10-15T13:01:21.176001+09:00",
-   "자회사 SK바이오팜 17조원 가치 누구의 상승은"
-  ],
   [
    "2026-10-15T13:11:02.540530+09:00",
    "진전에도 기술 비관적 D램 CXMT 차세대 전문가들"
@@ -7239,9 +7223,13 @@
   [
    "2026-10-15T18:51:04.019819+09:00",
    "땐가 부글 삼전닉스 성과급 주가 반토막인데 개미들"
+  ],
+  [
+   "2026-10-15T19:01:22.115857+09:00",
+   "휘청 맷집 잃은 K증시 외풍마다"
   ]
  ],
- "last_run": "2026-10-15T18:51:26.347154+09:00",
+ "last_run": "2026-10-15T19:01:28.641633+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
