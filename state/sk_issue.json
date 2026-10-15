@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/10/2026101090109.html",
-  "https://www.donga.com/news/Economy/article/all/20261001/134766887/1",
-  "http://www.popcornnews.net/news/articleView.html?idxno=135503",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171590",
-  "https://www.slist.kr/news/articleView.html?idxno=772412",
-  "https://www.yna.co.kr/view/AKR20261008125500065?input=1195m",
-  "https://www.dailymedi.com/news/news_view.php?wr_id=941298",
-  "https://www.etoday.co.kr/news/view/2634252",
-  "https://www.mt.co.kr/living/2026/10/11/2026100816390692667",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=453711",
-  "https://www.slist.kr/news/articleView.html?idxno=772425",
   "https://www.nc.press/news/articleView.html?idxno=628242",
   "https://www.etoday.co.kr/news/view/2634254",
   "https://www.bntnews.co.kr/article/view/bnt202610110012",
@@ -2999,20 +2988,20 @@
   "https://www.fntoday.co.kr/news/articleView.html?idxno=395335",
   "https://www.newsis.com/view/NISX20261015_0003826657",
   "https://www.yna.co.kr/view/PYH20261015026900013?input=1196m",
-  "http://www.inews24.com/view/2015186"
+  "http://www.inews24.com/view/2015186",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17016",
+  "http://www.newsprime.co.kr/news/article.html?no=751035",
+  "https://www.ajunews.com/view/20261015090931252",
+  "https://www.dailian.co.kr/news/view/1701737/?sc=Naver",
+  "https://www.news1.kr/politics/assembly/6320698",
+  "https://www.yna.co.kr/view/PYH20261015028600013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261015028300013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261015027600013?input=1196m",
+  "https://www.newsis.com/view/NISI20261015_0002263869",
+  "https://www.newsis.com/view/NISI20261015_0021489581",
+  "https://www.newsis.com/view/NISI20261015_0021489580"
  ],
  "seen_titles": [
-  "[취재후Talk][배신의값①]담합은계약서를남기지않는다",
-  "탄소배출권산업협회,감축실적과대산정논란에“우려무겁게받아들...",
-  "롯데온,연중최대규모'온세상쇼핑페스타'진행",
-  "\"수십조원담합해놓고세금지원?\"…정유4사CEO,국감십자포화예고",
-  "롯데온,'30주년온쇼페'...최대84%할인·30%포인트백",
-  "'109시간만에진화'인천쿠팡화재원인'리튬배터리'추정",
-  "지역소아의료떠받치는소아청소년병원'위태'",
-  "‘먹거리담합’4곳에과징금1조1916억…삼양사1위",
-  "\"보복성저인망식조사\"쿠팡,공정위현장조사거부'2차갈등'",
-  "[동그라미만평]왜조국은털고,한동훈은덮었나",
-  "'닥터X'김지원,수술방장악한'괴물급술기'...2회만에17.4%돌풍",
   "'닥터X'김지원,1시간만에수술끝내고VIP까지살렸다...2회만에시청...",
   "공정위신고절반가까이‘심사불개시’…“피해신고걸러지는지점...",
   "‘닥터X’단2화만최고17.4%",
@@ -6001,7 +5990,18 @@
   "한동훈관련부실수사공론화..여야한목소리",
   "'불법선거운동의혹'신용한,中출장복귀후경찰조사받았다",
   "소아응급센터압수수색관련대한의사협회긴급기자회견",
-  "국힘\"김병기·강선우의원직제명추진⋯與협조해야\""
+  "국힘\"김병기·강선우의원직제명추진⋯與협조해야\"",
+  "[해외브리핑]글로벌은행,열대림파괴연루기업대출5년간800조원",
+  "밀가루이어사료용부산물까지…제분6개사'1.4조담합'심판대",
+  "국민의힘,與'신천지집단입당'…\"당원명부압수수색해야\"",
+  "장동혁,인천흉기난동에李직격…\"국민안전못지키면내려와야\"",
+  "정점식\"민주당'신천지집단입당'당원명부압수수색해야\"",
+  "김택우의사협회장,\"응급의료현장유린강제수사결사반대\"",
+  "대한의사협회,\"소아응급센터압수수색규탄\"",
+  "김택우의사협회장,\"소아응급센터압수수색규탄\"",
+  "피켓든김택우대한의사협회장",
+  "피켓들고기자회견하는김택우대한의사협회장",
+  "대한의사협회,소아응급센터압수수색관련기자회견"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "44조1000억 기름값 담합 규모 현대오일뱅크 SK에너지"
   ]
  ],
- "last_run": "2026-10-15T09:20:55.560042+09:00",
+ "last_run": "2026-10-15T09:31:12.503540+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
