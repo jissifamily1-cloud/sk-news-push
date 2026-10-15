@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260816029033238",
-  "https://www.usmbc.co.kr/NewsArticle/860410",
-  "https://www.usmbc.co.kr/NewsArticle/860406",
-  "https://www.goodnews1.com/news/articleView.html?idxno=463777",
   "https://www.kwnews.co.kr/article/20260902500533",
   "https://www.kado.net/news/articleView.html?idxno=2070282",
   "https://sjbnews.com/news/news.php?number=887743",
@@ -2999,13 +2995,13 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=445724",
   "https://www.sedaily.com/article/20101841",
   "https://biz.heraldcorp.com/article/10903384",
-  "https://www.kyeonggi.com/article/20261015580109"
+  "https://www.kyeonggi.com/article/20261015580109",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686390",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97126",
+  "http://www.queen.co.kr/news/articleView.html?idxno=464742",
+  "https://www.newsis.com/view/NISX20261013_0003824531"
  ],
  "seen_titles": [
-  "틴탑창조,거울셀카로드러낸탄탄피지컬",
-  "[20260903]요약은더힘들다뉴스공장",
-  "[뉴공아카이브]윤건영더불어민주당의원국회정보위원회민주당간사...",
-  "BTS춤추던한옥수놓았다,1200개유리구슬",
   "서까래가로지른유리구슬거미줄…한옥에쌓인삶의시간",
   "[최태원의선택①]38세에SK지휘봉…28년만에'AI제국'으로",
   "빌게이츠만난최태원,차세대원전산업발전방향논의",
@@ -6001,7 +5997,11 @@
   "대한상의,중소·중견기업법무역량강화설명회개최",
   "與,성장률반등에민생경제드라이브…지역투자확대·불법사금융척...",
   "SK등민관원팀,웨스팅하우스‘조단위’지분투자검토…SMR서대형원...",
-  "한국쇼트트랙은경기도군단이이끈다"
+  "한국쇼트트랙은경기도군단이이끈다",
+  "[뉴스레터K]중산층부담키우는‘스텔스’증세얼마나?",
+  "[K-빅샷룩업]최태원,'한·일경제공동체'제안…\"에너지·AI'룰세터...",
+  "최태원SK회장\"한일경제공동체로발전해야…에너지공동구매로비용...",
+  "호남반도체산단유관부처장관3인방,잇단부지점검"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-10-15T10:20:13.916775+09:00",
    "민관원팀 검토 조단위 SMR서 웨스팅하우스 지분투자 대형원"
+  ],
+  [
+   "2026-10-15T10:50:15.333904+09:00",
+   "장관 호남 잇단 3인방 부지점검 유관부처 반도체산단"
   ]
  ],
- "last_run": "2026-10-15T10:40:26.485745+09:00",
+ "last_run": "2026-10-15T10:50:27.565702+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
