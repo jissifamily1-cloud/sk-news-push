@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610041531024564",
-  "https://www.fnnews.com/news/202610041518026783",
-  "https://www.hani.co.kr/arti/economy/marketing/1280825.html",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223004",
   "https://www.busan.com/view/busan/view.php?code=2026100417100910540",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553529",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/local/daejeon-chungnam/6321389",
   "http://www.metroseoul.co.kr/article/20261015500382",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000073770",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=71829"
+  "https://www.newswhoplus.com/news/articleView.html?idxno=71829",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072356",
+  "https://www.sisajournal.com/news/articleView.html?idxno=390399",
+  "https://biz.sbs.co.kr/article_hub/20000340165?division=NAVER"
  ],
  "seen_titles": [
-  "李정부2년차국감6일시작…민주'민생성과'·국힘'부동산·안보'...",
-  "[여의도풍향계]국정감사증언대서는JYP…조희대증인충돌되풀이",
-  "SK지주최태원지분율3%하락…최회장재산분할자금충당",
   "한복차려입은김희영,최태원회장과나란히…뉴욕공식행사참석",
   "'최태원과나란히'김희영,한복차림으로뉴욕공식석상올라…파기환...",
   "'나고야검객'오상욱,AG통산5金으로한국선수단MVP쾌거…한일전...",
@@ -6001,7 +5998,10 @@
   "충남도의회'청소년활동시설연계교육활성화'의정토론회",
   "기노위국감기업총수증인미채택에반발…'명지라인'남광우자료미...",
   "2030년첫양산…전남광주시,반도체산단조기착공속도전",
-  "전남광주반도체클러스터속도전…2030년첫양산목표가시화"
+  "전남광주반도체클러스터속도전…2030년첫양산목표가시화",
+  "전남광주,서남권반도체클러스터조성'속도'",
+  "네이버페이,'얼굴결제'총공세…오프라인의벽,이번엔넘을까",
+  "[ETF따라잡기]국장탈출은지능순?개인투자자들미국으로이동"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-10-15T15:10:16.093010+09:00",
    "SK하이닉스 ADR 비싼 언제까지 프리미엄"
+  ],
+  [
+   "2026-10-15T15:50:15.240826+09:00",
+   "총공세 이번엔 오프라인의 넘을까 얼굴 결제 네이버페이"
+  ],
+  [
+   "2026-10-15T15:50:15.240826+09:00",
+   "이동 개인 탈출은 투자자들 미국으로 지능순 국장"
   ]
  ],
- "last_run": "2026-10-15T15:40:24.710495+09:00",
+ "last_run": "2026-10-15T15:50:29.967940+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
