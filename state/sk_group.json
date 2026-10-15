@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=577376&class=53",
-  "https://biz.sbs.co.kr/article_hub/20000339871?division=NAVER",
-  "https://news.tf.co.kr/read/economy/2376138.htm",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172004",
-  "http://www.inews24.com/view/2014910",
-  "http://www.inews24.com/view/2014908",
-  "https://www.etnews.com/20261014000244",
-  "https://www.etnews.com/20261014000241",
-  "https://www.etnews.com/20261014000243",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316624&inflow=N",
   "https://www.etnews.com/20261014000239",
   "https://www.job-post.co.kr/news/articleView.html?idxno=232206",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=55266",
@@ -2999,19 +2989,19 @@
   "https://us.aving.net/news/articleView.html?idxno=54904",
   "https://biz.sbs.co.kr/article_hub/20000340261?division=NAVER",
   "http://www.hellodd.com/news/articleView.html?idxno=113463",
-  "https://www.ekn.kr/web/view.php?key=20261015029346867"
+  "https://www.ekn.kr/web/view.php?key=20261015029346867",
+  "https://www.fnnews.com/news/202610151838030103",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65859",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53690",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97154",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60994",
+  "https://biz.chosun.com/real_estate/real_estate_general/2026/10/15/KMCJISFACRE7DLWERI3YNOF2AE/",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99311",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=280714",
+  "http://www.jndn.com/article.php?aid=1792056510441285001",
+  "https://www.seoultimes.news/news/article.html?no=2000100949"
  ],
  "seen_titles": [
-  "최태원,SK㈜주식9440억원어치매각…델일가펀드에일부매도",
-  "삼성보다먼저?…중국CXMT,D램판흔드나",
-  "[포토]SK하이닉스HBM4E살펴보는관람객들",
-  "[포토]SK하이닉스부스에설치된엔비디아의차세대'베라루빈'슈퍼칩...",
-  "삼성중공업,목표가4만원→3만5000원하향…FDC가주가반전열쇠[주가...",
-  "美월가기술주애널리스트\"삼전닉스저평가…코스피전고점돌파할것...",
-  "\"AI데이터,HBM·D램만으론어렵다\"…SK하이닉스,다음단계메모리준...",
-  "SK하이닉스안현\"HBF·3DD램으로메모리병목해결\"",
-  "[포토]SK하이닉스부스에설치된고대역폭플래시(HBF)모형",
-  "[포토]제28회반도체대전,SK하이닉스부스둘러보는관람객들",
   "[포토]HBF목업살펴보는관람객",
   "[포토]46만배로확대한HBM",
   "[포토]엔비디아의'베라루빈'",
@@ -6001,7 +5991,17 @@
   "SSTLabsBuildsAIX-RayBaggageScannersThatFlagMoreThan350Threat",
   "삼성·SK도원전베팅…비싼입장료로얻는건?",
   "코셈,AI반도체'틈새'파고든다···그래핀으로'전자현미경융합'탈...",
-  "[똑똑한유통]롯데마트·슈퍼,CU,세븐일레븐,G마켓,SSG닷컴,현대백..."
+  "[똑똑한유통]롯데마트·슈퍼,CU,세븐일레븐,G마켓,SSG닷컴,현대백...",
+  "KR'사이버복원력플랫폼'가동…보안규제부담줄인다",
+  "'검은목요일'에410조증발…삼성전자·SK하이닉스만240조증시서사라...",
+  "삼성전자,美실리콘밸리서AI내재형6G기술성과공개",
+  "'패닉셀링'에무너진韓증시…시총410조증발,삼전·닉스만244조",
+  "D램서AI연산...SK하이닉스'LPDDR6-PIM'표준화동향소개",
+  "[단독]SK에코플랜트대표,국감증인채택…오션플랜트매각쟁점",
+  "'韓축구초대박소식!'독일'빌트'기자직접컨펌!김민재,'PL디펜딩...",
+  "반도체정교함,사람손끝에서피어나다…SK의초심3부작의서사",
+  "산업·국방·국토장관‘광주로’…호남반도체총력전",
+  "[이슈]코스피7거래일새1193조원증발…SK하이닉스이어삼성전자도..."
  ],
  "recent_sigs": [
   [
@@ -7219,9 +7219,25 @@
   [
    "2026-10-15T18:31:13.194636+09:00",
    "롯데마트 SSG닷컴 슈퍼 G마켓 현대백 세븐일레븐 CU"
+  ],
+  [
+   "2026-10-15T18:41:01.257471+09:00",
+   "빌트 독일 직접 김민재 PL 소식 컨펌 초대박 디펜딩 축구"
+  ],
+  [
+   "2026-10-15T18:41:01.257471+09:00",
+   "피어나다 SK의 서사 초심 반도체 3부작의 손끝에서 사람 정교함"
+  ],
+  [
+   "2026-10-15T18:41:01.257471+09:00",
+   "호남 광주로 반도체 총력전 국방 산업 국토장관"
+  ],
+  [
+   "2026-10-15T18:41:01.257471+09:00",
+   "이어 삼성전자도 1193조원 코스피 증발 7거래일 SK하이닉스"
   ]
  ],
- "last_run": "2026-10-15T18:31:30.809639+09:00",
+ "last_run": "2026-10-15T18:41:15.706633+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
