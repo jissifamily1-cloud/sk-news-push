@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610141541507444e7e8286d56_1",
-  "https://en.yna.co.kr/view/AEN20261014008000320?input=2106m",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141517425680587",
-  "http://www.lkp.news/news/articleView.html?idxno=84963",
-  "https://www.bzeronews.com/news/articleView.html?idxno=823839",
-  "https://www.bzeronews.com/news/articleView.html?idxno=823838",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81738",
-  "https://www.public25.com/news/articleView.html?idxno=56498",
-  "https://www.livebiz.today/news/articleView.html?idxno=205587",
-  "https://www.newsis.com/view/NISX20261014_0003825994",
   "https://www.segye.com/newsView/20261014518116?OutUrl=naver",
   "https://news.tf.co.kr/read/economy/2376269.htm",
   "https://en.yna.co.kr/view/AEN20261014006651320?input=2106m",
@@ -2999,19 +2989,19 @@
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376592",
   "https://www.seoul.co.kr/news/publicnews/2026/10/14/20261014500180?wlog_tag3=naver",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1103878",
-  "https://www.slist.kr/news/articleView.html?idxno=773805"
+  "https://www.slist.kr/news/articleView.html?idxno=773805",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145738",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728050",
+  "https://www.ajunews.com/view/20261016072248699",
+  "http://www.newskr.kr/news/articleView.html?idxno=107200",
+  "https://www.greened.kr/news/articleView.html?idxno=352224",
+  "https://www.news1.kr/society/court-prosecution/6321639",
+  "https://www.mt.co.kr/tech/2026/10/16/2026101607205293290",
+  "https://www.newsen.com/news_view.php?uid=202610160600232110",
+  "https://www.newsway.co.kr/news/view?ud=2026101514573945982",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151151053700711"
  ],
  "seen_titles": [
-  "SK하이닉스\"HBM넘어HBF·3D적층D램으로\"···안현사장,차세대로...",
-  "證“저평가구간,분할매수·소부장투자주목”[투자360]",
-  "\"오를줄알았는데\"…급락에'레버리지베팅'6000억어쩌나",
-  "Samsung,SKHynixSinkonCXMTDRAMTease",
-  "K반도체털리자日증시도비상…외신이'사이드카'특필한속내",
-  "KOSPI200ClosingPriceList-5",
-  "“메모리계층전체를최적화해야”…반도체대전달군AI병목해법",
-  "SK하이닉스안현사장,\"HBF·3D스택디램등차세대메모리로인프라...",
-  "낡은보일러바꾸고안전더한다…청주취약계층50가구지원",
-  "청주,SK하이닉스에하루14만9000㎥공급…'894억원'용수협약",
   "최태원,SK지분9천440억중美델일가에5천440억매각",
   "따뜻한변화일군그들...행안부,첫어워드개최",
   "안현SK하이닉스사장\"AI인프라성능규모2030년에20배커질것\"",
@@ -6001,7 +5991,17 @@
   "SSG,박정권2군감독과결별…육성시스템개편",
   "“지역사회우리가안는다”울산시·21개기업나눔결의",
   "워커힐,한국김장문화연계'제10회김장담그는날'개최",
-  "코스피,7%폭락딛고반등시작할까…삼성전자·SK하이닉스향방주목"
+  "코스피,7%폭락딛고반등시작할까…삼성전자·SK하이닉스향방주목",
+  "[오늘의글로벌마켓]뉴욕증시,기술주경계감속국채금리진정에3대...",
+  "삼성전기4.3조이어SK트리켐도…세종명학산단달군다",
+  "[아주증시포커스]코스피·코스닥7%동반급락…'패닉'에빠진증시外",
+  "[오늘의이슈]코스피폭락다음날,숨돌릴수있나",
+  "한국·미국경제계회의,조선·반도체·배터리·AI·에너지·바이오등...",
+  "[단독]쿠팡·SK에기사화빌미로공갈혐의…제보플랫폼운영진기소",
+  "329만원짜리아이폰듀오,화면깨지면165만원…수리비에'헉'",
+  "애아빠곽튜브재산어쩌나“있는돈다때려박아→제발그만”SK하이...",
+  "SK바이오사이언스,'폐렴구균백신'앞세워반등'승부수'",
+  "[머니테크…커버드콜바로알기]‘고분배율’이면의덫…원금갉아먹..."
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,33 @@
   [
    "2026-10-16T07:15:22.175106+09:00",
    "내년에도 우려 열어둬야 증시 고금리 상방 옥죄는"
+  ],
+  [
+   "2026-10-16T07:31:09.904383+09:00",
+   "배터리 조선 바이오 한국 미국 에너지 AI 경제계 반도체 회의"
+  ],
+  [
+   "2026-10-16T07:31:09.904383+09:00",
+   "플랫폼 SK에 혐의 공갈 쿠팡 기사화 제보 운영진 빌미로 기소"
+  ],
+  [
+   "2026-10-16T07:31:09.904383+09:00",
+   "듀오 329만원짜리 깨지면 수리비에 아이폰 165만원 화면"
+  ],
+  [
+   "2026-10-16T07:31:09.904383+09:00",
+   "제발 때려박아 애아빠 SK하이 재산 어쩌나 그만 있는 곽튜브"
+  ],
+  [
+   "2026-10-16T07:31:09.904383+09:00",
+   "승부수 반등 백신 폐렴구균 SK바이오사이언스 앞세워"
+  ],
+  [
+   "2026-10-16T07:31:09.904383+09:00",
+   "갉아먹 고분배율 원금 이면의"
   ]
  ],
- "last_run": "2026-10-16T07:21:07.042388+09:00",
+ "last_run": "2026-10-16T07:31:30.266886+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
