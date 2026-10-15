@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20261005145455731",
-  "https://www.mk.co.kr/article/12168535",
-  "https://www.hankyung.com/article/2026100536751",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261005010001127",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=366647",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001193",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=617334",
   "https://www.segye.com/newsView/20261005508961?OutUrl=naver",
   "https://www.segye.com/newsView/20261005509021?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=322408",
   "https://www.pressian.com/pages/articles/2026101517335245443",
   "https://www.fnnews.com/news/202610151722596485",
-  "https://www.hankyung.com/article/202610154773h"
+  "https://www.hankyung.com/article/202610154773h",
+  "http://www.breaknews.com/1243330",
+  "https://www.m-i.kr/news/articleView.html?idxno=2002387",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1104138",
+  "https://www.kyeonggi.com/article/20261015580498",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=615937",
+  "https://view.asiae.co.kr/article/2026101517464681251"
  ],
  "seen_titles": [
-  "‘줄소환’서‘선별소환’으로…국감에서사라진대기업총수들",
-  "점막모사생체재료개발‘주목’",
-  "이토록눈부신업적남기고도한국인에게잊힌작가",
-  "6일국감첫날부터정면충돌…조희대대법원장'불출석'에여야공방격...",
-  "전남광주통합특별시,출범100일시민음악회연다",
-  "이재명정부두번째국감돌입…민주“민생올인”vs국힘“실정심...",
   "李정부2년차국감개막…‘민생우선’vs‘실정검증’",
   "이재명정부2년차국감6일개막…증인채택부터‘정면충돌’",
   "[2026국정감사]여야,증인채택줄다리기...경제현안줄줄이다룬다",
@@ -6001,13 +5995,15 @@
   "노소영맞상고포기…최태원,재산분할금2440억놓고대법다툼",
   "홍지선국토부장관\"호남반도체산단,전례없는속도로제공할것\"",
   "광주군공항부지방문한홍지선국토부장관,산단적기제공및교통...",
-  "호남반도체클러스터예정지에장관들잇단방문…사업추진속도"
+  "호남반도체클러스터예정지에장관들잇단방문…사업추진속도",
+  "충남도의회,학교·지역청소년시설연계해체험교육확대모색",
+  "[기획]AI중심리더십재정비…삼성기술쇄신·SK반도체올인",
+  "전남광주시,반도체클러스터조성속도...2030년첫양산목표",
+  "하이닉스'와르르'에최태원도물렸다…49억베팅후3억손실",
+  "홍지선국토부장관,\"산단적기제공…교통망·정주여건도개선\"",
+  "\"130만닉스깨졌다\"'반도체쇼크'에최태원도4억손실"
  ],
  "recent_sigs": [
-  [
-   "2026-10-15T11:50:15.974764+09:00",
-   "청사진 전남광주시 본궤도 반도체 서남권 공개 전격전"
-  ],
   [
    "2026-10-15T12:30:24.501672+09:00",
    "창신쇼크 해외서 반응론 과잉 흔든 삼전닉스"
@@ -6107,9 +6103,13 @@
   [
    "2026-10-15T17:40:14.471903+09:00",
    "다툼 포기 대법 놓고 2440억 재산분할금 맞상고"
+  ],
+  [
+   "2026-10-15T18:00:32.882720+09:00",
+   "반도체 손실 최태원도 4억 깨졌다 쇼크 130만닉스"
   ]
  ],
- "last_run": "2026-10-15T17:50:24.329168+09:00",
+ "last_run": "2026-10-15T18:00:46.063509+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
