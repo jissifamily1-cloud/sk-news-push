@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=170700",
-  "http://www.popcornnews.net/news/articleView.html?idxno=135664",
-  "https://view.asiae.co.kr/article/2026101217170817936",
-  "https://www.nocutnews.co.kr/news/6590154",
-  "https://www.yna.co.kr/view/AKR20261012150300017?input=1195m",
-  "https://www.newsis.com/view/NISX20261012_0003822714",
-  "https://vop.co.kr/A00001697107.html",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214522",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321838",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321839",
   "https://news.mtn.co.kr/article/2026101217022421938",
   "https://www.newspim.com/news/view/20261012001374",
   "https://www.cstimes.com/news/articleView.html?idxno=723636",
@@ -2999,19 +2989,19 @@
   "https://realty.chosun.com/site/data/html_dir/2026/10/16/2026101601980.html",
   "https://www.yna.co.kr/view/AKR20261016136200001?input=1195m",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275948&CMPT_CD=P0010",
-  "https://www.ytn.co.kr/_ln/0101_202610161638029208"
+  "https://www.ytn.co.kr/_ln/0101_202610161638029208",
+  "http://www.dailypop.kr/news/articleView.html?idxno=103405",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=266542",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690192.html",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037829",
+  "https://www.greened.kr/news/articleView.html?idxno=352305",
+  "https://news.tf.co.kr/read/life/2377340.htm",
+  "https://www.hankyung.com/article/2026101669257",
+  "http://www.joseilbo.com/news/news_read.php?uid=577582&class=32",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322567",
+  "https://www.ytn.co.kr/_ln/0134_202610161602106723"
  ],
  "seen_titles": [
-  "주성원쿠팡총괄부사장\"공정위조사대응은절차적권리구제조치\"",
-  "[2026국감]오진석GS리테일부사장,납품벤더의혹에\"살펴보고있다...",
-  "[2026국감]주병기\"담합과징금안깎는다…쿠팡도덩치맞게乙보호해...",
-  "한화기술탈취의혹에주병기\"꿈도꾸지못하도록\"",
-  "\"2년간요청해도거절\"…네이버·토스POS갈등국감도마",
-  "주병기\"쿠팡납품업체비용전가등확인되면엄정조치\"",
-  "“공정위조사거부누가지시했나”...쿠팡부사장,김범석거론에도...",
-  "[2026국감]공정위국감,쿠팡조사·GS리테일벤더·배민프로모션도마",
-  "총수일가지분19.6%의비밀…자사주빼니LS·DB줄줄이규제대상",
-  "BYC발열·항균광고논란…성능입증자료부족에공정위제재",
   "주병기공정위원장,네이버'토스POS연동배제'에\"불공정차별살펴봐...",
   "물마시는주병기공정거래위원장",
   "GS25'벤더끼워넣기'의혹…공정위,부당거래여부살핀다",
@@ -6001,7 +5991,17 @@
   "'800억사기뒷북''서민빚19년추심'..장민영기업은행장국감서논란",
   "與\"총장위증\"·국힘\"정치경찰\"…'유승민딸임용의혹'공방",
   "조국\"정치검사자식에게도정의를\"vs.한동훈\"법적대응할것\"",
-  "\"조희대탄핵논의시작\"vs\"자신있으면해보라\"[정치ON]"
+  "\"조희대탄핵논의시작\"vs\"자신있으면해보라\"[정치ON]",
+  "[재계지도]삼천리,자사주소각후총수일가지분20%넘어…사익편취...",
+  "[A주간서머리]경제·산업계\"국내증시7%대폭락에금융당국긴급회...",
+  "공정위원장배우자,한전기술비상임이사선임…\"이해충돌소지\"VS\"문...",
+  "경찰,유담인천대교수특혜임용의혹수사마무리…유승민전의원등...",
+  "'당원모집에금품?'경찰,신수정전남광주북구청장강제수사…집무...",
+  "[2026국감]오민석중앙지법원장,6·3지선투표용지부족사과",
+  "유승민딸임용의혹에국감충돌…\"위증따질것\"vs\"정치경찰\"",
+  "\"위례수사위법단정어렵다\"결과에...검찰미래위,‘보완조사'요구",
+  "'이재명공소취소첫단추'미래위조사단,\"위례·서해수사위법단정...",
+  "수면위로떠오른'신천지'의혹...왜하필이판국에?[자막뉴스]"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정부가 신호가 가격 정한 된다면 담합의"
   ]
  ],
- "last_run": "2026-10-16T16:50:51.448222+09:00",
+ "last_run": "2026-10-16T17:01:10.264686+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
