@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmaeil.com/news/articleView.html?idxno=654479",
-  "https://www.newstnt.com/news/articleView.html?idxno=723128",
-  "https://www.newspim.com/news/view/20261015000350",
-  "https://www.dt.co.kr/article/12089305",
-  "https://www.g-enews.com/view.php?ud=202610151316051657923c501012_1",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6997",
-  "https://www.sedaily.com/article/20101944",
   "https://www.etoday.co.kr/news/view/2636176",
   "http://weekly.chosun.com/news/articleView.html?idxno=56183",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151313458670725",
@@ -2999,16 +2992,16 @@
   "https://www.tokenpost.kr/news/insights/423582",
   "https://biz.heraldcorp.com/article/10905645",
   "https://www.mt.co.kr/industry/2026/10/17/2026101614173351932",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16249543"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16249543",
+  "https://mhnse.com/news/articleView.html?idxno=1598172",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728182",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53734",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16249546",
+  "http://www.kbiznews.co.kr/news/articleView.html?idxno=114977",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16249551",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496077"
  ],
  "seen_titles": [
-  "양자암호·양자컴퓨팅주약세…라온시큐어는13%급등왜?",
-  "정유·배터리날개단SK이노,연간영업익'10조원'넘는다",
-  "베슬AI,2030년GPU20만장확보…직접구축15만장추진",
-  "코스피·코스닥,서킷브레이커발동…8%폭락",
-  "\"반도체대박세수로철도깐다\"…용인시,1조원'철도기금'조성",
-  "美악재에국내증시'와르르'…코스피·코스닥8%넘게폭락에서킷브...",
-  "코스피장중7%대급락...반도체주폭락에증시'패닉'",
   "[특징주]SK이터닉스,5077억규모전력공급계약…매출액대비131.67%",
   "\"SK하이닉스반등공식믿었는데\"…악재겹친반도체,투자심리'흔들'",
   "“어떡해,버텼는데또터졌다”…급락장에개미들‘피눈물’",
@@ -6001,7 +5994,14 @@
   "[온체인주식선물]SK하이닉스,정규장종가보다2.92%할인",
   "‘AI발먹구름’美반도체지수,금융위기이후최장하락",
   "수소차와트램,로봇까지…현대차그룹의미래한눈에",
-  "이미주\"직업계고,날라리만모인곳아냐…학폭은드라마일뿐\""
+  "이미주\"직업계고,날라리만모인곳아냐…학폭은드라마일뿐\"",
+  "이미주,직업계고편견에일침…\"학폭은드라마일뿐이다\"('영크크는...",
+  "\"AI우려에유가폭탄까지\"…뉴욕증시기술주잔혹사,'금융위기급'신...",
+  "AI주급락·유가급등…뉴욕증시동반하락",
+  "최근5거래일SK하이닉스주가변동성확대속약세마감",
+  "김기문\"中企도성장의주체로\"…3대메가프로젝트참여길열린다",
+  "최근5거래일SK스퀘어주가70만원대등락",
+  "하루만에24%뛴NBIS인버스ETF…미국기술주하락베팅에자금몰렸..."
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,21 @@
   [
    "2026-10-17T08:41:02.633157+09:00",
    "학폭은 직업계고 아냐 날라리만 드라마일 이미주 모인"
+  ],
+  [
+   "2026-10-17T08:51:00.215353+09:00",
+   "3대 성장의 열린다 김기문 참여 메가프로젝트 주체로"
+  ],
+  [
+   "2026-10-17T08:51:00.215353+09:00",
+   "SK스퀘어 등락 주가 70만원대 최근 5거래일"
+  ],
+  [
+   "2026-10-17T08:51:00.215353+09:00",
+   "ETF 하루 베팅에 하락 만에 인버스 미국 기술주 자금 NBIS 몰렸"
   ]
  ],
- "last_run": "2026-10-17T08:41:08.313350+09:00",
+ "last_run": "2026-10-17T08:51:11.982857+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
