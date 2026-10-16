@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/finance/1281113.html",
-  "https://news.tf.co.kr/read/economy/2373353.htm",
-  "http://www.nongaek.com/news/articleView.html?idxno=97024",
-  "https://www.dt.co.kr/article/12087653",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726854",
-  "https://www.khan.co.kr/article/202610061532001",
-  "http://www.mygoyang.com/news/articleView.html?idxno=90603",
   "https://www.ekn.kr/web/view.php?key=20261006028522692",
   "https://www.viva100.com/article/20261006500983",
   "https://ilyo.co.kr/?ac=article_view&entry_id=513030",
@@ -2999,15 +2992,16 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609011732508680108136",
   "http://www.yonhapnewstv.co.kr/news/MYH20261016170455obl",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728170",
-  "https://www.bloter.net/news/articleView.html?idxno=675567"
+  "https://www.bloter.net/news/articleView.html?idxno=675567",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=184219",
+  "https://www.yna.co.kr/view/AKR20261016160100073?input=1195m",
+  "https://biz.sbs.co.kr/article_hub/20000340520?division=NAVER",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=184221",
+  "https://www.news1.kr/politics/assembly/6322955",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261016181309dta",
+  "https://www.laborplus.co.kr/news/articleView.html?idxno=41661"
  ],
  "seen_titles": [
-  "48개그룹총수주식재산14%↓…이재용·최태원·정의선17.5조하락",
-  "3분기그룹총수48명주식자산18조원↓",
-  "3분기그룹총수주식재산18조넘게감소…서정진은증가액1위",
-  "이재용·최태원·정의선주식재산'뚝'…총수들18조증발",
-  "거버넌스포럼,최태원SK지분9440억매각에\"3%룰회피의도설명해야...",
-  "헨켈,HBM등첨단패키징소재한자리에소개",
   "[2026국정감사]'호남반도체'공방...野\"부지선정공정했나\"vs與\"기...",
   "거버넌스포럼“최태원SK지분매각,‘3%룰’회피목적있나”",
   "최태원,SK지분매각…“의결권행사약정있으면공동보유공시해야”",
@@ -6001,7 +5995,13 @@
   "[더벨][지배구조분석|SK네트웍스]오너3세최성환사장의달라진지...",
   "이스탄불41년만의'최악폭우'…인명피해·도시마비",
   "두산,지주·에너빌리티CFO나란히부회장승진…'재무통'전면에",
-  "연말인사셈법분주한4대그룹…관전포인트는"
+  "연말인사셈법분주한4대그룹…관전포인트는",
+  "전남광주통합특별시,반도체클러스터조성속도…정부·기업현장점검...",
+  "日언론,'한일경제공동체'구상조명…\"긍정적이지만과제도\"",
+  "전남광주통합특별시반도체산단예정지현장점검…국토부장관'적기...",
+  "\"박물관관람·뮤직뱅크가국감보다중요합니까\"[국감말말말]",
+  "'제척'이진숙\"강력유감표해\"…국감곳곳서불참·충돌",
+  "[2026노동국감]잇단추가증인요청,'청문회'언급도"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,29 @@
   [
    "2026-10-16T17:50:15.737200+09:00",
    "연말인사 분주한 4대 포인트는 셈법 관전"
+  ],
+  [
+   "2026-10-16T18:20:16.751545+09:00",
+   "긍정적이지만 과제도 조명 한일 구상 경제공동체 언론"
+  ],
+  [
+   "2026-10-16T18:20:16.751545+09:00",
+   "예정지 반도체 적기 산단 현장점검 장관 전남광주통합특별시 국토부"
+  ],
+  [
+   "2026-10-16T18:20:16.751545+09:00",
+   "관람 국감보다 박물관 중요합니까 뮤직뱅크가"
+  ],
+  [
+   "2026-10-16T18:20:16.751545+09:00",
+   "제척 표해 국감 유감 불참 곳곳서 이진숙 충돌 강력"
+  ],
+  [
+   "2026-10-16T18:20:16.751545+09:00",
+   "언급도 잇단 증인 추가 요청 청문회"
   ]
  ],
- "last_run": "2026-10-16T18:10:27.435801+09:00",
+ "last_run": "2026-10-16T18:20:42.727795+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
