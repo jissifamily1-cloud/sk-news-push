@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=577453&class=17",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856560",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150048&t=NN",
-  "https://www.kukinews.com/article/view/kuk202610150073",
-  "https://www.dailian.co.kr/news/view/1700361/?sc=Naver",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81183",
   "https://www.cbci.co.kr/news/articleView.html?idxno=615758",
   "https://www.mhns.co.kr/news/articleView.html?idxno=764372",
   "http://www.newskr.kr/news/articleView.html?idxno=107175",
@@ -2999,15 +2993,15 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026101618015946784c878f8fa1_30",
   "http://www.srtimes.kr/news/articleView.html?idxno=215025",
   "http://www.yonhapnewstv.co.kr/news/MYH20261016181947Qqh",
-  "https://www.newsis.com/view/NISX20261016_0003829662"
+  "https://www.newsis.com/view/NISX20261016_0003829662",
+  "http://www.ikld.kr/news/articleView.html?idxno=342408",
+  "https://www.ytn.co.kr/_ln/0102_202610161834523465",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687781",
+  "https://www.mk.co.kr/article/12178156",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279024",
+  "https://futurechosun.com/?p=163481"
  ],
  "seen_titles": [
-  "KR한국선급,선박사이버보안디지털전환본격화",
-  "“中4F²쇼크…美EUV장비규제유효기간서서히끝나가는중”[비즈...",
-  "속슬13%급락에서학개미하루새1조원증발…원화강세에환차손까지",
-  "웰페어뉴스브리핑(2026.10.15)",
-  "빗썸,OK캐쉬백적립하면비트코인도지급",
-  "삼성8%·하이닉스10%폭락…‘CXMT쇼크’때문만은아니다[칩칩폭폭...",
   "올해1~8월국세330조걷혀…1년전보다69조↑",
   "3배수익꿈꿨는데오히려'곤두박질'…-13%서학개미'곡소리'",
   "HJ중공업,美해군첫정비MRO‘완주’…이제전투함겨눈다",
@@ -6001,7 +5995,13 @@
   "이상일용인시장,진주와자매결연…반도체·우주항공상생협력나선다",
   "中CXMT'4F²'D램개발발표에시장우려확산…월가\"영향크지않을...",
   "코스피,반등에성공했지만…추세적상승엔신중론",
-  "여야,노란봉투법시행7개월평가엇갈려…'삼성·SK'증인채택신경전..."
+  "여야,노란봉투법시행7개월평가엇갈려…'삼성·SK'증인채택신경전...",
+  "건설연–SK이노베이션,AI데이터센터첨단인프라기술협력본격화…...",
+  "저가매수유입됐나...코스피2%·코스닥4%대↑",
+  "일언론,최태원‘한일경제공동체’조명“긍정적…실현은미지수”",
+  "“내년까지주식계좌안볼랍니다”…8일만에추락겨우멈췄지만",
+  "KOSPIReboundsAbove5,600AfterSeven-DaySlide",
+  "[더나은미래경제브리핑]“공부잘하는약은없습니다”식약처,수능..."
  ],
  "recent_sigs": [
   [
@@ -7031,9 +7031,21 @@
   [
    "2026-10-16T18:34:26.274805+09:00",
    "엇갈려 신경전 시행 7개월 채택 노란봉투법 평가 삼성 여야 증인"
+  ],
+  [
+   "2026-10-16T18:41:02.685380+09:00",
+   "겨우 8일만에 추락 내년까지 주식계좌 멈췄지만 안볼랍니다"
+  ],
+  [
+   "2026-10-16T18:41:02.685380+09:00",
+   "Day Seven Slide Above After KOSPI Rebounds"
+  ],
+  [
+   "2026-10-16T18:41:02.685380+09:00",
+   "공부 수능 없습니다 식약처 약은 잘하는"
   ]
  ],
- "last_run": "2026-10-16T18:34:32.309763+09:00",
+ "last_run": "2026-10-16T18:41:14.383535+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
