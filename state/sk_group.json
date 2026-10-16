@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ilemonde.com/news/articleView.html?idxno=30756",
-  "https://www.thebigdata.co.kr/view.php?ud=202610081123239758e91b94b033_23",
-  "https://www.jasm.co.kr/news/articleView.html?idxno=320930",
-  "https://www.g-enews.com/view.php?ud=202610091718497945fbbec65dfb_1",
-  "https://www.hani.co.kr/arti/area/honam/1281691.html",
-  "https://www.hani.co.kr/arti/economy/finance/1281677.html",
   "https://www.g-enews.com/view.php?ud=202610090931183870fbbec65dfb_1",
   "https://www.hemophilia.co.kr/news/articleView.html?idxno=44958",
   "https://www.hani.co.kr/arti/society/environment/1281360.html",
@@ -2999,15 +2993,15 @@
   "http://www.finomy.com/news/articleView.html?idxno=263812",
   "https://www.greened.kr/news/articleView.html?idxno=352267",
   "https://news.mtn.co.kr/article/2026101612255919037",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=619077"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=619077",
+  "https://www.newstnt.com/news/articleView.html?idxno=723352",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242252",
+  "https://www.the-stock.kr/news/articleView.html?idxno=33581",
+  "https://www.ngonews.kr/news/articleView.html?idxno=240710",
+  "https://www.kbmaeil.com/article/20261016500202",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278973"
  ],
  "seen_titles": [
-  "삼전닉스내년대규모성과급에도…국회예정처“소비효과제한적”",
-  "CXMT,4F²DDR5RDIMM연내출시...삼성전자에2년앞서",
-  "상법개정은출발점,개혁은계속돼야한다",
-  "\"공장지을래도한전서전기안준다\"목소리에비상처방⋯'한전독점...",
-  "완도군장보고한상어워드,세계6개국동포경제인6명'21세기장보고...",
-  "호남반도체부지방문한최태원\"용수·전기늦어도최대한빨리착공에...",
   "AI투자쏟아져도반도체株뒷걸음질…시장은왜현금에집착하는가",
   "광주간최태원“호남반도체,최대한빨리…용수·전기늦어도들어가...",
   "오픈AI매출흔들리자기술주급락…AI산업‘순환구조’위험성재부...",
@@ -6001,13 +5995,15 @@
   "[건설레이더]SK에코플랜트·IPARK현대산업개발·포스코이앤씨·현대건설...",
   "인천서해구,민·관협력으로어르신1,900명에'따뜻한한끼'",
   "고통분담7개월,보전은아직…정유업계최고가격제속앓이",
-  "[분석]코스피,바닥론에반등성공...\"11월추세반등기대\""
+  "[분석]코스피,바닥론에반등성공...\"11월추세반등기대\"",
+  "[특징주]위드텍,SK하이닉스반도체장비39억원수주",
+  "베슬AI-한국투자증권,'GPU파이낸싱'업무협약체결…AI인프라사업...",
+  "[덕산일렉테라IPO]중복상장찬반의견팽팽…주주설득'시험대'",
+  "[김상민의세상을보는눈]기업인에게는배임죄…사회적재앙부른정...",
+  "경북도주한일본공관및경제단체초청투자협력방안모색",
+  "IMFWarnsKorea'sAI-HeavyStockMarketFacesHeightenedRisks"
  ],
  "recent_sigs": [
-  [
-   "2026-10-16T06:31:14.109146+09:00",
-   "코어위브도 반등 역시 젠슨 불렀던 폭락장"
-  ],
   [
    "2026-10-16T06:41:06.232998+09:00",
    "포함 위기 터너스 검토 CEO 애플 메모리 선택지 모든 중국산"
@@ -7131,9 +7127,21 @@
   [
    "2026-10-16T12:31:11.412362+09:00",
    "코스피 성공 기대 11월 바닥론에 반등 추세"
+  ],
+  [
+   "2026-10-16T12:41:03.491312+09:00",
+   "기업인에게는 재앙 배임죄 사회적 부른"
+  ],
+  [
+   "2026-10-16T12:41:03.491312+09:00",
+   "공관 일본 경제 모색 협력 경북도 주한 방안 단체 초청 투자"
+  ],
+  [
+   "2026-10-16T12:41:03.491312+09:00",
+   "Market Heightened IMF Warns Faces Risks AI Korea Heavy Stock"
   ]
  ],
- "last_run": "2026-10-16T12:31:20.257097+09:00",
+ "last_run": "2026-10-16T12:41:14.983432+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
