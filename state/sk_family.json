@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbsm.net/news/view.php?idx=536678",
-  "https://www.sportsworldi.com/newsView/20261006511107",
   "https://www.mediapen.com/news/view/1128111",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=507124",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85626",
@@ -2999,11 +2997,11 @@
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290205450475",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261016010005170",
   "https://www.polinews.co.kr/news/articleView.html?idxno=745812",
-  "https://news.dealsitetv.com/articles/177063"
+  "https://news.dealsitetv.com/articles/177063",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136216",
+  "https://www.news1.kr/industry/general-industry/6322106"
  ],
  "seen_titles": [
-  "'라스'양치승\"'헬스장폐업'피해액20억가까이…몰래울었다\"",
-  "최종현경기도의원“지방의회법의목적은권한확대아닌도민의삶개...",
   "[2026국감]호남반도체두고산중위·기노위공방…산업장관\"최종결...",
   "한국기업거버넌스포럼,최태원회장SK지분9440억원매각에“암묵적...",
   "양치승,‘15억사기’가끝아니었다…“실제피해20억,헬멧쓰고소...",
@@ -6001,7 +5999,9 @@
   "용인특례시의회김희영의원대표발의,'용인시장사시설의설치및관...",
   "충남도의회,청소년활동시설연계교육활성화의정토론진행",
   "빅테크협력부터현지생산까지…재계의해외사업전략",
-  "국토부장관\"반도체산단적기공급\"…호남권클러스터속도"
+  "국토부장관\"반도체산단적기공급\"…호남권클러스터속도",
+  "재산분할'9440억'최태원회장어쩌나…'SK㈜주가하락'지분매각변...",
+  "최태원\"AI시대리더정의달라져…AI가할수없는일해야\""
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-10-16T10:00:34.205326+09:00",
    "재계의 생산까지 빅테크 현지 전략 협력부터 해외 사업"
+  ],
+  [
+   "2026-10-16T10:20:15.145897+09:00",
+   "AI 정의 시대 리더 AI가 해야 달라져 없는"
   ]
  ],
- "last_run": "2026-10-16T10:10:24.551243+09:00",
+ "last_run": "2026-10-16T10:20:29.449911+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
