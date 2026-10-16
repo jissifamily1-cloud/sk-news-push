@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=639861",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312977",
-  "https://www.kyeonggi.com/article/20261012580545",
-  "https://www.newspim.com/news/view/20261012001321",
-  "https://www.newspim.com/news/view/20261012001319",
-  "https://www.newspim.com/news/view/20261012001324",
-  "https://www.newspim.com/news/view/20261012001323",
-  "https://www.newspim.com/news/view/20261012001313",
-  "https://www.hani.co.kr/arti/society/women/1281991.html",
-  "https://www.mediapen.com/news/view/1129361",
-  "http://www.joseilbo.com/news/news_read.php?uid=577202&class=8",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261012010003352",
   "http://www.finomy.com/news/articleView.html?idxno=263361",
   "https://zdnet.co.kr/view/?no=20261012164620",
@@ -2999,20 +2988,20 @@
   "https://www.m-economynews.com/news/article.html?no=71762",
   "http://www.iminju.net/news/articleView.html?idxno=170990",
   "https://www.incheontoday.com/news/articleView.html?idxno=325052",
-  "https://www.fnnews.com/news/202610161530162249"
+  "https://www.fnnews.com/news/202610161530162249",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424378",
+  "https://www.consumuch.com/news/articleView.html?idxno=79299",
+  "https://www.newscj.com/news/articleView.html?idxno=3440828",
+  "https://www.dailian.co.kr/news/view/1702509/?sc=Naver",
+  "https://www.hidomin.com/news/articleView.html?idxno=725181",
+  "https://news.tf.co.kr/read/economy/2377267.htm",
+  "https://www.donga.com/news/Society/article/all/20261016/134854904/1",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2307413",
+  "https://www.hidomin.com/news/articleView.html?idxno=725179",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261016.99099004661",
+  "https://www.joongang.co.kr/article/25470353"
  ],
  "seen_titles": [
-  "[국감]'반복담합'뿌리뽑는다···공정위,등록취소·영업정지카드...",
-  "[2026국감]GS25만왜'통행세'받나…납품사·가맹점·소비자부담증폭",
-  "[단독]유웨이먹통사태뒤엔‘복수계약실종’…대교협관리책임...",
-  "질의답하는이건명에쓰오일부사장",
-  "2026국감질의답하는주성원쿠팡총괄부사장",
-  "2026국감출석한조주연홈플러스대표",
-  "오진석GS리테일부사장,2026국감질의답변",
-  "국감질의답하는박현진KT부사장",
-  "접근금지‘구멍’드러낸‘송파장모살인’…“실효성높여야”",
-  "행안위,'한동훈딸허위스펙'의혹도마...김종철\"재수사배제안해\"",
-  "'9월의관세인'위조상품3550건차단한우주희주무관",
   "[2026국감]경찰청국감서'한동훈딸부실수사'도마…김종철\"재수사...",
   "[2026국감]KT,우월한지위남용'의혹'···티오더분쟁\"엄중히살피...",
   "GS리테일,납품중간에벤더끼웠나…특정업체특혜의혹",
@@ -6001,7 +5990,18 @@
   "서울고법원장“대법관공백장기화바람직하지않아”...제청·임명권...",
   "CJ前직원,'임직원개인정보유출'혐의로약식기소",
   "국감서'임용특혜의혹공소청송치'이인재인천대총장질타나와",
-  "경찰,한동훈'딸수사무마의혹'고발사건서울청이관…\"검토후배당..."
+  "경찰,한동훈'딸수사무마의혹'고발사건서울청이관…\"검토후배당...",
+  "담합기소석화6사,과징금에이익줄어드나",
+  "예식장·스드메대행업체17곳,중요정보고시위반적발",
+  "경북경찰,예천군청총무과·홍보소통과압수수색",
+  "시민단체'한동훈수사무마의혹'고발사건,서울경찰청이관",
+  "조국\"한동훈딸천재성,특검으로확인하자\"…韓\"허위사실법적대응...",
+  "[2026국감]농협개혁도마위…개혁방식부터강호동회장책임까지",
+  "유승민,‘딸교수채용’관련혐의송치…“정치수사”반발",
+  "오민석서울중앙지법원장\"6·3지선투표용지부족사태송구\"",
+  "'딸특혜임용'송치된유승민\"없는죄덮어씌워…정치수사\"",
+  "한동훈수사무마의혹고발사건서울경찰청이관",
+  "불송치3년만에다시들여다보나…‘한동훈딸수사무마’서울경찰청..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "정부가 신호가 가격 정한 된다면 담합의"
   ]
  ],
- "last_run": "2026-10-16T15:40:58.101142+09:00",
+ "last_run": "2026-10-16T15:50:54.852372+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
