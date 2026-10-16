@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/internet-platform/6321044",
-  "https://www.yna.co.kr/view/AKR20261015093400089?input=1195m",
-  "https://www.thelec.kr/news/articleView.html?idxno=63751",
   "https://www.wikitree.co.kr/articles/1166467",
   "https://www.etoday.co.kr/news/view/2636089",
   "https://www.smarttoday.co.kr/ko-kr/articles/112729",
@@ -2999,12 +2996,12 @@
   "https://www.joongang.co.kr/article/25470499",
   "https://www.joongang.co.kr/article/25470495",
   "https://www.dt.co.kr/article/12089399",
-  "https://www.news1.kr/finance/market-exr/6322976"
+  "https://www.news1.kr/finance/market-exr/6322976",
+  "https://www.yna.co.kr/view/AKR20261017005151072?input=1195m",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11695",
+  "https://www.segye.com/newsView/20261017503199?OutUrl=naver"
  ],
  "seen_titles": [
-  "CPI쇼크에뉴욕증시하락…코스피도장초반급락",
-  "\"저축은행보안괜찮나\"…1400억규모차세대공동망역할주목",
-  "삼전닉스흔든'中창신쇼크'…해외서과잉반응론",
   "[15일인천서해구]지역발전사4곳과환경개선협력간담회개최등",
   "전남광주,반도체국가산단조성'속도전'…정부·SK현장점검행보잇...",
   "SK오션플랜트,아시아·태평양재생에너지시장공략고삐",
@@ -6001,7 +5998,10 @@
   "올해만134조싹쓸이한‘中신약’…K바이오점점밀려난다",
   "최태원“가장빠른속도”외치자,장관3명광주달려갔다",
   "‘삼전’이확인한슈퍼사이클,‘하닉’바통잇는다[이상현의전자수...",
-  "'ESS모멘텀'에삼성SDI,10월폭락장서3%상승선방[종목현미경]"
+  "'ESS모멘텀'에삼성SDI,10월폭락장서3%상승선방[종목현미경]",
+  "AI경고등에유가급등까지…반도체급락,나스닥2.2%↓(종합)",
+  "[오늘의경제뉴스]\"AI서버열을식혀라\"…삼성·LG,데이터센터냉각시...",
+  "외국인16조던질때…삼전·하이닉스7조쓸어담은개미들"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-10-17T06:12:08.203205+09:00",
    "폭락장서 삼성SDI 선방 10월 모멘텀 ESS 상승"
+  ],
+  [
+   "2026-10-17T06:31:10.071263+09:00",
+   "던질 개미들 쓸어담은 하이닉스 7조 16조 삼전 외국인"
   ]
  ],
- "last_run": "2026-10-17T06:21:05.660378+09:00",
+ "last_run": "2026-10-17T06:31:15.751554+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
