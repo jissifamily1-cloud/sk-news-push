@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.knnews.co.kr/news/articleView.php?idxno=1552876",
-  "https://www.naeil.com/news/read/605253",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=80658",
-  "https://www.naeil.com/news/read/605230",
-  "https://www.naeil.com/news/read/605246",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261015130457oc7",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856589",
-  "https://www.naeil.com/news/read/605195",
   "http://www.yonhapnewstv.co.kr/news/MYH20261015130258uHC",
   "https://www.newsis.com/view/NISX20261015_0003827300",
   "https://www.newscj.com/news/articleView.html?idxno=3440494",
@@ -2999,17 +2991,17 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145803",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496061",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=313330",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172305"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172305",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65935",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283428",
+  "https://www.theguru.co.kr/news/article.html?no=108390",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65926",
+  "https://www.dailian.co.kr/news/view/1702530/?sc=Naver",
+  "https://www.yna.co.kr/view/AKR20261016119900057?input=1195m",
+  "https://www.tfmedia.co.kr/news/article.html?no=208090",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496063"
  ],
  "seen_titles": [
-  "AI투자논란과소비자물가지수충격,주식시장불안가중되는이유",
-  "[2026국감-한국관광공사①]방한객1,893만명시대…체류6.5일·숙박...",
-  "[SK그룹계열사상장]17조원SK바이오팜,자회사가치상승은누구의가...",
-  "SK사장단인사,이달말나오나…CEO세미나전조기단행관측",
-  "일반차량도무인이송…SKT,AI-RAN5G기술로글로벌상수상",
-  "코스피·코스닥8%급락…오전사이드카·오후서킷브레이커",
-  "경남디지털·AI기업130개사한자리에…‘TheNextAI×SMATOF’개막",
-  "미물가충격·반도체약세에코스피장초반5~6%하락",
   "코스피·코스닥,8%대급락…양시장서킷브레이커발동",
   "인공지능해킹에금융사16곳뚫려",
   "SK가스,연평균세전이익4500억원",
@@ -6001,7 +5993,15 @@
   "[오늘의글로벌마켓]뉴욕증시,AI관련주급락에유가급등까지...3대지...",
   "[주간거래소외국인]현대건설·한미약품·셀트리온폭풍매수…삼성S...",
   "[지난밤뉴욕에선]3대지수,AI투자부담에유가급등겹쳐",
-  "미국증시,반도체·AI인프라주'비명'...양대악재는?"
+  "미국증시,반도체·AI인프라주'비명'...양대악재는?",
+  "AI빚폭탄우려에유가까지폭등…나스닥2%넘게추락",
+  "뉴욕증시,유가상승·AI우려에일제히하락...나스닥2%↓",
+  "[통신리뷰]KT,AI매장음악서비스'래디오비즈'출시(10월2주차)",
+  "용인특례시,진주시와자매결연…19번째국내자매도시",
+  "AI'순환투자',선순환인가폭탄돌리기인가",
+  "\"6ｍ옆에위험물탱크…불길확산막은건신속한판단·협력\"",
+  "日언론,최태원'한일경제공동체'구상조명…\"긍정적이지만과제도\"",
+  "[주간거래소기관]SK하이닉스집중매수…삼성전기·이수페타시스는..."
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,33 @@
   [
    "2026-10-17T07:31:07.308929+09:00",
    "미국증시 양대 AI인프라주 악재는 비명 반도체"
+  ],
+  [
+   "2026-10-17T07:41:03.756304+09:00",
+   "서비스 KT AI 매장음악 10월2주차 출시 래디오비즈"
+  ],
+  [
+   "2026-10-17T07:41:03.756304+09:00",
+   "용인특례시 자매도시 진주시와 국내 자매결연 19번째"
+  ],
+  [
+   "2026-10-17T07:41:03.756304+09:00",
+   "AI 선순환인가 폭탄 순환투자 돌리기인가"
+  ],
+  [
+   "2026-10-17T07:41:03.756304+09:00",
+   "위험물 막은 불길 협력 확산 옆에 신속한 탱크 판단"
+  ],
+  [
+   "2026-10-17T07:41:03.756304+09:00",
+   "최태원 경제공동체 조명 긍정적이지만 과제도 구상 한일 언론"
+  ],
+  [
+   "2026-10-17T07:41:03.756304+09:00",
+   "삼성전기 SK하이닉스 집중 매수 이수페타시스는"
   ]
  ],
- "last_run": "2026-10-17T07:31:19.034475+09:00",
+ "last_run": "2026-10-17T07:41:22.960293+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
