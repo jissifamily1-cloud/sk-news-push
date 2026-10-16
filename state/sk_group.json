@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069641",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069620",
-  "https://www.edaily.co.kr/News/Read?newsId=01082406645613248&mediaCodeNo=257",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069643",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069624",
-  "https://www.sportschosun.com/football/2026-10-14/202610150100094280006128",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069607",
-  "https://www.joongang.co.kr/article/25469807",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90704",
-  "https://www.ziksir.com/news/articleView.html?idxno=149339",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53656",
   "https://www.sedaily.com/article/20101750",
   "https://www.chosun.com/opinion/specialist_column/2026/10/15/QCFG3MTCUVHJVPSGR7DDMGUB74/",
@@ -2999,19 +2989,19 @@
   "http://www.breaknews.com/1243480",
   "https://weeklytrade.co.kr/news/view.html?no=101740",
   "https://dhnews.co.kr/news/view/1065581315246746",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=816088"
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=816088",
+  "https://www.g-enews.com/view.php?ud=202610141842584316fbbec65dfb_1",
+  "https://www.investchosun.com/site/data/html_dir/2026/10/16/2026101680086.html",
+  "https://news.tf.co.kr/read/economy/2377148.htm",
+  "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500121?wlog_tag3=naver",
+  "https://www.munhwa.com/article/11624058",
+  "https://www.fnnews.com/news/202610161157553785",
+  "https://www.arunews.com/news/articleView.html?idxno=68223",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242250",
+  "https://dealsite.co.kr/articles/170806",
+  "https://www.yna.co.kr/view/AKR20261016078600008?input=1195m"
  ],
  "seen_titles": [
-  "\"美제재뚫고4F²진입\"…中CXMT기술돌파구에삼성·SK·마이크론...",
-  "[권세중의외교오디세이]석탄의땅에서전환의길을묻다—정부의...",
-  "울산21개기업지역사회나눔한뜻",
-  "2035년까지AI공급기업100곳·핵심인재1500명키운다",
-  "울산HD,부천전승리로파이널A굳힌다",
-  "\"삼전개미한숨쉴때주가3배폭등\"…고수들몰린'이회사'[종목e슈...",
-  "\"발전공기업통합본사울산에\"울산시본격나서",
-  "SK가스\"AI·전기화시대발전설루션기업으로\"",
-  "'4경기연속무승→ACLE고베원정0-2패'돌파구를찾지못하는전북...",
-  "\"울산AI데이터센터지역상생체계제도화를\"",
   "SK·삼성·현대·두산,최대4조‘웨스팅하우스지분투자’검토",
   "[증시프리즘]외국인매도폭탄에대형주휘청…반도체·차·바이오집...",
   "5일간13조던진외인…코스피반등열쇠는결국'반도체'",
@@ -6001,7 +5991,17 @@
   "존F.케네디전미대통령조수론(潮水論)..“삼성전자-하이닉스에힘...",
   "[신간]정재용의'지정학과실리콘방패':반도체는수출상품을넘어...",
   "한국지텔프,지텔프(G-TELP)영역별평가결과확인중요성강조",
-  "[오늘증시]코스피7거래일폭락은멈췄다…외인매도세'회복의변수'"
+  "[오늘증시]코스피7거래일폭락은멈췄다…외인매도세'회복의변수'",
+  "지수안정뒤에숨은미국소형주5.57%폭락…국채금리24년만의최고...",
+  "[Invest]솔리다임프리IPO50억달러모집마무리…해외중심으로연말까...",
+  "애플첫폴더블폰흥행잡아라…통신3사,아이폰듀오사전예약시작",
+  "“삼전닉스,이젠지하실로가나?”…‘반도체추락’원인따져보니[...",
+  "폭락했던코스피,하루만에반등",
+  "\"AI투자는낭비\"아서헤이즈의경고,지금증명되나[크립토브리핑]",
+  "[장위뉴타운,남은퍼즐맞춘다]'반쪽뉴타운'오명벗는다…장위뉴타...",
+  "[국감]한국IPv6이용률29%…통신사대응미진·KISA역할도마",
+  "코어위브發위기론에월가반론…\"시장과잉반응\"",
+  "\"버틸때냐,팔때냐\"…'폭락장세'에증권가전문가들진단은"
  ],
  "recent_sigs": [
   [
@@ -7207,9 +7207,25 @@
   [
    "2026-10-16T12:01:27.480925+09:00",
    "7거래일 폭락은 변수 외인 매도세 회복의 코스피 멈췄다"
+  ],
+  [
+   "2026-10-16T12:11:03.207200+09:00",
+   "반쪽 오명 뉴타운 벗는다 장위뉴타"
+  ],
+  [
+   "2026-10-16T12:11:03.207200+09:00",
+   "역할 미진 도마 KISA 한국 통신사 대응 이용률 IPv6"
+  ],
+  [
+   "2026-10-16T12:11:03.207200+09:00",
+   "시장 위기론에 반론 월가 과잉반응 코어위브"
+  ],
+  [
+   "2026-10-16T12:11:03.207200+09:00",
+   "진단은 폭락장세 전문가들 때냐 버틸 증권가"
   ]
  ],
- "last_run": "2026-10-16T12:02:00.634946+09:00",
+ "last_run": "2026-10-16T12:11:16.687069+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
