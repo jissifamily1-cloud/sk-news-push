@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2006301",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799257&plink=ORI&cooper=NAVER",
   "https://www.ytn.co.kr/_ln/0134_202610151410286601",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799231&plink=ORI&cooper=NAVER",
   "https://www.seoul.co.kr/news/economy/2026/10/15/20261015500135?wlog_tag3=naver",
@@ -2999,11 +2997,11 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064461",
   "https://biz.heraldcorp.com/article/10905767",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5225536",
-  "https://www.g-enews.com/view.php?ud=202610171328104182fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202610171328104182fbbec65dfb_1",
+  "https://biz.heraldcorp.com/article/10905770",
+  "https://www.mt.co.kr/industry/2026/10/17/2026101610422898635"
  ],
  "seen_titles": [
-  "반도체호황에나라살림적자43조…8년만에최소",
-  "[흔들리는AI열풍]①6거래일연속떨어진필리지수...AI지출지속성에...",
   "\"SK하이닉스,美에투자조건으로中공장반도체장비반입요구\"",
   "AI쇼크...일본증시'장중휘청',키옥시아등반도체주'털썩'",
   "韓증시덮친AI버블우려와고금리공포…시총장중400조가까이증발",
@@ -6001,13 +5999,11 @@
   "호텔김치도미국서각광…워커힐\"올해100t수출\"",
   "‘삼전닉스’위협한CXMT,3분기매출600%대급증…최대4000억원자사...",
   "'삼전닉스도전장'중국창신메모리매출600%폭증전망",
-  "中환구시보,창신메모리띄우며韓반도체때리기…머스크발언얹어..."
+  "中환구시보,창신메모리띄우며韓반도체때리기…머스크발언얹어...",
+  "SK하이닉스청주공사현장케이블끊어져2명부상",
+  "LG그룹'에너지기술'총출동…히트펌프에'1등ESS'까지확인"
  ],
  "recent_sigs": [
-  [
-   "2026-10-17T07:51:03.304298+09:00",
-   "이겼다 소노가 꼴찌 맞대결"
-  ],
   [
    "2026-10-17T08:11:03.945299+09:00",
    "큰손들은 줍줍 반등에 타는데 개미들 몰렸다"
@@ -6403,9 +6399,13 @@
   [
    "2026-10-17T13:51:00.857300+09:00",
    "띄우며 머스크 때리기 창신메모리 발언 얹어 환구시보 반도체"
+  ],
+  [
+   "2026-10-17T14:01:18.598061+09:00",
+   "1등 ESS 히트펌프에 확인 까지 에너지 총출동 기술 LG그룹"
   ]
  ],
- "last_run": "2026-10-17T13:51:07.627157+09:00",
+ "last_run": "2026-10-17T14:01:24.977397+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
