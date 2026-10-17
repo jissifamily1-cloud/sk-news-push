@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20261012501519",
-  "https://www.hani.co.kr/arti/opinion/editorial/1282023.html",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41000",
   "http://www.finomy.com/news/articleView.html?idxno=263369",
   "https://www.busan.com/view/busan/view.php?code=2026101218472603509",
   "https://www.idomin.com/news/articleView.html?idxno=2016754",
@@ -2999,12 +2996,12 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=881774",
   "https://www.joongang.co.kr/article/25470537",
   "https://www.ytn.co.kr/_ln/0103_202610171202586525",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688176"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688176",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802084&plink=ORI&cooper=NAVER",
+  "https://www.newsis.com/view/NISX20261017_0003829908",
+  "https://news.jtbc.co.kr/article/NB12323475?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[속보]장모살인하고아내납치한20대에구속영장…존속살해·특수감금...",
-  "[사설]한동훈딸‘허위스펙’수사,봐주기수사아니었나",
-  "여야,SK에너지·HD현대오일뱅크정유담합에'전쟁돈벌이'질타",
   "[2026국감]박성훈의원\"담합왜곡가격,국민세금으로보전안돼\"",
   "“최선다하겠다”만외친조주연…홈플러스정상화깜깜",
   "국감2주차,병역특례·공공기관통합·검찰개혁후속조치등쟁점",
@@ -6001,10 +5998,13 @@
   "충격적인천상업시설흉기사건,최충락자택압수수색으로드러난범...",
   "경찰,인천흉기난동최충락자택압수수색…범행계획조사",
   "경찰,인천흉기난동최충락주거지압수수색...최충락동행",
-  "경찰,‘흉기난동’최충락거주지압수수색"
+  "경찰,‘흉기난동’최충락거주지압수수색",
+  "'인천흉기난동'최충락자택압수수색…사전계획여부확인",
+  "'인천흉기난동'최충락자택압수수색…범행계획수사(종합)",
+  "'인천흉기난동'최충락주거지압수수색…사전계획정황수사"
  ],
  "recent_sigs": [],
- "last_run": "2026-10-17T12:20:51.051270+09:00",
+ "last_run": "2026-10-17T12:31:02.019415+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
