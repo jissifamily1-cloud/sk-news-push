@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://sateconomy.co.kr/news/view/1065586388218725",
-  "https://www.hankookilbo.com/news/article/A2026101511200005225?did=NA",
-  "https://www.cstimes.com/news/articleView.html?idxno=724085",
-  "https://www.mt.co.kr/stock/2026/10/15/2026101513504572979",
-  "https://www.etoday.co.kr/news/view/2636213",
-  "https://www.newscj.com/news/articleView.html?idxno=3440508",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145715",
   "http://www.yonhapnewstv.co.kr/news/AKR20261015141206Xi2",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172254",
@@ -2999,15 +2993,15 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=445871",
   "https://www.jemin.com/news/articleView.html?idxno=844690",
   "https://www.edaily.co.kr/News/Read?newsId=02282886645613904&mediaCodeNo=257",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35116"
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35116",
+  "http://www.metroseoul.co.kr/article/20261005500109",
+  "https://www.sportsseoul.com/news/read/1636689",
+  "https://www.newspim.com/news/view/20260921000565",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16249749",
+  "https://www.yna.co.kr/view/AKR20261017028500064?input=1195m",
+  "https://view.asiae.co.kr/article/2026101713263337011"
  ],
  "seen_titles": [
-  "7톤으로시작해1년만에82톤…워커힐김치,미국전역·호주로확대",
-  "호텔김치도미국서각광…워커힐\"올해100t수출\"",
-  "美물가다시뛰자韓증시폭락…트럼프도중간선거비상",
-  "SKT,장애청소년110명참여'행복AI챌린지'개최",
-  "코스피·코스닥동반폭락…두달반만에서킷브레이커발동",
-  "하이브랩,前삼일회계법인손정현CFO선임해IPO준비",
   "SK·삼성물산등,美웨스팅하우스지분투자검토…최대4조원거론",
   "SK오션플랜트,‘에너지타이완’참가…대만해상풍력시장우위굳힌...",
   "SK오션플랜트,'에너지타이완'서세계적해상풍력기술력소개",
@@ -6001,7 +5995,13 @@
   "SK에코플랜트,자원순환캠페인기부물품3만건돌파...'CE100'캠페인운...",
   "창신메모리의차세대D램기술,시장은흔들렸지만양산경쟁력은아직...",
   "\"509만원도완판\"…아이폰듀오,지금예약시내년1월받는다",
-  "[2026국감]미조직노동자대표성·배치전환교섭도마…기업증인협의..."
+  "[2026국감]미조직노동자대표성·배치전환교섭도마…기업증인협의...",
+  "객실에서세계식탁으로…호텔업계,프리미엄식품사업에힘준다",
+  "워커힐김치,美수출1년만에82톤돌파…글로벌영토넓힌다",
+  "워커힐김치,미국수출1년만에82톤팔렸다...해외유통망확대",
+  "CXMT순익26조원충격…삼성전자·SK하이닉스흔드는중국D램",
+  "SK하이닉스청주공사현장서끊어진케이블에근로자2명다쳐",
+  "\"삼성·SK만잘나가는줄알았는데\"…매출600%폭증예고한中반도체..."
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,21 @@
   [
    "2026-10-17T13:31:13.236405+09:00",
    "기업 대표성 도마 교섭 협의 배치전환 미조직 노동자 증인"
+  ],
+  [
+   "2026-10-17T13:40:58.163161+09:00",
+   "삼성전자 SK하이닉스 26조원 D램 중국 CXMT 충격 흔드는 순익"
+  ],
+  [
+   "2026-10-17T13:40:58.163161+09:00",
+   "SK하이닉스 다쳐 2명 청주 공사현장서 케이블에 근로자 끊어진"
+  ],
+  [
+   "2026-10-17T13:40:58.163161+09:00",
+   "알았는데 매출 폭증 예고한 잘나가는 반도체 SK만 삼성"
   ]
  ],
- "last_run": "2026-10-17T13:31:27.691242+09:00",
+ "last_run": "2026-10-17T13:41:09.642468+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
