@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6591997",
-  "https://www.g-enews.com/view.php?ud=202610140738037704fbbec65dfb_1",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=232537",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90262",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=302736",
   "https://www.idomin.com/news/articleView.html?idxno=2017036",
   "https://www.koit.co.kr/news/articleView.html?idxno=209516",
   "https://www.ytn.co.kr/_ln/0104_202610151403208791",
@@ -2999,14 +2994,14 @@
   "http://www.4th.kr/news/articleView.html?idxno=2119922",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4112914",
   "https://www.greened.kr/news/articleView.html?idxno=352321",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337501"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337501",
+  "https://www.hankyung.com/article/202610177612i",
+  "https://www.the-today.com/news/articleView.html?idxno=91893",
+  "http://www.newskr.kr/news/articleView.html?idxno=107232",
+  "https://www.koreatimes.co.kr/path/A2026101615410000714",
+  "https://www.fnnews.com/news/202610171116299687"
  ],
  "seen_titles": [
-  "한미반도체9.47%내려19만6900원…HBM4장비발주점검",
-  "삼성전자,AI로통신망재편승부수…기술검증넘어수익화가관건",
-  "SK스퀘어8.92%하락…순자산가치할인율다시확대",
-  "조난수색범위706㎢→4㎢로좁힌다…\"휴대전화기록활용늘려야\"",
-  "전염병이슈잠잠하자백신테마주흔들…제약·바이오투자심리위축",
   "[뮤지션100주간]창모932.9점급상승,정규3집'MONOLITH'재조명…성시...",
   "'가을사나이'박정권,정든SSG떠난다…퓨처스팀지휘봉내려놔",
   "줄서는반도체거인들…어플라이드가실리콘밸리에6조원대요새를...",
@@ -6001,7 +5996,12 @@
   "\"우리도영업익10%는받아야지\"..수퍼호황K-조선내홍심화",
   "건설연-SK이노베이션,AI데이터센터기술협력",
   "코스피겨우반등했는데美반도체3.8%또급락…월요일'삼전닉스'다시...",
-  "탈모해결해주는세럼?도넘는홈쇼핑과장광고"
+  "탈모해결해주는세럼?도넘는홈쇼핑과장광고",
+  "글로벌증시덮친‘헤지펀드청산썰’...AI주식던지는월가[빈난새의...",
+  "AI경고등에유가급등까지…반도체급락에나스닥2.2%하락",
+  "[리뷰-SEDEX2026]AI시대,칩하나보다연결기술이중요하다",
+  "SecuringequipmentemergesasnewvariableforKorea'schipexpansion",
+  "\"7만전자·20만닉스\"외친애널...\"신기루처럼없어질거품\"또모진전..."
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,21 @@
   [
    "2026-10-17T11:51:00.186128+09:00",
    "넘는 과장광고 탈모 홈쇼핑 세럼 해결해주는"
+  ],
+  [
+   "2026-10-17T12:01:17.254110+09:00",
+   "중요하다 시대 기술이 AI 연결 하나보다"
+  ],
+  [
+   "2026-10-17T12:01:17.254110+09:00",
+   "emerges equipment as expansion Korea new Securing for variable chip pla"
+  ],
+  [
+   "2026-10-17T12:01:17.254110+09:00",
+   "외친 20만닉스 애널 7만전자 모진 없어질 거품 신기루처럼"
   ]
  ],
- "last_run": "2026-10-17T11:51:06.640507+09:00",
+ "last_run": "2026-10-17T12:01:28.676976+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
