@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261015_0003827375",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=232517",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44470",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=232513",
-  "https://www.fnnews.com/news/202610151037394962",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495587",
   "https://www.topstarnews.net/news/articleView.html?idxno=16247898",
   "https://www.nocutnews.co.kr/news/6591997",
   "https://www.g-enews.com/view.php?ud=202610140738037704fbbec65dfb_1",
@@ -2999,15 +2993,15 @@
   "http://kor.theasian.asia/archives/418776",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037850",
   "http://www.newsprime.co.kr/news/article.html?no=751345",
-  "https://www.newsis.com/view/NISX20261017_0003829860"
+  "https://www.newsis.com/view/NISX20261017_0003829860",
+  "https://www.sentv.co.kr/article/view/sentv202610170013",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337616",
+  "http://www.breaknews.com/1243705",
+  "http://www.4th.kr/news/articleView.html?idxno=2119922",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4112914",
+  "https://www.greened.kr/news/articleView.html?idxno=352321"
  ],
  "seen_titles": [
-  "SK오션플랜트,'에너지타이완'참가···매각국면속대만시장수성...",
-  "SK하이닉스10.64%급락…HBM4기대와단기수급엇갈려",
-  "SK이터닉스,5078억원전력거래계약",
-  "\"증권사매수추천종목샀다가수천만원날렸다\"…개미'피눈물'[분석...",
-  "[더벨][신규ETF리뷰|DSAI반도체액티브]DS운용,반도체에서전력·냉...",
-  "[재계인사이드]아파트뿐만아니다...백화점도‘똘똘한고객’추구",
   "\"상승장끝났다\"\"예적금이정답\"…폭락장에개미들장탄식",
   "한미반도체9.47%내려19만6900원…HBM4장비발주점검",
   "삼성전자,AI로통신망재편승부수…기술검증넘어수익화가관건",
@@ -6001,7 +5995,13 @@
   "[신간]정재용'지정학과실리콘방패'…미·중패권경쟁속K-반도체가...",
   "인천시,'글로벌바이오허브'향한닻올린다…'ABDD서밋'등정례화",
   "[해외시황]뉴욕증시,AI부채우려·유가급등에'하락'…나스닥2.15%↓",
-  "\"안전하다믿었는데56조손실?\"…개미들ETF투자에경고등켜진이유"
+  "\"안전하다믿었는데56조손실?\"…개미들ETF투자에경고등켜진이유",
+  "코스피약세에해외선물베팅급증…큰손90%는반등에걸었다",
+  "[신한카드]아이폰18구매캐시백/ECOPlan박보검콜라보에디션/컬...",
+  "유승민전의원,“증시패닉은인위적부양탓…이재명정부책임”",
+  "\"우리도영업익10%는받아야지\"..수퍼호황K-조선내홍심화",
+  "건설연-SK이노베이션,AI데이터센터기술협력",
+  "코스피겨우반등했는데美반도체3.8%또급락…월요일'삼전닉스'다시..."
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,29 @@
   [
    "2026-10-17T11:21:00.486788+09:00",
    "서밋 글로벌 ABDD 올린다 허브 정례화 바이오 인천시 향한"
+  ],
+  [
+   "2026-10-17T11:41:01.002990+09:00",
+   "콜라보 ECO 아이폰18 캐시백 에디션 박보검 Plan 구매"
+  ],
+  [
+   "2026-10-17T11:41:01.002990+09:00",
+   "정부 증시 이재명 책임 인위적 패닉은 의원 부양 유승민"
+  ],
+  [
+   "2026-10-17T11:41:01.002990+09:00",
+   "받아야지 조선 내홍 수퍼호황 영업익 우리도 심화"
+  ],
+  [
+   "2026-10-17T11:41:01.002990+09:00",
+   "건설연 기술 협력 SK이노베이션 데이터센터 AI"
+  ],
+  [
+   "2026-10-17T11:41:01.002990+09:00",
+   "급락 겨우 반도체 다시 반등했는데 삼전닉스 코스피 월요일"
   ]
  ],
- "last_run": "2026-10-17T11:31:14.053569+09:00",
+ "last_run": "2026-10-17T11:41:17.195647+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
