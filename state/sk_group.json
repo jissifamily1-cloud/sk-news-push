@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=2026101514034326892bd56fbc3c_1",
-  "https://www.mt.co.kr/stock/2026/10/15/2026101511525896515",
-  "https://www.nocutnews.co.kr/news/6592033",
-  "http://www.gjdream.com/news/articleView.html?idxno=673472",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=618888",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215121",
   "https://www.topstarnews.net/news/articleView.html?idxno=16247911",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7189057",
@@ -2999,14 +2994,14 @@
   "https://www.sedaily.com/article/20102764",
   "https://www.asiatime.co.kr/article/20261016500263",
   "https://www.g-enews.com/view.php?ud=202610171358298468fbbec65dfb_1",
-  "https://www.sedaily.com/article/20102766"
+  "https://www.sedaily.com/article/20102766",
+  "https://www.m-i.kr/news/articleView.html?idxno=2007030",
+  "https://www.newspim.com/news/view/20261017000084",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610170020&t=NN",
+  "https://www.g-enews.com/view.php?ud=202610171414437887fbbec65dfb_1",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610170010&t=NN"
  ],
  "seen_titles": [
-  "코스피또'매도사이드카'...외국인줄줄이탈출,더큰폭락오나?[몇...",
-  "[뉴스브리핑]오늘의주요뉴스…\"30개지역선관위,투표율허위입력\"",
-  "1차는조기완판됐는데…2차국민참여성장펀드목표미달위기,왜?",
-  "올들어코스피10번째서킷브레이커...코스닥도서킷브레이커",
-  "KODEXSK하이닉스단일종목레버리지20.37%하락…일간2배구조",
   "[IT라운지]오픈AI'데브데이익스체인지'개최·KISA'AI보안산업본부...",
   "유럽배터리거점데브레첸,한·중투자속환경갈등시험대",
   "분기107조원실적도못막은하락세,삼전닉스추락의날",
@@ -6001,7 +5996,12 @@
   "삼전닉스에도전장내민中CXMT,3분기매출600%대수직상승",
   "SK에코플랜트,자원순환기부3만건돌파…장애인일자리로연결",
   "중국의15W극자외선장비시제품공개,한국반도체의기술우위는흔...",
-  "코스피8거래일만에반등...AI악재언제걷히나?"
+  "코스피8거래일만에반등...AI악재언제걷히나?",
+  "SK하이닉스청주P&T7공사장서작업중사고…근로자2명부상",
+  "SK하이닉스청주공장현장서케이블끊김사고…근로자2명중경상",
+  "[속보]中창신메모리,3분기매출600%급증전망…순이익흑자전환",
+  "TSMC2나노돌풍에파운드리요동…삼성‘추격’,SK‘수혜’",
+  "이통3사영업익'5조원시대'열릴까…3분기추정치무려"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,17 @@
   [
    "2026-10-17T14:21:01.997745+09:00",
    "AI 만에 악재 언제 걷히나 8거래일 코스피 반등"
+  ],
+  [
+   "2026-10-17T14:31:06.477904+09:00",
+   "TSMC2나노 수혜 요동 돌풍에 추격 삼성 파운드리"
+  ],
+  [
+   "2026-10-17T14:31:06.477904+09:00",
+   "열릴까 무려 영업익 추정치 시대 이통3사 3분기 5조원"
   ]
  ],
- "last_run": "2026-10-17T14:21:10.766924+09:00",
+ "last_run": "2026-10-17T14:31:15.627770+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
