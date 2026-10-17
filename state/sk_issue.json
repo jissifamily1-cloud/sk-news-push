@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026101271387",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=745532",
-  "https://www.newsis.com/view/NISX20261012_0003822855",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7188526",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004956",
-  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043542",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449122",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=129999",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=872022",
   "https://www.newsway.co.kr/news/view?ud=2026101219282794280",
   "https://www.newsverse.kr/news/articleView.html?idxno=11651",
@@ -2999,17 +2991,17 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802307&plink=ORI&cooper=NAVER",
   "https://www.ilemonde.com/news/articleView.html?idxno=30805",
   "https://www.koreaittimes.com/news/articleView.html?idxno=158238",
-  "https://www.edaily.co.kr/News/Read?newsId=03617846645613904&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03617846645613904&mediaCodeNo=257",
+  "https://www.dailian.co.kr/news/view/1702727/?sc=Naver",
+  "https://www.esquirekorea.co.kr/article/1910796",
+  "https://www.news1.kr/society/court-prosecution/6323245",
+  "https://www.wikitree.co.kr/articles/1167057",
+  "https://www.wikitree.co.kr/articles/1167055",
+  "https://www.segye.com/newsView/20261016518556?OutUrl=naver",
+  "https://www.segye.com/newsView/20261016516408?OutUrl=naver",
+  "https://www.dt.co.kr/article/12089429"
  ],
  "seen_titles": [
-  "'오를땐빠르게,내릴땐더디게'…정유4사,국감서사과·개선약속",
-  "[2026국감-농해수위]윤준병,식품담합관련매출14조9865억원추궁…해...",
-  "쿠팡,공정위조사거부·개인정보배상안불수용…국감서집중추궁(종...",
-  "[국감2026]쿠팡·배민·GS리테일·홈플러스…유통가현안도마",
-  "장모살인·아내납치20대구속영장…보복·계획범죄정황발견",
-  "\"응급실·수술실도압수수색할건가\"…아주대병원압수수색'질타'",
-  "'오를땐빨리,내릴땐늦게'정유4사\"국민에송구…조속개선\"",
-  "[국감워치]공정위퇴직자43%대형로펌향했다...국감서또나온'전...",
   "[이슈국감]쿠팡,국감서공정위현장조사거부집중질타",
   "배민,입점업체영업제약·소비자고지논란…국감서집중질타[2026국...",
   "쿠팡현장조사거부에여야질타…주병기\"제재강화검토\"",
@@ -6001,10 +5993,23 @@
   "\"어린이집도고려\"…'흉기난동'최충락,조사서충격진술",
   "[기획특집.코리아디스카운트②]ESG이전에주주자본주의부터…주병...",
   "홍승권변호사칼럼|수사와기소의분리로달라지는형사사법절차(2...",
-  "\"어린이집도생각했다\"…'인천흉기난동'최충락의충격진술"
+  "\"어린이집도생각했다\"…'인천흉기난동'최충락의충격진술",
+  "'시간당최대30㎜'낮최고27도·전국흐리고비…환절기심해지는기...",
+  "나이대별참고하기좋은'웹툰코디'4",
+  "중수청,공소청사건'이관작업'본격화…소환·압색본궤도언제쯤",
+  "조국\"한동훈딸이천재인지특검으로가려야\"",
+  "\"한동훈딸은조국딸과달라...거의천재급이었다고한다\"",
+  "농협개혁두고‘마녀사냥’·‘농협이자초’여야설전…강호동,사퇴...",
+  "‘트럼프저격수’떠오른소말리아출신美하원의원,시민권박탈위...",
+  "정유4사,정제마진강세에3분기영업익5조원전망에도긴장"
  ],
- "recent_sigs": [],
- "last_run": "2026-10-17T21:50:52.091081+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-18T06:01:07.198364+09:00",
+   "전망에도 강세에 정제마진 3분기 긴장 5조원 영업익 정유4사"
+  ]
+ ],
+ "last_run": "2026-10-18T06:01:15.373972+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
