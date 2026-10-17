@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kado.net/news/articleView.html?idxno=2078341",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=615921",
-  "https://www.widedaily.com/news/articleView.html?idxno=302005",
-  "https://www.newspim.com/news/view/20261015001061",
-  "https://www.newsway.co.kr/news/view?ud=2026101516052721878",
-  "https://www.viewsnnews.com/article?q=239056",
-  "https://www.imaeil.com/page/view/2026101515535492151",
-  "https://www.mt.co.kr/policy/2026/10/15/2026101516083627394",
-  "https://www.widedaily.com/news/articleView.html?idxno=302006",
   "http://www.metroseoul.co.kr/article/20261015500454",
   "http://www.metroseoul.co.kr/article/20261015500448",
   "https://www.news1.kr/finance/market-exr/6321455",
@@ -2999,18 +2990,18 @@
   "https://www.g-enews.com/view.php?ud=2026101808343074750c8c1c064d_1",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496169",
   "https://www.asiatime.co.kr/article/20261018500003",
-  "https://www.mt.co.kr/industry/2026/10/18/2026101613265793706"
+  "https://www.mt.co.kr/industry/2026/10/18/2026101613265793706",
+  "https://www.ddaily.co.kr/page/view/2026101715175550889",
+  "https://www.dt.co.kr/article/12089595",
+  "https://www.yna.co.kr/view/AKR20261018009900003?input=1195m",
+  "http://www.kjdaily.com/article.php?aid=1792280595689375276",
+  "http://www.srtimes.kr/news/articleView.html?idxno=214924",
+  "https://www.sentv.co.kr/article/view/sentv202610180001",
+  "https://www.ddaily.co.kr/page/view/2026101803215291766",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072682",
+  "https://www.yna.co.kr/view/AKR20261015155900054?input=1195m"
  ],
  "seen_titles": [
-  "美물가쇼크·AI發투매에코스피·코스닥7%대폭락…'서킷브레이커'...",
-  "[퇴근길7분뉴스]코스피​-7.5%·앤트로픽·전작권·천광",
-  "Probefindsmanipulatedvotercountsin30districtsduringlocalelec",
-  "AI전력난에ESS급성장…K배터리3사,북미공략강화",
-  "또다시매도사이드카발동에…국민의힘\"코리아엑소더스현실화우려...",
-  "[SEDEX2026]수백단쌓는3D메모리…SK하이닉스“수율승부처는계측...",
-  "국민의힘강원도당\"우상호도지사는강릉AI데이터센터유치확정근거...",
-  "뷰노,313억7400만원규모유상증자일정변경…신주상장내년1월14일",
-  "'AI전력대란'구원투수로뜬ESS…K배터리3사,북미서새판짠다",
   "[마감시황]'검은목요일'코스피·코스닥7%대급락",
   "'검은목요일'에개미들곡소리…코스피5500선으로'뚝'[마감시황]",
   "코스피5,500대로폭삭.7거래일간21%폭락",
@@ -6001,7 +5992,16 @@
   "\"LG엔솔납품ESS화재→지하수오염\"…美넥스트에라,뉴욕2개저장소...",
   "SK·포도뮤지엄,선혜원서오페라·궁중무용공연선봬",
   "SK·포도뮤지엄‘선혜원아트프로젝트2.5’개최",
-  "'변압기뉴노멀'진입HD현대일렉트릭…미래전력솔루션총망라"
+  "'변압기뉴노멀'진입HD현대일렉트릭…미래전력솔루션총망라",
+  "HBM쏠림에구형DDR4마저폭등…SEDEX서격돌한삼성·SK차세대3D메...",
+  "삼전닉스,19년만최대하락폭…“과도”vs“단기반등어려워”",
+  "SK온제2회미래기술원학술대회…기술혁신역량결집",
+  "SK하이닉스·삼성전자거래대금59조원육박…외국인8조8천억원순매도",
+  "[주간브리핑]최태원재상고로법적공방장기화…코스피·코스닥동반...",
+  "원달러환율2년1개월만에최저…반도체수출이끌어내려",
+  "셀은반등,소재는주춤…K-배터리회복온도차[위클리배터리]",
+  "정재헌vs박윤영vs홍범식,'AI토큰'경쟁시작…AX시대먹거리전쟁",
+  "호남반도체'민·관·정'속도전…야권견제·지역난제변수"
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,21 @@
   [
    "2026-10-18T08:41:08.973425+09:00",
    "뉴노멀 솔루션 변압기 진입 전력 HD현대일렉트릭 총망라 미래"
+  ],
+  [
+   "2026-10-18T08:51:05.064086+09:00",
+   "주춤 회복 배터리 온도차 셀은 소재는 반등"
+  ],
+  [
+   "2026-10-18T08:51:05.064086+09:00",
+   "정재헌vs박윤영vs홍범식 경쟁 AI 토큰 AX시대 먹거리 시작 전쟁"
+  ],
+  [
+   "2026-10-18T08:51:05.064086+09:00",
+   "호남반도체 지역 야권 견제 속도전 난제 변수"
   ]
  ],
- "last_run": "2026-10-18T08:41:22.776415+09:00",
+ "last_run": "2026-10-18T08:51:16.637114+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
