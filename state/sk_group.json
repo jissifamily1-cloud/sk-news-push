@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261015_0003827010",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=322470",
-  "https://www.cstimes.com/news/articleView.html?idxno=724120",
-  "https://dealsite.co.kr/articles/170751",
-  "https://www.idaegu.com/news/articleView.html?idxno=666305",
-  "https://www.yna.co.kr/view/AKR20261015045351008?input=1195m",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261015160502OOG",
   "http://www.metroseoul.co.kr/article/20261015500426",
   "https://www.etnews.com/20261015000389",
   "https://www.mediapen.com/news/view/1130220",
@@ -2999,16 +2992,16 @@
   "https://www.wolyo.co.kr/news/articleView.html?idxno=319195",
   "https://www.g-enews.com/view.php?ud=202610151633029174b065b72042_1",
   "https://www.busan.com/view/busan/view.php?code=2026101808003047859",
-  "https://www.ddaily.co.kr/page/view/2026101623350218522"
+  "https://www.ddaily.co.kr/page/view/2026101623350218522",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=696622",
+  "https://www.news2day.co.kr/article/20261018500004",
+  "https://www.etoday.co.kr/news/view/2636962",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439764",
+  "https://biz.heraldcorp.com/article/10905966",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439765",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281013"
  ],
  "seen_titles": [
-  "SK바이오팜주가,10월15일69,400원1.28%하락",
-  "AI필살기로글로벌통신우군섭외총력전삼성전자,6G대관식'성큼'",
-  "'반도체넘어전력까지'···SK,원전투자로AI밸류체인확장모색",
-  "전남광주반도체클러스터속도전…최태원·정부릴레이점검",
-  "삼전·하닉주가는폭락…증권가평균목표가는2배이상",
-  "'삼중고'에녹아내린코스피,단숨에5500선'털썩'",
-  "\"中창신메모리위협,종이호랑이수준\"…아직삼전·닉스추월어려운...",
   "TSMC·ASML이확인한AI장기전…K반도체,호황속中추격이변수",
   "코스피,7%급락마감…5500선후퇴",
   "코스피7%대급락마감…사이드카이어서킷브레이커까지",
@@ -6001,7 +5994,14 @@
   "[글로벌주간브리핑]AI의심하자코스피가무너졌다…'반도체쏠림'드...",
   "[제약ESG코드]SK바이오팜,뇌전증환아및가족아우른사회공헌본격...",
   "\"7만전자·20만닉스\"로침묵흐르게한이주완,또내놓은서늘한전망",
-  "서울떠난HMM,부산에닻올렸다…李대통령'해양수도'퍼즐맞춰지나..."
+  "서울떠난HMM,부산에닻올렸다…李대통령'해양수도'퍼즐맞춰지나...",
+  "리그4경기무승→ACLE도패배...5위까지떨어진전북,제주전에서만회...",
+  "외국인,삼성전자·SK하이닉스7.4조팔았다…개인은5.1조'역매수'",
+  "'반도체쏠림'부메랑⋯국민연금,3분기보유주식182조증발",
+  "[해외자회사IPO①]솔리다임美상장…SK하이닉스이사회책임은",
+  "SK온,제2회미래기술원학술대회개최…“연구개발역량결집”",
+  "[해외자회사IPO②]솔리다임서베어로보틱스까지…중복상장딜레마",
+  "김희영총괄디렉터기획…SK그룹선혜원헤리티지공간의'파격변신'"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,21 @@
   [
    "2026-10-18T08:10:57.085751+09:00",
    "대통령 서울 떠난 HMM 올렸다 퍼즐 부산에 맞춰지나 해양수도"
+  ],
+  [
+   "2026-10-18T08:21:06.043459+09:00",
+   "미래기술원 제2회 개최 연구개발 역량 학술대회 SK온 결집"
+  ],
+  [
+   "2026-10-18T08:21:06.043459+09:00",
+   "베어로보틱스까지 솔리다임서 딜레마 중복상장"
+  ],
+  [
+   "2026-10-18T08:21:06.043459+09:00",
+   "SK그룹 파격 총괄디렉터 기획 선혜원 헤리티지 변신 공간의 김희영"
   ]
  ],
- "last_run": "2026-10-18T08:11:11.213073+09:00",
+ "last_run": "2026-10-18T08:21:17.965607+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
