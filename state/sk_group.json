@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/170733",
-  "https://biz.sbs.co.kr/article_hub/20000340070?division=NAVER",
-  "https://cn.asiatoday.co.kr/view.php?key=20261015001105053",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364698",
   "https://cn.asiatoday.co.kr/view.php?key=20261015001325004",
   "https://daily.hankooki.com/news/articleView.html?idxno=1415089",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449083",
@@ -2999,13 +2995,13 @@
   "https://www.ddaily.co.kr/page/view/2026101616222836952",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145754",
   "https://www.mt.co.kr/stock/2026/10/17/2026101616124556690",
-  "https://www.seoulfn.com/news/articleView.html?idxno=640165"
+  "https://www.seoulfn.com/news/articleView.html?idxno=640165",
+  "http://www.econotelling.com/news/articleView.html?idxno=21445",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=616539",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322537",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3724145"
  ],
  "seen_titles": [
-  "팔자니손실,버티자니공포…폭락장에갇힌개미들",
-  "SK텔레콤AI-RAN기술,‘네트워크X어워드’수상",
-  "정부,'韓인터넷속도세계22위'에\"측정기준없는통계유감\"",
-  "[속보]SK이터닉스VI발동,주가반등하며상승전환",
   "[투데이온]美낸드공장짓는조건으로\"中다롄장비승인\"요구설…SK...",
   "\"반도체일자리잡아라\"…반도체전용채용관에구직자'발길'",
   "[IT는지금]카카오,자율AI에이전트윤리원칙·이행가이드공개外",
@@ -6001,7 +5997,11 @@
   "“과거16번,李정부15번”…걸핏하면서킷브레이커,요동치는韓증...",
   "[위클리PICK3]중동긴장감고조에유가급등부터15일韓증시대폭락...",
   "코스피14%폭락속13%솟구쳤다…불기둥세운종목[김근희의증시랩업...",
-  "[기자수첩]글로벌AI인프라경쟁,승부처는'전력'"
+  "[기자수첩]글로벌AI인프라경쟁,승부처는'전력'",
+  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(87)\"살기위해모든것...",
+  "[코스피신중론]\"진짜반등맞나\"…외인돌아와도뒷심부족한코스피...",
+  "증시급락에'솔리다임중복상장'논란까지…개미분노여당으로",
+  "용인시·진주시자매결연체결…경제·문화등협력강화"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-10-17T09:11:08.345992+09:00",
    "인프라 AI 전력 경쟁 승부처는 글로벌"
+  ],
+  [
+   "2026-10-17T09:21:00.035784+09:00",
+   "급락에 솔리다임 중복상장 개미 여당으로 논란까지 분노 증시"
+  ],
+  [
+   "2026-10-17T09:21:00.035784+09:00",
+   "용인시 자매결연 강화 경제 협력 진주시 체결 문화등"
   ]
  ],
- "last_run": "2026-10-17T09:11:59.684112+09:00",
+ "last_run": "2026-10-17T09:21:09.584262+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
