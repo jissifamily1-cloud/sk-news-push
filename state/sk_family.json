@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=665887",
   "https://biz.heraldcorp.com/article/10894762",
   "https://www.khan.co.kr/article/202610062116025",
   "http://www.gnmaeil.com/news/articleView.html?idxno=596110",
@@ -2999,10 +2998,10 @@
   "https://www.seoultimes.news/news/article.html?no=2000101002",
   "https://www.news1.kr/industry/general-industry/6323161",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=35116",
-  "https://view.asiae.co.kr/article/2026101715245828939"
+  "https://view.asiae.co.kr/article/2026101715245828939",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253937"
  ],
  "seen_titles": [
-  "[사설]기업인국감불러망신주는구태는이제사라져야",
   "서진우·유정준·이형희SK핵심부회장3명,하이닉스에전격합류",
   "[2026국감]\"노란봉투법밀어붙이더니노조질타\"…김도읍\"자가당착\"",
   "이재용주식재산13.2조감소…48개그룹총수18.6조줄었다",
@@ -6001,7 +6000,8 @@
   "[CEO위클리]현대차정의선인도에155억달러투자…이재용·김승연임...",
   "최태원\"대학졸업장필요없다…AI시대학교,실험하는장소로\"",
   "[2026국감]미조직노동자대표성·배치전환교섭도마…기업증인협의...",
-  "최태원회장\"대학졸업장필요없다…AI로뭐든만들어보라\""
+  "최태원회장\"대학졸업장필요없다…AI로뭐든만들어보라\"",
+  "한옥에울려퍼지는'라트라비아타'...포도뮤지엄,선혜원서오페라..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,13 @@
   [
    "2026-10-17T13:30:24.536989+09:00",
    "미조직 노동자 도마 교섭 증인 대표성 배치전환 기업 협의"
+  ],
+  [
+   "2026-10-17T15:50:13.904595+09:00",
+   "오페라 포도뮤지엄 퍼지는 트라비아타 한옥에 선혜원서 울려"
   ]
  ],
- "last_run": "2026-10-17T15:40:23.496474+09:00",
+ "last_run": "2026-10-17T15:50:28.876392+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6390,6 +6394,7 @@
   "kwangju.co.kr": "kwangju.co.kr",
   "gj.newdaily.co.kr": "뉴데일리",
   "ttlnews.com": "ttlnews.com",
-  "knnews.co.kr": "경남신문"
+  "knnews.co.kr": "경남신문",
+  "nextdaily.co.kr": "넥스트데일리"
  }
 }
