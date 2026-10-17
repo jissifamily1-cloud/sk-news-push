@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610061827325504",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81241",
-  "http://www.inews24.com/view/2012341",
   "http://www.joseilbo.com/news/news_read.php?uid=576926&class=1",
   "http://www.yonhapnewstv.co.kr/news/MYH20261006200401fGs",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1539639",
@@ -2999,12 +2996,12 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=640254",
   "https://www.hankyung.com/article/202610166229g",
   "http://www.yonhapnewstv.co.kr/news/MYH20261017090944dlK",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261017092151ZNP"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261017092151ZNP",
+  "https://www.tournews21.com/news/articleView.html?idxno=145952",
+  "https://www.hankyung.com/article/2026101667266",
+  "https://www.mt.co.kr/industry/2026/10/17/2026101700392978685"
  ],
  "seen_titles": [
-  "총수주식재산18조증발,23명손실액만22조원",
-  "헨켈,SEDEX2026서AI·HBM시대첨단패키징소재솔루션선보여",
-  "최종현도의원\"지방의회법제정,더이상미룰수없다\"",
   "헨켈,SEDEX2026참가…AI·HBM패키징소재기술공개",
   "野\"호남전력·물턱없이부족\"與\"남아돌아수도권송전\"[李정부2년...",
   "[2026국감]김정관\"호남반도체,인프라안되면기업투자안해도돼...",
@@ -6001,7 +5998,10 @@
   "[재계인사②]'예고편'공개한SK,반도체·AI중심재편···글로벌밀...",
   "AI거품?'없어서못판다'…삼전닉스에벌어지는일[홍민성의테토남...",
   "재판마다'부실'지적…종합특검공소유지난항",
-  "공소청에남은사건들…MBK·노태우비자금주목"
+  "공소청에남은사건들…MBK·노태우비자금주목",
+  "이현재하남시장\"영유아유입대응해보육·돌봄서비스확충할것\"",
+  "\"반도체는워싱턴서결정\"…SK가HBM만큼공들이는것[강경주의테크...",
+  "최태원,닷새간의'AI대전환'강연…\"20대로돌아가면?더놀았겠지\""
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,17 @@
   [
    "2026-10-17T09:10:16.559786+09:00",
    "재편 AI 예고편 중심 공개한 반도체 글로벌"
+  ],
+  [
+   "2026-10-17T09:40:13.826676+09:00",
+   "테크 워싱턴서 결정 강경주의 공들이는 만큼 반도체는 SK가 HBM"
+  ],
+  [
+   "2026-10-17T09:40:13.826676+09:00",
+   "대전환 AI 20대로 놀았겠지 닷새간의 강연 돌아가면"
   ]
  ],
- "last_run": "2026-10-17T09:30:34.963957+09:00",
+ "last_run": "2026-10-17T09:40:30.725589+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
