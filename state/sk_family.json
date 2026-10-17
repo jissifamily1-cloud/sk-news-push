@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=05129926645610296&mediaCodeNo=257",
-  "https://www.imaeil.com/page/view/2026100617280361532",
   "https://www.fnnews.com/news/202610061820041696",
   "http://www.jndn.com/article.php?aid=1791278529440752093",
   "https://www.fnnews.com/news/202610061827325504",
@@ -2999,11 +2997,11 @@
   "https://www.viva100.com/article/20261006500983",
   "https://www.joongang.co.kr/article/25470495",
   "https://www.dailian.co.kr/news/view/1702447/?sc=Naver",
-  "https://www.tfmedia.co.kr/news/article.html?no=208090"
+  "https://www.tfmedia.co.kr/news/article.html?no=208090",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640254",
+  "https://www.hankyung.com/article/202610166229g"
  ],
  "seen_titles": [
-  "[멈춰라3대메가➀]‘메가프로젝트정세’,우리는무엇에맞서야하...",
-  "이재용·최태원·정의선,주식재산석달새17.6조감소",
   "이재용13.2조·최태원3.2조↓...3분기그룹총수48명평가액18조감...",
   "최태원,SK지분9440억원매각⋯'3%룰'의식했나",
   "총수주식재산18조증발,23명손실액만22조원",
@@ -6001,7 +5999,9 @@
   "헨켈,SEDEX2026서‘언더필·TIM’등첨단패키징소재솔루션공개",
   "최태원“가장빠른속도”외치자,장관3명광주달려갔다",
   "도쿄서경영진모은이재용·인도21조승부수정의선·한일연대최태...",
-  "日언론,최태원'한일경제공동체'구상조명…\"긍정적이지만과제도\""
+  "日언론,최태원'한일경제공동체'구상조명…\"긍정적이지만과제도\"",
+  "[재계인사②]'예고편'공개한SK,반도체·AI중심재편···글로벌밀...",
+  "AI거품?'없어서못판다'…삼전닉스에벌어지는일[홍민성의테토남..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,17 @@
   [
    "2026-10-17T07:40:15.909299+09:00",
    "조명 구상 긍정적이지만 한일 경제공동체 언론 과제도"
+  ],
+  [
+   "2026-10-17T09:10:16.559786+09:00",
+   "홍민성의 AI 판다 테토남 없어서 벌어지는 삼전닉스에 거품"
+  ],
+  [
+   "2026-10-17T09:10:16.559786+09:00",
+   "재편 AI 예고편 중심 공개한 반도체 글로벌"
   ]
  ],
- "last_run": "2026-10-17T09:00:41.754289+09:00",
+ "last_run": "2026-10-17T09:10:31.562383+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
