@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261012175600001?input=1195m",
-  "https://www.ddaily.co.kr/page/view/2026101219545187132",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793852&plink=ORI&cooper=NAVER",
   "https://www.newsis.com/view/NISX20261012_0003822929",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793847&plink=ORI&cooper=NAVER",
@@ -2999,11 +2997,11 @@
   "https://www.newdaily.co.kr/site/data/html/2026/10/16/2026101600149.html",
   "https://www.busan.com/view/busan/view.php?code=2026101814105884784",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915270",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35147"
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35147",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35148",
+  "https://www.dkilbo.com/news/articleView.html?idxno=557437"
  ],
  "seen_titles": [
-  "여야,교육위서'수시먹통'유웨이·대교협에한목소리질타",
-  "정유4사,국감서고개숙였지만…담합의혹·경영진관여엔말아껴",
   "공정위조사거부한쿠팡…여야한목소리질타",
   "'장모살해·아내납치'20대구속영장…계획범죄정황포착(종합)",
   "\"딸대필봐주기수사\"…\"아들위해법발의\"",
@@ -6001,7 +5999,9 @@
   "'檢보완수사'없었다면무죄였던포항성폭행사건…공소청,오판바...",
   "AI가가습량조절…LG,'퓨리케어하이드로타워맥스'출시",
   "[충남시론]두수사청의새출범에기대를건다",
-  "[2026국감]기름값담합윗선규명요구…정유사대표들경영진인지즉..."
+  "[2026국감]기름값담합윗선규명요구…정유사대표들경영진인지즉...",
+  "[2026국감]온라인가품적발돼도통지·환불제각각…공정위,공통기준...",
+  "예천군청압수수색에안병윤군수해명\"선거개입과무관하며피의자도..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "경영진 담합 기름값 인지 정유사 윗선 요구 규명 대표들"
   ]
  ],
- "last_run": "2026-10-18T14:31:01.479955+09:00",
+ "last_run": "2026-10-18T14:40:52.177137+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
