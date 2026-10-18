@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069449",
-  "https://biz.heraldcorp.com/article/10895491",
   "https://www.edaily.co.kr/News/Read?newsId=03522726645610624&mediaCodeNo=257",
   "https://www.cbci.co.kr/news/articleView.html?idxno=613093",
   "https://www.newspim.com/news/view/20261007000606",
@@ -2999,11 +2997,11 @@
   "https://www.mk.co.kr/article/12179068",
   "https://www.edaily.co.kr/News/Read?newsId=02709286645614232&mediaCodeNo=257",
   "https://www.joongang.co.kr/article/25470686",
-  "https://www.joongdo.co.kr/web/view.php?key=20261018010004670"
+  "https://www.joongdo.co.kr/web/view.php?key=20261018010004670",
+  "https://sports.khan.co.kr/article/202610181848003?pt=nv",
+  "http://www.mdilbo.com/detail/0kIA7d/759742"
  ],
  "seen_titles": [
-  "경제부총리,상의등경제6단체간담회…\"현장애로신속해소\"",
-  "면담하는이형일부총리와최태원대한상의회장",
   "이형일부총리,최태원대한상의회장면담",
   "이형일\"잠재성장률반등·양극화완화총력\"…경제6단체에협조당부",
   "경제6단체장이형일경제부총리와간담회…기업투자협조당부",
@@ -6001,13 +5999,11 @@
   "[단독]최창원SK수펙스의장…내년에도계속맡는다",
   "SK솔리다임美상장갑론을박…중복상장우려vs투자확대효과",
   "中창신매출8배급증…메모리3강,2028년‘증설청구서’받을까",
-  "[2026Safe대전어린이안전골든벨]퀴즈왕을위한뜨거운함성...안전..."
+  "[2026Safe대전어린이안전골든벨]퀴즈왕을위한뜨거운함성...안전...",
+  "트럼프와김정은,다시마주앉을까?(이슈PICK쌤과함께300회)",
+  "광주반도체클러스터‘전격전’···22일첫국감서통합시실행력시..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-18T12:50:12.862019+09:00",
-   "이해하고 사람을 움직여야 회장"
-  ],
   [
    "2026-10-18T13:10:14.149352+09:00",
    "뉴욕을 솔리다임 광주로 보는 장면"
@@ -6067,9 +6063,13 @@
   [
    "2026-10-18T18:30:22.683696+09:00",
    "받을까 창신 2028년 증설 메모리 8배 청구서 매출 급증 3강"
+  ],
+  [
+   "2026-10-18T18:50:14.858194+09:00",
+   "실행력 광주 클러스터 반도체 전격전 국감서 22일 통합시"
   ]
  ],
- "last_run": "2026-10-18T18:40:23.396550+09:00",
+ "last_run": "2026-10-18T18:50:27.873578+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6354,7 +6354,7 @@
   "energydaily.co.kr": "에너지데일리",
   "businessplus.kr": "비즈니스플러스",
   "gqkorea.co.kr": "GQ Korea",
-  "mdilbo.com": "mdilbo.com",
+  "mdilbo.com": "무등일보",
   "daejonilbo.com": "대전일보",
   "updownnews.co.kr": "업다운뉴스",
   "siminilbo.co.kr": "siminilbo.co.kr",
