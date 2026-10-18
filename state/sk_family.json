@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyeonggi.com/article/20261007580374",
   "https://www.etnews.com/20261007000354",
   "https://www.jbnews.com/news/articleView.html?idxno=1513001",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071446539710791",
@@ -2999,10 +2998,10 @@
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065603202260866",
   "https://www.mk.co.kr/article/12179018",
   "https://www.the-today.com/news/articleView.html?idxno=91964",
-  "https://magazine.hankyung.com/business/article/202610199363b"
+  "https://magazine.hankyung.com/business/article/202610199363b",
+  "https://www.yna.co.kr/view/AKR20261019011700011?input=1195m"
  ],
  "seen_titles": [
-  "검찰문닫기직전미제사건4만6천건급증",
   "李대통령\"핵심'녹색기술'먼저확보,미래녹색시장선점해야\"",
   "李대통령\"추격자관행벗어나녹색시장설계자·선도자돼야\"",
   "정부1천조·기업220조'K-GX'시동…李대통령\"녹색시장판짜야\"",
@@ -6001,7 +6000,8 @@
   "[CEO열전]최태원\"20대로돌아간다면무조건창업\"…AI시대청년들에게...",
   "매경이전하는세상의지식(매-세-지,10월19일)",
   "\"20대돌아가면창업\"최태원의역설…기업물려받은총수,청년의실패...",
-  "SK그룹사장단인사임박…최창원체제에힘실린다"
+  "SK그룹사장단인사임박…최창원체제에힘실린다",
+  "[전국주요신문톱뉴스](19일조간)"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-10-19T08:00:30.099079+09:00",
    "사장단 인사 임박 실린다 체제에"
+  ],
+  [
+   "2026-10-19T08:10:14.979978+09:00",
+   "조간 19일"
   ]
  ],
- "last_run": "2026-10-19T08:00:42.312785+09:00",
+ "last_run": "2026-10-19T08:10:26.447182+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
