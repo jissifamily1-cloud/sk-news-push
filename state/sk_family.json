@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8146346",
-  "https://www.nocutnews.co.kr/news/6587999",
   "https://www.news1.kr/photos/8146334",
   "https://www.news1.kr/photos/8146338",
   "http://www.joseilbo.com/news/news_read.php?uid=576953&class=1",
@@ -2999,11 +2997,11 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363739621",
   "https://www.cbci.co.kr/news/articleView.html?idxno=616753",
   "https://www.kado.net/news/articleView.html?idxno=2078715",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261018010005639"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261018010005639",
+  "http://weekly.chosun.com/news/articleView.html?idxno=56240",
+  "https://www.kukinews.com/article/view/kuk202610180036"
  ],
  "seen_titles": [
-  "경제6단체장간담회발언하는이형일부총리",
-  "경제6단체장간담회참석한최태원회장",
   "이형일,경제6단체간담회…기업과소통중요성강조",
   "최태원회장안내받는이형일경제부총리[한컷]",
   "이형일부총리,경제6단체장만나\"기업투자애로해소\"약속",
@@ -6001,17 +5999,11 @@
   "\"수원,한입에!추억,한가득!\"…'2026수원통닭거리축제'성료",
   "SK·포도뮤지엄,선혜원서오페라·궁중무용어우러진특별공연개최",
   "최태원\"AI시대,졸업장보다문제해결능력…나라면창업\"",
-  "최태원\"20대라면창업도전\"…청년들과미래해법찾았다"
+  "최태원\"20대라면창업도전\"…청년들과미래해법찾았다",
+  "제작비확줄이고영화한편뚝딱…AI가바꾸는영화제작의미래",
+  "최태원“20대로돌아가면반도체말고창업할것…AI가못하는일찾아..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-18T10:10:14.518174+09:00",
-   "해결 회장 20대 창업하겠다 문제 강조 돌아가면 인류 일단"
-  ],
-  [
-   "2026-10-18T10:10:14.518174+09:00",
-   "한일 형성 제안 시장 6조달러 경제연대 가능"
-  ],
   [
    "2026-10-18T10:20:13.472951+09:00",
    "움직이는 AI는 지능일 이해하고 지혜 아니야 능력이 사람"
@@ -6077,7 +6069,7 @@
    "특별 공연 오페라 어우러진 포도뮤지엄 개최 선혜원서 궁중무용"
   ]
  ],
- "last_run": "2026-10-18T16:00:43.159843+09:00",
+ "last_run": "2026-10-18T16:10:24.332015+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
