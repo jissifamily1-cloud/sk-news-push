@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mkhealth.co.kr/news/articleView.html?idxno=80485",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215137",
-  "https://www.ziksir.com/news/articleView.html?idxno=149623",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=408302",
-  "https://www.fntimes.com/html/view.php?ud=202610160902461393b372994c95_18",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800147&plink=ORI&cooper=NAVER",
-  "https://www.newspim.com/news/view/20261016000218",
-  "https://www.edaily.co.kr/News/Read?newsId=02810966645613576&mediaCodeNo=257",
-  "https://www.yna.co.kr/view/AKR20261013061100030?input=1195m",
   "https://view.asiae.co.kr/article/2026101609283907392",
   "https://en.yna.co.kr/view/AEN20261016001851320?input=2106m",
   "https://www.sportsworldi.com/newsView/20261016506384",
@@ -2999,18 +2990,18 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728236",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376684",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610161542018430919",
-  "http://www.beyondpost.co.kr/view.php?ud=2026101906145091682aaae0046f_30"
+  "http://www.beyondpost.co.kr/view.php?ud=2026101906145091682aaae0046f_30",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6858863_37012.html",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610190004&t=NN",
+  "https://www.edaily.co.kr/News/Read?newsId=01774486645614560&mediaCodeNo=257",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=237255",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=237262",
+  "https://www.mt.co.kr/stock/2026/10/19/2026101818035481496",
+  "https://www.sedaily.com/article/20102876",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6858864_37012.html",
+  "https://www.mt.co.kr/politics/2026/10/19/2026101609131326566"
  ],
  "seen_titles": [
-  "“7거래일폭락끝에반등”…코스피5600선회복,외국인은순매도",
-  "[개장시황]코스피1.69%반등출발…삼성전자·SK하이닉스동반상승",
-  "애플첫폴더블폰출격…통신3사,'아이폰듀오'사전예약돌입",
-  "제약상장기업2026년10월브랜드평판...삼성바이오로직스,셀트리온,...",
-  "애플첫폴더블폰'아이폰듀오'사전예약…이통3사,보상·구독경쟁",
-  "아이폰듀오사전예약시작…이통3사,할인·교체혜택경쟁",
-  "“엔비디아수익률300%찍고매도”…‘13남매장녀’남보라,투자금...",
-  "[인터뷰H]축구와연극을사랑한그남자,의사서동원",
-  "베슬AI,한국투자증권과'GPU파이낸싱'협력···GPU인프라확충박...",
   "코스피,반발매수세유입···1.80%상승출발",
   "엑시나,OCP2026서CXL메모리솔루션공개…AI추론병목줄인다",
   "용산구'나인원한남'75평,15억오른143억원거래[일일신고가]",
@@ -6001,7 +5992,16 @@
   "WSJ\"AI과잉투자우려…철도·닷컴버블반복될수도\"",
   "SK,뒤늦은홈개막전서'3점포16개'얻어맞고소노에81-87패배...최하...",
   "[언주로칼럼]건설산업AX시대,주인공은사람",
-  "국민연금,100만에국내증시서200조원가까이손실...삼성전자SK하이닉..."
+  "국민연금,100만에국내증시서200조원가까이손실...삼성전자SK하이닉...",
+  "기술주실적우려에물가상승‥국내증시어디로",
+  "다시고개든'AI수익성논란'7거래일간20%↓…빅테크실적에쏠린눈",
+  "[MUSTKNOW5]로드스터공개후목표가대폭상향된테슬라...\"머스크매직...",
+  "[단독-중대재해리포트⑦]'두번기소'KCC건설'무죄'직후또사망사...",
+  "[2026년노동국감]옵티칼도태웅도불출석,'맹탕'오명벗을까",
+  "\"폭락장또오면어쩌나\"새빚투막아도...'강제청산'공포째깍째깍",
+  "국내증시변동성장세에…‘방어형ETF’로뭉칫돈[마켓시그널]",
+  "100일만에182조원손실‥\"노후자금어쩌나\"",
+  "\"사이버도박장같다\"순식간에'돈삭제'…국정지지율도흔들"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,41 @@
   [
    "2026-10-19T06:31:09.147446+09:00",
    "100만에 200조원 국내증시서 SK하이닉 가까이 삼성전자 국민연금 손실"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "고개 논란 실적에 다시 AI 쏠린 7거래일간 빅테크 수익성"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "목표가 테슬라 머스크 로드스터 매직 상향된 공개 대폭"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "무죄 사망사 직후 기소 KCC건설"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "오명 맹탕 벗을까 불출석 태웅도 옵티칼도"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "빚투 청산 강제 째깍째깍 어쩌나 막아도 공포 오면 폭락장"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "ETF 장세에 방어형 변동성 증시 국내 뭉칫돈"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "100일 만에 182조 어쩌나 손실 노후자금"
+  ],
+  [
+   "2026-10-19T06:41:03.288301+09:00",
+   "같다 삭제 국정지지율도 도박장 사이버 순식간에 흔들"
   ]
  ],
- "last_run": "2026-10-19T06:31:22.838782+09:00",
+ "last_run": "2026-10-19T06:41:27.406682+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
