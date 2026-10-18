@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jbnews.com/news/articleView.html?idxno=1513001",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071446539710791",
-  "https://www.ytn.co.kr/_ln/0101_202610071500429958",
-  "https://www.newspim.com/news/view/20261007001029",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493254",
   "https://www.mk.co.kr/article/12170455",
   "https://www.nocutnews.co.kr/news/6588273",
@@ -2999,13 +2995,13 @@
   "https://www.the-today.com/news/articleView.html?idxno=91964",
   "https://magazine.hankyung.com/business/article/202610199363b",
   "https://www.yna.co.kr/view/AKR20261019011700011?input=1195m",
-  "https://kpenews.com/View.aspx?No=4268496"
+  "https://kpenews.com/View.aspx?No=4268496",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881878",
+  "http://www.wsobi.com/news/articleView.html?idxno=319881",
+  "https://news.bizwatch.co.kr/article/industry/2026/10/19/0001",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728208"
  ],
  "seen_titles": [
-  "李대통령\"추격자관행벗어나녹색시장설계자·선도자돼야\"",
-  "정부1천조·기업220조'K-GX'시동…李대통령\"녹색시장판짜야\"",
-  "이대통령“‘한국형녹색대전환’은3대메가프로젝트성공의필수전...",
-  "플랜1.5\"K-GX1천조'밑빠진독물붓기'될수도,다배출기업규제강...",
   "최태원SK회장의이혼소송과지분0%후계자최인근의도전",
   "李대통령“기후위기눈앞의현실…우리가녹색시장의설계자돼야”",
   "李대통령“지역산업단지와재생에너지적극활용해야…녹색대전환...",
@@ -6001,7 +5997,11 @@
   "\"20대돌아가면창업\"최태원의역설…기업물려받은총수,청년의실패...",
   "SK그룹사장단인사임박…최창원체제에힘실린다",
   "[전국주요신문톱뉴스](19일조간)",
-  "최창원SK수펙스의장,연임공식화..최태원내부회의서\"할일많다\""
+  "최창원SK수펙스의장,연임공식화..최태원내부회의서\"할일많다\"",
+  "AI시대,최태원회장이말하는'청년들이도전해야할영역'은?",
+  "SK-LG전자,최태원회장'AI와새로운자본주의그리고청년'주제강연...",
+  "최태원\"20대로돌아가면무조건창업…반도체는안할것\"",
+  "SK·포도뮤지엄,'선혜원아트프로젝트2.5'개최…오페라·전통무용한..."
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,21 @@
   [
    "2026-10-19T08:20:14.670330+09:00",
    "많다 회의서 연임 내부 수펙스 의장 공식화"
+  ],
+  [
+   "2026-10-19T08:30:21.645281+09:00",
+   "그리고 주제 새로운 자본주의 강연 회장 AI와 LG전자 청년"
+  ],
+  [
+   "2026-10-19T08:30:21.645281+09:00",
+   "무조건 돌아가면 20대로 창업 반도체는"
+  ],
+  [
+   "2026-10-19T08:30:21.645281+09:00",
+   "포도뮤지엄 아트프로젝트 전통무용 개최 오페라 선혜원"
   ]
  ],
- "last_run": "2026-10-19T08:20:26.708575+09:00",
+ "last_run": "2026-10-19T08:30:42.204710+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
