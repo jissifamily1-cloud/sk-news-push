@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://m.sports.naver.com/basketball/article/065/0000302947",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267828",
-  "https://biz.heraldcorp.com/article/10904188",
-  "https://www.edaily.co.kr/News/Read?newsId=05330006645613248&mediaCodeNo=257",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=240838",
-  "https://www.gokorea.kr/news/articleView.html?idxno=881547",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1104138",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1105089",
   "https://www.hankyung.com/article/202610154297i",
@@ -2999,15 +2993,15 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728216",
   "http://www.efnews.co.kr/news/articleView.html?idxno=133222",
   "https://www.kyeonggi.com/article/20261018580050",
-  "https://www.munhwa.com/article/11624273"
+  "https://www.munhwa.com/article/11624273",
+  "https://www.econovill.com/news/articleView.html?idxno=753984",
+  "https://www.tokenpost.kr/news/blockchain/423883",
+  "https://www.mk.co.kr/article/12178723",
+  "http://www.press9.kr/news/articleView.html?idxno=84428",
+  "https://basketkorea.com/news/newsview.php?ncode=1065584392238323",
+  "https://www.vegannews.co.kr/news/article.html?no=393912"
  ],
  "seen_titles": [
-  "[빛을담는기업들]LK삼양,50년렌즈명가…드론·우주간판겨냥",
-  "'라이언킹'의선한영향력...아이들과미래재단홍보대사오세근,꿈나...",
-  "증시폭락에긴급회의소집한금융당국\"낙폭과도,신용투자경계해야...",
-  "\"반값장보기부터룰렛까지\"…신평골목시장가을축제",
-  "[법안돋보기]치매환자배회감지기지원제각각···관리기관역할법...",
-  "임기끝났는데여전히T1CEO?…SK스퀘어“당장확인어렵다”,차기선...",
   "檢미래위조사단\"위례신도시등위법수사단정어렵다\"",
   "“아이들의건강한성장응원”오세근,아동·청소년재단에기부금전...",
   "코스피·코스닥7%대↓…금융위\"필요시컨틴전시플랜\"",
@@ -6001,7 +5995,13 @@
   "국민연금,3분기182조증발역대최악성적표…'삼전·닉스'직격탄",
   "최태원회장,청년들과미래·성장해법나눠...\"20대로돌아가면무조...",
   "실적기대에도꺾인SK하이닉스…최태원“AI가못하는일해야”",
-  "“반도체호황적어도내년까지이어질것”이형일"
+  "“반도체호황적어도내년까지이어질것”이형일",
+  "최태원SK회장\"사람을이해하고움직여야\"",
+  "[로빈후드온체인]제로트레이스에보유지갑2414개가몰려있다...어플...",
+  "올해200조던진외국인,언제돌아오나…증권가가꼽은반등분수령",
+  "SK하이닉스영업이익률77%,지켜질까…AI반도체의위기와기회",
+  "[BK프리뷰]‘개막후2주공백’SKvs‘4연패끊어낸’소노,시즌첫...",
+  "SK증권제12호스팩,예심미제출시26일관리종목우려"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,29 @@
   [
    "2026-10-18T12:31:09.442267+09:00",
    "사로잡은 수익 제대로 번다 리사 NPU 국산 연구 본격"
+  ],
+  [
+   "2026-10-18T12:51:05.045737+09:00",
+   "몰려 보유 제로트레이스에 어플 2414개가 지갑 있다"
+  ],
+  [
+   "2026-10-18T12:51:05.045737+09:00",
+   "던진 증권가가 꼽은 올해 반등 200조 돌아오나 언제 분수령 외국인"
+  ],
+  [
+   "2026-10-18T12:51:05.045737+09:00",
+   "위기와 반도체의 AI 지켜질까 영업이익률 SK하이닉스 기회"
+  ],
+  [
+   "2026-10-18T12:51:05.045737+09:00",
+   "vs 개막 끊어낸 소노 공백 2주 4연패 시즌"
+  ],
+  [
+   "2026-10-18T12:51:05.045737+09:00",
+   "예심 26일 SK증권제12호스팩 우려 미제출 관리종목"
   ]
  ],
- "last_run": "2026-10-18T12:41:11.086899+09:00",
+ "last_run": "2026-10-18T12:51:23.774637+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
