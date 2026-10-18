@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193307",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172112",
-  "http://www.newsprime.co.kr/news/article.html?no=751159",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=869625",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=313218",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242224",
-  "https://www.dt.co.kr/article/12089367",
-  "https://www.news1.kr/finance/market-exr/6321448",
-  "https://www.yna.co.kr/view/AKR20261015134151008?input=1195m",
-  "https://www.news2day.co.kr/article/20261015500236",
-  "https://www.koreaherald.com/article/10904070",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=883679",
   "https://en.yna.co.kr/view/AEN20261015001651315?input=2106m",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=666352",
   "https://www.hani.co.kr/arti/economy/economy_general/1282560.html",
@@ -2999,21 +2987,21 @@
   "https://dealsite.co.kr/articles/170720",
   "https://www.mk.co.kr/article/12177971",
   "https://www.etnews.com/20261016000175",
-  "https://www.newsis.com/view/NISX20261016_0003829316"
+  "https://www.newsis.com/view/NISX20261016_0003829316",
+  "https://biz.heraldcorp.com/article/10905996",
+  "https://www.newsis.com/view/NISX20261018_0003830241",
+  "https://view.asiae.co.kr/article/2026101809165798938",
+  "https://www.jasm.co.kr/news/view/321876/?sc=Naver",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322593",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281016",
+  "http://www.4th.kr/news/articleView.html?idxno=2119932",
+  "https://www.mt.co.kr/industry/2026/10/18/2026101808462896859",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261018010004931",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322610",
+  "https://www.ddaily.co.kr/page/view/2026101617410065273",
+  "https://www.thepublic.kr/news/articleView.html?idxno=322617"
  ],
  "seen_titles": [
-  "[취재노트]솔리다임IPO논란…SK하이닉스,주주질문에답할때",
-  "개미곡소리어쩌나…코스피·코스닥7%대급락마감[시황]",
-  "'검은목요일'덮친증시,코스피5550선마감···매도·서킷브레이커...",
-  "코스피7%대폭락…'검은목요일'양대증시서킷브레이커,7거래일새...",
-  "[마감]코스피7%폭락…AI투자우려에외국인매도폭탄",
-  "'공포의목요일'코스피,外人매도폭탄·AI우려에'5500선폭락'…코...",
-  "꽃동네학교,2026행복AI챌린지서최우수상·우수상수상",
-  "코스피,반도체급락에7.57%'급락'",
-  "'아이폰듀오'사전예약D-1…이통3사고객확보경쟁",
-  "SKT,AI로장애청소년디지털격차줄인다",
-  "'밑빠진'코스피5554마감…외인3.6조'팔자'삼전닉스9~11%↓[시황종...",
-  "'검은목요일'에패닉…코스피·코스닥,7%대급락마감(종합)",
   "(마감시황)코스피,7.56%급락해5,550선…양시장매도사이드카·서킷...",
   "Kospislidesover7%aschipstockssink",
   "하이닉스11%폭락,삼성전자9%↓…7월말이후낙폭최대",
@@ -6001,7 +5989,19 @@
   "[경영전략써밋2026][영상]김지현SKAI위원회부사장,“국내데이터...",
   "하루새410조증발…그많은돈은대체어디로갔을까[최소한의금융...",
   "[세미콘웨스트2026]한글간판·조선통신사그림까지…K-소부장,세미...",
-  "[단독]'고위험'레버리지ETF광고에5억8100만원…출시두달만에'제동..."
+  "[단독]'고위험'레버리지ETF광고에5억8100만원…출시두달만에'제동...",
+  "“기존주주들손해?”‘솔리다임’상장에하이닉스주주한숨…“투...",
+  "이형일\"반도체호황적어도내년까지…증시변동성에도견조\"",
+  "국민연금,100일만에주식평가액182조원증발…삼성·SK하이닉스직격...",
+  "[투자전략]코스피8일만에반등…증권가\"분할매수대응\"",
+  "SKT,아이폰듀오사전예약실시…할인·구독·경품혜택",
+  "SK온,LFP배터리원가낮출'CNT파우더'공정개발…학술대회개최",
+  "SK온,LFP원가낮출공정개발…차세대배터리연구공유",
+  "SK온,미래기술원학술대회개최..차세대배터리선도기술결집",
+  "HL디앤아이한라,청주'신분평에피트더웨이시티'분양",
+  "신한카드,아이폰구매고객대상최대5만원캐시백…통신사별혜택제...",
+  "트럼프,러시아산경유도입공식화…국제유가·美증시,악재덜어낼수...",
+  "감사의마음가득담아…SK하이닉스,협력사구성원·가족3만명초청행..."
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,25 @@
   [
    "2026-10-18T09:11:04.606572+09:00",
    "제동 ETF 5억8100만원 고위험 레버리지 출시 만에 광고에"
+  ],
+  [
+   "2026-10-18T09:20:59.796587+09:00",
+   "신분평 더웨이시티 에피트 청주 HL디앤아이한라 분양"
+  ],
+  [
+   "2026-10-18T09:20:59.796587+09:00",
+   "고객 5만원 대상 아이폰 캐시백 구매 통신사별 신한카드 혜택"
+  ],
+  [
+   "2026-10-18T09:20:59.796587+09:00",
+   "공식화 트럼프 증시 덜어낼 악재 국제유가 도입 경유 러시아산"
+  ],
+  [
+   "2026-10-18T09:20:59.796587+09:00",
+   "초청 3만명 구성원 가족 협력사 마음 감사의 가득 담아 SK하이닉스"
   ]
  ],
- "last_run": "2026-10-18T09:11:29.011477+09:00",
+ "last_run": "2026-10-18T09:21:13.941627+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
