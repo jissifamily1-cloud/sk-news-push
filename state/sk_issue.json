@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683502",
   "https://daily.hankooki.com/news/articleView.html?idxno=1413966",
   "https://www.news2day.co.kr/article/20261012500328",
   "https://news.bizwatch.co.kr/article/industry/2026/10/12/0042",
@@ -2999,10 +2998,10 @@
   "https://www.etoday.co.kr/news/view/2636974",
   "https://www.ytn.co.kr/_ln/0134_202610180854495343",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7189294",
-  "https://www.yna.co.kr/view/AKR20261016156100064?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261016156100064?input=1195m",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/521586"
  ],
  "seen_titles": [
-  "경남지사‘정치공세차단’…경남공직선거법수사는?",
   "정유4사,기름값논란에사과…전량구매계약손본다",
   "[2026국감]정유2사담합의혹집중추궁...주유기개선도속도차",
   "정유4사,국감서고개숙였다…기름값담합에손실보전까지도마",
@@ -6001,7 +6000,8 @@
   "[정부주요일정]경제·사회부처주간일정(10월19일~10월23일)",
   "\"병원때문이라더니\"...'인천흉기난동범'의경악스러운새진술[자막뉴...",
   "[금주의인물]\"배상은끝났지만진실은아직\"…'의문사1호'故최종길...",
-  "선거법위반혐의충북자치단체장'가슴이조마조마'"
+  "선거법위반혐의충북자치단체장'가슴이조마조마'",
+  "'스트레이트'5공청산의사각지대...'허화평재단'의비밀"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "전망에도 강세에 정제마진 3분기 긴장 5조원 영업익 정유4사"
   ]
  ],
- "last_run": "2026-10-18T09:10:55.965218+09:00",
+ "last_run": "2026-10-18T09:20:51.899066+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
