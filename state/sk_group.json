@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/it-science/ict/2026/10/16/OZYMVDVECZGGBH2NTN4SI2B544/",
-  "https://biz.chosun.com/stock/stock_general/2026/10/16/QERUJ5DH7BD6ZNKW2YBTCP5MNY/",
-  "https://biz.chosun.com/it-science/ict/2026/10/16/76EPVHWXW5CE5KUTVZULLYVEDI/",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172088",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172099",
-  "http://www.metroseoul.co.kr/article/20261015500485",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=55307",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6858338_37012.html",
   "https://www.sedaily.com/article/20102279",
   "http://www.beyondpost.co.kr/view.php?ud=202610160610413612aaae0046f_30",
@@ -2999,16 +2992,16 @@
   "https://www.fnnews.com/news/202610181834154488",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=65964",
   "https://basketkorea.com/news/newsview.php?ncode=1065605643975956",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276297&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276297&CMPT_CD=P0010",
+  "https://www.news1.kr/sports/soccer/6323770",
+  "https://www.newspim.com/news/view/20261018000118",
+  "https://www.fnnews.com/news/202610181841125850",
+  "https://www.fnnews.com/news/202610181841091520",
+  "https://www.fnnews.com/news/202610181841084071",
+  "https://www.newsis.com/view/NISX20261018_0003830539",
+  "http://www.mdilbo.com/detail/0kIA7d/759742"
  ],
  "seen_titles": [
-  "흔들리는건AI가아니라투자자의심리다",
-  "[버디or보기]위기의KPGA투어지탱해온후원사들의‘헌신’…이제는투...",
-  "(취임500일)AI발성장에도'K자형양극화'…집안싸움에민생실종",
-  "코스피떠나는외국인,언제돌아올까",
-  "ASML·TSMC동시최대실적…삼성·SK하닉,이제는‘장비확보전’",
-  "증시패닉에다시커지는반대매매공포…하루893억원까지치솟았다",
-  "[여기는논설실]코스피폭락…시장은AI투자의수익성을의심한다",
   "[비즈톡톡]KT·LG유플러스지분줄이고SKT는늘렸다…국민연금의엇갈...",
   "삼전·닉스PER‘역사적저점’…역대급실적에도外人왜파나",
   "[비즈톡톡]“통신사파트너서경쟁자로”…스페이스X,美주파수확보...",
@@ -6001,29 +5994,16 @@
   "삼전이어SK하이닉스도'실적잔치'...3분기영업익77조'역대최대'...",
   "이상일용인시장\"반도체투자로늘어나는시재정,시민위한사업과...",
   "[BK리뷰]‘문유현승부처맹위’정관장,KCC꺾고‘시즌첫4연승’...",
-  "'골넣고수미뛰고PK까지'다사다난했던김영빈...그래도존재감은확..."
+  "'골넣고수미뛰고PK까지'다사다난했던김영빈...그래도존재감은확...",
+  "'클리말라멀티골'서울,김천과2-2무승부…우승까지매직넘버'3'",
+  "[프로농구]'지각개막'서울SK,'3점슛폭발'고양소노에패배...현대모...",
+  "美AI·반도체주일제히급락…이번주'W'반등분기점",
+  "외국인이탈세심화…코스피시총비중37%로'6개월만에최저'[바닥...",
+  "'폭락장못버틴'국민연금,보유주식석달반만에182조날아갔다[바...",
+  "프로농구현대모비스,원정15연패탈출…정관장은4연승(종합)",
+  "광주반도체클러스터‘전격전’···22일첫국감서통합시실행력시..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-18T12:51:05.045737+09:00",
-   "몰려 보유 제로트레이스에 어플 2414개가 지갑 있다"
-  ],
-  [
-   "2026-10-18T12:51:05.045737+09:00",
-   "던진 증권가가 꼽은 올해 반등 200조 돌아오나 언제 분수령 외국인"
-  ],
-  [
-   "2026-10-18T12:51:05.045737+09:00",
-   "위기와 반도체의 AI 지켜질까 영업이익률 SK하이닉스 기회"
-  ],
-  [
-   "2026-10-18T12:51:05.045737+09:00",
-   "vs 개막 끊어낸 소노 공백 2주 4연패 시즌"
-  ],
-  [
-   "2026-10-18T12:51:05.045737+09:00",
-   "예심 26일 SK증권제12호스팩 우려 미제출 관리종목"
-  ],
   [
    "2026-10-18T13:01:14.368000+09:00",
    "성장에 성장축 배터리 ESS 확보하나 청신호 글로벌"
@@ -6667,9 +6647,13 @@
   [
    "2026-10-18T18:41:00.120262+09:00",
    "다사다난했던 그래도 수미 존재감은 뛰고 김영빈 PK까지 넣고"
+  ],
+  [
+   "2026-10-18T18:51:09.401756+09:00",
+   "클러스터 반도체 실행력 통합시 광주 국감서 전격전 22일"
   ]
  ],
- "last_run": "2026-10-18T18:41:11.113338+09:00",
+ "last_run": "2026-10-18T18:51:15.222120+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
