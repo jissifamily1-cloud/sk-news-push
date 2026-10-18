@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12089383",
-  "https://www.donga.com/news/Economy/article/all/20261015/134848761/1",
-  "http://www.kjdaily.com/article.php?aid=1792050680689235276",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316873&inflow=N",
-  "https://www.edaily.co.kr/News/Read?newsId=05061046645613248&mediaCodeNo=257",
-  "https://www.mt.co.kr/finance/2026/10/15/2026101515594652206",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1728026",
-  "https://www.joongang.co.kr/article/25470062",
   "https://economist.co.kr/article/view/ecn202610150053",
   "https://www.namdonews.com/news/articleView.html?idxno=926274",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424337",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/PYH20261018019700013?input=1196m",
   "https://biz.chosun.com/industry/company/2026/10/18/46IZHMYOKVGZDMJJAIOXPU4QHI/",
   "https://www.ekn.kr/web/view.php?key=20261017021307471",
-  "https://biz.chosun.com/policy/policy_sub/2026/10/18/YLWNI7ECNVE35BEXZ7WXA6WWF4/"
+  "https://biz.chosun.com/policy/policy_sub/2026/10/18/YLWNI7ECNVE35BEXZ7WXA6WWF4/",
+  "https://www.newsis.com/view/NISX20261018_0003830280",
+  "https://www.ddaily.co.kr/page/view/2026101809445321423",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5225608",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005941176",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078991",
+  "https://www.newspim.com/news/view/20261018000016",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=91022",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2307523"
  ],
  "seen_titles": [
-  "세계사회연대경제리더들서울집결…'지속가능한생태계'국제협력모...",
-  "증시'휘청'에국내상장사시총하루새400조원이상'증발'(종합2보)",
-  "\"AI거품론에美물가충격까지\"…코스피7.6%폭락,서킷브레이커발동",
-  "'검은목요일'코스피7.57%폭락…시총하루새400조원날아가",
-  "로이터\"SK하이닉스,미국반도체공장건설조건으로中장비반입요청...",
-  "SK하이닉스,43년기록활용한'초심'캠페인공개",
-  "'검은목요일'에지수동반급락…코스피·코스닥,7%대하락마감",
-  "‘전국민AI경진대회’참가자356만명돌파…국민적AI축제로성장",
   "美고물가·코어위브쇼크로코스피7%이상급락하며5개월최저마감",
   "삼성전자·SK하이닉스폭락…주식급락마감",
   "AI비관론·코스피거품론확산…\"5000까지밀린다\"",
@@ -6001,7 +5993,15 @@
   "청년들대상으로강연하는최태원SK그룹회장",
   "최태원“AI는지능일뿐지혜아니야…사람이해하고움직이는능력이...",
   "코스피반등에도증권가눈높이는‘뚝’…추세회복‘산넘어산’[주...",
-  "이형일부총리“반도체호황적어도내년까지갈것”"
+  "이형일부총리“반도체호황적어도내년까지갈것”",
+  "외인투매에'삼전닉스'기록적주간낙폭…증권가는\"역사적저평가\"",
+  "최태원“20대로돌아가면창업”…AI시대청년들에도전강조",
+  "국민연금,3분기보유주식182조원증발…'삼전닉스'폭락직격탄",
+  "국민연금,3분기주식182조원손실…7분기만에'마이너스'",
+  "최태원\"20대로돌아가면무조건창업\"",
+  "이형일부총리\"반도체호황,적어도내년까지…\"韓경제기초체력견조...",
+  "\"다시20대라면창업\"…최태원회장이청년들에게던진미래화두",
+  "삼전닉스폭락못피했다…국민연금보유주식182조원'증발'"
  ],
  "recent_sigs": [
   [
@@ -6497,7 +6497,7 @@
    "반도체 내년까지 이형일 적어도 호황 부총리"
   ]
  ],
- "last_run": "2026-10-18T10:21:13.181622+09:00",
+ "last_run": "2026-10-18T10:25:27.120621+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
