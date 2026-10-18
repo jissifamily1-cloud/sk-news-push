@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202610150053",
-  "https://www.namdonews.com/news/articleView.html?idxno=926274",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424337",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214904",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150142&t=NN",
-  "https://www.news1.kr/world/international-economy/6321278",
-  "https://www.edaily.co.kr/News/Read?newsId=05057766645613248&mediaCodeNo=257",
-  "https://www.xportsnews.com/article/2207933",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=366273",
   "http://www.metroseoul.co.kr/article/20261015500534",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=278913",
@@ -2999,17 +2991,17 @@
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078991",
   "https://www.newspim.com/news/view/20261018000016",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=91022",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2307523"
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2307523",
+  "https://economist.co.kr/article/view/ecn202610180006",
+  "https://www.kado.net/news/articleView.html?idxno=2078663",
+  "https://www.edaily.co.kr/News/Read?newsId=01348086645614232&mediaCodeNo=257",
+  "https://www.asiatime.co.kr/article/20261018500018",
+  "https://www.wikitree.co.kr/articles/1167098",
+  "https://view.asiae.co.kr/article/2026101810242028133",
+  "https://www.tokenpost.kr/news/breaking/423859",
+  "https://view.asiae.co.kr/article/2026101515535089012"
  ],
  "seen_titles": [
-  "美고물가·코어위브쇼크로코스피7%이상급락하며5개월최저마감",
-  "삼성전자·SK하이닉스폭락…주식급락마감",
-  "AI비관론·코스피거품론확산…\"5000까지밀린다\"",
-  "SKT,AI로일반차량도무인이송…글로벌5G서비스혁신상",
-  "금리상승기에은행돈많이번다더니...은행,순이자마진일제히뒷걸음",
-  "'삼전닉스'급락에단일종목레버리지신저가",
-  "“만피”외쳤는데5500선추락…“거품붕괴”vs“6개월내전고점돌...",
-  "‘강동역SK리더스뷰아트리움’,체류형상권공략…키즈·외식·피트...",
   "[전남광주반도체미래를엿보다]②팹4기누가돌리나…'인재공급망...",
   "인터넷속도'세계22위'는통신3사광통신망투자부족탓?",
   "[생생경제]SK온CB에SK주식PRS까지…한투투자금,어떻게회수하나",
@@ -6001,7 +5993,15 @@
   "최태원\"20대로돌아가면무조건창업\"",
   "이형일부총리\"반도체호황,적어도내년까지…\"韓경제기초체력견조...",
   "\"다시20대라면창업\"…최태원회장이청년들에게던진미래화두",
-  "삼전닉스폭락못피했다…국민연금보유주식182조원'증발'"
+  "삼전닉스폭락못피했다…국민연금보유주식182조원'증발'",
+  "최태원\"대학나왔다고유능한거아냐\"…20대돌아가면'이것'무조건...",
+  "국민연금,3분기보유주식182조원'증발'…7분기만에마이너스전환",
+  "최태원\"현시대리더는AI가할수없는일찾아야\"",
+  "국민연금100일간주식손실182조…삼전닉스만131조증발",
+  "최태원“대학졸업장필요없어...20대로돌아가면'이것'하고싶다“",
+  "최태원\"20대로돌아가면무조건창업…사회문제해결에도전\"",
+  "AI주무기한선물급락…웨스턴디지털7%대하락",
+  "스페이스X통신사업한다는데…韓통신3사망할까[주末머니]"
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,17 @@
   [
    "2026-10-18T10:21:01.857900+09:00",
    "반도체 내년까지 이형일 적어도 호황 부총리"
+  ],
+  [
+   "2026-10-18T10:31:09.594266+09:00",
+   "선물 무기한 웨스턴디지털 급락 하락 AI주"
+  ],
+  [
+   "2026-10-18T10:31:09.594266+09:00",
+   "스페이스X 한다는데 망할까 통신3사 통신사업"
   ]
  ],
- "last_run": "2026-10-18T10:25:27.120621+09:00",
+ "last_run": "2026-10-18T10:31:18.826687+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
