@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=302813",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242235",
-  "https://www.imaeil.com/page/view/2026101609330706478",
-  "https://news.dealsitetv.com/articles/177061",
-  "https://www.news2day.co.kr/article/20261016500053",
-  "https://www.ytn.co.kr/_ln/0102_202610160943341162",
-  "http://www.newskr.kr/news/articleView.html?idxno=107202",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=798316",
-  "https://www.inthenews.co.kr/news/article.html?no=93128",
-  "https://www.kukinews.com/article/view/kuk202610160030",
   "https://biz.sbs.co.kr/article_hub/20000340341?division=NAVER",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160035&t=NN",
   "https://www.newsis.com/view/NISX20261016_0003828435",
@@ -2999,19 +2989,19 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16250872",
   "https://www.etoday.co.kr/news/view/2637090",
   "https://www.mk.co.kr/article/12179155",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202335"
+  "http://www.thevaluenews.co.kr/news/view.php?idx=202335",
+  "https://www.kbmaeil.com/article/20261016500086",
+  "https://www.hankyung.com/article/2026101993047",
+  "https://www.ytn.co.kr/_ln/0102_202610190724131672",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=616810",
+  "https://www.fnnews.com/news/202610190716184038",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714533",
+  "https://biz.sbs.co.kr/article_hub/20000340659?division=NAVER",
+  "https://www.fnnews.com/news/202610190659135307",
+  "https://www.fntimes.com/html/view.php?ud=202610190709433854141825007d_18",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005941669"
  ],
  "seen_titles": [
-  "이통3사,아이폰듀오사전예약돌입…할인·중고폰보상경쟁",
-  "\"삼전닉스몰려들때뭐했나\"…코스피폭락에CNBC앵커분노",
-  "이재용·최태원도춤춘다?…공개사흘만에화제된'K팝영상'",
-  "중국CXMT제품도입해메모리반도체공급난돌파하겠다는애플",
-  "SK하이닉스,'OCP글로벌서밋'서차세대AI메모리기술제시",
-  "구직자가뽑은관심기업1위‘SK하이닉스’…현대차2위",
-  "AI투자열풍에월가은행들'잭팟'…수수료수입'두배'",
-  "SK텔레콤,폴더블폰아이폰듀오사전예약16일시작",
-  "\"아이폰듀오출격\"이통3사,오늘오후9시사전예약개시",
-  "증시20%폭락에도'빚투'못놓는개미…반대매매급증에경고등",
   "[뉴욕브리핑]美국채금리하락에증시반등…다우1%상승",
   "이통3사,첫폴더블'아이폰듀오'사전예약…혜택경쟁본격화",
   "코스피급락딛고상승출발...코스닥도소폭상승",
@@ -6001,7 +5991,17 @@
   "코스피전망,美반도체8일째급락…외국인수급시험대",
   "[전날애프터마켓]]삼전·현대차더달리고,SK하이닉스숨고르기…명...",
   "“두산,전자사업성장탄력에수익성쑥”…목표가↑",
-  "[이영기칼럼]이사회의장부터바꿔라…독립이사의장4.2%의진실"
+  "[이영기칼럼]이사회의장부터바꿔라…독립이사의장4.2%의진실",
+  "연구실기술이지역기업신제품으로…포스텍,1000억글로컬결실한자...",
+  "국민연금주식100일새182조증발…삼전닉스131조물렸다",
+  "[스타트경제]국민연금도물린폭락장,100일만에182조손실...리밸런...",
+  "[기업경영]100대기업임원승진율5년째0.8%대제자리",
+  "D램값오르는데반도체주는급락…금리·원가부담에커진AI투자공포",
+  "100대기업임원비중0.83%,SK하이닉스72명↑현대차·LG전자↓",
+  "[마켓프리뷰]7거래일하락후겨우상승반전…\"추세전환은아직\"",
+  "\"삼전닉스또떨어지나\"…'딥시크악재'에도증권가는\"비중늘려라\"",
+  "[KFT모닝브리프]2026.10.19—오늘꼭알아야할국내외경제뉴스",
+  "증시오늘'핫이슈'…\"국채금리'하락'이시작됐다,K-증시피난처는?\""
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,25 @@
   [
    "2026-10-19T07:20:57.368855+09:00",
    "이사회 의장부터 진실 의장 바꿔라 독립이사"
+  ],
+  [
+   "2026-10-19T07:31:07.819714+09:00",
+   "반전 겨우 7거래일 하락 전환은 상승 추세 아직"
+  ],
+  [
+   "2026-10-19T07:31:07.819714+09:00",
+   "떨어지나 비중 악재 딥시크 늘려라 증권가는 에도 삼전닉스"
+  ],
+  [
+   "2026-10-19T07:31:07.819714+09:00",
+   "국내외 경제뉴스 알아야"
+  ],
+  [
+   "2026-10-19T07:31:07.819714+09:00",
+   "핫이슈 국채금리 피난처는 시작됐다 하락 증시"
   ]
  ],
- "last_run": "2026-10-19T07:21:09.237649+09:00",
+ "last_run": "2026-10-19T07:31:21.905051+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
