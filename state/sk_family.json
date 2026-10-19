@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478101",
-  "https://www.joongang.co.kr/article/25467986",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601001",
   "https://www.segye.com/newsView/20261007516850?OutUrl=naver",
   "https://www.ajunews.com/view/20261007145848048",
@@ -2999,11 +2997,11 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=884035",
   "https://www.mk.co.kr/article/12179912",
   "http://www.ikld.kr/news/articleView.html?idxno=342502",
-  "https://www.ajunews.com/view/20261019174050815"
+  "https://www.ajunews.com/view/20261019174050815",
+  "https://www.etoday.co.kr/news/view/2637575",
+  "https://www.newsis.com/view/NISX20261019_0003832321"
  ],
  "seen_titles": [
-  "전남광주통합특별시의회,'석유화학·철강체질개선'...주력산업혁신...",
-  "[미리보는이데일리신문]\"충돌하는임명·제청권,개헌으로새판짜야...",
   "용인특례시의회의장단,플랫폼시티공사현장점검",
   "누리호5차발사'성공'...\"우주수송중심지도약\"",
   "SK하이닉스,광주군공항방문…반도체투자구체화",
@@ -6001,7 +5999,9 @@
   "울릉출향인·친인척여객선운임지원길열린다…박기호군의원조례...",
   "野'김현지주례'지역난방공사사장임명질타",
   "[2026국감]전력공급책임놓고여야충돌",
-  "국민의힘,이재용·최태원국감증인채택촉구…종합감사앞두고압박"
+  "국민의힘,이재용·최태원국감증인채택촉구…종합감사앞두고압박",
+  "박철우서울공소청장“노태우비자금,새범죄사실입증하면몰수가능...",
+  "국힘\"'호남반도체'관련이재용·최태원국감증인으로채택해야\""
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-10-19T18:10:14.733232+09:00",
    "충돌 여야 놓고 공급 전력 책임"
+  ],
+  [
+   "2026-10-19T18:40:13.718735+09:00",
+   "이재용 호남반도체 증인으로 국감 채택해야 국힘"
   ]
  ],
- "last_run": "2026-10-19T18:30:32.936104+09:00",
+ "last_run": "2026-10-19T18:40:28.306050+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
