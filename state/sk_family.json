@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1315968&inflow=N",
-  "http://www.iminju.net/news/articleView.html?idxno=170528",
   "https://www.kado.net/news/articleView.html?idxno=2076924",
   "https://www.edaily.co.kr/News/Read?newsId=04890486645610624&mediaCodeNo=257",
   "https://www.pressian.com/pages/articles/2026100715163716605",
@@ -2999,11 +2997,11 @@
   "https://www.thepowernews.co.kr/view.php?ud=202610191356171839de3f0aa1be_7",
   "https://www.news1.kr/industry/general-industry/6324263",
   "https://www.cnbizm.com/news/articleView.html?idxno=318439",
-  "https://www.lawleader.co.kr/news/articleView.html?idxno=20204"
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20204",
+  "https://www.veritas-a.com/news/articleView.html?idxno=632466",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88713"
  ],
  "seen_titles": [
-  "\"정년연장유연하게\"\"전기차도생산세액공제\"…재계,정부에요청",
-  "이대통령\"추격자관행벗어나녹색대전환설계자·선도자돼야…핵심...",
   "이대통령,한국형녹색대전환(K-GX)전략국민보고회[뉴시스Pic]",
   "李\"국산녹색기술,감사걱정없이지원해야\"…정책불확실성해소주...",
   "이대통령\"지역산단적극활용해녹색대전환을지역성장동력으로\"",
@@ -6001,17 +5999,11 @@
   "최태원\"AI시대엔문제해결력이경쟁력…실패해도다시도전해야\"",
   "대한상의,임직원참여형윤리경영캠페인'컴플투게더'개최",
   "최태원SK회장,청년들에\"AI가못하는일찾아야\"…'생각의힘'강조",
-  "송영길\"삼성전자,SK하이닉스강력한주주환원정책으로신뢰얻길\""
+  "송영길\"삼성전자,SK하이닉스강력한주주환원정책으로신뢰얻길\"",
+  "이화여대황은숙약학대학장약대건축기금1억원기부..'EWC약학대학건...",
+  "최태원회장의닷새수업…AI시대기업과청년의길을묻다"
  ],
  "recent_sigs": [
-  [
-   "2026-10-19T08:10:14.979978+09:00",
-   "조간 19일"
-  ],
-  [
-   "2026-10-19T08:20:14.670330+09:00",
-   "많다 회의서 연임 내부 수펙스 의장 공식화"
-  ],
   [
    "2026-10-19T08:30:21.645281+09:00",
    "그리고 주제 새로운 자본주의 강연 회장 AI와 LG전자 청년"
@@ -6131,9 +6123,13 @@
   [
    "2026-10-19T14:10:13.658419+09:00",
    "주주환원 정책으로 얻길 송영길 강력한 신뢰 SK하이닉스 삼성전자"
+  ],
+  [
+   "2026-10-19T14:20:15.072476+09:00",
+   "길을 AI 묻다 시대 청년의 회장의 닷새 기업과 수업"
   ]
  ],
- "last_run": "2026-10-19T14:10:25.516768+09:00",
+ "last_run": "2026-10-19T14:20:26.880187+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
