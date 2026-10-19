@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261016074300003?input=1195m",
-  "https://www.news1.kr/industry/sb-founded/6320233",
-  "https://www.yna.co.kr/view/AKR20261017023500008?input=1195m",
-  "https://www.vegannews.co.kr/news/article.html?no=393773",
-  "https://www.kbmaeil.com/article/20261018500013",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496152",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496153",
-  "https://www.vegannews.co.kr/news/article.html?no=393779",
   "https://www.imaeil.com/page/view/2026101806521084157",
   "http://www.newsian.co.kr/news/articleView.html?idxno=97237",
   "https://www.dt.co.kr/article/12089582",
@@ -2999,17 +2991,17 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=445937",
   "https://www.getnews.co.kr/news/articleView.html?idxno=884075",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2446774",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=562747"
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=562747",
+  "https://www.news1.kr/sports/general-sport/6325127",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=562758",
+  "http://www.economytalk.kr/news/articleView.html?idxno=424440",
+  "http://www.paxetv.com/news/articleView.html?idxno=284580",
+  "https://www.venturesquare.net/1121117/",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065616628518569",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689477",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/19/2026101990245.html"
  ],
  "seen_titles": [
-  "(주간증시전망)코스피5300선도안심못해…바닥확인시험대",
-  "[스타트UP]기업데이터로답찾는다…의사결정AI만드는폴라펄스",
-  "중국의기술추격에'반도체한미동맹'힘실려,삼성전자·SK하이닉스...",
-  "서울연내착공물량절반이철거중…3만가구목표시험대",
-  "코스피두달반만에다시5600선…7월같은급반등은어렵다",
-  "고용쇼크에도안내린장기금리…'가격묻지않던큰손'이떠났다",
-  "“또욕받이되겠네”…정보유출사태에멍드는콜센터상담사들",
-  "폭락장세뒤반등했지만악재는여전…이번주코스피향배는",
   "SK하이닉스,올3Q영업익80조돌파할까…\"추가주주환원도주목\"",
   "◇오늘의경기(18일)",
   "美금리·AI투자불확실성에출렁…바닥다지나[주간증시전망]",
@@ -6001,7 +5993,15 @@
   "코스피,1%대상승에5700선회복...LG에너지솔루션,삼성바이오로직스...",
   "KCC건설'향남역그로브스위첸'특화설계눈길",
   "국힘\"李정권실정,'대법원장탄핵'물타기로덮을수없다\"",
-  "'가스공사·석유공사통합'문제점쏟아졌다"
+  "'가스공사·석유공사통합'문제점쏟아졌다",
+  "조예진,패러게임플뢰레동메달…세계2위꺾고생애첫개인전메달",
+  "오늘의경기",
+  "[ESG경영분석]'이사회독립성강화'SK케미칼…\"5대위원회기반전문...",
+  "반도체상생무역금융2조원출범…\"향후방산·원전·바이오등분야로...",
+  "서울바이오허브,셀트리온·SK바이오팜등과K바이오성장전략논의…...",
+  "컬리,뷰티페스타개최…45개브랜드체험공간마련",
+  "솔리다임미상장논란에…금감원장“중복상장해당”",
+  "SK하이닉스,美손자회사'중복상장'논란…\"주주이익훼손\"vs\"투자..."
  ],
  "recent_sigs": [
   [
@@ -6821,7 +6821,7 @@
    "문제점 쏟아졌다 석유공사 가스공사 통합"
   ]
  ],
- "last_run": "2026-10-19T21:41:13.973363+09:00",
+ "last_run": "2026-10-19T21:51:07.581126+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
