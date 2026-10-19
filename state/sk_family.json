@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12167098",
-  "https://www.newspim.com/news/view/20260824001186",
   "https://www.khan.co.kr/article/202610072105015",
   "https://www.pressian.com/pages/articles/2026100713294120261",
   "https://www.seoul.co.kr/news/politics/2026/10/08/20261008001005?wlog_tag3=naver",
@@ -2999,11 +2997,11 @@
   "https://news.tf.co.kr/read/life/2378040.htm",
   "https://www.donga.com/news/Economy/article/all/20261019/134867942/1",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=246597",
-  "https://www.sisajournal.com/news/articleView.html?idxno=390294"
+  "https://www.sisajournal.com/news/articleView.html?idxno=390294",
+  "https://www.asiatime.co.kr/article/20261019500415",
+  "https://www.ajunews.com/view/20261019170336583"
  ],
  "seen_titles": [
-  "대한노인회충북연합회,제30회노인의날기념식및경로당프로그램발...",
-  "SK하이닉스경영진,한달만에광주군공항다시찾았다",
   "김건희이어尹도무죄…'무상여론조사'2심서뒤집혀",
   "누리호매년발사한다…차세대발사체개발박차",
   "탄소감축넘어‘녹색성장’선도…‘그린AI’부재는한계",
@@ -6001,13 +5999,11 @@
   "[2026국감]\"노태우비자금,새로운범죄찾으면몰수가능성\"",
   "김동철한전사장“15兆재무개선실적냈지만…전기요금때문에부담...",
   "[부고종합·19일]구도형넷마블에프앤씨대표부친상등",
-  "[2026차세대리더-스포츠]김민지(한체대)쇼트트랙선수"
+  "[2026차세대리더-스포츠]김민지(한체대)쇼트트랙선수",
+  "[대학뉴스브리핑]이화여대·중앙대·광운대",
+  "[종합]후반전돌입한국정감사…여야,법사위·국토위서난타전계속"
  ],
  "recent_sigs": [
-  [
-   "2026-10-19T11:30:23.052542+09:00",
-   "누가 5대 있나 의장 맡고 이사회"
-  ],
   [
    "2026-10-19T12:10:15.866394+09:00",
    "에서 위대한 EBS 회장 수업 만나 청년들"
@@ -6079,9 +6075,13 @@
   [
    "2026-10-19T16:50:14.762125+09:00",
    "비자금 수수사실 서울중앙공소청장 입증하면 몰수 가능 노태우"
+  ],
+  [
+   "2026-10-19T17:30:23.641179+09:00",
+   "여야 계속 돌입한 국토위서 후반전 법사위 난타전 국정감사"
   ]
  ],
- "last_run": "2026-10-19T17:20:25.098080+09:00",
+ "last_run": "2026-10-19T17:30:36.682756+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
