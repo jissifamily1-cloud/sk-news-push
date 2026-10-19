@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/politics/2026/10/08/2026100719551339377",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000020819&cp=nv",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478101",
   "https://www.joongang.co.kr/article/25467986",
@@ -2999,10 +2998,10 @@
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=131192",
   "https://www.sisaweek.com/news/articleView.html?idxno=238455",
   "https://www.getnews.co.kr/news/articleView.html?idxno=884035",
-  "https://www.mk.co.kr/article/12179912"
+  "https://www.mk.co.kr/article/12179912",
+  "http://www.ikld.kr/news/articleView.html?idxno=342502"
  ],
  "seen_titles": [
-  "[단독]서울대총장후보4명→3명…강준호·최해천·이재영최종3인",
   "삼성·LG·포스코,'K-GX'서각자해법…집은전기화·공장은저탄소",
   "전남광주통합특별시의회,'석유화학·철강체질개선'...주력산업혁신...",
   "[미리보는이데일리신문]\"충돌하는임명·제청권,개헌으로새판짜야...",
@@ -6001,7 +6000,8 @@
   "\"모교향한오랜헌신\"…황은숙이화여대약학대학장,'약대건축기금'...",
   "솔리다임상장설에소환된'호남반도체'",
   "울릉출향인·친인척여객선운임지원길열린다…박기호군의원조례...",
-  "野'김현지주례'지역난방공사사장임명질타"
+  "野'김현지주례'지역난방공사사장임명질타",
+  "[2026국감]전력공급책임놓고여야충돌"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-10-19T18:00:34.740691+09:00",
    "사장 주례 지역난방공사 김현지 임명 질타"
+  ],
+  [
+   "2026-10-19T18:10:14.733232+09:00",
+   "충돌 여야 놓고 공급 전력 책임"
   ]
  ],
- "last_run": "2026-10-19T18:00:46.720873+09:00",
+ "last_run": "2026-10-19T18:10:29.092898+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6460,6 +6464,7 @@
   "ttlnews.com": "ttlnews.com",
   "knnews.co.kr": "경남신문",
   "nextdaily.co.kr": "넥스트데일리",
-  "it-b.co.kr": "아이티비즈"
+  "it-b.co.kr": "아이티비즈",
+  "ikld.kr": "국토일보"
  }
 }
