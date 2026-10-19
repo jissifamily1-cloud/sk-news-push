@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=750718",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078230",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=618474",
-  "http://www.newsprime.co.kr/news/article.html?no=750717",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131319550340354",
-  "https://www.nocutnews.co.kr/news/6590612",
   "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166733",
   "https://www.newscj.com/news/articleView.html?idxno=3439868",
   "https://www.kyeonggi.com/article/20261013580230",
@@ -2999,15 +2993,15 @@
   "https://www.tfmedia.co.kr/news/article.html?no=208145",
   "https://www.yna.co.kr/view/AKR20261019090751004?input=1195m",
   "https://www.kbsm.net/news/view.php?idx=538216",
-  "https://news.tf.co.kr/read/life/2378040.htm"
+  "https://news.tf.co.kr/read/life/2378040.htm",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=121815",
+  "https://www.kbsm.net/news/view.php?idx=538070",
+  "https://www.hankookilbo.com/news/article/A2026101915270002682?did=NA",
+  "https://www.yna.co.kr/view/AKR20261019148200004?input=1195m",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1540951",
+  "https://www.tvreport.co.kr/entertainment/article/1084280/"
  ],
  "seen_titles": [
-  "[인터뷰]나명석프랜차이즈협회장\"규제보다진흥…남는장사의문제\"",
-  "[대상인사전망]임정배연임속임세령내년임기만료…주요경영진...",
-  "삼성'급식일감몰아주기'과징금소송대법원행",
-  "[2026국감]GS25벤더거래에'통행세'의혹…공정위,위법여부살핀다",
-  "‘원팀시너지냐,독과점이냐’…한화,KAI인수전공방",
-  "UN지정테러단체에590만원송금…불법체류외국인구속송치",
   "서울시醫\"소아응급센터압수수색정당화경찰청장직무대행유감\"",
   "\"전쟁고아돕는다\"며테러자금모금…우즈벡인구속",
   "인천동물병원장마약류‘셀프투약’혐의…빈약병·주사기180여개...",
@@ -6001,10 +5995,16 @@
   "[2026국감]공정위제재후에도담합한기업65곳…한샘20건으로1위",
   "서울공소청장\"한동훈수사,국민눈높이에안맞는부분있다\"(종합)",
   "공소청첫국감…\"이게개혁인가\"·\"기능축소긍정효과\"여야공방",
-  "[2026국감]\"노태우비자금,새로운범죄찾으면몰수가능성\""
+  "[2026국감]\"노태우비자금,새로운범죄찾으면몰수가능성\"",
+  "한샘·현대리바트·동방등,'가구·물류업계반복적담합행위'논란",
+  "담합7년간3건이상적발사업자65곳...\"걸리고또걸려\"",
+  "\"민생국감\"이라면서툭하면파행…\"상시국감체제도입해야\"",
+  "'통일교자금105억횡령혐의'한학자총재,내달1심재판시작",
+  "이준영의WE(57회)",
+  "'닥터X'대박났는데...'김지원역'日여배우,마약혐의→자택압수수..."
  ],
  "recent_sigs": [],
- "last_run": "2026-10-19T17:01:10.155524+09:00",
+ "last_run": "2026-10-19T17:10:52.659573+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
