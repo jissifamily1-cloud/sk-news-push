@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193155",
-  "http://www.iminju.net/news/articleView.html?idxno=170776",
-  "https://news.ifm.kr/news/articleView.html?idxno=481577",
-  "https://www.edaily.co.kr/News/Read?newsId=04149206645612592&mediaCodeNo=257",
-  "https://www.pressian.com/pages/articles/2026101317140022408",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601125",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316550&inflow=N",
-  "https://news.tf.co.kr/read/economy/2375867.htm",
-  "https://www.mk.co.kr/article/12174706",
   "https://www.dailyt.co.kr/newsView/dlt202610130015",
   "https://www.joongang.co.kr/article/25469388",
   "https://www.newsis.com/view/NISX20261013_0003824171",
@@ -2999,18 +2990,18 @@
   "https://www.news1.kr/economy/trend/6325356",
   "https://www.yna.co.kr/view/AKR20261020036900002?input=1195m",
   "https://www.nocutnews.co.kr/news/6593927",
-  "https://www.dailian.co.kr/news/view/1703471/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1703471/?sc=Naver",
+  "https://www.ekn.kr/web/view.php?key=20261020028588343",
+  "https://www.ekn.kr/web/view.php?key=20261020023568325",
+  "https://www.ajunews.com/view/20261020090942458",
+  "https://biz.chosun.com/industry/business-venture/2026/10/20/5EPN3HJOBZBBTPIFT2JCZIVIMM/",
+  "https://view.asiae.co.kr/article/2026102009412767476",
+  "https://view.asiae.co.kr/article/2026102008505016040",
+  "https://www.newsis.com/view/NISX20261020_0003832842",
+  "https://www.insight.co.kr/news/578369",
+  "https://www.ajunews.com/view/20261020084820354"
  ],
  "seen_titles": [
-  "[2026국감]송명준HD현대오일뱅크대표,가격담합의혹에\"심의성실...",
-  "與,한동훈때리기집중…타격은'글쎄'",
-  "경기남부경찰청,'장모살해·아내납치사건'감찰착수",
-  "[단독]9년간이어진보툴리눔톡신균주전쟁,내년1월결론…핵심쟁...",
-  "중대재해사망사고내부자료노무사에유출의혹…노동부특사경입건",
-  "위닉스,한국학중앙연구원과'사계절생활의지혜'공공캠페인",
-  "'주병기→한성숙→조희대'…정쟁에'정책뒷전'정무위",
-  "KAI노조,한화인수시도중단촉구'청와대상경투쟁'예고",
-  "\"재벌세습이대한민국착취\"인식에변함없다는공정위원장[사설]",
   "“귀신보다무서운CJ계약서”…민병덕,5조공룡‘신비아파트갑질...",
   "주택가서“살려달라”발버둥쳤지만…‘장모살해·아내납치’CCTV엔",
   "트럼프유세에서오마르의원거듭비판\"재앙그자체\"",
@@ -6001,7 +5992,16 @@
   "3분기선불식할부거래업체2곳폐업…등록업체75곳으로줄어",
   "3분기선불식할부거래업체75개사…1곳신규등록·2곳폐업",
   "[단독]'안세영황금기에이게무슨…'충격의셔틀콕게이트,전국대감...",
-  "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?"
+  "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?",
+  "[기자의눈]대한항공의‘고삐풀린표값’은어디에있나",
+  "[2026국감]민주박상혁,‘대한항공추가제재’요구…운임인상수치...",
+  "선불식할부거래업체75곳으로감소…아가페라이프·대노복지사업단폐...",
+  "“과징금매겨도보상은0원”인쇄업계,용지담합피해회복촉구",
+  "중소인쇄사업자,국회서인쇄용지가격담합피해회복대책마련촉구",
+  "3분기선불식할부거래업체75개사…2곳폐업",
+  "3분기선불식할부업체75개로감소…2곳폐업·1곳신규",
+  "\"의료인범죄자취급,진료도중단돼\"...아주대소아응급실압수수색...",
+  "3분기산재사망자366명'역대최저'…건설업감소에도제조업은증가"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유지비 호화 묘역 출처도 비자금 노태우 수사 사정권 550평"
   ]
  ],
- "last_run": "2026-10-20T10:01:17.115970+09:00",
+ "last_run": "2026-10-20T10:10:52.733096+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
