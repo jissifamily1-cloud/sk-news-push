@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12088894",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193197",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1104535",
   "https://www.topstarnews.net/news/articleView.html?idxno=16245815",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684488",
   "https://www.kyeonggi.com/article/20261013580556",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/local/busan-gyeongnam/6325646",
   "https://www.m-economynews.com/news/article.html?no=71882",
   "https://www.sedaily.com/article/20103710",
-  "https://www.hankookilbo.com/news/article/A2026102010170004920?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026102010170004920?did=NA",
+  "https://www.joongang.co.kr/article/25471206",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337845",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276861&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "[사설]대기업이대한민국착취한다는주병기위원장의위험한기업관",
-  "[2026국감]김창수GS칼텍스부사장\"주유소거래관행개선…표준계약...",
-  "충북도의사회\"소아응급센터압수수색규탄…필수의료위축우려\"",
   "구더기부사관아내살인사건가해자,무죄주장속항소심서무기징역...",
   "복지위식약처국감서‘제넨셀의혹’두고여야충돌…“신뢰무너져...",
   "장모살해·아내납치혐의20대구속…“증거인멸·도망염려”",
@@ -6001,7 +5998,10 @@
   "해외발신전화가'010'으로둔갑…보이스피싱중계기조직원무더기검...",
   "해외피싱전화‘010’으로조작...중계기밀수·운영조직101명검거",
   "‘23명사망’아리셀참사박순관대표징역4년확정...‘경영책임자...",
-  "배수구유심조각에덜미잡힌'010번호조작'피싱,101명검거"
+  "배수구유심조각에덜미잡힌'010번호조작'피싱,101명검거",
+  "[단독]‘쿠팡보고서’근거제공싱크탱크,“한국정부,美기업에韓...",
+  "검찰\"故양회동CCTV,조선일보기자에게준적없다\"",
+  "중수청이성공하기위한조건6가지"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유지비 호화 묘역 출처도 비자금 노태우 수사 사정권 550평"
   ]
  ],
- "last_run": "2026-10-20T11:40:53.007790+09:00",
+ "last_run": "2026-10-20T11:50:53.235254+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
