@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/society/accident/2026/10/13/20261013500299?wlog_tag3=naver",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1334061",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16246015",
-  "http://www.phmbc.co.kr/www/news/desk_news?idx=204936",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037500",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795956&plink=ORI&cooper=NAVER",
   "https://www.donga.com/news/Politics/article/all/20261013/134836157/1",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1540405",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/local/jeonbuk/6325806",
   "https://www.nocutnews.co.kr/news/6594122",
   "https://www.dailian.co.kr/news/view/1703651/?sc=Naver",
-  "https://www.news1.kr/politics/assembly/6325750"
+  "https://www.news1.kr/politics/assembly/6325750",
+  "https://sports.donga.com/region/article/all/20261020/134873828/1",
+  "https://news.koreanbar.or.kr/news/articleView.html?idxno=36236",
+  "https://www.ajunews.com/view/20261020113527109",
+  "https://www.ngonews.kr/news/articleView.html?idxno=241009",
+  "https://www.news1.kr/society/court-prosecution/6325838"
  ],
  "seen_titles": [
-  "“맞을까무서워혼인사실도숨겼는데”…장모살해사건유족들분통",
-  "[국감]\"사망6개월만에압수수색\"…W진병원유족,재수사촉구",
-  "송파장모살해·아내납치20대구속…가족협박정황",
-  "\"가습기살균제배상기한연장하고구제확대해야\"",
-  "경기남북부경찰청국감서아주대병원소아응급센터상대로한압수수색...",
   "[단독]'장모살해범'왜못막았나…내부감찰착수",
   "“이화영이판사판…입열면李가불리해질거라생각”[정치를부탁해...",
   "미,소말리아출신민주당의원압수수색\"정적공격\"",
@@ -6001,7 +5996,12 @@
   "전북교육감개표누락유감…김상곤전주법원장\"기대못미쳐송구\"",
   "해외피싱전화'010'으로둔갑…중계기밀반입조직등101명적발",
   "선관위특검,월200만원대'공추비'예산불법전용정황포착",
-  "野\"응급실은권력특권공간아냐…김민석,직접사과해야\""
+  "野\"응급실은권력특권공간아냐…김민석,직접사과해야\"",
+  "인천대학교,드론·코딩·AI체험으로‘다문화가족과학교육기회’확...",
+  "국감서'위자료현실화'필요성제기…제도개선논의탄력",
+  "[단독]\"자료확보해달라\"요청에도묵살…공정위,조민업체조사실책...",
+  "특검팀,선관위예산불법전용정황포착···월200만원대활동비지...",
+  "'선관위월200만원대부당활동비'…특검,예산불법전용정황포착"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "유가담합 현대오일뱅크 재판서 충돌 증인신문 신경전"
   ]
  ],
- "last_run": "2026-10-20T13:40:59.491547+09:00",
+ "last_run": "2026-10-20T13:50:56.830849+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
