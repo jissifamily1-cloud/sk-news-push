@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445430",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407915",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438259",
-  "https://biz.heraldcorp.com/article/10896424",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=278432",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077763",
   "https://www.news1.kr/industry/general-industry/6313759",
@@ -2999,13 +2995,13 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1416619",
   "https://www.joongdo.co.kr/web/view.php?key=20260825010007102",
   "https://m.skyedaily.com/news_view.html?ID=313266",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079322"
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079322",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=870240",
+  "https://www.todayeconomic.com/news/article.html?no=32508",
+  "https://www.newscj.com/news/articleView.html?idxno=3441732",
+  "http://www.newstomato.com/ReadNews.aspx?no=1317351&inflow=N"
  ],
  "seen_titles": [
-  "[최태원재산분할]SK지분판이유…재상고가바꾼9440억셈법",
-  "[최태원재산분할]2440억원만남긴재상고…실트론·분할비율쟁점",
-  "[20263Q리그테이블][DCM]회사채줄이는SK…떠밀리는SK증권",
-  "최태원,EBS'위대한수업'강단에…\"AI시대새로운자본주의필요\"",
   "\"반도체환경난제해결하겠다\"…SK하이닉스'AI환경연구소'설립추진",
   "SK최태원,EBS'위대한수업'뜬다…청년들과AI시대생존전략논의",
   "최태원,EBS‘위대한수업’강연자로…AI시대생존전략말한다",
@@ -6001,7 +5997,11 @@
   "리밸런싱성과낸SK…올해인사'안정'무게",
   "호남권반도체클러스터조성협의SK하이닉스경영진전남광주통합특...",
   "\"주주몫덜어총수몫늘리는꼴\"…'SK,솔리다임상장추진'비판여론...",
-  "김현정의원\"솔리다임중복상장주주가치훼손우려\""
+  "김현정의원\"솔리다임중복상장주주가치훼손우려\"",
+  "충북수출분기120억달러첫돌파…3분기'역대최대'",
+  "SK㈜,솔리다임몸값뛰기전먼저지분확보…\"해외우회중복상장?\"과...",
+  "[2026국감]솔리다임나스닥상장추진…\"SK하닉이익·사업,그대로옮...",
+  "솔리다임은미국행,주주보호는제자리…중복상장규제의빈틈"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-10-20T15:20:14.457338+09:00",
    "인사 올해 성과 리밸런싱 무게 안정"
+  ],
+  [
+   "2026-10-20T15:50:13.748284+09:00",
+   "주주 규제의 중복상장 솔리다임은 미국행 제자리 보호는 빈틈"
   ]
  ],
- "last_run": "2026-10-20T15:40:26.163269+09:00",
+ "last_run": "2026-10-20T15:50:27.519202+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
