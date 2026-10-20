@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253944",
-  "https://www.itbiznews.com/news/articleView.html?idxno=228304",
-  "https://zdnet.co.kr/view/?no=20261019092326",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073313",
-  "https://www.insight.co.kr/news/578276",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073137",
-  "https://www.huffingtonpost.kr/article/261318",
-  "https://www.bloter.net/news/articleView.html?idxno=675567",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005942145",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302865",
   "https://view.asiae.co.kr/article/2026101915072356169",
   "https://www.fnnews.com/news/202610191414508347",
   "https://www.newscj.com/news/articleView.html?idxno=3441346",
@@ -2999,19 +2989,19 @@
   "https://www.mt.co.kr/industry/2026/10/21/2026102017480647075",
   "https://www.sedaily.com/article/20104050",
   "https://www.munhwa.com/article/11624946",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210004&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210004&t=NN",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6859483_37012.html",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97402",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=55475",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81846",
+  "https://www.rcast.co.kr/news/articleView.html?idxno=31853",
+  "https://www.news1.kr/world/international-economy/6326564",
+  "https://www.hankyung.com/article/2026102036456",
+  "https://www.hankyung.com/article/2026102034566",
+  "https://www.hankyung.com/article/2026102031886",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000075238"
  ],
  "seen_titles": [
-  "SK하이닉스,2조원규모협력사금융지원…반도체공급망강화",
-  "SK하이닉스,2조원규모협력사보증프로그램가동…반도체소부장...",
-  "SK하이닉스,소부장지원2조원'수출공급망강화보증'출범",
-  "SK하이닉스,정부·금융권과반도체소부장2조원지원'맞손'",
-  "'삼전닉스'급락에도AI사이클이어진다,NH아문디\"메모리에서'소부장...",
-  "SK하닉,2兆규모‘수출공급망강화보증’출범…소부장협력사지원",
-  "2조들여협력사살린다…SK하이닉스,K-반도체'뿌리'굳히기",
-  "SK하이닉스,2조원규모‘수출공급망강화보증’출범…소부장자금난...",
-  "SK하이닉스,'수출공급망강화보증'출범…2조원규모",
-  "SK하이닉스,소부장에2조원금융지원...정부·무보·4대은행과맞손",
   "2조‘실탄’푼SK하이닉스,소부장‘뿌리’키운다",
   "SK하이닉스,정부·은행과손잡고반도체소부장에2조원금융지원",
   "SK하이닉스협력사에2조상생금융…정부\"반도체분야5조이상확대\"",
@@ -6001,7 +5991,17 @@
   "[알림]'에너지어벤져스'어셈블,일주일앞으로…\"AI대전환과안보\"",
   "메모리품귀에中‘중고D램’재활용성행…저가IT기기‘먹통’우...",
   "‘금감원이전시이직고려85.6%’…이찬진“금감원은현장에있어야...",
-  "실적좋았는데주가는왜?…美항공우주·방산주희비[美증시특징주]"
+  "실적좋았는데주가는왜?…美항공우주·방산주희비[美증시특징주]",
+  "한국증시가'현금인출기'?‥외국인매도폭탄",
+  "뉴욕증시,다우1%상승·나스닥약보합…스페이스X시간외급등",
+  "[이넷뉴스브랜드평판]한국전력,태양광에너지상장기업10월1위...한...",
+  "엘앤에프,'국내셀3사모두'고객사로품을듯",
+  "키움증권,'연금저축연말혜택페스타'진행外",
+  "美반도체주다시약세…마이크론0.98%·SK하이닉스ADR2.16%↓",
+  "470만원황제주가180만원대로'와르르'…AI수혜주의배신[종목+]",
+  "코스피서'역대급매물'던진외인…그와중에담은종목은[분석+]",
+  "\"국평17억인데싸다고?\"…서울도아닌데4만5000명몰렸다[주간이집]",
+  "대형주실적호조에다우지수529포인트급등,뉴욕증시혼조마감"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,41 @@
   [
    "2026-10-21T06:31:16.481135+09:00",
    "실적 희비 항공우주 좋았는데 방산주 주가는"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "상장기업 태양광에너지 1위 10월 한국전력"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "품을 셀3사 국내 모두 엘앤에프 고객사로"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "연말혜택 진행 연금저축 키움증권 페스타"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "ADR 다시 약세 반도체주 마이크론 SK하이닉스"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "와르르 180만원대로 배신 황제주가 470만원 수혜주의 AI"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "매물 코스피서 던진 역대급 외인 와중에 종목은 담은"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "17억인데 싸다고 몰렸다 서울도 국평 4만5000명 아닌데"
+  ],
+  [
+   "2026-10-21T06:41:06.142308+09:00",
+   "증시 다우지수 급등 529포인트 실적 뉴욕 대형주 호조에 혼조 마감"
   ]
  ],
- "last_run": "2026-10-21T06:31:38.028583+09:00",
+ "last_run": "2026-10-21T06:41:30.102689+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
