@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12175129",
-  "https://www.joongang.co.kr/article/25469557",
-  "https://www.natv.go.kr/natv/news/newsView.do?newsId=514398",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=615006",
-  "https://view.asiae.co.kr/article/2026101322345246493",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872533",
-  "https://www.imaeil.com/page/view/2026101408284581370",
   "https://www.ytn.co.kr/_ln/0103_202610140829072054",
   "https://www.m-economynews.com/news/article.html?no=71629",
   "https://www.nocutnews.co.kr/news/6591026",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20261020146000064?input=1195m",
   "https://www.newstopkorea.com/news/articleView.html?idxno=48323",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073943",
-  "https://www.pressian.com/pages/articles/2026102016514634866"
+  "https://www.pressian.com/pages/articles/2026102016514634866",
+  "https://www.yna.co.kr/view/AKR20261020151200052?input=1195m",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215338",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043791",
+  "http://www.jeonmin.co.kr/news/articleView.html?idxno=448908",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806605&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/local/busan-gyeongnam/6326290",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000555984"
  ],
  "seen_titles": [
-  "‘친윤’딱지에임은정감찰까지…김지용,중수청장문턱서여권시험...",
-  "“딸숨져가던21분CCTV없었다”…‘양재웅병원’유족의분노",
-  "정무위국감,'개인정보유출·가습기살균제피해보상'도마",
-  "[교복입찰담합]\"이번엔너,다음엔나\"학교나눠먹기…교복입찰짬...",
-  "[기자수첩]국감단골손님쿠팡,해명은있고책임은없다",
-  "유동수정무위원장,사이버보안체계·개인정보보호강화주문",
-  "\"딸숨져가던21분CCTV사라졌다\"…양재웅병원유족의절규",
   "'인천흉기난동'...양손에흉기묶고무차별칼부림[뉴스UP]",
   "가습기살균제피해재심사평균457일...피해자들‘기약없는기다림’",
   "경찰,'가족연계회사에100억자문료'前LG엔솔사장배임수사",
@@ -6001,7 +5994,14 @@
   "충북경찰청국감서'아동성매매'최영중사건늑장수사도마",
   "리네아·NBH,코스모로보틱스투자로'600억'벌었다",
   "국힘\"응급실순서,권력아닌위중도가정하는것\"",
-  "금속노조\"GGM부당노동행위책임자처벌해야\"…청와대앞기자회견"
+  "금속노조\"GGM부당노동행위책임자처벌해야\"…청와대앞기자회견",
+  "KAI노조,한화인수저지2차상경투쟁…\"정부결단촉구\"",
+  "공정위\"3분기선불식할부업체75개사…계약전세부사항확인해야\"",
+  "\"의료진엔압수수색,권력자엔관대\"…국힘,정부·여당비판",
+  "전주지법국감서법관비위·선거관리부실도마",
+  "[D리포트]\"배수구에유심무더기발견\"…해외피싱번호'010'변작한조...",
+  "주진우\"정이한자작극알고도지켜본수사기관…유권자속이는데협조...",
+  "특검,선관위‘월200만원대활동비’예산불법전용정황…압수수색..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가담합 현대오일뱅크 재판서 충돌 증인신문 신경전"
   ]
  ],
- "last_run": "2026-10-20T17:10:59.447734+09:00",
+ "last_run": "2026-10-20T17:20:57.162018+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
