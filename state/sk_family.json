@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2007406",
   "https://www.mk.co.kr/article/12156751",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277332",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=600571",
@@ -2999,10 +2998,10 @@
   "https://www.namdonews.com/news/articleView.html?idxno=926570",
   "https://www.joongangenews.com/news/articleView.html?idxno=556358",
   "https://view.asiae.co.kr/article/2026102008335813997",
-  "https://www.asiatime.co.kr/article/20261020500038"
+  "https://www.asiatime.co.kr/article/20261020500038",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71687"
  ],
  "seen_titles": [
-  "IPARK현대산업개발,추석연휴안전사고예방나서..CEO현장안전점검",
   "충주시새마을회,취약계층에미끄럼방지패드설치",
   "[건설업계동향]GS건설ㆍ현대엔지니어링ㆍIPARK현대산업개발(9.21)",
   "IPARK현대산업개발,추석앞두고CEO주관현장안전점검실시",
@@ -6001,7 +6000,8 @@
   "[국감]한전,직원개인정보유출사과",
   "노태우'보통사람'무색한550평초호화묘역…수억원대유지비출처는...",
   "\"이재용·최태원도제쳤다\"AI타고자산8배폭증…단숨에아시아최고...",
-  "550평'노태우호화묘역'유지에수억원…비용출처는“깜깜”"
+  "550평'노태우호화묘역'유지에수억원…비용출처는“깜깜”",
+  "[독점인터뷰]최태원SK그룹회장겸대한상공회의소회장"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-10-20T08:30:23.140202+09:00",
    "초호화 보통사람 출처는 노태우 유지비 무색한 수억원대 550평 묘역"
+  ],
+  [
+   "2026-10-20T09:10:13.697844+09:00",
+   "대한상공회의소 회장"
   ]
  ],
- "last_run": "2026-10-20T09:00:42.030823+09:00",
+ "last_run": "2026-10-20T09:10:26.582701+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
