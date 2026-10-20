@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02072966645614560&mediaCodeNo=257",
-  "https://www.segye.com/newsView/20261019504002?OutUrl=naver",
-  "https://www.newsis.com/view/NISI20261019_0002266724",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=65974",
-  "https://www.etoday.co.kr/news/view/2637093",
-  "https://magazine.hankyung.com/business/article/202610199363b",
-  "https://biz.heraldcorp.com/article/10906460",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439807",
-  "https://www.edaily.co.kr/News/Read?newsId=02086086645614560&mediaCodeNo=257",
-  "https://magazine.hankyung.com/business/article/202610141099b",
-  "https://www.ilemonde.com/news/articleView.html?idxno=30812",
   "https://biz.sbs.co.kr/article_hub/20000340662?division=NAVER",
   "https://m.sports.naver.com/basketball/article/065/0000303149",
   "https://sports.khan.co.kr/article/202610190800006?pt=nv",
@@ -2999,20 +2988,20 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=449791",
   "https://www.wikitree.co.kr/articles/1167663",
   "http://www.inews24.com/view/2016575",
-  "https://www.greened.kr/news/articleView.html?idxno=352413"
+  "https://www.greened.kr/news/articleView.html?idxno=352413",
+  "http://www.inews24.com/view/2016942",
+  "http://www.gjdream.com/news/articleView.html?idxno=673576",
+  "https://kpenews.com/View.aspx?No=4271190",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137721",
+  "https://www.fnnews.com/news/202610201347068631",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4113475",
+  "https://www.m-economynews.com/news/article.html?no=71893",
+  "https://www.newspim.com/news/view/20261020000693",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16252365",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136599",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=233388"
  ],
  "seen_titles": [
-  "SK하이닉스임원35.5%늘때현대차·LG전자는줄었다",
-  "WSJ경고\"AI과잉투자,과거와다르지않다\"",
-  "美블룸버그·잭스도솔리다임상장에경고음…SK하이닉스주주몫줄어...",
-  "100대기업임원승진율0.83%'바늘구멍'…삼성전자임원1108명최다",
-  "[오늘의증시]美AI·반도체급락쇼크에…코스피다시위기감고조",
-  "\"2028년불황까지주가에반영…반도체살때\"",
-  "하나證“삼성전자·SK하이닉스,실적눈높이보다메모리가격이중요…...",
-  "[코스피·코스닥,대우건설위드텍쎄노텍키움증권신세계I&C제넥신동...",
-  "\"지난주외국인은반도체바벨전략…개인은2차전지저가매수\"",
-  "[마켓뷰]코스피,반등했지만다시시험대로…美증시동반하락",
-  "삼성전자·SK하이닉스,폭락장속엇갈린전망…딥시크충격넘어반등...",
   "삼전닉스,외국인매도에'와르르'···국민연금손실에딥시크변수까...",
   "\"반도체주가,오지않은2028년다운사이클선반영…비중확대할때\"",
   "국민연금도‘반도체쇼크’…100일만에182조원평가손실",
@@ -6001,7 +5990,18 @@
   "마이크론대만노조22일부터파업,삼성전자SK하이닉스수준의성과급...",
   "[단독]리노공업13차노사교섭결렬…일본·대만에넘어간물량,되찾을...",
   "[아이포럼2026]\"2035년까지15GW\"⋯SKT가그리는AIDC미래는",
-  "뷰노,딥카스평가지연에313억유증일정연기…262억CB상환재원'변..."
+  "뷰노,딥카스평가지연에313억유증일정연기…262억CB상환재원'변...",
+  "청주시기업간상생협력본격화…지역경제도약힘모은다",
+  "전남광주반도체투자,지역산업생태계구축에경제계힘보태",
+  "[데스크칼럼]솔리다임상장,SK하이닉스는주주몫부터밝혀야",
+  "하나은행·SK하이닉스,반도체소부장생태계강화…협력사성장기반...",
+  "전기·전선주동반하락...AI인프라투자수익성우려[종목NOW]",
+  "키움증권,연금저축연말혜택페스타진행",
+  "엑셀리스,평택에575억투자…美생산일부장비국내생산전환",
+  "'메가프로젝트뒷받침'전남광주반도체포럼공식출범",
+  "프로농구오늘(20일)경기일정…서울SKVS안양정관장,중계채널→현...",
+  "스페이스X의美이동통신진출시동…韓통신3사와경쟁하려면'산넘...",
+  "SK스퀘어5.19%하락…NAV할인율과주주환원변수"
  ],
  "recent_sigs": [
   [
@@ -6991,9 +6991,21 @@
   [
    "2026-10-20T14:11:04.978353+09:00",
    "일정 연기 313억 CB 262억 상환재원 뷰노 유증 평가 지연에 딥카스"
+  ],
+  [
+   "2026-10-20T14:16:31.160797+09:00",
+   "20일 채널 서울 VS 일정 중계 안양 경기 정관장 프로농구"
+  ],
+  [
+   "2026-10-20T14:16:31.160797+09:00",
+   "이동통신 시동 3사와 경쟁하려면 스페이스X의 통신 진출"
+  ],
+  [
+   "2026-10-20T14:16:31.160797+09:00",
+   "하락 SK스퀘어 주주환원 할인율과 변수 NAV"
   ]
  ],
- "last_run": "2026-10-20T14:11:26.869707+09:00",
+ "last_run": "2026-10-20T14:16:42.936144+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
