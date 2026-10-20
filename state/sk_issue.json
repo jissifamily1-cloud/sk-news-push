@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12322919?influxDiv=NAVER",
-  "https://www.chosun.com/national/court_law/2026/10/14/6KVRQC77YJE4ZAT63EAHHJCTPE/",
   "https://www.news1.kr/society/court-prosecution/6319592",
   "https://view.asiae.co.kr/article/2026101411340677272",
   "https://daily.hankooki.com/news/articleView.html?idxno=1414632",
@@ -2999,11 +2997,11 @@
   "https://jejumbc.com/NewsArticle/868522",
   "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261020&SEQUENCE=4206",
   "http://andongmbc.co.kr/adboard/NewsView85352",
-  "http://andongmbc.co.kr/adboard/NewsView85355"
+  "http://andongmbc.co.kr/adboard/NewsView85355",
+  "https://www.segye.com/newsView/20261021503484?OutUrl=naver",
+  "https://www.edaily.co.kr/News/Read?newsId=02053286645615216&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "\"딸숨져가던21분CCTV사라져\"…양재웅병원사망유족,경찰부실수사...",
-  "[속보]선관위특검,중앙선관위압수수색...선거물품업체유착정황...",
   "선관위-투표소물품업체50억상당유착정황…특검압수수색",
   "선관위특검,'50억선거물품사업유착의혹'중앙선관위압수수색",
   "박완수경남도지사경찰조사두고지역정치권공방확산",
@@ -6001,10 +5999,12 @@
   "경찰,태양광업체선거법위반의혹압수수색",
   "\"여당편파·부실수사\"‥충북경찰국감집중포화",
   "라]경북경찰청국감서권기창안동시장신속수사촉구",
-  "[R]경북국감'행정통합·신공항'질타..'안동시장수사'촉구"
+  "[R]경북국감'행정통합·신공항'질타..'안동시장수사'촉구",
+  "미국기업공정위과징금,퀄컴·구글·쿠팡3곳에96.5%집중",
+  "호통끝에칼빼들까…쿠팡·배민·GS25또국감달군다"
  ],
  "recent_sigs": [],
- "last_run": "2026-10-21T06:01:18.299228+09:00",
+ "last_run": "2026-10-21T06:10:59.652317+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
