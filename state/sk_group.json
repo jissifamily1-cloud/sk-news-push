@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/blockchain/424182",
-  "https://www.news2day.co.kr/article/20261019500125",
-  "https://www.hani.co.kr/arti/economy/finance/1282759.html",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=266867",
-  "https://www.dt.co.kr/article/12089827",
   "https://www.hankyung.com/article/2026101905267",
   "https://www.globale.co.kr/news/articleView.html?idxno=41102",
   "https://www.chosun.com/economy/economy_general/2026/10/19/IX2LZS6LYFDFZP3TO7R4MWZS3U/",
@@ -2999,14 +2994,14 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=323010",
   "https://www.thepublic.kr/news/articleView.html?idxno=323027",
   "https://www.hankyung.com/article/2026102042507",
-  "https://www.thepublic.kr/news/articleView.html?idxno=323029"
+  "https://www.thepublic.kr/news/articleView.html?idxno=323029",
+  "http://www.osen.co.kr/article/G1112895613",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=233503",
+  "https://www.insidevina.com/news/articleView.html?idxno=44306",
+  "https://www.koreajoongangdaily.com/business/from-boon-to-burden-ai-spending-woes-leave-kospi-among-worstperforming-major-indexes/12926660",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690445"
  ],
  "seen_titles": [
-  "삼성·SK·현대차·LG2027년인사'설(說)'…판흔들기보다실속·기술...",
-  "환노위,대유위니아박영우동행명령의결…野\"'호남산단'삼성·SK도불...",
-  "레버리지ETF‘졸속상장’논란…이찬진“상장일정맞추려심사서둘...",
-  "코스피,3%급락출발딛고‘5700선회복’…코스닥도상승전환",
-  "송옥란이천시의원,SK하이닉스방류수수질공동검증대책촉구",
   "안철수\"솔리다임상장,SK총수와계열사가편취하도록설계된'슈킹컴...",
   "\"저같으면지금투자안합니다\"…2달전지금주식예견한'이사람'",
   "\"실적은최고인데주가는폭락\"…삼성전자·SK하이닉스반등시점은",
@@ -6001,7 +5996,12 @@
   "'데드캣바운스'였나?코스피,반등이틀만에3.73%↓…삼전2.98%↓,하...",
   "청주시,SK로일원3㎞도시숲준공…58억6000만원투입",
   "\"4억넣었는데2억이…\"결혼앞둔30대개미'피눈물'",
-  "청주시,SK하이닉스등16개기관·단체와상생협약"
+  "청주시,SK하이닉스등16개기관·단체와상생협약",
+  "‘광주가자!’김도영,데뷔첫PS그랜드슬램폭발…준PO3홈런활약,...",
+  "KB국민은행,반도체협력사금융지원확대",
+  "하나은행,용인반도체클러스터서중소·중견기업상생금융물꼬",
+  "Fromboontoburden:AIspendingwoesleaveKospiamongworst-performi",
+  "전기끊길판…매각은‘첩첩산중’"
  ],
  "recent_sigs": [
   [
@@ -7203,9 +7203,21 @@
   [
    "2026-10-20T19:21:05.044399+09:00",
    "상생협약 단체와 기관 SK하이닉스 청주시 16개"
+  ],
+  [
+   "2026-10-20T19:31:11.060656+09:00",
+   "반도체 금융 용인 중견기업 중소 하나은행 클러스터서 물꼬 상생"
+  ],
+  [
+   "2026-10-20T19:31:11.060656+09:00",
+   "From Kospi to boon among woes worst leave burden performing spending AI"
+  ],
+  [
+   "2026-10-20T19:31:11.060656+09:00",
+   "끊길 매각은 첩첩산중 전기"
   ]
  ],
- "last_run": "2026-10-20T19:21:13.178806+09:00",
+ "last_run": "2026-10-20T19:31:22.593795+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
