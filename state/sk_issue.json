@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailymedi.com/news/news_view.php?wr_id=941405",
-  "https://www.sedaily.com/article/20101257",
-  "https://www.segye.com/newsView/20261013517782?OutUrl=naver",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610121734542440107334",
-  "https://www.wikitree.co.kr/articles/1165985",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274863&CMPT_CD=P0010",
-  "https://www.tfmedia.co.kr/news/article.html?no=207990",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=60613",
   "https://www.edaily.co.kr/News/Read?newsId=02437046645612920&mediaCodeNo=257",
   "http://kor.theasian.asia/archives/418442",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=666225",
@@ -2999,17 +2991,17 @@
   "https://news.mtn.co.kr/article/2026102015402639877",
   "http://www.4th.kr/news/articleView.html?idxno=2120074",
   "http://www.newsprime.co.kr/news/article.html?no=751676",
-  "https://www.khan.co.kr/article/202610201552001"
+  "https://www.khan.co.kr/article/202610201552001",
+  "https://www.mt.co.kr/society/2026/10/20/2026102014290752743",
+  "https://www.ppss.kr/news/articleView.html?idxno=315363",
+  "https://www.greened.kr/news/articleView.html?idxno=352489",
+  "https://www.fnnews.com/news/202610201547598779",
+  "https://www.edaily.co.kr/News/Read?newsId=04296806645614888&mediaCodeNo=257",
+  "https://www.news1.kr/local/daegu-gyeongbuk/6326134",
+  "https://www.joongdo.co.kr/web/view.php?key=20261020010005602",
+  "https://www.newsis.com/view/NISX20261020_0003833669"
  ],
  "seen_titles": [
-  "﻿소아응급센터압수수색후폭풍…'사직·지정반납'",
-  "“딸숨져가던CCTV사라졌다”양재웅병원사망자母분통",
-  "‘공(空)수처’돼가는공수처[김태훈의의미또는재미]",
-  "[더벨][PolicyRadar]정유4사가격담합,경영진관여했나",
-  "오늘김지용중수청장인사청문회…여당의원들도'송곳검증'예고",
-  "한동훈이자초한3개의'사법리스크'",
-  "공정위과징금4천531억원징수유예…2023년이후15배불어",
-  "국세청국감,여·야가따로없었다…'세무조사남용·사각지대방치'질...",
   "\"딸숨져가던21분CCTV증발\"…'양재웅병원'유족폭로",
   "[동북아정세브리핑]중국군,AI드라마제작참여,중러북극협력확...",
   "[기획]정유사담합의혹에유통구조까지도마",
@@ -6001,7 +5993,15 @@
   "수은,'KAI매각'선그었지만…KAI노조\"정부명확한입장내놓아야\"",
   "[국감]황기연수은행장\"KAI매각계획없다\"..향후가능성엔여지",
   "GGM노사갈등장기화…시민사회,사장사퇴촉구",
-  "‘35만대생산’에묶인GGM···‘노사갈등’해법못찾는상생일자..."
+  "‘35만대생산’에묶인GGM···‘노사갈등’해법못찾는상생일자...",
+  "가습기살균제국가배상시작됐지만…피해자들\"신청기한늘려야\"",
+  "[기획]우승희영암군수,'찾아오는영암·살기좋은영암'승부수…관...",
+  "공정위추천·보증광고지침,금융상품적용범위는",
+  "서울중수청,'가맹점에이자장사의혹'명륜진사갈비본사사건배당",
+  "\"피해규모만5200억\"...인쇄업계,제지대기업담합피해구제촉구",
+  "\"휴대전화압수·약물검사안했다\"…경북경찰부실수사'질타'",
+  "충남경찰,공무원납품비리의혹받는계룡시청2차압수수색",
+  "국회행안위\"관계성범죄,경찰적극수사해야\"…대책시급"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가담합 현대오일뱅크 재판서 충돌 증인신문 신경전"
   ]
  ],
- "last_run": "2026-10-20T16:01:15.722366+09:00",
+ "last_run": "2026-10-20T16:10:53.987466+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
