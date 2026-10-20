@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261019000021",
-  "https://www.veritas-a.com/news/articleView.html?idxno=632408",
-  "https://www.sedaily.com/article/20103247",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7189535",
-  "https://www.newsis.com/view/NISX20261019_0003831522",
-  "https://www.munhwa.com/article/11624519",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=281138",
   "https://www.dailyt.co.kr/newsView/dlt202610190020",
   "http://www.nongaek.com/news/articleView.html?idxno=97161",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026102040591",
   "http://www.jndn.com/article.php?aid=1792488535441532003",
   "https://www.hankookilbo.com/news/article/A2026102015400002037?did=NA",
-  "https://www.dt.co.kr/article/12090218"
+  "https://www.dt.co.kr/article/12090218",
+  "https://www.hani.co.kr/arti/opinion/column/1283334.html",
+  "https://www.mk.co.kr/article/12180937",
+  "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026102000051&story_seq=0&soCode=114&socttSn=NS2026102000051&socttSeq=0",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440217",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200180&t=NN",
+  "https://biz.heraldcorp.com/article/10908699"
  ],
  "seen_titles": [
-  "NH아문디,'성장주도코리아펀드'1주년…\"알파내려면소부장\"",
-  "최태원\"20대로돌아간다면창업...사회문제해결에도전\"",
-  "[2026국감]이찬진\"'레버리지드러누워막았어야'발언,투자자경보...",
-  "[국감26]이찬진금감원장\"SK하이닉스솔리다임美상장,중복상장소...",
-  "반도체주춤해도...NH아문디운용\"AI사이클이제본격화...점진적우상향...",
-  "NH아문디운용,반도체로1년수익률85%…다음투자처'소부장'",
   "SK하이닉스,반도체소부장에2조원금융지원",
   "[국감26]'출시일정맞추려심사서둘렀다'…이찬진,단일종목레버리...",
   "이찬진“솔리다임,중복상장소지있어...SK하이닉스에우려사항전달...",
@@ -6001,25 +5995,15 @@
   "아마존,SMR12기건설…韓기업훈풍기대",
   "‘내구성저하’무안공항활주로재포장공사본격화",
   "'소득상위3%'연구직은52시간제예외…與,'초광역특구법'발의",
-  "\"단순시공넘어AI인프라솔루션으로\"…SK에코플랜트의체질전환[P..."
+  "\"단순시공넘어AI인프라솔루션으로\"…SK에코플랜트의체질전환[P...",
+  "AI시대,동인도회사의교훈[한겨레프리즘]",
+  "코어위브가남긴교훈…AI서열가르는새기준생겼다[글로벌인사이트...",
+  "국회산자위,구미방산·반도체기업시찰",
+  "[채권-마감]금리하락…반도체주하락에안전선호심리",
+  "'돈이녹아내렸다'…SK하닉2배베팅했다가'날벼락'",
+  "결국외환위기때까지왔다…삼성전자외국인지분율‘45.98%’로급감..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-20T12:51:02.297822+09:00",
-   "1320원대까지 우리경제의 부담 달러 환율 다른 떨어진"
-  ],
-  [
-   "2026-10-20T12:51:02.297822+09:00",
-   "Eight as Session Rise Ends Index Slide Chip Storage Shares"
-  ],
-  [
-   "2026-10-20T12:51:02.297822+09:00",
-   "거래대금이 만에 뛰어 3배로 하루 아마존 후드포"
-  ],
-  [
-   "2026-10-20T12:51:02.297822+09:00",
-   "65대 청주 가경 청약 특공 아이파크 훈풍에 후끈 SK하이닉스"
-  ],
   [
    "2026-10-20T13:01:17.379762+09:00",
    "올마이투어 여행이지 롯데관광개발 교원투어 모두투어"
@@ -7203,9 +7187,29 @@
   [
    "2026-10-20T18:41:57.824098+09:00",
    "단순 시공 체질 AI 솔루션으로 SK에코플랜트의 넘어 인프라"
+  ],
+  [
+   "2026-10-20T18:51:12.577346+09:00",
+   "기준 인사이트 교훈 코어위브가 글로벌 생겼다 남긴 AI서열 가르는"
+  ],
+  [
+   "2026-10-20T18:51:12.577346+09:00",
+   "산자위 반도체 기업 시찰 구미 방산 국회"
+  ],
+  [
+   "2026-10-20T18:51:12.577346+09:00",
+   "선호 심리 하락 안전 하락에 반도체주 금리"
+  ],
+  [
+   "2026-10-20T18:51:12.577346+09:00",
+   "돈이 날벼락 2배 SK하닉 베팅했다가 녹아내렸다"
+  ],
+  [
+   "2026-10-20T18:51:12.577346+09:00",
+   "지분율 급감 때까지 외국인 왔다 결국 외환위기 삼성전자"
   ]
  ],
- "last_run": "2026-10-20T18:42:19.956413+09:00",
+ "last_run": "2026-10-20T18:51:37.892994+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
