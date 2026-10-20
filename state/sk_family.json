@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.ifm.kr/news/articleView.html?idxno=481184",
-  "https://www.starnewskorea.com/business-life/2026/10/08/2026100815544136428",
   "https://www.jejudomin.co.kr/news/articleView.html?idxno=401051",
   "https://www.ziksir.com/news/articleView.html?idxno=148834",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=507737",
@@ -2999,11 +2997,11 @@
   "https://sports.hankooki.com/news/articleView.html?idxno=6940109",
   "https://www.bloter.net/news/articleView.html?idxno=676188",
   "https://www.edaily.co.kr/News/Read?newsId=02099206645615216&mediaCodeNo=257",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=766274"
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766274",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172419",
+  "https://www.newsis.com/view/NISX20261020_0003833835"
  ],
  "seen_titles": [
-  "EBS에최태원등판…12일'위대한수업'시즌6첫강연",
-  "최태원SK그룹회장,EBS'위대한수업'나선다…AI·새로운자본주의...",
   "최태원SK그룹회장,EBS'위대한수업'서AI시대새자본주의제시",
   "유해진자택앞시위·조희대선서거부·국감JYP[노컷네컷]",
   "최태원,EBS‘위대한수업’나선다…AI시대의새자본주의강의",
@@ -6001,7 +5999,9 @@
   "[건설소식]삼성물산건설부문·대우건설·호반그룹·현대건설·GS건설·...",
   "[박종면의물음표]SK최태원과델일가의주식거래",
   "신입채용줄면10년뒤숙련인력도부족…AI시대의역설",
-  "정의선현대차회장,올해지구7바퀴돌았다...글로벌생산거점챙기고..."
+  "정의선현대차회장,올해지구7바퀴돌았다...글로벌생산거점챙기고...",
+  "'확정없다'더니월가·워싱턴접수…'해외우회쪼개기'민낯[솔리다임...",
+  "SK선혜원에서공연감상…정구호'춘앵무'만난오페라"
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,17 @@
   [
    "2026-10-21T06:20:17.225973+09:00",
    "돌았다 지구 회장 글로벌 현대차 생산거점 7바퀴 챙기고 올해 정의선"
+  ],
+  [
+   "2026-10-21T06:40:15.848782+09:00",
+   "확정 접수 민낯 솔리다임 쪼개기 우회 워싱턴 해외 더니 월가 없다"
+  ],
+  [
+   "2026-10-21T06:40:15.848782+09:00",
+   "공연 춘앵무 정구호 오페라 만난 선혜원에서 감상"
   ]
  ],
- "last_run": "2026-10-21T06:30:37.351746+09:00",
+ "last_run": "2026-10-21T06:40:30.178380+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
