@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediawatch.kr/news/article.html?no=261113",
-  "https://www.greened.kr/news/articleView.html?idxno=350442",
   "https://www.ceoscoredaily.com/page/view/2026091812392183744",
   "https://www.ajunews.com/view/20260918132738620",
   "https://www.newsis.com/view/NISX20260918_0003795233",
@@ -2999,11 +2997,11 @@
   "https://www.newspost.kr/news/articleView.html?idxno=226520",
   "https://www.cnbizm.com/news/articleView.html?idxno=318553",
   "https://www.medipana.com/news/articleView.html?idxno=419667",
-  "https://www.edaily.co.kr/News/Read?newsId=03063526645614888&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03063526645614888&mediaCodeNo=257",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71694",
+  "https://www.kbmaeil.com/article/20261020500124"
  ],
  "seen_titles": [
-  "SK부회장3人하이닉스에동반합류",
-  "SK그룹전문경영인부회장단3인,SK하이닉스로전격이동",
   "SK부회장단3명,하이닉스로이동…반도체힘싣는다",
   "SK부회장3명,SK하이닉스로전격이동…배경은",
   "SK그룹핵심부회장3인,하이닉스집결…AI·반도체체질개선박차",
@@ -6001,7 +5999,9 @@
   "550평'노태우호화묘역'유지수억원…비용출처는?",
   "'550평'노태우묘역유지비논란…막대한비용출처는?",
   "경기도약마퇴본부심포지엄,'회복을돕는공간의힘'개최",
-  "“SK하이닉스,솔리다임상장멈춰라…고승범의장결단촉구”"
+  "“SK하이닉스,솔리다임상장멈춰라…고승범의장결단촉구”",
+  "[한일경제연대]\"정치가앞바퀴라면경제는뒷바퀴…결코후퇴없는'한...",
+  "머스크,미국어린이7200만명에14조원어치주식쏜다…한국에선어떨..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-10-20T10:00:29.561853+09:00",
    "병목 메모리"
+  ],
+  [
+   "2026-10-20T10:20:14.856367+09:00",
+   "주식 한국에선 쏜다 어린이 어떨 14조원어치 미국 7200만명에 머스크"
   ]
  ],
- "last_run": "2026-10-20T10:10:24.336000+09:00",
+ "last_run": "2026-10-20T10:20:30.428626+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
