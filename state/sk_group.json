@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=617231",
-  "https://biz.sbs.co.kr/article_hub/20000341010?division=NAVER",
-  "https://www.viva100.com/article/20261020500487",
-  "https://www.thelec.kr/news/articleView.html?idxno=63955",
-  "https://biz.heraldcorp.com/article/10908490",
   "https://www.livebiz.today/news/articleView.html?idxno=205743",
   "https://www.ggilbo.com/news/articleView.html?idxno=1187943",
   "https://en.yna.co.kr/view/AEN20261020004800320?input=2106m",
@@ -2999,14 +2994,14 @@
   "https://www.newstopkorea.com/news/articleView.html?idxno=48374",
   "https://www.khan.co.kr/article/202610212030005",
   "https://www.news1.kr/industry/general-industry/6327830",
-  "http://coinreaders.com/264450"
+  "http://coinreaders.com/264450",
+  "https://biz.heraldcorp.com/article/10910113",
+  "http://www.kjdaily.com/article.php?aid=1792583226689910276",
+  "https://www.newstnt.com/news/articleView.html?idxno=724316",
+  "https://view.asiae.co.kr/article/2026102117104510383",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279363"
  ],
  "seen_titles": [
-  "우승도,꼴찌도확정될까…24일K리그1운명의33라운드",
-  "'멀티골'티아고,K리그132라운드'별중의별'...K리그229라운드MVP는...",
-  "[오피셜]승리가절실했던전북,해결사는티아고였다…제주전멀티골로...",
-  "[이시각헤드라인]10월20일뉴스센터",
-  "핸드볼H리그새시즌12월6일개막",
   "'멀티골'전북티아고,K리그132라운드MVP",
   "청주시,지역대표기업·경제단체와동반성장상생협약체결",
   "하나은행·SK하이닉스등499억원공동출연,반도체수출공급망7500억...",
@@ -6001,29 +5996,14 @@
   "반도체월수출603억달러…산업이끈주역54명정부포상",
   "개미들,삼전닉스레버리지로6조잃었다",
   "韓반도체산업협회장\"적기에맞는투자…정부,과감·신속지원기대\"",
-  "이더리움(ETH)·솔라나(SOL),스테이킹사상최대인데...수익률은'내림..."
+  "이더리움(ETH)·솔라나(SOL),스테이킹사상최대인데...수익률은'내림...",
+  "“이젠진짜큰일났다”SK하이닉스마저…자사주매입종료임박[투자...",
+  "SK하이닉스·삼성전자거래대금9.3조…상위50종목의56%",
+  "[공시]뉴인텍·파트론'공매도금지',HT로보틱스·자이언트스텝투자...",
+  "공공기관잡아라…경남도\"핵심기관9곳집중,유치총력\"",
+  "Samsung,SKhynixUpgradeChinaNANDPlantstoCounterRisingYMTC"
  ],
  "recent_sigs": [
-  [
-   "2026-10-21T14:48:23.107595+09:00",
-   "타오위안 대만 삼전닉스 급등 마이크론 파업 가능성에 공장 D램"
-  ],
-  [
-   "2026-10-21T14:48:23.107595+09:00",
-   "인식 도마 삼전닉스도 기업 반기업 오른 공적 추궁에 주병기"
-  ],
-  [
-   "2026-10-21T14:48:23.107595+09:00",
-   "삼성 프로농구 채널 21일 일정 경기 VS 부산 서울 KCC 중계"
-  ],
-  [
-   "2026-10-21T14:48:23.107595+09:00",
-   "부지 SK하이퍼 속도전 용역계약까지 확보에 AIDC"
-  ],
-  [
-   "2026-10-21T14:48:23.107595+09:00",
-   "최다 2698억원 사내 주택대출 6370억원 현대차 대기업 7대"
-  ],
   [
    "2026-10-21T15:01:23.104089+09:00",
    "조만호 평가 세무조사 부담 C레벨 정보유출"
@@ -6895,9 +6875,25 @@
   [
    "2026-10-21T20:41:05.325116+09:00",
    "수익률은 솔라나 사상 스테이킹 ETH SOL 내림 이더리움 최대인데"
+  ],
+  [
+   "2026-10-21T20:51:03.757615+09:00",
+   "상위 3조 거래대금 SK하이닉스 삼성전자 50종목의"
+  ],
+  [
+   "2026-10-21T20:51:03.757615+09:00",
+   "금지 투자 파트론 HT로보틱스 자이언트스텝 뉴인텍 공매도"
+  ],
+  [
+   "2026-10-21T20:51:03.757615+09:00",
+   "유치 기관 핵심 총력 경남도 9곳 집중 잡아라 공공기관"
+  ],
+  [
+   "2026-10-21T20:51:03.757615+09:00",
+   "China Counter YMTC Samsung hynix NAND Upgrade Rising Plants to"
   ]
  ],
- "last_run": "2026-10-21T20:41:13.988089+09:00",
+ "last_run": "2026-10-21T20:51:18.518317+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
