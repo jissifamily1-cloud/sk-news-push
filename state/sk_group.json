@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3052268",
-  "https://www.newsis.com/view/NISX20261020_0003832772",
-  "http://www.finomy.com/news/articleView.html?idxno=264069",
-  "https://www.etnews.com/20261020000156",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200079&t=NN",
-  "https://www.econovill.com/news/articleView.html?idxno=754237",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714897",
   "https://www.news1.kr/finance/general-stock/6325656",
   "https://www.slist.kr/news/articleView.html?idxno=774841",
   "https://www.newsway.co.kr/news/view?ud=2026102011095440304",
@@ -2999,16 +2992,16 @@
   "https://econotimes.com/South-Korea-s-Kospi-Rises-3-29-as-Samsung-SK-hynix-Gain-1758856",
   "http://www.jndn.com/article.php?aid=1792577858441629001",
   "http://www.segyebiz.com/newsView/20261021523743?OutUrl=naver",
-  "https://biz.sbs.co.kr/article_hub/20000341273?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000341273?division=NAVER",
+  "https://www.m-i.kr/news/articleView.html?idxno=2008792",
+  "https://www.rcast.co.kr/news/articleView.html?idxno=31863",
+  "https://www.dkilbo.com/news/articleView.html?idxno=558056",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7512",
+  "https://www.dailian.co.kr/news/view/1704353/?sc=Naver",
+  "https://www.edaily.co.kr/News/Read?newsId=05576006645615216&mediaCodeNo=257",
+  "https://www.g-enews.com/view.php?ud=202610211930327230fbbec65dfb_1"
  ],
  "seen_titles": [
-  "라온시큐어·우리로강세에도...양자관련주전반은부진",
-  "투자자금조달·공급망확대시급한데…기업해외IPO비상[기업해외상...",
-  "하나은행,K-반도체산업수출공급망강화…금융지원본격화",
-  "SK하이닉스가길열고은행이돈댄다…반도체공급망에2조원수혈",
-  "SK하닉손잡은4대은행…\"반도체수출공급망강화,2조지원\"(종합)",
-  "SK이터닉스,이천·파주연료전지발전사업상업운전돌입",
-  "NH투자증권,퇴직연금ELS100호발행",
   "분상제에도분양가상승…수도권국평1년새최대9430만원격차",
   "\"반도체·2차전지엇갈린증시흐름속옥석가리기본격화\"",
   "[데일리토픽]SK하이닉스,소부장협력사에2조원보증지원⋯'금융숨...",
@@ -6001,7 +5994,14 @@
   "SouthKorea’sKospiRises3.29%asSamsung,SKhynixGain",
   "‘호남반도체클러스터’조성법적물꼬텄다",
   "SK하이닉스,40조자사주매입완료…예정보다한달앞당겨",
-  "[집중진단]삼전닉스그렇게팔아치우더니…10주만에돌변한외국인,..."
+  "[집중진단]삼전닉스그렇게팔아치우더니…10주만에돌변한외국인,...",
+  "과기정통부,양자통신상용화시동…KT·SK브로드밴드컨소시엄선정",
+  "한국투자증권,ELW224종목신규상장外",
+  "대기업사내주택대출6천억원돌파…송언석\"대출규제형평성맞춰야...",
+  "[인사이트뉴스]엔비디아의'HBM표준화'가호재라고?…삼성턴키전략...",
+  "\"거래량한도초과우려\"…NXT,2개종목거래중단",
+  "승강제및저PBR공표눈앞...약발먹힐까",
+  "안방뺏긴삼성·SK,중국팹200층벽뚫고수성나선다"
  ],
  "recent_sigs": [
   [
@@ -7067,9 +7067,21 @@
   [
    "2026-10-21T19:21:03.279602+09:00",
    "일본 47년만 수입액 반기 잃은 556조 무역대국 반도체 처참한"
+  ],
+  [
+   "2026-10-21T19:51:02.425101+09:00",
+   "NXT 초과 2개 중단 거래 우려 한도 종목 거래량"
+  ],
+  [
+   "2026-10-21T19:51:02.425101+09:00",
+   "공표 약발 승강제 눈앞 먹힐까 저PBR"
+  ],
+  [
+   "2026-10-21T19:51:02.425101+09:00",
+   "뚫고 삼성 뺏긴 수성 200층 중국 나선다 안방"
   ]
  ],
- "last_run": "2026-10-21T19:41:07.036459+09:00",
+ "last_run": "2026-10-21T19:51:14.318289+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
