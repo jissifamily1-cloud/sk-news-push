@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261015000526",
-  "https://www.slist.kr/news/articleView.html?idxno=773680",
-  "https://www.dongascience.com/news/view/80360",
-  "https://view.asiae.co.kr/article/2026101511281412550",
   "https://www.newspim.com/news/view/20261015000556",
   "https://www.khan.co.kr/article/202610151127001",
   "https://www.jemin.com/news/articleView.html?idxno=844550",
@@ -2999,13 +2995,13 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277584&CMPT_CD=P0010",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=7064",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000075624",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290039.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290039.html",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874984",
+  "https://www.segye.com/newsView/20261022505235?OutUrl=naver",
+  "https://www.youthdaily.co.kr/news/article.html?no=228685",
+  "https://biz.heraldcorp.com/article/10910724"
  ],
  "seen_titles": [
-  "[속보]선관위특검,중앙선관위등7곳압수수색…\"투표자수허위입력...",
-  "선관위특검\"전국30개시군구선관위서투표자수허위입력확인\"…7...",
-  "의료계,소아응급실압수수색규탄…\"의료진이탈가속화할것\"",
-  "[속보]경남지방경찰청,함안군수선거법위반혐의압수수색",
   "선관위특검\"전국30개시군구투표자수허위입력확인\"…중앙선관위...",
   "‘당원가입관여의혹’차석호함안군수실압수수색",
   "[속보]특검,서귀포시선관위압수수색...투표자수허위입력",
@@ -6001,10 +5997,14 @@
   "[손병관의뉴스프레소]중수청장배석논란,진보진영도'수사중립성의...",
   "[금융그룹/다우키움⑤]'그들만의돈잔치'...내막은어떨까",
   "경찰,'납배출주사은폐의혹'DN오토모티브압수수색",
-  "'친환경'종이빨대의배신…플라스틱빨대보다발암6배"
+  "'친환경'종이빨대의배신…플라스틱빨대보다발암6배",
+  "[이슈국감]김현정\"한화엔진,STX엔진숙련인력부당유인의혹\"",
+  "경실련,구글·게임사5곳조세포탈의혹제기…국세청조사촉구",
+  "네이버·두나무결합독점우려에...금융위,안전장치검토",
+  "[단독]‘임원’으로얽혀있는입찰방해혐의업체들…선관위특검,대..."
  ],
  "recent_sigs": [],
- "last_run": "2026-10-22T08:40:52.610696+09:00",
+ "last_run": "2026-10-22T08:50:58.074134+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
