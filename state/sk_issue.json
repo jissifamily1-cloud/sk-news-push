@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610141806159593",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261014.99099004080",
-  "https://www.namdonews.com/news/articleView.html?idxno=926162",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087269",
-  "https://www.newspim.com/news/view/20261014001407",
-  "http://www.jndn.com/article.php?aid=1791970033441203005",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=319051",
-  "https://www.pressian.com/pages/articles/2026101418265201544",
-  "https://www.nocutnews.co.kr/news/6591609",
-  "https://www.hankookilbo.com/news/article/A2026101417250003062?did=NA",
   "http://www.yonhapnewstv.co.kr/news/MYH20261014182859Ams",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8685635",
   "https://www.news1.kr/local/gwangju-jeonnam/6320334",
@@ -2999,19 +2989,19 @@
   "https://www.sejungilbo.com/news/articleView.html?idxno=60731",
   "https://www.medicopharma.co.kr/news/articleView.html?idxno=69957",
   "https://www.dt.co.kr/article/12090420",
-  "https://www.mk.co.kr/article/12181781"
+  "https://www.mk.co.kr/article/12181781",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3728201",
+  "https://www.kado.net/news/articleView.html?idxno=2079534",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107323",
+  "https://gg.newdaily.co.kr/site/data/html/2026/10/21/2026102100284.html",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/21/2026102100316.html",
+  "https://www.newsis.com/view/NISX20261021_0003835427",
+  "https://www.news1.kr/local/gwangju-jeonnam/6327512",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261021010007099",
+  "https://www.kgnews.co.kr/news/article.html?no=916155",
+  "https://www.yna.co.kr/view/AKR20261021089551061?input=1195m"
  ],
  "seen_titles": [
-  "시민단체,한동훈고발…\"딸허위스펙수사무마의혹\"",
-  "청약통장사들여강남아파트분양권판매한일당39명검거…26억원챙...",
-  "전남권민원시위까지광주청사로…3청사구상시험대",
-  "대구·경북가습기살균제피해신고사망자54명,구제미인정",
-  "'재계저승사자'1호사건은식품...업계,연이는담합조사에'한숨'",
-  "경찰‘선거법위반의혹’신수정북구청장실압수수색",
-  "김지용적격성놓고갈린與…\"비겁한선택\"vs\"반윤\"",
-  "[속보]안동산불이재민임시주택납품비리의혹A씨구속",
-  "[단독]김지용\"정진웅기소반대\"라더니…문건엔'기소'논리만",
-  "선관위특검,'법관활동비'의혹압수수색막히자법원직격…\"영장재...",
   "김민석\"'신천지입당'확인\"…정청래\"있는대로공개\"",
   "선관위특검“법원이고위법관‘활동비부당지급’압색영장기각”",
   "GGM노조부분파업·삭발투쟁…'대표사퇴·시해결'촉구",
@@ -6001,7 +5991,17 @@
   "한화·쿠팡공정위현장조사'엉망'...재계저승사자'체면'어쩌나",
   "박성훈의원\"의료기기간납사3년째검토만\"…공정위\"직권조사진행...",
   "특검,노태악전선관위원장압수수색…수사압박에직원사망",
-  "“반도체만규제푸나”…증손회사특례서배터리·디스플레이제외"
+  "“반도체만규제푸나”…증손회사특례서배터리·디스플레이제외",
+  "\"안끼면납품도못해\"…박성훈,건보재정흔드는간납사적폐정조준",
+  "\"용돈좀보내줘,계좌알려줄게\"…전축구협회심판위원장금품요구...",
+  "국감파행부른주병기,'재벌착취'발언사과",
+  "국민의힘경기도당\"아주대압수수색…경기도,소아응급공백막아야\"",
+  "전직외교관모임\"선관위특검,'제2의건국'정신으로철저히수사해야...",
+  "'입찰방해혐의'조사받은선관위직원숨져…특검\"강압없었다\"(종합...",
+  "전남광주특별시,GGM노사갈등중재권고안마련",
+  "배수구유심조각에덜미…발신번호변작조직등101명검거",
+  "부천소방관순직도장공장압수수색…화재닷새만에강제수사",
+  "경찰,'소방관순직'부천공장3시간여압수수색(종합)"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "제외 규제푸나 배터리 특례서 디스플레이 반도체만 증손회사"
   ]
  ],
- "last_run": "2026-10-21T16:10:55.729500+09:00",
+ "last_run": "2026-10-21T16:20:54.321898+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
