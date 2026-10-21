@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261015000311",
-  "https://www.newspim.com/news/view/20261015000313",
-  "https://www.newspim.com/news/view/20261015000310",
-  "https://www.wikitree.co.kr/articles/1166376",
   "http://www.intn.co.kr/news/articleView.html?idxno=2054051",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=395316",
   "https://www.apsk.co.kr/news/articleView.html?idxno=540749",
@@ -2999,13 +2995,13 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691710",
   "https://www.pressian.com/pages/articles/2026102117594030503",
   "https://www.g-enews.com/view.php?ud=202610212123148716112616b072_1",
-  "https://www.yna.co.kr/view/AKR20261021174200109?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261021174200109?input=1195m",
+  "https://www.taxtimes.co.kr/news/article.html?no=277401",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215474",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691723",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/21/2026102190249.html"
  ],
  "seen_titles": [
-  "'응급의료현장유린하는강제수사결사반대!'",
-  "대한의사협회'강압적인압수수색응급의료붕괴된다'",
-  "대한의사협회,소아응급센터압수수색관련긴급기자회견",
-  "[건강꿀팁]온풍기바람을얼굴쪽으로돌리면코점막이덜마른다는...",
   "공정위\"가격재결정명령은직접개입방식아닌기업자율재결정방식...",
   "美민주당일한오마의원가족에소환장…이민서류사기의혹수사확...",
   "소아응급실압수수색에의료계반발확산…응급진료중강제수사논란",
@@ -6001,7 +5997,11 @@
   "“겁주고세상에알리려고”…역삼연쇄방화범,‘계획범행’참고",
   "주병기'재벌착취'발언논란에\"송구…대기업역할부정아니다\"",
   "주병기공정위원장,한화조사정보유출의혹에\"내부유출철저히감찰...",
-  "'오르반측근'헝가리전중앙은행총재사기혐의로체포"
+  "'오르반측근'헝가리전중앙은행총재사기혐의로체포",
+  "최은석의원\"공정위조사권,불법면허가아니다\"",
+  "주병기공정위원장\"한화조사유출철저히감찰…상표권수익배분가...",
+  "특검,노태악자택압수수색…“외유성출장보고조작정황”",
+  "특검,노태악압수수색…선관위직원,특검조사이튿날숨져"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "제외 규제푸나 배터리 특례서 디스플레이 반도체만 증손회사"
   ]
  ],
- "last_run": "2026-10-21T21:31:11.400717+09:00",
+ "last_run": "2026-10-21T21:40:54.521546+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
