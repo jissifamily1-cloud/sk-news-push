@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=881371",
-  "https://news.skbroadband.com/news/articleView.html?idxno=240217",
-  "http://www.kdfnews.com/news/articleView.html?idxno=189267",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449317",
-  "http://www.4th.kr/news/articleView.html?idxno=2119736",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1540469",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2306935",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4112199",
   "https://www.g-enews.com/view.php?ud=202610141431544043056c162803_1",
   "https://www.mt.co.kr/economy/2026/10/14/2026101414040673933",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20261021000659",
   "https://www.kyeongin.com/article/1773074",
   "https://www.yna.co.kr/view/AKR20261021088451004?input=1195m",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/21/2026102100199.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/10/21/2026102100199.html",
+  "https://www.jasm.co.kr/news/view/322404/?sc=Naver",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038324",
+  "https://www.joongboo.com/news/articleView.html?idxno=363739982",
+  "http://www.iminju.net/news/articleView.html?idxno=171175",
+  "https://www.suwonilbo.kr/view.html?id=L2610211228353c62",
+  "https://www.ytn.co.kr/_ln/0103_202610211231178720",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6859588_36967.html"
  ],
  "seen_titles": [
-  "검찰,선관위50억입찰비리수사확대…'선피아카르텔'의진실은?",
-  "선관위특검,50억대입찰비리의혹수사확대",
-  "[리테일인사이드]11번가·쿠팡·배민B마트·이마트24·쿠팡이츠...\"예약...",
-  "공정위중점조사기획단,대상·오뚜기·CJ제일제당식품담합의혹조사",
-  "대한제분·CJ제일제당등6개사,1.4조억원대사료원료담합혐의",
-  "'재계저승사자'1호사건…대상·오뚜기·CJ제일제당",
-  "8년넘게'밀가루부산물'1.4조원대담합…6개제분사들심판대에",
   "공정위징수유예과징금4,500억원넘어…3년새15배증가",
   "삼양사,준법지원실강화등내부통제손질",
   "공정위중점조사기획단첫사건'먹거리담합'…대상·오뚜기등현장조...",
@@ -6001,7 +5994,14 @@
   "선관위특검,'외유성출장'노태악전선관위원장자택압수수색",
   "경기남부경찰청,부천도장공장화재사고관련공장압수수색실시",
   "특검,'외유출장의혹'노태악자택압수수색…휴대전화확보(종합)",
-  "선관위특검,노태악자택압수수색…\"출장보고서허위기재포착\""
+  "선관위특검,노태악자택압수수색…\"출장보고서허위기재포착\"",
+  "특검,'외유출장의혹'노태악자택압수수색…휴대전화확보",
+  "[속보]경찰,8명사상자낸부천화재공장압수수색",
+  "경찰·소방,'소방관순직'부천공장화재현장압수수색…실화등공장...",
+  "선관위특검,노태악전위원장자택압수수색…외유성출장의혹수사",
+  "\"소아응급센터무너지면경찰청장이책임져야\"…경찰의아주대병원압수...",
+  "선관위특검,'외유성출장'노태악자택등압수수색",
+  "선관위특검팀'외유출장의혹'노태악전위원장자택압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "주택대출 2배 4년간 대기업 주요 8월말 6370억원 올해 사내"
   ]
  ],
- "last_run": "2026-10-21T12:31:03.057250+09:00",
+ "last_run": "2026-10-21T12:40:56.579750+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
