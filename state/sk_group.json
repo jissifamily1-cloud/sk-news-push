@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2637825",
-  "https://www.mk.co.kr/article/12180413",
-  "https://www.mk.co.kr/article/12180415",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708406",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=281387",
-  "https://kpenews.com/View.aspx?No=4270697",
-  "https://www.mediapen.com/news/view/1131193",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=137678",
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=4187",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=248055",
-  "https://www.ddaily.co.kr/page/view/2026102009414850535",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=17060",
   "https://www.newsway.co.kr/news/view?ud=2026102010164231170",
   "https://biz.chosun.com/stock/stock_general/2026/10/20/FRZTZZYTCFBEDIHMIXT2ASHLQ4/",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172385",
@@ -2999,21 +2987,21 @@
   "https://www.livebiz.today/news/articleView.html?idxno=205807",
   "https://www.betanews.net/article/view/beta202610210195",
   "https://futurechosun.com/?p=164142",
-  "https://www.ekn.kr/web/view.php?key=20261021020549418"
+  "https://www.ekn.kr/web/view.php?key=20261021020549418",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449354",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261021190807uwJ",
+  "https://www.econovill.com/news/articleView.html?idxno=754456",
+  "https://weekly.donga.com/3/all/11/6427774/1",
+  "https://www.insight.co.kr/news/578670",
+  "https://www.g-enews.com/view.php?ud=202610211900575375112616b072_1",
+  "https://www.hankyung.com/article/202610215758g",
+  "https://www.ytn.co.kr/_ln/0102_202610211857298356",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107342",
+  "https://www.etnews.com/20261021000454",
+  "https://www.dt.co.kr/article/12090506",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90758"
  ],
  "seen_titles": [
-  "워커힐,한국김장문화연계'제10회김장담그는날'개최",
-  "SK하이닉스,6개월만에120만원선깨져…중복상장혼선",
-  "SK넥실리스,음극재접착력높여배터리수명늘린다…내년하반기상용...",
-  "4대은행,SK하이닉스와반도체협력기업에2조금융지원",
-  "KB국민은행·SK하이닉스·무역보험공사,반도체협력사에2,500억원우대...",
-  "SK하이닉스협력사보증료'0원'…하나·KB국민銀,1조원금융지원",
-  "[오늘증시]반등하던코스피'급랭'…5600선추락에증시출렁",
-  "‘멀티골’티아고,K리그132라운드MVP⋯전북은베스트팀",
-  "SamsungElec,SKhynixslideasAIinvestmentconcernsweighonchipsto",
-  "“전날상승이어갈줄알았는데”…삼전닉스,1~3%대동반하락",
-  "SK넥실리스,'고접합카본코팅동박'개발...내년하반기양산목표",
-  "NH투자증권\"N2퇴직연금ELS100호발행\"...11월관련이벤트",
   "SK넥실리스,실리콘음극재팽창잡았다..고접합카본코팅동박2027년...",
   "삼전닉스주가20~30%급락에도실적전망굳건…엇갈린시장평가",
   "KB국민은행·SK하이닉스,반도체소부장생태계강화…협력사성장기반...",
@@ -6001,7 +5989,19 @@
   "SK하이닉스,자사주매입완료...주가하락방어에나름역할했지만",
   "코스피,반도체투자심리개선에'상승마감'",
   "[더나은미래경제브리핑]‘제3회CEO의날’개최,기업가정신되새기...",
-  "[현장]한국으로몰리는빅테크투자…SKT“지금놓치면일본간다”"
+  "[현장]한국으로몰리는빅테크투자…SKT“지금놓치면일본간다”",
+  "[WhoIs?]김성수SK브로드밴드대표이사사장",
+  "반도체강세에…코스피3%대반등",
+  "송재혁반도체협회장\"기술,선제적투자서나온다…적기투자절실\"",
+  "외국인올해206조매도폭탄…삼전닉스만185조팔았다",
+  "내러닝자세,AI로점검...SKT,성수에'런메이트캠프'",
+  "SK하이닉스,40조원자사주매입조기완료…전량소각예정",
+  "\"반도체초호황안끝난다\"…돈쓸어담는'3국'역대급기록[테크로그...",
+  "'삼전닉스쌍끌이'에증시반등...\"AI투심개선\"",
+  "['클릭'증시]스페이스XSI호실적에살아난AI투심",
+  "제19회반도체의날기념식개최…'금탑산업훈장'이준현동진쎄미켐회...",
+  "전기차침체에中CATL‘어닝쇼크’…K-배터리반격기회",
+  "[칼럼]한국은AI3대강국인가,해커들의3대놀이터인가"
  ],
  "recent_sigs": [
   [
@@ -7163,9 +7163,25 @@
   [
    "2026-10-21T19:01:22.492688+09:00",
    "일본 놓치면 투자 간다 한국으로 빅테크 SKT 몰리는 지금"
+  ],
+  [
+   "2026-10-21T19:11:04.741535+09:00",
+   "투심 살아난 호실적에 AI SI 스페이스X"
+  ],
+  [
+   "2026-10-21T19:11:04.741535+09:00",
+   "제19회 금탑산업훈장 기념식 반도체의 개최 동진쎄미켐 이준현"
+  ],
+  [
+   "2026-10-21T19:11:04.741535+09:00",
+   "반격 어닝쇼크 CATL 침체에 전기차 배터리 기회"
+  ],
+  [
+   "2026-10-21T19:11:04.741535+09:00",
+   "한국은 해커들의 AI 놀이터인가 3대 강국인가"
   ]
  ],
- "last_run": "2026-10-21T19:01:31.488186+09:00",
+ "last_run": "2026-10-21T19:11:18.672038+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
