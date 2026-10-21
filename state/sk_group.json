@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261020_0003833471",
-  "https://www.fnnews.com/news/202610201434270737",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=233446",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44637",
-  "http://www.datanews.co.kr/news/article.html?no=147020",
   "https://biz.sbs.co.kr/article_hub/20000341051?division=NAVER",
   "https://gg.newdaily.co.kr/site/data/html/2026/10/20/2026102000206.html",
   "https://news.mtn.co.kr/article/2026102014094840852",
@@ -2999,14 +2994,14 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497419",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497420",
   "http://www.newsprime.co.kr/news/article.html?no=751916",
-  "https://news.tf.co.kr/read/economy/2379228.htm"
+  "https://news.tf.co.kr/read/economy/2379228.htm",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260075",
+  "https://www.edaily.co.kr/News/Read?newsId=02666646645615544&mediaCodeNo=257",
+  "https://www.fnnews.com/news/202610220728317130",
+  "https://www.greened.kr/news/articleView.html?idxno=352691",
+  "https://biz.sbs.co.kr/article_hub/20000341422?division=NAVER"
  ],
  "seen_titles": [
-  "추미애\"기업이안심하고투자하는경기도만들겠다\"",
-  "SK머티리얼즈제이엔씨,차세대디스플레이'페로브스카이트'양산체제...",
-  "[줌업]폭스바겐ID.4배터리리콜유럽까지…국내7600대대상여부안...",
-  "\"5500선은안된다\"…코스피,개인vs기관·외인수급공방[fn오후시황...",
-  "코세스,SOFC장비실적기대에상승",
   "[매크로인사이트]윤원태부서장“佛10년물5%육박속美국채반락...",
   "장동혁“국무회의참석김지용,이재명범죄부터수사”",
   "폐안전모부터작업복까지…우시산,27개기관·기업자원순환맞손",
@@ -6001,7 +5996,12 @@
   "AI인프라·인재양성도연구개발일까…STEPI,분류기준정비촉구",
   "코스피·코스닥전거래일(21일)주요공시는...SK하이닉스,40조원규모...",
   "디아이,삼성·하이닉스향HBM·패키지장비확대'주목'…\"분기사상최...",
-  "뉴욕증시,AI투자심리회복에상승…엔비디아2.5%↑"
+  "뉴욕증시,AI투자심리회복에상승…엔비디아2.5%↑",
+  "[넥스트-샷]우주에서날아온깜짝실적···나스닥1%반등,고금리불...",
+  "\"오르길래더샀는데\"…조혜련,하이닉스투자에한숨",
+  "조혜련,'주식450억매매→수익1억'김수용에\"차라리김밥집알바가...",
+  "최태원SK그룹회장,서울을지로맛집에서회식모습잇달아포착...젊...",
+  "[마켓프리뷰]코스피'매수사이드카'발동…외인반도체투톱순매수"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,21 @@
   [
    "2026-10-22T07:31:13.476761+09:00",
    "뉴욕증시 상승 AI 엔비디아 회복에 투자심리"
+  ],
+  [
+   "2026-10-22T07:41:03.847959+09:00",
+   "수익 매매 알바가 김수용에 1억 주식 차라리 김밥집 조혜련 450억"
+  ],
+  [
+   "2026-10-22T07:41:03.847959+09:00",
+   "SK그룹 잇달아 최태원 회식 회장 모습 포착 서울 을지로 맛집에서"
+  ],
+  [
+   "2026-10-22T07:41:03.847959+09:00",
+   "순매수 투톱 매수 외인 발동 반도체 사이드카 코스피"
   ]
  ],
- "last_run": "2026-10-22T07:31:40.439490+09:00",
+ "last_run": "2026-10-22T07:41:15.047803+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
