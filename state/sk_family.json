@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448986",
-  "https://www.fnnews.com/news/202610091626326807",
-  "https://news.jtbc.co.kr/article/NB12322212?influxDiv=NAVER",
   "https://www.yna.co.kr/view/PYH20261009066800054?input=1196m",
   "https://www.yna.co.kr/view/PYH20261009066700054?input=1196m",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790581&plink=ORI&cooper=NAVER",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20261022_0003836649",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=282063",
   "https://www.inews365.com/news/article.html?no=940444",
-  "https://view.asiae.co.kr/article/2026102217303369903"
+  "https://view.asiae.co.kr/article/2026102217303369903",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220135&t=NNv",
+  "https://www.stnsports.co.kr/news/articleView.html?idxno=324499",
+  "https://economist.co.kr/article/view/ecn202610220060"
  ],
  "seen_titles": [
-  "최태원,호남반도체부지첫방문…\"가장빠른속도로짓겠다\"(종합)",
-  "최태원\"호남반도체착공빨리…규모는용인의3분의2\"",
-  "최태원SK회장\"용인12년당겨도부족…광주·용인팹병행건설속도...",
   "최태원회장,광주군공항직접찾았다…호남반도체클러스터추진가...",
   "최태원SK회장,광주반도체클러스터부지찾는다",
   "[CEO직썰]최태원SK그룹회장\"호남반도체클러스터,최대한빠른속...",
@@ -6001,7 +5998,10 @@
   "\"함께식사하며허심탄회하게\"이재용·최태원회장,국내외직원들과...",
   "'힙지로야장'나타난최태원SK회장…직원들과술잔기울였다고?",
   "\"글로벌통상환경재편과AI확산\"충북기업의선택",
-  "\"회장님이왜여기에?\"최태원,을지로길거리회식장면포착"
+  "\"회장님이왜여기에?\"최태원,을지로길거리회식장면포착",
+  "고려아연'1조소송'이겼다..최윤범,경영권또승기",
+  "목동빙판,추월전쟁열린다…김길리·최민정안방메달사냥",
+  "최태원이띄운'반도체사이클파괴','공포의붐앤버스트'도끝인가"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-10-22T16:50:16.598606+09:00",
    "식사하며 국내외 함께 직원들과 허심탄회하게 이재용 회장"
+  ],
+  [
+   "2026-10-22T18:00:34.484679+09:00",
+   "반도체사이클 끝인가 띄운 붐앤버스트 최태원이 파괴 공포의"
   ]
  ],
- "last_run": "2026-10-22T17:50:26.844730+09:00",
+ "last_run": "2026-10-22T18:00:46.282221+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
