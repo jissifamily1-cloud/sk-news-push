@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2008320",
-  "http://www.4th.kr/news/articleView.html?idxno=2120133",
-  "https://www.naeil.com/news/read/605884",
-  "https://www.thepublic.kr/news/articleView.html?idxno=323046",
-  "https://www.namdonews.com/news/articleView.html?idxno=926782",
   "https://www.naeil.com/news/read/605890",
   "https://www.gukjenews.com/news/articleView.html?idxno=3727917",
   "https://www.naeil.com/news/read/605833",
@@ -2999,14 +2994,14 @@
   "https://www.hankyung.com/article/2026102290606",
   "https://www.sedaily.com/article/20105078",
   "https://www.sedaily.com/article/20104999",
-  "https://www.hankyung.com/article/2026102296756"
+  "https://www.hankyung.com/article/2026102296756",
+  "https://www.edaily.co.kr/News/Read?newsId=02545286645615872&mediaCodeNo=257",
+  "https://biz.sbs.co.kr/article_hub/20000341676?division=NAVER",
+  "https://www.goal.com/kr/뉴스/a/blt796ddbe039c0c9f8",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728866",
+  "https://www.kyeonggi.com/article/20261023580003"
  ],
  "seen_titles": [
-  "AI투자위축에주택시장부진...힘받는10월금리동결론",
-  "코스피,반도체주강세에4%대급등…매수사이드카발동",
-  "조상호세종시장\"행정수도특별법연내제정해야\"세종이전지원단가...",
-  "[외형성장의함정]또손벌린경남제약…증자금은이번에도광고판으...",
-  "\"AI반도체,데이터공급이성능좌우..메모리중심설계로\"",
   "솔리다임상장논란,이사회역할주목",
   "DB손보,SK쉴더스·이노비즈협회와중소기업사이버위험공동대응",
   "[특징주]SK,얼라인저평가제기에12.50%뛰어…NAV100조원평가",
@@ -6001,7 +5996,12 @@
   "LIGD&A,방사청제재에주가'털썩'…실적영향톺아보니[종목+]",
   "반등믿고물탔다가또물리나…“코스피바닥더낮을수도”[줍줍리포...",
   "[단독]이광재“잠자는대학부지에주택건설…출생아에1억씩‘국민...",
-  "\"삼전닉스반등했나싶더니또추락\"…코스피향방은[분석+]"
+  "\"삼전닉스반등했나싶더니또추락\"…코스피향방은[분석+]",
+  "젠슨황\"메모리공급과잉조짐없다…많을수록좋아\"",
+  "SK하닉,솔리다임美상장추진중단...조만간공시",
+  "“제생각엔…”예측률높은‘문어’이영표해설위원이예상한K리그...",
+  "미국발AI수익성우려…코스피,반도체주또충격오나",
+  "김태원청년미래비서관,재산161억원…주식만119억원"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,21 @@
   [
    "2026-10-23T06:41:03.179043+09:00",
    "싶더니 향방은 삼전닉스 추락 반등했나 코스피"
+  ],
+  [
+   "2026-10-23T06:50:59.835200+09:00",
+   "해설위원이 문어 높은 예측률 예상한 K리그 이영표 생각엔"
+  ],
+  [
+   "2026-10-23T06:50:59.835200+09:00",
+   "코스피 우려 미국발 수익성 충격오나 AI 반도체주"
+  ],
+  [
+   "2026-10-23T06:50:59.835200+09:00",
+   "161억원 119억원 주식만 김태원 청년미래비서관 재산"
   ]
  ],
- "last_run": "2026-10-23T06:41:19.522346+09:00",
+ "last_run": "2026-10-23T06:51:11.039438+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
