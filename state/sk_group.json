@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1605369",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=884292",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729614",
-  "https://www.ytn.co.kr/_ln/0101_202610211231585782",
-  "https://www.techm.kr/news/articleView.html?idxno=156335",
-  "https://www.vegannews.co.kr/news/article.html?no=395083",
-  "http://www.kjdaily.com/article.php?aid=1792553297689800276",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7189995",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=38172",
-  "https://www.pennmike.com/news/articleView.html?idxno=129975",
-  "http://www.sisacast.kr/news/articleView.html?idxno=101150",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=279321",
   "http://www.kdfnews.com/news/articleView.html?idxno=189644",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303113",
@@ -2999,20 +2988,20 @@
   "https://www.nocutnews.co.kr/news/6595585",
   "https://biz.chosun.com/stock/stock_general/2026/10/23/NJE2R3B5VJHFRMBXR5WUGQESHQ/",
   "https://www.news1.kr/finance/general-stock/6329100",
-  "https://www.newspim.com/news/view/20261022001047"
+  "https://www.newspim.com/news/view/20261022001047",
+  "https://www.yna.co.kr/view/AKR20261022080600007?input=1195m",
+  "http://www.osen.co.kr/article/G1112897006",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191410213620152",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191150424900124",
+  "https://www.etoday.co.kr/news/view/2637430",
+  "https://news.mtn.co.kr/article/2026102306165850690",
+  "https://www.hankyung.com/article/202610239852i",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766550",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/23/2026102300018.html",
+  "https://www.sedaily.com/article/20105063",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=92559"
  ],
  "seen_titles": [
-  "현대모비스6위수성·현대트랜시스27위도약⋯中폭주·유럽침체속...",
-  "[분석]중국ESS의미국시장퇴각···K배터리의기회인가",
-  "안은AI·클라우드,밖은제휴...금융사업무체계손질",
-  "김수용,주식계큰손이었나…6년거래액만무려'450억'→\"단타로'1억...",
-  "곡성군,SK이터닉스·유선기업과재생에너지사업협력…군민펀드검토",
-  "[기자수첩]솔리다임상장논란…누구를위한자금조달인가",
-  "[단독]'삼전닉스레버리지ETF'개인투자자손실6.3조집계...\"특검해야...",
-  "SK쉴더스,이노비즈협회·DB손해보험과중기보안강화협력",
-  "[특징주]SK,장중13%대올라48만원대거래",
-  "삼성전자·SK하이닉스거래대금5.1조…상위20종목의65%",
-  "조상호세종시장\"세종시,중앙행정기관이전본격화\"",
   "\"디스커버리국내부진,MLB중국매출역성장\"",
   "\"중앙은행,금리공격적인상하면경제적피해더클것\"",
   "[生기업TALK]신한은행,반도체부터우주항공까지역량키우고대규모...",
@@ -6001,7 +5990,18 @@
   "주소옮기고회비도부산에…HMM,'부산기업'뿌리내리기시작",
   "삼전·닉스‘55조자사주’매입마무리…증시버팀목빠진‘실적·추...",
   "외인매도세에힘없이밀리는개미들…코스피거래대금연중최저'뚝'",
-  "[2026뉴스핌주거대상]삼성물산'홈닉',스마트주거기술상...AI로주거..."
+  "[2026뉴스핌주거대상]삼성물산'홈닉',스마트주거기술상...AI로주거...",
+  "◇내일의경기(24·25일)",
+  "‘이름까지바꿨는데’31살방출충격!한화→SK→SSG→KT,정우람보상...",
+  "[시계제로재계]②‘2027청사진’3대키워드는…AI주도권·한계사업...",
+  "[시계제로재계]①LG부터4대그룹‘사업계획’착수…AI투자·쇄신인...",
+  "삼성은반도체ㆍSK는AI투자⋯4대그룹CEO인사변수는[재계인사셈...",
+  "AI투자부담·중동긴장에나스닥2.6%급락[뉴욕마감]",
+  "솔리다임美IPO철회…블룸버그전문가,\"중복상장무조건막아선안돼...",
+  "4대그룹총수주식가치10월폭락장에9조증발...이재용6.4조↓,최태...",
+  "[속보]엔비디아4.40%,마이크론6.26%,SK하닉ADR8.07%,AMD8.10%폭락...",
+  "AI호황의역설…中메모리추격갈수록빨라진다[갭월드]",
+  "[신동립잡기노트]\"해킹?나한테피해없는데요\""
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,25 @@
   [
    "2026-10-23T06:11:05.236787+09:00",
    "홈닉 삼성물산 주거 스마트주거기술상 AI로"
+  ],
+  [
+   "2026-10-23T06:21:09.500859+09:00",
+   "최태 증발 이재용 총수 10월 4대 주식 가치 9조 4조 폭락장에"
+  ],
+  [
+   "2026-10-23T06:21:09.500859+09:00",
+   "마이크론 엔비디아 폭락 SK하닉ADR AMD"
+  ],
+  [
+   "2026-10-23T06:21:09.500859+09:00",
+   "빨라진다 호황의 AI 추격 갈수록 메모리 역설"
+  ],
+  [
+   "2026-10-23T06:21:09.500859+09:00",
+   "없는데요 피해 나한테 해킹"
   ]
  ],
- "last_run": "2026-10-23T06:11:26.926778+09:00",
+ "last_run": "2026-10-23T06:21:23.380847+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
