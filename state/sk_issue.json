@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202610151547455304",
-  "http://www.ikoreanspirit.com/news/articleView.html?idxno=87749",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037745",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087326",
-  "https://view.asiae.co.kr/article/2026101515025012611",
   "https://www.mk.co.kr/article/12176849",
   "https://www.mediapen.com/news/view/1130210",
   "https://www.imaeil.com/page/view/2026101516045811819",
@@ -2999,14 +2994,14 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200358.html",
   "https://www.itdaily.kr/news/articleView.html?idxno=242395",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277795&CMPT_CD=P0010",
-  "https://www.newspim.com/news/view/20261022001351"
+  "https://www.newspim.com/news/view/20261022001351",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226561",
+  "https://www.segye.com/newsView/20261022514650?OutUrl=naver",
+  "https://www.donga.com/news/Politics/article/all/20261022/134892500/1",
+  "https://www.news1.kr/society/court-prosecution/6329159",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075052"
  ],
  "seen_titles": [
-  "인천흉기난동범내일오후구속심사...수사속도",
-  "환절기마다찾아오는콧물·코막힘…감기아닌'알레르기비염'의심해...",
-  "인천구월동흉기난동50대,16일구속심사",
-  "[사설]선관위특검영장기각,국민이납득하기어렵다",
-  "경찰,'당원가입관여의혹'함안군수실등압수수색",
   "국감은끝났지만…쿠팡·홈플러스·GS리테일후속조치에‘긴장’",
   "네카토에잠든선불충전금통지·환급촉진…19일부터정기안내",
   "선관위특검강제수사본격화…\"법원협조·수사공개확대\"",
@@ -6001,7 +5996,12 @@
   "금리꼼수에사내대출특혜까지…이억원·이찬진,금융감독허점에질...",
   "[국감]구글\"개발사97%수수료안내\"…X불법정보대응도마",
   "민주당여주·양평\"'양평군수관급공사금품수수의혹'철저수사\"촉구",
-  "[종합]노동부\"쿠팡산재은폐의혹불기소\"…노동계\"면죄부줬다\"비판"
+  "[종합]노동부\"쿠팡산재은폐의혹불기소\"…노동계\"면죄부줬다\"비판",
+  "특검,'지방선거투표율조작'시군구6곳추가확인",
+  "‘관급자재납품개입혐의’전안동시소통비서관,징역10년구형",
+  "“檢,文수사정상이냐”질의에…공소청장대행“뼈발라내는수사”",
+  "사망선관위직원측\"특검,짜맞추기·먼지떨기식수사\"(종합)",
+  "[2026국감-산업부종감]정유4사사장없었지만…공정위제재·형사재판..."
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-10-22T17:10:49.881453+09:00",
    "채택 산자위 HD현대오일뱅크 증인 철회 SK에너지 대표 국감"
+  ],
+  [
+   "2026-10-22T18:10:56.157313+09:00",
+   "형사재판 사장 정유4사 제재 없었지만"
   ]
  ],
- "last_run": "2026-10-22T18:01:15.860685+09:00",
+ "last_run": "2026-10-22T18:11:03.847815+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6111,6 +6115,7 @@
   "seoulfn.com": "서울파이낸스",
   "kfenews.co.kr": "한국금융경제신문",
   "rightknow.co.kr": "알티케이뉴스",
-  "newsfc.co.kr": "금융소비자뉴스"
+  "newsfc.co.kr": "금융소비자뉴스",
+  "shinailbo.co.kr": "신아일보"
  }
 }
