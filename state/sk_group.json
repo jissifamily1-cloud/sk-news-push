@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6594657",
-  "https://en.asiatoday.co.kr/view.php?key=20261021000932247",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556102",
-  "https://www.hani.co.kr/arti/opinion/column/1283117.html",
-  "https://www.hani.co.kr/arti/economy/finance/1283115.html",
   "http://www.beyondpost.co.kr/view.php?ud=20261021110451513be44c0aacd_30",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079477",
   "https://www.nocutnews.co.kr/news/6594678",
@@ -2999,14 +2994,14 @@
   "https://www.lawissue.co.kr/view.php?ud=2026102221233830049817d053b9_12",
   "http://www.econonews.co.kr/news/articleView.html?idxno=446108",
   "https://www.lawissue.co.kr/view.php?ud=2026102221273989029817d053b9_12",
-  "https://www.betanews.net/article/view/beta202610220170"
+  "https://www.betanews.net/article/view/beta202610220170",
+  "https://www.woodkorea.co.kr/news/articleView.html?idxno=92057",
+  "http://www.kjdaily.com/article.php?aid=1792672204690042276",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279483",
+  "http://www.kjdaily.com/article.php?aid=1792672340690041276",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/22/2026102280175.html"
  ],
  "seen_titles": [
-  "[OpeningMarket]KOSPIReclaims5,700onSemiconductor-LedRally",
-  "청주시,외북동에도시숲조성",
-  "청주시,지역기업∙경제단체∙유관기관과상생협약",
-  "통합특별시첫국감22일…인사·대형사업'송곳검증'예고",
-  "Informationsecuritydisclosuresmandatoryforalllistedcompanies",
   "금감원,솔라다임美상장“중복상장해당”…안철수“국민연금부터...",
   "이대통령이SNS보다먼저챙길것[뉴스룸에서]",
   "또외국인양털깎기당했나…코스피만출렁인까닭[박상현의경제수다...",
@@ -6001,29 +5996,14 @@
   "SK텔레콤,국가별로밍연결제한하는무료서비스출시",
   "코스피,3%대낙폭에5600선밑으로...LG에너지솔루션,SK하이닉스등하...",
   "SKT,국내수학·AI연구진과독자AI모델추론성능강화",
-  "코스피,AI의구심지속에'하락마감'"
+  "코스피,AI의구심지속에'하락마감'",
+  "\"AI가10인분몫해낸다\"…경기혁신센터,소수정예'AI네이티브'창업...",
+  "코스피급락에인버스강세…반도체ETN11.58%상승",
+  "NvidiaExpandsAIAlliancetoElectronicComponentswithKoreanFirms",
+  "엠에스바이오70%급등…윙스풋·SKAI상한가",
+  "지커코리아,중형전기SUV'7X'고객인도시작…\"1호고객은SK온\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T15:41:02.125005+09:00",
-   "SK하이닉스 삼성전자 마감 급락"
-  ],
-  [
-   "2026-10-22T15:41:02.125005+09:00",
-   "과징금 높았다 21배라는데 매출대비 기업 카카오가"
-  ],
-  [
-   "2026-10-22T15:41:02.125005+09:00",
-   "제작 AI 한국딥러닝 SK텔레콤과 실증 광고 에이전트"
-  ],
-  [
-   "2026-10-22T15:41:02.125005+09:00",
-   "비상 강세에 수출 환율 다시 원화 중소기업 1200원대 오나"
-  ],
-  [
-   "2026-10-22T15:41:02.125005+09:00",
-   "디지털 팀장 정은진 강연하는 트윈 SK하이닉스 테크퀘스트"
-  ],
   [
    "2026-10-22T15:51:08.108285+09:00",
    "최고 가시성 내년 아티스트 SM 활동 부진 SK증권 3분기"
@@ -6819,9 +6799,21 @@
   [
    "2026-10-22T21:31:15.423027+09:00",
    "코스피 AI 하락마감 의구심 지속에"
+  ],
+  [
+   "2026-10-22T21:41:03.998550+09:00",
+   "Korean Firms with Electronic Alliance Components to Expands Nvidia AI"
+  ],
+  [
+   "2026-10-22T21:41:03.998550+09:00",
+   "상한가 급등 윙스풋 SKAI 엠에스바이오"
+  ],
+  [
+   "2026-10-22T21:41:03.998550+09:00",
+   "지커 인도 시작 1호 SUV 고객 고객은 코리아 SK온 전기 중형 7X"
   ]
  ],
- "last_run": "2026-10-22T21:31:26.993096+09:00",
+ "last_run": "2026-10-22T21:41:16.005551+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
