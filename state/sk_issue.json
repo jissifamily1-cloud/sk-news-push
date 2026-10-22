@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.00news.co.kr/news/articleView.html?idxno=107177",
-  "https://www.idomin.com/news/articleView.html?idxno=2017080",
-  "https://www.jasm.co.kr/news/view/321708/?sc=Naver",
   "https://www.ytn.co.kr/_ln/0103_202610151643425795",
   "https://www.donga.com/news/Society/article/all/20261015/134848156/1",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=816038",
@@ -2999,12 +2996,12 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692747",
   "http://www.kjdaily.com/article.php?aid=1792666352690019005",
   "https://news.jtbc.co.kr/article/NB12324434?influxDiv=NAVER",
-  "https://www.newsis.com/view/NISX20261022_0003837617"
+  "https://www.newsis.com/view/NISX20261022_0003837617",
+  "https://www.segye.com/newsView/20261022520147?OutUrl=naver",
+  "https://www.munhwa.com/article/11625544",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=746627"
  ],
  "seen_titles": [
-  "투표자수허위입력어디까지...특검,선관위7곳압수수색",
-  "경찰,함안군수실·국민의힘경남도당강제수사…특검은경남선관위'압...",
-  "인천흉기난동범구속여부내일심사",
   "선관위특검\"전국30곳투표자수허위입력\"...독점계약수사도'속도'",
   "특검“전국30곳서투표자수허위입력”…중앙선관위등7곳압수수색",
   "[줌업]LGD·LG엔솔,'75억배임혐의'전임원고소후8개월만에공시",
@@ -6001,7 +5998,10 @@
   "공직선거법공소시효임박…충청권단체장,엇갈린희비",
   "환경단체“가습기살균제참사15년,피해·책임진행중”",
   "구글·메타·X,과방위서집중질타…\"X접속차단검토해야\"주장까지",
-  "사망한선관위직원측\"고성,강압적수사\"…특검\"단1회조사받아\""
+  "사망한선관위직원측\"고성,강압적수사\"…특검\"단1회조사받아\"",
+  "네이버·두나무결합독점우려에‘안전장치’추진",
+  "약100억원투자했는데계약해지라니…만트럭버스코리아불공정행위...",
+  "[2026국감-법사위]검찰총장대행\"'尹,5년씩재판받아물적·경제적·심..."
  ],
  "recent_sigs": [
   [
@@ -6017,7 +6017,7 @@
    "형사재판 사장 정유4사 제재 없었지만"
   ]
  ],
- "last_run": "2026-10-22T20:10:56.032110+09:00",
+ "last_run": "2026-10-22T20:21:00.623837+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
