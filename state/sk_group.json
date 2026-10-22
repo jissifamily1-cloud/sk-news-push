@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261021120700013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261021120800013?input=1196m",
-  "https://www.mk.co.kr/article/12181603",
-  "https://www.dailian.co.kr/news/view/1704127/?sc=Naver",
-  "https://www.newspim.com/news/view/20261021000745",
-  "http://www.press9.kr/news/articleView.html?idxno=84625",
-  "https://news.tf.co.kr/read/national/2378914.htm",
-  "https://www.etoday.co.kr/news/view/2638352",
-  "https://www.dt.co.kr/article/12090366",
-  "https://www.yna.co.kr/view/AKR20261021081600017?input=1195m",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708717",
   "https://news.tf.co.kr/read/economy/2378916.htm",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000075420",
   "https://www.nocutnews.co.kr/news/6594795",
@@ -2999,20 +2988,20 @@
   "https://www.investchosun.com/site/data/html_dir/2026/10/22/2026102280130.html",
   "http://www.inews24.com/view/2017036",
   "https://www.livebiz.today/news/articleView.html?idxno=205856",
-  "https://www.newsway.co.kr/news/view?ud=2026102216485008930"
+  "https://www.newsway.co.kr/news/view?ud=2026102216485008930",
+  "https://www.munhwa.com/article/11625619",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16255529",
+  "https://www.g-enews.com/view.php?ud=202610230717254966e250e8e188_1",
+  "https://biz.heraldcorp.com/article/10912033",
+  "https://www.fntimes.com/html/view.php?ud=202610230708205993141825007d_18",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497777",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97580",
+  "http://www.newskr.kr/news/articleView.html?idxno=107398",
+  "https://dealsite.co.kr/articles/170997",
+  "https://www.g-enews.com/view.php?ud=202610230716413318fbbec65dfb_1",
+  "https://www.vegannews.co.kr/news/article.html?no=395784"
  ],
  "seen_titles": [
-  "'절대못뚫는'양자암호통신시험망,2028년전국확대…KT·SKB주관",
-  "SK텔레콤·금감원보이스피싱예방협력확대",
-  "경남도,공공기관2차이전승부…\"기존청사활용예산낭비막는다\"",
-  "SKT-금융감독원,금융의날앞두고보이스피싱피해예방나서",
-  "단일종목레버리지개인손실두달반새6.3조…계좌당최대손실은고령...",
-  "LG유플러스,유심보안체계자동업데이트…22일부터순차적용",
-  "경남도,공공기관2차이전·통합본사유치올인전략본격가동",
-  "삼성자산운용,'KODEX레버리지'ETF…개인매수속손실확대",
-  "경남도,공공기관2차이전핵심기관9곳정조준…발전공기업통합본사...",
-  "매수사이드카발동후숨고른코스피…5600선후반등락",
-  "SK렌터카·삼성화재,차량·보험데이터결합…미래모빌리티협력",
   "KT·SKB,양자암호통신실증맡는다…전국·해외로확대",
   "과기정통부,양자통신테스트베드확대…상용화·해외진출지원",
   "어제는폭락,오늘은반격…삼전22만원·하닉126만원회복",
@@ -6001,7 +5990,18 @@
   "[Invest]솔리다임중복상장논란,LG전자베어로보틱스자금조달에도불...",
   "80주년앞둔LG가꺼낸'그때그선택'⋯계열사성장사'도전의기억'",
   "젠슨황\"2029년메모리공급과잉없다...HBM·LPDDR수요계속\"",
-  "\"아이폰듀오견제\"…통신3사,'갤럭시Z폴드8'지원금↑[통신25시]"
+  "\"아이폰듀오견제\"…통신3사,'갤럭시Z폴드8'지원금↑[통신25시]",
+  "‘약발’다한삼전닉스?…55조자사주매입끝나자급락,다음주가부...",
+  "미국증시나스닥2.60%급락·다우강보합…AI투자의구심에반도체투...",
+  "램리서치발'공급망병목'쇼크…SK하이닉스ADR8.07%폭락",
+  "젠슨황,“메모리는다다익선”…내년메모리공급과잉우려일축",
+  "[KFT모닝브리프]2026.10.23—오늘꼭알아야할국내외경제뉴스",
+  "SK하이닉스ADR8%넘게빠졌다…마이크론·AMD도'와르르'",
+  "삼전·하닉내년초성과급60조전망…한은\"소비확산엔시간\"",
+  "[오늘의이슈]주가3%빠졌는데원화는왜강할까",
+  "[K-금융글로벌전략2026][폴란드·헝가리]국경넘은K기업공급망…...",
+  "타이중달래고타오위안멈춘마이크론,대만팹갈등봉합은절반뿐",
+  "세보엠이씨용인공사계약액2억5588만원줄어"
  ],
  "recent_sigs": [
   [
@@ -6183,9 +6183,37 @@
   [
    "2026-10-23T07:21:04.260297+09:00",
    "통신3사 지원금 아이폰 갤럭시Z 듀오 폴드8 견제"
+  ],
+  [
+   "2026-10-23T07:31:13.268059+09:00",
+   "알아야 경제뉴스 국내외"
+  ],
+  [
+   "2026-10-23T07:31:13.268059+09:00",
+   "마이크론 와르르 AMD도 ADR 빠졌다 SK하이닉스 넘게"
+  ],
+  [
+   "2026-10-23T07:31:13.268059+09:00",
+   "성과급 삼전 시간 하닉 소비 내년 확산엔 한은 60조 전망"
+  ],
+  [
+   "2026-10-23T07:31:13.268059+09:00",
+   "주가 원화는 강할까 빠졌는데"
+  ],
+  [
+   "2026-10-23T07:31:13.268059+09:00",
+   "국경 넘은 공급망 K기업"
+  ],
+  [
+   "2026-10-23T07:31:13.268059+09:00",
+   "마이크론 갈등 멈춘 절반뿐 타오위안 대만 봉합은 타이중 달래고"
+  ],
+  [
+   "2026-10-23T07:31:13.268059+09:00",
+   "공사 세보엠이씨 2억5588만원 줄어 용인 계약액"
   ]
  ],
- "last_run": "2026-10-23T07:21:11.004247+09:00",
+ "last_run": "2026-10-23T07:31:36.195981+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
