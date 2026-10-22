@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026100916380457011",
-  "https://www.yna.co.kr/view/AKR20261009042301054?input=1195m",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610090057&t=NN",
   "https://www.ddaily.co.kr/page/view/2026100916315838686",
   "https://www.thedailypost.kr/news/articleView.html?idxno=116127",
   "http://www.gjdream.com/news/articleView.html?idxno=673326",
@@ -2999,12 +2996,12 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2009230",
   "http://www.kwangju.co.kr/article.php?aid=1792651500804580372",
   "https://www.mt.co.kr/industry/2026/10/22/2026102214180045313",
-  "https://www.viva100.com/article/20261022500941"
+  "https://www.viva100.com/article/20261022500941",
+  "https://www.imaeil.com/page/view/2026102216255683752",
+  "https://www.dailian.co.kr/news/view/1704870/?sc=Naver",
+  "https://www.todayeconomic.com/news/article.html?no=32555"
  ],
  "seen_titles": [
-  "최태원\"용수·전력늦어도먼저\"…호남권반도체팹속도전",
-  "HBM호황에달라진위상…그룹'베테랑'품은SK하이닉스",
-  "전남광주반도체팹예정지찾은최태원SK그룹회장...\"상황되면최대...",
   "광주군공항둘러본최태원SK그룹회장\"호남반도체팹,상황되면빨리...",
   "호남반도체부지간최태원\"용인3분의2규모…최대한빨리짓겠다\"",
   "최태원\"호남반도체최대한빨리..용인3분의2수준\"…논란속현장방...",
@@ -6001,7 +5998,10 @@
   "최태원,'힙지로'서직원들과회식…소통행보지속",
   "국힘,호남반도체·행정통합‘흠집내기’여전…민주·혁신당은방어...",
   "을지로회식이끈최태원식소통법…친근함위에시대화두던져",
-  "메타·스페이스X발투자훈풍⋯K-반도체·부품공급망존재감커진다"
+  "메타·스페이스X발투자훈풍⋯K-반도체·부품공급망존재감커진다",
+  "\"주식시장정상화는어디로\"…솔리다임상장움직임속野서커지는의...",
+  "[단독]델家'반도체펀드스타'영입다음날…최태원과5440억계약",
+  "주가는6개월최저,상장준비는착착…SK하이닉스주주가묻는'누구를..."
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,17 @@
   [
    "2026-10-22T16:30:25.323329+09:00",
    "투자 커진다 스페이스X발 부품 공급망 반도체 훈풍 존재감 메타"
+  ],
+  [
+   "2026-10-22T16:40:15.368512+09:00",
+   "5440억 계약 다음 영입 스타 펀드 최태원과 반도체"
+  ],
+  [
+   "2026-10-22T16:40:15.368512+09:00",
+   "주가는 SK하이닉스 묻는 최저 누구를 주주가 상장 착착 준비는 6개월"
   ]
  ],
- "last_run": "2026-10-22T16:30:38.431249+09:00",
+ "last_run": "2026-10-22T16:40:33.534440+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
