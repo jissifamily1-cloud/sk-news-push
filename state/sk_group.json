@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026102009200004270?did=NA",
-  "https://www.mt.co.kr/stock/2026/10/20/2026102016101584502",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2308281",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424442",
-  "https://www.youthdaily.co.kr/news/article.html?no=228614",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598940636039",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729597",
   "https://www.news1.kr/finance/general-stock/6326116",
   "https://www.kado.net/news/articleView.html?idxno=2079300",
   "https://www.yna.co.kr/view/AKR20261020083251008?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363740133",
   "https://www.news1.kr/entertain/broadcast-tv/6328072",
   "http://www.newskr.kr/news/articleView.html?idxno=107357",
-  "https://www.chosun.com/economy/economy_general/2026/10/22/6HXVAFCG2BAXFCLSPHFM5LN6CA/"
+  "https://www.chosun.com/economy/economy_general/2026/10/22/6HXVAFCG2BAXFCLSPHFM5LN6CA/",
+  "https://www.suwonilbo.kr/view.html?id=L261020162905d1c0",
+  "http://www.breaknews.com/1244831",
+  "https://www.newstree.kr/newsView/ntr202610220006",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281874",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875038",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=312194",
+  "https://www.m-joongang.com/news/articleView.html?idxno=403214"
  ],
  "seen_titles": [
-  "[메가이슈토픽]한국AI미래이끌30인누구?…LG·삼성·SK·현대차핵...",
-  "솔리다임논란은이사회책임?최태원아닌고승범지목한이유",
-  "SK증권주가,10월20일애프터마켓1,949원2.50%하락",
-  "솔리다임美상장추진에…당국'중복상장규제'어디까지가능할까",
-  "전력거래소,미취업청년30명대상전력시장교육운영",
-  "코스피,AI신용우려에5550선급락",
-  "코스피,6개월만에5500대마감…佛재정위기·美금리상승영향",
   "금융당국\"중복상장\"경고에도…미국행솔리다임에규제빈틈도마",
   "코스피19%빠질때,코스닥은8%…'반도체쏠림'이가른낙폭",
   "장동혁\"李대통령,중수청'성역없는수사'지시?…'내편'부터수사하...",
@@ -6001,7 +5994,14 @@
   "[민선9기취임100일]김보라안성시장\"더불어사는풍요로운안성향...",
   "곽튜브·도경완·이창훈,주식하락장에쓴맛…나란히손실고백[N이슈...",
   "올트먼이손에쥐어본'새로운종류의컴퓨터'",
-  "[속보]한은금통위,기준금리3%로동결"
+  "[속보]한은금통위,기준금리3%로동결",
+  "박승원광명시장,광명7동‘우리동네시장실’열고밀착소통",
+  "카드고릴라,간편결제혜택좋은신용카드5종선정",
+  "원치않는국가는차단...SKT'T로밍안심국가'무료서비스",
+  "신세계인터내셔날,3Q실적부진...4Q수익성회복전망",
+  "[개장]코스피,외국인매수에낙폭축소…1%약세",
+  "[ETF롤러코스터]③NH아문디,부메랑된'반도체집중전략'…하락장직격",
+  "추미애지사,'14조원재원확충'판바꾼다"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,17 @@
   [
    "2026-10-22T09:59:01.888163+09:00",
    "동결 기준금리 금통위 한은"
+  ],
+  [
+   "2026-10-22T10:01:20.237091+09:00",
+   "부메랑된 직격 집중전략 NH아문디 하락장 반도체"
+  ],
+  [
+   "2026-10-22T10:01:20.237091+09:00",
+   "확충 재원 추미애 바꾼다 14조원 지사"
   ]
  ],
- "last_run": "2026-10-22T09:59:31.959620+09:00",
+ "last_run": "2026-10-22T10:01:28.620751+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
