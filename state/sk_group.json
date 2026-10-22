@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226236",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482582",
-  "https://www.widedaily.com/news/articleView.html?idxno=302155",
-  "https://www.g-enews.com/view.php?ud=202610211022478066fbbec65dfb_1",
-  "http://www.inews24.com/view/2017192",
-  "http://www.inews24.com/view/2017187",
-  "https://www.etnews.com/20261021000110",
   "https://www.topstarnews.net/news/articleView.html?idxno=16253288",
   "http://www.breaknews.com/1244497",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482577",
@@ -2999,16 +2992,16 @@
   "https://biz.sbs.co.kr/article_hub/20000341592?division=NAVER",
   "https://www.hani.co.kr/arti/opinion/column/1283727.html",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=816802",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4113948"
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4113948",
+  "https://www.munhwa.com/article/11625540",
+  "https://www.ngetnews.com/news/articleView.html?idxno=554985",
+  "https://zdnet.co.kr/view/?no=20261022191253",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=229180",
+  "https://www.ngetnews.com/news/articleView.html?idxno=554983",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810951&plink=ORI&cooper=NAVER",
+  "https://www.newspim.com/news/view/20261022001382"
  ],
  "seen_titles": [
-  "SK렌터카,삼성화재와차량·보험데이터결합미래모빌리티사업모델...",
-  "코스피,외국인매수에3%대급등…5730선회복",
-  "한국투자증권,ELW224종목신규상장…삼성전자·SK하이닉스등기초자...",
-  "\"반갑다상승장\"…코스피,5700선에삼전닉스도5~6%반등",
-  "\"AI로가족목소리까지위조\"···SKT·금감원,보이스피싱대응강화",
-  "\"AI해킹꼼짝마\"…SK쉴더스·DB손보,중기사이버보안·보상'원스톱...",
-  "SK하이닉스3분기실적분기점…공급병목에HBM4가격주도권쥐는이...",
   "SK쉴더스,이노비즈협회·DB손해보험과중소기업보안강화협력",
   "SKT,T팩토리성수서'런메이트캠프'운영",
   "SK쉴더스,이노비즈협회·DB손보와중소기업보안지원체계구축",
@@ -6001,7 +5994,14 @@
   "솔리다임美상장,정부·국회변수급부상…막을수있나",
   "호남반도체의‘말잔치’[슬기로운기자생활]",
   "[포커스]상반기줄이고하반기채우고…KB금융,신종자본증권운용전...",
-  "[금융한입]레버리지손실부터해킹까지…국감서드러난금융의빈틈"
+  "[금융한입]레버리지손실부터해킹까지…국감서드러난금융의빈틈",
+  "‘상대적박탈감일까?하나도기쁘지않아’…반도체대기업,내년성과...",
+  "레버리지ETF손실·가계대출규제집중비판…정무위국감,금융소비자...",
+  "SK스토아,하나투어와일본여행특집전…AI인플루언서도등장",
+  "청와대부터국회까지...\"신규원전지연,정부가답하라\"",
+  "SK에너지·HD현대오일뱅크대표,산자위국감증인철회…가격담합추가...",
+  "\"삼성·SK처럼\"요구에…마이크론'분기성과급'신설",
+  "[코인시황]비트코인8만2000달러대로추락…ETF에10억달러몰려도반..."
  ],
  "recent_sigs": [
   [
@@ -7135,9 +7135,13 @@
   [
    "2026-10-22T19:11:06.558026+09:00",
    "드러난 손실부터 금융의 빈틈 국감서 레버리지 해킹까지"
+  ],
+  [
+   "2026-10-22T19:21:03.647938+09:00",
+   "10억달러 8만2000달러대로 몰려도 추락 ETF에 비트코인"
   ]
  ],
- "last_run": "2026-10-22T19:11:18.638824+09:00",
+ "last_run": "2026-10-22T19:21:09.723378+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
