@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jibs.co.kr/news/articles/articlesDetail/66581?feed=na",
-  "https://www.dailian.co.kr/news/view/1701987/?sc=Naver",
-  "https://www.edaily.co.kr/News/Read?newsId=04477206645613248&mediaCodeNo=257",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799459&plink=ORI&cooper=NAVER",
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=247808",
   "https://www.taxwatch.co.kr/article/tax/2026/10/15/0002/naver",
   "https://www.fnnews.com/news/202610151427349181",
@@ -2999,13 +2995,13 @@
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88798",
   "http://www.newsmp.com/news/articleView.html?idxno=258825",
   "https://www.newsis.com/view/NISX20261022_0003837287",
-  "https://www.hankookilbo.com/news/article/A2026102213460002022?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026102213460002022?did=NA",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17091",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107380",
+  "https://www.fnnews.com/news/202610221337516095",
+  "https://www.newsway.co.kr/news/view?ud=2026102117013814150"
  ],
  "seen_titles": [
-  "투표자수허위입력혐의...서귀포선관위압수수색",
-  "선관위특검,'선거물품독점특혜'부산선관위등10곳압색",
-  "CJ제일제당·오뚜기또‘가격통제’의혹…공정위,반복위반전력도...",
-  "특검,'선거물품독점특혜'부산·경남·경북선관위등10곳압수수색",
   "특검\"전국30개시군구선관위투표자수허위입력\"…중앙선관위등...",
   "관세청장\"특사경수사심사조직신설추진…비위재발방지\"",
   "선관위특검,'창고계약독점특혜'부산선관위등10곳압색...강제수...",
@@ -6001,10 +5997,19 @@
   "'AI'만붙이면장사된다?당국,'AI워싱'기준마련착수",
   "의협\"건보공단특사경도입반대,내부쇄신ㆍ자율정화가대안\"",
   "민주노총\"쿠팡산재은폐의혹불기소,노동부가면죄부줘\"",
-  "운전중휴대폰으로음란물보다…美40대,'3중추돌'사망사고냈다"
+  "운전중휴대폰으로음란물보다…美40대,'3중추돌'사망사고냈다",
+  "아시아기후금융확대속도…日·中사례로본한국의과제",
+  "[국감현장]이억원·이찬진,레버리지ETF에\"무거운마음\"",
+  "'가거도방파제공사비뻥튀기'삼성물산전·현직임직원,1심서징역형...",
+  "\"합병한다더니3년째\"…티빙·웨이브통합막는'주주셈법'"
  ],
- "recent_sigs": [],
- "last_run": "2026-10-22T16:40:59.759870+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-22T16:50:57.734289+09:00",
+   "합병한다더니 티빙 주주 셈법 3년째 막는 웨이브 통합"
+  ]
+ ],
+ "last_run": "2026-10-22T16:51:04.548662+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
