@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690591",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261020204828VOM",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=313581",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708548",
-  "http://www.kjdaily.com/article.php?aid=1792496411689789276",
-  "https://biz.heraldcorp.com/article/10908702",
-  "https://www.thepublic.kr/news/articleView.html?idxno=323035",
-  "https://www.etnews.com/20261020000418",
-  "https://view.asiae.co.kr/article/2026102020524635875",
-  "https://www.newstnt.com/news/articleView.html?idxno=724082",
-  "https://www.sportschosun.com/basketball/2026-10-20/202610200100130270008498",
   "https://m.sports.naver.com/basketball/article/065/0000303234",
   "https://www.mydaily.co.kr/page/view/2026102020482764627",
   "https://sports.khan.co.kr/article/202610202104003?pt=nv",
@@ -2999,20 +2988,20 @@
   "http://www.intn.co.kr/news/articleView.html?idxno=2054248",
   "https://www.mt.co.kr/finance/2026/10/22/2026102211331225510",
   "https://news.jtbc.co.kr/article/NB12324310?influxDiv=NAVER",
-  "https://www.donga.com/news/Economy/article/all/20261022/134888635/1"
+  "https://www.donga.com/news/Economy/article/all/20261022/134888635/1",
+  "https://www.mydaily.co.kr/page/view/2026102212202474313",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=93347",
+  "https://www.wikitree.co.kr/articles/1168285",
+  "https://www.sidae.com/article/2026102212023898082",
+  "https://www.ppss.kr/news/articleView.html?idxno=316814",
+  "https://www.ekn.kr/web/view.php?key=20261022027159653",
+  "https://www.newsis.com/view/NISX20261022_0003836689",
+  "https://www.newsis.com/view/NISX20261021_0003835679",
+  "https://econotimes.com/Nvidia-s-NVHBM-Could-Give-It-More-Leverage-With-Memory-Suppliers-1759789",
+  "https://www.imaeil.com/page/view/2026102210532367019",
+  "https://m.skyedaily.com/news_view.html?ID=313343"
  ],
  "seen_titles": [
-  "식약처공무원직무관련주식거래3년연속적발…신규취득만5건",
-  "MIT테크놀로지리뷰코리아,한국AI산업이끄는30인선정…반도체·...",
-  "안성시의회반도체방류수철회요구",
-  "김종민의원\"섞이면위험한반도체특수가스안전요청\"",
-  "EliceSharesClose32%BelowOfferPriceinKosdaqDebut",
-  "SK하이닉스,실적잔치에주가흔들…중복상장논란",
-  "[공시]10월21일,코스피상장사51개종목자사주매수신청",
-  "NXT\"프리마켓시가단일가매매내년1월18일도입\"",
-  "[간추린단신]청주시·SK하이닉스,민관협력도시숲조성외",
-  "코스피,이틀간상승분반납…AI우려·佛정세불안부각",
-  "보안출동대원도응급처치훈련…ADT캡스,CPR교육전연차로확대",
   "증시부진에'밸류업'도시험대...관건은'주주환원실효성'",
   "SK하이닉스·삼성전자거래대금7.7조…상위50종목의51%",
   "“코스피14%빠질때19%급등”이날만기다렸다…시총3위넘보는LG...",
@@ -6001,7 +5990,18 @@
   "7~8월서학개미해외주식순매수,단일종목레버리지출시전보다많아",
   "이억원\"캐피탈사렌탈규제완화,중소업체보호고려…장기시장경쟁...",
   "삼전닉스'두배베팅'에6.3조손실…70대이상계좌당3000만원",
-  "“삼전닉스처럼‘영업익N%’성과급달라”…마이크론대만공장24시..."
+  "“삼전닉스처럼‘영업익N%’성과급달라”…마이크론대만공장24시...",
+  "금융당국,레버리지ETF손실에고개숙였지만…“졸속심사는아냐”",
+  "SK하이닉스,'반도체의날'서동탑산업훈장등5건수상…HBM기술경쟁...",
+  "400만원간다길래…저점매수터지고도매입해수익률떨어진'연예인'",
+  "이억원\"솔리다임중복상장규제…SK스퀘어·하닉의무이행해야\"",
+  "코스피,하루만에다시하락…5,670선출발에반등지속성시험대",
+  "“빅테크호실적이라며”…AI관련주다시흔들리는이유는[머니+]",
+  "野,정무위서\"단일종목ETF심사단축윗선밝혀라\"…與,맞대응자제",
+  "\"호남반도체,소외없게\"…국감서'주민수용성확보'지적",
+  "Nvidia'sNVHBMCouldGiveItMoreLeverageWithMemorySuppliers",
+  "\"회장님도3차까지?\"…최태원,야장부터와인바까지을지로서'깜짝회...",
+  "개미는6조날렸는데…미래에셋임직원4조굴렸다"
  ],
  "recent_sigs": [
   [
@@ -7063,9 +7063,33 @@
   [
    "2026-10-22T12:21:04.391744+09:00",
    "마이크론 대만공장 성과급 달라 영업익 24시 삼전닉스처럼"
+  ],
+  [
+   "2026-10-22T12:31:16.487043+09:00",
+   "AI 다시 이유는 관련주 흔들리는 빅테크 호실적이라며"
+  ],
+  [
+   "2026-10-22T12:31:16.487043+09:00",
+   "윗선 단축 심사 맞대응 밝혀라 자제 단일종목 ETF 정무위서"
+  ],
+  [
+   "2026-10-22T12:31:16.487043+09:00",
+   "확보 없게 주민수용성 국감서 호남반도체 소외 지적"
+  ],
+  [
+   "2026-10-22T12:31:16.487043+09:00",
+   "Give With Nvidia Memory NVHBM Suppliers Could More It Leverage"
+  ],
+  [
+   "2026-10-22T12:31:16.487043+09:00",
+   "최태원 3차까지 회장님도 야장부터 깜짝 을지로서 와인바까지"
+  ],
+  [
+   "2026-10-22T12:31:16.487043+09:00",
+   "미래에셋 날렸는데 6조 개미는 4조 굴렸다 임직원"
   ]
  ],
- "last_run": "2026-10-22T12:21:13.453445+09:00",
+ "last_run": "2026-10-22T12:31:36.231312+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
