@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261022000104",
-  "https://www.ddaily.co.kr/page/view/2026102209503642115",
-  "https://www.yna.co.kr/view/AKR20261022061400003?input=1195m",
-  "https://www.seoul.co.kr/news/economy/industry/2026/10/22/20261022500046?wlog_tag3=naver",
-  "https://platum.kr/archives/296808",
   "http://www.4th.kr/news/articleView.html?idxno=2120202",
   "https://www.segye.com/newsView/20261022507399?OutUrl=naver",
   "http://www.finomy.com/news/articleView.html?idxno=264310",
@@ -2999,14 +2994,14 @@
   "https://www.xportsnews.com/article/2210780",
   "https://www.dongponews.net/news/articleView.html?idxno=61253",
   "https://www.lawissue.co.kr/view.php?ud=20261023190855522f4ab64559d_12",
-  "https://biz.sbs.co.kr/article_hub/20000341792?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000341792?division=NAVER",
+  "https://econotimes.com/Solidigm-Ends-IPO-Review-Leaving-SK-hynix-s-U-S-Funding-Plans-Open-1761181",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610231907448640936",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=303339",
+  "http://www.popcornnews.net/news/articleView.html?idxno=137170",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=205452"
  ],
  "seen_titles": [
-  "신세계인터내셔날,3Q실적부진...4Q수익성회복전망",
-  "[개장]코스피,외국인매수에낙폭축소…1%약세",
-  "[ETF롤러코스터]③NH아문디,부메랑된'반도체집중전략'…하락장직격",
-  "추미애지사,'14조원재원확충'판바꾼다",
-  "'힙지로'에뜬최태원회장,직원들과야장회식포착",
   "SKT,서울대∙KAIST와'A.XK2'수학추론고도화",
   "美기술주강세에도삼성전자·SK하이닉스약세…코스피5720선",
   "코스피,전날급등뒤0.94%하락…삼성전자·SK하이닉스동반약세[fn오...",
@@ -6001,21 +5996,14 @@
   "'韓역사최초200안타'서건창,롯데레이예스향해리스펙…\"대단하단...",
   "인천,정부·국제제약회사손잡고'글로벌신약허브'대도약",
   "SK바이오사이언스,AI활용백신생산공정사례발표",
-  "[이슈체크]솔리다임악재걷혔다…“60%폭락도버텼다”SK하이닉스,..."
+  "[이슈체크]솔리다임악재걷혔다…“60%폭락도버텼다”SK하이닉스,...",
+  "SolidigmEndsIPOReview,LeavingSKhynix’sU.S.FundingPlansOpen",
+  "SK하이퍼,AI데이터센터에463조조달착수",
+  "\"졸레어저격성공…셀트리온,옴리클로로글로벌3대시장깃발꽂았다...",
+  "[2026국감]국토위마지막감사는?...'건설사국민평가'제안부터'부동...",
+  "LG유플러스,'폰교체패스'로혁신상받아…카카오모빌리티,ITS세계총회..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-23T13:31:12.574095+09:00",
-   "최하위권 많은 자산지수는 가장 1인가구의 1인가구 관악 서울"
-  ],
-  [
-   "2026-10-23T13:31:12.574095+09:00",
-   "KBL 기록은 LG 신기 아셈 언젠가는 마레이 34리바운드 경기 깨진다"
-  ],
-  [
-   "2026-10-23T13:31:12.574095+09:00",
-   "주말 2000원선 주가 장서 발동 VI SK증권 앞둔 상승하며"
-  ],
   [
    "2026-10-23T13:41:02.581144+09:00",
    "가능 골드만삭스 SK하이닉스 편입 나스닥"
@@ -6823,9 +6811,21 @@
   [
    "2026-10-23T19:21:03.316541+09:00",
    "솔리다임 폭락도 버텼다 악재 걷혔다 SK하이닉스"
+  ],
+  [
+   "2026-10-23T19:31:18.491137+09:00",
+   "글로벌 졸레어 저격 꽂았다 셀트리온 3대 깃발 시장 옴리클로로 성공"
+  ],
+  [
+   "2026-10-23T19:31:18.491137+09:00",
+   "국민평가 제안부터 부동 건설사 국토위 마지막 감사는"
+  ],
+  [
+   "2026-10-23T19:31:18.491137+09:00",
+   "LG유플러스 세계총회 카카오모빌리티 ITS 폰교체패스 혁신상 받아"
   ]
  ],
- "last_run": "2026-10-23T19:21:10.387034+09:00",
+ "last_run": "2026-10-23T19:31:29.635869+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
