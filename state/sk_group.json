@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026102211431388531",
-  "https://www.ytn.co.kr/_ln/0102_202610221143392264",
-  "https://www.ekn.kr/web/view.php?key=20261022029469736",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215538",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692410",
   "https://biz.chosun.com/stock/stock_general/2026/10/22/MYWM4IKFDVBU7B4JVMVJ4A3BHY/",
   "https://www.news1.kr/finance/general-stock/6328419",
   "https://www.yna.co.kr/view/AKR20261022094700001?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://www.segye.com/newsView/20261023514085?OutUrl=naver",
   "https://www.fnnews.com/news/202610232023405161",
   "https://www.khan.co.kr/article/202610240700001",
-  "https://www.newspim.com/news/view/20261022001253"
+  "https://www.newspim.com/news/view/20261022001253",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376814",
+  "http://www.osen.co.kr/article/G1112897550",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812748&plink=ORI&cooper=NAVER",
+  "https://view.asiae.co.kr/article/2026102210433429136",
+  "https://www.theguru.co.kr/news/article.html?no=108744"
  ],
  "seen_titles": [
-  "이억원\"솔리다임,중복상장규제대상…SK스퀘어·하닉5대의무이행...",
-  "희망브리지·SK하이닉스,용인산림에'AI방화벽'전격구축...\"산불...",
-  "순현금69조인데굳이?…솔리다임IPO,SK하이닉스주주실익은",
-  "'삼전닉스'주가,역사적저평가구간…\"11~12월W자반등시작\"",
-  "[2026국감]이억원\"솔리다임중복상장대상…5대의무이행해야\"",
   "소주즐긴최태원'힙지로회식'목격담…밝은표정에\"주가기대\"[뉴스...",
   "김동선한화M&S사장,지배력강화위해'삼전닉스'주담대도활용",
   "[2026국감]이억원\"솔리다임상장은중복상장…SK하닉,주주충실의무이...",
@@ -6001,7 +5996,12 @@
   "[법조브리핑]‘노태우비자금’관련이병기당시의전비서관소환外",
   "대통령찾은계양신도시가보니\"서울15분거리\"...첫민간분양도출격...",
   "회장님이왜여기에?…‘딸깍’하면뚝딱,AI영상복제괜찮을까",
-  "[아!코스피]④국민연금보유주식평가액182조줄어…반도체쏠림에..."
+  "[아!코스피]④국민연금보유주식평가액182조줄어…반도체쏠림에...",
+  "2015년이후PO에서무려5차례업셋나와..KIA의기세,1차전승리가관...",
+  "‘아직35살인데’65억FA보상선수방출왜?넥센→SK→KT→LG→KIA,16년...",
+  "\"솔리다임미국상장중단\"…하이닉스4%대상승",
+  "반도체석유화의최종관문…'GPU선물'이뭐길래[테크토크]",
+  "[통신리뷰]LG유플러스,에릭슨과손잡고기지국장비간연결거리3배..."
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,17 @@
   [
    "2026-10-24T07:11:06.431274+09:00",
    "182조 줄어 반도체 쏠림에 국민연금 평가액 보유주식"
+  ],
+  [
+   "2026-10-24T07:21:06.814485+09:00",
+   "최종 뭐길래 선물 석유화의 반도체 관문 GPU"
+  ],
+  [
+   "2026-10-24T07:21:06.814485+09:00",
+   "손잡고 기지국 에릭슨과 연결 3배 거리 장비 LG유플러스"
   ]
  ],
- "last_run": "2026-10-24T07:11:35.474386+09:00",
+ "last_run": "2026-10-24T07:21:16.211237+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
