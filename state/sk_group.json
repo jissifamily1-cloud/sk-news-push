@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261021_0003835790",
-  "https://www.segye.com/newsView/20261021519814?OutUrl=naver",
-  "http://www.inews24.com/view/2017397",
-  "https://www.ikbc.co.kr/article/view/kbc202610210070",
-  "https://www.m-i.kr/news/articleView.html?idxno=2008797",
-  "https://www.newsis.com/view/NISX20261021_0003835782",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6859699_37004.html",
-  "https://www.bloter.net/news/articleView.html?idxno=676324",
-  "https://view.asiae.co.kr/article/2026102120015387387",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210077&t=NN",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210148&t=NNv",
   "http://www.cctimes.kr/news/articleView.html?idxno=933260",
@@ -2999,18 +2990,18 @@
   "https://www.discoverynews.kr/news/articleView.html?idxno=1103878",
   "http://www.yonhapnewstv.co.kr/news/MYH20261023125731j9k",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303306",
-  "https://www.ddaily.co.kr/page/view/2026102311043225455"
+  "https://www.ddaily.co.kr/page/view/2026102311043225455",
+  "https://www.kukinews.com/article/view/kuk202610230077",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=312338",
+  "https://www.ppss.kr/news/articleView.html?idxno=317059",
+  "https://www.naeil.com/news/read/606191",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365089",
+  "https://www.fnnews.com/news/202610231240219837",
+  "https://www.gokorea.kr/news/articleView.html?idxno=882474",
+  "https://www.sedaily.com/article/20105307",
+  "https://www.naeil.com/news/read/606190"
  ],
  "seen_titles": [
-  "대기업사내주택대출6천억원돌파…송언석\"대출규제형평성맞춰야...",
-  "[인사이트뉴스]엔비디아의'HBM표준화'가호재라고?…삼성턴키전략...",
-  "\"거래량한도초과우려\"…NXT,2개종목거래중단",
-  "승강제및저PBR공표눈앞...약발먹힐까",
-  "안방뺏긴삼성·SK,중국팹200층벽뚫고수성나선다",
-  "SK하이닉스,자사주매입작업마무리…40조원규모",
-  "정부기관세종이전본격화…조상호세종시장\"행정수도특별법연내제...",
-  "송재혁반도체협회장\"반도체적기투자중요...정부의과감한정책기...",
-  "[현장]송재혁삼성전자사장\"AI반도체호황,한국에새로운기회…선...",
   "개미들,단일종목레버리지로2.3조원날려…40대손실가장컸다",
   "'반도체의날'금탑훈장에동진쎄미켐이준혁…삼성·SK도수상",
   "\"AI·반도체육성,시민삶개선으로이어져야…주민동의·환경도중요...",
@@ -6001,7 +5992,16 @@
   "워커힐,한국김장문화연계'제10회김장담그는날'개최",
   "[경제읽기]코스피,하락세지속…\"솔리다임상장절차중단\"",
   "\"美서'쪼개기상장'안통한다\"…'솔리다임후폭풍'닥친보스턴다이...",
-  "D램쇼티지가부른HBM설계변화…삼성파운드리주목받는까닭"
+  "D램쇼티지가부른HBM설계변화…삼성파운드리주목받는까닭",
+  "비기면제주,이기면인천…파이널A막차‘혈투’[K리그1프리뷰]",
+  "SK에코플랜트,AI스마트횡단보도로어린이통학길지킨다",
+  "통신3사미환급금5년째30억원안팎…63만건주인못찾아",
+  "주주보호압박속솔리다임상장중단",
+  "이통3사,아이폰듀오일제히출시",
+  "솔리다임상장멈추자,시선은'주주지갑'으로…SK하이닉스실적에쏠...",
+  "SK하이닉스,솔리다임미국상장검토중단…자금조달대안모색",
+  "“우리도삼전닉스처럼N%성과급달라”…마이크론대만공장파업돌입",
+  "‘유출유심’그냥쓰는사용자157만명"
  ],
  "recent_sigs": [
   [
@@ -6943,9 +6943,17 @@
   [
    "2026-10-23T12:51:04.680811+09:00",
    "살렸다 하이닉스 호재도 코스피 털썩"
+  ],
+  [
+   "2026-10-23T13:11:03.361810+09:00",
+   "달라 마이크론 삼전닉스처럼 돌입 대만공장 성과급 우리도 파업"
+  ],
+  [
+   "2026-10-23T13:11:03.361810+09:00",
+   "유심 유출 쓰는 그냥 사용자 157만명"
   ]
  ],
- "last_run": "2026-10-23T13:01:25.076199+09:00",
+ "last_run": "2026-10-23T13:11:11.889968+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
