@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11625370",
-  "http://www.inews24.com/view/2017807",
-  "https://www.kpinews.kr/newsView/1065579676672282",
-  "https://www.hani.co.kr/arti/opinion/column/1283334.html",
-  "https://www.hankookilbo.com/news/article/A2026102211170005395?did=NA",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3154313",
-  "https://news.tf.co.kr/read/economy/2379424.htm",
-  "https://www.thepublic.kr/news/articleView.html?idxno=323290",
-  "https://www.dailian.co.kr/news/view/1704628/?sc=Naver",
-  "https://www.nocutnews.co.kr/news/6595412",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=312256",
   "https://view.asiae.co.kr/article/2026102211431388531",
   "https://www.ytn.co.kr/_ln/0102_202610221143392264",
   "https://www.ekn.kr/web/view.php?key=20261022029469736",
@@ -2999,20 +2988,20 @@
   "https://magazine.hankyung.com/business/article/202610231132b",
   "http://www.joseilbo.com/news/news_read.php?uid=578064&class=53",
   "http://weekly.chosun.com/news/articleView.html?idxno=56456",
-  "https://www.newscj.com/news/articleView.html?idxno=3442721"
+  "https://www.newscj.com/news/articleView.html?idxno=3442721",
+  "https://www.sedaily.com/article/20105540",
+  "https://dgmbc.com/NewsArticle/869184",
+  "https://www.news2day.co.kr/article/20261023500199",
+  "http://www.segyebiz.com/newsView/20261023513523?OutUrl=naver",
+  "https://www.edaily.co.kr/News/Read?newsId=01784326645616200&mediaCodeNo=257",
+  "https://www.segye.com/newsView/20261023508437?OutUrl=naver",
+  "https://www.segye.com/newsView/20261023504046?OutUrl=naver",
+  "https://www.segye.com/newsView/20261023514085?OutUrl=naver",
+  "https://www.fnnews.com/news/202610232023405161",
+  "https://www.khan.co.kr/article/202610240700001",
+  "https://www.newspim.com/news/view/20261022001253"
  ],
  "seen_titles": [
-  "지커코리아,중형전기SUV7X1호차SK온에전달...국내인도시작",
-  "SKT,‘T로밍안심국가’출시…로밍최초이용시허용여부확인",
-  "SKT,원치않는해외로밍막는다...'T로밍안심국가'출시",
-  "김동선,한화M&S공개매수판키워지분36.8%확보...독자경영굳힌다",
-  "“바닥은어디”…삼성전자·SK하이닉스,나란히3%대약세",
-  "어플라이드,'제19회반도체의날'산업포장수훈",
-  "이억원“SK하닉자회사솔리다임,美상장도중복상장규제대상”",
-  "첨단산업특성과‘지역배분’의모순[시평]",
-  "[아이포럼2026]최기영이꺼낸'콘택트'…AI시대,인류는준비됐나",
-  "[노성열의AI경제]노벨상과지능화사회의도래",
-  "AI시대,동인도회사의교훈[한겨레프리즘]",
   "이억원\"솔리다임,중복상장규제대상…SK스퀘어·하닉5대의무이행...",
   "희망브리지·SK하이닉스,용인산림에'AI방화벽'전격구축...\"산불...",
   "순현금69조인데굳이?…솔리다임IPO,SK하이닉스주주실익은",
@@ -6001,7 +5990,18 @@
   "“없어서못판다”…아이폰듀오,인기'폭발'",
   "중동발유가급등에뉴욕증시휘청…다우652포인트↓·반도체선방",
   "신입은안뽑고AI만쓴다…무너지는청년들의취업사다리",
-  "[천지일보이슈종합]최충락보호관찰소탐지기통과·소방재정부담..."
+  "[천지일보이슈종합]최충락보호관찰소탐지기통과·소방재정부담...",
+  "솔리다임상장접은SK하이닉스…‘30조주주환원’,코스피반등카드...",
+  "3연승뒤일격,그리고긴휴식한국가스공사···선두서울삼성맞대...",
+  "정수기넘어홈케어로…렌털업계,고령친화시장공략",
+  "[주간증시전망]국내외주요기업실적발표슈퍼위크…삼전닉스주주환...",
+  "SK하이닉스·롯데렌탈·알테오젠[하나證주간추천주]",
+  "'가을의악연'삼성-KIA36년만의PO격돌…이번엔누가웃을까",
+  "야고·클리말라선두다툼…무고사도추격,K리그1득점왕'안갯속'",
+  "[법조브리핑]‘노태우비자금’관련이병기당시의전비서관소환外",
+  "대통령찾은계양신도시가보니\"서울15분거리\"...첫민간분양도출격...",
+  "회장님이왜여기에?…‘딸깍’하면뚝딱,AI영상복제괜찮을까",
+  "[아!코스피]④국민연금보유주식평가액182조줄어…반도체쏠림에..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,49 @@
   [
    "2026-10-24T07:01:16.612418+09:00",
    "재정 통과 소방 보호관찰소 탐지기 최충락 부담"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "맞대 한국가스공사 서울삼성 선두 그리고 휴식 3연승 일격"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "공략 시장 고령친화 넘어 홈케어로 정수기 렌털업계"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "기업 발표 슈퍼위크 주요 주주환 실적 국내외 삼전닉스"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "롯데렌탈 알테오젠 SK하이닉스"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "삼성 가을의 누가 웃을까 KIA PO 36년 격돌 이번엔 만의 악연"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "안갯속 무고사도 선두 다툼 야고 K리그1 득점왕 추격 클리말라"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "이병기 노태우 비자금 의전비서관 당시 소환"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "거리 15분 서울 가보니 출격 대통령 민간분양도 찾은 계양신도시"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "괜찮을까 뚝딱 AI 딸깍 영상복제 회장님이 여기에 하면"
+  ],
+  [
+   "2026-10-24T07:11:06.431274+09:00",
+   "182조 줄어 반도체 쏠림에 국민연금 평가액 보유주식"
   ]
  ],
- "last_run": "2026-10-24T07:01:25.407250+09:00",
+ "last_run": "2026-10-24T07:11:35.474386+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
