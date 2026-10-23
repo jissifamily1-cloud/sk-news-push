@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12177626",
-  "https://view.asiae.co.kr/article/2026101610551422803",
-  "https://view.asiae.co.kr/article/2026101610345246153",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=454092",
-  "https://www.sisajournal.com/news/articleView.html?idxno=390512",
-  "https://www.ikbc.co.kr/article/view/kbc202610160022",
-  "http://www.inews24.com/view/2015740",
-  "https://www.newspim.com/news/view/20261016000421",
   "https://www.yna.co.kr/view/AKR20261016062300057?input=1195m",
   "http://www.inews24.com/view/2015769",
   "https://dealsite.co.kr/articles/170755",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261023_0003839138",
   "https://kormedi.com/?p=2890675",
   "https://www.sedaily.com/article/20105481",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693672"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693672",
+  "https://www.asiatime.co.kr/article/20261023500342",
+  "https://www.etoday.co.kr/news/view/2639576",
+  "https://www.mt.co.kr/society/2026/10/23/2026102317302138960",
+  "https://www.yna.co.kr/view/AKR20261023154600011?input=1195m",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41190",
+  "https://news.koreanbar.or.kr/news/articleView.html?idxno=36254",
+  "https://www.kmib.co.kr/article/20261023500452",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20240"
  ],
  "seen_titles": [
-  "[속보]‘딸교수임용의혹’유승민전의원송치…업무방해혐의",
-  "'딸교수임용의혹'유승민전의원,업무방해혐의송치(종합)",
-  "경찰,'DMZ사고'李대통령고발사건수사착수",
-  "이병도충남교육감취임후첫국감…주요쟁점은?",
-  "경찰,'딸교수특혜임용의혹'유승민등4명공소청송치",
-  "'딸교수임용의혹'유승민,업무방해혐의송치…딸유담은입건안돼",
-  "[2026국감]서울중앙지법\"형사중법정1개늘리고재판연구원추가배...",
-  "경찰,'DMZ폭발'관련李대통령·국방장관고발인조사",
   "울산안과서마취중심정지온27개월여아끝내숨져",
   "'광고계약서언제써야하나'…공정위,대홍기획에'PPM기준'적용과징...",
   "밤10시에도제재소명하는데…금융위세종이전에'출석부담'우려",
@@ -6001,7 +5993,15 @@
   "최휘영\"유홍준논란감사…'패노메논'합작법인,이달설립\"(종합)",
   "“소아응급실자체가없어질위기⋯정부·경찰,아직도뭐가문젠지몰...",
   "금융사해킹사건도손사래…중대범죄피하는중수청",
-  "[사사건건]오세훈항소심‘무죄’…여야평가는?"
+  "[사사건건]오세훈항소심‘무죄’…여야평가는?",
+  "[윤영민칼럼]ESG공시시대,보여주기식경영의종말",
+  "‘백신담합무죄’녹십자행정소송패소뒤집힐까...헌재재판소원첫...",
+  "담합형사재판무죄였는데행정소송패소…녹십자재판소원쟁점은",
+  "[연합뉴스이시각헤드라인]-18:00",
+  "[사회pick]개인정보위,서버로그몰래삭제한KT조사방해고발조치",
+  "\"검찰수사권폐지로고소인권리구제·피의자방어권약화우려\"",
+  "중수청방문한이태한선관위특검…수사인력10명지원요청",
+  "참여연대\"경찰의쿠팡블랙리스트공익제보자송치규탄\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "소환 이병기 의혹 비자금 의전비서관 공소청 노태우"
   ]
  ],
- "last_run": "2026-10-23T17:50:57.505542+09:00",
+ "last_run": "2026-10-23T18:01:14.630386+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
