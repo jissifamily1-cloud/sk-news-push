@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/gwangju-jeonnam/6315387",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34959",
   "https://www.tournews21.com/news/articleView.html?idxno=145322",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267638",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727286",
@@ -2999,11 +2997,11 @@
   "https://www.news2day.co.kr/article/20261023500142",
   "https://dealsite.co.kr/articles/171222",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=257160",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=205435"
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=205435",
+  "https://www.fnnews.com/news/202610231622581845",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875772"
  ],
  "seen_titles": [
-  "최태원,호남반도체부지첫방문…“전력·용수늦어도먼저착공가...",
-  "최태원,전남광주반도체공장건설의지…구체적일정언급없어",
   "[데일리안오늘뉴스종합]李대통령與강경파비판,DMZ지뢰폭발놓고...",
   "최태원“호남반도체,전력·용수늦어도공사먼저…용인3분의2규모...",
   "총수의지로빨라지는'호남반도체시계'…\"더빨리,더크게\"",
@@ -6001,7 +5999,9 @@
   "[재계인사이드]이재용회장,삼성물산직접경영여부에재계관심고...",
   "솔리다임상장,시동잠시'홀딩'…최적타이밍노리는최태원",
   "SK하이닉스,솔리다임IPO중단…최태원SK회장다음선택은뭘까",
-  "한국투자증권,구조화금융강자…SK·한화·두산PRS잇따라참여"
+  "한국투자증권,구조화금융강자…SK·한화·두산PRS잇따라참여",
+  "공소청,'노태우비자금의혹'이병기前비서관참고인소환",
+  "[마켓H]솔리다임논란봉합…최태원,SK하닉'반토막'원망벗을까?"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-10-23T16:30:25.040094+09:00",
    "한화 참여 잇따라 구조화금융 한국투자증권 두산 강자 PRS"
+  ],
+  [
+   "2026-10-23T16:40:17.732529+09:00",
+   "반토막 벗을까 원망 SK하닉 봉합 논란 솔리다임"
   ]
  ],
- "last_run": "2026-10-23T16:30:39.278733+09:00",
+ "last_run": "2026-10-23T16:40:29.848806+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
