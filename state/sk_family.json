@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494054",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871452",
   "https://www.namdonews.com/news/articleView.html?idxno=925674",
   "https://www.polinews.co.kr/news/articleView.html?idxno=745342",
   "https://www.viva100.com/article/20261009500154",
@@ -2999,11 +2997,11 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000076054",
   "https://www.newsinside.kr/news/articleView.html?idxno=5031215",
   "http://www.tvdaily.co.kr/read.php3?aid=17927201001806648019",
-  "https://www.hankyung.com/article/202610230738H"
+  "https://www.hankyung.com/article/202610230738H",
+  "https://www.insight.co.kr/news/578895",
+  "https://view.asiae.co.kr/article/2026102311271182280"
  ],
  "seen_titles": [
-  "최태원\"호남반도체팹규모,용인3분의2수준검토...속도감있게추...",
-  "최태원회장“호남반도체공장최대한빨리착공…시점곧발표”",
   "[CEO풍향계]'반도체역량강화'최태원…'AI속도전'구자은",
   "호남반도체공장부지둘러본최태원“땅·수요더있다면용인보다...",
   "최태원SK회장,호남반도체팹'속도전'천명…\"전력·용수늦어도조기...",
@@ -6001,7 +5999,9 @@
   "\"왜돌연美상장접었나\"…SK하이닉스의속사정",
   "[정해균의Zoom-人]'각양강색'전문경영인부회장...사업총괄부터회장...",
   "'이혼'서인영\"혼전계약서안쓴것,땅치고후회\"(유행꼰대)",
-  "최태원\"샀다팔았다하지말라\"더니…팔수없게된SK하닉"
+  "최태원\"샀다팔았다하지말라\"더니…팔수없게된SK하닉",
+  "서인영,'이별위자료'얘기에급발진\"아예안주는사람도있어...혼인...",
+  "거버넌스포럼\"SK하이닉스,솔리다임美상장중단환영\""
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-10-23T11:20:15.327219+09:00",
    "SK하닉 말라 샀다 더니 없게 팔았다 하지"
+  ],
+  [
+   "2026-10-23T11:30:26.170510+09:00",
+   "거버넌스포럼 솔리다임 SK하이닉스 상장중단 환영"
   ]
  ],
- "last_run": "2026-10-23T11:20:29.321906+09:00",
+ "last_run": "2026-10-23T11:30:41.996022+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
