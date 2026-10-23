@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202610161034001",
-  "https://www.ytn.co.kr/_ln/0101_202610161028226704",
-  "https://www.kyeonggi.com/article/20261016580069",
-  "https://www.joongang.co.kr/article/25470267",
-  "https://www.ziksir.com/news/articleView.html?idxno=149652",
-  "http://www.newsprime.co.kr/news/article.html?no=751236",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5225335",
   "https://www.incheontoday.com/news/articleView.html?idxno=325031",
   "https://www.jasm.co.kr/news/view/321796/?sc=Naver",
@@ -2999,15 +2993,15 @@
   "https://sports.khan.co.kr/article/202610231638003?pt=nv",
   "https://www.catchnews.kr/news/articleView.html?idxno=129699",
   "https://www.fnnews.com/news/202610231622581845",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278078&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278078&CMPT_CD=P0010",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=138043",
+  "https://www.topdaily.kr/articles/112478",
+  "https://view.asiae.co.kr/article/2026102316443389801",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=367968",
+  "https://zdnet.co.kr/view/?no=20261023160342",
+  "https://www.ppss.kr/news/articleView.html?idxno=317102"
  ],
  "seen_titles": [
-  "[속보]경찰,‘딸교수임용의혹특혜의혹’유승민전의원송치",
-  "반환점돈국감...추미애'소방빨대'발언후폭풍[뉴스퀘어10]",
-  "[속보]경찰,'딸교수임용의혹'유승민전의원등4명송치",
-  "[속보]‘딸교수임용의혹’유승민전의원등4명송치",
-  "스드메가격정보'깜깜이'…공정위,업체17곳과태료부과착수",
-  "결혼비용·위약금표시누락…공정위,17개업체과태료절차착수",
   "\"가격등공개안해\"…'스드메'업체17곳에첫과태료통지",
   "'임용특혜의혹'이인재인천대총장·유승민전의원등공소청송치",
   "'딸교수임용의혹'유승민전의원송치…업무방해혐의",
@@ -6001,7 +5995,13 @@
   "경축!신성,충남예산홍보대사됐다",
   "\"신일전기요싱글3만9950원\"이마트,캠핑용품·가전제품할인행사",
   "공소청,'노태우비자금의혹'이병기前비서관참고인소환",
-  "통일부,'북한에정동영딸'한미일보언중위조정신청"
+  "통일부,'북한에정동영딸'한미일보언중위조정신청",
+  "가습기살균제악몽재현되나…발뮤다필터서MIT검출",
+  "[CEO성과점검][HD현대오일뱅크]송명준·정임주공동대표,임기만료...",
+  "\"할인은자영업자가,수수료는할인전기준\"…국감서질타받은쿠팡이...",
+  "[2026국감]약손명가화장품51개필수구매논란…김현숙전대표\"그동...",
+  "국감서쿠팡이츠수수료·배달비부담논란…김명규대표\"개선하겠다\"",
+  "중수청,금융권AI해킹수사않기로…출범초기부터'사건핑퐁'논란"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "소환 이병기 의혹 비자금 의전비서관 공소청 노태우"
   ]
  ],
- "last_run": "2026-10-23T16:40:58.309626+09:00",
+ "last_run": "2026-10-23T16:50:57.645220+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
