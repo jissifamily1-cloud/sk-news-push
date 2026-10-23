@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=766505",
-  "https://www.mk.co.kr/article/12182702",
-  "https://www.ddaily.co.kr/page/view/2026102211122300957",
-  "https://www.dt.co.kr/article/12090619",
   "https://www.munhwa.com/article/11625370",
   "http://www.inews24.com/view/2017807",
   "https://www.kpinews.kr/newsView/1065579676672282",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10913160",
   "http://www.rookie.co.kr/news/articleView.html?idxno=128911",
   "https://econotimes.com/Hyperliquid-Prices-Moderna-Futures-at-190-53-During-U-S-Market-Closure-1761655",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=283674"
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283674",
+  "https://magazine.hankyung.com/business/article/202610231132b",
+  "http://www.joseilbo.com/news/news_read.php?uid=578064&class=53",
+  "http://weekly.chosun.com/news/articleView.html?idxno=56456",
+  "https://www.newscj.com/news/articleView.html?idxno=3442721"
  ],
  "seen_titles": [
-  "증권가\"메모리반도체우려,지금이최악…연말반등\"",
-  "희망브리지-SK하이닉스,AI영상분석도입해용인지역산불예방망구...",
-  "금융위원장도“솔리다임은중복상장”재확인…‘이사회의무’압박",
-  "'힙지로'서포착된최태원...직원들과노포서'소주한잔'",
   "지커코리아,중형전기SUV7X1호차SK온에전달...국내인도시작",
   "SKT,‘T로밍안심국가’출시…로밍최초이용시허용여부확인",
   "SKT,원치않는해외로밍막는다...'T로밍안심국가'출시",
@@ -6001,7 +5997,11 @@
   "美팹증설자금대안찾는솔리다임…회사채?증자?차입?[칩칩팹팹]",
   "'연패탈출기회였는데…'또다시KT의발목잡은저조한외곽슛",
   "HyperliquidPricesModernaFuturesat$190.53DuringU.S.MarketClos",
-  "뉴욕증시,미-이란긴장·유가급등에하락...다우존스1.2%↓"
+  "뉴욕증시,미-이란긴장·유가급등에하락...다우존스1.2%↓",
+  "“없어서못판다”…아이폰듀오,인기'폭발'",
+  "중동발유가급등에뉴욕증시휘청…다우652포인트↓·반도체선방",
+  "신입은안뽑고AI만쓴다…무너지는청년들의취업사다리",
+  "[천지일보이슈종합]최충락보호관찰소탐지기통과·소방재정부담..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,17 @@
   [
    "2026-10-24T06:51:01.933226+09:00",
    "다우존스 급등에 긴장 이란 유가 하락 뉴욕증시"
+  ],
+  [
+   "2026-10-24T07:01:16.612418+09:00",
+   "청년들의 사다리 뽑고 취업 AI만 신입은 쓴다 무너지는"
+  ],
+  [
+   "2026-10-24T07:01:16.612418+09:00",
+   "재정 통과 소방 보호관찰소 탐지기 최충락 부담"
   ]
  ],
- "last_run": "2026-10-24T06:51:08.211197+09:00",
+ "last_run": "2026-10-24T07:01:25.407250+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
