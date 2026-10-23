@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.socialvalue.kr/news/view/1065573545303895",
-  "http://www.newsprime.co.kr/news/article.html?no=751945",
-  "https://www.sedaily.com/article/20104668",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729696",
-  "https://www.eroun.net/news/articleView.html?idxno=93136",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=138382",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200082.html",
-  "https://www.ddaily.co.kr/page/view/2026102209430078364",
-  "https://www.kado.net/news/articleView.html?idxno=2079736",
-  "https://news.tf.co.kr/read/economy/2379291.htm",
-  "https://www.ddaily.co.kr/page/view/2026102209331948546",
-  "https://www.greened.kr/news/articleView.html?idxno=352705",
   "https://news.mtn.co.kr/article/2026102209402459349",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=210069",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610220916397040639",
@@ -2999,21 +2987,21 @@
   "https://www.mk.co.kr/article/12184417",
   "http://www.econotelling.com/news/articleView.html?idxno=21494",
   "https://www.newspim.com/news/view/20261023001207",
-  "https://www.hankyung.com/article/2026102317951"
+  "https://www.hankyung.com/article/2026102317951",
+  "https://www.pressian.com/pages/articles/2026102317275292193",
+  "https://www.sedaily.com/article/20105498",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88124",
+  "https://www.kmaeil.com/news/articleView.html?idxno=655612",
+  "https://www.hankyung.com/article/2026102317851",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=123787",
+  "http://www.newskr.kr/news/articleView.html?idxno=107423",
+  "https://www.thelec.kr/news/articleView.html?idxno=64213",
+  "https://www.joongangenews.com/news/articleView.html?idxno=557879",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215739",
+  "https://news.mtn.co.kr/article/2026102316000213087",
+  "https://platum.kr/archives/296947"
  ],
  "seen_titles": [
-  "런메이트캠프연SKT가러너5명까지무료로AI자세분석을해준다",
-  "predict.funOpensSixNew15-MinuteUp-or-DownMarkets",
-  "희망브리지·SK하이닉스,용인산불감시CCTV10대에AI감지시스템구축",
-  "SKT,로밍이용범위직접관리가능'T로밍안심국가'출시",
-  "코스피,차익실현매물에1%대하락출발후낙폭축소시도(종합)",
-  "코스피,급등하루만에차익실현매물…반도체주약세에5700선내줘",
-  "코스피,美기술주강세에도하락출발···삼전·하닉보합권속5700선...",
-  "“회장님,지금여기계실때가”최태원을지로목격담",
-  "한화M&S김동선사장,공개매수31%로확대…소액주주참여기회넓힌다",
-  "[카드]\"미허용국가로밍제한\"…SKT'T로밍안심국가'출시",
-  "하인머크CEO“메모리칩소재더필요,韓신공장차세대공급망핵심...",
-  "코스피,반등하루만에약세전환…5700선아래로",
   "SK텔레콤,서울대·KAIST와AI수학추론고도화…수학난제해결도전",
   "SKT,'T로밍안심국가'선봬...국가별로밍차단지원",
   "지커7X1호차주인공은'SK온'…국내고객인도본격화",
@@ -6001,7 +5989,19 @@
   "'고점발행'삼전닉스ELS에물렸다…투자자한숨",
   "미장급락에도국장이올랐다",
   "[2026국감]종일프런티어AI공방…배경훈\"국가적인전략자산차원,반...",
-  "유럽의위기,韓자동차·배터리엔기회…中과재격돌"
+  "유럽의위기,韓자동차·배터리엔기회…中과재격돌",
+  "김보라안성시장“용인반도체상생협약,안성피해막는방향으로다...",
+  "솔리다임상장철회에SK하이닉스‘막판대반전’…안철수“李정부는...",
+  "코스피,장중4%급락딛고0.30%상승마감…삼성전자·SK하이닉스반등",
+  "정일영의원,10대건설사하자심사5,279건·현장사망자153명지적하며...",
+  "\"삼전닉스프리패스?\"입소문나더니…경쟁률폭발한학교",
+  "LG유플러스홍범식\"해킹은폐확인되면합당한책임다할것\"",
+  "코스피5,550선탈환했지만…외국인1조원'매도폭탄'",
+  "라온로보틱스,용인신공장첫삽",
+  "[지역이경쟁력이다]\"시민피해방관못해\"…김보라안성시장,용인반...",
+  "SK바이오,'ABDDSummit2026'서AI활용성과·확대전략발표",
+  "한일재계\"공급망공동대응…새로운60년연다\"",
+  "[BLT칼럼]특허관리회사와의라이선스,계열법인까지정의해야한다"
  ],
  "recent_sigs": [
   [
@@ -6867,9 +6867,33 @@
   [
    "2026-10-23T17:51:05.881991+09:00",
    "위기 자동차 재격돌 기회 유럽의 배터리엔"
+  ],
+  [
+   "2026-10-23T18:01:22.755228+09:00",
+   "탈환했지만 550선 외국인 코스피 1조원 매도 폭탄"
+  ],
+  [
+   "2026-10-23T18:01:22.755228+09:00",
+   "라온로보틱스 용인 신공장"
+  ],
+  [
+   "2026-10-23T18:01:22.755228+09:00",
+   "안성시장 시민 김보라 방관 용인 피해"
+  ],
+  [
+   "2026-10-23T18:01:22.755228+09:00",
+   "성과 활용 AI 전략 발표 확대 Summit SK바이오 ABDD"
+  ],
+  [
+   "2026-10-23T18:01:22.755228+09:00",
+   "재계 공동 대응 한일 연다 공급망 60년 새로운"
+  ],
+  [
+   "2026-10-23T18:01:22.755228+09:00",
+   "계열 법인까지 특허관리회사와의 정의해야 라이선스 한다"
   ]
  ],
- "last_run": "2026-10-23T17:51:32.702058+09:00",
+ "last_run": "2026-10-23T18:01:41.556398+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
