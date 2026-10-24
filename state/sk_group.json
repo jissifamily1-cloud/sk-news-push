@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://platum.kr/archives/296860",
-  "http://www.inews24.com/view/2017856",
-  "https://www.mhj21.com/news/articleView.html?idxno=254454",
-  "https://www.greened.kr/news/articleView.html?idxno=352742",
-  "https://www.asiatime.co.kr/article/20261022500216",
-  "http://www.kjdaily.com/article.php?aid=1792640832689933276",
-  "http://www.breaknews.com/1244877",
   "https://www.starnewskorea.com/sports/2026/10/22/2026102211281850350",
   "http://www.yonhapnewstv.co.kr/news/MYH20261022130747o95",
   "https://www.slist.kr/news/articleView.html?idxno=775522",
@@ -2999,16 +2992,16 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=640855",
   "https://www.joongang.co.kr/article/25472463",
   "https://www.tournews21.com/news/articleView.html?idxno=146524",
-  "https://economist.co.kr/article/view/ecn202610190013"
+  "https://economist.co.kr/article/view/ecn202610190013",
+  "https://www.tfmedia.co.kr/news/article.html?no=208325",
+  "https://www.fnnews.com/news/202610241026571664",
+  "http://www.newsprime.co.kr/news/article.html?no=752216",
+  "https://www.newsis.com/view/NISX20261023_0003839075",
+  "http://www.newsprime.co.kr/news/article.html?no=752208",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7617",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640766"
  ],
  "seen_titles": [
-  "[로빈후드온체인]알리바바온체인가격이정규장종가보다4.1%낮게거...",
-  "'속전속결'단종레,국감서'누가결정했나'추궁…이찬진\"엄정심사...",
-  "SK브로드밴드,'트립인코리아'시즌8공개...미식·시니어예능도편성",
-  "FSSExaminesWhetherRetailInvestorsWereUnfairlyTreatedinSKhyni",
-  "JB금융3개계열사,업스테이지에400억원투자해지분2%확보",
-  "SKT,국내수학·AI석학과손잡고독자AI'A.XK2'추론능력높인다",
-  "[HBM관련주]삼성전자·SK하이닉스동반하락…전반약세,코스피·코스...",
   "KAIST교수창업애니브릿지,더벤처스시드투자유치…GPU·NPU함께써...",
   "[아이포럼2026]SK하이닉스,AI'공급의벽'첫제시..\"수요감당어려워...",
   "SKT,원치않는국가로밍차단하는'T로밍안심국가'출시",
@@ -6001,7 +5994,14 @@
   "취임1년정재헌SKT대표···통신정상화넘어AI성장본격화",
   "학연·지연·간섭다없앴다…부활한한국농구진짜저력",
   "SK바이오사이언스,독감백신공정에AI적용…AI바이오서밋서사례공...",
-  "10년새뒤집힌서열…한화·롯데·포스코‘재계5위’전쟁"
+  "10년새뒤집힌서열…한화·롯데·포스코‘재계5위’전쟁",
+  "[N위크]'삼전닉스'실적공개주주배당은?...3분기성장률·산업동향도...",
+  "전기료결국오르나?...한전,19조원사채한도초과위기",
+  "[해외시황]뉴욕증시,중동긴장·국제유가급등에'하락'…나스닥0.21%...",
+  "최태원회장\"한일경제공동체구축하자\"…거대한청사진,넘어야할과...",
+  "\"시멘트대신에너지\"건설사들이AI시대,판바꾸는이유",
+  "[탐사경]프랑스대혁명기의'불환지폐아시냐의악몽'다시오나…극좌...",
+  "[데스크칼럼]집나간투자자되돌리는왕도"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,21 @@
   [
    "2026-10-24T10:31:09.411192+09:00",
    "전쟁 서열 재계 포스코 한화 롯데 10년 5위 뒤집힌"
+  ],
+  [
+   "2026-10-24T10:41:03.555957+09:00",
+   "이유 시멘트 AI 건설사들이 바꾸는 시대 대신 에너지"
+  ],
+  [
+   "2026-10-24T10:41:03.555957+09:00",
+   "오나 아시냐의 프랑스 불환지폐 극좌 대혁명기의 악몽 다시"
+  ],
+  [
+   "2026-10-24T10:41:03.555957+09:00",
+   "되돌리는 왕도 투자자 집나간"
   ]
  ],
- "last_run": "2026-10-24T10:31:15.538821+09:00",
+ "last_run": "2026-10-24T10:41:14.987987+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
