@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=150415",
-  "https://www.seoul.co.kr/news/economy/securities/2026/10/22/20261022500213?wlog_tag3=naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=2009208",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215565",
   "http://www.newskr.kr/news/articleView.html?idxno=107387",
   "https://www.hankyung.com/article/2026102290026",
   "https://www.wikitree.co.kr/articles/1168371",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20261024009900007?input=1195m",
   "https://it.chosun.com/news/articleView.html?idxno=2023092172671",
   "https://www.yna.co.kr/view/AKR20261024028000008?input=1195m",
-  "https://www.yna.co.kr/view/AKR20261024020500008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261024020500008?input=1195m",
+  "https://www.kbmaeil.com/article/20261025500007",
+  "https://www.kmib.co.kr/article/20261025500003",
+  "https://www.g-enews.com/view.php?ud=202610250614369989fbbec65dfb_1",
+  "https://www.yna.co.kr/view/AKR20261024025000008?input=1195m"
  ],
  "seen_titles": [
-  "[마감시황]코스피,AI투자우려에3.52%↓⋯SK하이닉스5%대급락",
-  "2027테크퀘스트,강연하는이영탁SK텔레콤부사장[포토]",
-  "\"삼전닉스처럼성과급달라\"…마이크론대만공장파업돌입",
-  "이억원\"솔리다임상장,중복상장규제대상\"",
   "코스피,기관4600억'팔자'에3.52%급락…장중5500선붕괴",
   "코스피,기준금리동결에도3.52%급락…긴축우려에투심위축",
   "SK하이닉스5.49%하락…거래대금2조9882억원으로최대",
@@ -6001,7 +5997,11 @@
   "◇오늘의경기(25일)",
   "반도체실적,반등계기될까…코스피,AI신용위험주시[주간증시전망...",
   "코스피급락에…10대그룹시총,한달새1천100조원증발",
-  "개미,이달단일레버리지14종순매수전환…7월말규제후처음"
+  "개미,이달단일레버리지14종순매수전환…7월말규제후처음",
+  "10대그룹시총1101조원증발…SK30%급감,포스코6.4%감소",
+  "‘단일종목레버리지’다시몰린개미들…ETF14종순매수",
+  "AI가끌어올린메모리수요…한국반도체실적호조속글로벌완제품...",
+  "'증시부진에도ETF는산다'…올해개인80조,외인10조순매수"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,17 @@
   [
    "2026-10-25T06:21:01.607588+09:00",
    "레버리지 이달 처음 14종 순매수 7월말 규제후 개미 단일"
+  ],
+  [
+   "2026-10-25T06:31:14.033736+09:00",
+   "완제품 수요 실적 글로벌 호조 끌어올린 반도체 메모리 한국 AI가"
+  ],
+  [
+   "2026-10-25T06:31:14.033736+09:00",
+   "순매수 외인 10조 개인 부진에도 80조 산다 ETF는 증시 올해"
   ]
  ],
- "last_run": "2026-10-25T06:21:11.036110+09:00",
+ "last_run": "2026-10-25T06:31:22.267896+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
