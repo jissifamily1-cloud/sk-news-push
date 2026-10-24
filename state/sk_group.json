@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026102215461558354",
-  "https://www.kmaeil.com/news/articleView.html?idxno=655388",
-  "https://www.g-enews.com/view.php?ud=202610221546127586923c501012_1",
-  "https://www.m-i.kr/news/articleView.html?idxno=2009230",
-  "https://www.sidae.com/article/2026102213250358577",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497706",
   "https://www.updownnews.co.kr/news/articleView.html?idxno=319268",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=210106",
@@ -2999,14 +2994,14 @@
   "https://biz.heraldcorp.com/article/10913657",
   "https://www.newsis.com/view/NISX20261023_0003838819",
   "https://www.yna.co.kr/view/AKR20261023169200530?input=1195m",
-  "https://www.yna.co.kr/view/AKR20261023167200054?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261023167200054?input=1195m",
+  "http://www.metroseoul.co.kr/article/20261025500012",
+  "https://basketkorea.com/news/newsview.php?ncode=1065564478550834",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=158481",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610250001&t=NN",
+  "https://www.newsway.co.kr/news/view?ud=2026102315571734200"
  ],
  "seen_titles": [
-  "[재계핫이슈]대통령이지목한주가하락원인,'투명성부족'끝판왕은...",
-  "양시장3%대급락…코스피5533.77·코스닥764.10동반하락마감",
-  "\"삼성·하이닉스차익실현진정…5500지키면6000재도전\"",
-  "SK하이닉스,'반도체의날'서5관왕…권재순부사장동탑산업훈장",
-  "반도체성과급60조전망…한은,\"소비회복은시차\"",
   "이억원\"솔리다임중복상장규율대상\"…증권신고의무는판단유보[202...",
   "오산시,AI·반도체소부장중심자족도시조성본격화",
   "코스피,전일상승분반납…5500선으로재차후퇴",
@@ -6001,7 +5996,12 @@
   "“곧대출막힌대요,빨리사야겠네요”‘삼성맨’사내대출규제검토...",
   "삼전·닉스주주환원주목…증시반등탄력강화[주간증시전망]",
   "개인정보유출사건175건,1년넘게'조사중'…대형사건쏠림탓",
-  "반도체인재정착키워드'교육'…전남광주교육특구추진"
+  "반도체인재정착키워드'교육'…전남광주교육특구추진",
+  "코스피급락에반도체받아낸개미…엇갈린수급성적표",
+  "[게임리포트]‘20점차열세극복’SK의키,안영준의공수맹활약",
+  "정연태의전문지식GPT혁명⑧|엔비디아가설계하는AI산업혁명의미...",
+  "증시휘청여도'역대급매수'…개미들80조원쏟았다",
+  "이수만이되살린'아는맛'…에스엠주가도살아날까[stock&톡]"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,25 @@
   [
    "2026-10-25T07:11:00.935582+09:00",
    "인재 교육특구 반도체 교육 정착 키워드 전남광주"
+  ],
+  [
+   "2026-10-25T07:21:02.051902+09:00",
+   "20점 SK의 맹활약 공수 안영준의 열세 극복"
+  ],
+  [
+   "2026-10-25T07:21:02.051902+09:00",
+   "전문지식 설계하는 정연태의 산업혁명의 혁명 GPT AI 엔비디아가"
+  ],
+  [
+   "2026-10-25T07:21:02.051902+09:00",
+   "휘청여도 쏟았다 개미들 80조원 증시 역대급 매수"
+  ],
+  [
+   "2026-10-25T07:21:02.051902+09:00",
+   "되살린 주가도 아는 에스엠 살아날까 이수만이"
   ]
  ],
- "last_run": "2026-10-25T07:11:24.422564+09:00",
+ "last_run": "2026-10-25T07:21:18.150815+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
