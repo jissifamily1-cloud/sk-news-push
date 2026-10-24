@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/finance/1283632.html",
-  "https://www.starnewskorea.com/business-life/2026/10/22/2026102214443341033",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=97526",
-  "https://www.newsgn.com/news/articleView.html?idxno=580804",
-  "https://dealsite.co.kr/articles/171143",
-  "https://www.newsway.co.kr/news/view?ud=2026102214214726317",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=123687",
-  "https://www.news2day.co.kr/article/20261022500143",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208997",
-  "https://www.econovill.com/news/articleView.html?idxno=754573",
-  "http://www.metroseoul.co.kr/article/20261022500323",
   "https://www.thepublic.kr/news/articleView.html?idxno=323310",
   "https://www.thepublic.kr/news/articleView.html?idxno=323323",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434734",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20261024_0003839573",
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99748",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=875840",
-  "https://www.newsis.com/view/NISX20261024_0003839593"
+  "https://www.newsis.com/view/NISX20261024_0003839593",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6942205",
+  "https://www.starnewskorea.com/sports/2026/10/24/2026102411201461334",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875842",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600991",
+  "https://www.yna.co.kr/view/AKR20261024037451007?input=1195m",
+  "https://www.joongang.co.kr/article/25472497",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498135",
+  "http://www.inews24.com/view/2018580",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99751",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484102",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=128941"
  ],
  "seen_titles": [
-  "[단독인터뷰]유승민“정부,자본시장선넘었다…국정조사·특검필...",
-  "스트래티지9.36%상승…서클8.13%,코인베이스5.44%",
-  "[특징주]SK이노베이션,운임급등·차익실현에'휘청'…6%대하락",
-  "\"외국인삼전닉스폭풍매도\"…다음목적지로'코스닥장비·부품주'주...",
-  "재생에너지'주력전원'부상…산업계수익모델찾기분주",
-  "논란의삼전·닉스레버리지,출시후오히려해외주식순매수↑,외화유...",
-  "지커코리아,중형전기SUV'7X'국내고객인도개시…1호차주인공은...",
-  "[2026국감]이억원\"솔리다임美상장도중복상장\"…모회사주주보호의...",
-  "서천호의원,\"침해사고은폐의혹LGU+가이용자보호'매우우수'…평가...",
-  "[IT는지금]KT클라우드,50MW규모안산AI데이터센터착공外",
-  "단종레출시후에도서학개미순매수확대…7~8월월평균2.8조[2026국감...",
   "금융위원장\"솔리다임美상장,중복상장규제에따라야\"",
   "이억원·이찬진,단일종목레버리지사태재차사과…전산오류·감독공...",
   "한국딥러닝,SK텔레콤과커머스영역AI에이전트실증진행",
@@ -6001,7 +5990,18 @@
   "단두대매치서승리…'승격팀'인천,3년만에K리그1파이널A",
   "[k1.live]\"유인수퇴장때문에진거아니다\"끝까지제자감싼세르지...",
   "김기동이공언한'약속의3년',FC서울다시정상에올리다",
-  "프로농구SK,LG에86-85신승…2연승질주"
+  "프로농구SK,LG에86-85신승…2연승질주",
+  "K리그1파이널A-B확정...인천웃고,제주울다",
+  "제주,최종전서파이널B추락...코스타감독\"가까웠던만큼속상하다...",
+  "클리말라의결정력·정승원의헌신·김진수의리더십…FC서울우승공식",
+  "세르지우제주SK감독\"파이널A에가까웠던만큼너무속상...남은5경기...",
+  "FC서울,강원과비기고우승축포…10년만에통산7번째우승(종합2보)",
+  "프로축구FC서울,10년만에우승확정...통산7번째정상",
+  "이란전쟁이후기유시장재편조짐…SK이노베이션수혜가능성주목",
+  "삼성·SK,메모리수요걱정無?…\"데이터센터지출2년뒤두배로\"",
+  "[k1.live]울컥한인천윤정환감독\"오늘이내인생경기…선수들덕분...",
+  "[증시동향]매수세실종된국내증시",
+  "\"아직톱니바퀴맞지않아\"손창환감독,연승에도불구하고조직력강..."
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,29 @@
   [
    "2026-10-24T16:31:09.800631+09:00",
    "프로농구 신승 2연승 질주 LG에"
+  ],
+  [
+   "2026-10-24T16:40:58.922116+09:00",
+   "재편 수혜 이란전쟁 조짐 시장 가능성 SK이노베이션 이후 주목 기유"
+  ],
+  [
+   "2026-10-24T16:40:58.922116+09:00",
+   "지출 삼성 걱정 배로 수요 데이터센터 2년 메모리"
+  ],
+  [
+   "2026-10-24T16:40:58.922116+09:00",
+   "덕분 오늘이 선수들 울컥한 인천 인생 윤정환 경기 감독"
+  ],
+  [
+   "2026-10-24T16:40:58.922116+09:00",
+   "국내 증시 실종된 매수세"
+  ],
+  [
+   "2026-10-24T16:40:58.922116+09:00",
+   "아직 맞지 손창환 톱니바퀴 연승에도 불구하고 않아 조직력 감독"
   ]
  ],
- "last_run": "2026-10-24T16:31:18.294905+09:00",
+ "last_run": "2026-10-24T16:41:16.133677+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
