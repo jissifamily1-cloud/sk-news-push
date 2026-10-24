@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2009156",
-  "https://www.m-i.kr/news/articleView.html?idxno=2009143",
   "https://www.insight.co.kr/news/578805",
   "https://www.ajunews.com/view/20261022150510475",
   "https://kbench.com/?q=node%2F282701",
@@ -2999,11 +2997,11 @@
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=337964",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376829",
   "https://www.mk.co.kr/article/12177752",
-  "https://www.ikbc.co.kr/article/view/kbc202610240037"
+  "https://www.ikbc.co.kr/article/view/kbc202610240037",
+  "https://www.mk.co.kr/article/12184884",
+  "https://biz.heraldcorp.com/article/10913588"
  ],
  "seen_titles": [
-  "성남야탑유스센터,휠체어사용청소년동아리공연개최",
-  "“AI로수학난제도전한다”…SKT,서울대·KAIST와협력",
   "SK하이닉스1주에826억강제청산·경영진7명중6명'관피아'…'넥스...",
   "국내100대기업임원10명중7명은'70년대생'…세대교체가속",
   "[아!코스피]②레버리지띄우고연금까지…'관치'가한국증시에남긴...",
@@ -6001,13 +5999,11 @@
   "KBS사장내정된웨이브전대표,이태현은누구?",
   "'10년만에리그정상탈환'FC서울,강원과1-1무승부로우승축포…통...",
   "AIDC,산업지형도지각변동",
-  "한전채한도특례끝나면19조초과…김동철\"최소한요금인상필요\""
+  "한전채한도특례끝나면19조초과…김동철\"최소한요금인상필요\"",
+  "“SK하닉고점서절반넘게날아갔는데중복상장?”…분노잇따르자철회",
+  "“80만원→20만원,주가보고화들짝”삼전닉스가오히려부럽다…‘반..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-24T15:41:04.519765+09:00",
-   "설비투자 AI 종목들 둔화도 증가세 인프라 견뎌낼"
-  ],
   [
    "2026-10-24T15:51:00.622459+09:00",
    "SFC 놓쳐 맥북 공급 애플 청색호스트 삼성D에 청색도판트 OLED용"
@@ -6187,9 +6183,17 @@
   [
    "2026-10-24T21:41:04.018671+09:00",
    "한도 필요 김동철 최소한 끝나면 요금 초과 인상 19조 특례 한전채"
+  ],
+  [
+   "2026-10-24T21:51:00.357785+09:00",
+   "고점서 SK하닉 날아갔는데 철회 절반넘게 분노 중복상장 잇따르자"
+  ],
+  [
+   "2026-10-24T21:51:00.357785+09:00",
+   "보고 주가 80만원 화들짝 삼전닉스가 오히려 20만원 부럽다"
   ]
  ],
- "last_run": "2026-10-24T21:41:09.787599+09:00",
+ "last_run": "2026-10-24T21:51:09.555516+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
