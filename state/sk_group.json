@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12182940",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079745",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601410",
-  "https://www.jasm.co.kr/news/view/322582/?sc=Naver",
-  "https://www.greened.kr/news/articleView.html?idxno=352786",
-  "http://www.iminju.net/news/articleView.html?idxno=171266",
-  "https://www.g-enews.com/view.php?ud=202610221533452439923c501012_1",
   "https://www.dt.co.kr/article/12090695",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193586",
   "https://www.sportsseoul.com/news/read/1643328",
@@ -2999,16 +2992,16 @@
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260187",
   "https://www.g-enews.com/view.php?ud=2026102507231259892bd56fbc3c_1",
   "https://www.gokorea.kr/news/articleView.html?idxno=882613",
-  "https://www.gokorea.kr/news/articleView.html?idxno=882615"
+  "https://www.gokorea.kr/news/articleView.html?idxno=882615",
+  "https://www.starnewskorea.com/sports/2026/10/25/2026102221413986951",
+  "https://www.munhwa.com/article/11625958",
+  "https://news.bizwatch.co.kr/article/market/2026/10/23/0021",
+  "https://www.busan.com/view/busan/view.php?code=2026102218075252719",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172459",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=158482",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640838"
  ],
  "seen_titles": [
-  "코스피,전날상승분반납하며3%대하락…5533.77마감[마감시황]",
-  "기관매도에밀린코스피5530대로AI의구심여전…SK하이닉스5%↓",
-  "\"새만금처럼희망고문될수도\"…800조호남반도체국감도마",
-  "매파적금리동결·삼전닉스약세에…코스피3%하락[시황]",
-  "코스피,기관매도세에3%대하락…5530선마감",
-  "반등하루만에다시꺾인코스피…삼전닉스동반하락에5500선마감",
-  "[포토]SKT서울대KAIST손잡고수학난제도전",
   "마이크론\"4F²밀도이점크지않아\"CXMT와노선갈렸다⋯삼전닉스는...",
   "코스피,外人·기관'팔자'에3.52%내린5533.77마감…709종목↓",
   "[데이터뉴스룸]석화업종50개주식종목하반기시총8%대상승…SK이...",
@@ -6001,7 +5994,14 @@
   "[AI칩지정학]㉑삼성·YMTC와싸워야하는데···SK하닉주주환원하다...",
   "비야디,2025년세계전기차점유율22%로1위…테슬라는8%로3위",
   "대형건설사들,영업정지에도수주행진...중대재해소송의이면",
-  "대기업시가총액폭락,SK·삼성타격…금융시장에비상"
+  "대기업시가총액폭락,SK·삼성타격…금융시장에비상",
+  "韓축구'최고샛별'누구?안주완-정현웅-허재원-임지성,초특급유망주...",
+  "삼성·하이닉스3분기합산영업익180조돌파전망…반도체호황,주가...",
+  "[공모주달력]AI·반도체소부장·로봇주줄줄이수요예측",
+  "AI반도체무한경쟁시대시험대오른소부장산업[비즈앤피플]",
+  "삼성SDI,비중국점유율급락…밀려난이유는",
+  "JungYeon-tae'sProfessionalGPTRevolution8|NVIDIA'sVisionforth",
+  "삼성전자노조갈등,이건희회장에게서답을찾다"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,29 @@
   [
    "2026-10-25T07:51:00.768270+09:00",
    "대기업 타격 삼성 폭락 시가총액 시장에 금융 비상"
+  ],
+  [
+   "2026-10-25T08:01:20.248965+09:00",
+   "AI 로봇주 반도체소부장 수요예측 줄줄이"
+  ],
+  [
+   "2026-10-25T08:01:20.248965+09:00",
+   "AI 시험대 무한경쟁시대 산업 오른 반도체 소부장"
+  ],
+  [
+   "2026-10-25T08:01:20.248965+09:00",
+   "삼성SDI 이유는 급락 비중국 밀려난 점유율"
+  ],
+  [
+   "2026-10-25T08:01:20.248965+09:00",
+   "Jung Yeon Professional Revolution NVIDIA the GPT tae Vision for"
+  ],
+  [
+   "2026-10-25T08:01:20.248965+09:00",
+   "삼성전자 이건희 회장에게서 갈등 노조 답을 찾다"
   ]
  ],
- "last_run": "2026-10-25T07:51:07.537534+09:00",
+ "last_run": "2026-10-25T08:01:36.700460+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
