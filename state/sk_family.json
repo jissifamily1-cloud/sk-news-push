@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.globale.co.kr/news/articleView.html?idxno=40887",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682031",
   "https://www.lawleader.co.kr/news/articleView.html?idxno=20134",
   "https://www.gokorea.kr/news/articleView.html?idxno=880945",
   "https://www.ikbc.co.kr/article/view/kbc202610090049",
@@ -2999,11 +2997,11 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=323483",
   "https://www.dailian.co.kr/news/view/1705469/?sc=Naver",
   "https://www.hankyung.com/article/2026102314556",
-  "https://www.newsis.com/view/NISX20261023_0003839075"
+  "https://www.newsis.com/view/NISX20261023_0003839075",
+  "https://www.yna.co.kr/view/AKR20261024022400007?input=1195m",
+  "https://www.segye.com/newsView/20261023506891?OutUrl=naver"
  ],
  "seen_titles": [
-  "SK최태원,광주반도체클러스터현장첫방문…\"수요폭증대응위해...",
-  "최태원SK회장“호남권반도체클러스터속도전”",
   "“요즘돈많은애들?서울대안간다”…확달라진韓재벌가자제들...",
   "최태원회장,광주군공항방문..반도체공장건설점검",
   "HBM넘어‘AI메모리종합회사’노린다[CEO라운지]",
@@ -6001,7 +5999,9 @@
   "\"AI로일하는방식이바뀐다\"…인력줄이는글로벌,판갈아엎는국내",
   "중동현장달려간이재용·'힙지로'회식최태원·독자경영속도김동선...",
   "\"최태원회장큰결단\"개미들'환호'…SK하닉주가반등할까[강경주의...",
-  "최태원회장\"한일경제공동체구축하자\"…거대한청사진,넘어야할과..."
+  "최태원회장\"한일경제공동체구축하자\"…거대한청사진,넘어야할과...",
+  "쇼트트랙최민정,태극마크반납앞두고월드투어전종목예선1위",
+  "거버넌스포럼“SK하이닉스솔리다임상장중단환영…이사회의결필요..."
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-10-24T10:40:14.540952+09:00",
    "회장 한일 경제 공동체 청사진 구축하자 넘어야 거대한"
+  ],
+  [
+   "2026-10-24T10:50:14.353944+09:00",
+   "필요 SK하이닉스 이사회 거버넌스포럼 환영 의결 솔리다임 상장 중단"
   ]
  ],
- "last_run": "2026-10-24T10:40:30.071082+09:00",
+ "last_run": "2026-10-24T10:50:25.905452+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
