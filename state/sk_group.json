@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220093&t=NNv",
-  "https://www.edaily.co.kr/News/Read?newsId=04414886645615544&mediaCodeNo=257",
-  "https://kormedi.com/?p=2889864",
   "https://www.ajunews.com/view/20261022141341249",
   "https://www.peoplewatch.co.kr/article/view/ppw202610220007",
   "https://www.datasom.co.kr/news/articleView.html?idxno=210462",
@@ -2999,12 +2996,12 @@
   "https://www.sedaily.com/article/20105650",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000076338",
   "https://www.hankyung.com/article/202610231385g",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079974"
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079974",
+  "https://www.aitimes.com/news/articleView.html?idxno=216614",
+  "https://www.nocutnews.co.kr/news/6596546",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556645"
  ],
  "seen_titles": [
-  "한은\"내년반도체성과급60조원예상…소비회복세확산\"",
-  "한은,내년1분기삼전닉스성과급60조전망…소비회복확산엔시차",
-  "코스피또급락…AI호실적에도투자수익성의혹에불안지속",
   "금융위원장\"솔리다임중복상장규제대상\"",
   "이억원·이찬진,단일종목레버리지ETF사태재차사과…폐지는신중...",
   "\"AI발위기없다\"는데…반도체매수또멈췄다[딥시그널]",
@@ -6001,7 +5998,10 @@
   "“신입사원뽑을이유없다”취준생들‘날벼락’…日기업들채용줄...",
   "\"HBM은거들뿐\"…삼성·SK,차세대AI메모리기술패권전쟁",
   "기껏샀더니\"회사에선벗으세요\"…대기업도단속나선'이것'[김대영의...",
-  "고양시행신1·3동주민소통공감토크…생활환경개선논의"
+  "고양시행신1·3동주민소통공감토크…생활환경개선논의",
+  "SK\"AI데이터센터5GW에464조필요\"…글로벌빅테크와투자협상",
+  "5시즌연속꼴찌맞아?삼성,개막7연승단독선두질주",
+  "도경완“하이닉스레버리지–40%”…조혜련“물타기,돈없었던게다..."
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,17 @@
   [
    "2026-10-24T18:31:09.278248+09:00",
    "3동 공감 논의 개선 생활환경 소통 행신1 주민 고양시 토크"
+  ],
+  [
+   "2026-10-24T18:41:01.428306+09:00",
+   "질주 맞아 연속 삼성 꼴찌 7연승 개막 5시즌 선두"
+  ],
+  [
+   "2026-10-24T18:41:01.428306+09:00",
+   "물타기 조혜련 하이닉스 없었던 도경완 레버리지"
   ]
  ],
- "last_run": "2026-10-24T18:31:16.167635+09:00",
+ "last_run": "2026-10-24T18:41:09.757077+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
