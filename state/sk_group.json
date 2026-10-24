@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbnews.com/news/articleView.html?idxno=1020541",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=281859",
-  "https://www.mk.co.kr/article/12182730",
   "https://www.topstarnews.net/news/articleView.html?idxno=16254832",
   "http://www.metroseoul.co.kr/article/20261022500249",
   "https://www.hankyung.com/article/202610190890i",
@@ -2999,12 +2996,12 @@
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99730",
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600986",
   "https://www.starnewskorea.com/sports/2026/10/24/2026102411195725741",
-  "https://www.kyeonggi.com/article/20261024580051"
+  "https://www.kyeonggi.com/article/20261024580051",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=697033",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99731",
+  "https://www.nspna.com/jp/news/?newsid=833106"
  ],
  "seen_titles": [
-  "[분석]AI전력수요에올라탄LS계열사들…수주·증설로성장가속",
-  "이억원\"솔리다임美상장시중복상장규제…5대의무이행\"",
-  "부산건설업체34곳,대기업하도급수주모색",
   "이억원도이찬진이어\"솔리다임상장은중복상장\"",
   "[2026국감이슈]SK디앤디240%유상증자논란...김현정의원\"소액주주...",
   "中YMTC,낸드점유율20%목표…'엑스태킹'기술로삼전닉스추격",
@@ -6001,17 +5998,12 @@
   "[k1.live]\"오늘우리영광을위해\"인천팬들열기미쳤다…파이널A결...",
   "'벼랑끝승부'제주SK,인천원정선발라인업발표",
   "'이기면파이널A진출'인천,제주전무고사-이청용투톱출격[인천현...",
-  "[속보]“전기요금또오르나”…한전채19조원초과위기에인상론고..."
+  "[속보]“전기요금또오르나”…한전채19조원초과위기에인상론고...",
+  "[K리그1라인업]'에이스'마테우스출격vs'내전근부상'김태현대신이...",
+  "[k1.live]막아야사는제주,무조건넣어야사는인천…'파이널A막차...",
+  "SKハイニックス、ソリダイムのIPO検討を中断…「重複上場」懸念の声を..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-24T07:01:16.612418+09:00",
-   "청년들의 사다리 뽑고 취업 AI만 신입은 쓴다 무너지는"
-  ],
-  [
-   "2026-10-24T07:01:16.612418+09:00",
-   "재정 통과 소방 보호관찰소 탐지기 최충락 부담"
-  ],
   [
    "2026-10-24T07:11:06.431274+09:00",
    "맞대 한국가스공사 서울삼성 선두 그리고 휴식 3연승 일격"
@@ -6347,9 +6339,13 @@
   [
    "2026-10-24T12:51:01.361205+09:00",
    "발표 벼랑 제주SK 승부 선발 원정 라인업 인천"
+  ],
+  [
+   "2026-10-24T13:11:02.435816+09:00",
+   "IPO"
   ]
  ],
- "last_run": "2026-10-24T13:01:17.815364+09:00",
+ "last_run": "2026-10-24T13:11:08.989781+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
