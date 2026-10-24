@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailypop.kr/news/articleView.html?idxno=103635",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=233896",
-  "https://www.kmaeil.com/news/articleView.html?idxno=655346",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172471",
   "https://news.skbroadband.com/news/articleView.html?idxno=241010",
   "https://www.job-post.co.kr/news/articleView.html?idxno=233880",
@@ -2999,12 +2996,12 @@
   "https://www.jibs.co.kr/news/articles/articlesDetail/66885?feed=na",
   "https://www.mk.co.kr/article/12184815",
   "https://www.xportsnews.com/article/2210980",
-  "https://www.businessplus.kr/news/articleView.html?idxno=118675"
+  "https://www.businessplus.kr/news/articleView.html?idxno=118675",
+  "https://www.xportsnews.com/article/2210982",
+  "https://www.xportsnews.com/article/2210981",
+  "https://zdnet.co.kr/view/?no=20261024143943"
  ],
  "seen_titles": [
-  "\"미국증시가도주주챙겨라\"금융위경고에SK'비상'",
-  "[단독]달라진㈜GS사채설명서,허씨일가'53%지분'소유리스크공개",
-  "SK스퀘어75만1000원…자산가치할인율재점검",
   "\"PRS위험기업찾아간다\"…재무구조개선자문시장확대조짐[fn마켓워...",
   "더벤처스,카이스트교수창업‘애니브릿지’에시드머니집행",
   "[기업들]상생협력부터안전·친환경실천까지다각도행보펼쳐...CJ제...",
@@ -6001,7 +5998,10 @@
   "“빚은76조,한도는57조”…한전채19조원초과위기에전기요금인...",
   "삼전닉스성과급7억vs대만마이크론1.5억..차이큰이유는[반도체...",
   "안영준'역전가자'[포토]",
-  "설비투자증가세둔화도견뎌낼AI인프라종목들"
+  "설비투자증가세둔화도견뎌낼AI인프라종목들",
+  "워니'절대못내줘'[포토]",
+  "전희철감독'코트에들어갈기세'[포토]",
+  "SFC,\"삼성D에애플맥북OLED용청색호스트공급...청색도판트놓쳐\""
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,13 @@
   [
    "2026-10-24T15:41:04.519765+09:00",
    "설비투자 AI 종목들 둔화도 증가세 인프라 견뎌낼"
+  ],
+  [
+   "2026-10-24T15:51:00.622459+09:00",
+   "SFC 놓쳐 맥북 공급 애플 청색호스트 삼성D에 청색도판트 OLED용"
   ]
  ],
- "last_run": "2026-10-24T15:41:10.332205+09:00",
+ "last_run": "2026-10-24T15:51:07.065057+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
