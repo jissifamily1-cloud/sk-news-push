@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=42391",
-  "https://swtvnews.com/news/newsview.php?ncode=1065573658793205",
-  "https://www.sedaily.com/article/20104789",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103626",
   "https://dealsite.co.kr/articles/171133",
   "https://www.vegannews.co.kr/news/article.html?no=395527",
   "https://www.fnnews.com/news/202610221316417528",
@@ -2999,13 +2995,13 @@
   "http://www.breaknews.com/1245443",
   "http://www.metroseoul.co.kr/article/20261024500005",
   "http://www.metroseoul.co.kr/article/20261023500363",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000076298"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000076298",
+  "https://www.joongangenews.com/news/articleView.html?idxno=557895",
+  "http://www.segyebiz.com/newsView/20261024503841?OutUrl=naver",
+  "https://www.segye.com/newsView/20261024503447?OutUrl=naver",
+  "https://www.mt.co.kr/entertainment/2026/10/24/2026102411282968011"
  ],
  "seen_titles": [
-  "코스피,외인·기관매도전환에2%이상하락…5600선하회",
-  "SKT,미승인국가접속차단무료부가서비스'T로밍안심국가'출시",
-  "단종레외화유출억제효과국감서도마…이억원\"시장상황도영향\"[20...",
-  "\"대학간판보다실력\"…SK최태원발언이던진채용시장의과제",
   "이찬진“레버리지ETF관련국민께송구…졸속심사는납득못해”[20...",
   "[포토]'아이포럼2026'주제발표하는조정민SK텔레콤AIDC통합추진단...",
   "SK텔레콤,서울대·KAIST등과수학난제공동연구…AI추론능력강화",
@@ -6001,7 +5997,11 @@
   "국민의힘\"오세훈서울시장무죄는사필귀정…특검책임져야“",
   "고양시,행신1·3동서주민소통…오수관로·도로정비등생활현안논...",
   "김보라안성시장\"방류수안전성확보가먼저…바이패스포함협상추진...",
-  "서울반도체고4.7대1…800조호남클러스터,인재요람시급"
+  "서울반도체고4.7대1…800조호남클러스터,인재요람시급",
+  "10월3주차SK스퀘어주가70만원대등락지속",
+  "한전사채한도특례종료앞두고'19조초과'우려…전기요금인상론",
+  "임대률vs효율성…과연AIDC는돈이되나",
+  "도경완,'120억집'관리비에한숨…\"애들변기물도못내리게해\""
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,17 @@
   [
    "2026-10-24T11:41:01.436179+09:00",
    "요람 800조 인재 서울반도체고 클러스터 호남 시급"
+  ],
+  [
+   "2026-10-24T11:51:02.379080+09:00",
+   "과연 돈이 효율성 임대률 vs 되나 AIDC는"
+  ],
+  [
+   "2026-10-24T11:51:02.379080+09:00",
+   "관리비에 물도 한숨 애들 변기 내리게 도경완 120억"
   ]
  ],
- "last_run": "2026-10-24T11:41:08.344901+09:00",
+ "last_run": "2026-10-24T11:51:11.382378+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
