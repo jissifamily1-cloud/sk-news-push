@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6328777",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497696",
-  "https://www.yna.co.kr/view/AKR20261022042451008?input=1195m",
-  "https://www.etoday.co.kr/news/view/2639045",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1417540",
   "https://news.tf.co.kr/read/economy/2379619.htm",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=146070",
   "http://www.yonhapnewstv.co.kr/news/MYH20261022160555j5j",
@@ -2999,14 +2994,14 @@
   "https://isplus.com/article/view/isp202610250008",
   "https://www.kbmaeil.com/article/20261025500026",
   "https://www.edaily.co.kr/News/Read?newsId=01164406645616528&mediaCodeNo=257",
-  "https://www.the-today.com/news/articleView.html?idxno=92355"
+  "https://www.the-today.com/news/articleView.html?idxno=92355",
+  "https://www.sportsseoul.com/news/read/1643833",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=601460",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709751",
+  "https://www.yna.co.kr/view/AKR20261024038800005?input=1195m",
+  "https://www.ppss.kr/news/articleView.html?idxno=317198"
  ],
  "seen_titles": [
-  "SK하이닉스,HBM·D램·낸드기술력인정···'반도체의날'5관왕",
-  "BYD후발주자줄줄이상륙채비…국내완성차생산·투자지원'공백'",
-  "[이슈국감]갑자기태도바꾼이찬진?…\"단종레졸속심사아냐\"",
-  "지커코리아,7X국내인도시작…1호차는SK온에",
-  "지커7X,4개월기다림끝인도개시…1호고객은SK온",
   "엔비디아,K반도체이어삼성전기·LG이노텍에'러브콜'…AI동맹확장",
   "코스피,반도체주급락에5530선후퇴...코스닥도3.62%하락",
   "[특징주]삼전·닉스,AI투자수익성의혹지속에4∼5%대하락(종합)",
@@ -6001,7 +5996,12 @@
   "김보미,LPBA첫우승도전…‘원조퀸’임정숙",
   "10대그룹시총‘1101조’증발…SK30%급감",
   "LPBA첫우승노리는김보미,‘원조퀸’임정숙과마지막승부",
-  "솔리다임논란봉합…최태원,SK하닉'반토막'원망벗을까?"
+  "솔리다임논란봉합…최태원,SK하닉'반토막'원망벗을까?",
+  "‘여왕’김가영잡은김보미파죽지세결승행,LPBA첫우승노크…상...",
+  "'솔리다임IPO포기'고민커지는SK⋯천문학적자금조달어떻게",
+  "[증시전망]코스피반등시험대...삼전닉스주주환원주목",
+  "[신간]'K-반도체'의전략적가치…'지정학과실리콘방패'",
+  "대형건설사,'영업정지'처분에도취소소송…수주행진이어가"
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,17 @@
   [
    "2026-10-25T08:21:04.034855+09:00",
    "최태원 SK하닉 반토막 벗을까 솔리다임 원망 봉합 논란"
+  ],
+  [
+   "2026-10-25T08:31:13.804766+09:00",
+   "가치 실리콘 방패 지정학과 전략적 반도체"
+  ],
+  [
+   "2026-10-25T08:31:13.804766+09:00",
+   "이어가 수주행진 취소 건설사 영업정지 대형 소송 처분에도"
   ]
  ],
- "last_run": "2026-10-25T08:21:12.510826+09:00",
+ "last_run": "2026-10-25T08:31:22.652425+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
