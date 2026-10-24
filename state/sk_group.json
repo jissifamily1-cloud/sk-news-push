@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12324310?influxDiv=NAVER",
-  "https://www.donga.com/news/Economy/article/all/20261022/134888635/1",
   "https://www.mydaily.co.kr/page/view/2026102212202474313",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=93347",
   "https://www.wikitree.co.kr/articles/1168285",
@@ -2999,11 +2997,11 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=618790",
   "https://www.segye.com/newsView/20261022514204?OutUrl=naver",
   "https://www.fnnews.com/news/202610230959237393",
-  "https://www.fnnews.com/news/202610232334424970"
+  "https://www.fnnews.com/news/202610232334424970",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434782",
+  "https://biz.sbs.co.kr/article_hub/20000341911?division=NAVER"
  ],
  "seen_titles": [
-  "[AI투자경고등①]10조달러'AI슈퍼사이클'흔들리나···美데이터...",
-  "[분석]엔비디아한국공급망확대···LG이어삼성전기·앰코",
   "[특징주]외국인·기관,'삼성E&A'러브콜…신규상장'엠에스바이오'순...",
   "中지커7X본격출고개시⋯첫고객은SK온",
   "을지로맛집에뜬최태원…일행과맥주회동",
@@ -6001,7 +5999,9 @@
   "[젠슨황\"메모리다다익선\"]\"HBM·LPDDR계속대량사용\"…세계최대'큰...",
   "최태원‘힙지로’회식화제…회장님과밥한끼,직원들의속마음은...",
   "\"올라도울고내려도운다\"길잃은증시,범인은금리가아닌'AI청구서...",
-  "\"어?이종목을그때왜샀지?\"...후회하기전에가져야할'이습관'[인..."
+  "\"어?이종목을그때왜샀지?\"...후회하기전에가져야할'이습관'[인...",
+  "국제유가급등에뉴욕증시일제히하락",
+  "“HBM만으론한계”…삼성'zHBM'vs하이닉스'HBF'격돌"
  ],
  "recent_sigs": [
   [
@@ -6265,7 +6265,7 @@
    "가져야 샀지 후회하기 그때 전에 종목을 습관"
   ]
  ],
- "last_run": "2026-10-24T09:11:12.272820+09:00",
+ "last_run": "2026-10-24T09:21:05.500513+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
