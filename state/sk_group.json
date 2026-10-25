@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20261022008052320?input=2106m",
-  "https://www.imaeil.com/page/view/2026102216255683752",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=283627",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000075922",
-  "https://www.busan.com/view/busan/view.php?code=2026102216334655216",
-  "https://www.seoul.co.kr/news/economy/securities/2026/10/22/20261022500246?wlog_tag3=naver",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200305.html",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=66282",
-  "http://www.metroseoul.co.kr/article/20261022500491",
   "https://www.yna.co.kr/view/AKR20261022134351008?input=1195m",
   "https://www.dailian.co.kr/news/view/1704870/?sc=Naver",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424484",
@@ -2999,18 +2990,18 @@
   "https://biz.sbs.co.kr/article_hub/20000341950?division=NAVER",
   "https://www.sedaily.com/article/20105701",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075517",
-  "https://biz.chosun.com/stock/stock_general/2026/10/25/4XTO2N7WABFMDAV4ZC6XD4FC5M/"
+  "https://biz.chosun.com/stock/stock_general/2026/10/25/4XTO2N7WABFMDAV4ZC6XD4FC5M/",
+  "https://www.mediapen.com/news/view/1132276",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553642200",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16257245",
+  "https://biz.chosun.com/stock/stock_general/2026/10/25/EFZ3N27HZJBXXJNNNJOL3P3XZU/",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=666908",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226934",
+  "https://www.ajunews.com/view/20261025101344658",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7625",
+  "https://www.newscj.com/news/articleView.html?idxno=3442865"
  ],
  "seen_titles": [
-  "이억원의단언“솔리다임,美상장해도중복상장”",
-  "[2026에너지포럼]SK하이닉스,용인공장완공12년단축…전력공급일...",
-  "이억원\"솔리다임도중복상장가이드라인대상…모회사주주보호의무...",
-  "SK텔레콤,원치않는국가로밍접속사전차단…'T로밍안심국가'선봬",
-  "이억원\"솔리다임중복상장규제대상\"…SK하이닉스주주보호쟁점부...",
-  "(2ndLD)Seoulstocksslideover3pctonprofit-takingamidpersistent",
-  "\"주식시장정상화는어디로\"…솔리다임상장움직임속野서커지는의...",
-  "코스피,5533.77마감…삼성전자·SK하이닉스4%넘게급락",
-  "코스피하루만에201포인트폭락…삼성전자·SK하이닉스동반급락",
   "AI투자수익성에대한불안지속…삼전·닉스,4∼5%대하락",
   "[마감시황]코스피5,533.77로3.52%급락마감…반도체·2차전지대형주...",
   "'美AI수익성경계감'코스피5500선하락마감…삼전닉스4~5%↓",
@@ -6001,7 +5992,16 @@
   "삼전닉스,이번주3분기확정실적…합산영업익185조전망",
   "개미,단일종목레버리지다시‘사자’…규제강화석달만[마켓시그...",
   "수원시,옛학교활용한'지관서가'로공공디자인상",
-  "투자자예탁금4개월만에51조급감…하락장에매수실탄바닥나나"
+  "투자자예탁금4개월만에51조급감…하락장에매수실탄바닥나나",
+  "SK하이닉스,솔리다임미국상장철회에4%대급반등…증시구원투수",
+  "[현장핫피플]'인생경기로파이널A확정'김명순의자신감...\"이런경기...",
+  "이채영,도쿄재즈클럽에서보낸밤…감독행보이어간근황",
+  "폭락장에‘2배베팅’나선개미들…단일종목레버리지,규제후첫순...",
+  "10대그룹시총,한달새1100조원증발",
+  "삼전닉스,이번주에3분기실적발표…양사영업이익180조전망",
+  "규제강화이후첫순매수…개미,레버리지ETF에3154억원베팅",
+  "[마켓뷰]솔리다임상장중단에한숨돌린코스피…이번주'AI수익성...",
+  "[통신View]러너캠프에축제·구독까지…'고객경험'확장총력"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,13 @@
   [
    "2026-10-25T10:21:01.415449+09:00",
    "4개월 하락장에 급감 투자자예탁금 만에 매수 51조 바닥나나 실탄"
+  ],
+  [
+   "2026-10-25T10:31:08.142148+09:00",
+   "고객 캠프에 축제 구독까지 총력 러너 확장 경험"
   ]
  ],
- "last_run": "2026-10-25T10:21:10.442196+09:00",
+ "last_run": "2026-10-25T10:31:15.038394+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
