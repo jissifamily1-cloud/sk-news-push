@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261022083551002?input=1195m",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90365",
-  "https://www.hidomin.com/news/articleView.html?idxno=726104",
-  "https://www.edaily.co.kr/News/Read?newsId=05172566645615544&mediaCodeNo=257",
-  "https://www.m-economynews.com/news/article.html?no=71993",
-  "https://news.dealsitetv.com/articles/177369",
   "https://biz.sbs.co.kr/article_hub/20000341581?division=NAVER",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715526",
   "https://www.mt.co.kr/stock/2026/10/22/2026102213304053122",
@@ -2999,15 +2993,15 @@
   "http://www.breaknews.com/1245470",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=729827",
   "https://biz.heraldcorp.com/article/10913799",
-  "https://www.news1.kr/it-science/cc-newmedia/6330945"
+  "https://www.news1.kr/it-science/cc-newmedia/6330945",
+  "https://mhnse.com/news/articleView.html?idxno=1617733",
+  "https://www.newsis.com/view/NISX20261025_0003839898",
+  "https://www.ytn.co.kr/_ln/0102_202610251102299509",
+  "https://www.chosun.com/economy/stock-finance/2026/10/25/RGBLEVRRTVDGTCQV574HDI4JFE/",
+  "https://www.hani.co.kr/arti/area/chungcheong/1283990.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261024141412kIU"
  ],
  "seen_titles": [
-  "[증시프리즘]코스피3.52%급락,5533까지밀려…4월이후최저…개인...",
-  "[로컬게시판]부산시설공단여자핸드볼팀,제107회전국체전금메달'2...",
-  "솔리다임프리IPO에자금몰렸는데...美상장금융당국에제동걸리나",
-  "'간큰'개미들,삼전·닉스팔고3배레버리지베팅…美주식에6조원",
-  "대폭락뒤급등락반복…코스피반등체력마저'휘청'",
-  "이억원\"솔리다임중복상장규제대상…SK하이닉스등의무발생\"(종합)",
   "SKT,서울대·KAIST와수학난제연구…독파모추론성능고도화",
   "美반도체주날았는데삼전닉스는급락…코스피,전날상승분모두반납",
   "‘솔리다임중복상장논란’에금융위원장“굉장히큰의무”…하이닉...",
@@ -6001,7 +5995,13 @@
   "수원시‘수원지관서가’,공공디자인대상수상쾌거",
   "[위클리생활금융]보장만으론부족하다…생·손보,예방·자산관리로...",
   "“더이상국장못믿겠다”…140조육박하던투자실탄,88조로‘뚝’",
-  "PHP취약점발견에'해킹공포'확산…아이폰듀오출격[뉴스잇(IT)쥬]"
+  "PHP취약점발견에'해킹공포'확산…아이폰듀오출격[뉴스잇(IT)쥬]",
+  "한일전치른김연경\"시즌3다신안해\"선언…지츠고교와리벤지매치...",
+  "PHP해킹,'패치'로끝아니다…협력사·중소기업타고번질라",
+  "'삼전닉스'이번주3분기확정실적발표...\"185조원규모\"",
+  "한달새1101조원줄어든10대그룹시총…SK는30%급감",
+  "버스타고,쓰레기줍고,텀블러쓰면…프로축구입장료‘반값’",
+  "[기업기상도]가을바람속맑게갠기업vs서리내려움츠린기업"
  ],
  "recent_sigs": [
   [
@@ -6427,9 +6427,17 @@
   [
    "2026-10-25T11:01:16.981386+09:00",
    "취약점 아이폰 PHP 발견에 공포 듀오 출격 확산 해킹"
+  ],
+  [
+   "2026-10-25T11:11:02.708362+09:00",
+   "타고 줍고 버스 입장료 반값 쓰레기 텀블러 쓰면 프로축구"
+  ],
+  [
+   "2026-10-25T11:11:02.708362+09:00",
+   "vs 서리 가을바람속 맑게 기업 움츠린 내려"
   ]
  ],
- "last_run": "2026-10-25T11:01:28.633535+09:00",
+ "last_run": "2026-10-25T11:11:10.727870+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
