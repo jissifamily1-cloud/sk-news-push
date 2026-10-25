@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=752044",
-  "https://www.news2day.co.kr/article/20261022500186",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=45751",
-  "https://www.newsis.com/view/NISX20261022_0003836649",
-  "https://news.jtbc.co.kr/article/NB12324375?influxDiv=NAVER",
-  "https://www.seoulfn.com/news/articleView.html?idxno=640755",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=7564",
-  "https://www.betanews.net/article/view/beta202610220147",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=17097",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1728843",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729750",
   "https://www.yna.co.kr/view/AKR20261022083551002?input=1195m",
   "https://www.it-b.co.kr/news/articleView.html?idxno=90365",
   "https://www.hidomin.com/news/articleView.html?idxno=726104",
@@ -2999,20 +2988,20 @@
   "https://www.livebiz.today/news/articleView.html?idxno=205896",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/25/2026102590006.html",
   "https://www.kbmaeil.com/article/20261025500135",
-  "https://www.thebilliards.kr/news/articleView.html?idxno=32261"
+  "https://www.thebilliards.kr/news/articleView.html?idxno=32261",
+  "http://www.osen.co.kr/article/G1112897854",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278388&CMPT_CD=P0010",
+  "https://www.stnsports.co.kr/news/articleView.html?idxno=324574",
+  "https://www.hani.co.kr/arti/economy/finance/1283665.html",
+  "https://www.mk.co.kr/article/12184971",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=158498",
+  "http://www.breaknews.com/1245483",
+  "http://www.breaknews.com/1245470",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729827",
+  "https://biz.heraldcorp.com/article/10913799",
+  "https://www.news1.kr/it-science/cc-newmedia/6330945"
  ],
  "seen_titles": [
-  "금리는멈췄는데증시는추락…코스피3.52%급락",
-  "'힙지로'에뜬회장님…야장즐기며2차회식까지[포크뉴스]",
-  "솔리다임상장에금융위원장도하이닉스압박…“이사회의무굉장히커...",
-  "[영상]최태원SK회장,을지로야장방문…소탈한행보화제",
-  "SKT,수학난제연구로AI추론성능높인다",
-  "반도체호황,가계지원으로…내년소비증가율최대0.25%p↑",
-  "지커7X국내첫고객은SK온...업무용차량으로활용",
-  "[오늘의통신]SKT·LGU+·KT",
-  "\"함께식사하며허심탄회하게\"이재용·최태원회장,국내외직원들과...",
-  "삼전·SK하닉이쏜돈다발도한몫?…한은\"성과급100만원늘면소비11만...",
-  "코스피,반도체차익실현에3.5%급락5500선마감···삼성E&A16%↑",
   "[증시프리즘]코스피3.52%급락,5533까지밀려…4월이후최저…개인...",
   "[로컬게시판]부산시설공단여자핸드볼팀,제107회전국체전금메달'2...",
   "솔리다임프리IPO에자금몰렸는데...美상장금융당국에제동걸리나",
@@ -6001,7 +5990,18 @@
   "삼전닉스,3분기영업익185조전망...메모리가격·출하량상승,환율...",
   "코스피급락에10대그룹시총도뚝…1100조원증발",
   "구미반도체스쿨콘서트…청소년150명진로탐색",
-  "강동궁·김영원,PBA16강서동반탈락…조건휘·이상대PBA8강합류"
+  "강동궁·김영원,PBA16강서동반탈락…조건휘·이상대PBA8강합류",
+  "7골폭격도,1-0승리도가능했다'33경기20승-61득점-29실점...FC서울이...",
+  "가을야구진출실패한롯데,결국김태형감독과결별",
+  "\"유나이티드축구,아시아를향해!\"…인천,제주꺾고3년만에파이널...",
+  "‘솔리다임중복상장논란’에금융위원장도“하이닉스이사회의무굉...",
+  "코스피급락했으니다시단일종목레버리지?...개인순매수돌아서",
+  "Samsung,SKHynixExpectedtoPostCombinedOperatingProfitExceedin",
+  "트럼프발언속코스피5500선복귀…고유가·레버리지진통속길목찾...",
+  "수원시‘수원지관서가’,공공디자인대상수상쾌거",
+  "[위클리생활금융]보장만으론부족하다…생·손보,예방·자산관리로...",
+  "“더이상국장못믿겠다”…140조육박하던투자실탄,88조로‘뚝’",
+  "PHP취약점발견에'해킹공포'확산…아이폰듀오출격[뉴스잇(IT)쥬]"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,21 @@
   [
    "2026-10-25T10:50:59.440594+09:00",
    "강동궁 PBA 조건휘 16강서 합류 이상대 동반 탈락 김영원 8강"
+  ],
+  [
+   "2026-10-25T11:01:16.981386+09:00",
+   "손보 자산관리로 예방 보장만으론 부족하다"
+  ],
+  [
+   "2026-10-25T11:01:16.981386+09:00",
+   "88조로 실탄 140조 믿겠다 국장 투자 이상 육박하던"
+  ],
+  [
+   "2026-10-25T11:01:16.981386+09:00",
+   "취약점 아이폰 PHP 발견에 공포 듀오 출격 확산 해킹"
   ]
  ],
- "last_run": "2026-10-25T10:51:08.048285+09:00",
+ "last_run": "2026-10-25T11:01:28.633535+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
