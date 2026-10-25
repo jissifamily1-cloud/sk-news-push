@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.starnewskorea.com/sports/2026/10/22/2026102218333597241",
-  "http://www.econotelling.com/news/articleView.html?idxno=21445",
-  "https://www.fnnews.com/news/202610221838075979",
-  "https://www.dt.co.kr/article/12090778",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172610",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53887",
-  "https://econotimes.com/Credo-Leads-Among-Listed-AI-Infrastructure-Stocks-With-8-38-Opening-Gain-1760060",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220183&t=NN",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1106534",
-  "https://www.mk.co.kr/article/12183300",
-  "https://www.segye.com/newsView/20261022520296?OutUrl=naver",
   "https://www.sedaily.com/article/20105058",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=209467",
   "https://www.newsis.com/view/NISX20261022_0003837562",
@@ -2999,20 +2988,20 @@
   "http://www.rookie.co.kr/news/articleView.html?idxno=128968",
   "https://basketkorea.com/news/newsview.php?ncode=1065596145130664",
   "https://www.yna.co.kr/view/AKR20261025033000007?input=1195m",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=97701"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97701",
+  "https://sports.donga.com/it/article/all/20261025/134903032/1",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261025.99099007175",
+  "https://www.busan.com/view/busan/view.php?code=2026102510555555327",
+  "https://www.hani.co.kr/arti/economy/marketing/1284039.html",
+  "https://www.wikitree.co.kr/articles/1168977",
+  "https://www.news1.kr/industry/general-industry/6331094",
+  "https://www.ajunews.com/view/20261025152950199",
+  "https://www.mt.co.kr/stock/2026/10/25/2026102514593855645",
+  "https://www.hankyung.com/article/2026102533297",
+  "https://www.mt.co.kr/stock/2026/10/25/2026102315390824029",
+  "https://www.edaily.co.kr/News/Read?newsId=02033606645616528&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "나스닥과반대로가는韓증시…1만피전망사라졌다",
-  "[시사플랫폼]전남광주통합특별시첫국정감사…현안마다여야동상이몽",
-  "스페이스X가이통시장진출하면통신사들은설자리잃을까?",
-  "육동휘\"내년엔반도체소부장주상승탄력클것\"",
-  "증권株PBR더떨어져…1배이상은미래에셋증권유일",
-  "두산과부산시설공단,전국체전핸드볼남녀일반부정상",
-  "두산·부산시설공단,전국체전핸드볼남녀일반부정상등극...인천비...",
-  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(87)\"살기위해모든것...",
-  "금감원이어금융위도\"솔리다임美상장은중복상장규제대상\"",
-  "SKT,원치않는나라에선로밍막는무료부가서비스출시",
-  "금융국감달군'당국책임론'…ETF·해킹·조각투자쟁점[국감2026]",
   "코스피,하루만에반락…5500선으로",
   "CredoLeadsAmongListedAIInfrastructureStocksWith8.38%OpeningG",
   "\"삼전닉스처럼달라\"요구에…'분기성과급'신설한마이크론",
@@ -6001,7 +5990,18 @@
   "'잠실기사단의힘!'SK,KT꺾으며3연승",
   "[BK리뷰]‘안영준18점6스틸+워니맹폭’SK의뒤늦은질주가시작됐...",
   "[프로농구서울전적]SK90-79kt",
-  "[이번주증시]삼성전자·SK하이닉스주주환원'주목'…코스피반등이..."
+  "[이번주증시]삼성전자·SK하이닉스주주환원'주목'…코스피반등이...",
+  "“일상혜택부터해외서비스까지”…이통사구독경쟁치열",
+  "탄화규소전력반도체불량찾는국제기준파장오류15년만에규명",
+  "취임4주년이재용,분기영업익100조시대열었다",
+  "삼성·닉스3분기영업이익180조원대전망…‘추가주주환원'에쏠린눈",
+  "“다시태어나도같은길”…올림픽금메달만3개딴국가대표,은퇴...",
+  "가격상한·수출빗장·보상지연…정유4사호실적뒤'삼중고'",
+  "솔리다임IPO중단에…현대차,BD상장추진셈법복잡",
+  "솔리다임IPO중단파장...주주보호VS투자딜레마",
+  "도경완,120억집살면서\"세금내려시계팔아\"…'짠내'고백에역풍",
+  "\"중복상장막아야\"정치권총공세에좌초된솔리다임IPO",
+  "임대형AI데이터센터는세액공제제외…배경훈“재정당국과협의”"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,21 @@
   [
    "2026-10-25T16:01:15.466226+09:00",
    "주주환원 주목 삼성전자 코스피 SK하이닉스 반등"
+  ],
+  [
+   "2026-10-25T16:11:01.468370+09:00",
+   "짠내 도경완 살면서 역풍 시계 120억 세금 고백에 내려 팔아"
+  ],
+  [
+   "2026-10-25T16:11:01.468370+09:00",
+   "좌초된 IPO 솔리다임 중복상장 막아야 총공세에 정치권"
+  ],
+  [
+   "2026-10-25T16:11:01.468370+09:00",
+   "재정당국과 세액공제 협의 제외 배경훈 데이터센터는 AI 임대형"
   ]
  ],
- "last_run": "2026-10-25T16:01:36.525905+09:00",
+ "last_run": "2026-10-25T16:11:13.447927+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
