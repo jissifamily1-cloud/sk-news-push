@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1704944/?sc=Naver",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277624&CMPT_CD=P0010",
-  "https://vop.co.kr/A00001697278.html",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230010&t=NN",
-  "https://www.investchosun.com/site/data/html_dir/2026/10/22/2026102280104.html",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610211029392280102451",
-  "https://www.investchosun.com/site/data/html_dir/2026/10/22/2026102280107.html",
   "https://www.ceoscoredaily.com/page/view/2026102211110810793",
   "http://www.joseilbo.com/news/news_read.php?uid=577989&class=18",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610211331263720103550",
@@ -2999,16 +2992,16 @@
   "https://www.khan.co.kr/article/202610260600081",
   "http://www.newskr.kr/news/articleView.html?idxno=107424",
   "https://www.mk.co.kr/article/12185324",
-  "https://www.mk.co.kr/article/12185323"
+  "https://www.mk.co.kr/article/12185323",
+  "https://www.yna.co.kr/view/AKR20261024010052007?input=1195m",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=55659",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=55655",
+  "https://www.edaily.co.kr/News/Read?newsId=01682646645616856&mediaCodeNo=257",
+  "https://economychosun.com/site/data/html_dir/2026/10/17/2026101700019.html",
+  "https://economychosun.com/site/data/html_dir/2026/10/17/2026101700001.html",
+  "https://www.the-today.com/news/articleView.html?idxno=92381"
  ],
  "seen_titles": [
-  "\"국장보다비싸게샀는데\"…美SK하닉,3달연속'팔자'행렬",
-  "[인사이드스토리]현대모비스의'반도체'도전,지금인이유",
-  "세르지우감독9월의감독상받은뒤2연패‘흔들’제주vs‘무조건이...",
-  "금융위원장\"솔리다임중복상장규제대상\"…단일종목레버리지ETF사...",
-  "증시책임론에쏙빠진정부…오를땐정책덕,떨어지니기업탓?",
-  "금리동결에도3.5%급락…AI수익성·긴축우려",
-  "[2026국감]단일레버리지,드러난것과감춰진것",
   "\"삼전·하이닉스없어?\"묻더니이제는\"아직도안팔았냐?\"",
   "[사설]두개의초광역특구법발의,간보기식입법꼼수",
   "삼전닉스반등하나싶었는데\"바닥더낮을수도\"…\"언제까지널뛰기?\"...",
@@ -6001,7 +5994,14 @@
   "‘삼전닉스’실적에주요국금리결정까지…이번주‘슈퍼위크’,코스...",
   "[이번주관전포인트]3분기GDP발표,11월금리방향판가",
   "장열리니하이닉스30%폭락?…외면받는넥스트레이드,거래량급감이...",
-  "“앞으로1년성장성은최고입니다”…반도체뒤에서더빨리크는이..."
+  "“앞으로1년성장성은최고입니다”…반도체뒤에서더빨리크는이...",
+  "◇내일의경기(27일)",
+  "[브랜드평판]현대건설,하이엔드주거10월1위...롯데건설르엘,DK아...",
+  "[이넷뉴스브랜드평판]삼성SDI,전력저장장치ESS상장기업10월1위......",
+  "\"저삼성전자다녀요\"자랑에도데이트실패…인기남조건보니",
+  "[정철훈의미술관산책<38>]100여년전서양화가들이그린서울은어...",
+  "[재계이슈]한화창립74주년,재계5위에도‘위기의식’강조|김승...",
+  "[단독]SK온배터리리콜,美이어헝가리산으로확산…아우디9000대리..."
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,29 @@
   [
    "2026-10-26T06:11:01.369178+09:00",
    "빨리 크는 1년 반도체 성장성은 앞으로 뒤에서 최고입니다"
+  ],
+  [
+   "2026-10-26T06:21:04.813518+09:00",
+   "전력저장장치 1위 삼성SDI 10월 ESS 상장기업"
+  ],
+  [
+   "2026-10-26T06:21:04.813518+09:00",
+   "자랑에도 인기남 실패 다녀요 데이트 보니 삼성전자 조건"
+  ],
+  [
+   "2026-10-26T06:21:04.813518+09:00",
+   "서울은 그린 100여 서양화가들이"
+  ],
+  [
+   "2026-10-26T06:21:04.813518+09:00",
+   "74주년 위기 5위에도 의식 한화 강조 재계 김승 창립"
+  ],
+  [
+   "2026-10-26T06:21:04.813518+09:00",
+   "헝가리산으로 9000대 SK온 배터리 리콜 확산 이어 아우디"
   ]
  ],
- "last_run": "2026-10-26T06:11:10.100541+09:00",
+ "last_run": "2026-10-26T06:21:23.849832+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
