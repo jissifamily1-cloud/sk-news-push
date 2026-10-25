@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1131813",
-  "https://www.mt.co.kr/stock/2026/10/22/2026102215284130533",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103663",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440664",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172594",
-  "https://www.mediapen.com/news/view/1131766",
-  "https://www.joongang.co.kr/article/25471994",
-  "https://www.kado.net/news/articleView.html?idxno=2079806",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=49960",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200241",
-  "https://www.imaeil.com/page/view/2026102216083485533",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=313753",
   "https://www.thepowernews.co.kr/view.php?ud=202610221609116502de3f0aa1be_7",
   "https://www.hani.co.kr/arti/economy/economy_general/1283653.html",
@@ -2999,20 +2988,20 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1317815&inflow=N",
   "https://www.edaily.co.kr/News/Read?newsId=01213606645616528&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=01207046645616528&mediaCodeNo=257",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300278.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300278.html",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000076363",
+  "https://www.dt.co.kr/article/12091009",
+  "https://www.sedaily.com/article/20105691",
+  "https://www.dt.co.kr/article/12091007",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3731731",
+  "https://www.edaily.co.kr/News/Read?newsId=01249686645616528&mediaCodeNo=257",
+  "https://www.ekn.kr/web/view.php?key=20261025027230075",
+  "https://www.ekn.kr/web/view.php?key=20261025025210849",
+  "https://www.sedaily.com/article/20105688",
+  "https://www.sedaily.com/article/20105690",
+  "https://www.dailian.co.kr/news/view/1705561/?sc=Naver"
  ],
  "seen_titles": [
-  "코스피3.5%하락5530선마감…AI투자불안·긴축경계감[시황종합]",
-  "[마켓뷰]메타·테슬라실적도못가라앉힌AI우려…코스피3%하락마...",
-  "코스피,반도체주되돌림에5530선급락",
-  "'수급공백'현실화에코스피5,500대급락",
-  "지커,전기SUV'7X'국내인도시작…1호고객은SK온",
-  "SKT,원치않는국가서로밍연결차단…'T로밍안심국가'출시",
-  "코스피5533.77마감…외인·기관매도에반등분반납",
-  "SKT,AI추론부터해외로밍보안까지…기술경쟁력에고객보호더한다",
-  "종감에서도고개숙인금융당국수장들…\"단종레사태,무거운마음\"(종...",
-  "[마감]빅테크호실적도역부족…코스피3%급락",
-  "이억원·이찬진,단종레사태재차사과…졸속심사논란엔선긋기",
   "“신소재로K반도체기업공략”…머크,충북음성서몰리브덴양산",
   "코스피,기관매도세에3.5%급락5533마감…코스닥도3.6%급락",
   "이억원\"솔리다임해외상장도중복상장규제\"…SK하이닉스·SK스퀘어주...",
@@ -6001,7 +5990,18 @@
   "KT10주년보야지페스티벌에8500명운집…통신3사고객잡기경쟁",
   "반도체흔들려도…바이오·헬스케어ETF수익률9%‘선방’[펀드와치]",
   "티앤이코리아·인텔리빅스·크리에이츠상장등[증시캘린더]",
-  "\"반등은쥐꼬리,낮아지는저점\"…코스피,美앤트로픽상장'복병'만..."
+  "\"반등은쥐꼬리,낮아지는저점\"…코스피,美앤트로픽상장'복병'만...",
+  "전남광주반도체인재정착관건은교육…국제학교설립·특구지정추...",
+  "10대그룹시총1100조증발…SK30%사라져",
+  "美,중국AI·첨단반도체투자옥죈다…생명공학까지규제확대",
+  "국장부진에도ETF쓸어담은개미와외인…올해90조원넘게샀다",
+  "코스피방향못잡았다…SK하이닉스·삼성전자실적,FOMC몰린'슈퍼위...",
+  "63조ETF시장흔들변수…종목교체에매수세몰릴까",
+  "한수원노조·시민단체“신규원전지연책임져야”…김성환장관경질...",
+  "“MSCI퇴출위기인도네시아보다싸”…삼전닉스에몰린개미들[머니...",
+  "“빅테크불안에안전자산선호”…기술주에서美국채로대이동",
+  "미국10년물금리3년7개월만에최대낙폭…다시5%밑으로",
+  "\"반등보단바닥다지기\"…삼전닉스·빅테크실적에FOMC까지[주간증시..."
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,33 @@
   [
    "2026-10-25T09:10:57.698589+09:00",
    "쥐꼬리 복병 상장 저점 앤트로픽 낮아지는 반등은 코스피"
+  ],
+  [
+   "2026-10-25T09:21:00.176668+09:00",
+   "시장 흔들 ETF 매수세 변수 몰릴까 종목 63조 교체에"
+  ],
+  [
+   "2026-10-25T09:21:00.176668+09:00",
+   "장관 경질 시민단체 지연 책임져야 김성환 신규원전 한수원노조"
+  ],
+  [
+   "2026-10-25T09:21:00.176668+09:00",
+   "개미들 위기 인도네시아보다 삼전닉스에 퇴출 머니 MSCI 몰린"
+  ],
+  [
+   "2026-10-25T09:21:00.176668+09:00",
+   "기술주에서 선호 안전자산 빅테크 불안에 대이동 국채로"
+  ],
+  [
+   "2026-10-25T09:21:00.176668+09:00",
+   "미국 다시 10년물 낙폭 밑으로 3년 7개월 금리 만에"
+  ],
+  [
+   "2026-10-25T09:21:00.176668+09:00",
+   "다지기 실적에 삼전닉스 증시 바닥 FOMC까지 반등보단 빅테크 주간"
   ]
  ],
- "last_run": "2026-10-25T09:11:16.885154+09:00",
+ "last_run": "2026-10-25T09:21:19.055711+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
