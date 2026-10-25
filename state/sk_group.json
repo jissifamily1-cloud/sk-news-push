@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20261022/134892708/2",
-  "https://byline.network/?p=9004111222624299",
-  "http://www.kjdaily.com/article.php?aid=1792682031689957276",
-  "https://www.ftimes.kr/news/articleView.html?idxno=40602",
-  "https://www.sedaily.com/article/20105040",
   "https://www.kado.net/news/articleView.html?idxno=2079876",
   "https://www.kwnews.co.kr/article/20261018501269",
   "https://www.kwnews.co.kr/article/20261007501733",
@@ -2999,14 +2994,14 @@
   "https://www.g-enews.com/view.php?ud=202610221842527987fbbec65dfb_1",
   "https://www.ddaily.co.kr/page/view/2026102519271966830",
   "https://www.newscj.com/news/articleView.html?idxno=3442960",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261025192958aLE"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261025192958aLE",
+  "https://www.kbmaeil.com/article/20261025500648",
+  "https://www.ytn.co.kr/_ln/0107_202610251943314717",
+  "https://www.ajunews.com/view/20261025192421498",
+  "https://www.kyeongin.com/article/1773348",
+  "https://biz.heraldcorp.com/article/10913081"
  ],
  "seen_titles": [
-  "이억원\"솔리다임美상장,중복상장규제대상…SK하이닉스·스퀘어의...",
-  "베테랑투수최동환·조이현포함10명방출…정규리그1위KT,본격선수...",
-  "미국마이크론,성과급지급...타이완노조,삼성·하이닉스방식요구",
-  "금융위원장도“솔리다임,중복상장규제대상”",
-  "“우리도N%성과급달라”…마이크론대만공장파업",
   "獨머크,음성에몰리브덴생산설비완공",
   "금리동결…신현송“긴축이어갈것”11월인상무게",
   "AI시대고객만나려면콘텐츠에투자해야…GEO에나선기업들의계산",
@@ -6001,7 +5996,12 @@
   "빚내서산인공지능칩모순터졌다…채권자경단반격에흔들리는기술...",
   "피지컬AI시대,네트워크중요성부각…28일산업계협력방안논의",
   "'4대그룹유일공채'삼성,하반기GSAT실시…19개관계사참여",
-  "한국경상흑자,'독일·일본'합계제쳤다…사상처음"
+  "한국경상흑자,'독일·일본'합계제쳤다…사상처음",
+  "기름값올릴땐번개,내릴땐거북이…정유4사3분기이익5조원전망",
+  "프로농구서울삼성,개막8연승질주...KBL역대3번째",
+  "대구시,'FIX2026'588개사2000부스역대최대성황리에폐막",
+  "송도에마운자로제약사‘스타트업육성시설’온다",
+  "[증시예보]결국열쇠는‘삼전닉스’…28·29일이진짜중요한이유"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,17 @@
   [
    "2026-10-25T19:41:02.068721+09:00",
    "제쳤다 처음 한국 합계 경상흑자 독일 사상 일본"
+  ],
+  [
+   "2026-10-25T19:50:58.611150+09:00",
+   "송도에 마운자로 스타트업 육성시설 온다 제약사"
+  ],
+  [
+   "2026-10-25T19:50:58.611150+09:00",
+   "진짜 열쇠는 중요한 29일이 결국 이유 삼전닉스"
   ]
  ],
- "last_run": "2026-10-25T19:41:08.738751+09:00",
+ "last_run": "2026-10-25T19:51:07.398684+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
