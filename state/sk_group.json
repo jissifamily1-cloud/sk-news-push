@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261023_0003837718",
-  "https://www.kyeonggi.com/article/20261022580560",
-  "https://www.starnewskorea.com/sports/2026/10/23/2026102216324265620",
-  "https://www.kmib.co.kr/article/20261022502272",
-  "https://www.kmib.co.kr/article/20261022502111",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=416653",
-  "http://www.kjdaily.com/article.php?aid=1792683984690043276",
-  "https://www.chosun.com/economy/industry-company/2026/10/23/UC5IKI4V7NFEFOTGQLJCNMV2BI/",
-  "https://www.chosun.com/economy/industry-company/2026/10/23/QRLSKSZO4JHQRJHWJ7O6W27XOY/",
-  "http://www.paxetv.com/news/articleView.html?idxno=284963",
-  "https://www.ftimes.kr/news/articleView.html?idxno=40607",
   "https://www.ytn.co.kr/_ln/0104_202610230043442507",
   "https://www.chosun.com/economy/economy_general/2026/10/23/NSJTW5MGJFEMFIJYL4ECFD3WIY/",
   "https://www.donga.com/news/Economy/article/all/20261022/134892691/2",
@@ -2999,20 +2988,20 @@
   "https://www.ajunews.com/view/20261025151951181",
   "https://www.ytn.co.kr/_ln/0102_202610251902116679",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434812",
-  "https://www.segye.com/newsView/20261025509578?OutUrl=naver"
+  "https://www.segye.com/newsView/20261025509578?OutUrl=naver",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261026.22010007225",
+  "https://www.hani.co.kr/arti/sports/basketball/1284084.html",
+  "https://www.mydaily.co.kr/page/view/2026102519100383843",
+  "https://www.g-enews.com/view.php?ud=20261022184809118fbbec65dfb_1",
+  "https://www.dkilbo.com/news/articleView.html?idxno=558370",
+  "https://www.fnnews.com/news/202610251912201811",
+  "https://www.newsis.com/view/NISX20261025_0003840190",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=319534",
+  "https://www.fnnews.com/news/202610251909272646",
+  "https://www.fnnews.com/news/202610251909265194",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=648166"
  ],
  "seen_titles": [
-  "조선·에너지대기업현장수요에스타트업기술매칭…울산창경오픈이...",
-  "빚내서산인공지능칩모순터졌다…채권자경단반격에흔들리는기술...",
-  "솔리다임'중복상장'판단에도...규제방안은?",
-  "젠슨황\"2029년메모리공급과잉없을것\"",
-  "젠슨황\"메모리공급과잉없다\"...중국메모리사용시사",
-  "\"산불골든타임확보\"...용인특례시,AI산불감시망구축",
-  "젠슨황\"2029년메모리공급과잉가능성낮아\"",
-  "[사설]반도체산업은광역이다,반도체행정도광역돼야",
-  "'前SK'산체스,韓떠난지어느새7년→37세에152㎞쾅!여전한파이어...",
-  "“코스피저평가…韓자본시장이투자자뒤통수치지말아야”",
-  "파이널A마지막한자리놓고…제주vs인천‘질수없는승부’",
   "조상호세종시장,'경제·행정2수도'시대개막선언",
   "코스피200ETF5개거래대금7.8조원…인버스도강세",
   "“단한건에도사업망한다”…식당부터벤처까지‘집단소송제’공...",
@@ -6001,7 +5990,18 @@
   "빅테크뛰어든AI신약개발…국내제약사도참전",
   "삼성전자·SK하이닉스영업이익180조전망...주주환원책'주목'",
   "'어펜저스전설'구본길피스트떠난다…올림픽금3개·AG금6개남기고...",
-  "10대그룹시총한달1100조증발…정부‘손’쓸까"
+  "10대그룹시총한달1100조증발…정부‘손’쓸까",
+  "FOMC에반도체실적까지…널뛰기장세에이벤트촉각",
+  "김상식감독의삼성매직,프로농구개막8연승공동1위타이기록",
+  "'상식매직'진짜미쳤다!패배를잊었다,파죽의8연승질주→개막최...",
+  "애리조나에먼저장비들인인텔,오하이오속도늦추며한국메모리에...",
+  "\"반도체회사에선무슨일할까?\"…구미청소년150명,현직자만났다",
+  "\"앱없이전화·문자로AI이용…한국인맞춤형정보로차별화\"['모두...",
+  "SK하이닉스,솔리다임IPO검토중단…실적발표서투자재원해법내놓...",
+  "공채70년삼성,하반기GSAT실시…19개관계사참여",
+  "반도체투톱,순매수희비교차...하닉15%오를때삼전75%↓[1%고수의...",
+  "삼전닉스·美빅테크실적발표가반등변수[주간증시전망]",
+  "창원LG,서울SK에85-86석패"
  ],
  "recent_sigs": [
   [
@@ -6427,9 +6427,13 @@
   [
    "2026-10-25T19:11:02.461212+09:00",
    "10대그룹 1100조 증발 쓸까 시총 정부"
+  ],
+  [
+   "2026-10-25T19:21:01.685643+09:00",
+   "서울 석패 LG SK에 창원"
   ]
  ],
- "last_run": "2026-10-25T19:11:11.420757+09:00",
+ "last_run": "2026-10-25T19:21:07.949993+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
