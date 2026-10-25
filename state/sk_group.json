@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=313753",
-  "https://www.thepowernews.co.kr/view.php?ud=202610221609116502de3f0aa1be_7",
-  "https://www.hani.co.kr/arti/economy/economy_general/1283653.html",
-  "https://www.yna.co.kr/view/AKR20261022154900007?input=1195m",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610201544100000103762",
   "https://www.mt.co.kr/industry/2026/10/22/2026102214180045313",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2447663",
   "https://www.greened.kr/news/articleView.html?idxno=352785",
@@ -2999,14 +2994,14 @@
   "https://www.ekn.kr/web/view.php?key=20261025025210849",
   "https://www.sedaily.com/article/20105688",
   "https://www.sedaily.com/article/20105690",
-  "https://www.dailian.co.kr/news/view/1705561/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1705561/?sc=Naver",
+  "https://www.youthdaily.co.kr/news/article.html?no=228808",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261025092439H9e",
+  "https://www.dt.co.kr/article/12091004",
+  "https://www.sedaily.com/article/20105696",
+  "https://www.insight.co.kr/news/579049"
  ],
  "seen_titles": [
-  "“신소재로K반도체기업공략”…머크,충북음성서몰리브덴양산",
-  "코스피,기관매도세에3.5%급락5533마감…코스닥도3.6%급락",
-  "이억원\"솔리다임해외상장도중복상장규제\"…SK하이닉스·SK스퀘어주...",
-  "삼성·SK하이닉스,中서첨단낸드승부수…美규제뚫을까",
-  "[속보]코스피또또또추락…6거래일새세번째3%이상급락",
   "코스피,반도체약세에5500선마감",
   "SKT,서울대·KAIST와‘수학난제’도전…A.XK2추론능력키운다",
   "‘지커7X’국내1호구매한SK온…정작배터리는경쟁사CATL제품",
@@ -6001,7 +5996,12 @@
   "“MSCI퇴출위기인도네시아보다싸”…삼전닉스에몰린개미들[머니...",
   "“빅테크불안에안전자산선호”…기술주에서美국채로대이동",
   "미국10년물금리3년7개월만에최대낙폭…다시5%밑으로",
-  "\"반등보단바닥다지기\"…삼전닉스·빅테크실적에FOMC까지[주간증시..."
+  "\"반등보단바닥다지기\"…삼전닉스·빅테크실적에FOMC까지[주간증시...",
+  "개인정보유출조사175건1년째미처리...장기계류30건",
+  "삼전닉스,이번주3분기확정실적…합산영업이익185조전망",
+  "삼성·SK하닉,3분기영업익185조전망…HBM4가실적키웠다",
+  "최태원뉴욕식당방문사진공개…솔리다임美투자행보주목",
+  "삼성전자30조배당ㆍSK하이닉스40조자사주매입...이번주실적발표..."
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,13 @@
   [
    "2026-10-25T09:21:00.176668+09:00",
    "다지기 실적에 삼전닉스 증시 바닥 FOMC까지 반등보단 빅테크 주간"
+  ],
+  [
+   "2026-10-25T09:31:11.174145+09:00",
+   "30조 삼성전자 40조 배당 자사주 실적 SK하이닉스 매입 발표"
   ]
  ],
- "last_run": "2026-10-25T09:21:19.055711+09:00",
+ "last_run": "2026-10-25T09:31:17.714455+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
