@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/economy_general/2026/10/23/NSJTW5MGJFEMFIJYL4ECFD3WIY/",
-  "https://www.donga.com/news/Economy/article/all/20261022/134892691/2",
-  "https://www.donga.com/news/Economy/article/all/20261022/134892725/2",
   "https://www.donga.com/news/Economy/article/all/20261022/134892708/2",
   "https://byline.network/?p=9004111222624299",
   "http://www.kjdaily.com/article.php?aid=1792682031689957276",
@@ -2999,12 +2996,12 @@
   "https://www.fnnews.com/news/202610251909272646",
   "https://www.fnnews.com/news/202610251909265194",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=648166",
-  "https://www.g-enews.com/view.php?ud=202610221842527987fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202610221842527987fbbec65dfb_1",
+  "https://www.ddaily.co.kr/page/view/2026102519271966830",
+  "https://www.newscj.com/news/articleView.html?idxno=3442960",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261025192958aLE"
  ],
  "seen_titles": [
-  "코스피200ETF5개거래대금7.8조원…인버스도강세",
-  "“단한건에도사업망한다”…식당부터벤처까지‘집단소송제’공...",
-  "美기업,집단소송방어비만연6조원",
   "이억원\"솔리다임美상장,중복상장규제대상…SK하이닉스·스퀘어의...",
   "베테랑투수최동환·조이현포함10명방출…정규리그1위KT,본격선수...",
   "미국마이크론,성과급지급...타이완노조,삼성·하이닉스방식요구",
@@ -6001,13 +5998,12 @@
   "반도체투톱,순매수희비교차...하닉15%오를때삼전75%↓[1%고수의...",
   "삼전닉스·美빅테크실적발표가반등변수[주간증시전망]",
   "창원LG,서울SK에85-86석패",
-  "빚내서산인공지능칩모순터졌다…채권자경단반격에흔들리는기술..."
+  "빚내서산인공지능칩모순터졌다…채권자경단반격에흔들리는기술...",
+  "피지컬AI시대,네트워크중요성부각…28일산업계협력방안논의",
+  "'4대그룹유일공채'삼성,하반기GSAT실시…19개관계사참여",
+  "한국경상흑자,'독일·일본'합계제쳤다…사상처음"
  ],
  "recent_sigs": [
-  [
-   "2026-10-25T13:40:59.971087+09:00",
-   "세입은 지출은 줄고 인천시 살림 첩첩산중 늘고"
-  ],
   [
    "2026-10-25T13:51:01.177980+09:00",
    "25조 100조 순자산 할인율 vs 시총은 차이"
@@ -6415,9 +6411,13 @@
   [
    "2026-10-25T19:21:01.685643+09:00",
    "서울 석패 LG SK에 창원"
+  ],
+  [
+   "2026-10-25T19:41:02.068721+09:00",
+   "제쳤다 처음 한국 합계 경상흑자 독일 사상 일본"
   ]
  ],
- "last_run": "2026-10-25T19:31:13.812233+09:00",
+ "last_run": "2026-10-25T19:41:08.738751+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
