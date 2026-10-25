@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440692",
-  "http://www.inews365.com/news/article.html?no=940386",
-  "https://www.fnnews.com/news/202610221850490085",
-  "https://www.fntimes.com/html/view.php?ud=202610131723205463141825007d_18",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268049",
-  "https://biz.sbs.co.kr/article_hub/20000341592?division=NAVER",
-  "https://www.hani.co.kr/arti/opinion/column/1283727.html",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=816802",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4113948",
   "https://www.munhwa.com/article/11625540",
   "https://www.ngetnews.com/news/articleView.html?idxno=554985",
@@ -2999,17 +2991,17 @@
   "https://www.mt.co.kr/industry/2026/10/25/2026102316061942374",
   "http://www.rookie.co.kr/news/articleView.html?idxno=128970",
   "https://www.ajunews.com/view/20261025151549178",
-  "https://www.mt.co.kr/stock/2026/10/25/2026102311282298945"
+  "https://www.mt.co.kr/stock/2026/10/25/2026102311282298945",
+  "https://isplus.com/article/view/isp202610250092",
+  "http://www.inews24.com/view/2018681",
+  "http://www.inews24.com/view/2018676",
+  "https://www.edaily.co.kr/News/Read?newsId=02092646645616528&mediaCodeNo=257",
+  "https://www.kukinews.com/article/view/kuk202610250029",
+  "http://www.metroseoul.co.kr/article/20261025500239",
+  "http://www.metroseoul.co.kr/article/20261025500237",
+  "https://www.newscj.com/news/articleView.html?idxno=3442916"
  ],
  "seen_titles": [
-  "삼성·SK·포스코,PHP해킹사태에보안패치등긴급선제대응나서",
-  "SKT,원치않는해외로밍차단서비스출시…국가별이용통제",
-  "사내대출1조원에규제검토…이억원\"방법론적고민\"",
-  "[2026국감-국토위]엄태영\"수주가국익이라면공정도국익\"⋯해외하도...",
-  "\"PRS위험기업찾아재무구조개선제안\"…자문시장커진다",
-  "이억원“솔리다임美상장도규제대상”…여야,보완책촉구",
-  "[채권-마감]일방향쏠림없던금통위…국고3년1.8bp↑10년0.8bp↓",
-  "반도체클러스터에정치적고려없어야",
   "부산시,지역건설사살리기대기업과해법모색",
   "SKShiftsFocusFromBatteriestoAIandChipsasTopExecutivesGathera",
   "조각투자·가계대출총량관리…이억원\"추가인가필요있으면검토·보...",
@@ -6001,13 +5993,17 @@
   "상장멈춰도투자는해야…SK하이닉스,솔리다임자금조달숙제",
   "'5연패수렁'KT문경은감독\"다음경기에서는어떻게든연패끊겠다\"",
   "외국인'매도비'소강속삼전닉스'실적수퍼위크'…6000선회복할까",
-  "'절차보다정치가앞서면'…IPO위축에기업성장까지발목"
+  "'절차보다정치가앞서면'…IPO위축에기업성장까지발목",
+  "‘알바노·해먼즈59점합작’DB,난타전끝에정관장제압",
+  "삼성전자30조배당·SK하이닉스40조자사주…추가주주환원주목",
+  "삼성전자·SK하이닉스,3분기영업익180조넘나…메모리호황에실적질...",
+  "FIX2026,11만7000명방문…수출상담3억5300만달러",
+  "워니부터안영준,김낙현까지고르게터졌다…SK,‘통신사라이벌’K...",
+  "[2026에너지포럼]메가프로젝트전력·열공급과제…SK이노베이션역...",
+  "삼성HBM매출,하닉추월하나…이번주양사실적발표촉각",
+  "내년산업별희비교차…반도체웃고車·조선·석화는부담"
  ],
  "recent_sigs": [
-  [
-   "2026-10-25T10:31:08.142148+09:00",
-   "고객 캠프에 축제 구독까지 총력 러너 확장 경험"
-  ],
   [
    "2026-10-25T10:41:03.182288+09:00",
    "집중 10대 SK에 축소 시총 삼성 1100조 감소분"
@@ -6395,9 +6391,25 @@
   [
    "2026-10-25T16:21:04.311231+09:00",
    "앞서면 기업 성장까지 위축에 절차보다 IPO 정치가 발목"
+  ],
+  [
+   "2026-10-25T16:31:10.425390+09:00",
+   "터졌다 고르게 라이벌 김낙현까지 안영준 통신사 워니부터"
+  ],
+  [
+   "2026-10-25T16:31:10.425390+09:00",
+   "SK이노베이션 공급 과제 전력 메가프로젝트"
+  ],
+  [
+   "2026-10-25T16:31:10.425390+09:00",
+   "추월하나 촉각 양사 HBM 실적 매출 이번주 하닉 발표 삼성"
+  ],
+  [
+   "2026-10-25T16:31:10.425390+09:00",
+   "교차 석화는 내년 조선 희비 산업별 반도체 부담 웃고"
   ]
  ],
- "last_run": "2026-10-25T16:21:15.493298+09:00",
+ "last_run": "2026-10-25T16:31:25.471631+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
