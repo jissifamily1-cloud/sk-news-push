@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160260210997211",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=870693",
-  "https://econotimes.com/Memory-Shares-Open-Higher-After-Tuesday-Losses-in-U-S-Trading-1760048",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/22/2026102280172.html",
-  "https://www.yna.co.kr/view/AKR20261022178500083?input=1195m",
-  "http://www.4th.kr/news/articleView.html?idxno=2120265",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601416",
-  "https://www.sedaily.com/article/20105024",
   "https://www.viva100.com/article/20261022501323",
   "https://biz.sbs.co.kr/article_hub/20000341613?division=NAVER",
   "https://futurechosun.com/?p=164341",
@@ -2999,17 +2991,17 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16257370",
   "https://www.newsway.co.kr/news/view?ud=2026102515103648768",
   "https://www.ytn.co.kr/_ln/0102_202610251512374259",
-  "https://www.kgnews.co.kr/news/article.html?no=916554"
+  "https://www.kgnews.co.kr/news/article.html?no=916554",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=697108",
+  "https://www.imaeil.com/page/view/2026102514464466891",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498231",
+  "https://www.m-i.kr/news/articleView.html?idxno=2009941",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=620736",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498230",
+  "https://www.dt.co.kr/article/12091096",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=870835"
  ],
  "seen_titles": [
-  "포스텍,글로컬대학사업성과한자리에…교육·R&D·창업혁신공유",
-  "[인터뷰]이은정광주송정지국장\"계약보다감사인사부터챙겨야\"",
-  "野,정무위서\"단일종목ETF심사단축윗선밝혀라\"…與,맞대응자제(...",
-  "[2026국감]이찬진이어이억원도\"솔리다임美상장,중복상장규제대상...",
-  "한수원노조,시민사회와청와대·에너지전환포럼·국회서신규원전지연...",
-  "삼성전자·SK하이닉스,55조자사주매입완료…이달말주주환원발표...",
-  "용인특례시,산불감시CCTV10대에AI연기감지도입",
-  "충북,전국체전'종합9위'…한자릿수순위목표달성",
   "MemorySharesOpenHigherAfterTuesdayLossesinU.S.Trading",
   "희망브리지,산림·도심맞닿은용인에AI산불감지시스템설치",
   "대만노조요구에美마이크론,이익연동성과급분기별지급",
@@ -6001,7 +5993,15 @@
   "PHP2Shell해킹비상…보안패치해도남는새취약점발견",
   "코스피급락에레버리지로몰린개미…1.6조원반등베팅",
   "삼전닉스3분기실적185조원전망...주주환원책나오나?",
-  "대형사고에도수주는계속…경기·인천건설사영업정지실효성논란"
+  "대형사고에도수주는계속…경기·인천건설사영업정지실효성논란",
+  "'실낱같은희망'광주,바루아-아이데일앞세워반등성공…최하위탈...",
+  "사상첫獨·日앞지른韓경상흑자…반도체쏠림은'근심'",
+  "매출은늘고영업이익은흑자로…신세계인터내셔날실적회복주목",
+  "'FIX2026'폐막…588개기업참가·관람객11만7000명",
+  "삼전닉스,3분기합산영업익185조전망…이번주실적발표",
+  "한세실업3분기영업이익42%감소예상…수익성방어가관건",
+  "주가는반토막인데목표가는3배…급락에도꿈쩍않는‘삼전닉스’눈...",
+  "충북반도체고입학경쟁률4.72대1"
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,17 @@
   [
    "2026-10-25T15:21:02.534017+09:00",
    "경기 사고에도 건설사 대형 영업정지 실효성 계속 논란 인천 수주는"
+  ],
+  [
+   "2026-10-25T15:31:10.290223+09:00",
+   "급락에도 목표가는 꿈쩍않는 3배 삼전닉스 반토막인데 주가는"
+  ],
+  [
+   "2026-10-25T15:31:10.290223+09:00",
+   "72대1 충북반도체고 입학 경쟁률"
   ]
  ],
- "last_run": "2026-10-25T15:21:08.505749+09:00",
+ "last_run": "2026-10-25T15:31:19.886151+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
