@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=724528",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=137976",
-  "https://www.newspim.com/news/view/20261022001417",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1728856",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541400",
-  "https://www.newsis.com/view/NISX20261022_0003837627",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553636791",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728857",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6860034_37004.html",
   "http://www.jmbc.co.kr/news/view/69056",
@@ -2999,16 +2992,16 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=640910",
   "https://www.mt.co.kr/politics/2026/10/25/2026102515121937509",
   "https://www.nongmin.com/article/20261025500045",
-  "https://www.hani.co.kr/arti/economy/finance/1284054.html"
+  "https://www.hani.co.kr/arti/economy/finance/1284054.html",
+  "https://m.sports.naver.com/basketball/article/065/0000303467",
+  "https://m.sports.naver.com/general/article/065/0000303466",
+  "https://www.tournews21.com/news/articleView.html?idxno=145968",
+  "http://www.metroseoul.co.kr/article/20261005500109",
+  "https://www.joongboo.com/news/articleView.html?idxno=363740396",
+  "https://www.greened.kr/news/articleView.html?idxno=352942",
+  "https://www.mk.co.kr/article/12185160"
  ],
  "seen_titles": [
-  "워커힐김치,美수출1년만에82톤돌파…글로벌영토넓힌다",
-  "김동선,한화M&S공개매수증액에쏠린눈",
-  "[전국체전]\"2년연속금\"부산시설공단,여자핸드볼팀",
-  "BankofKoreaFreezesBaseRateat3.0%",
-  "인텔,오하이오공장첫대형트러스설치…일정최소5년지연",
-  "용인반도체산단배관공사'급조'정황…주민안전은나몰라라?",
-  "[공시]10월23일,코스피상장사46개종목자사주매수신청",
   "SKT,수학난제로AI의'검증능력'키운다…스스로판단하는A.XK2개발",
   "[2026국감]조각투자거래소'공정성'논란...이억원\"필요하면추가검...",
   "상반기소외됐던이차전지ETF의반전…3개월수익률23%찍었다",
@@ -6001,17 +5994,16 @@
   "[주간환율전망]중심잡는수출네고···슈퍼위크에도1320원대박스권",
   "초광역특구서지주사출자규제푼다…320개특례로기업투자유도",
   "“이젠환불계좌번호까지”…롯데그룹쿠폰업체‘기프티엘’도해킹...",
-  "“한방에본전찾자”레버리지ETF열풍,하락장에도안식었다"
+  "“한방에본전찾자”레버리지ETF열풍,하락장에도안식었다",
+  "[오늘의농구장여신]SK치어리더'함께SK의승리를위해응원해요'",
+  "[화보]자밀워니25점맹활약SK,90-79로KT에홈승리",
+  "포스텍,글로컬대학성과공유회개최…\"연구실기술이지역기업제품으...",
+  "객실에서세계식탁으로…호텔업계,프리미엄식품사업에힘준다",
+  "KT,SK에79-90패배로5연패수렁...정관장은DB에2점차석패",
+  "[데이터뉴스룸]철강업종50개주식종목올하반기시총9조증발…삼...",
+  "[매경포럼]팬데믹대비,세계는韓을택했다"
  ],
  "recent_sigs": [
-  [
-   "2026-10-25T11:11:02.708362+09:00",
-   "타고 줍고 버스 입장료 반값 쓰레기 텀블러 쓰면 프로축구"
-  ],
-  [
-   "2026-10-25T11:11:02.708362+09:00",
-   "vs 서리 가을바람속 맑게 기업 움츠린 내려"
-  ],
   [
    "2026-10-25T11:21:03.421230+09:00",
    "상담액 나흘간 방문 폐막 5086억 11만7000명 FIX"
@@ -6447,9 +6439,13 @@
   [
    "2026-10-25T17:11:01.226759+09:00",
    "레버리지ETF 한방에 식었다 찾자 본전 하락장에도 열풍"
+  ],
+  [
+   "2026-10-25T17:21:01.936622+09:00",
+   "택했다 대비 세계는 팬데믹"
   ]
  ],
- "last_run": "2026-10-25T17:11:30.874438+09:00",
+ "last_run": "2026-10-25T17:21:08.344015+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
