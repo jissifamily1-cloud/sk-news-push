@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610230727184230",
-  "https://www.sedaily.com/article/20105137",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709133",
-  "https://www.hani.co.kr/arti/economy/marketing/1283778.html",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497779",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1104712",
-  "https://www.hankyung.com/article/2026102399627",
-  "https://www.newsis.com/view/NISX20261023_0003837749",
   "https://www.newsis.com/view/NISX20261022_0003837047",
   "https://news.mtn.co.kr/article/2026102307433828648",
   "https://www.businessplus.kr/news/articleView.html?idxno=118608",
@@ -2999,17 +2991,17 @@
   "https://www.koreatimes.co.kr/path/A2026102514020000243",
   "https://economist.co.kr/article/view/ecn202610210049",
   "https://www.ajunews.com/view/20261024173030390",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694707"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694707",
+  "https://www.vegannews.co.kr/news/article.html?no=395784",
+  "https://www.news1.kr/world/international-economy/6331264",
+  "http://www.joseilbo.com/news/news_read.php?uid=578098&class=1",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610250152519440975",
+  "https://www.geconomy.co.kr/news/article.html?no=324818",
+  "https://www.fntimes.com/html/view.php?ud=202610260651513275141825007d_18",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=619060",
+  "https://news.bizwatch.co.kr/article/governance/2026/10/23/0003"
  ],
  "seen_titles": [
-  "[속보]SK하이닉스\"솔리다임,프리IPO및IPO검토중단\"",
-  "엔비디아젠슨황,메모리공급과잉우려에\"많으면좋다\"",
-  "SK하이닉스,금융당국수장잇단제동에솔리다임美상장결국철회",
-  "美빅테크실적발표시작…K-메모리내년향방보인다",
-  "[속보]SK하이닉스,솔리다임미국증시상장계획접는다",
-  "거래대금상위권휩쓴매도세…램리서치11.76%·코히런트12.51%폭락",
-  "용인백암초통학로에AI스마트횡단보도설치",
-  "도경완\"하이닉스레버리지까지들어갔는데…마이너스40%\"",
   "[오늘의증시]美반도체지수7%↓…약세출발속낙폭과대인식주목",
   "\"시장떠나지마세요\"…5000선붕괴보다'W자반등'가능성",
   "SK하이닉스,솔리다임美상장추진중단...프리IPO도철회",
@@ -6001,7 +5993,15 @@
   "Samsung,SKhynixshareholderreturnpoliciesinfocusaheadofQ3earn",
   "SK하이닉스에밀린삼성의반격…HBM4판뒤집을‘비장의카드’",
   "[이경렬의인사이트]3500억달러짜리동맹…부작용은한국의몫",
-  "“경상흑자,독일·일본도제쳤다”…그런데코스피는왜안오를까?[잇..."
+  "“경상흑자,독일·일본도제쳤다”…그런데코스피는왜안오를까?[잇...",
+  "세보엠이씨용인공사계약액2억5588만원줄어",
+  "골드만,코스피목표치9000으로하향…현재대비60%상승여력",
+  "삼성·SK,시총995조원증발…'빚투'투자자들개인회생·파산까지",
+  "신한리츠운용-SK디앤디프로젝트리츠900억원규모출범,서울수도권2...",
+  "[건설현장안전의역설]영업정지처분은법정에묶이고…대형건설사...",
+  "[KFT모닝브리프]2026.10.26—오늘꼭알아야할국내외경제뉴스",
+  "[시동건대기업]삼성·SK·LG내년전략키워드'AI성과·중국경쟁'....",
+  "[거버넌스워치]수산그룹사주가수산INT주식맏딸에게몰아준이유"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,29 @@
   [
    "2026-10-26T07:11:01.307671+09:00",
    "일본도 코스피는 그런데 독일 제쳤다 오를까 경상흑자"
+  ],
+  [
+   "2026-10-26T07:21:04.000252+09:00",
+   "규모 수도권 900억원 프로젝트리츠 출범 SK디앤디 서울 신한리츠운용"
+  ],
+  [
+   "2026-10-26T07:21:04.000252+09:00",
+   "법정에 건설사 대형 영업정지 묶이고 처분은"
+  ],
+  [
+   "2026-10-26T07:21:04.000252+09:00",
+   "경제뉴스 알아야 국내외"
+  ],
+  [
+   "2026-10-26T07:21:04.000252+09:00",
+   "키워드 성과 전략 삼성 AI 내년 LG 중국 경쟁"
+  ],
+  [
+   "2026-10-26T07:21:04.000252+09:00",
+   "사주가 수산그룹 수산INT 주식 몰아준 맏딸에게 이유"
   ]
  ],
- "last_run": "2026-10-26T07:11:50.699089+09:00",
+ "last_run": "2026-10-26T07:21:20.573030+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
