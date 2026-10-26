@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=882540",
-  "https://www.segye.com/newsView/20261023512434?OutUrl=naver",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226768",
   "https://www.hankyung.com/article/2026102317921",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693746",
@@ -2999,11 +2997,11 @@
   "https://www.koreajoongangdaily.com/business/job-at-samsung-not-enough-on-dating-app-data-shows/12939413",
   "https://www.gukjenews.com/news/articleView.html?idxno=3733315",
   "http://www.econonews.co.kr/news/articleView.html?idxno=446254",
-  "http://www.kwangju.co.kr/article.php?aid=1793016900804709006"
+  "http://www.kwangju.co.kr/article.php?aid=1793016900804709006",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260195&t=NN",
+  "https://www.mk.co.kr/article/12186320"
  ],
  "seen_titles": [
-  "LG유플러스해킹파문,고객피해보상과위약금면제여부는?",
-  "솔리다임IPO철회덕분?…코스피,급락딛고5500선상승마감",
   "'솔리다임'상장중단효과…삼전닉스반등·소부장낙폭축소",
   "환경규제강화한헝가리,韓中기업'비상'",
   "[경제한방]“AI기업호실적에도피로감”…실적과주가사이,삼전닉스...",
@@ -6001,7 +5999,9 @@
   "JobatSamsungnotenoughondatingapp,datashows",
   "인천시의회교육위강정선·정채훈,어린이도서500권기부",
   "코스피,1%대낙폭에5500선밑으로...현대차,KB금융등하락",
-  "가습기살균제참사15년진상규명못한채끝나나"
+  "가습기살균제참사15년진상규명못한채끝나나",
+  "고점대비'-58.1%'…\"그래도역시믿을건\"삼전닉스보따리풀릴까",
+  "“있는돈없는돈,이미다끌어넣었나”…코스피거래대금도하락세"
  ],
  "recent_sigs": [
   [
@@ -6803,9 +6803,17 @@
   [
    "2026-10-26T21:31:17.695654+09:00",
    "끝나나 참사 15년 가습기살균제 못한 진상규명"
+  ],
+  [
+   "2026-10-26T21:41:03.027822+09:00",
+   "풀릴까 믿을 대비 고점 삼전닉스 그래도 역시 보따리"
+  ],
+  [
+   "2026-10-26T21:41:03.027822+09:00",
+   "하락세 이미 없는 코스피 거래대금도 끌어넣었나 있는"
   ]
  ],
- "last_run": "2026-10-26T21:31:34.715733+09:00",
+ "last_run": "2026-10-26T21:41:11.846297+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
