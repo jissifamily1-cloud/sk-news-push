@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12173181",
-  "https://www.sedaily.com/article/20100213",
   "https://www.fnnews.com/news/202610111911585220",
   "https://www.dt.co.kr/article/12088412",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=279698",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20261026515328?OutUrl=naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20261027061301pEV",
   "https://www.investchosun.com/site/data/html_dir/2026/10/26/2026102680060.html",
-  "https://www.socialvalue.kr/news/view/1065596672320720"
+  "https://www.socialvalue.kr/news/view/1065596672320720",
+  "https://www.sedaily.com/article/20106171",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=241218"
  ],
  "seen_titles": [
-  "최태원“미국·중국반도체공장늘리는데…한국도서둘러야”",
-  "\"임원조기인사로관세·AI대응\"…SK10월,삼성·LG11월단행할듯",
   "2029년3분기첫‘메이드인USA’HBM4E가쏟아진다",
   "[기자수첩]민형배시장의'선택적소통'…시민알권리는어디에",
   "재계경영시계빨라진다…삼성·SK등조기인사",
@@ -6001,7 +5999,9 @@
   "리스크는덜고성장은더하고…AI산업‘CEO역할’화두",
   "중간선거D-7…민주당우세분위기속'샤이트럼프'변수",
   "[Invest]\"나스닥이름값못한다\"…솔리다임發SK하이닉스IR향한성토",
-  "[SV리포트]“착한일도숫자로증명한다”...SK사회적가치측정8년..."
+  "[SV리포트]“착한일도숫자로증명한다”...SK사회적가치측정8년...",
+  "“한미정보교류장애는신뢰위기…불협화음자초하는게문제”",
+  "\"중국서만들면원가얼마나줄까\"…SK인텔릭스나무엑스,수익성시험..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,17 @@
   [
    "2026-10-27T07:10:15.719765+09:00",
    "증명한다 사회적 착한 측정 일도 숫자로 8년 가치"
+  ],
+  [
+   "2026-10-27T07:40:14.350428+09:00",
+   "문제 한미 불협화음 자초하는 위기 신뢰 장애는 정보교류"
+  ],
+  [
+   "2026-10-27T07:40:14.350428+09:00",
+   "수익성 원가 시험 줄까 얼마나 만들면 SK인텔릭스 중국서 나무엑스"
   ]
  ],
- "last_run": "2026-10-27T07:30:33.945466+09:00",
+ "last_run": "2026-10-27T07:40:29.433606+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
