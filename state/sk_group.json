@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/finance/1282492.html",
-  "http://www.incheonin.com/news/articleView.html?idxno=121486",
-  "https://www.sedaily.com/article/20101893",
-  "https://www.jemin.com/news/articleView.html?idxno=844536",
   "https://www.g-enews.com/view.php?ud=20261015095106376fbbec65dfb_1",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495482",
   "https://www.hani.co.kr/arti/economy/finance/1282474.html",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20261026157600017?input=1195m",
   "https://www.yakup.com/news/index.html?cat=12&nid=334299",
   "https://www.smartbizn.com/news/articleView.html?idxno=157583",
-  "https://www.newspim.com/news/view/20261020000948"
+  "https://www.newspim.com/news/view/20261020000948",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283735",
+  "https://news.mtn.co.kr/article/2026102706202332600",
+  "https://www.mediapen.com/news/view/1132655",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48490"
  ],
  "seen_titles": [
-  "코스피·코스닥동반매도사이드카…미국인플레·AI수익우려로",
-  "손끝에서피어난따뜻한온기..도자기작품전시회'소온전'",
-  "오늘의메모[10월16일]",
-  "마이크론주가3.2%하락에도머스크는긍정평가…메모리가격전략에...",
   "2조달러잭팟노리는앤스로픽,700조인프라빚안고나스닥시험대오...",
   "스팩주줄줄이하락…메리츠제1호·미래에셋비전스팩은상승랠리",
   "코스피5%급락출발…이틀만에매도사이드카발동",
@@ -6001,7 +5997,11 @@
   "[보안비상]②AI가해킹속도높였다…한국의방패는준비됐나",
   "SK바이오팜신해인부사장“AI공동개발로다음글로벌신약만든다”",
   "\"5000만원이1350만원으로\"개미들,반도체ETF손실에도3154억추가매...",
-  "[아!코스피]⑧외국인이결정한코스피하락세…개인·기관매수도못..."
+  "[아!코스피]⑧외국인이결정한코스피하락세…개인·기관매수도못...",
+  "뉴욕증시,앤트로픽기업공개기대감에상승...나스닥0.8%↑",
+  "앤트로픽IPO기대감에뉴욕3대지수일제히상승[뉴욕마감]",
+  "[美증시]앤트로픽상장기대감에3대지수동반상승…반도체주도,테...",
+  "[데스크칼럼]기준은없고눈치만남았다"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,17 @@
   [
    "2026-10-27T06:21:08.868741+09:00",
    "개인 코스피 결정한 외국인이 기관 하락세 매수도"
+  ],
+  [
+   "2026-10-27T06:31:10.278380+09:00",
+   "동반상승 기대감에 3대 앤트로픽 반도체 지수 상장 주도"
+  ],
+  [
+   "2026-10-27T06:31:10.278380+09:00",
+   "눈치만 기준은 없고 남았다"
   ]
  ],
- "last_run": "2026-10-27T06:21:32.441891+09:00",
+ "last_run": "2026-10-27T06:31:19.702842+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
