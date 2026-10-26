@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202610200144",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496780",
-  "https://www.hani.co.kr/arti/economy/it/1283118.html",
-  "https://www.hani.co.kr/arti/opinion/column/1283117.html",
-  "https://www.hani.co.kr/arti/economy/finance/1283115.html",
-  "https://www.hani.co.kr/arti/economy/marketing/1282946.html",
-  "https://www.hani.co.kr/arti/sports/soccer/1282930.html",
-  "https://www.hani.co.kr/arti/sports/basketball/1282915.html",
-  "https://www.g-enews.com/view.php?ud=202610171536146992fbbec65dfb_1",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16247898",
-  "https://www.hani.co.kr/arti/economy/finance/1282508.html",
   "https://www.hani.co.kr/arti/economy/finance/1282492.html",
   "http://www.incheonin.com/news/articleView.html?idxno=121486",
   "https://www.sedaily.com/article/20101893",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20261026_0003841799",
   "https://www.newspim.com/news/view/20261026000764",
   "https://www.newspim.com/news/view/20261021001169",
-  "https://www.news1.kr/economy/trend/6331313"
+  "https://www.news1.kr/economy/trend/6331313",
+  "https://www.yna.co.kr/view/AKR20261024010053007?input=1195m",
+  "https://www.viva100.com/article/20261026500766",
+  "https://www.sedaily.com/article/20106384",
+  "https://www.yna.co.kr/view/AKR20261027006651072?input=1195m",
+  "https://www.seoul.co.kr/news/economy/2026/10/27/20261027500005?wlog_tag3=naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610270006&t=NN",
+  "https://www.yna.co.kr/view/AKR20261026158200017?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261026157600017?input=1195m",
+  "https://www.yakup.com/news/index.html?cat=12&nid=334299",
+  "https://www.smartbizn.com/news/articleView.html?idxno=157583",
+  "https://www.newspim.com/news/view/20261020000948"
  ],
  "seen_titles": [
-  "‘제41회골든디스크어워즈’성시경X문가영,3년연속MC발탁",
-  "공모주대안으로떠오른스팩…합병기대만믿어도될까",
-  "스펙떼고연‘SK하이닉스AI해커톤’…참가자불만속출왜?[테크자...",
-  "이대통령이SNS보다먼저챙길것[뉴스룸에서]",
-  "또외국인양털깎기당했나…코스피만출렁인까닭[박상현의경제수다...",
-  "‘중복상장’셈법복잡한솔리다임…미·중갈등에하이닉스주주가치...",
-  "K리그‘우중난타전’…대전·전북웃었다",
-  "뒤늦게시작된프로농구SK의새시즌…첫경기서웃지못했다",
-  "컴퓨터물가뛰자빅테크빚부담눈덩이…AI질주앞에채권시장장벽...",
-  "[뮤지션100주간]창모932.9점급상승,정규3집'MONOLITH'재조명…성시...",
-  "코스피8%넘게떨어져서킷브레이커…‘7월폭락장’이후처음",
   "코스피·코스닥동반매도사이드카…미국인플레·AI수익우려로",
   "손끝에서피어난따뜻한온기..도자기작품전시회'소온전'",
   "오늘의메모[10월16일]",
@@ -6001,7 +5990,18 @@
   "'매도클라이맥스'왔나…수급공백속코스피바닥론솔솔",
   "주택·토목넘어SMR·콘텐츠로…건설업계′탈건설′가속",
   "[아!코스피]⑦금리·전쟁·환율충격같은데…한국증시,왜더흔들...",
-  "원전멈추고폐연료쌓이고…구름낀한빛원전두가지고민[르포]"
+  "원전멈추고폐연료쌓이고…구름낀한빛원전두가지고민[르포]",
+  "◇오늘의경기(27일)",
+  "“투자만큼벌고있나”⋯AI수익성시험대오른‘반도체·빅테크’...",
+  "앤트로픽IPO기대에나스닥0.8%↑...사우디·이란회동에유가도하락...",
+  "앤트로픽IPO공식화에뉴욕증시들썩…나스닥0.8%↑(종합)",
+  "[서울데이터랩]미국증시,기술주·반도체강세에일제히상승마감",
+  "앤트로픽,상장서류서'AI발재앙'경고...\"인류에위협될수도\"",
+  "[보안비상]①금융권부터공공기관까지줄줄이뚫렸다…왜못막나",
+  "[보안비상]②AI가해킹속도높였다…한국의방패는준비됐나",
+  "SK바이오팜신해인부사장“AI공동개발로다음글로벌신약만든다”",
+  "\"5000만원이1350만원으로\"개미들,반도체ETF손실에도3154억추가매...",
+  "[아!코스피]⑧외국인이결정한코스피하락세…개인·기관매수도못..."
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,37 @@
   [
    "2026-10-27T06:11:04.769115+09:00",
    "구름 가지 고민 멈추고 한빛원전 쌓이고 폐연료 원전"
+  ],
+  [
+   "2026-10-27T06:21:08.868741+09:00",
+   "기술주 상승 마감 증시 일제히 반도체 강세에 미국"
+  ],
+  [
+   "2026-10-27T06:21:08.868741+09:00",
+   "AI발 재앙 인류에 상장서류서 수도 앤트로픽 위협 경고"
+  ],
+  [
+   "2026-10-27T06:21:08.868741+09:00",
+   "금융권부터 뚫렸다 공공기관까지 막나 줄줄이"
+  ],
+  [
+   "2026-10-27T06:21:08.868741+09:00",
+   "한국의 준비됐나 해킹 속도 높였다 방패는 AI가"
+  ],
+  [
+   "2026-10-27T06:21:08.868741+09:00",
+   "부사장 신약 공동개발로 만든다 AI 글로벌 신해인 다음 SK바이오팜"
+  ],
+  [
+   "2026-10-27T06:21:08.868741+09:00",
+   "손실에도 ETF 개미들 추가 3154억 반도체 1350만원으로 5000만원이"
+  ],
+  [
+   "2026-10-27T06:21:08.868741+09:00",
+   "개인 코스피 결정한 외국인이 기관 하락세 매수도"
   ]
  ],
- "last_run": "2026-10-27T06:12:01.667701+09:00",
+ "last_run": "2026-10-27T06:21:32.441891+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
