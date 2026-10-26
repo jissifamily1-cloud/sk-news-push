@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH202610181338230GR",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=87733",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856674",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/16/2026101600149.html",
-  "https://www.busan.com/view/busan/view.php?code=2026101814105884784",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915270",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=35147",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=35148",
   "https://www.dkilbo.com/news/articleView.html?idxno=557437",
@@ -2999,15 +2993,15 @@
   "http://www.jejunews.com/news/articleView.html?idxno=2228477",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695301",
   "https://www.hemophilia.co.kr/news/articleView.html?idxno=45282",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695245"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695245",
+  "http://www.breaknews.com/1245840",
+  "https://www.joongang.co.kr/article/25472928",
+  "http://www.netongs.com/news/articleView.html?idxno=336069",
+  "http://www.inews24.com/view/2019112",
+  "https://www.seoul.co.kr/news/society/law/2026/10/26/20261026500300?wlog_tag3=naver",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278898&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "[뉴스초점]'흉기난동'최충락수사속도…범행동기는?",
-  "LG전자,거실맞춤형가습·공청기'하이드로타워맥스'출시…\"사계절...",
-  "'한화인수'반대목소리높인KAI노조…구호에서절차검증으로'전환...",
-  "'檢보완수사'없었다면무죄였던포항성폭행사건…공소청,오판바...",
-  "AI가가습량조절…LG,'퓨리케어하이드로타워맥스'출시",
-  "[충남시론]두수사청의새출범에기대를건다",
   "[2026국감]기름값담합윗선규명요구…정유사대표들경영진인지즉...",
   "[2026국감]온라인가품적발돼도통지·환불제각각…공정위,공통기준...",
   "예천군청압수수색에안병윤군수해명\"선거개입과무관하며피의자도...",
@@ -6001,7 +5995,13 @@
   "\"제주관광·체류인구반영해경찰력배치해야\"",
   "경찰청장대행“관계성범죄보호조치,경찰이직접신청필요”",
   "법률사무소여울,아청법위반사건'혐의없음'불기소처분도출",
-  "[사사건건]법무장관후보거론자또논란…여야입장은?"
+  "[사사건건]법무장관후보거론자또논란…여야입장은?",
+  "공정위,부당광고4개시행사제재..드림하우징대표검찰고발",
+  "[현장에서]주병기공정위의칼,경쟁살리나기업만겨누나",
+  "조계원의원,\"트립닷컴불공정영업지적...소비자기만행위없어야\"",
+  "[2026국감]與野,중수청장국무회의배석'공방'…\"중립성훼손\"vs\"위...",
+  "김지용중수청장“한동훈딸사건수사,일부암장처럼보여…진상규명...",
+  "국수본부장\"한동훈자녀노트북50대기증,상식적이지않아\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "여론조작 전북 대포폰 직접 국수본 수사해야 의혹 일파만파"
   ]
  ],
- "last_run": "2026-10-26T17:41:00.697115+09:00",
+ "last_run": "2026-10-26T17:50:56.340073+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
