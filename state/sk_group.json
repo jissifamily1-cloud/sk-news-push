@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/economy_general/1282368.html",
-  "https://www.catchnews.kr/news/articleView.html?idxno=129248",
-  "https://www.g-enews.com/view.php?ud=202610140738037704fbbec65dfb_1",
-  "https://realty.chosun.com/site/data/html_dir/2026/10/13/2026101302308.html",
-  "https://www.hani.co.kr/arti/economy/economy_general/1282261.html",
-  "https://www.mk.co.kr/article/12178766",
-  "https://www.yna.co.kr/view/PYH20261018020000013?input=1196m",
-  "https://www.news1.kr/photos/8164698",
   "https://www.seoulfn.com/news/articleView.html?idxno=640254",
   "https://www.ajunews.com/view/20261016211150796",
   "https://www.bloter.net/news/articleView.html?idxno=675567",
@@ -2999,17 +2991,17 @@
   "https://www.etoday.co.kr/news/view/2640287",
   "https://www.hankyung.com/article/2026102651626",
   "https://www.sisain.co.kr/news/articleView.html?idxno=58662",
-  "https://www.geconomy.co.kr/news/article.html?no=324878"
+  "https://www.geconomy.co.kr/news/article.html?no=324878",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=884899",
+  "http://www.inews24.com/view/2019191",
+  "https://www.slist.kr/news/articleView.html?idxno=776550",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700003.html",
+  "https://news.bizwatch.co.kr/article/industry/2026/10/26/0039",
+  "https://www.news2day.co.kr/article/20261026500235",
+  "https://www.sedaily.com/article/20106385",
+  "https://news.bizwatch.co.kr/article/real_estate/2026/10/21/0032"
  ],
  "seen_titles": [
-  "반등실패한코스피6천선턱걸이…“매수세실종”",
-  "10월13일주식시장주요공시",
-  "줄서는반도체거인들…어플라이드가실리콘밸리에6조원대요새를...",
-  "서울중곡동1층상가1.27억부터…서울상가추천경매",
-  "지역균형발전,‘삼전닉스’만믿으면실패한다",
-  "[단독]최창원,내년에도SK수펙스이끈다…최태원신임재확인",
-  "청년들대상으로강연하는최태원SK그룹회장",
-  "최태원회장,청년들과미래·성장해법나눠",
   "[재계인사②]'예고편'공개한SK,반도체·AI중심재편···글로벌밀...",
   "[아주경제오늘의뉴스종합]李대통령\"소방관·군장병희생에천금...",
   "연말인사셈법분주한4대그룹…관전포인트는",
@@ -6001,7 +5993,15 @@
   "뉴욕증시,앤스로픽IPO신청에상승⋯나스닥0.8%↑[상보]",
   "\"삼전닉스다음은누구?\"…내년시총3위놓고4파전벌어지나[분석+]",
   "“산업은행오면뭐가달라지나?”전재수부산시장의답변",
-  "순천이제안한생태보전국제협력첫발…해외6개지방정부동참"
+  "순천이제안한생태보전국제협력첫발…해외6개지방정부동참",
+  "뉴욕증시,앤트로픽IPO공식화에'화색만연'…나스닥0.8%↑",
+  "앤트로픽상장기대에뉴욕증시상승⋯나스닥0.83%↑",
+  "뉴욕증시,앤트로픽IPO공식화에들썩…나스닥0.8%↑",
+  "앤트로픽,상장서류4분의1이AI위험경고…\"인류에재앙초래할수...",
+  "환율보너스줄자…전자·이차전지'한숨'굴뚝업계'숨통'",
+  "우리금융,비은행실적주춤…은행순익비중다시90%대",
+  "김성환“AIDC수요생각보다적어…한전채한도축소어려워”[Pick코노...",
+  "'AI서버아파트'데이터센터,건설새먹거리로떴다"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,25 @@
   [
    "2026-10-27T06:41:07.241790+09:00",
    "순천이 지방정부 제안한 해외 동참 첫발 6개 생태보전 국제협력"
+  ],
+  [
+   "2026-10-27T06:51:57.294653+09:00",
+   "환율 숨통 보너스 전자 굴뚝업계 이차전지 줄자 한숨"
+  ],
+  [
+   "2026-10-27T06:51:57.294653+09:00",
+   "우리금융 주춤 비은행 순익 은행 실적 비중 다시"
+  ],
+  [
+   "2026-10-27T06:51:57.294653+09:00",
+   "김성환 수요 한도 생각보다 Pick코노 어려워 적어 AIDC 한전채 축소"
+  ],
+  [
+   "2026-10-27T06:51:57.294653+09:00",
+   "AI 아파트 떴다 데이터센터 서버 먹거리로 건설"
   ]
  ],
- "last_run": "2026-10-27T06:41:21.551000+09:00",
+ "last_run": "2026-10-27T06:52:11.261640+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
