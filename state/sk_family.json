@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202610101815005051",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/10/2026101090093.html",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=278543",
   "https://www.ekn.kr/web/view.php?key=20261010022534361",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000072215",
@@ -2999,11 +2997,11 @@
   "https://economychosun.com/site/data/html_dir/2026/10/17/2026101700001.html",
   "https://economist.co.kr/article/view/ecn202610190051",
   "https://www.rapportian.com/news/articleView.html?idxno=241569",
-  "https://magazine.hankyung.com/business/article/202610203873b"
+  "https://magazine.hankyung.com/business/article/202610203873b",
+  "https://www.handmk.com/news/articleView.html?idxno=44431",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53947"
  ],
  "seen_titles": [
-  "[창립43주년]SK하이닉스,나스닥입성에최대실적까지",
-  "떠돌이개구출작전…'세상에서가장외로운집'",
   "박민교,괴산추석장사씨름대회서통산10번째한라장사등극",
   "'한화1차지명출신사령탑'유소년야구정상등극,대전서구연맹회장...",
   "광주반도체팹은속도전…SK'동부권100조투자'는어디로갔나",
@@ -6001,7 +5999,9 @@
   "[재계이슈]한화창립74주년,재계5위에도‘위기의식’강조|김승...",
   "AI거품이라는데…SK하이닉스가54조쏟아붓는이유",
   "[시민건강논평]의료·환경등총망라'초광역특구법',지방은무얼할...",
-  "회사에남지않아도좋다…세계적학자로커라[기업이키운과학자들-..."
+  "회사에남지않아도좋다…세계적학자로커라[기업이키운과학자들-...",
+  "[현장출동]'섬유에서석유까지'수원선경산업관에서만나는SK의70년",
+  "쉼없이달려온구광모회장의8년...LG를미래기업으로"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,17 @@
   [
    "2026-10-26T08:20:13.503002+09:00",
    "좋다 남지 키운 않아도 과학자들 회사에 학자로 세계적 커라 기업이"
+  ],
+  [
+   "2026-10-26T09:30:24.054535+09:00",
+   "LG를 8년 구광모 기업으로 없이 달려온 회장의 미래"
+  ],
+  [
+   "2026-10-26T09:30:24.054535+09:00",
+   "만나는 섬유에서 70년 SK의 석유까지 수원선경산업관에서"
   ]
  ],
- "last_run": "2026-10-26T09:20:26.275355+09:00",
+ "last_run": "2026-10-26T09:30:38.282334+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
