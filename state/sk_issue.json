@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2377576.htm",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261018.99099004981",
-  "https://www.mt.co.kr/thebio/2026/10/18/2026101810254714918",
   "https://www.imaeil.com/page/view/2026101816233471941",
   "https://www.sedaily.com/article/20102936",
   "https://www.sedaily.com/article/20102931",
@@ -2999,12 +2996,12 @@
   "https://www.kmib.co.kr/article/20261026502022",
   "https://www.sisaweek.com/news/articleView.html?idxno=238608",
   "https://www.hidomin.com/news/articleView.html?idxno=726569",
-  "https://www.dailian.co.kr/news/view/1706362/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1706362/?sc=Naver",
+  "https://www.namdonews.com/news/articleView.html?idxno=927325",
+  "https://www.pressian.com/pages/articles/2026102617370886639",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11770"
  ],
  "seen_titles": [
-  "선관위특검,입찰비리업체탈세정황포착…세무조사요청",
-  "선관위특검“입찰비리의혹업체,탈세정황도포착”…세무조사요청",
-  "\"소아응급현장떠나겠다\"전문의줄줄이퇴사…압수수색파장현실로",
   "선관위입찰비리수사,탈세의혹까지번졌다",
   "밥솥넘어냉장고·뷰티기기…가전중소기업‘틈새공략’",
   "선관위입찰비리업체서탈세정황…특검,국세청에세무조사요청",
@@ -6001,7 +5998,10 @@
   "진입장벽낮아진해킹…IT비전공자도AI로90여곳뚫었다",
   "\"이사할때사고싶은가전은?\"…마사지체어24.7%'1위'",
   "명분만쫓는'그린워싱'을멈춰야한다",
-  "[2026국감]'국무회의참석'중수청장,과거'한동훈딸의혹'수사에..."
+  "[2026국감]'국무회의참석'중수청장,과거'한동훈딸의혹'수사에...",
+  "가습기살균제참사15년…\"피해자찾고배상기한없애야\"",
+  "중수청장국무회의배석논란에…윤호중\"받아쓰기안하면될것아니...",
+  "김지용중수청장\"한동훈딸수사일부암장의심…진상규명필요\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "여론조작 전북 대포폰 직접 국수본 수사해야 의혹 일파만파"
   ]
  ],
- "last_run": "2026-10-26T19:10:53.263567+09:00",
+ "last_run": "2026-10-26T19:20:54.938610+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
