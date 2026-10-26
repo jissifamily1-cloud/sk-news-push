@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=215719",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215728",
-  "https://www.mk.co.kr/article/12184382",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278034&CMPT_CD=P0010",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424551",
-  "https://www.thebigdata.co.kr/view.php?ud=202610231712213050a47484cf8_23",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81654",
   "https://www.gokorea.kr/news/articleView.html?idxno=882558",
   "https://www.huffingtonpost.kr/article/261500",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=396121",
@@ -2999,16 +2992,16 @@
   "https://www.dynews.co.kr/news/articleView.html?idxno=871129",
   "http://www.kjdaily.com/article.php?aid=1793015291690402276",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498633",
-  "https://www.sedaily.com/article/20106360"
+  "https://www.sedaily.com/article/20106360",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279697",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815718&plink=ORI&cooper=NAVER",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261026210233AU9",
+  "https://www.edaily.co.kr/News/Read?newsId=05116806645616856&mediaCodeNo=257",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=876139",
+  "http://www.cctimes.kr/news/articleView.html?idxno=933929",
+  "https://www.mk.co.kr/article/12184241"
  ],
  "seen_titles": [
-  "방미통위,SKB법인분할심사착수…IHQ과징금3,000만원부과",
-  "[2026국감]침해사고에도이용자보호'매우우수'…LG유플홍보논란",
-  "서인영,혼전계약서꼭써야한다?“안쓴것땅치고후회”(유행꼰...",
-  "\"쉬었음청년아니다\"...간병떠안은20대의절규",
-  "강남권인데도6차례유찰···방배7구역재건축,공사비인상에건설사...",
-  "통신망투자줄이고AI로눈돌린이통3사...R&D감소는과제",
-  "[국감]홍범식LG유플러스대표,'해킹은폐·조사방해의혹'질타에…\"합...",
   "기술주급락의충격파,나스닥2.6%하락...메타의AI투자향방은?",
   "미국AI투자늘어나는데삼성전자·SK하이닉스주가급락하는이유:빅...",
   "\"장중-4%급락딛고반격\"…코스피,극적상승전환하며5,550선안착",
@@ -6001,7 +5994,14 @@
   "코스피5400대로'와르르'…7개월만최저치",
   "SK하이닉스·삼성전자거래대금5조8천억원대…상위50종목절반넘어",
   "삼전·하이닉스,영업익180조넘보는데시총675조증발...실적발표가...",
-  "“결국이렇게되네”SK하이닉스ETF‘퇴장’…美증시서3개월만에..."
+  "“결국이렇게되네”SK하이닉스ETF‘퇴장’…美증시서3개월만에...",
+  "SamsungCommandsPremiumPricesforHBM",
+  "\"삼전닉스만큼달라\"마이크론도성과급갈등",
+  "국제유가·실적경계감에코스피,5,500선하회",
+  "강성지지층만바라보는여야...민생보다‘조회수’에목맸다",
+  "센코,58억원산단관제수주…유엔이와컨소시엄수행",
+  "\"따뜻한공동체만드는원동력되길\"",
+  "얼라인타깃된SK…지배구조개편압박커지나[재계톡톡]"
  ],
  "recent_sigs": [
   [
@@ -6879,9 +6879,37 @@
   [
    "2026-10-26T21:01:21.275505+09:00",
    "퇴장 되네 ETF 3개월 증시서 SK하이닉스 만에 이렇게 결국"
+  ],
+  [
+   "2026-10-26T21:11:05.891160+09:00",
+   "Samsung Commands HBM Prices for Premium"
+  ],
+  [
+   "2026-10-26T21:11:05.891160+09:00",
+   "마이크론도 달라 갈등 성과급 삼전닉스만큼"
+  ],
+  [
+   "2026-10-26T21:11:05.891160+09:00",
+   "코스피 500선 하회 실적 경계감에 국제유가"
+  ],
+  [
+   "2026-10-26T21:11:05.891160+09:00",
+   "목맸다 바라보는 여야 강성 지지층만 조회수 민생보다"
+  ],
+  [
+   "2026-10-26T21:11:05.891160+09:00",
+   "유엔이와 수행 수주 센코 산단관제 58억원 컨소시엄"
+  ],
+  [
+   "2026-10-26T21:11:05.891160+09:00",
+   "원동력 만드는 공동체 되길 따뜻한"
+  ],
+  [
+   "2026-10-26T21:11:05.891160+09:00",
+   "압박 타깃 커지나 얼라인 개편 지배구조"
   ]
  ],
- "last_run": "2026-10-26T21:01:29.944068+09:00",
+ "last_run": "2026-10-26T21:11:27.410808+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
