@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=676599",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483934",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=45786",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=513295",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7189247",
-  "https://www.hankyung.com/article/202610231435g",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601446",
-  "http://www.beyondpost.co.kr/view.php?ud=2026102317141990194c878f8fa1_30",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=323464",
   "https://www.lawissue.co.kr/view.php?ud=2026102317233871069817d053b9_12",
   "https://www.slist.kr/news/articleView.html?idxno=775921",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/News/Read?newsId=05011846645616856&mediaCodeNo=257",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=876192",
   "https://www.newstnt.com/news/articleView.html?idxno=725032",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695558"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695558",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376881",
+  "https://www.news1.kr/sports/baseball/6332526",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=648257",
+  "https://biz.heraldcorp.com/article/10915230",
+  "https://www.sentv.co.kr/article/view/sentv202610260097",
+  "https://www.newstnt.com/news/articleView.html?idxno=725036",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279696",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107462"
  ],
  "seen_titles": [
-  "삼성화재,사이버리스크대응에\"민관협력필수\"…현실과제는산적",
-  "29CM는멀어지고퀸잇은바짝···W컨셉의'딜레마'",
-  "[신제품오늘리뷰]삼립·아워홈·웅진식품·SKT·소니코리아",
-  "만년꼴찌의선두질주…서울삼성‘김상식농구’의이유있는돌풍",
-  "POSTECH,글로컬대학성과공유회개최…AI강연·전시부스18곳운영",
-  "아이폰듀오,갤Z폴드8과비교해보니…해외매체들'혹평'",
-  "삼전닉스이어마이크론도이익연동성과급도입⋯메모리3사'보상경쟁...",
-  "용인시,처인백암초에AI스마트횡단보도조성…어린이통학안전강화",
   "인천시,송도바이오클러스터'AI신약개발글로벌허브'로육성",
   "김도현호(號)SK디앤디,실권주일반공모배제한240%증자…소액주주...",
   "LGU+홍범식,해킹은폐의혹에\"사법판단책임다하겠다\"",
@@ -6001,25 +5993,17 @@
   "[미리보는이데일리신문]日도못좁힌월급격차,임금체계부터바꿔야",
   "엔라이튼,기후에너지환경부장관표창수상",
   "[공시]10월27일,코스피상장사45개종목자사주매수신청",
-  "[네트워크현장]‘생태를경제발전동력으로’…순천국제포럼열려"
+  "[네트워크현장]‘생태를경제발전동력으로’…순천국제포럼열려",
+  "'호투이어가던'KIA선발네일,헤드샷퇴장…PO1차전후반부최대변...",
+  "에이스맞대결,5회도못채웠다…페덱난조·네일헤드샷퇴장(종합)[P...",
+  "SiC반도체결함판별국제기준오류,전기연구원이규명",
+  "‘결국믿을건삼전닉스뿐’코스피도내계좌도이번주‘주주환원’...",
+  "안성시,용인반도체산단환경부담에재협상요구",
+  "[공시]에이전트AI'투자경고',OCI·뉴로핏'공매도금지'등...31건",
+  "U.S.ETFOperatorTradrtoLiquidateSKhynixLeveragedETFs",
+  "[기자의눈]삼성SDI의전고체도전이반가운까닭"
  ],
  "recent_sigs": [
-  [
-   "2026-10-26T14:50:59.628685+09:00",
-   "커피 도서 매거진 출시 즐기는 영화 독서 9900원 LG유플러스"
-  ],
-  [
-   "2026-10-26T14:50:59.628685+09:00",
-   "자회사 SK텔레콤 재배치 제한적 이동은 1명꼴 10명 직원"
-  ],
-  [
-   "2026-10-26T14:50:59.628685+09:00",
-   "시장 성과 AI가 확인해야 키우는 양산 시스템반도체 자율주행"
-  ],
-  [
-   "2026-10-26T14:50:59.628685+09:00",
-   "신도시 하이닉스 용인반도체클러스터 직주근접 반도체 라온프라이빗"
-  ],
   [
    "2026-10-26T15:01:18.094741+09:00",
    "have suggests Samsung in analysis hynix revenue may HBM overtaken"
@@ -6919,9 +6903,25 @@
   [
    "2026-10-26T20:41:03.526362+09:00",
    "순천국제포럼 생태를 발전 열려 동력으로 경제"
+  ],
+  [
+   "2026-10-26T20:51:02.841181+09:00",
+   "환경 반도체산단 안성시 용인 재협상 부담에 요구"
+  ],
+  [
+   "2026-10-26T20:51:02.841181+09:00",
+   "공매도 뉴로핏 투자경고 31건 에이전트AI OCI 금지"
+  ],
+  [
+   "2026-10-26T20:51:02.841181+09:00",
+   "hynix Operator Liquidate ETF Leveraged ETFs Tradr to"
+  ],
+  [
+   "2026-10-26T20:51:02.841181+09:00",
+   "도전이 삼성SDI의 까닭 반가운 전고체"
   ]
  ],
- "last_run": "2026-10-26T20:41:17.272819+09:00",
+ "last_run": "2026-10-26T20:51:16.889630+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
