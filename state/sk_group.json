@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11626233",
-  "https://biz.sbs.co.kr/article_hub/20000342079?division=NAVER",
-  "https://zdnet.co.kr/view/?no=20261026114538",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=138108",
-  "https://www.dailian.co.kr/news/view/1706081/?sc=Naver",
-  "https://www.vegannews.co.kr/news/article.html?no=397164",
-  "https://www.mk.co.kr/article/12185604",
-  "https://dealsite.co.kr/articles/171308",
-  "https://www.vegannews.co.kr/news/article.html?no=397167",
   "https://www.m-economynews.com/news/article.html?no=72109",
   "https://www.newsis.com/view/NISX20261026_0003840773",
   "https://www.businesspost.co.kr/BP?command=article_view&num=450269",
@@ -2999,18 +2990,18 @@
   "http://www.economytalk.kr/news/articleView.html?idxno=424912",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499052",
   "https://cc.newdaily.co.kr/site/data/html/2026/10/27/2026102700398.html",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800027.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800027.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697170",
+  "https://www.newsway.co.kr/news/view?ud=2026102807275305230",
+  "https://www.etoday.co.kr/news/view/2640838",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000077270",
+  "https://www.etoday.co.kr/news/view/2640834",
+  "https://www.newsis.com/view/NISX20261028_0003843810",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280018&t=NN",
+  "https://www.newsis.com/view/NISX20261028_0003843819",
+  "https://www.etoday.co.kr/news/view/2640840"
  ],
  "seen_titles": [
-  "[속보]SK하이닉스,차익16조원‘특별배당’추진설에“확정된것없...",
-  "롯데쿠폰발행사'기프티엘',해킹으로고객개인정보유출",
-  "AI주권경쟁에높아진규제장벽...SKT,국제공동검증강조",
-  "SK텔레콤,AI에이전트보안·개인정보보호강화…국제표준인증확대",
-  "통신3사연말인사키워드는안정·AI…LGU+수사변수",
-  "SK디앤디,신주상장앞두고장중13%대급락",
-  "코스닥38%폭락했는데…“바닥찍었다”는증권사,왜?",
-  "AI에밀린車메모리...더해지는원가압박",
-  "SK스퀘어,장중0.9%하락한76만8000원",
   "박해철의원“중대재해작업중지대부분‘부분중지’...대기업해제...",
   "삼성이재용회장,내일취임4주년…위기딛고반도체재도약·미래사...",
   "\"메모리반도체장기계약도불황막기역부족\",삼성전자와SK하이닉스...",
@@ -6001,7 +5992,16 @@
   "SKT,'스스로일하는AI'누가책임질까…첫거버넌스리포트",
   "기업경기전망98.6,두달째기준선아래…코스피부담커지나",
   "청주대풀스택반도체인재양성한다",
-  "'챔피언'KCC의추락"
+  "'챔피언'KCC의추락",
+  "블룸버그“솔리다임,미국에60조원낸드공장추진”",
+  "앤트로픽훈풍에뉴욕증시이틀째상승···나스닥1.18%↑",
+  "“SK하이닉스자회사솔리다임,美에60조원낸드공장추진”",
+  "앤트로픽상장기대에뉴욕증시이틀째상승…나스닥1.18%급등",
+  "뉴욕증시,AI반도체랠리에상승마감⋯나스닥1.2%↑[종합]",
+  "[오늘의증시]코스피,美반도체주훈풍에상승출발전망…SK하이닉스...",
+  "기술주투심변곡점...실적앞둔SK하이닉스,ADR은일단올랐다[마켓무...",
+  "KB證\"삼성전자,AI수익화확산과초장기계약까지…재평가기대\"",
+  "[오늘의IR]유한양행ㆍSKCㆍHLB파나진등"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,17 @@
   [
    "2026-10-28T07:41:03.198649+09:00",
    "챔피언 추락 KCC의"
+  ],
+  [
+   "2026-10-28T07:51:02.935677+09:00",
+   "KB 기대 AI 확산과 삼성전자 수익화 재평가 초장기 계약까지"
+  ],
+  [
+   "2026-10-28T07:51:02.935677+09:00",
+   "SKC 유한양행 HLB파나진"
   ]
  ],
- "last_run": "2026-10-28T07:41:19.135234+09:00",
+ "last_run": "2026-10-28T07:51:11.358169+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
