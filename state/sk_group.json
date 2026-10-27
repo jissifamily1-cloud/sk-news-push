@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02604326645616856&mediaCodeNo=257",
-  "https://www.livebiz.today/news/articleView.html?idxno=205914",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=123831",
-  "https://www.globalepic.co.kr/view.php?ud=2026102610503110387cc35ccc5c_29",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=620841",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=365165",
-  "https://www.fntimes.com/html/view.php?ud=202610261041155652a735e27af_18",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498414",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16258069",
-  "https://www.fnnews.com/news/202610260956212609",
   "https://www.ekn.kr/web/view.php?key=20261026021121082",
   "https://www.topstarnews.net/news/articleView.html?idxno=16258066",
   "https://www.econovill.com/news/articleView.html?idxno=754794",
@@ -2999,19 +2989,19 @@
   "https://www.fnnews.com/news/202610271605312097",
   "https://biz.chosun.com/it-science/ict/2026/10/28/RAQIMW4X5NHZHJ52DV33NKKR7U/",
   "https://biz.chosun.com/science-chosun/bio/2026/10/28/WP57YTCUIRED7NMBC42RVEV4PE/",
-  "https://www.mt.co.kr/stock/2026/10/28/2026102713240712398"
+  "https://www.mt.co.kr/stock/2026/10/28/2026102713240712398",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172918",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11777",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817980&plink=ORI&cooper=NAVER",
+  "https://www.yna.co.kr/view/AKR20261027133100017?input=1195m",
+  "https://www.the-today.com/news/articleView.html?idxno=92519",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172656",
+  "https://www.newspim.com/news/view/20261027001110",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80280",
+  "https://www.seoul.co.kr/news/economy/securities/2026/10/28/20261028500008?wlog_tag3=naver",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766835"
  ],
  "seen_titles": [
-  "‘모두의AI’이름국민이짓는다…대상상금200만원",
-  "솔루스첨단소재,SK넥실리스와특허소송'장군멍군'...美서패배후유럽...",
-  "SKT,스스로일하는AI어떻게관리하나…거버넌스리포트발간",
-  "메리츠증권,'대화형AI'주식매매출시…\"주문부터자동매매까지\"",
-  "솔루스첨단소재,SK넥실리스와유럽특허전서승소",
-  "반도체투심가를'실적슈퍼위크'삼전닉스추가주주환원책기대감",
-  "반도체투톱,실적잔치앞두고주주환원고심…주가반전카드될까",
-  "클라우드전환빨라지는데관련주는희비…실적이변수",
-  "[여론조사]김건희석방시조희대탄핵,찬반팽팽…50.5%·46.0%(여론조...",
-  "\"삼성전자다녀도퇴짜맞는다\"...소개팅앱서인기7배갈린뜻밖의이...",
   "트럼프힘빠지면코스피는웃을까…美중간선거이후증시셈법",
   "[여론조사]김건희추가구속영장발부63.6%찬성…27일심문(여론조사...",
   "韓·日경제계'새로운60년'공동개척선언…LNG비상물량교환·수소...",
@@ -6001,7 +5991,17 @@
   "엔스로픽IPO에등장한K반도체…\"보장할수없다\"는이유",
   "119명인줄알았는데2210명정보유출…금융권해킹,피해규모작아...",
   "“환율10%내리면600억손해”…희비엇갈리는K제약·바이오",
-  "보증금빼서주식에...6억→13억,'파이어'한40대투자비결"
+  "보증금빼서주식에...6억→13억,'파이어'한40대투자비결",
+  "앤트로픽훈풍에나스닥상승…필라델피아반도체3.6%상승",
+  "[오늘의경제뉴스]삼전·닉스역대급실적에도주가부진…반등열쇠는...",
+  "하이닉스,오늘3분기실적·주주환원발표",
+  "유럽AI전문가\"한국,선도AI추격보단접근권확보에투자해야\"",
+  "[핫이슈]WP\"한반도충돌땐5300조원증발\"…美싱크탱크'AI메모리급...",
+  "앤트로픽'훈풍'지속...미국증시,반도체주·AI인프라주'껑충'",
+  "[앤스로픽,상장]SKT,지분가치4.5조~6조...\"지분매도없다.협력목적...",
+  "뭘파느냐보다'왜'파느냐…한미·SK·GC가말한기술수출의'줏대'",
+  "[서울데이터랩]미국증시,기술주·반도체강세에일제히상승마감…나...",
+  "[데이터&뉴스]포스코홀딩스소액주주지분율76.9%'톱'...에코프로·네..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,41 @@
   [
    "2026-10-28T06:11:09.410967+09:00",
    "보증금 파이어 투자 빼서 40대 주식에 비결 6억 13억"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "실적 3분기 발표 주주환원 하이닉스"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "AI전문가 접근권 확보에 투자해야 추격보단 선도AI 한국 유럽"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "한반도 증발 싱크탱크 메모리 WP 5300조원 충돌 AI"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "반도체주 껑충 앤트로픽 미국증시 지속 훈풍 AI인프라주"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "협력 지분 목적 지분가치 없다 6조 매도 SKT 5조"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "파느냐보다 말한 한미 기술수출의 줏대 파느냐 GC가"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "강세에 미국 기술주 마감 증시 반도체 일제히 상승"
+  ],
+  [
+   "2026-10-28T06:21:06.600326+09:00",
+   "소액주주 에코프로 지분율 포스코홀딩스"
   ]
  ],
- "last_run": "2026-10-28T06:11:54.480212+09:00",
+ "last_run": "2026-10-28T06:21:30.954108+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
