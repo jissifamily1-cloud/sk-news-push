@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.vegannews.co.kr/news/article.html?no=397149",
-  "https://economist.co.kr/article/view/ecn202610210022",
-  "https://www.dailian.co.kr/news/view/1705888/?sc=Naver",
-  "https://www.etnews.com/20261026000010",
-  "https://view.asiae.co.kr/article/2026102523051325510",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498417",
-  "https://www.mk.co.kr/article/12185541",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323551",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729124",
-  "https://www.naeil.com/news/read/606427",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610161523308680107368",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=396217",
   "https://www.aitimes.kr/news/articleView.html?idxno=42428",
@@ -2999,19 +2989,19 @@
   "https://www.enetnews.co.kr/news/articleView.html?idxno=55722",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376925",
   "https://www.hankyung.com/article/2026102778236",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729355",
+  "https://www.slist.kr/news/articleView.html?idxno=776893",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=100056",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=446308",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499034",
+  "https://www.yna.co.kr/view/AKR20261028006851072?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729271",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729371",
+  "https://www.edaily.co.kr/News/Read?newsId=02423926645617512&mediaCodeNo=257",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499032"
  ],
  "seen_titles": [
-  "SK하이닉스1.41%상승…삼성전자는0.93%하락",
-  "'GPU24장→4장으로'…AI반도체판바꾸는K스타트업",
-  "\"골드만,코스피목표치3000P대폭삭감…AI거품우려에전망급선회\"",
-  "아이폰17·18서5G단독모드지원…SK텔레콤·LG유플러스,연내상용화...",
-  "[백종민의딥테크]해외본사스타트업,주소보다실질을보자",
-  "AI검사부터물류로봇까지…스마트팩토리주상승종목은따로있다",
-  "SKhynixreboundsasSolidigmU.S.IPOwithdrawalboostssentiment",
-  "반도체부터조선·방산까지···'슈퍼어닝위크'",
-  "\"수리비만165만원\"…통신3사,'아이폰듀오'부담낮춘다",
-  "안성시“용인반도체산단시민피해막겠다”",
   "[더벨][영상|the수다]정용진은AI·영화,정유경은백화점…갈림길에...",
   "테오도르의시장분석:특징주와테마주\"의료AI와바이오·헬스케어\"",
   "AI에이전트도개발부터폐기까지관리…SKT,'AI신뢰경영'실행체계...",
@@ -6001,7 +5991,17 @@
   "[브랜드평판]미래에셋증권,채권10월1위...한국투자증권,KB증권뒤이...",
   "'디펜딩챔피언'KCC,SK에패하며6연패최하위수모…턴오버로자멸",
   "'어닝쇼크'HD현대마린솔루션…목표가줄하향에도'반등'[종목+]",
-  "“CXMT,애플의공급제안거절”…중국“메모리자급자족”"
+  "“CXMT,애플의공급제안거절”…중국“메모리자급자족”",
+  "[SK윤활기유3.0시대②]\"최상위대신최적화\"…글로벌1위지켜낸SK의...",
+  "뉴욕증시,이틀째상승...앤트로픽훈풍에나스닥1.2%↑",
+  "SK하이닉스,오늘3분기실적발표…'50조~60조원'추가주주환원나오나",
+  "뉴욕증시,'앤트로픽훈풍'힘입어이틀연속상승⋯테슬라4%대,AMD5%...",
+  "\"최첨단AI직접만들기보다확보가먼저\"…한국AI전략에던진경고",
+  "앤트로픽훈풍에기술주랠리계속…나스닥1.2%↑(종합)",
+  "[SK윤활기유3.0시대①]중동발공급쇼크뚫었다…'실적효자'등극...",
+  "[SK윤활기유3.0시대③]엔진오일넘어'데이터센터·전기차'로…차세...",
+  "[MUSTKNOW5]메타,증자공모에'초대박'...투자자가개장전알아야할5...",
+  "젠슨황딸매디슨황,내달또한국온다…로봇협력확대주목"
  ],
  "recent_sigs": [
   [
@@ -6183,9 +6183,25 @@
   [
    "2026-10-28T06:41:04.448055+09:00",
    "공급 메모리 자급자족 거절 제안 중국 CXMT 애플의"
+  ],
+  [
+   "2026-10-28T06:51:05.489263+09:00",
+   "실적 효자 공급 쇼크 등극 뚫었다 중동발"
+  ],
+  [
+   "2026-10-28T06:51:05.489263+09:00",
+   "데이터센터 넘어 엔진오일 전기차 차세"
+  ],
+  [
+   "2026-10-28T06:51:05.489263+09:00",
+   "증자 메타 공모에 개장전 알아야 초대박 투자자가"
+  ],
+  [
+   "2026-10-28T06:51:05.489263+09:00",
+   "젠슨 로봇 협력 매디슨 확대 한국 온다 내달 주목"
   ]
  ],
- "last_run": "2026-10-28T06:41:31.054479+09:00",
+ "last_run": "2026-10-28T06:51:19.641265+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
