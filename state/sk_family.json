@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3439390",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312891",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81661",
   "http://www.kjdaily.com/article.php?aid=1791720316688762002",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610102006454370010",
   "https://www.mt.co.kr/industry/2026/10/12/2026100813292480600",
@@ -2999,12 +2996,12 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441226",
   "http://enews.imbc.com/News/RetrieveNewsInfo/522546",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=282642",
-  "http://www.osen.co.kr/article/G1112898875"
+  "http://www.osen.co.kr/article/G1112898875",
+  "https://www.hemophilia.co.kr/news/articleView.html?idxno=45294",
+  "https://kpenews.com/View.aspx?No=4280303",
+  "https://www.businessplus.kr/news/articleView.html?idxno=118788"
  ],
  "seen_titles": [
-  "최태원SK회장,광주군공항현장점검…“전남광주서공장병행건설...",
-  "최태원\"美·中증설빨라지면시장점유율줄어…우리도확장서둘러야...",
-  "최태원“미·중증설시우리점유율줄어”…속도전강조",
   "최태원\"美·中빠르게증설하면韓점유율감소…우리도서둘러야\"",
   "월남참전상이국가유공자기념메달전달식및복지회관준공식",
   "최태원\"美·中증설빨라지면韓점유율줄어…생산능력확충서둘러...",
@@ -6001,7 +5998,10 @@
   "[남승표의궁변통구]SK하이닉스실적발표서듣고싶은말",
   "이계인,전원생활중절도피해…\"달걀다사라져\"(라스)",
   "[분석]지난해사장11명승진시킨SK…올해는곽노정·장용호부회장...",
-  "이계인,최근'전문털이범'에게당했다\"CCTV범인정체기막혀\"('라스..."
+  "이계인,최근'전문털이범'에게당했다\"CCTV범인정체기막혀\"('라스...",
+  "로로성형외과의원,10월26일개원…안면거상및동안성형중점진료",
+  "SK하이닉스모시기에집중하는일본..국내전력·용수난항'해외거점이...",
+  "[이슈+]SK하이닉스,40조소각다음카드는…추가소각에특별배당얹을..."
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-10-27T09:30:24.987588+09:00",
    "지난해 곽노정 부회장 승진시킨 11명 올해는 사장 장용호"
+  ],
+  [
+   "2026-10-27T10:40:13.956613+09:00",
+   "국내 해외 난항 일본 SK하이닉스 거점이 모시기에 용수 전력 집중하는"
+  ],
+  [
+   "2026-10-27T10:40:13.956613+09:00",
+   "카드는 40조 추가 SK하이닉스 얹을 소각에 특별배당 소각 다음"
   ]
  ],
- "last_run": "2026-10-27T10:30:33.801752+09:00",
+ "last_run": "2026-10-27T10:40:29.338775+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
