@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsverse.kr/news/articleView.html?idxno=11262",
-  "https://www.munhwa.com/article/11611611",
   "https://www.seoul.co.kr/news/publicnews/2026/08/24/20260824500165?wlog_tag3=naver",
   "https://www.seoulfn.com/news/articleView.html?idxno=636291",
   "https://www.joongangenews.com/news/articleView.html?idxno=542276",
@@ -2999,11 +2997,11 @@
   "http://sateconomy.co.kr/news/view/1065589034674922",
   "https://news.tf.co.kr/read/economy/2381293.htm",
   "https://www.newsen.com/news_view.php?uid=202610271401446310",
-  "https://www.hankyung.com/article/202610277805O"
+  "https://www.hankyung.com/article/202610277805O",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=719859",
+  "https://www.kmaeil.com/news/articleView.html?idxno=655928"
  ],
  "seen_titles": [
-  "SK하이닉스,광주군공항점검…반도체클러스터가속화",
-  "SK하이닉스경영진,광주군공항전격방문…반도체클러스터'가속'",
   "전남광주통합특별시,SK하이닉스의광주군공항현장직접방문…호남권...",
   "SK하이닉스,광주군공항전격방문…반도체클러스터'가속도'",
   "SK하이닉스,광주군공항찾아반도체집적단지논의",
@@ -6001,7 +5999,9 @@
   "삼성전자·SK하이닉스,브로드컴630억달러AI금융…HBM공급확대변수",
   "이진수\"노태우일가비자금의혹,수사진행중…자금원천추적\"",
   "윤택‘자연인이다’재방료보태땅샀다더니“재방송하루최대80회...",
-  "더킴로펌,최영근전한국공정거래조정원장고문영입"
+  "더킴로펌,최영근전한국공정거래조정원장고문영입",
+  "김해대동면거베라농가서국산신품종현장평가회",
+  "최종현경기도의원,구매탄시장노후전기설비개선·화재알림시설지원..."
  ],
  "recent_sigs": [
   [
@@ -6045,7 +6045,7 @@
    "브로드컴 삼성전자 금융 AI SK하이닉스 HBM 630억달러 확대 공급 변수"
   ]
  ],
- "last_run": "2026-10-27T14:20:27.702599+09:00",
+ "last_run": "2026-10-27T14:30:36.782503+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
