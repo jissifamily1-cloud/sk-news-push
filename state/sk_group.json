@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026102608405896586",
-  "https://www.m-i.kr/news/articleView.html?idxno=2008564",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261026090734ve0",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3732181",
-  "https://www.news1.kr/it-science/cc-newmedia/6331406",
-  "https://www.newsis.com/view/NISX20261026_0003840522",
-  "https://www.insight.co.kr/news/579097",
-  "https://en.yna.co.kr/view/AEN20261026001100320?input=2106m",
   "https://www.polinews.co.kr/news/articleView.html?idxno=746814",
   "https://www.eroun.net/news/articleView.html?idxno=93396",
   "https://daily.hankooki.com/news/articleView.html?idxno=1418175",
@@ -2999,17 +2991,17 @@
   "https://news.jtbc.co.kr/article/NB12325074?influxDiv=NAVER",
   "https://news.jtbc.co.kr/article/NB12325075?influxDiv=NAVER",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1335280",
-  "https://www.khan.co.kr/article/202610272016005"
+  "https://www.khan.co.kr/article/202610272016005",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16259784",
+  "https://www.joongang.co.kr/article/25473328",
+  "https://www.khan.co.kr/article/202610272037005",
+  "http://www.kjdaily.com/article.php?aid=1793100880690490276",
+  "https://www.newstnt.com/news/articleView.html?idxno=725304",
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1553774",
+  "https://www.newstree.kr/newsView/ntr202610270032",
+  "https://www.khan.co.kr/article/202610272027035"
  ],
  "seen_titles": [
-  "항공예약정보새고선박까지위협…기업들'사이버방어선'재점검",
-  "빨라지는4대그룹인사시계…AI인재·부회장인선에쏠린눈",
-  "[속보]코스피0.9%하락…5,490선출발",
-  "[속보]코스피5500선붕괴,삼성전자·현대차약세",
-  "SKT,'AI거버넌스리포트'발간…AI신뢰경영강화",
-  "삼성전자,장초반1%안팎약세…SK하이닉스강보합[핫스탁]",
-  "일잘하는AI,안심하고맡길수있도록...SKT,사내에이전트까지'국제...",
-  "Seoulstocksopenloweraheadofearningsreports,Feddecision",
   "[재계포커스]SK하이닉스,솔리다임상장접었다…공은28일실적발표로",
   "SKT,AI거버넌스리포트발간…AI트러스트경영강화",
   "SK텔레콤,'AI거버넌스리포트'발간…AI환경변화선제대응",
@@ -6001,7 +5993,15 @@
   "'성과급'부동산에만몰리자…반도체효과?\"체감안돼요\"",
   "삼전닉스'김부장'15억성과급?'11만명그이상'새부자의탄생",
   "인천예술인회관건립표류우려",
-  "[논설위원의단도직입]“코스피5000대,저평가수준이지만…여전한변..."
+  "[논설위원의단도직입]“코스피5000대,저평가수준이지만…여전한변...",
+  "앤트로픽IPO에한국반도체주급등…삼성·SK텔레콤영향은?",
+  "미래에셋,日증권사M&A…박현주“반도체고점론틀리다”",
+  "SK하이닉스‘솔리다임상장사태’가K증시에남긴교훈[박동흠의생활...",
+  "삼성전자·SK하이닉스거래대금7.4조원…하루새26%급증",
+  "[공시]JYPEnt·그린플러스·파이온엑스'공매도금지',광진실업'투자...",
+  "안방에선…창원LG‘위’만본다",
+  "[2026ESG커넥트포럼]\"AX와GX...재생E·효율화·전환금융뒷받침돼야\"(...",
+  "인천도시공사“날쌘돌이많다”…두산“크레이지모드”…하남시청..."
  ],
  "recent_sigs": [
   [
@@ -6947,9 +6947,21 @@
   [
    "2026-10-27T20:31:13.195296+09:00",
    "5000대 코스피 저평가 여전한 수준이지만"
+  ],
+  [
+   "2026-10-27T20:41:00.629400+09:00",
+   "창원LG 안방에선 본다"
+  ],
+  [
+   "2026-10-27T20:41:00.629400+09:00",
+   "GX 효율화 전환금융 AX와 뒷받침돼야 재생E"
+  ],
+  [
+   "2026-10-27T20:41:00.629400+09:00",
+   "인천도시공사 많다 하남시청 모드 두산 날쌘돌이 크레이지"
   ]
  ],
- "last_run": "2026-10-27T20:31:29.722394+09:00",
+ "last_run": "2026-10-27T20:41:12.726022+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
