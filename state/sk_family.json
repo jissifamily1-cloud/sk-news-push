@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260717_0003713194",
-  "https://www.hankyung.com/article/202608248905h",
   "https://www.viva100.com/article/20260824501154",
   "https://www.namdonews.com/news/articleView.html?idxno=920908",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085481",
@@ -2999,11 +2997,11 @@
   "https://www.mk.co.kr/article/12187285",
   "https://www.cbci.co.kr/news/articleView.html?idxno=619900",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610212114450080106578",
-  "https://www.donga.com/news/Society/article/all/20261027/134919432/1"
+  "https://www.donga.com/news/Society/article/all/20261027/134919432/1",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610270051&t=NNv",
+  "https://www.sidae.com/article/2026102710373116018"
  ],
  "seen_titles": [
-  "SK하이닉스경영진,광주군공항또찾았다…반도체클러스터협의구체...",
-  "SK하이닉스,광주군공항현장전격방문…호남권반도체클러스터가속...",
   "SK하이닉스경영진,광주군공항현장점검…반도체클러스터협의구체...",
   "SK하이닉스,광주군공항방문…반도체클러스터심층논의",
   "SK하이닉스경영진,광주군공항현장점검…반도체클러스터속도",
@@ -6001,7 +5999,9 @@
   "商議\"AIDC전용전기요금제도입을\"",
   "최태원SK그룹회장,AI시대청년생존전략제시…학벌보다문제해결...",
   "[더벨][thebellnote]GW목표보다중요한계약MW",
-  "법사위,노태우일가재산형성과정지적…법무부“은닉자금추적수..."
+  "법사위,노태우일가재산형성과정지적…법무부“은닉자금추적수...",
+  "미국이어유럽도ESS특수…LG·삼성,새기회온다[ESS빅뱅④]",
+  "'연말정기인사'옛말…재계경영시계달라졌다"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-10-27T17:30:25.367197+09:00",
    "GW 중요한 계약 목표보다 MW"
+  ],
+  [
+   "2026-10-27T18:00:34.316354+09:00",
+   "재계 경영시계 연말 옛말 정기인사 달라졌다"
   ]
  ],
- "last_run": "2026-10-27T17:50:26.196043+09:00",
+ "last_run": "2026-10-27T18:00:46.383333+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
