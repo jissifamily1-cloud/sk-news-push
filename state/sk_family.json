@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.segyebiz.com/newsView/20261011515173?OutUrl=naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004432",
   "https://www.kwnews.co.kr/article/20261011501081",
   "https://www.newscj.com/news/articleView.html?idxno=3439390",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=312891",
@@ -2999,11 +2997,11 @@
   "https://www.dt.co.kr/article/12088411",
   "http://www.yonhapnewstv.co.kr/news/MYH202610270826206mI",
   "https://www.sportschosun.com/entertainment/2026-10-27/202610270100167930010963",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441226"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441226",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/522546",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=282642"
  ],
  "seen_titles": [
-  "최태원\"중국반도체무서운속도…한국,어디든최대한빨리늘려야\"",
-  "최태원,광주행직접결정…SK‘속도전’에삼성도움직이나",
   "최태원,\"美中증설대비호남팹속도내야\"",
   "최태원SK회장,광주군공항현장점검…“전남광주서공장병행건설...",
   "최태원\"美·中증설빨라지면시장점유율줄어…우리도확장서둘러야...",
@@ -6001,7 +5999,9 @@
   "재계경영시계빨라진다…삼성·SK등조기인사",
   "중간선거D-7…민주당,상하원동시탈환하나",
   "이계인,450평전원주택생활중달걀도난피해..\"전문털이범에당해...",
-  "[남승표의궁변통구]SK하이닉스실적발표서듣고싶은말"
+  "[남승표의궁변통구]SK하이닉스실적발표서듣고싶은말",
+  "이계인,전원생활중절도피해…\"달걀다사라져\"(라스)",
+  "[분석]지난해사장11명승진시킨SK…올해는곽노정·장용호부회장..."
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-10-27T09:00:31.112121+09:00",
    "싶은 듣고 SK하이닉스 실적발표서"
+  ],
+  [
+   "2026-10-27T09:30:24.987588+09:00",
+   "지난해 곽노정 부회장 승진시킨 11명 올해는 사장 장용호"
   ]
  ],
- "last_run": "2026-10-27T09:20:27.213346+09:00",
+ "last_run": "2026-10-27T09:30:38.678610+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
