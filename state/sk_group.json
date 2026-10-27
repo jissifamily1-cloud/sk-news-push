@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/topics/law_firm/2026/10/26/7PE7LRP2TJGDZFEFYL2HIDMAUQ/",
-  "https://m.sports.naver.com/basketball/article/065/0000303509",
-  "http://www.kbiznews.co.kr/news/articleView.html?idxno=115054",
-  "https://www.segye.com/newsView/20261026506878?OutUrl=naver",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578616967237",
-  "https://magazine.hankyung.com/business/article/202610264855b",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=396218",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200258",
-  "https://www.hellot.net/news/article.html?no=115773",
-  "https://www.joongangenews.com/news/articleView.html?idxno=558187",
   "https://www.vegannews.co.kr/news/article.html?no=397149",
   "https://economist.co.kr/article/view/ecn202610210022",
   "https://www.dailian.co.kr/news/view/1705888/?sc=Naver",
@@ -2999,19 +2989,19 @@
   "https://www.sedaily.com/article/20106750",
   "https://www.vegannews.co.kr/news/article.html?no=397662",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7729",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610270942221770287"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610270942221770287",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=55717",
+  "https://www.hankyung.com/article/2026102784946",
+  "https://www.chosun.com/international/international_general/2026/10/28/EQIBOJC64FCCXJNJHEFDYFOF6U/",
+  "https://www.sedaily.com/article/20106908",
+  "https://news.bizwatch.co.kr/article/real_estate/2026/10/27/0005",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=237420",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=55722",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376925",
+  "https://www.hankyung.com/article/2026102778236",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026"
  ],
  "seen_titles": [
-  "‘노태우비자금’노소영에출석요구한달넘겨…참고인조사아직",
-  "[JB프리뷰]숫자가말하는소노와LG의고민",
-  "[뉴스브리핑]AI산업경쟁력,반도체넘어전력망·자금확보에달렸다",
-  "SKT,‘AI거버넌스리포트’발간…AI트러스트경영강화",
-  "메리츠증권,'오픈API'서비스출시…AI와대화로주식주문",
-  "[속보]SK하이닉스16조원배당설“확정된것없다”",
-  "[테오도르의기술적분석]코스피와주요종목(10월26일)",
-  "주식고수들,하이닉스더샀다…삼성전자순매수75%급감",
-  "“세계ESS시장40%성장...국내배터리부품3사수혜기대”",
-  "SK하이닉스,日키옥시아투자수익16조원특별배당설…28일주주환원...",
   "SK하이닉스1.41%상승…삼성전자는0.93%하락",
   "'GPU24장→4장으로'…AI반도체판바꾸는K스타트업",
   "\"골드만,코스피목표치3000P대폭삭감…AI거품우려에전망급선회\"",
@@ -6001,7 +5991,17 @@
   "“AI버블붕괴?수요안꺾였다”…SK證“코스피사모을때”[줍줍리...",
   "SK디앤디,소수계좌거래집중에28일투자주의",
   "박현주\"日증권사인수29일발표\"…\"AI혁명이제10~20%왔다\"",
-  "건설사ㆍ건설노조교섭본격화…‘안전ㆍ보건’교섭범위놓고이견"
+  "건설사ㆍ건설노조교섭본격화…‘안전ㆍ보건’교섭범위놓고이견",
+  "[이넷뉴스브랜드평판]SK이노베이션,석유화학상장기업10월1위...한...",
+  "\"'삼전닉스미라클'벗어나야\"…증권가가꼽은코스피반등조건[분석...",
+  "美안보전문가“이재명대북유화책,한반도전쟁위험키워…김정은에...",
+  "“삼전·하이닉스도불똥”…한은,AI발금융충격확산경고[Pick코노미...",
+  "[인사이드스토리]'SK아닌'SK디앤디,땅도건물도판이유는",
+  "[2026노동국감]'화이트칼라이그젬션'김영훈장관\"위헌주장가능\"",
+  "[브랜드평판]미래에셋증권,채권10월1위...한국투자증권,KB증권뒤이...",
+  "'디펜딩챔피언'KCC,SK에패하며6연패최하위수모…턴오버로자멸",
+  "'어닝쇼크'HD현대마린솔루션…목표가줄하향에도'반등'[종목+]",
+  "“CXMT,애플의공급제안거절”…중국“메모리자급자족”"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,41 @@
   [
    "2026-10-28T06:31:17.081612+09:00",
    "건설노조 범위 안전 보건 교섭 놓고 건설사 본격화 이견"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "한반도 위험 전쟁 대북 유화책 이재명 키워 김정은에 안보전문가"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "불똥 경고 한은 금융충격 삼전 Pick코노미 AI발 확산 하이닉스도"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "SK디앤디 건물도 이유는 땅도 아닌"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "화이트칼라 가능 김영훈 위헌 주장 장관 이그젬션"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "10월 뒤이 KB증권 한국투자증권 1위 채권 미래에셋증권"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "수모 6연패 디펜딩 최하위 자멸 패하며 SK에 KCC 턴오버로 챔피언"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "줄하향에도 어닝 쇼크 HD현대마린솔루션 반등 목표가"
+  ],
+  [
+   "2026-10-28T06:41:04.448055+09:00",
+   "공급 메모리 자급자족 거절 제안 중국 CXMT 애플의"
   ]
  ],
- "last_run": "2026-10-28T06:31:31.727694+09:00",
+ "last_run": "2026-10-28T06:41:31.054479+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
