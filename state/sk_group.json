@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450428",
-  "http://www.ddanzi.com/897748769",
-  "https://www.ikbc.co.kr/article/view/kbc202610270042",
-  "https://www.sportsworldi.com/newsView/20261027515641",
-  "https://www.koreatimes.co.kr/path/A2026102714340005702",
-  "https://www.edaily.co.kr/News/Read?newsId=04693686645617184&mediaCodeNo=257",
-  "https://biz.chosun.com/stock/stock_general/2026/10/27/LX6FNJOBIRFE5MGMZZALDE4RLQ/",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=282816",
   "https://www.hankookilbo.com/news/article/A2026102715510002555?did=NA",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498991",
   "http://www.issuenbiz.com/news/articleView.html?idxno=80978",
@@ -2999,17 +2991,17 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610270837237360104664",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610271512263280102634",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610270929269280106260",
-  "https://www.mk.co.kr/article/12188721"
+  "https://www.mk.co.kr/article/12188721",
+  "https://weeklytrade.co.kr/news/view.html?no=101921",
+  "https://www.edaily.co.kr/News/Read?newsId=02742086645617840&mediaCodeNo=257",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283874",
+  "https://www.ajunews.com/view/20261029070601018",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=92259",
+  "https://www.hankyung.com/article/2026102920336",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441736",
+  "https://www.edaily.co.kr/News/Read?newsId=02689606645617840&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "코스피,앤트로픽發AI훈풍에'5600선탈환'…코스닥2.29%↑",
-  "코스피4%대급등에매수사이드카발동",
-  "코스피3.09%급등···삼성전자·SK하이닉스가끌어올렸다",
-  "방한외국인1894만명돌파…두달앞당긴신기록,2000만명눈앞",
-  "코스피,앤트로픽훈풍에5600선회복…외인·기관'쌍끌이'",
-  "'앤트로픽IPO효과'반도체우려'해소'⋯코스피3%올라'5630선'",
-  "[마감시황]美AI투자기대되살아나자…코스피,3%뛰며5600선회복",
-  "코스피,3%넘게오르며5600선회복",
   "반도체급등에코스피3%대상승,매수사이드카발동[포토]",
   "한국찾은외국인관광객1894만명…역대최다기록경신",
   "취임4주년이재용,로봇개발현장찾았다…사내이사복귀는언제",
@@ -6001,7 +5993,15 @@
   "[더벨]솔리다임,미국팹투자준비…신규법인설립",
   "[더벨]SK쉴더스,CHRO→집행임원선임'인력운영책임강화'",
   "[더벨]올거나이즈,공모가최상단확정…국내투자자130억즉시회수",
-  "매경이전하는세상의지식(매-세-지,10월29일)"
+  "매경이전하는세상의지식(매-세-지,10월29일)",
+  "‘2026수출붐업코리아’성료…5366건상담,149건체결",
+  "[마켓무버]美연준금리동결에도뉴욕증시소폭상승…반도체·AI주강...",
+  "뉴욕증시,기준금리동결에일제히상승...나스닥0.3%↑",
+  "[뉴욕증시마감]금리동결·반도체주강세에일제히상승…나스닥0.28...",
+  "뉴욕증시연준금리동결속3상승마감…나스닥0.27%↑",
+  "뉴욕증시,미Fed금리동결에3일째상승…오라클10%↑[뉴욕증시브리...",
+  "하이닉스실적좋지만주가는갇힌다…\"저PER지속·목표주가165만원\"",
+  "[MUSTKNOW5]알파벳·마이크로소프트나란히실적발표,주가는왜엇갈..."
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,13 @@
   [
    "2026-10-29T07:11:06.680955+09:00",
    "전하는 29일 매경이 10월 지식 세상의"
+  ],
+  [
+   "2026-10-29T07:21:03.495042+09:00",
+   "주가는 엇갈 알파벳 발표 나란히 실적 마이크로소프트"
   ]
  ],
- "last_run": "2026-10-29T07:11:48.132142+09:00",
+ "last_run": "2026-10-29T07:21:10.235741+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
