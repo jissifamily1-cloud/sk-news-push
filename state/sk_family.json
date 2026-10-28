@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/assembly/6316782",
   "https://www.nspna.com/news/?newsid=831210",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=62865",
   "https://www.mt.co.kr/economy/2026/10/12/2026101212291141056",
@@ -2999,10 +2998,10 @@
   "https://www.viva100.com/article/20260824501154",
   "https://www.namdonews.com/news/articleView.html?idxno=920908",
   "https://www.khan.co.kr/article/202610290600101",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242526"
+  "https://www.itdaily.kr/news/articleView.html?idxno=242526",
+  "https://www.pressian.com/pages/articles/2026102814574717564"
  ],
  "seen_titles": [
-  "중흥건설그룹,호남반도체육성에100억원..인재양성지원",
   "[오늘의급등주]최태원發호남반도체클러스터기대감…서산상한가·...",
   "최태원,\"반도체수요빠르게증가...호남반도체클러스터속도전\"",
   "[국감초점]여야,산자위서최태원SK회장출석두고'협박'공방",
@@ -6001,7 +6000,8 @@
   "SK하이닉스,광주군공항관제탑에올랐다…반도체클러스터,구상에서...",
   "SK하이닉스,광주군공항방문…호남반도체논의구체화",
   "“내취향은SM이아니라이수만이었다”···A2O라이트‘니온’돌풍...",
-  "AI공장이온다…국가경쟁력된데이터센터"
+  "AI공장이온다…국가경쟁력된데이터센터",
+  "최태원,'한일경제공동체'구상밝혀\"일본과합치면GDP6조달러\""
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-10-29T07:10:15.761936+09:00",
    "국가 공장이 경쟁력 온다 AI 데이터센터"
+  ],
+  [
+   "2026-10-29T07:40:16.182473+09:00",
+   "경제공동체 6조 일본과 구상 GDP 달러 한일 합치면"
   ]
  ],
- "last_run": "2026-10-29T07:30:34.190117+09:00",
+ "last_run": "2026-10-29T07:40:28.021114+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
