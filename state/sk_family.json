@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478954",
   "https://www.news1.kr/politics/assembly/6316782",
   "https://www.nspna.com/news/?newsid=831210",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=62865",
@@ -2999,10 +2998,10 @@
   "https://www.newsis.com/view/NISX20260928_0003805563",
   "https://www.viva100.com/article/20260824501154",
   "https://www.namdonews.com/news/articleView.html?idxno=920908",
-  "https://www.khan.co.kr/article/202610290600101"
+  "https://www.khan.co.kr/article/202610290600101",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242526"
  ],
  "seen_titles": [
-  "인사에서드러날그룹별경영과제…현안따른인사방향주목",
   "중흥건설그룹,호남반도체육성에100억원..인재양성지원",
   "[오늘의급등주]최태원發호남반도체클러스터기대감…서산상한가·...",
   "최태원,\"반도체수요빠르게증가...호남반도체클러스터속도전\"",
@@ -6001,15 +6000,20 @@
   "SK하이닉스계속\"미확정\"이라는데…열흘에한번꼴'해외팹추진說'꾸...",
   "SK하이닉스,광주군공항관제탑에올랐다…반도체클러스터,구상에서...",
   "SK하이닉스,광주군공항방문…호남반도체논의구체화",
-  "“내취향은SM이아니라이수만이었다”···A2O라이트‘니온’돌풍..."
+  "“내취향은SM이아니라이수만이었다”···A2O라이트‘니온’돌풍...",
+  "AI공장이온다…국가경쟁력된데이터센터"
  ],
  "recent_sigs": [
   [
    "2026-10-29T06:10:14.435832+09:00",
    "취향은 니온 아니라 돌풍 SM이 A2O 라이트 이수만이었다"
+  ],
+  [
+   "2026-10-29T07:10:15.761936+09:00",
+   "국가 공장이 경쟁력 온다 AI 데이터센터"
   ]
  ],
- "last_run": "2026-10-29T07:00:42.248797+09:00",
+ "last_run": "2026-10-29T07:10:27.782623+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
