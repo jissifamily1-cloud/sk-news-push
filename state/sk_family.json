@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=553979",
-  "https://www.sedaily.com/article/20100336",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=856119",
   "https://www.newsis.com/view/NISX20261012_0003821658",
   "https://www.mediapen.com/news/view/1129178",
@@ -2999,11 +2997,11 @@
   "https://www.seoul.co.kr/news/economy/securities/2026/10/28/20261028500118?wlog_tag3=naver",
   "https://www.kmaeil.com/news/articleView.html?idxno=656124",
   "http://www.osen.co.kr/article/G1112899735",
-  "http://amenews.kr/news/view.php?idx=68128"
+  "http://amenews.kr/news/view.php?idx=68128",
+  "https://www.segye.com/newsView/20261028508700?OutUrl=naver",
+  "https://www.sedaily.com/article/20107092"
  ],
  "seen_titles": [
-  "[N2증시풍향계]한화M&S·금호건설·금호전기·엑시콘장중강세…해운...",
-  "민형배,무안청사상시집무…의료·군공항현안직접챙긴다",
   "대전서구유소년야구단,대한유소년야구연맹회장배우승",
   "SK,AI인재키운다…청년50명에2년간월300만원지원",
   "SK,청년AI인재키운다…2년간월300만원‘파격’지원",
@@ -6001,7 +5999,9 @@
   "“사팔사팔하지마라”…‘135만닉스베팅’최태원믿고버틴개미들...",
   "인천부평4동주민자치회,한지새활용공예'지멋내멋'운영",
   "'나혼산'으로뜬김민,최민식에욕설애드리브했다가..\"반응에당황\"(...",
-  "충남TP,신재생E기업판로개척지원···45건바이어상담"
+  "충남TP,신재생E기업판로개척지원···45건바이어상담",
+  "김의겸“노태우일가비자금의혹수사해야”…법무대행“자금원천...",
+  "최태원-노소영재산분할재상고심본격화...주심은김성수대법관"
  ],
  "recent_sigs": [
   [
@@ -6055,9 +6055,13 @@
   [
    "2026-10-28T11:20:14.906748+09:00",
    "사팔사팔 135만닉스 버틴 베팅 개미들 믿고 하지마라"
+  ],
+  [
+   "2026-10-28T11:40:14.335779+09:00",
+   "노태우 비자금 의혹 자금 대행 법무 수사해야 김의겸 일가 원천"
   ]
  ],
- "last_run": "2026-10-28T11:30:36.229345+09:00",
+ "last_run": "2026-10-28T11:40:28.220780+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
