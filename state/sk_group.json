@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbanker.co.kr/news/articleView.html?idxno=226262",
-  "http://sateconomy.co.kr/news/view/1065589034674922",
-  "https://www.kmib.co.kr/article/20261027500691",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4114959",
-  "https://www.etnews.com/20261027000263",
-  "https://www.news1.kr/industry/general-industry/6333123",
-  "https://www.etoday.co.kr/news/view/2640601",
   "https://www.edaily.co.kr/News/Read?newsId=04031126645617184&mediaCodeNo=257",
   "https://www.dailian.co.kr/news/view/1706724/?sc=Naver",
   "https://www.edaily.co.kr/News/Read?newsId=04024566645617184&mediaCodeNo=257",
@@ -2999,16 +2992,16 @@
   "https://www.betanews.net/article/view/beta202610280125",
   "https://www.businesspost.co.kr/BP?command=article_view&num=450580",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1541964",
-  "https://www.edaily.co.kr/News/Read?newsId=06464886645617512&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=06464886645617512&mediaCodeNo=257",
+  "https://www.sportsseoul.com/news/read/1644921",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62980",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261028203443AcQ",
+  "https://www.khan.co.kr/article/202610282031015",
+  "https://www.ytn.co.kr/_ln/0134_202610282023576087",
+  "https://basketkorea.com/news/newsview.php?ncode=1065613021195651",
+  "https://www.ftimes.kr/news/articleView.html?idxno=40325"
  ],
  "seen_titles": [
-  "비메모리반도체주주가휘파람…설계·패키징·검사주로매수온기확...",
-  "[2027정기인사]SK그룹인사,키워드는'변화보다안정'",
-  "\"돈다발또쓸어담는다\"…SK하이닉스'영업이익률80%'역대급실적예고",
-  "노태우일가비자금의혹…공소청,연말수사시한속재단출연금추...",
-  "[현장]꼬리밟힌노태우일가'은닉재산'…법무대행\"자금원천추적...",
-  "SK하이닉스,내일(28일)3분기실적발표…주주환원방안에쏠린눈",
-  "앤트로픽·오픈AI상장에코스피수급분산우려",
   "AI에이전트커질수록기회…통신사,'토큰관제'새시장연다",
   "[포커스]증권사3분기실적시즌개막…NH투자증권,순익3836억'선방'",
   "청주대,4년간110억원지원받아반도체인재2000명양성추진",
@@ -6001,7 +5994,14 @@
   "전남광주,반도체RE100공급망구축추진…전력망·ESS확충4대전략제...",
   "[10월29일자]비즈니스포스트아침의주요기사",
   "삼성전자,메모리만110조…국내경기는'부정적'",
-  "[미리보는이데일리신문]용적률'영끌'…미래몫당겨쓰는서울"
+  "[미리보는이데일리신문]용적률'영끌'…미래몫당겨쓰는서울",
+  "KB증권,SKT와‘모두의AI’맞손…맞춤형자산관리서비스추진",
+  "“미국ESS화재안전성시험‘UL9540A’통과”..SK온,북미·국내시...",
+  "[이시각헤드라인]10월28일뉴스리뷰",
+  "SK하닉,글로벌공급계약확대…‘메모리피크아웃’일축",
+  "코스피6천탈환,SK하이닉스폭등...염승환\"150만원도싸다\"는이유...",
+  "[바코인사이드]숭의여중김수현\"자강불식,더강한모습으로돌아오...",
+  "\"클린스만은미국에있었는데…\"A매치끝나자K리그로향한모레노,벤..."
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,17 @@
   [
    "2026-10-28T20:31:17.305274+09:00",
    "당겨쓰는 미래몫 용적률 영끌 서울"
+  ],
+  [
+   "2026-10-28T20:41:04.440515+09:00",
+   "숭의여중 모습으로 강한 돌아오 김수현 자강불식"
+  ],
+  [
+   "2026-10-28T20:41:04.440515+09:00",
+   "끝나자 A매치 클린스만은 K리그로 있었는데 모레노 미국에 향한"
   ]
  ],
- "last_run": "2026-10-28T20:31:34.503466+09:00",
+ "last_run": "2026-10-28T20:41:14.695378+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
