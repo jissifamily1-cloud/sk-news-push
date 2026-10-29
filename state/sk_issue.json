@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12324434?influxDiv=NAVER",
-  "https://www.newsis.com/view/NISX20261022_0003837617",
-  "https://www.segye.com/newsView/20261022520147?OutUrl=naver",
-  "https://www.munhwa.com/article/11625544",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=746627",
-  "https://www.wikitree.co.kr/articles/1168420",
-  "http://www.ujeil.com/news/articleView.html?idxno=393986",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4114181",
   "http://www.kwangju.co.kr/article.php?aid=1792669500804604006",
   "https://www.khan.co.kr/article/202610222041001",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0103_202610291823175854",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698868",
   "https://view.asiae.co.kr/article/2026102918234018373",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/29/2026102900331.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/10/29/2026102900331.html",
+  "https://www.busan.com/view/busan/view.php?code=2026102918300457644",
+  "https://www.newsis.com/view/NISX20261029_0003847297",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=871737",
+  "https://www.joongang.co.kr/article/25474128",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821924&plink=ORI&cooper=NAVER",
+  "https://www.mk.co.kr/article/12190258",
+  "https://www.yna.co.kr/view/AKR20261029194900061?input=1195m"
  ],
  "seen_titles": [
-  "구글·메타·X,과방위서집중질타…\"X접속차단검토해야\"주장까지",
-  "사망한선관위직원측\"고성,강압적수사\"…특검\"단1회조사받아\"",
-  "네이버·두나무결합독점우려에‘안전장치’추진",
-  "약100억원투자했는데계약해지라니…만트럭버스코리아불공정행위...",
-  "[2026국감-법사위]검찰총장대행\"'尹,5년씩재판받아물적·경제적·심...",
-  "[건강꿀팁]'송풍구'부터돌려보세요,환절기뻑뻑한눈이한결편해집...",
-  "경찰,DN오토모티브울산공장등압수수색",
   "주호영\"제주항공참사송치0명·장윤기과거수사의혹…경찰책임따...",
   "제주항공부실수습·늑장수사질타",
   "2023년‘한동훈정보유출’MBC압수수색…대법“당사자참여배제해...",
@@ -6001,7 +5994,14 @@
   "소아응급실압수수색여파...경찰간부,병원방문",
   "‘교사채용대가억대뇌물’왕기철전전통예고교장구속",
   "'응급실압수수색논란'에…경찰고위간부,아주대병원방문",
-  "'이정재·한동훈테마주'선행매매수사…정보제공세력규명이핵심..."
+  "'이정재·한동훈테마주'선행매매수사…정보제공세력규명이핵심...",
+  "롯데백품는신세계,센텀상권‘신세계구상’",
+  "檢미래위조사단,李연루'위례사건'등보완조사보고연기(종합)",
+  "이응우계룡시장,유권자금품제공혐의송치",
+  "부의금수억원받았나…경찰,강호동농협회장뇌물혐의저울질",
+  "채용비리의혹'판소리명창'전국립전통예술중고교장구속",
+  "[단독]경찰,대웅제약지주사압수수색…‘리베이트의혹’수사확대",
+  "경찰지휘부,'압수수색논란'아주대병원방문해유감표명"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "저울을 빼앗기고 명분에 이제 없는 개혁 걱정한다"
   ]
  ],
- "last_run": "2026-10-29T18:31:04.404049+09:00",
+ "last_run": "2026-10-29T18:40:56.134247+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
