@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261021_0003835792",
-  "https://www.sedaily.com/article/20104561",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808915&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6859704_37004.html",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728622",
-  "https://www.sedaily.com/article/20104564",
-  "https://www.chosun.com/national/incident/2026/10/21/PV6RNK4OBFB7NLCHRJNGEZSHZQ/",
-  "https://www.newspim.com/news/view/20261021001300",
   "https://news.jtbc.co.kr/article/NB12324174?influxDiv=NAVER",
   "https://www.khan.co.kr/article/202610212036025",
   "https://www.yna.co.kr/view/AKR20261021172100004?input=1195m",
@@ -2999,17 +2991,17 @@
   "http://www.thefirstmedia.net/news/articleView.html?idxno=212074",
   "https://www.upkoreanews.kr/news/articleView.html?idxno=100845",
   "https://www.apnews.kr/news/articleView.html?idxno=3052561",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901192"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=901192",
+  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91592",
+  "https://www.busan.com/view/busan/view.php?code=2026102909321309843",
+  "https://kpenews.com/View.aspx?No=4288016",
+  "https://www.sentv.co.kr/article/view/sentv202610290044",
+  "https://www.kyeonggi.com/article/20261029580051",
+  "https://www.yna.co.kr/view/AKR20261029055800065?input=1195m",
+  "https://www.munhwa.com/article/11627170",
+  "https://news.tf.co.kr/read/national/2382166.htm"
  ],
  "seen_titles": [
-  "\"압수수색영장참고인에도제공돼야\"vs\"수사방해\"…재판소원첫변...",
-  "정청래,신천지조사결과공개촉구…“덮으려는자가범인”",
-  "미대사\"한미관계는난기류\"…북한엔\"대화열려있어\"",
-  "'배우자출장'노태악전대법관압수수색‥\"보고서허위기재\"",
-  "제주서빛중개교에중학교배정달라진다…지망학교확대",
-  "울산경찰,DN오토모티브압수수색…‘납배출주사투여의혹’수사",
-  "DN오토모티브,비타민속여납배출주사투여…경찰압수수색",
-  "재판소원첫공개변론서3시간여열띤공방…\"영장사본없이권리보호...",
   "노태악자택압수수색…특검조사선관위직원숨진채발견",
   "‘한화현장조사정보유출’의혹에…주병기공정위원장“내부감찰”",
   "첫재판소원공개변론에헌법재판관들질문폭탄…4시간만에종료",
@@ -6001,7 +5993,15 @@
   "롯데하이마트,한파에난방가전매출급증…국소난방·카본매트수요...",
   "대한유화최대주주KPIC,금산분리어기고'꼼수'탈출?…오너3세사사...",
   "[AP미디어동향10월3주]SBS새사장에양윤석SBS보도본부장",
-  "생중계·참관·선관위반환…'올공검증'3대절차논란"
+  "생중계·참관·선관위반환…'올공검증'3대절차논란",
+  "[유통브리핑]이마트·롯데마트·롯데하이마트",
+  "기습한파에난방가전수요늘었다",
+  "[기자수첩]옳은결론도늦으면무력하다..삼성전자GOS과징금의교훈",
+  "공정위중점조사기획단,‘라면값담합’의혹정조준",
+  "인천쿠팡물류센터화재,범죄혐의없어수사종결…발화원인특정...",
+  "인천쿠팡물류센터대형화재수사3개월…입건자없이종결",
+  "특검‘올공투표지’임의검증…용지부족책임,내년에규명될듯[창...",
+  "장윤기부친\"증거인멸의도없었다\"…경찰수사편의제공은인정"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T09:31:02.567549+09:00",
+ "last_run": "2026-10-29T09:40:52.052254+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
