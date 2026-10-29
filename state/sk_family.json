@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=554084",
-  "https://www.gokorea.kr/news/articleView.html?idxno=881104",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88561",
   "https://www.mediawatch.kr/news/article.html?no=261321",
   "https://www.newsis.com/view/NISX20261012_0003822132",
@@ -2999,11 +2997,11 @@
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917636",
   "https://www.kbsm.net/news/view.php?idx=539620",
   "https://www.dailian.co.kr/news/view/1700361/?sc=Naver",
-  "https://www.newsis.com/view/NISX20261029_0003846315"
+  "https://www.newsis.com/view/NISX20261029_0003846315",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=885286",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290073&t=NNv"
  ],
  "seen_titles": [
-  "최태원광주방문에국힘공세…정진욱\"국회가기업협박하나\"",
-  "고려대KU마음건강연구소,'생애주기별사회적고립·사회적연결회복...",
   "“AI로문제풀어보라”…SK,청년50명뽑아월300만원씩2년지원",
   "[특징주]금호전기,최태원'호남반도체클러스터'속도전발언에'上'",
   "김정관장관,'서남권반도체클러스터'현장방문…부지·전력·용수공...",
@@ -6001,7 +5999,9 @@
   "조승래의원,미래전략기술육성'조세특례제한법개정안'대표발의",
   "12년의나눔,새로운희망으로이어져",
   "삼성·SK·LG연말인사초읽기…누가남고누가떠나나",
-  "삼전닉스실적발표,'반도체품귀'입증…호남팹당위성커져"
+  "삼전닉스실적발표,'반도체품귀'입증…호남팹당위성커져",
+  "잘키운윤활유하나로열반도체안부러울SK이노장용호·추형욱號,...",
+  "배터리운명쥔ESS…삼성살리고SK울렸다"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-10-29T13:50:14.534502+09:00",
    "품귀 호남 실적발표 입증 반도체 삼전닉스 커져 당위성"
+  ],
+  [
+   "2026-10-29T14:30:25.041902+09:00",
+   "키운 추형욱 SK이노 반도체 부러울 하나로 윤활유 장용호"
+  ],
+  [
+   "2026-10-29T14:30:25.041902+09:00",
+   "살리고 삼성 운명 ESS 울렸다 배터리"
   ]
  ],
- "last_run": "2026-10-29T14:20:27.834673+09:00",
+ "last_run": "2026-10-29T14:30:40.027096+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
