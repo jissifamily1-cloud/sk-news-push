@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800249.html",
-  "https://biz.heraldcorp.com/article/10917706",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=283047",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=361409",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280095&t=NN",
-  "https://dealsite.co.kr/articles/171530",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710632",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172682",
   "https://www.econovill.com/news/articleView.html?idxno=755160",
@@ -2999,15 +2993,15 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=283463",
   "https://vop.co.kr/A00001697371.html",
   "https://www.topstarnews.net/news/articleView.html?idxno=16262293",
-  "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022458"
+  "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022458",
+  "https://www.techm.kr/news/articleView.html?idxno=156679",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=585735",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16262239",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=585772",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=585743",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=585731"
  ],
  "seen_titles": [
-  "'PLUS글로벌HBM반도체',해외반도체ETF중개인순매수1위",
-  "추미애경기도지사,삼성·SK에반도체방류수수질관리강화요구",
-  "한화자산운용'PLUS글로벌HBM반도체',올해수익률88%…개인6000억'...",
-  "“‘엔비디아최대고객’오픈AI도구글TPU구매추진”…앤트로픽이...",
-  "KB증권,SK텔레콤과AI금융서비스업무협약",
-  "[이슈+]SK하이닉스,키옥시아결실은주주품으로…솔리다임IPO중단에...",
   "\"SKT,위기서빠른신뢰회복\"…침해사고1년만에정상화",
   "'실적개선세'SKC,3분기매출6390억",
   "SKC,3분기영업손실496억...전년비9.7%↓",
@@ -6001,33 +5995,15 @@
   "[분석]SK플래닛고객정보유출사태…피해보상총력전",
   "SK렌터카,‘한국품질만족지수’렌터카부문6년연속1위",
   "프로농구현대모비스,용병부상악재에도연패탈출…KCC는7연패",
-  "정소이,에쓰오일챔피언십첫날깜짝단독1위[KLPGA]"
+  "정소이,에쓰오일챔피언십첫날깜짝단독1위[KLPGA]",
+  "기프티콘마저털렸다...SK플래닛\"이름,전화,쿠폰번호등유출정황\"",
+  "SK이노,중동발특수에3분기영업이익'역대최대'",
+  "SK플래닛,기프티콘개인정보유출정황확인…\"피해발생시전액보상...",
+  "울산시'부울경초광역경제동맹에너지포럼'개최지산지소형에너지생...",
+  "울산시자원봉사센터-기업21곳,장애인제주탐방지원",
+  "AI시대의전기기술,낡은기술아닌값오르는기술"
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T15:41:06.489013+09:00",
-   "선정 질문 공학미래 에너지 AI 생명 공학한림원 10대"
-  ],
-  [
-   "2026-10-29T15:41:06.489013+09:00",
-   "티맵모빌리티 골드만삭스 인수한다 경영권"
-  ],
-  [
-   "2026-10-29T15:41:06.489013+09:00",
-   "위협 사실 차별화 AS로 현대차 중국차 테슬라 할부 경쟁력"
-  ],
-  [
-   "2026-10-29T15:41:06.489013+09:00",
-   "징역 선정 뇌물 돕고 조합장 성남 재개발 조경업체 법정구속 6년"
-  ],
-  [
-   "2026-10-29T15:41:06.489013+09:00",
-   "희비 SK하닉 반도체 투톱 삼전 마감"
-  ],
-  [
-   "2026-10-29T15:41:06.489013+09:00",
-   "주주가치 SK하닉 삼성 210조 주주환원 제고 심혈"
-  ],
   [
    "2026-10-29T15:51:06.412245+09:00",
    "매입 첫날부터 25만주 20조 이번에도 조기 자사주 종료 SK하이닉스"
@@ -6827,9 +6803,21 @@
   [
    "2026-10-29T21:41:05.159194+09:00",
    "첫날 단독1위 챔피언십 정소이 깜짝 에쓰오일"
+  ],
+  [
+   "2026-10-29T21:51:03.181809+09:00",
+   "지산지소형 에너지 초광역 개최 경제동맹 에너지포럼 울산시 부울경"
+  ],
+  [
+   "2026-10-29T21:51:03.181809+09:00",
+   "21곳 제주 지원 장애인 울산시자원봉사센터 기업 탐방"
+  ],
+  [
+   "2026-10-29T21:51:03.181809+09:00",
+   "오르는 낡은 전기 기술 아닌 AI시대의"
   ]
  ],
- "last_run": "2026-10-29T21:41:17.094326+09:00",
+ "last_run": "2026-10-29T21:51:14.627501+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
