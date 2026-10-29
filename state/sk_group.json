@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50115",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901104",
-  "http://www.e2news.com/news/articleView.html?idxno=335535",
-  "https://www.edaily.co.kr/News/Read?newsId=04700246645617512&mediaCodeNo=257",
   "https://www.ajunews.com/view/20261028140900351",
   "https://www.vegannews.co.kr/news/article.html?no=397781",
   "https://www.etnews.com/20261028000307",
@@ -2999,13 +2995,13 @@
   "https://www.vegannews.co.kr/news/article.html?no=398113",
   "https://view.asiae.co.kr/article/2026102921132781707",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=877926",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107601"
+  "http://www.00news.co.kr/news/articleView.html?idxno=107601",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=446431",
+  "https://www.mt.co.kr/industry/2026/10/29/2026102921113150164",
+  "https://www.newspim.com/news/view/20261029001411",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877934"
  ],
  "seen_titles": [
-  "SK하이닉스\"2029년까지D램·HBM사실상완판…과거호황기뛰어넘는수...",
-  "[EZ핫이슈]영업익83조vs주가반토막…SK하이닉스,'100조환원'으로...",
-  "SKhynixPostsRecordQuarterlyEarnings,AnnouncesKRW100TrillionS",
-  "[증권톡톡]KB증권-SK텔레콤'모두의AI'금융서비스협력·미래에셋증권...",
   "LS마린솔루션,SK브로드밴드와국제해저통신망긴급복구체계구축",
   "\"방류수수질관리하라\"추미애,삼전·하닉에세번째행정지도",
   "[食전食후]코스피,반도체강세에6%대급등…10거래일만에6000선회복",
@@ -6001,37 +5997,13 @@
   "SK플래닛,기프티콘·개인정보유출정황…대상고객조사중",
   "\"기프티콘썼다가날벼락\"SK플래닛기프티콘이용자정보유출…피해...",
   "[동구오늘]1950년...26년'벤,허각,임한별,케이'와불금",
-  "['클릭'증시]연준의장물가강조...연말인상가능성"
+  "['클릭'증시]연준의장물가강조...연말인상가능성",
+  "코스피,하루만에6000선밑으로...SK스퀘어,SK하이닉스상승VS삼성전...",
+  "SK플래닛개인정보유출…기프티콘·환급계좌도노출",
+  "SK플래닛,기프티콘이용자개인정보유출정황…정밀조사착수",
+  "SK플래닛개인정보유출…환급계좌까지노출우려"
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T15:21:08.337547+09:00",
-   "미국 동결 호재로 금리 작용하나 한국 증시에"
-  ],
-  [
-   "2026-10-29T15:21:08.337547+09:00",
-   "재처리 한미 협력 당국자 가능성 농축 원전 기업 있어 사업"
-  ],
-  [
-   "2026-10-29T15:21:08.337547+09:00",
-   "전남광주시 광주형 GGM 일자리 시즌2 봉합 갈등 노사"
-  ],
-  [
-   "2026-10-29T15:21:08.337547+09:00",
-   "사회공헌 전국체전 확대 지원 아시안게임 스포츠 제주삼다수"
-  ],
-  [
-   "2026-10-29T15:21:08.337547+09:00",
-   "투자정보 경쟁 쟁탈전 어닝콜 불붙었다"
-  ],
-  [
-   "2026-10-29T15:21:08.337547+09:00",
-   "간담회 산업통상부 공학 대한민국 리더 초청"
-  ],
-  [
-   "2026-10-29T15:21:08.337547+09:00",
-   "은행 늘렸다 엇갈려 보안예산 줄일 정보보호 증권사는 투자"
-  ],
   [
    "2026-10-29T15:31:18.425686+09:00",
    "정기 필터 방문관리 중요성 SK매직 정수기 강조 부족 교체만으론"
@@ -6881,7 +6853,7 @@
    "물가 가능성 강조 인상 연준 연말 의장"
   ]
  ],
- "last_run": "2026-10-29T21:21:12.325093+09:00",
+ "last_run": "2026-10-29T21:31:18.682003+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
