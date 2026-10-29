@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2011462",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81695",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008315",
   "https://www.smarttoday.co.kr/ko-kr/articles/113224",
   "https://www.inthenews.co.kr/news/article.html?no=93662",
   "https://www.kukinews.com/article/view/kuk202610280150",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20261029_0003846610",
   "https://www.yna.co.kr/view/AKR20261029197600007?input=1195m",
   "http://www.beyondpost.co.kr/view.php?ud=202610300607169172aaae0046f_30",
-  "https://www.yna.co.kr/view/AKR20261029162200017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261029162200017?input=1195m",
+  "https://news.mtn.co.kr/article/2026103006251440167",
+  "https://www.g-enews.com/view.php?ud=2026102920050457460c8c1c064d_1",
+  "https://www.vegannews.co.kr/news/article.html?no=398282"
  ],
  "seen_titles": [
-  "경북도,구미에이차전지실증거점구축…23조5천억첨단산업투자...",
-  "추미애경기도지사,삼성·SK에세번째행정지도…방류수수질개선촉...",
-  "SK하이닉스호실적에코스피6.63%급등...6000선회복[마감시황]",
   "[초점]SK하이닉스,'AI메모리호황'에역대최대실적…주주환원100조...",
   "엔트로픽훈풍·SK하이닉스역대급실적에코스피6000선탈환",
   "코스피,삼전닉스주주환원기대에불기둥..10일만에6000회복",
@@ -6001,7 +5998,10 @@
   "\"팔사람은지금팔아라\"…미FOMC금리동결·대선변수속증시향방은",
   "◇내일의경기(31·1일)",
   "알파벳,12.3%↓2004년상장이후최대폭락...검색엔진분야우려전면...",
-  "여야통신기록요구에이통3사'진퇴양난'…\"기준부터세워달라\""
+  "여야통신기록요구에이통3사'진퇴양난'…\"기준부터세워달라\"",
+  "알파벳실적쇼크에나스닥1.3%↓…AI투자우려재확산[뉴욕마감]",
+  "\"전기차주춤하자ESS가터졌다\"…EVE에너지,3분기ESS배터리'67.5GWh'...",
+  "SK증권우단일가매매11월3일까지연장"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,17 @@
   [
    "2026-10-30T06:21:07.903619+09:00",
    "기준부터 통신기록 요구에 진퇴양난 이통3사 여야 세워달라"
+  ],
+  [
+   "2026-10-30T06:31:13.412949+09:00",
+   "주춤하자 ESS가 5GWh 3분기 EVE에너지 전기차 배터리 ESS 터졌다"
+  ],
+  [
+   "2026-10-30T06:31:13.412949+09:00",
+   "연장 11월 SK증권우 단일가매매 3일까지"
   ]
  ],
- "last_run": "2026-10-30T06:21:31.982501+09:00",
+ "last_run": "2026-10-30T06:31:23.302362+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
