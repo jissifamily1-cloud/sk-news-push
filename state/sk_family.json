@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20261012/134825589/1",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004675",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=133044",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438745",
-  "https://www.g-enews.com/view.php?ud=20261012135102697327fa31d75c_1",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=279836",
   "https://news.bizwatch.co.kr/article/industry/2026/10/12/0018",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494431",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20261029117751062?input=1195m",
   "https://www.news1.kr/society/general-society/6336881",
   "https://www.dailian.co.kr/news/view/1708266/?sc=Naver",
-  "https://www.sedaily.com/article/20107935"
+  "https://www.sedaily.com/article/20107935",
+  "https://www.newspim.com/news/view/20261029001330",
+  "https://www.ajunews.com/view/20261029171043650",
+  "https://www.edaily.co.kr/News/Read?newsId=06179526645617840&mediaCodeNo=257",
+  "https://www.hankyung.com/article/2026102944211",
+  "https://www.sedaily.com/article/20107946"
  ],
  "seen_titles": [
-  "최태원\"사회적가치창출에보상필요…새로운자본주의로전환해야\"",
-  "최태원\"사회적가치보상받는새자본주의로전환해야\"",
-  "최태원“이타심만으론사회문제해결한계⋯새로운자본주의로전환해...",
-  "최태원\"사회적가치창출보상받는'새로운자본주의'앞당겨야\"",
-  "김정관산업부장관광주군공항방문…전력·용수공급계획집중점검",
   "SK,AI시대파격실험…2년전일제‘비학위인재양성’판연다",
   "SK,AI인재교육에'문제발굴'도입…청년2년간실전기회",
   "최태원'사회적가치'10년실험...\"사회적가치측정넘어경제적가...",
@@ -6001,7 +5996,12 @@
   "염동열관광재단대표후보청문회서'보은인사·결격'공방(종합)",
   "최태원SK회장,다음달5일서울대특강…'AI시대경제변화와인재상...",
   "최태원·노소영재산분할2라운드…9440억감액여부쟁점은[법조계에...",
-  "서울대학생들과마주앉는최태원…“AI시대기업이원하는인재는”"
+  "서울대학생들과마주앉는최태원…“AI시대기업이원하는인재는”",
+  "[인사]보령시",
+  "서울변회-공공갈등관리협회,갈등관리분야협력확대MOU체결",
+  "최태원SK회장,내달서울대서AI시대시장경제·인재상특강",
+  "[단독]내비1위티맵,골드만삭스에팔린다",
+  "정책·현장전력통정승일,SK이노‘AI·에너지’지휘"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,17 @@
   [
    "2026-10-29T17:30:25.685803+09:00",
    "2라운드 법조계에 9440억 감액 재산분할 쟁점은 여부"
+  ],
+  [
+   "2026-10-29T17:50:15.543827+09:00",
+   "팔린다 내비 골드만삭스에 티맵 1위"
+  ],
+  [
+   "2026-10-29T17:50:15.543827+09:00",
+   "에너지 SK이노 AI 정책 현장 정승일 전력통 지휘"
   ]
  ],
- "last_run": "2026-10-29T17:40:25.566432+09:00",
+ "last_run": "2026-10-29T17:50:32.516729+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
