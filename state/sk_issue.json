@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12324174?influxDiv=NAVER",
-  "https://www.khan.co.kr/article/202610212036025",
-  "https://www.yna.co.kr/view/AKR20261021172100004?input=1195m",
   "http://www.joseilbo.com/news/news_read.php?uid=577888&class=32",
   "https://www.joongang.co.kr/article/25471698",
   "https://www.kmib.co.kr/article/20261021502392",
@@ -2999,12 +2996,12 @@
   "https://www.kyeonggi.com/article/20261029580051",
   "https://www.yna.co.kr/view/AKR20261029055800065?input=1195m",
   "https://www.munhwa.com/article/11627170",
-  "https://news.tf.co.kr/read/national/2382166.htm"
+  "https://news.tf.co.kr/read/national/2382166.htm",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2054374",
+  "https://www.news1.kr/local/incheon/6335893",
+  "https://www.medigatenews.com/news/2832464008"
  ],
  "seen_titles": [
-  "노태악자택압수수색…특검조사선관위직원숨진채발견",
-  "‘한화현장조사정보유출’의혹에…주병기공정위원장“내부감찰”",
-  "첫재판소원공개변론에헌법재판관들질문폭탄…4시간만에종료",
   "특검조사받은선관위직원숨져…선관위“수사로극심한심리적부담...",
   "‘비타민’이라며노동자에납배출주사…DN오토모티브압수수색",
   "‘비타민주사’라더니납배출용?…경찰,DN오토모티브압수수색",
@@ -6001,7 +5998,10 @@
   "인천쿠팡물류센터화재,범죄혐의없어수사종결…발화원인특정...",
   "인천쿠팡물류센터대형화재수사3개월…입건자없이종결",
   "특검‘올공투표지’임의검증…용지부족책임,내년에규명될듯[창...",
-  "장윤기부친\"증거인멸의도없었다\"…경찰수사편의제공은인정"
+  "장윤기부친\"증거인멸의도없었다\"…경찰수사편의제공은인정",
+  "공정위는법과원칙따라독립적·중립적심의·의결하고있으며,이에...",
+  "'1140억피해'인천쿠팡물류센터화재수사종결…범죄혐의점없어",
+  "소아응급실'도미노'붕괴우려한이주영…\"아이들갈곳이없습니다\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T09:40:52.052254+09:00",
+ "last_run": "2026-10-29T09:50:54.820333+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
