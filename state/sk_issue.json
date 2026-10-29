@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6859816_37012.html",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=620048",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41154",
-  "https://view.asiae.co.kr/article/2026102207592440891",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303160",
-  "https://www.pennmike.com/news/articleView.html?idxno=130031",
-  "https://news.knn.co.kr/news/article/193477",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277584&CMPT_CD=P0010",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=7064",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000075624",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290039.html",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261029_0003846373",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
   "https://www.sisajournal.com/news/articleView.html?idxno=392135",
-  "https://www.yna.co.kr/view/AKR20261029091900001?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261029091900001?input=1195m",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2310203",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729652",
+  "https://www.jbnews.com/news/articleView.html?idxno=1514673",
+  "https://biz.sbs.co.kr/article_hub/20000342969?division=NAVER",
+  "https://news.tf.co.kr/read/economy/2382198.htm",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=942019",
+  "https://www.sedaily.com/article/20107684",
+  "https://www.yna.co.kr/view/AKR20261029101800004?input=1195m"
  ],
  "seen_titles": [
-  "'배우자출장'노태악압수수색‥\"허위기재\"",
-  "환경지킨다던종이빨대,플라스틱보다인체발암6배∙산성화2배",
-  "최태원회장님,한국인도좋은것좀씁시다",
-  "[2026국감]금융당국,네이버·두나무결합독점우려에안전장치계획",
-  "금융위\"네이버·두나무결합독점우려\"…거래소지배력안전장치검토",
-  "[기자수첩]김해정영두시장,'엄이도령'의우를범하지말라",
-  "[경남도정]-경찰입맛따라브리핑...기준은?",
-  "[손병관의뉴스프레소]중수청장배석논란,진보진영도'수사중립성의...",
   "[금융그룹/다우키움⑤]'그들만의돈잔치'...내막은어떨까",
   "경찰,'납배출주사은폐의혹'DN오토모티브압수수색",
   "'친환경'종이빨대의배신…플라스틱빨대보다발암6배",
@@ -6001,7 +5993,15 @@
   "경찰,'금품수수의혹'강호동농협회장3차소환조사",
   "인천쿠팡물류센터화재리튬배터리열폭주가원인…피해액1140억원",
   "'1140억피해'쿠팡물류센터화재,입건자없이수사종결",
-  "'투표용지부족사태·올공시위'마무리…선관위개혁은진행형"
+  "'투표용지부족사태·올공시위'마무리…선관위개혁은진행형",
+  "진단키트제조맡긴뒤일방취소…셀트리온과징금6억3000만원",
+  "책임사유없는데임의로취소…셀트리온,과징금6.3억철퇴",
+  "'522억혈세특혜'논란이어이번엔하도급'갑질'철퇴…민낯드러난...",
+  "'부당위탁계약취소'…공정위,셀트리온에과징금6.3억",
+  "셀트리온,진단키트3717만개위탁임의취소…과징금6억3000만원",
+  "한방병원허위입원환자109명…보험사기6억적발",
+  "전직경찰관이보이스피싱범죄수익208억원세탁…징역6년선고",
+  "투표지247만장검증마친선관위특검…의혹규명후수사박차"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T11:50:54.464238+09:00",
+ "last_run": "2026-10-29T12:01:13.235823+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
