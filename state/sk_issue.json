@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=313680",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449844",
-  "https://www.etoday.co.kr/news/view/2636109",
-  "https://www.dailyt.co.kr/newsView/dlt202610220010",
-  "https://www.gokorea.kr/news/articleView.html?idxno=882326",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6859809_37012.html",
-  "https://www.pennmike.com/news/articleView.html?idxno=130032",
-  "https://www.nocutnews.co.kr/news/6595195",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=66204",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226405",
   "https://www.gokorea.kr/news/articleView.html?idxno=882333",
@@ -2999,17 +2991,17 @@
   "https://news.ifm.kr/news/articleView.html?idxno=482934",
   "https://www.gokorea.kr/news/articleView.html?idxno=883240",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227789",
-  "https://www.news1.kr/local/busan-gyeongnam/6336171"
+  "https://www.news1.kr/local/busan-gyeongnam/6336171",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254324",
+  "https://www.goodkyung.com/news/articleView.html?idxno=292893",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=312663",
+  "https://biz.chosun.com/topics/law_firm/2026/10/29/BIHA3D2Y3VAKVIQYLJT2K6NGUU/",
+  "https://www.nocutnews.co.kr/news/6599080",
+  "https://www.mt.co.kr/society/2026/10/29/2026102911195586652",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16261767",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900070.html"
  ],
  "seen_titles": [
-  "네이버파이낸셜·두나무결합에쏠린시선…금융위안전장치검토",
-  "[WhoIs?]김영훈한화갤러리아대표이사",
-  "[ESGX이슈5]JP모건,원전·전력망도녹색금융인정…에너지안보에투...",
-  "결혼식의설렘뒤에숨은추가비용…예식장·결혼준비업체17곳가격표...",
-  "네이버파이낸셜과두나무결합,독점우려속금융당국의안전장치계획...",
-  "[이슈톡톡]'친환경'종이빨대플라스틱보다발암영향6배",
-  "정이한'음료투척자작극'늑장수사의혹…부산경찰청장\"봐주기아...",
-  "부캉이한달만에수로밖으로…재진입차단막설치[오늘아침]",
   "금융당국\"네이버·두나무결합,거래소공공성훼손안되게안전장치...",
   "'소방관순직'부천공장화재닷새만에압수수색",
   "특검의칼끝이헌법기관을향할때",
@@ -6001,7 +5993,15 @@
   "인천쿠팡물류센터화재수사종결…\"범죄혐의없어\"",
   "208억보이스피싱자금세탁전직경찰관징역6년",
   "'여고생살해'장윤기父첫증인신문…\"착한아들이그럴줄은\"[아침&...",
-  "'당원가입관여의혹'차석호함안군수,경찰피의자조사"
+  "'당원가입관여의혹'차석호함안군수,경찰피의자조사",
+  "롯데하이마트,첫추위에난방가전매출증가…히터40%·요장판70%늘어",
+  "[굿모닝!29일유통가소식]롯데하이마트·코웨이·이마트·쿠팡·G마켓...",
+  "DL건설,'컴플라이언스데이'열고부서별준법담당자임명",
+  "[법조인사이드]갤럭시GOS배상판결0건인데…공정위는과징금201억...",
+  "'208억'보이스피싱조직자금세탁한전직경찰징역6년",
+  "경찰,'1억뇌물수수의혹'강호동농협회장3차소환",
+  "유시민\"김민석지도부,진영복원어렵다…민티07로진영박살\"(박시영...",
+  "\"수가올리면뭐하나\"…경찰압수수색에차갑게돌아선소아응급현장"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T11:31:16.369330+09:00",
+ "last_run": "2026-10-29T11:40:55.138461+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
