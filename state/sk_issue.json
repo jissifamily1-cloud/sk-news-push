@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://bizhankook.com/articles/korea-climate-finance-investment-strategy.html",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424496",
-  "https://www.news1.kr/politics/assembly/6328952",
-  "https://www.dailian.co.kr/news/view/1704931/?sc=Naver",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=324496",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=513253",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290187.html",
-  "https://www.edaily.co.kr/News/Read?newsId=05320166645615544&mediaCodeNo=257",
-  "https://www.newsis.com/view/NISX20261022_0003837350",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193617",
   "https://www.kukinews.com/article/view/kuk202610220206",
   "https://www.ytn.co.kr/_ln/0103_202610221726412389",
   "https://www.ytn.co.kr/_ln/0103_202610221719495295",
@@ -2999,19 +2989,19 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821489&plink=ORI&cooper=NAVER",
   "http://www.inews24.com/view/2020557",
   "https://www.mt.co.kr/society/2026/10/29/2026102916325975440",
-  "https://shindonga.donga.com/3/all/13/6435826/1"
+  "https://shindonga.donga.com/3/all/13/6435826/1",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2310310",
+  "https://www.sisajournal.com/news/articleView.html?idxno=392244",
+  "https://www.kukinews.com/article/view/kuk202610290203",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1419922",
+  "https://www.dt.co.kr/article/12092161",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=82093",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290178&t=NN",
+  "https://www.medigatenews.com/news/2003744132",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=621826",
+  "https://imnews.imbc.com/original/mbig/6861709_29041.html"
  ],
  "seen_titles": [
-  "'무늬만친환경'투자넘어서려면…한국형기후벤치마크의성공조건",
-  "과징금넘어피해회복쟁점···구글앱수수료논란다시수면위",
-  "공소청국감서공소취소·제미나이공방…강제북송판결에고성도(종합...",
-  "SK에너지·HD현대오일뱅크대표,산자위국감증인채택철회",
-  "성폭력징계에\"국가대표라면모를까\"...학생선수인권에'급'따진공...",
-  "‘공시침묵’이부메랑으로…김동명LG엔솔·정철동LG디플대표리더...",
-  "선관위특검\"투표자수허위입력선관위6곳추가확인\"",
-  "네이버·두나무결합우려에금융위\"디지털자산법에안전장치검토\"",
-  "\"48시간내삭제했다더니\"…구글,성범죄피해정보유출해명논란",
-  "한창민,'반복담합'제재강화공정거래법개정안발의",
   "‘투표자수허위입력’36곳으로늘었다…선관위특검추가확인",
   "경찰,'신혼부부흉기위협'30대구속영장신청",
   "특검\"'투표자수허위입력'6곳추가확인...총36곳\"",
@@ -6001,7 +5991,17 @@
   "147일만에올림픽공원떠난'투표지'[이브닝브리핑]",
   "장애인친동생폭행해숨지게한70대⋯\"하나님이시키는대로한것\"",
   "'소아응급실압수수색'논란에…경찰고위간부들,아주대병원방문",
-  "개혁명분에빼앗기고,이제칼없는저울을걱정한다"
+  "개혁명분에빼앗기고,이제칼없는저울을걱정한다",
+  "'물주지마세요'가을철달라지는화분관리법",
+  "'6.3억과징금'셀트리온,공정위판단에불복…행정소송예고",
+  "신세계센텀시티,롯데센텀점품고‘신세계타운’으로…부산동부상...",
+  "셀트리온\"진단키트과징금,추가소명필요…행정소송진행\"",
+  "셀트리온,6.3억원과징금에“행정소송”…하도급법위반제재에“소...",
+  "경찰,'1억뇌물수수의혹'강호동농협중앙회장3차소환",
+  "\"응급실압색은건국이래최초\"…경찰에거듭사과요구",
+  "경기도의사회만난김은혜의원\"아주대소아응급센터압수수색,환자...",
+  "강호동농협중앙회장세번째경찰조사…뇌물·공금유용의혹수사",
+  "[엠빅뉴스]\"응급실압수수색건국이래최초\"..아주대병원에서무슨일..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "저울을 빼앗기고 명분에 이제 없는 개혁 걱정한다"
   ]
  ],
- "last_run": "2026-10-29T17:10:59.721738+09:00",
+ "last_run": "2026-10-29T17:20:55.873523+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
