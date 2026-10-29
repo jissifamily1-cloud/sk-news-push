@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://lawtalknews.co.kr/article/ZM8ZK8Z0493R",
-  "https://view.asiae.co.kr/article/2026102210260212232",
-  "https://www.theguru.co.kr/news/article.html?no=108634",
-  "http://www.yonhapnewstv.co.kr/news/AKR2026102210344260o",
-  "https://www.edaily.co.kr/News/Read?newsId=03316086645615544&mediaCodeNo=257",
-  "https://www.segye.com/newsView/20261022508598?OutUrl=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=03335766645615544&mediaCodeNo=257",
-  "http://www.inews24.com/view/2017766",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220051&t=NN",
-  "https://www.lawleader.co.kr/news/articleView.html?idxno=20229",
   "http://www.seouleconews.com/news/articleView.html?idxno=94503",
   "https://www.kmib.co.kr/article/20261022500261",
   "https://view.asiae.co.kr/article/2026102210472777514",
@@ -2999,19 +2989,19 @@
   "https://dealsite.co.kr/articles/171629",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441927",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=130434",
-  "https://gg.newdaily.co.kr/site/data/html/2026/10/29/2026102900198.html"
+  "https://gg.newdaily.co.kr/site/data/html/2026/10/29/2026102900198.html",
+  "https://www.donga.com/news/Economy/article/all/20261029/134931648/1",
+  "https://www.greened.kr/news/articleView.html?idxno=353402",
+  "https://www.thepowernews.co.kr/view.php?ud=202610291353388756de3f0aa1be_7",
+  "https://view.asiae.co.kr/article/2026102913521331451",
+  "https://www.thepowernews.co.kr/view.php?ud=202610291349289684de3f0aa1be_7",
+  "https://imnews.imbc.com/news/2026/econo/article/6861642_36932.html",
+  "https://www.mkhealth.co.kr/news/articleView.html?idxno=80663",
+  "https://www.koreadaily.com/article/20261028215509296",
+  "https://www.sedaily.com/article/20107743",
+  "https://www.kgnews.co.kr/news/article.html?no=917320"
  ],
  "seen_titles": [
-  "경찰의토렌트조사및컴퓨터확인요청,어디까지동의해야할까",
-  "AI기술안썼는데AI제품?…'AI워싱'잡을가이드라인의견청취",
-  "배민품는우버,런던블랙캡6000억손배소송승소…사법리스크털어...",
-  "\"이름만AI막는다\"공정위,거짓·과장판단기준마련",
-  "루센트블록해법나오나…오늘금융위원장입장주목",
-  "주식리딩방사기수익금으로외제차밀수출시도한일당검거",
-  "트럼프가흔드니까뭉쳤다…젤렌스키지지율43%→57%급등",
-  "공정위에'한우물'전문직공무원생긴다…5·6급20명전환",
-  "\"AI라고해서샀는데\"…공정위가콕집어경고한제품들",
-  "김현정\"유튜브쇼츠'쇼핑스티커',프리미엄에도노출…불공정약관\"",
   "네이버·두나무결합독점우려...금융위'안전장치'검토",
   "투자사기피해금으로외제차사해외로…수출직전덜미",
   "'노인가면'쓰고은행5곳털어징역형…10년만에또같은수법쓴美...",
@@ -6001,7 +5991,17 @@
   "공정위,셀트리온에과징금6.3억…진단키트위탁취소제재",
   "셀트리온,공정위진단키트제재에행정소송…\"납기지연피해입었다\"...",
   "[국감워치]취약계층보호망곳곳구멍...환자·장애인·영아모두사각...",
-  "국민의힘경기도당·경기도의사회,이재명정부의료정책전면재검토..."
+  "국민의힘경기도당·경기도의사회,이재명정부의료정책전면재검토...",
+  "“그린워싱,법·공시·소통함께풀어야”…국제ESG협회30일부산서...",
+  "부산센텀시티신세계텃밭된다...신세계,롯데百센텀시티점인수",
+  "대기업계열사채무보증4배넘게늘어…공정위,탈법행위감시강화",
+  "코로나특수끝났다고납품3700만개'돌연취소'…셀트리온에과징금...",
+  "셀트리온,하도급업체잘못없는데위탁일방취소…과징금6.3억",
+  "공정위,'하청업체계약임의취소'셀트리온에과징금6.3억부과",
+  "아주대소아응급실압수수색논란…국감서경찰대응질타,교수7명사...",
+  "한미마약조직또덜미…‘물뽕’원료동부서밀매",
+  "경찰,‘1억뇌물수수’의혹강호동농협중앙회장3차소환",
+  "인천쿠팡물류센터대형화재수사3개월…범인못밝히고종결"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T13:50:57.721924+09:00",
+ "last_run": "2026-10-29T14:01:17.034686+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
