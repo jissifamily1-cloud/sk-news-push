@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6589910",
-  "https://www.news1.kr/local/gwangju-jeonnam/6316881",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88573",
   "https://www.smartbizn.com/news/articleView.html?idxno=156117",
   "https://www.ajunews.com/view/20261012135237623",
@@ -2999,11 +2997,11 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=800225",
   "http://www.yonhapnewstv.co.kr/news/MYH20261029152300Zxs",
   "https://www.joongdo.co.kr/web/view.php?key=20261029010008834",
-  "https://biz.chosun.com/industry/company/2026/10/29/AFW7FTJ4FNAJFGKHSB6KPKX7P4/"
+  "https://biz.chosun.com/industry/company/2026/10/29/AFW7FTJ4FNAJFGKHSB6KPKX7P4/",
+  "https://www.gosiweek.com/article/1065596598225275",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610271543114920102819"
  ],
  "seen_titles": [
-  "최태원이어산업장관도찾았다…호남반도체추진점검(종합)",
-  "최태원회장사회적가치실험글로벌경제의제로",
   "최태원‘사회적가치’실험,글로벌경제의제로…“시장규칙바꿔야...",
   "'가장예약어려운전시'...삼청동선혜원'거미줄작품'인기",
   "'금4개'활약빛났지만…과제도남긴한국펜싱",
@@ -6001,7 +5999,9 @@
   "[위클리오늘]최종현강원도의원,강원관광체류시간·소비확대위한...",
   "경기버스노사최종조정회의…총파업분수령",
   "대전국회의원들,첨단미래전략산업육성지원입법활발",
-  "[단독]SK‘전략통’윤풍영수펙스사장,하이닉스로…곽노정과글로..."
+  "[단독]SK‘전략통’윤풍영수펙스사장,하이닉스로…곽노정과글로...",
+  "서울변회-한국공공갈등관리협회,공공갈등해결협력…조정·중재전문...",
+  "[더벨][NewsBriefing]“기밀유출회사배신”삼성전자안승호전부사..."
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-10-29T16:00:35.265618+09:00",
    "윤풍영 수펙스 글로 곽노정과 하이닉스로 사장 전략통"
+  ],
+  [
+   "2026-10-29T16:20:15.652476+09:00",
+   "안승호 배신 기밀유출 삼성전자 회사 부사"
   ]
  ],
- "last_run": "2026-10-29T16:10:29.124100+09:00",
+ "last_run": "2026-10-29T16:20:32.464430+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
