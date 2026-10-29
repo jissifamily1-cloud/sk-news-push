@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=156366",
-  "https://www.news1.kr/world/europe/6328024",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054232",
-  "https://news.jtbc.co.kr/article/NB12324274?influxDiv=NAVER",
-  "https://www.pressian.com/pages/articles/2026102115070430351",
   "https://www.fnnews.com/news/202610220933504061",
   "http://www.inews24.com/view/2017707",
   "http://www.intn.co.kr/news/articleView.html?idxno=2054238",
@@ -2999,14 +2994,14 @@
   "https://www.newspim.com/news/view/20261029000464",
   "http://www.weeklytoday.com/news/articleView.html?idxno=800137",
   "https://www.newsis.com/view/NISX20261029_0003845756",
-  "https://www.idomin.com/news/articleView.html?idxno=2018218"
+  "https://www.idomin.com/news/articleView.html?idxno=2018218",
+  "https://www.mydaily.co.kr/page/view/2026102912222792039",
+  "https://www.news1.kr/bio/pharmaceutical-bio/6336286",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044103",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3015167",
+  "https://www.newsis.com/view/NISX20261029_0003846416"
  ],
  "seen_titles": [
-  "[국감26]\"자료넘겼더니경쟁자로\"…루센트블록기술탈취논란,공정위...",
-  "EU검찰,유럽의회극우정파압수수색…佛극우에자금유용의혹",
-  "\"유튜브프리미엄내고도광고봐야하나\"…쇼츠'쇼핑스티커'불공정...",
-  "\"신사정정국왔다\"…중수청장국무회의참석에\"중립성침해우려에도...",
-  "친청계\"'신천지'조사결과신속공개해야…입증못하면주장자책임\"",
   "불공정조달행위'엄단'...조달청,담합·규격위반34개사87억환수",
   "'친환경'종이빨대의'배신'...플라스틱보다발암위험6배높았다",
   "\"휴대전화'개통하면환불불가'안내여전…공정위가청약철회방해점...",
@@ -6001,7 +5996,12 @@
   "셀트리온,하청잘못없는데코로나키트3717만개'일방취소'…과징금...",
   "[위클리오늘]전직경찰관,보이스피싱범죄수익208억원세탁…1심징...",
   "\"17년간출근안하고월급만\"…사기혐의로기소된獨교사",
-  "차석호함안군수,당원가입관여의혹경찰조사"
+  "차석호함안군수,당원가입관여의혹경찰조사",
+  "셀트리온,공정위과징금6.3억불복…휴마시스와‘납기갈등’법정으...",
+  "셀트리온,휴마시스진단키트과징금6.3억원에행정소송",
+  "[칼럼]100만어린이의응급실,누가지킬것인가",
+  "아주대병원찾는경찰고위간부…소아응급사태수습될까",
+  "소아응급실압수수색논란…경찰고위간부들,병원찾는다"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T12:20:55.682089+09:00",
+ "last_run": "2026-10-29T12:31:05.996369+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
