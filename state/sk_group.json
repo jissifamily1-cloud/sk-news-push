@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076772",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5227494",
-  "https://www.hankookilbo.com/news/article/A2026102807510002504?did=NA",
-  "https://www.yna.co.kr/view/AKR20261028028051527?input=1195m",
-  "https://www.hankyung.com/article/2026102894967",
-  "https://www.edaily.co.kr/News/Read?newsId=02938886645617512&mediaCodeNo=257",
-  "http://www.inews24.com/view/2019678",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280024&t=NN",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729411",
-  "https://biz.heraldcorp.com/article/10916983",
-  "https://www.newsis.com/view/NISX20261028_0003843952",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441498",
   "https://www.news1.kr/photos/8182877",
   "https://www.khan.co.kr/article/202610280838001",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441494",
@@ -2999,21 +2987,21 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=877661",
   "https://www.newsis.com/view/NISX20261029_0003846470",
   "https://www.gukjenews.com/news/articleView.html?idxno=3736339",
-  "https://www.dt.co.kr/article/12092072"
+  "https://www.dt.co.kr/article/12092072",
+  "https://www.starnewskorea.com/sports/2026/10/29/2026102913332647027",
+  "https://www.hani.co.kr/arti/economy/marketing/1284506.html",
+  "https://biz.sbs.co.kr/article_hub/20000342898?division=NAVER",
+  "https://news.tf.co.kr/read/economy/2382396.htm",
+  "https://www.g-enews.com/view.php?ud=202610291332438678153ddfb15a_1",
+  "https://www.cstimes.com/news/articleView.html?idxno=725819",
+  "https://www.news2day.co.kr/article/20261029500194",
+  "https://www.goodkyung.com/news/articleView.html?idxno=292900",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441924",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441926",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557409",
+  "https://biz.sbs.co.kr/article_hub/20000342897?division=NAVER"
  ],
  "seen_titles": [
-  "[증시전망대]하이닉스50조∼60조주주환원기대…코스피반등세이어...",
-  "삼전닉스3%상승…유가하락·앤트로픽발훈풍지속[줍줍리포트]",
-  "美AI반도체강세·SK하이닉스실적기대…삼전닉스프리마켓2~3%↑",
-  "이재용,올해주식4조9524억원순취득⋯대기업오너일가1위",
-  "\"15분완충시대열린다\"…글로벌4C초고속배터리셀,2035년205억달...",
-  "[증시전망]삼성전자·SK하이닉스상승세이어갈까",
-  "Solidigmfloats$45billionU.S.chipplanttiedtoDalianlicense:Blo",
-  "페로타임즈손바닥뉴스10월28일(수)",
-  "[모닝리포트]\"뉴파워프라즈마,해외매출확대·자회사성장동반\"",
-  "\"삼성전자,메모리10년계약시대온다…기업가치재평가기대\"",
-  "[속보]SK하이닉스,60조원대규모추가주주환원발표",
-  "[오늘의신문]AI반도체반등에코스피3%상승…국민소득4만달러시...",
   "삼성이재용,올해주식5조취득'1위'…홍라희,8조처분",
   "[속보]하이닉스,3분기영업이익83조‘어닝서프라이즈’",
   "SK온,ESS美대형화재시험통과⋯안전성입증",
@@ -6001,29 +5989,21 @@
   "삼성110조vs하이닉스100조…반도체'주주환원전쟁'",
   "300회맞는박수영민원행사'국쫌만…888건해결",
   "박수영의원'국쫌만'300회…민원888건해결",
-  "레이크머티리얼즈,‘소부장으뜸기업’정…반도체‘Q의시대’선단..."
+  "레이크머티리얼즈,‘소부장으뜸기업’정…반도체‘Q의시대’선단...",
+  "'이경현등유럽파4명합류'U-19대표팀,11월판다컵·12월SBS컵연속...",
+  "SK하이닉스,3분기영업이익83조‘어닝서프라이즈’",
+  "[시장따라잡기]FOMC소화한미국증시…빅테크실적·PCE주목",
+  "개보위,'개인정보유출'대교등에과징금38억8500만원부과",
+  "노무라,SK하이닉스목표가470만원…자사주소각효과주목",
+  "SK이노,3분기영업익3조7043억…정유·윤활유동반호조",
+  "SK이노,정유·윤활유쌍끌이로역대최대...배터리는적자(상보)",
+  "유니코써치CEO분석…SKY30%회복에도서울대비중7년째하락",
+  "삼성·SK하이닉스나란히HBM'완판'…메모리슈퍼사이클장기화하나",
+  "인텔,내일실적발표…데이터센터CPU수요확대·파운드리반등시험...",
+  "[경제를부탁해]삼전닉스주주들얼마나받나?",
+  "[직설]코스피,확실하게반등기회잡았나?"
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T07:31:15.212097+09:00",
-   "수질개선하라 삼성전자 행정지도 경기도 세번째 SK하이닉승에 방류수"
-  ],
-  [
-   "2026-10-29T07:31:15.212097+09:00",
-   "With Keeps Target Outperform at Wolfe hynix Price"
-  ],
-  [
-   "2026-10-29T07:31:15.212097+09:00",
-   "SSG닷컴 100여종 화장품 쓱데이 반값 명품 과일박스부터"
-  ],
-  [
-   "2026-10-29T07:31:15.212097+09:00",
-   "국내외 경제뉴스 알아야"
-  ],
-  [
-   "2026-10-29T07:31:15.212097+09:00",
-   "논의 투자 가능성 SK이노베이션 크로아티아 경제장관과"
-  ],
   [
    "2026-10-29T07:41:03.527912+09:00",
    "일본과 최태원 경제공동체 합치면 GDP 구상 한일 달러 6조"
@@ -7131,9 +7111,21 @@
   [
    "2026-10-29T13:31:14.965066+09:00",
    "소부장 레이크머티리얼즈 으뜸기업 선단 반도체 시대 Q의"
+  ],
+  [
+   "2026-10-29T13:41:02.601894+09:00",
+   "수요 실적 데이터센터 발표 CPU 파운드리 시험 인텔 반등 확대"
+  ],
+  [
+   "2026-10-29T13:41:02.601894+09:00",
+   "얼마나 받나 주주들 삼전닉스"
+  ],
+  [
+   "2026-10-29T13:41:02.601894+09:00",
+   "코스피 기회 반등 잡았나 확실하게"
   ]
  ],
- "last_run": "2026-10-29T13:31:21.021059+09:00",
+ "last_run": "2026-10-29T13:41:14.164661+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
