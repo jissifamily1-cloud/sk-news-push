@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mkhealth.co.kr/news/articleView.html?idxno=80644",
-  "https://www.chosun.com/economy/tech_it/2026/10/28/M74TP5MOWVHJLICSTBQ7HYODSE/",
-  "https://www.g-enews.com/view.php?ud=202610281534095516923c501012_1",
-  "https://www.fnnews.com/news/202610281507251157",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039098",
-  "https://www.fnnews.com/news/202610261516362283",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145852",
   "https://www.ziksir.com/news/articleView.html?idxno=151061",
   "https://www.m-i.kr/news/articleView.html?idxno=2011470",
   "https://www.viva100.com/article/20261028501271",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261029_0003847042",
   "https://it.chosun.com/news/articleView.html?idxno=2023092173094",
   "https://www.ftimes.kr/news/articleView.html?idxno=40752",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499845"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499845",
+  "https://www.sedaily.com/article/20108097",
+  "https://www.slist.kr/news/articleView.html?idxno=777582",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6861848_37012.html",
+  "https://www.medicopharma.co.kr/news/articleView.html?idxno=70112",
+  "https://www.greened.kr/news/articleView.html?idxno=353452",
+  "https://www.dailian.co.kr/news/view/1708353/?sc=Naver",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=304875"
  ],
  "seen_titles": [
-  "전남광주통합특별시장“전남광주,‘RE100산업수도’로도약”",
-  "키옥시아수익은주주에게…솔리다임상장철회가남긴질문",
-  "동아에스티,도입신약효과'톡톡'…자체신약성과지속성장관건",
-  "AI시대에돌아온자기테이프",
-  "AI수익성우려털어낸반도체랠리…코스닥소부장도'온기'",
-  "83조실적에'지속성'더했다…100조환원에SK하이닉스반등",
-  "[사설]지자체들하천관리더욱신경써야",
   "ETF상장'암묵적할당'하는데…거래소4년7개월만에1명보강",
   "삼성·SK·현대차·LG2027년인사'설(說)'…판흔들기보다실속·기술...",
   "3분기190조역대급실적삼성·SK하이닉스…호황장기화관건은",
@@ -6001,7 +5994,14 @@
   "올해합산영업익640조눈앞삼전·닉스…최대210조'빅테크급'주주환...",
   "5GSA상용화예고…속도·요금뭐가달라지나",
   "'아시안게임금빛환호코트로잇는다'2026-2027H리그미디어데이…\"경...",
-  "코스피·코스닥전거래일(29일)주요공시는...메디포스트\"美종속회사..."
+  "코스피·코스닥전거래일(29일)주요공시는...메디포스트\"美종속회사...",
+  "메모리공급난이정도인줄은...PC사업부진에인텔주가급락[마켓무...",
+  "뉴욕증시,AI투자우려재점화에일제히하락...알파벳13%↓",
+  "최고실적에도주주환원은글쎄‥주가급락",
+  "SK바이오팜'세노바메이트',中제네릭10여개진입예고",
+  "최태원SK그룹회장,11월5일서울대경제학부특강...AI시대시장경제...",
+  "TK로날아든여섯개청구서…대통령이답하라[기자수첩-정치]",
+  "정부'경유수출제한'조건부완화...11월시행"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,25 @@
   [
    "2026-10-30T06:41:01.771234+09:00",
    "메디포스트 코스피 29일 거래일 종속회사 코스닥 주요공시는"
+  ],
+  [
+   "2026-10-30T06:51:07.027957+09:00",
+   "10여개 제네릭 예고 진입 SK바이오팜 세노바메이트"
+  ],
+  [
+   "2026-10-30T06:51:07.027957+09:00",
+   "서울대 11월 시장경제 회장 특강 SK그룹 5일 경제학부 AI시대 최태원"
+  ],
+  [
+   "2026-10-30T06:51:07.027957+09:00",
+   "여섯 답하라 TK로 날아든 청구서 대통령이"
+  ],
+  [
+   "2026-10-30T06:51:07.027957+09:00",
+   "시행 완화 수출 제한 11월 경유 정부 조건부"
   ]
  ],
- "last_run": "2026-10-30T06:41:26.017858+09:00",
+ "last_run": "2026-10-30T06:51:20.306679+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
