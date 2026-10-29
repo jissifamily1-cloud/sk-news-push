@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1168522",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450103",
-  "http://www.breaknews.com/1245164",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556461",
-  "https://www.mt.co.kr/society/2026/10/23/2026102309025171801",
-  "https://theviewers.co.kr/View.aspx?No=4275852",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172496",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303282",
   "https://www.mt.co.kr/economy/2026/10/23/2026102308280918979",
@@ -2999,15 +2993,15 @@
   "https://www.daejonilbo.com/news/articleView.html?idxno=2310353",
   "https://www.hankyung.com/article/2026102947097",
   "https://www.joongboo.com/news/articleView.html?idxno=363740958",
-  "https://www.medigatenews.com/news/2495336669"
+  "https://www.medigatenews.com/news/2495336669",
+  "https://www.segye.com/newsView/20261029517795?OutUrl=naver",
+  "https://realty.chosun.com/site/data/html_dir/2026/10/29/2026102902603.html",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=942052",
+  "http://www.newsmp.com/news/articleView.html?idxno=259006",
+  "https://www.kukinews.com/article/view/kuk202610290188",
+  "https://www.sedaily.com/article/20107972"
  ],
  "seen_titles": [
-  "[건강꿀팁]코세척은'생리식염수'로하세요,직접만들땐물부터끓여...",
-  "이마트가을캠핑용품최대30%할인,전기요·가습기등가전특가행사...",
-  "송명수의원\"아파트관리비시장연33조..전산시스템특정업체독과점...",
-  "‘한동훈딸수사무마의혹’서울청광수대배당…고발인조사예정",
-  "한동훈'딸수사무마의혹'서울청광수대배당…27일고발인조사",
-  "[유통갤러리]바디프랜드,‘이사하면구매하고싶은가전’1위선정外",
   "이마트,가을맞이'캠핑·피크닉필수템할인'...기대효과는?",
   "이사시즌,헬스케어로봇·마사지체어구매1위…20대부터60대까지선호",
   "상조회사'선수금운용지침'시행…선수금1000억이상'운용심의委'설...",
@@ -6001,10 +5995,16 @@
   "충북경찰,신용한충북지사측근2명구속영장신청",
   "'귀신퇴치'장애친동생상습학대…사망케한부부'중형'",
   "[사설]결국아주대병원찾아사과한경찰지휘부",
-  "경찰,아주대병원찾아압수수색유감표명…사태수습될까"
+  "경찰,아주대병원찾아압수수색유감표명…사태수습될까",
+  "신세계,롯데百부산센텀시티점인수",
+  "\"목동재건축홀수단지는S사,짝수는H사?\"공정위,건설사담합정조...",
+  "압수수색논란경찰,29일의료진에'유감'표명",
+  "아주대소아응급사태일파만파,의협경찰청앞릴레이시위결정",
+  "아주대병원압수수색후폭풍…소아응급의료진이탈에쌓인불안",
+  "군인피고인방어권강화된다…軍형사사법체계,일반형사사법체계와..."
  ],
  "recent_sigs": [],
- "last_run": "2026-10-30T06:01:16.539450+09:00",
+ "last_run": "2026-10-30T06:11:00.988647+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
