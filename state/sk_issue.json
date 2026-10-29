@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ktv.go.kr/content/view?content_id=762833",
-  "https://www.newsis.com/view/NISX20261022_0003837456",
-  "https://www.nocutnews.co.kr/news/6595710",
-  "https://www.joongang.co.kr/article/25472152",
-  "https://www.donga.com/news/Politics/article/all/20261023/134893415/2",
   "http://www.koreatimes.com/article/1634812",
   "https://www.news1.kr/world/usa-canada/6329294",
   "https://www.chosun.com/politics/assembly/2026/10/23/VWXNMI3I2FADFCCI4HA67OGGAM/",
@@ -2999,14 +2994,14 @@
   "https://biz.sbs.co.kr/article_hub/20000343141?division=NAVER",
   "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261029513&PRO_CODE=99",
   "https://imnews.imbc.com/news/2026/society/article/6861742_36918.html",
-  "https://www.mt.co.kr/society/2026/10/29/2026102919165993997"
+  "https://www.mt.co.kr/society/2026/10/29/2026102919165993997",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699007",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699008",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698999",
+  "https://www.chosun.com/national/welfare-medical/2026/10/29/ASN4EZMVGFBUHMLRMNBCYRJLYU/",
+  "https://imnews.imbc.com/news/2026/society/article/6861745_36918.html"
  ],
  "seen_titles": [
-  "AI기술없는'AI제품'···과장광고기준마련",
-  "중수청→선관위특검추가파견'0명'…오늘청장면담서뚫릴까",
-  "[단독]한동훈'딸수사무마의혹'광수대배당…27일고발인조사",
-  "특별감찰관10년만에부활…청문보고서만장일치로채택",
-  "특감10년만에재가동…“대통령측근견제”vs“비서관제외한계”",
   "스태튼아일랜드한인데이케어모녀업주체포",
   "美민주당버지니아주의원,마약유통·돈세탁혐의기소…가족도연루",
   "여야,최길수특별감찰관청문보고서채택",
@@ -6001,7 +5996,12 @@
   "셀트리온,공정위과징금6억3천만원불복…행정소송제기",
   "'소아응급실압수수색'경찰간부들아주대병원방문",
   "경찰,'불법리베이트의혹'대웅제약지주사압수수색",
-  "병원수백곳에리베이트의혹…경찰,대웅제약지주사압수수색"
+  "병원수백곳에리베이트의혹…경찰,대웅제약지주사압수수색",
+  "‘가상자산신고누락’…경찰,유정복전인천시장송치",
+  "이종석,‘탈북어민강제북송’질문에“돌려보내는게맞아”",
+  "소아응급전문의무더기사의…경찰,병원장비공개면담",
+  "국감선사과거부하던경찰,전문의7명집단사의에‘죄송하다’",
+  "'응급실압수수색'논란에경찰지휘부,아주대병원방문해비공식면담"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "저울을 빼앗기고 명분에 이제 없는 개혁 걱정한다"
   ]
  ],
- "last_run": "2026-10-29T19:31:08.169578+09:00",
+ "last_run": "2026-10-29T19:40:54.501434+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
