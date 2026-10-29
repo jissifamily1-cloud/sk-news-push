@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261022000364",
-  "https://www.newspim.com/news/view/20261022000326",
-  "https://www.kukinews.com/article/view/kuk202610220022",
-  "https://news.tf.co.kr/read/national/2379338.htm",
-  "https://www.lawissue.co.kr/view.php?ud=2026102210144283029a8c8bf58f_12",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4113931",
   "https://lawtalknews.co.kr/article/ZM8ZK8Z0493R",
   "https://view.asiae.co.kr/article/2026102210260212232",
   "https://www.theguru.co.kr/news/article.html?no=108634",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20261029_0003846467",
   "https://www.newsis.com/view/NISX20261029_0003846367",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=621752",
-  "https://www.kpanews.co.kr/news/articleView.html?idxno=547620"
+  "https://www.kpanews.co.kr/news/articleView.html?idxno=547620",
+  "https://www.widedaily.com/news/articleView.html?idxno=302480",
+  "http://www.newsprime.co.kr/news/article.html?no=752925",
+  "https://dealsite.co.kr/articles/171629",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441927",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130434",
+  "https://gg.newdaily.co.kr/site/data/html/2026/10/29/2026102900198.html"
  ],
  "seen_titles": [
-  "단순타이머인데'AI딥러닝'?…공정위,'AI워싱'가이드라인만든다",
-  "[2026국감]렌터카비1406만원청구에455만원지급…공정위,대차료약...",
-  "공정위,‘AI워싱’·허위광고판단기준제시…내달11일까지의견수...",
-  "투자사기로3억6천뜯어BMW·캐딜락구매…해외빼돌리려다덜미",
-  "주식투자리딩피해금건네받아구입한외제차량을수출하려한자금세...",
-  "선관위특검,노태악압수수색...조사받은선관위직원숨져",
   "경찰의토렌트조사및컴퓨터확인요청,어디까지동의해야할까",
   "AI기술안썼는데AI제품?…'AI워싱'잡을가이드라인의견청취",
   "배민품는우버,런던블랙캡6000억손배소송승소…사법리스크털어...",
@@ -6001,7 +5995,13 @@
   "경찰,차석호함안군수피의자조사…\"입당관여의혹\"",
   "셀트리온,코로나진단키트3717만개위탁임의취소…과징금6.3억",
   "﻿'라면가격'담합의혹…공정위,농심·오뚜기·삼양·팔도전격현장...",
-  "\"반복담합사업자영업정지가능해진다\"약사법개정안발의"
+  "\"반복담합사업자영업정지가능해진다\"약사법개정안발의",
+  "셀트리온,코로나진단키트3700만개일방적계약취소…공정위과징금...",
+  "셀트리온,공정위과징금6.3억원불복…행정소송제기",
+  "공정위,셀트리온에과징금6.3억…진단키트위탁취소제재",
+  "셀트리온,공정위진단키트제재에행정소송…\"납기지연피해입었다\"...",
+  "[국감워치]취약계층보호망곳곳구멍...환자·장애인·영아모두사각...",
+  "국민의힘경기도당·경기도의사회,이재명정부의료정책전면재검토..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T13:40:55.071880+09:00",
+ "last_run": "2026-10-29T13:50:57.721924+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
