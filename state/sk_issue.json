@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tfmedia.co.kr/news/article.html?no=208273",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=746596",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105190",
-  "https://news.tf.co.kr/read/economy/2379650.htm",
-  "https://www.ajunews.com/view/20261022180247433",
-  "https://www.hani.co.kr/arti/economy/economy_general/1283714.html",
-  "https://www.sentv.co.kr/article/view/sentv202610220168",
-  "https://www.hani.co.kr/arti/society/society_general/1283711.html",
   "https://www.newsis.com/view/NISX20261022_0003837535",
   "https://www.segye.com/newsView/20261022520103?OutUrl=naver",
   "https://www.munhwa.com/article/11625535",
@@ -2999,17 +2991,17 @@
   "https://www.ppss.kr/news/articleView.html?idxno=317870",
   "https://www.hankyung.com/article/2026102944111",
   "https://www.ytn.co.kr/_ln/0103_202610291741324755",
-  "https://www.yna.co.kr/view/AKR20261029187300004?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261029187300004?input=1195m",
+  "https://www.dt.co.kr/article/12092188",
+  "https://www.sidae.com/article/2026102913281539616",
+  "https://www.dt.co.kr/article/12092186",
+  "https://www.newsis.com/view/NISX20261029_0003847250",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261030010010692",
+  "https://biz.heraldcorp.com/article/10919666",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450705",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900403.html"
  ],
  "seen_titles": [
-  "국세청,신세계면세점특별세무조사…총수친인척여행사부당지원검증...",
-  "6.3지방선거공소시효40여일앞,전남광주단체장수사방향은?",
-  "선관위투표자수허위입력36곳으로…충남논산도포함",
-  "'관용없다'던노동부…9개월쿠팡감독,핵심의혹'불기소·위반없음...",
-  "\"조사끝내달라했지만계속\"…숨진선관위직원변호인,특검해명반박",
-  "[단독]쿠팡만발주일방취소가능…“납품사에불리한계약”",
-  "과방위,엑스‘불법게시물’방치질타…구글수수료도도마에",
-  "‘쿠팡블랙리스트'공익제보자송치되는동안…쿠팡수사는2년째뒷전",
   "공소청국감'정치수사'공방…與\"검찰조작기소\"野\"李공소취소압...",
   "‘AI생성의사’표시없이쓰면거짓·과장광고[뉴스투데이]",
   "“재벌이대한민국착취”결국고개숙인공정위원장",
@@ -6001,7 +5993,15 @@
   "증권선물위원회,유상증자미공개정보이용자적발...12억5000만원부당...",
   "아주대병원집단사의에,경찰간부들병원찾았다",
   "\"응급실압수수색은최초\"...의협,경찰사과요구",
-  "경찰,강호동농협중앙회장3차조사…뇌물혐의저울질"
+  "경찰,강호동농협중앙회장3차조사…뇌물혐의저울질",
+  "대기업계열사채무보증2000억…1년새4배",
+  "공정위라면4사조사…업계\"가격움직임유사해도담합은아냐\"",
+  "진단키트3717만개일방취소…셀트리온과징금6.3억",
+  "셀트리온,공정위과징금불복…\"행정소송진행\"",
+  "\"한미동맹흔들리고법치무너져\"…野,외교·사법공세고삐",
+  "경찰,강호동농협중앙회장3차소환…1억대금품수수의혹수사[세상...",
+  "빗썸침해사고로고객개인정보유출확인,'사택지원금사적유용'압수...",
+  "경찰고위간부면담에도'소아응급실후폭풍'…의협회장1인시위"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "저울을 빼앗기고 명분에 이제 없는 개혁 걱정한다"
   ]
  ],
- "last_run": "2026-10-29T17:51:01.671982+09:00",
+ "last_run": "2026-10-29T18:01:15.729587+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
