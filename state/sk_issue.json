@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=242395",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277795&CMPT_CD=P0010",
-  "https://www.newspim.com/news/view/20261022001351",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226561",
-  "https://www.segye.com/newsView/20261022514650?OutUrl=naver",
-  "https://www.donga.com/news/Politics/article/all/20261022/134892500/1",
-  "https://www.news1.kr/society/court-prosecution/6329159",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075052",
   "https://www.tfmedia.co.kr/news/article.html?no=208273",
   "https://www.polinews.co.kr/news/articleView.html?idxno=746596",
   "https://www.tjb.co.kr/news05/bodo/view/id/105190",
@@ -2999,17 +2991,17 @@
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193950",
   "http://www.yonhapnewstv.co.kr/news/AKR20261029173830mTp",
   "https://www.nocutnews.co.kr/news/6599419",
-  "https://www.fnnews.com/news/202610291723160824"
+  "https://www.fnnews.com/news/202610291723160824",
+  "https://www.smartbizn.com/news/articleView.html?idxno=157947",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010644",
+  "https://news.tf.co.kr/read/life/2382703.htm",
+  "https://www.kmib.co.kr/article/20261029502018",
+  "https://www.ppss.kr/news/articleView.html?idxno=317870",
+  "https://www.hankyung.com/article/2026102944111",
+  "https://www.ytn.co.kr/_ln/0103_202610291741324755",
+  "https://www.yna.co.kr/view/AKR20261029187300004?input=1195m"
  ],
  "seen_titles": [
-  "[국감]구글\"개발사97%수수료안내\"…X불법정보대응도마",
-  "민주당여주·양평\"'양평군수관급공사금품수수의혹'철저수사\"촉구",
-  "[종합]노동부\"쿠팡산재은폐의혹불기소\"…노동계\"면죄부줬다\"비판",
-  "특검,'지방선거투표율조작'시군구6곳추가확인",
-  "‘관급자재납품개입혐의’전안동시소통비서관,징역10년구형",
-  "“檢,文수사정상이냐”질의에…공소청장대행“뼈발라내는수사”",
-  "사망선관위직원측\"특검,짜맞추기·먼지떨기식수사\"(종합)",
-  "[2026국감-산업부종감]정유4사사장없었지만…공정위제재·형사재판...",
   "국세청,신세계면세점특별세무조사…총수친인척여행사부당지원검증...",
   "6.3지방선거공소시효40여일앞,전남광주단체장수사방향은?",
   "선관위투표자수허위입력36곳으로…충남논산도포함",
@@ -6001,7 +5993,15 @@
   "사전통제냐자율규제냐…빅테크로향하는정무위칼끝",
   "의협\"응급실압수수색,건국이래최초\"…경찰에재차사과촉구",
   "의협\"응급실압수수색건국이래처음\"…경찰에사과요구",
-  "강호동농협중앙회장,10일만에경찰재출석…세번째소환"
+  "강호동농협중앙회장,10일만에경찰재출석…세번째소환",
+  "셀트리온,공정위과징금6억3000만제재에반발…행정소송추진",
+  "'66만아이들어쩌나'…아주대소아전문의7명사의표명파장",
+  "'올공'넘은선관위특검수사갈길먼데…인력난에발목",
+  "“귀신쫓겠다”…친동생때려숨지게한부부",
+  "증권선물위원회,유상증자미공개정보이용자적발...12억5000만원부당...",
+  "아주대병원집단사의에,경찰간부들병원찾았다",
+  "\"응급실압수수색은최초\"...의협,경찰사과요구",
+  "경찰,강호동농협중앙회장3차조사…뇌물혐의저울질"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "저울을 빼앗기고 명분에 이제 없는 개혁 걱정한다"
   ]
  ],
- "last_run": "2026-10-29T17:40:56.293974+09:00",
+ "last_run": "2026-10-29T17:51:01.671982+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
