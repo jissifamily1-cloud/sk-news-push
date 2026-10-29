@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000342386?division=NAVER",
-  "https://www.newsis.com/view/NISX20261027_0003843608",
-  "https://www.kmib.co.kr/article/20261027501995",
-  "https://www.dkilbo.com/news/articleView.html?idxno=558683",
-  "https://www.koreajoongangdaily.com/business/musk-warned-of-a-chip-glut-from-china-in-2028-but-experts-arent-so-sure/12939507",
-  "https://www.kmib.co.kr/article/20261027501974",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1107410",
   "http://www.00news.co.kr/news/articleView.html?idxno=107520",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696557",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20261029046800008?input=1195m",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=283219",
   "https://www.gukjenews.com/news/articleView.html?idxno=3736008",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499530"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499530",
+  "https://www.hani.co.kr/arti/opinion/editorial/1284436.html",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1419548",
+  "https://view.asiae.co.kr/article/2026102909203350084",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=283210",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290034&t=NN",
+  "https://en.yna.co.kr/view/AEN20261029001651320?input=2106m"
  ],
  "seen_titles": [
-  "앤트로픽훈풍에코스피3%상승…5,600회복",
-  "AI훈풍에반등한증시...코스피,3%대상승마감",
-  "애플도,대만도\"못줘\"…콧대높아진中메모리",
-  "과방위,조희대휴대전화교체내역조회…與황정아\"적법한자료\"",
-  "AG女핸드볼금메달열기,국내서이어간다...4연패노리는SK‘1강’...",
-  "[웜업터뷰]5연패탈출노리는KCC…이상민감독\"지난경기는생각하지...",
   "이승민,日장애인오픈골프선수권종합우승…김선영여자부정상",
   "울산대,SK에'현장형캠퍼스'개소..3대주력산업완성",
   "“삼전닉스물타기서두르지마라”…코스피반등의조건은",
@@ -6001,7 +5995,13 @@
   "[특징주]삼전,3분기실적발표앞두고강보합…닉스3%대상승",
   "국내최초'스테인리스직수관도입'SK매직,정수기위생요령밝혔다",
   "코스피6000선안착개장…SK하이닉스3.7%급등·삼성전자상승",
-  "전력효율극대화필수재로떠오른전력반도체…대형주중심으로외국..."
+  "전력효율극대화필수재로떠오른전력반도체…대형주중심으로외국...",
+  "[사설]3분기1%깜짝성장,경제선순환정책속도를",
+  "SK바이오사이언스,美분디부교에볼라백신개발·생산프로젝트합류",
+  "[포토]코스피6000선강보합세?SK하이닉스3%대상승",
+  "LG전자,'경쟁사위기'를기회로…공조사업성장가능성무게",
+  "'하닉개미'드디어웃나...\"사이클더간다\"일부목표가↑",
+  "(LEAD)SeoulstocksopentadhigherasFedholdsratesaheadofSamsunge"
  ],
  "recent_sigs": [
   [
@@ -6699,9 +6699,17 @@
   [
    "2026-10-29T09:21:05.014032+09:00",
    "떠오른 전력반도체 효율 필수재로 극대화 전력 중심으로 외국 대형주"
+  ],
+  [
+   "2026-10-29T09:23:50.109452+09:00",
+   "하닉 목표가 드디어 웃나 간다 개미 일부 사이클"
+  ],
+  [
+   "2026-10-29T09:23:50.109452+09:00",
+   "of Seoul stocks Samsung higher rates LEAD ahead open as Fed tad holds"
   ]
  ],
- "last_run": "2026-10-29T09:21:10.607241+09:00",
+ "last_run": "2026-10-29T09:23:58.457271+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
