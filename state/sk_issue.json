@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=577888&class=32",
-  "https://www.joongang.co.kr/article/25471698",
-  "https://www.kmib.co.kr/article/20261021502392",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808925&plink=ORI&cooper=NAVER",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014661",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6859720_37004.html",
-  "https://www.news2day.co.kr/article/20261021500344",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054221",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054223",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054225",
   "https://www.newsis.com/view/NISX20261021_0003835807",
   "https://www.segye.com/newsView/20261021515886?OutUrl=naver",
   "https://www.esgeconomy.com/news/articleView.html?idxno=17016",
@@ -2999,19 +2989,19 @@
   "https://news.tf.co.kr/read/national/2382166.htm",
   "http://www.intn.co.kr/news/articleView.html?idxno=2054374",
   "https://www.news1.kr/local/incheon/6335893",
-  "https://www.medigatenews.com/news/2832464008"
+  "https://www.medigatenews.com/news/2832464008",
+  "https://www.gokorea.kr/news/articleView.html?idxno=882890",
+  "http://www.bizwnews.com/news/articleView.html?idxno=150294",
+  "http://www.bizwnews.com/news/articleView.html?idxno=150291",
+  "https://www.raonnews.com/news/article.html?no=62304",
+  "https://www.yna.co.kr/view/AKR20261029063200002?input=1195m",
+  "https://view.asiae.co.kr/article/2026102909402124118",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574041969485",
+  "https://n.news.naver.com/mnews/article/214/0001532148",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107562",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5227781"
  ],
  "seen_titles": [
-  "특검조사받은선관위직원숨져…선관위“수사로극심한심리적부담...",
-  "‘비타민’이라며노동자에납배출주사…DN오토모티브압수수색",
-  "‘비타민주사’라더니납배출용?…경찰,DN오토모티브압수수색",
-  "노태악자택첫압수수색…선관위직원숨져",
-  "\"용돈좀보내줘,계좌알려줄게\"충격녹취공개…'국회서고성'축구협...",
-  "대법\"당사자참여보장안한MBC기자압수수색,중대위법\"",
-  "[2026국감]정연욱의원,학생선수집단성폭력징계지연질타...체육...",
-  "공정위미국기업과징금차별논란일축\"관련매출액기준법집행\"",
-  "\"의료기기간납사불공정거래,건강보험재정위협하는고질적인적폐\"",
-  "김형연의원,한화'공정위현장조사정보유출의혹'정조준",
   "DN오토모티브'납배출주사의혹'경찰압수수색",
   "누런콧물·코막힘오래간다면코감기아닌‘부비동염’을의심해야",
   "[해외브리핑]글로벌은행,열대림파괴연루기업대출5년간800조원",
@@ -6001,7 +5991,17 @@
   "장윤기부친\"증거인멸의도없었다\"…경찰수사편의제공은인정",
   "공정위는법과원칙따라독립적·중립적심의·의결하고있으며,이에...",
   "'1140억피해'인천쿠팡물류센터화재수사종결…범죄혐의점없어",
-  "소아응급실'도미노'붕괴우려한이주영…\"아이들갈곳이없습니다\""
+  "소아응급실'도미노'붕괴우려한이주영…\"아이들갈곳이없습니다\"",
+  "가습기고르는법,초음파식과가열식차이는",
+  "[캐시워크종합]10월29일목요일오전10시현재출제되고있는모든...",
+  "KB페이(KBPay)'리브메이트',10월29일목요일자'오늘의퀴즈'정답...",
+  "[칼럼]사회공헌실적2조원넘긴은행권…’소셜워싱'지적받은까닭",
+  "주요대기업채무보증2천억원…신규지정등에300%넘게늘어",
+  "상호출자제한기업집단,채무보증금액2000억원…전년대비325%증가",
+  "계룡건설·이수건설등6개사,LH입찰담합조사선상…공정위현장조사",
+  "[시선집중]의협“아주대병원환아사망,원인분석없이살인죄다루...",
+  "146일막힌'올공'...투표지반출로새국면",
+  "'인천쿠팡화재'원인도,책임자도못찾았다…입건자없이종결"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "유가 줄타기 담합 사이 스프레드와"
   ]
  ],
- "last_run": "2026-10-29T09:50:54.820333+09:00",
+ "last_run": "2026-10-29T10:01:15.001745+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
