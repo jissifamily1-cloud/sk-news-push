@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.koreanbar.or.kr/news/articleView.html?idxno=36251",
-  "https://www.kbmaeil.com/article/20261022500768",
-  "https://www.ngetnews.com/news/articleView.html?idxno=554983",
-  "http://news.ebs.co.kr/ebsnews/allView/60782233/N",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261023.22006006679",
-  "https://www.yna.co.kr/view/AKR20261022188400004?input=1195m",
   "https://www.newsis.com/view/NISX20261022_0003837501",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692712",
   "https://www.thepublic.kr/news/articleView.html?idxno=323385",
@@ -2999,15 +2993,15 @@
   "https://www.kado.net/news/articleView.html?idxno=2081474",
   "https://www.news1.kr/society/incident-accident/6336962",
   "https://www.sidae.com/article/2026102912205021707",
-  "https://www.wikitree.co.kr/articles/1170271"
+  "https://www.wikitree.co.kr/articles/1170271",
+  "https://www.ziksir.com/news/articleView.html?idxno=151323",
+  "https://www.bloter.net/news/articleView.html?idxno=677185",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=228560",
+  "https://www.fnnews.com/news/202610291812389864",
+  "https://www.yna.co.kr/view/AKR20261029193900004?input=1195m",
+  "https://www.newsis.com/view/NISX20261029_0003847079"
  ],
  "seen_titles": [
-  "반복담합기업제재강화…한창민의원,'공정거래법개정안'발의",
-  "전국법원전산망장애…대구지법·고법도접속차질",
-  "SK에너지·HD현대오일뱅크대표,산자위국감증인철회…가격담합추가...",
-  "[청경체]김치·두부값담합의혹,공정위조사의미는",
-  "특검팀,마산합포구선관위등투표자수허위입력6곳추가확인",
-  "대법\"압수수색후증거분석…당사자참여배제하면위법\"",
   "이정현\"李공소취소의'공'도꺼낸적없다…정치검사?동의못해\"(종합...",
   "특검“창원마산합포·회원‘투표자수’허위입력”",
   "\"김혜경법카10만원에수백번압수수색?\"…송영길발언'거짓'판정",
@@ -6001,7 +5995,13 @@
   "경찰,강호동농협중앙회장금품수수혐의3차조사",
   "'교사채용대가2억수수'…'판소리명창'전통예중고전교장구속",
   "응급실들이닥친경찰,꼭그래야만했나",
-  "귀신쫓겠다며장애인동생때린70대형…치료대신'기도'하더니결..."
+  "귀신쫓겠다며장애인동생때린70대형…치료대신'기도'하더니결...",
+  "롯데하이마트\"이른추위에히터·요장판매출40%·70%증가\"",
+  "\"직원휴대폰30시간압수\"…한화,공정위조사위법성법정서따진다",
+  "한화vs공정위자료제출명령취소소송첫변론",
+  "경쟁사점포흡수해확장…부산에초대형'신세계타운'뜬다",
+  "채용비리의혹'판소리명창'前국립전통예술중고교장구속",
+  "'채용대가의혹'전통예중고前교장구속…\"증거인멸·도망염려\"(종합..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "저울을 빼앗기고 명분에 이제 없는 개혁 걱정한다"
   ]
  ],
- "last_run": "2026-10-29T18:10:57.958924+09:00",
+ "last_run": "2026-10-29T18:20:59.581540+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
