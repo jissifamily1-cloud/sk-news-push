@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10913777",
-  "https://www.yna.co.kr/view/AKR20261023109000002?input=1195m",
-  "https://www.newsis.com/view/NISX20261025_0003839784",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610240736352650949",
   "https://www.kukinews.com/article/view/kuk202610230043",
   "https://www.joongang.co.kr/article/25472570",
@@ -2999,12 +2996,12 @@
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100085",
   "https://www.segye.com/newsView/20261030513488?OutUrl=naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20261030211439GMv",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090227.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090227.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090245.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090235.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090233.html"
  ],
  "seen_titles": [
-  "금산분리원칙어긴KPIC코포레이션…공정위,과징금3100만원",
-  "규정어기고금융업체주식소유…KPIC코포레이션,공정위제재",
-  "공정위,KPIC코포레이션에과징금3100만원…금융사주식보유위반",
   "‘금산분리위반’케이피아이씨코포레이션,과징금3100만원",
   "공정위,금융사주식보유한‘케이피아이씨코포레이션’에과징금",
   "[단독]대검이접수하던‘담합리니언시’,중수청도직접받는다",
@@ -6001,7 +5998,10 @@
   "영국도놀랐다...\"손흥민,호날두처럼대표팀분열일으킬수도\"한국축...",
   "‘응급실압수수색논란’정은경,다음주경찰청장직대만난다",
   "복지장관,다음주경찰청과필수의료수사지침논의",
-  "특검,현장검증하루만에선관위압수수색…'장비납품비리'수사속..."
+  "특검,현장검증하루만에선관위압수수색…'장비납품비리'수사속...",
+  "'사전선거운동혐의'양산시정무특보,공소청'구속전면담'앞두고숨...",
+  "의료계,릴레이1인시위등반발확산…경찰,응급실수사가이드라인...",
+  "아주대병원,경찰사과했지만설명미흡했다…소아응급센터장,사표제..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "아침의 주요기사 비즈니스포스트"
   ]
  ],
- "last_run": "2026-10-30T21:20:56.979154+09:00",
+ "last_run": "2026-10-30T21:31:05.562501+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
