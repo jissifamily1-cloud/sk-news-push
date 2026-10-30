@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202610230186",
-  "https://www.newspim.com/news/view/20261023001162",
-  "https://www.ziksir.com/news/articleView.html?idxno=150617",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193674",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193675",
   "https://www.huffingtonpost.kr/article/261498",
   "https://www.dailian.co.kr/news/view/1705519/?sc=Naver",
@@ -2999,13 +2995,13 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=901456",
   "http://www.bokuennews.com/news/article.html?no=286391",
   "https://www.techm.kr/news/articleView.html?idxno=156721",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486578"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486578",
+  "https://www.smartbizn.com/news/articleView.html?idxno=158049",
+  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171532",
+  "https://www.dailian.co.kr/news/view/1708847/?sc=Naver",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240794"
  ],
  "seen_titles": [
-  "이태한선관위특검“서버포렌식만한달넘게걸려”…중수청에수사...",
-  "이태한선관위특검,중수청장예방…\"인력10명파견요청\"",
-  "바디프랜드,이사시구매희망가전조사···헬스케어로봇·마사지체...",
-  "손명수\"연간33조아파트관리비시장,1개업체가71.4%독점\"",
   "'공정위2심제'수술대오르나…국감끝나면개정논의가능성",
   "LG유플러스홍범식'해킹은폐'의혹으로'위약금면제'압박직면:소...",
   "선관위특검,중수청예방…수사인력10명파견요청",
@@ -6001,7 +5997,11 @@
   "'김건희가방선물'김기현1심무죄…부인은벌금형",
   "의협김택우회장,경찰청앞1인시위…\"소아응급압수수색책임져라\"",
   "김기흥국민의힘대변인\"쿠팡홀로400여차례압수수색\"…중국계플랫...",
-  "신뢰흔들리는빗썸···악재'3중고'"
+  "신뢰흔들리는빗썸···악재'3중고'",
+  "롯데렌탈,30년만에롯데품떠났다···TPG에1조3105억원매각완료",
+  "소아응급실압색에의사·환자행동나서\"사과하라\"",
+  "\"응급실강제수사규탄\"…김택우의협회장,경찰청앞1인시위",
+  "[기자수첩]소아응급실덮친두려움의정체는'국가'였다"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
   ]
  ],
- "last_run": "2026-10-30T15:10:54.590186+09:00",
+ "last_run": "2026-10-30T15:20:54.903124+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
