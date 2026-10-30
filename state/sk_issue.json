@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12184232",
-  "https://www.joongangenews.com/news/articleView.html?idxno=557838",
-  "https://news.tf.co.kr/read/life/2380159.htm",
-  "https://www.newsis.com/view/NISX20261023_0003838928",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693661",
-  "http://www.segyebiz.com/newsView/20261023512204?OutUrl=naver",
-  "http://www.wsobi.com/news/articleView.html?idxno=320286",
-  "https://www.jasm.co.kr/news/view/322742/?sc=Naver",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105227",
   "https://www.yna.co.kr/view/AKR20261023124951004?input=1195m",
   "https://www.news1.kr/local/daegu-gyeongbuk/6330197",
   "https://www.fnnews.com/news/202610231608076133",
@@ -2999,18 +2990,18 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228052",
   "https://www.gukjenews.com/news/articleView.html?idxno=3737643",
   "https://www.pennmike.com/news/articleView.html?idxno=130637",
-  "https://www.jbnews.com/news/articleView.html?idxno=1514756"
+  "https://www.jbnews.com/news/articleView.html?idxno=1514756",
+  "https://www.pressian.com/pages/articles/2026102916543228468",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=324308",
+  "https://www.ngonews.kr/news/articleView.html?idxno=241979",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240791",
+  "https://www.vegannews.co.kr/news/article.html?no=398441",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300068&t=NN",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48640",
+  "https://www.hankyung.com/article/202610306095i",
+  "https://www.seoul.co.kr/news/society/2026/10/30/20261030500170?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "1월과세시행또미룰까...거래소시스템미구축속정치권유예압박...",
-  "금융기관해킹사건,경찰계속수사...중수청\"이미상당한진척\"",
-  "선관위특검인력요청에중수청\"지원자파악\"(종합)",
-  "與정청래·친청계'신천지논란'에\"조사내용있는그대로공개하라\"...",
-  "이태한선관위특검“수사과정서유명달리한고인명복빌어”",
-  "가을이사철,새로구매하고싶은가전1위는?",
-  "가전업계,비렉스R7스트레칭모션베드'굿디자인어워드'동상수상·...",
-  "CJ프레시웨이,식자재입찰담합의혹…공정위,현장조사",
-  "'범죄수사난맥'현실화?...경찰과중수청,'해킹사건'핑퐁",
   "이태한선관위특검,중수청예방…\"수사인력10명파견요청\"(종합)",
   "'창고계약특혜의혹'경북·칠곡·포항선관위압수수색…특검수사중",
   "이태한특검,중수청에수사관10명지원요청...'일시적지원'부터",
@@ -6001,7 +5992,16 @@
   "\"필수의료현장은압수수색제한해야\"…아주대센터장도사표",
   "소아응급의료진,병원압수수색계기로수사가이드라인촉구",
   "경찰,'마두로체포항의'주한美대사관앞항의권영국정의당대표등...",
-  "경찰,신용한충북지사불구속송치가닥…선거캠프관계자2명구속영..."
+  "경찰,신용한충북지사불구속송치가닥…선거캠프관계자2명구속영...",
+  "롯데센텀마저품는신세계,부산'유통독주'우려",
+  "'동의'앞세운공정위의막무가내포렌식,'위법조사'가쟁점",
+  "\"경찰사과했지만압수수색경위납득불가\"…아주대소아응급센터장사...",
+  "김택우의협회장경찰청앞1인시위,\"소아응급센터강압적압수수색...",
+  "아주대소아응급센터장사표…압수수색경위에의문",
+  "\"아이살리기도두렵다\"…소아응급의사들의절규,왜나왔나",
+  "IPO앞둔빗썸,'압수수색·개인정보유출'겹악재",
+  "압수·수색영장제시와증명책임,누구에게있을까?[조광희의판례로...",
+  "신용한지사측근2명공직선거법위반구속기로"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
   ]
  ],
- "last_run": "2026-10-30T14:10:57.305776+09:00",
+ "last_run": "2026-10-30T14:20:57.859574+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
