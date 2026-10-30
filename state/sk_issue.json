@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2380116.htm",
-  "https://www.fntimes.com/html/view.php?ud=2026102315461782923defd0cc_18",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=241151",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1417899",
-  "https://www.chosun.com/economy/economy_general/2026/10/23/LPZSV5Q6UNDHTGK4FCLLKDD5LI/",
-  "https://www.ytn.co.kr/_ln/0103_202610231549175093",
-  "https://imnews.imbc.com/replay/2026/nw1400/article/6860241_36974.html",
-  "https://www.ddaily.co.kr/page/view/2026102315560963549",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610211525440480108228",
   "https://www.news1.kr/industry/hotel-tourism/6330155",
   "http://www.yonhapnewstv.co.kr/news/AKR20261023155539ZTu",
   "https://www.ddaily.co.kr/page/view/2026102315432092919",
@@ -2999,18 +2990,18 @@
   "https://www.g-enews.com/view.php?ud=202610301341436477923c501012_1",
   "https://www.newspim.com/news/view/20261029001363",
   "https://www.gukjenews.com/news/articleView.html?idxno=3737598",
-  "https://www.medigatenews.com/news/1443587186"
+  "https://www.medigatenews.com/news/1443587186",
+  "http://www.popcornnews.net/news/articleView.html?idxno=138089",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716883",
+  "https://www.gokorea.kr/news/articleView.html?idxno=883438",
+  "https://www.kyeonggi.com/article/20261030580160",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66786",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090144.html",
+  "https://www.newspim.com/news/view/20261030000739",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=409022",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424694"
  ],
  "seen_titles": [
-  "선관위특검,중수청에수사인력10명요청…포렌식지원도",
-  "공정위,'식자재입찰담합의혹'CJ프레시웨이현장조사착수",
-  "공정위,CJ프레시웨이현장조사…식자재입찰담합의혹부인",
-  "캐피탈사규제완화에…렌터카업계'지각변동'예고",
-  "공정위,CJ프레시웨이현장조사",
-  "이태한특검중수청예방...\"숨진선관위직원명복빌어\"",
-  "[맞수다]'정치자금법'2심무죄직후울먹이는오세훈포착!",
-  "“쿠팡이츠만살면되나”…수수료·별점·환불까지쏟아진지적(종합)...",
-  "[더벨][CompanyWatch]롯데웰푸드,삼양사상대손배소…담합후폭풍확...",
   "\"30분지났다고환불불가?\"…국감서트립닷컴환불규정질타",
   "공정위,'식자재임찰담합의혹'CJ프레시웨이현장조사",
   "“점주돈으로할인했는데수수료는그대로”…쿠팡이츠상생정책질타...",
@@ -6001,10 +5992,24 @@
   "나신평\"롯데百센텀시티점인수가2천억…양사신용도영향제한적\"",
   "공소청수사D-62,'MBK·노태우비자금'매듭짓나",
   "\"진료중압수수색\"…아주대병원소아응급센터장사표제출",
-  "소아응급실압수수색재발방지법국힘서나왔다…\"진료영향적은수사..."
+  "소아응급실압수수색재발방지법국힘서나왔다…\"진료영향적은수사...",
+  "건설사ESG'체질전환'속도...현대A+대우B+'상승안착'",
+  "'롯데철수,신세계확장'···부산센텀시티상권재편본격화",
+  "이강일의원\"투썸플레이스본사매출2배늘때가맹점실질매출은연...",
+  "아주대병원소아응급센터장도사표제출…압수수색논란에의료진이탈",
+  "해킹악재에공소청추가압수수색까지…빗썸,내부통제부실도마",
+  "소아응급의사들,경찰사과했지만설명미흡했다…\"수사가이드라인1...",
+  "김택우의협회장\"의료현장수사원칙마련해야\"…경찰청앞1인시위",
+  "MBK\"사법당국,최윤범고려아연회장'엔터사선행투자·사금고화\"의혹...",
+  "SKT'5G과장광고'대법원심리개시···정재헌상고심대응역량시험..."
  ],
- "recent_sigs": [],
- "last_run": "2026-10-30T13:50:52.822592+09:00",
+ "recent_sigs": [
+  [
+   "2026-10-30T14:01:08.573430+09:00",
+   "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
+  ]
+ ],
+ "last_run": "2026-10-30T14:01:15.440559+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
