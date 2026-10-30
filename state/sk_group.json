@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=725819",
-  "https://www.news2day.co.kr/article/20261029500194",
-  "https://www.goodkyung.com/news/articleView.html?idxno=292900",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441924",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441926",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557409",
   "https://biz.sbs.co.kr/article_hub/20000342897?division=NAVER",
   "https://www.nocutnews.co.kr/news/6599124",
@@ -2999,14 +2994,14 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172787",
   "https://basketkorea.com/news/newsview.php?ncode=1065622856256160",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=878009",
-  "https://www.gokorea.kr/news/articleView.html?idxno=883552"
+  "https://www.gokorea.kr/news/articleView.html?idxno=883552",
+  "https://www.joongang.co.kr/article/25474611",
+  "https://www.ddaily.co.kr/page/view/2026103108342072112",
+  "https://www.gokorea.kr/news/articleView.html?idxno=883598",
+  "https://www.g-enews.com/view.php?ud=202610310827095515fbbec65dfb_1",
+  "https://www.tokenpost.kr/news/insights/430456"
  ],
  "seen_titles": [
-  "개보위,'개인정보유출'대교등에과징금38억8500만원부과",
-  "노무라,SK하이닉스목표가470만원…자사주소각효과주목",
-  "SK이노,3분기영업익3조7043억…정유·윤활유동반호조",
-  "SK이노,정유·윤활유쌍끌이로역대최대...배터리는적자(상보)",
-  "유니코써치CEO분석…SKY30%회복에도서울대비중7년째하락",
   "삼성·SK하이닉스나란히HBM'완판'…메모리슈퍼사이클장기화하나",
   "인텔,내일실적발표…데이터센터CPU수요확대·파운드리반등시험...",
   "[경제를부탁해]삼전닉스주주들얼마나받나?",
@@ -6001,7 +5996,12 @@
   "'로컬AI논쟁'불붙인올트먼...\"PC속D램은비효율\"",
   "‘악착같이성실하게’스텝업원하는광신중김시우",
   "법인예금변동성확대에…KB국민銀,조달다변화안간힘",
-  "폐현수막의놀라운변신:SK케미칼과함께만드는친환경섬유시대"
+  "폐현수막의놀라운변신:SK케미칼과함께만드는친환경섬유시대",
+  "AI투자우려에뉴욕증시일제히하락…‘실적부진’인텔28%↓",
+  "'아이폰듀오·맥북프로'가격폭등이유따로있다…갑질하다협력사...",
+  "서울삼성,KBL최초개막9연승돌풍…김상식감독의혁신전략은?",
+  "헝가리서멈춘셈코프분리막공장…글로벌배터리공급망'파장'",
+  "[온체인주식선물]삼성전자,정규장종가보다2.64%할인"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,25 @@
   [
    "2026-10-31T08:31:33.138209+09:00",
    "함께 섬유 폐현수막의 변신 만드는 놀라운 SK케미칼과 친환경 시대"
+  ],
+  [
+   "2026-10-31T08:41:00.598101+09:00",
+   "있다 이유 아이폰 맥북 따로 듀오 갑질하다 협력사 가격폭등 프로"
+  ],
+  [
+   "2026-10-31T08:41:00.598101+09:00",
+   "전략은 혁신 9연승 개막 김상식 돌풍 감독의 서울 KBL 삼성"
+  ],
+  [
+   "2026-10-31T08:41:00.598101+09:00",
+   "배터리 글로벌 파장 멈춘 공장 셈코프 공급망 분리막 헝가리서"
+  ],
+  [
+   "2026-10-31T08:41:00.598101+09:00",
+   "할인 종가보다 정규장 삼성전자"
   ]
  ],
- "last_run": "2026-10-31T08:31:48.153814+09:00",
+ "last_run": "2026-10-31T08:41:14.724685+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
