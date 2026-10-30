@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400826",
-  "https://www.ziksir.com/news/articleView.html?idxno=150618",
-  "https://www.ekn.kr/web/view.php?key=20261023022050491",
-  "https://www.fnnews.com/news/202610231704282392",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61241",
-  "https://www.ytn.co.kr/_ln/0101_202610231721009892",
-  "https://mhnse.com/news/articleView.html?idxno=1610630",
-  "https://www.m-i.kr/news/articleView.html?idxno=2009795",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1729001",
   "https://www.news1.kr/industry/distribution/6330373",
   "https://www.hankookilbo.com/news/article/A2026102315080003650?did=NA",
@@ -2999,17 +2991,17 @@
   "http://www.doctorstimes.com/news/articleView.html?idxno=240794",
   "https://www.yna.co.kr/view/AKR20261030128200030?input=1195m",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228074",
-  "https://www.seoul.co.kr/news/society/law/2026/10/30/20261030500247?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/law/2026/10/30/20261030500247?wlog_tag3=naver",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17196",
+  "http://www.joseilbo.com/news/news_read.php?uid=578568&class=17",
+  "https://www.news1.kr/industry/distribution/6338012",
+  "https://view.asiae.co.kr/article/2026103015370630855",
+  "http://www.finomy.com/news/articleView.html?idxno=265205",
+  "https://news.jtbc.co.kr/article/NB12325685?influxDiv=NAVER",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35315",
+  "https://www.fnnews.com/news/202610301503262569"
  ],
  "seen_titles": [
-  "[성령강림절후제22주]몸,사랑의근원",
-  "이마트,그릴·캠핑매트30%할인···계절가전행사도마련",
-  "[똑똑한유통]우아한형제들,코웨이,쿠쿠,세라젬,바디프랜드",
-  "트립닷컴'환불불가'조건국감도마…미신고영업도질타[2026국감]",
-  "李,최길수특별감찰관임명...'반쪽감찰'여전히논란",
-  "교육위종합감사...'안민석위증'·'한동훈딸의혹'공방",
-  "신성,고향사랑통했다…예산군홍보대사위촉",
-  "공정위,CJ프레시웨이식자재입찰담합의혹현장조사",
   "﻿[공정위제재의그늘㊦]성과관리'제재수위'반영,사후책임은무...",
   "쿠팡이츠,국감서수수료·무료배달논란도마…김명규\"상생위해대화...",
   "대법심리불속행,헌법적한계없나…'재판소원1호'변론서쏟아진질...",
@@ -6001,7 +5993,15 @@
   "[기자수첩]소아응급실덮친두려움의정체는'국가'였다",
   "롯데\"롯데렌탈매각거래종결…매각대금1조3천억원확보\"",
   "'소아응급실압수수색'여진지속···\"수사가이드라인마련돼야\"",
-  "‘김건희에명품백선물혐의’김기현의원1심무죄"
+  "‘김건희에명품백선물혐의’김기현의원1심무죄",
+  "지속가능성공시파일럿테스트에서수집된기업의애로는?",
+  "롯데,롯데렌탈1.3조매각완료…재무개선·사업재편가속화",
+  "롯데,'알짜'롯데렌탈1.3조에팔았다…TPG에매각완료",
+  "'김건희명품선물'김기현1심무죄…배우자는벌금500만원",
+  "고려아연,엔터사투자의혹수사선상···자금투입경위쟁점",
+  "\"응급실압수수색,의사·환자모두공포\"…아주대소아응급센터장도사...",
+  "대웅제약'불법리베이트'의혹재점화…경찰,본사또압수수색",
+  "'김건희에명품백전달'김기현'공모증거부족'무죄...부인벌금500만..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
   ]
  ],
- "last_run": "2026-10-30T15:31:04.741348+09:00",
+ "last_run": "2026-10-30T15:40:56.301878+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
