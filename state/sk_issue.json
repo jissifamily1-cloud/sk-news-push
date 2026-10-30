@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261023104651004?input=1195m",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6330275",
-  "https://www.newsis.com/view/NISX20261023_0003839062",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000076226",
   "https://www.kukinews.com/article/view/kuk202610230186",
   "https://www.newspim.com/news/view/20261023001162",
   "https://www.ziksir.com/news/articleView.html?idxno=150617",
@@ -2999,13 +2995,13 @@
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044155",
   "https://www.dailymedi.com/news/news_view.php?wr_id=942078",
   "https://www.seoul.co.kr/news/society/2026/10/30/20261030500222?wlog_tag3=naver",
-  "https://www.chosun.com/national/court_law/2026/10/30/4KURSEGALVHWFIKOWG3HHJPSIA/"
+  "https://www.chosun.com/national/court_law/2026/10/30/4KURSEGALVHWFIKOWG3HHJPSIA/",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=901456",
+  "http://www.bokuennews.com/news/article.html?no=286391",
+  "https://www.techm.kr/news/articleView.html?idxno=156721",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486578"
  ],
  "seen_titles": [
-  "'금융권해킹'경찰→중수청→경찰?…'사건핑퐁'현실화하나(종합)",
-  "상주시선관위도'투표자수허위입력'…통계조작30→36곳늘어",
-  "이태한특검,경북선관위압수수색…창고계약특혜의혹",
-  "경찰넘기고중수청퇴짜…'금융권AI해킹'수사기관핑퐁현실화하나",
   "이태한선관위특검“서버포렌식만한달넘게걸려”…중수청에수사...",
   "이태한선관위특검,중수청장예방…\"인력10명파견요청\"",
   "바디프랜드,이사시구매희망가전조사···헬스케어로봇·마사지체...",
@@ -6001,7 +5997,11 @@
   "환자단체도소아응급실압수수색우려…\"진료현장보호해야\"",
   "응급실압수수색재발방지'응급진료보호법'추진",
   "커지는‘아주대응급실압수수색’후폭풍…경찰사과에도전문의이어...",
-  "공소청,경찰신청구속영장3건중1건기각"
+  "공소청,경찰신청구속영장3건중1건기각",
+  "'김건희가방선물'김기현1심무죄…부인은벌금형",
+  "의협김택우회장,경찰청앞1인시위…\"소아응급압수수색책임져라\"",
+  "김기흥국민의힘대변인\"쿠팡홀로400여차례압수수색\"…중국계플랫...",
+  "신뢰흔들리는빗썸···악재'3중고'"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
   ]
  ],
- "last_run": "2026-10-30T15:01:10.867774+09:00",
+ "last_run": "2026-10-30T15:10:54.590186+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
