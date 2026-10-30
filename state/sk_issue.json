@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000341960?division=NAVER",
-  "https://www.chosun.com/economy/economy_general/2026/10/25/MS4W63N2HJGBREGAEPACAP2FRY/",
   "https://biz.heraldcorp.com/article/10913777",
   "https://www.yna.co.kr/view/AKR20261023109000002?input=1195m",
   "https://www.newsis.com/view/NISX20261025_0003839784",
@@ -2999,11 +2997,11 @@
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6862080_37004.html",
   "https://www.businesspost.co.kr/BP?command=article_view&num=450840",
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100085",
-  "https://www.segye.com/newsView/20261030513488?OutUrl=naver"
+  "https://www.segye.com/newsView/20261030513488?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261030211439GMv",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090227.html"
  ],
  "seen_titles": [
-  "주병기공정위원장\"조사거부시과징금'전체매출의1%'로강화\"",
-  "공정위,지주회사의금융·보험사주식소유금지위반한KPIC에과징금...",
   "금산분리원칙어긴KPIC코포레이션…공정위,과징금3100만원",
   "규정어기고금융업체주식소유…KPIC코포레이션,공정위제재",
   "공정위,KPIC코포레이션에과징금3100만원…금융사주식보유위반",
@@ -6001,7 +5999,9 @@
   "\"당선답례맞다\"면서‥김기현무죄,아내만벌금500만원",
   "[10월31일자]비즈니스포스트아침의주요기사",
   "영국도놀랐다...\"손흥민,호날두처럼대표팀분열일으킬수도\"한국축...",
-  "‘응급실압수수색논란’정은경,다음주경찰청장직대만난다"
+  "‘응급실압수수색논란’정은경,다음주경찰청장직대만난다",
+  "복지장관,다음주경찰청과필수의료수사지침논의",
+  "특검,현장검증하루만에선관위압수수색…'장비납품비리'수사속..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "아침의 주요기사 비즈니스포스트"
   ]
  ],
- "last_run": "2026-10-30T21:10:52.661137+09:00",
+ "last_run": "2026-10-30T21:20:56.979154+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
