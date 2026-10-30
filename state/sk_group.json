@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=677043",
-  "https://www.mt.co.kr/tech/2026/10/29/2026102908353861802",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16261723",
-  "https://www.asiatime.co.kr/article/20261029500144",
-  "https://magazine.hankyung.com/business/article/202610292955b",
-  "https://newstapa.org/article/o89Rp",
   "https://www.econovill.com/news/articleView.html?idxno=755292",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499622",
   "https://www.etnews.com/20261029000196",
@@ -2999,15 +2993,15 @@
   "https://www.g-enews.com/view.php?ud=2026103018195384583084322ec9_1",
   "http://www.sisanews24.co.kr/19781",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716929",
-  "https://futurechosun.com/?p=165162"
+  "https://futurechosun.com/?p=165162",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=901500",
+  "https://www.sentv.co.kr/article/view/sentv202610300109",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=303884",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209731",
+  "https://www.greened.kr/news/articleView.html?idxno=353536",
+  "https://www.electimes.com/news/articleView.html?idxno=374175"
  ],
  "seen_titles": [
-  "SK이노베이션,3Q영업익3.7조'역대최대'…\"석유·윤활유사업이성장...",
-  "내년부터89개방송사,장애인방송의무편성‥폐쇄자막·수어방송제공",
-  "개인정보위,쿠팡·CJENM고객센터점검…고객정보과다열람방지",
-  "보복대행업체가고객센터잠입?…개보위,4대행동수칙마련",
-  "네이블,192억원규모SK텔레콤Acc·유선TAG패키지·Confluent라이선스...",
-  "AI로돈버는빅테크…韓반도체‘완판’탄력",
   "[속보]“개미들웃을까”삼전닉스주주환원역대최대",
   "[현장에서]첫삽은떴는데전기는어디서옵니까?",
   "SK이노베이션,3Q영업익3조7043억원…역대최대실적",
@@ -6001,7 +5995,13 @@
   "D램은최고가,낸드는상승제동…메모리가격흐름엇갈려",
   "충남도,202조원투자계획이행점검…‘광속행정’속도",
   "황준기용인제2부시장,반도체공사교통혼잡등종합대책첫논의",
-  "[더나은미래경제브리핑]반도체호황에9월국세26조더걷혀,법인세..."
+  "[더나은미래경제브리핑]반도체호황에9월국세26조더걷혀,법인세...",
+  "포스코퓨처엠,LG엔솔과맞손…\"K-배터리3사,모두우리LFP고객\"",
+  "SK그룹,‘안정속쇄신’인사…정승일SK이노대표내정",
+  "\"VLCC운임급등?…사우디OSP6년래최저치인하로완벽방어하는SK이...",
+  "민관합동방송통신복합재난대응훈련시행",
+  "홍성바비큐축제'방문객숫자부풀리기차단'…집계면적16분의1로축...",
+  "효성중공업,전력인프라수요가속화속펀더멘털여전히'탄탄'"
  ],
  "recent_sigs": [
   [
@@ -6843,9 +6843,25 @@
   [
    "2026-10-30T18:31:15.445872+09:00",
    "국세 26조 반도체 9월 호황에 걷혀 법인세"
+  ],
+  [
+   "2026-10-30T18:41:00.964603+09:00",
+   "OSP 최저치 VLCC 방어하는 사우디 인하로 운임 6년래 완벽 급등 SK이"
+  ],
+  [
+   "2026-10-30T18:41:00.964603+09:00",
+   "민관 합동 훈련 시행 방송통신 복합재난 대응"
+  ],
+  [
+   "2026-10-30T18:41:00.964603+09:00",
+   "1로 차단 숫자 방문객 부풀리기 16분의 면적 바비큐축제 집계 홍성"
+  ],
+  [
+   "2026-10-30T18:41:00.964603+09:00",
+   "수요 효성중공업 펀더멘털 여전히 탄탄 가속화 전력인프라"
   ]
  ],
- "last_run": "2026-10-30T18:31:24.282591+09:00",
+ "last_run": "2026-10-30T18:41:14.816721+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
