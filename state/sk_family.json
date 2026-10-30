@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000072707",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171823",
-  "https://www.kado.net/news/articleView.html?idxno=2077510",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=209507",
   "https://www.widedaily.com/news/articleView.html?idxno=301878",
   "http://www.breaknews.com/1242320",
   "http://www.weeklytoday.com/news/articleView.html?idxno=797701",
@@ -2999,13 +2995,13 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=449083",
   "http://www.segyebiz.com/newsView/20261030507602?OutUrl=naver",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077883",
-  "https://news.unn.net/news/articleView.html?idxno=599619"
+  "https://news.unn.net/news/articleView.html?idxno=599619",
+  "https://biz.heraldcorp.com/article/10920477",
+  "https://biz.heraldcorp.com/article/10920471",
+  "https://www.newsis.com/view/NISX20261030_0003848018",
+  "https://www.bloter.net/news/articleView.html?idxno=677241"
  ],
  "seen_titles": [
-  "호남반도체에…野“최태원팔목비틀어”vs與“崔증인채택이기업...",
-  "최태원\"기업사회공헌성과정확히측정해야…인공지능활용가능\"",
-  "'사회적기업월드포럼ELE'기념촬영",
-  "삼전역대급실적에도코스피3.7%하락마감…코스닥도4.8%‘뚝’",
   "'느끼는로봇·잊는AI'…서울대2개과제삼성지원받는다",
   "호남반도체\"속도,또속도\"강조한최태원…삼전행보구체화는언제...",
   "최태원\"사회적가치도경제적보상받아야\"…'새로운자본주의'제안",
@@ -6001,7 +5997,11 @@
   "SK그룹인사시계빨라진다,하이닉스곽노정·이노베이션장용호부회...",
   "SK그룹사장단인사…하이닉스곽노정유임·이노베이션정승일발탁",
   "[SK사단]최태원'한발빠른인사',에너지CEO교체…최창원체제는유지",
-  "국립목포대,개교80주년기념'섬과바다,삶을품다'사진전개최"
+  "국립목포대,개교80주년기념'섬과바다,삶을품다'사진전개최",
+  "‘반도체안정·에너지쇄신’SK미래찾기",
+  "SK이노신임CEO에정승일",
+  "'역대급실적'SK하이닉스,곽노정단독대표사장단체제지속…'新사업...",
+  "[SK인사줌인]③김선혁SK㈜사장,M&A넘어그룹혁신중책"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-10-30T11:40:16.226077+09:00",
    "인사 에너지CEO 체제는 유지 한발 교체 빠른"
+  ],
+  [
+   "2026-10-30T11:50:15.021439+09:00",
+   "넘어 김선혁 사장 중책 혁신"
   ]
  ],
- "last_run": "2026-10-30T11:41:50.129076+09:00",
+ "last_run": "2026-10-30T11:50:28.594563+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
