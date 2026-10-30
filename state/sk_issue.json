@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202610241300001",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16256595",
-  "https://www.bntnews.co.kr/article/view/bnt202610240098",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=312042",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524132",
-  "https://www.the-today.com/news/articleView.html?idxno=92341",
-  "https://www.greened.kr/news/articleView.html?idxno=352925",
-  "https://www.sedaily.com/article/20105549",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/522308",
-  "https://www.news1.kr/society/court-prosecution/6330664",
   "http://www.knpnews.com/news/articleView.html?idxno=34732",
   "https://health.chosun.com/site/data/html_dir/2026/10/23/2026102302486.html",
   "https://www.wikitree.co.kr/articles/1168841",
@@ -2999,19 +2989,19 @@
   "http://www.dailypop.kr/news/articleView.html?idxno=103930",
   "https://www.kukinews.com/article/view/kuk202610300144",
   "http://www.bokuennews.com/news/article.html?no=286418",
-  "https://www.hankookilbo.com/news/article/A2026103016550003241?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026103016550003241?did=NA",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228131",
+  "https://www.seoul.co.kr/news/society/2026/10/30/20261030500331?wlog_tag3=naver",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2310419",
+  "https://newstapa.org/article/FsxCD",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699961",
+  "https://www.newspim.com/news/view/20261030001264",
+  "http://www.inews24.com/view/2021072",
+  "https://www.sedaily.com/article/20108423",
+  "https://imnews.imbc.com/news/2026/society/article/6862044_36918.html",
+  "https://www.sedaily.com/article/20108305"
  ],
  "seen_titles": [
-  "“항공편지연에여행망쳤는데”…보상받는승객,못받는승객따로...",
-  "유영우,코미디빼고가수로선대학축제무대",
-  "‘전지적참견시점’우영우,‘진짜가수의삶’",
-  "종이빨대가친환경인줄알았는데…진짜는'이것'",
-  "오세훈2심무죄에번진'한동훈책임론'…명태균사건,누가키웠나",
-  "공차,소모품까지SPCGFS독점공급논란…\"최대170%비싸\"가맹점주들...",
-  "우정소갈비가맹점분쟁,공정위6건무혐의…본사\"부족했던대응반성...",
-  "“이사철사고싶은가전은?”마사지체어24.7%로1위",
-  "‘전참시’유영우,대학축제섭외에당황“뭔가잘못됐다”",
-  "오세훈무죄반전...2심\"불법감수하며명태균에의뢰?납득어려워\"",
   "LG유플러스,해킹통보뒤서버재설치·폐기…'증거인멸의혹·부실대응...",
   "입술각질뜯고침바르면더갈라진다…‘이성분’발라보습해야",
   "[건강꿀팁]잠옷등에'테니스공'을달아보세요,옆으로눕는습관이잡...",
@@ -6001,15 +5991,29 @@
   "하도급업체잘못없는데진단키트3717만개취소…셀트리온,공정위과...",
   "특검,‘140억원대장비납품비리의혹’중앙선관위등압수수색",
   "소아응급실압수수색논란확산…\"진료현장수사원칙세워야\"",
-  "선관위특검,중앙선관위등압수수색…'140억상당'기준미달장비납..."
+  "선관위특검,중앙선관위등압수수색…'140억상당'기준미달장비납...",
+  "특검,중앙선관위140억원대비리의혹포착…추가압수수색",
+  "‘개표오류은폐의혹’전북선관위직원들,공소청송치",
+  "특검,중앙선관위압수수색…140억원대장비납품비리의혹",
+  "'검찰범죄'특검을해야하는50가지이유⑫문자조작등뉴스타파케...",
+  "복지장관,다음주경찰청장대행만나필수의료수사지침논의",
+  "'아주대소아응급압수수색'파장…정은경장관,경찰청장직무대행만...",
+  "김건희에'당대표당선대가의혹'김기현1심무죄",
+  "경찰,‘300억원대횡령혐의’동성제약前임직원들불구속송치",
+  "복지부장관,다음주경찰청장대행만나필수의료수사지침논의",
+  "TPG,롯데렌탈인수종결…1조3000억규모[시그널]"
  ],
  "recent_sigs": [
   [
    "2026-10-30T14:01:08.573430+09:00",
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
+  ],
+  [
+   "2026-10-30T17:40:51.958014+09:00",
+   "3000억 롯데렌탈 1조 인수 TPG 규모 종결"
   ]
  ],
- "last_run": "2026-10-30T17:31:02.030338+09:00",
+ "last_run": "2026-10-30T17:40:59.329953+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
