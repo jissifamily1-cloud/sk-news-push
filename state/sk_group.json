@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557409",
-  "https://biz.sbs.co.kr/article_hub/20000342897?division=NAVER",
-  "https://www.nocutnews.co.kr/news/6599124",
-  "http://www.newstomato.com/ReadNews.aspx?no=1318456&inflow=N",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1729691",
   "https://www.nocutnews.co.kr/news/6599122",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710949",
@@ -2999,13 +2995,13 @@
   "https://www.ddaily.co.kr/page/view/2026103108342072112",
   "https://www.gokorea.kr/news/articleView.html?idxno=883598",
   "https://www.g-enews.com/view.php?ud=202610310827095515fbbec65dfb_1",
-  "https://www.tokenpost.kr/news/insights/430456"
+  "https://www.tokenpost.kr/news/insights/430456",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16264385",
+  "https://www.bigtanews.co.kr/article/view/big202610310004",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442314",
+  "https://www.sedaily.com/article/20108562"
  ],
  "seen_titles": [
-  "삼성·SK하이닉스나란히HBM'완판'…메모리슈퍼사이클장기화하나",
-  "인텔,내일실적발표…데이터센터CPU수요확대·파운드리반등시험...",
-  "[경제를부탁해]삼전닉스주주들얼마나받나?",
-  "[직설]코스피,확실하게반등기회잡았나?",
   "SK온,3분기영업손실805억원…ESS사업확대",
   "고객센터개인정보과다노출…개보위,관리강화주문",
   "SK이노베이션,3분기영업익3조7043억원…정유·윤활유쌍끌이호실적",
@@ -6001,7 +5997,11 @@
   "'아이폰듀오·맥북프로'가격폭등이유따로있다…갑질하다협력사...",
   "서울삼성,KBL최초개막9연승돌풍…김상식감독의혁신전략은?",
   "헝가리서멈춘셈코프분리막공장…글로벌배터리공급망'파장'",
-  "[온체인주식선물]삼성전자,정규장종가보다2.64%할인"
+  "[온체인주식선물]삼성전자,정규장종가보다2.64%할인",
+  "미국증시나스닥2.86%급락…인텔29%폭락·AI투자비우려에반도체...",
+  "KB증권,10월다섯째주HD건설기계등29종목매수추천",
+  "\"반도체성과급에내년소비회복…국고채금리는고점통과\"",
+  "韓증시돌아온줄알았던외국인‘돌변’…“땡큐,잘먹고갑니다”..."
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,21 @@
   [
    "2026-10-31T08:41:00.598101+09:00",
    "할인 종가보다 정규장 삼성전자"
+  ],
+  [
+   "2026-10-31T08:51:06.880876+09:00",
+   "KB증권 매수 다섯째주 10월 HD건설기계 29종목 추천"
+  ],
+  [
+   "2026-10-31T08:51:06.880876+09:00",
+   "통과 고점 회복 소비 국고채 금리는 내년 반도체 성과급에"
+  ],
+  [
+   "2026-10-31T08:51:06.880876+09:00",
+   "돌변 외국인 돌아온 증시 땡큐 알았던 먹고 갑니다"
   ]
  ],
- "last_run": "2026-10-31T08:41:14.724685+09:00",
+ "last_run": "2026-10-31T08:51:18.163063+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
