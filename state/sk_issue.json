@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390171.html",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=228261",
-  "https://www.seoultimes.news/news/article.html?no=2000101293",
-  "https://www.newspim.com/news/view/20261023000867",
   "http://www.00news.co.kr/news/articleView.html?idxno=107419",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390173.html",
   "https://www.smartbizn.com/news/articleView.html?idxno=156969",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10920504",
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044145",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823044&plink=ORI&cooper=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699812"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699812",
+  "http://www.newsprime.co.kr/news/article.html?no=753079",
+  "https://www.monews.co.kr/news/articleView.html?idxno=414994",
+  "https://www.insight.co.kr/news/579887",
+  "https://biz.sbs.co.kr/article_hub/20000343286?division=NAVER"
  ],
  "seen_titles": [
-  "이마트,캠핑용품최대30%할인…계절가전은반값행사",
-  "화우·대한상의,지속가능성공시·공급망규제대응방안논의",
-  "공정위,CJ프레시웨이식자재입찰담합의혹조사",
-  "공소청,'노태우비자금의혹'이병기前의전비서관참고인조사",
   "한동훈딸수사무마의혹,서울청광수대배당",
   "공소청,'노태우비자금의혹'이병기전靑의전비서관소환",
   "[2026제약바이오대해부]쥐약접던창업정신···이경하의JW가잃어버...",
@@ -6001,10 +5997,14 @@
   "‘응급실압수수색’아주대센터장결국사표…“집단행동아냐”",
   "경찰뒤늦은사과,떠나는의사들…소아응급실덮친압수수색후폭풍",
   "\"필수의료현장압수수색제한해달라\"…눈물의호소",
-  "소아응급의학회“응급실수사지침마련하라”"
+  "소아응급의학회“응급실수사지침마련하라”",
+  "\"아이살리려버틴20년\"…소아응급의료계의호소",
+  "소아응급의학회,응급실압수수색원칙적제한촉구",
+  "김기흥\"쿠팡은고강도조사,알리해킹사건은?...미국,한국이중국...",
+  "아주대소아응급센터,의사이어센터장도사표"
  ],
  "recent_sigs": [],
- "last_run": "2026-10-30T12:40:54.135886+09:00",
+ "last_run": "2026-10-30T12:50:53.164063+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
