@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202610292786i",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94659",
-  "https://www.joongang.co.kr/article/25473973",
-  "https://www.news1.kr/sports/baseball/6336175",
-  "https://www.mydaily.co.kr/page/view/2026102910583706735",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1729110",
   "https://www.huffingtonpost.kr/article/261418",
   "https://www.edaily.co.kr/News/Read?newsId=04191846645617840&mediaCodeNo=257",
@@ -2999,14 +2994,14 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=446503",
   "http://www.kjdaily.com/article.php?aid=1793362923690736276",
   "https://isplus.com/article/view/isp202610300114",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=129326"
+  "http://www.rookie.co.kr/news/articleView.html?idxno=129326",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6942621",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553661204",
+  "https://sports.khan.co.kr/article/202610302142003?pt=nv",
+  "https://basketkorea.com/news/newsview.php?ncode=1065617144129031",
+  "https://vop.co.kr/A00001697405.html"
  ],
  "seen_titles": [
-  "(LEAD)SKInnovationshiftstoQ3profitonlubricants,strongerrefin",
-  "삼성전자\"내년상반기HBM4E양산…하반기생산량확대\"",
-  "부산남구'국회의원쫌만납시다'300회달성한박수영의원",
-  "삼전4%대하락에코스피도2%대풀썩...주주환원에실망",
-  "외동딸1년도안돼관뒀다…‘세라젬’양자입양,윈윈인까닭",
   "'준PO탈락'염경엽호LG,코치진개편…정수성코치떠난다",
   "‘실적잔치’삼전닉스,주주환원도역대급…최대210조푼다",
   "SK그룹,정기인사초읽기…쇄신보다'안정'에무게",
@@ -6001,45 +5996,14 @@
   "코스피,3%대낙폭에5800선밑으로...삼성전기,SK하이닉스등하락",
   "인텔리빅스244%급등…라온로보틱스·보안주도강세",
   "[IS승장]‘최초개막9연승’김상식삼성감독“상상도못해…우리...",
-  "'역대최초9연승대기록'삼성김상식감독\"상상도못했다\""
+  "'역대최초9연승대기록'삼성김상식감독\"상상도못했다\"",
+  "'프로농구역대최다개막9연승'삼성김상식\"기록세울줄누가알았...",
+  "\"삼성만의모션오펜스덕분\"개막후9연승,새로운역사쓴김상식삼...",
+  "“재료는같은데주방장만바뀌었다”…이관희가꼽은삼성9연승비결",
+  "[승리뷰]상식매직은어디까지?‘개막9연승+1라운드전승’김상식...",
+  "SK브로드밴드,LS마린솔루션과‘해저케이블안정운용’업무협약"
  ],
  "recent_sigs": [
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "닦은 선례 5년 만에 비결은 아모레퍼시픽 재생전력 없는 만든"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "전문가 위생관리 강조 정수기 점검 SK매직 자가 더해야 관리에"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "실적 NH투자증권은 주춤 금융지주 증권사 하반기는 역대급 상반기"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "일본과 반도체 주도 SK하이닉스 원팀 AI 파트너스데이로"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "탈오르반 글로벌 산업에 정책 파장 헝가리"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "담았다 삼성바이오로직스 삼성SDI 금융주도"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "교체 고객 강화 수장 SK그룹 공략 계열사 하이닉스 에너지"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "삼전 동반 닉스 반도체 알파벳 쇼크 추락"
-  ],
-  [
-   "2026-10-30T15:51:02.242108+09:00",
-   "3연승 잡고 무패 쏜다 대전 7G 티켓 전북 ACL"
-  ],
   [
    "2026-10-30T16:01:26.618756+09:00",
    "참여 775억원 용인시 민간 3분기 지역업체 공사"
@@ -6535,9 +6499,13 @@
   [
    "2026-10-30T21:41:06.598438+09:00",
    "김상식 감독 상상도 대기록 못했다 9연승 삼성 역대"
+  ],
+  [
+   "2026-10-30T21:51:02.434727+09:00",
+   "LS마린솔루션과 해저케이블 운용 SK브로드밴드 업무협약 안정"
   ]
  ],
- "last_run": "2026-10-30T21:41:12.777288+09:00",
+ "last_run": "2026-10-30T21:51:09.599748+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
