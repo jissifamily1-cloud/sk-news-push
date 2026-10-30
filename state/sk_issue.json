@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2120347",
-  "https://www.ytn.co.kr/_ln/0101_202610241049442793",
-  "https://www.vegannews.co.kr/news/article.html?no=396296",
-  "http://www.breaknews.com/1245443",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875664",
-  "https://www.newsis.com/view/NISX20261024_0003839491",
   "https://www.khan.co.kr/article/202610241300001",
   "https://www.topstarnews.net/news/articleView.html?idxno=16256595",
   "https://www.bntnews.co.kr/article/view/bnt202610240098",
@@ -2999,15 +2993,15 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1318715&inflow=N",
   "https://www.ajunews.com/view/20261030164450222",
   "https://www.news1.kr/society/court-prosecution/6338245",
-  "https://www.mt.co.kr/society/2026/10/30/2026103016534077581"
+  "https://www.mt.co.kr/society/2026/10/30/2026103016534077581",
+  "http://www.lkp.news/news/articleView.html?idxno=85654",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450828",
+  "http://www.dailypop.kr/news/articleView.html?idxno=103930",
+  "https://www.kukinews.com/article/view/kuk202610300144",
+  "http://www.bokuennews.com/news/article.html?no=286418",
+  "https://www.hankookilbo.com/news/article/A2026103016550003241?did=NA"
  ],
  "seen_titles": [
-  "[이슈&]\"삼성중공업후려치기에당했다\"..하청업체들빚더미호소",
-  "오세훈2심무죄반전...향후정치권파장은?",
-  "“아침·저녁수치가왜다를까?”온습도는같은자리에서",
-  "국민의힘\"오세훈서울시장무죄는사필귀정…특검책임져야“",
-  "\"로봇청소기보다안마의자\"…이사때사고싶은가전1위는?",
-  "\"오시장이직접소개한게아니잖아예\"…명태균녹취록,무죄근거됐다",
   "“항공편지연에여행망쳤는데”…보상받는승객,못받는승객따로...",
   "유영우,코미디빼고가수로선대학축제무대",
   "‘전지적참견시점’우영우,‘진짜가수의삶’",
@@ -6001,7 +5995,13 @@
   "경찰응급실압색에의료계“재발방지책마련돼야”",
   "특검,'성능미달선거장비납품'정황적발...선관위압수수색",
   "경찰,'회삿돈300억대횡령혐의'동성제약전경영진송치",
-  "선관위특검,성능미달장비납품정황포착…중앙선관위등압수수색"
+  "선관위특검,성능미달장비납품정황포착…중앙선관위등압수수색",
+  "공정위제재귀한족발,뿔난점주들집단소송휘말리나",
+  "식품업계'가격담합의심'시선여전,내부에서는'정상적가격결정까...",
+  "하도급업체잘못없는데진단키트3717만개취소…셀트리온,공정위과...",
+  "특검,‘140억원대장비납품비리의혹’중앙선관위등압수수색",
+  "소아응급실압수수색논란확산…\"진료현장수사원칙세워야\"",
+  "선관위특검,중앙선관위등압수수색…'140억상당'기준미달장비납..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
   ]
  ],
- "last_run": "2026-10-30T17:20:54.397552+09:00",
+ "last_run": "2026-10-30T17:31:02.030338+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
