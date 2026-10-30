@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694152",
-  "https://www.yna.co.kr/view/AKR20261023050500030?input=1195m",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610211528142840106790",
-  "https://www.segye.com/newsView/20261023514085?OutUrl=naver",
-  "https://www.sedaily.com/article/20105569",
-  "https://www.newsis.com/view/NISX20261023_0003838820",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610240726317110948",
-  "https://www.ekn.kr/web/view.php?key=20261023024300246",
-  "https://www.newsis.com/view/NISX20261023_0003837917",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105251",
   "https://www.eroun.net/news/articleView.html?idxno=93344",
   "https://www.segye.com/newsView/20261024502603?OutUrl=naver",
   "https://www.kizmom.com/news/articleView.html?idxno=113503",
@@ -2999,19 +2989,19 @@
   "https://www.medigatenews.com/news/1416307750",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247031",
   "https://www.yna.co.kr/view/AKR20261030150600530?input=1195m",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3015305"
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3015305",
+  "https://www.jasm.co.kr/news/view/323616/?sc=Naver",
+  "https://www.dailian.co.kr/news/view/1708939/?sc=Naver",
+  "http://www.inews24.com/view/2021058",
+  "https://www.fnnews.com/news/202610301703287832",
+  "https://www.rapportian.com/news/articleView.html?idxno=241870",
+  "https://www.kgnews.co.kr/news/article.html?no=917505",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=513393",
+  "https://www.news1.kr/bio/general/6338229",
+  "https://www.joongangenews.com/news/articleView.html?idxno=560029",
+  "https://www.ytn.co.kr/_ln/0103_202610301701395767"
  ],
  "seen_titles": [
-  "이스라엘총선나흘앞두고총격테러…군인2명사망·서안봉쇄",
-  "[이번주뭘살까]겨울미리준비하세요…캐시미어·외투할인전",
-  "[더벨][석화업계공정위제재대응]PKC,최대1400억과징금…새만금1...",
-  "[법조브리핑]‘노태우비자금’관련이병기당시의전비서관소환外",
-  "해킹사건안맡고공소청사건도손사래…중대범죄피하는중수청",
-  "사진으로보는일주일[뉴시스Pic]",
-  "상조업계선수금건전성강화…천억이상'선수금운용심의위'설치의무...",
-  "‘AI의사가보증’·‘AI샴푸’알고보니거짓광고…과징금부과될...",
-  "\"이사하면살래\"…로봇청소기제치고'이것'1위",
-  "오세훈2심무죄로뒤집힌이유는...명태균진술의신빙성여부",
   "금품수수의혹확산…전직고위공무원구속,심덕섭군수직접해명요...",
   "전기요반값·겨울옷최대55%할인…백화점·마트·이커머스주말할인...",
   "[주말장보기]이마트캠핑용품30%·롯데마트고기최대40%할인",
@@ -6001,7 +5991,17 @@
   "정은경장관,소아응급의료진에…\"필수의료수사지침경찰청과협의\"...",
   "소아응급의료계\"필수의료현장압수수색제한\"",
   "복지부장관,내주경찰청장대행만나필수의료수사지침논의",
-  "정은경복지부장관,다음주경찰청과만나필수의료수사지침논의"
+  "정은경복지부장관,다음주경찰청과만나필수의료수사지침논의",
+  "특검,중앙선관위등추가압수수색…140억장비납품비리",
+  "선관위특검,'140억장비납품비리'중앙선관위직원들압수수색",
+  "'성능미달장비140억납품'…특검,중앙선관위압수수색",
+  "'성능미달'선거장비140억원어치납품의혹...특검,중앙선관위압수...",
+  "정은경장관,필수의료시설수사가이드라인마련위해경찰청과협의",
+  "소아응급실압수수색에의료계반발확산…\"피해는아픈아이들에게돌...",
+  "경찰·중수청‘사건핑퐁’논란…수사권관할조정협의회도실효성의문",
+  "필수의료수사지침마련속도…정은경,내주경찰청직무대행면담",
+  "특검,선관위140억원대장비납품비리의혹...중앙선관위압수수색",
+  "특검,중앙선관위등압수수색...140억원대장비납품비리"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
   ]
  ],
- "last_run": "2026-10-30T17:01:11.203734+09:00",
+ "last_run": "2026-10-30T17:10:55.827735+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
