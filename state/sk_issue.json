@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261023124951004?input=1195m",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6330197",
-  "https://www.fnnews.com/news/202610231608076133",
-  "https://www.newstree.kr/newsView/ntr202610210020",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079888",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483896",
-  "https://www.news1.kr/society/court-prosecution/6330212",
-  "https://imnews.imbc.com/news/2026/politics/article/6860276_36911.html",
   "https://www.nocutnews.co.kr/news/6596343",
   "https://www.newsis.com/view/NISX20261023_0003838981",
   "https://www.smartbizn.com/news/articleView.html?idxno=157398",
@@ -2999,17 +2991,17 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300068&t=NN",
   "https://www.newstopkorea.com/news/articleView.html?idxno=48640",
   "https://www.hankyung.com/article/202610306095i",
-  "https://www.seoul.co.kr/news/society/2026/10/30/20261030500170?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/10/30/20261030500170?wlog_tag3=naver",
+  "https://www.etnews.com/20261030000240",
+  "https://www.yna.co.kr/view/AKR20261030110300011?input=1195m",
+  "https://www.newscj.com/news/articleView.html?idxno=3444509",
+  "https://www.gokorea.kr/news/articleView.html?idxno=883462",
+  "https://www.news1.kr/bio/welfare-medical/6337890",
+  "https://www.khan.co.kr/article/202610301427001",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1335564",
+  "https://www.kado.net/news/articleView.html?idxno=2081640"
  ],
  "seen_titles": [
-  "이태한선관위특검,중수청예방…\"수사인력10명파견요청\"(종합)",
-  "'창고계약특혜의혹'경북·칠곡·포항선관위압수수색…특검수사중",
-  "이태한특검,중수청에수사관10명지원요청...'일시적지원'부터",
-  "[르포]'녹색전환'해법'한자리'…'2026ESG친환경대전'가보니",
-  "[서희건설인사전망]이봉관집행유예확정…김팔수내년3월임기만...",
-  "CJ프레시웨이,식자재입찰담합의혹···\"사실무근\"",
-  "이태한\"최소10명파견해달라\"…김지용\"압색지원부터적극검토\"(종...",
-  "교육위국감,\"한동훈딸의혹\"·\"안민석위증고발\"공방",
   "선관위특검\"수사인원상당히부족…중수청에20명지원요청\"",
   "선관위특검\"인력10명파견\"요청…중수청장\"지원자파악\"(종합)",
   "[국감]홍범식LG유플러스대표,\"해킹책임확인시합당한책임다할것...",
@@ -6001,7 +5993,15 @@
   "\"아이살리기도두렵다\"…소아응급의사들의절규,왜나왔나",
   "IPO앞둔빗썸,'압수수색·개인정보유출'겹악재",
   "압수·수색영장제시와증명책임,누구에게있을까?[조광희의판례로...",
-  "신용한지사측근2명공직선거법위반구속기로"
+  "신용한지사측근2명공직선거법위반구속기로",
+  "대동유로모터스,만트럭코리아상대계약해지무효소송나서",
+  "[연합뉴스이시각헤드라인]-14:30",
+  "[천지TV쇼츠]응급실압수수색에뿔난의사협회…경찰청앞1인시위...",
+  "압수수색논란속소아응급센터,의료진의우려와대안은?",
+  "아주대소아응급센터장사직서…\"경찰사과했지만설명부족\"(종합)",
+  "커지는‘아주대압수수색’후폭풍···경찰뒤늦게고개숙였지만소...",
+  "소아응급계\"압수수색제한해야\"…아주대센터장도사표",
+  "아주대병원소아응급센터장도사표…\"압수수색과정납득할답변없어\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과장광고 대법원 개시 정재헌 시험 5G 심리 역량 SKT 상고심 대응"
   ]
  ],
- "last_run": "2026-10-30T14:20:57.859574+09:00",
+ "last_run": "2026-10-30T14:31:08.467884+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
