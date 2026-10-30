@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1129328",
-  "https://www.ikbc.co.kr/article/view/kbc202610120045",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610120146&t=NN",
   "https://www.yna.co.kr/view/AKR20261012086951008?input=1195m",
   "http://www.yonhapnewstv.co.kr/news/MYH20261012163336c6r",
   "https://biz.sbs.co.kr/article_hub/20000339437?division=NAVER",
@@ -2999,12 +2996,12 @@
   "http://www.biztribune.co.kr/news/articleView.html?idxno=361588",
   "https://www.newsverse.kr/news/articleView.html?idxno=11803",
   "https://www.naeil.com/news/read/606963",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=146444"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=146444",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=63101",
+  "https://news.tf.co.kr/read/economy/2382993.htm",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173179"
  ],
  "seen_titles": [
-  "[증시프리즘]외국인은팔고개인은담았다…코스피6400선붕괴하는급...",
-  "[산업브리핑]한화·SK·롯데",
-  "D램수요폭증속에“CXMT,연내차세대D램출시예고”…거세지는중...",
   "김정관산업부장관,광주군공항방문…‘반도체산단’점검",
   "최태원SK그룹회장,'사회적가치'성과적용한글로벌경제아젠다제...",
   "호남반도체전력망논란에SK최태원방문공방까지…산중위국감서'...",
@@ -6001,13 +5998,12 @@
   "SK,곽노정유임·정승일발탁…반도체안정속에너지새판짜기",
   "젠슨황밀착'중국女스파이'사건…한국반도체까지흔드나",
   "파독간호사60년,선·후배인연잇는다",
-  "최태원회장이꺼낸'조기인사'카드...다시강조된SK'사업구조개편..."
+  "최태원회장이꺼낸'조기인사'카드...다시강조된SK'사업구조개편...",
+  "SK,2027년사장단인사…'안정'택하고AI·반도체·전력에힘줬다",
+  "막오른4대그룹CEO인사…'안정속쇄신'추구전망",
+  "SK사장단인사,쇄신보다안정…성장사업집중"
  ],
  "recent_sigs": [
-  [
-   "2026-10-30T07:10:16.084950+09:00",
-   "마누라와 자식 바꿔라 열광하는 빼고 이건희에"
-  ],
   [
    "2026-10-30T09:30:25.380149+09:00",
    "글로벌 택했다 쇄신 재편 경영진 에너지 안정"
@@ -6087,9 +6083,13 @@
   [
    "2026-10-30T13:00:32.909003+09:00",
    "반도체까지 한국 밀착 흔드나 스파이 젠슨 중국 사건"
+  ],
+  [
+   "2026-10-30T13:20:15.251219+09:00",
+   "성장사업 인사 쇄신보다 사장단 집중 안정"
   ]
  ],
- "last_run": "2026-10-30T13:10:27.427777+09:00",
+ "last_run": "2026-10-30T13:20:27.219921+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
