@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20261029500213",
-  "https://www.etoday.co.kr/news/view/2641695",
   "https://www.etnews.com/20261029000234",
   "https://www.dailian.co.kr/news/view/1708011/?sc=Naver",
   "http://www.metroseoul.co.kr/article/20261029500299",
@@ -2999,11 +2997,11 @@
   "https://biz.chosun.com/industry/company/2026/10/31/LZ5DW4UZHFFFHF3656VXEP5ZHA/",
   "https://www.newspim.com/news/view/20261030000379",
   "https://www.joongang.co.kr/article/25474593",
-  "https://www.gpkorea.com/news/articleView.html?idxno=148139"
+  "https://www.gpkorea.com/news/articleView.html?idxno=148139",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7906",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80383"
  ],
  "seen_titles": [
-  "\"AI반도체투자,어떤ETF담을까\"…토스증권이꼽은4가지유형은",
-  "SK이노베이션,3분기영업이익3조7천억'깜짝실적'…전년대비5배넘...",
   "中CXMT,불량률80%에도HBM3E양산강행",
   "이상일용인특례시장,ASML과반도체인재·기술협력…EUV공급강조",
   "SK이노,3분기역대최대영업이익…SK엔무브날았다",
@@ -6001,7 +5999,9 @@
   "정유덕에역대최대이익났지만배터리는적자…SK이노,실적지속관...",
   "[AI입시AtoZ]삼전닉스초호황…삼성·SK계약학과정시전략",
   "쓴만큼못버는AI…알파벳시총669조증발에삼전·닉스‘비상’",
-  "2026년마지막밤부터2027년새해까지성시경체조경기장연말콘서트..."
+  "2026년마지막밤부터2027년새해까지성시경체조경기장연말콘서트...",
+  "[뉴욕증시마감시황]AI열풍에취했던월가,이제청구서를따진다…나...",
+  "자료제출수수료인상에중소사우려…끝장교섭앞둔삼성바이오"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,17 @@
   [
    "2026-10-31T06:11:04.166502+09:00",
    "새해까지 체조경기장 성시경 콘서트 2027년 2026년 연말 마지막 밤부터"
+  ],
+  [
+   "2026-10-31T06:21:01.207280+09:00",
+   "청구서를 열풍에 AI 따진다 월가 이제 취했던"
+  ],
+  [
+   "2026-10-31T06:21:01.207280+09:00",
+   "중소사 자료제출 앞둔 인상에 삼성바이오 수수료 끝장교섭 우려"
   ]
  ],
- "last_run": "2026-10-31T06:11:40.925222+09:00",
+ "last_run": "2026-10-31T06:21:10.185432+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
