@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2639709",
-  "https://www.news1.kr/local/moi/6330506",
-  "https://www.newsis.com/view/NISX20261023_0003839269",
   "https://www.mt.co.kr/policy/2026/10/25/2026102510134721387",
   "https://www.yna.co.kr/view/AKR20261024024000004?input=1195m",
   "https://www.mt.co.kr/politics/2026/10/25/2026102511124220704",
@@ -2999,12 +2996,12 @@
   "https://www.busan.com/view/busan/view.php?code=2026103019294990537",
   "https://www.edaily.co.kr/News/Read?newsId=06264806645618168&mediaCodeNo=257",
   "https://www.segye.com/newsView/20261030510200?OutUrl=naver",
-  "https://www.news1.kr/world/europe/6338395"
+  "https://www.news1.kr/world/europe/6338395",
+  "https://m.skyedaily.com/news_view.html?ID=313831",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1542214",
+  "https://news.jtbc.co.kr/article/NB12325714?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "서울시,상조·여행납입금보호강화⋯법위반업체8곳적발·21건행정...",
-  "해약환급금안주고소비자속이고…서울시,상조·여행업체8곳적발",
-  "서울시,위법상조·적립식여행상품판매업체8곳적발",
   "상조·여행상품가입하면가전제품무료렌탈?…소비자기만거래적발",
   "'해약환급금미지급'등상조·여행업체8곳서울시적발",
   "조계원\"한동훈딸스펙석연치않다…짬짜미협잡냄새\"",
@@ -6001,7 +5998,10 @@
   "특검,'140억원대선거장비납품비리'중앙선관위추가압수수색",
   "\"귀신쫓는다\"며친동생폭행…기도로치료하다결국",
   "소아응급의학회“응급실은성역아니다…진료지킬수사기준마련해...",
-  "러독립언론노바야가제타,33년만에폐간…\"당국이우릴죽였다\""
+  "러독립언론노바야가제타,33년만에폐간…\"당국이우릴죽였다\"",
+  "이명희회장조카업체특혜의혹…\"협력사선정·차등조건누가결정...",
+  "경찰유감표명에도센터장사표…압수수색파문확산",
+  "\"의료진에게환자의죽음은..\"소아응급의'울컥'"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "3000억 롯데렌탈 1조 인수 TPG 규모 종결"
   ]
  ],
- "last_run": "2026-10-30T20:10:56.126307+09:00",
+ "last_run": "2026-10-30T20:20:55.349841+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
