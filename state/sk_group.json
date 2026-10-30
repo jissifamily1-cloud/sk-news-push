@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261029000234",
-  "https://www.dailian.co.kr/news/view/1708011/?sc=Naver",
-  "http://www.metroseoul.co.kr/article/20261029500299",
-  "https://www.dt.co.kr/article/12092055",
-  "https://biz.heraldcorp.com/article/10919039",
-  "https://m.sports.naver.com/basketball/article/065/0000303655",
   "https://www.newstnt.com/news/articleView.html?idxno=725717",
   "https://www.suwonilbo.kr/view.html?id=L261029123701542a",
   "https://www.electimes.com/news/articleView.html?idxno=374087",
@@ -2999,15 +2993,15 @@
   "https://www.joongang.co.kr/article/25474593",
   "https://www.gpkorea.com/news/articleView.html?idxno=148139",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7906",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=80383"
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80383",
+  "https://www.newsis.com/view/NISX20261030_0003848274",
+  "https://biz.heraldcorp.com/article/10920935",
+  "http://www.kdfnews.com/news/articleView.html?idxno=190230",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=129327",
+  "http://www.beyondpost.co.kr/view.php?ud=2026103106240253062aaae0046f_30",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824026&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "中CXMT,불량률80%에도HBM3E양산강행",
-  "이상일용인특례시장,ASML과반도체인재·기술협력…EUV공급강조",
-  "SK이노,3분기역대최대영업이익…SK엔무브날았다",
-  "삼전영업익107조중106조가반도체…매출3배에내년물량도'완판'",
-  "\"글로벌반도체업계최초\"삼성전자,3분기영업익100조돌파",
-  "“반세권아파트값뛰는데”…이천에아직‘5억대국평’남았다",
   "‘해양수도부산세일즈단’서울에떴다",
   "귀화착실하게준비중인프레디,26일득남",
   "[특징주]네이블,SK텔레콤과19억규모공급계약",
@@ -6001,7 +5995,13 @@
   "쓴만큼못버는AI…알파벳시총669조증발에삼전·닉스‘비상’",
   "2026년마지막밤부터2027년새해까지성시경체조경기장연말콘서트...",
   "[뉴욕증시마감시황]AI열풍에취했던월가,이제청구서를따진다…나...",
-  "자료제출수수료인상에중소사우려…끝장교섭앞둔삼성바이오"
+  "자료제출수수료인상에중소사우려…끝장교섭앞둔삼성바이오",
+  "\"74년생CEO약진,서울대상대강세\"SK사장단인사'신구조화'면면은",
+  "SK하이닉스,신임코퍼레이트센터사장과제는‘솔리다임자금조달?’",
+  "해지율낮추고가입자늘린SKT…신뢰회복열쇠는'보안의생활화'",
+  "'올해는되는집안!'삼성,완전히달라진실력에운도따르니…결과는...",
+  "엔비디아4.2%,필라델피아반도체지수7.2%↓...엔비디아시총,5조달러...",
+  "인텔29%폭락…뉴욕증시일제히하락"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,33 @@
   [
    "2026-10-31T06:21:01.207280+09:00",
    "중소사 자료제출 앞둔 인상에 삼성바이오 수수료 끝장교섭 우려"
+  ],
+  [
+   "2026-10-31T06:31:14.446538+09:00",
+   "CEO 사장단 약진 서울대 조화 강세 면면은 신구 상대 인사 74년생"
+  ],
+  [
+   "2026-10-31T06:31:14.446538+09:00",
+   "생활화 해지율 늘린 낮추고 보안의 열쇠는 신뢰 SKT 회복 가입자"
+  ],
+  [
+   "2026-10-31T06:31:14.446538+09:00",
+   "SK하이닉스 코퍼레이트센터 조달 과제는 솔리다임 사장 자금 신임"
+  ],
+  [
+   "2026-10-31T06:31:14.446538+09:00",
+   "삼성 결과는 완전히 운도 올해는 실력에 되는 집안 달라진 따르니"
+  ],
+  [
+   "2026-10-31T06:31:14.446538+09:00",
+   "필라델피아반도체지수 엔비디아 5조달러 시총"
+  ],
+  [
+   "2026-10-31T06:31:14.446538+09:00",
+   "인텔 일제히 뉴욕증시 폭락 하락"
   ]
  ],
- "last_run": "2026-10-31T06:21:10.185432+09:00",
+ "last_run": "2026-10-31T06:31:33.237612+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
