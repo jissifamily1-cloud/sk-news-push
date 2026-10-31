@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261029_0003846315",
-  "https://www.econovill.com/news/articleView.html?idxno=755304",
-  "https://www.etnews.com/20261029000277",
-  "https://www.viva100.com/article/20261029500763",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=44906",
   "https://news.bizwatch.co.kr/article/industry/2026/10/29/0022",
   "https://www.thelec.kr/news/articleView.html?idxno=64515",
@@ -2999,13 +2995,13 @@
   "https://www.fnnews.com/news/202610301956442561",
   "https://www.sentv.co.kr/article/view/sentv202610300207",
   "https://dealsite.co.kr/articles/171320",
-  "https://www.seoulfn.com/news/articleView.html?idxno=641249"
+  "https://www.seoulfn.com/news/articleView.html?idxno=641249",
+  "https://www.jasm.co.kr/news/view/323660/?sc=Naver",
+  "https://www.busan.com/view/busan/view.php?code=2026103109122823065",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442317",
+  "http://www.segyebiz.com/newsView/20261031502919?OutUrl=naver"
  ],
  "seen_titles": [
-  "[컨콜][삼성전자]내년HBM품절…반도체호황지속전망",
-  "신한투자증권,배당받는고객늘어…젊은층도증가",
-  "삼전닉스실적발표,'반도체품귀'입증…호남팹당위성커져",
-  "코스피,삼성전자호실적에도2%대하락…코스닥3%가까이급락",
   "ESS확대속실적희비…삼성SDI2분기연속흑자,SK온적자전환",
   "SK이노베이션,3분기영업익3.7조‘역대최대’…정유·윤활유호조",
   "LG전자,가전넘어AI인프라로성장축확대…'냉각사업'이체질바꾼다",
@@ -6001,7 +5997,11 @@
   "\"가치투자만한다\"더니,'삼전닉스'수십번단타친김부장[인치범의주...",
   "안성시의회,도시공사설립제동…관련안건3건심사보류",
   "[오늘의딜PICK][영상]메타,AI에203조원쏟는다…삼성·SK하이닉스...",
-  "[CEO&뉴스]'허브앤스포크'에29조원건최원혁HMM대표···조기재선..."
+  "[CEO&뉴스]'허브앤스포크'에29조원건최원혁HMM대표···조기재선...",
+  "[뉴욕증시]기술주매도확대에…나스닥2.86%↓·인텔28.58%↓",
+  "인텔주가폭락에AI투자우려또제기…나스닥2.86%하락",
+  "\"삼전닉스호실적,원화강세뒷받침…수출대금환전비율높게유지\"",
+  "中수출빗장풀자휘발유마진급락…정유사4분기셈법복잡"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,17 @@
   [
    "2026-10-31T09:11:03.113499+09:00",
    "29조원 최원혁 대표 조기 HMM 스포크 허브 재선"
+  ],
+  [
+   "2026-10-31T09:21:04.259746+09:00",
+   "높게 환전 강세 비율 호실적 삼전닉스 유지 원화 뒷받침 수출대금"
+  ],
+  [
+   "2026-10-31T09:21:04.259746+09:00",
+   "풀자 정유사 휘발유 수출 빗장 셈법 4분기 복잡 마진 급락"
   ]
  ],
- "last_run": "2026-10-31T09:11:14.998428+09:00",
+ "last_run": "2026-10-31T09:21:12.567119+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
