@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6336297",
-  "https://www.newspim.com/news/view/20261029001054",
-  "https://www.newspim.com/news/view/20261029001052",
-  "https://www.newspim.com/news/view/20261029001056",
-  "https://www.newspim.com/news/view/20261029001055",
-  "https://dhnews.co.kr/news/view/1065593341843939",
-  "https://www.newspim.com/news/view/20261029001051",
   "https://www.newstnt.com/news/articleView.html?idxno=725727",
   "https://www.news1.kr/local/busan-gyeongnam/6336533",
   "https://www.news1.kr/local/gwangju-jeonnam/6336544",
@@ -2999,16 +2992,16 @@
   "https://m.sports.naver.com/basketball/article/065/0000303729",
   "https://imnews.imbc.com/news/2026/econo/article/6862206_36932.html",
   "https://www.segye.com/newsView/20261030513680?OutUrl=naver",
-  "https://www.mk.co.kr/article/12192457"
+  "https://www.mk.co.kr/article/12192457",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16264675",
+  "https://www.ikbc.co.kr/article/view/kbc202610310027",
+  "https://www.viva100.com/article/20261031500276",
+  "https://economist.co.kr/article/view/ecn202610310009",
+  "https://en.yna.co.kr/view/AEN20261031002651315?input=2106m",
+  "https://www.etoday.co.kr/news/view/2642546",
+  "https://www.newsis.com/view/NISX20261029_0003847064"
  ],
  "seen_titles": [
-  "[삼성전자3분기실적]③삼전닉스,배당액공개시점달랐다",
-  "하닉이어삼전까지영업익‘신기원’…AI메모리정점은없다",
-  "인류를위협할수있다는회사,사상최대상장에나서다...앤트로픽IP...",
-  "삼성전자'압도적규모'SK하닉'성장률2배'…메모리'왕좌의게임'",
-  "대한민국산업발전에기여한공학인간담회,발언하는김정관장관",
-  "대한민국산업발전에기여한공학인간담회주재하는김정관장관",
-  "대한민국공학리더초청간담회갖는김정관장관",
   "발언하는김정관산업통상부장관",
   "성신여대,서울북부고용센터와'AI시대채용변화'취업특강",
   "진대제전삼성전자사장과인사나누는김정관장관",
@@ -6001,7 +5994,14 @@
   "'3점슛4개&22득점'미구엘옥존“2라운드는일관성유지가목표”",
   "샘올트먼,삼성·SK잇따라방문‥회동AI협력논의",
   "독립경영시작한김동선의M&S…불안안제무에도테크는훈풍",
-  "보드게임으로주식공부…매경어린이경제교실도‘북적북적’"
+  "보드게임으로주식공부…매경어린이경제교실도‘북적북적’",
+  "샘올트먼,삼성전자·SK하이닉스동시접촉…HBM공급확대될까,AI반도...",
+  "[속보]최태원SK회장·샘올트먼전격회동…AI반도체·데이터센터협...",
+  "최태원·올트먼오찬회동⋯SK,오픈AI와협력확대할까",
+  "SK하이닉스·SK미래전략위해최태원이지목한'두남자'",
+  "(LEAD)SamsungexecsmeetOpenAI'sSamAltmantodiscussAItransforma",
+  "이상일,메디치의도시서'용인르네상스'…반도체·예술교류제안",
+  "[그래픽경제]반도체호황에도청년일자리'한파'"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,25 @@
   [
    "2026-10-31T17:31:12.703588+09:00",
    "북적북적 매경어린이경제교실도 공부 보드게임으로 주식"
+  ],
+  [
+   "2026-10-31T17:41:00.889588+09:00",
+   "전략 SK하이닉스 미래 남자 지목한 최태원이"
+  ],
+  [
+   "2026-10-31T17:41:00.889588+09:00",
+   "LEAD to Open Sam AI Samsung Altman transformati meet discuss execs"
+  ],
+  [
+   "2026-10-31T17:41:00.889588+09:00",
+   "용인 메디치의 제안 이상일 르네상스 도시서 교류 반도체 예술"
+  ],
+  [
+   "2026-10-31T17:41:00.889588+09:00",
+   "청년 한파 호황에도 일자리 반도체"
   ]
  ],
- "last_run": "2026-10-31T17:31:21.468323+09:00",
+ "last_run": "2026-10-31T17:41:15.024070+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
