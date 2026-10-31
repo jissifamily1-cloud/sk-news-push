@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=268456",
-  "https://www.goodkyung.com/news/articleView.html?idxno=292912",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610271543114920102819",
-  "https://www.sisajournal.com/news/articleView.html?idxno=392146",
-  "https://www.mt.co.kr/stock/2026/10/29/2026102915564163023",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=304847",
   "https://mhnse.com/news/articleView.html?idxno=1641126",
   "https://www.bloter.net/news/articleView.html?idxno=677074",
   "https://news.mtn.co.kr/article/2026102916285139228",
@@ -2999,15 +2993,15 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077912",
   "http://www.kdfnews.com/news/articleView.html?idxno=190234",
   "https://www.insight.co.kr/news/580053",
-  "https://www.apnews.kr/news/articleView.html?idxno=3052668"
+  "https://www.apnews.kr/news/articleView.html?idxno=3052668",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16264852",
+  "https://www.newsway.co.kr/news/view?ud=2026103011525358923",
+  "https://www.sentv.co.kr/article/view/sentv202610300186",
+  "https://www.dailian.co.kr/news/view/1708953/?sc=Naver",
+  "https://www.sedaily.com/article/20108218",
+  "https://www.hankyung.com/article/2026103058016"
  ],
  "seen_titles": [
-  "SKT·LGU+,구룡마을통신지원...\"무료충전·와이파이\"",
-  "코스피하루만에6000선붕괴…최대실적삼성전자4%급락",
-  "삼성전자급락·하이닉스상승…코스피6000선다시반납",
-  "SK이노베이션,3Q영업익3.7조원'역대최대'...정유·윤활유호조",
-  "아모레퍼시픽,11월'도쿄뷰티위크'출격…日소비자접점확대",
-  "[더벨][NewsBriefing]“기밀유출회사배신”삼성전자안승호전부사...",
   "[용인24시]용인시,반도체미래그린다…ASML·첨단산업도시와협력...",
   "UBS,코스피목표치7500으로하향…\"내년느려도회복\"",
   "[진단]정부'최고가격제'손실보전'예산범위내지원'방침고수",
@@ -6001,7 +5995,13 @@
   "[와이파이]11월1주,독서·커피·영화'한번에'…LGU+외2가지통신서...",
   "SKTAI교육누적1만명참여…장애유형별실습∙교사연수연계",
   "짧은방한에도최태원먼저만난올트먼...하이닉스·SKT경영진도한자...",
-  "ROE10.62%지킨함영주…청라시대'12%도약'발판다졌다"
+  "ROE10.62%지킨함영주…청라시대'12%도약'발판다졌다",
+  "코스피10월16%폭락,11월반등할까…삼성전자·SK하이닉스와미국뉴...",
+  "주가반토막JYP엔터…인수설에반등했지만실적은'먹구름'[stock&톡]",
+  "박현주의'큰시장'전략…미래에셋,日증권업첫발",
+  "메모리사이클수혜노려볼까…ETF2종목출격",
+  "[人터뷰+]“MLB밀워키우승비결...‘데이터활용’주목해야”",
+  "美중간선거후변동성확대가능성…SK하닉이완충판돼줄까[주간전망..."
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,29 @@
   [
    "2026-11-01T08:01:18.934832+09:00",
    "도약 함영주 발판 ROE 다졌다 지킨 청라시대"
+  ],
+  [
+   "2026-11-01T08:11:11.548649+09:00",
+   "인수설에 JYP엔터 실적은 반등했지만 반토막 먹구름 주가"
+  ],
+  [
+   "2026-11-01T08:11:11.548649+09:00",
+   "전략 미래에셋 시장 첫발 증권업 박현주의"
+  ],
+  [
+   "2026-11-01T08:11:11.548649+09:00",
+   "사이클 수혜 노려볼까 ETF 2종목 출격 메모리"
+  ],
+  [
+   "2026-11-01T08:11:11.548649+09:00",
+   "밀워키 데이터 우승 활용 주목해야 MLB 비결"
+  ],
+  [
+   "2026-11-01T08:11:11.548649+09:00",
+   "완충판 돼줄까 SK하닉이 중간선거 변동성 확대 주간전망 가능성"
   ]
  ],
- "last_run": "2026-11-01T08:01:32.615270+09:00",
+ "last_run": "2026-11-01T08:11:27.773429+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
