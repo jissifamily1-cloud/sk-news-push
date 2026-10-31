@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/busan-gyeongnam/6336533",
-  "https://www.news1.kr/local/gwangju-jeonnam/6336544",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193929",
   "https://www.newspim.com/news/view/20261029001053",
   "http://www.kjdaily.com/article.php?aid=1793254236690680276",
@@ -2999,11 +2997,11 @@
   "https://en.yna.co.kr/view/AEN20261031002651315?input=2106m",
   "https://www.etoday.co.kr/news/view/2642546",
   "https://www.newsis.com/view/NISX20261029_0003847064",
-  "https://www.munhwa.com/article/11627752"
+  "https://www.munhwa.com/article/11627752",
+  "https://www.nocutnews.co.kr/news/6600169",
+  "https://biz.heraldcorp.com/article/10921373"
  ],
  "seen_titles": [
-  "성신여대,서울북부고용센터와'AI시대채용변화'취업특강",
-  "진대제전삼성전자사장과인사나누는김정관장관",
   "세종대박기호교수,국제학술대회서'제8회DoSSA워크숍'개최",
   "투자설명회나선전재수,수도권기업에'해양수도부산'세일즈",
   "전남광주특별시'GGM상생발전·미래전략TF'구성…생산·고용확대",
@@ -6001,7 +5999,9 @@
   "(LEAD)SamsungexecsmeetOpenAI'sSamAltmantodiscussAItransforma",
   "이상일,메디치의도시서'용인르네상스'…반도체·예술교류제안",
   "[그래픽경제]반도체호황에도청년일자리'한파'",
-  "한국날아와최태원만난샘올트먼…HBM·데이터센터‘AI동맹’가속..."
+  "한국날아와최태원만난샘올트먼…HBM·데이터센터‘AI동맹’가속...",
+  "최태원회장,방한한샘올트먼오픈AICEO와오찬회동",
+  "올트먼“PC램,5%만활용,클라우드에집중해야”…서버용메모리·HB..."
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,13 @@
   [
    "2026-10-31T17:41:00.889588+09:00",
    "청년 한파 호황에도 일자리 반도체"
+  ],
+  [
+   "2026-10-31T18:01:18.392377+09:00",
+   "집중해야 PC HB 클라우드에 메모리 서버용 올트먼 활용"
   ]
  ],
- "last_run": "2026-10-31T17:51:07.506899+09:00",
+ "last_run": "2026-10-31T18:01:24.106704+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
