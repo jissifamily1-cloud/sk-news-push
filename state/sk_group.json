@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10919146",
-  "http://www.breaknews.com/1246760",
-  "https://news.tf.co.kr/read/economy/2382444.htm",
-  "https://www.bloter.net/news/articleView.html?idxno=677089",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729688",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=63088",
   "https://dealsite.co.kr/articles/171618",
   "https://www.delighti.co.kr/news/articleView.html?idxno=124092",
   "https://news.tf.co.kr/read/economy/2382442.htm",
@@ -2999,15 +2993,15 @@
   "https://mhnse.com/news/articleView.html?idxno=1651339",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=130509",
   "http://www.dailypop.kr/news/articleView.html?idxno=103990",
-  "https://www.ppss.kr/news/articleView.html?idxno=318349"
+  "https://www.ppss.kr/news/articleView.html?idxno=318349",
+  "https://www.news1.kr/sports/baseball/6338533",
+  "http://www.spochoo.com/news/articleView.html?idxno=131640",
+  "https://www.mydaily.co.kr/page/view/2026103109330702147",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005951742",
+  "https://www.m-economynews.com/news/article.html?no=72355",
+  "https://www.naeil.com/news/read/607071"
  ],
  "seen_titles": [
-  "\"실적당일에하락이공식?\"…삼전,역대급발표마다'하락징크스'",
-  "AI수익성의문지운앤트로픽…반도체다음병목은'전력'",
-  "삼성전자5%급락에코스피도‘휘청’…장중6000선반납[투자360]",
-  "이상일용인시장,네덜란드서반도체협력강화",
-  "143만명배당내역봤더니…국장은'삼전'해외는'엔비디아'",
-  "'1조클럽'나란히올랐지만…SK에너지·SK엔무브엇갈린전망",
   "삼성SDI흑자확대·SK온적자전환…배터리3사실적가른변수는",
   "SK렌터카,차만빌려주지않는다…KS-QEI6년연속1위",
   "'석유제품·윤활유호조'SK이노,3분기역대최대이익",
@@ -6001,7 +5995,13 @@
   "[오피셜]중견수FA?NC는'짐승'으로불렸던남자영입해메웠다…김강...",
   "[마켓펄스]증발하는빅테크시총...AI'현금소진'공포에나스닥2.86%급...",
   "[1인가구꿀팁]혼자쓰는정수기,물적게마시면필터도늦게갈아도...",
-  "용인시,이탈리아피렌체와자매결연추진…청년·문화교류확대모색"
+  "용인시,이탈리아피렌체와자매결연추진…청년·문화교류확대모색",
+  "NC,프로야구최초외야코디네이터도입…김강민영입",
+  "'짐승수비'김강민,이호준감독과NC서재회…KBO최초외야코디네이...",
+  "[오피셜]'와최초'김강민이창원으로간다,NC외야코디네이터로일...",
+  "AI투자우려또한번부상…인텔29%급락에나스닥2.9%↓",
+  "뉴욕증시일제히급락...AI투자우려재점화에나스닥2.86%↓",
+  "대교뉴이프Plus,시니어추리예능‘청춘수사대’방영"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-10-31T10:21:04.544668+09:00",
    "용인시 모색 청년 이탈리아 피렌체와 문화 교류 자매결연 확대"
+  ],
+  [
+   "2026-10-31T10:31:12.140166+09:00",
+   "추리 수사대 방영 예능 시니어 청춘 대교 뉴이프Plus"
   ]
  ],
- "last_run": "2026-10-31T10:21:13.784399+09:00",
+ "last_run": "2026-10-31T10:31:18.448938+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
