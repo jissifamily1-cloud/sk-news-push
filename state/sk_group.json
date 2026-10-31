@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=151231",
-  "https://www.m-i.kr/news/articleView.html?idxno=2011925",
-  "http://www.inews24.com/view/2020418",
-  "https://www.dailian.co.kr/news/view/1708130/?sc=Naver",
   "https://biz.chosun.com/it-science/ict/2026/10/29/6YOAAQ7TV5B6FPWZEJCXE3PN64/",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=361507",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=877631",
@@ -2999,13 +2995,13 @@
   "https://dgmbc.com/NewsArticle/870641",
   "https://www.hankyung.com/article/2026103061976",
   "https://view.asiae.co.kr/article/2026102918162467398",
-  "https://economist.co.kr/article/view/ecn202610310006"
+  "https://economist.co.kr/article/view/ecn202610310006",
+  "https://www.mediapen.com/news/view/1134116",
+  "https://bizhankook.com/articles/intel-stock-plunges-ai-jitters.html",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=32716",
+  "https://www.dailyt.co.kr/newsView/dlt202610310007"
  ],
  "seen_titles": [
-  "[WhoIs?]김성수SK브로드밴드대표이사사장",
-  "워커힐,한국김장문화연계'제10회김장담그는날'개최",
-  "SKAX,AI기반채용평가솔루션'지핏스튜디오'출시…실무역량검증",
-  "SK렌터카,'한국품질만족지수'렌터카부문6년연속1위…통산11회달...",
   "토스증권\"AI확산에메모리반도체수요변화\"…삼성·SK하이닉스HBM전...",
   "SKAX,AI기반인사솔루션'지핏스튜디오'출시",
   "방미통위,SKB·HCN·티캐스트등장애인방송의무편성사업자89곳지정",
@@ -6001,17 +5997,13 @@
   "이재명대통령,‘잦은순방’비판에“사람은아는만큼만보인다”...",
   "\"주가떨어져도돈은따박따박\"…개미들2.8조몰린상품[이수의ETF줌인...",
   "구글검색,정말흔들리는걸까[주末머니]",
-  "삼성사장단50여명,오픈AI샘올트먼과'AI혁신'전격간담회"
+  "삼성사장단50여명,오픈AI샘올트먼과'AI혁신'전격간담회",
+  "NC,김강민외야코디네이터영입…'외야코디네이터'는KBO리그최초,전...",
+  "인텔29%폭락…AI투자불안에한국증시도휘청",
+  "이상일용인시장,피렌체와반도체·문화교류추진…암스테르담교통개...",
+  "[데일리티뉴스룸]10월31일,어제의주요뉴스네컷정리"
  ],
  "recent_sigs": [
-  [
-   "2026-10-31T09:21:04.259746+09:00",
-   "높게 환전 강세 비율 호실적 삼전닉스 유지 원화 뒷받침 수출대금"
-  ],
-  [
-   "2026-10-31T09:21:04.259746+09:00",
-   "풀자 정유사 휘발유 수출 빗장 셈법 4분기 복잡 마진 급락"
-  ],
   [
    "2026-10-31T09:31:07.593044+09:00",
    "신도시 기능 비상 제자리걸음 입주 기업 유치 임박한 자족 3기"
@@ -6275,9 +6267,13 @@
   [
    "2026-10-31T15:11:14.717565+09:00",
    "AI 올트먼과 50여명 전격 간담회 사장단 삼성 오픈AI 혁신"
+  ],
+  [
+   "2026-10-31T15:21:05.936059+09:00",
+   "어제의 10월 주요 정리 31일"
   ]
  ],
- "last_run": "2026-10-31T15:11:31.130919+09:00",
+ "last_run": "2026-10-31T15:21:12.517966+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
