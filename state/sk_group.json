@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1641126",
-  "https://www.bloter.net/news/articleView.html?idxno=677074",
-  "https://news.mtn.co.kr/article/2026102916285139228",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499773",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441980",
   "https://www.m-economynews.com/news/article.html?no=72293",
   "https://www.jasm.co.kr/news/view/323478/?sc=Naver",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=901316",
@@ -2999,14 +2994,14 @@
   "https://www.sentv.co.kr/article/view/sentv202610300186",
   "https://www.dailian.co.kr/news/view/1708953/?sc=Naver",
   "https://www.sedaily.com/article/20108218",
-  "https://www.hankyung.com/article/2026103058016"
+  "https://www.hankyung.com/article/2026103058016",
+  "https://www.munhwa.com/article/11627780",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500269",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=621502",
+  "https://www.hankyung.com/article/2026110178927",
+  "https://www.thebigdata.co.kr/view.php?ud=2026103014083028260ecbf9426b_23"
  ],
  "seen_titles": [
-  "[용인24시]용인시,반도체미래그린다…ASML·첨단산업도시와협력...",
-  "UBS,코스피목표치7500으로하향…\"내년느려도회복\"",
-  "[진단]정부'최고가격제'손실보전'예산범위내지원'방침고수",
-  "'최하위+6연패'빠진디펜딩챔피언KCC...프림빠진현대모비스상대연...",
-  "SK매직,얼음크기2배키웠다…'메가아이스'로시장공략",
   "SK이노,3분기영업익3.7조…사상첫'연간10조'가시권",
   "코스피,삼성전자'영업이익107조'에도5930선후퇴...대우건설·LG엔솔...",
   "부산銀\"반도체법인세가환전수요↑…연말·연초달러매도집중\"",
@@ -6001,7 +5996,12 @@
   "박현주의'큰시장'전략…미래에셋,日증권업첫발",
   "메모리사이클수혜노려볼까…ETF2종목출격",
   "[人터뷰+]“MLB밀워키우승비결...‘데이터활용’주목해야”",
-  "美중간선거후변동성확대가능성…SK하닉이완충판돼줄까[주간전망..."
+  "美중간선거후변동성확대가능성…SK하닉이완충판돼줄까[주간전망...",
+  "[이슈]“월요일이두렵다”하루29%급락인텔패닉",
+  "SK하이닉스,내년영업이익474조원전망…메모리슈퍼사이클더길어진...",
+  "[삼전닉스]삼성전자·SK하이닉스,10월마지막장동반약세…코스피57...",
+  "\"젠슨황도푹빠졌다\"…해외서불티난52년된'뚱바'",
+  "삼성HBM내년물량완판…SK도2년치생산능력절반계약"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,21 @@
   [
    "2026-11-01T08:11:11.548649+09:00",
    "완충판 돼줄까 SK하닉이 중간선거 변동성 확대 주간전망 가능성"
+  ],
+  [
+   "2026-11-01T08:18:04.013128+09:00",
+   "동반 코스피 마지막장 SK하이닉스 삼성전자 약세 10월"
+  ],
+  [
+   "2026-11-01T08:18:04.013128+09:00",
+   "황도 뚱바 빠졌다 불티난 해외서 젠슨 52년"
+  ],
+  [
+   "2026-11-01T08:18:04.013128+09:00",
+   "HBM 물량 생산능력 완판 삼성 내년 절반 SK도 계약 2년치"
   ]
  ],
- "last_run": "2026-11-01T08:11:27.773429+09:00",
+ "last_run": "2026-11-01T08:18:15.366167+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
