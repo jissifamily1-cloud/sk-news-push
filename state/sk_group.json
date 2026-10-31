@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jejudomin.co.kr/news/articleView.html?idxno=401784",
-  "https://www.tokenpost.kr/news/blockchain/429039",
-  "https://www.edaily.co.kr/News/Read?newsId=04546086645617840&mediaCodeNo=257",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729692",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=138460",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710971",
-  "https://www.sedaily.com/article/20107741",
-  "https://www.donga.com/news/Economy/article/all/20261029/134931641/2",
-  "https://www.namdonews.com/news/articleView.html?idxno=927633",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=212109",
   "https://www.koreaittimes.com/news/articleView.html?idxno=158629",
   "https://realty.chosun.com/site/data/html_dir/2026/10/29/2026102901899.html",
   "https://www.ajunews.com/view/20261029110253998",
@@ -2999,19 +2989,19 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026103109272861604c878f8fa1_30",
   "http://weekly.chosun.com/news/articleView.html?idxno=56751",
   "https://www.sentv.co.kr/article/view/sentv202610310008",
-  "https://economist.co.kr/article/view/ecn202610310001"
+  "https://economist.co.kr/article/view/ecn202610310001",
+  "https://www.slist.kr/news/articleView.html?idxno=777946",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16264440",
+  "https://view.asiae.co.kr/article/2026103109555446264",
+  "https://biz.heraldcorp.com/article/10921185",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=312125",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=730376",
+  "https://www.sisajournal.com/news/articleView.html?idxno=392211",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=312798",
+  "https://www.mediapen.com/news/view/1134014",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16264435"
  ],
  "seen_titles": [
-  "[食전食후]코스피,삼성전자약세에5920선으로후퇴…코스닥은2%대↓",
-  "박수영,'국쫌만'300회달성…6년간주민7300명목소리들어",
-  "서귀포시,버려지던폐현수막'다시쓰는자원'으로",
-  "디지털엑스,'토큰화주식'보고서발간…해외발행상품고려한국내...",
-  "중동發정유특수에날았다…SK이노영업익3.7조'사상최대'(종합)",
-  "[증권&Now]신한투자증권배당수령고객143만명…2년새31%증가등",
-  "정수기위생관리,필터교체부터코크세척까지…내부점검도중요",
-  "SKAX,AI기반역량진단솔루션'지핏스튜디오'출시",
-  "SK이노분기영업익경신에도…주주환원부재속6%급락[이런국장저런...",
-  "SK렌터카,‘2026한국품질만족지수’렌터카부문6년연속1위",
   "[K리그2]전남드래곤즈,김영욱공식은퇴식개최",
   "SSG닷컴,쓱데이맞아온라인단독상품100여종선봬",
   "[Insight]MSandAlphabetFuelSKhynixProfits,butAIInvestmentPayb",
@@ -6001,7 +5991,17 @@
   "이상일용인시장,이태리피렌체와자매결연·청년교류추진집중논의",
   "인텔52년만에최악의폭락…나스닥2.86%급락,AI거품공포확산",
   "뉴욕증시,AI투자수익성우려에급락…인텔29%↓",
-  "‘52여년만최악의하루’인텔29%급락,'얼마나나쁘길래?'"
+  "‘52여년만최악의하루’인텔29%급락,'얼마나나쁘길래?'",
+  "김강민,NC유니폼입는다…KBO최초외야코디네이터선임",
+  "NC다이노스,'짐승'김강민KBO리그첫외야코디네이터로영입",
+  "‘용인르네상스’이상일,발상지피렌체찾아“자매결연·청년교류...",
+  "“AI투자,언제돈되나”…월가‘냉정한평가’에美증시‘급락’...",
+  "알파벳에흔들린삼전닉스…이번엔'인텔쇼크'덮치나[주간증시해설...",
+  "[주간증시온도계]6000선탈환도잠시…급등락장세에대형주만웃었다",
+  "2030이'국장'에던지는마지막경고[이동수의세대진단]",
+  "SK하이닉스,日서첫파트너스데이…소부장20여개사와공급망협력",
+  "외국인두달새42조'셀코리아'…반도체호실적에도국장떠나는이유",
+  "10월마지막주SK하이닉스주가변동성확대"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,29 @@
   [
    "2026-10-31T09:41:05.544543+09:00",
    "하닉 IPO에 웃고 우려에 앤트로픽 AI 울고"
+  ],
+  [
+   "2026-10-31T10:01:17.439580+09:00",
+   "잠시 웃었다 탈환도 6000선 장세에 급등락 대형주만"
+  ],
+  [
+   "2026-10-31T10:01:17.439580+09:00",
+   "마지막 던지는 2030이 경고 국장"
+  ],
+  [
+   "2026-10-31T10:01:17.439580+09:00",
+   "소부장 파트너스데이 20여개사와 SK하이닉스 협력 공급망"
+  ],
+  [
+   "2026-10-31T10:01:17.439580+09:00",
+   "외국인 호실적에도 떠나는 이유 42조 국장 셀코리아 반도체"
+  ],
+  [
+   "2026-10-31T10:01:17.439580+09:00",
+   "마지막주 확대 SK하이닉스 변동성 10월 주가"
   ]
  ],
- "last_run": "2026-10-31T09:51:07.984006+09:00",
+ "last_run": "2026-10-31T10:01:34.088386+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
