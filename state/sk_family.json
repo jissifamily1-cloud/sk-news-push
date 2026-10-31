@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202609140600071",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=227638",
-  "https://www.chosun.com/national/court_law/2026/10/12/K3CN6C2T4RBQZKLROU6EJR3LFA/",
   "http://www.kwangju.co.kr/article.php?aid=1791805200804209277",
   "https://www.newsis.com/view/NISX20261012_0003822668",
   "https://www.socialvalue.kr/news/view/1065597710430379",
@@ -2999,12 +2996,12 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2012754",
   "https://www.sedaily.com/article/20108598",
   "https://www.newscj.com/news/articleView.html?idxno=3444739",
-  "https://www.mk.co.kr/article/12192456"
+  "https://www.mk.co.kr/article/12192456",
+  "https://imnews.imbc.com/news/2026/econo/article/6862206_36932.html",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7910",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/31/2026103190079.html"
  ],
  "seen_titles": [
-  "\"임은정,정치행위\"…중수청,1호감찰착수",
-  "[재계인사이드]SK바이오팜을통해엿보는SK그룹의미래",
-  "김정관“호남반도체,기업의지충분한수준넘어절박”",
   "김정관산업장관\"호남반도체2029년첫팹완공…2030년초양산목표...",
   "[미리보는이데일리신문]바이오·소부장까지…해외큰손韓몰린다",
   "이대통령,이번주중대국민소통···①인사②파병③공소취소‘삼...",
@@ -6001,7 +5998,10 @@
   "샘올트먼,최태원·삼성사장단과잇단회동…'AI혈맹'강화",
   "최태원,방한샘올트먼과회동…SK·오픈AI‘AI동맹’다진다",
   "샘올트먼,삼성이어SK와도만났다…최태원SK그룹회장과오찬",
-  "“어디에쓰는물건인고”....AI투자급랭속방한샘올트먼이꺼낸선..."
+  "“어디에쓰는물건인고”....AI투자급랭속방한샘올트먼이꺼낸선...",
+  "샘올트먼,삼성·SK잇따라방문‥회동AI협력논의",
+  "[비즈인사이트]반도체동맹에서AI경영동맹으로…올트먼,삼성·SK연...",
+  "최태원,김희영전시에외조행보…이수만도깜짝등장"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-10-31T17:20:15.177279+09:00",
    "꺼낸 급랭 올트먼이 투자 물건인고 AI 쓰는 방한 어디에"
+  ],
+  [
+   "2026-10-31T17:30:23.257507+09:00",
+   "행보 이수만도 등장 깜짝 전시에 외조"
   ]
  ],
- "last_run": "2026-10-31T17:20:28.568627+09:00",
+ "last_run": "2026-10-31T17:30:34.991224+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
