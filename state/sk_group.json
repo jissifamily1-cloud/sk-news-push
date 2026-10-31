@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450648",
-  "https://www.hankookilbo.com/news/article/A2026102218280003291?did=NA",
-  "https://www.g-enews.com/view.php?ud=202610291524018753153ddfb15a_1",
-  "https://www.nocutnews.co.kr/news/6599266",
   "http://www.4th.kr/news/articleView.html?idxno=2120705",
   "https://www.biotimes.co.kr/news/articleView.html?idxno=35720",
   "https://news.tf.co.kr/read/economy/2382526.htm",
@@ -2999,13 +2995,13 @@
   "https://www.lecturernews.com/news/articleView.html?idxno=212927",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=312126",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553662162",
-  "https://www.nc.press/news/articleView.html?idxno=629928"
+  "https://www.nc.press/news/articleView.html?idxno=629928",
+  "http://www.newstomato.com/ReadNews.aspx?no=1318752&inflow=N",
+  "https://www.betanews.net/article/view/beta202610310017",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486882",
+  "https://econotimes.com/Samsung-posts-record-quarterly-profit-sets-shareholder-payouts-1767613"
  ],
  "seen_titles": [
-  "어닝콜쟁탈전···투자정보경쟁불붙었다",
-  "산업통상부,대한민국공학리더초청간담회",
-  "은행보안예산줄일때증권사는늘렸다…정보보호투자엇갈려",
-  "삼성전자올해영업이익370조전망,이재용엔비디아넘어'세계1위'테...",
   "AI시대기업성장좌우할'토큰거버넌스'",
   "'AI테마'잡아라…운용사들,전력·부품·로봇ETF잇달아출시",
   "\"토요일엔국회의원만난다\"…박수영'국쫌만'300회눈앞",
@@ -6001,7 +5997,11 @@
   "최태원SK그룹회장·오픈AI샘올트먼CEO오찬회동…HBM공급·AI데이...",
   "AI로벌고AI에흔들렸다…알파벳의역설이던진'AI고점론'[시크한...",
   "[현장목소리]'무승부아쉬움'이정규감독,\"반흐룬스벤부상으로계...",
-  "[박동선의머니&엔터]엔비디아가택한네이버…AI동맹첫시험은'K-콘..."
+  "[박동선의머니&엔터]엔비디아가택한네이버…AI동맹첫시험은'K-콘...",
+  "최태원·올트먼회동…AI반도체협력논의주목",
+  "최태원·샘올트먼,1년만에서울서재회…HBM·AI데이터센터협력주...",
+  "[증시동향]코스피,반짝반등에그치나",
+  "Samsungpostsrecordquarterlyprofit,setsshareholderpayouts"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,17 @@
   [
    "2026-10-31T19:10:59.394407+09:00",
    "AI 네이버 동맹 엔비디아가 시험은 택한"
+  ],
+  [
+   "2026-10-31T19:21:02.834942+09:00",
+   "그치나 코스피 반등에 반짝"
+  ],
+  [
+   "2026-10-31T19:21:02.834942+09:00",
+   "posts profit sets record Samsung shareholder quarterly payouts"
   ]
  ],
- "last_run": "2026-10-31T19:11:05.140006+09:00",
+ "last_run": "2026-10-31T19:21:11.825932+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
