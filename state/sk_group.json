@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026102914132921185",
-  "https://www.koreatimes.co.kr/path/A2026102913440002259",
   "https://www.mk.co.kr/article/12189795",
   "https://www.newsway.co.kr/news/view?ud=2026102914162808950",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499301",
@@ -2999,11 +2997,11 @@
   "https://m.sports.naver.com/basketball/article/065/0000303710",
   "https://www.youthdaily.co.kr/news/article.html?no=229045",
   "https://economist.co.kr/article/view/ecn202610260038",
-  "https://www.vegannews.co.kr/news/article.html?no=398580"
+  "https://www.vegannews.co.kr/news/article.html?no=398580",
+  "https://economist.co.kr/article/view/ecn202610270060",
+  "https://www.g-enews.com/view.php?ud=20261031113257954fbbec65dfb_1"
  ],
  "seen_titles": [
-  "데스틴파워,코스닥상장증권신고서제출",
-  "SK바이오사이언스,에볼라백신개발추진…최대1328억원지원",
   "SKC,3분기적자폭352억원확대…소재부진지속",
   "동의과학대,전문대학브랜드평판부울경1위쾌거…전국18위달성",
   "SKBiosciencejoinsUS-backedprojecttodevelopBundibugyoEbolavac",
@@ -6001,7 +5999,9 @@
   "[26슬램게임]금빛없이도당당히‘로터리픽후보’…“포지션에서최...",
   "[청년발언대]현대기술이만드는반도체공정의혁신",
   "SK하이닉스가쏘아올린‘중복상장’논란…개미울리는‘물적분할’...",
-  "삼호개발용인집단에너지공사계약180억700만원으로증액"
+  "삼호개발용인집단에너지공사계약180억700만원으로증액",
+  "한화는시총34%늘었는데…카카오AI분할엔물음표왜?",
+  "마이크론질주흔드는차세대규격…CXL과보안이열어젖힌2027년틈새"
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-10-31T11:31:09.210234+09:00",
    "증액 공사 삼호개발 계약 180억700만원으로 용인 집단에너지"
+  ],
+  [
+   "2026-10-31T11:41:10.096857+09:00",
+   "틈새 CXL과 보안이 2027년 마이크론 질주 열어젖힌 규격 차세대 흔드는"
   ]
  ],
- "last_run": "2026-10-31T11:31:16.887601+09:00",
+ "last_run": "2026-10-31T11:41:16.812171+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
