@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.jndn.com/article.php?aid=1791799128441027003",
-  "http://www.kjdaily.com/article.php?aid=1791800026688821018",
-  "https://www.mk.co.kr/article/12173991",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004954",
-  "https://www.betanews.net/article/view/beta202610120161",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683426",
-  "https://www.khan.co.kr/article/202609132034005",
   "https://www.kbmaeil.com/article/20261012500787",
   "https://www.insight.co.kr/news/577459",
   "https://biz.chosun.com/topics/law_firm/2026/10/12/JIRADZXFQFEU3HU4225FQLCIR4/",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20261031034400003?input=1195m",
   "https://biz.sbs.co.kr/article_hub/20000343441?division=NAVER",
   "https://www.edaily.co.kr/News/Read?newsId=02469846645618496&mediaCodeNo=257",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729961"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729961",
+  "https://news.unn.net/news/articleView.html?idxno=599700",
+  "https://biz.chosun.com/industry/company/2026/10/31/ZJHHIZ2RMVDDDNXASNPFSKLWWQ/",
+  "https://www.kado.net/news/articleView.html?idxno=2081697",
+  "https://www.ajunews.com/view/20261031154058004",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610310025&t=NN",
+  "https://www.lawissue.co.kr/view.php?ud=2026103115400921099817d053b9_12",
+  "https://www.etoday.co.kr/news/view/2642541"
  ],
  "seen_titles": [
-  "최태원,노소영과재산분할놓고재상고…기여도·주가반영쟁점",
-  "“국감불러야...기업협박”...산자위,최태원광주방문설전",
-  "김동철한전사장“호남반도체전력망비용20%부담”",
-  "‘노소영몫33%’못받아들인최태원…대법원재상고",
-  "최태원\"사회적가치에보상,새자본주의로\"…'ELE'서울서첫개최",
-  "김정관산업장관“서남권기업투자지원구체화”",
-  "[사설]호남반도체클러스터성패는실행여부다",
   "최태원“노소영33%는과해”…재산분할비율다시대법원으로",
   "최태원,상고이유서제출…노소영과67:33재산분할비율다툰다",
   "최태원방문사흘만에산업부장관도광주로…반도체클러스터조성속...",
@@ -6001,7 +5994,14 @@
   "최태원SK그룹회장,샘올트먼과오찬회동…AI협력주목",
   "최태원SK그룹회장,샘올트먼과오찬…AI협력주목",
   "최태원,올트먼과오찬회동…HBM·AI데이터센터협력논의주목",
-  "최태원,샘올트먼과오찬…HBM·AI데이터센터협력주목"
+  "최태원,샘올트먼과오찬…HBM·AI데이터센터협력주목",
+  "국립목포대,제34회학생학술심포지엄개최",
+  "최태원SK그룹회장,샘올트먼과오찬회동…AI협력논의",
+  "최태원,샘올트먼과오찬회동…SK·오픈AIAI협력논의주목",
+  "최태원,방한올트먼과오찬…HBM·AI데이터센터협력논의주목",
+  "한국온샘올트먼,최태원SK그룹회장과오찬회동",
+  "최태원SK회장,방한한올트먼과오찬…HBM·데이터센터협력논의가능...",
+  "최태원,방한올트먼과오찬…SK하이닉스·SKT임원동석"
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,13 @@
   [
    "2026-10-31T15:20:14.339183+09:00",
    "오픈AI 오찬 회장 CEO와 올트먼"
+  ],
+  [
+   "2026-10-31T15:50:14.840080+09:00",
+   "SKT 올트먼과 방한 임원 SK하이닉스 오찬 동석"
   ]
  ],
- "last_run": "2026-10-31T15:40:24.317495+09:00",
+ "last_run": "2026-10-31T15:50:26.730194+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
