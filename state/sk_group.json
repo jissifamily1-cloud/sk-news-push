@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/stock/2026/10/29/2026102916021016096",
   "https://www.job-post.co.kr/news/articleView.html?idxno=235412",
   "https://www.newscammp.co.kr/news/articleView.html?idxno=7152",
   "https://www.ytn.co.kr/_ln/0102_202610291611242912",
@@ -2999,10 +2998,10 @@
   "https://www.dailian.co.kr/news/view/1709081/?sc=Naver",
   "https://mhnse.com/news/articleView.html?idxno=1655701",
   "https://www.sportschosun.com/entertainment/2026-11-01/202611010100001880000016",
-  "https://www.jemin.com/news/articleView.html?idxno=845822"
+  "https://www.jemin.com/news/articleView.html?idxno=845822",
+  "http://www.kjdaily.com/article.php?aid=1793486651690758276"
  ],
  "seen_titles": [
-  "코스피,6000선하회...삼성전자4%하락",
   "코스피,하루만에6000선내줘…1.24%내린5937.66마감[fn마감시황]",
   "\"많이쓰는AI아닌잘쓰는AI\"…SKT,토큰효율로‘AX시프트'",
   "'6000피'하루천하…삼성전자주주환원실망에투심이탈",
@@ -6001,7 +6000,8 @@
   "인텔주가29%곤두박질,시총183조원증발…“52년만에최악의하루”",
   "밀워키,김성근감독‘야한속옷징크스’보다더하네…WS우승비결이...",
   "이천수,'세계상위10%'영재딸에서운\"아빠창피해하고친구옆에도...",
-  "마이크론,AI메모리장기계약320억달러확보…HBM시장주도권경쟁..."
+  "마이크론,AI메모리장기계약320억달러확보…HBM시장주도권경쟁...",
+  "삼성전자우주가3.69%상승…막판이틀간8.42%하락"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-11-01T07:21:04.524652+09:00",
    "주가 시총 증발 183조원 하루 곤두박질 만에 52년 최악의 인텔"
+  ],
+  [
+   "2026-11-01T07:51:17.336939+09:00",
+   "이틀간 하락 삼성전자우 막판 주가 상승"
   ]
  ],
- "last_run": "2026-11-01T07:41:06.235898+09:00",
+ "last_run": "2026-11-01T07:51:23.768190+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
