@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=241348",
-  "https://www.newsway.co.kr/news/view?ud=2026102911513958827",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2353470",
-  "https://www.newspost.kr/news/articleView.html?idxno=226831",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=235303",
-  "http://www.inews24.com/view/2020451",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092173079",
   "https://www.eroun.net/news/articleView.html?idxno=93501",
   "https://www.kpinews.kr/newsView/1065585474683440",
   "https://www.kpinews.kr/newsView/1065585648598308",
@@ -2999,16 +2992,16 @@
   "https://biz.sbs.co.kr/article_hub/20000343441?division=NAVER",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486866",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1729961",
-  "https://www.edaily.co.kr/News/Read?newsId=02469846645618496&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02469846645618496&mediaCodeNo=257",
+  "https://biz.chosun.com/industry/company/2026/10/31/ZJHHIZ2RMVDDDNXASNPFSKLWWQ/",
+  "https://www.etoday.co.kr/news/view/2642541",
+  "https://news.jtbc.co.kr/article/NB12325825?influxDiv=NAVER",
+  "https://www.kado.net/news/articleView.html?idxno=2081697",
+  "https://www.ajunews.com/view/20261031154058004",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610310025&t=NN",
+  "https://www.lawissue.co.kr/view.php?ud=2026103115400921099817d053b9_12"
  ],
  "seen_titles": [
-  "SKAX,AI면접으로지원자1800명6시간만에평가",
-  "용인시,ASML본사서반도체협력논의…기술지원센터추진점검",
-  "삼성전자3분기최대실적발표에도주가하락,그이유는?",
-  "SK매직,정수기위생관리강화…셀프점검에전문가관리병행",
-  "SK온,ESS수주늘었지만또적자…실적반영은내년부터",
-  "SKAX,AI기반채용평가솔루션출시…1800명역량6시간만에측정",
-  "SKAX,AI기반역량진단솔루션'지핏스튜디오'공개",
   "SK이노베이션13만200원으로6.80%하락…배터리·정유수익성점검",
   "SK온,3분기영업손실805억원⋯일회성이익소멸에적자전환",
   "SK온,美탈중국ESS수요공략…EV라인전환",
@@ -6001,29 +5994,16 @@
   "최태원SK그룹회장,샘올트먼과오찬…AI협력주목",
   "이상일용인시장,이탈리아피렌체와자매결연·대학생교류협의",
   "최태원,샘올트먼과오찬…HBM·AI데이터센터협력주목",
-  "최태원,올트먼과오찬회동…HBM·AI데이터센터협력논의주목"
+  "최태원,올트먼과오찬회동…HBM·AI데이터센터협력논의주목",
+  "최태원SK그룹회장,샘올트먼과오찬회동…AI협력논의",
+  "최태원,방한올트먼과오찬…SK하이닉스·SKT임원동석",
+  "AI투자수익성우려에뉴욕증시급락…인텔29%폭락",
+  "최태원,샘올트먼과오찬회동…SK·오픈AIAI협력논의주목",
+  "최태원,방한올트먼과오찬…HBM·AI데이터센터협력논의주목",
+  "한국온샘올트먼,최태원SK그룹회장과오찬회동",
+  "최태원SK회장,방한한올트먼과오찬…HBM·데이터센터협력논의가능..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-31T09:41:05.544543+09:00",
-   "실적 합계 흑자부터 넘어선 알파벳 경상수지"
-  ],
-  [
-   "2026-10-31T09:41:05.544543+09:00",
-   "용인시장 이상일 피렌체 협력방안 이탈리아 방문 용인 시청"
-  ],
-  [
-   "2026-10-31T09:41:05.544543+09:00",
-   "증시 매입에도 코스피 방어막 그쳤다 자사주 하방 SK하이닉스 하락"
-  ],
-  [
-   "2026-10-31T09:41:05.544543+09:00",
-   "만에 하루 랠리 인텔 추락 공포의 AI 흔드는"
-  ],
-  [
-   "2026-10-31T09:41:05.544543+09:00",
-   "하닉 IPO에 웃고 우려에 앤트로픽 AI 울고"
-  ],
   [
    "2026-10-31T10:01:17.439580+09:00",
    "잠시 웃었다 탈환도 6000선 장세에 급등락 대형주만"
@@ -6261,7 +6241,7 @@
    "어제의 10월 주요 정리 31일"
   ]
  ],
- "last_run": "2026-10-31T15:41:04.273276+09:00",
+ "last_run": "2026-10-31T15:51:06.603393+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
