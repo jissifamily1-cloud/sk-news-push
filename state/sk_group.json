@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44906",
-  "https://news.bizwatch.co.kr/article/industry/2026/10/29/0022",
-  "https://www.thelec.kr/news/articleView.html?idxno=64515",
-  "https://www.viva100.com/article/20261029500760",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290049&t=NN",
-  "http://worknworld.kctu.org/news/articleView.html?idxno=510203",
-  "https://www.ekn.kr/web/view.php?key=20261029020432785",
-  "https://www.namdonews.com/news/articleView.html?idxno=927634",
   "https://www.etoday.co.kr/news/view/2641741",
   "https://m.skyedaily.com/news_view.html?ID=313763",
   "https://biz.chosun.com/industry/business_info/2026/10/29/QTK3B2Z6CZDIBGUCZB4U2GEVYE/",
@@ -2999,17 +2991,17 @@
   "https://www.jasm.co.kr/news/view/323660/?sc=Naver",
   "https://www.busan.com/view/busan/view.php?code=2026103109122823065",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4442317",
-  "http://www.segyebiz.com/newsView/20261031502919?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20261031502919?OutUrl=naver",
+  "https://www.mk.co.kr/article/12192377",
+  "https://www.sportschosun.com/baseball/2026-10-31/202610310100199200014148",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016663",
+  "http://www.osen.co.kr/article/G1112901742",
+  "http://www.yonhapnewstv.co.kr/news/MYH202610310928350pM",
+  "https://www.thepublic.kr/news/articleView.html?idxno=324498",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130504",
+  "https://www.ngonews.kr/news/articleView.html?idxno=242006"
  ],
  "seen_titles": [
-  "ESS확대속실적희비…삼성SDI2분기연속흑자,SK온적자전환",
-  "SK이노베이션,3분기영업익3.7조‘역대최대’…정유·윤활유호조",
-  "LG전자,가전넘어AI인프라로성장축확대…'냉각사업'이체질바꾼다",
-  "석유공급난에영업익6배…SK이노베이션'3.7조잭팟'",
-  "SK이노베이션,2026년3분기실적발표컨퍼런스콜전문",
-  "동의과학대,10월전문대학브랜드평판부울경1위",
-  "은행서증권·코인까지번진해킹…보안주성장판열린다",
-  "\"SK하이닉스책임지고,원청교섭시행하라!\"",
   "K배터리지원책연내나온다…국내생산촉진세제도입검토나서",
   "[시황]코스피1.23%하락5,938선…삼성전자4.86%급락",
   "SKT,일하는방식재설계…비용절감넘어성과연결‘AX시프트’",
@@ -6001,7 +5993,15 @@
   "[뉴욕증시]기술주매도확대에…나스닥2.86%↓·인텔28.58%↓",
   "인텔주가폭락에AI투자우려또제기…나스닥2.86%하락",
   "\"삼전닉스호실적,원화강세뒷받침…수출대금환전비율높게유지\"",
-  "中수출빗장풀자휘발유마진급락…정유사4분기셈법복잡"
+  "中수출빗장풀자휘발유마진급락…정유사4분기셈법복잡",
+  "NC,김강민외야코디네이터영입…“외야수비경쟁력높이는데힘보...",
+  "KBO최초탄생!'짐승수비'공룡에이식한다…NC,김강민외야코디네이...",
+  "[오피셜]'짐승'김강민NC수비뜯어고친다,외야코디네이터계약\"부...",
+  "SK왕조인연인가,NC가짐승을품었다...\"외야수비경쟁력강화\"NC김...",
+  "삼전닉스'100조주주환원'경쟁…통큰승부수통할까",
+  "입주임박한3기신도시,기업유치'제자리걸음'…자족기능비상",
+  "'반도체독립'팔걷은현대모비스…국산차량용반도체주도한다",
+  "\"부여는불법현수막도시?\"…공공기관마저법어겨"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,21 @@
   [
    "2026-10-31T09:21:04.259746+09:00",
    "풀자 정유사 휘발유 수출 빗장 셈법 4분기 복잡 마진 급락"
+  ],
+  [
+   "2026-10-31T09:31:07.593044+09:00",
+   "신도시 기능 비상 제자리걸음 입주 기업 유치 임박한 자족 3기"
+  ],
+  [
+   "2026-10-31T09:31:07.593044+09:00",
+   "걷은 차량용 반도체 주도한다 국산 현대모비스 독립"
+  ],
+  [
+   "2026-10-31T09:31:07.593044+09:00",
+   "부여는 불법 어겨 현수막 도시 공공기관마저"
   ]
  ],
- "last_run": "2026-10-31T09:21:12.567119+09:00",
+ "last_run": "2026-10-31T09:31:18.842800+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
