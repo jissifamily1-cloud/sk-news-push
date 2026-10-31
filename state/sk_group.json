@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=361507",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877631",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901290",
-  "https://www.gokorea.kr/news/articleView.html?idxno=883292",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=241348",
   "https://www.newsway.co.kr/news/view?ud=2026102911513958827",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2353470",
@@ -2999,13 +2995,13 @@
   "https://bizhankook.com/articles/intel-stock-plunges-ai-jitters.html",
   "http://www.fieldnews.kr/news/articleView.html?idxno=32716",
   "https://www.dailyt.co.kr/newsView/dlt202610310007",
-  "https://www.yna.co.kr/view/AKR20261031034400003?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261031034400003?input=1195m",
+  "https://biz.sbs.co.kr/article_hub/20000343441?division=NAVER",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486866",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729961",
+  "https://www.edaily.co.kr/News/Read?newsId=02469846645618496&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "SKAX,AI기반인사솔루션'지핏스튜디오'출시",
-  "방미통위,SKB·HCN·티캐스트등장애인방송의무편성사업자89곳지정",
-  "삼성전자,3분기HBM매출HBM4가60%담당…SK하이닉스턱밑추격",
-  "SK바이오사이언스,美지원아래글로벌파트너들과분디부교에볼라백...",
   "SKAX,AI면접으로지원자1800명6시간만에평가",
   "용인시,ASML본사서반도체협력논의…기술지원센터추진점검",
   "삼성전자3분기최대실적발표에도주가하락,그이유는?",
@@ -6001,7 +5997,11 @@
   "인텔29%폭락…AI투자불안에한국증시도휘청",
   "이상일용인시장,피렌체와반도체·문화교류추진…암스테르담교통개...",
   "[데일리티뉴스룸]10월31일,어제의주요뉴스네컷정리",
-  "최태원SK그룹회장,샘올트먼과오찬회동…AI협력주목"
+  "최태원SK그룹회장,샘올트먼과오찬회동…AI협력주목",
+  "최태원SK그룹회장,샘올트먼과오찬…AI협력주목",
+  "이상일용인시장,이탈리아피렌체와자매결연·대학생교류협의",
+  "최태원,샘올트먼과오찬…HBM·AI데이터센터협력주목",
+  "최태원,올트먼과오찬회동…HBM·AI데이터센터협력논의주목"
  ],
  "recent_sigs": [
   [
@@ -6261,7 +6261,7 @@
    "어제의 10월 주요 정리 31일"
   ]
  ],
- "last_run": "2026-10-31T15:31:16.313970+09:00",
+ "last_run": "2026-10-31T15:41:04.273276+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
