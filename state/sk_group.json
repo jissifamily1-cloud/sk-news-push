@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449083",
-  "https://news.tf.co.kr/read/economy/2375147.htm",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494431",
-  "https://www.dailian.co.kr/news/view/1700361/?sc=Naver",
   "http://www.press9.kr/news/articleView.html?idxno=84038",
   "https://www.newsis.com/view/NISX20261012_0003821926",
   "https://www.cbci.co.kr/news/articleView.html?idxno=614386",
@@ -2999,13 +2995,13 @@
   "https://www.newscj.com/news/articleView.html?idxno=3444957",
   "https://www.khan.co.kr/article/202611012023025",
   "https://www.bigtanews.co.kr/article/view/big202611010008",
-  "https://www.joongang.co.kr/article/25474785"
+  "https://www.joongang.co.kr/article/25474785",
+  "https://www.khan.co.kr/article/202611012034005",
+  "http://www.kjdaily.com/article.php?aid=1793532262690942004",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825252&plink=ORI&cooper=NAVER",
+  "https://www.greened.kr/news/articleView.html?idxno=353555"
  ],
  "seen_titles": [
-  "AI가끌어올린메모리수요…한국반도체실적호조속글로벌완제품...",
-  "서초구'아크로리버파크'26평,7.3억오른62.8억원에거래[일일신고...",
-  "SK하이닉스,솔리다임미국상장계획접는다",
-  "세보엠이씨용인공사계약액2억5588만원줄어",
   "[단독]최창원,내년에도SK수펙스이끈다…최태원신임재확인",
   "청년들대상으로강연하는최태원SK그룹회장",
   "최태원회장,청년들과미래·성장해법나눠",
@@ -6001,33 +5997,13 @@
   "[농구]SK,삼성10연승저지…오재현,22득점맹활약",
   "SK,삼성개막10연승막고5연승질주",
   "[한컷세상]실적은방패,공포는태평양직배송",
-  "‘에릭2골+조현택펄펄’프로축구울산,강원꺾고2위사수"
+  "‘에릭2골+조현택펄펄’프로축구울산,강원꺾고2위사수",
+  "메모리급한올트먼‘깜짝방한’…삼성·SK와‘AI동맹’굳히기",
+  "삼성하나들어왔을뿐인데…도시가확달라졌다",
+  "나스닥폭락에촉각…월요일코스피괜찮을까",
+  "코오롱글로벌,과거입찰담합제재이어공정위현장조사…4세경영속..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-01T14:31:14.514775+09:00",
-   "상승 가격 최고치 역대 D램 경신 PC용"
-  ],
-  [
-   "2026-11-01T14:31:14.514775+09:00",
-   "attention Codex Samsung to CEO presidents draws OpenAI keyboard gift"
-  ],
-  [
-   "2026-11-01T14:31:14.514775+09:00",
-   "외환위기급 반복 지난달 급락 롤러코스피"
-  ],
-  [
-   "2026-11-01T14:40:59.725908+09:00",
-   "AI 동맹 삼성 방한에 데이터센터 가속 올트먼 협력 반도체"
-  ],
-  [
-   "2026-11-01T14:40:59.725908+09:00",
-   "LS 부산시 1630억 776명 투자유치 고용 3개사 쿠팡 기대"
-  ],
-  [
-   "2026-11-01T14:40:59.725908+09:00",
-   "달렸다 외인 관건 증시 매도 받아줄 월요일 기반이 수급에 매수"
-  ],
   [
    "2026-11-01T14:51:08.440742+09:00",
    "망령 삼전닉스 AI 거품론 월요일이 되살아난 두렵다"
@@ -6603,9 +6579,21 @@
   [
    "2026-11-01T20:31:09.109889+09:00",
    "꺾고 2위 에릭 펄펄 프로축구 조현택 강원 사수 울산 2골"
+  ],
+  [
+   "2026-11-01T20:41:04.376192+09:00",
+   "뿐인데 도시가 삼성 달라졌다 들어왔을 하나"
+  ],
+  [
+   "2026-11-01T20:41:04.376192+09:00",
+   "괜찮을까 촉각 나스닥 폭락에 코스피 월요일"
+  ],
+  [
+   "2026-11-01T20:41:04.376192+09:00",
+   "과거 입찰담합 코오롱글로벌 4세 공정위 제재 현장조사 이어 경영"
   ]
  ],
- "last_run": "2026-11-01T20:31:17.855733+09:00",
+ "last_run": "2026-11-01T20:41:15.792193+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
