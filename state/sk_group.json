@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026102944381",
-  "https://www.econovill.com/news/articleView.html?idxno=755377",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290179&t=NN",
-  "https://www.sedaily.com/article/20107994",
-  "https://biz.sbs.co.kr/article_hub/20000343110?division=NAVER",
-  "https://www.newspim.com/news/view/20261029001365",
-  "https://www.biotimes.co.kr/news/articleView.html?idxno=35729",
-  "http://www.queen.co.kr/news/articleView.html?idxno=465516",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193946",
   "https://www.bloter.net/news/articleView.html?idxno=677188",
   "https://www.hankyung.com/article/2026102944281",
@@ -2999,17 +2991,17 @@
   "https://www.busan.com/view/busan/view.php?code=2026110114201739048",
   "https://www.yna.co.kr/view/PYH20261101035300013?input=1196m",
   "https://www.koreatimes.co.kr/path/A2026110114180002137",
-  "https://www.dailian.co.kr/news/view/1709171/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1709171/?sc=Naver",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228338",
+  "https://www.joongangenews.com/news/articleView.html?idxno=560109",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1307147",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160261242099812",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173285",
+  "https://www.ajunews.com/view/20261101142532709",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1069885",
+  "https://www.edaily.co.kr/News/Read?newsId=02089366645641456&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[사설]기업버티기에막히는개인정보유출피해구제,제도개선시급...",
-  "[국가생산성대회]반세기이어온생산성혁신…이명수등AI·제조안전...",
-  "배터리업계주역들한자리에…'제6회배터리산업의날'",
-  "[단독]SK,오늘사장단인사'안정속쇄신'에무게",
-  "엄기천배터리협회장\"적자기업직접환급추진…업황완전회복은아...",
-  "SK스퀘어,티맵경영권매각추진…골드만삭스와협상",
-  "반도체폐기물99%제거…“하이닉스넘어TSMC로수주확대”",
-  "'107조'삼전털썩…코스피하루만에6천선반납",
   "[프로축구]제주,구자철어드바이저의혹전면부인…\"사실무근,법적...",
   "SK바이오사이언스,美정부지원받아분디부교에볼라백신개발·생산...",
   "[오늘증시]삼성전자주주환원실망감에코스피6000선붕괴…반도체훈...",
@@ -6001,7 +5993,15 @@
   "사이버도박장된증시…코스피,지난달16%폭락",
   "PC용D램가격5.8%상승,역대최고치경신",
   "OpenAICEO'sCodexkeyboardgifttoSamsungpresidentsdrawsattentio",
-  "외환위기급'롤러코스피'반복…지난달16%급락"
+  "외환위기급'롤러코스피'반복…지난달16%급락",
+  "중국CXMT,\"차세대D램시제품검증완료…점진적양산\"",
+  "SK하이닉스AI해커톤,'시스템장애'로중단…2차예선'재응시'진행",
+  "이상일용인시장,네덜란드도시교류·시립미술관구상협력",
+  "이상일용인특례시장,피렌체와자매결연·대학생교류논의",
+  "샘올트먼,삼성·SK연쇄회동…AI·반도체협력확대",
+  "샘올트먼방한에삼성·SK'AI동맹'가속…반도체·데이터센터협력확...",
+  "부산시,쿠팡·LS등3개사1630억투자유치…776명고용기대",
+  "“외인매도받아줄매수기반이관건”…월요일증시,수급에달렸다"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,21 @@
   [
    "2026-11-01T14:31:14.514775+09:00",
    "외환위기급 반복 지난달 급락 롤러코스피"
+  ],
+  [
+   "2026-11-01T14:40:59.725908+09:00",
+   "AI 동맹 삼성 방한에 데이터센터 가속 올트먼 협력 반도체"
+  ],
+  [
+   "2026-11-01T14:40:59.725908+09:00",
+   "LS 부산시 1630억 776명 투자유치 고용 3개사 쿠팡 기대"
+  ],
+  [
+   "2026-11-01T14:40:59.725908+09:00",
+   "달렸다 외인 관건 증시 매도 받아줄 월요일 기반이 수급에 매수"
   ]
  ],
- "last_run": "2026-11-01T14:31:26.007937+09:00",
+ "last_run": "2026-11-01T14:41:11.251506+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
