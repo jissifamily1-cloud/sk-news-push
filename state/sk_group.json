@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswatch.kr/news/articleView.html?idxno=81716",
-  "https://www.hankyung.com/article/2026102941287",
-  "https://www.mk.co.kr/article/12190050",
-  "https://www.newsway.co.kr/news/view?ud=2026102914152227826",
-  "https://www.khan.co.kr/article/202610291705001",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307871",
-  "https://magazine.hankyung.com/business/article/202610294201b",
   "https://www.jasm.co.kr/news/view/323486/?sc=Naver",
   "https://www.cnbnews.com/news/articleView.html?idxno=1021567",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=257637",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261101_0003849622",
   "https://www.dt.co.kr/article/12092371",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7914",
-  "https://www.segye.com/newsView/20261101504045?OutUrl=naver"
+  "https://www.segye.com/newsView/20261101504045?OutUrl=naver",
+  "https://www.m-economynews.com/news/article.html?no=72375",
+  "https://www.dt.co.kr/article/12092378",
+  "http://www.kjdaily.com/article.php?aid=1793496904690774276",
+  "https://www.kukinews.com/article/view/kuk202611010012",
+  "https://www.newsis.com/view/NISX20261101_0003849639",
+  "https://www.newspim.com/news/view/20261101000031",
+  "https://www.g-enews.com/view.php?ud=202611011019143366fbbec65dfb_1"
  ],
  "seen_titles": [
-  "삼성전자,반도체로106조벌고스마트폰은적자…'메모리호황'의두얼...",
-  "[금요칼럼]AI시대바다의인재양성",
-  "골드만삭스,'티맵'최대주주되나…SK스퀘어,경영권매각추진",
-  "[초점]'역대급실적'삼전닉스…주가는엇갈렸다왜",
-  "구자철감독선임에개입?구단측\"사익의혹사실아냐\"",
-  "SK바이오사이언스,美정부지원받아에볼라백신개발·생산참여",
-  "삼전닉스,분기합산매출300兆육박…주주환원도'역대급'(종합)",
   "주주환원기대너무컸나?삼성전자4%하락,‘6000피’반납",
   "키움증권,IB수수료수익2년새3배···기업금융성장본격화",
   "최태원,서울대서AI시대시장경제·인재상특강",
@@ -6001,7 +5994,14 @@
   "칩공급넘어'AI동맹'으로…삼성·SK,과잉투자우려뚫고오픈AI와협...",
   "‘자사주매입’101조돌파…‘삼전닉스’가80%주도",
   "[마켓뷰]AI에웃고울고…코스피,10월역대급롤러코스터에11월도살...",
-  "롤러코스터탄10월증시…11월‘美선거·빅테크실적’에쏠린눈"
+  "롤러코스터탄10월증시…11월‘美선거·빅테크실적’에쏠린눈",
+  "삼성전자,반도체폐수유해물질저감기술개발...내년평택사업장적...",
+  "“이재명대통령지시였나”…안철수,국민연금리밸런싱유예철저검...",
+  "[이번주증시]美반도체주급락…코스피향방은",
+  "코스피PER4.6배까지떨어졌지만…“반도체쏠림에저평가착시”",
+  "코스피한달만에16%빠졌다…변동성다시확대되나",
+  "안철수\"국민연금182조증발,리밸런싱유예누구지시인가\"",
+  "PC한파에무너진인텔…반도체슈퍼사이클의냉혹한양극화"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-11-01T10:31:09.910579+09:00",
    "빅테크 증시 10월 실적 쏠린 선거 11월 롤러코스터"
+  ],
+  [
+   "2026-11-01T10:40:59.920516+09:00",
+   "양극화 냉혹한 한파에 슈퍼사이클의 PC 반도체 무너진 인텔"
   ]
  ],
- "last_run": "2026-11-01T10:31:16.645414+09:00",
+ "last_run": "2026-11-01T10:41:06.665224+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
