@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.todayenergy.kr/news/articleView.html?idxno=304863",
-  "http://www.kwangju.co.kr/article.php?aid=1793273100804839008",
-  "https://zdnet.co.kr/view/?no=20261029174134",
-  "https://www.newstnt.com/news/articleView.html?idxno=725860",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6861765_37004.html",
   "https://www.hani.co.kr/arti/economy/economy_general/1284912.html",
   "https://zdnet.co.kr/view/?no=20261029203243",
@@ -2999,13 +2995,13 @@
   "https://www.ajunews.com/view/20261101142415704",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500364",
   "https://www.fnnews.com/news/202611011209356668",
-  "https://www.mk.co.kr/article/12192820"
+  "https://www.mk.co.kr/article/12192820",
+  "https://www.hankyung.com/article/2026102937186",
+  "http://www.4th.kr/news/articleView.html?idxno=2120889",
+  "https://www.hankookilbo.com/news/article/A2026110115010000460?did=NA",
+  "https://www.asiatime.co.kr/article/20261101500047"
  ],
  "seen_titles": [
-  "[바이오브리프]SK바이오사이언스·대웅제약·대원제약·휴메딕스",
-  "신한證배당고객143만명...기술주·지수ETF상위권",
-  "SK,SK일렉링크에'SK시그넷'넘긴다…최대2천억",
-  "[현장]제6회배터리산업의날....\"세액공제만으론부족하다\"",
   "전남드래곤즈김영욱,10년동행마침표",
   "배터리공장몰린헝가리정권교체에韓·中기업긴장",
   "[공시]10월30일,코스피상장사47개종목자사주매수신청",
@@ -6001,7 +5997,11 @@
   "SK하이닉스,'미주총괄'출범…개발수장전면배치로빅테크밀착강화",
   "한국거래소,삼성그룹·메모리반도체ETF2종상장",
   "美중간선거·고용지표에쏠린눈…\"실적보다는매크로주목\"[주간증시...",
-  "800조반도체'훈풍'에도광주집값'미풍'"
+  "800조반도체'훈풍'에도광주집값'미풍'",
+  "\"GTX타면서울역까지10분대\"…인천부평역다시뜨나[철길옆집]",
+  "中창신메모리,'4F²D램'한발후퇴..\"연내출시\"→\"시제품공급\"",
+  "요동쳤던10월코스피,11월엔반등할까…외국인복귀·美중간선거촉...",
+  "[힘내라K산업]④롯데타워담보잡혔던롯데그룹,2년만에'위기설'지웠..."
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,13 @@
   [
    "2026-11-01T17:01:19.901810+09:00",
    "훈풍 에도 반도체 800조 미풍 집값 광주"
+  ],
+  [
+   "2026-11-01T17:11:02.276284+09:00",
+   "롯데타워 잡혔던 만에 위기설 2년 롯데그룹 지웠 담보"
   ]
  ],
- "last_run": "2026-11-01T17:01:36.252123+09:00",
+ "last_run": "2026-11-01T17:11:08.912554+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
