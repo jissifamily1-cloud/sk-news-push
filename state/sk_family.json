@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1402076",
   "http://www.breaknews.com/1228828",
   "http://www.newskr.kr/news/articleView.html?idxno=105602",
   "https://kpenews.com/View.aspx?No=4184969",
@@ -2999,10 +2998,10 @@
   "https://www.news2day.co.kr/article/20261101500021",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016782",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4442365",
-  "https://www.imaeil.com/page/view/2026110112221140140"
+  "https://www.imaeil.com/page/view/2026110112221140140",
+  "https://www.seoultimes.news/news/article.html?no=2000101633"
  ],
  "seen_titles": [
-  "100년전'아리랑'의울림,국악선율로다시흐른다",
   "부경원협‘꽃꽂이교실’열어화훼소비촉진",
   "중기중앙회·중기학회,코스닥성장사다리강화도모",
   "[DD주간브리핑]\"6G·AIDC부터AI쇼핑까지\"...국회,AI인프라·플랫폼...",
@@ -6001,13 +6000,10 @@
   "[이태희의JOB채(101)]올트먼의삼성·SK비즈니스전략...반도체는사고...",
   "이런선수가대표팀은퇴라니…최민정'0.014초'모자란하루2관왕→10...",
   "샘올트먼,삼성·SK회동…AI·반도체협력강화",
-  "'대역전극완성한여왕'최민정,쇼트트랙2차월드투어1,000ｍ우승"
+  "'대역전극완성한여왕'최민정,쇼트트랙2차월드투어1,000ｍ우승",
+  "[CEO위클리]미래에셋박현주日증권사인수...삼성이재용합병소송..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-01T08:10:14.981593+09:00",
-   "먼저 한자 경영진도 방한에도 하이닉스 SKT 짧은 올트먼 만난"
-  ],
   [
    "2026-11-01T08:17:15.104459+09:00",
    "뚱바 빠졌다 52년 젠슨 황도 불티난 해외서"
@@ -6031,9 +6027,13 @@
   [
    "2026-11-01T13:30:22.589526+09:00",
    "전략 올트먼의 비즈니스 반도체는 삼성 사고"
+  ],
+  [
+   "2026-11-01T14:10:15.131899+09:00",
+   "삼성 소송 합병 증권사 미래에셋 박현주 인수 이재용"
   ]
  ],
- "last_run": "2026-11-01T14:00:43.028119+09:00",
+ "last_run": "2026-11-01T14:10:27.367658+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
