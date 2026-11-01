@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20100690",
-  "https://www.usmbc.co.kr/NewsArticle/864770",
   "https://www.mk.co.kr/article/12158196",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1102376",
   "https://www.segye.com/newsView/20261012525419?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "https://www.kgnews.co.kr/news/article.html?no=917660",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825086&plink=ORI&cooper=NAVER",
   "http://www.yonhapnewstv.co.kr/news/MYH20261101151357Pal",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553663105"
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553663105",
+  "https://www.joongang.co.kr/article/25474738",
+  "https://www.khan.co.kr/article/202611011521001"
  ],
  "seen_titles": [
-  "[포토]반도체메가프로젝트전력공급협약식",
-  "[포토]참석자들과대화하는김성환장관",
   "대구한의대임상병리학과,국제학생포럼3년연속'대상'",
   "[피부과시술제대로알기]볼살·눈밑꺼짐부터팔자주름까지…콜라겐...",
   "'빙상여제'최민정,생일날만난의문의남성…창속비친인물에'시선...",
@@ -6001,7 +5999,9 @@
   "‘쇼트트랙여제’성남시청최민정,또금빛질주…월드투어2주연속...",
   "[D리포트]최민정,짜릿한금빛역전쇼…'국가대표은퇴시즌'에도연속...",
   "'대선허위사실'尹2심선고…내란결심마무리",
-  "서울에서열리는'최민정마지막월드투어'3주앞으로다가왔다"
+  "서울에서열리는'최민정마지막월드투어'3주앞으로다가왔다",
+  "‘챗GPT아버지’올트먼도한국행,왜…‘귀하신몸’된K반도체",
+  "올트먼또방한,왜?…‘AI동맹’실체는?[산업이(異)면]"
  ],
  "recent_sigs": [
   [
@@ -6037,7 +6037,7 @@
    "AX 아버지 사장단 속도 삼성 챗GPT 낸다 올트먼 만난"
   ]
  ],
- "last_run": "2026-11-01T15:20:28.435090+09:00",
+ "last_run": "2026-11-01T15:30:33.094101+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
