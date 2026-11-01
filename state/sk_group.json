@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1708266/?sc=Naver",
-  "https://www.joongang.co.kr/article/25474102",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261029172338pel",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450689",
-  "https://www.mk.co.kr/article/12190097",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=241376",
   "https://www.joongang.co.kr/article/25474101",
   "https://www.xportsnews.com/article/2212882",
   "https://isplus.com/article/view/isp202610290143",
@@ -2999,15 +2993,15 @@
   "https://biz.heraldcorp.com/article/10921642",
   "https://www.ytn.co.kr/_ln/0102_202611011201038785",
   "https://www.yna.co.kr/view/AKR20261031020000008?input=1195m",
-  "https://basketkorea.com/news/newsview.php?ncode=1065599046244638"
+  "https://basketkorea.com/news/newsview.php?ncode=1065599046244638",
+  "https://www.kukinews.com/article/view/kuk202611010014",
+  "https://zdnet.co.kr/view/?no=20261101115152",
+  "https://www.ddaily.co.kr/page/view/2026110111403718829",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641566",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=885532",
+  "https://www.yna.co.kr/view/AKR20261101023300089?input=1195m"
  ],
  "seen_titles": [
-  "석달에190조벌어도정점아냐…삼전닉스장기계약줄섰다",
-  "[분석]SK이노베이션,정유·윤활유가실적견인…SK온은ESS로활로모...",
-  "남자U-19축구대표팀김정수호,11월중국판다컵→12월일본SBS컵연속...",
-  "최태원·노소영재산분할2라운드…9440억감액여부쟁점은[법조계에...",
-  "K배터리3사엇갈린3분기…‘ESS실적화’속도가갈랐다",
-  "[비즈&]현대차제네시스,GV90혁신기술공개外",
   "삼성전자주가온기'지분보유계열사'로퍼지나,삼성생명삼성물산...",
   "“하이닉스물렸는데더버텨요?”주가보다이것확인하라는데",
   "[여의도단신]KB증권·신한투자증권·대신증권등",
@@ -6001,7 +5995,13 @@
   "‘만드는족족완판’…위기론잠재운삼성·SK,내년‘1100조원시대’...",
   "상장사자사주취득,지난해보다5배넘게증가",
   "저PBR명단첫공표,기업가치제고할까…증권가\"계획이행중요\"",
-  "[KBL1라운드리뷰]늦게개막한SK,이들의경기력은?"
+  "[KBL1라운드리뷰]늦게개막한SK,이들의경기력은?",
+  "이마트·롯데쇼핑·현대차證등151곳‘저PBR’첫공표…증권가“주...",
+  "[ZD브리핑]반도체·로봇·수소산업행사풍성…통신·게임등실적주...",
+  "SKT,AI전환'개인→조직'2.0으로…J커브골짜기돌파한다",
+  "키옥시아,낸드수요급증에순이익37배↑···SK하이닉스,대규모특...",
+  "메모리호황속HBM4경쟁새국면...삼성추격·SK하이닉스수성",
+  "中CXMT\"4F²기반6세대D램시제품검증완료…점진적양산\""
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,17 @@
   [
    "2026-11-01T12:11:19.984416+09:00",
    "경기력은 이들의 늦게 개막한"
+  ],
+  [
+   "2026-11-01T12:21:00.662304+09:00",
+   "HBM4 삼성 추격 경쟁 국면 수성 SK하이닉스 호황 메모리"
+  ],
+  [
+   "2026-11-01T12:21:00.662304+09:00",
+   "6세대 기반 검증 양산 D램 4F 완료 시제품 CXMT 점진적"
   ]
  ],
- "last_run": "2026-11-01T12:11:27.713334+09:00",
+ "last_run": "2026-11-01T12:21:09.417931+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
