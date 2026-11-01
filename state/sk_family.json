@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://amenews.kr/news/view.php?idx=67945",
-  "https://www.ddaily.co.kr/page/view/2026083000131487647",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444701",
   "https://www.m-i.kr/news/articleView.html?idxno=1402076",
   "http://www.breaknews.com/1228828",
@@ -2999,11 +2997,11 @@
   "https://www.kfenews.co.kr/news/articleView.html?idxno=667325",
   "https://www.edupress.kr/news/articleView.html?idxno=30577",
   "https://www.imaeil.com/page/view/2026110112594509035",
-  "https://www.news2day.co.kr/article/20261101500021"
+  "https://www.news2day.co.kr/article/20261101500021",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016782",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442365"
  ],
  "seen_titles": [
-  "나운규'아리랑'100년…국악·성악어우러진대합창펼쳐진다",
-  "겨레의정서품은아리랑,전통과현대넘나드는웅장한화음으로",
   "영화'아리랑'100년…국악으로다시부르는민족의노래",
   "100년전'아리랑'의울림,국악선율로다시흐른다",
   "부경원협‘꽃꽂이교실’열어화훼소비촉진",
@@ -6001,7 +5999,9 @@
   "최태원SK회장·샘올트먼오찬회동…'AI협력'강화",
   "영락의료과학고찾은파독간호사들마지막당부는…",
   "\"이재용·최태원이걸그룹춤을?\"…SNS난리난영상,알고보니",
-  "[이태희의JOB채(101)]올트먼의삼성·SK비즈니스전략...반도체는사고..."
+  "[이태희의JOB채(101)]올트먼의삼성·SK비즈니스전략...반도체는사고...",
+  "이런선수가대표팀은퇴라니…최민정'0.014초'모자란하루2관왕→10...",
+  "샘올트먼,삼성·SK회동…AI·반도체협력강화"
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "전략 올트먼의 비즈니스 반도체는 삼성 사고"
   ]
  ],
- "last_run": "2026-11-01T13:40:29.129300+09:00",
+ "last_run": "2026-11-01T13:50:23.238640+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
