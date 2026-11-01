@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thelec.kr/news/articleView.html?idxno=64554",
-  "https://www.newsway.co.kr/news/view?ud=2026102916122637235",
-  "http://www.lkp.news/news/articleView.html?idxno=85596",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610291025338120704",
-  "https://www.huffingtonpost.kr/article/261660",
   "https://www.cbci.co.kr/news/articleView.html?idxno=620927",
   "https://www.dailian.co.kr/news/view/1708324/?sc=Naver",
   "https://www.econovill.com/news/articleView.html?idxno=755366",
@@ -2999,14 +2994,14 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2012812",
   "http://www.metroseoul.co.kr/article/20261101500113",
   "https://www.asiatime.co.kr/article/20261101500037",
-  "https://www.sedaily.com/article/20108674"
+  "https://www.sedaily.com/article/20108674",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/67122?feed=na",
+  "https://www.koreaherald.com/article/10921630",
+  "https://www.koreaherald.com/article/10921632",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/01/2026110100035.html",
+  "https://www.edupress.kr/news/articleView.html?idxno=30576"
  ],
  "seen_titles": [
-  "SK스퀘어,티맵지분매각추진…\"골드만삭스와협상\"",
-  "토스증권\"AI시대,메모리반도체호황과거와다르다\"",
-  "최태원SK회장,내달5일서울대서'AI시대경제·인재상'특강",
-  "SK온,배터리공급망경쟁력강화공로로대통령표창",
-  "반도체로함께웃은삼성·SK…배터리자회사희비교차",
   "AI시대가속화되는OT보안위협…SK쉴더스가제시한6대대응방안은...",
   "내년건설수주액241.2兆…올해대비1.3％증가",
   "LG전자류재철취임첫해냉각수주3조원,B2B확대채비마쳤다:연말...",
@@ -6001,7 +5996,12 @@
   "SKT,AI에사번주고협업넓힌다…전사업무체계재설계",
   "삼성·SK,AI경쟁력강화…샘올트먼오픈AICEO와회동",
   "경유수출110%로확대…정유업계4분기도청신호",
-  "직원80%가AI에이전트전사...“조직협업도AX”"
+  "직원80%가AI에이전트전사...“조직협업도AX”",
+  "안철수\"국민연금주식182조원감소..'연쇄자산파괴범'찾아책임...",
+  "SolidigmsetbacksendswarningtoKoreanfirmseyeingWallStreet",
+  "SKTelecomseeksreturnsfromworkplaceAIpush",
+  "인텔쇼크에美중간선거경계감…韓또'검은월요일'공포",
+  "'소년광부'김월용국가평생교육진흥원장\"공부엔때가없고배움엔졸..."
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,25 @@
   [
    "2026-11-01T11:22:27.318069+09:00",
    "협업도 전사 직원 AI에이전트 AX"
+  ],
+  [
+   "2026-11-01T11:31:15.275636+09:00",
+   "Korean to warning sends Street eyeing setback Solidigm firms Wall"
+  ],
+  [
+   "2026-11-01T11:31:15.275636+09:00",
+   "from push AI Telecom workplace returns seeks"
+  ],
+  [
+   "2026-11-01T11:31:15.275636+09:00",
+   "공포 인텔쇼크에 경계감 중간선거 검은월요일"
+  ],
+  [
+   "2026-11-01T11:31:15.275636+09:00",
+   "배움엔 소년 공부엔 김월용 때가 없고 국가평생교육진흥원장 광부"
   ]
  ],
- "last_run": "2026-11-01T11:22:35.788598+09:00",
+ "last_run": "2026-11-01T11:31:30.831111+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7096,6 +7112,7 @@
   "ubc.co.kr": "ubc.co.kr",
   "netongs.com": "여수넷통뉴스",
   "youngnong.co.kr": "한국영농신문",
-  "joygm.com": "광명지역신문"
+  "joygm.com": "광명지역신문",
+  "edupress.kr": "에듀프레스(edupress)"
  }
 }
