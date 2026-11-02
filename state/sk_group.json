@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=216347",
-  "https://www.fnnews.com/news/202610301737015291",
-  "https://www.thelec.kr/news/articleView.html?idxno=64629",
-  "https://www.newsis.com/view/NISX20261030_0003848971",
-  "https://www.sedaily.com/article/20108453",
-  "https://www.mk.co.kr/article/12191800",
-  "https://www.news2day.co.kr/article/20261030500116",
-  "https://www.munhwa.com/article/11627667",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=622100",
   "https://www.sedaily.com/article/20108469",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=205687",
@@ -2999,17 +2991,17 @@
   "https://www.kfenews.co.kr/news/articleView.html?idxno=667409",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261103.22019000650",
   "http://coinreaders.com/266885",
-  "https://www.hankookilbo.com/news/article/A2026110216110004516?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026110216110004516?did=NA",
+  "https://www.maniareport.com/view.php?ud=202611021837075137dad9f33a29_19",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487495",
+  "https://news.jtbc.co.kr/article/NB12326070?influxDiv=NAVER",
+  "https://www.tokenpost.kr/news/ai/431299",
+  "http://www.mdilbo.com/detail/tohfpC/760216",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1069993",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1190590",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/02/2026110200330.html"
  ],
  "seen_titles": [
-  "코스피'AI수익성'이란'악령'에시달린다",
-  "美빅테크충격에코스피5730선…외국인1.6조매도",
-  "반도체'없어서못판다'는데,삼전·닉스주가는왜빠졌나",
-  "리밸런싱끝낸SK…2027년은AI·반도체·에너지'올인'",
-  "코스피·코스닥,美기술주쇼크에3%대급락마감",
-  "호실적에도AI쇼크로흔들린코스피…4분기도삼전·하닉에기댄다",
-  "코스피,빅테크쇼크에3.5%급락",
-  "민간학회첫반도체국제회의…호남반도체산업이가져올변화모색",
   "SK사장단인사…반도체·통신'유임'정유·화학'쇄신'",
   "SK하이닉스,일본협력사20여곳초청…공급망협력강화",
   "라온로보틱스,3분기영업익39억원...전년비259%↑",
@@ -6001,7 +5993,15 @@
   "[기획]SK,장용호·김선혁체제로밸류업가속",
   "[국제칼럼]국조대상은조희대가아니라증시참사다",
   "갤럭시\"비트코인(BTC),지금은확실한매집구간\"",
-  "'몰락한명가'삼성의화려한부활...4대스포츠구단일제히날갯짓"
+  "'몰락한명가'삼성의화려한부활...4대스포츠구단일제히날갯짓",
+  "‘A대표데뷔'김민수,김은중호합류...U-21대표팀멕시코2연전최정...",
+  "SK하이닉스청주노조,청주시에취약계층돕기성금·물품6200만원기탁",
+  "'인텔쇼크'주식창열기겁났는데…코스피는반등,왜?",
+  "2027년AI투자회수전환점가능성거론",
+  "전력·용수·폐수까지···광주반도체필수인프라공급안윤곽",
+  "울산시,석유화학현장'AI안전로봇'도입추진",
+  "[주식마감]'합병결정'샘표·샘표식품상한가...디티에스,HLB바이오스...",
+  "돼지·껍데기…2030이李대통령에게보내는편지[오창균의정치기상..."
  ],
  "recent_sigs": [
   [
@@ -7035,9 +7035,21 @@
   [
    "2026-11-02T19:41:14.236542+09:00",
    "구단 삼성의 4대 몰락한 부활 날갯짓 스포츠 명가 화려한 일제히"
+  ],
+  [
+   "2026-11-02T19:51:05.582180+09:00",
+   "AI 석유화학 울산시 도입 안전로봇 현장"
+  ],
+  [
+   "2026-11-02T19:51:05.582180+09:00",
+   "샘표 결정 샘표식품 합병 상한가 HLB바이오스 디티에스"
+  ],
+  [
+   "2026-11-02T19:51:05.582180+09:00",
+   "껍데기 돼지 정치 기상 오창균의 2030이 대통령에게 보내는 편지"
   ]
  ],
- "last_run": "2026-11-02T19:41:28.376514+09:00",
+ "last_run": "2026-11-02T19:51:16.628221+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
