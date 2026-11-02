@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.namdonews.com/news/articleView.html?idxno=926009",
-  "http://www.4th.kr/news/articleView.html?idxno=2119660",
   "https://www.namdonews.com/news/articleView.html?idxno=926013",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065612",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037468",
@@ -2999,11 +2997,11 @@
   "https://www.ablenews.co.kr/news/articleView.html?idxno=234345",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=257829",
   "https://www.khan.co.kr/article/202611021652001",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307902"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307902",
+  "https://www.nocutnews.co.kr/news/6600915",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=747489"
  ],
  "seen_titles": [
-  "인간관계줄여도‘평판’은못놓는다[데이터로보는세상]",
-  "오늘국장왜이래?…코스피매도세뒤에숨은'이기업'",
   "中'D램·낸드'저가공세넘어기술력턱밑추격…韓'기둥'반도체...",
   "[초격차수호⑧]\"다음10년준비는\"…R&D·세제·인프라,K-반도체전략...",
   "\"의정도스마트하게\"용인특례시의회스마트행정연구회,AI기반행정혁신...",
@@ -6001,7 +5999,9 @@
   "장애예술인협회,장애예술인10인이야기'누구?!시리즈'발간‥총58종",
   "샘올트먼,삼성사장단·최태원SK회장만났다…배경엔D램확보",
   "궁중무용과이탈리아오페라,한옥에서만나다",
-  "韓반도체,AI고속도로달리는데···빅테크자금난에\"급제동우려\""
+  "韓반도체,AI고속도로달리는데···빅테크자금난에\"급제동우려\"",
+  "미국도중국도탐내는K-제조업…한국은어떻게다잘하게됐나",
+  "반도체슈퍼사이클2029년까지?…호황기에초격차투자승부"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,17 @@
   [
    "2026-11-02T17:00:35.077892+09:00",
    "달리는데 AI 고속도로 우려 급제동 반도체 자금난에 빅테크"
+  ],
+  [
+   "2026-11-02T17:30:25.362472+09:00",
+   "제조업 탐내는 됐나 미국도 잘하게 어떻게 중국도 한국은"
+  ],
+  [
+   "2026-11-02T17:30:25.362472+09:00",
+   "초격차 투자 2029년까지 호황기에 반도체 슈퍼사이클 승부"
   ]
  ],
- "last_run": "2026-11-02T17:20:26.639740+09:00",
+ "last_run": "2026-11-02T17:30:45.304058+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
