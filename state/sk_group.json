@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2642053",
-  "https://www.etoday.co.kr/news/view/2641990",
-  "https://www.econovill.com/news/articleView.html?idxno=755429",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610291130218040106339",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=92436",
   "https://www.newsis.com/view/NISX20261030_0003847675",
   "https://www.newspim.com/news/view/20261030000072",
@@ -2999,13 +2995,13 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487004",
   "http://www.hellodd.com/news/articleView.html?idxno=113706",
   "https://www.fntimes.com/html/view.php?ud=202611020849213780048b718333_18",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=283912"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=283912",
+  "http://datanews.co.kr/news/article.html?no=147184",
+  "https://www.sentv.co.kr/article/view/sentv202611020016",
+  "https://theviewers.co.kr/View.aspx?No=4292643",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610281242598280101912"
  ],
  "seen_titles": [
-  "SK그룹,오늘사장단인사…'안정속변화'에초점",
-  "SKT,AI·드론으로안동산불피해지복원…나무1만그루심었다",
-  "[어제장오늘장]삼성전자실적에실망…일일천하로끝난6천피",
-  "이상일용인시장,ASML본사서협력논의…반도체생태계확장나서",
   "[오늘의브릿지경제1면]3분기107조남긴삼성전자,올해주주에110조...",
   "이상일용인특례시장,주네덜란드한국대사와면담…용인·벨트호벤교...",
   "'알파벳쇼크'로'AI빚투'우려부활",
@@ -6001,7 +5997,11 @@
   "해시드,기업·개발자협업해커톤개최",
   "[조간브리핑]돈쏟아붓는빅테크,현금흐름'빨간불'···반도체주'출...",
   "마포구'현진에버빌'25평,3.8억오른14.6억원에거래[일일신고가]",
-  "키움증권,거래대금감소에실적눈높이낮아져…배당매력은여전"
+  "키움증권,거래대금감소에실적눈높이낮아져…배당매력은여전",
+  "국내금융권·해외코인거래소,코인마켓‘VASP면허’에눈독",
+  "\"1억상금에SKCT면제라더니\"…SK하이닉스AI해커톤,시스템장애중단",
+  "[애널픽]중국추격보다무서운'공급부족'...내년에도반도체값'껑충...",
+  "[더벨][thebelldesk]액티브ETF는무엇을좇고있나"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,17 @@
   [
    "2026-11-02T08:57:37.395351+09:00",
    "눈높이 거래대금 감소에 여전 매력은 낮아져 배당 키움증권 실적"
+  ],
+  [
+   "2026-11-02T09:01:19.514292+09:00",
+   "내년에도 부족 중국 공급 추격보다 껑충 반도체값 무서운"
+  ],
+  [
+   "2026-11-02T09:01:19.514292+09:00",
+   "액티브 좇고 ETF는 있나 무엇을"
   ]
  ],
- "last_run": "2026-11-02T08:57:48.867736+09:00",
+ "last_run": "2026-11-02T09:01:29.232229+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
