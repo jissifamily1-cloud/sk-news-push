@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/life/2381123.htm",
-  "https://www.jasm.co.kr/news/view/323072/?sc=Naver",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038946",
   "https://www.youthdaily.co.kr/news/article.html?no=228916",
   "https://www.yna.co.kr/view/AKR20261027065500011?input=1195m",
   "https://www.tjb.co.kr/news05/bodo/view/id/105344",
@@ -2999,12 +2996,12 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280877&CMPT_CD=P0010",
   "https://www.edaily.co.kr/News/Read?newsId=03089766645641784&mediaCodeNo=257",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=228699",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228497"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228497",
+  "https://www.jasm.co.kr/news/view/323808/?sc=Naver",
+  "https://www.kyeonggi.com/article/20261102580172",
+  "https://www.newsis.com/view/NISX20261102_0003850905"
  ],
  "seen_titles": [
-  "특검,올림픽공원핸드볼경기장압수수색…\"CCTV·선거서류확보\"",
-  "선관위특검,핸드볼경기장압수수색…투표지·CCTV등확보",
-  "경찰,공직선거법위반혐의로김성제의왕시장소환조사",
   "[이슈60초]\"CCTV부터선거서류까지\"이태한선관위특별검사팀핸드볼...",
   "[연합뉴스이시각헤드라인]-10:30",
   "'투표용지부족사태'선관위특검,공개검증하루앞두고압수수색",
@@ -6001,7 +5998,10 @@
   "[오마이포토]집단소송법제정을위한시민10만서명캠페인",
   "호반그룹,한진칼최대주주조원태지분넘어서…기업결합심사",
   "특검,중앙선관위압수수색…\"활동비9억원부당지급\"",
-  "수당9억원부당지급의혹…특검,중앙선관위위원장실등압색"
+  "수당9억원부당지급의혹…특검,중앙선관위위원장실등압색",
+  "특검,선관위원장실등압수수색…활동비부당지급의혹",
+  "소아응급실압수수색에‘유감표명’경찰,재발방지책마련나서…‘...",
+  "경찰,'스카이박스무상제공의혹'이장우전시장송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "사업 정리 롯데렌탈 매각부터 기초화학 롯데 재편까지 비핵심 이어간"
   ]
  ],
- "last_run": "2026-11-02T12:40:52.791147+09:00",
+ "last_run": "2026-11-02T12:50:52.779625+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
