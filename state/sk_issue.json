@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261027140517",
-  "https://www.ppss.kr/news/articleView.html?idxno=317583",
-  "https://thetracker.co.kr/View.aspx?No=4280909",
-  "https://www.gokorea.kr/news/articleView.html?idxno=882973",
-  "https://www.mk.co.kr/article/12186928",
-  "https://www.newsis.com/view/NISX20261027_0003842956",
-  "https://www.sedaily.com/article/20106617",
   "https://www.yna.co.kr/view/AKR20261027063852004?input=1195m",
   "https://www.lawissue.co.kr/view.php?ud=2026102714164568629a8c8bf58f_12",
   "https://www.ytn.co.kr/_ln/0103_202610271420259178",
@@ -2999,16 +2992,16 @@
   "https://www.segye.com/newsView/20261102515448?OutUrl=naver",
   "https://www.segye.com/newsView/20261102515513?OutUrl=naver",
   "https://www.newsis.com/view/NISX20261101_0003850008",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701517"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701517",
+  "https://www.news1.kr/society/general-society/6340352",
+  "https://bizhankook.com/articles/broadcom-samsung-abuse-ruling.html",
+  "http://www.iminju.net/news/articleView.html?idxno=171803",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/02/2026110290189.html",
+  "https://www.tjb.co.kr/news05/bodo/view/id/105583",
+  "http://www.dtnews24.com/news/articleView.html?idxno=816749",
+  "https://www.newspim.com/news/view/20261102001542"
  ],
  "seen_titles": [
-  "4년만에나온공정위'GOS제재'…삼성전자법정공방2라운드제기",
-  "삼성전자,공정위GOS광고200억과징금에법적대응예고",
-  "삼성전자,GOS과징금에행정소송예고…“성능최적화방식다툴것”",
-  "서울송파구투표지압수수색첫진행,특별검사팀의대규모작전이시...",
-  "‘깜짝근황’홍준표,정계은퇴1년반만에법정행…측근직접변론...",
-  "경찰,'13개의혹'김병기31일소환…구속영장반려50일만",
-  "‘정계은퇴홍준표’,측근변론위해변호사로법정등장",
   "올림픽공원압수수색6시간만종료…특검,선거서류등확보(종합2보)",
   "부산지법,새마을금고이사장선거돕기위해금전주고받은감사·이사...",
   "[YTN실시간뉴스]김건희'구속만료'D-4...곧추가구속심사",
@@ -6001,7 +5994,14 @@
   "금속노조한화창원지회“한화에어로,부당인사고과로노조탄압”",
   "완주군수공직선거법위반혐의송치…전북교육감은‘5억베팅설’부...",
   "[기자수첩]'소아응급실압수수색'논란이던진질문",
-  "[사사건건]‘응급실압수수색’파장"
+  "[사사건건]‘응급실압수수색’파장",
+  "시민단체들\"집단소송법더는미룰수없어\"…10만서명운동돌입",
+  "[단독]삼성도'을'로만든브로드컴…대법'1조부품강매'제재확정",
+  "호반,한진칼최대주주됐나…한진칼\"확인후재공시\"",
+  "공정위,영국경쟁법전문매체GCR평가'공동3위'…아시아최고",
+  "호반,한진칼지분추가매입…최대주주가능성에기업결합신고",
+  "대전지역정치권\"이장우즉각기소,추가수사해야\"",
+  "선관위특검,이의제기투표지정밀감정추진…선관위비리수사속도"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "여론조사 향방 수사 주목 전북 의혹 지방선거"
   ]
  ],
- "last_run": "2026-11-02T17:10:58.033425+09:00",
+ "last_run": "2026-11-02T17:21:09.746597+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
