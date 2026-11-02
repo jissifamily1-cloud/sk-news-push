@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.korea.kr/briefing/actuallyView.do?newsId=148974317&call_from=naver_news",
-  "https://www.ytn.co.kr/_ln/0103_202610261830188708",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065602933133086",
-  "https://kormedi.com/?p=2892186",
-  "https://www.impacton.net/news/articleView.html?idxno=30403",
   "https://www.kmib.co.kr/article/20261026502022",
   "https://www.sisaweek.com/news/articleView.html?idxno=238608",
   "https://www.hidomin.com/news/articleView.html?idxno=726569",
@@ -2999,14 +2994,14 @@
   "http://www.beyondpost.co.kr/view.php?ud=20261102085932322846a9e4dd7f_30",
   "https://www.jbnews.com/news/articleView.html?idxno=1514880",
   "https://www.segye.com/newsView/20261030509130?OutUrl=naver",
-  "https://www.jasm.co.kr/news/view/323769/?sc=Naver"
+  "https://www.jasm.co.kr/news/view/323769/?sc=Naver",
+  "https://www.kbsm.net/news/view.php?idx=539740",
+  "https://www.impacton.net/news/articleView.html?idxno=30486",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=396739",
+  "https://www.lawtv.kr/news/articleView.html?idxno=61300",
+  "http://www.dailypop.kr/news/articleView.html?idxno=104012"
  ],
  "seen_titles": [
-  "[사실은이렇습니다][설명]한국일보(10.26.)''돌려준과징금만2000억...",
-  "\"절도피의자불법체포\"...현직경찰관혐의일부부인",
-  "[메가경제·화재보험협회공동기획①]반복되는화재…안전점검넘어...",
-  "“아이아프면어디로가나”⋯엄마들도‘분통’터뜨렸다",
-  "기후공시,숫자만으론부족…기업의기후위험,투자판단으로연결해야",
   "진입장벽낮아진해킹…IT비전공자도AI로90여곳뚫었다",
   "\"이사할때사고싶은가전은?\"…마사지체어24.7%'1위'",
   "명분만쫓는'그린워싱'을멈춰야한다",
@@ -6001,10 +5996,20 @@
   "아이리버,14L트리형가습기와4.6L스테인리스모델2종출시",
   "괴산군\"사과상품성은수확후저장관리가좌우\"농가에당부",
   "감기기운들면약부터?증상별초기대처법",
-  "수사·기소분리한달,현장혼란...보완수사급증·추가증거난항"
+  "수사·기소분리한달,현장혼란...보완수사급증·추가증거난항",
+  "데이앤에어자동세척가습기,1·2차매진…3차예약판매진행",
+  "【데일리ESG정책브리핑】협력사기술탈취4.2억원과징금·한독전력...",
+  "美캘리포니아주지사\"트럼프행정부,투표용지압수시도가능성\"…연...",
+  "수사·기소분리한달...중수청구속은5건,공소청미제는18만건",
+  "롯데,롯데렌탈매각부터기초화학재편까지…비핵심사업정리이어간..."
  ],
- "recent_sigs": [],
- "last_run": "2026-11-02T09:40:56.326755+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-02T09:50:51.156467+09:00",
+   "사업 정리 롯데렌탈 매각부터 기초화학 롯데 재편까지 비핵심 이어간"
+  ]
+ ],
+ "last_run": "2026-11-02T09:50:59.253091+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6104,6 +6109,7 @@
   "rightknow.co.kr": "알티케이뉴스",
   "newsfc.co.kr": "금융소비자뉴스",
   "shinailbo.co.kr": "신아일보",
-  "ohmynews.com": "오마이뉴스"
+  "ohmynews.com": "오마이뉴스",
+  "dailypop.kr": "데일리팝"
  }
 }
