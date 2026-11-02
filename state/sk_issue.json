@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=755040",
-  "https://www.ekn.kr/web/view.php?key=20261027028510938",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729327",
-  "https://www.joongangenews.com/news/articleView.html?idxno=558747",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323814",
-  "https://www.consumuch.com/news/articleView.html?idxno=79390",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076508",
-  "https://www.insight.co.kr/news/579360",
-  "https://www.etoday.co.kr/news/view/2640622",
   "https://www.joongangenews.com/news/articleView.html?idxno=558775",
   "https://www.newspim.com/news/view/20261027001064",
   "https://www.yeongnam.com/web/view.php?key=20261027028177132",
@@ -2999,18 +2990,18 @@
   "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102500315?wlog_tag3=naver",
   "https://futurechosun.com/?p=165286",
   "https://www.dt.co.kr/article/12092717",
-  "https://www.chosun.com/national/incident/2026/11/02/Z7UYZ6X7UVC2HHKDORCAJLM5HA/"
+  "https://www.chosun.com/national/incident/2026/11/02/Z7UYZ6X7UVC2HHKDORCAJLM5HA/",
+  "https://magazine.hankyung.com/business/article/202404307970b",
+  "https://www.fnnews.com/news/202611021827268226",
+  "https://biz.sbs.co.kr/article_hub/20000343732?division=NAVER",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089429",
+  "https://www.ytn.co.kr/_ln/0103_202611021828366900",
+  "http://www.jjn.co.kr/news/articleView.html?idxno=1056162",
+  "https://www.esquirekorea.co.kr/article/1912427",
+  "https://www.ytn.co.kr/_ln/0103_202611021821521499",
+  "https://www.dt.co.kr/article/12092720"
  ],
  "seen_titles": [
-  "삼성전자,공정위200억원과징금에'발끈'…\"GOS,최적화위한정상설...",
-  "[한화그룹의KAI인수구상上]수익창출능력만큼중요한‘자금설계...",
-  "삼성전자GOS소송종결·신고취하에도…공정위200억'뒷북제재'논란",
-  "[종합]삼성전자,GOS소송종결·신고취하에도과징금200억?…공정위...",
-  "삼성전자,GOS광고제재에불복···\"소송통해소명\"",
-  "\"끝판왕이라더니\"삼성전자'갤럭시GOS'성능제한…과징금약200억원",
-  "갤S21·S22'GOS광고'과징금200억철퇴…삼성\"법적대응\"",
-  "삼성전자,GOS광고200억과징금에불복...\"기만아냐\"",
-  "공정위,‘GOS기만광고’에201억원철퇴…삼성전자“과징금불복,소...",
   "특검,송파개표소첫압수수색...투표용지·CCTV등자료확보",
   "민주당,임성근징역3년확정에\"국민상식과사법정의에어긋나는판...",
   "지인변론나선홍준표“가공거래아니다…실제거래증거제출”",
@@ -6001,7 +5992,16 @@
   "호반그룹,한진칼최대주주로…기업결합심사",
   "[더나은미래경제브리핑]호반그룹,한진칼지분추가매입‘최대주주...",
   "[사설]무너진전국응급의료체계…대한민국의료는지금재난상태다",
-  "혼자온손님에게폭탄주유도…1억1000만원가로챈일당송치"
+  "혼자온손님에게폭탄주유도…1억1000만원가로챈일당송치",
+  "공정위,SK계열사에불법채무보증과징금1.5억부과",
+  "호반,한진칼최대주주로…경영권변동은없어",
+  "호반,한진칼최대주주된듯…조원태경영권도흔드나",
+  "[진담승부]민주당내홍,봉합이냐폭발이냐…박정권·홍석준엇갈린진...",
+  "'응급실압수수색'경찰,업무방해·직권남용피고발",
+  "사업수주대가여론조사지지요청의혹완주군수송치",
+  "11월첫주에만다섯편공개!당장찜해야할‘넷플릭스기대작’7",
+  "선관위특검,중앙선관위압수수색...\"활동비9억부당지급\"",
+  "[김윤정의정곡(正鵠)]‘생명의무게’와치외법권"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "여론조사 향방 수사 주목 전북 의혹 지방선거"
   ]
  ],
- "last_run": "2026-11-02T18:21:07.835713+09:00",
+ "last_run": "2026-11-02T18:31:10.644334+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
