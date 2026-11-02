@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610301736108261",
-  "https://biz.sbs.co.kr/article_hub/20000343400?division=NAVER",
-  "http://www.joseilbo.com/news/news_read.php?uid=578582&class=78",
   "http://www.econotelling.com/news/articleView.html?idxno=21547",
   "https://www.kbmaeil.com/article/20261030500275",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280240&CMPT_CD=P0010",
@@ -2999,12 +2996,12 @@
   "https://www.dailian.co.kr/news/view/1709816/?sc=Naver",
   "https://www.ggilbo.com/news/articleView.html?idxno=1190611",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701617",
-  "https://www.wikitree.co.kr/articles/1171097"
+  "https://www.wikitree.co.kr/articles/1171097",
+  "https://www.stnsports.co.kr/news/articleView.html?idxno=324955",
+  "https://www.newsis.com/view/NISX20261102_0003851732",
+  "https://newscham.net/130120/"
  ],
  "seen_titles": [
-  "[ClosingMarket]KOSPIPlunges3.5%,BarelyHolding5,700LevelAmidG",
-  "[증시오늘]코스피3.48%급락한5730선",
-  "TPG,롯데렌탈인수종결…1조3000억규모[시그널]",
   "[코리아컵]동호회-엘리트최강빅뱅!2026코리아컵최강전대진표완성...",
   "[오피셜]'성적부진'포항,박태하감독과결별…김성수수석코치감독...",
   "10월D램값'역대최고치'…낸드는상승세중단",
@@ -6001,53 +5998,12 @@
   "안철수\"한동훈-오세훈'훈훈연대'?얼마못가고사라질것\"",
   "반도체만'맑음'…충청권경기소폭개선",
   "강릉AI데이터센터수사여파…“기업접촉중단”",
-  "SK하이닉스도현대차도아니다...삼성전자에개인3조몰린'1위주식'"
+  "SK하이닉스도현대차도아니다...삼성전자에개인3조몰린'1위주식'",
+  "골도보고,흑한우도굽고...제주SK,경기장밖에'맛있는승부'차린다",
+  "[올댓차이나]홍콩증시,中증시대책소식에상승마감…H주0.56%↑",
+  "[멈춰라3대메가③]데이터센터전기·물갈등지우고‘명소’자랑…..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "효성중공업 수소에너지 뜨거운 온기 현대제철 관련주 두산퓨얼셀"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "launches epilepsy drug Korea Xcopri in Dong ST biopharmaceuticals"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "잡고 역전승 후반 인천은 울산 뒤집기 도약 안양 나란히 4위 서울"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "일상이 파괴되고 범람 있다 AI해킹"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "SK하이닉스 여주시범대위 2차 정부 용수공급 중단하라"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "위주 실적 폭풍매 테마주 태양광에너지 교차 대장주 가시성 희비 갖춘"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "최우수등급 연속 GCR 13년 평가 영국 공정위"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "SK그룹 SK하이닉스 한국신문잉크"
-  ],
-  [
-   "2026-11-02T13:11:04.513839+09:00",
-   "SK그룹 에너지 해소 시험대 격차 진용 수익성 CEO"
-  ],
-  [
-   "2026-11-02T13:21:02.130813+09:00",
-   "AI vows in LD 3rd bold for future growth engines investment Lee growt"
-  ],
-  [
-   "2026-11-02T13:21:02.130813+09:00",
-   "증시 4bp 국고 3년 채권시장 반등 약세"
-  ],
   [
    "2026-11-02T13:31:10.140726+09:00",
    "제약업계 글로벌 신약부터 백신 기술까지 치료 경쟁 혁신 나선 확장"
@@ -7091,9 +7047,13 @@
   [
    "2026-11-02T19:11:02.398000+09:00",
    "삼성전자에 주식 개인 3조 1위 몰린 아니다 SK하이닉스도 현대차도"
+  ],
+  [
+   "2026-11-02T19:21:16.804538+09:00",
+   "지우고 갈등 자랑 데이터센터 전기 명소"
   ]
  ],
- "last_run": "2026-11-02T19:11:19.203889+09:00",
+ "last_run": "2026-11-02T19:21:22.447050+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
