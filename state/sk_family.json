@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswell.co.kr/news/articleView.html?idxno=22646",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261001010010918",
-  "https://news.bizwatch.co.kr/article/industry/2026/10/13/0026",
   "http://www.inews24.com/view/2014389",
   "https://www.newsway.co.kr/news/view?ud=2026101315375983977",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=280176",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3739662",
   "https://monthly.chosun.com/news/articleView.html?idxno=71865",
   "https://www.ytn.co.kr/_ln/0134_202611021348172581",
-  "https://www.mt.co.kr/industry/2026/11/02/2026110214472936812"
+  "https://www.mt.co.kr/industry/2026/11/02/2026110214472936812",
+  "https://magazine.hankyung.com/business/article/202611020644b",
+  "https://www.kyeonggi.com/article/20261102580336",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194084"
  ],
  "seen_titles": [
-  "빨라진대기업인사시계…복합위기속내년도사업준비서두른다",
-  "[오피셜]'책임감리그1위'박해민,선수협새수장되다…144경기철인...",
-  "野\"국감에이재용·최태원불러야\"…호남반도체'팔비틀기'주장",
   "호남반도체투자놓고'기업팔비틀기'vs'호남비틀기'공방",
   "이재용·최태원국감증인놓고여야충돌…'기업압박규명'vs'정쟁화...",
   "최태원한마디에2연상,'호남반도체관련주'잡아도돼?[뉴스톡웰스...",
@@ -6001,7 +5998,10 @@
   "제67회전국농업기술자대회,충주서열려…농업기술상·정부포상수여",
   "[한일경제연대]\"정치부침겪어도경제는더깊어져…한일FTA는경제연...",
   "이재용·최태원두회장님의'댄스삼매경'...AI초상권침해우려도[자...",
-  "\"5살짜리한테돈벌라시키나\"…동요없는삼전닉스,왜?"
+  "\"5살짜리한테돈벌라시키나\"…동요없는삼전닉스,왜?",
+  "2.5조재산분할판결불복한권혁빈…최태원사건뒤집은율촌선임",
+  "‘라스트댄스’최민정,은퇴앞두고도전성기…월드투어메달7개",
+  "SK에코플랜트,직무별맞춤'1인1AI에이전트'체계가동"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-02T15:30:24.628185+09:00",
    "5살짜리한테 삼전닉스 동요없는 시키나 돈벌라"
+  ],
+  [
+   "2026-11-02T15:40:14.743856+09:00",
+   "율촌 사건 5조 선임 권혁빈 판결 불복한 뒤집은 재산분할"
   ]
  ],
- "last_run": "2026-11-02T15:30:38.333073+09:00",
+ "last_run": "2026-11-02T15:40:28.362756+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
