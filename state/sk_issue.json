@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026102777017",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279190&CMPT_CD=P0010",
-  "https://www.imaeil.com/page/view/2026102713130247469",
-  "https://www.ytn.co.kr/_ln/0102_202610271310460338",
-  "https://www.newsis.com/view/NISX20261027_0003842842",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=92711",
-  "https://www.jasm.co.kr/news/view/323100/?sc=Naver",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41257",
-  "http://www.iminju.net/news/articleView.html?idxno=171479",
   "https://www.mk.co.kr/article/12186867",
   "https://www.slist.kr/news/articleView.html?idxno=776788",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441341",
@@ -2999,18 +2990,18 @@
   "https://www.fnnews.com/news/202611021354217024",
   "https://www.lawtv.kr/news/articleView.html?idxno=61308",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284965783710",
-  "https://news.jtbc.co.kr/article/NB12326022?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12326022?influxDiv=NAVER",
+  "https://www.yna.co.kr/view/PYH20261102182200013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261102182300013?input=1196m",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247090",
+  "https://www.cstimes.com/news/articleView.html?idxno=726258",
+  "https://www.edaily.co.kr/News/Read?newsId=03712966645641784&mediaCodeNo=257",
+  "https://www.yna.co.kr/view/AKR20261102127500004?input=1195m",
+  "https://www.bzeronews.com/news/articleView.html?idxno=824667",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3739737",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1573973"
  ],
  "seen_titles": [
-  "올공투표지247만장검증실시…6·3지방선거후147일만",
-  "측근구속위기에'변호인'으로나선홍준표\"내직원이었다\"",
-  "고사양게임성능제한숨긴삼성전자…과징금201억원",
-  "게임하기좋다더니성능제한?…삼성전자\"200억과징금불복\"",
-  "선관위특검,올림픽공원핸드볼경기장압수수색[뉴시스Pic]",
-  "홍준표,측근변호인으로대구지법출석",
-  "LG전자,'코리아그랜드페스티벌'행사…가전할인혜택",
-  "공정위,'GOS성능제한은폐'삼성전자에과징금200억",
-  "'GOS논란'삼성전자,4년만에공정위제재…과징금201억원",
   "삼성전자,과장광고200억과징금불복…“소송등법적대응”",
   "삼성전자,GOS기만광고과징금불복…\"소송으로소명할것\"",
   "공정위,4년이상끈삼성전자제재…과징금왜줄었나",
@@ -6001,7 +5992,16 @@
   "보완수사요구하루445건...'못쓰는증거'에공소유지흔들[공소청·중...",
   "[법조리포트]검찰청폐지한달만에'경찰대로스쿨'까지?",
   "선관위특검,중앙선관위‘공명선거활동비부당지급’혐의포착",
-  "장동혁\"투표지부족사태는부정선거…이겼든졌든반드시재선거\""
+  "장동혁\"투표지부족사태는부정선거…이겼든졌든반드시재선거\"",
+  "위촉장받은황정화가습기살균제배상심의위원",
+  "위촉장받는황정화가습기살균제배상심의위원",
+  "한세모빌리티,협력사기술탈취해특허등록'과징금4.2억'",
+  "호반그룹,한진칼최대주주등극…조원태경영권시험대",
+  "'계엄사전준비'여인형,1심첫재판서혐의전면부인",
+  "개청한달아직도'검찰청'그늘밑…갈길먼중수청·공소청",
+  "신용한충북지사\"도정에차질없다\"…국비확보·현안추진의지",
+  "與\"근거없는부정선거선동단호히대응\"",
+  "'사업수주대가여론조사지지요구의혹'유희태완주군수불구속송..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "여론조사 향방 수사 주목 전북 의혹 지방선거"
   ]
  ],
- "last_run": "2026-11-02T15:31:06.956943+09:00",
+ "last_run": "2026-11-02T15:40:56.458184+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
