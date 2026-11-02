@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.segyebiz.com/newsView/20261027509422?OutUrl=naver",
-  "https://www.munhwa.com/article/11626614",
-  "https://www.ikbc.co.kr/article/view/kbc202610270026",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696253",
-  "https://www.yna.co.kr/view/AKR20261027093500017?input=1195m",
-  "https://www.kukinews.com/article/view/kuk202610270032",
   "https://www.wikitree.co.kr/articles/1169519",
   "https://www.yna.co.kr/view/AKR20261027087700002?input=1195m",
   "https://www.newspim.com/news/view/20261027000506",
@@ -2999,15 +2993,15 @@
   "https://www.newscj.com/news/articleView.html?idxno=3445175",
   "https://www.busan.com/view/busan/view.php?code=2026110209450937539",
   "https://www.fetv.co.kr/news/articleView.html?idxno=312904",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94729"
+  "http://www.seouleconews.com/news/articleView.html?idxno=94729",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17211",
+  "https://www.ytn.co.kr/_ln/0102_202611021448443171",
+  "https://www.fnnews.com/news/202611021420471054",
+  "https://www.ajunews.com/view/20261102143653542",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41367",
+  "https://www.edaily.co.kr/News/Read?newsId=03493206645641784&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "‘투표용지부족수사’이태한특검,올림픽공원핸드볼경기장첫전격...",
-  "선관위특검,올공핸드볼경기장압수수색…CCTV확보",
-  "정계떠난홍준표,이번엔변호사로복귀…'구속위기'측근직접변론...",
-  "테슬라‘완전자율주행’무단활성화한80명검거",
-  "삼성전자,GOS200억과징금불복…\"소송등법적대응\"",
-  "삼성전자,GOS성능제한미고지…공정위,과징금200억원",
   "\"그러면진짜전쟁이야\"...교복값이터무니없이비쌌던이유",
   "S21·S22·탭S8게임하기좋다더니버벅…삼성전자과징금200억",
   "\"게임끝판왕\"이라더니성능제한은쏙뺐다…삼성전자과징금201억",
@@ -6001,7 +5995,13 @@
   "선관위특검,중앙선관위압수수색…활동비부당지급의혹",
   "민자도재정사업도무리…골칫덩이된거제시행정타운출구전략찾나",
   "호반그룹,한진칼최대주주'기업결합신고'…\"단순투자목적\"",
-  "호반그룹,한진칼최대주주?…공정위에기업결합신고"
+  "호반그룹,한진칼최대주주?…공정위에기업결합신고",
+  "호반그룹,한진칼최대주주등극…조원태경영권향방은",
+  "호반그룹,한진칼최대주주됐나...공정위에기업결합신고",
+  "호반그룹,한진칼최대주주변경돌입[fn마켓워치]",
+  "호반그룹,한진칼최대주주올라섰나…\"기업결합심사돌입\"",
+  "[사회pick]센터장사퇴부른소아응급실압수수색···과도한수사가...",
+  "\"지옥갈것\"협박해2억6000만원갈취…종교단체가스라이팅범행'우수..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "여론조사 향방 수사 주목 전북 의혹 지방선거"
   ]
  ],
- "last_run": "2026-11-02T14:44:27.100491+09:00",
+ "last_run": "2026-11-02T14:51:04.172876+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
