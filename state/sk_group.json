@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25474611",
-  "https://www.ddaily.co.kr/page/view/2026103108342072112",
-  "https://www.gokorea.kr/news/articleView.html?idxno=883598",
-  "https://www.g-enews.com/view.php?ud=202610310827095515fbbec65dfb_1",
-  "https://www.tokenpost.kr/news/insights/430456",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16264385",
-  "https://www.bigtanews.co.kr/article/view/big202610310004",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4442314",
   "https://www.sedaily.com/article/20108562",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7191346",
@@ -2999,16 +2992,16 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=284154",
   "https://www.gokorea.kr/news/articleView.html?idxno=883769",
   "https://www.globale.co.kr/news/articleView.html?idxno=41388",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500738"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500738",
+  "https://sports.donga.com/sports/article/all/20261103/134954563/1",
+  "https://www.slist.kr/news/articleView.html?idxno=778457",
+  "https://view.asiae.co.kr/article/2026110217131799317",
+  "https://www.ceoscoredaily.com/page/view/2026110212191859350",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500744",
+  "https://www.dailian.co.kr/news/view/1709797/?sc=Naver",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641710"
  ],
  "seen_titles": [
-  "[오늘일본은]日11월식품1477개가격인상…배추·양배추도30%넘게...",
-  "[티맵M&A]골드만체제선멈춘IPO다시뛸까",
-  "SOXL매도결제4억달러대…알파벳·마이크론순매수급증",
-  "AI투자우려에뉴욕증시급락…인텔28.6%↓",
-  "'로컬AI논쟁'불붙인올트먼...\"PC속D램은비효율\"",
-  "‘악착같이성실하게’스텝업원하는광신중김시우",
-  "법인예금변동성확대에…KB국민銀,조달다변화안간힘",
   "폐현수막의놀라운변신:SK케미칼과함께만드는친환경섬유시대",
   "AI투자우려에뉴욕증시일제히하락…‘실적부진’인텔28%↓",
   "'아이폰듀오·맥북프로'가격폭등이유따로있다…갑질하다협력사...",
@@ -6001,7 +5994,14 @@
   "반등겨냥베팅했던개미떼돈…코스피,AI버블론딛고W반등본격화하...",
   "기술전문가CEO시대,대기업인적구성이바뀐다",
   "엔비디아,서울서'AI데이'개막···삼성·SK·LG와AI도원결의",
-  "브렌트유104달러로급락…항공·화학주반등할까"
+  "브렌트유104달러로급락…항공·화학주반등할까",
+  "‘73.8%확률잡아라’KT대니엘VS삼성최원태‘한국시리즈1차전쾅...",
+  "애플,아이폰18흥행에매출12%증가…AI발반도체가격급등은부담",
+  "[클릭e종목]하루에11곳...현대차목표주가줄하향,왜?",
+  "中CXMT‘첨단D램검증’엄포…삼성·SK,HBM독주‘변수’되나",
+  "팔란티어창사첫분기매출20억달러돌파…삼성SDS·더존비즈온주가...",
+  "\"미국중간선거D-day\"…삼전·닉스운명도달렸다?",
+  "[뉴욕증시]'굴뚝주의날','속슬'11%속락···유가7%↓·국채↑·금..."
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,29 @@
   [
    "2026-11-03T06:51:14.260225+09:00",
    "항공 브렌트유 화학주 반등할까 104달러로 급락"
+  ],
+  [
+   "2026-11-03T07:01:43.349643+09:00",
+   "현대차 줄하향 하루에 목표주가 11곳"
+  ],
+  [
+   "2026-11-03T07:01:43.349643+09:00",
+   "되나 변수 D램 CXMT 삼성 독주 검증 첨단 엄포 HBM"
+  ],
+  [
+   "2026-11-03T07:01:43.349643+09:00",
+   "창사 팔란티어 주가 분기 20억달러 돌파 더존비즈온 매출 삼성SDS"
+  ],
+  [
+   "2026-11-03T07:01:43.349643+09:00",
+   "중간선거 운명도 day 달렸다 닉스 삼전 미국"
+  ],
+  [
+   "2026-11-03T07:01:43.349643+09:00",
+   "속락 유가 속슬 굴뚝주의 국채"
   ]
  ],
- "last_run": "2026-11-03T06:51:20.310414+09:00",
+ "last_run": "2026-11-03T07:01:59.671795+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
