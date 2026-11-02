@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2005358",
-  "https://www.pressian.com/pages/articles/2026101314391469816",
   "https://www.lawissue.co.kr/view.php?ud=202610131529207906b3279dfb36_12",
   "https://www.mk.co.kr/article/12174492",
   "https://www.mediapen.com/news/view/1129603",
@@ -2999,11 +2997,11 @@
   "https://www.mk.co.kr/article/12193475",
   "http://www.cctimes.kr/news/articleView.html?idxno=935100",
   "https://www.sidae.com/article/2026110210332685281",
-  "https://www.mediawatch.kr/news/article.html?no=261585"
+  "https://www.mediawatch.kr/news/article.html?no=261585",
+  "http://www.srtimes.kr/news/articleView.html?idxno=216463",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020085&t=NNv"
  ],
  "seen_titles": [
-  "[2026국감]'호남반도체'주52시간예외공방…김영훈장관“결과정...",
-  "최태원재산분할비율불복…노소영,부대상고여부촉각",
   "[인사이트]SK최태원의'사회적가치'10년실험…착한일에돈을주면...",
   "[막전막후]대통령의암수(暗數)또는흑막(黑幕),주병기공정거래위원...",
   "중국에다내줬다…K-배터리,전고체가마지막기회",
@@ -6001,7 +5999,9 @@
   "[단독]최태원대리한율촌,‘2.5조’스마일게이트이혼소송도맡는다",
   "전국농업기술자대회건국대글로컬캠퍼스에서열려",
   "AI반도체패권경쟁,삼성·SK가일본으로향한이유",
-  "이재용,日반도체패키징연구거점첫방문…현지소부장협력논의"
+  "이재용,日반도체패키징연구거점첫방문…현지소부장협력논의",
+  "여수시숲해설가,전남광주숲교육경연대회대상수상",
+  "포스코퓨처엠,LFP로날았다…\"10조수주에증설검토\""
  ],
  "recent_sigs": [
   [
@@ -6041,7 +6041,7 @@
    "반도체 이재용 방문 소부장 패키징 논의 협력 연구거점 현지"
   ]
  ],
- "last_run": "2026-11-02T14:30:38.938465+09:00",
+ "last_run": "2026-11-02T14:40:25.736170+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
