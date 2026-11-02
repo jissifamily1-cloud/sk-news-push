@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100004",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=365278",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=146260",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318676",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=123922",
   "https://www.newsian.co.kr/news/articleView.html?idxno=100010",
   "https://biz.sbs.co.kr/article_hub/20000342416?division=NAVER",
   "https://news.jtbc.co.kr/article/NB12325048?influxDiv=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.hankookilbo.com/news/article/A2026110219340001588?did=NA",
   "https://www.businesspost.co.kr/BP?command=article_view&num=450971",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=879021",
-  "https://www.kyeongin.com/article/1773938"
+  "https://www.kyeongin.com/article/1773938",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261102.99099000662",
+  "https://www.ziksir.com/news/articleView.html?idxno=151760",
+  "https://www.nocutnews.co.kr/news/6601004",
+  "https://news.jtbc.co.kr/article/NB12326110?influxDiv=NAVER",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/02/2026110290270.html"
  ],
  "seen_titles": [
-  "삼성전자·공정위201억과징금공방...\"4년만에다시불거진GOS논란...",
-  "공정위'게임성능제한미고지'삼성전자에과징금201억",
-  "공정위'갤럭시GOS논란'201억과징금…삼성전자\"행정소송대응할것...",
-  "삼성전자,GOS과징금200억원불복…법적대응예고",
-  "공정위,'갤럭시고사양게임성능제한'숨긴삼성전자에과징금200억...",
   "[디깅인사이드]다끝난4년전삼성전자'GOS이슈'200억철퇴공정위...",
   "갤럭시'기만광고'에과징금201억…삼성반발",
   "\"GOS알리지않은건기만적\"...공정위,삼성전자에과징금200억",
@@ -6001,10 +5996,15 @@
   "삼성전자도못피한부품갑질…브로드컴186억원과징금확정",
   "호반그룹한진칼최대주주가능성에조원태370억어치한진칼주식추...",
   "시민단체,아주대병원압수수색경찰지휘부고발",
-  "6·3지방선거선거법위반수사‘운명의한달’"
+  "6·3지방선거선거법위반수사‘운명의한달’",
+  "가습기살균제피해자배상심의위출범…국가·기업공동배상기준마련...",
+  "호반,한진칼최대주주가능성…조원태회장,370억들여지분확대",
+  "삼성전자에'갑질계약'강요한브로드컴…186억원과징금확정",
+  "'삼성에부품공급중단압박'브로드컴…대법,186억과징금최종확정",
+  "사업대가로여론조사지지요청의혹…유희태완주군수송치"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-02T20:31:18.730545+09:00",
+ "last_run": "2026-11-02T20:41:03.018486+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
