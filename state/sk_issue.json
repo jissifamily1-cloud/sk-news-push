@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100010",
-  "https://biz.sbs.co.kr/article_hub/20000342416?division=NAVER",
-  "https://news.jtbc.co.kr/article/NB12325048?influxDiv=NAVER",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594331109107",
-  "https://www.sidae.com/article/2026102714134686232",
-  "https://isplus.com/article/view/isp202610270127",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003026178&CMPT_CD=P0010",
   "https://www.delighti.co.kr/news/articleView.html?idxno=79874",
   "https://news.mtn.co.kr/news-detail/2024043016322397431",
@@ -2999,15 +2993,15 @@
   "https://www.ziksir.com/news/articleView.html?idxno=151760",
   "https://www.nocutnews.co.kr/news/6601004",
   "https://news.jtbc.co.kr/article/NB12326110?influxDiv=NAVER",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/02/2026110290270.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/02/2026110290270.html",
+  "https://www.seoultimes.news/news/article.html?no=2000101690",
+  "https://www.khan.co.kr/article/202611022046015",
+  "https://www.hankookilbo.com/news/article/A2026110219460001143?did=NA",
+  "https://www.jasm.co.kr/news/view/323882/?sc=Naver",
+  "https://www.tjb.co.kr/news05/bodo/view/id/105591",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261102204804CzW"
  ],
  "seen_titles": [
-  "[디깅인사이드]다끝난4년전삼성전자'GOS이슈'200억철퇴공정위...",
-  "갤럭시'기만광고'에과징금201억…삼성반발",
-  "\"GOS알리지않은건기만적\"...공정위,삼성전자에과징금200억",
-  "삼성전자\"게임성능낮춘게아니라지켰다\"…갤럭시GOS200억과징금...",
-  "공정위,삼성전자'성능제한광고'에과징금200억원",
-  "박나래‘주사이모’,머리10cm찢어져입원...“오른쪽눈안보여”",
   "'대장동연루'SK최태원동생위장계열사,결국제재",
   "계열사간부당채무보증…공정위,SK계열사에과징금",
   "부당한채무보증한SK계열플레이스포에과징금부과",
@@ -6001,10 +5995,16 @@
   "호반,한진칼최대주주가능성…조원태회장,370억들여지분확대",
   "삼성전자에'갑질계약'강요한브로드컴…186억원과징금확정",
   "'삼성에부품공급중단압박'브로드컴…대법,186억과징금최종확정",
-  "사업대가로여론조사지지요청의혹…유희태완주군수송치"
+  "사업대가로여론조사지지요청의혹…유희태완주군수송치",
+  "[이슈]한진vs호반,한진칼최대주주놓고지분경쟁본격화…경영권...",
+  "호반·조원태,한진칼최대주주놓고지분경쟁돌입",
+  "조원태,한진칼지분370억원어치추가매입…지분율6.23%로",
+  "조원태,한진칼주식370억추가매입…호반그룹최대주주가능성에'맞...",
+  "(R)\"구속·송치0건에인력은60%\"…대전중수청출범한달",
+  "[단독]대선예비비이어사업비까지…특검,'선관위공추비'압수수색"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-02T20:41:03.018486+09:00",
+ "last_run": "2026-11-02T20:51:44.688900+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
