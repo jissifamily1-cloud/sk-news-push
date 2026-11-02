@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=666962",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695474",
-  "http://www.kjdaily.com/article.php?aid=1793011970690375005",
-  "http://www.kjdaily.com/article.php?aid=1793011974690378005",
-  "https://www.donga.com/news/Society/article/all/20261026/134910772/1",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695477",
   "https://www.ktv.go.kr/content/view?content_id=763017",
   "https://www.dt.co.kr/article/12091394",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/economy/trend/6339375",
   "https://www.etoday.co.kr/news/view/2642860",
   "https://www.yna.co.kr/view/AKR20261102039200002?input=1195m",
-  "http://www.doctorstimes.com/news/articleView.html?idxno=240812"
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240812",
+  "https://kr.aving.net/news/articleView.html?idxno=1816495",
+  "https://www.bntnews.co.kr/article/view/bnt202611020058",
+  "https://www.ajunews.com/view/20261102100639795",
+  "https://www.mt.co.kr/economy/2026/11/02/2026110208502871805",
+  "https://www.newsis.com/view/NISX20261102_0003850444"
  ],
  "seen_titles": [
-  "심덕섭고창군수,180억부정축재의혹유포자고소",
-  "신수정첫경찰소환조사…전남광주공직선거법수사상황은?",
-  "“피해자다못찾았는데…배상신청기간단6개월”",
-  "민주노총“GGM노조탄압중단·성실교섭나서라”",
-  "AI해킹독학해40일만에60곳뚫었다…경찰자체개발AI로덜미",
   "[전남광주주간정치]오승용“법무부장관2명압축,호남인사가총대...",
   "'마감임박'광고에'미승인'까지···민간임대4개사제재",
   "장성민“탄핵두려워반명제거에경찰까지…‘뉴이재명신당’창당해...",
@@ -6001,7 +5996,12 @@
   "공정위,국제경쟁당국평가공동3위…13년연속'매우우수'이상",
   "공정위,세계경쟁당국평가공동3위…아시아최고",
   "공정위,英경쟁법전문매체서'매우우수'평가…28개국중3위",
-  "정은경장관,대한소아응급의학회와만나의견청취"
+  "정은경장관,대한소아응급의학회와만나의견청취",
+  "건조해진실내,공간에맞춰가습기도다르게…아이리버,가습기신제...",
+  "[단독]캐시워크돈버는퀴즈정답11월2일",
+  "공정위,GCR평가13년연속'매우우수'이상…28개당국중공동3위",
+  "공정위,글로벌경쟁당국평가서공동3위…13년연속'매우우수'이상",
+  "공정위,GCR경쟁당국평가3위…13년연속'매우우수'이상"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "사업 정리 롯데렌탈 매각부터 기초화학 롯데 재편까지 비핵심 이어간"
   ]
  ],
- "last_run": "2026-11-02T10:01:11.171217+09:00",
+ "last_run": "2026-11-02T10:10:57.117993+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
