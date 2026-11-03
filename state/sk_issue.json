@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://news.tf.co.kr/read/life/2015947.htm",
-  "https://www.yna.co.kr/view/AKR20230504057700004?input=1195m",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1007179104&plink=ORI&cooper=NAVER",
-  "http://www.kwangju.co.kr/article.php?aid=1793114700804737074",
   "https://www.mk.co.kr/article/12187118",
   "https://health.chosun.com/site/data/html_dir/2026/10/27/2026102703160.html",
   "https://thetracker.co.kr/View.aspx?No=4280461",
@@ -2999,13 +2995,13 @@
   "http://www.segyebiz.com/newsView/20261103509414?OutUrl=naver",
   "https://www.womennews.co.kr/news/articleView.html?idxno=284041",
   "https://www.joongang.co.kr/article/25475310",
-  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167085"
+  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167085",
+  "https://www.joongang.co.kr/article/25475311",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079090",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044261",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3015521"
  ],
  "seen_titles": [
-  "'천화동인6호실소유주의혹'조우형영장심사'묵묵부답'",
-  "'천화동인6호실소유의혹'조우형구속심사",
-  "'천화동인6호실소유주의혹'조우형영장실질심사",
-  "신청기한에발목잡힌가습기살균제피해",
   "LG전자,AI로완성한맞춤형'가습공기청정기'",
   "양압기포기하기전에…착용감개선하는‘가습·밀착공식’",
   "LG전자,코리아그랜드페스티벌맞아가전할인행사진행",
@@ -6001,7 +5997,11 @@
   "“법근거없는데9억나눠가졌다”…특검,선관위이틀째압수수색",
   "대기업공시의무한번만반복위반해도과태료가중…3회이상최대5...",
   "특검,‘활동비부당지급의혹’중앙선관위이틀연속압수수색",
-  "의협범대위투쟁위한동우부위원장\"잘못인정않는경찰,사과하라\""
+  "의협범대위투쟁위한동우부위원장\"잘못인정않는경찰,사과하라\"",
+  "경찰,감기약으로4만명투약분필로폰제조한일당검거",
+  "'부동산투자수익보장'125억원가로챈경매학원운영자구속",
+  "의협,경찰청앞1인시위계속…\"소아응급실압수수색사과하라\"",
+  "응급실을지키는의사의손이떨려서는안된다"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "직접 수사 전북 의혹 공익제보자들 부안군민 여론조작 국수본에"
   ]
  ],
- "last_run": "2026-11-03T12:31:13.027449+09:00",
+ "last_run": "2026-11-03T12:40:54.283119+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
