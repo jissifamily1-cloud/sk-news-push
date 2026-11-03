@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.babytimes.co.kr/news/articleView.html?idxno=74357",
-  "https://www.newsis.com/view/NISX20261013_0003824684",
   "http://www.newstown.co.kr/news/articleView.html?idxno=718440",
   "http://www.bizwnews.com/news/articleView.html?idxno=147716",
   "https://www.hankyung.com/article/202610016767H",
@@ -2999,11 +2997,11 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2013647",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610300914004100105528",
   "https://www.pennmike.com/news/articleView.html?idxno=130879",
-  "https://www.the-today.com/news/articleView.html?idxno=92946"
+  "https://www.the-today.com/news/articleView.html?idxno=92946",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030082&t=NN",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702494"
  ],
  "seen_titles": [
-  "신정훈의원\"호남도먹고살게둬라\"…'기업팔비틀기'주장반박[2006국...",
-  "노소영,재산분할맞상고안해…최태원재상고로대법곧심리",
   "[사설]증시덮친중국발반도체쇼크…초격차속도내야",
   "[단독]최태원지분5440억사들인‘전략적투자자’는마이클델",
   "국민의힘\"이재용·최태원국감증인으로불러야\"vs민주당\"호남도먹...",
@@ -6001,7 +5999,9 @@
   "\"30대그룹CEO,관리·기획줄고기술·현장전문가늘었다\"",
   "[더벨][2026SK인사]변화보다안정택했다...최창원의장연임",
   "[재계핫이슈]'저PBR기업딱지'를붙여주가를올린다?",
-  "최태원약속·특위에도뚫린SK…보안허점재노출왜?반복?(1부)"
+  "최태원약속·특위에도뚫린SK…보안허점재노출왜?반복?(1부)",
+  "젠슨황도반했던'그조합'…완제품소맥나온다",
+  "[무등의아침]강수훈“광주권시내버스개편내용·시기모두문제…..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,17 @@
   [
    "2026-11-03T11:30:24.606364+09:00",
    "재노출 1부 반복 허점 뚫린 보안 약속 특위에도"
+  ],
+  [
+   "2026-11-03T11:50:15.698094+09:00",
+   "나온다 조합 소맥 황도 완제품 반했던 젠슨"
+  ],
+  [
+   "2026-11-03T11:50:15.698094+09:00",
+   "모두 강수훈 시내버스 개편 광주권 문제 시기 내용"
   ]
  ],
- "last_run": "2026-11-03T11:40:29.049539+09:00",
+ "last_run": "2026-11-03T11:50:32.094100+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
