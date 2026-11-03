@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475665",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1102942",
-  "https://www.wikitree.co.kr/articles/1162988",
-  "https://sports.khan.co.kr/article/202610132201003?pt=nv",
   "https://www.viva100.com/article/20260902500398",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608310188&t=NNv",
   "https://www.sportschosun.com/sports-news/2026-08-31/202608310100184020012053",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/PYH20261103133300013?input=1196m",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717445",
   "https://www.newsis.com/view/NISX20261103_0003852521",
-  "https://www.g-enews.com/view.php?ud=20261103142606996627fa31d75c_1"
+  "https://www.g-enews.com/view.php?ud=20261103142606996627fa31d75c_1",
+  "https://www.news1.kr/local/daejeon-chungnam/6341475",
+  "https://www.kukinews.com/article/view/kuk202611030120",
+  "https://www.eroun.net/news/articleView.html?idxno=94156",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=879310"
  ],
  "seen_titles": [
-  "용인시의회스마트행정연구회,강원서우수사례벤치마킹",
-  "용인특례시의회스마트행정연구회,강원AI·공공안전사례점검",
-  "[지방의회24時]'스마트행정연구회'강원특별자치도스마트행정우수사...",
-  "용인특례시의회스마트행정연구회,강원서'스마트행정해법'찾았다",
   "용인특례시의회의원연구단체2팀,춘천서AI·문화정책벤치마킹",
   "용인특례시의회,인공지능·데이터행정우수사례탐방",
   "용인시의회스마트행정연구회,강원서AI행정적용사례점검",
@@ -6001,7 +5997,11 @@
   "2026미래경제포럼개최",
   "충남도의회,예산정책자문위원6명위촉",
   "충남도의회,제3기예산정책자문위도의원6명위촉",
-  "또다시덮친AI거품론…수익성우려속삼성·SK하이닉스영향은?"
+  "또다시덮친AI거품론…수익성우려속삼성·SK하이닉스영향은?",
+  "충남도의회'3기예산정책자문위원회'위촉",
+  "충남도의회,제3기예산정책자문위원회위원위촉",
+  "[이로운체크]\"AI가만든노래였어?\"...어디까지창작으로봐야할까",
+  "이재용·최태원도춤추는AI시대…초상권보호는'전근대'"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,17 @@
   [
    "2026-11-03T14:50:15.056876+09:00",
    "덮친 거품론 수익성 삼성 SK하이닉스 또다시 영향은 AI 우려"
+  ],
+  [
+   "2026-11-03T15:00:33.492936+09:00",
+   "창작으로 노래였어 AI가 할까 만든 봐야 어디까지"
+  ],
+  [
+   "2026-11-03T15:00:33.492936+09:00",
+   "최태원도 AI 시대 이재용 춤추는 보호는 전근대 초상권"
   ]
  ],
- "last_run": "2026-11-03T14:50:29.607615+09:00",
+ "last_run": "2026-11-03T15:00:48.917318+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
