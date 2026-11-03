@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=620165",
-  "https://www.hankyung.com/article/2026102898817",
-  "https://www.wikitree.co.kr/articles/1169754",
-  "http://www.mygoyang.com/news/articleView.html?idxno=90946",
-  "https://www.techm.kr/news/articleView.html?idxno=156580",
-  "https://www.newspim.com/news/view/20261028000298",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735030",
-  "https://www.sedaily.com/article/20107060",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3015019",
   "https://news.jtbc.co.kr/article/NB12325211?influxDiv=NAVER",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/28/2026102890108.html",
   "https://health.chosun.com/site/data/html_dir/2026/10/28/2026102801308.html",
@@ -2999,18 +2990,18 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7192025",
   "https://www.pressian.com/pages/articles/2026110316173121319",
   "https://www.dailymedi.com/news/news_view.php?wr_id=942199",
-  "http://www.jmbc.co.kr/news/view/69393"
+  "http://www.jmbc.co.kr/news/view/69393",
+  "https://www.ekn.kr/web/view.php?key=20261103024114946",
+  "https://www.cstimes.com/news/articleView.html?idxno=726464",
+  "https://www.munhwa.com/article/11628496",
+  "https://biz.sbs.co.kr/article_hub/20000343981?division=NAVER",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=212636",
+  "https://www.newsis.com/view/NISX20261103_0003853224",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=257953",
+  "https://www.newspim.com/news/view/20261103001190",
+  "https://www.jemin.com/news/articleView.html?idxno=846030"
  ],
  "seen_titles": [
-  "아주대병원소아응급전문의7명사직의사…경찰압수수색논란에여론...",
-  "[속보]특검\"투표지검증통해선거관리문제점·국민신뢰회복기대\"",
-  "비싸서못샀던건데…홈플러스가작정하고'최대50%'할인한다는'고...",
-  "\"산황산살리기,민경선시장이결단해달라\"",
-  "[기자수첩]공정위의GOS제재가잘못된이유",
-  "다단계업체119개사유지…에이스원글로벌공제계약해지에도미폐업",
-  "\"손떨려진료못한다\"...아주대소아응급실교수7명전원사직",
-  "특검,‘투표지검증’시작…이태한“선거제도신뢰회복계기되길”",
-  "'응급실폭거',언제까지…",
   "압수수색영장깔고앉아한달간반환거부…대법\"절도단정못해\"",
   "경찰압수수색에아주대병원소아응급전문의9명중7명사직",
   "“손떨려진료못하겠다”…아주대소아응급교수7명‘사직’의사",
@@ -6001,7 +5992,16 @@
   "화우,식품·의약·기술범죄전문가안화연전검사영입",
   "유명부동산유튜버,경매학원수강생등126명에125억원대사기",
   "안철수\"내가대통령이었다면의료진에사과\"",
-  "천호성전북교육감압수수색..\"정치자금법위반혐의\""
+  "천호성전북교육감압수수색..\"정치자금법위반혐의\"",
+  "[똑똑한유통]쿠쿠,아성다이소,시디즈,청호나이스,쿠팡이츠서비스",
+  "청호나이스,초소형'청호정수기미니'출시…폭10.5cm",
+  "美경제단체,韓플랫폼규제에공동반발…USTR행동촉구",
+  "소비자생협소관부처13일부터공정위→중기부로",
+  "토스,네이버공정위제소…POS연동차별놓고정면충돌",
+  "토스,공정위에네이버제소…포스연동차별공방",
+  "토스플레이스,공정위에네이버신고…POS서비스연동갈등격화",
+  "네이버·토스POS갈등…공정위판단받는다",
+  "제주하귀H공동주택특혜확인안돼…절차미비"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "직접 수사 전북 의혹 공익제보자들 부안군민 여론조작 국수본에"
   ]
  ],
- "last_run": "2026-11-03T16:31:08.065068+09:00",
+ "last_run": "2026-11-03T16:40:56.354815+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
