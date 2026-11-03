@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280172",
-  "https://www.tokenpost.kr/news/market/431098",
-  "https://www.chosun.com/economy/industry-company/2026/11/02/NEZSTO6YKJD43KLL2KXIDFQT3I/",
-  "https://www.insight.co.kr/news/580194",
-  "https://www.theguru.co.kr/news/article.html?no=109114",
-  "http://www.metroseoul.co.kr/article/20261102500158",
-  "https://www.yna.co.kr/view/AKR20261102066600017?input=1195m",
-  "http://www.dailyesports.com/view.php?ud=2026110210075832274bcc1e038_27",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=878771",
   "https://www.edaily.co.kr/News/Read?newsId=02765046645641784&mediaCodeNo=257",
   "https://www.itbiznews.com/news/articleView.html?idxno=229917",
   "https://www.ajunews.com/view/20261102102757847",
@@ -2999,18 +2990,18 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829316&plink=ORI&cooper=NAVER",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031404558090415",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=80463",
-  "https://www.news1.kr/it-science/security-hacking/6341777"
+  "https://www.news1.kr/it-science/security-hacking/6341777",
+  "https://www.edaily.co.kr/News/Read?newsId=02299286645642440&mediaCodeNo=257",
+  "https://www.jemin.com/news/articleView.html?idxno=846085",
+  "https://www.sedaily.com/article/20109899",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703240",
+  "https://www.ajunews.com/view/20261104061506609",
+  "https://www.hankyung.com/article/2026110334916",
+  "https://www.news2day.co.kr/article/20261103500028",
+  "https://www.fnnews.com/news/202611040621220252",
+  "https://www.munhwa.com/article/11628556"
  ],
  "seen_titles": [
-  "[오늘증시]'美반도체쇼크'에도코스피5800선탈환…외인매도는여전",
-  "전세계전기차용배터리시장19.7%성장…국내3사점유율↓",
-  "구글인공지능투자68조원쏟아붓자주가흔들…삼성·SK반도체셈법...",
-  "CXMTValidates4F²DRAMPlatform,RaisingStakesinRaceWithSamsung,",
-  "대만증시외국인,10월317억8000만달러순매도역대최대",
-  "‘정장지양’‘자율복’...인사혁신처지침이후,취준생들면접복...",
-  "키옥시아특별배당도전액환원...SK스퀘어,주주에게'역대최대'환원",
-  "블룸버그“美중간선거결과어떻든삼전닉스투자유망\"",
-  "[단독]장기전세줄이려서울시조례개정의뢰한재개발조합…소송전...",
   "[테크스냅]클루커스,AI에이전트'마누스'국내도입지원",
   "[롤드컵]'LCK강세'젠지·DK·T18강진출",
   "팬오션,전부문서수익성장...3Q영업익57.7%↑",
@@ -6001,7 +5992,16 @@
   "민주당이기면'반도체걱정',공화당은'관세압박'",
   "[PC국가대표]에스와이이앤씨-대형구조물특화기술력강점…반도체...",
   "[숏폼]아리바이오'AR1001',임상3상발표앞두고일본특허등록",
-  "\"중국,못푸는암호도일단훔친다\"…韓양자보안경각심부족"
+  "\"중국,못푸는암호도일단훔친다\"…韓양자보안경각심부족",
+  "\"美상무부,SK하닉中공장에장비반입허가보류\"",
+  "마이크론,반도체매도세딛고반등성공…AI메모리수요기대가투자...",
+  "美,SK하닉中공장장비반입제동...“뉴욕공장투자도차질”",
+  "“미국,SK하이닉스중국공장장비반입제동…뉴욕공장투자도차질”",
+  "美,SK하이닉스中공장반도체장비승인지연…뉴욕공장투자도차질",
+  "\"반도체쏠림에가렸다\"…3년연속이익늘어도소외된종목[한경우의...",
+  "[N2모닝경제브리핑-11월4일]美증시,반도체주강세에나스닥0.83%↑...",
+  "[뉴욕증시]반도체강세속다우지수만하락…'속슬'7.3%급등",
+  "[속보]다시,나스닥0.8%↑…마이크론2.5%상승"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,25 @@
   [
    "2026-11-04T06:22:10.030653+09:00",
    "암호도 경각심 푸는 일단 양자보안 부족 훔친다 중국"
+  ],
+  [
+   "2026-11-04T06:32:30.729656+09:00",
+   "늘어도 연속 소외된 가렸다 종목 반도체 이익 쏠림에 3년 한경우의"
+  ],
+  [
+   "2026-11-04T06:32:30.729656+09:00",
+   "강세에 나스닥 증시 반도체주"
+  ],
+  [
+   "2026-11-04T06:32:30.729656+09:00",
+   "다우지수만 강세속 속슬 반도체 하락 급등"
+  ],
+  [
+   "2026-11-04T06:32:30.729656+09:00",
+   "다시 마이크론 상승 나스닥"
   ]
  ],
- "last_run": "2026-11-04T06:22:26.941532+09:00",
+ "last_run": "2026-11-04T06:32:44.636989+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
