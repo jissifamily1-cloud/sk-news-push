@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610181851582976",
-  "https://www.ppss.kr/news/articleView.html?idxno=315363",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=508425",
-  "http://www.snmnews.com/news/articleView.html?idxno=575796",
-  "https://news.ifm.kr/news/articleView.html?idxno=482771",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215995",
-  "https://www.yna.co.kr/view/AKR20261027183500002?input=1195m",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261028054032L3s",
-  "https://www.seoul.co.kr/news/economy/2026/10/28/20261028031003?wlog_tag3=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=01695766645617512&mediaCodeNo=257",
-  "https://www.khan.co.kr/article/202610280500021",
   "https://www.chosun.com/economy/economy_general/2026/10/28/L5TFYXEM4NHJTHMWWKOVC2YLS4/",
   "https://www.donga.com/news/Economy/article/all/20261027/134920026/2",
   "http://www.kjdaily.com/article.php?aid=1793113738690433276",
@@ -2999,20 +2988,20 @@
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318785",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/03/2026110390157.html",
   "https://www.naeil.com/news/read/607349",
-  "https://www.naeil.com/news/read/607423"
+  "https://www.naeil.com/news/read/607423",
+  "https://kormedi.com/?p=2897174",
+  "http://www.metroseoul.co.kr/article/20261103500188",
+  "https://www.mediawatch.kr/news/article.html?no=261594",
+  "https://www.etoday.co.kr/news/view/2643128",
+  "https://www.viva100.com/article/20261103500086",
+  "https://www.newsis.com/view/NISX20261103_0003852118",
+  "https://www.hani.co.kr/arti/area/honam/1285499.html",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261103131542Tq6",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000079161",
+  "https://www.yna.co.kr/view/PYH20261103114800055?input=1196m",
+  "https://www.ytn.co.kr/_ln/0103_202611031308172417"
  ],
  "seen_titles": [
-  "파이낸셜뉴스-KAFA학술공로상에배성철교수",
-  "[기획]우승희영암군수,'찾아오는영암·살기좋은영암'승부수…관...",
-  "[기획]영암군,'방문의해'...226억원문화재생과통합돌봄가동",
-  "현대제철,WSA스틸리어워드LCA부문수상",
-  "삼성전자,'최고성능'광고하며속도는몰래제한…4조원팔고과징금...",
-  "[국감,그후]\"담합적발되면쉬었다가또한다\"…CJ제일제당·삼양사·...",
-  "루센트블록반발에도당국'신중'…공정위변수눈길",
-  "정은경\"산후조리원부가서비스조사…개선안마련\"",
-  "공정위,‘갤럭시기만광고’과징금200억…삼성“법적대응”",
-  "대통령앞에선보고자,사건앞에선심판…위원회독립성보장해야",
-  "“금융을보는관점새롭게…금리체계에‘공정도등급’반영하자”[금...",
   "갤S21·S22·탭S8,고사양게임성능제한…공정위“알리지않았다”...",
   "공정위,삼성전자에‘표시광고법위반’201억과징금",
   "삼성전자,갤럭시성능제한숨겼다…과징금200억원",
@@ -6001,7 +5990,18 @@
   "송치된쿠팡블랙리스트공익제보자\"쿠팡은압수수색했나\"",
   "선관위특검,'공명선거추진활동비'의혹이틀째압수수색",
   "대기업공시위반반복하면과태료50%까지가중",
-  "응급실압수수색갈등,결국형사고발로"
+  "응급실압수수색갈등,결국형사고발로",
+  "수돗물로코세척했다가뇌감염?…美보건당국주의당부",
+  "'소비자생협연합회인가'등공정위→중기부이관",
+  "[26.11.3증시인싸잇]오늘의특징주-호반그룹vs조원태,한진칼경영...",
+  "소비자생협소관부처,공정위서중기부로변경…13일부터",
+  "소비자생협관리중기부로…시행령개정안국무회의통과",
+  "'소비자생협'소관부처공정위→중기부로옮긴다",
+  "경찰,정치자금법위반혐의천호성전북교육감압수수색",
+  "경찰,정치자금법위반등천호성전북교육감압수수색",
+  "고의자해로보험금9억챙긴사기일당검거…주범등3명구속",
+  "천호성전북교육감압수수색나선경찰",
+  "선관위특검,'활동비부정지급'중앙선관위이틀째압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "직접 수사 전북 의혹 공익제보자들 부안군민 여론조작 국수본에"
   ]
  ],
- "last_run": "2026-11-03T13:10:54.304943+09:00",
+ "last_run": "2026-11-03T13:20:56.882668+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
