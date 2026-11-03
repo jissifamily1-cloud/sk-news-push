@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261102000049",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=283926",
-  "http://www.beyondpost.co.kr/view.php?ud=20261102093004614746a9e4dd7f_30",
-  "http://www.beyondpost.co.kr/view.php?ud=202611020931258084be44c0aacd_30",
-  "https://www.newspim.com/news/view/20261102000201",
   "https://www.viewsnnews.com/article?q=239403",
   "https://www.yna.co.kr/view/AKR20261102030051008?input=1195m",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717068",
@@ -2999,14 +2994,14 @@
   "http://www.e2news.com/news/articleView.html?idxno=335751",
   "https://www.khan.co.kr/article/202611031946001",
   "http://www.newstomato.com/ReadNews.aspx?no=1319169&inflow=N",
-  "https://www.edaily.co.kr/News/Read?newsId=05720326645642112&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=05720326645642112&mediaCodeNo=257",
+  "https://www.newsis.com/view/NISX20261103_0003853493",
+  "https://www.ppss.kr/news/articleView.html?idxno=318805",
+  "https://www.ppss.kr/news/articleView.html?idxno=318615",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829031&plink=ORI&cooper=NAVER",
+  "https://www.ppss.kr/news/articleView.html?idxno=318821"
  ],
  "seen_titles": [
-  "[개장시황]하락출발한코스피,낙폭회복…'삼전닉스'1%대하락",
-  "KT,3G신규가입중단…LTE·5G전환지원",
-  "장초반삼성전자3.11%·SK하이닉스1.48%하락...미반도체주급락여파",
-  "SK하이닉스'AI해커톤2026'예선시스템장애로전면재시험",
-  "환율'박스권전망'...iM증권\"이번주1310~1350원,대외불확실성\"",
   "해시드,마켓핏랩협업'OBA.RUN2nd해커톤'개최",
   "코스피,美기술주급락에장초반1%대하락…삼전닉스동반약세",
   "[개장시황]코스피,美기술주급락에1%대하락출발",
@@ -6001,29 +5996,14 @@
   "민간발전협회상근부회장에박덕열기후부수소경제정책관내정",
   "이대통령,튀르키예대통령과정상회담…“원전·방산등전략분야실...",
   "이대통령\"튀르키예와원전·방산협력내실화…핵심광물공급망다변...",
-  "육지는반값,바다선비싸게…스타링크'자율요금'논란"
+  "육지는반값,바다선비싸게…스타링크'자율요금'논란",
+  "이대통령,\"튀르키예원전韓기업참여선제적지원\"…에르도안,\"FTA개...",
+  "SKT,사내AI에이전트경연...173건출품",
+  "삼성전자·SK하이닉스,급락딛고상승마감…기관매수세에반등",
+  "이대통령\"한국전쟁참전튀르키예,'피나눈형제'…원전·방산협력...",
+  "서버칩은버리고HBM만쏙...중국밀수시장서개당4천달러"
  ],
  "recent_sigs": [
-  [
-   "2026-11-03T13:51:19.524131+09:00",
-   "프로농구 케렘 전승 칸터 삼성 1라운드 85표 MVP 이끌었 101표 9전"
-  ],
-  [
-   "2026-11-03T13:51:19.524131+09:00",
-   "위반 위험관리 복귀 주의 홍원식 임원 제재 3명"
-  ],
-  [
-   "2026-11-03T13:51:19.524131+09:00",
-   "데이원컴퍼니 서비스 교육까지 출범 기업AX 한번에 기술"
-  ],
-  [
-   "2026-11-03T13:51:19.524131+09:00",
-   "지원 평택 실증 오픈랩 소부장 반도체 개소 기술"
-  ],
-  [
-   "2026-11-03T13:51:19.524131+09:00",
-   "자동차 맞춤형 기아 공장은 스마트하게 현대차그룹 생산"
-  ],
   [
    "2026-11-03T14:01:29.014474+09:00",
    "쇼크 이틀간 8조 방어한 연기금 사자 SK하닉 인텔"
@@ -7107,9 +7087,13 @@
   [
    "2026-11-03T19:51:02.478257+09:00",
    "육지는 자율 논란 바다선 요금 비싸게 반값 스타링크"
+  ],
+  [
+   "2026-11-03T20:01:20.831053+09:00",
+   "버리고 서버칩은 HBM만 4천달러 밀수시장서 중국 개당"
   ]
  ],
- "last_run": "2026-11-03T19:51:08.532379+09:00",
+ "last_run": "2026-11-03T20:01:26.987748+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
