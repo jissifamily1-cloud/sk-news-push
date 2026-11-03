@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.weeklytoday.com/news/articleView.html?idxno=800522",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1307250",
   "https://www.g-enews.com/view.php?ud=202611020927231649fbbec65dfb_1",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500447",
   "https://www.fntimes.com/html/view.php?ud=202610300856427847b372994c95_18",
@@ -2999,11 +2997,11 @@
   "https://www.mediawatch.kr/news/article.html?no=261607",
   "https://www.newdaily.co.kr/site/data/html/2026/11/03/2026110300360.html",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=284410",
-  "https://www.koreajoongangdaily.com/korea/korea-turkey-advance-sinop-nuclear-power-plant-financing-at-seoul-summit/12948263"
+  "https://www.koreajoongangdaily.com/korea/korea-turkey-advance-sinop-nuclear-power-plant-financing-at-seoul-summit/12948263",
+  "http://www.kwangju.co.kr/article.php?aid=1793704800804994008",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=879529"
  ],
  "seen_titles": [
-  "코스피5600선서하락폭줄여…기관매수세에장초반선방",
-  "“연말7천피공방…삼닉역사적바겐세일”전문가진단",
   "[금융한입]美중간선거끝나면증시오른다?",
   "[위클리오늘]이동통신소식_LG유플러스,SK텔레콤,KT(11.2)",
   "강북구,음식물쓰레기감량우수단지6곳시상",
@@ -6001,7 +5999,9 @@
   "[26.11.3증시인싸잇]AI투자쇼크에증시와르르…코스피,코스닥동...",
   "한-튀르키예정상회담…李\"시놉원전건설협력순조롭게진행\"",
   "'물타기'와'불타기'차이…키움운용,ETF투자전략인스타툰공개",
-  "Korea,TurkeyadvanceSinopnuclearpowerplantfinancingatSeoulsum"
+  "Korea,TurkeyadvanceSinopnuclearpowerplantfinancingatSeoulsum",
+  "광주FC김윤호,U-19대표팀합류",
+  "[마켓H]ETF업계,'마이티'의깜짝돌풍에'충격'"
  ],
  "recent_sigs": [
   [
@@ -7039,9 +7039,17 @@
   [
    "2026-11-03T20:24:52.668485+09:00",
    "Turkey Korea nuclear financing Sinop power Seoul at summit advance plant"
+  ],
+  [
+   "2026-11-03T20:31:11.434380+09:00",
+   "합류 광주FC 대표팀 김윤호"
+  ],
+  [
+   "2026-11-03T20:31:11.434380+09:00",
+   "돌풍에 충격 업계 깜짝 ETF 마이티"
   ]
  ],
- "last_run": "2026-11-03T20:24:58.800473+09:00",
+ "last_run": "2026-11-03T20:31:28.007079+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
