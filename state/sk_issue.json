@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696705",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=765870",
   "https://www.yna.co.kr/view/AKR20261027160651001?input=1195m",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=50094",
   "https://www.kbsm.net/news/view.php?idx=539317",
@@ -2999,11 +2997,11 @@
   "https://www.ngonews.kr/news/articleView.html?idxno=242196",
   "https://www.topdaily.kr/articles/112653",
   "https://www.g-enews.com/view.php?ud=2026110310255755618fbfc802b3_1",
-  "https://www.koreahealthlog.com/news/articleView.html?idxno=59758"
+  "https://www.koreahealthlog.com/news/articleView.html?idxno=59758",
+  "http://www.newskr.kr/news/articleView.html?idxno=107654",
+  "https://www.dt.co.kr/article/12092811"
  ],
  "seen_titles": [
-  "“‘기성금부당산정’삼성중공업공정위가조사해야”",
-  "허진호감독,'암살자(들)'역사왜곡논란에입연다…'PD수첩'출연",
   "복지위'미프진도입'공방…\"하명정책이냐\"\"이미준비해온것\"(종합)",
   "\"게임끝판왕\"이라더니실행즉시성능제한…삼성전자과징금200억원",
   "올림픽공원압수수색6시간만종료…특검,선거서류등확보",
@@ -6001,7 +5999,9 @@
   "자산5조원이상대기업,공시의무반복위반시과태료최대50%가중",
   "호반최대주주맞은한진칼,공시누락'불성실법인'유탄맞나",
   "[투자주의보]방송나온전문가도,원금보장약속도…투자안전성보...",
-  "환자단체들\"응급실이라는이유만으로압수수색원칙적제한안돼\""
+  "환자단체들\"응급실이라는이유만으로압수수색원칙적제한안돼\"",
+  "신세계그룹,최대92%할인'쓱데이클리어런스'등...막바지할인총공...",
+  "공시위반두번째부터과태료가중…공정위제재강화"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "직접 수사 전북 의혹 공익제보자들 부안군민 여론조작 국수본에"
   ]
  ],
- "last_run": "2026-11-03T10:51:04.607989+09:00",
+ "last_run": "2026-11-03T11:01:25.566579+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
