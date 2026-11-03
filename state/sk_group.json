@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.99099000326",
-  "https://www.edaily.co.kr/News/Read?newsId=02797846645641784&mediaCodeNo=257",
-  "https://www.electimes.com/news/articleView.html?idxno=374216",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=800566",
-  "https://www.thebigdata.co.kr/view.php?ud=20261102104432209570d99e4c8_23",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202857",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=48678",
   "https://www.fntimes.com/html/view.php?ud=2026110211171314777fd637f543_18",
   "https://zdnet.co.kr/view/?no=20261102111858",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200166.html",
@@ -2999,16 +2992,16 @@
   "https://www.slist.kr/news/articleView.html?idxno=778719",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8018",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005954447",
-  "https://www.greened.kr/news/articleView.html?idxno=353764"
+  "https://www.greened.kr/news/articleView.html?idxno=353764",
+  "https://www.kmib.co.kr/article/20261104500065",
+  "https://www.yna.co.kr/view/AKR20261104009851072?input=1195m",
+  "https://www.hankyung.com/article/2026110442246",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=312166",
+  "https://www.itooza.com/common/iview.php?no=2026110407152006294",
+  "https://www.fntimes.com/html/view.php?ud=202611040712349865141825007d_18",
+  "https://dealsite.co.kr/articles/171909"
  ],
  "seen_titles": [
-  "국채선물약세출발…전주강세곱씹으며숨고르기",
-  "원전·방산·제조업까지노린다…OT보안위협현실화",
-  "[게임리포트]‘잠실학생체육관의주인공은우리다!’홈-원정은SK에...",
-  "초광역특구법안산업계-노동계갈등불씨로…시민사회단체들\"재벌특혜...",
-  "해시드,기업·개발자협업해커톤연다",
-  "첨단산업전력대책부터거버넌스개편까지…산적한에너지과제확인",
-  "[위클리오늘]산업일반소식_동아에스티,제일약품(11.2)",
   "11월은재계‘추모의달’…창업주의기업가정신되짚는다",
   "[더밸류브리핑]오늘의우리금융소식…우리투자증권·우리카드",
   "SKSPE,'1000억'메카트로인수마무리",
@@ -6001,7 +5994,14 @@
   "삼성전자,반도체상장기업브랜드평판1위…SK하이닉스·한미반도체뒤...",
   "[글로벌마켓뷰]美중간선거불확실성에뉴욕증시혼조…나스닥0.83%...",
   "30대그룹미국법인10년새3.3배급증…중국은급감",
-  "최태원회장\"한국·일본AI·반도체등경제협력,최소1340조원시너지..."
+  "최태원회장\"한국·일본AI·반도체등경제협력,최소1340조원시너지...",
+  "“美정부,SK하이닉스‘중국공장’장비반입제동”",
+  "뉴욕증시,중간선거경계혼조…반도체주반등에나스닥0.8%↑(종합)",
+  "\"삼전·닉스,내년영업익1110조전망…AI우려넘는다\"-KB",
+  "미국중간선거와내삼전닉스주식의상관관계",
+  "[리스트]MVP상위20선...제이브이엠등-4일",
+  "[KFT모닝브리프]2026.11.04—오늘꼭알아야할국내외경제뉴스",
+  "[ETF리그테이블][2026년10월]유가·금리·AI삼중고에…시장서30조..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,25 @@
   [
    "2026-11-04T07:11:12.528919+09:00",
    "삼성일가 4인 8명 10명 주식부호 보유주식"
+  ],
+  [
+   "2026-11-04T07:31:17.450770+09:00",
+   "상관관계 미국 삼전닉스 중간선거와 주식의"
+  ],
+  [
+   "2026-11-04T07:31:17.450770+09:00",
+   "상위 제이브이엠 20선 MVP 4일"
+  ],
+  [
+   "2026-11-04T07:31:17.450770+09:00",
+   "알아야 국내외 경제뉴스"
+  ],
+  [
+   "2026-11-04T07:31:17.450770+09:00",
+   "금리 삼중고에 시장서 30조 AI 유가"
   ]
  ],
- "last_run": "2026-11-04T07:21:13.735463+09:00",
+ "last_run": "2026-11-04T07:31:31.281913+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
