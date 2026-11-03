@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442363",
-  "https://www.hankyung.com/article/2026103175746",
-  "https://www.newsway.co.kr/news/view?ud=2026110113173630944",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54158",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092173283",
-  "https://www.ytn.co.kr/_ln/0104_202611011315185446",
   "https://biz.heraldcorp.com/article/10921697",
   "https://www.koreaherald.com/article/10921701",
   "https://www.etoday.co.kr/news/view/2642623",
@@ -2999,15 +2993,15 @@
   "https://www.mstoday.co.kr/news/articleView.html?idxno=200351",
   "https://view.asiae.co.kr/article/2026110311451210993",
   "https://www.news2day.co.kr/article/20261103500118",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=800796"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=800796",
+  "https://www.sportsseoul.com/news/read/1646394",
+  "http://www.kjdaily.com/article.php?aid=1793677464691087276",
+  "https://sateconomy.co.kr/news/view/1065584504813732",
+  "https://www.fnnews.com/news/202611031231132928",
+  "https://www.tokenpost.kr/news/blockchain/431770",
+  "https://www.wikitree.co.kr/articles/1171389"
  ],
  "seen_titles": [
-  "첫통합법인출범두달…후속성과더딘석화재편",
-  "[기획]위성망뚫리면국가인프라마비…초연결늘면보안취약점도폭...",
-  "SKT,AI에이전트1500개실무투입…조직생산성혁신가속",
-  "안철수\"누가국민연금182조날렸나…李대통령지시라도있었나\"",
-  "SK텔레콤,임직원AI활용에서성과창출로…전사'AX무브먼트2.0'추진",
-  "\"이재용·최태원이걸그룹춤을?\"…SNS난리난영상,알고보니",
   "[BK프리뷰]9연승의삼성vs4연승의SK,시즌첫S-더비의승자는?",
   "역대PO'승-패-패-승'팀7차례모두KS진출…삼성·KIA최종5차전[PO...",
   "[M-커버스토리]AI가부른'전력대란'…초대형산단,이대로버틸수...",
@@ -6001,7 +5995,13 @@
   "AI투자불안에코스피3%급락…반도체주직격탄",
   "부산1000대기업매출첫50조원돌파…해운대기업이전효과",
   "\"뉴욕찍고아부다비로\"…한화운용,국내첫중동증시진출",
-  "[위클리오늘]이천시,아세안시장서59억원계약추진…중소기업수출..."
+  "[위클리오늘]이천시,아세안시장서59억원계약추진…중소기업수출...",
+  "박영현vs원태인‘뒷문’대결…KS마지막‘불펜MVP’오승환→15년만...",
+  "삼성전자·SK하이닉스거래대금8.1%감소…래블업3위",
+  "마벨,루멘텀1150억달러인수…삼성전자·SK하이닉스AI시장에도변수",
+  "3기신도시,대기업품고환골탈태...\"기업유치경쟁\"",
+  "[로빈후드온체인]팔란티어거래대금이하루만에11배로뛰어...커맨더...",
+  "이언주\"트리니티팹참여기업과세부담도함께해소해야\"…재경위서조..."
  ],
  "recent_sigs": [
   [
@@ -6923,9 +6923,17 @@
   [
    "2026-11-03T12:41:02.900415+09:00",
    "중소기업 아세안 59억 이천시 수출 계약 시장서"
+  ],
+  [
+   "2026-11-03T12:51:05.311215+09:00",
+   "커맨더 뛰어 11배로 팔란티어 만에 하루 거래대금이"
+  ],
+  [
+   "2026-11-03T12:51:05.311215+09:00",
+   "재경위서 이언주 해소해야 트리니티팹 과세 참여기업 함께 부담도"
   ]
  ],
- "last_run": "2026-11-03T12:43:01.779762+09:00",
+ "last_run": "2026-11-03T12:51:14.016311+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
