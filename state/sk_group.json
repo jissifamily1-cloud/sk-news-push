@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=66881",
-  "https://www.mt.co.kr/tech/2026/11/02/2026110209451315073",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=81117",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200118.html",
-  "https://www.sentv.co.kr/article/view/sentv202611020068",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=622099",
-  "https://www.dt.co.kr/article/12092551",
-  "https://www.etoday.co.kr/news/view/2642941",
   "https://www.cbci.co.kr/news/articleView.html?idxno=622097",
   "http://www.press9.kr/news/articleView.html?idxno=85382",
   "https://www.koreaittimes.com/news/articleView.html?idxno=158715",
@@ -2999,17 +2991,17 @@
   "https://news.bizwatch.co.kr/article/industry/2026/11/03/0045",
   "https://www.viva100.com/article/20261103500001",
   "http://www.beyondpost.co.kr/view.php?ud=2026110406301749812aaae0046f_30",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730345"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730345",
+  "https://biz.chosun.com/international/international_general/2026/11/04/NRB5AWBCHFGEVASPEX32PZ6IPA/",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641830",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501048",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829398&plink=ORI&cooper=NAVER",
+  "https://www.etoday.co.kr/news/view/2643731",
+  "https://biz.sbs.co.kr/article_hub/20000344070?division=NAVER",
+  "https://magazine.hankyung.com/business/article/202610291914b",
+  "https://www.sedaily.com/article/20109903"
  ],
  "seen_titles": [
-  "SK하이닉스이어SK스퀘어도사상최대주주환원...4.3조이상푼다",
-  "우리투자증권,구조화금융잇단수임...대형IB딜순항",
-  "코스피장중상승전환5750선위로,'인텔충격'에도저가매수세유입",
-  "팬오션,3분기영업이익1974억원…4년만에최대실적",
-  "삼성·SK·LG,엔비디아AI활용법공개한다…반도체부터로봇까지",
-  "SK에코플랜트,전사'1인1AI'체계가동…현장업무자동화추진",
-  "SK스퀘어,하이닉스배당수입6.2조중최소4.3조주주들한테쏜다",
-  "SK에코,'1인1AI에이전트'체계가동…현장업무우선적용",
   "AI전력관련주들썩…효성중공업195만원·한화시스템6%대상승,삼성...",
   "팬오션,3분기영업이익1974억원…전년比57.7%↑",
   "SK,힉스·오재현46점합작하며삼성개막10연승저지",
@@ -6001,7 +5993,15 @@
   "[인사이드스토리]하이닉스발6.2조잭팟…SK스퀘어통큰노림수",
   "[비바100]쇼핑부터OTT·AI까지⋯이통3사,고객일상전반으로구독...",
   "엔비디아2.27%,마이크론4.3%↑...반도체주,일제히반등",
-  "美중간선거불확실성완화기대…코스피반등탐색"
+  "美중간선거불확실성완화기대…코스피반등탐색",
+  "로이터“美,SK하이닉스中공장증설장비반입보류”",
+  "[뉴욕증시]애플약세·반도체주반등,혼조마감···'속슬'7%↑·오라...",
+  "삼성전자·SK하이닉스나란히1·2위…반도체브랜드평판27.53%급감",
+  "로이터\"미국,SK하이닉스중국공장장비수출보류…뉴욕공장투자도...",
+  "“미국상무부,SK하이닉스중국공장장비반입승인보류⋯뉴욕투자...",
+  "\"美,SK하이닉스中공장증설장비승인보류\"",
+  "12조원상속세·2.5조원걸린이혼…기업구조바꾸는'사랑과전쟁'[스...",
+  "뉴욕증시,중간선거경계하며혼조...엔비디아,시총1위탈환[데일리..."
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,17 @@
   [
    "2026-11-04T06:51:11.616657+09:00",
    "중간선거 반등 완화 코스피 불확실성 기대 탐색"
+  ],
+  [
+   "2026-11-04T07:01:33.272714+09:00",
+   "기업 사랑과 걸린 전쟁 이혼 상속세 12조원 5조원 바꾸는 구조"
+  ],
+  [
+   "2026-11-04T07:01:33.272714+09:00",
+   "증시 경계하며 시총 뉴욕 데일리 엔비디아 탈환 혼조 중간선거 1위"
   ]
  ],
- "last_run": "2026-11-04T06:51:25.429234+09:00",
+ "last_run": "2026-11-04T07:01:41.867282+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
