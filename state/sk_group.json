@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=242600",
-  "http://www.inews24.com/view/2021332",
-  "https://www.newsis.com/view/NISX20261102_0003850410",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901564",
-  "https://monthly.chosun.com/news/articleView.html?idxno=71863",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104012",
-  "https://www.mt.co.kr/world/2026/11/02/2026110209215191409",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4442433",
   "https://www.viva100.com/article/20261102500255",
   "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110200762.html",
@@ -2999,16 +2992,16 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501032",
   "https://www.fnnews.com/news/202611031952056940",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030153&t=NN",
-  "https://www.khan.co.kr/article/202611032052025"
+  "https://www.khan.co.kr/article/202611032052025",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261103210437MTH",
+  "https://www.ziksir.com/news/articleView.html?idxno=151938",
+  "https://basketkorea.com/news/newsview.php?ncode=1065614312703865",
+  "https://www.wikitree.co.kr/articles/1171427",
+  "https://www.newstnt.com/news/articleView.html?idxno=726560",
+  "https://www.ibabynews.com/news/articleView.html?idxno=156506",
+  "https://www.mk.co.kr/article/12191509"
  ],
  "seen_titles": [
-  "'인텔쇼크'삼성전자3%하락…SK하이닉스1%↓[핫종목]",
-  "코스피,美반도체주급락여파에약세…삼전2%↓",
-  "미AI우려덮친코스피1.62%하락출발...반도체주약세",
-  "SKT에이어KT도'3G서비스'신규가입중단",
-  "[특징주]키움증권,3%하락⋯실적부진에2거래일연속급락",
-  "KT도3G종료수순…신규가입안받는다",
-  "[ETF열전]수익률은하이닉스,거래는업종형…ETF톱10에3조몰렸다",
   "[한일경제연대]삼성·SK성장하면일본도웃는다(니혼대권혁욱교수)",
   "롯데,롯데렌탈매각부터기초화학재편까지…비핵심사업정리이어간...",
   "AI투자공포속블랙스톤\"앤트로픽상장후정크등급전망\"왜",
@@ -6001,7 +5994,14 @@
   "ETF3위싸움'초접전'...KB·한투순자산격차9278억원으로좁혀져",
   "\"한국은혁신선도국\"OECD가입30주년만찬개최",
   "‘찍히면오른다’…저PBR주급등",
-  "30대그룹‘현장중심’CEO로재편"
+  "30대그룹‘현장중심’CEO로재편",
+  "'AI거품론'에발목잡힌증시…코스피3%대급락",
+  "한·튀르키예,원전·방산·에너지협력확대…미래산업동맹강화",
+  "[BK리뷰]2Q압도한KCC,소노격파…7연패후2연승",
+  "‘시사기획창’주식주문버튼누르기도전에…돈벌어간초고속매매...",
+  "[공시]두산로보틱스·대우건설등7개종목'공매도가금지',컨텍'투...",
+  "[AI트렌드]코렐,아이그림으로접시만드는‘키즈AI플레이트’캠...",
+  "성공사례6건?…카카오의‘위험한일반화’"
  ],
  "recent_sigs": [
   [
@@ -6975,9 +6975,29 @@
   [
    "2026-11-03T21:01:27.646171+09:00",
    "재편 CEO로 중심 30대 현장"
+  ],
+  [
+   "2026-11-03T21:11:08.981862+09:00",
+   "소노 2연승 KCC 압도한 7연패 격파 2Q"
+  ],
+  [
+   "2026-11-03T21:11:08.981862+09:00",
+   "벌어간 매매 초고속 시사기획 누르기도 버튼 주문 전에 주식"
+  ],
+  [
+   "2026-11-03T21:11:08.981862+09:00",
+   "대우건설 종목 컨텍 금지 공매도가 두산로보틱스 7개"
+  ],
+  [
+   "2026-11-03T21:11:08.981862+09:00",
+   "만드는 키즈 AI 아이 코렐 접시 플레이트 그림으로"
+  ],
+  [
+   "2026-11-03T21:11:08.981862+09:00",
+   "일반화 성공 사례 6건 카카오의 위험한"
   ]
  ],
- "last_run": "2026-11-03T21:01:36.271512+09:00",
+ "last_run": "2026-11-03T21:11:26.840556+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
