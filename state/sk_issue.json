@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12325099?influxDiv=NAVER",
-  "https://www.dt.co.kr/article/12091662",
-  "https://mhnse.com/news/articleView.html?idxno=1630236",
-  "https://biz.chosun.com/topics/law_firm/2026/10/27/3XVJSH6ZV5DYDDK2KUTVSY7F6U/",
-  "https://www.dt.co.kr/article/12091665",
-  "https://www.medigatenews.com/news/3005671439",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696584",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696597",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557103",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026110310170340513",
   "https://www.seoulfn.com/news/articleView.html?idxno=641743",
   "https://view.asiae.co.kr/article/2026110310171047432",
-  "https://www.edaily.co.kr/News/Read?newsId=03440726645642112&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03440726645642112&mediaCodeNo=257",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71869",
+  "https://biz.heraldcorp.com/article/10923774",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307909",
+  "https://www.news2day.co.kr/article/20261103500071",
+  "https://www.yna.co.kr/view/AKR20261103071700017?input=1195m",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=767430"
  ],
  "seen_titles": [
-  "'박정훈옳았고,윤석열틀렸다'3년3개월만에마침표",
-  "[속보]윤석열“계엄이장기독재목적?힘든대통령,미쳤다고장기로...",
-  "신성,'가요무대'서존재감발휘…깊은감성으로가을밤물들였다",
-  "尹“미쳤다고장기로앉아서이짓을하겠나”…‘장기독재’의도재...",
-  "여야,‘소아응급의료센터압수수색’한목소리질타…비만치료주사제...",
-  "압수수색사과거부에소아응급의학회분노…\"진료방해없었다는주장...",
   "선관위특검,올림픽공원CCTV등압수수색…내일은현장검증",
   "‘성능최고’라더니게임실행하면성능뚝…공정위,삼성전자제재",
   "“부정선거!”…올림픽공원수백명집결",
@@ -6001,10 +5995,16 @@
   "\"공시위반솜방망이처벌끝\"…공정위,3회반복시과태료50%더물린...",
   "공시의무위반과태료,한번만반복해도가중된다···중복감경규정...",
   "“원금·확정수익보장”…126명에125억가로챈부동산유튜버구속",
-  "응급실압수수색논란에…정은경·경찰청장대행오늘만난다"
+  "응급실압수수색논란에…정은경·경찰청장대행오늘만난다",
+  "건조한가을철뻑뻑해진눈관리하는법",
+  "‘호반vs조원태’불붙은한진칼경영권분쟁…내년주총이분수령[...",
+  "호반,한진칼경영권장악야심···산은10.58%향방에달렸다",
+  "[류준형의시선전환]치킨값만정조준…다른먹거리는문제없나",
+  "토스,네이버공정위제소…포스연동놓고다시충돌",
+  "조원태회장,한진칼지분21%로확대...호반그룹매집에맞불"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-03T10:20:53.757153+09:00",
+ "last_run": "2026-11-03T10:31:07.816631+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
