@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/incheon/6335893",
-  "https://www.medigatenews.com/news/2832464008",
-  "https://www.gokorea.kr/news/articleView.html?idxno=882890",
-  "http://www.bizwnews.com/news/articleView.html?idxno=150294",
-  "http://www.bizwnews.com/news/articleView.html?idxno=150291",
-  "https://www.raonnews.com/news/article.html?no=62304",
   "https://www.yna.co.kr/view/AKR20261029063200002?input=1195m",
   "https://view.asiae.co.kr/article/2026102909402124118",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574041969485",
@@ -2999,15 +2993,15 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247178",
   "https://www.kgnews.co.kr/news/article.html?no=918138",
   "https://www.hankookilbo.com/news/article/A2026110413450000312?did=NA",
-  "https://www.medipana.com/news/articleView.html?idxno=420915"
+  "https://www.medipana.com/news/articleView.html?idxno=420915",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=396997",
+  "https://www.thepowernews.co.kr/view.php?ud=202611041434068509de3f0aa1be_7",
+  "https://www.busan.com/view/busan/view.php?code=2026110414130678211",
+  "https://www.yna.co.kr/view/AKR20261104109200052?input=1195m",
+  "https://www.kukinews.com/article/view/kuk202611040140",
+  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167115"
  ],
  "seen_titles": [
-  "'1140억피해'인천쿠팡물류센터화재수사종결…범죄혐의점없어",
-  "소아응급실'도미노'붕괴우려한이주영…\"아이들갈곳이없습니다\"",
-  "가습기고르는법,초음파식과가열식차이는",
-  "[캐시워크종합]10월29일목요일오전10시현재출제되고있는모든...",
-  "KB페이(KBPay)'리브메이트',10월29일목요일자'오늘의퀴즈'정답...",
-  "[칼럼]사회공헌실적2조원넘긴은행권…’소셜워싱'지적받은까닭",
   "주요대기업채무보증2천억원…신규지정등에300%넘게늘어",
   "상호출자제한기업집단,채무보증금액2000억원…전년대비325%증가",
   "계룡건설·이수건설등6개사,LH입찰담합조사선상…공정위현장조사",
@@ -6001,7 +5995,13 @@
   "'배터리제조사속인'벤츠,142명400만원씩배상결정",
   "특검\"중앙선관위지시로투표록사후위·변조\"의혹포착",
   "선관위특검\"중앙선관위원회지시로투표록사후위·변조\"",
-  "응급실압수수색지침마련에도…소아응급醫\"강제수사제한부터\""
+  "응급실압수수색지침마련에도…소아응급醫\"강제수사제한부터\"",
+  "신생아가습기켜도건조한겨울철…'습도센서위치'확인해야",
+  "\"CATL인줄알았는데파라시스\"…벤츠전기차차주142명에400만원씩배...",
+  "부산경찰,BTS공연객실7배올려판숙박업소관리자송치",
+  "경남선거법수사막바지…'사법리스크'단체장윤곽드러나나",
+  "전북서9억원넘는전기훔쳐쓴‘전기도둑’일당경찰에덜미",
+  "경찰,정은경장관과응급실수사가이드라인논의"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T14:31:07.766023+09:00",
+ "last_run": "2026-11-04T14:41:02.170352+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
