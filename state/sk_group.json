@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/busan-gyeongnam/6340918",
-  "https://www.ajunews.com/view/20261103093711300",
-  "https://www.sidae.com/article/2026110309381733189",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=314493",
-  "https://www.welfarenews.net/news/articleView.html?idxno=212594",
   "https://www.yna.co.kr/view/AKR20261103052200002?input=1195m",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611030901010440312",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730154",
@@ -2999,14 +2994,14 @@
   "https://www.jemin.com/news/articleView.html?idxno=846192",
   "https://www.ggilbo.com/news/articleView.html?idxno=1191209",
   "https://biz.heraldcorp.com/article/10925754",
-  "http://www.econotelling.com/news/articleView.html?idxno=21571"
+  "http://www.econotelling.com/news/articleView.html?idxno=21571",
+  "https://www.mt.co.kr/industry/2026/11/04/2026110419410398317",
+  "https://www.news1.kr/industry/company/6343424",
+  "https://www.hankyung.com/article/2026110465831",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261105.22011001502",
+  "http://www.kjdaily.com/article.php?aid=1793788822691297007"
  ],
  "seen_titles": [
-  "아리바이오,AR1001글로벌3상발표앞두고日특허등록",
-  "[52주]최고가4개,최저가59개...코스피3%대하락",
-  "AI투자부담에반도체株'털썩'⋯코스피5600선밀려",
-  "SK오션플랜트,해상풍력하부구조물핵심부재용접자동화",
-  "[특징주]국제유가7%급락에정유주타격…S-Oil13%·SK이노9%'하락'",
   "30대그룹CEO,'관리·기획형'줄고'기술·현장'전문가늘었다",
   "코스피3%넘게빠져…5600선기록",
   "웰페어뉴스브리핑'(2026.10.30)",
@@ -6001,25 +5996,14 @@
   "코스피,400포인트넘는롤러코스터장세…개인·기관매수세에상승마...",
   "[주식마감]'알츠하이머특허확보'아리바이오홀딩스상한가…깨끗한...",
   "한진칼,비싸지는가격에유통물량도부족…장내매집경쟁역부족[투자...",
-  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(88)SK의'수출사업보..."
+  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(88)SK의'수출사업보...",
+  "에르도안,정의선·노태문·류재철잇달아만나…튀르키예협력논의",
+  "튀르키예대통령,서울서韓기업인연쇄회동…정의선·노태문만나",
+  "SK하이닉스美AI투자법인…최태원,이사회의장맡는다",
+  "30대그룹美계열사10년새232%급증",
+  "‘삐끗’하면‘바닥’…무조건이기고버틴다"
  ],
  "recent_sigs": [
-  [
-   "2026-11-04T13:51:03.387119+09:00",
-   "생태계 휴머노이드 한국형 구축"
-  ],
-  [
-   "2026-11-04T13:51:03.387119+09:00",
-   "코스피 하루만에 꼬인 중간선거 변동성지수 수급 대기에"
-  ],
-  [
-   "2026-11-04T13:51:03.387119+09:00",
-   "투자 솔리다임 SK하이닉스 뉴욕 증설 공장 제동"
-  ],
-  [
-   "2026-11-04T13:51:03.387119+09:00",
-   "조사 경호실장 비자금 의혹 공소청 비서실장 참고인 노태우"
-  ],
   [
    "2026-11-04T14:01:21.202519+09:00",
    "삼성자산운용 ETF 오늘의 NH 소식 아문디자산운용"
@@ -7031,9 +7015,17 @@
   [
    "2026-11-04T19:41:59.476519+09:00",
    "유산 70년 최종건 수출 최종현 사업보 SK의"
+  ],
+  [
+   "2026-11-04T19:51:35.164741+09:00",
+   "30대그룹 급증 10년새 계열사"
+  ],
+  [
+   "2026-11-04T19:51:35.164741+09:00",
+   "삐끗 버틴다 무조건 바닥 하면 이기고"
   ]
  ],
- "last_run": "2026-11-04T19:42:11.257355+09:00",
+ "last_run": "2026-11-04T19:51:43.841377+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
