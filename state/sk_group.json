@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspost.kr/news/articleView.html?idxno=226990",
-  "https://www.mt.co.kr/stock/2026/11/03/2026110309575053665",
-  "https://www.newsis.com/view/NISX20261103_0003852287",
-  "https://news.bizwatch.co.kr/article/market/2026/11/03/0005",
   "https://www.yna.co.kr/view/AKR20261103060200008?input=1195m",
   "https://www.hidomin.com/news/articleView.html?idxno=727706",
   "https://www.news1.kr/finance/general-stock/6340930",
@@ -2999,13 +2995,13 @@
   "https://www.ngetnews.com/news/articleView.html?idxno=555589",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2311517",
   "https://www.topstarnews.net/news/articleView.html?idxno=16268492",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1336012"
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1336012",
+  "https://www.edaily.co.kr/News/Read?newsId=06205766645642440&mediaCodeNo=257",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=361931",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280499",
+  "https://www.hankyung.com/article/202611046616i"
  ],
  "seen_titles": [
-  "코스피,美기술주약세에3.30%급락…외국인·기관동반매도",
-  "부산1000대기업매출첫50조돌파…HMM전국60위",
-  "영원무역,한경협과한-방글라데시경제협력간담회공동개최",
-  "DB자산운용,삼성전자·전기·SDI투자ETF상장",
   "국제유가급락에정유주울상…에쓰오일11%하락",
   "국제유가7%대급락에정유주'휘청'…에쓰오일12%가까이하락",
   "AI수익성우려에또흔들리는코스피…3%대급락",
@@ -6001,7 +5997,11 @@
   "SK바이오팜,美뇌전증신약도입한발더…연내임상결과나온다",
   "유승교위드텍대표,차기대전상의회장출마의사밝혀",
   "[공매도브리핑]11월4일2.28조…삼전·하이닉스7525억집중",
-  "[썰물밀물]AI예산도선순환으로가야한다"
+  "[썰물밀물]AI예산도선순환으로가야한다",
+  "[미리보는이데일리신문]트럼프완패…안보·통상파란예고",
+  "SK㈜,SK에코플랜트완전자회사화추진…공개매수로지분100%확보",
+  "SKhynixInvestmentinNewYorkMayFaceUncertainty",
+  "\"데이터센터붐중단되나\"…블루쓰나미속반도체주급락피한이유는?"
  ],
  "recent_sigs": [
   [
@@ -6923,9 +6923,17 @@
   [
    "2026-11-04T20:31:22.465578+09:00",
    "AI 한다 선순환으로 예산도 가야"
+  ],
+  [
+   "2026-11-04T20:41:06.652133+09:00",
+   "Face York in Uncertainty May hynix Investment New"
+  ],
+  [
+   "2026-11-04T20:41:06.652133+09:00",
+   "이유는 급락피한 중단되나 데이터센터붐 반도체주 블루쓰나미속"
   ]
  ],
- "last_run": "2026-11-04T20:31:30.750874+09:00",
+ "last_run": "2026-11-04T20:41:15.647892+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
