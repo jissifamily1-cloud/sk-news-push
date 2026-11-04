@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=622492",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100503",
   "https://www.newsis.com/view/NISX20261103_0003852238",
   "https://magazine.hankyung.com/business/article/202611032177b",
   "https://www.newspost.kr/news/articleView.html?idxno=226990",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20261104517843?OutUrl=naver",
   "https://www.kpinews.kr/newsView/1065606929690395",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=280497",
-  "http://www.kjdaily.com/article.php?aid=1793789600691318002"
+  "http://www.kjdaily.com/article.php?aid=1793789600691318002",
+  "https://www.ngetnews.com/news/articleView.html?idxno=555589",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2311517"
  ],
  "seen_titles": [
-  "[증권가로수]한투운용",
-  "[Gov&Now]AI가깨우는사물인터넷…170개기업,차세대AIoT기술총집...",
   "코스피미국AI·반도체주약세에장중3%대하락5660선,코스닥도2%대...",
   "삼전닉스동반급락...삼성전자4%대SK하이닉스5%대하락",
   "코스피,美기술주약세에3.30%급락…외국인·기관동반매도",
@@ -6001,7 +5999,9 @@
   "상승→하락→반등…美중간선거에요동친코스피",
   "'한국인구금'조지아도민주당으로…삼성·현대차·LG美거점'파란물...",
   "KoreanConglomeratesShiftBasesfromChinatoU.S.",
-  "호남반도체속도전외치는데…지원행정은‘헛바퀴’"
+  "호남반도체속도전외치는데…지원행정은‘헛바퀴’",
+  "SK바이오팜,美뇌전증신약도입한발더…연내임상결과나온다",
+  "유승교위드텍대표,차기대전상의회장출마의사밝혀"
  ],
  "recent_sigs": [
   [
@@ -6991,9 +6991,17 @@
   [
    "2026-11-04T20:11:47.271068+09:00",
    "외치는데 행정은 호남 헛바퀴 속도전 반도체 지원"
+  ],
+  [
+   "2026-11-04T20:19:01.072878+09:00",
+   "SK바이오팜 한발 도입 신약 연내 나온다 임상 결과 뇌전증"
+  ],
+  [
+   "2026-11-04T20:19:01.072878+09:00",
+   "의사 유승교 대표 대전상의 차기 위드텍 출마 회장"
   ]
  ],
- "last_run": "2026-11-04T20:11:56.367783+09:00",
+ "last_run": "2026-11-04T20:19:11.422655+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
