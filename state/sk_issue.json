@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://woman.chosun.com/news/articleView.html?idxno=126751",
-  "https://www.raonnews.com/news/article.html?no=62298",
-  "https://idsn.co.kr/news/view/1065576826969341",
-  "https://www.yna.co.kr/view/AKR20261029021100011?input=1195m",
-  "http://www.breaknews.com/1246649",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279766&CMPT_CD=P0010",
-  "https://www.radiokorea.com/news/article.php?uid=508054",
   "http://www.joseilbo.com/news/news_read.php?uid=578401&class=33",
   "http://www.osen.co.kr/article/G1112900129",
   "https://biz.heraldcorp.com/article/10918365",
@@ -2999,16 +2992,16 @@
   "https://www.segye.com/newsView/20261104510931?OutUrl=naver",
   "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167113",
   "https://news.tf.co.kr/read/national/2384736.htm",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=747664"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=747664",
+  "https://www.businessplus.kr/news/articleView.html?idxno=119264",
+  "https://www.news1.kr/industry/distribution/6342651",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=100578",
+  "https://www.kado.net/news/articleView.html?idxno=2082593",
+  "https://www.mt.co.kr/society/2026/11/04/2026110411494133088",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261104133648TF2",
+  "http://www.newstomato.com/ReadNews.aspx?no=1319209&inflow=N"
  ],
  "seen_titles": [
-  "겨울피부를위한스킨배리어프로젝트③",
-  "유증·인수참여사임직원미공개정보로주식매매…중수청고발·통보",
-  "[변호사칼럼]텔레그램‘던지기’연루됐다면...마약류관리법위반...",
-  "[전국주요신문사설](29일조간)",
-  "국민의힘장동혁·정점식,“이재명사법권침해·안보폭거에총력맞...",
-  "[손병관의뉴스프레소]임기못채운윤석열에이대통령빗댄유시민",
-  "인랜드엠파이어총격범,멕시코에서어머니와함께체포돼",
   "\"착한아들이그럴줄은\"여고생살해범장윤기父,증거없애고도\"몰랐...",
   "\"故박정희배후암시NO\"..'암살자(들)',340만손익분기점돌파'겹경사...",
   "롯데하이마트“기습한파에난방가전판매급증”",
@@ -6001,7 +5994,14 @@
   "특검,선관위‘투표록사후위·변조지시’정황포착…위원장실압...",
   "\"응급실수사지침,강제수사제한기준명확히해야\"",
   "대출미끼로휴대전화1226대개통…23억원대해외유통일당검거",
-  "[이슈]민주당신천지내홍폭발…친청계최민희\"김민석,신천지발언..."
+  "[이슈]민주당신천지내홍폭발…친청계최민희\"김민석,신천지발언...",
+  "코오롱그룹,수소소재부터저장시스템까지…WHE2026참가",
+  "쿠팡덮친'규제형적자'리스크…정부과징금에올해적자2조넘을듯",
+  "대기업'기술탈취'국감논란이후…공정위,LG전자창원공장첫현장...",
+  "중앙선관위투표용지부족한투표소투표록사후수정정황포착",
+  "선관위특검,'투표록위·변조의혹'중앙·서울시선관위압수수색",
+  "특검\"선관위지시로투표록위변조\"…압수수색",
+  "특검“선관위지시로투표록위·변조”…중앙선관위압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T13:31:08.157939+09:00",
+ "last_run": "2026-11-04T13:40:53.806373+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
