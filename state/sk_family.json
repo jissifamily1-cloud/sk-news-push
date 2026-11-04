@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20101284",
-  "https://www.m-i.kr/news/articleView.html?idxno=2005533",
   "https://www.hankyung.com/article/2026101401226",
   "https://www.ajunews.com/view/20261014090049266",
   "https://www.bzeronews.com/news/articleView.html?idxno=823824",
@@ -2999,11 +2997,11 @@
   "https://www.jejusori.net/news/articleView.html?idxno=508029",
   "https://www.topstarnews.net/news/articleView.html?idxno=16267908",
   "https://www.munhwa.com/article/11628677",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717608"
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717608",
+  "https://www.ajunews.com/view/20261104112123693",
+  "https://www.yna.co.kr/view/AKR20261104084400009?input=1195m"
  ],
  "seen_titles": [
-  "[기업이슈]반도체주폭락에코스피'검은화요일'",
-  "노소영,9440억판결에맞상고안한이유는?…최태원은재상고",
   "노소영,재산분할맞상고포기…대법,최태원주장만심리한다",
   "노소영,재산분할맞상고포기…최태원상고만대법심리",
   "신사업,'에너지,로봇,AI'집중…미래먹거리위해직접뛰는총수들",
@@ -6001,7 +5999,9 @@
   "국립합창단,11월21일제주문예회관초청공연",
   "최종건\"미국중간선거민주당압승해도트럼프외교안보안변해…한국...",
   "AI시대,예술의향방은…서울시립미술관심포지엄",
-  "최태원·김희영공개행보확대···최종건장손도적둔선혜원'주목..."
+  "최태원·김희영공개행보확대···최종건장손도적둔선혜원'주목...",
+  "[美중간선거]前외교부차관\"민주당승리해도크게변할것없어\"",
+  "'친한파'오소프상원의원재선성공…차세대'잠룡'본격가세"
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-11-04T11:30:25.861244+09:00",
    "주목 공개 선혜원 행보 확대 장손도"
+  ],
+  [
+   "2026-11-04T11:50:17.025034+09:00",
+   "본격 가세 차세대 잠룡 성공 오소프 상원의원 재선 친한파"
   ]
  ],
- "last_run": "2026-11-04T11:40:27.996909+09:00",
+ "last_run": "2026-11-04T11:50:29.481742+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
