@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20261028520018?OutUrl=naver",
-  "https://www.munhwa.com/article/11627054",
-  "https://news.ifm.kr/news/articleView.html?idxno=482882",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4026682",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3015094",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3015058",
-  "https://www.news1.kr/bio/welfare-medical/6335499",
-  "https://www.dailymedi.com/news/news_view.php?wr_id=942001",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=237460",
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044082",
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044083",
@@ -2999,17 +2991,17 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/11/04/2026110490146.html",
   "https://www.kyeonggi.com/article/20261104580132",
   "https://www.lawleader.co.kr/news/articleView.html?idxno=20325",
-  "https://www.munhwa.com/article/11628763"
+  "https://www.munhwa.com/article/11628763",
+  "https://www.lawissue.co.kr/view.php?ud=202611041229225667204ead0791_12",
+  "https://www.newspim.com/news/view/20261104000308",
+  "https://www.wikitree.co.kr/articles/1171735",
+  "https://www.newsis.com/view/NISX20261104_0003854418",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703615",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079644",
+  "https://www.munhwa.com/article/11628764",
+  "https://www.kmib.co.kr/article/20261104500407"
  ],
  "seen_titles": [
-  "공정위,라면값담합정조준…농심·삼양등4곳현장조사",
-  "정치자금법위반혐의홍준표측근2명구속영장기각",
-  "[삼성전자GOS논란④]벤치마크는'최고성능'·실제게임은'속도제한...",
-  "[데스크칼럼]라면냄비뚜껑누른다고물가가잡히나…공정위,10년...",
-  "광주한방병원허위입원보험사기114명송치…6억원편취",
-  "[기자수첩]필수의료살린다는정부,그위에경찰?",
-  "[인터뷰]이주영\"응급실을사건현장취급…의료진유죄추정멈춰야\"",
-  "이주영의원\"소아응급실죽으면모두가공범\"",
   "얼마나많은산재가감춰지게될까",
   "'허위입원'으로보험금6억원편취…한방병원관계자·환자114명송치",
   "[히구라]외국인탓한다고소아응급의료가살아나나",
@@ -6001,7 +5993,15 @@
   "특검\"중앙선관위지시로투표록사후위·변조\"…선관위압수수색",
   "“무번호용지덮으려투표록조작”…특검,중앙선관위압수수색",
   "카메라등이용촬영혐의로현행범체포,디지털포렌식수사절차와유의...",
-  "‘일련번호없는투표지’받은40곳서사후위·변조"
+  "‘일련번호없는투표지’받은40곳서사후위·변조",
+  "쿠쿠,겨울철앞두고계절가전·주방가전행사품목확대",
+  "쿠쿠,'코리아그랜드페스티벌'참여…\"최대73%할인\"",
+  "“눈물로넘어갈문제아냐.사퇴하고정계은퇴해야”김민석저격나...",
+  "특검,중앙선관위압수수색…\"'투표록사후기재'지시정황포착\"",
+  "특검,‘투표록사후기재’혐의선관위압수수색",
+  "특검,중앙·서울선관위압수수색…투표록위·변조정황포착",
+  "‘복마전’선관위…무번호투표용지쓰고기록조작지시",
+  "특검“투표지부족투표소,선관위지시로투표록사후위변조…최소..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T12:20:54.905559+09:00",
+ "last_run": "2026-11-04T12:31:03.187382+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
