@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25473829",
-  "https://www.hankyung.com/article/2026102814701",
-  "https://www.joongang.co.kr/article/25473820",
-  "https://www.ytn.co.kr/_ln/0103_202610282358057562",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698092",
-  "http://weekly.chosun.com/news/articleView.html?idxno=56643",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116494",
-  "https://www.dt.co.kr/article/12091947",
-  "https://www.wikitree.co.kr/articles/1169985",
   "https://www.ytn.co.kr/_ln/0101_202610282241552504",
   "https://www.donga.com/news/Society/article/all/20261028/134928946/1",
   "https://www.imaeil.com/page/view/2026102821583906482",
@@ -2999,18 +2990,18 @@
   "https://view.asiae.co.kr/article/2026110409213726025",
   "https://www.imaeil.com/page/view/2026110411515321133",
   "https://www.mt.co.kr/society/2026/11/04/2026110411483026663",
-  "https://www.joongang.co.kr/article/25475638"
+  "https://www.joongang.co.kr/article/25475638",
+  "https://www.news1.kr/society/court-prosecution/6342676",
+  "https://www.fnnews.com/news/202611041203339982",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3015516",
+  "https://www.chosun.com/national/court_law/2026/11/04/XBTHQ7WGWZEUXDWVYNLBNFYLXY/",
+  "https://www.donga.com/news/Politics/article/all/20261104/134963513/1",
+  "https://www.pressian.com/pages/articles/2026110412003933560",
+  "https://www.yna.co.kr/view/AKR20261104088451004?input=1195m",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261104120040jeM",
+  "https://dealsite.co.kr/articles/171933"
  ],
  "seen_titles": [
-  "“촬영못하면철수”돌발항의…고성오간‘올공247만표’검증",
-  "[사설]응급실압수수색에의료계반발…필수의료위축은안돼",
-  "“손떨려진료못해”…아주대소아응급전문의7명집단사의",
-  "특검,147일만에투표지현장검증...12시간째진행",
-  "소아응급전문의7명‘집단사의’…아주대병원에서무슨일이?",
-  "증거물버린장윤기父\"착한아들이그런짓을하다니\"…법정서해명",
-  "아주대병원소아응급실압수수색논란…응급의료보호법제화검토",
-  "“수사무서워진료하겠나”…野,소아응급의사의에경찰감찰요구",
-  "\"착한아들이…\"'여고생살해범'장윤기의아버지가취재진앞에서한...",
   "[포커스]'올공투표지'현장검증...초유의'대법원장국조'",
   "장윤기父경감“그렇게착한아들이그런일을…납득안돼”",
   "\"그렇게착한아들이…납득안돼\"장윤기부친이법정서한말",
@@ -6001,10 +5992,24 @@
   "선관위특검'출범두달'지휘부관여추적아직",
   "선관위특검\"'무번호투표용지'140여곳사용,투표록40여곳위변조의...",
   "[속보]선관위특검,'투표록위·변조의혹'중앙·서울시선관위압수수...",
-  "[속보]특검“투표지부족투표소,선관위지시로투표록사후위변조..."
+  "[속보]특검“투표지부족투표소,선관위지시로투표록사후위변조...",
+  "특검,'선관위지시로투표록위·변조'확인…중앙선관위압수수색",
+  "특검,'투표록위·변조의혹'압수수색...\"용지부족투표록,사후기재...",
+  "소아응급의학회\"응급실강제수사제한기준구체화해야\"",
+  "선관위특검,‘투표록위·변조’혐의중앙·서울시선관위압수수색",
+  "[속보]특검“선관위,용지부족투표소에투표록위변조지시”",
+  "[속보]특검\"용지부족투표소,선관위지시로'투표록위변조'정황\"",
+  "특검\"투표지부족투표소,중앙선관위지시로투표록사후위변조\"",
+  "[속보]특검\"투표지부족투표소,투표록사후위변조\"",
+  "SK에너지대표교체,강동수사장귀환"
  ],
- "recent_sigs": [],
- "last_run": "2026-11-04T12:01:15.733552+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-04T12:10:50.937461+09:00",
+   "교체 대표 SK에너지 강동수 사장 귀환"
+  ]
+ ],
+ "last_run": "2026-11-04T12:10:58.095855+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
