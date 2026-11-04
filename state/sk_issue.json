@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/29/2026102990046.html",
-  "https://www.ytn.co.kr/_ln/0103_202610290833238698",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100166",
-  "https://www.kado.net/news/articleView.html?idxno=2081294",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261642490160103828",
-  "https://www.fnnews.com/news/202610290912420778",
   "https://www.catchnews.kr/news/articleView.html?idxno=129913",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819979&plink=ORI&cooper=NAVER",
   "https://www.asiatime.co.kr/article/20261029500036",
@@ -2999,15 +2993,15 @@
   "https://www.daejonilbo.com/news/articleView.html?idxno=2311428",
   "https://biz.heraldcorp.com/article/10925618",
   "https://news.tf.co.kr/read/life/2384602.htm",
-  "https://www.naeil.com/news/read/607598"
+  "https://www.naeil.com/news/read/607598",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48759",
+  "https://www.huffingtonpost.kr/article/261786",
+  "https://www.newscj.com/news/articleView.html?idxno=3445855",
+  "https://www.sisajournal.com/news/articleView.html?idxno=392816",
+  "https://www.ngonews.kr/news/articleView.html?idxno=242341",
+  "https://www.dailian.co.kr/news/view/1710685/?sc=Naver"
  ],
  "seen_titles": [
-  "[아침에PICK]소아응급교수7명'사의'…응급실압수수색,왜?",
-  "투표지현장검증종료...투표함,별도장소로반출[뉴스UP]",
-  "[기자수첩]라면값들여다보는공정위,조사에도선은있다",
-  "여고생살해범장윤기부친\"착한아들이그런일저질렀다는게납득...",
-  "[더벨][thebelldesk]유가스프레드와담합사이줄타기",
-  "갑작스러운추위에난방가전'불티'…전기히터매출170%급증",
   "\"신일'선풍기형히터'8만5900원\"롯데하이마트,난방가전할인전",
   "[친절한경제]\"또올랐네\"들었다놨다…부활한'저승사자'뜯어본다",
   "DL건설,'컴플라이언스데이'개최…전사준법경영강화",
@@ -6001,7 +5995,13 @@
   "특검,중앙선관위등압수수색…459억원대사전투표발급기특혜의혹",
   "BTS공연때“방없다”예약취소시키고가격7배올린호텔업주의최...",
   "공소청,'노태우비자금의혹'전비서실장·경호실장참고인조사",
-  "저신용자정부지원대출중개일당송치"
+  "저신용자정부지원대출중개일당송치",
+  "쿠팡,3년흑자다까먹었다…'규제형적자'로전락한1.8조위기",
+  "민주당김민석,'신천지3자비밀연합'비공개사과로끝낼수있을까:...",
+  "특검,'투표록위·변조'포착…중앙선관위압수수색",
+  "특검,중앙선관위압수수색…\"투표록사후위·변조지시정황포착\"",
+  "특검팀,선관위투표록위·변조혐의포착···입찰비리정황도포착",
+  "특검팀\"투표지부족투표소,중앙선관위지시로투표록사후위변조\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T13:50:54.802175+09:00",
+ "last_run": "2026-11-04T14:01:13.458577+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
