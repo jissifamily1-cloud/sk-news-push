@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574041969485",
-  "https://n.news.naver.com/mnews/article/214/0001532148",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107562",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5227781",
-  "https://www.viva100.com/article/20261029500352",
-  "https://www.bntnews.co.kr/article/view/bnt202610290045",
   "https://www.dailian.co.kr/news/view/1707854/?sc=Naver",
   "https://sateconomy.co.kr/news/view/1065574561035676",
   "https://www.ajunews.com/view/20261029083618197",
@@ -2999,15 +2993,15 @@
   "https://www.kukinews.com/article/view/kuk202611040140",
   "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167115",
   "https://www.lecturernews.com/news/articleView.html?idxno=212282",
-  "https://hbnpress.com/news/view/1065591491189452"
+  "https://hbnpress.com/news/view/1065591491189452",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=361829",
+  "https://www.fnnews.com/news/202611041344218518",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=622896",
+  "https://biz.heraldcorp.com/article/10925803",
+  "https://www.edaily.co.kr/News/Read?newsId=04687126645642440&mediaCodeNo=257",
+  "https://www.lawissue.co.kr/view.php?ud=202611041448299320b3279dfb36_12"
  ],
  "seen_titles": [
-  "계룡건설·이수건설등6개사,LH입찰담합조사선상…공정위현장조사",
-  "[시선집중]의협“아주대병원환아사망,원인분석없이살인죄다루...",
-  "146일막힌'올공'...투표지반출로새국면",
-  "'인천쿠팡화재'원인도,책임자도못찾았다…입건자없이종결",
-  "추위에난방가전판매늘었다…롯데하이마트“히터40%·전기요70%↑”",
-  "[단독]캐시워크돈버는퀴즈정답10월29일",
   "대기업계열사채무보증1년새4.3배…2000억원",
   "공정위,농심·삼양식품·오뚜기·팔도대상…라면업계가격담합의혹...",
   "대기업계열사채무보증2000억원…1년새325%급증",
@@ -6001,7 +5995,13 @@
   "전북서9억원넘는전기훔쳐쓴‘전기도둑’일당경찰에덜미",
   "경찰,정은경장관과응급실수사가이드라인논의",
   "[청년정책실전매뉴얼]\"취업하려면경력이필요하다는데,사회초년생은...",
-  "특검팀,용지부족최소40여투표소중앙선관위지시공문서'투표록'..."
+  "특검팀,용지부족최소40여투표소중앙선관위지시공문서'투표록'...",
+  "청호나이스,정수기부피71%줄였다…초소형시장공략본격화",
+  "'3년치영업이익증발'쿠팡…연간적자2조원넘나",
+  "응급실압수수색지침마련…사전협의·비진료공간집행원칙",
+  "특검“투표지부족투표소,선관위지시에투표록위·변조”…중앙·...",
+  "수사기간한달남은선관위특검,강제수사'잰걸음'…인력부족'변수...",
+  "선관위특검,‘투표록위변조혐의포착’중앙선관위강제수사착수"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T14:50:57.014692+09:00",
+ "last_run": "2026-11-04T15:01:16.227645+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
