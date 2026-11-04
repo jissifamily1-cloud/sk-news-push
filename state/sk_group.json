@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901684",
-  "https://www.electimes.com/news/articleView.html?idxno=374214",
-  "https://cn.asiatoday.co.kr/view.php?key=20261103000919113",
-  "https://www.viewsnnews.com/article?q=239433",
-  "https://economist.co.kr/article/view/ecn202610310009",
   "https://www.widedaily.com/news/articleView.html?idxno=302652",
   "https://www.hankyung.com/article/202611032075i",
   "https://www.etnews.com/20261103000080",
@@ -2999,14 +2994,14 @@
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1109052",
   "https://www.kukinews.com/article/view/kuk202611040239",
   "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/04/2026110480233.html",
-  "https://www.sedaily.com/article/20110368"
+  "https://www.sedaily.com/article/20110368",
+  "https://sports.khan.co.kr/article/202611041909003?pt=nv",
+  "https://www.edaily.co.kr/News/Read?newsId=05808886645642440&mediaCodeNo=257",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2311533",
+  "https://www.kukinews.com/article/view/kuk202611040242",
+  "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1782951"
  ],
  "seen_titles": [
-  "SK라이프사이언스,처방부터배송잇는뇌전증지원창구개시",
-  "코스피,3%하락하며5700선아래로…코스닥도약세",
-  "메모리값뛰자희비엇갈렸다...삼성·SK'최대실적'vs완제품'수요...",
-  "李,시정연설서호남권반도체클러스터투자명시…첫해국비1.5조·한...",
-  "전력인프라3사,역대급수주잔고업고연말'신기록랠리'시동",
   "SK在美游说支出达三星两倍半导体投资与中国业务监管成主因",
   "코스피,美반도체주급락에5,600대로폭삭",
   "SK하이닉스·SK미래전략위해최태원이지목한'두남자'",
@@ -6001,17 +5996,14 @@
   "\"새로운진보정치길열겠다\"",
   "SK속공경계한가스공사강혁감독“턴오버줄이고골밑막아야”[쿠...",
   "[WHE]\"영하253도극저온장벽깼다\"…하이리움산업,독자액화기·초경...",
-  "GPU가치평가어렵다지만…AI인프라지원에손놓은은행권"
+  "GPU가치평가어렵다지만…AI인프라지원에손놓은은행권",
+  "강혁감독“알루마,볼소유시간줄이고자신있게슛던져줬으면”...",
+  "“AI투자멈추나”美민주당승리에반도체흔들…코스피는반등",
+  "[사설]지자체교정시설유치전…지방소멸시대새풍경",
+  "“힉스,기대보다훨씬잘해준다”…전희철감독이꼽은SK상승세이유...",
+  "올해마지막우승팀은?KEL이터널종목최종결선열린다"
  ],
  "recent_sigs": [
-  [
-   "2026-11-04T13:11:07.077982+09:00",
-   "오파스넷 패소 2심 10억대 SK쉴더스 상대 소송"
-  ],
-  [
-   "2026-11-04T13:11:07.077982+09:00",
-   "전재수 송우현 평가 성과 사업 100일 없는 시정 중단 대안 부풀리기"
-  ],
   [
    "2026-11-04T13:21:01.084347+09:00",
    "매물 데이터센터 IT 플랫폼은 서비스 AI 차익 강세 보안주는"
@@ -7035,9 +7027,21 @@
   [
    "2026-11-04T19:01:56.625614+09:00",
    "GPU 평가 어렵다지만 가치 손놓은 AI 은행권 인프라 지원에"
+  ],
+  [
+   "2026-11-04T19:11:58.443091+09:00",
+   "풍경 교정시설 지자체 유치전 시대 지방소멸"
+  ],
+  [
+   "2026-11-04T19:11:58.443091+09:00",
+   "꼽은 이유 잘해준다 힉스 훨씬 전희철 감독이 기대보다 상승세"
+  ],
+  [
+   "2026-11-04T19:11:58.443091+09:00",
+   "최종 우승팀은 KEL 이터널 올해 마지막 결선 종목 열린다"
   ]
  ],
- "last_run": "2026-11-04T19:02:15.406518+09:00",
+ "last_run": "2026-11-04T19:12:13.245446+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
