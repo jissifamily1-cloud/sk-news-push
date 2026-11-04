@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.welfarenews.net/news/articleView.html?idxno=212612",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200352",
-  "https://www.ccreview.co.kr/news/articleView.html?idxno=361660",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202919",
-  "https://www.etnews.com/20261103000213",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261103131041fxJ",
-  "https://www.econovill.com/news/articleView.html?idxno=755844",
-  "https://www.busan.com/view/busan/view.php?code=2026110313124856646",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215563",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=304097",
-  "https://news.tf.co.kr/read/economy/2384143.htm",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4442761",
   "http://www.kdfnews.com/news/articleView.html?idxno=190347",
   "https://www.etoday.co.kr/news/view/2643492",
@@ -2999,20 +2988,20 @@
   "https://www.seoul.co.kr/news/economy/securities/2026/11/05/20261105500009?wlog_tag3=naver",
   "https://biz.chosun.com/stock/stock_general/2026/11/05/RIWRZH67CZBMDJT2V6FSQMLCOY/",
   "https://en.yna.co.kr/view/AEN20261105000800320?input=2106m",
-  "https://www.sedaily.com/article/20110171"
+  "https://www.sedaily.com/article/20110171",
+  "https://www.etoday.co.kr/news/view/2642623",
+  "https://www.mk.co.kr/article/12197782",
+  "https://www.etoday.co.kr/news/view/2644303",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501383",
+  "https://www.newsis.com/view/NISX20261105_0003855457",
+  "https://www.edaily.co.kr/News/Read?newsId=03047126645642768&mediaCodeNo=257",
+  "https://www.pressian.com/pages/articles/2026110507375917572",
+  "https://www.mediapen.com/news/view/1135284",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=305124",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260696",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831261&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "‘2.5조재산분할’권혁빈‘율촌’추가선임",
-  "정재헌SKT대표“AI로생산성·경쟁력제고”…사내에이전트우수작...",
-  "실로암시각장애인복지관,SK이노베이션과함께점자도서관새단장",
-  "美중간선거후S&P50019전전승…올해도통할까",
-  "충북과기원,AI에이전트업무활용논의포럼",
-  "[더밸류브리핑]오늘의ETF소식...한국투자신탁운용·한화자산운용·키...",
-  "엘앤에프,LG엔솔에1조350억원규모LFP양극재공급",
-  "[경제읽기]코스피,AI수익성우려에하락…美중간선거영향은",
-  "반도체투자확대에용인아파트공급잇따라…올해1777가구분양",
-  "LG엔솔,분기매출역대최대…올해매출성장목표2배로상향",
-  "위버스브레인,AI에이전트플랫폼'에이전트맥스'공개···솔루션사...",
   "SK텔레콤,사내AI에이전트경연대회'AXSpark'파이널개최",
   "엘앤에프,LG엔솔에LFP양극재공급확정…1조원규모",
   "韓배터리3사,ESS로돌파구마련…美시장보호의존은숙제",
@@ -6001,7 +5990,18 @@
   "“중간선거끝나면오른다며”반도체쓸어담았는데‘폭락’…개미들...",
   "유안타證“SK텔레콤,AIDC성장에실적호조…목표가11만8000원유지”",
   "TopheadlinesinmajorS.Koreannewspapers",
-  "“전기차충전,아파트위주로병목발생...지역별인프라구축필요”"
+  "“전기차충전,아파트위주로병목발생...지역별인프라구축필요”",
+  "SK가연재계인사시즌⋯삼성ㆍLG도‘안정속쇄신’무게",
+  "“SK텔레콤,AI데이터센터사업확인필요”…목표가↓",
+  "유안타증권“미래산업,중국반도체투자확대수혜…하반기실적개선...",
+  "반도체ETF급락에SOXS8.76%급등…리사수AMD는반전할까",
+  "[오늘의증시]선거끝나자뉴욕증시'랠리'…코스피,반도체투심이방...",
+  "SK텔레콤,3분기영업익'기대부합'...AIDC성장성주목-SK",
+  "[속보]美민주당압승에뉴욕증시환호…달러화도급락세",
+  "[美증시]선거불확실성해소·유가폭락에3대지수급등…빅테크주도",
+  "10월소비자물가,석유제품가격14.9%상승",
+  "[넥스트-샷]정치불확실성걷히자몰리는돈···월가환호해도AI주...",
+  "26초남기고'쐐기포'…한국가스공사,SK꺾었다"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,21 @@
   [
    "2026-11-05T07:41:06.981951+09:00",
    "발생 충전 구축 위주로 아파트 인프라 지역별 필요 전기차 병목"
+  ],
+  [
+   "2026-11-05T07:51:04.825849+09:00",
+   "가격 상승 소비자물가 10월 석유제품"
+  ],
+  [
+   "2026-11-05T07:51:04.825849+09:00",
+   "몰리는 정치 환호해도 AI주 걷히자 월가 불확실성"
+  ],
+  [
+   "2026-11-05T07:51:04.825849+09:00",
+   "꺾었다 26초 남기고 쐐기포 한국가스공사"
   ]
  ],
- "last_run": "2026-11-05T07:41:26.338715+09:00",
+ "last_run": "2026-11-05T07:51:15.870112+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
