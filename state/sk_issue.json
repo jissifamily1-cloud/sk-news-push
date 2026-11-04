@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/assembly/6336130",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698564",
-  "https://www.greened.kr/news/articleView.html?idxno=353354",
-  "http://www.kdfnews.com/news/articleView.html?idxno=190100",
-  "https://www.ngetnews.com/news/articleView.html?idxno=555275",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/29/2026102980041.html",
   "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166998",
   "https://news.ifm.kr/news/articleView.html?idxno=482934",
   "https://www.gokorea.kr/news/articleView.html?idxno=883240",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/society/2026/11/04/2026110417085051193",
   "https://www.mk.co.kr/article/12196628",
   "http://www.yonhapnewstv.co.kr/news/MYH20261104173433qvj",
-  "http://www.doctorstimes.com/news/articleView.html?idxno=240887"
+  "http://www.doctorstimes.com/news/articleView.html?idxno=240887",
+  "https://www.news2day.co.kr/article/20261104500378",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611040119&t=NNv",
+  "https://www.cfnews.kr/news/article.html?no=113338",
+  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167120",
+  "https://www.yna.co.kr/view/AKR20261104088453004?input=1195m",
+  "https://www.hankookilbo.com/news/article/A2026110417080004789?did=NA"
  ],
  "seen_titles": [
-  "與,조희대국정조사필요성강조…\"계엄당시행적밝혀야\"",
-  "경찰,인천쿠팡물류센터화재종결처리…“범죄혐의점없어”",
-  "기습한파에'국소난방'가전급증...롯데하이마트,11월난방가전할...",
-  "공정위,라면담합현장조사확인…4사가격인상∙인하이력재조명",
-  "공정위,농심·삼양·오뚜기·팔도라면'가격담합'조사",
-  "공정위,‘라면값담합’의혹농심·삼양·팔도·오뚜기현장조사",
   "소아응급실압수수색논란확산…정치권,대책마련촉구",
   "인천쿠팡물류센터화재수사종결…\"범죄혐의없어\"",
   "208억보이스피싱자금세탁전직경찰관징역6년",
@@ -6001,7 +5995,13 @@
   "치매어머니폭행뒤방치…결국숨지게한40대구속송치",
   "'무번호투표지'사용숨기려…투표록사후위·변조정황",
   "특검\"중앙선관위지시로투표록위변조\"…압수수색",
-  "의협,소아응급센터강압적압수수색규탄릴레이1인시위지속"
+  "의협,소아응급센터강압적압수수색규탄릴레이1인시위지속",
+  "[포토]넥쏘막가습기부터수소탱크까지...코오롱수소기술",
+  "[단독]두나무-네이버합병초읽기…18일기업결합심사",
+  "소비자분쟁조정위,벤츠배터리정보기만피해“1인당400만원배상”...",
+  "최주혁범대위투쟁위원\"경찰공개사과·재발방지대책촉구\"",
+  "특검,투표록조작의혹압수수색…선관위결재라인정조준(종합2보)",
+  "모친폭행하고게임하며방치해숨지게한40대여성구속송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T17:40:54.198116+09:00",
+ "last_run": "2026-11-04T17:51:00.050498+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
