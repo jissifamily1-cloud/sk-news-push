@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900056.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698414",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=86827",
-  "https://www.kukinews.com/article/view/kuk202610290032",
-  "https://www.newspim.com/news/view/20261029000340",
   "https://www.thepublic.kr/news/articleView.html?idxno=324225",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=338057",
   "https://www.medigatenews.com/news/2702557966",
@@ -2999,14 +2994,14 @@
   "http://www.dtnews24.com/news/articleView.html?idxno=816831",
   "http://www.newstomato.com/ReadNews.aspx?no=1319255&inflow=N",
   "https://www.newsis.com/view/NISX20261104_0003854753",
-  "https://www.ikbc.co.kr/article/view/kbc202611040063"
+  "https://www.ikbc.co.kr/article/view/kbc202611040063",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=879769",
+  "http://www.legaltimes.co.kr/news/articleView.html?idxno=96793",
+  "http://www.legaltimes.co.kr/news/articleView.html?idxno=96770",
+  "https://www.hankookilbo.com/news/article/A2026110414490000192?did=NA",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1542636"
  ],
  "seen_titles": [
-  "\"이정재·정우성이인수\"정보로10억대부당이득…증선위,前위지윅...",
-  "400억원대‘가짜명품’유통조직검거…총책구속",
-  "상호출자제한기업집단채무보증2000억원…신규지정여파로늘어",
-  "상호출자제한기업집단채무보증2000억원…1년새1530억원증가",
-  "대기업집단채무보증2000억…1년새4.3배늘어",
   "[톺아보기]생중계·참관·선관위반환…野반발속진행된'투표지검증'",
   "'암살자(들)'개막작튼싱가포르간PD수첩…허진호감독\"큰용기될...",
   "[단독]경찰고위간부들아주대병원찾는다…압수수색사과할까",
@@ -6001,7 +5996,12 @@
   "BTS공연앞두고예약취소유도…숙박비7배올려판업주송치",
   "(단독)'회계부정상폐'웰바이오텍,소액주주들배상청구나섰다",
   "특검\"'투표록사후기재'지시정황포착\"…중앙선관위압수수색(종합...",
-  "\"김민석,전대승리위해'신천지의혹'무리수...사과배경에외압의심..."
+  "\"김민석,전대승리위해'신천지의혹'무리수...사과배경에외압의심...",
+  "코오롱그룹,수소핵심소재부터저장시스템까지…WHE2026참가",
+  "[2026BestLawFirmsinKorea]법무법인선운",
+  "[공정]삼성전자에장기구매계약강제한美브로드컴에과징금186억적...",
+  "\"8000만원받으러갔다\"는거짓말…나주부부살해동기는도박",
+  "이태한특검,선관위투표록위·변조의혹압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T15:31:03.844850+09:00",
+ "last_run": "2026-11-04T15:40:58.032660+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
