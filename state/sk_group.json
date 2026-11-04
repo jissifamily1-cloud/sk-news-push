@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/market-exr/6341220",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107682",
-  "https://www.newsq.co.kr/news/articleView.html?idxno=500710",
-  "http://www.yonhapnewstv.co.kr/news/MYH202611031145196pC",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=66968",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=879129",
   "https://biz.sbs.co.kr/article_hub/20000343889?division=NAVER",
   "https://www.newstnt.com/news/articleView.html?idxno=726411",
@@ -2999,14 +2994,14 @@
   "https://www.newspim.com/news/view/20261103000835",
   "https://www.news1.kr/economy/trend/6343361",
   "https://www.news1.kr/finance/general-stock/6343479",
-  "https://www.newspim.com/news/view/20261103001219"
+  "https://www.newspim.com/news/view/20261103001219",
+  "https://www.yna.co.kr/view/AKR20261104045400007?input=1195m",
+  "https://sports.khan.co.kr/article/202611050610003?pt=nv",
+  "https://www.donga.com/news/Economy/article/all/20261103/134956246/2",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2361191",
+  "https://www.seoul.co.kr/news/economy/securities/2026/11/05/20261105500004?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "엘앤에프,LG에너지솔루션에LFP양극재공급…약1조350억원규모",
-  "SK오션플랜트,해상풍력하부구조물핵심부재‘용접자동화’가속도",
-  "코스피낙폭줄여5700선등락…외인·기관동반'팔자'[장중시황]",
-  "SKT,AI경영성과로ESG리더자리매김",
-  "美,AI주한파에중간선거까지…코스피급락'산넘어산'[뉴스Q]",
   "코스피,낙폭2%대로축소…삼전닉스약세지속",
   "\"AI의탄소딜레마넘어\"…SKT,UNGC선정'ESG리드기업'됐다",
   "[단독]이천까지조사했지만…용인반도체클러스터수질영향은'미지수...",
@@ -6001,7 +5996,12 @@
   "[특별대담]①\"40년저금리시대끝났다\"…홍성국전의원의고금리생...",
   "[美중간선거]AI투자둔화땐…반도체호황에기댄韓재정'역풍'우려",
   "美선거'블루스윕'금리안정‘호재’…중동전쟁예산삭감가능",
-  "[특별대담]②홍성국전의원\"내년이진짜고비…국가구조전환필요..."
+  "[특별대담]②홍성국전의원\"내년이진짜고비…국가구조전환필요...",
+  "◇내일의경기(6일)",
+  "1-2→3-2‘김민재친정’무패행진EPL빅클럽상대짜릿한역전승!리...",
+  "워커힐더뷔페3년간105만명찾았다…직원서비스만족도95.7점",
+  "SK텔레콤,3분기매출4조4973억원…전년대비13.1%증가",
+  "[서울데이터랩]미뉴욕증시일제히상승마감…다우3%대급등,반도체..."
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,17 @@
   [
    "2026-11-05T06:11:09.764650+09:00",
    "홍성국 의원 국가 고비 내년이 구조 진짜 필요"
+  ],
+  [
+   "2026-11-05T06:21:01.270921+09:00",
+   "증가 매출 전년 4조4973억원 대비 SK텔레콤 3분기"
+  ],
+  [
+   "2026-11-05T06:21:01.270921+09:00",
+   "상승 마감 급등 일제히 뉴욕증시 반도체 다우"
   ]
  ],
- "last_run": "2026-11-05T06:11:58.819626+09:00",
+ "last_run": "2026-11-05T06:21:10.515575+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
