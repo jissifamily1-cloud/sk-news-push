@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2641496",
-  "https://www.newsis.com/view/NISX20261029_0003846003",
-  "https://www.news1.kr/economy/trend/6335867",
-  "https://www.mt.co.kr/economy/2026/10/29/2026102908431186010",
-  "https://www.edaily.co.kr/News/Read?newsId=03745766645617840&mediaCodeNo=257",
-  "https://biz.heraldcorp.com/article/10918630",
-  "https://www.fnnews.com/news/202610290930293273",
-  "https://www.hani.co.kr/arti/society/society_general/1284752.html",
-  "https://view.asiae.co.kr/article/2026102909024687482",
-  "https://www.edaily.co.kr/News/Read?newsId=03640806645617840&mediaCodeNo=257",
-  "https://www.sedaily.com/article/20107538",
-  "https://www.newsis.com/view/NISX20261028_0003845366",
   "https://www.news1.kr/society/incident-accident/6335829",
   "https://www.mt.co.kr/society/2026/10/29/2026102909291329757",
   "https://www.ekn.kr/web/view.php?key=20261029028122665",
@@ -2999,21 +2987,21 @@
   "https://www.lawissue.co.kr/view.php?ud=202611041448299320b3279dfb36_12",
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=249072",
   "https://www.gokorea.kr/news/articleView.html?idxno=884083",
-  "https://www.joongang.co.kr/article/25475691"
+  "https://www.joongang.co.kr/article/25475691",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=45055",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268441",
+  "http://www.beyondpost.co.kr/view.php?ud=20261104150949760318ef25b590_30",
+  "https://www.m-i.kr/news/articleView.html?idxno=2014424",
+  "https://www.wikitree.co.kr/articles/1171807",
+  "https://www.etoday.co.kr/news/view/2643718",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148974997&call_from=naver_news",
+  "https://www.insight.co.kr/news/580629",
+  "https://www.gokorea.kr/news/articleView.html?idxno=884092",
+  "https://www.donga.com/news/Society/article/all/20261104/134963839/1",
+  "https://www.joongang.co.kr/article/25475695",
+  "https://www.ytn.co.kr/_ln/0103_202611041509200821"
  ],
  "seen_titles": [
-  "대기업계열사채무보증2000억원달해…1년새4.3배로",
-  "신규지정·수출입보증에…대기업집단채무보증4.3배증가",
-  "대기업계열사채무보증2000억…신규지정·수출입보증에4.3배로",
-  "올해대기업채무보증2000억원…전년대비325.5%↑",
-  "\"살인범다루듯응급실털어\"…'소아응급7명사직'부른경찰",
-  "[단독]세금도떼어먹었나…선관위특검,‘허위세금계산서’관련입...",
-  "'루이비통·샤넬'짝퉁355억원어치유통…가족동원해51억세탁한일당",
-  "가족·지인동원해가짜명품51억원어치판매…355억원상당압수",
-  "\"창고열자400억대명품이\"…엄마·아들이짠'짝퉁조직'적발",
-  "중국서들여온'짝퉁'루이비통·샤넬400억원대…가족동원한유통조직...",
-  "가짜샤넬만들고판매까지…기업형조직경찰에덜미",
-  "창고서발견된'짝퉁명품'6천개…1년에51억번40대총책구속",
   "가족·지원동원해역할분담…中가짜명품51억어치판매한일당송치",
   "\"명품이이렇게싸?\"짝퉁팔아51억챙겼다…아들까지동원한40대여성",
   "[똑똑한유통]롯데하이마트,G마켓,CU,이마트24,GS샵,당근,우아한형...",
@@ -6001,7 +5989,19 @@
   "선관위특검,‘투표록위변조혐의포착’중앙선관위강제수사착수",
   "특검\"중앙선관위지시로투표록사후위·변조\"…3일째압수수색外[...",
   "특검압수수색,선관위의투표용지조작의혹충격확산",
-  "특검“선관위,지방선거투표록위‧변조지시”…압수수색"
+  "특검“선관위,지방선거투표록위‧변조지시”…압수수색",
+  "코오롱,수소소재·저장기술들고킨텍스로…\"선박·열차까지\"",
+  "현대차·코오롱,수소박람회서'수전해모듈·연료저장시스템'공개",
+  "알레르망,9년연속업계판매1위기념‘최대60%할인’행사진형",
+  "[이소영플랜㊦]소상공인비용구조개혁,경영비조사추진…배달수수...",
+  "벤츠코리아,전기차배터리제조사누락안내로차주142명에1인당400만...",
+  "조원태號대한항공,기내식·면세사업6년만에되찾았다…통합시너지...",
+  "응급실등필수의료분야수사가이드라인마련…진료영향최소화",
+  "중앙선관위,투표록사후조작지시정황...특검압수수색착수",
+  "경남지방선거수사막바지,공직자법적책임은?",
+  "[단독]치매모친폭행뒤10여일방치한채게임…결국숨지게한40대女",
+  "“인구40만명무너지면안돼”…없는주민2000명만들어낸日지방도...",
+  "선관위특검,용지부족투표소'투표록위·변조'압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T15:10:55.001520+09:00",
+ "last_run": "2026-11-04T15:21:06.066778+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
