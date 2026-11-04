@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://kpenews.com/View.aspx?No=4288016",
-  "https://www.sentv.co.kr/article/view/sentv202610290044",
-  "https://www.kyeonggi.com/article/20261029580051",
-  "https://www.yna.co.kr/view/AKR20261029055800065?input=1195m",
-  "https://www.munhwa.com/article/11627170",
-  "https://news.tf.co.kr/read/national/2382166.htm",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054374",
   "https://www.news1.kr/local/incheon/6335893",
   "https://www.medigatenews.com/news/2832464008",
   "https://www.gokorea.kr/news/articleView.html?idxno=882890",
@@ -2999,16 +2992,16 @@
   "https://www.youthdaily.co.kr/news/article.html?no=229356",
   "https://www.mk.co.kr/article/12196336",
   "http://www.doctorstimes.com/news/articleView.html?idxno=240875",
-  "https://biz.chosun.com/topics/law_firm/2026/11/04/3WRIFXZ6FNESZELCX46KVORURA/"
+  "https://biz.chosun.com/topics/law_firm/2026/11/04/3WRIFXZ6FNESZELCX46KVORURA/",
+  "https://www.kgnews.co.kr/news/article.html?no=918144",
+  "https://www.jbnews.com/news/articleView.html?idxno=1515109",
+  "https://www.topdaily.kr/articles/112694",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247178",
+  "https://www.kgnews.co.kr/news/article.html?no=918138",
+  "https://www.hankookilbo.com/news/article/A2026110413450000312?did=NA",
+  "https://www.medipana.com/news/articleView.html?idxno=420915"
  ],
  "seen_titles": [
-  "[기자수첩]옳은결론도늦으면무력하다..삼성전자GOS과징금의교훈",
-  "공정위중점조사기획단,‘라면값담합’의혹정조준",
-  "인천쿠팡물류센터화재,범죄혐의없어수사종결…발화원인특정...",
-  "인천쿠팡물류센터대형화재수사3개월…입건자없이종결",
-  "특검‘올공투표지’임의검증…용지부족책임,내년에규명될듯[창...",
-  "장윤기부친\"증거인멸의도없었다\"…경찰수사편의제공은인정",
-  "공정위는법과원칙따라독립적·중립적심의·의결하고있으며,이에...",
   "'1140억피해'인천쿠팡물류센터화재수사종결…범죄혐의점없어",
   "소아응급실'도미노'붕괴우려한이주영…\"아이들갈곳이없습니다\"",
   "가습기고르는법,초음파식과가열식차이는",
@@ -6001,7 +5994,14 @@
   "\"공명추진활동비이어투표록조작까지\"…특검,선관위압수수색",
   "BTS공연앞두고‘초과예약’거짓말…7배비싸게되판업주‘사기혐...",
   "소아응급의학회\"응급실수사가이드라인,명확한강제수사제한기준·...",
-  "“5분이면될일이15일”…공소청출범한달,보완수사60%급증"
+  "“5분이면될일이15일”…공소청출범한달,보완수사60%급증",
+  "쿠팡,3분기6400억적자…상품매입가상승·마케팅과다에'수익성비...",
+  "\"속아서샀다\"벤츠전기차차주들,1인당400만원배상받는다",
+  "쿠팡,과징금청구서에'연손실2조'넘나…'계획된적자→규제형적자...",
+  "'배터리제조사속인'벤츠,142명400만원씩배상결정",
+  "특검\"중앙선관위지시로투표록사후위·변조\"의혹포착",
+  "선관위특검\"중앙선관위원회지시로투표록사후위·변조\"",
+  "응급실압수수색지침마련에도…소아응급醫\"강제수사제한부터\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T14:20:56.143675+09:00",
+ "last_run": "2026-11-04T14:31:07.766023+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
