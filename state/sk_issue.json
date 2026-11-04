@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.catchnews.kr/news/articleView.html?idxno=129913",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819979&plink=ORI&cooper=NAVER",
-  "https://www.asiatime.co.kr/article/20261029500036",
-  "https://www.news1.kr/society/incident-accident/6335805",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698353",
-  "https://www.the-today.com/news/articleView.html?idxno=92622",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=212074",
   "https://www.upkoreanews.kr/news/articleView.html?idxno=100845",
   "https://www.apnews.kr/news/articleView.html?idxno=3052561",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=901192",
@@ -2999,16 +2992,16 @@
   "https://www.newscj.com/news/articleView.html?idxno=3445855",
   "https://www.sisajournal.com/news/articleView.html?idxno=392816",
   "https://www.ngonews.kr/news/articleView.html?idxno=242341",
-  "https://www.dailian.co.kr/news/view/1710685/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1710685/?sc=Naver",
+  "http://www.bizwnews.com/news/articleView.html?idxno=150897",
+  "https://biz.sbs.co.kr/article_hub/20000344183?division=NAVER",
+  "https://www.seoul.co.kr/news/society/2026/11/04/20261104500160?wlog_tag3=naver",
+  "https://www.yna.co.kr/view/AKR20261104088452004?input=1195m",
+  "https://www.sportschosun.com/entertainment/2026-11-04/202611040100028810002906",
+  "https://economist.co.kr/article/view/ecn202611040025",
+  "https://imnews.imbc.com/news/2026/society/article/6863144_36918.html"
  ],
  "seen_titles": [
-  "\"신일'선풍기형히터'8만5900원\"롯데하이마트,난방가전할인전",
-  "[친절한경제]\"또올랐네\"들었다놨다…부활한'저승사자'뜯어본다",
-  "DL건설,'컴플라이언스데이'개최…전사준법경영강화",
-  "강호동농협회장,열흘만에3차경찰출석…'1억원뇌물수수의혹'",
-  "“소아응급실사망한다면모두가공범”소아응급의출신이주영의원...",
-  "경찰,강호동농협회장열흘만에3차소환…금품수수·부의금·공금의...",
-  "롯데하이마트,한파에난방가전매출급증…국소난방·카본매트수요...",
   "대한유화최대주주KPIC,금산분리어기고'꼼수'탈출?…오너3세사사...",
   "[AP미디어동향10월3주]SBS새사장에양윤석SBS보도본부장",
   "생중계·참관·선관위반환…'올공검증'3대절차논란",
@@ -6001,7 +5994,14 @@
   "특검,'투표록위·변조'포착…중앙선관위압수수색",
   "특검,중앙선관위압수수색…\"투표록사후위·변조지시정황포착\"",
   "특검팀,선관위투표록위·변조혐의포착···입찰비리정황도포착",
-  "특검팀\"투표지부족투표소,중앙선관위지시로투표록사후위변조\""
+  "특검팀\"투표지부족투표소,중앙선관위지시로투표록사후위변조\"",
+  "[현장에서]\"사업성있는수소프로젝트현실로\"…'WorldHydrogenExpo2026...",
+  "[단독]남의효과베껴광고…코오롱계열사경고",
+  "투표용지부족사태은폐하려했나…중앙선관위,투표록조작지시의혹",
+  "특검\"중앙선관위지시로투표록사후위변조\"…압수수색(종합)",
+  "BTS공연앞두고“방없어요”거짓말…숙박비6배올려판50대덜미",
+  "'BTS공연겨냥'거짓취소후숙박비7배올린재판매업자'덜미'",
+  "선관위특검\"중앙선관위지시로투표록사후위변조\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T14:01:13.458577+09:00",
+ "last_run": "2026-11-04T14:10:51.540258+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
