@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ftimes.kr/news/articleView.html?idxno=40835",
-  "https://www.hankyung.com/article/2026110326036",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3015513",
-  "https://www.mydaily.co.kr/page/view/2026110312035170916",
-  "https://www.edaily.co.kr/News/Read?newsId=03886806645642112&mediaCodeNo=257",
-  "https://www.koreatimes.co.kr/path/A2026110311350005194",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=284301",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=91402",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=901742",
   "https://www.ytn.co.kr/_ln/0102_202611031157585391",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026110456416",
   "http://www.rookie.co.kr/news/articleView.html?idxno=129652",
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100311",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6863282_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6863282_37012.html",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=284793",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730511",
+  "https://www.greened.kr/news/articleView.html?idxno=353899",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501368",
+  "https://www.betanews.net/article/view/beta202611050001",
+  "https://www.vegannews.co.kr/news/article.html?no=400746",
+  "https://www.sedaily.com/article/20110414"
  ],
  "seen_titles": [
-  "[분석]이재용의반도체현장경영···왜'패키징'에주목하나",
-  "[초점]국산신약의역설…개발성공과환자접근성사이의간극",
-  "'S더비완승'SK,삼성개막10연승저지하고5연승질주…힉스24점·오...",
-  "\"낸드값이D램보다먼저꺾인다\"…삼전닉스에'다운턴'경고",
-  "K-의료,중앙아시아진출교두보마련",
-  "보건산업진흥원,카자흐의료박람회서100만달러수출계약성과",
-  "[마켓인]채권끊고예금가더니…SK하이닉스,예금담보ABCP로돌아왔다",
   "YoungoneGroupseekstoexpandeconomictieswithBangladesh",
   "LFP양극재공급계약…엘앤에프·LG에너지솔루션맞손",
   "SK오션플랜트,해상풍력핵심용접자동화…작업시간37%단축",
@@ -6001,7 +5994,14 @@
   "\"가만히있어도700억몰린다?\"…증권가가주목한종목[분석+]",
   "외국선수수비에클러치득점까지!베테랑빅맨헌신에사령탑박수나...",
   "[442.interview]'제2의박지성'강상윤이그리는미래\"누군가가제2의...",
-  "여소야대에막힌트럼프,밖으로눈돌릴까?"
+  "여소야대에막힌트럼프,밖으로눈돌릴까?",
+  "최태원회장이직접이끈다…SK하이닉스미국AI투자법인출범",
+  "뉴욕증시급반등에코스피투심개선기대…반도체·외국인수급관건",
+  "최태원SK그룹회장,미국AI투자법인'HYAICO코퍼레이션'이사회의장...",
+  "에코프로,화학상장기업브랜드평판1위…LG화학·포스코퓨처엠추격",
+  "초코파이는세계로,동양그룹은해체로…같은창업주에서갈라진두기...",
+  "SK가스3분기영업익1477억원…5~6일기관설명회",
+  "‘美민주압승’종전기대에유가8%폭락...반도체지수는규제우려에..."
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,25 @@
   [
    "2026-11-05T06:41:06.136345+09:00",
    "여소야대에 돌릴까 트럼프 밖으로 막힌"
+  ],
+  [
+   "2026-11-05T06:51:02.717712+09:00",
+   "에코프로 브랜드평판 화학 LG화학 1위 상장기업 포스코퓨처엠 추격"
+  ],
+  [
+   "2026-11-05T06:51:02.717712+09:00",
+   "초코파이는 해체로 세계로 창업주에서 동양그룹은 같은 갈라진"
+  ],
+  [
+   "2026-11-05T06:51:02.717712+09:00",
+   "기관 3분기 영업익 SK가스 6일 설명회 1477억원"
+  ],
+  [
+   "2026-11-05T06:51:02.717712+09:00",
+   "폭락 민주 기대에 종전 규제 반도체지수는 압승 우려에 유가"
   ]
  ],
- "last_run": "2026-11-05T06:41:32.297393+09:00",
+ "last_run": "2026-11-05T06:51:18.049508+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
