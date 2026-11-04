@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166998",
-  "https://news.ifm.kr/news/articleView.html?idxno=482934",
-  "https://www.gokorea.kr/news/articleView.html?idxno=883240",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227789",
   "https://www.news1.kr/local/busan-gyeongnam/6336171",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=254324",
   "https://www.goodkyung.com/news/articleView.html?idxno=292893",
@@ -2999,13 +2995,13 @@
   "https://www.cfnews.kr/news/article.html?no=113338",
   "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167120",
   "https://www.yna.co.kr/view/AKR20261104088453004?input=1195m",
-  "https://www.hankookilbo.com/news/article/A2026110417080004789?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026110417080004789?did=NA",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611040106&t=NNv",
+  "https://www.news1.kr/society/court-prosecution/6343278",
+  "https://www.ktv.go.kr/content/view?content_id=763492",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703784"
  ],
  "seen_titles": [
-  "소아응급실압수수색논란확산…정치권,대책마련촉구",
-  "인천쿠팡물류센터화재수사종결…\"범죄혐의없어\"",
-  "208억보이스피싱자금세탁전직경찰관징역6년",
-  "'여고생살해'장윤기父첫증인신문…\"착한아들이그럴줄은\"[아침&...",
   "'당원가입관여의혹'차석호함안군수,경찰피의자조사",
   "롯데하이마트,첫추위에난방가전매출증가…히터40%·요장판70%늘어",
   "[굿모닝!29일유통가소식]롯데하이마트·코웨이·이마트·쿠팡·G마켓...",
@@ -6001,7 +5997,11 @@
   "소비자분쟁조정위,벤츠배터리정보기만피해“1인당400만원배상”...",
   "최주혁범대위투쟁위원\"경찰공개사과·재발방지대책촉구\"",
   "특검,투표록조작의혹압수수색…선관위결재라인정조준(종합2보)",
-  "모친폭행하고게임하며방치해숨지게한40대여성구속송치"
+  "모친폭행하고게임하며방치해숨지게한40대여성구속송치",
+  "14조팔고도6천억적자…쿠팡,수익성고민커진다",
+  "특검,선관위압수수색…\"투표지발급기사업특혜·투표록위변조\"(종합...",
+  "복지부·경찰,응급실의료사고수사지침마련",
+  "[사사건건]윤석열공직선거법항소심기각…397억원향방은?"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T17:51:00.050498+09:00",
+ "last_run": "2026-11-04T18:01:12.562609+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
