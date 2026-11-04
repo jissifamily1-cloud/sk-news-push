@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202610282241552504",
-  "https://www.donga.com/news/Society/article/all/20261028/134928946/1",
-  "https://www.imaeil.com/page/view/2026102821583906482",
-  "https://www.donga.com/news/Society/article/all/20261028/134926162/1",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261028215322qbl",
-  "https://www.busan.com/view/busan/view.php?code=2026102821234243164",
-  "https://www.khan.co.kr/article/202610282043035",
-  "https://www.etnews.com/20261028000437",
   "https://www.yna.co.kr/view/AKR20261028158100030?input=1195m",
   "https://www.dailypharm.com/user/news/343941?REFERER=NP",
   "https://www.segye.com/newsView/20261028520018?OutUrl=naver",
@@ -2999,17 +2991,17 @@
   "https://www.pressian.com/pages/articles/2026110412003933560",
   "https://www.yna.co.kr/view/AKR20261104088451004?input=1195m",
   "http://www.yonhapnewstv.co.kr/news/MYH20261104120040jeM",
-  "https://dealsite.co.kr/articles/171933"
+  "https://dealsite.co.kr/articles/171933",
+  "https://www.thebigdata.co.kr/view.php?ud=202611041205445544570d99e4c8_23",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=367178",
+  "https://www.newspim.com/news/view/20261104000677",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=622909",
+  "https://news.tf.co.kr/read/life/2384564.htm",
+  "https://www.kwnews.co.kr/article/20261104500381",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/04/2026110490146.html",
+  "https://www.kyeonggi.com/article/20261104580132"
  ],
  "seen_titles": [
-  "[포커스]'올공투표지'현장검증...초유의'대법원장국조'",
-  "장윤기父경감“그렇게착한아들이그런일을…납득안돼”",
-  "\"그렇게착한아들이…납득안돼\"장윤기부친이법정서한말",
-  "‘올공’투표지기표·인쇄상태낱낱이살펴…투개표장비해킹점검...",
-  "147일만에열린투표함…촬영두고실랑이도",
-  "'여고생살해범'장윤기아버지\"착한아들인데…납득안돼\"",
-  "브라질대선패배한보우소나루,‘여권무효’에도돌연미국행",
-  "롯데하이마트,한파에난방가전매출급증…11월할인행사진행",
   "롯데하이마트\"이른추위에전기장판등난방가전매출급증\"",
   "제약·도매,백신입찰가담합땐'영업정지'…법개정추진",
   "공정위,라면값담합정조준…농심·삼양등4곳현장조사",
@@ -6001,7 +5993,15 @@
   "[속보]특검\"용지부족투표소,선관위지시로'투표록위변조'정황\"",
   "특검\"투표지부족투표소,중앙선관위지시로투표록사후위변조\"",
   "[속보]특검\"투표지부족투표소,투표록사후위변조\"",
-  "SK에너지대표교체,강동수사장귀환"
+  "SK에너지대표교체,강동수사장귀환",
+  "코오롱그룹,월드하이드로젠엑스포2026‘참가",
+  "선관위특검,선관위압수수색…'투표록사후위변조'의혹",
+  "선관위특검,중앙선관위등압수수색…40여곳투표록위·변조혐의",
+  "﻿GS건설본사압수수색…'추락사1년만'이례적강제수사",
+  "특검,중앙선관위압수수색…459억규모용지발급기사업의혹",
+  "특검,중앙선관위투표록위·변조정황포착…선관위압수수색",
+  "특검\"중앙선관위지시로투표록사후위·변조\"…선관위압수수색",
+  "“무번호용지덮으려투표록조작”…특검,중앙선관위압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T12:10:58.095855+09:00",
+ "last_run": "2026-11-04T12:19:24.427649+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
