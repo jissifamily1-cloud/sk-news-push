@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1707854/?sc=Naver",
-  "https://sateconomy.co.kr/news/view/1065574561035676",
-  "https://www.ajunews.com/view/20261029083618197",
   "https://www.etoday.co.kr/news/view/2641496",
   "https://www.newsis.com/view/NISX20261029_0003846003",
   "https://www.news1.kr/economy/trend/6335867",
@@ -2999,12 +2996,12 @@
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=622896",
   "https://biz.heraldcorp.com/article/10925803",
   "https://www.edaily.co.kr/News/Read?newsId=04687126645642440&mediaCodeNo=257",
-  "https://www.lawissue.co.kr/view.php?ud=202611041448299320b3279dfb36_12"
+  "https://www.lawissue.co.kr/view.php?ud=202611041448299320b3279dfb36_12",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=249072",
+  "https://www.gokorea.kr/news/articleView.html?idxno=884083",
+  "https://www.joongang.co.kr/article/25475691"
  ],
  "seen_titles": [
-  "대기업계열사채무보증1년새4.3배…2000억원",
-  "공정위,농심·삼양식품·오뚜기·팔도대상…라면업계가격담합의혹...",
-  "대기업계열사채무보증2000억원…1년새325%급증",
   "대기업계열사채무보증2000억원달해…1년새4.3배로",
   "신규지정·수출입보증에…대기업집단채무보증4.3배증가",
   "대기업계열사채무보증2000억…신규지정·수출입보증에4.3배로",
@@ -6001,7 +5998,10 @@
   "응급실압수수색지침마련…사전협의·비진료공간집행원칙",
   "특검“투표지부족투표소,선관위지시에투표록위·변조”…중앙·...",
   "수사기간한달남은선관위특검,강제수사'잰걸음'…인력부족'변수...",
-  "선관위특검,‘투표록위변조혐의포착’중앙선관위강제수사착수"
+  "선관위특검,‘투표록위변조혐의포착’중앙선관위강제수사착수",
+  "특검\"중앙선관위지시로투표록사후위·변조\"…3일째압수수색外[...",
+  "특검압수수색,선관위의투표용지조작의혹충격확산",
+  "특검“선관위,지방선거투표록위‧변조지시”…압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "교체 대표 SK에너지 강동수 사장 귀환"
   ]
  ],
- "last_run": "2026-11-04T15:01:16.227645+09:00",
+ "last_run": "2026-11-04T15:10:55.001520+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
