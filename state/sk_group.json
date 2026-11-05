@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001439",
-  "https://www.insight.co.kr/news/580646",
-  "http://www.newstomato.com/ReadNews.aspx?no=1319224&inflow=N",
-  "https://www.newspim.com/news/view/20261104000844",
-  "https://byline.network/?p=9004111222626083",
-  "https://www.fnnews.com/news/202611041407074312",
   "https://www.mk.co.kr/article/12196355",
   "https://biz.sbs.co.kr/article_hub/20000344207?division=NAVER",
   "https://www.newsis.com/view/NISX20261104_0003854399",
@@ -2999,15 +2993,15 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6863573_37012.html",
   "https://www.interfootball.co.kr/news/articleView.html?idxno=697881",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8134",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051029213150766"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611051029213150766",
+  "https://www.news1.kr/world/international-economy/6344942",
+  "https://news.jtbc.co.kr/article/NB12326739?influxDiv=NAVER",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377245",
+  "https://www.news1.kr/it-science/cc-newmedia/6344430",
+  "https://www.news2day.co.kr/article/20261105500038",
+  "https://www.sedaily.com/article/20110949"
  ],
  "seen_titles": [
-  "이상일용인시장,글로벌전력반도체기업ST마이크로일렉트로닉스방문",
-  "‘3년의기다림’수원삼성,끝이보인다…승격매직넘버‘1’",
-  "[특징주]삼성SDI·LG에너지솔루션등이차전지주껑충…미국민주당중...",
-  "[통신픽]세대교체속도내는통신3사…시선은이미'6G시대'로",
-  "[게임스테이션]'길드워'DLC공개·'도깨비~'신규서버·'어라이즈오...",
-  "정의당양경규대표\"충북서새로운진보정치길열것\"",
   "SK스퀘어86만6000원…NAV할인율43%속3%대하락",
   "SKbiopharmaceuticalsbacks1stBiotherapeuticsin$7.5millionfund",
   "부천대장지구'부천대장하우스토리디센트'11월분양",
@@ -6001,7 +5995,13 @@
   "'푸른쓰나미'에증시급락‥반도체주새시험대",
   "[오피셜]모레노호빠졌던김민수,김은중감독선택받아...올림픽대표...",
   "[글로벌마켓뷰]뉴욕증시,AI·반도체투매에패닉…나스닥5.5%↓·반도...",
-  "[PC국가대표]GPC-탄소저감콘크리트최대경쟁력…데이터센터·공동..."
+  "[PC국가대표]GPC-탄소저감콘크리트최대경쟁력…데이터센터·공동...",
+  "美필라델피아반도체지수12.25%폭락…AI규제공포에투매",
+  "뉴욕증시급락'악몽'…나스닥-5.5%,필라델피아반도체-12.25%",
+  "'칸터32점활약'삼성,11경기만에10승고지…역대최단경기타이기...",
+  "아직쓰는3G폰“여기까지가끝인가보오”…SKT·KT종료수순",
+  "[N2모닝경제브리핑-11월6일]美증시,공포지수치솟으며폭락…나스...",
+  "“트레이더전화통에불나”나스닥5%폭락,조정국면진입[데일리국제..."
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,25 @@
   [
    "2026-11-06T06:23:07.298394+09:00",
    "콘크리트 경쟁력 탄소저감 GPC 데이터센터 공동"
+  ],
+  [
+   "2026-11-06T06:31:12.648669+09:00",
+   "32점 고지 최단경기 활약 11경기 역대 타이 삼성 칸터 10승 만에"
+  ],
+  [
+   "2026-11-06T06:31:12.648669+09:00",
+   "SKT 3G폰 KT 끝인가 쓰는 아직 보오 여기까지가 종료 수순"
+  ],
+  [
+   "2026-11-06T06:31:12.648669+09:00",
+   "증시 치솟으며 나스 폭락 공포지수"
+  ],
+  [
+   "2026-11-06T06:31:12.648669+09:00",
+   "전화통에 불나 트레이더 조정국면 폭락 데일리국제 나스닥 진입"
   ]
  ],
- "last_run": "2026-11-06T06:23:12.816234+09:00",
+ "last_run": "2026-11-06T06:31:28.398257+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
