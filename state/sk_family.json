@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078735",
-  "https://www.yna.co.kr/view/AKR20261015151000054?input=1195m",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214904",
-  "https://www.g-enews.com/view.php?ud=202610151647336326e7e8286d56_1",
-  "https://www.newstnt.com/news/articleView.html?idxno=723199",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=508823",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443955",
-  "https://www.newspim.com/news/view/20261015001211",
-  "https://www.news1.kr/local/gwangju-jeonnam/6321561",
-  "https://www.betanews.net/article/view/beta202610150149",
   "http://www.jeollailbo.com/news/articleView.html?idxno=813794",
   "https://www.m-i.kr/news/articleView.html?idxno=2006534",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=256612",
@@ -2999,19 +2989,19 @@
   "https://www.munhwa.com/article/11629136",
   "https://www.viva100.com/article/20261105501199",
   "https://www.mt.co.kr/industry/2026/11/05/2026110517503792674",
-  "https://view.asiae.co.kr/article/2026110517535343899"
+  "https://view.asiae.co.kr/article/2026110517535343899",
+  "https://www.bigtanews.co.kr/article/view/big202611050020",
+  "https://thetracker.co.kr/View.aspx?No=4299608",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512574",
+  "https://www.news1.kr/sports/general-sport/6344729",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451304",
+  "https://www.viva100.com/article/20261105501225",
+  "https://www.bloter.net/news/articleView.html?idxno=677894",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002292",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451319",
+  "https://www.ekn.kr/web/view.php?key=20261105025126035"
  ],
  "seen_titles": [
-  "AI본토에확산하는'투자과열론',삼성전자·SK하이닉스메모리수익성...",
-  "[청주소식]내달7일까지'운리인사이드'공연·체험등",
-  "충남도의회'청소년활동시설연계교육활성화'의정토론회",
-  "기노위국감기업총수증인미채택에반발…'명지라인'남광우자료미...",
-  "2030년첫양산…전남광주시,반도체산단조기착공속도전",
-  "전남광주반도체클러스터속도전…2030년첫양산목표가시화",
-  "전남광주,서남권반도체클러스터조성'속도'",
-  "네이버페이,'얼굴결제'총공세…오프라인의벽,이번엔넘을까",
-  "[ETF따라잡기]국장탈출은지능순?개인투자자들미국으로이동",
-  "용인시의회김희영의원발의장사시설관리조례개정안가결",
   "경기도의회전통식품연구회,“경기전통식품의가치를지역경제성장...",
   "전남광주반도체클러스터,정부·기업현장점검잇따라…2030년첫양산...",
   "[속보]\"회장님도물렸다\"최태원'49억매입'재조명…코스피5500선추...",
@@ -6001,7 +5991,17 @@
   "최태원,SK주식9440억원어치매각…지분율15.49%로",
   "최태원“과거경제논리로는안돼”⋯미·중패권경쟁속韓경제진...",
   "최태원회장\"AI가韓운명좌우…2100조투자?'게임의룰'변해\"",
-  "최태원\"AI투자는패권전쟁,계속될수밖에…2100조베팅안하면못..."
+  "최태원\"AI투자는패권전쟁,계속될수밖에…2100조베팅안하면못...",
+  "<인사>미래에셋그룹조직개편및임원인사",
+  "미래에셋그룹,AX·디지털전문가전진배치…정보보호조직격상",
+  "[단독]SK3세최성환,100%개인회사설립…‘AI플랫폼’사업판키우...",
+  "박민교,의성마늘장사씨름대회'한라장사'…개인통산11번째꽃가마",
+  "신한라이프'소비자권익보호위원회'에외부전문가영입,운영중립성...",
+  "최태원,재산분할자금마련위해SK㈜지분165만주처분",
+  "'재산분할금9440억'마련한최태원회장…SK지분매각완료",
+  "최태원\"AI시대인재,직접경험하고스스로설계능력키워야\"",
+  "SK최태원서울대특강,\"성장모델을AI에맞출수있느냐가한국경제관...",
+  "최태원,SK㈜지분9440억원매각완료…지분율15.49%"
  ],
  "recent_sigs": [
   [
@@ -6101,7 +6101,7 @@
    "전쟁 수밖에 2100조 패권 투자는 AI 계속될 베팅 하면"
   ]
  ],
- "last_run": "2026-11-05T18:00:56.078868+09:00",
+ "last_run": "2026-11-05T18:10:25.026670+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
