@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=216225",
-  "https://biz.chosun.com/topics/law_firm/2026/10/29/RMLJKUR5FZFHFKOXF5RRVFSH64/",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900314.html",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290169&t=NN",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877829",
-  "http://www.breaknews.com/1246836",
-  "https://www.busan.com/view/busan/view.php?code=2026102916234897121",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=800248",
   "https://www.pointe.co.kr/news/articleView.html?idxno=86859",
   "https://www.yna.co.kr/view/AKR20261029076751002?input=1195m",
   "https://www.joongangenews.com/news/articleView.html?idxno=559712",
@@ -2999,17 +2991,17 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=409307",
   "http://www.intn.co.kr/news/articleView.html?idxno=2054517",
   "https://www.yna.co.kr/view/AKR20261105059100002?input=1195m",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054516"
+  "http://www.intn.co.kr/news/articleView.html?idxno=2054516",
+  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91700",
+  "https://www.impacton.net/news/articleView.html?idxno=30541",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247209",
+  "https://www.taxtimes.co.kr/news/article.html?no=277613",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558498",
+  "https://www.yna.co.kr/view/AKR20261105068200004?input=1195m",
+  "http://www.iminju.net/news/articleView.html?idxno=171966",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=87178"
  ],
  "seen_titles": [
-  "공정위,하도급법위반셀트리온에과징금6.3억원부과",
-  "한화직원휴대전화문자열람한공정위…“동의받았다”vs“무단조사...",
-  "진단키트3717만개발주취소한셀트리온…공정위,과징금6.3억원",
-  "\"귀신퇴치\"잔혹폭행후기도만…장애동생끝내숨져",
-  "빗썸'116억사택'의혹···공소청재압수수색",
-  "특검,투표지부족사태'13개박스'국과수감정의뢰",
-  "의협\"진료중인응급실압색은건국이래최초\"…경찰에거듭사과요...",
-  "[위클리오늘]대기업집단채무보증2000억,325.5%증가···계열사TRS...",
   "셀트리온,'하도급법위반'과징금6억3000만원…진단키트3717만개위탁...",
   "셀트리온에과징금6.3억…공정위제재에행정소송방침(종합)",
   "공소청,빗썸압수수색…임원사택지원금사적유용의혹수사",
@@ -6001,7 +5993,15 @@
   "다나와\"가습기수요본격화…프리미엄중심시장확대\"",
   "공정위'네이버-두나무합병초읽기'보도일축\"확정된바없어\"",
   "바지업체동원'관세0%'맥아부당확보…맥주업체54억원탈루",
-  "관세청,협력업체명의이용부당하게FTA저율관세할당물량확보한업..."
+  "관세청,협력업체명의이용부당하게FTA저율관세할당물량확보한업...",
+  "세스코,악취·얼룩유형별세정기능적용한세탁세제출시",
+  "EU,그린클레임철회추진…'친환경·탄소중립'광고규제는이미시행",
+  "테슬라'자율주행기능'기만광고논란…소비자단체,공정위신고",
+  "바지업체동원해맥아TRQ물량5천307톤부당확보…관세54억탈루",
+  "인터뷰전문:차호“한동훈,비대위원장때친한계공천…정치개혁자...",
+  "특검,중앙선관위나흘째압수수색…'투표록위조'자료확보",
+  "[경남은오늘]경상남도·창원시·김해시",
+  "6·3지방선거공소시효임박…경남단체장들'사법리스크'운명갈린다"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "특수 삼중 전쟁 벌고 10조 리스크"
   ]
  ],
- "last_run": "2026-11-05T10:21:09.596899+09:00",
+ "last_run": "2026-11-05T10:31:06.136370+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
