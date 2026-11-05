@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.finomy.com/news/articleView.html?idxno=265091",
-  "https://www.sedaily.com/article/20108046",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1335502",
-  "https://www.hankookilbo.com/news/article/A2026102918120003534?did=NA",
-  "https://www.hankyung.com/article/2026102945507",
-  "https://www.sedaily.com/article/20108047",
   "https://www.seoul.co.kr/news/society/2026/10/29/20261029500332?wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20261029_0003847318",
   "https://www.seoul.co.kr/news/society/2026/10/29/20261029500330?wlog_tag3=naver",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/economy/trend/6344019",
   "https://www.mt.co.kr/economy/2026/11/05/2026110508260440628",
   "https://www.ytn.co.kr/_ln/0102_202611051200157393",
-  "https://www.newsis.com/view/NISX20261105_0003855990"
+  "https://www.newsis.com/view/NISX20261105_0003855990",
+  "https://www.jasm.co.kr/news/view/324261/?sc=Naver",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242715",
+  "https://www.kbmaeil.com/article/20261105500399",
+  "https://www.ngonews.kr/news/articleView.html?idxno=242399",
+  "https://www.newsis.com/view/NISX20261105_0003856111",
+  "https://www.mediawatch.kr/news/article.html?no=261634"
  ],
  "seen_titles": [
-  "추위에난방가전수요급증···롯데하이마트\"전기히터매출170%↑\"",
-  "치킨한마리먹으려다가격보고멈칫…사람들냉동치킨사기시작했다",
-  "아주대병원찾은경찰지휘부,압수수색논란에유감표명",
-  "'판소리명창'왕기철전교장구속...전통예고교사채용억대뒷돈",
-  "경찰,아주대소아응급전문의집단사태부른압수수색논란사과",
-  "‘교사채용대가2억수수’…‘판소리명창’전통예중고전교장구...",
   "‘판소리명창’전국립전통예고교장구속…채용비리·뇌물혐의",
   "'소아응급실압수수색'경찰간부들병원찾아\"유감\"(종합)",
   "강호동농협중앙회장,뇌물수수혐의로세번째경찰조사",
@@ -6001,7 +5995,13 @@
   "결혼준비부터'깜깜이견적'…가격·위약금안알린웨딩업체17곳과태...",
   "스드메·예식장가격공개여부점검했더니…\"53%만공개중\"",
   "공정위,'깜깜이스드메'17곳처음과태료1,560만원부과",
-  "결혼서비스가격공개율53%…가격·위약금미표시17곳과태료"
+  "결혼서비스가격공개율53%…가격·위약금미표시17곳과태료",
+  "예식업체들'깜깜이계약'여전…53%만가격정보공개·47%는'나몰라라...",
+  "CCIA\"미국기업과징금,한국기업의'5.1배'\"",
+  "결혼비용얼마냐물어도…업체47%가격정보‘깜깜이’",
+  "예식장·결혼준비대행업체47%,가격정보'깜깜이'···예비부부피해...",
+  "美빅테크업계\"韓공정위과징금차별\"…USTR에조사요구",
+  "與,‘조작기소특검법’강행수순…국민의힘필리버스터·장외투쟁..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "특수 삼중 전쟁 벌고 10조 리스크"
   ]
  ],
- "last_run": "2026-11-05T12:10:56.127965+09:00",
+ "last_run": "2026-11-05T12:20:57.272258+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
