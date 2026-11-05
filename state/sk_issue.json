@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290178&t=NN",
-  "https://www.medigatenews.com/news/2003744132",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=621826",
-  "https://imnews.imbc.com/original/mbig/6861709_29041.html",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054403",
-  "https://biz.chosun.com/science-chosun/bio/2026/10/29/ABJG2W6FKJBN3LDVQQKLAS3VPQ/",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901331",
-  "http://news.lghellovision.net/news/articleView.html?idxno=560335",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338086",
   "https://www.koscaj.com/news/articleView.html?idxno=327247",
   "https://www.kmib.co.kr/article/20261029501621",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193950",
@@ -2999,18 +2990,18 @@
   "http://www.joseilbo.com/news/news_read.php?uid=578981&class=32",
   "https://news.tf.co.kr/read/national/2385144.htm",
   "https://www.newspim.com/news/view/20261105000586",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704643"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704643",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94801",
+  "https://www.ajunews.com/view/20261105110215411",
+  "http://www.legaltimes.co.kr/news/articleView.html?idxno=96798",
+  "https://www.mediapen.com/news/view/1135345",
+  "https://www.khan.co.kr/article/202611051109001",
+  "https://www.lawissue.co.kr/view.php?ud=2026110510571170299a8c8bf58f_12",
+  "https://www.news1.kr/society/court-prosecution/6343998",
+  "https://www.dailian.co.kr/news/view/1711156/?sc=Naver",
+  "https://www.news1.kr/society/court-prosecution/6343973"
  ],
  "seen_titles": [
-  "\"응급실압색은건국이래최초\"…경찰에거듭사과요구",
-  "경기도의사회만난김은혜의원\"아주대소아응급센터압수수색,환자...",
-  "강호동농협중앙회장세번째경찰조사…뇌물·공금유용의혹수사",
-  "[엠빅뉴스]\"응급실압수수색건국이래최초\"..아주대병원에서무슨일...",
-  "공정위,고액과징금및무단조사의혹은사실무근…법과원칙따라집...",
-  "셀트리온“공정위6.3억과징금불복…행정소송”",
-  "하도급갑질로'과징금6.3억철퇴'셀트리온…행정소송예고",
-  "'당원가입관여의혹'차석호함안군수경찰조사",
-  "'골프의혹'떳떳하다는주진우,기자질문이\"물타기\"라고?",
   "하도급대금'3중보호정책'실행력높인다",
   "신세계,롯데센텀시티점품었다…부산에세계최대‘신세계타운’",
   "사전통제냐자율규제냐…빅테크로향하는정무위칼끝",
@@ -6001,7 +5992,16 @@
   "“선관위지시로투표록'사후수정'\"특검,선관위압수수색...10여명입...",
   "국내조폭과손잡은캄보디아피싱조직…4억대사기일당검거",
   "이희동시의원\"다단계피해규모관리체계마련해야\"",
-  "“6.3지방선거수사우려”…투표록위조혐의10여명피의자로"
+  "“6.3지방선거수사우려”…투표록위조혐의10여명피의자로",
+  "악취·얼룩맞춤케어…세스코'마이랩세탁세제프리미엄'출시",
+  "CCIA\"한국공정위,美기업에더무거운과징금부과\"",
+  "[2026BestLawFirmsinKorea]법무법인KCL",
+  "[조우현의아틀라스]공정위보다로켓배송사라지는게더무섭다",
+  "민주당공천이본선좌우···전북경선여론조작167명송치",
+  "부산진서,캄보디아칸달주주식리딩방사기피싱조직10명검거…5명...",
+  "'뇌물·공금유용'혐의강호동농협회장,오늘영장청구전피의자면담",
+  "특검팀,'투표록위·변조의혹'중앙선관위연이틀압수수색",
+  "특검,중앙선관위나흘째압색…오늘은'투표록위·변조지시'의혹관..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "특수 삼중 전쟁 벌고 10조 리스크"
   ]
  ],
- "last_run": "2026-11-05T11:01:13.689322+09:00",
+ "last_run": "2026-11-05T11:10:58.941570+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
