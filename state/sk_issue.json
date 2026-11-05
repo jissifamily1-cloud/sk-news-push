@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=621808",
-  "https://www.newsis.com/view/NISX20261029_0003846929",
-  "https://www.updownnews.co.kr/news/articleView.html?idxno=319360",
-  "https://www.joongangenews.com/news/articleView.html?idxno=559679",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=138918",
   "https://www.newsis.com/view/NISX20261029_0003846902",
   "https://www.imaeil.com/page/view/2026102914063405093",
   "https://www.yna.co.kr/view/AKR20261029165400017?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704568",
   "https://www.gokorea.kr/news/articleView.html?idxno=884180",
   "https://www.esgeconomy.com/news/articleView.html?idxno=17242",
-  "https://hbnpress.com/news/view/1065571780819937"
+  "https://hbnpress.com/news/view/1065571780819937",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831269&plink=ORI&cooper=NAVER",
+  "https://biz.chosun.com/topics/law_firm/2026/11/05/EEUOHUC6N5F27B7NIMM5PC2PF4/",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=942162",
+  "http://www.ggmedinews.com/news/articleView.html?idxno=6997",
+  "https://view.asiae.co.kr/article/2026110509260805360"
  ],
  "seen_titles": [
-  "셀트리온,진단키트위탁부당취소…과징금6억3000만원",
-  "檢미래위회의시작…조사단,'李대통령위례등사건'보완조사보고",
-  "롯데하이마트,급증한난방가전수요잡는다…히터·카본매트·가습기...",
-  "셀트리온,공정위과징금6억3000만원불복…\"행정소송제기\"",
-  "셀트리온,진단키트위탁취소·계약서미발급등으로공정위제재...과...",
   "1354억과징금뒤집혔던라면담합…'2라운드'는정보교환이변수",
   "\"농협,지방금고70%장악…공정위독과점기준초과\"",
   "셀트리온,6.3억원과징금에\"소명필요…행정소송진행\"",
@@ -6001,7 +5996,12 @@
   "[전격시사]신지호전국회의원-“부정선거‘올공정치’늪에빠져...",
   "투표록위조와459억입찰비리의혹,중앙선관위의충격적수사결과는",
   "[해외브리핑]선진국기후적응지원,개도국필요액의10분의1도안돼",
-  "강호동농협중앙회장구속영장신청...농협법개정안여당주도국회소..."
+  "강호동농협중앙회장구속영장신청...농협법개정안여당주도국회소...",
+  "[친절한경제]지금이'줍줍'기회?…금값하락에금ETF사는개미들",
+  "법무법인태평양,경제·데이터분석센터확대출범…공정거래대응강...",
+  "野\"수사방식이다른아이생명위협하면안돼\"",
+  "필수의료수사가이드라인마련…\"강제수사제한기준더명확해야\"",
+  "檢수사권뺏더니특검엔예외?…민주당‘조작기소특검’모순논란"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "특수 삼중 전쟁 벌고 10조 리스크"
   ]
  ],
- "last_run": "2026-11-05T09:31:04.058349+09:00",
+ "last_run": "2026-11-05T09:40:57.392922+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
