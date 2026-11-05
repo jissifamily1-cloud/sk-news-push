@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000343060?division=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6861842_37012.html",
-  "https://www.labortoday.co.kr/news/articleView.html?idxno=237489",
-  "https://www.greened.kr/news/articleView.html?idxno=353433",
   "https://www.dailian.co.kr/news/view/1708451/?sc=Naver",
   "http://www.inews24.com/view/2020503",
   "https://www.nocutnews.co.kr/news/6599413",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/local/sejong-chungbuk/6344387",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704890",
   "https://www.newsis.com/view/NISX20261105_0003855690",
-  "http://www.srtimes.kr/news/articleView.html?idxno=216825"
+  "http://www.srtimes.kr/news/articleView.html?idxno=216825",
+  "https://www.tjb.co.kr/news05/bodo/view/id/105727",
+  "https://www.segye.com/newsView/20261105510448?OutUrl=naver",
+  "http://www.4th.kr/news/articleView.html?idxno=2121235",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040016"
  ],
  "seen_titles": [
-  "\"응급실압수수색은건국이래최초\"의협",
-  "'김건희명품백전달'김기현부부‥오늘1심",
-  "쿠팡,표준계약서엔없는'프레시백업무'부속합의서로강요?",
-  "비케이홀딩스,새투자자도한계기업인맥…반복된투자손상이력④",
   "물통은6L인데,끓는물은150mL…위닉스가택한'안전가습'[체험기]",
   "[사이드B]4년전삼성'GOS'⋯201억과징금왜이제나왔나",
   "롯데케미칼-여천NCC결합지지부진…통합법인출범언제쯤",
@@ -6001,7 +5997,11 @@
   "신용한충북지사\"불법선거동기도,지시도없어…도정전념\"",
   "스드메·예식장업체절반만가격정보공개…47%는아직도깜깜이",
   "[단독]중수청보이스피싱합수과,경찰인력이탈조짐…수사동력약화...",
-  "태광품에안긴애경산업,적자전환…인수효과'시험대'"
+  "태광품에안긴애경산업,적자전환…인수효과'시험대'",
+  "결혼업체절반,아직도정보공개'깜깜이'…17곳과태료",
+  "‘사격점수높이려고’…훈련용실탄3발빼돌린경찰관송치",
+  "'1억원대뇌물의혹'강호동농협중앙회장공소청면담출석",
+  "여'조작기소특검법'본회의상정…야필리버스터"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "품에 안긴 시험대 태광 인수 적자 애경산업 효과"
   ]
  ],
- "last_run": "2026-11-05T15:31:06.564327+09:00",
+ "last_run": "2026-11-05T15:40:59.545519+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
