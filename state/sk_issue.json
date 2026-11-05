@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=241954",
   "https://news.mtn.co.kr/article/2026103011382386085",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4442186",
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171521",
@@ -2999,10 +2998,10 @@
   "https://www.hankookilbo.com/news/article/A2026110517200002156?did=NA",
   "https://www.edaily.co.kr/News/Read?newsId=06989686645642768&mediaCodeNo=257",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=880104",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=818237"
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=818237",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261106.22019001894"
  ],
  "seen_titles": [
-  "신세계면세점친인척특혜의혹…경실련,국세청조사·공정위검증요...",
   "[단독]'호카'조이웍스앤코,'온길넥스트'로사명바꾼다",
   "신세계,이웃롯데百센텀시티점인수…인수가격2천억원안팎에무게",
   "의료진사법공포에멈춰선응급실...\"경찰수사지침제시해라\"",
@@ -6001,7 +6000,8 @@
   "尹정부'공정위조사방해'기소된화물연대...1심무죄→2심유죄",
   "'제식구감싸기'오동운공수처장1심징역1년구형…1월선고(종합)",
   "다나와\"가습기거래액최근한달간거래액279%증가\"",
-  "[심층]세번밀린네이버-두나무빅딜…'합병시계'어디까지왔나"
+  "[심층]세번밀린네이버-두나무빅딜…'합병시계'어디까지왔나",
+  "[시사난장]감시자는누가감시하는가"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "품에 안긴 시험대 태광 인수 적자 애경산업 효과"
   ]
  ],
- "last_run": "2026-11-05T19:31:10.339344+09:00",
+ "last_run": "2026-11-05T19:40:54.490153+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
