@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202610142216015",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000022655&cp=nv",
   "https://news.ifm.kr/news/articleView.html?idxno=480793",
   "https://www.newsis.com/view/NISX20261002_0003812884",
@@ -2999,10 +2998,10 @@
   "http://www.econotelling.com/news/articleView.html?idxno=21578",
   "https://www.vegannews.co.kr/news/article.html?no=400916",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080055",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107752"
+  "http://www.00news.co.kr/news/articleView.html?idxno=107752",
+  "https://chmbc.co.kr/article/14127171"
  ],
  "seen_titles": [
-  "㈜한화,이사회의장에독립이사선임",
   "최태원SK지분5440억원인수자는델창업자일가펀드",
   "코스피박스권장세에도…반도체소부장-건설중소형주탄력",
   "반도체부지광주군공항,숲품은첨단도시로",
@@ -6001,7 +6000,8 @@
   "신한라이프,외부인사3명소비자권익보호위위원으로위촉",
   "최태원,SK하이닉스美AI법인HYAICO의장",
   "SKT,미AIDC업체'펭귄솔루션스'지분전량'SK하이닉스'로",
-  "[산업콕!]삼전닉스日에공들이는이유"
+  "[산업콕!]삼전닉스日에공들이는이유",
+  "행감,수의계약'부적정의혹'과관급계약'외지편중'질타"
  ],
  "recent_sigs": [
   [
@@ -6073,7 +6073,7 @@
    "삼전닉스 이유 공들이는"
   ]
  ],
- "last_run": "2026-11-05T13:40:35.404568+09:00",
+ "last_run": "2026-11-05T13:50:25.104400+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
