@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261030053100013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261030053000013?input=1196m",
-  "https://www.medigatenews.com/news/2418372041",
-  "https://www.newsis.com/view/NISI20261030_0021511313",
-  "https://www.newsis.com/view/NISI20261030_0021511314",
-  "https://www.newsis.com/view/NISI20261030_0021511315",
   "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167025",
   "https://medicalworldnews.co.kr/news/view.php?idx=1510978173",
   "http://www.newsmp.com/news/articleView.html?idxno=259015",
@@ -2999,15 +2993,15 @@
   "https://www.newdaily.co.kr/site/data/html/2026/11/05/2026110500300.html",
   "https://www.hankookilbo.com/news/article/A2026110514000000554?did=NA",
   "https://www.mt.co.kr/society/2026/11/05/2026110514173551393",
-  "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026110500071&story_seq=0&soCode=114&socttSn=NS2026110500071&socttSeq=0"
+  "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026110500071&story_seq=0&soCode=114&socttSn=NS2026110500071&socttSeq=0",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080365",
+  "http://www.newsprime.co.kr/news/article.html?no=753902",
+  "https://www.yna.co.kr/view/AKR20261105153600063?input=1195m",
+  "https://www.hankookilbo.com/news/article/A2026110516160004375?did=NA",
+  "https://www.kado.net/news/articleView.html?idxno=2082937",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282116&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "회견문읽는김도균소아전문응급의료센터협의회장",
-  "회견문읽는류정민대한소아응급의학회장",
-  "환자단체도경찰사과촉구…\"소아응급실은범죄현장아니야\"",
-  "'착잡한마음'",
-  "눈물흘리는이지숙아주대병원소아전문응급의료센터장",
-  "소아응급실압수수색규탄및진료권보호촉구긴급기자회견",
   "'압수수색사태'에눈시울붉힌의사\"최소한의안전지켜달라\"",
   "대한소아응급의학회·전국소아전문응급의료센터협의회긴급기자회견...",
   "의협,경찰청앞릴레이1인시위돌입\"소아응급실압수수색은진료방...",
@@ -6001,7 +5995,13 @@
   "사격점수높이려실탄3발빼돌린경찰관…불구속송치",
   "민주당경선여론조사서허위응답…전북경찰167명송치",
   "채해병특검,오동운공수처장징역1년구형…\"권력형범죄감싸\"",
-  "공소청출범한달...늘어난영장반려·보완수사요구"
+  "공소청출범한달...늘어난영장반려·보완수사요구",
+  "[신아일보tv]예비부부울리는깜깜이계약",
+  "[맥락재구성]법원은'불확정계약'…공정위로간테슬라FSD광고",
+  "경찰,계룡시관급공사정보이용해수수료챙긴브로커구속",
+  "특검,오동운공수처장징역1년구형...\"수사하랬더니수사막아\"",
+  "세브란스병원교수흉기피습에의료계\"땜질식대응아닌대책필요\"",
+  "특검,'제식구감싼'혐의오동운공수처장징역1년구형"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "품에 안긴 시험대 태광 인수 적자 애경산업 효과"
   ]
  ],
- "last_run": "2026-11-05T17:01:17.776635+09:00",
+ "last_run": "2026-11-05T17:11:01.604339+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
