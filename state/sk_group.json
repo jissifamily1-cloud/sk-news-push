@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/113435",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=361847",
-  "https://www.ddaily.co.kr/page/view/2026110414062694125",
-  "https://dealsite.co.kr/articles/172056",
-  "https://www.biospectator.com/view/news_view.php?varAtcId=30297",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611040957085840536",
   "http://www.newskr.kr/news/articleView.html?idxno=107700",
   "https://www.g-enews.com/view.php?ud=202611041415523850139bf6e4b2_1",
@@ -2999,14 +2994,14 @@
   "http://www.inews24.com/view/2023214",
   "https://www.yna.co.kr/view/AKR20261105138800530?input=1195m",
   "https://www.khan.co.kr/article/202611060600051",
-  "https://www.news1.kr/finance/general-stock/6344772"
+  "https://www.news1.kr/finance/general-stock/6344772",
+  "https://www.yna.co.kr/view/AKR20261105181600007?input=1195m",
+  "https://www.news1.kr/bio/pharmaceutical-bio/6344458",
+  "https://www.yna.co.kr/view/AKR20261105181900007?input=1195m",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80536",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6863573_37012.html"
  ],
  "seen_titles": [
-  "인천시,송도서제약바이오투자·수출연결망확대…국내외70개사상...",
-  "[2026뉴스핌주거대상]스마트주거기술상에삼성물산...\"홈닉,주거불...",
-  "울산시,AI데이터센터관련기업유치나서…최대120억원지원",
-  "프로농구신인드래프트순위추첨9일실시⋯8개구단경쟁",
-  "리얼월드,김민정신임최고운영책임자선임",
   "SK하이닉스뉴욕공장못짓나…\"중국에미국산장비반입보류\"",
   "SK이터닉스6%대급등,3만8450원…미국민주당중간선거승리전망에신...",
   "코스피,美중간선거경계감에3%대하락전환",
@@ -6001,7 +5996,12 @@
   "LG엔솔,3차ESS입찰왜빠졌나…출혈경쟁에수익성부담",
   "교육부,'첨단분야글로벌교육과정'성과교류회",
   "가습기살균제참사15년,피해자들“‘유령취급’그만…행복되찾고...",
-  "'블루웨이브'에꺾인반도체주…\"AI성장유효,조정거쳐반등할것\""
+  "'블루웨이브'에꺾인반도체주…\"AI성장유효,조정거쳐반등할것\"",
+  "◇오늘의경기(6일)",
+  "SK바이오팜'세노바메이트'美월평균처방첫5만건돌파…매출성장...",
+  "◇내일의경기(7·8일)",
+  "돈은흩어지고규제는막히고…바이오대혁신,해법은'연결ㆍ연합'",
+  "'푸른쓰나미'에증시급락‥반도체주새시험대"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,25 @@
   [
    "2026-11-06T06:11:09.698365+09:00",
    "성장 반등할 블루웨이브 조정 반도체주 거쳐 유효 AI 꺾인"
+  ],
+  [
+   "2026-11-06T06:21:03.786331+09:00",
+   "매출 성장 돌파 월평균 SK바이오팜 처방 세노바메이트 5만"
+  ],
+  [
+   "2026-11-06T06:21:03.786331+09:00",
+   "경기 8일 내일의"
+  ],
+  [
+   "2026-11-06T06:21:03.786331+09:00",
+   "규제는 바이오 흩어지고 연합 대혁신 막히고 해법은 돈은 연결"
+  ],
+  [
+   "2026-11-06T06:21:03.786331+09:00",
+   "쓰나미 급락 반도체주 시험대 푸른 증시"
   ]
  ],
- "last_run": "2026-11-06T06:12:01.077729+09:00",
+ "last_run": "2026-11-06T06:21:17.645460+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
