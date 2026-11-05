@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000062534",
-  "https://biz.sbs.co.kr/article_hub/20000332828?division=NAVER",
   "https://biz.chosun.com/industry/business-venture/2026/09/04/AGFSXXTDPZFWPMA4GC2U57EGLE/",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483777",
   "https://www.news1.kr/industry/sb-founded/6279743",
@@ -2999,11 +2997,11 @@
   "https://www.tournews21.com/news/articleView.html?idxno=147664",
   "https://biz.sbs.co.kr/article_hub/20000344604?division=NAVER",
   "https://biz.chosun.com/industry/company/2026/11/05/EG5OOJQ6QZBBZC5HDGRIDELNSA/",
-  "https://www.seoultimes.news/news/article.html?no=2000101853"
+  "https://www.seoultimes.news/news/article.html?no=2000101853",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/05/2026110590304.html",
+  "https://www.mk.co.kr/article/12198909"
  ],
  "seen_titles": [
-  "한복입은김희영,최태원과나란히…안경고쳐쓴이재용앞엔젠슨황...",
-  "최태원동거인김희영,뉴욕기업무대등장…재산분할후첫동행",
   "\"최태원동거인간첩\"이라더니…'배터리아저씨'또실형구형",
   "메모리너머기억으로…예술로쌓는‘無言의신뢰’[조상인의미담]",
   "최태원회장동거인'중국간첩설'유튜버…항소심도징역8개월구형",
@@ -6001,7 +5999,9 @@
   "최태원\"AI·G2패권이중파고…한국,새로운성장공식찾아야\"",
   "최태원\"美선거에증시요동…롤러코스터계속\"",
   "최태원“메가프로젝트에2100조투자...정상적인계획인가싶었다”",
-  "최태원SK회장“AI혁명·미중패권경쟁에한국경제성장방식바꿔..."
+  "최태원SK회장“AI혁명·미중패권경쟁에한국경제성장방식바꿔...",
+  "최태원\"2100조투자발표,이렇게해도되나싶었다…증시롤러코스터는...",
+  "“내일은더행복해질거란자신감가져라”…최태원SK그룹회장서울..."
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,13 @@
   [
    "2026-11-05T20:10:15.447984+09:00",
    "인센티브 개편 지적 피해 규제 멈추는 제안 성장 기업"
+  ],
+  [
+   "2026-11-05T20:30:26.439733+09:00",
+   "회장 가져라 내일은 행복해질 거란 자신감 서울"
   ]
  ],
- "last_run": "2026-11-05T20:20:24.871303+09:00",
+ "last_run": "2026-11-05T20:30:38.023553+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
