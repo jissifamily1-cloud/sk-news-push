@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193950",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261029173830mTp",
-  "https://www.nocutnews.co.kr/news/6599419",
-  "https://www.fnnews.com/news/202610291723160824",
-  "https://www.smartbizn.com/news/articleView.html?idxno=157947",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010644",
-  "https://news.tf.co.kr/read/life/2382703.htm",
   "https://www.kmib.co.kr/article/20261029502018",
   "https://www.ppss.kr/news/articleView.html?idxno=317870",
   "https://www.hankyung.com/article/2026102944111",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1711156/?sc=Naver",
   "https://www.news1.kr/society/court-prosecution/6343973",
   "https://biz.heraldcorp.com/article/10926864",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1542743"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1542743",
+  "https://www.cstimes.com/news/articleView.html?idxno=726749",
+  "https://www.news1.kr/it-science/cc-newmedia/6343940",
+  "https://www.donga.com/news/Inter/article/all/20261105/134970520/2",
+  "https://biz.heraldcorp.com/article/10926907",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=767679",
+  "https://www.yna.co.kr/view/AKR20261105083300001?input=1195m",
+  "https://realty.chosun.com/site/data/html_dir/2026/11/05/2026110501369.html"
  ],
  "seen_titles": [
-  "사전통제냐자율규제냐…빅테크로향하는정무위칼끝",
-  "의협\"응급실압수수색,건국이래최초\"…경찰에재차사과촉구",
-  "의협\"응급실압수수색건국이래처음\"…경찰에사과요구",
-  "강호동농협중앙회장,10일만에경찰재출석…세번째소환",
-  "셀트리온,공정위과징금6억3000만제재에반발…행정소송추진",
-  "'66만아이들어쩌나'…아주대소아전문의7명사의표명파장",
-  "'올공'넘은선관위특검수사갈길먼데…인력난에발목",
   "“귀신쫓겠다”…친동생때려숨지게한부부",
   "증권선물위원회,유상증자미공개정보이용자적발...12억5000만원부당...",
   "아주대병원집단사의에,경찰간부들병원찾았다",
@@ -6001,7 +5994,14 @@
   "특검팀,'투표록위·변조의혹'중앙선관위연이틀압수수색",
   "특검,중앙선관위나흘째압색…오늘은'투표록위·변조지시'의혹관...",
   "‘한달사이두번’뒤바뀌는한진칼최대주주‘쟁탈전’",
-  "특검,중앙선관위나흘째압수수색…관련자료확보"
+  "특검,중앙선관위나흘째압수수색…관련자료확보",
+  "테슬라,FSD기만적표시·과장광고의혹…소비자단체,공정위신고",
+  "쿠팡빼도차별심하네…\"공정위,美기업에과징금5.1배부과\"",
+  "美IT업계“한국공정위과징금불균형”…USTR에의견서제출",
+  "TPG,롯데렌탈인수3개월만에성료…에쿼티·인수금융병행",
+  "\"고수익보장\"속여4억챙겼다…캄보디아피싱조직10명검거",
+  "與\"조작기소특검,권력남용규명…국힘,막무가내식억지\"",
+  "\"재개발보상금563억내놔!\"화염병까지던진'교회알박기'의결말"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "특수 삼중 전쟁 벌고 10조 리스크"
   ]
  ],
- "last_run": "2026-11-05T11:20:54.637112+09:00",
+ "last_run": "2026-11-05T11:31:16.238498+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
