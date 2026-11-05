@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261030000475",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=511438",
-  "https://www.m-i.kr/news/articleView.html?idxno=2012397",
-  "https://www.kukinews.com/article/view/kuk202610300057",
-  "https://www.newsis.com/view/NISX20261030_0003848160",
-  "https://www.newsis.com/view/NISI20261030_0021511390",
-  "http://www.medisobizanews.com/news/articleView.html?idxno=143796",
-  "https://view.asiae.co.kr/article/2026103011110140684",
   "https://www.cfnews.kr/news/article.html?no=113248",
   "https://www.khan.co.kr/article/202610301122001",
   "https://www.ktv.go.kr/content/view?content_id=763236",
@@ -2999,17 +2991,17 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20261105172710bww",
   "http://www.newstomato.com/ReadNews.aspx?no=1319449&inflow=N",
   "https://www.dynews.co.kr/news/articleView.html?idxno=872691",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=872741"
+  "https://www.dynews.co.kr/news/articleView.html?idxno=872741",
+  "https://www.mt.co.kr/industry/2026/11/05/2026110515021716548",
+  "https://zdnet.co.kr/view/?no=20261105165249",
+  "https://www.hankyung.com/article/2026110590997",
+  "https://www.newsis.com/view/NISX20261105_0003856918",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2449998",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=513460",
+  "https://www.kyeonggi.com/article/20261105580488",
+  "https://news.jtbc.co.kr/article/NB12326683?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "소아응급의학회\"응급실압수수색제한해야…필수의료보호수사지침촉...",
-  "한블록앞두백화점17년세월...결국신세계가롯데인수",
-  "소아응급의학회,응급실압수수색규탄…경찰수사가이드라인촉구",
-  "“응급실압수수색원칙적제한”…소아응급의료계,수사기준제시",
-  "누범기간또빈집털이,1100만원상당훔친40대구속",
-  "김택우의협회장,소아응급센터압수수색규탄1인시위",
-  "의협회장,\"소아응급센터강압압수수색책임물을것\"",
-  "\"응급실·중환자실압수수색제한해야\"…수사가이드라인공개촉구",
   "법무법인세담,귀한족발점주공동소송추진…공정위제재이어차액가...",
   "미소비자단체“쿠팡제재는‘미국기업차별’아니다”",
   "증시하락에'4대기금'3.8조손실?[정책바로보기]",
@@ -6001,7 +5993,15 @@
   "계룡관급공사알선·수수료챙긴브로커구속",
   "'응급실압수수색'제한지침에의료계·환자'우려'",
   "신용한충북지사\"불명예스러운일없을것\"",
-  "충남교육감선거개입의혹현직교원등3명송치"
+  "충남교육감선거개입의혹현직교원등3명송치",
+  "발뮤다,감성·디지털경험더한기화식가습기신모델'레인'출시",
+  "라면값내리고과자값올리고…식품사가격결정'진퇴양난'",
+  "쿠팡·공정위,10년치자료제출놓고법정공방",
+  "중수청,선관위특검파견요청에\"1명만가능\"…정년앞둔인력",
+  "신용한충북도지사,경찰수사관련\"불명예스러운일없을것\"",
+  "수사·기소분리한달곳곳서병목…경찰·중수청·공소청일제히불만...",
+  "의료진줄사직에경찰유감표명까지…'사상초유'응급실압수수색",
+  "중수청,선관위특검파견요청에\"1명만\"...이틀째압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "품에 안긴 시험대 태광 인수 적자 애경산업 효과"
   ]
  ],
- "last_run": "2026-11-05T17:31:11.852821+09:00",
+ "last_run": "2026-11-05T17:41:00.123332+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
