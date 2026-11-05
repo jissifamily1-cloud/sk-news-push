@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712330",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=70978",
-  "https://www.greened.kr/news/articleView.html?idxno=351419",
-  "https://www.bloter.net/news/articleView.html?idxno=675036",
-  "https://www.chosun.com/national/obituary-personnel/2026/09/05/7BE5WG5STFFBBAHYVGDM55GU2E/",
-  "https://www.news2day.co.kr/article/20260904500068",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446464",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245460",
   "http://www.ddanzi.com/893686309",
   "http://www.4th.kr/news/articleView.html?idxno=2117544",
   "https://www.sedaily.com/article/20087350",
@@ -2999,17 +2991,17 @@
   "https://www.segye.com/newsView/20261105519334?OutUrl=naver",
   "https://www.greened.kr/news/articleView.html?idxno=353991",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553678098",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000080147"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000080147",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247249",
+  "http://san.chosun.com/news/articleView.html?idxno=26280",
+  "https://www.slist.kr/news/articleView.html?idxno=779403",
+  "https://biz.sbs.co.kr/article_hub/20000344625?division=NAVER",
+  "https://www.ceoscoredaily.com/page/view/2026110511054249561",
+  "https://www.insight.co.kr/news/580864",
+  "https://www.newscj.com/news/articleView.html?idxno=3446402",
+  "https://weekly.donga.com/3/all/11/6447922/1"
  ],
  "seen_titles": [
-  "재산분할'9440억'최태원회장어쩌나…'SK㈜주가하락'지분매각변...",
-  "최태원\"AI시대리더정의달라져…AI가할수없는일해야\"",
-  "전남광주통합특별시,반도체국가산단추진…국토부장관군공항현장...",
-  "삼성·SK투자물꼬…호남반도체생태계확장본격화",
-  "김해시,기후변화대응'블루베리재배기술교육'성료…고품질생산...",
-  "[2026국감]올해빠지나했는데…증인추가채택움직임에재계긴장",
-  "사충서원300주년…신임사화사대신·초상화재조명",
-  "헨켈,SEDEX2026서AI·HBM시대위한첨단패키징소재솔루션선보여",
   "[충남24시]충남도의회'충남형문화관광대전환'첫걸음…연구모임,...",
   "\"여권없이오간다\"최태원'한일경제공동체'日도주목",
   "[재계인사이드]“어쩌면마지막...”SK하이닉스의‘특별한가을’",
@@ -6001,7 +5993,15 @@
   "최태원“2100조투자발표,이렇게해도되나생각”",
   "최태원회장,서울대특강'AI시대,세계경제패러다임변화와대한민...",
   "'쇼트트랙전설'최민정출전!ISU월드투어3차대회서울서개최",
-  "최태원\"2100조원투자할것,AI경쟁에선대규모투자필요\""
+  "최태원\"2100조원투자할것,AI경쟁에선대규모투자필요\"",
+  "[오늘의주요일정·6일]최태원내연녀중국간첩설주장유튜버항소심...",
+  "산이좋아머문자리'K-마운틴'희망을품다[화제인물파타고니아영...",
+  "최태원\"2100조투자,나도정상인가싶었다…AI경쟁에베팅불가피\"",
+  "최태원\"증시롤러코스터계속…돈너무많이풀렸다\"",
+  "최태원,SK글로벌AI투자직접챙긴다…13조실탄,‘HYAICO코퍼레이션...",
+  "최태원\"반도체에돈한꺼번에몰렸다...롤러코스터장세계속\"",
+  "[천지일보이슈종합]美중간선거민주당압승·한국경제파장·청해부...",
+  "삼성·SK경영진,‘깜짝방한’샘올트먼잇달아만나"
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,21 @@
   [
    "2026-11-06T07:00:31.698734+09:00",
    "필요 경쟁에선 AI 투자 투자할 2100조원 대규모"
+  ],
+  [
+   "2026-11-06T07:10:16.433445+09:00",
+   "롤러코스터 한꺼번에 계속 장세 반도체에 몰렸다"
+  ],
+  [
+   "2026-11-06T07:10:16.433445+09:00",
+   "청해부 한국 파장 압승 중간선거 경제 민주당"
+  ],
+  [
+   "2026-11-06T07:10:16.433445+09:00",
+   "깜짝 경영진 잇달아 만나 삼성 방한 올트먼"
   ]
  ],
- "last_run": "2026-11-06T07:00:43.236875+09:00",
+ "last_run": "2026-11-06T07:10:32.198174+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
