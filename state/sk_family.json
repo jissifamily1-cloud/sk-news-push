@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202609041025587930daecd3dad5_1",
-  "https://www.usmbc.co.kr/NewsArticle/860406",
-  "https://www.usmbc.co.kr/NewsArticle/860410",
-  "https://www.nongmin.com/article/20261014500463",
-  "https://www.siminsori.com/news/articleView.html?idxno=401871",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=812792",
-  "https://biz.heraldcorp.com/article/10893211",
   "https://www.news1.kr/local/gwangju-jeonnam/6310439",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000070911",
   "https://www.yna.co.kr/view/AKR20261005026200054?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.munhwa.com/article/11629147",
   "https://www.etoday.co.kr/news/view/2644800",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=324971",
-  "https://www.newspim.com/news/view/20261105001500"
+  "https://www.newspim.com/news/view/20261105001500",
+  "https://www.dailian.co.kr/news/view/1711493/?sc=Naver",
+  "https://www.dailian.co.kr/news/view/1711496/?sc=Naver",
+  "https://news.mtn.co.kr/article/2026110519533478817",
+  "https://www.apnews.kr/news/articleView.html?idxno=3052847",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=210947",
+  "https://www.sedaily.com/article/20110913",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1422380"
  ],
  "seen_titles": [
-  "“중복상장안막나”문자폭탄…힘빠진코스피,與악재됐다",
-  "[솔리다임분석]①\"쪼개기상장\"통념깬다…20년치미래고점선점할...",
-  "AI메모리수요급증에반도체팹건설속도전",
-  "최태원SK회장\"AI시대의리더,AI가할수없는일을해야\"",
-  "홍지선국토부장관,광주반도체국가산단점검…\"부지적기공급\"",
-  "국토부장관군공항점검…'광주반도체팹'기반시설구축속도",
-  "\"하루만에13억수익났는데\"…하이닉스49억투자한회장의반전",
   "민형배시장,홍지선국토부장관방문에\"이제실제착공으로보여드릴...",
   "김희영충남도의원\"학교담장넘어야청소년미래열린다\"…공교육혁...",
   "김희영용인특례시의원발의장사시설조례개정안통과…관내요금기...",
@@ -6001,13 +5994,16 @@
   "[속보]최태원“유동성너무…롤러코스터시장계속”",
   "최태원\"기존경제모형붕괴,AI네이티브국가로도약해야\"",
   "서울대강단에선최태원이던진'AI생존방정식'",
-  "최태원\"증시는롤러코스터지만…AI투자멈추면경쟁에서뒤처진다\""
+  "최태원\"증시는롤러코스터지만…AI투자멈추면경쟁에서뒤처진다\"",
+  "최태원,美중간선거뒤증시급락에\"도대체그게말이되냐\"[현장]",
+  "최태원\"미중간선거결과에증시요동…과잉유동성때문\"",
+  "최태원\"美중간선거에증시요동…롤러코스터장세계속될것\"",
+  "서울대생만난최태원\"韓경제,G2패권·AI혁명직면\"…4대해법제시",
+  "최태원,서울대특강서\"AI네이티브국가로도약해야\"",
+  "서울대강단선최태원…“AI시대복합위기,‘4대해법’으로뚫자”",
+  "최태원\"韓·日경제묶으면파급력3배이상\""
  ],
  "recent_sigs": [
-  [
-   "2026-11-05T14:00:33.782629+09:00",
-   "돋아 제이블랙 소름 다듬은 디테일 이수만이 발차기 아이찡"
-  ],
   [
    "2026-11-05T15:24:56.906113+09:00",
    "상원의원 유력주자 대선 지한파 부상 오소프"
@@ -6147,9 +6143,17 @@
   [
    "2026-11-05T19:50:16.005148+09:00",
    "뒤처진다 투자 롤러코스터지만 AI 경쟁에서 멈추면 증시는"
+  ],
+  [
+   "2026-11-05T20:00:37.089922+09:00",
+   "AI시대 복합 해법 강단 위기 뚫자 4대 으로 서울대"
+  ],
+  [
+   "2026-11-05T20:00:37.089922+09:00",
+   "파급력 묶으면 3배 경제 이상"
   ]
  ],
- "last_run": "2026-11-05T19:50:35.181973+09:00",
+ "last_run": "2026-11-05T20:00:51.747690+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
