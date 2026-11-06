@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557630",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080860",
-  "http://www.yonhapnewstv.co.kr/news/AKR202610301626507lb",
-  "https://www.ytn.co.kr/_ln/0103_202610301627311455",
-  "https://www.hankyung.com/article/2026103066127",
-  "http://www.inews24.com/view/2021020",
   "https://www.newspim.com/news/view/20261030001156",
   "https://www.newsis.com/view/NISX20261030_0003848770",
   "http://www.newslock.co.kr/news/articleView.html?idxno=139028",
@@ -2999,15 +2993,15 @@
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4117041",
   "https://www.busan.com/view/busan/view.php?code=2026110610170657783",
   "https://www.newsis.com/view/NISX20261106_0003857508",
-  "https://www.dailian.co.kr/news/view/1711657/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1711657/?sc=Naver",
+  "https://www.etnews.com/20261106000113",
+  "https://www.betanews.net/article/view/beta202611060068",
+  "https://www.nocutnews.co.kr/news/6603124",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=285196",
+  "https://www.ytn.co.kr/_ln/0101_202611061014584201",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705705"
  ],
  "seen_titles": [
-  "[속보]특검,‘선거장비납품비리’중앙선관위직원들주거지압수수...",
-  "의협1인시위\"응급의료현장강제수사규탄\"",
-  "'사전선거운동혐의'경남양산시장측근,야산서숨진채발견",
-  "[속보]선관위특검,'납품비리'중앙선관위등압수수색",
-  "[속보]특검,'선거장비납품비리'중앙선관위직원들주거지압수수색",
-  "[속보]'사전선거운동혐의'양산시장정무특보,야산에서숨진채발견",
   "[속보]선관위특검,중앙선관위압수수색…'선거장비납품비리'의혹",
   "[속보]특검,중앙선관위등압수수색…선거장비납품비리의혹",
   "마니커,246억육계담합과징금취소판결…공정위제재뒤집힌이유는",
@@ -6001,7 +5995,13 @@
   "독과점기업'가격꼼수'제동…공정위,시장지배력남용규제강화",
   "공정위,독과점사업자가격폭리·사업활동방해등제재",
   "독과점기업,원가보다과도하게비싸면제재…공정위25년만에규정손...",
-  "25년만에독과점규제손질…부당한가격유지도제재"
+  "25년만에독과점규제손질…부당한가격유지도제재",
+  "GS샵,디자인·공간활용도높인'오브제형가전'으로겨울수요공략",
+  "\"새총인줄알고샀는데\"…치명적살상력숨긴불법'석궁슬링샷'유통...",
+  "서정욱\"오장한석서로적대적,어떤보수연대도없을것\"[뉴스락]",
+  "농협중앙회장비리의혹은전통?역대농협중앙회장잔혹사",
+  "'블루쓰나미'증시강타...코스피'검은금요일'[뉴스퀘어10]",
+  "경남도특사경‘자동차불법정비업체’집중단속"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "캐피털사 업계 경쟁 렌터카 늘려 낮춘다는데 가격 확대에 사업 반발"
   ]
  ],
- "last_run": "2026-11-06T10:20:56.003875+09:00",
+ "last_run": "2026-11-06T10:31:05.623237+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
