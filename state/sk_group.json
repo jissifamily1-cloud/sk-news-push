@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10926983",
-  "http://www.press9.kr/news/articleView.html?idxno=85661",
-  "https://www.wikitree.co.kr/articles/1172050",
-  "https://www.munhwa.com/article/11629040",
-  "https://www.etoday.co.kr/news/view/2644576",
-  "https://www.munhwa.com/article/11629031",
-  "https://www.newscj.com/news/articleView.html?idxno=3446140",
-  "https://www.livebiz.today/news/articleView.html?idxno=206239",
-  "https://www.newstnt.com/news/articleView.html?idxno=726870",
-  "https://cn.asiatoday.co.kr/view.php?key=20261105001126091",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=210668",
   "https://www.ekn.kr/web/view.php?key=20261105020365764",
   "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244973",
   "http://www.breaknews.com/1248590",
@@ -2999,20 +2988,20 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16270318",
   "https://www.yna.co.kr/view/AKR20261106186851007?input=1195m",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834774&plink=ORI&cooper=NAVER",
-  "https://www.bzeronews.com/news/articleView.html?idxno=824967"
+  "https://www.bzeronews.com/news/articleView.html?idxno=824967",
+  "https://sports.khan.co.kr/article/202611062147003?pt=nv",
+  "https://m.sports.naver.com/basketball/article/065/0000304152",
+  "https://m.sports.naver.com/basketball/article/065/0000304151",
+  "https://www.vegannews.co.kr/news/article.html?no=401451",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=624244",
+  "https://biz.heraldcorp.com/article/10928733",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=624099",
+  "https://www.joongang.co.kr/article/25476454",
+  "https://www.joongang.co.kr/article/25476457",
+  "https://www.newsis.com/view/NISX20261106_0003858591",
+  "https://www.kukinews.com/article/view/kuk202611060207"
  ],
  "seen_titles": [
-  "산일전기3분기실적주춤…SK증권\"분기최대수주에주목\"",
-  "증시덮친'블루웨이브'쇼크…데이터센터규제우려에급락",
-  "[Telecom&now]\"부산불꽃축제도끊김없게\"…SKT,AI로통신품질관리...",
-  "SK텔레콤,부산불꽃축제앞두고통신망안정화나서…체감품질정밀관...",
-  "미국장비못얻은SK하이닉스,中측“미국압박에저항해야”",
-  "SK㈜,에코플랜트상장접고완전자회사추진…1.4조공개매수",
-  "AI데이터센터규제우려직격탄…코스피'매도사이드카'[장중시황]",
-  "[오늘의삼전닉스]'블루쓰나미여파'정말로반도체기업의타격이클...",
-  "SK텔레콤,부산불꽃축제‘체감품질’올린다",
-  "선수들의고른활약이만들어낸가스공사의승리",
-  "\"전남광주경사\"…삼전닉스·앰코이어기아도역대급투자전망",
   "연매출10억대로쪼그라든정수기…바디프랜드,재건승부수",
   "‘반도체급락’에고수는삼성전자팔고삼성전기·한국콜마담았다[...",
   "10월밸류업공시기업누적801곳…전체시총83.8%차지",
@@ -6001,7 +5990,18 @@
   "[미국뉴욕증시전망]나스닥5.5%폭락후반등시도…엔비디아·마이크...",
   "무니에변준형까지빠졌는데…정관장,SK잡고2위로(종합)",
   "프로농구정관장,SK잡고2위로도약",
-  "충북PRIDE공유대학실무역량경진대회개최···15개팀수상"
+  "충북PRIDE공유대학실무역량경진대회개최···15개팀수상",
+  "3연패뒤2연승…정관장박지훈“부상악재속SK잡아기분최고”",
+  "[기록]‘1위화이트와단1회차이’SK워니,개인통산9호트리플더...",
+  "‘저조한자유투성공률’전희철감독“마무리매끄럽지못했다…내...",
+  "SK네트웍스3분기매출1조9357억원…영업익201억원",
+  "[코스피5000선사수]코스피6%대급락속5,000선턱걸이…이틀간11%...",
+  "연기금,코스피급락에1.4조‘줍줍’…5천피방어할까[투자360]",
+  "[반도체지수폭락]엔비디아하루만에606조원증발…데이터센터규제...",
+  "정관장,SK꺾고2위도약…아반도21점,토마스20점맹활약",
+  "1패뒤2승삼성…박진만감독“후라도에게선물줘야할거같다”",
+  "프로농구정관장,SK에83-79역전승…2위도약성공",
+  "‘자유투호러쇼’서울SK전희철감독“프로팀이라면마무리했어야”..."
  ],
  "recent_sigs": [
   [
@@ -6687,9 +6687,21 @@
   [
    "2026-11-06T21:41:03.454117+09:00",
    "경진대회 15개 실무역량 수상 충북 개최 공유대학 PRIDE"
+  ],
+  [
+   "2026-11-06T21:51:04.242164+09:00",
+   "박진만 줘야 선물 감독 2승 후라도에게 삼성 같다 1패"
+  ],
+  [
+   "2026-11-06T21:51:04.242164+09:00",
+   "프로농구 SK에 도약 정관장 역전승 성공 2위"
+  ],
+  [
+   "2026-11-06T21:51:04.242164+09:00",
+   "자유투 마무리했어야 전희철 서울 감독 프로팀이라면 호러쇼"
   ]
  ],
- "last_run": "2026-11-06T21:41:09.016393+09:00",
+ "last_run": "2026-11-06T21:51:15.889419+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
