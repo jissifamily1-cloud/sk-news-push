@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261017_0003830094",
-  "https://www.sportsseoul.com/news/read/1642016",
-  "https://www.wikitree.co.kr/articles/1167015",
   "https://www.segye.com/newsView/20261017505140?OutUrl=naver",
   "https://www.news1.kr/sports/baseball/6323382",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318520",
@@ -2999,12 +2996,12 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=747851",
   "https://www.news1.kr/local/gwangju-jeonnam/6345405",
   "https://biz.heraldcorp.com/article/10928330",
-  "https://view.asiae.co.kr/article/2026110610114744076"
+  "https://view.asiae.co.kr/article/2026110610114744076",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=623468",
+  "https://biz.heraldcorp.com/article/10928348",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365817"
  ],
  "seen_titles": [
-  "[정책브리핑]기후장관\"가스발전늘어날것\"…반도체위한LNG발전확대...",
-  "[피부과시술제대로알기]오돌토돌올라온편평사마귀,재발막기위해...",
-  "SK인텔릭스,'나무엑스'위탁생산추진…원가경쟁력확보'승부수'",
   "10일'ACTS:사도행전,베드로편'광화문무대오른다",
   "헨켈,SEDEX2026서‘언더필·TIM’등첨단패키징소재솔루션공개",
   "최태원“가장빠른속도”외치자,장관3명광주달려갔다",
@@ -6001,7 +5998,10 @@
   "최태원SK회장,지분9440억원규모매각…재산분할판결액과동일",
   "9년만에바뀐광주시내버스노선…6일만에민원3780건",
   "[사설]美블루쓰나미에AI·반도체쇼크…한국엔위기이자기회",
-  "[사설]AI투자,정부는박수만치지말고전략으로답하라"
+  "[사설]AI투자,정부는박수만치지말고전략으로답하라",
+  "최태원,재산분할금9440억마련…SK지분23.2%로축소",
+  "“작은기업들성장돕는인센티브시스템필요”",
+  "최태원SK회장\"반도체주당분간요동\""
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,17 @@
   [
    "2026-11-06T10:20:15.891366+09:00",
    "선택한 재상고 재산 회장 매각 지분 규모 9440억원"
+  ],
+  [
+   "2026-11-06T11:20:15.119182+09:00",
+   "돕는 인센티브 필요 성장 시스템 작은 기업들"
+  ],
+  [
+   "2026-11-06T11:20:15.119182+09:00",
+   "회장 당분간 요동 반도체주"
   ]
  ],
- "last_run": "2026-11-06T11:10:27.531379+09:00",
+ "last_run": "2026-11-06T11:20:29.288457+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
