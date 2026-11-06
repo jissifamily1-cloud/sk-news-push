@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12198155",
-  "https://biz.heraldcorp.com/article/10926847",
-  "https://www.yna.co.kr/view/AKR20261105078600008?input=1195m",
-  "https://www.gasnews.com/news/articleView.html?idxno=127545",
-  "https://www.mk.co.kr/article/12198148",
-  "https://www.hankyung.com/article/202611057549i",
   "https://biz.sbs.co.kr/article_hub/20000344423?division=NAVER",
   "https://news.jtbc.co.kr/article/NB12326590?influxDiv=NAVER",
   "https://www.segye.com/newsView/20261101508898?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.sedaily.com/article/20111335",
   "https://it.donga.com/109865/",
   "https://futurechosun.com/?p=166002",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3159793"
+  "http://www.ttlnews.com/news/articleView.html?idxno=3159793",
+  "https://news.jtbc.co.kr/article/NB12326865?influxDiv=NAVER",
+  "https://www.newsis.com/view/NISX20261106_0003858584",
+  "https://www.mt.co.kr/politics/2026/11/06/2026110618231829144",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=285366",
+  "https://biz.chosun.com/it-science/ict/2026/11/06/3IEL37XPOFFWLD3C7TKSR2TUTM/",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706163"
  ],
  "seen_titles": [
-  "삼성전자·SK하이닉스급락에코스피'휘청'···매도사이드카발동",
-  "SK바이오팜,3분기누적영업익3000억원돌파…사상최대",
-  "SK바팜,환율악재에도실적신기록…엑스코프리누적매출2.2조",
-  "[컨콜]SK바이오팜\"오파칼림RISE3톱라인결과내달예상\"",
-  "[위클리오늘]여주시,전경로당에자동혈압계보급",
-  "국민소득4만달러눈앞…K자양극화과제",
   "\"은행채발행급증은선제조달…수신이탈제한되면되돌림강세전망...",
   "[위클리오늘]수도권아파트전셋값88주연속상승···경기도전세1...",
   "세계시장넘보는K바이오…기술수출가속",
@@ -6001,29 +5995,15 @@
   "‘성과급합의실패’마이크론,대만신공장건설중단",
   "미스틱“일상에서팬과아티스트만나는경험늘릴것”…서북포토이...",
   "[더나은미래경제브리핑]최태원,9440억규모SK주식매각,재산분할...",
-  "[인터뷰]스트레스솔루션배익렬대표,AI스트레스측정부터'나만의사..."
+  "[인터뷰]스트레스솔루션배익렬대표,AI스트레스측정부터'나만의사...",
+  "5천피겨우지켰다…블루쓰나미발'검은금요일'",
+  "[올댓차이나]홍콩증시,美·아시아증시약세에동반하락마감…H주...",
+  "당정,코스피5000붕괴에긴급회동\"투자자불안해소총력쏟겠다\"",
+  "[분석]SK케미칼해중합기술빛났다…친환경현수막200장공급",
+  "中YMTC,신규낸드공장장비최대70%자국산추진…내년착공",
+  "반도체이틀급락에삼전닉스레버리지90%증발"
  ],
  "recent_sigs": [
-  [
-   "2026-11-06T12:51:01.398236+09:00",
-   "토큰이 모더나 발행돼 새로 11만달러어치 포타치"
-  ],
-  [
-   "2026-11-06T12:51:01.398236+09:00",
-   "사회문제 해결이 캐피탈리즘 경제활동 회장 최태원"
-  ],
-  [
-   "2026-11-06T12:51:01.398236+09:00",
-   "함께 빛나는 편견을 우리 넘어 지나 경계를"
-  ],
-  [
-   "2026-11-06T12:51:01.398236+09:00",
-   "텍사스발 코스피 휘청 엇갈리는 가능성 폭풍 데이터센터 반등"
-  ],
-  [
-   "2026-11-06T12:51:01.398236+09:00",
-   "발표 국가전문자격시험 공채 5급 합격자 시험 내년 응시 잇따라 요건"
-  ],
   [
    "2026-11-06T13:01:18.810441+09:00",
    "반토막 SK하이닉스 PER 이익 나도 4배"
@@ -7045,7 +7025,7 @@
    "AI 스트레스 스트레스솔루션 배익렬 측정부터 나만의 대표"
   ]
  ],
- "last_run": "2026-11-06T18:41:14.226057+09:00",
+ "last_run": "2026-11-06T18:51:05.039407+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
