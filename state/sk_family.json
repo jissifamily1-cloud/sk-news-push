@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261018_0003830244",
-  "https://www.socialvalue.kr/news/view/1065576787765727",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=766135",
   "https://biz.heraldcorp.com/article/10906034",
   "http://www.srtimes.kr/news/articleView.html?idxno=215054",
   "https://www.khan.co.kr/article/202610181030001",
@@ -2999,12 +2996,12 @@
   "https://www.busan.com/view/busan/view.php?code=2026110617023950440",
   "https://www.edaily.co.kr/News/Read?newsId=06314006645643096&mediaCodeNo=257",
   "https://www.nocutnews.co.kr/news/6603414",
-  "https://www.joongang.co.kr/article/25476407"
+  "https://www.joongang.co.kr/article/25476407",
+  "https://www.ceoscoredaily.com/page/view/2026110617023028370",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194321",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20356"
  ],
  "seen_titles": [
-  "[주간브리핑]최태원재상고로법적공방장기화…코스피·코스닥동반...",
-  "호남반도체'민·관·정'속도전…야권견제·지역난제변수",
-  "미술관문턱낮추고무대넓혔다…김희영디렉터의'선혜원2.5'실험",
   "포도뮤지엄,24일‘선혜원아트프로젝트2.5’개막...오페라·궁중무용...",
   "SK·포도뮤지엄,'선혜원아트프로젝트2.5'개최...오페라와궁중무용...",
   "SK·포도뮤지엄,'선혜원아트프로젝트2.5'개최···오페라·궁중무용...",
@@ -6001,17 +5998,12 @@
   "최태원“돈이너무많이풀려…롤러코스터장세계속될것”",
   "\"최태원동거인=中간첩\"배터리아저씨,2심서도벌금700만원",
   "호남권반도체국가산단속도…전력·용수·정주여건협의본격화",
-  "“최태원동거인은中간첩”주장…‘배터리아저씨’2심도결국"
+  "“최태원동거인은中간첩”주장…‘배터리아저씨’2심도결국",
+  "美‘블루쓰나미’에전세계AI충격파…삼성·SK,‘HBM완판’행보...",
+  "장동현떠난SK에코플랜트,주택시장손떼나",
+  "SK그룹최태원,서울대경제학부생들과'AI시대경제패러다임'모색"
  ],
  "recent_sigs": [
-  [
-   "2026-11-06T11:20:15.119182+09:00",
-   "돕는 인센티브 필요 성장 시스템 작은 기업들"
-  ],
-  [
-   "2026-11-06T11:20:15.119182+09:00",
-   "회장 당분간 요동 반도체주"
-  ],
   [
    "2026-11-06T11:30:24.809874+09:00",
    "돈이 이어질 너무 많이 풀려 롤러코스피"
@@ -6119,9 +6111,17 @@
   [
    "2026-11-06T17:00:32.630339+09:00",
    "않는 조명 반도체 미국 녹지 개발 AI 초저전력 딥엑스 CNBC 버터도"
+  ],
+  [
+   "2026-11-06T17:20:17.290650+09:00",
+   "떠난 SK에코플랜트 장동현 주택 시장 떼나"
+  ],
+  [
+   "2026-11-06T17:20:17.290650+09:00",
+   "경제학부생들과 서울대 모색 시대 AI 경제 패러다임"
   ]
  ],
- "last_run": "2026-11-06T17:10:27.475455+09:00",
+ "last_run": "2026-11-06T17:20:32.450200+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
