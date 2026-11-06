@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800083.html",
-  "https://www.kukinews.com/article/view/kuk202609070234",
   "https://www.mk.co.kr/article/12144331",
   "https://www.thepublic.kr/news/articleView.html?idxno=317846",
   "https://www.newsway.co.kr/news/view?ud=2026090711034156997",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20111129",
   "http://www.yonhapnewstv.co.kr/news/MYH20261106131701AF9",
   "http://www.dailypop.kr/news/articleView.html?idxno=104232",
-  "https://www.g-enews.com/view.php?ud=202611061320349396e7e8286d56_1"
+  "https://www.g-enews.com/view.php?ud=202611061320349396e7e8286d56_1",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451368",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880644"
  ],
  "seen_titles": [
-  "한옥에울려퍼지는'라트라비아타'...포도뮤지엄,선혜원서오페라...",
-  "SK·포도뮤지엄,한옥공간선혜원서오페라와춘앵무결합한무대마련",
   "최태원\"굳이대학졸업장필요없다…기업은'문제부딪혀본인재'원...",
   "최태원\"대학졸업장필요없다…AI시대학교는실험하는곳으로\"",
   "SK·포도뮤지엄,'선혜원아트프로젝트2.5'개최",
@@ -6001,7 +5999,9 @@
   "최태원“美중간선거하나에시장와장창…롤러코스터장세계속될것...",
   "[경제읽기]서킷브레이커·장중5천선붕괴…'검은금요일'",
   "[인사이트]최태원의'AI국가론'…반도체넘어지능수출,한국경제판...",
-  "삼성·SK,日반도체두뇌삼킨다…연봉1800만엔파격채용"
+  "삼성·SK,日반도체두뇌삼킨다…연봉1800만엔파격채용",
+  "[인사]미래에셋그룹,행정안전부,중소벤처기업부외",
+  "반도체주폭락에입연최태원…\"시장은합리적이지않다\""
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-11-06T13:30:26.392414+09:00",
    "1800만엔 연봉 파격 반도체 삼킨다 삼성 두뇌 채용"
+  ],
+  [
+   "2026-11-06T13:40:14.737039+09:00",
+   "반도체주 않다 시장은 합리적이지 폭락에"
   ]
  ],
- "last_run": "2026-11-06T13:30:38.112523+09:00",
+ "last_run": "2026-11-06T13:40:28.128680+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
