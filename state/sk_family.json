@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=136342",
-  "https://magazine.hankyung.com/business/article/202610188343b",
   "https://www.dailian.co.kr/news/view/1702747/?sc=Naver",
   "https://www.greened.kr/news/articleView.html?idxno=352339",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=873805",
@@ -2999,11 +2997,11 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1319544&inflow=N",
   "https://www.ngetnews.com/news/articleView.html?idxno=555661",
   "https://www.busan.com/view/busan/view.php?code=2026110614531017672",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/06/2026110690169.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/06/2026110690169.html",
+  "https://news.tf.co.kr/read/national/2385853.htm",
+  "http://www.4th.kr/news/articleView.html?idxno=2121320"
  ],
  "seen_titles": [
-  "[재계이슈]'정용진의승부수'…신세계,美워너지분인수에10억달러...",
-  "SK·포도뮤지엄,‘선혜원아트프로젝트2.5’개최",
   "[부고]임찬규(LG트윈스투수)씨장모상",
   "'빙모상비보에도...'LG선발임찬규슬픔속마운드오른다\"선발등판...",
   "LG임찬규,장모상아픔딛고준PO2차전선발등판강행[준PO]",
@@ -6001,13 +5999,11 @@
   "삼성·SK,HBM공급자서SW수요자로…엔비디아‘AI동맹’고도화",
   "'최태원동거인간첩설'유포유튜버,항소심도벌금형",
   "\"최태원동거인은중국간첩\"주장한유튜버,항소심도벌금700만원",
-  "\"최태원동거인은중국간첩\"유튜버,항소심도벌금형"
+  "\"최태원동거인은중국간첩\"유튜버,항소심도벌금형",
+  "광주시내버스개편일주일도안돼민원3780건…노선재조정예고",
+  "'김희영중국간첩설'유포배터리아저씨,2심도유죄"
  ],
  "recent_sigs": [
-  [
-   "2026-11-06T09:30:25.134969+09:00",
-   "AI 충격 대공황급 최태원의 경고 해법 4가지 꺾이면"
-  ],
   [
    "2026-11-06T09:40:16.570968+09:00",
    "회장 없을 AI시대 속도와 비교할 변화 과거와 만큼 크기"
@@ -6129,7 +6125,7 @@
    "AI 엔비디아 삼성 공급자서 SW 고도화 동맹 수요자로 HBM"
   ]
  ],
- "last_run": "2026-11-06T15:20:25.246556+09:00",
+ "last_run": "2026-11-06T15:30:32.965188+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
