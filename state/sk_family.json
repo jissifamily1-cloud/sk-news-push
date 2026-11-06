@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=619305",
-  "https://www.dailian.co.kr/news/view/1702721/?sc=Naver",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802380&plink=ORI&cooper=NAVER",
   "https://www.xportsnews.com/article/2208563",
   "https://economychosun.com/site/data/html_dir/2026/10/12/2026101200016.html",
@@ -2999,11 +2997,11 @@
   "http://www.biztribune.co.kr/news/articleView.html?idxno=362035",
   "https://www.etnews.com/20261006000060",
   "http://www.seouleconews.com/news/articleView.html?idxno=94842",
-  "https://www.mk.co.kr/article/12200335"
+  "https://www.mk.co.kr/article/12200335",
+  "https://biz.sbs.co.kr/article_hub/20000344720?division=NAVER",
+  "https://economist.co.kr/article/view/ecn202611060012"
  ],
  "seen_titles": [
-  "日언론,최태원'한일경제공동체'구상조명…\"긍정적이지만과제도\"",
-  "[재계인사②]'예고편'공개한SK,반도체·AI중심재편···글로벌밀...",
   "AI거품?'없어서못판다'…삼전닉스에벌어지는일[홍민성의테토남...",
   "재판마다'부실'지적…종합특검공소유지난항",
   "공소청에남은사건들…MBK·노태우비자금주목",
@@ -6001,7 +5999,9 @@
   "최태원,9440억지분매각속AI투자강조…\"전세계가이게임에들어...",
   "SK인텔릭스,'나무엑스'위탁생산추진…원가경쟁력확보'승부수'",
   "'SK재무통가신그룹'장동현부회장,SK에코플랜트대표사임",
-  "최태원“돈이너무많이풀려...롤러코스피이어질것”"
+  "최태원“돈이너무많이풀려...롤러코스피이어질것”",
+  "[이시각주요뉴스]",
+  "[오늘의삼전닉스]'과도한공포장'삼전닉스가치훼손은아니잖아요"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,17 @@
   [
    "2026-11-06T11:30:24.809874+09:00",
    "돈이 이어질 너무 많이 풀려 롤러코스피"
+  ],
+  [
+   "2026-11-06T11:40:17.259679+09:00",
+   ""
+  ],
+  [
+   "2026-11-06T11:40:17.259679+09:00",
+   "공포장 과도한 가치 훼손은 삼전닉스 아니잖아요"
   ]
  ],
- "last_run": "2026-11-06T11:30:37.849053+09:00",
+ "last_run": "2026-11-06T11:40:31.653951+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
