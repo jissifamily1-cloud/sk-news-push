@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202611051107167875",
-  "https://dealsite.co.kr/articles/172155",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=818186",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=667566",
-  "https://biz.heraldcorp.com/article/10926891",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000079879",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4116859",
   "https://www.wikitree.co.kr/articles/1172043",
   "https://www.viva100.com/article/20261102501295",
   "https://biz.heraldcorp.com/article/10926831",
@@ -2999,16 +2992,16 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=801319",
   "https://m.skyedaily.com/news_view.html?ID=314229",
   "https://www.kukinews.com/article/view/kuk202611060173",
-  "https://www.electimes.com/news/articleView.html?idxno=374471"
+  "https://www.electimes.com/news/articleView.html?idxno=374471",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229482",
+  "https://www.sedaily.com/article/20111360",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261106191156iOu",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229497",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706181",
+  "http://www.kdfnews.com/news/articleView.html?idxno=190578",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261106191438gGj"
  ],
  "seen_titles": [
-  "매물잠김심화속수도권전세88주연속상승…전세'10억원'시대경...",
-  "'역대최대영업익'SK바이오팜,13%급등…제약주강세[핫종목",
-  "코스피,美'반도체쇼크'에매도사이드카",
-  "SK바이오팜,3분기영업익1163억원",
-  "SK하이닉스,美AI투자법인'하이코'확정",
-  "미국중간선거다음날반도체·자동차주가는요?",
-  "SamsungElectronics,SKhynixplungeonU.S.datacenterregulatoryco",
   "CDMO·백신·혈액제제…국민성장펀드,바이오지원8000억돌파",
   "증시급락에\"오늘이바닥이길\"…레버리지에대거베팅개미들한숨",
   "SK가스,3분기까지당기순이익4,632억원",
@@ -6001,7 +5994,14 @@
   "[위클리오늘]산업일반소식_효성,SK네트웍스(11.6)",
   "\"직원은점심거르는데경영진은수십억성과급\"…이재근KB금융회장...",
   "美블루웨이브에데이터센터규제우려…삼성전자·SK하닉영향은",
-  "신성이엔지,역대최대수주에도수익성숙제...해외원가·태양광적자..."
+  "신성이엔지,역대최대수주에도수익성숙제...해외원가·태양광적자...",
+  "[뉴스추적]세계증시뒤흔든'중간선거쇼크'언제까지",
+  "5000피깨졌는데여전히“코스피1만간다”…노무라가꼽은‘상승동...",
+  "코스피'검은금요일'…블루웨이브쇼크에6%폭락",
+  "미국발쇼크에개장3분만에5천무너져…정부긴급진화에5천은방어",
+  "“AI거품이터지는중인가?”…미경제전문기자의오늘자분석[지금뉴...",
+  "KoreanBrokersSeeSellingPressureDeepeningRout,NotanEndtoAIGro",
+  "'천당과지옥'오간코스피…AI반도체에웃고울었다"
  ],
  "recent_sigs": [
   [
@@ -7027,9 +7027,21 @@
   [
    "2026-11-06T19:11:05.388110+09:00",
    "역대 숙제 수익성 적자 원가 태양광 해외 신성이엔지 수주에도"
+  ],
+  [
+   "2026-11-06T19:21:06.445536+09:00",
+   "오늘자 지금뉴 경제전문기자의 거품이 AI 터지는 중인가 분석"
+  ],
+  [
+   "2026-11-06T19:21:06.445536+09:00",
+   "Not Korean an See Rout Selling Pressure Grow Deepening AI Brokers to End"
+  ],
+  [
+   "2026-11-06T19:21:06.445536+09:00",
+   "반도체에 울었다 지옥 천당과 코스피 오간 AI 웃고"
   ]
  ],
- "last_run": "2026-11-06T19:11:22.102274+09:00",
+ "last_run": "2026-11-06T19:21:17.813858+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
