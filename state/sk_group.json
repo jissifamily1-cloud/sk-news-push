@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880253",
-  "https://zdnet.co.kr/view/?no=20261104182143",
   "https://www.ytn.co.kr/_ln/0104_202611051518266861",
   "http://www.metroseoul.co.kr/article/20261105500339",
   "https://www.mt.co.kr/finance/2026/11/05/2026110412100881345",
@@ -2999,11 +2997,11 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=284211",
   "https://www.newsway.co.kr/news/view?ud=2026110617095870929",
   "https://magazine.hankyung.com/business/article/202611056841b",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443584"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443584",
+  "https://www.etoday.co.kr/news/view/2645115",
+  "https://magazine.hankyung.com/business/article/202611061182b"
  ],
  "seen_titles": [
-  "\"도대체바닥이어디야?\"…반등믿고2조베팅했다-40%폭락에개미들...",
-  "\"모험자본공급늘리려면증권사도BDC운용할수있어야\"",
   "미'블루웨이브'후폭풍세계강타…아시아칩벨트털리고유럽은희비",
   "USmidterm‘bluewave’putspressureonmemorychipdemands",
   "美,SK하이닉스中공장장비반입제동…中매체\"美압박맞서야\"",
@@ -6001,7 +5999,9 @@
   "뉴욕증시,AI주폭락후저가매수에반등…나스닥1.1%↑",
   "증시급락에커진걱정…은퇴앞둔내연금괜찮을까",
   "“70%는선반영됐다vs추가폭락”…코스피,바닥어디?[블루쓰나미...",
-  "달러-원향해부는상승바람…어떤재료들쌓여있나"
+  "달러-원향해부는상승바람…어떤재료들쌓여있나",
+  "‘AI데이터센터완판·5G요금인상’…통신3사,2027년‘이익·배당...",
+  "“여기서더떨어진다고?”…코스피최악의시나리오"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,17 @@
   [
    "2026-11-07T07:41:00.967995+09:00",
    "상승 재료들 향해 달러 쌓여있나 어떤 바람 부는"
+  ],
+  [
+   "2026-11-07T07:51:05.116431+09:00",
+   "이익 2027년 요금 5G 완판 데이터센터 AI 3사 배당 통신 인상"
+  ],
+  [
+   "2026-11-07T07:51:05.116431+09:00",
+   "여기서 최악의 코스피 시나리오 떨어진다고"
   ]
  ],
- "last_run": "2026-11-07T07:41:07.378971+09:00",
+ "last_run": "2026-11-07T07:51:13.490180+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
