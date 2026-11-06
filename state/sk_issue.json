@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6600068",
-  "https://www.busan.com/view/busan/view.php?code=2026103019294990537",
-  "https://www.edaily.co.kr/News/Read?newsId=06264806645618168&mediaCodeNo=257",
-  "https://www.segye.com/newsView/20261030510200?OutUrl=naver",
-  "https://www.news1.kr/world/europe/6338395",
-  "https://m.skyedaily.com/news_view.html?ID=313831",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1542214",
   "https://news.jtbc.co.kr/article/NB12325714?influxDiv=NAVER",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823814&plink=ORI&cooper=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/News/Read?newsId=05494006645643096&mediaCodeNo=257",
   "https://www.suwonilbo.kr/view.html?id=L26110321483911c1",
   "https://www.joongang.co.kr/article/25476379",
-  "https://www.nocutnews.co.kr/news/6603304"
+  "https://www.nocutnews.co.kr/news/6603304",
+  "http://www.finomy.com/news/articleView.html?idxno=265931",
+  "http://www.srtimes.kr/news/articleView.html?idxno=216931",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060109&t=NN",
+  "https://www.tournews21.com/news/articleView.html?idxno=147742",
+  "https://www.wikitree.co.kr/articles/1172475",
+  "https://www.nocutnews.co.kr/news/6603315"
  ],
  "seen_titles": [
-  "선거법수사받던양산시장측근공무원,야산서숨진채발견",
-  "특검,'140억원대선거장비납품비리'중앙선관위추가압수수색",
-  "\"귀신쫓는다\"며친동생폭행…기도로치료하다결국",
-  "소아응급의학회“응급실은성역아니다…진료지킬수사기준마련해...",
-  "러독립언론노바야가제타,33년만에폐간…\"당국이우릴죽였다\"",
-  "이명희회장조카업체특혜의혹…\"협력사선정·차등조건누가결정...",
   "경찰유감표명에도센터장사표…압수수색파문확산",
   "\"의료진에게환자의죽음은..\"소아응급의'울컥'",
   "\"환자죽음도고통인데범죄자취급?\"울컥…사과에도'시끌'",
@@ -6001,7 +5995,13 @@
   "태평양,공정거래전문가이동률·김치열·이종헌변호사영입",
   "병원에있겠다던한학자,궁전에있었다…보석취소재수감",
   "‘오산옹벽붕괴’…이권재전시장,중대시민재해혐의로송치",
-  "천안서일본인여성살해한30대구속송치…일방적호감에계획범행"
+  "천안서일본인여성살해한30대구속송치…일방적호감에계획범행",
+  "롯데하이마트,연중최대할인행사'하이마트블프'개최",
+  "[기자수첩]유통업계에쏠린공정위담합'잣대'…공정한가",
+  "원가내려도가격유지하는독과점기업'철퇴'..25년만에제도손질",
+  "'공작설'띄우고'밀실열람'뒤로숨은정치권…불법유출의혹에편...",
+  "13억들인중국산사전투표함불량사태...선관위,선금미환수상태서...",
+  "'오산옹벽붕괴사망'이권재전오산시장등10명송치"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "나비효과 SK이혼재판의"
   ]
  ],
- "last_run": "2026-11-06T15:20:52.214254+09:00",
+ "last_run": "2026-11-06T15:31:00.667086+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
