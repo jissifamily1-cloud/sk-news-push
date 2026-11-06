@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261030_0003848620",
-  "https://www.medigatenews.com/news/1752122126",
-  "https://www.koreatimes.com/article/11629799",
-  "https://www.pennmike.com/news/articleView.html?idxno=130672",
   "https://www.donga.com/news/Society/article/all/20261030/134941651/2",
   "https://www.starnewskorea.com/sports/2026/10/31/2026103019131839295",
   "https://imnews.imbc.com/replay/2026/nw2500/article/6862114_36989.html",
@@ -2999,13 +2995,13 @@
   "https://www.hani.co.kr/arti/society/society_general/1286186.html",
   "https://www.edaily.co.kr/News/Read?newsId=06622326645643096&mediaCodeNo=257",
   "http://www.4th.kr/news/articleView.html?idxno=2121353",
-  "https://biz.chosun.com/topics/law_firm/2026/11/06/3FYAUXANLBHPVP3RNC62I2ZO34/"
+  "https://biz.chosun.com/topics/law_firm/2026/11/06/3FYAUXANLBHPVP3RNC62I2ZO34/",
+  "https://www.news1.kr/society/court-prosecution/6346173",
+  "https://www.khan.co.kr/article/202611061842001",
+  "https://www.hankyung.com/article/2026110616897",
+  "https://www.edaily.co.kr/News/Read?newsId=06599366645643096&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "경찰,김병기수사기간연장없을듯…31일소환조사분수령",
-  "의료분쟁조정법에의료계\"형사특례요건엄격해재개정필요\"…환자단...",
-  "‘이또한지나가리라’",
-  "[휴지통]\"유감입니다\"",
   "복지부-경찰청,내주‘필수의료수사지침’논의",
   "'역대급'韓축구국제망신\"손흥민왕따설·협회경찰조사·96파벌......",
   "'당선답례품'아내가주면합법?‥김기현무죄",
@@ -6001,7 +5997,11 @@
   "‘배임수재’엮어언론사수사,감사원‘표적감사’…조작기소특검...",
   "미성년자추행전력50대…이번엔학원서강사성폭행",
   "공소청,강호동농협중앙회장구속영장기각…경찰수사제동",
-  "[속보]공소청,경찰신청강호동농협중앙회장구속영장기각"
+  "[속보]공소청,경찰신청강호동농협중앙회장구속영장기각",
+  "공소청,강호동중앙회장구속영장기각…\"주요혐의소명불충분\"",
+  "[속보]공소청,강호동농협회장구속영장기각",
+  "\"증거부족\"공소청,강호동농협중앙회장구속영장기각",
+  "[속보]공소청,강호동농협중앙회장구속영장기각"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "나비효과 SK이혼재판의"
   ]
  ],
- "last_run": "2026-11-06T18:40:58.041761+09:00",
+ "last_run": "2026-11-06T18:50:53.588193+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
