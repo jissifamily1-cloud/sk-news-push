@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268463",
-  "http://www.economytalk.kr/news/articleView.html?idxno=425091",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880180",
-  "https://www.youthdaily.co.kr/news/article.html?no=229404",
-  "https://www.mk.co.kr/article/12198179",
-  "https://www.mk.co.kr/article/12198178",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=236697",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443213",
   "https://platum.kr/archives/297849",
   "https://news.tf.co.kr/read/economy/2385199.htm",
@@ -2999,16 +2992,16 @@
   "https://www.segye.com/newsView/20261101508898?OutUrl=naver",
   "https://www.ggilbo.com/news/articleView.html?idxno=1191558",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=280725",
-  "https://view.asiae.co.kr/article/2026110615595423997"
+  "https://view.asiae.co.kr/article/2026110615595423997",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=624190",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362099",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6863798_37004.html",
+  "https://www.hangyo.com/news/article.html?no=109981",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=304466",
+  "https://zdnet.co.kr/view/?no=20261106194204",
+  "https://biz.heraldcorp.com/article/10928731"
  ],
  "seen_titles": [
-  "SK바이오팜,3분기영업이익66%증가…영업이익률45%",
-  "‘엑스코프리’美판매호조에SK바이오팜3분기매출역대최대기록",
-  "SKT,부산불꽃축제통신대응총력...GPS격자단위로품질분석",
-  "[통신소식]LG유플러스‘일상비일상의틈’개편후체류시간2배…SKT...",
-  "SK바이오팜,누적영업익3000억돌파…美처방확대가실적견인",
-  "SK바이오팜,신약하나로연매출1조눈앞…美직판성과본격화",
-  "LG·카카오등참여…삼육대취업박람회에3000명넘게몰렸다",
   "SK바이오팜,3분기영업익65.9%↑…“엑스코프리,美연매출가이던스...",
   "코스피,美데이터센터규제우려에장중4%↓…삼전닉스6~7%↓",
   "[Invest]'데이터센터이제안짓나?'美블루웨이브에코스피급락",
@@ -6001,7 +5994,14 @@
   "SK사장단인사…‘안정속에너지쇄신’방점",
   "[주식마감]'호반그룹·조원태지분경쟁'한진칼우상한가…에코캡,깨...",
   "[ClosingMarket]KOSPIBarelyHolds5,000AfterTechRout",
-  "ETF도시총100조가사라졌다…400조아래로"
+  "ETF도시총100조가사라졌다…400조아래로",
+  "'호남권반도체국가산단'전력·용수·정주여건협의체가동",
+  "[이슈+]美데이터센터규제우려에반도체주급락…HBM수요는괜찮나",
+  "'블루쓰나미'여파에코스피'검은금요일'‥세계증시도동반'충격'",
+  "미래교육과제는교원전문성·평가혁신",
+  "\"환율악재뚫은'엑스코프리'…SK바이오팜,3분기영업이익률45%기염...",
+  "AI가반도체쓸어가자자동차업계'비상'…내년가격폭등경고",
+  "‘20만전자’도박살,‘100만닉스’까지위험할정도…말문이막혔다..."
  ],
  "recent_sigs": [
   [
@@ -6975,9 +6975,25 @@
   [
    "2026-11-06T19:41:03.748301+09:00",
    "ETF도 시총 아래로 100조가 사라졌다 400조"
+  ],
+  [
+   "2026-11-06T19:51:01.503613+09:00",
+   "평가 미래교육 과제는 혁신 교원 전문성"
+  ],
+  [
+   "2026-11-06T19:51:01.503613+09:00",
+   "SK바이오팜 환율 엑스코프리 기염 영업이익률 3분기 악재 뚫은"
+  ],
+  [
+   "2026-11-06T19:51:01.503613+09:00",
+   "자동차업계 폭등 비상 내년 가격 쓸어가자 반도체 AI가 경고"
+  ],
+  [
+   "2026-11-06T19:51:01.503613+09:00",
+   "위험할 박살 막혔다 까지 정도 100만닉스 20만전자 말문이"
   ]
  ],
- "last_run": "2026-11-06T19:41:14.974532+09:00",
+ "last_run": "2026-11-06T19:51:17.245930+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
@@ -7656,6 +7672,7 @@
   "edupress.kr": "에듀프레스(edupress)",
   "newsfarm.co.kr": "한국농업신문",
   "digitalbizon.com": "디지털비즈온",
-  "foodnews.co.kr": "식품저널 foodnews"
+  "foodnews.co.kr": "식품저널 foodnews",
+  "hangyo.com": "한국교육신문"
  }
 }
