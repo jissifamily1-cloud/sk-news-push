@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbnews.com/news/articleView.html?idxno=1022538",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=81285",
-  "https://www.joongangenews.com/news/articleView.html?idxno=561575",
   "https://www.econovill.com/news/articleView.html?idxno=756186",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309064",
   "https://biz.sbs.co.kr/article_hub/20000344554?division=NAVER",
@@ -2999,12 +2996,12 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16270613",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229550",
   "https://www.dailian.co.kr/news/view/1712054/?sc=Naver",
-  "https://www.ajunews.com/view/20261107132029865"
+  "https://www.ajunews.com/view/20261107132029865",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957254",
+  "https://econotimes.com/Nikkei-and-Kospi-Fall-6-as-Global-Technology-Sell-Off-Spreads-1772462",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282694&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "금융사ESG,'사업'과'공시'로평가받는다....SK증권LEAD기업으로",
-  "삼전닉스,美데이터센터규제가화우려에7∼9%대급락",
-  "SK바이오사이언스,3분기매출21%증가…영업손실축소",
   "코스피,하루만에5.28%폭락…AI데이터센터규제우려에반도체주직...",
   "[마감시황]코스피5%넘게빠져5300선…양시장사이드카발동",
   "미국중간선거'블루웨이브'에코스피5.28%내린5383.80마감",
@@ -6001,13 +5998,12 @@
   "프로농구오늘(7일)경기일정…LG-DB-KT홈경기,중계채널→현재순위...",
   "세계증시'블루웨이브쇼크'…\"하루만에4800조원증발\"",
   "반도체훈풍에'방긋'…경기지자체세수'최대12배'전망",
-  "美'블루웨이브'충격에세계증시시총하루새4800조원증발"
+  "美'블루웨이브'충격에세계증시시총하루새4800조원증발",
+  "\"'블루웨이브쇼크'에세계증시시총하루만에4,800조원증발\"",
+  "NikkeiandKospiFall6%asGlobalTechnologySell-OffSpreads",
+  "'3년만의승격'한걸음남은수원,라이벌FC서울과'슈퍼매치'기대"
  ],
  "recent_sigs": [
-  [
-   "2026-11-07T07:41:00.967995+09:00",
-   "상승 재료들 향해 달러 쌓여있나 어떤 바람 부는"
-  ],
   [
    "2026-11-07T07:51:05.116431+09:00",
    "이익 2027년 요금 5G 완판 데이터센터 AI 3사 배당 통신 인상"
@@ -6359,9 +6355,17 @@
   [
    "2026-11-07T13:21:00.975196+09:00",
    "7일 중계 순위 DB KT 홈경기 채널 경기 LG 현재 일정 프로농구"
+  ],
+  [
+   "2026-11-07T13:41:03.960280+09:00",
+   "Spreads and Nikkei Kospi Fall Off Sell Global as Technology"
+  ],
+  [
+   "2026-11-07T13:41:03.960280+09:00",
+   "3년만의 FC서울과 슈퍼매치 수원 남은 라이벌 기대 승격 걸음"
   ]
  ],
- "last_run": "2026-11-07T13:31:25.681766+09:00",
+ "last_run": "2026-11-07T13:41:12.548415+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
