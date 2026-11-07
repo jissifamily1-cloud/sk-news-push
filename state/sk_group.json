@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/bio/pharmaceutical-bio/6344528",
-  "https://www.smartbizn.com/news/articleView.html?idxno=158583",
-  "https://www.koreatimes.co.kr/path/A2026110511050001116",
-  "http://www.srtimes.kr/news/articleView.html?idxno=216841",
-  "https://www.hankyung.com/article/202611058794g",
-  "https://www.kgnews.co.kr/news/article.html?no=918368",
-  "https://magazine.hankyung.com/business/article/202611058846b",
-  "https://www.asiatime.co.kr/article/20261105500368",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215665",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730637",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=314739",
   "https://www.kwnews.co.kr/article/20261105501209",
@@ -2999,18 +2990,18 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282688&CMPT_CD=P0010",
   "https://m.sports.naver.com/basketball/article/065/0000304203",
   "http://www.breaknews.com/1249125",
-  "http://www.breaknews.com/1249136"
+  "http://www.breaknews.com/1249136",
+  "https://econotimes.com/AI-Linked-Shares-Fall-as-Applied-Optoelectronics-Drops-13-7-in-Early-Trading-1772472",
+  "https://news.jtbc.co.kr/article/NB12326964?influxDiv=NAVER",
+  "https://www.segye.com/newsView/20261107504844?OutUrl=naver",
+  "https://www.viva100.com/article/20261107500122",
+  "https://www.fnnews.com/news/202611071338298411",
+  "https://www.idomin.com/news/articleView.html?idxno=2018929",
+  "https://www.ajunews.com/view/20261107135908884",
+  "https://www.bloter.net/news/articleView.html?idxno=677918",
+  "http://weekly.chosun.com/news/articleView.html?idxno=56911"
  ],
  "seen_titles": [
-  "SK바이오사이언스,3분기매출1824억원…세전이익흑자전환",
-  "중국최대낸드메모리YMTC,증시급락·당국규제로IPO보류",
-  "코스피,매도사이드카발동…5380선마감",
-  "여주시,경로당268곳에혈압계추가보급",
-  "강남구,구룡마을이재민숙식·구호물품지원…일상회복돕는다",
-  "코스피,美중간선거후폭풍·반도체株폭락에'5400선붕괴'…코스닥5...",
-  "\"더올라서가아니라덜떨어져서\"…동학아닌서학개미된이유는",
-  "“신약후보발굴넘어후기임상까지”…바이오텍성장지원주문",
-  "[퇴근길7분뉴스]블루웨이브쇼크·청해부대·카카오·머스크",
   "[더벨][교보자산운용리빌딩]대표이사직속ETF본부신설…키맨영입에...",
   "\"120만명몰려도끊김없게\"SKT,부산불꽃축제통신품질AI로관리",
   "SK바이오사이언스,3분기매출1824억…영업손실42%축소",
@@ -6001,7 +5992,16 @@
   "이현중없는마줄스호,농구월드컵예선에서'금빛기운'이어갈까",
   "[웜업터뷰]“리바운드와수비에힘써주길”윌리엄스향한이규섭감독...",
   "대전하나시티즌,가시와전패배딛고인천전승리정조준",
-  "기아,광주에3조원대규모투자…전남광주,‘미래모빌리티제조거점’..."
+  "기아,광주에3조원대규모투자…전남광주,‘미래모빌리티제조거점’...",
+  "AI-LinkedSharesFallasAppliedOptoelectronicsDrops13.7%inEarly",
+  "\"'블루웨이브쇼크'에세계증시시총하루만에4800조원증발\"",
+  "美AI규제공포에코스피이틀새11%급락…외국인6조원팔았다",
+  "美‘블루웨이브’쇼크에전세계시총4773조원증발…AI기술주폭락",
+  "美'블루웨이브'쇼크로세계시총하루에4800조증발",
+  "경남FCU18진주고'K리그주니어리그'조기우승",
+  "[인문자의AI반도체이야기|인간.문화.자연]반도체를만드는기계,...",
+  "PHP메모리오류악용해서버침투…SK쉴더스,패치·재시작권고",
+  "'800조반도체'고배마신구미…중국피지컬AI기업들이노크한다"
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,25 @@
   [
    "2026-11-07T14:01:21.586913+09:00",
    "전남광주 기아 투자 제조거점 광주에 미래모빌리티 대규모 3조원"
+  ],
+  [
+   "2026-11-07T14:11:03.937097+09:00",
+   "리그 K리그 우승 조기 진주고 주니어 경남FC U18"
+  ],
+  [
+   "2026-11-07T14:11:03.937097+09:00",
+   "기계 반도체를 만드는"
+  ],
+  [
+   "2026-11-07T14:11:03.937097+09:00",
+   "SK쉴더스 메모리 악용해 권고 재시작 침투 패치 PHP 오류 서버"
+  ],
+  [
+   "2026-11-07T14:11:03.937097+09:00",
+   "중국 800조 피지컬AI 구미 마신 기업들이 노크한다 반도체 고배"
   ]
  ],
- "last_run": "2026-11-07T14:01:27.908730+09:00",
+ "last_run": "2026-11-07T14:11:18.532452+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
