@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=152229",
-  "https://www.yna.co.kr/view/PYH20261105149700013?input=1196m",
-  "https://imnews.imbc.com/news/2026/econo/article/6863441_36932.html",
-  "https://www.yna.co.kr/view/PYH20261105149600013?input=1196m",
-  "https://www.donga.com/news/Health/article/all/20261105/134972789/1",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730629",
-  "https://www.hankookilbo.com/news/article/A2026110515490001749?did=NA",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500267.html",
   "https://www.edaily.co.kr/News/Read?newsId=05999126645642768&mediaCodeNo=257",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501660",
@@ -2999,16 +2992,16 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=562026",
   "https://www.pennmike.com/news/articleView.html?idxno=131213",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=312205",
-  "https://www.ikbc.co.kr/article/view/kbc202611070011"
+  "https://www.ikbc.co.kr/article/view/kbc202611070011",
+  "https://m.sports.naver.com/basketball/article/065/0000304199",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282635&CMPT_CD=P0010",
+  "https://www.viewsnnews.com/article?q=239556",
+  "https://www.the-today.com/news/articleView.html?idxno=93224",
+  "https://www.sedaily.com/article/20111429",
+  "https://www.sedaily.com/article/20111426",
+  "https://www.sedaily.com/article/20111423"
  ],
  "seen_titles": [
-  "美'블루웨이브'쇼크에파랗게물든국내증시…양시장5%대급락",
-  "삼성전자·SK하이닉스,美의회'블루웨이브'변수에AI성장전략시험...",
-  "'블루웨이브'쇼크에반도체주급락…삼전7%·SK하닉9%↓[핫스탁](종합...",
-  "\"美중간선거후폭풍\"…코스피·코스닥5%대하락마감[시황]",
-  "'지방미분양무덤'이라더니…청주에청약통장만'15만개'물렸다",
-  "롯데에너지머티리얼즈,북미ESS수요확대에도전지박양산안정화왜...",
-  "코스피,외인3.4조순매도에5.3%급락한5383마감...반도체동반약세",
   "네발로공장순찰·물류까지…에브리봇,中DDT와로봇공동개발",
   "[2026BestLawFirmsinKorea]Skadden",
   "박근태S2WCTO\"기업AI로영토확장,비보안매출비중40%목표\"[fn이...",
@@ -6001,7 +5994,14 @@
   "11월1주차SK하이닉스주가급락장마감",
   "[양준서의정조준]코스피5000무너진날,반대매매억제…'대선공약방...",
   "외인순매도10조원의72%'삼전닉스'…국장흔든블루웨이브[주간증...",
-  "반도체훈풍에기초지자체'조단위'세수대박예고"
+  "반도체훈풍에기초지자체'조단위'세수대박예고",
+  "양준석-오브라이언트복귀,최승욱결장과제임스출전미정",
+  "'가을야구3승1.31'후라도,11년전니퍼트소환?",
+  "美반도체주,저가매수세유입으로반등",
+  "최태원9440억매각뒤SK주가14.75%↓하락?폭락?",
+  "“중소벤처미래는AX에”…중진공,미래인재양성비전선포",
+  "美중간선거발AI규제악재…개인·기관2.3조방어선무너뜨린외인",
+  "반도체급락에도SOXL몰린서학개미…손실눈덩이우려"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,21 @@
   [
    "2026-11-07T10:31:11.191665+09:00",
    "대박 예고 세수 기초지자체 단위 훈풍에 반도체"
+  ],
+  [
+   "2026-11-07T10:41:01.806955+09:00",
+   "미래는 중진공 AX에 중소벤처 비전 선포 양성 미래인재"
+  ],
+  [
+   "2026-11-07T10:41:01.806955+09:00",
+   "기관 무너뜨린 중간선거발 3조 방어선 규제 외인 악재 개인 AI"
+  ],
+  [
+   "2026-11-07T10:41:01.806955+09:00",
+   "눈덩이 급락에도 우려 서학개미 손실 반도체 SOXL 몰린"
   ]
  ],
- "last_run": "2026-11-07T10:31:30.316623+09:00",
+ "last_run": "2026-11-07T10:41:14.264526+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
