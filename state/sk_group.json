@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832503&plink=ORI&cooper=NAVER",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=886188",
-  "https://www.kmib.co.kr/article/20261105501653",
-  "http://www.metroseoul.co.kr/article/20261105500509",
-  "http://www.metroseoul.co.kr/article/20261105500511",
-  "https://www.newscj.com/news/articleView.html?idxno=3446280",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080364",
   "https://www.news2day.co.kr/article/20261105500265",
   "https://www.aitimes.com/news/articleView.html?idxno=217067",
@@ -2999,15 +2993,15 @@
   "https://www.pennmike.com/news/articleView.html?idxno=131257",
   "https://www.laborplus.co.kr/news/articleView.html?idxno=41783",
   "https://www.g-enews.com/view.php?ud=202611071534522197daecd3dad5_1",
-  "https://www.pennmike.com/news/articleView.html?idxno=131258"
+  "https://www.pennmike.com/news/articleView.html?idxno=131258",
+  "https://www.dailian.co.kr/news/view/1712095/?sc=Naver",
+  "https://www.kbsm.net/news/view.php?idx=540710",
+  "https://www.munhwa.com/article/11629552",
+  "https://www.imaeil.com/page/view/2026110717482192946",
+  "https://economist.co.kr/article/view/ecn202611070009",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282737&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "SK바이오사이언스,3분기매출21%증가...세전이익흑자전환",
-  "'블루웨이브쇼크'에코스피·코스닥5%폭락…AI·반도체직격탄",
-  "국고채금리,美블루웨이브파급효과에일제히하락(종합)",
-  "SK바이오사이언스,3Q적자축소…누적손실개선은'글쎄'",
-  "‘블루웨이브쇼크’코스피·코스닥,5%대급락…나란히매도사이드카",
-  "삼성,3분기D램시장1위수성…하이닉스는격차좁히며추격",
   "10월밸류업참여기업800곳돌파…저PBR명단공개에'쑥'",
   "전기차시장살아나는데…中배터리점유율만늘었다",
   "[아유경제_교육]OECD가입30년,한국교육의성과와미래논의",
@@ -6001,21 +5995,15 @@
   "[펜앤포토]U123경기,서울sk나이츠화려한기량뽐내...36-26승리로...",
   "한국노총,전노대서'차별없고지속가능한삶'을외치다",
   "대보하우스디우승놓고유현조vs서어진vs이예원'한판승부'...KLPGA투...",
-  "[나는농구선수다]서울SK정우빈\"첫골의희열,아직도못잊어요\"…..."
+  "[나는농구선수다]서울SK정우빈\"첫골의희열,아직도못잊어요\"…...",
+  "[데일리안오늘뉴스종합]'조작기소특검법'충돌,미래에셋증권도당했...",
+  "'블루웨이브쇼크'세계증시시총하루만에4천800조원증발",
+  "KT이강철감독“볼넷이너무많이나와...제잘못이다”",
+  "중국밖에서도밀리는K-배터리…비중국시장점유율26%로추락",
+  "LG엔솔,왜수조원대의ESS입찰경쟁포기했나?",
+  "박수빈,광주전공수맹활약...제주중원의버팀목으로"
  ],
  "recent_sigs": [
-  [
-   "2026-11-07T11:51:01.004282+09:00",
-   "3가지 지금 팔아야 삼전 주가 반등 할까 닉스 확인할 신호"
-  ],
-  [
-   "2026-11-07T11:51:01.004282+09:00",
-   "폭증 지자체 경기 땡큐 12배 삼성 세수"
-  ],
-  [
-   "2026-11-07T11:51:01.004282+09:00",
-   "떨어져도 손실은 좋아 주식 20만전자 무너졌는데 주주가"
-  ],
   [
    "2026-11-07T12:01:20.798561+09:00",
    "호소 번아웃 블라인드 해킹에 과로 보안인력 5배 금융권"
@@ -6239,9 +6227,33 @@
   [
    "2026-11-07T17:50:57.208495+09:00",
    "잊어요 아직도 서울 희열 정우빈 골의"
+  ],
+  [
+   "2026-11-07T18:01:19.304684+09:00",
+   "조작기소 충돌 당했 특검법 미래에셋증권도"
+  ],
+  [
+   "2026-11-07T18:01:19.304684+09:00",
+   "세계증시 하루만에 쇼크 시총 증발 블루웨이브 4천800조원"
+  ],
+  [
+   "2026-11-07T18:01:19.304684+09:00",
+   "볼넷이 감독 KT 많이 나와 이강철 너무 잘못이다"
+  ],
+  [
+   "2026-11-07T18:01:19.304684+09:00",
+   "시장 배터리 중국 추락 밀리는 밖에서도 점유율 비중국"
+  ],
+  [
+   "2026-11-07T18:01:19.304684+09:00",
+   "포기했나 LG엔솔 수조 입찰 ESS 경쟁 원대의"
+  ],
+  [
+   "2026-11-07T18:01:19.304684+09:00",
+   "버팀목으로 박수빈 중원의 제주 공수 광주전 맹활약"
   ]
  ],
- "last_run": "2026-11-07T17:51:06.092010+09:00",
+ "last_run": "2026-11-07T18:01:38.459671+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
