@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10927477",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704937",
   "https://www.g-enews.com/view.php?ud=202611051549542264bb91c46fcd_1",
   "https://www.joongang.co.kr/article/25474948",
   "https://www.seoul.co.kr/news/economy/2026/11/05/20261105500265?wlog_tag3=naver",
@@ -2999,11 +2997,11 @@
   "https://www.apnews.kr/news/articleView.html?idxno=3052911",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4117239",
   "https://www.insight.co.kr/news/581047",
-  "https://www.the-today.com/news/articleView.html?idxno=93228"
+  "https://www.the-today.com/news/articleView.html?idxno=93228",
+  "https://sports.khan.co.kr/article/202611071543003?pt=nv",
+  "https://www.the-today.com/news/articleView.html?idxno=93231"
  ],
  "seen_titles": [
-  "서울대에서강연하는최태원SK그룹회장",
-  "3분기D램매출369%급증…삼성전자점유율38%로1위",
   "삼성·하이닉스,글로벌D램점유율67%…나란히1·2위",
   "SK바이오사이언스,3분기매출21%증가…\"세전이익흑자전환\"",
   "(2ndLD)Seoulsharesplungeover5pctonAIregulationconcernsafterU",
@@ -6001,13 +5999,11 @@
   "SK인텔릭스,요양시설네트워크로AI로봇'나무엑스'공급확대한다",
   "AI산업규제전망'블루웨이브쇼크'...세계증시4천8백조원증발",
   "\"말보다행동으로\"...코스피폭락장에1천만원투자한李대통령최측근",
-  "SK급락전9440억챙긴최태원…경영권도지켰다"
+  "SK급락전9440억챙긴최태원…경영권도지켰다",
+  "한국시리즈첫선발등판맞아?삼성‘아기사자’장찬희,4이닝1실점...",
+  "SK,중국서AI메모리·데이터센터기술선봬"
  ],
  "recent_sigs": [
-  [
-   "2026-11-07T09:51:04.093668+09:00",
-   "시니어케어 SK인텔릭스 확대 앞세워 나무엑스 시장"
-  ],
   [
    "2026-11-07T10:01:18.785228+09:00",
    "달라졌나 무엇이 노력 변화 SK네트웍스의 AI 실적"
@@ -6251,9 +6247,13 @@
   [
    "2026-11-07T15:41:03.059259+09:00",
    "최태원 경영권도 지켰다 챙긴 급락 9440억"
+  ],
+  [
+   "2026-11-07T15:51:05.765866+09:00",
+   "메모리 데이터센터 중국서 선봬 기술 AI"
   ]
  ],
- "last_run": "2026-11-07T15:41:11.835299+09:00",
+ "last_run": "2026-11-07T15:51:12.176643+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
