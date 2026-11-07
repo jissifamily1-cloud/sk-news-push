@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000353",
-  "https://biz.chosun.com/stock/stock_general/2026/11/05/NRR4SWTRNVDGDOYMNTPUN2HNKE/",
-  "https://www.mt.co.kr/stock/2026/11/05/2026110515534966157",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307953",
   "https://www.yna.co.kr/view/AKR20261105135700003?input=1195m",
   "https://www.newspim.com/news/view/20261105001219",
   "https://www.bloter.net/news/articleView.html?idxno=677870",
@@ -2999,13 +2995,13 @@
   "https://www.insight.co.kr/news/581038",
   "https://www.munhwa.com/article/11629513",
   "https://news.mtn.co.kr/article/2026110709474749771",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611071047434860048"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611071047434860048",
+  "https://www.stnsports.co.kr/news/articleView.html?idxno=325215",
+  "https://www.joongangenews.com/news/articleView.html?idxno=562041",
+  "https://www.pennmike.com/news/articleView.html?idxno=131225",
+  "http://www.4th.kr/news/articleView.html?idxno=2121362"
  ],
  "seen_titles": [
-  "삼전닉스,美데이터센터규제우려에7∼9%대급락마감(종합)",
-  "SK바이오사이언스3분기영업손실112억원…적자축소",
-  "美중간선거후폭풍에코스피300p폭락...양시장매도사이드카[마감...",
-  "코스피,美블루웨이브쇼크에5.28%급락···5380선마감",
   "美블루웨이브쇼크에코스피·코스닥급락...연쇄매도사이드카",
   "美‘블루웨이브’⋯삼성·SK장기계약,'믿는도끼’될까",
   "[특징주]유가급락에항공주줄상승…정유주는약세(종합)",
@@ -6001,7 +5997,11 @@
   "\"시장에공포·피넘쳐날때사라\"는데...급락한AI·반도체주,사도될...",
   "삼성·SK‘반도체잭팟’…경기지자체세수최대12배폭증",
   "[판으로읽는경제]美'블루쓰나미'에코스피붕괴…왜한국이더아팠...",
-  "[WellnessAppliances]SK인텔릭스"
+  "[WellnessAppliances]SK인텔릭스",
+  "워니트리플더블도막아섰다...정관장,SK83-79제압하고2연승",
+  "11월첫째주SK스퀘어주가주후반약세전환",
+  "[펜앤포토]U113경기창원LG세이커스VS서울SK나이츠승자는과연...",
+  "블루쓰나미에막힌AI데이터센터,\"우주로사막으로\""
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,17 @@
   [
    "2026-11-07T11:11:05.628935+09:00",
    "SK인텔릭스"
+  ],
+  [
+   "2026-11-07T11:21:00.674216+09:00",
+   "U11 나이츠 창원 승자는 VS 세이커스 서울 LG 3경기 과연"
+  ],
+  [
+   "2026-11-07T11:21:00.674216+09:00",
+   "사막으로 우주로 막힌 AI데이터센터 블루쓰나미에"
   ]
  ],
- "last_run": "2026-11-07T11:11:11.314187+09:00",
+ "last_run": "2026-11-07T11:21:10.649938+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
