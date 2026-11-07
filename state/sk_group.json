@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202611058611i",
-  "https://www.dailian.co.kr/news/view/1711343/?sc=Naver",
-  "https://en.yna.co.kr/view/AEN20261105008800320?input=2106m",
-  "https://www.mk.co.kr/article/12198484",
-  "https://www.medipana.com/news/articleView.html?idxno=421061",
-  "http://www.metroseoul.co.kr/article/20261105500416",
   "https://www.newsway.co.kr/news/view?ud=2026110514544030337",
   "https://www.m-i.kr/news/articleView.html?idxno=2014919",
   "https://www.yna.co.kr/view/PYH20261105151500013?input=1196m",
@@ -2999,15 +2993,15 @@
   "https://www.segye.com/newsView/20261106511903?OutUrl=naver",
   "https://view.asiae.co.kr/article/2026110711261496170",
   "https://www.sedaily.com/article/20111434",
-  "https://www.yna.co.kr/view/AKR20261107028100073?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261107028100073?input=1195m",
+  "https://www.pennmike.com/news/articleView.html?idxno=131226",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261107.99099002105",
+  "https://www.dt.co.kr/article/12093646",
+  "https://www.newsis.com/view/NISX20261107_0003858825",
+  "https://magazine.hankyung.com/business/article/202611072138b",
+  "https://www.etnews.com/20261107000014"
  ],
  "seen_titles": [
-  "코스피,美AI규제우려에5%대급락…외국인3.4조매도",
-  "한국채권데이터,회사미수금청구·수금·회수AI로자동화",
-  "'美중간선거쇼크'에양대시장사이드카…삼성전자,'20만전자'턱걸...",
-  "“코스피폭락에도구조대기다릴만…美중간선거후반등기대”",
-  "[거래소외국인]삼성전자·SK하이닉스2조원넘게팔았다…NAVER·대덕전...",
-  "[거래소기관]바이오·자동차주도담았다…방산·2차전지주는매도우...",
   "고전의품격살리고,낭만의울림더하고",
   "【市场力量】SK集团将SKE&A纳入旗下股东价值究竟是增是减？",
   "웰니스,브랜드의미래를밝히다…제2회대한민국웰니스브랜드대상...",
@@ -6001,7 +5995,13 @@
   "용인‘1호가로주택정비사업’물꼬…‘중앙하이츠구성플랫폼시티’...",
   "코스피5000선붕괴에도…노무라\"1만피간다\"",
   "TSMC,엔비디아요청에첨단메모리진출검토…삼성·SK하이닉스경쟁...",
-  "\"'블루웨이브쇼크'에세계증시시총하루만에4천800조원증발\""
+  "\"'블루웨이브쇼크'에세계증시시총하루만에4천800조원증발\"",
+  "[펜앤포토]U113경기,강자는늦게등장한다...SK나이츠10점차승리",
+  "[속보]\"'블루웨이브쇼크'에세계증시시총하루만에4800조원증발\"",
+  "닛케이“블루웨이브발투매에세계증시시총하루만에4800조원증발”",
+  "삼전·닉스지금팔아야할까…주가반등전확인할'3가지신호'",
+  "[속보]삼성·SK‘땡큐’…경기지자체세수최대12배폭증",
+  "“주식더떨어져도좋아?”…20만전자무너졌는데“손실은주주가떠..."
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,21 @@
   [
    "2026-11-07T11:41:01.839212+09:00",
    "4천800조원 세계증시 블루웨이브 시총 하루만에 쇼크 증발"
+  ],
+  [
+   "2026-11-07T11:51:01.004282+09:00",
+   "3가지 지금 팔아야 삼전 주가 반등 할까 닉스 확인할 신호"
+  ],
+  [
+   "2026-11-07T11:51:01.004282+09:00",
+   "폭증 지자체 경기 땡큐 12배 삼성 세수"
+  ],
+  [
+   "2026-11-07T11:51:01.004282+09:00",
+   "떨어져도 손실은 좋아 주식 20만전자 무너졌는데 주주가"
   ]
  ],
- "last_run": "2026-11-07T11:41:08.632774+09:00",
+ "last_run": "2026-11-07T11:51:12.366809+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
