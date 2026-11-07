@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=753934",
-  "https://www.edaily.co.kr/News/Read?newsId=06819126645642768&mediaCodeNo=257",
-  "https://www.donga.com/news/Economy/article/all/20261105/134974601/1",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000080110",
-  "https://www.sportsseoul.com/news/read/1647381",
-  "https://www.ajunews.com/view/20261105181359297",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107773",
-  "https://www.edaily.co.kr/News/Read?newsId=06858486645642768&mediaCodeNo=257",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5041268",
   "https://www.news1.kr/realestate/general/6344780",
   "https://www.edaily.co.kr/News/Read?newsId=06828966645642768&mediaCodeNo=257",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=280609",
@@ -2999,18 +2990,18 @@
   "https://biz.heraldcorp.com/article/10929440",
   "https://www.pennmike.com/news/articleView.html?idxno=131265",
   "https://www.tokenpost.kr/news/insights/434621",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000414"
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000414",
+  "https://www.starnewskorea.com/sports/2026/11/08/2026110808393551582",
+  "https://magazine.hankyung.com/business/article/202611082661b",
+  "https://www.econovill.com/news/articleView.html?idxno=756394",
+  "https://www.dt.co.kr/article/12093687",
+  "https://www.etnews.com/20261108000012",
+  "https://www.kmib.co.kr/article/20261108500036",
+  "https://www.jemin.com/news/articleView.html?idxno=846425",
+  "http://www.kjdaily.com/article.php?aid=1794094735691514276",
+  "https://www.munhwa.com/article/11629578"
  ],
  "seen_titles": [
-  "최태원\"AI전환속도가韓운명좌우\"…성장공식대전환주문",
-  "SK바이오사이언스,IDT성장·백신판매확대에실적회복",
-  "장동현SK부회장,SK에코플랜트대표직사임",
-  "[속보]최태원\"한국·일본손잡아야AI패권경쟁서승산\"",
-  "'물량보다수익성'LG엔솔,ESS수주전한발뺀배경은?",
-  "최태원\"수출중심성장,더안통한다…성장방정식바꿔야\"(종합)",
-  "“NCM·LFP두축모두잡겠다”…엘앤에프,전기차·ESS동시공략",
-  "삼성전자주주환원왜미루나…라이프자산운용,준법감시위에이해상충...",
-  "최태원,SK주식9440억원어치매각…재산분할금마련",
   "서울대달군최태원…\"AI지속가능성,가장큰관심사\"",
   "['클릭'증시]美AI규제공포에반도체'털썩'",
   "SK에코플랜트체질바꾼장동현,대표이사용퇴",
@@ -6001,7 +5992,16 @@
   "외국인,지난주에만하이닉스5.4조·삼성전자2.2조팔았다",
   "[재계핫이슈]'미국민심'직격탄맞은삼전닉스…데이터센터건설제동...",
   "[온체인주식선물]SK하이닉스,정규장종가보다5.20%웃돈",
-  "OTT무료앞세운통신3사…고가요금논란"
+  "OTT무료앞세운통신3사…고가요금논란",
+  "'광주는끝까지추격하고,부천은10경기무승'그래도K리그1잔류까지...",
+  "쌓아둔현금215조…삼성전자,주주환원도역대급",
+  "증권사실적상반기정점찍었나…3분기순이익반토막에주가연저점",
+  "삼성전자외인보유율17년만최저…‘블루쓰나미’에금융위기급",
+  "젠슨황'中스파이'의심女와연인설…방한하루앞두고장녀매디슨...",
+  "“한여름밤꿈이었나”…추락하는韓증시,상장사무더기‘신저가’",
+  "AI투자우려에흔들린엔비디아…빅테크설비투자가반등의열쇠될까",
+  "LG에너지솔루션한주간6.12%하락…시가총액5조1천억원감소",
+  "개미가기관·외국인이기는방법은딱하나…단타보다장투"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,17 @@
   [
    "2026-11-08T08:41:02.331394+09:00",
    "고가 앞세운 무료 요금 논란 통신3사 OTT"
+  ],
+  [
+   "2026-11-08T08:51:01.099302+09:00",
+   "시가총액 주간 LG에너지솔루션 감소 하락 5조1천억원"
+  ],
+  [
+   "2026-11-08T08:51:01.099302+09:00",
+   "하나 장투 기관 방법은 외국인 단타보다 개미가 이기는"
   ]
  ],
- "last_run": "2026-11-08T08:41:23.484555+09:00",
+ "last_run": "2026-11-08T08:51:09.441008+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
