@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002293",
-  "https://www.kbmaeil.com/article/20261105500688",
-  "https://www.hankyung.com/article/2026110589811",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=451321",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=767690",
   "https://www.businessplus.kr/news/articleView.html?idxno=119382",
   "https://www.m-economynews.com/news/article.html?no=72661",
   "https://www.bloter.net/news/articleView.html?idxno=677894",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20261107022900008?input=1195m",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502102",
   "https://www.dailian.co.kr/news/view/1712101/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20261106189100008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261106189100008?input=1195m",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502107",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502105",
+  "https://www.yna.co.kr/view/AKR20261107048600008?input=1195m",
+  "http://www.metroseoul.co.kr/article/20261106500193",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100444"
  ],
  "seen_titles": [
-  "미국블루쓰나미,한국증시파랗게질렸다",
-  "퇴직연금주식형ETF줄하락에믿었던'반도체채권혼합'도손실",
-  "최태원“과거경제논리로는안돼”⋯미·중패권경쟁속韓경제진...",
-  "SK바이오사이언스,매출총이익45%늘었지만…누적적자제자리",
-  "“10월이바닥인줄알았더니지하실이”…레버리지수조물린개미들...",
   "LG엔솔,3차ESS중앙계약시장불참…“기존사업집중”",
   "주요기업들,AI시대조직개편본격화...대내외불확실성대응차원",
   "SK바사,'자회사선방'에3분기영업손실전년비42%줄어",
@@ -6001,7 +5996,12 @@
   "'블루쓰나미'증시덮쳤지만…K콘텐츠·통신주는웃었다",
   "AI데이터센터규제우려과도했나…이번주코스피반등시험대",
   "급락장지나도안심못한다…코스피반등vs추가하락‘안갯속’[주...",
-  "급락장에줄줄이추락…지난주상장사3개중1개는연중최저가"
+  "급락장에줄줄이추락…지난주상장사3개중1개는연중최저가",
+  "반도체무너질때K콘텐츠·통신주는웃었다…미국중간선거이후희비...",
+  "외국인,삼성전자·SK하이닉스7조6000억원투매…보유율도수년만에최...",
+  "대형증권사3분기실적'반토막'…주가도줄줄이연저점",
+  "SK인텔릭스,'나무엑스'시니어케어시장공략…4자간MOU",
+  "[k2.preview]3년의기다림끝낼시간...수원삼성,승격까지단1점!빅버..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,21 @@
   [
    "2026-11-08T06:31:12.187665+09:00",
    "최저가 급락장에 줄줄이 1개는 추락 지난주 연중 상장사 3개중"
+  ],
+  [
+   "2026-11-08T06:41:04.304967+09:00",
+   "실적 반토막 대형 줄줄이 3분기 주가도 증권사 연저점"
+  ],
+  [
+   "2026-11-08T06:41:04.304967+09:00",
+   "시장 4자간 시니어케어 SK인텔릭스 MOU 공략 나무엑스"
+  ],
+  [
+   "2026-11-08T06:41:04.304967+09:00",
+   "삼성 기다림 수원 1점 끝낼 승격까지 빅버 시간 3년의"
   ]
  ],
- "last_run": "2026-11-08T06:31:18.574412+09:00",
+ "last_run": "2026-11-08T06:41:16.029088+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
