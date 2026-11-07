@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500267.html",
-  "https://www.edaily.co.kr/News/Read?newsId=05999126645642768&mediaCodeNo=257",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501660",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501661",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1336073",
   "https://cn.asiatoday.co.kr/view.php?key=20261105001548231",
@@ -2999,12 +2996,12 @@
   "https://www.the-today.com/news/articleView.html?idxno=93224",
   "https://www.sedaily.com/article/20111429",
   "https://www.sedaily.com/article/20111426",
-  "https://www.sedaily.com/article/20111423"
+  "https://www.sedaily.com/article/20111423",
+  "https://www.g-enews.com/view.php?ud=202611071015465762fbbec65dfb_1",
+  "https://www.jbnews.com/news/articleView.html?idxno=1515339",
+  "https://www.ytn.co.kr/_ln/0104_202611071044059228"
  ],
  "seen_titles": [
-  "네발로공장순찰·물류까지…에브리봇,中DDT와로봇공동개발",
-  "[2026BestLawFirmsinKorea]Skadden",
-  "박근태S2WCTO\"기업AI로영토확장,비보안매출비중40%목표\"[fn이...",
   "[더밸류브리핑]오늘의증권사소식...하나증권·유안타증권·SK증권",
   "청주시,어르신병원동행서비스기관6곳→9곳확대",
   "[기업家]SK그룹㉕ㅣ반도체호황·에너지실적개선속조직쇄신…글...",
@@ -6001,7 +5998,10 @@
   "최태원9440억매각뒤SK주가14.75%↓하락?폭락?",
   "“중소벤처미래는AX에”…중진공,미래인재양성비전선포",
   "美중간선거발AI규제악재…개인·기관2.3조방어선무너뜨린외인",
-  "반도체급락에도SOXL몰린서학개미…손실눈덩이우려"
+  "반도체급락에도SOXL몰린서학개미…손실눈덩이우려",
+  "월가AI회의론에출렁인코스피,삼성전자·SK하이닉스데이터센터수...",
+  "안양정관장,서울SK에83대79대역전극",
+  "미중간선거'블루쓰나미'후폭풍...흔들리는코스피"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,13 @@
   [
    "2026-11-07T10:41:01.806955+09:00",
    "눈덩이 급락에도 우려 서학개미 손실 반도체 SOXL 몰린"
+  ],
+  [
+   "2026-11-07T10:51:00.578988+09:00",
+   "흔들리는 선거 블루 쓰나미 후폭풍 코스피 중간"
   ]
  ],
- "last_run": "2026-11-07T10:41:14.264526+09:00",
+ "last_run": "2026-11-07T10:51:06.301008+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
