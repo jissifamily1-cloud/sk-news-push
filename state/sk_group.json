@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=730755",
-  "https://news.mtn.co.kr/article/2026110515585864713",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443277",
-  "https://www.fnnews.com/news/202611051557099258",
-  "https://www.yna.co.kr/view/PYH20261105150100013?input=1196m",
-  "https://www.newsgn.com/news/articleView.html?idxno=583819",
-  "https://www.yna.co.kr/view/AKR20261105040851008?input=1195m",
-  "https://www.yna.co.kr/view/AKR20261105139200527?input=1195m",
   "https://www.m-i.kr/news/articleView.html?idxno=2015032",
   "http://www.finomy.com/news/articleView.html?idxno=265778",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713021",
@@ -2999,17 +2991,17 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=884535",
   "https://www.gokorea.kr/news/articleView.html?idxno=884539",
   "https://www.newspim.com/news/view/20261107000024",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443603"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443603",
+  "http://www.wsobi.com/news/articleView.html?idxno=320799",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=257732",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486683",
+  "https://www.tokenpost.kr/news/market/434354",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=730894",
+  "https://www.nocutnews.co.kr/news/6603546",
+  "https://www.peoplewatch.co.kr/article/view/ppw202611060008",
+  "https://www.newspim.com/news/view/20261107000029"
  ],
  "seen_titles": [
-  "연봉·안정성따지는Z세대…취업희망기업도제조업으로이동",
-  "삼성전자·SK하이닉스전저점깨지나…美데이터센터규제우려에직격...",
-  "AI데이터센터건설둔화가증시변수…중기강세속중간선거경계론",
-  "코스피·코스닥,美'블루웨이브쇼크'에5%대동반급락",
-  "‘블루웨이브’에검은목요일…코스피‘7개월전’으로회귀[이런국...",
-  "최태원,SK하이닉스美AI투자법인의장에…곽노정·정재헌이사합류",
-  "美'블루웨이브쇼크'코스피5380대로데이터센터규제우려…삼성전자...",
-  "\"SKT,부산불꽃축제통신망사전점검\"…AI기반체감품질관리로120만...",
   "서울아파트값91주연속상승…'역대최장기록'또경신外[오늘의...",
   "'블루쓰나미'덮친코스피·코스닥…5%대급락",
   "코스피,블루웨이브쇼크?…5%급락마감",
@@ -6001,7 +5993,15 @@
   "AI전환노력속SK네트웍스의실적변화,무엇이달라졌나?",
   "인버스상품'승승장구'삼성전자·SK하이닉스레버리지의눈물",
   "[KS4]'고졸신인'장찬희KS3차전'깜짝'선발,19년만에기록깰까",
-  "'블루쓰나미'에흔들린원화…해외IB\"경상흑자가버팀목\""
+  "'블루쓰나미'에흔들린원화…해외IB\"경상흑자가버팀목\"",
+  "SK그룹·HL그룹,사장단·임원인사단행",
+  "CheyTae-wonReinforcesSKhynixLeadershipasGroupPushesAIStrateg",
+  "[인사]SK하이닉스",
+  "6일AMD($AMD)11.04%상승,다우0.46%하락",
+  "[주간증시온도계]美AI규제공포에증시급랭…코스피5000선도겨우사...",
+  "삼성제국의흥망성쇠와이승엽의시구,역사적인물3명이모인아이러...",
+  "[김종운의숲에서배우다]⑧그루터기에서돋아나는희망'맹아갱신'",
+  "[헐크의일기]2026년한국시리즈를바라보며"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,21 @@
   [
    "2026-11-07T10:01:18.785228+09:00",
    "버팀목 경상흑자가 원화 IB 흔들린 해외 블루쓰나미"
+  ],
+  [
+   "2026-11-07T10:10:59.107247+09:00",
+   "3명이 제국의 시구 흥망성쇠와 아이러 삼성 이승엽의 역사적 인물 모인"
+  ],
+  [
+   "2026-11-07T10:10:59.107247+09:00",
+   "그루터기에서 맹아 갱신 돋아나는 희망"
+  ],
+  [
+   "2026-11-07T10:10:59.107247+09:00",
+   "한국시리즈를 바라보며 2026년"
   ]
  ],
- "last_run": "2026-11-07T10:01:32.843457+09:00",
+ "last_run": "2026-11-07T10:11:10.888057+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
