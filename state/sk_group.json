@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202611051822299134",
-  "https://www.xportsnews.com/article/2216095",
-  "https://www.fnnews.com/news/202611051834268580",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443311",
   "https://www.dailian.co.kr/news/view/1711476/?sc=Naver",
   "https://www.fnnews.com/news/202611051834204346",
@@ -2999,12 +2996,12 @@
   "https://www.the-today.com/news/articleView.html?idxno=93266",
   "https://www.etoday.co.kr/news/view/2645349",
   "https://www.yna.co.kr/view/AKR20261106091800017?input=1195m",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880926"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880926",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=624462",
+  "https://www.dt.co.kr/article/12093682",
+  "https://econotimes.com/South-Korea-Waives-140-Margin-Loan-Ratio-Rule-for-Three-Months-1772915"
  ],
  "seen_titles": [
-  "통상전문가들“의회견제강화돼도고관세지속…韓대미투자는유불...",
-  "비중쏠리고자금몰리고…삼전닉스에명운건코스피ETF",
-  "\"김부장풀매수,떨어지겠네\"인간지표보고투자하는개미들",
   "[미국중간선거②]美AI산업'제동'걸리나…韓반도체촉각",
   "PEF보유기업'운용사경영전략'도신용위험변수되나",
   "서동주,하이닉스'226층'에물렸다…\"다들제가팔면들어간다고\"",
@@ -6001,7 +5998,10 @@
   "[NZSIINDEX]2026년11월4일…코스피+0.62%반등…미국민주당선거...",
   "오늘(8일)안세영코리아오픈결승⋯경기시간ㆍ중계채널은?",
   "미국발AI데이터센터불안…국내업계\"사업추진문제없어\"",
-  "상장사3곳중1곳신저가···증시덮친투매"
+  "상장사3곳중1곳신저가···증시덮친투매",
+  "[한국증시]양대지수폭락후뉴욕기술주반등…삼성전자·SK하이닉스·...",
+  "한국인1800만명챗GPT쓴다…치고올라온클로드‘15배급증’",
+  "SouthKoreaWaives140%MarginLoanRatioRuleforThreeMonths"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,17 @@
   [
    "2026-11-08T08:21:00.943616+09:00",
    "상장사 3곳 신저가 1곳 투매 덮친 증시"
+  ],
+  [
+   "2026-11-08T08:31:10.974064+09:00",
+   "치고 클로드 올라온 1800만명 한국인 쓴다 15배 챗GPT 급증"
+  ],
+  [
+   "2026-11-08T08:31:10.974064+09:00",
+   "Ratio Margin Loan South Korea Rule Three Waives for Months"
   ]
  ],
- "last_run": "2026-11-08T08:21:07.180894+09:00",
+ "last_run": "2026-11-08T08:31:19.280828+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
