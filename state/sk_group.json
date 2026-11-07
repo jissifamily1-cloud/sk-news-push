@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713124",
-  "https://news.dealsitetv.com/articles/178155",
-  "https://www.ajunews.com/view/20261105160251587",
-  "https://www.dailian.co.kr/news/view/1711468/?sc=Naver",
-  "https://www.newsis.com/view/NISX20261105_0003856989",
-  "https://www.lawissue.co.kr/view.php?ud=202611051814548183f4ab64559d_12",
-  "https://www.hankookilbo.com/news/article/A2026110517510004345?did=NA",
-  "https://biz.chosun.com/industry/company/2026/11/05/WDUDHVXG6NAGTFI2WWPTURTAV4/",
   "https://www.joongang.co.kr/article/25476132",
   "https://biz.heraldcorp.com/article/10927628",
   "https://biz.sbs.co.kr/article_hub/20000344577?division=NAVER",
@@ -2999,17 +2991,17 @@
   "http://www.inews24.com/view/2023683",
   "https://magazine.hankyung.com/business/article/202611058399b",
   "https://www.cbci.co.kr/news/articleView.html?idxno=624435",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080538"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080538",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16270954",
+  "https://www.interfootball.co.kr/news/articleView.html?idxno=698010",
+  "https://www.kbsm.net/news/view.php?idx=540728",
+  "https://www.g-enews.com/view.php?ud=202611080712143471fbbec65dfb_1",
+  "https://www.ikbc.co.kr/article/view/kbc202611080004",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/08/2026110800004.html",
+  "https://www.abcn.kr/news/articleView.html?idxno=94203",
+  "https://www.newsway.co.kr/news/view?ud=2026110615283335667"
  ],
  "seen_titles": [
-  "'페이커'속한T1,더존백업솔루션취약점으로'개인정보유출'우려",
-  "고성군,SK오션플랜트투자이행지원요청",
-  "SK바이오'형제'실적희비...SK바이오팜'훨훨',바이오사이언스는적...",
-  "잘나가던中반도체도증시'된서리'…양쯔메모리IPO보류",
-  "[HIT알공]신라젠,FDA에고형암치료제'BAL0891'1상IND변경신청",
-  "中CXMT,3분기D램점유율9%…1년만에두배가까이성장",
-  "중간선거속AIDC반대표심...모라토리엄본격화",
-  "[더존비즈온사태]11월5일유출의심기업현황...SKTT1유출가능성",
   "선도전기,884억규모SK하이닉스용인Y1Ph-2설비설치공사계약",
   "반도체장비·AI누수탐지기술인정…딥테크스타트업6곳수상",
   "서울대학생들과기념촬영하는최태원SK그룹회장",
@@ -6001,7 +5993,15 @@
   "[김동선號M&S100일]①유통서반도체까지…지분굳히고시너지는시험...",
   "삼전닉스'장기호황'자신하는데…D램값꺾이고블루웨이브까지",
   "[엔비디아]방한하루앞두고전격취소…매디슨황이한국에오지못...",
-  "[와이파이]11월2주,AI로스팸·보이스피싱예방…KT외2가지통신혜..."
+  "[와이파이]11월2주,AI로스팸·보이스피싱예방…KT외2가지통신혜...",
+  "'1패뒤3연승'삼성라이온즈,한국시리즈우승확률100%시나리오근...",
+  "[K리그1프리뷰]'2위+ACLE티켓목표'대전,인천과결전...'홈9경기무...",
+  "젠슨황장녀매디슨황,방한하루앞두고돌연취소",
+  "美중간선거충격에멈칫한1조달러AI투자…삼성·SK하이닉스HBM캘린...",
+  "'현금215조'삼성전자…주주환원·미래투자에통큰베팅",
+  "광주,'꼴찌확정'은피했다",
+  "[칼럼]\"사팔사팔말라더니이제와서위험?\"…최태원말믿은개미만피...",
+  "채권혼합형ETF몸집20조육박…2년새7배넘게성장"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,29 @@
   [
    "2026-11-08T07:11:04.840668+09:00",
    "2주 2가지 11월 스팸 통신혜 예방 보이스피싱 KT AI로"
+  ],
+  [
+   "2026-11-08T07:21:07.779168+09:00",
+   "삼성 1조달러 HBM AI 충격에 멈칫한 투자 캘린 중간선거 SK하이닉스"
+  ],
+  [
+   "2026-11-08T07:21:07.779168+09:00",
+   "주주환원 현금 삼성전자 투자에 베팅 215조 미래"
+  ],
+  [
+   "2026-11-08T07:21:07.779168+09:00",
+   "광주 확정 피했다 꼴찌"
+  ],
+  [
+   "2026-11-08T07:21:07.779168+09:00",
+   "위험 개미만 말라더니 최태원 와서 사팔사팔 믿은 이제"
+  ],
+  [
+   "2026-11-08T07:21:07.779168+09:00",
+   "20조 2년 육박 ETF 7배 넘게 채권혼합형 성장 몸집"
   ]
  ],
- "last_run": "2026-11-08T07:11:26.415431+09:00",
+ "last_run": "2026-11-08T07:21:24.221221+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
