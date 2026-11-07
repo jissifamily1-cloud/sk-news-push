@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501661",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1336073",
-  "https://cn.asiatoday.co.kr/view.php?key=20261105001548231",
   "https://www.sportsseoul.com/news/read/1647330",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=880296",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=623174",
@@ -2999,12 +2996,12 @@
   "https://www.sedaily.com/article/20111423",
   "https://www.g-enews.com/view.php?ud=202611071015465762fbbec65dfb_1",
   "https://www.jbnews.com/news/articleView.html?idxno=1515339",
-  "https://www.ytn.co.kr/_ln/0104_202611071044059228"
+  "https://www.ytn.co.kr/_ln/0104_202611071044059228",
+  "https://www.imaeil.com/page/view/2026110710540895159",
+  "https://www.sportschosun.com/baseball/2026-11-07/202611070100048610004917",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502049"
  ],
  "seen_titles": [
-  "[더밸류브리핑]오늘의증권사소식...하나증권·유안타증권·SK증권",
-  "청주시,어르신병원동행서비스기관6곳→9곳확대",
-  "[기업家]SK그룹㉕ㅣ반도체호황·에너지실적개선속조직쇄신…글...",
   "[美선거머니맵③]'블루웨이브'에증시희비…2차전지웃고반도체긴...",
   "미중간선거쇼크에코스피5400선붕괴…반도체주급락[MTN마감시황]",
   "[증시-마감]美'블루웨이브쇼크'에코스피지난4월이후저점경신",
@@ -6001,7 +5998,10 @@
   "반도체급락에도SOXL몰린서학개미…손실눈덩이우려",
   "월가AI회의론에출렁인코스피,삼성전자·SK하이닉스데이터센터수...",
   "안양정관장,서울SK에83대79대역전극",
-  "미중간선거'블루쓰나미'후폭풍...흔들리는코스피"
+  "미중간선거'블루쓰나미'후폭풍...흔들리는코스피",
+  "\"월드컵해엔S가우승한다\"…삼성·SK·SSG24년징크스,KT돌풍에도이...",
+  "'털보'에게시리즈운명이달렸다!100%확률도전하는삼성,반격꿈꾸...",
+  "솔루스첨단소재헝가리1공장멈췄다…2공장은정상가동"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-11-07T10:51:00.578988+09:00",
    "흔들리는 선거 블루 쓰나미 후폭풍 코스피 중간"
+  ],
+  [
+   "2026-11-07T11:01:15.523865+09:00",
+   "가동 헝가리 멈췄다 1공장 솔루스첨단소재 정상 2공장은"
   ]
  ],
- "last_run": "2026-11-07T10:51:06.301008+09:00",
+ "last_run": "2026-11-07T11:01:22.457359+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
