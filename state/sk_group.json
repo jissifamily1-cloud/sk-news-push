@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20261105501225",
-  "https://www.bigtanews.co.kr/article/view/big202611050019",
-  "https://www.fntimes.com/html/view.php?ud=2026110517381765647fd637f543_18",
   "https://www.sedaily.com/article/20110863",
   "http://www.metroseoul.co.kr/article/20261105500555",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002293",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/AKR20261106156200003?input=1195m",
   "https://www.mt.co.kr/stock/2026/11/08/2026110612293654389",
   "https://www.newsis.com/view/NISX20261104_0003854692",
-  "https://www.yna.co.kr/view/AKR20261107025700008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261107025700008?input=1195m",
+  "https://www.kbmaeil.com/article/20261108500011",
+  "https://www.yna.co.kr/view/AKR20261107022900008?input=1195m",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502102"
  ],
  "seen_titles": [
-  "AI규제우려에…반도체주와르르[美‘블루쓰나미’]",
-  "LG엔솔,1.18GW규모3차ESS입찰불참⋯삼성SDI·SK온경쟁",
-  "美'블루쓰나미'에코스피가쓸려갔다",
   "최태원회장\"AI가韓운명좌우…2100조투자?'게임의룰'변해\"",
   "반도체美투자압박세지고메모리수요는지연되나...웃지못하는국...",
   "미국블루쓰나미,한국증시파랗게질렸다",
@@ -6001,7 +5998,10 @@
   "삼전현금200조돌파…올해주주환원도미래투자도100조+α",
   "코스피200'-28%'뚝떨어질때...\"그래도잘버텼다\"선방한ETF",
   "삼성,빠르면이달중순정기인사…'실적·미래'초점맞추나",
-  "'블루쓰나미'에휘청코스피,美증시반등에충격벗어날까"
+  "'블루쓰나미'에휘청코스피,美증시반등에충격벗어날까",
+  "외국인,삼성전자·SK하이닉스7.6조순매도",
+  "'블루쓰나미'증시덮쳤지만…K콘텐츠·통신주는웃었다",
+  "AI데이터센터규제우려과도했나…이번주코스피반등시험대"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-11-08T06:11:03.957353+09:00",
    "증시 쓰나미 반등에 충격 벗어날까 코스피 블루 휘청"
+  ],
+  [
+   "2026-11-08T06:20:59.716697+09:00",
+   "우려 규제 시험대 반등 데이터센터 AI 과도했나 코스피"
   ]
  ],
- "last_run": "2026-11-08T06:11:35.383205+09:00",
+ "last_run": "2026-11-08T06:21:06.368923+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
