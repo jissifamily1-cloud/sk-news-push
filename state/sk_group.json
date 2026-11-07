@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=756186",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309064",
-  "https://biz.sbs.co.kr/article_hub/20000344554?division=NAVER",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=304343",
   "https://www.medicopharma.co.kr/news/articleView.html?idxno=70254",
   "https://www.newsis.com/view/NISX20261105_0003856771",
   "http://www.kdfnews.com/news/articleView.html?idxno=190512",
@@ -2999,13 +2995,13 @@
   "https://www.ajunews.com/view/20261107132029865",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957254",
   "https://econotimes.com/Nikkei-and-Kospi-Fall-6-as-Global-Technology-Sell-Off-Spreads-1772462",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282694&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282694&CMPT_CD=P0010",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018300",
+  "https://www.etoday.co.kr/news/view/2645302",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601755",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282688&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "코스피,하루만에5.28%폭락…AI데이터센터규제우려에반도체주직...",
-  "[마감시황]코스피5%넘게빠져5300선…양시장사이드카발동",
-  "미국중간선거'블루웨이브'에코스피5.28%내린5383.80마감",
-  "'블루쓰나미'저격당한코스피…5.28%급락에5300선마감",
   "美민주당,데이터센터건설깐깐하게?…삼전·닉스급락마감[특징주]",
   "美선거후폭풍에코스피5380선'털썩'…코스닥도5%급락마감",
   "SK바이오사이언스,3분기매출1824억…전년비21%↑",
@@ -6001,7 +5997,11 @@
   "美'블루웨이브'충격에세계증시시총하루새4800조원증발",
   "\"'블루웨이브쇼크'에세계증시시총하루만에4,800조원증발\"",
   "NikkeiandKospiFall6%asGlobalTechnologySell-OffSpreads",
-  "'3년만의승격'한걸음남은수원,라이벌FC서울과'슈퍼매치'기대"
+  "'3년만의승격'한걸음남은수원,라이벌FC서울과'슈퍼매치'기대",
+  "'홍금인맥’임형주,SK그룹최태원회장과화기애애‘인증샷’공개…...",
+  "“민주당중간선거압승에세계증시시총하루4773조원증발”",
+  "세르지우제주SK감독\"전국체전이후좋지않은잔디,양팀모두에게...",
+  "이현중없는마줄스호,농구월드컵예선에서'금빛기운'이어갈까"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,17 @@
   [
    "2026-11-07T13:41:03.960280+09:00",
    "3년만의 FC서울과 슈퍼매치 수원 남은 라이벌 기대 승격 걸음"
+  ],
+  [
+   "2026-11-07T13:50:59.376407+09:00",
+   "잔디 이후 세르지우 모두에게 전국체전 않은 제주SK 양팀 좋지 감독"
+  ],
+  [
+   "2026-11-07T13:50:59.376407+09:00",
+   "이어갈까 금빛 농구월드컵 이현중 기운 마줄스호 없는 예선에서"
   ]
  ],
- "last_run": "2026-11-07T13:41:12.548415+09:00",
+ "last_run": "2026-11-07T13:51:08.199534+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
