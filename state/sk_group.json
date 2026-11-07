@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261105135700003?input=1195m",
-  "https://www.newspim.com/news/view/20261105001219",
-  "https://www.bloter.net/news/articleView.html?idxno=677870",
-  "http://www.metroseoul.co.kr/article/20261105500410",
   "https://www.dt.co.kr/article/12093446",
   "https://www.ppss.kr/news/articleView.html?idxno=319322",
   "https://www.khan.co.kr/article/202611051603001",
@@ -2999,13 +2995,13 @@
   "https://www.stnsports.co.kr/news/articleView.html?idxno=325215",
   "https://www.joongangenews.com/news/articleView.html?idxno=562041",
   "https://www.pennmike.com/news/articleView.html?idxno=131225",
-  "http://www.4th.kr/news/articleView.html?idxno=2121362"
+  "http://www.4th.kr/news/articleView.html?idxno=2121362",
+  "https://www.newsis.com/view/NISX20261107_0003858830",
+  "http://www.economytalk.kr/news/articleView.html?idxno=425150",
+  "https://www.hinews.co.kr/view.php?ud=202611071119046274cd8b879b3c_48",
+  "https://www.segye.com/newsView/20261106511903?OutUrl=naver"
  ],
  "seen_titles": [
-  "美블루웨이브쇼크에코스피·코스닥급락...연쇄매도사이드카",
-  "美‘블루웨이브’⋯삼성·SK장기계약,'믿는도끼’될까",
-  "[특징주]유가급락에항공주줄상승…정유주는약세(종합)",
-  "[마감시황]코스피,300.00포인트(-5.28%)내린5383.80마감",
   "코스피,AI데이터센터규제우려에5%대급락…양시장매도사이드카...",
   "코스피·코스닥동반5%대급락마감‥삼성전자7%↓·SK하이닉스9%↓",
   "SK바이오팜,3분기영업이익1163억원‘역대최대’…전년比65.9%↑",
@@ -6001,7 +5997,11 @@
   "워니트리플더블도막아섰다...정관장,SK83-79제압하고2연승",
   "11월첫째주SK스퀘어주가주후반약세전환",
   "[펜앤포토]U113경기창원LG세이커스VS서울SK나이츠승자는과연...",
-  "블루쓰나미에막힌AI데이터센터,\"우주로사막으로\""
+  "블루쓰나미에막힌AI데이터센터,\"우주로사막으로\"",
+  "삼성장찬희,19년만에KS신인선발등판…KT는로건으로맞불(종합)[...",
+  "[Q4전망]\"AI전환비용딛고체력입증\"SK네트웍스…\"영업익컨센서스...",
+  "코스피5000선흔들리자AI거품론재점화…반도체실적보다투자속도...",
+  "용인‘1호가로주택정비사업’물꼬…‘중앙하이츠구성플랫폼시티’..."
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,13 @@
   [
    "2026-11-07T11:21:00.674216+09:00",
    "사막으로 우주로 막힌 AI데이터센터 블루쓰나미에"
+  ],
+  [
+   "2026-11-07T11:31:09.200880+09:00",
+   "용인 가로주택정비사업 물꼬 플랫폼시티 중앙하이츠 구성 1호"
   ]
  ],
- "last_run": "2026-11-07T11:21:10.649938+09:00",
+ "last_run": "2026-11-07T11:31:15.120003+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
