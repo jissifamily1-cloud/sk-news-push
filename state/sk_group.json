@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20261106104255MFr",
-  "https://www.fnnews.com/news/202611061038425712",
-  "https://www.etoday.co.kr/news/view/2644988",
-  "https://www.gokorea.kr/news/articleView.html?idxno=884400",
-  "https://dealsite.co.kr/articles/172237",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7192547",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730698",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=818316",
   "https://www.cnbnews.com/news/articleView.html?idxno=1022637",
   "https://basketkorea.com/news/newsview.php?ncode=1065577256567471",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20111518",
   "https://magazine.hankyung.com/business/article/202611093478b",
   "https://www.chosun.com/economy/tech_it/2026/11/09/DPNXQGN4CBHQLO7BYEWVFM635Y/",
-  "https://www.ddaily.co.kr/page/view/2026110819185607962"
+  "https://www.ddaily.co.kr/page/view/2026110819185607962",
+  "https://mhnse.com/news/articleView.html?idxno=1688973",
+  "https://www.geconomy.co.kr/news/article.html?no=325404",
+  "https://www.sedaily.com/article/20111549",
+  "https://www.sedaily.com/article/20111540",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000454",
+  "https://www.sedaily.com/article/20111677",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836345&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "'MLB신화'F&F의K팝도전4년,'유니스'활동종료에완전자본잠식",
-  "'카메라18대로선수움직임을한눈에'K리그1중계,파이널라운드부터...",
-  "우분투금융서비스,성남서소상공인금융포럼개최…현장중심해법모...",
-  "SK사장단인사…곽노정유임·정승일발탁",
-  "농구월드컵,최종12인확정…이현중빠지고허훈투입",
-  "美AI투자둔화우려에코스피급락…서킷브레이커·사이드카발동[fn...",
-  "SK바이오팜,신약개발특화AI모델개발…66개과제로성능검증",
   "삼성전자·SK하이닉스주가급락,투자자혼란가중...이제어디로?",
   "‘블루쓰나미쇼크’…美증시급락에코스피5000붕괴",
   "美AI주투매에코스피'서킷브레이커'…5000선붕괴",
@@ -6001,7 +5994,14 @@
   "대형주도못피한급락장…상장사844곳‘연중최저가’[이런국장저...",
   "삼성전자,女임원수1위…CJ제일제당은5명중1명이女",
   "美제재·AI붐탓에...글로벌반도체장비사中매출뚝",
-  "[인터뷰]결제문턱앞에선에이전트의숙제,스타트업과푼다"
+  "[인터뷰]결제문턱앞에선에이전트의숙제,스타트업과푼다",
+  "'두산시절'김현수,2026한국시리즈서부활…찬스때마다땅볼아웃",
+  "AI패권경쟁,반도체넘어전력확보전으로…앤트로픽,34억달러발전설...",
+  "11%추락한코스피,바닥찍었나…11일오전에쏠리는눈[주간증시전...",
+  "코스피10%급락에도웃었다…통신·K콘텐츠지수9%대상승[마켓시그널...",
+  "천당서지옥으로…상반기주도주소부장ETF,이젠찬밥",
+  "역주행하는CD금리…연체율높은중소기업부담더커진다",
+  "'롤러코스터'코스피,미반등에한숨돌리나"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,25 @@
   [
    "2026-11-09T06:11:03.599088+09:00",
    "최태원 경영진과 회의 사흘 릴레이 대상 주목 리밸런싱 내년"
+  ],
+  [
+   "2026-11-09T06:21:01.527353+09:00",
+   "K콘텐츠 통신 웃었다 급락에도 코스피 마켓시그널 지수 상승"
+  ],
+  [
+   "2026-11-09T06:21:01.527353+09:00",
+   "천당서 소부장ETF 상반기 주도주 이젠 찬밥 지옥으로"
+  ],
+  [
+   "2026-11-09T06:21:01.527353+09:00",
+   "CD 부담 중소기업 커진다 금리 연체율 역주행하는 높은"
+  ],
+  [
+   "2026-11-09T06:21:01.527353+09:00",
+   "반등에 코스피 돌리나 한숨 롤러코스터"
   ]
  ],
- "last_run": "2026-11-09T06:11:59.192871+09:00",
+ "last_run": "2026-11-09T06:21:15.345858+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
