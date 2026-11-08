@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.goodkyung.com/news/articleView.html?idxno=293180",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571931353375",
-  "https://www.kyosu.net/news/articleView.html?idxno=212117",
-  "https://www.kyeonggi.com/article/20261106580016",
-  "https://www.imaeil.com/page/view/2026110609090515749",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=285152",
-  "https://www.jasm.co.kr/news/view/324382/?sc=Naver",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=285155",
-  "https://www.econovill.com/news/articleView.html?idxno=756270",
   "http://www.weeklytoday.com/news/articleView.html?idxno=801222",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501801",
   "http://www.newsdream.kr/news/articleView.html?idxno=121609",
@@ -2999,18 +2990,18 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1319637&inflow=N",
   "https://www.dt.co.kr/article/12093823",
   "https://www.pennmike.com/news/articleView.html?idxno=131334",
-  "https://www.fnnews.com/news/202611081830096210"
+  "https://www.fnnews.com/news/202611081830096210",
+  "https://www.newsis.com/view/NISX20261108_0003859512",
+  "https://www.fnnews.com/news/202611081839336877",
+  "https://www.ajunews.com/view/20261108142446553",
+  "http://www.kjdaily.com/article.php?aid=1794130671691615002",
+  "https://www.yna.co.kr/view/AKR20261108036851007?input=1195m",
+  "http://www.kjdaily.com/article.php?aid=1794130674691611002",
+  "https://www.wikitree.co.kr/articles/1172870",
+  "https://www.yna.co.kr/view/AKR20261108044551004?input=1195m",
+  "https://www.fnnews.com/news/202611081830158290"
  ],
  "seen_titles": [
-  "코스피,美기술주쇼크에5000선붕괴..개장3분만에매매중단",
-  "코스피,개장직후서킷브레이커발동…5000선붕괴",
-  "코스피5000선깨졌다…장초반8%대급락",
-  "SK바이오팜,AI신약개발특화모델구축…실제연구적용추진",
-  "[속보]코스피8%대폭락에5000선붕괴…삼성전자·SK하이닉스10%안팎...",
-  "SK인텔릭스,AI웰니스로봇으로시니어케어시장공략…대상웰라이프...",
-  "\"미국퍼듀대클린룸에서웨이퍼만졌다\"…반도체·AI인재들,강의실...",
-  "[속보]증시급락에코스피서킷브레이커발동…5천피밑으로",
-  "코스피서킷브레이커발동…장시작하자마자거래멈췄다",
   "카카오,광고·커머스선방에도AI성과는숙제",
   "한화증권\"코스피극심한저평가…장부가에도못미쳐\"",
   "코스피,120포인트밀려'5263.26'개장...'서킷브레이커'에삼전닉스1...",
@@ -6001,21 +5992,18 @@
   "TSMC,3DD램진출설에선그어…“파운드리집중”",
   "‘200조현금왕’삼성전자…빅딜·주주환원주목",
   "[나는농구선수다]KCC,안방서U11·U12'동반우승'…8전전승으로'나는...",
-  "공기살피고건강챙기고…AI로봇,돌봄영역진출"
+  "공기살피고건강챙기고…AI로봇,돌봄영역진출",
+  "삼성,KT잡고12년만에우승[뉴시스Pic]",
+  "2·3·4차전잡고5차전안방서끝냈다…‘V9’삼성왕조부활",
+  "美중간선거뒤AIDC규제우려…업계는\"사업이상無\"",
+  "전력·용수부터정주까지…호남반도체‘인프라총력전’",
+  "프로농구정관장,현대모비스잡고3연승…문유현더블더블(종합)",
+  "기아,전남광주에3조투자…미래차생산체계구축",
+  "얼굴로날아온강습타구…한국시리즈도중구급차에실려간'이선수...",
+  "서울대총장최종후보최해천석좌교수…공과대출신20년만(종합)",
+  "\"반도체제조공정에AI적용…불량원인몇시간이면찾죠\"[C리즈]"
  ],
  "recent_sigs": [
-  [
-   "2026-11-08T12:41:01.716570+09:00",
-   "시장 집중할 TSMC 파운드리에 진출설에 메모리"
-  ],
-  [
-   "2026-11-08T12:41:01.716570+09:00",
-   "정치 지수 과민반응 커지는 오를 정부 정상화 떨어지니"
-  ],
-  [
-   "2026-11-08T12:41:01.716570+09:00",
-   "성장하는 기업 사라지는 AI로"
-  ],
   [
    "2026-11-08T12:51:01.138091+09:00",
    "평행이론 허물기 셀트리온 삼바와"
@@ -6619,9 +6607,25 @@
   [
    "2026-11-08T18:41:01.447180+09:00",
    "돌봄 AI로봇 공기 영역 챙기고 살피고 진출 건강"
+  ],
+  [
+   "2026-11-08T18:50:59.594802+09:00",
+   "생산체계 미래차 구축 전남광주에 3조 투자 기아"
+  ],
+  [
+   "2026-11-08T18:50:59.594802+09:00",
+   "날아온 한국시리즈 얼굴로 도중 구급차에 선수 타구 강습 실려"
+  ],
+  [
+   "2026-11-08T18:50:59.594802+09:00",
+   "출신 최해천 석좌교수 서울대총장 20년만 공과대 최종후보"
+  ],
+  [
+   "2026-11-08T18:50:59.594802+09:00",
+   "원인 제조 찾죠 공정에 시간이면 반도체 AI 불량 적용"
   ]
  ],
- "last_run": "2026-11-08T18:41:07.597197+09:00",
+ "last_run": "2026-11-08T18:51:13.541880+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
