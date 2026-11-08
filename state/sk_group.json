@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ggilbo.com/news/articleView.html?idxno=1191512",
-  "https://www.dt.co.kr/article/12093521",
-  "https://www.edaily.co.kr/News/Read?newsId=06907686645642768&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=06901126645642768&mediaCodeNo=257",
-  "https://www.mt.co.kr/industry/2026/11/05/2026110515584239289",
-  "https://www.fnnews.com/news/202611051802144795",
-  "https://www.mk.co.kr/article/12198805",
-  "https://zdnet.co.kr/view/?no=20261105190832",
   "https://www.newsway.co.kr/news/view?ud=2026110517055865025",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705071",
   "https://www.tokenpost.kr/news/market/433233",
@@ -2999,17 +2991,17 @@
   "https://www.apnews.kr/news/articleView.html?idxno=3052922",
   "https://www.etoday.co.kr/news/view/2645361",
   "https://www.dt.co.kr/article/12093694",
-  "http://www.kjdaily.com/article.php?aid=1794096550691515276"
+  "http://www.kjdaily.com/article.php?aid=1794096550691515276",
+  "https://www.edaily.co.kr/News/Read?newsId=01243126645643752&mediaCodeNo=257",
+  "https://www.mk.co.kr/article/12201583",
+  "https://biz.chosun.com/stock/market_trend/2026/11/08/2WY5ILXSF5C4NGLQ3NEHZHDHSY/",
+  "https://www.ytn.co.kr/_ln/0102_202611080926229369",
+  "https://biz.chosun.com/it-science/ict/2026/11/08/VX3JJC6FH5D7ZLILVI4BIX3CJY/",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/08/2026110890007.html",
+  "https://www.munhwa.com/article/11629583",
+  "https://economist.co.kr/article/view/ecn202611080002"
  ],
  "seen_titles": [
-  "최태원\"얼마나빨리AI맞출수있는지,국가운명좌우할것\"",
-  "SK에코플랜트,IPO대신완전자회사화…반도체·AI중심사업재편",
-  "“회장님사인받으려고램챙겼어요”…서울대생만난최태원,AI시대...",
-  "반도체극저온장비국산화기업,딥테크대상",
-  "[기획]‘블루쓰나미’韓반도체덮쳤다",
-  "수요불확실성커진반도체·냉각·전력기기…위기이자기회맞은배터...",
-  "美데이터센터절반제동위기…복병만난K칩",
-  "최태원\"美중간선거가왜우리랑관계있나\"…증시과민반응지적",
   "최태원\"AI가韓운명좌우...베팅안하고쫓아갈방법없다\"",
   "IMMPE에어퍼스트컨티뉴펀드에유럽최대사모펀드EQT그룹투자받는...",
   "김지훈SKT본부장\"사람대신결제하는AI에이전트…권한통제가중요...",
@@ -6001,7 +5993,15 @@
   "정부청사에삼성전기8조투자…세종5-1생활권,새주거지뜬다",
   "상장사3곳중1곳'연중최저가'…급락장에844개종목신저가",
   "대만,정부주도로첨단메모리진출…삼성·SK하이닉스에도전장",
-  "삼성바이오로직스주가1.95%상승…기관1천578억원순매수"
+  "삼성바이오로직스주가1.95%상승…기관1천578억원순매수",
+  "SKT\"‘모두의AI’로결제까지연결…에이전트표준도만들것\"[인터뷰...",
+  "단다섯차례만허용된‘가을의반역’,이번에도성공할까[KS]",
+  "외국인삼성전자보유율,금융위기이후17년만에최저",
+  "지난주삼전닉스7조던진외인...보유율도최저",
+  "삼성전자보유현금200조원첫돌파…주주환원에최대110조원투입전...",
+  "\"젠슨황,中스파이연인설?\"…장녀매디슨,방한돌연취소",
+  "오세훈“선거앞두고주가띄우더니…국민재산도박판에내몰아”",
+  "손절이냐저점매수냐…'5천피붕괴'삼전닉스개미들,향후전망은"
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,17 @@
   [
    "2026-11-08T09:21:01.444402+09:00",
    "상승 순매수 주가 1천578억원 기관 삼성바이오로직스"
+  ],
+  [
+   "2026-11-08T09:31:12.773130+09:00",
+   "주가 오세훈 재산 국민 선거 도박판에 띄우더니 내몰아 앞두고"
+  ],
+  [
+   "2026-11-08T09:31:12.773130+09:00",
+   "붕괴 개미들 삼전닉스 전망은 손절이냐 5천피 저점매수냐 향후"
   ]
  ],
- "last_run": "2026-11-08T09:21:10.881867+09:00",
+ "last_run": "2026-11-08T09:31:21.166415+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
