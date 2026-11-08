@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.delighti.co.kr/news/articleView.html?idxno=124481",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307963",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1422519",
-  "https://www.smartbizn.com/news/articleView.html?idxno=158625",
-  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171662",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000405",
   "https://www.mt.co.kr/politics/2026/11/06/2026110609453135365",
   "https://www.socialvalue.kr/news/view/1065573924452231",
   "http://www.datanews.co.kr/news/article.html?no=147417",
@@ -2999,15 +2993,15 @@
   "https://www.idaegu.co.kr/news/articleView.html?idxno=564677",
   "https://isplus.com/article/view/isp202611080129",
   "https://www.starnewskorea.com/sports/2026/11/08/2026110820264637255",
-  "https://www.vegannews.co.kr/news/article.html?no=402207"
+  "https://www.vegannews.co.kr/news/article.html?no=402207",
+  "https://www.hani.co.kr/arti/economy/finance/1286070.html",
+  "http://www.inews24.com/view/2023823",
+  "http://www.ujeil.com/news/articleView.html?idxno=394924",
+  "http://www.ujeil.com/news/articleView.html?idxno=394891",
+  "https://www.econovill.com/news/articleView.html?idxno=756424",
+  "https://www.naeil.com/news/read/607969"
  ],
  "seen_titles": [
-  "Expertisemustcomefirstinsemiconductorprojectoversight",
-  "SlowLetter:November06,2026.",
-  "삼전·하이닉스급락에주주환원'방어막'주목…남은수십조어디로",
-  "SK바이오팜,신약개발특화AI모델구축…연구개발적용확대",
-  "SK케미칼,폐현수막재활용현수막200장경주시에공급",
-  "코스피8.55%폭락···삼성전자9.98%·SK하이닉스11.71%↓",
   "SK인텔릭스,4자협약체결…AI웰니스로봇시니어케어솔루션구축",
   "코스피,미국발AI규제우려에4900선급락···장초반서킷브레이커...",
   "SK바이오팜,714만건학습데이터로신약개발AI모델검증",
@@ -6001,17 +5995,15 @@
   "[대구논단]'채찍효과'로바라본AI시대",
   "[IS스타]슛감회복→연패탈출이끈SK김낙현\"믿음보답하고파\"",
   "'ERA0'압권!삼성'숨은MVP'우승소감\"어안이벙벙하다...\"이승민향...",
-  "SK증권우단기과열연장…11일까지단일가매매"
+  "SK증권우단기과열연장…11일까지단일가매매",
+  "삼성전자9%·하이닉스11%급락…개장3분만에서킷브레이크",
+  "코스피5천선아슬아슬⋯상장사3곳중1곳'올해최저가'",
+  "울산부유식해상풍력전력계획절반축소",
+  "\"울산복합5호기발판삼아미래에너지전환이끌것\"",
+  "코스피5천선방어시험대…美물가·외국인수급이반등가른다",
+  "삼육대,기업·직무상담중심취업박람회개최"
  ],
  "recent_sigs": [
-  [
-   "2026-11-08T15:10:59.376125+09:00",
-   "영국 테슬라 비중 신탁 전량 매각한 스페이스X"
-  ],
-  [
-   "2026-11-08T15:10:59.376125+09:00",
-   "소재사 성장동력 다변화 회복은 배터리 부진 실적 수익성 과제"
-  ],
   [
    "2026-11-08T15:21:01.617037+09:00",
    "2028년 본격화 완판 커지는 규제 불안 에도 여파 HBM 데이터센터"
@@ -6507,9 +6499,25 @@
   [
    "2026-11-08T21:01:19.323315+09:00",
    "단일가매매 SK증권우 11일까지 연장 단기과열"
+  ],
+  [
+   "2026-11-08T21:11:00.332971+09:00",
+   "해상풍력 절반 축소 전력계획 울산 부유식"
+  ],
+  [
+   "2026-11-08T21:11:00.332971+09:00",
+   "5호기 이끌 삼아 울산복합 미래 발판 에너지"
+  ],
+  [
+   "2026-11-08T21:11:00.332971+09:00",
+   "반등 수급이 방어 코스피 시험대 외국인 가른다 5천선 물가"
+  ],
+  [
+   "2026-11-08T21:11:00.332971+09:00",
+   "상담 기업 개최 삼육대 직무 중심 취업박람회"
   ]
  ],
- "last_run": "2026-11-08T21:01:27.621528+09:00",
+ "last_run": "2026-11-08T21:11:14.446137+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
