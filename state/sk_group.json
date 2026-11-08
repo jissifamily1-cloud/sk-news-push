@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyeonggi.com/article/20261105580552",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3159342",
-  "https://www.kmib.co.kr/article/20261105502118",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730658",
-  "https://www.newsway.co.kr/news/view?ud=2026110519161918364",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=446790",
-  "https://www.dailian.co.kr/news/view/1711487/?sc=Naver",
-  "https://sateconomy.co.kr/news/view/1065607661419238",
-  "https://www.newsway.co.kr/news/view?ud=2026110519135215802",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730657",
   "https://www.g-enews.com/view.php?ud=202611051910098802153ddfb15a_1",
   "https://biz.heraldcorp.com/article/10927670",
   "https://www.etnews.com/20261105000499",
@@ -2999,19 +2989,19 @@
   "https://biz.sbs.co.kr/article_hub/20000344934?division=NAVER",
   "https://it.chosun.com/news/articleView.html?idxno=3000000000490",
   "https://magazine.hankyung.com/business/article/202611082719b",
-  "https://biz.heraldcorp.com/article/10929474"
+  "https://biz.heraldcorp.com/article/10929474",
+  "https://www.edaily.co.kr/News/Read?newsId=01289046645643752&mediaCodeNo=257",
+  "https://www.bntnews.co.kr/article/view/bnt202611080031",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000492",
+  "https://www.etoday.co.kr/news/view/2645380",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=285408",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261108094443Hxs",
+  "https://kpenews.com/View.aspx?No=4302324",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261108094544v0Q",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=320176",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730819"
  ],
  "seen_titles": [
-  "장동현SK부회장,SK에코플랜트대표직서물러나",
-  "미'블루쓰나미'여파에코스피급락...삼전장중20만원선붕괴",
-  "최태원,SK주식9440억원어치매각…노소영재산분할액규모",
-  "SK㈜지분9천440억원매각완료…재산분할자금확보",
-  "엘앤에프,3분기매출8744억원기록…하이니켈판매로흐름유지",
-  "최태원“3대메가프로젝트,‘이렇게발표해도되나’싶었다”",
-  "최태원\"중간선거하나에시장와장창…롤러코스터장세계속된다\"",
-  "장동현SK부회장,SK에코플랜트대표사임…경영일선물러나",
-  "최태원회장,서울대특강서한국경제4대해법제시…AI네이티브국가...",
-  "서울대생만난최태원,AI시대인재상제시…\"스스로디자인·설계해야...",
   "최태원,서울대서AI시대경제해법4가지제시…한일경제연대강조",
   "최태원\"AI혁명에새경제해법필요…한국,지능수출국돼야\"",
   "장동현SK에코플랜트부회장,대표이사사임",
@@ -6001,7 +5991,17 @@
   "외국인,지난주삼전닉스7조원던졌다…보유율크게하락",
   "\"파업건수줄었는데생산차질은급증\"…제조업근로손실일수45%늘었...",
   "“롤러코스피계속”...최태원이건넨‘섬뜩한경고’",
-  "내년한국성장률최대변수,반도체수출…美데이터센터제동시‘직..."
+  "내년한국성장률최대변수,반도체수출…美데이터센터제동시‘직...",
+  "챗GPT독주지속…국내이용자1900만명·사용시간2배↑",
+  "안세영코리아오픈결승전중계채널·시간은",
+  "\"국민3명중1명쓴다\"…챗GPT국내이용자1800만명첫돌파",
+  "삼성전자·SK하이닉스,경기5개시에지방세7조4400억원낼전망…올해...",
+  "노동쟁의후폭풍확대...근로손실45%증가,'성과배분'요구급증",
+  "지난주상장사3개중1개는연중최저가…급락장에줄줄이추락",
+  "챗GPT,오래쓰는‘생활AI’로자리굳혀..국내앱이용자첫1800만명...",
+  "반도체공급망확보전…삼성·SK,일본과'맞손'",
+  "[글로벌주간브리핑]AI거품공포에나스닥급락…테슬라,사이버트럭...",
+  "노사분규줄었는데근로손실45%급증…車·조선파업여파"
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,21 @@
   [
    "2026-11-08T09:41:08.414601+09:00",
    "내년 성장률 수출 반도체 데이터센터 한국 제동시 변수"
+  ],
+  [
+   "2026-11-08T09:51:06.706150+09:00",
+   "공급망 확보전 맞손 반도체 일본과 삼성"
+  ],
+  [
+   "2026-11-08T09:51:06.706150+09:00",
+   "급락 공포에 AI 테슬라 나스닥 사이버트럭 거품"
+  ],
+  [
+   "2026-11-08T09:51:06.706150+09:00",
+   "급증 분규 여파 파업 줄었는데 조선 근로손실 노사"
   ]
  ],
- "last_run": "2026-11-08T09:41:16.650161+09:00",
+ "last_run": "2026-11-08T09:51:17.665438+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
