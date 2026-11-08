@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6344803",
-  "https://www.fntimes.com/html/view.php?ud=202611051850349117048b718333_18",
-  "https://www.khan.co.kr/article/202611051853011",
   "https://www.ggilbo.com/news/articleView.html?idxno=1191512",
   "https://www.dt.co.kr/article/12093521",
   "https://www.edaily.co.kr/News/Read?newsId=06907686645642768&mediaCodeNo=257",
@@ -2999,12 +2996,12 @@
   "https://www.wikitree.co.kr/articles/1172791",
   "https://economist.co.kr/article/view/ecn202611060028",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=146762",
-  "https://www.apnews.kr/news/articleView.html?idxno=3052922"
+  "https://www.apnews.kr/news/articleView.html?idxno=3052922",
+  "https://www.etoday.co.kr/news/view/2645361",
+  "https://www.dt.co.kr/article/12093694",
+  "http://www.kjdaily.com/article.php?aid=1794096550691515276"
  ],
  "seen_titles": [
-  "[포토]학생들과셀카찍는최태원SK그룹회장",
-  "[포토]서울대학생들과기념촬영하는최태원SK그룹회장",
-  "최태원\"美중간선거결과에증시요동…롤러코스터계속될것\"",
   "최태원\"얼마나빨리AI맞출수있는지,국가운명좌우할것\"",
   "SK에코플랜트,IPO대신완전자회사화…반도체·AI중심사업재편",
   "“회장님사인받으려고램챙겼어요”…서울대생만난최태원,AI시대...",
@@ -6001,7 +5998,10 @@
   "\"주식으로집까지샀거든?2억잃었는데아내가이렇게잔소리해서돌겠...",
   "“줍줍타이밍”vs“삼전7만원·닉스20만원”…급락장에엇갈린투...",
   "[이번주관심주]한국금융지주,3Q어닝쇼크에목표가줄하향",
-  "정부청사에삼성전기8조투자…세종5-1생활권,새주거지뜬다"
+  "정부청사에삼성전기8조투자…세종5-1생활권,새주거지뜬다",
+  "상장사3곳중1곳'연중최저가'…급락장에844개종목신저가",
+  "대만,정부주도로첨단메모리진출…삼성·SK하이닉스에도전장",
+  "삼성바이오로직스주가1.95%상승…기관1천578억원순매수"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,17 @@
   [
    "2026-11-08T09:11:00.791789+09:00",
    "정부청사에 세종 삼성전기 투자 주거지 8조 1생활권 뜬다"
+  ],
+  [
+   "2026-11-08T09:21:01.444402+09:00",
+   "진출 도전장 첨단 삼성 메모리 정부 주도로 대만 SK하이닉스에"
+  ],
+  [
+   "2026-11-08T09:21:01.444402+09:00",
+   "상승 순매수 주가 1천578억원 기관 삼성바이오로직스"
   ]
  ],
- "last_run": "2026-11-08T09:11:35.614534+09:00",
+ "last_run": "2026-11-08T09:21:10.881867+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
