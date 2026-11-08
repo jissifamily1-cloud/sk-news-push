@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbsm.net/news/view.php?idx=540638",
-  "https://www.koreatimes.co.kr/path/A2026110609270005165",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200388",
-  "https://news.bizwatch.co.kr/article/market/2026/11/06/0005",
-  "https://en.yna.co.kr/view/AEN20261106001651320?input=2106m",
   "https://www.fnnews.com/news/202611060929458172",
   "http://www.wsobi.com/news/articleView.html?idxno=321177",
   "https://www.businesspost.co.kr/BP?command=article_view&num=451329",
@@ -2999,14 +2994,14 @@
   "http://www.cctimes.kr/news/articleView.html?idxno=936157",
   "http://www.4th.kr/news/articleView.html?idxno=2121387",
   "https://www.wikitree.co.kr/articles/1172866",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3745653"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3745653",
+  "https://www.news1.kr/sports/basketball/6346995",
+  "https://www.chosun.com/sports/basketball/2026/11/08/3RYT2LP7XNB5ZJFSN6DDN2PA7Y/",
+  "https://m.sports.naver.com/basketball/article/065/0000304353",
+  "https://www.fnnews.com/news/202611081828191033",
+  "https://www.newstnt.com/news/articleView.html?idxno=727307"
  ],
  "seen_titles": [
-  "[위클리오늘]美반도체폭락에코스피5200선하락출발",
-  "'검은금요일'5천피깨졌다…AI규제우려에코스피'폭락'",
-  "'검은금요일'...국내증시의높은반도체비중,충격증폭",
-  "SK케미칼,폐현수막으로만든재활용현수막200장공급",
-  "'검은금요일'코스피5000선붕괴...서킷브레이커발동",
   "[Breaking]KOSPIcrashesbelow5000AIfearsbatterchipstocks",
   "나스닥5.52%폭락…AI규제공포에3350조증발",
   "코스피8%대폭락에개장직후서킷브레이커…5000선붕괴",
@@ -6001,7 +5996,12 @@
   "美선거여파…산업계`희비'",
   "젠슨황'중국女간첩연인설'파문…딸방한취소에AI협력차질우려",
   "삼성전자도현대차도아니다…하락장속개미들돈뭉친'이주식'",
-  "오세훈시장\"증시부양책,개인투자자피해키웠다\"…대통령사과촉구"
+  "오세훈시장\"증시부양책,개인투자자피해키웠다\"…대통령사과촉구",
+  "'허웅·허훈39점합작'프로농구KCC,LG꺾고시즌첫3연승",
+  "허웅27점...KCC,LG잡고7연패뒤3연승",
+  "[매거진]대학농구전문가들에게물었다!2026KBL신인선수드래프트누...",
+  "'선수로6번,감독으로1번'우승복을타고난사람…삼성V9이끈박진...",
+  "[공시]11월9일,코스피상장사52개종목자사주매수신청"
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,13 @@
   [
    "2026-11-08T20:01:33.701739+09:00",
    "키웠다 대통령 오세훈 사과 촉구 개인투자자 증시 피해 시장 부양책"
+  ],
+  [
+   "2026-11-08T20:11:01.817841+09:00",
+   "9일 상장사 종목 52개 11월 신청 매수 코스피 자사주"
   ]
  ],
- "last_run": "2026-11-08T20:01:45.204400+09:00",
+ "last_run": "2026-11-08T20:11:08.612566+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
