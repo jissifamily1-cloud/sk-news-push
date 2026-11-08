@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7192561",
-  "https://www.thepowernews.co.kr/view.php?ud=202611061051147057de3f0aa1be_7",
-  "https://www.sedaily.com/article/20111079",
-  "https://www.ajunews.com/view/20261106101937095",
-  "https://biz.sbs.co.kr/article_hub/20000344707?division=NAVER",
   "https://www.insight.co.kr/news/580931",
   "https://www.mt.co.kr/stock/2026/11/06/2026110610504988683",
   "https://www.news1.kr/economy/trend/6345322",
@@ -2999,14 +2994,14 @@
   "https://biz.heraldcorp.com/article/10928736",
   "http://www.rookie.co.kr/news/articleView.html?idxno=129955",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2312241",
-  "https://www.koreatimes.co.kr/path/A2026110814450003531"
+  "https://www.koreatimes.co.kr/path/A2026110814450003531",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=624519",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502215",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=886422",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611090010&t=NN",
+  "https://view.asiae.co.kr/article/2026110610390776898"
  ],
  "seen_titles": [
-  "KB국민카드,주유특화'KBNEEDOil카드'출시",
-  "[코스피5000붕괴]증권가\"블루웨이브發'데이터센터우려'과도\"...소...",
-  "\"전화빗발치는데사는사람이없다\"…성장공포로번진AI투매",
-  "한동훈\"국민연금,삼전닉스'몰빵'해182조증발…국민노후담보로투...",
-  "교보교육재단,'AI윤리캠프'운영…가치판단토론",
   "\"어제가바닥인줄알았는데\"…코스피5000선마저붕괴,서킷·사이드카...",
   "美‘블루쓰나미’AI투자제동우려에도…삼성·SK는“반도체없어...",
   "한동훈\"코스피5000붕괴…李대통령직접답해야\"",
@@ -6001,7 +5996,12 @@
   "서부선20년기다려도은평은신고가…인천청라는7호선지연에회복...",
   "\"낙현이가3방만…\"사령탑의바람에응답한김낙현,전반에만3PT3방펑...",
   "[여백]날벼락반도체산업",
-  "BatterymaterialsfirmsrampupLFPcapacityamidrisingdemand"
+  "BatterymaterialsfirmsrampupLFPcapacityamidrisingdemand",
+  "[증시진단]블루쓰나미쇼크에반도체털썩…K콘텐츠·통신주는'함박...",
+  "렌탈브랜드빅데이터5.81%증가…코웨이선두,LG전자약진",
+  "삼전,현금보유200조돌파...올해주주환원도미래투자도100조+α",
+  "\"이단·사이비?한번만들어보라\"…논란속JYP는'부진의늪'풍덩",
+  "[단독]\"방치된우선주\"…보통주와가격차이역대최고수준[우선주디..."
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,25 @@
   [
    "2026-11-09T07:10:59.247040+09:00",
    "rising demand ramp up Battery amid firms materials capacity LFP"
+  ],
+  [
+   "2026-11-09T07:21:03.649521+09:00",
+   "선두 렌탈 코웨이 약진 증가 브랜드 빅데이터 LG전자"
+  ],
+  [
+   "2026-11-09T07:21:03.649521+09:00",
+   "주주환원도 삼전 현금보유 돌파 200조 미래투자도 올해 100조"
+  ],
+  [
+   "2026-11-09T07:21:03.649521+09:00",
+   "사이비 논란 JYP는 부진의 번만 풍덩 들어보라 이단"
+  ],
+  [
+   "2026-11-09T07:21:03.649521+09:00",
+   "최고 차이 우선주 역대 수준 보통주와 방치된 가격"
   ]
  ],
- "last_run": "2026-11-09T07:11:56.819855+09:00",
+ "last_run": "2026-11-09T07:21:17.054303+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
