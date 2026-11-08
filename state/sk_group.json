@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026110517055865025",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705071",
-  "https://www.tokenpost.kr/news/market/433233",
-  "https://news.tf.co.kr/read/economy/2385522.htm",
-  "https://www.ytn.co.kr/_ln/0102_202611051901366192",
-  "https://www.dt.co.kr/article/12093525",
   "https://www.kyeonggi.com/article/20261105580552",
   "http://www.ttlnews.com/news/articleView.html?idxno=3159342",
   "https://www.kmib.co.kr/article/20261105502118",
@@ -2999,15 +2993,15 @@
   "https://biz.chosun.com/it-science/ict/2026/11/08/VX3JJC6FH5D7ZLILVI4BIX3CJY/",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/08/2026110890007.html",
   "https://www.munhwa.com/article/11629583",
-  "https://economist.co.kr/article/view/ecn202611080002"
+  "https://economist.co.kr/article/view/ecn202611080002",
+  "https://www.newscj.com/news/articleView.html?idxno=3446837",
+  "https://biz.chosun.com/it-science/ict/2026/11/08/3SEWDEBSTZAMTBD2YQ5JNTYU7Y/",
+  "https://biz.sbs.co.kr/article_hub/20000344934?division=NAVER",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000490",
+  "https://magazine.hankyung.com/business/article/202611082719b",
+  "https://biz.heraldcorp.com/article/10929474"
  ],
  "seen_titles": [
-  "최태원\"AI가韓운명좌우...베팅안하고쫓아갈방법없다\"",
-  "IMMPE에어퍼스트컨티뉴펀드에유럽최대사모펀드EQT그룹투자받는...",
-  "김지훈SKT본부장\"사람대신결제하는AI에이전트…권한통제가중요...",
-  "묵현상뉴패스바이오대표\"정부지원,보조금아닌투자중심으로바꿔...",
-  "최태원“미국중간선거결과에증시요동…롤러코스터계속될것”",
-  "코스피·코스닥하루5%대하락마감…양시장매도사이드카발동",
   "장동현SK부회장,SK에코플랜트대표직서물러나",
   "미'블루쓰나미'여파에코스피급락...삼전장중20만원선붕괴",
   "최태원,SK주식9440억원어치매각…노소영재산분할액규모",
@@ -6001,7 +5995,13 @@
   "삼성전자보유현금200조원첫돌파…주주환원에최대110조원투입전...",
   "\"젠슨황,中스파이연인설?\"…장녀매디슨,방한돌연취소",
   "오세훈“선거앞두고주가띄우더니…국민재산도박판에내몰아”",
-  "손절이냐저점매수냐…'5천피붕괴'삼전닉스개미들,향후전망은"
+  "손절이냐저점매수냐…'5천피붕괴'삼전닉스개미들,향후전망은",
+  "챗GPT국내앱이용자1800만명돌파…클로드2위도약",
+  "챗GPT국내앱이용자1876만명역대최다…클로드도1년새15배급증",
+  "외국인,지난주삼전닉스7조원던졌다…보유율크게하락",
+  "\"파업건수줄었는데생산차질은급증\"…제조업근로손실일수45%늘었...",
+  "“롤러코스피계속”...최태원이건넨‘섬뜩한경고’",
+  "내년한국성장률최대변수,반도체수출…美데이터센터제동시‘직..."
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,17 @@
   [
    "2026-11-08T09:31:12.773130+09:00",
    "붕괴 개미들 삼전닉스 전망은 손절이냐 5천피 저점매수냐 향후"
+  ],
+  [
+   "2026-11-08T09:41:08.414601+09:00",
+   "건넨 계속 롤러코스피 최태원이 경고 섬뜩한"
+  ],
+  [
+   "2026-11-08T09:41:08.414601+09:00",
+   "내년 성장률 수출 반도체 데이터센터 한국 제동시 변수"
   ]
  ],
- "last_run": "2026-11-08T09:31:21.166415+09:00",
+ "last_run": "2026-11-08T09:41:16.650161+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
