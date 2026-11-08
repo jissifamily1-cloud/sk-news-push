@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.meconomynews.com/news/articleView.html?idxno=203331",
-  "http://www.srtimes.kr/news/articleView.html?idxno=216828",
-  "https://www.meconomynews.com/news/articleView.html?idxno=203333",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=767676",
-  "https://www.news1.kr/world/international-economy/6344938",
-  "https://www.segye.com/newsView/20261105519334?OutUrl=naver",
-  "https://www.ajunews.com/view/20261105162920743",
-  "https://www.etoday.co.kr/news/view/2644716",
-  "https://www.kukinews.com/article/view/kuk202611050206",
-  "https://biz.chosun.com/it-science/ict/2026/11/06/ESDDI57XLJA7TLADMF4XPTKUGU/",
   "https://biz.chosun.com/policy/policy_sub/2026/11/06/SMFGVHVTZRDETE7JBJJTIIJCO4/",
   "https://www.dailypharm.com/user/news/344252?REFERER=NP",
   "https://magazine.hankyung.com/money/article/202610167259c",
@@ -2999,19 +2989,19 @@
   "https://www.munhwa.com/article/11629653",
   "https://www.koreatimes.co.kr/path/A2026110810330002885",
   "https://www.news1.kr/economy/trend/6346805",
-  "https://www.pennmike.com/news/articleView.html?idxno=131310"
+  "https://www.pennmike.com/news/articleView.html?idxno=131310",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081445030830107",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611062235450300043",
+  "https://www.imaeil.com/page/view/2026110619442162512",
+  "https://www.greened.kr/news/articleView.html?idxno=354113",
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1554575",
+  "https://www.dt.co.kr/article/12093780",
+  "http://www.inews24.com/view/2023796",
+  "https://bizhankook.com/articles/hyundai-kia-stock-trump-tariffs.html",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94864",
+  "https://www.ajunews.com/view/20261106151228830"
  ],
  "seen_titles": [
-  "SK그룹,주요계열사CEO유임·교체…안정속쇄신추진",
-  "SK하이닉스미주총괄신설하고안현사장배치,美빅테크공략...곽노정...",
-  "[종합]SK그룹최태원號,'안정속쇄신'사장단인사‥정승일발탁'에...",
-  "주거래은행보안신뢰도1위'NH농협'...2위'KB국민'[시경-리얼미터...",
-  "[국감,그후]레버리지ETF사태에도김용범·박현주는안보였다…방...",
-  "단일종목레버리지ETF손실책임,'정부·금융당국'56%[시경-리얼미터...",
-  "KT·LGU+·SKB,IPTV디즈니+요금줄줄히인상...SKT는\"예정없어\"",
-  "[속보]필라델피아반도체12.25%폭락…마이크론-17%·SK하닉ADR-14%",
-  "최태원“2100조투자발표,이렇게해도되나생각”",
-  "[경제일보]우리투자證,대형IB딜잇따라수임…관련수수료작년比...",
   "외국인매도속도두배로…삼전닉스20조던졌다[엑소더스외국인,언...",
   "HBM장비특허전,법정서조정테이블로…한미·한화합의가능할까",
   "[비즈톡톡]취약계층통신비감면액연1조3572억원…복지는정부가,비...",
@@ -6001,7 +5991,17 @@
   "주가폭락에도살아날구멍은있다…콘텐츠·방송주↑",
   "[ED]USmidtermsimpactKoreanindexes",
   "국회예결위예산안부별심사본격화…이번주(9~13일)주요일정",
-  "[박준규의이슈언박싱]'5천피'무너진날1000만원'매수인증'…박용진..."
+  "[박준규의이슈언박싱]'5천피'무너진날1000만원'매수인증'…박용진...",
+  "낸드업계IPO잇단제동…AI호황에도투자재원확보‘안갯속’",
+  "LG엔솔빠진제3차ESS수주전…삼성SDI·SK온맞대결",
+  "--코스피또폭락…AI·반도체성장제동위기감",
+  "[데이터뉴스룸]美선거후폭풍에상위50곳시총600조증발…셀트리온...",
+  "AI데이터센터규제강화,경남전력·에너지산업엔기회",
+  "오세훈“국민연금까지증시버팀목으로…지방선거용주식도박판”",
+  "한국인1800만명'챗GPT'쓴다⋯사용시간은2배↑",
+  "트럼프관세제동걸릴까…현대차·기아주가반등에도기대·현실엇갈...",
+  "삼성전자보유현금200조돌파…올주주환원최대110조예고",
+  "[잘되는지방의조건]지방청약한파에도5개도시에절반몰려…일자..."
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,21 @@
   [
    "2026-11-08T15:31:20.587144+09:00",
    "매수 무너진 5천피 1000만원 인증 박용진"
+  ],
+  [
+   "2026-11-08T15:41:01.937341+09:00",
+   "기대 제동 주가 트럼프 현대차 기아 엇갈 반등에도 걸릴까 관세 현실"
+  ],
+  [
+   "2026-11-08T15:41:01.937341+09:00",
+   "200조 돌파 예고 보유현금 110조 삼성전자 주주환원"
+  ],
+  [
+   "2026-11-08T15:41:01.937341+09:00",
+   "일자 청약 도시에 몰려 지방 한파에도 절반 5개"
   ]
  ],
- "last_run": "2026-11-08T15:31:42.015765+09:00",
+ "last_run": "2026-11-08T15:41:13.462686+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
