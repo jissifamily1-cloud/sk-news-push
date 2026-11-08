@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/economy_general/1284912.html",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071048",
-  "https://www.hani.co.kr/arti/economy/marketing/1284888.html",
-  "https://www.hani.co.kr/arti/opinion/column/1284880.html",
-  "https://www.hani.co.kr/arti/politics/politics_general/1284861.html",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3736017",
-  "https://www.hani.co.kr/arti/economy/it/1284778.html",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=396532",
   "https://www.kukinews.com/article/view/kuk202610290032",
   "https://www.vegannews.co.kr/news/article.html?no=397776",
   "http://www.kjdaily.com/article.php?aid=1793159110690554276",
@@ -2999,17 +2991,17 @@
   "https://www.pennmike.com/news/articleView.html?idxno=131300",
   "https://ilyo.co.kr/?ac=article_view&entry_id=513518",
   "https://m.skyedaily.com/news_view.html?ID=314257",
-  "http://www.metroseoul.co.kr/article/20261108500151"
+  "http://www.metroseoul.co.kr/article/20261108500151",
+  "https://www.ziksir.com/news/articleView.html?idxno=152435",
+  "https://www.g-enews.com/view.php?ud=20261106133909544027fa31d75c_1",
+  "https://www.ngonews.kr/news/articleView.html?idxno=242602",
+  "https://www.edaily.co.kr/News/Read?newsId=01889286645643752&mediaCodeNo=257",
+  "https://www.pennmike.com/news/articleView.html?idxno=131304",
+  "https://www.ngonews.kr/news/articleView.html?idxno=242601",
+  "https://www.kgnews.co.kr/news/article.html?no=918625",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502156"
  ],
  "seen_titles": [
-  "국내금융권·해외코인거래소,코인마켓‘VASP면허’에눈독",
-  "미국의중국산배터리봉쇄에K-배터리,사상최대전력망시장공략속...",
-  "우원개발강릉~제진4공구계약액547억원으로증액",
-  "엄기천“배터리적자기업에도직접지원필요”…정부,연내대책마...",
-  "울산남부소방서,SK에너지정기보수사업장현장안전지도실시",
-  "삼성,반도체만3분기영업익106조인데…주가는되레4%하락",
-  "솔리다임논란,소유와지배의괴리[세상읽기]",
-  "미정부,한국농축·재처리에“협력가능성있지만검토할쟁점많아...",
   "부산시,수도권기업3곳서1630억원투자유치…776명고용",
   "‘이름하나로정보줄줄’고객센터바뀐다…고객정보접근통제강화",
   "우원개발,'강릉~제진단선전철4공구'공급계약금액547억여원으로정...",
@@ -6001,25 +5993,17 @@
   "텍사스·인디애나'블루웨이브'...삼성·SK美보조금·데이터센터변수",
   "코스피변동성커지자…야당,정부경제라인책임론강조",
   "9000찍고5000추락…롤러코스피긴급대응",
-  "증시의‘블랙프라이데이’…하루720곳연중신저가"
+  "증시의‘블랙프라이데이’…하루720곳연중신저가",
+  "파업건수줄었는데손실은커졌다···제조업근로손실일수45%급증",
+  "美블루웨이브에AI데이터센터제동현실화…삼전닉스에영향은?",
+  "지방선거용주식도박,더이상책임을회피하지마십시오",
+  "'블루쓰나미'韓증시강타에\"민주당도AI패권경쟁한뜻…투자위축우...",
+  "오세훈\"지방선거용주식도박...李대통령,국민에게직접사과해야\"",
+  "[김상민의세상을보는눈]'집거지'와'주식거지'양산…정부존재이...",
+  "'블루쓰나미'쇼크에5천피턱걸이…폭락후반등꾀하는코스피",
+  "전기차부진에도나노신소재웃는다…CNT도전재매출53%증가기대"
  ],
  "recent_sigs": [
-  [
-   "2026-11-08T08:51:01.099302+09:00",
-   "시가총액 주간 LG에너지솔루션 감소 하락 5조1천억원"
-  ],
-  [
-   "2026-11-08T08:51:01.099302+09:00",
-   "하나 장투 기관 방법은 외국인 단타보다 개미가 이기는"
-  ],
-  [
-   "2026-11-08T09:01:16.317863+09:00",
-   "이유 1만 코스피 간다 역대급 전망 내놓은"
-  ],
-  [
-   "2026-11-08T09:01:16.317863+09:00",
-   "기업들 인프라에 다국적 과제는 중국 몰린다 AI SKT"
-  ],
   [
    "2026-11-08T09:11:00.791789+09:00",
    "블루쓰나미 사수할까 주간 무너진 코스피 언더슈팅 5000선 딛고"
@@ -6527,9 +6511,13 @@
   [
    "2026-11-08T14:51:00.845897+09:00",
    "연중 하루 720곳 블랙 프라이데이 증시의 신저가"
+  ],
+  [
+   "2026-11-08T15:01:18.153639+09:00",
+   "나노신소재 도전재 전기차 CNT 웃는다 매출 부진에도 기대 증가"
   ]
  ],
- "last_run": "2026-11-08T14:51:12.315206+09:00",
+ "last_run": "2026-11-08T15:01:23.820903+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
