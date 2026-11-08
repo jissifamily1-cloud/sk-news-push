@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20261105500314",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/05/2026110590264.html",
-  "https://www.sedaily.com/article/20110924",
-  "https://www.mk.co.kr/article/12198988",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705267",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=564565",
   "https://www.insight.co.kr/news/580279",
   "http://www.econonews.co.kr/news/articleView.html?idxno=446786",
   "https://www.ziksir.com/news/articleView.html?idxno=152278",
@@ -2999,15 +2993,15 @@
   "https://us.aving.net/news/articleView.html?idxno=55194",
   "https://www.fnnews.com/news/202611081052043125",
   "https://www.newscj.com/news/articleView.html?idxno=3446879",
-  "https://www.econovill.com/news/articleView.html?idxno=755161"
+  "https://www.econovill.com/news/articleView.html?idxno=755161",
+  "https://zdnet.co.kr/view/?no=20261108123102",
+  "https://www.fnnews.com/news/202611081218451009",
+  "https://zdnet.co.kr/view/?no=20261108115633",
+  "https://www.khan.co.kr/article/202611081235001",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/08/2026110800034.html",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000495"
  ],
  "seen_titles": [
-  "최태원“美중간선거하나에도시장‘와장창’…계속출렁일것”",
-  "[프로농구]삼성,현대모비스에81-76...역대최단11경기만에10승",
-  "최태원SK회장\"AI시대한국경제해법은신자본주의·한일경제연대...",
-  "[현장]신한투자證박근배상무\"내가사면떨어진다?…변동성낮은자...",
-  "美AI규제론자줄당선에반도체주'직격탄'…코스피도5%'급락'",
-  "“엄마미안해,돈다잃었어”코스피폭락에개미들몰려간곳…절하...",
   "“국장서단타만치는이유?주주배신하는이사회”…저평가해법제시...",
   "미선거에흔들린반도체…복잡해진우리경제셈법",
   "오늘의경기",
@@ -6001,13 +5995,15 @@
   "HanaUniteDevelopsMobileHydrogenRefuelingStationsandHigh-Capa",
   "젠슨황장녀매디슨황방한취소…배경훈부총리만남불발",
   "[축구]광주,제주와1-1무승부…꼴찌확정은미뤄져",
-  "[삼성중공업AI데이터센터바다에띄운다②]\"FDC사업은지금이출발점..."
+  "[삼성중공업AI데이터센터바다에띄운다②]\"FDC사업은지금이출발점...",
+  "챗GPT,한국서1800만명넘게쓴다…이용시간도2배급증",
+  "오세훈\"지방선거용주식도박..이재명대통령,국민에사과해야\"",
+  "매디슨황,방한하루앞두고돌연취소...정부·기업면담무산",
+  "TSMC,메모리시장진출설에“파운드리에집중할것”",
+  "\"오를땐정상화,떨어지니과민반응\"…李정부'지수정치'에커지는...",
+  "AI로더성장하는기업사라지는기업[새책]"
  ],
  "recent_sigs": [
-  [
-   "2026-11-08T06:31:12.187665+09:00",
-   "최저가 급락장에 줄줄이 1개는 추락 지난주 연중 상장사 3개중"
-  ],
   [
    "2026-11-08T06:41:04.304967+09:00",
    "실적 반토막 대형 줄줄이 3분기 주가도 증권사 연저점"
@@ -6495,9 +6491,21 @@
   [
    "2026-11-08T12:31:05.960279+09:00",
    "출발점 FDC 지금이 사업은"
+  ],
+  [
+   "2026-11-08T12:41:01.716570+09:00",
+   "시장 집중할 TSMC 파운드리에 진출설에 메모리"
+  ],
+  [
+   "2026-11-08T12:41:01.716570+09:00",
+   "정치 지수 과민반응 커지는 오를 정부 정상화 떨어지니"
+  ],
+  [
+   "2026-11-08T12:41:01.716570+09:00",
+   "성장하는 기업 사라지는 AI로"
   ]
  ],
- "last_run": "2026-11-08T12:31:12.770749+09:00",
+ "last_run": "2026-11-08T12:41:13.040672+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
