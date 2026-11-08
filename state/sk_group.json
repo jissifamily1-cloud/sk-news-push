@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=72674",
-  "https://www.asiatime.co.kr/article/20261106500037",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=87266",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=124485",
-  "https://www.dt.co.kr/article/12093545",
-  "https://www.news1.kr/photos/8200081",
   "https://www.news1.kr/photos/8200079",
   "https://www.mt.co.kr/thebio/2026/11/06/2026110609194681226",
   "https://www.etnews.com/20261106000053",
@@ -2999,15 +2993,15 @@
   "https://www.kmib.co.kr/article/20261108501019",
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100483",
   "https://news.jtbc.co.kr/article/NB12327059?influxDiv=NAVER",
-  "https://www.mk.co.kr/article/12201928"
+  "https://www.mk.co.kr/article/12201928",
+  "https://www.hani.co.kr/arti/sports/baseball/1286348.html",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018607",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501801",
+  "https://www.thebilliards.kr/news/articleView.html?idxno=32396",
+  "https://www.bigtanews.co.kr/article/view/big202611080005",
+  "https://www.dt.co.kr/article/12093828"
  ],
  "seen_titles": [
-  "美'블루쓰나미'여파에프리마켓서반도체주추락…코스피5000선붕...",
-  "美민주당발'검은금요일'...코스피폭락서킷브레이커발동",
-  "美반도체12%급락여파…코스피서킷브레이커,아시아동반폭락",
-  "[개장시황]美반도체쇼크에코스피8%대폭락…서킷브레이커발동·50...",
-  "코스피8.76%폭락에서킷브레이커발동...5,000선붕괴‘검은금요일’",
-  "SK바이오팜,신약개발AI특화모델성과공개…\"714만건데이터구축\"",
   "코스피5000선붕괴에서킷브레이커발동…미국발AI쇼크강타",
   "코스피,개장직후8%대폭락…'5000선'붕괴되며서킷브레이커발동",
   "[속보]‘블루쓰나미’에코스피5000선붕괴…개미들‘비명’",
@@ -6001,7 +5995,13 @@
   "K-배터리‘유럽거점’헝가리의환경규제강화…달라진기류에기업...",
   "[k2.told]\"흥행덕많이봤는데\"...'원정관중2만→14만시대'3년만의...",
   "51조투자한텍사스까지…삼전닉스'블루웨이브'불똥튀나",
-  "‘1만피’간다더니이제와‘5천피’라고?…황당한증권사고무줄전망"
+  "‘1만피’간다더니이제와‘5천피’라고?…황당한증권사고무줄전망",
+  "노장투혼·신예기세…삼성왕조부활했다",
+  "[현장REVIEW]3년을기다린수원삼성,마침내제자리로...'K리그1승격'...",
+  "멈춰선M&A엔진에스팩주잇단후퇴…전문가\"합병가시성점검해야\"",
+  "\"최하위의반란은완벽했다\"휴온스,4라운드까지정상등극…'시즌2회...",
+  "[쇼츠뉴스]삼면에둘러싸인삼성전자,필살기있나?",
+  "[기획]메모리노리는대만…삼전닉스‘겹악재’"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,21 @@
   [
    "2026-11-08T19:01:21.561694+09:00",
    "전망 라고 1만피 고무줄 간다더니 황당한 증권사 이제와 5천피"
+  ],
+  [
+   "2026-11-08T19:11:01.291986+09:00",
+   "정상 최하위의 2회 휴온스 반란은 등극 시즌 완벽했다 4라운드까지"
+  ],
+  [
+   "2026-11-08T19:11:01.291986+09:00",
+   "있나 필살기 둘러싸인 삼면에 삼성전자"
+  ],
+  [
+   "2026-11-08T19:11:01.291986+09:00",
+   "메모리 삼전닉스 대만 겹악재 노리는"
   ]
  ],
- "last_run": "2026-11-08T19:01:40.616447+09:00",
+ "last_run": "2026-11-08T19:11:12.624060+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
