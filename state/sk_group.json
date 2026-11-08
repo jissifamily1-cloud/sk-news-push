@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/580931",
-  "https://www.mt.co.kr/stock/2026/11/06/2026110610504988683",
-  "https://www.news1.kr/economy/trend/6345322",
-  "https://www.busan.com/view/busan/view.php?code=2026110610574160936",
-  "https://view.asiae.co.kr/article/2026110609062039905",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730685",
-  "https://www.yna.co.kr/view/AKR20261106033800003?input=1195m",
-  "https://www.newsis.com/view/NISX20261106_0003857290",
   "https://www.mt.co.kr/future/2026/11/06/2026102613132719514",
   "https://www.mt.co.kr/politics/2026/11/06/2026110610121795801",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=241618",
@@ -2999,17 +2991,17 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502215",
   "https://www.getnews.co.kr/news/articleView.html?idxno=886422",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611090010&t=NN",
-  "https://view.asiae.co.kr/article/2026110610390776898"
+  "https://view.asiae.co.kr/article/2026110610390776898",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=601894",
+  "https://www.viva100.com/article/20261109500008",
+  "https://www.greened.kr/news/articleView.html?idxno=354116",
+  "https://www.bloter.net/news/articleView.html?idxno=677965",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260831",
+  "https://slownews.kr/169214",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=67314",
+  "https://www.fntimes.com/html/view.php?ud=202611090713024286141825007d_18"
  ],
  "seen_titles": [
-  "\"어제가바닥인줄알았는데\"…코스피5000선마저붕괴,서킷·사이드카...",
-  "美‘블루쓰나미’AI투자제동우려에도…삼성·SK는“반도체없어...",
-  "한동훈\"코스피5000붕괴…李대통령직접답해야\"",
-  "삼전·닉스폭락…7개월전으로돌아간주가",
-  "한동훈\"코스피5000붕괴...'삼전닉스몰빵'국민연금상황어떤지대통...",
-  "\"AI투자중단아닌지연\"…증권가\"반도체투매과도하다\"",
-  "2026여성공학인대회개최…\"내년첫여성공학인실태조사추진\"",
-  "패닉빠진투자자들“전국민거지프로젝트인가”하소연",
   "서울집값상승1위성북구도거래뚝…매물석달새59%↑",
   "[Gov&Now]산업부,제6기사업재편계획심의위출범…AI·공급망변화...",
   "산업현장여성공학인대회…유공자·기관에장관표창10점",
@@ -6001,7 +5993,15 @@
   "렌탈브랜드빅데이터5.81%증가…코웨이선두,LG전자약진",
   "삼전,현금보유200조돌파...올해주주환원도미래투자도100조+α",
   "\"이단·사이비?한번만들어보라\"…논란속JYP는'부진의늪'풍덩",
-  "[단독]\"방치된우선주\"…보통주와가격차이역대최고수준[우선주디..."
+  "[단독]\"방치된우선주\"…보통주와가격차이역대최고수준[우선주디...",
+  "젠슨황,中스파이의심여성과불륜인정⋯엔비디아이사회도조사중",
+  "100대기업여성임원491명⋯4년째비중6%대정체",
+  "최태원회장,12~14일SK그룹경영전략회의'CEO세미나'주재...AI성과...",
+  "[디깅노트]대한항공을지키려는사람들",
+  "[넥스트-샷]반도체폭락뒤'줍줍'나선월가···AMD11%뛰어도불안...",
+  "사람상담원이로봇집사질문에답변하는시대:슬로우레터11월9일.",
+  "삼성전자,현금214조'사상최대'…주주환원·미래투자에240조쏟아붓...",
+  "[KFT모닝브리프]2026.11.09—오늘꼭알아야할국내외경제뉴스"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,33 @@
   [
    "2026-11-09T07:21:03.649521+09:00",
    "최고 차이 우선주 역대 수준 보통주와 방치된 가격"
+  ],
+  [
+   "2026-11-09T07:31:14.656975+09:00",
+   "사람들 대한항공을 지키려는"
+  ],
+  [
+   "2026-11-09T07:31:14.656975+09:00",
+   "반도체 폭락 AMD 뛰어도 불안 줍줍 월가 나선"
+  ],
+  [
+   "2026-11-09T07:31:14.656975+09:00",
+   "슬로우레터 집사 질문에 답변하는 11월9일 상담원이 로봇 사람 시대"
+  ],
+  [
+   "2026-11-09T07:31:14.656975+09:00",
+   "미래투자에 현금 사상 쏟아붓 214조 240조 삼성전자 주주환원"
+  ],
+  [
+   "2026-11-09T07:31:14.656975+09:00",
+   "알아야 국내외 경제뉴스"
+  ],
+  [
+   "2026-11-09T07:31:14.656975+09:00",
+   "경영전략회의 성과 14일 SK그룹 회장 CEO 주재 AI 세미나 최태원"
   ]
  ],
- "last_run": "2026-11-09T07:21:17.054303+09:00",
+ "last_run": "2026-11-09T07:31:33.756837+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
