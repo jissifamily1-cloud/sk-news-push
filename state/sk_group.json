@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20261105204305ID5",
-  "https://www.ftimes.kr/news/articleView.html?idxno=40911",
-  "http://www.stoo.com/article.php?aid=109762187906",
-  "https://m.sports.naver.com/basketball/article/065/0000304114",
-  "http://www.osen.co.kr/article/G1112904990",
-  "http://www.osen.co.kr/article/G1112904989",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=285115",
-  "https://www.seoulfn.com/news/articleView.html?idxno=642064",
-  "https://www.ziksir.com/news/articleView.html?idxno=152275",
   "https://www.mk.co.kr/article/12198971",
   "https://www.dailian.co.kr/news/view/1711504/?sc=Naver",
   "https://www.vegannews.co.kr/news/article.html?no=401056",
@@ -2999,18 +2990,18 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080020&t=NN",
   "https://m.skyedaily.com/news_view.html?ID=314255",
   "https://kpenews.com/View.aspx?No=4302405",
-  "https://www.kyeongin.com/article/1774278"
+  "https://www.kyeongin.com/article/1774278",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1105556",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90494",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080021&t=NN",
+  "https://www.seoul.co.kr/news/politics/2026/11/08/20261108500027?wlog_tag3=naver",
+  "https://www.mk.co.kr/article/12201629",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579613204580",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16271093",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435270",
+  "https://www.kmib.co.kr/article/20261108500154"
  ],
  "seen_titles": [
-  "SamsungLeadsQ3DRAMRevenueAmidSKhynixClosingIn",
-  "미국뒤집힌날..최태원SK회장은서울대서'AI패러다임'특강",
-  "뇌전증협회,뇌전증인식개선예술제'보랏빛물결'개최",
-  "[이시각헤드라인]11월5일뉴스리뷰",
-  "\"손흥민이2년전경고했던현실?\"…양민혁,벨기에선발0회에감독마저...",
-  "'칸터·이관희맹활약'삼성,현대모비스잡고10승고지선착",
-  "‘정규리그우승확률83.3%’삼성,현대모비스꺾고10승고지밟다",
-  "[사진]이규태,저돌적인골밑돌파",
-  "[사진]맥컬러,내가먼저잡았다.",
   "최태원SK그룹회장\"중간선거에도와장창…롤러코스터계속\"",
   "KB증권노조,10년만에대규모집회···성과급개편·임금갈등격화",
   "과잉유동성에증시급등락···최태원SK그룹회장\"롤러코스터장세...",
@@ -6001,7 +5992,16 @@
   "[속보]\"선거전국민연금으로판키워\"…오세훈,'증시폭락'직격",
   "급락한코스피…증권가가꼽은두가지반등조건",
   "엔비디아‘피지컬AI창구’매디슨황방한돌연취소..배경훈부총리...",
-  "[굿모닝위즈·148(KS4)]수원가자"
+  "[굿모닝위즈·148(KS4)]수원가자",
+  "워커힐호텔'더뷔페',리뉴얼3주년…3년간누적이용객105만5천명...",
+  "SK하이닉스,美에사장급조직신설…안현미주총괄사장선임",
+  "한주새10.4조던진외인…삼전닉스보유율도'뚝'",
+  "[속보]오세훈“지방선거용주식도박…선거후폭락거듭,우연의일...",
+  "오를땐팔고떨어지자샀다…개미,삼전하닉집중매수",
+  "美중간선거민주당압승…반도체·자동차·배터리등국내산업영향...",
+  "미국민주당중간선거압승…한화솔루션·LG엔솔·삼성SDI·효성중공업...",
+  "광주,제주와비기고김천은안양제압…K리그1하위권경쟁요동",
+  "반도체클러스터들어서는광주광산구,주거·일자리·교통대책등논..."
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,21 @@
   [
    "2026-11-08T11:41:02.953060+09:00",
    "수원가자"
+  ],
+  [
+   "2026-11-08T11:51:00.261310+09:00",
+   "미국 LG엔솔 한화솔루션 효성중공업 압승 민주당 삼성SDI 중간선거"
+  ],
+  [
+   "2026-11-08T11:51:00.261310+09:00",
+   "광주 제주와 하위권 제압 K리그1 안양 경쟁 요동 김천은 비기고"
+  ],
+  [
+   "2026-11-08T11:51:00.261310+09:00",
+   "광주 광산구 일자리 교통대책 주거 반도체 들어서는 클러스터"
   ]
  ],
- "last_run": "2026-11-08T11:41:08.517292+09:00",
+ "last_run": "2026-11-08T11:51:11.534111+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
