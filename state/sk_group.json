@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=818316",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1022637",
   "https://basketkorea.com/news/newsview.php?ncode=1065577256567471",
   "https://www.cnbnews.com/news/articleView.html?idxno=1022641",
   "http://www.rookie.co.kr/news/articleView.html?idxno=129742",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20111540",
   "https://it.chosun.com/news/articleView.html?idxno=3000000000454",
   "https://www.sedaily.com/article/20111677",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836345&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836345&plink=ORI&cooper=NAVER",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081304138730096",
+  "https://www.abcn.kr/news/articleView.html?idxno=94233"
  ],
  "seen_titles": [
-  "삼성전자·SK하이닉스주가급락,투자자혼란가중...이제어디로?",
-  "‘블루쓰나미쇼크’…美증시급락에코스피5000붕괴",
   "美AI주투매에코스피'서킷브레이커'…5000선붕괴",
   "AI가키운메모리황금기…삼성·SK,HBM·D램주도권경쟁격화",
   "[오늘증시]'패닉셀'에반도체줄줄이급락…코스피5000선붕괴위기",
@@ -6001,7 +5999,9 @@
   "코스피10%급락에도웃었다…통신·K콘텐츠지수9%대상승[마켓시그널...",
   "천당서지옥으로…상반기주도주소부장ETF,이젠찬밥",
   "역주행하는CD금리…연체율높은중소기업부담더커진다",
-  "'롤러코스터'코스피,미반등에한숨돌리나"
+  "'롤러코스터'코스피,미반등에한숨돌리나",
+  "③건설버팀목‘반도체팹’마저…825조호남클러스터흔들",
+  "중국LFP에밀리고헝가리규제에발목…K배터리3사유럽서이중고"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,17 @@
   [
    "2026-11-09T06:21:01.527353+09:00",
    "반등에 코스피 돌리나 한숨 롤러코스터"
+  ],
+  [
+   "2026-11-09T06:31:09.085738+09:00",
+   "825조 버팀목 클러스터 반도체 호남 흔들 마저 건설"
+  ],
+  [
+   "2026-11-09T06:31:09.085738+09:00",
+   "K배터리 LFP에 규제에 3사 중국 이중고 유럽서 헝가리 발목 밀리고"
   ]
  ],
- "last_run": "2026-11-09T06:21:15.345858+09:00",
+ "last_run": "2026-11-09T06:31:17.350258+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
