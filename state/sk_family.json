@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=156786",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=107107",
   "https://www.ekn.kr/web/view.php?key=20261019029297848",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267879",
@@ -2999,10 +2998,10 @@
   "https://www.etoday.co.kr/news/view/2645957",
   "https://www.thedailypost.kr/news/articleView.html?idxno=116758",
   "https://www.hankyung.com/article/2026110958421",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261109183414VhG"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261109183414VhG",
+  "https://www.dt.co.kr/article/12094102"
  ],
  "seen_titles": [
-  "SK핵심부회장3명이동…'하이닉스'중심그룹재편속도",
   "SK그룹부회장3명SK하이닉스로…반도체에힘싣는다",
   "\"반도체가미래다\"...SK부회장3명,하이닉스로전격이동",
   "SK그룹,하이닉스지휘체계다듬는다…부회장3명전진배치",
@@ -6001,7 +6000,8 @@
   "SK그룹,12~14일CEO세미나개최…내년AI사업전략논의",
   "'깐부'젠슨황불륜과간첩의혹…확인된사실과남겨진질문",
   "SK그룹,CEO세미나열고,내년AI사업전략세운다",
-  "中\"근거없는비방\"발끈...엔비디아칩확보난항"
+  "中\"근거없는비방\"발끈...엔비디아칩확보난항",
+  "[기획]‘젠슨황생벼락’…‘韓AI’초비상"
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,13 @@
   [
    "2026-11-09T18:10:18.348324+09:00",
    "의혹 불륜과 사실과 남겨진 질문 깐부 젠슨 확인된 간첩"
+  ],
+  [
+   "2026-11-09T19:20:16.950732+09:00",
+   "초비상 젠슨 AI 생벼락"
   ]
  ],
- "last_run": "2026-11-09T19:10:31.630160+09:00",
+ "last_run": "2026-11-09T19:20:32.200426+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
