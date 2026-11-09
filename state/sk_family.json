@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20103142",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259871",
   "https://theviewers.co.kr/View.aspx?No=4268504",
   "https://www.fntimes.com/html/view.php?ud=202609211553154681048b718333_18",
@@ -2999,10 +2998,10 @@
   "https://www.segye.com/newsView/20261109517897?OutUrl=naver",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1543173",
   "https://www.gukjenews.com/news/articleView.html?idxno=3746845",
-  "https://www.mk.co.kr/article/12200601"
+  "https://www.mk.co.kr/article/12200601",
+  "https://www.the-today.com/news/articleView.html?idxno=93343"
  ],
  "seen_titles": [
-  "SK그룹부회장3명,SK하이닉스합류...반도체역략결집",
   "SK그룹핵심부회장3인,SK하이닉스합류경영지원나서...글로벌경쟁...",
   "SK그룹전문경영인부회장3명,하이닉스로보임…반도체에집중",
   "SK그룹부회장3명,하이닉스로이동…반도체에역량결집",
@@ -6001,7 +6000,8 @@
   "증시급등락더이어질수도…최태원,과잉유동성·AI쏠림경고",
   "불륜에스파이의혹…반도체·AI업계,파장촉각",
   "최태원\"중간선거결과,반도체산업에부정적영향\"우려",
-  "삼성컨콜,이런질문원했던게아닌데[취재수첩]"
+  "삼성컨콜,이런질문원했던게아닌데[취재수첩]",
+  "주가는울고사진은웃고…최태원·젠슨황의밈...엑스(X)에회자"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-09T20:10:15.595729+09:00",
    "쏠림 이어질 과잉 급등락 수도 유동성 증시 AI 경고"
+  ],
+  [
+   "2026-11-09T21:40:15.343139+09:00",
+   "황의 엑스 사진은 주가는 웃고 울고 젠슨 회자"
   ]
  ],
- "last_run": "2026-11-09T21:30:37.039497+09:00",
+ "last_run": "2026-11-09T21:40:28.594812+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
