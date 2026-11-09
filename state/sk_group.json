@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20261107505925?OutUrl=naver",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=8189",
-  "https://www.insight.co.kr/news/581053",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489635",
   "https://www.hankyung.com/article/2026110609146",
   "https://www.sportsworldi.com/newsView/20261107506070",
   "https://www.hani.co.kr/arti/sports/baseball/1286239.html",
@@ -2999,13 +2995,13 @@
   "https://www.vegannews.co.kr/news/article.html?no=402602",
   "http://www.osen.co.kr/article/G1112907426",
   "https://www.interfootball.co.kr/news/articleView.html?idxno=698132",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229910"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229910",
+  "http://www.ujeil.com/news/articleView.html?idxno=395002",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48896",
+  "http://coinreaders.com/268613",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543188"
  ],
  "seen_titles": [
-  "세계증시덮친블루웨이브…하루만에시총4800조원증발",
-  "미국민주당승리하자AI업체들주가폭락...데이터센터규제강화공...",
-  "장찬희·이재희호투+박승규3타점펄펄…삼성,12년만의KS정상까지...",
-  "'1패뒤3연승'삼성,12년만에우승'눈앞'…'완벽투'이재희,데일리...",
   "'장찬희호투+박승규3안타'삼성,KT10-5격파…업셋우승까지단1승",
   "“12년만의KS우승,딱1승남았다”...삼성,신인장찬희‘깜짝호투...",
   "[글로벌마켓뷰]하루새4천800조원증발…美민주당,'블루웨이브쇼...",
@@ -6001,33 +5997,13 @@
   "GPU는질문분석,NPU는답변생성…3사통합시스템개발",
   "\"너무기쁘다\"KT,3년만에드래프트1순위행운...정관장은3%확률뚫...",
   "[K리그1포인트]소박하다고?확실했던'1부잔류'목표...부천,11경기...",
-  "젠슨황장녀불참이유묻자'동문서답'…장관·기업일정줄줄이취소"
+  "젠슨황장녀불참이유묻자'동문서답'…장관·기업일정줄줄이취소",
+  "울산,'아마존코리아커뮤니티펀드'유치성공",
+  "SK하이닉스,엔비디아AI로반도체식각·열변형시뮬레이션속도30배↑",
+  "[서학개미레이더]SK하이닉스4.6%·삼성전자2.4%반등…CPI앞둔SOXL...",
+  "[월드e브리핑]앤트로픽,기술주급락에도26일이전IPO완료방침"
  ],
  "recent_sigs": [
-  [
-   "2026-11-09T14:51:03.736182+09:00",
-   "검토 정부 쪼개는 이용자 영향 SK호라이즌 보호 SK브로드밴드 시장"
-  ],
-  [
-   "2026-11-09T14:51:03.736182+09:00",
-   "LFP 주문 독주 흔드는 퇴근 해요 밀려"
-  ],
-  [
-   "2026-11-09T14:51:03.736182+09:00",
-   "백신 회복 SK바이오사이언스 기대 올라 사업"
-  ],
-  [
-   "2026-11-09T14:51:03.736182+09:00",
-   "김진우 회계 대표이사 전문가 내정 한화세미텍 컨설팅 37세"
-  ],
-  [
-   "2026-11-09T14:51:03.736182+09:00",
-   "KT 웃었다 이제 순번 현대모비스 KBL 정관장 드래프트 추첨서"
-  ],
-  [
-   "2026-11-09T14:51:03.736182+09:00",
-   "영업이익 감소 늘었지만 코웨이 매출 당기순이익은"
-  ],
   [
    "2026-11-09T15:01:24.251018+09:00",
    "어닝쇼크에 증권가도 줄하향 주가 급락 LIG 목표가 3분기"
@@ -6999,9 +6975,13 @@
   [
    "2026-11-09T20:41:05.960286+09:00",
    "장관 젠슨 장녀 취소 일정 동문서답 불참 묻자 줄줄이 이유 기업"
+  ],
+  [
+   "2026-11-09T20:51:04.302230+09:00",
+   "IPO 급락에도 기술주 방침 앤트로픽 이전 26일 완료"
   ]
  ],
- "last_run": "2026-11-09T20:41:12.618283+09:00",
+ "last_run": "2026-11-09T20:51:09.909297+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
