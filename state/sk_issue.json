@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6601004",
-  "https://news.jtbc.co.kr/article/NB12326110?influxDiv=NAVER",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/02/2026110290270.html",
-  "https://www.seoultimes.news/news/article.html?no=2000101690",
-  "https://www.khan.co.kr/article/202611022046015",
   "https://www.hankookilbo.com/news/article/A2026110219460001143?did=NA",
   "https://www.jasm.co.kr/news/view/323882/?sc=Naver",
   "https://www.tjb.co.kr/news05/bodo/view/id/105591",
@@ -2999,14 +2994,14 @@
   "https://www.fnnews.com/news/202611091832210971",
   "https://www.segye.com/newsView/20261109515415?OutUrl=naver",
   "https://www.ytn.co.kr/_ln/0101_202611091839561600",
-  "https://www.busan.com/view/busan/view.php?code=2026110917585282622"
+  "https://www.busan.com/view/busan/view.php?code=2026110917585282622",
+  "https://www.khan.co.kr/article/202611091859001",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=91737",
+  "https://www.kmib.co.kr/article/20261109501713",
+  "https://www.hani.co.kr/arti/society/society_general/1286515.html",
+  "https://www.newsis.com/view/NISX20261109_0003861074"
  ],
  "seen_titles": [
-  "삼성전자에'갑질계약'강요한브로드컴…186억원과징금확정",
-  "'삼성에부품공급중단압박'브로드컴…대법,186억과징금최종확정",
-  "사업대가로여론조사지지요청의혹…유희태완주군수송치",
-  "[이슈]한진vs호반,한진칼최대주주놓고지분경쟁본격화…경영권...",
-  "호반·조원태,한진칼최대주주놓고지분경쟁돌입",
   "조원태,한진칼지분370억원어치추가매입…지분율6.23%로",
   "조원태,한진칼주식370억추가매입…호반그룹최대주주가능성에'맞...",
   "(R)\"구속·송치0건에인력은60%\"…대전중수청출범한달",
@@ -6001,10 +5996,15 @@
   "[강남視角]703일을버틸中企는없다",
   "선관위특검,두달넘도록구속·기소‘0’…성과압박에연일압색",
   "野,'조작기소특검'총공세..김재원\"이재명탄핵현실적으로어려워,...",
-  "선관위특검,'올림픽공원반출'이상투표지정밀감정의뢰"
+  "선관위특검,'올림픽공원반출'이상투표지정밀감정의뢰",
+  "[사설]음식값도끌어올린배달앱의시장지배력남용,반드시근절해야",
+  "쿠팡이츠,공정위최혜대우제재에반발…\"과징금3000억원대는형평...",
+  "경찰청장후보“국무회의참석필요…응급실압수수색적법”",
+  "[단독]‘후원금내면만남·통화’라이브소개팅서성희롱…경찰,댓...",
+  "특검,'이의제기'투표지분류완료…공소청·국과수에정밀감정의뢰"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-09T18:52:15.957038+09:00",
+ "last_run": "2026-11-09T19:01:10.812586+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
