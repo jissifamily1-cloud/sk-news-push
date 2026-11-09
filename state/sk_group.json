@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.imaeil.com/page/view/2026110717482192946",
-  "https://economist.co.kr/article/view/ecn202611070009",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282737&CMPT_CD=P0010",
-  "https://sports.khan.co.kr/article/202611071809003?pt=nv",
-  "http://www.spochoo.com/news/articleView.html?idxno=131876",
-  "https://www.edaily.co.kr/News/Read?newsId=03339046645643424&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03345606645643424&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03322646645643424&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03335766645643424&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03302966645643424&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=03293126645643424&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=03280006645643424&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=03355446645643424&mediaCodeNo=257",
@@ -2999,19 +2989,19 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=451568",
   "https://www.dailian.co.kr/news/view/1712817/?sc=Naver",
   "http://www.kjdaily.com/article.php?aid=1794225381691744276",
-  "https://www.christiantoday.co.kr/news/378501"
+  "https://www.christiantoday.co.kr/news/378501",
+  "https://www.hankyung.com/article/202611096022i",
+  "http://www.paxetv.com/news/articleView.html?idxno=286429",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=564814",
+  "https://www.medigatenews.com/news/2668711948",
+  "https://www.the-today.com/news/articleView.html?idxno=93343",
+  "https://www.tokenpost.kr/news/cryptocurrency/435191",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=446940",
+  "https://www.koreajoongangdaily.com/business/sk-telecom-receives-insurance-payout-after-massive-sim-data-breach/12964007",
+  "https://www.yna.co.kr/view/AKR20261109157300007?input=1195m",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/09/2026110990252.html"
  ],
  "seen_titles": [
-  "대보하우스디우승놓고유현조vs서어진vs이예원'한판승부'...KLPGA투...",
-  "[나는농구선수다]서울SK정우빈\"첫골의희열,아직도못잊어요\"…...",
-  "[데일리안오늘뉴스종합]'조작기소특검법'충돌,미래에셋증권도당했...",
-  "'블루웨이브쇼크'세계증시시총하루만에4천800조원증발",
-  "KT이강철감독“볼넷이너무많이나와...제잘못이다”",
-  "중국밖에서도밀리는K-배터리…비중국시장점유율26%로추락",
-  "LG엔솔,왜수조원대의ESS입찰경쟁포기했나?",
-  "박수빈,광주전공수맹활약...제주중원의버팀목으로",
-  "한국시리즈첫선발등판맞나…대담한투구펼친삼성루키장찬희“...",
-  "90승팀무너뜨리고'95%'잡았다!1회6득점에장찬희·이재희역투…삼...",
   "[포토]김재희,첫버디성공엄지척",
   "[포토]김재희,모델처럼인사해요",
   "[포토]김재희,버디위해중앙으로",
@@ -6001,53 +5991,19 @@
   "[11월10일자]비즈니스포스트아침의주요기사",
   "[데일리안오늘뉴스종합]'李선거법사건'특검수사대상포함…국산...",
   "SK하이닉스·삼성전자거래대금44%급감…상위50종목36%↓",
-  "[자유통일당대변인논평]코스피반토막코앞,이재명의'고통없는연..."
+  "[자유통일당대변인논평]코스피반토막코앞,이재명의'고통없는연...",
+  "젠슨황,엔비디아서퇴진가능성?…'中스파이'와불륜의혹에최대위기",
+  "[엔비디아AI데이]엔비디아기술업은반도체시뮬레이션…삼성·SK하...",
+  "코스피,AI투자우려에연일부진...삼전·SK하닉반등에도하락마감",
+  "한국보건산업진흥원,'K-바이오글로벌이노베이션링스'입주기업31개...",
+  "주가는울고사진은웃고…최태원·젠슨황의밈...엑스(X)에회자",
+  "EWY선물24시간1.36%하락해135.97달러",
+  "코스피,약보합에5000선턱걸이...LG에너지솔루션,삼성전기등하락",
+  "SKTelecomreceivesinsurancepayoutaftermassiveSIMdatabreach",
+  "프로농구삼성,kt4연승저지하며선두질주…칸터4쿼터11점",
+  "스캔들휩싸인'1극체제'엔비디아…'깐부'삼성·SK·현대차'날벼락'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "엔비디아 토종NPU 토큰시장 진출 올라탄 소버린AI로 글로벌"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "환영 특례 근로시간 자동차업계 포함 초광역특구법"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "1만원씩 대신증권 예방 조치도 고객에 지급 정보유출 병행"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "반토막 피했다 SK하이닉스 하반기 145종목 HD현대일렉트릭도"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "체제 1년 절반의 보수적 흑자 전망 SK온 성공 이용욱 연간 ESS"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "SK바이오팜 분수령 만료 임상 결과 엑스코프리 내달 특허 오파칼림"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "targets year electricity Shieldus this renewable"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "외인 체질개선 호황은 시급 속수무책 착시 투매에"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "export raises scandal chipmakers Nvidia risks for Korean"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "1년 비명도 나올 있는 때가 바닥 코스피 웃을"
-  ],
-  [
-   "2026-11-09T15:31:15.842262+09:00",
-   "미국 블루웨이브 삼성 법치 웃는다 주지사 현대차 파장"
-  ],
   [
    "2026-11-09T15:41:02.653689+09:00",
    "정지 살려두는데 요금 5만원 KT 번호만"
@@ -6887,9 +6843,33 @@
   [
    "2026-11-09T21:21:11.834773+09:00",
    "고통 없는 코스피 반토막 이재명의 코앞"
+  ],
+  [
+   "2026-11-09T21:31:16.917945+09:00",
+   "엑스 황의 젠슨 회자 울고 주가는 최태원 웃고 사진은"
+  ],
+  [
+   "2026-11-09T21:31:16.917945+09:00",
+   "선물 24시간 EWY 하락해 97달러"
+  ],
+  [
+   "2026-11-09T21:31:16.917945+09:00",
+   "턱걸이 약보합에 LG에너지솔루션 하락 코스피 삼성전기 5000선"
+  ],
+  [
+   "2026-11-09T21:31:16.917945+09:00",
+   "receives insurance data payout breach after massive SIM Telecom"
+  ],
+  [
+   "2026-11-09T21:31:16.917945+09:00",
+   "질주 칸터 11점 선두 저지하며 4연승 삼성 4쿼터 프로농구 kt"
+  ],
+  [
+   "2026-11-09T21:31:16.917945+09:00",
+   "엔비디아 휩싸인 현대차 체제 스캔들 삼성 날벼락 1극 깐부"
   ]
  ],
- "last_run": "2026-11-09T21:21:18.055220+09:00",
+ "last_run": "2026-11-09T21:31:36.298365+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
