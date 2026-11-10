@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jejudomin.co.kr/news/articleView.html?idxno=402130",
-  "https://www.kado.net/news/articleView.html?idxno=2083512",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280782",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5043821",
-  "https://www.dt.co.kr/article/12093917",
-  "https://www.econovill.com/news/articleView.html?idxno=756461",
-  "https://www.wikitree.co.kr/articles/1172988",
-  "https://www.mydaily.co.kr/page/view/2026110910482607239",
-  "https://www.nocutnews.co.kr/news/6603931",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=94835",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=624736",
   "https://www.goodkyung.com/news/articleView.html?idxno=293248",
   "https://www.gokorea.kr/news/articleView.html?idxno=884734",
   "https://www.newsis.com/view/NISX20261109_0003860123",
@@ -2999,20 +2988,20 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611101807159130472",
   "https://www.edaily.co.kr/News/Read?newsId=05782646645644408&mediaCodeNo=257",
   "https://www.fnnews.com/news/202611101833452450",
-  "https://www.tokenpost.kr/news/market/435783"
+  "https://www.tokenpost.kr/news/market/435783",
+  "https://biz.heraldcorp.com/article/10930445",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280945",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111018403768504c878f8fa1_30",
+  "http://www.inews24.com/view/2024744",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=667895",
+  "http://www.paxetv.com/news/articleView.html?idxno=286550",
+  "https://www.hani.co.kr/arti/economy/it/1286690.html",
+  "https://www.dt.co.kr/article/12094368",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444032",
+  "https://www.dt.co.kr/article/12094372",
+  "https://biz.heraldcorp.com/article/10932371"
  ],
  "seen_titles": [
-  "국토부AIDC건설활성화포럼,SK하이닉스용인현장방문",
-  "앤트로픽상장앞둔SKT,달라진셈법…지분매각·배당재원'저울질'",
-  "하나증권\"반도체악재선반영..실적상향속비중확대기회\"",
-  "피플앤드테크놀러지,SKT와'모두의AI'사업업무협약",
-  "앤트로픽수출빗장에맞선젠슨황“엔비디아시장,내줄수없다”",
-  "우리곁에제주경찰'언성히어로'표창수여식",
-  "이철규의원·오세인변호사,'강릉AIDC미확정'허위사실공표우상호...",
-  "SouthKoreanStocksCouldReboundSharplyonEvenaSmallPositiveCata",
-  "[정해균의Zoom-人]CEO들의잇따른자사주매입…'책임경영'의지보여...",
-  "SK쉴더스,VB2026서아르곤와이퍼공격인프라분석성과공개",
-  "야구·축구겹경사…삼성전자곳간얼마나열릴까",
   "12년만에삼성우승하자…KTX역에서포효한연예인,아내는폭풍눈물",
   "지안♥엄정욱\"짧지만깊었던연애끝에결혼\"",
   "'휴식은독,뚝심은고집'90승신화kt,허무하게놓친통합우승",
@@ -6001,7 +5990,18 @@
   "[AI딥다이브]SKT,‘AX카탈리스트’10명선발…현업AI과제지원",
   "“스테이블코인법정부안23일께제출”…여야격돌예고(종합)",
   "[사설]'아니면말고'식증권사주가예측발표중단해야",
-  "엔비디아1.21%·TSMC1.19%장전상승"
+  "엔비디아1.21%·TSMC1.19%장전상승",
+  "SK,이번주CEO세미나...내년AI사업전략수립",
+  "[마감시황]미기술주훈풍에4거래일만반등…코스피5,230선·코스닥...",
+  "성수석이천시장,하이닉스상점가주차개선추진…국비48억9300만원확...",
+  "김정관\"호남반도체클러스터팹배치,이달안에마무리예정\"",
+  "Sh수협은행,CSF내부조직'확대'…기업금융신용분석역량강화",
+  "삼성전자·SK하이닉스동반강세…코스피,5200선회복",
+  "통신3사,본업딛고AI인프라로…데이터센터확충각축전",
+  "AI·바이오혁신기술대거공개…초격차스타트업‘총출동’",
+  "[채권-마감]강세플래트닝…증시호조에도外人매수에금리하락",
+  "LG화학,여수공장서‘반도체세정소재’증설검토",
+  "“소개팅에주민번호가왜필요해?”…과도한정보수집,털려도배상은..."
  ],
  "recent_sigs": [
   [
@@ -7203,9 +7203,21 @@
   [
    "2026-11-10T18:41:01.660163+09:00",
    "상승 장전 엔비디아 TSMC"
+  ],
+  [
+   "2026-11-10T18:51:01.235453+09:00",
+   "증시 하락 호조에도 강세 플래트닝 매수에 금리"
+  ],
+  [
+   "2026-11-10T18:51:01.235453+09:00",
+   "세정 소재 반도체 여수공장서 증설 검토 LG화학"
+  ],
+  [
+   "2026-11-10T18:51:01.235453+09:00",
+   "과도한 필요해 배상은 정보수집 털려도 주민번호가 소개팅에"
   ]
  ],
- "last_run": "2026-11-10T18:41:15.397007+09:00",
+ "last_run": "2026-11-10T18:51:12.545652+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
