@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.vegannews.co.kr/news/article.html?no=399894",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424766",
-  "https://www.sedaily.com/article/20109672",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261103153319jtG",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/67217?feed=na",
-  "https://www.yna.co.kr/view/AKR20261103132600054?input=1195m",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/03/2026110390196.html",
-  "https://www.cstimes.com/news/articleView.html?idxno=726456",
-  "https://www.kbmaeil.com/article/20261103500161",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=17150",
   "https://www.viva100.com/article/20261103500708",
   "https://www.mydaily.co.kr/page/view/2026110315452056312",
   "http://www.metroseoul.co.kr/article/20261103500384",
@@ -2999,19 +2989,19 @@
   "https://futurechosun.com/?p=166205",
   "https://www.joongangenews.com/news/articleView.html?idxno=562618",
   "http://www.yonhapnewstv.co.kr/news/AKR20261110132404cyK",
-  "https://www.news1.kr/local/gwangju-jeonnam/6349012"
+  "https://www.news1.kr/local/gwangju-jeonnam/6349012",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435367",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1423518",
+  "http://www.economytalk.kr/news/articleView.html?idxno=425196",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=881690",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230023",
+  "https://www.mediawatch.kr/news/article.html?no=261676",
+  "https://www.dailian.co.kr/news/view/1713087/?sc=Naver",
+  "https://www.seoul.co.kr/news/society/2026/11/10/20261110500171?wlog_tag3=naver",
+  "https://www.kyeongin.com/article/1774442",
+  "https://view.asiae.co.kr/article/2026111013341822312"
  ],
  "seen_titles": [
-  "소비자생협연합회설립인가중기부로…13일시행",
-  "호반,한진칼최대주주노리지만조원태우호지분'막강'···경영권변...",
-  "토스,네이버공정위에제소",
-  "선관위특검,'공추비의혹'중앙선관위이틀째압수수색",
-  "'천공의혹'제기부승찬의원,군사기밀유출혐의무죄",
-  "지방선거앞두고'불륜청장'피켓시위주도11명송치",
-  "천호성전북교육감집무실·자택압수수색…변호사비대납의혹수사",
-  "폭10.5cm정수기나왔다…청호나이스'청호정수기미니'출시",
-  "[건강칼럼]찬바람에예민해진코,생활관리가시작입니다",
-  "[해외브리핑]WMO\"온실가스농도사상최고…산업화前153%달해\"",
   "단순투자라더니턱밑⋯조원태한진회장,경영권방어비상",
   "토스,네이버공정위제소…15만가맹점‘포스연동’갈등",
   "공정위,공시의무반복위반시과태료가중최대50%로상향…11월9일...",
@@ -6001,7 +5991,17 @@
   "[AI시대,필란트로피를묻다]AI가공감까지대신하는시대,인간에게...",
   "스틸美대사\"한국진출미국기업,공정하게경쟁해야\"",
   "경찰,'공직선거법위반'등천호성전북교육감소환조사",
-  "분양위증혐의수분양자등6명무죄…법원\"입증할자료없어\""
+  "분양위증혐의수분양자등6명무죄…법원\"입증할자료없어\"",
+  "청호나이스,가로10.5㎝초소형직수정수기'청호정수기미니'출시",
+  "[신상브리핑]크라운해태,농심,빙그레,CJ푸드빌,롯데웰푸드,한국후...",
+  "공정위\"배민·쿠팡경쟁에외식물가올랐다\"…'6000억대과징금'철퇴",
+  "네이버·두나무결합심판대···원화코인도심사",
+  "특검\"선관위,경기교육감개표상황표은닉·위조한정황\"",
+  "경기교육감개표상황표‘은닉·위조’의혹…특검,선관위압수수색",
+  "선관위,경기도교육감개표상황표위조의혹…장동혁\"이제하나터졌을...",
+  "선관위특검,경기광주시선관위압수수색…“개표결과실제와달라져...",
+  "경기교육감개표상황표은닉·위조의혹…국힘“개표부정확인”",
+  "“수사지연에증거소실대비해야”…법무법인원,형사대응전략제시"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "LG 심층진단 일가 지분은 적어도 지배구조 총수 삼성"
   ]
  ],
- "last_run": "2026-11-10T13:31:00.127868+09:00",
+ "last_run": "2026-11-10T13:40:51.060093+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
