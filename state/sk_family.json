@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newslock.co.kr/news/articleView.html?idxno=136685",
-  "https://news.tf.co.kr/read/national/2378032.htm",
-  "https://www.pressian.com/pages/articles/2026101915563076563",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=312033",
   "http://www.newstomato.com/ReadNews.aspx?no=1317189&inflow=N",
   "https://www.namdonews.com/news/articleView.html?idxno=926559",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=276744",
@@ -2999,13 +2995,13 @@
   "https://www.fntoday.co.kr/news/articleView.html?idxno=397369",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=4996",
   "https://www.redaily.co.kr/news/articleView.html?idxno=18147",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=513150"
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=513150",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502633",
+  "https://www.sportsseoul.com/news/read/1648694",
+  "https://www.newspim.com/news/view/20261110000403",
+  "http://www.economytalk.kr/news/articleView.html?idxno=425205"
  ],
  "seen_titles": [
-  "삼성·SK·현대차·LG2027년인사'설(說)'…판흔들기보다실속·기술...",
-  "안철수\"솔리다임상장,SK총수와계열사가편취하도록설계된'슈킹컴...",
-  "최태원SK회장'위대한수업'통해청년들과미래ㆍ성장해법소통",
-  "검찰청폐지후지명수배사건1980여건경찰이관…미제18만건은어떻...",
   "[국감]호남반도체기업증인채택놓고여·야충돌",
   "최태원\"AI가못하는일해야...문제해결능력중요\"",
   "[기업]최태원\"AI가못하는일해야...문제해결능력중요\"",
@@ -6001,7 +5997,11 @@
   "팝페라테너'임형주',SK그룹최태원회장과다정한만남…화기애애한...",
   "한양증권,PC·모바일웹새단장…RP·채권·연금저축까지한눈에",
   "[리더십경영](100)'윤리리더십'은기업의가장값비싼자산",
-  "통합특별시의회'행감'...버스개편6일만에민원3,780건,시민불편..."
+  "통합특별시의회'행감'...버스개편6일만에민원3,780건,시민불편...",
+  "한양증권,펀드·RP·연금저축정보한곳에...홈페이지개편",
+  "최종현도의원“동해안6개시군,대한민국해양스포츠·레저의중심지...",
+  "구글,추론용AI칩성능2배…삼성·SKHBM수요커진다",
+  "입법권력국감증인비즈니스실토…\"국회기업협박범죄아닌가\""
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-11-10T10:10:17.998803+09:00",
    "윤리 기업의 값비싼 자산 가장 리더십"
+  ],
+  [
+   "2026-11-10T10:30:24.911544+09:00",
+   "성능 AI칩 2배 삼성 추론용 커진다 구글 수요 HBM"
+  ],
+  [
+   "2026-11-10T10:30:24.911544+09:00",
+   "범죄아닌가 비즈니스 실토 입법권력 국감증인 기업협박 국회"
   ]
  ],
- "last_run": "2026-11-10T10:20:24.576316+09:00",
+ "last_run": "2026-11-10T10:30:37.905367+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
