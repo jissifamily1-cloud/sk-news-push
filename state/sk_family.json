@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=131192",
-  "https://www.sisaweek.com/news/articleView.html?idxno=238455",
   "https://www.getnews.co.kr/news/articleView.html?idxno=884035",
   "https://www.mk.co.kr/article/12179912",
   "http://www.ikld.kr/news/articleView.html?idxno=342502",
@@ -2999,11 +2997,11 @@
   "https://www.sctoday.co.kr/news/articleView.html?idxno=49006",
   "http://www.cctimes.kr/news/articleView.html?idxno=936439",
   "https://news.jtbc.co.kr/article/NB12327326?influxDiv=NAVER",
-  "https://economist.co.kr/article/view/ecn202611100028"
+  "https://economist.co.kr/article/view/ecn202611100028",
+  "https://cc.newdaily.co.kr/site/data/html/2026/11/10/2026111000185.html",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718569"
  ],
  "seen_titles": [
-  "이화여대황은숙약학대학장,모교발전위해1억원쾌척",
-  "투명성vs속도…이사회의장놓고엇갈린재계셈법",
   "SK그룹,연말인사서최창원유임무게…사장인사폭축소전망도",
   "“이재용·최태원이함께춤을?”…SNS달군'미혼앤비혼'뭐길래",
   "이화여대,황은숙약학대학장으로부터'약대건축기금'1억원기부받아",
@@ -6001,7 +5999,9 @@
   "기계와인간,'우리'의조건묻다…한중일융합예술포럼「trulyseeyou」",
   "충남도의회교육위,\"교육정책실효성및예산집행현미경검증\"",
   "잘나가다사생활에'휘청'…젠슨황불륜파문에소환된거물들",
-  "[오늘의삼전닉스]'젠슨황스캔들'이반도체공급망에악영향미칠까..."
+  "[오늘의삼전닉스]'젠슨황스캔들'이반도체공급망에악영향미칠까...",
+  "충남도의회교육위,행정사무감사돌입…교육정책실효성집중점검",
+  "빅테크눈돌린한국,반도체이어데이터센터메카되려면"
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-11-10T11:40:15.751058+09:00",
    "공급망에 스캔들 악영향 반도체 젠슨 미칠까"
+  ],
+  [
+   "2026-11-10T11:50:17.583245+09:00",
+   "반도체 메카 이어 되려면 한국 빅테크 돌린 데이터센터"
   ]
  ],
- "last_run": "2026-11-10T11:40:28.151452+09:00",
+ "last_run": "2026-11-10T11:50:29.789539+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
