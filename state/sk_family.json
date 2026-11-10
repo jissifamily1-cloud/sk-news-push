@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1703149/?sc=Naver",
-  "https://www.insight.co.kr/news/578276",
   "https://www.news1.kr/industry/general-industry/6324583",
   "https://view.asiae.co.kr/article/2026101915072356169",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=7024",
@@ -2999,11 +2997,11 @@
   "https://www.g-enews.com/view.php?ud=202611100850368782923c501012_1",
   "https://www.ytn.co.kr/_ln/0104_202611100858369868",
   "http://www.breaknews.com/1249654",
-  "https://view.asiae.co.kr/article/2026111009105655617"
+  "https://view.asiae.co.kr/article/2026111009105655617",
+  "http://www.newsdream.kr/news/articleView.html?idxno=121763",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880924"
  ],
  "seen_titles": [
-  "송치형두나무의장순자산3.2조원…전세계18위코인부자",
-  "IPARK현대산업개발,추석연휴전'CEO주관안전보건점검'",
   "공소청,지명수배1천980여건경찰이관…미제는검토후처리",
   "“대학졸업장보다실제문제해결경험이더중요”",
   "최태원\"다시20대로돌아간다면창업\"...AI시대청년도전강조",
@@ -6001,7 +5999,9 @@
   "한양증권,공식홈페이지리뉴얼…\"고객편의성강화\"",
   "'불륜·간첩스캔들'젠슨황...'세기의위자료'가능성[뉴스UP]",
   "충남도의회,충남신용보증재단이사장후보자19일인사청문회",
-  "한양증권,펀드부터RP·연금저축까지한눈에···홈페이지리뉴얼"
+  "한양증권,펀드부터RP·연금저축까지한눈에···홈페이지리뉴얼",
+  "한양증권,펀드·RP·연금저축한눈에…홈페이지새단장",
+  "민형배\"2030년첫양산\"…반도체팹건설시간표구체화"
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-11-10T09:00:34.366075+09:00",
    "대학 인재 11시면 끄는 키운다며 AI"
+  ],
+  [
+   "2026-11-10T09:30:26.236310+09:00",
+   "시간표 구체화 민형배 양산 2030년 반도체 건설"
   ]
  ],
- "last_run": "2026-11-10T09:20:26.717516+09:00",
+ "last_run": "2026-11-10T09:30:37.230742+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
