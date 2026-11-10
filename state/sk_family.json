@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20261020200311uMN",
-  "http://www.cctimes.kr/news/articleView.html?idxno=933019",
-  "http://www.kjdaily.com/article.php?aid=1792494609689782002",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541138",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2447243",
-  "https://www.kmib.co.kr/article/20261020502167",
-  "https://www.edaily.co.kr/News/Read?newsId=05844966645614888&mediaCodeNo=257",
-  "https://www.bzeronews.com/news/articleView.html?idxno=823572",
   "http://www.yonhapnewstv.co.kr/news/MYH20261021055140b2m",
   "http://www.yonhapnewstv.co.kr/news/MYH20261020231352lsG",
   "https://www.sportsseoul.com/news/read/1633862",
@@ -2999,17 +2991,17 @@
   "http://www.jndn.com/article.php?aid=1787564027438361003",
   "https://www.newspim.com/news/view/20260824001186",
   "https://www.polinews.co.kr/news/articleView.html?idxno=741093",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445080"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445080",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076052",
+  "https://www.mk.co.kr/article/12135507",
+  "https://www.ajunews.com/view/20260825090341972",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645056",
+  "https://www.bloter.net/news/articleView.html?idxno=678229",
+  "https://www.imaeil.com/page/view/2026111022450974614",
+  "https://www.yna.co.kr/view/AKR20261110158700003?input=1195m",
+  "https://www.bntnews.co.kr/article/view/bnt202611110006"
  ],
  "seen_titles": [
-  "SK하이닉스현장점검이어범시민추진위출범…호남반도체클러스터...",
-  "국무회의부터군공항후보지심의까지···‘800조반도체’슈퍼위크",
-  "SK하이닉스,광주군공항찾았다…호남권반도체클러스터구체화",
-  "[SK솔리다임,나스닥상장]②11조인수자금털고AI낸드제패?…최태원...",
-  "[SK솔리다임,나스닥상장]①또쪼개기상장...'주가희석vs글로벌자...",
-  "리밸런싱성과낸SK…올해인사'안정'무게",
-  "호남권반도체클러스터조성협의SK하이닉스경영진전남광주통합특...",
-  "\"주주몫덜어총수몫늘리는꼴\"…'SK,솔리다임상장추진'비판여론...",
   "김현정의원\"솔리다임중복상장주주가치훼손우려\"",
   "충북수출분기120억달러첫돌파…3분기'역대최대'",
   "SK㈜,솔리다임몸값뛰기전먼저지분확보…\"해외우회중복상장?\"과...",
@@ -6001,10 +5993,35 @@
   "SK하이닉스,광주군공항방문…반도체투자구체화",
   "SK하이닉스경영진,광주군공항현장방문…반도체부지점검",
   "SK하이닉스경영진,한달만에광주군공항다시찾았다",
-  "메가프로젝트에전력수요전망다시쓴다,20일'12차전력수급기본계획..."
+  "메가프로젝트에전력수요전망다시쓴다,20일'12차전력수급기본계획...",
+  "[SK인사전망]①지난해발탁한사장들지금은…연말앞둔SK인사판",
+  "속도올리는호남반도체클러스터…기업점검·공항이전·시민결집",
+  "SK하이닉스경영진,반도체클러스터부지광주군공항방문",
+  "SK하이닉스광주군공항부지공동점검",
+  "[박종면의물음표]SK하이닉스의100조원과최태원의9440억원",
+  "젠슨황·최태원·이재용,IT거물들의사주팔자?…이혼·혼외자·불륜설...",
+  "SK그룹,최태원주재CEO세미나…AI전략·리밸런싱성과논의",
+  "젠슨황,불륜논란에AI밈확산"
  ],
- "recent_sigs": [],
- "last_run": "2026-11-11T06:00:45.257399+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-11T06:10:16.079526+09:00",
+   "AI 불륜 젠슨 확산 논란에"
+  ],
+  [
+   "2026-11-11T06:10:16.079526+09:00",
+   "세미나 주재 AI 논의 리밸런싱 전략 성과 CEO"
+  ],
+  [
+   "2026-11-11T06:10:16.079526+09:00",
+   "젠슨황 사주팔자 혼외자 이재용 IT 불륜설 거물들의 이혼"
+  ],
+  [
+   "2026-11-11T06:10:16.079526+09:00",
+   "최태원의 100조원과 SK하이닉스의 9440억원"
+  ]
+ ],
+ "last_run": "2026-11-11T06:10:34.203595+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
