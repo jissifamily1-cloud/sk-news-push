@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202610078564i",
-  "http://andongmbc.co.kr/adboard/NewsView84869",
-  "https://www.insight.co.kr/news/574531",
-  "https://www.dongponews.net/news/articleView.html?idxno=60650",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260921010007553",
-  "http://www.metroseoul.co.kr/article/20260920500273",
   "https://www.newspim.com/news/view/20260824001186",
   "https://www.polinews.co.kr/news/articleView.html?idxno=741093",
   "https://news.tf.co.kr/read/economy/2378149.htm",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/PYH20261110155600013?input=1196m",
   "http://www.yonhapnewstv.co.kr/news/MYH20261110160827cLl",
   "https://www.smarttoday.co.kr/ko-kr/articles/113612",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040479"
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040479",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=203139",
+  "https://www.imaeil.com/page/view/2026111016184153437",
+  "https://sports.donga.com/economy/article/all/20261110/134999940/1",
+  "https://www.joongangenews.com/news/articleView.html?idxno=562706",
+  "https://www.hankyung.com/article/202611107974H",
+  "https://www.newsis.com/view/NISX20261110_0003861695"
  ],
  "seen_titles": [
-  "솔리다임상장설에소환된'호남반도체'",
-  "울릉출향인·친인척여객선운임지원길열린다…박기호군의원조례...",
-  "野'김현지주례'지역난방공사사장임명질타",
-  "[2026국감]전력공급책임놓고여야충돌",
-  "국민의힘,이재용·최태원국감증인채택촉구…종합감사앞두고압박",
-  "박철우서울공소청장“노태우비자금,새범죄사실입증하면몰수가능...",
   "국힘\"'호남반도체'관련이재용·최태원국감증인으로채택해야\"",
   "종료1초전'절반'…청주대박준용유도금메달32년만우승",
   "청주대유도,32년만에전국체전金",
@@ -6001,13 +5995,15 @@
   "사랑의열매,2026아너소사이어티회원의날",
   "\"CJENM,수익독식\"…방송송출중단사태",
   "한양증권,창립70주년홈페이지리뉴얼",
-  "'아이들의일상이교육이되는도시'…수원교육정책토크쇼개최"
+  "'아이들의일상이교육이되는도시'…수원교육정책토크쇼개최",
+  "[더밸류브리핑]오늘의증권사소식...한국투자증권·삼성증권·한양증...",
+  "'알루미늄거장'조일알미늄이재섭명예회장별세",
+  "영풍,대표이사2명구속중MBK계약승인…누가주도했나[PS]",
+  "영풍대표2명구속중MBK와계약…장형진고문,고려아연경영권거래...",
+  "젠슨황도못피한'유퀴즈의저주'…홍대'LOVE'사인도재소환",
+  "\"보강할까,슬림화할까\"…4대그룹,'부회장최소화'인사기조올해는"
  ],
  "recent_sigs": [
-  [
-   "2026-11-10T10:10:17.998803+09:00",
-   "윤리 기업의 값비싼 자산 가장 리더십"
-  ],
   [
    "2026-11-10T10:30:24.911544+09:00",
    "성능 AI칩 2배 삼성 추론용 커진다 구글 수요 HBM"
@@ -6075,9 +6071,17 @@
   [
    "2026-11-10T15:50:15.023057+09:00",
    "세미나 성과 개최 14일 AI 점검 CEO 리밸런싱"
+  ],
+  [
+   "2026-11-10T16:20:15.612698+09:00",
+   "재소환 LOVE 저주 유퀴즈의 사인도 피한 황도 홍대 젠슨"
+  ],
+  [
+   "2026-11-10T16:20:15.612698+09:00",
+   "인사 올해는 최소화 슬림화할까 4대 부회장 기조 보강할까"
   ]
  ],
- "last_run": "2026-11-10T16:10:24.854146+09:00",
+ "last_run": "2026-11-10T16:20:30.948072+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
