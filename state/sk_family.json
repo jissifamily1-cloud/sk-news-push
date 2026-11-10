@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=91315",
-  "https://magazine.hankyung.com/business/article/202609218572b",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076133",
   "http://www.wsobi.com/news/articleView.html?idxno=318567",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076052",
@@ -2999,11 +2997,11 @@
   "https://www.joongang.co.kr/article/25477425",
   "https://www.starnewskorea.com/sports/2026/11/10/2026111018545958007",
   "https://www.usmbc.co.kr/NewsArticle/872577",
-  "https://www.mk.co.kr/article/12200565"
+  "https://www.mk.co.kr/article/12200565",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50469",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50475"
  ],
  "seen_titles": [
-  "550평‘노태우호화묘역’유지에수억…비용출처의문",
-  "어르신과청소년,세대의벽허무는'만남'",
   "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?",
   "‘보통사람’노태우550평초호화묘역유지에수억원…비용출처는?",
   "전남광주통합특별시의회시민주권자치행정연구회,시동",
@@ -6001,13 +5999,11 @@
   "공소청,‘노태우비자금은닉의혹’노재헌피의자입건…연내소환...",
   "대한체육회'올림픽데이런2026'개최\"올림픽정신은...우리모두의삶...",
   "또기금사용‥부족한교육재정",
-  "카카오-TPG‘9년동행’,출구에서틀어졌다[재계톡톡]"
+  "카카오-TPG‘9년동행’,출구에서틀어졌다[재계톡톡]",
+  "최태원SK회장,서울대경제학부생들과AI시대한국경제의길모색",
+  "SK사회적가치연구원,베이징포럼서AI활용한사회적가치측정방안제..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-10T15:40:16.005953+09:00",
-   "첩은 쏟아진 황에 AI 젠슨 칩과 인정한 패러디 불륜 차이"
-  ],
   [
    "2026-11-10T15:50:15.023057+09:00",
    "휘청 삼성 AI동맹 젠슨 촉각 원맨 체제"
@@ -6043,9 +6039,17 @@
   [
    "2026-11-10T19:50:18.385343+09:00",
    "의혹 노재헌 피의자 입건 노태우 비자금"
+  ],
+  [
+   "2026-11-10T21:40:16.904846+09:00",
+   "경제학부생들과 AI 모색 회장 한국 시대 경제의 서울대"
+  ],
+  [
+   "2026-11-10T21:40:16.904846+09:00",
+   "사회적가치연구원 AI 가치 방안 베이징포럼서 사회적 측정 활용한"
   ]
  ],
- "last_run": "2026-11-10T21:30:37.250863+09:00",
+ "last_run": "2026-11-10T21:40:32.756096+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6433,6 +6437,7 @@
   "hellot.net": "헬로티",
   "vegannews.co.kr": "vegannews.co.kr",
   "kbiznews.co.kr": "중소기업뉴스",
-  "redaily.co.kr": "철도경제신문"
+  "redaily.co.kr": "철도경제신문",
+  "smarttimes.co.kr": "스마트타임스"
  }
 }
