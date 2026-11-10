@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20261103/134960332/2",
-  "https://www.chosun.com/opinion/editorial/2026/11/04/NCYDVZE2BBAXFGQB7BZDD3RNME/",
-  "https://www.newscj.com/news/articleView.html?idxno=3445653",
-  "https://www.yna.co.kr/view/AKR20261103169100004?input=1195m",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261104053343chg",
-  "https://www.ytn.co.kr/_ln/0115_202611040515204795",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=228776",
   "https://www.mt.co.kr/society/2026/11/04/2026110315232558151",
   "http://www.jbsori.com/news/articleView.html?idxno=18134",
@@ -2999,15 +2993,15 @@
   "https://www.ulsanpress.net/news/articleView.html?idxno=586536",
   "https://www.joongang.co.kr/article/25477425",
   "https://www.khan.co.kr/article/202611102050035",
-  "https://www.khan.co.kr/article/202611102050025"
+  "https://www.khan.co.kr/article/202611102050025",
+  "https://health.chosun.com/site/data/html_dir/2026/11/10/2026111002519.html",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451681",
+  "https://news.jtbc.co.kr/article/NB12327416?influxDiv=NAVER",
+  "https://www.dailian.co.kr/news/view/1713322/?sc=Naver",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839746&plink=ORI&cooper=NAVER",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090224.html"
  ],
  "seen_titles": [
-  "대기업공시의무반복위반땐과태료최대50%가중",
-  "[사설]‘1호기’정보유출5개월동안몰라,기업혼냈듯채찍질해야",
-  "토스,공정위에네이버제소…\"토스포스차별행위\"",
-  "저신용자에정부지원대출중개…수수료50억챙긴일당송치",
-  "'변호사비대납'혐의천호성전북교육감압수수색",
-  "전세기타고월드컵관람...2조원대불법도박조직적발",
   "계좌추적도못하는공소청…범죄수익어떻게환수하나",
   "\"정부지원대출가능해요\"…서민3500명에수수료50억챙긴일당",
   "지방선거공소시효한달앞두고바빠진전북경찰...'변호사비대납의...",
@@ -6001,10 +5995,16 @@
   "킬레이션주사의혹울산의료기관조사착수",
   "공소청,‘노태우비자금은닉의혹’노재헌피의자입건…연내소환...",
   "‘파면’전대통령별장엔비밀금고…파라과이‘은행파산사태’...",
-  "러시아‘최후의독립언론’마지막날"
+  "러시아‘최후의독립언론’마지막날",
+  "“감기다나았는데기침만두달째”…‘감염후기침’완화법있다",
+  "[11월11일자]비즈니스포스트아침의주요기사",
+  "개표상황표'은닉·위조'정황…특검,선관위압수수색",
+  "[데일리안오늘뉴스종합]국민의힘\"李탈옥법거부하라\",증시급락입...",
+  "\"성형외과찾아드려요\"…강남병원들'은밀한거래'",
+  "개표결과뒤바꾸고사후은폐정황…특검,경기선관위압수수색"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-10T21:01:08.071189+09:00",
+ "last_run": "2026-11-10T21:10:54.103007+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
