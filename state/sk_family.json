@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2007524",
-  "https://www.asiatime.co.kr/article/20261019500293",
-  "https://news.jtbc.co.kr/article/NB12323694?influxDiv=NAVER",
   "https://edu.donga.com/news/articleView.html?idxno=112923",
   "https://www.newsway.co.kr/news/view?ud=2026101911183958651",
   "https://www.newscj.com/news/articleView.html?idxno=3441382",
@@ -2999,12 +2996,12 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16272583",
   "https://www.mk.co.kr/article/12203480",
   "http://www.netongs.com/news/articleView.html?idxno=336339",
-  "https://www.edaily.co.kr/News/Read?newsId=03355446645644408&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03355446645644408&mediaCodeNo=257",
+  "http://www.osen.co.kr/article/G1112907513",
+  "http://www.srtimes.kr/news/articleView.html?idxno=217128",
+  "https://www.kyosu.net/news/articleView.html?idxno=212220"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,'AI풀스택'으로글로벌판도바꾼다",
-  "SK그룹정기인사임박…최창원유임속경영진역할조정주목",
-  "임원늘린SK하이닉스,군살뺀현대차·LG전자",
   "IPARK현대산업개발,추석연휴전CEO현장안전점검...가을철안전사...",
   "정경구IPARK현대산업개발대표,추석앞두고안전경영‘고삐’",
   "[Invest]PRS만기1년의의미...한화오션지분내년시장풀린다",
@@ -6001,7 +5998,10 @@
   "장한나,예술의전당사장취임후첫예능출연…첼로때문에비행기서...",
   "예술의전당사장장한나,첼로때문에비행기서쫓겨난사연은",
   "베를린과빈을감동시킨'K-청소년오케스트라',여수서귀국정기연주...",
-  "한양증권,홈페이지리뉴얼…신규CI·브랜드컬러적용"
+  "한양증권,홈페이지리뉴얼…신규CI·브랜드컬러적용",
+  "장한나,갑질당했나..비행기에서쫓겨났다\"첼로여권왜없냐?\"황당...",
+  "한양증권,홈페이지전면개편…RP·채권·연금저축정보확대",
+  "AI인재키운다며밤11시면불끄는대학"
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,13 @@
   [
    "2026-11-10T08:30:25.234495+09:00",
    "아내에게 못했다 게이츠 고백 베이 불륜 충실하지 젠슨 황의"
+  ],
+  [
+   "2026-11-10T09:00:34.366075+09:00",
+   "대학 인재 11시면 끄는 키운다며 AI"
   ]
  ],
- "last_run": "2026-11-10T08:50:25.110636+09:00",
+ "last_run": "2026-11-10T09:00:45.912021+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
