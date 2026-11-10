@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/11/09/2026110909113557282",
-  "https://www.newsis.com/view/NISX20261109_0003860105",
-  "https://en.yna.co.kr/view/AEN20261109005400320?input=2106m",
-  "https://bizhankook.com/articles/kospi-crash-real-estate-impact.html",
-  "https://kr.aving.net/news/articleView.html?idxno=1816688",
-  "https://www.gokorea.kr/news/articleView.html?idxno=884764",
   "https://www.m-i.kr/news/articleView.html?idxno=2016022",
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171704",
   "http://www.thevaluenews.co.kr/news/view.php?idx=203056",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20261109042251007?input=1195m",
   "https://www.sidae.com/article/2026111014530420404",
   "https://www.edaily.co.kr/News/Read?newsId=02050006645644736&mediaCodeNo=257",
-  "https://www.ytn.co.kr/_ln/0104_202611110611506634"
+  "https://www.ytn.co.kr/_ln/0104_202611110611506634",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000700",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6864722_37012.html",
+  "https://www.news1.kr/world/international-economy/6349777",
+  "https://biz.sbs.co.kr/article_hub/20000345547?division=NAVER",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=56205",
+  "https://www.newspim.com/news/view/20261110001225"
  ],
  "seen_titles": [
-  "SK바이오팜,美K-바이오상생플랫폼'링스'입주사31곳선정",
-  "[글로벌이슈]젠슨황'스파이스캔들'파장…삼성·SK반도체공급망...",
-  "[현장]\"경쟁상대는부산아니다\"…울산항,친환경연료·북극항로거점...",
-  "[산업pick]롯데케미칼,3분기2,814억적자···석화사업개편속도",
-  "[현장+]바다메워세운1조2000억에너지허브…울산북항KET가보니",
-  "엔비디아GPU에국산NPU연결한다…SKT·리벨리온과맞손",
   "\"매디슨황은불참했지만,협약예정대로\"엔비디어-SKT-리벨리온3자M...",
   "Nvidia,SKT,Rebellionstojointlyestablishheterogeneouscomputin",
   "[부동산인사이트]코스피이틀새11%폭락,부동산은'다음차례'일까",
@@ -6001,7 +5995,13 @@
   "◇오늘의경기(11일)",
   "52시간특례'상위3%'만…극소수적용,실효성우려",
   "“삼전30만원·하닉160만원”목표가뚝…개미들“그게어디냐”",
-  "미물가,예상웃돌며'빅스텝'가능성...AI거품론가를코어위브실적..."
+  "미물가,예상웃돌며'빅스텝'가능성...AI거품론가를코어위브실적...",
+  "3Q실적갈린통신사…수익성·AI승부",
+  "젠슨황스캔들에AI생태계휘청거리나?",
+  "필라델피아반도체0.35%하락…엔비디아·마이크론·SK하이닉스ADR약세",
+  "[외신헤드라인]앤트로픽\"공모가70~78달러…86조원조달계획\"",
+  "[브랜드평판]미래에셋증권,증권사11월1위...삼성증권,한국투자증권...",
+  "[르포]\"독산동만데이터센터몰아넣나\"…AI가만드는지역불균형"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,25 @@
   [
    "2026-11-11T06:21:02.712722+09:00",
    "예상 가를 AI 거품론 코어위브 실적 웃돌며 물가 빅스텝 가능성"
+  ],
+  [
+   "2026-11-11T06:31:10.446116+09:00",
+   "마이크론 필라델피아 반도체 엔비디아 하락 SK하이닉스 약세 ADR"
+  ],
+  [
+   "2026-11-11T06:31:10.446116+09:00",
+   "86조원 앤트로픽 78달러 조달 계획 공모가"
+  ],
+  [
+   "2026-11-11T06:31:10.446116+09:00",
+   "1위 한국투자증권 미래에셋증권 삼성증권 증권사 11월"
+  ],
+  [
+   "2026-11-11T06:31:10.446116+09:00",
+   "몰아넣나 독산동만 데이터센터 AI가 지역 만드는 불균형"
   ]
  ],
- "last_run": "2026-11-11T06:21:26.391663+09:00",
+ "last_run": "2026-11-11T06:31:23.962453+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
