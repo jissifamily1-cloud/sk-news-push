@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/general-stock/6325656",
-  "https://www.hani.co.kr/arti/economy/finance/1283205.html",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259965",
   "http://www.newsbrite.net/news/articleView.html?idxno=201013",
   "https://magazine.hankyung.com/business/article/202610203086b",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88728",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12204179",
   "https://www.kmaeil.com/news/articleView.html?idxno=657723",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611100155&t=NN",
-  "https://biz.heraldcorp.com/article/10932647"
+  "https://biz.heraldcorp.com/article/10932647",
+  "https://cc.newdaily.co.kr/site/data/html/2026/11/10/2026111000377.html",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194461",
+  "https://www.ajunews.com/view/20261110153051635"
  ],
  "seen_titles": [
-  "SK부회장단대거하이닉스행…공급망·대외협력속도낸다",
-  "美성과비중절대적SK하이닉스…인재영입‘기술통’넘어'국제경영통...",
-  "SK하이닉스경영진,광주군공항현장방문…반도체부지점검",
   "SK하이닉스경영진,한달만에광주군공항다시찾았다",
   "[TF현장]550평'노태우묘'유지에수억원…막대한비용어디서",
   "[박종면칼럼]SK가솔리다임상장을고집하는이유",
@@ -6001,7 +5998,10 @@
   "에너지위기에뭉친韓日…\"LNG공동구매·SMR협력\"",
   "사랑의열매,'2026아너소사이어티회원의날'개최...누적기부액4천...",
   "\"영풍,대표2명구속당시MBK계약승인\"",
-  "1억이상기부모임‘아너소사이어티’…유튜버,작가등으로다변화"
+  "1억이상기부모임‘아너소사이어티’…유튜버,작가등으로다변화",
+  "대전상공회의소,국내ESG공시제도·공급망규제설명회열어",
+  "[증권NOW]한국투자증권·삼성증권·신한투자증권·한양증권",
+  "\"트럼프건재속블루쓰나미영향은\"...재계내년경영전략수립최대화..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-11-10T17:40:18.469487+09:00",
    "LNG 뭉친 협력 SMR 에너지 위기에 공동구매"
+  ],
+  [
+   "2026-11-10T18:10:17.595515+09:00",
+   "건재 수립 내년 경영전략 재계 트럼프 영향은 블루쓰나미"
   ]
  ],
- "last_run": "2026-11-10T18:00:49.478919+09:00",
+ "last_run": "2026-11-10T18:10:30.217143+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
