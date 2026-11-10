@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191150424900124",
-  "https://www.etoday.co.kr/news/view/2637430",
-  "https://www.mk.co.kr/article/12167098",
   "https://www.hankyung.com/article/202610078564i",
   "http://andongmbc.co.kr/adboard/NewsView84869",
   "https://www.insight.co.kr/news/574531",
@@ -2999,12 +2996,12 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1319888&inflow=N",
   "http://www.beyondpost.co.kr/view.php?ud=2026111015272891309aeda69934_30",
   "https://www.sentv.co.kr/article/view/sentv202611100169",
-  "https://www.yna.co.kr/view/PYH20261110155600013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20261110155600013?input=1196m",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261110160827cLl",
+  "https://www.smarttoday.co.kr/ko-kr/articles/113612",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040479"
  ],
  "seen_titles": [
-  "[대학뉴스브리핑]이화여대·중앙대·광운대",
-  "[종합]후반전돌입한국정감사…여야,법사위·국토위서난타전계속",
-  "\"모교향한오랜헌신\"…황은숙이화여대약학대학장,'약대건축기금'...",
   "솔리다임상장설에소환된'호남반도체'",
   "울릉출향인·친인척여객선운임지원길열린다…박기호군의원조례...",
   "野'김현지주례'지역난방공사사장임명질타",
@@ -6001,7 +5998,10 @@
   "젠슨황‘원맨’체제휘청…삼성·SK‘AI동맹’촉각",
   "사랑의열매,그랜드워커힐서울서‘2026아너소사이어티회원의날’...",
   "사랑의열매,‘2026아너소사이어티회원의날’개최",
-  "사랑의열매,2026아너소사이어티회원의날"
+  "사랑의열매,2026아너소사이어티회원의날",
+  "\"CJENM,수익독식\"…방송송출중단사태",
+  "한양증권,창립70주년홈페이지리뉴얼",
+  "'아이들의일상이교육이되는도시'…수원교육정책토크쇼개최"
  ],
  "recent_sigs": [
   [
@@ -6077,7 +6077,7 @@
    "세미나 성과 개최 14일 AI 점검 CEO 리밸런싱"
   ]
  ],
- "last_run": "2026-11-10T16:00:46.268692+09:00",
+ "last_run": "2026-11-10T16:10:24.854146+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
