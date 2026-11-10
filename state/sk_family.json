@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260921500123",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610021133001000102164",
   "https://www.bloter.net/news/articleView.html?idxno=674109",
   "https://www.the-today.com/news/articleView.html?idxno=88196",
   "https://www.sportschosun.com/sports-news/2026-07-25/202607250100156750010095",
@@ -2999,11 +2997,11 @@
   "http://www.consumernews.co.kr/news/articleView.html?idxno=767836",
   "https://www.joongang.co.kr/article/25477547",
   "https://www.nocutnews.co.kr/news/6605004",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2312793"
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2312793",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/11/2026111190063.html",
+  "https://biz.sbs.co.kr/article_hub/20000345574?division=NAVER"
  ],
  "seen_titles": [
-  "목포대개교80주년'섬과바다,삶을품다'특별사진전",
-  "거버넌스포럼\"솔리다임상장,최태원은지배력유지⋯일반주주에희석...",
   "\"최태원도'물린'SK하이닉스\"...AI돈줄불안·솔리다임IPO에SK그룹株...",
   "“솔리다임상장은주주이익침해”…거버넌스포럼,중단촉구",
   "솔리다임논란은이사회책임?최태원아닌고승범지목한이유",
@@ -6001,7 +5999,9 @@
   "[데이터&뉴스]200대기업이익잉여금1704조,반년새296조↑...삼성전...",
   "젠슨황과‘트러블메이커’추는앨리스황…불륜풍자AI밈확산",
   "금융보안원도해킹에뚫려…금융사직원개인정보300여건유출[오늘아...",
-  "[여백]젠슨황스캔들"
+  "[여백]젠슨황스캔들",
+  "[영상]\"키스캠찍히고트러블메이커추고\"…젠슨황'불륜AI밈'확산",
+  "SKCEO세미나12일개막…’AI시너지'핵심의제"
  ],
  "recent_sigs": [
   [
@@ -6033,7 +6033,7 @@
    "스캔들 젠슨"
   ]
  ],
- "last_run": "2026-11-11T07:40:27.142494+09:00",
+ "last_run": "2026-11-11T07:50:24.556695+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
