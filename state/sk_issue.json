@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/news/2026/politics/article/6862904_36911.html",
-  "https://www.lawissue.co.kr/view.php?ud=202611031815485139f4ab64559d_12",
-  "https://www.munhwa.com/article/11628515",
-  "https://www.news1.kr/local/gwangju-jeonnam/6341917",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6341925",
-  "https://chmbc.co.kr/article/14124404",
-  "https://www.ekn.kr/web/view.php?key=20261103022464840",
-  "https://www.fnnews.com/news/202611031825335458",
   "https://www.dailian.co.kr/news/view/1710353/?sc=Naver",
   "https://www.ytn.co.kr/_ln/0103_202611031827302377",
   "https://www.news1.kr/politics/assembly/6341928",
@@ -2999,17 +2991,17 @@
   "https://news.jtbc.co.kr/article/NB12327368?influxDiv=NAVER",
   "https://www.ytn.co.kr/_ln/0103_202611101603472505",
   "https://www.newspim.com/news/view/20261110001264",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16272964"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16272964",
+  "https://www.huffingtonpost.kr/article/261952",
+  "https://www.thebigdata.co.kr/view.php?ud=2026111016104053910a47484cf8_23",
+  "https://www.kyeonggi.com/article/20261110580316",
+  "https://www.mk.co.kr/article/12204015",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=38446",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=320283",
+  "https://www.yna.co.kr/view/PYH20261110161900061?input=1196m",
+  "https://www.kgnews.co.kr/news/article.html?no=918925"
  ],
  "seen_titles": [
-  "국힘\"민주당신천지의혹,자의적으로덮어‥경찰·중수청뭘하나\"",
-  "법무법인화우,식품·의약및기술유출분야안화연변호사영입",
-  "인천유흥업소가혼자온손님에폭탄주권한이유",
-  "'지방선거후보겨냥'불륜비방시위기획·동원11명송치",
-  "경북경찰,'입당원서모집의혹'안동시공무원등20여명송치",
-  "[리포트]160억대'세금도둑'..불법석유유통한33명적발",
-  "[샘표합병]㊦상장유지유예끝나는식품지주사3곳,대응‘3사3색’",
-  "중기부,소비자생협설립인가전담",
   "아주대병원압수수색후폭풍…응급실수사기준손질",
   "[속보]\"응급실압수수색,의심정황있는경우등한정\"",
   "국힘,與신천지의혹'증거없음'사과에\"꼼수종결…수사받으라\"",
@@ -6001,7 +5993,15 @@
   "장동혁\"전자투표도입,국민여론역행…사전투표폐지·수개표도입논...",
   "선관위특검,경기도선관위압수수색...\"교육감개표과정서위조\"",
   "[뉴스분석]'조작기소특검법'공넘겨받은李대통령…위헌·이해충돌·...",
-  "180일수사한특검의황당한변명\"수사잘안돼\"…내란재판망칠셈인..."
+  "180일수사한특검의황당한변명\"수사잘안돼\"…내란재판망칠셈인...",
+  "쿠팡의'최혜대우과징금'반발\"배민보다점유율낮은데왜1.9배나?\":...",
+  "배달앱과징금파장에...배민·쿠팡플랫폼사업모델'시험대'",
+  "탈퇴버튼숨기고설문조사강요시제재…공정위,다크패턴지침개정",
+  "與을지로위원회,배민·쿠팡향해“약탈적”맹비난",
+  "배민·쿠팡'최혜대우갑질'6천억과징금수용촉구",
+  "배민·쿠팡이츠6319억과징금…온플법제정론재부상",
+  "선관위특검,경기도선관위압수수색",
+  "선관위특검,경기교육감개표상황표은닉·위조의혹압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "캐피탈사 사모펀드 SK렌터카 롯데 진입에 뒤에 이해관계 엇갈린"
   ]
  ],
- "last_run": "2026-11-10T16:10:52.073670+09:00",
+ "last_run": "2026-11-10T16:20:55.027749+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
