@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026101918585739713",
-  "https://www.dailypharm.com/user/news/343593?REFERER=NP",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364876",
   "https://www.mk.co.kr/article/12180406",
   "https://www.smarttoday.co.kr/ko-kr/articles/112921",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=509500",
@@ -2999,12 +2996,12 @@
   "https://www.ytn.co.kr/_ln/0104_202611101710519198",
   "https://www.globalepic.co.kr/view.php?ud=20261110170906102223fd0362e7_29",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89127",
-  "https://news.mtn.co.kr/article/2026111016095461676"
+  "https://news.mtn.co.kr/article/2026111016095461676",
+  "https://www.kwnews.co.kr/article/20261110501566",
+  "http://www.dailypop.kr/news/articleView.html?idxno=104393",
+  "https://www.edaily.co.kr/News/Read?newsId=05533366645644408&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(85)사회적가치창출...",
-  "[시계제로재계]①LG부터4대그룹‘사업계획’착수…AI투자·쇄신인...",
-  "삼성은반도체ㆍSK는AI투자⋯4대그룹CEO인사변수는[재계인사셈...",
   "행동주의따라투자하면돈벌까",
   "[단독]서울대총장후보4명→3명…강준호·최해천·이재영최종3인",
   "월투R]악성민원'20분제한'‥강경대응",
@@ -6001,7 +5998,10 @@
   "'사면초가'젠슨황...FBI조사·주주집단소송까지[이슈ON]",
   "사랑의열매,'2026아너소사이어티회원의날'개최",
   "LG디스플레이OLED기술,올해특허기술상1등'세종대왕상'수상",
-  "SKCEO들2박3일집중토론…핵심의제는'AI'"
+  "SKCEO들2박3일집중토론…핵심의제는'AI'",
+  "[포토뉴스]㈜이진리,참전유공자후원품전달",
+  "[수상소식]LG전자·삼성SDI·하나은행등,국내외에서잇달아상받아",
+  "구글이쏘아올린AI칩다변화…삼성·SKHBM전략도진화"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-11-10T17:10:17.829707+09:00",
    "규제에 스캔들까지 위협하는 삼전닉스 데이터센터 젠슨 외부"
+  ],
+  [
+   "2026-11-10T17:30:25.275577+09:00",
+   "다변화 전략도 진화 HBM 구글이 쏘아올린 삼성 AI칩"
   ]
  ],
- "last_run": "2026-11-10T17:20:24.561441+09:00",
+ "last_run": "2026-11-10T17:30:38.762415+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
