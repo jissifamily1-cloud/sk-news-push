@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.catchnews.kr/news/articleView.html?idxno=130134",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=622692",
-  "https://www.sedaily.com/article/20109650",
-  "https://biz.chosun.com/industry/company/2026/11/03/GGZ6ERSQNBF3ZLEOLH6SLTKS7I/",
   "https://www.yna.co.kr/view/AKR20261103071751017?input=1195m",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=61180",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247120",
@@ -2999,13 +2995,13 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081674",
   "https://www.huffingtonpost.kr/article/261930",
   "https://www.lawleader.co.kr/news/articleView.html?idxno=20369",
-  "https://www.ppss.kr/news/articleView.html?idxno=320109"
+  "https://www.ppss.kr/news/articleView.html?idxno=320109",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=124669",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318911",
+  "https://www.medigatenews.com/news/951509080",
+  "https://hbnpress.com/news/view/1065584941409244"
  ],
  "seen_titles": [
-  "\"가로폭10.5㎝에'부피71%'줄였다\"청호나이스'정수기미니'출시",
-  "﻿토스,네이버공정위제소…\"POS연동불공정차별\"",
-  "[단독]조원태,JAL보유한진칼지분인수한다[시그널]",
-  "호반의한진칼향한집념…‘캐스팅보트’산은변심기대하나",
   "토스,네이버공정위제소…포스연동두고\"불공정\"\"차별없다\"(종합)",
   "호반의탐욕…대한항공넘보면서,자기회사는비상장빗장",
   "삼성도피하지못한부품'갑질'…브로드컴제재확정",
@@ -6001,7 +5997,11 @@
   "선관위특검,경기교육감개표상황표위조정황포착…강제수사착수",
   "러시아대표'독립탐사보도신문',33년만에결국폐간:'노바야가제...",
   "법무법인원-한국사내변호사회,'달라진형사실무와기업의대응'세미...",
-  "[경제진단]삼성·SK·LG지배구조심층진단…총수일가지분은적어도..."
+  "[경제진단]삼성·SK·LG지배구조심층진단…총수일가지분은적어도...",
+  "공정위,인터넷쇼핑몰탈퇴어렵게하는'다크패턴'법위반으로명시",
+  "민주당을지로위\"정기국회'플랫폼민생3법'반드시통과\"",
+  "\"범인잡겠다고대로변에총쏘는격\"…젊은소아과의사들\"중증진료...",
+  "특검팀\"경기도교육감선거개표선관위고의은닉·위조\"강제수사파..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "LG 심층진단 일가 지분은 적어도 지배구조 총수 삼성"
   ]
  ],
- "last_run": "2026-11-10T12:50:58.501336+09:00",
+ "last_run": "2026-11-10T13:01:06.063790+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
