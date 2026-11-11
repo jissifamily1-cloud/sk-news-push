@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/market-exr/6348651",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081565",
-  "https://www.ajunews.com/view/20261110093413270",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000081130",
-  "https://www.viva100.com/article/20261110500329",
-  "https://www.news1.kr/finance/market-exr/6348624",
-  "http://www.paxetv.com/news/articleView.html?idxno=286488",
   "https://www.newspim.com/news/view/20261110000245",
   "https://news.tf.co.kr/read/economy/2386781.htm",
   "https://www.ddaily.co.kr/page/view/2026111009071133296",
@@ -2999,16 +2992,16 @@
   "https://www.ibabynews.com/news/articleView.html?idxno=156784",
   "https://www.insight.co.kr/news/581632",
   "https://www.ddaily.co.kr/page/view/2026111118302536784",
-  "https://www.sedaily.com/article/20113193"
+  "https://www.sedaily.com/article/20113193",
+  "https://www.hani.co.kr/arti/economy/finance/1286548.html",
+  "https://www.sentv.co.kr/article/view/sentv202611110064",
+  "https://www.ibabynews.com/news/articleView.html?idxno=156773",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=367488",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281064",
+  "https://www.dt.co.kr/article/12094674",
+  "https://www.mt.co.kr/world/2026/11/11/2026111117482631208"
  ],
  "seen_titles": [
-  "삼성전자5.71%·SK하이닉스8.36%급등…20만전자·120만닉스회복",
-  "[뉴스1PICK]코스피‧코스닥매수사이드카,삼전5%·닉스8%상승",
-  "美반도체주급등에코스피·코스닥'들썩'…매수사이드카발동",
-  "[개장시황]얼어붙은투심돌아왔나…코스피·코스닥매수사이드카발...",
-  "삼성전자20만원·SK하이닉스120만원탈환…반도체주동반급등",
-  "[특징주]삼성전자·SK하이닉스동반급등…美반도체주반등에투심회...",
-  "코스피5%급등에매수사이드카…외국인8일만에'사자'[개장시황]",
   "SK이노베이션,농어촌7곳에어린이도서관개관···3년간32곳",
   "[개장시황]뉴욕발훈풍에국내증시급등…양시장매수사이드카",
   "단숨에'5200피'로…'삼전닉스'급등에매수사이드카까지",
@@ -6001,17 +5994,16 @@
   "[금융·경제트렌드]행복나래,경기도·경기도사회적경제원과사회적경...",
   "비용22%줄여도영업익97.5%급감...LG헬로비전,깊어진실적부진",
   "집전화사라지는데부담은1.5조…'보편적역무'재설계론",
-  "신종랜섬웨어걸린파일복구…SK쉴더스‘복호화기술’고도화"
+  "신종랜섬웨어걸린파일복구…SK쉴더스‘복호화기술’고도화",
+  "코스피·코스닥‘매수사이드카’…“AI·반도체주가낙폭과도”",
+  "엔비디아‘젠슨황리스크’에…韓반도체셈법‘복잡’",
+  "[어린이뉴스]아동43.4%“온라인피해책임은아동본인에게”...안전...",
+  "장동혁,한동훈제명논란정면대응…오세훈'비대위론'에도반격",
+  "TSMCInvests$1BillioninOpenAI,Anthropic",
+  "\"호남팹임단협하자\"…정부안중없는삼전노조",
+  "中낸드1위YMTC,증시부진에도IPO추진…내년상장목표"
  ],
  "recent_sigs": [
-  [
-   "2026-11-11T12:40:59.588570+09:00",
-   "스캔들에도 이상 수급 정부 26만장 젠슨 GPU 없다"
-  ],
-  [
-   "2026-11-11T12:40:59.588570+09:00",
-   "SK인텔릭스 쿠팡 GS리테일"
-  ],
   [
    "2026-11-11T12:51:02.428384+09:00",
    "무너진다면 수장 젠슨 교체설까지 황이 FBI 동시 의회 압박에"
@@ -7099,9 +7091,29 @@
   [
    "2026-11-11T18:40:59.498297+09:00",
    "걸린 복호화 SK쉴더스 파일 랜섬웨어 복구 기술 신종 고도화"
+  ],
+  [
+   "2026-11-11T18:50:59.936992+09:00",
+   "안전 책임은 온라인 본인에게 아동 피해"
+  ],
+  [
+   "2026-11-11T18:50:59.936992+09:00",
+   "반격 한동훈 정면 비대위론 에도 장동혁 제명 논란 오세훈 대응"
+  ],
+  [
+   "2026-11-11T18:50:59.936992+09:00",
+   "TSMC Invests Anthropic in Billion OpenAI"
+  ],
+  [
+   "2026-11-11T18:50:59.936992+09:00",
+   "하자 삼전 임단협 안중 정부 호남팹 노조 없는"
+  ],
+  [
+   "2026-11-11T18:50:59.936992+09:00",
+   "상장 낸드 목표 YMTC 부진에도 내년 1위 IPO 증시"
   ]
  ],
- "last_run": "2026-11-11T18:41:18.438372+09:00",
+ "last_run": "2026-11-11T18:51:16.004935+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
