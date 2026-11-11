@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112880834",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290100.html",
-  "http://www.yonhapnewstv.co.kr/news/AKR202610221050265rj",
-  "https://news.jtbc.co.kr/article/NB12324289?influxDiv=NAVER",
   "https://www.starnewskorea.com/business-life/2026/10/22/2026102210572442269",
   "https://www.joongang.co.kr/article/25471879",
   "https://www.jasm.co.kr/news/view/322540/?sc=Naver",
@@ -2999,13 +2995,13 @@
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705723",
   "https://www.sedaily.com/article/20113232",
   "https://www.hankyung.com/article/202611108493Q",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261112065833zF5"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261112065833zF5",
+  "http://www.inews24.com/view/2025238",
+  "https://www.investchosun.com/site/data/html_dir/2026/11/11/2026111180151.html",
+  "https://www.investchosun.com/site/data/html_dir/2026/11/11/2026111180148.html",
+  "http://www.metroseoul.co.kr/article/20261111500515"
  ],
  "seen_titles": [
-  "SK하이닉스경영진,직접광주군공항찾았다…남은과제'산더미'",
-  "광주군공항찾은SK하이닉스,반도체산업탄력",
-  "SK하이닉스경영진,광주군공항다시방문…실행방안협의",
-  "SK하이닉스경영진,광주군공항점검…반도체인프라협의",
   "SK하이닉스,광주군공항찾아반도체입지점검",
   "\"어린이건강보호위해가당음료부담금도입돼야\"",
   "\"소아없이성인은없다\"…지역소아과학교육살려야",
@@ -6001,7 +5997,11 @@
   "이대통령,최태원이어이재용·정의선만나···AI투자·대미통상현...",
   "젠슨황에열광했는데...원맨쇼엔비디아,후폭풍도컸다[김창영의실리...",
   "젠슨황불륜인정…이혼하면재산분할얼마나할까?[더머니이스트-...",
-  "[AM-PM]오늘부터'해외처방비만약'국내반입허용外"
+  "[AM-PM]오늘부터'해외처방비만약'국내반입허용外",
+  "[사이드B]젠슨황\"아내를배신\"…회장님들의사과문",
+  "[Invest]도로'SK에너지','SK건설'…국내선합치고줄이기만하는SK그룹",
+  "[Invest]'공정가치'내걸고빗발치는공개매수…대주주만을위한거래...",
+  "메트로신문11월12일자한줄뉴스"
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,25 @@
   [
    "2026-11-12T07:00:31.960355+09:00",
    "처방 해외 국내 허용 오늘부터 비만약 반입"
+  ],
+  [
+   "2026-11-12T07:10:21.375167+09:00",
+   "한줄뉴스 11월 12일자 메트로신문"
+  ],
+  [
+   "2026-11-12T07:10:21.375167+09:00",
+   "SK건설 하는 도로 합치고 SK에너지 줄이기만 국내선"
+  ],
+  [
+   "2026-11-12T07:10:21.375167+09:00",
+   "젠슨 아내를 사과문 회장님들의 배신"
+  ],
+  [
+   "2026-11-12T07:10:21.375167+09:00",
+   "만을 공정 대주주 가치 내걸고 빗발치는 위한 공개매수 거래"
   ]
  ],
- "last_run": "2026-11-12T07:00:42.359075+09:00",
+ "last_run": "2026-11-12T07:10:41.228817+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
