@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=365726",
-  "https://hbnpress.com/news/view/1065576910460406",
-  "https://www.news1.kr/it-science/internet-platform/6343861",
-  "https://sateconomy.co.kr/news/view/1065576403168182",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261105.99099001605",
-  "https://www.dt.co.kr/article/12093340",
-  "https://www.news1.kr/politics/assembly/6343811",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254587",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601800",
-  "https://www.hankookilbo.com/news/article/A2026110509270005810?did=NA",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=623484",
   "https://www.seoul.co.kr/news/society/2026/11/05/20261105500069?wlog_tag3=naver",
   "https://www.ilemonde.com/news/articleView.html?idxno=30933",
   "http://www.ddanzi.com/898285848",
@@ -2999,20 +2988,20 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=748259",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090432",
   "https://www.chosun.com/national/national_general/2026/11/11/5KMM3KO4ZVAANI7TLLYJSLBQBA/",
-  "https://www.khan.co.kr/article/202611111650001"
+  "https://www.khan.co.kr/article/202611111650001",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=882240",
+  "https://www.kukinews.com/article/view/kuk202611110160",
+  "https://www.news1.kr/finance/general-stock/6350915",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=320362",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444247",
+  "https://www.swtvnews.com/news/newsview.php?ncode=1065594600748233",
+  "https://www.newspim.com/news/view/20261111001444",
+  "https://www.m-i.kr/news/articleView.html?idxno=2017403",
+  "https://www.kukinews.com/article/view/kuk202611110161",
+  "https://imnews.imbc.com/news/2026/society/article/6864898_36918.html",
+  "https://www.nocutnews.co.kr/news/6605459"
  ],
  "seen_titles": [
-  "한진칼최대주주0.11%P승부",
-  "토스,포스연동요청묵살네이버공정위에신고",
-  "CCIA\"韓정부,美기업규제차별…USTR에의견서제출\"",
-  "경찰,강호동농협중앙회장구속영장신청…공소청청구여부검토",
-  "선관위특검,'투표록위·변조'중앙선관위나흘째압수수색",
-  "위장전입식‘여론조사조작’167명송치…휴대폰료청구지옮긴‘가...",
-  "신지호\"경찰,한동훈당게수사벌써3달…빨리매듭지어야\"",
-  "다나와\"가습기거래액한달새279%급증\"…50만원이상프리미엄이...",
-  "테슬라FSD기만적표시·광고의혹⋯공정위도마위에오른다",
-  "충남교육감선거개입의혹...전교조간부등3명송치",
-  "[금융家]강호동농협중앙회장③ㅣ'신뢰회복'외쳤지만경찰구속영...",
   "휴대전화요금청구지옮겨선거구민행세…여론조사조작한167명송치",
   "벤츠전기차배상파장:사실은폐한채판매했다는'파라시스배터리'...",
   "[뉴공아카이브]퍼니포:尹선거법2심도당선무효형…李판례적용쟁...",
@@ -6001,7 +5990,18 @@
   "[진단]대기업상생성적은올랐는데협력사체감은뒷걸음···동반성...",
   "[삼촌설]전자투표법안",
   "삼성국가핵심기술中유출하려다발각…업체임직원7명기소",
-  "“이재명대통령히틀러같은정권될수있다”···손현보세계로교회..."
+  "“이재명대통령히틀러같은정권될수있다”···손현보세계로교회...",
+  "쿠쿠,2026서울카페쇼참가",
+  "1.6조과징금폭탄에…“하라해서열심히일했더니담합?”",
+  "KB證,3분기순손실591억원…공정위과징금3322억반영'적자전환'",
+  "국고채담합에1조6265억원과징금...증권업계\"실제수익에비해과도해...",
+  "[PD제재후폭풍]쏟아지는항변…\"건설사입찰과국채인수가같나\"",
+  "유니클로,재고가격표바꿔‘할인’눈속임…‘부당표시·광고’위...",
+  "SK에코플랜트,동반성장지수10년연속'최우수'…협력사기술상생강화",
+  "메리츠증권,누적순익늘었지만...3분기영업익45%감소",
+  "여수석화재편승인4개월…92만톤감축언제,울산도안갯속",
+  "컴컴한휴게실웅크린원장‥특사경조명켜자\"어?주사기!\"",
+  "삼성국가핵심기술중국반출시도…업체임직원7명기소"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "10년 SK에코플랜트 동반성장지수 유지 등급 연속 최우수"
   ]
  ],
- "last_run": "2026-11-11T17:01:04.168835+09:00",
+ "last_run": "2026-11-11T17:10:53.816863+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
