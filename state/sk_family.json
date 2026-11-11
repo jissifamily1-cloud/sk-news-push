@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3014495",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44669",
-  "https://biz.chosun.com/industry/company/2026/10/08/M3D3MAEHHRBQREJBES7IXZCJ7A/",
-  "https://www.medipana.com/news/articleView.html?idxno=419781",
   "http://www.weeklytoday.com/news/articleView.html?idxno=798993",
   "https://www.lawissue.co.kr/view.php?ud=202610211502293715d94aa4ada6_12",
   "https://www.medigatenews.com/news/2513274568",
@@ -2999,13 +2995,13 @@
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593824885243",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040628",
   "https://www.newsinside.kr/news/articleView.html?idxno=5045491",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111414228790605"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111414228790605",
+  "https://www.jbnews.com/news/articleView.html?idxno=1515702",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283966&CMPT_CD=P0010",
+  "http://www.segyebiz.com/newsView/20261111513328?OutUrl=naver",
+  "https://www.newsis.com/view/NISX20261111_0003863409"
  ],
  "seen_titles": [
-  "HDC정몽규,K-브랜드지수CEO부문톱10탈락...삼성이재용1위",
-  "로빈\"佛청년들일해도집못사…박탈감이분노로\"[퍼레이드_초대석...",
-  "이재용삼성회장,K-브랜드지수CEO1위탈환…최태원·정의선톱3",
-  "이재용회장,K-브랜드지수CEO1위복귀…최태원회장은2위",
   "건국대글로컬캠퍼스,2027학년도수시모집경쟁률충청권·비수도권사...",
   "4분기소매유통업경기주춤전망…RBSI3분기比4포인트하락",
   "(충남도정회고록)\"남기고싶은이야기\"(40회)신행정수도건설에서행...",
@@ -6001,7 +5997,11 @@
   "파라다이스최윤정부회장,메세나인상수상…문화예술후원공로인정",
   "경기도의회-한세대학교,'교육협력및학술교류'협약",
   "최태원,SKCEO50여명소집…AI로계열사시너지·성장전략짠다",
-  "몸집줄인SK,이제돈벌차례…최태원,CEO모아‘AI수익화’점검"
+  "몸집줄인SK,이제돈벌차례…최태원,CEO모아‘AI수익화’점검",
+  "교사성범죄부터학생음주운전까지…충남도의회교육위'쓴소리'",
+  "904억어디로갔을까...노태우부인김옥숙이남긴메모의정체[김종성...",
+  "[미래훔치는산업스파이]젠슨황사태일파만파…韓반도체불똥튈까...",
+  "\"글로벌AI·로봇각축장\"다가오는CES2027,어느韓대기업출격하나"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,21 @@
   [
    "2026-11-11T15:40:14.888124+09:00",
    "계열사 성장전략 시너지 CEO 50여명 AI로 소집 짠다"
+  ],
+  [
+   "2026-11-11T16:00:33.169924+09:00",
+   "사태 불똥 반도체 튈까 젠슨 일파만파"
+  ],
+  [
+   "2026-11-11T16:00:33.169924+09:00",
+   "글로벌 AI 대기업 각축장 CES 어느 다가오는 로봇 출격하나"
+  ],
+  [
+   "2026-11-11T16:00:33.169924+09:00",
+   "노태우 남긴 김종성 갔을까 메모의 김옥숙이 어디로 904억 정체 부인"
   ]
  ],
- "last_run": "2026-11-11T15:50:23.489289+09:00",
+ "last_run": "2026-11-11T16:00:49.759764+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
