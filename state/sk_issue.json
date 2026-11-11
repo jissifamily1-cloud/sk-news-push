@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/industry/2026/11/04/2026110418393114200",
-  "https://www.g-enews.com/view.php?ud=202611041847088732cd0bfacc1c_1",
-  "https://www.seoul.co.kr/news/society/accident/2026/11/04/20261104500333?wlog_tag3=naver",
-  "https://www.viewsnnews.com/article?q=239498",
-  "https://www.ytn.co.kr/_ln/0103_202611041848452256",
-  "http://www.segyebiz.com/newsView/20261104520128?OutUrl=naver",
-  "https://www.newsis.com/view/NISX20261104_0003855237",
-  "https://www.mt.co.kr/society/2026/11/04/2026110418231368019",
-  "https://news.jtbc.co.kr/article/NB12326511?influxDiv=NAVER",
   "https://imnews.imbc.com/news/2026/society/article/6863214_36918.html",
   "https://www.sportsseoul.com/news/read/1646943",
   "http://www.srtimes.kr/news/articleView.html?idxno=216749",
@@ -2999,18 +2990,18 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709895",
   "http://www.kdfnews.com/news/articleView.html?idxno=190790",
   "https://www.khan.co.kr/article/202611111422001",
-  "https://www.seoul.co.kr/news/society/2026/11/11/20261111500205?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/11/11/20261111500205?wlog_tag3=naver",
+  "https://www.gpkorea.com/news/articleView.html?idxno=148524",
+  "https://www.seoulfn.com/news/articleView.html?idxno=642520",
+  "https://www.news1.kr/finance/bank/6350386",
+  "https://www.newscj.com/news/articleView.html?idxno=3447816",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94948",
+  "https://www.widedaily.com/news/articleView.html?idxno=303439",
+  "https://www.newscj.com/news/articleView.html?idxno=3447814",
+  "https://www.mk.co.kr/article/12205319",
+  "https://www.pressian.com/pages/articles/2026111114283227615"
  ],
  "seen_titles": [
-  "호반건설,0.11%p차로한진칼최대주주..\"다음달다시바뀔수도\"",
-  "강호동농협회장1억원대금품수수의혹…경찰,구속영장신청",
-  "[속보]“보청기잃어버렸다”치매母,40대딸폭행에사망…게임하며...",
-  "경찰,강호동농협회장구속영장신청",
-  "'투표록조작'에'459억입찰비리'까지...특검,선관위압수수색",
-  "‘1억뇌물·공금유용’강호동농협회장,경찰구속영장신청",
-  "국힘,與'조작기소특검법'강행에\"목표는李공소취소\"…필버대응예...",
-  "경찰,'1억원뇌물수수의혹'강호동농협회장구속영장신청",
-  "[속보]경찰,'뇌물수수'강호동농협중앙회장구속영장신청",
   "경찰,'뇌물수수의혹'강호동농협중앙회장구속영장신청",
   "쿠쿠,‘코리아그랜드페스티벌’참전…계절가전최대73%빅세일",
   "\"연료전지소재부터저장용기까지\"…코오롱그룹,'수소풀밸류체인'공...",
@@ -6001,7 +5992,16 @@
   "‘주식차명거래’혐의이춘석의원,혐의대체로부인",
   "인천공항세관,액상필로폰17kg적발...\"해외관세당국과의협력\"",
   "동물병원마취제빼돌려92차례‘클럽마약’케타민셀프투약···동...",
-  "음료수캔에숨긴‘56만명분필로폰’…한·중공조로덜미"
+  "음료수캔에숨긴‘56만명분필로폰’…한·중공조로덜미",
+  "신생아가습기,겨울철습도관리시'센서위치'도살펴봐야",
+  "국고채담합에역대최대1.6조과징금···금융권,법적대응검토",
+  "국고채담합과징금2500억맞은은행권'반발'…행정소송검토",
+  "공정위,국고채입찰담합에1.6조'역대최대과징금'",
+  "'국고채입찰담합'15개은행·증권사,과징금1.6조원'역대최대'",
+  "국고채입찰담합에1.6조'철퇴'…공정위사상최대과징금,7개금융...",
+  "미군장교,영국서러시아간첩혐의로체포",
+  "‘보좌관명의주식거래’이춘석,첫재판서혐의부인",
+  "지방선거금품전달관여혐의…전고창군청국장공소청송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "SK에코플랜트 건설부문 한화 부영그룹"
   ]
  ],
- "last_run": "2026-11-11T14:30:59.902301+09:00",
+ "last_run": "2026-11-11T14:40:53.008098+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
