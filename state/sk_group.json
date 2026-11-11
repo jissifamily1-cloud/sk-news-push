@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/economy/economy_general/1286356.html",
-  "https://www.the-today.com/news/articleView.html?idxno=93297",
-  "https://www.newspim.com/news/view/20261110000546",
-  "https://www.edaily.co.kr/News/Read?newsId=04552646645644408&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=04539526645644408&mediaCodeNo=257",
-  "https://www.joongangenews.com/news/articleView.html?idxno=562639",
-  "https://news.ifm.kr/news/articleView.html?idxno=483981",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=237553",
   "https://www.yna.co.kr/view/AKR20261110104800054?input=1195m",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1731086",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611100092&t=NN",
@@ -2999,17 +2991,17 @@
   "https://www.mt.co.kr/world/2026/11/12/2026111207055748810",
   "https://www.medicopharma.co.kr/news/articleView.html?idxno=70373",
   "https://www.etoday.co.kr/news/view/2647089",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710609"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710609",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611120015&t=NN",
+  "https://www.busan.com/view/busan/view.php?code=2026111207152919599",
+  "https://www.public25.com/news/articleView.html?idxno=58343",
+  "https://biz.sbs.co.kr/article_hub/20000345858?division=NAVER",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000081897",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260994",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=67567",
+  "https://www.econovill.com/news/articleView.html?idxno=756922"
  ],
  "seen_titles": [
-  "\"철도망확충에기업R&D까지\"…'부천대장하우스토리디센트'배후수...",
-  "수협은행,강남본부대상크레딧전략포럼…기업신용분석강화",
-  "대기업수출2배급증,상위10곳비중60%돌파",
-  "코스피·코스닥급반등에매수사이드카잇따라발동",
-  "\"반도체파티끝났다더니\"…주가빠지자오히려사들인이유[이수의ET...",
-  "LG에너지솔루션,배터리진단설루션CES수상…LSMnM,창립90주년맞아...",
-  "헝가리진출한국배터리기업,'친환경파트너십'강화",
-  "[전문]한국수력원자력,대우건설노조기자회견에대한설명자료",
   "상위100대기업수출비중79.4%…대·중소기업양극화심화",
   "\"대구시신청사건립,신속히·주민과함께\"…\"AI데이터센터신중유치...",
   "산업부,헝가리에한국배터리기업애로해소등‘관심’당부",
@@ -6001,7 +5993,15 @@
   "코어위브가되살린AI수요기대…나스닥1.6%반등[뉴욕마감]",
   "SK바이오팜'솔리암페톨'적응증확대속도…美4개3상진행,中도신청",
   "[증시키워드]CES혁신상기술株강세…경영권분쟁차익매물한진칼...",
-  "미‘대중반도체3법’재점화…미중회담앞두고딜레마"
+  "미‘대중반도체3법’재점화…미중회담앞두고딜레마",
+  "'구원투수'등장에시장열광...AI·반도체주일제히'급등'",
+  "美AI반도체주급등…코어위브'깜짝실적'이견인",
+  "뉴욕증시,코어위브훈풍에강세나스닥1.6%↑...국제유가WTI0.57%↑",
+  "코어위브깜짝실적에…美AI반도체주일제히급등",
+  "美,중국반도체규제3법추진…삼성·SK中공장장비반입비상",
+  "[넥스트-샷]90억달러선수금기대에나스닥훈풍···반도체주다시...",
+  "성수석이천시장\"수동적인투자유치에서벗어나적극적인전략필요\"",
+  "금융위,13일자본시장간담회…기업가치제고·코스닥활성화논의"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,21 @@
   [
    "2026-11-12T07:21:00.438756+09:00",
    "회담 3법 미중 대중 재점화 딜레마 앞두고 반도체"
+  ],
+  [
+   "2026-11-12T07:31:15.566459+09:00",
+   "훈풍 선수금 90억 다시 달러 기대에 나스닥 반도체주"
+  ],
+  [
+   "2026-11-12T07:31:15.566459+09:00",
+   "적극적인 벗어나 이천시장 투자유치에서 성수석 전략 수동적인 필요"
+  ],
+  [
+   "2026-11-12T07:31:15.566459+09:00",
+   "자본시장 기업가치 금융위 논의 제고 간담회 13일 코스닥 활성화"
   ]
  ],
- "last_run": "2026-11-12T07:21:11.165171+09:00",
+ "last_run": "2026-11-12T07:31:26.249645+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
