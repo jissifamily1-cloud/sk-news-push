@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000345217?division=NAVER",
-  "https://www.ajunews.com/view/20261109155340022",
-  "https://www.fnnews.com/news/202611091827116922",
-  "https://zdnet.co.kr/view/?no=20261109180536",
-  "https://www.mk.co.kr/article/12202333",
   "https://www.sidae.com/article/2026110915525860523",
   "https://www.hankyung.com/article/202611058611i",
   "https://www.edaily.co.kr/News/Read?newsId=04283686645644080&mediaCodeNo=257",
@@ -2999,14 +2994,14 @@
   "http://www.inews24.com/view/2024972",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065583389899570",
   "http://www.ferrotimes.com/news/articleView.html?idxno=51419",
-  "https://www.kizmom.com/news/articleView.html?idxno=113894"
+  "https://www.kizmom.com/news/articleView.html?idxno=113894",
+  "http://www.inews24.com/view/2024982",
+  "http://www.kjdaily.com/article.php?aid=1794367883691897276",
+  "https://view.asiae.co.kr/article/2026111112293719256",
+  "https://www.news1.kr/it-science/internet-platform/6350389",
+  "http://www.iminju.net/news/articleView.html?idxno=172268"
  ],
  "seen_titles": [
-  "젠슨황논란속열린엔비디아AI데이…韓,기술협력·추가투자직진...",
-  "젠슨황논란속AI데이…삼전·하이닉스영향은?",
-  "삼성·SK52시간특례'상위3%'로제한되나…업계\"실효성없는반쪽입...",
-  "[포럼]막힌송전망,온사이트로넘자",
-  "\"엔비디아냐AMD냐\"...기로에선K-반도체",
   "“안전통학가능한초품아”…‘송도대광로제비앙모아엘가’분양",
   "'삼전닉스'도엔비디아손잡고반도체시뮬레이션가속",
   "\"AI로4명이할일혼자한다\"…기업에닥친'일의양극화'[글로벌인재...",
@@ -6001,7 +5996,12 @@
   "최태원,SKCEO세미나주재…내년AI사업·리밸런싱성과점검",
   "SK증권,인공새집100개설치…13곳서어린새둥지떠났다",
   "페로타임즈손바닥뉴스11월11일(수)",
-  "[스포츠]SSG김재현단장떠난다…운영·마케팅·사업3대담당체제로"
+  "[스포츠]SSG김재현단장떠난다…운영·마케팅·사업3대담당체제로",
+  "SK하이닉스생산직채용에들썩…\"학력무관·억대성과급기대\"",
+  "SK하이닉스·삼성전자8.7%거래감소…코스닥6종목포함",
+  "\"그둥지가알고싶다\"SK증권,인공새집13곳서어린새이소확인",
+  "젠슨황스캔들에도정부\"GPU26만장수급이상없다\"",
+  "[민주유통가]SK인텔릭스·GS리테일·쿠팡"
  ],
  "recent_sigs": [
   [
@@ -7023,9 +7023,17 @@
   [
    "2026-11-11T12:31:12.909968+09:00",
    "담당 체제로 운영 마케팅 김재현 단장 3대 SSG 떠난다 사업"
+  ],
+  [
+   "2026-11-11T12:40:59.588570+09:00",
+   "스캔들에도 이상 수급 정부 26만장 젠슨 GPU 없다"
+  ],
+  [
+   "2026-11-11T12:40:59.588570+09:00",
+   "SK인텔릭스 쿠팡 GS리테일"
   ]
  ],
- "last_run": "2026-11-11T12:31:28.875384+09:00",
+ "last_run": "2026-11-11T12:41:07.952155+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
