@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=85951",
-  "https://edu.donga.com/news/articleView.html?idxno=113669",
-  "https://www.imaeil.com/page/view/2026111010470911349",
-  "https://www.ppss.kr/news/articleView.html?idxno=319950",
-  "https://biz.sbs.co.kr/article_hub/20000345391?division=NAVER",
   "http://www.yonhapnewstv.co.kr/news/AKR20261110133329vbD",
   "https://www.nocutnews.co.kr/news/6604599",
   "https://www.fnnews.com/news/202611101327583142",
@@ -2999,14 +2994,14 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=625880",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611120004&t=NN",
   "http://www.medisobizanews.com/news/articleView.html?idxno=144253",
-  "https://www.dailian.co.kr/news/view/1713849/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1713849/?sc=Naver",
+  "https://biz.heraldcorp.com/article/10934323",
+  "https://biz.heraldcorp.com/article/10934316",
+  "https://www.news2day.co.kr/article/20261111500027",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000771",
+  "https://biz.sbs.co.kr/article_hub/20000345834?division=NAVER"
  ],
  "seen_titles": [
-  "'반도체저승사자'또경고…모건스탠리,삼전닉스목표주가하향",
-  "젠슨황불륜스캔들일파만파…엔비디아·韓AI동맹이상없나",
-  "반도체호황에대기업수출2배급증…상위10곳비중60%돌파",
-  "[食전食후]코스피3%대상승세유지…외국인·기관'쌍끌이매수'",
-  "美중간선거이후엇갈린명암…K-배터리는'웃고'자동차는'긴장'",
   "주택시장큰손3040,지방서도'교육·육아·직주근접'이집값가른다",
   "코스피,AI투자경계감에도상승세…5200선공방",
   "SK케미칼,3분기연결영업이익115.6%증가...자회사사업호조힘입어",
@@ -6001,7 +5996,12 @@
   "코스피상승·코스닥5%대급등…삼성전자·SK하이닉스·에코프로·주성...",
   "젠슨황스캔들,K반도체에'불똥'...對中규제강화움직임",
   "K-바이오,영업이익률'최대45%'벽넘어...전통제약사'압도'",
-  "[오늘부동산]서울시때린국토장관…“법에없는절차로사업지연”"
+  "[오늘부동산]서울시때린국토장관…“법에없는절차로사업지연”",
+  "[속보]美반도체주일제히급등…SK하이닉스ADR10%·마이크론12%↑",
+  "美의회서젠슨황스캔들이후‘對中칩규제3법’탄력…韓영향주목",
+  "[N2모닝경제브리핑-11월12일]美증시,AI투자우려걷히자반도체...",
+  "\"아파트앱도판다\"삼성vs\"로봇비서출동\"현대…건설사스마트홈경...",
+  "젠슨황사태이후美,반도체수출규제속도전…파장은?[글로벌뉴스픽..."
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,17 @@
   [
    "2026-11-12T06:21:14.516255+09:00",
    "때린 서울시 국토장관 사업 없는 법에 절차로 지연"
+  ],
+  [
+   "2026-11-12T06:31:12.323272+09:00",
+   "비서 출동 아파트 vs 스마트홈 판다 삼성 앱도 현대 건설사 로봇"
+  ],
+  [
+   "2026-11-12T06:31:12.323272+09:00",
+   "반도체 수출규제 젠슨 속도전 뉴스픽 글로벌 파장은 사태 이후"
   ]
  ],
- "last_run": "2026-11-12T06:21:31.024034+09:00",
+ "last_run": "2026-11-12T06:31:20.632179+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
