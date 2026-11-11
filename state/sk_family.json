@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.weeklytoday.com/news/articleView.html?idxno=798993",
-  "https://www.lawissue.co.kr/view.php?ud=202610211502293715d94aa4ada6_12",
   "https://www.medigatenews.com/news/2513274568",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303124",
   "https://www.ikbc.co.kr/article/view/kbc202610210055",
@@ -2999,11 +2997,11 @@
   "https://www.jbnews.com/news/articleView.html?idxno=1515702",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283966&CMPT_CD=P0010",
   "http://www.segyebiz.com/newsView/20261111513328?OutUrl=naver",
-  "https://www.newsis.com/view/NISX20261111_0003863409"
+  "https://www.newsis.com/view/NISX20261111_0003863409",
+  "https://www.edaily.co.kr/News/Read?newsId=05021686645644736&mediaCodeNo=257",
+  "https://www.gosiweek.com/article/1065596791744776"
  ],
  "seen_titles": [
-  "건국대글로컬캠퍼스,2027학년도수시모집경쟁률충청권·비수도권사...",
-  "4분기소매유통업경기주춤전망…RBSI3분기比4포인트하락",
   "(충남도정회고록)\"남기고싶은이야기\"(40회)신행정수도건설에서행...",
   "이재용삼성회장,K-브랜드지수CEO부문1위…최태원2위",
   "당국도\"중복상장소지\"주시…주주반발에흔들리는솔리다임상장",
@@ -6001,7 +5999,9 @@
   "교사성범죄부터학생음주운전까지…충남도의회교육위'쓴소리'",
   "904억어디로갔을까...노태우부인김옥숙이남긴메모의정체[김종성...",
   "[미래훔치는산업스파이]젠슨황사태일파만파…韓반도체불똥튈까...",
-  "\"글로벌AI·로봇각축장\"다가오는CES2027,어느韓대기업출격하나"
+  "\"글로벌AI·로봇각축장\"다가오는CES2027,어느韓대기업출격하나",
+  "공소청,노재헌주중대사입건…노태우비자금은닉의혹",
+  "신용관리부터금융사기예방까지…청년위한무료경제·금융강연열린..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-11T16:00:33.169924+09:00",
    "노태우 남긴 김종성 갔을까 메모의 김옥숙이 어디로 904억 정체 부인"
+  ],
+  [
+   "2026-11-11T16:20:14.706308+09:00",
+   "열린 금융 무료 금융사기 위한 청년 신용관리부터 예방까지 강연 경제"
   ]
  ],
- "last_run": "2026-11-11T16:10:23.780532+09:00",
+ "last_run": "2026-11-11T16:20:28.526935+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
