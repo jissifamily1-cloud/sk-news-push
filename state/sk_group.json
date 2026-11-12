@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.impacton.net/news/articleView.html?idxno=30629",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111307206370580",
-  "https://www.joongboo.com/news/articleView.html?idxno=363742155",
   "https://www.m-i.kr/news/articleView.html?idxno=2017164",
   "https://www.news1.kr/economy/env-policy/6350426",
   "https://www.kyeonggi.com/article/20261111580231",
@@ -2999,12 +2996,12 @@
   "https://news.tf.co.kr/read/economy/2388245.htm",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=56296",
   "https://www.newsverse.kr/news/articleView.html?idxno=11923",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=80735"
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80735",
+  "https://www.geconomy.co.kr/news/article.html?no=325629",
+  "https://news.ifm.kr/news/articleView.html?idxno=484284",
+  "https://www.news2day.co.kr/article/20261112500291"
  ],
  "seen_titles": [
-  "SK인텔릭스,웰니스로봇사업해외·시니어케어로확장",
-  "SK인텔릭스,웰니스로봇나무엑스런칭1주년기념프로모션진행",
-  "동반성장지수평가231개기업중44곳‘최우수’...삼성전자15년연속...",
   "SK에코플랜트,동반성장지수10년연속‘최우수’등급",
   "공장지붕부터자전거길까지태양광…시흥시,RE100으로지역경제·에너...",
   "SK에코플랜트,동반성장지수10년연속최우수달성",
@@ -6001,7 +5998,10 @@
   "개보위,알뜰폰8개사개인정보관리부실적발…1억7130만원제재",
   "[브랜드평판]삼성바이오로직스,제약상장기업11월1위...셀트리온,유...",
   "'AI황제'퇴장,시험대오른'깐부동맹'…한국HBM흔들변수는",
-  "증권가가본제약바이오반등조건…기대감걷고'숫자'로승부"
+  "증권가가본제약바이오반등조건…기대감걷고'숫자'로승부",
+  "외국인주식자금26조원이탈했는데원화는강세…한국금융시장'엇갈...",
+  "방송·미디어AI전환본격화…101개사업자실태조사공개",
+  "[N2모닝경제브리핑-11월12일]美증시,젠슨황사임충격에3대지수..."
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,17 @@
   [
    "2026-11-13T06:21:06.581162+09:00",
    "승부 걷고 기대감 제약바이오 증권가가 반등 숫자 조건"
+  ],
+  [
+   "2026-11-13T06:31:20.668858+09:00",
+   "사업자 공개 실태조사 미디어 방송 AI 101개 본격화"
+  ],
+  [
+   "2026-11-13T06:31:20.668858+09:00",
+   "사임 젠슨 증시 3대 충격에 지수"
   ]
  ],
- "last_run": "2026-11-13T06:21:33.039520+09:00",
+ "last_run": "2026-11-13T06:31:28.743810+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
