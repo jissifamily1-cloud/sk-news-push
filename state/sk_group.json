@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1336437",
-  "https://www.koreatimes.co.kr/path/A2026111014450002919",
-  "https://www.mk.co.kr/article/12204018",
-  "https://www.hankyung.com/article/2026111067191",
-  "https://www.mydaily.co.kr/page/view/2026111016241536382",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=280922",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=667879",
   "https://www.hankookilbo.com/news/article/A2026111015300001273?did=NA",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1714064/?sc=Naver",
   "https://slownews.kr/169444",
   "http://www.inews24.com/view/2025362",
-  "https://www.yna.co.kr/view/AKR20261112045300008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261112045300008?input=1195m",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130798",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242868",
+  "https://zdnet.co.kr/view/?no=20261112074211",
+  "https://www.newscj.com/news/articleView.html?idxno=3447937",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718937"
  ],
  "seen_titles": [
-  "호남반도체클러스터속도…김정관산업장관\"이달팹배치마무리\"",
-  "[특징주]삼성전자4%·SK하이닉스6%대급등…시총합산2천조회복(종...",
-  "에이아이세라,소상공인100곳대상AI맞춤형컨설팅모집",
-  "코스피4.39%급등해5239선회복…외국인8일만에'사자'",
-  "코스피,4거래일만에반등...장중매수사이드카",
   "에이아이세라,소상공인100곳AI상담원에이전트맞춤설계…11월무료...",
   "반도체호황에대기업수출103%폭증…상위10대기업이전체수출61%...",
   "'블루쓰나미'공포벗나…코스피·코스닥4%대급반등[마감시황]",
@@ -6001,7 +5996,12 @@
   "경영위기에도고용안정선택한노사…상생우수기업10곳은?",
   "SlowLetter:November12,2026.",
   "[특징주]NC,10%급락⋯신작'아이온2'흥행기대낮아져",
-  "공정위과징금·외인선물매도겹친채권시장…약세로돌아설까"
+  "공정위과징금·외인선물매도겹친채권시장…약세로돌아설까",
+  "[마켓펄스]코어위브'어닝서프라이즈'에AI우려완화...삼전닉스강세",
+  "SKT,침해사고이후'성실성'평가하락폭90%회복",
+  "주민번호무단수집하고개인정보방치...알뜰폰8곳제재",
+  "알뜰폰·삼양그룹·에듀테크,개인정보관리부실로'무더기제재'",
+  "상장준비양쯔·HBM양산채비창신,낸드는삼전닉스턱밑·HBM은아직"
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,17 @@
   [
    "2026-11-12T09:59:57.447149+09:00",
    "매도 과징금 약세로 선물 외인 공정위 채권시장 돌아설까 겹친"
+  ],
+  [
+   "2026-11-12T10:01:11.759411+09:00",
+   "삼양그룹 부실로 알뜰폰 관리 에듀테크 무더기 제재 개인정보"
+  ],
+  [
+   "2026-11-12T10:01:11.759411+09:00",
+   "HBM은 양쯔 준비 HBM 낸드는 상장 턱밑 아직 삼전닉스 채비 양산 창신"
   ]
  ],
- "last_run": "2026-11-12T10:00:21.194782+09:00",
+ "last_run": "2026-11-12T10:01:20.474750+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
