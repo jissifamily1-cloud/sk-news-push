@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229410",
-  "https://www.edaily.co.kr/News/Read?newsId=04569046645643096&mediaCodeNo=257",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065583529275435",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=124503",
-  "https://www.medipana.com/news/articleView.html?idxno=421162",
-  "http://www.whosaeng.com/175133",
-  "https://www.jbnews.com/news/articleView.html?idxno=1515304",
-  "https://www.jbnews.com/news/articleView.html?idxno=1515300",
-  "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167156",
-  "https://www.segye.com/newsView/20261106508785?OutUrl=naver",
   "https://daily.hankooki.com/news/articleView.html?idxno=1422543",
   "https://www.wikitree.co.kr/articles/1172438",
   "https://www.esgeconomy.com/news/articleView.html?idxno=17270",
@@ -2999,19 +2989,19 @@
   "https://www.idomin.com/news/articleView.html?idxno=2019456",
   "https://www.gpkorea.com/news/articleView.html?idxno=148552",
   "https://www.dt.co.kr/article/12094804",
-  "https://www.joongang.co.kr/article/25477992"
+  "https://www.joongang.co.kr/article/25477992",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17353",
+  "https://www.naeil.com/news/read/608595",
+  "https://www.naeil.com/news/read/608540",
+  "https://www.naeil.com/news/read/608572",
+  "https://www.newsis.com/view/NISX20261112_0003865359",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885280",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885277",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=624779",
+  "https://www.ytn.co.kr/_ln/0101_202611121306291986",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=61313"
  ],
  "seen_titles": [
-  "민주당,트럼프가족·측근부터'정조준'/신천지논란에\"상처입은모...",
-  "세번째만남서日여성살해혐의…30대송치,경찰\"일방적호감\"",
-  "우리銀,녹색채권누적6000억은행권1위…기후부장관상",
-  "공정위,독과점사업자가격남용규제강화…국내가격부당인상금지",
-  "소아응급실압수수색규탄7일째…의협\"국가가응급실보호해야\"",
-  "“응급실이끝까지환자를지킬수있도록국가가보호해야”",
-  "전교조충남지부,임원3명송치에반발…\"정치기본권탄압\"",
-  "일본인여성살해혐의30대,경찰\"계획적단독범행\"",
-  "제86차의료현안관련대한의사협회정례브리핑",
-  "일본인여성살해한30대남성구속송치…“단독계획범행”",
   "[유통레이더]연작,에이블씨엔씨,11번가,롯데월드,29CM,홈앤쇼핑,B...",
   "[생활꿀팁]니트입기전'이것'으로훑어보세요…찌릿한정전기가덜하...",
   "지속가능성공시기업,\"공시정보내부승인절차설명해야\"",
@@ -6001,15 +5991,29 @@
   "\"국민이법이해할수있어야\"…72년묵은형사소송법문장다듬었다",
   "\"디펜더닮은꼴\"BYD에칼빼든JLR…법원서제동",
   "조폭출신낀주가조작세력25명송치…3배까지불리다배신에폭락",
-  "‘김건희집사게이트’IMS대표무죄확정…대법“특검수사대상아니..."
+  "‘김건희집사게이트’IMS대표무죄확정…대법“특검수사대상아니...",
+  "정부\"자발적탄소크레딧,NDC·배출권거래제에활용안해\"",
+  "우리넷,54억원손배소8개월뒤공시",
+  "국고채담합…형사책임어디까지",
+  "국고채담합과징금부과에업계반발…소송전확산예고",
+  "대형담합6건과징금4조원…공정위,내년경제분석예산3배로",
+  "선관위보안점검조작의혹,특검압수수색으로전면수사시작",
+  "경기도교육감선거,광주·성남개표오류의혹...전면수사촉구",
+  "조직폭력배·증권사직원등25명,60억주가조작적발",
+  "엔비디아이사회,젠슨황CEO해임추진...국내미칠영향은?[시사정각...",
+  "2730억→-591억…국고채과징금,증권가실적삼킨다"
  ],
  "recent_sigs": [
   [
    "2026-11-12T09:40:57.647770+09:00",
    "과징금에 실적도 적자전환 국채담합 6조원 증권사 줄줄이"
+  ],
+  [
+   "2026-11-12T13:10:47.016369+09:00",
+   "2730억 과징금 삼킨다 591억 국고채 증권가 실적"
   ]
  ],
- "last_run": "2026-11-12T13:01:07.286386+09:00",
+ "last_run": "2026-11-12T13:10:54.216276+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6118,6 +6122,7 @@
   "ppss.kr": "ㅍㅍㅅㅅ PPSS",
   "thevaluenews.co.kr": "더밸류뉴스",
   "weeklytoday.com": "위클리오늘",
-  "ekoreanews.co.kr": "이코리아"
+  "ekoreanews.co.kr": "이코리아",
+  "ilovepc.co.kr": "디지털포스트(PC사랑 AI 에디션)"
  }
 }
