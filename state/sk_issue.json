@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202611052202117253",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558643",
-  "https://www.mydaily.co.kr/page/view/2026110517170469705",
-  "https://www.etnews.com/20261105000446",
-  "https://www.khan.co.kr/article/202611060600051",
-  "https://www.newsis.com/view/NISX20261105_0003856745",
-  "https://news.mtn.co.kr/article/2026110515581824762",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=80545",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=80550",
-  "https://www.donga.com/news/Society/article/all/20261106/134976037/2",
   "http://www.jbsori.com/news/articleView.html?idxno=18144",
   "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044306",
   "https://www.businesspost.co.kr/BP?command=article_view&num=450977",
@@ -2999,19 +2989,19 @@
   "https://www.chosun.com/national/court_law/2026/11/12/2D7ASVTKTNEHZAN4D4QBL4NRIU/",
   "https://www.newspim.com/news/view/20261112000409",
   "https://www.newsis.com/view/NISX20261112_0003865109",
-  "https://www.news1.kr/society/court-prosecution/6351567"
+  "https://www.news1.kr/society/court-prosecution/6351567",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718950",
+  "https://www.seoul.co.kr/news/politics/2026/11/12/20261112500077?wlog_tag3=naver",
+  "https://biz.chosun.com/topics/law_firm/2026/11/12/WZIL3FKZKBBB7O2BPNEOIYLU6U/",
+  "https://www.joongang.co.kr/article/25477937",
+  "https://www.nocutnews.co.kr/news/6605748",
+  "https://news.tf.co.kr/read/life/2387886.htm",
+  "https://www.news1.kr/society/court-prosecution/6351594",
+  "https://view.asiae.co.kr/article/2026111210202418816",
+  "https://n.news.naver.com/mnews/article/214/0001535103",
+  "https://www.ytn.co.kr/_ln/0103_202611121020425648"
  ],
  "seen_titles": [
-  "윤석열\"계엄은헌법상권한\"...'내란항소심'내년1월26일선고",
-  "[김종석의왜]김민석,‘신천지’어정쩡공개?",
-  "롯데하이마트,6일부터‘블랙프라이데이’…가전최대600만원할인",
-  "롯데하이마트,30일까지연중최대할인행사…'하이마트블프'개최",
-  "가습기살균제참사15년,피해자들“‘유령취급’그만…행복되찾고...",
-  "\"멀티쿠커·드라이기9900원\"롯데하이마트,연중최대'블프'연다",
-  "네이버가'지배력남용'했다는토스주장,입증할까",
-  "압수수색에흉기피습까지…병원진료현장이위태롭다",
-  "그유산균수사하세요?전화한통이열어젖힌45억가품창고",
-  "미성년자성범죄전력50대,학원강사성폭행혐의입건",
   "'여론조사조작'전북8개시·군광범위수사불구'용두사미'로끝나나...",
   "불안난다고소방서없애나…산부인과학회\"분만기관별보상도입해야...",
   "[WhoIs?]김지용중대범죄수사청장",
@@ -6001,7 +5991,17 @@
   "[속보]선관위특검,‘보안실태부실점검’중앙선관위·용역업체압수...",
   "[속보]특검,중앙선관위·보안용역업체압수수색…보안점검문서허위...",
   "[속보]특검,중앙선관위압수수색…'보안실태문서허위작성'포착",
-  "[속보]특검'보안실태부실점검'의혹중앙선관위·용역업체압수수색"
+  "[속보]특검'보안실태부실점검'의혹중앙선관위·용역업체압수수색",
+  "미래에셋증권,3분기4056억적자···2148억과징금도실적반영대기",
+  "정점식“이용철,‘공소취소없다’아니면무조건부적격”",
+  "“보안점검문서까지허위로작성”…특검,중앙선관위압수수색",
+  "[속보]특검팀,‘보안실태문서허위작성’중앙선관위압수수색",
+  "특검,'보안실태문서허위작성'중앙선관위등압수수색",
+  "[속보]특검,중앙선관위서버압수수색…허위보안점검의혹",
+  "특검,'보안점검문서허위작성'중앙선관위압수수색",
+  "선관위특검,중앙선관위·관리용역업체2곳압수수색",
+  "[시선집중]윤건영“이용철,공소취소용인사?대통령이미돌이킬수...",
+  "[속보]특검,'보안실태부실점검의혹'선관위압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과징금에 실적도 적자전환 국채담합 6조원 증권사 줄줄이"
   ]
  ],
- "last_run": "2026-11-12T10:20:51.817345+09:00",
+ "last_run": "2026-11-12T10:30:59.580679+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
