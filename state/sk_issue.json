@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8200844",
-  "https://www.news1.kr/photos/8200846",
-  "https://www.news1.kr/photos/8200840",
-  "https://www.news1.kr/photos/8200841",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=228985",
-  "https://www.chosun.com/national/national_general/2026/11/06/IWGLUHQ7UBEITGKEZADBXA67NU/",
-  "https://www.cstimes.com/news/articleView.html?idxno=726962",
   "https://www.news1.kr/photos/8200837",
   "https://www.news1.kr/photos/8200842",
   "https://zdnet.co.kr/view/?no=20261106142716",
@@ -2999,16 +2992,16 @@
   "https://www.kbsm.net/news/view.php?idx=541502",
   "http://www.yonhapnewstv.co.kr/news/AKR20261112140348TsL",
   "https://www.hani.co.kr/arti/society/society_general/1286987.html",
-  "https://www.busan.com/view/busan/view.php?code=2026111213582583352"
+  "https://www.busan.com/view/busan/view.php?code=2026111213582583352",
+  "https://www.wikitree.co.kr/articles/1174080",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268701",
+  "https://www.kukinews.com/article/view/kuk202611120063",
+  "https://www.kgnews.co.kr/news/article.html?no=919322",
+  "https://www.newsis.com/view/NISX20261112_0003865597",
+  "http://www.newstomato.com/ReadNews.aspx?no=1320208&inflow=N",
+  "https://www.khan.co.kr/article/202611121410001"
  ],
  "seen_titles": [
-  "가습기·전기장판찾는'집콕족'급증",
-  "'월동준비'검색량증가…추위대비수요급증",
-  "가습기·전기장판수요증가",
-  "'월동준비'검색량증가'추위대비수요급증'",
-  "태평양,공정거래그룹에이동률·김치열·이종헌변호사영입",
-  "‘오산옹벽붕괴사고’…경찰,이권재전오산시장등10명송치",
-  "GS샵,디자인·공간활용성갖춘'오브제형가전'으로겨울시장공략",
   "'기온뚝'가습기·전기장판찾는수요급증",
   "'추위대비하세요'",
   "배달앱수수료낮추면점주도웃을까…국회서규제실효성논의",
@@ -6001,7 +5994,14 @@
   "31점을100점으로…'보안점검점수조작'중앙선관위압수수색",
   "부산중수청,울산중구선관위공무상비밀누설압수수색",
   "3천원대주식1만원띄운뒤매도폭탄…‘골드앤에스’주가조작일당...",
-  "중수청,울산중구선관위압수수색…강제수사착수"
+  "중수청,울산중구선관위압수수색…강제수사착수",
+  "[생활꿀팁]침구는'54도'이상으로매주빨아보세요,진드기가씻겨나...",
+  "미래에셋증권,3분기스페이스X관련세전손실5140억반영",
+  "건설사들하도급대금184억원증액…유보금관행도손본다",
+  "임태희전경기도교육감,선관위특검에“경기도모든지역조사해야“",
+  "부산중수청'공무상비밀누설'울산중구선관위압수수색",
+  "'집사게이트'조영탁IMS대표,무죄·공소기각확정",
+  "사무장병원잡기위한건보공단특사경도입가시화···의료계반발..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "2730억 과징금 삼킨다 591억 국고채 증권가 실적"
   ]
  ],
- "last_run": "2026-11-12T14:10:52.940075+09:00",
+ "last_run": "2026-11-12T14:20:49.502340+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
