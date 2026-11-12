@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=563000",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524938",
-  "https://www.fnnews.com/news/202611111356111533",
-  "http://www.wsobi.com/news/articleView.html?idxno=321515",
-  "https://www.mk.co.kr/article/12205284",
-  "http://www.metroseoul.co.kr/article/20261111500267",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563005",
   "https://biz.heraldcorp.com/article/10933748",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=107811",
   "https://www.widedaily.com/news/articleView.html?idxno=303415",
@@ -2999,16 +2992,16 @@
   "https://www.smarttoday.co.kr/ko-kr/articles/113703",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611120953567020722",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611120950480040718",
-  "https://www.tournews21.com/news/articleView.html?idxno=148328"
+  "https://www.tournews21.com/news/articleView.html?idxno=148328",
+  "https://www.yna.co.kr/view/AKR20261113012051072?input=1195m",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111307193748924c878f8fa1_30",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326514",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338422",
+  "https://www.ytn.co.kr/_ln/0102_202611130717380774",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503599",
+  "https://www.fntimes.com/html/view.php?ud=202611130705363088141825007d_18"
  ],
  "seen_titles": [
-  "충북이전AI기업,SK하이닉스·삼성전자와사업화협력물꼬",
-  "HBM공급과메모리가격주목받은SK하이닉스,장중6.02%상승",
-  "\"멜론·티빙따로구독할필요없네\"…T우주서월6900원결합상품출시",
-  "수소에서새사업찾는화학업계…발전·소재집중",
-  "黄仁勋承认婚外情后，美国国会强化对华AI芯片出口管制呼声升温，Samsung...",
-  "보이스피싱번호신속차단…중앙전파관리소·경찰청공조강화",
-  "두바이유80달러대인데통제는그대로…정유사'삼중청구서'",
   "장중코스피상승폭2.55%로확대…SK하이닉스6%넘게올라",
   "현대엔지니어링,‘힐스테이트울산역리버포레’11월분양",
   "데이터센터짓기어려워진미국땅…건설주'들썩'",
@@ -6001,7 +5994,14 @@
   "[증권가]SK증권,한국ESG기준원ESG평가종합A등",
   "[머니테크…급락장에서살아남기]일만피기대접는증권업계…내려가...",
   "[머니테크…급락장에서살아남기]코스피32%내릴때음식료ㆍ담배6%올...",
-  "용인죽능일반산단개발실시계획승인…처인구산업기반확충본격화"
+  "용인죽능일반산단개발실시계획승인…처인구산업기반확충본격화",
+  "젠슨황퇴진·유가급등에뉴욕증시하락…엔비디아4.3%↓(종합)",
+  "용인시,원삼면죽능일반산단개발실시계획승인…내년말준공목표",
+  "[집중분석]젠슨황떠난엔비디아…한국반도체엔무슨일이생길까",
+  "신문1면장식한젠슨황…\"AI록스타몰락하다\"",
+  "[뉴스타트]두번불륜에쫓겨난젠슨황...엔비디아넘어AI산업에충...",
+  "가상자산시장에무슨일이…비트코인급락에국내관련주도비상",
+  "[KFT모닝브리프]2026.11.13—오늘꼭알아야할국내외경제뉴스"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,17 @@
   [
    "2026-11-13T07:21:03.207498+09:00",
    "산업기반 확충 죽능 용인 일반산단 승인 개발실시계획 본격화 처인구"
+  ],
+  [
+   "2026-11-13T07:31:14.920302+09:00",
+   "무슨 관련주도 국내 비트코인 시장에 비상 일이 가상자산 급락에"
+  ],
+  [
+   "2026-11-13T07:31:14.920302+09:00",
+   "알아야 국내외 경제뉴스"
   ]
  ],
- "last_run": "2026-11-13T07:21:16.653696+09:00",
+ "last_run": "2026-11-13T07:31:23.393780+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
