@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1711549/?sc=Naver",
-  "http://www.popcornnews.net/news/articleView.html?idxno=138965",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194270",
-  "https://www.mt.co.kr/politics/2026/11/06/2026110609292656422",
-  "http://www.bizwnews.com/news/articleView.html?idxno=151128",
-  "https://www.ziksir.com/news/articleView.html?idxno=152300",
-  "http://www.bizwnews.com/news/articleView.html?idxno=151126",
-  "https://www.yna.co.kr/view/AKR20261106057500030?input=1195m",
-  "https://view.asiae.co.kr/article/2026110609183861655",
-  "https://www.etoday.co.kr/news/view/2644959",
   "http://www.yonhapnewstv.co.kr/news/AKR20261106090747q5J",
   "https://www.yna.co.kr/view/AKR20261106045400002?input=1195m",
   "https://www.mt.co.kr/economy/2026/11/06/2026110608535573562",
@@ -2999,19 +2989,19 @@
   "https://www.yna.co.kr/view/AKR20261112077100004?input=1195m",
   "https://www.ekn.kr/web/view.php?key=20261112029088725",
   "https://biz.heraldcorp.com/article/10934845",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710860"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710860",
+  "https://www.investchosun.com/site/data/html_dir/2026/11/12/2026111280066.html",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48972",
+  "https://www.news2day.co.kr/article/20261110500335",
+  "https://view.asiae.co.kr/article/2026111209000202527",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318955",
+  "https://news.tf.co.kr/read/life/2387905.htm",
+  "https://www.hankookilbo.com/news/article/A2026111210200003388?did=NA",
+  "https://www.pressian.com/pages/articles/2026111211015806497",
+  "https://www.naeil.com/news/read/608601",
+  "https://imnews.imbc.com/news/2026/society/article/6865097_36918.html"
  ],
  "seen_titles": [
-  "\"갑자기추워졌네\"…가습기·전기장판찾는'집콕족'급증",
-  "홈쇼핑업계,지역특산물부터유럽여행·겨울가전까지...차별화상품으...",
-  "[WIKI현장]코오롱수소전략,'소재와부품'…핵심기술고도화주력",
-  "5000무너진코스피…임이자\"9천피는허상,미래기금백지화해야\"",
-  "[캐시워크종합]11월6일금요일오전10시현재출제되고있는모든문...",
-  "GS샵,'디자인입힌히터'주문액9억돌파···오브제형가습기잇달아...",
-  "KB페이(KBPay)'리브메이트',11월6일금요일자'오늘의퀴즈'정답은...",
-  "GS샵,인테리어효과더한'오브제형가전'수요공략",
-  "부당한가격결정·유지도규율명문화…공정위,독과점사업자규율25...",
-  "원가하락에도고가유지하면제재…독과점규제25년만에정비",
   "독과점사업자규율,25년만에바꾼다…현실맞게손질",
   "독과점사업자,해외보다국내서터무니없이비싸게팔면제재",
   "독과점사업자규율,25년만에정비…가격남용행위입증완화",
@@ -6001,7 +5991,17 @@
   "'김건희집사게이트'IMS모빌리티대표무죄·공소기각확정",
   "임태희“일부지역문제로한정하면국민적불신해소못해”",
   "선관위특검과천중앙선관위압수수색…보안실태부실점검정황포착...",
-  "특검,‘보안점검문서허위작성’중앙선관위·용역업체압수수색"
+  "특검,‘보안점검문서허위작성’중앙선관위·용역업체압수수색",
+  "[Invest]미래證,3분기4000억대순손실로적자전환…1.4조자사주소각...",
+  "미래에셋증권,3분기4056억순손실…2148억국고채과징금반영'검토...",
+  "[기업워치-동원과사조,같은캔,다른길①]동원은배터리·사조는식...",
+  "1.6兆과징금‘국고채입찰담합’파장에재경부,정보공유가이드라...",
+  "'TV조선재승인점수조작'1심,한상혁등6인전원무죄",
+  "특검,'허위보안문서'의혹중앙선관위서버압수수색",
+  "중앙선관위,보안점검에서도허위공문서작성정황…선관위특검압...",
+  "[속보]중선관위압수수색특검,'문서허위작성'정황포착\"위중한사...",
+  "‘김건희집사게이트’조영탁,무죄확정",
+  "특검,중앙선관위압수수색‥\"보안점검문서허위작성정황\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "과징금에 실적도 적자전환 국채담합 6조원 증권사 줄줄이"
   ]
  ],
- "last_run": "2026-11-12T11:01:03.704425+09:00",
+ "last_run": "2026-11-12T11:11:00.234409+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
