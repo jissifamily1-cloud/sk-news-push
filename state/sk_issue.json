@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.elle.co.kr/article/1912621",
-  "https://www.khan.co.kr/article/202611052114005",
-  "https://tjmbc.co.kr/NewsArticle/871759",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/05/2026110580078.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705275",
-  "https://www.ulsanpress.net/news/articleView.html?idxno=586260",
   "http://www.newsdream.kr/news/articleView.html?idxno=121592",
   "http://www.issuenbiz.com/news/articleView.html?idxno=81294",
   "http://www.popcornnews.net/news/articleView.html?idxno=138924",
@@ -2999,15 +2993,15 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=300318",
   "http://www.srtimes.kr/news/articleView.html?idxno=217377",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082315",
-  "https://www.goodkyung.com/news/articleView.html?idxno=293373"
+  "https://www.goodkyung.com/news/articleView.html?idxno=293373",
+  "https://www.livesnews.com/news/article.html?no=65906",
+  "https://www.impacton.net/news/articleView.html?idxno=30642",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=624683",
+  "https://news.bizwatch.co.kr/article/finance/2026/11/12/0003",
+  "https://www.insight.co.kr/news/581688",
+  "https://news.bizwatch.co.kr/article/market/2026/11/12/0005"
  ],
  "seen_titles": [
-  "코트에티셔츠에청바지,겨울패션도경력직이잘합니다",
-  "화물연대‘윤석열정부공정위조사거부’,유죄로뒤집혔다",
-  "'계룡시납품비리의혹'브로커구속..수사확대",
-  "발뮤다,가습의기준은‘사람의쾌적함’…자연의원리로습도50%구현...",
-  "[단독]미성년자성추행전과에도…취업제한기간중또‘학원성범죄...",
-  "무자격차정비업체불법행위기획수사",
   "롯데하이마트,'하이마트블프'개막…\"온·오프라인가전할인쏟아진...",
   "롯데하이마트,'하이마트블프'개최…가전할인총공세",
   "롯데하이마트,연중최대가전행사'하이마트블프'...이사·혼수부터...",
@@ -6001,10 +5995,21 @@
   "[3Q실적]KB금융,과징금반영에순익1486억원감소…국민은행환입에...",
   "NH투자증권\"국고채담합과징금에증권사실적부담…저평가매력유효...",
   "[김윤호의일침]승소율94%의착시",
-  "한솔제지,신탄진추락사이어장항공장서또사망…대표송치10개월..."
+  "한솔제지,신탄진추락사이어장항공장서또사망…대표송치10개월...",
+  "멕시카나,반디온라이브와12일2차라이브커머스…HMR·주방가전동시...",
+  "【데일리ESG정책브리핑】국고채담합1조6266억원과징금·지역성장펀...",
+  "[분석]증권·은행,공정위국고채담합과징금4분기실적에부담",
+  "은행·증권과징금에희비…KB금융3분기순익1486억깎였다",
+  "한경록대표송치뒤안전조직개편한한솔제지...장항공장서또사망사...",
+  "1.6조원국채담합과징금에증권사실적도줄줄이적자전환"
  ],
- "recent_sigs": [],
- "last_run": "2026-11-12T09:31:00.603189+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-12T09:40:57.647770+09:00",
+   "과징금에 실적도 적자전환 국채담합 6조원 증권사 줄줄이"
+  ]
+ ],
+ "last_run": "2026-11-12T09:41:04.149858+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
