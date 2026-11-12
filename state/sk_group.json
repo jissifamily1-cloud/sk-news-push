@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.goodkyung.com/news/articleView.html?idxno=293334",
-  "https://www.bloter.net/news/articleView.html?idxno=678293",
-  "https://www.mk.co.kr/article/12205142",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=203161",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731196",
-  "https://weeklytrade.co.kr/news/view.html?no=102166",
   "https://it.chosun.com/news/articleView.html?idxno=3000000000751",
   "https://www.the-today.com/news/articleView.html?idxno=93409",
   "http://www.joynews24.com/view/2024934",
@@ -2999,15 +2993,15 @@
   "https://www.ubc.co.kr/news/28544/",
   "http://www.kjdaily.com/article.php?aid=1794479592692126002",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2313388",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2313361"
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2313361",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502975",
+  "https://www.hankyung.com/article/202611123809h",
+  "https://www.hani.co.kr/arti/politics/bluehouse/1287095.html",
+  "https://news.jtbc.co.kr/article/NB12327798?influxDiv=NAVER",
+  "https://www.mediawatch.kr/news/article.html?no=261716",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6865241_37004.html"
  ],
  "seen_titles": [
-  "SK인텔릭스,웰니스로봇나무엑스1주년맞아사업확장",
-  "SK하이닉스하반기생산직채용…17일까지접수",
-  "[개장시황]美인플레충격과기술주약세속코스피5,240선팽팽한공...",
-  "SK스페셜티5000억원투자나선영주…신규주거수요기대",
-  "SK하이닉스,하반기생산직채용⋯'역대급성과급'에취준생몰리나",
-  "SK하이닉스,저전력D램안전·보안인증확보",
   "직원1인당평균8억성과급…SK하이닉스,하반기생산직채용",
   "SK인텔릭스,웰니스로봇‘나무엑스’1주년고객감사이벤트",
   "SK하이닉스,피지컬AI메모리안전·보안국제인증확보…로봇·자율주...",
@@ -6001,7 +5995,13 @@
   "울산친기업행정'호평'..정부,타지자체확산주문",
   "“호남반도체클러스터컨트롤타워일원화해야”",
   "\"충청메가프로젝트10개중6개연내착공…인허가단축\"",
-  "충청권메가프로젝트지자체역할주목"
+  "충청권메가프로젝트지자체역할주목",
+  "동반위,동반성장지수최우수44곳선정…6곳명예기업합류",
+  "이상일용인시장\"반도체세수늘면교통·복지투자확대\"",
+  "‘메가’충청서첫삽…이대통령“23.6조원추가투자”",
+  "'HBM80%'쥔삼전닉스파워…젠슨황스캔들끄떡없다?",
+  "[26.11.12증시인싸잇]엔비디아악재에증시출렁...코스피·코스닥동...",
+  "엔비디아한때8%폭락‥이번주에만897조증발했다"
  ],
  "recent_sigs": [
   [
@@ -7095,9 +7095,13 @@
   [
    "2026-11-12T19:40:57.410909+09:00",
    "호평 친기업 정부 울산 확산 주문 행정 지자체"
+  ],
+  [
+   "2026-11-12T20:01:19.162728+09:00",
+   "897조 한때 폭락 주에만 증발했다 엔비디아"
   ]
  ],
- "last_run": "2026-11-12T19:51:02.242076+09:00",
+ "last_run": "2026-11-12T20:01:25.216280+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
