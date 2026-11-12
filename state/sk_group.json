@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502974",
-  "https://www.segye.com/newsView/20261111507300?OutUrl=naver",
-  "https://www.ziksir.com/news/articleView.html?idxno=152854",
-  "https://www.mt.co.kr/industry/2026/11/11/2026111110162746785",
-  "https://www.jbnews.com/news/articleView.html?idxno=1515647",
-  "https://www.smartbizn.com/news/articleView.html?idxno=159082",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502975",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51257",
-  "https://biz.sbs.co.kr/article_hub/20000345635?division=NAVER",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=280983",
   "https://www.rcast.co.kr/news/articleView.html?idxno=32036",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601980",
@@ -2999,18 +2990,18 @@
   "https://news.jtbc.co.kr/article/NB12327835?influxDiv=NAVER",
   "https://www.dt.co.kr/article/12094950",
   "https://www.job-post.co.kr/news/articleView.html?idxno=238120",
-  "https://sjbnews.com/news/news.php?number=892544"
+  "https://sjbnews.com/news/news.php?number=892544",
+  "http://www.cctimes.kr/news/articleView.html?idxno=937059",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503542",
+  "https://www.hani.co.kr/arti/economy/global/1287092.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711261",
+  "https://www.edaily.co.kr/News/Read?newsId=04788806645645064&mediaCodeNo=257",
+  "https://www.donga.com/news/Inter/article/all/20261112/135015974/1",
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1554982",
+  "https://www.edaily.co.kr/News/Read?newsId=04782246645645064&mediaCodeNo=257",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090693"
  ],
  "seen_titles": [
-  "미국대중반도체규제강화…삼성·SK,중국공장영향은",
-  "가장중요한건\"인간성\"이라더니…불륜인정젠슨황,'유퀴즈저주'...",
-  "SK하이닉스,기능안전·사이버보안국제인증확보…피지컬AI메모리경...",
-  "SK인텔릭스,‘나무엑스’출시1주년…B2B·B2G·해외시장확대",
-  "음악과OTT를한번에…멜론,T우주서'티빙광고형요금제'출시",
-  "엔비디아·KAIST,한국어데이터100만건구축",
-  "흔들리는‘대장아파트’…강남재건축지고준신축이버틴다",
-  "전세매물잠기고대출조이고…‘월세지옥’내몰린청년",
-  "'3대메가'현실화시2040년전력수요29%↑…전문가\"전력병목막아야...",
   "AIDC키우는통신3사…美민주당압승은기회,수익화는장기과제",
   "韓·美증시등락따라…ETF시장3위싸움'엎치락뒤치락'",
   "유니세프한국위원회,세계어린이의날맞아‘2026더아동페스타’개...",
@@ -6001,21 +5992,18 @@
   "'깐부형님믿었는데'황CEO해임되면…한국기업들은?",
   "[기획]결국…중노위“하청임금도원청교섭대상”",
   "동아제약,KCGSESG평가서지배구조'A+'획득",
-  "\"회사가살아야일자리도있다\""
+  "\"회사가살아야일자리도있다\"",
+  "충청권메가프로젝트본격`시동'",
+  "전남대취업박람회에기업59곳·청년3734명참여",
+  "엔비디아독주에균열갈까…시장에선삼성↑,하이닉스↓",
+  "전남광주반도체클러스터물밑준비‘분주’",
+  "원맨체제가독됐다…흔들리는엔비디아패권,AMD·브로드컴",
+  "베선트“메가스피드왜제재안했나”…美재무·상무백악관서충돌",
+  "경남대기업-중견·중소기업,ESG성적‘양극화’",
+  "불륜또들통…젠슨황해임수순",
+  "정부첨단GPU71.7%수도권집중…영남권은6.9%그쳐"
  ],
  "recent_sigs": [
-  [
-   "2026-11-12T13:20:59.450391+09:00",
-   "수요 기대에 AI 상승랠리 확대 종목별 자율주행 시스템반도체"
-  ],
-  [
-   "2026-11-12T13:20:59.450391+09:00",
-   "투심도 크레디트 약세 국고 전일 4bp 양호 되돌림 3년"
-  ],
-  [
-   "2026-11-12T13:20:59.450391+09:00",
-   "추빈속에 AI 푸르지오 데이터센터 주거단지 포항 건립 이차전지 인근"
-  ],
   [
    "2026-11-12T13:31:07.442910+09:00",
    "아동 조성 행복Dream 7곳 도서관 SK이노베이션 지원 농어촌"
@@ -7127,9 +7115,29 @@
   [
    "2026-11-12T19:11:01.866484+09:00",
    "회사가 살아야 일자리도 있다"
+  ],
+  [
+   "2026-11-12T19:21:00.107988+09:00",
+   "체제가 원맨 브로드컴 됐다 패권 흔들리는 AMD 엔비디아"
+  ],
+  [
+   "2026-11-12T19:21:00.107988+09:00",
+   "메가스피드 재무 충돌 상무 제재안했나 백악관서 베선트"
+  ],
+  [
+   "2026-11-12T19:21:00.107988+09:00",
+   "ESG 중견 성적 경남 양극화 중소기업 대기업"
+  ],
+  [
+   "2026-11-12T19:21:00.107988+09:00",
+   "젠슨황 불륜 해임 들통 수순"
+  ],
+  [
+   "2026-11-12T19:21:00.107988+09:00",
+   "GPU 집중 수도권 그쳐 정부 첨단 영남권은"
   ]
  ],
- "last_run": "2026-11-12T19:11:18.386473+09:00",
+ "last_run": "2026-11-12T19:21:16.348490+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
