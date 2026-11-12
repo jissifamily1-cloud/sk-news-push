@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=217290",
-  "https://www.mk.co.kr/article/12205156",
-  "http://www.newsdream.kr/news/articleView.html?idxno=121885",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444157",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1731213",
   "https://www.koreaittimes.com/news/articleView.html?idxno=159021",
   "https://www.news2day.co.kr/article/20261110500217",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20261112_0003866255",
   "https://www.businesspost.co.kr/BP?command=article_view&num=451900",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=649453",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711306"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711306",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261113.22002003742",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1192942",
+  "https://www.mk.co.kr/article/12206787",
+  "https://www.ubc.co.kr/news/28544/"
  ],
  "seen_titles": [
-  "SK·롯데·LG·한국GM까지…대기업희망퇴직확산,최대40개월치급여...",
-  "삼전·하닉목표가‘뚝’…적중과오판오간‘반도체저승사자’이번...",
-  "로봇부터자율주행까지…SK하이닉스,메모리안전·보안국제인증확보",
-  "SK하이닉스,저전력D램보안인증확보…피지컬AI공략가속",
   "SK하이닉스,하반기생산직신입채용…청주사업장포함",
   "SK하이닉스,하반기생산직채용···'성과급8억원'기대감에관심집...",
   "동반위,동반성장지수최우수44곳선정…6곳명예기업합류",
@@ -6001,7 +5997,11 @@
   "[올댓차이나]홍콩증시,지분조정매도에속락마감…H주1.40%↓",
   "[BP금융포럼in싱가포르]한-아세안금융협력센터장이영직\"금융경제...",
   "창원LG,서울SK에101-72대승",
-  "‘강릉AI데이터센터유치’여야공방"
+  "‘강릉AI데이터센터유치’여야공방",
+  "젠슨황,이사회해임초읽기…‘깐부동맹’삼전닉스도촉각(종합)",
+  "[주식마감]'지분경쟁'한진칼우다시'上'...공시없는상한가종목도...",
+  "\"지방재정자율성높여기업유치\"",
+  "울산친기업행정'호평'..정부,타지자체확산주문"
  ],
  "recent_sigs": [
   [
@@ -7139,9 +7139,21 @@
   [
    "2026-11-12T19:31:14.197635+09:00",
    "강릉 AI 여야 데이터센터 유치 공방"
+  ],
+  [
+   "2026-11-12T19:40:57.410909+09:00",
+   "지분경쟁 한진칼우 다시 종목도 없는 상한가 공시"
+  ],
+  [
+   "2026-11-12T19:40:57.410909+09:00",
+   "높여 지방재정 기업유치 자율성"
+  ],
+  [
+   "2026-11-12T19:40:57.410909+09:00",
+   "호평 친기업 정부 울산 확산 주문 행정 지자체"
   ]
  ],
- "last_run": "2026-11-12T19:31:30.397242+09:00",
+ "last_run": "2026-11-12T19:41:10.017934+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
