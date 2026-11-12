@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000075733",
-  "https://www.wikitree.co.kr/articles/1168279",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553636282",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=209446",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440569",
   "https://www.newsis.com/view/NISX20261021_0003835679",
   "https://www.imaeil.com/page/view/2026102210532367019",
   "http://www.00news.co.kr/news/articleView.html?idxno=107365",
@@ -2999,14 +2994,14 @@
   "https://www.edaily.co.kr/News/Read?newsId=02601046645645064&mediaCodeNo=257",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=63290",
   "https://www.mt.co.kr/world/2026/11/12/2026111209154320627",
-  "https://www.seoul.co.kr/news/life/2026/11/12/20261112500053?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/life/2026/11/12/20261112500053?wlog_tag3=naver",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/524526",
+  "https://news.tf.co.kr/read/economy/2387869.htm",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5046144",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107959",
+  "https://edu.donga.com/news/articleView.html?idxno=113733"
  ],
  "seen_titles": [
-  "“회장님,여기계실때가아닙니다”…최태원을지로목격담확산",
-  "대한상의,하반기규제개선과제129건…기업규제애로발굴등",
-  "최태원,직원들과야장회식…'깐부'이어'힙지로'서치킨뜯었다",
-  "최태원회장,패딩조끼입고'힙지로'야장등장…SK임직원과회식",
-  "남종섭경기도의회의장,지방의회법제정세미나한국행정학회와협력...",
   "직원들옆자리서함께웃었다...최태원의'힙지로'저녁",
   "\"회장님2차가시죠\"SK최태원,힙지로핫플서직원들과'야장회동'",
   "'힙지로'에뜬SK최태원…그룹인사앞두고깜짝회식",
@@ -6001,7 +5996,12 @@
   "한중일융합예술포럼‘trulyseeyou’성료…특별전통해‘우리’의...",
   "최태원'AI풀스택'다음메시지는…SK,새사장단과CEO세미나열어",
   "블룸버그\"젠슨황해임문제,'깐부'삼전닉스에도골칫거리\"",
-  "한중일융합예술포럼‘trulyseeyou’성료...인간과기술의새로운..."
+  "한중일융합예술포럼‘trulyseeyou’성료...인간과기술의새로운...",
+  "'김연아♥'고우림,저음력테스트시청률4.5%…'라스'최고의1분",
+  "최태원회장·CEO총출동…SK그룹,2박3일'AI집중토론'시작",
+  "[정해균의Zoom-人]오너의전략가부터반도체CEO까지…퇴임한전문경...",
+  "'해임설'젠슨황거취에쏠린눈",
+  "고려대,'제4회LabtoLife연구페스티벌'및'BK21K-3MTCompetition전국..."
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,25 @@
   [
    "2026-11-12T09:59:09.351582+09:00",
    "문제 해임 깐부 블룸버그 젠슨황 삼전닉스에도 골칫거리"
+  ],
+  [
+   "2026-11-12T10:10:14.841742+09:00",
+   "오너의 전문경 CEO까지 퇴임한 전략가부터 반도체"
+  ],
+  [
+   "2026-11-12T10:10:14.841742+09:00",
+   "토론 2박 AI 3일 CEO 총출동 시작 회장 집중"
+  ],
+  [
+   "2026-11-12T10:10:14.841742+09:00",
+   "쏠린 해임설 거취에 젠슨"
+  ],
+  [
+   "2026-11-12T10:10:14.841742+09:00",
+   "3MT Life Lab Competition 고려대 BK21 to 연구페스티벌 전국 제4회"
   ]
  ],
- "last_run": "2026-11-12T10:00:38.251769+09:00",
+ "last_run": "2026-11-12T10:10:34.637199+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
