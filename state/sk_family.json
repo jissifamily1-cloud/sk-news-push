@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221116399050689",
-  "https://biz.heraldcorp.com/article/10911195",
-  "https://www.newspim.com/news/view/20261022000679",
   "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166890",
   "https://news.jtbc.co.kr/article/NB12324299?influxDiv=NAVER",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=131397",
@@ -2999,12 +2996,12 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261112083959M1H",
   "https://www.newsis.com/view/NISX20261111_0003864078",
   "https://www.slist.kr/news/articleView.html?idxno=781026",
-  "http://www.economytalk.kr/news/articleView.html?idxno=424561"
+  "http://www.economytalk.kr/news/articleView.html?idxno=424561",
+  "https://www.the-today.com/news/articleView.html?idxno=93439",
+  "https://www.pennmike.com/news/articleView.html?idxno=131625",
+  "https://www.globale.co.kr/news/articleView.html?idxno=40932"
  ],
  "seen_titles": [
-  "더불어민주당충남도당여성위원회,신임지도부선출이후첫회의개...",
-  "연합뉴스미래경제포럼에日매체큰'관심'…NHK·아사히등신청",
-  "[Invest]올해자신감찾은SK그룹,반도체發주가부진이정기인사변수...",
   "SK하닉,솔리다임상장논란에美공장신설까지?…주주가치시험대",
   "[더벨][두산그룹은지금]창업130주년...비즈니스패러다임전환'재무...",
   "최태원SK그룹회장,서울을지로맛집에서회식모습잇달아포착...젊...",
@@ -6001,7 +5998,10 @@
   "백악관,민주당에선제공격…\"조사는범죄행위\"",
   "엔비디아,젠슨황해임준비까지…'AI반도체'시장판도달라지나",
   "'라디오스타'고우림저음테스트최고4.5%…전국·수도권동시간대1위",
-  "[사회공헌특집(187)]'50년CSR'SK네트웍스…\"점자도서·민팃·AI돌봄..."
+  "[사회공헌특집(187)]'50년CSR'SK네트웍스…\"점자도서·민팃·AI돌봄...",
+  "[최태원과젠슨황]같은불륜고백…SK최태원·젠슨황의서로다른문...",
+  "[이채정의엮어읽기]'젠슨황사임설',이병철은퇴는어땠나",
+  "[세번째엔진,정의선]전기차의척추E-GMP완성"
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,17 @@
   [
    "2026-11-12T08:10:17.166485+09:00",
    "전략 CEO세미나 3일간 AI 모색 오늘부터 풀스택"
+  ],
+  [
+   "2026-11-12T09:10:16.084893+09:00",
+   "이병철 어땠나 젠슨 사임설 은퇴는"
+  ],
+  [
+   "2026-11-12T09:10:16.084893+09:00",
+   "GMP 전기차의 척추 완성"
   ]
  ],
- "last_run": "2026-11-12T09:00:41.300643+09:00",
+ "last_run": "2026-11-12T09:10:32.116731+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
