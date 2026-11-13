@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20261112003251320?input=2106m",
-  "https://www.yna.co.kr/view/AKR20261112052100062?input=1195m",
-  "http://www.kjdaily.com/article.php?aid=1794445981692018227",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563267",
-  "https://magazine.hankyung.com/business/article/202611122183b",
   "http://www.osen.co.kr/article/G1112908766",
   "https://www.yna.co.kr/view/AKR20261112068200007?input=1195m",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=882580",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20261113_0003866774",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504032",
   "https://www.newsis.com/view/NISX20261111_0003863101",
-  "https://view.asiae.co.kr/article/2026111313303264630"
+  "https://view.asiae.co.kr/article/2026111313303264630",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=626846",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504034",
+  "https://www.medicopharma.co.kr/news/articleView.html?idxno=70431",
+  "https://www.bigtanews.co.kr/article/view/big202611140004",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504033"
  ],
  "seen_titles": [
-  "최태원,재산분할금9440억전액한투에예치…판결확정전이자챙긴다",
-  "李대통령,이재용과삼성아산착공식참석…“투자성과,지역·중소기...",
-  "(LEAD)S.Korea'sfiscalbalanceimprovesthroughSept.:budgetminis",
-  "'70조AIDC유치'진실공방…우상호선거법수사막바지'촉각'",
-  "금시세(금값)급락",
   "강경화\"핵잠·민간원자력협력진전땐한미안보파트너십강화\"",
   "[속보]나라살림적자,8년만최소",
   "[공식발표]‘SK→KIA→SSG’37살우승포수전격방출…‘고작30살’...",
@@ -6001,7 +5996,12 @@
   "젠슨황퇴진에새판짜는엔비디아…삼전·닉스HBM공급전변수",
   "삼성전기MLCC가격30%뛴다…내년1분기인상본격화",
   "\"주담대6~8%땐집값조정\"…2027년부동산가를5대변수",
-  "[칩톡]일본과는손잡고,국산화도계속…K반도체의두가지숙제"
+  "[칩톡]일본과는손잡고,국산화도계속…K반도체의두가지숙제",
+  "[속보]미국뉴욕증시반도체주부진…AMD8.75%·마이크론2.52%하락,메...",
+  "GPU·CPU·ASIC까지주문쇄도…ISCAI반도체수혜본격화",
+  "SK바이오사이언스,비강스프레이개발종료…게이츠재단우선순위조정",
+  "삼성증권,11월둘째주NHN등41종목매수추천",
+  "수출1조달러시대열린다…삼성전자·SK하이닉스증시훈풍기대"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,21 @@
   [
    "2026-11-14T08:11:03.370160+09:00",
    "일본과는 K반도체의 계속 가지 숙제 국산화도 손잡고"
+  ],
+  [
+   "2026-11-14T08:20:58.211481+09:00",
+   "SK바이오사이언스 게이츠재단 스프레이 비강 조정 개발 우선순위 종료"
+  ],
+  [
+   "2026-11-14T08:20:58.211481+09:00",
+   "NHN 삼성증권 둘째주 41종목 추천 매수 11월"
+  ],
+  [
+   "2026-11-14T08:20:58.211481+09:00",
+   "수출 훈풍 시대 기대 SK하이닉스 삼성전자 증시 열린다 1조달러"
   ]
  ],
- "last_run": "2026-11-14T08:11:14.420307+09:00",
+ "last_run": "2026-11-14T08:21:09.100613+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
