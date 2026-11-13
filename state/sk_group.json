@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=579466&class=18",
-  "http://www.kjdaily.com/article.php?aid=1794437782692014276",
-  "https://www.businessplus.kr/news/articleView.html?idxno=119711",
-  "https://www.munhwa.com/article/11630713",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710691",
   "https://www.smartbizn.com/news/articleView.html?idxno=159166",
   "https://www.newspim.com/news/view/20261112000040",
@@ -2999,13 +2995,13 @@
   "http://www.rookie.co.kr/news/articleView.html?idxno=130282",
   "https://www.ubc.co.kr/news/28557/",
   "https://www.greened.kr/news/articleView.html?idxno=354655",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=80777"
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80777",
+  "https://m.sports.naver.com/basketball/article/065/0000304560",
+  "http://www.newswatch.kr/news/articleView.html?idxno=81823",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=305024",
+  "https://futurechosun.com/?p=166593"
  ],
  "seen_titles": [
-  "국산NPU로AI답변생성한다,SKT·엔비디아·리벨리온공동개발",
-  "[분석]삼전닉스등5대기업이이끈'수출착시'…증가분86.6%홀로견...",
-  "무담보채끊겠다는코어위브…자금계획의전제는‘GPU가격'[마켓프리...",
-  "[오늘증시]코스피상승출발전망…美반도체지수5.66%급등",
   "[마켓+]통신3사,AI매출은나란히성장…실적기여는아직제한적",
   "[속보]AI반도체주일제히급등…마이크론시총하루새130조원껑충",
   "AI반도체주급등…마이크론시총하루새130조원↑",
@@ -6001,17 +5997,13 @@
   "'엘런슨출격대기'이규섭감독\"1옵션의책임감기대\"",
   "'70년대산업기록화'공개,암각화모티브'연극'",
   "[데이터뉴스룸]유통상사業50곳1년새일자리2500곳넘게사라져고...",
-  "[주식]티앤엘12%·루닛9%급등…큐리옥스는21%급락"
+  "[주식]티앤엘12%·루닛9%급등…큐리옥스는21%급락",
+  "[부상]‘우려보다심각했다’하윤기,발목연골서이상발견…“복귀...",
+  "[머니워치]코스피,외국인매도에하락마감…17일엔비디아실적발표...",
+  "\"거래대금36%급감여파…삼성증권,전부문실적주춤하며'어닝쇼크...",
+  "AI로특수교육돕고폐배터리손실줄인다…사회문제푸는스타트업10곳"
  ],
  "recent_sigs": [
-  [
-   "2026-11-13T12:50:57.841763+09:00",
-   "오일 토큰 유나이티드 펀드 스테이츠 44만달러어치가"
-  ],
-  [
-   "2026-11-13T12:50:57.841763+09:00",
-   "AI 6배 앤트로픽 열기 주문 시험대 투자 IPO 청약"
-  ],
   [
    "2026-11-13T13:01:15.774474+09:00",
    "원픽 메모리주 삼전닉스보다 그의 이게 낫다"
@@ -6859,9 +6851,17 @@
   [
    "2026-11-13T18:41:08.875195+09:00",
    "티앤엘 급등 큐리옥스는 급락 루닛"
+  ],
+  [
+   "2026-11-13T18:50:59.553741+09:00",
+   "실적 주춤하며 어닝쇼크 부문 거래대금 여파 급감 삼성증권"
+  ],
+  [
+   "2026-11-13T18:50:59.553741+09:00",
+   "10곳 폐배터리 특수교육 사회문제 손실 푸는 돕고 줄인다 스타트업 AI로"
   ]
  ],
- "last_run": "2026-11-13T18:41:24.403019+09:00",
+ "last_run": "2026-11-13T18:51:08.160609+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
