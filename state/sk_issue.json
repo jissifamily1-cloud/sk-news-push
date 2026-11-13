@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261109114934",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707481",
-  "https://www.busan.com/view/busan/view.php?code=2026110911192800381",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4117394",
-  "https://www.newsis.com/view/NISX20261109_0003860313",
   "https://www.sedaily.com/article/20111889",
   "https://www.newdaily.co.kr/site/data/html/2026/11/09/2026110900127.html",
   "https://www.news1.kr/society/incident-accident/6347459",
@@ -2999,14 +2994,14 @@
   "https://www.seoul.co.kr/news/society/2026/11/13/20261113500129?wlog_tag3=naver",
   "http://www.tongilnews.com/news/articleView.html?idxno=218159",
   "https://www.gosiweek.com/article/1065579770673775",
-  "https://www.nocutnews.co.kr/news/6606514"
+  "https://www.nocutnews.co.kr/news/6606514",
+  "https://www.gosiweek.com/article/1065580326051685",
+  "https://www.donga.com/news/Economy/article/all/20261113/135019792/1",
+  "https://www.huffingtonpost.kr/article/262052",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=270983",
+  "https://www.ddaily.co.kr/page/view/2026111310522155569"
  ],
  "seen_titles": [
-  "공정위,배민·쿠팡에과징금총6319억원…최혜대우요구등제재",
-  "공정위,배달앱‘부당행위’제재…3천억원대과징금부과",
-  "\"최혜대우요구\"배달앱배민·쿠팡,과징금각3000억부과",
-  "공정위,'시장지배력남용'제재...배민·쿠팡에시정명령,각3천억넘...",
-  "경찰\"공군1호기정보유출경위규명중\"…국제공조·관련자조사",
   "김종철경찰청장후보자“필수의료현장특수성고려수사지침마련”",
   "김병기수사종결또지연…경찰,한동훈추가고발·김승원청탁의...",
   "김종철청장후보자\"국무회의참석해도경찰수사중립성훼손없어\"",
@@ -6001,7 +5996,12 @@
   "광고집행자료유출혐의삼성바이오노조간부2명송치",
   "\"국가보안법철폐하고양심수를석방하라\"…석권호국장,국가폭력호...",
   "[최창호변호사의법조단상]중수청수사의정치적중립성과독립성",
-  "\"총장선거는진흙탕,교육감은사법리스크\"…벼랑끝전북교육계"
+  "\"총장선거는진흙탕,교육감은사법리스크\"…벼랑끝전북교육계",
+  "케어팟가습기,독일HAUS&GARTENTEST서‘매우우수’평가",
+  "공급망경쟁력키운상생행보…HL만도,동반성장2년연속‘최우수’",
+  "쿠팡이츠가배민·공정위·소상공인모두의압박에포위당했다:'점주...",
+  "중흥건설'공짜약정'논란...은행요구는관행,대가기준은어디에",
+  "계약서없는광고비전가막는다…공정위,표준계약서7종개정"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "위기 재기 오성첨단소재 강덕수 압수수색에 3번째"
   ]
  ],
- "last_run": "2026-11-13T11:31:06.197224+09:00",
+ "last_run": "2026-11-13T11:40:56.603125+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
