@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=130798",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242868",
-  "https://zdnet.co.kr/view/?no=20261112074211",
   "https://www.newscj.com/news/articleView.html?idxno=3447937",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718937",
   "https://www.news1.kr/sports/baseball/6351552",
@@ -2999,12 +2996,12 @@
   "https://www.hitnews.co.kr/news/articleView.html?idxno=80766",
   "https://www.sportschosun.com/basketball/2026-11-14/202611140100093620008788",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504010",
-  "https://www.theguru.co.kr/news/article.html?no=109741"
+  "https://www.theguru.co.kr/news/article.html?no=109741",
+  "https://www.seoul.co.kr/news/economy/2026/11/14/20261114500005?wlog_tag3=naver",
+  "https://view.asiae.co.kr/article/2026111315530161256",
+  "https://www.nocutnews.co.kr/news/6606816"
  ],
  "seen_titles": [
-  "[특징주]NC,10%급락⋯신작'아이온2'흥행기대낮아져",
-  "공정위과징금·외인선물매도겹친채권시장…약세로돌아설까",
-  "[마켓펄스]코어위브'어닝서프라이즈'에AI우려완화...삼전닉스강세",
   "SKT,침해사고이후'성실성'평가하락폭90%회복",
   "주민번호무단수집하고개인정보방치...알뜰폰8곳제재",
   "알뜰폰·삼양그룹·에듀테크,개인정보관리부실로'무더기제재'",
@@ -6001,7 +5998,10 @@
   "바이오업계실적·상장'활기'…제약업계는약가개편에'난감'",
   "'헨리엘런슨돌아왔다'원주DB,수원KT잡고홈3연승…'김단비더블...",
   "엔비디아악재에나스닥0.91%급락…국내반도체주운명은",
-  "[통신리뷰]LG유플러스,韓제조기업글로벌데이터공급망진입돕는다..."
+  "[통신리뷰]LG유플러스,韓제조기업글로벌데이터공급망진입돕는다...",
+  "[서울데이터랩]다우소폭상승,나스닥약세…반도체주급락에기술주...",
+  "[AI세계속으로]젠슨황떠난AI시장…투자·협력생태계시험대",
+  "\"대체불가AI리더\"젠슨황의몰락…'깐부동맹'韓산업계도긴장"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-11-14T06:31:09.647883+09:00",
    "글로벌 제조기업 공급망 돕는다 진입 LG유플러스 데이터"
+  ],
+  [
+   "2026-11-14T06:41:08.003203+09:00",
+   "젠슨황의 AI리더 몰락 깐부동맹 긴장 대체불가 산업계도"
   ]
  ],
- "last_run": "2026-11-14T06:31:17.851271+09:00",
+ "last_run": "2026-11-14T06:41:13.563018+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
