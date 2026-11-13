@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://sateconomy.co.kr/news/view/1065586322341273",
-  "https://news.tf.co.kr/read/life/2386405.htm",
-  "https://www.ytn.co.kr/_ln/0103_202611091326440075",
-  "https://www.chosun.com/national/court_law/2026/11/09/C7CXLZ3BYNEGNAUYQEMW6JN2TU/",
-  "https://www.ilyosisa.co.kr/news/article.html?no=258841",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309896",
   "https://www.newsis.com/view/NISX20261109_0003860398",
   "https://news.ifm.kr/news/articleView.html?idxno=483843",
   "https://news.jtbc.co.kr/article/NB12327163?influxDiv=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.nocutnews.co.kr/news/6606708",
   "https://www.newsis.com/view/NISX20261113_0003867423",
   "https://www.newsis.com/view/NISX20261113_0003867464",
-  "https://www.pennmike.com/news/articleView.html?idxno=131763"
+  "https://www.pennmike.com/news/articleView.html?idxno=131763",
+  "https://www.etnews.com/20261113000184",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444707",
+  "https://www.greened.kr/news/articleView.html?idxno=354629",
+  "https://www.tokenpost.kr/news/policy/437720",
+  "https://www.yna.co.kr/view/AKR20261113131300530?input=1195m",
+  "https://www.news1.kr/local/incheon/6353526"
  ],
  "seen_titles": [
-  "공정위,배민·쿠팡이츠에과징금6319억…양사“위법성없다”반발",
-  "[속보]선관위특검,'투표지계수기담합의혹'업체2곳압수수색",
-  "[속보]선관위특검,'담합혐의'투표지계수기업체압수수색",
-  "[속보]선관위특검,‘담합’의혹투표지계수기업체2곳압수수색",
-  "<일요초대석>이형민대한응급의학의사회회장",
-  "김종철경찰청장후보자\"국무회의참석필요…수사중립성훼손없을...",
   "[속보]특검,'투표지계수기담합의혹'업체2곳압수수색",
   "수원시장측불법권리당원모집의혹,전공무원등영장청구",
   "국무회의가는경찰청장…후보자\"참석필요,수사독립성훼손없다\"",
@@ -6001,7 +5995,13 @@
   "변호사비·식비대납에금품제공의혹까지…전북교육감수사확대",
   "경찰은성매매결론…검사가포렌식해보니성폭행이었다",
   "'선거법위반의혹'신안군수동생집압수수색",
-  "장관욕심내다아파트몰수될처지...이혜훈,사기혐의로공소청송치"
+  "장관욕심내다아파트몰수될처지...이혜훈,사기혐의로공소청송치",
+  "[ESG칼럼]AI가부른전력수요폭증과그린워싱리스크",
+  "전국사무금융노조\"공정위PD담합과징금은행정폭력…즉각철회해야...",
+  "국고채담합1.6조과징금후폭풍...증권가,담합입증·산정기준다툰...",
+  "가상자산과세2년유예잠정합의…두나무매출96.9%플랫폼서발생",
+  "의료계,'소아응급실압수수색'유엔에진정…\"생명권위협\"",
+  "삼성바이오영업비밀유출혐의노조위원장송치…노조반발"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "구상금 애경산업 가습기살균제 SK케미칼 343억원 공방"
   ]
  ],
- "last_run": "2026-11-13T16:01:08.725948+09:00",
+ "last_run": "2026-11-13T16:10:55.103328+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
