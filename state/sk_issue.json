@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=579233&class=17",
-  "http://www.newsdream.kr/news/articleView.html?idxno=121700",
-  "https://www.inthenews.co.kr/news/article.html?no=94214",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=93180",
   "https://www.ilyosisa.co.kr/news/article.html?no=258837",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837236&plink=ORI&cooper=NAVER",
   "https://www.klnews.co.kr/news/articleView.html?idxno=323408",
@@ -2999,13 +2995,13 @@
   "https://www.seoul.co.kr/news/society/2026/11/13/20261113500289?wlog_tag3=naver",
   "https://www.ekn.kr/web/view.php?key=20261113028319541",
   "https://www.energydaily.co.kr/news/articleView.html?idxno=205094",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=625154"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=625154",
+  "https://www.sedaily.com/article/20114185",
+  "https://www.kmib.co.kr/article/20261113500501",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=45329",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41634"
  ],
  "seen_titles": [
-  "배민·쿠팡'최혜대우강요'에과징금6319억…양사\"위법성없다\"반발",
-  "쿠팡이츠\"와우매장은무료배달상생혁신…'최혜대우'위법판단부당...",
-  "배민-쿠팡,최혜대우요구혐의로각각3000억과징금…“위법성없다...",
-  "배달의민족·쿠팡이츠에총6300억원대과징금",
   "<단독>광고는발열,실제론보온?⋯‘기능성내의’불편한진실",
   "공정위,'갑질'배민·쿠팡에6천억대과징금…역대최대규모",
   "공정위,배민·쿠팡에6319억원과징금…'메뉴값·수수료까지통제'",
@@ -6001,15 +5997,23 @@
   "선거과정에서수고비제공의혹…경찰,천호성전북교육감소환",
   "국제감축3750만t목표에쏟아지는비판...“NDC워싱그만”",
   "\"한국국제감축정책,파리협정에부합하지않는다\"",
-  "﻿아시아나항공,지주회사규제유예2년연장…통합대한항공출범'숨..."
+  "﻿아시아나항공,지주회사규제유예2년연장…통합대한항공출범'숨...",
+  "압수수색녹화의무화에도…경찰,예산확보‘늑장’",
+  "응급실압수수색논란UN제소…“공권력만행에국가망신”",
+  "삼성바이오노조위원장,영업비밀유출혐의공소청송치…노조\"고소...",
+  "[담합망국]HD현대오일뱅크①\"전쟁으로먹고사는회사\"\"올해2조벌듯..."
  ],
  "recent_sigs": [
   [
    "2026-11-13T15:01:10.653020+09:00",
    "구상금 애경산업 가습기살균제 SK케미칼 343억원 공방"
+  ],
+  [
+   "2026-11-13T17:50:52.207706+09:00",
+   "2조 전쟁으로 HD현대오일뱅크 올해 먹고사는 벌듯 회사"
   ]
  ],
- "last_run": "2026-11-13T17:40:52.212314+09:00",
+ "last_run": "2026-11-13T17:51:01.941918+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6121,6 +6125,7 @@
   "ekoreanews.co.kr": "이코리아",
   "ilovepc.co.kr": "디지털포스트(PC사랑 AI 에디션)",
   "popcornnews.net": "팝콘뉴스",
-  "meconomynews.com": "시장경제신문"
+  "meconomynews.com": "시장경제신문",
+  "globale.co.kr": "글로벌E"
  }
 }
