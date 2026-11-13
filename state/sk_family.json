@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://ilyo.co.kr/?ac=article_view&entry_id=511611",
-  "https://biz.chosun.com/industry/company/2026/10/26/D3YUWZDWWRG6HDVNJR5FSA23VE/",
-  "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102302108.html",
   "http://www.inews24.com/view/2018591",
   "https://www.hg-times.com/news/articleView.html?idxno=305179",
   "https://economychosun.com/site/data/html_dir/2026/10/17/2026101700001.html",
@@ -2999,12 +2996,12 @@
   "https://www.huffingtonpost.kr/article/262063",
   "https://www.newspim.com/news/view/20261113000426",
   "https://www.electimes.com/news/articleView.html?idxno=374728",
-  "https://www.hani.co.kr/arti/economy/marketing/1287234.html"
+  "https://www.hani.co.kr/arti/economy/marketing/1287234.html",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1425015",
+  "https://www.smartbizn.com/news/articleView.html?idxno=159418",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592168462931"
  ],
  "seen_titles": [
-  "SK하이닉스,솔리다임IPO중단에도낸드투자지속…자금조달다변화...",
-  "경기청소년과함께하는매니페스토페스티벌",
-  "떠나는전설이이렇게강하다...은퇴선언한최민정,마지막시즌첫대...",
   "'마지막태극마크'최민정,3바퀴남기고2명연속추월...월드투어1차...",
   "'호남반도체클러스터'부터청년일자리까지…정진욱,지역경제해법...",
   "\"AI는흙을만져본적없다\"…노소영관장이말하는공예의가치",
@@ -6001,7 +5998,10 @@
   "'젠슨황공백'은삼성전자SK하이닉스에도대형악재일까:'엔비디아...",
   "엔비디아위기,삼성·SK엔기회…HBM공급망재편촉각",
   "[특별기고]정치의계산과기업의생존,어느환경·에너지공학자의생...",
-  "최태원“한일협력‘빅텐트’상설플랫폼준비”"
+  "최태원“한일협력‘빅텐트’상설플랫폼준비”",
+  "김해장애학생치유농업성과…\"자연과교감,스트레스해소\"",
+  "최태원,한일경제연대'3·5·10년로드맵'제시···민관아우르는'빅...",
+  "[CEO열전]최태원,한일경제연대'빅텐트'추진…AI·반도체·공급망협..."
  ],
  "recent_sigs": [
   [
@@ -6051,9 +6051,13 @@
   [
    "2026-11-13T15:30:24.543400+09:00",
    "위기 삼성 SK엔 기회 재편 HBM 엔비디아 공급망 촉각"
+  ],
+  [
+   "2026-11-13T15:50:13.833160+09:00",
+   "한일경제연대 빅텐트 반도체 공급망 AI"
   ]
  ],
- "last_run": "2026-11-13T15:40:23.513187+09:00",
+ "last_run": "2026-11-13T15:50:27.319061+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
