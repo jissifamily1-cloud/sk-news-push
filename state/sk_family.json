@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://economychosun.com/site/data/html_dir/2026/10/17/2026101700001.html",
-  "https://economist.co.kr/article/view/ecn202610190051",
-  "https://www.rapportian.com/news/articleView.html?idxno=241569",
-  "https://magazine.hankyung.com/business/article/202610203873b",
   "https://www.handmk.com/news/articleView.html?idxno=44431",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53947",
   "https://www.pressian.com/pages/articles/2026102608445139380",
@@ -2999,13 +2995,13 @@
   "https://www.smartbizn.com/news/articleView.html?idxno=159418",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592168462931",
   "https://biz.chosun.com/industry/company/2026/10/26/D3YUWZDWWRG6HDVNJR5FSA23VE/",
-  "https://www.newsis.com/view/NISX20261113_0003867337"
+  "https://www.newsis.com/view/NISX20261113_0003867337",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492107",
+  "https://www.catchnews.kr/news/articleView.html?idxno=130494",
+  "https://www.khan.co.kr/article/202611131537001",
+  "https://news.appstory.co.kr/itpeople19706"
  ],
  "seen_titles": [
-  "\"AI는흙을만져본적없다\"…노소영관장이말하는공예의가치",
-  "노소영관장기조연설⋯2026유네스코창의도시청주국제공예포럼성료",
-  "[D리포트]최민정,대표팀은퇴시즌첫레이스도금메달…압도적기량...",
-  "‘은퇴예고’쇼트트랙최민정,월드투어첫대회에서금메달",
   "'세계최강'한국인,그런데은퇴?최민정金메달따고서도\"내마지막...",
   "여자쇼트트랙최민정,월드투어여자1,000m금메달",
   "최민정,은퇴시즌첫월드투어서1,000m금·계주은합작",
@@ -6001,13 +5997,13 @@
   "최태원,한일경제연대'3·5·10년로드맵'제시···민관아우르는'빅...",
   "[CEO열전]최태원,한일경제연대'빅텐트'추진…AI·반도체·공급망협...",
   "SK,이르면이번주사장단인사…내달‘CEO세미나’서새경영진과‘...",
-  "최태원SK회장,韓日빅텐트플랫폼준비…\"산·학·연역량결집\""
+  "최태원SK회장,韓日빅텐트플랫폼준비…\"산·학·연역량결집\"",
+  "\"마늘장사씨름대회열기,겨울전지훈련으로잇는다\"…의성군,전국8개...",
+  "최태원SK회장\"한일경제연대실행할'빅텐트'플랫폼준비\"",
+  "‘AI제국’일군검은가죽재킷의사나이···33년만에막내린젠슨...",
+  "AI제국을세운엔비디아젠슨황,불명예스러운퇴진과그가남긴유산"
  ],
  "recent_sigs": [
-  [
-   "2026-11-13T10:00:31.979270+09:00",
-   "책임은 젠슨 변해도 사라지지 않는다 사랑은"
-  ],
   [
    "2026-11-13T10:40:13.807328+09:00",
    "이유 젠슨 일파만파 불륜녀 한국에도 세번째 불똥 등장"
@@ -6051,9 +6047,13 @@
   [
    "2026-11-13T15:50:13.833160+09:00",
    "한일경제연대 빅텐트 반도체 공급망 AI"
+  ],
+  [
+   "2026-11-13T16:10:16.512023+09:00",
+   "제국을 불명예스러운 유산 남긴 그가 AI 젠슨 퇴진과 엔비디아 세운"
   ]
  ],
- "last_run": "2026-11-13T16:00:39.418756+09:00",
+ "last_run": "2026-11-13T16:10:28.981875+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6444,6 +6444,7 @@
   "redaily.co.kr": "철도경제신문",
   "smarttimes.co.kr": "스마트타임스",
   "newsmap.co.kr": "뉴스맵",
-  "tleaves.co.kr": "더리브스"
+  "tleaves.co.kr": "더리브스",
+  "news.appstory.co.kr": "앱스토리"
  }
 }
