@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20261111181128Nvz",
-  "https://www.ekn.kr/web/view.php?key=20261111029548425",
-  "https://www.joongang.co.kr/article/25477746",
-  "https://www.newsis.com/view/NISX20261111_0003864365",
-  "https://www.ajunews.com/view/20261111141616232",
-  "https://www.fntimes.com/html/view.php?ud=202611100857294769b372994c95_18",
-  "https://www.segye.com/newsView/20261111517912?OutUrl=naver",
-  "https://www.fnnews.com/news/202611111827491409",
-  "https://www.g-enews.com/view.php?ud=202611111817377168fbbec65dfb_1",
   "https://www.busan.com/view/busan/view.php?code=2026111118212376073",
   "https://magazine.hankyung.com/job-joy/article/202611111130d",
   "https://www.nocutnews.co.kr/news/6605549",
@@ -2999,18 +2990,18 @@
   "https://www.insight.co.kr/news/580279",
   "http://www.dailypop.kr/news/articleView.html?idxno=103965",
   "https://www.newsis.com/view/NISX20261113_0003867002",
-  "https://www.newstnt.com/news/articleView.html?idxno=728289"
+  "https://www.newstnt.com/news/articleView.html?idxno=728289",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602068",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=210792",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000977",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281238",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147037",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=159139",
+  "https://www.hankyung.com/article/202611134539i",
+  "https://www.sedaily.com/article/20113952",
+  "https://www.fntimes.com/html/view.php?ud=202611121726155689141825007d_18"
  ],
  "seen_titles": [
-  "저가폰부품원가절반이상이메모리값…D램급등에제조사부담",
-  "SK하이닉스,학력제한없는생산직채용…파격적성과급에관심↑",
-  "['클릭'증시]'12월빅스텝'뚫은코어위브효과...AI투심되살아나",
-  "이통3사,동반성장지수나란히'최우수'…SKT14년·KT12년·LGU+8년연...",
-  "KISA는공공기관,금보원은사단법인...보안업계\"금융공격이따로있나...",
-  "프로야구SSG,비선수출신김성용운영담당선임…김재현단장과결별",
-  "SK바이오사이언스,증시조정속주가상승…실적개선주목",
-  "코스피,미긴축우려에도상승…코스닥5%급등",
-  "SK하이닉스-청주시,저소득가정위해김장나눔행사",
   "삼성반도체제조노하우,공공나노팹에푼다",
   "SK그룹CEO모은최태원…내년AI사업전략'밑작업'",
   "SKT,14년째상생평가'최고'…국내단2곳대기록",
@@ -6001,7 +5992,16 @@
   "한강뷰품은워커힐'더뷔페',리뉴얼3주년성과...누적이용객106만...",
   "SK그룹,2027년인사핵심은'경영안전성·실무형리더'...동남아총괄...",
   "젠슨황사퇴에과기정통부긴급점검회의…\"韓GPU26만장공급차질없...",
-  "[특징주]외국인'한온시스템·삼성전자',기관'삼성전자·루닛'순매수"
+  "[특징주]외국인'한온시스템·삼성전자',기관'삼성전자·루닛'순매수",
+  "[영상뉴스]젠슨황이쏘아올린주가급락...한국HBM공급망괜찮을까...",
+  "[분석]통신3사AI데이터센터가동본격화···수익성은?",
+  "JensenHuang'sexitdisruptsSouthKoreanchiefs'Nvidiaties",
+  "Huang'sExitPutsSouthKorea'sChipIndustryataCrossroads",
+  "SK그룹CEO세미나개막…리밸런싱넘어'AI풀스택'돌파구머리맞댄다",
+  "미국AI데이터센터지연,한국은연산수요를잡을수있나?",
+  "[단독]‘최고가보장'으로사준다…쏘카,중고차매입신사업",
+  "상위1%,이틀연속NAVER사들여[주식초고수는지금]",
+  "[DCM]5000억'빅딜'한국투자금융,13.7배'핫딜'GS[10월리뷰②]"
  ],
  "recent_sigs": [
   [
@@ -6991,9 +6991,21 @@
   [
    "2026-11-13T11:55:05.602430+09:00",
    "루닛 삼성전자 순매수 한온시스템 외국인 기관"
+  ],
+  [
+   "2026-11-13T12:01:16.076038+09:00",
+   "신사업 으로 중고차 매입 쏘카 보장 최고가 사준다"
+  ],
+  [
+   "2026-11-13T12:01:16.076038+09:00",
+   "이틀 상위 사들여 NAVER 연속"
+  ],
+  [
+   "2026-11-13T12:01:16.076038+09:00",
+   "빅딜 7배 GS 핫딜 5000억 한국투자금융"
   ]
  ],
- "last_run": "2026-11-13T11:55:12.120329+09:00",
+ "last_run": "2026-11-13T12:01:26.773392+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
