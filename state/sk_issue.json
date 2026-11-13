@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2645807",
-  "https://www.hankyung.com/article/2026110949387",
-  "https://www.joongangenews.com/news/articleView.html?idxno=562313",
-  "https://www.newsis.com/view/NISX20261109_0003860430",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229803",
-  "https://www.ytn.co.kr/_ln/0103_202611091343130784",
-  "https://www.thepowernews.co.kr/view.php?ud=202611091359103643de3f0aa1be_7",
-  "http://www.popcornnews.net/news/articleView.html?idxno=139228",
   "https://biz.chosun.com/distribution/food/2026/11/09/DN6WF3LEURGPPAB2MPOCBRJXPY/",
   "https://www.getnews.co.kr/news/articleView.html?idxno=886484",
   "https://www.ddaily.co.kr/page/view/2026110912350731374",
@@ -2999,17 +2991,17 @@
   "https://www.fnnews.com/news/202611131645119277",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=625147",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2313462",
-  "https://www.joongang.co.kr/article/25478433"
+  "https://www.joongang.co.kr/article/25478433",
+  "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111301704.html",
+  "https://www.bloter.net/news/articleView.html?idxno=678519",
+  "https://www.ceoscoredaily.com/page/view/2026111314385224670",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268773",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451997",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261113010005036",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390218.html",
+  "https://www.seoul.co.kr/news/society/2026/11/13/20261113500289?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "선관위특검,‘투표지계수기담합의혹’업체2곳압수수색",
-  "김종철\"경찰청장국무회의참석필요…독립성훼손없을것\"",
-  "김종철경찰청장후보자\"국무회의참석필요...수사중립성훼손없을...",
-  "특검,'투표지계수기담합의혹'관련업체2곳압수수색",
-  "선관위특검,투표지계수기업체'가격담합'정황포착",
-  "선관위특검,'담합혐의'투표지계수기업체압수수색",
-  "쿠팡이츠\"과징금600배차이,형평성어긋나\"…공정위제재에법적대...",
-  "쿠팡이츠,공정위3008억과징금에이의제기...산정기준쟁점",
   "배민3311억·쿠팡이츠3008억원과징금…양사“위법성없어”",
   "배민·쿠팡이츠,공정위6000억원과징금에\"위법성없다\"반박",
   "‘최혜대우요구제재’쿠팡이츠“3008억과징금은명백한이중잣대...",
@@ -6001,7 +5993,15 @@
   "\"국채사라더니담합처벌\"…사무금융노조,1.6조과징금철회촉구",
   "배민,3311억과징금이틀만에수수료공제확대",
   "정점식\"민주당'신천지의혹'특검추진…여당도수사받아야\"",
-  "與‘신천지갈등’에정점식“민주당을위한특검법추진하겠다”"
+  "與‘신천지갈등’에정점식“민주당을위한특검법추진하겠다”",
+  "“신생아땐조용한초음파,초등학교들어가면가열식”…아이있는...",
+  "CJ제일제당전분당매각'공회전'…담합과징금에본입찰일정표류",
+  "국고채담합과징금1.4조‘직격탄'…KB증권‘적자전환’·대신증권...",
+  "국고채과징금,증권사실적이어배당전망도낮췄다",
+  "아워홈용인2공장근로자사망사고책임자6명송치,안전덮개미설치...",
+  "아파트발코니서난데없는돈벼락…카자흐국영기업수사중현금더미...",
+  "경찰,'부정청약의혹'이혜훈송치…\"분양아파트'몰수'신청\"",
+  "선거과정에서수고비제공의혹…경찰,천호성전북교육감소환"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "구상금 애경산업 가습기살균제 SK케미칼 343억원 공방"
   ]
  ],
- "last_run": "2026-11-13T17:20:53.092856+09:00",
+ "last_run": "2026-11-13T17:31:04.295901+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
