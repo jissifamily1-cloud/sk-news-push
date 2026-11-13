@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6596513",
-  "https://www.newsis.com/view/NISX20261024_0003839498",
-  "https://www.joongang.co.kr/article/25472478",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553641733",
-  "https://www.wikitree.co.kr/articles/1168780",
-  "https://www.maniareport.com/view.php?ud=2026102412395376706cf2d78c68_19",
-  "https://www.seoultimes.news/news/article.html?no=2000101315",
-  "https://www.wikitree.co.kr/articles/1168791",
   "https://magazine.hankyung.com/business/article/202610242448b",
   "http://www.yonhapnewstv.co.kr/news/AKR20261024145414HGw",
   "https://www.pennmike.com/news/articleView.html?idxno=130212",
@@ -2999,17 +2991,17 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=124888",
   "https://www.livebiz.today/news/articleView.html?idxno=206479",
   "http://www.yonhapnewstv.co.kr/news/AKR20261113092056KKj",
-  "https://www.hankyung.com/article/2026111344286"
+  "https://www.hankyung.com/article/2026111344286",
+  "https://www.inthenews.co.kr/news/article.html?no=94464",
+  "https://www.kukinews.com/article/view/kuk202611130027",
+  "https://www.viva100.com/article/20261113500119",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5046819",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451920",
+  "https://biz.heraldcorp.com/article/10935900",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=887036",
+  "https://www.newsis.com/view/NISX20261113_0003866609"
  ],
  "seen_titles": [
-  "공소청,'노태우비자금의혹'이병기前의전비서관참고인조사",
-  "공소청,'노태우비자금의혹'이병기전靑의전비서관소환",
-  "SK하이닉스,솔리다임IPO중단…美신규팹자금조달과제로",
-  "주주반발·중복상장논란에솔리다임상장중단…증설재원마련은과...",
-  "“거짓말하면코가길어진다고?”…무대에서다시태어난피노키오",
-  "[재계인사이드]이재용회장,삼성물산직접경영여부에재계관심고...",
-  "솔리다임상장,시동잠시'홀딩'…최적타이밍노리는최태원",
-  "SK하이닉스,솔리다임IPO중단…최태원SK회장다음선택은뭘까",
   "한국투자증권,구조화금융강자…SK·한화·두산PRS잇따라참여",
   "공소청,'노태우비자금의혹'이병기前비서관참고인소환",
   "[마켓H]솔리다임논란봉합…최태원,SK하닉'반토막'원망벗을까?",
@@ -6001,7 +5993,15 @@
   "최태원\"한일경제연대위한'빅텐트'상설협력플랫폼준비\"",
   "최태원\"한일경제연대추진'빅텐트'플랫폼준비...3·5·10년실행계획...",
   "최태원\"한일경제연대추진'빅텐트'플랫폼준비\"",
-  "삼전닉스,'깐부'젠슨황사임에도장초반3~4%대'강세'"
+  "삼전닉스,'깐부'젠슨황사임에도장초반3~4%대'강세'",
+  "한일학술기관,경제연대강화위한중장기로드맵제시…2045년까지협...",
+  "씨름열기이어가는의성군…마늘장사대회성황속전국선수단전지훈...",
+  "경북의성군,민속씨름대회성공적개최로스포츠도시입지강화",
+  "최태원,한일경제연대'빅텐트'띄운다…3·5·10년로드맵제안",
+  "최태원\"한일경제연대비전넘어실행으로\",상설협력플랫폼구축추...",
+  "최태원SK회장,韓日경제연대역량결집할‘빅텐트’플랫폼제시",
+  "'한일경제연대전도사'SK그룹최태원회장,이번엔\"'빅텐트'형상설협...",
+  "젠슨황사임에엔비디아'깐부주'희비…삼성전기·현대차↑네이버↓"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,13 @@
   [
    "2026-11-13T09:30:27.562601+09:00",
    "사임에도 깐부 강세 초반 삼전닉스 젠슨"
+  ],
+  [
+   "2026-11-13T09:40:15.216814+09:00",
+   "사임에 깐부주 엔비디아 젠슨 희비 네이버 삼성전기 현대차"
   ]
  ],
- "last_run": "2026-11-13T09:30:43.445480+09:00",
+ "last_run": "2026-11-13T09:40:27.144776+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
