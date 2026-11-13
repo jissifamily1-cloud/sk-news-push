@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3447937",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718937",
-  "https://www.news1.kr/sports/baseball/6351552",
-  "https://news.tf.co.kr/read/economy/2387869.htm",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=270706",
   "https://www.lawtv.kr/news/articleView.html?idxno=61395",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=320386",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=300289",
@@ -2999,14 +2994,14 @@
   "https://www.theguru.co.kr/news/article.html?no=109741",
   "https://www.seoul.co.kr/news/economy/2026/11/14/20261114500005?wlog_tag3=naver",
   "https://view.asiae.co.kr/article/2026111315530161256",
-  "https://www.nocutnews.co.kr/news/6606816"
+  "https://www.nocutnews.co.kr/news/6606816",
+  "https://www.mediapen.com/news/view/1137474",
+  "https://www.etoday.co.kr/news/view/2648130",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504016",
+  "https://www.fnnews.com/news/202611140642023929",
+  "https://www.bntnews.co.kr/article/view/bnt202611140018"
  ],
  "seen_titles": [
-  "SKT,침해사고이후'성실성'평가하락폭90%회복",
-  "주민번호무단수집하고개인정보방치...알뜰폰8곳제재",
-  "알뜰폰·삼양그룹·에듀테크,개인정보관리부실로'무더기제재'",
-  "상장준비양쯔·HBM양산채비창신,낸드는삼전닉스턱밑·HBM은아직",
-  "프로야구SSG,김민식·류효승등5명방출…선수단재정비",
   "최태원회장·CEO총출동…SK그룹,2박3일'AI집중토론'시작",
   "SK인텔릭스,'2026동반성장지수'우수등급...231개사중점수상승폭...",
   "엔비디아리더십불확실성에미국규제변수까지...삼전·SK하닉'이중...",
@@ -6001,7 +5996,12 @@
   "[통신리뷰]LG유플러스,韓제조기업글로벌데이터공급망진입돕는다...",
   "[서울데이터랩]다우소폭상승,나스닥약세…반도체주급락에기술주...",
   "[AI세계속으로]젠슨황떠난AI시장…투자·협력생태계시험대",
-  "\"대체불가AI리더\"젠슨황의몰락…'깐부동맹'韓산업계도긴장"
+  "\"대체불가AI리더\"젠슨황의몰락…'깐부동맹'韓산업계도긴장",
+  "[美증시]엔비디아불안·반도체급락나스닥조정…전통주순환매에다...",
+  "NYT“젠슨황퇴진에아시아AI대사잃었다”⋯한국우려조명",
+  "국제유가4분기공급과잉전망…대한항공·제주항공반등기회오나",
+  "[뉴욕증시]기술주약세속다우지수만0.1%상승…엔비디아,낙폭2%로...",
+  "젠슨황후임누구…르네하스유력"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,21 @@
   [
    "2026-11-14T06:41:08.003203+09:00",
    "젠슨황의 AI리더 몰락 깐부동맹 긴장 대체불가 산업계도"
+  ],
+  [
+   "2026-11-14T06:50:58.393621+09:00",
+   "공급 국제유가 기회 오나 전망 반등 제주항공 과잉 4분기 대한항공"
+  ],
+  [
+   "2026-11-14T06:50:58.393621+09:00",
+   "낙폭 엔비디아 다우지수만 상승 기술주 약세"
+  ],
+  [
+   "2026-11-14T06:50:58.393621+09:00",
+   "르네하스 누구 젠슨 후임 유력"
   ]
  ],
- "last_run": "2026-11-14T06:41:13.563018+09:00",
+ "last_run": "2026-11-14T06:51:09.402099+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
