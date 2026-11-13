@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842057&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865047_37012.html",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=63289",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=210766",
   "https://biz.sbs.co.kr/article_hub/20000345848?division=NAVER",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082261",
   "https://www.etoday.co.kr/news/view/2647106",
@@ -2999,13 +2995,13 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=305027",
   "https://www.tokenpost.kr/news/tech/437810",
   "http://www.00news.co.kr/news/articleView.html?idxno=108046",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712340"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712340",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492373",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444731",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5230776",
+  "https://www.hankookilbo.com/news/article/A2026111314540000869?did=NA"
  ],
  "seen_titles": [
-  "\"엔비디아이사회,젠슨황CEO해임준비\"",
-  "코어위브훈풍에뉴욕증시일제히상승",
-  "LG,SK에29점차대승…공동5위도약",
-  "뉴욕발반도체주훈풍‥국장상승세이어갈까",
   "수출사상최대인데,韓제조업허리는왜약해지나",
   "[분석]휴머노이드용이차전지키운다···K배터리새승부처",
   "[애프터마켓리뷰]PCB관련주전반적강세…티엘비상한가",
@@ -6001,7 +5997,11 @@
   "\"스페이스X평가손실에휘청인미래에셋증권…3분기적자전환속'1.4조...",
   "국내HBM협상력,젠슨황사임뒤커질가능성",
   "['클릭'증시]젠슨황공백이부를AI지형대격변초읽기",
-  "‘엔비디아생태계’발들인한국기업들영향은?"
+  "‘엔비디아생태계’발들인한국기업들영향은?",
+  "SK바이오팜뇌전증신약'세노바메이트',일본시장진출",
+  "[亞증시-종합]젠슨황사임속日·臺↑…中·홍콩은↓",
+  "[뉴스추적]33년천하4일만에무너져…'깐부동맹'문제없나?",
+  "\"온종일전화기붙잡고일해\"…'MS먹통대란'에직장인들발동동"
  ],
  "recent_sigs": [
   [
@@ -6839,9 +6839,13 @@
   [
    "2026-11-13T19:11:10.955176+09:00",
    "생태계 발들인 한국 엔비디아 영향은 기업들"
+  ],
+  [
+   "2026-11-13T19:20:59.863645+09:00",
+   "먹통 붙잡고 동동 온종일 일해 MS 전화기 직장인들 대란"
   ]
  ],
- "last_run": "2026-11-13T19:11:19.924776+09:00",
+ "last_run": "2026-11-13T19:21:05.857866+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
