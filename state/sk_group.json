@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=2026111118483946704c878f8fa1_30",
-  "https://www.newspim.com/news/view/20261111001526",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261112.22018003220",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=882402",
-  "https://www.joongboo.com/news/articleView.html?idxno=363742124",
-  "https://econotimes.com/Korea-Herald-Reports-Foreign-Brokerages-Asked-About-Possible-South-Korean-Short-Selling-Ban-1775129",
-  "http://www.hellodd.com/news/articleView.html?idxno=113847",
-  "http://www.hellodd.com/news/articleView.html?idxno=113834",
   "https://www.yna.co.kr/view/PYH20261111206100052?input=1196m",
   "https://www.yna.co.kr/view/PYH20261111205500052?input=1196m",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261112.22009003566",
@@ -2999,17 +2991,17 @@
   "https://www.joongang.co.kr/article/25478367",
   "https://www.gobalnews.com/news/articleView.html?idxno=203101",
   "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/",
-  "http://www.breaknews.com/1250780"
+  "http://www.breaknews.com/1250780",
+  "https://www.mydaily.co.kr/page/view/2026111310045151568",
+  "https://www.mydaily.co.kr/page/view/2026111310492038679",
+  "http://www.yonhapnewstv.co.kr/news/MYH2026111313054382k",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=366117",
+  "https://www.naeil.com/news/read/608712",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=883034",
+  "https://www.naeil.com/news/read/608756",
+  "https://www.etoday.co.kr/news/view/2647827"
  ],
  "seen_titles": [
-  "코스피·코스닥‘매수사이드카’…“AI·반도체주가낙폭과도”",
-  "엔비디아‘젠슨황리스크’에…韓반도체셈법‘복잡’",
-  "[어린이뉴스]아동43.4%“온라인피해책임은아동본인에게”...안전...",
-  "장동혁,한동훈제명논란정면대응…오세훈'비대위론'에도반격",
-  "TSMCInvests$1BillioninOpenAI,Anthropic",
-  "\"호남팹임단협하자\"…정부안중없는삼전노조",
-  "中낸드1위YMTC,증시부진에도IPO추진…내년상장목표",
-  "[웜업터뷰]조상현감독이강조한것“힉스,파울활용해막아야한다...",
   "저가폰덮친‘메모리쇼크’…원가절반넘겼다",
   "성과급얼마길래…학력제한뗀SK하이닉스,하반기생산직채용",
   "네이버등44곳동반성장‘최우수’…기업·우리은행은상생금융우수",
@@ -6001,7 +5993,15 @@
   "“메모리주,이게삼전닉스보다낫다”48000%번그의원픽",
   "충청권메가프로젝트첫삽…민주당\"전폭지원\"",
   "한국가스공사,LNG선화물창결함에2684억원배상…2심서800억원늘어",
-  "이재명대통령,한국거래소방문\"주식시장우상향희망..전체시장냉각..."
+  "이재명대통령,한국거래소방문\"주식시장우상향희망..전체시장냉각...",
+  "[오피셜]'박정권결별'SSG,'17년원클럽맨'박재상에게2군감독맡긴...",
+  "최태원,SK새경영진과AI수익화점검…사업재편성과낼때",
+  "[경제읽기]젠슨황결국불명예퇴진…AI반도체사업영향은",
+  "SK바이오팜세노바메이트,일본출시",
+  "충청권지방정부,빨라진메가프로젝트",
+  "삼성의46조승부수…HBM전쟁'후공정'에달렸다",
+  "젠슨황퇴진,글로벌AI시장지각변동예고",
+  "젠슨황퇴진에HBM4E개발변수…삼성·SK,기술협력시험대"
  ],
  "recent_sigs": [
   [
@@ -6875,9 +6875,21 @@
   [
    "2026-11-13T13:01:15.774474+09:00",
    "우상향 주식시장 전체 냉각 대통령 시장 방문 희망 한국거래소 이재명"
+  ],
+  [
+   "2026-11-13T13:10:59.297681+09:00",
+   "46조 승부수 후공정 달렸다 삼성의 전쟁 HBM"
+  ],
+  [
+   "2026-11-13T13:10:59.297681+09:00",
+   "AI 글로벌 젠슨 지각변동 예고 시장 퇴진"
+  ],
+  [
+   "2026-11-13T13:10:59.297681+09:00",
+   "기술협력 젠슨 HBM4E 변수 퇴진에 시험대 삼성 개발"
   ]
  ],
- "last_run": "2026-11-13T13:01:30.321756+09:00",
+ "last_run": "2026-11-13T13:11:10.121669+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
