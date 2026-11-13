@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12184382",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3730977",
-  "https://www.hankyung.com/article/2026102318261",
-  "https://www.munhwa.com/article/11625852",
   "https://www.hankyung.com/article/2026102318411",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=900561",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6860330_37004.html",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/industry/general-industry/6352774",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=300644",
   "https://www.ekn.kr/web/view.php?key=20261113029489199",
-  "https://www.edaily.co.kr/News/Read?newsId=02499366645645392&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02499366645645392&mediaCodeNo=257",
+  "http://www.inews24.com/view/2025784",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5031215",
+  "https://www.greened.kr/news/articleView.html?idxno=354544",
+  "https://www.yna.co.kr/view/AKR20261113032900003?input=1195m"
  ],
  "seen_titles": [
-  "'이혼'서인영\"혼전계약서안쓴것,땅치고후회\"(유행꼰대)",
-  "최태원\"샀다팔았다하지말라\"더니…팔수없게된SK하닉",
-  "서인영,'이별위자료'얘기에급발진\"아예안주는사람도있어...혼인...",
-  "거버넌스포럼\"SK하이닉스,솔리다임美상장중단환영\"",
   "동명대축구부,제107회전국체전우승…부산대학축구34년만의금메...",
   "상장접은솔리다임…꼬여버린SK셈법",
   "솔리다임IPO멈춘SK...최태원식'성장셈법'",
@@ -6001,7 +5997,11 @@
   "최태원회장\"한일경제연대,3·5·10년구체적실행계획세워야\"",
   "최종현학술원,한일경제연대20년로드맵제안…\"CPTPP부터가입\"",
   "최태원‘한일경제연대’실행구상…에너지공동조달·AI·반도체함께...",
-  "최태원\"한일경제연대,비전넘어실행으로\"…'빅텐트'협력플랫폼추..."
+  "최태원\"한일경제연대,비전넘어실행으로\"…'빅텐트'협력플랫폼추...",
+  "최태원,한일경제연대'3·5·10년'구상제시…'빅텐트'추진",
+  "[정해균의Zoom-人]'각양강색'전문경영인부회장...사업총괄부터회장...",
+  "SK그룹,3일간CEO세미나개최…AI협력·사업재편성과점검",
+  "최태원\"한일경제연대추진역량결집할'빅텐트'플랫폼준비\""
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-13T08:40:14.389900+09:00",
    "실행 전략 한일경제연대 제안 제시 10년 협력 목표"
+  ],
+  [
+   "2026-11-13T09:00:32.414400+09:00",
+   "빅텐트 역량 한일경제연대 플랫폼 결집할 준비"
   ]
  ],
- "last_run": "2026-11-13T08:50:24.871486+09:00",
+ "last_run": "2026-11-13T09:00:43.085818+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
