@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082336",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444376",
-  "https://view.asiae.co.kr/article/2026111210183951625",
-  "http://www.finomy.com/news/articleView.html?idxno=266435",
-  "https://biz.chosun.com/policy/politics/president_office/2026/11/12/UCPVTY6KFNCORG7OKZDJNVOSGY/",
   "http://www.yonhapnewstv.co.kr/news/MYH20261112101558n3z",
   "https://www.dailian.co.kr/news/view/1714080/?sc=Naver",
   "http://www.yonhapnewstv.co.kr/news/MYH2026111210165427l",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1714807/?sc=Naver",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=94166",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=94167",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504024"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504024",
+  "https://www.m-economynews.com/news/article.html?no=73028",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140003&t=NN",
+  "https://www.slist.kr/news/articleView.html?idxno=781590",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=887170",
+  "https://www.edaily.co.kr/News/Read?newsId=02033606645645720&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "법적근거없이주민번호처리…알뜰폰사업자에1억원대과태료",
-  "[공식]‘우승포수-우타거포떠난다’SSG,김민식류효승김창평등...",
-  "SKT성실한위기대응으로고객신뢰회복안착",
-  "끊임없는네고물결…환시시선은'사상첫1조달러'수출지표에",
-  "SK인텔릭스,2026동반성장지수'우수'등급",
   "코스피,美AI·반도체훈풍에'강보합'···5400선",
   "李,이재용회장과충남아산서‘충청권메가프로젝트’착공식참석",
   "[뉴스초점]젠슨황사내불륜추가의혹…\"이사회,해임준비\"",
@@ -6001,7 +5996,12 @@
   "\"젠슨황스캔들에날벼락\"…엔비디아ETF투자자'비명'",
   "[분석]젠슨황퇴진…AI투자·미중칩갈등·韓반도체에파장",
   "[뉴욕증시마감]엔비디아發기술주매도…나스닥0.91%↓",
-  "4년만에가장뜨거운미국물가…한국증시외국인수급흔드나"
+  "4년만에가장뜨거운미국물가…한국증시외국인수급흔드나",
+  "뉴욕증시,엔비디아스캔들여파에혼조...나스닥0.91%하락",
+  "뉴욕증시혼조마감…젠슨황스캔들여파에나스닥0.9%↓",
+  "뉴욕증시혼조마감…엔비디아하락세지속'2%↓'",
+  "뉴욕증시,혼조마감...엔비디아2%↓하락지속",
+  "美민주당압승·젠슨황논란,반도체벨트집값안심할수없다[손바닥..."
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,17 @@
   [
    "2026-11-14T07:31:09.129179+09:00",
    "미국 증시 물가 만에 흔드나 4년 뜨거운 가장 외국인 수급 한국"
+  ],
+  [
+   "2026-11-14T07:40:58.892905+09:00",
+   "지속 마감 혼조 뉴욕증시 엔비디아 하락"
+  ],
+  [
+   "2026-11-14T07:40:58.892905+09:00",
+   "반도체벨트 압승 논란 없다 집값 안심할 손바닥 민주당 젠슨"
   ]
  ],
- "last_run": "2026-11-14T07:31:14.970130+09:00",
+ "last_run": "2026-11-14T07:41:07.619951+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
