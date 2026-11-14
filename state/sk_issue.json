@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044406",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261109150328D8o",
   "https://imnews.imbc.com/news/2026/society/article/6864267_36918.html",
   "https://www.wikitree.co.kr/articles/1173121",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730953",
@@ -2999,11 +2997,11 @@
   "https://www.etnews.com/20261114000034",
   "https://www.news1.kr/society/court-prosecution/6353765",
   "https://www.newsis.com/view/NISX20261113_0003867795",
-  "https://www.g-enews.com/view.php?ud=2026111422591594970c8c1c064d_1"
+  "https://www.g-enews.com/view.php?ud=2026111422591594970c8c1c064d_1",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311694",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450904"
  ],
  "seen_titles": [
-  "소아응급의학회\"국적논란·경찰대립,본질아니다\"",
-  "'노조탈퇴강요'혐의…서산자동차제조업체압수수색",
   "'선관위'특검,투표지계수기담합정황포착‥업체압수수색",
   "[건강꿀팁]베개를높이기전에'테니스공'부터달아라,옆으로눕게된...",
   "배민·쿠팡,6300억원대과징금에반발…\"위법성없다\"",
@@ -6001,10 +5999,17 @@
   "숲속땅파헤치니현금261억무더기발견…헝가리前장관뇌물?",
   "반환점도는선관위특검,'윗선'겨눈다…본격신병확보채비",
   "김종철청문회D-3…재개발투기의혹·수사개혁검증대",
-  "\"압수한BYD설계문서파기하라\"…네덜란드법원,재규어랜드로버에..."
+  "\"압수한BYD설계문서파기하라\"…네덜란드법원,재규어랜드로버에...",
+  "[10년전그날]朴,대기업총수추가독대…K스포츠재단지원요청논...",
+  "[WhoIs?]이장섭롯데렌탈대표이사"
  ],
- "recent_sigs": [],
- "last_run": "2026-11-15T06:50:50.676017+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-15T07:01:07.437831+09:00",
+   "대표이사 이장섭 롯데렌탈"
+  ]
+ ],
+ "last_run": "2026-11-15T07:01:13.489246+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
