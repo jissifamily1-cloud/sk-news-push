@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=326282",
-  "https://www.dkilbo.com/news/articleView.html?idxno=560480",
-  "https://www.newsis.com/view/NISX20261112_0003865134",
   "https://mhnse.com/news/articleView.html?idxno=1693818",
   "https://www.nocutnews.co.kr/news/6605793",
   "http://www.ttlnews.com/news/articleView.html?idxno=3161611",
@@ -2999,12 +2996,12 @@
   "https://www.viewsnnews.com/article?q=239695",
   "https://www.joongangenews.com/news/articleView.html?idxno=563843",
   "https://www.joongangenews.com/news/articleView.html?idxno=563842",
-  "https://www.segye.com/newsView/20261113510411?OutUrl=naver"
+  "https://www.segye.com/newsView/20261113510411?OutUrl=naver",
+  "https://www.econovill.com/news/articleView.html?idxno=757252",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=54724",
+  "https://www.thebk.co.kr/news/articleView.html?idxno=312803"
  ],
  "seen_titles": [
-  "SKT,해킹사고이후성실성평가90%회복…유심교체등대응호평",
-  "[개장시황]코스피·코스닥,장초반출렁임속5,390선과700선공방",
-  "SKT,동반성장지수14년연속'최우수'…국내기업중단2곳",
   "영남이공대,21개기업채용설명회…취업경쟁력강화",
   "이대통령\"충청·호남·영남투자계획차질없이추진…끝까지챙길것...",
   "[오피셜]'충격'KBO대표우승포수의방출…3살많은이지영도살아남...",
@@ -6001,7 +5998,10 @@
   "엔비디아또2%하락.시총4조달러붕괴",
   "11월2주차SK스퀘어주가70만원대중후반마감",
   "최근5거래일SK텔레콤주가7만원대에서8만원대상승",
-  "SK이노베이션E&S,인니AX·에너지분야청년창업가발굴나선다"
+  "SK이노베이션E&S,인니AX·에너지분야청년창업가발굴나선다",
+  "젠슨황떠난엔비디아후폭풍\"경영공백ㆍ공급망불안\"",
+  "뉴욕증시혼조…반도체주약세에나스닥0.9%↓",
+  "2026광군제뷰티시장8.2%성장…더후·설화수스킨케어1·2위수성"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-11-14T11:51:04.918880+09:00",
    "창업가 분야 인니 SK이노베이션 나선다 청년 발굴 AX 에너지"
+  ],
+  [
+   "2026-11-14T12:01:25.010405+09:00",
+   "광군제 성장 스킨케어 2위 시장 뷰티 수성 설화수 더후"
   ]
  ],
- "last_run": "2026-11-14T11:51:11.450171+09:00",
+ "last_run": "2026-11-14T12:01:30.546314+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
