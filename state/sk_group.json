@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=579493&class=17",
-  "https://www.dt.co.kr/article/12094763",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16274606",
-  "https://www.youthdaily.co.kr/news/article.html?no=229728",
   "https://www.mydaily.co.kr/page/view/2026111210292029501",
   "https://www.etoday.co.kr/news/view/2647284",
   "https://www.edaily.co.kr/News/Read?newsId=02791286645645064&mediaCodeNo=257",
@@ -2999,13 +2995,13 @@
   "https://www.imaeil.com/page/view/2026111408593314627",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504043",
   "https://www.ddaily.co.kr/page/view/2026111408535993745",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504044"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504044",
+  "https://economist.co.kr/article/view/ecn202611140001",
+  "https://www.jasm.co.kr/news/view/325241/?sc=Naver",
+  "https://www.tfmedia.co.kr/news/article.html?no=208886",
+  "https://www.peoplewatch.co.kr/article/view/ppw202611130010"
  ],
  "seen_titles": [
-  "[건설업계동향]GS건설ㆍ남광토건ㆍLH(11.12)",
-  "판커진3차ESS입찰마감...출혈경쟁대신실속수주전망",
-  "美서10%뛴SK하이닉스,국내선되레하락하는이유[칩칩폭폭]",
-  "개인정보위,알뜰폰8개사개인정보보호법위반적발…총1억7130만원제...",
   "SSG랜더스,베테랑포수김민식포함5명과결별…코치4명도재계약포...",
   "SSG랜더스선수단개편…김민식·류효승등5명방출",
   "젠슨황이르면오늘해임논의…삼성·SK하이닉스‘촉각’",
@@ -6001,7 +5997,11 @@
   "李\"골깊으면산도높아\"…국민의힘\"개미들은피눈물,한가한낙관론...",
   "기술수출기대에웃은바이오주…제약업종옥석가리기본격화",
   "배경훈“젠슨황떠나도GPU동맹문제없어…26만장공급약속유지”",
-  "SK증권\"3분기이어4분기도최대실적도전…코세스성장속도빨라진..."
+  "SK증권\"3분기이어4분기도최대실적도전…코세스성장속도빨라진...",
+  "엔비디아또,'스캔들이후13%급락'시총4조달러아래로",
+  "'AI황제'사라진엔비디아…'깐부'한국과사업변화생기나",
+  "\"젠슨황몰락으로아시아'AI대사'잃어\"...NYT,韓수백조공동사업조...",
+  "[김종운의숲에서배우다]⑨잿더미아래살아숨쉬는기억'숲의천이..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-11-14T09:31:11.395778+09:00",
    "성장 SK증권 빨라진 속도 도전 실적 이어 4분기도 3분기 코세스"
+  ],
+  [
+   "2026-11-14T09:41:03.207282+09:00",
+   "잿더미 아래 숨쉬는 천이 기억 살아 숲의"
   ]
  ],
- "last_run": "2026-11-14T09:31:19.576277+09:00",
+ "last_run": "2026-11-14T09:41:08.532264+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
