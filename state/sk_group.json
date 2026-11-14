@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=728079",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731386",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281118",
-  "https://www.newspim.com/news/view/20261112000632",
-  "https://www.newsis.com/view/NISI20261112_0021530287",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710945",
   "https://www.mydaily.co.kr/page/view/2026111210254330241",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=902866",
@@ -2999,14 +2994,14 @@
   "https://www.newspim.com/news/view/20261114000073",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504070",
   "https://www.ekn.kr/web/view.php?key=20261114022329680",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/14/2026111490053.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/14/2026111490053.html",
+  "https://m.sports.naver.com/basketball/article/065/0000304604",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845969&plink=ORI&cooper=NAVER",
+  "https://www.ddaily.co.kr/page/view/2026111316131853035",
+  "https://www.insight.co.kr/news/582071",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504071"
  ],
  "seen_titles": [
-  "[특징주]심텍홀딩스,3분기영업이익4000%폭증·반도체기판훈풍에...",
-  "[특징주]외국인'삼성전자·모아라이프플러스',기관'심텍홀딩스·티...",
-  "SK하이닉스재무버팀목으로…그룹곳곳에'현금낙수효과'",
-  "YMTCPressesAheadWithQ12027IPO,Seeking$4.7Billion",
-  "노동부,'AI시대새로운사회계약녹서'위한국민의견듣는다",
   "경청하는염성진SK하이닉스커뮤니케이션총괄사장",
   "[무등의아침]전남광주반도체전력·용수공급계획속속구체화…동...",
   "[공식발표]'반지2개'우승포수+26세애증의2차1번유망주도떠난다...",
@@ -6001,13 +5996,14 @@
   "[프로농구]허웅4쿼터에만11점펄펄...KCC,SK잡고4연승",
   "켄코아에어로스페이스상승률선두…UAM관련주투자열기확산",
   "MS서비스장애전세계70여개국강타···금융·행정업무까지‘마비’",
-  "SK디스커버리,3분기매출3.4조원…지주사출범이후최대"
+  "SK디스커버리,3분기매출3.4조원…지주사출범이후최대",
+  "12점우위못지킨조상현감독“문제는집중력과리바운드”",
+  "KCC,SK꺾고4연승…허웅,4쿼터서'펄펄'",
+  "어질어질한국증시…올해사이드카·서킷브레이커얼마나발동됐나[...",
+  "10년모은4억이1억으로...반도체레버리지에'올인'한30대의눈물",
+  "전력부족에데이터센터까지…지엔씨에너지·케이아이엔엑스주목"
  ],
  "recent_sigs": [
-  [
-   "2026-11-14T11:01:13.445875+09:00",
-   "SK도 공장 삼성 사정권 중국에"
-  ],
   [
    "2026-11-14T11:11:02.285234+09:00",
    "젠슨 의회 권력 떠났다 다음 바뀌고"
@@ -6203,9 +6199,21 @@
   [
    "2026-11-14T16:51:01.578027+09:00",
    "출범 매출 3분기 4조원 지주사 SK디스커버리 이후"
+  ],
+  [
+   "2026-11-14T17:01:14.369156+09:00",
+   "어질어질 사이드카 한국 올해 얼마나 증시 발동됐나 브레이커 서킷"
+  ],
+  [
+   "2026-11-14T17:01:14.369156+09:00",
+   "1억으로 모은 10년 반도체 4억이 레버리지에 올인 30대의 눈물"
+  ],
+  [
+   "2026-11-14T17:01:14.369156+09:00",
+   "지엔씨에너지 케이아이엔엑스 데이터센터까지 전력 부족에 주목"
   ]
  ],
- "last_run": "2026-11-14T16:51:12.582582+09:00",
+ "last_run": "2026-11-14T17:01:25.295325+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
