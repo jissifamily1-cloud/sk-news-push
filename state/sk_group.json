@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261112076500017?input=1195m",
-  "https://www.mt.co.kr/tech/2026/11/12/2026111209554393805",
   "https://it.chosun.com/news/articleView.html?idxno=3000000000824",
   "https://www.ibabynews.com/news/articleView.html?idxno=156830",
   "https://daily.hankooki.com/news/articleView.html?idxno=1424471",
@@ -2999,11 +2997,11 @@
   "https://www.cnbizm.com/news/articleView.html?idxno=321535",
   "https://www.ikbc.co.kr/article/view/kbc202611140043",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553700704",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504104"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504104",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2374209",
+  "https://biz.heraldcorp.com/article/10937134"
  ],
  "seen_titles": [
-  "용인시,반도체산업탄소중립·미래도시실행계획구체화",
-  "[AI프리즘]인텔,한국23개사와AI동맹…'AI주권'강화나선다",
   "인텔,국내23개사와'K-AI풀스택얼라이언스'출범…생태계협력확대",
   "TelcoOperatorsAccelerateSubmarineCableExpansionintheAIEra",
   "[ESG트렌드]티더블유에스(TWS),체계적다회용기세척시스템으로친환...",
@@ -6001,7 +5999,9 @@
   "[현장]\"K뷰티에경계는없다\"…국적·세대넘나든'컬리뷰티페스타202...",
   "반도체'2030년양산'첫발...과제는용수·컨트롤타워",
   "\"고액연봉,꼬리표처럼따라다녀\"...'韓국가대표수비수'김민재,맹활...",
-  "아리바이오랩급등에현대바이오도강세…코로나19테마재부각"
+  "아리바이오랩급등에현대바이오도강세…코로나19테마재부각",
+  "[ESG]세람저축은행김장후원·HD현대오일뱅크장학금1억3000만원…KB손...",
+  "“240만원→80만원,절망입니다”하이닉스보다더심하다…한달새‘..."
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,17 @@
   [
    "2026-11-14T21:41:05.679933+09:00",
    "테마 급등에 현대바이오도 코로나19 아리바이오랩 재부각 강세"
+  ],
+  [
+   "2026-11-14T21:50:54.148543+09:00",
+   "장학금 1억3000만원 후원 KB손 김장 세람저축은행 HD현대오일뱅크"
+  ],
+  [
+   "2026-11-14T21:50:54.148543+09:00",
+   "절망입니다 하이닉스보다 240만원 한달 80만원 심하다"
   ]
  ],
- "last_run": "2026-11-14T21:41:11.360455+09:00",
+ "last_run": "2026-11-14T21:51:02.637655+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
