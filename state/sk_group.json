@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=731232",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563184",
-  "https://www.munhwa.com/article/11630839",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004734",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=32048",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710967",
   "http://www.newsbrite.net/news/articleView.html?idxno=201434",
   "http://www.newsprime.co.kr/news/article.html?no=754692",
@@ -2999,14 +2994,14 @@
   "http://www.osen.co.kr/article/G1112910149",
   "https://www.newsis.com/view/NISX20261114_0003868162",
   "https://biz.heraldcorp.com/article/10936916",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2374403"
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2374403",
+  "https://sports.khan.co.kr/article/202611141841003?pt=nv",
+  "https://www.yna.co.kr/view/AKR20261114038651007?input=1195m",
+  "https://www.fnnews.com/news/202611141829315350",
+  "http://www.yonhapnewstv.co.kr/news/MYH2026111418485964a",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559969"
  ],
  "seen_titles": [
-  "이숭용이기대했던'거포유망주'류효승,고질적부상에은퇴결심…김...",
-  "과징금에실적부담커지는국고채담합증권사들…재무영향은제각각",
-  "SKT,사이버침해사고이후고객신뢰회복속도…유심무상교체에76%...",
-  "강경화“한미원자력협력땐안보동맹공고해질것”",
-  "젠슨황엔비디아CEO불륜상대첩보의혹…미중정상회담앞트럼프대...",
   "남광토건,민간참여공공분양'부천대장하우스토리디센트'11월13일견...",
   "이대통령“메가프로젝트속도전넘어전격전…예정된투자제때진행...",
   "최태원,SKCEO세미나주재...내년AI전략·사업재편성과점검",
@@ -6001,7 +5996,12 @@
   "'스펠맨27점10리바운드폭발'현대모비스,LG에1점차극적역전승.....",
   "프로농구KCC,4연승질주…현대모비스·정관장도쾌승(종합)",
   "젠슨황깐부잃은네이버…이틀새주가-11%‘와르르’[투자360]",
-  "[통신]KT인터넷대상국무총리상·LG유플러스글로벌데이터협약및디..."
+  "[통신]KT인터넷대상국무총리상·LG유플러스글로벌데이터협약및디...",
+  "‘4Q지배’박지훈22점맹활약…정관장,선두삼성꺾고파죽의4연승",
+  "프로농구정관장,1위삼성제압하고4연승신바람…박지훈22점(종합)",
+  "젠슨황의몰락....아시아AI산업전반에불확실성높였다[위기의엔비...",
+  "엔비디아급락이기회?…서학개미1천억원매수",
+  "유출·재산뒤가려진본질…‘배신의대가’"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,17 @@
   [
    "2026-11-14T18:41:14.135971+09:00",
    "국무총리상 인터넷대상 협약 LG유플러스 글로벌 KT 데이터"
+  ],
+  [
+   "2026-11-14T18:51:03.151838+09:00",
+   "급락이 엔비디아 서학개미 1천억원 매수 기회"
+  ],
+  [
+   "2026-11-14T18:51:03.151838+09:00",
+   "재산 배신의 유출 대가 가려진 본질"
   ]
  ],
- "last_run": "2026-11-14T18:41:22.163630+09:00",
+ "last_run": "2026-11-14T18:51:11.685246+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
