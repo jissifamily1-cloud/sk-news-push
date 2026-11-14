@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportschosun.com/sports-news/2026-06-24/202606240100167350010990",
   "https://www.seoulfn.com/news/articleView.html?idxno=631740",
   "https://www.seoulfn.com/news/articleView.html?idxno=631704",
   "https://www.sportschosun.com/sports-news/2026-06-23/202606230100155480010196",
@@ -2999,10 +2998,10 @@
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311686",
   "https://www.businesspost.co.kr/BP?command=article_view&num=451845",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311694",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504113"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504113",
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=113051"
  ],
  "seen_titles": [
-  "다가올AGI시대,대학의역할은?",
   "솔리다임상장철회후폭풍…해외증시문두드리던기업들셈법복잡",
   "밀라노영웅이정민,ISU월드투어서'역전극'",
   "[항동에서]'을의반전'일으킨K반도체파티는여전히진행중",
@@ -6001,7 +6000,8 @@
   "[1년전오늘]李대통령,재계총수들과관세협상후속논의…민관협...",
   "앤트로픽상장에SK최태원겹호재,SK텔레콤지분가치재평가에SK하이...",
   "[10년전그날]朴,대기업총수추가독대…K스포츠재단지원요청논...",
-  "엔비디아밖으로눈돌린빅테크…삼성전자·SK하이닉스2차경쟁돌입"
+  "엔비디아밖으로눈돌린빅테크…삼성전자·SK하이닉스2차경쟁돌입",
+  "[박명기칼럼]'깐부치킨'젠슨황의퇴장…한국AI동맹은?"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-11-15T07:40:22.227894+09:00",
    "SK하이닉스 삼성전자 엔비디아 밖으로 돌린 2차 경쟁 빅테크 돌입"
+  ],
+  [
+   "2026-11-15T08:10:16.179829+09:00",
+   "젠슨 퇴장 황의 깐부치킨 한국 AI동맹은"
   ]
  ],
- "last_run": "2026-11-15T08:00:41.147742+09:00",
+ "last_run": "2026-11-15T08:10:27.761575+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6417,6 +6421,7 @@
   "smarttimes.co.kr": "스마트타임스",
   "newsmap.co.kr": "뉴스맵",
   "tleaves.co.kr": "더리브스",
-  "news.appstory.co.kr": "앱스토리"
+  "news.appstory.co.kr": "앱스토리",
+  "gametoc.co.kr": "게임톡"
  }
 }
