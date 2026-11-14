@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424974",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261112132634iPj",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=258760",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503354",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563320",
-  "https://www.kado.net/news/articleView.html?idxno=2084386",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=305455",
-  "https://www.sedaily.com/article/20113438",
-  "https://www.sedaily.com/article/20113437",
-  "https://www.sedaily.com/article/20113431",
   "https://www.sportsseoul.com/news/read/1649318",
   "https://sports.donga.com/region/article/all/20261112/135012758/1",
   "https://www.delighti.co.kr/news/articleView.html?idxno=124836",
@@ -2999,19 +2989,19 @@
   "https://www.yna.co.kr/view/AKR20261114025800008?input=1195m",
   "https://www.kbmaeil.com/article/20261115500023",
   "https://www.yna.co.kr/view/AKR20261113093600003?input=1195m",
-  "https://dgmbc.com/NewsArticle/873354"
+  "https://dgmbc.com/NewsArticle/873354",
+  "http://www.fins.co.kr/news/articleView.html?idxno=110559",
+  "https://www.sedaily.com/article/20114355",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504106",
+  "https://news.dealsitetv.com/articles/178349",
+  "http://www.inews24.com/view/2026243",
+  "https://www.news1.kr/industry/general-industry/6353789",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311694",
+  "https://www.news1.kr/economy/trend/6353648",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450904",
+  "https://www.newsis.com/view/NISX20261029_0003846355"
  ],
  "seen_titles": [
-  "이차전지·AI데이터센터건립추빈속에인근주거단지포항푸르지오...",
-  "SK하이닉스,국내팹리스와차세대메모리협력확대···HBF·3DIC개발...",
-  "젠슨황리스크·규제변수까지…'깐부동맹'시험대",
-  "엔비디아,젠슨황해임·후임물색착수...AI제국이대로가라앉나",
-  "LB세미콘·삼성전자상승랠리…전력반도체시장확대수혜기대",
-  "인텔,삼성전자·SK하이닉스등국내52개기업과AI협력확대…23개사...",
-  "민주당강릉지역위\"국힘,AIDC유치정쟁화중단해야\"",
-  "SK이노베이션,'행복Dream도서관'7곳조성…농어촌아동꿈지원",
-  "SK하이닉스‘킹산직’채용개시…학력제한철폐에지원열기‘후끈...",
-  "“분양가25%만내고입주”…광교1.7억에내집마련청약열풍",
   "경영난에노조스스로임금동결…이기업의‘상생’",
   "‘리그3연승+EASL3연승’KCC,웅-훈-롱-킹강력하네…괜히‘디펜딩...",
   "인천경제청,‘아이에스시’송도신공장착공…반도체후공정생태계...",
@@ -6001,7 +5991,17 @@
   "[마켓스토리]롤러코스터탔던올해코스피…내년투자전략은?",
   "9385서4911까지출렁인코스피…내년반등변수는",
   "헝가리신정부배터리규제에업계촉각…정부외교지원목소리도",
-  "4연승만나는2연패한국가스공사…공동5위대결,연승희생양탈출할..."
+  "4연승만나는2연패한국가스공사…공동5위대결,연승희생양탈출할...",
+  "퇴직연금11.8조감소…DC형수익률급락",
+  "‘젠슨황’사임에코스피도안갯속…엔비디아실적,반등가를까[선데...",
+  "엔비디아실적이국내반도체주좌우한다…HBM·AI관련주주목을",
+  "[토큰증권지형도][KB증권]자체플랫폼'깨비STO'로기관금융공략",
+  "3G는역사속으로,5G는단독망으로…통신망전환가속",
+  "젠슨황파문에美'매치법'탄력…삼성·SK하닉中공장고도화변수",
+  "[10년전그날]朴,대기업총수추가독대…K스포츠재단지원요청논...",
+  "미중무역휴전부터한중FTA까지…韓경제의APEC관전포인트",
+  "[WhoIs?]이장섭롯데렌탈대표이사",
+  "'재주부리는곰'이제그만…AI시대엔달라질까[AI간판단통신사③]"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,41 @@
   [
    "2026-11-15T06:51:00.636992+09:00",
    "탈출할 4연승 대결 5위 만나는 희생양 2연패 한국가스공사 공동 연승"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "좌우한다 AI 반도체주 주목을 HBM 실적이 관련주 국내 엔비디아"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "깨비STO 기관금융 공략 플랫폼 자체"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "5G는 역사 속으로 가속 통신망 단독망으로 3G는"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "삼성 SK하닉 고도화 변수 매치법 탄력 공장 파문에 젠슨"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "독대 대기업 K스포츠재단 지원 요청 추가 총수"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "한중 미중 APEC 포인트 경제의 관전 FTA까지 무역휴전부터"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "이장섭 롯데렌탈 대표이사"
+  ],
+  [
+   "2026-11-15T07:11:08.111242+09:00",
+   "AI 시대엔 부리는 그만 달라질까 재주 이제"
   ]
  ],
- "last_run": "2026-11-15T07:01:25.774142+09:00",
+ "last_run": "2026-11-15T07:11:31.784387+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
