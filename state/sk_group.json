@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=882583",
-  "https://www.naeil.com/news/read/608505",
-  "https://www.naeil.com/news/read/608578",
-  "https://www.naeil.com/news/read/608527",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41603",
-  "https://www.news2day.co.kr/article/20261112500172",
-  "https://www.naeil.com/news/read/608517",
-  "https://www.naeil.com/news/read/608546",
   "https://www.maniareport.com/view.php?ud=202611121308567979dad9f33a29_19",
   "https://www.goodkyung.com/news/articleView.html?idxno=293389",
   "https://www.etnews.com/20261112000242",
@@ -2999,17 +2991,17 @@
   "https://www.cctoday.co.kr/news/articleView.html?idxno=2240246",
   "https://www.ziksir.com/news/articleView.html?idxno=153244",
   "https://www.news1.kr/diplomacy/defense-diplomacy/6354156",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311686"
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311686",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107960",
+  "https://www.sidae.com/article/2026111211165482775",
+  "https://www.yna.co.kr/view/AKR20261114028800008?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261114024200008?input=1195m",
+  "https://biz.chosun.com/industry/company/2026/11/15/IXNR6UW5WJDKBGYPBVV2URUQXI/",
+  "https://www.yna.co.kr/view/AKR20261113168800003?input=1195m",
+  "https://zdnet.co.kr/view/?no=20261114223909",
+  "https://www.yna.co.kr/view/AKR20261113177200008?input=1195m"
  ],
  "seen_titles": [
-  "SK인텔릭스,2026동반성장지수'우수'…협력사대금·금융·ESG지원확...",
-  "SK이터닉스,첫KCGSESG평가서통합B+등급",
-  "삼양화성·SK트리켐노사문화대상",
-  "이대통령“메가프로젝트,생산시설지방확장넘어‘모두의성장’으...",
-  "젠슨황스캔들에미국‘칩규제3법’탄력",
-  "국내게임주장중'블루쓰나미'···NHN16%·엔씨10%급락",
-  "토스증권,젠슨황의'5단케이크'로본AI투자…ETF전략제시",
-  "“SK텔레콤성실성평가90%회복”",
   "개인정보법위반알뜰폰업체무더기적발",
   "'통합우승2회'베테랑포수김민식,SSG와결별...코칭스태프4명도떠...",
   "李대통령\"메가프로젝트,'모두의성장'으로완성되도록정책역량집중...",
@@ -6001,7 +5993,15 @@
   "SK온서산공장투자96%줄었는데…고용·보조금은'깜깜이'",
   "[금융직썰]코스피6.77%급락한11월,금융주방어주역할'톡톡'",
   "북미대화없는선전APEC…韓,꼬인한미풀고'제2의얄타'막아야",
-  "[1년전오늘]李대통령,재계총수들과관세협상후속논의…민관협..."
+  "[1년전오늘]李대통령,재계총수들과관세협상후속논의…민관협...",
+  "AI풀스택향한최태원의밑그림",
+  "머리맞댄SK수뇌부,'AI풀스택'청사진그린다",
+  "'빚투'자금30%가삼전·닉스에집중…변동성더키웠다",
+  "'최후보루'퇴직연금수익률도뚝…3분기DC형원금비보장수익률¼로",
+  "자사주팔아남겨도법인세안낸다…손실비용처리도폐지",
+  "휘청이는'큰손'엔비디아…삼전닉스추가고객쟁탈전불붙나",
+  "[글로벌줍줍]GTA6하라고모두쉬라는회사어디?",
+  "'젠슨황스캔들'에짓눌린증시…엔비디아실적·앤트로픽상장주시"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,33 @@
   [
    "2026-11-15T06:01:22.517893+09:00",
    "관세협상 재계 총수들과 대통령 민관 논의 후속"
+  ],
+  [
+   "2026-11-15T06:11:09.943450+09:00",
+   "변동성 닉스에 삼전 빚투 키웠다 자금 집중"
+  ],
+  [
+   "2026-11-15T06:11:09.943450+09:00",
+   "수익률도 수익률 DC형 최후보루 원금비보장 3분기 퇴직연금"
+  ],
+  [
+   "2026-11-15T06:11:09.943450+09:00",
+   "폐지 비용처리도 법인세 손실 낸다 자사주 팔아 남겨도"
+  ],
+  [
+   "2026-11-15T06:11:09.943450+09:00",
+   "휘청이는 엔비디아 큰손 추가고객 불붙나 쟁탈전 삼전닉스"
+  ],
+  [
+   "2026-11-15T06:11:09.943450+09:00",
+   "모두 쉬라는 하라고 회사 GTA6 어디"
+  ],
+  [
+   "2026-11-15T06:11:09.943450+09:00",
+   "엔비디아 앤트로픽 스캔들 주시 증시 실적 상장 젠슨황 짓눌린"
   ]
  ],
- "last_run": "2026-11-15T06:01:45.347432+09:00",
+ "last_run": "2026-11-15T06:11:28.674036+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
