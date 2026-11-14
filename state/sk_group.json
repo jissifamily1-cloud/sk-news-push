@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202611120094",
-  "https://www.fnnews.com/news/202611121127077479",
-  "https://www.newsis.com/view/NISI20261112_0021530289",
-  "https://www.mediapen.com/news/view/1136958",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710944",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=122233",
-  "https://www.widedaily.com/news/articleView.html?idxno=303499",
   "https://www.newstnt.com/news/articleView.html?idxno=728079",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1731386",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=281118",
@@ -2999,16 +2992,16 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16276524",
   "https://www.kmib.co.kr/article/20261114500080",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504068",
-  "https://view.asiae.co.kr/article/2026111216042915844"
+  "https://view.asiae.co.kr/article/2026111216042915844",
+  "https://m.sports.naver.com/basketball/article/065/0000304603",
+  "https://m.sports.naver.com/basketball/article/065/0000304602",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130796",
+  "https://www.newspim.com/news/view/20261114000073",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504070",
+  "https://www.ekn.kr/web/view.php?key=20261114022329680",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/14/2026111490053.html"
  ],
  "seen_titles": [
-  "李대통령\"충청권메가프로젝트,23.6조원추가투자…112개기업참여\"",
-  "SKT,사이버침해사고이후성실성평가90%회복…기업신뢰64%",
-  "李대통령\"충청권112개기업서392조에23.6조추가투자\"",
-  "박수치는염성진SK하이닉스커뮤니케이션총괄사장",
-  "LCD·배터리이어낸드까지…중국YMTC,삼성·SK추격가능?",
-  "[무등의아침]서왕진“민주당‘초광역특구법’,규제완화끝판왕…...",
-  "두산건설,초대형사업없이도시정비4조원···13곳서일감확보",
   "[특징주]심텍홀딩스,3분기영업이익4000%폭증·반도체기판훈풍에...",
   "[특징주]외국인'삼성전자·모아라이프플러스',기관'심텍홀딩스·티...",
   "SK하이닉스재무버팀목으로…그룹곳곳에'현금낙수효과'",
@@ -6001,25 +5994,16 @@
   "허웅,4쿼터장거리3점폭발…부산KCC,서울SK꺾고4연승",
   "이상일용인특례시장“경기남부광역철도,국가철도망구축계획에꼭반...",
   "엔진주는주춤했지만특화기자재는상승…조선기자재주온도차뚜렷",
-  "약세장에과징금까지…증권사우울한3분기성적표[주末머니]"
+  "약세장에과징금까지…증권사우울한3분기성적표[주末머니]",
+  "“허웅이팀을구했다”이상민감독이인정한‘클러치웅’의존재감",
+  "“속공세번을놓친게제일아쉽다”13점차지우고도웃지못한전희...",
+  "최태원주재'SKCEO세미나'개막…AI풀스택·내년전략논의",
+  "[프로농구]허웅4쿼터에만11점펄펄...KCC,SK잡고4연승",
+  "켄코아에어로스페이스상승률선두…UAM관련주투자열기확산",
+  "MS서비스장애전세계70여개국강타···금융·행정업무까지‘마비’",
+  "SK디스커버리,3분기매출3.4조원…지주사출범이후최대"
  ],
  "recent_sigs": [
-  [
-   "2026-11-14T10:41:03.888759+09:00",
-   "단국대 이소 인공새집 확인 SK증권 13곳서 어린"
-  ],
-  [
-   "2026-11-14T10:41:03.888759+09:00",
-   "엔비디아 허위 보니 협박 수장 알고 시장 집단 이직 공백 틈탄 서한"
-  ],
-  [
-   "2026-11-14T10:41:03.888759+09:00",
-   "주목 버포드캐피털 AI 커진다 특허전쟁 반도체 메모리"
-  ],
-  [
-   "2026-11-14T10:41:03.888759+09:00",
-   "2045년 넘어 한일경제연대 경제공동체 실행으로 최태원 선언"
-  ],
   [
    "2026-11-14T11:01:13.445875+09:00",
    "SK도 공장 삼성 사정권 중국에"
@@ -6207,9 +6191,21 @@
   [
    "2026-11-14T16:40:58.556274+09:00",
    "증권사 과징금까지 3분기 약세장에 우울한 성적표"
+  ],
+  [
+   "2026-11-14T16:51:01.578027+09:00",
+   "투자 켄코아에어로스페이스 선두 상승률 UAM 확산 관련주 열기"
+  ],
+  [
+   "2026-11-14T16:51:01.578027+09:00",
+   "전세계 MS 강타 마비 장애 행정업무까지 서비스 70여개국 금융"
+  ],
+  [
+   "2026-11-14T16:51:01.578027+09:00",
+   "출범 매출 3분기 4조원 지주사 SK디스커버리 이후"
   ]
  ],
- "last_run": "2026-11-14T16:41:07.425012+09:00",
+ "last_run": "2026-11-14T16:51:12.582582+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
