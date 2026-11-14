@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportschosun.com/sports-news/2026-06-26/202606250100181970011983",
-  "https://www.newsis.com/view/NISX20260625_0003683825",
-  "https://www.news1.kr/sports/general-sport/6208283",
   "https://www.sportschosun.com/sports-news/2026-06-25/202606250100175630011556",
   "https://www.starnewskorea.com/sports/2026/06/24/2026062418504548629",
   "https://www.sportschosun.com/sports-news/2026-06-24/202606240100167350010990",
@@ -2999,12 +2996,12 @@
   "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54428",
   "https://www.kukinews.com/article/view/kuk202610260080",
   "https://www.ajunews.com/view/20261026103627456",
-  "https://www.viva100.com/article/20261026500312"
+  "https://www.viva100.com/article/20261026500312",
+  "https://www.yna.co.kr/view/AKR20261113168800003?input=1195m",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311686",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451845"
  ],
  "seen_titles": [
-  "'밀라노영웅'이정민,또역전극…쇼트트랙계주결승서역전우승",
-  "김연아·김길리로이어진KB금융의20년유망주후원",
-  "이정민,쇼트트랙월드투어남자5,000ｍ계주역전금메달",
   "쇼트트랙남자계주,월드투어1차대회금메달",
   "화천군청소년교향악단,독일서'아리랑'선율로우정나눠",
   "다가올AGI시대,대학의역할은?",
@@ -6001,10 +5998,26 @@
   "부경원예농협·부산과학기술대,화훼산업발전산학협력업무협약",
   "화천청소년선율,독일을감동시켰다…현지주민수백명박수갈채",
   "화천서쌓은합주,독일또래와'아리랑'으로만났다",
-  "화천청소년교향악단,독일라벤스부르크·뮌헨서음악교류성료"
+  "화천청소년교향악단,독일라벤스부르크·뮌헨서음악교류성료",
+  "휘청이는'큰손'엔비디아…삼전닉스추가고객쟁탈전불붙나",
+  "[1년전오늘]李대통령,재계총수들과관세협상후속논의…민관협...",
+  "앤트로픽상장에SK최태원겹호재,SK텔레콤지분가치재평가에SK하이..."
  ],
- "recent_sigs": [],
- "last_run": "2026-11-15T06:00:45.928449+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-15T06:10:15.058899+09:00",
+   "추가고객 휘청이는 엔비디아 큰손 쟁탈전 삼전닉스 불붙나"
+  ],
+  [
+   "2026-11-15T06:10:15.058899+09:00",
+   "총수들과 논의 대통령 민관 재계 관세협상 후속"
+  ],
+  [
+   "2026-11-15T06:10:15.058899+09:00",
+   "SK하이 SK텔레콤 앤트로픽 상장에 겹호재 재평가에 지분가치"
+  ]
+ ],
+ "last_run": "2026-11-15T06:10:32.473666+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
