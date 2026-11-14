@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20106323",
   "https://www.edaily.co.kr/News/Read?newsId=04398486645616856&mediaCodeNo=257",
   "https://www.joongboo.com/news/articleView.html?idxno=363740518",
   "https://www.xportsnews.com/article/2211542",
@@ -2999,10 +2998,10 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=642759",
   "https://daily.hankooki.com/news/articleView.html?idxno=1425000",
   "https://www.viva100.com/article/20261114500108",
-  "https://www.seoultimes.news/news/article.html?no=2000102186"
+  "https://www.seoultimes.news/news/article.html?no=2000102186",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559969"
  ],
  "seen_titles": [
-  "군살뺀SK,이제AI로돈벌차례…새경영진시험대",
   "SK그룹사장단인사임박…최창원·장용호·곽노정거취촉각",
   "'마지막코너서역전극'이정민앞세운한국쇼트트랙,남자5000m계주...",
   "달나,'제5회달리는기부천사'후원",
@@ -6001,15 +6000,20 @@
   "최태원\"한일경제연대,선언넘어실행으로\"···2045년경제공동체청...",
   "[박준영의靑春노트]美의회권력바뀌고젠슨황떠났다…李의다음수...",
   "[기업소식]베이비빌리,태아보험3개사추천플랜한눈에비교外",
-  "[CEO위클리]이재용·최태원·정의선등재계11인…투자·사업재편·해..."
+  "[CEO위클리]이재용·최태원·정의선등재계11인…투자·사업재편·해...",
+  "유출·재산뒤가려진본질…‘배신의대가’"
  ],
  "recent_sigs": [
   [
    "2026-11-14T14:40:19.565772+09:00",
    "재계 재편 11인 투자 이재용 정의선 사업"
+  ],
+  [
+   "2026-11-14T18:50:13.655725+09:00",
+   "대가 가려진 유출 재산 본질 배신의"
   ]
  ],
- "last_run": "2026-11-14T18:40:26.771371+09:00",
+ "last_run": "2026-11-14T18:50:27.648783+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
