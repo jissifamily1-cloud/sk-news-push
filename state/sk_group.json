@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710967",
-  "http://www.newsbrite.net/news/articleView.html?idxno=201434",
-  "http://www.newsprime.co.kr/news/article.html?no=754692",
-  "https://www.joongang.co.kr/article/25477980",
   "http://weekly.chosun.com/news/articleView.html?idxno=57030",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=366079",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230451",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20261114038651007?input=1195m",
   "https://www.fnnews.com/news/202611141829315350",
   "http://www.yonhapnewstv.co.kr/news/MYH2026111418485964a",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559969"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559969",
+  "https://www.hankyung.com/article/2026111465357",
+  "https://econotimes.com/Polen-Global-Growth-Returns-3-45-in-Q3-2026-Beating-Its-Index-1776698",
+  "https://www.tfmedia.co.kr/news/article.html?no=208888",
+  "https://www.mk.co.kr/article/12208991"
  ],
  "seen_titles": [
-  "남광토건,민간참여공공분양'부천대장하우스토리디센트'11월13일견...",
-  "이대통령“메가프로젝트속도전넘어전격전…예정된투자제때진행...",
-  "최태원,SKCEO세미나주재...내년AI전략·사업재편성과점검",
-  "영남이공대,대기업·중견기업과손잡고취업경쟁력높여",
   "반도체호황에세금확걷혔다…나라살림적자102조→32조",
   "李대통령\"충청권메가프로젝트,112개기업23조6000억원추가투자\"",
   "기후부호남변압기신규발주…납기3년벽",
@@ -6001,17 +5997,13 @@
   "프로농구정관장,1위삼성제압하고4연승신바람…박지훈22점(종합)",
   "젠슨황의몰락....아시아AI산업전반에불확실성높였다[위기의엔비...",
   "엔비디아급락이기회?…서학개미1천억원매수",
-  "유출·재산뒤가려진본질…‘배신의대가’"
+  "유출·재산뒤가려진본질…‘배신의대가’",
+  "\"10년모은4억이와르르\"…'SK하닉몰빵'30대피눈물",
+  "PolenGlobalGrowthReturns3.45%inQ32026,BeatingItsIndex",
+  "뉴욕증시,다우지수만0.1%상승…엔비디아2%↓,하락지속",
+  "‘깐부회동’에바나나우유까지…K유통가달군젠슨황의쓸쓸한퇴장"
  ],
  "recent_sigs": [
-  [
-   "2026-11-14T12:51:04.074683+09:00",
-   "프롱 10만달러어치 샌디스크 토큰이 발행돼 새로"
-  ],
-  [
-   "2026-11-14T12:51:04.074683+09:00",
-   "차지 인버스 코스피200 거래 반등에도 집중 ETN"
-  ],
   [
    "2026-11-14T13:01:20.316435+09:00",
    "인근 아파트 연말 몸값 주목 분양시장 쇼핑몰"
@@ -6215,9 +6207,21 @@
   [
    "2026-11-14T18:51:03.151838+09:00",
    "재산 배신의 유출 대가 가려진 본질"
+  ],
+  [
+   "2026-11-14T19:01:16.946123+09:00",
+   "Growth Q3 Global Returns Polen in Its Beating Index"
+  ],
+  [
+   "2026-11-14T19:01:16.946123+09:00",
+   "다우지수만 하락 지속 엔비디아 상승 뉴욕증시"
+  ],
+  [
+   "2026-11-14T19:01:16.946123+09:00",
+   "황의 젠슨 퇴장 달군 쓸쓸한 유통가 바나나우유까지 깐부회동"
   ]
  ],
- "last_run": "2026-11-14T18:51:11.685246+09:00",
+ "last_run": "2026-11-14T19:01:28.261419+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
