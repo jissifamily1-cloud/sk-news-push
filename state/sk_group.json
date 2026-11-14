@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082729",
-  "https://www.m-economynews.com/news/article.html?no=72928",
-  "http://www.4th.kr/news/articleView.html?idxno=2121711",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711051",
-  "https://www.biotimes.co.kr/news/articleView.html?idxno=36129",
   "https://www.cbci.co.kr/news/articleView.html?idxno=626165",
   "https://zdnet.co.kr/view/?no=20261112134425",
   "https://www.lawissue.co.kr/view.php?ud=20261112134258179467191f6c6e_12",
@@ -2999,14 +2994,14 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=300928",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444789",
   "https://www.hankyung.com/article/2026111355876",
-  "https://www.newsis.com/view/NISX20261115_0003868281"
+  "https://www.newsis.com/view/NISX20261115_0003868281",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000082723",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714867",
+  "https://www.sedaily.com/article/20114366",
+  "https://www.edaily.co.kr/News/Read?newsId=01151286645646048&mediaCodeNo=257",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16276891"
  ],
  "seen_titles": [
-  "“고점찍고반토막,어떡하죠”...KB證“삼전닉스반등탄력”",
-  "李대통령\"3대메가프로젝트전격전…기술혁신·투자불씨돼\"",
-  "李대통령“메가프로젝트속도전넘어전격전...지역경제활성화본격화...",
-  "토스증권\"AI공급망병목확대..GPU·전력·메모리·파운드리까지\"",
-  "[영상]선발5명싹다빼버린전희철감독…무슨일?",
   "\"제형바꿔도약가협상대상\"…美약가인하파고,K바이오수익공식흔...",
   "[속보]테스,SK하이닉스와480억8000만원규모반도체제조장비공급계...",
   "\"디지털시대페라리의혁신\"…첫순수전기차루체,최고혁신상",
@@ -6001,7 +5996,12 @@
   "[분석]삼성각형vsSK파우치…ESS2조원시장'쟁탈전'",
   "\"높아도낮아도걱정\"…1,330원대환율적정수준은",
   "변동성장세지속…'젠슨황퇴진'엔비디아실적에쏠리는눈[주간전...",
-  "숨가쁜연말…반도체·공항·의료·국비·조직곳곳분수령"
+  "숨가쁜연말…반도체·공항·의료·국비·조직곳곳분수령",
+  "젠슨황퇴진후폭풍에증시출렁…엔비디아실적이분수령",
+  "SKB분할심사본격화…데이터센터빠진후성장동력확보과제",
+  "“삼전닉스는그래도오를거야”이러더니빚투‘7조원’몰렸다…주...",
+  "“평소엔더잘나와요”…李대통령·이재용밥상차린이곳은?[이집!...",
+  "스트레이트,경기도예산논란과코스피폭락후폭풍조명"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,25 @@
   [
    "2026-11-15T08:11:10.453752+09:00",
    "공항 국비 의료 곳곳 가쁜 분수령 연말 반도체"
+  ],
+  [
+   "2026-11-15T08:21:01.158477+09:00",
+   "SKB 빠진 과제 분할 동력 성장 확보 데이터센터 본격화 심사"
+  ],
+  [
+   "2026-11-15T08:21:01.158477+09:00",
+   "삼전닉스는 그래도 이러더니 거야 빚투 7조원 몰렸다 오를"
+  ],
+  [
+   "2026-11-15T08:21:01.158477+09:00",
+   "대통령 밥상 평소엔 차린 나와요 이곳은 이재용"
+  ],
+  [
+   "2026-11-15T08:21:01.158477+09:00",
+   "예산 코스피 후폭풍 논란과 조명 스트레이트 경기도 폭락"
   ]
  ],
- "last_run": "2026-11-15T08:11:24.074387+09:00",
+ "last_run": "2026-11-15T08:21:14.646401+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
