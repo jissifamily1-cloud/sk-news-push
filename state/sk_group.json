@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.dealsitetv.com/articles/178477",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16274729",
-  "https://www.edaily.co.kr/News/Read?newsId=03434166645645064&mediaCodeNo=257",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366080",
-  "https://www.mk.co.kr/article/12206270",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082729",
   "https://www.m-economynews.com/news/article.html?no=72928",
   "http://www.4th.kr/news/articleView.html?idxno=2121711",
@@ -2999,14 +2994,14 @@
   "https://www.g-enews.com/view.php?ud=2026111312244724333d7a510102_1",
   "https://it.chosun.com/news/articleView.html?idxno=3000000000979",
   "https://basketkorea.com/news/newsview.php?ncode=1065597771571594",
-  "http://www.breaknews.com/1251057"
+  "http://www.breaknews.com/1251057",
+  "https://www.munhwa.com/article/11631316",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=300928",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444789",
+  "https://www.hankyung.com/article/2026111355876",
+  "https://www.newsis.com/view/NISX20261115_0003868281"
  ],
  "seen_titles": [
-  "인텔,韓기업과AI생태계구축…'K-AI풀스택얼라이언스'출범",
-  "[이슈플러스]젠슨황해임설에엔비디아흔들…美반도체규제도변수",
-  "테스,4,808억원규모SK하이닉스반도체제조장비공급계약",
-  "센코,3분기누적매출326억원…전년比35%증가",
-  "젠슨황해임위기…AI시장지각변동",
   "“고점찍고반토막,어떡하죠”...KB證“삼전닉스반등탄력”",
   "李대통령\"3대메가프로젝트전격전…기술혁신·투자불씨돼\"",
   "李대통령“메가프로젝트속도전넘어전격전...지역경제활성화본격화...",
@@ -6001,7 +5996,12 @@
   "[AI스코프]AI투자빅테크는가속,금융권은제동…의견갈리는이유",
   "'해외여행=로밍'옛말?…eSIM과따져보니",
   "[수비수의시선]백코트속도를증가시킨SK,더크게드러난힉스의수...",
-  "조용술국민의힘대변인“민주정교유착·증시개입·방위비협상\"비..."
+  "조용술국민의힘대변인“민주정교유착·증시개입·방위비협상\"비...",
+  "‘빚투30%삼전·하닉에몰렸다’…변동성키운원인?",
+  "[분석]삼성각형vsSK파우치…ESS2조원시장'쟁탈전'",
+  "\"높아도낮아도걱정\"…1,330원대환율적정수준은",
+  "변동성장세지속…'젠슨황퇴진'엔비디아실적에쏠리는눈[주간전...",
+  "숨가쁜연말…반도체·공항·의료·국비·조직곳곳분수령"
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,25 @@
   [
    "2026-11-15T08:01:19.317035+09:00",
    "조용술 대변인 증시 민주 개입 방위비 국민의힘 협상 정교유착"
+  ],
+  [
+   "2026-11-15T08:11:10.453752+09:00",
+   "삼성 각형 파우치 시장 ESS 쟁탈전 vs 2조원"
+  ],
+  [
+   "2026-11-15T08:11:10.453752+09:00",
+   "수준은 환율 높아도 걱정 적정 낮아도 330원대"
+  ],
+  [
+   "2026-11-15T08:11:10.453752+09:00",
+   "변동성 쏠리는 퇴진 엔비디아 지속 주간전 젠슨 장세 실적에"
+  ],
+  [
+   "2026-11-15T08:11:10.453752+09:00",
+   "공항 국비 의료 곳곳 가쁜 분수령 연말 반도체"
   ]
  ],
- "last_run": "2026-11-15T08:01:43.929170+09:00",
+ "last_run": "2026-11-15T08:11:24.074387+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
