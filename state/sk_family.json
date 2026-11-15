@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541836",
-  "https://www.mk.co.kr/article/12184131",
-  "https://www.sedaily.com/article/20106894",
   "https://www.xportsnews.com/article/2212323",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101433353640104295",
   "https://www.donga.com/news/Economy/article/all/20261011/134821488/2",
@@ -2999,12 +2996,12 @@
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=254913",
   "http://www.cctimes.kr/news/articleView.html?idxno=937140",
   "https://news.tf.co.kr/read/national/2388907.htm",
-  "https://www.munhwa.com/article/11631361"
+  "https://www.munhwa.com/article/11631361",
+  "https://www.seoultimes.news/news/article.html?no=2000102201",
+  "http://www.metroseoul.co.kr/article/20261115500142",
+  "https://www.hankyung.com/article/2026111350356"
  ],
  "seen_titles": [
-  "화훼주산지김해,국내육성거베라신품종현장평가회",
-  "김해시,국내육성거베라신품종현장평가회개최",
-  "'노태우비자금수사마무리되나'...이진수법무대행\"자금원천추적...",
   "이진수법무대행\"노태우일가비자금의혹수사중...자금원천추적...",
   "[2026국감]이진수법무대행“노태우일가비자금자금원천추적중”",
   "대한상의,국회에5대부문31개과제건의…국내생산세액공제조속도...",
@@ -6001,7 +5998,10 @@
   "최태원SK회장\"AI플라이휠통해성장이성장만드는선순환구조만들...",
   "충남도의회교육위,행감서'교육사각지대해소·미래역량강화'주문",
   "법도절차도건너뛴'광교청사매각검토구상'…혼란만키운경기도행...",
-  "“반도체만으론안된다”…최태원,SK에내린새로운특명"
+  "“반도체만으론안된다”…최태원,SK에내린새로운특명",
+  "최태원SK회장“AI컴퍼니로재정의”…반도체넘어서비스사업확대",
+  "최태원,SK전계열사에'AI선순환'추진…'토큰이코노미'겨냥",
+  "33년만에막내린젠슨황제국…빌게이츠·스티브잡스사례로본미..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-15T13:00:28.606241+09:00",
    "새로운 특명 내린 된다 SK에 반도체만으론"
+  ],
+  [
+   "2026-11-15T13:10:14.811688+09:00",
+   "33년 게이츠 잡스 만에 젠슨 사례로 스티브 제국 내린"
   ]
  ],
- "last_run": "2026-11-15T13:00:40.530359+09:00",
+ "last_run": "2026-11-15T13:10:26.910973+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
