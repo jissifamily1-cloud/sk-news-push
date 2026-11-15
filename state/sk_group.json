@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ikld.kr/news/articleView.html?idxno=344056",
-  "https://www.hankookilbo.com/news/article/A2026111214430001410?did=NA",
   "https://www.news1.kr/local/daejeon-chungnam/6352119",
   "https://www.yna.co.kr/view/AKR20261112134300008?input=1195m",
   "http://www.metroseoul.co.kr/article/20261112500353",
@@ -2999,11 +2997,11 @@
   "https://www.ajunews.com/view/20261115112126781",
   "https://view.asiae.co.kr/article/2026111511251993318",
   "https://www.etnews.com/20261115000057",
-  "http://www.datanews.co.kr/news/article.html?no=147597"
+  "http://www.datanews.co.kr/news/article.html?no=147597",
+  "https://www.kbsm.net/news/view.php?idx=541727",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/15/2026111590029.html"
  ],
  "seen_titles": [
-  "국고채담합과징금1조3천억원대...증권사연말실적‘직격탄’",
-  "\"일자리가도시체질바꾼다\"…거점산업투자에재편되는지방주거지...",
   "노조가먼저\"임금동결\"회사는\"인력충원\"…이런노사도있다",
   "충남도\"광속행정으로조기착공…충청권메가프로젝트전폭지원\"",
   "[게시판]SK증권,ESG평가2년연속'통합A등급'획득",
@@ -6001,7 +5999,9 @@
   "코스피42%급락에고수익ELS'빨간불'…내달부터만기도래",
   "최태원\"AI반도체넘어서비스까지\"…'AI플라이휠'구축",
   "[뉴스줌인]젠슨황퇴진에엔비디아공급망'재편'…韓반도체수요처...",
-  "최태원SK회장,AI반도체·인프라넘어서비스로확장주문"
+  "최태원SK회장,AI반도체·인프라넘어서비스로확장주문",
+  "영주시·지역기업·농협,사과수확일손지원",
+  "\"4억이1억됐다\"…SK하닉올인30대정신과치료까지"
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,17 @@
   [
    "2026-11-15T11:21:03.490915+09:00",
    "항공대란 이틀째 취약한 낡고 민낯 인프라"
+  ],
+  [
+   "2026-11-15T11:40:59.822828+09:00",
+   "기업 영주시 지역 일손 농협 수확 지원 사과"
+  ],
+  [
+   "2026-11-15T11:40:59.822828+09:00",
+   "1억 정신과 올인 됐다 30대 4억이 치료까지 SK하닉"
   ]
  ],
- "last_run": "2026-11-15T11:31:09.870817+09:00",
+ "last_run": "2026-11-15T11:41:07.977861+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
