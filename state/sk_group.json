@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112909087",
-  "http://www.osen.co.kr/article/G1112909090",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2354785",
   "https://www.news2day.co.kr/article/20261112500345",
   "https://www.dailysecu.com/news/articleView.html?idxno=209483",
   "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026111200083&story_seq=0&soCode=114&socttSn=NS2026111200083&socttSeq=0",
@@ -2999,12 +2996,12 @@
   "https://www.fnnews.com/news/202611151815495394",
   "https://www.mt.co.kr/world/2026/11/15/2026111316583675717",
   "https://www.fnnews.com/news/202611151815379009",
-  "https://www.kpinews.kr/newsView/1065604241113978"
+  "https://www.kpinews.kr/newsView/1065604241113978",
+  "https://www.hankyung.com/article/2026111574871",
+  "https://www.hankyung.com/article/2026111574791",
+  "https://www.hani.co.kr/arti/economy/finance/1287434.html"
  ],
  "seen_titles": [
-  "[사진]LG세이퀸김민지,모두함께응원해요",
-  "[사진]LG세이퀸김민지,승리의응원해요",
-  "[사진]LG세이퀸김민지,신나는응원",
   "[사진]LG세이퀸김민지,함께응원해요",
   "SK그룹주요계열사사장단인사…AI·전력사업중심성장전략강화",
   "(마감시황)코스피,장중5,450선찍고하락전환…5,340선마무리",
@@ -6001,7 +5998,10 @@
   "젠슨황리스크'희비'…외인,삼전사고하닉팔아",
   "AI중앙은행물거품?'린치핀'젠슨황빠지니월가이탈조짐",
   "40대는국장,60대는미장으로…증시변동성에엇갈린투심",
-  "美법원,삼성전자·SK하이닉스D램담합소송기각신청거부"
+  "美법원,삼성전자·SK하이닉스D램담합소송기각신청거부",
+  "쏠림형상품된ETF…'톱2,톱10'붙어야인기",
+  "美,中바이오견제강화…\"韓신약에기회\"",
+  "‘연1회이상기업설명’의무화한다지만…신뢰회복미지수"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,21 @@
   [
    "2026-11-15T18:21:12.661388+09:00",
    "법원 담합 신청 D램 소송 SK하이닉스 삼성전자 거부 기각"
+  ],
+  [
+   "2026-11-15T18:31:18.395874+09:00",
+   "쏠림형 붙어야 ETF 톱2 상품 인기 톱10"
+  ],
+  [
+   "2026-11-15T18:31:18.395874+09:00",
+   "바이오 강화 기회 신약에 견제"
+  ],
+  [
+   "2026-11-15T18:31:18.395874+09:00",
+   "의무화 미지수 이상 한다지만 기업설명 신뢰회복 1회"
   ]
  ],
- "last_run": "2026-11-15T18:21:21.792567+09:00",
+ "last_run": "2026-11-15T18:31:29.202703+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
