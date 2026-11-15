@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inews365.com/news/article.html?no=943448",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101161",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=82430",
   "https://www.newsis.com/view/NISX20261112_0003865923",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8382",
   "https://www.asiatime.co.kr/article/20261112500403",
@@ -2999,12 +2996,12 @@
   "https://www.fntimes.com/html/view.php?ud=202611151613534467de3572ddd_18",
   "https://www.mk.co.kr/article/12209256",
   "https://www.kmib.co.kr/article/20261115500781",
-  "https://www.etnews.com/20261113000212"
+  "https://www.etnews.com/20261113000212",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752480",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452016",
+  "https://econotimes.com/SK-Group-Links-AI-Chips-Factories-and-Energy-in-Growth-Plan-1777168"
  ],
  "seen_titles": [
-  "코스피,장중5400선돌파후하락반전5340선후퇴...코스닥700선붕괴",
-  "삼성전기,세종대규모투자에반색…\"추가투자여지남았다\"",
-  "충청권메가프로젝트23.6조추가…반도체등112개기업동참",
   "기관매도에밀린코스피,5340선후퇴…삼전↑·하닉↓",
   "'젠슨황주가',해임설에코스피·코스닥사흘만에하락",
   "이대통령\"중소기업정책금융더과감하게…메가프로젝트속도전넘어...",
@@ -6001,7 +5998,10 @@
   "최태원SK회장\"AI플라이휠,성장이성장만드는선순환구조만들어야...",
   "[매일경제TV]엔비디아변수속반도체투자전략",
   "최태원“AI성과,반도체넘어서비스까지”…‘AI플라이휠’강조",
-  "“AI불확실우려에도수요견고”…SK하이닉스,HBM4생산능력더키운..."
+  "“AI불확실우려에도수요견고”…SK하이닉스,HBM4생산능력더키운...",
+  "고양소노,원주DB꺾고3연승…이정현20점활약",
+  "SK회장최태원,\"반도체경쟁력바탕으로'AI플라이휠'구조만들어야...",
+  "SKGroupLinksAIChips,FactoriesandEnergyinGrowthPlan"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-11-15T16:21:01.759704+09:00",
    "고객 삼전닉스 다변화 위기 속도 내나 전략은 엔비디아"
+  ],
+  [
+   "2026-11-15T16:49:13.289252+09:00",
+   "Plan Links in Growth Factories Group and Chips Energy AI"
   ]
  ],
- "last_run": "2026-11-15T16:41:05.462580+09:00",
+ "last_run": "2026-11-15T16:49:18.675433+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
