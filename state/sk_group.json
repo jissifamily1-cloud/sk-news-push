@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=242892",
-  "https://dealsite.co.kr/articles/172679",
   "https://realty.chosun.com/site/data/html_dir/2026/11/12/2026111203108.html",
   "https://www.news1.kr/realestate/general/6352357",
   "https://biz.heraldcorp.com/article/10935503",
@@ -2999,11 +2997,11 @@
   "http://www.inews24.com/view/2026332",
   "https://www.wikitree.co.kr/articles/1174767",
   "https://www.kyeongin.com/article/1774792",
-  "https://www.sedaily.com/article/20114570"
+  "https://www.sedaily.com/article/20114570",
+  "https://www.newstnt.com/news/articleView.html?idxno=728513",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=305038"
  ],
  "seen_titles": [
-  "'행정심판의이해'특별강연하는조소영중앙행정심판위원장",
-  "SK바이오팜·동아제약·삼성바이오,ESG평가지배구조'A+'획득",
   "알뜰폰8개사,개인정보관리부실…과징금·과태료1억7천만원",
   "아닐난두리인텔부사장“데이터센터CPU수요,수년내5배로”",
   "3기신도시부천대장에548가구공공분양…‘하우스토리디센트’13일...",
@@ -6001,7 +5999,9 @@
   "삼전닉스에'빚투'자금30%몰려⋯7조원육박",
   "삼성전자도SK하이닉스도아니다…개미자금쏠린'1위주식'",
   "‘경기40개·인천5개’5차국가철도망계획반영촉구",
-  "주가는62%추락했는데“280만원간다”…실적은역대급이라는‘이주..."
+  "주가는62%추락했는데“280만원간다”…실적은역대급이라는‘이주...",
+  "[공시]11월16일,코스피상장사60개종목자사주매수신청",
+  "삼전·닉스빚투비중3년새3~4%→27%…하락장뇌관되나"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-11-15T20:20:57.087124+09:00",
    "간다 실적은 추락했는데 역대급이라는 주가는 280만원"
+  ],
+  [
+   "2026-11-15T20:31:07.822205+09:00",
+   "삼전 비중 3년새 닉스 되나 빚투 뇌관 하락장"
   ]
  ],
- "last_run": "2026-11-15T20:21:02.620465+09:00",
+ "last_run": "2026-11-15T20:31:13.736751+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
