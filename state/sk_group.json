@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/daejeon-chungnam/6352119",
-  "https://www.yna.co.kr/view/AKR20261112134300008?input=1195m",
-  "http://www.metroseoul.co.kr/article/20261112500353",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731456",
-  "https://www.lawissue.co.kr/view.php?ud=202611121524523694204ead0791_12",
-  "https://www.dt.co.kr/article/12094857",
-  "https://www.kpinews.kr/newsView/1065593603390761",
   "https://www.mkhealth.co.kr/news/articleView.html?idxno=80899",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=132447",
   "https://www.yna.co.kr/view/AKR20261112132700030?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.etnews.com/20261115000057",
   "http://www.datanews.co.kr/news/article.html?no=147597",
   "https://www.kbsm.net/news/view.php?idx=541727",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/15/2026111590029.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/15/2026111590029.html",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=627074",
+  "http://www.srtimes.kr/news/articleView.html?idxno=217608",
+  "https://biz.chosun.com/stock/stock_general/2026/11/15/AVXYYX3SIJDKBGJF6DJ5PV35ZA/",
+  "https://kpenews.com/View.aspx?No=4313116",
+  "https://www.ajunews.com/view/20261115113642814",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082692",
+  "https://www.ekn.kr/web/view.php?key=20261115029459700"
  ],
  "seen_titles": [
-  "노조가먼저\"임금동결\"회사는\"인력충원\"…이런노사도있다",
-  "충남도\"광속행정으로조기착공…충청권메가프로젝트전폭지원\"",
-  "[게시판]SK증권,ESG평가2년연속'통합A등급'획득",
-  "[2026에너지포럼]반도체·AI메가프로젝트에ESS수요커진다…삼성SD...",
-  "최태원회장,SK계열사CEO50여명소집…AI중심성장전략논의",
-  "엔라이튼,기술성평가통과…2027년상장절차착수",
-  "李대통령“메가프로젝트속도전넘어전격전”…삼성,46조첨단패키징...",
   "SK증권,ESG통합A등급2년연속획득…기후위험공시확대",
   "제약사ESG성적표'극과극'…지배구조C부터통합D까지",
   "\"연구실의담장을넘어세상과잇다\"…고려대,제4회'LabtoLife연구페...",
@@ -6001,7 +5994,14 @@
   "[뉴스줌인]젠슨황퇴진에엔비디아공급망'재편'…韓반도체수요처...",
   "최태원SK회장,AI반도체·인프라넘어서비스로확장주문",
   "영주시·지역기업·농협,사과수확일손지원",
-  "\"4억이1억됐다\"…SK하닉올인30대정신과치료까지"
+  "\"4억이1억됐다\"…SK하닉올인30대정신과치료까지",
+  "[주간증시전망]다음주코스피어디로…엔비디아실적발표에삼성전...",
+  "최태원SK회장\"AI컴퍼니로재정의해'AI플라이휠'구축…토큰이코노...",
+  "‘9000피’에찍은고수익ELS,내달부터만기도래…반도체급락에손실...",
+  "삼성전자·SK하이닉스빚투6조9669억..코스피신용잔고36.5%차지",
+  "최태원\"AI플라이휠로성장선순환만들자\"...사업포트폴리오재편본...",
+  "[AI를쓴인간]②AI가AI연구를두배로…",
+  "“삼전닉스아직안끝났다”…골드만삭스가韓증시믿는이유[머니+]"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,17 @@
   [
    "2026-11-15T11:40:59.822828+09:00",
    "1억 정신과 올인 됐다 30대 4억이 치료까지 SK하닉"
+  ],
+  [
+   "2026-11-15T11:51:01.789244+09:00",
+   "AI AI가 연구를 배로"
+  ],
+  [
+   "2026-11-15T11:51:01.789244+09:00",
+   "삼전닉스 이유 아직 끝났다 믿는 증시 골드만삭스가"
   ]
  ],
- "last_run": "2026-11-15T11:41:07.977861+09:00",
+ "last_run": "2026-11-15T11:51:10.253125+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
