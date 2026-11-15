@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211290",
-  "https://www.dt.co.kr/article/12094878",
-  "https://www.ziksir.com/news/articleView.html?idxno=153121",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147000",
-  "https://www.fntimes.com/html/view.php?ud=2026111215442791317de3572ddd_18",
   "https://www.hani.co.kr/arti/area/capital/1287029.html",
   "https://www.newspim.com/news/view/20261112001194",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=366088",
@@ -2999,14 +2994,14 @@
   "http://www.metroseoul.co.kr/article/20261115500185",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040947",
   "https://www.eroun.net/news/articleView.html?idxno=95515",
-  "http://weekly.chosun.com/news/articleView.html?idxno=57091"
+  "http://weekly.chosun.com/news/articleView.html?idxno=57091",
+  "https://www.inews365.com/news/article.html?no=943667",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752399",
+  "https://www.etnews.com/20261115000013",
+  "https://www.fnnews.com/news/202611150917122617",
+  "https://view.asiae.co.kr/article/2026111211223002470"
  ],
  "seen_titles": [
-  "[마감시황]코스피,장중등락거듭끝하락마감…0.61%↓",
-  "[마감시황]코스피,32.63포인트(-0.61%)내린5342.73마감",
-  "젠슨황해임설에코스피사흘만에하락…삼전닉스엇갈려",
-  "코스피,엔비디아발반도체불안에상승분반납",
-  "코스피,이틀연속외국인순매수에도0.6%하락...5400선깨져",
   "SK최태원주재CEO세미나…신임경영진역할주목",
   "‘용인반도체고’첫입학생134명선발…경쟁률4.84대1기록",
   "[마감시황]코스피·코스닥나란히하락…젠슨황리스크에AI투자심리...",
@@ -6001,7 +5996,12 @@
   "쏘카,카셰어링넘어장기렌트로…10조시장겨냥",
   "[서해안]깐부와젠슨황",
   "영주시,서울도심서고향사랑기부제집중홍보...연말모금총력전펼...",
-  "한진칼최대주주자리뺏고뺏기고…8000억쥔산은의선택은"
+  "한진칼최대주주자리뺏고뺏기고…8000억쥔산은의선택은",
+  "청주시,'시민안전최우선'동절기종합대책추진",
+  "후계자없이떠난엔비디아젠슨황…시장'경쟁사'AMD·브로드컴산이...",
+  "[지방시대新성장엔진]〈3〉중부'착공',서남'부지'…메가프로젝트이...",
+  "MSCI서몸집키운SK하이닉스…5800억원外人자금들어온다",
+  "[주末머니]\"내년환율,달러당1320원…원화강세전환\""
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,25 @@
   [
    "2026-11-15T14:11:19.141853+09:00",
    "선택은 8000억 자리 최대주주 한진칼 산은의 뺏고 뺏기고"
+  ],
+  [
+   "2026-11-15T14:20:56.352697+09:00",
+   "없이 경쟁사 후계자 시장 브로드컴 엔비디아 젠슨황 떠난 AMD"
+  ],
+  [
+   "2026-11-15T14:20:56.352697+09:00",
+   "메가프로젝트 중부 서남 부지 착공"
+  ],
+  [
+   "2026-11-15T14:20:56.352697+09:00",
+   "5800억원 MSCI서 키운 들어온다 SK하이닉스 몸집 자금"
+  ],
+  [
+   "2026-11-15T14:20:56.352697+09:00",
+   "달러당 환율 내년 1320원 원화 강세"
   ]
  ],
- "last_run": "2026-11-15T14:11:35.510473+09:00",
+ "last_run": "2026-11-15T14:21:09.822988+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
