@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261112144609",
-  "https://www.koreaherald.com/article/10935341",
-  "http://news.lghellovision.net/news/articleView.html?idxno=562094",
-  "https://www.koreaherald.com/article/10935338",
   "http://www.weeklytoday.com/news/articleView.html?idxno=801885",
   "http://www.rookie.co.kr/news/articleView.html?idxno=130231",
   "https://www.asiatime.co.kr/article/20261112500375",
@@ -2999,13 +2995,13 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=563706",
   "https://www.mk.co.kr/article/12209135",
   "http://www.inews24.com/view/2026280",
-  "https://www.newsgn.com/news/articleView.html?idxno=585517"
+  "https://www.newsgn.com/news/articleView.html?idxno=585517",
+  "https://www.hankookilbo.com/news/article/A2026111511480004308?did=NA",
+  "https://www.fntimes.com/html/view.php?ud=202611141901092373179ad43907_18",
+  "https://www.fnnews.com/news/202611151151595364",
+  "https://www.pressian.com/pages/articles/2026111316393450400"
  ],
  "seen_titles": [
-  "영남이공대,올해기업채용설명회21회운영···취업문넓힌다",
-  "中,AI칩수급난에eSSD'주문축소'…삼성·SK,美공급비중늘린다",
-  "‘Megaproject’breaksgroundatSamsungHBMplant",
-  "정부'3대메가프로젝트'충남서첫삽…아산서착공식",
   "Howbadisthememorycrunch?Newphonesnowusesecondhandchips",
   "[위클리오늘]이천시,일자리·반도체인재양성확대",
   "[유노유농]탄탄한조직력으로노원구협회장배정상에선노원SK\"새로...",
@@ -6001,37 +5997,13 @@
   "[주간재계나침반]이재용·정의선협력본격화…최태원AI승부수에젠...",
   "뒤늦게DC형으로바꿨다가...퇴직연금수익률4분의1토막",
   "최태원\"SK모든계열사,AI기업으로거듭나라\"…그룹대전환주문",
-  "SK오션플랜트띠앗봉사단,고성동해면경로당에대형TV지원"
+  "SK오션플랜트띠앗봉사단,고성동해면경로당에대형TV지원",
+  "최태원\"반도체·에너지경쟁력을AI서비스로…'AI플라이휠'만들자\"",
+  "기관'SK하이닉스'·외인'삼성전자'·개인'삼성전기'1위[주간코스피...",
+  "'SK,반도체서AI서비스로사업선순환'..최태원,'AI플라이휠'제시",
+  "하이닉스반도체엔지니어,희귀암산재2심도승소…법원'노동자보호..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-15T06:01:22.517893+09:00",
-   "논쟁 회수 AI 중간선거 신설 세금 공제 로봇세 불거진"
-  ],
-  [
-   "2026-11-15T06:01:22.517893+09:00",
-   "앤트로픽 지분가치 재평가에 SK하이 상장에 SK텔레콤 겹호재 최태원"
-  ],
-  [
-   "2026-11-15T06:01:22.517893+09:00",
-   "피크아웃 SK이노 앞두고 겸직 강동수 CEO 계열사 리셋 구조 정유"
-  ],
-  [
-   "2026-11-15T06:01:22.517893+09:00",
-   "줄었는데 서산공장 고용 투자 깜깜이 SK온 보조금은"
-  ],
-  [
-   "2026-11-15T06:01:22.517893+09:00",
-   "역할 11월 방어주 급락한 톡톡 코스피 금융주"
-  ],
-  [
-   "2026-11-15T06:01:22.517893+09:00",
-   "한미 얄타 선전 풀고 대화 막아야 꼬인 제2의 북미 APEC 없는"
-  ],
-  [
-   "2026-11-15T06:01:22.517893+09:00",
-   "관세협상 재계 총수들과 대통령 민관 논의 후속"
-  ],
   [
    "2026-11-15T06:12:28.276949+09:00",
    "키웠다 닉스에 자금 빚투 변동성 삼전 집중"
@@ -6467,9 +6439,13 @@
   [
    "2026-11-15T12:01:20.119815+09:00",
    "지원 TV 동해면 SK오션플랜트 띠앗 고성 대형 경로당에 봉사단"
+  ],
+  [
+   "2026-11-15T12:10:59.166096+09:00",
+   "노동자 보호 2심도 하이닉스 승소 희귀암 법원 엔지니어 반도체 산재"
   ]
  ],
- "last_run": "2026-11-15T12:01:26.210265+09:00",
+ "last_run": "2026-11-15T12:11:04.559528+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
