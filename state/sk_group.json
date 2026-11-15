@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202611123809h",
-  "https://www.hani.co.kr/arti/politics/bluehouse/1287095.html",
-  "https://news.jtbc.co.kr/article/NB12327798?influxDiv=NAVER",
-  "https://www.mediawatch.kr/news/article.html?no=261716",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6865241_37004.html",
-  "https://www.namdonews.com/news/articleView.html?idxno=929116",
-  "http://www.kwangju.co.kr/article.php?aid=1794481200805314277",
-  "https://www.m-i.kr/news/articleView.html?idxno=2018027",
-  "https://www.gpkorea.com/news/articleView.html?idxno=148547",
-  "https://www.khan.co.kr/article/202611122006005",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=229749",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6865244_37004.html",
   "https://www.fnnews.com/news/202611122001352502",
   "https://www.news1.kr/world/international-economy/6352561",
@@ -2999,20 +2988,20 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=305041",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611102036492560106571",
   "https://www.newspim.com/news/view/20261116000078",
-  "https://view.asiae.co.kr/article/2026111608164642113"
+  "https://view.asiae.co.kr/article/2026111608164642113",
+  "https://www.fntimes.com/html/view.php?ud=202611160817279616048b718333_18",
+  "http://www.kjdaily.com/article.php?aid=1794785166692348276",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000082961",
+  "https://www.jasm.co.kr/news/view/325347/?sc=Naver",
+  "https://www.newsis.com/view/NISX20261116_0003868938",
+  "https://www.yna.co.kr/view/AKR20261116018100008?input=1195m",
+  "https://biz.sbs.co.kr/article_hub/20000346574?division=NAVER",
+  "https://www.asiatime.co.kr/article/20261116500024",
+  "https://www.g-enews.com/view.php?ud=202611131624575980b065b72042_1",
+  "https://www.g-enews.com/view.php?ud=202611131635581995b065b72042_1",
+  "https://www.etoday.co.kr/news/view/2648394"
  ],
  "seen_titles": [
-  "동반위,동반성장지수최우수44곳선정…6곳명예기업합류",
-  "이상일용인시장\"반도체세수늘면교통·복지투자확대\"",
-  "‘메가’충청서첫삽…이대통령“23.6조원추가투자”",
-  "'HBM80%'쥔삼전닉스파워…젠슨황스캔들끄떡없다?",
-  "[26.11.12증시인싸잇]엔비디아악재에증시출렁...코스피·코스닥동...",
-  "엔비디아한때8%폭락‥이번주에만897조증발했다",
-  "반도체산단첫삽흙준비",
-  "호남반도체‘컨트롤타워’일원화시급",
-  "이상일용인특례시장,'공동주택민생현장소통버스킹'서현안논의",
-  "\"기업투자에일자리늘어난다\"…지방주택시장도기대감",
-  "“청년상황다룬‘춘추정병시대’시의적절…신년기획때후속보도...",
   "임상묵SK에너지회장,재능기부로이웃사랑실천",
   "\"앨리스황,베이징에\"‥미중정상,만나서뭐하나",
   "남광토건,3기신도시부천대장'하우스토리디센트'13일견본주택개...",
@@ -6001,7 +5990,18 @@
   "[굿모닝!글로벌뉴욕증시]엔비디아리더쉽부재및앤트로픽자금조...",
   "[더벨][배당ETF돋보기]'PLUS고배당주',금융주배당늘자월분배금...",
   "[모닝리포트]\"SK이터닉스,풍력손실털고태양광으로반등…'매수'유...",
-  "토스,'통신마이데이터'전문기관지정…\"사기업최초\""
+  "토스,'통신마이데이터'전문기관지정…\"사기업최초\"",
+  "성동구'옥수파크힐스'18평,5.5억오른24.4억원에거래[일일신고가...",
+  "[오늘증시전망]엔비디아실적주목",
+  "'젠슨황쇼크'딛고반등할까…엔비디아실적·앤트로픽상장에쏠린...",
+  "LS증권\"SK하이닉스,HBM4확대·주주환원강화…목표가유지\"",
+  "엔비디아發한파에삼성전자·SK하이닉스약세…반도체투톱'주춤'",
+  "한투증권,내년코스피목표8,300…\"점진적상승세\"",
+  "한투증권\"내년코스피목표치8300…단계적상승\"",
+  "젠슨황복귀추진…엔비디아경영혼란가중",
+  "[제약ESG코드]SK케미칼,치매예방부터생산환경까지ESG보폭넓혀",
+  "SK바이오팜,'세노바메이트'일본상륙…동북아3개국시장진출완료",
+  "SK증권\"롯데에너지머티리얼즈,국내유일회로박수혜주…쇼티지진입..."
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,29 @@
   [
    "2026-11-16T08:20:59.232888+09:00",
    "토스 지정 통신 사기업 전문기관 마이데이터"
+  ],
+  [
+   "2026-11-16T08:31:08.409844+09:00",
+   "단계적 내년 목표치 코스피 한투증권 상승"
+  ],
+  [
+   "2026-11-16T08:31:08.409844+09:00",
+   "혼란 엔비디아 복귀 젠슨 가중 경영"
+  ],
+  [
+   "2026-11-16T08:31:08.409844+09:00",
+   "SK케미칼 보폭 치매 ESG 예방부터 생산환경까지 넓혀"
+  ],
+  [
+   "2026-11-16T08:31:08.409844+09:00",
+   "상륙 일본 3개국 동북아 완료 진출 세노바메이트 SK바이오팜 시장"
+  ],
+  [
+   "2026-11-16T08:31:08.409844+09:00",
+   "진입 국내 회로박 쇼티지 유일 롯데에너지머티리얼즈 SK증권 수혜주"
   ]
  ],
- "last_run": "2026-11-16T08:21:21.348274+09:00",
+ "last_run": "2026-11-16T08:31:24.658076+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
