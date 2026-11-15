@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6333853",
-  "https://www.ajunews.com/view/20261027160033636",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541838",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1541836",
   "https://www.mk.co.kr/article/12184131",
   "https://www.sedaily.com/article/20106894",
@@ -2999,12 +2996,12 @@
   "https://www.newsinside.kr/news/articleView.html?idxno=5048559",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=268778",
   "https://www.joongang.co.kr/article/25478699",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254913"
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254913",
+  "http://www.cctimes.kr/news/articleView.html?idxno=937140",
+  "https://news.tf.co.kr/read/national/2388907.htm",
+  "https://www.munhwa.com/article/11631361"
  ],
  "seen_titles": [
-  "최태원의‘AI시대인재육성’실험…설명회에만4000명넘게몰렸다",
-  "[더벨][SK그룹인사풍향계]'재무·전략통'강동수,친정이노베이션복...",
-  "빨라지는재계연말인사…복잡해진반도체셈법",
   "화훼주산지김해,국내육성거베라신품종현장평가회",
   "김해시,국내육성거베라신품종현장평가회개최",
   "'노태우비자금수사마무리되나'...이진수법무대행\"자금원천추적...",
@@ -6001,7 +5998,10 @@
   "최태원\"모든계열사AI컴퍼니로\"…반도체·에너지연결해'AI플라이휠...",
   "최태원\"AI시대,성장이또다른성장이끄는선순환만들어야\"",
   "최태원“기존사업틀깨고‘AI컴퍼니’로재정의해야”",
-  "최태원SK회장\"AI플라이휠통해성장이성장만드는선순환구조만들..."
+  "최태원SK회장\"AI플라이휠통해성장이성장만드는선순환구조만들...",
+  "충남도의회교육위,행감서'교육사각지대해소·미래역량강화'주문",
+  "법도절차도건너뛴'광교청사매각검토구상'…혼란만키운경기도행...",
+  "“반도체만으론안된다”…최태원,SK에내린새로운특명"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-11-15T12:00:35.218522+09:00",
    "승부수에 본격화 AI 협력 정의선 이재용"
+  ],
+  [
+   "2026-11-15T13:00:28.606241+09:00",
+   "새로운 특명 내린 된다 SK에 반도체만으론"
   ]
  ],
- "last_run": "2026-11-15T12:50:26.949067+09:00",
+ "last_run": "2026-11-15T13:00:40.530359+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
