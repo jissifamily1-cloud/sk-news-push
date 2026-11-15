@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngetnews.com/news/articleView.html?idxno=555850",
-  "https://www.impacton.net/news/articleView.html?idxno=30659",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424990",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503506",
-  "https://www.thebigdata.co.kr/view.php?ud=2026111216200524740a47484cf8_23",
-  "https://www.nocutnews.co.kr/news/6606082",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=886980",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=305477",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=203240",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=325765",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491843",
   "https://www.mt.co.kr/stock/2026/11/12/2026111216322888919",
@@ -2999,18 +2990,18 @@
   "https://www.ajunews.com/view/20261115135046054",
   "https://www.seoul.co.kr/news/economy/industry/2026/11/15/20261115500096?wlog_tag3=naver",
   "https://www.mk.co.kr/article/12209349",
-  "https://economist.co.kr/article/view/ecn202611150012"
+  "https://economist.co.kr/article/view/ecn202611150012",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=211399",
+  "https://www.econovill.com/news/articleView.html?idxno=757300",
+  "https://www.kmib.co.kr/article/20261115500990",
+  "https://www.mk.co.kr/article/12209383",
+  "https://www.sedaily.com/article/20114492",
+  "https://www.hankookilbo.com/news/article/A2026111514480004168?did=NA",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005614",
+  "https://www.mk.co.kr/article/12209373",
+  "https://www.mk.co.kr/article/12209367"
  ],
  "seen_titles": [
-  "코스피,엔비디아발불확실성에0.61%하락···5340선마감",
-  "'2730억흑자→591억적자'..KB증권은왜3분기실적을바꿨나",
-  "충남도신속행정지원으로삼성전자아산사업장조기착공",
-  "【위클리ESG행사】11월3주차",
-  "[K바이오10대장점검⑨]SK바이오사이언스,매출80%CDMO···적자탈출...",
-  "[코스피지수선물옵션]효성중공업·HD현대일렉트릭훨훨…전력기기...",
-  "메모리값급등에게임업계'최적화'집중...구형PC품는넷마블·펄어비...",
-  "李대통령\"중소기업상대정책금융,조금더과감하게\"",
-  "코스피,'젠슨황해임위기'악재에등락끝에0.6%↓",
   "한전,17개기관과미래성장동력확보협력",
   "[현장]“20세기식해법으론퇴보”…미래세대에넘길한일경제공동체...",
   "[르포]아침부터저녁까지'피부관리솔루션'총출동…컬리뷰티페스타...",
@@ -6001,7 +5992,16 @@
   "[아주사설│기본·원칙·상식]강대국셈법충돌하는선전APEC,시험대...",
   "‘황의시대’끝난엔비디아…삼성·SK,차기CEO누가될까촉각",
   "스페이스X덜고메모리더담은큰손들",
-  "\"빚내서삼전닉스샀다가반토막\"...반도체대장주에7조원'빚투'몰렸..."
+  "\"빚내서삼전닉스샀다가반토막\"...반도체대장주에7조원'빚투'몰렸...",
+  "최태원SK회장\"성장이성장이끄는AI플라이휠만들자\"",
+  "반도체변동성에흔들리는증시…빚투·ELS·대기자금까지'경고등'",
+  "AI랠리‘심판의주’…젠슨황없이실적발표하는엔비디아,120조역...",
+  "최태원,AI선순환강조…\"기존사업틀깨야\"",
+  "반도체소부장ETF일주일새32%질주",
+  "670조돈줄끊길까…젠슨황퇴장에AI생태계시험대",
+  "수도권데이터센터통과기준상향…분산특구는기술평가만",
+  "코스피3분의1이대주주지분과반·저PBR",
+  "[단독]이대통령이퇴출까지언급한회사어디길래…코스피3분의1해당..."
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,21 @@
   [
    "2026-11-15T17:31:09.307379+09:00",
    "삼전닉스 몰렸 반도체 7조원 대장주에 빚내서 반토막 샀다가 빚투"
+  ],
+  [
+   "2026-11-15T17:40:59.732610+09:00",
+   "상향 통과기준 기술평가만 분산특구는 수도권 데이터센터"
+  ],
+  [
+   "2026-11-15T17:40:59.732610+09:00",
+   "대주주지분 코스피 과반 3분의1이 저PBR"
+  ],
+  [
+   "2026-11-15T17:40:59.732610+09:00",
+   "대통령이 회사 퇴출까지 3분의1 코스피 언급한 어디길래 해당"
   ]
  ],
- "last_run": "2026-11-15T17:31:28.742024+09:00",
+ "last_run": "2026-11-15T17:41:11.302705+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
