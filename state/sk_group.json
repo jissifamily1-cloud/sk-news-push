@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hellot.net/news/article.html?no=116261",
   "https://daily.hankooki.com/news/articleView.html?idxno=1424627",
   "https://www.topstarnews.net/news/articleView.html?idxno=16274997",
   "https://biz.sbs.co.kr/article_hub/20000346063?division=NAVER",
@@ -2999,10 +2998,10 @@
   "https://weeklytrade.co.kr/news/view.html?no=102242",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=362539",
   "http://www.gnmaeil.com/news/articleView.html?idxno=598778",
-  "https://theviewers.co.kr/View.aspx?No=4310553"
+  "https://theviewers.co.kr/View.aspx?No=4310553",
+  "https://www.apnews.kr/news/articleView.html?idxno=3053136"
  ],
  "seen_titles": [
-  "인텔\"데이터센터GPU에LPDDR활용확대\"…차세대메모리협력모색",
   "엔비디아젠슨황해임수순밟나…이사회,차기CEO물색본격화",
   "충청권메가프로젝트착공식개최,첨단산업투자본격실행",
   "삼성6조HBM공장첫삽…李,392조메가프로젝트투자속도전",
@@ -6001,25 +6000,10 @@
   "[무역은리스크관리다]새콤달콤재미있는무역리스크비책(84)",
   "최태원\"AI사업간선순환구축\"…SK,반도체넘어서비스까지확장",
   "국토공간대전환,'준비된경남'균형발전길연다",
-  "[손기호의일본탐방]미쓰이화학,JSR인수…삼성·SK소재공급망영향..."
+  "[손기호의일본탐방]미쓰이화학,JSR인수…삼성·SK소재공급망영향...",
+  "최태원,SK성장공식바꾼다…'AI플라이휠'로토큰이코노미정조준"
  ],
  "recent_sigs": [
-  [
-   "2026-11-15T15:11:09.244233+09:00",
-   "삼구 국내 회장 이어 투자와 일자리로 해외서 구자관"
-  ],
-  [
-   "2026-11-15T15:11:09.244233+09:00",
-   "문사철 타고 문송합니다 AI 돌아온"
-  ],
-  [
-   "2026-11-15T15:11:09.244233+09:00",
-   "메모리에 로봇이 안전벨트 해킹당하면 AI 채우는 이유"
-  ],
-  [
-   "2026-11-15T15:11:09.244233+09:00",
-   "SFC 정점 실적 1위 변수 상장 OLED 특허 몸값은 청색 패소"
-  ],
   [
    "2026-11-15T15:21:09.236635+09:00",
    "토큰 다이어트 모두의 AI 승부 받치는 LGU"
@@ -6333,7 +6317,7 @@
    "영향 미쓰이화학 JSR 삼성 공급망 소재 인수"
   ]
  ],
- "last_run": "2026-11-15T21:11:08.984659+09:00",
+ "last_run": "2026-11-15T21:21:03.575469+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
