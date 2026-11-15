@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=203250",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=203249",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61403",
-  "https://www.mt.co.kr/stock/2026/11/12/2026111216430187323",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121152534110778",
-  "http://www.osen.co.kr/article/G1112909088",
-  "http://www.osen.co.kr/article/G1112909089",
   "http://www.osen.co.kr/article/G1112909087",
   "http://www.osen.co.kr/article/G1112909090",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2354785",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3752526",
   "https://www.ajunews.com/view/20261115144111160",
   "https://www.ajunews.com/view/20261115150804248",
-  "https://www.ajunews.com/view/20261115155844345"
+  "https://www.ajunews.com/view/20261115155844345",
+  "https://www.dt.co.kr/article/12095276",
+  "https://www.fnnews.com/news/202611151817055908",
+  "https://www.fnnews.com/news/202611151815451831",
+  "https://www.fnnews.com/news/202611151815495394",
+  "https://www.mt.co.kr/world/2026/11/15/2026111316583675717",
+  "https://www.fnnews.com/news/202611151815379009",
+  "https://www.kpinews.kr/newsView/1065604241113978"
  ],
  "seen_titles": [
-  "거래식고평가손겹쳤다…대형증권사,3Q영업익7.6조→1.8조",
-  "대미투자막전막후생동감넘쳐…AI기대·우려,균형있게보도를",
-  "[현장]\"AI가사람을얼마나도왔나\"...성능보다실질적도움에주목",
-  "[더밸류브리핑]오늘의증권사소식...KB증권·SK증권",
-  "[LAW투데이]중국스파이사건?배후는알리바바?",
-  "[사진]'머니투데이주주친화대상-2026IR대상'영광의얼굴들",
-  "사퇴압박거세지는젠슨황…K반도체對中사업부담",
   "[사진]LG세이퀸김민지,모두함께응원해요",
   "[사진]LG세이퀸김민지,승리의응원해요",
   "[사진]LG세이퀸김민지,신나는응원",
@@ -6001,13 +5994,16 @@
   "이상일용인시장,철도3개노선5차계획반영요청…홍지선장관에자...",
   "재무개선끝낸SK,리밸런싱2.0선언...주력계열사'AI비즈니스'행...",
   "'한국판IRA'국회심사대오른다…삼성·SK'수출문턱',LG'품목지정...",
-  "[APEC정상회의]관세완화·유가안정은'기회'…반도체규제·LNG수급..."
+  "[APEC정상회의]관세완화·유가안정은'기회'…반도체규제·LNG수급...",
+  "‘빚투’7조·ELS청산까지…증시변동성뇌관된삼전닉스",
+  "칩만팔던SK,AI앱까지진출…최태원'AI플라이휠'선언",
+  "SK하이닉스,5800억원자금유입기대",
+  "젠슨황리스크'희비'…외인,삼전사고하닉팔아",
+  "AI중앙은행물거품?'린치핀'젠슨황빠지니월가이탈조짐",
+  "40대는국장,60대는미장으로…증시변동성에엇갈린투심",
+  "美법원,삼성전자·SK하이닉스D램담합소송기각신청거부"
  ],
  "recent_sigs": [
-  [
-   "2026-11-15T12:20:59.474166+09:00",
-   "대부분 착실했던 잃었다 은행원이 정신과를 39세 10년간 모은"
-  ],
   [
    "2026-11-15T12:41:03.054197+09:00",
    "만기 ELS 담았는데 식은땀 다가오자 믿고 9천피"
@@ -6411,9 +6407,17 @@
   [
    "2026-11-15T18:11:08.827880+09:00",
    "관세 기회 수급 반도체 안정은 완화 유가 LNG 규제"
+  ],
+  [
+   "2026-11-15T18:21:12.661388+09:00",
+   "엇갈린 투심 변동성에 미장으로 60대는 증시 40대는 국장"
+  ],
+  [
+   "2026-11-15T18:21:12.661388+09:00",
+   "법원 담합 신청 D램 소송 SK하이닉스 삼성전자 거부 기각"
   ]
  ],
- "last_run": "2026-11-15T18:11:22.514354+09:00",
+ "last_run": "2026-11-15T18:21:21.792567+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
