@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisanews24.co.kr/19874",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54660",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=61323",
-  "https://www.sentv.co.kr/article/view/sentv202611120209",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2240200",
-  "https://biz.heraldcorp.com/article/10934919",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=93316",
-  "https://www.kpinews.kr/newsView/1065604705255266",
   "https://www.kyosu.net/news/articleView.html?idxno=212391",
   "https://www.koreajoongangdaily.com/business/without-huang-nvidias-chips-hold-up-but-its-ai-investment-web-may-not/12970452",
   "https://www.edaily.co.kr/News/Read?newsId=04759286645645064&mediaCodeNo=257",
@@ -2999,17 +2991,17 @@
   "http://www.the-biz.co.kr/news/articleView.html?idxno=731385",
   "https://www.bigtanews.co.kr/article/view/big202611150008",
   "https://biz.chosun.com/stock/stock_general/2026/11/16/E2HM6VOUW5CF3NJ2ZP6RMKUJDA/",
-  "https://www.sedaily.com/article/20114423"
+  "https://www.sedaily.com/article/20114423",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=625330",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11937",
+  "https://www.etoday.co.kr/news/view/2648372",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101303",
+  "https://view.asiae.co.kr/article/2026111211081570988",
+  "https://www.edaily.co.kr/News/Read?newsId=01279206645646376&mediaCodeNo=257",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=326032",
+  "https://www.thelec.kr/news/articleView.html?idxno=65452"
  ],
  "seen_titles": [
-  "산업현장으로확장되는AI-인텔이제시한컴퓨팅과협력전략",
-  "아산서충청권메가프로젝트착공식…삼성113조투자본격화",
-  "외국인은사흘째'사자'…코스피,사흘만에하락",
-  "23개기업손잡고소버린·피지컬AI정조준…'2026인텔AI서밋서울'...",
-  "SK인텔릭스,동반성장지수‘우수’획득…\"성과공유제확대할것\"",
-  "392조메가프로젝트4개월만첫삽…충청,첨단산업거점우뚝",
-  "앤트로픽IPO,스페이스X때와다르다…삼성전자·SK하이닉스수혜기대...",
-  "코스피·코스닥,전일급등후차익실현에동반하락",
   "아시아정유사,아프리카산원유에주목…SK에너지도유조선용선",
   "영남이공대,삼성웰스토리등21개기업채용설명회운영",
   "WithoutHuang,Nvidia’schipsholdup.ButitsAIinvestmentwebmayno.",
@@ -6001,7 +5993,15 @@
   "[주간증시온도계]외국인이산코스피·기관이띄운코스닥…폭락딛고...",
   "[증권리포트분석]①미래에셋·메리츠·유진·DS투자증권적중률0%",
   "LS證“SK하이닉스,HBM4공급확대에사상최대실적행진…목표가240...",
-  "“AX전시성과제는금물...데이터의‘복리효과’노려야”"
+  "“AX전시성과제는금물...데이터의‘복리효과’노려야”",
+  "삼성전자·SK하이닉스에몰린'빚투'7조원육박…국내전체의27%",
+  "[오늘의경제뉴스]엔비디아실적·앤트로픽상장…이번주AI증시중대...",
+  "[오늘의IR]이마트·코스맥스·이마트등",
+  "SK,반도체다음은'서비스'…최태원\"'토큰이코노미'선점해야\"",
+  "대형M&A외국계독식깬토종글랜우드PE…승부처는'이것'[PE는지금]",
+  "\"코스닥,정책모멘텀동력부족해...본격적수요회복아직\"",
+  "김대종한국시장경제교수협회장,\"한국총부채GDP대비244.7%…재정건...",
+  "SK그룹,AI연산서비스기업으로도약"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,33 @@
   [
    "2026-11-16T07:41:02.217298+09:00",
    "전시성 노려야 AX 복리효과 과제는 금물 데이터의"
+  ],
+  [
+   "2026-11-16T07:50:58.952045+09:00",
+   "이마트 코스맥스"
+  ],
+  [
+   "2026-11-16T07:50:58.952045+09:00",
+   "대형M 글랜우드PE 이것 승부처는 토종 외국계 독식"
+  ],
+  [
+   "2026-11-16T07:50:58.952045+09:00",
+   "수요회복 정책 동력 모멘텀 아직 코스닥 본격적 부족해"
+  ],
+  [
+   "2026-11-16T07:50:58.952045+09:00",
+   "반도체 선점해야 토큰 이코노미 다음은 서비스 최태원"
+  ],
+  [
+   "2026-11-16T07:50:58.952045+09:00",
+   "총부채 한국시장경제교수협회장 재정건 대비 GDP 김대종 한국"
+  ],
+  [
+   "2026-11-16T07:50:58.952045+09:00",
+   "도약 기업으로 SK그룹 연산 AI 서비스"
   ]
  ],
- "last_run": "2026-11-16T07:41:15.914201+09:00",
+ "last_run": "2026-11-16T07:51:17.836071+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
