@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20261027516511?OutUrl=naver",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54037",
   "https://www.chosun.com/economy/industry-company/2026/10/28/5MOTUFIRGZD57IRVV5E253ODLM/",
   "https://www.peoplewatch.co.kr/article/view/ppw202610280006",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015735",
@@ -2999,11 +2997,11 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261115181828lz0",
   "https://www.fnnews.com/news/202611151817055908",
   "http://www.yonhapnewstv.co.kr/news/MYH20261115182536Za5",
-  "https://www.g-enews.com/view.php?ud=202611151834454615e30fcb1ba8_1"
+  "https://www.g-enews.com/view.php?ud=202611151834454615e30fcb1ba8_1",
+  "https://www.kmib.co.kr/article/20261115501359",
+  "https://www.dt.co.kr/article/12095287"
  ],
  "seen_titles": [
-  "[더벨][영상|People&Story]하이닉스다음은AI…28년째판키우는최...",
-  "빨라진인사…삼성‘사업부장겸직해소’SK‘리더십개편’주목",
   "'올공'봉쇄에도…세계정상과시한K-펜싱의힘",
   "SK네트웍스,희망퇴직실시…AI컴퍼니위한조직구조효율화",
   "[더벨]'경영복귀'최신원SK네트웍스회장,비용절감전략'희망퇴직'",
@@ -6001,7 +5999,9 @@
   "감독관코앞에서부정행위파장…수능앞두고비상",
   "칩만팔던SK,AI앱까지진출…최태원'AI플라이휠'선언",
   "미중러첫정상회동…이란·핵군축에한반도촉각",
-  "최태원“SK모든계열사AI기업으로재정의”…반도체·에너지·서비스..."
+  "최태원“SK모든계열사AI기업으로재정의”…반도체·에너지·서비스...",
+  "“돌아와요젠슨황”…미국실리콘밸리‘절박한’구명운동",
+  "[기획]포스트젠슨황…삼전닉스가새판짠다"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,17 @@
   [
    "2026-11-15T18:10:23.719676+09:00",
    "리밸런싱 끝낸 계열사 선언 주력 재무 AI 비즈니스 개선"
+  ],
+  [
+   "2026-11-15T19:20:20.780800+09:00",
+   "젠슨 절박한 구명운동 미국 실리콘밸리 돌아와요"
+  ],
+  [
+   "2026-11-15T19:20:20.780800+09:00",
+   "젠슨 포스트 삼전닉스가 새판 짠다"
   ]
  ],
- "last_run": "2026-11-15T19:10:24.597838+09:00",
+ "last_run": "2026-11-15T19:20:34.274897+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
