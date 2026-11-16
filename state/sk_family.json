@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202610294201b",
-  "https://www.jasm.co.kr/news/view/323486/?sc=Naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=2012144",
   "https://shindonga.donga.com/3/all/13/6435826/1",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=50171",
   "https://www.yna.co.kr/view/AKR20261029117751062?input=1195m",
@@ -2999,12 +2996,12 @@
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=194695",
   "https://www.newsgn.com/news/articleView.html?idxno=585932",
   "https://www.polinews.co.kr/news/articleView.html?idxno=748530",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005955"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005955",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=722126",
+  "https://www.idomin.com/news/articleView.html?idxno=2019709",
+  "http://www.iminju.net/news/articleView.html?idxno=172534"
  ],
  "seen_titles": [
-  "최태원,'한일경제공동체'구상밝혀\"일본과합치면GDP6조달러\"",
-  "학위도채용도없다는데…SK‘2년제교육’에2030몰린이유는?[biz-플...",
-  "김해시,장애인일자리·환경안전·쌀소비확대…'민생혁신'본격화",
   "[이궁淨見直球]차라리무당(巫堂)에게맡겨라",
   "경기도의회더불어민주당,\"안광률대표중심전국광역의회협력나선...",
   "윤택,기인의공중부양성공담공개…'라스'최고의1분",
@@ -6001,17 +5998,12 @@
   "SK그룹,'성장이성장낳는'AI플라이휠가동…반도체·인프라넘어AI...",
   "농촌진흥청차장,김해치유농업현장방문",
   "[재계포커스]최태원\"SK는AI컴퍼니\"…'리밸런싱2.0',정리넘어'돈...",
-  "AI반도체큰손흔들리나…‘매출17조+a’삼성·SK,기회와위기의갈..."
+  "AI반도체큰손흔들리나…‘매출17조+a’삼성·SK,기회와위기의갈...",
+  "김상경농촌진흥청차장,김해중앙치유농업센터건립현장점검",
+  "농촌진흥청차장,김해치유농업현장점검",
+  "건국대,세계행정학회와국제학술대회공동개최"
  ],
  "recent_sigs": [
-  [
-   "2026-11-16T10:30:30.058323+09:00",
-   "세계행정학회 건강고령사회연구원 주최 건국대 국제학술대회 공동 서울"
-  ],
-  [
-   "2026-11-16T10:30:30.058323+09:00",
-   "보폭 AI 서비스로 군살 확장"
-  ],
   [
    "2026-11-16T11:00:36.349613+09:00",
    "복귀 14만명 서명 청원에 젠슨 동참 머스크도"
@@ -6055,9 +6047,13 @@
   [
    "2026-11-16T16:00:32.571790+09:00",
    "반도체 기회와 삼성 위기의 17조 흔들리나 AI 매출 큰손"
+  ],
+  [
+   "2026-11-16T16:30:31.652401+09:00",
+   "세계행정학회와 개최 공동 국제학술대회 건국대"
   ]
  ],
- "last_run": "2026-11-16T16:20:30.889940+09:00",
+ "last_run": "2026-11-16T16:30:42.272299+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
