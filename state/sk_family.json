@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lec.co.kr/news/articleView.html?idxno=752939",
   "http://www.weeklytoday.com/news/articleView.html?idxno=800193",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=283438",
   "https://www.goodmorningcc.com/news/articleView.html?idxno=454914",
@@ -2999,10 +2998,10 @@
   "https://www.ceoscoredaily.com/page/view/2026111615450716157",
   "https://it.chosun.com/news/articleView.html?idxno=3000000001121",
   "https://www.kukinews.com/article/view/kuk202611160226",
-  "http://www.breaknews.com/1251317"
+  "http://www.breaknews.com/1251317",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=33134"
  ],
  "seen_titles": [
-  "파독간호사들서울영락의료과학고방문..예비간호인력들과뜻깊은...",
   "외동딸1년도안돼관뒀다…‘세라젬’양자입양,윈윈인까닭",
   "\"HBM주문,공급물량2배\"…하이닉스,메모리정점론잠재워[아침&매일...",
   "\"어라?!\"삼성전자실적발표직후,급락전환한이유",
@@ -6001,7 +6000,8 @@
   "“AI황제컴백하나”젠슨황복귀설‘솔솔’…삼성·SK,엔비디아경...",
   "AI인프라강화나선SK온…GPU인력확보",
   "김해에전국첫‘중앙치유농업센터’공정률‘90%’",
-  "최태원SK그룹회장“성장선순환‘AI플라이휠’구조만들어야”"
+  "최태원SK그룹회장“성장선순환‘AI플라이휠’구조만들어야”",
+  "최태원'AI선순환'주문에계열사는희비…SK하이닉스최대이익·배터..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-16T17:40:15.160321+09:00",
    "인프라 나선 인력 AI GPU 확보 SK온 강화"
+  ],
+  [
+   "2026-11-16T18:10:14.728543+09:00",
+   "희비 주문에 계열사는 이익 SK하이닉스 선순환 AI 배터"
   ]
  ],
- "last_run": "2026-11-16T18:00:44.674351+09:00",
+ "last_run": "2026-11-16T18:10:27.251554+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
