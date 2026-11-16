@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172706",
-  "https://www.the-today.com/news/articleView.html?idxno=92632",
   "http://www.breaknews.com/1246675",
   "https://www.jbnews.com/news/articleView.html?idxno=1514659",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2310153",
@@ -2999,11 +2997,11 @@
   "https://www.mediawatch.kr/news/article.html?no=261746",
   "https://www.sedaily.com/article/20114787",
   "https://www.junggi.co.kr/news/articleView.html?idxno=38501",
-  "https://www.sedaily.com/article/20114782"
+  "https://www.sedaily.com/article/20114782",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147104",
+  "https://www.newsis.com/view/NISX20261116_0003869485"
  ],
  "seen_titles": [
-  "민주평통청주시협의회,청주평화통일리더아카데미",
-  "LG화학,LG엔솔지분2.5조처분…\"빚갚고미래투자\"",
   "민주당광역의원협출범⋯안광률,\"지방정치가주민삶바꿀때자치분...",
   "추미애,'2026DMZ포럼'서\"생태환경등북한과협력방안모색\"",
   "울릉군사랑의열매나눔봉사단김옥분단장취임",
@@ -6001,7 +5999,9 @@
   "최태원“전계열사,기존틀깨야”…반도체성과잇는AI플라이휠제...",
   "젠슨황복귀청원에14만명서명…머스크도동참",
   "SK디스커버리,SK에코플랜트PRS7년만에정산",
-  "수능D-3초비상…‘11만원AI커닝’에전수험생기기점검돌입"
+  "수능D-3초비상…‘11만원AI커닝’에전수험생기기점검돌입",
+  "최태원회장\"AI시대,혼자서는생존불가능…개방적협력으로'플라이...",
+  "건국대,세계행정학회22년만에'서울국제학술대회'공동개최"
  ],
  "recent_sigs": [
   [
@@ -6093,7 +6093,7 @@
    "초비상 AI 커닝 수험생 돌입 점검 기기 수능 11만"
   ]
  ],
- "last_run": "2026-11-16T11:00:55.307257+09:00",
+ "last_run": "2026-11-16T11:10:24.028908+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
