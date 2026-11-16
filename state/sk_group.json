@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12208838",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001058",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284916&CMPT_CD=P0010",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1425000",
-  "https://www.seoulfn.com/news/articleView.html?idxno=642531",
-  "https://www.newscj.com/news/articleView.html?idxno=3448670",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=305033",
-  "https://www.the-today.com/news/articleView.html?idxno=93555",
-  "http://www.breaknews.com/1250934",
-  "http://www.breaknews.com/1250991",
   "https://www.viewsnnews.com/article?q=239695",
   "https://www.joongangenews.com/news/articleView.html?idxno=563843",
   "https://www.joongangenews.com/news/articleView.html?idxno=563842",
@@ -2999,19 +2989,19 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000083352",
   "https://biz.sbs.co.kr/article_hub/20000346875?division=NAVER",
   "https://www.news1.kr/industry/general-industry/6355939",
-  "https://www.yna.co.kr/view/AKR20261117013500011?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261117013500011?input=1195m",
+  "http://www.yonhapnewstv.co.kr/news/MYH2026111707483645r",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147156",
+  "https://biz.chosun.com/stock/stock_general/2026/11/17/O6IN3GJNLJD3TAW4YN5IK2KD4Y/",
+  "https://biz.heraldcorp.com/article/10939143",
+  "https://www.businessplus.kr/news/articleView.html?idxno=119965",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000083356",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6866182_37012.html",
+  "http://www.newskr.kr/news/articleView.html?idxno=108052",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6866181_37012.html",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=301325"
  ],
  "seen_titles": [
-  "미중러APEC회동,한국에닥칠변화는…반도체·북한핵·우크라이나종...",
-  "SCL,수원시취약계층어르신위해'찾아가는건강검진'실시",
-  "국제성모병원,'서로나눔김장대축제'참여…이웃에온정전해",
-  "“李,치적위해주식시장개입…개미손실에는한가한관전평”[국힘]",
-  "[AI제국의위기⑤]젠슨황퇴장에피지컬AI새변수···현대차·LG로...",
-  "SK증권·단국대,인공새집13곳서어린새이소확인",
-  "엔비디아집단이직협박서한,알고보니'허위'…수장공백틈탄시장...",
-  "AI發메모리특허전쟁커진다…버포드캐피털,韓반도체주목",
-  "최태원\"한일경제연대,선언넘어실행으로\"···2045년경제공동체청...",
-  "이대통령,이재용과충청메가프로젝트착공식참석…“과감한투자감...",
   "11월2주차SK하이닉스주가131만원터치후하락마감",
   "뉴욕증시혼조마감-반도체·AI기술주약세에나스닥0.91%하락",
   "[젠슨황의두얼굴,그후(2부)]중국에공장둔삼성·SK도사정권…...",
@@ -6001,7 +5991,17 @@
   "삼성·SK하이닉스현금329조원쌓였다…1년새193조원불어난이유",
   "[마켓프리뷰]'황리스크'속AI빅위크경계감…국내증시'덜컹'",
   "적자사업털고알짜자회사도판다…석화업계,생존몸부림",
-  "[연합뉴스이시각헤드라인]-07:30"
+  "[연합뉴스이시각헤드라인]-07:30",
+  "[3분증시]뉴욕증시,젠슨황거취논란에동반하락",
+  "美반도체지수3일간9%급락...엔비디아전고점대비시총2조달러증발",
+  "대신證“SK스퀘어,내년최대4.8조원주주환원전망…목표가150만원”",
+  "‘젠슨황파장지속’뉴욕증시일제히하락…엔비디아4.1%·SK하이닉스...",
+  "500대기업3분기영업익239조원…삼성전자·SK하이닉스가80%차지",
+  "엔비디아4%급락에뉴욕증시휘청…나스닥2.49%하락",
+  "AI매도세계속,뉴욕증시일제히하락‥엔비디아4.1%↓",
+  "[오늘의이슈]엔비디아실적앞두고반도체주다시흔들",
+  "하이닉스용인팹'상생실험실'‥소부장제품검증",
+  "[분석]'AI디폴트'기업도약하는SK㈜…차세대에이전트아키텍처로혁..."
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-11-17T07:41:01.809892+09:00",
    ""
+  ],
+  [
+   "2026-11-17T07:51:19.916328+09:00",
+   "차세대 AI 에이전트 기업 아키텍처로 디폴트 도약하는"
   ]
  ],
- "last_run": "2026-11-17T07:41:17.784218+09:00",
+ "last_run": "2026-11-17T07:51:25.562164+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
