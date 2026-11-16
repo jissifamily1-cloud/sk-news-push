@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=20261028160345974de70f162d1_1",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100138",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901168",
-  "https://www.ajunews.com/view/20261028151518679",
-  "https://www.newsis.com/view/NISX20261012_0003821926",
-  "https://www.sedaily.com/article/20107393",
-  "https://www.nspna.com/news/?newsid=833533",
-  "https://www.wikitree.co.kr/articles/1169927",
-  "https://www.hani.co.kr/arti/politics/diplomacy/1284674.html",
-  "https://monthly.chosun.com/news/articleView.html?idxno=71821",
-  "https://www.yna.co.kr/view/AKR20260928119800007?input=1195m",
   "http://www.yonhapnewstv.co.kr/news/MYH20261028191808vRT",
   "https://www.seoultimes.news/news/article.html?no=2000101498",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280196&t=NN",
@@ -2999,20 +2988,20 @@
   "https://www.ceoscoredaily.com/page/view/2026111310340787489",
   "https://news.bizwatch.co.kr/article/industry/2026/11/16/0002",
   "https://www.newstopkorea.com/news/articleView.html?idxno=49054",
-  "https://www.sidae.com/article/2026111114493792000"
+  "https://www.sidae.com/article/2026111114493792000",
+  "https://www.maniareport.com/view.php?ud=20261116090459906737600e7ec7_19",
+  "http://www.inews24.com/view/2024760",
+  "https://www.newsway.co.kr/news/view?ud=2026111314554514948",
+  "https://www.newsway.co.kr/news/view?ud=2026111115263398109",
+  "https://biz.chosun.com/it-science/ict/2026/11/16/5DNLYQLGSFBZRABRSTHPDOKTFE/",
+  "https://www.fnnews.com/news/202611151554368166",
+  "https://www.techm.kr/news/articleView.html?idxno=157368",
+  "https://biz.heraldcorp.com/article/10938004",
+  "https://www.sedaily.com/article/20114649",
+  "https://www.nocutnews.co.kr/news/6607026",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=300957"
  ],
  "seen_titles": [
-  "최태원·노소영재상고심대법원2부배당…주심김성수대법관",
-  "최태원-노소영재산분할재상고심대법원2부배당",
-  "최태원·노소영'재산분할'재상고심대법2부배당…분할비율다시쟁...",
-  "최태원·노소영이혼소송대미장식할대법원재판부배당,2440억심리",
-  "최태원제안‘韓日경제공동체’구상,다음달중장기로드맵나온다[...",
-  "최태원·노소영재상고심대법원2부배당…주심김성수",
-  "[경북시군소식]울릉군,'사랑의열매나눔봉사단'단장이·취임식개최...",
-  "[종합]최대난제풀리는'800조호남반도체'…삼성전자·SK하이닉스투...",
-  "이재용,올해주식순취득5조원…홍라희증여·매입영향",
-  "대기업오너家주식손바뀜...누가받고누가넘겼나",
-  "메모리영업이익률80%시대…사상최대실적에SK하이닉은투자확대승...",
   "추미애경기지사“남북교류목적은체제와해아니다…감염병·생태...",
   "추미애지사\"남북교류는상호이해위한것\"...DMZ평화협력구상제시",
   "최태원-노소영재산분할재상고심심리시작",
@@ -6001,7 +5990,18 @@
   "[그래픽]2026SK그룹CEO세미나핵심논의의제",
   "최태원\"SK전체가AI기업돼야\"…'AI선순환'승부수",
   "SK㈜완전자회사·중복상장해소…SK디스커버리5355억확보",
-  "SK하이닉스,협력사성장주기따라'밀착상생'나선다"
+  "SK하이닉스,협력사성장주기따라'밀착상생'나선다",
+  "[김기철의스포츠브레인]\"이번이마지막시즌\"끝을정하자뇌는우선...",
+  "실패해도개발비보상…SK하이닉스,협력사R&D위험나눈다",
+  "SK하이닉스,협력사R&D실패위험나눈다…5년간1조4000억투입",
+  "HBM생산급해도'협력사먼저'…SK하이닉스,용인'트리니티팹'짓는다...",
+  "[르포]SK하이닉스용인팹에1000평‘상생실험실’…소부장국산화앞...",
+  "[르포]\"반도체공장안에또다른팹\"…SK하이닉스,용인에'상생전초...",
+  "[가봤다]韓반도체소부장퀀텀점프도약대...SK하이닉스'트리니티팹...",
+  "[르포]“반도체공장1000평소부장에내준다”…SK하이닉스의세계유...",
+  "10분만에하이닉스와미팅하고첨단EUV빌린다…K메모리공장서소부장...",
+  "[르포]SK하닉'트리니티팹'둘러본외신기자의질문\"이거왜하죠?\"",
+  "[현장]\"과감히도전하라\"최태원회장주문에…SK하이닉스,소부장실패..."
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,25 @@
   [
    "2026-11-16T09:00:38.716075+09:00",
    "따라 성장 밀착 주기 SK하이닉스 상생 협력사 나선다"
+  ],
+  [
+   "2026-11-16T09:10:22.141249+09:00",
+   "세계 SK하이닉스의 소부장에 반도체 내준다 1000평 공장"
+  ],
+  [
+   "2026-11-16T09:10:22.141249+09:00",
+   "공장서 10분만에 K메모리 소부장 EUV 미팅하고 하이닉스와 첨단 빌린다"
+  ],
+  [
+   "2026-11-16T09:10:22.141249+09:00",
+   "SK하닉 외신 트리니티 둘러본 질문 이거 하죠 기자의"
+  ],
+  [
+   "2026-11-16T09:10:22.141249+09:00",
+   "SK하이닉스 실패 도전하라 소부장 회장 과감히 주문에"
   ]
  ],
- "last_run": "2026-11-16T09:00:49.064214+09:00",
+ "last_run": "2026-11-16T09:10:41.757805+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
