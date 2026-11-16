@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2382704.htm",
   "https://www.hankyung.com/article/2026102943841",
   "https://www.hankyung.com/article/2026102944381",
   "http://www.lec.co.kr/news/articleView.html?idxno=752939",
@@ -2999,10 +2998,10 @@
   "https://www.fntoday.co.kr/news/articleView.html?idxno=398366",
   "https://www.bloter.net/news/articleView.html?idxno=678728",
   "http://www.newswatch.kr/news/articleView.html?idxno=81915",
-  "https://www.ceoscoredaily.com/page/view/2026111615450716157"
+  "https://www.ceoscoredaily.com/page/view/2026111615450716157",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001121"
  ],
  "seen_titles": [
-  "\"우주항공·로봇·방산·조선도국가전략기술\"조승래,세제지원확대...",
   "국민미래포럼참석한오세훈시장-최태원회장",
   "조승래,우주항공·로봇·방산·조선도세액공제확대법발의",
   "파독간호사들서울영락의료과학고방문..예비간호인력들과뜻깊은...",
@@ -6001,7 +6000,8 @@
   "[지역현안기획]용주골폐쇄추진4년,시민들은밤거리를걷는데…파...",
   "[단독]최태원차녀민정,韓에AI헬스케어법인설립…국책과제주관",
   "[초점]엔비디아젠슨황퇴진…K-반도체공급망변화는",
-  "“AI황제컴백하나”젠슨황복귀설‘솔솔’…삼성·SK,엔비디아경..."
+  "“AI황제컴백하나”젠슨황복귀설‘솔솔’…삼성·SK,엔비디아경...",
+  "AI인프라강화나선SK온…GPU인력확보"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-16T17:20:15.544339+09:00",
    "차녀 AI헬스케어 법인 민정 주관 설립 국책과제"
+  ],
+  [
+   "2026-11-16T17:40:15.160321+09:00",
+   "인프라 나선 인력 AI GPU 확보 SK온 강화"
   ]
  ],
- "last_run": "2026-11-16T17:30:34.601165+09:00",
+ "last_run": "2026-11-16T17:40:29.241493+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
