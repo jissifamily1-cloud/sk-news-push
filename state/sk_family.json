@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mygoyang.com/news/articleView.html?idxno=90957",
-  "https://www.sportschosun.com/entertainment/2026-10-29/202610290100184870012546",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729614",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172706",
   "https://www.the-today.com/news/articleView.html?idxno=92632",
   "http://www.breaknews.com/1246675",
@@ -2999,12 +2996,12 @@
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=326066",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1306196",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=7311",
-  "https://www.mediawatch.kr/news/article.html?no=261746"
+  "https://www.mediawatch.kr/news/article.html?no=261746",
+  "https://www.sedaily.com/article/20114787",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=38501",
+  "https://www.sedaily.com/article/20114782"
  ],
  "seen_titles": [
-  "김해시,'가루쌀활용가공기술교육'실시",
-  "강원도의맛,수원에서만나다…농수특산물직거래로상생·나눔실천",
-  "SKC,동박부진속4년연속적자…최태원공들인‘유리기판’,내년엔...",
   "민주평통청주시협의회,청주평화통일리더아카데미",
   "LG화학,LG엔솔지분2.5조처분…\"빚갚고미래투자\"",
   "민주당광역의원협출범⋯안광률,\"지방정치가주민삶바꿀때자치분...",
@@ -6001,7 +5998,10 @@
   "'군살뺀'SK,AI서비스로보폭확장",
   "추미애경기도지사,북한에감염병·재난·생태환경협력제안검토",
   "[줌인]박현주미래에셋회장이'젠슨황복귀'동참한복잡한속내는?",
-  "최태원“전계열사,기존틀깨야”…반도체성과잇는AI플라이휠제..."
+  "최태원“전계열사,기존틀깨야”…반도체성과잇는AI플라이휠제...",
+  "젠슨황복귀청원에14만명서명…머스크도동참",
+  "SK디스커버리,SK에코플랜트PRS7년만에정산",
+  "수능D-3초비상…‘11만원AI커닝’에전수험생기기점검돌입"
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,21 @@
   [
    "2026-11-16T10:30:30.058323+09:00",
    "보폭 AI 서비스로 군살 확장"
+  ],
+  [
+   "2026-11-16T11:00:36.349613+09:00",
+   "복귀 14만명 서명 청원에 젠슨 동참 머스크도"
+  ],
+  [
+   "2026-11-16T11:00:36.349613+09:00",
+   "SK디스커버리 PRS 만에 정산 SK에코플랜트 7년"
+  ],
+  [
+   "2026-11-16T11:00:36.349613+09:00",
+   "초비상 AI 커닝 수험생 돌입 점검 기기 수능 11만"
   ]
  ],
- "last_run": "2026-11-16T10:50:27.927015+09:00",
+ "last_run": "2026-11-16T11:00:55.307257+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
