@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=767202",
-  "https://www.nocutnews.co.kr/news/6599661",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000090.html",
   "https://www.hankyung.com/article/2026103054007",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=50186",
   "http://www.newstomato.com/ReadNews.aspx?no=1318628&inflow=N",
@@ -2999,12 +2996,12 @@
   "http://enews.imbc.com/News/RetrieveNewsInfo/525073",
   "https://www.nc.press/news/articleView.html?idxno=631164",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084041",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285517&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285517&CMPT_CD=P0010",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=89648",
+  "https://www.hankyung.com/article/202611171092H",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=748570"
  ],
  "seen_titles": [
-  "SK하이닉스ADR2.5%가흔든다...\"볼모로잡힌한국증시\"",
-  "중간선거앞둔트럼프의‘투자압박’…워싱턴간총수들민간외교총...",
-  "SK,오늘사장단인사…'경영안정속변화'전망",
   "[단독]삼전닉스통큰배당에지분보유한계열사들7조배당금'잭팟'....",
   "최태원SK그룹회장,11월5일서울대경제학부특강...AI시대시장경제...",
   "SK사장단인사,이달말나오나…CEO세미나전조기단행관측",
@@ -6001,7 +5998,10 @@
   "'라스'정재형,절친이적에폭로당했다…\"요정?콘텐츠괴물\"",
   "'다름'에대한이해...뮤지컬변신'이상한변호사우영우',김이후·홍...",
   "SK최태원\"칩·에너지·서비스잇는'AI플라이휠'로성장선순환구축...",
-  "배임죄,'기업옥죄기'아닌'경제정의'위한장치"
+  "배임죄,'기업옥죄기'아닌'경제정의'위한장치",
+  "GIST,'2026G.E.T.&Re:Born'개최…전남·광주에너지산업의혁신과성...",
+  "김이후·홍나현,변호사우영우연기한다…뮤지컬내년1월17일개막",
+  "폴리뉴스모닝브리핑11월17일화요일"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,13 @@
   [
    "2026-11-17T09:40:22.723691+09:00",
    "위한 아닌 배임죄 장치 기업 정의 경제 옥죄기"
+  ],
+  [
+   "2026-11-17T09:50:14.101394+09:00",
+   "화요일 17일 모닝브리핑 11월 폴리뉴스"
   ]
  ],
- "last_run": "2026-11-17T09:40:37.329525+09:00",
+ "last_run": "2026-11-17T09:50:26.226909+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
