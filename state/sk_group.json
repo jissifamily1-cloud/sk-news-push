@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/national/2389183.htm",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268799",
-  "https://dealsite.co.kr/articles/172824",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=305074",
-  "https://economist.co.kr/article/view/ecn202611160019",
-  "https://www.khan.co.kr/article/202611161130001",
-  "https://www.newsis.com/view/NISX20261116_0003869521",
-  "https://www.mk.co.kr/article/12209809",
   "https://basketkorea.com/news/newsview.php?ncode=1065580464011153",
   "https://biz.heraldcorp.com/article/10938465",
   "https://www.news1.kr/local/gwangju-jeonnam/6355165",
@@ -2999,17 +2991,17 @@
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100904",
   "https://basketkorea.com/news/newsview.php?ncode=1065614241208174",
   "https://www.mk.co.kr/article/12207812",
-  "http://www.kjdaily.com/article.php?aid=1794917771692713276"
+  "http://www.kjdaily.com/article.php?aid=1794917771692713276",
+  "https://www.sportsworldi.com/newsView/20261117519167",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=598907",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=514624",
+  "https://www.news1.kr/society/court-prosecution/6357299",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=565627",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715378",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=447309",
+  "https://www.khan.co.kr/article/202611172127005"
  ],
  "seen_titles": [
-  "SKTelecom,HyosungHeavyIndustriesteamuponAIdatacenters",
-  "민형배시장“내년첨단산업·기본소득확대등집중투자”",
-  "日뚫은‘세노바메이트’…동북아상업화완료",
-  "[통신View]AI·보안·공공서비스까지…미래인프라주도권잡기'총력...",
-  "SKT·효성중공업,GW급AI데이터센터구축",
-  "'젠슨황파장'AI투자심리위축…코스피5200밑으로",
-  "Seoulstocksdownover2pctlateMon.morningonforeignselling",
-  "효성重전력기술,SKTAI인프라와만났다…'차세대데이터센터'정조준",
   "제약바이오협회,아일랜드NIBRT와바이오인력양성협력확대추진",
   "SKT·효성중공업,GW급AI데이터센터전력인프라구축협력확대",
   "토스,통신마이데이터로요금제추천...통신비절감시장공략",
@@ -6001,7 +5993,15 @@
   "[442.star]'김예건말고저도있습니다'군인되어돌아온김준하…김은...",
   "[BK리뷰]‘변준형4Q13점’정관장,DB에대역전승…‘시즌첫5연승...",
   "애프터블루웨이브…K산업손익계산서[스페셜리포트]",
-  "삼성전자·SK하이닉스거래대금7조4천억원…비중53%로하락"
+  "삼성전자·SK하이닉스거래대금7조4천억원…비중53%로하락",
+  "골결정력아쉬웠으나,기대감심었다…김은중호,멕시코에0-0무승부",
+  "글로벌원전기업경남집결협력모색",
+  "민형배시장,'2030년반도체양산'...특별법개정·국비총력",
+  "이용철법무장관후보,과거3주택자전력…\"무거운마음\"(종합)",
+  "'5천피'붕괴…코스피,9개월만에최저치4968",
+  "‘젠슨황후폭풍’에9개월전으로돌아간코스피",
+  "코스피,2%대낙폭에5000선무너져...삼성전기,LG에너지솔루션등하락",
+  "“올한국경제성장률3.9%전망”…IMF,한달만에0.6%P또상향"
  ],
  "recent_sigs": [
   [
@@ -6763,9 +6763,17 @@
   [
    "2026-11-17T21:11:00.000083+09:00",
    "애프터 K산업 손익계산서 블루웨이브"
+  ],
+  [
+   "2026-11-17T21:31:12.128294+09:00",
+   "5000선 하락 낙폭에 코스피 무너져 LG에너지솔루션 삼성전기"
+  ],
+  [
+   "2026-11-17T21:31:12.128294+09:00",
+   "한국 IMF 만에 상향 전망 경제성장률"
   ]
  ],
- "last_run": "2026-11-17T21:21:03.246332+09:00",
+ "last_run": "2026-11-17T21:31:20.991993+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
