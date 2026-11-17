@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://m.sports.naver.com/basketball/article/065/0000304761",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444928",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42743",
-  "https://www.dailian.co.kr/news/view/1715503/?sc=Naver",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147104",
-  "https://view.asiae.co.kr/article/2026111611072002951",
-  "https://www.newsis.com/view/NISX20261116_0003869485",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713661",
-  "https://www.etnews.com/20261116000173",
   "https://www.newsis.com/view/NISX20261116_0003869180",
   "https://www.dizzotv.com/site/data/html_dir/2026/11/16/2026111680083.html",
   "https://www.hankyung.com/article/202611168239O",
@@ -2999,18 +2990,18 @@
   "https://www.straightnews.co.kr/news/articleView.html?idxno=315577",
   "https://www.cbci.co.kr/news/articleView.html?idxno=627870",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=319050",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1111759"
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1111759",
+  "http://www.dailyesports.com/view.php?ud=20261117183644967574bcc1e038_27",
+  "https://www.mydaily.co.kr/page/view/2026111718421025132",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16279135",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41705",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=54835",
+  "https://www.hankyung.com/article/2026111728897",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261117183905AmF",
+  "https://www.yna.co.kr/view/AKR20261117162500007?input=1195m",
+  "https://www.edaily.co.kr/News/Read?newsId=04916726645646704&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "SKT·효성중공업,GW급AIDC사업'맞손'…전력기술공동검토·실증",
-  "SKT·효성중공업,GW급AI데이터센터구축맞손…전력인프라협력",
-  "SKT,효성중공업과GW규모AIDC구축…신규사업기회발굴",
-  "SK텔레콤,효성중공업과GW급AI데이터센터구축협력나선다",
-  "SK텔레콤·효성중공업GW급AI데이터센터구축협력,핵심전력설비안...",
-  "SKT,효성중공업과기가급AIDC전력인프라구축협력",
-  "SKT-효성중공업,GW규모AI데이터센터구축'맞손'",
-  "SK텔레콤,효성중공업과GW급AI데이터센터전력설비조달'맞손'",
-  "젠슨황복귀청원에14만명서명…머스크도동참",
   "[2026안전포럼]서영주포스텍교수\"AI가안전관리패러다임바꾼다\"",
   "[단독]월급은3.3%오르는데근로소득세40%더내라…정부,삼전닉스...",
   "韓사브르,이집트월드컵남녀단체전동반우승→송세라는에뻬개인...",
@@ -6001,7 +5992,16 @@
   "삼전·닉스성과급3년간106조전망…경기남부집값더뛰나",
   "[바닥매수광풍]SK하이닉스추락에도1,600억쏟아부었다…증시공포속...",
   "방송·미디어AI활용도양극화…지역방송저조",
-  "SK하이닉스M17셔틀충북업체선정"
+  "SK하이닉스M17셔틀충북업체선정",
+  "LCK정글러대이동…'커즈'문우찬도KT와결별",
+  "11번가,3분기영업손실111억원…‘일회성비용’에적자확대",
+  "ktwiz·울산HD,코리아스포츠진흥대상프로스포츠브랜드대상수상",
+  "코스피,9개월여만에종가5,000선붕괴···고점대비47%빠져",
+  "코스피,외국인1.4조매도에'5천선'내줘",
+  "\"다내잘못\"…고점대비47%폭락에개미들눈물",
+  "[뉴스초점]AI커닝에'초비상'…시험장넘어채용시장까지",
+  "ktwiz·울산HD,코리아스포츠진흥대상",
+  "美AI대중봉쇄강화...韓AIDC,中고객못받는다"
  ],
  "recent_sigs": [
   [
@@ -7083,9 +7083,13 @@
   [
    "2026-11-17T18:41:04.071854+09:00",
    "M17 SK하이닉스 셔틀 선정 충북업체"
+  ],
+  [
+   "2026-11-17T18:51:00.744245+09:00",
+   "받는다 AI 대중봉쇄 AIDC 강화 고객"
   ]
  ],
- "last_run": "2026-11-17T18:41:26.296237+09:00",
+ "last_run": "2026-11-17T18:51:06.626064+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
