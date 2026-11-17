@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://basketkorea.com/news/newsview.php?ncode=1065580464011153",
-  "https://biz.heraldcorp.com/article/10938465",
-  "https://www.news1.kr/local/gwangju-jeonnam/6355165",
-  "https://www.edaily.co.kr/News/Read?newsId=02076246645646376&mediaCodeNo=257",
-  "https://biz.heraldcorp.com/article/10938461",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261172",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553703846",
   "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/16/2026111680096.html",
@@ -2999,14 +2994,14 @@
   "https://www.idaegu.co.kr/news/articleView.html?idxno=565627",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715378",
   "http://www.econonews.co.kr/news/articleView.html?idxno=447309",
-  "https://www.khan.co.kr/article/202611172127005"
+  "https://www.khan.co.kr/article/202611172127005",
+  "http://www.kjdaily.com/article.php?aid=1794918617692714276",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790264.html",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94562",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=565662",
+  "https://www.natv.go.kr/natv/news/newsView.do?newsId=514604"
  ],
  "seen_titles": [
-  "제약바이오협회,아일랜드NIBRT와바이오인력양성협력확대추진",
-  "SKT·효성중공업,GW급AI데이터센터전력인프라구축협력확대",
-  "토스,통신마이데이터로요금제추천...통신비절감시장공략",
-  "삼성전자·SK하이닉스,소부장'양산문턱'낮춘다…기술검증지원확대",
-  "민형배전남광주시장\"2027년은'통합의힘'시민이체감하는성과로바...",
   "SKT·효성중공업,AIDC전력인프라협력···직류배전실증",
   "젠슨황복귀론솔솔…엔비디아AI기업금융지원이어갈까",
   "효성중공업,SK텔레콤AI데이터센터에전력설비공급협력",
@@ -6001,29 +5996,14 @@
   "'5천피'붕괴…코스피,9개월만에최저치4968",
   "‘젠슨황후폭풍’에9개월전으로돌아간코스피",
   "코스피,2%대낙폭에5000선무너져...삼성전기,LG에너지솔루션등하락",
-  "“올한국경제성장률3.9%전망”…IMF,한달만에0.6%P또상향"
+  "“올한국경제성장률3.9%전망”…IMF,한달만에0.6%P또상향",
+  "지슨·인디에프29%대급등…코스피5천선붕괴",
+  "'젠슨황쇼크'에오천피붕괴…美연준,AI투자위험경고",
+  "콩고에볼라사망5,568명…국내백신·진단주관심",
+  "휴식기맞은가스공사,풀어야할숙제'산더미'",
+  "유영하\"조작기소특검법은명백한위헌…조정식의장개헌제안은특검..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-17T15:31:20.721330+09:00",
-   "기회 동반성장데이 성장 개최 만든다 AI시대 협력사와 AX"
-  ],
-  [
-   "2026-11-17T15:31:20.721330+09:00",
-   "알짜도 유동성 판다 석화 되면 매각 영끌 확보"
-  ],
-  [
-   "2026-11-17T15:31:20.721330+09:00",
-   "서명한 측면과 위험 요소 양립 한국 샌프란시스코 선언 긍정적"
-  ],
-  [
-   "2026-11-17T15:31:20.721330+09:00",
-   "삼성 마이크로닉스 증설에 증산 밀린 주문 추가"
-  ],
-  [
-   "2026-11-17T15:31:20.721330+09:00",
-   "인프 통합 AI 인재 금융역량 총집결 지능연결"
-  ],
   [
    "2026-11-17T15:41:03.910171+09:00",
    "발전소 한파 3배 뚫은 원익피앤이 매출 전력장비 급상승 배터리"
@@ -6771,9 +6751,21 @@
   [
    "2026-11-17T21:31:12.128294+09:00",
    "한국 IMF 만에 상향 전망 경제성장률"
+  ],
+  [
+   "2026-11-17T21:41:02.525065+09:00",
+   "진단주 에볼라 백신 콩고 국내 사망 568명 관심"
+  ],
+  [
+   "2026-11-17T21:41:02.525065+09:00",
+   "풀어야 산더미 휴식기 숙제 가스공사 맞은"
+  ],
+  [
+   "2026-11-17T21:41:02.525065+09:00",
+   "명백한 위헌 특검법은 개헌 조정식 제안은 유영하 특검 의장 조작기소"
   ]
  ],
- "last_run": "2026-11-17T21:31:20.991993+09:00",
+ "last_run": "2026-11-17T21:41:13.599269+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
