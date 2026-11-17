@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3449012",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=887293",
-  "https://biz.sbs.co.kr/article_hub/20000346636?division=NAVER",
-  "https://en.yna.co.kr/view/AEN20261116004400320?input=2106m",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147109",
-  "https://www.biotimes.co.kr/news/articleView.html?idxno=36199",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/16/2026111650146.html",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=271227",
   "http://www.seouleconews.com/news/articleView.html?idxno=95032",
   "https://news.tf.co.kr/read/national/2389183.htm",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=268799",
@@ -2999,17 +2991,17 @@
   "https://news.cpbc.co.kr/article/1177105?division=NAVER",
   "https://www.starnewskorea.com/sports/2026/11/17/2026111716470490629",
   "https://www.cbci.co.kr/news/articleView.html?idxno=627658",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452236"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452236",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=884342",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611170126&t=NN",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850424&plink=ORI&cooper=NAVER",
+  "https://www.seoul.co.kr/news/economy/securities/2026/11/18/20261118029002?wlog_tag3=naver",
+  "https://www.newstnt.com/news/articleView.html?idxno=728987",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100904",
+  "https://basketkorea.com/news/newsview.php?ncode=1065614241208174",
+  "https://www.mk.co.kr/article/12207812"
  ],
  "seen_titles": [
-  "부천대장하우스토리디센트,견본주택사흘간1만2000명방문…3기신...",
-  "체험이구매로…컬리뷰티페스타,참여브랜드거래액470%'껑충'",
-  "코스피,외인매도세에5160선후퇴…코스닥도3%대급락[장중시황]",
-  "SKT,효성중공업과GW급AI데이터센터전력협력MOU체결",
-  "코스피·코스닥3%안팎하락중…외국인'팔자'",
-  "SK오션플랜트,경영불확실성에목표가48%↓…신세계,백화점둔화우...",
-  "효성중공업,SKT손잡고AI데이터센터전력시장공략",
-  "안경반사각까지살핀다…AI커닝에대기업채용도차단책부심",
   "\"협력방식어떻게바뀌나\"…韓반도체도차기엔비디아수장에'촉각'",
   "SKTelecom,HyosungHeavyIndustriesteamuponAIdatacenters",
   "민형배시장“내년첨단산업·기본소득확대등집중투자”",
@@ -6001,7 +5993,15 @@
   "[시사천국]'AI시대'채용공고천만건분석해보니…블루칼라보다급락...",
   "'남미강호'멕시코도쩔쩔...韓U-21대표팀,멕시코와접전끝에0-0...",
   "[뉴욕증시마감]시총2조달러증발했다…젠슨황사임여파에35%폭락...",
-  "[11월18일자]비즈니스포스트아침의주요기사"
+  "[11월18일자]비즈니스포스트아침의주요기사",
+  "SKAX,협력사AI경쟁력강화…기술·금융지원으로동반성장확대",
+  "'1만피'꿈꿨지만9달만에'반토막'…\"국장매콤하다\"vs\"이제사볼만\"",
+  "달콤한성장전망,씁쓸한긴축경고",
+  "악재가된AI…‘5000P’도내줬다",
+  "[공시]11월18일,코스피상장사62개종목자사주매수신청",
+  "[442.star]'김예건말고저도있습니다'군인되어돌아온김준하…김은...",
+  "[BK리뷰]‘변준형4Q13점’정관장,DB에대역전승…‘시즌첫5연승...",
+  "애프터블루웨이브…K산업손익계산서[스페셜리포트]"
  ],
  "recent_sigs": [
   [
@@ -6815,9 +6815,25 @@
   [
    "2026-11-17T21:01:36.098003+09:00",
    "비즈니스포스트 아침의 주요기사"
+  ],
+  [
+   "2026-11-17T21:11:00.000083+09:00",
+   "상장사 신청 종목 18일 11월 자사주 코스피 62개 매수"
+  ],
+  [
+   "2026-11-17T21:11:00.000083+09:00",
+   "군인 김예건 저도 김준하 김은 말고 있습니다 되어 돌아온"
+  ],
+  [
+   "2026-11-17T21:11:00.000083+09:00",
+   "13점 변준형 대역전승 시즌 DB에 5연승 정관장 4Q"
+  ],
+  [
+   "2026-11-17T21:11:00.000083+09:00",
+   "애프터 K산업 손익계산서 블루웨이브"
   ]
  ],
- "last_run": "2026-11-17T21:01:44.068757+09:00",
+ "last_run": "2026-11-17T21:11:14.923303+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
