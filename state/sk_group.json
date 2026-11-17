@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=755043",
-  "http://www.legaltimes.co.kr/news/articleView.html?idxno=96922",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504414",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=409828",
-  "https://www.businessplus.kr/news/articleView.html?idxno=119922",
-  "https://www.hankyung.com/article/202611168555i",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444931",
   "https://www.ddaily.co.kr/page/view/2026111611120028562",
   "https://www.yna.co.kr/view/AKR20261116068700017?input=1195m",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12211414",
   "https://view.asiae.co.kr/article/2026111719000377386",
   "https://www.kmib.co.kr/article/20261117501903",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3755002"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755002",
+  "http://www.osen.co.kr/article/G1112911424",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147104",
+  "https://www.segye.com/newsView/20261117515505?OutUrl=naver",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715177",
+  "https://www.ytn.co.kr/_ln/0102_202611171908164873",
+  "https://www.dt.co.kr/article/12095772"
  ],
  "seen_titles": [
-  "JDC,'제6회영리더스포럼,제주'개최…청년진로·국제교류방안논의",
-  "컬리뷰티페스타2026,관람객1만4000명···참여브랜드거래액470%증...",
-  "유니셈,3분기영업익128억…삼성전자투자확대에전년比632%↑",
-  "SK텔레콤-효성중공업,GW급AI데이터센터전력인프라구축협력",
-  "SKT,효성중공업과'GW급AI데이터센터'구축맞손…핵심전력망선제...",
-  "SKT·효성중공업,AI데이터센터전력인프라확보협력",
   "\"2027년산업전망은?\"…AI수익화·반도체실적성장주목",
   "SK텔레콤,AI데이터센터전력인프라강화…효성중공업과맞손",
   "한투증권“내년코스피8300간다…삼전·하이닉스가이익74%견인”",
@@ -6001,7 +5995,13 @@
   "\"애플,메모리최저가격보장에스마트폰·PC가격더뛸수도\"",
   "SK브로드밴드노조\"데이터센터사업분사반대…대안없는분사중단\"",
   "[단독]대기업입사시험파고든해외AI커닝업체",
-  "\"실적은좋은데왜팔까\"…반도체투톱에몰린1조7600억원"
+  "\"실적은좋은데왜팔까\"…반도체투톱에몰린1조7600억원",
+  "주전도아닌데FA로29억벌었다,가치인정받은슈퍼백업“내위치알...",
+  "최태원회장\"AI시대,혼자서는생존불가능…개방적협력으로'플라이...",
+  "‘젠슨황쇼크’후폭풍…5천피9개월여만에붕괴",
+  "코스피5천선아래로…2월수준으로돌아가",
+  "5천선무너진코스피...9개월만에최저수준",
+  "[기획]흔들리는반도체…D램가격도떨어졌다"
  ],
  "recent_sigs": [
   [
@@ -7075,9 +7075,13 @@
   [
    "2026-11-17T19:11:00.580531+09:00",
    "몰린 투톱에 실적은 1조7600억원 팔까 반도체 좋은데"
+  ],
+  [
+   "2026-11-17T19:20:58.064461+09:00",
+   "흔들리는 D램 가격도 떨어졌다 반도체"
   ]
  ],
- "last_run": "2026-11-17T19:11:09.559771+09:00",
+ "last_run": "2026-11-17T19:21:04.664277+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
