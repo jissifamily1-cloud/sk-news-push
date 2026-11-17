@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005962500",
-  "https://biz.heraldcorp.com/article/10938406",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211432",
-  "https://www.etoday.co.kr/news/view/2648609",
-  "https://www.etnews.com/20261116000183",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005962957",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=130883",
   "https://www.theguru.co.kr/news/article.html?no=109774",
   "https://news.dealsitetv.com/articles/178635",
@@ -2999,15 +2993,15 @@
   "https://www.seoul.co.kr/news/politics/2026/11/17/20261117500365?wlog_tag3=naver",
   "https://www.dt.co.kr/article/12095778",
   "https://www.ggilbo.com/news/articleView.html?idxno=1193787",
-  "https://www.thepowernews.co.kr/view.php?ud=20261117185804990461d72a7352_7"
+  "https://www.thepowernews.co.kr/view.php?ud=20261117185804990461d72a7352_7",
+  "http://www.segyebiz.com/newsView/20261117518237?OutUrl=naver",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261118.22003005209",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362661",
+  "https://www.pressian.com/pages/articles/2026111718391737570",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362648",
+  "https://www.g-enews.com/view.php?ud=20261117193310383fbbec65dfb_1"
  ],
  "seen_titles": [
-  "효성중공업·SKT,AI데이터센터전력인프라협력강화",
-  "효성중공업,SK텔레콤과AI데이터센터구축위한업무협약체결",
-  "AI돌릴서버있어도전기없으면멈춘다...SKT·효성중공업손잡았다",
-  "토스,‘내통신비’진단해맞춤요금제추천",
-  "SKT표AI데이터센터,효성중공업전력기술도입",
-  "SamsungElectronics,SKhynixedgelowerasU.S.chipstocksslump",
   "상승출발한코스피,5160선까지급락…외국인9000억넘게팔았다",
   "SK텔레콤-효성중공업,GW급AI데이터센터구축파트너십체결",
   "효성중공업·SK텔레콤,AI데이터센터전력구축사업맞손",
@@ -6001,29 +5995,15 @@
   "민형배특별시장,국회찾아지역현안해결‘광폭행보’",
   "SK브로드밴드노조,데이터센터사업분사반발…“성장대안마련해야...",
   "[주식마감]'AI시험부정행위논란'에지슨이틀연속상한가…인디에...",
-  "[더파워인터뷰]김상욱울산시장,\"앞으로3년이골든타임…대한민국..."
+  "[더파워인터뷰]김상욱울산시장,\"앞으로3년이골든타임…대한민국...",
+  "‘1만피’넘보던코스피…2월수준회귀",
+  "회사기밀도빼갈라…AI안경에산업현장도전전긍긍",
+  "SKAX,협력사120곳과AI사업협력확대…동반성장강화",
+  "코스피결국5천선도밀렸다…지수2월초수준으로회귀",
+  "SK스퀘어,3분기영업익7조9406억원…주주환원4조3000억원추진",
+  "메모리3사AI실적호조속독일DDR5가격지수607%도달"
  ],
  "recent_sigs": [
-  [
-   "2026-11-17T13:41:14.126188+09:00",
-   "집중 대신증권 관리 위험 강화 수익성 회복 보유자산"
-  ],
-  [
-   "2026-11-17T13:41:14.126188+09:00",
-   "SK엠앤서비스 더함께새희망 위생키트 인천TP 취약여성 100명에"
-  ],
-  [
-   "2026-11-17T13:41:14.126188+09:00",
-   "완납 투자 조달은 전환한 솔리다임 대여금 자금 흑자 모회사"
-  ],
-  [
-   "2026-11-17T13:41:14.126188+09:00",
-   "이틀째 순매수 삼전닉스 마이크로컨텍솔은 던진 상위 1위"
-  ],
-  [
-   "2026-11-17T13:41:14.126188+09:00",
-   "1순위 역세권에 하우스토리 시범단지 부천대장"
-  ],
   [
    "2026-11-17T13:51:06.069950+09:00",
    "팔자 벌이는 5000선 외인 코스피 1조원 공방"
@@ -7079,9 +7059,13 @@
   [
    "2026-11-17T19:41:09.677938+09:00",
    "울산시장 김상욱 골든타임 대한민국 3년이 앞으로"
+  ],
+  [
+   "2026-11-17T19:51:05.676367+09:00",
+   "가격 지수 도달 실적 독일 AI DDR5 호조 3사 메모리"
   ]
  ],
- "last_run": "2026-11-17T19:41:18.487325+09:00",
+ "last_run": "2026-11-17T19:51:11.785347+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
