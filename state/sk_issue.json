@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=768039",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=5103",
   "http://www.metroseoul.co.kr/article/20261111500475",
   "https://www.kbsm.net/news/view.php?idx=541329",
@@ -2999,10 +2998,10 @@
   "https://www.hankookilbo.com/news/article/A2026111815590005305?did=NA",
   "https://www.hani.co.kr/arti/society/society_general/1287987.html",
   "https://www.newspim.com/news/view/20261118001311",
-  "https://view.asiae.co.kr/article/2026111817174465407"
+  "https://view.asiae.co.kr/article/2026111817174465407",
+  "https://www.mt.co.kr/society/2026/11/18/2026111817311728339"
  ],
  "seen_titles": [
-  "공정위,'국고채담합'5개은행·10개증권사에과징금1.6조부과",
   "BS한양,동반성장지수평가서8년연속'우수'등급획득",
   "국고채담합제재,다음은소송전?…투자자배상은‘손해입증’관건",
   "국고채입찰담합15개딜러사과징금역대최대1.6조…7곳고발",
@@ -6001,15 +6000,11 @@
   "선관위특검,투표용지부족사태5개월만에첫구속영장청구",
   "‘AI커닝’세무사수석,개조계산기로명령어입력…경찰,주거지압...",
   "중수청,'한동훈딸스펙의혹'고발사건공수처·경찰로나눠이첩",
-  "경찰,'AI부정행위'세무사압수수색…계산기·수정테이프악용(종합)"
+  "경찰,'AI부정행위'세무사압수수색…계산기·수정테이프악용(종합)",
+  "경찰,'AI부정행위'세무사수석자택압수수색…출국금지도"
  ],
- "recent_sigs": [
-  [
-   "2026-11-18T12:01:05.874489+09:00",
-   "630억 가습기살균제 분담금 국가배상 소송 바이오"
-  ]
- ],
- "last_run": "2026-11-18T17:51:02.974032+09:00",
+ "recent_sigs": [],
+ "last_run": "2026-11-18T18:01:10.425963+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
