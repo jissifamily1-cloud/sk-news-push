@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newdaily.co.kr/site/data/html/2026/11/01/2026110100012.html",
-  "https://www.joongang.co.kr/article/25474690",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=621775",
   "https://www.fnnews.com/news/202611010825515905",
   "https://www.gukjenews.com/news/articleView.html?idxno=3738684",
   "https://isplus.com/article/view/isp202611010019",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3755696",
   "https://www.gukjenews.com/news/articleView.html?idxno=3755703",
   "https://www.naeil.com/news/read/609190",
-  "https://zdnet.co.kr/view/?no=20261111180623"
+  "https://zdnet.co.kr/view/?no=20261111180623",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494050",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/525255",
+  "https://dealsite.co.kr/articles/173045"
  ],
  "seen_titles": [
-  "최태원·올트먼서울서오찬회동…HBM·AI데이터센터협력논의주목",
-  "최태원SK그룹회장·오픈AI샘올트먼CEO오찬회동…HBM공급·AI데이...",
-  "최태원·샘올트먼,1년만에서울서재회…HBM·AI데이터센터협력주...",
   "최태원·올트먼회동…AI반도체협력논의주목",
   "[종합]최태원·이재용,올트먼과잇단회동…삼성·SK,AI인프라동맹...",
   "'깜짝방한'샘올트먼…삼성·SK경영진잇달아만났다",
@@ -6001,17 +5998,12 @@
   "용인특례시의회,청년취업·자립지원점검…사업성과사후관리주문",
   "최종현경기도의원,\"반복되는비화재보출동…막대한소방력낭비막을...",
   "최태원회장‘새로운자본주의’제안",
-  "웃고넘긴AI딥페이크,누군가에겐범죄…플랫폼책임어디까지"
+  "웃고넘긴AI딥페이크,누군가에겐범죄…플랫폼책임어디까지",
+  "최태원\"사회문제해결에도경제적보상필요\"···새성장모델제안",
+  "김간지,본인이저격했던'라스'출연…\"사실섭외기다렸다\"",
+  "[전자는지금]삼성전자‘더프레임프로’,오프라윈프리의연말선..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-18T07:10:19.344921+09:00",
-   "문전성시 라이벌 데이터센터 모호한 투자매력 통신 사업 vs"
-  ],
-  [
-   "2026-11-18T07:10:19.344921+09:00",
-   "청원 CEO 올트먼 머스크 젠슨 일론 운동에 지지 이재용 복귀"
-  ],
   [
    "2026-11-18T08:10:26.756397+09:00",
    "매각 KKR 협상 연장 요청에 산업부 SK도시가스 급선회"
@@ -6095,9 +6087,13 @@
   [
    "2026-11-18T13:10:15.280969+09:00",
    "웃고 넘긴 딥페이크 플랫폼 책임 어디까지 범죄 AI 누군가에겐"
+  ],
+  [
+   "2026-11-18T13:20:16.617402+09:00",
+   "프레임 프로 연말 삼성전자 윈프리의 오프라"
   ]
  ],
- "last_run": "2026-11-18T13:10:25.552354+09:00",
+ "last_run": "2026-11-18T13:20:28.758959+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
