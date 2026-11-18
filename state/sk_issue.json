@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082145",
-  "https://www.seoul.co.kr/news/society/2026/11/11/20261111500259?wlog_tag3=naver",
-  "https://www.ppss.kr/news/articleView.html?idxno=320285",
-  "https://www.apsk.co.kr/news/articleView.html?idxno=541025",
-  "https://www.ytn.co.kr/_ln/0104_202611111515352263",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89143",
-  "http://www.metroseoul.co.kr/article/20261111500440",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113646",
-  "http://www.joseilbo.com/news/news_read.php?uid=579431&class=17",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=284353",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7193375",
   "https://www.newsian.co.kr/news/articleView.html?idxno=101064",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=882253",
@@ -2999,19 +2989,19 @@
   "https://www.munhwa.com/article/11632338",
   "https://www.kmib.co.kr/article/20261118501838",
   "https://www.fnnews.com/news/202611181645028596",
-  "http://www.joseilbo.com/news/news_read.php?uid=579933&class=32"
+  "http://www.joseilbo.com/news/news_read.php?uid=579933&class=32",
+  "https://biz.chosun.com/topics/law_firm/2026/11/18/YLQ2VOHRUNGC3GFG4ZHGRP5A64/",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850325.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261118170827kfA",
+  "https://news.tf.co.kr/read/life/2390565.htm",
+  "https://www.khan.co.kr/article/202611181708001",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044669",
+  "https://www.hankookilbo.com/news/article/A2026111816320003145?did=NA",
+  "https://www.yna.co.kr/view/AKR20261118074551004?input=1195m",
+  "https://imnews.imbc.com/news/2026/society/article/6866667_36918.html",
+  "https://www.newspim.com/news/view/20261118001283"
  ],
  "seen_titles": [
-  "국힘'선관위부정선거'키우는지도부…'당내부정선거'소환한비당권...",
-  "공소청,‘구속영장청구전면담’시행한달…“법원기각률소폭감...",
-  "케타민92회자가투약수의사적발…식약처검찰송치",
-  "건보공단노조,의협특사경반대에반발…\"미환수액2조9160억원\"",
-  "트럼프알고도감쌌나?...엔비디아흔드는'스파이파문'[뉴스퀘어2PM]",
-  "SK에코플랜트,동반성장지수10년연속'최우수'등급유지",
-  "대신경제연구소·임팩트온,ESG공시리스크대응·기업가치제고논의",
-  "국고채입찰담합에1.6조과징금..금투업계“담합인정어렵다”",
-  "담합소송집중된대형로펌…퇴직자업무관리쟁점",
-  "공정위,국고채입찰담합15개금융사에과징금1조6천억원…역대최...",
   "국고채입찰담합15개사과징금1조6000억원대…사상최대",
   "BS한양,동반성장지수8년연속'우수'…하도급100%현금결제",
   "공정위,국고채담합과징금1.6조철퇴…KB증권3321억'최대'",
@@ -6001,7 +5991,17 @@
   "‘부정수석’세무냥이자택압수수색“공범존재가능성”",
   "[속보]경찰‘AI부정행위’세무사수석주거지압색",
   "경찰,'AI커닝'세무사수석자택압수수색…추가장비확보나서",
-  "경찰청장후보자\"한동훈딸'스펙의혹'수사아쉬워…끝나면감찰\""
+  "경찰청장후보자\"한동훈딸'스펙의혹'수사아쉬워…끝나면감찰\"",
+  "법무법인동인,‘개인정보보호·기술유출대응센터’신설",
+  "경찰,'AI부정행위'세무사수석합격자자택압수수색…공범여부수...",
+  "[속보]경찰'AI커닝'세무사수석주거지압수수색",
+  "경찰,'AI부정행위'세무사수석30대출국금지·압수수색(종합)",
+  "경찰,세무사수석자택압수수색···강제수사착수",
+  "유감은표했지만\"잘잘못따질일아냐\"…경찰청장후보자선긋기",
+  "시험장서외부노트북으로문제전송…'AI커닝'세무사수석자택압수...",
+  "경찰,AI부정행위세무사수석자택등압수수색…범행구체화(종합)",
+  "경찰,'세무사시험AI부정행위'한모씨자택등압수수색",
+  "특검,선관위직원8명첫구속영장청구…투표록위변조·투표율허위..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "630억 가습기살균제 분담금 국가배상 소송 바이오"
   ]
  ],
- "last_run": "2026-11-18T17:01:12.014727+09:00",
+ "last_run": "2026-11-18T17:10:53.589017+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
