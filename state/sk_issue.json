@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710049",
-  "https://news.tf.co.kr/read/economy/2387734.htm",
   "https://dealsite.co.kr/articles/172564",
   "https://www.sidae.com/article/2026111113440247933",
   "https://www.hankyung.com/article/2026111109981",
@@ -2999,11 +2997,11 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990048.html",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121514333560108570",
   "https://www.cbci.co.kr/news/articleView.html?idxno=628217",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445457"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445457",
+  "http://www.yonhapnewstv.co.kr/news/AKR202611190847234PA",
+  "http://www.nongaek.com/news/articleView.html?idxno=97530"
  ],
  "seen_titles": [
-  "금투협“국고채딜러담합제재과도…깊은유감”",
-  "국고채딜러15곳제재에금투협반발…\"과징금과도\"",
   "메리츠증권,3Q순익2064억벌어…공정위행정소송대응예고",
   "담당부처도'담합'아니라는데1.6조과징금",
   "\"국고채입찰담합\"…1.6조'역대급'과징금때린공정위",
@@ -6001,7 +5999,9 @@
   "'수정테이프에숨긴카메라,키보드된계산기'…치밀하게준비했던AI...",
   "[더벨][thebellLeagueTable|2026이사회평가]정보접근성1위고려아...",
   "캐시워크돈버는퀴즈19일정답은?",
-  "투썸,가맹점에고가물품강매했나…공정위조사"
+  "투썸,가맹점에고가물품강매했나…공정위조사",
+  "공정위,'고가물품강매의혹'투썸플레이스조사착수",
+  "[오늘의사설]\"무사안일수능당국..시험끝나도책임물어야\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "1위 정보접근성 고려아"
   ]
  ],
- "last_run": "2026-11-19T08:40:49.956021+09:00",
+ "last_run": "2026-11-19T08:50:51.521318+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
