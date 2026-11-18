@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1709288/?sc=Naver",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000078625",
-  "https://www.edaily.co.kr/News/Read?newsId=02217286645641784&mediaCodeNo=257",
   "https://www.hangyo.com/news/article.html?no=109909",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039529",
   "https://daily.hankooki.com/news/articleView.html?idxno=1420577",
@@ -2999,12 +2996,12 @@
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=326578",
   "http://www.4th.kr/news/articleView.html?idxno=2122172",
   "https://www.edaily.co.kr/News/Read?newsId=04569046645647032&mediaCodeNo=257",
-  "https://news.jtbc.co.kr/article/NB12328734?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12328734?influxDiv=NAVER",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261118205309IRK",
+  "https://www.ksmnews.co.kr/news/view.php?idx=630191",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732201"
  ],
  "seen_titles": [
-  "쇼트트랙최민정‘추월쇼’",
-  "SK·한화·HD현대는선별쇄신…삼성·LG,성과·미래사업에힘싣는다",
-  "조현범석방으로,3년오너리스크해소된한국타이어앞날은?",
   "투표소봉쇄에펜싱칼빌려간오상욱,2년만에아시아정상복귀",
   "잠실봉쇄에‘남의칼’들었지만…오상욱,아시아선수권정상탈환",
   "‘장비도못챙겼는데’펜싱오상욱…악재뚫고아시아정상탈환",
@@ -6001,13 +5998,12 @@
   "용인특례시의회문화복지위\"지적에그치지않겠다...정책개선끝까지...",
   "최태원·김희영명예훼손유튜버,항소심도징역1년구형",
   "[미리보는이데일리신문]벤츠도'탈독일'…韓,남일아니다",
-  "최민정,여전한'금빛질주'…\"왜은퇴하나요?\"만류에남긴말은"
+  "최민정,여전한'금빛질주'…\"왜은퇴하나요?\"만류에남긴말은",
+  "청문회도'AI부정행위'집중…김종철\"끝까지추적\"",
+  "울릉군의회,행정사무감사돌입",
+  "[EBN오늘(18일)이슈종합]엔비디아'어닝서프라이즈'에삼전·닉스반..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-18T14:50:15.948102+09:00",
-   "업계 구축 젠슨 엔비디아 복귀 경영진과 차단 채널 과제"
-  ],
   [
    "2026-11-18T15:40:16.413670+09:00",
    "구형 허위사실 유튜버 징역 유포 2심 동거인 1년"
@@ -6067,9 +6063,13 @@
   [
    "2026-11-18T18:40:14.972535+09:00",
    "투자법인 장부금액만 취득 추가 SK하닉 AI 투자 8200억 지분 3조"
+  ],
+  [
+   "2026-11-18T21:00:34.483087+09:00",
+   "어닝 서프라이즈 닉스 삼전 엔비디아"
   ]
  ],
- "last_run": "2026-11-18T20:50:25.590192+09:00",
+ "last_run": "2026-11-18T21:00:46.316124+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
