@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=153651",
-  "http://www.popcornnews.net/news/articleView.html?idxno=140388",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006562",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452180",
-  "https://www.edaily.co.kr/News/Read?newsId=04040966645646704&mediaCodeNo=257",
-  "https://biz.sbs.co.kr/article_hub/20000347009?division=NAVER",
-  "https://www.mediawatch.kr/news/article.html?no=261770",
-  "https://biz.sbs.co.kr/article_hub/20000347008?division=NAVER",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=398377",
   "http://kor.theasian.asia/archives/422067",
   "https://www.jbnews.com/news/articleView.html?idxno=1516171",
@@ -2999,17 +2991,17 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16280257",
   "https://www.sedaily.com/article/20116205",
   "https://www.hankyung.com/article/2026111857276",
-  "https://www.sisain.co.kr/news/articleView.html?idxno=58773"
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58773",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101538",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732206",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001357",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505653",
+  "https://www.viewsnnews.com/article?q=239793",
+  "https://www.sidae.com/article/2026111815482155303",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8577",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505648"
  ],
  "seen_titles": [
-  "한국투자증권,ELW258종목신규상장…지수·개별주식상품확대",
-  "한투운용반도체ETF,메모리대표주SK하이닉스서삼성전자로교체",
-  "[단독]LGU+,기술조직'고강도쇄신'…AI·데이터임원교체",
-  "롯데글로벌로지스새사령탑오른권순근,2차전지·방산·수소특수화...",
-  "[단독]MBK,내년SS3호펀드레이징착수...홈플러스사태후조달'시험...",
-  "[셀럽의한수]증권맨25년이상인데\"요즘이가장힘듭니다\"",
-  "500대기업3Q영업益239조…삼성전자·SK하이닉스가80%차지",
-  "[투자전략따라잡기]국장수급공백장기화결국개미탓?",
   "[빅데이터투데이]건설회사2026년11월브랜드평판랭킹...1위현대건설...",
   "[동북아정세브리핑]트럼프의북미회담카드와미·중·러정상외교…...",
   "디엘정보기술,AI반도체검사장비국산화도전…SK키파운드리생산라인...",
@@ -6001,7 +5993,15 @@
   "오늘국내증시전망…미국증시다우급락에코스피5,000선시험대,삼성...",
   "엔비디아,호실적에도2.9%하락...경쟁사AMD는5.3%↑[데일리국제금...",
   "\"드디어반등했는데\"…삼전닉스주주들안심못하는이유[종목+]",
-  "원화는강세,엔화는약세···두통화는왜갈라섰나"
+  "원화는강세,엔화는약세···두통화는왜갈라섰나",
+  "코스피영업익638조중436조가'삼전·하닉'…코스닥은50%↑",
+  "엔비디아호실적도못막은투심…매파연준에코스피고전예상",
+  "엔비디아호실적에도…나스닥0.4%상승그쳐",
+  "미국반도체주희비엇갈렸다…삼성전자·SK하이닉스에미칠영향은?",
+  "엔비디아또급락,150달러도위태",
+  "젠슨황퇴진에대중반도체봉쇄강화…\"한국기업족쇄우려\"",
+  "[글로벌마켓뷰]뉴욕증시,엔비디아역대급실적에도젠슨황부재부...",
+  "스페이스X넘보는앤트로픽IPO…삼성전자·SK하이닉스훈풍부나"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,29 @@
   [
    "2026-11-19T06:41:02.924515+09:00",
    "갈라섰나 약세 엔화는 통화는 원화는 강세"
+  ],
+  [
+   "2026-11-19T06:51:09.254812+09:00",
+   "SK하이닉스에 반도체주 미칠 미국 희비 영향은 삼성전자 엇갈렸다"
+  ],
+  [
+   "2026-11-19T06:51:09.254812+09:00",
+   "급락 위태 150달러도 엔비디아"
+  ],
+  [
+   "2026-11-19T06:51:09.254812+09:00",
+   "대중 강화 우려 족쇄 봉쇄 퇴진에 반도체 한국 젠슨 기업"
+  ],
+  [
+   "2026-11-19T06:51:09.254812+09:00",
+   "역대급 엔비디아 젠슨 실적에도 부재 뉴욕증시"
+  ],
+  [
+   "2026-11-19T06:51:09.254812+09:00",
+   "SK하이닉스 훈풍 넘보는 스페이스X 부나 앤트로픽 IPO 삼성전자"
   ]
  ],
- "last_run": "2026-11-19T06:41:24.237120+09:00",
+ "last_run": "2026-11-19T06:51:26.005187+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
