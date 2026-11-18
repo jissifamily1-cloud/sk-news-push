@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444183",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444186",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444187",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444185",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444184",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444188",
   "https://www.naeil.com/news/read/608429",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=107804",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444192",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/photos/8220029",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850164.html",
   "https://www.munhwa.com/article/11632203",
-  "https://www.newsis.com/view/NISX20261118_0003872978"
+  "https://www.newsis.com/view/NISX20261118_0003872978",
+  "https://www.etoday.co.kr/news/view/2649523",
+  "https://www.mediapen.com/news/view/1138239",
+  "https://www.tfmedia.co.kr/news/article.html?no=208991",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602191",
+  "https://www.edaily.co.kr/News/Read?newsId=02715846645647032&mediaCodeNo=257",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083197"
  ],
  "seen_titles": [
-  "[PD제재후폭풍]증권업계\"과징금매우부담…행정소송준비착수\"",
-  "[PD제재후폭풍]LTV·ELS이어또…은행권1년내내소송리스크",
-  "[PD제재후폭풍]기업은행,10년래최대과징금…충당금'폭탄'",
-  "[PD제재후폭풍]금투협\"WGBI70조호재에찬물…'대외신인도'경고등...",
-  "[PD제재후폭풍]증권사과징금1.4조…충당금부담에세전이익타격불...",
-  "[PD제재후폭풍]수천억떠안은증권가…딜러성과급'전전긍긍'",
   "노재헌주중대사‘노태우비자금’은닉혐의입건",
   "GS건설,동반성장지수6년연속'최우수'...협력사상생경영강화",
   "'공정위1.4조과징금'에도증권주충격제한적…미래에셋·키움상승",
@@ -6001,7 +5995,13 @@
   "겨울준비,이마트에서",
   "[포토]이마트,한파앞두고난방-생활용품할인판매[수능한파부터...",
   "[단독]요금내린다던코레일…SR통합3주만에인상논의착수",
-  "도이체방크,트럼프세금자료실수로유출하고백악관엔안알렸다"
+  "도이체방크,트럼프세금자료실수로유출하고백악관엔안알렸다",
+  "알리ㆍ테무,국내소비자상담창구의무화⋯한국어응대해야",
+  "해외플랫폼,국내소비자에한국어상담의무화…공정위가이드라인...",
+  "공정위,김범석쿠팡의장고발추진…\"허위자료제출에따른제재사안...",
+  "\"태광이호진자녀들,계열사부동산PFV출자'사업기회유용'의혹\"",
+  "[속보]‘퇴직금미지급’쿠팡CFS전현직대표징역형·법인벌금형구...",
+  "[SK케미칼리스크]가습기살균제국가배상분담금·630억소송…바이오..."
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,13 @@
   [
    "2026-11-18T10:40:55.645838+09:00",
    "3개월새 제외 계열 리밸런싱 계속 11개사"
+  ],
+  [
+   "2026-11-18T12:01:05.874489+09:00",
+   "630억 가습기살균제 분담금 국가배상 소송 바이오"
   ]
  ],
- "last_run": "2026-11-18T11:50:50.720140+09:00",
+ "last_run": "2026-11-18T12:01:15.021139+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6130,6 +6134,7 @@
   "ilovepc.co.kr": "디지털포스트(PC사랑 AI 에디션)",
   "popcornnews.net": "팝콘뉴스",
   "meconomynews.com": "시장경제신문",
-  "globale.co.kr": "글로벌E"
+  "globale.co.kr": "글로벌E",
+  "newsclaim.co.kr": "뉴스클레임"
  }
 }
