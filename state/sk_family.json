@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2621435",
-  "https://www.donga.com/news/People/article/all/20261030/134941723/2",
-  "https://www.joongang.co.kr/article/25474568",
-  "https://www.chosun.com/economy/industry-company/2026/10/31/DZJOPOALBVCLPDVL6N752K4IYM/",
-  "https://www.chosun.com/economy/industry-company/2026/10/30/C6SMQEUS3BESPIGQ5JREE6CDGQ/",
   "https://biz.sbs.co.kr/article_hub/20000339437?division=NAVER",
   "https://www.fnnews.com/news/202610121505305007",
   "https://www.sedaily.com/article/20100563",
@@ -2999,14 +2994,14 @@
   "https://www.newstopkorea.com/news/articleView.html?idxno=49121",
   "https://www.newsen.com/news_view.php?uid=202611180858540410",
   "http://www.newsdream.kr/news/articleView.html?idxno=122381",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281556"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281556",
+  "https://www.seoultimes.news/news/article.html?no=2000102338",
+  "https://view.asiae.co.kr/article/2026111809110987500",
+  "https://www.aflnews.co.kr/news/articleView.html?idxno=331899",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641456",
+  "https://www.newsis.com/view/NISX20261117_0003871836"
  ],
  "seen_titles": [
-  "SK그룹,불확실성뚫을2027승부수···체질개선가속",
-  "SK,에너지수장교체…빨라진재계인사시계",
-  "SK그룹,글로벌불확실성돌파위한'투톱'전략강화하며새리더십구...",
-  "SK그룹사장단인사…최태원회장의\"AI·반도체·전력에너지힘싣는다...",
-  "SK하이닉스사장단인사,곽노정단독대표유지하고미주총괄신설",
   "최태원의특명\"AI·에너지로돌파하라\"…SK,'안정속혁신'사장단인...",
   "최태원SK회장,내달5일서울대서'자유와시장'특강",
   "[떠나는자,남는자,오르는자:미리보는유통가인사]⑨파라다이스...",
@@ -6001,7 +5996,12 @@
   "'대한상의'새수장에재계맏형구자열LS의장물망",
   "데이식스영케이,왕홍분장조회수대박났는데“SNS팔로워오히려줄...",
   "최종현학술원·요미우리신문,'한일신시대전략플랫폼'공식출범",
-  "최태원·야마구치,한일민간협력'빅텐트'출범"
+  "최태원·야마구치,한일민간협력'빅텐트'출범",
+  "최태원·日요미우리신문,‘한일신시대전략플랫폼’출범",
+  "최종현학술원·요미우리,'한일신시대전략플랫폼'출범",
+  "부경원협·부산과학기술대,화훼산업발전·전문인력양성협력",
+  "SK,'안정속쇄신'인사단행···에너지·반도체리더십일부교체",
+  "'젠슨황쇼크'에도엔비디아,'호실적'발표…삼전·닉스장기수주탄력..."
  ],
  "recent_sigs": [
   [
@@ -6035,9 +6035,13 @@
   [
    "2026-11-18T08:30:25.171684+09:00",
    "요미우리 플랫폼 출범 한일 전략협력"
+  ],
+  [
+   "2026-11-18T09:20:15.232995+09:00",
+   "닉스 엔비디아 탄력 발표 쇼크 장기수주 삼전 젠슨황 호실적 에도"
   ]
  ],
- "last_run": "2026-11-18T09:10:24.180497+09:00",
+ "last_run": "2026-11-18T09:20:27.417193+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
