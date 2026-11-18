@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202611010825515905",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3738684",
-  "https://isplus.com/article/view/isp202611010019",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078147",
-  "https://www.newsis.com/view/NISX20261101_0003849523",
-  "https://www.nocutnews.co.kr/news/6600190",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039405",
   "http://www.joseilbo.com/news/news_read.php?uid=578609&class=1",
   "http://www.stoo.com/article.php?aid=109644434566",
@@ -2999,15 +2993,15 @@
   "https://zdnet.co.kr/view/?no=20261111180623",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494050",
   "http://enews.imbc.com/News/RetrieveNewsInfo/525255",
-  "https://dealsite.co.kr/articles/173045"
+  "https://dealsite.co.kr/articles/173045",
+  "https://www.newspim.com/news/view/20261118000825",
+  "https://www.newspim.com/news/view/20261118000824",
+  "https://www.newspim.com/news/view/20261118000823",
+  "https://www.newspim.com/news/view/20261118000818",
+  "https://www.newscj.com/news/articleView.html?idxno=3449812",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768540"
  ],
  "seen_titles": [
-  "최태원·올트먼회동…AI반도체협력논의주목",
-  "[종합]최태원·이재용,올트먼과잇단회동…삼성·SK,AI인프라동맹...",
-  "'깜짝방한'샘올트먼…삼성·SK경영진잇달아만났다",
-  "오픈AI샘올트먼,삼성사장단·최태원연쇄회동…AI협력논의(종합...",
-  "샘올트먼,최태원·삼성사장단연쇄회동…韓AI동맹확대",
-  "'구글'에이어'인텔'쇼크‥AI충격어디까지",
   "최태원SK회장과삼성사장단,'챗GPT아버지'샘올트먼과회동",
   "샘올트먼,삼성사장단·최태원연쇄회동…韓AI동맹확대",
   "건국대글로컬캠퍼스,'충북AX데이터센터'문열었다",
@@ -6001,7 +5995,13 @@
   "웃고넘긴AI딥페이크,누군가에겐범죄…플랫폼책임어디까지",
   "최태원\"사회문제해결에도경제적보상필요\"···새성장모델제안",
   "김간지,본인이저격했던'라스'출연…\"사실섭외기다렸다\"",
-  "[전자는지금]삼성전자‘더프레임프로’,오프라윈프리의연말선..."
+  "[전자는지금]삼성전자‘더프레임프로’,오프라윈프리의연말선...",
+  "2026세계행정학회(IIAS)서울대회개회식,기조연설하는최태원회장",
+  "기념촬영하는2026세계행정학회(IIAS)서울대회참석자들",
+  "2026세계행정학회(IIAS)서울대회개회식참석자들",
+  "2026세계행정학회(IIAS)서울대회개회식",
+  "최태원,日요미우리와'한일신시대전략플랫폼'출범",
+  "'한일신시대전략플랫폼'출범...공동대표맡은최태원회장\"새로운..."
  ],
  "recent_sigs": [
   [
@@ -6093,7 +6093,7 @@
    "프레임 프로 연말 삼성전자 윈프리의 오프라"
   ]
  ],
- "last_run": "2026-11-18T13:20:28.758959+09:00",
+ "last_run": "2026-11-18T13:30:36.038174+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
