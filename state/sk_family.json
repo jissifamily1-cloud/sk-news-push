@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/sports/general-sport/6339290",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280770&CMPT_CD=P0010",
   "https://www.dailian.co.kr/news/view/1709288/?sc=Naver",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000078625",
   "https://www.edaily.co.kr/News/Read?newsId=02217286645641784&mediaCodeNo=257",
@@ -2999,11 +2997,11 @@
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553712886",
   "https://www.khan.co.kr/article/202611182014065",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=326578",
-  "http://www.4th.kr/news/articleView.html?idxno=2122172"
+  "http://www.4th.kr/news/articleView.html?idxno=2122172",
+  "https://www.edaily.co.kr/News/Read?newsId=04569046645647032&mediaCodeNo=257",
+  "https://news.jtbc.co.kr/article/NB12328734?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "이재용·최태원'칼군무'에난리난SNS…웃고넘겼다간법적책임?",
-  "최민정,월드투어두대회연속金",
   "쇼트트랙최민정‘추월쇼’",
   "SK·한화·HD현대는선별쇄신…삼성·LG,성과·미래사업에힘싣는다",
   "조현범석방으로,3년오너리스크해소된한국타이어앞날은?",
@@ -6001,7 +5999,9 @@
   "'여전히전성기'쇼트트랙여제최민정,은퇴관련해\"생각해보겠다\".....",
   "최태원SK회장“사회문제해결한만큼경제적보상줘야”",
   "용인특례시의회문화복지위\"지적에그치지않겠다...정책개선끝까지...",
-  "최태원·김희영명예훼손유튜버,항소심도징역1년구형"
+  "최태원·김희영명예훼손유튜버,항소심도징역1년구형",
+  "[미리보는이데일리신문]벤츠도'탈독일'…韓,남일아니다",
+  "최민정,여전한'금빛질주'…\"왜은퇴하나요?\"만류에남긴말은"
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "투자법인 장부금액만 취득 추가 SK하닉 AI 투자 8200억 지분 3조"
   ]
  ],
- "last_run": "2026-11-18T20:40:25.557630+09:00",
+ "last_run": "2026-11-18T20:50:25.590192+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
