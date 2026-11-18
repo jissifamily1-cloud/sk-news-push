@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1716158/?sc=Naver",
-  "https://www.smartbizn.com/news/articleView.html?idxno=159677",
-  "https://www.fnnews.com/news/202611171001215947",
-  "https://www.idaegu.com/news/articleView.html?idxno=667064",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731968",
-  "https://www.dailian.co.kr/news/view/1716179/?sc=Naver",
   "https://www.joongangenews.com/news/articleView.html?idxno=564471",
   "https://www.epnc.co.kr/news/articleView.html?idxno=409882",
   "https://www.yna.co.kr/view/AKR20261117085900017?input=1195m",
@@ -2999,15 +2993,15 @@
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525295",
   "http://www.newsdream.kr/news/articleView.html?idxno=122487",
   "https://www.fntimes.com/html/view.php?ud=202611190712172370141825007d_18",
-  "https://view.asiae.co.kr/article/2026111907224747374"
+  "https://view.asiae.co.kr/article/2026111907224747374",
+  "https://www.jemin.com/news/articleView.html?idxno=847649",
+  "https://www.the-today.com/news/articleView.html?idxno=93803",
+  "https://biz.sbs.co.kr/article_hub/20000347452?division=NAVER",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963769",
+  "https://dealsite.co.kr/articles/172999",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261358"
  ],
  "seen_titles": [
-  "단장서코치로이례적이직…손혁,LG마운드재건특명",
-  "SKAX,동반성장데이서구매업무AI공개",
-  "SKAX동반성장데이개최…협력사와AI시대상생",
-  "AI데이터센터유치,규모보다실익…대구산업맞춤형전략필요",
-  "SKAX,AI구매업무서비스'ProAX'공개…협력사계약까지적용",
-  "SKAX,동반성장데이개최…협력사AI·금융지원",
   "오픈AI,美데이터센터규제직격탄우려…MS·아마존도투자계획흔들",
   "SKAX,협력사와AI사업기회발굴…상생협력체계강화",
   "SKAX,협력사120여곳과동반성장데이…AI협력안논의",
@@ -6001,7 +5995,13 @@
   "최태원\"AI시대성장의선순환구축해야\"…SK,'AI플라이휠'전략가속",
   "[기자수첩]'두나무·빗썸적자'를위한변명",
   "[KFT모닝브리프]2026.11.19—오늘꼭알아야할국내외경제뉴스",
-  "경기도,고립·은둔청년의일상회복나누는'나와봄이야기'개최"
+  "경기도,고립·은둔청년의일상회복나누는'나와봄이야기'개최",
+  "마이크론,내년반도체생산75%판매확정…AI확산에메모리확보전격...",
+  "엔비디아호실적도무색…코스피반등다시시험대",
+  "[마켓프리뷰]엔비디아실적'훈풍'에국내증시강세…5천피'탈환'",
+  "4분기실적기대치낮아지네…상장사10곳중6곳하향",
+  "[2026ETF어워즈][베스트연금ETF하우스]국내연금ETF는KB…채권혼합...",
+  "[넥스트-샷]호실적에도매도,공모가는상향···'83달러'앤트로픽상..."
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,17 @@
   [
    "2026-11-19T07:31:13.273892+09:00",
    "이야기 일상 고립 회복 나와봄 개최 나누는 경기도 청년의 은둔"
+  ],
+  [
+   "2026-11-19T07:41:01.109764+09:00",
+   "KB ETF는 채권혼합 국내연금"
+  ],
+  [
+   "2026-11-19T07:41:01.109764+09:00",
+   "매도 상향 호실적에도 공모가는 앤트로픽 83달러"
   ]
  ],
- "last_run": "2026-11-19T07:31:26.754158+09:00",
+ "last_run": "2026-11-19T07:41:09.092085+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
