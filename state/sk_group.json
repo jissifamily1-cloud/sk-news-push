@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1320749&inflow=N",
-  "https://www.ddaily.co.kr/page/view/2026111714434566873",
-  "https://zdnet.co.kr/view/?no=20261117111401",
-  "https://www.venturesquare.net/1129332/",
-  "https://www.jemin.com/news/articleView.html?idxno=847465",
-  "http://www.4th.kr/news/articleView.html?idxno=2122050",
-  "https://www.idomin.com/news/articleView.html?idxno=2019798",
-  "https://www.hani.co.kr/arti/international/america/1287460.html",
-  "http://www.metroseoul.co.kr/article/20261117500381",
-  "https://www.gosiweek.com/article/1065592458823592",
   "http://www.breaknews.com/1251620",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=398378",
   "https://biz.sbs.co.kr/article_hub/20000347007?division=NAVER",
@@ -2999,19 +2989,19 @@
   "https://www.newsis.com/view/NISX20261118_0003874060",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=768170",
   "https://www.yna.co.kr/view/AKR20261118190800007?input=1195m",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=56535"
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=56535",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16280251",
+  "https://www.sedaily.com/article/20116156",
+  "https://www.sedaily.com/article/20116193",
+  "https://www.sedaily.com/article/20116080",
+  "https://www.seoul.co.kr/news/economy/finance/2026/11/19/20261119500010?wlog_tag3=naver",
+  "https://www.munhwa.com/article/11632395",
+  "https://www.fnnews.com/news/202611190621290509",
+  "https://www.sedaily.com/article/20116159",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049204370417",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049053210416"
  ],
  "seen_titles": [
-  "“K-제약바이오,협력해야산다”",
-  "LG엔솔빠진2조원ESS수주전…'단가정상화'vs'가동률방어'기로",
-  "8인치손떼는삼성전자,韓팹리스비상...\"12인치전환지원해야\"",
-  "엠로,전력인프라기업에구매자동화AI에이전트공급…업무처리시...",
-  "반도체대장주눈높이낮아졌다…모건스탠리,SK하이닉스목표가100만원...",
-  "SK하이닉스\"팹장애예측부터문서작성까지..AX로IT역할확대\"",
-  "수비조직력살아나는LG,선두삼성잡을까[LG미리보기]",
-  "[인터뷰]“젠슨황퇴진,미·중AI발전모두늦출수도”",
-  "[2026뉴테크놀로지포럼]AI도입이끝아니다…업종별AX해법한자리에",
-  "라우프·SK텔레콤,‘SKT뉴스룸굿체인지캠페인’으로한국PR대상수...",
   "30대그룹,“지갑닫아도AI에는풀었다”..2년반동안1.1조원베팅",
   "[빅데이터투데이]아파트2026년11월브랜드평판랭킹...1위힐스테이...",
   "[오후장체크포인트]'반도체겨울'경고한모건스탠리\"코스피1만시대...",
@@ -6001,7 +5991,17 @@
   "[오늘의주요일정]사회(11월19일목요일)",
   "[소비자분쟁The50㊸]\"인터넷약정끝났다\"TM말믿었다가…이중요금...",
   "◇오늘의경기(19일)",
-  "[이넷뉴스브랜드평판]LG에너지솔루션,2차전지상장기업11월1위...삼..."
+  "[이넷뉴스브랜드평판]LG에너지솔루션,2차전지상장기업11월1위...삼...",
+  "미국증시혼조마감…다우561포인트급락·나스닥상승,엔비디아호실...",
+  "‘성과급파티’삼전닉스인력대체하나…아틀라스,美반도체공장서...",
+  "컨콜첫등장한‘쿠다의아버지’…‘포스트젠슨황’꿰차나[갭월...",
+  "최신HBM내년최대2.7배뛴다…고부가D램중국과‘초격차’",
+  "[서울데이터랩]다우1%넘게밀리고나스닥은상승마감…기술주강세...",
+  "[속보]‘실적좋았는데…’엔비디아2.9%↓다우1.1%↓",
+  "[뉴욕증시]S&P500,5일연속하락…나스닥지수는닷새만에반등",
+  "LGU+·SKT,패시브리피터·무인이송기술로전파방송기술대상수상",
+  "[반도체팹‘인력비상’]②신규인력투입한계…기존건설기능인...",
+  "[반도체팹‘인력비상’]①[단독]반도체공장건설인력난…“2031..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,45 @@
   [
    "2026-11-19T06:21:00.268820+09:00",
    "상장기업 11월 1위 2차전지 LG에너지솔루션"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "삼전닉스 파티 아틀라스 대체하나 성과급 공장서 반도체 인력"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "포스트 쿠다의 등장한 젠슨 아버지 꿰차나 컨콜"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "뛴다 HBM D램 초격차 중국과 7배 내년 최신 고부가"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "다우 나스닥은 기술주 밀리고 강세 넘게 마감 상승"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "좋았는데 실적 다우 엔비디아"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "나스닥지수는 5일 하락 P500 반등 닷새 연속 만에"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "무인이송 LGU 수상 기술대상 전파방송 기술로 리피터 SKT 패시브"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "신규인력 한계 건설기능인 투입 기존"
+  ],
+  [
+   "2026-11-19T06:31:15.394997+09:00",
+   "인력난 반도체공장 건설"
   ]
  ],
- "last_run": "2026-11-19T06:21:11.281535+09:00",
+ "last_run": "2026-11-19T06:31:42.642580+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
