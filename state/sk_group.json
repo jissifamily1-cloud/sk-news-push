@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261117077700008?input=1195m",
-  "https://www.news2day.co.kr/article/20261117500154",
-  "https://biz.heraldcorp.com/article/10939674",
-  "https://www.chosun.com/economy/tech_it/2026/11/17/LFXPOF7VWVDHFF6EDFJ6TKD2CQ/",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714836",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171019104720402",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790115.html",
   "https://www.xportsnews.com/article/2220211",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=108002",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=301417",
@@ -2999,16 +2992,16 @@
   "https://futurechosun.com/?p=167060",
   "https://www.fnnews.com/news/202611181830056122",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611180086&t=NNv",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261118010007133"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261118010007133",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=81353",
+  "https://www.hani.co.kr/arti/area/honam/1288015.html",
+  "https://www.news1.kr/industry/general-industry/6358638",
+  "https://www.ytn.co.kr/_ln/0102_202611181840025015",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611180135&t=NNv",
+  "https://www.sedaily.com/article/20116142",
+  "https://www.mk.co.kr/article/12212841"
  ],
  "seen_titles": [
-  "[투데이온]SK,하노이에동남아지역본부추진…베트남지분투자접고...",
-  "SK이노베이션,AI로사회문제해결나선스타트업지원…우수3개팀선정",
-  "코스피,1%대하락지속…'5천피'사수공방전",
-  "[재계인사이드]SK스퀘어가증명하는중간지주회사의가치",
-  "코스닥신용잔고5000억감소…‘수급빈집’노려야",
-  "“국대급스타트업으로‘K-에너지어벤져스’만든다”",
-  "[영상]양동근감독이화까지냈지만,모비스또완패",
   "[증권가로수]한투운용",
   "[단독]GOP경계장비또전원탈락…軍결국요구성능까지재검토",
   "'FA시장개장첫날11억쾅!'SSG와동행이어가는오태곤…\"각별한애...",
@@ -6001,25 +5994,16 @@
   "[더나은미래경제브리핑]젠슨황물러난엔비디아,3분기매출155조......",
   "용인반도체산단부터찾은양승조사장",
   "수출·기술이전'역대최대'...올해를빛낸K바이오9곳[2026제약바이오...",
-  "SK하닉,美AI투자법인지분8200억추가취득…투자장부금액만3조"
+  "SK하닉,美AI투자법인지분8200억추가취득…투자장부금액만3조",
+  "SK네트웍스,3분기영업익201억원...AI전환투자확대",
+  "[단독]삼성-하이닉스호남반도체,용수수요하루14만톤차이",
+  "\"한일경제안보협력\"…최종현학술원·요미우리신문,전략플랫폼출범",
+  "엔비디아호실적훈풍에...코스피,5천선탈환",
+  "\"젠슨황없어도삼성·SK견고…중국보복은변수\"[2026GFT]",
+  "패치수주걸렸는데악용은7일…F5“자동화방어해야”",
+  "“이제밥값벌면바로뺍니다”…ETF단타매매1년새4.5배급증"
  ],
  "recent_sigs": [
-  [
-   "2026-11-18T12:41:04.618429+09:00",
-   "공개에서 전에 가상 공격까지 시간이 막는 취약점 패치 줄어든다"
-  ],
-  [
-   "2026-11-18T12:41:04.618429+09:00",
-   "AI 통신 재난 진화한 두뇌 넘어 방패로 가보니 KRS 전파"
-  ],
-  [
-   "2026-11-18T12:41:04.618429+09:00",
-   "헌법적 주52시간 사이 정당성 근로기준 예외 경쟁력과 반도체 산업"
-  ],
-  [
-   "2026-11-18T12:41:04.618429+09:00",
-   "2년째 반반 실종 빅딜 기대와 우려"
-  ],
   [
    "2026-11-18T12:51:02.341659+09:00",
    "영주 공급 트리븐 조성 첨단산단 가흥 두산에너빌리티 가속도"
@@ -7091,9 +7075,21 @@
   [
    "2026-11-18T18:41:00.708312+09:00",
    "투자법인 투자 AI 3조 장부금액만 SK하닉 8200억 지분 추가 취득"
+  ],
+  [
+   "2026-11-18T18:50:59.048182+09:00",
+   "보복은 중국 견고 젠슨 삼성 없어도 변수"
+  ],
+  [
+   "2026-11-18T18:50:59.048182+09:00",
+   "방어해야 걸렸는데 악용은 패치 F5 7일 자동화 수주"
+  ],
+  [
+   "2026-11-18T18:50:59.048182+09:00",
+   "1년새 이제 바로 ETF 벌면 급증 5배 단타매매 밥값 뺍니다"
   ]
  ],
- "last_run": "2026-11-18T18:41:09.561918+09:00",
+ "last_run": "2026-11-18T18:51:09.974442+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
