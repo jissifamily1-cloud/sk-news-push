@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20261101_0002279501",
-  "https://www.newsis.com/view/NISI20261101_0002279502",
-  "https://www.newsis.com/view/NISI20261101_0002279507",
-  "https://www.newsis.com/view/NISI20261101_0002279508",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824879&plink=ORI&cooper=NAVER",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/01/2026110190015.html",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/01/2026110190011.html",
@@ -2999,13 +2995,13 @@
   "http://amenews.kr/news/view.php?idx=68764",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083203",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=602195",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=140349"
+  "http://www.newslock.co.kr/news/articleView.html?idxno=140349",
+  "https://www.m-i.kr/news/articleView.html?idxno=2020168",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5050946",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602197",
+  "https://www.m-i.kr/news/articleView.html?idxno=2019059"
  ],
  "seen_titles": [
-  "재벌회장님이아이돌춤을?…재미와위법사이아슬아슬'줄타기'",
-  "삼성사장단50명만난알트먼\"AI활용속도가기업경쟁력결정\"",
-  "최태원·올트먼다시만났다…HBM공급부터1000조AI인프라까지",
-  "챗GPT샘올트먼…삼성·SK연쇄회동으로'글로벌AI동맹'다진다",
   "11월네티즌어워즈,하반기결선막올랐다…황영웅·장한별부터효리...",
   "삼성·SK,샘올트먼방한에AI동맹강화…최태원오찬·삼성사장단5...",
   "오픈AICEO만난삼성사장단...'AI가바꿀10년'경영전략논의",
@@ -6001,21 +5997,13 @@
   "“벤처社자금조달,재무실적보다기술력·성장성평가절실”",
   "[카카오게임즈인사전망]김태환·이시우체제첫연말…본사·자회사...",
   "SK최태원·요미우리신문그룹,韓日경제협력'빅텐트'구축",
-  "최태원회장\"사회적가치에도보상해야\"...새성장모델제안"
+  "최태원회장\"사회적가치에도보상해야\"...새성장모델제안",
+  "최태원\"사회문제해결에경제적보상\"…새자본주의제안",
+  "최태원·요미우리,'한일신시대전략플랫폼'출범",
+  "최태원,세계행정학회서'새로운자본주의'제안⋯\"사회적가치기반성...",
+  "AI연료'데이터'…4대그룹,공장·도로서확보전"
  ],
  "recent_sigs": [
-  [
-   "2026-11-18T08:10:26.756397+09:00",
-   "매각 KKR 협상 연장 요청에 산업부 SK도시가스 급선회"
-  ],
-  [
-   "2026-11-18T08:10:26.756397+09:00",
-   "쥐고도 팔아 갚아야 4000억 지분 주가 하락분 760억"
-  ],
-  [
-   "2026-11-18T08:10:26.756397+09:00",
-   "SKT뿐 이노 정례보고 보안위 하이닉스"
-  ],
   [
    "2026-11-18T08:30:25.171684+09:00",
    "반도체 띄웠다 에너지 AI 빅텐트 경제협력 한일"
@@ -6091,9 +6079,13 @@
   [
    "2026-11-18T13:20:16.617402+09:00",
    "프레임 프로 연말 삼성전자 윈프리의 오프라"
+  ],
+  [
+   "2026-11-18T14:20:15.564925+09:00",
+   "확보전 연료 AI 공장 데이터 도로서 4대"
   ]
  ],
- "last_run": "2026-11-18T14:10:24.308888+09:00",
+ "last_run": "2026-11-18T14:20:26.237202+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
