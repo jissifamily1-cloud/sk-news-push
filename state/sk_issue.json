@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709778",
-  "https://www.newsis.com/view/NISX20261111_0003863659",
-  "https://www.chosun.com/economy/economy_general/2026/11/11/G6QYEEJHUVFPXNB52CWY7T4ZS4/",
-  "https://www.dailian.co.kr/news/view/1713589/?sc=Naver",
-  "https://www.chosun.com/economy/economy_general/2026/11/11/CLNXXGGZNJC2XI26ZPZHQCFYBM/",
-  "https://www.etnews.com/20261111000193",
   "https://biz.chosun.com/policy/policy_sub/2026/11/11/QRDHMKK33NAD7F5UT4P5UKH7NM/",
   "https://www.fnnews.com/news/202611111147088079",
   "https://www.newsis.com/view/NISI20261111_0021528361",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/economy/trend/6357456",
   "https://www.newsis.com/view/NISX20261118_0003872424",
   "https://www.ytn.co.kr/_ln/0115_202611181002567183",
-  "https://www.yna.co.kr/view/AKR20261118042000002?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261118042000002?input=1195m",
+  "https://www.ddaily.co.kr/page/view/2026111810140052521",
+  "https://www.edaily.co.kr/News/Read?newsId=02545286645647032&mediaCodeNo=257",
+  "https://www.dt.co.kr/article/12095857",
+  "http://www.breaknews.com/1251836",
+  "https://www.segye.com/newsView/20261118505802?OutUrl=naver",
+  "http://www.dandinews.com/news/articleView.html?idxno=17906"
  ],
  "seen_titles": [
-  "국고채금리짜고친은행·증권사15곳…과징금1.6조원‘역대최대’",
-  "국고채담합15개금융사에'역대최대'과징금1.6조…7곳중수청고발",
-  "두산에너빌리티·삼성물산등6개업체동반성장지수3년연속최우수...",
-  "국고채담합15개금융사에과징금1조6266억원…역대최대",
-  "“국고채금리,물량합의...낙찰금리높여정부부담증가”공정위,...",
-  "국고채담합15개금융사제재…과징금1조6266억역대최대제재",
   "공정위,‘국고채담합혐의’15개금융사에역대최대과징금1조6266억...",
   "'국고채짬짜미'15개금융사에과징금1.6조…역대최대",
   "국고채입찰부당공동행위15개사업자제재공정위브리핑",
@@ -6001,7 +5995,13 @@
   "대기업,3개월간유사계열사합병…AI·디지털금융편입활발",
   "비슷한사업합치고AI·디지털금융키우고…대기업계열사5곳줄어",
   "경찰,'위장전입의혹'전화식경북성주군수압수수색",
-  "102개대기업집단,석달간계열사60개편입·65개제외"
+  "102개대기업집단,석달간계열사60개편입·65개제외",
+  "네이버·두나무결합오늘심의…글로벌금융진출에독과점규제‘변...",
+  "대기업,중복사업줄이고AI·가상자산키웠다",
+  "‘동생경영참여누락’공정위,쿠팡·김범석고발심의",
+  "대통령한사람재판때문에사법질서흔들려선안된다!",
+  "경찰,‘6·3지선위장전입의혹’전화식성주군수압수수색",
+  "차석호함안군수,허위사실공표혐의불구속송치"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "11곳 진출 대기업집단 계열사 활발 미래에셋은 가상자산 재편 제외"
   ]
  ],
- "last_run": "2026-11-18T10:10:51.183290+09:00",
+ "last_run": "2026-11-18T10:20:51.734496+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
