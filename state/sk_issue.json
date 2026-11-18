@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12327599?influxDiv=NAVER",
-  "https://news.dealsitetv.com/articles/178423",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=241754",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601993",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100261.html",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424962",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/11/2026111190211.html",
@@ -2999,13 +2995,13 @@
   "https://www.wikitree.co.kr/articles/1175732",
   "https://www.idomin.com/news/articleView.html?idxno=2019994",
   "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200114",
-  "https://news.tf.co.kr/read/life/2390670.htm"
+  "https://news.tf.co.kr/read/life/2390670.htm",
+  "https://www.hani.co.kr/arti/society/society_general/1288036.html",
+  "https://www.news1.kr/society/incident-accident/6358709",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=942753",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716494"
  ],
  "seen_titles": [
-  "국고채발행담합사건,증권사·은행15곳에역대최대과징금1.6조원...",
-  "DCM강자KB증권,국고채담합과징금'최대'",
-  "국고채담합과징금1.6조…KB증권3322억·NH투자2428억최다",
-  "KB증권·NH투자증권등금융사국고채발행담합,역대최대'1조6천억'...",
   "국채담합에1.6조과징금벼락…정부이자부담되레늘어날수도",
   "[K바이오10대장점검⑧]에이비엘바이오,압수수색보다뼈아픈신뢰훼...",
   "대한응급의학의사회\"아주대압수수색사태,UN인권협약위반…UN인권위...",
@@ -6001,10 +5997,14 @@
   "오늘정답정리…캐시워크돈버는퀴즈'11월18일'정답은?",
   "금속노조·국회의원들\"한화,재상고포기하고승진다시심사하라\"",
   "경찰청장후보자,\"응급실압수수색유감\"·\"의료계와협의체구성\"도약...",
-  "선관위직원8명23일구속기로…특검‘1호구속영장’"
+  "선관위직원8명23일구속기로…특검‘1호구속영장’",
+  "세무사시험에서리트·수능으로확산하는AI부정행위의혹",
+  "'세무사수석'자택노트북에문제전송해AI풀이…주거지압수수색(종...",
+  "경찰청장후보\"응급실압수수색,적법-적법충돌\"",
+  "‘허위전입혐의’전화식성주군수압수수색"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-18T20:01:11.874371+09:00",
+ "last_run": "2026-11-18T20:10:51.538506+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
