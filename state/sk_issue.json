@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=72898",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=82393",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=89317",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=300088",
-  "https://www.namdonews.com/news/articleView.html?idxno=928939",
-  "https://imnews.imbc.com/replay/2026/nw1400/article/6864873_36974.html",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54578",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261111152103ls8",
-  "https://www.mt.co.kr/economy/2026/11/11/2026111109115443838",
-  "https://www.newsis.com/view/NISX20261111_0003864045",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082145",
   "https://www.seoul.co.kr/news/society/2026/11/11/20261111500259?wlog_tag3=naver",
   "https://www.ppss.kr/news/articleView.html?idxno=320285",
@@ -2999,19 +2989,19 @@
   "https://biz.chosun.com/topics/topics_social/2026/11/18/AQTW3AXC4ZBJPLWVE52UXWPGU4/",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560571",
   "https://www.newsis.com/view/NISX20261118_0003873737",
-  "https://www.nocutnews.co.kr/news/6609018"
+  "https://www.nocutnews.co.kr/news/6609018",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=88038",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505576",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51366",
+  "https://nownews.seoul.co.kr/news/newsView.php?id=20261118601020&wlog_tag3=naver",
+  "https://news.tf.co.kr/read/life/2390595.htm",
+  "https://www.ytn.co.kr/_ln/0103_202611181659504028",
+  "https://www.munhwa.com/article/11632338",
+  "https://www.kmib.co.kr/article/20261118501838",
+  "https://www.fnnews.com/news/202611181645028596",
+  "http://www.joseilbo.com/news/news_read.php?uid=579933&class=32"
  ],
  "seen_titles": [
-  "공정위,국고채입찰담합15개금융사에과징금1조6천억원…역대최대",
-  "국고채담합15개딜러사에과징금1.6조'역대최대'…7곳은고발",
-  "국고채입찰담합15개PD사에과징금무려1조6265억원…역대최대",
-  "국고채입찰담합15개딜러사과징금역대최대...7곳고발",
-  "공정위,국고채입찰담합15개딜러사적발…과징금역대최대1.6조",
-  "국고채입찰담합15개사에'1조6천억'과징금",
-  "국고채입찰담합15개사에과징금1조6266억원",
-  "'국고채입찰담합'은행·증권사15곳에1.6조과징금…역대최대",
-  "'76.2조→54조'관련매출액줄고부과율감경에도…국고채담합,'역대...",
-  "민주당계룡시의원\"이응우시장,수사입장밝혀라\"",
   "국힘'선관위부정선거'키우는지도부…'당내부정선거'소환한비당권...",
   "공소청,‘구속영장청구전면담’시행한달…“법원기각률소폭감...",
   "케타민92회자가투약수의사적발…식약처검찰송치",
@@ -6001,7 +5991,17 @@
   "[속보]경찰,‘AI커닝자수’세무사수석주거지압수수색",
   "[속보]경찰‘AI부정행위’세무사수석주거지압수수색",
   "경찰,'AI커닝'세무사수석자택압수수색…공범여부추적",
-  "선관위직원8명구속기로…투표율조작·투표록위변조등혐의"
+  "선관위직원8명구속기로…투표율조작·투표록위변조등혐의",
+  "공정위,'금융업손자회사지배'한신공영에시정명령부과",
+  "네이버·두나무결합1년만중대분수령…조건부승인수위촉각",
+  "김정현號우진산전,담합후폭풍에발목…소송·부채부담확대",
+  "택시기사가‘수류탄·소총’들고운행…계엄선포한과테말라상황[...",
+  "세무사수석이어LEET만점자도마…의혹눈덩이,증거확보는난제",
+  "경찰,'AI부정행위'세무사수석주거지압수수색",
+  "‘부정수석’세무냥이자택압수수색“공범존재가능성”",
+  "[속보]경찰‘AI부정행위’세무사수석주거지압색",
+  "경찰,'AI커닝'세무사수석자택압수수색…추가장비확보나서",
+  "경찰청장후보자\"한동훈딸'스펙의혹'수사아쉬워…끝나면감찰\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "630억 가습기살균제 분담금 국가배상 소송 바이오"
   ]
  ],
- "last_run": "2026-11-18T16:50:57.808521+09:00",
+ "last_run": "2026-11-18T17:01:12.014727+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
