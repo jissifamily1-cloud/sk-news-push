@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202611111436599885d6c92cbcc5_1",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=130778",
-  "https://www.peoplewatch.co.kr/article/view/ppw202611110010",
-  "https://www.newspim.com/news/view/20261111001136",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=731163",
-  "https://www.fnnews.com/news/202611111502581968",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=320351",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444216",
-  "https://www.sportschosun.com/entertainment/2026-11-11/202611110100079170007400",
-  "https://www.mt.co.kr/society/2026/11/11/2026111114222288490",
   "https://www.incheontoday.com/news/articleView.html?idxno=326226",
   "https://www.hani.co.kr/arti/society/environment/1286797.html",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1731273",
@@ -2999,19 +2989,19 @@
   "https://www.edaily.co.kr/News/Read?newsId=03870406645647032&mediaCodeNo=257",
   "https://www.chosun.com/international/international_general/2026/11/18/GLDJ4FTKBBHZFBZD44BKD6B3FU/",
   "https://www.joongang.co.kr/article/25479832",
-  "https://www.news1.kr/society/court-prosecution/6358402"
+  "https://www.news1.kr/society/court-prosecution/6358402",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602207",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=884457",
+  "https://www.bloter.net/news/articleView.html?idxno=678988",
+  "https://www.busan.com/view/busan/view.php?code=2026111816385254556",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000084211",
+  "https://news.tf.co.kr/read/life/2390561.htm",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=802525",
+  "https://www.newsis.com/view/NISX20261118_0003873667",
+  "https://biz.chosun.com/stock/market_trend/2026/11/18/IMTT5XOHBFAEFBFI57RM6SIGJY/",
+  "https://www.news1.kr/society/incident-accident/6358438"
  ],
  "seen_titles": [
-  "안전관리비먼저준다…GS건설,협력사상생6년연속‘최우수’",
-  "국고채입찰3년6개월간담합…은행·증권사15곳에역대최대1조6000억...",
-  "국고채담합,과징금만1.6조원…KB·미래에셋등7곳은중수청고발까...",
-  "올해과징금·추징금1.2조넘어섰다…쿠팡덮친'규제잔혹사'",
-  "자재값썼는데대금은깜깜…건설사돈줄말랐다",
-  "BS한양,동반성장지수8년연속'우수'…협력사자금·기술지원",
-  "李대통령\"비리걸리면패가망신\"발언다음날금융사15곳에1.6조과징...",
-  "[PD제재후폭풍]재경부,PD소통가이드라인마련검토",
-  "故이선균떠난지3년…수사정보유출전직경찰,항소심도징역형집유",
-  "\"32도폭염에축구장30바퀴\"…체벌받은초등생근육녹아내렸다",
   "'선거법위반'혐의김진규검단구청장공소청송치",
   "전쟁으로127조원번석유기업들…유엔총장“횡재세물려기후대응하...",
   "과징금1.4조\"과도하다\"…증권가,행정소송등법적대응가능성",
@@ -6001,7 +5991,17 @@
   "동인,‘개인정보보호·기술유출대응센터’신설…수사·소송원스톱",
   "튀르키예정부,마지막주요야권방송사까지장악...27조원투자펀드...",
   "[속보]경찰,‘부정행위’세무사수석합격자압수수색",
-  "특검,선관위직원8명첫구속영장청구…이르면내달초노태악소환..."
+  "특검,선관위직원8명첫구속영장청구…이르면내달초노태악소환...",
+  "신일전자,전기요·매트판매액82%증가⋯겨울가전수요공략",
+  "신일전자,겨울가전3종제안…온도와습도동시관리지원",
+  "[대리운전거래질서개편]카카오·티맵모빌리티'기사등급제'지운다",
+  "[속보]경찰,'AI부정행위'세무사수석주거지압수수색",
+  "[속보]경찰'AI부정행위'세무사수석주거지압수수색",
+  "특검'1호구속영장'선관위직원8명…출범두달만",
+  "[위클리오늘]경북경찰,전화식성주군수압수수색…권기창안동시장...",
+  "특검,선관위직원8명구속영장청구…투표율허위입력등혐의(종합)",
+  "[단독]서울대동아리카르텔에불똥?…금감원,PEF운용사10여곳현장...",
+  "경찰,'AI부정행위'세무사수석주거지압수수색…소환하루만"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "630억 가습기살균제 분담금 국가배상 소송 바이오"
   ]
  ],
- "last_run": "2026-11-18T16:31:03.756261+09:00",
+ "last_run": "2026-11-18T16:40:51.864363+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
