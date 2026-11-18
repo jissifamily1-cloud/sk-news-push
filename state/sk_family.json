@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hangyo.com/news/article.html?no=109909",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039529",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1420577",
   "https://www.newspim.com/news/view/20261102000243",
   "https://www.newsis.com/view/NISX20261102_0003850164",
   "https://sports.khan.co.kr/article/202611020919003?pt=nv",
@@ -2999,12 +2996,12 @@
   "https://news.jtbc.co.kr/article/NB12328734?influxDiv=NAVER",
   "http://www.yonhapnewstv.co.kr/news/MYH20261118205309IRK",
   "https://www.ksmnews.co.kr/news/view.php?idx=630191",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732201"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732201",
+  "https://www.segye.com/newsView/20261118520009?OutUrl=naver",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380202",
+  "https://www.mk.co.kr/article/12207917"
  ],
  "seen_titles": [
-  "투표소봉쇄에펜싱칼빌려간오상욱,2년만에아시아정상복귀",
-  "잠실봉쇄에‘남의칼’들었지만…오상욱,아시아선수권정상탈환",
-  "‘장비도못챙겼는데’펜싱오상욱…악재뚫고아시아정상탈환",
   "펜싱오상욱,아시아선수권남자사브르개인전2년만에우승",
   "[펜싱]오상욱,아시아선수권남자사브르개인전제패…2년만에우승",
   "오상욱,2년만에아시아선수권우승…'남의칼'로경기",
@@ -6001,7 +5998,10 @@
   "최민정,여전한'금빛질주'…\"왜은퇴하나요?\"만류에남긴말은",
   "청문회도'AI부정행위'집중…김종철\"끝까지추적\"",
   "울릉군의회,행정사무감사돌입",
-  "[EBN오늘(18일)이슈종합]엔비디아'어닝서프라이즈'에삼전·닉스반..."
+  "[EBN오늘(18일)이슈종합]엔비디아'어닝서프라이즈'에삼전·닉스반...",
+  "‘쇼트여제’의라스트댄스?…최민정“월드투어에집중”",
+  "최태원·요미우리신문,한일전략협력플랫폼출범…에너지안보첫의...",
+  "배당주로방어,그럼성장주는…"
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "어닝 서프라이즈 닉스 삼전 엔비디아"
   ]
  ],
- "last_run": "2026-11-18T21:00:46.316124+09:00",
+ "last_run": "2026-11-18T21:10:36.252165+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
