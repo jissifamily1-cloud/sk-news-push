@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/news/2026/sports/article/6862295_36946.html",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092173285",
-  "https://www.ajunews.com/view/20261101142532709",
-  "https://www.edaily.co.kr/News/Read?newsId=02250086645641456&mediaCodeNo=257",
-  "https://www.kgnews.co.kr/news/article.html?no=917660",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825086&plink=ORI&cooper=NAVER",
   "http://www.yonhapnewstv.co.kr/news/MYH20261101151357Pal",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553663105",
@@ -2999,14 +2994,14 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494179",
   "http://www.iminju.net/news/articleView.html?idxno=172685",
   "https://www.pennmike.com/news/articleView.html?idxno=132157",
-  "http://www.srtimes.kr/news/articleView.html?idxno=217969"
+  "http://www.srtimes.kr/news/articleView.html?idxno=217969",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101520",
+  "https://www.socialvalue.kr/news/view/1065596576589648",
+  "https://www.cstimes.com/news/articleView.html?idxno=728405",
+  "http://www.metroseoul.co.kr/article/20261118500359",
+  "https://www.hankyung.com/article/2026111839261"
  ],
  "seen_titles": [
-  "미쳤다!정녕은퇴시즌이맞나?…최민정,쇼트트랙월드투어2차1000m...",
-  "최민정\"캐나다는메이플시럽이지\"",
-  "쇼트트랙최민정,월드투어2차1000m정상",
-  "'1위골인'세리머니하는최민정",
-  "1000m결선서1위로질주하는최민정",
   "최민정,쇼트트랙2차월드투어1,000ｍ금메달…3명뚫고역전극",
   "'쇼트트랙여제'최민정,월드투어1000m금메달…3명뚫고대역전승",
   "\"이재용·최태원이걸그룹칼군무?\"…SNS뒤집은15초영상",
@@ -6001,25 +5996,14 @@
   "강원접경지지속가능발전특위구성···공동대응본격",
   "최태원,韓日경제연대'빅텐트'플랫폼구축…공동성장기반마련",
   "[재계핫이슈]최태원회장이간파한엔비디아와젠슨황의문제",
-  "최태원,사회문제해결경제적보상있어야…AI가정확성·신뢰도확보..."
+  "최태원,사회문제해결경제적보상있어야…AI가정확성·신뢰도확보...",
+  "[K-빅샷룩업]최태원회장\"사회적가치에경제적보상해야…AI결합시...",
+  "최태원“사회문제,선의아닌보상으로풀어야”",
+  "최태원회장·김희영이사유언비어유포유튜버,2심서도징역1년구형",
+  "용인특례시의회문화복지위,교육·청년·여성정책집중감사…예산·사...",
+  "민형배\"2030년6월반도체양산…통합의힘으로지역대전환이끌겠다..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-18T10:00:32.469697+09:00",
-   "시장 해결에 활용해야 사회문제 보상체계"
-  ],
-  [
-   "2026-11-18T10:00:32.469697+09:00",
-   "짠다 아시아 한일 기회 협력 성장 역량 결합해 양국"
-  ],
-  [
-   "2026-11-18T10:00:32.469697+09:00",
-   "120만평 삼성 남전북닉 공장 100만평 반도체 호남 합의"
-  ],
-  [
-   "2026-11-18T10:10:14.981353+09:00",
-   "성과 정부로 민관 확산 협력 필요 사회적 보상 기업서"
-  ],
   [
    "2026-11-18T10:50:13.840564+09:00",
    "삼성 역대급 수장 HBM 엔비디아 수주 공백 실적 장기 뚫고"
@@ -6075,9 +6059,13 @@
   [
    "2026-11-18T16:00:32.349221+09:00",
    "경제적 해결 AI가 확보 신뢰도 사회문제 있어야 정확성 보상"
+  ],
+  [
+   "2026-11-18T16:10:18.997313+09:00",
+   "양산 반도체 이끌겠다 민형배 힘으로 지역 2030년 6월 대전환 통합의"
   ]
  ],
- "last_run": "2026-11-18T16:00:48.836025+09:00",
+ "last_run": "2026-11-18T16:10:30.123009+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
