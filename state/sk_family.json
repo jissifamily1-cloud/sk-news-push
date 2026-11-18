@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/31/2026103190079.html",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16264675",
-  "https://www.ikbc.co.kr/article/view/kbc202610310027",
-  "https://www.viva100.com/article/20261031500276",
-  "https://www.yna.co.kr/view/AKR20261031040900371?input=1195m",
-  "https://www.munhwa.com/article/11627752",
-  "https://economist.co.kr/article/view/ecn202610310009",
-  "https://www.nocutnews.co.kr/news/6600169",
-  "https://biz.heraldcorp.com/article/10921373",
   "https://www.socialvalue.kr/news/view/1065597710430379",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=94206",
   "https://news.tf.co.kr/read/economy/2383293.htm",
@@ -2999,18 +2990,18 @@
   "https://www.newsis.com/view/NISI20261118_0021536603",
   "https://magazine.hankyung.com/business/article/202611184103b",
   "http://www.newstomato.com/ReadNews.aspx?no=1320867&inflow=N",
-  "http://www.queen.co.kr/news/articleView.html?idxno=466518"
+  "http://www.queen.co.kr/news/articleView.html?idxno=466518",
+  "https://www.edaily.co.kr/News/Read?newsId=02633846645647032&mediaCodeNo=257",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=903445",
+  "https://www.news1.kr/photos/8219635",
+  "https://www.news1.kr/photos/8219631",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1313111",
+  "http://www.iminju.net/news/articleView.html?idxno=172640",
+  "https://www.thelec.kr/news/articleView.html?idxno=65584",
+  "https://www.newsis.com/view/NISX20261118_0003872817",
+  "https://www.joongangenews.com/news/articleView.html?idxno=564799"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,샘올트먼과오찬회동…AI협력주목",
-  "최태원SK그룹회장,샘올트먼과오찬…AI협력주목",
-  "최태원,올트먼과오찬회동…HBM·AI데이터센터협력논의주목",
-  "최태원,샘올트먼과오찬…HBM·AI데이터센터협력주목",
-  "국립목포대,제34회학생학술심포지엄개최",
-  "최태원SK그룹회장,샘올트먼과오찬회동…AI협력논의",
-  "최태원,샘올트먼과오찬회동…SK·오픈AIAI협력논의주목",
-  "최태원,방한올트먼과오찬…HBM·AI데이터센터협력논의주목",
-  "한국온샘올트먼,최태원SK그룹회장과오찬회동",
   "최태원SK회장,방한한올트먼과오찬…HBM·데이터센터협력논의가능...",
   "최태원,방한올트먼과오찬…SK하이닉스·SKT임원동석",
   "최태원SK회장,샘올트먼과오찬회동...HBM·AI데이터센터협력강화",
@@ -6001,7 +5992,16 @@
   "세계행정학회서울대회참석한조정식국회의장-최태원회장",
   "최태원\"한일강점결합해새성장기회창출\"…경제연대플랫폼출범",
   "최태원·요미우리,한일협력빅텐트출범…첫의제는에너지",
-  "최태원회장\"사회적가치에경제적보상연결해야\"...새성장시스템구..."
+  "최태원회장\"사회적가치에경제적보상연결해야\"...새성장시스템구...",
+  "최태원의제안“사회문제해결도자본주의활용…성과엔확실한경제적...",
+  "최태원,세계행정학회기조연설…\"성장의역설풀열쇠는성과보상\"",
+  "최태원회장,2026세계행정학회서울대회기조연설",
+  "단상향하는최태원대한상의회장",
+  "정연화성남시의회부의장,청소년불법도박종합대응촉구",
+  "최태원\"사회적가치창출에보상해야…AI결합해성장기회로\"",
+  "최태원SK회장,'한일경제협력빅텐트'출범",
+  "[현장]최태원회장\"자본주의이기심활용해야\"…사회적가치성장시스...",
+  "최태원SK회장,日요미우리신문과한일경제협력플랫폼출범…반도체..."
  ],
  "recent_sigs": [
   [
@@ -6085,7 +6085,7 @@
    "성과 정부로 민관 확산 협력 필요 사회적 보상 기업서"
   ]
  ],
- "last_run": "2026-11-18T10:30:34.071224+09:00",
+ "last_run": "2026-11-18T10:40:26.858362+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
