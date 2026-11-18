@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000345714?division=NAVER",
-  "https://www.ajunews.com/view/20261111141908238",
-  "https://www.busan.com/view/busan/view.php?code=2026111115121866476",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=205986",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3016201",
-  "https://imnews.imbc.com/replay/2026/nw1400/article/6864862_36974.html",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=882201",
   "https://www.peoplewatch.co.kr/article/view/ppw202611110014",
   "https://www.kwnews.co.kr/article/20261111501109",
   "https://www.bloter.net/news/articleView.html?idxno=678320",
@@ -2999,16 +2992,16 @@
   "https://www.kado.net/news/articleView.html?idxno=2085648",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716256",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.99099005751",
-  "https://www.joongang.co.kr/article/25479858"
+  "https://www.joongang.co.kr/article/25479858",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=140400",
+  "https://www.yna.co.kr/view/AKR20261118166100004?input=1195m",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=367783",
+  "https://www.ziksir.com/news/articleView.html?idxno=153858",
+  "https://www.chosun.com/national/national_general/2026/11/18/QBEFFTI4LNAL3FJYEIINF4BZWU/",
+  "https://biz.heraldcorp.com/article/10941721",
+  "https://www.goodnews1.com/news/articleView.html?idxno=466390"
  ],
  "seen_titles": [
-  "국고채담합'역대최대'1.6조과징금…법적대응'촉각'",
-  "구속영장청구전피의자면담시행한달…법원기각률,0.7%감소",
-  "'불법선거운동'손현보목사2심서형량늘어…\"범행반복,재범위험...",
-  "옷로비로시작된특검…27년뒤조작기소까지[유경민의정치여행]",
-  "의료계,아주대소아응급센터압수수색UN인권기구제소",
-  "[맞수다]특검법처리‥총리가총대?\"대통령문제라서\"vs\"피해자입장...",
-  "11일픽스가습기캐시워크돈버는퀴즈정답공개",
   "'역대급과징금'둘러싼공정위-금융권공방…재경부는왜끼어들었나",
   "이해인“악의적비방,모욕,성희롱,허위사실유포행위에법적대응...",
   "NH투자증권,국고채담합에2427억과징금…반기순이익29%규모",
@@ -6001,7 +5994,14 @@
   "'AI커닝'세무사수석합격자자택압수수색…출국금지도승인",
   "[단독]경찰,세무사시험주관‘산업인력공단’고소인조사",
   "이능력다른데썼었으면…AI부정행위세무사수석범행방법보니",
-  "세무사수석,수정테이프에초소형카메라부착…압수수색·출국금지"
+  "세무사수석,수정테이프에초소형카메라부착…압수수색·출국금지",
+  "한신공영,금융업자회사주식소유적발...공정위시정명령",
+  "경찰청장후보자,세무사고득점급증에\"수사여부적극검토\"(종합)",
+  "선관위특검,선관위관계자8명구속영장청구",
+  "검사수사지휘폐지됐는데…부산시특사경전문인력·법률지원'도마위...",
+  "세무사수석,개조계산기활용..노트북에문제전송해부정행위",
+  "경찰,피의자전환‘AI부정행위’자수한모씨자택압수수색[세상&]",
+  "경찰,'세무사시험AI부정행위'수석합격자주거지압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "630억 가습기살균제 분담금 국가배상 소송 바이오"
   ]
  ],
- "last_run": "2026-11-18T17:31:01.923229+09:00",
+ "last_run": "2026-11-18T17:41:05.476220+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
