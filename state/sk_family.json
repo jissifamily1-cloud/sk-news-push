@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261101010900007?input=1195m",
-  "https://www.hankyung.com/article/2026110178927",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16264873",
-  "https://www.sidae.com/article/2026110108213298516",
-  "https://www.news1.kr/sports/general-sport/6338807",
   "https://www.newdaily.co.kr/site/data/html/2026/11/01/2026110100012.html",
   "https://www.joongang.co.kr/article/25474690",
   "https://www.cbci.co.kr/news/articleView.html?idxno=621775",
@@ -2999,14 +2994,14 @@
   "http://www.00news.co.kr/news/articleView.html?idxno=108165",
   "https://www.m-i.kr/news/articleView.html?idxno=2020095",
   "https://www.socialvalue.kr/news/view/1065597710430379",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=362704"
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362704",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755684",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755696",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755703",
+  "https://www.naeil.com/news/read/609190",
+  "https://zdnet.co.kr/view/?no=20261111180623"
  ],
  "seen_titles": [
-  "최태원·올트먼서울서회동…SK·오픈AI후속협력주목",
-  "삼성전자·SK,'방한'오픈AI샘올트먼과반도체·AIDC'깐부'행보",
-  "최태원SK회장,샘올트먼오찬회동…HBM·AI데이터센터협력논의주...",
-  "SK-오픈AI파트너십공고히…최태원회장,올트먼과오찬회동",
-  "최태원·샘올트먼오찬회동…SK·오픈AI,HBM공급·AI인프라협력...",
   "최태원·올트먼서울서오찬회동…HBM·AI데이터센터협력논의주목",
   "최태원SK그룹회장·오픈AI샘올트먼CEO오찬회동…HBM공급·AI데이...",
   "최태원·샘올트먼,1년만에서울서재회…HBM·AI데이터센터협력주...",
@@ -6001,7 +5996,12 @@
   "최태원꺼낸새성장카드'사회적가치'",
   "용인특례시의회문화복지위원회,교육청년여성국행정사무감사",
   "[창간/①산업]ESG도기술경쟁력…본업살려사회문제푼다",
-  "최태원,한일협력새판짠다…日요미우리와공동플랫폼출범"
+  "최태원,한일협력새판짠다…日요미우리와공동플랫폼출범",
+  "최태원회장,사회적가치보상기반새성장시스템제안…AI로신시장...",
+  "용인특례시의회,청년취업·자립지원점검…사업성과사후관리주문",
+  "최종현경기도의원,\"반복되는비화재보출동…막대한소방력낭비막을...",
+  "최태원회장‘새로운자본주의’제안",
+  "웃고넘긴AI딥페이크,누군가에겐범죄…플랫폼책임어디까지"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-11-18T11:20:15.768782+09:00",
    "요미우리와 경제동맹 손잡았다 한일 시동"
+  ],
+  [
+   "2026-11-18T13:10:15.280969+09:00",
+   "웃고 넘긴 딥페이크 플랫폼 책임 어디까지 범죄 AI 누군가에겐"
   ]
  ],
- "last_run": "2026-11-18T13:00:44.221826+09:00",
+ "last_run": "2026-11-18T13:10:25.552354+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
