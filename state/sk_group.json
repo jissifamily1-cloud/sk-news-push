@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1251620",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=398378",
-  "https://biz.sbs.co.kr/article_hub/20000347007?division=NAVER",
-  "https://www.newscj.com/news/articleView.html?idxno=3449450",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=239030",
-  "http://www.beyondpost.co.kr/view.php?ud=202611171435158364c878f8fa1_30",
-  "https://www.g-enews.com/view.php?ud=202611171443223907153ddfb15a_1",
-  "https://www.knnews.co.kr/news/articleView.php?idxno=1555297",
   "https://www.ziksir.com/news/articleView.html?idxno=153651",
   "http://www.popcornnews.net/news/articleView.html?idxno=140388",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006562",
@@ -2999,17 +2991,17 @@
   "https://www.fnnews.com/news/202611190621290509",
   "https://www.sedaily.com/article/20116159",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049204370417",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049053210416"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171049053210416",
+  "https://www.mediapen.com/news/view/1138444",
+  "https://www.rcast.co.kr/news/articleView.html?idxno=32095",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602225",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111906250369922aaae0046f_30",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16280257",
+  "https://www.sedaily.com/article/20116205",
+  "https://www.hankyung.com/article/2026111857276",
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58773"
  ],
  "seen_titles": [
-  "30대그룹,“지갑닫아도AI에는풀었다”..2년반동안1.1조원베팅",
-  "[빅데이터투데이]아파트2026년11월브랜드평판랭킹...1위힐스테이...",
-  "[오후장체크포인트]'반도체겨울'경고한모건스탠리\"코스피1만시대...",
-  "AI반도체호황에삼전닉스현금329조원돌파",
-  "SK이노베이션3%대하락…3분기영업이익3.7조원",
-  "추미애“세계최고반도체혁신거점경기도에”…8개시클러스터공동...",
-  "'AI쏠림'꺾일까…반도체ETF급락속방어주급부상",
-  "진보당경남도당“도예산,기업지원늘리고청년·노동안전깎아”",
   "한국투자증권,ELW258종목신규상장…지수·개별주식상품확대",
   "한투운용반도체ETF,메모리대표주SK하이닉스서삼성전자로교체",
   "[단독]LGU+,기술조직'고강도쇄신'…AI·데이터임원교체",
@@ -6001,7 +5993,15 @@
   "[뉴욕증시]S&P500,5일연속하락…나스닥지수는닷새만에반등",
   "LGU+·SKT,패시브리피터·무인이송기술로전파방송기술대상수상",
   "[반도체팹‘인력비상’]②신규인력투입한계…기존건설기능인...",
-  "[반도체팹‘인력비상’]①[단독]반도체공장건설인력난…“2031..."
+  "[반도체팹‘인력비상’]①[단독]반도체공장건설인력난…“2031...",
+  "[美증시]혼조속나스닥상승·다우하락…엔비디아불안·앤트로픽상...",
+  "케이뱅크,걷기만해도포인트쌓이는'뚜벅뚜벅만보기'서비스출시外",
+  "오늘수능,AI부정행위와전쟁⋯시험장100m내와이파이24시간차단",
+  "엔비디아2.8%,마이크론1%↓...반도체주,美연준매파기조에약세마...",
+  "오늘국내증시전망…미국증시다우급락에코스피5,000선시험대,삼성...",
+  "엔비디아,호실적에도2.9%하락...경쟁사AMD는5.3%↑[데일리국제금...",
+  "\"드디어반등했는데\"…삼전닉스주주들안심못하는이유[종목+]",
+  "원화는강세,엔화는약세···두통화는왜갈라섰나"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,37 @@
   [
    "2026-11-19T06:31:15.394997+09:00",
    "인력난 반도체공장 건설"
+  ],
+  [
+   "2026-11-19T06:41:02.924515+09:00",
+   "포인트 서비스 만보기 쌓이는 뚜벅뚜벅 걷기만 케이뱅크 해도 출시"
+  ],
+  [
+   "2026-11-19T06:41:02.924515+09:00",
+   "차단 24시간 부정행위와 시험장 AI 전쟁 100m 수능 와이파이"
+  ],
+  [
+   "2026-11-19T06:41:02.924515+09:00",
+   "마이크론 엔비디아 약세 매파 연준 반도체주 기조에"
+  ],
+  [
+   "2026-11-19T06:41:02.924515+09:00",
+   "전망 미국증시 다우 000선 국내증시 삼성 코스피 급락에 시험대"
+  ],
+  [
+   "2026-11-19T06:41:02.924515+09:00",
+   "엔비디아 경쟁사 AMD는 호실적에도 하락 데일리국제금"
+  ],
+  [
+   "2026-11-19T06:41:02.924515+09:00",
+   "드디어 반등했는데 주주들 안심 이유 하는 삼전닉스"
+  ],
+  [
+   "2026-11-19T06:41:02.924515+09:00",
+   "갈라섰나 약세 엔화는 통화는 원화는 강세"
   ]
  ],
- "last_run": "2026-11-19T06:31:42.642580+09:00",
+ "last_run": "2026-11-19T06:41:24.237120+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
