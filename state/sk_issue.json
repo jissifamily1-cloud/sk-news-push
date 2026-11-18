@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2017164",
-  "https://www.newsis.com/view/NISX20261111_0003863727",
-  "https://imnews.imbc.com/news/2026/econo/article/6864844_36932.html",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714517",
   "https://www.donga.com/news/Society/article/all/20261111/135005928/1",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840846&plink=ORI&cooper=NAVER",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/economy/trend/6357426",
   "https://www.hidomin.com/news/articleView.html?idxno=729899",
   "http://www.inews24.com/view/2027614",
-  "https://www.kukinews.com/article/view/kuk202611180041"
+  "https://www.kukinews.com/article/view/kuk202611180041",
+  "http://www.iminju.net/news/articleView.html?idxno=172663",
+  "https://www.jasm.co.kr/news/view/325665/?sc=Naver",
+  "https://www.edaily.co.kr/News/Read?newsId=03050406645647032&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "상생평가금융·플랫폼으로확대…실효성높일지표개편주목",
-  "재경부\"국고채PD자격조치,처분확정후검토…시장안정최우선\"",
-  "국고채입찰담합15개딜러사과징금역대최대1.6조‥7곳고발",
   "은행·증권사15곳,국고채입찰서3년여담합…과징금1조6000억원",
   "왁싱가게여사장인척…10대신체사진받은30대실형",
   "[D리포트]\"6억빌려이자만8억\"…연이율36,500%불법사금융일당검...",
@@ -6001,7 +5998,10 @@
   "해외사업자국내대리인가이드라인마련…소비자분쟁대응강화",
   "경찰,선거법위반혐의성주군수휴대전화압수등강제수사돌입",
   "한신공영,PF유동화SPC지분보유했다가…지주회사행위제한위반시...",
-  "공정위,한신공영에시정명령…금융손자회사주식보유혐의"
+  "공정위,한신공영에시정명령…금융손자회사주식보유혐의",
+  "공정위,'금산분리위반'한신공영에시정명령",
+  "공정위,한신공영에시정명령…금산분리규정위반",
+  "[37thSRE][Issue]M&A빅딜실종2년째…기대와우려‘반반’"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "630억 가습기살균제 분담금 국가배상 소송 바이오"
   ]
  ],
- "last_run": "2026-11-18T12:31:03.488789+09:00",
+ "last_run": "2026-11-18T12:40:55.335167+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
