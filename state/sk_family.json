@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202611012034005",
-  "https://www.usmbc.co.kr/NewsArticle/870690",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825262&plink=ORI&cooper=NAVER",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102031005?wlog_tag3=naver",
-  "https://www.sidae.com/article/2026103015273129289",
-  "https://www.mt.co.kr/industry/2026/11/02/2026110119515762707",
   "https://www.donga.com/news/Economy/article/all/20261101/134945998/2",
   "https://www.kmib.co.kr/article/20261101501508",
   "http://weekly.chosun.com/news/articleView.html?idxno=56770",
@@ -2999,15 +2993,15 @@
   "https://news.tf.co.kr/read/photomovie/2390582.htm",
   "https://www.yna.co.kr/view/AKR20261118157800007?input=1195m",
   "https://www.mk.co.kr/article/12212654",
-  "https://www.kmib.co.kr/article/20261118501629"
+  "https://www.kmib.co.kr/article/20261118501629",
+  "https://www.hankookilbo.com/news/article/A2026111816280000292?did=NA",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16280055",
+  "https://www.kado.net/news/articleView.html?idxno=2085630",
+  "https://www.eroun.net/news/articleView.html?idxno=95905",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=903554",
+  "http://www.lkp.news/news/articleView.html?idxno=86248"
  ],
  "seen_titles": [
-  "‘레이스막판3명뚫고역전극’최민정,쇼트트랙2차월드투어에서도...",
-  "최태원SK회장·샘올트먼오찬회동…'AI협력'강화",
-  "영락의료과학고찾은파독간호사들마지막당부는…",
-  "\"이재용·최태원이걸그룹춤을?\"…SNS난리난영상,알고보니",
-  "[이태희의JOB채(101)]올트먼의삼성·SK비즈니스전략...반도체는사고...",
-  "이런선수가대표팀은퇴라니…최민정'0.014초'모자란하루2관왕→10...",
   "샘올트먼,삼성·SK회동…AI·반도체협력강화",
   "'대역전극완성한여왕'최민정,쇼트트랙2차월드투어1,000ｍ우승",
   "[CEO위클리]미래에셋박현주日증권사인수...삼성이재용합병소송...",
@@ -6001,7 +5995,13 @@
   "함께웃음터진김길리-최민정[TF사진관]",
   "쇼트트랙최민정,팬들의은퇴만류에\"지금은월드투어에집중\"",
   "\"AI힘합치고석유공동비축\"…최태원'한일플랫폼'띄웠다",
-  "최태원·요미우리,한·일‘민간빅텐트’구축…첫과제는에너지안..."
+  "최태원·요미우리,한·일‘민간빅텐트’구축…첫과제는에너지안...",
+  "최태원\"사회문제해결에경제적보상필요\"",
+  "쇼트트랙최민정,팬은퇴만류에도\"지금은ISU월드투어3차대회집중...",
+  "강원도의회,접경지역지속가능발전특위위원12명선임",
+  "최종현학술원·요미우리신문,한일민간협력플랫폼출범...반도체·AI·...",
+  "공소청\"최태원,동거인에1000억써\"주장유튜버항소심서징역1년구...",
+  "한국수자원공사,용인·호남반도체클러스터맞춤형용수공급과초순..."
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-11-18T17:10:15.869349+09:00",
    "요미우리 민간 과제는 에너지 구축 빅텐트"
+  ],
+  [
+   "2026-11-18T17:20:15.507781+09:00",
+   "맞춤형 호남 반도체 초순 용인 한국수자원공사 용수 클러스터 공급과"
   ]
  ],
- "last_run": "2026-11-18T17:10:26.870859+09:00",
+ "last_run": "2026-11-18T17:20:26.519923+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
