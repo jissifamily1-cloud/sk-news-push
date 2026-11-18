@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026110113320002009?did=NA",
-  "https://www.donga.com/news/Economy/article/all/20261101/134944419/1",
-  "https://www.sportsworldi.com/newsView/20261101508021",
-  "https://www.xportsnews.com/article/2214019",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/01/20261101500065?wlog_tag3=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=02804406645641456&mediaCodeNo=257",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1102376",
   "https://www.joongboo.com/news/articleView.html?idxno=363741108",
   "http://www.4th.kr/news/articleView.html?idxno=2120887",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/PYH20261118202700013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261118202900013?input=1196m",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1337143",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5051073"
+  "https://www.newsinside.kr/news/articleView.html?idxno=5051073",
+  "https://www.fnnews.com/news/202611181631356413",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261118163848FF2",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=884729",
+  "https://www.newsis.com/view/NISI20261118_0021537707",
+  "https://www.newsis.com/view/NISI20261118_0021537706",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=301764"
  ],
  "seen_titles": [
-  "은퇴앞둔최민정,쇼트트랙2차월드투어1000m우승기염",
-  "'은퇴앞둔여제의역전극'최민정,월드투어2차1,000m도금메달...2주...",
-  "‘캐나다3명제치고대역전’최민정,쇼트트랙월드투어여자1000m2연...",
-  "삼성·SK,오픈AI와AI협력확대모색…올트먼잇단회동",
-  "외국인관광객성지된홍대…무질서에몸살도",
-  "최민정,쇼트트랙2차월드투어1,000ｍ우승…2주연속금메달",
   "은퇴앞둔최민정,3명제치고역전우승…월드투어1000m2주연속金",
   "최민정,월드투어2차1000m금메달…2주연속정상질주",
   "오픈AI샘올트먼한국방문해삼성전자사장단과SK최태원만나,\"경영...",
@@ -6001,7 +5995,13 @@
   "대한민국쇼트트랙파이팅",
   "각오밝히는최민정",
   "정연화성남시의회부의장,\"청소년불법도박의정역량집중\"",
-  "최태원\"사회문제해결도자본주의답게\"…'새로운자본주의'제안"
+  "최태원\"사회문제해결도자본주의답게\"…'새로운자본주의'제안",
+  "최태원\"사회문제해결한만큼보상해야\"…AI로비용낮추고신시장박...",
+  "내일수능…'단춧구멍스티커'아날로그식대응에우려여전",
+  "쇼트트랙최민정\"은퇴번복?지금은월드투어집중\"",
+  "쇼트트랙월드투어서울미디어데이",
+  "화이팅외치는쇼트트랙선수단",
+  "최태원회장\"AI가유효…새자본주의,'사회적가치'자원배분에반영..."
  ],
  "recent_sigs": [
   [
@@ -6069,7 +6069,7 @@
    "제안 자본주의답게 사회문제 해결도 자본주의 새로운"
   ]
  ],
- "last_run": "2026-11-18T16:30:37.729015+09:00",
+ "last_run": "2026-11-18T16:40:24.903905+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
