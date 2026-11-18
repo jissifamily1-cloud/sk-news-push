@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840846&plink=ORI&cooper=NAVER",
-  "https://www.joongang.co.kr/article/25477636",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283898&CMPT_CD=P0010",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=237837",
-  "https://www.m-i.kr/news/articleView.html?idxno=2017161",
-  "https://www.edaily.co.kr/News/Read?newsId=04391926645644736&mediaCodeNo=257",
-  "https://www.widedaily.com/news/articleView.html?idxno=303405",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=304750",
   "https://www.newsway.co.kr/news/view?ud=2026111113304456964",
   "https://www.yna.co.kr/view/AKR20261111092000008?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.jasm.co.kr/news/view/325665/?sc=Naver",
   "https://www.edaily.co.kr/News/Read?newsId=03050406645647032&mediaCodeNo=257",
   "https://www.ajunews.com/view/20261118123939994",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850146.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850146.html",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=514719",
+  "https://www.meconomynews.com/news/articleView.html?idxno=203570",
+  "http://www.apparelnews.co.kr/news/news_view/?idx=229076",
+  "https://www.sisajournal.com/news/articleView.html?idxno=394446",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2314479",
+  "https://www.jasm.co.kr/news/view/325666/?sc=Naver",
+  "https://www.newsis.com/view/NISX20261118_0003873127"
  ],
  "seen_titles": [
-  "[D리포트]\"6억빌려이자만8억\"…연이율36,500%불법사금융일당검...",
-  "“법인보험들면현금돌려준다”…732억원리베이트뿌린일당적발",
-  "\"올해만네차례압수수색\"계룡시의원4명,이응우시장에해명촉구",
-  "대신경제연구소·임팩트온,ESG공시활용한기업가치제고전략논의",
-  "공시점검하고새집달고…증권가,ESG경영활동확대[여의도소식]",
-  "GS건설,동반성장지수6년연속'최우수'…협력사지원성과",
-  "\"PD박탈은시장퇴출\"…재경부,1.6조과징금에도\"법적처분확정후...",
   "국고채입찰'담합'15개금융사…정부조달금리마저담합했다",
   "국고채담합에역대최대과징금…증권사들\"시장조성의무이행\"반발",
   "국고채담합'역대최대과징금'에\"납득어려워\"…법적다툼시사",
@@ -6001,7 +5994,14 @@
   "공정위,한신공영에시정명령…금산분리규정위반",
   "[37thSRE][Issue]M&A빅딜실종2년째…기대와우려‘반반’",
   "해외쇼핑몰도한국어전화상담…내년1월국내대리인의무화",
-  "아파트지으려금융사세운한신공영…지분100%보유하다공정위제..."
+  "아파트지으려금융사세운한신공영…지분100%보유하다공정위제...",
+  "[뉴스워커_신일전자]추위에전기매트판매액82%증가…겨울가전수요...",
+  "치킨쿠폰인줄알았더니응모권...삼쩜삼,숱한논란에도'낚시성광고...",
+  "조이웍스노조출범…'호카'판권분쟁속고용보호촉구",
+  "한신공영,아파트자금용금융사2곳보유…공정위시정명령",
+  "금융SPC두곳지배한한신공영…공정위시정명령",
+  "'알리·테무'소비자피해줄어들까…공정위,해외플랫폼관리강화",
+  "경찰청장후보자\"한동훈딸의혹수사끝나면감찰…상응조치\""
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "630억 가습기살균제 분담금 국가배상 소송 바이오"
   ]
  ],
- "last_run": "2026-11-18T12:50:55.162981+09:00",
+ "last_run": "2026-11-18T13:01:13.271508+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
