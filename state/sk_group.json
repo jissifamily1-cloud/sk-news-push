@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jasm.co.kr/news/view/325630/?sc=Naver",
-  "https://www.businessplus.kr/news/articleView.html?idxno=120072",
-  "http://www.queen.co.kr/news/articleView.html?idxno=466537",
-  "http://www.popcornnews.net/news/articleView.html?idxno=140548",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505400",
   "https://www.newspim.com/news/view/20261118000792",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=362704",
   "https://www.kmecnews.co.kr/news/articleView.html?idxno=52802",
@@ -2999,14 +2994,14 @@
   "https://biz.chosun.com/industry/business-venture/2026/11/20/T4KQ7RPIG5EOTAQ2YUALQ3OIZY/",
   "https://www.sedaily.com/article/20116636",
   "https://www.khan.co.kr/article/202611200600011",
-  "https://www.mt.co.kr/economy/2026/11/20/2026111922465228766"
+  "https://www.mt.co.kr/economy/2026/11/20/2026111922465228766",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80940",
+  "https://www.segye.com/newsView/20261119518007?OutUrl=naver",
+  "https://www.yakup.com/news/index.html?cat=12&nid=335498",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768480",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717972"
  ],
  "seen_titles": [
-  "SKT,AI-RAN으로차량원격제어기술구현…전파방송기술대상장관상",
-  "'수능,출제의비밀',수능전날안방극장찾는다…극장동시VOD서비스...",
-  "한투운용ACE고배당커버드콜,11월분배금에'삼성전자특별배당'반영",
-  "반도체는웃고소재·바이오는울었다…3분기누적실적양극화",
-  "용인특례시,반도체산업·자연공존'녹색도시'조성박차",
   "최태원,한일협력새판짠다…日요미우리와공동플랫폼출범",
   "반도체호황에도하도급사대금은80일뒤…국회서지급기한단축협약",
   "이재명식증시정책을바라보는우려의시선[박경보의마켓플로우]",
@@ -6001,7 +5996,12 @@
   "[스타트UP]스튜디오랩“제품만있으면촬영부터상세페이지까지AI가...",
   "SK하이닉스,HBM용하이브리드본더베시에일괄발주추진",
   "목표가낮추면서팔라고는안하는증권사리포트···이쯤되면‘전망...",
-  "반도체날개달고수출'1조달러'…거세진中추격,'이젠수성전이다'"
+  "반도체날개달고수출'1조달러'…거세진中추격,'이젠수성전이다'",
+  "코스닥150새얼굴된바이오株7곳…5.4조ETF움직인다",
+  "당국제동거는와중에...SK디스커버리,7년전PRS로5000억대차익[공시...",
+  "SK바이오사이언스,AI로백신수율분석…롯데바이오로직스,ADC밸류체...",
+  "[데이터&뉴스]SM벡셀·국일,특수관계인지분90%육박…교보증권·사조...",
+  "코스피5,100선회복…코스닥도3.4%↑"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,29 @@
   [
    "2026-11-20T06:11:08.905196+09:00",
    "수성전이다 달고 1조달러 날개 수출 반도체 거세진 추격 이젠"
+  ],
+  [
+   "2026-11-20T06:21:10.368235+09:00",
+   "얼굴 7곳 움직인다 바이오 4조 ETF 코스닥150"
+  ],
+  [
+   "2026-11-20T06:21:10.368235+09:00",
+   "거는 SK디스커버리 공시 당국 7년전 차익 5000억대 와중에 PRS로 제동"
+  ],
+  [
+   "2026-11-20T06:21:10.368235+09:00",
+   "롯데바이오로직스 수율 밸류체 AI로 SK바이오사이언스 분석 ADC 백신"
+  ],
+  [
+   "2026-11-20T06:21:10.368235+09:00",
+   "교보증권 사조 지분 SM벡셀 특수관계인 국일 육박"
+  ],
+  [
+   "2026-11-20T06:21:10.368235+09:00",
+   "회복 코스닥도 100선 코스피"
   ]
  ],
- "last_run": "2026-11-20T06:11:33.483102+09:00",
+ "last_run": "2026-11-20T06:21:29.014848+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
