@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202611120168",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559571",
-  "https://www.chosun.com/national/court_law/2026/11/12/2D7ASVTKTNEHZAN4D4QBL4NRIU/",
-  "https://www.newspim.com/news/view/20261112000409",
-  "https://www.newsis.com/view/NISX20261112_0003865109",
-  "https://www.news1.kr/society/court-prosecution/6351567",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718950",
-  "https://www.seoul.co.kr/news/politics/2026/11/12/20261112500077?wlog_tag3=naver",
   "https://biz.chosun.com/topics/law_firm/2026/11/12/WZIL3FKZKBBB7O2BPNEOIYLU6U/",
   "https://www.joongang.co.kr/article/25477937",
   "https://www.nocutnews.co.kr/news/6605748",
@@ -2999,17 +2991,17 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247696",
   "https://www.hankyung.com/article/202611197638g",
   "https://news.jtbc.co.kr/article/NB12328875?influxDiv=NAVER",
-  "https://www.newsis.com/view/NISX20261119_0003875309"
+  "https://www.newsis.com/view/NISX20261119_0003875309",
+  "https://www.huffingtonpost.kr/article/262224",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20442",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=206225",
+  "https://www.lawissue.co.kr/view.php?ud=2026111915404613629817d053b9_12",
+  "http://www.00news.co.kr/news/articleView.html?idxno=108219",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=214136",
+  "https://www.kado.net/news/articleView.html?idxno=2085918",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286524&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "‘실화탐사대’5억사기남·응급실수사",
-  "[속보]특검,‘보안실태문서허위작성’혐의중앙선관위등압수수색",
-  "[속보]선관위특검,‘보안실태부실점검’중앙선관위·용역업체압수...",
-  "[속보]특검,중앙선관위·보안용역업체압수수색…보안점검문서허위...",
-  "[속보]특검,중앙선관위압수수색…'보안실태문서허위작성'포착",
-  "[속보]특검'보안실태부실점검'의혹중앙선관위·용역업체압수수색",
-  "미래에셋증권,3분기4056억적자···2148억과징금도실적반영대기",
-  "정점식“이용철,‘공소취소없다’아니면무조건부적격”",
   "“보안점검문서까지허위로작성”…특검,중앙선관위압수수색",
   "[속보]특검팀,‘보안실태문서허위작성’중앙선관위압수수색",
   "특검,'보안실태문서허위작성'중앙선관위등압수수색",
@@ -6001,7 +5993,15 @@
   "'내부거래1위'SK,계열사끼리156조주고받았다",
   "공정위,투썸플레이스조사착수…가맹점고가물품·장비강매의혹",
   "[단독]공정위가는'축구협회쿠팡밀어주기'의혹…\"시장지배적지위...",
-  "이재준수원시장'불법권리당원모집'의혹,전현직공무원송치"
+  "이재준수원시장'불법권리당원모집'의혹,전현직공무원송치",
+  "문영주투썸플레이스회장가맹점물품구매강제의혹에공정위조사...",
+  "공정위\"대기업매출35%가내부거래…대방건설2년연속비중높아\"",
+  "삼성증권,호실적지속…4분기도맑음,\"공정위과징금피할듯\"",
+  "벤츠코리아,차주142명400만원배상안거부…딜러사엔고의의문제기",
+  "대기업집단내부거래현주소",
+  "불경기에도날아오른투썸플레이스...매출비결은점주'쥐어짜기?'",
+  "LEET만점자이진우사망…AI커닝의혹수사중단가능성",
+  "진보당\"추경호무죄재판부,국민의힘궤변베꼈나\""
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "156조 1위 내부거래 주고받았다 계열사끼리"
   ]
  ],
- "last_run": "2026-11-19T15:40:52.005190+09:00",
+ "last_run": "2026-11-19T15:50:51.861956+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
