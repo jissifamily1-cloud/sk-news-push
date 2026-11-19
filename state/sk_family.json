@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aflnews.co.kr/news/articleView.html?idxno=330999",
-  "https://www.insight.co.kr/news/580530",
-  "http://www.joseilbo.com/news/news_read.php?uid=578865&class=32",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307928",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=622946",
   "https://www.jejusori.net/news/articleView.html?idxno=508029",
   "https://www.topstarnews.net/news/articleView.html?idxno=16267908",
   "https://www.munhwa.com/article/11628677",
@@ -2999,14 +2994,14 @@
   "https://mhnse.com/news/articleView.html?idxno=1703142",
   "https://www.ajunews.com/view/20261103162322654",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487932",
-  "https://news.tf.co.kr/read/economy/2390944.htm"
+  "https://news.tf.co.kr/read/economy/2390944.htm",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=45446",
+  "http://www.4th.kr/news/articleView.html?idxno=2122223",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281700",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=49172",
+  "https://newstapa.org/article/UUi-h"
  ],
  "seen_titles": [
-  "고려아연최윤범회장,美트럼프대통령과골프라운딩",
-  "최태원\"AI·반도체등한일경제연대로1300조원대시너지가능\"",
-  "[만화경]끝나지않은얼굴전쟁",
-  "공소청,'노태우비자금의혹'盧정부비서·경호실장소환조사",
-  "최교진교육부장관\"질문하는힘이미래바꾼다\"",
   "'노태우비자금의혹'수사속도…공소청,핵심인사소환조사",
   "공소청,'노태우비자금의혹'당시참모진소환조사…참고인신분",
   "충남도의회,예산정책자문위원6명위촉…재정감시강화",
@@ -6001,7 +5996,12 @@
   "설인아·금새록·한지현·연우,쇼트트랙도전…\"또한번기적만들어...",
   "이충우여주시장,학생부터청년농업인까지...경기도4-H경진대회3관왕...",
   "여주시,경기도4-H경진대회서최우수상등3관왕",
-  "SK그룹,이사회중심경영강화…거버넌스고도화논의"
+  "SK그룹,이사회중심경영강화…거버넌스고도화논의",
+  "KB금융,쇼트트랙월드투어서울대회공식후원…국가대표선전응원",
+  "KB금융,쇼트트랙19년동행…국제무대도뒷받침",
+  "KB금융,19년째쇼트트랙동행…서울월드투어공식후원",
+  "SK,이사회중심경영고도화...최태원\"주주가치극대화관점소통\"",
+  "<벨트검사의배신②>윤석열보좌1급벨트검사,김건희주가조작주범..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-11-19T13:09:25.656973+09:00",
    "논의 지배구조 투명성"
+  ],
+  [
+   "2026-11-19T14:00:32.985450+09:00",
+   "주가조작 김건희 벨트검사 주범 윤석열 배신 벨트검사의 1급 보좌"
   ]
  ],
- "last_run": "2026-11-19T13:50:26.311036+09:00",
+ "last_run": "2026-11-19T14:00:46.602748+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
@@ -6364,7 +6368,7 @@
   "issuenbiz.com": "이슈앤비즈",
   "betanews.net": "베타뉴스",
   "gosiweek.com": "gosiweek.com",
-  "newstapa.org": "newstapa.org",
+  "newstapa.org": "뉴스타파",
   "lawtalknews.co.kr": "로톡뉴스",
   "mdtoday.co.kr": "메디컬투데이",
   "womentimes.co.kr": "우먼타임스",
