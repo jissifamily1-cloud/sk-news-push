@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268472",
   "https://www.globalepic.co.kr/view.php?ud=20261105131628333048439a4874_29",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=361881",
   "http://www.econotelling.com/news/articleView.html?idxno=21578",
@@ -2999,10 +2998,10 @@
   "http://www.osen.co.kr/article/G1112912277",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=50802",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5231850",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81738"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81738",
+  "https://www.asiatime.co.kr/article/20261119500470"
  ],
  "seen_titles": [
-  "서울시립미술관\"기술시대,회화의존재묻다\"",
   "'AI깐부'1년,삼성·SK날때현대차는제자리…정의선의자율주행리...",
   "최태원,SK하이닉스美AI투자법인이사회의장맡아",
   "SK하이닉스美AI투자법인,최태원회장이의장맡는다",
@@ -6001,7 +6000,8 @@
   "\"은퇴?다시생각해보겠다!\"쇼트트랙여제최민정,안방에서3연속금메...",
   "나무엑스출시1년…SK네트웍스,AI성과증명언제?",
   "'1조달러'선봉…24시간불밝힌반도체공장",
-  "최태원,SK지분9440억중美델일가에5440억매각"
+  "최태원,SK지분9440억중美델일가에5440억매각",
+  "[산업뉴스브리핑]최태원\"SK거버넌스고도화\"…독립이사들과경영방..."
  ],
  "recent_sigs": [
   [
@@ -6059,9 +6059,13 @@
   [
    "2026-11-19T19:50:20.830160+09:00",
    "반도체 1조 선봉 밝힌 달러 24시간 공장"
+  ],
+  [
+   "2026-11-19T20:10:15.128219+09:00",
+   "경영 고도화 독립이사들과 거버넌스"
   ]
  ],
- "last_run": "2026-11-19T20:00:50.750502+09:00",
+ "last_run": "2026-11-19T20:10:28.888757+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
