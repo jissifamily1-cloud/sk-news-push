@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718939",
-  "https://www.mk.co.kr/article/12206083",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444362",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444363",
-  "http://www.press9.kr/news/articleView.html?idxno=86118",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563251",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444364",
   "http://www.newstomato.com/ReadNews.aspx?no=1320177&inflow=N",
   "https://www.mt.co.kr/politics/2026/11/12/2026111209473544804",
@@ -2999,15 +2993,15 @@
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525327",
   "https://www.wikitree.co.kr/articles/1175985",
   "https://www.starnewskorea.com/star/2026/11/19/2026111914423477262",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261119.99099006046"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261119.99099006046",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=140476",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732323",
+  "https://www.mk.co.kr/article/12213595",
+  "https://www.newsis.com/view/NISX20261119_0003875246",
+  "https://www.yna.co.kr/view/AKR20261119027551009?input=1195m",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5231769"
  ],
  "seen_titles": [
-  "KB·신한금융,ESG최고등급지켰지만,담합제재에사회평가하락",
-  "“업주부담덜어준다”…배민,배달팁할인에도수수료안매긴다",
-  "[국고채담합후폭풍①]국채산돈이매출?…1.6조과징금의계산법",
-  "[국고채담합후폭풍②]증권사순익18%날린과징금…국채금리부메랑...",
-  "KB금융,과징금반영에3Q순익1486억원하향",
-  "금투협\"국고채딜러담합제재과도\"…시장위축우려",
   "[노현우의채권분석]힘이나지않지만…여전히상당한外人델타",
   "국고채딜러담합파장…자격정지여부주목",
   "정점식\"이용철,李대통령공소취소없단말안하면무조건부적격\"",
@@ -6001,7 +5995,13 @@
   "'금융사지배금지'선넘은한신공영...1년넘게위법지분보유",
   "[속보]'리트만점자'이진우사망",
   "\"'심정지'이진우,숨지더라도수사계속..공범가능성\"현직변호사가...",
-  "[속보]리트만점자이진우씨사망판정에수사종결수순…공모자의혹..."
+  "[속보]리트만점자이진우씨사망판정에수사종결수순…공모자의혹...",
+  "투썸플레이스,가맹점에물품강매의혹…공정위조사돌입",
+  "공정위,투썸플레이스조사착수…'고가장비구매강제'의혹",
+  "대기업매출35%계열사서…총수지분높을수록내부의존",
+  "송치또는불송치…충주시장선거연장전후끈(종합)",
+  "美,팔란티어직원사찰한러시아인간첩혐의기소(종합)",
+  "'리트만점자'사망에사건종결수순…진상규명가능할까"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "2000억 내부거래 사용료 공시대상기업집단 LG 매출 상표"
   ]
  ],
- "last_run": "2026-11-19T15:10:55.453680+09:00",
+ "last_run": "2026-11-19T15:20:58.017349+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
