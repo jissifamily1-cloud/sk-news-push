@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/stock/stock_general/2026/11/18/X7DHSB5CK5E5RJEQZ7ORGWI6WY/",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181254409950619",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505408",
-  "https://www.newsway.co.kr/news/view?ud=2026111810312431002",
-  "https://biz.heraldcorp.com/article/10941228",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445363",
   "https://www.ggilbo.com/news/articleView.html?idxno=1193941",
   "https://www.naeil.com/news/read/609263",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=281590",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506110",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8626",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506108",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191107000370763"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191107000370763",
+  "https://www.news2day.co.kr/article/20261119500379",
+  "http://www.beyondpost.co.kr/view.php?ud=2026112006361565392aaae0046f_30",
+  "https://www.mediapen.com/news/view/1138728",
+  "https://www.sedaily.com/article/20116740",
+  "https://www.g-enews.com/view.php?ud=2026111923584237780c8c1c064d_1",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=56579"
  ],
  "seen_titles": [
-  "[텔코NOW]SKTㆍKTㆍLGU+",
-  "KBI동양철관·넥스틸펄펄끓네…인프라투자확대가강관주밀어올리...",
-  "여의도덮친실적한파…삼중고에미래에셋마저'적자쇼크'",
-  "“미국도한국의뒷받침필요…K-기업美본사,뉴저지로오라”[헤경이...",
-  "국고채금리하락반전…코스피상승세줄며장중5천선하회",
-  "sk하이닉스,취약계층아동'따뜻한겨울,즐거운방학'위해청주시에...",
   "“배임죄폐지하면대주주전횡처벌공백”",
   "KOSPIFirmsTop1,000TrillionWoninQ3Revenue,250TrillionWoninOpe",
   "SK에코플랜트8.8만원공개매수반발…\"AI·반도체미반영\"",
@@ -6001,7 +5995,13 @@
   "중국에발목잡힌AMD…하나마이크론·네패스수혜가능성주목",
   "[글로벌마켓뷰]앤트로픽상장첫날'블랙홀쇼크'…뉴욕증시2%대급...",
   "AI기업상장잔칫날뉴욕증시는급랭…국내반도체주도시험대",
-  "[경주·포항지진10년…인프라는안전한가](2)병원·청사·방송국,내..."
+  "[경주·포항지진10년…인프라는안전한가](2)병원·청사·방송국,내...",
+  "[N2포커스]지구수십바퀴돈4대그룹총수…해외행보키워드는'AI...",
+  "엔비디아3.3%하락하며6거래일연속약세이어가...시총격차,1위애플...",
+  "[美증시]3대지수동반급락,앤트로픽상장이'악재'…대형기술주·반...",
+  "‘앤트로픽쏠림’에AI주약세...다우,5개월만에5만선붕괴[데일리국...",
+  "삼성전자핵심칩테스트공급사'日마이크로닉스',AI칩호황에대규...",
+  "[이넷뉴스브랜드평판]두산에너빌리티,풍력에너지상장기업11월1위...."
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,29 @@
   [
    "2026-11-20T06:32:35.578401+09:00",
    "청사 방송국 병원"
+  ],
+  [
+   "2026-11-20T06:41:05.763484+09:00",
+   "엔비디아 약세 6거래일 격차 1위 연속 시총 하락하며 애플 이어가"
+  ],
+  [
+   "2026-11-20T06:41:05.763484+09:00",
+   "악재 앤트로픽 동반급락 상장이 3대 지수 대형기술주"
+  ],
+  [
+   "2026-11-20T06:41:05.763484+09:00",
+   "다우 5개월만에 약세 데일리국 앤트로픽 쏠림 AI주 5만선 붕괴"
+  ],
+  [
+   "2026-11-20T06:41:05.763484+09:00",
+   "마이크로닉스 테스트 AI 공급사 호황에 핵심 삼성전자 대규"
+  ],
+  [
+   "2026-11-20T06:41:05.763484+09:00",
+   "풍력에너지 상장기업 1위 11월 두산에너빌리티"
   ]
  ],
- "last_run": "2026-11-20T06:33:01.648985+09:00",
+ "last_run": "2026-11-20T06:41:22.004666+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
