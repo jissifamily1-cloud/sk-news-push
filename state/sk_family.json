@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730422",
-  "https://edu.donga.com/news/articleView.html?idxno=113503",
-  "http://www.newstomato.com/ReadNews.aspx?no=1319239&inflow=N",
-  "http://www.osen.co.kr/article/G1112903901",
-  "http://www.ddanzi.com/898234856",
-  "https://www.yna.co.kr/view/AKR20261104130100504?input=1195m",
-  "https://www.yna.co.kr/view/AKR20261104135000054?input=1195m",
-  "https://www.news1.kr/local/gwangju-jeonnam/6343104",
   "https://www.nocutnews.co.kr/news/6602149",
   "https://www.newsen.com/news_view.php?uid=202611041629490310",
   "https://www.mediapen.com/news/view/1135179",
@@ -2999,17 +2991,17 @@
   "https://www.mk.co.kr/article/12213561",
   "https://www.intn.co.kr/news/articleView.html?idxno=3000373",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=602239",
-  "https://www.edaily.co.kr/News/Read?newsId=03243926645647360&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03243926645647360&mediaCodeNo=257",
+  "https://www.sentv.co.kr/article/view/sentv202611190138",
+  "https://www.inthenews.co.kr/news/article.html?no=94760",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=68068",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=95577",
+  "https://www.m-i.kr/news/articleView.html?idxno=2020804",
+  "https://biz.sbs.co.kr/article_hub/20000347573?division=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853871&plink=ORI&cooper=NAVER",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89297"
  ],
  "seen_titles": [
-  "최성환SK네트웍스사장,보유주식대부분매도…45억원규모",
-  "'세계2위K-펜싱'최신원회장\"사무실봉쇄어려움속에지원해준문체...",
-  "SK장손최영근,5년만에지주사복귀…오너가3세역할론주목",
-  "[단독]‘SK家장손’최영근5년만지주사로복귀…후계구도변수되나",
-  "최시원,현충일맞아태극기올렸다“자유와평화결코당연한것아냐...",
-  "고창소작답양도투쟁39년…\"농민들의땅을되찾은역사,후대에잇는...",
-  "[더벨][thebellnote]SK하이닉스의'본질'",
-  "트럼프힘빠지면韓에유리할까…통상·안보협상새시험대",
   "최성환사장SK네트웍스지분대량매도...전문경영인중심체제강화...",
   "[법조브리핑]공소청,‘노태우비자금의혹’盧정부비서·경호실장...",
   "12조원상속세·2.5조원걸린이혼…기업구조바꾸는'사랑과전쟁'[스...",
@@ -6001,7 +5993,15 @@
   "“주주신뢰로AI격변넘는다”...SK그룹,디렉터스서밋·거버넌스데...",
   "SK그룹,이사회중심경영강화…독립이사들과거버넌스발전방향논의",
   "최태원회장\"AI시대이사회독립성·주주가치극대화해야\"",
-  "이병철이심고이건희가키운반도체…정주영의조선도수출1조달러일..."
+  "이병철이심고이건희가키운반도체…정주영의조선도수출1조달러일...",
+  "AI에철학더하고공연에미디어접목…강원대생이설계한전공",
+  "KB금융,2026/27시즌쇼트트랙월드투어공식후원사참여",
+  "최태원,앤트로픽상장으로4조3천억'대박'…SKT투자3년만에15.7배...",
+  "SK그룹,전·현직독립이사와지배구조발전논의-AI시대이사회역할...",
+  "최태원회장\"SK이사회중심경영,더고도화할것\"",
+  "앤트로픽상장으로최태원SK그룹4조4천억원'잭팟'",
+  "앤트로픽상장으로최태원SK그룹4조4천억원'잭폿'",
+  "최태원·요미우리'한일빅텐트'출범…운영방식과의제는?"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-11-19T14:40:21.653623+09:00",
    "키운 반도체 조선도 수출 심고 정주영의 이건희가 1조달러 이병철이"
+  ],
+  [
+   "2026-11-19T14:50:15.318957+09:00",
+   "요미우리 한일 방식과 빅텐트 의제는 운영 출범"
   ]
  ],
- "last_run": "2026-11-19T14:40:32.257314+09:00",
+ "last_run": "2026-11-19T14:50:28.969634+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
