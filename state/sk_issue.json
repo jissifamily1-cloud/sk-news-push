@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710155",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=362351",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54609",
-  "https://view.asiae.co.kr/article/2026111119451915512",
-  "https://www.mt.co.kr/sports/2026/11/11/2026111119112392877",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1336596",
   "https://www.wikitree.co.kr/articles/1173876",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=258715",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1336600",
@@ -2999,15 +2993,15 @@
   "https://www.lawtv.kr/news/articleView.html?idxno=61465",
   "http://www.newsprime.co.kr/news/article.html?no=755604",
   "https://www.dt.co.kr/article/12096089",
-  "https://www.kado.net/news/articleView.html?idxno=2085843"
+  "https://www.kado.net/news/articleView.html?idxno=2085843",
+  "http://www.amnews.co.kr/news/articleView.html?idxno=75724",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=92284",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=370134",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=89848",
+  "https://www.hankyung.com/article/2026111962616",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885059"
  ],
  "seen_titles": [
-  "국고채담합으로1.6조과징금맞은금융사들…매출액계산법에반발",
-  "두나무,'D-CON2026'성료…디지털자산기본법·원화스테이블코인해법...",
-  "GS건설,동반성장지수6년연속'최우수'",
-  "금투협\"국고채담합과징금과도…행정소송지원\"",
-  "지소연에\"생리하나봐\"막말한심판…징계는고작3개월",
-  "인천청사이버수사대,'1000억신기루'리딩방사기단65명검거",
   "'캐시워크돈버는퀴즈'11월11일정답모음",
   "KB증권,국고채입찰담합과징금3322억원'최다'",
   "음료수캔에숨긴필로폰17kg…인천공항세관한·중공조에덜미",
@@ -6001,7 +5995,13 @@
   "\"영장없는강제조사vs글로벌스탠다드\"...매출1%조사거부과징금...",
   "가맹점외부구매막았다?…투썸플레이스,공정위조사",
   "[人사이더]공개검증앞두고‘리트냥이’잠적…경찰·정치권수능시...",
-  "공개검증약속했던LEET만점자어디에…경찰,광진구일대수색"
+  "공개검증약속했던LEET만점자어디에…경찰,광진구일대수색",
+  "축평원,'해외저탄소축산및축산물품질인증제'보고서발간",
+  "자유기업원\"공정위조사불응과징금신중해야…매출액연동제재재...",
+  "크리스마스케이크대목앞둔투썸…공정위,가맹점고가물품강매의혹...",
+  "공정위,투썸플레이스'가맹점물품강매'의혹조사…POS시중가2.6배...",
+  "\"바닥어디냐\"…증권주,업황둔화·과징금이중고에'추락'[분석+]",
+  "[기업실행력진단①]롯데케미칼,공급지키는석화통합해법찾는다"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "삼성 제치고 2위 최다 한화 해외법인 탈환 894곳"
   ]
  ],
- "last_run": "2026-11-19T11:01:14.432914+09:00",
+ "last_run": "2026-11-19T11:10:58.926624+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
