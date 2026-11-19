@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284088&CMPT_CD=P0010",
-  "https://www.sentv.co.kr/article/view/sentv202611110103",
-  "https://www.hankyung.com/article/2026111111346",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/11/2026111190250.html",
-  "https://www.fnnews.com/news/202611111835457735",
-  "https://www.sedaily.com/article/20113202",
   "https://www.jasm.co.kr/news/view/324970/?sc=Naver",
   "https://sjbnews.com/news/news.php?number=892432",
   "https://www.starnewskorea.com/sports/2026/11/11/2026111118422827828",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/society/2026/11/19/2026111909523370629",
   "https://www.yna.co.kr/view/AKR20261119041052004?input=1195m",
   "https://www.ytn.co.kr/_ln/0134_202611191020044178",
-  "https://www.etnews.com/20261119000104"
+  "https://www.etnews.com/20261119000104",
+  "http://www.foodnews.co.kr/news/articleView.html?idxno=121061",
+  "http://www.breaknews.com/1252180",
+  "https://www.peoplewatch.co.kr/article/view/ppw202611190003",
+  "https://www.segye.com/newsView/20261119506123?OutUrl=naver",
+  "https://www.seoul.co.kr/news/society/accident/2026/11/19/20261119500063?wlog_tag3=naver",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853324&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "\"아전인수격주장\"...30분넘게손현보유죄선고한항소심,왜?",
-  "[이슈플러스]국고채담합에역대최대과징금…시장'부메랑'되나",
-  "금투협\"국고채PD사담합제재과도,심각한부작용우려\"",
-  "李대통령\"입찰담합꿈도꾸지말라\"",
-  "한신평\"국고채담합과징금1.6조…증권사'실적충격'불가피\"",
-  "삼성디스플레이핵심기술중국유출시도…협력사관계자7명재판행",
   "당내경선서허위사실유포혐의김진규검단구청장송치",
   "\"국민의재산을지키는건보공단특사경도입즉각추진하라\"",
   "지소연향해\"걸스데이?\"성희롱발언심판,3개월정치처분...수원FC는...",
@@ -6001,7 +5995,13 @@
   "수정테이프에카메라·계산기는키보드...세무사수석의'AI커닝'",
   "'공개검증불참'LEET만점자신변우려…광진구일대수색(종합)",
   "소름돋게치밀했던수법...세무사수석뚫어버렸다[자막뉴스]",
-  "'공개검증'잠적한리트만점자,강제수사수순...수능부정의혹도"
+  "'공개검증'잠적한리트만점자,강제수사수순...수능부정의혹도",
+  "그린워싱규제에바뀐해외축산물인증…\"객관적입증이관건\"",
+  "푸른아시아,GHG프로토콜‘Scope3표준’한국어번역본공개",
+  "공정위,투썸플레이스조사착수…시중가4배에강매의혹",
+  "[단독]세무사1차감독매뉴얼엔AI기기안내없었다…탐지기검사여...",
+  "[속보]‘리트만점’이진우씨실종신고…경찰,광진구일대수색",
+  "[속보]'공개검증불참'리트만점자행방불명…광진구일대수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "삼성 제치고 2위 최다 한화 해외법인 탈환 894곳"
   ]
  ],
- "last_run": "2026-11-19T10:31:13.581212+09:00",
+ "last_run": "2026-11-19T10:40:52.056118+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
