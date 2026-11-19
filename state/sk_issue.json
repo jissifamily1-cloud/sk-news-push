@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.lawissue.co.kr/view.php?ud=2026111210353995819a8c8bf58f_12",
-  "https://www.munhwa.com/article/11630768",
-  "http://www.segyebiz.com/newsView/20261112506450?OutUrl=naver",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563282",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200099.html",
-  "https://www.edaily.co.kr/News/Read?newsId=02837206645645064&mediaCodeNo=257",
   "http://enews.imbc.com/News/RetrieveNewsInfo/524534",
   "https://www.newspim.com/news/view/20261112000482",
   "https://www.m-i.kr/news/articleView.html?idxno=2017665",
@@ -2999,15 +2993,15 @@
   "https://www.donga.com/news/Economy/article/all/20261119/135054747/1",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=229734",
   "https://www.yna.co.kr/view/AKR20261119138800004?input=1195m",
-  "https://www.mk.co.kr/article/12213703"
+  "https://www.mk.co.kr/article/12213703",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362836",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=370140",
+  "https://www.newscj.com/news/articleView.html?idxno=3450361",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=92321",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6943892",
+  "https://www.newsis.com/view/NISX20261119_0003874928"
  ],
  "seen_titles": [
-  "대구경찰청,3년간도박사이트5개운영한총책등196명검거…21명구...",
-  "대구경찰,800억대도박사이트5개운영조직검거",
-  "특검,'보안점검문서허위작성'의혹중앙선관위압수수색",
-  "특검,'보안점검문서허위작성'의혹중앙선관위·용역업체압수수색",
-  "\"수사권남용우려\"vs\"건보재정보호\"…건보공단특사경도입놓고충...",
-  "특검,중앙선관위등압수수색…보안점검문서허위작성의혹",
   "'실화탐사대'드라마PD사칭男,5억투자사기의혹추적",
   "특검,중앙선관위·보안용역업체압수수색…보안점검문서허위작성의...",
   "위닉스,영유아관련시설로가습기공급확대…안전·편의성강화",
@@ -6001,7 +5995,13 @@
   "공정위,투썸플레이스가맹점물품강매의혹조사착수",
   "동인,개인정보보호·기술유출대응센터신설",
   "[일지]김건희'3대의혹'제기부터대법원선고까지",
-  "[단독]세무사수석‘AI커닝’…카카오톡으로답안받아초소형모니터..."
+  "[단독]세무사수석‘AI커닝’…카카오톡으로답안받아초소형모니터...",
+  "공정위,투썸플레이스조사착수…가맹점에고가장비강매의혹",
+  "대기업매출35%계열사거래…10대집단규제대상내부거래비중2배",
+  "투썸플레이스가맹점물품강매의혹…공정위조사착수",
+  "대기업집단내부거래841조원,총매출의35%차지...총수일가지분높...",
+  "공정위,투썸플레이스조사…가맹점에고가장비강매의혹",
+  "[일지]김건희'3대의혹'제기부터상고심선고까지"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "156조 1위 내부거래 주고받았다 계열사끼리"
   ]
  ],
- "last_run": "2026-11-19T16:40:50.487479+09:00",
+ "last_run": "2026-11-19T16:50:51.619093+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
