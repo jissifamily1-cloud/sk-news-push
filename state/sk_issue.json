@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261112070100004?input=1195m",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/12/2026111290093.html",
-  "https://www.thepowernews.co.kr/view.php?ud=202611121036028786de3f0aa1be_7",
-  "https://www.khan.co.kr/article/202611121047001",
-  "https://www.newsis.com/view/NISX20261112_0003865211",
-  "https://www.fnnews.com/news/202611121043446092",
   "https://www.lawissue.co.kr/view.php?ud=2026111210353995819a8c8bf58f_12",
   "https://www.munhwa.com/article/11630768",
   "http://www.segyebiz.com/newsView/20261112506450?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041514",
   "https://www.newspim.com/news/view/20261119000960",
   "https://www.swtvnews.com/news/newsview.php?ncode=1065594853895677",
-  "https://www.bloter.net/news/articleView.html?idxno=679153"
+  "https://www.bloter.net/news/articleView.html?idxno=679153",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885281",
+  "https://www.namdonews.com/news/articleView.html?idxno=929851",
+  "https://www.donga.com/news/Economy/article/all/20261119/135054747/1",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=229734",
+  "https://www.yna.co.kr/view/AKR20261119138800004?input=1195m",
+  "https://www.mk.co.kr/article/12213703"
  ],
  "seen_titles": [
-  "특검,'보안점검문서허위작성'중앙선관위·용역업체압수수색",
-  "선관위특검,'보안점검허위문서'의혹중앙선관위압수수색",
-  "세스코,염료·형광증백제흡착‘마이랩이염방지시트’선봬",
-  "[속보]선관위,보안점검부실하게하고허위문서작성정황…특검강제...",
-  "국힘수원당협위원장들\"불법권리당원모집의혹해명\"촉구",
-  "특검,선관위'보안점검허위문서'의혹...서버관리업체등압수수색",
   "대구경찰청,3년간도박사이트5개운영한총책등196명검거…21명구...",
   "대구경찰,800억대도박사이트5개운영조직검거",
   "특검,'보안점검문서허위작성'의혹중앙선관위압수수색",
@@ -6001,7 +5995,13 @@
   "현수원시장불법권리당원모집의혹관련전·현직공무원6명구속·...",
   "선풍기만으론한계…신일전자,사업다각화로동전주탈출모색",
   "투썸플레이스,‘가맹사업법위반’의혹공정위조사…점주들,‘2~4배...",
-  "[저PBR꼬리표]삼양사,이익3배늘었는데…시장평가는'반값'"
+  "[저PBR꼬리표]삼양사,이익3배늘었는데…시장평가는'반값'",
+  "쿠첸,가습기매출128%증가…신제품2종라인업확대효과",
+  "대기업내부거래841조원…10대그룹에185조집중",
+  "공정위,투썸플레이스가맹점물품강매의혹조사착수",
+  "동인,개인정보보호·기술유출대응센터신설",
+  "[일지]김건희'3대의혹'제기부터대법원선고까지",
+  "[단독]세무사수석‘AI커닝’…카카오톡으로답안받아초소형모니터..."
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "156조 1위 내부거래 주고받았다 계열사끼리"
   ]
  ],
- "last_run": "2026-11-19T16:31:02.763047+09:00",
+ "last_run": "2026-11-19T16:40:50.487479+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
