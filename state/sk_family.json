@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=257829",
-  "https://www.khan.co.kr/article/202611021652001",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307902",
-  "https://www.nocutnews.co.kr/news/6600915",
   "https://www.polinews.co.kr/news/articleView.html?idxno=747489",
   "https://news.mtn.co.kr/article/2026110216431991956",
   "https://www.mk.co.kr/article/12193808",
@@ -2999,13 +2995,13 @@
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525295",
   "https://www.topstarnews.net/news/articleView.html?idxno=16280317",
   "https://www.sportsworldi.com/newsView/20261119502979",
-  "https://www.newsis.com/view/NISX20261119_0003874241"
+  "https://www.newsis.com/view/NISX20261119_0003874241",
+  "https://www.tennis.co.kr/news/articleView.html?idxno=54328",
+  "https://www.eroun.net/news/articleView.html?idxno=95932",
+  "https://www.ekn.kr/web/view.php?key=20261119024301839",
+  "https://www.ekn.kr/web/view.php?key=20261119020081828"
  ],
  "seen_titles": [
-  "[기업家]SK그룹㉕ㅣ반도체호황·에너지실적개선속조직쇄신…글...",
-  "삼성전자·SK하이닉스·LG전자,엔비디아AI데이참여…첨단제조기술...",
-  "최민정,쇼트트랙월드투어2차대회1500ｍ은메달",
-  "‘라스트댄스’최민정,여전한기량…월드투어2차대회금1·은2",
   "이재용·최태원이'걸그룹칼군무'…SNS뒤집은AI춤영상,초상권은?",
   "11월은재계‘추모의달’…창업주의기업가정신되짚는다",
   "샘올트먼오픈AICEO방한…삼성·SK와AI동맹강화",
@@ -6001,7 +5997,11 @@
   "최태원\"AI시대성장의선순환구축해야\"…SK,'AI플라이휠'전략가속",
   "뮤지컬'이상한변호사우영우',잠실크리스마스마켓팝업부스운영",
   "빙상연맹,ISU쇼트트랙월드투어서울앞두고미디어데이개최",
-  "\"못쳐도돼,사랑해\"…수험생배웅하는학부모들,교문앞응원[2027수..."
+  "\"못쳐도돼,사랑해\"…수험생배웅하는학부모들,교문앞응원[2027수...",
+  "빙판에선'최민정보자'매진,예능선질주경쟁…뜨거운쇼트트랙열기",
+  "SK그룹,독립이사와이사회중심경영성과·발전방향논의",
+  "최태원,SK이사회에“AI투자확대에도주주가치관점서독립판단”",
+  "최태원“사회문제해결하면돈버는시장만들자”…‘새로운자본주..."
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,21 @@
   [
    "2026-11-19T07:30:25.547197+09:00",
    "전략 시대 플라이휠 성장의 선순환 AI 구축해야 가속"
+  ],
+  [
+   "2026-11-19T09:10:16.063294+09:00",
+   "논의 이사회 독립이사와 중심 경영 성과 방향 발전"
+  ],
+  [
+   "2026-11-19T09:10:16.063294+09:00",
+   "관점서 독립 이사회에 AI 주주가치 확대에도 판단 투자"
+  ],
+  [
+   "2026-11-19T09:10:16.063294+09:00",
+   "해결하면 사회문제 새로운 시장 자본주 만들자 버는"
   ]
  ],
- "last_run": "2026-11-19T09:00:44.151836+09:00",
+ "last_run": "2026-11-19T09:10:31.822901+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
