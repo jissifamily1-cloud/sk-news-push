@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444282",
-  "https://www.segye.com/newsView/20261111518496?OutUrl=naver",
-  "https://www.mk.co.kr/article/12205661",
-  "https://www.news1.kr/industry/distribution/6351008",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714665",
   "http://www.newskr.kr/news/articleView.html?idxno=107924",
   "https://www.ajunews.com/view/20261112065500702",
   "https://www.bigtanews.co.kr/article/view/big202611120001",
@@ -2999,14 +2994,14 @@
   "http://www.joseilbo.com/news/news_read.php?uid=580003&class=17",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247687",
   "https://www.lawleader.co.kr/news/articleView.html?idxno=20437",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261119130943jMZ"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261119130943jMZ",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=211647",
+  "https://www.intn.co.kr/news/articleView.html?idxno=3000358",
+  "https://www.m-i.kr/news/articleView.html?idxno=2020734",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261119132111i4X",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/19/2026111950157.html"
  ],
  "seen_titles": [
-  "[오늘재경부등경제부처일정]",
-  "국고채입찰150건담합…1조6000억과징금철퇴外[한강로경제브리핑...",
-  "매경이전하는세상의지식(매-세-지,11월12일)",
-  "[팀장칼럼]배민이받은3311억청구서…과징금과상생안사이",
-  "[크립토핫이슈]디지털자산시장'해킹비상'…네이버·두나무결합심...",
   "[오늘의이슈]미AI주반등...옵션만기코스피도영향받을까",
   "[아주증시포커스]\"명백한담합\"이라는공정위…\"국고손실없는데무슨...",
   "[한컷세상]배달완료!이번엔과징금6319억원",
@@ -6001,7 +5996,12 @@
   "\"권장품목인데외부구매제한?\"…공정위,투썸플레이스조사착수",
   "투썸플레이스,가맹점에키오스크'고가구매강요'의혹",
   "추경호'계엄해제표결방해'1심무죄에비판목소리…\"시민상식과배...",
-  "'AI부정행위'세무사수석경찰2차출석"
+  "'AI부정행위'세무사수석경찰2차출석",
+  "[건설Pick]GS건설·DL이앤씨·현대건설,공정거래다짐·우수파트너...",
+  "'26년공시대상기업집단내부거래현황분석·공개",
+  "공정위,투썸플레이스'가맹점물품강매'의혹조사…시중가최대4배...",
+  "[뉴스특보]전국서10초간경보음…AI커닝논란속수능",
+  "'무혐의'한동훈자녀사건다시캐는경찰…與질타에3년전사건재..."
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "이어 작년 쿠팡 5위 포스코 현대차 계열사 내부거래 삼성"
   ]
  ],
- "last_run": "2026-11-19T13:20:54.005741+09:00",
+ "last_run": "2026-11-19T13:31:00.613720+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
