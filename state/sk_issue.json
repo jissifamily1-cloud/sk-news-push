@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261112030500008?input=1195m",
-  "https://www.mk.co.kr/article/12205981",
-  "http://www.bokuennews.com/news/article.html?no=287021",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=397803",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104451",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=300318",
-  "http://www.srtimes.kr/news/articleView.html?idxno=217377",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082315",
   "https://www.goodkyung.com/news/articleView.html?idxno=293373",
   "https://www.livesnews.com/news/article.html?no=65906",
   "https://www.impacton.net/news/articleView.html?idxno=30642",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20261119104400030?input=1195m",
   "https://www.yna.co.kr/view/AKR20261119105300011?input=1195m",
   "https://www.dailian.co.kr/news/view/1717224/?sc=Naver",
-  "https://www.ytn.co.kr/_ln/0103_202611191424276253"
+  "https://www.ytn.co.kr/_ln/0103_202611191424276253",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17461",
+  "https://imnews.imbc.com/news/2026/econo/article/6866951_36932.html",
+  "http://www.seouleconews.com/news/articleView.html?idxno=95131",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8601",
+  "https://view.asiae.co.kr/article/2026111914362781653",
+  "https://www.joongangenews.com/news/articleView.html?idxno=565152",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=82592",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247692"
  ],
  "seen_titles": [
-  "국고채담합과징금에일부증권사손실…\"실적부담확대\"",
-  "“2730억흑자에서591억적자로”…증권사1.4조과징금후폭풍[오늘...",
-  "환자를지키는의료진,그들은누가지키나",
-  "개표상황표은닉·위조드러나자퇴로막힌정치권…'부정선거없다'던...",
-  "대기업상생성적표,실적점수5.02점올랐는데…협력사체감점수는내...",
-  "[3Q실적]KB금융,과징금반영에순익1486억원감소…국민은행환입에...",
-  "NH투자증권\"국고채담합과징금에증권사실적부담…저평가매력유효...",
-  "[김윤호의일침]승소율94%의착시",
   "한솔제지,신탄진추락사이어장항공장서또사망…대표송치10개월...",
   "멕시카나,반디온라이브와12일2차라이브커머스…HMR·주방가전동시...",
   "【데일리ESG정책브리핑】국고채담합1조6266억원과징금·지역성장펀...",
@@ -6001,7 +5993,15 @@
   "인쇄업계\"용지가격담합피해5천200억원…실질적보상해야\"",
   "[연합뉴스이시각헤드라인]-14:30",
   "부정행위저지른세무사시험수석합격자,경찰2차출석",
-  "'검증노쇼'리트만점자이진우,심정지상태발견[뉴스퀘어2PM]"
+  "'검증노쇼'리트만점자이진우,심정지상태발견[뉴스퀘어2PM]",
+  "사익편취규제대상기업내부거래92%가수의계약",
+  "공정위,투썸플레이스조사착수‥가맹점에고가물품강매의혹",
+  "10대그룹내부거래185조…쿠팡'톱5'진입",
+  "[비즈인사이트]10대그룹내부거래185조…총수일가규제기업은2배,...",
+  "공정위,투썸플레이스조사…가맹점에시중가보다비싸게강매한의혹",
+  "쿠팡,계열사내부거래15조9000억원…대기업집단5위진입",
+  "작년공시집단내부거래액841조원...10대그룹185조원차지",
+  "한신공영,금융자회사불법지배'공정위제재'"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "2000억 내부거래 사용료 공시대상기업집단 LG 매출 상표"
   ]
  ],
- "last_run": "2026-11-19T14:31:08.155904+09:00",
+ "last_run": "2026-11-19T14:40:58.699726+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
