@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://n.news.naver.com/mnews/article/214/0001535103",
-  "https://www.ytn.co.kr/_ln/0103_202611121020425648",
-  "https://www.kukinews.com/article/view/kuk202611120031",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=667978",
-  "https://www.widedaily.com/news/articleView.html?idxno=303474",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=33031",
   "https://www.edaily.co.kr/News/Read?newsId=02827366645645064&mediaCodeNo=257",
   "https://www.newsis.com/view/NISX20261112_0003865156",
   "https://www.kbmaeil.com/article/20261112500169",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/world/usa-canada/6359741",
   "https://www.mydaily.co.kr/page/view/2026111915333845522",
   "https://www.newscj.com/news/articleView.html?idxno=3450348",
-  "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200143"
+  "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200143",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=305808",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321115&inflow=N",
+  "https://www.etnews.com/20261119000193",
+  "https://sports.khan.co.kr/article/202611191600003?pt=nv",
+  "https://www.dailian.co.kr/news/view/1717299/?sc=Naver",
+  "https://www.seoul.co.kr/news/society/2026/11/19/20261119500210?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "[시선집중]윤건영“이용철,공소취소용인사?대통령이미돌이킬수...",
-  "[속보]특검,'보안실태부실점검의혹'선관위압수수색",
-  "“주식으로벌고채권으로다날릴판”…국고채과징금에증권사‘실...",
-  "국고채입찰담합과징금증권사,4분기실적타격전망",
-  "1.4조'국고채과징금'맞은증권업계…실적충격속\"저평가매력은여...",
-  "국고채입찰짬짜미15개PD사에과징금1.6조…공정위단일사건사상...",
   "[속보]'김건희집사게이트'IMS모빌리티대표무죄·공소기각확정",
   "특검,중앙선관위'보안실태문서허위작성'정황포착…압수수색",
   "800억원대불법도박판벌인조직…조폭등196명검거",
@@ -6001,7 +5995,13 @@
   "美,'우크라지원'방산업체팔란티어기밀노린러시아인체포",
   "'AI부정행위의혹'이진우,심정지발견후에도수사불가피?…\"공범가...",
   "김창민감독살해30대징역12년…공범은징역3년",
-  "의협\"의료계참여의료기관수사협의체조속구성\"촉구"
+  "의협\"의료계참여의료기관수사협의체조속구성\"촉구",
+  "[인사]기후에너지환경부(4.5급이하전보등)",
+  "담합제재에도피해보상'0원'…인쇄업계,청와대앞종합대책촉구",
+  "[ET단상]한미기술동맹과플랫폼규제,오해를넘어설득으로",
+  "시민단체“축구협회·쿠팡플레이,불공정행위공정위신고할것”",
+  "'부정행위의혹'이진우사망에수사중단?...변호사\"계속될듯\"",
+  "“세무사5년공부,떨어지고울었는데”이지혜남편,‘세무냥이’에..."
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "156조 1위 내부거래 주고받았다 계열사끼리"
   ]
  ],
- "last_run": "2026-11-19T16:01:20.565424+09:00",
+ "last_run": "2026-11-19T16:10:56.390826+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
