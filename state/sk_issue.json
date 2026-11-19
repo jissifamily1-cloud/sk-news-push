@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/topics/law_firm/2026/11/12/WZIL3FKZKBBB7O2BPNEOIYLU6U/",
-  "https://www.joongang.co.kr/article/25477937",
-  "https://www.nocutnews.co.kr/news/6605748",
-  "https://news.tf.co.kr/read/life/2387886.htm",
-  "https://www.news1.kr/society/court-prosecution/6351594",
-  "https://view.asiae.co.kr/article/2026111210202418816",
   "https://n.news.naver.com/mnews/article/214/0001535103",
   "https://www.ytn.co.kr/_ln/0103_202611121020425648",
   "https://www.kukinews.com/article/view/kuk202611120031",
@@ -2999,15 +2993,15 @@
   "http://www.00news.co.kr/news/articleView.html?idxno=108219",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=214136",
   "https://www.kado.net/news/articleView.html?idxno=2085918",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286524&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286524&CMPT_CD=P0010",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=626362",
+  "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200141",
+  "https://www.news1.kr/world/usa-canada/6359741",
+  "https://www.mydaily.co.kr/page/view/2026111915333845522",
+  "https://www.newscj.com/news/articleView.html?idxno=3450348",
+  "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200143"
  ],
  "seen_titles": [
-  "“보안점검문서까지허위로작성”…특검,중앙선관위압수수색",
-  "[속보]특검팀,‘보안실태문서허위작성’중앙선관위압수수색",
-  "특검,'보안실태문서허위작성'중앙선관위등압수수색",
-  "[속보]특검,중앙선관위서버압수수색…허위보안점검의혹",
-  "특검,'보안점검문서허위작성'중앙선관위압수수색",
-  "선관위특검,중앙선관위·관리용역업체2곳압수수색",
   "[시선집중]윤건영“이용철,공소취소용인사?대통령이미돌이킬수...",
   "[속보]특검,'보안실태부실점검의혹'선관위압수수색",
   "“주식으로벌고채권으로다날릴판”…국고채과징금에증권사‘실...",
@@ -6001,7 +5995,13 @@
   "대기업집단내부거래현주소",
   "불경기에도날아오른투썸플레이스...매출비결은점주'쥐어짜기?'",
   "LEET만점자이진우사망…AI커닝의혹수사중단가능성",
-  "진보당\"추경호무죄재판부,국민의힘궤변베꼈나\""
+  "진보당\"추경호무죄재판부,국민의힘궤변베꼈나\"",
+  "지난해10대그룹내부거래185조원...쿠팡'톱5'진입",
+  "의협\"특사경법즉각폐기…사무장병원근절의협대안으로\"",
+  "美,'우크라지원'방산업체팔란티어기밀노린러시아인체포",
+  "'AI부정행위의혹'이진우,심정지발견후에도수사불가피?…\"공범가...",
+  "김창민감독살해30대징역12년…공범은징역3년",
+  "의협\"의료계참여의료기관수사협의체조속구성\"촉구"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "156조 1위 내부거래 주고받았다 계열사끼리"
   ]
  ],
- "last_run": "2026-11-19T15:50:51.861956+09:00",
+ "last_run": "2026-11-19T16:01:20.565424+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
