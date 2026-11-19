@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=42785",
-  "https://www.newscj.com/news/articleView.html?idxno=3449812",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=768540",
-  "https://www.etnews.com/20261118000236",
-  "https://www.catchnews.kr/news/articleView.html?idxno=130668",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=731607",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89272",
-  "https://view.asiae.co.kr/article/2026111813264561046",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445365",
   "https://magazine.hankyung.com/business/article/202611184533b",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=315600",
   "https://www.ngonews.kr/news/articleView.html?idxno=243509",
@@ -2999,18 +2990,18 @@
   "https://news.mtn.co.kr/article/2026111915535938369",
   "https://www.yna.co.kr/view/AKR20261120010751072?input=1195m",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=301873",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16281078"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16281078",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261405",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16281084",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885144",
+  "https://www.newsis.com/view/NISX20261120_0003875991",
+  "https://www.fntimes.com/html/view.php?ud=20261120071256267141825007d_18",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8627",
+  "http://www.incheonin.com/news/articleView.html?idxno=122421",
+  "https://www.the-today.com/news/articleView.html?idxno=93849",
+  "https://www.sedaily.com/article/20116745"
  ],
  "seen_titles": [
-  "최태원,日요미우리와'한일신시대전략플랫폼'출범",
-  "'한일신시대전략플랫폼'출범...공동대표맡은최태원회장\"새로운...",
-  "SKT,AI-RAN차량제어기술로전파방송기술대상장관상",
-  "\"천덕꾸러기폐현수막,의류·유니폼재탄생\"SK케미칼,서귀포시와재...",
-  "엔비디아,호실적에도원가부담확인…'삼전닉스'수익성기대커지나",
-  "CJ올리브영,K색조·웰니스로성장가속...지주회사CJ주가에청신호",
-  "반도체날개단충북생산30%‘질주’…소비는13개시도뒷걸음",
-  "[외환]외국인달러선물매도·네고에1,330원아래로…8.90원↓",
-  "“반도체잔치였네”코스피실적급증",
   "반도체협력사'돈맥경화'풀리나…삼성·SK,현금결제확대",
   "SKT,전파방송기술대상5년연속수상···\"우수기술력입증\"",
   "4940선까지밀렸던코스피,다시1%대상승…기관이받아낸외국인매물...",
@@ -6001,7 +5992,16 @@
   "에쓰오일샤힌가동앞둔울산,'나프타흐름'바뀐다",
   "앤트로픽상장에도뉴욕증시2%대급락…다우50,000선붕괴(종합)",
   "상장사10곳중7곳,4분기실적하향…삼전닉스맑음,석화·배터리먹...",
-  "미국증시,앤트로픽상장호재에도다우1100P급락…AI·반도체매도확..."
+  "미국증시,앤트로픽상장호재에도다우1100P급락…AI·반도체매도확...",
+  "[넥스트-샷]축포뒤매도폭탄···'AI구원투수'앤트로픽떠도돈줄...",
+  "앤트로픽상장성공에도미국증시급락…삼성전자·SK하이닉스에호재인...",
+  "[건설사ESG민낯]현대건설,글로벌톱티어어디에…1조쏟고매년사망",
+  "시총2조달러돌파한'앤트로픽'…도대체뭐하는회사길래[Q&A]",
+  "[KFT모닝브리프]2026.11.20—오늘꼭알아야할국내외경제뉴스",
+  "[마켓뷰]외국인두달새45조'셀코리아'…반도체실적도못막은자...",
+  "낙폭커지는남동·미추홀...인천남부집값하락세가팔라",
+  "[단독]SK하이닉스인디애나부지소송12월1일개시…시의회는소송논...",
+  "중국,SK하이닉스HBM기술까지베끼나...반도체장비수입4배폭증[Pi..."
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,37 @@
   [
    "2026-11-20T07:11:01.136312+09:00",
    "나프타 앞둔 흐름 에쓰오일 가동 울산 샤힌 바뀐다"
+  ],
+  [
+   "2026-11-20T07:31:21.525668+09:00",
+   "현대건설 1조 사망 어디에 쏟고 글로벌톱티어 매년"
+  ],
+  [
+   "2026-11-20T07:31:21.525668+09:00",
+   "도대체 앤트로픽 회사길래 2조 돌파한 시총 달러 하는"
+  ],
+  [
+   "2026-11-20T07:31:21.525668+09:00",
+   "경제뉴스 알아야 국내외"
+  ],
+  [
+   "2026-11-20T07:31:21.525668+09:00",
+   "45조 셀코리아 막은 외국인 실적도 반도체"
+  ],
+  [
+   "2026-11-20T07:31:21.525668+09:00",
+   "남부 가팔라 미추홀 집값 인천 낙폭 커지는 하락세 남동"
+  ],
+  [
+   "2026-11-20T07:31:21.525668+09:00",
+   "부지 개시 인디애나 12월 시의회는 SK하이닉스 소송 1일"
+  ],
+  [
+   "2026-11-20T07:31:21.525668+09:00",
+   "기술까지 Pi HBM 4배 베끼나 장비 반도체 수입 중국 SK하이닉스 폭증"
   ]
  ],
- "last_run": "2026-11-20T07:21:12.771425+09:00",
+ "last_run": "2026-11-20T07:31:43.154994+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
