@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710860",
-  "https://www.investchosun.com/site/data/html_dir/2026/11/12/2026111280066.html",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=48972",
-  "https://www.news2day.co.kr/article/20261110500335",
-  "https://view.asiae.co.kr/article/2026111209000202527",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318955",
-  "https://news.tf.co.kr/read/life/2387905.htm",
   "https://www.hankookilbo.com/news/article/A2026111210200003388?did=NA",
   "https://www.pressian.com/pages/articles/2026111211015806497",
   "https://www.naeil.com/news/read/608601",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20261119001255",
   "http://www.segyebiz.com/newsView/20261119516649?OutUrl=naver",
   "https://www.dailian.co.kr/news/view/1717403/?sc=Naver",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104763"
+  "http://www.dailypop.kr/news/articleView.html?idxno=104763",
+  "https://www.mediawatch.kr/news/article.html?no=261810",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8622",
+  "https://www.newspim.com/news/view/20261119001332",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950317.html",
+  "https://www.hankyung.com/article/2026111978217",
+  "https://www.news1.kr/society/court-prosecution/6359881",
+  "https://dealsite.co.kr/articles/173151"
  ],
  "seen_titles": [
-  "특검,‘보안점검문서허위작성’중앙선관위·용역업체압수수색",
-  "[Invest]미래證,3분기4000억대순손실로적자전환…1.4조자사주소각...",
-  "미래에셋증권,3분기4056억순손실…2148억국고채과징금반영'검토...",
-  "[기업워치-동원과사조,같은캔,다른길①]동원은배터리·사조는식...",
-  "1.6兆과징금‘국고채입찰담합’파장에재경부,정보공유가이드라...",
-  "'TV조선재승인점수조작'1심,한상혁등6인전원무죄",
-  "특검,'허위보안문서'의혹중앙선관위서버압수수색",
   "중앙선관위,보안점검에서도허위공문서작성정황…선관위특검압...",
   "[속보]중선관위압수수색특검,'문서허위작성'정황포착\"위중한사...",
   "‘김건희집사게이트’조영탁,무죄확정",
@@ -6001,7 +5994,14 @@
   "'AI커닝자수'세무사수석합격자,2차경찰조사출석…포렌식작업참...",
   "'AI부정행위'세무사수석,경찰2차출석…압수물포렌식참관",
   "'리트만점자'사망에수사종결전망…AI부정의혹은남아등[11/19(목...",
-  "[재계줌인]\"미래성장동력확보\"…대기업,게임·석화덜어내고AI·발..."
+  "[재계줌인]\"미래성장동력확보\"…대기업,게임·석화덜어내고AI·발...",
+  "공정위“대기업집단매출35%가내부거래”…현대차60.9조최대",
+  "[승계추적]급속히지주사지분늘리는DB김주원부회장...후계구도딸...",
+  "인쇄업계\"제지사담합피해5200억넘어…피해구제기금설치해야\"",
+  "신용보강수수료기준·사례없는데…전례없는공정위제재에중흥건...",
+  "\"분노가치밀어\"…이지혜남편,세무사AI부정에일침",
+  "[일지]김건희,'도이치·통일교·명태균'의혹제기부터대법선고까지",
+  "[전자는지금]SK,이사회중심거버넌스고도화外"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-11-19T17:20:56.670106+09:00",
    "확보 대기업 미래 석화 AI 게임 성장동력 덜어내고"
+  ],
+  [
+   "2026-11-19T17:31:05.125406+09:00",
+   "고도화 거버넌스 이사회 중심"
   ]
  ],
- "last_run": "2026-11-19T17:21:03.286804+09:00",
+ "last_run": "2026-11-19T17:31:11.788327+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
