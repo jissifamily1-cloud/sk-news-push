@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.seouleconews.com/news/articleView.html?idxno=95082",
-  "https://www.ajunews.com/view/20261118100419401",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=884555",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452252",
-  "http://www.metroseoul.co.kr/article/20261118500115",
-  "https://www.mt.co.kr/industry/2026/11/18/2026111808563211184",
   "https://www.newspim.com/news/view/20261118000305",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4119264",
   "https://kpenews.com/View.aspx?No=4317802",
@@ -2999,15 +2993,15 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16280894",
   "https://www.busan.com/view/busan/view.php?code=2026111918300871945",
   "https://biz.heraldcorp.com/article/10942767",
-  "https://www.thepublic.kr/news/articleView.html?idxno=327561"
+  "https://www.thepublic.kr/news/articleView.html?idxno=327561",
+  "https://www.newscammp.co.kr/news/articleView.html?idxno=7283",
+  "https://www.dt.co.kr/article/12096266",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362873",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854513&plink=ORI&cooper=NAVER",
+  "https://www.ekn.kr/web/view.php?key=20261119025362155",
+  "https://www.news2day.co.kr/article/20261119500391"
  ],
  "seen_titles": [
-  "SK바이오팜,'세노바메이트'기반중장기성장전략발표",
-  "엔비디아훈풍에K반도체들썩…삼성·SK·두산급등",
-  "최태원대한상의회장,세계행정학회서AI활용한새성장시스템제안",
-  "이동훈SK바이오팜대표,英'제프리스컨퍼런스'서4년연속경쟁력알...",
-  "최태원회장,'사회문제해결한만큼경제보상'새성장론역설",
-  "\"AI시험커닝,막아도우회\"…빅테크차단한계,삼성·SK감독강화",
   "서귀포시-SK케미칼,폐현수막자원순환활성화업무협약체결",
   "삼성디스플레이·LG디스플레이,머뭇거리는사이..韓소부장기업중국...",
   "뉴욕은떨어졌는데한국은올랐다…마감뒤나온숫자하나가판뒤집었...",
@@ -6001,17 +5995,15 @@
   "KBL,수원kt트레이포터테크니컬파울반칙금철회결정",
   "부전~마산복선전철붕괴,20배압력그라우팅‘결정적’",
   "‘매출2배’대박에도시총731조증발…‘젠슨황없는엔비디아’앞...",
-  "\"삼전30만·하이닉스200만물렸다면손절늦었다\"…전문가\"내년1월실..."
+  "\"삼전30만·하이닉스200만물렸다면손절늦었다\"…전문가\"내년1월실...",
+  "인천광역시,제약바이오투자대전개최…글로벌투자유치·기술협력모...",
+  "상장사3곳중2곳,4분기영업익전망하향…실적눈높이낮아져",
+  "KB증권,지역관광AI펀드에20억원출자…모험자본공급확대",
+  "KBL,항의이유로T파울받았던KT포터반칙금철회",
+  "“수능끝,혜택시작”…통신3사,수험생잡기‘선물보따리’",
+  "[이태희의JOB채(106)]LG구광모의정중동(靜中動)행보,새로운서막..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-19T12:41:05.765640+09:00",
-   "Return KOSPI Goldman Sachs to Cuts but Dollar Target Again Sees"
-  ],
-  [
-   "2026-11-19T12:41:05.765640+09:00",
-   "4억8천702만달러 매도 SOXL 우위 마이크론은 순매수"
-  ],
   [
    "2026-11-19T13:01:25.530978+09:00",
    "자사 하라더니 IR엔 증권사 IR 정작 상장사엔 뒷짐"
@@ -7047,9 +7039,13 @@
   [
    "2026-11-19T18:41:04.711605+09:00",
    "늦었다 삼전 전문가 내년 물렸다면 200만 하이닉스 1월 손절 30만"
+  ],
+  [
+   "2026-11-19T18:51:06.159919+09:00",
+   "서막 새로운 구광모의 행보 LG 정중동"
   ]
  ],
- "last_run": "2026-11-19T18:41:10.376926+09:00",
+ "last_run": "2026-11-19T18:51:12.229026+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
