@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865022_37012.html",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865020_37012.html",
-  "https://www.gokorea.kr/news/articleView.html?idxno=885201",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247407",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444282",
   "https://www.segye.com/newsView/20261111518496?OutUrl=naver",
   "https://www.mk.co.kr/article/12205661",
@@ -2999,13 +2995,13 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=903648",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=95564",
   "https://imnews.imbc.com/news/2026/society/article/6866908_36918.html",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=903650"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=903650",
+  "http://www.joseilbo.com/news/news_read.php?uid=580003&class=17",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247687",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20437",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261119130943jMZ"
  ],
  "seen_titles": [
-  "동물마취제'셀프투약'‥마약에취한수의사",
-  "20만원빌리면당일40만원‥연이자'3만6천%'",
-  "공정위과징금폭탄,국고채시장의운명은?금융투자업계가떨고있다",
-  "[오늘의주요일정·12일]오세훈서울시장,대학생주거안정라운드테이...",
   "[오늘재경부등경제부처일정]",
   "국고채입찰150건담합…1조6000억과징금철퇴外[한강로경제브리핑...",
   "매경이전하는세상의지식(매-세-지,11월12일)",
@@ -6001,7 +5997,11 @@
   "대기업매출35%는내부거래…쿠팡,금액기준'5위'진입",
   "리트만점자이진우행방불명-휴대전화꺼져경찰추적",
   "'AI부정행위'세무사수석,경찰2차출석‥포렌식작업",
-  "'AI커닝'세무사수석,이틀만에경찰2차출석"
+  "'AI커닝'세무사수석,이틀만에경찰2차출석",
+  "\"권장품목인데외부구매제한?\"…공정위,투썸플레이스조사착수",
+  "투썸플레이스,가맹점에키오스크'고가구매강요'의혹",
+  "추경호'계엄해제표결방해'1심무죄에비판목소리…\"시민상식과배...",
+  "'AI부정행위'세무사수석경찰2차출석"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "이어 작년 쿠팡 5위 포스코 현대차 계열사 내부거래 삼성"
   ]
  ],
- "last_run": "2026-11-19T13:11:08.210025+09:00",
+ "last_run": "2026-11-19T13:20:54.005741+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
