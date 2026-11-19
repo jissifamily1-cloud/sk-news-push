@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswatch.kr/news/articleView.html?idxno=81856",
-  "https://www.dailian.co.kr/news/view/1714088/?sc=Naver",
-  "https://mhnse.com/news/articleView.html?idxno=1693757",
   "https://www.bntnews.co.kr/article/view/bnt202611120168",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559571",
   "https://www.chosun.com/national/court_law/2026/11/12/2D7ASVTKTNEHZAN4D4QBL4NRIU/",
@@ -2999,12 +2996,12 @@
   "https://www.swtvnews.com/news/newsview.php?ncode=1065590987924483",
   "http://www.tvdaily.co.kr/read.php3?aid=17950691081810379002",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=45427",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247696"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247696",
+  "https://www.hankyung.com/article/202611197638g",
+  "https://news.jtbc.co.kr/article/NB12328875?influxDiv=NAVER",
+  "https://www.newsis.com/view/NISX20261119_0003875309"
  ],
  "seen_titles": [
-  "[초점]렌터카1·2위장악한'외국계사모펀드'…캐피탈규제완화'제...",
-  "[속보]특검팀,'보안실태문서허위작성'중앙선관위압수수색",
-  "드라마PD사칭남성…'5억원규모'가로챈거짓이력추적('실화탐사...",
   "‘실화탐사대’5억사기남·응급실수사",
   "[속보]특검,‘보안실태문서허위작성’혐의중앙선관위등압수수색",
   "[속보]선관위특검,‘보안실태부실점검’중앙선관위·용역업체압수...",
@@ -6001,7 +5998,10 @@
   "자유기업원,“조사불응에매출1%과징금,비례성따져야”",
   "'리트부정시험의혹'이진우사망,공소권없음에도수사가능성\"사회...",
   "포스코이앤씨'안전통'송치영사장취임15개월돌아보니…사망사고는...",
-  "'내부거래1위'SK,계열사끼리156조주고받았다"
+  "'내부거래1위'SK,계열사끼리156조주고받았다",
+  "공정위,투썸플레이스조사착수…가맹점고가물품·장비강매의혹",
+  "[단독]공정위가는'축구협회쿠팡밀어주기'의혹…\"시장지배적지위...",
+  "이재준수원시장'불법권리당원모집'의혹,전현직공무원송치"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "156조 1위 내부거래 주고받았다 계열사끼리"
   ]
  ],
- "last_run": "2026-11-19T15:31:08.694116+09:00",
+ "last_run": "2026-11-19T15:40:52.005190+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
