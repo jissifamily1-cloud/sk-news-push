@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6602149",
-  "https://www.newsen.com/news_view.php?uid=202611041629490310",
-  "https://www.mediapen.com/news/view/1135179",
-  "https://www.kgnews.co.kr/news/article.html?no=918214",
-  "https://www.newsis.com/view/NISX20261104_0003855017",
-  "https://www.newsis.com/view/NISX20261104_0003854827",
-  "https://www.thepublic.kr/news/articleView.html?idxno=325118",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703811",
   "https://www.redian.org/news/articleView.html?idxno=257598",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017624",
@@ -2999,16 +2992,16 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2020804",
   "https://biz.sbs.co.kr/article_hub/20000347573?division=NAVER",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853871&plink=ORI&cooper=NAVER",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89297"
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89297",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=874836",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=125236",
+  "https://www.betanews.net/article/view/beta202611190101",
+  "https://www.thepowernews.co.kr/view.php?ud=202611191448317437de3f0aa1be_7",
+  "https://www.kukinews.com/article/view/kuk202611030159",
+  "https://www.cnbizm.com/news/articleView.html?idxno=322030",
+  "https://kpenews.com/View.aspx?No=4320520"
  ],
  "seen_titles": [
-  "최성환사장SK네트웍스지분대량매도...전문경영인중심체제강화...",
-  "[법조브리핑]공소청,‘노태우비자금의혹’盧정부비서·경호실장...",
-  "12조원상속세·2.5조원걸린이혼…기업구조바꾸는'사랑과전쟁'[스...",
-  "[이달의주식부호]주식부호10명중8명보유주식↓…삼성일가4인주...",
-  "최태원회장\"한국·일본AI·반도체등경제협력,최소1340조원시너지...",
-  "'라디오스타'엔믹스릴리,가수꿈위해투어버스만든아버지사연공...",
-  "엔믹스릴리父,건축가였다‥딸위해버스개조→투어버스제작(라스)",
   "국민의힘장동혁·정점식,“李정부국정실정·포퓰리즘총공세”",
   "엔믹스릴리父,딸가수꿈위해버스까지개조…남다른뒷바라지(라...",
   "두번의생사고비…산사에서다시그린삶",
@@ -6001,7 +5994,14 @@
   "최태원회장\"SK이사회중심경영,더고도화할것\"",
   "앤트로픽상장으로최태원SK그룹4조4천억원'잭팟'",
   "앤트로픽상장으로최태원SK그룹4조4천억원'잭폿'",
-  "최태원·요미우리'한일빅텐트'출범…운영방식과의제는?"
+  "최태원·요미우리'한일빅텐트'출범…운영방식과의제는?",
+  "대한민국연간수출1조달러시대…충북수출9개월만에지난해1년치...",
+  "KB금융그룹,'KB금융-ISU쇼트트랙월드투어서울2026/27'공식후원사...",
+  "KB금융,쇼트트랙월드투어서울대회공식후원…19년째국가대표지원",
+  "KB금융,‘ISU쇼트트랙월드투어서울’공식후원…20일개막",
+  "트럼프힘빠지면韓에유리할까…통상·안보협상새시험대",
+  "최태원SK그룹회장\"이사회,주주가치극대화관점서소통해야\"",
+  "SK그룹,전현직독립이사회동..AI시대이사회경영강화"
  ],
  "recent_sigs": [
   [
@@ -6109,7 +6109,7 @@
    "요미우리 한일 방식과 빅텐트 의제는 운영 출범"
   ]
  ],
- "last_run": "2026-11-19T14:50:28.969634+09:00",
+ "last_run": "2026-11-19T15:00:40.544273+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
