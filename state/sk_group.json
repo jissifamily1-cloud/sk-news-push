@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281590",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=49133",
-  "https://dealsite.co.kr/articles/172908",
-  "https://www.naeil.com/news/read/609175",
-  "https://www.edaily.co.kr/News/Read?newsId=03089766645647032&mediaCodeNo=257",
-  "https://shindonga.donga.com/3/all/13/6462928/1",
-  "https://zdnet.co.kr/view/?no=20261111180623",
-  "https://www.sportsseoul.com/news/read/1650603",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041318",
   "https://mhnse.com/news/articleView.html?idxno=1701758",
   "https://dealsite.co.kr/articles/173046",
@@ -2999,17 +2991,17 @@
   "https://www.g-enews.com/view.php?ud=2026111923584237780c8c1c064d_1",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=56579",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506118",
-  "https://www.mt.co.kr/world/2026/11/20/2026112006410164592"
+  "https://www.mt.co.kr/world/2026/11/20/2026112006410164592",
+  "https://www.news1.kr/world/international-economy/6360312",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445639",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732405",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050013.html",
+  "https://www.mt.co.kr/economy/2026/11/20/2026111922551235041",
+  "https://news.bizwatch.co.kr/article/industry/2026/11/19/0026",
+  "http://www.breaknews.com/1252457",
+  "https://www.news1.kr/finance/general-stock/6360003"
  ],
  "seen_titles": [
-  "SK에코플랜트8.8만원공개매수반발…\"AI·반도체미반영\"",
-  "SKC,동박생산거점재편마무리…내년흑자전환기대",
-  "“반도체건설노동자권익보호”",
-  "[37thSRE][기고]2027년은기회의해",
-  "뇌전증신약이바꾼‘삶의가치’…SK바이오팜의남다른ESG성과",
-  "웃고넘긴AI딥페이크,누군가에겐범죄…플랫폼책임어디까지",
-  "후배들아잘들어!주전아니라고기죽지말기…‘9시의남자’SSG오...",
-  "SSG최지훈,4년총액67억원FA계약…인천에1억원기부",
   "이선빈,수능출제본부합류…\"문제없는문제\"만들고군분투('수능,...",
   "[IT는지금]SKT,AI-RAN무인자율이송기술로전파방송기술대상5년...",
   "건설근로자공제회,용인반도체현장퇴직공제운영점검",
@@ -6001,7 +5993,15 @@
   "삼성전자핵심칩테스트공급사'日마이크로닉스',AI칩호황에대규...",
   "[이넷뉴스브랜드평판]두산에너빌리티,풍력에너지상장기업11월1위....",
   "미국서확인된저장장치수요확대…삼성전자·SK하이닉스수혜가능성...",
-  "앤트로픽창업자1인당230억달러'돈방석'…SKT도5조'잭팟'"
+  "앤트로픽창업자1인당230억달러'돈방석'…SKT도5조'잭팟'",
+  "미국반도체지수2.4%하락…앤트로픽상장첫날AI주투매",
+  "[뉴욕증시]앤트로픽상장은매도신호였나…2%대급락마감",
+  "엔트로픽도못막은뉴욕증시하락…코스피반도체주'먹구름'",
+  "5연승정관장VS5연승KCC,정관장'6연승'질주",
+  "\"내년수출1.3조달러\"훈풍기대속…\"나만팍팍해?\"내수는'한파'",
+  "3달새51조또쌓였다…329조현금쥔삼전·닉스,지갑어디에열까",
+  "세종시“살던곳에서의료·돌봄한번에”,통합돌봄원년닻올려",
+  "코스피시총4배커졌는데…'6년째10조'증안펀드,급락장방어한계"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,29 @@
   [
    "2026-11-20T06:51:04.733653+09:00",
    "돈방석 잭팟 창업자 앤트로픽 230억달러 SKT도 5조 1인당"
+  ],
+  [
+   "2026-11-20T07:01:15.937858+09:00",
+   "VS 5연승 정관장 KCC 6연승 질주"
+  ],
+  [
+   "2026-11-20T07:01:15.937858+09:00",
+   "수출 한파 훈풍 3조달러 내년 나만 내수는 팍팍해 기대"
+  ],
+  [
+   "2026-11-20T07:01:15.937858+09:00",
+   "열까 현금 삼전 어디에 3달 329조 쌓였다 닉스 51조 지갑"
+  ],
+  [
+   "2026-11-20T07:01:15.937858+09:00",
+   "번에 원년 곳에서 살던 통합돌봄 올려 세종시 돌봄 의료"
+  ],
+  [
+   "2026-11-20T07:01:15.937858+09:00",
+   "10조 증안펀드 코스피 한계 커졌는데 4배 시총 급락장 6년째 방어"
   ]
  ],
- "last_run": "2026-11-20T06:51:10.148281+09:00",
+ "last_run": "2026-11-20T07:01:32.059072+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
