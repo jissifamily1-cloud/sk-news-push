@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1714375/?sc=Naver",
-  "https://www.seoul.co.kr/news/society/2026/11/12/20261112500320?wlog_tag3=naver",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=325827",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4027377",
-  "https://www.mk.co.kr/article/12206714",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843455&plink=ORI&cooper=NAVER",
-  "https://www.fnnews.com/news/202611121754271733",
-  "https://www.segye.com/newsView/20261112517172?OutUrl=naver",
-  "https://www.sidae.com/article/2026111214224082881",
   "https://www.g-enews.com/view.php?ud=2026111215160621324debea800_1",
   "https://www.imaeil.com/page/view/2026111216254551016",
   "http://www.newstomato.com/ReadNews.aspx?no=1320320&inflow=N",
@@ -2999,18 +2990,18 @@
   "https://www.newsis.com/view/NISX20261120_0003876958",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247747",
   "https://www.mydaily.co.kr/page/view/2026112016103296932",
-  "https://www.seoultimes.news/news/article.html?no=2000102487"
+  "https://www.seoultimes.news/news/article.html?no=2000102487",
+  "https://www.wikitree.co.kr/articles/1176347",
+  "http://www.footballist.co.kr/news/articleView.html?idxno=217087",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=131022",
+  "https://www.sisajournal.com/news/articleView.html?idxno=394832",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452534",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001541",
+  "https://news.jtbc.co.kr/article/NB12329067?influxDiv=NAVER",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732519",
+  "https://kpenews.com/View.aspx?No=4322595"
  ],
  "seen_titles": [
-  "'수사자료외부유출'전직검사,1심징역형집행유예",
-  "[단독]공수처압수수색,2년새3분의1로…“제도부터손봐야”",
-  "aT,2026경영혁신BP경진대회개최…우수사례6건선정",
-  "진에어·에어서울·에어부산합병승인…내년3월'통합LCC'출범",
-  "중수청수사공백속…경찰이주가조작잡았다",
-  "[D리포트]상장사대표·조폭등한통속'주가조작'…주가조작일당2...",
-  "'그랜드시티호텔창원'동계전지훈련특화호텔로명성떨친다",
-  "“그린워싱조장”vs“신뢰로키울시장”…한국형탄소시장공방",
-  "[사설]국고채담합1.6조부과…'과징금만능주의'우려된다",
   "진에어·에어서울·에어부산합병인가…내년3월17일통합출범",
   "李정부곳곳포진한TK인사들…'패싱'논란속역할기대감",
   "소상공인5개단체\"할인수수료면제결단환영…쿠팡도개편해야\"",
@@ -6001,15 +5992,28 @@
   "조력자확인도안되는데…숨진'리트만점자'의혹규명될까",
   "경찰'한진칼배임'의혹조원태회장압수수색",
   "경찰,조원태회장휴대전화압수…한진칼663억자사주배임의혹",
-  "[이슈]경찰,조원태한진그룹회장휴대전화압수…663억원자사주출..."
+  "[이슈]경찰,조원태한진그룹회장휴대전화압수…663억원자사주출...",
+  "종일켜놔도난방비확줍니다…보일러기사들이쓴다는‘난방비’절...",
+  "'쿠팡몰아주기아니다'KFA,'해외축구초청경기'관련공정위신고에...",
+  "김재원,축구협회·쿠팡특혜의혹공정위신고…\"특정기업이익위해...",
+  "태양광패널담합의혹…공정위,한화솔루션등3사조사",
+  "삼성증권발행어음진출에국고채과징금부담벗어나,박종문첫연임...",
+  "경찰,조원태한진그룹회장휴대전화압수…'자사주출연의혹'강제...",
+  "챗GPT정답률34%였는데…리트만점자'성적미스터리'",
+  "'기아사태'판례정조준한경찰…조원태배임수사전방위확대",
+  "캐피탈사렌탈규제완화추진..렌터카시장경쟁구도바뀌나"
  ],
  "recent_sigs": [
   [
    "2026-11-20T15:40:56.636280+09:00",
    "두산 SK실트론 LG 동부"
+  ],
+  [
+   "2026-11-20T16:31:02.422895+09:00",
+   "규제 경쟁구도 완화 바뀌나 렌터카 캐피탈사 시장 렌탈"
   ]
  ],
- "last_run": "2026-11-20T16:20:52.697509+09:00",
+ "last_run": "2026-11-20T16:31:08.543244+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
