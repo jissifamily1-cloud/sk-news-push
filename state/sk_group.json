@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=768639",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268946",
-  "https://www.newsis.com/view/NISX20261119_0003874767",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366342",
-  "https://www.seoul.co.kr/news/society/2026/11/19/20261119500100?wlog_tag3=naver",
-  "http://www.inews24.com/view/2027994",
-  "https://www.pressian.com/pages/articles/2026111911134341811",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=320737",
-  "http://www.wsobi.com/news/articleView.html?idxno=322104",
   "http://www.yonhapnewstv.co.kr/news/MYH202611191113527IF",
   "https://www.hani.co.kr/arti/economy/marketing/1288092.html",
   "https://www.nocutnews.co.kr/news/6609355",
@@ -2999,18 +2990,18 @@
   "https://biz.sbs.co.kr/article_hub/20000347629?division=NAVER",
   "https://www.newsis.com/view/NISX20261120_0003876915",
   "https://www.pharmnews.com/news/articleView.html?idxno=308194",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506530"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506530",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=95013",
+  "https://www.sentv.co.kr/article/view/sentv202611200131",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506540",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445845",
+  "https://www.dt.co.kr/article/12096386",
+  "https://news.mtn.co.kr/article/2026112013314851250",
+  "https://news.dealsitetv.com/articles/178765",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719073",
+  "https://biz.heraldcorp.com/article/10944329"
  ],
  "seen_titles": [
-  "미·중·러첫3자회담에증시'촉각'…재건주혼조,방산·반도체약세",
-  "[특징주]국제유가3%급락에정유株'줄하락'",
-  "SKB,싱가포르와양자보안망연결…유럽까지실증확대",
-  "[2027증시전망]SK證\"코스피목표8,800P…AI생산성개선시1만피\"",
-  "[BK프리뷰]‘실책줄여야하는KT,배스막아야하는SK’두번째통...",
-  "[데스크칼럼]쿠팡의'정보유출',교훈은정부과징금",
-  "\"수험생잡아라\"…통신·외식·게임등판촉경쟁",
-  "수능날엔주가빠진다?…코스피5000선사수할까",
-  "[Invest]스페이스X땐3조빠져나갔는데…앤트로픽發수급쇼크우려",
   "SK이노,고효율수전해촉매개발…차세대항공유e-SAF경쟁력강화",
   "AI시대거버넌스해법찾는SK...\"이사회강화\"전·현직독립이사92명...",
   "SK텔레콤주가장중7%대내려,앤트로픽상장전차익실현매물출회",
@@ -6001,7 +5992,16 @@
   "AI못따라잡는정부…528개자격시험거를수있나?",
   "\"처벌받아도남는장사?\"…산업기술유출여전한데형량은'솜방망이'...",
   "디지털헬스학회추계학술대회,국가대표AI3팀헬스케어전략공개",
-  "반도체레버리지ETF무너졌다…국내장비·소재주파장은"
+  "반도체레버리지ETF무너졌다…국내장비·소재주파장은",
+  "[뉴욕증시마감]나스닥5%↓·엔비디아14%↓…S&P500·다우조정국면",
+  "AI안경에산업계보안비상…반도체·방산업계반입제한",
+  "엔비디아첨단칩중국차단…한미반도체·디아이반사이익기대",
+  "42%올랐던증시,결국수익률'마이너스'…코스피200동일가중음전",
+  "위기의삼전닉스,팔까살까…변동성클때는일단피하는게상책",
+  "[판으로읽는경제]중국선게임허가,멕시코선자동차관세…한국통...",
+  "[AI전력해결사원전]신규추진급한데…주민·환경·정치권이변수",
+  "어떻게‘수출1조달러’인데‘주가폭락’이오나",
+  "AI올라탄중국조선소,생산능력2배늘릴때K-조선은정작‘제자리..."
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,37 @@
   [
    "2026-11-21T08:01:34.357550+09:00",
    "소재주 국내 무너졌다 파장은 반도체 ETF 장비 레버리지"
+  ],
+  [
+   "2026-11-21T08:11:08.289685+09:00",
+   "엔비디아 차단 첨단칩 한미반도체 기대 중국 디아이 반사이익"
+  ],
+  [
+   "2026-11-21T08:11:08.289685+09:00",
+   "수익률 결국 동일가중 코스피200 음전 마이너스 올랐던 증시"
+  ],
+  [
+   "2026-11-21T08:11:08.289685+09:00",
+   "변동성 일단 피하는 상책 위기의 클때는 삼전닉스 살까 팔까"
+  ],
+  [
+   "2026-11-21T08:11:08.289685+09:00",
+   "한국 게임 허가 관세 멕시코선 자동차 중국선"
+  ],
+  [
+   "2026-11-21T08:11:08.289685+09:00",
+   "정치권이 신규 변수 환경 주민 급한데"
+  ],
+  [
+   "2026-11-21T08:11:08.289685+09:00",
+   "오나 폭락 인데 수출 달러 주가 1조 어떻게"
+  ],
+  [
+   "2026-11-21T08:11:08.289685+09:00",
+   "늘릴 정작 2배 조선소 생산능력 조선은 올라탄 중국 AI 제자리"
   ]
  ],
- "last_run": "2026-11-21T08:02:01.347523+09:00",
+ "last_run": "2026-11-21T08:11:29.414663+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
