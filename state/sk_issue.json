@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202611121712524922",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711164",
-  "https://www.sedaily.com/article/20113641",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=325744",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113701",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308024",
-  "https://www.mk.co.kr/article/12206625",
-  "https://www.sisaweek.com/news/articleView.html?idxno=238934",
-  "https://www.cstimes.com/news/articleView.html?idxno=727736",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601138314168",
   "https://www.news1.kr/local/busan-gyeongnam/6352400",
   "http://www.doctorstimes.com/news/articleView.html?idxno=241053",
   "https://www.kmib.co.kr/article/20261112501350",
@@ -2999,19 +2989,19 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68138",
   "https://biz.heraldcorp.com/article/10944224",
   "https://www.mediawatch.kr/news/article.html?no=261826",
-  "https://www.newspim.com/news/view/20261120000798"
+  "https://www.newspim.com/news/view/20261120000798",
+  "https://www.sedaily.com/article/20117006",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=425188",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2315057",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247744",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=45494",
+  "https://www.sisajournal.com/news/articleView.html?idxno=394686",
+  "https://www.hankookilbo.com/news/article/A2026112015030001813?did=NA",
+  "https://www.livebiz.today/news/articleView.html?idxno=206738",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=259418",
+  "https://www.ytn.co.kr/_ln/0103_202611201551314573"
  ],
  "seen_titles": [
-  "\"선관위,보안점수100점으로조작\"...'부당지시'진술확보",
-  "밀반입넘어국내서‘야바’직접생산…태국인일당검거",
-  "李대통령응원한1.6조과징금…국고채시장독될라[송종호의국정쏙쏙]",
-  "국고채담합과징금과도…금융권\"이제PD누가하나\"",
-  "NH투자증권,각자대표체제순항..첫분기서1등",
-  "호황끝났나···증권사3분기순익급감,미래에셋4056억적자",
-  "진에어·에어서울·에어부산…내년3월부터'진에어'통합",
-  "[기자수첩]벤츠코리아의선택적책임론…무엇이두렵나",
-  "'한진LCC3사'진에어·에어부산·에어서울합병인가…내년3월통합",
-  "진에어·에어부산·에어서울통합확정…내년3월'통합LCC'출범시동",
   "강기윤창원시장'선거구민에기부행위의혹'첫피의자조사",
   "\"기소송치율4.9%·미숙련인력80%···건보공단특사경도입즉각철...",
   "'김건희집사게이트'조영탁,대법서무죄·공소기각확정",
@@ -6001,7 +5991,17 @@
   "공정위점검비웃듯또'강매의혹'…투썸칼끝,칼라일김종윤대표향...",
   "사망이진우부검,범죄혐의점없다…계속되는경찰수사가능할까[세...",
   "경찰,한진칼663억자사주출연의혹정조준…조원태휴대전화확보",
-  "경찰,'663억자사주출연의혹'조원태한진그룹회장압수수색"
+  "경찰,'663억자사주출연의혹'조원태한진그룹회장압수수색",
+  "국산태양광위기인데…공정위담합조사에업계긴장",
+  "진에어·에어부산합병주총두달연기···바빠진통합LCC출범여정",
+  "'공정한하도급거래확산기여'충북건설사진보건설·가온선정",
+  "공정위,한화솔루션등'태양광패널담합'의혹조사",
+  "대신증권,증권업종투자의견'중립'하향…목표주가평균31.6%낮춰",
+  "미스터리로남은'리트만점'…'수상한고득점'누가검증하나",
+  "경찰,조원태한진그룹회장휴대폰확보…'경영권방어'자사주출연...",
+  "경찰,663억자사주경영권방어활용의혹조원태한진그룹회장휴대...",
+  "경찰,조원태한진회장휴대전화압수…한진칼자사주출연의혹수사",
+  "'리트만점'이진우사망...부정행위여부수사계속"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "두산 SK실트론 LG 동부"
   ]
  ],
- "last_run": "2026-11-20T15:50:59.928026+09:00",
+ "last_run": "2026-11-20T16:01:15.955421+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
