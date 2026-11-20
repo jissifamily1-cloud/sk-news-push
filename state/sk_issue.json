@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/distribution/6352359",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=902927",
-  "https://www.usmbc.co.kr/NewsArticle/873024",
-  "https://www.dailyt.co.kr/newsView/dlt202611120041",
   "https://www.ytn.co.kr/_ln/0103_202611121712524922",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711164",
   "https://www.sedaily.com/article/20113641",
@@ -2999,13 +2995,13 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=452523",
   "https://www.fnnews.com/news/202611201511454955",
   "http://www.yonhapnewstv.co.kr/news/MYH20261120153226n7b",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611200041085580104594"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611200041085580104594",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=68138",
+  "https://biz.heraldcorp.com/article/10944224",
+  "https://www.mediawatch.kr/news/article.html?no=261826",
+  "https://www.newspim.com/news/view/20261120000798"
  ],
  "seen_titles": [
-  "라이더84%\"수수료상한제도입땐소득감소\"…규제반대시위나서",
-  "증권사10곳에국고채담합과징금'1.4조'…줄소송번지나",
-  "부산중수청,중구선거관리위원회압수수색",
-  "HJ중공업,실적반등에몸집키우기…대주주사법리스크에수빅악몽...",
   "\"선관위,보안점수100점으로조작\"...'부당지시'진술확보",
   "밀반입넘어국내서‘야바’직접생산…태국인일당검거",
   "李대통령응원한1.6조과징금…국고채시장독될라[송종호의국정쏙쏙]",
@@ -6001,7 +5997,11 @@
   "공정위한화솔루션비롯한국내태양광기업현장조사착수,패널담합...",
   "경찰,'663억자사주배임의혹'한진그룹조원태휴대전화압수",
   "[뉴스초점]대학논술도커닝비상…'리트만점자'수사계속",
-  "[더벨][영상|아카이브읽어주는기자]동부→LG→SK→두산…SK실트론..."
+  "[더벨][영상|아카이브읽어주는기자]동부→LG→SK→두산…SK실트론...",
+  "공정위점검비웃듯또'강매의혹'…투썸칼끝,칼라일김종윤대표향...",
+  "사망이진우부검,범죄혐의점없다…계속되는경찰수사가능할까[세...",
+  "경찰,한진칼663억자사주출연의혹정조준…조원태휴대전화확보",
+  "경찰,'663억자사주출연의혹'조원태한진그룹회장압수수색"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "두산 SK실트론 LG 동부"
   ]
  ],
- "last_run": "2026-11-20T15:41:05.125847+09:00",
+ "last_run": "2026-11-20T15:50:59.928026+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
