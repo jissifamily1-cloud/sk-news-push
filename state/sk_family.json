@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=172028",
-  "https://www.newsis.com/view/NISI20261105_0021521048",
   "https://www.newsis.com/view/NISI20261105_0021521043",
   "https://www.newsis.com/view/NISI20261105_0021521049",
   "https://www.newsis.com/view/NISI20261105_0021521045",
@@ -2999,11 +2997,11 @@
   "https://www.mk.co.kr/article/12214859",
   "https://news.mtn.co.kr/article/2026112016470881863",
   "https://www.mk.co.kr/article/12214884",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008133"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008133",
+  "https://isplus.com/article/view/isp202611200140",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308113"
  ],
  "seen_titles": [
-  "서울대생들의질문에답하는최태원SK그룹회장",
-  "미래에셋,AI중심조직재편…디지털X대표에노용우부사장",
   "미래에셋그룹,조직개편·세대교체…AI전문가·40대리더전진배치",
   "미래에셋그룹,조직개편·임원인사실시...테크리더십강화",
   "미래에셋,‘AI·테크’세대교체인사…3.0시대전환가속",
@@ -6001,7 +5999,9 @@
   "물갈이대신안정택한재계…성과보상·오너장악력강화",
   "정상외교'슈퍼위크'…CPTPP만빠졌다['CPTPP'문밖의한국①]",
   "AI가삼킨‘생각의힘’깨운다…지성20인“생각의근육키워라”",
-  "쇼트트랙'자매'최민정·김길리,WT예선조1위통과"
+  "쇼트트랙'자매'최민정·김길리,WT예선조1위통과",
+  "‘라스트댄스’최민정,쇼트트랙월드투어3차첫날전종목조1위통...",
+  "앤트로픽상장에대박낸韓기업들···SKT·LG,선제투자빛났다"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,13 @@
   [
    "2026-11-20T17:40:14.850199+09:00",
    "보상 오너 대신 성과 강화 재계 택한 안정 장악력 물갈이"
+  ],
+  [
+   "2026-11-20T18:20:21.618894+09:00",
+   "투자 상장에 SKT 대박 LG 선제 기업들 앤트로픽 빛났다"
   ]
  ],
- "last_run": "2026-11-20T18:10:26.320310+09:00",
+ "last_run": "2026-11-20T18:20:32.076302+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
