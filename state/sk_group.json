@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Society/article/all/20261113/135021165/1",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525259",
-  "https://www.asiatime.co.kr/article/20261119500093",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=92254",
-  "https://www.edaily.co.kr/News/Read?newsId=02266486645647360&mediaCodeNo=257",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=140421",
   "https://www.delighti.co.kr/news/articleView.html?idxno=125211",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=194865",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=211646",
@@ -2999,15 +2993,15 @@
   "https://basketkorea.com/news/newsview.php?ncode=1065607651235302",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=54984",
   "https://econotimes.com/Anthropic-IPO-fails-to-lift-market-mood-as-tech-selloff-spreads-1780174",
-  "https://www.ytn.co.kr/_ln/0115_202611201920170897"
+  "https://www.ytn.co.kr/_ln/0115_202611201920170897",
+  "https://www.sportsworldi.com/newsView/20261120514616",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3758706",
+  "https://www.newsis.com/view/NISX20261120_0003877388",
+  "https://www.newsis.com/view/NISX20261120_0003877418",
+  "https://econotimes.com/SK-Hynix-Plans-About-14-1-Indirect-Kioxia-Stake-Through-Bond-Conversion-1780198",
+  "https://www.munhwa.com/article/11632948"
  ],
  "seen_titles": [
-  "SKB,한-싱가포르해저케이블에'양자보안'시험망구축",
-  "[단독]SK하이닉스·SKT등SK그룹핵심계열사,'AI변호사'하비로법무...",
-  "SK그룹현직·퇴임독립이사와전략논의,최태원\"이사회중심경영할...",
-  "SK브로드밴드,부산~싱가포르해저케이블에양자보안시험망구축",
-  "'SK에코플랜트시공'송도아파트발코니붕괴사고조사2개월연장…내...",
-  "SK,AI시대이사회역할논의...전·현직모여거버넌스점검",
   "최태원회장\"이사회,주주가치극대화관점에서독립판단해야\"",
   "최태원,AI시대이사회힘싣는다...SK거버넌스고도화",
   "SK그룹,이사회중심거버넌스고도화…디렉터스서밋·거버넌스데이...",
@@ -6001,17 +5995,15 @@
   "[KBL드래프트]‘드래프트재수성공’3R이주민·이건희부터4라운드...",
   "SKT,AI연말결산'시드볼트26'과'화이트보물트리'전시",
   "AnthropicIPOfailstoliftmarketmoodastechselloffspreads",
-  "신청사건립에원도심상생까지...여주경제지도가바뀐다"
+  "신청사건립에원도심상생까지...여주경제지도가바뀐다",
+  "고려대이동근,KBL신인드래프트1순위로KT행…지명률68.2%",
+  "이상일용인시장,원삼초실내체육관개관식참석축하",
+  "[현장]성수동깜짝방문한이부진,K-뷰티체험하고\"발림성좋다\"",
+  "[올댓차이나]홍콩증시,美반도체주약세에나흘째속락마감…H주1...",
+  "SKHynixPlansAbout14.1%IndirectKioxiaStakeThroughBondConversi",
+  "삼전·하닉도‘엄지척’…저스템,반도체습도제어‘JFS’세계일류상..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-20T13:40:57.922481+09:00",
-   "수전해 SAF 제조 SK이노베이션 촉매 기술 개발 확보"
-  ],
-  [
-   "2026-11-20T13:40:57.922481+09:00",
-   "온더바디 에스쁘아 앳홈 세븐일레븐 배달의민족"
-  ],
   [
    "2026-11-20T13:51:02.122493+09:00",
    "우진엔텍 비에이치아이 열쇠는 설비주 반등 원전 꺾인 기세 무엇"
@@ -6867,9 +6859,17 @@
   [
    "2026-11-20T19:28:32.492683+09:00",
    "신청사 경제지도가 여주 상생까지 건립에 바뀐다 원도심"
+  ],
+  [
+   "2026-11-20T19:41:10.765495+09:00",
+   "Kioxia Conversion Plans Stake About Indirect Through Hynix Bond"
+  ],
+  [
+   "2026-11-20T19:41:10.765495+09:00",
+   "삼전 하닉도 저스템 반도체 엄지척 습도제어 세계일류상 JFS"
   ]
  ],
- "last_run": "2026-11-20T19:31:26.670546+09:00",
+ "last_run": "2026-11-20T19:41:18.874737+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
