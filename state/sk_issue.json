@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/12/2026111290272.html",
-  "https://www.m-economynews.com/news/article.html?no=72734",
-  "https://www.g-enews.com/view.php?ud=2026110722183320540c8c1c064d_1",
   "https://www.munhwa.com/article/11629516",
   "http://www.ttlnews.com/news/articleView.html?idxno=3159525",
   "http://www.ttlnews.com/news/articleView.html?idxno=3159622",
@@ -2999,12 +2996,12 @@
   "https://www.seoul.co.kr/news/society/2026/11/20/20261120500325?wlog_tag3=naver",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=45506",
   "https://www.ytn.co.kr/_ln/0115_202611201824349025",
-  "https://www.ppss.kr/news/articleView.html?idxno=322187"
+  "https://www.ppss.kr/news/articleView.html?idxno=322187",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085979",
+  "https://www.dailian.co.kr/news/view/1717939/?sc=Naver",
+  "https://www.slist.kr/news/articleView.html?idxno=783520"
  ],
  "seen_titles": [
-  "[단독]'부실보안점검'숨기려사후에문서조작…특검,선관위압수수...",
-  "월가‘에너지전환펀드’,천연가스·빅테크전력망으로채워진다",
-  "월가'에너지전환펀드',천연가스·빅테크전력망으로가득찼다",
   "“겨울침구장만,지금이딱”…알레르망,11월30일까지최대60%할인...",
   "우리금융그룹임종룡회장,MSCI회장과기후변화·AI금융영향논의",
   "우리은행,한국형녹색채권발행우수기업선정…기후에너지환경부장...",
@@ -6001,7 +5998,10 @@
   "‘미란다원칙’고지안하고긴급체포,공소청구속취소…사법통제우...",
   "[지스타2026]게임속재미,현실의나눔으로…사회공헌방식도바꾼다",
   "'천안일본여성살해'30대남성구속기소",
-  "세번만난일본인여성살해한30대구속기소…주식투자실패에범행"
+  "세번만난일본인여성살해한30대구속기소…주식투자실패에범행",
+  "경찰,한진그룹조원태휴대전화압수…'663억자사주'배임수사",
+  "경찰,‘자사주출연’조원태한진그룹회장휴대전화압수",
+  "경찰,'자사주출연'조원태한진그룹회장휴대전화압수"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "규제 경쟁구도 완화 바뀌나 렌터카 캐피탈사 시장 렌탈"
   ]
  ],
- "last_run": "2026-11-20T18:31:15.714419+09:00",
+ "last_run": "2026-11-20T18:40:57.055852+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
