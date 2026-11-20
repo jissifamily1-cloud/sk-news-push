@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.delighti.co.kr/news/articleView.html?idxno=125211",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194865",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211646",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=903605",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=301859",
-  "https://news.tf.co.kr/read/entertain/2390768.htm",
   "https://www.fnnews.com/news/202611190935399711",
   "https://www.widedaily.com/news/articleView.html?idxno=304095",
   "https://www.hankyung.com/article/2026111965856",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20261120_0003877388",
   "https://www.newsis.com/view/NISX20261120_0003877418",
   "https://econotimes.com/SK-Hynix-Plans-About-14-1-Indirect-Kioxia-Stake-Through-Bond-Conversion-1780198",
-  "https://www.munhwa.com/article/11632948"
+  "https://www.munhwa.com/article/11632948",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16281728",
+  "https://www.kbsm.net/news/view.php?idx=542647",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495306",
+  "https://www.newstopkorea.com/ko-kr/articles/49220",
+  "https://www.fnnews.com/news/202611201659530297",
+  "https://www.goal.com/kr/뉴스/a/blt3444d44a11de78b6"
  ],
  "seen_titles": [
-  "최태원회장\"이사회,주주가치극대화관점에서독립판단해야\"",
-  "최태원,AI시대이사회힘싣는다...SK거버넌스고도화",
-  "SK그룹,이사회중심거버넌스고도화…디렉터스서밋·거버넌스데이...",
-  "용인반도체산단분상제아파트'용인반도체클러스터라온프라이빗파...",
-  "해시드,AI가송금하고결제하는시대연다…개발자50명모여실전서비...",
-  "안성시김보라시장,반도체산업성장대응신도시조성·사회주택공...",
   "이화여대,캠퍼스특허유니버시아드서대상영예",
   "전세계118개국선판매화제작‘실낙원’,안방극장찾는다",
   "청년제안,어떻게정책이되나…JDC‘영리더스포럼’다음달제주서...",
@@ -6001,25 +5995,15 @@
   "[현장]성수동깜짝방문한이부진,K-뷰티체험하고\"발림성좋다\"",
   "[올댓차이나]홍콩증시,美반도체주약세에나흘째속락마감…H주1...",
   "SKHynixPlansAbout14.1%IndirectKioxiaStakeThroughBondConversi",
-  "삼전·하닉도‘엄지척’…저스템,반도체습도제어‘JFS’세계일류상..."
+  "삼전·하닉도‘엄지척’…저스템,반도체습도제어‘JFS’세계일류상...",
+  "SK하이닉스·삼성전자공매도급증…반도체3종목34%",
+  "코스피5.21%급락…4800선으로후퇴",
+  "홍순철청주시의원,'반도체클러스터청주유치건의안'대표발의",
+  "와이씨켐,포토소재가바꾼실적체질…외형성장에수익성도개선",
+  "앤트로픽은17%뛰었는데…AI주는'울상'왜",
+  "'아시아무대'노리는인천,36라운드울산과홈경기학생·수험생50%..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-20T13:51:02.122493+09:00",
-   "우진엔텍 비에이치아이 열쇠는 설비주 반등 원전 꺾인 기세 무엇"
-  ],
-  [
-   "2026-11-20T13:51:02.122493+09:00",
-   "생존 엇갈린 증권엔 보험엔 베팅 자본 성장"
-  ],
-  [
-   "2026-11-20T13:51:02.122493+09:00",
-   "무디스 AI 내년에도 견인 수출이 훈풍 기술 성장"
-  ],
-  [
-   "2026-11-20T13:51:02.122493+09:00",
-   "열기 와르르 개미 물타기 주식 눈물의 겁난다 계좌 증시"
-  ],
   [
    "2026-11-20T14:01:18.289866+09:00",
    "복합장비 아이에스티이 애리조나에 공급 앰코"
@@ -6867,9 +6851,17 @@
   [
    "2026-11-20T19:41:10.765495+09:00",
    "삼전 하닉도 저스템 반도체 엄지척 습도제어 세계일류상 JFS"
+  ],
+  [
+   "2026-11-20T19:51:13.407522+09:00",
+   "뛰었는데 울상 AI주는 앤트로픽은"
+  ],
+  [
+   "2026-11-20T19:51:13.407522+09:00",
+   "인천 수험생 경기 노리는 울산과 학생 무대 36라운드 아시아"
   ]
  ],
- "last_run": "2026-11-20T19:41:18.874737+09:00",
+ "last_run": "2026-11-20T19:51:21.920109+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
