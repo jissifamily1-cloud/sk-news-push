@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101563",
-  "https://www.ajunews.com/view/20261119093550189",
-  "https://www.ekn.kr/web/view.php?key=20261119028291859",
-  "https://www.jemin.com/news/articleView.html?idxno=847677",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950066.html",
-  "https://www.joongangenews.com/news/articleView.html?idxno=565052",
   "https://zdnet.co.kr/view/?no=20261119100818",
   "https://www.jasm.co.kr/news/view/325785/?sc=Naver",
   "https://www.mt.co.kr/tech/2026/11/19/2026111910024754364",
@@ -2999,15 +2993,15 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16281730",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1544518",
   "http://www.rookie.co.kr/news/articleView.html?idxno=130798",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856378&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856378&plink=ORI&cooper=NAVER",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553719505",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261120203400q3V",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1544511",
+  "https://news.jtbc.co.kr/article/NB12329084?influxDiv=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6867371_37004.html",
+  "https://www.munhwa.com/article/11632951"
  ],
  "seen_titles": [
-  "SK브로드밴드,부산~싱가포르해저케이블에양자보안망구축",
-  "SK쉴더스ADT캡스,수험생특별호송서비스실시",
-  "한중FTA타결후급등한엔터주…SK證\"중국재개방최선호주는에스엠...",
-  "SK그룹,이사회중심거버넌스고도화…현직·퇴임독립이사와거버넌...",
-  "SK,AI시대이사회역할강화…거버넌스고도화속도",
-  "한화에어로·현대로템,유럽재무장도남의잔치되나..현지화장벽돌...",
   "[서울을걷다]\"재개발갈등줄이고주민삶바꾸는정치\"노성철서울시...",
   "대기업해외법인70%APEC에…美171곳늘고中1곳줄어",
   "충북도,네덜란드공략…반도체기업세일즈",
@@ -6001,25 +5995,15 @@
   "코스피왜5%나폭락했나…미국보다더빠진이유",
   "제6회인천아트쇼22일까지열려…기업-작가'상생의장'",
   "[26DRAFT]\"공주님들신나고재밌는농구보여드릴게요\"SK로향하는동...",
-  "'검은금요일'삼전닉스급락…잇단손실에\"대응못해\""
+  "'검은금요일'삼전닉스급락…잇단손실에\"대응못해\"",
+  "\"주승진,박태하,김기동감독님세분께감사\"...K리그통산100경기홍...",
+  "[이시각헤드라인]11월20일뉴스리뷰",
+  "AI대어상장에도…나스닥·코스피동반급락",
+  "앤트로픽축포터졌는데,증시'뚝'AI투자'물음표'",
+  "앤트로픽143조돈잔치열렸는데세계증시폭락‥AI거품공포확산?",
+  "“공매도좀어떻에안돼?”이달16조쏟아낸외인"
  ],
  "recent_sigs": [
-  [
-   "2026-11-20T14:40:58.534544+09:00",
-   "곳간 날았지만 확보 사활 유동성 수주 동부건설 빡빡"
-  ],
-  [
-   "2026-11-20T14:40:58.534544+09:00",
-   "삼전 D램 시장의 닉스에 근접 KB증권 정점에 비관은 내년 더욱"
-  ],
-  [
-   "2026-11-20T14:40:58.534544+09:00",
-   "자라는 하나의 연습할수록 나이츠 위례점 U9 임하윤의 성장"
-  ],
-  [
-   "2026-11-20T14:40:58.534544+09:00",
-   ""
-  ],
   [
    "2026-11-20T14:50:57.783473+09:00",
    "냉랭한 앤트로픽도 삼전닉스 떨어지는 무섭게 투심에 무용지물"
@@ -6795,9 +6779,13 @@
   [
    "2026-11-20T20:31:14.638209+09:00",
    "검은 금요일 삼전닉스 급락 잇단 손실에 대응"
+  ],
+  [
+   "2026-11-20T20:41:09.314615+09:00",
+   "쏟아낸 16조 외인 공매도 이달 안돼 어떻에"
   ]
  ],
- "last_run": "2026-11-20T20:31:22.704742+09:00",
+ "last_run": "2026-11-20T20:41:15.570707+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
