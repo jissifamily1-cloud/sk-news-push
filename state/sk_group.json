@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1426895",
-  "https://biz.heraldcorp.com/article/10942638",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1024472",
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91881",
-  "http://www.newskr.kr/news/articleView.html?idxno=108137",
-  "https://www.newsq.co.kr/news/articleView.html?idxno=500963",
-  "https://biz.heraldcorp.com/article/10942623",
   "https://www.banronbodo.com/news/articleView.html?idxno=33400",
   "https://www.yna.co.kr/view/PYH20261119051700003?input=1196m",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=281680",
@@ -2999,16 +2992,16 @@
   "https://sports.hankooki.com/news/articleView.html?idxno=6943987",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=731802",
   "https://biz.sbs.co.kr/article_hub/20000347963?division=NAVER",
-  "https://www.newsis.com/view/NISX20261121_0003877548"
+  "https://www.newsis.com/view/NISX20261121_0003877548",
+  "https://www.tokenpost.kr/news/breaking/441968",
+  "http://www.yonhapnewstv.co.kr/news/MYH202611211037411eJ",
+  "https://www.sedaily.com/article/20117203",
+  "https://www.sedaily.com/article/20117201",
+  "https://www.sedaily.com/article/20117199",
+  "https://www.youthdaily.co.kr/news/article.html?no=230169",
+  "https://news.bizwatch.co.kr/article/healthcare/2026/11/18/0030"
  ],
  "seen_titles": [
-  "SK브로드밴드,해저케이블에양자보안입힌다…부산서싱가포르까지",
-  "SK브로드밴드,부산~싱가포르해저케이블에‘양자보안’시험망구축",
-  "CXMTRevenueJumps613%Year-on-YearasDRAMShortageSettoPersistTh",
-  "\"27년째수능아침지켰다\"…ADT캡스,수험생긴급이동지원",
-  "천안시,지역5개대학과'취업멘토링페스타'개최",
-  "KospifallsafterreversingearlygainsaheadofAnthropicIPO",
-  "SeoulsharesturnlowerlateThu.morningontechlosses",
   "피해자없는사고에영업이익만큼과징금…쿠팡1년,잣대는공정했나",
   "DB운용,'싱가포르플러턴운용대표펀드에재간접투자'펀드출시",
   "완연한크레디트강세…AA-여전채인기몰이에시장낭설도",
@@ -6001,7 +5994,14 @@
   "'AG금메달·대학MVP'이동근,이변없이KBL신인1순위로수원KT행",
   "영풍,완전자회사YPC로부터배당미수령…금융자산만매각",
   "AI잔치에찬물끼얹은뉴욕증시…앤트로픽·엔비디아동반급락",
-  "\"코스피4800선무너지면4300까지?\"…추가하락경고"
+  "\"코스피4800선무너지면4300까지?\"…추가하락경고",
+  "키옥시아14.1%간접보유예정…SK하이닉스취득예정일12월4일",
+  "중고차경매진출활기…대기업들경쟁",
+  "씨티“韓가계주식평가손실563조”…소비위축우려",
+  "美반도체수출규제전면확대…삼성,中AI칩출하중단",
+  "삼전닉스30%대추락…‘불장’끝난코스피에개미563조손실",
+  "트럼프\"中엔구형칩만판매\"…美,반도체수출'상한선'지키고우회로...",
+  "'항체에서펩타이드로'…같은CDMO라도주력다르다"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,33 @@
   [
    "2026-11-21T10:31:07.466547+09:00",
    "추가 4800선 4300까지 무너지면 코스피 경고 하락"
+  ],
+  [
+   "2026-11-21T10:41:03.602564+09:00",
+   "대기업들 경매 진출 활기 경쟁 중고차"
+  ],
+  [
+   "2026-11-21T10:41:03.602564+09:00",
+   "563조 가계 씨티 위축 소비 우려 주식 평가손실"
+  ],
+  [
+   "2026-11-21T10:41:03.602564+09:00",
+   "반도체 확대 수출규제 AI칩 전면 중단 출하 삼성"
+  ],
+  [
+   "2026-11-21T10:41:03.602564+09:00",
+   "불장 코스피에 손실 끝난 개미 삼전닉스 563조 추락"
+  ],
+  [
+   "2026-11-21T10:41:03.602564+09:00",
+   "반도체 판매 트럼프 칩만 상한선 수출 우회로 지키고 구형"
+  ],
+  [
+   "2026-11-21T10:41:03.602564+09:00",
+   "같은 다르다 주력 항체에서 펩타이드로 CDMO라도"
   ]
  ],
- "last_run": "2026-11-21T10:31:13.879163+09:00",
+ "last_run": "2026-11-21T10:41:22.596027+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
