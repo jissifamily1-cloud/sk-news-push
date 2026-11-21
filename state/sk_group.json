@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1650925",
-  "https://biz.sbs.co.kr/article_hub/20000347584?division=NAVER",
-  "https://www.ajunews.com/view/20261119151542386",
-  "https://www.newsway.co.kr/news/view?ud=2026111914541359909",
   "https://view.asiae.co.kr/article/2026111915351419692",
   "https://www.newsis.com/view/NISX20261119_0003875267",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=46446",
@@ -2999,13 +2995,13 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=302342",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1544562",
   "https://www.hankookilbo.com/news/article/A2026112119210002604?did=NA",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=629331"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=629331",
+  "http://www.osen.co.kr/article/G1112913464",
+  "https://www.tokenpost.kr/news/insights/442194",
+  "https://biz.chosun.com/policy/politics/president_office/2026/11/21/N5WT7BPVMNE57BUJNFUSEIRE2I/",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6867506_37004.html"
  ],
  "seen_titles": [
-  "삼성·틱톡현직자만난천안청년들.지역5개대학'취업멘토링페스...",
-  "남기천우리투자증권대표연임시험대…'종투사도약'분수령",
-  "[IPO]솔리스\"내년창립이래최대매출\"…美반도체·이차전지동시공...",
-  "[수출1조달러시대]SK하이닉스\"수출1조달러,소부장기술력·연대의...",
   "남에겐기업설명회(IR)외치던증권사들,정작본인은'나몰라라'",
   "이상일용인시장,총리에'반도체배후신도시'추가건의…40만인구유...",
   "대기업집단국내계열사매출액35%계열사간내부거래",
@@ -6001,17 +5997,13 @@
   "AWS이어엔비디아·오픈AI까지손잡나…SK,신설법인앞세워GW급AI공...",
   "이대통령\"5천500억환수가배임죄?\"…야\"억울하면재판받아야\"",
   "李,울산전통시장2곳'깜짝방문'…\"내년에는좀더좋아질것\"",
-  "[뉴욕증시마감]엔비디아14%폭락하며시총4위추락…나스닥5.3%급락..."
+  "[뉴욕증시마감]엔비디아14%폭락하며시총4위추락…나스닥5.3%급락...",
+  "[오피셜]한시대의작별…T1,‘쓰리핏'주역'꼬마-톰-마타'동행마...",
+  "[알파분석]AI열풍에균열…앤트로픽급락뒤에숨은돈의문제",
+  "울산전통시장찾은李“내년엔더좋아질것”",
+  "해외데이터센터\"세금폭탄\"‥韓투자도흔들?"
  ],
  "recent_sigs": [
-  [
-   "2026-11-21T14:21:15.840775+09:00",
-   "열쇠는 주목한 매입 49조원 자사주 변화 마이크론 가지 반등 월가가"
-  ],
-  [
-   "2026-11-21T14:21:15.840775+09:00",
-   "TSMC 쏠리는 동반 브로드컴 마이크론 삼성전자 급락 SK하이닉스에"
-  ],
   [
    "2026-11-21T14:31:22.016887+09:00",
    "다시 최태원 시험 방식부터 설계해야 학위 AI 시대 운영 대학"
@@ -6279,9 +6271,13 @@
   [
    "2026-11-21T20:21:06.035866+09:00",
    "엔비디아 4위 급락 시총 추락 나스닥 폭락하며"
+  ],
+  [
+   "2026-11-21T20:31:12.192886+09:00",
+   "세금 데이터센터 투자도 해외 흔들 폭탄"
   ]
  ],
- "last_run": "2026-11-21T20:21:11.640952+09:00",
+ "last_run": "2026-11-21T20:31:18.172221+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
