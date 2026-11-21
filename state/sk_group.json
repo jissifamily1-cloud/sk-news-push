@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=45458",
-  "https://biz.chosun.com/stock/finance/2026/11/19/7JRQCY5BBJEURAAZT7LTWOE7N4/",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89297",
-  "https://www.newspim.com/news/view/20261119000823",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717342",
-  "https://www.m-i.kr/news/articleView.html?idxno=2020801",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191427018140809",
-  "https://www.g-enews.com/view.php?ud=202611191400284366139bf6e4b2_1",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191452167340820",
-  "https://sateconomy.co.kr/news/view/1065592513113495",
   "https://www.etoday.co.kr/news/view/2650423",
   "https://www.ddaily.co.kr/page/view/2026111914474138708",
   "https://www.etoday.co.kr/news/view/2650421",
@@ -2999,17 +2989,19 @@
   "https://www.sedaily.com/article/20117247",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561033",
   "https://www.koreaherald.com/article/10944729",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=312371"
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=312371",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6943910",
+  "https://www.news1.kr/sports/soccer/6361661",
+  "https://www.etnews.com/20261121000049",
+  "https://www.etnews.com/20261121000047",
+  "https://www.etnews.com/20261121000048",
+  "https://www.etnews.com/20261121000050",
+  "https://view.asiae.co.kr/article/2026112116595733802",
+  "https://www.hankyung.com/article/202611211456i",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885757",
+  "https://www.ddaily.co.kr/page/view/2026112109040556449"
  ],
  "seen_titles": [
-  "사익편취규제대상기업내부거래92%가수의계약",
-  "(NewsFocus)S.KoreabreaksUS$1tlnexportbarrieronAIchipboom,but",
-  "\"11월임상재개·12월4일AES…SK바이오팜'오파칼림'반전시나리오\"",
-  "양승조수자원공사사장,취임첫행보'용인반도체클러스터'방문",
-  "\"시청률이시대반영못해\"…\"정부주도新시청데이터집계방식개발...",
-  "[경제포커스]수출80%가중간재…“美·中경제상황에영향크게받...",
-  "내년에도수출호황가능할까…“반도체가격·AI투자에달렸다”",
-  "[더벨][운용사K-베어허그진단]의견표명6배껑충…거래구조는'우호...",
   "[제약·바이오트렌드]쎌바이오텍‘듀오락얌얌팝핑유산균’,출시...",
   "세종,ALB한국법률대상6개부문수상",
   "코스피·코스닥상장사3분기매출액·영업익·순익↑",
@@ -6001,7 +5993,15 @@
   "최태원“AI시대대학,기존교육시스템무시하고새로짜야”",
   "“손정의,한때SK하이닉스1조달러인수검토”",
   "Samsung,SKhynixtumbleasanalystssplitonchipoutlook",
-  "역대급IPO의역설…앤트로픽상장후'AI고점론'왜커졌나"
+  "역대급IPO의역설…앤트로픽상장후'AI고점론'왜커졌나",
+  "대형건설사들,협력사들과상생통해동반성장도모",
+  "'명가부활'수원삼성,3년만에K리그1복귀이어2부우승까지",
+  "[포토]이재명대통령,AI데이터센터건설현장방문",
+  "[포토]AI데이터센터건설현장찾은이재명대통령",
+  "최태원“AI시대대학교육새로짜야”…한일산학협력제안",
+  "최태원\"韓日기업·대학,AI전문인재함께육성하자\"",
+  "ADT캡스,AI홈보안기술력인정…캡스홈올해3관왕",
+  "“5000선붕괴가끝아니다?”…반도체꺾이자코스피4000선도위태[증..."
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,17 @@
   [
    "2026-11-21T16:51:07.614157+09:00",
    "IPO의 AI 상장 고점론 앤트로픽 커졌나 역설 역대급"
+  ],
+  [
+   "2026-11-21T17:01:16.909429+09:00",
+   "ADT캡스 기술력 올해 홈보안 인정 캡스홈 3관왕 AI"
+  ],
+  [
+   "2026-11-21T17:01:16.909429+09:00",
+   "4000선도 코스피 위태 붕괴가 꺾이자 아니다 반도체 5000선"
   ]
  ],
- "last_run": "2026-11-21T16:51:16.089362+09:00",
+ "last_run": "2026-11-21T17:01:25.127687+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
