@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02686326645647360&mediaCodeNo=257",
-  "https://www.dailian.co.kr/news/view/1717150/?sc=Naver",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1194189",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=310499",
-  "https://www.ppss.kr/news/articleView.html?idxno=321815",
   "http://www.seouleconews.com/news/articleView.html?idxno=95121",
   "https://www.updownnews.co.kr/news/articleView.html?idxno=319647",
   "https://biz.heraldcorp.com/article/10942547",
@@ -2999,14 +2994,14 @@
   "https://www.bloter.net/news/articleView.html?idxno=679235",
   "http://coinreaders.com/272174",
   "http://www.srtimes.kr/news/articleView.html?idxno=218238",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=425187"
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=425187",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445850",
+  "http://www.inews24.com/view/2028766",
+  "https://www.thepublic.kr/news/articleView.html?idxno=327792",
+  "https://www.thepublic.kr/news/articleView.html?idxno=327727",
+  "https://www.fnnews.com/news/202611202058393420"
  ],
  "seen_titles": [
-  "SK,이사회중심경영성과점검…최태원“거버넌스한단계높일것”",
-  "수능날1시간늦춘코스피,또5천선무너져…엔비디아호실적도역부족",
-  "기업은행,'IBK창공FlyHigh데모데이'성료…IBK창공육성기업성과발...",
-  "“국평보다59㎡”…서울청약신청80%‘작은집’",
-  "HBM4PricesSeenRisingUpto2.7-FoldNextYearasDRAMSupplyTightens",
   "SOOPTV,ktHCN신규입점…스포츠콘텐츠시청접점확대",
   "[특징주]앤스로픽상장앞두고SK텔레콤6%대'급락'",
   "IMF“한국3분기실적기대이상”…‘2%대상회’고물가에“추가긴...",
@@ -6001,7 +5996,12 @@
   "삼성전자·SK하이닉스,안전·환경경영강화…대규모증설속고도화집...",
   "나스닥올해상승분날아갔다…반도체지수‘-10.73%’",
   "[주간브리핑]코스피5000선붕괴…KDB생명7번째매각불발",
-  "알뜰폰규제법잇단발의···통신3사자회사겨냥"
+  "알뜰폰규제법잇단발의···통신3사자회사겨냥",
+  "[뉴욕마켓워치]나스닥,코로나이후최악의한주…증시패닉속채권↑...",
+  "삼성전자,메타독주'AI안경'시장에도전…다음달첫제품출시",
+  "삼성SDI-SK온,2조원ESS입찰'재격돌'…가격경쟁력이승부가른다",
+  "'올해의추억'을키링에…SKT,성수서체험전시'시드볼트26'운영",
+  "'폭락했으니물타기할타이밍?',고수와하수는여기서갈린다[인치범의..."
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,21 @@
   [
    "2026-11-21T09:01:21.068180+09:00",
    "자회사 겨냥 발의 잇단 통신3사 알뜰폰 규제법"
+  ],
+  [
+   "2026-11-21T09:11:04.243241+09:00",
+   "SK온 가른다 2조원 경쟁력이 승부 가격 삼성SDI ESS 입찰 재격돌"
+  ],
+  [
+   "2026-11-21T09:11:04.243241+09:00",
+   "SKT 체험 운영 시드볼트 전시 성수서 추억 올해의 키링에"
+  ],
+  [
+   "2026-11-21T09:11:04.243241+09:00",
+   "인치범의 갈린다 고수와 폭락했으니 여기서 타이밍 하수는 물타기할"
   ]
  ],
- "last_run": "2026-11-21T09:01:27.111605+09:00",
+ "last_run": "2026-11-21T09:11:15.211070+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
