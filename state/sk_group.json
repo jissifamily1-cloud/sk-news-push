@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.widedaily.com/news/articleView.html?idxno=304155",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51391",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394623",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1313619",
-  "http://www.newsprime.co.kr/news/article.html?no=755676",
-  "https://www.m-economynews.com/news/article.html?no=73304",
-  "https://www.livebiz.today/news/articleView.html?idxno=206681",
-  "https://www.hankyung.com/article/202611196290g",
-  "https://www.hankookilbo.com/news/article/A2026111812240004885?did=NA",
   "https://www.asiatime.co.kr/article/20261119500323",
   "https://www.news2day.co.kr/article/20261119500168",
   "https://www.businesspost.co.kr/BP?command=article_view&num=452396",
@@ -2999,18 +2990,18 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/11/21/2026112150053.html",
   "https://www.yna.co.kr/view/AKR20261121033751001?input=1195m",
   "https://www.hankyung.com/article/2026112003516",
-  "https://www.pennmike.com/news/articleView.html?idxno=132435"
+  "https://www.pennmike.com/news/articleView.html?idxno=132435",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101738",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321314&inflow=N",
+  "https://www.nocutnews.co.kr/news/6610525",
+  "http://www.yonhapnewstv.co.kr/news/MYH202611211513582w9",
+  "https://www.segye.com/newsView/20261121504658?OutUrl=naver",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885786",
+  "https://www.mt.co.kr/industry/2026/11/21/2026112115051047649",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210023&t=NN",
+  "https://view.asiae.co.kr/article/2026112115060930556"
  ],
  "seen_titles": [
-  "SK하이닉스115만9000원,1.31%상승…HBM4주류전환예고",
-  "[초점]AI·해외직구시대'제품안전'새기준찾는다…사후관리서사전...",
-  "최태원SK회장,퇴임이사찾은이유…\"지배구조한단계격상\"",
-  "대방건설,내부거래2년연속'최다'...쿠팡3조원늘어금액'5순위'",
-  "지난해10대그룹내부거래185조원.공정위\"내부거래경쟁저해우려\"",
-  "10대그룹작년내부거래액185조...전체대기업의66.7%",
-  "한국수자원공사,SK하이닉스만나반도체용수공급머리맞대...수상태...",
-  "앤트로픽공모가83달러확정…역대최대IPO로나스닥데뷔",
-  "호남반도체들어서는광산구,청주서지역경제성장해법모색",
   "공시대상소속회사매출35%내부거래서발생…841조원달해",
   "\"균열에도계속주입\"낙동1터널,허용치20배압력에붕괴",
   "천안시,지역5개대학과‘취업멘토링페스타’개최",
@@ -6001,7 +5992,16 @@
   "韓'블랙먼데이'확실시…예탁금80조·코스피신용20조방어선'붕...",
   "李대통령\"AI데이터센터·메모리수요더늘것…속도가생명\"(종합)",
   "한한령해제기대에K콘텐츠주'들썩'…분산투자전략은[이수의ETF줌...",
-  "[막전막후]증시와함께소멸된'뉴이재명동력'과퇴행의유혹"
+  "[막전막후]증시와함께소멸된'뉴이재명동력'과퇴행의유혹",
+  "이대통령\"AI경쟁은속도전\"…울산데이터센터찾아지방메가프로젝...",
+  "'울산AI데이터센터'깜짝방문…이대통령\"속도가생명\"",
+  "李대통령,울산AI데이터센터현장찾아\"新성장모멘텀될것\"",
+  "이대통령\"울산AI센터,글로벌투자마중물기대\"",
+  "“소프트뱅크손정의,SK하이닉스1조달러인수검토했다”",
+  "李,울산SK데이터센터찾아…\"AI고속도로가대전환이끌것\"",
+  "\"소프트뱅크손정의,한때SK하이닉스1조달러인수구상했다\"",
+  "\"SK하이닉스,우리가산다\"...손정의,'1조달러'인수한때검토",
+  "나경원\"주가반토막,결혼·은퇴자금사라져…李정부책임져야\""
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,13 @@
   [
    "2026-11-21T15:11:11.512579+09:00",
    "소멸된 함께 유혹 뉴이재명 동력 퇴행의 증시와"
+  ],
+  [
+   "2026-11-21T15:21:01.965324+09:00",
+   "은퇴자금 반토막 사라져 결혼 정부 책임져야 주가 나경원"
   ]
  ],
- "last_run": "2026-11-21T15:11:25.080224+09:00",
+ "last_run": "2026-11-21T15:21:08.584584+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
