@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261119_0003874804",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50710",
-  "https://www.edaily.co.kr/News/Read?newsId=02689606645647360&mediaCodeNo=257",
-  "http://www.newsprime.co.kr/news/article.html?no=755637",
-  "https://www.news1.kr/finance/general-stock/6359281",
   "https://www.edaily.co.kr/News/Read?newsId=02686326645647360&mediaCodeNo=257",
   "https://www.dailian.co.kr/news/view/1717150/?sc=Naver",
   "https://www.ggilbo.com/news/articleView.html?idxno=1194189",
@@ -2999,14 +2994,14 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=643535",
   "https://www.sentv.co.kr/article/view/sentv202611210002",
   "https://www.tokenpost.kr/news/insights/441887",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150010.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150010.html",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=302334",
+  "https://www.bloter.net/news/articleView.html?idxno=679235",
+  "http://coinreaders.com/272174",
+  "http://www.srtimes.kr/news/articleView.html?idxno=218238",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=425187"
  ],
  "seen_titles": [
-  "송도럭스오션SK뷰붕괴사고사조위,조사기간내년1월20일까지연장",
-  "[속보]美빅스텝우려에코스피장중5천선또무너졌다",
-  "한한령해제기대에엔터·여행주급등...CJENM28%·에스엠11%↑",
-  "SK그룹·SK브로드밴드,이사회중심거버넌스고도화·한국-싱가포르해...",
-  "코스피,상승출발후하락전환…5,000선부근등락",
   "SK,이사회중심경영성과점검…최태원“거버넌스한단계높일것”",
   "수능날1시간늦춘코스피,또5천선무너져…엔비디아호실적도역부족",
   "기업은행,'IBK창공FlyHigh데모데이'성료…IBK창공육성기업성과발...",
@@ -6001,7 +5996,12 @@
   "[뉴욕증시]앤트로픽의역설?'패닉',나스닥5%↓·필리11%↓···AI테...",
   "고려아연배당YPC로넘어갔는데…영풍,금융자산팔아현금확보",
   "[온체인주식선물]SK하이닉스,정규장종가보다8.13%할인",
-  "'검은금요일',李는SNS에대장동사건억울함표했다…특검가이드라..."
+  "'검은금요일',李는SNS에대장동사건억울함표했다…특검가이드라...",
+  "AI지출4조달러시대…'멤플레이션'올라탄삼전닉스독주",
+  "삼성전자·SK하이닉스,안전·환경경영강화…대규모증설속고도화집...",
+  "나스닥올해상승분날아갔다…반도체지수‘-10.73%’",
+  "[주간브리핑]코스피5000선붕괴…KDB생명7번째매각불발",
+  "알뜰폰규제법잇단발의···통신3사자회사겨냥"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,13 @@
   [
    "2026-11-21T08:41:03.851091+09:00",
    "종가보다 정규장 할인 SK하이닉스"
+  ],
+  [
+   "2026-11-21T09:01:21.068180+09:00",
+   "자회사 겨냥 발의 잇단 통신3사 알뜰폰 규제법"
   ]
  ],
- "last_run": "2026-11-21T08:51:09.674720+09:00",
+ "last_run": "2026-11-21T09:01:27.111605+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
