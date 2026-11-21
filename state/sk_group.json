@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2650300",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452364",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3756969",
-  "https://www.viva100.com/article/20261119500424",
-  "https://www.munhwa.com/article/11632533",
-  "https://www.jemin.com/news/articleView.html?idxno=847710",
-  "http://www.inews24.com/view/2028083",
   "https://it.chosun.com/news/articleView.html?idxno=3000000001369",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2314849",
   "http://www.yonhapnewstv.co.kr/news/AKR20261119082322aYp",
@@ -2999,16 +2992,16 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=565596",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963836",
   "http://www.newsprime.co.kr/news/article.html?no=755930",
-  "https://www.ajunews.com/view/20261121104005932"
+  "https://www.ajunews.com/view/20261121104005932",
+  "https://www.hankyung.com/article/202611168239O",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856835&plink=ORI&cooper=NAVER",
+  "https://www.joongangenews.com/news/articleView.html?idxno=565603",
+  "https://www.joongangenews.com/news/articleView.html?idxno=565599",
+  "https://economist.co.kr/article/view/ecn202611210004",
+  "https://economist.co.kr/article/view/ecn202611170057",
+  "https://www.besteleven.com/news/articleView.html?idxno=314204"
  ],
  "seen_titles": [
-  "전남광주광산구,반도체선진도시청주서지역경제성장해법모색",
-  "[통신브리핑]SK텔레콤·KT·SK브로드밴드·LG유플러스",
-  "코스피5000선위협…반도체·이차전지줄하락",
-  "앤트로픽상장임박,韓반도체영향은?[뉴스큐]",
-  "4분기실적기대감‘뚝’…상장사67%영업익전망하향조정",
-  "한국광고주협회,MBC초청간담회개최…\"기업과MBC도더큰성과를위...",
-  "SK디렉터스서밋2026",
   "Two-ThirdsofKoreanListedFirmsFaceQ4EarningsDowngrades;Chipma",
   "최태원,2년만에한은行…신현송총재와첫대담",
   "울산은인천,대전은강원과격돌…K리그12위경쟁본격화",
@@ -6001,7 +5994,14 @@
   "고려아연배당금YPC에쌓이는데...영풍은금융자산팔아현금확보",
   "나스닥,기술주매도에5.3%폭락…연간상승분모두반납",
   "[해외시황]뉴욕증시,AI투자우려·반도체株급락에'하락'…나스닥5...",
-  "[선전APEC특별결산2|인문자의시진핑APEC외교이야기|인간·문화..."
+  "[선전APEC특별결산2|인문자의시진핑APEC외교이야기|인간·문화...",
+  "JDC,'제6회영리더스포럼,제주'개최…청년진로·국제교류방안논의",
+  "필라델피아10%↓·엔비디아14%↓…뉴욕증시도'검은금요일'",
+  "11월3주차SK스퀘어주가주중상승분반납하락마감",
+  "11월3주차SK텔레콤주가큰폭하락6만원대로",
+  "'7만전자·20만닉스'여기서더떨어진다?…증권가전망은",
+  "'방패는주고남용은막는'미국식경영권방어…한국은?",
+  "이적시장앞두고다시등장한오시멘!…맨유이적설'긍정적'→포체티..."
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,21 @@
   [
    "2026-11-21T11:01:27.032811+09:00",
    "특별결산 이야기 인간 문화 APEC 인문자의 외교 시진핑 선전"
+  ],
+  [
+   "2026-11-21T11:11:06.874987+09:00",
+   "전망은 20만닉스 증권가 7만전자 여기서 떨어진다"
+  ],
+  [
+   "2026-11-21T11:11:06.874987+09:00",
+   "방어 방패는 미국식 한국은 경영권 남용은 주고 막는"
+  ],
+  [
+   "2026-11-21T11:11:06.874987+09:00",
+   "이적시장 긍정적 맨유 오시멘 포체티 앞두고 이적설 등장한 다시"
   ]
  ],
- "last_run": "2026-11-21T11:01:32.791652+09:00",
+ "last_run": "2026-11-21T11:11:17.610694+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
