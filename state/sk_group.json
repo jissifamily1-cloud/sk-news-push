@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=565159",
-  "https://biz.sbs.co.kr/article_hub/20000347572?division=NAVER",
-  "https://www.m-i.kr/news/articleView.html?idxno=2020850",
-  "http://www.newstomato.com/ReadNews.aspx?no=1321072&inflow=N",
-  "https://www.g-enews.com/view.php?ud=202611191431552594923c501012_1",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=95577",
   "https://www.dailian.co.kr/news/view/1717247/?sc=Naver",
   "https://www.m-i.kr/news/articleView.html?idxno=2020797",
@@ -2999,14 +2994,14 @@
   "https://view.asiae.co.kr/article/2026112116192801624",
   "https://www.jemin.com/news/articleView.html?idxno=847990",
   "https://www.yna.co.kr/view/PYH20261121035900073?input=1196m",
-  "https://www.segye.com/newsView/20261121505344?OutUrl=naver"
+  "https://www.segye.com/newsView/20261121505344?OutUrl=naver",
+  "https://m.sports.naver.com/basketball/article/065/0000305055",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6943990",
+  "https://news.mtn.co.kr/article/2026112114325499235",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321315&inflow=N",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000085160"
  ],
  "seen_titles": [
-  "'수능해방'수험생잡아라···통신3사,선물경쟁후끈",
-  "[수출1조달러]수출강국이끈메모리…삼성·SK하이닉스,AI시대성장축...",
-  "“주주신뢰로AI격변넘는다”...SK그룹,디렉터스서밋·거버넌스데...",
-  "[부고]원형직씨(SK인천석유화학홍보·사회공헌팀부장)부친상",
-  "부전∼마산복선전철터널붕괴원인은“허용치20배넘는주입압력”",
   "수능날강세보인코스닥,10년중7차례코스피압도…올해도이어질까",
   "SK그룹,앤트로픽상장으로4조4천억원수익",
   "SK그룹,이사회중심경영강화…독립이사들과거버넌스발전방향논의",
@@ -6001,7 +5996,12 @@
   "李대통령,AI전력·인력확보강조…\"AIDC·메모리수요더늘것\"(종합...",
   "이정효감독의승부수통했다…수원삼성,경남3-1제압하고K리그2우...",
   "도쿄포럼2026에서발언하는최태원SK회장",
-  "겨울쇼핑수요공략…유통업계,신제품·할인행사확대"
+  "겨울쇼핑수요공략…유통업계,신제품·할인행사확대",
+  "[KBL드림컵]압도적2연승이끈서울삼성U12강현서의목표는'우승!'",
+  "\"득점보다도움이더어려워\"...양팀감독이인정한이동경의가치[인...",
+  "이대통령\"울산AI데이터센터,글로벌기업추가투자마중물\"",
+  "이대통령\"수능부정,끝까지추격해엄벌…부정행위포상1건당최소1...",
+  "최태원\"한일기업·대학AI교육플랫폼만들자\""
  ],
  "recent_sigs": [
   [
@@ -6301,7 +6301,7 @@
    "확대 행사 할인 겨울 수요 유통업계 공략 쇼핑 신제품"
   ]
  ],
- "last_run": "2026-11-21T16:31:21.547481+09:00",
+ "last_run": "2026-11-21T16:36:30.936677+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
