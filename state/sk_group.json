@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10942723",
-  "https://www.ajunews.com/view/20261119133349922",
-  "https://www.inthenews.co.kr/news/article.html?no=94756",
-  "https://www.vegannews.co.kr/news/article.html?no=407644",
-  "https://www.dt.co.kr/article/12096127",
-  "https://vn.asiatoday.co.kr/view.php?key=20261119001328249",
-  "https://www.ajunews.com/view/20261119132859919",
   "https://www.redian.org/news/articleView.html?idxno=257690",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68057",
   "https://www.m-i.kr/news/articleView.html?idxno=2020743",
@@ -2999,16 +2992,16 @@
   "https://biz.heraldcorp.com/article/10944643",
   "https://www.khan.co.kr/article/202611211309001",
   "https://www.newscj.com/news/articleView.html?idxno=3450849",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=903920"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=903920",
+  "https://www.intn.co.kr/news/articleView.html?idxno=3000358",
+  "https://www.newsway.co.kr/news/view?ud=2026112113290514665",
+  "https://www.donga.com/news/Politics/article/all/20261121/135064820/1",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232134",
+  "https://www.edaily.co.kr/News/Read?newsId=01981126645648016&mediaCodeNo=257",
+  "https://www.etoday.co.kr/news/view/2651195",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506583"
  ],
  "seen_titles": [
-  "SK,이사회중심경영강화…최태원“거버넌스한단계격상”",
-  "송도아파트발코니붕괴사고원인규명장기화...조사기간2개월연장",
-  "추미애경기도지사,고립·은둔청년의사회복귀돕는다…맞춤형지원...",
-  "‘최태원SK그룹회장동거녀김희영씨관련허위사실’유튜버징역1년...",
-  "이천시,반도체소부장·연구단지조성본격화",
-  "SK그룹,지배구조투명성논의",
-  "‘양자암호통신’국제시험망구축",
   "가요대전방청권부터AI구독권까지",
   "AnthropicIPOSparksReboundHopeforKoreanChips",
   "코스피3분기순이익30%감소…코스닥기업은적자전환",
@@ -6001,7 +5994,14 @@
   "손정의,SK하이닉스1조달러인수타진했었다…“지금은검토대상아냐...",
   "“소프트뱅크손정의,최근SK하이닉스1조달러인수안검토”",
   "[농구]이동근,드래프트전체1순위로kt행",
-  "손정의,SK하이닉스1조달러인수구상…월가에자금조달타진"
+  "손정의,SK하이닉스1조달러인수구상…월가에자금조달타진",
+  "2026공시대상기업집단내부거래현황분석·공개",
+  "손정의,SK하이닉스1조달러인수타진?…소프트뱅크\"현재적극검토안...",
+  "李,울산SKAI데이터센터방문“국가경쟁위해속도전이핵심”",
+  "이대통령,울산SKAI데이터센터깜짝방문…\"속도가생명\"",
+  "\"소프트뱅크,한때SK하닉'1조달러'통째인수타진\"",
+  "“손정의소프트뱅크,과거SK하이닉스1조달러에인수검토”⋯SK하닉...",
+  "대형제약주줄줄이하락…신약개발기대만으로버티기어려웠다"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-11-21T13:11:15.070471+09:00",
    "841조 우리끼리 내부거래 돈만 대기업 거래한 매출"
+  ],
+  [
+   "2026-11-21T13:31:07.595443+09:00",
+   "기대만으로 개발 제약주 버티기 하락 신약 어려웠다 대형 줄줄이"
   ]
  ],
- "last_run": "2026-11-21T13:21:09.938064+09:00",
+ "last_run": "2026-11-21T13:31:13.840352+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
