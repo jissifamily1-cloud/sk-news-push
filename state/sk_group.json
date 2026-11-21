@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026110590261",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450900",
-  "https://news.tf.co.kr/read/economy/2390992.htm",
-  "http://www.popcornnews.net/news/articleView.html?idxno=140754",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=81789",
-  "https://www.mediawatch.kr/news/article.html?no=261807",
-  "https://www.public25.com/news/articleView.html?idxno=58693",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104771",
   "https://www.catchnews.kr/news/articleView.html?idxno=130758",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=366363",
   "https://www.dynews.co.kr/news/articleView.html?idxno=874837",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/politics/president/6361675",
   "https://www.fnnews.com/news/202611211743276821",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/21/2026112190081.html",
-  "https://www.dt.co.kr/article/12096420"
+  "https://www.dt.co.kr/article/12096420",
+  "https://www.etnews.com/20261121000052",
+  "https://www.hankookilbo.com/news/article/A2026112117560000612?did=NA",
+  "https://biz.heraldcorp.com/article/10944754",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261121180241i99",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287087&CMPT_CD=P0010",
+  "https://www.yna.co.kr/view/AKR20261121045100001?input=1195m",
+  "https://www.tfmedia.co.kr/news/article.html?no=209091",
+  "https://www.bzeronews.com/news/articleView.html?idxno=825654"
  ],
  "seen_titles": [
-  "‘광명자이힐스테이트SKVIEW’단지내상가공급",
-  "SK,현직독립이사51명과AI투자·자본배분논의…퇴임이사41명도초...",
-  "﻿법무법인세종,‘2026ALB한국법률대상’6개부문수상",
-  "수출1조달러주역HBM…SK하이닉스,'원팀'생태계로AI메모리도약",
-  "수출1조달러이끈반도체…SK하이닉스,소부장과다음도약준비",
-  "125조뭉칫돈몰린앤트로픽,역대최대IPO",
-  "국내대기업해외법인6781곳…미국171곳늘고중국1곳줄어",
-  "SK브로드밴드,부산-싱가포르SJC2해저케이블에양자보안시험망구축",
   "세종,ALB한국법률대상6개부문수상…올해의한국딜로펌선정",
   "엔비디아,젠슨황공백메우기총력…AI생태계불안진화",
   "SKB,부산∼싱가포르해저케이블에양자보안시험망구축",
@@ -6001,13 +5993,17 @@
   "李대통령,닭발사고호떡맛보고…울산전통시장2곳'깜짝방문'",
   "李대통령,울산전통시장찾아\"내년에는조금더좋아질것\"",
   "SK,울산시작으로2035년까지AI데이터센터15GW구축",
-  "[박진우의개미수다]반토막삼전닉스…‘낙관과비관’의경계"
+  "[박진우의개미수다]반토막삼전닉스…‘낙관과비관’의경계",
+  "울산SKAI데이터센터찾은李…“韓AX는AI고속도로가열게될것”",
+  "최태원\"대학,AI시대맞게학위·평가방식재설계를\"",
+  "이대통령,울산전통시장2곳찾아…“내년엔조금더좋아질것”",
+  "울산전통시장찾은이대통령…\"내년에는조금더좋아질것\"",
+  "김상욱시장,울산방문이대통령에부유식해상풍력실증사업건의",
+  "李대통령,울산전통시장두곳방문…\"내년엔좀더좋아질것\"",
+  "[N위크]올해마지막기준금리인상?…디지털자산법·금융쇄신안공개",
+  "학생제안에서3000명축제로…무심천달군'포(4)유마라톤'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-21T12:01:19.762317+09:00",
-   "많은 농구리그 유소년 맑은 최대한 행복 뚫고 양평 개최 강추위"
-  ],
   [
    "2026-11-21T12:11:11.340580+09:00",
    "반토막 사실상 의견 저평가로 나왔다 하이닉스에 보기 매도"
@@ -6267,9 +6263,17 @@
   [
    "2026-11-21T18:01:17.821871+09:00",
    "비관 낙관과 반토막 경계 삼전닉스"
+  ],
+  [
+   "2026-11-21T18:11:07.851313+09:00",
+   "금융쇄신안 인상 공개 디지털자산법 올해 기준금리 마지막"
+  ],
+  [
+   "2026-11-21T18:11:07.851313+09:00",
+   "제안에서 달군 마라톤 3000명 축제로 학생 무심천"
   ]
  ],
- "last_run": "2026-11-21T18:01:24.019015+09:00",
+ "last_run": "2026-11-21T18:11:15.967894+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
