@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newskr.kr/news/articleView.html?idxno=108134",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1194187",
-  "https://www.mk.co.kr/article/12213468",
-  "https://en.yna.co.kr/view/AEN20261119004400320?input=2106m",
-  "https://www.gokorea.kr/news/articleView.html?idxno=886364",
-  "https://www.yna.co.kr/view/AKR20261119081500008?input=1195m",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445517",
   "https://www.the-today.com/news/articleView.html?idxno=93815",
   "https://www.joongang.co.kr/article/25480087",
   "https://www.delighti.co.kr/news/articleView.html?idxno=125230",
@@ -2999,16 +2992,16 @@
   "http://www.kjdaily.com/article.php?aid=1795223351693018227",
   "https://www.pointe.co.kr/news/articleView.html?idxno=88202",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=312383",
-  "https://news.mtn.co.kr/article/2026112010374750272"
+  "https://news.mtn.co.kr/article/2026112010374750272",
+  "https://m.sports.naver.com/general/article/065/0000305032",
+  "http://www.osen.co.kr/article/G1112913140",
+  "https://www.kyeonggi.com/article/20261121580022",
+  "https://www.pennmike.com/news/articleView.html?idxno=132400",
+  "https://www.youthdaily.co.kr/news/article.html?no=230168",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=629216",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286933&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "KoreanbusinessgroupsexpandintoAI,shedoverlappingaffiliates",
-  "AI상장풍파에흔들리는코스피,외국인매도세지속",
-  "‘젠슨황없는엔비디아’주가...밸류체인·인재유지가‘변곡점’",
-  "엔비디아호실적에도'풀썩'…국내반도체株'비실'",
-  "SKT,수능마친수험생에가요대전방청권·AI이용권제공",
-  "美금리인상우려재점화…코스피5000선위태",
-  "코스피외국인기관매도에5천선버티기…앤트로픽최대IPO성공",
   "ADT캡스,27년째수능수험생특별호송…긴급이동지원",
   "SKB,한-싱가포르해저케이블구간에양자보안시험망구축",
   "SK쉴더스,국제보안콘퍼런스서랜섬웨어공격경로공개",
@@ -6001,7 +5994,14 @@
   "금시세(금값)약세",
   "[오늘일본은]유출개인정보확산막으려사이트강제차단검토…통신...",
   "삼전닉스무너지자오천피붕괴…'금리변수'까지만난국장반등할까...",
-  "전병서소장\"삼성·하이닉스성장세이어지겠지만…과거같지않을수..."
+  "전병서소장\"삼성·하이닉스성장세이어지겠지만…과거같지않을수...",
+  "[2026유스클럽드림컵]'2026KBL유스클럽드림컵in제천'1일차,소노...",
+  "'4년만에K리그1복귀성공!'수원삼성,이제우승트로피까지들어올...",
+  "영풍,고려아연지분넘긴자회사서배당금'0원'…금융자산팔아현금...",
+  "뉴욕3대증시모두'급락'...앤트로픽·엔비디아모두하락마감",
+  "반도체값으로만든무역수지…한국금융연구원,\"가격하락하면흑자급...",
+  "코스피5%대'주루룩'…대형주들약세,삼성전기13%급락",
+  "'12명중7명교체'마줄스호,월드컵분수령서위기넘을까"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,21 @@
   [
    "2026-11-21T10:11:08.589408+09:00",
    "소장 과거 이어지겠지만 하이닉스 성장세 같지 않을 삼성 전병서"
+  ],
+  [
+   "2026-11-21T10:21:10.468460+09:00",
+   "만든 흑자 가격 한국금융연구원 하락하면 무역수지 반도체 값으로"
+  ],
+  [
+   "2026-11-21T10:21:10.468460+09:00",
+   "코스피 삼성전기 대형주들 주루룩 약세 급락"
+  ],
+  [
+   "2026-11-21T10:21:10.468460+09:00",
+   "마줄스호 분수령서 월드컵 위기 7명 교체 넘을까 12명"
   ]
  ],
- "last_run": "2026-11-21T10:11:22.490311+09:00",
+ "last_run": "2026-11-21T10:21:21.576563+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
