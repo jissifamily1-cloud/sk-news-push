@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/609400",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1107262",
   "https://www.naeil.com/news/read/609341",
   "https://www.naeil.com/news/read/609342",
   "https://www.naeil.com/news/read/609337",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/photos/8226104",
   "https://www.news1.kr/photos/8226101",
   "http://www.rookie.co.kr/news/articleView.html?idxno=130837",
-  "https://www.tokenpost.kr/news/blockchain/442036"
+  "https://www.tokenpost.kr/news/blockchain/442036",
+  "https://www.yna.co.kr/view/AKR20261121033000009?input=1195m",
+  "https://www.bloter.net/news/articleView.html?idxno=679089"
  ],
  "seen_titles": [
-  "최태원\"AI확장기,이사회독립적판단중요\"…SK거버넌스행사개최",
-  "제약·바이오투자온도차…내년반등주도권은대형제약사",
   "SemiconductorEquipmentUpcycleSeenLastingThrough2028asFront-E",
   "'성공적IPO'치른앤트로픽…AI시장불확실성지울까",
   "ADT캡스,수능당일긴급이동지원···27년째수험생호송",
@@ -6001,7 +5999,9 @@
   "안전모착용하는이재명대통령",
   "울산SKAI데이터센터건설현황보고받는이재명대통령",
   "[26DRAFT]연세대,12년만에1순위없이1라운더4명...고려대는역대최...",
-  "[로빈후드온체인]SK하이닉스토큰81만달러어치가줄어...캐시캣거래..."
+  "[로빈후드온체인]SK하이닉스토큰81만달러어치가줄어...캐시캣거래...",
+  "\"소프트뱅크손정의,한때SK하이닉스1조달러인수안검토\"",
+  "로그인없이서버뚫리는자바취약점…SK쉴더스,CPU점검강조"
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,13 @@
   [
    "2026-11-21T12:51:04.753253+09:00",
    "줄어 토큰 캐시 81만달러어치가 거래 SK하이닉스"
+  ],
+  [
+   "2026-11-21T13:01:22.144127+09:00",
+   "자바 서버 취약점 뚫리는 CPU 없이 점검 SK쉴더스 로그인 강조"
   ]
  ],
- "last_run": "2026-11-21T12:51:12.660439+09:00",
+ "last_run": "2026-11-21T13:01:28.119285+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
