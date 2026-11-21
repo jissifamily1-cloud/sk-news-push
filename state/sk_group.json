@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001369",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2314849",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261119082322aYp",
-  "https://www.ppss.kr/news/articleView.html?idxno=321889",
   "https://www.munhwa.com/article/11632531",
   "https://www.munhwa.com/article/11632525",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=885066",
@@ -2999,13 +2995,13 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=565599",
   "https://economist.co.kr/article/view/ecn202611210004",
   "https://economist.co.kr/article/view/ecn202611170057",
-  "https://www.besteleven.com/news/articleView.html?idxno=314204"
+  "https://www.besteleven.com/news/articleView.html?idxno=314204",
+  "https://www.mt.co.kr/society/2026/11/21/2026112110581031975",
+  "https://www.nongmin.com/article/20261118500326",
+  "http://www.breaknews.com/1252860",
+  "https://basketkorea.com/news/newsview.php?ncode=1065579293577693"
  ],
  "seen_titles": [
-  "Two-ThirdsofKoreanListedFirmsFaceQ4EarningsDowngrades;Chipma",
-  "최태원,2년만에한은行…신현송총재와첫대담",
-  "울산은인천,대전은강원과격돌…K리그12위경쟁본격화",
-  "[OpeningMarket]KoreanStocksTurnLoweronForeign,InstitutionalS",
   "삼성·SK하이닉스탄소배출권희비…생산확대에배출권소진·추가조달",
   "대기업해외계열사내부거래564조…국내계열사간거래의2배",
   "엔비디아실적발표에SK하이닉스·삼성전자공급망경쟁주목",
@@ -6001,7 +5997,11 @@
   "11월3주차SK텔레콤주가큰폭하락6만원대로",
   "'7만전자·20만닉스'여기서더떨어진다?…증권가전망은",
   "'방패는주고남용은막는'미국식경영권방어…한국은?",
-  "이적시장앞두고다시등장한오시멘!…맨유이적설'긍정적'→포체티..."
+  "이적시장앞두고다시등장한오시멘!…맨유이적설'긍정적'→포체티...",
+  "\"폭락시작도안해\"삼전7만제시전문가,내년AI기업타격경고",
+  "“순금올리고55만원”…수십만원대‘호텔크리스마스케이크’등장",
+  "증시폭락에법관탄핵논란…장동혁대표“헌정질서수호나서야”",
+  "[KBL드래프트]‘5순위이주영’은한국가스공사의행운!“로터리불발..."
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,21 @@
   [
    "2026-11-21T11:11:06.874987+09:00",
    "이적시장 긍정적 맨유 오시멘 포체티 앞두고 이적설 등장한 다시"
+  ],
+  [
+   "2026-11-21T11:21:04.393621+09:00",
+   "올리고 크리스마스 55만원 호텔 순금 케이크 등장 수십만원대"
+  ],
+  [
+   "2026-11-21T11:21:04.393621+09:00",
+   "탄핵 증시 장동혁 대표 헌정질서 나서야 폭락에 법관 수호 논란"
+  ],
+  [
+   "2026-11-21T11:21:04.393621+09:00",
+   "로터리 5순위 행운 불발 이주영 한국가스공사의"
   ]
  ],
- "last_run": "2026-11-21T11:11:17.610694+09:00",
+ "last_run": "2026-11-21T11:21:16.691710+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
