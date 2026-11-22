@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112912364",
-  "http://www.osen.co.kr/article/G1112912366",
-  "http://www.osen.co.kr/article/G1112912363",
-  "http://www.osen.co.kr/article/G1112912365",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=130712",
-  "https://www.mk.co.kr/article/12213951",
-  "https://www.khan.co.kr/article/202611192045005",
-  "https://www.newstnt.com/news/articleView.html?idxno=729427",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=668448",
-  "https://basketkorea.com/news/newsview.php?ncode=1065612374713416",
   "https://www.khan.co.kr/article/202611192049005",
   "https://news.knn.co.kr/news/article/194709",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553716557",
@@ -2999,19 +2989,19 @@
   "https://www.viva100.com/article/20261122500367",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=45512",
   "https://www.segye.com/newsView/20261122505855?OutUrl=naver",
-  "https://www.sidae.com/article/2026111909043232341"
+  "https://www.sidae.com/article/2026111909043232341",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000085290",
+  "https://www.asiatime.co.kr/article/20261119500470",
+  "https://www.chosun.com/economy/industry-company/2026/11/22/YM6R2PO7R5BM5OPX7GE4HXIERY/",
+  "https://www.techm.kr/news/articleView.html?idxno=157680",
+  "https://www.jbnews.com/news/articleView.html?idxno=1516561",
+  "https://zdnet.co.kr/view/?no=20261122131948",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/22/2026112290048.html",
+  "http://www.newsprime.co.kr/news/article.html?no=755946",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261122.99099006728",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321335&inflow=N"
  ],
  "seen_titles": [
-  "[사진]배스,완벽한골밑슛",
-  "[사진]포터,제발들어가라",
-  "[사진]워니,파리채슛블록",
-  "[수출1조달러시대]수출42.7%가반도체…AI가끌고가격이밀었다",
-  "앤트로픽효과에반등…코스피5,100선탈환",
-  "일본제치고'수출1조달러'…세계4번째대기록달성",
-  "[대담한7]“기술로여는미래”…충북반도체고의경쟁력은?",
-  "[사진]개인기로워니따돌리는포터",
-  "[사진]포터,가볍게넣는다",
-  "[사진]배스,서울SK수비뚫고",
   "[사진]포터,저리비켜",
   "[사진]포터,최원혁!파울이야",
   "'영상으로확인불가'KBL,kt포터테크니컬파울반칙금철회",
@@ -6001,7 +5991,17 @@
   "삼성•SK•LG,핵심사업에인재배치⋯'AI•에너지•로봇'승부수",
   "영풍,고려아연배당은자회사로…본사는금융자산매각",
   "삼전닉스반토막에도…“반도체정점론과해,내년코스피8000가능”...",
-  "삼키기힘든알약,녹이고붙인다"
+  "삼키기힘든알약,녹이고붙인다",
+  "'도란·카나비'DK,코치진교체T1…뜨거운LCK스토브리그",
+  "[산업뉴스브리핑]최태원\"SK거버넌스고도화\"…독립이사들과경영방...",
+  "AI시험부정행위논란속…최태원“교육체계근본바꿔야”",
+  "최태원SK회장\"한일AI인재공동육성모색\"",
+  "학생제안에서시작한마라톤…충북교육가족3천명함께달렸다",
+  "최태원\"한일기업·대학함께AI인재육성을\"",
+  "나경원\"내일증시'블랙먼데이'우려…정부,개장전대책마련해야\"",
+  "\"코로나팬데믹보다더빠졌다\"…'코스피급락쇼크'저점은'4300p'",
+  "주요대기업사장단유임…불확실성속안정기조",
+  "AI호황에‘통큰’주주환원…삼성·SK,배당성향최대21배급증"
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,21 @@
   [
    "2026-11-22T13:31:09.644980+09:00",
    "삼키기 붙인다 녹이고 힘든 알약"
+  ],
+  [
+   "2026-11-22T13:41:05.429305+09:00",
+   "빠졌다 저점은 쇼크 코로나 코스피 4300p 급락 팬데믹보다"
+  ],
+  [
+   "2026-11-22T13:41:05.429305+09:00",
+   "불확실성 사장단 안정 주요 유임 기조 대기업"
+  ],
+  [
+   "2026-11-22T13:41:05.429305+09:00",
+   "주주환원 호황에 삼성 21배 배당성향 급증 AI"
   ]
  ],
- "last_run": "2026-11-22T13:31:15.644358+09:00",
+ "last_run": "2026-11-22T13:41:16.660003+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
