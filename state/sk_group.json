@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506100",
-  "https://www.dailian.co.kr/news/view/1717494/?sc=Naver",
-  "http://www.newsbrite.net/news/articleView.html?idxno=201617",
-  "https://m.skyedaily.com/news_view.html?ID=314912",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=722665",
-  "https://www.newspim.com/news/view/20261119001470",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16280995",
-  "http://www.stoo.com/article.php?aid=109994833571",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16280996",
-  "https://m.sports.naver.com/basketball/article/065/0000304954",
   "https://m.sports.naver.com/basketball/article/065/0000304953",
   "https://www.ggilbo.com/news/articleView.html?idxno=1193426",
   "https://m.sports.naver.com/basketball/article/065/0000304952",
@@ -2999,19 +2989,19 @@
   "https://www.pennmike.com/news/articleView.html?idxno=132461",
   "http://www.srtimes.kr/news/articleView.html?idxno=218291",
   "https://www.news2day.co.kr/article/20261122500037",
-  "https://www.yna.co.kr/view/AKR20261122035900007?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261122035900007?input=1195m",
+  "http://www.stoo.com/article.php?aid=110036630832",
+  "https://www.sportschosun.com/football/2026-11-22/202611220100137370012893",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553721472",
+  "https://www.econovill.com/news/articleView.html?idxno=758086",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719381",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16282865",
+  "https://www.joongangenews.com/news/articleView.html?idxno=565654",
+  "https://www.newspim.com/news/view/20261122000101",
+  "https://www.sedaily.com/article/20117389",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506741"
  ],
  "seen_titles": [
-  "SK그룹,현직·퇴임독립이사92명과이사회중심경영발전방향논의",
-  "서울월세168만원,경기120만원…인천도100만원넘겨",
-  "스페이스X뛰어넘었다…앤스로픽,143조자금조달",
-  "[단독]SK하닉,日키옥시아전환사채주식전환검토…이행땐지분14%이...",
-  "‘수출대국코리아’…62년만에1만배로키웠다",
-  "앤트로픽상장기대감에…뉴욕증시일제히상승출발",
-  "[뉴욕증시개장],앤트로픽상장기대에나스닥1.6%상승",
-  "[관심주]SK텔레콤,앤트로픽상장앞두고6.78%하락…7만7천원거래",
-  "양자컴퓨터해킹위협막는다…SKB,한-싱가포르해저케이블에‘양자...",
-  "코스피상승에도인버스거래활발…ETF·ETN거래대금집중",
   "이상일용인시장,반도체클러스터40만명인구유입대비…정부에신도...",
   "앤스로픽창업자7명186조원,SKT투자16배‘잭팟’",
   "“왜너희들이게임을정리해?”전희철감독또극대노…전성현3점슛...",
@@ -6001,7 +5991,17 @@
   "최태원\"한일기업·대학,AI인재함께키우자\"...인턴십·일자리연계...",
   "SKT에어,무신사와협업…5G요금제할인",
   "[이태희의JOB채(107)]삼성전자의‘AI시대용인술’,‘새피’보다‘...",
-  "K리그1최하위광주,10명뛴11위부천에역전승…4경기무패"
+  "K리그1최하위광주,10명뛴11위부천에역전승…4경기무패",
+  "'바루아·아이데일활약'광주,부천에4-2역전승…제주,김천격파",
+  "[현장인터뷰]'패장'주승진감독\"없는자원,최대한경기력유지위해...",
+  "[현장목소리]'퇴장+충격역전패'이영민감독,\"무승의고리를끊어야...",
+  "SKT에어무신사무진장올라탔다\"통신브랜드첫참가로청년층공략...",
+  "대기업영업익3배느는동안기부금은줄였다…SK하이닉스도20%감소",
+  "K리그1최하위광주FC,10명뛴부천FC4-2역전…4경기무패",
+  "日손정의회장,SK하이닉스인수검토했었다…월가에자금조달타진",
+  "[프로축구]광주,부천에4-2역전승…제주,김천원정1-0승리",
+  "‘깐부’없는韓반도체,美대중규제올라타야[윤경환특파원의브레...",
+  "D램·낸드가격뛰자SK도웃었다…자산관리부문이익1618%폭증"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,17 @@
   [
    "2026-11-22T16:21:09.523820+09:00",
    "최하위 역전승 광주 무패 K리그1 11위 10명 4경기 부천에"
+  ],
+  [
+   "2026-11-22T16:31:13.514708+09:00",
+   "깐부 반도체 없는 특파원의 대중 윤경환 규제 올라타야 브레"
+  ],
+  [
+   "2026-11-22T16:31:13.514708+09:00",
+   "D램 가격 이익 웃었다 폭증 부문 SK도 자산관리 낸드 뛰자"
   ]
  ],
- "last_run": "2026-11-22T16:21:17.590790+09:00",
+ "last_run": "2026-11-22T16:31:21.514831+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
