@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=272073",
-  "https://www.widedaily.com/news/articleView.html?idxno=304221",
-  "https://www.itdaily.kr/news/articleView.html?idxno=243085",
-  "https://www.sedaily.com/article/20116799",
-  "https://www.mk.co.kr/article/12214337",
-  "https://zdnet.co.kr/view/?no=20261120093812",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=147293",
   "https://www.pressman.kr/news/articleView.html?idxno=104577",
   "https://www.sedaily.com/article/20116797",
@@ -2999,15 +2993,15 @@
   "https://www.newsian.co.kr/news/articleView.html?idxno=101755",
   "https://view.asiae.co.kr/article/2026112014131808814",
   "https://www.slist.kr/news/articleView.html?idxno=783839",
-  "https://www.edaily.co.kr/News/Read?newsId=01243126645648672&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01243126645648672&mediaCodeNo=257",
+  "http://www.osen.co.kr/article/G1112913441",
+  "https://www.sedaily.com/article/20117476",
+  "https://www.huffingtonpost.kr/article/262232",
+  "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m",
+  "https://economist.co.kr/article/view/ecn202611160054",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506793"
  ],
  "seen_titles": [
-  "111만닉스·18만전자추락···美반도체주급락에'휘청'[특징주]",
-  "코스피,美기술주급락여파에4900선후퇴···반도체주동반약세",
-  "SK인텔릭스,숭실대기계공학부에‘나무엑스’생산현장공개",
-  "코스피,반도체주급락에4950선후퇴…코스닥도3%대하락",
-  "SKT,성수T팩토리서AI기억전시·문화유산트리선보인다",
-  "ADT캡스'캡스홈',제26회모바일기술대상수상",
   "반도체비관정점…증권가,삼전닉스내년D램판가40%↑주목필요",
   "SK텔레콤,T팩토리성수서'시드볼트26·화이트보물트리'오픈",
   "[특징주]앤트로픽상장기대감식었나…SK텔레콤장초반8%대하락",
@@ -6001,7 +5995,13 @@
   "[초점]대기업상생협력,돈풀기넘어기술·양산문턱낮춘다",
   "IMM'장기보유'에어퍼스트,국내서이정표세우나[PE는지금]",
   "CU,인터넷∙IPTV가입서비스개시....SK브로드밴드혜택",
-  "[MUSTKNOW5]앤트로픽,상장이틀만에8.5%급락…월가는그래도‘매수..."
+  "[MUSTKNOW5]앤트로픽,상장이틀만에8.5%급락…월가는그래도‘매수...",
+  "\"김광현말다맞더라\"65억부담에무너진박종훈이달라진이유[인터...",
+  "증안펀드준비에도‘블랙먼데이’경계…이번주코스피,정책효과시...",
+  "LG이노텍문혁수유임으로'반도체기판사업'에드라이브걸린다:'장...",
+  "상반기급등장에CB발행역대최대…최근급락에상환부담",
+  "AI쓰자니기밀유출걱정,막자니경쟁력걱정…산업계‘딜레마",
+  "현대건설디에이치,하이엔드주거브랜드평판1위…르엘과격차벌려"
  ],
  "recent_sigs": [
   [
@@ -6183,9 +6183,29 @@
   [
    "2026-11-23T06:57:04.183248+09:00",
    "그래도 앤트로픽 이틀 급락 월가는 상장 매수 만에"
+  ],
+  [
+   "2026-11-23T07:01:29.915816+09:00",
+   "효과 블랙먼데이 정책 경계 증안펀드 코스피 준비에도"
+  ],
+  [
+   "2026-11-23T07:01:29.915816+09:00",
+   "LG이노텍 유임으로 문혁수 사업 기판 드라이브 걸린다 반도체"
+  ],
+  [
+   "2026-11-23T07:01:29.915816+09:00",
+   "상반기 최근 급등장에 CB발행 상환부담 역대최대 급락에"
+  ],
+  [
+   "2026-11-23T07:01:29.915816+09:00",
+   "기밀 막자니 걱정 유출 경쟁력 쓰자니 AI 딜레마 산업계"
+  ],
+  [
+   "2026-11-23T07:01:29.915816+09:00",
+   "브랜드평판 현대건설 1위 르엘과 격차 하이엔드 디에이치 주거 벌려"
   ]
  ],
- "last_run": "2026-11-23T06:57:09.671231+09:00",
+ "last_run": "2026-11-23T07:01:46.063279+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
