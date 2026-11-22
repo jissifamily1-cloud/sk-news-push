@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435730",
-  "https://www.mk.co.kr/article/12213984",
-  "https://www.newsis.com/view/NISX20261119_0003875835",
-  "https://www.khan.co.kr/article/202611192147015",
-  "https://www.wikitree.co.kr/articles/1176125",
-  "https://zdnet.co.kr/view/?no=20261120054534",
   "https://www.sidae.com/article/2026111913353765531",
   "https://www.the-today.com/news/articleView.html?idxno=93844",
   "https://www.newspim.com/news/view/20261119001002",
@@ -2999,15 +2993,15 @@
   "http://www.inews24.com/view/2028973",
   "https://www.ajunews.com/view/20261120145624113",
   "https://www.donga.com/news/Economy/article/all/20261122/135067290/1",
-  "https://www.inews365.com/news/article.html?no=944657"
+  "https://www.inews365.com/news/article.html?no=944657",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1112549",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1112554",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000085312",
+  "https://www.busan.com/view/busan/view.php?code=2026112214434695081",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/22/2026112250076.html",
+  "https://zdnet.co.kr/view/?no=20261122143759"
  ],
  "seen_titles": [
-  "10대그룹국내내부거래185조…쿠팡,금액5위권에진입",
-  "반도체훈풍에수출'1조달러'달성‥이시각SK하이닉스",
-  "[11월20일자]비즈니스포스트아침의주요기사",
-  "[사진]이금주치어리더,깜찍한댄스",
-  "[사진]김민지치어리더,신나게춤춰요",
-  "[사진]김민지치어리더,사랑스럽게",
   "[사진]전희철감독,4Q부진이아쉽네",
   "[사진]수원KT,드디어연패탈출이다",
   "[사진]수원KT,서울SK잡고3연패탈출",
@@ -6001,17 +5995,15 @@
   "코스피5000선붕괴⋯美반도체주폭락에'검은월요일'오나",
   "[르포]텃밭엔원룸,공업사엔닭강정집…'하이닉스'네글자가바꾼원...",
   "YPC는3916억흑자냈는데…영풍에돌아온배당금‘0원’",
-  "청주시의회,\"반도체클러스터청주로유치하라\"건의문채택"
+  "청주시의회,\"반도체클러스터청주로유치하라\"건의문채택",
+  "남서울대,탄소중립실천우수기관선정…지역사회기후행동확산성과...",
+  "충남보령시,'함박민화전람회:민화로행복을함박드림展'개최",
+  "삼성전자·SK하이닉스추천인사도공개모집참여…전남광주시,반도체...",
+  "영업이익3배늘린대기업,기부금은되레줄였다",
+  "미국發증시폭락우려에정부긴급F4소집…국내안정대책논의",
+  "[ZD브리핑]삼성,임원인사·조직개편발표예정...국회서AI글래스악용..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-22T08:41:16.855754+09:00",
-   "골드만 켜졌다 경고등 10점 팔자 9점 패닉지수 만점에"
-  ],
-  [
-   "2026-11-22T08:41:16.855754+09:00",
-   "SK하이닉스 종가보다 할인 정규장"
-  ],
   [
    "2026-11-22T09:01:32.815963+09:00",
    "특화 유일 국내 운영 5G KT 네트워크 SA 강화할 노하우"
@@ -6423,9 +6415,13 @@
   [
    "2026-11-22T14:41:08.339465+09:00",
    "클러스터 청주로 건의문 채택 청주시의회 유치하라 반도체"
+  ],
+  [
+   "2026-11-22T14:51:06.782169+09:00",
+   "AI글래스 임원인사 발표 악용 삼성 조직개편 국회서"
   ]
  ],
- "last_run": "2026-11-22T14:41:19.259770+09:00",
+ "last_run": "2026-11-22T14:51:12.177138+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
