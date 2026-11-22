@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112912272",
-  "http://www.osen.co.kr/article/G1112912266",
-  "https://www.ytn.co.kr/_ln/0102_202611191916562519",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190160&t=NN",
-  "https://www.dt.co.kr/article/12096271",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=108092",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065604541976534",
   "http://www.osen.co.kr/article/G1112912279",
   "http://www.osen.co.kr/article/G1112912278",
   "http://www.osen.co.kr/article/G1112912280",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0102_202611221110095965",
   "https://www.khan.co.kr/article/202611221110001",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=408978",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1194561"
+  "https://www.ggilbo.com/news/articleView.html?idxno=1194561",
+  "https://www.dailian.co.kr/news/view/1718097/?sc=Naver",
+  "https://www.mediapen.com/news/view/1139093",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452580",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452581",
+  "https://www.nocutnews.co.kr/news/6610600",
+  "https://www.mk.co.kr/article/12215454",
+  "https://thetracker.co.kr/View.aspx?No=4323631"
  ],
  "seen_titles": [
-  "세포치료제·비만약…'K-바이오스타'모였다[2026제약바이오대상]",
-  "[더나은미래경제브리핑]한국‘수출1조달러클럽’가입,미·중·독...",
-  "이상일용인시장,총리에반도체배후신도시추가조성·광역교통망확...",
-  "KBL,수원kt트레이포터테크니컬파울반칙금철회결정",
-  "부전~마산복선전철붕괴,20배압력그라우팅‘결정적’",
-  "‘매출2배’대박에도시총731조증발…‘젠슨황없는엔비디아’앞...",
-  "\"삼전30만·하이닉스200만물렸다면손절늦었다\"…전문가\"내년1월실...",
   "인천광역시,제약바이오투자대전개최…글로벌투자유치·기술협력모...",
   "상장사3곳중2곳,4분기영업익전망하향…실적눈높이낮아져",
   "KB증권,지역관광AI펀드에20억원출자…모험자본공급확대",
@@ -6001,7 +5994,14 @@
   "잇단악재에미AI투매계속...'검은월요일'오나?",
   "엔비디아14%폭락에코스피5000피붕괴까지···무서운월요일증시,...",
   "성수동찾은이부진···K-관광홍보부터K-뷰티체험까지",
-  "청주시,사상첫'예산6조시대'개막···이장섭시장\"2027년메가성..."
+  "청주시,사상첫'예산6조시대'개막···이장섭시장\"2027년메가성...",
+  "서학개미,앤트로픽상장첫날2200억샀다…스페이스X5분의1",
+  "코스피4800선후퇴에1조클럽11%감소...상장사78%주가하락",
+  "원안위차세대원자로개발속도높인다,사전검토통해선제적인허가",
+  "SK텔레콤에어'무신사'와블랙프라이데이협업,5G요금제월6900원부터",
+  "최태원\"한일기업·대학공동으로AI인재육성하자…기회열릴것\"",
+  "핸드볼유러피언리그,벤피카가헤브에대승거두고본선리그진출",
+  "SK하이닉스美HBM공장,법적리스크해소되면서'탄력'"
  ],
  "recent_sigs": [
   [
@@ -6427,9 +6427,17 @@
   [
    "2026-11-22T11:21:08.900139+09:00",
    "청주시 6조 2027년 예산 시대 이장섭 사상 시장 메가성 개막"
+  ],
+  [
+   "2026-11-22T11:31:16.497255+09:00",
+   "대승 헤브에 핸드볼 거두고 리그 본선 벤피카가 유러피언리그 진출"
+  ],
+  [
+   "2026-11-22T11:31:16.497255+09:00",
+   "법적 HBM SK하이닉스 공장 해소되면서 탄력 리스크"
   ]
  ],
- "last_run": "2026-11-22T11:21:17.446483+09:00",
+ "last_run": "2026-11-22T11:31:24.941445+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
