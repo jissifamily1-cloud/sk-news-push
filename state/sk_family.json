@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524682",
-  "https://www.sentv.co.kr/article/view/sentv202611060010",
   "http://www.newstomato.com/ReadNews.aspx?no=1319505&inflow=N",
   "https://www.ytn.co.kr/_ln/0104_202611060828357455",
   "https://www.sentv.co.kr/article/view/sentv202611060015",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISI20261122_0021541521",
   "https://www.goodkyung.com/news/articleView.html?idxno=293723",
   "https://www.jemin.com/news/articleView.html?idxno=848023",
-  "https://www.nocutnews.co.kr/news/6610600"
+  "https://www.nocutnews.co.kr/news/6610600",
+  "https://www.khan.co.kr/article/202611221136001",
+  "https://www.m-i.kr/news/articleView.html?idxno=2021719"
  ],
  "seen_titles": [
-  "9440억지분매각한최태원…마이클델등판'글로벌AI동맹'과시",
-  "미래에셋그룹,'미래에셋3.0'조직개편및임원인사단행",
   "최태원“韓경제,G2패권·AI·자본전쟁직면”…4가지해법제시",
   "최태원,SK주식9440억원처분…재산분할금마련",
   "AI·반도체쏠림에…최태원\"과잉유동성,증시변동성키웠다\"",
@@ -6001,7 +5999,9 @@
   "최태원SK그룹회장,도쿄포럼2026발표",
   "최태원\"AI네이티브대학,설계부터새로\"…한일공동인재육성제안",
   "최태원,한일AI인재양성협력제안…기업이교육부터채용까지참여",
-  "최태원\"한일기업·대학공동으로AI인재육성하자…기회열릴것\""
+  "최태원\"한일기업·대학공동으로AI인재육성하자…기회열릴것\"",
+  "오늘의인사-국토부,연합뉴스,삼성전자,코오롱외",
+  "CEO유임·현장형리더전면에…재계내년인사윤곽"
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,13 @@
   [
    "2026-11-22T11:10:18.390534+09:00",
    "발표 회장 도쿄포럼"
+  ],
+  [
+   "2026-11-22T11:40:19.275470+09:00",
+   "전면에 윤곽 리더 현장형 유임 내년 인사 재계 CEO"
   ]
  ],
- "last_run": "2026-11-22T11:30:38.547132+09:00",
+ "last_run": "2026-11-22T11:40:29.762052+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
