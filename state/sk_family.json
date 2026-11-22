@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20261015500684",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275489&CMPT_CD=P0010",
-  "https://www.dt.co.kr/article/12089293",
-  "https://www.pressian.com/pages/articles/2026101511263085498",
-  "https://mhnse.com/news/articleView.html?idxno=1593078",
-  "http://weekly.chosun.com/news/articleView.html?idxno=56170",
   "http://www.newswatch.kr/news/articleView.html?idxno=81526",
   "https://www.sedaily.com/article/20101595",
   "https://news.jtbc.co.kr/article/NB12321327?influxDiv=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.newsway.co.kr/news/view?ud=2026112208523689450",
   "https://magazine.hankyung.com/business/article/202611221919b",
   "https://www.aitimes.kr/news/articleView.html?idxno=42838",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001560"
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001560",
+  "https://www.edaily.co.kr/News/Read?newsId=01262806645648344&mediaCodeNo=257",
+  "http://www.srtimes.kr/news/articleView.html?idxno=218277",
+  "https://www.ddaily.co.kr/page/view/2026112209184668255",
+  "https://www.mt.co.kr/industry/2026/11/22/2026112208584449227",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445876",
+  "https://www.ziksir.com/news/articleView.html?idxno=154226"
  ],
  "seen_titles": [
-  "경기도,DMZ평화·생태협력논의…28일국제포럼",
-  "경기도·통일부,28일고양서'DMZOPEN에코피스포럼'개최",
-  "“DMZ에서시베리아까지…분단의땅에‘생태·평화’상생을심다”",
-  "통일부·경기도,28일'DMZ에코피스포럼'개최…한반도평화공존방안...",
-  "경기도,DMZ서평화공존의길찾는다…28일에코피스포럼",
-  "경기도,“평화공존의길을열다”주제로에코피스포럼개최",
   "최종건교수,북미대화재개분석…\"비핵화는평화의결과이고,평화는...",
   "\"SK주가사상최고가찍던날\"…최태원친족남매,67억현금화",
   "[초점]'리밸런싱완수'최창원가고…새SK수펙스수장올까",
@@ -6001,7 +5995,13 @@
   "최태원,한일AI인재공동육성제안…기업·대학협력강조",
   "최태원“AI시대대학도달라져야...한일AI인재함께키우자”",
   "최태원회장,\"AI네이티브대학,설계부터바꿔야\"...韓日기업·대학...",
-  "최태원회장\"韓日기업·대학함께AI인재육성하자\""
+  "최태원회장\"韓日기업·대학함께AI인재육성하자\"",
+  "최태원\"AI대학,완전히다른설계필요…한·일AI인재공동육성\"",
+  "최태원\"AI시대,대학교육체계새로설계해야\"",
+  "최태원SK그룹회장,도쿄포럼2026서한일AI인재공동육성제안",
+  "최태원SK그룹회장\"韓日기업·대학함께AI인재육성하자\"",
+  "최태원\"韓·日기업·대학,함께AI인재육성하자\"",
+  "[CEO직썰]최태원SK그룹회장\"한일기업·대학,AI인재공동으로육..."
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-11-22T09:10:19.176633+09:00",
    "육성하자 의미는 일본 함께 회장 한국 AI인재"
+  ],
+  [
+   "2026-11-22T09:30:27.855749+09:00",
+   "시대 새로 대학 설계해야 교육체계 AI"
   ]
  ],
- "last_run": "2026-11-22T09:20:28.077324+09:00",
+ "last_run": "2026-11-22T09:30:39.046691+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
