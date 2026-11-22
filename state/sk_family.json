@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000080147",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247249",
-  "http://san.chosun.com/news/articleView.html?idxno=26280",
-  "https://www.slist.kr/news/articleView.html?idxno=779403",
-  "https://biz.sbs.co.kr/article_hub/20000344625?division=NAVER",
-  "https://www.ceoscoredaily.com/page/view/2026110511054249561",
-  "https://www.insight.co.kr/news/580864",
-  "https://www.newscj.com/news/articleView.html?idxno=3446402",
   "https://weekly.donga.com/3/all/11/6447922/1",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079833",
   "https://www.gokorea.kr/news/articleView.html?idxno=884330",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/photos/8226612",
   "https://www.news1.kr/photos/8226613",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=903930",
-  "https://www.news1.kr/photos/8226611"
+  "https://www.news1.kr/photos/8226611",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287111&CMPT_CD=P0010",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=125358",
+  "https://www.seoultimes.news/news/article.html?no=2000102510",
+  "http://www.4th.kr/news/articleView.html?idxno=2122394",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768819",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=320863",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086164",
+  "http://www.newsbrite.net/news/articleView.html?idxno=201665"
  ],
  "seen_titles": [
-  "최태원“2100조투자발표,이렇게해도되나생각”",
-  "최태원회장,서울대특강'AI시대,세계경제패러다임변화와대한민...",
-  "'쇼트트랙전설'최민정출전!ISU월드투어3차대회서울서개최",
-  "최태원\"2100조원투자할것,AI경쟁에선대규모투자필요\"",
-  "[오늘의주요일정·6일]최태원내연녀중국간첩설주장유튜버항소심...",
-  "산이좋아머문자리'K-마운틴'희망을품다[화제인물파타고니아영...",
-  "최태원\"2100조투자,나도정상인가싶었다…AI경쟁에베팅불가피\"",
-  "최태원\"증시롤러코스터계속…돈너무많이풀렸다\"",
   "최태원,SK글로벌AI투자직접챙긴다…13조실탄,‘HYAICO코퍼레이션...",
   "최태원\"반도체에돈한꺼번에몰렸다...롤러코스터장세계속\"",
   "[천지일보이슈종합]美중간선거민주당압승·한국경제파장·청해부...",
@@ -6001,7 +5993,15 @@
   "신한라이프,소비자권익보호위원회강화일환'외부위원'위촉",
   "최태원회장,도쿄포럼2026참석",
   "최태원회장,도쿄포럼2026발표",
-  "최태원\"한·일AI시대교육새로설계해인재양성해야\""
+  "최태원\"한·일AI시대교육새로설계해인재양성해야\"",
+  "쇼트트랙월드투어최민정,막판연속추월로1000m금",
+  "최태원\"AI시대한일기업·대학협력플랫폼구축하자\"",
+  "최태원SK회장\"AI시대,대학교육틀바꿔야\"…한일공동인재육성...",
+  "최태원\"한일기업·대학,AI인재함께키우자\"",
+  "최태원SK회장,한일AI인재양성협력제안…\"교육체계부터바꿔야\"",
+  "최태원SK회장\"한일기업·대학함께AI시대인재키워야\"",
+  "SK최태원\"한국·일본,기업·대학함께AI인재공동육성하자\"",
+  "최태원회장\"AI로어떤문제풀지는결국우리의선택\""
  ],
  "recent_sigs": [
   [
@@ -6039,9 +6039,13 @@
   [
    "2026-11-22T10:20:19.026156+09:00",
    "회장 도쿄포럼2026 참석"
+  ],
+  [
+   "2026-11-22T10:30:25.833454+09:00",
+   "어떤 선택 AI로 회장 문제 풀지는 우리의 결국"
   ]
  ],
- "last_run": "2026-11-22T10:20:35.520469+09:00",
+ "last_run": "2026-11-22T10:30:37.893935+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
