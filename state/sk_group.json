@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2028498",
-  "https://www.peoplewatch.co.kr/article/view/ppw202611200004",
-  "https://www.yna.co.kr/view/AKR20261120046000008?input=1195m",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=731739",
   "https://www.ddaily.co.kr/page/view/2026112009255886986",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=272073",
   "https://www.widedaily.com/news/articleView.html?idxno=304221",
@@ -2999,13 +2995,13 @@
   "https://www.jasm.co.kr/news/view/326085/?sc=Naver",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=237872",
   "https://www.sedaily.com/article/20117400",
-  "https://www.hankyung.com/article/2026112090556"
+  "https://www.hankyung.com/article/2026112090556",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=326934",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101755",
+  "https://view.asiae.co.kr/article/2026112014131808814",
+  "https://www.slist.kr/news/articleView.html?idxno=783839"
  ],
  "seen_titles": [
-  "[위클리오늘]코스피4900선출발···환율1330원대",
-  "앤트로픽쏠림에삼전닉스약세…삼성전기등'S7'도흔들",
-  "앤트로픽지분가치5조원평가에도…SK텔레콤8%급락[핫종목]",
-  "미증시하락마감여파에코스피5000하회출발[개장시황]",
   "코스피,美AI주급락에5000선하회…3%하락",
   "111만닉스·18만전자추락···美반도체주급락에'휘청'[특징주]",
   "코스피,美기술주급락여파에4900선후퇴···반도체주동반약세",
@@ -6001,7 +5997,11 @@
   "'물갈이'사라진대기업인사…'실적·기술인재'보상하고핀셋'쇄신'",
   "'일하는사람법'은'노무자법'이다",
   "연초수준으로돌아온코스피…1조클럽26곳줄고종목78%하락",
-  "\"집값격차줄었다?\"…서울'저가아파트'더비싸졌다[시장톡]"
+  "\"집값격차줄었다?\"…서울'저가아파트'더비싸졌다[시장톡]",
+  "전남광주통합특별시'테크플러스스테이지'로창업기업성장지원",
+  "[초점]대기업상생협력,돈풀기넘어기술·양산문턱낮춘다",
+  "IMM'장기보유'에어퍼스트,국내서이정표세우나[PE는지금]",
+  "CU,인터넷∙IPTV가입서비스개시....SK브로드밴드혜택"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,25 @@
   [
    "2026-11-23T06:41:11.446761+09:00",
    "집값 줄었다 격차 서울 비싸졌다 아파트 저가"
+  ],
+  [
+   "2026-11-23T06:51:12.842343+09:00",
+   "전남광주통합특별시 지원 스테이지 창업기업 테크플러스 성장"
+  ],
+  [
+   "2026-11-23T06:51:12.842343+09:00",
+   "양산 낮춘다 문턱 기술 상생협력 대기업 넘어 풀기"
+  ],
+  [
+   "2026-11-23T06:51:12.842343+09:00",
+   "에어퍼스트 장기보유 세우나 IMM 이정표 국내서"
+  ],
+  [
+   "2026-11-23T06:51:12.842343+09:00",
+   "혜택 CU 인터넷 서비스 가입 IPTV 개시 SK브로드밴드"
   ]
  ],
- "last_run": "2026-11-23T06:41:22.518242+09:00",
+ "last_run": "2026-11-23T06:51:26.226221+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
