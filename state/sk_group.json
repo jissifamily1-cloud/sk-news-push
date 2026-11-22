@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20261120/135058045/2",
-  "https://www.inthenews.co.kr/news/article.html?no=94759",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2382116",
-  "https://www.chosun.com/economy/real_estate/2026/11/20/FL5NOZW2XZAPHMT5D5W6ACDF2I/",
-  "https://www.chosun.com/economy/tech_it/2026/11/20/AQTJIYGFEJFJ5CYWP63F3FHC2Q/",
-  "https://www.donga.com/news/Economy/article/all/20261119/135055012/1",
   "https://www.chosun.com/economy/industry-company/2026/11/20/DICLQVVWAFCHPNKAAFKNKSBKYI/",
   "https://biz.chosun.com/stock/stock_general/2026/11/20/WZMFGOYDIFAWXHA5F4WE5YMDRU/",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=94873",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506728",
   "https://www.ngonews.kr/news/articleView.html?idxno=243842",
   "https://zdnet.co.kr/view/?no=20261122153419",
-  "https://www.kmib.co.kr/article/20261122500763"
+  "https://www.kmib.co.kr/article/20261122500763",
+  "https://www.thesportstimes.co.kr/news/articleView.html?idxno=377806",
+  "https://www.viva100.com/article/20261122500551",
+  "https://www.khan.co.kr/article/202611221547001",
+  "https://www.eroun.net/news/articleView.html?idxno=96169",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321363&inflow=N",
+  "http://www.jejunews.com/news/articleView.html?idxno=2228959"
  ],
  "seen_titles": [
-  "[관심주]미국원유재고급증소식에국제유가급락…에쓰오일·GS·SK...",
-  "[수출1조달러시대숨은주역]①불황에심은HBM‘결실’…삼전닉스...",
-  "”가진자가안하면누가해”…최신원회장의‘나눔’,한국자본주...",
-  "[美증시특징주]앤트로픽상장에도반도체'주르륵'…AMD중국우회수출...",
-  "앤트로픽흥행에5000피사수…AI투자심리돌아오나",
-  "수험생잡아라…이통3사‘AI구독·영화·여행’할인·경품쏜다",
   "채용시험까지번진'AI부정행위'우려…맥킨지·메타는어떻게",
   "2025년대기업내부거래841조…쿠팡16조로첫5위권진입[경제레이...",
   "'5천피'사수에도불안한코스피…연말까지는큰반등힘들다?",
@@ -6001,29 +5995,15 @@
   "파두16%대급락…AI데이터센터차세대인터페이스주동반숨고르기",
   "'폭풍의언덕'위코스피",
   "\"토큰값반값인데AI청구서는더커졌다\"",
-  "“코스피또떨어지나요”…‘블랙먼데이’공포,잠못드는개미들"
+  "“코스피또떨어지나요”…‘블랙먼데이’공포,잠못드는개미들",
+  "'원클럽맨'문승원,SSG잔류...2+1년총액15억원에FA계약",
+  "충북형마라톤축제,3000명과함께건강한질주",
+  "‘변화보다안정’삼성·LG·SK등주요그룹경영진유임하며기술인...",
+  "대구시,AI모의통화활용한보이스피싱예방교육나서",
+  "청와대내부'부글부글'에도…최교진사의에수능개편부터속도전",
+  "AI시대'휴먼'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-22T09:41:33.992975+09:00",
-   "데이터 통신업계 국가 교류 늘어난다 확보 속도 양자기술"
-  ],
-  [
-   "2026-11-22T09:41:33.992975+09:00",
-   "뒤흔드는 젠슨 경제안보 미국의 황이"
-  ],
-  [
-   "2026-11-22T09:41:33.992975+09:00",
-   "AI로 조건검색 낮춘다 차트 진입장벽 분석 SK증권 찾고 종목"
-  ],
-  [
-   "2026-11-22T09:41:33.992975+09:00",
-   "꺾였나 투자 된서리 HPSP 원익IPS 전공정주도 HBM 기대"
-  ],
-  [
-   "2026-11-22T09:41:33.992975+09:00",
-   "젠슨 황의 엔비디아의 있나 없이 AI 굴러갈 보증 순환금융"
-  ],
   [
    "2026-11-22T09:51:06.610234+09:00",
    "충북 성료 달린 3000명이 함께 마라톤 교육가족"
@@ -6435,9 +6415,17 @@
   [
    "2026-11-22T15:41:12.254047+09:00",
    "개미들 공포 잠못드는 떨어지나요 블랙먼데이 코스피"
+  ],
+  [
+   "2026-11-22T15:51:02.647385+09:00",
+   "최교진 사의에 내부 부글부글 청와대 속도전 개편부터 수능 에도"
+  ],
+  [
+   "2026-11-22T15:51:02.647385+09:00",
+   "AI 휴먼 시대"
   ]
  ],
- "last_run": "2026-11-22T15:41:28.506858+09:00",
+ "last_run": "2026-11-22T15:51:11.265510+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
