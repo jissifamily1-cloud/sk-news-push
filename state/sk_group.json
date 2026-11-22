@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112912345",
-  "http://www.osen.co.kr/article/G1112912344",
-  "http://www.osen.co.kr/article/G1112912338",
-  "http://www.osen.co.kr/article/G1112912336",
-  "http://www.osen.co.kr/article/G1112912337",
   "https://www.gukjenews.com/news/articleView.html?idxno=3757582",
   "https://www.gukjenews.com/news/articleView.html?idxno=3757229",
   "https://www.econovill.com/news/articleView.html?idxno=757876",
@@ -2999,14 +2994,14 @@
   "https://www.hankyung.com/article/2026112000726",
   "https://daily.hankooki.com/news/articleView.html?idxno=1427392",
   "https://www.m-i.kr/news/articleView.html?idxno=2021408",
-  "https://www.itbiznews.com/news/articleView.html?idxno=232388"
+  "https://www.itbiznews.com/news/articleView.html?idxno=232388",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=626873",
+  "https://www.meconomynews.com/news/articleView.html?idxno=203970",
+  "https://www.g-enews.com/view.php?ud=2026112213120818942bd56fbc3c_1",
+  "https://www.dongponews.net/news/articleView.html?idxno=61823",
+  "https://www.kado.net/news/articleView.html?idxno=2086304"
  ],
  "seen_titles": [
-  "[사진]김민지치어리더,신나는댄스",
-  "[사진]김진아치어리더,상큼발랄",
-  "[사진]김진아치어리더,브이브이",
-  "[사진]이금주치어리더,상큼발랄",
-  "[사진]이금주치어리더,귀엽게브이",
   "[사진]이금주치어리더,농구코트를더뜨겁게",
   "\"부전마산터널붕괴,사전검증없는공법이원인\"",
   "삼성전자·TSMC,중국향반도체공급일부중단",
@@ -6001,7 +5996,12 @@
   "\"中에AI반도체못판다고?다른곳이미줄섰다\"[노정동의어쩌다투...",
   "자바·PHP까지보안취약점…공공·민간보안관리촉각",
   "[기획]전력망깔고ESS늘리고…배터리·전선업계'기회'",
-  "SK최태원\"AI네이티브시대,대학교육재설계·거버넌스갖춰야\""
+  "SK최태원\"AI네이티브시대,대학교육재설계·거버넌스갖춰야\"",
+  "SSG,문승원과2+1년총액15억원FA계약…원클럽맨잔류",
+  "삼전인버스,지난주ETF수익률1위'12.88%'...1개월30%넘어",
+  "러시아폐차세벽에막힌현대차·기아,10월신차판매58%급감",
+  "[현장인터뷰]일본서'사랑의나눔'실천김운천회장...\"어디든홀씨처...",
+  "이대통령\"AI데이터센터는반도체주요수요처…정부차원전문인력고..."
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,21 @@
   [
    "2026-11-22T13:11:09.424285+09:00",
    "갖춰야 거버넌스 시대 최태원 교육 대학 재설계 AI네이티브"
+  ],
+  [
+   "2026-11-22T13:21:13.070447+09:00",
+   "현대차 폐차세 벽에 러시아 급감 판매 기아 10월 신차 막힌"
+  ],
+  [
+   "2026-11-22T13:21:13.070447+09:00",
+   "사랑의 김운천 회장 어디든 나눔 일본서 실천 홀씨처"
+  ],
+  [
+   "2026-11-22T13:21:13.070447+09:00",
+   "AI데이터센터는 대통령 정부 주요 반도체 수요처 차원 전문인력"
   ]
  ],
- "last_run": "2026-11-22T13:11:30.447600+09:00",
+ "last_run": "2026-11-22T13:21:24.230967+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
