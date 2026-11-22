@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20261105221536sDi",
-  "http://www.srtimes.kr/news/articleView.html?idxno=216867",
-  "https://www.ajunews.com/view/20261105212722443",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065617334968080",
-  "https://www.kado.net/news/articleView.html?idxno=2083059",
-  "https://magazine.hankyung.com/business/article/202611059503b",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1334257",
-  "https://www.nspna.com/news/?newsid=831872",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078735",
   "http://www.weeklytoday.com/news/articleView.html?idxno=798273",
   "https://www.newsis.com/view/NISX20261015_0003827554",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1104105",
@@ -2999,18 +2990,18 @@
   "https://www.slist.kr/news/articleView.html?idxno=783732",
   "https://mhnse.com/news/articleView.html?idxno=1705811",
   "http://www.econonews.co.kr/news/articleView.html?idxno=447511",
-  "https://www.dt.co.kr/article/12096446"
+  "https://www.dt.co.kr/article/12096446",
+  "https://www.yna.co.kr/view/AKR20261120155100005?input=1195m",
+  "https://www.nocutnews.co.kr/news/6610578",
+  "https://www.nc.press/news/articleView.html?idxno=631593",
+  "https://www.sidae.com/article/2026112208202829511",
+  "https://www.hani.co.kr/arti/society/religious/1288455.html",
+  "https://www.yna.co.kr/view/AKR20261121052000005?input=1195m",
+  "https://www.newsis.com/view/NISX20261120_0003876834",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=92440",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173391"
  ],
  "seen_titles": [
-  "[미리보는이데일리신문]美데이터센터절반제동…복병만난K칩",
-  "최태원,SK지분165만주처분…9440억원확보",
-  "최태원,美중간선거에\"증시롤러코스터계속\"",
-  "최태원SK회장,서울대특강서\"한국경제이중고…한·일연대및AI네...",
-  "[아주경제오늘의뉴스종합]대통령순방단명단유출...외교부\"외부업...",
-  "[CEO열전]\"한국혼자선버겁다\"…최태원,AI패권전쟁돌파구로'한일...",
-  "양구김장축제보조금집행내역의혹'도마'",
-  "미래에셋그룹,조직개편·임원인사단행…'AX리더십'대폭강화",
-  "DMZ서시베리아까지…생태·평화공존'국제학술의장'",
   "[만나보니]“여고가입시에불리하다고요?결과가증명합니다”",
   "경기도·통일부·에버트재단'DMZOPEN에코피스포럼'28일연다",
   "[위클리오늘]경기도,'편하G버스'필요한출퇴근노선도민에게직접...",
@@ -6001,7 +5992,16 @@
   "'월드투어3연패'최민정,'스피드퀸'첫회부터빙판맞대결",
   "최민정,예능서펼친압도적레이스…\"국가대표에이스의레이스를보...",
   "최태원회장\"한일기업·대학,AI인재공동육성프로그램만들자\"",
-  "최태원“AI방향이끌인재키워야…새거버넌스필요”"
+  "최태원“AI방향이끌인재키워야…새거버넌스필요”",
+  "[인사]연합뉴스",
+  "'女쇼트트랙만있나?'남자팀자존심세운신동민,시즌첫개인전金...",
+  "세계최강최민정과맞대결...'스피드퀸'첫회부터긴장감MAX",
+  "최태원회장\"한일기업·대학,AI인재공동육성하자\"",
+  "일제맞선‘조선교회의아버지’길선주…지하감옥서마주한120년발...",
+  "내년평양대부흥120주년…신앙으로민족위로한길선주목사",
+  "\"길선주'말세론',항일운동이어져…나라대통합바람\"",
+  "최태원\"AI네이티브사회,교육부터바꿔야…한일대학·기업인재양...",
+  "최태원SK회장\"한국·일본,AI인재함께육성하자\"...의미는?"
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-11-22T08:30:26.966791+09:00",
    "기업 AI인재 SK회장 공동플랫폼 대학 만들자 한일"
+  ],
+  [
+   "2026-11-22T09:10:19.176633+09:00",
+   "육성하자 의미는 일본 함께 회장 한국 AI인재"
   ]
  ],
- "last_run": "2026-11-22T09:00:50.015908+09:00",
+ "last_run": "2026-11-22T09:10:32.734811+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
