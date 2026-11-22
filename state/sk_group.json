@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/article/2026111915535938369",
-  "https://www.yna.co.kr/view/AKR20261120010751072?input=1195m",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=301873",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16281078",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261405",
   "https://www.topstarnews.net/news/articleView.html?idxno=16281084",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=885144",
   "https://www.newsis.com/view/NISX20261120_0003875991",
@@ -2999,14 +2994,14 @@
   "https://m.sports.naver.com/basketball/article/065/0000305110",
   "http://www.inews24.com/view/2028989",
   "https://www.fnnews.com/news/202611221833154024",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500097?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500097?wlog_tag3=naver",
+  "https://www.sportsworldi.com/newsView/20261122508265",
+  "https://www.segye.com/newsView/20261122508732?OutUrl=naver",
+  "https://www.bigtanews.co.kr/article/view/big202611220007",
+  "http://www.bizwnews.com/news/articleView.html?idxno=152533",
+  "https://www.edaily.co.kr/News/Read?newsId=01869606645648344&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "중국에발목잡힌AMD…하나마이크론·네패스수혜가능성주목",
-  "[글로벌마켓뷰]앤트로픽상장첫날'블랙홀쇼크'…뉴욕증시2%대급...",
-  "AI기업상장잔칫날뉴욕증시는급랭…국내반도체주도시험대",
-  "[경주·포항지진10년…인프라는안전한가](2)병원·청사·방송국,내...",
-  "[N2포커스]지구수십바퀴돈4대그룹총수…해외행보키워드는'AI...",
   "엔비디아3.3%하락하며6거래일연속약세이어가...시총격차,1위애플...",
   "[美증시]3대지수동반급락,앤트로픽상장이'악재'…대형기술주·반...",
   "‘앤트로픽쏠림’에AI주약세...다우,5개월만에5만선붕괴[데일리국...",
@@ -6001,29 +5996,14 @@
   "[KBL유소년]'두살위종별출전,4경기중3경기팀내최다득점'남다...",
   "삼성전자기부금203억↑·SK하이닉스120억↓…반도체호황에도차이",
   "이통망투자2위韓…미래기술은제자리[AI시대통신인프라고도화...",
-  "징벌적과징금에도민·관막론‘개인정보유출봇물’"
+  "징벌적과징금에도민·관막론‘개인정보유출봇물’",
+  "에버랜드서러닝·야구축제까지",
+  "“글로벌AI투자마중물기대”",
+  "[쇼츠뉴스]올해상승분모두반납한나스닥,어디로?",
+  "SK행복나눔재단,오는12월1일부터'SK뉴스쿨'2027년신입생모집",
+  "AI에메모리뺏긴세계…램마겟돈2028년까지간다"
  ],
  "recent_sigs": [
-  [
-   "2026-11-22T12:41:13.366170+09:00",
-   "CATL 넓힌다 글로벌 포스코 공급처 뚫었다"
-  ],
-  [
-   "2026-11-22T12:41:13.366170+09:00",
-   "주주환원 329조 하이닉스 곳간만 시대 삼성전자 열었 100조 현금"
-  ],
-  [
-   "2026-11-22T12:41:13.366170+09:00",
-   "밀어주는데 나라가 감소 짠손 181조 SK하이닉스의 기부는"
-  ],
-  [
-   "2026-11-22T12:41:13.366170+09:00",
-   "다음 변별 승자 투자 AI 때와 핵무기 같아 4인의 경쟁 전문가"
-  ],
-  [
-   "2026-11-22T12:41:13.366170+09:00",
-   "폭락장서 투자 짚은 메모리 블룸버그가 아니다 아직 삼전 정점"
-  ],
   [
    "2026-11-22T12:51:10.219021+09:00",
    "사랑 SK하이닉스 반도체 645억원 폭락장에서도 매수 고수들 고수의"
@@ -6631,9 +6611,17 @@
   [
    "2026-11-22T18:41:03.405564+09:00",
    "봇물 과징금에도 징벌적 막론 개인정보유출"
+  ],
+  [
+   "2026-11-22T18:51:06.113873+09:00",
+   "뉴스쿨 신입생 오는 1일부터 2027년 모집 12월 SK행복나눔재단"
+  ],
+  [
+   "2026-11-22T18:51:06.113873+09:00",
+   "AI에 2028년까지 뺏긴 세계 메모리 간다 램마겟돈"
   ]
  ],
- "last_run": "2026-11-22T18:41:08.926052+09:00",
+ "last_run": "2026-11-22T18:51:14.166617+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
