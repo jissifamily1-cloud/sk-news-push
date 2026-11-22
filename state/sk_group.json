@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://basketkorea.com/news/newsview.php?ncode=1065559154484963",
-  "https://www.ceoscoredaily.com/page/view/2026111915105368341",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181250263080109182",
-  "https://www.investchosun.com/site/data/html_dir/2026/11/19/2026111980075.html",
   "https://news.mtn.co.kr/article/2026111915535938369",
   "https://www.yna.co.kr/view/AKR20261120010751072?input=1195m",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=301873",
@@ -2999,13 +2995,13 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220060&t=NN",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1070883",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1070882",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101764"
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101764",
+  "https://m.sports.naver.com/basketball/article/065/0000305110",
+  "http://www.inews24.com/view/2028989",
+  "https://www.fnnews.com/news/202611221833154024",
+  "https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500097?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "하루늦게덮친엔비디아후폭풍…韓네오클라우드'급락'[종목+]",
-  "中전기차·배터리에209조원지원…日·유럽·美자국생산우대,韓은...",
-  "[서울데이터랩]미뉴욕증시급락마감…다우2.19%·나스닥2.25%하락",
-  "[기획]반도체영업이익률80%육박하는데철강은1%대…한국제조업수...",
   "중국에발목잡힌AMD…하나마이크론·네패스수혜가능성주목",
   "[글로벌마켓뷰]앤트로픽상장첫날'블랙홀쇼크'…뉴욕증시2%대급...",
   "AI기업상장잔칫날뉴욕증시는급랭…국내반도체주도시험대",
@@ -6001,7 +5997,11 @@
   "최태원\"AI시대,대학교육완전히바꿔야…한일인재공동육성\"",
   "[사설]울산AI센터,'인력·전력·규제'정부뒷받침더필요",
   "[사설]첫국가도시공원,울산의생태·역사서사로승부해야",
-  "개미,올해ETF84조원쓸어담았다…11월급락장에도'사자'"
+  "개미,올해ETF84조원쓸어담았다…11월급락장에도'사자'",
+  "[KBL유소년]'두살위종별출전,4경기중3경기팀내최다득점'남다...",
+  "삼성전자기부금203억↑·SK하이닉스120억↓…반도체호황에도차이",
+  "이통망투자2위韓…미래기술은제자리[AI시대통신인프라고도화...",
+  "징벌적과징금에도민·관막론‘개인정보유출봇물’"
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,13 @@
   [
    "2026-11-22T18:31:18.423472+09:00",
    "올해 쓸어담았다 ETF 11월 개미 사자 급락장에도 84조원"
+  ],
+  [
+   "2026-11-22T18:41:03.405564+09:00",
+   "봇물 과징금에도 징벌적 막론 개인정보유출"
   ]
  ],
- "last_run": "2026-11-22T18:31:29.275552+09:00",
+ "last_run": "2026-11-22T18:41:08.926052+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
