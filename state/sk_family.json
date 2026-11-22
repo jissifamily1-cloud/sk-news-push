@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=640254",
-  "https://www.hellot.net/news/article.html?no=115312",
-  "https://www.hellot.net/news/article.html?no=115304",
-  "https://www.viva100.com/article/20261006500983",
-  "https://www.thelec.kr/news/articleView.html?idxno=63275",
-  "https://www.aitimes.com/news/articleView.html?idxno=215996",
   "http://www.inews24.com/view/2012053",
   "https://www.ddaily.co.kr/page/view/2026100609313260712",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16426",
@@ -2999,15 +2993,15 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232279",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008498",
   "https://www.hankyung.com/article/2026112224821",
-  "https://www.dailian.co.kr/news/view/1718144/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1718144/?sc=Naver",
+  "https://www.hani.co.kr/arti/society/internalmove/1288530.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857875&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/sports/general-sport/6362093",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=211799",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362970",
+  "https://www.fnnews.com/news/202611221813481970"
  ],
  "seen_titles": [
-  "부경원예농협,‘춘란’디지털경매도입운영",
-  "부경원예농협,춘란산지경매'호응'",
-  "10일'ACTS:사도행전,베드로편'광화문무대오른다",
-  "재계사장단인사시즌돌입…안정지향소폭인사속'AX'키워드부상",
-  "SK,올해도10월인사유력…사장단인사폭·2년연속부회장승진여부...",
-  "[재계인사②]'예고편'공개한SK,반도체·AI중심재편···글로벌밀...",
   "헨켈,SEDEX2026참가…AI·HBM패키징소재기술공개",
   "헨켈,SEDEX2026서AI·HBM시대첨단패키징소재솔루션선보여",
   "헨켈,SEDEX2026서‘언더필·TIM’등첨단패키징소재솔루션공개",
@@ -6001,13 +5995,15 @@
   "쇼트트랙김길리,여자1500ｍ은메달…시즌첫개인전메달",
   "한일경제협력판키운다…최태원,AI인재공동육성제안",
   "최태원\"韓日기업·대학AI인재함께육성\"",
-  "[데일리안오늘뉴스종합]육·해·공군명맥끊긴다,한동훈외부활동..."
+  "[데일리안오늘뉴스종합]육·해·공군명맥끊긴다,한동훈외부활동...",
+  "11월23일인사",
+  "한국쇼트트랙,안방서남자5,000m계주우승…신동민2관왕등극",
+  "진짜태극마크반납?최민정\"내년월드투어,어떻게든돕겠다\"",
+  "최태원회장\"AI네이티브사회는AI를환경으로받아들이는것\"",
+  "최태원\"한일기업·대학손잡고AI인재키워야\"…교육혁신제안",
+  "최태원\"한·일AI인재함께키우자\""
  ],
  "recent_sigs": [
-  [
-   "2026-11-22T12:10:20.217399+09:00",
-   "반도체 AI 기대감 엔비디아 호실적에 현대차"
-  ],
   [
    "2026-11-22T12:40:21.871862+09:00",
    "감소 SK하이닉스의 181조 밀어주는데 짠손 나라가 기부는"
@@ -6041,7 +6037,7 @@
    "끊긴다 공군 명맥 한동훈 외부활동"
   ]
  ],
- "last_run": "2026-11-22T18:10:31.404420+09:00",
+ "last_run": "2026-11-22T18:20:29.652601+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
