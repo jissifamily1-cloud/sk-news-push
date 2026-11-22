@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreatimes.co.kr/path/A2026103010560001814",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=130700",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001385",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1427061",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81916",
-  "https://www.dailian.co.kr/news/view/1717295/?sc=Naver",
-  "https://www.newspim.com/news/view/20261118001077",
-  "https://www.ziksir.com/news/articleView.html?idxno=153957",
   "https://m.sports.naver.com/basketball/article/065/0000304961",
   "https://www.sportsseoul.com/news/read/1649761",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=132743",
@@ -2999,17 +2991,17 @@
   "https://www.busan.com/view/busan/view.php?code=2026112121243046618",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506749",
   "https://www.mk.co.kr/article/12215643",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885912"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885912",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=513753",
+  "https://www.mk.co.kr/article/12215685",
+  "http://www.inews24.com/view/2028982",
+  "https://www.hankyung.com/article/2026112224437",
+  "https://www.mk.co.kr/article/12215703",
+  "https://www.mk.co.kr/article/12215693",
+  "https://www.mk.co.kr/article/12215688",
+  "https://www.mk.co.kr/article/12215673"
  ],
  "seen_titles": [
-  "‘독주’한국반도체,1986년일본처럼?…“경제안보리스크자극”우...",
-  "\"역대최대실적냈는데공장멈췄다\"…마이크론대만발제동에숨죽인...",
-  "“스펙좋아도떨어진다”SK하닉前임원이밝힌합격비밀",
-  "워커힐더뷔페,리뉴얼3년간105만명방문…고객만족도93.8점",
-  "CheyTae-wonReinforcesSKhynixLeadershipasGroupPushesAIStrateg",
-  "워커힐더뷔페,리뉴얼3년간105만명방문…중식이용객15.2%증가",
-  "崔泰源为SKhynix补强战略与技术阵容，集团AI战略加速落地",
-  "SK그룹주요계열사사장단인사…AI·전력사업중심성장전략강화",
   "인사/SK하이닉스",
   "[인사]SK하이닉스",
   "SKT'5G과장광고'대법원심리개시···상고심대응역량시험대",
@@ -6001,17 +5993,17 @@
   "잘키운연구소imec,1조매출내고거대생태계만들었다[AI산업부울...",
   "앤트로픽상장효과어디까지…LGCNS·삼성SDS도수혜주로부상",
   "[기자24시]韓경제'개혁의시간'이왔다",
-  "대기업내부거래841조원…총수일가지분클수록내부거래비중높아"
+  "대기업내부거래841조원…총수일가지분클수록내부거래비중높아",
+  "미국증시폭락에‘블랙먼데이’우려…정부긴급대응나서",
+  "美증시투매에코스피도'벌벌'…\"월요일이두렵다\"",
+  "삼성물산'홈닉',한양건설'립스'에도입…주거서비스확대",
+  "글로벌반도체급락에'블랙먼데이'우려…정부,긴급F4회의소집",
+  "AI신화'파열음'…기로에선K반도체",
+  "\"AI쇼핑비서실수할라\"금융사머리맞댄다",
+  "D램값내년상승전망에도…데이터센터막히면급랭불가피",
+  "로봇이집앞까지택배배송…세종'미래도시1호'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-22T11:31:16.497255+09:00",
-   "대승 헤브에 핸드볼 거두고 리그 본선 벤피카가 유러피언리그 진출"
-  ],
-  [
-   "2026-11-22T11:31:16.497255+09:00",
-   "법적 HBM SK하이닉스 공장 해소되면서 탄력 리스크"
-  ],
   [
    "2026-11-22T11:51:01.917676+09:00",
    "도입 키우는 플랫폼 홈닉 주거 한양건설에도 삼성물산"
@@ -6539,9 +6531,25 @@
   [
    "2026-11-22T17:31:10.496049+09:00",
    "대기업 총수일가 비중 클수록 높아 841조원 지분 내부거래"
+  ],
+  [
+   "2026-11-22T17:41:13.565678+09:00",
+   "파열음 기로에 AI신화 K반도체"
+  ],
+  [
+   "2026-11-22T17:41:13.565678+09:00",
+   "실수할라 금융사 머리 AI쇼핑비서 맞댄다"
+  ],
+  [
+   "2026-11-22T17:41:13.565678+09:00",
+   "급랭 막히면 상승 D램값 전망에도 불가피 데이터센터 내년"
+  ],
+  [
+   "2026-11-22T17:41:13.565678+09:00",
+   "미래도시 로봇이 1호 집앞까지 배송 택배 세종"
   ]
  ],
- "last_run": "2026-11-22T17:31:37.035921+09:00",
+ "last_run": "2026-11-22T17:41:27.189212+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
