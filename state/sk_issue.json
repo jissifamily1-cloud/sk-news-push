@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20114666",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104575",
-  "https://www.news1.kr/society/court-prosecution/6354878",
-  "https://magazine.hankyung.com/business/article/202611094651b",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5231020",
-  "https://www.joongang.co.kr/article/25478904",
   "https://biz.heraldcorp.com/article/10938089",
   "https://www.newsis.com/view/NISX20261116_0003869173",
   "https://zdnet.co.kr/view/?no=20261116092155",
@@ -2999,15 +2993,15 @@
   "https://www.cstimes.com/news/articleView.html?idxno=729014",
   "https://www.etnews.com/20261123000449",
   "https://www.kado.net/news/articleView.html?idxno=2086620",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083796"
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083796",
+  "https://www.ibabynews.com/news/articleView.html?idxno=157213",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=259538",
+  "https://www.ytn.co.kr/_ln/0102_202611231614531897",
+  "https://www.nocutnews.co.kr/news/6611253",
+  "https://www.newsis.com/view/NISX20261123_0003879706",
+  "http://www.joseilbo.com/news/news_read.php?uid=580250&class=7"
  ],
  "seen_titles": [
-  "“군민·민심이바꾼신안,민주당은아직도선거중인가”…‘발목잡...",
-  "선관위보안자체평가100점·외부점검31.5점…특검압수수색",
-  "중수청,'이자장사의혹'명륜진사갈비본사·회장자택압수수색",
-  "[김보형의뷰파인더]‘30년M&A’승부수던진호반,조원태한진회장...",
-  "[속보]서울중수청,'대부업체부당지원'명륜당본사압수수색",
-  "[속보]서울중수청,‘대부업체부당지원’명륜당본사압수수색",
   "‘사면초가’삼성바이오로직스노조…‘사법·내부·명분’겹악재",
   "[속보]서울중수청,'이자장사의혹'명륜당본사압수수색",
   "[크립토하나]ETF자금이탈에비트코인약세…두나무합병심사촉각",
@@ -6001,7 +5995,13 @@
   "공정위,은행권불공정약관73개조항시정요청",
   "케이뱅크,자금세탁방지대통령표창",
   "투표용지발급기특정잉크만인식하도록개조혐의…외국계기업압색",
-  "[SK지오센트릭리스크]사망사고2건사법절차…담합조사에울산NCC재..."
+  "[SK지오센트릭리스크]사망사고2건사법절차…담합조사에울산NCC재...",
+  "[가전트렌드]휴롬,착즙기·블렌더결합한2in1건강가전‘헬시마스...",
+  "\"점주고발은피했지만\"…이종근명륜당회장,이자장사의혹수사",
+  "아동복업체더캐리,계약서늑장발급으로공정위제재",
+  "제주지게차무면허사망…고용노동부,물류업체특별점검",
+  "경찰,'AI커닝'세무사수석OMR확보…감독관도조사(종합)",
+  "국힘\"민주당,신천지당원최대4.3만명…수사해야\""
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "2건 NCC 사법절차 사망사고 조사에 담합 울산"
   ]
  ],
- "last_run": "2026-11-23T16:11:07.770384+09:00",
+ "last_run": "2026-11-23T16:21:02.904653+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
