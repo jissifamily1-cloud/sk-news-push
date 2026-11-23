@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=152846",
   "https://www.sisajournal.com/news/articleView.html?idxno=393563",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=258638",
   "https://www.hankyung.com/article/202611119564g",
@@ -2999,10 +2998,10 @@
   "https://www.segye.com/newsView/20261123515074?OutUrl=naver",
   "https://www.livebiz.today/news/articleView.html?idxno=206801",
   "https://www.jasm.co.kr/news/view/326233/?sc=Naver",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=768879"
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768879",
+  "https://www.edaily.co.kr/News/Read?newsId=01364486645649000&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "노재헌주중대사피의자입건…범죄수익은닉혐의",
   "최태원회장,SK그룹CEO세미나주재'AI전략'점검",
   "최태원,SKCEO소집…AI전략점검",
   "최윤정파라다이스그룹부회장,제27회메세나대상'메세나인상'수상",
@@ -6001,7 +6000,8 @@
   "‘포스트반도체’부상한AIDC…외연확장선순환구조만든다",
   "[재무제표이야기]'1조달러'로도살수없는SK하이닉스",
   "'젠슨황사태'타산지석?…'화해손길'내민최태원회장",
-  "[데이터&뉴스]SK하이닉스영업이익률76.7%1000대기업중'톱'…삼성전..."
+  "[데이터&뉴스]SK하이닉스영업이익률76.7%1000대기업중'톱'…삼성전...",
+  "[속보]젠슨황귀환에엔비디아31%·SK하닉20%↑…나스닥6.5%↑"
  ],
  "recent_sigs": [
   [
@@ -6023,9 +6023,13 @@
   [
    "2026-11-24T06:20:20.632180+09:00",
    "화해 사태 젠슨황 회장 손길 타산지석 내민"
+  ],
+  [
+   "2026-11-24T06:30:26.962637+09:00",
+   "귀환에 젠슨 SK하닉 엔비디아 나스닥"
   ]
  ],
- "last_run": "2026-11-24T06:20:35.358997+09:00",
+ "last_run": "2026-11-24T06:30:39.111482+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
