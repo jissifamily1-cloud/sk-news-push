@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/172510",
-  "https://www.catchnews.kr/news/articleView.html?idxno=130347",
-  "https://www.newsis.com/view/NISX20261111_0003863309",
-  "https://www.fnnews.com/news/202611110957131399",
-  "https://biz.heraldcorp.com/article/10933261",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268645",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000742",
   "http://www.srtimes.kr/news/articleView.html?idxno=217286",
   "https://www.gukjenews.com/news/articleView.html?idxno=3748605",
   "https://www.ziksir.com/news/articleView.html?idxno=152846",
@@ -2999,16 +2992,16 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724932",
   "http://www.jndn.com/article.php?aid=1787564027438361003",
   "https://www.newspim.com/news/view/20260824001186",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=741093"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=741093",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3748417",
+  "https://www.news1.kr/industry/general-industry/6363492",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076052",
+  "https://www.kukinews.com/article/view/kuk202608250119",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=904118",
+  "https://www.segye.com/newsView/20261123515074?OutUrl=naver",
+  "https://www.livebiz.today/news/articleView.html?idxno=206801"
  ],
  "seen_titles": [
-  "[N포커스]기업이키운한국문화예술…'메세나78억'의가치",
-  "[똑똑한유통]더본코리아,BKR,쿠팡,GS리테일,샘표,풀무원,일동후디...",
-  "SK새사장단첫집결…최태원,AI수익화·사업재편해법찾는다",
-  "엔비디아칩10조원치중국에?…젠슨황스캔들에‘깐부’한국도초...",
-  "'문화·예술에진심'파라다이스최윤정부회장'메세나인상'",
-  "[오늘의유통가]최윤정파라다이스부회장,메세나대상문체부장관상...",
-  "\"AI시너지·사업재편성과집중논의\"SK,최태원회장주재CEO세미나",
   "파라다이스그룹최윤정부회장,메세나대상문체부장관표창",
   "최윤정파라다이스부회장,문화예술후원공로메세나인상",
   "노재헌주중대사피의자입건…범죄수익은닉혐의",
@@ -6001,10 +5994,30 @@
   "[EBN오늘(18일)이슈종합]李대통령\"대미투자국익우선…부동산공...",
   "SK하이닉스,광주군공항방문…반도체투자구체화",
   "SK하이닉스경영진,광주군공항현장방문…반도체부지점검",
-  "SK하이닉스경영진,한달만에광주군공항다시찾았다"
+  "SK하이닉스경영진,한달만에광주군공항다시찾았다",
+  "사회복지공동모금회,아너소사이어티회원의날개최",
+  "한국재해동물구조협회출범,전문체계구축한다…\"ARA야할때\"",
+  "[SK인사전망]①지난해발탁한사장들지금은…연말앞둔SK인사판",
+  "SK하이닉스경영진광주군공항방문…반도체클러스터논의구체화",
+  "[출근길브리핑-11월24일]李대통령,국정원등6개부처개각·최태원...",
+  "‘포스트반도체’부상한AIDC…외연확장선순환구조만든다",
+  "[재무제표이야기]'1조달러'로도살수없는SK하이닉스"
  ],
- "recent_sigs": [],
- "last_run": "2026-11-24T06:00:49.204142+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-24T06:10:20.780661+09:00",
+   "AIDC 포스트 만든다 반도체 선순환 부상한 확장 외연 구조"
+  ],
+  [
+   "2026-11-24T06:10:20.780661+09:00",
+   "1조 로도 없는 달러 SK하이닉스"
+  ],
+  [
+   "2026-11-24T06:10:20.780661+09:00",
+   "국정원 대통령 부처 6개 개각"
+  ]
+ ],
+ "last_run": "2026-11-24T06:10:38.086917+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
