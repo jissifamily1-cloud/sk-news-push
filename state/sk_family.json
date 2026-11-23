@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3053005",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16465",
   "https://www.joongang.co.kr/article/25477478",
   "https://www.bzeronews.com/news/articleView.html?idxno=824053",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1105638",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20261123167000004?input=1195m",
   "https://news.jtbc.co.kr/article/NB12329425?influxDiv=NAVER",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561305",
-  "https://www.segye.com/newsView/20261123514915?OutUrl=naver"
+  "https://www.segye.com/newsView/20261123514915?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261123195917nfH",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232519"
  ],
  "seen_titles": [
-  "충남교육청'교육정책실효성도마'…IB교육단절·중복사업·예산낭비...",
-  "한양증권,홈페이지개편…RP·채권·연금저축정보확대",
   "롯데문화재단2026메세나대상대상…문화예술저변확대공로",
   "최태원SK그룹회장,'AI풀스택'으로글로벌판도바꾼다",
   "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(85)사회적가치창출...",
@@ -6001,7 +5999,9 @@
   "공소청,'노태우비자금의혹'노소영에공판전증인신문청구",
   "\"내실력인데\"고득점자문제풀이증명까지…허탈한청년들",
   "최태원“9440억다주겠다”…9년소송사실상끝",
-  "최태원,재산분할재상고심에‘화해권고’신청"
+  "최태원,재산분할재상고심에‘화해권고’신청",
+  "'투표율허위입력'선관위직원들구속기로…묵묵부답",
+  "최태원\"재산분할금9440억원내겠다\"…9년법적다툼끝나나"
  ],
  "recent_sigs": [
   [
@@ -6129,7 +6129,7 @@
    "노소영에 공판전 청구 노태우 공소청 증인신문 비자금 의혹"
   ]
  ],
- "last_run": "2026-11-23T20:00:44.377434+09:00",
+ "last_run": "2026-11-23T20:04:58.521761+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
