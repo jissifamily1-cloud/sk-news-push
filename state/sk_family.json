@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3746845",
-  "https://www.mk.co.kr/article/12200601",
-  "https://www.the-today.com/news/articleView.html?idxno=93343",
   "http://www.newsmaker.or.kr/news/articleView.html?idxno=185505",
   "https://www.ulsanpress.net/news/articleView.html?idxno=586470",
   "https://www.nocutnews.co.kr/news/6604338",
@@ -2999,12 +2996,12 @@
   "https://www.globalepic.co.kr/view.php?ud=20261123132622652548439a4874_29",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553723475",
   "http://www.mygoyang.com/news/articleView.html?idxno=91346",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41799"
+  "https://www.globale.co.kr/news/articleView.html?idxno=41799",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=195069",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8722",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261469"
  ],
  "seen_titles": [
-  "충남도의회,김세용후보'경영역량·도덕성'검증",
-  "SK하이닉스\"'피직스AI도코딩하듯…엔비디아와'바이브모델링'구상\"",
-  "증시급등락더이어질수도…최태원,과잉유동성·AI쏠림경고",
   "불륜에스파이의혹…반도체·AI업계,파장촉각",
   "최태원\"중간선거결과,반도체산업에부정적영향\"우려",
   "삼성컨콜,이런질문원했던게아닌데[취재수첩]",
@@ -6001,7 +5998,10 @@
   "삼성·SK·LG사장단인사키워드‘안정속변화’",
   "여전한\"최민정해줘\",올림픽金김길리는부진...韓여자쇼트트랙희...",
   "대화노인종합복지관,나눔과봉사에감사의마음전해",
-  "[산업pick]공정위,한화솔루션본사현장조사···태양광3사가격담합..."
+  "[산업pick]공정위,한화솔루션본사현장조사···태양광3사가격담합...",
+  "최태원SK회장,도쿄포럼서\"AI네이티브사회,교육·대학부터완전히...",
+  "SK텔레콤,AI시대미래인재상조명…'상상·연결·지혜·개성'",
+  "[재계]韓최태원日손정의가양대주주로?···SK하이닉스디커플링구..."
  ],
  "recent_sigs": [
   [
@@ -6047,9 +6047,17 @@
   [
    "2026-11-23T14:10:19.919805+09:00",
    "한화솔루션 본사 3사 공정위 담합 태양광 가격 현장조사"
+  ],
+  [
+   "2026-11-23T14:30:26.923243+09:00",
+   "조명 지혜 개성 시대 미래 SK텔레콤 연결 인재상 AI 상상"
+  ],
+  [
+   "2026-11-23T14:30:26.923243+09:00",
+   "디커플링 손정의가 양대주주로 SK하이닉스"
   ]
  ],
- "last_run": "2026-11-23T14:20:35.931354+09:00",
+ "last_run": "2026-11-23T14:30:42.878664+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
