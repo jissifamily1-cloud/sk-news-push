@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=258638",
-  "https://www.hankyung.com/article/202611119564g",
   "http://www.queen.co.kr/news/articleView.html?idxno=466128",
   "https://www.nongmin.com/article/20261111500103",
   "https://www.newdaily.co.kr/site/data/html/2026/11/11/2026111100109.html",
@@ -2999,11 +2997,11 @@
   "https://www.jasm.co.kr/news/view/326233/?sc=Naver",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=768879",
   "https://www.edaily.co.kr/News/Read?newsId=01364486645649000&mediaCodeNo=257",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6868009_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6868009_37012.html",
+  "https://biz.sbs.co.kr/article_hub/20000348352?division=NAVER",
+  "https://www.mk.co.kr/article/12216302"
  ],
  "seen_titles": [
-  "최태원,SKCEO소집…AI전략점검",
-  "최윤정파라다이스그룹부회장,제27회메세나대상'메세나인상'수상",
   "최종현경기도의원\"비화재보줄여실제화재대응력높여야\"",
   "SK그룹,최태원회장주재CEO세미나12일개최…내년AI전략·사업재...",
   "노재헌주중대사'노태우비자금은닉'피의자입건",
@@ -6001,7 +5999,9 @@
   "'젠슨황사태'타산지석?…'화해손길'내민최태원회장",
   "[데이터&뉴스]SK하이닉스영업이익률76.7%1000대기업중'톱'…삼성전...",
   "[속보]젠슨황귀환에엔비디아31%·SK하닉20%↑…나스닥6.5%↑",
-  "최태원\"9천440억내겠다\"‥'세기의이혼'끝내나"
+  "최태원\"9천440억내겠다\"‥'세기의이혼'끝내나",
+  "\"9440억원다주겠다\"최태원,노소영에화해권고신청…왜?",
+  "매경이전하는세상의지식(매-세-지,11월24일)"
  ],
  "recent_sigs": [
   [
@@ -6031,9 +6031,17 @@
   [
    "2026-11-24T07:00:35.445437+09:00",
    "9천440억 내겠다 세기의 끝내나 이혼"
+  ],
+  [
+   "2026-11-24T07:10:20.130884+09:00",
+   "신청 화해권고 주겠다 9440억원 노소영에"
+  ],
+  [
+   "2026-11-24T07:10:20.130884+09:00",
+   "11월 전하는 지식 매경이 세상의 24일"
   ]
  ],
- "last_run": "2026-11-24T07:00:45.757341+09:00",
+ "last_run": "2026-11-24T07:10:34.811896+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
