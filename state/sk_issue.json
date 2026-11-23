@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=579697&class=32",
-  "https://www.newspim.com/news/view/20261116000477",
-  "https://www.newsis.com/view/NISX20261116_0003869401",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847459&plink=ORI&cooper=NAVER",
   "http://enews.imbc.com/News/RetrieveNewsInfo/524980",
   "https://www.news1.kr/local/gyeonggi/6355011",
   "https://www.yna.co.kr/view/AKR20261116052400011?input=1195m",
@@ -2999,13 +2995,13 @@
   "https://www.ktv.go.kr/content/view?content_id=764420",
   "http://www.newswatch.kr/news/articleView.html?idxno=82025",
   "https://www.sedaily.com/article/20117933",
-  "http://www.queen.co.kr/news/articleView.html?idxno=466786"
+  "http://www.queen.co.kr/news/articleView.html?idxno=466786",
+  "https://www.dailian.co.kr/news/view/1718665/?sc=Naver",
+  "https://www.news1.kr/society/court-prosecution/6363259",
+  "https://www.hankyung.com/article/2026112350361",
+  "https://www.hankyung.com/article/2026112351437"
  ],
  "seen_titles": [
-  "굽네치킨창업주홍철호일가'사업권무상이전'의혹...공정위현장조...",
-  "중수청,'이자장사의혹'명륜진사갈비본사등압수수색",
-  "공소청'수원마약좀비'영상속30대에징역4년구형",
-  "'환자4명사망'인천정신병원…중수청고발건까지경찰이계속수사",
   "'불량연애2'앗슨,경찰체포됐다…1억3천만원압수[월드이슈M]",
   "거리서좀비처럼비틀댄'수원마약좀비'30대징역4년구형",
   "[연합뉴스이시각헤드라인]-10:30",
@@ -6001,7 +5997,11 @@
   "'은행마음대로서비스중단'제동···불공정약관시정",
   "통합대한항공앞두고…한진조원태'오너리스크'부상[민서하의재계...",
   "[단독]‘100억대횡령’금영엔터회장,UAE도피중검거…다음달중...",
-  "경찰,'AI커닝'세무사수석합격자답안지확보…시험감독관도참고..."
+  "경찰,'AI커닝'세무사수석합격자답안지확보…시험감독관도참고...",
+  "홍석기국수본부장\"리트만점자,공범있을경우강제수사가능\"",
+  "특검,'양평고속도로특혜의혹'국토부서기관에징역3년6개월구형",
+  "정신적태움에첫'상해혐의'…간호사등5명불구속송치",
+  "방송국난입해임원체포…튀르키예,언론탄압에대규모시위"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "2건 NCC 사법절차 사망사고 조사에 담합 울산"
   ]
  ],
- "last_run": "2026-11-23T18:01:12.058304+09:00",
+ "last_run": "2026-11-23T18:11:02.542777+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
