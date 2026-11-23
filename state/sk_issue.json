@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20261116103734YQb",
-  "https://www.etnews.com/20261116000157",
-  "https://www.segye.com/newsView/20261116504788?OutUrl=naver",
-  "https://www.chosun.com/national/court_law/2026/11/16/QKVVPGTTA5BBVAWZX5YG6WQVOQ/",
-  "https://imnews.imbc.com/news/2026/econo/article/6865938_36932.html",
-  "https://www.hankyung.com/article/202611168621i",
-  "https://www.etoday.co.kr/news/view/2648556",
-  "https://www.koit.co.kr/news/articleView.html?idxno=209925",
   "http://www.joseilbo.com/news/news_read.php?uid=579697&class=32",
   "https://www.newspim.com/news/view/20261116000477",
   "https://www.newsis.com/view/NISX20261116_0003869401",
@@ -2999,17 +2991,17 @@
   "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200198",
   "https://www.asiatime.co.kr/article/20261123500434",
   "https://daily.hankooki.com/news/articleView.html?idxno=1428087",
-  "https://www.mk.co.kr/article/12216390"
+  "https://www.mk.co.kr/article/12216390",
+  "https://www.ngetnews.com/news/articleView.html?idxno=556217",
+  "https://view.asiae.co.kr/article/2026112317541231925",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6944049",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287364&CMPT_CD=P0010",
+  "https://www.ktv.go.kr/content/view?content_id=764420",
+  "http://www.newswatch.kr/news/articleView.html?idxno=82025",
+  "https://www.sedaily.com/article/20117933",
+  "http://www.queen.co.kr/news/articleView.html?idxno=466786"
  ],
  "seen_titles": [
-  "BTS공연같은'바가지숙박'막는다…일방취소시총요금200%배상",
-  "[ET톡]공정위,가게배달퇴출부추기나",
-  "[속보]‘명륜진사갈비’명륜당압수수색…중수청첫기업강제수사",
-  "서울중수청,‘대부업체부당지원’명륜당본사등압수수색",
-  "BTS공연때처럼숙박예약일방취소안된다‥총요금200%배상",
-  "중수청,'대부업체부당지원'명륜진사갈비운영사압수수색",
-  "서울중수청,‘대부업체부당지원’명륜당압수수색…첫강제수사",
-  "EDA소프트웨어등20년입찰담합덜미",
   "굽네치킨창업주홍철호일가'사업권무상이전'의혹...공정위현장조...",
   "중수청,'이자장사의혹'명륜진사갈비본사등압수수색",
   "공소청'수원마약좀비'영상속30대에징역4년구형",
@@ -6001,7 +5993,15 @@
   "\"응급실서살려도중환자실이없다\"소아중환자진료체계확충촉구",
   "[은행뉴스브리핑]농협금융,농업인이자경감부터판로·생활지원확...",
   "케이뱅크,자금세탁방지대통령표창…AI활용금융범죄대응성과",
-  "'투표율허위입력'선관위직원8명구속심사"
+  "'투표율허위입력'선관위직원8명구속심사",
+  "공정위,OK금융계열사부당지원제재절차착수…\"위법확정아냐\"",
+  "공정위,소니'플스'한국유통사현장조사…불공정거래의혹",
+  "최윤회장측에부실채권저가매각의혹…공정위,OK금융심의",
+  "\"'16년김기문체제'로그들만의리그돼...혁신의골드타임\"",
+  "'은행마음대로서비스중단'제동···불공정약관시정",
+  "통합대한항공앞두고…한진조원태'오너리스크'부상[민서하의재계...",
+  "[단독]‘100억대횡령’금영엔터회장,UAE도피중검거…다음달중...",
+  "경찰,'AI커닝'세무사수석합격자답안지확보…시험감독관도참고..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "2건 NCC 사법절차 사망사고 조사에 담합 울산"
   ]
  ],
- "last_run": "2026-11-23T17:50:57.624130+09:00",
+ "last_run": "2026-11-23T18:01:12.058304+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
