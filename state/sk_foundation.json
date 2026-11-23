@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=349356",
   "https://www.farmnmarket.com/news/article.html?no=25467",
   "http://www.foodnews.co.kr/news/articleView.html?idxno=116965",
   "https://news.cpbc.co.kr/article/1169150?division=NAVER",
@@ -2999,10 +2998,10 @@
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=259553",
   "https://www.bzeronews.com/news/articleView.html?idxno=825702",
   "http://www.domin.co.kr/news/articleView.html?idxno=1576576",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1112921"
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1112921",
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=210013"
  ],
  "seen_titles": [
-  "티앤씨재단-ICG,\"차세대인재에게희망을\"...장학금전달식개최",
   "티앤씨재단,ICG와함께장학금전달\"차세대인재들에게희망의날개를...",
   "티앤씨재단,글로벌자산운용사ICG와함께장학금전달식",
   "[부산ㆍ경남대학브리핑모음(3월16일)]동의대RISE사업단-신선대감만...",
@@ -6001,10 +6000,11 @@
   "SK하이닉스,키옥시아간접최대주주됐다…최태원의'낸드제패'주목",
   "아이넷방송그룹박준희회장,임직원·로타리클럽300여명과김장나눔",
   "제30회전북교육대상…대상김병호,본상황병석·이금로,지도상임선...",
-  "KT&GR&D본부,유성구취약계층에2천700만원기탁"
+  "KT&GR&D본부,유성구취약계층에2천700만원기탁",
+  "SK최태원회장\"한국·일본의기업및대학,AI인재공동육성프로그램..."
  ],
  "recent_sigs": [],
- "last_run": "2026-11-23T20:10:42.422108+09:00",
+ "last_run": "2026-11-23T20:20:44.143291+09:00",
  "initialized": true,
  "press_names": {
   "econonews.co.kr": "이코노뉴스",
@@ -6203,6 +6203,7 @@
   "datanet.co.kr": "데이터넷",
   "thedailypost.kr": "데일리포스트",
   "efnews.co.kr": "파이낸셜신문",
-  "wikileaks-kr.org": "위키리크스한국"
+  "wikileaks-kr.org": "위키리크스한국",
+  "kdpress.co.kr": "데일리경제"
  }
 }
