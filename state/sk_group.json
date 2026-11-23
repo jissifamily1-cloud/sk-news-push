@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12329178?influxDiv=NAVER",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/21/2026112190058.html",
-  "https://www.mk.co.kr/article/12215253",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506593",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732249",
-  "https://www.newscj.com/news/articleView.html?idxno=3450885",
-  "http://www.inews24.com/view/2028880",
-  "http://www.inews24.com/view/2028879",
   "https://biz.sbs.co.kr/article_hub/20000347972?division=NAVER",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4119992",
   "https://www.kwnews.co.kr/article/20261121500078",
@@ -2999,17 +2991,17 @@
   "http://www.ttlnews.com/news/articleView.html?idxno=3165133",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859609&plink=ORI&cooper=NAVER",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=281969",
-  "https://www.khan.co.kr/article/202611232010015"
+  "https://www.khan.co.kr/article/202611232010015",
+  "https://vop.co.kr/A00001697710.html",
+  "https://zdnet.co.kr/view/?no=20261123202843",
+  "https://www.nocutnews.co.kr/news/6611410",
+  "https://theopiniontimes.news/%eb%8c%80%eb%a7%8c-%ec%a6%9d%ec%8b%9c-%eb%b0%98%eb%93%b1%ec%97%90-%ec%a4%91%ea%b5%ad-%ec%a6%9d%ec%8b%9c%eb%8f%84-%eb%8f%99%eb%b0%98-%ec%83%81%ec%8a%b9%ea%b0%99%ec%9d%80-%eb%82%a0-%ec%bd%94/",
+  "https://www.khan.co.kr/article/202611232026025",
+  "https://www.edaily.co.kr/News/Read?newsId=03683446645648672&mediaCodeNo=257",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284830",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281970"
  ],
  "seen_titles": [
-  "“손정의,1346조원에SK하이닉스인수구상…월가에자금조달안문의...",
-  "[속보]\"손정의,SK하이닉스1300조인수타진했었다\"",
-  "SK,울산서AI데이터센터15GW구상첫발…성패가를변수는",
-  "“울산AI데이터센터,글로벌투자마중물기대”…李대통령,균형발전...",
-  "이대통령,울산SKAI데이터센터방문…\"AI고속도로가AI대전환열것...",
-  "손정의,최근SK하이닉스인수검토",
-  "최태원“AI시대,대학시험·학위·운영방식부터다시설계해야”",
-  "SK하이닉스실적잔치가내수까지살릴까…장비·소재주확산효과주목",
   "공시대상기업집단매출'내부거래'35%…SK·LG'상표'사용료年2000억",
   "李대통령,울산AI데이터센터방문…\"세계경쟁은속도가생명\"",
   "고려아연배당은YPC로…영풍,자회사에금융자산매각",
@@ -6001,41 +5993,17 @@
   "SK에코플랜트,설계특화AI플랫폼'AXen'도입…설계자동화확대",
   "가슴졸인월요일,3%대급락…'증안펀드'효과볼까",
   "MicronIntensifiesSouthKoreaTalentHunt",
-  "‘황금세대’줄부상…농구월드컵아시아예선비상"
+  "‘황금세대’줄부상…농구월드컵아시아예선비상",
+  "SK렌터카,해외판로확대추진글로벌중고차플랫폼‘비포워드’와...",
+  "KISIA,중기1587곳에랜섬웨어대응솔루션무상제공",
+  "공소청,'노태우비자금'노소영에공판전증인신문청구",
+  "대만증시반등에중국증시도동반상승…같은날코스피는4,700선턱걸...",
+  "‘닷컴버블’재현인가,성장통인가…‘AI버블’논쟁재점화",
+  "‘185만닉스’경고했던애널리스트…이번엔목표가‘105만원’제시",
+  "9440억원이혼소송재산분할금“전액내겠다”마음바꾼최태원…대...",
+  "SamsungBetsonV9ChipsAmidNANDPriceSlump"
  ],
  "recent_sigs": [
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "SK이노베이션 배터리 변수 개선 정유 실적 재점검 약세"
-  ],
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "가족결합 킹비서 비교한다 쉽게 개편 할인 가족결합할인계산기"
-  ],
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "최태원 손정의가 양대주주로 SK하이닉스 디커플링"
-  ],
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "FTA 한중 훈풍에 강세 에이피알 화장품주"
-  ],
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "주차장 11월30일까지 통제 천안시민체육공원 전면 내년"
-  ],
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "500개 캄보디아 GS25 확대 10년 진출 매장"
-  ],
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "AI반도체 논의 공급망 정부 안정화 확대 협력 글로벌"
-  ],
-  [
-   "2026-11-23T14:21:11.349532+09:00",
-   "붕괴에 코스피 직격탄 사이드카까지 쇼크 반도체 4600선"
-  ],
   [
    "2026-11-23T14:31:25.449220+09:00",
    "무상 대응 1587개 KISIA 중소기업에 솔루션 랜섬웨어 제공"
@@ -7075,9 +7043,13 @@
   [
    "2026-11-23T20:21:06.990725+09:00",
    "아시아예선 줄부상 황금 세대 비상 농구월드컵"
+  ],
+  [
+   "2026-11-23T20:31:18.075762+09:00",
+   "on Amid Samsung NAND Bets V9 Slump Chips Price"
   ]
  ],
- "last_run": "2026-11-23T20:21:15.659284+09:00",
+ "last_run": "2026-11-23T20:31:23.918478+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
