@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.issuenbiz.com/news/articleView.html?idxno=81438",
-  "https://view.asiae.co.kr/article/2026111022560889890",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53745",
   "http://www.econotelling.com/news/articleView.html?idxno=21259",
   "https://www.apnews.kr/news/articleView.html?idxno=3053005",
@@ -2999,11 +2997,11 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720274",
   "https://www.imaeil.com/page/view/2026112316063077907",
   "http://www.yonhapnewstv.co.kr/news/MYH20261123193121fAG",
-  "https://www.ytn.co.kr/_ln/0103_202611231935086722"
+  "https://www.ytn.co.kr/_ln/0103_202611231935086722",
+  "https://www.yna.co.kr/view/AKR20261123167000004?input=1195m",
+  "https://news.jtbc.co.kr/article/NB12329425?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[김종석의리포트]‘노태우비자금의혹’노재헌연내소환방침",
-  "충남도의회교육위,교육행정전면검증…\"예산낭비·부실정책더는...",
   "충남도의회교육위원회,천안·아산교육현안집중점검",
   "충남도의회,교육청14개직속기관행정사무감사…초등학생의회체험운...",
   "충남교육청'교육정책실효성도마'…IB교육단절·중복사업·예산낭비...",
@@ -6001,7 +5999,9 @@
   "최태원“9,440억원전액지급”…‘화해권고’신청",
   "최태원,노소영에9천440억원전액지급의사…재판부에화해권고요청",
   "[이슈5]최태원\"9,440억다내겠다\"…화해권고신청外",
-  "'음주운전'배우고경표,오늘경찰소환...적용혐의는?[이슈플러스]"
+  "'음주운전'배우고경표,오늘경찰소환...적용혐의는?[이슈플러스]",
+  "공소청,'노태우비자금의혹'노소영에공판전증인신문청구",
+  "\"내실력인데\"고득점자문제풀이증명까지…허탈한청년들"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,13 @@
   [
    "2026-11-23T19:40:20.037717+09:00",
    "소환 적용 음주운전 배우 고경표 혐의는 경찰"
+  ],
+  [
+   "2026-11-23T19:50:20.172861+09:00",
+   "노소영에 공판전 청구 노태우 공소청 증인신문 비자금 의혹"
   ]
  ],
- "last_run": "2026-11-23T19:40:34.245997+09:00",
+ "last_run": "2026-11-23T19:50:33.748738+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
