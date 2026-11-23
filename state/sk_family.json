@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://sateconomy.co.kr/news/view/1065578282972167",
-  "https://www.socialvalue.kr/news/view/1065580509355441",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1023264",
   "https://www.munhwa.com/article/11630521",
   "https://www.yna.co.kr/view/AKR20261111092200030?input=1195m",
   "https://www.peoplewatch.co.kr/article/view/ppw202611110007",
@@ -2999,12 +2996,12 @@
   "https://kpenews.com/View.aspx?No=4326141",
   "https://www.betanews.net/article/view/beta202611240031",
   "https://www.edaily.co.kr/News/Read?newsId=01935206645649000&mediaCodeNo=257",
-  "https://www.bloter.net/news/articleView.html?idxno=679435"
+  "https://www.bloter.net/news/articleView.html?idxno=679435",
+  "https://www.joongangenews.com/news/articleView.html?idxno=566064",
+  "https://www.hankyung.com/article/2026112456346",
+  "http://kor.theasian.asia/archives/422884"
  ],
  "seen_titles": [
-  "'노태우후광'업고주중대사오른아들…결국피의자신분으로",
-  "파라다이스그룹최윤정메세나대상문체부장관표창,문화예술분야기...",
-  "최윤정파라다이스부회장,‘메세나대상’문체부장관상",
   "“대표이사2명구속중MBK와계약”…영풍,고려아연경영권계약승...",
   "[오늘의삼전닉스]AI인프라속도조절이되레'신의한수',\"메모리장...",
   "SK그룹,12~14일CEO세미나…HBM·AI데이터센터·에너지사업협력논의...",
@@ -6001,7 +5998,10 @@
   "젠슨황엔비디아CEO복귀..삼성·SK하이닉스,공급망불확실성덜었다",
   "젠슨황11일만에복귀…삼성전자·SK하이닉스,AI반도체성장세이어...",
   "'젠슨리스크'가드러낸AI증시의민낯…한사람에1조달러오갔다",
-  "[SK·키옥시아관계재편]①라이벌서최대주주로,8년동행전환점"
+  "[SK·키옥시아관계재편]①라이벌서최대주주로,8년동행전환점",
+  "엔비디아젠슨황복귀에삼성전자·SK하이닉스'안도'…HBM동맹불확실...",
+  "젠슨황복귀하루전16억베팅한SK하이닉스사장",
+  "[젠슨황의귀환?]워싱턴에빚진엔비디아…한국반도체,위기를기회..."
  ],
  "recent_sigs": [
   [
@@ -6071,9 +6071,17 @@
   [
    "2026-11-24T08:40:20.503720+09:00",
    "라이벌서 전환점 최대주주로 8년 동행"
+  ],
+  [
+   "2026-11-24T08:50:20.465916+09:00",
+   "복귀 하루 젠슨 베팅한 16억 SK하이닉스 사장"
+  ],
+  [
+   "2026-11-24T08:50:20.465916+09:00",
+   "엔비디아 워싱턴에 반도체 빚진 한국 기회 위기를"
   ]
  ],
- "last_run": "2026-11-24T08:40:33.580741+09:00",
+ "last_run": "2026-11-24T08:50:33.313942+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
