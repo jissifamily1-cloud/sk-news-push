@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000100134",
   "https://magazine.hankyung.com/business/article/202609218572b",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076133",
   "http://www.wsobi.com/news/articleView.html?idxno=318567",
@@ -2999,10 +2998,10 @@
   "https://www.busan.com/view/busan/view.php?code=2026112416302553718",
   "https://www.kwnews.co.kr/article/20261124501350",
   "https://www.news1.kr/local/gyeonggi/6364595",
-  "http://www.lkp.news/news/articleView.html?idxno=86436"
+  "http://www.lkp.news/news/articleView.html?idxno=86436",
+  "http://www.metroseoul.co.kr/article/20261124500562"
  ],
  "seen_titles": [
-  "건국대글로컬캠,충북산업'AI전환'거점구축",
   "건국대글로컬캠퍼스,2027학년도수시모집경쟁률충청권·비수도권사...",
   "IPARK현대산업개발,추석앞두고건설현장안전점검",
   "[건설소식]삼성물산건설부문·대우건설·호반그룹·현대건설·GS건설·...",
@@ -6001,7 +6000,8 @@
   "부산과기대,부경원예농업협동조합과산학협력·취업활성화협약",
   "[동정]강원특별자치도의회",
   "경기도인권예산대폭삭감…도의회\"인권행정가능하겠나\"",
-  "젠슨황복귀소식에SK하이닉스주가반등...최태원회장과쌓은협력..."
+  "젠슨황복귀소식에SK하이닉스주가반등...최태원회장과쌓은협력...",
+  "노소영재산분할금9440억원…세금은?[영상PICK]"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-11-24T16:20:22.337729+09:00",
    "SK하이닉스 하루 젠슨황 자사주 만에 복귀 사자마자 사장 2억원"
+  ],
+  [
+   "2026-11-24T17:00:33.985391+09:00",
+   "재산분할금 9440억원 세금은"
   ]
  ],
- "last_run": "2026-11-24T16:50:31.526133+09:00",
+ "last_run": "2026-11-24T17:00:46.821085+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
