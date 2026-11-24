@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277332",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=600571",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724907",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=276487",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=49082",
@@ -2999,11 +2997,11 @@
   "https://www.newscj.com/news/articleView.html?idxno=3451751",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261125010009560",
   "https://sports.donga.com/region/article/all/20261124/135083180/1",
-  "http://www.beyondpost.co.kr/view.php?ud=2026112418413656534c878f8fa1_30"
+  "http://www.beyondpost.co.kr/view.php?ud=2026112418413656534c878f8fa1_30",
+  "http://www.yonhapnewstv.co.kr/news/MYH202611241851321k5",
+  "https://www.kmib.co.kr/article/20261124502024"
  ],
  "seen_titles": [
-  "내외부적으로'시끌시끌'SK하이닉스의'수상한움직임'",
-  "[기획]AI에역량모으는SK·LG…사람·사업까지움직인다",
   "[더벨]퇴임앞둔최태원대한상의회장의키워드'사회적가치'",
   "최태원\"한미동맹은사람과사람사이의약속⋯기업도행동할책임\"",
   "SK부회장3人하이닉스에동반합류",
@@ -6001,7 +5999,9 @@
   "[김기자의한컷]손높이들었던젠슨황…11일만에다시잡은엔비디...",
   "젠슨황귀환에힘받는K반도체…삼성·SK,AI동맹탄력기대",
   "용인시의회,도서관·문화체육관광사업‘전반집중’점검",
-  "용인시의회,반도체산단상생부터시민생활안전까지집중점검···행..."
+  "용인시의회,반도체산단상생부터시민생활안전까지집중점검···행...",
+  "노소영,'비자금의혹'증인불출석‥과태료100만원",
+  "AI생태계동력얻었지만…트럼프의구명운동이‘독’될수도"
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,13 @@
   [
    "2026-11-24T18:10:19.578306+09:00",
    "젠슨 높이 들었던 잡은 엔비디 11일 다시 만에"
+  ],
+  [
+   "2026-11-24T19:00:32.263943+09:00",
+   "AI 동력 트럼프의 생태계 얻었지만 수도 구명 운동이"
   ]
  ],
- "last_run": "2026-11-24T18:50:29.223073+09:00",
+ "last_run": "2026-11-24T19:00:44.736851+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
