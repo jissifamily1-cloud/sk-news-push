@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=209669",
-  "https://www.sentv.co.kr/article/view/sentv202611230161",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=425236",
-  "https://www.newscj.com/news/articleView.html?idxno=3451304",
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91941",
-  "https://www.newsway.co.kr/news/view?ud=2026112311122039821",
   "https://www.ajunews.com/view/20261123133157986",
   "https://view.asiae.co.kr/article/2026112314444350775",
   "https://biz.sbs.co.kr/article_hub/20000348203?division=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.chosun.com/economy/tech_it/2026/11/24/YA6W5U6NHJAK5JRPGEQKF55NBE/",
   "https://biz.chosun.com/it-science/ict/2026/11/25/RMT7DDYKTZBK7GYNAJVYQKDONU/",
   "https://www.imaeil.com/page/view/2026112416215814468",
-  "https://www.sedaily.com/article/20118515"
+  "https://www.sedaily.com/article/20118515",
+  "https://www.hani.co.kr/arti/economy/marketing/1288382.html",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=81063",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768966",
+  "https://www.seoul.co.kr/news/economy/2026/11/25/20261125500004?wlog_tag3=naver",
+  "https://www.news2day.co.kr/article/20261124500035",
+  "https://www.nocutnews.co.kr/news/6612118"
  ],
  "seen_titles": [
-  "[피플H]코스피1만5000vs반도체폭락…엇갈린두닥터둠전망",
-  "“HBM·D램만살아남는다”⋯내년2분기‘낸드보릿고개’예고",
-  "SG,박창호회장'제12회중견기업인의날'산업포장수상",
-  "KISIA,랜섬웨어위협공동대응위한제8차민관학협의체개최",
-  "SG박창호회장,중견기업인의날산업포장…친환경아스콘공로",
-  "코스피시총,10개월만에3000조원대로축소···삼전·닉스쏠림은심...",
   "이형일\"반도체호황내년에도지속…올해3%대후반성장가능\"",
   "로밍없어도7개국혜택…LG유플러스'원더조이'정식출시",
   "엔비디아AI금융지원재점검…K반도체충격파대비해야",
@@ -6001,7 +5995,13 @@
   "내년몸값2배넘게뛴다...빅테크참전에요동치는HBM패권",
   "[단독]알뜰폰협회,과기정통부에대기업계열사전파사용료45%감면요...",
   "[단독]'선대뿌리대구'인연잇는손정의…지난달대구도동조상묘소...",
-  "“삼전닉스지금이저점?”…증시대기자금85조로꿈틀[코주부]"
+  "“삼전닉스지금이저점?”…증시대기자금85조로꿈틀[코주부]",
+  "SK하이닉스,키오시아지분14.1%확보…전환사채주식전환",
+  "[숏폼]같은목표,다른전략…제약바이오4社의글로벌승부수",
+  "금융사해킹피해전액보상한다지만실제배상은'0'...피해사실직접...",
+  "[서울데이터랩]다우는오르고나스닥은급락…반도체주약세에뉴욕증...",
+  "[N2모닝경제브리핑-11월25일]美증시,엔비디아발랠리하루만에...",
+  "젠슨황복귀에'불기둥'…AI에울고웃는코스피"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,25 @@
   [
    "2026-11-25T06:11:04.325436+09:00",
    "삼전닉스 저점 꿈틀 증시 85조로 지금이 대기자금"
+  ],
+  [
+   "2026-11-25T06:21:17.316770+09:00",
+   "직접 피해 금융사 사실 전액 해킹 보상한다지만 배상은 실제"
+  ],
+  [
+   "2026-11-25T06:21:17.316770+09:00",
+   "반도체주 급락 약세에 오르고 다우는 뉴욕증 나스닥은"
+  ],
+  [
+   "2026-11-25T06:21:17.316770+09:00",
+   "증시 만에 엔비디아발 랠리 하루"
+  ],
+  [
+   "2026-11-25T06:21:17.316770+09:00",
+   "웃는 울고 불기둥 코스피 AI에 복귀에 젠슨"
   ]
  ],
- "last_run": "2026-11-25T06:12:06.457221+09:00",
+ "last_run": "2026-11-25T06:21:30.941895+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
