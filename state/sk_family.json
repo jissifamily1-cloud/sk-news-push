@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20112967",
-  "https://www.kmaeil.com/news/articleView.html?idxno=657822",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113645",
-  "https://www.busan.com/view/busan/view.php?code=2026111114310172540",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=229218",
   "https://www.yna.co.kr/view/AKR20261111118700062?input=1195m",
   "https://www.topdaily.kr/articles/112833",
@@ -2999,13 +2995,13 @@
   "http://www.joseilbo.com/news/news_read.php?uid=580302&class=32",
   "https://www.sedaily.com/article/20118114",
   "https://kpenews.com/View.aspx?No=4326382",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=131068"
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=131068",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=370434",
+  "http://www.00news.co.kr/news/articleView.html?idxno=108297",
+  "https://www.cwn.kr/news/articleView.html?idxno=62420",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627259"
  ],
  "seen_titles": [
-  "경기도의회,한세대와'교육협력업무협약'",
-  "'비자금'판도라열리나...노재헌주중대사피의자입건,노태우일가...",
-  "SK그룹,최태원회장주재2박3일'AI끝장토론'진행…12일부터CEO세...",
-  "최종현경기도의원\"반복적인비화재보줄여소방력효율성높여야\"",
   "최태원,CEO세미나서'AI시너지'해법찾는다",
   "파라다이스최윤정부회장,‘메세나인상’수상",
   "경기도의회,한세대와AI의정교육·학술교류협약…대학원장학금도...",
@@ -6001,7 +5997,11 @@
   "공소청,'노태우비자금의혹'관련노소영공판전증인신문청구",
   "돌아온젠슨황…서명한박현주,침묵한‘깐부’들",
   "[데스크칼럼]SK최태원의지지불태(知止不殆),9440억화해제안이주주...",
-  "'깐부'젠슨황돌아왔다…삼전닉스HBM공급망흔들림없었던이유"
+  "'깐부'젠슨황돌아왔다…삼전닉스HBM공급망흔들림없었던이유",
+  "\"법적으로허용돼도현장은삐걱\"…AI데이터규제병목수술론부상",
+  "젠슨황'깜짝'귀환에되살아난AI투심",
+  "젠슨황복귀에삼성전자·SK하이닉스'안도'...HBM사업불확실성급감",
+  "최태원\"재산분할금9440억원모두내겠다\"…이혼소송종결되나"
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,13 @@
   [
    "2026-11-24T10:20:20.682558+09:00",
    "급반등 만에 젠슨황 복귀 CEO 11일 뉴욕증시"
+  ],
+  [
+   "2026-11-24T10:40:19.430031+09:00",
+   "내겠다 이혼소송 9440억원 종결되나 모두 재산분할금"
   ]
  ],
- "last_run": "2026-11-24T10:30:38.200791+09:00",
+ "last_run": "2026-11-24T10:40:30.119749+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
