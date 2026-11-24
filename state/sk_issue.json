@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20261116500283",
-  "https://www.sedaily.com/article/20114979",
-  "https://www.edaily.co.kr/News/Read?newsId=02919206645646376&mediaCodeNo=257",
-  "http://www.ggmedinews.com/news/articleView.html?idxno=7039",
-  "https://www.sedaily.com/article/20114982",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=883787",
-  "http://www.fins.co.kr/news/articleView.html?idxno=110575",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=514314",
   "https://www.econovill.com/news/articleView.html?idxno=757424",
   "https://sports.hankooki.com/news/articleView.html?idxno=6943688",
@@ -2999,16 +2992,16 @@
   "https://www.mt.co.kr/society/2026/11/24/2026112409040161188",
   "https://www.ajunews.com/view/20261124161259844",
   "https://www.tenasia.co.kr/article/2026112473794",
-  "https://www.kyeonggi.com/article/20261124580380"
+  "https://www.kyeonggi.com/article/20261124580380",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452789",
+  "https://www.joongangenews.com/news/articleView.html?idxno=566272",
+  "https://www.lawleader.co.kr/news/articleView.html?idxno=20488",
+  "https://www.busan.com/view/busan/view.php?code=2026112416275857013",
+  "http://www.srtimes.kr/news/articleView.html?idxno=218488",
+  "https://www.jbnews.com/news/articleView.html?idxno=1516824",
+  "https://www.joongang.co.kr/article/25481546"
  ],
  "seen_titles": [
-  "공정위,숙박예약일방취소땐200%배상…렌털수리기준도손본다",
-  "공정위과징금에도국고채10년물입찰호조…2조2000억전액소화",
-  "팔로워80만명넷플릭스女출연자…무허가유흥업소운영하다체포",
-  "\"일방적수사가이드라인중단하라\"…의료계참여공식협의체구성촉...",
-  "‘허위사실공표’차석호함안군수공직선거법위반혐의로송치",
-  "카카오게임즈,미투온인수절차연기...공정위심사지연",
-  "대리기사보험중복가입부담줄인다…카카오·티맵개선추진",
   "공정위,굽네치킨납품사업부당지원의혹들여다본다…오너일가얽혔...",
   "\"내가무릎을꿇은것은추진력을얻기위함이다\"두나무,3분기적자전...",
   "'일감몰아주기'의혹굽네치킨오너일가…자녀회사매출73배급증",
@@ -6001,10 +5994,17 @@
   "'합격률98%'믿고100만원썼는데…취준생울리는고액컨설팅",
   "경찰,'30억주식명의신탁·재산누락의혹'강은희대구시교육감공소...",
   "'무단결근'송민호,결국102일추가복무한다…이달말재소집",
-  "노소영,'노태우비자금'증인신문또불출석…과태료100만원"
+  "노소영,'노태우비자금'증인신문또불출석…과태료100만원",
+  "당정'ESG공시의무화'연내입법추진,국회심사재개에적용범위·...",
+  "1.6조과징금에증권사'성과급잔치'끝나나…CEO도직원도비상",
+  "황문규교수\"공소청수사인력,다시계산해경찰로이관해야\"",
+  "김병기차남채용한빗썸,대표등3명뇌물공여혐의송치",
+  "삼성물산수장교체…포스코이앤씨·IPARK현산대표연임'촉각'",
+  "\"환경미화원사망책임물어야\"…시민3천570명이장섭시장처벌촉구",
+  "노소영,부친비자금의혹증인신문불출석…法,과태료100만원부과"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-24T16:31:08.853453+09:00",
+ "last_run": "2026-11-24T16:40:57.190693+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
