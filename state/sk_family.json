@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=397636",
-  "https://www.naeil.com/news/read/608429",
-  "https://www.m-i.kr/news/articleView.html?idxno=2017111",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/524413",
-  "https://magazine.hankyung.com/business/article/202611110064b",
   "http://www.segyebiz.com/newsView/20261111509769?OutUrl=naver",
   "https://www.dt.co.kr/article/12094527",
   "https://view.asiae.co.kr/article/2026111114000666235",
@@ -2999,14 +2994,14 @@
   "https://www.ekn.kr/web/view.php?key=20261124026563721",
   "https://www.edaily.co.kr/News/Read?newsId=02086086645649000&mediaCodeNo=257",
   "http://enews.imbc.com/News/RetrieveNewsInfo/525790",
-  "https://www.etoday.co.kr/news/view/2652050"
+  "https://www.etoday.co.kr/news/view/2652050",
+  "https://www.joongangenews.com/news/articleView.html?idxno=566103",
+  "http://www.starnewsk.com/news/articleView.html?idxno=61320",
+  "https://news.tf.co.kr/read/economy/2392513.htm",
+  "https://www.newsis.com/view/NISX20261124_0003880246",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717625"
  ],
  "seen_titles": [
-  "대표2명구속된영풍,MBK에3160억대여까지…누가결정했나",
-  "최태원,SKCEO세미나주재…내년AI사업·리밸런싱성과점검",
-  "[현장]울릉섬마을초교의특별한하루...“아이들은꿈꾸고,마을은...",
-  "하리무,'라디오스타'서장한나SNS컨설팅·K팝안무비하인드공개",
-  "'라디오스타'하리무,장한나SNS컨설팅…MZ감성코칭",
   "한국독일가곡연구회,창립50주년기념음악회개최…후고볼프《이탈...",
   "노재헌주중대사‘노태우비자금’은닉혐의입건",
   "최태원주재SK그룹CEO세미나…AI·사업재편·한일협력집중논의",
@@ -6001,7 +5996,12 @@
   "11일만에돌아온젠슨황…삼전닉스‘HBM동맹’숨통",
   "돌아온젠슨황,진짜시험대는이제부터",
   "진성,알고보니홈쇼핑'완판남'이었다…\"판매량50만개\"(라스)",
-  "한국펜싱,13년연속세계랭킹1위상수상…아시아유일"
+  "한국펜싱,13년연속세계랭킹1위상수상…아시아유일",
+  "공소청,'노태우일가비자금의혹'노소영공판전증인신문청구",
+  "韓여자펜싱단체,국제연맹총회서1위수상...13년연속쾌거",
+  "'돌아온깐부'젠슨황…엔비디아11일동안무엇이달라졌나",
+  "젠슨황복귀에엔비디아경영불확실성완화…삼전·닉스,HBM협력'청...",
+  "한숨돌린韓반도체공급망...젠슨황복귀로엔비디아협력공백해소"
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-11-24T09:20:20.561576+09:00",
    "돌아온 젠슨 이제부터 진짜 시험대는"
+  ],
+  [
+   "2026-11-24T09:50:19.385420+09:00",
+   "증인신문 공판 노태우 청구 비자금 의혹 공소청 일가"
   ]
  ],
- "last_run": "2026-11-24T09:40:28.256599+09:00",
+ "last_run": "2026-11-24T09:50:31.499427+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
