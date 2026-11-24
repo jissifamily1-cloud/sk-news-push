@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260701234800013?input=1196m",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=49366",
   "https://www.newsis.com/view/NISX20260701_0003692244",
   "http://www.popcornnews.net/news/articleView.html?idxno=125367",
@@ -2999,10 +2998,10 @@
   "https://www.kyosu.net/news/articleView.html?idxno=212838",
   "https://www.newsis.com/view/NISX20261124_0003881037",
   "http://www.newsprime.co.kr/news/article.html?no=756279",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=306001"
+  "https://www.todayenergy.kr/news/articleView.html?idxno=306001",
+  "https://www.newspenguin.com/news/articleView.html?idxno=22484"
  ],
  "seen_titles": [
-  "최태원SK회장\"AI시대엔정답보다좋은질문이경쟁력\"",
   "2026년한국교육재단최태원이사장과장학생의대화",
   "최태원SK회장의AI시대인재상...\"정답아는사람보다질문던지는사...",
   "발언하는최태원회장",
@@ -6001,10 +6000,11 @@
   "\"AI·고등교육잘아는'교육부장관'뽑아야\"…대학총장과교수들\"AI시...",
   "[교육소식]경북대한·튀르키예공동연구등",
   "[카드]에스와이행복나눔재단,수원권선2동에1400만원기탁",
-  "에스와이행복나눔재단,권선2동에1400만원기탁"
+  "에스와이행복나눔재단,권선2동에1400만원기탁",
+  "50년전\"땅장사안한다\"며민둥산산기업...지금은?"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-24T15:23:27.723446+09:00",
+ "last_run": "2026-11-24T15:31:04.158175+09:00",
  "initialized": true,
  "press_names": {
   "econonews.co.kr": "이코노뉴스",
@@ -6204,6 +6204,7 @@
   "thedailypost.kr": "데일리포스트",
   "efnews.co.kr": "파이낸셜신문",
   "wikileaks-kr.org": "위키리크스한국",
-  "kdpress.co.kr": "데일리경제"
+  "kdpress.co.kr": "데일리경제",
+  "newspenguin.com": "뉴스펭귄"
  }
 }
