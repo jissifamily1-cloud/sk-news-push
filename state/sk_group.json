@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02148406645648672&mediaCodeNo=257",
-  "https://www.widedaily.com/news/articleView.html?idxno=304439",
-  "https://www.sedaily.com/article/20117685",
-  "https://www.edaily.co.kr/News/Read?newsId=02151686645648672&mediaCodeNo=257",
   "https://www.ngonews.kr/news/articleView.html?idxno=243909",
   "https://biz.heraldcorp.com/article/10946039",
   "https://www.mtnews.net/news/articleView.html?idxno=26628",
@@ -2999,13 +2995,13 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=803111",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507640",
   "https://www.sedaily.com/article/20118508",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=803175"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=803175",
+  "https://www.ibabynews.com/news/articleView.html?idxno=157261",
+  "https://www.todayeconomic.com/news/article.html?no=32975",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1195292",
+  "https://www.jbnews.com/news/articleView.html?idxno=1516850"
  ],
  "seen_titles": [
-  "“코스피급락,美증시와연동된측면”…靑,증안펀드대책예고",
-  "[食전食후]코스피4.88%폭락에4600선마저위태…개인·외인순매도",
-  "\"재판안받으십니까!\"시장둘러보던대통령에외친人",
-  "SK바이오팜,美뇌전증학회서'세노바메이트'신규연구10편공개…적응...",
   "급락장속‘고수’는삼전·닉스팔고셀트리온·삼성SDS담았다[주식...",
   "SK에코플랜트,설계전과정에AI접목…업무혁신속도",
   "국내증시패닉장세…코스닥연중최저치경신,코스피4,600선까지추락",
@@ -6001,25 +5997,13 @@
   "[위클리오늘]이동통신소식_KT,SK텔레콤(11.24)",
   "하나증권\"SK텔레콤연말까지보유\"…12월통신주투자매력높게평가",
   "“내개인정보털릴라”다이소서품절된뜻밖의수첩…2030까지몰렸다...",
-  "[금융권소식]IBK기업은행ㆍBNK부산은행ㆍiM뱅크(11.24)"
+  "[금융권소식]IBK기업은행ㆍBNK부산은행ㆍiM뱅크(11.24)",
+  "[AI트렌드]피플에듀,신안하의초서AI꿈동화책교육…학생20명참...",
+  "SK텔레콤‘AI케어’,시슐랭스타10선선정…산업통상부장관상",
+  "대전경찰범죄피해자보호·지원협력체계강화",
+  "반도체패키징인력양성거점'호서대학교'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-24T13:11:00.890612+09:00",
-   "돕겠다 엑스코프리로 환자들의 잃어버린 동아ST 되찾도록 일상을"
-  ],
-  [
-   "2026-11-24T13:11:00.890612+09:00",
-   "선점 조기 혁신 기술 빅파마 특허절벽 제약바이오 앞둔"
-  ],
-  [
-   "2026-11-24T13:11:00.890612+09:00",
-   "신한알파 리츠 브랜드평판 SK리츠 롯데리츠 2026년 11월"
-  ],
-  [
-   "2026-11-24T13:11:00.890612+09:00",
-   "하이닉스 승소 산재 엔지니어 희귀암 2심도"
-  ],
   [
    "2026-11-24T13:21:13.661913+09:00",
    "위기 승부수 받은 SKB 수익화 딛고 AI 재신임 김성수"
@@ -7151,9 +7135,13 @@
   [
    "2026-11-24T19:01:22.873911+09:00",
    "iM뱅크 BNK부산은행 IBK기업은행"
+  ],
+  [
+   "2026-11-24T19:11:31.235311+09:00",
+   "거점 호서대학교 반도체 패키징 인력양성"
   ]
  ],
- "last_run": "2026-11-24T19:01:47.241664+09:00",
+ "last_run": "2026-11-24T19:11:36.764779+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
