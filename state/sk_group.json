@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreabiomed.com/news/articleView.html?idxno=33947",
-  "https://www.mk.co.kr/article/12216159",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507097",
-  "https://www.mk.co.kr/article/12214859",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=8736",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507112",
-  "https://www.cstimes.com/news/articleView.html?idxno=729009",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732707",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594794781010",
-  "https://www.imaeil.com/page/view/2026112315360351574",
-  "https://biz.sbs.co.kr/article_hub/20000348239?division=NAVER",
   "https://www.kyeonggi.com/article/20261123580365",
   "https://www.ajunews.com/view/20261123152546544",
   "http://www.metroseoul.co.kr/article/20261123500449",
@@ -2999,20 +2988,20 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611231016102440104965",
   "https://www.newsis.com/view/NISX20261124_0003881360",
   "http://www.inews24.com/view/2029750",
-  "https://en.yna.co.kr/view/AEN20261125000600320?input=2106m"
+  "https://en.yna.co.kr/view/AEN20261125000600320?input=2106m",
+  "https://www.pennmike.com/news/articleView.html?idxno=132694",
+  "https://www.viva100.com/article/20261125500015",
+  "https://www.slist.kr/news/articleView.html?idxno=784494",
+  "https://biz.chosun.com/international/international_general/2026/11/25/3URLOKAUTZGBJFY37YTALTZKPI/",
+  "https://www.sedaily.com/article/20118497",
+  "https://www.etoday.co.kr/news/view/2652490",
+  "https://www.yna.co.kr/view/AKR20261125017300009?input=1195m",
+  "https://www.khan.co.kr/article/202611250711001",
+  "https://www.khan.co.kr/article/202611250720001",
+  "https://www.gokorea.kr/news/articleView.html?idxno=887162",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005969465"
  ],
  "seen_titles": [
-  "'전남광주반도체포럼'닻올렸다…\"반도체지역정착뒷받침\"",
-  "끝까지다투던최태원,9440억전액지급제안..노소영과9년소송마침...",
-  "전기차캐즘우려에충전주도흔들…그리드위즈·토비스는불꽃랠리",
-  "SKBiopharmaceuticalstounveilcenobamatedatainchildren,general",
-  "[단독]올해회계감사‘최대어’LG전자,3년만에다시삼일품으로",
-  "피에스케이홀딩스·엘앤씨바이오선방했지만…대형주하락에힘빠진밸...",
-  "물갈이대신안정택한재계…성과보상·오너장악력강화",
-  "[특징주]SK텔레콤,앤트로픽상장후주가약세지속…7.32%하락마감",
-  "최태원SK회장,대법원에화해권고신청...\"재산분할금9440억원전액지...",
-  "SK최태원,재산분할금9440억원전액지급의사…대법원에화해권고신...",
-  "코스피,3.31%급락한4708선마감…외국인·개인동반순매도",
   "[메가이슈]최태원,노소영에재산분할9440억원전액지급의사…9년소...",
   "[속보]최태원,노소영에9440억원전액지급제안…2440억원다툼접고...",
   "[현장연결]검은월요일피했지만…'진땀'코스피,4700선후퇴",
@@ -6001,7 +5990,18 @@
   "[더벨]LG이노텍,1200억투자'평택전장공장'8년만매각",
   "\"효과↑,부작용↓\"…항암제도전하는K-바이오",
   "압구정·성수대신반도체…하이테크택한SK에코플랜트",
-  "TopheadlinesinmajorS.Koreannewspapers"
+  "TopheadlinesinmajorS.Koreannewspapers",
+  "'젠슨황효과'하루만에식었다…美반도체8%급락에코스피5000선시...",
+  "대기업이익잉여금1862조원⋯삼성전자419조•SK하이닉스267조원",
+  "韓500대기업이익잉여금1862조…삼성전자·SK하이닉스37%차지",
+  "뉴욕증시,차익실현매물쏟아지며혼조마감…엔비디아6%↓",
+  "SKT,AI케어로‘시슐랭스타’산업부장관상수상",
+  "뉴욕증시,기술주매도ㆍ관세우려속혼조⋯나스닥1.5%↓[종합]",
+  "앤트로픽상장나흘만에공모가밑으로",
+  "하루만에끝난젠슨황복귀효과···반도체주급락,상승분60%반납",
+  "트럼프추가관세·젠슨황복귀효과소진에미국증시부진···엔트로...",
+  "급락하는인공지능반도체주식,이유는무엇일까?",
+  "증시오늘'핫이슈'…\"갑작스런달러인덱스104돌파,'엔화약세'못버..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,21 @@
   [
    "2026-11-25T07:11:10.784373+09:00",
    "Korean major headlines in newspapers Top"
+  ],
+  [
+   "2026-11-25T07:21:06.581004+09:00",
+   "추가관세 증시 부진 엔트로 복귀효과 소진에 미국 젠슨 트럼프"
+  ],
+  [
+   "2026-11-25T07:21:06.581004+09:00",
+   "무엇일까 주식 반도체 이유는 급락하는 인공지능"
+  ],
+  [
+   "2026-11-25T07:21:06.581004+09:00",
+   "증시 엔화약세 달러인덱스 갑작스런 핫이슈 돌파"
   ]
  ],
- "last_run": "2026-11-25T07:12:05.942020+09:00",
+ "last_run": "2026-11-25T07:21:17.287178+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
