@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/18/2026091890170.html",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609180427&t=NN",
-  "https://www.seoul.co.kr/news/economy/industry/2026/09/18/20260918500191?wlog_tag3=naver",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=614217",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95644",
   "https://www.mediawatch.kr/news/article.html?no=261113",
@@ -2999,12 +2996,12 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721243",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561487",
   "https://www.kbmaeil.com/article/20261124500755",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=230010"
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=230010",
+  "http://www.inews24.com/view/2030009",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=327271",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284893"
  ],
  "seen_titles": [
-  "SK그룹핵심부회장3인,하이닉스집결…AI·반도체체질개선박차",
-  "SK부회장3명,하이닉스로집결…그룹역량'AI·반도체'에집중",
-  "SK그룹전문경영인부회장3인,SK하이닉스로이동…반도체전략강화",
   "SK그룹부회장단,SK하이닉스합류…반도체전략지원",
   "SK그룹부회장3인하이닉스行…연말인사'AI반도체중심'대변화예고",
   "SK부회장세명,한꺼번에하이닉스갔다…그룹역량전부'반도체'로",
@@ -6001,7 +5998,10 @@
   "“TK신공항은장기과제…특검은고발검토”",
   "‘비자금의혹’김옥숙·노재헌기소유력…노소영빠진이유는?",
   "노소영증인불출석…법원,과태료100만원",
-  "노소영관장'노태우비자금의혹'증인불출석…법원,과태료100만원..."
+  "노소영관장'노태우비자금의혹'증인불출석…법원,과태료100만원...",
+  "노소영,'노태우비자금'재판안나와…과태료100만원",
+  "도서관부터공공체육시설까지...용인특례시의회,시민불편해소주문",
+  "AI키울데이터,개인정보는어떻게지키나"
  ],
  "recent_sigs": [
   [
@@ -6093,7 +6093,7 @@
    "껐지만 급한 지배구조 수익성 조사 과제 당국 산적 검증"
   ]
  ],
- "last_run": "2026-11-24T19:50:30.078980+09:00",
+ "last_run": "2026-11-24T20:00:45.651643+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
