@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261111092200030?input=1195m",
-  "https://www.peoplewatch.co.kr/article/view/ppw202611110007",
   "http://www.inews24.com/view/2024972",
   "https://www.kbmaeil.com/article/20261111500306",
   "https://www.topstarnews.net/news/articleView.html?idxno=16273726",
@@ -2999,11 +2997,11 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=566064",
   "https://www.hankyung.com/article/2026112456346",
   "http://kor.theasian.asia/archives/422884",
-  "https://www.dailyvet.co.kr/news/animalwelfare/305603"
+  "https://www.dailyvet.co.kr/news/animalwelfare/305603",
+  "http://www.yonhapnewstv.co.kr/news/AKR202611240900033A0",
+  "https://www.ajunews.com/view/20261124084636905"
  ],
  "seen_titles": [
-  "[오늘의삼전닉스]AI인프라속도조절이되레'신의한수',\"메모리장...",
-  "SK그룹,12~14일CEO세미나…HBM·AI데이터센터·에너지사업협력논의...",
   "최태원,새사장단과이천서사흘머리맞댄다…“AI로돈버는법”찾...",
   "부경원예농협-부산과기대,화훼산업발전위한업무협약",
   "SK,최태원주재‘CEO세미나’…AI전략·계열사간시너지논의",
@@ -6001,7 +5999,9 @@
   "엔비디아젠슨황복귀에삼성전자·SK하이닉스'안도'…HBM동맹불확실...",
   "젠슨황복귀하루전16억베팅한SK하이닉스사장",
   "[젠슨황의귀환?]워싱턴에빚진엔비디아…한국반도체,위기를기회...",
-  "재난현장의동물구조“가족·이웃의희망으로,지역사회의회복으로..."
+  "재난현장의동물구조“가족·이웃의희망으로,지역사회의회복으로...",
+  "펜싱여자에페,단체전1위상…13년연속1위상쾌거",
+  "[젠슨황복귀]'AI동맹'구심점돌아왔다…K-기업,엔비디아협력다시..."
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-11-24T08:50:20.465916+09:00",
    "엔비디아 워싱턴에 반도체 빚진 한국 기회 위기를"
+  ],
+  [
+   "2026-11-24T09:10:20.126345+09:00",
+   "AI 구심점 기업 돌아왔다 다시 협력 엔비디아 동맹"
   ]
  ],
- "last_run": "2026-11-24T09:00:43.260810+09:00",
+ "last_run": "2026-11-24T09:10:33.940663+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
