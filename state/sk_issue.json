@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714027",
-  "https://www.ytn.co.kr/_ln/0104_202611161921262762",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713983",
   "https://news.jtbc.co.kr/article/NB12328320?influxDiv=NAVER",
   "https://www.newsis.com/view/NISX20261116_0003870492",
@@ -2999,11 +2997,11 @@
   "https://health.chosun.com/site/data/html_dir/2026/11/24/2026112401922.html",
   "https://www.mk.co.kr/article/12214716",
   "https://www.christiantoday.co.kr/news/378855",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721430"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721430",
+  "https://www.newsis.com/view/NISX20261124_0003881789",
+  "https://www.khan.co.kr/article/202611242105005"
  ],
  "seen_titles": [
-  "선거부정주장네타냐후역풍맞나…이스라엘검경‘조작설’조사",
-  "선거부정주장네타냐후역풍맞나...이스라엘검경'조작설'조사",
   "‘불법선거운동의혹’신용한충북지사송치…도정차질우려",
   "'최민희징계'두고\"반분신은?\"민주당최고위정면충돌",
   "경찰,안양시의회의장선거투표용지촬영…무효표처리경위확인",
@@ -6001,10 +5999,12 @@
   "조지루시?스텐팟?아이있는집인기가습기4종비교",
   "“몸값높여야하는데”…투썸,강매의혹에엑시트암초?[재계톡톡]",
   "[자유통일당성명서]전광훈목사구속영장신청,수사는정치적영향으...",
-  "노소영,‘노태우비자금의혹’증인불출석…과태료100만원"
+  "노소영,‘노태우비자금의혹’증인불출석…과태료100만원",
+  "'민주당에사제폭탄테러'협박글…경찰,게시자추적",
+  "‘말단’1명만구속…암초만난선관위특검"
  ],
  "recent_sigs": [],
- "last_run": "2026-11-24T21:20:56.189607+09:00",
+ "last_run": "2026-11-24T21:31:16.655878+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
