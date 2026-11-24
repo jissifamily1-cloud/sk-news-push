@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10946018",
-  "https://view.asiae.co.kr/article/2026112307475702868",
-  "https://www.dt.co.kr/article/12096024",
-  "https://www.dt.co.kr/article/12096025",
-  "http://www.press9.kr/news/articleView.html?idxno=86820",
-  "https://www.etoday.co.kr/news/view/2651656",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281917",
   "http://www.bizwnews.com/news/articleView.html?idxno=152754",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=904019",
   "https://www.munhwa.com/article/11633318",
@@ -2999,16 +2992,16 @@
   "http://www.biztribune.co.kr/news/articleView.html?idxno=363139",
   "https://www.betanews.net/article/view/beta202611240192",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=886860",
-  "https://www.ikbc.co.kr/article/view/kbc202611240050"
+  "https://www.ikbc.co.kr/article/view/kbc202611240050",
+  "https://www.wikitree.co.kr/articles/1177357",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1544845",
+  "https://magazine.hankyung.com/job-joy/article/202611247937d",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861600&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6868249_37004.html",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496637",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16285098"
  ],
  "seen_titles": [
-  "Koreareadies10tnwonstockstabilizationfundamidglobalselloff",
-  "China’schipexportssurge108%despiteSouthKorea’srecordgrowth",
-  "코스피4%↓…증안펀드도안먹혔다",
-  "공장등록난항겪던기업,이컨설팅통해생산기반지켰다",
-  "[미래포럼]“ESG없인AI강국없다…국가인프라대개조필요”",
-  "[미래포럼]국회의장도3년‘개근참석’…대표ESG포럼‘우뚝’",
-  "삼성·LG·SK,인사로본2027년승부수…반도체·로봇·AI메모리",
   "코스피지수4600도깨졌다…10개월만에4586선까지추락",
   "Samsung,SKhynixRaiseDividendPayoutRatiosinQ3",
   "[CEO+]최태원SK그룹회장,'도쿄포럼'서한일기업·대학'AI인재'육성...",
@@ -6001,37 +5994,16 @@
   "iM뱅크,'텐텐통장'잔액5.2배성장…은행·증권계열사시너지확대",
   "코스피,'젠슨황복귀'에6%급등...5000선탈환마감",
   "[피플H]\"커버드콜ETF,분배율뿐아니라총수익률·NAV확인해야\"",
-  "임지락화순군수,동복댐이주민에\"생계형연금\"…반도체소부장기업..."
+  "임지락화순군수,동복댐이주민에\"생계형연금\"…반도체소부장기업...",
+  "지금팔면늦었다…삼성전자물린개미들에전문가가내놓은'조언'",
+  "젠슨황복귀에증시환호…AI리스크는여전",
+  "[경희대학교창업캠퍼스타운센터]복잡한마케팅·커머스업무를AI에이...",
+  "돌아온젠슨황,되찾은5천선…삼전닉스'훨훨'",
+  "젠슨황복귀에외국인귀환‥코스피'5천선'",
+  "청주시정연구원,'반도체세수호황과청주시재정운용방향'콜로키움...",
+  "LG에너지솔루션공매도52%급증…주가7.89%상승"
  ],
  "recent_sigs": [
-  [
-   "2026-11-24T14:21:04.030810+09:00",
-   "상급지 강남으로 팔고 활발 갈아타기 셔세권"
-  ],
-  [
-   "2026-11-24T14:21:04.030810+09:00",
-   "급여 난치성 환자 세노바메이트 뇌전증치료제 높인다 치료접근성"
-  ],
-  [
-   "2026-11-24T14:21:04.030810+09:00",
-   "요구되는 KT 대표에게 쇄신 박윤영"
-  ],
-  [
-   "2026-11-24T14:21:04.030810+09:00",
-   "못하는 웃지 최고층 주가 외제차급 급등에도 경차 손실 타는데"
-  ],
-  [
-   "2026-11-24T14:21:04.030810+09:00",
-   "PLUS 4주차 삼성전자선물단일종목인버스2X 수익"
-  ],
-  [
-   "2026-11-24T14:21:04.030810+09:00",
-   "복귀 젠슨 CEO 희소식 엔비디아 삼전닉스에도"
-  ],
-  [
-   "2026-11-24T14:21:04.030810+09:00",
-   "SK하이닉 예고 삼성전자 2028년 공급 하반기도 반도체 서버용 부족 AI"
-  ],
   [
    "2026-11-24T14:31:26.158361+09:00",
    "닉스 삼전 너마저 미끄럼틀 골드만삭스 목표가"
@@ -7007,9 +6979,17 @@
   [
    "2026-11-24T20:11:14.030114+09:00",
    "이주민에 화순군수 임지락 생계형 연금 반도체 기업 동복댐 소부장"
+  ],
+  [
+   "2026-11-24T20:21:12.246865+09:00",
+   "청주시정연구원 세수 방향 호황과 콜로키움 재정운용 청주시 반도체"
+  ],
+  [
+   "2026-11-24T20:21:12.246865+09:00",
+   "급증 주가 LG에너지솔루션 상승 공매도"
   ]
  ],
- "last_run": "2026-11-24T20:11:22.412046+09:00",
+ "last_run": "2026-11-24T20:21:20.903769+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
