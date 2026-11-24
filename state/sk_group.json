@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/future/2026/11/23/2026112311115542998",
-  "https://www.seoul.co.kr/news/society/law/2026/11/23/20261123500217?wlog_tag3=naver",
-  "https://www.sidae.com/article/2026112312335654073",
-  "https://www.hankyung.com/article/202611234521i",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113976",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086686",
-  "http://www.newstomato.com/ReadNews.aspx?no=1321466&inflow=N",
-  "https://www.koreatimes.co.kr/path/A2026112314240001011",
   "https://www.livebiz.today/news/articleView.html?idxno=206794",
   "https://www.yna.co.kr/view/AKR20261123122900004?input=1195m",
   "https://www.newsway.co.kr/news/view?ud=2026112315112761267",
@@ -2999,17 +2991,17 @@
   "https://www.labortoday.co.kr/news/articleView.html?idxno=237921",
   "https://www.yna.co.kr/view/AKR20261125012700009?input=1195m",
   "https://www.fntimes.com/html/view.php?ud=202611241632479497141825007d_18",
-  "https://view.asiae.co.kr/article/2026112413405595484"
+  "https://view.asiae.co.kr/article/2026112413405595484",
+  "https://www.sedaily.com/article/20118553",
+  "https://www.hankyung.com/article/2026112581587",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8814",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732887",
+  "https://www.donga.com/news/Inter/article/all/20261125/135084972/1",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16285375",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721729",
+  "http://www.beyondpost.co.kr/view.php?ud=2026112506341431332aaae0046f_30"
  ],
  "seen_titles": [
-  "[유통레이더]신세계백화점,쿠팡,롯데온,G마켓,서울신라호텔,천재...",
-  "반등믿고삼전·닉스에3.2조…개미‘물타기’여력도줄었다",
-  "(LEAD)Financeministersaysgov'thascontingencyplanbeyondstockm",
-  "서울시-SBA,서울창업허브오픈이노베이션성과공유회성료",
-  "[속보]최태원,재산분할재상고심재판부에“화해권고신청”",
-  "주사대신알약,치매치료새변수",
-  "SK에코플랜트,설계특화AI플랫폼도입…배치·간섭검토자동화",
-  "상장사자사주매입일일한도,3개월간완전해제",
   "LG화학·GS칼텍스등석화CEO한자리에…김정관\"연내구조개편매듭\"",
   "D램없어서못파는데…낸드는가격하락우려",
   "Koreareadytodeploymarketstabilizationfundifconditionswarrant",
@@ -6001,7 +5993,15 @@
   "광주반도체클러스터,노동존중부터",
   "'젠슨황효과'의문에美증시반도체지수8%급반락",
   "[DCM]KB손보,후순위채3000억발행…CSM감소·자본관리변수",
-  "[금융현미경]연말환율레벨주시하는시장…달러수요·美긴축변수"
+  "[금융현미경]연말환율레벨주시하는시장…달러수요·美긴축변수",
+  "하루로끝난‘젠슨황효과’...반도체지수,차익실현에8%↓[데일리...",
+  "'젠슨황효과'의문에반도체지수8%급반락…마이크론11%↓",
+  "[뉴욕증시마감시황]젠슨황귀환하루만에AI기반나스닥다시흔들...",
+  "하루만에뒤집힌뉴욕증시…코스피반등세에다시찬물",
+  "엔비디아31%폭등하루만에6%급락…뉴욕증시,혼조세로마감",
+  "미국증시,AI투자불안재점화…반도체급락·다우5만회복",
+  "‘젠슨황효과’의문에반도체지수8%급반락",
+  "앤트로픽,4거래일만에공모가하회...6.54%급락하며82달러에마감"
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,13 @@
   [
    "2026-11-25T06:41:06.714823+09:00",
    "시장 주시하는 달러 변수 수요 긴축 환율 레벨 연말"
+  ],
+  [
+   "2026-11-25T06:51:04.355845+09:00",
+   "앤트로픽 공모가 마감 하회 급락하며 4거래일만에 82달러에"
   ]
  ],
- "last_run": "2026-11-25T06:41:33.436528+09:00",
+ "last_run": "2026-11-25T06:51:10.327173+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
