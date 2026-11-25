@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712112",
-  "https://www.munhwa.com/article/11631112",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731530",
-  "https://www.globalepic.co.kr/view.php?ud=20261113114652384148439a4874_29",
-  "https://www.news1.kr/politics/assembly/6353193",
-  "https://www.huffingtonpost.kr/article/262053",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=147037",
   "https://www.tfmedia.co.kr/news/article.html?no=208866",
   "https://www.segye.com/newsView/20261113506968?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/sports/volleyball/6365792",
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=250458",
   "https://www.gokorea.kr/news/articleView.html?idxno=887261",
-  "https://www.edaily.co.kr/News/Read?newsId=03224246645649328&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03224246645649328&mediaCodeNo=257",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561596",
+  "https://biz.sbs.co.kr/article_hub/20000348822?division=NAVER",
+  "https://www.the-today.com/news/articleView.html?idxno=94082",
+  "https://www.m-i.kr/news/articleView.html?idxno=2023342",
+  "https://www.fnnews.com/news/202611251527431553",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507986"
  ],
  "seen_titles": [
-  "젠슨황불명예퇴진…엔비디아'깐부'기업들여파예의주시",
-  "젠슨황떠난엔비디아,韓기업협력실무체계유지될까",
-  "최태원SK그룹회장,\"한일경제연대비전실현'빅텐트'형상설협력플...",
-  "[젠슨황리스크④]황없는엔비디아…‘깐부비즈니스’도물거품?",
-  "민주당,강선우·김병기지역구에직무대행위원장임명",
-  "최태원의빅텐트구상…“韓日경제연대준비”",
   "최태원·구광모,AI시대생존전략짠다…사업재편·신사업확장속도",
   "최태원\"한일경제연대,3·5·10년실행계획수립해야\"",
   "與,사고지역위11곳확정…강선우·김병기지역엔직무대행지명",
@@ -6001,7 +5995,13 @@
   "'V리그데뷔'호키,1라운드MVP선정…여자부최정민도첫수상",
   "노소영,최태원화해권고요청거부…\"진정성있다면상고취하\"外[오...",
   "노소영,최태원회장에'상고취하'요구—9천440억원재산분할소송...",
-  "[속보]최태원측,노소영화해권고거부에“진정성폄훼유감”"
+  "[속보]최태원측,노소영화해권고거부에“진정성폄훼유감”",
+  "[속보]최태원측,노소영화해권고요청거부에“진정성의심유감”",
+  "노소영\"다줄거면상고취하\"…최태원에거부",
+  "최태원'9440억'제안…노소영은판결확정요구",
+  "용인특례시의회문화복지위원회,3개구보건소행정사무감사",
+  "최태원측,노소영'화해권고거부'에유감...\"동의땐금주에도종결\"",
+  "노소영,SK최태원화해권고요청거부…\"진정성있다면상고취하해야..."
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-11-25T15:30:37.939449+09:00",
    "거부에 폄훼 화해권고 진정성 유감"
+  ],
+  [
+   "2026-11-25T15:40:20.171568+09:00",
+   "확정 제안 9440억 노소영은 요구 판결"
   ]
  ],
- "last_run": "2026-11-25T15:30:48.617500+09:00",
+ "last_run": "2026-11-25T15:40:30.669744+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
