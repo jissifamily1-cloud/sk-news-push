@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.cctimes.kr/news/articleView.html?idxno=937187",
-  "https://www.news1.kr/industry/general-industry/6354390",
   "https://www.chosun.com/economy/industry-company/2026/11/15/JGIJNHYNWVBJPECNT5PKZEO2EU/",
   "https://www.techm.kr/news/articleView.html?idxno=157361",
   "https://www.bloter.net/news/articleView.html?idxno=678641",
@@ -2999,11 +2997,11 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16286456",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232973",
   "https://www.newscj.com/news/articleView.html?idxno=3452175",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452720"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452720",
+  "https://www.greened.kr/news/articleView.html?idxno=355596",
+  "https://www.the-today.com/news/articleView.html?idxno=94115"
  ],
  "seen_titles": [
-  "33년만에막내린젠슨황제국…빌게이츠·스티브잡스사례로본미...",
-  "최태원SK회장,CEO세미나서\"‘AI플라이휠’구조만들어나가자\"",
   "[CEO와칭]'IT현장전문가'김완종SKAX사장,SK그룹AX·보안전략...",
   "충남도의회,특수학교과밀·학교석면등교육현안점검",
   "충주시새마을회사랑의김장담그기진행",
@@ -6001,7 +5999,9 @@
   "'스피드퀸'첫방송1.218%…안현수·김아랑·김보름의도전",
   "11월26일(목)굿모닝MBN주요뉴스",
   "[천지일보이슈종합]젠슨황효과증발·조희대탄핵추진·공적주택공...",
-  "[WhoIs?]김성환한국투자증권대표이사사장"
+  "[WhoIs?]김성환한국투자증권대표이사사장",
+  "[종합분석]노소영\"진정성있다면상고취하해야\"...최태원\"화해요청...",
+  "[투데이온]SK하이닉스,12월4일키옥시아의결권확보…9년전'방어투..."
  ],
  "recent_sigs": [
   [
@@ -6027,9 +6027,17 @@
   [
    "2026-11-26T07:10:20.606510+09:00",
    "대표이사 한국투자증권 김성환 사장"
+  ],
+  [
+   "2026-11-26T07:30:28.454507+09:00",
+   "9년 키옥시아 확보 4일 12월 SK하이닉스 방어 의결권"
+  ],
+  [
+   "2026-11-26T07:30:28.454507+09:00",
+   "상고 진정성 있다면 요청 화해 취하해야"
   ]
  ],
- "last_run": "2026-11-26T07:20:38.428436+09:00",
+ "last_run": "2026-11-26T07:30:43.369024+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
