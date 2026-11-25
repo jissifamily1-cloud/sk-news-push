@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1425834",
-  "https://www.sentv.co.kr/article/view/sentv202611170145",
-  "https://news.mtn.co.kr/article/2026111712124764839",
-  "https://www.nocutnews.co.kr/news/6608054",
-  "https://www.nocutnews.co.kr/news/6608050",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=7332",
-  "https://www.etoday.co.kr/news/view/2649228",
   "https://zdnet.co.kr/view/?no=20261117134636",
   "https://www.kyeonggi.com/article/20261117580192",
   "https://biz.heraldcorp.com/article/10939807",
@@ -2999,16 +2992,16 @@
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4027953",
   "http://www.iminju.net/news/articleView.html?idxno=173066",
   "https://www.sidae.com/article/2026112513101253302",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087669"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087669",
+  "https://www.koit.co.kr/news/articleView.html?idxno=210089",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251321352810570",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251319273800568",
+  "https://www.hinews.co.kr/view.php?ud=202611251333541759cd8b879b3c_48",
+  "https://www.kukinews.com/article/view/kuk202611250094",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590151.html",
+  "https://biz.heraldcorp.com/article/10948951"
  ],
  "seen_titles": [
-  "[유통레이더]인스파이어,G마켓,조선미녀,bhc,도미노피자,BBQ,홈플...",
-  "[상암동에서]공정위,국고채담합에1.6조과징금…정부책임은",
-  "국고채담합제재파장…재정부,내일부터딜러사개별면담",
-  "선거사무장금품지급등공직선거법위반의혹군산시의원불송치",
-  "약국서환자정보유출하고퇴사후원격접속까지…직원등송치",
-  "\"호카판권분쟁끝나지않았다\"…조이웍스노조출범",
-  "다단계불법'내부고발'포상금받는다…1000만원한도폐지",
   "조이웍스노조출범…\"이랜드‘호카’판권이전중단하라”",
   "후원방판매출1조원아래로…판매원10명중6명수당‘0원’",
   "방문판매법위반신고포상금1000만원상한폐지…가담임직원도지급...",
@@ -6001,7 +5994,14 @@
   "공정위,'복지시설리베이트의혹'CJ프레시웨이제재착수…CJ\"사실무...",
   "CJ프레시웨이,'기부금·상품권영업'공정위의혹에\"사실무근\"",
   "CJ프레시웨이,공정위'기부금영업'제재에반박",
-  "CJ프레시웨이,부당유인혐의로과징금위기…공정위심의착수"
+  "CJ프레시웨이,부당유인혐의로과징금위기…공정위심의착수",
+  "반복담합여부'최근10년'까지들여다본다",
+  "담합두번이면공공입찰‘아웃’…반복담합제재문턱확낮춘다",
+  "CJ프레시웨이,공정위'부당고객유인'혐의반박",
+  "CJ프레시웨이,공정위판단에반론…\"기부금과정상적인영업활동구분...",
+  "공정위,반복담합사업자입찰제한강화…기준5년→10년",
+  "장윤기아빠에수사정보흘린경찰…징역3년구형",
+  "공소청,‘노태우비자금의혹’노재헌주중대사소환통보…“범죄수..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "노재헌 비자금 의혹 소환 주중대사 노태우 통보"
   ]
  ],
- "last_run": "2026-11-25T13:31:06.676153+09:00",
+ "last_run": "2026-11-25T13:40:54.354732+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
