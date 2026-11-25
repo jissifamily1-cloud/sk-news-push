@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1174247",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=89466",
-  "https://www.widedaily.com/news/articleView.html?idxno=303675",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254894",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731546",
-  "https://www.ziksir.com/news/articleView.html?idxno=153207",
-  "http://www.sisacast.kr/news/articleView.html?idxno=101906",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366106",
   "http://www.seouleconews.com/news/articleView.html?idxno=94993",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=902993",
   "https://www.mk.co.kr/article/12207825",
@@ -2999,17 +2991,17 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087725",
   "https://www.sisajournal.com/news/articleView.html?idxno=395211",
   "http://www.yonhapnewstv.co.kr/news/MYH20261125143434i5o",
-  "https://www.yna.co.kr/view/AKR20261125111500011?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261125111500011?input=1195m",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251416304900597",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590169.html",
+  "https://www.kwnews.co.kr/article/20261125500499",
+  "https://www.news2day.co.kr/article/20261125500219",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627648",
+  "https://www.lawtv.kr/news/articleView.html?idxno=61515",
+  "https://www.ytn.co.kr/_ln/0104_202611251439108940",
+  "https://monthly.chosun.com/news/articleView.html?idxno=72152"
  ],
  "seen_titles": [
-  "[패트롤]안동시-의성군-영주시-봉화군-예천군",
-  "‘AI대부’젠슨황퇴진에‘K-깐부동맹’도1년만에흔들",
-  "젠슨황없는엔비디아...AMD·구글에반격기회열어줄까",
-  "최태원\"한일경제연대실행'빅텐트'플랫폼준비\"",
-  "젠슨황'세번째불륜녀'등장일파만파...한국에도불똥튄이유",
-  "최태원,韓日경제연대3년·5년·10년실행구상제안…상설협력플랫폼...",
-  "젠슨황사임후폭풍…네이버'AI팩토리'GPU수급차질없을까",
-  "최태원회장주창한일경제연대,'비전에서실행으로'…2026~2045년3단계...",
   "최태원회장,한일경제연대'빅텐트'추진…\"협력역량결집해야\"",
   "[CEO직썰]최태원SK그룹회장\"한일경제연대실행할'빅텐트'플랫폼...",
   "최태원SK회장\"한일경제연대,비전넘어실행으로\"…민관협력플랫폼...",
@@ -6001,7 +5993,15 @@
   "노소영,최태원'9440억전액지급'화해권고요청거부",
   "노소영,\"상고취하하라\"…확정땐연이자472억원",
   "[사건현장]노소영,9천억전액지급에도'거부'…이유는?",
-  "[연합뉴스이시각헤드라인]-14:30"
+  "[연합뉴스이시각헤드라인]-14:30",
+  "노소영,최태원화해권고요청거부…“진정성있다면상고취하”",
+  "광주군공항이전,주민투표연내무산위기…사업비확보도난항",
+  "노소영“진정성있다면상고취하하라”…‘9천440억원전액지급’최...",
+  "최태원화해권고요청에노소영거부…법원판결요구",
+  "﻿최태원'9440억전액지급'제안에노소영거부…\"조건없이상고취하...",
+  "9,440억다주겠다는데...노소영,최태원'화해권고'거부한까닭",
+  "'추가불륜'고백한젠슨황...'황제경영'고수하나[뉴스퀘어2PM]",
+  "반도체산업의성과는협력사덕분"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,21 @@
   [
    "2026-11-25T14:40:21.679413+09:00",
    ""
+  ],
+  [
+   "2026-11-25T14:50:22.954553+09:00",
+   "화해권고 거부한 440억 주겠다는데 까닭"
+  ],
+  [
+   "2026-11-25T14:50:22.954553+09:00",
+   "고수하나 불륜 고백한 추가 경영 젠슨 황제"
+  ],
+  [
+   "2026-11-25T14:50:22.954553+09:00",
+   "덕분 성과는 반도체 산업의 협력사"
   ]
  ],
- "last_run": "2026-11-25T14:40:42.985902+09:00",
+ "last_run": "2026-11-25T14:50:39.025163+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
