@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20118203",
-  "https://www.yakup.com/news/index.html?cat=12&nid=335655",
-  "https://www.jasm.co.kr/news/view/326307/?sc=Naver",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366513",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=259572",
-  "https://economist.co.kr/article/view/ecn202611240073",
   "https://www.pennmike.com/news/articleView.html?idxno=132623",
   "https://www.energydaily.co.kr/news/articleView.html?idxno=205400",
   "http://www.osen.co.kr/article/G1112913757",
@@ -2999,15 +2993,15 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863495&plink=ORI&cooper=NAVER",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6868555_37004.html",
   "https://www.ytn.co.kr/_ln/0102_202611251950224231",
-  "https://www.mt.co.kr/future/2026/11/25/2026112508423464894"
+  "https://www.mt.co.kr/future/2026/11/25/2026112508423464894",
+  "https://www.mk.co.kr/article/12218652",
+  "https://www.edaily.co.kr/News/Read?newsId=04093446645649328&mediaCodeNo=257",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250195&t=NNv",
+  "https://www.mk.co.kr/article/12218640",
+  "http://www.kjdaily.com/article.php?aid=1795604228693581002",
+  "https://www.ikbc.co.kr/article/view/kbc202611250062"
  ],
  "seen_titles": [
-  "현대오토에버27.78%·KH바텍29.96%급등",
-  "[로빈후드온체인]앤트로픽A주거래대금이하루만에5.5배로뛰어...싱...",
-  "[포토]유기훈SK이노베이션PM,산업부장관상수상",
-  "젠슨이돌아왔으니,반도체는이제랠리?[뉴스in뉴스]",
-  "팬친화마케팅펼친구단에투표하자!…2026시즌3차K리그'팬프렌들...",
-  "[초점]젠슨황복귀,韓반도체·AI엔'단비'…총수네트워크재가동주...",
   "제주SK,2026시즌3차K리그'팬프렌들리클럽상'후보...26일까지팬투...",
   "“저도물렸어요”주식반토막난개미들에반값할인…폭락장에등장...",
   "[일문일답]동아에스티·SK바이오팜‘엑스코프리’6년만한국상륙…...",
@@ -6001,7 +5995,13 @@
   "하루짜리신기루'젠슨황효과'…삼전닉스폭락",
   "젠슨황효과는어디로?‥하루만에돌변한증시,6%급락",
   "코스피4,700선도깨졌다...삼전닉스나란히급락",
-  "특구재단·SK에코플랜트오픈이노베이션7년…75개사발굴"
+  "특구재단·SK에코플랜트오픈이노베이션7년…75개사발굴",
+  "이틀에한번꼴로사이드카울렸다…널뛰는코스피에개미들‘공황’",
+  "유치원현장애로에귀기울인이상일용인특례시장",
+  "하루만에무너진5천피…삼전닉스개미'멘붕'",
+  "“하이닉스2028년이익급감”…반도체저승사자의섬뜩한예측[머니닥...",
+  "호남반도체‘물길’늘리고‘배후도시’짓는다",
+  "김대중교육감\"수능객관식평가,수명다해…서·논술형정착위해협..."
  ],
  "recent_sigs": [
   [
@@ -7083,9 +7083,21 @@
   [
    "2026-11-25T20:01:27.328011+09:00",
    "발굴 특구재단 75개사 SK에코플랜트 7년 오픈이노베이션"
+  ],
+  [
+   "2026-11-25T20:11:06.961124+09:00",
+   "예측 이익 저승사자의 섬뜩한 하이닉스 머니닥 급감 2028년 반도체"
+  ],
+  [
+   "2026-11-25T20:11:06.961124+09:00",
+   "물길 늘리고 짓는다 배후도시 반도체 호남"
+  ],
+  [
+   "2026-11-25T20:11:06.961124+09:00",
+   "수명 평가 다해 논술형 김대중 정착 수능 교육감 객관식"
   ]
  ],
- "last_run": "2026-11-25T20:01:32.829487+09:00",
+ "last_run": "2026-11-25T20:11:18.033685+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
