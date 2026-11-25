@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732835",
-  "https://www.sedaily.com/article/20118264",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=282054",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=320938",
-  "http://www.4th.kr/news/articleView.html?idxno=2122540",
-  "https://www.ilemonde.com/news/articleView.html?idxno=31043",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=305735",
   "https://www.seoulfn.com/news/articleView.html?idxno=643766",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308142",
   "https://www.hankyung.com/article/2026112470187",
@@ -2999,16 +2992,16 @@
   "https://news.mtn.co.kr/article/2026112515025576841",
   "https://www.hankyung.com/article/2026112500296",
   "https://www.news1.kr/industry/general-industry/6366113",
-  "https://www.betanews.net/article/view/beta202611260001"
+  "https://www.betanews.net/article/view/beta202611260001",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284955",
+  "https://www.yna.co.kr/view/AKR20261126012100009?input=1195m",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508174",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=447730",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=56795",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8846",
+  "https://www.dailian.co.kr/news/view/1719659/?sc=Naver"
  ],
  "seen_titles": [
-  "강남아파트가격은'뚝'…서울부동산에벌어진'반전'[시장톡]",
-  "[위기의핀테크①]혁신금융이라더니…돈도못벌고,고사직전",
-  "SKT,'AI케어'시슐랭스타최종10선선정…산업통상부장관상",
-  "광진구,골목형상점가3곳추가지정…골목상권활성화지원확대",
-  "자사주매입'빗장해제'…기업들실탄투입놓고'저울질'",
-  "돌아온젠슨황…트럼프가구했지만,스캔들은끝나지않았다",
-  "삼성전자·SK하이닉스,800조원반도체투자실행속도…전문인력확보...",
   "'하이테크수주잭팟'삼성물산…'관리형수장'최영재로실행력·원가...",
   "골드만“내년원·달러1280원…韓기준금리3.5%넘기어려워”",
   "중부발전·SK이노베이션E&S,용인열병합발전소시공계약",
@@ -6001,7 +5994,14 @@
   "하루만에꺾인'젠슨황효과'…네오클라우드옥석가리기본격화[AI칩...",
   "\"걸어서배달하세요\"…한국최고가아파트서벌어진일[현장+]",
   "SK하이닉스·中창신메모리,차세대수직형D램기술경쟁'후끈'",
-  "중국이자동차전쟁에서이기고있다…100년제조업패권의대이동"
+  "중국이자동차전쟁에서이기고있다…100년제조업패권의대이동",
+  "뉴욕증시,AI폭락세완화혼조마감...나스닥0.6%↓",
+  "D램우려에마이크론이틀새15%급락…고점반토막",
+  "AI에이전트도신분증필요한시대…드림시큐리티·슈프리마수혜기대",
+  "뉴욕증시,AI투자전망불확실성등영향혼조세⋯엔비디아3%대,마이크...",
+  "[브랜드평판]DK아시아로열파크씨티,주거커뮤니티11월1위...롯데건...",
+  "[뉴욕증시마감시황]美증시AI·반도체투매진정…다우반등·나스닥...",
+  "KB운용체질바꾼김영성,KB금융인사태풍뚫을까"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,29 @@
   [
    "2026-11-26T06:41:11.255545+09:00",
    "중국이 이기고 대이동 패권의 있다 전쟁에서 제조업 자동차 100년"
+  ],
+  [
+   "2026-11-26T06:51:07.025961+09:00",
+   "수혜 드림시큐리티 시대 필요한 AI 에이전트도 신분증 기대 슈프리마"
+  ],
+  [
+   "2026-11-26T06:51:07.025961+09:00",
+   "투자전망 불확실성 엔비디아 뉴욕증시 혼조세 영향 AI 마이크"
+  ],
+  [
+   "2026-11-26T06:51:07.025961+09:00",
+   "롯데건 커뮤니티 11월 DK아시아 1위 로열파크씨티 주거"
+  ],
+  [
+   "2026-11-26T06:51:07.025961+09:00",
+   "증시 투매 반등 다우 AI 나스닥 진정 반도체"
+  ],
+  [
+   "2026-11-26T06:51:07.025961+09:00",
+   "바꾼 KB금융 뚫을까 김영성 체질 인사 KB운용 태풍"
   ]
  ],
- "last_run": "2026-11-26T06:41:50.842984+09:00",
+ "last_run": "2026-11-26T06:51:23.262718+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
