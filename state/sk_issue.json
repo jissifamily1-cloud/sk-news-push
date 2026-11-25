@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=886004",
-  "https://view.asiae.co.kr/article/2026111709342071003",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35422",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3163035",
-  "http://www.iminju.net/news/articleView.html?idxno=172579",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284786&CMPT_CD=P0010",
-  "https://www.yna.co.kr/view/AKR20261117073700055?input=1195m",
-  "https://www.sedaily.com/article/20115309",
   "https://www.dailypharm.com/user/news/344677?REFERER=NP",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1336985",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247585",
@@ -2999,17 +2991,17 @@
   "https://www.mydaily.co.kr/page/view/2026112511402349761",
   "https://www.edaily.co.kr/News/Read?newsId=02601046645649328&mediaCodeNo=257",
   "https://www.yna.co.kr/view/AKR20261125089700004?input=1195m",
-  "https://www.joongang.co.kr/article/25481795"
+  "https://www.joongang.co.kr/article/25481795",
+  "https://www.khan.co.kr/article/202611251200001",
+  "https://biz.sbs.co.kr/article_hub/20000348773?division=NAVER",
+  "https://www.etoday.co.kr/news/view/2652641",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550141.html",
+  "https://www.munhwa.com/article/11634022",
+  "https://www.jasm.co.kr/news/view/326431/?sc=Naver",
+  "https://www.chosun.com/national/court_law/2026/11/25/5DOKMSTUCBB7PJWK7QDKBJTPZ4/",
+  "https://news.tf.co.kr/read/national/2393152.htm"
  ],
  "seen_titles": [
-  "구몬학습,겨울방학앞두고신규·재입회회원혜택제공",
-  "현원776명인데1052명분예산청구한공정위…'인건비부풀리기'에46억...",
-  "[초점]MTS가번수수료는누구몫인가…KB증권성과급갈등쟁점",
-  "공정위,굽네치킨납품사'크레치코'들여다본다...일가부당지원의혹",
-  "후원방문판매5년째역성장…상위4개사매출쏠림여전",
-  "\"'맛집'꼭넣어주세요\"남의영수증으로쓴리뷰의정체",
-  "'공직선거법위반혐의'김영란군산시의원불송치",
-  "“대출받은줄도몰랐다”…연132%신종사채적발",
   "약국3곳서처방정보유출…약국직원·영업사원20명적발",
   "'PG단말기'영업하는것처럼접근해…연이율132%불법대출실행한범죄...",
   "교섭막힌동희오토노동자들,기아에\"직접나서라\"",
@@ -6001,7 +5993,15 @@
   "CJ프레시웨이“복지시설기부금부당유인사실아냐…공정위심의서충...",
   "화우,경찰수사대응팀장에홍승우前서울경찰청수사과장영입",
   "아동학대사건수사검사가직접공소유지해실형…공판우수사례",
-  "[속보]‘장윤기사건’증거인멸의혹경찰간부…징역3년구형"
+  "[속보]‘장윤기사건’증거인멸의혹경찰간부…징역3년구형",
+  "공정위,‘식자재납품따내려기부’의혹CJ프레시웨이심의착수",
+  "기부금·상품권주고납품계약?…CJ프레시웨이,공정위심판대로",
+  "공정위,복지시설에기부금주고식자재따낸'CJ프레시웨이'심의착수",
+  "공정위,CJ프레시웨이'부당고객유인'심의착수…CJ\"사실아냐\"",
+  "담합기업공공입찰문턱높인다…10년내2번걸리면참여제한",
+  "유상증자앞두고8만여회시세조종코스닥상장사대표등2명구속",
+  "공소청,‘노태우일가비자금의혹’노재헌주중대사소환통보",
+  "'장윤기사건'증거인멸·수사정보유출혐의전강력팀장징역3년구형"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "폐지 속내 SK에너지 꺼내든 묶기 과징금 감경 거래처 사후정산제"
   ]
  ],
- "last_run": "2026-11-25T11:51:02.197112+09:00",
+ "last_run": "2026-11-25T12:01:16.477361+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
