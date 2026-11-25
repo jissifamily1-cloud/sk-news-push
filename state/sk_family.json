@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.cctimes.kr/news/articleView.html?idxno=937140",
-  "https://news.tf.co.kr/read/national/2388907.htm",
-  "https://www.munhwa.com/article/11631361",
   "https://www.seoultimes.news/news/article.html?no=2000102201",
   "http://www.metroseoul.co.kr/article/20261115500142",
   "https://www.hankyung.com/article/2026111350356",
@@ -2999,12 +2996,12 @@
   "https://biz.heraldcorp.com/article/10850489",
   "https://www.econovill.com/news/articleView.html?idxno=748770",
   "https://www.betanews.net/article/view/beta202608240064",
-  "https://view.asiae.co.kr/article/2026082417061936701"
+  "https://view.asiae.co.kr/article/2026082417061936701",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721398",
+  "https://www.ajunews.com/view/20261125015226769",
+  "https://www.sedaily.com/article/20119054"
  ],
  "seen_titles": [
-  "최태원\"모든계열사AI컴퍼니로\"…반도체·에너지연결해'AI플라이휠...",
-  "최태원\"AI시대,성장이또다른성장이끄는선순환만들어야\"",
-  "최태원“기존사업틀깨고‘AI컴퍼니’로재정의해야”",
   "최태원SK회장\"AI플라이휠통해성장이성장만드는선순환구조만들...",
   "충남도의회교육위,행감서'교육사각지대해소·미래역량강화'주문",
   "법도절차도건너뛴'광교청사매각검토구상'…혼란만키운경기도행...",
@@ -6001,10 +5998,18 @@
   "광주군공항찾은SK하이닉스,반도체산업탄력",
   "SK하이닉스경영진,광주군공항다시방문…실행방안협의",
   "SK하이닉스경영진,광주군공항점검…반도체인프라협의",
-  "SK하이닉스,광주군공항찾아반도체입지점검"
+  "SK하이닉스,광주군공항찾아반도체입지점검",
+  "용인시의회,용인문화재단인사절차·공연초대권·보조금정산개선...",
+  "[박승준지피지기]아편전쟁의치욕180년…'선전의꿈'으로화답하다",
+  "메모리슈퍼사이클벌써끝보이나…월가서나온경고[글로벌모닝브..."
  ],
- "recent_sigs": [],
- "last_run": "2026-11-26T06:00:46.261640+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-26T06:10:19.881763+09:00",
+   "메모리 모닝 슈퍼사이클 경고 글로벌 나온 월가서 벌써 보이나"
+  ]
+ ],
+ "last_run": "2026-11-26T06:10:37.174055+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
