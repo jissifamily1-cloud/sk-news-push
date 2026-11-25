@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/kangwon/6356805",
-  "https://www.ekn.kr/web/view.php?key=20261117021530892",
-  "https://newstapa.org/article/oXF_m",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041165",
-  "https://newstapa.org/article/iILtx",
-  "https://imnews.imbc.com/news/2026/society/article/6866297_36918.html",
-  "https://www.thepublic.kr/news/articleView.html?idxno=327128",
-  "https://www.thepublic.kr/news/articleView.html?idxno=327123",
-  "https://www.thepublic.kr/news/articleView.html?idxno=327127",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=802315",
   "https://www.g-enews.com/view.php?ud=202611171533314931740eacf404_1",
   "https://www.yna.co.kr/view/AKR20261117104400004?input=1195m",
   "https://www.busan.com/view/busan/view.php?code=2026111715173631748",
@@ -2999,19 +2989,19 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087711",
   "https://view.asiae.co.kr/article/2026112514172477929",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590162.html",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862870&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862870&plink=ORI&cooper=NAVER",
+  "https://www.mydaily.co.kr/page/view/2026112511324010457",
+  "https://www.newsis.com/view/NISX20261125_0003882747",
+  "https://www.greened.kr/news/articleView.html?idxno=355525",
+  "https://www.seoul.co.kr/news/society/2026/11/25/20261125500170?wlog_tag3=naver",
+  "https://www.busan.com/view/busan/view.php?code=2026112513101852497",
+  "https://www.khan.co.kr/article/202611251429011",
+  "https://www.kmib.co.kr/article/20261125500667",
+  "https://www.sedaily.com/article/20118802",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=230044",
+  "https://www.pressian.com/pages/articles/2026112414112408287"
  ],
  "seen_titles": [
-  "'미성년자강간치상혐의'40대남성재판서'상해'공방…왜?",
-  "[똑똑한교육]교원구몬학습,웅진씽크빅,동아출판,YBM,CT,비상교육",
-  "[인사이드도이체방크]도이체방크의위험한'러시아커넥션'",
-  "[사설]선거위법은과연누가책임지나",
-  "[인사이드도이체방크]사상최대문건유출...글로벌금융의민낯",
-  "몰려다니던'불법대출조직'줄체포‥총책은슬리퍼신고'철컥'",
-  "특검사무실찾아간임태희…\"수사권갖춘특검이철저히수사해주길\"",
-  "[선관위게이트]공고전샜다는사업계획서…459억발급기담당과장입...",
-  "반환점사흘앞둔선관위특검…수사는여섯갈래로늘었다",
-  "[위클리오늘]에듀윌,구몬,한국마사회(11.17)",
   "온열매트부터방한화까지…G마켓‘끝장세일’최대80%",
   "\"피의자전환시간문제\"라더니…두달수사하고입건안한종합특검",
   "'AI로부정행위'세무사수석경찰출석…개조한계산기도활용(종합)",
@@ -6001,7 +5991,17 @@
   "'장윤기사건'수사정보유출경찰관들에징역형구형",
   "공소청,'노태우비자금의혹'노재헌주중대사소환통보…이달말조...",
   "공소청,'노태우비자금의혹'노재헌주중대사소환조사통보",
-  "수사했던검사가아동학대사건직접공소유지해실형…공판우수사례"
+  "수사했던검사가아동학대사건직접공소유지해실형…공판우수사례",
+  "[MD포커스]쇼핑앱안켜도결제·리뷰‘뚝딱’…AI비서‘피클’돌풍...",
+  "공정위'기부금영업'제재추진…CJ프레시웨이\"사실아냐\"반박(종합)",
+  "공정위,CJ프레시웨이부당고객유인지적에…CJ프레시웨이\"회계기준에...",
+  "경찰,‘비상장주식누락’혐의강은희대구교육감송치",
+  "공소청,'노태우비자금의혹'노재헌주중대사피의자로소환통보",
+  "‘장윤기부실수사’경찰수사팀장,공소청‘징역3년’구형",
+  "장윤기사건부실수사의혹,전수사팀장징역3년구형",
+  "화우,홍승우전서울경찰청수사과장영입...형사대응강화",
+  "공소청,'노태우일가비자금'의혹노재헌대사소환통보",
+  "김상욱겨누던울산국힘,정작김두겸·구청장3명줄송치에는'묵묵부..."
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "노재헌 비자금 의혹 소환 주중대사 노태우 통보"
   ]
  ],
- "last_run": "2026-11-25T14:20:59.819707+09:00",
+ "last_run": "2026-11-25T14:31:08.552051+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
