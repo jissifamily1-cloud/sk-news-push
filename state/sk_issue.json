@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202611171533314931740eacf404_1",
-  "https://www.yna.co.kr/view/AKR20261117104400004?input=1195m",
-  "https://www.busan.com/view/busan/view.php?code=2026111715173631748",
-  "https://www.busan.com/view/busan/view.php?code=2026111713220076630",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611170107&t=NN",
-  "https://www.dailian.co.kr/news/view/1716220/?sc=Naver",
-  "https://magazine.hankyung.com/business/article/202611172306b",
-  "https://biz.chosun.com/distribution/fashion-beauty/2026/11/17/LXLWC2XYIFGQLHU67F3LAD2NHY/",
-  "https://www.dailian.co.kr/news/view/1716242/?sc=Naver",
   "http://www.bokuennews.com/news/article.html?no=287303",
   "https://www.kgnews.co.kr/news/article.html?no=919988",
   "https://www.thepublic.kr/news/articleView.html?idxno=327142",
@@ -2999,18 +2990,18 @@
   "https://www.kmib.co.kr/article/20261125500667",
   "https://www.sedaily.com/article/20118802",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=230044",
-  "https://www.pressian.com/pages/articles/2026112414112408287"
+  "https://www.pressian.com/pages/articles/2026112414112408287",
+  "http://worknworld.kctu.org/news/articleView.html?idxno=510382",
+  "https://www.hankookilbo.com/news/article/A2026112513360001910?did=NA",
+  "https://www.meconomynews.com/news/articleView.html?idxno=204119",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=516107",
+  "https://www.topdaily.kr/articles/113098",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=314303",
+  "https://news.jtbc.co.kr/article/NB12329753?influxDiv=NAVER",
+  "https://www.nocutnews.co.kr/news/6612445",
+  "https://www.hani.co.kr/arti/society/society_general/1289026.html"
  ],
  "seen_titles": [
-  "온열매트부터방한화까지…G마켓‘끝장세일’최대80%",
-  "\"피의자전환시간문제\"라더니…두달수사하고입건안한종합특검",
-  "'AI로부정행위'세무사수석경찰출석…개조한계산기도활용(종합)",
-  "방문판매신고포상금‘1000만원한도’폐지…위반가담한임직원도...",
-  "\"호카판권분쟁안끝났다\"…조이웍스노조공식출범",
-  "조이웍스노조출범…호카새총판이랜드규탄",
-  "건설·식음료·소비재업종서담합빈번...준법인증격차심각",
-  "‘호카분쟁’장기화전망…조이웍스,새브랜드놓치고직원들은노...",
-  "AI부정행위,사후합격취소가능?…시험기관조사권한은[법조계에물...",
   "고혈압진료전문성높인다…임상고혈압학회,치료전략논의",
   "카드매출정산업체위장해연132%대출…404억불법대출일당검거",
   "G마켓,겨울맞이'끝장세일'…난방가전·방한용품최대80%할인",
@@ -6001,7 +5992,16 @@
   "장윤기사건부실수사의혹,전수사팀장징역3년구형",
   "화우,홍승우전서울경찰청수사과장영입...형사대응강화",
   "공소청,'노태우일가비자금'의혹노재헌대사소환통보",
-  "김상욱겨누던울산국힘,정작김두겸·구청장3명줄송치에는'묵묵부..."
+  "김상욱겨누던울산국힘,정작김두겸·구청장3명줄송치에는'묵묵부...",
+  "서울지역시민사회단체,\"노들섬개발533억,시의회가전액삭감하라\"",
+  "복지시설납품하려임직원에상품권살포...CJ프레시웨이심의개시",
+  "CJ프레시웨이'부당고객유인'공방...공정위심의착수",
+  "잘나가던샤브올데이,졸리비인수후매장감소…옛주인명륜당은사...",
+  "[TOP'sPick][유통]CJ프레시웨이,'부당고객유인'혐의반박...\"입장소...",
+  "CJ프레시웨이,공정위부당고객유인혐의반박\"사실과달라\"",
+  "공소청,'노태우일가비자금의혹'노재헌대사피의자신분소환통보",
+  "'경찰요직'거친홍승우前총경,화우변호사로합류",
+  "공소청,‘노태우비자금은닉의혹’노재헌주중대사출석통보"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "노재헌 비자금 의혹 소환 주중대사 노태우 통보"
   ]
  ],
- "last_run": "2026-11-25T14:31:08.552051+09:00",
+ "last_run": "2026-11-25T14:41:06.888319+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
