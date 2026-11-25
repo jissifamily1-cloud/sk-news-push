@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202611172055180982",
-  "https://www.donga.com/news/Economy/article/all/20261117/135042270/1",
-  "https://www.news1.kr/world/middleeast-africa/6357287",
-  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=291132",
-  "https://news.jtbc.co.kr/article/NB12328493?influxDiv=NAVER",
-  "https://www.hankookilbo.com/news/article/A2026111720380002887?did=NA",
-  "https://www.newsway.co.kr/news/view?ud=2026111721324493961",
   "https://www.edaily.co.kr/News/Read?newsId=05261126645646704&mediaCodeNo=257",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=565701",
   "http://news.heraldcorp.com/view.php?ud=20240430050577",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026112501421",
   "https://www.thepublic.kr/news/articleView.html?idxno=328478",
   "https://www.dailian.co.kr/news/view/1719728/?sc=Naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722306"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722306",
+  "https://www.gosiweek.com/article/1065602249360434",
+  "https://www.mk.co.kr/article/12218458",
+  "https://www.bloter.net/news/articleView.html?idxno=679691",
+  "https://www.insight.co.kr/news/583585",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452932",
+  "https://view.asiae.co.kr/article/2026112516252215867",
+  "https://www.seoul.co.kr/news/international/china/2026/11/25/20261125500283?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "공정위심사관,동일인지정자료허위제출로쿠팡·김범석고발의견",
-  "공정위“총수지정자료허위제출쿠팡·김범석고발해야”",
-  "튀르키예또야권방송사압수수색…경영진구금·관리인선임",
-  "조직화된′중고거래사기′..\"경찰추적피했다\"",
-  "[단독]사라진정재환휴대전화…모친면회서\"부숴서버렸어?\"",
-  "공정위,'쿠팡·김범석'고발심의착수…\"총수지정자료허위제출혐...",
-  "공정위,쿠팡·김범석고발심의…총수지정자료허위제출혐의",
   "공정위,'쿠팡·김범석'고발의견…“총수지정자료허위제출혐의”",
   "대구시,공공배달앱운영사우선협상자선정평가과정부실논란",
   "“계열사간부당채무보증”…공정위,SK계열사에과징금1.5억원부과",
@@ -6001,7 +5994,14 @@
   "굿즈부터국수까지…조계종쇼핑몰을아십니까",
   "한솔제지13%·무림11.5%인쇄용지인상예고…출판계\"가격인상계획...",
   "CJ프레시웨이,공정위'복지시설부당유인'지적에\"사실아냐\"반박",
-  "차명계좌로8만차례주가조작…상장사대표등2명구속"
+  "차명계좌로8만차례주가조작…상장사대표등2명구속",
+  "엔퍼센트,잠실롯데월드몰서12월2일까지‘5초세척스텐가습기’팝...",
+  "10년동안상습담합기업…공공입찰참여어려워진다",
+  "공정위자료제출명령에소송낸한화…현장조사관행바뀌나",
+  "CJ프레시웨이\"기부금으로거래유인안했다...식자재단가인상도불...",
+  "이병철9년공들인다올투자증권경영권매각설,중소형증권사매물흥...",
+  "공소청,'장윤기사건'증거인멸방조경찰관들에징역1년6월~3년구형",
+  "中,군사압박넘어선거판흔드는‘영향력공작’…대만지방선거변..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "노재헌 비자금 의혹 소환 주중대사 노태우 통보"
   ]
  ],
- "last_run": "2026-11-25T17:31:14.238031+09:00",
+ "last_run": "2026-11-25T17:41:07.086656+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
