@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/view.php?key=20230616010008356",
-  "http://www.newspim.com/news/view/20230601001061",
-  "https://www.khan.co.kr/article/202305121706001",
-  "https://www.khan.co.kr/article/202305051637001",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1007180650&plink=ORI&cooper=NAVER",
   "http://www.pennmike.com/news/articleView.html?idxno=63322",
   "https://news.kmib.co.kr/article/view.asp?arcid=0018230889&code=61121311&cp=nv",
   "https://www.munhwa.com/news/view.html?no=2023050501039910021002",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20261125_0003883433",
   "https://www.dailian.co.kr/news/view/1719779/?sc=Naver",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4446532",
-  "https://www.fnnews.com/news/202611251819547942"
+  "https://www.fnnews.com/news/202611251819547942",
+  "https://www.swtvnews.com/news/newsview.php?ncode=1065596304651158",
+  "https://www.news1.kr/society/incident-accident/6366193",
+  "https://www.news1.kr/finance/general-stock/6366169",
+  "https://www.sedaily.com/article/20119016",
+  "https://www.newsis.com/view/NISX20261125_0003883322"
  ],
  "seen_titles": [
-  "檢,'50억클럽'박영수인척·조우형소환…막판혐의다지기",
-  "檢,'천화동인6호실소유의혹'조우형소환조사",
-  "‘대장동개발’조우형,“천화동인6호실소유주?지분공유했을뿐”",
-  "검찰,대장동‘숨은핵심’조우형구속실패···‘50억클럽’수사...",
-  "'천화동인6호'조우형영장기각에…검찰,보강수사착수",
   "법원,'천화동인6호'조우형구속영장도기각",
   "“공범들도”…‘천화동인6호’조우형구속영장기각이유",
   "‘천화동인6호실소유주의심’조우형구속영장기각…“구속필요성...",
@@ -6001,7 +5996,12 @@
   "주식미리사고호재성기사보도…증선위,언론사기자고발·과징금5...",
   "주식사놓고보도…금융당국,기자포함언론관계자에50억과징금",
   "주식미리사놓고호재성기사보도…증선위,언론사기자고발",
-  "공정위,대형사건심의속도…네이버결합·정유사담합결과에촉각"
+  "공정위,대형사건심의속도…네이버결합·정유사담합결과에촉각",
+  "‘점주대표선출에본사개입?’…가맹사업법개정안시행앞두고갈등...",
+  "공소청'102억불법정치자금의혹'전광훈구속영장청구",
+  "주식먼저사고'호재성기사'…증선위,언론사기자고발",
+  "‘호재성기사’이용주식선행매매…언론사기자등과징금50억부과",
+  "공소청,'100억대불법정치자금의혹'전광훈구속영장청구"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "촉각 심의 정유사 네이버 대형사건 결합 결과에 담합 속도"
   ]
  ],
- "last_run": "2026-11-25T18:31:08.668901+09:00",
+ "last_run": "2026-11-25T18:40:55.315201+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
