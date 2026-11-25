@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91973",
-  "https://www.newspim.com/news/view/20261124001076",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=125514",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452780",
-  "https://biz.chosun.com/it-science/ict/2026/11/24/Q35ERL445VATTKA3V7GUIHXLXU/",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=306007",
-  "http://www.metroseoul.co.kr/article/20261124500390",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240134&t=NN",
   "https://www.fnnews.com/news/202611241509511333",
   "https://www.wikitree.co.kr/articles/1177340",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241109004180347",
@@ -2999,17 +2991,17 @@
   "https://www.thesportstimes.co.kr/news/articleView.html?idxno=377891",
   "http://www.metroseoul.co.kr/article/20261126500007",
   "https://www.ytn.co.kr/_ln/0102_202611260715144937",
-  "https://www.edaily.co.kr/News/Read?newsId=01600646645649656&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01600646645649656&mediaCodeNo=257",
+  "https://www.economytalk.kr/news/articleView.html?idxno=425539",
+  "https://www.public25.com/news/articleView.html?idxno=59090",
+  "https://www.geconomy.co.kr/news/article.html?no=326096",
+  "https://www.greened.kr/news/articleView.html?idxno=355596",
+  "https://www.insight.co.kr/news/583603",
+  "https://www.upkoreanews.kr/news/articleView.html?idxno=101387",
+  "https://www.the-today.com/news/articleView.html?idxno=94115",
+  "https://www.munhwa.com/article/11634195"
  ],
  "seen_titles": [
-  "국산뇌전증치료제'엑스코프리',돌고돌아마침내국내상륙",
-  "\"뇌전증치료목표,'발작감소'에서'발작소실'로변화\"",
-  "중부발전,용인반도체클러스터열병합발전소건설본궤도...EPC계약...",
-  "최태원분쟁대신실리택했다…노소영에9440억지급",
-  "[Telecom&Now]SK텔레콤'AI케어',시슐랭스타선정…산업통상부장관...",
-  "삼전닉스반도체공장짓는데사람이없다…26만명'인력대란'",
-  "SK증권\"유가안정∙3일이상늘어나는연휴⋯하나투어,내년여행수요...",
-  "[통신브리핑]SK텔레콤·KT·LG유플러스",
   "젠슨황복귀에코스피5000선회복...증권가\"추세적반등확인필요\"",
   "골드만삭스,삼전·닉스목표가하향...삼전50→30,닉스350→200만원",
   "젠슨황복귀에삼성전자·SK하이닉스'한숨돌려',중국AI칩수출통제...",
@@ -6001,7 +5993,15 @@
   "'허훈-안영준,소속팀에선35분이상뛰더니국가대표는부상낙마'월...",
   "연말앞두고대기업회사채없어서못사...'BBB'급은찬밥신세",
   "미,한국등14곳에'과잉생산'관세...'많이만든다'고관세?의미와파...",
-  "“이직하려면AI프롬프트내라고?”…직장인78%“노하우도용우려”"
+  "“이직하려면AI프롬프트내라고?”…직장인78%“노하우도용우려”",
+  "젠슨황복귀에도남은숙제…삼성·하이닉스,엔비디아'밖'수요키워...",
+  "뉴욕증시,AI투자불안혼조세다우0.33%↑·나스닥0.62%↓...국제유가...",
+  "美성장률4.3%에도기술주휘청…고물가·관세·AI거품우려에흔들리...",
+  "[종합분석]노소영\"진정성있다면상고취하해야\"...최태원\"화해요청...",
+  "채상욱대표\"3억날린과거고백\"...증시급락에투자자들위로",
+  "[오늘증시전망]코스피6.16%급락,4,700선붕괴…오늘한국은행금리...",
+  "[투데이온]SK하이닉스,12월4일키옥시아의결권확보…9년전'방어투...",
+  "일본인손정의회장이대구에서성묘한이유"
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,25 @@
   [
    "2026-11-26T07:21:11.962352+09:00",
    "우려 노하우 이직하려면 직장인 내라고 프롬프트 AI 도용"
+  ],
+  [
+   "2026-11-26T07:31:18.790660+09:00",
+   "과거 3억 증시 투자자들 날린 대표 고백 위로 급락에 채상욱"
+  ],
+  [
+   "2026-11-26T07:31:18.790660+09:00",
+   "붕괴 코스피 급락 700선 한국은행 금리"
+  ],
+  [
+   "2026-11-26T07:31:18.790660+09:00",
+   "키옥시아 확보 9년 의결권 4일 방어 SK하이닉스 12월"
+  ],
+  [
+   "2026-11-26T07:31:18.790660+09:00",
+   "이유 일본인 회장이 대구에서 성묘한 손정의"
   ]
  ],
- "last_run": "2026-11-26T07:21:26.853131+09:00",
+ "last_run": "2026-11-26T07:31:32.227135+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
