@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448631",
-  "https://www.sedaily.com/article/20114369",
-  "https://biz.heraldcorp.com/article/10937337",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=903106",
   "https://www.cwn.kr/news/articleView.html?idxno=61772",
   "https://biz.sbs.co.kr/article_hub/20000346448?division=NAVER",
   "https://www.mt.co.kr/industry/2026/11/15/2026111509205799024",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1719801/?sc=Naver",
   "https://www.gukjenews.com/news/articleView.html?idxno=3763151",
   "https://www.thelec.kr/news/articleView.html?idxno=65933",
-  "https://www.fnnews.com/news/202611252122053614"
+  "https://www.fnnews.com/news/202611252122053614",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=723382",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261125214446Zu0",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590285.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590283.html"
  ],
  "seen_titles": [
-  "SK최태원\"SK,'AI컴퍼니'로재정의해야\"…'AI플라이휠'전략속도",
-  "최태원\"SK,스스로AI컴퍼니로재정의해야\"…'AI플라이휠'로토큰...",
-  "최태원\"AI반도체넘어서비스까지…성장선순환만들어야\"",
-  "최태원“성장이성장낳는‘플라이휠’만들자…각멤버사AI역할찾...",
   "[WhoIs?]김종우SKC대표이사사장",
   "최태원“AI플라이휠로선순환구축…토큰이코노미선도하자”",
   "최태원SK회장“AI시대,성장선순환만들어야”",
@@ -6001,7 +5997,11 @@
   "[데일리안오늘뉴스종합][단독]'張조작징계'의혹에원내반발확산...",
   "\"6대재난분야전문가한자리에\"…경북도,맞춤형대응전략가동",
   "노소영,화해권고요청거부…최태원\"유감\"",
-  "노소영,최태원화해권고요청거부…\"진정성있다면상고취하하라\""
+  "노소영,최태원화해권고요청거부…\"진정성있다면상고취하하라\"",
+  "용인특례시의회,도서관이용공백·위탁사업관리개선요구",
+  "[이시각헤드라인]11월25일뉴스투나잇",
+  "공소청,'盧비자금의혹'노재헌주중대사소환통보",
+  "노소영,화해요청에\"NO\"…최태원\"진정성폄훼유감\""
  ],
  "recent_sigs": [
   [
@@ -6093,7 +6093,7 @@
    "확산 의혹에 반발 원내 조작징계"
   ]
  ],
- "last_run": "2026-11-25T21:40:29.958770+09:00",
+ "last_run": "2026-11-25T21:50:28.825639+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
