@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/581814",
-  "https://news.mtn.co.kr/article/2026111216160824087",
-  "http://www.inews24.com/view/2025706",
-  "https://www.hankyung.com/article/2026111236201",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1336701",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/12/20261112500333?wlog_tag3=naver",
-  "https://www.hankyung.com/article/2026111236831",
-  "https://www.segye.com/newsView/20261112515918?OutUrl=naver",
-  "https://www.sentv.co.kr/article/view/sentv202611120122",
-  "https://www.sedaily.com/article/20113722",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=513826",
-  "https://www.kmaeil.com/news/articleView.html?idxno=658131",
   "https://news.jtbc.co.kr/article/NB12327798?influxDiv=NAVER",
   "https://www.kyeongin.com/article/1774682",
   "https://www.donga.com/news/Economy/article/all/20261112/135015711/1",
@@ -2999,21 +2987,21 @@
   "https://www.ablenews.co.kr/news/articleView.html?idxno=234598",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=409163",
   "https://www.etoday.co.kr/news/view/2652734",
-  "https://www.mediapen.com/news/view/1139911"
+  "https://www.mediapen.com/news/view/1139911",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561558",
+  "https://www.sedaily.com/article/20118721",
+  "https://www.ytn.co.kr/_ln/0103_202611251123557416",
+  "https://www.dt.co.kr/article/12097123",
+  "https://view.asiae.co.kr/article/2026112511215848876",
+  "https://www.kgnews.co.kr/news/article.html?no=921135",
+  "https://www.news1.kr/society/court-prosecution/6365428",
+  "https://www.yna.co.kr/view/AKR20261125086500004?input=1195m",
+  "https://www.joongangenews.com/news/articleView.html?idxno=566474",
+  "https://www.slist.kr/news/articleView.html?idxno=784658",
+  "https://www.newsis.com/view/NISX20261125_0003882540",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3762550"
  ],
  "seen_titles": [
-  "‘AI황제’젠슨황,해임절차돌입…삼성·SK,엔비디아와‘AI칩동...",
-  "흔들리는젠슨황,33년만에퇴진위기…“국내기업오히려기회될수...",
-  "[충남도의회행정사무감사]기경위,민생경제활성화·기업투자유치성...",
-  "충남도의회,3개상임위행감서재난대응과폐교활용및산단부진집...",
-  "AI수익화강조한최태원,새경영진과내년사업구상",
-  "체질개선마친SK그룹…AI중심성장전략모색",
-  "젠슨황후임에'애플실리콘'주역부상…반도체업계\"HBM영향제한적...",
-  "한·일빅텐트플랫폼가시화…\"AI·고령화공동대응\"",
-  "[2026년경기도행감]최종현도의원\"빠른출동보다중요한건인명지...",
-  "젠슨황퇴진가능성에촉각…“단기불확실성,중장기흐름은불변”",
-  "[단독]두산,SK실트론인수'6개국심사관문'넘었다",
-  "경영불확실성커지는엔비디아…떨고있는‘깐부동맹’[젠슨황스...",
   "SK,‘AI풀스택’으로내년전략짠다…CEO세미나개막",
   "젠슨이곧엔비디아인데…기술·인맥·투자삼각축흔들리나",
   "김희영충남도의원,14개교육지원청행감서열병합발전소학생안전대...",
@@ -6001,7 +5989,19 @@
   "사랑의열매,원영식오션인더블유대표이사등19명'2026올해의아너'...",
   "[속보]노소영측\"최태원화해권고요청에부동의\"",
   "노소영측\"최회장,진정성있다면상고취하해야\"화해부동의서면제...",
-  "'11일만의복귀'젠슨황이던진화두…AI패권가르는'오너십'"
+  "'11일만의복귀'젠슨황이던진화두…AI패권가르는'오너십'",
+  "[속보]노소영“최태원화해권고요청동의안해…상고취하하라”",
+  "[속보]노소영“최태원화해권고요청에동의안해…상고취하하라”",
+  "[속보]노소영측\"최태원재산분할화해권고동의안해\"",
+  "[속보]노소영“최태원화해권고동의못해…상고취하해야”",
+  "[속보]노소영측화해권고거부…\"최태원,상고취하하라\"",
+  "노소영,최태원화해권고'거절'…\"진정성있다면상고취하\"",
+  "공소청,'노태우일가비자금의혹'노재헌주중대사소환통보",
+  "노소영\"최태원화해권고요청동의못해…즉시상고취하해야\"",
+  "[속보]노소영,최태원화해권고요청에부동의…\"상고취하하라\"",
+  "노소영,최태원'9440억전액지급'화해권고요청거부…\"상고취하하라...",
+  "노소영\"최태원,조기해결진정성있다면상고취하해야\"…화해권고'부...",
+  "노소영관장측,최태원회장'화해권고요청'거부"
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,13 @@
   [
    "2026-11-25T11:23:32.598904+09:00",
    "11일 던진 복귀 AI 가르는 오너십 패권 만의 화두 젠슨 황이"
+  ],
+  [
+   "2026-11-25T11:30:25.212157+09:00",
+   "화해권고 관장 요청 거부 회장"
   ]
  ],
- "last_run": "2026-11-25T11:23:48.934532+09:00",
+ "last_run": "2026-11-25T11:30:38.678071+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
