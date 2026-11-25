@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=678565",
-  "http://www.newstomato.com/ReadNews.aspx?no=1320372&inflow=N",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261113105237T4I",
-  "https://www.eroun.net/news/articleView.html?idxno=95395",
-  "https://www.sedaily.com/article/20114065",
-  "https://weekly.donga.com/3/all/11/6458101/1",
-  "https://www.huffingtonpost.kr/article/262063",
-  "https://www.newspim.com/news/view/20261113000426",
-  "https://www.electimes.com/news/articleView.html?idxno=374728",
   "https://www.hani.co.kr/arti/economy/marketing/1287234.html",
   "https://daily.hankooki.com/news/articleView.html?idxno=1425015",
   "https://www.smartbizn.com/news/articleView.html?idxno=159418",
@@ -2999,18 +2990,18 @@
   "https://www.slist.kr/news/articleView.html?idxno=784762",
   "https://news.tf.co.kr/read/life/2393347.htm",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=195251",
-  "https://news.tf.co.kr/read/economy/2393080.htm"
+  "https://news.tf.co.kr/read/economy/2393080.htm",
+  "https://www.insight.co.kr/news/583578",
+  "https://www.pressian.com/pages/articles/2026112516011227812",
+  "https://www.sportschosun.com/sports-news/2026-11-25/202611050100034050003488",
+  "https://www.mt.co.kr/society/2026/11/25/2026112515524622442",
+  "https://www.huffingtonpost.kr/article/262397",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887214",
+  "https://www.newscj.com/news/articleView.html?idxno=3452024",
+  "https://imnews.imbc.com/news/2026/society/article/6868487_36918.html",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595515235803"
  ],
  "seen_titles": [
-  "민주당,전국11곳사고지역위확정…김병기·강선우지역구등재정비",
-  "최태원“한일경제연대구체화하자…빅텐트형상설플랫폼준비”",
-  "광주새마을회,사랑의김장나눔으로이웃사랑실천",
-  "최태원SK회장,한일경제연대이끌준비…10년로드맵제안",
-  "SK보안컨트롤타워,최창원서'AX전문가'김완종체제로",
-  "젠슨황전격사임…K반도체공급망확대냐축소냐",
-  "[CEO풍향계]'유동성경고'최태원…'양손잡이경영'구자은",
-  "의성군,전국씨름8개팀86명전지훈련유치…스포츠마케팅이어가",
-  "기업공시[11월13일]",
   "젠슨황불명예퇴장에사상최대위기맞은엔비디아",
   "'젠슨황공백'은삼성전자SK하이닉스에도대형악재일까:'엔비디아...",
   "엔비디아위기,삼성·SK엔기회…HBM공급망재편촉각",
@@ -6001,13 +5992,18 @@
   "최태원측,노소영화해권고요청거부에…\"진정성의심유감\"",
   "공소청,'노태우비자금의혹'노재헌주중대사출석통보",
   "다시평행선달리는최태원·노소영…화해권고요청거부VS\"취지폄훼...",
-  "삼성·SK·LG·롯데'닮은꼴인사'…수장교체최소화·미래인재전진"
+  "삼성·SK·LG·롯데'닮은꼴인사'…수장교체최소화·미래인재전진",
+  "공소청,'노태우비자금'수사...노재헌소환통보,노소영증인불출석...",
+  "횡성군,9개읍면의용소방대순찰차량전량교체",
+  "\"한국이왜쇼트트랙강국이냐고요?\"여길좀보세요,새희망이싹튼쇼...",
+  "공소청,'노태우아들'노재헌에소환통보…'비자금의혹'",
+  "최태원노소영'재산분할9440억'재상고심공방끝까지가나:화해권고...",
+  "9440억준다는데…노소영은왜화해를거부했나",
+  "최태원측,노소영화해권고거절에\"진정성폄훼유감\"",
+  "SK최태원측,화해권고거절한노소영에\"유감\"법적다툼계속될듯",
+  "최태원\"9440억다주겠다\"에도노소영'퇴짜'…노소영\"상고취하요구..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-25T10:00:38.436266+09:00",
-   "증안펀드보다 황제 회복 살렸나 효과 누가 AI"
-  ],
   [
    "2026-11-25T10:40:22.196464+09:00",
    "남았다 마련했지만 정산 9440억 부담은"
@@ -6151,9 +6147,13 @@
   [
    "2026-11-25T16:00:32.783357+09:00",
    "미래 닮은꼴 전진 인사 최소화 수장 인재 LG 교체 삼성 롯데"
+  ],
+  [
+   "2026-11-25T16:10:20.358079+09:00",
+   "주겠다 퇴짜 취하요구 상고 9440억 에도"
   ]
  ],
- "last_run": "2026-11-25T16:00:45.135623+09:00",
+ "last_run": "2026-11-25T16:10:33.541099+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
