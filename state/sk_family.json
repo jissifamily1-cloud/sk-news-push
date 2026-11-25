@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=354544",
-  "https://www.yna.co.kr/view/AKR20261113032900003?input=1195m",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54685",
-  "https://www.fnnews.com/news/202611130857507286",
   "https://www.thelec.kr/news/articleView.html?idxno=65381",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082994",
   "https://magazine.hankyung.com/business/article/202611134362b",
@@ -2999,13 +2995,13 @@
   "https://imnews.imbc.com/replay/2026/nw1200/article/6868418_36967.html",
   "http://www.joseilbo.com/news/news_read.php?uid=580404&class=32",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232830",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50901"
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50901",
+  "https://www.jasm.co.kr/news/view/326439/?sc=Naver",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=95910",
+  "https://www.ngonews.kr/news/articleView.html?idxno=244154",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/25/2026112550157.html"
  ],
  "seen_titles": [
-  "최태원‘한일경제연대’실행구상…에너지공동조달·AI·반도체함께...",
-  "최태원\"한일경제연대,비전넘어실행으로\"…'빅텐트'협력플랫폼추...",
-  "최태원,한일경제연대'3·5·10년'구상제시…'빅텐트'추진",
-  "[정해균의Zoom-人]'각양강색'전문경영인부회장...사업총괄부터회장...",
   "SK그룹,3일간CEO세미나개최…AI협력·사업재편성과점검",
   "최태원\"한일경제연대추진역량결집할'빅텐트'플랫폼준비\"",
   "최태원\"한일경제연대위한빅텐트협력플랫폼준비\"",
@@ -6001,7 +5997,11 @@
   "노소영,최태원9,440억원거절‥\"상고취하해야\"",
   "노소영측\"최태원'9440억'화해권고요청,동의안해...상고취하하라...",
   "공소청,'노태우일가비자금'의혹노재헌주중대사소환통보",
-  "[STPICK]노소영측,최태원화해권고요청거부…\"즉시상고취하해야\""
+  "[STPICK]노소영측,최태원화해권고요청거부…\"즉시상고취하해야\"",
+  "\"최태원,상고취하하라\"...노소영'9440억원화해권고'거부",
+  "노소영,최태원화해권고요청에부동의…\"조기해결원하면상고취하...",
+  "노소영아트센터나비관장,최태원SK그룹회장화해권고요청거부",
+  "\"진정성있다면상고취하하라\"…노소영,최태원화해권고요청거부"
  ],
  "recent_sigs": [
   [
@@ -6089,7 +6089,7 @@
    "상고 취하해야 440억 거절"
   ]
  ],
- "last_run": "2026-11-25T12:40:32.569147+09:00",
+ "last_run": "2026-11-25T12:50:31.919561+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
