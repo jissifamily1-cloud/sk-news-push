@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/stock/2026/11/11/2026111014243556817",
-  "https://www.news1.kr/economy/trend/6357168",
   "https://www.donga.com/news/Society/article/all/20261117/135043067/2",
   "https://www.kmib.co.kr/article/20261117502143",
   "https://www.kmib.co.kr/article/20261117502073",
@@ -2999,11 +2997,11 @@
   "https://www.lawissue.co.kr/view.php?ud=202611252059222899204ead0791_12",
   "https://www.ikbc.co.kr/article/view/kbc202611250078",
   "https://www.edaily.co.kr/News/Read?newsId=04191846645649328&mediaCodeNo=257",
-  "https://www.yna.co.kr/view/AKR20261125181000082?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261125181000082?input=1195m",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261125214007Qca",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590285.html"
  ],
  "seen_titles": [
-  "ESG공시의무화코앞인데…대형상장사5곳중1곳'보고서無'",
-  "네이버·두나무오늘결합심의…자사우대차단·스테이블코인규제쟁...",
   "공정위“총수지정자료허위제출쿠팡-김범석고발”의견",
   "공정위,쿠팡·김범석고발의견…총수지정자료허위제출혐의",
   "네이버·두나무합치면결제도네이버로?공정위경쟁제한우려에결제...",
@@ -6001,15 +5999,21 @@
   "브리타,롯데백화점잠실점‘꿀잠연구소’팝업참여",
   "'장윤기사건증거인멸'강력팀장에징역3년구형",
   "[미리보는이데일리신문]\"널뛰는증시,3개주머니차라\"",
-  "독일14살도극우가담…난민시설테러모의혐의체포"
+  "독일14살도극우가담…난민시설테러모의혐의체포",
+  "독일서난민시설공격계획한10대들체포…극우테러조직결성혐의",
+  "공소청,'盧비자금의혹'노재헌주중대사소환통보"
  ],
  "recent_sigs": [
   [
    "2026-11-25T18:31:02.830637+09:00",
    "촉각 심의 정유사 네이버 대형사건 결합 결과에 담합 속도"
+  ],
+  [
+   "2026-11-25T21:50:50.361622+09:00",
+   "소환 비자금 통보 의혹 주중대사 공소청 노재헌"
   ]
  ],
- "last_run": "2026-11-25T21:40:58.752873+09:00",
+ "last_run": "2026-11-25T21:50:57.969759+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
