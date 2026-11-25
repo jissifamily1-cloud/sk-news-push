@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=05261126645646704&mediaCodeNo=257",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=565701",
-  "http://news.heraldcorp.com/view.php?ud=20240430050577",
-  "https://www.youthdaily.co.kr/news/article.html?no=151557",
   "https://www.nocutnews.co.kr/news/6137848",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=751598",
   "http://www.kukinews.com/newsView/kuk202404300091",
@@ -2999,13 +2995,13 @@
   "https://www.insight.co.kr/news/583585",
   "https://www.businesspost.co.kr/BP?command=article_view&num=452932",
   "https://view.asiae.co.kr/article/2026112516252215867",
-  "https://www.seoul.co.kr/news/international/china/2026/11/25/20261125500283?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/international/china/2026/11/25/20261125500283?wlog_tag3=naver",
+  "https://www.insight.co.kr/news/583589",
+  "https://www.nocutnews.co.kr/news/6612660",
+  "https://news.mtn.co.kr/article/2026112517132581767",
+  "https://www.cfnews.kr/news/article.html?no=113720"
  ],
  "seen_titles": [
-  "공정위,'쿠팡·김범석'고발의견…“총수지정자료허위제출혐의”",
-  "대구시,공공배달앱운영사우선협상자선정평가과정부실논란",
-  "“계열사간부당채무보증”…공정위,SK계열사에과징금1.5억원부과",
-  "\"채무보증금지규정위반\"…공정위,SK계열사에과징금1.5억원부과",
   "SK소속'플레이스포'의계열사채무보증에공정위,과징금1.5억부과",
   "\"위장계열사로채무보증위반\"…공정위,SK계열사에과징금1.5억부과",
   "‘불법채무보증’SK계열사공정위제재…과징금1억5300만원",
@@ -6001,7 +5997,11 @@
   "CJ프레시웨이\"기부금으로거래유인안했다...식자재단가인상도불...",
   "이병철9년공들인다올투자증권경영권매각설,중소형증권사매물흥...",
   "공소청,'장윤기사건'증거인멸방조경찰관들에징역1년6월~3년구형",
-  "中,군사압박넘어선거판흔드는‘영향력공작’…대만지방선거변..."
+  "中,군사압박넘어선거판흔드는‘영향력공작’…대만지방선거변...",
+  "보일러25도틀고자면습도급감,감기위험커진다",
+  "담합제재7개월만에'종잇값또인상'…출판계반발",
+  "공정위,CJ프레시웨이'부당고객유인'제재착수",
+  "[법정24]이상일용인시장등7명,‘시예산홍보현수막’선거법혐의..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "노재헌 비자금 의혹 소환 주중대사 노태우 통보"
   ]
  ],
- "last_run": "2026-11-25T17:41:07.086656+09:00",
+ "last_run": "2026-11-25T17:50:58.452416+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
