@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=94315",
-  "https://sateconomy.co.kr/news/view/1065574204012569",
-  "https://www.hankyung.com/article/2026111194836",
-  "https://thetracker.co.kr/View.aspx?No=4306926",
-  "https://www.newsis.com/view/NISI20261111_0002288584",
-  "https://www.newsis.com/view/NISI20261111_0002288585",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572881300801",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=369371",
   "https://www.joongangenews.com/news/articleView.html?idxno=562859",
   "https://view.asiae.co.kr/article/2026111109174070702",
@@ -2999,16 +2992,16 @@
   "https://www.khan.co.kr/article/202611261450011",
   "https://www.imaeil.com/page/view/2026112614571134863",
   "https://www.dt.co.kr/article/12097436",
-  "https://view.asiae.co.kr/article/2026112614505131339"
+  "https://view.asiae.co.kr/article/2026112614505131339",
+  "http://www.wsobi.com/news/articleView.html?idxno=322660",
+  "https://www.itdaily.kr/news/articleView.html?idxno=243232",
+  "https://www.fntimes.com/html/view.php?ud=20261126144423278fa6b69a559_18",
+  "https://www.mhj21.com/news/articleView.html?idxno=255033",
+  "https://biz.heraldcorp.com/article/10950596",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4121142",
+  "https://www.newspim.com/news/view/20261126000962"
  ],
  "seen_titles": [
-  "대신경제연구소·임팩트온,ESG공시전략세미나성료",
-  "ESG공시,'작성'보다'증명'으로…기업가치가르는이행능력",
-  "대신경제연구소·임팩트온,기업ESG담당자70여명과공시리스크논의",
-  "대신경제연구소·임팩트온,ESG공시전략세미나성료…평판리스크대...",
-  "COP31참석한그레타툰베리",
-  "툰베리\"COP,올바른방향으로가고있지않아\"",
-  "대신증권,대신경제연구소·임팩트온ESG공시세미나…기업가치제고...",
   "대신경제연구소·임팩트온,ESG공시전략세미나개최...기업가치제고",
   "대신경제연구소,ESG공시뒤그린워싱·평판리스크대응논의",
   "대신경제연구소,임팩트온과ESG공시전략세미나개최",
@@ -6001,13 +5994,16 @@
   "공정위,‘아이폰16AI기능’광고법위반의혹심의착수",
   "안동시전소통비서관,관급자재뇌물수수혐의1심징역5년",
   "매수버튼누르고기사썼다…언론사기자등에과징금50억철퇴",
-  "이준석\"탄핵추진하면법원은이대통령재판재개해야\"[시사쇼]"
+  "이준석\"탄핵추진하면법원은이대통령재판재개해야\"[시사쇼]",
+  "업사이클링캠페인·청소년정서회복·물품전달·취약계층지원사회공...",
+  "공정위,아이폰AI광고심의착수…애플\"동의하지않아\"",
+  "몸집키운통합진에어,첫행보는'다이어트'[LCC전국시대②]",
+  "공정위\"복지시설납품권노린기부\"…CJ프레시웨이\"사실아냐\"",
+  "추미애,판사2년차‘난장이가쏘아올린작은공’불온서적영장기각",
+  "경찰,'리트만점자'이진우집·영훈고압수수색",
+  "부산경찰,470억대무자료해상유불법유통100명검거…2명구속"
  ],
  "recent_sigs": [
-  [
-   "2026-11-26T09:01:16.251017+09:00",
-   "공전 강유정 후보자로 문체부 영화계 중인 장관 객단가 정조준했던"
-  ],
   [
    "2026-11-26T10:01:12.829612+09:00",
    "4위 내부거래 인터내셔널 거래 들여다보니 포스코"
@@ -6017,7 +6013,7 @@
    "변호사 만에 SKT GC센터 강화 한달 5G 임원 소송"
   ]
  ],
- "last_run": "2026-11-26T15:01:10.069545+09:00",
+ "last_run": "2026-11-26T15:10:57.608672+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
