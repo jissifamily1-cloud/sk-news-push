@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=886810",
-  "https://www.fnnews.com/news/202611241813048188",
-  "https://www.fnnews.com/news/202611241813389260",
-  "http://www.finomy.com/news/articleView.html?idxno=267149",
-  "https://www.fnnews.com/news/202611241813276966",
-  "https://www.dt.co.kr/article/12097030",
-  "https://biz.sbs.co.kr/article_hub/20000348605?division=NAVER",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=117200",
-  "https://www.fnnews.com/news/202611241817015784",
-  "https://www.mk.co.kr/article/12217441",
-  "https://www.lawissue.co.kr/view.php?ud=20261124174252332107f28b58b8_12",
   "https://biz.sbs.co.kr/article_hub/20000348607?division=NAVER",
   "https://view.asiae.co.kr/article/2026112418035524165",
   "http://www.finomy.com/news/articleView.html?idxno=267590",
@@ -2999,20 +2988,20 @@
   "https://www.mt.co.kr/world/2026/11/26/2026112609005083113",
   "https://www.impacton.net/news/articleView.html?idxno=30831",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1733068",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723183"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723183",
+  "https://mhnse.com/news/articleView.html?idxno=1712009",
+  "https://www.hani.co.kr/arti/economy/it/1288905.html",
+  "https://www.dt.co.kr/article/12095990",
+  "https://en.yna.co.kr/view/AEN20261126004800320?input=2106m",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16286768",
+  "https://www.econovill.com/news/articleView.html?idxno=758597",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887580",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251836137630665",
+  "https://economist.co.kr/article/view/ecn202611260030",
+  "https://biz.heraldcorp.com/article/10950155",
+  "https://www.topdaily.kr/articles/113133"
  ],
  "seen_titles": [
-  "\"반도체·AI투자심리살아났지만수익성우려여전\"",
-  "[게시판]KT,육군교육사령부와AI기반지휘통제체계고도화등단신",
-  "'AI동맹'삼성·SK한숨돌렸다[젠슨황복귀]",
-  "호남반도체선결과제‘광주군공항이전법’처리본격화",
-  "경력같은신입키운다…'청년도약멤버십'140곳동참",
-  "[마감]'황의귀환'에...똥밟은새내기주엠비디",
-  "통신비지원넘어디지털격차해소방점…AI접근성키워야[AI시대통...",
-  "SKT독거노인돌봄'AI케어'산업부장관상",
-  "코스닥거래위축'심화'···주식거래대금64%↓",
-  "황\"두번째는더나은CEO될것\"…美AI주두자릿수급등[젠슨황복귀...",
-  "[사설]젠슨황복귀가확인한AI패권경쟁…기업이국력임을새겨야",
   "삼전닉스6%대'불기둥'…사흘만에5천피탈환",
   "SK텔레콤,AI기술에사회적가치더했다…'시슐랭스타'장관상",
   "외국인도돌아왔다…7거래일간5조팔다순매수전환[젠슨황복귀]",
@@ -6001,7 +5990,18 @@
   "낸드이어D램까지…메모리값정점왔나",
   "11월3주차국내ESG핫클립",
   "스마트시큐리티품고캡스텍팔고…SK쉴더스,무인보안강화",
-  "원조맛집‘위고비’와챔피언‘마운자로’의마지막승부는?"
+  "원조맛집‘위고비’와챔피언‘마운자로’의마지막승부는?",
+  "[오피셜]LG는분명김민식영입과박동원계약은별개라했다...이제협...",
+  "SKT,‘피클’전화막으면서AI콜출시?…무슨차이길래[테크자잘자잘...",
+  "[사설]AI혁신과ESG경영의조화가지속가능성장의출발점이다",
+  "SeoulsharesuplateThurs.morningontechgains",
+  "SK이노베이션주가,11월26일장중94,200원4.67%상승",
+  "ktcloud안산에110㎿AI데이터센터캠퍼스꾸린다",
+  "SK하이닉스,100조주주환원이행공시...주가방어총력",
+  "이상일용인시장,공·사립유치원원장만나교육현안해법모색",
+  "[오늘의삼전닉스]'빅테크배당압도'하락장에도SK하닉100조환원다...",
+  "“반도체인재,대학원아닌취업선택…이러다일본전철”",
+  "스틱얼터너티브,수서역로즈데일빌딩2700억인수완료"
  ],
  "recent_sigs": [
   [
@@ -7087,9 +7087,21 @@
   [
    "2026-11-26T11:21:04.461954+09:00",
    "승부는 맛집 마지막 챔피언 마운자로 원조 위고비"
+  ],
+  [
+   "2026-11-26T11:31:12.645891+09:00",
+   "하락장에도 빅테크 배당 환원 SK하닉 압도 100조"
+  ],
+  [
+   "2026-11-26T11:31:12.645891+09:00",
+   "일본 취업 선택 대학원 반도체 전철 이러다 아닌 인재"
+  ],
+  [
+   "2026-11-26T11:31:12.645891+09:00",
+   "인수 2700억 스틱얼터너티브 완료 수서역 로즈데일빌딩"
   ]
  ],
- "last_run": "2026-11-26T11:21:28.465002+09:00",
+ "last_run": "2026-11-26T11:31:23.715082+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
