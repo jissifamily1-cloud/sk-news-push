@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/sports/general-sport/6208283",
-  "https://www.sportschosun.com/sports-news/2026-06-25/202606250100175630011556",
-  "https://www.starnewskorea.com/sports/2026/06/24/2026062418504548629",
   "https://www.sportschosun.com/sports-news/2026-06-24/202606240100167350010990",
   "https://www.seoulfn.com/news/articleView.html?idxno=631740",
   "https://www.seoulfn.com/news/articleView.html?idxno=631704",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20261126_0003884777",
   "https://www.mt.co.kr/estate/2026/11/26/2026112614033724874",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2497609",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=453013"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=453013",
+  "http://www.cctimes.kr/news/articleView.html?idxno=939358",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887689",
+  "https://www.edaily.co.kr/News/Read?newsId=03575206645649656&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "'SK의오너리스크'라는최신원명예회장,7억시세차익남긴제주별장",
-  "\"내사비로라도칼사줄게,우리선수들지원차질없도록\"亞선수권전원...",
-  "한국펜싱,金4개로아시아선수권마무리…참가선수전원메달",
   "'봉쇄시위로칼빌려출전'펜싱대표팀전원메달'해피엔딩'",
   "\"함께일때더강한K-펜싱\"女에페中에44-43,1점차짜릿승!亞선수권...",
   "한국펜싱,아시아펜싱선수권단체전서금·동메달추가!女사브르3년...",
@@ -6001,7 +5998,10 @@
   "\"내데이터로번돈,나에게도돌려준다\"…'데이터이익공유제'정부포...",
   "\"반도체건설인력'26만명'키운다\"…국토부·노동부정책경쟁모드",
   "경제5단체수장인선줄줄이···재계'싱크탱크'판도바뀌나",
-  "미국'25%관세'근거로'호남반도체'거론,삼성전자·SK하이닉스국내..."
+  "미국'25%관세'근거로'호남반도체'거론,삼성전자·SK하이닉스국내...",
+  "김희영의원,충남청소년수련시설협회와현장간담회개최및감사패수...",
+  "경기도일간기자단,제5회우수의정·행정대상수상자선정",
+  "보조금에관세까지…정권바뀌어도이어지는K반도체美생산압박"
  ],
  "recent_sigs": [
   [
@@ -6063,9 +6063,13 @@
   [
    "2026-11-26T15:40:18.109524+09:00",
    "삼성전자 반도체 SK하이닉스 호남 근거로 거론 관세 국내 미국"
+  ],
+  [
+   "2026-11-26T15:50:18.869976+09:00",
+   "관세까지 보조금에 정권 압박 생산 바뀌어도 K반도체 이어지는"
   ]
  ],
- "last_run": "2026-11-26T15:40:30.542863+09:00",
+ "last_run": "2026-11-26T15:50:32.943036+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
