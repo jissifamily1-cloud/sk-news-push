@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=243563",
-  "https://www.news2day.co.kr/article/20261118500298",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394525",
   "https://www.sedaily.com/article/20116068",
   "https://www.jasm.co.kr/news/view/325716/?sc=Naver",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890224.html",
@@ -2999,12 +2996,12 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=88501",
   "https://www.jasm.co.kr/news/view/326576/?sc=Naver",
   "https://www.medigatenews.com/news/3067105668",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723292"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723292",
+  "https://www.kyeongin.com/article/1775443",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446726",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723306"
  ],
  "seen_titles": [
-  "특검이정치의도구가되는순간,법치주의는무너진다",
-  "BBQ초청명단진위논란에…윤홍근회장'허위제보'사건재조명",
-  "법무법인동인,'정보·기술보호센터'신설…블루벨트검사출신투톱",
   "경찰,‘AI부정행위’세무사수석자택등압수수색",
   "'AI부정행위'세무사수석자택등압수수색…계산기개조'송수신기'로",
   "경찰,'AI커닝'세무사시험수석합격자압수수색",
@@ -6001,7 +5998,10 @@
   "공정위,'애플인텔리전스'기만광고제재착수…관련매출3조3527억원...",
   "경찰,'리트만점'이진우집·수능시험지보관장소압수수색",
   "김민석,소아응급실압수수색에\"현장상황이해하며섬세하게접근해야...",
-  "‘리트만점’고이진우주거지압수수색"
+  "‘리트만점’고이진우주거지압수수색",
+  "“아직무감각해요”…국내기후저널리즘놓고열띤토론",
+  "[남승표의궁변통구]130조도둑질이횡행하는나라",
+  "공정위,‘아이폰16허위광고’심의"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "변호사 만에 SKT GC센터 강화 한달 5G 임원 소송"
   ]
  ],
- "last_run": "2026-11-26T12:40:59.019910+09:00",
+ "last_run": "2026-11-26T12:50:59.010144+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
