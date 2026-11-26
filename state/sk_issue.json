@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1716534/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20261117134800002?input=1195m",
-  "https://www.mt.co.kr/economy/2026/11/18/2026111808393663737",
-  "https://www.news1.kr/economy/trend/6357531",
-  "https://www.yna.co.kr/view/AKR20261118034900002?input=1195m",
-  "https://www.newsis.com/view/NISX20261118_0003872788",
   "https://www.newsis.com/view/NISX20261118_0003872548",
   "https://www.mt.co.kr/economy/2026/11/18/2026111808464294492",
   "https://www.news1.kr/economy/trend/6357426",
@@ -2999,15 +2993,15 @@
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=627721",
   "https://www.newsian.co.kr/news/articleView.html?idxno=102048",
   "https://www.sidae.com/article/2026112608111283227",
-  "https://kpenews.com/View.aspx?No=4330157"
+  "https://kpenews.com/View.aspx?No=4330157",
+  "https://www.biotimes.co.kr/news/articleView.html?idxno=36490",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=400195",
+  "https://www.cstimes.com/news/articleView.html?idxno=729493",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446599",
+  "https://www.ytn.co.kr/_ln/0103_202611260847115308",
+  "https://www.dailian.co.kr/news/view/1719661/?sc=Naver"
  ],
  "seen_titles": [
-  "알리·테무같은해외플랫폼도한국어로직접응대해야…한국어전화·...",
-  "공정위,한신공영에시정명령…금융업손자회사지배금지위반",
-  "공정위,'금융사주식보유규정위반'한신공영제재",
-  "한신공영,'금산분리'위반제재…금융사2곳지분100%보유",
-  "매출1조넘는해외사업자,국내대리인둬야…공정위가이드라인",
-  "해외쇼핑몰서환불문제생기면…내년1월부터한국어전화상담",
   "공정위,'아파트자금조달용금융사2곳보유'한신공영에시정명령",
   "매출1조↑·월평균접속자100만↑해외전자상거래업체,국내대리인지...",
   "해외사업자국내대리인가이드라인마련…소비자분쟁대응강화",
@@ -6001,7 +5995,13 @@
   "기부금으로납품권확보했나…공정위,현대그린푸드현장조사",
   "[단독]김성수구청장,해운대비스타사용승인공방에\"투자전망어두...",
   "추미애지사\"공무원은부당한지시에이의제기할수있어야\"",
-  "[기자수첩]중소렌터카보호론과사모펀드의이해관계"
+  "[기자수첩]중소렌터카보호론과사모펀드의이해관계",
+  "겨울안면홍조,따뜻한실내에서더붉어진다면",
+  "아이닉,블랙프라이데이맞아…전제품할인진행",
+  "쿠첸,핀업디자인어워드3관왕…밥솥·음식물처리기최고상",
+  "9년만에식자재겨눈공정위…업계전방위압박",
+  "경찰,'리트만점의혹'수사확대...주거지찾아탐문[뉴스UP]",
+  "'객단가'정조준했던강유정,문체부장관후보자로…공전중인영화계..."
  ],
  "recent_sigs": [
   [
@@ -6011,9 +6011,13 @@
   [
    "2026-11-26T08:50:57.572727+09:00",
    "보호론과 중소 사모펀드의 렌터카 이해관계"
+  ],
+  [
+   "2026-11-26T09:01:16.251017+09:00",
+   "공전 강유정 후보자로 문체부 영화계 중인 장관 객단가 정조준했던"
   ]
  ],
- "last_run": "2026-11-26T08:51:04.687553+09:00",
+ "last_run": "2026-11-26T09:01:23.573782+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
