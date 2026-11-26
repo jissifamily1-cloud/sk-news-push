@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026111909302322835",
-  "https://www.hankyung.com/article/2026111965007",
-  "https://view.asiae.co.kr/article/2026111908083057677",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085129",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=626266",
-  "https://www.intn.co.kr/news/articleView.html?idxno=3000355",
-  "https://www.nocutnews.co.kr/news/6609282",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=140176",
-  "https://www.seoultimes.news/news/article.html?no=2000102391",
-  "https://www.ytn.co.kr/_ln/0103_202611191016419601",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190029&t=NN",
   "https://www.fnnews.com/news/202611190918342574",
   "https://www.newstree.kr/newsView/ntr202611190004",
   "https://www.ajunews.com/view/20261119094848273",
@@ -2999,20 +2988,20 @@
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=338718",
   "https://www.newsis.com/view/NISX20261126_0003885031",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=247967",
-  "https://www.mt.co.kr/society/2026/11/26/2026112610593690287"
+  "https://www.mt.co.kr/society/2026/11/26/2026112610593690287",
+  "https://www.ajunews.com/view/20261125235843764",
+  "http://www.kdfnews.com/news/articleView.html?idxno=191494",
+  "https://www.news1.kr/society/court-prosecution/6367497",
+  "https://www.joongangenews.com/news/articleView.html?idxno=566894",
+  "https://www.lawtv.kr/news/articleView.html?idxno=61535",
+  "http://www.worldkorean.net/news/articleView.html?idxno=58306",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5233104",
+  "https://www.khan.co.kr/article/202611261649001",
+  "https://www.medigatenews.com/news/2556319693",
+  "https://biz.heraldcorp.com/article/10950798",
+  "https://www.edaily.co.kr/News/Read?newsId=03913046645649656&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[속보]'노쇼'리트만점자행방불명…\"주거지에없어\"",
-  "[속보]당국\"리트만점자,신변우려신고접수…주거지에없어\"",
-  "삼성,해외법인1년새99곳늘어…'사업재편'SK제치고2위",
-  "한화해외법인894곳'최다'…삼성,SK제치고2위탈환",
-  "공정위,투썸플레이스'시중가최대4배'물품·장비강매의혹조사",
-  "공정위,\"조사실효성제고위해조사불응시경제적제재강화추진하고...",
-  "투썸플레이스가맹점물품강매의혹…공정위,조사착수",
-  "공정위,투썸조사착수…'권장품목'뒤에숨은구매강제의혹",
-  "허윤홍GS건설대표,경영성과보다공정거래원칙우선",
-  "'AI커닝'우려속수능...이진우,공개검증불참[뉴스퀘어10]",
-  "생중계안나온'리트만점자'연락두절…\"신변우려\"신고도",
   "복대속에아이폰숨겼다…세무사수석의'AI커닝'전말",
   "'리트'만점자결국공개검증불참…경찰수사에소송까지직면",
   "[로펌핫스폿]동인,'개인정보보호·기술유출대응센터'신설…리스크...",
@@ -6001,7 +5990,18 @@
   "뉴스타파후원하면KBS사장못하나",
   "'리트만점자'이진우압수수색영장에'성명불상공범'적시(종합)",
   "경찰,LEET부정행위의혹'강제수사'…주거지·고교압수수색",
-  "구더기생길정도로아내방치한전직부사관,2심도징역30년"
+  "구더기생길정도로아내방치한전직부사관,2심도징역30년",
+  "[추위에웃는유통가]호호불어먹는호빵·고구마'불티'...전기매트등...",
+  "옷사고빈손으로나간다…무신사스탠다드,서울숲에국내최대매장...",
+  "'국고채입찰'금융사담합사건,중수청반독점수사국배당",
+  "애플,아이폰16AI기능기만광고혐의로공정위심판대…최대600억원...",
+  "\"시리한국어1년6개월늦었다\"...애플,'기만광고'로공정위첫과징금...",
+  "[신간]실화다큐소설'정규필대령간첩조작사건'",
+  "경찰,'리트만점자'수능시험지확보…유족자택도압수수색",
+  "경찰,‘리트만점자’수능시험지확보…영장에‘성명불상’공범...",
+  "김택우회장\"응급실압수수색이후정부대응미온적…협의체구성약...",
+  "수만마리구더기들끓던아내끝내사망…전직부사관살인죄2심도징...",
+  "경찰,'리트만점'이진우자택등압수수색…수능시험지확보(종합)"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "변호사 만에 SKT GC센터 강화 한달 5G 임원 소송"
   ]
  ],
- "last_run": "2026-11-26T16:41:03.083463+09:00",
+ "last_run": "2026-11-26T16:51:01.628924+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
