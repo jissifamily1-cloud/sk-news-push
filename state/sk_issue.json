@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202611123166b",
-  "https://www.naeil.com/news/read/609243",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394419",
-  "https://www.hani.co.kr/arti/society/society_general/1287901.html",
-  "https://www.kbsm.net/news/view.php?idx=542257",
   "https://www.newsis.com/view/NISX20261118_0003873140",
   "https://www.intn.co.kr/news/articleView.html?idxno=3000321",
   "https://www.intn.co.kr/news/articleView.html?idxno=3000320",
@@ -2999,14 +2994,14 @@
   "https://www.kmaeil.com/news/articleView.html?idxno=659826",
   "https://www.mt.co.kr/world/2026/11/26/2026112608304169709",
   "https://www.newsian.co.kr/news/articleView.html?idxno=102054",
-  "https://www.ddaily.co.kr/page/view/2026112609363091504"
+  "https://www.ddaily.co.kr/page/view/2026112609363091504",
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=5814",
+  "https://www.news1.kr/industry/general-industry/6366607",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=95570",
+  "http://www.joseilbo.com/news/news_read.php?uid=580469&class=32",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887498"
  ],
  "seen_titles": [
-  "[로펌라운지]광장,공정거래전문가이주현전부장검사영입",
-  "이름뿐인공정거래자율준수프로그램실효성의문",
-  "김범석동생'경영참여'논란…공정위쿠팡고발여부심의",
-  "중수청,‘한동훈딸허위스펙·수사무마’사건공수처·경찰에이첩",
-  "경찰,선거법위반혐의성주군수강제수사나서…휴대전화압수",
   "논란의'리트만점자'수사받나…현직변호사3명이고발",
   "공정위,한신공영(주)자회사행위제한규정위반행위제재",
   "공정위,'전자상거래법국내대리인지정가이드라인'배포",
@@ -6001,7 +5996,12 @@
   "[말말말]추미애경기지사,신규공무원에헌법적가치강조…\"부당한...",
   "美\"한국,약속어겼다\"…공정위쿠팡과징금에'압박'",
   "과징금두번에도열려있던공공입찰문턱…공정위,반복담합기업퇴출...",
-  "“주식미리사고호재성기사출고”…기자·지인50억원과징금철퇴"
+  "“주식미리사고호재성기사출고”…기자·지인50억원과징금철퇴",
+  "CJ제일제당,인천마장초서햇반용기업사이클링시계만들기체험진...",
+  "쿠첸,밥솥넘어생활가전까지…핀업디자인어워드3관왕",
+  "버려지던즉석밥용기가어린이손에서시계로재탄생…CJ제일제당,'햇...",
+  "공소청,'노태우비자금의혹'노재헌대사소환통보...이달말출석조...",
+  "공정위내부거래4위포스코…인터내셔널거래들여다보니"
  ],
  "recent_sigs": [
   [
@@ -6015,9 +6015,13 @@
   [
    "2026-11-26T09:01:16.251017+09:00",
    "공전 강유정 후보자로 문체부 영화계 중인 장관 객단가 정조준했던"
+  ],
+  [
+   "2026-11-26T10:01:12.829612+09:00",
+   "4위 내부거래 인터내셔널 거래 들여다보니 포스코"
   ]
  ],
- "last_run": "2026-11-26T09:51:04.873852+09:00",
+ "last_run": "2026-11-26T10:01:21.004266+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6132,6 +6136,7 @@
   "meconomynews.com": "시장경제신문",
   "globale.co.kr": "글로벌E",
   "newsclaim.co.kr": "뉴스클레임",
-  "kbmaeil.com": "경북매일"
+  "kbmaeil.com": "경북매일",
+  "hansbiz.co.kr": "한스경제"
  }
 }
