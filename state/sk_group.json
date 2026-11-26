@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627568",
-  "https://www.busan.com/view/busan/view.php?code=2026112510222499157",
-  "https://www.kyeonggi.com/article/20261125580066",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=140883",
-  "https://www.businessplus.kr/news/articleView.html?idxno=120447",
   "https://www.joongang.co.kr/article/25481765",
   "https://www.smartbizn.com/news/articleView.html?idxno=160539",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550074.html",
@@ -2999,14 +2994,14 @@
   "https://view.asiae.co.kr/article/2026112620272554949",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261126.99099008720",
   "https://www.m-i.kr/news/articleView.html?idxno=2024093",
-  "https://www.bloter.net/news/articleView.html?idxno=679834"
+  "https://www.bloter.net/news/articleView.html?idxno=679834",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=92756",
+  "http://www.kwangju.co.kr/article.php?aid=1795692600805767004",
+  "https://www.mk.co.kr/article/12219772",
+  "http://www.kjdaily.com/article.php?aid=1795693031693720276",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16287308"
  ],
  "seen_titles": [
-  "코스피,어제는'매수사이드카'·오늘은'매도사이드카'",
-  "SK스토아,AI쇼호스트출격…협업방송진행",
-  "노동부장관“반도체팹속도전핵심은건설인력”…직업훈련지원대폭...",
-  "Sh수협은행,코오롱그룹에기업신용분석노하우공유",
-  "[비즈+]현대엔지니어링,용인·호남발전소잇단수주…2조2840억원규모",
   "일장‘황’몽코스피,하루만에5000피반납,나흘연속사이드카",
   "대한상의,지역청년일자리·中企인력난해법찾는다···\"AI전문가가...",
   "트럼프과잉생산관세임박…K반도체,美현지생산압박커지나",
@@ -6001,7 +5996,12 @@
   "3차ESS우선협상대상선정…전국14곳에1194㎿",
   "이재용,머스크의반도체장기구매제안에\"뭘더해줄수있는데\"",
   "3차ESS우선협상물량1194MW선정…배터리공급사미공개",
-  "SK바이오팜,단기차입약정50%확대…신약투자·상환부담"
+  "SK바이오팜,단기차입약정50%확대…신약투자·상환부담",
+  "해외행동주의펀드팰리서,LG화학압박수위높여…\"자사주매입부...",
+  "미국“과잉생산관세”,호남반도체정조준…정부대응시급",
+  "“이재용,머스크의‘반도체장기구매제안’에‘뭘더해줄건데?’...",
+  "삼성전자·SK하이닉스거래대금6.2조…21%감소",
+  "삼전닉스공매도74%급감…에코프로는증가"
  ],
  "recent_sigs": [
   [
@@ -6987,9 +6987,17 @@
   [
    "2026-11-26T20:31:12.450638+09:00",
    "SK바이오팜 단기차입약정 부담 신약 확대 상환 투자"
+  ],
+  [
+   "2026-11-26T20:41:06.320212+09:00",
+   "SK하이닉스 감소 삼성전자 거래대금 2조"
+  ],
+  [
+   "2026-11-26T20:41:06.320212+09:00",
+   "에코프로는 공매도 삼전닉스 증가 급감"
   ]
  ],
- "last_run": "2026-11-26T20:31:18.511597+09:00",
+ "last_run": "2026-11-26T20:41:14.790601+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
