@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apsk.co.kr/news/articleView.html?idxno=541147",
-  "https://www.thepublic.kr/news/articleView.html?idxno=328382",
-  "https://www.meconomynews.com/news/articleView.html?idxno=204107",
-  "https://www.naeil.com/news/read/610014",
-  "http://www.osen.co.kr/article/G1112913945",
-  "https://www.joongang.co.kr/article/25478990",
-  "https://www.mk.co.kr/article/12209809",
-  "http://www.beyondpost.co.kr/view.php?ud=2026112513151552502aaae0046f_30",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101988",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=272799",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590147.html",
   "http://www.inews24.com/view/2030198",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4120786",
@@ -2999,19 +2989,19 @@
   "https://www.fnnews.com/news/202611270733148451",
   "https://www.nocutnews.co.kr/news/6613440",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508666",
-  "https://slownews.kr/170293"
+  "https://slownews.kr/170293",
+  "https://sports.donga.com/region/article/all/20261127/135100837/1",
+  "https://www.dailian.co.kr/news/view/1720345/?sc=Naver",
+  "https://www.newsway.co.kr/news/view?ud=2026112616564451737",
+  "http://www.beyondpost.co.kr/view.php?ud=20261127074949802546a9e4dd7f_30",
+  "https://www.smartbizn.com/news/articleView.html?idxno=160773",
+  "https://www.etoday.co.kr/news/view/2653693",
+  "https://www.etoday.co.kr/news/view/2653694",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=102124",
+  "https://biz.sbs.co.kr/article_hub/20000349239?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000349240?division=NAVER"
  ],
  "seen_titles": [
-  "외형커졌지만수익성·IPO고민…SK플라즈마,사업다각화로돌파구",
-  "구글,HBM'2위큰손'부상…엔비디아중심시장재편에삼성·SK시험대",
-  "이번에는지커...중국차확장,서비스는시험대",
-  "해양수도부산시대…해운·조선기업오고우수인재모인다",
-  "'2026팔색미인치어리더스타대상',올스타급라인업을자랑하는SSG치...",
-  "JDC,‘제6회영리더스포럼,제주’12월3~4일개최",
-  "SKchairmancallsforAI-drivenbusinessoverhaul",
-  "코스피5.7%,대만5.2%,일본3%급락...아시아주요증시,하루만에주...",
-  "노소영,최태원측'9440억화해권고'부동의…상고취하촉구",
-  "현대엔지니어링,용인·여수발전소건설계약…2조2840억원규모",
   "노소영\"최태원화해권고요청부동의…상고취하해야\"",
   "노소영\"최태원화해권고동의못해…즉시상고취하해야\"",
   "노소영,최태원9천440억원지급제안거부",
@@ -6001,7 +5991,17 @@
   "'중복상장해소'로에코플랜트품는SK,반도체호황에지주사가치부...",
   "'부상으로7명교체에도'韓농구,카타르22점차격파…이승현17점",
   "한국기업들정부에SOS…美통상정책변화에반도체·자동차주운명은...",
-  "가난할수록더가난해진다,낙수효과는언제오나:슬로우레터11월27일..."
+  "가난할수록더가난해진다,낙수효과는언제오나:슬로우레터11월27일...",
+  "이상일용인시장“반도체초격차·150만자족도시..2027년집중”",
+  "‘엔트리7명교체’남자농구,카타르꺾고월드컵본선행청신호",
+  "네이버·카카오AI에이전트내달출격…피클과다른'실행방식'승부",
+  "코웨이,정수기브랜드평판2026년11월...1위",
+  "피클이드러낸에이전트AI'고민'···편리함뒤에남은권한과책임",
+  "[전날애프터마켓]미래에셋벤처투자,스페이스X호재에추가상승…삼...",
+  "신한투자\"SK리츠,고금리에도배당확대⋯상장리츠최선호주\"",
+  "8위FC안양,28일7위제주SK홈경기서이겨점수차좁힐까",
+  "[비즈나우]메모리호황끝?…\"공급난\"vs.\"내년고점\"",
+  "[애프터마켓리뷰]'우주데이터센터'스페이스X100만위성승인"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,33 @@
   [
    "2026-11-27T07:51:05.791013+09:00",
    "오나 가난할수록 낙수 11월27일 효과는 슬로우레터 가난해진다 언제"
+  ],
+  [
+   "2026-11-27T08:01:27.805125+09:00",
+   "피클이 권한과 에이전트 고민 남은 뒤에 AI 드러낸 책임 편리함"
+  ],
+  [
+   "2026-11-27T08:01:27.805125+09:00",
+   "스페이스X 호재에 상승 미래에셋벤처투자 추가"
+  ],
+  [
+   "2026-11-27T08:01:27.805125+09:00",
+   "확대 상장 SK리츠 고금리에도 신한투자 최선호주 리츠 배당"
+  ],
+  [
+   "2026-11-27T08:01:27.805125+09:00",
+   "안양 제주 28일 경기서 7위 이겨 8위 FC 점수 좁힐까"
+  ],
+  [
+   "2026-11-27T08:01:27.805125+09:00",
+   "vs 공급난 메모리 고점 호황 내년"
+  ],
+  [
+   "2026-11-27T08:01:27.805125+09:00",
+   "스페이스X 100만 위성 우주 데이터센터 승인"
   ]
  ],
- "last_run": "2026-11-27T07:51:27.322801+09:00",
+ "last_run": "2026-11-27T08:01:45.969925+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
