@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=244154",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=230074",
-  "https://www.catchnews.kr/news/articleView.html?idxno=130972",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=888405",
-  "https://www.viva100.com/article/20261125500704",
-  "https://www.tokenpost.kr/news/blockchain/443947",
   "https://www.kbmaeil.com/article/20261125500283",
   "https://it.chosun.com/news/articleView.html?idxno=3000000001781",
   "https://www.kgnews.co.kr/news/article.html?no=921108",
@@ -2999,15 +2993,15 @@
   "https://biz.sbs.co.kr/article_hub/20000349227?division=NAVER",
   "https://www.imaeil.com/page/view/2026112707182501279",
   "https://www.jemin.com/news/articleView.html?idxno=848621",
-  "https://www.public25.com/news/articleView.html?idxno=59173"
+  "https://www.public25.com/news/articleView.html?idxno=59173",
+  "https://www.greened.kr/news/articleView.html?idxno=355730",
+  "https://www.slist.kr/news/articleView.html?idxno=785193",
+  "https://www.fntimes.com/html/view.php?ud=20261127070952582141825007d_18",
+  "https://www.upkoreanews.kr/news/articleView.html?idxno=101416",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010631",
+  "https://www.ytn.co.kr/_ln/0102_202611270717153806"
  ],
  "seen_titles": [
-  "노소영아트센터나비관장,최태원SK그룹회장화해권고요청거부",
-  "채권2026년11월브랜드평판...미래에셋증권,신한은행,국민은행順",
-  "'우협선정두달만'현대엔지니어링,2.3조원대용인·호남발전사업연...",
-  "[금융zip]JB금융,한국ESG기준원평가'통합A플러스등급'획득外",
-  "부산대학들,산학협력‘AX전환’총출동",
-  "[로빈후드온체인]앤트로픽A주토큰이96만달러어치새로발행돼...로...",
   "‘노태우비자금의혹’노재헌주중대사소환통보",
   "노소영측\"최태원화해권고,동의안해\"",
   "용인반도체산단에1050MW발전소…현대엔지니어링,1조6540억원계약...",
@@ -6001,7 +5995,13 @@
   "[증시전략]'젠슨황호재'삼킨악재들…연말산타랠리는없나?",
   "머스크'파격제안'에도이재용\"뭘더해줄건데?\"뜻밖의반문…무슨...",
   "반도체확보에선금까지…마이크론·삼성·SK하이닉스,수년치물량선...",
-  "뉴욕증시휴장...유럽증시미국의EU관세부과완화기대감에상승"
+  "뉴욕증시휴장...유럽증시미국의EU관세부과완화기대감에상승",
+  "머스크도삼성전자에반도체공급요청…이재용반응\"뭘더해줄수있...",
+  "최태원측,\"9440억원일주일내지급·5%지연이자부담\"제안",
+  "[KFT모닝브리프]2026.11.27—오늘꼭알아야할국내외경제뉴스",
+  "[오늘증시전망]코스피4,700선회복했지만상승폭축소…27일외국인...",
+  "트럼프관세의역설…물가부담키우고재정수입의존높여철폐어려워...",
+  "[스타트경제]\"내년성장률4.1%\"반도체가끌어올린금리...같은날가..."
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,29 @@
   [
    "2026-11-27T07:21:07.731451+09:00",
    "EU 휴장 완화 유럽증시 상승 미국의 기대감에 뉴욕증시 관세부과"
+  ],
+  [
+   "2026-11-27T07:31:12.046101+09:00",
+   "9440억원 제안 부담 지연이자 최태원 지급 일주일"
+  ],
+  [
+   "2026-11-27T07:31:12.046101+09:00",
+   "알아야 국내외 경제뉴스"
+  ],
+  [
+   "2026-11-27T07:31:12.046101+09:00",
+   "700선 회복했지만 축소 27일 상승폭 코스피 외국인"
+  ],
+  [
+   "2026-11-27T07:31:12.046101+09:00",
+   "어려워 높여 역설 재정수입 부담 의존 관세의 키우고 트럼프 물가 철폐"
+  ],
+  [
+   "2026-11-27T07:31:12.046101+09:00",
+   "같은 반도체가 내년 성장률 금리 끌어올린"
   ]
  ],
- "last_run": "2026-11-27T07:21:13.388498+09:00",
+ "last_run": "2026-11-27T07:31:28.403204+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
