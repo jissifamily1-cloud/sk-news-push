@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4102363",
-  "https://news.dealsitetv.com/articles/175106",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1012541",
   "http://news.lghellovision.net/news/articleView.html?idxno=552137",
   "https://www.segye.com/newsView/20261115508989?OutUrl=naver",
   "https://www.cbci.co.kr/news/articleView.html?idxno=627094",
@@ -2999,12 +2996,12 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363743735",
   "https://www.ikbc.co.kr/article/view/kbc202611260072",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/26/2026112690226.html",
-  "https://biz.sbs.co.kr/article_hub/20000349189?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000349189?division=NAVER",
+  "http://www.inews24.com/view/2031007",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=904612",
+  "https://www.segye.com/newsView/20261126518092?OutUrl=naver"
  ],
  "seen_titles": [
-  "SK하이닉스,광주군공항또찾았다…호남반도체클러스터투자‘현장...",
-  "SK하이닉스경영진,광주군공항방문…반도체부지점검",
-  "“속도전아닌전격전”SK하이닉스경영진,호남권반도체부지점검",
   "SK하이닉스,광주군공항점검…반도체클러스터가속화",
   "SK하이닉스경영진,광주군공항전격방문…반도체클러스터'가속'",
   "SK하이닉스,광주군공항전격방문…반도체클러스터'가속도'",
@@ -6001,13 +5998,12 @@
   "[2026고객만족브랜드대상]소비자관심·사랑속가치인정받은10개부...",
   "[속보]최태원'화해확정후7일내9440억지급'제안…노소영측\"판결...",
   "최태원\"일주일내9440억·5%지연이자지급\"제안",
-  "최태원,화해요청서에\"1주일내전액지급·5%지연이자\"제안"
+  "최태원,화해요청서에\"1주일내전액지급·5%지연이자\"제안",
+  "최태원\"노소영에9440억일주일내지급,늦으면하루1.3억이자\"",
+  "최태원회장,노소영관장에\"일주일안에9440억지급…5%지연이자부...",
+  "같은9440억원인데…최태원·노소영화해불발된이유[이슈+]"
  ],
  "recent_sigs": [
-  [
-   "2026-11-26T12:20:20.318428+09:00",
-   "SK의 자산 글로벌 유산 70년"
-  ],
   [
    "2026-11-26T15:20:18.803112+09:00",
    "강동수 에너지로 지난해 발탁한 사장들 1년"
@@ -6067,9 +6063,13 @@
   [
    "2026-11-26T17:50:19.306145+09:00",
    "소송 추가 지급 7일 9440억원 조건"
+  ],
+  [
+   "2026-11-26T18:20:20.785344+09:00",
+   "불발된 이유 화해 9440억원인데 같은"
   ]
  ],
- "last_run": "2026-11-26T18:10:27.866199+09:00",
+ "last_run": "2026-11-26T18:20:32.135940+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
