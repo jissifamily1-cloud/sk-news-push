@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232732",
-  "https://www.m-i.kr/news/articleView.html?idxno=2022897",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232724",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721221",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507653",
-  "https://www.newsis.com/view/NISX20261124_0003881736",
-  "https://www.sentv.co.kr/article/view/sentv202611240105",
-  "https://news.jtbc.co.kr/article/NB12329607?influxDiv=NAVER",
   "https://www.hani.co.kr/arti/economy/global/1288931.html",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507662",
   "https://www.dt.co.kr/article/12096017",
@@ -2999,17 +2991,17 @@
   "https://www.munhwa.com/article/11634359",
   "https://www.news1.kr/industry/general-industry/6366857",
   "https://www.etoday.co.kr/news/view/2650962",
-  "https://www.medipana.com/news/articleView.html?idxno=422595"
+  "https://www.medipana.com/news/articleView.html?idxno=422595",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=38662",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173534",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261608",
+  "https://www.newsis.com/view/NISX20261126_0003884331",
+  "https://www.sedaily.com/article/20119282",
+  "https://www.ekn.kr/web/view.php?key=20261126028059840",
+  "https://www.nc.press/news/articleView.html?idxno=631965",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1429314"
  ],
  "seen_titles": [
-  "SK텔레콤‘AI케어’,시슐랭스타10선선정…산업통상부장관상",
-  "대전경찰범죄피해자보호·지원협력체계강화",
-  "반도체패키징인력양성거점'호서대학교'",
-  "SK하이닉스,협력사R&D1천억지원...도전보상제운영",
-  "젠슨황복귀훈풍에코스피급등…5,000선회복",
-  "[뉴스추적]트레이드마크벗었다/젠슨황복귀는주가때문?/중국반...",
-  "용인반도체클러스터열병합발전소적기준공'시동'",
-  "젠슨황복귀에31%폭등한엔비디아주가…코스피도단숨에5천피탈환",
   "젠슨황복귀에코스피급등…5천선회복",
   "iM증권\"HBM물량범용D램으로못돌린다…SK하이닉스·삼성전자에유리...",
   "[올댓차이나]홍콩증시,美대중규제·금리인상경계에엿새째속락…...",
@@ -6001,29 +5993,17 @@
   "삼전닉스반등에도…“반도체겨울더빨리온다”공포확산",
   "관세피했지만…美'호남반도체'문제제기에K반도체'긴장'",
   "K바이오,신약판매·기술이전성과…매출성장본격화",
-  "발작억제넘어질환근원까지…뇌전증신약경쟁,美덴버에쏠린눈"
+  "발작억제넘어질환근원까지…뇌전증신약경쟁,美덴버에쏠린눈",
+  "[오전시황]한은금리인상에코스피상승폭줄어...코스닥상한가7종...",
+  "에스원,2027임원인사서4명승진…AI·로봇사업인재중용",
+  "美주문반도체팔았더니관세25%?···아모데이월세내기더어려워...",
+  "현대차그룹완성차는'안정'·부품사는'교체'…검증된베테랑'전진배...",
+  "초고수,삼전닉스팔고피에스케이홀딩스샀다[주식초고수는지금]",
+  "[데스크칼럼]국산비만치료제,‘진짜’는아직나오지않았다",
+  "[주간베스트셀러]AI가바꾸는세상,책으로읽는다...정재승'서늘한...",
+  "트럼프관세공세에도韓'15%방어선'…李성장전략엔새변수"
  ],
  "recent_sigs": [
-  [
-   "2026-11-26T06:01:42.086291+09:00",
-   "숙제 피클 쇼핑 AI가 책임 누구 상담하는 AI 던진 대신"
-  ],
-  [
-   "2026-11-26T06:01:42.086291+09:00",
-   "시공 강자 설계 신성이엔지 클린룸 제조"
-  ],
-  [
-   "2026-11-26T06:01:42.086291+09:00",
-   "일괄대응 공간 시공 공급 모듈화 기술도 구축까지 장비"
-  ],
-  [
-   "2026-11-26T06:01:42.086291+09:00",
-   "복귀에 삼성 젠슨 협력 급한 HBM 차세대 껐다"
-  ],
-  [
-   "2026-11-26T06:01:42.086291+09:00",
-   "가야 어디로 주식도 코인도 투자자들 하죠 금도"
-  ],
   [
    "2026-11-26T06:11:14.385787+09:00",
    "한은 호미질 나서나 성장률 얼마나 올릴지도 관심"
@@ -7155,9 +7135,25 @@
   [
    "2026-11-26T12:01:25.023896+09:00",
    "억제 근원까지 발작 신약 질환 경쟁 넘어 덴버에 뇌전증 쏠린"
+  ],
+  [
+   "2026-11-26T12:08:10.407754+09:00",
+   "샀다 초고수 팔고 피에스케이홀딩스 삼전닉스"
+  ],
+  [
+   "2026-11-26T12:08:10.407754+09:00",
+   "국산 나오지 비만치료제 않았다 진짜 아직"
+  ],
+  [
+   "2026-11-26T12:08:10.407754+09:00",
+   "정재승 서늘한 AI가 책으로 바꾸는 세상 읽는다"
+  ],
+  [
+   "2026-11-26T12:08:10.407754+09:00",
+   "트럼프 성장전략엔 변수 방어선 공세에도 관세"
   ]
  ],
- "last_run": "2026-11-26T12:01:33.111190+09:00",
+ "last_run": "2026-11-26T12:08:24.168140+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
