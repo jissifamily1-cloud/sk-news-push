@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101517",
-  "https://www.ppss.kr/news/articleView.html?idxno=321753",
-  "https://www.viva100.com/article/20261118501131",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=514832",
   "https://www.mt.co.kr/politics/2026/11/18/2026111815303511581",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716203",
   "http://www.iminju.net/news/articleView.html?idxno=172687",
@@ -2999,13 +2995,13 @@
   "https://www.chosun.com/national/national_general/2026/11/26/YNPPUJ7WCBBALJM6USITW4MUJM/",
   "https://imnews.imbc.com/news/2026/society/article/6868739_36918.html",
   "https://www.hani.co.kr/arti/society/society_general/1289191.html",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1545053"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1545053",
+  "https://view.asiae.co.kr/article/2026112610124965890",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561742",
+  "https://www.newspim.com/news/view/20261126000632",
+  "https://www.ikbc.co.kr/article/view/kbc202611260034"
  ],
  "seen_titles": [
-  "한신공영,금융업손자회사2곳지분100%보유'법위반'…공정위시정...",
-  "정기선회장'위험신호'강조했지만…HD현대오일뱅크담합의혹에내부...",
-  "매출1조원넘는해외사업자,국내대리인세워야⋯공정위가이드라인...",
-  "네이버파이낸셜·두나무결합오늘심의…네이버검색과업비트에서계...",
   "경찰청장후보자\"응급실압수수색적법했지만…의료진불안야기유감...",
   "경찰청장후보자“아주대병원압색은적법…가이드라인마련중”",
   "선관위특검,직원8명구속영장청구…투표록위·변조혐의",
@@ -6001,7 +5997,11 @@
   "경찰,‘리트만점자’주거지압수수색",
   "[속보]경찰,'리트만점자'이씨집·수능시험지보관장소압수수색나...",
   "경찰,‘리트만점자’자택·수능시험지보관고사장압수수색",
-  "경찰,'AI부정행위의혹'LEET만점자자취방등압수수색"
+  "경찰,'AI부정행위의혹'LEET만점자자취방등압수수색",
+  "[단독]4개월간뒷광고손놓은정부…\"관리감독체계마련해야\"[미용의료...",
+  "‘리트만점’故이진우주거지압수수색…‘수능시험지보관’영훈고...",
+  "경찰,'부정행위의혹'리트만점자주거지·시험지보관고교압수수색",
+  "[속보]경찰,'리트만점자'집·수능시험지보관소압수수색"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "변호사 만에 SKT GC센터 강화 한달 5G 임원 소송"
   ]
  ],
- "last_run": "2026-11-26T11:41:01.884355+09:00",
+ "last_run": "2026-11-26T11:51:01.661901+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
