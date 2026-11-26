@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452371",
-  "https://www.etoday.co.kr/news/view/2650258",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=68047",
-  "https://www.hankookilbo.com/news/article/A2026111910090005905?did=NA",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1313593",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261119.99099005941",
-  "https://www.news1.kr/local/incheon/6359182",
-  "http://www.bizwnews.com/news/articleView.html?idxno=152388",
-  "https://hbnpress.com/news/view/1065576093932984",
   "https://www.m-economynews.com/news/article.html?no=73282",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=5515",
   "https://www.ekn.kr/web/view.php?key=20261119028011855",
@@ -2999,18 +2990,18 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5233125",
   "https://biz.chosun.com/topics/topics_social/2026/11/26/EARMNK6OCFG4BGB6TWZLRFRAQA/",
   "https://www.nocutnews.co.kr/news/6613322",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51622"
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51622",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887778",
+  "https://www.ddaily.co.kr/page/view/2026112616591980598",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=255392",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=131165",
+  "https://www.m-economynews.com/news/article.html?no=73652",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5233129",
+  "http://www.newstomato.com/ReadNews.aspx?no=1322012&inflow=N",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=368109",
+  "https://view.asiae.co.kr/article/2026112617193932153"
  ],
  "seen_titles": [
-  "공정위,투썸플레이스가맹점에물품·장비구매강제한의혹조사착수",
-  "공정위,투썸플레이스가맹사업법위반의혹조사…고가장비구매강제...",
-  "공정위,투썸플레이스'고가물품강매의혹'들여다본다",
-  "공정위,투썸플레이스가맹사업법위반의혹조사착수",
-  "수능부정행위의혹이진우씨행방묘연…경찰소재추적",
-  "행방불명된리트만점자신변우려에경찰,광진구일대수색",
-  "'독감사망'유치원교사사직서위조한원장…징역4개월집유1년",
-  "[캐시워크종합]11월19일목요일오전11시현재출제되고있는모든...",
-  "'맹탕국감'비판속투썸플레이스의혹...가맹업계파장주목",
   "공정위,투썸플레이스조사착수...가맹점에고가물품강매의혹",
   "89만원포스기를232만원에…투썸플레이스,가맹점'고가강매'의혹공...",
   "투썸플레이스키오스크등고가장비강매?",
@@ -6001,7 +5992,16 @@
   "1·2심이어대법원도'무죄'…윤석열,위증혐의벗었다[짤e몽땅]",
   "CJ제일제당·동원F&B‘어묵포장’소송…메로나·크린랲판결로본모...",
   "'구더기속아내방치'前부사관2심도징역30년…\"비참하게생마감\"",
-  "강동수SK에너지대표,취임초부터과징금리스크…정유2사최대4.6조..."
+  "강동수SK에너지대표,취임초부터과징금리스크…정유2사최대4.6조...",
+  "26일픽스가습기캐시워크돈버는퀴즈정답공개",
+  "[현장]출근할때도쉴때도‘무탠다드’…800평에담은하루",
+  "겨울철피부건조증늘어…보습·실내습도와일반의약품으로관리",
+  "[현장]성수넘어서울숲으로...무신사스탠다드,800평매장에담은새...",
+  "美백악관,쿠팡과징금부과에반발...한국정부“적법한조치”",
+  "\"시리야,한국어알아듣는다며?\"…'18개월'늦은애플,공정위심의",
+  "쿠팡개인정보유출사태1년…경찰수사는‘답보’",
+  "법원,안동시전소통비서관'뇌물수수징역5년'선고",
+  "경찰,'리트만점자'수능시험지확보…공범여부도수사대상"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "6조 SK에너지 초부터 2사 취임 대표 강동수 정유 과징금 리스크"
   ]
  ],
- "last_run": "2026-11-26T17:21:13.583335+09:00",
+ "last_run": "2026-11-26T17:31:11.121785+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
