@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/gwangju-jeonnam/6365483",
-  "https://biz.sbs.co.kr/article_hub/20000348767?division=NAVER",
-  "https://www.donga.com/news/Economy/article/all/20261123/135076262/2",
-  "https://www.viva100.com/article/20261125500695",
-  "https://magazine.hankyung.com/business/article/202611259249b",
   "https://biz.heraldcorp.com/article/10948900",
   "https://m.skyedaily.com/news_view.html?ID=315195",
   "https://www.junggi.co.kr/news/articleView.html?idxno=38639",
@@ -2999,14 +2994,14 @@
   "https://www.enetnews.co.kr/news/articleView.html?idxno=56844",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=769201",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=769177",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=769084"
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=769084",
+  "https://www.kyeonggi.com/article/20261127580001",
+  "https://www.news2day.co.kr/article/20261126500369",
+  "https://www.seoul.co.kr/news/economy/2026/11/27/20261127500005?wlog_tag3=naver",
+  "https://www.newsis.com/view/NISX20261127_0003885414",
+  "https://www.the-today.com/news/articleView.html?idxno=94168"
  ],
  "seen_titles": [
-  "\"무안공항재개항·주민투표준비철저히…중앙정부탓하면안돼\"",
-  "SK하이닉스,中자율차업체찾았다…왜?",
-  "삼성-SK잇단금요일인사뒤엔‘안정속쇄신’[재계팀의비즈워치]",
-  "노소영,최태원화해권고요청거부⋯“상고취하해야”",
-  "최태원9440억지급제안에도노소영거부…“상고부터취하하라”",
   "노소영,최태원화해권고거부…“상고취하하라”[세상&]",
   "물가잡을까?증시달랠까?딜레마빠진한국은행",
   "[오전시황]코스피,5000선하루만에반납,상한가는5개종목",
@@ -6001,7 +5996,12 @@
   "[브랜드평판]KT엠모바일,알뜰폰11월1위...프리티,SK세븐모바일뒤...",
   "[기자수첩]고객센터엔지능낮은챗봇가득심어놓고고객AI비서에는...",
   "[단독]SK온,외국환거래위반155억과태료불처벌확정…우발부채털...",
-  "삼성·LG'구독'공세에렌탈3사현장실탄늘려맞불…판매수수료일제..."
+  "삼성·LG'구독'공세에렌탈3사현장실탄늘려맞불…판매수수료일제...",
+  "머스크제안에이재용“뭘더해줄수있나”…반도체칩구하려진땀...",
+  "[N2포커스]'7개노조'로쪼개진삼성전자…내년임단협최대변수‘...",
+  "[서울데이터랩]다우는오르고나스닥은밀렸다…미증시,대형기술주...",
+  "머스크에\"뭘더해줄수있나\"…이재용'배짱협상'에온라인들썩",
+  "[투데이온]메모리직접만들겠다던머스크,삼성엔장기구매제안…WS..."
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,25 @@
   [
    "2026-11-27T06:21:04.446616+09:00",
    "공세에 맞불 구독 LG 늘려 현장 일제 렌탈3사 판매수수료 실탄 삼성"
+  ],
+  [
+   "2026-11-27T06:31:14.828321+09:00",
+   "7개 변수 임단협 삼성전자 노조 쪼개진 내년"
+  ],
+  [
+   "2026-11-27T06:31:14.828321+09:00",
+   "대형 나스닥은 기술주 오르고 증시 다우는 밀렸다"
+  ],
+  [
+   "2026-11-27T06:31:14.828321+09:00",
+   "협상 이재용 머스크에 들썩 해줄 있나 온라인 배짱"
+  ],
+  [
+   "2026-11-27T06:31:14.828321+09:00",
+   "장기구매 만들겠다던 직접 머스크 메모리 삼성엔 WS 제안"
   ]
  ],
- "last_run": "2026-11-27T06:21:20.675965+09:00",
+ "last_run": "2026-11-27T06:31:28.452727+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
