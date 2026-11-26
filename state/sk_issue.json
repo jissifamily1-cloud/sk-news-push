@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202611190070",
-  "https://www.gokorea.kr/news/articleView.html?idxno=886380",
   "https://www.news2day.co.kr/article/20261119500161",
   "https://www.gokorea.kr/news/articleView.html?idxno=886365",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000084476",
@@ -2999,11 +2997,11 @@
   "http://www.journalist.or.kr/news/article.html?no=62183",
   "https://www.fnnews.com/news/202611261825010613",
   "https://www.busan.com/view/busan/view.php?code=2026112618203646136",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723526"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723526",
+  "https://www.fnnews.com/news/202611261838577761",
+  "https://www.seoul.co.kr/news/society/accident/2026/11/27/20261127010001?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "푸른아시아,온실가스‘Scope3국제표준’한국어공식번역본공개",
-  "투썸플레이스'가격강매'의혹,공정위조사착수…가맹점주의운명은...",
   "‘리트만점’의혹에전과증언·실종신고까지…AI부정행위불안속...",
   "법학고득점자의미스터리,실종과함께불거진수능부정행위의혹",
   "故김창민감독폭행살해범징역12년·3년…유족\"받아들이기힘들어...",
@@ -6001,7 +5999,9 @@
   "\"AI중간지대서모든게혼란스럽지만,취재는결국'사람의일'\"",
   "꼬리에꼬리문수사…피싱·자금세탁조직180명일망타진",
   "리트만점고이진우씨수사수능시험지보관처압수수색",
-  "‘리트만점’고이진우주거지등압수수색"
+  "‘리트만점’고이진우주거지등압수수색",
+  "김기문회장\"정당한대가받는거래환경조성을\"",
+  "“10명중9명숙제복붙”…AI없으면문제못푸는초등생들"
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "6조 SK에너지 초부터 2사 취임 대표 강동수 정유 과징금 리스크"
   ]
  ],
- "last_run": "2026-11-26T18:31:17.362635+09:00",
+ "last_run": "2026-11-26T18:40:58.470915+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
