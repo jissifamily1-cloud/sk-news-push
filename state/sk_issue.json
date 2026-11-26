@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.tongilnews.com/news/articleView.html?idxno=218202",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261118133818kV5",
-  "http://www.yonhapnewstv.co.kr/news/AKR202611181338484j1",
-  "https://www.newsis.com/view/NISX20261118_0003873171",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560527",
-  "https://www.hani.co.kr/arti/area/yeongnam/1287904.html",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101498",
-  "https://view.asiae.co.kr/article/2026111813481771010",
-  "https://www.sidae.com/article/2026111811404837147",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=82561",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181337140200631",
   "http://www.dailypop.kr/news/articleView.html?idxno=104669",
@@ -2999,18 +2990,18 @@
   "https://www.thepowernews.co.kr/view.php?ud=202611260959329175de3f06dbd1_7",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721442",
   "https://news.tf.co.kr/read/life/2393549.htm",
-  "https://www.viva100.com/article/20261126500405"
+  "https://www.viva100.com/article/20261126500405",
+  "https://www.nbntv.kr/news/articleView.html?idxno=341177",
+  "https://www.sentv.co.kr/article/view/sentv202611260039",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=159468",
+  "https://www.newspim.com/news/view/20261126000352",
+  "https://zdnet.co.kr/view/?no=20261126101459",
+  "https://www.seoul.co.kr/news/international/2026/11/26/20261126500042?wlog_tag3=naver",
+  "http://www.journalist.or.kr/news/article.html?no=62165",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1337873",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=770720"
  ],
  "seen_titles": [
-  "장경욱변호사\"국가보안법은민중의저항력억압하는핵심도구…전면...",
-  "매출1조↑해외사업자국내대리인의무화…지침배포",
-  "한신공영,금융회사지분보유규정위반'시정명령'",
-  "[단독]미투온,카카오게임즈와기업결합심사완료",
-  "경찰청장후보자“한동훈딸수사아쉬움…감찰조사하겠다”",
-  "경찰,‘선거법위반혐의’성주군수휴대폰압수수색",
-  "네이버·두나무결합오늘판가름…'자사우대차단·스테이블코인규제...",
-  "알리·테무도전화나이메일로응대해야…공정위,해외직구'국내대리...",
-  "젠슨황조사하는엔비디아이사회…한국은왜못하나",
   "대기업,AI·디지털금융등미래성장동력계열편입활발",
   "건설사PF관행에제동…한신공영,금융손자회사보유로제재",
   "카카오·티맵대리운전불공정거래논란…보험중복가입개선추진",
@@ -6001,7 +5992,16 @@
   "CJ제일제당,햇반용기로시계제작…초등학생자원순환교육",
   "추미애지사,새내기공무원에소신강조…\"헌법적가치되새겨야\"",
   "'102억불법정치자금의혹'전광훈,30일구속심사",
-  "“나를지킨건헌법가치”…추미애,신규공무원들에‘소신행정’..."
+  "“나를지킨건헌법가치”…추미애,신규공무원들에‘소신행정’...",
+  "CJ제일제당,햇반용기수거부터재생원료화·취약계층고용까지…지속...",
+  "‘햇반이시계로’…CJ제일제당,초등생업사이클링교육",
+  "버려진햇반용기의변신…CJ제일제당,어린이와자원순환가치나눈다",
+  "美관세안서쿠팡빠졌지만…디지털규제301조조사불씨여전",
+  "9년만의빗장풀린국내ICO,혁신의마중물인가투기의서막인가",
+  "백악관“한국쿠팡과징금,트럼프와약속어긴것”비판",
+  "증선위'시장교란'전한경기자들중수청고발·과징금50억",
+  "\"새내기판사시절지켜준건헌법\"…추미애,신규공무원에당부",
+  "정영두김해시장광고비대납의혹,고발6개월…공소시효D-7"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "4위 내부거래 인터내셔널 거래 들여다보니 포스코"
   ]
  ],
- "last_run": "2026-11-26T10:10:59.003297+09:00",
+ "last_run": "2026-11-26T10:21:02.383806+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
