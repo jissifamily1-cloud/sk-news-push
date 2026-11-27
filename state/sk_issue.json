@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=259418",
-  "https://www.ytn.co.kr/_ln/0103_202611201551314573",
-  "https://www.kyeonggi.com/article/20261120580184",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54973",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=82630",
-  "https://www.edaily.co.kr/News/Read?newsId=03594886645647688&mediaCodeNo=257",
   "https://thetracker.co.kr/View.aspx?No=4322578",
   "https://www.thepowernews.co.kr/view.php?ud=202611201356539355de3f0aa1be_7",
   "https://www.newsis.com/view/NISX20261120_0003876958",
@@ -2999,15 +2993,15 @@
   "https://www.hani.co.kr/arti/society/society_general/1289471.html",
   "https://www.dt.co.kr/article/12097645",
   "https://www.ytn.co.kr/_ln/0115_202611271702559349",
-  "https://www.ytn.co.kr/_ln/0103_202611271700579874"
+  "https://www.ytn.co.kr/_ln/0103_202611271700579874",
+  "https://www.hankyung.com/article/2026112753051",
+  "https://www.ajunews.com/view/20261127170855162",
+  "http://www.dailypop.kr/news/articleView.html?idxno=105111",
+  "https://www.dailian.co.kr/news/view/1720715/?sc=Naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3765550",
+  "https://www.dailian.co.kr/news/view/1720657/?sc=Naver"
  ],
  "seen_titles": [
-  "경찰,조원태한진회장휴대전화압수…한진칼자사주출연의혹수사",
-  "'리트만점'이진우사망...부정행위여부수사계속",
-  "‘장애인폭행’색동원직원…징역1년6개월구형",
-  "경찰,조원태회장휴대폰압수…자사주무상출연'배임'고발돼",
-  "'김건희에인사청탁'이봉관의서희건설,올들어매출-이익급감왜?",
-  "\"뇌물상당부분인정되지만…\"윤우진,공소시효지나2심무죄",
   "경찰수사에호반지분추격까지…조원태,한진칼경영권'이중압박'",
   "벤츠,배터리제조사잘못안내하고도배상안거부…차주142명소송으로",
   "조력자확인도안되는데…숨진'리트만점자'의혹규명될까",
@@ -6001,7 +5995,13 @@
   "황교안이체포요청한‘이석기판례’로황교안겨눈특검…징역10년...",
   "특검,황교안에이석기법리대며‘징역10년’구형…황측“단순한...",
   "경찰,'관권선거의혹'공무원등12명송치...박완수경남지사불송치",
-  "'한동훈자료유출'강제수사...법무부·공소청압수수색"
+  "'한동훈자료유출'강제수사...법무부·공소청압수수색",
+  "[책마을]과학은발전하고인간은책임진다",
+  "겨울철피부건조증환자12월'정점'…보습·습도관리가우선",
+  "공정위,아이폰16AI기능'기만광고'혐의로애플심의착수",
+  "특검팀,'SNS내란선동혐의'황교안징역10년구형…\"위험성커\"",
+  "남경필전지사장남,전연인영상유포협박·폭행혐의체포",
+  "환자2명숨진강남치과,보험금편취의혹까지...경찰압수수색"
  ],
  "recent_sigs": [
   [
@@ -6021,7 +6021,7 @@
    "공정거래협약 연동 포스코 현대모비스 상생 앞장 우수"
   ]
  ],
- "last_run": "2026-11-27T17:11:00.934097+09:00",
+ "last_run": "2026-11-27T17:20:55.549250+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
