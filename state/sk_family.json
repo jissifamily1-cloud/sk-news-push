@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20261118/135043058/2",
-  "https://sports.khan.co.kr/article/202611180001003?pt=nv",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261117232545OP7",
-  "https://www.lawissue.co.kr/view.php?ud=202611172314041702204ead0791_12",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261117230438Py8",
-  "https://www.joongang.co.kr/article/25479566",
   "https://www.lawissue.co.kr/view.php?ud=202611172153559753204ead0791_12",
   "https://www.hankyung.com/article/202609118817i",
   "https://www.ekn.kr/web/view.php?key=20260911028253624",
@@ -2999,15 +2993,15 @@
   "https://www.nocutnews.co.kr/news/6567035",
   "https://www.etnews.com/20260824000306",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=85976",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000059096"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059096",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=258886",
+  "http://www.nongaek.com/news/articleView.html?idxno=97500",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285517&CMPT_CD=P0010",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1111915",
+  "https://biz.heraldcorp.com/article/10920233",
+  "https://www.newsis.com/view/NISX20261127_0003886031"
  ],
  "seen_titles": [
-  "SK그룹,반도체는안정·에너지는재편…전력·AI확장포석[종합]",
-  "첫여소야대행감‥성과와과제는?",
-  "[단독]호남반도체공장‘南전北닉’으로결정",
-  "D램-유조선-포니차…안된다던‘메이드인코리아’수출신화써",
-  "‘이상한변호사우영우’가뮤지컬로···2027년1월관객만난다",
-  "승리의사자들,에버랜드로…\"팀이적하면비밀공개\"",
   "롯데컬처웍스·라이브,뮤지컬이상한변호사우영우출연진명단소개",
   "서울내집마련에연봉11.7년치…소득5분의1이임대료",
   "쉬고와도성적좋다…스포츠계‘휴식열풍’",
@@ -6001,10 +5995,21 @@
   "SK하이닉스경영진,광주군공항또찾았다…반도체클러스터협의구체...",
   "SK하이닉스,광주군공항현장전격방문…호남권반도체클러스터가속...",
   "SK하이닉스경영진,광주군공항현장점검…반도체클러스터협의구체...",
-  "SK하이닉스경영진,광주군공항현장점검…반도체클러스터속도"
+  "SK하이닉스경영진,광주군공항현장점검…반도체클러스터속도",
+  "재계에부는영빈관신·증축열풍...VIP모시는데수백억'펑펑'쓴다",
+  "[리포트]'배임죄'폐지하면,재벌수장의사익편취노골화우려",
+  "배임죄,'기업옥죄기'아닌'경제정의'위한장치",
+  "선문대,충남친환경차전문정비인력43명배출…실무중심교육성료",
+  "SK하이닉스,CEO직속총괄에윤풍영사장…초대미주총괄은안현사장",
+  "복합위기속'CEO유임'택했다…불확실성에내실다지기[인사로본재..."
  ],
- "recent_sigs": [],
- "last_run": "2026-11-28T06:00:49.434956+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-28T06:10:27.145103+09:00",
+   "택했다 인사로 다지기 유임 복합위기 CEO 내실 불확실성에"
+  ]
+ ],
+ "last_run": "2026-11-28T06:10:39.089576+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
