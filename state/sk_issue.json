@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026112019583854479",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856375&plink=ORI&cooper=NAVER",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6867367_37004.html",
   "https://www.m-i.kr/news/articleView.html?idxno=2021594",
   "https://www.businesspost.co.kr/BP?command=article_view&num=452570",
@@ -2999,11 +2997,11 @@
   "https://www.daejonilbo.com/news/articleView.html?idxno=2316802",
   "https://www.segye.com/newsView/20261127513077?OutUrl=naver",
   "https://www.kmib.co.kr/article/20261127500886",
-  "https://www.segye.com/newsView/20261127510207?OutUrl=naver"
+  "https://www.segye.com/newsView/20261127510207?OutUrl=naver",
+  "https://www.dailian.co.kr/news/view/1720768/?sc=Naver",
+  "https://www.newsis.com/view/NISX20261127_0003886887"
  ],
  "seen_titles": [
-  "'리트만점자'고발인\"AI흔적찾아야\"수사촉구",
-  "'부정행위의혹'남기고사망…수사난항에도\"진실규명\"",
   "\"이진우,진짜다뚫었나\"수사의열쇠는?‥'전망'물어보니",
   "공정위,태양광업체담합의혹조사진행",
   "경찰한진그룹회장조원태휴대전화압수,'한진칼자사주출연'배임...",
@@ -6001,7 +5999,9 @@
   "선관위특검,'공추비의혹'노태악전위원장압수수색",
   "특검,노태악휴대전화추가압수수색…공명선거추진활동비지급경위...",
   "선관위특검,‘공추비부당지급의혹’노태악2차압수수색",
-  "주병기“사상최대수출에도공급망파급효과미미”…‘상생협력’..."
+  "주병기“사상최대수출에도공급망파급효과미미”…‘상생협력’...",
+  "선관위특검,'공추비부당지급의혹'노태악추가압수수색",
+  "황교안'내란선동혐의'징역10년구형…내년1월28일선고(종합)"
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "최대인데 가지 못해 주병기 수출 반도체 협력사까지 사상 온기는"
   ]
  ],
- "last_run": "2026-11-27T20:10:57.654774+09:00",
+ "last_run": "2026-11-27T20:20:57.883820+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
