@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452971",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261126101457Dou",
-  "https://www.gokorea.kr/news/articleView.html?idxno=887349",
-  "https://www.g-enews.com/view.php?ud=20261126100732526027fa31d75c_1",
-  "https://www.gokorea.kr/news/articleView.html?idxno=887348",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627845",
   "https://biz.heraldcorp.com/article/10949956",
   "https://www.businessplus.kr/news/articleView.html?idxno=120520",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611261018273100733",
@@ -2999,15 +2993,15 @@
   "https://biz.chosun.com/stock/market_trend/2026/11/28/MT36BDH3V5FODFOA57DCCE2EMU/",
   "https://www.fnnews.com/news/202611271557237153",
   "https://biz.chosun.com/it-science/ict/2026/11/28/GNYBX5AVDNGYROTXI4DDFH776U/",
-  "https://www.dt.co.kr/article/12097513"
+  "https://www.dt.co.kr/article/12097513",
+  "https://www.edaily.co.kr/News/Read?newsId=01302166645650312&mediaCodeNo=257",
+  "https://www.mk.co.kr/article/12220584",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=131258",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509065",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611280001&t=NN",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509063"
  ],
  "seen_titles": [
-  "동일토건,‘용인반도체클러스터동일하이빌파크밸리2단지’661세대...",
-  "인핸스,국방AI역량강화돕는다…국방정보본부자문기업위촉",
-  "SK에코플랜트,AI데이터센터등혁신기술7건선정",
-  "코스피장중'저가매수세유입'1%대상승4790선,코스닥도3%대올라",
-  "[뉴스초점]美과잉생산관세예고…젠슨황효과하루만에소멸",
-  "삼성전자와SK하이닉스주가급등,AI투자기대감이만든변화",
   "\"D램상승세꺾여도HBM은간다\"…내년메모리시장양극화전망",
   "주식시장반등신호,삼성전자와SK하이닉스급등하며이차전지주강세...",
   "한은,기준금리연3.25%로인상...올해성장률3.9%로상향",
@@ -6001,7 +5995,13 @@
   "중복상장막힌기업,투자금회수막막한FI…카카오·TPG분쟁예의주...",
   "[이번주증시는?]사이드카가'출근도장'찍은롤코증시..젠슨황'하루...",
   "[비즈톡톡]앤트로픽몸값,오픈AI추월한이유는…코딩AI내세워기업...",
-  "[이상현의전자수첩]또스멀스멀고개드는‘메모리고점론’"
+  "[이상현의전자수첩]또스멀스멀고개드는‘메모리고점론’",
+  "“메모리중심으로AI인프라재설계”…파네시아,한국형데이터센터...",
+  "“오래기다렸죠?”돌아온외국인…삼전닉스내다팔더니‘이것’샀다",
+  "[FIBAWC]KBL특급亞쿼터...필리핀신기록썼다!3점슛6방대폭발→前...",
+  "[주간거래소외국인]두산에너빌리티·LSELECTRIC사고반도체대형주...",
+  "'너무빠졌나'저가매수에기술주일제히반등…나스닥2.3%↑",
+  "[주간거래소기관]삼성전자·LG엔솔집중매수…SK하이닉스는팔았다"
  ],
  "recent_sigs": [
   [
@@ -6043,9 +6043,33 @@
   [
    "2026-11-28T06:11:15.112771+09:00",
    "메모리 스멀스멀 고점론 고개드는"
+  ],
+  [
+   "2026-11-28T06:21:09.201017+09:00",
+   "기다렸죠 오래 샀다 내다팔더니 돌아온 삼전닉스 이것 외국인"
+  ],
+  [
+   "2026-11-28T06:21:09.201017+09:00",
+   "쿼터 대폭발 KBL 필리핀 특급 신기록 3점슛 6방 썼다"
+  ],
+  [
+   "2026-11-28T06:21:09.201017+09:00",
+   "AI 파네시아 재설계 데이터센터 메모리 한국형 인프라 중심으로"
+  ],
+  [
+   "2026-11-28T06:21:09.201017+09:00",
+   "ELECTRIC 반도체 사고 두산에너빌리티 LS 대형주"
+  ],
+  [
+   "2026-11-28T06:21:09.201017+09:00",
+   "일제히 저가매수에 기술주 나스닥 반등 너무 빠졌나"
+  ],
+  [
+   "2026-11-28T06:21:09.201017+09:00",
+   "SK하이닉스는 집중 LG엔솔 팔았다 삼성전자 매수"
   ]
  ],
- "last_run": "2026-11-28T06:11:44.903645+09:00",
+ "last_run": "2026-11-28T06:21:27.953534+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
