@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452973",
-  "https://www.tfmedia.co.kr/news/article.html?no=209243",
-  "https://www.etoday.co.kr/news/view/2653289",
   "https://www.news1.kr/sports/baseball/6366735",
   "https://www.newspim.com/news/view/20261126000411",
   "https://www.starnewskorea.com/sports/2026/11/26/2026112610045585357",
@@ -2999,12 +2996,12 @@
   "https://www.mediapen.com/news/view/1140789",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8949",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509074",
-  "https://www.newsis.com/view/NISX20261126_0003885096"
+  "https://www.newsis.com/view/NISX20261126_0003885096",
+  "https://www.news2day.co.kr/article/20261128500004",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509079",
+  "https://www.yna.co.kr/view/AKR20261128008900009?input=1195m"
  ],
  "seen_titles": [
-  "한국장애인고용공단광주지역본부,2026년전남광주장애인고용혁신...",
-  "영종교통개선·일자리확대기대…'영종SK뷰'눈길",
-  "[핫이슈]닛케이\"SK하이닉스도中YMTC적층특허교차라이선스합의\"…...",
   "중국메모리반도체삼성전자와SK하이닉스의HBM추격멀었다,\"일러도...",
   "디앤디인베스트먼트,삼성전자와시니어주거서비스구축맞손",
   "LG,'두차례통합우승'김민식품었다⋯포수진깊이더해",
@@ -6001,7 +5998,10 @@
   "[美증시]앤트로픽·반도체급등3대지수동반랠리…AI비관론완화",
   "[글로벌마켓뷰]한중일증시급등에뉴욕증시도화답했나…나스닥2.3...",
   "중동발원유공급위기다시부상…S-Oil웃고제주항공울까",
-  "美는왜한국자동차·반도체·석유화학을지목했나[15%방어전②]"
+  "美는왜한국자동차·반도체·석유화학을지목했나[15%방어전②]",
+  "외국인반도체'팔자'지속…기관은LG엔솔,개인은삼성전자담았다",
+  "AI공포잦아들자반도체주폭발…삼성전자·SK하이닉스도본격반등'신...",
+  "샌디스크16%↑…메모리주,'이익절벽'우려속주간반등"
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,17 @@
   [
    "2026-11-28T06:41:07.801422+09:00",
    "자동차 반도체 석유화학을 지목했나 한국"
+  ],
+  [
+   "2026-11-28T06:51:03.125001+09:00",
+   "공포 폭발 AI 본격 삼성전자 반등 반도체주 잦아들자 SK하이닉스도"
+  ],
+  [
+   "2026-11-28T06:51:03.125001+09:00",
+   "이익절벽 우려 반등 주간 메모리주 샌디스크"
   ]
  ],
- "last_run": "2026-11-28T06:41:18.533552+09:00",
+ "last_run": "2026-11-28T06:51:11.209530+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
