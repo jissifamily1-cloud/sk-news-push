@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=68490",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61531",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261126104606wM7",
   "https://www.cnbnews.com/news/articleView.html?idxno=1025403",
   "https://www.newsis.com/view/NISX20261126_0003883978",
   "https://www.joongangenews.com/news/articleView.html?idxno=566796",
@@ -2999,12 +2996,12 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088691",
   "https://www.newsis.com/view/NISX20261127_0003885804",
   "https://view.asiae.co.kr/article/2026112711273967405",
-  "https://biz.heraldcorp.com/article/10952342"
+  "https://biz.heraldcorp.com/article/10952342",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4121530",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41895",
+  "http://kor.theasian.asia/archives/423487"
  ],
  "seen_titles": [
-  "특화평면갖춘'용인반도체클러스터'신규단지주목",
-  "수요둔화배터리업계,ESS덕에'조단위수주'릴레이",
-  "[대전환의시대,미래를읽어라]정유신넥스체인지대표\"2027년글로벌...",
   "[로드뷰]젠슨황복귀가뒤흔든美권력구도…트럼프·러트닉vs베선트...",
   "이틀에한번울린'사이드카'...도입30년'증시안전판'효용성도마...",
   "LG,'2차례우승'김민식영입…\"젊은포수들성장에역할\"",
@@ -6001,7 +5998,10 @@
   "호텔서즐기는연말크리스마스…미식에특별한추억까지",
   "용인·청주·광주서아파트'시리즈'분양…대단지브랜드타운활발",
   "[칩톡]HBM도직접사는빅테크…삼성·SK메모리업체에기회일까",
-  "美증시,간만에일제히상승…AI·기술주반등"
+  "美증시,간만에일제히상승…AI·기술주반등",
+  "뉴욕증시,AI우려완화에일제히상승…나스닥2.31%↑",
+  "뉴욕증시,중국발훈풍·AI실질수요에일제히반등",
+  "[오늘의신문]미래기금논쟁확산·정년65세협상난항·반도체수출..."
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-11-28T08:11:03.227803+09:00",
    "기회일까 삼성 빅테크 직접 사는 메모리 업체에 HBM도"
+  ],
+  [
+   "2026-11-28T08:31:14.765187+09:00",
+   "정년 논쟁 난항 수출 반도체 확산 미래기금 협상 65세"
   ]
  ],
- "last_run": "2026-11-28T08:21:14.739922+09:00",
+ "last_run": "2026-11-28T08:31:20.508816+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
