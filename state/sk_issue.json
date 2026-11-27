@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026112015062909393",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732509",
-  "https://www.joongang.co.kr/article/25480506",
-  "https://www.hani.co.kr/arti/society/society_general/1288357.html",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855985&plink=ORI&cooper=NAVER",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452523",
-  "https://www.fnnews.com/news/202611201511454955",
   "http://www.yonhapnewstv.co.kr/news/MYH20261120153226n7b",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611200041085580104594",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68138",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20119949",
   "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1434770",
   "https://www.newsis.com/view/NISX20261127_0003886599",
-  "https://www.dizzotv.com/site/data/html_dir/2026/11/27/2026112780158.html"
+  "https://www.dizzotv.com/site/data/html_dir/2026/11/27/2026112780158.html",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5233337",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=628207",
+  "https://www.nocutnews.co.kr/news/6613876",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2316788",
+  "https://www.chosun.com/national/court_law/2026/11/27/2VQJZD5P2JHKBHU4XZIYWQTL5Q/",
+  "http://www.00news.co.kr/news/articleView.html?idxno=108410",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=88577"
  ],
  "seen_titles": [
-  "경찰,조원태회장휴대전화압수…'자사주배임혐의'수사확대",
-  "조원태회장휴대전화압수…한진칼배임수사확대",
-  "수능·리트다뚫은커닝수법끝내안밝힌이진우…경찰수사로규명...",
-  "경찰,조원태회장휴대전화압수…‘자사주출연’한진칼배임수사",
-  "공정위,한화솔루션등태양광패널담합의혹현장조사",
-  "공정위한화솔루션비롯한국내태양광기업현장조사착수,패널담합...",
-  "경찰,'663억자사주배임의혹'한진그룹조원태휴대전화압수",
   "[뉴스초점]대학논술도커닝비상…'리트만점자'수사계속",
   "[더벨][영상|아카이브읽어주는기자]동부→LG→SK→두산…SK실트론...",
   "공정위점검비웃듯또'강매의혹'…투썸칼끝,칼라일김종윤대표향...",
@@ -6001,13 +5994,16 @@
   "특검,‘내란선동혐의’황교안에징역10년구형",
   "굳이'리트'본이유는이것?…이진우,생전녹취록보니[포크뉴스]",
   "황교안'내란선동혐의'징역10년구형…특검\"반드시엄벌해야\"",
-  "카카오,공정위하도급대금연동우수기업선정...협력사비용분담"
+  "카카오,공정위하도급대금연동우수기업선정...협력사비용분담",
+  "특검,황교안에징역10년구형…\"계엄지지넘어선동\"",
+  "임플란트시술중환자2명사망…경찰,강남치과병원압수수색",
+  "특검,'내란선동'황교안징역10년구형…\"국민신뢰선동에악용\"",
+  "특검,'SNS내란선동혐의'황교안에징역10년구형",
+  "특검,‘내란선동’황교안전총리에징역10년구형",
+  "김승원·한동훈,이번엔수사기밀유출공방",
+  "포스코·SK·현대모비스등상생앞장…공정위,공정거래협약·연동우수..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-27T11:01:04.441646+09:00",
-   "500원 3사 요금 알뜰폰 이동통신 뒷돈으로"
-  ],
   [
    "2026-11-27T15:10:54.657535+09:00",
    "6개 표창 모범기업 상생협력 포스코 기업"
@@ -6019,9 +6015,13 @@
   [
    "2026-11-27T16:50:53.132669+09:00",
    "선정 협력사 비용 연동 카카오 하도급대금 분담 우수기업"
+  ],
+  [
+   "2026-11-27T17:01:09.558819+09:00",
+   "공정거래협약 연동 포스코 현대모비스 상생 앞장 우수"
   ]
  ],
- "last_run": "2026-11-27T16:51:00.736576+09:00",
+ "last_run": "2026-11-27T17:01:18.176667+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
@@ -6140,6 +6140,7 @@
   "hansbiz.co.kr": "한스경제",
   "1conomynews.co.kr": "1코노미뉴스",
   "youthdaily.co.kr": "청년일보",
-  "dizzotv.com": "디지틀조선TV"
+  "dizzotv.com": "디지틀조선TV",
+  "pointe.co.kr": "포인트경제"
  }
 }
