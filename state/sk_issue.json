@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611121751280920108328",
-  "https://view.asiae.co.kr/article/2026112008131996533",
-  "http://www.mediagunpo.co.kr/22133",
-  "https://www.mk.co.kr/article/12214249",
-  "https://www.ytn.co.kr/_ln/0103_202611200005423130",
-  "https://www.hankyung.com/article/2026112089686",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16281132",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000084789",
   "https://www.ytn.co.kr/_ln/0103_202611200836550344",
   "http://www.srtimes.kr/news/articleView.html?idxno=218103",
   "https://www.gukjenews.com/news/articleView.html?idxno=3757795",
@@ -2999,17 +2991,17 @@
   "https://www.wikitree.co.kr/articles/1178331",
   "https://www.sedaily.com/article/20119792",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724460",
-  "http://www.catholicpress.kr/news/view.php?idx=8327"
+  "http://www.catholicpress.kr/news/view.php?idx=8327",
+  "https://www.munhwa.com/article/11634662",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=230069",
+  "https://www.lawissue.co.kr/view.php?ud=2026112711184850559a8c8bf58f_12",
+  "https://www.etoday.co.kr/news/view/2653669",
+  "https://biz.chosun.com/topics/law_firm/2026/11/27/MJQYZW4JCZDWJFL76JONEJAF5U/",
+  "https://news.tf.co.kr/read/life/2394068.htm",
+  "https://www.news1.kr/society/court-prosecution/6368080",
+  "https://www.munhwa.com/article/11634657"
  ],
  "seen_titles": [
-  "[더벨][thebellLeagueTable|2026이사회평가]로봇업계부진,1위두산...",
-  "\"누가노력의가치믿겠나\"…5년공부해세무사붙은이지혜남편'분노...",
-  "고리영희선생16주기추모제,12월3일군포서개최",
-  "“그땐챗GPT별로였는데”…‘고대정외과합격’이진우,AI썼을까",
-  "사상초유시험도중10.5초경보음,\"수능망쳤다\"줄소송우려?[사건X파...",
-  "\"증권주,당분간상승모멘텀없다…'배당9%'노려볼만\"",
-  "리트냥이이진우사망후에도남은의혹…세무냥이·편입냥이·감평냥이...",
-  "이진우수능성적급상승도AI때문?…당시챗GPT정답률은19~69%",
   "'AI커닝'패가망신경고에도...수능,AI안경에신발속스마트폰[뉴스...",
   "이통3사,3년간행정제재100건육박…KT49건'최다'",
   "김동아,고위공직자수사영장공수처신청법안발의",
@@ -6001,7 +5993,15 @@
   "경찰,법무부·공소청강제수사…한동훈“민중아닌민주당의지팡이”",
   "한동훈‘수사자료유출’압수수색에“경찰,민주당의지팡이”",
   "한동훈,‘수사자료유출의혹’수사에반발…“경찰,민주당의지팡이...",
-  "일제강점기에뿌리를둔사법부와국가보안법,뿌리째바꿔야한다"
+  "일제강점기에뿌리를둔사법부와국가보안법,뿌리째바꿔야한다",
+  "애플잇단품질논란에‘휘청’…‘시리허위광고’공정위심의",
+  "[판결]같은행위과징금37배는위법",
+  "대법원,서면발급의무위반에대한공정위과징금부과처분인정원심...",
+  "대법“HD현대중공업하도급과징금127억원과도”…파기환송",
+  "하청업체에계약서늦게준HD현대중공업…대법“127억과징금과해”",
+  "대법\"공정위,HD현대중과징금127억은재량권일탈\"",
+  "대법\"같은하도급법위반인데과징금37배\"…HD현중과징금파기환송",
+  "‘한동훈,김승원자료유출’의혹…경찰,법무부·공소청압수수색"
  ],
  "recent_sigs": [
   [
@@ -6013,7 +6013,7 @@
    "500원 3사 요금 알뜰폰 이동통신 뒷돈으로"
   ]
  ],
- "last_run": "2026-11-27T12:01:10.567679+09:00",
+ "last_run": "2026-11-27T12:10:58.423317+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
