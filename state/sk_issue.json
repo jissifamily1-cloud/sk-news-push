@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=394832",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452534",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001541",
-  "https://news.jtbc.co.kr/article/NB12329067?influxDiv=NAVER",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732519",
-  "https://kpenews.com/View.aspx?No=4322595",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080163.html",
-  "https://www.peoplewatch.co.kr/article/view/ppw202611200011",
-  "https://www.sportsseoul.com/news/read/1651256",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=425206",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=326854",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2315091",
@@ -2999,18 +2990,18 @@
   "https://www.slist.kr/news/articleView.html?idxno=785403",
   "https://www.hani.co.kr/arti/society/society_general/1289474.html",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003289101&CMPT_CD=P0010",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790221.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790221.html",
+  "https://www.ilemonde.com/news/articleView.html?idxno=31082",
+  "http://www.queen.co.kr/news/articleView.html?idxno=467073",
+  "https://www.mk.co.kr/article/12220390",
+  "http://www.lkp.news/news/articleView.html?idxno=86610",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338768",
+  "https://www.fnnews.com/news/202611271730522674",
+  "https://www.ajunews.com/view/20261127172518208",
+  "https://www.mk.co.kr/article/12220392",
+  "https://www.mt.co.kr/politics/2026/11/27/2026112717174621527"
  ],
  "seen_titles": [
-  "태양광패널담합의혹…공정위,한화솔루션등3사조사",
-  "삼성증권발행어음진출에국고채과징금부담벗어나,박종문첫연임...",
-  "경찰,조원태한진그룹회장휴대전화압수…'자사주출연의혹'강제...",
-  "챗GPT정답률34%였는데…리트만점자'성적미스터리'",
-  "'기아사태'판례정조준한경찰…조원태배임수사전방위확대",
-  "캐피탈사렌탈규제완화추진..렌터카시장경쟁구도바뀌나",
-  "패션·명품·가전총출동…유통업계,연말‘블프’쇼핑대전돌입",
-  "공정위,한화솔루션등태양광3사현장조사..패널담합의혹",
-  "[오피셜]“쿠팡몰아주기전혀아니다”KFA,해외구단초청경기주최...",
   "KB2계단↑,메리츠·삼성은5위다툼···증권사자본순위'쟁탈전'",
   "경찰,조원태회장휴대전화압수…한진칼'663억자사주출연'수사",
   "천안서20대일본인여성살해한30대남성구속기소",
@@ -6001,7 +5992,16 @@
   "'한동훈자료유출의혹'수사본격화…법무부·공소청압색",
   "경찰,한동훈‘문건유출의혹’수사본격화…‘기소계획서공개’처...",
   "특검,황교안에징역10년구형...내란선전선동혐의",
-  "주병기\"반도체수출사상최대인데온기는협력사까지가지못해\""
+  "주병기\"반도체수출사상최대인데온기는협력사까지가지못해\"",
+  "쿠팡임직원단체헌혈…헌혈증기부예정",
+  "가습기없이도촉촉하고건강한실내만드는법",
+  "공정위,77억원깎았지만…대법\"HD현대重과징금과도\"",
+  "공정위1.6조원과징금적정성논란...국고채시장에부담가중되나",
+  "[속보]류희림'민원사주',3년만에업무방해혐의공소청송치",
+  "'리트만점자'이진우,공범있었나…경찰'시험성적수익화'도수사",
+  "특검,'내란선동혐의'황교안에징역10년구형...\"단순지지나정당화...",
+  "'한동훈에자료유출'…경찰,공소청압색",
+  "국힘행안위\"민주당,오세훈송치종용멈추라…노골적수사개입\""
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "최대인데 가지 못해 주병기 수출 반도체 협력사까지 사상 온기는"
   ]
  ],
- "last_run": "2026-11-27T17:31:13.820789+09:00",
+ "last_run": "2026-11-27T17:41:02.123637+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
