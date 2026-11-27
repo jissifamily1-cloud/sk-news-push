@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026112609011804168",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650041.html",
-  "https://www.etoday.co.kr/news/view/2653155",
   "https://biz.sbs.co.kr/article_hub/20000348970?division=NAVER",
   "https://www.youthdaily.co.kr/news/article.html?no=230336",
   "https://dealsite.co.kr/articles/173448",
@@ -2999,12 +2996,12 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1733290",
   "https://www.newstnt.com/news/articleView.html?idxno=731008",
   "http://www.popcornnews.net/news/articleView.html?idxno=141929",
-  "https://www.fntimes.com/html/view.php?ud=202611271851252864179ad43907_18"
+  "https://www.fntimes.com/html/view.php?ud=202611271851252864179ad43907_18",
+  "https://www.jemin.com/news/articleView.html?idxno=848684",
+  "https://biz.chosun.com/industry/company/2026/11/27/RLM4B2COMVEDDIPX22CZEP5AD4/",
+  "https://www.ytn.co.kr/_ln/0102_202611271918407370"
  ],
  "seen_titles": [
-  "SK케미칼에코젠,커피드리퍼에적용…15개국수출",
-  "[속보]코스피,1%상승출발...4745.10",
-  "[속보]삼성전자1.11%↑·SK하이닉스2.14%↑…동반상승개장",
   "반도체근로시간유연화논의…노동장관\"연구시간확보와노동자보호...",
   "K-방산제조역량에AI결합…카카오모빌리티,‘국방AX’영역확장",
   "에이루트,자회사앤에스알시흡수합병이사회승인…노광장비사업직...",
@@ -6001,7 +5998,10 @@
   "삼성SDI,3차ESS입찰선두…SK온37%확보",
   "서울미래인재재단,AI인재육성에연구장려금76억원지원",
   "'재무위기수습'현대엔지니어링...대표교체카드로'수주경쟁력'복원...",
-  "남기천우리투자증권대표1년더이끈다…종투사도약임무[임종룡2기..."
+  "남기천우리투자증권대표1년더이끈다…종투사도약임무[임종룡2기...",
+  "마이크론위협하는중국메모리반도체굴기…화웨이·CXMT기술추격본...",
+  "정부ESS최대규모입찰서삼성SDI63%,SK온37%확보",
+  "미국통상불확실성에기업들\"투자세액공제유지\""
  ],
  "recent_sigs": [
   [
@@ -7003,9 +7003,17 @@
   [
    "2026-11-27T19:21:11.466453+09:00",
    "이끈다 종투사 도약 우리투자증권 1년 임무 임종룡 남기천 대표 2기"
+  ],
+  [
+   "2026-11-27T19:31:10.614088+09:00",
+   "확보 ESS 삼성SDI 입찰서 SK온 정부 최대규모"
+  ],
+  [
+   "2026-11-27T19:31:10.614088+09:00",
+   "투자세액공제 유지 불확실성에 기업들 통상 미국"
   ]
  ],
- "last_run": "2026-11-27T19:21:19.838301+09:00",
+ "last_run": "2026-11-27T19:31:19.226875+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
