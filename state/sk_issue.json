@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/court-prosecution/6361301",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7195015",
-  "https://sports.khan.co.kr/article/202611201720003?pt=nv",
-  "https://www.mk.co.kr/article/12214804",
-  "https://www.jibs.co.kr/news/articles/articlesDetail/67788?feed=na",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394847",
-  "https://www.khan.co.kr/article/202611201730001",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=626655",
   "https://www.mk.co.kr/article/12214883",
   "https://www.newsian.co.kr/news/articleView.html?idxno=101714",
   "http://www.lkp.news/news/articleView.html?idxno=86342",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/society/incident-accident/6368906",
   "https://www.nocutnews.co.kr/news/6613975",
   "https://www.yna.co.kr/view/AKR20261127156700004?input=1195m",
-  "https://www.mt.co.kr/society/2026/11/27/2026112718152029901"
+  "https://www.mt.co.kr/society/2026/11/27/2026112718152029901",
+  "https://view.asiae.co.kr/article/2026112718463323848",
+  "https://view.asiae.co.kr/article/2026112718395412529",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261127184903ODC",
+  "https://www.newsis.com/view/NISX20261127_0003886823",
+  "https://view.asiae.co.kr/article/2026112718455119874",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790242.html",
+  "https://www.newsis.com/view/NISX20261127_0003886817",
+  "https://www.news1.kr/local/gyeonggi/6368913"
  ],
  "seen_titles": [
-  "\"보청기왜잃어버려\"치매모친폭행·방치해숨지게한40대딸구속기...",
-  "김동아의원,형소법개정안발의…\"검사수사하는경찰,공수처에영장...",
-  "없는게없는‘무한도전’,수능AI안경부정행위논란도예언했다",
-  "과징금1년새407배…식품·배달업계한숨",
-  "제주무면허지게차사고당시영상확보..경찰수사확대",
-  "한진칼'663억자사주'배임의혹…조원태휴대전화압수",
-  "“혼자죽기무서웠다”···세번째만남서일본인여성살해한30대...",
-  "﻿공정위,태양광패널담합의혹정조준…한화솔루션등현장조사",
   "[단독]“과징금407배너무해”…설탕·밀가루담합제재과도하단식품...",
   "축구협회·쿠팡국제경기특혜의혹,공정위조사대오른다",
   "[기자수첩]정정요구받아들여반론실었더니…돌아온건이미지훼손...",
@@ -6001,7 +5993,15 @@
   "경찰,'민원사주'류희림전방심위원장송치…위계업무방해혐의",
   "특검,노태악전선관위원장휴대전화2번째압수수색",
   "선관위특검,노태악추가압수수색…공추비부당지급의혹",
-  "선관위특검,'공추비부당지급'의혹노태악압수수색집행종료"
+  "선관위특검,'공추비부당지급'의혹노태악압수수색집행종료",
+  "공정위,조정원등과모빌리티·고령친화산업'경쟁제한규제'개선논...",
+  "공정위·조정원,협약이행·연동제발표회첫통합개최…주병기\"사상...",
+  "경찰,'임플란트환자사망'치과압수수색",
+  "경찰,법무부·공소청압색9시간만종료…'한동훈자료유출의혹'(종합...",
+  "경찰,'한동훈자료유출의혹'압수수색종료",
+  "[속보]선관위특검,노태악자택두번째압수수색…12년간공추비부...",
+  "선관위특검,'공추비부당지급의혹'노태악압수수색",
+  "남경필전경기지사아들'전연인성관계영상유포협박'등혐의체포..."
  ],
  "recent_sigs": [
   [
@@ -6025,7 +6025,7 @@
    "최대인데 가지 못해 주병기 수출 반도체 협력사까지 사상 온기는"
   ]
  ],
- "last_run": "2026-11-27T18:40:56.556226+09:00",
+ "last_run": "2026-11-27T18:50:55.684061+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
