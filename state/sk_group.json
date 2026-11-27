@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=141582",
-  "https://dealsite.co.kr/articles/173135",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508234",
-  "https://www.news1.kr/economy/employment-labor/6366371",
-  "https://www.newsis.com/view/NISX20261125_0003882787",
-  "https://www.yna.co.kr/view/AKR20261125161700530?input=1195m",
   "https://www.etnews.com/20261126000064",
   "https://www.yna.co.kr/view/AKR20261126035100003?input=1195m",
   "http://coinreaders.com/273515",
@@ -2999,15 +2993,15 @@
   "https://www.pressian.com/pages/articles/2026112712311831162",
   "https://www.korea.kr/news/reporterView.do?newsId=148976221&call_from=naver_news",
   "https://www.koreajoongangdaily.com/business/samsung-sdi-takes-nearly-twothirds-of-record-korean-ess-tender/12992879",
-  "https://view.asiae.co.kr/article/2026112710570945523"
+  "https://view.asiae.co.kr/article/2026112710570945523",
+  "https://sateconomy.co.kr/news/view/1065594243406917",
+  "https://weekly.donga.com/3/all/11/6481000/1",
+  "https://www.newsway.co.kr/news/view?ud=2026112717090141062",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611271755560480103265",
+  "https://www.hellot.net/news/article.html?no=116730",
+  "https://www.ytn.co.kr/_ln/0102_202611271811535997"
  ],
  "seen_titles": [
-  "손정의회장,비공개로대구조상묘소참배\"내년초공식방문\"",
-  "브렌트유94달러돌파…후티의사우디공격에SK이노베이션·S-Oil들썩...",
-  "[동북아정세브리핑]중국천지닝상하이당서기조사…시진핑권력재...",
-  "SK증권\"미국증시,조정과약세장가를단서는11월신용잔고\"",
-  "김석봉뺏긴박장호…카리플렉스M&A도강제하차",
-  "iM증권\"미국물가와AI투자사이에낀코스피…LSELECTRIC·효성중공업...",
   "노동장관,반도체연구자근로시간점검…\"건강·연구시간양립\"",
   "'이익공유사업초기부터내재화'…상생협의체관건[반도체호남시대⑦...",
   "노동장관,반도체연구원만나\"연구시간확보·건강권대립안해\"",
@@ -6001,7 +5995,13 @@
   "브레이크없는반도체산업외주화…불법파견의혹에도소송'무풍지대...",
   "\"스펙대신역량,기다림대신안내\"…2026년채용문화우수기업어워즈...",
   "SamsungSDItakesnearlytwo-thirdsofrecordKoreanESStender",
-  "美틱톡샵1·2위가한집에…에이피알의3900억베팅[주末머니]"
+  "美틱톡샵1·2위가한집에…에이피알의3900억베팅[주末머니]",
+  "SK증권,차기각자대표에박삼규·최창훈추천…경영연속성에무게",
+  "AI매도세진정,‘증안펀드’기대감에4900선회복…‘팔자’외국인...",
+  "현대차그룹,사장단인사안정속12월임원인사주목",
+  "[더벨]KB손보후순위채완판…스프레드직전수준유지",
+  "[헬로스톡]11/27주목할종목:파미셀·SK스퀘어·두산로보틱스·동아...",
+  "배당금·증권시장안전펀드투입기대감에불기둥올린증시"
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,25 @@
   [
    "2026-11-27T18:11:24.694130+09:00",
    "3900억 2위가 틱톡샵 베팅 한집에 에이피알의"
+  ],
+  [
+   "2026-11-27T18:21:05.240504+09:00",
+   "인사 임원인사 사장단 안정 주목 12월 현대차그룹"
+  ],
+  [
+   "2026-11-27T18:21:05.240504+09:00",
+   "유지 KB손보 수준 직전 스프레드 완판 후순위채"
+  ],
+  [
+   "2026-11-27T18:21:05.240504+09:00",
+   "종목 동아 두산로보틱스 파미셀 주목할 SK스퀘어"
+  ],
+  [
+   "2026-11-27T18:21:05.240504+09:00",
+   "증시 기대감에 불기둥 배당금 증권시장안전펀드 올린 투입"
   ]
  ],
- "last_run": "2026-11-27T18:11:39.835114+09:00",
+ "last_run": "2026-11-27T18:21:20.008488+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
