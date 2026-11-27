@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbnews.com/news/articleView.html?idxno=1025403",
-  "https://www.newsis.com/view/NISX20261126_0003883978",
-  "https://www.joongangenews.com/news/articleView.html?idxno=566796",
   "https://www.sedaily.com/article/20119217",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650113.html",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=282240",
@@ -2999,12 +2996,12 @@
   "https://biz.heraldcorp.com/article/10952342",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4121530",
   "https://www.globale.co.kr/news/articleView.html?idxno=41895",
-  "http://kor.theasian.asia/archives/423487"
+  "http://kor.theasian.asia/archives/423487",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509109",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509108",
+  "https://www.tokenpost.kr/news/insights/445673"
  ],
  "seen_titles": [
-  "[로드뷰]젠슨황복귀가뒤흔든美권력구도…트럼프·러트닉vs베선트...",
-  "이틀에한번울린'사이드카'...도입30년'증시안전판'효용성도마...",
-  "LG,'2차례우승'김민식영입…\"젊은포수들성장에역할\"",
   "SK에코플랜트,스타트업냉각·전력등혁신기술시상",
   "美과잉생산관세,'호남팹'겨냥…\"반도체지원정책위축우려\"",
   "\"삼성·SK반도체산단윤곽\"...반도체벨트확장에용인주택시장주목",
@@ -6001,7 +5998,10 @@
   "美증시,간만에일제히상승…AI·기술주반등",
   "뉴욕증시,AI우려완화에일제히상승…나스닥2.31%↑",
   "뉴욕증시,중국발훈풍·AI실질수요에일제히반등",
-  "[오늘의신문]미래기금논쟁확산·정년65세협상난항·반도체수출..."
+  "[오늘의신문]미래기금논쟁확산·정년65세협상난항·반도체수출...",
+  "미국제조업보호전쟁재점화…LG에너지솔루션·삼성SDI수혜가능성은...",
+  "유안타증권\"지수보다종목실적이중요\"...HD현대일렉트릭·한화에어로...",
+  "[온체인주식선물]현대차,정규장종가보다0.40%할인"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,21 @@
   [
    "2026-11-28T08:31:14.765187+09:00",
    "정년 논쟁 난항 수출 반도체 확산 미래기금 협상 65세"
+  ],
+  [
+   "2026-11-28T08:41:09.750514+09:00",
+   "삼성SDI 보호 수혜 제조업 미국 가능성은 전쟁 재점화 LG에너지솔루션"
+  ],
+  [
+   "2026-11-28T08:41:09.750514+09:00",
+   "지수보다 유안타증권 한화에어로 실적이 종목 HD현대일렉트릭 중요"
+  ],
+  [
+   "2026-11-28T08:41:09.750514+09:00",
+   "할인 현대차 종가보다 정규장"
   ]
  ],
- "last_run": "2026-11-28T08:31:20.508816+09:00",
+ "last_run": "2026-11-28T08:41:20.531509+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
