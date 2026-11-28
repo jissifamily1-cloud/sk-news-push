@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261126_0003884331",
-  "https://www.sedaily.com/article/20119282",
-  "https://www.ekn.kr/web/view.php?key=20261126028059840",
-  "https://www.nc.press/news/articleView.html?idxno=631965",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1429314",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086819",
-  "https://www.businessplus.kr/news/articleView.html?idxno=120537",
   "https://www.munhwa.com/article/11634377",
   "https://www.topdaily.kr/articles/113139",
   "https://www.hani.co.kr/arti/economy/global/1288931.html",
@@ -2999,16 +2992,16 @@
   "https://www.jemin.com/news/articleView.html?idxno=848739",
   "https://www.koreaittimes.com/news/articleView.html?idxno=159561",
   "http://coinreaders.com/274165",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509152"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509152",
+  "https://www.news1.kr/photos/8237558",
+  "https://www.ajunews.com/view/20261128143459831",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=140984",
+  "https://www.news1.kr/photos/8237546",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509154",
+  "https://www.yna.co.kr/view/PYH20261128027900013?input=1196m",
+  "https://www.hankyung.com/article/2026112752156"
  ],
  "seen_titles": [
-  "[오전시황]한은금리인상에코스피상승폭줄어...코스닥상한가7종...",
-  "에스원,2027임원인사서4명승진…AI·로봇사업인재중용",
-  "美주문반도체팔았더니관세25%?···아모데이월세내기더어려워...",
-  "현대차그룹완성차는'안정'·부품사는'교체'…검증된베테랑'전진배...",
-  "초고수,삼전닉스팔고피에스케이홀딩스샀다[주식초고수는지금]",
-  "[데스크칼럼]국산비만치료제,‘진짜’는아직나오지않았다",
-  "[주간베스트셀러]AI가바꾸는세상,책으로읽는다...정재승'서늘한...",
   "트럼프관세공세에도韓'15%방어선'…李성장전략엔새변수",
   "'삼전닉스',반도체라인'100%풀가동'…AI슈퍼사이클입증",
   "[뉴스+]현대차그룹,완성차CEO무뇨스·송호성유임…경영연속성성과...",
@@ -6001,7 +5994,14 @@
   "\"삼성전자7만원도위태롭다\"…반도체전문가,AI거품붕괴가능성경...",
   "AI반도체호황,한국과대만의성장률은왜다른가",
   "[서학개미레이더]마이크론주가7.6%↑…외인1조산K반도체동행",
-  "샤워헤드가실적바꾼다…티씨케이,고부가제품으로수익성승부"
+  "샤워헤드가실적바꾼다…티씨케이,고부가제품으로수익성승부",
+  "설명듣는한성숙총리",
+  "[종합]李대통령\"총성없는전쟁…AI선도국위한모든역량동원\"",
+  "한국동서발전,4032MWh규모'전력망의댐'구축…에너지저장장치국내...",
+  "HBM칩받는한성숙총리",
+  "데이터센터증설에냉각·ESS까지들썩…GST·삼성SDI도수혜권",
+  "SK하이닉스부스방문한한성숙국무총리",
+  "기대못미친앤트로픽데뷔전…국내운용사는속속담았다[이수의ETF..."
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,29 @@
   [
    "2026-11-28T15:01:29.473107+09:00",
    "샤워헤드가 티씨케이 바꾼다 실적 수익성 고부가 승부 제품으로"
+  ],
+  [
+   "2026-11-28T15:11:06.222393+09:00",
+   "4032MWh 에너지저장장치 전력망의 국내 한국동서발전 구축 규모"
+  ],
+  [
+   "2026-11-28T15:11:06.222393+09:00",
+   "받는 한성숙 HBM칩 총리"
+  ],
+  [
+   "2026-11-28T15:11:06.222393+09:00",
+   "ESS까지 증설에 삼성SDI도 수혜권 데이터센터 들썩 냉각 GST"
+  ],
+  [
+   "2026-11-28T15:11:06.222393+09:00",
+   "부스 방문한 한성숙 국무총리 SK하이닉스"
+  ],
+  [
+   "2026-11-28T15:11:06.222393+09:00",
+   "앤트로픽 기대 데뷔전 담았다 이수의 ETF 국내 미친 운용사는 속속"
   ]
  ],
- "last_run": "2026-11-28T15:01:38.114110+09:00",
+ "last_run": "2026-11-28T15:11:22.358048+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
