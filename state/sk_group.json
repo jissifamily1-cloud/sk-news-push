@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1140226",
-  "https://www.greened.kr/news/articleView.html?idxno=355606",
-  "http://www.seouleconews.com/news/articleView.html?idxno=95262",
-  "https://www.yna.co.kr/view/AKR20261126082600008?input=1195m",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=282257",
   "https://www.smarttoday.co.kr/ko-kr/articles/114097",
   "https://biz.heraldcorp.com/article/10950131",
   "https://biz.heraldcorp.com/article/10950109",
@@ -2999,14 +2994,14 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509122",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=888247",
   "https://www.joongangenews.com/news/articleView.html?idxno=567309",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3765945"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3765945",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509123",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=88586",
+  "https://www.jemin.com/news/articleView.html?idxno=848727",
+  "https://weekly.chosun.com/news/articleView.html?idxno=60202",
+  "https://www.seoulfn.com/news/articleView.html?idxno=644196"
  ],
  "seen_titles": [
-  "금리올린날코스피1%대반등…점도표상단3.75%,금리고점에신중론...",
-  "코스피,전날급락딛고반등···4700선회복",
-  "코스피,한은기준금리인상에상승폭축소…4730선등락",
-  "\"닷컴버블붕괴와다르다\"…AI거품론,변곡점선AI·반도체투자",
-  "'산타랠리'냐'사탄랠리'냐…반토막난코스피,12월엔웃을까",
   "美,800조원호남반도체정조준…\"약속어기면25%\"압박",
   "코스피,1%안팎상승세…한은기준금리인상속탄력둔화",
   "[OpeningMarket]KOSPI,KOSDAQReboundonBargainHunting",
@@ -6001,7 +5996,12 @@
   "대신증권\"중국화웨이까지HBM개발속도전…한국반도체투톱에드리...",
   "AI·반도체주돌아왔다…나스닥2.31%↑",
   "최근5거래일SK텔레콤주가변동성확대",
-  "뉴욕증시AI·반도체급반등에3대지수일제히상승…나스닥2.31%껑충"
+  "뉴욕증시AI·반도체급반등에3대지수일제히상승…나스닥2.31%껑충",
+  "대신증권\"미국추가긴축이냐금리안정이냐…현대차·기아까지움직일...",
+  "[오늘일본은]도쿄는낮20도,북부는밤부터눈…일본교통차질·정전...",
+  "마이크론·트렌드포스,D램업황전망엇갈려…메모리호황지속여부...",
+  "17만원대삼성전자아직바닥아니다?…'4만전자'가능성있다",
+  "崔\"화해하자\"vs盧\"거부\"···9440억원재산분할공방'해넘길까?'"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,25 @@
   [
    "2026-11-28T10:51:06.546482+09:00",
    "위협 재개 관세 전술핵 압박 노골화 트럼프"
+  ],
+  [
+   "2026-11-28T11:11:14.561558+09:00",
+   "북부는 밤부터 정전 일본 20도 교통 도쿄는 차질"
+  ],
+  [
+   "2026-11-28T11:11:14.561558+09:00",
+   "지속 메모리 여부 D램 트렌드포스 호황 업황 마이크론 전망 엇갈려"
+  ],
+  [
+   "2026-11-28T11:11:14.561558+09:00",
+   "있다 아직 17만원대 바닥 가능성 삼성전자 아니다 4만전자"
+  ],
+  [
+   "2026-11-28T11:11:14.561558+09:00",
+   "넘길까 화해하자 9440억원 거부 vs 공방 재산분할"
   ]
  ],
- "last_run": "2026-11-28T11:01:20.601927+09:00",
+ "last_run": "2026-11-28T11:11:27.745019+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
