@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887534",
-  "https://byline.network/?p=9004111222629260",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=282252",
-  "http://www.metroseoul.co.kr/article/20261126500200",
-  "https://www.sentv.co.kr/article/view/sentv202611260090",
-  "https://www.widedaily.com/news/articleView.html?idxno=304812",
-  "https://www.pennmike.com/news/articleView.html?idxno=132831",
-  "https://www.ekn.kr/web/view.php?key=20261126028405010",
-  "https://www.etoday.co.kr/news/view/2653199",
-  "http://www.ikld.kr/news/articleView.html?idxno=344925",
-  "https://magazine.hankyung.com/business/article/202611261750b",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650125.html",
   "http://www.weeklytoday.com/news/articleView.html?idxno=803551",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68500",
@@ -2999,20 +2988,20 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4447044",
   "https://www.sedaily.com/article/20120101",
   "https://magazine.hankyung.com/business/article/202611285847b",
-  "https://www.mt.co.kr/industry/2026/11/28/2026112716110753675"
+  "https://www.mt.co.kr/industry/2026/11/28/2026112716110753675",
+  "https://www.insight.co.kr/news/583923",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=55296",
+  "https://news.mtn.co.kr/article/2026112715092755222",
+  "https://www.newscj.com/news/articleView.html?idxno=3452826",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=95838",
+  "https://www.newsis.com/view/NISX20261126_0003884041",
+  "https://www.youthdaily.co.kr/news/article.html?no=230422",
+  "https://www.bigtanews.co.kr/article/view/big202611270019",
+  "https://www.thebigdata.co.kr/view.php?ud=2026112717515442810ecbf9426b_23",
+  "https://biz.heraldcorp.com/article/10952273",
+  "https://www.seoultimes.news/news/article.html?no=2000102826"
  ],
  "seen_titles": [
-  "[스포츠]LG트윈스,베테랑포수김민식영입…통산880경기·통합우승두...",
-  "한은,내년성장률2.9%서4.1%로높여…반도체호황에도3Q소비감소(...",
-  "현대엔지니어링,용인·호남발전사업2조2840억원수주…우선협상두...",
-  "AI거품론에떠는재계…수백조투자괜찮나",
-  "개인정보위,사전적정성검토서비스6건보호조치이행확인",
-  "[개장시황]뉴욕증시'전저점충격'딛고안도랠리…코스피·코스닥...",
-  "美,호남반도체클러스터겨냥…최대25%관세검토[영상PICK]",
-  "코스피,전날6%급락딛고반등…개인매수에4720선",
-  "쇼핑·상담대신하는AI'피클'확산에'책임소재'논란…정부,AI기본...",
-  "'호남반도체'콕집은미국의경고...관세최대25%까지늘어날수도",
-  "[똑똑한외식]더본코리아,매드포갈릭,bhc,맘스터치,굽네,롯데리아,...",
   "내년부터렌터카·리스도전기차전환지원금지급",
   "'광명자이힐스테이트SKVIEW'단지내상가분양",
   "태평양“내년주총,적법성만으론부족…주주표심까지살펴야”",
@@ -6001,7 +5990,18 @@
   "[뉴욕마켓워치]블프엔AI주쇼핑…주식·달러↑채권↓",
   "지하철타면너도나도유튜브본다싶더니...점점줄어드는유료방송가...",
   "'반토막난증시'에전문가도우는데…개미들은어쩌나",
-  "\"삼전닉스주식말고이걸샀어야\"…50만원짜리가200만원됐다[이슈속..."
+  "\"삼전닉스주식말고이걸샀어야\"…50만원짜리가200만원됐다[이슈속...",
+  "주가밀리자매수주문두배로...SK하이닉스,자사주매입서두른다",
+  "뉴욕증시동반상승…샌디스크16%급등",
+  "메모리입도선매한창인데..고개드는'가격정점론'",
+  "'반토막난韓증시'국민연금수익률,석달만에14%p하락",
+  "[뉴욕증시주간결산]젠슨황복귀에엔비디아20%↑…S&P5005.6%올라1년...",
+  "청와대일주일[뉴시스Pic]",
+  "[청년발언대]AI가대신결제하는시대…책임과권한설계가먼저다",
+  "KB증권,11월넷째주SK등4종목매수추천",
+  "최태원·노소영화해무산…9440억마련에도이혼소송장기화",
+  "역대최대15.8조외국인배당에도환율하락…연말23조고비넘을까[...",
+  "[CEO위클리]이재용4488억원배당·정기선150억원주식매입…함영주..."
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,37 @@
   [
    "2026-11-28T09:01:18.222854+09:00",
    "샀어야 말고 주식 이슈속 이걸 200만원 50만원짜리가 삼전닉스 됐다"
+  ],
+  [
+   "2026-11-28T09:11:12.856146+09:00",
+   "올라 복귀에 젠슨 1년 P500 엔비디아"
+  ],
+  [
+   "2026-11-28T09:11:12.856146+09:00",
+   "일주일 청와대"
+  ],
+  [
+   "2026-11-28T09:11:12.856146+09:00",
+   "결제하는 권한 먼저다 책임과 시대 설계가 AI가 대신"
+  ],
+  [
+   "2026-11-28T09:11:12.856146+09:00",
+   "매수 4종목 추천 넷째주 11월 KB증권"
+  ],
+  [
+   "2026-11-28T09:11:12.856146+09:00",
+   "장기화 이혼 마련에도 소송 무산 9440억 화해 최태원 노소영"
+  ],
+  [
+   "2026-11-28T09:11:12.856146+09:00",
+   "고비 역대 8조 하락 외국인 넘을까 23조 배당에도 연말 환율"
+  ],
+  [
+   "2026-11-28T09:11:12.856146+09:00",
+   "정기선 함영주 4488억원 주식 이재용 배당 150억원 매입"
   ]
  ],
- "last_run": "2026-11-28T09:01:47.595355+09:00",
+ "last_run": "2026-11-28T09:11:34.329066+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
