@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202611200121",
   "https://www.mydaily.co.kr/page/view/2026112212285023789",
   "https://www.ytn.co.kr/_ln/0101_202611221246327649",
   "https://www.dt.co.kr/article/12096509",
@@ -2999,10 +2998,10 @@
   "https://www.seoul.co.kr/news/international/2026/11/28/20261128500022?wlog_tag3=naver",
   "https://www.chosun.com/national/2026/11/28/2NZ7PUC7URDYJIQDK55ORMHMLA/",
   "https://www.sedaily.com/article/20119840",
-  "http://www.inews24.com/view/2031510"
+  "http://www.inews24.com/view/2031510",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003289088&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "‘매일유업·남양유업’최우수...공정위,대리점상생협력평가발표",
   "상표권‘간판값’빼면사실상적자…하이트진로·롯데지주등대기업...",
   "최교진교육부장관사의\"수능책임통감\"...'조희대탄핵추진'공방...",
   "상표권수입이순이익의4배…코오롱·한화등13곳",
@@ -6001,10 +6000,16 @@
   "“한국공정위,美기업계속공격”쿠팡제재‘맞대응’경고…동맹...",
   "‘마약출소’1년여만에…남경필장남,전연인폭행·스토킹혐의구...",
   "검찰은사라져도검사의질문은남았다…“나는과연옳았는가”[이재...",
-  "전연인성관계영상유포협박의혹⋯남경필장남'구속기로'"
+  "전연인성관계영상유포협박의혹⋯남경필장남'구속기로'",
+  "대통령님,'아기를위하여'넣은살균제를기억하십니까"
  ],
- "recent_sigs": [],
- "last_run": "2026-11-28T18:31:01.183580+09:00",
+ "recent_sigs": [
+  [
+   "2026-11-28T18:40:52.168263+09:00",
+   "기억하십니까 대통령님 살균제를 위하여 넣은 아기를"
+  ]
+ ],
+ "last_run": "2026-11-28T18:40:59.376196+09:00",
  "initialized": true,
  "press_names": {
   "getnews.co.kr": "글로벌경제신문",
