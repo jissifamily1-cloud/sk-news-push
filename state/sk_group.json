@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887621",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=173537",
   "https://www.businessplus.kr/news/articleView.html?idxno=120547",
   "https://www.etoday.co.kr/news/view/2653413",
   "https://www.etoday.co.kr/news/view/2653416",
@@ -2999,11 +2997,11 @@
   "https://www.daejonilbo.com/news/articleView.html?idxno=2316863",
   "https://www.busan.com/view/busan/view.php?code=2026112820201122447",
   "https://www.edaily.co.kr/News/Read?newsId=01767926645650312&mediaCodeNo=257",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000087583"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000087583",
+  "https://www.gokorea.kr/news/articleView.html?idxno=887566",
+  "https://www.kbsm.net/news/view.php?idx=543682"
  ],
  "seen_titles": [
-  "5GSA전국망열린다…통신품질경쟁,맞춤형서비스로",
-  "[오피셜]2026K리그1·K리그2'대상시상식'개인상후보명단발표…...",
   "美,'호남반도체'정조준하며\"협의불만족시관세25%\"압박(종합)",
   "SK이터닉스,풍백풍력생태계보전사례로산림ESG특별상",
   "한은금리인상에도...코스피'장중상승',車주가는'뚝'",
@@ -6001,7 +5999,9 @@
   "\"개인투자자보호해야\"투자자들긴급촛불집회",
   "한성숙총리,삼성·하이닉스부스찾아\"내년신입많이뽑아달라\"",
   "\"삼성은다들가고싶잖아요\"…한성숙총리가꺼낸말",
-  "\"주식으로고통받는국민1천만명\"…한투연,정부에대책촉구"
+  "\"주식으로고통받는국민1천만명\"…한투연,정부에대책촉구",
+  "개미투자자들서울역서촛불집회…공매도한시금지촉구",
+  "한국부동산원,건설사4곳과온실가스감축협력"
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,13 @@
   [
    "2026-11-28T20:31:20.267109+09:00",
    "국민 정부에 대책 촉구 한투연 1천만명 주식으로 고통받는"
+  ],
+  [
+   "2026-11-28T20:41:00.335012+09:00",
+   "한국부동산원 건설사 4곳과 온실가스 감축 협력"
   ]
  ],
- "last_run": "2026-11-28T20:31:28.933688+09:00",
+ "last_run": "2026-11-28T20:41:06.629766+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
