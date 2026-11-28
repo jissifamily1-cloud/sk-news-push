@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261117_0003871836",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/525209",
   "https://www.etoday.co.kr/news/view/2649614",
   "https://www.chosun.com/economy/industry-company/2026/11/18/DJ7LERSR6NFJVK7NARFLQVPUVY/",
   "https://www.sidae.com/article/2026111809192250533",
@@ -2999,11 +2997,11 @@
   "https://isplus.com/article/view/isp202611280054",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/28/2026112890128.html",
   "https://swtvnews.com/news/newsview.php?ncode=1065607623544910",
-  "https://www.dailian.co.kr/news/view/1720859/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1720859/?sc=Naver",
+  "https://www.maniareport.com/view.php?ud=202611281755284190dad9f33a29_19",
+  "https://www.starnewskorea.com/sports/2026/11/28/2026112818101084739"
  ],
  "seen_titles": [
-  "최종현학술원·요미우리,'한일신시대전략플랫폼'출범",
-  "부경원협·부산과학기술대,화훼산업발전·전문인력양성협력",
   "SK,'안정속쇄신'인사단행···에너지·반도체리더십일부교체",
   "'젠슨황쇼크'에도엔비디아,'호실적'발표…삼전·닉스장기수주탄력...",
   "데이식스영케이,왕홍분장대박났는데…\"SNS팔로워수줄어\"(라스)",
@@ -6001,7 +5999,9 @@
   "최민정,상하이서도여자1000m정상…월드투어4개대회연속금빛피날...",
   "쇼트트랙최민정,여자1000m4개대회연속금메달",
   "최민정,쇼트트랙월드투어女1,000m시즌4연속금메달",
-  "은퇴앞둔최민정,여자1000m4개대회연속금메달기염"
+  "은퇴앞둔최민정,여자1000m4개대회연속금메달기염",
+  "'1,000ｍ16차례레이스모두1위'최민정,상하이서도금메달",
+  "'은퇴결사반대나올만하네'최민정,16전16승'무패질주'...월드투어..."
  ],
  "recent_sigs": [
   [
@@ -6009,7 +6009,7 @@
    "아기를 위하여 넣은 기억하십니까 대통령님 살균제를"
   ]
  ],
- "last_run": "2026-11-28T19:20:30.345820+09:00",
+ "last_run": "2026-11-28T19:30:35.404109+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
