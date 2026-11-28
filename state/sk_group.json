@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fntimes.com/html/view.php?ud=202611261038487746179ad43907_18",
-  "http://www.inews24.com/view/2030669",
   "https://view.asiae.co.kr/article/2026112515515506355",
   "https://view.asiae.co.kr/article/2026112609501276358",
   "https://www.sidae.com/article/2026112611134799594",
@@ -2999,11 +2997,11 @@
   "https://www.thescoop.co.kr/news/articleView.html?idxno=312457",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509115",
   "https://www.viva100.com/article/20261128500049",
-  "https://magazine.hankyung.com/business/article/202611285937b"
+  "https://magazine.hankyung.com/business/article/202611285937b",
+  "https://www.newsway.co.kr/news/view?ud=2026112810350136829",
+  "http://www.4th.kr/news/articleView.html?idxno=2122902"
  ],
  "seen_titles": [
-  "U.S.takesaimatKorea’schipexpansion,threatenstariffsofupto25.",
-  "AI반도체부터에이전트까지…국내AI산업성과한자리에",
   "[배터리ESS빌드업][삼성SDI]3차입찰단가반등기대에도생산능력...",
   "우리투자증권종투사도약임무…남기천대표연임전망무게[임종룡...",
   "\"고객님,AI세요?\"⋯통신사,AI에이전트전화에어떻게대응하나[QnA]",
@@ -6001,7 +5999,9 @@
   "막판에살아난삼전닉스…12월첫째주'반전드라마'쓸까[주간증시해...",
   "증시급락에금융당국움직인다…증안펀드가동임박,증권주반등할까",
   "뉴욕증시,기술주반등에일제히상승⋯나스닥2.31%↑",
-  "'7만전자'외쳐난리났는데…이번엔\"4만전자\"더센폭탄던졌다"
+  "'7만전자'외쳐난리났는데…이번엔\"4만전자\"더센폭탄던졌다",
+  "뉴욕증시,반도체주반등에일제히상승…나스닥2.31%↑",
+  "호남반도체,트럼프벽에막히나"
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,13 @@
   [
    "2026-11-28T10:31:13.969907+09:00",
    "던졌다 난리 났는데 폭탄 4만전자 이번엔 7만전자 외쳐"
+  ],
+  [
+   "2026-11-28T10:41:07.862870+09:00",
+   "호남반도체 벽에 막히나 트럼프"
   ]
  ],
- "last_run": "2026-11-28T10:31:20.058727+09:00",
+ "last_run": "2026-11-28T10:41:13.818881+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
