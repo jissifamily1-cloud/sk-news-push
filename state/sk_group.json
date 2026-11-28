@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20261126093911403",
-  "https://www.mt.co.kr/stock/2026/11/26/2026112611054337104",
-  "http://www.finomy.com/news/articleView.html?idxno=267958",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000086826",
   "https://www.mediapen.com/news/view/1140226",
   "https://www.greened.kr/news/articleView.html?idxno=355606",
   "http://www.seouleconews.com/news/articleView.html?idxno=95262",
@@ -2999,13 +2995,13 @@
   "https://www.kukinews.com/article/view/kuk202611280006",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=316447",
   "https://www.todayeconomic.com/news/article.html?no=33034",
-  "https://www.ytn.co.kr/_ln/0104_202611281028306733"
+  "https://www.ytn.co.kr/_ln/0104_202611281028306733",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509122",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=888247",
+  "https://www.joongangenews.com/news/articleView.html?idxno=567309",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3765945"
  ],
  "seen_titles": [
-  "반도체'주52시간제특례'이견,접점찾을까:고용부장관김영훈기업...",
-  "SK케미칼바이오소재'에코젠',생활용품넘어커피도구시장진출",
-  "통신3사,AI에이전트고객센터대리통화제한…개인정보유출·오남용...",
-  "SK에코플랜트,AI데이터센터냉각등혁신기술7건선정",
   "금리올린날코스피1%대반등…점도표상단3.75%,금리고점에신중론...",
   "코스피,전날급락딛고반등···4700선회복",
   "코스피,한은기준금리인상에상승폭축소…4730선등락",
@@ -6001,7 +5997,11 @@
   "지식재산처,반도체·이차전지현장소통…기업IP경쟁력강화",
   "[살집말집]'고양한신더휴'비역세권에창릉신도시보다고분양가\"말...",
   "현대차주가5개월새70%증발…로봇이올린주가,본업이끌어내렸다",
-  "트럼프,관세압박재개...북,전술핵위협노골화"
+  "트럼프,관세압박재개...북,전술핵위협노골화",
+  "대신증권\"중국화웨이까지HBM개발속도전…한국반도체투톱에드리...",
+  "AI·반도체주돌아왔다…나스닥2.31%↑",
+  "최근5거래일SK텔레콤주가변동성확대",
+  "뉴욕증시AI·반도체급반등에3대지수일제히상승…나스닥2.31%껑충"
  ],
  "recent_sigs": [
   [
@@ -6389,7 +6389,7 @@
    "위협 재개 관세 전술핵 압박 노골화 트럼프"
   ]
  ],
- "last_run": "2026-11-28T10:51:20.996851+09:00",
+ "last_run": "2026-11-28T11:01:20.601927+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
