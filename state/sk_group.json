@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=355648",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602783",
   "https://zdnet.co.kr/view/?no=20261126135103",
   "https://www.socialvalue.kr/news/view/1065588541049767",
   "https://www.techm.kr/news/articleView.html?idxno=157828",
@@ -2999,11 +2997,11 @@
   "https://www.munhwa.com/article/11634787",
   "https://www.imaeil.com/page/view/2026112820401860047",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2394919",
-  "https://biz.heraldcorp.com/article/10952091"
+  "https://biz.heraldcorp.com/article/10952091",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=631635",
+  "https://www.mk.co.kr/article/12214616"
  ],
  "seen_titles": [
-  "코스피,기관매수에장중4770선수성…반도체반등에코스닥도2%대상...",
-  "SK인텔릭스'나무엑스',AI국제표준우수사례선정…산업AI포럼상수...",
   "SK하이닉스4.27%상승…인기종목거래대금선두",
   "삼성·SK신규팹에로봇길만든다…반도체AMR시장개화",
   "제주SK세레스틴·네게바,K리그12026베스트일레븐후보",
@@ -6001,17 +5999,11 @@
   "“삼성전자4만원까지떨어질수도”…‘섬뜩한전망’나왔다",
   "\"삼성워낙가고싶어하니까…\"韓총리,채용부스서꺼낸말",
   "SK에코플랜트,AI데이터센터·건설혁신기술7개선정…공동사업화추...",
-  "“12월만기다렸다”호재즐비한SK하이닉스…당장12월1일부터신바람..."
+  "“12월만기다렸다”호재즐비한SK하이닉스…당장12월1일부터신바람...",
+  "이주완\"삼성전자4만원까지내려갈수도\"4만전자전망…이유주시해...",
+  "‘키맨리스크’일단봉합됐지만…"
  ],
  "recent_sigs": [
-  [
-   "2026-11-28T15:01:29.473107+09:00",
-   "K반도체 1조 마이크론 동행 외인 주가"
-  ],
-  [
-   "2026-11-28T15:01:29.473107+09:00",
-   "샤워헤드가 티씨케이 바꾼다 실적 수익성 고부가 승부 제품으로"
-  ],
   [
    "2026-11-28T15:11:06.222393+09:00",
    "4032MWh 에너지저장장치 전력망의 국내 한국동서발전 구축 규모"
@@ -6259,9 +6251,13 @@
   [
    "2026-11-28T20:51:14.602275+09:00",
    "1일부터 12월 즐비한 신바람 12월만 당장 SK하이닉스 기다렸다 호재"
+  ],
+  [
+   "2026-11-28T21:11:00.579960+09:00",
+   "봉합 일단 키맨 됐지만 리스크"
   ]
  ],
- "last_run": "2026-11-28T21:01:27.599869+09:00",
+ "last_run": "2026-11-28T21:11:06.099941+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
