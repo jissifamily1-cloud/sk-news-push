@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202611261335514530923c501012_1",
-  "https://www.news1.kr/it-science/cc-newmedia/6366851",
-  "https://zdnet.co.kr/view/?no=20261126133114",
-  "https://www.dailian.co.kr/news/view/1719912/?sc=Naver",
-  "https://www.besteleven.com/news/articleView.html?idxno=314355",
-  "https://www.newsis.com/view/NISX20261126_0003884478",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=887621",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=173537",
   "https://www.businessplus.kr/news/articleView.html?idxno=120547",
@@ -2999,15 +2993,15 @@
   "https://www.kado.net/news/articleView.html?idxno=2087821",
   "https://biz.heraldcorp.com/article/10952582",
   "https://www.munhwa.com/article/11634783",
-  "https://www.slist.kr/news/articleView.html?idxno=785564"
+  "https://www.slist.kr/news/articleView.html?idxno=785564",
+  "https://www.sedaily.com/article/20120160",
+  "https://www.segye.com/newsView/20261128505952?OutUrl=naver",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2316863",
+  "https://www.busan.com/view/busan/view.php?code=2026112820201122447",
+  "https://www.edaily.co.kr/News/Read?newsId=01767926645650312&mediaCodeNo=257",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000087583"
  ],
  "seen_titles": [
-  "청약자3명중1명전용59㎡선택…국민평형84㎡아성에도전",
-  "LG,포수김민식영입…“풍부한경험을바탕으로팀포수진뎁스강화...",
-  "통신3사,'진짜5G'시대연다…AI·로봇시장공략",
-  "코스피내릴때고개든제약株…'바이오역습'시작되나",
-  "통신3사5GSA전국망상용화…재난통신부터로봇·드론까지",
-  "재난·로봇용맞춤5G나온다...통신3사SA전국망완성",
   "5GSA전국망열린다…통신품질경쟁,맞춤형서비스로",
   "[오피셜]2026K리그1·K리그2'대상시상식'개인상후보명단발표…...",
   "美,'호남반도체'정조준하며\"협의불만족시관세25%\"압박(종합)",
@@ -6001,17 +5995,15 @@
   "'9000피'꿈은어디로…개인투자자들\"공매도한시금지\"",
   "‘고점대비반토막’코스피에촛불든개미들…“공매도금지해야”",
   "韓총리,삼전닉스에“신입채용많이해달라”",
-  "투자자들,'폭락장'에분노의촛불…\"증시정상화대책마련하라\""
+  "투자자들,'폭락장'에분노의촛불…\"증시정상화대책마련하라\"",
+  "코스피폭락에투자자들“증시정상화대책마련해달라”",
+  "‘반토막코스피’에촛불든투자자들…“증시정상화대책마련해야”",
+  "\"개인투자자보호해야\"투자자들긴급촛불집회",
+  "한성숙총리,삼성·하이닉스부스찾아\"내년신입많이뽑아달라\"",
+  "\"삼성은다들가고싶잖아요\"…한성숙총리가꺼낸말",
+  "\"주식으로고통받는국민1천만명\"…한투연,정부에대책촉구"
  ],
  "recent_sigs": [
-  [
-   "2026-11-28T14:21:09.007283+09:00",
-   "내년 주도주는 주목할 업종은 바뀐다 반등해도 코스피 4개"
-  ],
-  [
-   "2026-11-28T14:21:09.007283+09:00",
-   "받나 확대로 SK스퀘어의 SK하이닉스 키운 이익이 재평가 주주환원"
-  ],
   [
    "2026-11-28T14:41:07.960507+09:00",
    "이어 삼성전자 시대 한화솔루션에 우주 개막 전력 100만기 데이터센터"
@@ -6255,9 +6247,17 @@
   [
    "2026-11-28T20:11:14.342615+09:00",
    "촛불 대비 반토막 고점 금지해야 공매도 개미들 코스피에"
+  ],
+  [
+   "2026-11-28T20:31:20.267109+09:00",
+   "가고 삼성은 총리가 꺼낸 싶잖아요 다들 한성숙"
+  ],
+  [
+   "2026-11-28T20:31:20.267109+09:00",
+   "국민 정부에 대책 촉구 한투연 1천만명 주식으로 고통받는"
   ]
  ],
- "last_run": "2026-11-28T20:21:08.931011+09:00",
+ "last_run": "2026-11-28T20:31:28.933688+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
