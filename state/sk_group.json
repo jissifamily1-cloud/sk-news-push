@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10950109",
-  "https://www.mt.co.kr/world/2026/11/26/2026112609005083113",
   "https://www.impacton.net/news/articleView.html?idxno=30831",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1733068",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723183",
@@ -2999,11 +2997,11 @@
   "https://weekly.chosun.com/news/articleView.html?idxno=60202",
   "https://www.seoulfn.com/news/articleView.html?idxno=644196",
   "http://www.newsprime.co.kr/news/article.html?no=756918",
-  "https://www.ngonews.kr/news/articleView.html?idxno=244461"
+  "https://www.ngonews.kr/news/articleView.html?idxno=244461",
+  "http://www.4th.kr/news/articleView.html?idxno=2122903",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509128"
  ],
  "seen_titles": [
-  "[OpeningMarket]KOSPI,KOSDAQReboundonBargainHunting",
-  "호반건설컨소,스마트건설챌린지최우수혁신상수상外",
   "“내일당장”vs“제도살펴야”…‘주52시간특례’놓고또맞붙었...",
   "[헤럴드광장]‘K-하이퍼스케일러’시대를그린다",
   "낸드이어D램까지…메모리값정점왔나",
@@ -6001,7 +5999,9 @@
   "17만원대삼성전자아직바닥아니다?…'4만전자'가능성있다",
   "崔\"화해하자\"vs盧\"거부\"···9440억원재산분할공방'해넘길까?'",
   "[해외시황]뉴욕증시,AI·기술주반등에3대지수상승…나스닥2.31%↑",
-  "참여연대\"7년늦은5G단독모드\"…통신사사과하고요금낮춰라"
+  "참여연대\"7년늦은5G단독모드\"…통신사사과하고요금낮춰라",
+  "이재명의히든카드김용범,K-증시살릴까",
+  "미국반도체주메모리부터기판까지폭등랠리…한미반도체·이수페타시..."
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,17 @@
   [
    "2026-11-28T11:21:06.213843+09:00",
    "단독모드 7년 사과하고 통신사 5G 낮춰라 요금 늦은 참여연대"
+  ],
+  [
+   "2026-11-28T11:31:13.659777+09:00",
+   "살릴까 증시 히든카드 이재명의 김용범"
+  ],
+  [
+   "2026-11-28T11:31:13.659777+09:00",
+   "미국 메모리부터 반도체주 이수페타시 한미반도체 폭등랠리 기판까지"
   ]
  ],
- "last_run": "2026-11-28T11:21:12.379492+09:00",
+ "last_run": "2026-11-28T11:31:21.802714+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
