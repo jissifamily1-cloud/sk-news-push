@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=560889",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=511412",
   "https://news.koreanbar.or.kr/news/articleView.html?idxno=36264",
   "http://www.lec.co.kr/news/articleView.html?idxno=752939",
   "https://www.ajunews.com/view/20261029171043650",
@@ -2999,11 +2997,11 @@
   "https://www.bloter.net/news/articleView.html?idxno=679854",
   "http://www.yonhapnewstv.co.kr/news/MYH20261128085004ivc",
   "https://www.thebigdata.co.kr/view.php?ud=2026112717515442810ecbf9426b_23",
-  "https://www.seoultimes.news/news/article.html?no=2000102826"
+  "https://www.seoultimes.news/news/article.html?no=2000102826",
+  "https://www.sisajournal.com/news/articleView.html?idxno=395256",
+  "https://www.seoulfn.com/news/articleView.html?idxno=644196"
  ],
  "seen_titles": [
-  "'가장예약어려운전시'...삼청동선혜원'거미줄작품'인기",
-  "트럼프“호르무즈파병해라”압박했는데…李대통령지지율최저",
   "대미투자실현·떨어진트럼프의힘…파병'결단'더신중해도되는이...",
   "'금4개'활약빛났지만…과제도남긴한국펜싱",
   "국립목포대,'섬과바다삶을품다'...개교80주년기념섬·바다특별...",
@@ -6001,7 +5999,9 @@
   "[디깅노트]4대그룹인사에담긴'유임의역설'",
   "\"제2의폭동막아라\"…서부지법·경찰합동훈련",
   "최태원·노소영화해무산…9440억마련에도이혼소송장기화",
-  "[CEO위클리]이재용4488억원배당·정기선150억원주식매입…함영주..."
+  "[CEO위클리]이재용4488억원배당·정기선150억원주식매입…함영주...",
+  "'쇼트트랙여왕'최민정은퇴예고…한국여자대표팀세대교체비상",
+  "崔\"화해하자\"vs盧\"거부\"···9440억원재산분할공방'해넘길까?'"
  ],
  "recent_sigs": [
   [
@@ -6019,9 +6019,13 @@
   [
    "2026-11-28T09:10:18.843313+09:00",
    "이재용 150억원 4488억원 함영주 배당 정기선 주식 매입"
+  ],
+  [
+   "2026-11-28T11:10:22.414042+09:00",
+   "넘길까 공방 vs 재산분할 화해하자 거부 9440억원"
   ]
  ],
- "last_run": "2026-11-28T11:00:42.654706+09:00",
+ "last_run": "2026-11-28T11:10:34.730436+09:00",
  "initialized": true,
  "press_names": {
   "mhns.co.kr": "더쎈뉴스(The CEN News)",
