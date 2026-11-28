@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/114097",
-  "https://biz.heraldcorp.com/article/10950131",
   "https://biz.heraldcorp.com/article/10950109",
   "https://www.mt.co.kr/world/2026/11/26/2026112609005083113",
   "https://www.impacton.net/news/articleView.html?idxno=30831",
@@ -2999,11 +2997,11 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=88586",
   "https://www.jemin.com/news/articleView.html?idxno=848727",
   "https://weekly.chosun.com/news/articleView.html?idxno=60202",
-  "https://www.seoulfn.com/news/articleView.html?idxno=644196"
+  "https://www.seoulfn.com/news/articleView.html?idxno=644196",
+  "http://www.newsprime.co.kr/news/article.html?no=756918",
+  "https://www.ngonews.kr/news/articleView.html?idxno=244461"
  ],
  "seen_titles": [
-  "美,800조원호남반도체정조준…\"약속어기면25%\"압박",
-  "코스피,1%안팎상승세…한은기준금리인상속탄력둔화",
   "[OpeningMarket]KOSPI,KOSDAQReboundonBargainHunting",
   "호반건설컨소,스마트건설챌린지최우수혁신상수상外",
   "“내일당장”vs“제도살펴야”…‘주52시간특례’놓고또맞붙었...",
@@ -6001,7 +5999,9 @@
   "[오늘일본은]도쿄는낮20도,북부는밤부터눈…일본교통차질·정전...",
   "마이크론·트렌드포스,D램업황전망엇갈려…메모리호황지속여부...",
   "17만원대삼성전자아직바닥아니다?…'4만전자'가능성있다",
-  "崔\"화해하자\"vs盧\"거부\"···9440억원재산분할공방'해넘길까?'"
+  "崔\"화해하자\"vs盧\"거부\"···9440억원재산분할공방'해넘길까?'",
+  "[해외시황]뉴욕증시,AI·기술주반등에3대지수상승…나스닥2.31%↑",
+  "참여연대\"7년늦은5G단독모드\"…통신사사과하고요금낮춰라"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-11-28T11:11:14.561558+09:00",
    "넘길까 화해하자 9440억원 거부 vs 공방 재산분할"
+  ],
+  [
+   "2026-11-28T11:21:06.213843+09:00",
+   "단독모드 7년 사과하고 통신사 5G 낮춰라 요금 늦은 참여연대"
   ]
  ],
- "last_run": "2026-11-28T11:11:27.745019+09:00",
+ "last_run": "2026-11-28T11:21:12.379492+09:00",
  "initialized": true,
  "press_names": {
   "siminilbo.co.kr": "siminilbo.co.kr",
